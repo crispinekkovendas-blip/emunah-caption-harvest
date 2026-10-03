@@ -1,0 +1,51 @@
+name: Harvest YouTube captions
+
+# Run by hand from the Actions tab (or `gh workflow run harvest.yml -f lang=he -f limit=3`).
+# Takes YouTube's own caption track for each video on a shelf and writes it to Supabase,
+# so the site only needs one Gemini request per video for the summary.
+
+on:
+  workflow_dispatch:
+    inputs:
+      lang:
+        description: 'Shelf: he, pt, es, own, tefilot, rezas, dedicados'
+        default: he
+      limit:
+        description: 'How many videos this run (0 = all)'
+        default: '3'
+      gap:
+        description: 'Seconds between videos'
+        default: '20'
+      rests:
+        description: 'Half-hour rests allowed when YouTube says "too many requests"'
+        default: '0'
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: python -m pip install --quiet --upgrade yt-dlp
+      - name: Harvest
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          PYTHON: python
+        run: >
+          node scripts/harvest-captions.mjs
+          --lang "${{ inputs.lang }}" --limit "${{ inputs.limit }}"
+          --gap "${{ inputs.gap }}" --rests "${{ inputs.rests }}"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: harvest-state-${{ inputs.lang }}
+          path: scripts/.harvest-state.json
+          if-no-files-found: ignore
