@@ -1,0 +1,40 @@
+name: Pre-translate subtitles
+
+# Translates the subtitles of every lesson with a study into English ahead of time, so the site's
+# player (English by default since 2026-10-05) shows them at once. Google's keyless endpoint, the
+# same cache rows the site writes (videos/transcript/<id>/en). Resumable: each run skips what is
+# already translated and stops cleanly within its time budget; the schedule carries on until done.
+# Runs here because the owner's 8 GB machine reaps long background jobs.
+
+on:
+  workflow_dispatch:
+    inputs:
+      to:
+        description: 'Target language'
+        default: en
+      minutes:
+        description: 'Time budget for this run (minutes)'
+        default: '330'
+  schedule:
+    - cron: '17 */6 * * *'
+
+concurrency:
+  group: pretranslate
+  cancel-in-progress: false
+
+jobs:
+  pretranslate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Translate
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          node --experimental-transform-types --import ./scripts/ts-hook.mjs scripts/pretranslate-subs.mjs \
+            --to "${{ inputs.to || 'en' }}" --minutes "${{ inputs.minutes || '330' }}"
