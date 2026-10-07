@@ -1,10 +1,14 @@
 name: Pre-translate subtitles
 
 # Translates the subtitles of every lesson with a study ahead of time, so the site's player shows
-# them at once: English (the default since 2026-10-05) and Portuguese (2026-10-06). Google's keyless
-# endpoint, the same cache rows the site writes (videos/transcript/<id>/<lang>). Resumable: each run
-# skips what is already translated and stops cleanly within its time budget; the schedule carries
-# on until done. Runs here because the owner's 8 GB machine reaps long background jobs.
+# them at once: English (the default) and Portuguese. Whole sentences, misheard words corrected,
+# Torah terms kept (src/utils/subs-context.ts); the same cache rows the site writes
+# (videos/transcript/<id>/<lang>). Resumable: each run skips what is already done and stops cleanly
+# within its time budget.
+#
+# Runs entirely on GitHub — the owner's computer can be off. A run that ends with work left starts
+# the next one itself (GitHub sometimes skips scheduled runs); the hourly schedule is the backup.
+# Never two at once: the concurrency group queues them.
 
 on:
   workflow_dispatch:
@@ -16,11 +20,15 @@ on:
         description: 'Time budget for the whole run (minutes)'
         default: '330'
   schedule:
-    - cron: '17 */6 * * *'
+    - cron: '17 * * * *'
 
 concurrency:
   group: pretranslate
   cancel-in-progress: false
+
+permissions:
+  contents: read
+  actions: write
 
 jobs:
   pretranslate:
@@ -40,9 +48,24 @@ jobs:
         run: |
           # one language after the other, sharing the run's budget: a finished language only skips
           end=$(( $(date +%s) + BUDGET * 60 ))
+          : > run.log
           for lang in ${LANGS//,/ }; do
             left=$(( (end - $(date +%s)) / 60 ))
-            if [ "$left" -lt 5 ]; then echo "budget used before $lang"; break; fi
+            if [ "$left" -lt 5 ]; then echo "time budget used — before $lang" | tee -a run.log; break; fi
             echo "── $lang · $left min left"
-            node --experimental-transform-types --import ./scripts/ts-hook.mjs scripts/pretranslate-subs.mjs --to "$lang" --minutes "$left"
+            node --experimental-transform-types --import ./scripts/ts-hook.mjs scripts/pretranslate-subs.mjs --to "$lang" --minutes "$left" 2>&1 | tee -a run.log
           done
+      - name: Start the next run when work is left
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          LANGS: ${{ inputs.to || 'en,pt' }}
+        run: |
+          # the script says "time budget used" when it stopped with lessons still to translate;
+          # "ten failures in a row" means Google is refusing — wait for the schedule instead
+          if grep -q "time budget used" run.log && ! grep -q "ten failures in a row" run.log; then
+            gh workflow run pretranslate.yml --repo "$GITHUB_REPOSITORY" -f to="$LANGS" -f minutes=330
+            echo "next run started"
+          else
+            echo "nothing left (or Google refusing) — not chaining"
+          fi
