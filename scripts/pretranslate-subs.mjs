@@ -16,7 +16,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { translateBatch } from '../src/utils/translate.ts'
+import { SUBS_VERSION, translateCues } from '../src/utils/subs-context.ts'
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..')
 const argv = process.argv.slice(2)
@@ -79,6 +79,8 @@ const study = JSON.parse(
   fs.readFileSync(path.join(ROOT, 'public', 'data', 'videos', 'study.json'), 'utf8'),
 ).study
 const ids = Object.keys(study)
+// the misheard-word corrections and the Torah terms (scripts/asr-candidates.mjs + one Claude pass)
+const LEXICON = JSON.parse(fs.readFileSync(path.join(ROOT, 'src', 'data', 'subs-lexicon.json'), 'utf8'))
 console.log(`${ids.length} lessons with a study → subtitles in ${TO}`)
 let done = 0
 let skipped = 0
@@ -92,15 +94,18 @@ for (const id of ids) {
   }
   const have = await get(KEY_TL(id, TO))
   const doc = await get(`videos/transcript/${id}`)
-  if (!doc?.cues?.length || doc.lang === TO || have?.texts?.length === doc.cues.length) {
+  // kept: a translation made by Claude, or one already made with the current method (SUBS_VERSION);
+  // an older line-by-line Google row is made again with whole sentences
+  const current = have?.texts?.length === doc?.cues?.length && (have.by || (have.v || 1) >= SUBS_VERSION)
+  if (!doc?.cues?.length || doc.lang === TO || current) {
     skipped++
     continue
   }
   const texts = doc.cues.map((c) => c[2])
-  const out = await translateBatch(texts, doc.lang, TO, { delayMs: 250 })
+  const out = await translateCues(doc.cues, doc.lang, TO, LEXICON, { delayMs: 250 })
   const ok = out.filter(Boolean).length
   if (ok >= texts.length * 0.8) {
-    await put(KEY_TL(id, TO), { v: 1, videoId: id, tl: TO, texts: out })
+    await put(KEY_TL(id, TO), { v: SUBS_VERSION, videoId: id, tl: TO, texts: out })
     done++
     failedRow = 0
     console.log(`${String(done).padStart(4)}  ${id}  ${ok}/${texts.length} cues`)
