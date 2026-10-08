@@ -49,7 +49,7 @@ async function supa(url, init = {}) {
       const res = await fetch(url, {
         ...init,
         headers: { ...H, ...(init.headers || {}) },
-        signal: AbortSignal.timeout(30000),
+        signal: AbortSignal.timeout(60000),
       })
       if (res.status >= 500 && attempt < 4) throw new Error(`Supabase ${res.status}`)
       return res
@@ -85,6 +85,7 @@ console.log(`${ids.length} lessons with a study → subtitles in ${TO}`)
 let done = 0
 let skipped = 0
 let failedRow = 0
+let supaErrors = 0
 let failed = 0
 for (const id of ids) {
   if (done >= LIMIT) break
@@ -92,8 +93,24 @@ for (const id of ids) {
     console.log('time budget used — the next run carries on from here')
     break
   }
-  const have = await get(KEY_TL(id, TO))
-  const doc = await get(`videos/transcript/${id}`)
+  // a slow or failing Supabase answer skips this lesson instead of ending the run (2026-10-08: three
+  // runs crashed on a TimeoutError and, crashed, did not start the next); the next run retries it
+  let have, doc
+  try {
+    have = await get(KEY_TL(id, TO))
+    doc = await get(`videos/transcript/${id}`)
+    supaErrors = 0
+  } catch (err) {
+    supaErrors++
+    console.log(`      ${id}  Supabase: ${String(err?.message || err).slice(0, 80)} — skipped`)
+    if (supaErrors >= 10) {
+      // still a stop that chains: the next run starts after a pause and carries on from here
+      console.log('time budget used — Supabase not answering, the next run carries on from here')
+      break
+    }
+    await sleep(30000)
+    continue
+  }
   // kept: a translation made by Claude, or one already made with the current method (SUBS_VERSION);
   // an older line-by-line Google row is made again with whole sentences
   const current = have?.texts?.length === doc?.cues?.length && (have.by || (have.v || 1) >= SUBS_VERSION)
@@ -105,7 +122,13 @@ for (const id of ids) {
   const out = await translateCues(doc.cues, doc.lang, TO, LEXICON, { delayMs: 250 })
   const ok = out.filter(Boolean).length
   if (ok >= texts.length * 0.8) {
-    await put(KEY_TL(id, TO), { v: SUBS_VERSION, videoId: id, tl: TO, texts: out })
+    try {
+      await put(KEY_TL(id, TO), { v: SUBS_VERSION, videoId: id, tl: TO, texts: out })
+    } catch (err) {
+      console.log(`      ${id}  not saved (Supabase: ${String(err?.message || err).slice(0, 80)}) — the next run redoes it`)
+      await sleep(30000)
+      continue
+    }
     done++
     failedRow = 0
     console.log(`${String(done).padStart(4)}  ${id}  ${ok}/${texts.length} cues`)
