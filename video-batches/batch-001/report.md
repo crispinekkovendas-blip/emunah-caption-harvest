@@ -1,7 +1,7 @@
 # batch-001
 
 17 of 25 lessons published · 0 skipped · status **pending**
-Tokens (all agents so far): 13.9M in (mostly cache reads) · 2.12M out · API-equivalent $36.45
+Tokens (all agents so far): 0.6M in (mostly cache reads) · 0.13M out · API-equivalent $2.26
 
 | lesson | state | detail |
 |---|---|---|
@@ -16,7 +16,7 @@ Tokens (all agents so far): 13.9M in (mostly cache reads) · 2.12M out · API-eq
 | 3uCM7scG1qY | ✓ published | 1687 lines · Nitzavim-Vayelech: unidade, teshuvá e Hester Panim |
 | 6Fpb8Wj2QeA | ✓ published | 1055 lines · Parashat Bereshit: o Bet, a criação e Chanoch |
 | V6JZmcsV3Ws | ✓ published | 1130 lines · Parashá Emor: o papel dos Cohanim e a santidade |
-| y91YhO9IyoY | ✗ will be redone (try 1) | bad line "1400	in His service, blessed be He. "And you who c" |
+| y91YhO9IyoY | waiting | 0/4 parts |
 | vWKWwORtlyE | ✓ published | 2418 lines · Mitzvot que pisamos com o calcanhar: Parashá Eikev |
 | OiCd8TC7XA4 | ✓ published | 1094 lines · Parashá Shoftim: juízes, justiça e preparo para Rosh HaShaná |
 | p99O6lCMc7U | ✓ published | 1947 lines · Bereshit: por que HaShem criou o mundo e o homem |
