@@ -1,0 +1,282 @@
+{
+ "name": "lane5-001",
+ "lane": 5,
+ "created": "2026-10-11T19:18:15.580Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "kkB2mbdrEmw",
+   "title": "Kidush sobre vinho e o estudo do Zohar",
+   "lines": 1939,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "NjZ4mOr5K4s",
+   "title": "Parashá Toledot: três gerações juntas e a prece de Rivká",
+   "lines": 1456,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "X7LFO1Y2uwQ",
+   "title": "Shelach Lecha: Tzitzit, Shabat e a decisão haláchica",
+   "lines": 2290,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Rv8a5Fa5nVs",
+   "title": "O nidui de Yehudá e o Dez de Tevet",
+   "lines": 1233,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1EyVUoioO0w",
+   "title": "Parashá Mishpatim: os segredos por trás das leis",
+   "lines": 1190,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "T0ZcdWI_SQw",
+   "title": "Tetzavé: o Mishkan, o óleo puro e as vestes do Cohen Gadol",
+   "lines": 1895,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "swsBPC3q0cU",
+   "title": "Vayikrá: quem chamou Moshe, humildade e a Shechiná",
+   "lines": 1029,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PEhmW6GJZZE",
+   "title": "Guerra do Irã e o início de Vaikrá: yaasê e taasê",
+   "lines": 1200,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "21sZ7SJ8R5U",
+   "title": "Parashat Shemini: as seis descidas de fogo e a alegria",
+   "lines": 1128,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "pwNC1QUow7U",
+   "title": "Pernas da serpente, Zevulun e Yissachar e o prazer da Torá",
+   "lines": 1292,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qV5MDQdDHgM",
+   "title": "Behaalotcha: a Menorá, os leviim e a jornada da alma",
+   "lines": 1797,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FrrWlY1ibms",
+   "title": "O anseio do judeu: Pesach Sheni e a consolação de Aharon",
+   "lines": 1511,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Ts5y82L6uhk",
+   "title": "Parashá Balak: Bilam, livre arbítrio e Shabat",
+   "lines": 2042,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "78Ib7VCiSog",
+   "title": "Vaetchanan: como Moshe rezou e o poder da Torá",
+   "lines": 1738,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "XbKAfWM4C84",
+   "title": "A santidade da Torá: aderir à luz de HaShem",
+   "lines": 1001,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "B_uJdiBc_kw",
+   "title": "Quem permitiu a Moshe quebrar as Tábuas?",
+   "lines": 378,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "8G24jpjieZo",
+   "title": "Parashá Reê: ver a bênção e a maldição",
+   "lines": 1653,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "I-8J-5amK4g",
+   "title": "Parashá Re'ê: fé, guarda dos olhos e a tsedacá de Elul",
+   "lines": 1421,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "IlFLOxi24jw",
+   "title": "Parashá Re'eh: bênção, maldição e o lugar escolhido",
+   "lines": 1065,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "fryUCgC88Vk",
+   "title": "Cidades de refúgio e o mês de Elul",
+   "lines": 1625,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "d9QtHANcZR4",
+   "title": "Elul: fugir para as cidades de refúgio",
+   "lines": 993,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "mKZwOhM-Oio",
+   "title": "Selichot, 13 Middot e o Acerto de Contas de Elul",
+   "lines": 1100,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "jtgfhyktLHI",
+   "title": "Teshuvá por amor, halachot do shofar e Selichot",
+   "lines": 3009,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_MJPwLzgc6I",
+   "title": "Teshuvá, Rosh HaShaná e a Hatarat Nedarim",
+   "lines": 2999,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rURNkWYG4KU",
+   "title": "Parashá Haazinu e o Seder de Yom Kipur",
+   "lines": 1166,
+   "parts": 3,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "kkB2mbdrEmw.p0",
+  "kkB2mbdrEmw.p1",
+  "kkB2mbdrEmw.p2",
+  "kkB2mbdrEmw.p3",
+  "kkB2mbdrEmw.p4",
+  "NjZ4mOr5K4s.p0",
+  "NjZ4mOr5K4s.p1",
+  "NjZ4mOr5K4s.p2",
+  "NjZ4mOr5K4s.p3",
+  "X7LFO1Y2uwQ.p0",
+  "X7LFO1Y2uwQ.p1",
+  "X7LFO1Y2uwQ.p2",
+  "X7LFO1Y2uwQ.p3",
+  "X7LFO1Y2uwQ.p4",
+  "X7LFO1Y2uwQ.p5",
+  "Rv8a5Fa5nVs.p0",
+  "Rv8a5Fa5nVs.p1",
+  "Rv8a5Fa5nVs.p2",
+  "1EyVUoioO0w.p0",
+  "1EyVUoioO0w.p1",
+  "1EyVUoioO0w.p2",
+  "T0ZcdWI_SQw.p0",
+  "T0ZcdWI_SQw.p1",
+  "T0ZcdWI_SQw.p2",
+  "T0ZcdWI_SQw.p3",
+  "T0ZcdWI_SQw.p4",
+  "swsBPC3q0cU.p0",
+  "swsBPC3q0cU.p1",
+  "swsBPC3q0cU.p2",
+  "PEhmW6GJZZE.p0",
+  "PEhmW6GJZZE.p1",
+  "PEhmW6GJZZE.p2",
+  "21sZ7SJ8R5U.p0",
+  "21sZ7SJ8R5U.p1",
+  "21sZ7SJ8R5U.p2",
+  "pwNC1QUow7U.p0",
+  "pwNC1QUow7U.p1",
+  "pwNC1QUow7U.p2",
+  "qV5MDQdDHgM.p0",
+  "qV5MDQdDHgM.p1",
+  "qV5MDQdDHgM.p2",
+  "qV5MDQdDHgM.p3",
+  "FrrWlY1ibms.p0",
+  "FrrWlY1ibms.p1",
+  "FrrWlY1ibms.p2",
+  "FrrWlY1ibms.p3",
+  "Ts5y82L6uhk.p0",
+  "Ts5y82L6uhk.p1",
+  "Ts5y82L6uhk.p2",
+  "Ts5y82L6uhk.p3",
+  "Ts5y82L6uhk.p4",
+  "78Ib7VCiSog.p0",
+  "78Ib7VCiSog.p1",
+  "78Ib7VCiSog.p2",
+  "78Ib7VCiSog.p3",
+  "XbKAfWM4C84.p0",
+  "XbKAfWM4C84.p1",
+  "XbKAfWM4C84.p2",
+  "B_uJdiBc_kw.p0",
+  "8G24jpjieZo.p0",
+  "8G24jpjieZo.p1",
+  "8G24jpjieZo.p2",
+  "8G24jpjieZo.p3",
+  "I-8J-5amK4g.p0",
+  "I-8J-5amK4g.p1",
+  "I-8J-5amK4g.p2",
+  "I-8J-5amK4g.p3",
+  "IlFLOxi24jw.p0",
+  "IlFLOxi24jw.p1",
+  "IlFLOxi24jw.p2",
+  "fryUCgC88Vk.p0",
+  "fryUCgC88Vk.p1",
+  "fryUCgC88Vk.p2",
+  "fryUCgC88Vk.p3",
+  "d9QtHANcZR4.p0",
+  "d9QtHANcZR4.p1",
+  "d9QtHANcZR4.p2",
+  "mKZwOhM-Oio.p0",
+  "mKZwOhM-Oio.p1",
+  "mKZwOhM-Oio.p2",
+  "jtgfhyktLHI.p0",
+  "jtgfhyktLHI.p1",
+  "jtgfhyktLHI.p2",
+  "jtgfhyktLHI.p3",
+  "jtgfhyktLHI.p4",
+  "jtgfhyktLHI.p5",
+  "jtgfhyktLHI.p6",
+  "_MJPwLzgc6I.p0",
+  "_MJPwLzgc6I.p1",
+  "_MJPwLzgc6I.p2",
+  "_MJPwLzgc6I.p3",
+  "_MJPwLzgc6I.p4",
+  "_MJPwLzgc6I.p5",
+  "_MJPwLzgc6I.p6",
+  "rURNkWYG4KU.p0",
+  "rURNkWYG4KU.p1",
+  "rURNkWYG4KU.p2"
+ ]
+}
