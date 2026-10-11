@@ -272,5 +272,8 @@
   "CW7ftOFOaJM.p4",
   "CW7ftOFOaJM.p5",
   "CW7ftOFOaJM.p6"
- ]
+ ],
+ "tries": {},
+ "done": [],
+ "skipped": []
 }
