@@ -1,0 +1,283 @@
+{
+ "name": "lane4-001",
+ "lane": 4,
+ "created": "2026-10-11T19:18:15.578Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "OWFWgzzqd38",
+   "title": "Beshalach: confiança em HaShem, do Mar ao maná",
+   "lines": 1760,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "BnzppOJvZ8o",
+   "title": "O espião Yehoshua: o nome, Levi e o medo de Amalek",
+   "lines": 1470,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HSGUYZbqqtQ",
+   "title": "Parashat Shemot: Mulheres, Tzedaká e Halachot de Shabat",
+   "lines": 1557,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "8PFgjjNOJeI",
+   "title": "Mishpatim: Hevu Metunim BaDin e a berachá mei'ein shalosh",
+   "lines": 1848,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "IOEnmUZUiGI",
+   "title": "Vayakhel-Pekudei: o Mishkan e o valor do detalhe",
+   "lines": 1049,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "KRbrpoRQvqA",
+   "title": "Shemini: o oitavo dia, Nadav e Avihu e a kashrut",
+   "lines": 1923,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "y6Go2buBEAU",
+   "title": "Parashá Shemini: Omer, Rabi Akiva e os psakim de Maran",
+   "lines": 2613,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "JowFR34RTm4",
+   "title": "Lashon hará e as três transgressões graves (Tazria-Metsorá)",
+   "lines": 1339,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "o1tFHDSUAco",
+   "title": "Tazria: brit milá, os sinais da tsará'at e a Shabat Rosh Chodesh",
+   "lines": 873,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qX32WZLapj0",
+   "title": "Comer antes da oração, Yom Tov e Pirkei Avot, Rav Ovadia",
+   "lines": 2051,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "SpEnPbp83JQ",
+   "title": "Behar-Bechukotai: Shemitá, Shavuot e Tzedaká",
+   "lines": 2297,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Kl0MN7aKgeQ",
+   "title": "Os estandartes do acampamento e o caixão de Yosef",
+   "lines": 1201,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "EAwbs7DjphA",
+   "title": "Parashá Bamidbar: o censo, os estandartes e Shmuel HaNavi",
+   "lines": 1190,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Fx_mFFTrSpo",
+   "title": "Mundo Vindouro, humildade de Aharon e Maase Shabat",
+   "lines": 2202,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "NLVHxbsPoy4",
+   "title": "A expansão de Moshê em cada geração (Parashat Korach)",
+   "lines": 1096,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "i6oPAjT5lss",
+   "title": "Torá, mesirat nefesh, shachar Shabat e a Parashá Korach",
+   "lines": 1788,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PwQLMyoOi1A",
+   "title": "Mei Meriva: Torá da Terra e Torá do Exílio",
+   "lines": 1172,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "V1jkq9t1kKw",
+   "title": "Guardar os olhos e a fé de que nada existe além de HaShem",
+   "lines": 1702,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FCD8NIaQ8s4",
+   "title": "Parashat Balak: Bilam, Balak e as perguntas de Rashi",
+   "lines": 1036,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "oaFeq59HsYE",
+   "title": "Pinchas, o Beit HaMikdash e o amor em Bein HaMetsarim",
+   "lines": 1419,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "7SvvOEs_vZQ",
+   "title": "Pinchas e \"Você me ensinou ao descer do Sinai",
+   "lines": 1654,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vpqEqtiwJG0",
+   "title": "Matot-Massê: o poder da fala e a jornada da vida",
+   "lines": 1808,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "or0Shd3CGic",
+   "title": "O poder da oração: os 515 pedidos de Moshé em Va'etchanan",
+   "lines": 1352,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qybrR9P-dc4",
+   "title": "Parashá Ekev: o calcanhar, a provação e o shefa",
+   "lines": 1602,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tlp_ulwAgJk",
+   "title": "Quem permitiu a Moshe quebrar as tábuas da aliança?",
+   "lines": 704,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "OWFWgzzqd38.p0",
+  "OWFWgzzqd38.p1",
+  "OWFWgzzqd38.p2",
+  "OWFWgzzqd38.p3",
+  "BnzppOJvZ8o.p0",
+  "BnzppOJvZ8o.p1",
+  "BnzppOJvZ8o.p2",
+  "BnzppOJvZ8o.p3",
+  "HSGUYZbqqtQ.p0",
+  "HSGUYZbqqtQ.p1",
+  "HSGUYZbqqtQ.p2",
+  "HSGUYZbqqtQ.p3",
+  "8PFgjjNOJeI.p0",
+  "8PFgjjNOJeI.p1",
+  "8PFgjjNOJeI.p2",
+  "8PFgjjNOJeI.p3",
+  "8PFgjjNOJeI.p4",
+  "IOEnmUZUiGI.p0",
+  "IOEnmUZUiGI.p1",
+  "IOEnmUZUiGI.p2",
+  "KRbrpoRQvqA.p0",
+  "KRbrpoRQvqA.p1",
+  "KRbrpoRQvqA.p2",
+  "KRbrpoRQvqA.p3",
+  "KRbrpoRQvqA.p4",
+  "y6Go2buBEAU.p0",
+  "y6Go2buBEAU.p1",
+  "y6Go2buBEAU.p2",
+  "y6Go2buBEAU.p3",
+  "y6Go2buBEAU.p4",
+  "y6Go2buBEAU.p5",
+  "JowFR34RTm4.p0",
+  "JowFR34RTm4.p1",
+  "JowFR34RTm4.p2",
+  "o1tFHDSUAco.p0",
+  "o1tFHDSUAco.p1",
+  "qX32WZLapj0.p0",
+  "qX32WZLapj0.p1",
+  "qX32WZLapj0.p2",
+  "qX32WZLapj0.p3",
+  "qX32WZLapj0.p4",
+  "SpEnPbp83JQ.p0",
+  "SpEnPbp83JQ.p1",
+  "SpEnPbp83JQ.p2",
+  "SpEnPbp83JQ.p3",
+  "SpEnPbp83JQ.p4",
+  "SpEnPbp83JQ.p5",
+  "Kl0MN7aKgeQ.p0",
+  "Kl0MN7aKgeQ.p1",
+  "Kl0MN7aKgeQ.p2",
+  "EAwbs7DjphA.p0",
+  "EAwbs7DjphA.p1",
+  "EAwbs7DjphA.p2",
+  "Fx_mFFTrSpo.p0",
+  "Fx_mFFTrSpo.p1",
+  "Fx_mFFTrSpo.p2",
+  "Fx_mFFTrSpo.p3",
+  "Fx_mFFTrSpo.p4",
+  "NLVHxbsPoy4.p0",
+  "NLVHxbsPoy4.p1",
+  "NLVHxbsPoy4.p2",
+  "i6oPAjT5lss.p0",
+  "i6oPAjT5lss.p1",
+  "i6oPAjT5lss.p2",
+  "i6oPAjT5lss.p3",
+  "PwQLMyoOi1A.p0",
+  "PwQLMyoOi1A.p1",
+  "PwQLMyoOi1A.p2",
+  "V1jkq9t1kKw.p0",
+  "V1jkq9t1kKw.p1",
+  "V1jkq9t1kKw.p2",
+  "V1jkq9t1kKw.p3",
+  "FCD8NIaQ8s4.p0",
+  "FCD8NIaQ8s4.p1",
+  "FCD8NIaQ8s4.p2",
+  "oaFeq59HsYE.p0",
+  "oaFeq59HsYE.p1",
+  "oaFeq59HsYE.p2",
+  "oaFeq59HsYE.p3",
+  "7SvvOEs_vZQ.p0",
+  "7SvvOEs_vZQ.p1",
+  "7SvvOEs_vZQ.p2",
+  "7SvvOEs_vZQ.p3",
+  "vpqEqtiwJG0.p0",
+  "vpqEqtiwJG0.p1",
+  "vpqEqtiwJG0.p2",
+  "vpqEqtiwJG0.p3",
+  "vpqEqtiwJG0.p4",
+  "or0Shd3CGic.p0",
+  "or0Shd3CGic.p1",
+  "or0Shd3CGic.p2",
+  "or0Shd3CGic.p3",
+  "qybrR9P-dc4.p0",
+  "qybrR9P-dc4.p1",
+  "qybrR9P-dc4.p2",
+  "qybrR9P-dc4.p3",
+  "tlp_ulwAgJk.p0",
+  "tlp_ulwAgJk.p1"
+ ]
+}
