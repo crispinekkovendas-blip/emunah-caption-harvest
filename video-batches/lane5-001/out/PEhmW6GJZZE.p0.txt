@@ -1,0 +1,450 @@
+0	It's one more minute. I turned it on, but it's one more minute.	Falta mais um minuto. Eu liguei, mas falta mais um minuto.
+1	H	H
+2	I'm all going...	Eu estou indo tudo...
+3	To Tzach	Para Tzach
+4	D	D
+5	After I pressed, what do I need to do	Depois que eu apertei, o que preciso fazer
+6	for the Rabbi to start speaking?	para o Rav começar a falar?
+7	Come on, he's not speaking, there's no sound.	Vamos lá, ele não fala, não há som.
+8	I'm checking the lines and nobody is speaking.	Estou conferindo as linhas e ninguém fala.
+9	Ah	Ah
+10	To do one	Fazer um
+11	Five, there is	Cinco, tem
+12	Yes, we're ready, five.	Sim, estamos prontos, cinco.
+13	Well, in a good hour, we begin the lesson on Parashat	Bem, em boa hora, começamos a aula da Parashá
+14	Vaikra 5786,	Vaikrá de 5786,
+15	and we begin the book of Vaikra.	e começamos o livro de Vaikrá.
+16	May it be His will that it be	Que seja da vontade de HaShem que seja
+17	for good and blessing, for joy and gladness, for salvation	para o bem e a bênção, para a alegria e a felicidade, para a salvação
+18	and consolation. Amen.	e a consolação. Amém.
+19	Gentlemen, before we begin the lesson,	Senhores, antes de começarmos a aula,
+20	I want to say two things about the war.	quero dizer duas coisas sobre a guerra.
+21	One is the Gemara.	Uma é a Guemará.
+22	Page two in the booklet: Gemara, tractate Avodah Zarah, page	Página dois na apostila: Guemará, tratado Avodá Zará, página
+23	2b. The Gemara says: Rabbi Chanina bar Papa expounded, Rabbi Simlai...	2b. A Guemará diz: Rabi Chanina bar Papa expôs, Rabi Simlai...
+24	Rabbi Chanina bar Papa expounded, Rabbi Simlai:	Rabi Chanina bar Papa expôs, Rabi Simlai:
+25	In the future to come, the Holy One, blessed be He, will bring a Torah scroll	No futuro, o Santo, bendito seja, trará um rolo da Torá
+26	and place it in His lap,	e o colocará em Seu colo,
+27	and say: whoever engaged in it, let him come and take his reward.	e dirá: quem se ocupou dela, venha e receba seu pagamento.
+28	Immediately all the nations will crowd in and come,	Imediatamente todas as nações virão, aglomeradas,
+29	and then the Holy One, blessed be He, says to them: stand	e então o Santo, bendito seja, lhes diz: apresentem-se
+30	one by one. Who approaches first? Rome. Next page already...	um a um. Quem se aproxima primeiro? Roma. A página seguinte já...
+31	we're on page three. Immediately the kingdom of	estamos na página três. Imediatamente o reino de
+32	Rome enters before Him first.	Roma entra primeiro diante Dele.
+33	Why was that? Because it is important.	Por quê? Porque é importante.
+34	This is an important kingdom. And how do we know it is important?	É um reino importante. E como sabemos que é importante?
+35	As it is written: "It shall devour the whole earth, tread it down and crush it." Said	Como está escrito: "Devorará toda a terra, a pisará e a esmagará." Disse
+36	Rabbi Yochanan: this is Rome, whose coin goes out into the entire	Rabi Yochanan: este é Roma, cuja moeda circula por todo o
+37	world.	mundo.
+38	What is "tivah"?	O que é "tivah"?
+39	Hello	Alô
+40	Rashi says: its fame, its culture. Yes.	Rashi diz: sua fama, sua cultura. Sim.
+41	But please look	Mas olhem, por favor,
+42	at the Maharsha.	no Maharsha.
+43	The Maharsha says that its coin goes out into the entire world. One can explain	O Maharsha diz que a moeda dela circula por todo o mundo. Pode-se explicar
+44	"tivah" as "its coin,"	"tivah" como "sua moeda",
+45	that its coin goes out into the entire world. So about whom	que a moeda dela circula por todo o mundo. Então de quem
+46	are we speaking?	estamos falando?
+47	The United States.	Dos Estados Unidos.
+48	You know, perhaps you know, maybe also the shekel.	Sabe, talvez você saiba, talvez também o shekel.
+49	I don't know. Which currency goes around the whole world?	Não sei. Que moeda circula pelo mundo todo?
+50	The dollar.	O dólar.
+51	So that is the kingdom that enters first. The Holy One,	Então esse é o reino que entra primeiro. O Santo,
+52	blessed be He, asks them: what...	bendito seja, lhes pergunta: o que...
+53	We skip a few lines and reach the lines	Pulamos algumas linhas e chegamos às linhas
+54	that follow. Line two, ah.	seguintes. Linha dois, ah.
+55	"With what did you occupy yourselves?"	"Com o que vocês se ocuparam?"
+56	The Holy One, blessed be He, asks them: you say that I	O Santo, bendito seja, lhes pergunta: vocês dizem que eu
+57	said whoever engaged in Torah... so with what did you engage? They say	disse que quem se ocupou com a Torá... então com o que vocês se ocuparam? Dizem
+58	before Him: Master of the Universe, we established many markets,	diante Dele: Senhor do Universo, estabelecemos muitos mercados,
+59	built many bathhouses, accumulated much silver and gold,	construímos muitas casas de banho, acumulamos muita prata e ouro,
+60	and we did all of it only for Israel, so that	e fizemos tudo isso apenas por Israel, para que
+61	they would engage in Torah.	se ocupassem da Torá.
+62	In Avodah Zarah.	Em Avodá Zará.
+63	Yes, yes, that's the Gemara in Avodah Zarah.	Sim, sim, essa é a Guemará em Avodá Zará.
+64	The Gemara says: the Holy One, blessed be He, says to them:	A Guemará diz: o Santo, bendito seja, lhes diz:
+65	Fools of the world, everything you did you did for your own needs.	Tolos do mundo, tudo o que fizeram, fizeram para as suas próprias necessidades.
+66	You established markets to seat prostitutes in them,	Estabeleceram mercados para pôr prostitutas neles,
+67	bathhouses	casas de banho
+68	to pamper yourselves in them. The silver and gold are Mine. What do you	para se deleitarem nelas. A prata e o ouro são Meus. O que vocês
+69	say? "Much silver and gold"? That is Mine, as it is said: "Mine is	dizem? "Muita prata e ouro"? Isso é Meu, como se diz: "Minha é
+70	the silver and Mine the gold, declares HaShem." Good.	a prata e Meu o ouro, diz HaShem." Bem.
+71	The Gemara continues.	A Guemará continua.
+72	They leave, they leave dejected.	Eles saem, saem abatidos.
+73	The kingdom of Rome left. This is line eight. Then	O reino de Roma saiu. Esta é a linha oito. Então
+74	the kingdom of Persia entered after it. Why was its reason that it was important next?	o reino da Pérsia entrou depois dele. Por que a Pérsia vem a seguir em importância?
+75	The Persians, those after the Romans, the important ones after	Os persas, depois dos romanos, os importantes depois
+76	the Romans. Why? How do we know?	dos romanos. Por quê? Como sabemos?
+77	How do we know? Thank you, how do we know?	Como sabemos? Obrigado, como sabemos?
+78	As it is written: "And behold, another beast, a second, like a bear."	Como está escrito: "E eis outra besta, a segunda, semelhante a um urso."
+79	Rav Yosef taught: these are the Persians, who eat	Rav Yosef ensinou: estes são os persas, que comem
+80	like a bear, drink like a bear, and grow fat like a bear. The Holy One, blessed be He, says	como um urso, bebem como um urso e engordam como um urso. O Santo, bendito seja, diz
+81	to them: with what did you occupy yourselves? They say	a eles: com o que vocês se ocuparam? Eles dizem
+82	before Him: Master of the Universe, we built many bridges,	diante Dele: Senhor do Universo, construímos muitas pontes,
+83	conquered many fortresses, and waged many wars,	conquistamos muitas fortalezas e travamos muitas guerras,
+84	and we did all of it only for Israel, so that	e fizemos tudo isso apenas por Israel, para que
+85	they would engage in Torah.	se ocupassem da Torá.
+86	The Holy One, blessed be He, says to them: fools of the world, all	O Santo, bendito seja, lhes diz: tolos do mundo, tudo
+87	that you did, you did only for your own needs.	o que fizeram, fizeram apenas para as suas próprias necessidades.
+88	You built bridges	Construíram pontes
+89	to collect tolls, fortresses to impose forced labor. What	para cobrar pedágio, fortalezas para impor trabalho forçado. O que
+90	is "angaria"? Rashi says: service of the king.	é "angaria"? Rashi diz: serviço do rei.
+91	Wars:	Guerras:
+92	I made them, as it is said, "HaShem is a man of war, HaShem is His name."	Eu as fiz, como se diz: "HaShem é homem de guerra, HaShem é o Seu nome."
+93	Note: regarding the first two things, which they	Notem: sobre as duas primeiras coisas, que eles
+94	claim, we built bridges and we built fortresses and we did	alegam, construímos pontes e construímos fortalezas e fizemos
+95	it for Israel to engage in Torah, He tells them:	isso por Israel, para que se ocupem da Torá, Ele lhes diz:
+96	not true, you did it for yourselves.	não é verdade, vocês fizeram isso para si mesmos.
+97	The third thing, they say, we also made wars,	A terceira coisa: dizem que também fizeram guerras,
+98	and we did that for Israel too. What does He say to them? He	e que também fizeram isso por Israel. O que Ele lhes diz? Ele
+99	doesn't say you did it for yourselves; you, you didn't	não diz que vocês fizeram isso para si mesmos; vocês, vocês nem
+100	do it at all, I did it.	fizeram, Eu fiz.
+101	Rabbi Bronfman called me last Friday like this:	O rabino Bronfman me ligou na sexta passada:
+102	why should it be so? Why, why, regarding wars too,	por que seria assim? Por que, também quanto às guerras,
+103	to tell them you did it for yourselves? The Romans' silver and gold is more...	dizer-lhes que fizeram para si mesmos? A prata e o ouro dos romanos é mais...
+104	What? The Romans' silver and gold is more...	O quê? A prata e o ouro dos romanos é mais...
+105	Right, that's less, because He doesn't say you did it	Certo, isso é menos, porque Ele não diz que vocês fizeram isso
+106	for yourselves or not for yourselves? He says	para si mesmos ou não para si mesmos? Ele diz:
+107	you didn't multiply, that's Mine. Here He doesn't say	vocês não multiplicaram, isso é Meu. Aqui Ele não diz
+108	Mine; He says, wars, you did not make. What does	Meu; Ele diz: guerras, vocês não fizeram. O que
+109	that mean? We did not make?	significa? Não fizemos?
+110	So who made them? I made them. By the way, because the angels	Então quem fez? Eu fiz. Aliás, porque os anjos
+111	above come first, there is no war before there is the angel of war. Second thing.	lá em cima vêm primeiro, não há guerra antes de haver o anjo da guerra. Segunda coisa.
+112	Nice, nice, an interesting idea.	Bonito, bonito, uma ideia interessante.
+113	One, two... In Egypt, the Holy One,	Um, dois... No Egito, o Santo,
+114	blessed be He, says:	bendito seja, diz:
+115	I want to expand on what you're saying.	Quero ampliar o que você está dizendo.
+116	Thirty-five years ago there was the Gulf War. The Gulf War	Há 35 anos houve a Guerra do Golfo. A Guerra do Golfo
+117	was when Saddam Hussein threatened to wipe out the State of	foi quando Saddam Hussein ameaçou destruir o Estado de
+118	Israel with chemical missiles. He had Scud missiles,	Israel com mísseis químicos. Ele tinha mísseis Scud,
+119	he said he was putting chemicals on them too, and he	disse que colocava também armas químicas neles e
+120	fires them. There was terrible fear. Whoever remembers it,	os lançava. Havia um medo terrível. Quem se lembra disso,
+121	it was real, awful fear.	era um medo real, aterrorizante.
+122	And even then America, the president then was Bush the first,	E mesmo então a América, o presidente era Bush, o primeiro,
+123	the father, did it.	o pai, fez isso.
+124	So, so America got involved. Why on earth	Então a América entrou na questão. Por que
+125	did America get involved?	a América entrou na questão?
+126	Since when does anyone care	Desde quando alguém se importa
+127	about us, in the middle of all this?	conosco, no meio de tudo isso?
+128	The Holy One, blessed be He, gave this Saddam Hussein the idea	HaShem deu a esse Saddam Hussein a ideia
+129	to conquer Kuwait, all the world's oil.	de conquistar o Kuwait, todo o petróleo do mundo.
+130	At that moment he raised the whole world against him, and then	Naquele momento ele levantou o mundo inteiro contra si, e então
+131	America formed a coalition with all the countries.	a América formou uma coalizão com todos os países.
+132	They only told us, you stay out of it, so we're fine.	Só nos disseram: vocês não interfiram, então ficamos bem.
+133	We didn't, but they did, and then there was, whoever remembers,	Nós não, mas eles sim, e então houve, quem se lembra,
+134	the first appearance of the Tomahawk, a cruise missile,	a primeira aparição do Tomahawk, um míssil de cruzeiro
+135	guided,	guiado,
+136	it goes right, left, you control it after	vai para a direita, para a esquerda, você o controla depois
+137	you launch it. It was a wonder of wonders. And then I	de lançá-lo. Era uma maravilha das maravilhas. E então eu
+138	heard a talk from Rabbi Don Segal 35 years ago. He	ouvi uma palestra do rabino Don Segal há 35 anos. Ele
+139	said this: people think...	disse assim: as pessoas pensam...
+140	He didn't say it like that, he said it like this: after all,	Ele não disse assim, ele disse assim: afinal,
+141	the whole time there was the danger of a world war. The Soviet	o tempo todo havia o perigo de uma guerra mundial. A União
+142	Union against the United States. In the year	Soviética contra os Estados Unidos. No ano
+143	79, sorry, 89,	79, desculpe, 89,
+144	the Soviet Union fell, it fell apart, and that's it, simple	a União Soviética caiu, se desfez, e pronto, simples
+145	as that. And then in '91 there was this war. He says,	assim. E então em 91 houve essa guerra. Ele diz:
+146	look, if the Holy One, blessed be He, hadn't broken up the Soviet Union,	vejam, se HaShem não tivesse desfeito a União Soviética,
+147	America could not	a América não poderia
+148	have done such a thing, because it would have become a world war.	ter feito tal coisa, porque teria virado uma guerra mundial.
+149	After that he said, but you think that only the Soviet Union's collapse is what the Holy One, blessed be	Depois ele disse: mas vocês pensam que só o colapso da União Soviética é o que HaShem
+150	He did.	fez.
+151	Even the existence of the Soviet Union was also for the sake of	Mesmo a existência da União Soviética também foi para o bem de
+152	Israel. How? Very simply: if there hadn't been the Soviet	Israel. Como? Muito simples: se não tivesse havido a União
+153	Union, America would have developed such missiles.	Soviética, a América teria desenvolvido tais mísseis.
+154	If not, who would have made such weapons of destruction? Who	Se não, quem teria feito tais armas de destruição? Quem
+155	would have made them?	as teria feito?
+156	So you see that wars, I made them. That one	Então você vê que as guerras, Eu as fiz. Aquele
+157	conquers Kuwait, suddenly. What, you conquer Kuwait?	conquista o Kuwait, de repente. Como, você conquista o Kuwait?
+158	Don't you understand you're raising the whole world against you?	Não entende que está levantando o mundo inteiro contra você?
+159	And he did it, and the whole world came to fight,	E ele fez, e o mundo inteiro veio lutar,
+160	and they think they're doing it for the oil. No,	e eles pensam que fazem isso pelo petróleo. Não,
+161	what does oil have to do with the Holy One, blessed be He?	o que o petróleo tem a ver com HaShem?
+162	Why the war? Ben Rosa Lumchin... they thought	Por que a guerra? Ben Rosa Lumchin... pensavam
+163	earlier that the Russians would not help the Iranians. Now	antes que os russos não ajudariam os iranianos. Agora
+164	war. Now let's continue. Today the missiles,	guerra. Agora continuemos. Hoje os mísseis,
+165	the Americans,	os americanos,
+166	which they have had for decades, they never used anything, because	que têm há décadas, nunca usaram nada, porque
+167	they made those stealth planes to fight alone against	fizeram esses aviões furtivos para lutar sozinhos contra
+168	Russia. Russia. And now suddenly one plane	a Rússia. A Rússia. E agora de repente um avião
+169	is able to take down a whole neighborhood. What...	é capaz de derrubar um bairro inteiro. O que...
+170	Now let's continue.	Agora vamos continuar.
+171	Before	Antes
+172	I don't know how many, 20 years, 30 years ago, there was already	não sei quantos, 20 anos, 30 anos atrás, já havia
+173	the Baba Sali, that's even earlier, even before that,	o Baba Sali, isso é ainda mais cedo, ainda antes,
+174	yes, the Baba Sali had a special connection	sim, o Baba Sali tinha uma ligação especial
+175	with the Admor of Lelov.	com o Admor de Lelov.
+176	And one day his attendant came on a Sunday and asked	E um dia o seu assistente chegou num domingo e perguntou
+177	the Baba Sali: where were you on Shabbat? He said, in Meron.	ao Baba Sali: onde o senhor estava no Shabat? Ele disse: em Meron.
+178	What, what did you do in Meron? Shabbat... Of Lelov,	O quê, o que fez em Meron? Shabat... De Lelov,
+179	Shabbat of Lelov, in Meron.	Shabat de Lelov, em Meron.
+180	He said to him, the Admor of Lelov is there, yes, take me	Disse-lhe: o Admor de Lelov está lá, sim, leve-me
+181	there now from Netivot to Meron, like, okay, they tried.	para lá agora, de Netivot a Meron, tudo bem, eles tentaram.
+182	The Admor was already very ill then, he was	O Admor já estava muito doente então, estava
+183	paralyzed on half his body, so there was some booth of	paralisado de metade do corpo, havia ali uma cabana do
+184	the Ministry of Religions there, the Admor lay there.	Ministério dos Assuntos Religiosos, o Admor estava deitado ali.
+185	The Baba Sali arrived, they didn't speak about anything,	O Baba Sali chegou, não falaram de nada,
+186	they just sat with one another for a quarter of an hour, 20 minutes, and then	apenas ficaram sentados um com o outro por um quarto de hora, 20 minutos, e então
+187	the Baba Sali got up and left and asked to be taken	o Baba Sali se levantou, saiu e pediu que o levassem
+188	to pray at the tomb, and he did not go to Rabbi Shimon,	para rezar no túmulo, e não foi ao de Rabi Shimon,
+189	he went to his son, to Rabbi Elazar, there he said	foi ao de seu filho, Rabi Elazar, ali ele disse
+190	Psalms. The attendant asked him what was going on. So he	Salmos. O assistente lhe perguntou do que se tratava. Então ele
+191	said: now I spoke with the Admor.	disse: agora falei com o Admor.
+192	We spoke between ourselves that what the enemies want to do	Conversamos entre nós que o que os inimigos querem fazer
+193	to us, let them do to one another.	conosco, que o façam uns aos outros.
+194	And that's how the Iran-Iraq war began. What year	E foi assim que começou a guerra Irã-Iraque. Em que ano
+195	was that?	foi isso?
+196	'84, that's even before.	84, isso é ainda antes.
+197	So they made the war. The Holy One, blessed be He, says: you	Então eles fizeram a guerra. HaShem diz: vocês
+198	did nothing, I did it.	não fizeram nada, Eu fiz.
+199	Now let's move on to the present war. It's	Agora passemos à guerra de agora. É
+200	unbelievable, this Trump is crazy,	inacreditável, esse Trump é louco,
+201	completely out of his mind, not rational at all, nobody	completamente fora de si, nada racional, ninguém
+202	knows what he wants.	sabe o que ele quer.
+203	He himself doesn't know what he wants. He started	Nem ele mesmo sabe o que quer. Começou
+204	the war, said I'm not putting boots on the ground there, only	a guerra, disse que não vai pôr tropas no terreno, só
+205	bombings. And suddenly today he's already talking about conquering	bombardeios. E de repente hoje ele já fala de conquistar
+206	that island and the Strait of Hormuz, and he...	aquela ilha e o Estreito de Ormuz, e ele...
+207	And you see these are irrational things. It's against	E você vê que são coisas irracionais. É contra
+208	all his politics. For him, in two months	toda a política dele. Para ele, em dois meses
+209	there are elections there. If the price of oil goes up,	há eleições lá. Se o preço do petróleo sobe,
+210	he is going into these elections	ele vai a essas eleições
+211	with the Senate. The whole Senate will be against him,	com o Senado. Todo o Senado estará contra ele,
+212	and he's doing abnormal things. So what did he	e ele faz coisas anormais. Então o que ele
+213	do? The Holy One, blessed be He, did it. The Holy One,	fez? HaShem fez. HaShem
+214	blessed be He, says: wars, I made them. You can say	diz: guerras, Eu fiz. Você pode dizer
+215	you built a bridge; I tell you that you did it for	que construiu uma ponte; Eu lhe digo que fez isso para
+216	yourself, not for Israel. You can say you built	si mesmo, não por Israel. Você pode dizer que construiu
+217	fortresses, built beautiful cities, you did it, you say	fortalezas, construiu belas cidades, que fez isso, você diz
+218	for Israel. Not true, you're a liar, you did it	que por Israel. Não é verdade, você é mentiroso, fez isso
+219	for yourself. Wars,	para si mesmo. Guerras,
+220	you did not make, you're not in the picture, I made them,	você não fez, você não está nisso, Eu fiz,
+221	from beginning to end. There is nothing of theirs here.	do começo ao fim. Não há aqui nada deles.
+222	Now you say a correct thing. This, this plane,	Agora você diz uma coisa certa. Esse, esse avião,
+223	the stealth one and all that, they created it	o furtivo e tudo isso, eles o criaram
+224	for the Russians. They didn't create it for	para os russos. Não o criaram para
+225	something else. After all, each such plane costs	outra coisa. Afinal, cada avião desses custa
+226	two billion dollars. That's why they made only 20 or	dois bilhões de dólares. Por isso fizeram só 20 ou
+227	21 of them and that's it. They don't produce more.	21 deles e pronto. Não produzem mais.
+228	Rex.	Rex.
+229	What was it? All the talk was against Russia, against	Como era? Toda a conversa era contra a Rússia, contra
+230	the Soviet Union back then. Who thought? They didn't use	a União Soviética naquele tempo. Quem pensaria? Não usaram
+231	it then, they didn't use it, now suddenly they need	isso então, não usaram, agora de repente precisam
+232	it. Unbelievable. Wars, says the Holy One,	disso. Inacreditável. Guerras, diz HaShem,
+233	blessed be He, I made them. You say, no, look, you	Eu fiz. Você diz: não, olhe, você
+234	won't set foot there. Now he's already talking, yes,	não vai pisar lá. Agora ele já fala, sim,
+235	of setting foot.	em pisar.
+236	Now I want to show you an amazing thing.	Agora quero lhes mostrar uma coisa surpreendente.
+237	Amazing: in the year 1601.	Surpreendente: no ano de 1601.
+238	How many years have passed since then?	Quantos anos passaram desde então?
+239	425 years, right? We're in 2025 today.	425 anos, certo? Estamos em 2025 hoje.
+240	2026 already. So exactly 425 years. Who was alive then?	2026 já. Então exatamente 425 anos. Quem vivia então?
+241	Our holy teacher, Rabbi Yosef Karo, the Ari. That was the	Nosso santo mestre, Rabi Yosef Karo, o Ari. Era a
+242	period.	época.
+243	There was one of the rabbis in Tzfat called Rabbi Shmuel	Havia um dos rabinos de Tzfat chamado Rav Shmuel
+244	Laniado,	Laniado,
+245	and the Beit Yosef sent him to be rabbi in Syria, in the city of	e o Beit Yosef o enviou para ser rabino na Síria, na cidade de
+246	Aleppo.	Aleppo.
+247	What? The author of Kelim.	O quê? O autor dos Kelim.
+248	He wrote a book called Keli Yakar. We know	Ele escreveu um livro chamado Keli Yakar. Conhecemos
+249	the Keli Yakar on the Torah, which is by an Ashkenazi	o Keli Yakar sobre a Torá, que é de um
+250	Jew named Rabbi Luntschitz. But he composed	judeu asquenazita chamado Rabi Luntschitz. Mas ele compôs
+251	Keli Yakar on the Early Prophets and on the Later	Keli Yakar sobre os Profetas Anteriores e sobre os Profetas
+252	Prophets: Kli Paz. Kli Paz. Now look	Posteriores: Kli Paz. Kli Paz. Agora olhem
+253	on page five in the booklet.	na página cinco da apostila.
+254	Isaiah chapter 34. Isaiah chapter 34, page five.	Isaías capítulo 34. Isaías capítulo 34, página cinco.
+255	Isaiah chapter 34: "For My sword has drunk its fill in heaven,"	Isaías capítulo 34: "Pois a Minha espada se saciou nos céus,"
+256	"has drunk its fill." What is "ribtah"?	"se saciou." O que é "ribtah"?
+257	Rashi says: to kill the ministering angels above, and afterward it will descend	Rashi diz: para matar os príncipes celestiais, e depois descerá
+258	upon the nation of Ishmael below, for no nation is struck unless its	sobre a nação de Ishmael embaixo, pois nenhuma nação é ferida sem que o seu
+259	prince on high is struck first.	príncipe nas alturas seja ferido antes.
+260	"For My sword has drunk its fill in heaven; behold, upon Edom it will descend,	"Pois a Minha espada se saciou nos céus; eis que sobre Edom descerá
+261	and upon the people of My ban for judgment."	e sobre o povo do Meu anátema, para julgamento."
+262	"The sword of HaShem is filled with blood, it is gorged with fat, with the blood of lambs	"A espada de HaShem está cheia de sangue, está farta de gordura, do sangue de cordeiros
+263	and goats, with the fat of the kidneys of rams, for HaShem has a sacrifice	e bodes, da gordura dos rins de carneiros, pois HaShem tem um sacrifício
+264	in Bozrah, and a great slaughter in the land of Edom."	em Bozrá e uma grande matança na terra de Edom."
+265	What is "a sacrifice for HaShem in Bozrah"? What is it, where is	O que é "um sacrifício para HaShem em Bozrá"? O que é, onde fica
+266	Bozrah? What is it? Iraq, Iraq?	Bozrá? O que é? Iraque, Iraque?
+267	Ah, it's Iraq.	Ah, é o Iraque.
+268	Let's look at page nine. The Kli Paz, Rabbi	Vamos olhar a página nove. O Kli Paz, Rav
+269	Shmuel Laniado, says:	Shmuel Laniado, diz:
+270	"For a sacrifice for HaShem in Bozrah": a country not far from Babylon,	"Pois um sacrifício para HaShem em Bozrá": um país não longe da Babilônia,
+271	there, Bozrah, and it is between the border of Assyria and Persia	ali, Bozrá, e fica entre a fronteira da Assíria e da Pérsia
+272	and the border of the land of Edom: Hormuz.	e a fronteira da terra de Edom: Ormuz.
+273	And today it is under the rule of the Ishmaelites.	E hoje está sob o governo dos ismaelitas.
+274	And blessed is the One who knows the truth of these matters. Perhaps there will be	E bendito é Aquele que conhece a verdade dessas coisas. Talvez haja
+275	a war there at the end of days.	uma guerra ali no fim dos dias.
+276	That's 400 years back. There was no one who could think	Isso foi há 400 anos. Não havia quem pudesse pensar
+277	that...	que...
+278	But what does this mean? We are not prophets. He too	Mas o que isso significa? Nós não somos profetas. Ele também
+279	was not a prophet, a holy man, apparently he spoke	não era profeta, um homem santo, ao que parece, falou
+280	things that HaShem gave him. But what we take away	coisas que HaShem lhe deu. Mas o que tiramos
+281	is one thing: the time is an auspicious time. First, it's	disso é uma coisa: o tempo é propício. Primeiro, é o
+282	the month of Nissan. Second, we see the time is a time of	mês de Nissan. Segundo, vemos que o tempo é de
+283	things happening. Things are being read, and who knows whether	coisas acontecendo. Coisas se leem, e quem sabe se
+284	this isn't an auspicious time for the coming of Mashiach. And we	este não é um tempo propício para a vinda do Mashiach. E nós
+285	at least must try to direct our hearts more toward	ao menos devemos nos esforçar para voltar mais o coração para
+286	Jerusalem, in compassion.	Jerusalém, com compaixão.
+287	At least it's as if we don't really have anyone	Ao menos é como se não houvesse realmente alguém
+288	who knows what. No. Nobody knows. But that it is	que saiba. Não. Ninguém sabe. Mas que este é
+289	an auspicious time, you feel it, you see it. What	um tempo propício, sente-se, vê-se. Que
+290	unbelievable things are being told, what's going on here. Even	coisas inacreditáveis se contam, o que está acontecendo aqui. Até
+291	that America is with us at all, that is madness,	que a América esteja conosco, isso é uma loucura,
+292	insanity. Do you remember when they bombed the	uma insanidade. Você se lembra de quando bombardearam o
+293	nuclear reactor in Iraq?	reator nuclear no Iraque?
+294	The whole world was against us.	O mundo inteiro estava contra nós.
+295	And that was a nuclear reactor, and	E aquilo era um reator nuclear, e
+296	America is doing this for us. We don't have such planes,	a América faz isso por nós. Nós não temos aviões assim,
+297	we'll make the B-2, we'll bring it, it's	vamos fazer o B-2, vamos trazê-lo, é
+298	most strange, and they fight and bomb, and the whole world	muito estranho, e eles lutam e bombardeiam, e o mundo inteiro
+299	is against him and his whole country is against him,	está contra ele e todo o país dele está contra,
+300	at least half the country if not more.	ao menos metade do país, se não mais.
+301	Great things are happening. So it could be that this is,	Grandes coisas acontecem. Então pode ser que isto seja,
+302	I mean, clearly it's an auspicious time. So what	quer dizer, claramente é um tempo propício. Então o que
+303	should one do with an auspicious time? At the very least not	se deve fazer com um tempo propício? No mínimo não
+304	to miss it, to pray that it be truly so, that	perdê-lo, rezar para que seja de fato assim, que
+305	"to Jerusalem, Your city, return in compassion,"	"a Jerusalém, Tua cidade, retorna com compaixão,"
+306	"the offshoot of David Your servant may You speedily cause to flourish, and the horn of Jerusalem,	"o rebento de David, Teu servo, faz brotar depressa, e o poder de Jerusalém,
+307	Your holy city, in our days."	Tua cidade santa, em nossos dias."
+308	Thinking back, there were many hints.	Pensando no passado, houve muitos sinais.
+309	There were many times, many times that were	Houve muitos tempos, muitos tempos que foram
+310	auspicious times and we missed them, and it's written in all	tempos propícios e os perdemos, e está escrito em todos
+311	the books about the coronavirus, maybe.	os livros sobre a Covid, talvez.
+312	I don't know what is written in the books.	Não sei o que está escrito nos livros.
+313	The coronavirus is not written in the books. What is written in the books:	A Covid não está escrita nos livros. O que está escrito nos livros:
+314	there were many auspicious times in the time of the holy Ari,	houve muitos tempos propícios na época do santo Ari,
+315	and before him and after him there were auspicious times and we lost	e antes dele e depois dele houve tempos propícios e os
+316	them.	perdemos.
+317	There is also in the Ramchal's... in general there is...	Há também no Ramchal... em geral há...
+318	You know, Rabbi, we were at the lesson...	O senhor sabe, Rav, estávamos na aula...
+319	you said Shir, Shir, and you said Hitler's...	o senhor disse Shir, Shir, e disse o de Hitler...
+320	his, and he's ready to show something on the board.	dele, e ele está pronto para mostrar algo no quadro.
+321	And if that had succeeded, then all of Jewry would have...	E se isso tivesse dado certo, então todo o povo judeu teria...
+322	Right.	Certo.
+323	Here too there is the same story but on the positive side. Someone	Aqui também há a mesma história, mas do lado positivo. Alguém
+324	tried to assassinate him and missed him, in...	tentou assassiná-lo e errou, em...
+325	if that had happened, it wouldn't be as it is today.	se isso tivesse acontecido, não seria como é hoje.
+326	Today you see that it's like...	Hoje você vê que é como...
+327	he too is almost on the debt of...	ele também está quase na dívida de...
+328	Yes. The American fleet. Is there someone else besides this rabbi	Sim. A frota americana. Há mais alguém além desse rabino
+329	who speaks about...? I don't know.	que fale sobre...? Não sei.
+330	How does one get such a thing out, just so?	Como se tira uma coisa dessas, assim sem mais?
+331	Rabbi Bronfman told me, and someone showed it to him.	O rabino Bronfman me disse, e alguém mostrou isso a ele.
+332	I mean, I don't know.	Quer dizer, não sei.
+333	So he, for example, Rabbi Bronfman, told me: look how many	Então ele, por exemplo, o rabino Bronfman, me disse: veja quantas
+334	times we are getting up now at night.	vezes nos levantamos agora à noite.
+335	We get up every night.	Levantamos toda noite.
+336	So he says: if you're already up, wash your hands,	Então ele diz: se você já está de pé, lave as mãos,
+337	say Tikun Chatzot.	diga o Tikun Chatsot.
+338	If you're already up. People ask whether	Se você já está de pé. As pessoas perguntam se
+339	one may say Tehillim if, say, you didn't manage	se pode dizer Salmos se, digamos, você não teve tempo de
+340	to wash your hands. One may not say Tehillim, I mean, there is a dispute whether it's permitted to say Tehillim	lavar as mãos. Não se pode dizer Salmos, quer dizer, há uma divergência sobre se é permitido dizer Salmos
+341	without washing the hands.	sem lavar as mãos.
+342	So he says: but what you do have in Tikun Chatzot,	Então ele diz: mas o que você tem no Tikun Chatsot,
+343	he says, are the piyutim at the end, which surely	diz ele, são os piyutim no final, que certamente
+344	can be said even without washing hands. So at least,	podem ser ditos mesmo sem lavar as mãos. Então ao menos,
+345	you're already up, now it's an auspicious time. That's what he says.	já que está de pé, agora é um tempo propício. É o que ele diz.
+346	Most of Tehillim is at this hour, at the hour of sunrise.	A maior parte dos Salmos é nesta hora, na hora do amanhecer.
+347	Yes, most of Tehillim.	Sim, a maior parte dos Salmos.
+348	Today it was at seven, sunrise now. Today it was at seven.	Hoje foi às sete, o amanhecer agora. Hoje foi às sete.
+349	It was also at 40, right? You no longer remember when I got up.	Foi também às 40, certo? Você já não lembra quando me levantei.
+350	You went to sleep.	Você foi dormir.
+351	Today I went, I wanted to go rest this afternoon.	Hoje fui, queria ir descansar esta tarde.
+352	It was 3 and a half. I said, my wife says, then go	Eram três e meia. Eu disse, minha esposa diz, então vá
+353	rest. She waits for the alert to come first, because I	descansar. Ela espera primeiro o alerta, porque eu
+354	would go... In the end there was no alert, I went to rest.	iria... No fim não houve alerta, fui descansar.
+355	There was an alert, and the war too, yes.	Houve alerta, e a guerra também, sim.
+356	Isn't it part of their tactic to wear out	Não é parte da tática deles cansar
+357	a person so he doesn't know what's what?	uma pessoa para que ela não saiba o que é o quê?
+358	I don't know if they have tactics. I know that	Não sei se eles têm táticas. Sei que
+359	the head is not right, that's the top.	a cabeça não está boa, isso é o principal.
+360	Good, gentlemen, that's it regarding the war.	Bem, senhores, até aqui sobre a guerra.
+361	That's it regarding the war, and now we move on	Até aqui sobre a guerra, e agora passemos
+362	to the question we asked last week about "lo taaseh" and "yaaseh."	à pergunta que fizemos na semana passada sobre "lo taasê" e "yaasê".
+363	In Vayikra it's written, "lo yaaseh," sorry, "lo taaseh melachah":	Em Shemot está escrito "lo yaasê", desculpe, "lo taasê melachá":
+364	"Six days you shall do work, and on the seventh day is Shabbat."	"Seis dias farás trabalho, e no sétimo dia é Shabat."
+365	And in Vayakhel it's written, "Six days work shall be done."	E em Vayakhel está escrito: "Seis dias se fará trabalho."
+366	So we asked: it's feminine in both, so why is it written here "yaaseh"	Então perguntamos: é feminino em ambos, então por que aqui está escrito "yaasê"
+367	and here "taaseh"? My email exploded this week. What	e ali "taasê"? Meu e-mail explodiu esta semana. O que
+368	people, ir...	as pessoas, ir...
+369	Tz	Tz
+370	And also the phone, people called on the phone too.	E também o telefone, as pessoas ligaram também.
+371	Apparently it was a question that bothered many	Aparentemente era uma pergunta que inquietou muitas
+372	people.	pessoas.
+373	So I can't bring everything they said and everything	Então não posso trazer tudo o que disseram e tudo
+374	they wrote, but two answers: one I connected with less,	o que escreveram, mas duas respostas: uma com a qual me identifiquei menos,
+375	but it's the Alshich HaKadosh, so what are we going to say, and the other is Chazal	mas é o Alshich HaKadosh, então o que vamos dizer, e a outra é de Chazal
+376	themselves, really Chazal. Page	mesmo, de verdade Chazal. Página
+377	10 in the booklet, the Alshich HaKadosh says:	10 na apostila, o Alshich HaKadosh diz:
+378	Rabbi Menachem Airlander sent this.	O rabino Menachem Airlander enviou isto.
+379	There were some who also sent other answers, but	Houve quem também enviasse outras respostas, mas
+380	after I had already printed the booklet, so it didn't go in.	depois que eu já tinha impresso a apostila, então não entrou.
+381	Maybe next year.	Talvez no ano que vem.
+382	You see on page 10, or the lesson, "otherwise written," that says	Vocês veem na página 10, ou a aula, "escrito de outra forma", que diz
+383	He, blessed be He: "Six days work shall be done,"	Ele, bendito seja: "Seis dias se fará trabalho,"
+384	as it were, in the merit that on the seventh day is a Shabbat of rest,	por assim dizer, no mérito de que o sétimo dia é um Shabat de descanso,
+385	holy to HaShem. That is, what does "yaaseh" refer to?	santo para HaShem. Ou seja, a que se refere o "yaasê"?
+386	To the day.	Ao dia.
+387	"Six days work shall be done" in the merit of the seventh day.	"Seis dias se fará trabalho" no mérito do sétimo dia.
+388	So really who does the work? The seventh day.	Então na verdade quem faz o trabalho? O sétimo dia.
+389	In the merit of the seventh day it is done.	No mérito do sétimo dia se faz.
+390	That is what he wants to answer. That's why I said I connected less,	É isso que ele quer responder. Por isso eu disse que me identifiquei menos,
+391	because here you have to accept	porque aqui é preciso aceitar
+392	the Alshich because he's the Alshich, since otherwise it's not	o Alshich por ser o Alshich, pois do contrário não é
+393	so simple to connect "yaaseh" to the seventh day. But	tão simples ligar o "yaasê" ao sétimo dia. Mas
+394	that's what he says: look, "yaaseh" and "on the seventh day,"	é isso que ele diz: veja, "yaasê" e "no sétimo dia",
+395	the intention is in the merit of the seventh day, "six days work shall be done,"	a intenção é no mérito do sétimo dia, "seis dias se fará trabalho",
+396	so the "yaaseh" refers to the holy day.	então o "yaasê" se refere ao dia santo.
+397	The Alshich HaKadosh, the Alshich HaKadosh who is going to be next week?	O Alshich HaKadosh, o Alshich HaKadosh que será na semana que vem?
+398	I don't know. There's some Jew...	Não sei. Há algum judeu...
+399	speaking.	falando.
+400	Because there the Malbim speaks about the work, "six days	Porque ali o Malbim fala sobre o trabalho, "seis dias
+401	you shall do work, on the seventh day Shabbat Shabbaton."	farás trabalho, no sétimo dia Shabat Shabaton."
+402	Gentlemen, that is the Alshich's answer, and now	Senhores, essa é a resposta do Alshich, e agora
+403	we move on to the answer of the Malbim,	passemos à resposta do Malbim,
+404	and the Malbim is really Chazal.	e o Malbim é de fato Chazal.
+405	First let's read the Chazal in the Mechilta, page 11,	Primeiro leiamos o Chazal na Mechilta, página 11,
+406	last line in the left column,	última linha na coluna da esquerda,
+407	letter samech: "any work shall not be done," and they...	letra samech: "qualquer trabalho não será feito", e eles...
+408	The Mechilta says:	A Mechilta diz:
+409	"You shall not do" — you, and "shall not be done" — your friend,	"Não farás" — tu, e "não será feito" — teu companheiro,
+410	and a non-Jew shall not do your work.	e um não judeu não fará o teu trabalho.
+411	You say yes, or perhaps not; rather, you shall not do, you and	Você diz que sim, ou talvez não; antes, não farás, tu e
+412	your friend,	teu companheiro,
+413	but a non-Jew may do your work? Maybe that's permitted.	mas um não judeu pode fazer o teu trabalho? Talvez isso seja permitido.
+414	The Talmud says:	O ensinamento diz:
+415	The teaching says, "Six days you shall do work": from this you learn that any	O ensinamento diz: "Seis dias farás trabalho": daí se aprende que nenhum
+416	work shall not be done on them. That is, you shall not do, you and	trabalho será feito nesses dias. Ou seja, não farás, tu e
+417	your friend shall not do, and also a non-Jew shall not do your work. The words of	teu companheiro não fará, e também um não judeu não fará o teu trabalho. Palavras de
+418	Rabbi Yoshiya. Thus far the Mechilta. Now comes the Malbim	Rabi Yoshiya. Até aqui a Mechilta. Agora vem o Malbim
+419	and says: and its explanation is	e diz: e a sua explicação é
+420	that one shall not command a non-Jew. Although the prohibition is to say...	que não se deve ordenar a um não judeu. Embora a proibição seja dizer...
+421	After all, the halacha is that when a non-Jew does work for me, what	Afinal, a halachá é que quando um não judeu faz trabalho para mim, o que
+422	am I supposed to do?	devo fazer?
+423	To sew with it, I must sew with it, "do not do." So	Costurar com ele, devo costurar com ele, "não faças". Então
+424	he says: although the prohibition has what it needs to sew, that	diz: embora a proibição tenha o que precisa costurar, que
+425	a non-Jew not do even his own work, so that in a place where the hand of	um não judeu não faça nem mesmo o seu próprio trabalho, pois onde a mão de
+426	Israel is strong, one does not allow any man to do work	Israel é forte, não se deixa ninguém fazer trabalho
+427	in their land.	na terra deles.
+428	On this he answers: the teaching says, "Six days you shall do	Quanto a isso ele responde: o ensinamento diz: "Seis dias farás
+429	work," meaning that the word melachah is feminine, which is	trabalho", isto é, que a palavra melachá é feminina, razão
+430	why "taaseh" is written in the feminine.	pela qual "taasê" está escrito no feminino.
+431	And why is it written here "any work shall not be done," in the masculine?	E por que aqui está escrito "nenhum trabalho será feito", no masculino?
+432	Chazal were precise: the verb "taaseh" indicates that the work	Chazal foram precisos: o verbo "taasê" indica que nenhum
+433	should not be done at all, no work done, and this includes even	trabalho deve ser feito, e isso inclui até o trabalho
+434	the work of a non-Jew.	do não judeu.
+435	But the verb "yaaseh"	Mas o verbo "yaasê"
+436	indicates a male doer, meaning you shall not cause a man	indica um agente masculino, isto é, não farás com que um homem
+437	to do work in such a way that you are the doer and the man	faça trabalho de modo que tu sejas o agente e o homem
+438	who does it is the one acted upon, doing it at your command, that is,	que o faz seja o executor, fazendo por tua ordem, isto é,
+439	the work of a non-Jew through the command of an Israelite.	o trabalho de um não judeu por ordem de um israelita.
+440	So if so, what is "yaaseh"? A command to make...	Então, se é assim, o que é "yaasê"? Uma ordem para fazer...
+441	But why is there...	Mas por que há...
+442	What, why is it called "yaaseh"? Because I say, I tell him	O quê, por que se chama "yaasê"? Porque eu digo, eu lhe digo
+443	and he does it, he is the one acted upon, and I am	e ele faz, ele é o executor, e eu sou
+444	the doer. Therefore it is not to be done through others.	o agente. Por isso não deve ser feito por meio de outros.
+445	Very simple, and this is really Chazal, so to speak.	Muito simples, e isso é realmente Chazal, por assim dizer.
+446	Why, in a place where Israel's hand is a little, he does not let a gentile	Por que, num lugar onde a mão de Israel é um pouco, ele não deixa um gentio
+447	do work for himself? No, no, no, one could have explained it like this, one could	fazer trabalho para si mesmo? Não, não, não, dava para explicar assim, dava para
+448	think so. I don't know.	pensar assim. Não sei.
+449	A gentile who is bound is obligated...	Um gentio que está obrigado, é obrigado...
