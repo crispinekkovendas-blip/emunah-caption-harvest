@@ -1,0 +1,450 @@
+900	the whole dough became forbidden. So it says she should ask about the challah she separated.	toda a massa ficou proibida. Então está escrito que ela deve perguntar sobre a chalá que separou.
+901	She goes to a sage and asks about the challah she separated,	Ela vai a um sábio e pergunta sobre a chalá que separou,
+902	and afterwards she comes back and separates challah again.	e depois volta e separa chalá de novo.
+903	But seemingly, if she goes to a sage and asks about the challah she separated	Mas, aparentemente, se ela vai a um sábio e pergunta sobre a chalá que separou
+904	beforehand, it turns out that the blessing she made	antes, resulta que a berachá que ela fez
+905	over separating challah was a blessing in vain,	ao separar a chalá foi uma berachá em vão,
+906	because the challah she separated was invalid, so she made a blessing	porque a chalá que separou era inválida, então ela fez uma berachá
+907	in vain. The poskim discuss whether this is similar	em vão. Os decisores discutem se isto é semelhante
+908	to the dampening case, or not similar to the dampening case. Some compare it	ao caso da umidificação, ou não semelhante. Alguns comparam
+909	to the dampening: at the moment she separated challah, her intention was truly	à umidificação: no momento em que separou a chalá, sua intenção era de fato
+910	to separate challah. Afterwards some unavoidable circumstance happened.	separar a chalá. Depois aconteceu algum imprevisto.
+911	According to this, the author of the Shulchan Aruch says	Segundo isso, o autor do Shulchan Aruch diz
+912	that here too, in our case, he made a blessing over food before the prayer.	que aqui também, no nosso caso, ele fez uma berachá sobre comida antes da oração.
+913	He forgot that it was before the prayer, and he made the blessing. Suddenly	Ele esqueceu que era antes da oração, e fez a berachá. De repente
+914	he remembers, as he finishes the blessing, that it is before the prayer.	ele se lembra, ao terminar a berachá, de que é antes da oração.
+915	At the time he made the blessing, his intention was to eat afterwards,	No momento em que fez a berachá, sua intenção era comer depois,
+916	but he was prevented and did not eat. Also on the 17th of Tammuz, he blessed	mas foi impedido e não comeu. Também em 17 de Tamuz, ele fez a berachá
+917	over a food, thinking to eat, and suddenly he remembers	sobre um alimento, pensando em comer, e de repente se lembra
+918	that today is a fast. Why would that be a blessing in vain?	de que hoje é jejum. Por que seria uma berachá em vão?
+919	He says it would not be a blessing in vain. According	Diz que não seria uma berachá em vão. Segundo
+920	to the words of the Ritva, it would not be a blessing in vain, since	as palavras do Ritva, não seria uma berachá em vão, uma vez que
+921	it is not a blessing in vain. So why should he eat? A blessing	não é uma berachá em vão. Então por que deveria comer? Uma berachá
+922	in vain — he does not make it lightly, because it is not a blessing in vain. The reason:	em vão — ele não a faz de ânimo leve, porque não é uma berachá em vão. O motivo:
+923	before the prayer it is forbidden, according to the Rambam	antes da oração é proibido; segundo o Rambam
+924	it is from the Torah. Therefore, sit and do nothing — this is another	é da Torá. Portanto, ficar sem fazer nada — esta é mais uma
+925	of the arguments he writes, that author of the Shulchan Aruch. I	das razões que ele escreve, aquele autor do Shulchan Aruch. Eu
+926	say, with all due respect, the two are not alike. The Ritva	digo, com todo o respeito, que um caso não é igual ao outro. O Ritva
+927	spoke of a case where he performed an act, washed his hands, and was	falou de um caso em que a pessoa fez um ato, lavou as mãos, e estava
+928	about to recite the blessing, that he would bless "who has commanded us	prestes a recitar a berachá, "que nos santificou com Suas mitsvot e nos ordenou
+929	concerning washing the hands." True, not falsely, he poured water on his hands. It is	sobre a lavagem das mãos". É verdade, sem mentira, ele derramou água nas mãos. É uma
+930	a blessing. The woman, to separate challah, she separated	berachá. A mulher, para separar a chalá, ela separou
+931	the challah. There was an act here — separating challah — and in our case here	a chalá. Houve ali um ato — separar a chalá — e no nosso caso aqui
+932	it is roughly like speaking about a fast before Havdalah, or meat	é mais ou menos como falar de um jejum antes da Havdalá, ou carne
+933	and milk. In all the examples I mentioned, if he blessed and	e leite. Em todos os exemplos que mencionei, se ele fez a berachá e
+934	does not taste, no act was done here at all. It is just a blessing	não prova, nenhum ato foi feito aqui. É apenas uma berachá
+935	in the air; it would be a blessing in vain. What	no ar; seria uma berachá em vão. O que
+936	does this have to do with the Ritva? The Ritva spoke when he performed an act.	isso tem a ver com o Ritva? O Ritva falou quando a pessoa fez um ato.
+937	I have a side condition: I have a condition that does not obligate	Tenho uma condição lateral: tenho uma condição que não me obriga
+938	me, the hand-washing, to bless, but rather he intended	a lavar as mãos para fazer a berachá, mas sim ele pretendia
+939	to eat an egg's volume. He performs the act of washing,	comer o volume de um ovo. Ele realiza o ato da lavagem,
+940	for nothing, and that is not called a blessing in vain, since no act at all	em vão, e isso não se chama berachá em vão, pois nenhum ato
+941	was done here. Why would this not be	foi feito aqui. Por que isto não seria
+942	a blessing in vain? It is clear it would be a blessing in vain. According to this,	uma berachá em vão? É claro que seria uma berachá em vão. Segundo isso,
+943	in a blessing in vain, which is from the Torah, versus tasting before prayer,	numa berachá em vão, que é da Torá, contra provar antes da oração,
+944	which is rabbinic — which should be preferred? One should prefer	que é rabínica — o que é preferível? Deve-se preferir
+945	the rabbinic, to violate a rabbinic prohibition rather than a Torah one. Also regarding meat	o rabínico, transgredir uma proibição rabínica em vez de uma da Torá. Também quanto a carne
+946	and milk, in a case of doubt, there is a responsum on this matter:	e leite, em caso de dúvida, há uma responsa sobre este assunto:
+947	a person who erred and blessed over dairy within six hours	uma pessoa que errou e fez a berachá sobre laticínio dentro de seis horas
+948	after eating meat. There the Rav wants to distinguish between a matter like	depois de comer carne. Ali o Rav quer distinguir entre algo como
+949	a fast, where the time causes it, which is not a prohibition in the food itself,	um jejum, em que o tempo causa isso, que não é proibição no próprio alimento,
+950	and within six hours, where it is forbidden for him to eat because of the time	e as seis horas, em que lhe é proibido comer por causa do tempo
+951	that causes it. Afterwards the Rav rejected this. The Rambam	que causa isso. Depois o Rav rejeitou isso. O Rambam
+952	writes that it is forbidden for a person to bless over something that is	escreve que é proibido a uma pessoa fazer berachá sobre algo que é
+953	forbidden, even a rabbinic prohibition. So ruled Maran	proibido, mesmo uma proibição rabínica. Assim decidiu Maran
+954	in the Shulchan Aruch, like the Rambam's view, that it is forbidden for a person	no Shulchan Aruch, como a opinião do Rambam, que é proibido a uma pessoa
+955	to bless even over a rabbinic matter. Now here, in the middle,	fazer berachá mesmo sobre algo rabínico. Agora aqui, no meio,
+956	within six hours of eating meat, he took something	dentro de seis horas depois de comer carne, ele pegou algo
+957	dairy. Why must one wait six hours? Why must one wait six	lácteo. Por que é preciso esperar seis horas? Por que é preciso esperar seis
+958	hours? There are two reasons: the reason of the Rambam and the reason	horas? Há dois motivos: o motivo do Rambam e o motivo
+959	of the Rosh. The Rosh says it is the nature of meat to prolong	do Rosh. O Rosh diz que é da natureza da carne prolongar
+960	its taste for up to six hours. There is a dispute about the explanation of the Rosh's words:	seu sabor por até seis horas. Há uma discussão sobre a explicação das palavras do Rosh:
+961	what does "prolong the taste" mean? Does it draw from the intestines, the taste draws,	o que significa "prolongar o sabor"? Vem dos intestinos, o sabor se estende,
+962	or is it a taste in the throat that lasts six hours? There is a dispute	ou é um sabor na garganta que dura seis horas? Há uma discussão
+963	about the Rosh's words. The Rambam writes another reason. The Rav writes:	sobre as palavras do Rosh. O Rambam escreve outro motivo. O Rav escreve:
+964	we are concerned that meat gets in between the teeth. Afterwards	temos receio de que a carne entre entre os dentes. Depois
+965	he eats dairy after the meat, the meat comes out from between	ele come laticínio depois da carne, a carne sai de entre
+966	the teeth, and it turns out he is chewing meat and dairy	os dentes, e resulta que ele está mastigando carne e leite
+967	together, and then he commits a prohibition. One must wait six	juntos, e então comete uma proibição. É preciso esperar seis
+968	hours, so that the meat between the teeth will have separated	horas, para que a carne entre os dentes tenha se soltado
+969	on its own, and then it will be permitted. Yes.	por si mesma, e então será permitido. Sim.
+970	According to this, if we rule the halachah like both	Segundo isso, se decidimos a halachá de acordo com os dois
+971	reasons, so he says one should be stringent like the Rosh and like	motivos, ele diz que se deve ser rigoroso como o Rosh e como
+972	the view of the Rambam, then according to this a person who ate meat within	a opinião do Rambam; então, segundo isso, uma pessoa que comeu carne dentro de
+973	six hours and erred and blessed over dairy foods — we must worry that	seis horas e errou e fez berachá sobre laticínios — é preciso temer que
+974	the meat came out from between the teeth, and here there is meat in milk	a carne tenha saído de entre os dentes, e aqui há carne em leite
+975	together. True, it is rabbinic, not by way of cooking, but	juntos. É verdade, é rabínico, não por cozimento, mas
+976	the Rambam writes that it is forbidden to bless even over a	o Rambam escreve que é proibido fazer berachá mesmo sobre algo
+977	rabbinic matter. The Rav answers this together: here there is a doubt,	rabínico. O Rav responde a isso em conjunto: aqui há uma dúvida,
+978	a double doubt. What double doubt? Some say it is permitted to bless over	uma dúvida dupla. Que dúvida dupla? Alguns dizem que é permitido fazer berachá sobre
+979	a forbidden thing, and others dispute, the Rambam and the Rabad perhaps.	algo proibido, e outros discordam, o Rambam e o Rabad talvez.
+980	Like the Rambam's view. The Rav says: even if you say like	Como a opinião do Rambam. O Rav diz: mesmo que você diga como
+981	the Rambam, in Maran there it is permitted to eat dairy after a meat	o Rambam, em Maran ali é permitido comer laticínio depois de uma refeição
+982	meal immediately after clearing the table. Tosafot in tractate Chullin	de carne imediatamente após retirar a mesa. Tosafot no tratado Chullin
+983	have there another view, of Rabbeinu Tam, that immediately after Birkat	têm ali outra opinião, de Rabbeinu Tam, que imediatamente após a Birkat
+984	Hamazon — the view of the Baal HaGaonot — after clearing the table, after Birkat	Hamazon — a opinião do Baal HaGaonot — após retirar a mesa, após a Birkat
+985	Hamazon one may eat. The Rama writes that one can	Hamazon pode-se comer. O Rama escreve que se pode
+986	eat dairy food an hour after eating meat. Although	comer laticínio uma hora depois de comer carne. Embora
+987	the Shach writes that anyone who has a scent of Torah	o Shach escreva que quem tem um aroma de Torá
+988	should not do so; he should wait six hours. But to this day some	não deve fazer assim; deve esperar seis horas. Mas até hoje alguns
+989	of the Ashkenazim, some of them, eat after an hour;	dos asquenazitas, alguns deles, comem depois de uma hora;
+990	they already eat dairy foods. As for the halachah, we Sephardim	já comem laticínios. Quanto à halachá, nós, sefaraditas,
+991	certainly follow Maran's view; we do it after six hours.	certamente seguimos a opinião de Maran; fazemos depois de seis horas.
+992	But the Chazal combine: here is the reasoning of those who dispute,	Mas os sábios combinam: aqui está o raciocínio dos que discordam,
+993	that it is permitted to eat immediately after Birkat Hamazon dairy foods,	que é permitido comer imediatamente após a Birkat Hamazon alimentos lácteos,
+994	if you say like the Rif and the Ramban against the Shulchan	se você disser como o Rif e o Ramban, contra o Shulchan
+995	Aruch, that it is forbidden there, like the Rabad's view that it is permitted to bless a blessing	Aruch, que ali é proibido, como a opinião do Rabad de que é permitido fazer uma berachá
+996	over a forbidden thing — through this double doubt the Rav said: a person	sobre algo proibido — por meio desta dúvida dupla o Rav disse: uma pessoa
+997	who erred and blessed over a dairy food within six hours should taste a little.	que errou e fez berachá sobre laticínio dentro de seis horas deve provar um pouco.
+998	Then came that author of the Shulchan Aruch	Então veio aquele autor do Shulchan Aruch
+999	and disagreed with the Rav. He says: I do not agree. Why does the Yachad	e discordou do Rav. Diz: eu não concordo. Por que o Yachad
+1000	disagree? Why does he disagree? He claims that this is not a balanced	discorda? Por que ele discorda? Alega que isto não é uma dúvida dupla
+1001	double doubt. From here, most poskim hold that one must	equilibrada. Daqui, a maioria dos decisores entende que é preciso
+1002	wait six hours. It is not a balanced double doubt: the Rif,	esperar seis horas. Não é uma dúvida dupla equilibrada: o Rif,
+1003	the Rosh, the Rambam — three pillars of instruction — the Meiri,	o Rosh, o Rambam — três pilares da instrução — o Meiri,
+1004	the Shulchan Aruch, the decisor. Therefore it is not called a balanced double	o Shulchan Aruch, o decisor. Portanto não se chama dúvida dupla
+1005	doubt, and a double doubt does not help us here. He is unaware of	equilibrada, e uma dúvida dupla não nos ajuda aqui. Ele desconhece
+1006	several responsa of later authorities that the Rav brings	várias responsas de autoridades posteriores que o Rav traz
+1007	in the Beit Yosef in several places, foremost the Gaon Rabbi	no Beit Yosef em vários lugares, principalmente o Gaon Rabi
+1008	Eliyahu Yisrael in the Shut Kol Eliyahu and others, who	Eliyahu Yisrael no Shut Kol Eliyahu e outros, que
+1009	write that the two doubts need not be balanced. Some	escrevem que as duas dúvidas não precisam ser equilibradas. Alguns
+1010	say one balanced doubt is enough. Some say	dizem que uma dúvida equilibrada basta. Alguns dizem
+1011	that even if neither is balanced, it is not necessary. It depends	que mesmo que nenhuma seja equilibrada, não é necessário. Depende
+1012	on whether a Torah-level doubt is treated stringently, a rabbinic	de se uma dúvida da Torá se resolve com rigor, uma rabínica
+1013	one leniently — and ours...	com leniência — e a nossa...
+1014	I will say this briefly. We hold that a Torah-level doubt is	Digo isto resumidamente. Nós entendemos que uma dúvida da Torá é
+1015	stringent, a rabbinic one lenient. If rabbinic, lenient. What is	rigorosa, uma rabínica é branda. Se rabínica, branda. Qual é
+1016	the permission of the double doubt? The first doubt makes it	a permissão da dúvida dupla? A primeira dúvida a torna
+1017	a Torah-level doubt, and it becomes rabbinic. Then you get another doubt;	uma dúvida da Torá, e ela passa a ser rabínica. Então vem outra dúvida;
+1018	what does it become? It becomes a rabbinic doubt, to be lenient. So automatically	o que ela se torna? Torna-se uma dúvida rabínica, a ser tratada com leniência. Assim, automaticamente,
+1019	the double doubt need not be balanced. The first doubt,	a dúvida dupla não precisa ser equilibrada. A primeira dúvida,
+1020	even if it is not balanced, becomes rabbinic. Then another	mesmo que não seja equilibrada, torna-se rabínica. Então outra
+1021	doubt comes, and it is a rabbinic doubt, to be lenient. Writes	dúvida vem, e é uma dúvida rabínica, a ser tratada com leniência. Escreve
+1022	the Gaon HaChikar Lev that even if you have most	o Gaon HaChikar Lev que mesmo que você tenha a maioria
+1023	of the later authorities writing to be stringent in a rabbinic matter, and you have a minority	dos posteriores escrevendo para ser rigoroso numa questão rabínica, e uma minoria
+1024	of later authorities who write to be lenient, he says: but it is fine, in general	de posteriores que escrevem para ser brando, ele diz: mas está bem, em geral
+1025	a rabbinic doubt is lenient; the doubt need not be balanced,	uma dúvida rabínica é branda; a dúvida não precisa ser equilibrada,
+1026	half and half. Even if you have a majority with a minority, this is	metade e metade. Mesmo que você tenha uma maioria contra uma minoria, isto é
+1027	called a rabbinic doubt, to be lenient, and the permission of the double	chamado dúvida rabínica, a ser tratada com leniência, e a permissão da dúvida
+1028	doubt — what is it? A rabbinic doubt, to be lenient. So he challenges the Rav,	dupla — o que é? Uma dúvida rabínica, a ser tratada com leniência. Assim ele questiona o Rav,
+1029	saying the double doubt must be balanced. Even in Torah-level	dizendo que a dúvida dupla deve ser equilibrada. Mesmo em assuntos da Torá
+1030	matters it need not be balanced, all the more so	não precisa ser equilibrada, quanto mais
+1031	eating dairy after meat within six hours, which is a rabbinic matter,	comer laticínio depois de carne dentro de seis horas, que é uma questão rabínica,
+1032	here for all the people, the double doubt need not be balanced. Therefore	aqui para todo o povo, a dúvida dupla não precisa ser equilibrada. Portanto
+1033	the main point, as we said: a person who erred and blessed over dairy	o principal, como dissemos: uma pessoa que errou e fez berachá sobre laticínio
+1034	within six hours of eating meat should taste from it	dentro de seis horas depois de comer carne deve provar dele
+1035	so that it will not be a blessing in vain. And so all the examples	para que não seja uma berachá em vão. E assim todos os exemplos
+1036	I mentioned: he erred before Kiddush, erred before Havdalah,	que mencionei: errou antes do Kidush, errou antes da Havdalá,
+1037	erred and blessed on a fast day,	errou e fez berachá em dia de jejum,
+1038	erred and blessed over food that was cooked on Shabbat in violation,	errou e fez berachá sobre comida que foi cozida no Shabat de forma proibida,
+1039	erred and blessed over muktzeh on Shabbat — all the examples I mentioned,	errou e fez berachá sobre muktzê no Shabat — todos os exemplos que mencionei,
+1040	he should taste a little so that his blessing will not be in vain. It is better	deve provar um pouco para que sua berachá não seja em vão. É melhor
+1041	to violate a rabbinic prohibition than to violate	transgredir uma proibição rabínica do que transgredir
+1042	the Torah prohibition of a blessing in vain.	a proibição da Torá de uma berachá em vão.
+1043	…	…
+1044	Yes, yes, this...	Sim, sim, isto...
+1045	There it is a lot...	Ali é muito...
+1046	This also before the prayer...	Isto também antes da oração...
+1047	Yes, yes. He wrote about this too, both of them he wrote about.	Sim, sim. Ele também escreveu sobre isto, escreveu sobre os dois.
+1048	Baruch HaShem, I have strength to say a few more things from the laws	Baruch HaShem, tenho forças para dizer mais algumas coisas das leis
+1049	of Yom Tov.	de Yom Tov.
+1050	It is written in the Mishnah,	Está escrito na Mishná,
+1051	tractate Beitzah, page 33:	tratado Beitzá, página 33:
+1052	"One may not produce fire, neither from wood nor from stones,	"Não se produz fogo, nem de madeira nem de pedras,
+1053	nor from earth, nor from water, nor from..."	nem de terra, nem de água, nem de..."
+1054	One may not produce fire; generating fire on Yom Tov — a derivative of	Não se produz fogo; gerar fogo em Yom Tov — um derivado de
+1055	fire — is forbidden by the Torah, even for food. For food on Yom Tov	fogo — é proibido pela Torá, mesmo para comida. Para comida em Yom Tov
+1056	anything that is for food is permitted, but the fire must be	tudo o que é para comida é permitido, mas o fogo deve estar
+1057	prepared from the day before. A fire that exists. The Torah did not say	preparado desde o dia anterior. Um fogo já existente. A Torá não disse
+1058	that he may generate and produce fire on Yom Tov. That is not Torah-level,	que se pode gerar e produzir fogo em Yom Tov. Isso não é da Torá,
+1059	it is forbidden rabbinically; it is not from the Torah. Nevertheless,	é proibido por decreto rabínico; não é da Torá. Mesmo assim,
+1060	the Gemara taught that it is forbidden to bring forth fire on Yom Tov.	a Guemará ensinou que é proibido produzir fogo em Yom Tov.
+1061	From this we learned	Disto aprendemos
+1062	that matches are forbidden: one may not strike a match on Yom Tov, as people	que fósforos são proibidos: não se pode riscar um fósforo em Yom Tov, como as pessoas
+1063	are accustomed on weekdays, a match.	costumam nos dias de semana, um fósforo.
+1064	You put it in the box and it lights; it generates	Coloca-se na caixa e ele acende; gera
+1065	fire. It was not fire before.	fogo. Antes não era fogo.
+1066	By its rubbing it generates fire; this is forbidden.	Pelo atrito ele gera fogo; isso é proibido.
+1067	Therefore one must prepare from before Yom Tov, like a memorial candle	Por isso é preciso preparar antes de Yom Tov, como uma vela memorial
+1068	that burns 24 hours; each time he wants to cook, or	que arde 24 horas; cada vez que quiser cozinhar, ou
+1069	to light up whatever he wants to do, he takes from this fire,	iluminar o que quiser fazer, toma deste fogo,
+1070	which is prepared, which exists, not one he generates	que está preparado, que existe, não um que ele gera
+1071	on Yom Tov, but one that was already lit yesterday.	em Yom Tov, mas um que já estava aceso ontem.
+1072	Therefore, turning on electricity is also forbidden on Yom Tov.	Por isso acender a eletricidade também é proibido em Yom Tov.
+1073	This light is needed by everyone, like food,	Esta luz é necessária a todos, como a comida,
+1074	yet it is forbidden to turn it on on Yom Tov, because	e mesmo assim é proibido acendê-la em Yom Tov, porque
+1075	there is a spark here:	há aqui uma faísca:
+1076	by touching positive and negative wires	ao se tocarem fios positivos e negativos
+1077	together, it produces the light; this is called producing light.	juntos, produz-se a luz; isso se chama produzir luz.
+1078	It was not already burning light; this is not burning.	Não era uma luz já acesa; isso não é uma luz acesa.
+1079	Even though there,	Mesmo que ali,
+1080	not burning — it could be that through it he might	não acesa — pode ser que por isso ele possa
+1081	cause a fire to break out, unexpectedly; it could be, it is an electrical short-circuit,	provocar um incêndio, inesperadamente; pode ser, é um curto-circuito elétrico,
+1082	but that is another matter.	mas isso é outro assunto.
+1083	It is never called an existing fire unless the light was burning	Nunca se chama fogo existente a não ser que a luz já estivesse acesa
+1084	already. But here, by pressing a button,	antes. Mas aqui, ao pressionar um botão,
+1085	the positive and negative meet and light, it lights;	o positivo e o negativo se encontram e acendem, acende;
+1086	this is called generating fire,	isso se chama gerar fogo,
+1087	producing fire on Yom Tov, and it is forbidden. Therefore it is	produzir fogo em Yom Tov, e é proibido. Portanto é
+1088	forbidden to turn on electricity on Yom Tov, just like Shabbat.	proibido acender eletricidade em Yom Tov, assim como no Shabat.
+1089	We prepare a Shabbat timer and a timer that turns	Preparamos um timer de Shabat e um timer que apaga
+1090	everything automatically; so here too one can do this, but	tudo automaticamente; então aqui também se pode fazer isso, mas
+1091	not turn on electricity by hand on Yom Tov.	não acender a eletricidade com as mãos em Yom Tov.
+1092	In a case	No caso
+1093	where he forgot to turn on the electricity before the holiday and is in the dark, it is permitted	em que esqueceu de acender a eletricidade antes do feriado e está no escuro, é permitido
+1094	to tell a non-Jew to turn on the electricity for him, truly, unlike Shabbat.	dizer a um não judeu que acenda a eletricidade para ele, de fato, diferente do Shabat.
+1095	Not like Shabbat. On Shabbat, kindling is from the Torah: "You shall not kindle	Não como no Shabat. No Shabat, acender é da Torá: "Não acendereis
+1096	fire in any of your dwellings on the Shabbat day." It is forbidden to tell a non-Jew;	fogo em nenhuma de vossas moradas no dia de Shabat." É proibido dizer a um não judeu;
+1097	it is a shevut, a shevut of a shevut, a shevut...	é uma shevut, uma shevut de uma shevut, uma shevut...
+1098	An electrical flame on Yom Tov is forbidden rabbinically,	Uma chama elétrica em Yom Tov é proibida rabinicamente,
+1099	not a bonfire, not like on Shabbat.	não uma fogueira, não como no Shabat.
+1100	Only because he generates and produces fire, which is	Apenas porque ele gera e produz fogo, o que é
+1101	forbidden rabbinically, not Torah-level. If it says	proibido rabinicamente, não pela Torá. Se há
+1102	a great need, he cannot eat in the dark,	grande necessidade, ele não pode comer no escuro,
+1103	it is the honor of Yom Tov that he not eat in the dark, so it is permitted	é a honra de Yom Tov não comer no escuro, então é permitido
+1104	for him to tell a non-Jew to come and turn on the electricity for him on Yom Tov.	a ele dizer a um não judeu que venha e acenda a eletricidade para ele em Yom Tov.
+1105	And the same law applies in a synagogue. It happened that they did not	E a mesma lei vale numa sinagoga. Aconteceu que não
+1106	turn on the electricity; people come to pray and cannot	acenderam a eletricidade; as pessoas vêm rezar e não podem
+1107	pray by heart.	rezar de cor.
+1108	It is permitted to tell a non-Jew to turn on electricity on Yom Tov, on the night	É permitido dizer a um não judeu que acenda a eletricidade em Yom Tov, na noite
+1109	of Yom Tov,	de Yom Tov,
+1110	since this is a shevut for a mitzvah, a pressing need.	pois isto é uma shevut para uma mitsvá, uma necessidade urgente.
+1111	The great need here is that people come to pray, so it is	A grande necessidade aqui é que as pessoas vêm rezar, por isso é
+1112	permitted to do. Not like Shabbat. On Shabbat it is forbidden	permitido fazer. Não como no Shabat. No Shabat é proibido
+1113	to do; there the kindling is forbidden by the Torah. Telling	fazer; ali o acender é proibido pela Torá. Dizer
+1114	a non-Jew to do it is a shevut, a shevut of a shevut.	a um não judeu que o faça é uma shevut, uma shevut de uma shevut.
+1115	On Yom Tov, what is the kindling? It is rabbinic,	Em Yom Tov, o que é o acender? É rabínico,
+1116	producing fire.	produzir fogo.
+1117	And telling a non-Jew is a shevut of a shevut; a shevut of a shevut	E dizer a um não judeu é uma shevut de uma shevut; uma shevut de uma shevut
+1118	in any case is permitted. Therefore it is permitted to tell a non-Jew to come	em qualquer caso é permitido. Portanto é permitido dizer a um não judeu que venha
+1119	and turn on the electricity for him, both in the synagogue, for the public,	e acenda a eletricidade para ele, tanto na sinagoga, para o público,
+1120	and in his home. If someone remained in the dark and cannot	quanto em sua casa. Se alguém ficou no escuro e não pode
+1121	eat like a human being, it is permitted for him to tell a non-Jew to turn on	comer como um ser humano, é permitido a ele dizer a um não judeu que acenda
+1122	the electricity for him on Yom Tov.	a eletricidade para ele em Yom Tov.
+1123	On Shabbat day,	No dia de Shabat,
+1124	it is forbidden to bathe in hot water, even water that was heated	é proibido tomar banho em água quente, mesmo água que foi aquecida
+1125	before Shabbat. They already prepared it. If he had hot water	antes do Shabat. Já a prepararam. Se ele tinha água
+1126	and came to bathe from Friday night, was busy all day,	quente e veio tomar banho desde a noite de sexta, esteve ocupado o dia todo,
+1127	to bathe from Friday night, it is forbidden to bathe in hot water.	para tomar banho desde a noite de sexta, é proibido tomar banho em água quente.
+1128	He is called a transgressor. So the Gemara says: one who does	Ele é chamado transgressor. Assim diz a Guemará: quem faz
+1129	this is called a transgressor, who violates the prohibition of the Sages.	isso é chamado transgressor, que viola a proibição dos Sábios.
+1130	The Sages forbade bathing in this water. Why?	Os Sábios proibiram tomar banho nessa água. Por quê?
+1131	Because of a problem: the bathhouse attendants formerly were, many people	Por causa de um problema: os banhistas antigamente eram, muitas pessoas
+1132	would bathe in the bathhouse. Many people come and bathe,	se banhavam na casa de banhos. Muitas pessoas vêm e se banham,
+1133	and bathe,	e se banham,
+1134	and the water was not enough for them. The attendants would cheat.	e a água não era suficiente para elas. Os banhistas trapaceavam.
+1135	So they would cheat. What would they do? They would pour more	Então trapaceavam. O que faziam? Despejavam mais
+1136	water, or heat more water, that stood there since Shabbat.	água, ou aqueciam mais água, que ficava ali desde o Shabat.
+1137	Therefore the Sages decreed: it is forbidden to bathe in hot water on Shabbat,	Por isso os Sábios decretaram: é proibido tomar banho em água quente no Shabat,
+1138	even water that was heated before Shabbat. That is on Shabbat. On	mesmo água que foi aquecida antes do Shabat. Isso é no Shabat. Em
+1139	Yom Tov, not so. If hot water was prepared, already prepared	Yom Tov, não é assim. Se água quente foi preparada, já preparada
+1140	on the eve, on the eve of Yom Tov, or, for example, hot water	na véspera, na véspera de Yom Tov, ou, por exemplo, água quente
+1141	from a solar heater that was already heated during the day	de um aquecedor solar que já foi aquecida durante o dia
+1142	of Yom Tov eve, and he wants to bathe, to take a shower	da véspera de Yom Tov, e quer tomar banho, tomar uma ducha
+1143	on the night of Yom Tov, it is not forbidden. There is no prohibition in this.	na noite de Yom Tov, não é proibido. Não há proibição nisso.
+1144	Why is there no prohibition? Because on Yom Tov it is not	Por que não há proibição? Porque em Yom Tov não é
+1145	really Shabbat; they did not decree there on Yom Tov.	realmente Shabat; não decretaram isso para Yom Tov.
+1146	So ruled the Rambam, and so ruled Maran. We rule	Assim decidiu o Rambam, e assim decidiu Maran. Nós decidimos
+1147	according to their words, although there are poskim who are stringent;	segundo suas palavras, embora haja decisores que são rigorosos;
+1148	we rule according to them, to be lenient.	nós decidimos segundo eles, com leniência.
+1149	Smoking cigarettes on Yom Tov. [snorts]	Fumar cigarros em Yom Tov. [bufadas]
+1150	Someone accustomed to smoking, yes, who cannot do without it, is used to it,	Alguém acostumado a fumar, sim, que não consegue ficar sem, está habituado,
+1151	he will have distress if he refrains from smoking on Yom Tov,	terá aflição se se abstiver de fumar em Yom Tov,
+1152	then one may be lenient for him to smoke on Yom Tov. There is no prohibition in this.	então pode-se ser brando e deixá-lo fumar em Yom Tov. Não há proibição nisso.
+1153	Why?	Por quê?
+1154	In the Gemara it is written,	Na Guemará está escrito,
+1155	in the Gemara it is written: it is forbidden to make a mugmar on Yom Tov. What	na Guemará está escrito: é proibido fazer um mugmar em Yom Tov. O que
+1156	is a mugmar? They were accustomed to take	é um mugmar? Costumavam pegar
+1157	something like a sieve,	algo como uma peneira,
+1158	and place it over coals,	e colocá-la sobre brasas,
+1159	with some powder of frankincense — frankincense powder is	com um pouco de pó de incenso — pó de incenso é
+1160	a fragrant incense — and they would stretch garments or	um incenso perfumado — e estendiam sobre ele utensílios ou
+1161	clothes over it, and the smoke of the frankincense rises up and perfumes	roupas, e a fumaça do incenso sobe e perfuma
+1162	the clothes. That is a mugmar; it is called a mugmar. A pleasant smell is made	as roupas. Isso é um mugmar; chama-se mugmar. Faz-se um bom cheiro
+1163	in them, or utensils; he wants to cook in them,	nelas, ou nos utensílios; quer cozinhar neles,
+1164	wants them to be fragrant; he takes pleasure from it. But	quer que fiquem perfumados; tira prazer disso. Mas
+1165	who does this? The wealthy. Ordinary people do not	quem faz isso? Os ricos. Pessoas comuns não
+1166	do such things. The Torah said, "which every soul shall eat — that	fazem coisas assim. A Torá disse: "o que toda alma comerá, isso
+1167	alone may be done for you," a thing that we all share. But something	apenas será feito para vós", algo de que todos participamos. Mas algo
+1168	special for the wealthy, people do not do it.	especial para os ricos, as pessoas não fazem.
+1169	So it is not a Torah need. Tell me, what is the prohibition in this?	Então não é uma necessidade da Torá. Diga-me, qual é a proibição nisso?
+1170	He takes the powder of frankincense,	Ele pega o pó de incenso,
+1171	the incense,	o incenso,
+1172	and puts it on the coals, then extinguishes them, and at the end again	e coloca nas brasas, depois as apaga, e no fim de novo
+1173	kindles them: he extinguishes, he kindles. That is forbidden. Forbidden	as acende: apaga, acende. Isso é proibido. É proibido
+1174	to do such a thing on Yom Tov. Those who want to forbid	fazer tal coisa em Yom Tov. Aqueles que querem proibir
+1175	smoking cigarettes on Yom Tov learn from this passage.	fumar cigarros em Yom Tov aprendem desta passagem.
+1176	They say, just as there it is not for the sake of food,	Dizem: assim como ali não é para comida,
+1177	so smoking cigarettes is not for everyone; not everyone smokes,	assim fumar cigarros não é para todos; nem todos fumam,
+1178	especially today, now that there is awareness, the doctors	especialmente hoje, agora que há consciência, os médicos
+1179	say it is dangerous, not good, not healthy.	dizem que é perigoso, não é bom, não é saudável.
+1180	So they say to stop smoking; so it is not for every soul;	Então dizem para parar de fumar; então não é para toda alma;
+1181	therefore they hold that it is forbidden.	portanto sustentam que é proibido.
+1182	But	Mas
+1183	in truth, yes,	na verdade, sim,
+1184	the Tosafot, tractate Shabbat, page 39b,	os Tosafot, tratado Shabat, página 39b,
+1185	there: anything that is done for a health benefit is permitted.	ali: tudo o que é feito para benefício da saúde é permitido.
+1186	Those who smoke have a reason too, a health benefit.	Os que fumam também têm uma razão, um benefício de saúde.
+1187	What health?	Que saúde?
+1188	They cannot; they have constipation, they cannot manage	Não conseguem; têm prisão de ventre, não conseguem passar
+1189	without a cigarette.	sem um cigarro.
+1190	Most of these people who smoke, for this reason, for	A maioria dessas pessoas que fumam, por este motivo, por
+1191	health.	saúde.
+1192	The Gaon Yaavetz writes that he could never go out	O Gaon Yaavetz escreve que nunca conseguiu sair
+1193	without having smoked a cigarette.	sem ter fumado um cigarro.
+1194	This tobacco was created for health,	Este tabaco foi criado para a saúde,
+1195	yes, even though it harms other things.	sim, mesmo que prejudique outras coisas.
+1196	All medicine is like that; the Gemara says: every medicine	Toda medicina é assim; a Guemará diz: todo remédio
+1197	helps one side and harms another side.	ajuda de um lado e prejudica de outro.
+1198	Only the medicine of the Holy One, blessed be He, has no harm,	Apenas o remédio do Santo, bendito seja, não tem nenhum dano,
+1199	Heaven forbid, no damage at all.	Deus nos livre, nenhum dano.
+1200	Only the medicine of the Holy One, blessed be He. Therefore, regarding the medicine of	Apenas o remédio do Santo, bendito seja. Por isso, sobre o remédio do
+1201	the Holy One, blessed be He, it is written, "I am HaShem, your healer."	Santo, bendito seja, está escrito: "Eu sou HaShem, teu curador."
+1202	"Your healer" — look at everything.	"Teu curador" — veja tudo.
+1203	With flesh and blood it is written, "and shall surely heal" — he heals with pain;	Com carne e osso está escrito: "e certamente curará" — cura com dor;
+1204	he makes some bitter drugs, wormwood; he causes pain;	faz alguns remédios amargos, absinto; causa dor;
+1205	he performs surgery, oy oy oy. This is healing.	faz cirurgia, ai ai ai. Isso é curar.
+1206	The Holy One, blessed be He, heals — "I am HaShem, your healer" —	O Santo, bendito seja, cura — "Eu sou HaShem, teu curador" —
+1207	one sits at rest, and that is how He heals him. Blessed be His name,	a pessoa fica sentada em repouso, e é assim que Ele a cura. Bendito seja Seu nome,
+1208	the Holy One, blessed be He. All the drugs: what is good for this	o Santo, bendito seja. Todos os remédios: o que é bom para isto
+1209	is bad for that.	é ruim para aquilo.
+1210	Yes. A person should not accustom himself to drink drugs,	Sim. Uma pessoa não deve se habituar a tomar remédios,
+1211	to take pills of Optalgin, Perfalgan — all these things.	a tomar comprimidos de Optalgin, Perfalgan — todas essas coisas.
+1212	As much as possible, stay away from them. It happens	Tanto quanto possível, afaste-se deles. Acontece
+1213	that one day he has a little fever, do not rush; he takes	que um dia ele tem um pouco de febre, não se apresse; ele toma
+1214	Acamol, takes these pills. This harms elsewhere.	Acamol, toma esses comprimidos. Isso prejudica em outro lugar.
+1215	Serum, to his loss, let him not take it, only if he is already	Soro, em seu prejuízo, que não tome, só se já estiver
+1216	sick for several days and has no choice, then let him take it.	doente há vários dias e não tiver escolha, então que tome.
+1217	Since it is impossible, a person little by little, to take these kinds,	Como é impossível, uma pessoa pouco a pouco, tomar esses tipos,
+1218	keep away from them.	afaste-se deles.
+1219	Therefore saccharin too, like all these drugs, is good,	Por isso a sacarina também, como todos esses remédios, é boa,
+1220	pleasant for sweetening, but it harms the	agradável para adoçar, mas prejudica
+1221	lungs.	os pulmões.
+1222	It harms, true. Since there is a health benefit on one side, it is permitted	Prejudica, é verdade. Como há benefício de saúde de um lado, é permitido
+1223	to smoke on Yom Tov, and they did not say that it must be equal for every soul.	fumar em Yom Tov, e não disseram que deve ser igual para toda alma.
+1224	It is equal for every soul: anything that has some health benefit	É igual para toda alma: tudo o que tem algum benefício de saúde
+1225	of any kind. Therefore it is not a thing that is not	de qualquer tipo. Portanto não é algo que não seja
+1226	equal for every soul. It is a thing equal for every soul. Rolling cigarettes,	igual para toda alma. É algo igual para toda alma. Enrolar cigarros,
+1227	one minute.	um minuto.
+1228	There are problems	Há problemas
+1229	with rolling cigarettes. There are many cigarettes that have	com enrolar cigarros. Há muitos cigarros que têm
+1230	writing on them, in prominent letters.	escrita neles, em letras salientes.
+1231	How is it? Dubek, Dubek.	Como é? Dubek, Dubek.
+1232	They write Dubek, so while he smokes,	Escrevem Dubek, então enquanto ele fuma,
+1233	he inhales through his mouth,	inala pela boca,
+1234	and it crumbles.	e se desfaz.
+1235	The fire touches there and consumes the letters, crumbles all	O fogo toca ali e consome as letras, esfarela todas
+1236	the letters. So it erases. The Torah did not see erasing	as letras. Então apaga. A Torá não considerou o apagar
+1237	on Yom Tov; see, smoke, so that nothing will be written;	em Yom Tov; veja, fume, para que nada fique escrito;
+1238	for whom will it be written? Some say this is a kind of erasing,	para quem ficará escrito? Alguns dizem que é um tipo de apagar,
+1239	erasing on Yom Tov. There is a responsum that this too is permitted.	apagar em Yom Tov. Há uma responsa de que isto também é permitido.
+1240	Why? What is permitted?	Por quê? O que é permitido?
+1241	In the Mishnah it is written: one who erases is not liable unless	Na Mishná está escrito: quem apaga não é culpado a menos que
+1242	he erases in order to write. He erases which letter,	apague para escrever. Apaga qual letra,
+1243	so that one can write in the place of that letter other	para que se possa escrever no lugar dessa letra outras
+1244	letters.	letras.
+1245	Only this erasing is liable by the Torah.	Somente esse apagar é punível pela Torá.
+1246	But erasing not in order to write, like here, where he rubs	Mas apagar não para escrever, como aqui, onde ele esfrega
+1247	it with his mouth and it crumbles — where will he write? What	com a boca e se desfaz — onde escreverá? O que
+1248	will he write?	escreverá?
+1249	He erased, right? That Dubek was erased. [clears throat] But does he	Apagou, certo? Aquele Dubek foi apagado. [pigarro] Mas ele
+1250	write something else afterwards? Where will he write? It is not	escreve algo diferente depois? Onde escreverá? Não está
+1251	meant for writing, so it is rabbinic.	destinado a escrever, então é rabínico.
+1252	And moreover, say a rabbinic prohibition — when is there a rabbinic? When he	E mais, digamos uma proibição rabínica — quando há rabínica? Quando
+1253	erases by hand, takes the letter and erases it.	apaga com as mãos, pega a letra e a apaga.
+1254	But this, that he smokes —	Mas isto, que ele fuma —
+1255	it is written in the Mishnah: if a person writes with his mouth, he is exempt. He	está escrito na Mishná: se uma pessoa escreve com a boca, está isenta. Ele
+1256	erases with his mouth, exempt. How does he put the ink in his mouth and write?	apaga com a boca, isento. Como ele põe a tinta na boca e escreve?
+1257	He wrote "Avraham."	Escreveu "Avraham".
+1258	He wrote.	Escreveu.
+1259	He wrote it with his mouth. It is not the way people write,	Escreveu com a boca. Não é o modo como as pessoas escrevem,
+1260	with the mouth; one writes by hand, with the right hand.	com a boca; escreve-se com a mão, a mão direita.
+1261	But he wrote with the left hand — exempt. Anyone who wrote with his mouth —	Mas se escreveu com a mão esquerda — isento. Quem escreveu com a boca —
+1262	certainly it has no significance. There are people, not among us,	certamente não tem significado. Há pessoas, longe de nós,
+1263	who lost their hands and cannot write, but they learned	que perderam as mãos e não escrevem, mas aprenderam
+1264	to write with their feet. They put the ink between the toes	a escrever com os pés. Colocam a tinta entre os dedos
+1265	of the feet and write. They write Aleph, Bet, Gimel, as	dos pés e escrevem. Escrevem alef, bet, guimel, como
+1266	you wish, they write.	quiser, escrevem.
+1267	There was a scribe who wrote the Megillah of Esther with his feet,	Havia um escriba que escreveu a Meguilá de Ester com os pés,
+1268	and we asked about this whether it is kosher or not kosher. There are	e perguntamos sobre isso se é kasher ou não kasher. Há
+1269	many responsa on this by the Minchat Shlomo.	muitas responsas sobre isso, de Minchat Shlomo.
+1270	Is this Megillah kosher? He did not write it	Esta Meguilá é kasher? Ele não a escreveu
+1271	with his hand; he wrote it with his foot. It is written in the Mishnah:	com a mão; escreveu com o pé. Está escrito na Mishná:
+1272	one who writes with his foot on Shabbat is exempt.	quem escreve com o pé no Shabat está isento.
+1273	Why? He did not write in the way of writing.	Por quê? Não escreveu da forma de escrever.
+1274	And likewise one who writes with his elbow — how do you fit it here?	E também quem escreve com o cotovelo — como se encaixa aqui?
+1275	Like this, he wrote like this with his hand.	Assim, escreveu assim com a mão.
+1276	He calls the fingers "poor thing"; so what will he do? How is it written?	Chama os dedos de "coitado"; então o que fará? Como está escrito?
+1277	He puts the pen on the elbow like this, and writes.	Põe a caneta no cotovelo assim, e escreve.
+1278	That is nothing; it is not writing; they do not write; it is	Isso não é nada; não é escrever; não se escreve; é
+1279	simply exempt, not Torah-level. One who writes with his foot,	simplesmente isento, não pela Torá. Quem escreve com o pé,
+1280	with his elbow, is exempt; it is written in the Mishnah that he is exempt.	com o cotovelo, está isento; está escrito na Mishná que está isento.
+1281	Therefore we said once:	Por isso dissemos uma vez:
+1282	There was an Admor, an Admor in Bobov,	Havia um Admor, um Admor em Bobov,
+1283	a holy Chassid.	um chassid santo.
+1284	He had a son-in-law, always clever. He went and bought new shoes	Tinha um genro, sempre esperto. Foi e comprou sapatos novos
+1285	on Friday to break them in on Shabbat,	na sexta-feira para estreá-los no Shabat,
+1286	the shoes.	os sapatos.
+1287	There is rubber in the heel, and on this rubber is written	Há borracha no salto, e nessa borracha está escrito
+1288	"made by such and such"; they write in raised letters.	"fabricado por tal e tal"; escrevem em letras salientes.
+1289	The sole.	A sola.
+1290	"Made by such and such" — they write the place of manufacture.	"Fabricado por tal e tal" — escrevem o local de fabricação.
+1291	Now whoever walks on Shabbat, there is snow there,	Agora quem anda no Shabat, há neve ali,
+1292	for example; when he walks, he steps on the snow, and it makes all	por exemplo; quando anda, pisa na neve, e faz todas
+1293	those letters naturally; the one who walks after him knows from which	essas letras naturalmente; quem anda atrás dele sabe de qual
+1294	store he bought it, which firm it is, that he	loja ele comprou, qual firma é, que ele
+1295	can know immediately from what he stepped on,	pode saber de imediato pelo que pisou,
+1296	engraved on the snow, and if he walks on sand, in the sand.	gravado na neve, e se anda na areia, na areia.
+1297	So they called him: what are you doing? On Shabbat you	Então o chamaram: o que você está fazendo? No Shabat você
+1298	write on Shabbat; you walk and write with your feet.	escreve no Shabat; você anda e escreve com os pés.
+1299	He must immediately rub it off; bring him some file	Ele deve esfregar imediatamente; traga-lhe uma lixa
+1300	like that; rub them so the letters will be smooth.	assim; esfregue-os para que as letras fiquem lisas.
+1301	The law truly is that this is what one must do, all those who buy	A lei de fato é que isto é o que se deve fazer, todos os que compram
+1302	new shoes; it is forbidden to break them in on Shabbat.	sapatos novos; é proibido estreá-los no Shabat.
+1303	Or good — why does he write... no, not so, not so.	Ou bom — por que ele escreve... não, não é assim, não é assim.
+1304	An unintended act is permitted.	Um ato não intencional é permitido.
+1305	It is forbidden only... when he walks, it is an unintended thing;	Só é proibido... quando ele anda, é algo não intencional;
+1306	he goes to the synagogue, goes to the study hall. He wants...	ele vai à sinagoga, vai à casa de estudos. Ele quer...
+1307	he is an agent of the factory?	ele é agente da fábrica?
+1308	Does he want everyone to know where he bought these shoes?	Ele quer que todos saibam onde comprou esses sapatos?
+1309	Such a hungry... what does he have? Does he act	Tão faminto... o que ele tem? Ele age
+1310	as a broker for the factory? No, he is going to pray.	como corretor da fábrica? Não, ele vai orar.
+1311	But say it is a "psik reisha": he walks over snow	Mas digamos que é um "psik reisha": ele anda sobre neve
+1312	or over sand, and the one behind him sees it. This is certain;	ou sobre areia, e quem vem atrás vê. Isso é certo;
+1313	even though he does not intend... why? Even if he does not intend, yes,	mesmo que ele não pretenda... por quê? Mesmo que não pretenda, sim,
+1314	it would be forbidden. No — since he does not intend, and this	seria proibido. Não — como ele não pretende, e isto
+1315	is called a psik reisha.	se chama psik reisha.
+1316	But it is a psik reisha where he does not care; he has no satisfaction	Mas é um psik reisha em que ele não se importa; ele não tem prazer
+1317	from it, and this writing, he has no enjoyment from it.	nisso, e esta escrita, ele não tem benefício dela.
+1318	A psik reisha that he does not care about is not the way of writing, and also rabbinic,	Um psik reisha que não lhe importa não é o modo de escrever, e também rabínico,
+1319	since he does not write by hand; he writes through his feet,	pois ele não escreve com a mão; escreve por meio dos pés,
+1320	as he steps.	ao pisar.
+1321	One who writes with his foot is exempt.	Quem escreve com o pé está isento.
+1322	Yes, it has several leniencies: it is a psik reisha, and he does not care,	Sim, tem várias leniências: é um psik reisha, e ele não se importa,
+1323	in a rabbinic matter.	numa questão rabínica.
+1324	Therefore it is permitted.	Portanto é permitido.
+1325	It is permitted to break them in on Shabbat and walk in such	É permitido estreá-los no Shabat e andar com tais
+1326	new shoes; there it is forbidden.	sapatos novos; ali é proibido.
+1327	Why? Every psik reisha is rabbinic,	Por quê? Todo psik reisha é rabínico,
+1328	rabbinic,	rabínico,
+1329	where he does not care, is permitted.	em que ele não se importa, é permitido.
+1330	Pleasant... that it is rabbinic, not Torah-level, and also that he does not care.	Agradável... que é rabínico, não da Torá, e também que ele não se importa.
+1331	He does not care; so it is with this matter of a cigarette.	Ele não se importa; assim é neste assunto do cigarro.
+1332	He cares whether it erases? Does it interest him if it erases or not?	Ele se importa se apaga? Interessa-lhe se apaga ou não?
+1333	Let it erase. He says: he inhales the tobacco, he enjoys	Que apague. Ele diz: inala o tabaco, desfruta
+1334	the tobacco. It does not matter.	do tabaco. Não importa.
+1335	It is clear that he gains nothing from it. It is a psik reisha	É claro que ele não ganha nada com isso. É um psik reisha
+1336	where he does not care, and also he does not intend; he intends	em que ele não se importa, e também não pretende; ele pretende
+1337	only to smoke, to profit from the tobacco.	apenas fumar, aproveitar o tabaco.
+1338	If he could smoke the tobacco alone, it would remain the same;	Se pudesse fumar só o tabaco, ficaria igual;
+1339	what does he care? Only that it is not arranged	que lhe importa? Só que não está organizado
+1340	in such a form. Perhaps a generation will come that will make us	dessa forma. Talvez venha uma geração que nos fará
+1341	cigarettes that will make only the tobacco, and it will stay whole	cigarros que farão só o tabaco, e ficará inteiro
+1342	as it is.	como está.
+1343	Perhaps they will come one day and make all of	Talvez venham algum dia e façam toda
+1344	the technology that renews every new day as a machine,	a tecnologia que se renova a cada novo dia como máquina,
+1345	the work of Creation. They all make something new; they will make a patent	a obra da Criação. Todos fazem algo novo; farão uma patente
+1346	where it will make only the tobacco, and the paper will be	em que fará só o tabaco, e o papel será
+1347	paper that does not... smell and taste will come,	papel que não... virá cheiro e sabor,
+1348	all the tobacco, all the taste and smell of tobacco	todo o tabaco, todo o sabor e cheiro do tabaco
+1349	is only from the tobacco itself, not from its paper. Yes. Therefore...	vêm só do próprio tabaco, não do papel. Sim. Portanto...
