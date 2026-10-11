@@ -1,7 +1,7 @@
 # lane4-001
 
 14 of 25 lessons published · 0 skipped · status **pending**
-Tokens (all agents so far): 15.0M in (mostly cache reads) · 2.07M out · API-equivalent $35.60
+Tokens (all agents so far): 0.0M in (mostly cache reads) · 0.00M out
 
 | lesson | state | detail |
 |---|---|---|
