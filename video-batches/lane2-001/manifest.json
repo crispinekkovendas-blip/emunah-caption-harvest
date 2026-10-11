@@ -1,0 +1,275 @@
+{
+ "name": "lane2-001",
+ "lane": 2,
+ "created": "2026-10-11T19:18:18.040Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "bRIvTTIzH5o",
+   "title": "O pecado dos espiões e a letra Yud de Yehoshua",
+   "lines": 1420,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "grFN8w1gc4g",
+   "title": "Viagem de correção: a santidade do ser humano",
+   "lines": 1902,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "VoFVmnWLkPs",
+   "title": "Yitro: a escolha da verdade e a Torá aceita com humildade",
+   "lines": 1881,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "KAg-H6xqh3c",
+   "title": "Rav Yitzchak Yosef: Tzedaká, terumot e leis de Pessach",
+   "lines": 2106,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qfGlDpcYZnk",
+   "title": "Parashat Tzav e o porquê de Shabat HaGadol",
+   "lines": 1844,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Fvy2s3NrsMA",
+   "title": "Santidade no casamento: corpo e alma, Parashat Shemini",
+   "lines": 1756,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "EcMOvHIL2lw",
+   "title": "Sefirat HaOmer, o yetser hará e o respeito entre sábios",
+   "lines": 2536,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "9Lu7OIZF6eM",
+   "title": "Shemini: alegria, Torá e o dia da inauguração",
+   "lines": 1069,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "b_br63-bhTY",
+   "title": "A Tsaráat espiritual e a Haftará dos quatro metzoraim",
+   "lines": 1163,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "9FQOZD0UtXw",
+   "title": "Tudo é penhor: santidade, retribuição e yetzer hara",
+   "lines": 404,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "p-MLUV8a-VY",
+   "title": "Parashat Emor: por que a Parashá dos Moadim abre com Shabat",
+   "lines": 1300,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "G0_HJxT9z6Y",
+   "title": "Autoridade rabínica e Yom Tov Sheni (Emor)",
+   "lines": 1784,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "inJICZQYMRI",
+   "title": "Shemitá, Shabat de HaShem e a confiança no sustento",
+   "lines": 1596,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "W8o5VEZ2-rY",
+   "title": "Behaalotchá: a Menorá, o corpo e o mundo superior",
+   "lines": 1030,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Y3IAGtOmpJg",
+   "title": "Parashá Behaalotcha: Shmuel, Hilel e a força da humildade",
+   "lines": 1386,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "uXdZU6LGTEQ",
+   "title": "Os dez que entraram vivos no Gan Eden e a morte por beijo",
+   "lines": 669,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "r2FvCsx5PZ4",
+   "title": "Shiur do Rav Yitzchak Yosef: Va'etchanan, Rabanit e halachot",
+   "lines": 2182,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "gWU83Zv9WNU",
+   "title": "Parashá Shoftim: juízes, oficiais e as portas do corpo",
+   "lines": 1781,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "P4MztdfdlOs",
+   "title": "Selichot, shofar e as 13 Middot em Parashat Shoftim",
+   "lines": 917,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "waaNIVAoqAY",
+   "title": "A monarquia na Torá e o Rei Mashiach",
+   "lines": 1636,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PZkT_D8L_CI",
+   "title": "Ki Tavo: o Bait HaMikdash antes da Terra de Israel",
+   "lines": 1253,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5uLKyXWh_S8",
+   "title": "Ki Tavo: Bikurim, tsiv'a no Shabat e preparo para Rosh HaShaná",
+   "lines": 1008,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Yf4QANmsoYQ",
+   "title": "Nitsavim-Vayelech: preparar-se para Rosh HaShaná",
+   "lines": 946,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "OBB-AYKq9x8",
+   "title": "Negaim, três refeições de Shabat e o Nirgan",
+   "lines": 623,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "pD1nM_bSi90",
+   "title": "A Essência da Torá e a Vinda da Redenção",
+   "lines": 536,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "bRIvTTIzH5o.p0",
+  "bRIvTTIzH5o.p1",
+  "bRIvTTIzH5o.p2",
+  "bRIvTTIzH5o.p3",
+  "grFN8w1gc4g.p0",
+  "grFN8w1gc4g.p1",
+  "grFN8w1gc4g.p2",
+  "grFN8w1gc4g.p3",
+  "grFN8w1gc4g.p4",
+  "VoFVmnWLkPs.p0",
+  "VoFVmnWLkPs.p1",
+  "VoFVmnWLkPs.p2",
+  "VoFVmnWLkPs.p3",
+  "VoFVmnWLkPs.p4",
+  "KAg-H6xqh3c.p0",
+  "KAg-H6xqh3c.p1",
+  "KAg-H6xqh3c.p2",
+  "KAg-H6xqh3c.p3",
+  "KAg-H6xqh3c.p4",
+  "qfGlDpcYZnk.p0",
+  "qfGlDpcYZnk.p1",
+  "qfGlDpcYZnk.p2",
+  "qfGlDpcYZnk.p3",
+  "qfGlDpcYZnk.p4",
+  "Fvy2s3NrsMA.p0",
+  "Fvy2s3NrsMA.p1",
+  "Fvy2s3NrsMA.p2",
+  "Fvy2s3NrsMA.p3",
+  "EcMOvHIL2lw.p0",
+  "EcMOvHIL2lw.p1",
+  "EcMOvHIL2lw.p2",
+  "EcMOvHIL2lw.p3",
+  "EcMOvHIL2lw.p4",
+  "EcMOvHIL2lw.p5",
+  "9Lu7OIZF6eM.p0",
+  "9Lu7OIZF6eM.p1",
+  "9Lu7OIZF6eM.p2",
+  "b_br63-bhTY.p0",
+  "b_br63-bhTY.p1",
+  "b_br63-bhTY.p2",
+  "9FQOZD0UtXw.p0",
+  "p-MLUV8a-VY.p0",
+  "p-MLUV8a-VY.p1",
+  "p-MLUV8a-VY.p2",
+  "G0_HJxT9z6Y.p0",
+  "G0_HJxT9z6Y.p1",
+  "G0_HJxT9z6Y.p2",
+  "G0_HJxT9z6Y.p3",
+  "inJICZQYMRI.p0",
+  "inJICZQYMRI.p1",
+  "inJICZQYMRI.p2",
+  "inJICZQYMRI.p3",
+  "W8o5VEZ2-rY.p0",
+  "W8o5VEZ2-rY.p1",
+  "W8o5VEZ2-rY.p2",
+  "Y3IAGtOmpJg.p0",
+  "Y3IAGtOmpJg.p1",
+  "Y3IAGtOmpJg.p2",
+  "Y3IAGtOmpJg.p3",
+  "uXdZU6LGTEQ.p0",
+  "uXdZU6LGTEQ.p1",
+  "r2FvCsx5PZ4.p0",
+  "r2FvCsx5PZ4.p1",
+  "r2FvCsx5PZ4.p2",
+  "r2FvCsx5PZ4.p3",
+  "r2FvCsx5PZ4.p4",
+  "gWU83Zv9WNU.p0",
+  "gWU83Zv9WNU.p1",
+  "gWU83Zv9WNU.p2",
+  "gWU83Zv9WNU.p3",
+  "P4MztdfdlOs.p0",
+  "P4MztdfdlOs.p1",
+  "P4MztdfdlOs.p2",
+  "waaNIVAoqAY.p0",
+  "waaNIVAoqAY.p1",
+  "waaNIVAoqAY.p2",
+  "waaNIVAoqAY.p3",
+  "PZkT_D8L_CI.p0",
+  "PZkT_D8L_CI.p1",
+  "PZkT_D8L_CI.p2",
+  "5uLKyXWh_S8.p0",
+  "5uLKyXWh_S8.p1",
+  "5uLKyXWh_S8.p2",
+  "Yf4QANmsoYQ.p0",
+  "Yf4QANmsoYQ.p1",
+  "Yf4QANmsoYQ.p2",
+  "OBB-AYKq9x8.p0",
+  "OBB-AYKq9x8.p1",
+  "pD1nM_bSi90.p0",
+  "pD1nM_bSi90.p1"
+ ]
+}
