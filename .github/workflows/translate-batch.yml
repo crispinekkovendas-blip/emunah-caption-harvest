@@ -6,21 +6,30 @@ name: Translate a video batch (Claude)
 # library is done:
 #
 #   make      resume the unfinished batch, or build the next one (video-batches/batch-NNN/)
-#   translate one job per chunk without output: one Claude Code agent each, 4 at a time
+#   translate one job per chunk without output: one Claude Code agent each, ONE AT A TIME
 #   publish   check every finished lesson, upload it to the site (by: claude), commit the outputs and
 #             the report; when the batch is complete, start the next one
 #
 # Auth: the repository secret CLAUDE_CODE_OAUTH_TOKEN (`claude setup-token`, the owner's Claude
 # subscription). When the plan's usage limit stops agents, the batch keeps what finished and the
-# 2-hourly schedule resumes it once the limit has reset. Never two runs at once.
+# 2-hourly schedule resumes it once the limit has reset.
+#
+# LANES (2026-10-11, the owner: 5 batches at the same time, no parallel agents inside a batch):
+# five lanes run side by side, each its own batch and its own chain; inside a lane the agents run one
+# after another. Each lane owns a fixed share of the lessons (hash of the id), so lanes never collide. The
+# schedule wakes all five lanes; a lane already running just goes on.
 
 on:
   workflow_dispatch:
+    inputs:
+      lane:
+        description: 'Lane 1-5 (empty = start all five lanes)'
+        default: ''
   schedule:
     - cron: '41 */2 * * *'
 
 concurrency:
-  group: video-batches
+  group: video-batches-lane-${{ inputs.lane || 'kick' }}
   cancel-in-progress: false
 
 permissions:
@@ -28,7 +37,20 @@ permissions:
   actions: write
 
 jobs:
+  kick:
+    if: inputs.lane == ''
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wake the five lanes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for lane in 1 2 3 4 5; do
+            gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=$lane
+          done
+
   make:
+    if: inputs.lane != ''
     runs-on: ubuntu-latest
     outputs:
       batch: ${{ steps.make.outputs.batch }}
@@ -51,14 +73,14 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
-        run: node --experimental-transform-types --import ./scripts/ts-hook.mjs scripts/batch-make.mjs --size 25
+        run: node --experimental-transform-types --import ./scripts/ts-hook.mjs scripts/batch-make.mjs --size 25 --lane ${{ inputs.lane }}
       - name: Commit the new batch
         if: steps.tok.outputs.has == 'true'
         run: |
           git config user.name "video-batches"
           git config user.email "actions@github.com"
           git add video-batches
-          git diff --cached --quiet || (git commit -m "video-batches: ${{ steps.make.outputs.batch }} — work files" && git push)
+          git diff --cached --quiet || (git commit -m "video-batches: ${{ steps.make.outputs.batch }} (lane ${{ inputs.lane }}) — work files" && for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done)
 
   translate:
     needs: make
@@ -67,7 +89,7 @@ jobs:
     timeout-minutes: 90
     strategy:
       fail-fast: false
-      max-parallel: 4
+      max-parallel: 1
       matrix:
         chunk: ${{ fromJSON(needs.make.outputs.chunks) }}
     steps:
@@ -140,4 +162,4 @@ jobs:
         if: steps.publish.outputs.complete == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}"
+        run: gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=${{ inputs.lane }}

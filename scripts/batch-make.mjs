@@ -9,6 +9,9 @@
  * already in a batch or already translated by Claude. Each lesson is split into chunks of ≤ CHUNK
  * lines with the lesson's study as context — the work files the agents read.
  *
+ * --lane N: each lane resumes only its own pending batch and owns the batches it makes; lessons are never
+ * shared — every batch, whatever its lane, counts as taken.
+ *
  * Writes GITHUB_OUTPUT: batch=<name> and chunks=<JSON list of "<id>.p<k>"> (empty when nothing is left).
  */
 import fs from 'node:fs'
@@ -20,6 +23,9 @@ const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..')
 const DIR = path.join(ROOT, 'video-batches')
 const SITE = process.env.SITE_URL || 'https://emunah-shlemah-qwik.vercel.app'
 const SIZE = Number(process.argv[process.argv.indexOf('--size') + 1]) || 25
+// lanes (2026-10-11): several batches run at the same time, each owned by one lane; a batch made
+// before lanes existed belongs to lane 1
+const LANE = Number(process.argv[process.argv.indexOf('--lane') + 1]) || 1
 const CHUNK = 450
 const BEFORE = 12
 const SUPA = (process.env.SUPABASE_URL || '').replace(/\/$/, '')
@@ -58,12 +64,12 @@ const pending = (name) => {
 }
 
 fs.mkdirSync(DIR, { recursive: true })
-const batches = fs.readdirSync(DIR).filter((d) => /^batch-\d{3}$/.test(d)).sort()
+const batches = fs.readdirSync(DIR).filter((d) => /^(batch-\d{3}|lane\d-\d{3})$/.test(d)).sort()
 
 // 1. an unfinished batch is resumed
 for (const b of batches) {
   const m = JSON.parse(fs.readFileSync(path.join(DIR, b, 'manifest.json'), 'utf8'))
-  if (m.status === 'done') continue
+  if (m.status === 'done' || (m.lane || 1) !== LANE) continue
   const left = pending(b)
   console.log(`${b} is still pending: ${left.length} chunks without output`)
   output('batch', b)
@@ -94,9 +100,14 @@ try {
 const richest = Object.entries(study)
   .sort((a, b) => b[1].s - a[1].s || b[1].q - a[1].q)
   .map(([id]) => id)
-const order = [...new Set([...week, ...richest])].filter((id) => study[id] && !taken.has(id))
+// each lane owns a fixed share of the lessons (a hash of the id), so lanes that build batches at the
+// same moment can never take the same lesson
+const LANES = 5
+const laneOf = (id) => [...id].reduce((h, ch) => (h * 31 + ch.charCodeAt(0)) >>> 0, 7) % LANES
+const order = [...new Set([...week, ...richest])].filter((id) => study[id] && !taken.has(id) && laneOf(id) === LANE - 1)
 
-const name = `batch-${String(batches.length + 1).padStart(3, '0')}`
+const mine = batches.filter((b) => b.startsWith(`lane${LANE}-`)).length
+const name = `lane${LANE}-${String(mine + 1).padStart(3, '0')}`
 const lessons = []
 const chunks = []
 for (const id of order) {
@@ -148,7 +159,7 @@ if (!lessons.length) {
 }
 fs.mkdirSync(path.join(DIR, name, 'out'), { recursive: true })
 fs.writeFileSync(path.join(DIR, name, 'out', '.keep'), '')
-fs.writeFileSync(path.join(DIR, name, 'manifest.json'), JSON.stringify({ name, created: new Date().toISOString(), status: 'pending', lessons, chunks }, null, 1) + '\n')
+fs.writeFileSync(path.join(DIR, name, 'manifest.json'), JSON.stringify({ name, lane: LANE, created: new Date().toISOString(), status: 'pending', lessons, chunks }, null, 1) + '\n')
 console.log(`${name}: ${lessons.length} lessons, ${chunks.length} chunks`)
 output('batch', name)
 output('chunks', JSON.stringify(chunks))
