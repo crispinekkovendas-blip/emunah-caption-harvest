@@ -1,0 +1,450 @@
+900	Did you notice what we did yesterday, Friday? First of all,	Vocês notaram o que fizemos ontem, sexta-feira? Primeiro de tudo,
+901	we lit the Chanukah candle, and then we lit the Shabbat candles.	acendemos a vela de Chanucá e depois acendemos as velas de Shabat.
+902	Here they ask: why may we light the Shabbat candles later, after all,	Aqui perguntam: por que se pode acender as velas de Shabat depois, se afinal
+903	we don't accept Shabbat by lighting the candles? I'll explain shortly.	não se recebe o Shabat ao acender as velas? Já explico.
+904	First of all, the Shabbat candle is holier.	Antes de tudo, a vela de Shabat é mais sagrada.
+905	What is holier? The Shabbat candle is holier. And not only	O que é mais sagrado? A vela de Shabat é mais sagrada. E não só
+906	that: it is frequent, and what is frequent comes first. First of	isso: ela é frequente, e o que é frequente vem primeiro. Primeiro
+907	all you would light the Shabbat candle, which is frequent, and then	você acenderia a vela de Shabat, que é frequente, e depois
+908	the Chanukah candle. So why does Maran rule otherwise?	a vela de Chanucá. Então por que Maran decide de outro modo?
+909	The force of this question is also a contradiction within Maran. More	A força dessa pergunta é também uma contradição dentro de Maran. Mais
+910	than that, here in siman 679, on Chanukah, Maran writes:	ainda, aqui no simán 679, sobre Chanucá, Maran escreve:
+911	first of all the Chanukah candle. That is, Maran says that if	primeiro a vela de Chanucá. Ou seja, Maran diz que, se
+912	you light the Shabbat candle, you have accepted Shabbat. How will you light	você acender a vela de Shabat, já recebeu o Shabat. Como vai acender
+913	Chanukah? That is desecrating Shabbat. But in siman 263, section	Chanucá? Isso é profanar o Shabat. Mas no simán 263, parágrafo
+914	10, Maran writes explicitly; he brings an anonymous opinion, and there is what Maran	10, Maran escreve explicitamente; ele traz uma opinião anônima, e o que Maran
+915	rules: that accepting Shabbat does not depend on lighting the candles.	decide é que receber o Shabat não depende de acender as velas.
+916	You may light candles and afterwards do work,	Você pode acender as velas e depois fazer trabalho,
+917	do whatever you want. There is a dispute about whether a woman	fazer o que quiser. Há uma disputa sobre se a mulher
+918	who lights is accepting Shabbat or not. Maran brought this	que acende está recebendo o Shabat ou não. Maran trouxe isso
+919	in the middle of the section, but the section itself is anonymous,	no meio do parágrafo, mas o parágrafo em si é anônimo,
+920	and there are those who hold that one need not accept Shabbat then. If one doesn't accept	e há quem entenda que então não se precisa receber o Shabat. Se não recebe
+921	Shabbat, then first light the Shabbat candle: the frequent one,	o Shabat, então primeiro acenda a vela de Shabat: a frequente,
+922	and the frequent comes first. The Shabbat candle is holier than the	e o frequente vem primeiro. A vela de Shabat é mais sagrada que a
+923	Chanukah candle, and then Chanukah. So why did Maran rule: first of all	vela de Chanucá, e depois Chanucá. Então por que Maran decidiu: primeiro
+924	Chanukah, the Chanukah candle, and then the Shabbat candle? This is a question	Chanucá, a vela de Chanucá, e depois a vela de Shabat? É uma pergunta
+925	that troubled the Acharonim, and it is a wonder. We need to look	que ocupou os Acharonim, e é de se admirar. Precisamos olhar
+926	at the Acharonim, first of all at the Beit Yosef, the Beit Yosef and	os Acharonim, primeiro de tudo o Beit Yosef, o Beit Yosef e
+927	the Radbaz: what did they write on this subject? We can't just have each one	o Radbaz: o que eles escreveram sobre esse assunto? Não dá para cada um
+928	say a theory of his own. With all due respect, I saw some	dizer uma teoria própria. Com todo o respeito, vi um
+929	author who writes that from here there is proof that Maran is concerned	autor que escreve que daqui há prova de que Maran se preocupa
+930	to a degree with the opinion that Shabbat is accepted by lighting the candles,	em certa medida com a opinião de que o Shabat é recebido ao acender as velas,
+931	since they light the candles before Shabbat. And if Maran	porque se acendem as velas antes do Shabat. E se Maran
+932	is concerned for this opinion, the Halachot Gedolot, as he holds,	se preocupa com essa opinião, as Halachot Gedolot, como ele entende,
+933	if Maran is concerned for this, then according to this one must first	se Maran se preocupa com isso, então, segundo isso, primeiro é preciso
+934	light the Shabbat candle and afterwards bless. Because if you bless	acender a vela de Shabat e só depois recitar a bênção. Pois se você abençoar
+935	first, you have accepted Shabbat by lighting the Shabbat candle; you accepted Shabbat	primeiro, recebeu o Shabat ao acender a vela de Shabat; recebeu o Shabat
+936	and only then light and do work afterwards. And so he writes:	e só depois acende e faz trabalho. E assim ele escreve:
+937	a woman who always had the custom of lighting and then blessing,	uma mulher que sempre teve o costume de acender e depois abençoar,
+938	should continue so. They say in Arvit, "no matter"; she should continue so.	deve continuar assim. Dizem em Arvit: "não importa"; que continue assim.
+939	Why must we be concerned? If they lit first and blessed afterwards,	Por que precisamos nos preocupar? Se acenderam primeiro e abençoaram depois,
+940	then they accepted Shabbat. So he writes, and this is the simple meaning.	então receberam o Shabat. Assim ele escreve, e esse é o sentido simples.
+941	With all due forgiveness, the light of that sage, who for years	Com todo o perdão, a luz desse sábio, que durante anos
+942	labored over this halachah, that one should bless first and light afterwards,	se esforçou nesta halachá, de abençoar primeiro e acender depois,
+943	is deduced from the Rambam, that one who blesses after performing	deduz-se do Rambam, que quem abençoa depois de realizar
+944	the mitzvah makes a blessing in vain. It is explicit in Rabbeinu Manoach	a mitsvá faz uma bênção em vão. É explícito em Rabbeinu Manoach
+945	that this is a blessing in vain. It is explicit in Shibolei HaLeket that this is	que isso é uma bênção em vão. É explícito no Shibolei HaLeket que isso é
+946	a blessing in vain. Many Rishonim, almost 30	uma bênção em vão. Muitos Rishonim, quase 30
+947	Rishonim, rule without qualification to bless first and then	Rishonim, decidem sem ressalvas que se abençoa primeiro e depois
+948	light. They didn't write "in vain," but they wrote it this way:	se acende. Não escreveram "em vão", mas escreveram assim:
+949	first bless, then light. All the mitzvot,	primeiro abençoar, depois acender. Todas as mitsvot,
+950	everyone agrees, Pesachim 7b: one blesses before performing them.	todos concordam, Pesachim 7b: abençoa-se antes de realizá-las.
+951	But among the Rishonim I mentioned, the words of the Rambam,	Mas entre os Rishonim que mencionei, as palavras do Rambam,
+952	the words of Rabbeinu Manoach, it is clear there that it is a blessing in vain.	as palavras de Rabbeinu Manoach, está claro ali que é bênção em vão.
+953	So you want to prove that what Maran did, for some decades,	Então você quer provar que o que Maran fez, por algumas décadas,
+954	changed the custom? Many were accustomed to bless first	mudou o costume? Muitos tinham o costume de abençoar primeiro
+955	and then light, and the Rav changed the custom.	e depois acender, e o Rav mudou o costume.
+956	Thank HaShem, today I think most of them are here:	Graças a HaShem, hoje acho que a maioria está aqui:
+957	they first bless, and then they light.	primeiro abençoam e depois acendem.
+958	It was reversed and returned to lighting first	Isso se inverteu e voltou a se acender primeiro
+959	and blessing afterwards. So much so that another writer wrote,	e abençoar depois. A tal ponto que outro autor escreveu,
+960	in the collection "Vayaan Shmuel," published by Kisei Rachamim,	na coletânea "Vayaan Shmuel", publicada por Kisei Rachamim,
+961	he writes that we must restore the crown to its former glory.	que devemos restaurar a coroa à sua antiga glória.
+962	What crown? First to light, and then to bless,	Que coroa? Primeiro acender e depois abençoar,
+963	the opposite of the Rav. So he writes in his book. And he was one	o oposto do Rav. Assim ele escreve em seu livro. E ele era um
+964	whom Maran used to bring close, used to strengthen. He	que Maran aproximava, que fortalecia. Ele
+965	needed strengthening, yes. Not for nothing did the Rav strengthen him.	precisava de fortalecimento, sim. Não foi à toa que o Rav o fortaleceu.
+966	It is what you return; he says to restore	É o que você restaura; ele diz para restaurar
+967	the crown to its former glory. Now, the sage who wrote to bring	a coroa à sua antiga glória. Agora, o sábio que escreveu para trazer
+968	proof from siman 679:	prova do simán 679:
+969	What does he want to say? You see that Maran says	O que ele quer dizer? Você vê que Maran diz
+970	first the Chanukah candle, then the Shabbat candle. Why? Because	primeiro a vela de Chanucá, depois a vela de Shabat. Por quê? Porque
+971	the Shabbat candle means accepting Shabbat, and therefore he says first	a vela de Shabat é receber o Shabat, e por isso ele diz que primeiro
+972	to bless. But what does this have to do with the blessing	se abençoa. Mas o que isso tem a ver com a bênção
+973	on the lighting? I can understand how the Baag said in Halachot	sobre a acendimento? Eu entendo como o Baag disse nas Halachot
+974	Gedolot, the first book printed after our	Gedolot, o primeiro livro impresso depois do nosso
+975	Talmud,	Talmud,
+976	how he says that by lighting the candles one accepts Shabbat.	como ele diz que ao acender as velas se recebe o Shabat.
+977	Two: he lights, whether two candles or seven	Dois: ele acende, seja duas velas ou sete
+978	candles, once he finishes lighting I have accepted	velas, quando termina de acender eu recebi
+979	Shabbat, not with the blessing. What does this have to do with the blessing? You can	o Shabat, não com a bênção. O que isso tem a ver com a bênção? Você pode
+980	bless, light, and after you finish lighting, you accept Shabbat,	abençoar, acender, e depois que termina de acender, recebe o Shabat,
+981	according to the Baag. And furthermore, Maran himself in the Beit Yosef here	segundo o Baag. E mais, o próprio Maran no Beit Yosef aqui
+982	you need to look at the Beit Yosef before you decide	você precisa olhar o Beit Yosef antes de decidir
+983	decisions. Look at the Beit Yosef. You want to uproot what	decisões. Olhe o Beit Yosef. Você quer desfazer o que
+984	the Rav did well? Then uproot it with a look at the Beit Yosef.	o Rav fez bem? Então desfaça olhando o Beit Yosef.
+985	He explains why: I am concerned. First Chanukah,	Ele explica por quê: eu me preocupo. Primeiro Chanucá,
+986	and afterwards I say that you may stringently, easily,	e depois eu digo que você pode ser rigoroso, com facilidade,
+987	do this: first the Chanukah candle, then light	fazer assim: primeiro a vela de Chanucá, depois acender
+988	the Shabbat candle. Be concerned for the Baag's view; perhaps according to the Baag	a vela de Shabat. Preocupe-se com a opinião do Baag; talvez segundo o Baag
+989	in the lighting itself you accept Shabbat, and then how	na própria acendimento você receba o Shabat, e então como
+990	will you light the Chanukah candle afterwards? So it is a good thing that everyone	você acenderá depois a vela de Chanucá? Então é bom que todos
+991	do so, "rav chad milta."	façam assim, "rav chad milta".
+992	It is not some blessing in vain or anything; Maran spoke	Não é bênção em vão nem nada disso; Maran falou
+993	of the ideal: first Chanukah and afterwards the	do ideal: primeiro Chanucá e depois a vela de
+994	Shabbat candle. We'll soon prove that it is even more than ideal. What	Shabat. Logo provaremos que é até mais que o ideal. Qual
+995	is the problem? The frequent one? The Rav writes that the frequent comes first,	é o problema? O frequente? O Rav escreve que o frequente vem primeiro,
+996	but that is not essential; the frequent should be put first as the ideal,	mas isso não é essencial; o frequente deve ser posto primeiro como ideal,
+997	so it is not essential. You want to be concerned for the opinion of	então não é essencial. Você quer se preocupar com a opinião do
+998	the Baag, which is more important? Be concerned for the Baag's view, even though	Baag, o que é mais importante? Preocupe-se com a opinião do Baag, embora
+999	the halachah was not ruled like him. So the Beit Yosef writes.	a halachá não tenha sido decidida como ele. Assim escreve o Beit Yosef.
+1000	He writes explicitly	Ele escreve explicitamente
+1001	The Chida writes that the essence is as Maran ruled here	O Chida escreve que o essencial é como Maran decidiu aqui
+1002	by us, which satisfies all the opinions. This is the wording	entre nós, o que cumpre todas as opiniões. Esta é a expressão
+1003	of the Chida. That is, not that Maran rules this way; Maran	do Chida. Ou seja, não que Maran decida assim; Maran
+1004	rules that accepting Shabbat does not depend on lighting, and today	decide que receber o Shabat não depende de acender, e hoje
+1005	we accept Shabbat with the psalm "Mizmor Shir leYom HaShabbat"	nós recebemos o Shabat com o salmo "Mizmor Shir leYom HaShabat"
+1006	or by answering "Barchu," and not by lighting the candles. So ruled	ou ao responder "Barchu", e não ao acender as velas. Assim decidiu
+1007	Maran. But there is the view of the Baag, a different view. Why not	Maran. Mas há a opinião do Baag, uma opinião diferente. Por que não
+1008	be concerned about this? It is explicit in Shibolei HaLeket. He	se preocupar com isso? É explícito no Shibolei HaLeket. Ele
+1009	writes this in the Tosefet; he didn't bring it, but anyone	escreve isso no Tosefet; não o trouxe, mas qualquer um
+1010	who looks in Shibolei HaLeket, laws of Chanukah, finds how much	que olhe o Shibolei HaLeket, leis de Chanucá, vê quanto
+1011	one can easily be concerned for the opinion of the Halachot Gedolot, that accepting	se pode facilmente levar em conta a opinião das Halachot Gedolot, de que receber
+1012	Shabbat depends on lighting. Be concerned for it. What's the problem? Chanukah	o Shabat depende de acender. Preocupe-se com isso. Qual o problema? Chanucá
+1013	first and then Shabbat. But by this	primeiro e depois Shabat. Mas com isso
+1014	to derive a halachah, that according to this one first lights	tirar uma halachá, de que segundo isso se acende primeiro
+1015	and then blesses, with a blessing in vain? What does that have to do with it?	e depois se abençoa, com bênção em vão? O que isso tem a ver?
+1016	I want to be concerned for the Baag: first Chanukah, then	Quero levar em conta o Baag: primeiro Chanucá, depois
+1017	Shabbat. But that it would be a blessing in vain? This is very forced,	Shabat. Mas que seja bênção em vão? Isso é muito forçado,
+1018	what they write; they want to prove it	o que eles escrevem; querem provar isso
+1019	from this matter. Anyone can look at the responsa of the Radbaz;	com este assunto. Qualquer um pode ver as responsas do Radbaz;
+1020	the Acharonim copied him, they brought the Radbaz.	os Acharonim o copiaram, trouxeram o Radbaz.
+1021	He writes explicitly that lighting candles is indeed not accepting	Ele escreve explicitamente que acender velas de fato não é receber
+1022	Shabbat, but one should be concerned as an ideal, just as you may	o Shabat, mas deve-se levar em conta como ideal, assim como se pode
+1023	be stringent as an ideal. The Peri Megadim also writes	ser rigoroso como ideal. O Peri Megadim também escreve
+1024	so: as an ideal be concerned for this view, and light the Shabbat candle first.	assim: como ideal, leve em conta essa opinião, e acenda primeiro a vela de Shabat.
+1025	More than that, my friends: Chanukah and then Shabbat. More	Mais que isso, meus amigos: Chanucá e depois Shabat. Mais
+1026	than that: who prepares Shabbat? The woman, usually. A regular married man	ainda: quem prepara o Shabat? A mulher, geralmente. Um homem casado comum
+1027	has a wife; if he is single, he	tem esposa; se é solteiro,
+1028	lights for himself. Usually it is the woman. If the husband	acende para si. Geralmente é a mulher. Se o marido
+1029	snatched this mitzvah from his wife, she would summon him	tomasse essa mitsvá da esposa, ela o convocaria
+1030	to the beit din, and they would make him give her ten,	ao beit din, e fariam com que lhe desse dez,
+1031	ten coins, and it returns to her; what a woman acquires, her husband acquires,	dez moedas, e volta para ela; o que a mulher adquire, o marido adquire,
+1032	but she can claim it. That is the role	mas ela pode reivindicar. Esse é o papel
+1033	of the woman. So she lights the Shabbat candle. Say today	da mulher. Então ela acende a vela de Shabat. Digamos que hoje
+1034	at four-twenty she lights the Shabbat candle. Who	às quatro e vinte ela acende a vela de Shabat. Quem
+1035	lights the Chanukah candle? As the world is usually arranged,	acende a vela de Chanucá? Como o mundo costuma estar organizado,
+1036	the husband does. So what does this have to do with the husband? The view of the Or	é o marido. Então o que isso tem a ver com o marido? A opinião do Or
+1037	Zarua, the view of Shibolei HaLeket, the view of the Acharonim,	Zarua, a opinião do Shibolei HaLeket, a opinião dos Acharonim,
+1038	of the Rishonim, sorry, the Rishonim, besides the Mordechai	dos Rishonim, desculpe, os Rishonim, além do Mordechai
+1039	and the Tashbetz, who are two who disagree: a woman lights Shabbat candles	e do Tashbetz, que são dois que discordam: a mulher acende as velas de Shabat
+1040	and she herself accepts Shabbat; she accepts Shabbat, and her	e ela mesma recebe o Shabat; ela recebe o Shabat, e o seu
+1041	husband? What does it have to do with him? He did not light	marido? O que isso tem a ver com ele? Ele não acendeu
+1042	Shabbat candles, did not accept Shabbat, so he lights	velas de Shabat, não recebeu o Shabat, então ele acende
+1043	Chanukah because he didn't accept Shabbat, and she lights the Shabbat candle.	Chanucá porque não recebeu o Shabat, e ela acende a vela de Shabat.
+1044	So the frequent comes first: first of all the	Então o frequente vem primeiro: antes de tudo a
+1045	Shabbat candle; she lights, and the husband lights afterwards the	vela de Shabat; ela acende, e o marido acende depois a
+1046	Chanukah candle. These are two separate things. There is the Tashbetz	vela de Chanucá. São duas coisas separadas. Há o Tashbetz
+1047	and the Mordechai who hold that she drags along all	e o Mordechai que entendem que ela arrasta consigo todos
+1048	the members of her household; she accepts Shabbat and all her household is dragged along.	os de sua casa; ela recebe o Shabat e toda a sua casa é arrastada junto.
+1049	But the Rishonim, many earlier Rishonim,	Mas os Rishonim, muitos Rishonim anteriores,
+1050	say explicitly that her household is not so. The Acharonim also	dizem explicitamente que não é assim com sua casa. Os Acharonim também
+1051	rule that her household is not so. Rav	decidem que não é assim. O Rav
+1052	Moshe Feinstein rules that they are not dragged after the wife, all	Moshe Feinstein decide que eles não são arrastados pela esposa, ainda
+1053	the more so her husband, who is independent. So she lit Shabbat candles	mais o marido, que é independente. Então ela acendeu as velas de Shabat
+1054	and accepted Shabbat, even according to the Baag. First of all, we	e recebeu o Shabat, mesmo segundo o Baag. Antes de tudo, nós,
+1055	Sephardim, hold that accepting Shabbat doesn't depend on lighting. That is	sefaradim, entendemos que receber o Shabat não depende de acender. Essa é
+1056	the halachah. But even if she, say, is concerned and she	a halachá. Mas mesmo que ela, digamos, se preocupe e
+1057	lights, she wants to accept Shabbat, fine, very well.	acenda, quer receber o Shabat, tudo bem.
+1058	He lights Chanukah, so two separate things. So	Ele acende Chanucá, então são duas coisas separadas. Então
+1059	why must we put Chanukah before Shabbat? The frequent comes first,	por que precisamos pôr Chanucá antes do Shabat? O frequente vem primeiro,
+1060	first of all, and the Shabbat light is holier. The husband should light.	antes de tudo, e a luz de Shabat é mais sagrada. O marido que acenda.
+1061	The woman lights Shabbat candles and the husband lights the	A mulher acende as velas de Shabat e o marido acende a vela de
+1062	Chanukah candle; he isn't dragged along. Therefore it is explicit in the Or Zarua that first	Chanucá; ele não é arrastado. Por isso é explícito no Or Zarua que primeiro
+1063	they light	se acende
+1064	the Shabbat candle and afterwards the Chanukah candle. So according to this,	a vela de Shabat e depois a vela de Chanucá. Então, segundo isso,
+1065	there's no proof at all regarding the blessing; all the more so	não há prova nenhuma quanto à bênção; ainda mais
+1066	the blessing that we bless before lighting; how could it be? And the truth	a bênção que fazemos antes de acender; como poderia ser? E a verdade
+1067	is, the Or Zarua brings that they were accustomed first to light	é que o Or Zarua traz que eles tinham o costume de acender primeiro
+1068	the Chanukah candle and then to light the Shabbat candle, and that is a wonder.	a vela de Chanucá e depois a vela de Shabat, e isso é de se admirar.
+1069	Why a wonder? There is light in the house. What is the Shabbat candle?	Por que é de admirar? Há luz na casa. O que é a vela de Shabat?
+1070	So that a person won't trip over a chair. Whoever put a chair in the middle	Para que a pessoa não tropece numa cadeira. Quem pôs uma cadeira no meio
+1071	will get angry at him, and shalom bayit is nullified. You put it there, right?	vai se irritar com ele, e a paz no lar se desfaz. Você a pôs ali, certo?
+1072	Usually a man marries why? To pour out all his anger	Em geral, o homem se casa para quê? Para descarregar toda a raiva
+1073	on his wife, yes? So you put this chair here, why put	na esposa, não é? Então você pôs essa cadeira aqui, por que pôr
+1074	it here? And then shalom bayit is nullified. Therefore they check the candle.	aqui? E então a paz no lar se desfaz. Por isso se examina a vela.
+1075	The Shabbat candle, "Shalom Aleichem"; this is the Shabbat candle, for the sake of	A vela de Shabat, "Shalom Aleichem"; a vela de Shabat é por causa da
+1076	shalom bayit. So there is Chanukah; you have light in the house	paz no lar. Então há Chanucá; você tem luz na casa
+1077	of Chanukah. True, one may not use the light, go by	de Chanucá. É verdade que é proibido usar a luz, andar por
+1078	the light; one may only read something by the Chanukah candle's light.	essa luz; só se pode ler algo à luz da vela de Chanucá.
+1079	That is forbidden. And there is the shamash in the chanukiah, one can go by it.	Isso é proibido. E há o shamash na chanukiá, pode-se andar por ele.
+1080	More than that: you know there is a famous Or Zarua	Mais que isso: vocês sabem que há um Or Zarua famoso
+1081	that we don't bless on tosefet Torah. Everyone	de que não se abençoa sobre a tosefet Torá. Todos
+1082	knows. Maran writes in the Shulchan Aruch that there is doubt	sabem. Maran escreve no Shulchan Aruch que há dúvida
+1083	whether one blesses on tosefet Torah or not. What does that	se se abençoa sobre a tosefet Torá ou não. O que isso
+1084	mean? You are in a hotel	quer dizer? Você está num hotel
+1085	and there is a tray in the lobby. Every woman comes and lights	e há uma bandeja no saguão. Cada mulher vem e acende
+1086	two candles. Please. The first woman who lights	duas velas. Por favor. A primeira mulher que acende
+1087	candles, I can understand: this is the hotel entrance. They	velas, eu entendo: é a entrada do hotel. Eles
+1088	eat there in the lobby, they walk around there in the lobby. So	comem ali no saguão, circulam ali no saguão. Então
+1089	it is part of the woman's use; she blesses. Fine?	faz parte do uso da mulher; ela abençoa. Certo?
+1090	The second woman who comes, there is already light in the room. What	A segunda mulher que chega, já há luz no ambiente. O que
+1091	do you bless? The whole mitzvah is that she has light in the room? Having it	você abençoa? Toda a mitsvá é ter luz no ambiente? Ter luz
+1092	in the room is called tosefet Torah. According to the Rema one blesses	no ambiente se chama tosefet Torá. Segundo o Rema, abençoa-se
+1093	on tosefet Torah; so the Ashkenazi women are accustomed. According to	sobre a tosefet Torá; assim têm o costume as asquenazitas. Segundo
+1094	Maran this is a blessing in vain. He writes that he is in doubt whether	Maran isso é bênção em vão. Ele escreve que tem dúvida se
+1095	one blesses on tosefet Torah. When Maran writes that he is in doubt, it is not	se abençoa sobre a tosefet Torá. Quando Maran escreve que tem dúvida, não é
+1096	our doubt, it is Maran's doubt. What should one do? "Sit and do not do."	dúvida nossa, é dúvida de Maran. O que fazer? "Sente-se e não faça."
+1097	How can I bless on tosefet Torah? More than that,	Como posso abençoar sobre a tosefet Torá? Mais que isso,
+1098	in the Sha'ar HaTziyun, the Ashkenazi gaon, author of the Mishnah Berurah,	no Sha'ar HaTziyun, o gaon asquenazita, autor da Mishná Berurá,
+1099	brings in the name of the Shelah HaKadosh, "Shnei Luchot	traz em nome do Shelah HaKadosh, "Shnei Luchot
+1100	HaBrit," also an Ashkenazi gaon, that all that is written	HaBrit", também um gaon asquenazita, que tudo o que está escrito
+1101	about blessing on tosefet Torah does not apply to one hotel:	sobre abençoar a tosefet Torá não vale para um único hotel:
+1102	one lights, it seems, here the Shabbat candle, the second there, the third	uma acende, ao que parece, aqui a vela de Shabat, a segunda ali, a terceira
+1103	there, scattered in the four corners of the house, tosefet Torah.	ali, espalhadas pelos quatro cantos da casa, tosefet Torá.
+1104	There is a difference between several candles burning in one corner	Há diferença entre várias velas acesas num canto
+1105	and burning in several corners. The Shelah HaKadosh writes that if it is	e acesas em vários cantos. O Shelah HaKadosh escreve que se é
+1106	in one place, everyone, all, even according to the opinion of	num só lugar, todos, todos, mesmo segundo a opinião dos
+1107	the Ashkenazim, it is a blessing in vain. So what they do	asquenazitas, é bênção em vão. Então o que fazem
+1108	in the lobby, they do against the Mishnah Berurah. The Mishnah	no saguão, fazem contra a Mishná Berurá. A Mishná
+1109	Berurah writes explicitly in the name of the Shelah HaKadosh that this is so.	Berurá escreve explicitamente em nome do Shelah HaKadosh que é assim.
+1110	He writes that there is no choice. So what will they do? There is no choice.	Ele escreve que não há alternativa. Então o que farão? Não há alternativa.
+1111	But as an ideal a person can bless; for us	Mas, como ideal, a pessoa pode abençoar; para nós,
+1112	Sephardim, whom Maran is in doubt, do we bless on tosefet Torah?	sefaradim, em quem Maran tem dúvida, abençoamos sobre a tosefet Torá?
+1113	Therefore, practically, a person should not light in the lobby, but in the room.	Por isso, na prática, a pessoa não deve acender no saguão, mas no quarto.
+1114	This is also a problem for the Chanukah candle, and for the Shabbat candle.	Isso é problema tanto para a vela de Chanucá quanto para a de Shabat.
+1115	The hotel owners don't agree to your lighting in the room. Maybe	Os donos do hotel não aceitam que se acenda no quarto. Talvez
+1116	the candles will fall on a towel. There were several cases	as velas caiam numa toalha. Houve vários casos
+1117	of fire. Once our yeshiva, Chazon Ovadia, we came back	de incêndio. Uma vez, na nossa yeshivá, Chazon Ovadia, voltamos
+1118	35, 36 years ago, a certain wise guy; there are such	há 35, 36 anos, um certo espertinho; há esses
+1119	boys, you know. He lit Shabbat candles on	rapazes, vocês sabem. Ele acendeu velas de Shabat sobre
+1120	the table, where his clothes were, his pajamas,	a mesa, onde estavam as roupas dele, o pijama,
+1121	good modest pajamas, not half. The candles fell,	um bom pijama, recatado, não pela metade. As velas caíram,
+1122	we pray for peace... "Bo'i kalah, bo'i kalah," fire!	rezamos pedindo proteção... "Bo'i kalá, bo'i kalá", fogo!
+1123	"Bo'i kalah" with fire.	"Bo'i kalá" com fogo.
+1124	The candles fell on his pajamas, it caught fire, spread	As velas caíram no pijama dele, pegou fogo, espalhou-se
+1125	to the blanket, the whole room, the whole floor there burned, caught	para o cobertor, o quarto todo, o andar inteiro queimou, pegou
+1126	fire. Afterwards they dealt with it, but we jumped out of the window.	fogo. Depois resolveram, mas nós pulamos pela janela.
+1127	We couldn't go out the doorway; it was full of smoke, the whole way.	Não conseguimos sair pela porta; estava cheio de fumaça, todo o caminho.
+1128	Which window? We brought a chair there so we could	Qual janela? Levamos uma cadeira para podermos
+1129	climb down from the window. I think it was the low floor,	descer pela janela. Acho que era o andar baixo,
+1130	not a high floor, and we ran away through the window. And then I forbade	não um andar alto, e fugimos pela janela. E então proibi
+1131	the boys to light Shabbat candles in the room. Or do	os rapazes de acender velas de Shabat no quarto. Ou façam
+1132	something: make a wooden board and put it there, with oil,	assim: façam uma tábua de madeira, ponham ali, com óleo,
+1133	not candles. Candles can fall; from there too they could fall.	não velas. Velas podem cair; dali também poderiam cair.
+1134	Rather oil. We bought it for the boys. What happened, it was like this,	Melhor óleo. Compramos para os rapazes. O que aconteceu foi assim,
+1135	a small fire, because of Shabbat candles they lit there	um pequeno incêndio, por causa de velas de Shabat acesas ali
+1136	in the room. So the hotel owners don't say it for nothing: don't	no quarto. Então os donos do hotel não dizem isso à toa: não
+1137	light Shabbat candles here, because such cases happened. There are also	acendam velas de Shabat aqui, porque aconteceram casos assim. Há também
+1138	the smoke detectors; if they light Shabbat candles, especially in this one	os detectores de fumaça; se acendem velas de Shabat, sobretudo neste
+1139	that passed, smoke comes out,	que passou, sai fumaça,
+1140	smoke comes out, gets caught in the sensors, and the whole hotel will be	sai fumaça, é captada pelos sensores, e o hotel inteiro vai ficar
+1141	in an uproar. They don't agree to this. And also Chanukah candles. What	em alvoroço. Eles não aceitam isso. E também as velas de Chanucá. O que
+1142	can a person do? For Shabbat candles there is a solution. Today solutions have come out	a pessoa pode fazer? Para as velas de Shabat há solução. Hoje surgiram soluções
+1143	in the stores. There is a store that sells	nas lojas. Há uma loja que vende
+1144	everything for a shekel. What is this store called? "Everything	tudo por um shekel. Como se chama essa loja? "Tudo
+1145	for a shekel," "everything for a dollar." You buy two such lamps	por um shekel", "tudo por um dólar". Compram-se duas lâmpadas assim
+1146	with a battery; it burns a few hours, then the battery	com bateria; fica acesa algumas horas, depois a bateria
+1147	runs out. You light it	acaba. Acende-se
+1148	before you light: "Blessed are You, HaShem," having in mind	antes de acender: "Bendito és Tu, HaShem", com a intenção
+1149	to light for Shabbat, and you light it. There are two	de acender para o Shabat, e acende-se. São duas
+1150	such, two shekels in all, that's all it costs. That's the	assim, dois shekels ao todo, é só isso que custa. Essa é a
+1151	mitzvah. If he got this, good; if he didn't get	mitsvá. Se conseguiu isso, ótimo; se não conseguiu
+1152	this, turn on the room's electricity. True,	isso, acenda a luz elétrica do quarto. É verdade que
+1153	it is not called "in honor of Shabbat." Some say, as the	isso não se chama "em honra do Shabat". Há quem diga, como
+1154	poskim wrote, that electricity should be like a Shabbat candle, that it be noticeable,	escreveram os poskim, que a luz elétrica deve ser como a vela de Shabat, que seja perceptível,
+1155	put two candles so that it's noticeable. But electricity on the ceiling,	ponha duas velas para que seja perceptível. Mas luz elétrica no teto,
+1156	how is it noticeable as Shabbat?	como é perceptível como Shabat?
+1157	It is not essential, it is the ideal, but it is not essential.	Não é essencial, é o ideal, mas não é essencial.
+1158	So turn on the electricity in the room, and if it is hard for you afterwards	Então acenda a luz do quarto, e se for difícil depois
+1159	to fall asleep with the light on,	dormir com a luz acesa,
+1160	it is distress on Shabbat. Oneg Shabbat, this is distress. So what do you do?	isso é aflição no Shabat. Oneg Shabat, isso é aflição. Então o que fazer?
+1161	Turn on the electricity in the bathroom, go outside; before	Acenda a luz do banheiro, saia; antes de
+1162	you press the switch, bless "to light the Shabbat candle,"	apertar o interruptor, abençoe "para acender a vela de Shabat",
+1163	lift the switch. The woman lifts the	acione o interruptor. A mulher aciona o
+1164	switch, opens the door; it casts light, it casts light also	interruptor, abre a porta; a luz se projeta, projeta-se também
+1165	on the room. In this way they fulfill the obligation. That is	no quarto. Assim cumprem a obrigação. Essa é
+1166	the matter of Shabbat; we solved it. Not to light downstairs	a questão do Shabat; resolvemos. Não acender lá embaixo
+1167	in the lobby. We must tell them to do it, some more Shabbatot	no saguão. É preciso avisar que façam, mais alguns Shabatot
+1168	they make	eles fazem
+1169	some hotel where all the rabbis, 300 rabbis of the	algum hotel onde todos os rabinos, 300 rabinos do
+1170	Kav HaHalachah, gather; so let them buy for a shekel two	Kav HaHalachá, se reúnem; então que comprem por um shekel duas
+1171	little bulbs that they can light in the room with a battery.	lampadinhas que possam acender no quarto, com bateria.
+1172	That helps, and if not, then don't light in the lobby. In the lobby	Isso ajuda, e se não, então não acendam no saguão. No saguão
+1173	there is doubt that it is a blessing in vain, and also	há dúvida de que seja bênção em vão, e também
+1174	Ashkenazim come there, not only Sephardim; it is a hotel,	asquenazitas vão lá, não só sefaradim; é um hotel,
+1175	and Ashkenazim come there too. So according to the Shelah HaKadosh,	e asquenazitas também vão lá. Então segundo o Shelah HaKadosh,
+1176	according to the Sha'ar HaTziyun, they do not accept this,	segundo o Sha'ar HaTziyun, eles não aceitam isso,
+1177	as an ideal, tosefet Torah in one place. Tosefet	como ideal, tosefet Torá num só lugar. Tosefet
+1178	Torah: who is the owner of this halachah? Who wrote	Torá: quem é o autor dessa halachá? Quem a
+1179	it? The Or Zarua writes it. The Or Zarua writes that one lights	escreveu? O Or Zarua a escreve. O Or Zarua escreve que se acende
+1180	one candle, and does not light tosefet Torah, and they don't	uma vela, e não se acende tosefet Torá, e não se
+1181	bless on it. Maran is in doubt; the Or Zarua	abençoa sobre ela. Maran tem dúvida; o Or Zarua
+1182	cuts it through. Here, what's the wonder? The Or Zarua writes that	resolve a questão. Aqui, qual é a maravilha? O Or Zarua escreve que
+1183	we are accustomed first to the Chanukah candle. So the custom	nós temos o costume de primeiro a vela de Chanucá. Então o costume
+1184	is established. The bottom line: first the Chanukah	está firmado. Em suma: primeiro a vela de
+1185	candle and afterwards the Shabbat candle. Where is the Chanukah candle	Chanucá e depois a de Shabat. Onde se acende a vela
+1186	lit? In the time of the Or Zarua, the Or Zarua writes	de Chanucá? No tempo do Or Zarua, o Or Zarua escreve
+1187	that they light inside the house, and he asks: after all, there is no	que se acende dentro de casa, e ele pergunta: afinal, agora não há
+1188	danger now; why inside the house? Light outside. Not	perigo; por que dentro de casa? Acenda fora. Não há
+1189	the danger of the Bagatz or of the government; thank HaShem, they haven't	o perigo do Bagatz nem do governo; graças a HaShem, ainda não
+1190	done that yet, and not the danger of saving a life.	fizeram isso, e nem o perigo de risco de vida.
+1191	There is no danger today. Light outside. The Or Zarua says,	Hoje não há perigo. Acenda fora. O Or Zarua diz:
+1192	"They were accustomed, so they were accustomed." Leave their custom.	"Tinham o costume, então tinham." Deixe o costume deles.
+1193	They light Chanukah inside the house. What is danger?	Acendem Chanucá dentro de casa. O que é perigo?
+1194	Danger: that they know a Jew lives here, antisemites will make a raid	Perigo: que saibam que mora aqui um judeu, antissemitas farão uma invasão
+1195	on the house, make a revolution in his house.	à casa, farão uma revolução na casa dele.
+1196	Saving a life. Or afterwards they burst into his house	Risco de vida. Ou depois irrompem na casa dele
+1197	and steal the chanukiah. He has a silver chanukiah,	e roubam a chanukiá. Ele tem uma chanukiá de prata,
+1198	it costs 10,000 shekels, costs a lot of money; they'd steal it from him.	custa 10.000 shekels, custa muito dinheiro; roubariam dele.
+1199	The Meiri writes explicitly that this too is danger; it does not	O Meiri escreve explicitamente que isso também é perigo; não
+1200	mean only danger to life; even that they would steal	se trata só de perigo de vida; até que roubem
+1201	the chanukiah is danger. So for all kinds of reasons	a chanukiá é perigo. Então por vários motivos
+1202	they light Chanukah inside the house. So according to the Or Zarua,	acendem Chanucá dentro de casa. Então, segundo o Or Zarua,
+1203	he writes that if they were accustomed, they were accustomed: they light the chanukiah	ele escreve que, se tinham o costume, tinham: acendem a chanukiá
+1204	inside, and afterwards first the chanukiah, then	dentro, e depois primeiro a chanukiá, depois
+1205	the Shabbat candle; there's already light, one can go by this light.	a vela de Shabat; já há luz, pode-se andar por essa luz.
+1206	Tosefet Torah: how can you light the Shabbat candle? Wonder of wonders.	Tosefet Torá: como se acende a vela de Shabat? Maravilha das maravilhas.
+1207	We see here an important principle: if I light a candle and another	Vemos aqui um princípio importante: se acendo uma vela e outra
+1208	candle for the honor of Shabbat, that is called tosefet Torah. If I have	vela em honra do Shabat, isso se chama tosefet Torá. Se tenho
+1209	a weekday candle, for example he lit a memorial candle for his father,	uma vela comum, por exemplo, acendeu uma vela de alma para o pai,
+1210	for his mother, a soul candle, at 3 in the afternoon; there is	para a mãe, uma vela de alma, às 3 da tarde; há
+1211	some light in the house, and then comes before Shabbat, 4 o'clock,	alguma luz na casa, e depois chega, antes do Shabat, às 4,
+1212	lights candles for the honor of Shabbat; he can, there is no problem.	acende velas em honra do Shabat; pode, não há problema.
+1213	Why? Because it is a weekday candle. So explains Rabbi Eliyahu	Por quê? Porque é uma vela comum. Assim explica o Rabi Eliyahu
+1214	Mani in Zichronot Eliyahu: it is a weekday candle, simply a candle	Mani em Zichronot Eliyahu: é uma vela comum, simplesmente uma vela
+1215	of the house, and this is a candle meant for the honor of Shabbat. Therefore, although	da casa, e esta é uma vela destinada à honra do Shabat. Por isso, embora
+1216	there is light there from the soul candle, a weekday candle,	haja ali luz da vela de alma, uma vela comum,
+1217	he can light and bless on tosefet. There is a	pode acender e abençoar sobre a tosefet. Há ali uma vela de
+1218	Chanukah candle that I can go by; even	Chanucá pela qual posso andar; mesmo
+1219	my brother can light the Shabbat candle afterwards. The Rav in Chazon	meu irmão pode acender depois a vela de Shabat. O Rav, no Chazon
+1220	Ovadia wrote that it is right to be stringent and turn off the electricity	Ovadia, escreveu que é correto ser rigoroso e apagar a luz elétrica
+1221	before lighting the Shabbat candles.	antes de acender as velas de Shabat.
+1222	First of all, the Rav's wording is always precise. "It is right	Primeiro, a linguagem do Rav é sempre precisa. "É correto
+1223	to be stringent," not "one should be stringent" or "must be stringent."	ser rigoroso", e não "deve-se ser rigoroso" ou "é preciso ser rigoroso".
+1224	It is precise: "right to be stringent" is only "right." What	É preciso: "correto ser rigoroso" é apenas "correto". Qual
+1225	is the problem? It is like tosefet Torah: you have electricity, you	é o problema? É como a tosefet Torá: você tem luz elétrica, você
+1226	think about what tosefet Torah is, how do you	pensa no que é tosefet Torá, como você
+1227	bless on it? Therefore it is right to be stringent and turn off	abençoa sobre ela? Por isso é correto ser rigoroso e apagar
+1228	the electricity. Close the shutters, close	a luz elétrica. Feche as persianas, feche
+1229	the curtain so it is dark. They light at 4 o'clock;	a cortina para ficar escuro. Acende-se às 4 horas;
+1230	there is light, it is not needed, it is only a stringency. I	há luz, não é necessário, é só uma rigorosidade. Eu
+1231	don't remember Maran ever once telling the Rabbanit	não me lembro de Maran ter dito uma única vez à Rabanit
+1232	or the other household members to turn off the electricity before	ou aos demais da casa que apagassem a luz elétrica antes de
+1233	lighting more candles, never. And we were with the Rav	acender mais velas, nunca. E ficamos com o Rav
+1234	for decades, and we all saw it: they lit	por décadas, e todos vimos: acendiam
+1235	the Shabbat candles in the kitchen or close to the table	as velas de Shabat na cozinha ou perto da mesa
+1236	where they ate, in the living room; where they ate, electricity was	onde comiam, na sala; onde comiam, a luz elétrica estava
+1237	on, everything on. The Rav never said to the Rabbanit,	acesa, tudo aceso. O Rav nunca disse à Rabanit:
+1238	"turn off, turn off," never. It's a stringency; whoever wants to be concerned,	"apague, apague", nunca. É uma rigorosidade; quem quiser se preocupar,
+1239	fine, you do it.	tudo bem, faça.
+1240	The essential law doesn't require it. Why? Tosefet Torah, is there electricity in it?	A lei em si não exige. Por quê? Na tosefet Torá, entra luz elétrica?
+1241	Why candles? According to what I said, this is nice: this is	Por que velas? Conforme o que eu disse, isto é bonito: isto é
+1242	weekday light, like a candle that is burning and illuminating	luz comum, como uma vela que está acesa e iluminando
+1243	the room, like Chanukah candles that burn and illuminate the room,	o ambiente, como as velas de Chanucá que ardem e iluminam o ambiente,
+1244	he can even light the Shabbat candle afterwards,	pode-se até acender depois a vela de Shabat,
+1245	because what do you see from here? That if	porque o que se vê daqui? Que se
+1246	you did not light it for the sake of the Shabbat candle, there is no problem of tosefet	não se acendeu em nome da vela de Shabat, não há problema de tosefet
+1247	Torah. This is explicit in the Or Zarua himself: he writes that	Torá. Isso é explícito no próprio Or Zarua: ele escreve que
+1248	one doesn't bless on tosefet Torah, and he writes that first	não se abençoa sobre a tosefet Torá, e escreve que primeiro
+1249	they light the Chanukah candle and afterwards the Shabbat candle. What do you	se acende a vela de Chanucá e depois a de Shabat. O que se
+1250	see from here? There is tosefet Torah, and one blesses on it. So	vê daqui? Há tosefet Torá, e se abençoa sobre ela. Então
+1251	you see this is only if I lit it for the sake of the Shabbat candle. And one	vê-se que isso é só se acendi em nome da vela de Shabat. E mais
+1252	more: lighting for the sake of the Shabbat candle is tosefet Torah, which is	uma: acender em nome da vela de Shabat é tosefet Torá, o que é
+1253	forbidden. Therefore in Kovetz Yosef we investigated and wrote	proibido. Por isso, no Kovetz Yosef investigamos e escrevemos
+1254	that from the essential law one need not turn off the electricity at all;	que, pela lei em si, não é preciso apagar a luz elétrica de modo algum;
+1255	one can light the Shabbat candles as usual. Whoever wants	pode-se acender as velas de Shabat normalmente. Quem quiser
+1256	to be stringent, the blessing is on him; whoever blesses	ser rigoroso, a bênção fica por conta dele; quem abençoa
+1257	in the morning, on Shabbat morning, whoever is stringent will receive, whoever	de manhã, na manhã de Shabat, quem for rigoroso receberá, quem
+1258	blesses. But we were precise on this matter, and the Rav wrote "right,"	abençoar. Mas fomos precisos neste assunto, e o Rav escreveu "correto",
+1259	it is the same thing, the same direction; we, heaven forbid,	é a mesma coisa, a mesma direção; nós, longe de nós,
+1260	others never deviated from the words of Maran. There	outros nunca se desviaram das palavras de Maran. Há
+1261	is one halachah that the Rav writes regarding oneg Shabbat:	uma halachá que o Rav escreve sobre o oneg Shabat:
+1262	one must eat cholent on Shabbat. Oneg Shabbat, right? It is	é preciso comer chamin no Shabat. Oneg Shabat, certo? É
+1263	the custom of heretics not to eat cholent. So	costume dos hereges não comer chamin. Assim
+1264	it is written in the Shulchan Aruch; this is oneg Shabbat. One must sleep	está escrito no Shulchan Aruch; isso é oneg Shabat. É preciso dormir
+1265	a little on Shabbat, an hour, not sleep all Shabbat; Shabbat that comes	um pouco no Shabat, uma hora, não dormir o Shabat todo; o Shabat que entra
+1266	in and goes out has passed within a year. One must sleep a little:	e sai passou no ano. É preciso dormir um pouco:
+1267	oneg Shabbat. The Rav brings the Rambam, who writes: four	oneg Shabat. O Rav traz o Rambam, que escreve: quatro
+1268	things were said about Shabbat: two from the Torah, "Zachor"	coisas foram ditas sobre o Shabat: duas da Torá, "Zachor"
+1269	and "Shamor"; two from the words of the Sages, honor and delight. Honor	e "Shamor"; duas das palavras dos Sábios, honra e deleite. Honra
+1270	is to wash in honor of Shabbat, to put a cloth on the table,	é se lavar em honra do Shabat, pôr uma toalha na mesa,
+1271	to arrange the beds so the house isn't a mess; this is	arrumar as camas para a casa não ficar bagunçada; isso é
+1272	honor of Shabbat. Oneg Shabbat is that one eats during Shabbat,	honra do Shabat. Oneg Shabat é comer durante o Shabat,
+1273	delights in Shabbat: "You shall call the Shabbat a delight."	deleitar-se no Shabat: "Chamarás o Shabat de deleite."
+1274	That is two from the Sages and two from the Torah.	São duas dos Sábios e duas da Torá.
+1275	It is explicit in the Rambam that oneg Shabbat is rabbinic. So	É explícito no Rambam que o oneg Shabat é rabínico. Assim
+1276	we wrote in Kovetz Yosef in the year 5751.	escrevemos no Kovetz Yosef no ano 5751.
+1277	That is 30-some years. We wrote practically that oneg	Isso faz mais de 30 anos. Escrevemos, na prática, que o oneg
+1278	Shabbat is rabbinic.	Shabat é rabínico.
+1279	About twenty years later, Maran zt"l came and wrote	Cerca de vinte anos depois, Maran, de abençoada memória, veio e escreveu
+1280	for us the Chazon Ovadia. There he disagreed with Yalkut	para nós o Chazon Ovadia. Ali ele discordou do Yalkut
+1281	Yosef. His right, he is permitted. He disagreed. What does he write?	Yosef. É direito dele, é permitido. Discordou. O que ele escreve?
+1282	That it appears from all the Rishonim that oneg	Que, segundo todos os Rishonim, parece que o oneg
+1283	Shabbat is from the Torah. There is the Targum Yonatan ben Uziel	Shabat é da Torá. Há o Targum Yonatan ben Uziel
+1284	on the verse; he translates "to make the Shabbat" as	sobre o versículo; ele traduz "para fazer o Shabat" como
+1285	"to delight in the Shabbat"; that is, a person makes delicacies	"deleitar-se no Shabat"; isto é, a pessoa faz delícias
+1286	on Shabbat, oneg Shabbat, cholent, all such things. This is	no Shabat, oneg Shabat, chamin, tudo isso. Isso é
+1287	from the Torah. He translates the words "to make	da Torá. Ele traduz as palavras "fazer
+1288	the Shabbat." The Rav brought him, this Yonatan ben Uziel.	o Shabat". O Rav o trouxe, esse Yonatan ben Uziel.
+1289	Something that holds it's from the Torah; he brought the Chatam Sofer. We too	Quem entende que é da Torá; trouxe o Chatam Sofer. Nós também
+1290	brought this in Kovetz Yosef, that he explains. There is	trouxemos isso no Kovetz Yosef, que ele explica. Há
+1291	in the Rambam: what are "words of the Sages"? The intention	no Rambam: o que são "palavras dos Sábios"? A intenção
+1292	is Torah-level, so it is "words of the Sages"? It is forced. He	é da Torá, e então são "palavras dos Sábios"? É forçado. Ele
+1293	writes two from the Torah and two from the words of the Sages;	escreve duas da Torá e duas das palavras dos Sábios;
+1294	so what is his distinction? There is a similar thing in the laws of	então qual é a distinção dele? Há algo semelhante nas leis de
+1295	marriage, chapter 1: there one is betrothed in three ways: money,	casamento, capítulo 1: ali se contrai o noivado de três maneiras: dinheiro,
+1296	document, and relations. Two from the Torah: document and relations,	documento e relação. Duas da Torá: documento e relação,
+1297	and money is rabbinic. The Rambam writes this, halachah 1,	e o dinheiro é rabínico. O Rambam escreve isso, halachá 1,
+1298	halachah 2: a woman who was betrothed in one of these ways	halachá 2: a mulher que foi desposada por um destes meios
+1299	of these, money, document, and relations,	desses, dinheiro, documento e relação,
+1300	they execute her. If afterwards she was betrothed and committed adultery	é executada. Se depois foi desposada e adulterou
+1301	after her husband, they execute her. How could that be?	contra o marido, é executada. Como isso pode ser?
+1302	They execute her for betrothal by money. One of these ways,	Executam-na por noivado com dinheiro. Um destes meios,
+1303	what is it? Either document or relations or money. Money is rabbinic,	qual é? Ou documento, ou relação, ou dinheiro. Dinheiro é rabínico,
+1304	from "I have given the money for the field," Efron. It is not written	de "dei o dinheiro do campo", Efron. Não está escrito
+1305	explicitly in the Torah that acquisition by money is "I have given the money for the field of	explicitamente na Torá que a aquisição por dinheiro é "dei o dinheiro do campo de
+1306	Efron." And the Rambam writes that it carries the death penalty. They came	Efron". E o Rambam escreve que acarreta pena de morte. Vieram
+1307	to the Rambam's son, Avraham; he was born to the Rambam	ao filho do Rambam, Avraham; ele nasceu ao Rambam
+1308	when the Rambam was already old, and when the Rambam died he	quando o Rambam já era velho, e quando o Rambam morreu ele
+1309	was young, 18, I know approximately what	era jovem, 18, não sei bem qual
+1310	age, not exactly, but he was young. He	idade, não exatamente, mas era jovem. Ele
+1311	fought a lot for his father; many	lutou muito pelo pai; muitos
+1312	went out against his father; he would fight for his father.	se levantaram contra o pai dele; ele lutava pelo pai.
+1313	One day the Rambam wrote him a letter; it harms	Um dia o Rambam lhe escreveu uma carta; isso prejudica
+1314	his health. He wrote him: you don't need to defend me,	a saúde dele. Escreveu-lhe: você não precisa me defender,
+1315	whoever wants the truth, truth will see the truth; don't	quem quer a verdade verá a verdade; não
+1316	defend me. How the Rambam hurts for his son. But he did not	me defenda. Como o Rambam sofre pelo filho. Mas ele não
+1317	rest. Rabbeinu Yonah, one of the great	descansou. Rabbeinu Yonah, um dos grandes
+1318	Rishonim, how did he come out against the Rambam? He said of	Rishonim, como saiu contra o Rambam? Ele disse sobre
+1319	the Rambam that the Rambam eats human fingers:	o Rambam que o Rambam come dedos humanos:
+1320	"how do you eat this and not something else?" It is	"como você come isto e não outra coisa?" É
+1321	a positive prohibition: whoever eats a human finger. It	uma proibição positiva: quem come um dedo humano. É
+1322	is a positive prohibition, no matter; no Minchah. This is	uma proibição positiva, não importa; sem Minchá. Isto é
+1323	a positive prohibition. So how did the Rav eat? Oy vavoy! So	uma proibição positiva. Então como o Rav comeu? Ai, ai! Então
+1324	he is not religious, the Rav! How so? The Rambam ate an animal	ele não é religioso, o Rav! Como assim? O Rambam comeu um animal
+1325	from an animal that was not slaughtered, he tore it, or that it	de um animal que não foi abatido, ele o dilacerou, ou que
+1326	died, carrion; the Rambam used to eat from it. They told this	morreu, carniça; o Rambam comia disso. Contaram isso
+1327	to Rabbeinu Yonah, that one must go out against him. So there was no	a Rabbeinu Yonah, que era preciso sair contra ele. Então não havia
+1328	"Pashkevilim"; they put out placards saying to go out against him,	"pashkevilim"; afixaram cartazes dizendo para sair contra ele,
+1329	and he attacked the Rambam, Rabbeinu Yonah attacked the Rambam	e ele atacou o Rambam, Rabbeinu Yonah atacou o Rambam
+1330	in the end. And they told Rabbeinu Yonah: they misled	por fim. E disseram a Rabbeinu Yonah: enganaram
+1331	you. There is a root in Egypt that resembles a finger;	você. Há uma raiz no Egito que se parece com um dedo;
+1332	you see it like a waxy fingernail, like this. It is a root	vê-se como uma unha de cera, assim. É uma raiz
+1333	that grows in the ground, and it is not a human finger. He saw	que cresce na terra, e não é um dedo humano. Ele viu
+1334	the Rambam from afar eating human fingers,	o Rambam de longe comendo dedos humanos,
+1335	so he's not religious. What do you want? It is wood,	então não é religioso. O que vocês querem? É madeira,
+1336	it is a herb resembling a person's finger, a good herb, so	é uma erva parecida com o dedo de uma pessoa, uma boa erva, então
+1337	they were mistaken about it. Regarding the meat of an animal: a person who	se enganaram sobre isso. Quanto à carne de um animal: uma pessoa que
+1338	slaughtered an animal found inside some baby of the animal,	abateu um animal encontrou dentro algum filhote do animal,
+1339	not a human child; he found inside some baby,	não uma criança humana; encontrou dentro algum filhote,
+1340	this fetus, this animal,	esse feto, esse animal,
+1341	is permitted by the slaughter of its mother; he slaughtered the mother. You translate	é permitido pelo abate da mãe; abateu a mãe. Traduz-se
+1342	"and you shall slaughter," unless it stepped on the floor, it began	"e abaterás", a menos que tenha pisado no chão, tenha começado
+1343	to walk, by the eye's sight they slaughter it too. But it died	a andar, a olhos vistos abatem-no também. Mas ele morreu
+1344	inside until they slaughtered the mother; when it came out it	dentro até que abateram a mãe; quando saiu,
+1345	fluttered and died. The Rav... it was dead, that is why the Rambam did it.	debateu-se e morreu. O Rav... estava morto, foi por isso que o Rambam fez.
+1346	Rabbeinu Yonah heard this,	Rabbeinu Yonah ouviu isso,
+1347	and was very sorry: how could I go against the Rambam, how could I attack	e ficou muito arrependido: como pude ir contra o Rambam, como pude atacá-lo?
+1348	him? Forgive me.	Que me perdoem.
+1349	He took a wagon with a horse and said: I am traveling from Gerona, this…	Pegou uma carroça com um cavalo e disse: vou viajar de Gerona, isto…
