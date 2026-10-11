@@ -75,9 +75,19 @@ async function put(key, value) {
 }
 
 // the lessons with a study (the same list the library cards use), newest first
-const study = JSON.parse(
-  fs.readFileSync(path.join(ROOT, 'public', 'data', 'videos', 'study.json'), 'utf8'),
-).study
+// read from the live site, so a lesson curated and deployed since is picked up with no copy to make
+// (2026-10-11); the local file is the fallback when the site does not answer
+const STUDY_URL = process.env.STUDY_URL || 'https://emunah-shlemah-qwik.vercel.app/data/videos/study.json'
+let study
+try {
+  const r = await fetch(STUDY_URL, { signal: AbortSignal.timeout(60000) })
+  if (!r.ok) throw new Error(String(r.status))
+  study = (await r.json()).study
+  console.log(`lesson list from ${STUDY_URL}`)
+} catch (err) {
+  study = JSON.parse(fs.readFileSync(path.join(ROOT, 'public', 'data', 'videos', 'study.json'), 'utf8')).study
+  console.log(`lesson list from the local copy (the site: ${String(err?.message || err).slice(0, 60)})`)
+}
 const ids = Object.keys(study)
 // the misheard-word corrections and the Torah terms (scripts/asr-candidates.mjs + one Claude pass)
 const LEXICON = JSON.parse(fs.readFileSync(path.join(ROOT, 'src', 'data', 'subs-lexicon.json'), 'utf8'))

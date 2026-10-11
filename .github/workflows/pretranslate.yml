@@ -7,7 +7,8 @@ name: Pre-translate subtitles
 # within its time budget.
 #
 # Runs entirely on GitHub — the owner's computer can be off. A run that ends with work left starts
-# the next one itself (GitHub sometimes skips scheduled runs); the hourly schedule is the backup.
+# the next one itself (GitHub sometimes skips scheduled runs). Daily schedule (04:17 UTC): picks up
+# lessons curated since — the lesson list is read from the live site.
 # Never two at once: the concurrency group queues them.
 
 on:
@@ -20,7 +21,7 @@ on:
         description: 'Time budget for the whole run (minutes)'
         default: '330'
   schedule:
-    - cron: '17 * * * *'
+    - cron: '17 4 * * *'
 
 concurrency:
   group: pretranslate
