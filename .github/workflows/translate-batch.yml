@@ -1,0 +1,143 @@
+name: Translate a video batch (Claude)
+
+# Claude Sonnet translates the subtitles of a batch of lessons from the Hebrew into English and
+# Portuguese, line by line, with each lesson's study as context — one agent per chunk of ≤450 lines,
+# high effort. Runs entirely on GitHub (the owner's computer can be off), back to back until the
+# library is done:
+#
+#   make      resume the unfinished batch, or build the next one (video-batches/batch-NNN/)
+#   translate one job per chunk without output: one Claude Code agent each, 4 at a time
+#   publish   check every finished lesson, upload it to the site (by: claude), commit the outputs and
+#             the report; when the batch is complete, start the next one
+#
+# Auth: the repository secret CLAUDE_CODE_OAUTH_TOKEN (`claude setup-token`, the owner's Claude
+# subscription). When the plan's usage limit stops agents, the batch keeps what finished and the
+# 2-hourly schedule resumes it once the limit has reset. Never two runs at once.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '41 */2 * * *'
+
+concurrency:
+  group: video-batches
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  make:
+    runs-on: ubuntu-latest
+    outputs:
+      batch: ${{ steps.make.outputs.batch }}
+      chunks: ${{ steps.make.outputs.chunks }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - id: tok
+        name: Is there a Claude token?
+        env:
+          TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          # no token yet: skip quietly (no failure e-mails every two hours) — see video-batches/README.md
+          if [ -z "$TOKEN" ]; then echo "::notice::CLAUDE_CODE_OAUTH_TOKEN is not set — nothing to do"; echo "has=false" >> "$GITHUB_OUTPUT"; else echo "has=true" >> "$GITHUB_OUTPUT"; fi
+      - id: make
+        if: steps.tok.outputs.has == 'true'
+        name: Resume or make a batch
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: node --experimental-transform-types --import ./scripts/ts-hook.mjs scripts/batch-make.mjs --size 25
+      - name: Commit the new batch
+        if: steps.tok.outputs.has == 'true'
+        run: |
+          git config user.name "video-batches"
+          git config user.email "actions@github.com"
+          git add video-batches
+          git diff --cached --quiet || (git commit -m "video-batches: ${{ steps.make.outputs.batch }} — work files" && git push)
+
+  translate:
+    needs: make
+    if: needs.make.outputs.chunks != '' && needs.make.outputs.chunks != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        chunk: ${{ fromJSON(needs.make.outputs.chunks) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: npm install -g @anthropic-ai/claude-code > /dev/null
+      - name: Translate ${{ matrix.chunk }}
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          BATCH: ${{ needs.make.outputs.batch }}
+          CHUNK: ${{ matrix.chunk }}
+        run: |
+          D="$GITHUB_WORKSPACE/video-batches"
+          PROMPT="You translate the subtitles of one chunk of a Torah video lesson. No code, no exploring — just this file job.
+          1. Read the instructions: $D/PROMPT.md (Portuguese). Follow them exactly.
+          2. Read the whole work file: $D/$BATCH/in/$CHUNK.txt — the lesson's study (context), a few earlier lines (context only), then LINHAS A TRADUZIR, numbered N|mm:ss|hebrew. Long files are cut off by the Read tool: keep reading with offset until you have seen the LAST numbered line. Never write from a partial reading.
+          3. Write the result with the Write tool to $D/$BATCH/out/$CHUNK.txt — exactly one line per line to translate: N<TAB>English<TAB>Portuguese, same order, nothing else.
+          4. Reply with only: ok $CHUNK"
+          set +e
+          claude -p "$PROMPT" --model sonnet --effort high --allowedTools Read Write --output-format json > usage.json 2> err.txt
+          code=$?
+          set -e
+          if [ -s "$D/$BATCH/out/$CHUNK.txt" ]; then
+            cp usage.json "$D/$BATCH/out/$CHUNK.usage.json"
+            echo "translated $CHUNK"
+          else
+            echo "::warning::$CHUNK not translated (exit $code) — the next run retries it"
+            grep -ihE "limit|rate|quota|error" usage.json err.txt | head -5 || true
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: out-${{ matrix.chunk }}
+          path: video-batches/${{ needs.make.outputs.batch }}/out/${{ matrix.chunk }}.*
+          if-no-files-found: ignore
+
+  publish:
+    needs: [make, translate]
+    if: always() && needs.make.outputs.batch != ''
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: out-*
+          merge-multiple: true
+          path: video-batches/${{ needs.make.outputs.batch }}/out
+      - id: publish
+        name: Check and publish the finished lessons
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: node scripts/batch-publish.mjs ${{ needs.make.outputs.batch }}
+      - name: Commit outputs and report
+        run: |
+          git config user.name "video-batches"
+          git config user.email "actions@github.com"
+          git add video-batches
+          git diff --cached --quiet || git commit -m "video-batches: ${{ needs.make.outputs.batch }} — translations and report"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
+      - name: Start the next batch
+        if: steps.publish.outputs.complete == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}"
