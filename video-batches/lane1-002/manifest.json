@@ -1,0 +1,258 @@
+{
+ "name": "lane1-002",
+ "lane": 1,
+ "created": "2026-10-12T20:41:33.773Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "u7apy-idxko",
+   "title": "Nitsavim: o julgamento, a palavra dita e Shlomo",
+   "lines": 701,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wuq1Gklqwzw",
+   "title": "Shelach Lecha: turistas ou espiões na Terra",
+   "lines": 1958,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "g77vdkFpCGM",
+   "title": "Nevuat Bilam sobre Amalek no fim dos dias",
+   "lines": 1481,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5adGu0jCmAo",
+   "title": "Parashat Shelach: os espiões e o valor de Eretz Israel",
+   "lines": 1025,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "9_BVO-TrWOs",
+   "title": "A reprovação de Yossef aos irmãos em Vayigash",
+   "lines": 1200,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "DUer8eXEfy0",
+   "title": "Parashá Balak: Balak, o avô do Mashiach",
+   "lines": 1286,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tP9qT4y4jUw",
+   "title": "Nitsavim-Vayelech: arvut, Rosh HaShaná e o shofar",
+   "lines": 1052,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "7cWR8orijMA",
+   "title": "Parashat Balak: viver com HaShem e o Or HaChaim",
+   "lines": 1630,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Kl5ZdOTpQ6s",
+   "title": "Vayelech: avançar sempre, teshuvá e Hester Panim",
+   "lines": 803,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2I_uOjFNquc",
+   "title": "A Terra de Israel nos pertence? Condição e posse",
+   "lines": 1430,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Tj1Z_DbTWbo",
+   "title": "Naasé venishmá: a apreensão além do intelecto",
+   "lines": 943,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "O8iLdpbcCy0",
+   "title": "Parashat Balak: a maldição que vira bênção",
+   "lines": 1062,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "fTlflYeRUWw",
+   "title": "Isru Chag e a Sefirat HaOmer: subir sem pressa nem raiva",
+   "lines": 1349,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "0RIXDtrz6VE",
+   "title": "Emuná, Shemitá e honestidade nos negócios (Behar-Bechukotai)",
+   "lines": 524,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "6bIB9Hh_5oo",
+   "title": "A doçura da vida pela santidade — Parashá Devarim",
+   "lines": 722,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wMMRX8lT4Dc",
+   "title": "Sair para a guerra com paciência: Parashá Ki Teitzei",
+   "lines": 1055,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_xQcZ3790gQ",
+   "title": "Elul, o choro da teshuvá e como saber quem teme os Céus",
+   "lines": 385,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "OVpTVcRJo3w",
+   "title": "Haazinu: céu e terra, corpo e alma, e o Yom Kipur",
+   "lines": 638,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2i1MDE3MaWE",
+   "title": "Parashat Pinchas: por que a Terra foi dividida por sorteio",
+   "lines": 1290,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "I3HyXxaTdkw",
+   "title": "Domar a besta interior: carne em Parashat Ra'ê",
+   "lines": 1079,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "IVqEDJt859c",
+   "title": "Haazinu: o excesso de abundância que eleva ou derruba",
+   "lines": 626,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "t2jmxLq_Zws",
+   "title": "Parashat Beshalach: o mar, a fé e a Torá",
+   "lines": 983,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "fjo7b6-f_Hs",
+   "title": "Parashá Nasso: dar a HaShem o melhor e os Levitas",
+   "lines": 623,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "yUd6itDRbjw",
+   "title": "Pinechas, o labor da Torá e a brachá sobre alimentos em jejum",
+   "lines": 2001,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "cKeMiQsBKTQ",
+   "title": "O lugar do prazer: \"e te alegrarás perante HaShem",
+   "lines": 1132,
+   "parts": 3,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "u7apy-idxko.p0",
+  "u7apy-idxko.p1",
+  "wuq1Gklqwzw.p0",
+  "wuq1Gklqwzw.p1",
+  "wuq1Gklqwzw.p2",
+  "wuq1Gklqwzw.p3",
+  "wuq1Gklqwzw.p4",
+  "g77vdkFpCGM.p0",
+  "g77vdkFpCGM.p1",
+  "g77vdkFpCGM.p2",
+  "g77vdkFpCGM.p3",
+  "5adGu0jCmAo.p0",
+  "5adGu0jCmAo.p1",
+  "5adGu0jCmAo.p2",
+  "9_BVO-TrWOs.p0",
+  "9_BVO-TrWOs.p1",
+  "9_BVO-TrWOs.p2",
+  "DUer8eXEfy0.p0",
+  "DUer8eXEfy0.p1",
+  "DUer8eXEfy0.p2",
+  "tP9qT4y4jUw.p0",
+  "tP9qT4y4jUw.p1",
+  "tP9qT4y4jUw.p2",
+  "7cWR8orijMA.p0",
+  "7cWR8orijMA.p1",
+  "7cWR8orijMA.p2",
+  "7cWR8orijMA.p3",
+  "Kl5ZdOTpQ6s.p0",
+  "Kl5ZdOTpQ6s.p1",
+  "2I_uOjFNquc.p0",
+  "2I_uOjFNquc.p1",
+  "2I_uOjFNquc.p2",
+  "2I_uOjFNquc.p3",
+  "Tj1Z_DbTWbo.p0",
+  "Tj1Z_DbTWbo.p1",
+  "Tj1Z_DbTWbo.p2",
+  "O8iLdpbcCy0.p0",
+  "O8iLdpbcCy0.p1",
+  "O8iLdpbcCy0.p2",
+  "fTlflYeRUWw.p0",
+  "fTlflYeRUWw.p1",
+  "fTlflYeRUWw.p2",
+  "0RIXDtrz6VE.p0",
+  "0RIXDtrz6VE.p1",
+  "6bIB9Hh_5oo.p0",
+  "6bIB9Hh_5oo.p1",
+  "wMMRX8lT4Dc.p0",
+  "wMMRX8lT4Dc.p1",
+  "wMMRX8lT4Dc.p2",
+  "_xQcZ3790gQ.p0",
+  "OVpTVcRJo3w.p0",
+  "OVpTVcRJo3w.p1",
+  "2i1MDE3MaWE.p0",
+  "2i1MDE3MaWE.p1",
+  "2i1MDE3MaWE.p2",
+  "I3HyXxaTdkw.p0",
+  "I3HyXxaTdkw.p1",
+  "I3HyXxaTdkw.p2",
+  "IVqEDJt859c.p0",
+  "IVqEDJt859c.p1",
+  "t2jmxLq_Zws.p0",
+  "t2jmxLq_Zws.p1",
+  "t2jmxLq_Zws.p2",
+  "fjo7b6-f_Hs.p0",
+  "fjo7b6-f_Hs.p1",
+  "yUd6itDRbjw.p0",
+  "yUd6itDRbjw.p1",
+  "yUd6itDRbjw.p2",
+  "yUd6itDRbjw.p3",
+  "yUd6itDRbjw.p4",
+  "cKeMiQsBKTQ.p0",
+  "cKeMiQsBKTQ.p1",
+  "cKeMiQsBKTQ.p2"
+ ]
+}
