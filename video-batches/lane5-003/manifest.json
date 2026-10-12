@@ -2,7 +2,7 @@
  "name": "lane5-003",
  "lane": 5,
  "created": "2026-10-12T14:13:52.870Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "UrbeizPVTYU",
@@ -254,7 +254,7 @@
   "09rltkwXKZI.p2"
  ],
  "tries": {
-  "HqwyYg-NCeQ": 2
+  "HqwyYg-NCeQ": 3
  },
  "done": [
   "UrbeizPVTYU",
@@ -282,5 +282,7 @@
   "kziUCQ88sj4",
   "09rltkwXKZI"
  ],
- "skipped": []
+ "skipped": [
+  "HqwyYg-NCeQ"
+ ]
 }
