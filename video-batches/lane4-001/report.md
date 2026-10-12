@@ -1,7 +1,7 @@
 # lane4-001
 
-14 of 25 lessons published · 0 skipped · status **pending**
-Tokens (all agents so far): 0.0M in (mostly cache reads) · 0.00M out
+24 of 25 lessons published · 0 skipped · status **pending**
+Tokens (38 agent runs with a record, 60 refused or without record): 10.2M in (mostly cache) · 1.35M out · API-equivalent 23.06
 
 | lesson | state | detail |
 |---|---|---|
@@ -19,14 +19,14 @@ Tokens (all agents so far): 0.0M in (mostly cache reads) · 0.00M out
 | Kl0MN7aKgeQ | ✓ published | 1201 lines · Os estandartes do acampamento e o caixão de Yosef |
 | EAwbs7DjphA | ✓ published | 1190 lines · Parashá Bamidbar: o censo, os estandartes e Shmuel HaNavi |
 | Fx_mFFTrSpo | ✓ published | 2202 lines · Mundo Vindouro, humildade de Aharon e Maase Shabat |
-| NLVHxbsPoy4 | waiting | 2/3 parts |
-| i6oPAjT5lss | waiting | 0/4 parts |
-| PwQLMyoOi1A | waiting | 0/3 parts |
-| V1jkq9t1kKw | waiting | 0/4 parts |
-| FCD8NIaQ8s4 | waiting | 0/3 parts |
-| oaFeq59HsYE | waiting | 0/4 parts |
-| 7SvvOEs_vZQ | waiting | 0/4 parts |
-| vpqEqtiwJG0 | waiting | 0/5 parts |
-| or0Shd3CGic | waiting | 0/4 parts |
-| qybrR9P-dc4 | waiting | 0/4 parts |
-| tlp_ulwAgJk | waiting | 0/2 parts |
+| NLVHxbsPoy4 | ✓ published | 1096 lines · A expansão de Moshê em cada geração (Parashat Korach) |
+| i6oPAjT5lss | ✓ published | 1788 lines · Torá, mesirat nefesh, shachar Shabat e a Parashá Korach |
+| PwQLMyoOi1A | ✓ published | 1172 lines · Mei Meriva: Torá da Terra e Torá do Exílio |
+| V1jkq9t1kKw | ✓ published | 1702 lines · Guardar os olhos e a fé de que nada existe além de HaShem |
+| FCD8NIaQ8s4 | ✓ published | 1036 lines · Parashat Balak: Bilam, Balak e as perguntas de Rashi |
+| oaFeq59HsYE | ✓ published | 1419 lines · Pinchas, o Beit HaMikdash e o amor em Bein HaMetsarim |
+| 7SvvOEs_vZQ | ✗ will be redone (try 1) | bad line "637" |
+| vpqEqtiwJG0 | ✓ published | 1808 lines · Matot-Massê: o poder da fala e a jornada da vida |
+| or0Shd3CGic | ✓ published | 1352 lines · O poder da oração: os 515 pedidos de Moshé em Va'etchanan |
+| qybrR9P-dc4 | ✓ published | 1602 lines · Parashá Ekev: o calcanhar, a provação e o shefa |
+| tlp_ulwAgJk | ✓ published | 704 lines · Quem permitiu a Moshe quebrar as tábuas da aliança? |
