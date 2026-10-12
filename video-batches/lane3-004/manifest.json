@@ -1,0 +1,253 @@
+{
+ "name": "lane3-004",
+ "lane": 3,
+ "created": "2026-10-12T12:29:49.904Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "fXs56H-XgrE",
+   "title": "Parashá Bamidbar: o Tikun da noite de Shavuot",
+   "lines": 860,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2VfpPh-RuOg",
+   "title": "Rachamim escondidos e o respeito pela dignidade (Balak)",
+   "lines": 1846,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qU-VzbSR2fE",
+   "title": "Parashat Shelach: o pecado dos espiões e crer no Tsadik",
+   "lines": 1206,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HKLvMlaT0Eo",
+   "title": "Ben Ish Chai: cozinhar no Shabat, Bishul e sal",
+   "lines": 518,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "EdIBRFiZ6Tw",
+   "title": "Parashá Yitro: o que Yitro ouviu e a união para receber a Torá",
+   "lines": 982,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1hbd90GsoV4",
+   "title": "A canção da Redenção futura e a alegria de Pessach",
+   "lines": 982,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "6JDgSAI_Yy0",
+   "title": "Haazinu: a história, Yaakov e o poder do Amen",
+   "lines": 501,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "zlE2JTS1-Mg",
+   "title": "O Dia do Juízo e a Essência de Yom Kipur",
+   "lines": 1167,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rnzU538vK0Q",
+   "title": "Dvorá e o choro pela perda da inocência infantil",
+   "lines": 949,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ZOVjDt4g4RY",
+   "title": "Parashat Shoftim: guardar os portões do corpo",
+   "lines": 390,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "IeElK7fLPvk",
+   "title": "Leis de Pessach e a noite do Seder - Parashá Tsav",
+   "lines": 2333,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "84iMAVzJUac",
+   "title": "O verdadeiro rei é quem governa a si mesmo",
+   "lines": 946,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "SyYeMbrNhKk",
+   "title": "Encontrar chen: a guerra e a Parashá Vaetchanan",
+   "lines": 1083,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "M-6aSoAMMoA",
+   "title": "Parashat Ekev: o calcanhar e a geração do Mashiach",
+   "lines": 1264,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "T1ncoJdAwyA",
+   "title": "Parashat Shoftim: ensinar mérito e ver o bem em cada judeu",
+   "lines": 699,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "8sOXuFQuQNw",
+   "title": "Haftará de Naso: elevar-se sem se desviar do foco",
+   "lines": 621,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "iMQ1_B4JxEY",
+   "title": "Por que Moshé Rabênu não entrou em Israel",
+   "lines": 1164,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "EWVVjWm3fHE",
+   "title": "Parashat Ekev: sair da posição de espectador e ouvir",
+   "lines": 876,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wHqh1-96b_I",
+   "title": "Bênção após as refeições: Birkat Hamazon",
+   "lines": 77,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "M1VY4DKzS9w",
+   "title": "Halachot de Yom Tov e ErUv Tavshilin",
+   "lines": 671,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "eKHKyLX6X-4",
+   "title": "Parashat Shoftim: os quatro que exigem proclamação",
+   "lines": 1081,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "P14zHKSjtiA",
+   "title": "Acharei Mot: por que se aproximar só como HaShem ordenou",
+   "lines": 643,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wHtod5HgJeE",
+   "title": "Bealotcha: acender a alma até brilhar sozinha",
+   "lines": 1487,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "WGypelznljo",
+   "title": "Shabat Shuvá e Haazinu: cantar mesmo depois do pecado",
+   "lines": 783,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xjwwBC6luJM",
+   "title": "Acreditar em si e as 13 Middot antes de Rosh HaShaná",
+   "lines": 1164,
+   "parts": 3,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "fXs56H-XgrE.p0",
+  "fXs56H-XgrE.p1",
+  "2VfpPh-RuOg.p0",
+  "2VfpPh-RuOg.p1",
+  "2VfpPh-RuOg.p2",
+  "2VfpPh-RuOg.p3",
+  "2VfpPh-RuOg.p4",
+  "qU-VzbSR2fE.p0",
+  "qU-VzbSR2fE.p1",
+  "qU-VzbSR2fE.p2",
+  "HKLvMlaT0Eo.p0",
+  "HKLvMlaT0Eo.p1",
+  "EdIBRFiZ6Tw.p0",
+  "EdIBRFiZ6Tw.p1",
+  "EdIBRFiZ6Tw.p2",
+  "1hbd90GsoV4.p0",
+  "1hbd90GsoV4.p1",
+  "1hbd90GsoV4.p2",
+  "6JDgSAI_Yy0.p0",
+  "6JDgSAI_Yy0.p1",
+  "zlE2JTS1-Mg.p0",
+  "zlE2JTS1-Mg.p1",
+  "zlE2JTS1-Mg.p2",
+  "rnzU538vK0Q.p0",
+  "rnzU538vK0Q.p1",
+  "rnzU538vK0Q.p2",
+  "ZOVjDt4g4RY.p0",
+  "IeElK7fLPvk.p0",
+  "IeElK7fLPvk.p1",
+  "IeElK7fLPvk.p2",
+  "IeElK7fLPvk.p3",
+  "IeElK7fLPvk.p4",
+  "IeElK7fLPvk.p5",
+  "84iMAVzJUac.p0",
+  "84iMAVzJUac.p1",
+  "84iMAVzJUac.p2",
+  "SyYeMbrNhKk.p0",
+  "SyYeMbrNhKk.p1",
+  "SyYeMbrNhKk.p2",
+  "M-6aSoAMMoA.p0",
+  "M-6aSoAMMoA.p1",
+  "M-6aSoAMMoA.p2",
+  "T1ncoJdAwyA.p0",
+  "T1ncoJdAwyA.p1",
+  "8sOXuFQuQNw.p0",
+  "8sOXuFQuQNw.p1",
+  "iMQ1_B4JxEY.p0",
+  "iMQ1_B4JxEY.p1",
+  "iMQ1_B4JxEY.p2",
+  "EWVVjWm3fHE.p0",
+  "EWVVjWm3fHE.p1",
+  "wHqh1-96b_I.p0",
+  "M1VY4DKzS9w.p0",
+  "M1VY4DKzS9w.p1",
+  "eKHKyLX6X-4.p0",
+  "eKHKyLX6X-4.p1",
+  "eKHKyLX6X-4.p2",
+  "P14zHKSjtiA.p0",
+  "P14zHKSjtiA.p1",
+  "wHtod5HgJeE.p0",
+  "wHtod5HgJeE.p1",
+  "wHtod5HgJeE.p2",
+  "wHtod5HgJeE.p3",
+  "WGypelznljo.p0",
+  "WGypelznljo.p1",
+  "xjwwBC6luJM.p0",
+  "xjwwBC6luJM.p1",
+  "xjwwBC6luJM.p2"
+ ]
+}
