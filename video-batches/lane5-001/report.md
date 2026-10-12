@@ -1,7 +1,7 @@
 # lane5-001
 
-24 of 25 lessons published · 0 skipped · status **pending**
-Tokens (35 agent runs with a record, 62 refused or without record): 7.4M in (mostly cache) · 1.21M out · API-equivalent 20.44
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (39 agent runs with a record, 62 refused or without record): 8.6M in (mostly cache) · 1.35M out · API-equivalent 22.89
 
 | lesson | state | detail |
 |---|---|---|
@@ -21,7 +21,7 @@ Tokens (35 agent runs with a record, 62 refused or without record): 7.4M in (mos
 | 78Ib7VCiSog | ✓ published | 1738 lines · Vaetchanan: como Moshe rezou e o poder da Torá |
 | XbKAfWM4C84 | ✓ published | 1001 lines · A santidade da Torá: aderir à luz de HaShem |
 | B_uJdiBc_kw | ✓ published | 378 lines · Quem permitiu a Moshe quebrar as Tábuas? |
-| 8G24jpjieZo | ✗ will be redone (try 1) | 9 lines missing |
+| 8G24jpjieZo | ✓ published | 1653 lines · Parashá Reê: ver a bênção e a maldição |
 | I-8J-5amK4g | ✓ published | 1421 lines · Parashá Re'ê: fé, guarda dos olhos e a tsedacá de Elul |
 | IlFLOxi24jw | ✓ published | 1065 lines · Parashá Re'eh: bênção, maldição e o lugar escolhido |
 | fryUCgC88Vk | ✓ published | 1625 lines · Cidades de refúgio e o mês de Elul |

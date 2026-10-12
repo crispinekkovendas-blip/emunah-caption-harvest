@@ -2,7 +2,7 @@
  "name": "lane5-001",
  "lane": 5,
  "created": "2026-10-11T19:18:15.580Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "kkB2mbdrEmw",
@@ -306,7 +306,8 @@
   "mKZwOhM-Oio",
   "jtgfhyktLHI",
   "_MJPwLzgc6I",
-  "rURNkWYG4KU"
+  "rURNkWYG4KU",
+  "8G24jpjieZo"
  ],
  "skipped": []
 }
