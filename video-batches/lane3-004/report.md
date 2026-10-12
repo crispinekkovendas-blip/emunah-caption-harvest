@@ -1,7 +1,7 @@
 # lane3-004
 
-24 of 25 lessons published · 0 skipped · status **pending**
-Tokens (74 agent runs with a record, 13 refused or without record): 15.0M in (mostly cache) · 2.01M out · API-equivalent 35.14
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (77 agent runs with a record, 13 refused or without record): 15.0M in (mostly cache) · 2.10M out · API-equivalent 36.25
 
 | lesson | state | detail |
 |---|---|---|
@@ -25,7 +25,7 @@ Tokens (74 agent runs with a record, 13 refused or without record): 15.0M in (mo
 | EWVVjWm3fHE | ✓ published | 876 lines · Parashat Ekev: sair da posição de espectador e ouvir |
 | wHqh1-96b_I | ✓ published | 77 lines · Bênção após as refeições: Birkat Hamazon |
 | M1VY4DKzS9w | ✓ published | 671 lines · Halachot de Yom Tov e ErUv Tavshilin |
-| eKHKyLX6X-4 | ✗ will be redone (try 1) | 13 lines missing |
+| eKHKyLX6X-4 | ✓ published | 1081 lines · Parashat Shoftim: os quatro que exigem proclamação |
 | P14zHKSjtiA | ✓ published | 643 lines · Acharei Mot: por que se aproximar só como HaShem ordenou |
 | wHtod5HgJeE | ✓ published | 1487 lines · Bealotcha: acender a alma até brilhar sozinha |
 | WGypelznljo | ✓ published | 783 lines · Shabat Shuvá e Haazinu: cantar mesmo depois do pecado |
