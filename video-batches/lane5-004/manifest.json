@@ -1,0 +1,255 @@
+{
+ "name": "lane5-004",
+ "lane": 5,
+ "created": "2026-10-12T23:28:23.116Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "duqBj6Yke2M",
+   "title": "Gratidão e batida à porta nos dias de Selichot",
+   "lines": 1406,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "uUC0zabT1rs",
+   "title": "Os espiões dentro da cabeça: Shelach Lecha",
+   "lines": 949,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "dlT3fs6dfro",
+   "title": "A síndrome do Mekalel: tudo ou nada",
+   "lines": 831,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "nVE32raXsEg",
+   "title": "Leitura de Miketz completa, nusach marroquino",
+   "lines": 397,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "7Aa-KpAlbMY",
+   "title": "Você domina ou é dominado? Os quatro elementos e o cérebro",
+   "lines": 2072,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "BsRAWzG_ue8",
+   "title": "O bitachon de Miriam e a Be'er que nunca secou",
+   "lines": 624,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "D3kttQ65MG4",
+   "title": "Am levadad yishkon: a hitbodedut de Parashat Balak",
+   "lines": 1128,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ry53-_NBa_s",
+   "title": "Alegria de Sucot, o poder dos Sábios e Shalom Bait",
+   "lines": 915,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "EzSr8GCL5EI",
+   "title": "Quanto você sacrifica pela sua fé? A Akedá",
+   "lines": 838,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "zz3J06SPFt0",
+   "title": "Parashat Shelach: os espiões e o Birur HaTachton",
+   "lines": 1221,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "jMllVRCwmDk",
+   "title": "Tzedaká: o poder de dar com cuidado e em segredo",
+   "lines": 898,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "BX7H7o2omiA",
+   "title": "Shabat Chazon e Tisha BeAv: a chave da Geulá",
+   "lines": 1437,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "BBVIGeZvpwA",
+   "title": "Parashá Re'eh no Or HaChaim: ver, anochi, bênção e maldição",
+   "lines": 1100,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3TftrWX2ZY8",
+   "title": "Nitzavim: teshuvá e o fim da escolha no fim dos dias",
+   "lines": 1040,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "e0b94wTgK7A",
+   "title": "A jumenta de Bilam: HaShem e o dom do talento",
+   "lines": 1163,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Hmnf91Mpkuk",
+   "title": "O Korban Tamid e o jejum de 17 de Tamuz (Parashá Pinchas)",
+   "lines": 1288,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "R6NocVpRXi4",
+   "title": "Vayerá: a humildade de Avraham e a Brit Milá",
+   "lines": 923,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xHCeRqnOGkM",
+   "title": "Vayigash: força por fora, fraqueza por dentro",
+   "lines": 676,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "8A08zXWG61A",
+   "title": "Parashá Yitro: minha missão no mundo, aqui e agora",
+   "lines": 1161,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "TCK6fKICNag",
+   "title": "Shemitá e Eretz Israel: Behar-Bechukotai",
+   "lines": 651,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "shzmAlUwDOM",
+   "title": "Pessach Sheni e o poder do grito que quebra as regras",
+   "lines": 929,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "kP-x-XcxYZw",
+   "title": "Os sete porquês da serpente de cobre (Parashá Chukat)",
+   "lines": 1300,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Jw6v3fT3AEM",
+   "title": "Aharon HaCohen e o amor que une o povo",
+   "lines": 1225,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "n5CKD6tFqt0",
+   "title": "Parashat Shoftim: juízes de justiça e a Amidá",
+   "lines": 1039,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "KFtyKJ4hPXM",
+   "title": "Os segredos da palavra Bereshit e as fendas do altar",
+   "lines": 806,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "duqBj6Yke2M.p0",
+  "duqBj6Yke2M.p1",
+  "duqBj6Yke2M.p2",
+  "duqBj6Yke2M.p3",
+  "uUC0zabT1rs.p0",
+  "uUC0zabT1rs.p1",
+  "uUC0zabT1rs.p2",
+  "dlT3fs6dfro.p0",
+  "dlT3fs6dfro.p1",
+  "nVE32raXsEg.p0",
+  "7Aa-KpAlbMY.p0",
+  "7Aa-KpAlbMY.p1",
+  "7Aa-KpAlbMY.p2",
+  "7Aa-KpAlbMY.p3",
+  "7Aa-KpAlbMY.p4",
+  "BsRAWzG_ue8.p0",
+  "BsRAWzG_ue8.p1",
+  "D3kttQ65MG4.p0",
+  "D3kttQ65MG4.p1",
+  "D3kttQ65MG4.p2",
+  "ry53-_NBa_s.p0",
+  "ry53-_NBa_s.p1",
+  "ry53-_NBa_s.p2",
+  "EzSr8GCL5EI.p0",
+  "EzSr8GCL5EI.p1",
+  "zz3J06SPFt0.p0",
+  "zz3J06SPFt0.p1",
+  "zz3J06SPFt0.p2",
+  "jMllVRCwmDk.p0",
+  "jMllVRCwmDk.p1",
+  "BX7H7o2omiA.p0",
+  "BX7H7o2omiA.p1",
+  "BX7H7o2omiA.p2",
+  "BX7H7o2omiA.p3",
+  "BBVIGeZvpwA.p0",
+  "BBVIGeZvpwA.p1",
+  "BBVIGeZvpwA.p2",
+  "3TftrWX2ZY8.p0",
+  "3TftrWX2ZY8.p1",
+  "3TftrWX2ZY8.p2",
+  "e0b94wTgK7A.p0",
+  "e0b94wTgK7A.p1",
+  "e0b94wTgK7A.p2",
+  "Hmnf91Mpkuk.p0",
+  "Hmnf91Mpkuk.p1",
+  "Hmnf91Mpkuk.p2",
+  "R6NocVpRXi4.p0",
+  "R6NocVpRXi4.p1",
+  "R6NocVpRXi4.p2",
+  "xHCeRqnOGkM.p0",
+  "xHCeRqnOGkM.p1",
+  "8A08zXWG61A.p0",
+  "8A08zXWG61A.p1",
+  "8A08zXWG61A.p2",
+  "TCK6fKICNag.p0",
+  "TCK6fKICNag.p1",
+  "shzmAlUwDOM.p0",
+  "shzmAlUwDOM.p1",
+  "shzmAlUwDOM.p2",
+  "kP-x-XcxYZw.p0",
+  "kP-x-XcxYZw.p1",
+  "kP-x-XcxYZw.p2",
+  "Jw6v3fT3AEM.p0",
+  "Jw6v3fT3AEM.p1",
+  "Jw6v3fT3AEM.p2",
+  "n5CKD6tFqt0.p0",
+  "n5CKD6tFqt0.p1",
+  "n5CKD6tFqt0.p2",
+  "KFtyKJ4hPXM.p0",
+  "KFtyKJ4hPXM.p1"
+ ]
+}
