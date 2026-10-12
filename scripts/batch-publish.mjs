@@ -96,6 +96,14 @@ for (const lesson of manifest.lessons) {
     } else rows.push(`| ${id} | ✗ will be redone (try ${manifest.tries[id]}) | ${err.message} |`)
   }
 }
+// the site's "Tradução curada" switch reads one row listing every lesson Claude translated: add this
+// batch's published lessons to it (2026-10-12)
+if (manifest.done.length) {
+  const row = (await get('videos/claude-subs')) || { v: 1, ids: [] }
+  const ids = new Set([...(row.ids || []), ...manifest.done])
+  if (ids.size !== (row.ids || []).length) await put('videos/claude-subs', { v: 1, ids: [...ids].sort(), updated: new Date().toISOString() })
+  console.log()
+}
 const finished = manifest.lessons.every((l) => manifest.done.includes(l.id) || manifest.skipped.includes(l.id))
 manifest.status = finished ? 'done' : 'pending'
 fs.writeFileSync(path.join(DIR, 'manifest.json'), JSON.stringify(manifest, null, 1) + '\n')
