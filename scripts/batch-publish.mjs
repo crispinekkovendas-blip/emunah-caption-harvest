@@ -102,7 +102,7 @@ if (manifest.done.length) {
   const row = (await get('videos/claude-subs')) || { v: 1, ids: [] }
   const ids = new Set([...(row.ids || []), ...manifest.done])
   if (ids.size !== (row.ids || []).length) await put('videos/claude-subs', { v: 1, ids: [...ids].sort(), updated: new Date().toISOString() })
-  console.log()
+  console.log(`videos/claude-subs: ${ids.size} lessons`)
 }
 const finished = manifest.lessons.every((l) => manifest.done.includes(l.id) || manifest.skipped.includes(l.id))
 manifest.status = finished ? 'done' : 'pending'
