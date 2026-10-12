@@ -6,7 +6,7 @@ name: Translate a video batch (Claude)
 # library is done:
 #
 #   make      resume the unfinished batch, or build the next one (video-batches/batch-NNN/)
-#   translate one job per chunk without output: one Claude Code agent each, ONE AT A TIME
+#   translate one job per chunk without output: one Claude request each (one shot, no tools), ONE AT A TIME
 #   publish   check every finished lesson, upload it to the site (by: claude), commit the outputs and
 #             the report; when the batch is complete, start the next one
 #
@@ -106,23 +106,35 @@ jobs:
           BATCH: ${{ needs.make.outputs.batch }}
           CHUNK: ${{ matrix.chunk }}
         run: |
+          # ONE SHOT (2026-10-12): the work file goes in on stdin, the rules are the system prompt, no
+          # tools — one request, the translation is the reply. The agent mode (Read/Write tools, 4–5
+          # turns) re-read Claude Code's own prompt, the file and the written output every turn:
+          # ~155k tokens per chunk, mostly cache reads; this is ~45–50k.
           D="$GITHUB_WORKSPACE/video-batches"
-          PROMPT="You translate the subtitles of one chunk of a Torah video lesson. No code, no exploring — just this file job.
-          1. Read the instructions: $D/PROMPT.md (Portuguese). Follow them exactly.
-          2. Read the whole work file: $D/$BATCH/in/$CHUNK.txt — the lesson's study (context), a few earlier lines (context only), then LINHAS A TRADUZIR, numbered N|mm:ss|hebrew. Long files are cut off by the Read tool: keep reading with offset until you have seen the LAST numbered line. Never write from a partial reading.
-          3. Write the result with the Write tool to $D/$BATCH/out/$CHUNK.txt — exactly one line per line to translate: N<TAB>English<TAB>Portuguese, same order, nothing else.
-          4. Reply with only: ok $CHUNK"
+          IN="$D/$BATCH/in/$CHUNK.txt"
+          OUT="$D/$BATCH/out/$CHUNK.txt"
           set +e
-          claude -p "$PROMPT" --model sonnet --effort high --allowedTools Read Write --output-format json > usage.json 2> err.txt
+          claude -p "Translate the numbered lines under LINHAS A TRADUZIR following the system rules. Reply with ONLY the translation lines (N<TAB>English<TAB>Portuguese), one per line to translate, nothing before or after, no code fences." \
+            --system-prompt "$(cat "$D/PROMPT.md")" --tools "" \
+            --model sonnet --effort high --output-format json < "$IN" > usage.json 2> err.txt
           code=$?
           set -e
-          # every attempt keeps its own usage record, so the report counts all of them (2026-10-12)
+          # every attempt keeps its own usage record, so the report counts all of them
           cp usage.json "$D/$BATCH/out/$CHUNK.r$GITHUB_RUN_ID-$GITHUB_RUN_ATTEMPT.usage.json" 2>/dev/null || true
-          if [ -s "$D/$BATCH/out/$CHUNK.txt" ]; then
+          # the reply's translation lines become the output file (anything else in the reply is dropped)
+          node -e '
+            const fs = require("fs")
+            let j = {}
+            try { j = JSON.parse(fs.readFileSync("usage.json", "utf8")) } catch {}
+            const lines = String(j.result || "").split("\n").map((l) => l.replace(/\r$/, "")).filter((l) => /^\d+\t[^\t]*\t[^\t]*$/.test(l))
+            if (!j.is_error && lines.length) fs.writeFileSync(process.argv[1], lines.join("\n") + "\n")
+            console.log(`reply: ${lines.length} translation lines${j.is_error ? " · error: " + String(j.result).slice(0, 120) : ""}`)
+          ' "$OUT"
+          if [ -s "$OUT" ]; then
             echo "translated $CHUNK"
           else
             echo "::warning::$CHUNK not translated (exit $code) — the next run retries it"
-            grep -ihE "limit|rate|quota|error" usage.json err.txt | head -5 || true
+            grep -ihE "limit|rate|quota|error|login" usage.json err.txt | head -5 || true
           fi
       - uses: actions/upload-artifact@v4
         with:
