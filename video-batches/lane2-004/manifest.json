@@ -1,0 +1,250 @@
+{
+ "name": "lane2-004",
+ "lane": 2,
+ "created": "2026-10-12T12:15:02.892Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "vw0z3Swr6Yw",
+   "title": "Parashat Korach: riqueza, orgulho e fé",
+   "lines": 916,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tp3tbeTLEho",
+   "title": "Hilchot Shabat: fala, ganhos e líder de espírito",
+   "lines": 847,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rBWO5WgwLxI",
+   "title": "Shemá Israel e o Baruch Shem Kevod Malchuto",
+   "lines": 1439,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "eyZR43pHG8o",
+   "title": "Onde erraram os espiões: HaShem, o Klê e a hishtadlut",
+   "lines": 908,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "0Avx6sdql9s",
+   "title": "Terumá: o que HaShem pede é o coração, não o dinheiro",
+   "lines": 877,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "AonI191MfBc",
+   "title": "De Pêssach a Shavuot: olá, chatat e shelamim",
+   "lines": 934,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "F-d2KS9KFQU",
+   "title": "O líder que todos precisam e ninguém quer ser",
+   "lines": 572,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "bXCzdRShc90",
+   "title": "Parashá Re'eh: o segredo das duas Torot (Alef e Bet)",
+   "lines": 1288,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Gg_h6SQ5Yrk",
+   "title": "Gueulá, Sêudat Mashiach e a Haftará da Ressurreição",
+   "lines": 1111,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "82TYzWCX7uY",
+   "title": "Escolha e livre-arbítrio: o pecado dos espiões",
+   "lines": 892,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "6UKhHcbxuhI",
+   "title": "Não fazer imagens: figuras, Templo e a consolação",
+   "lines": 654,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tmuspaot1uI",
+   "title": "Mei HaShiloach em Ekev: a abundância é um convite",
+   "lines": 692,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "6OCcmetQb7Y",
+   "title": "Mishlei 14:20-22: honrar todo ser humano",
+   "lines": 1066,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "WP59XqTR9CI",
+   "title": "Haazinu: Torá com bons atributos, chesed e paciência",
+   "lines": 870,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "m6ZBv2bsAsg",
+   "title": "Birur nitsotsot: faíscas resgatadas das profundezas",
+   "lines": 1238,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vH0ANpMX3t4",
+   "title": "Parashá Nitzavim-Vayelech: a volta antes de Rosh HaShaná",
+   "lines": 957,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HZRvMUCJYM0",
+   "title": "Parashá Chukat: como vencer a morte",
+   "lines": 906,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rb7J1rKDyIw",
+   "title": "Parashá Ekev: a mitsvá leve que se pisa com o calcanhar",
+   "lines": 875,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Vz1ntUQXrSE",
+   "title": "Shiluach HaKen e o Centelha de Mashiach em Elul",
+   "lines": 622,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HUQO7unU3gY",
+   "title": "Pensamentos ruins: a centelha de santidade em cada emoção",
+   "lines": 639,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "x3-hLxqqeMU",
+   "title": "O número 40: como se tornar outra pessoa",
+   "lines": 892,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "dI0Wn2N5SJM",
+   "title": "Sapatos: viver acima do mundo material",
+   "lines": 920,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4q0_kr86sVk",
+   "title": "Coragem verdadeira: o pecado dos espiões em Shlach",
+   "lines": 1007,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HCFZCcJxAFw",
+   "title": "Balak: a maldição de Bilam virou bênção",
+   "lines": 1066,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "c9s-CEVY8PM",
+   "title": "Yibum e teshuvá segundo o Rav Kook: construir após a ruína",
+   "lines": 1165,
+   "parts": 3,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "vw0z3Swr6Yw.p0",
+  "vw0z3Swr6Yw.p1",
+  "vw0z3Swr6Yw.p2",
+  "tp3tbeTLEho.p0",
+  "tp3tbeTLEho.p1",
+  "rBWO5WgwLxI.p0",
+  "rBWO5WgwLxI.p1",
+  "rBWO5WgwLxI.p2",
+  "rBWO5WgwLxI.p3",
+  "eyZR43pHG8o.p0",
+  "eyZR43pHG8o.p1",
+  "eyZR43pHG8o.p2",
+  "0Avx6sdql9s.p0",
+  "0Avx6sdql9s.p1",
+  "AonI191MfBc.p0",
+  "AonI191MfBc.p1",
+  "AonI191MfBc.p2",
+  "F-d2KS9KFQU.p0",
+  "F-d2KS9KFQU.p1",
+  "bXCzdRShc90.p0",
+  "bXCzdRShc90.p1",
+  "bXCzdRShc90.p2",
+  "Gg_h6SQ5Yrk.p0",
+  "Gg_h6SQ5Yrk.p1",
+  "Gg_h6SQ5Yrk.p2",
+  "82TYzWCX7uY.p0",
+  "82TYzWCX7uY.p1",
+  "6UKhHcbxuhI.p0",
+  "6UKhHcbxuhI.p1",
+  "tmuspaot1uI.p0",
+  "tmuspaot1uI.p1",
+  "6OCcmetQb7Y.p0",
+  "6OCcmetQb7Y.p1",
+  "6OCcmetQb7Y.p2",
+  "WP59XqTR9CI.p0",
+  "WP59XqTR9CI.p1",
+  "m6ZBv2bsAsg.p0",
+  "m6ZBv2bsAsg.p1",
+  "m6ZBv2bsAsg.p2",
+  "vH0ANpMX3t4.p0",
+  "vH0ANpMX3t4.p1",
+  "vH0ANpMX3t4.p2",
+  "HZRvMUCJYM0.p0",
+  "HZRvMUCJYM0.p1",
+  "HZRvMUCJYM0.p2",
+  "rb7J1rKDyIw.p0",
+  "rb7J1rKDyIw.p1",
+  "Vz1ntUQXrSE.p0",
+  "Vz1ntUQXrSE.p1",
+  "HUQO7unU3gY.p0",
+  "HUQO7unU3gY.p1",
+  "x3-hLxqqeMU.p0",
+  "x3-hLxqqeMU.p1",
+  "dI0Wn2N5SJM.p0",
+  "dI0Wn2N5SJM.p1",
+  "dI0Wn2N5SJM.p2",
+  "4q0_kr86sVk.p0",
+  "4q0_kr86sVk.p1",
+  "4q0_kr86sVk.p2",
+  "HCFZCcJxAFw.p0",
+  "HCFZCcJxAFw.p1",
+  "HCFZCcJxAFw.p2",
+  "c9s-CEVY8PM.p0",
+  "c9s-CEVY8PM.p1",
+  "c9s-CEVY8PM.p2"
+ ]
+}
