@@ -1,7 +1,7 @@
 # lane5-003
 
 24 of 25 lessons published · 0 skipped · status **pending**
-Tokens (71 agent runs with a record, 47 refused or without record): 16.0M in (mostly cache) · 1.98M out · API-equivalent 34.63
+Tokens (75 agent runs with a record, 47 refused or without record): 16.1M in (mostly cache) · 2.09M out · API-equivalent 35.97
 
 | lesson | state | detail |
 |---|---|---|
@@ -17,7 +17,7 @@ Tokens (71 agent runs with a record, 47 refused or without record): 16.0M in (mo
 | RThBKomaAOo | ✓ published | 1022 lines · Bechukotai, Bamidbar e o esforço na Torá antes de Shavuot |
 | Phu1AMgeDyI | ✓ published | 1165 lines · Controle da raiva: Paracetamol e antibiótico |
 | xFWecXoJy-8 | ✓ published | 841 lines · As 13 Midot de Misericórdia e a guerra Rugido do Leão |
-| HqwyYg-NCeQ | ✗ will be redone (try 1) | bad line "1575	with HaShem's help.se HaShem quiser." |
+| HqwyYg-NCeQ | ✗ will be redone (try 2) | 8 lines missing |
 | ohwI5Wlug8g | ✓ published | 1008 lines · Nedarim e shevuot: o sentido de Matot |
 | WlNGeJfCdkI | ✓ published | 1243 lines · Parashat Haazinu: o documento que explica o sofrimento |
 | Swf56sUOpXQ | ✓ published | 781 lines · Tetzavê e a guerra: o óleo batido que dá luz |
