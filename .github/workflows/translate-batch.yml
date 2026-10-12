@@ -116,8 +116,9 @@ jobs:
           claude -p "$PROMPT" --model sonnet --effort high --allowedTools Read Write --output-format json > usage.json 2> err.txt
           code=$?
           set -e
+          # every attempt keeps its own usage record, so the report counts all of them (2026-10-12)
+          cp usage.json "$D/$BATCH/out/$CHUNK.r$GITHUB_RUN_ID-$GITHUB_RUN_ATTEMPT.usage.json" 2>/dev/null || true
           if [ -s "$D/$BATCH/out/$CHUNK.txt" ]; then
-            cp usage.json "$D/$BATCH/out/$CHUNK.usage.json"
             echo "translated $CHUNK"
           else
             echo "::warning::$CHUNK not translated (exit $code) — the next run retries it"

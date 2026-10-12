@@ -104,19 +104,30 @@ fs.writeFileSync(path.join(DIR, 'manifest.json'), JSON.stringify(manifest, null,
 let inTok = 0
 let outTok = 0
 let cost = 0
+let runs = 0
+let refused = 0
 for (const f of fs.readdirSync(path.join(DIR, 'out')).filter((x) => x.endsWith('.usage.json'))) {
   try {
     const u = JSON.parse(fs.readFileSync(path.join(DIR, 'out', f), 'utf8'))
-    inTok += (u.usage?.input_tokens || 0) + (u.usage?.cache_read_input_tokens || 0) + (u.usage?.cache_creation_input_tokens || 0)
-    outTok += u.usage?.output_tokens || 0
-    cost += u.total_cost_usd || 0
+    // modelUsage is cumulative over the agent's turns; the top-level usage is the last turn only
+    const models = Object.values(u.modelUsage || {})
+    if (!models.length) {
+      refused++
+      continue
+    }
+    runs++
+    for (const m of models) {
+      inTok += (m.inputTokens || 0) + (m.cacheReadInputTokens || 0) + (m.cacheCreationInputTokens || 0)
+      outTok += m.outputTokens || 0
+      cost += m.costUSD || 0
+    }
   } catch {}
 }
 const report = [
   `# ${NAME}`,
   '',
   `${manifest.done.length} of ${manifest.lessons.length} lessons published · ${manifest.skipped.length} skipped · status **${manifest.status}**`,
-  `Tokens (all agents so far): ${(inTok / 1e6).toFixed(1)}M in (mostly cache reads) · ${(outTok / 1e6).toFixed(2)}M out${cost ? ` · API-equivalent $${cost.toFixed(2)}` : ''}`,
+  `Tokens (${runs} agent runs with a record${refused ? `, ${refused} refused or without record` : ''}): ${(inTok / 1e6).toFixed(1)}M in (mostly cache) · ${(outTok / 1e6).toFixed(2)}M out${cost ? ` · API-equivalent ${cost.toFixed(2)}` : ''}`,
   '',
   '| lesson | state | detail |',
   '|---|---|---|',
