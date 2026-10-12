@@ -1,7 +1,7 @@
 # lane2-004
 
-23 of 25 lessons published · 0 skipped · status **pending**
-Tokens (59 agent runs with a record, 6 refused or without record): 15.0M in (mostly cache) · 1.70M out · API-equivalent 29.73
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (65 agent runs with a record, 6 refused or without record): 16.7M in (mostly cache) · 1.85M out · API-equivalent 32.38
 
 | lesson | state | detail |
 |---|---|---|
@@ -28,5 +28,5 @@ Tokens (59 agent runs with a record, 6 refused or without record): 15.0M in (mos
 | x3-hLxqqeMU | ✓ published | 892 lines · O número 40: como se tornar outra pessoa |
 | dI0Wn2N5SJM | ✓ published | 920 lines · Sapatos: viver acima do mundo material |
 | 4q0_kr86sVk | ✓ published | 1007 lines · Coragem verdadeira: o pecado dos espiões em Shlach |
-| HCFZCcJxAFw | waiting | 0/3 parts |
-| c9s-CEVY8PM | waiting | 0/3 parts |
+| HCFZCcJxAFw | ✓ published | 1066 lines · Balak: a maldição de Bilam virou bênção |
+| c9s-CEVY8PM | ✓ published | 1165 lines · Yibum e teshuvá segundo o Rav Kook: construir após a ruína |
