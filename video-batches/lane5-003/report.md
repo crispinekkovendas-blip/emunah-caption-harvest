@@ -1,7 +1,7 @@
 # lane5-003
 
-9 of 25 lessons published · 0 skipped · status **pending**
-Tokens (24 agent runs with a record, 47 refused or without record): 5.4M in (mostly cache) · 0.69M out · API-equivalent 12.01
+24 of 25 lessons published · 0 skipped · status **pending**
+Tokens (71 agent runs with a record, 47 refused or without record): 16.0M in (mostly cache) · 1.98M out · API-equivalent 34.63
 
 | lesson | state | detail |
 |---|---|---|
@@ -14,19 +14,19 @@ Tokens (24 agent runs with a record, 47 refused or without record): 5.4M in (mos
 | CSlm7sFF_4A | ✓ published | 1636 lines · Hishtadlut, kibud av va'em e Parashat HaChodesh |
 | dBRXwOessic | ✓ published | 932 lines · Parashá Behar: as leis da proibição de juros |
 | 5qRvtwNhIMg | ✓ published | 430 lines · Bechukotai: a Torá e a guerra com os árabes |
-| RThBKomaAOo | waiting | 0/3 parts |
-| Phu1AMgeDyI | waiting | 0/3 parts |
-| xFWecXoJy-8 | waiting | 0/2 parts |
-| HqwyYg-NCeQ | waiting | 0/4 parts |
-| ohwI5Wlug8g | waiting | 0/3 parts |
-| WlNGeJfCdkI | waiting | 0/3 parts |
-| Swf56sUOpXQ | waiting | 0/2 parts |
-| LlpYP19VKMQ | waiting | 0/2 parts |
-| wwbzPYGu_44 | waiting | 0/3 parts |
-| IEOgu930b9Q | waiting | 0/3 parts |
-| VlWzr26G5m8 | waiting | 0/2 parts |
-| SlCDZQKz2p0 | waiting | 0/4 parts |
-| 2NA2a8fXIiw | waiting | 0/3 parts |
-| ahMulN9PZws | waiting | 0/3 parts |
-| kziUCQ88sj4 | waiting | 0/4 parts |
-| 09rltkwXKZI | waiting | 0/3 parts |
+| RThBKomaAOo | ✓ published | 1022 lines · Bechukotai, Bamidbar e o esforço na Torá antes de Shavuot |
+| Phu1AMgeDyI | ✓ published | 1165 lines · Controle da raiva: Paracetamol e antibiótico |
+| xFWecXoJy-8 | ✓ published | 841 lines · As 13 Midot de Misericórdia e a guerra Rugido do Leão |
+| HqwyYg-NCeQ | ✗ will be redone (try 1) | bad line "1575	with HaShem's help.se HaShem quiser." |
+| ohwI5Wlug8g | ✓ published | 1008 lines · Nedarim e shevuot: o sentido de Matot |
+| WlNGeJfCdkI | ✓ published | 1243 lines · Parashat Haazinu: o documento que explica o sofrimento |
+| Swf56sUOpXQ | ✓ published | 781 lines · Tetzavê e a guerra: o óleo batido que dá luz |
+| LlpYP19VKMQ | ✓ published | 668 lines · Ver a Presença Divina: a alegria no Beit HaMikdash |
+| wwbzPYGu_44 | ✓ published | 1185 lines · Mashiach: uma revolução que vem de Lot e Avraham |
+| IEOgu930b9Q | ✓ published | 911 lines · Tsitsit, Shabat e os 32 dentes: o fim de Shelach Lecha |
+| VlWzr26G5m8 | ✓ published | 670 lines · Parashá Chukat: as leis da Torá e as leis da ciência |
+| SlCDZQKz2p0 | ✓ published | 1391 lines · Shabat, festas e dias úteis: como viver o tempo |
+| 2NA2a8fXIiw | ✓ published | 986 lines · Santidade do acampamento e o zelo de Pinchas |
+| ahMulN9PZws | ✓ published | 958 lines · Os espiões dentro da cabeça: Parashá Shelach Lecha |
+| kziUCQ88sj4 | ✓ published | 1388 lines · Parashá Vaerá: conhecer HaShem pelo Êxodo |
+| 09rltkwXKZI | ✓ published | 1103 lines · A lei da responsabilidade: a realidade não se engana |
