@@ -1,0 +1,450 @@
+0	Hello everyone. We're beginning Parashat Chukat,	Olá a todos. Estamos começando a Parashá Chukat,
+1	of this year.	deste ano.
+2	"And HaShem spoke to Moshe and to Aharon, saying: This	"E HaShem falou a Moshé e a Aharon, dizendo: Este
+3	is the statute of the Torah that HaShem commanded, saying: Speak	é o estatuto da Torá que HaShem ordenou, dizendo: Fala
+4	to the children of Israel, and let them take to you a red heifer,	aos filhos de Israel, e que tragam a ti uma vaca vermelha,
+5	perfect, without blemish, upon which no yoke has come. And you shall give	perfeita, sem defeito, sobre a qual jamais veio jugo. E a dareis
+6	it to Elazar the Kohen, and he shall take it outside	a Elazar, o cohen, e ele a levará para fora
+7	the camp, and slaughter it before him." There is a whole matter here	do acampamento, e a imolará diante dele." Há aqui todo um assunto
+8	and a whole ritual. And we want to understand what a red	e todo um rito. E queremos entender o que é uma vaca
+9	heifer is. Because the red heifer is something	vermelha. Pois a vaca vermelha é algo
+10	very deep. It's something that however much we explain it,	muito profundo. É algo que, por mais que o expliquemos,
+11	I'll say it right now, you can't truly know what it	já digo desde agora, não se pode saber de verdade o que
+12	means, because it's a chok. And a chok has its own logic,	significa, porque é um chok. E o chok tem a sua própria lógica,
+13	and all its beauty is that not everything has to be known. Let's	e toda a sua beleza é que nem tudo precisa ser sabido. Vamos
+14	begin by first understanding that in the Torah we have several	começar entendendo primeiro que, na Torá, temos várias
+15	things. Sometimes people say chukim, mitzvot, but they aren't	coisas. Às vezes se diz chukim, mitsvot, mas não são
+16	the same thing. There are three things with which the children of	a mesma coisa. Há três coisas com as quais os filhos de
+17	Israel were commanded. There are mishpatim, there are edut, or mitzvot, which is	Israel foram ordenados. Há mishpatim, há edut, ou mitsvot, que é
+18	the same, and there are chukim, like the red heifer. What's	o mesmo, e há chukim, como a vaca vermelha. Qual é
+19	the difference? Mishpatim are rules between a person and their fellow	a diferença? Mishpatim são regras entre uma pessoa e o próximo
+20	that even the nations of the world would find. Logical	que até as nações do mundo chegariam a encontrar. Coisas
+21	things. You shall not murder, you shall not steal, you shall not commit adultery. That	lógicas. Não matarás, não roubarás, não adulterarás. Quer
+22	is, things about which the Gemara tells us in Eruvin 100b	dizer, coisas sobre as quais a Guemará nos diz em Eruvin 100b
+23	that Rabbi Yochanan said: Had the Torah not been given, we would have learned	que Rabi Yochanan disse: Se a Torá não tivesse sido dada, teríamos aprendido
+24	modesty from the cat, theft from the ant, and	o recato do gato, o roubo da formiga, e
+25	fidelity from the dove. That is, in order to learn how to behave, a person would	a fidelidade da pomba. Ou seja, para aprender a se comportar, a pessoa
+26	look at nature, see the cat, how it digs	olharia a natureza, veria o gato, como ele cava
+27	and covers its waste in the sand, digs, covers, and would say,	e cobre seus dejetos na areia, cava, cobre, e diria:
+28	wow, what nice behavior, so it doesn't stink and	uau, que comportamento bonito, para não feder e para
+29	others don't step on it. You'd learn that from the cat. Or,	que os outros não pisem nisso. Isso se aprenderia do gato. Ou,
+30	for example, theft from the ant. The ant too, it's not for nothing it's	por exemplo, o roubo da formiga. A formiga também, não é à toa que
+31	called a nemalah, because it cuts the kernel of wheat.	se chama nemalá, pois ela corta o grão de trigo.
+32	That is, what happens? It takes a grain of wheat,	Ou seja, o que acontece? Ela pega um grão de trigo,
+33	puts it in the ground, and if water comes it will sprout	põe na terra, e se vier água ele vai brotar
+34	and ruin its whole nest. So what does it do?	e arruinar todo o seu ninho. Então o que ela faz?
+35	It bites off its tip, brings it up. That's why	Ela corta a ponta, leva para cima. É por isso que
+36	it's called nemalah, and then it doesn't sprout for it. But	se chama nemalá, e assim o grão não brota. Mas
+37	not because of that, that's not what we wanted to discuss. The ant doesn't	não é por isso, não era disso que queríamos falar. A formiga não
+38	rob its fellow. So because we would	rouba a sua companheira. Então, como estaríamos
+39	looking, as King Shlomo said, "Go to the ant, you sluggard,	olhando, como disse o rei Shlomo: "Vai ter com a formiga, preguiçoso,
+40	consider her ways and be wise," we would see that the ant doesn't	observa os seus caminhos e sê sábio", veríamos que a formiga não
+41	rob its fellow. We'd say, oh,	rouba a sua companheira. Diríamos: ah,
+42	what nice behavior, we don't rob, and we'd learn	que comportamento bonito, não se rouba, e aprenderíamos
+43	fidelity from the dove, because we know what	a fidelidade da pomba, porque sabemos o que
+44	a pair of doves is. A pair of doves, someone says, is	são um par de pombas. Um par de pombas, alguém diz, é
+45	somebody else's, even out of the house, but no, that's not what is meant.	de outra pessoa, até fora de casa, mas não, não é isso que se quer dizer.
+46	A pair of doves means loyalty: if one of the pair, their	Um par de pombas é lealdade: se um do par, seu
+47	mate, dies, they stay alone all their lives. So you	companheiro, morre, ficam sozinhos pela vida toda. Então você
+48	see what loyalty is. As for lions, we could	vê o que é lealdade. Quanto aos leões, poderíamos
+49	learn what's called "Lift up your eyes on high and see who	aprender o que se chama: "Levantai ao alto os vossos olhos e vede quem
+50	created these." That is, in nature there is a great deal of	criou estas coisas." Ou seja, na natureza há muitos
+51	proper behavior; the point is that in nature,	comportamentos corretos; a questão é que na natureza
+52	it doesn't come from good character. The cat doesn't cover	isso não vem de boas qualidades de caráter. O gato não cobre
+53	its waste in the sand because it's clean or polite.	seus dejetos na areia por ser limpo ou educado.
+54	It does it because the Holy One, blessed be He, implanted in it	Ele faz isso porque o Santo, Bendito seja, implantou nele
+55	a program that it must behave that way. All the animals	uma programação de que deve se comportar assim. Todos os animais
+56	in nature have programming, they're programmed, they have no	na natureza têm programação, são programados, não têm
+57	free choice. Man, by contrast, was made "in our image,	livre-arbítrio. O homem, ao contrário, foi feito "à nossa imagem,
+58	after our likeness"; the Holy One, blessed be He, took from all	conforme a nossa semelhança"; o Santo, Bendito seja, tirou de todos
+59	the animals and creatures all the traits and placed them	os animais e criaturas todos os traços e os colocou
+60	in man, so that man would have free choice. Whether he	no homem, para que o homem tivesse livre-arbítrio. Se ele
+61	wants to be a predator, or whether he wants to be a man of	quer ser um predador, ou se quer ser um homem de
+62	kindness, all the traits are in man. Only he can	bondade, todos os traços estão no homem. Só ele pode
+63	choose, unlike the animals, where from the start we know	escolher, ao contrário dos animais, dos quais desde o início sabemos
+64	what trait each animal has. So, for the sake of	que traço cada animal tem. Então, para efeito
+65	the matter of mishpatim, we said even the nations took	do tema dos mishpatim, dissemos que até as nações tomaram
+66	this. What, then, are edut or mitzvot? These are things	isso. E o que são, então, edut ou mitsvot? São coisas
+67	between man and HaShem that were given only to the people of Israel,	entre o homem e HaShem que foram dadas somente ao povo de Israel,
+68	but there is logic in them, they can be understood. For example,	mas há lógica nelas, podem ser compreendidas. Por exemplo,
+69	Shabbat, tefillin, mezuzah. For example, what is behind Shabbat?	Shabat, tefilin, mezuzá. Por exemplo, o que há por trás do Shabat?
+70	Even the nations understand that a person needs	Até as nações entendem que a pessoa precisa,
+71	every seven days, a day of rest. So the Muslims	a cada sete dias, de um dia de descanso. Então os muçulmanos
+72	took Friday, and the Christians took Sunday,	tomaram a sexta-feira, e os cristãos o domingo,
+73	and the Jews Shabbat; that's how they understand it. Right away	e os judeus o Shabat; é assim que eles entendem. De imediato
+74	it seems we don't keep Shabbat merely because it's	parece que não guardamos o Shabat apenas porque é
+75	a social day and workers should be allowed to rest, and it's good	um dia social e os trabalhadores devem poder descansar, e é bom
+76	for you to rest too, but they understand the logic of Shabbat.	que você também descanse, mas eles entendem a lógica do Shabat.
+77	Or, for example, tefillin: "You shall bind them as a sign upon your hand, and	Ou, por exemplo, os tefilin: "Atá-los-ás como sinal na tua mão, e
+78	they shall be frontlets between your eyes," and "you shall bind them upon your hand."	serão frontais entre os teus olhos", e "atá-los-ás na tua mão".
+79	That is, you understand why, because you need	Ou seja, você entende por quê, porque precisa
+80	to remember the Exodus from Egypt, so you subjugate here, the head,	lembrar a saída do Egito, então você sujeita aqui, a cabeça,
+81	you subjugate the thought, and here next to the heart you	você sujeita o pensamento, e aqui junto ao coração você
+82	subjugate the heart, so the deed, which the hand represents,	sujeita o coração, de modo que tanto a ação, que a mão representa,
+83	and the thought too,	como o pensamento
+84	are all in the way of HaShem and you remember the Exodus from	estejam no caminho de HaShem e você lembre a saída do
+85	Egypt. So every day you bind signs and symbols.	Egito. Assim, todos os dias você amarra sinais e símbolos.
+86	Fine, we understand, but that's only for the people of Israel. A gentile	Certo, entendemos, mas isso é só para o povo de Israel. Um gentio
+87	is forbidden to do all these things. So we	está proibido de fazer todas essas coisas. Então
+88	see, and also tzitzit, why? "You shall look upon it	vemos, e também os tzitzit, por quê? "Vereis
+89	and remember all the mitzvot of HaShem." That is,	e vos lembrareis de todas as mitsvot de HaShem." Ou seja,
+90	the whole point is that the Jews have signs. So there is	a questão toda é que os judeus têm sinais. Assim há
+91	logic in it. These are mitzvot only for Israel. If so,	lógica nisso. São mitsvot só para Israel. Sendo assim,
+92	what are chukim? Chukim are things that are certainly	o que são chukim? Chukim são coisas que certamente são
+93	only for Israel, but there is no logical explanation for why	só para Israel, mas não há nenhuma explicação lógica de por que
+94	they must be observed. For example, what chukim do	é preciso cumpri-las. Por exemplo, que chukim
+95	we have? Besides the red heifer, which we'll discuss at length	temos? Além da vaca vermelha, da qual falaremos longamente
+96	today, we have shaatnez. You're forbidden to wear	hoje, temos o shaatnez. É proibido vestir
+97	a garment made of wool and linen. Why? A chok. A gentile can't	uma roupa feita de lã e linho. Por quê? Um chok. O gentio não consegue
+98	understand that. He'll tell you, "What's	entender isso. Ele vai dizer: "Qual é
+99	the problem? You took wool and linen, tie them together,	o problema? Você pegou lã e linho, amarrou junto,
+100	weave them together, so what?" Or, for example, eating	teceu junto, e daí?" Ou, por exemplo, comer
+101	pork. What's the problem with pork? Some will try to explain it	porco. Qual é o problema com o porco? Alguns vão tentar justificar
+102	away, that it's unhygienic, and that's not true, the nations	dizendo que não é higiênico, e isso não é verdade, as nações
+103	eat plenty of pigs, and today you have hygienic	comem muitíssimos porcos, e hoje há condições de
+104	conditions, and they say it's also tasty. Thank HaShem, I	higiene, e dizem que também é gostoso. Graças a HaShem, eu
+105	don't know, but	não sei, mas
+106	why is the people of Israel forbidden to eat it? A chok. So there are	por que é proibido ao povo de Israel comê-lo? Um chok. Então há
+107	chukim for which you have no real understanding,	chukim dos quais você não tem verdadeira compreensão,
+108	and of course the red heifer, which is the chok, the chok	e é claro a vaca vermelha, que é o chok, o chok
+109	of the chukim, perhaps the thing that most symbolizes	dos chukim, talvez a coisa que mais simboliza
+110	the chukim. About this Rashi says: "This is the statute of the Torah,"	os chukim. Sobre isso Rashi diz: "Este é o estatuto da Torá,"
+111	because the Satan and the nations of the world taunt Israel,	porque o Satan e as nações do mundo provocam Israel,
+112	saying: What is this mitzvah, what reason is there in it? What are you	dizendo: Que mitsvá é esta, que razão há nela? O que vocês
+113	doing, burning some heifer, taking	estão fazendo, queimando uma vaca, pegando
+114	the ashes, making a solution with water, and sprinkling it on	as cinzas, fazendo uma mistura com água e jogando em
+115	people and telling them, "Now you're purified from the dead, and you	pessoas e dizendo: "Agora você está purificado do morto, e
+116	can go up to the Beit HaMikdash"? What is this? Therefore the Torah wrote	pode subir ao Beit HaMikdash"? O que é isso? Por isso a Torá escreveu
+117	a chok:	um chok:
+118	"It is a decree from before Me, and you have no right to question it."	"É um decreto de diante de Mim, e não tens permissão de questioná-lo."
+119	And here we already want to begin to understand what	E aqui já queremos começar a entender o que
+120	this thing is. And why do the nations specifically ask about	é isso. E por que as nações perguntam justamente sobre
+121	this thing? Because they don't understand. A gentile, if you ask	isso? Porque não entendem. Um gentio, se você perguntar
+122	a gentile, any gentile, Christians, Muslims, tell him, the Torah	a um gentio, qualquer gentio, cristãos, muçulmanos, diga a ele: a Torá
+123	of the people of Israel that Moshe received on Mount Sinai, or Moses	do povo de Israel que Moshé recebeu no Monte Sinai, ou Moisés
+124	on Mount Sinai, or whatever you call him, is it a wise Torah? I	no Monte Sinai, ou como quiser chamá-lo, é uma Torá sábia? Eu
+125	don't think anyone would say it isn't a wise Torah.	não acho que alguém diria que não é uma Torá sábia.
+126	Does it have wise laws? Of course it has	Tem leis sábias? É claro que tem
+127	wise laws: "Surely this great nation is a wise and understanding people." So if	leis sábias: "Certamente este grande povo é sábio e entendido." Então se
+128	you understand that the whole Torah is wise, and here now there's a thing	você entende que toda a Torá é sábia, e aqui agora há uma coisa
+129	called the red heifer that you don't understand, does that mean	chamada vaca vermelha que você não entende, isso quer dizer
+130	the Torah has a problem, or that your understanding has a problem?	que a Torá tem um problema, ou que o seu entendimento tem um problema?
+131	So of course, if you see that everything is wise and this one	Então é claro que, se você vê que tudo é sábio e isto
+132	you don't understand, you understand that this too is presumably	você não entende, entende que isto também provavelmente é
+133	wise. You just don't understand. But even so, they	sábio. Você é que não entende. Mas mesmo assim eles
+134	don't know why you do this strange	não sabem por que vocês fazem essa coisa estranha.
+135	And there's a story in Midrash Bamidbar Rabbah: a gentile came	E há uma história no Midrash Bamidbar Rabá: um gentio veio
+136	to Rabban Yochanan ben Zakkai and said to him: What is this,	a Rabán Yochanan ben Zakai e lhe disse: O que é isso,
+137	you're doing something like witchcraft with this heifer.	vocês fazem uma espécie de feitiçaria com essa vaca.
+138	You take a cow, burn it,	Vocês pegam uma vaca, queimam,
+139	grind it, mix it into water, and one of you	moem, misturam em água, e um de vocês
+140	that you say became impure, really, what is	que dizem ter se tornado impuro, na verdade, o que é
+141	impurity? I'm a gentile, he doesn't understand what impurity is. What	impureza? Eu sou gentio, ele não entende o que é impureza. O que
+142	are you doing, sprinkling a few drops on him and telling him,	vocês estão fazendo, jogando umas gotas nele e dizendo:
+143	"You're purified"? So Rabban Yochanan ben Zakkai came and said to him:	"Você está purificado"? Então Rabán Yochanan ben Zakai lhe disse:
+144	Tell me, my lord the gentile, my friend, okay? Has	Diga-me, meu senhor gentio, meu amigo, certo? Alguma
+145	a spirit of madness ever entered you? What's called a dybbuk?	vez um espírito de loucura entrou em você? O que se chama dibuk?
+146	Has a spirit entered you? So he said, "No." He said,	Entrou em você um espírito? Então ele disse: "Não." Ele disse:
+147	"But have you ever seen another person, a gentile like you,	"Mas você já viu alguma outra pessoa, um gentio como você,
+148	that a spirit entered?" He said to him, "Yes, I've seen.	em quem entrou um espírito?" Ele disse: "Sim, já vi.
+149	It's called a dybbuk, sure I've seen." He says to him, "What	Chama-se dibuk, claro que já vi." Ele lhe diz: "O que
+150	do you do?" So he says to him, they go to the priest,	se faz?" Então ele diz: vão ao sacerdote,
+151	the shaman, I know to whom, and they place	ao curandeiro, eu sei a quem, e colocam
+152	all kinds of herbs, burn them beneath him, and after that	toda sorte de ervas, queimam sob ele, e depois
+153	they take special water,	pegam uma água especial,
+154	sprinkle it on him, and the spirit flees. He says to him, do you	aspergem nele, e o espírito foge. Ele lhe diz: você
+155	hear? Do your ears hear what your mouth says? Don't	ouve? Seus ouvidos ouvem o que a sua boca diz? Não
+156	you do the same thing? So with us too, that's how	fazem a mesma coisa? Então conosco também é assim que
+157	we drive away impurity, an evil spirit. Fine, the gentile left,	se afasta a impureza, um espírito mau. Bem, o gentio foi embora,
+158	he was pleased, he said, wow, actually we have	ficou satisfeito, disse: puxa, na verdade nós também temos
+159	such things too. After he left, the students came	coisas assim. Depois que ele saiu, os discípulos vieram
+160	to Rabban Yochanan ben Zakkai and said to him: You pushed him off with a reed.	a Rabán Yochanan ben Zakai e disseram: Você o despachou com uma palha.
+161	What kind of story did you give him? Why	Que tipo de história você lhe deu? Por que
+162	didn't you tell us that? Why don't you tell us such	não nos contou isso? Por que você não nos conta
+163	stories? He said to them, now I'll tell you	histórias assim? Ele lhes disse: agora vou lhes dizer
+164	the truth. By your lives, it's not the dead that defiles and not the water that purifies,	a verdade. Por suas vidas, não é o morto que contamina nem a água que purifica,
+165	but the Holy One, blessed be He, said: I have engraved a statute, I have	mas o Santo, Bendito seja, disse: Gravei um estatuto, decretei
+166	decreed a decree; you have no right to transgress My decrees. As it is written,	um decreto; não tens permissão de transgredir os Meus decretos. Como está escrito:
+167	"This is the statute of the Torah." What do you think? Is it because	"Este é o estatuto da Torá." O que vocês pensam? É porque
+168	the water is sprinkled? Forget all of that. Because the Holy One,	se asperge a água? Esqueçam tudo isso. Porque o Santo,
+169	blessed be He, said "This is the statute of the Torah." Only because of that	Bendito seja, disse: "Este é o estatuto da Torá." Só por isso
+170	do we observe it. Whether you believe	nós a cumprimos. Quer vocês acreditem
+171	there is impurity or you don't believe, and whether	que existe impureza, quer não acreditem, e quer
+172	you believe it works that way or it doesn't, it's	acreditem que funciona assim ou não, é
+173	irrelevant. That's what the Torah says. Where was the first time	irrelevante. Assim está escrito na Torá. Onde foi a primeira vez
+174	that the Holy One, blessed be He, wanted to teach the people of	em que o Santo, Bendito seja, quis ensinar ao povo de
+175	Israel what a chok is? It happened when they left Egypt,	Israel o que é um chok? Foi quando saíram do Egito,
+176	even before they received the Torah. It was in a place called	ainda antes de receberem a Torá. Foi num lugar chamado
+177	Marah, and when they reached Marah there was a big lake of	Mará, e ao chegarem a Mará havia um grande lago de
+178	bitter water, and they were thirsty and couldn't	água amarga, e eles estavam com sede e não podiam
+179	drink; they didn't yet have Miriam's well, and they	beber; ainda não tinham o poço de Miriam, e eles
+180	started to cry out. What did the Holy One, blessed be He, say to Moshe?	começaram a clamar. O que o Santo, Bendito seja, disse a Moshé?
+181	Take a bitter tree and throw it into the bitter water. Fine, he threw it.	Pegue uma árvore amarga e jogue na água amarga. Bem, ele jogou.
+182	What happened? The water became sweet. The water became sweet. Wow!	O que aconteceu? A água ficou doce. A água ficou doce. Uau!
+183	How can it be? You took something bitter, threw it into something	Como pode ser? Você pegou algo amargo, jogou em algo
+184	even more bitter, and it became sweet.	ainda mais amargo, e ficou doce.
+185	Yes. Why is it written there, "There He set for them a statute and an ordinance, and there He tested them"?	Sim. Por que está escrito ali: "Ali lhes deu um estatuto e uma ordenança, e ali os pôs à prova"?
+186	The Holy One, blessed be He, wanted to teach them: this is a chok,	O Santo, Bendito seja, quis lhes ensinar: isto é um chok,
+187	not understood by reason. And indeed there He first gave them, there	não compreendido pela razão. E de fato ali lhes deu pela primeira vez; ali
+188	they received Shabbat; some say there they received	receberam o Shabat; há quem diga que ali receberam
+189	the red heifer too. So, He wanted to show them	também a vaca vermelha. Então Ele quis lhes mostrar
+190	that a chok is something you can't understand, that there are	que um chok é algo que não se pode entender, que há
+191	things—and we'll soon see why—that you don't need	coisas — e logo veremos por quê — que você não precisa
+192	to understand; there are things you observe out of a king's decree.	entender; há coisas que você cumpre por decreto do rei.
+193	So we want to understand what chok means. What,	Então queremos entender o que significa chok. Por que,
+194	for example, is the reason we keep Shabbat?	por exemplo, guardamos o Shabat?
+195	Every Friday, in Kiddush, what do we say?	Toda sexta-feira, no Kidush, o que dizemos?
+196	"And	"E
+197	His holy Shabbat, in love and favor, He gave us as a heritage, a remembrance	o Seu santo Shabat, com amor e favor, nos deu como herança, em memória
+198	of the work of Creation; first among the holy convocations, a remembrance of the Exodus from	da obra da Criação; o primeiro dos dias santos de convocação, em memória da saída do
+199	Egypt." So why do we keep Shabbat? There are two reasons here:	Egito." Então por que guardamos o Shabat? Há aqui duas razões:
+200	first, remembrance of Creation, right? "For in six days	primeira, a memória da Criação, certo? "Pois em seis dias
+201	HaShem made the heavens and the earth, and on the seventh day	HaShem fez os céus e a terra, e no sétimo dia
+202	He rested and was refreshed." So because the Holy One, blessed be He, in the creation of	descansou e repousou." Então, porque o Santo, Bendito seja, na criação do
+203	the world rested on the seventh day, we do too. And the	mundo descansou no sétimo dia, nós também. E a
+204	second is remembrance of the Exodus from Egypt, that Shabbat	segunda é a memória da saída do Egito, pois o Shabat
+205	also reminds us of the Exodus from Egypt. So	também nos lembra a saída do Egito. Então
+206	we see there are two reasons why. Right, it's also written	vemos que há duas razões. Certo, também está escrito
+207	in Shemot, "Between Me and the children of Israel it is a sign	em Shemot: "Entre Mim e os filhos de Israel é um sinal
+208	forever, for in six days HaShem made the heavens and	para sempre, pois em seis dias HaShem fez os céus e
+209	the earth, and on the seventh day He rested and was refreshed." So that's why	a terra, e no sétimo dia descansou e repousou." Então é por isso que
+210	we keep Shabbat. But that's not precise. Why? Because	guardamos o Shabat. Mas isso não é preciso. Por quê? Porque
+211	in tractate Shabbat 87b it is written, "as HaShem Elokecha commanded you."	no tratado de Shabat 87b está escrito: "como HaShem Elokecha te ordenou."
+212	Rabbi Yehuda said in the name of Rav: "as He commanded you" at Marah. What	Rabi Yehuda disse em nome de Rav: "como te ordenou" em Mará. O que
+213	does that mean? That you don't keep Shabbat because	isso quer dizer? Que você não guarda o Shabat porque
+214	the Holy One, blessed be He, rested, or because you left	o Santo, Bendito seja, descansou, nem porque você saiu do
+215	Egypt. You rest. Why? Because that's what the Holy One,	Egito. Você descansa. Por quê? Porque foi isso que o Santo,
+216	blessed be He, said. Because that's what He taught you at Marah: it's a chok.	Bendito seja, disse. Porque foi isso que Ele te ensinou em Mará: é um chok.
+217	Why? What's behind this? Listen, if you keep	Por quê? O que há por trás disso? Escute, se você cumpre
+218	the mitzvot because there's a reason for the mitzvot, tomorrow the reason	as mitsvot porque há uma razão nelas, amanhã, se a razão
+219	will be void, and the mitzvah will be void. That is, the whole	for anulada, a mitsvá será anulada. Ou seja, a questão
+220	point is that you keep the mitzvah first of all	toda é que você cumpre a mitsvá, antes de tudo,
+221	because it's written in the Torah. Afterwards you want	porque está escrita na Torá. Depois você quer
+222	to understand too. There are things that can be understood. For example,	também entender. Há coisas que se pode entender. Por exemplo,
+223	it's written, "Honor your father and your mother." Right? Why?	está escrito: "Honra teu pai e tua mãe." Certo? Por quê?
+224	It's logical. The nations do it too. Dad raised	É lógico. As nações também fazem isso. O pai te criou,
+225	you, Dad cared for you, put up with you, went to work,	o pai cuidou de você, te aguentou, foi trabalhar,
+226	sweated for you, Dad didn't sleep at night because your	suou por você, o pai não dormia à noite porque seus
+227	teeth were coming in. Dad cared for you. Right? So honor him.	dentes estavam nascendo. O pai cuidou de você. Certo? Então honre-o.
+228	What if someone was born and his father didn't care for him?	E se alguém nasceu e o pai não cuidou dele?
+229	Dad beat him all his life, Dad threw him	O pai o espancou a vida toda, o pai o expulsou
+230	out of the house,	de casa,
+231	he never even knew his father, he grew up with	nem chegou a conhecer o pai, cresceu com
+232	his mother. According to the Torah, is he obligated in honoring	a mãe. Segundo a Torá, ele está obrigado a honrar
+233	his father? Yes.	o pai? Sim.
+234	Yes. Why? Because for the people of Israel, honoring parents	Sim. Por quê? Porque, para o povo de Israel, honrar os pais
+235	isn't out of gratitude; it's because it's written	não é por gratidão; é porque está escrito
+236	in the Torah. Because if it were out of gratitude, you'd say,	na Torá. Pois se fosse por gratidão, você diria:
+237	I have no gratitude, so I don't keep it. We	não tenho gratidão, então não cumpro. Nós
+238	know that King Shlomo, peace be upon him,	sabemos que o rei Shlomo, que a paz esteja com ele,
+239	failed in two things. It's written, "He shall not multiply horses for himself,"	falhou em duas coisas. Está escrito: "Não multiplicará para si cavalos,"
+240	so as not to bring the people back to Egypt, and "he shall not multiply wives	para não fazer o povo voltar ao Egito, e "não multiplicará para si mulheres,
+241	lest his heart turn away."	para que o seu coração não se desvie."
+242	Now it's precisely in these two things that King Shlomo	Ora, justamente nessas duas coisas o rei Shlomo
+243	failed. They say he had many horses, chariots,	falhou. Dizem que ele tinha muitos cavalos, carros,
+244	and he multiplied wives, a thousand wives,	e multiplicou mulheres, mil mulheres,
+245	and indeed in his old age it's written that "they turned his heart"; they worshipped	e de fato na velhice está escrito que "desviaram o seu coração"; serviram a
+246	idols. Now why did he fail specifically in both?	ídolos. Mas por que ele falhou justamente nas duas?
+247	Why did Shlomo fail—not in Shabbat, tefillin, other things?	Por que Shlomo falhou — não no Shabat, nos tefilin, em outras coisas?
+248	Because for these two mitzvot the reason is given in the Torah.	Porque para essas duas mitsvot a razão é dada na Torá.
+249	He said: "Not to multiply horses so as not to go down to Egypt"—I	Ele disse: "Não multiplicar cavalos para não descer ao Egito" — eu
+250	won't take them down to Egypt. And he did take them down. "Not	não vou fazê-los descer ao Egito. E fez descer. "Não
+251	multiply wives lest his heart turn away"—he said, mine won't turn	multiplicar mulheres para que o coração não se desvie" — disse: o meu não vai se desviar
+252	away. And yet they succeeded in turning it. That is, the moment there is	E no entanto conseguiram desviá-lo. Ou seja, no momento em que há
+253	a reason for the mitzvah, you think for a moment: for me it won't	uma razão para a mitsvá, você pensa por um instante: para mim isso não vai
+254	affect me. When you keep the mitzvah as	influir. Quando você cumpre a mitsvá como
+255	a king's decree, at that moment, as they say, you're not	decreto do rei, nesse momento, como se diz, você não está
+256	playing with it. From here we begin to understand	brincando com isso. A partir daqui começamos a entender
+257	why it's written "This is the statute of the Torah." I would have	por que está escrito "Este é o estatuto da Torá." Eu esperaria
+258	expected that perhaps it would say "This is the statute of the heifer" or	que talvez estivesse escrito "Este é o estatuto da vaca" ou
+259	"the statute of purification"—the heifer purifies. What is the heifer? It's	"o estatuto da purificação" — a vaca purifica. O que é a vaca? É
+260	the whole Torah. You see, it's about to speak of the red heifer;	a Torá inteira. Veja, vai falar da vaca vermelha;
+261	why "the statute of the Torah"? Say "the statute of the heifer." Yes.	por que "o estatuto da Torá"? Diga "o estatuto da vaca". Sim.
+262	Because it's a parable for the whole Torah: just as you are to keep	Porque é um parâmetro para a Torá inteira: assim como você deve cumprir
+263	the red heifer without understanding, so you must	a vaca vermelha sem entender, assim você deve
+264	keep all the mitzvot of the Torah as a	cumprir todas as mitsvot da Torá como um
+265	king's decree, even what you—since you're not obliged	decreto do rei, mesmo aquilo que você — já que não é obrigado
+266	to understand—as it says, "I engraved a statute, I decreed a decree, and you have no	a entender — conforme se diz: "Gravei um estatuto, decretei um decreto, e não tens
+267	right to question it." And this is what the Meor	permissão de questioná-lo." E é isto que o Meor
+268	Einayim tells us: the ultimate knowledge is that we don't know. That is,	Einayim nos diz: o fim do saber é que não saibamos. Ou seja,
+269	there's a very deep point here: you don't keep	há aqui um ponto muito profundo: você não cumpre
+270	mitzvot because they make sense. The people of Israel doesn't	mitsvot porque fazem sentido. O povo de Israel não
+271	keep Shabbat because it's nice to rest one day	guarda o Shabat porque é bom descansar um dia
+272	in seven; that may be fine for the nations. The people of	em sete; isso talvez sirva para as nações. O povo de
+273	Israel keeps Shabbat because that's what the Holy One, blessed be He, said.	Israel guarda o Shabat porque foi isso que o Santo, Bendito seja, disse.
+274	And once you're in that place, your life	E quando você está nesse lugar, a sua vida
+275	becomes much simpler. What does it mean, "you have no right to question it"?	fica muito mais simples. O que quer dizer "não tens permissão de questioná-lo"?
+276	That you shouldn't become proud	Que você não se encha de orgulho
+277	for keeping it even without understanding. Don't let one	por cumprir mesmo sem entender. Que ninguém
+278	say, "I keep it even without understanding." Could you still	diga: "Eu cumpro mesmo sem entender." Será que você ainda poderia
+279	be proud of that? No—"you have no permission to question	se encher de orgulho disso? Não — "não tens permissão de questioná-lo."
+280	it." Keep it and be at peace.	Cumpra e fique em paz.
+281	Many in Israel are very mistaken, especially in our	Muitos em Israel erram muito, sobretudo na nossa
+282	generation, trying to give a reason for the mitzvot, and here begins	geração, tentando dar uma razão às mitsvot, e aqui começa
+283	their mistake, trying to say that, heaven forbid, the Torah	o erro deles, quando tentam dizer que, que o Céu nos livre, a Torá
+284	isn't suited to our times,	não está adaptada aos nossos tempos,
+285	because they think the Torah was invented	porque pensam que a Torá foi inventada
+286	by the Sages, and back then there was no electricity, no	pelos Sábios, e naquele tempo não havia eletricidade, nem
+287	technology, so they had all kinds of rules	tecnologia, então eles tinham toda sorte de regras
+288	adapted to the world of the past; but today when you turn on	adaptadas ao mundo de antigamente; mas hoje, quando você acende
+289	the light at the press of a button, why is it forbidden to turn on a light	a luz apertando um botão, por que é proibido acender a luz
+290	on Shabbat? Back then they had to light a fire,	no Shabat? Antigamente era preciso acender fogo,
+291	maybe they had to rub stones together, it was	talvez esfregar pedras, era
+292	hard work. And here their mistake begins. Why?	trabalho duro. E aqui começa o erro deles. Por quê?
+293	First, in very many cases they're wrong. Was it	Primeiro, em muitíssimos casos eles se enganam. Antigamente,
+294	hard work in the past? Maybe lighting from scratch, yes, but	era trabalho duro? Talvez acender do zero, sim, mas
+295	passing fire from a candle isn't hard work. They could light	passar fogo de uma vela não é trabalho duro. Podiam acender
+296	a candle before Shabbat and only light more candles from it.	uma vela antes do Shabat e só acender outras velas a partir dela.
+297	Right? That's not hard anymore, but that too is forbidden on Shabbat	Certo? Isso já não é difícil, mas isso também é proibido no Shabat
+298	under the labor of kindling. So we see it isn't	por causa da melachá de acender. Então vemos que não está
+299	connected to the degree of effort. The prohibition on Shabbat is	ligado ao grau de esforço. A proibição no Shabat
+300	not about work but about performing melachah, which isn't at all	não é sobre trabalho, mas sobre realizar melachá, que não tem
+301	related to the degree of effort; it's about making	nada a ver com o grau de esforço; tem a ver com fazer
+302	something new, creating a new reality, entirely without	algo novo, criar uma nova realidade, totalmente sem
+303	regard to effort. You may exert yourself on Shabbat if it's for	relação com o esforço. É permitido se esforçar no Shabat se é para
+304	the delight of Shabbat; for example, you may carry pots on Shabbat	o prazer do Shabat; por exemplo, é permitido carregar panelas no Shabat
+305	or carry chairs on Shabbat, even if you're	ou carregar cadeiras no Shabat, mesmo que você esteja
+306	sweating a lot, if it's for the Shabbat meal, for example,	suando muito, se é para a refeição de Shabat, por exemplo,
+307	within the boundary, there's no problem at all. So we	dentro do limite, não há problema nenhum. Então
+308	see that the basis is that we adapt	vemos que o fundamento é que adaptamos
+309	life to the Torah, and not the Torah to life. This	a vida à Torá, e não a Torá à vida. Isso
+310	is exactly what suits our time so well, that many	é justamente o que combina tanto com o nosso tempo, que muitos
+311	want to be Jews because they are Jews, but they	querem ser judeus porque são judeus, mas
+312	don't want to do what a Jew must do. And here	não querem fazer o que um judeu deve fazer. E aqui
+313	the problem begins. So 200 years ago some Jews	começa o problema. Então, há 200 anos, alguns judeus
+314	with a startup—they called them Reform—said,	com uma startup — chamaram-nos de reformistas — disseram:
+315	we'll remain Jews but we'll adapt	continuaremos judeus, mas vamos adaptar
+316	the Torah to life however suits us. And that's the biggest	a Torá à vida como nos convier. E esse é o maior
+317	mistake, because they themselves have so many times	erro, porque eles mesmos tantas vezes
+318	changed their minds that they themselves no longer know whether	mudaram de opinião que já nem eles sabem se
+319	what they keep is right or not. They	o que cumprem é certo ou não. Eles
+320	say they don't care either, because what difference does it make,	dizem que também não se importam, pois que diferença faz,
+321	once you've dropped one law you'll drop them all. But we,	uma vez que se abandona uma lei, abandonam-se todas. Mas nós,
+322	we understand that the Torah is first of all a chok,	nós entendemos que a Torá é, antes de tudo, um chok,
+323	"I engraved a statute"; first "we will do," then "we will hear." That	"gravei um estatuto"; primeiro "faremos", depois "ouviremos". Ou
+324	is, first you do, afterwards if you want	seja, primeiro se faz, depois, se você quiser
+325	to study, sit and study, understand what's behind each	estudar, sente e estude, entenda o que há por trás de cada
+326	thing. What is the Torah? The Torah is a map for fixing	coisa. O que é a Torá? A Torá é um mapa para corrigir
+327	the human soul. The Torah is a series of laws and rules	a alma humana. A Torá é uma série de leis e regras
+328	that the Holy One, blessed be He, gave the people of Israel to fix	que o Santo, Bendito seja, deu ao povo de Israel para corrigir
+329	your desires. We have within us an animal soul	os seus desejos. Temos em nós uma alma animal
+330	and a divine soul, and in the body we have 613	e uma alma divina, e no corpo temos 613
+331	parts. Right? 248 limbs and 365	partes. Certo? 248 membros e 365
+332	sinews. This corresponds to the 248 positive mitzvot and the 365	tendões. Isso corresponde às 248 mitsvot positivas e às 365
+333	negative mitzvot. So every limb has a desire, a certain	mitsvot negativas. Assim, cada membro tem um desejo, uma certa
+334	essence, and every mitzvah comes to fix, to temper that	essência, e cada mitsvá vem corrigir, moderar esse
+335	desire. And when a Jew keeps the mitzvot, even	desejo. E quando um judeu cumpre as mitsvot, mesmo
+336	mitzvot he can't perform—but the very fact	aquelas que não pode cumprir — mas o simples fato
+337	that he studies them, "and let our lips compensate for bulls," by this	de estudá-las, "e que nossos lábios compensem os novilhos", com isso
+338	he draws down the abundance and vitality to that limb,	ele faz descer a abundância e a vitalidade para aquele membro,
+339	and by this you exist in this world. That's why, for one	e com isso você subsiste neste mundo. Por isso, a quem
+340	who doesn't follow the Torah, they say he is called	não anda segundo a Torá, dizem que ele é chamado
+341	a rasha. Rasha doesn't mean evil. A rasha is a Jew who doesn't	rasha. Rasha não é "mau". Rasha é um judeu que não
+342	keep the Torah. We mistakenly think	cumpre a Torá. Nós, por engano, pensamos que
+343	a rasha is someone bad. He can be a kind person,	rasha é alguém mau. Ele pode ser uma pessoa bondosa,
+344	giving charity and doing many good things, but	que dá tsedaká e faz muitas coisas boas, mas
+345	he doesn't keep the Torah, so he's called a rasha.	não cumpre a Torá, e por isso é chamado rasha.
+346	And the Sages say, the wicked, even in their lifetime, are called dead,	E os Sábios dizem: os perversos, ainda em vida, são chamados mortos,
+347	why? Because they don't draw vitality to their limbs.	por quê? Porque não fazem descer vitalidade aos seus membros.
+348	So they live like a cow lives, like a cat lives, by the	Então vivem como vive uma vaca, como vive um gato, pela
+349	vitality of the body, but the soul doesn't receive	vitalidade do corpo, mas a alma não recebe
+350	its nourishment the way it should have.	o seu alimento como deveria receber.
+351	That's why the Torah is first of all a chok;	Por isso a Torá é, antes de tudo, um chok;
+352	the moment you humble yourself and accept the Torah as	no momento em que você se humilha e aceita a Torá como
+353	a chok, at that moment you're already headed right. Now you	chok, nesse momento você já está na direção certa. Agora você
+354	want to study things that can be understood by reason, fine,	quer estudar coisas que se podem entender pela razão, tudo bem,
+355	you can.	pode.
+356	There's a hint: "This is the statute of the Torah that He commanded." "Tzivah"	Há uma alusão: "Este é o estatuto da Torá que Ele ordenou." "Tzivá"
+357	has the gematria 101. Why? Because the Sages tell us	tem o valor numérico 101. Por quê? Porque os Sábios nos dizem
+358	that "one who reviews his chapter 100	que "aquele que repassa o seu capítulo 100
+359	times is unlike one who reviews it 101 times," from Chagigah 9b.	vezes não é como aquele que o repassa 101 vezes", de Chagigá 9b.
+360	That is, what's behind this? In their day	Ou seja, o que há por trás disso? Naquele tempo
+361	the Tannaim would learn everything 100 times; that's how they	os tanaim estudavam cada coisa 100 vezes; era assim que
+362	had brains—something else. There are no such people today,	tinham mentes — algo diferente. Hoje não há pessoas assim,
+363	no such minds. To learn 101 times was to break, to break the	nem mentes assim. Estudar 101 vezes era quebrar, quebrar a
+364	measure,	medida,
+365	the habit. So they say that if you learn something	o hábito. Então dizem que, se você estuda algo
+366	100 times—would that it were us!—fine, that's normal,	100 vezes — quem dera nós! — tudo bem, é normal,
+367	but if you learn it 101 times, then it will enter you.	mas se você estuda 101 vezes, então isso entra em você.
+368	Why? Because you broke some measure, you broke your own	Por quê? Porque você quebrou uma medida, quebrou a sua própria
+369	animality. So they say: what is "the statute of tzivah"?	animalidade. Então dizem: o que é "o estatuto de tzivá"?
+370	The command is that you break your animality. Every time,	A ordem é que você quebre a sua animalidade. Toda vez,
+371	say, with small things, you have a plate,	digamos, com coisas pequenas, você tem um prato,
+372	leave the last bite on the plate. Break your	deixe a última garfada no prato. Quebre a sua
+373	animality. Why? So you show yourself you're not an animal,	animalidade. Por quê? Para mostrar a si mesmo que você não é um animal,
+374	that you can overcome your animality. That's why	que você pode superar a sua animalidade. Por isso
+375	it's written: "Happy is the one who comes here with his learning in	está escrito: "Feliz é quem vem para cá com o seu estudo na
+376	his hand." "Here" is the World to Come. "Lekan" too is 101.	mão." "Aqui" é o Mundo Vindouro. "Lekan" também é 101.
+377	That is, happy is the one who comes to the World to Come	Ou seja, feliz é quem chega ao Mundo Vindouro
+378	and can show that each time he broke some trait	e pode mostrar que, cada vez, quebrou alguma característica
+379	in himself. What do we do in this world? We fix	em si mesmo. O que fazemos neste mundo? Corrigimos
+380	our traits. For the nations, laws are meant for	nossas características. Para as nações, as leis servem para a
+381	social order; the American constitution doesn't care what you	ordem social; a constituição americana não se importa com o que você
+382	do at home where no one sees—do whatever you want and relax.	faz em casa onde ninguém vê — faça o que quiser e fique tranquilo.
+383	But in Israel the laws are meant to fix	Mas em Israel as leis servem para corrigir
+384	the traits of the soul, even when you're alone, even when you're	as características da alma, mesmo quando você está sozinho, mesmo quando está
+385	in the restroom, even when no one sees. And from that,	no banheiro, mesmo quando ninguém vê. E a partir disso,
+386	by being a rectified person, there will necessarily be social order too.	ao ser uma pessoa corrigida, necessariamente haverá também ordem social.
+387	What does it say in Shir HaShirim? "Let him kiss me with the kisses of his mouth."	O que está escrito em Shir HaShirim? "Beije-me com os beijos da sua boca."
+388	Right, "pihu" is also 101, and what is "his mouth"? It's	Certo, "pihu" também é 101, e o que é "a sua boca"? É
+389	the connection between the people of Israel and the Holy One, blessed be He.	a ligação entre o povo de Israel e o Santo, Bendito seja.
+390	When you want to connect to the Holy One, blessed be He, engage	Quando você quer se ligar ao Santo, Bendito seja, ocupe-se
+391	in His Torah, engage in the Torah a lot. That's how one connects	da Sua Torá, ocupe-se muito da Torá. É assim que se liga
+392	to HaShem. You don't sit in some ashram in India	a HaShem. Não é sentando num ashram na Índia
+393	meditating and connect that way. That way maybe	meditando que você se liga. Assim talvez
+394	you connect to a socket, to India's electric company. If you	você se ligue a uma tomada, à companhia elétrica da Índia. Se você
+395	want to connect to the Holy One, blessed be He, engage in Torah.	quer se ligar ao Santo, Bendito seja, ocupe-se da Torá.
+396	Now let's see what the red heifer	Agora vejamos como deve ser a
+397	must be. We're told it must be a heifer,	vaca vermelha. Dizem-nos que deve ser uma vaca
+398	red, perfect, without blemish. What is red? So	vermelha, perfeita, sem defeito. O que é vermelha? Então,
+399	first of all it seems this heifer has several secrets.	antes de tudo parece que essa vaca tem vários segredos.
+400	"Adumah": if we take its middle letters it's	"Adumá": se tomarmos as letras do meio, é
+401	dam, blood—judgment. "Temimah": its middle letters are	dam, sangue — rigor. "Temimá": as letras do meio são
+402	mayim, water. Water is chesed, right? Blood, because blood	mayim, água. Água é chesed, certo? O sangue, porque o sangue
+403	is the soul, and water is chesed. Torah is likened to water, because	é a alma, e a água é chesed. A Torá é comparada à água, porque
+404	water quenches the soul. Torah quenches	a água sacia a alma. A Torá sacia
+405	the soul. Water flows from a high place to a low one.	a alma. A água desce de um lugar alto para um lugar baixo.
+406	So the Torah enters the one who makes himself small. That	Assim a Torá entra em quem se faz pequeno. Ou
+407	is, we see that already within this heifer there is	seja, vemos que já dentro dessa vaca há
+408	both an aspect of chesed and an aspect of din. Soon we'll	tanto um aspecto de chesed quanto um de din. Logo
+409	see, we'll try to understand, even though it can't be understood,	veremos, vamos tentar entender, embora não se possa entender,
+410	we will try to understand the matters of the heifer.	vamos sim tentar entender as questões da vaca.
+411	Now we'll even see that in the verse "to you a red	Agora veremos até que no versículo "a ti uma vaca
+412	heifer, perfect," all the words related to	vermelha, perfeita", estão escondidas todas as palavras
+413	the heifer are hidden. The word adam is there, within adumah	ligadas à vaca. Ali está a palavra adam, dentro de adumá
+414	there's the word adam, there's dam, there's met. Right: temimah,	há a palavra adam, há dam, há met. Certo: temimá,
+415	there's the word met in it. And mayim within temimah. And also	há nela a palavra met. E mayim dentro de temimá. E também
+416	in para adumah temimah there's the word kapara,	em para adumá temimá há a palavra kapará,
+417	"eleicha para" is a sibling of "eleicha," and para is kapara—that is, all	"eleicha para" é irmã de "eleicha", e para é kapará — ou seja, todas
+418	the words are hidden within this matter. And let's see	as palavras estão escondidas dentro deste assunto. E vejamos
+419	what it must be. First of all it must	como deve ser. Antes de tudo ela deve
+420	be perfect. Tam in the Torah doesn't mean naive; tam	ser perfeita. Tam, na Torá, não é ingênuo; tam
+421	means whole. So it must be whole in its redness,	é inteiro. Então ela deve ser inteira na sua vermelhidão,
+422	such that if it has two black or white hairs	de modo que, se tiver dois pelos pretos ou brancos,
+423	the heifer is disqualified. So it must be entirely	a vaca é desqualificada. Então deve ser inteiramente
+424	red. That's rare.	vermelha. Isso é raro.
+425	Sometimes you hear: here they found a red heifer, there	Às vezes se ouve: aqui acharam uma vaca vermelha, ali
+426	a red heifer, I don't know, it needs checking. In any case,	uma vaca vermelha, não sei, é preciso verificar. Em todo caso,
+427	entirely red, perfect. Second, that it has no blemish; here	toda vermelha, perfeita. Segundo, que não tenha defeito; aqui
+428	it's like the offerings. What is a blemish? That there's no	é como os sacrifícios. O que é um defeito? Que não haja
+429	broken leg, no cataract in the eye, no split	perna quebrada, nem catarata no olho, nem fenda
+430	lip, as with the offerings, what's called smooth	no lábio, como nos sacrifícios, o que se chama lisa
+431	in every sense. Another thing: it must be	em todos os sentidos. Outra coisa: deve ter
+432	three or four years old. It must be of age. You	três ou quatro anos. Deve ter idade. Você
+433	can't take a one-year-old, it doesn't fit. Another	não pode pegar uma de um ano, não serve. Outra
+434	thing—that is, it must already be grown	coisa — ou seja, ela já deve ser crescida
+435	in age. Another thing, and here it has a special	em idade. Outra coisa, e aqui ela tem uma
+436	trait it must have, which isn't checked in offerings:	característica que deve ter, que não se verifica nos sacrifícios:
+437	that no yoke has come upon it. That is, that it was never	que não tenha vindo sobre ela jugo. Ou seja, que nunca tenha sido
+438	put to work for anything.	posta a trabalhar em coisa alguma.
+439	In the simple sense, what is a yoke? That they didn't put on it	No sentido simples, o que é jugo? Que não tenham posto nela
+440	the harness, this thing, the stone wheels or	o arreio, essa coisa, as rodas de pedra ou
+441	something for it to plow the field. But a yoke is not only that.	algo para ela arar o campo. Mas jugo não é só isso.
+442	A yoke is anything. Even if a bull tried to mount	Jugo é qualquer coisa. Mesmo que um touro tenha tentado montar
+443	it, put its legs on it, that's a yoke. Or	nela, pondo as patas sobre ela, isso é jugo. Ou
+444	even a person who, say, it rained just now	mesmo uma pessoa que, digamos, choveu agora
+445	and his blanket got wet and he said, oops, my blanket got wet,	e o cobertor dela molhou e disse: ai, meu cobertor molhou,
+446	where do I put it? Oh, here's	onde eu ponho? Ah, aqui está
+447	the cow. He hung it to dry on the cow. He put a yoke on it,	a vaca. Pendurou para secar na vaca. Pôs jugo nela,
+448	that's it, he disqualified the cow. It can no longer serve	pronto, desqualificou a vaca. Ela já não pode servir
+449	as a red heifer. But here, two million dollars.	como vaca vermelha. Mas aqui, dois milhões de dólares.

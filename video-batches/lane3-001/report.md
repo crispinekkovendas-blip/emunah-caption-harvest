@@ -1,7 +1,7 @@
 # lane3-001
 
-16 of 25 lessons published · 0 skipped · status **pending**
-Tokens (all agents so far): 0.0M in (mostly cache reads) · 0.00M out
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (all agents so far): 5.6M in (mostly cache reads) · 0.83M out · API-equivalent $14.42
 
 | lesson | state | detail |
 |---|---|---|
@@ -21,12 +21,12 @@ Tokens (all agents so far): 0.0M in (mostly cache reads) · 0.00M out
 | qnfs6PO5OVE | ✓ published | 530 lines · Midrash Tanchuma Bechukotai 4-6: Valores e o voto de Yiftach |
 | MOBkgvlQZ0c | ✓ published | 1635 lines · Behaalotcha: aceitação, alegria e o poder do canto |
 | kxOBuW9qW6k | ✓ published | 1889 lines · Korach: inveja, discórdia e a terra que se abre |
-| xi17tbgi8eI | waiting | 3/4 parts |
-| k6Y90Q_DS5s | waiting | 0/5 parts |
-| Rv_tmGMTnyU | waiting | 0/3 parts |
-| vsRc849fXVE | waiting | 0/3 parts |
-| 7DPQJMPjV7s | waiting | 0/1 parts |
-| I-25OlybP4g | waiting | 0/4 parts |
-| q-Fbk-QWHXE | waiting | 0/4 parts |
-| tkG6APwTLfM | waiting | 0/4 parts |
-| _K_nKUamg24 | waiting | 0/3 parts |
+| xi17tbgi8eI | ✓ published | 1496 lines · Mulheres por trás da mahloket de Korach |
+| k6Y90Q_DS5s | ✓ published | 1828 lines · Parashat Chukat: a Vaca Vermelha e o mistério do chok |
+| Rv_tmGMTnyU | ✓ published | 1002 lines · Parashá Balak: o olhar de Balak e a missão de Bilam |
+| vsRc849fXVE | ✓ published | 970 lines · Bilam, o poder espiritual e a Halachá acima de tudo |
+| 7DPQJMPjV7s | ✓ published | 363 lines · Os que entraram vivos no Gan Eden e a morte de Moshe |
+| I-25OlybP4g | ✓ published | 1641 lines · Pinchas e Zimri: o que significa "ensinaste-me ao descer do Sinai |
+| q-Fbk-QWHXE | ✓ published | 1423 lines · A vingança de Midian: por que a guerra é de HaShem |
+| tkG6APwTLfM | ✓ published | 1351 lines · O poder da prece de Moshê em Vaetchanan (515) |
+| _K_nKUamg24 | ✓ published | 1195 lines · Ser íntegro: ir além da letra da lei (lifnim mishurat hadin) |
