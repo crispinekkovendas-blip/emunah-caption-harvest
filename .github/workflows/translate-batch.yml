@@ -153,11 +153,19 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 24
+      - name: Count the outputs already there
+        run: echo "BEFORE=$(ls video-batches/${{ needs.make.outputs.batch }}/out/*.p*.txt 2>/dev/null | wc -l)" >> "$GITHUB_ENV"
       - uses: actions/download-artifact@v4
         with:
           pattern: out-*
           merge-multiple: true
           path: video-batches/${{ needs.make.outputs.batch }}/out
+      - id: progress
+        name: Did this run translate anything?
+        run: |
+          AFTER=$(ls video-batches/${{ needs.make.outputs.batch }}/out/*.p*.txt 2>/dev/null | wc -l)
+          echo "translated this run: $((AFTER - BEFORE))"
+          echo "made=$((AFTER - BEFORE))" >> "$GITHUB_OUTPUT"
       - id: publish
         name: Check and publish the finished lessons
         env:
@@ -171,8 +179,8 @@ jobs:
           git add video-batches
           git diff --cached --quiet || git commit -m "video-batches: ${{ needs.make.outputs.batch }} — translations and report"
           for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
-      - name: Start the next batch
-        if: steps.publish.outputs.complete == 'true'
+      - name: Keep the lane going (the next batch, or the rest of this one)
+        if: steps.publish.outputs.complete == 'true' || steps.progress.outputs.made != '0'
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=${{ inputs.lane }}
