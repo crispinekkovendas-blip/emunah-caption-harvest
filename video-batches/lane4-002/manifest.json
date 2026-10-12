@@ -2,7 +2,7 @@
  "name": "lane4-002",
  "lane": 4,
  "created": "2026-10-12T10:08:57.497Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "s96hQ9SkuFg",
@@ -262,5 +262,34 @@
   "A9OsHsfm-4Q.p2",
   "A9OsHsfm-4Q.p3",
   "A9OsHsfm-4Q.p4"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "s96hQ9SkuFg",
+  "iih8TYvygpg",
+  "T_RVBriHI4s",
+  "4CDj0azFDIE",
+  "h-s3N7zrEyU",
+  "P_He5sSGTCM",
+  "AHqMLZYXT14",
+  "kZr9kSi4vMM",
+  "DZxHqijzPYk",
+  "25l7Hdq9OSY",
+  "6Od9EfAGL6c",
+  "TCbU0vMSWBo",
+  "M8H_qVPYBV8",
+  "kPdRyqe5FR8",
+  "2HDg94TvkuA",
+  "EamUW6lwRK8",
+  "8G06mr6xS_Q",
+  "X5EOOdZKpHo",
+  "p3fcHHiyaY8",
+  "sM_9VjGkvMA",
+  "VEyorHxfKSU",
+  "zS1KkGbozGk",
+  "q-badYLnKGU",
+  "fed5hRIrH24",
+  "A9OsHsfm-4Q"
+ ],
+ "skipped": []
 }

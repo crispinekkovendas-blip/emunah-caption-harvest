@@ -1,0 +1,450 @@
+0	Shabbat shalom	Shabat shalom
+1	Shabbat	Shabat
+2	A good year, a good and blessed year, amen. May HaShem's blessing be upon you.	Um bom ano, um ano bom e abençoado, amém. Que a bênção de HaShem esteja sobre vocês.
+3	Amen	Amém
+4	L'chaim, to joy, to peace, to success and to all that is good.	Lechaim, à alegria, à paz, ao sucesso e a tudo de bom.
+5	Amen	Amém
+6	It is written in the Shulchan Arukh that we read	Está escrito no Shulchan Arukh que lemos
+7	every year Parashat Nitzavim	todos os anos a Parashá Nitzavim
+8	before Rosh HaShanah.	antes de Rosh HaShaná.
+9	And why do we read Parashat Nitzavim before Rosh HaShanah?	E por que lemos a Parashá Nitzavim antes de Rosh HaShaná?
+10	The source is in the Gemara,	A fonte está na Guemará,
+11	in Tractate Megillah,	no tratado de Meguilá,
+12	where it is written that we read	onde está escrito que lemos
+13	the curses of	as maldições do
+14	the book of Devarim that Moshe said, before Rosh HaShanah, so	livro de Devarim que Moshé disse, antes de Rosh HaShaná, para
+15	that the year and its curses may come to an end.	que o ano e as suas maldições cheguem ao fim.
+16	Tosafot asks:	Pergunta Tosafot:
+17	But we read this last week!	Mas isso nós lemos na semana passada!
+18	Tosafot says: so that there will be a break, a blessing,	Diz Tosafot: para haver uma pausa, uma bênção,
+19	before Rosh HaShanah.	antes de Rosh HaShaná.
+20	That is why we read Nitzavim here.	Por isso lemos Nitzavim aqui.
+21	And in truth, whoever looks closely	E, de fato, quem observa com atenção
+22	at Parashat Nitzavim	a Parashá Nitzavim
+23	sees that Parashat Nitzavim is a very special parashah.	vê que Nitzavim é uma parashá muito especial.
+24	Truly special; it has several special things.	Realmente especial; ela tem várias coisas especiais.
+25	It has a description of the peak of the exile,	Nela há a descrição do auge do exílio,
+26	truly the peak of the exile.	realmente o auge do exílio.
+27	About the dispersion in the world: "And HaShem uprooted them from their land	Sobre a dispersão pelo mundo: "E HaShem os desarraigou da sua terra
+28	in anger, in fury and in great wrath, and cast them into another land,	com ira, com furor e com grande indignação, e os lançou para outra terra,
+29	as this day." That is, when a Jew is outside	como hoje". Ou seja, quando um judeu está fora
+30	of the Land,	da Terra,
+31	he is sent there in anger, in fury, in great wrath. That	ele é enviado para lá com ira, com furor, com grande indignação. Isto
+32	is, it is not just that he is not in the Land; it is	quer dizer que não é só que ele não está na Terra; é
+33	as if Elokim threw him out to France, to England,	como se Elokim o tivesse atirado para a França, para a Inglaterra,
+34	to New York, to Los Angeles. If you are there, it is	para Nova York, para Los Angeles. Se você está lá, é
+35	anger, fury, great wrath,	ira, furor, grande indignação,
+36	"and cast them"	"e os lançou",
+37	as if it were a throwing out.	como se fosse um arremesso.
+38	It is terrible, and there is also a description of the exile of	É terrível, e há também ali uma descrição do exílio da
+39	the Land, also terrible: brimstone and salt, a burning,	Terra, também terrível: enxofre e sal, um incêndio,
+40	"all its land, it shall not be sown, nor shall it sprout,	"toda a sua terra não será semeada, nem germinará,
+41	nor shall any grass grow in it, like the overthrow of Sodom and Gomorrah,	nem nela crescerá erva alguma, como a destruição de Sodoma e Gomorra,
+42	Admah and Zeboiim, which HaShem overthrew in His anger and in His wrath."	Admá e Tseboim, que HaShem destruiu na Sua ira e no Seu furor".
+43	A description... I think there is no description	Uma descrição... eu acho que não há descrição
+44	more shocking than this in the Torah of the state of the Land of Israel, like	mais chocante do que esta na Torá sobre a situação da Terra de Israel, como
+45	this verse, both of the exile of the people and of the exile of the Land.	este versículo, tanto do exílio do povo quanto do exílio da Terra.
+46	On the other hand, there is no description of the redemption	Por outro lado, não há descrição da redenção
+47	clearer than in Parashat Nitzavim:	mais clara do que em Nitzavim:
+48	"And HaShem your Elokim will bring back your captivity	"E HaShem, teu Elokim, fará retornar os teus cativos
+49	and have compassion on you, and will gather you from all the peoples" — the ingathering of the exiles.	e terá compaixão de ti, e te reunirá de todos os povos" — a reunião dos exilados.
+50	Right? Even if you were born in New Zealand, in Australia,	Certo? Mesmo que você tenha nascido na Nova Zelândia, na Austrália,
+51	I don't know where, in Vancouver,	não sei onde, em Vancouver,
+52	at the farthest north or the farthest south,	no extremo norte ou no extremo sul,
+53	"from there HaShem your Elokim will gather you, from there He will take you."	"dali HaShem, teu Elokim, te reunirá, dali te tomará".
+54	And also what you see now in Iran,	E também o que vocês veem agora no Irã,
+55	where their currency is worth nothing, millions	onde a moeda deles não vale nada, milhões
+56	of rials to the dollar. "And HaShem your Elokim will put	de riais por dólar. "E HaShem, teu Elokim, porá
+57	all these curses upon your enemies and those who hate you, who pursued you."	todas essas maldições sobre os teus inimigos e sobre os que te odeiam, que te perseguiram".
+58	And also the repentance of the people of Israel: "And you shall return	E também o retorno do povo de Israel: "E tu voltarás
+59	and listen to the voice of HaShem and do all His commandments that	e ouvirás a voz de HaShem e cumprirás todos os Seus mandamentos que
+60	I command you today." You have the peak, the peak of	eu te ordeno hoje". Você tem o auge, o auge
+61	the redemption. Yes. And the Rambam writes about these statements	da redenção. Sim. E o Rambam escreve sobre essas palavras
+62	something startling. The Rambam says	algo impressionante. Diz o Rambam
+63	in Hilchot	nas Leis dos
+64	Melachim: "And these matters explicit in the Torah	Reis: "E essas palavras explícitas na Torá
+65	include all the things said by all the prophets, by	incluem todas as coisas ditas por todos os profetas, por
+66	all the prophets." That is, the verses written	todos os profetas". Ou seja, os versículos escritos
+67	in Parashat Nitzavim.	na Parashá Nitzavim.
+68	A few — all of Parashat Nitzavim is 40 verses, in all,	Poucos — toda a Parashá Nitzavim tem 40 versículos, ao todo,
+69	yes, and the description of the redemption and the exile is a number of	sim, e a descrição da redenção e do exílio ocupa alguns
+70	individual verses. He says that these verses	poucos versículos. Ele diz que esses versículos
+71	found in Parashat Nitzavim include all the things	que se encontram na Parashá Nitzavim incluem todas as coisas
+72	said by all the prophets.	ditas por todos os profetas.
+73	That is, the peak of the exile and the peak of the redemption. Why?	Ou seja, o auge do exílio e o auge da redenção. Por quê?
+74	Because the Holy One, blessed be He, comes and says to the people: know	Porque o Santo, bendito seja, vem e diz ao povo: saibam
+75	that	que
+76	you have two options.	vocês têm duas opções.
+77	Either you will be above all the nations,	Ou vocês estarão acima de todas as nações,
+78	above all the nations of the earth — that is one option: if you listen	acima de todas as nações da terra — essa é uma opção: se você ouvir
+79	to the voice of HaShem, "HaShem will make you the head and not the tail."	a voz de HaShem, "HaShem te fará cabeça e não cauda".
+80	That is one option: you will be only up, and you will not be	Essa é uma opção: você estará só em cima e não estará
+81	down.	embaixo.
+82	Or the opposite:	Ou o contrário:
+83	"The stranger who is in your midst will rise above you higher and higher,	"O estrangeiro que está no meio de ti subirá acima de ti cada vez mais alto,
+84	and you will go down lower and lower.	e tu descerás cada vez mais baixo.
+85	He will be the head and you will be the tail." These are two	Ele será a cabeça e tu serás a cauda". Essas são duas
+86	options.	opções.
+87	And this picture Moshe shows to the people of Israel.	E esse quadro Moshé mostra ao povo de Israel.
+88	You see, you have two options: either stars	Veja, você tem duas opções: ou estrelas
+89	or dust. Choose.	ou pó. Escolha.
+90	Either Auschwitz or Jerusalem.	Ou Auschwitz ou Jerusalém.
+91	There is nothing in the middle.	Não há nada no meio.
+92	These are the two options.	Essas são as duas opções.
+93	Yes.	Sim.
+94	And on this day, the people of Israel understand.	E neste dia o povo de Israel compreende.
+95	On this day, we need to see something interesting.	Neste dia, precisamos ver algo interessante.
+96	I checked; I suggest that you check	Eu verifiquei; sugiro que vocês verifiquem
+97	how many times the word "hayom" is written in Parashat Nitzavim.	quantas vezes a palavra "hayom" está escrita na Parashá Nitzavim.
+98	You have 40 verses.	São 40 versículos.
+99	How many times "today"? Well, you didn't count. 13 times,	Quantas vezes "hoje"? Bem, vocês não contaram. 13 vezes,
+100	about once every three verses. The word "hayom" —	cerca de uma a cada três versículos. A palavra "hayom" —
+101	check — is the most in the whole Torah.	verifiquem — é a que mais aparece em toda a Torá.
+102	What happened on this day? What happened on this day?	O que houve neste dia? O que aconteceu neste dia?
+103	It is the day on which the people of Israel understand	É o dia em que o povo de Israel compreende
+104	that there is no game.	que não há brincadeira.
+105	Either, or.	Ou isso, ou aquilo.
+106	Now we need to understand this "day" that is spoken of here.	Agora precisamos entender esse "dia" de que se fala aqui.
+107	Rashi brings that it is the day of Moshe's passing. It is the seventh	Rashi traz que é o dia da morte de Moshé. É o sete
+108	of Adar,	de Adar,
+109	the day of Moshe's passing.	o dia da morte de Moshé.
+110	I will read to you	Vou ler para vocês
+111	the Rashi; it is an important Rashi,	o Rashi; é um Rashi importante,
+112	on the verse said at the end of Ki Tavo: "The great trials	sobre o versículo dito no fim de Ki Tavo: "As grandes provas
+113	that your eyes saw,	que os teus olhos viram,
+114	the signs and those great wonders. But HaShem did not give	os sinais e aqueles grandes prodígios. Mas HaShem não vos deu
+115	you a heart to know, eyes to see and ears to hear,	coração para saber, olhos para ver e ouvidos para ouvir,
+116	until	até
+117	this day." Rashi says: I heard that on that day when Moshe	este dia". Diz Rashi: ouvi dizer que naquele dia em que Moshé
+118	gave the Torah scroll to the sons of Levi,	entregou o Sefer Torá aos filhos de Levi,
+119	as it is written	como está escrito
+120	in Vayelech: "And Moshe wrote this Torah and gave it to	em Vayelech: "E Moshé escreveu esta Torá e a entregou aos
+121	the Kohanim, the sons of Levi, who carry the Ark of the Covenant of HaShem,"	cohanim, filhos de Levi, que carregam a Arca da Aliança de HaShem",
+122	then all of Israel came before Moshe and said to him: Moshe,	então todo Israel veio diante de Moshé e disse-lhe: Moshé,
+123	our teacher, we too stood at Sinai and received	nosso mestre, nós também estivemos no Sinai e recebemos
+124	the Torah, and it was given to us. So why do you give your tribe authority over it?	a Torá, e ela nos foi dada. Então por que dás à tua tribo autoridade sobre ela?
+125	So that tomorrow they won't say to us: it was not given to you; it was given to us.	Para que amanhã não nos digam: não foi dada a vocês; foi dada a nós.
+126	As if the children of Israel come to Moshe and say to him: Moshe,	É como se os filhos de Israel viessem a Moshé e lhe dissessem: Moshé,
+127	our teacher, why do you give it only to the tribe of Levi? What is this?	nosso mestre, por que a dás só à tribo de Levi? O que é isso?
+128	It is theirs, and ours, and everyone's. And Moshe rejoiced at the matter	É deles, e nossa, e de todos nós. E Moshé se alegrou com a questão
+129	and about this he said to them: "This day you have become a people." This day	e por isso lhes disse: "Hoje te tornaste um povo". Hoje
+130	I understood that you cling to and desire the Omnipresent. That is,	compreendi que vocês se apegam ao Onipresente e O desejam. Ou seja,
+131	on this day the people of Israel became a people. This is an	neste dia o povo de Israel se tornou um povo. Isto é um
+132	explicit verse.	versículo explícito.
+133	Yes. I will read you the verses so you will see that this is	Sim. Vou ler os versículos para vocês verem que isto é
+134	amazing. The Holy One, blessed be He, says: "In order to establish you	incrível. O Santo, bendito seja, diz: "Para te estabelecer
+135	today as a people."	hoje como um povo".
+136	When did the people of Israel become a people? On that day — not at the giving of	Quando o povo de Israel se tornou um povo? Naquele dia — não na entrega
+137	the Torah, not at the Exodus from Egypt, not at the entry into the Land, not	da Torá, não na saída do Egito, não na entrada na Terra, não
+138	on the seventh of Adar. Today: "to establish you today as a people."	no sete de Adar. Hoje: "para te estabelecer hoje como um povo".
+139	"This day you have become a people" to HaShem your Elokim. "You have declared HaShem	"Hoje te tornaste um povo" para HaShem, teu Elokim. "Hoje declaraste HaShem
+140	today to be your Elokim, and HaShem has declared you	como teu Elokim, e HaShem te declarou
+141	today to be His treasured people." Today he became a treasured	hoje como o Seu povo escolhido". Hoje ele se tornou um povo
+142	people. "Today you declared HaShem as your Elokim, and to set you	escolhido. "Hoje declaraste HaShem como teu Elokim, e para te colocar
+143	high above all the nations that He has made."	acima de todas as nações que Ele fez".
+144	That is, on this day	Ou seja, neste dia
+145	they receive the Torah, not at	eles recebem a Torá, não no
+146	Sinai, yes, three months earlier.	Sinai, sim, três meses antes.
+147	"Keep all the commandments that I command you	"Guarda todos os mandamentos que eu te ordeno
+148	today."	hoje".
+149	"This day HaShem your Elokim commands you to do these statutes	"Hoje HaShem, teu Elokim, te ordena cumprir estes decretos
+150	and ordinances."	e preceitos".
+151	As if today were the giving of the Torah. Why? Because until now	É como se hoje fosse a entrega da Torá. Por quê? Porque até agora
+152	you had it like a mountain held over you like a barrel.	vocês a tinham como o monte suspenso sobre vocês feito um barril.
+153	For the first time you say: wait, we want the	Pela primeira vez vocês dizem: esperem, nós queremos a
+154	Torah.	Torá.
+155	So on this day their eyes are also opened; for the first	Então neste dia também se abrem os olhos deles; pela primeira
+156	time they understand who they are.	vez eles compreendem quem são.
+157	They understand their role.	Compreendem a sua missão.
+158	You have a role: to bring light to the whole world,	Você tem uma missão: trazer luz para o mundo inteiro,
+159	"and to set you high above all the nations that He has made."	"e te colocar acima de todas as nações que Ele fez".
+160	This is your role. "And HaShem has declared you today to be His	Esta é a sua missão. "E HaShem te declarou hoje para ser o Seu
+161	treasured people." Today.	povo escolhido". Hoje.
+162	Today, today it is happening.	Hoje, hoje isto acontece.
+163	That is why the word "hayom" appears in Parashat Nitzavim 13	Por isso a palavra "hayom" aparece na Parashá Nitzavim 13
+164	times. Every three verses it tells you: this is happening	vezes. A cada três versículos ela diz a você: isto acontece
+165	today. This day, today it is happening. "You are standing	hoje. Neste dia, hoje isto acontece. "Vocês estão de pé
+166	today, all of you, before HaShem your Elokim:	hoje, todos vocês, diante de HaShem, vosso Elokim:
+167	your little ones, your wives... to enter into the covenant of HaShem your Elokim and His oath,	vossas crianças, vossas mulheres... para entrar na aliança de HaShem, teu Elokim, e no Seu juramento,
+168	which HaShem your Elokim makes with you." Today.	que HaShem, teu Elokim, faz contigo". Hoje.
+169	Today.	Hoje.
+170	HaShem makes a covenant with them today, even though there was a covenant	HaShem faz uma aliança com eles hoje, embora tenha havido uma aliança
+171	at Mount Sinai, as written at the end of Parashat Mishpatim.	no Monte Sinai, como está escrito no fim da Parashá Mishpatim.
+172	But that covenant	Mas essa aliança
+173	has a great protest against it, "moda'a rabba le-oraita."	tem contra si um grande protesto, "moda'á rabá leorayta".
+174	Why? Because it was a covenant that was made	Por quê? Porque foi uma aliança que foi feita
+175	under compulsion, with the mountain held over them like a barrel.	sob coerção, com o monte suspenso sobre eles feito um barril.
+176	Now they come and say to Moshe: Moshe, please,	Agora eles vêm e dizem a Moshé: Moshé, por favor,
+177	we also want a Torah scroll.	nós também queremos um Sefer Torá.
+178	And Moshe Rabbeinu gives; it is written that Moshe Rabbeinu wrote 13 Torah scrolls	E Moshé Rabênu dá; está escrito que Moshé Rabênu escreveu 13 rolos da Torá
+179	on the day of his death. How? Don't ask questions.	no dia da sua morte. Como? Não façam perguntas.
+180	It is a big question: one Torah scroll can be written	É uma grande pergunta: um Sefer Torá pode ser escrito
+181	in one day; in one day an ordinary scribe — 13 Torah	em um dia; em um dia, um escriba comum — 13 rolos
+182	scrolls? Well, it's Moshe Rabbeinu; no questions, right?	da Torá? Bem, é Moshé Rabênu; sem perguntas, certo?
+183	But,	Mas,
+184	but that is the reality; that is the story of	mas essa é a realidade; essa é a história da
+185	Parashat Nitzavim, Parashat Nitzavim.	Parashá Nitzavim, Parashá Nitzavim.
+186	It laid out for the people of Israel	Ela expôs ao povo de Israel
+187	the peak of the exile	o auge do exílio
+188	and the peak of the redemption	e o auge da redenção
+189	in one breath. Choose.	num só fôlego. Escolha.
+190	All of history you have in one book,	Toda a história você tem num só livro,
+191	all the history of the people of Israel is found in Parashat	toda a história do povo de Israel se encontra na Parashá
+192	Nitzavim. By the way, also in Parashat Haazinu, which you will hear.	Nitzavim. Aliás, também em Haazinu, que vocês vão ouvir.
+193	But Moshe Rabbeinu puts everything before their eyes.	Mas Moshé Rabênu coloca tudo diante dos olhos deles.
+194	I told you once in the past, and I will tell it again	Contei a vocês uma vez no passado, e vou contar de novo
+195	now: once someone came to me and said to me, Rabbi,	agora: uma vez alguém veio a mim e me disse: Rabino,
+196	I want	eu quero
+197	to believe in Elokim,	acreditar em Elokim,
+198	but in a way that there is no doubt afterward, so that I	mas de um jeito que não reste nenhuma dúvida depois, para que eu
+199	leave here believing for my whole life in Elokim, my whole	saia daqui acreditando a vida inteira em Elokim, a minha vida
+200	life believing in the Torah, believing in the mitzvot.	inteira acreditando na Torá, acreditando nas mitsvot.
+201	Do you have advice?	O senhor tem algum conselho?
+202	I said, Master of the World, give me advice, give me advice.	Eu disse: Senhor do Mundo, dá-me um conselho, dá-me um conselho.
+203	I said to him:	Eu lhe disse:
+204	Listen, I will read you verses	Escute, vou ler para você versículos
+205	that were written	que foram escritos
+206	3300 years ago; tell me whether they are happening.	há 3300 anos; diga-me se estão acontecendo.
+207	I began to read him the verses from Parashat Nitzavim:	Comecei a ler para ele os versículos da Parashá Nitzavim:
+208	"And HaShem your Elokim will bring back your captivity and have compassion on you, and will gather you from all	"E HaShem, teu Elokim, fará retornar os teus cativos e terá compaixão de ti, e te reunirá de todos
+209	the peoples, and will bring you to the land that..." On every half	os povos, e te trará à terra que..." A cada meio
+210	verse I say to him, "Is it happening?" He says to me, "It is happening."	versículo eu lhe digo: "Está acontecendo?" Ele me diz: "Está acontecendo".
+211	On every half verse I say to him, "Is it happening?" He says to me,	A cada meio versículo eu lhe digo: "Está acontecendo?" Ele me diz:
+212	"Listen,	"Escute,
+213	there is no person in the universe,	não existe pessoa no universo,
+214	in all of human history, who knows how to foresee	em toda a história humana, que saiba prever
+215	100 years ahead,	100 anos à frente,
+216	certainly not 1000, certainly not 2000, certainly not 3000,	muito menos 1000, muito menos 2000, muito menos 3000,
+217	…	…
+218	not logical things. Look, Moshe tells you in advance	coisas nada lógicas. Veja, Moshé diz a você de antemão
+219	what will be in 3300 years?	o que será dali a 3300 anos?
+220	Is there such a thing?" I said to him, "Do you have a doubt	Existe uma coisa dessas?" Eu lhe disse: "Você tem alguma dúvida
+221	that the Torah is true?"	de que a Torá é verdadeira?"
+222	He says to me, "Rabbi, everything you said is true,	Ele me diz: "Rabino, tudo o que o senhor disse é verdade,
+223	but there are no such verses in the Torah."	mas não existem esses versículos na Torá".
+224	I said to him, "I'll open it for you, I'll show you." I opened	Eu lhe disse: "Eu abro para você, eu mostro". Abri
+225	a book for him; he says to me, "You just printed this."	um livro para ele; ele me diz: "O senhor imprimiu isso agora".
+226	A book...	Um livro...
+227	A book... "You just printed this," he says	Um livro... "O senhor imprimiu isso agora", ele diz
+228	to me. "You religious people fooled everyone. You saw what is	para mim. "Vocês, religiosos, enganaram todo mundo. Viram o que
+229	happening, you forged a Torah scroll." I said to him, "Listen, my friend,	está acontecendo, forjaram um Sefer Torá". Eu lhe disse: "Escute, meu amigo,
+230	I have advice, two pieces of advice. One, come to Tzfat.	tenho um conselho, dois conselhos. Um: venha a Tsfat.
+231	There is a Torah scroll there that is 500 years old; see what	Há lá um Sefer Torá de 500 anos; veja o que
+232	is written there.	está escrito nele.
+233	See that 500 years ago... I said, there is something even	Veja que há 500 anos..." Eu disse: "Há algo ainda
+234	better: there is the Greek translation from 2500 years ago, in the hands of	melhor: há a tradução grega de há 2500 anos, que está nas mãos
+235	the Christians,	dos cristãos,
+236	in the Vatican; look, it is written there too."	no Vaticano; olhe, também lá está escrito".
+237	I said to him, "But this is not 2500 and not 500; it is 3,300."	Eu lhe disse: "Mas isto não é 2500 nem 500; é 3300".
+238	He said to me, "It can't be, it can't	Ele me disse: "Não pode ser, não pode
+239	be.	ser.
+240	It can't be that someone was so precise both in the description of the exile,	Não pode ser que alguém tenha sido tão preciso tanto na descrição do exílio,
+241	so precise, and in the description of the redemption, so precise.	tão preciso, quanto na descrição da redenção, tão preciso.
+242	Everything one to one."	Tudo um a um".
+243	Why do we read this parashah? Because it is	Por que lemos essa parashá? Porque é
+244	exactly Rosh HaShanah.	exatamente Rosh HaShaná.
+245	Rosh HaShanah	Rosh HaShaná
+246	is both judgment and mercy.	é tanto julgamento quanto misericórdia.
+247	When do you turn from judgment to mercy?	Quando você passa do julgamento para a misericórdia?
+248	With the blowing of the shofar.	Com o toque do shofar.
+249	That is,	Ou seja,
+250	He tells a person: understand, you have the option to be	Ele diz à pessoa: entenda, você tem a opção de estar
+251	in the redemption, to hear the blast of the shofar, to go up to the Land,	na redenção, de ouvir o toque do shofar, de subir para a Terra,
+252	"HaShem your Elokim will bring back your captivity and gather you."	"HaShem, teu Elokim, fará retornar os teus cativos e te reunirá".
+253	That is one option. You have the option	Essa é uma opção. Você tem a opção
+254	to ignore the blast of the shofar.	de ignorar o toque do shofar.
+255	"In anger, in fury, and in great wrath,	"Com ira, com furor e com grande indignação,
+256	and cast them into another land, as this day,"	e os lançou para outra terra, como hoje",
+257	brimstone and salt. Choose.	enxofre e sal. Escolha.
+258	That is Rosh HaShanah.	Isso é Rosh HaShaná.
+259	All of Rosh HaShanah you pray for the redemption, the whole	Todo Rosh HaShaná você reza pela redenção, toda a
+260	prayer, yes.	oração, sim.
+261	"Sound the great shofar for our freedom," from the subjugation to the kingdoms,	"Toca o grande shofar para a nossa liberdade", da sujeição aos reinos,
+262	"and raise a banner to gather our exiles" — the ingathering of the exiles — also	"e ergue um estandarte para reunir os nossos exilados" — a reunião dos exilados — também
+263	in Zichronot. What do you say? What is Zichronot?	em Zichronot. O que você diz? O que é Zichronot?
+264	"Blessed are You, HaShem,	"Bendito és Tu, HaShem,
+265	who remembers the covenant." "And I will remember My covenant with Yaakov, and My covenant with	que Se lembra da aliança". "E Me lembrarei da Minha aliança com Yaakov, e da Minha aliança com
+266	Yitzchak, and also My covenant with Avraham I will remember, and I will remember the Land."	Yitschak, e também da Minha aliança com Avraham Me lembrarei, e da Terra Me lembrarei".
+267	Which covenant did Elokim make with Avraham? About the Land of Israel,	Que aliança Elokim fez com Avraham? Sobre a Terra de Israel,
+268	about the Torah,	sobre a Torá,
+269	about the mission of the people of Israel in the world.	sobre a missão do povo de Israel no mundo.
+270	"As for Me, behold, My covenant is with you, and you shall be the father of a multitude of nations."	"Quanto a Mim, eis a Minha aliança contigo, e serás pai de uma multidão de nações".
+271	This is the covenant, this is the covenant.	Esta é a aliança, esta é a aliança.
+272	Either you remember the covenant, you remember your role,	Ou você se lembra da aliança, se lembra da sua missão,
+273	you remember the Land of Israel, you remember Jerusalem,	se lembra da Terra de Israel, se lembra de Jerusalém,
+274	or you forget.	ou você esquece.
+275	These are our remembrances, and these are His remembrances. It is	Essas são as nossas lembranças, e essas são as lembranças Dele. É
+276	the Day of Remembrance.	o Dia da Lembrança.
+277	Also Malchuyot. What is Malchuyot?	Também Malchuyot. O que é Malchuyot?
+278	Malchuyot is that the Holy One, blessed be He, reigns over the whole	Malchuyot é que o Santo, bendito seja, reina sobre o mundo
+279	world through the people of Israel.	inteiro por meio do povo de Israel.
+280	"And every creature shall know that You created it,"	"E toda criatura saberá que Tu a criaste",
+281	"and everything that has breath in its nostrils shall say: HaShem, Elokei Yisrael,	"e tudo o que tem fôlego em suas narinas dirá: HaShem, Elokei Yisrael,
+282	is King."	é Rei".
+283	Elokei Yisrael is King,	Elokei Yisrael é Rei,
+284	"and His kingdom rules over all."	"e o Seu reino domina sobre tudo".
+285	"And saviors shall ascend Mount Zion" — this happens in Jerusalem —	"E salvadores subirão ao Monte Sião" — isso acontece em Jerusalém —
+286	"to judge the mountain of Esau, and the kingdom shall be HaShem's."	"para julgar o monte de Esaú, e o reino será de HaShem".
+287	And then "HaShem shall be King over all the earth, and on that day HaShem will be	E então "HaShem será Rei sobre toda a terra, e naquele dia HaShem será
+288	one and His Name one." The whole prayer of Rosh HaShanah	único e o Seu Nome único". Toda a oração de Rosh HaShaná
+289	is	é
+290	the kingship of HaShem in Jerusalem, the ingathering of the exiles, the liberation	a soberania de HaShem em Jerusalém, a reunião dos exilados, a libertação
+291	from the subjugation to the kingdoms. That is Parashat Nitzavim. That is why Parashat	da sujeição aos reinos. Isso é a Parashá Nitzavim. Por isso a Parashá
+292	Nitzavim is read right next to Rosh HaShanah.	Nitzavim é lida colada a Rosh HaShaná.
+293	That is the whole story of Parashat Nitzavim, because exactly all	Essa é toda a história da Parashá Nitzavim, porque exatamente tudo
+294	that you say in Nitzavim, either exile or redemption, it is	o que você diz em Nitzavim, ou exílio ou redenção, é
+295	your choice.	a sua escolha.
+296	This is Parashat Nitzavim, and this is the story of Rosh HaShanah:	Isto é a Parashá Nitzavim, e esta é a história de Rosh HaShaná:
+297	you hear the shofar, you go up to Jerusalem, you	você ouve o shofar, sobe a Jerusalém,
+298	repent, and "bow down to HaShem on the holy mountain	faz teshuvá, e "se prostra diante de HaShem no monte santo
+299	in Jerusalem," again, as is happening now, every evening at the Kotel;	em Jerusalém", de novo, como acontece agora, toda noite no Kotel;
+300	it happens. Or you ignore it: you come to the synagogue, you hear	isso acontece. Ou você ignora: vai à sinagoga, ouve
+301	the blast of the shofar, and go to sleep in New	o toque do shofar e vai dormir em Nova
+302	York.	York.
+303	That too is possible. Choose.	Isso também é possível. Escolha.
+304	These are the two choices in this week's parashah, Parashat	Essas são as duas escolhas na parashá desta semana, a Parashá
+305	Nitzavim. And these two choices stand before	Nitzavim. E essas duas escolhas estão diante de
+306	each and every one of us.	cada um de nós.
+307	This year we also read Parashat Vayelech.	Este ano lemos também a Parashá Vayelech.
+308	Parashat Vayelech is a very	A Parashá Vayelech é uma parashá
+309	significant parashah. Yes.	muito significativa. Sim.
+310	In this parashah it is written	Nesta parashá está escrita
+311	a description. We read earlier: Rashi brings the story	uma descrição. Lemos há pouco: Rashi traz a história
+312	that Moshe Rabbeinu wrote on the day of his death a Torah scroll and gave	de que Moshé Rabênu escreveu no dia da sua morte um Sefer Torá e o deu
+313	it to the Kohanim, the sons of Levi. Right?	aos cohanim, filhos de Levi. Certo?
+314	Why does he give it to the Kohanim, the sons of Levi? It	Por que ele o dá aos cohanim, filhos de Levi? Está
+315	is written in Parashat Vayelech: two reasons.	escrito na Parashá Vayelech: duas razões.
+316	One reason:	Uma razão:
+317	"And Moshe wrote this Torah and gave it to the Kohanim, the sons	"E Moshé escreveu esta Torá e a entregou aos cohanim, filhos
+318	of Levi, who carry the Ark of the Covenant of HaShem, and to all the elders of	de Levi, que carregam a Arca da Aliança de HaShem, e a todos os anciãos de
+319	Israel."	Israel".
+320	What does he give it to them for? He says: listen, once every seven	Para que ele lhes dá? Diz: escutem, uma vez a cada sete
+321	years	anos
+322	there is a gathering of everyone:	há uma assembleia de todos:
+323	"When all Israel comes to appear before HaShem your Elokim	"Quando todo Israel vier se apresentar diante de HaShem, teu Elokim,
+324	in the place that He will choose, you shall read this Torah	no lugar que Ele escolher, lerás esta Torá
+325	before all Israel, in their hearing." That is, this Torah scroll	diante de todo Israel, aos seus ouvidos". Ou seja, este Sefer Torá
+326	that I give you, by the plain meaning of the words — soon, soon	que eu te dou, pelo sentido simples das palavras — daqui a pouco,
+327	we will see that it is a dispute among the Rishonim — but the plain meaning of the words	veremos que é uma disputa entre os Rishonim — mas o sentido simples das palavras
+328	says: a Torah scroll is written,	diz: escreve-se um Sefer Torá,
+329	and in the year of Hakhel you take this Torah scroll out	e no ano do Hakhel você tira este Sefer Torá
+330	and read this Torah	e lê esta Torá
+331	"before all Israel in their hearing. Assemble the people —	"diante de todo Israel, aos seus ouvidos. Reúne o povo —
+332	the men, the women and the children — so that they hear and so that they learn and fear	homens, mulheres e crianças — para que ouçam e para que aprendam e temam
+333	HaShem their Elokim, and heed all the words of this	HaShem, seu Elokim, e cuidem de cumprir todas as palavras desta
+334	Torah."	Torá".
+335	Later in the parashah it says	Mais adiante na parashá diz
+336	that HaShem gives Moshe something else:	que HaShem dá a Moshé mais uma coisa:
+337	this Torah scroll that I give you, Moshe, and you	este Sefer Torá que eu te dou, Moshé, e que tu
+338	give to the Kohanim, the sons of Levi, has another role. What	dás aos cohanim, filhos de Levi, tem outra função. Qual
+339	role?	função?
+340	"And HaShem said to Moshe: Behold, you will lie down with your fathers,	"E HaShem disse a Moshé: Eis que te deitarás com os teus pais,
+341	and this people will rise up and go astray after the foreign gods of the land	e este povo se levantará e se prostituirá atrás dos deuses estranhos da terra
+342	into which it is going."	para onde vai".
+343	He says that when the people of Israel arrive in the Land of Israel there will be	Diz que, quando o povo de Israel chegar à Terra de Israel, haverá
+344	falls,	quedas,
+345	as appears in the whole book of Shoftim:	como aparece em todo o livro de Shoftim:
+346	falls — serving the Baal, the Ashtaroth,	quedas — servir o Baal, as Astarotes,
+347	the gods of the Sidonians, the gods of Ammon, the gods of Moav,	os deuses dos sidônios, os deuses de Amon, os deuses de Moav,
+348	all the idols	todos os ídolos
+349	of the region, and not serving HaShem.	da região, e não servir a HaShem.
+350	They forsook Me.	Eles Me abandonaram.
+351	He says: the people of Israel will worship idolatry; not because of this will I not bring them into the Land.	Diz: o povo de Israel servirá a idolatria; não é por isso que Eu não os trarei para a Terra.
+352	Why?	Por quê?
+353	Because after they worship idolatry, "My anger will burn	Porque, depois que servem a idolatria, "a Minha ira se acenderá
+354	against them on that day,	contra eles naquele dia,
+355	and I will forsake them and hide My face from them" — and the Philistines come	e os abandonarei e esconderei deles a Minha face" — e vêm os filisteus
+356	and destroy them, and the Moabites and the Ammonites and all, and the sons of	e os destroem, e os moabitas, os amonitas e todos, e os filhos do
+357	the East, "and many evils and troubles will befall them."	Oriente, "e muitos males e angústias os atingirão".
+358	And then the people of Israel wake up and say: "Is it not because	E então o povo de Israel desperta e diz: "Não é porque
+359	my Elokim is not in my midst that these evils have befallen me?"	o meu Elokim não está no meu meio que esses males me atingiram?"
+360	And what do you do? I tell you now: write	E o que você faz? Digo-lhe agora: escreva
+361	this song. By the plain meaning, a song — listen —	este cântico. Pelo sentido simples, um cântico — escutem —
+362	our Sages said: this song is the Torah scroll,	nossos Sábios disseram: este cântico é o Sefer Torá,
+363	and teach it to them. What does he teach them for?	e ensina-o a eles. Para que ele os ensina?
+364	So that you won't say the exile is a coincidence	Para que você não diga que o exílio é acaso
+365	and the redemption is a coincidence.	e que a redenção é acaso.
+366	Behold, in advance I tell you:	Eis que de antemão Eu te digo:
+367	Nebuchadnezzar will come; don't say it is something	virá Nabucodonosor; não diga que é algo
+368	geopolitical,	geopolítico,
+369	a conflict between the kings of the East and the kings of the West, between	um conflito entre os reis do Oriente e os reis do Ocidente, entre
+370	Egypt and Assyria and Babylon. It is not; it is all because	o Egito, a Assíria e a Babilônia. Não é; é tudo porque
+371	"my Elokim is not in my midst." Don't say it, Heaven forbid. For this	"o meu Elokim não está no meu meio". Não diga isso, Deus me livre. Para isso
+372	you have the Torah scroll. The Torah scroll is meant	você tem o Sefer Torá. O Sefer Torá serve
+373	so that the people of Israel won't say by mistake that it is a coincidence. Yes:	para que o povo de Israel não diga por engano que é acaso. Sim:
+374	"Write for yourselves this song and teach it to the children of Israel,	"Escrevei para vós este cântico e ensinai-o aos filhos de Israel,
+375	put it in their mouths, so that this song may be for Me	ponde-o em suas bocas, para que este cântico seja para Mim
+376	a witness against the children of Israel."	uma testemunha contra os filhos de Israel".
+377	"When many evils and troubles befall them,	"Quando muitos males e angústias os atingirem,
+378	this song shall answer before them as a witness."	este cântico responderá diante deles como testemunha".
+379	He says: know that all of this song, which is both	Diz: saiba que todo este cântico, que é tanto
+380	Parashat Haazinu and also the Torah that is called a song, is	a Parashá Haazinu quanto a Torá que é chamada cântico, é
+381	for this.	para isso.
+382	And here it is written: "And Moshe wrote this song	E aqui está escrito: "E Moshé escreveu este cântico
+383	on that day and taught it to the children of Israel." He says: know	naquele dia e o ensinou aos filhos de Israel". Diz: saiba
+384	that this book that you write — "Take this book of	que este livro que você escreve — "Tomai este livro da
+385	the Torah and place it beside the Ark of the Covenant of HaShem your Elokim,	Torá e colocai-o ao lado da Arca da Aliança de HaShem, vosso Elokim,
+386	and it shall be there as a witness against you."	e ele estará ali como testemunha contra vós".
+387	Not only for Parashat	Não só para a parashá
+388	Hakhel,	do Hakhel,
+389	but at the time when the people of Israel sin,	mas na hora em que o povo de Israel pecar,
+390	this book will return them to Me. I know that they	este livro os fará voltar a Mim. Eu sei que eles
+391	will sin.	pecarão.
+392	It happens. The Holy One, blessed be He, says: I know that the people of	Acontece. O Santo, bendito seja, diz: Eu sei que o povo de
+393	Israel sinned — not because they sin will I break	Israel pecou — não é porque pecam que Eu romperei
+394	My covenant with them.	a Minha aliança com eles.
+395	But as we said in Parashat Nitzavim,	Mas, como dissemos na Parashá Nitzavim,
+396	in its writing, the people of Israel have two options: either it rises	na sua escrita, o povo de Israel tem duas opções: ou ele sobe
+397	up or it goes	ou ele desce
+398	down. There is no middle. That is what he says before the children of Israel:	para baixo. Não há meio-termo. É isso que ele diz diante dos filhos de Israel:
+399	Today, repentance.	Hoje, teshuvá.
+400	On the eve of 5787.	Na véspera de 5787.
+401	This is what a person needs to have before his eyes, and Rosh	Isto é o que a pessoa precisa ter diante dos olhos, e Rosh
+402	HaShanah. Therefore on Rosh HaShanah you have, on one hand,	HaShaná. Por isso, em Rosh HaShaná você tem, por um lado,
+403	judgment. A person goes with a bent shofar,	julgamento. A pessoa vai com um shofar curvado,
+404	right? That is judgment. It does not say	certo? Isso é julgamento. Não diz
+405	a festival day, a day of our joy — although it is a Yom Tov.	dia de festa, dia da nossa alegria — embora seja um Yom Tov.
+406	Right? You put on white clothes. On the other hand it is a	Certo? Põe-se roupa branca. Por outro lado, é um
+407	day of judgment; a bent shofar, not a straight shofar.	dia de julgamento; shofar curvado, não shofar reto.
+408	Why is it bent? So that a person will be bowed down.	Por que é curvado? Para que a pessoa fique curvada.
+409	A custom is brought in the Shulchan Arukh that we usually don't	Traz-se no Shulchan Arukh um costume que geralmente não
+410	know, that there were those who prayed on Rosh	conhecemos: havia quem rezasse em Rosh
+411	HaShanah bowed down,	HaShaná curvado,
+412	and it is written in the Shulchan Arukh that they had to bend toward	e está escrito no Shulchan Arukh que tinham de se curvar perto
+413	the end of the blessing so that they would prostrate, when they need	do fim da bênção para se prostrarem, quando é preciso
+414	to prostrate. That is, there was a situation where the people of Israel	prostrar-se. Ou seja, houve uma situação em que o povo de Israel
+415	felt on the day of Rosh HaShanah	sentia, no dia de Rosh HaShaná,
+416	a hard situation.	uma situação difícil.
+417	Yes.	Sim.
+418	That is Rosh HaShanah, which has both judgment and mercy,	Isso é Rosh HaShaná, que tem tanto julgamento quanto misericórdia,
+419	both bowing on one hand and also "Go, eat the fat foods,	tanto o curvar-se por um lado quanto também "Ide, comei carnes gordas,
+420	drink sweet drinks, send portions to those who have none." Right? And so	bebei doces, enviai porções". Certo? E assim
+421	the Rambam writes in the introduction to the Commentary on the Mishnah:	escreve o Rambam na introdução ao Comentário da Mishná:
+422	"And when he was before his death, he began to write the Torah	"E quando estava perto da sua morte, começou a escrever a Torá
+423	in scrolls, and he wrote	em rolos, e escreveu
+424	13 Torah scrolls,	13 rolos da Torá,
+425	all of them, from Bereshit	todos eles, de Bereshit
+426	to 'before the eyes of all Israel,' including the words	até 'aos olhos de todo Israel', incluindo as palavras
+427	written at the end of V'zot HaBerachah, 'And Moshe died.'" The Gemara	escritas no fim de Vezot HaBerachá, 'E Moshé morreu'". A Guemará
+428	asks: how does Moshe Rabbeinu write that Moshe	pergunta: como Moshé Rabênu escreve que Moshé
+429	died?	morreu?
+430	He writes 13 Torah scrolls, and it is written in them "and Moshe," and he	Ele escreve 13 rolos da Torá, e neles está escrito "e Moshé", e ele
+431	has not yet died. The Gemara says he wrote them in tears.	ainda não morreu. Diz a Guemará que ele os escreveu em lágrimas.
+432	There are several interpretations of what is meant by "he wrote them	Há várias interpretações sobre o que significa "escreveu-os
+433	in tears": he wrote it with jumbled letters,	em lágrimas": escreveu com letras misturadas,
+434	he wrote it with tears.	escreveu com lágrimas.
+435	All kinds of interpretations.	Todo tipo de interpretação.
+436	Where is the Torah scroll that Moshe wrote? Where	Onde está o Sefer Torá que Moshé escreveu? Onde
+437	are these 13 Torah scrolls?	estão esses 13 rolos da Torá?
+438	The Gemara in Tractate Bava Batra brings a dispute	A Guemará no tratado de Bava Batra traz uma discussão
+439	between Rabbi Meir and Rabbi Yehudah.	entre Rabi Meir e Rabi Yehudá.
+440	Where is the Torah scroll? Rabbi Meir says in the Ark	Onde está o Sefer Torá? Rabi Meir diz que na Arca
+441	that Moshe made,	que Moshé fez,
+442	"two and a half cubits its length, a cubit and a half its width,	"dois côvados e meio o seu comprimento, um côvado e meio a sua largura,
+443	and a cubit and a half its height," as it is written in Parashat Terumah.	e um côvado e meio a sua altura", como está escrito na Parashá Terumá.
+444	With a cubit of six handbreadths, and the tablets: their length was six	Com um côvado de seis palmos, e as Tábuas: o comprimento delas era de seis
+445	handbreadths, their width six, their thickness three.	palmos, a largura seis, a espessura três.
+446	And the tablets lay along the length of the Ark. And how much	E as Tábuas ficavam ao longo do comprimento da Arca. E quanto
+447	of the Ark do the tablets take up? 12 handbreadths;	da Arca elas ocupam? 12 palmos;
+448	three handbreadths remained. Subtract from here a handbreadth, he says,	restaram três palmos. Tire-se daqui um palmo, diz ele,
+449	…	…

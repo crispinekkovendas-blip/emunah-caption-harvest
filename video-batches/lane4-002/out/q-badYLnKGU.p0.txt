@@ -1,0 +1,450 @@
+0	Hello, everyone.	Olá a todos.
+1	This week's parashah is Parashat Ki Tavo,	A parashá da semana é Ki Tavô,
+2	and the heart of this parashah	e o centro desta parashá
+3	deals with	trata das
+4	the prophecies of rebuke.	profecias de repreensão.
+5	Moshe Rabbeinu — we have mentioned this, we mention it	Moshe Rabeinu — já mencionamos isso, mencionamos
+6	in every class on the book of Devarim, throughout the whole book of	em toda aula sobre o livro de Devarim, ao longo de todo o livro de
+7	Devarim —	Devarim —
+8	Moshe sees fit, after he understands that he will not	Moshe julga necessário, depois de entender que ele não
+9	enter the Land, to ensure that when the children of Israel	entrará na Terra, garantir que, quando os filhos de Israel
+10	enter the Land, they will not only enter but also remain	entrarem na Terra, não apenas entrem, mas também permaneçam
+11	in the Land. And so the whole book is a warning	nela. E assim o livro inteiro é uma advertência
+12	about how to conduct oneself in the Land of Israel and in general.	sobre como se conduzir na Terra de Israel e em geral.
+13	And especially in the last parashiyot: Ki Tavo, Nitzavim,	E especialmente nas últimas parashiot: Ki Tavô, Nitsavim,
+14	Vayelech and Haazinu,	Vayelech e Haazinu,
+15	he gives the warnings, the	ele dá as advertências, as
+16	significant and critical ones,	significativas e críticas,
+17	about the situation in which the people of Israel	sobre a situação em que o povo de Israel
+18	will be in the Land of Israel and, heaven forbid, will not behave properly: what	estiver na Terra de Israel e, que o céu nos livre, não se comportar bem: quais
+19	will be the consequences of that? So in Parashat Ki	serão as consequências disso? Então, na parashá Ki
+20	Tavo there is a very long series of blessings and curses,	Tavô há uma série muito longa de bênçãos e maldições,
+21	and the need	e a necessidade
+22	for a covenant, in fact a renewed covenant, the covenant of Arvot Moav.	de uma aliança, de fato uma aliança renovada, a aliança de Arvot Moav.
+23	As we will see, the need for the renewed covenant is because	Como veremos, a necessidade da aliança renovada é porque
+24	the	a
+25	covenant sealed at Sinai was a covenant that was broken by	aliança selada no Sinai foi uma aliança que foi quebrada pelo
+26	the people of Israel with the sin of the golden calf, and so before entering	povo de Israel com o pecado do bezerro de ouro, e por isso, antes de entrar
+27	the Land a renewed covenant had to be made, and this is	na Terra, era preciso fazer uma aliança renovada, e esta é
+28	the covenant of Arvot Moav,	a aliança de Arvot Moav,
+29	right before entering the Land.	logo antes da entrada na Terra.
+30	So we will try to touch a little on this today, because	Então vamos tentar abordar um pouco isso hoje, porque
+31	it has, of course, implications for understanding the essence,	isso tem, é claro, implicações para entender a essência,
+32	the purpose of the Jewish people and its connection to the Land of	o propósito do povo judeu e a sua ligação com a Terra de
+33	Israel.	Israel.
+34	Um,	Hã,
+35	I want to dedicate this class	quero dedicar esta aula
+36	to the elevation of the soul of a very close, very dear friend.	à elevação da alma de um amigo muito próximo, muito querido.
+37	I went a very, very long way with him	Percorri com ele um caminho muito, muito longo
+38	in the framework of	no âmbito do
+39	outreach to those far from Torah; we were on a team where he	trabalho de aproximação dos distantes; estávamos numa equipe em que ele
+40	managed the technical matters and I was the one	cuidava das questões técnicas e eu era quem
+41	who gave the classes.	dava as aulas.
+42	And this morning I was informed,	E hoje de manhã recebi a notícia,
+43	to my shock, that he simply passed away	para meu choque, de que ele simplesmente faleceu
+44	suddenly, of cardiac arrest.	de repente, de parada cardíaca.
+45	A very dear friend. I simply can't even	Um amigo muito querido. Simplesmente não consigo nem
+46	think that I am speaking of him in the past tense.	pensar que estou falando dele no passado.
+47	Only on Friday we were in touch.	Foi só na sexta-feira que estivemos em contato.
+48	So we will dedicate this class to the elevation of his soul.	Então vamos dedicar esta aula à elevação da sua alma.
+49	His name is Yossi,	O nome dele é Yossi,
+50	Yosef ben Chayan,	Yosef ben Chayan,
+51	may he rest in peace.	que descanse em paz.
+52	May his soul be bound up in the bond of life.	Que sua alma esteja ligada no laço da vida.
+53	Okay.	Certo.
+54	The portion of rebuke appears in the Torah	A porção da repreensão aparece na Torá
+55	as if in two editions, in two places.	como se em duas edições, em dois lugares.
+56	At the end of the book of Vayikra,	No fim do livro de Vayikrá,
+57	where there is Parashat Bechukotai: "If you walk in My statutes	onde está a parashá Bechukotai: "Se andardes nos Meus estatutos
+58	and keep My commandments" — then the way of life	e guardardes os Meus mandamentos" — então o modo de vida
+59	of yours,	de vocês,
+60	your history as a people, will look like this; and if you do not listen,	a sua história como povo, será assim; e se não ouvirdes,
+61	if you do not walk in My statutes, then it will look different. This	se não andardes nos Meus estatutos, então será diferente. Esta
+62	is the portion of rebuke of the book of Vayikra, chapter 26.	é a porção da repreensão do livro de Vayikrá, capítulo 26.
+63	Here, at the end of the 40-year journey in the wilderness, in the plains of	Aqui, no fim da jornada de 40 anos no deserto, nas planícies de
+64	Moav, Moshe Rabbeinu once again	Moav, Moshe Rabeinu mais uma vez
+65	lays out and gives both sides:	expõe e apresenta os dois lados:
+66	the positive way, the blessings, if you listen	o modo positivo, as bênçãos, se ouvirdes
+67	to HaShem, if you are faithful to the covenant you made with Him	a HaShem, se fordes fiéis à aliança que firmastes com Ele
+68	at Mount Sinai,	no Monte Sinai,
+69	and the curses, heaven forbid, if you do not listen. The blessing here	e as maldições, que o céu nos livre, se não ouvirdes. A bênção aqui
+70	and the curse are longer than the blessings and curses	e a maldição são mais longas do que as bênçãos e maldições
+71	that appear in Parashat Bechukotai, and there are reasons	que aparecem na parashá Bechukotai, e há razões
+72	for this. First of all, perhaps we will see part, not	para isso. Antes de tudo, talvez vejamos uma parte, não
+73	all of it, because as I said it is a great many verses. But	tudo, porque, como disse, são muitíssimos versículos. Mas
+74	chapter 28, verse 1, the first verses,	capítulo 28, versículo 1, os primeiros versículos,
+75	let's begin from verse 1 of chapter 28, this week's	vamos começar do versículo 1 do capítulo 28, a parashá
+76	parashah, Parashat Ki Tavo: "And it shall be, if you diligently listen	desta semana, Ki Tavô: "E será que, se ouvires diligentemente
+77	to the voice of HaShem your Elokim, to observe and do all His commandments	a voz de HaShem teu Elokim, para guardar e cumprir todos os Seus mandamentos
+78	which I command you this day, that HaShem your Elokim will set you	que hoje te ordeno, HaShem teu Elokim te colocará
+79	high above all the nations of the earth.	acima de todas as nações da terra.
+80	And all these blessings shall come upon you and overtake you." And here	E todas estas bênçãos virão sobre ti e te alcançarão." E aqui
+81	there is a list of blessings from verse 1 through verse 14,	há uma lista de bênçãos do versículo 1 ao versículo 14,
+82	inclusive.	inclusive.
+83	"If you diligently listen" — that is, from the outset the Holy One, blessed be	"Se ouvires diligentemente" — isto é, desde o início o Santo, bendito
+84	He, told us that our history as a people will be	seja, nos disse que a nossa história como povo será
+85	entirely dependent on the choice	inteiramente dependente da escolha
+86	we make on the national level. Of course there are	que fizermos no nível nacional. É claro que há
+87	individuals,	indivíduos,
+88	and not everyone is ever the same; there are some who are more so,	e nem todos são sempre iguais; há uns que são mais,
+89	some who are less. But when we speak here of the people, we mean	outros que são menos. Mas quando falamos aqui do povo, falamos
+90	most of the people. And if the people as a people will listen and be faithful	da maioria do povo. E se o povo, como povo, ouvir e for fiel
+91	to the Torah that the Holy One, blessed be He, gives us at Sinai, then	à Torá que o Santo, bendito seja, nos dá no Sinai, então
+92	history will look like this. And there will be many blessings, and if	a história será assim. E haverá muitas bênçãos, e se
+93	not, heaven forbid, there will be curses.	não, que o céu nos livre, haverá maldições.
+94	Good,	Bem,
+95	let's skip to verse 15	vamos pular para o versículo 15
+96	here in chapter 28 of Devarim. "And it shall be, if you do not listen to	aqui no capítulo 28 de Devarim. "E será que, se não ouvires
+97	HaShem your Elokim, to observe and do all His commandments	a HaShem teu Elokim, para guardar e cumprir todos os Seus mandamentos
+98	and His statutes which I command you this day, that all these curses	e estatutos que hoje te ordeno, todas estas maldições
+99	shall come upon you and overtake you," and so on. I deliberately	virão sobre ti e te alcançarão", e assim por diante. De propósito
+100	skipped something here, so pay attention; let's skip a bit	pulei algo aqui, então prestem atenção; vamos pular um pouco
+101	down,	para baixo,
+102	to verse 20: "HaShem will send upon you" — some of the curses here — "HaShem will send upon you	ao versículo 20: "HaShem enviará sobre ti" — algumas das maldições aqui — "HaShem enviará sobre ti
+103	the curse, and the confusion, and the rebuke, in all that you put	a maldição, a confusão e a repreensão, em tudo a que puseres
+104	your hand to do." Pay attention to the next words: "until	a mão para fazer." Prestem atenção às próximas palavras: "até
+105	you are destroyed,	seres destruído,
+106	and until you perish quickly, because of the evil of your doings, because you have forsaken Me."	e até pereceres depressa, por causa da maldade das tuas obras, por Me teres abandonado."
+107	And this sounds terrible. And indeed, what is actually written here,	E isso soa terrível. E de fato, o que está escrito aqui,
+108	in its plain meaning — we will see shortly that it is not	no sentido simples — veremos daqui a pouco que não é
+109	as it seems — but this is how it is written here:	como parece — mas é assim que está escrito aqui:
+110	that, heaven forbid, if Israel as a people stops keeping	que, que o céu nos livre, se Israel, como povo, parar de guardar
+111	the commandments of the Torah, it will be destroyed, literally: "until you are destroyed	os mandamentos da Torá, será destruído, literalmente: "até seres destruído
+112	and until you perish."	e até pereceres."
+113	This recalls what is written in the Megillah of Esther, that Haman's plot	Isso lembra o que está escrito na Meguilá de Ester, que o plano de Haman
+114	was to destroy, to kill and to annihilate all	era destruir, matar e aniquilar todos
+115	the Jews. "Until you are destroyed,"	os judeus. "Até seres destruído",
+116	"until you perish." Now,	"até pereceres." Agora,
+117	what this means is that the people of Israel exists as a people, and its entire	o que isso significa é que o povo de Israel existe como povo, e todo o seu
+118	meaning is thus. And I spoke about this yesterday in a class	sentido é este. E falei sobre isso ontem numa aula
+119	of its own. I recommend that you listen to that class	à parte. Recomendo que ouçam essa aula
+120	on Parashat Ki Tavo, which was given on	sobre a parashá Ki Tavô, que foi dada sobre
+121	the concept called Am Segulah, a treasured people.	o conceito chamado Am Segulá, povo especial.
+122	The whole meaning of the existence of the people of Israel	Todo o sentido da existência do povo de Israel
+123	is that it is the people of HaShem, that it is a holy nation. And if it decides	é ser o povo de HaShem, ser uma nação santa. E se decide
+124	not to be the people of HaShem and not to be a holy nation —	não ser o povo de HaShem e não ser uma nação santa —
+125	and the matter of a holy nation is "who sanctified us	e a questão da nação santa é "que nos santificou
+126	with His commandments," that is, to stop keeping	com Seus mandamentos", isto é, deixar de guardar
+127	the commandments — if the people decides so, it has no right to exist.	os mandamentos — se o povo decidir assim, não tem direito de existir.
+128	It has no right to exist: "until you are destroyed," "until you perish." But	Não tem direito de existir: "até seres destruído", "até pereceres". Mas
+129	what we need to do here is become familiar with a concept that I	o que precisamos fazer aqui é conhecer um conceito que
+130	assume many have heard of, though perhaps not fully	suponho que muitos já ouviram, mas talvez não o entendam totalmente
+131	understanding it, or translating it as what is written	ou o traduzam como o que está escrito
+132	here. You know the expression "ad ve'ad bichlal," "up to and including,"	aqui. Conhecem a expressão "ad ve'ad bichlal", "até e inclusive",
+133	or "ad velo ad bichlal,"	ou "ad velo ad bichlal",
+134	"up to but not including."	"até, mas sem incluir".
+135	"Up to and including" means that you reach the red line,	"Até e inclusive" quer dizer que você chega à linha vermelha,
+136	including the red line.	incluindo a linha vermelha.
+137	"Up to but not including" means you will reach the red line, but	"Até, mas sem incluir" quer dizer que você chegará à linha vermelha, mas
+138	you will never reach the red line. That is, the "up to" does not	jamais a alcançará. Isto é, o "até" não
+139	include the red line. And the red line	inclui a linha vermelha. E a linha vermelha
+140	is destruction, extermination.	é a destruição, o extermínio.
+141	It is written here "until you are destroyed," and we need to know	Está escrito aqui "até seres destruído", e precisamos saber
+142	that here the rule applies of "up to but not including." That	que aqui vale a regra do "até, mas sem incluir". Isto
+143	is, since the Holy One, blessed be He, as we will see,	é, já que o Santo, bendito seja, como veremos,
+144	commits Himself in other places that the people of Israel will exist	se compromete em outros lugares que o povo de Israel existirá
+145	forever and ever — the people of Israel lives and will remain so always —	para todo o sempre — o povo de Israel vive e assim permanecerá sempre —
+146	that is, the Holy One, blessed be He, will not allow a situation in which the people of	isto é, o Santo, bendito seja, não permitirá uma situação em que o povo de
+147	Israel does not exist. It is impossible. And so,	Israel não exista. É impossível. E por isso,
+148	when it says here "until you are destroyed," it means you will reach	quando está escrito aqui "até seres destruído", quer dizer que se chegará
+149	the threshold of destruction, but in practice there will never be	ao limiar da destruição, mas na prática jamais haverá
+150	a situation in which, heaven forbid, the people of Israel is destroyed. Okay? So this is	uma situação em que, que o céu nos livre, o povo de Israel seja destruído. Certo? Isso é
+151	somewhat comforting. Still, reaching a state of the threshold of	um tanto reconfortante. Ainda assim, chegar a um estado de limiar de
+152	destruction is terrible, and this is the matter of "if you do	destruição é terrível, e este é o ponto do "se não
+153	not listen." Because as we said, let us remember this again:	ouvires". Porque, como dissemos, lembremos disso de novo:
+154	the whole justification for the existence of the people of Israel is that it is the people of	toda a justificativa para a existência do povo de Israel é ser o povo de
+155	HaShem, and that He made a covenant with it to keep	HaShem, e que Ele fez com ele uma aliança para guardar
+156	the commandments of HaShem. If the people on the national level decides	os mandamentos de HaShem. Se o povo, no nível nacional, decidir
+157	that it no longer wants to keep the commandments of HaShem,	que não quer mais guardar os mandamentos de HaShem
+158	and wants to give the meaning of being the Jewish people, or the people of Israel,	e quiser dar ao significado de ser o povo judeu, ou o povo de Israel,
+159	a different meaning, it has no	um outro significado, não tem
+160	right to exist. The Torah says this in advance, many	direito de existir. A Torá diz isso de antemão, muitas
+161	times over. Here it is written in the prophecy of rebuke.	vezes. Aqui está escrito na profecia de repreensão.
+162	The	O
+163	negative scenario of "if you do not listen" begins in verse	cenário negativo do "se não ouvires" começa no versículo
+164	15, but it extends over	15, mas se estende por
+165	a great many verses, until verse 68.	muitíssimos versículos, até o versículo 68.
+166	Until verse 68.	Até o versículo 68.
+167	That is, there are more than 40 verses here	Ou seja, há aqui mais de 40 versículos
+168	speaking of terrible things that will happen to the people of Israel	que falam de coisas terríveis que acontecerão ao povo de Israel
+169	when it brings itself — if it chooses	quando ele se levar — se escolher
+170	the negative scenario — to the threshold of destruction.	o cenário negativo — ao limiar da destruição.
+171	Let us look at the last verses, because I very much hope we will be able to address them later in	Vejamos os últimos versículos, porque espero muito que possamos tratá-los mais adiante na
+172	the class.	aula.
+173	The last verses of the negative section of "if	Os últimos versículos da parte negativa do "se
+174	you do not listen," from verse 66:	não ouvires", a partir do versículo 66:
+175	"And your life shall hang in doubt before you, and you shall fear night	"E a tua vida estará suspensa diante de ti, e temerás de noite
+176	and day, and you shall have no assurance of your life."	e de dia, e não terás certeza da tua vida."
+177	He is speaking here of the life of the people, that is, the existence	Fala aqui da vida do povo, isto é, da existência
+178	of the people, life, this is the essence, the existence;	do povo, a vida, esta é a essência, a existência;
+179	the existence of the people will be in doubt,	a existência do povo estará em dúvida,
+180	for the people itself. "Your life," that is, your existence as a people, will be	para o próprio povo. "A tua vida", isto é, a tua existência como povo, estará
+181	"hanging before you," that is, it will be constantly on the	"suspensa diante de ti", isto é, estará sempre no
+182	edge, in a situation where it may very well be	fio da navalha, numa situação em que pode muito bem ser
+183	that tomorrow the people of Israel will no longer exist, heaven forbid. That	que amanhã o povo de Israel já não exista, que o céu nos livre. Isto
+184	is the matter of the threshold of destruction. "And your life shall be	é o ponto do limiar da destruição. "E a tua vida estará
+185	hanging before you, and you shall fear night and day, and you shall	suspensa diante de ti, e temerás de noite e de dia, e não
+186	have no assurance of your life." That is, if you try to be	terás certeza da tua vida." Isto é, se tentares ser
+187	realistic and to trace the	realista e acompanhar os
+188	steps, the places to which you have declined as a people,	degraus, os lugares aos quais decaíste como povo,
+189	and try to make a rational calculation of where this is heading,	e tentares fazer um cálculo racional de para onde isso vai,
+190	you will not believe in your life; you will not believe there is a possibility of continued	não acreditarás na tua vida; não acreditarás que haja possibilidade de continuidade da
+191	existence for the Jewish people. "In the morning you shall say, 'If only it were evening,'	existência do povo judeu. "De manhã dirás: 'Tomara fosse tarde',
+192	and in the evening you shall say, 'If only it were morning,' because of the fear of your heart which you shall fear	e à tarde dirás: 'Tomara fosse manhã', por causa do pavor do teu coração com que temerás
+193	and the sight of your eyes which you shall see."	e da visão dos teus olhos que verás."
+194	Okay, and now we come to the last verse	Certo, e agora chegamos ao último versículo
+195	of the rebuke, and this verse says something that seems very	da repreensão, e esse versículo diz algo que parece muito
+196	strange.	estranho.
+197	It is written thus: "And HaShem shall bring you back to Egypt	Está escrito assim: "E HaShem te fará voltar ao Egito
+198	in ships,	em navios,
+199	by the way of which I said to you, 'You shall never see it again.'	pelo caminho do qual te disse: 'Nunca mais o verás.'
+200	And there you shall offer yourselves for sale	E ali vos oferecereis à venda
+201	to your enemies	aos vossos inimigos
+202	as male and female slaves, and no one will buy."	como escravos e escravas, e não haverá quem compre."
+203	There are several things here that are not understood at all.	Há aqui várias coisas que não se entendem de modo algum.
+204	The matter of Egypt.	A questão do Egito.
+205	Let us remember that the Holy One, blessed be He, took us out of Egypt,	Lembremos que o Santo, bendito seja, nos tirou do Egito,
+206	and the exodus from Egypt was to eternal freedom.	e o êxodo do Egito foi para a liberdade eterna.
+207	It is written here in the prophecy of rebuke that if the people of Israel as a people	Está escrito aqui na profecia de repreensão que, se o povo de Israel, como povo,
+208	decides	decidir
+209	to give up the content	abrir mão do conteúdo
+210	of its essence as an observer of Torah and mitzvot,	da sua essência como observante da Torá e das mitsvot,
+211	it will reach the threshold of destruction, and the Holy One, blessed be He, will return	chegará ao limiar da destruição, e o Santo, bendito seja, nos fará voltar
+212	us to Egypt, to that very Egypt from which He	ao Egito, àquele mesmo Egito de onde Ele
+213	took us out of the house of bondage. For He took	nos tirou da casa de escravidão. Pois Ele nos tirou
+214	us out of Egypt in order to reach Mount Sinai and to receive	do Egito para chegarmos ao Monte Sinai e recebermos
+215	the Torah.	a Torá.
+216	If we, heaven forbid, refuse to accept the Torah, then	Se nós, que o céu nos livre, nos recusarmos a aceitar a Torá, então
+217	He returns us to the slavery of Egypt: "And HaShem shall bring you back	Ele nos devolve à escravidão do Egito: "E HaShem te fará voltar
+218	to Egypt in ships."	ao Egito em navios."
+219	The matter of the ships requires explanation: why specifically	A questão dos navios pede explicação: por que justamente
+220	in ships? After all, we did not leave Egypt in ships;	em navios? Afinal, não saímos do Egito em navios;
+221	we left on foot.	saímos a pé.
+222	It says here "ships," and note the next phrase: "by the way	Está escrito aqui "navios", e notem a expressão seguinte: "pelo caminho
+223	of which I said to you, you shall never see it again." What is	do qual te disse que nunca mais o verás." O que é
+224	this "way"? "By the way."	esse "caminho"? "Pelo caminho."
+225	There is such a thing; it is a concept, and of course it is not speaking of	Existe isso; é um conceito, e é claro que não se fala do
+226	the apparent, simple	caminho aparente, simples,
+227	simple way, since, as I said, we left	simples, pois, como eu disse, saímos
+228	Egypt on foot, and if He takes us out, and if He returns	do Egito a pé, e se Ele nos tira, e se Ele nos fizer voltar
+229	us to Egypt in ships, then it is not the same way.	ao Egito em navios, então não é o mesmo caminho.
+230	Rather, there is a concept here called "way": "by the way of which	Na verdade, há aqui um conceito chamado "caminho": "pelo caminho do qual
+231	I said to you, you shall never see it again. And there you shall offer yourselves for sale	te disse que nunca mais o verás. E ali vos oferecereis à venda
+232	to your enemies	aos vossos inimigos
+233	as male and female slaves, and no one will buy." I very much hope	como escravos e escravas, e não haverá quem compre." Espero muito
+234	that we will manage to answer all these questions	que consigamos responder a todas essas perguntas
+235	that I raised here in the framework of this class.	que levantei aqui no âmbito desta aula.
+236	Okay?	Certo?
+237	So that is verse 68, and then comes verse 69, which sums up and says	Então esse é o versículo 68, e depois vem o versículo 69, que resume e diz
+238	the following: "These are the words of the covenant which	o seguinte: "Estas são as palavras da aliança que
+239	HaShem commanded Moshe to make with the children of Israel	HaShem ordenou a Moshe que fizesse com os filhos de Israel
+240	in the land of Moav, besides the covenant which He made with them	na terra de Moav, além da aliança que fez com eles
+241	at Horev."	em Horev."
+242	So this is a renewed covenant,	Então esta é uma aliança renovada,
+243	at the end of the 40 years, right before entering the Land.	ao fim dos 40 anos, logo antes de entrar na Terra.
+244	Okay, now let us connect this week's parashah,	Certo, agora vamos ligar a parashá da semana,
+245	Parashat Ki Tavo and the rebuke,	a parashá Ki Tavô e a repreensão,
+246	to the time when we read Parashat Ki Tavo	ao momento em que lemos a parashá Ki Tavô
+247	in the calendar.	no calendário.
+248	Parashat Ki Tavo is always read	A parashá Ki Tavô é sempre lida
+249	about a week and a half	cerca de uma semana e meia
+250	before Rosh HaShanah, always at the end of the year.	antes de Rosh HaShaná, sempre no fim do ano.
+251	Parashat Ki Tavo — let us see a Gemara in tractate Megillah.	Parashá Ki Tavô — vejamos uma Guemará no tratado Meguilá.
+252	…	…
+253	The Gemara brings a baraita, and in the baraita it is written as follows: we learned,	A Guemará traz uma braita, e na braita está escrito o seguinte: ensinaram,
+254	Rabbi Shimon ben Elazar says:	Rabi Shimon ben Elazar diz:
+255	Ezra, Ezra the Scribe, that is, Ezra who went up with the	Ezra, Ezra, o escriba, isto é, Ezra que subiu com o
+256	people of Israel from Babylon, in the exile of the Second Temple, Ezra instituted for	povo de Israel da Babilônia, no exílio do Segundo Templo, Ezra instituiu para
+257	Israel	Israel
+258	— that is, he went up, finished the exile in Babylon, and the Second Temple was built —	— isto é, subiu, terminou o exílio na Babilônia, e o Segundo Templo foi construído —
+259	Ezra instituted for Israel	Ezra instituiu para Israel
+260	that they would read the curses in Torat Kohanim before	que lessem as maldições de Torat Kohanim antes de
+261	Atzeret,	Atzeret,
+262	and those in Mishneh Torah before Rosh HaShanah.	e as de Mishné Torá antes de Rosh HaShaná.
+263	Parashat Bechukotai, which is found in the book of Vayikra,	A parashá Bechukotai, que se encontra no livro de Vayikrá,
+264	which is called in the Mishnah, in the baraita, in the Midrash, Torat Kohanim,	que é chamado na Mishná, na braita, no Midrash, de Torat Kohanim,
+265	because most of the book of Vayikra deals with the laws of the priesthood,	porque a maior parte do livro de Vayikrá trata das leis do sacerdócio,
+266	the laws of offerings and so on, therefore the book of Vayikra is called	das leis dos sacrifícios e assim por diante; por isso o livro de Vayikrá é chamado
+267	Torat Kohanim. "The curses in Torat Kohanim" refers	Torat Kohanim. "As maldições de Torat Kohanim" refere-se
+268	to the last parashah in the book of Vayikra, which is Parashat	à última parashá do livro de Vayikrá, que é a parashá
+269	Bechukotai, where the rebuke I mentioned earlier appears,	Bechukotai, onde aparece a repreensão que mencionei antes,
+270	so the rebuke that was said	ou seja, a repreensão que foi dita
+271	in the Sinai wilderness.	no deserto do Sinai.
+272	So Ezra instituted for Israel that they would read	Então Ezra instituiu para Israel que lessem
+273	the curses in Torat Kohanim before Atzeret — Atzeret is the festival of	as maldições de Torat Kohanim antes de Atzeret — Atzeret é a festa de
+274	Shavuot — and those in Mishneh Torah — Mishneh Torah is a name	Shavuot — e as de Mishné Torá — Mishné Torá é um nome
+275	for the book of Devarim, because Moshe repeats	para o livro de Devarim, porque Moshe repete
+276	and reviews everything that happened to them in the 40 years	e revê tudo o que lhes aconteceu nos 40 anos
+277	in the wilderness, so it is called Mishneh Torah — before Rosh	no deserto, por isso é chamado Mishné Torá — antes de Rosh
+278	HaShanah: the curses in Mishneh Torah, which are the curses of	HaShaná: as maldições de Mishné Torá, que são as maldições da
+279	Parashat Ki Tavo. Why? asks the Gemara. What is its reason?	parashá Ki Tavô. Por quê?, pergunta a Guemará. Qual é a sua razão?
+280	What is the reason for this? Rabbi Avin, or Resh Lakish, said:	Qual é a razão disso? Disse Rabi Avin, ou Resh Lakish:
+281	So that the year and its curses may end.	Para que termine o ano e as suas maldições.
+282	Apparently this explains why we read Parashat Ki	Aparentemente isso explica por que lemos a parashá Ki
+283	Tavo before Rosh HaShanah: because in Parashat Ki Tavo there are	Tavô antes de Rosh HaShaná: porque na parashá Ki Tavô há
+284	curses — there are blessings too, but there are curses —	maldições — há bênçãos também, mas há maldições —
+285	and the blessings, we have no problem with them continuing with us into the	e as bênçãos, não temos problema em que continuem conosco no
+286	next year, but the curses we would very much like	próximo ano, mas as maldições gostaríamos muito
+287	to cease from us.	que cessassem para nós.
+288	So that the year and its curses may end: so before	Então, para que termine o ano e as suas maldições: antes de
+289	we close the year — not actually, by the way, on the	encerrarmos o ano — não exatamente, aliás, no
+290	last Shabbat, but on the Shabbat before the last Shabbat —	último Shabat, mas no Shabat antes do último Shabat —
+291	we read Parashat Ki Tavo,	lemos a parashá Ki Tavô,
+292	so that the year and its curses may end.	para que termine o ano e as suas maldições.
+293	The Midrash on this Gemara says as follows: we read Parashat	O Midrash sobre esta Guemará diz o seguinte: lemos a parashá
+294	Nitzavim before Rosh HaShanah so that the curses	Nitsavim antes de Rosh HaShaná para que acabem as maldições
+295	of Ki Tavo, which were said about the Second Temple, may end, before Rosh	de Ki Tavô, que foram ditas sobre o Segundo Templo, antes de Rosh
+296	HaShanah.	HaShaná.
+297	Now here he hints at something that we will see shortly	Agora, aqui ele alude a algo que veremos daqui a pouco
+298	in somewhat more detail in the words of the Ramban. The Ramban,	com mais detalhes nas palavras do Ramban. O Ramban,
+299	in his commentary on the Torah, shows that what we have here is not	no seu comentário à Torá, mostra que o que temos aqui não é
+300	yet another	mais uma
+301	version of what was already said in Vayikra chapter 26, in Parashat	versão do que já foi dito em Vayikrá, capítulo 26, na parashá
+302	Bechukotai.	Bechukotai.
+303	Rather, these two rebukes, the one in Vayikra 26 and the one	Na verdade, essas duas repreensões, a de Vayikrá 26 e a de
+304	in Devarim 28,	Devarim 28,
+305	these rebukes and the things described there	essas repreensões e as coisas descritas ali
+306	describe two periods in history.	descrevem dois períodos da história.
+307	The prophecies of	As profecias de
+308	rebuke in Vayikra speak of the events that preceded	repreensão em Vayikrá falam dos acontecimentos que precederam
+309	the destruction of the First Temple,	a destruição do Primeiro Templo,
+310	the Babylonian exile that came in its wake,	o exílio da Babilônia que veio em seguida,
+311	and the	e as
+312	prophecies of rebuke	profecias de repreensão
+313	that appear here in our parashah, in Parashat Ki Tavo,	que aparecem aqui na nossa parashá, a parashá Ki Tavô,
+314	speak of the events that preceded the destruction of the Second	falam dos acontecimentos que precederam a destruição do Segundo
+315	Temple,	Templo
+316	and the calamities that would come in its wake, from the destruction until	e das calamidades que viriam em seguida, desde a destruição até
+317	the redemption at the end of days.	a redenção no fim dos dias.
+318	The Ramban proves this; we will not go into it, we spoke	O Ramban prova isso; não vamos entrar nisso, falamos
+319	about it in previous years, to show the Ramban's proofs	disso em anos anteriores, para mostrar as provas do Ramban
+320	that what we have here is in fact, although a script that looks	de que o que temos aqui é de fato, embora um roteiro que parece
+321	very similar — if you listen to HaShem it will be good, and if not	muito semelhante — se ouvirdes HaShem será bom, e se não
+322	it will be bad, in both places it is written — but	será mau, em ambos os lugares está escrito — mas
+323	the Ramban proves that Vayikra speaks of the First Temple	o Ramban prova que Vayikrá fala do Primeiro Templo
+324	and Devarim speaks of the Second Temple.	e Devarim fala do Segundo Templo.
+325	After saying this, let us return to the words of the Midrash:	Depois de dizer isto, voltemos às palavras do Midrash:
+326	we read Parashat Nitzavim — Nitzavim is the parashah that comes after	lemos a parashá Nitsavim — Nitsavim é a parashá que vem depois de
+327	Ki Tavo, which is very interesting; we will get to it, with the help of HaShem,	Ki Tavô, o que é muito interessante; chegaremos a ela, com a ajuda de HaShem,
+328	we will speak next week about Parashat Nitzavim, I hope	falaremos na semana que vem sobre a parashá Nitsavim, espero
+329	we will manage to address it. Parashat Nitzavim comes separately	que consigamos tratá-la. A parashá Nitsavim vem separada
+330	from Parashat Ki Tavo, but it too is connected to the covenant	da parashá Ki Tavô, mas também está ligada a esta aliança
+331	that is sealed in Arvot Moav. We read Parashat	que é selada em Arvot Moav. Lemos a parashá
+332	Nitzavim before Rosh HaShanah so that the curses	Nitsavim antes de Rosh HaShaná para que as maldições
+333	in Parashat Ki Tavo, which precedes Parashat Nitzavim, which	da parashá Ki Tavô, que precede a parashá Nitsavim, que
+334	were said about the Second Temple, may end before Rosh HaShanah. Now	foram ditas sobre o Segundo Templo, acabem antes de Rosh HaShaná. Agora
+335	notice what he says: that in the future	notem o que ele diz: que no futuro
+336	they will be redeemed through repentance, as explicitly stated	serão redimidos pelo arrependimento, como está explícito
+337	in Parashat Nitzavim:	na parashá Nitsavim:
+338	"And you shall return to HaShem your Elokim and listen to His voice, and HaShem	"E voltarás a HaShem teu Elokim e ouvirás a Sua voz, e HaShem
+339	your Elokim will bring back your captivity and have compassion on you."	teu Elokim fará voltar os teus cativos e se compadecerá de ti."
+340	Parashat Nitzavim completes Parashat Ki Tavo. In Parashat	A parashá Nitsavim completa a parashá Ki Tavô. Na parashá
+341	Ki Tavo it speaks of the not-good things, and they will not	Ki Tavô fala-se das coisas não boas, e elas não
+342	remain so forever, as we said, "until you are destroyed" and not	permanecerão assim para sempre, como dissemos, "até seres destruído" e não
+343	including the limit, because even if you do not listen, the Holy One, blessed be He,	incluindo o limite, porque mesmo que não ouças, o Santo, bendito seja,
+344	promised that the people of Israel will survive.	prometeu que o povo de Israel sobreviverá.
+345	What will be in the end? In the end, in the end, after all	O que será no fim? No fim, no fim, depois que todas
+346	these things have come upon you, if, heaven forbid, you behave improperly,	essas coisas vierem sobre ti, se, que o céu nos livre, te comportares mal,
+347	in the end it will be good, and this good is found in Parashat	no fim será bom, e esse bem se encontra na parashá
+348	Nitzavim, which we read right before Rosh HaShanah,	Nitsavim, que lemos logo antes de Rosh HaShaná,
+349	always, every year. Good.	sempre, todos os anos. Bem.
+350	Let us add another point to the matter.	Acrescentemos mais um ponto ao assunto.
+351	Many Jewish communities, if not all of them — I simply don't	Muitas comunidades judaicas, se não todas — simplesmente não
+352	remember, I didn't check fully — many Jewish communities,	me lembro, não verifiquei por completo — muitas comunidades judaicas,
+353	in the last moments of every single year,	nos últimos momentos de cada ano,
+354	right before the new year enters —	logo antes de o novo ano entrar —
+355	that is, at sunset	isto é, ao pôr do sol
+356	at the end of the month, on the last day of the month of	no fim do mês, no último dia do mês de
+357	Elul, they gather in the synagogue, of course on Rosh	Elul, reúnem-se na sinagoga, é claro, em Rosh
+358	HaShanah, on the eve of Rosh HaShanah,	HaShaná, na véspera de Rosh HaShaná,
+359	and the seam between the previous year and the coming year is marked	e a costura entre o ano anterior e o ano seguinte é marcada
+360	for several hundred years now in almost all the Jewish communities	há várias centenas de anos em quase todas as comunidades judaicas
+361	almost	quase
+362	with the famous piyut called "Achot Ketanah." I	com o famoso piyut chamado "Achot Ketaná". Espero
+363	hope you know what it is about. So here is this piyut.	que saibam do que se trata. Então eis esse piyut.
+364	Let us see what is written in this piyut.	Vejamos o que está escrito nesse piyut.
+365	This piyut was written by Rabbi Avraham Chazan, who signed	Esse piyut foi escrito por Rabi Avraham Chazan, que assinou
+366	his name, the acrostic of his name, at the beginning of	o seu nome, o acróstico do seu nome, no início de
+367	each stanza in this	cada estrofe deste
+368	piyut.	piyut.
+369	And this is what is written in the piyut called "Achot Ketanah":	E assim está escrito no piyut chamado "Achot Ketaná":
+370	"A little sister, her prayers	"Uma irmã pequena, as suas orações
+371	she arranges and recites her praises;	ela dispõe e recita os seus louvores;
+372	may her ailments please be healed"	que as suas enfermidades sejam curadas"
+373	and the refrain is "Let the year and its curses end."	e o refrão é "Que termine o ano e as suas maldições."
+374	And after that, as I said, there is the acrostic	E depois disso, como eu disse, há o acróstico
+375	of the author's name in pleasant words: it is	do nome do autor, em palavras agradáveis: é
+376	the letter alef, then bet, "See, your humbled ones..."	a letra alef, depois bet, "Vê os teus humilhados..."
+377	"how long until You raise up..." this is Avraham. Yes, after	"até quando até que levantes..." isto é Avraham. Sim, depois
+378	that, "The whole nation established songs, ..."	disso, "A nação inteira estabeleceu cânticos, ..."
+379	"...at ease he lay down for us."	"...tranquilo jazeu por nós."
+380	Avraham Chazan is the acrostic of his name; he is one of the	Avraham Chazan é o acróstico do seu nome; ele é um dos
+381	Rishonim, and this piyut has existed for at least	Rishonim, e este piyut já existe há pelo menos
+382	700 years.	700 anos.
+383	The refrain after each one of these stanzas —	O refrão depois de cada uma dessas estrofes —
+384	in every stanza, by the way, very interesting things are written,	em cada estrofe, aliás, estão escritas coisas muito interessantes,
+385	but now is not the time to analyze this piyut —	mas agora não é hora de analisar este piyut —
+386	we finish, and then the whole congregation says "Let the year	terminamos, e então toda a congregação diz "Que termine o ano
+387	and its curses end, let the year and its curses end," up to the	e as suas maldições, que termine o ano e as suas maldições", até a
+388	last stanza. The last stanza is "Chizku vegilu,"	última estrofe. A última estrofe é "Chizku vegilu",
+389	"for the destruction is over," that is, we are in the redemption,	"pois a destruição acabou", isto é, estamos na redenção,
+390	and the refrain there is, instead of "Let the year and its curses end,"	e o refrão ali é, em vez de "Que termine o ano e as suas maldições",
+391	the refrain is "Let the year and its blessings begin."	o refrão é "Que comece o ano e as suas bênçãos."
+392	Of course this piyut is built exactly on the words of	É claro que este piyut é construído exatamente sobre as palavras da
+393	the Gemara, the baraita that is just before this in the Gemara	Guemará, a braita que está logo antes disso na Guemará
+394	in tractate Megillah,	no tratado Meguilá,
+395	that Ezra instituted for Israel that they read the portion of Ki	que Ezra instituiu para Israel que lessem a parashá Ki
+396	Tavo, the curses in Parashat Ki Tavo, before the end of	Tavô, as maldições da parashá Ki Tavô, antes do fim do
+397	the year, so that the year and its curses may end.	ano, para que termine o ano e as suas maldições.
+398	Since we have brought up the matter of this little sister,	Já que trouxemos a questão dessa irmã pequena,
+399	let us just explain this concept very	expliquemos só esse conceito, bem
+400	briefly. Who is this little sister? "A little	brevemente. Quem é essa irmã pequena? "Uma irmã
+401	sister, her prayers." For this one needs to know a bit of Tanakh,	pequena, as suas orações." Para isso é preciso conhecer um pouco de Tanach,
+402	and we will not see the whole chapter now,	e não vamos ver o capítulo inteiro agora,
+403	but we will see the first verses of chapter 23	mas vamos ver os primeiros versículos do capítulo 23
+404	of Yechezkel,	de Yechezkel,
+405	in order to understand the matter of	para entender a questão da
+406	the little sister. The little sister is the people of Israel, but	irmã pequena. A irmã pequena é o povo de Israel, mas
+407	why is she called a little sister? And if she is a little sister,	por que é chamada de irmã pequena? E se é uma irmã pequena,
+408	then she has older siblings, so we need to understand	então tem irmãos mais velhos, então precisamos entender
+409	this, right? Here are the verses in Yechezkel,	isso, certo? Eis os versículos em Yechezkel,
+410	chapter 23: "And the word of HaShem came to me, saying: Son of man,	capítulo 23: "E veio a mim a palavra de HaShem, dizendo: Filho do homem,
+411	there were two women, daughters of one mother."	havia duas mulheres, filhas de uma só mãe."
+412	That is how the chapter begins; the Holy One, blessed be He, tells	Assim começa o capítulo; o Santo, bendito seja, conta
+413	Yechezkel	a Yechezkel
+414	a story, a parable,	uma história, uma parábola,
+415	that there were two sisters,	de que havia duas irmãs,
+416	daughters of one mother.	filhas de uma só mãe.
+417	And in the next verse:	E no versículo seguinte:
+418	"And their names:"	"E os seus nomes:"
+419	Oholah the elder	Ohola, a mais velha,
+420	and Oholivah her sister."	e Oholiva, a sua irmã."
+421	These are very similar names; notice that the letters	São nomes muito parecidos; notem que as letras
+422	alef, heh, lamed are found in the names of these two girls,	alef, hei, lamed estão nos nomes dessas duas meninas,
+423	these two sisters.	dessas duas irmãs.
+424	The first, the elder, is called Oholah,	A primeira, a mais velha, chama-se Ohola,
+425	and the second, her younger sister, is called Oholivah.	e a segunda, a sua irmã mais nova, chama-se Oholiva.
+426	"And they became Mine" — so the Holy One, blessed be He, says	"E tornaram-se Minhas" — assim diz o Santo, bendito seja,
+427	to Yechezkel the prophet, "and they became Mine," as it were;	ao profeta Yechezkel, "e tornaram-se Minhas", por assim dizer;
+428	they were married to Me, these two sisters, "and they bore sons	elas casaram-se comigo, essas duas irmãs, "e deram à luz filhos
+429	and daughters."	e filhas."
+430	"And their names" — now this is the parable, what is the interpretation? — "And their names:	"E os seus nomes" — agora, esta é a parábola, qual é a interpretação? — "E os seus nomes:
+431	Oholah is Shomron,	Ohola é Shomron,
+432	and Oholivah is Yerushalayim."	e Oholiva é Yerushalayim."
+433	So what is meant in the interpretation? The kingdom of Israel and the kingdom of	Então o que se quer dizer na interpretação? O reino de Israel e o reino de
+434	Yehudah. The center of the kingdom of Israel was in Shomron.	Yehudá. O centro do reino de Israel era em Shomron.
+435	Shomron was	Shomron foi
+436	founded by	fundada por
+437	Omri, the father of Achav king of Israel,	Omri, pai de Achav, rei de Israel,
+438	as the capital of the kingdom of Israel,	como capital do reino de Israel,
+439	and Yerushalayim, where	e Yerushalayim, onde
+440	Shlomo HaMelech built the Beit HaMikdash.	Shlomo HaMelech construiu o Beit HaMikdash.
+441	So the chapter here is a chapter that refers to the	Então o capítulo aqui é um capítulo que se refere às
+442	misdeeds	más ações
+443	of these two women,	dessas duas mulheres,
+444	who in the end violated the sanctity of the marriage	que no fim violaram a santidade do casamento
+445	between them and	entre elas e
+446	the Holy One, blessed be He.	o Santo, bendito seja.
+447	And each one in her own way, in fact,	E cada uma, a seu modo, na verdade,
+448	betrayed the covenant with the Holy One, blessed be He. All this	traiu a aliança com o Santo, bendito seja. Tudo isso
+449	is described throughout chapter 23.	é descrito ao longo do capítulo 23.
