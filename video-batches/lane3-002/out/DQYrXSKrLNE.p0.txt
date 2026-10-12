@@ -1,0 +1,450 @@
+0	The names we know for the Chumash:	Os nomes que conhecemos para o Chumash:
+1	Bereshit, Shemot, Vayikra, Bamidbar, Devarim.	Bereshit, Shemot, Vayikra, Bamidbar, Devarim.
+2	These are the names we know, because this is what is written	Esses são os nomes que conhecemos, porque é o que está escrito
+3	at the beginning of each book.	no início de cada livro.
+4	And since this is written at the beginning, we know	E como isso está escrito no início, conhecemos
+5	these names. These names come from the names of	esses nomes. Esses nomes vêm dos nomes das
+6	the parashiot,	parashiot,
+7	where each parashah is named for its first word, or	em que cada parashá é chamada pela primeira palavra, ou
+8	the second, or the third, or the fourth, or the fifth	a segunda, ou a terceira, ou a quarta, ou a quinta
+9	word in the parashah.	palavra da parashá.
+10	Bereshit, the first word; Noach, the third word;	Bereshit, a primeira palavra; Noach, a terceira palavra;
+11	Lech Lecha,	Lech Lecha,
+12	the fourth word: "And HaShem said to Avraham: Lech Lecha";	a quarta palavra: "E HaShem disse a Avraham: Lech Lecha";
+13	the fifth word. And so it goes in every parashah. The	a quinta palavra. E assim vai em cada parashá. Os
+14	names are not always the same. There are the same	nomes nem sempre são iguais. Há os mesmos
+15	beginnings, but they are not always the same things.	inícios, mas nem sempre são as mesmas coisas.
+16	For example,	Por exemplo,
+17	Parashat Noach is called Parashat Noach, although the word Noach	a Parashat Noach se chama Parashat Noach, embora a palavra Noach
+18	appears only after the third word: "These are the generations of	apareça só depois da terceira palavra: "Estas são as gerações de
+19	Noach."	Noach."
+20	In Parashat Toldot it is called Toldot, although it is	Na Parashat Toldot ela se chama Toldot, embora seja
+21	the same opening: "These are the generations of Yitzchak." You don't call it Yitzchak,	a mesma abertura: "Estas são as gerações de Yitzchak." Não se chama Yitzchak,
+22	no. In Yitzchak's case he doesn't call it Yitzchak, he calls it	não. No caso de Yitzchak não se chama Yitzchak, chama-se
+23	Toldot. So if you call Yitzchak's Toldot, you would call	Toldot. Então, se você chama a de Yitzchak de Toldot, teria de chamar
+24	Noach's Toldot, and then call Yitzchak's... No, why must	a de Noach de Toldot, e depois chamar a de Yitzchak... Não, por que é preciso
+25	we try to understand what lies here? But every name we	tentar entender o que há aqui? Mas cada nome que
+26	find, we find its root	encontramos, encontramos a sua raiz
+27	in each parashah, and these are the names that were given. It's not clear to me	em cada parashá, e esses são os nomes que foram dados. Não me é claro
+28	what they did in the time of Ezra the Scribe, who was great among all.	o que fizeram no tempo de Ezra, o Escriba, que era grande entre todos.
+29	In the time of Ezra the Scribe they divided the Torah into three	No tempo de Ezra, o Escriba, dividiram a Torah em três
+30	years. It's not like what we do now,	anos. Não era como fazemos agora,
+31	reading and finishing the Torah in one year. In the time of	lendo e terminando a Torah em um ano. No tempo de
+32	Ezra the Scribe they read the Torah over three	Ezra, o Escriba, liam a Torah ao longo de três
+33	years. So what was Bereshit A, B, C? Noach A, B, C?	anos. Então como era Bereshit A, B, C? Noach A, B, C?
+34	Lech Lecha A, B, C? How was it divided? There are parashiot	Lech Lecha A, B, C? Como era dividido? Há parashiot
+35	that altogether are only 30 verses or 40 verses. There	que ao todo têm só 30 ou 40 versículos. Ali
+36	is nothing to divide. So that doesn't belong to this kind of	não há o que dividir. Então isso nem pertence a esse tipo de
+37	division either. So we need to know how it was	divisão. Seria preciso saber como era
+38	divided, how it worked. All these things	dividido, como funcionava. Todas essas coisas
+39	need explanation, but let us just know that these names	precisam de explicação, mas saibamos apenas que esses nomes
+40	come, as said, from the beginnings of the parashiot. From this	vêm, como foi dito, do início das parashiot. Disso
+41	also derive the names of the Chumashim. The name of the first	também derivam os nomes dos Chumashim. O nome da primeira
+42	parashah in the Chumash is called Shemot. Vayikra: "And HaShem	parashá do Chumash é Shemot. Vayikra: "E HaShem
+43	called to Moshe." The same in every place. This is	chamou Moshé." O mesmo em todo lugar. É assim
+44	how it appears.	que aparece.
+45	But the names that Chazal call the Chumashim are	Mas os nomes que os Sábios dão aos Chumashim são
+46	other names,	outros nomes,
+47	completely different. In the Gemara, for example, the Chumash Vayikra is called	totalmente diferentes. Na Guemará, por exemplo, o Chumash Vayikra é chamado
+48	Chumash Torat Kohanim. That is its name. When the Gemara	Chumash Torat Kohanim. Esse é o seu nome. Quando a Guemará
+49	wants to say something, it is found somewhere. The Gemara says,	quer dizer algo, isso se encontra em algum lugar. Diz a Guemará:
+50	for example, that we read the curses	por exemplo, que lemos as maldições
+51	in Torat Kohanim before Shavuot. So it appears	de Torat Kohanim antes de Shavuot. Assim aparece
+52	in the Gemara. We read the curses in Mishné Torah before	na Guemará. Lemos as maldições de Mishné Torá antes de
+53	Rosh HaShanah. So the names they give to Chumash Vayikra:	Rosh HaShaná. Então os nomes que dão ao Chumash Vayikra:
+54	it doesn't say we read the curses in Chumash Vayikra.	não diz que lemos as maldições do Chumash Vayikra.
+55	We read the curses in Torat Kohanim, we read	Lemos as maldições de Torat Kohanim, lemos
+56	the curses of the parashah, of the Chumash Mishné Torah. This doesn't	as maldições da parashá, do Chumash Mishné Torá. Isso não
+57	appear in the names we are used to. Chumash	aparece nos nomes a que estamos habituados. O Chumash
+58	HaPekudim, that is Chumash Bamidbar, is called Chumash	HaPekudim, isto é, o Chumash Bamidbar, é chamado Chumash
+59	HaPekudim because they are counted twice. That is why it	HaPekudim porque são contados duas vezes. Por isso ele
+60	is called also in Parashat Bamidbar, and another time Parashat	se chama também na Parashat Bamidbar, e outra vez na Parashat
+61	Pinchas. Once when Moshe Rabbenu begins to lead	Pinchas. Uma vez quando Moshé Rabenu começa a conduzi-los
+62	them in the desert: "In the desert, in the second year of your leaving the land of	no deserto: "No deserto, no segundo ano da saída da terra do
+63	Egypt." Moshe Rabbenu counts them after the sin of the	Egito." Moshé Rabenu os conta depois do pecado do
+64	Golden Calf. That is the number. And afterward, when Moshe	Bezerro de Ouro. Esse é o número. E depois, quando Moshé
+65	Rabbenu returns them, hands over his leadership	Rabenu os devolve, entrega a sua liderança
+66	to Yehoshua, he counts them another time,	a Yehoshua, ele os conta mais uma vez,
+67	like a cashier who, receiving the register, hands the register back.	como um caixa que recebe o caixa e devolve o caixa.
+68	So he counts them. These are the things that appear. Therefore	Então ele os conta. Essas são as coisas que aparecem. Por isso
+69	this Chumash is called Chumash HaPekudim.	esse Chumash é chamado Chumash HaPekudim.
+70	Bereshit has no such name, and Shemot has no name. The Ramban	Bereshit não tem esse nome, e Shemot não tem nome. O Ramban
+71	gave them names. The Ramban calls them names at	deu-lhes nomes. O Ramban lhes dá nomes no
+72	the beginning of each Chumash. The Ramban writes some things	início de cada Chumash. O Ramban escreve algumas coisas
+73	about the Chumash. So, for example, the Chumash Shemot he	sobre o Chumash. Assim, por exemplo, o Chumash Shemot ele
+74	calls the Chumash of Exile and Redemption. That is its name. As for Chumash	chama de Chumash do Exílio e da Redenção. Esse é o seu nome. Quanto ao Chumash
+75	Bereshit, it is called Sefer HaYetzirah. That is the name	Bereshit, ele se chama Sefer HaYetzirah. Esse é o nome
+76	the Ramban gives it. So each of the Chumashim has	que o Ramban lhe dá. Então cada um dos Chumashim tem
+77	some name. The very interesting thing is that the Baal	algum nome. O mais interessante é que o Baal
+78	Halachot Gedolot does not call Chumash Shemot by a name, but	Halachot Guedolot não chama o Chumash Shemot por um nome, mas
+79	gives it a number. And its name is "the second Chumash."	lhe dá um número. E o seu nome é "o segundo Chumash."
+80	That is its name. Why is it called "the second Chumash"?	Esse é o seu nome. Por que é chamado "o segundo Chumash"?
+81	The first Chumash he does not call "first Chumash." He	O primeiro Chumash ele não chama de "primeiro Chumash." Ele
+82	calls it Bereshit. Vayikra he does not call "the third	o chama de Bereshit. Vayikra ele não chama de "o terceiro
+83	Chumash." He calls it Chumash Vayikra, Torat	Chumash." Ele o chama de Chumash Vayikra, Torat
+84	Kohanim. Only the second Chumash he gives no name, but	Kohanim. Só ao segundo Chumash ele não dá nome, mas
+85	gives a number. And the reason is that this Chumash begins	dá um número. E o motivo é que esse Chumash começa
+86	with the vav of connection: "And these are the names of the children of Israel who came	com o vav de ligação: "E estes são os nomes dos filhos de Israel que vieram
+87	to Egypt, with Yaakov, each man and his household came." Where it is written	ao Egito com Yaakov, cada homem com sua casa vieram." Onde está escrito
+88	"vav," Chazal say, it adds to the previous. If it	"vav," dizem os Sábios, acrescenta ao anterior. Se
+89	is written "eileh," it cancels the previous. Rashi writes in Parashat	está escrito "eileh," cancela o anterior. Rashi escreve na Parashat
+90	Mishpatim: "These are the laws" and "And these are the laws that you shall set	Mishpatim: "Estas são as leis" e "E estas são as leis que porás
+91	before them": what these were from Sinai, so too these were from Sinai. Where	diante deles": assim como aquelas foram do Sinai, estas também foram do Sinai. Onde
+92	it is written "eileh," says Rashi, it cancels the previous. Where	está escrito "eileh," diz Rashi, cancela o anterior. Onde
+93	it is written "ve'eileh," it adds to the previous. So if	está escrito "ve'eileh," acrescenta ao anterior. Então, se
+94	it is written "And these are the names of the children of Israel," it is a sign that the	está escrito "E estes são os nomes dos filhos de Israel," é sinal de que o
+95	previous Chumash has not yet ended. If the Chumash has not yet ended,	Chumash anterior ainda não terminou. Se o Chumash ainda não terminou,
+96	how will you call it? Like Shemuel Aleph, Shemuel Bet,	como você o chamará? Como Shemuel I, Shemuel II,
+97	so there would be Bereshit Aleph, Bereshit Bet. So writes the Baal	assim haveria Bereshit I, Bereshit II. Assim escreve o Baal
+98	Halachot Gedolot, explaining why this Chumash has no	Halachot Guedolot, explicando por que esse Chumash não tem
+99	name. These names, as said, are the names we	nome. Esses nomes, como dito, são os nomes que
+100	know from the opening of the book. And it also	conhecemos pela abertura do livro. E aparece
+101	appears in another place. The other place where it appears	também em outro lugar. O outro lugar onde aparece
+102	is in the Midrash. The Midrash is found	é no Midrash. O Midrash se encontra
+103	at the beginning of Bereshit Rabbah. There Rabbi Shimon says:	no início de Bereshit Rabá. Ali diz Rabi Shimon:
+104	In the creation of the world, five times the Torah	Na criação do mundo, cinco vezes a Torah
+105	repeats the word "or" (light).	repete a palavra "or" (luz).
+106	"And Elokim said, Let there be light, and there was light": five	"E Elokim disse: Haja luz, e houve luz": cinco
+107	times the word "or" appears there in the act of Creation, and corresponding to	vezes a palavra "or" aparece ali na obra da Criação, e correspondendo
+108	the five times it appears in the act of Creation, the	às cinco vezes que aparece na obra da Criação,
+109	five Chumashei Torah were named. "Or" appears five times.	foram nomeados os cinco Chumashei Torá. "Or" aparece cinco vezes.
+110	Which five? Five times, Chazal... I will read it to you.	Quais cinco? Cinco vezes, os Sábios... Vou ler para vocês.
+111	Rabbi Shimon says: five times "or" is written,	Diz Rabi Shimon: cinco vezes está escrito "or,"
+112	corresponding to the five Chumashei Torah. "And Elokim said, Let there be light"	correspondendo aos cinco Chumashei Torá. "E Elokim disse: Haja luz"
+113	corresponds to Sefer Bereshit, in which the Holy One, Blessed Be He, was occupied	corresponde ao Sefer Bereshit, em que o Santo, Bendito Seja, se ocupou
+114	creating the world. "And there was light" corresponds to Sefer Ve'eileh	de criar o mundo. "E houve luz" corresponde ao Sefer Ve'eileh
+115	Shemot, in which Israel went out from darkness to light.	Shemot, em que Israel saiu das trevas para a luz.
+116	"And Elokim saw the light, that it was good" corresponds to Sefer Vayikra,	"E Elokim viu a luz, que era boa" corresponde ao Sefer Vayikra,
+117	which is full of many halachot. "And Elokim divided between	que é cheio de muitas halachot. "E Elokim separou entre
+118	the light and the darkness" corresponds to Sefer Bamidbar, which	a luz e as trevas" corresponde ao Sefer Bamidbar, que
+119	divides between those who left Egypt and those who entered the Land. "And	separa entre os que saíram do Egito e os que entraram na Terra. "E
+120	Elokim called the light Day" corresponds to Sefer Mishné Torah, which is	Elokim chamou à luz Dia" corresponde ao Sefer Mishné Torá, que é
+121	full of many halachot. Up to here the words written	cheio de muitas halachot. Até aqui as palavras escritas
+122	in the Midrash. So we found here four names out of what	no Midrash. Então encontramos aqui quatro nomes dos que
+123	we know: Bereshit, Shemot, Vayikra,	conhecemos: Bereshit, Shemot, Vayikra,
+124	Bamidbar, Devarim. Devarim is not found here. If you notice	Bamidbar, Devarim. Devarim não se encontra aqui. Se você reparar
+125	what is written here: "And Elokim called the light Day," it is	no que está escrito aqui: "E Elokim chamou à luz Dia," ele
+126	corresponding to Mishné Torah. It doesn't say Devarim. This Chumash	corresponde a Mishné Torá. Não diz Devarim. Esse Chumash
+127	is called Mishné Torah. That is its name. Good, this name	é chamado Mishné Torá. Esse é o seu nome. Bem, esse nome,
+128	Mishné Torah, appears in many places	Mishné Torá, aparece em vários lugares
+129	in this Chumash, the Chumash we are in now.	neste Chumash, o Chumash em que estamos agora.
+130	But we want, with your permission, to stop at one point	Mas queremos, com a licença de vocês, parar em um ponto
+131	before we continue: the word "mishneh,"	antes de continuarmos: a palavra "mishné,"
+132	"Mishné Torah."	"Mishné Torá."
+133	What does it mean? "Mishneh" is from the language of "two." That is	O que significa? "Mishné" vem da palavra "dois." Essa é
+134	the language of Mishné Torah. Right? There is a "mishneh" for Rosh	a linguagem de Mishné Torá. Certo? Há um "mishné" para Rosh
+135	Hashanah. What is a "mishneh" for Rosh Hashanah? It is the second. Yes.	HaShaná. O que é "mishné" para Rosh HaShaná? É o segundo. Sim.
+136	What is called the Mishnah, yes, that is the meaning: "mishneh" is	O que se chama Mishná, sim, esse é o sentido: "mishné" é
+137	the second. In the parashah of the week that we will read, with HaShem's help, next	o segundo. Na parashá da semana que leremos, com a ajuda de HaShem, na próxima
+138	week,	semana,
+139	the Torah speaks about appointing a king. Appointing a king.	a Torah fala sobre a nomeação de um rei. A nomeação de um rei.
+140	The Torah says: "When you come to the land and say,	A Torah diz: "Quando entrares na terra e disseres:
+141	I will set a king over me like all the nations around me,	Porei sobre mim um rei, como todas as nações ao meu redor,
+142	you shall surely set a king over yourself whom HaShem your Elokim shall choose,	certamente porás sobre ti um rei que HaShem, teu Elokim, escolher,
+143	from among your brothers you shall set a king over you; you may not put	do meio de teus irmãos porás um rei sobre ti; não poderás pôr
+144	a foreigner over you who is not your brother." You cannot	sobre ti um estrangeiro que não seja teu irmão." Você não pode
+145	take a man from outside, not take a convert; you can only	tomar um homem de fora, nem tomar um convertido; você só pode
+146	take... "Only he shall not multiply horses for himself, nor return the people	tomar... "Somente não multiplicará para si cavalos, nem fará o povo voltar
+147	to Egypt in order to multiply horses," and HaShem said to you, "You shall not	ao Egito para multiplicar cavalos," e HaShem vos disse: "Não
+148	go back that way again." Most of the horses came	voltareis mais por esse caminho." A maioria dos cavalos vinha
+149	from Egypt, and it was the center of the horse industry, in any	do Egito, e era o centro da indústria de cavalos, de qualquer
+150	case. And HaShem said not to go back there. "Neither shall he multiply	modo. E HaShem disse para não voltar lá. "Nem multiplicará
+151	wives for himself," says the Torah, "nor shall his heart turn away. Silver	para si mulheres," diz a Torah, "para que seu coração não se desvie. Prata
+152	and gold he shall not greatly multiply for himself." And here comes	e ouro não multiplicará muito para si." E aqui vem
+153	our verse: "And it shall be, when he sits on the throne of his kingdom, that he shall write	o nosso versículo: "E será que, quando se assentar no trono de seu reino, escreverá
+154	for himself a mishneh of this Torah in a book, from before the Kohanim	para si uma cópia desta Torah em um livro, diante dos sacerdotes
+155	the Levites."	levitas."
+156	We found here this word. Behold the Torah says:	Encontramos aqui esta palavra. Eis que a Torah diz:
+157	"And he shall write for himself this Mishné Torah in a book, from before	"E escreverá para si este Mishné Torá em um livro, diante dos
+158	the Kohanim the Levites. And it shall be with him, and he shall read in it all the days of	sacerdotes levitas. E estará com ele, e lerá nele todos os dias de
+159	his life, so that he may learn to fear HaShem his Elokim, to keep	sua vida, para aprender a temer HaShem, seu Elokim, para guardar
+160	all the words of this Torah and these statutes, to do them."	todas as palavras desta Torah e estes estatutos, para cumpri-los."
+161	This topic of this Mishné Torah is a topic	Este tema desse Mishné Torá é um tema
+162	found in the Gemara in Tractate Sanhedrin, page 21. There is	que se encontra na Guemará, no tratado Sanhedrin, página 21. Ali se encontra
+163	found	encontrada
+164	this topic of the Mishneh, and Rashi brings some	esta questão do Mishné, e Rashi traz parte
+165	of the words here. Rashi writes at "this Mishné Torah":	das palavras aqui. Rashi escreve em "este Mishné Torá":
+166	two Sifrei Torah, one placed in his treasure house	dois Sifrei Torá, um colocado em seu tesouro
+167	and one that goes out and comes in with him. Rashi writes here:	e um que sai e entra com ele. Rashi escreve aqui:
+168	What is the meaning of "Mishné Torah"? It means	O que significa "Mishné Torá"? Significa
+169	that he wrote for himself two Sifrei Torah, one plus	que ele escreveu para si dois Sifrei Torá, um mais
+170	another. "Mishneh" means two Torahs. Rashi writes: "this Mishné	outro. "Mishné" quer dizer duas Torot. Rashi escreve: "este Mishné
+171	Torah," two Sifrei Torah. That is, a king	Torá," dois Sifrei Torá. Isto é, um rei
+172	who has been appointed king writes for himself two Sifrei Torah.	que foi constituído rei escreve para si dois Sifrei Torá.
+173	He lacks no money, so he can take a scribe	Não lhe falta dinheiro, então pode contratar um escriba
+174	and write a Sefer Torah. And this Sefer Torah is for him two	e escrever um Sefer Torá. E esse Sefer Torá é para ele dois
+175	Sifrei Torah. Apparently, everyone asks himself,	Sifrei Torá. À primeira vista, todos se perguntam:
+176	why does he need two Sifrei Torah? He can write	por que ele precisa de dois Sifrei Torá? Ele pode escrever
+177	one and go in and out with it. Not one in the treasury	um e entrar e sair com ele. Não um no tesouro
+178	and one he goes out and in with. Why two? What happened?	e um com o qual sai e entra. Por que dois? O que aconteceu?
+179	So the Yerushalmi says, no. The second is not a	Então diz o Yerushalmi: não. O segundo não é um
+180	whole book. The second is only the Chumash Devarim, from "These are the words"	livro inteiro. O segundo é só o Chumash Devarim, de "Estas são as palavras"
+181	until "before the eyes of all Israel." That is the second Chumash. So	até "aos olhos de todo Israel." Esse é o segundo Chumash. Assim
+182	writes the Yerushalmi. Here on this verse the	escreve o Yerushalmi. Aqui, sobre este versículo, diz o
+183	Yerushalmi says two Sifrei Torah: one from "In the beginning" (Bereshit)	Yerushalmi dois Sifrei Torá: um de "No princípio" (Bereshit)
+184	until "before the eyes of all Israel," and one Mishné Torah, from "These are the	até "aos olhos de todo Israel," e um Mishné Torá, de "Estas são as
+185	words" until the end. Where is this written?	palavras" até o fim. Onde isso está escrito?
+186	It is written in another place, not here. With HaShem's help	Está escrito em outro lugar, não aqui. Com a ajuda de HaShem
+187	we will read it near the end of this Chumash, in chapter	leremos isso perto do fim deste Chumash, no capítulo
+188	31, verse 10. There the Torah speaks, with HaShem's help, when	31, versículo 10. Ali a Torah fala, com a ajuda de HaShem, quando
+189	we merit and our righteous Mashiach comes, and at the end of a	merecermos e vier o nosso Mashiach justo, e ao final de um
+190	Shemittah year everyone will go up to Jerusalem	ano de Shemitá todos subirão a Jerusalém
+191	to fulfill a mitzvah, which is one of the 613 mitzvot in the Torah,	para cumprir uma mitsvá, que é uma das 613 mitsvot da Torah,
+192	the mitzvah of Hakhel. The Holy One, Blessed Be He, commands everyone	a mitsvá de Hakhel. O Santo, Bendito Seja, ordena a todos
+193	to come and go up to Jerusalem. "And Moshe commanded them, saying:	que venham e subam a Jerusalém. "E Moshé lhes ordenou, dizendo:
+194	At the end of seven years, at the appointed time of the Shemittah year, on the festival of Sukkot,	Ao fim de sete anos, no tempo determinado do ano de Shemitá, na festa de Sucot,
+195	when all Israel comes to appear before HaShem your Elokim	quando todo Israel vier comparecer perante HaShem, teu Elokim,
+196	in the place He will choose, you shall read this Torah before all	no lugar que Ele escolher, lerás esta Torah diante de todo
+197	Israel, in their ears."	Israel, a seus ouvidos."
+198	The king must read in the ears of all the people of Israel. Everyone	O rei deve ler aos ouvidos de todo o povo de Israel. Todos
+199	goes up to Jerusalem. The Torah says, verse 12: "Gather	sobem a Jerusalém. Diz a Torah, versículo 12: "Reúne
+200	the people, the men and the women and the children, and your stranger in your gates,	o povo, os homens, as mulheres, as crianças e o estrangeiro que está em tuas portas,
+201	so that they may hear and so that they may learn and fear HaShem	para que ouçam, aprendam e temam HaShem,
+202	your Elokim, and be careful to do all the words of this	vosso Elokim, e cuidem de cumprir todas as palavras desta
+203	Torah." Which words of Torah? What does he	Torah." Quais palavras de Torah? O que ele
+204	read? The Torah says: "You shall read this Torah before	lê? Diz a Torah: "Lerás esta Torah diante de
+205	all Israel in their ears." Rashi says here: at "this	todo Israel a seus ouvidos." Diz Rashi aqui: em "esta
+206	Torah," the king would read from where? From the beginning of	Torah," o rei lia de onde? Do início de
+207	"These are the words" until "before the eyes of all Israel." There are communities,	"Estas são as palavras" até "aos olhos de todo Israel." Há comunidades,
+208	I don't know, each one according to its custom on the night of	não sei, cada uma segundo o seu costume na noite de
+209	Hoshana Rabbah. There are certain communities, I can't	Hoshana Rabá. Há certas comunidades, não sei
+210	tell you what is the custom in every place, it appears in halachah,	dizer a vocês qual é o costume em cada lugar, aparece na halachá,
+211	to read the Chumash Mishné Torah. It is the custom to read	de ler o Chumash Mishné Torá. É costume ler
+212	Mishné Torah in about two hours; it takes a bit	Mishné Torá em cerca de duas horas; leva um pouco
+213	less than that. The king also would read it, so	menos que isso. O rei também o lia, então
+214	one must be a skilled reader to read it	é preciso ser um bom leitor para lê-lo
+215	in two hours. All Israel, this was the mitzvah of Hakhel, everyone	em duas horas. Todo Israel, essa era a mitsvá de Hakhel, todos
+216	goes up to listen. What is it called? "You shall read this Torah	sobem para ouvir. Como se chama? "Lerás esta Torah
+217	before all Israel." The Kli Yakar comes and asks	diante de todo Israel." Vem o Kli Yakar e faz
+218	a very nice question. Why does it call it "this Torah"?	uma pergunta muito boa. Por que chama de "esta Torah"?
+219	Behold the Torah says here: "And it shall be with him"	Eis que a Torah diz aqui: "E estará com ele"
+220	and "he shall write for himself this Mishné Torah." What does the	e "escreverá para si este Mishné Torá." O que diz o
+221	Yerushalmi say? He wrote two Sifrei Torah. The Gemara says	Yerushalmi? Escreveu dois Sifrei Torá. Diz a Guemará
+222	two Sifrei Torah: one from Bereshit to "before the eyes of all	dois Sifrei Torá: um de Bereshit até "aos olhos de todo
+223	Israel" and one what? Mishné Torah. What is Mishné	Israel" e um o quê? Mishné Torá. O que é Mishné
+224	Torah? From "These are the words" to "the eyes of all Israel." So in total	Torá? De "Estas são as palavras" até "aos olhos de todo Israel." Então, ao todo,
+225	one Chumash. The Kli Yakar asks a very	um Chumash. O Kli Yakar faz uma pergunta muito
+226	simple question. Why do they call it "this Torah"? Call	simples. Por que chamam de "esta Torah"? Chame
+227	it "this book." It is not the Torah, it is	de "este livro." Não é a Torah, é
+228	one book out of the five Chumashei Torah. So why	um livro entre os cinco Chumashei Torá. Então por que
+229	do you call it "this book, this Sefer Torah"? It is	você chama de "este livro, este Sefer Torá"? Não é
+230	not "this Sefer Torah." For example, it is written, as the Torah writes	"este Sefer Torá." Está escrito, por exemplo, como a Torah escreve
+231	about the curses that appear in the book of Torat Kohanim, there	sobre as maldições que aparecem no livro de Torat Kohanim, ali
+232	it is written only this subject, that it is called a book. The Torah	está escrito apenas esse assunto, que é chamado livro. A Torah
+233	speaks in Parashat Nitzavim about the curses found	fala na Parashat Nitzavim sobre as maldições que se encontram
+234	in the parashah... chapter 29, verse 20. The Torah says,	na parashá... capítulo 29, versículo 20. Diz a Torah,
+235	I'll remind you. The Torah says: "If a man says, I will have peace,	vou lembrar a vocês. Diz a Torah: "Se um homem disser: Terei paz,
+236	though I walk in the stubbornness of my heart," the Torah says,	ainda que ande na teimosia do meu coração," diz a Torah,
+237	"HaShem will not be willing to forgive him, for then HaShem's anger and jealousy will smoke	"HaShem não quererá perdoá-lo, pois então a ira e o zelo de HaShem fumegarão
+238	against that man, and every curse written in this book	contra esse homem, e toda a maldição escrita neste livro
+239	will lie upon him, and HaShem will blot out his name from under heaven." What is	cairá sobre ele, e HaShem apagará o seu nome de debaixo dos céus." O que é
+240	this book? What is being discussed? This book, what is written in	este livro? De que se trata? Este livro, o que está escrito
+241	this book? The book you are reading right now.	neste livro? O livro que você está lendo agora.
+242	Which curse? "Every curse written in this book." Which	Qual maldição? "Toda a maldição escrita neste livro." Qual
+243	curse? Parashat Ki Tavo. 98 curses written in this	maldição? Parashat Ki Tavo. 98 maldições escritas neste
+244	book. Which book? This book means the book	livro. Qual livro? Este livro significa o livro
+245	of Devarim. The Kli Yakar asks, why? What happened? Why	de Devarim. O Kli Yakar pergunta: por quê? O que houve? Por que
+246	do you call this Chumash "this Sefer Torah"? What is	você chama esse Chumash de "este Sefer Torá"? O que há de
+247	special about it? The Kli Yakar writes here on this	especial nele? O Kli Yakar escreve aqui sobre este
+248	verse: Know that every Chumash is called a Chumash. This Chumash	versículo: Saiba que cada Chumash é chamado Chumash. Esse Chumash
+249	that is called Mishné Torah, why is it called Mishné Torah?	que se chama Mishné Torá, por que se chama Mishné Torá?
+250	Because all five Chumashei Torah are written in it. In this	Porque todos os cinco Chumashei Torá estão escritos nele. Neste
+251	Chumash are found all five Chumashei Torah. These are the	Chumash se encontram todos os cinco Chumashei Torá. Estas são as
+252	words the Kli Yakar writes; I can	palavras que o Kli Yakar escreve; posso
+253	read it to you inside. And what he called Torat	lê-las a vocês no texto. E o que chamou de Torat
+254	Kohanim, "sefer," and the curses of Parashat Ki Tavo he called	Kohanim, "sefer," e as maldições da Parashat Ki Tavo chamou de
+255	"Sefer HaTorah." Because all five books together	"Sefer HaTorá." Porque os cinco livros em conjunto
+256	are called "Torah," and each book by itself is called a "sefer."	são chamados "Torá," e cada livro por si é chamado "sefer."
+257	"And you shall take a Sefer Torah": Kohanim is called "sefer" because it doesn't include	"E tomarás um Sefer Torá": Kohanim é chamado "sefer" porque não inclui
+258	the whole Torah, only that it is one book out of a	toda a Torah, apenas é um livro de um
+259	number of five books. But the fifth book is called Torah because	total de cinco livros. Mas o quinto livro é chamado Torá porque
+260	it includes the whole Torah. In this Chumash, Chumash	inclui toda a Torah. Neste Chumash, o Chumash
+261	Devarim, it includes everything, because of this it is called Mishné	Devarim, ele inclui tudo, por isso é chamado Mishné
+262	Torah, as it is said: "Moshe began to explain this Torah."	Torá, como foi dito: "Moshé começou a explicar esta Torah."
+263	Where does it appear? At the beginning of this Chumash. Where?	Onde aparece? No início deste Chumash. Onde?
+264	"He explained." Moshe Rabbenu spoke this Chumash. And this is	"Explicou." Moshé Rabenu falou esse Chumash. E é isto
+265	what is said about the matter of separation: "And HaShem shall separate him for evil, according to all	que se diz sobre a separação: "E HaShem o separará para o mal, conforme todas
+266	the curses of the covenant written in this Book of the Torah." This is what	as maldições da aliança escritas neste Livro da Torah." É o que
+267	is written here. What is meant? The Chumash Devarim.	está escrito aqui. O que se quer dizer? O Chumash Devarim.
+268	Up to here his words. He continues on to explain.	Até aqui as suas palavras. Ele continua a explicar.
+269	It is written here in the singular and there in the plural.	Está escrito aqui no singular e ali no plural.
+270	He speaks at great length here, the Kli Yakar. So	Ele fala longamente aqui, o Kli Yakar. Então
+271	this Chumash is called Chumash Mishné Torah, Sefer	esse Chumash é chamado Chumash Mishné Torá, Sefer
+272	Devarim. It is written that this book, the Kohen... goes in with it	Devarim. Está escrito que esse livro, o sacerdote... entra com ele
+273	and goes out with it, walks with it. It appears in the Mishnah, there	e sai com ele, anda com ele. Aparece na Mishná, ali
+274	in Tractate Sanhedrin, page 21 side b. It writes: "He writes for himself a Sefer	no tratado Sanhedrin, página 21b. Ali escreve: "Escreve para si um Sefer
+275	Torah of his own. When he goes out to war, he takes it out with him. When he comes in,	Torá próprio. Quando sai para a guerra, leva-o consigo. Quando entra,
+276	he brings it in with him. When he sits in judgment, it is seated beside him." The same	leva-o consigo. Quando se senta em juízo, fica sentado diante dele." A mesma
+277	thing, all the time with him together. The Gemara there says,	coisa, o tempo todo com ele junto. Diz ali a Guemará:
+278	"And he makes it like a kind of amulet." He makes the Sefer	"E o faz como uma espécie de amuleto." Ele faz o Sefer
+279	Torah like a kind of amulet "and ties it on his arm." He ties it	Torá como uma espécie de amuleto "e o prende no braço." Ele o prende
+280	on the right arm. He puts this book. He ties	no braço direito. Ele põe esse livro. Prende
+281	it on the right arm, the king, as it is said: "I have set HaShem	no braço direito, o rei, como foi dito: "Coloquei HaShem
+282	before me always; because He is at my right hand, I shall not be moved." The meaning is	diante de mim sempre; porque está à minha direita, não serei abalado." O significado é
+283	that the king would tie to himself, on the hand, on the arm,	que o rei atava a si mesmo, na mão, no braço,
+284	the Sefer Torah, and it was with him all the	o Sefer Torá, e ficava com ele todos os
+285	days of his life, it must be with him all the time. If it is written	dias de sua vida, tem de estar com ele o tempo todo. Se está escrito
+286	here in the parashah	aqui na parashá
+287	that we will read next Shabbat that the king has the...	que leremos no próximo Shabat que o rei tem o...
+288	He wears all the time the Torah, all the time this Torah	Ele veste o tempo todo a Torah, o tempo todo esta Torah
+289	must be with him. If the Torah must	deve estar com ele. Se a Torah deve
+290	be with him all the time, then it is both by day and also	estar com ele o tempo todo, então é tanto de dia como também
+291	at night, and it is always sitting with him, so says the	de noite, e está sempre sentada com ele, assim diz a
+292	Torah, and he doesn't take it off even for one moment,	Torah, e ele não a tira nem por um momento,
+293	but all the time it must be attached to him. Up to	mas o tempo todo deve estar junto a ele. Até
+294	here the words. The Rambam says, but know that he does not	aqui as palavras. Diz o Rambam, mas saiba que ele não
+295	enter with it, of course, neither the bathhouse nor the	entra com isso, claro, nem na casa de banho nem no
+296	toilet, and that's it. The Rambam says he also does not sleep with	banheiro, e é isso. Diz o Rambam que ele também não dorme com
+297	it at night. At night when he goes to sleep he	isso à noite. À noite, quando vai dormir, ele
+298	takes it off. The Gemara says it is hung on him like a kind of	a tira. Diz a Guemará que fica pendurado nele como uma espécie de
+299	amulet. The Rosh on the Torah in Parashat Yitro asks, the same	amuleto. O Rosh sobre a Torah, na Parashat Yitro, pergunta, a mesma
+300	thing, "like a kind of." The Baalei HaTosafot ask, how can he	coisa, "como uma espécie de." Os Baalei HaTosafot perguntam: como pode
+301	tie it like a kind of amulet? An amulet, I don't know if	prender como uma espécie de amuleto? Um amuleto, não sei se
+302	you have ever seen, sometimes a person is given some amulet,	vocês já viram, às vezes dão a uma pessoa algum amuleto,
+303	he puts it like a chain on his neck, and they enclose	ele o põe como um colar no pescoço, e o fecham
+304	it inside a strap of leather or parchment, they sew	dentro de uma tira de couro ou pergaminho, costuram
+305	it from all sides, and what remains is that it stays	por todos os lados, e o que resta é que fica
+306	hanging on him. This is what one writes on the hand, like a kind of	pendurado nele. É o que se escreve na mão, como uma espécie de
+307	amulet, it doesn't look at all like some kind of amulet. What	amuleto, não parece nada com algum tipo de amuleto. Como
+308	goes in? Therefore the elders among the Baalei HaTosafot say,	cabe? Por isso dizem os anciãos dos Baalei HaTosafot,
+309	and the Rosh on the Torah in Parashat	e o mesmo escreve o Rosh sobre a Torah na Parashat
+310	Yitro writes the same, that he would write on parchment the Ten	Yitro, que ele escrevia em pergaminho os Dez
+311	Commandments, the Ten Commandments from "I am" until "that is your	Mandamentos, os Dez Mandamentos de "Eu sou" até "que é do teu
+312	neighbor's." It was written for him on parchment, and this was what is called	próximo." Estava escrito para ele em pergaminho, e isso era o que se chama de
+313	including the entire Sefer Torah. The Ten Commandments, that is the meaning of	abranger todo o Sefer Torá. Os Dez Mandamentos, esse é o sentido de
+314	including. So what is written, that two Sifrei Torah, one he places	abranger. Então o que está escrito, que dois Sifrei Torá, um ele coloca
+315	in his treasury, from Bereshit to "before the eyes of	em seu tesouro, de Bereshit até "aos olhos de
+316	all Israel," and another one with him, in which were written	todo Israel," e outro com ele, no qual estavam escritos
+317	the Ten Commandments, and the Ten Commandments include, in jest,	os Dez Mandamentos, e os Dez Mandamentos incluem, brincando,
+318	all 613 mitzvot. Where does it include all	todas as 613 mitsvot. Onde inclui todas
+319	613 mitzvot? If you are	as 613 mitsvot? Se vocês são
+320	Sephardim, on Shavuot they say the Azharot of	sefaraditas, em Shavuot dizem as Azharot de
+321	Rav Saadia Gaon. I don't know if you are accustomed to say	Rav Saadia Gaon. Não sei se vocês têm o costume de dizer
+322	it or not, but among the Sephardim there are the Azharot of	isso ou não, mas entre os sefaraditas há as Azharot de
+323	Rav Saadia Gaon. The Azharot of Rav Saadia Gaon are 613 mitzvot that the Rasag	Rav Saadia Gaon. As Azharot de Rav Saadia Gaon são as 613 mitsvot que o Rasag
+324	found are written from what? They are derived from	achou que estão escritas a partir de quê? Elas são extraídas
+325	the 613 mitzvot, they are found within, within the 613	das 613 mitsvot, encontram-se dentro, dentro das 613
+326	words found in the Ten Commandments. Look at Rashi	palavras que estão nos Dez Mandamentos. Vejam em Rashi,
+327	at the end of Parashat Mishpatim. Rashi writes that within the Ten	no fim da Parashat Mishpatim. Rashi escreve que dentro dos Dez
+328	Commandments are included all 613 mitzvot. So	Mandamentos estão incluídas todas as 613 mitsvot. Assim
+329	he writes. And therefore the Rosh on the Torah says, the king would	ele escreve. E por isso diz o Rosh sobre a Torah: o rei
+330	wear it like an amulet. He cannot put as an amulet the Sefer	usava como um amuleto. Ele não pode pôr como amuleto o Sefer
+331	Devarim, Sefer Devarim is thousands of words. How can	Devarim, o Sefer Devarim tem milhares de palavras. Como pode
+332	he put that in like an amulet? Rather, the meaning is	pôr isso como um amuleto? Antes, o sentido é
+333	that he wrote the Ten Commandments and this was for him like	que ele escreveu os Dez Mandamentos e isso era para ele como
+334	an amulet. Here it was not tied to him as a scroll, a scroll	um amuleto. Aqui não estava atado a ele como um rolo, um rolo
+335	on small parchment, a small scroll. Only Sefer Devarim was	em pergaminho pequeno, um rolo pequeno. Só o Sefer Devarim estava
+336	tied to him on him all the time. These are the words found	atado a ele o tempo todo. Estas são as palavras que se encontram
+337	in it. The Rambam says: he takes it off in the bathhouse,	nele. O Rambam diz: ele o tira na casa de banho,
+338	takes it off in the toilet, and does not sleep with	tira no banheiro, e não dorme com
+339	it at night. The Shaarei Teshuvah disagrees with him and says	ele à noite. O Shaarei Teshuvá discorda dele e diz:
+340	surely he sleeps with it at night. He has no doubt	certamente ele dorme com isso à noite. Não tem dúvida
+341	that he sleeps with it at night, and he has an explicit proof	de que ele dorme com isso à noite, e tem uma prova explícita
+342	that the king slept with it at night. Why? He brings a book	de que o rei dormia com isso à noite. Por quê? Ele traz um livro
+343	called Maaseh Rokeach. It is written here in the verse that the king	chamado Maasê Rokeach. Está escrito aqui no versículo que o rei
+344	walks with the Torah: "And it shall be with him, and he shall read in it all the days of	anda com a Torah: "E estará com ele, e lerá nele todos os dias de
+345	his life." If you still remember from the Haggadah of Pesach,	sua vida." Se vocês ainda lembram da Hagadá de Pessach,
+346	"the days of your life" are in this world; how do we read "the days of	"os dias da tua vida" são neste mundo; como lemos "os dias da
+347	your life"? What is meant? "All the days of your life" comes to include	tua vida"? O que se quer dizer? "Todos os dias da tua vida" vem para incluir
+348	the nights. So there are days and nights; "all the days of	as noites. Então há dias e noites; "todos os dias de
+349	his life" means also nights. So it says that also at night	sua vida" significa também noites. Então diz que também à noite
+350	it must be tied to the king. The Shaarei Teshuvah	deve estar atado ao rei. O Shaarei Teshuvá
+351	says, I have a proof, as it is written in Chazal that David	diz: tenho uma prova, pois está escrito nos Sábios que Davi,
+352	HaMelech entered the bathhouse and said, "Wow, I have	o rei, entrou na casa de banho e disse: "Uau, não tenho
+353	now no mitzvah upon me, I am naked of mitzvot."	agora nenhuma mitsvá sobre mim, estou nu de mitsvot."
+354	Since he saw that he was circumcised, he said, "Good, I have a	Como viu que era circuncidado, disse: "Bom, tenho uma
+355	mitzvah, thank HaShem, I have a mitzvah, I am circumcised, all is	mitsvá, graças a HaShem, tenho uma mitsvá, sou circuncidado, está tudo
+356	perfectly fine." But by seeing that he was circumcised,	perfeitamente bem." Mas ao ver que era circuncidado,
+357	his mind was at ease, all is perfectly fine. Up to here the words written	seu espírito se acalmou, está tudo perfeitamente bem. Até aqui as palavras escritas
+358	in the words of our Rabbis. Good, so the Shaarei Teshuvah brings	nas palavras de nossos Rabinos. Bem, então o Shaarei Teshuvá traz
+359	proof. The Rav asks, what proof? If you say that he	uma prova. O Rav pergunta: que prova? Se você diz que ele
+360	doesn't walk with a Sefer Torah at night, even when he goes	não anda com um Sefer Torá à noite, mesmo quando vai
+361	to sleep he has no mitzvah. Before he goes	dormir ele não tem nenhuma mitsvá. Antes de ir
+362	to sleep he says Shema on the bed, he has a mitzvah;	dormir ele diz o Shemá na cama, tem uma mitsvá;
+363	when he is asleep he has nothing. So why did David	quando dorme não tem nada. Então por que Davi,
+364	HaMelech, only when he entered the bathhouse,	o rei, só quando entrou na casa de banho
+365	say "I have no mitzvah on me"? If you say that at night he goes	disse "não tenho nenhuma mitsvá sobre mim"? Se você diz que à noite ele anda
+366	without anything, then at night too he doesn't have this mitzvah, so why	sem nada, então à noite também ele não tem essa mitsvá, então por que
+367	does he say only in the bathhouse he has none? It is a sign that	diz que só na casa de banho não tem nenhuma? É sinal de que
+368	at night, when he goes to sleep, he has the Sefer	à noite, quando vai dormir, ele tem o Sefer
+369	Torah tied to him. If he has the Sefer Torah tied	Torá atado a ele. Se tem o Sefer Torá atado
+370	to him, then this mitzvah is found in him. If	a ele, então essa mitsvá se encontra nele. Se
+371	this mitzvah is found in him, then it is perfectly fine, so	essa mitsvá se encontra nele, então está perfeitamente bem, então
+372	he is protected. Up to here the words. Good, we learned from here that there is	ele está protegido. Até aqui as palavras. Bem, aprendemos daqui que há
+373	one name in this Chumash that is called Mishné Torah. This name	um nome neste Chumash que se chama Mishné Torá. Este nome
+374	appears in the holy words of Chazal: that at the time the Holy One,	aparece nas santas palavras dos Sábios: que na hora em que o Santo,
+375	Blessed Be He, revealed Himself the first time to Yehoshua bin Nun,	Bendito Seja, Se revelou pela primeira vez a Yehoshua bin Nun,
+376	he sat and studied Chumash Devarim.	ele estava sentado e estudava o Chumash Devarim.
+377	He sat and studied Chumash Devarim. The Holy One, Blessed Be He, saw him holding and studying	Estava sentado e estudava o Chumash Devarim. O Santo, Bendito Seja, o viu segurando e estudando
+378	Chumash Devarim. The Holy One, Blessed Be He, said to him, "Very	o Chumash Devarim. O Santo, Bendito Seja, lhe disse: "Muito
+379	good, Yehoshua. Be strong, Yehoshua." "This book of the Torah	bem, Yehoshua. Sê forte, Yehoshua." "Este livro da Torah
+380	shall not depart from your mouth, and you shall meditate on it day and night."	não se apartará da tua boca, e meditarás nele dia e noite."
+381	A verse that appears in the book of Yehoshua, chapter 1, verse 8:	Versículo que aparece no livro de Yehoshua, capítulo 1, versículo 8:
+382	"so that you may be careful to do according to all that is written, for then you will	"para que tenhas cuidado de fazer conforme tudo o que está escrito, pois então prosperarás
+383	prosper in your way and then you will succeed." This is what He tells him.	em teu caminho e então serás bem-sucedido." Isso é o que Ele lhe diz.
+384	What is the meaning? He says, you must take and engage in this,	Qual é o sentido? Diz: tens de tomar e te ocupar disto,
+385	engage in this Sefer Torah and study it all the time.	ocupar-te deste Sefer Torá e estudá-lo o tempo todo.
+386	These are the words written in the words of our Rabbis. Good,	Estas são as palavras escritas nas palavras de nossos Rabinos. Bem,
+387	we learned from here, my friends, one thing: that Yehoshua studied in	aprendemos daqui, meus amigos, uma coisa: que Yehoshua estudava neste
+388	this Sefer Torah. The commentators ask,	Sefer Torá. Os comentaristas perguntam:
+389	why did he study in it? Why specifically Sefer Devarim?	por que ele estudava nele? Por que justamente o Sefer Devarim?
+390	Tell me, what happened? He could also have studied Sefer	Diga-me, o que aconteceu? Poderia ter estudado também o Sefer
+391	Yehoshua. By chance he studied Sefer Devarim.	Yehoshua. Por acaso estudava o Sefer Devarim.
+392	No, not so. The Rambam, in chapter 1 of Hilchot Melachim, halachah	Não, não é assim. O Rambam, no capítulo 1 de Hilchot Melachim, halachá
+393	3, writes: The Rambam: and know that Yehoshua bin Nun had the law	3, escreve: o Rambam: e saiba que Yehoshua bin Nun tinha a lei
+394	of a king. Yehoshua bin Nun was appointed to be king over	de um rei. Yehoshua bin Nun foi nomeado para ser rei sobre
+395	Israel, and since he was appointed to be king over	Israel, e como foi nomeado para ser rei sobre
+396	Israel, what Sefer Torah must he have with him all the	Israel, que Sefer Torá deve ter consigo o
+397	time? The Torah says, "And he shall write for himself this Mishné Torah	tempo todo? Diz a Torah: "E escreverá para si este Mishné Torá
+398	in a book, from before the Kohanim and the Levites." Which	em um livro, diante dos sacerdotes e dos levitas." Qual
+399	book must it be here? The Yerushalmi says, he	livro deve ser aqui? Diz o Yerushalmi: ele
+400	must wear Chumash Devarim. If he must have	deve vestir o Chumash Devarim. Se ele deve ter
+401	Chumash Devarim, it is a sign. So Yehoshua sat and studied	o Chumash Devarim, é sinal. Então Yehoshua estava sentado e estudava
+402	Chumash Devarim precisely because he had the law of	o Chumash Devarim justamente porque tinha a lei de
+403	a king, and a king wears Chumash Devarim. These are the words	rei, e o rei veste o Chumash Devarim. Estas são as palavras
+404	written in the words of our Rabbis. The Midrash continues	escritas nas palavras de nossos Rabinos. O Midrash continua
+405	and says: Not only did the Holy One, Blessed Be He, reveal Himself to Moshe	e diz: não só o Santo, Bendito Seja, Se revelou a Moshé
+406	Rabbenu, he sat and engaged in Chumash Devarim because he has	Rabenu, ele estava sentado e se ocupava do Chumash Devarim porque tem
+407	the law of a king, and it is written here, "And it shall be with him, and he shall read in it	a lei de rei, e está escrito aqui: "E estará com ele, e lerá nele
+408	all the days of his life." About what is this written? "And he shall write for himself	todos os dias de sua vida." Sobre o que isso está escrito? "E escreverá para si
+409	this Mishné Torah." So there is one book, says Rashi,	este Mishné Torá." Então há um livro, diz Rashi,
+410	that he places in his treasury, so it is in the Holy	que ele coloca em seu tesouro, ou seja, está na Arca
+411	Ark, but there is one that is with him all the time.	Sagrada, mas há um que está com ele o tempo todo.
+412	"And it shall be with him, and he shall read in it all the days of his life." So he	"E estará com ele, e lerá nele todos os dias de sua vida." Então ele
+413	reads it all the time. What does he read all the time?	o lê o tempo todo. O que ele lê o tempo todo?
+414	Chumash Devarim. Therefore the Holy One, Blessed Be He, met Yehoshua	O Chumash Devarim. Por isso o Santo, Bendito Seja, encontrou Yehoshua
+415	while he was engaged in Chumash Devarim,	quando ele se ocupava do Chumash Devarim,
+416	and therefore said to him, "Be strong, Yehoshua." "This	e por isso lhe disse: "Sê forte, Yehoshua." "Este
+417	book of the Torah shall not depart from your mouth." The Midrash continues:	livro da Torah não se apartará da tua boca." O Midrash continua:
+418	and at the time when Yehoshua said to the sun, "Sun, stand still at Givon,"	e na hora em que Yehoshua disse ao sol: "Sol, detém-te em Givon,"
+419	at the time when he stopped the sun and said, "Sun, stand still at Givon,"	na hora em que ele deteve o sol e disse: "Sol, detém-te em Givon,"
+420	he said to the sun, "Just as I have not been silent from this book,	disse ao sol: "Assim como eu não me calei deste livro,
+421	that is, I have not ceased for a single moment to study Chumash	isto é, não deixei por um só momento de estudar o Chumash
+422	Devarim, so you, and I command you to stop, you shall stop." So he said.	Devarim, assim tu, e eu te ordeno que pares, pararás." Assim ele disse.
+423	Here the Midrash says: the sun said to him, "Excuse me, with respect,	Aqui diz o Midrash: o sol lhe disse: "Com licença, com respeito,
+424	give honor to the elder. I am older than you, and do not give me	dê honra ao mais velho. Sou mais velho que você, e não me dê
+425	orders." So the sun said to Yehoshua. Why is it	ordens." Assim disse o sol a Yehoshua. Por que ele é
+426	older than you? Because the sun, as everyone knows, was created on the	mais velho que você? Porque o sol, como todos sabem, foi criado no
+427	fourth day. The Holy One, Blessed Be He, hung the luminaries	quarto dia. O Santo, Bendito Seja, pendurou os luzeiros
+428	in the firmament of the heavens, and man was created on the sixth day, in the	no firmamento dos céus, e o homem foi criado no sexto dia, na
+429	seventh hour. The sun said to him, "With all due respect, I am	sétima hora. O sol lhe disse: "Com todo o respeito, estou
+430	two days before you, there is honor, so please do not give	dois dias antes de você, há honra, então por favor não me dê
+431	orders." So said... It is known to everyone, the Tosafot in Tractate	ordens." Assim disse... É conhecido de todos o Tosafot no tratado
+432	Chullin, regarding the case of Rabbi Pinchas ben Yair	Chulin, sobre o caso de Rabi Pinchas ben Yair
+433	and the Ginai River, that Rabbi Pinchas ben Yair stood at the bank	e o rio Ginai, que Rabi Pinchas ben Yair ficou na margem
+434	of the Ginai River and said to it, "Ginai, Ginai, divide your waters for me,	do rio Ginai e lhe disse: "Ginai, Ginai, divide as tuas águas para mim,
+435	and if you do not divide for me, I decree upon you that no water shall ever	e se não dividires para mim, decreto sobre ti que nunca mais passem
+436	pass through you."	águas por ti."
+437	What did he say to it? He said to it... The Tosafot ask,	O que ele lhe disse? Disse-lhe... Pergunta o Tosafot:
+438	with whom is he speaking? The Ginai River, who represents the Ginai	com quem ele está falando? O rio Ginai, quem representa o rio
+439	River? With whom did he speak? With which drop did he speak?	Ginai? Com quem ele falou? Com qual gota ele falou?
+440	The one before him, the one that... With whom did he speak? The	Aquela diante dele, aquela que... Com quem ele falou? Diz o
+441	Tosafot say: Every place where you find speaking to the elements,	Tosafot: em todo lugar onde você encontrar fala com os elementos,
+442	the speech is with the angel appointed over them. So there	a fala é com o anjo encarregado deles. Então há
+443	is an angel appointed over the Ginai River, there is an angel appointed	um anjo encarregado do rio Ginai, há um anjo encarregado
+444	over the sun, there is an angel appointed over the moon. He says,	do sol, há um anjo encarregado da lua. Diz:
+445	you want there to be communication between them? So that is the	você quer que haja comunicação entre eles? Então essa é a
+446	communication. The same appears in the Midrash too, that Moshe	comunicação. O mesmo aparece no Midrash também, que Moshé
+447	Rabbenu, at the time Moshe Rabbenu told the sea to split,	Rabenu, na hora em que Moshé Rabenu disse ao mar que se dividisse,
+448	the sea did not want to split. It said to him, "What is this,	o mar não quis se dividir. Disse-lhe: "Que é isso,
+449	suddenly?"	de repente?"
