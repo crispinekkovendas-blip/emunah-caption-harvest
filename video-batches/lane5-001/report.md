@@ -1,7 +1,7 @@
 # lane5-001
 
-16 of 25 lessons published · 0 skipped · status **pending**
-Tokens (all agents so far): 0.0M in (mostly cache reads) · 0.00M out
+24 of 25 lessons published · 0 skipped · status **pending**
+Tokens (35 agent runs with a record, 62 refused or without record): 7.4M in (mostly cache) · 1.21M out · API-equivalent 20.44
 
 | lesson | state | detail |
 |---|---|---|
@@ -21,12 +21,12 @@ Tokens (all agents so far): 0.0M in (mostly cache reads) · 0.00M out
 | 78Ib7VCiSog | ✓ published | 1738 lines · Vaetchanan: como Moshe rezou e o poder da Torá |
 | XbKAfWM4C84 | ✓ published | 1001 lines · A santidade da Torá: aderir à luz de HaShem |
 | B_uJdiBc_kw | ✓ published | 378 lines · Quem permitiu a Moshe quebrar as Tábuas? |
-| 8G24jpjieZo | waiting | 3/4 parts |
-| I-8J-5amK4g | waiting | 0/4 parts |
-| IlFLOxi24jw | waiting | 0/3 parts |
-| fryUCgC88Vk | waiting | 0/4 parts |
-| d9QtHANcZR4 | waiting | 0/3 parts |
-| mKZwOhM-Oio | waiting | 0/3 parts |
-| jtgfhyktLHI | waiting | 0/7 parts |
-| _MJPwLzgc6I | waiting | 0/7 parts |
-| rURNkWYG4KU | waiting | 0/3 parts |
+| 8G24jpjieZo | ✗ will be redone (try 1) | 9 lines missing |
+| I-8J-5amK4g | ✓ published | 1421 lines · Parashá Re'ê: fé, guarda dos olhos e a tsedacá de Elul |
+| IlFLOxi24jw | ✓ published | 1065 lines · Parashá Re'eh: bênção, maldição e o lugar escolhido |
+| fryUCgC88Vk | ✓ published | 1625 lines · Cidades de refúgio e o mês de Elul |
+| d9QtHANcZR4 | ✓ published | 993 lines · Elul: fugir para as cidades de refúgio |
+| mKZwOhM-Oio | ✓ published | 1100 lines · Selichot, 13 Middot e o Acerto de Contas de Elul |
+| jtgfhyktLHI | ✓ published | 3009 lines · Teshuvá por amor, halachot do shofar e Selichot |
+| _MJPwLzgc6I | ✓ published | 2999 lines · Teshuvá, Rosh HaShaná e a Hatarat Nedarim |
+| rURNkWYG4KU | ✓ published | 1166 lines · Parashá Haazinu e o Seder de Yom Kipur |
