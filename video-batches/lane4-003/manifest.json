@@ -1,0 +1,263 @@
+{
+ "name": "lane4-003",
+ "lane": 4,
+ "created": "2026-10-12T15:33:34.124Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "A5RhFSMHmhw",
+   "title": "A profecia de Bilam sobre Edom e Yishmael",
+   "lines": 1029,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "sZFAD4PSPb0",
+   "title": "Selichot, as 13 Middot e a escolha do Rav de Beer Sheva",
+   "lines": 860,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PXP56IeRWTo",
+   "title": "Pidyon HaBen e o segredo da Parashá Chukat",
+   "lines": 1173,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "WUiUkvr36r0",
+   "title": "Korach: a rebelião contra a autoridade de Moshé",
+   "lines": 1225,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5r_3GhREn2c",
+   "title": "Shoftim: juízes, conselheiros e a profecia do Rebe",
+   "lines": 1580,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4ZbAFKD7AGk",
+   "title": "Kidushin como porta para a Teshuvá de Elul",
+   "lines": 1106,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "L8kUw5fgzn8",
+   "title": "Haazinu e Sucot: o Tzur, a fé e a alegria de Sucot",
+   "lines": 1601,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Blk6fgF1qYA",
+   "title": "O que define um judeu: tradição e as 13 crenças",
+   "lines": 703,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "u2VtYmipsIo",
+   "title": "Parashá Pinchas: o trabalho de depuração interior",
+   "lines": 1366,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "XXTPWmnll0E",
+   "title": "Nitsavim: como se preparar para Rosh HaShaná",
+   "lines": 627,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Qk2y43xug9Y",
+   "title": "Nitsavim, as maldições e o preparo para Rosh HaShaná",
+   "lines": 879,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "eva4oN6jq6s",
+   "title": "Aviram da terra de Israel e as cem bênçãos diárias",
+   "lines": 1118,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "uDxXHAfAm0A",
+   "title": "Como vencer o yetzer sem lutar: Ki Teitzei e a Torá",
+   "lines": 1255,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3o9biGNuhhk",
+   "title": "Parashat Chukat: você nem sempre recebe o que quer",
+   "lines": 889,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "59VMN4yeXWw",
+   "title": "Aharon HaCohen: a data da morte e o caminho da paz",
+   "lines": 1122,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "eWtBgmZa7Rw",
+   "title": "Bein HaMetsarim, Shehechiyanu, Tikun Rachel e o poder da fala",
+   "lines": 817,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "T8le-VmqPKc",
+   "title": "Lo Tassig Gvul Re'acha: dar lugar ao próximo",
+   "lines": 971,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HfU6qeBd_DA",
+   "title": "Asser Te'asser: o segredo do dízimo e da riqueza",
+   "lines": 1631,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vW4aJF_0k7Y",
+   "title": "O poder dos dias de teshuvá e as leis de Neilá",
+   "lines": 2601,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "COU45ph_T-A",
+   "title": "A verdadeira falha dos espiões: Parashá Shelach Lecha",
+   "lines": 999,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "7pLYQ0iF2RA",
+   "title": "Mei Meriva: o pecado de Moshe foi a raiva",
+   "lines": 1299,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Uy0kBMs88tc",
+   "title": "Nenhum instrumento forjado contra ti prosperará (Re'eh)",
+   "lines": 1289,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "TlZDgSDPxC8",
+   "title": "Parashá Vaerá: confiança, nomes de HaShem e gratidão",
+   "lines": 1908,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PyGA6ejAyRg",
+   "title": "Segredo da felicidade no casamento e escolha do cônjuge",
+   "lines": 1738,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ZFB5dBaTgA4",
+   "title": "Eshet Yefat Toar: a guerra contra o yetser hará",
+   "lines": 669,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "A5RhFSMHmhw.p0",
+  "A5RhFSMHmhw.p1",
+  "A5RhFSMHmhw.p2",
+  "sZFAD4PSPb0.p0",
+  "sZFAD4PSPb0.p1",
+  "PXP56IeRWTo.p0",
+  "PXP56IeRWTo.p1",
+  "PXP56IeRWTo.p2",
+  "WUiUkvr36r0.p0",
+  "WUiUkvr36r0.p1",
+  "WUiUkvr36r0.p2",
+  "5r_3GhREn2c.p0",
+  "5r_3GhREn2c.p1",
+  "5r_3GhREn2c.p2",
+  "5r_3GhREn2c.p3",
+  "4ZbAFKD7AGk.p0",
+  "4ZbAFKD7AGk.p1",
+  "4ZbAFKD7AGk.p2",
+  "L8kUw5fgzn8.p0",
+  "L8kUw5fgzn8.p1",
+  "L8kUw5fgzn8.p2",
+  "L8kUw5fgzn8.p3",
+  "Blk6fgF1qYA.p0",
+  "Blk6fgF1qYA.p1",
+  "u2VtYmipsIo.p0",
+  "u2VtYmipsIo.p1",
+  "u2VtYmipsIo.p2",
+  "u2VtYmipsIo.p3",
+  "XXTPWmnll0E.p0",
+  "XXTPWmnll0E.p1",
+  "Qk2y43xug9Y.p0",
+  "Qk2y43xug9Y.p1",
+  "eva4oN6jq6s.p0",
+  "eva4oN6jq6s.p1",
+  "eva4oN6jq6s.p2",
+  "uDxXHAfAm0A.p0",
+  "uDxXHAfAm0A.p1",
+  "uDxXHAfAm0A.p2",
+  "3o9biGNuhhk.p0",
+  "3o9biGNuhhk.p1",
+  "59VMN4yeXWw.p0",
+  "59VMN4yeXWw.p1",
+  "59VMN4yeXWw.p2",
+  "eWtBgmZa7Rw.p0",
+  "eWtBgmZa7Rw.p1",
+  "T8le-VmqPKc.p0",
+  "T8le-VmqPKc.p1",
+  "T8le-VmqPKc.p2",
+  "HfU6qeBd_DA.p0",
+  "HfU6qeBd_DA.p1",
+  "HfU6qeBd_DA.p2",
+  "HfU6qeBd_DA.p3",
+  "vW4aJF_0k7Y.p0",
+  "vW4aJF_0k7Y.p1",
+  "vW4aJF_0k7Y.p2",
+  "vW4aJF_0k7Y.p3",
+  "vW4aJF_0k7Y.p4",
+  "vW4aJF_0k7Y.p5",
+  "COU45ph_T-A.p0",
+  "COU45ph_T-A.p1",
+  "COU45ph_T-A.p2",
+  "7pLYQ0iF2RA.p0",
+  "7pLYQ0iF2RA.p1",
+  "7pLYQ0iF2RA.p2",
+  "Uy0kBMs88tc.p0",
+  "Uy0kBMs88tc.p1",
+  "Uy0kBMs88tc.p2",
+  "TlZDgSDPxC8.p0",
+  "TlZDgSDPxC8.p1",
+  "TlZDgSDPxC8.p2",
+  "TlZDgSDPxC8.p3",
+  "TlZDgSDPxC8.p4",
+  "PyGA6ejAyRg.p0",
+  "PyGA6ejAyRg.p1",
+  "PyGA6ejAyRg.p2",
+  "PyGA6ejAyRg.p3",
+  "ZFB5dBaTgA4.p0",
+  "ZFB5dBaTgA4.p1"
+ ]
+}
