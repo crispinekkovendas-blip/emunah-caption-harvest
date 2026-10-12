@@ -1,7 +1,7 @@
 # lane2-001
 
-16 of 25 lessons published · 0 skipped · status **pending**
-Tokens (all agents so far): 0.0M in (mostly cache reads) · 0.00M out
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (all agents so far): 5.8M in (mostly cache reads) · 0.90M out · API-equivalent $15.44
 
 | lesson | state | detail |
 |---|---|---|
@@ -21,12 +21,12 @@ Tokens (all agents so far): 0.0M in (mostly cache reads) · 0.00M out
 | W8o5VEZ2-rY | ✓ published | 1030 lines · Behaalotchá: a Menorá, o corpo e o mundo superior |
 | Y3IAGtOmpJg | ✓ published | 1386 lines · Parashá Behaalotcha: Shmuel, Hilel e a força da humildade |
 | uXdZU6LGTEQ | ✓ published | 669 lines · Os dez que entraram vivos no Gan Eden e a morte por beijo |
-| r2FvCsx5PZ4 | waiting | 1/5 parts |
-| gWU83Zv9WNU | waiting | 0/4 parts |
-| P4MztdfdlOs | waiting | 0/3 parts |
-| waaNIVAoqAY | waiting | 0/4 parts |
-| PZkT_D8L_CI | waiting | 0/3 parts |
-| 5uLKyXWh_S8 | waiting | 0/3 parts |
-| Yf4QANmsoYQ | waiting | 0/3 parts |
-| OBB-AYKq9x8 | waiting | 0/2 parts |
-| pD1nM_bSi90 | waiting | 0/2 parts |
+| r2FvCsx5PZ4 | ✓ published | 2182 lines · Shiur do Rav Yitzchak Yosef: Va'etchanan, Rabanit e halachot |
+| gWU83Zv9WNU | ✓ published | 1781 lines · Parashá Shoftim: juízes, oficiais e as portas do corpo |
+| P4MztdfdlOs | ✓ published | 917 lines · Selichot, shofar e as 13 Middot em Parashat Shoftim |
+| waaNIVAoqAY | ✓ published | 1636 lines · A monarquia na Torá e o Rei Mashiach |
+| PZkT_D8L_CI | ✓ published | 1253 lines · Ki Tavo: o Bait HaMikdash antes da Terra de Israel |
+| 5uLKyXWh_S8 | ✓ published | 1008 lines · Ki Tavo: Bikurim, tsiv'a no Shabat e preparo para Rosh HaShaná |
+| Yf4QANmsoYQ | ✓ published | 946 lines · Nitsavim-Vayelech: preparar-se para Rosh HaShaná |
+| OBB-AYKq9x8 | ✓ published | 623 lines · Negaim, três refeições de Shabat e o Nirgan |
+| pD1nM_bSi90 | ✓ published | 536 lines · A Essência da Torá e a Vinda da Redenção |
