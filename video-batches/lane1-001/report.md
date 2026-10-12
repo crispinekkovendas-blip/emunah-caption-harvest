@@ -1,7 +1,7 @@
 # lane1-001
 
-22 of 25 lessons published · 0 skipped · status **pending**
-Tokens (87 agent runs with a record, 5 refused or without record): 21.8M in (mostly cache) · 2.89M out · API-equivalent 49.60
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (97 agent runs with a record, 5 refused or without record): 24.5M in (mostly cache) · 3.24M out · API-equivalent 55.76
 
 | lesson | state | detail |
 |---|---|---|
@@ -19,7 +19,7 @@ Tokens (87 agent runs with a record, 5 refused or without record): 21.8M in (mos
 | NePaeqhSupE | ✓ published | 805 lines · Pinchas: Torá, Chilul HaShem e a língua dos gentios |
 | gR7MQWivYd4 | ✓ published | 1162 lines · Orações no lugar dos sacrifícios e o Bein HaMetzarim |
 | UUwM6ke0Mp0 | ✓ published | 2230 lines · Torá, vida e o papel produzido no Shabat (Matot-Masei) |
-| mP_h9CU-pVQ | ✗ will be redone (try 1) | bad line "1636	upon you." |
+| mP_h9CU-pVQ | ✓ published | 1766 lines · Ser limpos perante HaShem e Israel: a chalutsiut |
 | 4oeBYy5p6ho | ✓ published | 1109 lines · Matot-Masê: nedarim, hatarat nedarim e shalom |
 | OGbkDStSkI4 | ✓ published | 2013 lines · Devarim: a arte da tochachá e o pecado da ingratidão |
 | 4CVdx8ihV6k | ✓ published | 923 lines · Shemá, Geulá e o coração: Parashá Vaetchanan |
@@ -28,5 +28,5 @@ Tokens (87 agent runs with a record, 5 refused or without record): 21.8M in (mos
 | jF1nb2rTF_Y | ✓ published | 1450 lines · Parashá Shoftim: Eshet Chayil, portões e yetzer hará |
 | 9IFc-WtZGiY | ✓ published | 2796 lines · Selichot de Elul e Parashá Shoftim com o Rav Yitzchak Yosef |
 | yDTcRDWjANA | ✓ published | 1024 lines · Ki Teitzei: a guerra de Elul e as faíscas da alma |
-| DlN3ca0sg8U | waiting | 0/3 parts |
-| prijajvgpzE | waiting | 0/3 parts |
+| DlN3ca0sg8U | ✓ published | 1345 lines · Agradecer e clamar: a preparação para Rosh HaShaná |
+| prijajvgpzE | ✓ published | 1339 lines · Bikurim: o que corrige o pecado de Adam HaRishon |
