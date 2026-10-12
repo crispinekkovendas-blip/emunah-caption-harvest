@@ -1,0 +1,252 @@
+{
+ "name": "lane3-003",
+ "lane": 3,
+ "created": "2026-10-12T08:28:59.686Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "QJEE7w9JWAk",
+   "title": "Parashá Balak: o pássaro de Balak e o povo que habita só",
+   "lines": 1026,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "NIESmvsGgeg",
+   "title": "Matot: o exército de HaShem e o exército do povo",
+   "lines": 778,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "bbeWNz0781s",
+   "title": "Parashat Toldot: Yaakov e Esav dentro de cada um",
+   "lines": 1431,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "hi7cqDx7QH0",
+   "title": "Sofrer, recompensa e o poder dos túmulos de justos",
+   "lines": 370,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vH-FAVWafmQ",
+   "title": "Ki Teitzei: guerra, Shemitat Kesafim e Prozbul",
+   "lines": 1058,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "lEkma6YzJdk",
+   "title": "Como a profecia passou de Moshe aos 70 anciãos",
+   "lines": 728,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "82q4nLasMYw",
+   "title": "Os Maguidim: anjos que revelam segredos aos justos",
+   "lines": 366,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "edFCcA_zLYc",
+   "title": "ויגש: o tikun que o homem precisa fazer por si mesmo",
+   "lines": 639,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "cAJ-_jtOI8U",
+   "title": "Shemini: grito e clamor, sinais puros e santidade",
+   "lines": 1090,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "SxcxjvqlRfI",
+   "title": "Behaalotchá: como cada judeu faz sua alma brilhar",
+   "lines": 631,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "DWUt3PiXVS0",
+   "title": "Parashat Balak: como HaShem protege Israel sem que saibam",
+   "lines": 571,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "sxlclifU2uU",
+   "title": "Shemini: as vestes, a identidade e as Halachot do vestuário",
+   "lines": 1013,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "gkS9DaQJoeg",
+   "title": "Behaalotcha: a Menorá e os sete livros da Torá",
+   "lines": 1066,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Gl8QzPy69cg",
+   "title": "As 13 Middot de Rachamim e a hilulá do Ben Ish Chai",
+   "lines": 1234,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "TM3Y75elozA",
+   "title": "Por que Moshê não abençoou Shimon: a repreensão",
+   "lines": 1141,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "GJR0M68QQTE",
+   "title": "Emuná e bitachon: mitzvá traz mitzvá, aveirá traz aveirá",
+   "lines": 989,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "r9fKeYZF5dQ",
+   "title": "Teshuvá e a proximidade de HaShem: \"Lo rechoká hi",
+   "lines": 971,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FbcLyVIGSRQ",
+   "title": "Parashat Tzav e Parashat Parah: do coração à Redenção",
+   "lines": 1127,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Sn4e3JyLlrI",
+   "title": "Shemini e Parashat HaChodesh: a renovação de Nissan",
+   "lines": 1115,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "yeAewxd5CZ0",
+   "title": "O verdadeiro shalom de Pinchas e o shalom como completude",
+   "lines": 1499,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vrDOn5mx1zw",
+   "title": "Por que as fronteiras de Eretz Israel se alargam",
+   "lines": 932,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "MBvoDSIhxaU",
+   "title": "Parashat Terumá: o Mishkán, o Har HaBayit e o dar",
+   "lines": 755,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HXjS1Lcjq5E",
+   "title": "Vayikrá: a humildade de Moshê e a Pessach",
+   "lines": 884,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "0rMcljbQWnM",
+   "title": "Halachot de Pessach e a noite do Seder (Rav Ovadia Yosef)",
+   "lines": 1292,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5apSBUuIEbI",
+   "title": "Hashgachá pratit, alegria e preparo para Pessach",
+   "lines": 1593,
+   "parts": 4,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "QJEE7w9JWAk.p0",
+  "QJEE7w9JWAk.p1",
+  "QJEE7w9JWAk.p2",
+  "NIESmvsGgeg.p0",
+  "NIESmvsGgeg.p1",
+  "bbeWNz0781s.p0",
+  "bbeWNz0781s.p1",
+  "bbeWNz0781s.p2",
+  "bbeWNz0781s.p3",
+  "hi7cqDx7QH0.p0",
+  "vH-FAVWafmQ.p0",
+  "vH-FAVWafmQ.p1",
+  "vH-FAVWafmQ.p2",
+  "lEkma6YzJdk.p0",
+  "lEkma6YzJdk.p1",
+  "82q4nLasMYw.p0",
+  "edFCcA_zLYc.p0",
+  "edFCcA_zLYc.p1",
+  "cAJ-_jtOI8U.p0",
+  "cAJ-_jtOI8U.p1",
+  "cAJ-_jtOI8U.p2",
+  "SxcxjvqlRfI.p0",
+  "SxcxjvqlRfI.p1",
+  "DWUt3PiXVS0.p0",
+  "DWUt3PiXVS0.p1",
+  "sxlclifU2uU.p0",
+  "sxlclifU2uU.p1",
+  "sxlclifU2uU.p2",
+  "gkS9DaQJoeg.p0",
+  "gkS9DaQJoeg.p1",
+  "gkS9DaQJoeg.p2",
+  "Gl8QzPy69cg.p0",
+  "Gl8QzPy69cg.p1",
+  "Gl8QzPy69cg.p2",
+  "TM3Y75elozA.p0",
+  "TM3Y75elozA.p1",
+  "TM3Y75elozA.p2",
+  "GJR0M68QQTE.p0",
+  "GJR0M68QQTE.p1",
+  "GJR0M68QQTE.p2",
+  "r9fKeYZF5dQ.p0",
+  "r9fKeYZF5dQ.p1",
+  "r9fKeYZF5dQ.p2",
+  "FbcLyVIGSRQ.p0",
+  "FbcLyVIGSRQ.p1",
+  "FbcLyVIGSRQ.p2",
+  "Sn4e3JyLlrI.p0",
+  "Sn4e3JyLlrI.p1",
+  "Sn4e3JyLlrI.p2",
+  "yeAewxd5CZ0.p0",
+  "yeAewxd5CZ0.p1",
+  "yeAewxd5CZ0.p2",
+  "yeAewxd5CZ0.p3",
+  "vrDOn5mx1zw.p0",
+  "vrDOn5mx1zw.p1",
+  "vrDOn5mx1zw.p2",
+  "MBvoDSIhxaU.p0",
+  "MBvoDSIhxaU.p1",
+  "HXjS1Lcjq5E.p0",
+  "HXjS1Lcjq5E.p1",
+  "0rMcljbQWnM.p0",
+  "0rMcljbQWnM.p1",
+  "0rMcljbQWnM.p2",
+  "5apSBUuIEbI.p0",
+  "5apSBUuIEbI.p1",
+  "5apSBUuIEbI.p2",
+  "5apSBUuIEbI.p3"
+ ]
+}
