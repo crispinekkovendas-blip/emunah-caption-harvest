@@ -1,0 +1,266 @@
+{
+ "name": "lane4-002",
+ "lane": 4,
+ "created": "2026-10-12T10:08:57.497Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "s96hQ9SkuFg",
+   "title": "Ki Tetsê: a guerra contra o mau impulso e as mitsvot",
+   "lines": 1786,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "iih8TYvygpg",
+   "title": "Sair para a guerra com rachamim e paciência",
+   "lines": 1047,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "T_RVBriHI4s",
+   "title": "Ki Tavo: Bikurim, gratidão e as bênçãos e maldições",
+   "lines": 1811,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4CDj0azFDIE",
+   "title": "Ki Tavô: Bikurim, gratidão e a Terra de Israel",
+   "lines": 1131,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "h-s3N7zrEyU",
+   "title": "Shofar, Elul e as leis de Sucot",
+   "lines": 1354,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "P_He5sSGTCM",
+   "title": "Nitzavim: exílio e redenção, a escolha antes de Rosh HaShaná",
+   "lines": 1020,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "AHqMLZYXT14",
+   "title": "Yom Kipur e Parashá Vayelech: Teshuvá e Vidui",
+   "lines": 1361,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "kZr9kSi4vMM",
+   "title": "O segredo do Shofar e a nossa condição de filhos",
+   "lines": 836,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "DZxHqijzPYk",
+   "title": "Vezot HaBrachá: Moshé, o homem de Elokim",
+   "lines": 745,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "25l7Hdq9OSY",
+   "title": "A Importância do Estudo da Torá e as Bênçãos de Hashem",
+   "lines": 303,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "6Od9EfAGL6c",
+   "title": "Por que é tão difícil largar a vontade de carne",
+   "lines": 1108,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "TCbU0vMSWBo",
+   "title": "Comer com santidade, unhas e perfume no Shabat",
+   "lines": 1443,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "M8H_qVPYBV8",
+   "title": "Ki Tisá: Parah Adumá, Nisan, Pessach e a Torá",
+   "lines": 1862,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "kPdRyqe5FR8",
+   "title": "A tentação da carne e o lugar da vontade na Torá",
+   "lines": 1113,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2HDg94TvkuA",
+   "title": "A Presenca Divina e o Perdao no Yom Kipur",
+   "lines": 1027,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "EamUW6lwRK8",
+   "title": "Ki Tavô: a alegria da Terra de Israel e o temor a HaShem",
+   "lines": 610,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "8G06mr6xS_Q",
+   "title": "Como o homem se torna anjo: Haftará de Pinchas",
+   "lines": 916,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "X5EOOdZKpHo",
+   "title": "Acharei Mot: nada de ouro, esquecimento e o Sa'ir LaAzazel",
+   "lines": 1045,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "p3fcHHiyaY8",
+   "title": "Pinchas: \"ensinaste-nos ao descer do monte",
+   "lines": 1375,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "sM_9VjGkvMA",
+   "title": "Como se ver saindo do Egito: mensagens para a guerra",
+   "lines": 1196,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "VEyorHxfKSU",
+   "title": "Ki Tavô: perguntas sobre as maldições e os bikurim",
+   "lines": 1149,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "zS1KkGbozGk",
+   "title": "Derrota e vitória na guerra: quem as determina",
+   "lines": 742,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "q-badYLnKGU",
+   "title": "A redenção oculta dentro das maldições de Ki Tavô",
+   "lines": 1392,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "fed5hRIrH24",
+   "title": "Ki Tetzê: a guerra contra o Yêtser Hará e Elul",
+   "lines": 1115,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "A9OsHsfm-4Q",
+   "title": "A ideologia de Amalek e a luta contra o duvida",
+   "lines": 1853,
+   "parts": 5,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "s96hQ9SkuFg.p0",
+  "s96hQ9SkuFg.p1",
+  "s96hQ9SkuFg.p2",
+  "s96hQ9SkuFg.p3",
+  "iih8TYvygpg.p0",
+  "iih8TYvygpg.p1",
+  "iih8TYvygpg.p2",
+  "T_RVBriHI4s.p0",
+  "T_RVBriHI4s.p1",
+  "T_RVBriHI4s.p2",
+  "T_RVBriHI4s.p3",
+  "T_RVBriHI4s.p4",
+  "4CDj0azFDIE.p0",
+  "4CDj0azFDIE.p1",
+  "4CDj0azFDIE.p2",
+  "h-s3N7zrEyU.p0",
+  "h-s3N7zrEyU.p1",
+  "h-s3N7zrEyU.p2",
+  "h-s3N7zrEyU.p3",
+  "P_He5sSGTCM.p0",
+  "P_He5sSGTCM.p1",
+  "P_He5sSGTCM.p2",
+  "AHqMLZYXT14.p0",
+  "AHqMLZYXT14.p1",
+  "AHqMLZYXT14.p2",
+  "AHqMLZYXT14.p3",
+  "kZr9kSi4vMM.p0",
+  "kZr9kSi4vMM.p1",
+  "DZxHqijzPYk.p0",
+  "DZxHqijzPYk.p1",
+  "25l7Hdq9OSY.p0",
+  "6Od9EfAGL6c.p0",
+  "6Od9EfAGL6c.p1",
+  "6Od9EfAGL6c.p2",
+  "TCbU0vMSWBo.p0",
+  "TCbU0vMSWBo.p1",
+  "TCbU0vMSWBo.p2",
+  "TCbU0vMSWBo.p3",
+  "M8H_qVPYBV8.p0",
+  "M8H_qVPYBV8.p1",
+  "M8H_qVPYBV8.p2",
+  "M8H_qVPYBV8.p3",
+  "M8H_qVPYBV8.p4",
+  "kPdRyqe5FR8.p0",
+  "kPdRyqe5FR8.p1",
+  "kPdRyqe5FR8.p2",
+  "2HDg94TvkuA.p0",
+  "2HDg94TvkuA.p1",
+  "2HDg94TvkuA.p2",
+  "EamUW6lwRK8.p0",
+  "EamUW6lwRK8.p1",
+  "8G06mr6xS_Q.p0",
+  "8G06mr6xS_Q.p1",
+  "8G06mr6xS_Q.p2",
+  "X5EOOdZKpHo.p0",
+  "X5EOOdZKpHo.p1",
+  "X5EOOdZKpHo.p2",
+  "p3fcHHiyaY8.p0",
+  "p3fcHHiyaY8.p1",
+  "p3fcHHiyaY8.p2",
+  "p3fcHHiyaY8.p3",
+  "sM_9VjGkvMA.p0",
+  "sM_9VjGkvMA.p1",
+  "sM_9VjGkvMA.p2",
+  "VEyorHxfKSU.p0",
+  "VEyorHxfKSU.p1",
+  "VEyorHxfKSU.p2",
+  "zS1KkGbozGk.p0",
+  "zS1KkGbozGk.p1",
+  "q-badYLnKGU.p0",
+  "q-badYLnKGU.p1",
+  "q-badYLnKGU.p2",
+  "q-badYLnKGU.p3",
+  "fed5hRIrH24.p0",
+  "fed5hRIrH24.p1",
+  "fed5hRIrH24.p2",
+  "A9OsHsfm-4Q.p0",
+  "A9OsHsfm-4Q.p1",
+  "A9OsHsfm-4Q.p2",
+  "A9OsHsfm-4Q.p3",
+  "A9OsHsfm-4Q.p4"
+ ]
+}
