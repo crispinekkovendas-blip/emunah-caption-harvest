@@ -1,7 +1,7 @@
 # lane4-001
 
-24 of 25 lessons published · 0 skipped · status **pending**
-Tokens (38 agent runs with a record, 60 refused or without record): 10.2M in (mostly cache) · 1.35M out · API-equivalent 23.06
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (42 agent runs with a record, 60 refused or without record): 12.5M in (mostly cache) · 1.59M out · API-equivalent 26.90
 
 | lesson | state | detail |
 |---|---|---|
@@ -25,7 +25,7 @@ Tokens (38 agent runs with a record, 60 refused or without record): 10.2M in (mo
 | V1jkq9t1kKw | ✓ published | 1702 lines · Guardar os olhos e a fé de que nada existe além de HaShem |
 | FCD8NIaQ8s4 | ✓ published | 1036 lines · Parashat Balak: Bilam, Balak e as perguntas de Rashi |
 | oaFeq59HsYE | ✓ published | 1419 lines · Pinchas, o Beit HaMikdash e o amor em Bein HaMetsarim |
-| 7SvvOEs_vZQ | ✗ will be redone (try 1) | bad line "637" |
+| 7SvvOEs_vZQ | ✓ published | 1654 lines · Pinchas e "Você me ensinou ao descer do Sinai |
 | vpqEqtiwJG0 | ✓ published | 1808 lines · Matot-Massê: o poder da fala e a jornada da vida |
 | or0Shd3CGic | ✓ published | 1352 lines · O poder da oração: os 515 pedidos de Moshé em Va'etchanan |
 | qybrR9P-dc4 | ✓ published | 1602 lines · Parashá Ekev: o calcanhar, a provação e o shefa |
