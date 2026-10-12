@@ -1,0 +1,450 @@
+0	We are asked about the laws of Pesach,	Perguntam sobre as leis de Pessach
+1	thirty days before Pesach.	trinta dias antes de Pessach.
+2	Therefore let us say a few things about Pesach:	Por isso, digamos algumas coisas sobre Pessach:
+3	the severity of chametz.	a gravidade do chametz,
+4	Of all the prohibitions in the Torah,	entre todas as proibições da Torá.
+5	all forbidden foods are nullified in sixty parts,	Todas as proibições são anuladas em sessenta partes,
+6	but chametz on Pesach, in any amount at all,	mas o chametz em Pessach, em qualquer quantidade,
+7	even a thousand times, even ten thousand times, is not nullified. Why?	mesmo mil vezes, mesmo dez mil vezes, não é anulado. Por quê?
+8	It is an extremely severe matter,	É algo extremamente grave,
+9	for the Torah wrote the law: "It shall not be seen	pois a Torá escreveu a lei: "Não será visto
+10	and it shall not be found in all your borders."	e não se achará em todo o teu território."
+11	About no other prohibition is it written "in your borders."	Em nenhuma outra proibição está escrito "em teu território".
+12	But with chametz the Torah was strict:	Mas com o chametz a Torá foi rigorosa:
+13	that we have no chametz in our possession at any time of Pesach.	que não tenhamos chametz em nossa posse em nenhum momento de Pessach.
+14	There are two prohibitions here: "it shall not be seen" and "it shall not be found."	Há aqui duas proibições: "não será visto" e "não se achará".
+15	The Torah was strict, and chametz is forbidden	A Torá foi rigorosa, e o chametz é proibido
+16	not only for eating, but also for benefit.	não só para comer, mas também para benefício.
+17	What is benefit? Even if a person does not eat it,	O que é benefício? Mesmo que a pessoa não o coma,
+18	but smells chametz, even the smell of chametz is forbidden.	mas sinta o cheiro do chametz, até o cheiro do chametz é proibido.
+19	A person passes by a gentile bakery,	Uma pessoa passa por uma padaria de gentios,
+20	where they bake all kinds of cakes, all kinds of bread,	onde assam todo tipo de bolo, todo tipo de pão,
+21	and he smells	e sente o cheiro
+22	of their chametz.	do chametz deles.
+23	He must not go near there; he should leave at once.	Ele não deve se aproximar dali; deve sair imediatamente.
+24	If he intends to smell it, it is forbidden.	Se ele tem a intenção de sentir o cheiro, é proibido.
+25	If he does not intend to, and it is on his regular way,	Se não tem essa intenção e é o seu caminho habitual,
+26	and pleasant smells come out	e saem cheiros agradáveis
+27	from the bakery,	da padaria,
+28	he did not intend to smell, so there is no prohibition.	ele não teve a intenção de cheirar, então não há proibição.
+29	But if he intends to go near there, by the window,	Mas se ele quer se aproximar dali, perto da janela,
+30	in order to smell that scent, that is forbidden.	para sentir esse aroma, isso é proibido.
+31	Some authorities say that one must make a blessing	Alguns decisores dizem que é preciso fazer bênção
+32	on the smell of bread, like the smell of spices. The halachah is not so.	sobre o cheiro do pão, como o cheiro de especiarias. A halachá não é assim.
+33	But no one should hear that there is any benefit in it.	Mas ninguém deve ouvir que há nisso algum benefício.
+34	Certainly, a person who passes by a bakery	Certamente, uma pessoa que passa perto de uma padaria
+35	where they bake cakes and smells a good smell,	onde assam bolos e sente um cheiro bom,
+36	on Pesach must not go near there at all; he should flee from there.	em Pessach não deve se aproximar dali de modo algum; deve fugir de lá.
+37	Yes, this is forbidden for benefit.	Sim, isso é proibido em benefício.
+38	In a case where someone made, by mistake,	No caso de alguém ter feito, por engano,
+39	some bread, some loaf, some cake,	algum pão, alguma broa, algum bolo,
+40	it is forbidden to give it even to a dog;	é proibido dá-lo até a um cachorro;
+41	it is forbidden for benefit.	é proibido em benefício.
+42	He saves, instead of giving the dog other food,	Ele economiza, em vez de dar outra comida ao cachorro,
+43	and gives him this thing instead.	e dá a ele essa coisa.
+44	That too counts as benefit. It is forbidden even to a stray dog.	Isso também conta como benefício. É proibido até a um cachorro de rua.
+45	It is forbidden even to throw it into the sea where	É proibido até jogá-lo no mar, onde
+46	there are fish that would eat it; he benefits too, since	há peixes que o comeriam; ele também se beneficia, pois
+47	it did not go to waste. That bread counts as benefit; forbidden.	não foi desperdiçado. Esse pão conta como benefício; é proibido.
+48	One may not benefit from it, not smell, not taste, nothing.	Não se pode tirar proveito dele, nem cheiro, nem sabor, nada.
+49	The Torah was strict, for it is written, "Chametz shall not be eaten."	A Torá foi rigorosa, pois está escrito: "Chametz não será comido."
+50	The Torah said, "you shall not eat chametz," "chametz shall not be eaten":	A Torá disse: "não comerás chametz", "não se comerá chametz":
+51	not you shall eat, not your donkey shall eat, not	nem tu comerás, nem o teu jumento comerá, nem
+52	the gentile shall eat. Giving it as a gift to a gentile is forbidden. Once	o gentio comerá. Dá-lo de presente a um gentio é proibido. Uma vez
+53	chametz is forbidden, one may not give it to a gentile,	que o chametz é proibido, não se pode dá-lo a um gentio,
+54	nor to a dog, nor to a donkey. Why? He	nem a um cachorro, nem a um jumento. Por quê? Ele
+55	benefits a little? The gentile will be grateful to him,	se beneficia um pouco? O gentio ficará agradecido a ele,
+56	will say thank you; that counts as benefit. So the prohibition is	dirá obrigado; isso conta como benefício. Por isso a proibição é
+57	not only for eating, but also for benefit. It is written:	não só de comer, mas também de benefício. Está escrito:
+58	"There shall be no chametz."	"Não haverá chametz."
+59	Therefore our Sages were also strict about a mixture containing it.	Por isso nossos sábios também foram rigorosos com a mistura que o contém.
+60	It is forbidden for benefit, and "it shall not be seen" and "it shall not be found" apply.	É proibido em benefício, e valem "não será visto" e "não se achará".
+61	It is forbidden in our possession at all. Even a nazirite,	É proibido em nossa posse de modo algum. Até o nazireu,
+62	who vowed not to drink wine, is forbidden to drink	que fez voto de não beber vinho, é proibido de beber
+63	wine, but need not remove the wine from his possession.	vinho, mas não precisa remover o vinho de sua posse.
+64	The wine may remain in his possession, even though	O vinho pode ficar em sua posse, mesmo que
+65	he	ele
+66	is not counting it, he is used to having wine. Even so,	não o conte, ele está acostumado a ter vinho. Mesmo assim,
+67	the nazirite is forbidden to drink it, but	o nazireu é proibido de bebê-lo, mas
+68	it is permitted to keep it in his possession. But chametz, the Torah was strict:	é permitido mantê-lo em sua posse. Mas o chametz, a Torá foi rigorosa:
+69	"No chametz shall be seen with you in all your borders."	"Não se verá contigo chametz em todo o teu território."
+70	The Torah was so strict,	A Torá foi tão rigorosa,
+71	forbidding chametz, and it also carries karet: "that soul shall be cut off"	proibindo o chametz, e também há nele karet: "aquela alma será cortada"
+72	"and that soul shall be cut off from Israel."	"e aquela alma será cortada de Israel."
+73	A nazirite who has wine and drinks it transgresses	O nazireu que tem vinho e o bebe transgride
+74	his nazirite vow; he drank wine, he transgresses a negative commandment.	o seu nazireado; bebeu vinho, transgride um preceito negativo.
+75	There is no karet.	Não há karet.
+76	With chametz there is karet. That is why the Torah is so strict, and also	No chametz há karet. Por isso a Torá é tão rigorosa, e também
+77	our Sages, of blessed memory,	nossos sábios, de memória abençoada,
+78	forbade a mixture of chametz in any amount; this is rabbinic,	proibiram a mistura de chametz em qualquer quantidade; isso é rabínico,
+79	they do not say Torah law.	não se diz que seja da Torá.
+80	What difference does it make whether it is Torah law or rabbinic?	Que diferença faz se é da Torá ou rabínico?
+81	There is a difference.	Há uma diferença.
+82	If there is a doubt about something, if it is Torah law,	Se há uma dúvida sobre algo, se é da Torá,
+83	we must forbid a Torah-law doubt stringently.	devemos proibir a dúvida de lei da Torá com rigor.
+84	But if it is rabbinic, a rabbinic doubt is ruled leniently.	Mas se é rabínico, a dúvida rabínica se decide com leniência.
+85	What is a doubt? How is it a doubt?	O que é uma dúvida? Como é uma dúvida?
+86	There is a dispute in the Gemara:	Há uma discussão na Guemará:
+87	wheat that was left in water.	trigo que foi deixado na água.
+88	The water makes it leaven.	A água o fermenta.
+89	But what	Mas qual
+90	is the threshold of leavening in these wheat grains?	é o limite da fermentação nesses grãos de trigo?
+91	The threshold is: if you see that they have split,	O limite é: se você vê que eles racharam,
+92	that is a sign that they have leavened. If they have not yet split, there is not yet	isso é sinal de que fermentaram. Se ainda não racharam, ainda não há
+93	a sign that they leavened, but it is a doubtful chametz.	sinal de que fermentaram, mas é chametz duvidoso.
+94	Perhaps, had you left them a little longer, there,	Talvez, se você os deixasse um pouco mais, ali,
+95	next to a barrel of vinegar, they would have	junto a um barril de vinagre, eles teriam
+96	swelled and split.	inchado e rachado.
+97	Therefore it is called doubtful chametz. In this Gemara there is	Por isso é chamado chametz duvidoso. Nesta Guemará há
+98	a dispute	uma discussão
+99	about wheat left in water that has not split, whether	sobre trigo deixado na água que não rachou: se
+100	the status of chametz applies to it or not.	vale para ele o status de chametz ou não.
+101	The Gemara says it is a dispute. One Sage says: if they split,	A Guemará diz que é uma discussão. Um sábio diz: se racharam,
+102	they are forbidden; if they did not split, they are permitted. What does "split" mean?	são proibidos; se não racharam, são permitidos. O que significa "racharam"?
+103	Shmuel says they are permitted for eating. It is permitted to take	Shmuel diz que são permitidos para comer. É permitido pegar
+104	this wheat, make matzah from it and eat it on Pesach.	esse trigo, fazer matsá com ele e comê-lo em Pessach.
+105	And Shmuel even acted on it in practice.	E Shmuel até agiu assim na prática.
+106	Shmuel	Shmuel
+107	rules so.	decide assim.
+108	But there is a dispute about this. Some say no, anyone who	Mas há uma discussão sobre isso. Alguns dizem que não, qualquer um que
+109	takes this wheat and puts it in some	pegue esse trigo e o ponha em algum
+110	warm place where it could split, it is a doubtful chametz.	lugar quente onde possa rachar, é chametz duvidoso.
+111	The Gemara did not rule the halachah. We have the opinion of Shmuel, who acted on it,	A Guemará não decidiu a halachá. Temos a opinião de Shmuel, que agiu assim,
+112	and some authorities ruled like him. But the Rif,	e alguns decisores decidiram como ele. Mas o Rif,
+113	the Rambam and the Rosh all say that it is forbidden to eat	o Rambam e o Rosh dizem todos que é proibido comer
+114	this wheat, since it was soaked in water.	esse trigo, já que foi deixado de molho na água.
+115	It absorbed moisture. If it split, it is full chametz; if it did not	Absorveu umidade. Se rachou, é chametz completo; se não
+116	split, it is a doubtful chametz, perhaps less so, but a doubtful chametz; yes, it is forbidden	rachou, é chametz duvidoso, talvez menos, mas chametz duvidoso; sim, é proibido
+117	to eat it.	comê-lo.
+118	A person cooking a dish	Uma pessoa que cozinha um prato
+119	on Pesach.	em Pessach.
+120	Suddenly he sees that a single grain of wheat has slipped in there.	De repente vê que um grão de trigo se meteu ali.
+121	A chicken, a rooster pecks at the field, finds	Uma galinha, um galo bicando no campo, encontra
+122	a grain of wheat, and swallows it.	um grão de trigo e o engole.
+123	And he does not notice. He slaughtered the chicken on Pesach, to cook	E ele não percebe. Abateu a galinha em Pessach, para cozinhá-la.
+124	it. He comes to cook it and it is revealed:	Vai cozinhá-la e se revela:
+125	this grain of wheat that was inside its crop, its gizzard,	esse grão de trigo que estava dentro do papo, da moela,
+126	or crop, the digestive organ, fell out, and he sees that there is	ou papo, o órgão digestivo, caiu para fora, e ele vê que há
+127	a grain of wheat there. What is the law of this food? If the wheat has split,	um grão de trigo ali. Qual é a lei dessa comida? Se o trigo rachou,
+128	nothing helps, not even a thousand to nullify it.	nada adianta, nem mil para anulá-lo.
+129	No matter how much grain is in the whole dish, there is a lot,	Não importa quanto haja no prato inteiro, mesmo que haja muito,
+130	a thousand times, two thousand times, it does not help at all.	mil vezes, duas mil vezes, não adianta nada.
+131	Everything is forbidden; pour it all out.	Tudo é proibido; despeje tudo fora.
+132	But if it did not split,	Mas se não rachou,
+133	I said it is a doubtful chametz. So when you have	eu disse que é chametz duvidoso. Então, quando você tem
+134	sixty times, it is nullified; the taste gives no flavor. You have no	sessenta vezes, ele é anulado; não dá sabor. Você não tem
+135	flavor; there is already more than sixty times, so this	sabor; já há mais de sessenta vezes, então esta
+136	prohibition is a stringency of the Sages, a rabbinic doubt,	proibição é um rigor dos sábios, uma dúvida rabínica,
+137	to be ruled leniently. If it were certain chametz we would throw out everything,	a ser decidida com leniência. Se fosse chametz certo, jogaríamos tudo fora,
+138	but since it is doubtful chametz, and the Sages	mas como é chametz duvidoso, e os sábios
+139	established the prohibition for it, a doubtful case is not	estabeleceram a proibição para ele, um caso duvidoso não é
+140	Torah law. Therefore it is a rabbinic doubt, ruled leniently. So the Rambam ruled.	da Torá. Por isso é dúvida rabínica, decidida com leniência. Assim decidiu o Rambam,
+141	So the Rif and the Rosh ruled, so Maran ruled. Therefore in a case	assim decidiram o Rif e o Rosh, assim decidiu Maran. Por isso, num caso
+142	like this, may it not come and not happen. But it can happen,	assim, que não aconteça. Mas pode acontecer,
+143	a case can occur.	pode ocorrer um caso.
+144	For example, when cooking rice, if we put it	Por exemplo, ao cozinhar arroz, se pusermos
+145	when sorting the rice before Pesach, we clean it	ao selecionar o arroz antes de Pessach, nós o limpamos
+146	so that no wheat is in it, because many times	para que não haja trigo nele, porque muitas vezes
+147	a grain of wheat gets mixed in there.	um grão de trigo se mistura ali.
+148	And if it happens that one cooks rice on Pesach and sees	E se acontecer de cozinhar arroz em Pessach e ver
+149	a single grain of wheat in it, take it to	um único grão de trigo nele, deve levá-lo a
+150	a sage, who will see whether it split or did not split; he	um sábio, que verá se rachou ou não rachou; ele
+151	knows its signs.	conhece os sinais.
+152	If it split, all the rice must be poured out.	Se rachou, todo o arroz deve ser jogado fora.
+153	And if it did not split, it is a doubtful chametz,	E se não rachou, é chametz duvidoso,
+154	surely sixty times over, certainly sixty times. So	certamente sessenta vezes, com certeza sessenta vezes. Então
+155	what remains is the rabbinic prohibition, a rabbinic doubt,	resta a proibição rabínica, uma dúvida rabínica,
+156	ruled leniently. There was an incident once with the Pri Chadash.	decidida com leniência. Houve um caso uma vez com o Pri Chadash.
+157	They made a siyum on a tractate	Fizeram um siyum de um tratado,
+158	invited all the sages,	convidaram todos os sábios
+159	and wanted to honor them during Chol HaMoed. What did they make?	e quiseram honrá-los durante Chol HaMoed. O que fizeram?
+160	They made them rice. Rabbi	Fizeram arroz para eles. Rabi
+161	Avraham Ibn Ezra says:	Avraham Ibn Ezra diz:
+162	It is written that Chananya, Mishael and Azaryah did not want to eat	Está escrito que Chananya, Mishael e Azaryah não quiseram comer
+163	of the bread the gentiles gave them there,	do pão que os gentios lhes davam ali,
+164	of the bread, nor of their cooked dishes; certainly meat was not	do pão, nem dos pratos cozidos deles; carne certamente não era
+165	kosher, so they did not want to eat there. So they said to the steward,	kasher, por isso não quiseram comer ali. Então disseram ao intendente
+166	who brought them the food, that he is	que lhes trazia a comida, que ele é
+167	under private watch, the king's guard. These are men	sob vigilância particular, a guarda do rei. Esses homens
+168	who stand before the king; they must be men	estão diante do rei; precisam ser homens
+169	healthy, handsome, good, of good name. So he commanded	saudáveis, bonitos, bons, de bom nome. Por isso ele encarregou
+170	the steward to watch over them, not only their health	o intendente de cuidar deles, não só da saúde
+171	but their outward appearance, that it be fair of	mas da aparência externa, que fosse bela
+172	form and look. This is the king's guard.	de forma e aspecto. Esta é a guarda do rei.
+173	The steward came to bring them their food. What does he give?	O intendente veio trazer-lhes a comida. O que ele dá?
+174	Food that is cooked in his house. The steward said: all of it is	Comida que é cozida em sua casa. O intendente disse: tudo é
+175	forbidden, heaven forbid. We will not eat such a thing. What	proibido, que os céus nos livrem. Nós não comeremos tal coisa. O que
+176	do you want? What do you want? Give us	você quer? O que vocês querem? Nos dê
+177	legumes. We will eat legumes, and that is enough for us. No,	legumes. Comeremos legumes, e isso nos basta. Não,
+178	I would be risking my head. If I give you legumes, you will not	eu estaria arriscando minha cabeça. Se eu lhes der legumes, vocês não
+179	be so healthy, you will not make a good impression	estarão tão saudáveis, não terão boa aparência
+180	on your faces; the king will kill me. What kind of	em seus rostos; o rei me matará. Que tipo de
+181	legumes? Hummus. Give them hummus. What is	legumes? Homus. Dê-lhes homus. O que é
+182	hummus? Hummus is ... [cough]	homus? Homus é ... [pigarro]
+183	The king will kill me.	O rei me matará.
+184	He said to him: Listen, test us. For ten days give	Ele lhe disse: Escute, teste-nos. Por dez dias dê
+185	us legumes. We will cook them.	legumes. Nós os cozinharemos.
+186	What are these legumes? Rabbi	O que são esses legumes? Rabi
+187	Avraham Ibn Ezra writes: rice,	Avraham Ibn Ezra escreve: arroz,
+188	which is very healthy food for a person,	que é uma comida muito saudável para o ser humano,
+189	and all of it pleasant. So he says. He gave them rice, and they	e toda agradável. Assim ele diz. Deu-lhes arroz, e eles
+190	would cook it. He gave them	o cozinhavam. Deu-lhes
+191	a cooking pot and they cooked, and they ate. After	uma panela e eles cozinharam, e comeram. Depois de
+192	ten days he gave them a test.	dez dias ele os submeteu a um teste.
+193	He stood them in a row with those gentiles who eat	Colocou-os em fila com aqueles gentios que comem
+194	carrion and treifot.	carniça e treifot.
+195	And the appearance of these, of Chananya, Mishael and Azaryah, who were	E o aspecto desses, de Chananya, Mishael e Azaryah, que
+196	eating rice, rice, rice,	comiam arroz, arroz, arroz,
+197	their faces were very fair, more than all the others.	seus rostos estavam muito belos, mais que todos os outros.
+198	"But if so, I give up, it is over." Yes, do not	"Mas se é assim, eu desisto, acabou." Sim, não
+199	stop the rice. Go ahead, cook. But to cook it, it	parem o arroz. Vamos, cozinhem. Mas para cozinhá-lo, não
+200	need not be the same dish, the same rice,	precisa ser o mesmo prato, o mesmo arroz,
+201	white rice all the time, white rice.	arroz branco o tempo todo, arroz branco.
+202	One time they put something in it, one time they put	Uma vez põem algo nele, outra vez põem
+203	a chicken in it, each time they do something to it and sweeten	uma galinha nele, cada vez fazem algo com ele e adoçam
+204	it. So it turns out they had something to eat.	Assim, acontece que eles tinham o que comer.
+205	And the queen Esther also had the same thing, and her	E a rainha Ester também tinha a mesma coisa, e as suas
+206	maidservants too, for good; the women were brought in,	servas também, para o bem; as mulheres foram levadas,
+207	all the girls were brought in there,	todas as moças foram levadas para lá,
+208	to the king's house. She did not want, she wanted them to give her legumes like	para a casa do rei. Ela não quis, quis que lhe dessem legumes como
+209	Daniel, Chananya, Mishael and Azaryah ate. Let them give me too:	Daniel, Chananya, Mishael e Azaryah comeram. Deem a mim também:
+210	give rice. She cooks rice, rice, rice, but she knows how	dêem arroz. Ela cozinha arroz, arroz, arroz, mas sabe como
+211	to cook it. One time she makes it red, one time	cozinhá-lo. Uma vez o faz vermelho, outra vez
+212	yellow, one time green, all kinds of Yemenite ways, all kinds of	amarelo, outra vez verde, de todos os jeitos iemenitas, de todo tipo de
+213	things, and it was tasty, as Rabbi Ibn Ezra says,	coisa, e ficava gostoso, como diz Rabi Ibn Ezra,
+214	all of it pleasant.	tudo agradável.
+215	Also the Persians after us love pilaf rice, yes.	Também os persas depois de nós amam arroz pilaf, sim.
+216	They sometimes mix in carrots, pieces of carrot,	Às vezes misturam cenoura, pedaços de cenoura,
+217	to flavor it. So there is a good taste here, a pleasant taste,	para dar sabor. Então há aqui um bom sabor, um sabor agradável,
+218	this rice. So when the Pri Chadash invited	esse arroz. Então, quando o Pri Chadash convidou
+219	and they made a siyum on the tractate, for all the rabbis they made rice.	e fizeram um siyum do tratado, para todos os rabinos fizeram arroz.
+220	What did they do? Each one gets a plate	O que faziam? Cada um recebe um prato
+221	and a spoon.	e uma colher.
+222	In the middle they put a bowl full of rice, like a tower.	No meio põem uma tigela cheia de arroz, como uma torre.
+223	Each one takes with a spoon and puts his portion before	Cada um pega com a colher e põe a sua porção diante
+224	he extends his hands. One looks with a sharp eye,	de si, antes de estender as mãos. Um deles olha com olho aguçado,
+225	looks up at the top of the pyramid of rice, and there	olha para o topo da pirâmide de arroz, e ali há
+226	is a grain of wheat. Oy! He took that grain of wheat and checked it: split.	um grão de trigo. Ai! Pegou esse grão de trigo e o examinou: rachado.
+227	He checked it: a split grain of wheat.	Examinou: um grão de trigo rachado.
+228	It depends how hot it was; that also helps it split.	Depende de quão quente estava; isso também ajuda a rachar.
+229	So he said to them: "Gentlemen, do not eat rice, it is	Então disse-lhes: "Senhores, não comam arroz, é
+230	all chametz." They took it and poured it out, take it,	tudo chametz." Pegaram e despejaram, levem isso,
+231	throw it out.	joguem fora.
+232	And I do not know	E eu não sei
+233	the transgression. But from this we learned that at that time the Pri	a transgressão. Mas daí aprendemos que naquela época o Pri
+234	Chadash had the custom not to eat rice on Pesach. He said: if so, there is	Chadash tinha o costume de não comer arroz em Pessach. Ele disse: se é assim, há
+235	such a concern. His wife was a wise rebbetzin; she checked, and	tal receio. Sua esposa era uma rabanit sábia; ela examinou, e
+236	it passed under her eyes, which were tired, so she did not	passou debaixo de seus olhos, que estavam cansados, então não
+237	see it; it passed under her hand. Therefore they adopted that one does not eat	viu; passou debaixo de sua mão. Por isso adotaram que não se coma
+238	rice. That was the end.	arroz. Acabou.
+239	He placed a ban on rice. Poor thing. Done; there was nothing	Ele proibiu o arroz sob ban. Coitado. Acabou; não havia
+240	else to eat.	mais nada para comer.
+241	But	Mas
+242	Rabbi Chacham Tsvi, the rabbi of the Ashkenazim	o Rabino Chacham Tsvi, o rabino dos asquenazitas
+243	in Amsterdam. There were two communities there: a Sephardic community	em Amsterdam. Havia ali duas comunidades: uma comunidade sefaradi
+244	and an Ashkenazic community. The Sephardic community was led	e uma comunidade asquenazita. A comunidade sefaradi era liderada
+245	by Rabbi Shmuel Abuhab.	por Rabi Shmuel Abuhab.
+246	The Ashkenazic community was headed by the Gaon Chacham	A comunidade asquenazita era chefiada pelo Gaon Chacham
+247	Tsvi. He was Ashkenazi, Rabbi Tsvi. What is	Tsvi. Ele era asquenazita, Rabi Tsvi. O que é
+248	"Chacham Tsvi"? "Chacham" is said only for Sephardim. They asked	"Chacham Tsvi"? "Chacham" só se diz para sefaradim. Perguntaram-lhe:
+249	him: Why do you call yourself Chacham Tsvi? What is	Por que você se chama Chacham Tsvi? O que é
+250	Chacham Tsvi? You are Ashkenazi. Why do you write Chacham	Chacham Tsvi? Você é asquenazita. Por que escreve Chacham
+251	Tsvi? He said to them: There is, in the Gemara, two sayings:	Tsvi? Ele lhes disse: Há, na Guemará, duas máximas:
+252	"Woe to the rabbinate that buries its owner," and wisdom	"Ai do rabinato que enterra seu dono", e a sabedoria
+253	gives life to its owner. I prefer to be a chacham and not a rabbi.	dá vida ao seu dono. Prefiro ser um chacham e não um rabino.
+254	The rabbinate buries its owner; a chacham gives life to its owner. He wants to be a chacham,	O rabinato enterra seu dono; o chacham dá vida ao seu dono. Ele quer ser chacham,
+255	he does not want to be a rabbi.	não quer ser rabino.
+256	They said to him: You sign "ST." What, are you a pure Sephardi? What	Disseram-lhe: Você assina "ST". O quê, é sefaradi puro? O que
+257	is "ST"? You are Ashkenazi. Why do you sign "ST"? He said "ST" is	é "ST"? Você é asquenazita. Por que assina "ST"? Ele disse que "ST" é
+258	not purely Sephardic; it is the blessing "sefa tova," may you have	não sefaradi puro; é a bênção "sefa tova", que você tenha
+259	a good other one. That is "ST." He would sign Tsvi Ashkenazi,	outra boa. Isso é "ST". Ele assinava Tsvi Ashkenazi,
+260	"ST." For your sake I will sign Ashkenazi "Chas" and to show that I am	"ST". Por vocês assinarei Ashkenazi "Chas" e para mostrar que sou
+261	Ashkenazi, Tsvi Ashkenazi. "ST," both together, "ST,"	asquenazita, Tsvi Ashkenazi. "ST", os dois juntos, "ST",
+262	Sephardi-Ashkenazi. He used to praise greatly the customs of the Sephardim, he would	sefaradi-asquenazita. Ele elogiava muito os costumes dos sefaradim, ele
+263	go to their communities, he would visit the congregations.	ia às comunidades deles, visitava as congregações.
+264	He would say: If only the Ashkenazim would abolish	Dizia: Se ao menos os asquenazitas abolissem
+265	their customs of not eating rice on Pesach, so they would eat	seus costumes de não comer arroz em Pessach, para que comessem
+266	rice like the Sephardim; let them bring us to matzot, because	arroz como os sefaradim; que nos levem às matsot, porque
+267	one has to eat a lot of matzah.	é preciso comer muita matsá.
+268	The stomach is full; one needs to fill it. What do they eat? Matzah.	O estômago está cheio; é preciso preenchê-lo. O que comem? Matsá.
+269	Matzah is more kosher than rice? Matzah has how many laws	A matsá é mais kasher que o arroz? A matsá tem quantas leis
+270	in it, how many things! One moment you look away from it,	nela, quantas coisas! Um momento em que se desvia o olhar,
+271	it can leaven and become chametz. Rice never leavens,	ela pode fermentar e virar chametz. O arroz nunca fermenta,
+272	rice has no chametz at all, only perhaps a grain of	o arroz não tem chametz algum, só talvez um grão de
+273	wheat gets mixed in, then it splits or does not split. So he would	trigo se misture, então racha ou não racha. Por isso ele
+274	say: If only they would abolish their custom of	dizia: Se ao menos abolissem o seu costume de
+275	not eating rice and legumes on Pesach, and by this	não comer arroz e leguminosas em Pessach, e com isso
+276	they would eat more matzot. The Sephardim say matzot.	comeriam mais matsot. Os sefaradim dizem matsot.
+277	And further, there were Ashkenazim who were careful not to eat	E além disso, havia asquenazitas que tinham o cuidado de não comer
+278	sugar on Pesach.	açúcar em Pessach.
+279	The Rebbe says: our afikoman which we eat on the night of	O Rebe diz: o nosso afikoman que comemos na noite de
+280	Pesach is kosher, like their sugar, which the	Pessach é kasher, como o açúcar deles, que os
+281	Sephardim eat.	sefaradim comem.
+282	My brother, what is in sugar? Is there some chametz in sugar?	Meu irmão, o que há no açúcar? Há algum chametz no açúcar?
+283	It is sugar, what is in it?	É açúcar, o que há nele?
+284	He tried to abolish the customs but it did not help him.	Ele tentou abolir os costumes, mas não adiantou.
+285	He was alone; all the rabbis stood against him. Whoever dared	Ele estava sozinho; todos os rabinos se opuseram a ele. Quem ousasse
+286	to permit, all of them stood against him.	permitir, todos se opunham a ele.
+287	"Seven you shall make a fence," he said; may the Messiah come, perhaps the world will be	"Sete farás uma cerca", disse; que venha o Mashiach, talvez o mundo fique
+288	good.	bom.
+289	But in any case, what we say is that one must	Mas, em todo caso, o que dizemos é que é preciso
+290	clean the rice very well, sort it well,	limpar muito bem o arroz, selecioná-lo bem,
+291	calmly, with a settled mind, not immediately by handfuls, put it	com calma, com a mente tranquila, não logo aos punhados; ponha-o
+292	in a nice tray, and slowly, slowly,	numa bandeja bonita, e devagar, devagar,
+293	slowly check it, twice and three times before	devagar o verifique, duas e três vezes antes de
+294	Pesach, so that if you find a grain of wheat,	Pessach, para que, se achar um grão de trigo,
+295	you can	possa
+296	remove it, and then you will not get into problems. In any	retirá-lo, e então não entrará em problemas. Em todo
+297	case, as to the halachah,	caso, quanto à halachá,
+298	as I said, there is a difference whether the wheat	como eu disse, há diferença se o trigo
+299	has split or has not split, if it did not yet have time to split,	rachou ou não rachou, se ainda não teve tempo de rachar,
+300	it is still not chametz, not clear; it is a doubtful chametz, ruled	ainda não é chametz, não é claro; é chametz duvidoso, decidido
+301	leniently for everyone. But if it is split chametz,	com leniência para todos. Mas se é chametz rachado,
+302	all the food it entered, all of it, is forbidden to eat,	toda a comida em que entrou, toda ela, é proibida para comer,
+303	according to Maran.	segundo Maran.
+304	Even though it is forbidden to eat, if for example there is	Mesmo sendo proibida para comer, se por exemplo há
+305	a gentile neighbor, and he says, "I heard that some rice is not	um vizinho gentio, e ele diz: "Ouvi dizer que um arroz não é
+306	so pleasant for me to eat; do you want to buy	tão agradável para eu comer; você quer comprar
+307	it?" He can sell it to him, the cooked food, a little cheaper,	isso?" Ele pode vender a ele, a comida cozida, um pouco mais barato,
+308	he lowers the price a little and earns the money.	baixa um pouco o preço e ganha o dinheiro.
+309	No need to pour it into the sink. Why pour	Não precisa despejar na pia. Para que despejar
+310	it into the sink? Does the gentile pay him the price of chametz?	na pia? O gentio lhe paga o preço do chametz?
+311	He pays the price of kosher rice. What is in it? What,	Paga o preço de arroz kasher. O que há nele? O que,
+312	the wheat is taken out, they remove it, what	o trigo é retirado, removem-no, o que
+313	is left is rice. The rice only absorbed something of chametz,	sobra é arroz. O arroz só absorveu algo de chametz,
+314	so what is it? It is permitted, permitted to sell this	então o que é? É permitido, permitido vender isso
+315	to a gentile. This is the opinion of Maran, for he does not pay for the wheat,	a um gentio. Esta é a opinião de Maran, pois ele não paga pelo trigo,
+316	he pays for the rice.	paga pelo arroz.
+317	This is the opinion of Maran. The Rema is not lenient; he says one must pour out	Esta é a opinião de Maran. O Rema não é leniente; diz que é preciso despejar
+318	all the food, even to a gentile. If one sells it,	toda a comida, mesmo para um gentio. Se vender,
+319	even though one is not selling the chametz, one sells something that is	mesmo que não venda o chametz, vende algo que é
+320	kosher, nevertheless since a thousand, something forbidden	kasher, mesmo assim, como mil, algo proibido
+321	for benefit is forbidden entirely.	em benefício é proibido por completo.
+322	This is the opinion of the Rema. Of course, each one follows the custom of his fathers:	Esta é a opinião do Rema. Claro, cada um segue o costume de seus pais:
+323	the Sephardim follow Maran, the Ashkenazim follow	os sefaradim seguem Maran, os asquenazitas seguem
+324	the Rema.	o Rema.
+325	And so there are several disputes and matters about the taste	E assim há várias discussões e assuntos sobre o sabor
+326	of Pesach.	de Pessach.
+327	A taste that spoils, in all prohibitions, a spoiled taste is permitted.	Sabor que estraga, em todas as proibições, sabor estragado é permitido.
+328	For example, a pot, say, today in the morning, meat,	Por exemplo, uma panela, digamos, hoje de manhã, carne,
+329	and it came out	e saiu
+330	and they put it in the dishes and ate it; the next day	e puseram nos pratos e comeram; no dia seguinte
+331	at noon, by mistake, he cooked milk in it.	ao meio-dia, por engano, cozinhou leite nela.
+332	More than 24 hours passed; this is called a spoiled taste,	Passaram mais de 24 horas; isso se chama sabor estragado,
+333	the taste that this pot, this pot, absorbed	o sabor que essa panela, essa panela, absorveu
+334	that we cooked in it, meat, absorbed before; it had	que cozinhamos nela, carne, absorveu antes; ela tinha
+335	in it the taste of meat. After 24 hours the taste is gone,	nela o sabor de carne. Depois de 24 horas o sabor acabou,
+336	and the taste is not good. Rabbah says, if it gives a bad taste,	e o sabor não é bom. Rabá diz: se dá um mau sabor,
+337	a bad taste, not a good taste. Therefore the Torah	um mau sabor, não um bom sabor. Por isso a Torá
+338	did not forbid a spoiled taste, only a good taste. If it was the same	não proibiu o sabor estragado, só o bom sabor. Se foi no mesmo
+339	day, meat in the morning, and in the afternoon I cooked	dia, carne de manhã, e à tarde cozinhei
+340	milk in it, one would have to pour out this milk,	leite nela, seria preciso despejar esse leite,
+341	and it would be meat and milk; the taste of meat transferred into the milk,	e seria carne e leite; o sabor de carne passou para o leite,
+342	it became a taste of meat in milk, so it must be poured out.	tornou-se sabor de carne no leite, então é preciso despejar.
+343	Forbidden for benefit; meat in milk is forbidden for benefit.	Proibido em benefício; carne com leite é proibido em benefício.
+344	But after 24 hours have passed, if I cooked milk in it,	Mas depois de passadas 24 horas, se cozinhei leite nela,
+345	it is permitted to drink this milk. Why is it permitted? Because	é permitido beber esse leite. Por que é permitido? Porque
+346	it did not absorb a good taste,	ele não recebeu um bom sabor,
+347	a spoiled taste, as spoiled as it is, permitted; it is not forbidden in all	um sabor estragado, por mais estragado que seja, é permitido; não é proibido em todas
+348	prohibitions, so.	as proibições, assim.
+349	A gentile cooked in his pots carrion and treifot,	Um gentio cozinhou em suas panelas carniça e treifot,
+350	and afterwards this pot	e depois essa panela
+351	a Jewish neighbor, who happened not to have	um vizinho judeu, que por acaso não tinha
+352	a pot, and asked his neighbor, "Do you have a pot?	uma panela, e perguntou ao vizinho: "Você tem alguma panela?
+353	Give it to me for a few moments, I need to boil	Me dê por alguns momentos, preciso cozinhar
+354	some potatoes in it." And he gave it to him, and he boiled potatoes.	umas batatas nela." E ele deu, e cozinhou batatas.
+355	Potatoes.	Batatas.
+356	And it had been 24 hours already at the time of cooking, meat, meat of	E já tinham passado 24 horas na hora de cozinhar, carne, carne de
+357	carrion.	carniça.
+358	So you, are they permitted to you? At first it is forbidden,	Então você, elas são permitidas a você? A princípio é proibido,
+359	but in a case where 24 hours have already passed, they are permitted.	mas num caso em que já passaram 24 horas, são permitidas.
+360	What permits them?	O que as permite?
+361	A spoiled taste is also permitted on Pesach. What is the law?	O sabor estragado também é permitido em Pessach. Qual é a lei?
+362	Some say that a spoiled taste also counts as something, so	Alguns dizem que o sabor estragado também conta como algo, então
+363	it is forbidden; some say it is permitted. Maran ruled	é proibido; outros dizem que é permitido. Maran decidiu
+364	it is permitted even on Pesach.	que é permitido mesmo em Pessach.
+365	And according to this, chametz pots	E de acordo com isso, as panelas de chametz
+366	for a person who has a special set of dishes for Pesach, he need not	de quem tem um jogo de louças especial para Pessach, não precisa
+367	kasher them. He takes them on the eve of Pesach, all	cashrizá-las. Ele as pega na véspera de Pessach, todas
+368	the chametz pots and chametz plates, chametz spoons,	as panelas de chametz, pratos de chametz, colheres de chametz,
+369	everything, puts them in some cabinet and locks it	tudo, põe num armário e tranca
+370	until after Pesach.	até depois de Pessach.
+371	This is what most of the world does. In one case,	Isso é o que a maior parte do mundo faz. Num caso,
+372	someone forgot one pot, left it on the counter, did not put it	alguém esqueceu uma panela, deixou-a no balcão, não a pôs
+373	in the cabinet.	no armário.
+374	And in the middle of Pesach he erred, thought it was a kosher pot, took	E no meio de Pessach errou, pensou que era uma panela kasher, pegou
+375	it and cooked food in it. After he cooked the food in it,	e cozinhou comida nela. Depois de cozinhar a comida nela,
+376	a meat dish, everyone sees it is the chametz pot	um prato de carne, todos veem que é a panela de chametz
+377	that we did not kasher. What about it? But	que não cashrizamos. O que fazer? Mas
+378	more than 24 hours had passed since we cooked chametz in it. It	já tinham passado mais de 24 horas desde que cozinhamos chametz nela. Foi
+379	was on Chol HaMoed that we cooked in it, on Chol HaMoed.	em Chol HaMoed que cozinhamos nela, em Chol HaMoed.
+380	When did I cook chametz in it? Before, before Pesach, a long time ago, since	Quando cozinhei chametz nela? Antes, antes de Pessach, há muito tempo, pois
+381	more than 24 hours had gone by.	passaram mais de 24 horas.
+382	So this is called a spoiled taste. What is the law of this dish?	Então isso se chama sabor estragado. Qual é a lei desse prato?
+383	The opinion of Maran is that it is permitted to eat it on Pesach.	A opinião de Maran é que é permitido comê-lo em Pessach.
+384	The opinion of the Rema is that it is forbidden to eat it on Pesach. Why? Because	A opinião do Rema é que é proibido comê-lo em Pessach. Por quê? Porque
+385	they argue that a spoiled taste is forbidden on Pesach, it counts as something, and so	argumentam que o sabor estragado é proibido em Pessach, conta como algo, e por isso
+386	it is forbidden.	é proibido.
+387	As a practical halachah we follow the opinion of Maran,	Na halachá prática, seguimos a opinião de Maran,
+388	the Sephardim, in every single matter, follow the opinion of Maran;	os sefaradim, em cada assunto, seguem a opinião de Maran;
+389	the Ashkenazim follow the Rema.	os asquenazitas seguem o Rema.
+390	It could be that an Ashkenazi made such a mistake	Pode ser que um asquenazita tenha cometido tal erro
+391	and then it turned out it is forbidden to him, and he has a poor	e depois se viu que lhe é proibido, e ele tem um vizinho pobre
+392	Sephardic neighbor.	sefaradi.
+393	He says to him: Listen, this is tasty food, good food, a pity	Ele lhe diz: Escute, essa é uma comida saborosa, boa comida, é uma pena
+394	to pour it out. For you it is permitted.	jogá-la fora. Para você é permitido.
+395	It was a chametz pot, but more than 48	Era uma panela de chametz, mas passaram mais de 48
+396	hours passed.	horas.
+397	If so, take it, eat it; it is permitted to give	Se é assim, leve, coma; é permitido dar
+398	it to him, he will eat it. He should not say: What, a thing	a ele, que ele coma. Não deve dizer: O quê, uma coisa
+399	forbidden to you, you give me? What is wrong with it? You are	proibida para você, você me dá? O que há de errado? Você é
+400	Sephardi, you received the rulings of Maran; there is no prohibition here at all.	sefaradi, recebeu as decisões de Maran; aqui não há proibição alguma.
+401	There are things, the opposite, where Maran is strict and the Rema	Há coisas, ao contrário, em que Maran é rigoroso e o Rema
+402	lenient, and so on. So why pour this out? For what?	leniente, e assim por diante. Então para que despejar isso? Para quê?
+403	He calls his neighbor, a poor man,	Chama o seu vizinho, um coitado pobre,
+404	and says to him: This food for me is not good,	e lhe diz: Esta comida para mim não é boa,
+405	for me it is forbidden.	para mim é proibida.
+406	According to the customs of the Rema. Take it and eat it,	Segundo os costumes do Rema. Leve e coma,
+407	you are permitted; take it and eat it. Why not? It is not possible	você está autorizado; leve e coma. Por que não? Não é possível
+408	now.	agora.
+409	In the laws of Pesach there are many, many stringencies	Nas leis de Pessach há muitas, muitas restrições
+410	for the Ashkenazim, more than for the Sephardim.	para os asquenazitas, mais que para os sefaradim.
+411	The Sephardim eat kitniyot on Pesach as usual, all	Os sefaradim comem kitniyot em Pessach normalmente, todo
+412	kinds of kitniyot, such as white beans, things like that,	tipo de kitniyot, como feijão-branco, coisas assim,
+413	they eat them.	eles os comem.
+414	Hummus they eat as usual, as all year.	Homus eles comem normalmente, como o ano todo.
+415	How is it chametz? They have no chametz. But the Ashkenazim made	Como seria chametz? Eles não têm chametz. Mas os asquenazitas fizeram
+416	a fence for themselves.	uma cerca para si.
+417	Their rabbis, 600 or 700 years ago, made a stringency for them,	Seus rabinos, há 600 ou 700 anos, fizeram uma restrição para eles,
+418	because often many such things were	porque muitas vezes muitas dessas coisas eram
+419	put into sacks of flour.	postas em sacos de farinha.
+420	Yes, there is in them a little flour, forbidden flour, chametz flour, and therefore	Sim, há nelas um pouco de farinha, farinha proibida, farinha de chametz, e por isso
+421	they were careful about it.	eles se preveniram quanto a isso.
+422	They apparently saved on sacks, sacks after they had put	Provavelmente economizavam em sacos, sacos depois de terem posto
+423	flour in them, they put white beans in them, they sell it,	farinha neles, punham feijão-branco neles, vendiam,
+424	yes, that too has a mixture of chametz. So they	sim, isso também tem mistura de chametz. Por isso eles
+425	forbade, they made a fence around them, that even if there is no	proibiram, fizeram uma cerca ao redor deles, de que mesmo se não houver
+426	flour, even a clean bag, even nothing, they do not	farinha, mesmo um saco limpo, mesmo nada, eles não
+427	eat kitniyot. But Sephardim did not adopt	comem kitniyot. Mas os sefaradim não adotaram
+428	this stringency.	essa restrição.
+429	Apparently, that such a thing will not happen is far-fetched; sometimes	Provavelmente, que tal coisa não aconteça é improvável; às vezes
+430	in flour sacks, there are many sacks	em sacos de farinha, há muitos sacos
+431	that have no flour in them. So where there is no such concern,	que não têm farinha. Então, onde não há tal receio,
+432	it is permitted to eat these kitniyot on Pesach from the outset.	é permitido comer essas kitniyot em Pessach desde o início.
+433	This is a matter of custom, customs, not that it is forbidden, for it is written	Isso é questão de costume, costumes, não que seja proibido, pois está escrito
+434	explicitly that it is forbidden.	expressamente que é proibido.
+435	The basis of the matter is a custom that they adopted as a safeguard	A base da questão é um costume adotado como salvaguarda
+436	and fence, and Ashkenazim and Sephardim make a safeguard and fence.	e cerca, e asquenazitas e sefaradim fazem salvaguarda e cerca.
+437	Rice, for example.	Arroz, por exemplo.
+438	A person who says that rice is chametz is a fool, he does	Uma pessoa que diz que o arroz é chametz é tola, não
+439	not understand anything.	entende nada.
+440	Chametz applies only to the five kinds of grain: wheat,	Chametz só se aplica às cinco espécies de cereais: trigo,
+441	kusmin, shibolet shual, shifon, only to them does chametz apply;	kusmin, shibolet shual, shifon, só a elas se aplica o chametz;
+442	to rice chametz does not apply at all. The main Gemara explains this	ao arroz o chametz não se aplica de modo algum. A Guemará principal explica isso
+443	in Pesachim 114b: the Amoraim ate rice on Pesach.	em Pesachim 114b: os Amoraim comiam arroz em Pessach.
+444	If we do as the Amoraim did, is it good or bad?	Se fazemos como os Amoraim, é bom ou ruim?
+445	What is wrong with it?	O que há de errado nisso?
+446	And one who thinks rice is chametz understands nothing,	E quem pensa que o arroz é chametz não entende nada,
+447	knows nothing.	não sabe nada.
+448	Rather, as I said, it is because of a fence and safeguard, since	Mas, como eu disse, é por causa de uma cerca e salvaguarda, pois
+449	some wheat might get mixed in there, some wheat, because	algum trigo pode se misturar ali, algum trigo, porque

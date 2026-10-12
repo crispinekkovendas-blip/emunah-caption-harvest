@@ -1,0 +1,450 @@
+0	[Music]	[Música]
+1	Shavuot, may it be a good week, falls on	Shavuot, que seja uma boa semana, cai na
+2	Thursday and Friday. Tomorrow is Rosh	quinta e sexta. Amanhã é Rosh
+3	Chodesh. So these days will be	Chodesh. Assim, esses dias serão
+4	Friday. On Friday, Shabbat eve, one must prepare	sexta. Na sexta, véspera de Shabat, é preciso preparar
+5	from Yom Tov for Shabbat. Therefore Eruv Tavshilin is needed.	de Yom Tov para o Shabat. Por isso é preciso o Erúv Tavshilin.
+6	What is the matter of the Eruv Tavshilin?	Qual é a questão do Erúv Tavshilin?
+7	Let us see the words of the Gemara in Pesachim, page	Vejamos as palavras da Guemará em Pesachim, página
+8	46, a dispute between Rava and Rav	46, uma discussão entre Rava e Rav
+9	Chisda: one who bakes or cooks on Yom Tov for a weekday.	Chisda: quem assa ou cozinha em Yom Tov para um dia de semana.
+10	If on Yom Tov, even on Pesach, he baked and cooked for	Se em Yom Tov, mesmo em Pessach, assou e cozinhou para
+11	the weekday — the Torah said: "No work shall be done	o dia de semana — a Torá disse: "Nenhum trabalho será feito
+12	on them, only what every soul eats, that alone may be done for you" — for the soul of	neles, só o que toda alma come, isso apenas se fará por vós" — pela alma
+13	that day, not of tomorrow, since tomorrow he can do it for himself,	daquele dia, não a de amanhã, pois amanhã ele pode fazer para si,
+14	to bake it	para assá-lo
+15	and cook. Is this man, who transgressed	e cozinhá-lo. Esse homem, que transgrediu
+16	the Torah, liable to lashes for transgressing the verse "No	a Torá, é passível de açoites por transgredir o versículo "Nenhum
+17	work shall be done	trabalho será feito
+18	on them"? Rav Chisda says yes, he is	neles"? Rav Chisda diz que sim, ele é
+19	liable to lashes, since he transgressed the Torah: "No work shall be	passível de açoites, pois transgrediu a Torá: "Nenhum trabalho será
+20	done on them," and he did it for	feito neles", e ele o fez para
+21	the weekday, so he is liable to lashes.	o dia de semana, portanto é passível de açoites.
+22	Rava says to him: he is not liable to lashes. Why liable to lashes?	Rava lhe diz: não é passível de açoites. Por que seria?
+23	Because it is fit for guests: if, by chance, hypothetically,	Porque serve para convidados: se, por acaso, hipoteticamente,
+24	guests come before him, all the dishes he made for	chegarem convidados, todos os pratos que ele fez para
+25	tomorrow he will bring before them. It turns out	amanhã ele os servirá a eles. Resulta
+26	that what he made for the weekday is for Yom Tov. This is called	que o que fez para o dia de semana serve para Yom Tov. Isso se chama
+27	"hoil" — since guests might come, it is fit for him,	"hoil" — já que podem vir convidados, serve para ele,
+28	so he is not liable to lashes. He admits that the	então não é passível de açoites. Ele admite que os
+29	Rabbis forbade it, but there is no prohibition from the Torah here,	Sábios proibiram, mas aqui não há proibição da Torá,
+30	for lashes, since there is this "hoil," and this "hoil"	de açoites, pois existe esse "hoil", e esse "hoil"
+31	lowers it from	o tira
+32	Torah law. These are Rava's words, and the halachah follows Rava: no lashes,	da lei da Torá. Estas são as palavras de Rava, e a halachá segue Rava: sem açoites,
+33	because we say "hoil, guests might come."	porque dizemos "hoil, podem vir convidados."
+34	In the Tosafot on tractate Shabbat, s.v.	Nos Tosafot do tratado de Shabat, s.v.
+35	they ask there:	eles perguntam ali:
+36	It says: Rabbi Eliezer said, one who removes honey on Yom Tov,	Está escrito: disse Rabi Eliezer, quem retira mel em Yom Tov,
+37	on Yom Tov, receives	em Yom Tov, recebe
+38	the forty lashes. Removing honey for him is like uprooting	os quarenta açoites. Retirar o mel é, para ele, como arrancar
+39	from the attached; if he removes them he is liable, he receives the forty,	do que está preso ao chão; se os retira é passível, recebe os quarenta,
+40	like one who uproots. Tosafot ask simply: why? This is food for the soul, a matter	como quem arranca. Os Tosafot perguntam: por quê? É alimento para a alma, algo
+41	that is permitted on that very day. A matter of food for the soul is permitted	que é permitido naquele mesmo dia. Alimento para a alma é permitido
+42	on Yom Tov, so how does Rabbi Eliezer say he receives the forty?	em Yom Tov; então como Rabi Eliezer diz que recebe os quarenta?
+43	That it is liable to lashes.	Que é passível de açoites.
+44	And furthermore, here comes Rava and says we say "hoil." So also	E mais: eis que Rava diz que dizemos "hoil." Então também
+45	here let us say "hoil": guests might come, let him give them	aqui digamos "hoil": podem vir convidados, que ele lhes dê
+46	to honor them with honey, and they will eat this honey. The Tosafot say	para honrá-los com mel, e comerão esse mel. Os Tosafot dizem
+47	there:	ali:
+48	it speaks of one who removes this honey	trata-se de quem retira esse mel
+49	close to nightfall, close to the stars,	perto do anoitecer, perto das estrelas,
+50	close to dark. But if guests come, they will not have time	perto da escuridão. Mas se vierem convidados, não terão tempo
+51	to eat; he already knows that he did these things at a time	de comer; ele já sabe que fez essas coisas numa hora
+52	when it was not fit for guests. Had he done it	em que não servia para convidados. Se tivesse feito
+53	while it was still day, guests could come and eat	ainda de dia, os convidados poderiam vir e comer
+54	this honey. Good, that is where	esse mel. Bom, é nesse caso que
+55	"hoil" applies. But when he did it close to dark, close to	se aplica "hoil." Mas quando o fez perto da escuridão, perto das
+56	the stars, by the time guests come it is already late, how	estrelas, quando os convidados chegarem já é tarde, como
+57	could they eat, what could they eat at night? It turns out he did	poderiam comer, o que poderiam comer à noite? Resulta que fez
+58	this for the weekday, so he is liable to lashes. That is, now there is no	isso para o dia de semana, portanto é passível de açoites. Ou seja, agora não há
+59	difficulty from Rava, who says "hoil." Here it says	dificuldade vinda de Rava, que diz "hoil." Aqui diz
+60	that he receives the forty; how can you say he is not flogged? No,	que recebe os quarenta; como se diz que não é açoitado? Não,
+61	it is not the same. I speak of one who cooked while it was still day on Yom Tov,	não é o mesmo. Falo de quem cozinhou ainda de dia em Yom Tov,
+62	at the seventh hour, on Yom Tov, close to evening, not yet	na sétima hora, em Yom Tov, perto da noite, ainda não
+63	evening. If guests come, he can serve them	noite. Se vierem convidados, ele pode servi-los
+64	to eat.	para comer.
+65	And Rabbi Eliezer speaks of when it was close to dark,	E Rabi Eliezer fala de quando foi perto da escuridão,
+66	close to the stars, when there was no time to eat. It turns out	perto das estrelas, sem tempo para comer. Resulta
+67	that he made it for the weekday; he did not	que fez para o dia de semana; não
+68	make it fit even for guests. So we	fez algo que servisse nem para convidados. Assim nós
+69	learn now that Rava, who said "hoil," what is this	aprendemos agora que Rava, que disse "hoil", o que é esse
+70	"hoil"? Specifically where he can do it while it is still	"hoil"? Especificamente quando ele pode fazê-lo ainda
+71	day. He does it while it is still day, guests can come	de dia. Faz ainda de dia, os convidados podem vir
+72	and eat it and enjoy it on Yom Tov.	e comer, desfrutar disso em Yom Tov.
+73	Then it is in general food for the soul. But if he does it	Então é, em geral, alimento para a alma. Mas se o faz
+74	close to dark, he too admits, like Rav Chisda, that it is	perto da escuridão, ele também admite, como Rav Chisda, que é
+75	liable to lashes.	passível de açoites.
+76	Why? Because he did it close to dark. If so, this is the Torah,	Por quê? Porque o fez perto da escuridão. Sendo assim, isso é a Torá,
+77	it is impossible: even if guests come, "hoil," say,	não é possível: mesmo que venham convidados, "hoil", digamos,
+78	bread, they could not eat it. They could on a weekday. So	pão, não poderiam comê-lo. Poderiam num dia de semana. Então
+79	this is from Yom Tov	isso é de Yom Tov
+80	to the weekday. Until Rava, even	para o dia de semana. Até Rava, mesmo
+81	Rav Chisda: the Sages instituted that whoever wants to cook from Yom Tov	Rav Chisda: os Sábios instituíram que quem quiser cozinhar de Yom Tov
+82	for Shabbat, with one day Erev Shabbat and one day Yom Tov, then	para Shabat, com um dia de véspera de Shabat e um dia de Yom Tov, então
+83	he must make an Eruv Tavshilin. And Rava says: but as for me, I	deve fazer um Erúv Tavshilin. E Rava diz: mas eu,
+84	say that whoever cooks on Yom Tov for a weekday, it is not forbidden	digo que quem cozinha em Yom Tov para um dia de semana, isso não é proibido
+85	by the Torah, only	pela Torá, apenas
+86	by the Rabbis. So the Rabbis forbade, and the Rabbis permitted. An act of	pelos Sábios. Então os Sábios proibiram, e os Sábios permitiram. Uma ação do
+87	Tavshilin is permitted: the mouth that forbade is the mouth that permitted. But you	Tavshilin é permitida: a boca que proibiu é a boca que permitiu. Mas você
+88	say that liability to lashes is from the Torah. So what good does it do	diz que ser passível de açoites vem da Torá. Então de que adianta
+89	that a person cooks on Yom Tov for Shabbat? What does he do? What	que alguém cozinhe em Yom Tov para o Shabat? O que ele faz? Que
+90	good does the Eruv Tavshilin do? The Sages make an Eruv Tavshilin,	proveito traz o Erúv Tavshilin? Os Sábios fazem um Erúv Tavshilin,
+91	a Rabbinic enactment. Does it permit something that is from the Torah? You say	uma norma rabínica. Ele permite algo que vem da Torá? Você diz
+92	that it is from the Torah; how is it permitted, then, to bake from Yom Tov for Shabbat?	que é da Torá; como é permitido, então, assar de Yom Tov para o Shabat?
+93	He said to him:	Ele lhe disse:
+94	my friend, all the needs of Yom Tov are done for	meu amigo, todas as necessidades de Yom Tov são feitas para
+95	the needs of Shabbat. Shabbat's holiness is more severe. If the Torah	as necessidades do Shabat. A santidade do Shabat é mais severa. Se a Torá
+96	permitted on Yom Tov what is for the need of Yom Tov itself,	permitiu em Yom Tov o que é para a necessidade do próprio Yom Tov,
+97	all the more so it permitted for the honor of Shabbat. Because for me	com mais razão permitiu para a honra do Shabat. Pois para mim
+98	there is no difficulty at all: I speak of Yom Tov to a weekday, not from Yom	não há dificuldade alguma: falo de Yom Tov para um dia de semana, não de Yom
+99	Tov to Shabbat. From Yom Tov to Shabbat it is permitted to take the challah,	Tov para o Shabat. De Yom Tov para o Shabat é permitido preparar a chalá,
+100	it is permitted. Now we learned that Rav Chisda has this matter	é permitido. Agora aprendemos que Rav Chisda tem essa regra
+101	not because it is fit for guests, but as long as he	não porque serve para convidados, mas enquanto ele
+102	cooks on Yom Tov, the needs of Shabbat are done on Yom Tov.	cozinha em Yom Tov, as necessidades do Shabat se fazem em Yom Tov.
+103	So it is.	Assim é.
+104	In general, Tosafot on tractate Beitzah, page 2, say that even	Em geral, os Tosafot do tratado de Beitzá, página 2, dizem que embora
+105	though the Gemara indeed expounded	a Guemará de fato tenha interpretado
+106	"And on the sixth day they shall prepare what they bring in,"	"E ao sexto dia prepararão o que trouxerem",
+107	what	o que
+108	they bring — a weekday prepares for Shabbat, a weekday prepares for Yom Tov,	trouxerem — o dia comum prepara para o Shabat, o dia comum prepara para Yom Tov,
+109	and Yom Tov does not prepare	e Yom Tov não prepara
+110	for Shabbat. They said it is forbidden: one needs an Eruv Tavshilin,	para o Shabat. Disseram que é proibido: é preciso um Erúv Tavshilin,
+111	from the Torah. So how does this agree with the Gemara? He says	pela Torá. Então como isso concorda com a Guemará? Ele diz:
+112	it is not difficult: there they speak of an egg that was laid on	não é difícil: ali falam de um ovo que nasceu em
+113	Yom Tov.	Yom Tov.
+114	For this preparation, it is born, a thing that did not exist in the world,	Para esse preparo: nasceu algo que não existia no mundo,
+115	there was no such preparation in the world. It needs a weekday preparing	não havia no mundo tal preparo. Precisa-se de um dia comum preparando
+116	for Yom Tov, a weekday preparing for Shabbat, but not Yom Tov	para Yom Tov, um dia comum preparando para o Shabat, mas não Yom Tov
+117	preparing for Shabbat. But a thing that already existed, you just cook	preparando para o Shabat. Mas algo que já existia, você apenas cozinha
+118	it, you fix it — that is nothing,	e o aprimora — isso não é nada,
+119	it is not taken as preparation at all; it already exists. Only	não se toma como preparação; já existe. Apenas
+120	you need to change its essence: it was raw,	você precisa mudar sua essência: era cru,
+121	kneaded, you made it roasted, you made it cooked.	você o fez assado, você o fez cozido.
+122	That is another matter; it exists in the world. So it is written,	Isso é outra questão; existe no mundo. Assim está escrito,
+123	"nine" the ...	"nove" ...
+124	Now a person who makes an Eruv	Agora, uma pessoa que faz um Erúv
+125	Tavshilin, cooking from Yom Tov for Shabbat by means of the Eruv	Tavshilin, cozinhando de Yom Tov para o Shabat por meio do Erúv
+126	Tavshilin — according to Rava, it needs to be "hoil,"	Tavshilin — segundo Rava, precisa ser "hoil",
+127	for it is forbidden only by Rabbinic law, only for the Rabbis. Why?	pois é proibido apenas pelos Sábios, apenas pelos Rabinos. Por quê?
+128	Because of "hoil."	Por causa do "hoil."
+129	Yes, these are Rabbinic: the mouth that forbade is the mouth that permitted. The	Sim, são normas rabínicas: a boca que proibiu é a boca que permitiu. O
+130	Eruv Tavshilin permits everything, since it must be	Erúv Tavshilin permite tudo, pois precisa estar
+131	in a manner fit for guests: "hoil, guests might come."	de modo que sirva para convidados: "hoil, podem vir convidados."
+132	It must be done while it is still day, so that there are hours before	Precisa ser feito ainda de dia, para que haja horas antes de
+133	guests come, and they can enjoy it. It turns out that his doing it	chegarem convidados e poderem desfrutar disso. Resulta que fazê-lo
+134	is for Yom Tov. But if he does it close	é para Yom Tov. Mas se o faz perto
+135	to dark, after he took the pot, he goes, cooks, goes,	da escuridão, depois de pegar a panela, vai, cozinha, vai,
+136	fries,	frita,
+137	makes things,	faz coisas,
+138	he is making them at dark, not fit for guests. By the time	faz isso na escuridão, sem servir para convidados. Até que
+139	guests come, it is already	cheguem convidados, já é
+140	dark, the stars. Then the Eruv Tavshilin does not help.	noite, as estrelas. Então o Erúv Tavshilin não adianta.
+141	That is the opinion of	Essa é a opinião de
+142	Rava. Therefore the Maguen Avraham writes	Rava. Por isso o Maguen Avraham escreve
+143	that one must cook while it is still day, enough time for guests to come.	que é preciso cozinhar ainda de dia, tempo suficiente para virem convidados.
+144	Guests could eat everything he cooked, the whole pot,	Os convidados poderiam comer tudo o que ele cozinhou, a panela toda,
+145	the guests could eat it. But if they could not eat	os convidados poderiam comê-la. Mas se não puderem comer
+146	all of it, that is forbidden even by the Torah. Why? Because the halachah follows	tudo, isso é proibido até pela Torá. Por quê? Porque a halachá segue
+147	Rava. Rava says that the reason of "hoil," "hoil,"	Rava. Rava diz que a razão do "hoil", "hoil",
+148	requires that it be something fit for guests. If it is not	exige que seja algo apropriado para convidados. Se não
+149	fit	serve
+150	for guests, if it is at dark, it is already for the weekday,	para convidados, se é na escuridão, já é para o dia de semana,
+151	for another day, not that same day. The Torah says "for that very	para outro dia, não aquele mesmo dia. A Torá diz "para aquele
+152	day," not for	dia", não para
+153	tomorrow. These are the words of the Maguen Avraham. He ruled according to	amanhã. Estas são as palavras do Maguen Avraham. Ele decidiu segundo
+154	his words: it is forbidden to cook close to dark. You know, one must	suas palavras: é proibido cozinhar perto da escuridão. Sabe, é preciso
+155	cook while it is still day, enough time that if guests come	cozinhar ainda de dia, tempo suficiente para que, se vierem convidados,
+156	they can be honored by eating this	possam ser honrados comendo essa
+157	food. So it is written; several Acharonim followed the Maguen	comida. Assim está escrito; vários Acharonim seguiram o Maguen
+158	Avraham. Maran does not hold so. In the Beit Yosef, Maran, in the Beit	Avraham. Maran não sustenta isso. No Beit Yosef, Maran, no Beit
+159	Yosef, wrote that it is proven from the words of	Yosef, escreveu que se prova pelas palavras do
+160	the Rambam that the halachah follows Rav Chisda, that the needs of Shabbat are done	Rambam que a halachá segue Rav Chisda, que as necessidades do Shabat se fazem
+161	on Yom Tov.	em Yom Tov.
+162	Yes, no reason of "hoil" is needed. Without "hoil," the needs of Shabbat	Sim, não é preciso a razão do "hoil". Sem "hoil", as necessidades do Shabat
+163	are done on Yom Tov. So even if he does it close to dark,	se fazem em Yom Tov. Então mesmo que faça perto da escuridão,
+164	he does it on Yom Tov, then it is permitted. The needs of	se o faz em Yom Tov, é permitido. As necessidades do
+165	Shabbat are done on Yom Tov; it need not be seen as fit for guests,	Shabat se fazem em Yom Tov; não precisa servir para convidados,
+166	that guests come and eat and enjoy. We do not care about	que venham convidados, comam e aproveitem. Não nos importa
+167	that. The main thing is that he prepares it on Yom Tov, for Yom	isso. O principal é que prepare em Yom Tov, pois Yom
+168	Tov prepares for Shabbat; the needs of Shabbat are done on Yom Tov.	Tov prepara para o Shabat; as necessidades do Shabat se fazem em Yom Tov.
+169	So the Rambam ruled; he brings that the needs of Shabbat are permitted on Yom	Assim decidiu o Rambam; ele traz que as necessidades do Shabat são permitidas em Yom
+170	Tov. He holds even like Rava, who said	Tov. Ele sustenta até como Rava, que disse
+171	"hoil," that one is not flogged. But nevertheless the halachah follows Rav	"hoil", que não se é açoitado. Mas mesmo assim a halachá segue Rav
+172	Chisda: the needs of Shabbat are done on Yom Tov. When Rava challenged	Chisda: as necessidades do Shabat se fazem em Yom Tov. Quando Rava questionou
+173	Rav Chisda: my friend, I say "hoil," it is fine for me,	Rav Chisda: meu amigo, eu digo "hoil", para mim está bem,
+174	but for you who say he is liable to lashes, what	mas para você, que diz que é passível de açoites, que
+175	good does the Eruv Tavshilin do?	proveito traz o Erúv
+176	Tavshilin? He said to him: my friend, it is no difficulty: the needs of Shabbat are done	Tavshilin? Ele lhe disse: meu amigo, não é difícil: as necessidades do Shabat se fazem
+177	on Yom Tov.	em Yom Tov.
+178	After Rava heard this, he accepted it too, he	Depois de ouvir isso, Rava também o aceitou, ele
+179	agreed with the words of Rav Chisda: Shabbat on Yom Tov does not	concordou com as palavras de Rav Chisda: o Shabat em Yom Tov não
+180	need the reason of "hoil." This is the opinion of the Rambam,	precisa da razão do "hoil". Essa é a opinião do Rambam,
+181	who therefore did not write when it is permitted to cook on Yom Tov	que por isso não escreveu quando é permitido cozinhar em Yom Tov
+182	close to dark or not close to dark. He does not dispute at all, he wrote	perto da escuridão ou não. Não discorda de modo algum, escreveu
+183	that it is permitted to cook; likewise baking and cooking	que é permitido cozinhar; igualmente assar e cozinhar
+184	on Yom Tov for the need of	em Yom Tov para a necessidade do
+185	Shabbat. We learn the words of Maran Beit Yosef:	Shabat. Aprendemos as palavras de Maran, o Beit Yosef:
+186	the needs of Shabbat are done on Yom Tov, with no condition	as necessidades do Shabat se fazem em Yom Tov, sem a condição
+187	that it be fit for guests; without that the Torah does not	de servir para convidados; sem isso a Torá não
+188	forbid, if he did it for the need of Shabbat, because Shabbat's holiness is greater,	proíbe, se o fez para a necessidade do Shabat, pois a santidade do Shabat é maior,
+189	more severe than Yom Tov. On Yom Tov, whoever	mais severa do que Yom Tov. Em Yom Tov, quem
+190	does work is liable to lashes; on Shabbat he is liable to stoning,	faz trabalho é passível de açoites; no Shabat é passível de apedrejamento,
+191	and Shabbat is more severe. Therefore the needs of Shabbat are done	e o Shabat é mais severo. Por isso as necessidades do Shabat se fazem
+192	on Yom	em Yom
+193	Tov. Take Eliyahu: the Gaon Rabbi Chaim ben Attar, in the book	Tov. Pegue Eliyahu: o Gaon Rabi Chaim ben Atar, no livro
+194	Rishon	Rishon
+195	LeTzion, says that if a person wants to cook	LeTzion, diz que, se alguém quer cozinhar
+196	a dish and it will not be	um prato e este não ficará
+197	ready immediately on Yom Tov, he makes this dish	pronto de imediato em Yom Tov, ele prepara esse prato
+198	on Yom Tov eve, on Yom Tov, but it must	na véspera de Yom Tov, em Yom Tov, mas precisa
+199	cook until night, an hour or two, until	cozinhar até a noite, uma hora ou duas, até
+200	it is cooked; he puts the pot on	ficar cozido; ele põe a panela no
+201	the fire but it will only be cooked afterward. So he says	fogo, mas só ficará cozido depois. Assim ele diz
+202	it is permitted. Why permitted? The needs of Shabbat are done on Yom Tov;	que é permitido. Por que permitido? As necessidades do Shabat se fazem em Yom Tov;
+203	it is done on Yom Tov. Regarding the opinion of the Maguen Avraham, Rabbi	faz-se em Yom Tov. Quanto à opinião do Maguen Avraham, Rabi
+204	Shlomo Luria, it must be ready, approved	Shlomo Luria, precisa estar pronto, aprovado
+205	and standing, fit for guests. Otherwise, if	e de pé, apropriado para convidados. Caso contrário,
+206	he cooks something not fit for guests, then it is forbidden	se cozinha algo que não serve para convidados, é proibido
+207	to do	fazer
+208	such a thing. But the halachah follows Maran, who writes that the needs of Shabbat are done	algo assim. Mas a halachá segue Maran, que escreve que as necessidades do Shabat se fazem
+209	on Yom Tov, and as Rabbi Chaim ben Attar writes, the Gadol	em Yom Tov, e como escreve Rabi Chaim ben Atar, o Gadol
+210	of the generation, in the book	da geração, no livro
+211	Hatzlach, tractate Beitzah, writes like the words of Rabbi	Hatzlach, tratado de Beitzá, escreve como as palavras de Rabi
+212	Chaim ben Attar, that it is permitted. So	Chaim ben Atar, que é permitido. Assim
+213	too wrote Rabbi Shlomo Kruger in the book Elef LeCha	também escreveu Rabi Shlomo Kruger no livro Elef LeCha
+214	Shlomo: he writes that it is permitted, the needs of Shabbat are done on Yom Tov.	Shlomo: escreve que é permitido, as necessidades do Shabat se fazem em Yom Tov.
+215	This is the opinion of the Rambam, and on it the whole world relies. And so	Essa é a opinião do Rambam, e nela todo o mundo se apoia. E assim
+216	the book Ben Ish Chai writes: the practice every day is that they cook dishes or	o livro Ben Ish Chai escreve: o costume todo dia é que cozinham pratos ou
+217	fry food that is not fully ready until	fritam comida que não fica totalmente pronta até
+218	night comes, sometimes until midnight, until	chegar a noite, às vezes até a meia-noite, até
+219	the food is cooked. It is permitted; we do not say it must be	a comida cozinhar. É permitido; não dizemos que precisa ser
+220	fit for guests on Yom Tov eve, on Yom	apropriado para convidados na véspera de Yom Tov, em Yom
+221	Tov. We do not say so. Why? Because the needs of Shabbat are done	Tov. Não dizemos assim. Por quê? Porque as necessidades do Shabat se fazem
+222	on Yom Tov. Yes, so is the halachah.	em Yom Tov. Sim, assim é a halachá.
+223	In practice it is permitted to do it, even close to dark. Even	Na prática, é permitido fazê-lo, mesmo perto da escuridão. Mesmo
+224	so it is best to do it earlier. If one can do it earlier, why wait	assim é melhor fazer mais cedo. Se dá para fazer mais cedo, por que esperar
+225	until	até
+226	the last moment? A person of soul should do it early. What does he have? He gets up	o último momento? Uma pessoa de alma deve fazer cedo. O que ele tem? Levanta
+227	early, does everything early; then Shabbat will not be	cedo, faz tudo cedo; assim o Shabat não será
+228	rushed. What is there?	apressado. O que há?
+229	There is much that remains on Yom Tov eve, from the night, at the beginning of	Há muito que sobra na véspera de Yom Tov, desde a noite, no início da
+230	the night, the whole day, the whole night, all of	noite, o dia todo, a noite toda, toda a
+231	his time. It is only that on Yom Tov it is not that each one	sua disponibilidade. Só que em Yom Tov não é que cada um
+232	has a day at night; Friday night is a time to do it. Therefore, the	tenha um dia à noite; a noite de sexta é um tempo para fazer. Por isso, o
+233	other is afraid that tomorrow he will be busy, he has work, he has	outro teme que amanhã esteja ocupado, tem trabalho, tem
+234	such and such, and at night he sits. So what is it? A cooked egg or	isso e aquilo, e à noite fica sentado. Então o que é? Um ovo cozido ou
+235	a roasted egg, one egg — it combines with the other; put it	um ovo assado, um ovo — ele se une ao outro; coloque-o
+236	with one pita, combine it. He said: an Eruv. This is the	com uma pita, una-o. Disse: um erúv. Este é o
+237	Eruv, which is permitted for baking, cooking, and so on.	erúv, que permite assar, cozinhar e assim por diante.
+238	All of it, from Yom Tov to Shabbat.	Tudo isso, de Yom Tov para o Shabat.
+239	So says the Gemara.	Assim diz a Guemará.
+240	And what does one use for the Eruv Tavshilin? Something fit to accompany bread,	E o que se usa para o Erúv Tavshilin? Algo próprio para acompanhar o pão,
+241	here	aqui
+242	with bread: meat, fish, certainly a cooked dish,	com pão: carne, peixe, certamente um prato cozido,
+243	as is written. But if he makes, for example, there are cotton... that people eat	como está escrito. Mas se faz, por exemplo, há coisas que se comem
+244	them but do not dip bread in them, and that is not	mas não se molha pão nelas, e isso não é
+245	fit. He made porridge; people do not eat porridge with	apropriado. Fez mingau; não se come mingau com
+246	bread, without... after a while, and it is not eaten	pão, sem... depois de um tempo, e não se come
+247	with bread, something that does not accompany bread. So it is not	com pão, algo que não acompanha o pão. Então não
+248	worth making a lot of dishes from it. Better something that	vale a pena fazer muitos pratos com isso. Melhor algo que
+249	accompanies	acompanhe
+250	bread, or meat, or a cooked vegetable. As I said, even if it is not	o pão, ou carne, ou verdura cozida. Como eu disse, mesmo que não se
+251	usually dipped with bread, since it is fit for bread, therefore	costume molhar pão, como é próprio para o pão, por isso
+252	one can	pode-se
+253	do so. The book Ben Ish Chai says: an egg. One	fazê-lo. O livro Ben Ish Chai diz: um ovo. Que
+254	should cook an egg, boil an egg, boiled, and leave it	cozinhe um ovo, que o ferva, cozido, e o deixe
+255	in honor of Yom Tov, and eat it after he finishes	em honra de Yom Tov, e o coma depois de terminar
+256	cooking all the dishes he can. He made it on Erev	de cozinhar todos os pratos que puder. Fez na véspera do
+257	Shabbat, on Yom Tov; he finished cooking the dishes, he can	Shabat, em Yom Tov; terminou de cozinhar os pratos, pode
+258	even on Yom Tov itself. But the custom is to eat it	até no próprio Yom Tov. Mas o costume é comê-lo
+259	on Friday night or at the third meal. And if it is done	na noite de sexta ou na terceira refeição. E se é feito
+260	for a mitzvah, one does another mitzvah; they do with this egg	por uma mitsvá, faz-se outra mitsvá; fazem com esse ovo
+261	a mitzvah, so one does another mitzvah, that each meal	uma mitsvá, então faz-se outra mitsvá, que cada refeição
+262	has... I said that the mitzvah is to do it on Yom Tov,	tenha... Eu disse que a mitsvá é fazê-lo na véspera de Yom Tov,
+263	on Yom Tov eve, close, close to dark, he makes the Eruv	perto, perto da escuridão, ele faz o Erúv
+264	Tavshilin. Eruv	Tavshilin. Erúv
+265	Tavshilin must be done in the day, not at night. When Yom	Tavshilin deve ser feito de dia, não à noite. Quando entra Yom
+266	Tov has entered, it does nothing; one must prepare it from	Tov, não adianta nada; é preciso preparar desde a
+267	Yom Tov eve. Why? The Gemara says, it explains the reason	véspera de Yom Tov. Por quê? A Guemará diz, explica a razão
+268	for the Eruv	do Erúv
+269	Tavshilin: so that people will learn a kal vachomer: if from	Tavshilin: para que as pessoas aprendam um kal vachomer: se de
+270	Yom Tov to Shabbat it is forbidden to cook without making an Eruv,	Yom Tov para o Shabat é proibido cozinhar sem fazer um erúv,
+271	then from Yom Tov to a weekday, certainly, it is forbidden to cook. So certainly	então de Yom Tov para um dia de semana, com certeza, é proibido cozinhar. Então com certeza
+272	people will know that it is forbidden to cook from Yom Tov to a weekday. There are people	as pessoas saberão que é proibido cozinhar de Yom Tov para um dia de semana. Há pessoas
+273	who do not know, for example, in two cases, of Rosh	que não sabem, por exemplo, em dois casos, de Rosh
+274	Hashanah: on Rosh Hashanah, one cooks on Yom Tov for the night,	HaShanah: em Rosh HaShanah, cozinha-se em Yom Tov para a noite,
+275	prepares the cooking needs for the night.	prepara-se o necessário para cozinhar para a noite.
+276	They take... they take all those things	Pegam... pegam todas aquelas coisas
+277	that they signaled to do at night; it is forbidden to cook them on the day, because	que sinalizaram fazer à noite; é proibido cozinhá-las de dia, porque
+278	one day is from the Torah and the second day is Rabbinic,	um dia é da Torá e o segundo dia é rabínico,
+279	it is only a matter of doubt. Therefore, it is forbidden to cook	é só uma questão de dúvida. Por isso é proibido cozinhar
+280	from Yom Tov.	de Yom Tov.
+281	And for the Diaspora, who have two days of Yom Tov,	E para a Diáspora, que tem dois dias de Yom Tov,
+282	it is forbidden to cook on Yom Tov for the other, or to cook on	é proibido cozinhar em Yom Tov para o outro, ou cozinhar em
+283	Yom Tov for the night. The night has already passed. They are Yom Tov.	Yom Tov para a noite. A noite já passou. É Yom Tov.
+284	Yes, all the preparation must be on Yom Tov eve, the Eruv	Sim, todo o preparo deve ser na véspera de Yom Tov, o Erúv
+285	Tavshilin, in honor of Yom Tov, so that he may cook from the day	Tavshilin, em honra de Yom Tov, para poder cozinhar do dia
+286	of Yom Tov for Shabbat. If	de Yom Tov para o Shabat. Se
+287	he forgot, and all day he forgot, and did not make an Eruv	esqueceu, e o dia todo esqueceu, e não fez o Erúv
+288	Tavshilin, but it is not yet the emergence of the stars,	Tavshilin, mas ainda não saíram as estrelas,
+289	after sunset, until the emergence of the stars there is about a quarter hour,	depois do pôr do sol, até a saída das estrelas há cerca de um quarto de hora,
+290	about a quarter of an hour. Within a quarter hour he remembers. What	cerca de um quarto de hora. Dentro de um quarto de hora ele se lembra. O que
+291	does he do? He makes the Eruv Tavshilin. Yes, he does. Why? Because it is a doubt	faz? Faz o Erúv Tavshilin. Sim, faz. Por quê? Porque é dúvida
+292	of day, a doubt of night; it could be day. It is a doubt,	de dia, dúvida de noite; pode ser dia. É uma dúvida,
+293	Rabbinic, for leniency. Who says? The Eruv Tavshilin is Rabbinic.	rabínica, para ser leniente. Quem diz? O Erúv Tavshilin é rabínico.
+294	They established it. He makes the Eruv Tavshilin, since it is Rabbinic, a doubt is Rabbinic,	Eles o estabeleceram. Faz o Erúv Tavshilin, como é rabínico, a dúvida é rabínica,
+295	for leniency. He makes the Eruv Tavshilin immediately; he takes from the dishes	para ser leniente. Faz o Erúv Tavshilin de imediato; pega dos pratos
+296	that he has, more than...	que tem, mais que...
+297	cooked. What is the law regarding the blessing? Should he bless, or	cozidos. Qual é a lei quanto à bênção? Deve abençoar, ou
+298	do we say that in a doubt about blessings we are lenient? Yes, for this is a doubt of night, perhaps	dizemos que na dúvida sobre bênçãos somos lenientes? Sim, pois é dúvida de noite, talvez
+299	it is night. So when he makes the Eruv with a dish at the seventh	seja noite. Assim, quando faz o erúv com um prato na sétima
+300	hour, it is a doubt, a doubt of night; the ruling is yes, he can bless.	hora, é dúvida, dúvida de noite; a decisão é que sim, pode abençoar.
+301	The blessing follows the mitzvah, since	A bênção acompanha a mitsvá, já que
+302	it is a Rabbinic doubt for leniency, also the blessing	é uma dúvida rabínica para ser leniente, também a bênção
+303	follows it. This is an example of what Maran wrote in the Shulchan Arukh,	acompanha. Este é um exemplo do que Maran escreveu no Shulchan Arukh,
+304	Orach Chaim 489,	Orach Chaim 489,
+305	regarding counting	sobre a contagem
+306	the Omer. When counting the Omer, it is permitted to count it	do Ômer. Ao contar o Ômer, é permitido contá-lo
+307	at twilight and to bless over it. So it is written	no crepúsculo e abençoar sobre ele. Assim está escrito
+308	in Tosafot, Menachot 66: it is permitted to count the Omer	nos Tosafot, Menachot 66: é permitido contar o Ômer
+309	at twilight and also to bless on it, since	no crepúsculo e também abençoar sobre ele, já que
+310	you are counting the Omer itself; with the count of the Omer you bless. You bless	você conta o próprio Ômer; com a contagem do Ômer você abençoa. Você abençoa
+311	on this basis; you can do the counting of the Omer on the basis of	com base nisso; pode fazer a contagem do Ômer com base em
+312	a Rabbinic doubt for leniency, for the counting of the Omer nowadays is	uma dúvida rabínica para ser leniente, pois a contagem do Ômer hoje é
+313	Rabbinic. So too the blessing follows after	rabínica. Assim também a bênção acompanha depois d
+314	the mitzvah. The same law applies to the Eruv Tavshilin. The Eruv	a mitsvá. A mesma lei vale para o Erúv Tavshilin. O Erúv
+315	Tavshilin is Rabbinic. The Sages instituted that one make an Eruv Tavshilin,	Tavshilin é rabínico. Os Sábios instituíram que se faça um Erúv Tavshilin,
+316	so that a person not come from Yom Tov to Shabbat except with a good Yom Tov	para que a pessoa não venha de Yom Tov para o Shabat senão com um bom Yom Tov
+317	two. Since it is Rabbinic, it is permitted to rule leniently,	dois. Como é rabínico, é permitido decidir com leniência,
+318	and therefore the blessing is drawn after it. He can bless	e portanto a bênção a acompanha. Pode abençoar
+319	because we rely on the matter of the Eruv. So ruled the book	porque nos apoiamos na questão do erúv. Assim decidiu o livro
+320	Rabbeinu Yitzchak; so also wrote	Rabenu Yitzchak; assim também escreveu
+321	Tevar David Sha'arim and several other books. Yes,	Tevar David Sha'arim e vários outros livros. Sim,
+322	in practice he can	na prática pode
+323	bless. The Chacham Sabbi says he does not	abençoar. O Chacham Sabbi diz que não
+324	bless. But we have a proof from the Tosafot, the masters of the counting of	abençoa. Mas temos uma prova dos Tosafot, os mestres da contagem do
+325	the Omer: it happened every day that they finish Maariv	Ômer: acontecia todos os dias que terminam o Maariv
+326	and count the Omer, and go. Sometimes, many	e contam o Ômer, e vão. Às vezes, muitos
+327	places where the local Chacham expounds to them, they begin Maariv	lugares onde o Chacham local lhes ensina, começam o Maariv
+328	and finish Maariv at twilight.	e terminam o Maariv no crepúsculo.
+329	They do not always know... they pray the afternoon service together until	Nem sempre sabem... rezam juntos a tarde até
+330	the late hour, and they do it right away, and if people are tired	a hora tardia, e fazem logo, e se as pessoas estão cansadas
+331	from their work and want to go home, they do Maariv quickly	do trabalho e querem ir para casa, fazem o Maariv rápido
+332	and go. So what do they do about the counting of the Omer?	e vão. Então o que fazem quanto à contagem do Ômer?
+333	They count the Omer for them, even though it is within	Contam o Ômer para eles, mesmo que seja dentro de
+334	seven hours, not the emergence of the stars. Only Maran wrote that	sete horas, não na saída das estrelas. Apenas Maran escreveu que
+335	the meticulous do not count the Omer except at the emergence of	os escrupulosos só contam o Ômer na saída das
+336	the stars. They are meticulous for the whole world, they are strict. Therefore,	estrelas. São escrupulosos por todo o mundo, são rigorosos. Por isso,
+337	for this reason, as I said, they count the Omer	por isso, como eu disse, contam o Ômer
+338	with a blessing.	com bênção.
+339	Likewise the matter of the Eruv Tavshilin is learned from the counting	Do mesmo modo, a questão do Erúv Tavshilin se aprende da contagem
+340	of the Omer. Since the Sages permitted it in doubt, he can also	do Ômer. Como os Sábios permitiram na dúvida, ele também pode
+341	bless. One must specify the things one wants to do	abençoar. É preciso especificar as coisas que quer fazer
+342	on Yom Tov, so that he will be	em Yom Tov, para que fique
+343	permitted... to bake...	permitido... assar...
+344	to cook...	cozinhar...
+345	for Shabbat. Yes, he specifies the details.	para o Shabat. Sim, especifica os detalhes.
+346	If he wants to slaughter a chicken for the honor of Shabbat, for the sake of	Se quer abater uma ave em honra do Shabat, para
+347	wanting to prepare it for Shabbat, then also he must	querer prepará-la para o Shabat, então também deve
+348	specify it. There is a great dispute among the Acharonim:	especificá-lo. Há uma grande discussão entre os Acharonim:
+349	if he did not say, did not specify the matters, does it help or	se ele não disse, não especificou as coisas, isso adianta ou
+350	does it not help? Enough; the Rabbis say that it does not	não adianta? Basta; os Rabinos dizem que não
+351	help. He prepared the challah; one must be careful	adianta. Preparou a chalá; é preciso cuidado
+352	to mention every detail, every detail.	para mencionar cada detalhe, cada detalhe.
+353	It is best to say, even	O melhor é dizer, mesmo
+354	the cholent, the cholent too, it is also like that, not forgetting. Perhaps	o chamin, o chamin também, é igual, sem esquecer. Talvez
+355	to cook... light the candles — he should specify them all.	cozinhar... acender as velas — que especifique tudo.
+356	Big.	Grande.
+357	The city, like the Chief Rabbi, our dear friend,	A cidade, como o Rabino-Chefe, nosso querido amigo,
+358	our beloved, who gives merit to the many — giving merit to the many	nosso estimado, que dá mérito à multidão — dar mérito à multidão
+359	depends on him. He must make an Eruv for all the people of the Land of Israel,	depende dele. Deve fazer o erúv para todos em Eretz Israel,
+360	and the Rabbi of all the Land of Israel; all rely on him.	e o rabino de toda Eretz Israel; todos se apoiam nele.
+361	So it is the practice to go to our... Therefore he makes the Eruv,	Assim é o costume de ir ao nosso... Por isso ele faz o erúv,
+362	giving merit by it to all the children of Israel, all the Land of	dando mérito com isso a todos os filhos de Israel, toda Eretz
+363	Israel; he gives merit through another who takes it for them. It	Israel; dá mérito por meio de outro que o recebe para eles.
+364	will be for them a merit within the Eruv, that they have	Será para eles um mérito dentro do erúv, de que tenham
+365	a share in it. Even a thousand thousands can have a share	parte nele. Até milhares de milhares podem ter parte
+366	in the Eruv Tavshilin, as long as in the Eruv Tavshilin there is	no Erúv Tavshilin, desde que haja no Erúv Tavshilin
+367	the amount of an egg, a cooked dish the size of an egg.	a quantidade de um ovo, um prato cozido do tamanho de um ovo.
+368	Let him do so. Some say an olive-size is enough too.	Que faça assim. Alguns dizem que basta o tamanho de uma azeitona.
+369	The Gemara is pleased: an olive-size is enough for all a thousand of Israel; all of them	A Guemará se alegra: o tamanho de uma azeitona basta para mil de Israel; todos
+370	have a share in this	têm parte neste
+371	dish. The Arabs say of Israel, as people, that when ten	prato. Os árabes dizem de Israel que, quando dez
+372	have ten in hand, they eat one egg, and for a thousand he will count	têm dez nas mãos, comem um ovo, e para mil ele contará
+373	the egg as an obligation,	o ovo como obrigação,
+374	it will be established in their eyes, established in their hands. So	será firmado aos olhos deles, firmado em suas mãos. Assim
+375	the Rabbi does: he makes the Eruv Tavshilin, permitting everyone who forgot	faz o Rabino: faz o Erúv Tavshilin, permitindo a todos que esqueceram
+376	and did not make an Eruv Tavshilin; they rely on the city's leader. This	e não fizeram o Erúv Tavshilin; apoiam-se no líder da cidade. Este
+377	leader of the city who made the fruits... what does he	líder da cidade que fez as frutas... o que ele
+378	do? He need not be asked. So the Eruv	faz? Não precisa ser consultado. Então o Erúv
+379	Tavshilin, to exempt me... a minute, not a minute, I do not know,	Tavshilin, para me isentar... um minuto, não um minuto, não sei,
+380	there is a presumption that he makes the Eruv Tavshilin for those minutes, for all	presume-se que ele faz o Erúv Tavshilin por esses minutos, por todo
+381	the whole settlement; everyone merits in this matter,	o povoado inteiro; todos merecem nesse assunto,
+382	so they have a share in the Eruv Tavshilin of the great Rabbi	assim têm parte no Erúv Tavshilin do grande rabino
+383	of the city. Do not rely on him. The Gemara says: a blind man,	da cidade. Não se apoie nele. A Gemará diz: um cego,
+384	may it not be upon us, who did not see, was sitting before	que não nos aconteça, que não via, estava sentado diante de
+385	Shmuel, learning Torah on Yom Tov; he would groan. Why	Shmuel, estudando Torá em Yom Tov; gemia. Por que
+386	do you groan? He said: I forgot to make my Eruv Tavshilin.	você geme? Disse: esqueci de fazer meu Erúv Tavshilin.
+387	Rely on me; I made an Eruv for all the people	Apoie-se em mim; fiz um erúv para todos os habitantes
+388	of the city. Rely on me. Go cook on Yom Tov for	da cidade. Apoie-se em mim. Vá cozinhar em Yom Tov para
+389	Shabbat.	o Shabat.
+390	Another Yom Tov, again he groaned.	Outro Yom Tov, de novo ele gemeu.
+391	What is it with you this time? This time I forgot. Your father, I do not	O que você tem desta vez? Desta vez esqueci. Seu pai, eu não
+392	do it. I do it for people who forget once. You,	faço. Faço para as pessoas que esquecem uma vez. Você,
+393	you forget again and again, that is called a transgressor, not	você esquece de novo e de novo, isso se chama transgressor, não
+394	called coerced. This is a transgressor. I did not rely on	chamado coagido. Este é um transgressor. Eu não me apoiei em
+395	you. I rely on people to whom it happened once,	você. Apoio-me nas pessoas a quem aconteceu uma vez,
+396	by accident. You, once, someone who forgets is not called forgetful,	por acidente. Você, uma vez, quem esquece não é chamado de esquecido,
+397	he is called a transgressor. I do not do it.	é chamado de transgressor. Eu não faço.
+398	It is written in the book Knesset Yechezkel: in our generation there are many	Está escrito no livro Knesset Yechezkel: em nossa geração há muitos
+399	in the general public who do not make it. Therefore the Rabbi intends also	no público em geral que não o fazem. Por isso o Rabino tem em mente também
+400	those who are in the category of transgressor; even to exempt them. Why?	aqueles na categoria de transgressor; até para isentá-los. Por quê?
+401	Generations have declined. Simply, once... once he forgets, forgets,	As gerações decaíram. Simplesmente, uma vez... uma vez esquece, esquece,
+402	even not forgets, even a transgressor.	mesmo não esquece, mesmo transgressor.
+403	The Rabbi's intention was always, in the intention of Rabbi Shmuel, was	A intenção do Rabino era sempre, na intenção de Rabi Shmuel, era
+404	only about people who forget.	só sobre pessoas que esquecem.
+405	Not people who are... But in our generation, when we have already fallen	Não pessoas que são... Mas em nossa geração, em que já decaímos
+406	so low, therefore the Rabbi certainly intends to exempt	tanto, por isso o Rabino certamente quer isentar
+407	everyone, even a person who knows nothing, who does not know	todos, mesmo uma pessoa que não sabe nada, que não conhece
+408	the laws. They do not know about him; Shabbat, he lacks his Eruv	as leis. Não o conhecem; o Shabat, falta-lhe o seu erúv
+409	Tavshilin; not everyone knows this. He intends	Tavshilin; nem todos sabem disso. Ele quer
+410	to exempt everyone, and the error in learning counts as willful. This	isentar a todos, e o erro de estudo conta como intencional. Isso
+411	is an error in learning, so we must learn; it is not called	é um erro de estudo, então precisamos aprender; não se chama
+412	forgetting, it is called a transgressor. Even so, my brother the Rabbi accepts	esquecer, chama-se transgressor. Mesmo assim, meu irmão, o Rabino aceita
+413	to exempt everyone. Therefore they should know	isentar a todos. Por isso devem saber
+414	this matter.	isso.
+415	A matter from Pirkei Avot: Rabbi Levitas of Yavneh says:	Um tema de Pirkei Avot: Rabi Levitas de Yavneh diz:
+416	be very, very humble of spirit, for the hope of	sê muito, muito humilde de espírito, pois a esperança do
+417	man is the worm. The whole counting of the Omer, seven weeks, we count,	homem é o verme. Toda a contagem do Ômer, sete semanas, contamos,
+418	says the holy Zohar.	diz o santo Zohar.
+419	It is like the seven clean days that the bride counts before she enters	É como os sete dias limpos que a noiva conta antes de entrar
+420	the chupah. So the day of the giving of the Torah is the day of the chupah.	na chupá. Assim o dia da entrega da Torá é o dia da chupá.
+421	Blessed be His name, the Holy One, blessed be He, spread the mountain	Bendito seja o Seu nome, o Santo, Bendito seja, estendeu o monte
+422	and the... over it like a canopy. Why did He do	e o... sobre ele como um dossel. Por que fez
+423	so? They said "we will do and we will hear"; it was a sort of holy chupah for	assim? Disseram "faremos e ouviremos"; foi uma espécie de chupá sagrada para
+424	Israel. Through a holy chupah He made them a chupah,	Israel. Por meio de uma chupá sagrada Ele lhes fez uma chupá,
+425	He brought the Divine Presence down below, all the bride together.	fez descer a Presença Divina embaixo, toda a noiva junta.
+426	It is like making a chupah for a groom and bride. Blessed	É como fazer uma chupá para noivo e noiva. Bendito
+427	be His name, the Holy One, blessed be He loves Israel; He made	seja o Seu nome, o Santo, Bendito seja, ama Israel; fez
+428	with them a chupah with kiddushin, a chupah	com eles uma chupá com kidushin, uma chupá
+429	of theirs. But the bride needs, the bride needs	deles. Mas a noiva precisa, a noiva precisa de
+430	preparation. Without seven clean days, one may not enter the chupah. So too	preparação. Sem sete dias limpos, não se pode entrar na chupá. Assim também
+431	Israel count seven weeks and make the festival of Shavuot.	Israel conta sete semanas e faz a festa de Shavuot.
+432	HaShem... this too is preparation for the festival of Shavuot, as	HaShem... isso também é preparação para a festa de Shavuot, como
+433	the bride prepares for the chupah, so the people of Israel prepare	a noiva se prepara para a chupá, assim o povo de Israel se prepara
+434	for the day of the giving of the Torah, to prepare themselves to be fit for the giving of	para o dia da entrega da Torá, para se preparar e estar apto para a entrega da
+435	the Torah. There is a story of a rich man who was passing on the road	Torá. Há uma história de um homem rico que passava pela estrada
+436	in the winter, by himself, in the	no inverno, sozinho, no
+437	winter, and sees a poor man standing there, like this, on a	inverno, e vê um homem pobre parado assim, numa
+438	hillside, and the wind blows him around, and he wears	colina, e o vento o sacode, e ele veste
+439	clothes	roupas
+440	that are tattered, and the wind cuts through him and... releases	esfarrapadas, e o vento o atravessa e... o solta
+441	him. He approaches him: why are you standing like this in clothes	e solta. Aproxima-se: por que está parado assim com roupas
+442	like these? He says: sir, I have no other clothes. You have	assim? Diz: senhor, não tenho outras roupas. Não tem
+443	no winter coat? He says: no, I have none, I have	casaco de inverno? Diz: não, não tenho, não tenho,
+444	none. Come, my dear, come, rest. He took him and	não tenho. Venha, meu caro, venha, descanse. Levou-o
+445	greeted him: come in. He called the	e o cumprimentou: entre. Chamou o
+446	clerk: please bring him a suit,	funcionário: por favor, traga-lhe um terno,
+447	a winter suit that can protect him. He looks	um terno de inverno que possa protegê-lo. Ele olha
+448	at him; he said to him: tell him to bring you a suit.	para ele; disse-lhe: peça que lhe tragam um terno.
+449	Good, he brought him a suit.	Bom, trouxe-lhe um terno.
