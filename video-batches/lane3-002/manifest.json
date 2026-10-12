@@ -1,0 +1,259 @@
+{
+ "name": "lane3-002",
+ "lane": 3,
+ "created": "2026-10-12T03:19:44.855Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "DQYrXSKrLNE",
+   "title": "Parashat Shoftim: Mishné Torá e o Sêfer HaYashar",
+   "lines": 1068,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "hm2H6mjtaBg",
+   "title": "Shoftim: os portões do corpo e julgar a si mesmo",
+   "lines": 727,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "XLR01zF5Vo8",
+   "title": "As 11 versículos dos Bikurim e a absolvição no Julgamento",
+   "lines": 1524,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "mn3UW5GoVEo",
+   "title": "Ki Tavo: Bikurim, gratidão e a Terra de Israel",
+   "lines": 1039,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "P6B1Gxg_sM4",
+   "title": "Ki Tavo: Bikurim, Adam HaRishon e a gratidão",
+   "lines": 1520,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "crPwi6F8ckw",
+   "title": "Elul e Selichot: bata à porta e peça a vida",
+   "lines": 1469,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "z_8VrGV0Xhw",
+   "title": "Haazinu, domingo: Rashi, Terumá, Zohar e boas companhias",
+   "lines": 554,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "MSG_e3-zxxU",
+   "title": "Por que Moshe é chamado Ish HaElokim em Vezot HaBrachá",
+   "lines": 792,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Fel4FVqd4Os",
+   "title": "Quando as opções acabam, começa a salvação",
+   "lines": 1711,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "uhrAE-tq0bE",
+   "title": "Parashá Shofetim: juízes, justiça e responsabilidade",
+   "lines": 1091,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2DIOXfEi64Y",
+   "title": "Shechiná no lar: pureza, paz e sustento",
+   "lines": 392,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "e42TXEChsEg",
+   "title": "Pinchas é Eliyahu HaNavi: a aliança de paz",
+   "lines": 918,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vEm7bvdEMfw",
+   "title": "O sorteio vem de HaShem: Acharei Mot e a Sefirat HaOmer",
+   "lines": 1306,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "548LWm8YOLE",
+   "title": "Ki Tavo: Bikurim e o reconhecimento de que tudo vem de HaShem",
+   "lines": 1027,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "NKAXt0A6U-E",
+   "title": "Vayelech: a passagem para Yehoshua e a escrita da Torá",
+   "lines": 1407,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "csoxtoEpGeI",
+   "title": "Parashat Haazinu: Shabat Teshuvá e o poder da fala",
+   "lines": 533,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "EIZkuBqOVh0",
+   "title": "Pinchas, Eliyahu e a ajuda das almas dos justos",
+   "lines": 839,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "si-_S0ovo5E",
+   "title": "Teshuvá que faz metade ou tudo e o filho primogênito",
+   "lines": 1092,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "mn6BrcJAwa8",
+   "title": "Bikurim: o lugar pessoal ligado à Malchut de HaShem",
+   "lines": 1198,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "sn6_pyet-U4",
+   "title": "Julgar o próximo para o lado favorável (Kedoshim)",
+   "lines": 1328,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "aed5gw0e2PM",
+   "title": "Parashá Pinchas: as Três Semanas, korbanot e zelo",
+   "lines": 1038,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_5gO5rmu2NA",
+   "title": "Beshalach: milagres, persistência e teshuvá",
+   "lines": 682,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "9J4bp9BVKKo",
+   "title": "Por que fazer teshuvá: Nitsavim e Elul",
+   "lines": 1240,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "A6s_yUmOHI8",
+   "title": "Os limites da hishtadlut: \"que ninguém deixe do Mann",
+   "lines": 1001,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "F2vD0BInKpU",
+   "title": "Parashat Vaerá: Baba Sali, Safek Sfeika e as rãs do Egito",
+   "lines": 1860,
+   "parts": 5,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "DQYrXSKrLNE.p0",
+  "DQYrXSKrLNE.p1",
+  "DQYrXSKrLNE.p2",
+  "hm2H6mjtaBg.p0",
+  "hm2H6mjtaBg.p1",
+  "XLR01zF5Vo8.p0",
+  "XLR01zF5Vo8.p1",
+  "XLR01zF5Vo8.p2",
+  "XLR01zF5Vo8.p3",
+  "mn3UW5GoVEo.p0",
+  "mn3UW5GoVEo.p1",
+  "mn3UW5GoVEo.p2",
+  "P6B1Gxg_sM4.p0",
+  "P6B1Gxg_sM4.p1",
+  "P6B1Gxg_sM4.p2",
+  "P6B1Gxg_sM4.p3",
+  "crPwi6F8ckw.p0",
+  "crPwi6F8ckw.p1",
+  "crPwi6F8ckw.p2",
+  "crPwi6F8ckw.p3",
+  "z_8VrGV0Xhw.p0",
+  "z_8VrGV0Xhw.p1",
+  "MSG_e3-zxxU.p0",
+  "MSG_e3-zxxU.p1",
+  "Fel4FVqd4Os.p0",
+  "Fel4FVqd4Os.p1",
+  "Fel4FVqd4Os.p2",
+  "Fel4FVqd4Os.p3",
+  "uhrAE-tq0bE.p0",
+  "uhrAE-tq0bE.p1",
+  "uhrAE-tq0bE.p2",
+  "2DIOXfEi64Y.p0",
+  "e42TXEChsEg.p0",
+  "e42TXEChsEg.p1",
+  "e42TXEChsEg.p2",
+  "vEm7bvdEMfw.p0",
+  "vEm7bvdEMfw.p1",
+  "vEm7bvdEMfw.p2",
+  "548LWm8YOLE.p0",
+  "548LWm8YOLE.p1",
+  "548LWm8YOLE.p2",
+  "NKAXt0A6U-E.p0",
+  "NKAXt0A6U-E.p1",
+  "NKAXt0A6U-E.p2",
+  "NKAXt0A6U-E.p3",
+  "csoxtoEpGeI.p0",
+  "csoxtoEpGeI.p1",
+  "EIZkuBqOVh0.p0",
+  "EIZkuBqOVh0.p1",
+  "si-_S0ovo5E.p0",
+  "si-_S0ovo5E.p1",
+  "si-_S0ovo5E.p2",
+  "mn6BrcJAwa8.p0",
+  "mn6BrcJAwa8.p1",
+  "mn6BrcJAwa8.p2",
+  "sn6_pyet-U4.p0",
+  "sn6_pyet-U4.p1",
+  "sn6_pyet-U4.p2",
+  "aed5gw0e2PM.p0",
+  "aed5gw0e2PM.p1",
+  "aed5gw0e2PM.p2",
+  "_5gO5rmu2NA.p0",
+  "_5gO5rmu2NA.p1",
+  "9J4bp9BVKKo.p0",
+  "9J4bp9BVKKo.p1",
+  "9J4bp9BVKKo.p2",
+  "A6s_yUmOHI8.p0",
+  "A6s_yUmOHI8.p1",
+  "A6s_yUmOHI8.p2",
+  "F2vD0BInKpU.p0",
+  "F2vD0BInKpU.p1",
+  "F2vD0BInKpU.p2",
+  "F2vD0BInKpU.p3",
+  "F2vD0BInKpU.p4"
+ ]
+}
