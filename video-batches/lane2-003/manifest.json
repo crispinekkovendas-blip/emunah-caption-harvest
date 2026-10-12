@@ -1,0 +1,256 @@
+{
+ "name": "lane2-003",
+ "lane": 2,
+ "created": "2026-10-12T07:59:05.547Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "B-SrmRpfo58",
+   "title": "Sefirat HaOmer: do indivíduo ao povo e à Geulá",
+   "lines": 711,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "dUOLH-T8QUw",
+   "title": "Por que Moshe não abençoou Shimon: o motivo importa",
+   "lines": 1235,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-to5zCqVuqc",
+   "title": "Lo ta'amod al dam re'echa: assuma o seu lugar",
+   "lines": 1169,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-wy2wn8YOvs",
+   "title": "Lashon hara e as leis de Shabat: davar sheein mitkaven",
+   "lines": 1580,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4FDnl2J6Vw4",
+   "title": "O pecado dos espiões: quando o problema está em nós",
+   "lines": 1263,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Hgz8zXULr5o",
+   "title": "Sefirat HaOmer, Tazria-Metzorá e Pirkei Avot",
+   "lines": 1601,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "uMjW4W3t9KU",
+   "title": "Torá no deserto: o poder de unir os opostos",
+   "lines": 1201,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "25QVwtVn_vU",
+   "title": "Lo yihyê kli guêver al ishá: a mulher e as armas",
+   "lines": 1173,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "m1CGoeh67d8",
+   "title": "Shogueg, mezid e o tinok shenishbá",
+   "lines": 1291,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "KvWQgL7F6uA",
+   "title": "Emuná e hishtadlut: a Parashá Chukat e o poder da fala",
+   "lines": 1632,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-Se8-c7hwCY",
+   "title": "Como se escolhe um líder para Israel (Parashat Pinchas)",
+   "lines": 1432,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "O_dUzeQJI1A",
+   "title": "Calev e a \"outra rúach\": o mal a serviço de HaShem",
+   "lines": 709,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "CJ6eTIN4I24",
+   "title": "Shabat Shuvá: a capacidade de parar no caminho",
+   "lines": 743,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "B33ef93oEfc",
+   "title": "A Torá que protege: o mérito do líder e o último dia do homem",
+   "lines": 698,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Ls9dONFSUdE",
+   "title": "Estudo da Torá sem cumprimento é incompleto",
+   "lines": 861,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1p_lsyCPDNI",
+   "title": "Va'et'chanan: 515 orações de Moshé e a esperança",
+   "lines": 924,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "gXetjsfTehQ",
+   "title": "O Dia de Hoje: Uma Oportunidade Única de Santidade",
+   "lines": 1121,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "c4Z6JwrhgHE",
+   "title": "Parashá Ki Tavô: Bikurim, gratidão e o Brit Milá",
+   "lines": 841,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "X86NdnJbsv0",
+   "title": "Verdade e mudar a verdade em nome da paz (Parashá Chukat)",
+   "lines": 902,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qfbRmm65sWA",
+   "title": "Shabat HaGadol: o Seder e a lembrança da escravidão",
+   "lines": 700,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Xf5Wq091Q5I",
+   "title": "Como dominar a ira: conselhos dos sábios",
+   "lines": 1050,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3xtT0BT10-c",
+   "title": "Nitzavim: todos nós estávamos lá, na Brit com HaShem",
+   "lines": 1221,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "gyp6zz_i7mA",
+   "title": "Behaalotcha: a alma acesa e a força do desejo",
+   "lines": 1001,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FPIB0YGy9oI",
+   "title": "Pérsia, Gog e Magog e a redenção",
+   "lines": 949,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1goBlUDSYjA",
+   "title": "Vayikrá: a humildade de Moshé e o verdadeiro Korban",
+   "lines": 867,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "B-SrmRpfo58.p0",
+  "B-SrmRpfo58.p1",
+  "dUOLH-T8QUw.p0",
+  "dUOLH-T8QUw.p1",
+  "dUOLH-T8QUw.p2",
+  "-to5zCqVuqc.p0",
+  "-to5zCqVuqc.p1",
+  "-to5zCqVuqc.p2",
+  "-wy2wn8YOvs.p0",
+  "-wy2wn8YOvs.p1",
+  "-wy2wn8YOvs.p2",
+  "-wy2wn8YOvs.p3",
+  "4FDnl2J6Vw4.p0",
+  "4FDnl2J6Vw4.p1",
+  "4FDnl2J6Vw4.p2",
+  "Hgz8zXULr5o.p0",
+  "Hgz8zXULr5o.p1",
+  "Hgz8zXULr5o.p2",
+  "Hgz8zXULr5o.p3",
+  "uMjW4W3t9KU.p0",
+  "uMjW4W3t9KU.p1",
+  "uMjW4W3t9KU.p2",
+  "25QVwtVn_vU.p0",
+  "25QVwtVn_vU.p1",
+  "25QVwtVn_vU.p2",
+  "m1CGoeh67d8.p0",
+  "m1CGoeh67d8.p1",
+  "m1CGoeh67d8.p2",
+  "KvWQgL7F6uA.p0",
+  "KvWQgL7F6uA.p1",
+  "KvWQgL7F6uA.p2",
+  "KvWQgL7F6uA.p3",
+  "-Se8-c7hwCY.p0",
+  "-Se8-c7hwCY.p1",
+  "-Se8-c7hwCY.p2",
+  "-Se8-c7hwCY.p3",
+  "O_dUzeQJI1A.p0",
+  "O_dUzeQJI1A.p1",
+  "CJ6eTIN4I24.p0",
+  "CJ6eTIN4I24.p1",
+  "B33ef93oEfc.p0",
+  "B33ef93oEfc.p1",
+  "Ls9dONFSUdE.p0",
+  "Ls9dONFSUdE.p1",
+  "1p_lsyCPDNI.p0",
+  "1p_lsyCPDNI.p1",
+  "1p_lsyCPDNI.p2",
+  "gXetjsfTehQ.p0",
+  "gXetjsfTehQ.p1",
+  "gXetjsfTehQ.p2",
+  "c4Z6JwrhgHE.p0",
+  "c4Z6JwrhgHE.p1",
+  "X86NdnJbsv0.p0",
+  "X86NdnJbsv0.p1",
+  "X86NdnJbsv0.p2",
+  "qfbRmm65sWA.p0",
+  "qfbRmm65sWA.p1",
+  "Xf5Wq091Q5I.p0",
+  "Xf5Wq091Q5I.p1",
+  "Xf5Wq091Q5I.p2",
+  "3xtT0BT10-c.p0",
+  "3xtT0BT10-c.p1",
+  "3xtT0BT10-c.p2",
+  "gyp6zz_i7mA.p0",
+  "gyp6zz_i7mA.p1",
+  "gyp6zz_i7mA.p2",
+  "FPIB0YGy9oI.p0",
+  "FPIB0YGy9oI.p1",
+  "FPIB0YGy9oI.p2",
+  "1goBlUDSYjA.p0",
+  "1goBlUDSYjA.p1"
+ ]
+}
