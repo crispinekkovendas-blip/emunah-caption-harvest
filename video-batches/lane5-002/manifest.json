@@ -1,0 +1,253 @@
+{
+ "name": "lane5-002",
+ "lane": 5,
+ "created": "2026-10-12T10:00:14.519Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "dOsg0KiIlro",
+   "title": "Vezot HaBrachá: a bênção de Moshé e a unidade de Israel",
+   "lines": 1564,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "a8Z7Gfbz-j8",
+   "title": "Vezot HaBeraçá: a bênção una de Moshe às tribos",
+   "lines": 1561,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "H9DQ1Hmd7gk",
+   "title": "Chok LeIsrael: bênçãos de Dan, Naftali, Asher e outros temas",
+   "lines": 610,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "nAryubc9xz4",
+   "title": "Renovação sem fim: a Haftará de Parashat HaChodesh",
+   "lines": 861,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "OjjcgcKrH78",
+   "title": "O Shemá e a Unidade de HaShem",
+   "lines": 230,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "n31GHf2Xroo",
+   "title": "Shelach Lecha: turistas ou espiões, o copo meio cheio",
+   "lines": 1980,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rg7dZWXeQvo",
+   "title": "O oitavo dia: a morte de Nadav e Avihu e a justificação do Juízo",
+   "lines": 1156,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FbDMUZVqBo8",
+   "title": "Ki Tetzê: a grande guerra contra o yêtser hará",
+   "lines": 1238,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "MJmV5e9Xf0k",
+   "title": "ככל היוצא מפיו יעשה: o poder da palavra e da maldição",
+   "lines": 716,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "I3eBWGXIrek",
+   "title": "Halachot de pizzaria, Birkat HaGomel e a Parashá Ekev",
+   "lines": 1336,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xHZRU2Cn4Xw",
+   "title": "Parashat Shemini: Nadav e Avihu, o bezerro e a arnevet",
+   "lines": 901,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qUw7MfSCcYs",
+   "title": "Amor e temor em Yerushalayim: cantores e porteiros",
+   "lines": 903,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "JXf1bV_bNlg",
+   "title": "Roma, o Exílio de Edom e o Chamado à Teshuvá",
+   "lines": 327,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "UD4Oi3ANetw",
+   "title": "Elul, teshuvá e a responsabilidade mútua em Nitzavim-Vayelech",
+   "lines": 852,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "WQpbWNekZJc",
+   "title": "Bein HaMetzarim: luto pela Shechiná e pelo Templo",
+   "lines": 1441,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tDO69vmZ86k",
+   "title": "Parashat Chukat: a Torá como chok e a hishtadlut",
+   "lines": 851,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "yoqg-ODs-iA",
+   "title": "Pinchas: ruptura das middot e constância no serviço",
+   "lines": 1600,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Vw8cMrbRxxY",
+   "title": "Parashá Ekev: a condição para conquistar e herdar a Terra",
+   "lines": 1511,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "kWml1Ms7970",
+   "title": "Anshei Emuná avadu: os que vêm pelo mérito dos atos",
+   "lines": 656,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "oH_9qNZJKbw",
+   "title": "Sefirat HaOmer: Torá ou Rabanan, e a Brit Milá",
+   "lines": 829,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "H-xpr81UVis",
+   "title": "Parashá Vayerá: o banquete de Avraham e a semelhança de Yitzchak",
+   "lines": 809,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ui7pjyEIIkQ",
+   "title": "Shemot: a Torá e o valor de multiplicar a natalidade",
+   "lines": 1042,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "u39xuTlKVkQ",
+   "title": "Gratidão e renovação: Bikurim, Chana e a redenção",
+   "lines": 1371,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "gP0rfb7MS3k",
+   "title": "O significado universal de Rosh Hashaná",
+   "lines": 687,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "gPyvr8Mp-A8",
+   "title": "Oração de Agradecimento e Pedidos a Hashem",
+   "lines": 65,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "dOsg0KiIlro.p0",
+  "dOsg0KiIlro.p1",
+  "dOsg0KiIlro.p2",
+  "dOsg0KiIlro.p3",
+  "a8Z7Gfbz-j8.p0",
+  "a8Z7Gfbz-j8.p1",
+  "a8Z7Gfbz-j8.p2",
+  "a8Z7Gfbz-j8.p3",
+  "H9DQ1Hmd7gk.p0",
+  "H9DQ1Hmd7gk.p1",
+  "nAryubc9xz4.p0",
+  "nAryubc9xz4.p1",
+  "OjjcgcKrH78.p0",
+  "n31GHf2Xroo.p0",
+  "n31GHf2Xroo.p1",
+  "n31GHf2Xroo.p2",
+  "n31GHf2Xroo.p3",
+  "n31GHf2Xroo.p4",
+  "rg7dZWXeQvo.p0",
+  "rg7dZWXeQvo.p1",
+  "rg7dZWXeQvo.p2",
+  "FbDMUZVqBo8.p0",
+  "FbDMUZVqBo8.p1",
+  "FbDMUZVqBo8.p2",
+  "MJmV5e9Xf0k.p0",
+  "MJmV5e9Xf0k.p1",
+  "I3eBWGXIrek.p0",
+  "I3eBWGXIrek.p1",
+  "I3eBWGXIrek.p2",
+  "xHZRU2Cn4Xw.p0",
+  "xHZRU2Cn4Xw.p1",
+  "xHZRU2Cn4Xw.p2",
+  "qUw7MfSCcYs.p0",
+  "qUw7MfSCcYs.p1",
+  "qUw7MfSCcYs.p2",
+  "JXf1bV_bNlg.p0",
+  "UD4Oi3ANetw.p0",
+  "UD4Oi3ANetw.p1",
+  "WQpbWNekZJc.p0",
+  "WQpbWNekZJc.p1",
+  "WQpbWNekZJc.p2",
+  "WQpbWNekZJc.p3",
+  "tDO69vmZ86k.p0",
+  "tDO69vmZ86k.p1",
+  "yoqg-ODs-iA.p0",
+  "yoqg-ODs-iA.p1",
+  "yoqg-ODs-iA.p2",
+  "yoqg-ODs-iA.p3",
+  "Vw8cMrbRxxY.p0",
+  "Vw8cMrbRxxY.p1",
+  "Vw8cMrbRxxY.p2",
+  "Vw8cMrbRxxY.p3",
+  "kWml1Ms7970.p0",
+  "kWml1Ms7970.p1",
+  "oH_9qNZJKbw.p0",
+  "oH_9qNZJKbw.p1",
+  "H-xpr81UVis.p0",
+  "H-xpr81UVis.p1",
+  "ui7pjyEIIkQ.p0",
+  "ui7pjyEIIkQ.p1",
+  "ui7pjyEIIkQ.p2",
+  "u39xuTlKVkQ.p0",
+  "u39xuTlKVkQ.p1",
+  "u39xuTlKVkQ.p2",
+  "u39xuTlKVkQ.p3",
+  "gP0rfb7MS3k.p0",
+  "gP0rfb7MS3k.p1",
+  "gPyvr8Mp-A8.p0"
+ ]
+}
