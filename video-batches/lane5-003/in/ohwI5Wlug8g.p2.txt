@@ -1,0 +1,132 @@
+videoId: ohwI5Wlug8g
+parte 3 de 3 · traduzir as linhas 900 a 1007 (108 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Nedarim e shevuot: o sentido de Matot
+RESUMO: O rabino abre com avisos sobre a viagem a Tsfat, ao túmulo do Arizal, na véspera de Tu BeAv (5 de Av), e passa à Parashá Matot, que começa com os votos e juramentos. Com Rashi ele explica por que a Torá diz "aos chefes das tribos, aos filhos de Israel": Moshe ensinava primeiro os líderes e depois todo o povo, segundo a Gemará de Eruvin, e a lei do voto foi destacada para ensinar que ele se anula perante um sábio especialista ou perante três leigos. Ele levanta a pergunta de Chagigá 10a (por que "ele não profanará sua palavra" se outros podem anular) e responde que o voto de mitsvá vale como está escrito, enquanto o voto de permissão pode ser anulado. Cita Nedarim 22a, o Rambam (Hilchot Deot 3:1), o Shulchan Arukh (Yoré Deá 203 e 228) e Guitin para mostrar que só se faz voto para reforçar uma mitsvá, que o voto deve ser detalhado ao sábio e que não se anula voto sobre uma proibição. Discute o juramento de cumprir mitsvot (Ran, Ramban, Ketsot HaChoshen, Kehilot Yaakov) e o versículo "e HaShem a perdoará" (Rashi, Kidushin, Ben Ish Chai). Termina com Bamidbar 31, "e foram entregues" (Shelá HaKadosh) e a leitura do Rebe de Ostrovtsa sobre a dedicação de Israel por Moshe e o desvio do decreto aos inimigos.
+MOMENTOS: 00:30 Viagem ao túmulo do Arizal em Tsfat · 02:36 Matot abre com votos e juramentos · 03:53 Rashi: os chefes das tribos aprendem primeiro · 07:04 Por que a lei dos votos: o especialista anula · 09:47 Duas perguntas sobre o versículo · 12:09 Quem faz voto é chamado perverso · 19:44 Rambam sobre quem se proíbe com votos · 22:50 Só se faz voto para reforçar mitsvá · 24:07 Não se anula voto sobre proibição · 29:21 Respostas às perguntas pelo Drash · 37:20 Juramento de cumprir mitsvot e Kehilot Yaakov · 43:35 "E HaShem a perdoará": pensamento mau · 48:07 Os mil por tribo e o Rebe de Ostrovtsa
+FONTES CITADAS: 00:42 Bamidbar 30:2 · 03:53 Rashi em Bamidbar 30:2 · 04:09 Shemot 34:31-32 · 04:42 Vayikra 17:2 · 05:21 Eruvin 54b · 08:46 Tradição sobre Moshe e Yehoshua · 09:00 Eruvin 54b · 10:06 Chagigá 10a · 12:17 Nedarim 22a · 13:56 Nedarim 22a · 15:30 Nedarim 22a · 19:44 Rambam, Hilchot Deot 3:1 · 21:23 Nedarim 22a · 22:03 Zevachim 107b · 22:50 Shulchan Arukh, Yoré Deá 203 · 23:03 Nedarim 8a · 23:09 Pirkei Avot 3:13 · 24:07 Shulchan Arukh, Yoré Deá 228:15 · 25:04 Shulchan Arukh, Yoré Deá 228:14 · 27:33 Guitin 35b · 31:21 Bamidbar 30:3 · 31:42 Tehilim 119:106 · 34:23 Hatarat nedarim de Rosh HaShaná e Yom Kipur · 37:27 Nedarim 8a · 38:33 Ran em Nedarim 8a · 39:30 Ramban, Milchamot HaShem em Shevuot 13b · 39:51 Ketsot HaChoshen, Choshen Mishpat 73:5 · 40:05 Meiri · 40:19 Kehilot Yaakov (Steipler), Nedarim 10 · 43:40 Bamidbar 30:6 · 43:47 Rashi em Bamidbar 30:6 · 44:18 Kidushin 40a · 46:25 Ben Ish Chai, Ben Yehoyada em Kidushin 81b · 48:16 Bamidbar 31:1-2 · 48:44 Bamidbar 31:3-5 · 49:15 Rashi em Bamidbar 31:5 · 50:36 Shelá HaKadosh · 52:16 Bamidbar 11:12 · 52:48 Rebe de Ostrovtsa · 53:38 Bamidbar 25:1 · 54:20 Bamidbar 25:11 · 55:03 Yeshayahu 43:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+888|51:23|אז הראיה תהיה בזמן הפטירה,
+889|51:26|בזמן שהגדול מסתלק.
+890|51:30|אז עכשיו רואים אם בן אדם הוא מוכן לעשות
+891|51:34|הכל בשביל שיישאר איתו
+892|51:36|המנהיג או שלא.
+893|51:40|אם לא זה אומר שגם שהוא קנטר במשך החיים
+894|51:43|זה בגלל שהוא לא אבל אם כן ואם הוא מוכן
+895|51:47|ללכת כפרה על הצדיק
+896|51:50|זה אומר שגם מה שהוא בא בתלונות זה בא
+897|51:53|מתוך אהבה אצל משה רבנו רבותיי היקרים זה
+898|51:56|בא מתוך האהבה
+899|51:59|הראיה שמתי שבאו בתלונות למשה רבנו ואמרו
+
+LINHAS A TRADUZIR:
+900|52:02|לו ככה וככה וזה והוצאת אותנו ואין לנו
+901|52:05|אוכל ואין לנו מים אתם יודעים מה הכוונה
+902|52:08|הכוונה אתה אבא שלנו אתה צריך לדאוג לנו
+903|52:12|>> אנחנו סומכים עליך ומה אמר משה רבנו לקדוש
+904|52:16|ברוך הוא האנוכי ילדתי את העם הזה אנוכי
+905|52:19|הרתי הוא מה אתה כי אתה אומר אליי סאור
+906|52:22|כמה
+907|52:23|מה מה ני
+908|52:26|אתם מבינים שזו היה בעצם ההרגשה
+909|52:30|אנוכי עריתי את העם הזה
+910|52:33|זו הייתה ההרגשה הראיה שבזמן הפטירה פתאום
+911|52:36|המסרו נפש בשביל משה רבנו
+912|52:39|אז זה לא פתאום זה הסיפה שהעידה לרשע שהכל
+913|52:44|זה היה אהבה מושלמת למשה רבנו זה כותב השל
+914|52:48|הקדוש עכשיו הרבי מאוסטרפצה
+915|52:51|הוא אומר רבותיי היקרים ותבינו למה אני
+916|52:54|אומר לכם שיש פה סוד בסדר
+917|52:58|הוא אומר אני לא מבין מה המסירות נפש של
+918|53:00|עם ישראל עכשיו הם יודעים שאם הם יוצאים
+919|53:03|למלחמה משה רבנו ילקח מאיתם הם הולכים
+920|53:07|לנקום את את הנקמה במדיין זה התנאי שמשה
+921|53:10|רבנו נלקח מי מי ירצה שמשה רבנו ילקח למה
+922|53:15|זה נקרא בואו ראה אומר רש"י תראה כמה
+923|53:19|להודיעך שבחן כמה חביבים על ישראל
+924|53:23|לא רצו ללכת עד שנמסרו בעל כורחן אומר זה
+925|53:27|פשוט שהם התנהגו ככה זה פשיטה
+926|53:31|שככה אמורים להתנהג
+927|53:34|מה ההתפעלות מה החידוש
+928|53:37|הוא אומר דבר כזה.
+929|53:40|תראו,
+930|53:44|כתוב בסוף פרשת בלק שעם ישראל חטאו בבנות
+931|53:49|מואב ויזנו העם אל בנות מואב. כתוב מפורש.
+932|53:54|ואז היה מידת הדין גדולה מאוד על עם
+933|53:57|ישראל.
+934|53:58|היה מידת הדין והייתה מגפה. כמה אנשים מתו
+935|54:03|שמה במגפה?
+936|54:05|24,000. זאת אומרת, תבינו איזה השם ירחם,
+937|54:08|איזה מידת הדין חזקה הייתה על עם ישראל.
+938|54:12|מתו כל כך הרבה אנשים.
+939|54:14|בא פנחס, עשה מה שעשה, קינה את קינת השם,
+940|54:20|מתק את מיטת הדין. פנחס בן אלעזר, בן
+941|54:24|אהרון הכהן, השיב את חומתי מעל בני ישראל
+942|54:27|בקנות קינתי בתוכם. ולא חיליתי את בני
+943|54:28|ישראל.
+944|54:30|עכשיו אומר הרבי מאוסטרופצה דבר כזה דע לך
+945|54:35|שגם כאשר מידת הדין נמתקה מעל ישראל וגם
+946|54:39|כאשר מידת הדין שכחה הכל נרגע
+947|54:44|אבל הייתה פה גזירה של קליה
+948|54:47|הייתה פה גזירה של מיטה
+949|54:50|הגזירה הזאת צריכה לחול איפה שהוא
+950|54:55|צריכה לחול איפה שהוא
+951|54:58|וכתוב בספרים הקדושים
+952|55:01|על הפסוק
+953|55:03|ואתן אדם תחתיך.
+954|55:06|זאת אומרת שהגזרה של המיטה הייתה צריכה
+955|55:10|לעבור לאומות העולם.
+956|55:14|ואם היא לא תעבור לאומות העולם זה חוזר
+957|55:17|חזרה על עם ישראל.
+958|55:21|זה חוזר חזרה חלילה על עם ישראל.
+959|55:24|ולכן
+960|55:26|מיד היה צריך לנקום את נקמת השם במדיין
+961|55:30|ולצאת למלחמת מדיין
+962|55:34|בגלל שהם החתי את עם ישראל ועל ידי שהם
+963|55:39|יהרגו את המדיינים
+964|55:41|זה יציל את עם ישראל מהמיטה
+965|55:46|שהייתה אמורה לבוא עליהם על עם ישראל
+966|55:51|ועכשיו נבין את המסירות נפש של עם ישראל,
+967|55:53|עם ישראל בעצם
+968|55:56|אומרים להם צריך ללכת לצאת מיד להילחם
+969|55:59|במדיין.
+970|56:01|הם אומרים רגע, אבל המיטה של משה רבנו
+971|56:04|תלויה בדבר הזה. לא רוצים ללכת, לא רוצים
+972|56:08|שמשה רבנו ילקח מיתה. אבל אם אתם לא תלכו,
+973|56:11|מידת הדין חוזרת על עם ישראל.
+974|56:14|ויתן אדם תחתיך, הגויים צריכים ללכת כפרה
+975|56:17|עליכם.
+976|56:21|הם אומרים אנחנו מעדיפים אנחנו שתחזור
+977|56:25|מידת הדין עלינו ואנחנו מעדיפים אנחנו
+978|56:29|למות
+979|56:30|ושמשה רבנו ישאר.
+980|56:34|ככה הוא כותב.
+981|56:36|רבותיי היקרים
+982|56:39|אני שואל אתכם לא אומר שואל.
+983|56:44|בשמחת תורה
+984|56:46|היה מידת הדין על עם ישראל?
+985|56:50|מה שנקרא בשביעי באוקטובר
+986|56:53|היה מידת הדין קשה מאוד מאוד מאוד מאוד
+987|56:57|מאוד מאוד אין ספק שבעולם
+988|57:01|והדבר הזה
+989|57:04|היה שם פעולות גדולות רבותיי
+990|57:07|שהיה שם מיתוק הדין
+991|57:11|לאחר מכן מתוק הדין
+992|57:14|אבל הגזירה והייתה גזירה קשה מאוד על כל
+993|57:18|כלל על ישראל. הייתה גזירה קשה מאוד.
+994|57:21|הגזירה הזאת היא כבר יצאה
+995|57:26|ולאחר שהיה המיתוק, הגזירה הזאת צריכה
+996|57:30|לעבור למקום אחר.
+997|57:33|והגזירה הזאת עברה
+998|57:37|לאויבי ישראל
+999|57:39|שהם היו צריכים למות בכמויות.
+1000|57:43|ויתן אדם תחתיך.
+1001|57:47|וכל העניין הזה רבותיי שלאחר מכן אנחנו
+1002|57:51|רואים איפה שרואים שהיה מידת הדין וכולי
+1003|57:53|פתאום רואים איך זה פוגע באויבי ישראל
+1004|57:58|ויהי רצון שככה השם יתברך תמיד יעשה לנו
+1005|58:02|ניסים ונפלאות ונזכה כולנו לחזור בתשובה
+1006|58:05|שלמה מאהבה ונראה בגילוי כבוד מלכות שמיים
+1007|58:09|במרה אמן ואמן אמן ‏am

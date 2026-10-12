@@ -1,0 +1,256 @@
+{
+ "name": "lane5-003",
+ "lane": 5,
+ "created": "2026-10-12T14:13:52.870Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "UrbeizPVTYU",
+   "title": "Quanto o judeu é importante para HaShem: Balak e Bilam",
+   "lines": 1495,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "hfZdVB4JTo8",
+   "title": "Rosh Chodesh Sivan: Bitul e a preparação para a Torá",
+   "lines": 1263,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "YlSj3LT_so8",
+   "title": "A consolação dos guardiões do portão: Haftará de Shoftim",
+   "lines": 666,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Ktv-fV2aGpU",
+   "title": "Os cinco estágios do julgamento: de Rosh Hashaná a Shemini Atzeret",
+   "lines": 723,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "mM_sAeGS_EE",
+   "title": "Vezot HaBerachá: a bênção que nasceu da guerra",
+   "lines": 917,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "I9Y9Vv6YMr0",
+   "title": "Não se ressinta: o segredo do portão Nun (Mei HaShiloach)",
+   "lines": 715,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "CSlm7sFF_4A",
+   "title": "Hishtadlut, kibud av va'em e Parashat HaChodesh",
+   "lines": 1636,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "dBRXwOessic",
+   "title": "Parashá Behar: as leis da proibição de juros",
+   "lines": 932,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5qRvtwNhIMg",
+   "title": "Bechukotai: a Torá e a guerra com os árabes",
+   "lines": 430,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "RThBKomaAOo",
+   "title": "Bechukotai, Bamidbar e o esforço na Torá antes de Shavuot",
+   "lines": 1022,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Phu1AMgeDyI",
+   "title": "Controle da raiva: Paracetamol e antibiótico",
+   "lines": 1165,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xFWecXoJy-8",
+   "title": "As 13 Midot de Misericórdia e a guerra Rugido do Leão",
+   "lines": 841,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HqwyYg-NCeQ",
+   "title": "Parashá Ekev: confiança em si e alegria de viver",
+   "lines": 1582,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ohwI5Wlug8g",
+   "title": "Nedarim e shevuot: o sentido de Matot",
+   "lines": 1008,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "WlNGeJfCdkI",
+   "title": "Parashat Haazinu: o documento que explica o sofrimento",
+   "lines": 1243,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Swf56sUOpXQ",
+   "title": "Tetzavê e a guerra: o óleo batido que dá luz",
+   "lines": 781,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "LlpYP19VKMQ",
+   "title": "Ver a Presença Divina: a alegria no Beit HaMikdash",
+   "lines": 668,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wwbzPYGu_44",
+   "title": "Mashiach: uma revolução que vem de Lot e Avraham",
+   "lines": 1185,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "IEOgu930b9Q",
+   "title": "Tsitsit, Shabat e os 32 dentes: o fim de Shelach Lecha",
+   "lines": 911,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "VlWzr26G5m8",
+   "title": "Parashá Chukat: as leis da Torá e as leis da ciência",
+   "lines": 670,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "SlCDZQKz2p0",
+   "title": "Shabat, festas e dias úteis: como viver o tempo",
+   "lines": 1391,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2NA2a8fXIiw",
+   "title": "Santidade do acampamento e o zelo de Pinchas",
+   "lines": 986,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ahMulN9PZws",
+   "title": "Os espiões dentro da cabeça: Parashá Shelach Lecha",
+   "lines": 958,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "kziUCQ88sj4",
+   "title": "Parashá Vaerá: conhecer HaShem pelo Êxodo",
+   "lines": 1388,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "09rltkwXKZI",
+   "title": "A lei da responsabilidade: a realidade não se engana",
+   "lines": 1103,
+   "parts": 3,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "UrbeizPVTYU.p0",
+  "UrbeizPVTYU.p1",
+  "UrbeizPVTYU.p2",
+  "UrbeizPVTYU.p3",
+  "hfZdVB4JTo8.p0",
+  "hfZdVB4JTo8.p1",
+  "hfZdVB4JTo8.p2",
+  "YlSj3LT_so8.p0",
+  "YlSj3LT_so8.p1",
+  "Ktv-fV2aGpU.p0",
+  "Ktv-fV2aGpU.p1",
+  "mM_sAeGS_EE.p0",
+  "mM_sAeGS_EE.p1",
+  "mM_sAeGS_EE.p2",
+  "I9Y9Vv6YMr0.p0",
+  "I9Y9Vv6YMr0.p1",
+  "CSlm7sFF_4A.p0",
+  "CSlm7sFF_4A.p1",
+  "CSlm7sFF_4A.p2",
+  "CSlm7sFF_4A.p3",
+  "dBRXwOessic.p0",
+  "dBRXwOessic.p1",
+  "dBRXwOessic.p2",
+  "5qRvtwNhIMg.p0",
+  "RThBKomaAOo.p0",
+  "RThBKomaAOo.p1",
+  "RThBKomaAOo.p2",
+  "Phu1AMgeDyI.p0",
+  "Phu1AMgeDyI.p1",
+  "Phu1AMgeDyI.p2",
+  "xFWecXoJy-8.p0",
+  "xFWecXoJy-8.p1",
+  "HqwyYg-NCeQ.p0",
+  "HqwyYg-NCeQ.p1",
+  "HqwyYg-NCeQ.p2",
+  "HqwyYg-NCeQ.p3",
+  "ohwI5Wlug8g.p0",
+  "ohwI5Wlug8g.p1",
+  "ohwI5Wlug8g.p2",
+  "WlNGeJfCdkI.p0",
+  "WlNGeJfCdkI.p1",
+  "WlNGeJfCdkI.p2",
+  "Swf56sUOpXQ.p0",
+  "Swf56sUOpXQ.p1",
+  "LlpYP19VKMQ.p0",
+  "LlpYP19VKMQ.p1",
+  "wwbzPYGu_44.p0",
+  "wwbzPYGu_44.p1",
+  "wwbzPYGu_44.p2",
+  "IEOgu930b9Q.p0",
+  "IEOgu930b9Q.p1",
+  "IEOgu930b9Q.p2",
+  "VlWzr26G5m8.p0",
+  "VlWzr26G5m8.p1",
+  "SlCDZQKz2p0.p0",
+  "SlCDZQKz2p0.p1",
+  "SlCDZQKz2p0.p2",
+  "SlCDZQKz2p0.p3",
+  "2NA2a8fXIiw.p0",
+  "2NA2a8fXIiw.p1",
+  "2NA2a8fXIiw.p2",
+  "ahMulN9PZws.p0",
+  "ahMulN9PZws.p1",
+  "ahMulN9PZws.p2",
+  "kziUCQ88sj4.p0",
+  "kziUCQ88sj4.p1",
+  "kziUCQ88sj4.p2",
+  "kziUCQ88sj4.p3",
+  "09rltkwXKZI.p0",
+  "09rltkwXKZI.p1",
+  "09rltkwXKZI.p2"
+ ]
+}

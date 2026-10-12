@@ -1,0 +1,62 @@
+videoId: kziUCQ88sj4
+parte 4 de 4 · traduzir as linhas 1350 a 1387 (38 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashá Vaerá: conhecer HaShem pelo Êxodo
+RESUMO: O rabino começa pelos primeiros versículos da Parashá Vaerá (Shemot 6:2-3), em que aparecem três nomes: Elokim, HaShem e El Shakai. Explica que os nomes divinos são nomes de conduta, e não definições: Elokim é o poder que cria a natureza e suas leis, El Shakai é o D'us que disse "basta" ao mundo (Midrash) e que fez a promessa aos Patriarcas ainda sem cumpri-la, e HaShem é o nome da Existência que dá ser a tudo e que ultrapassa as leis da natureza. As dez pragas e a travessia do mar são essa revelação; por isso Faraó diz "não conheço HaShem" (Shemot 5:2) e o texto repete "e sabereis que Eu sou HaShem" (Shemot 6:7, 7:5, 10:2). Ele passa por Yitro (Shemot 18:11) e pelo Midrash dos três conselheiros de Faraó, que reconhece a grandeza de HaShem por causa do Êxodo. Em seguida expõe o Ramban sobre o primeiro dos Dez Mandamentos (Shemot 20:2): é um mandamento de saber, e não só de acreditar, que HaShem é eterno, tudo vem da Sua vontade e capacidade, e a fé vem depois do conhecimento. Por fim, o Êxodo prova a existência, a vontade, a providência, a criação do mundo do nada e a unicidade, e Rabeinu Bachya explica por que o texto diz "que te tirei do Egito" e não "que criei o mundo".
+MOMENTOS: 01:25 Três nomes divinos no início da Parashá · 02:47 Elokim: o poder da Criação e das leis da natureza · 04:10 O nome como definição e como forma de conduta · 10:03 Midrash: El Shakai, "disse ao mundo: basta" · 15:12 HaShem: o nome da Existência, que dá ser a tudo · 19:03 Faraó: "Não conheço HaShem" · 24:32 Por que dez pragas: para que saibam que Eu sou HaShem · 29:46 Êxodo: o poder acima das leis da natureza · 34:09 Ehyeh asher Ehyeh e o Midrash "basta de aflição" · 40:03 Yitro e os três conselheiros de Faraó · 48:23 Ramban: o mandamento de saber e não só crer · 56:00 Vontade e capacidade: tudo vem de HaShem · 1:03:41 O Êxodo prova existência, vontade, providência e criação · 1:14:05 Rabeinu Bachya: por que "que te tirei do Egito"
+FONTES CITADAS: 01:28 Shemot 6:2-3 · 02:28 Bereshit 1:1 · 03:38 Shemot 3:13 · 04:20 Bereshit 2:19 · 07:08 Shemot 5:22-23 · 07:18 Shemot 6:1 · 10:03 Midrash sobre El Shakai · 13:51 Bereshit 15:13 · 15:44 Zecharia 14:9 · 21:00 Shemot 6:4-5 · 21:49 Shemot 6:6-8 · 22:56 Shemot 20:2 · 23:50 Shemot 7:3-5 · 25:14 Shemot 10:1-2 · 26:46 Shemot 29:45-46 · 27:41 Bamidbar 15:41 · 26:22 Hagadá de Pessach, dez pragas · 33:34 Shemot 3:14 · 34:09 Midrash sobre Ehyeh asher Ehyeh (Berachot 9b) · 34:57 Shemot 3:15 · 37:08 Shemot 5:1 · 38:41 Shemot 5:2 · 40:03 Midrash dos três conselheiros de Faraó (Sotá 11a) · 43:48 Shemot 18:9-11 · 45:00 Shemot 18:11 · 45:34 Shemot 1:22 · 47:00 Shemot 20:2-13 · 48:23 Ramban em Shemot 20:2 · 54:06 Ramban em Shemot 20:2 · 1:01:02 Ramban em Shemot 20:2 · 1:05:11 Rambam, Moré Nevuchim, sobre a eternidade do mundo · 1:09:49 Tradição transmitida de pai para filho · 1:10:41 Shemá, Bamidbar 15:41 · 1:11:40 Tehilim 111:4 · 1:12:01 Mitsvot que lembram o Êxodo · 1:13:41 Devarim 6:4 · 1:13:46 Shemot 9:14 · 1:14:05 Rabeinu Bachya em Shemot 20:2 · 1:16:17 Shemot 6:3
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+1338|1:14:29|הבריאה אנוכי השם אלוקיך אשר בראתי אותך
+1339|1:14:32|ובראתי את העולם למה כתוב אשר רוצה תיחמר
+1340|1:14:35|את מצרים. אז מסביר את זה רבנו בחי. קודם
+1341|1:14:37|בוא נגמור את דבריו של הרמבן כאן. וזה טעם
+1342|1:14:39|אשרוצתיך כי הם היודעים ועדים בכל אלה.
+1343|1:14:44|למי זה נאמר אנוכי השם אלוקיך?
+1344|1:14:47|לבני ישראל שיצאו ממצרים 50 יום קודם לכן
+1345|1:14:50|נכון אחרי מכת בכורות 50 יום מגיעים למתן
+1346|1:14:53|תורה. אז הוא מדבר איתם ואומר אתם הייתם
+1347|1:14:56|פה 50 לפני פחות מחודשיים וראיתם לאורך כל
+1348|1:14:59|השנה שבה התרחשו 10 מכות מצרים את כל 10
+1349|1:15:02|מכות מצרים. לכן אנוכי השם אלוקיך אשר
+
+LINHAS A TRADUZIR:
+1350|1:15:05|הרוצאתיך מרץ ישראל מכיוון שראית את יציאת
+1351|1:15:09|מצרים לכן אתה יודע
+1352|1:15:13|שיש אלוקים ושהוא הוויה ושהוא המהווה
+1353|1:15:17|ושהוא בעל היכולת ובעל הרצון זה זה
+1354|1:15:20|המשמעות של זה אומר רבנו בחיה בוא נראה
+1355|1:15:23|אולי את זה בלשונו
+1356|1:15:25|הנה ומפני זה לא אמר אנוכי השם אלוקיך אשר
+1357|1:15:28|בראתי את השמיים ואת הארץ כי לא ראו זה
+1358|1:15:31|בעיניהם מי היה שמה לראות
+1359|1:15:33|לא היה אדם ביום הראשון של הבריאה לראות
+1360|1:15:35|שהקדוש ברוך הוא בורא את העולם. האדם נברא
+1361|1:15:37|רק ביום השישי, נכון? אז אם הוא היה אומר,
+1362|1:15:39|אנוכי השם אלוקח שבראתי את העולם, אז
+1363|1:15:42|היינו צריכים להאמין שזה כך. הועיל
+1364|1:15:44|והציבוי הוא לא להאמין, אלא לדעת
+1365|1:15:47|באיזה שלב אנחנו יודעים ביציאת מצרים. כי
+1366|1:15:51|ביציאת מצרים היה את שינוי חוקי הטבע
+1367|1:15:53|שיכול להתבצע רק על ידי מי שברא את העולם.
+1368|1:15:57|ולכן יציאת מצרים מוכיחה רטרוקטיבית
+1369|1:16:00|על מציאות השם, על היכולת האלוקית וכולי.
+1370|1:16:03|זה המשמעות של הדיבר הראשון. אנוכי השם
+1371|1:16:05|אלוקיך שצאתי לך מארץ מצרים. ולכן כשאנחנו
+1372|1:16:09|עכשיו נקרא שוב את פרשת ואר ונבין מה
+1373|1:16:12|הקדוש ברוך הוא אומר למשה רבנו בתחילת
+1374|1:16:14|הפרשה, אני השם
+1375|1:16:17|לאברהם, יצחק ויעקב נודעתי. לא הודעתי,
+1376|1:16:20|נודעתי באל שדי. זה לא היה עם המימוש, זה
+1377|1:16:24|היה עם ההבטחה לפני המימוש שלה. לכם אני
+1378|1:16:27|אראה את המימוש והמימוש
+1379|1:16:29|יוכיח המימוש זה יציאת מצרים 10 מכות
+1380|1:16:32|מצרים וכולי זה יוכיח את כל הדברים שיש
+1381|1:16:36|מציאות השם שהוא בעל היכולת ובעל הרצון
+1382|1:16:41|וכל הדברים שדובר עליהם זה מה שחשבתי
+1383|1:16:45|שמאוד מאוד חשוב ללמוד כשלומדים את פרשת
+1384|1:16:47|וער אני מקווה שכל דבר הזה יעשה לנו שדרוג
+1385|1:16:51|לתובנות גבוהות יותר מבחינת הבסיס של
+1386|1:16:53|היהדות שלנו לדעת
+1387|1:16:55|כי אני השם אלוקיכם, אני הכוונה הוא הקדוש ברוך.
