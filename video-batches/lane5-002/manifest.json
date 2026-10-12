@@ -2,7 +2,7 @@
  "name": "lane5-002",
  "lane": 5,
  "created": "2026-10-12T10:00:14.519Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "dOsg0KiIlro",
@@ -249,5 +249,34 @@
   "gP0rfb7MS3k.p0",
   "gP0rfb7MS3k.p1",
   "gPyvr8Mp-A8.p0"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "dOsg0KiIlro",
+  "a8Z7Gfbz-j8",
+  "H9DQ1Hmd7gk",
+  "nAryubc9xz4",
+  "OjjcgcKrH78",
+  "n31GHf2Xroo",
+  "rg7dZWXeQvo",
+  "FbDMUZVqBo8",
+  "MJmV5e9Xf0k",
+  "I3eBWGXIrek",
+  "xHZRU2Cn4Xw",
+  "qUw7MfSCcYs",
+  "JXf1bV_bNlg",
+  "UD4Oi3ANetw",
+  "WQpbWNekZJc",
+  "tDO69vmZ86k",
+  "yoqg-ODs-iA",
+  "Vw8cMrbRxxY",
+  "kWml1Ms7970",
+  "oH_9qNZJKbw",
+  "H-xpr81UVis",
+  "ui7pjyEIIkQ",
+  "u39xuTlKVkQ",
+  "gP0rfb7MS3k",
+  "gPyvr8Mp-A8"
+ ],
+ "skipped": []
 }
