@@ -1,0 +1,450 @@
+0	Hello everyone. We're in the Haftarah series of the soul. We'll learn	Olá a todos. Estamos na série de Haftarot da alma. Vamos estudar
+1	today the Haftarah of Parashat	hoje a Haftará da Parashá
+2	Shemini. Throughout the Haftarot, we	Shemini. Ao longo das Haftarot, nós
+3	mostly go through the cycle of the weekly Parashiyot, and also	em geral percorremos o ciclo das parashiot da semana, e também
+4	we have many Haftarot that are added on holidays,	temos muitas Haftarot que se acrescentam nas festas,
+5	in the four special Parashiyot.	nas quatro parashiot especiais.
+6	But in any	Mas de qualquer
+7	case, this year we've come to Parashat Shemini after the holiday of	modo, este ano chegamos à Parashat Shemini, depois da festa de
+8	Pesach, and out of all the holiness and awakening of Pesach	Pessach, e saindo de toda a santidade e do despertar de Pessach
+9	we arrive at this Parashah and its Haftarah.	chegamos a esta Parashá e à sua Haftará.
+10	Technically, as for the source of the Haftarah of Parashat	Tecnicamente, quanto à fonte da Haftará da Parashat
+11	Shemini, it's a very long Haftarah, Sefer Shmuel II,	Shemini, é uma Haftará muito longa, do livro de Shmuel II,
+12	chapter 6 plus chapter 7 up to verse 17, a large number	capítulo 6 mais o capítulo 7 até o versículo 17, uma grande quantidade
+13	of verses, uh,	de versículos, é,
+14	we'll try to go over it as much as possible. But before	vamos tentar passar por tudo o que for possível. Mas antes
+15	that, as always, we'll do a quick review of	disso, como sempre, faremos uma revisão rápida da
+16	the Parashah and the simple connection to the Haftarah, and then we'll try to touch	Parashá e da ligação simples com a Haftará, e depois vamos tentar tocar
+17	the depth of things. Parashat Shemini, as its name says,	na profundidade das coisas. A Parashat Shemini, como o nome diz,
+18	is on the eighth day of the inauguration of the Mishkan. After	se passa no oitavo dia da inauguração do Mishkan. Depois que
+19	from the middle of Sefer Shemot we prepare the	desde o meio do livro de Shemot preparamos o
+20	Mishkan, and at the start of Sefer Vayikra we prepare	Mishkan, e no início do livro de Vayikrá preparamos
+21	the sacrifices, the Kohanim, we reach the seven	os sacrifícios, os Kohanim, chegamos aos sete
+22	days of the milu'im, the seven days in which we, yes,	dias dos milu'im, os sete dias em que nós, sim,
+23	on the first of Nisan,	no primeiro de Nissan,
+24	prepare for the inauguration, and then we arrive at the	nos preparamos para a inauguração, e então chegamos ao
+25	eighth day, the day on which finally the Shechinah was to	oitavo dia, o dia em que finalmente a Shechiná deveria
+26	dwell in the Mishkan, and the fire was to descend from heaven.	habitar no Mishkan, e o fogo deveria descer do céu.
+27	And then Parashat Shemini describes: first, Aharon	E então a Parashat Shemini descreve: primeiro, Aharon
+28	does offer the sacrifices, and the fire descends	de fato oferece os sacrifícios, e o fogo desce
+29	from heaven. But it is delayed. Yes, that's also what the Midrashim	do céu. Mas ele se atrasa. Sim, é isso também que os Midrashim
+30	explain about the delay: there were complications, it	explicam sobre o atraso: houve complicações, foi
+31	was more complex than it sounds. And within	mais complexo do que parece. E no meio
+32	these complications something very shocking happens, which for the people of	dessas complicações acontece algo muito chocante, que para o povo de
+33	Israel was seared in for all generations: Nadav and Avihu,	Israel ficou gravado por todas as gerações: Nadav e Avihu,
+34	the two sons of Aharon, offer strange fire.	os dois filhos de Aharon, oferecem fogo estranho.
+35	Yes, what exactly did they do? There are many interpretations, but	Sim, o que exatamente fizeram? Há muitas interpretações, mas
+36	broadly,	em linhas gerais,
+37	they lit fire here on the altar without being asked to	eles acenderam fogo no altar sem que lhes tivessem pedido.
+38	do so. Yes? There was a kind of bursting into	Sim? Houve ali uma espécie de irrupção no
+39	the Kodesh. A kind of attempt to serve	Kodesh. Uma espécie de tentativa de servir
+40	the Holy One, Blessed Be He, not in the proper order. And they	ao Santo, Bendito Seja, fora da ordem correta. E eles
+41	die. And as we said, in the Tanakh many people die,	morrem. E como dissemos, no Tanach muitas pessoas morrem,
+42	but here, yes, whole Parashiyot follow it.	mas aqui, sim, parashiot inteiras vêm depois disso.
+43	"After the death of the two sons of Aharon the Kohen," and there are	"Depois da morte dos dois filhos de Aharon, o Kohen", e há
+44	countless Midrashim about how Aharon needed to be comforted,	inúmeros Midrashim sobre como Aharon precisou ser consolado,
+45	and so many things we'll understand soon. Briefly, again,	e muitas outras coisas que vamos entender logo. Em resumo, de novo,
+46	here we mainly learn the Haftarah, not	aqui estudamos principalmente a Haftará, não
+47	the Parashah, but you can look at previous lessons on	a Parashá, mas é possível ver aulas anteriores sobre
+48	the Parashah, Parashat Shemini, what the complication was there. But	a Parashá, a Parashat Shemini, qual foi a complicação ali. Mas
+49	we'll try to say it here in brief. In any case, the rest of	vamos tentar dizer isso aqui em resumo. De qualquer modo, o resto
+50	the Parashah is that we also have a description of	da Parashá é que temos também uma descrição de
+51	forbidden foods and permitted foods. We need to understand what	alimentos proibidos e alimentos permitidos. Precisamos entender qual
+52	the connection is, yes, why it brings here a detailed list of all kinds of	é a ligação, sim, por que traz aqui uma lista detalhada de todo tipo de
+53	animals that are permitted for eating and forbidden for eating. And toward	animais que são permitidos para comer e proibidos para comer. E perto
+54	the end there are also the laws of tumah and taharah, which again is	do fim há também as leis de tumá e tahará, que de novo estão
+55	connected to Aharon the Kohen and his sons, how they	ligadas a Aharon, o Kohen, e seus filhos, como eles
+56	need	precisam
+57	to conduct themselves so that, Heaven forbid, this disaster does not recur	se conduzir para que, chas veshalom, esse desastre não se repita
+58	like Nadav and Avihu. But in any case, that is Parashat	como o de Nadav e Avihu. Mas de qualquer modo, essa é a Parashat
+59	Shemini. Good, what is the Haftarah? The Haftarah is from Sefer	Shemini. Bem, o que é a Haftará? A Haftará é do livro de
+60	Shmuel, chapters 6 and 7, where an event is described in which David	Shmuel, capítulos 6 e 7, onde se descreve um acontecimento em que Davi
+61	brings the	traz a
+62	[music]	[música]
+63	Where is it? One moment.	Onde é? Um momento.
+64	Uh	Ah
+65	Sorry.	Desculpem.
+66	Shmuel, uh, I happened to open here to	Shmuel, é, abri aqui por acaso em
+67	Shmuel I, sorry, I didn't understand where, what,	Shmuel I, desculpem, não entendi onde, o que,
+68	suddenly I see here. So yes, in Sefer Shmuel II, chapter	de repente estou vendo aqui. Então sim, no livro de Shmuel II, capítulo
+69	6, it is described that David	6, descreve-se que Davi
+70	wants to bring up the Ark of the Covenant of HaShem, which was located	quer subir com a Arca da Aliança de HaShem, que estava
+71	in the City of David, wants to bring it to himself, uh,	na Cidade de Davi, quer trazê-la para si,
+72	to Jerusalem, to his house, yes. In short, uh,	para Jerusalém, para a sua casa, sim. Em resumo,
+73	to bring up the Ark of the Covenant of HaShem to a more	subir com a Arca da Aliança de HaShem para um lugar mais
+74	respected place, a higher place. And there in the procession, uh,	honrado, um lugar mais elevado. E ali, na procissão,
+75	it happens that the Ark almost falls, and a	acontece que a Arca quase cai, e um
+76	Jew named Uzah tries to grab the Ark and HaShem	judeu chamado Uzá tenta segurar a Arca e HaShem
+77	is angry at him and he dies on the spot. And David too	se irrita com ele e ele morre ali mesmo. E Davi também
+78	takes this very hard. He calls the place Perets Uzah.	leva isso muito a sério. Chama o lugar de Perets Uzá.
+79	That, as I said, is more or less chapter 6. And after that,	Isso, como eu disse, é mais ou menos o capítulo 6. E depois,
+80	in chapter 7, the story continues:	no capítulo 7, a história continua:
+81	after the Ark arrived at David's house, David says	depois que a Arca chegou à casa de Davi, Davi diz
+82	to Natan, come, I want to build a Beit HaMikdash,	a Natan: vamos, quero construir um Beit HaMikdash,
+83	I want to build a permanent house where the Ark of the Covenant of HaShem	quero construir uma casa permanente onde estejam a Arca da Aliança de HaShem
+84	and the Tablets of the Covenant will be, and Natan tells him, bottom	e as Tábuas da Aliança, e Natan lhe diz, em suma,
+85	line, after all	depois de todos
+86	kinds of detours, he answers him that in the end, you will not	os tipos de rodeios, ele lhe responde que, no fim, não serás tu
+87	build it, but Shlomo will. Fine, these are the chapters here	quem o construirá, mas Shlomó. Certo, esses são os capítulos
+88	that were chosen as the Haftarah for Parashat Shemini.	que foram escolhidos como Haftará da Parashat Shemini.
+89	Good, what's the connection? So the connection, you understand, there is a	Bem, qual é a ligação? Então a ligação, vocês entendem, há uma
+90	kind of, in both cases, both Nadav and Avihu who	espécie de, nos dois casos, tanto Nadav e Avihu que
+91	burst into the Kodesh and it ended in disaster, here too	irromperam no Kodesh e terminou em desastre, aqui também
+92	there was a kind of bursting into the Kodesh	houve uma espécie de irrupção no Kodesh
+93	that ended in disaster, with Uzah. So that is the simple reading. But	que terminou em desastre, com Uzá. Então esse é o pshat. Mas
+94	that is, we need to understand what was so terrible about what Nadav	é preciso entender o que havia de tão terrível no que Nadav
+95	and Avihu did and what was so terrible about what Uzah did here. And how	e Avihu fizeram e no que Uzá fez aqui. E como
+96	things, as usual, what we try to aim at is	as coisas, como de costume, o que tentamos buscar é
+97	how this touches us. So let's take a moment,	como isso toca a nós. Então vamos por um instante,
+98	briefly, as I said, there were already lessons	em resumo, como eu disse, já houve aulas
+99	and things written on Parashat Shemini. Here we	e textos escritos sobre a Parashat Shemini. Aqui queremos
+100	mainly want to focus on the Haftarah, but in order	principalmente nos concentrar na Haftará, mas para
+101	to understand the Haftarah we need a few words	entender a Haftará precisamos de algumas palavras
+102	to explain the idea of Parashat Shemini. Parashat	para explicar a ideia da Parashat Shemini. A Parashat
+103	Shemini, as I said, on the eighth day the people of Israel	Shemini, como eu disse, no oitavo dia o povo de Israel
+104	arrives at the moment toward which all of history strives,	chega ao momento para o qual toda a história caminha,
+105	this moment when finally, finally there is a Shechinah in this	esse momento em que finalmente, finalmente há uma Shechiná neste
+106	world. The Holy One, Blessed Be He, rests His Shechinah in the house.	mundo. O Santo, Bendito Seja, faz repousar a Sua Shechiná na casa.
+107	All the preparations, all of the people of Israel, the whole Exodus from	Todos os preparativos, todo o povo de Israel, toda a saída do
+108	Egypt, the revelation at Mount Sinai, the preparation of the Mishkan,	Egito, a revelação no Monte Sinai, a construção do Mishkan,
+109	the sacrifices, the donations, everything, everything for the sake of this	os sacrifícios, as doações, tudo, tudo por causa desse
+110	moment. And here, as I said,	momento. E aqui, como eu disse,
+111	something happens	acontece algo
+112	that isn't right. So the thing that isn't right, we saw, with Nadav	que não está certo. Então o que não está certo, vimos, com Nadav
+113	and Avihu, is written explicitly in the Torah, but Chazal	e Avihu, está escrito explicitamente na Torá, mas os Sábios
+114	teach in a Midrash that there was something else, that Aharon tried	ensinam em um Midrash que houve algo mais, que Aharon tentou
+115	at first, uh, to offer the sacrifices, yes, as he	no início, é, oferecer os sacrifícios, sim, como
+116	was commanded on the eighth day, and HaShem did not answer him, as if	foi ordenado no oitavo dia, e HaShem não lhe respondeu, como se
+117	no fire descended from heaven, until Aharon came,	nenhum fogo descesse do céu, até que Aharon veio,
+118	so the Midrash says, Aharon came to Moshe and said	assim diz o Midrash, Aharon veio a Moshé e disse-lhe:
+119	to him, why are you doing this to me, why are you	por que fazes isso comigo, por que me
+120	commanding me to offer, and now I am ashamed	ordenas oferecer, e agora fico envergonhado
+121	before all of Israel? Yes, Elisheva his wife was ashamed too.	diante de todo Israel? Sim, Elisheva, sua esposa, também ficou envergonhada.
+122	In short, there was great shame for Aharon,	Em resumo, houve uma grande vergonha para Aharon,
+123	and then Moshe Rabbeinu strengthens his hands and he does,	e então Moshe Rabeinu fortalece as suas mãos e ele consegue,
+124	uh, succeed in offering the olah, and HaShem. And we said	sim, oferecer a olá, e HaShem. E dissemos
+125	that in parallel Nadav and Avihu too understand that something	que, ao mesmo tempo, Nadav e Avihu também percebem que algo
+126	here isn't going well through Aharon, so now they	aqui não vai bem por meio de Aharon, então agora eles
+127	try to offer their own. Why does Aharon not succeed	tentam oferecer o deles. Por que Aharon não consegue
+128	in making it go up at first, says the Midrash? Why does he not succeed	fazer subir no início, diz o Midrash? Por que ele não consegue
+129	in offering the olah? Because of the sin of the Golden Calf. Fine,	oferecer a olá? Por causa do pecado do bezerro de ouro. Certo,
+130	Aharon has something to atone for, and there is a certain	Aharon tem algo a expiar, e há um certo
+131	process until he truly	processo até que ele de fato
+132	manages, uh, to atone for his sins. The general idea	consiga expiar os seus pecados. A ideia geral
+133	of this whole story, both with Aharon and with	de toda essa história, tanto com Aharon quanto com
+134	Nadav and Avihu, is that there is a way in which the Holy One, Blessed Be He,	Nadav e Avihu, é que há um caminho pelo qual o Santo, Bendito Seja,
+135	rests His Shechinah here in the world.	faz repousar a Sua Shechiná aqui no mundo.
+136	And to go this way a person needs	E para percorrer esse caminho a pessoa precisa
+137	to elevate himself, in order to truly reach a state where a person manifests	se elevar, para realmente chegar a um estado em que a pessoa manifesta
+138	what he is meant to manifest in this world. It comes	o que deve manifestar neste mundo. Isso vem
+139	through an orderly framework, through work and by struggling with	por meio de uma estrutura ordenada, por meio do trabalho e do enfrentamento de
+140	all of it, our whole lives. In the order of things, they do not	tudo isso, a nossa vida inteira. Na ordem das coisas, elas não
+141	happen the way we want, but rather there is here a	acontecem como nós queremos, mas há aqui um
+142	process	processo
+143	that is our whole life and all of history, how a person	que é a nossa vida inteira e toda a história, como a pessoa
+144	slowly, slowly manages to bring up an olah to the Holy One,	aos poucos consegue fazer subir uma olá ao Santo,
+145	Blessed Be He. But many times, when we	Bendito Seja. Mas muitas vezes, quando
+146	run into some difficulty, when the fire of HaShem does not	nos deparamos com alguma dificuldade, quando o fogo de HaShem não
+147	descend	desce
+148	from heaven,	do céu,
+149	we feel that a gap exists. A gap between the world	sentimos que existe uma lacuna. Uma lacuna entre o mundo
+150	that we would want it to be and where	que gostaríamos que existisse e onde
+151	we actually are.	realmente estamos.
+152	This gap is felt, in a very, very strong sensation in the soul	Essa lacuna se manifesta numa sensação muito, muito forte na alma
+153	called	chamada
+154	shame. The reason a person is ashamed is because he	vergonha. A razão de a pessoa sentir vergonha é que ela
+155	feels that his image toward the outside, that the image is	sente que a sua imagem diante dos outros, que a imagem é
+156	really the dreams, the aspirations, what we want	na verdade os sonhos, as aspirações, o que queremos
+157	to be. And of course we try very hard to show	que seja. E é claro que tentamos muito mostrar
+158	that we are at this place, to show it	que estamos nesse lugar, mostrar isso
+159	to everyone. But this thing	a todos. Mas essa coisa
+160	does not appear in practice, and when it does not appear in practice there is	não aparece na prática, e quando ela não aparece na prática há
+161	a certain	uma certa
+162	feeling	sensação
+163	that we are ashamed. So says Ezra the Scribe,	de que sentimos vergonha. Assim diz Ezra, o escriba:
+164	"My Elokim, I am ashamed and I blush to lift up my face to You."	"Meu Elokim, tenho vergonha e me envergonho de levantar o meu rosto a Ti."
+165	That a person is ashamed is a good sign. We see that Chazal say,	Que a pessoa sinta vergonha é um bom sinal. Vemos que os Sábios dizem:
+166	there are three signs in this nation: they are merciful, bashful,	há três sinais nesta nação: são misericordiosos, envergonhados
+167	and doers of kindness. That a person is ashamed means	e praticantes de bondade. Que a pessoa sinta vergonha significa
+168	that he recognizes that he still has	que ela reconhece que ainda tem
+169	work to do. In Gan Eden, Adam and Chavah were naked	trabalho a fazer. No Gan Eden, Adam e Chavá estavam nus
+170	and were not ashamed. In Gan Eden, yes, that is an	e não sentiam vergonha. No Gan Eden, sim, é uma realidade
+171	ideal reality, in which there is no gap between the desired	ideal, na qual não há lacuna entre o desejado
+172	and the actual, between the dreams and where we are. And then	e o real, entre os sonhos e onde estamos. E então
+173	truly there is no shame. But from the day we were expelled from Gan	de fato não há vergonha. Mas desde o dia em que fomos expulsos do Gan
+174	Eden, we wear clothes. Yes. The word for clothing comes	Eden, vestimos roupas. Sim. A palavra para vestimenta vem
+175	from the word for shame. We understand that our body as	da palavra vergonha. Entendemos que o nosso corpo como
+176	it is, our situation as it is, has room for improvement,	é, a nossa situação como é, tem o que melhorar,
+177	and it needs to be covered. This is what Chazal say: whoever	e precisa ser coberta. É isso que os Sábios dizem: quem
+178	commits a transgression and is ashamed of it, all his sins	comete uma transgressão e se envergonha dela, todos os seus pecados
+179	are forgiven him. That a person is ashamed of his transgression,	lhe são perdoados. Que a pessoa se envergonhe da sua transgressão
+180	that is the beginning of teshuvah. Even if all are forgiven	é o início da teshuvá. Mesmo que tudo seja perdoado,
+181	he still needs to do teshuvah, but here	ele ainda precisa fazer teshuvá, mas aqui
+182	is the foundation from which we can move	está a base a partir da qual podemos avançar.
+183	forward. This is the idea with Aharon. Aharon, he comes, he has	Essa é a ideia com Aharon. Aharon, ele vem, tem
+184	the sin of the Golden Calf, he has the "basket of creeping things," yes,	o pecado do bezerro de ouro, tem o "cesto de répteis", sim:
+185	"no one is appointed over the community unless he has a basket of	"ninguém é nomeado para a comunidade a não ser que tenha um cesto de
+186	creeping things." It is an expression to say that even the greatest	répteis." É uma expressão para dizer que até os maiores
+187	leaders also have something to correct. It is an	líderes também têm algo a corrigir. É uma
+188	integral part of humility and the service of HaShem. So Aharon	parte integral da humildade e do serviço a HaShem. Então Aharon
+189	truly understands this, he is ashamed, and through this	de fato entende isso, sente vergonha, e por meio disso
+190	in the end he manages to bring the fire. Strange fire. I	no fim consegue fazer o fogo subir. Fogo estranho. Eu
+191	will add already, before we get to Nadav and Avihu, I	acrescento já, antes de chegarmos a Nadav e Avihu, eu
+192	will add that this is also the idea of the rest of Parashat Shemini,	acrescento que essa é também a ideia do resto da Parashat Shemini,
+193	all the forbidden foods, animals. That is not	todos os alimentos proibidos, os animais. Esse não é
+194	our topic, so I'll say it in one sentence:	o nosso tema, então digo numa frase:
+195	the animals that are forbidden for eating are animals	os animais proibidos para comer são animais
+196	without shame, wild animals, powerful,	sem vergonha, animais selvagens, poderosos,
+197	cruel, yes, driven by urges, let's not get into all	cruéis, sim, movidos por impulsos, não vamos entrar agora em toda
+198	the details now, they have what we call no refinement	a lista, eles não têm, como se diz, refinamento
+199	and self-restraint. This we do not eat.	nem autocontrole. Isso nós não comemos.
+200	We eat, yes? We come into contact only with	Comemos, sim? Entramos em contato apenas com
+201	animals in whose nature there is more of this gap,	animais em cuja natureza há mais dessa lacuna,
+202	the shame,	a vergonha,
+203	the gentleness. Yes? "Shamelessness to Gehinnom,	a delicadeza. Sim? "O descaramento vai para o Gehinom,
+204	sorry, brazenness to Gehinnom." Chazal say,	desculpem, a insolência vai para o Gehinom." Os Sábios dizem:
+205	"Shame of face to Gan Eden." There is... so the face is	"A vergonha no rosto vai para o Gan Eden." Há... então o rosto é
+206	Gehinnom. This, yes, by the way, is also the punishment, so	o Gehinom. Isso, sim, aliás, é também o castigo, assim
+207	say the mekubalim. What is Gehinnom? That a person	dizem os mekubalim. O que é o Gehinom? Que a pessoa
+208	arrives in heaven and suddenly he is ashamed. Suddenly	chega ao céu e de repente sente vergonha. De repente
+209	they put a mirror in front of his face and he sees that his whole	põem um espelho diante do seu rosto e ele vê que toda a sua
+210	constructed image is now, uh,	imagem construída agora está, é,
+211	collapsing. "Shame of face to Gan Eden": whoever has shame,	desabando. "A vergonha no rosto vai para o Gan Eden": quem tem vergonha,
+212	whoever understands this, then he repairs the sin of Adam	quem entende isso, então corrige o pecado de Adam
+213	and Chavah and now he belongs more to the divine Eden. So,	e Chavá e agora pertence mais ao Éden divino. Então,
+214	as I said, there are animals that belong more	como eu disse, há animais que pertencem mais
+215	to Gehinnom, to this one, and those we do not eat,	ao Gehinom, a este, e esses não comemos,
+216	and there are animals that belong more to Gan Eden, to	e há animais que pertencem mais ao Gan Eden, ao
+217	shame. Nadav and Avihu, and this is the main point of	da vergonha. Nadav e Avihu, e este é o ponto principal da
+218	Parashat Shemini,	Parashat Shemini,
+219	do not understand this. Nadav and Avihu, the two sons of	não entendem isso. Nadav e Avihu, os dois filhos de
+220	Aharon, were talented, and they were also tzaddikim. Chazal	Aharon, eram talentosos, e eram também tsadikim. Os Sábios
+221	say that they would go around all the time saying	dizem que andavam o tempo todo dizendo
+222	about Moshe and Aharon, when will these two old men die	sobre Moshé e Aharon: quando morrerão esses dois velhos
+223	and we will lead the generation. Look, we are not talking here	e nós conduziremos a geração? Vejam, não se trata aqui
+224	about just two young careerists. Here in the Tanakh these are not	de simplesmente dois jovens carreiristas. Aqui no Tanach não são
+225	ordinary characters. These are characters	personagens quaisquer. São personagens
+226	who appear in the Torah, yes, "Through those near to Me I will be sanctified,"	que aparecem na Torá, sim, "Naqueles que Me são próximos serei santificado",
+227	the Holy One, Blessed Be He, says about them. They were close	diz o Santo, Bendito Seja, sobre eles. Eram próximos
+228	to the Holy One, Blessed Be He. We see that their death is treated	do Santo, Bendito Seja. Vemos que a morte deles é tratada
+229	as a kind of national	como uma espécie de trauma
+230	trauma. Nadav and Avihu simply wanted to shorten processes.	nacional. Nadav e Avihu simplesmente quiseram encurtar processos.
+231	They say, listen, we are fit to lead	Dizem: ouçam, nós estamos aptos a conduzir
+232	the generation, we burst into the Kodesh, we have no shame,	a geração, irrompemos no Kodesh, não temos vergonha,
+233	we do not have this recognition of the gap, that we are not yet	não temos esse reconhecimento da lacuna, de que ainda não estamos
+234	there, and they offer a strange offering before HaShem, and then they	lá, e oferecem uma oferenda estranha diante de HaShem, e então
+235	die. That is the idea of Parashat Shemini. When	morrem. Essa é a ideia da Parashat Shemini. Quando
+236	a person has no shame, does not have this recognition	a pessoa não tem vergonha, não tem esse reconhecimento
+237	that there is still somewhere to progress and there is a gap between this and that,	de que ainda há para onde avançar e há uma lacuna entre isso e aquilo,
+238	this is very, very common today. Today we live	isso é muito, muito comum hoje. Hoje vivemos
+239	in a culture that has no shame. Many people are very	numa cultura sem vergonha. Muita gente é muito
+240	proud, yes, this too is a pride of mine, proud of the fact that they will	orgulhosa, sim, isso também é um orgulho meu, orgulhosa de não
+241	have no shame. Once I told you too, several times,	ter vergonha. Uma vez eu disse a vocês também, várias vezes:
+242	do an experiment sometime, run on Google the	façam um experimento, pesquisem no Google a
+243	word "shame," you'll see all kinds of results, you'll see	palavra "vergonha", vão ver todo tipo de resultado, vão ver
+244	you'll get many, many interviews with all kinds of	vão encontrar muitíssimas entrevistas com todo tipo de
+245	celebrities, male and female, whose general message is, I have	celebridades, homens e mulheres, cuja mensagem geral é: não tenho
+246	nothing to be ashamed of, I'm not ashamed of anyone, all	de que me envergonhar, não tenho vergonha de ninguém, todo
+247	kinds of expressions like that that today people feel	tipo de expressão assim que hoje as pessoas sentem
+248	very proud to say: this is me, this is how I am, accept me, this is my body, these are my	muito orgulho de dizer: sou assim, sou desse jeito, aceitem-me, este é o meu corpo, estas são as minhas
+249	inclinations. That is	inclinações. Essa é
+250	the deep idea of "this is how I am now, so	a ideia profunda de "eu sou assim agora, então
+251	one can approach the Kodesh." This is what the death of Nadav	pode-se aproximar do Kodesh". É isso que a morte de Nadav
+252	and Avihu teaches for all generations: no, no, you want	e Avihu ensina para todas as gerações: não, não, vocês querem
+253	to offer fire before HaShem? A person who wants to progress	oferecer fogo diante de HaShem? A pessoa que quer progredir
+254	and do something real with his life should understand that he	e fazer algo real na vida deve entender que
+255	is not there yet, and progress now, slowly, slowly.	ainda não chegou lá, e progredir agora, aos poucos.
+256	Now we come to	Agora chegamos à
+257	the Haftarah, Sefer Shmuel II, chapter 6: "And David again gathered	Haftará, livro de Shmuel II, capítulo 6: "E Davi de novo reuniu
+258	all the choice men of Israel, thirty thousand." Yes, David here	todos os escolhidos de Israel, trinta mil." Sim, Davi aqui
+259	is growing stronger. Fine, after he begins	vai se fortalecendo. Certo, depois que começa
+260	to reign over Israel, and thirty thousand men gather around him,	a reinar sobre Israel, e trinta mil homens se reúnem à sua volta,
+261	all of the people of Israel gather around him: "And David arose and went,	todo o povo de Israel se reúne à sua volta: "E Davi se levantou e foi,
+262	and all the people with him, from Baale-Judah, to bring up from there	e todo o povo que estava com ele, de Baalê-Yehudá, para fazer subir de lá
+263	the Ark of Elokim, which is called by the Name, the Name of Adonai	a Arca de Elokim, que é chamada pelo Nome, o Nome de Adonai
+264	Tzevaot who dwells between the cherubim upon it." Yes, if you remember,	Tzevaot, que habita entre os querubins sobre ela." Sim, se vocês se lembram,
+265	the Ark of Elokim was there, uh, in Baale-	a Arca de Elokim estava lá, é, em Baalê-
+266	Judah, the inheritance of Judah, in Beit Yearim. What did it do	Yehudá, a herança de Yehudá, em Beit Yearim. O que ela fazia
+267	in Beit Yearim, Kiryat Yearim? So the Philistines had taken	em Beit Yearim, Kiryat Yearim? Os filisteus tinham
+268	the Ark of the Covenant of HaShem, yes, back in the days of the sons of Eli,	tomado a Arca da Aliança de HaShem, sim, ainda nos dias dos filhos de Eli,
+269	Chofni and Pinchas, who died there in battle. So they put it	Chofni e Pinchas, que morreram lá em batalha. Então a colocaram
+270	in the house of the god Dagon, and then, yes, it caused them there	no templo do deus Dagon, e então, sim, isso lhes causou
+271	a belly illness for Dagon. So the Philistines put it	o ventre de Dagon. Então os filisteus a colocaram
+272	on cattle carts and said, come on, let's see where	em carros de bois e disseram: vamos, vejamos para onde
+273	the Ark of the Covenant of HaShem goes, where the cows will go, and the cows	vai a Arca da Aliança de HaShem, para onde as vacas irão, e as vacas
+274	went straight to the border of Israel, to Beit Shemesh, and from there	foram direto para a fronteira de Israel, para Beit Shemesh, e de lá
+275	the Ark was in Kiryat Yearim. David says, let's bring up the things from there to	a Arca ficou em Kiryat Yearim. Davi diz: vamos subir com as coisas de lá para
+276	the	a
+277	City of David, to	Cidade de Davi, para
+278	my house. And now I remember, I said here	a minha casa. E agora me lembro, eu disse aqui
+279	at the beginning that David brought it up from the City of David to his house. So	no começo que Davi a subiu da Cidade de Davi para a sua casa. Então
+280	it was a mistake, he actually went up from Kiryat Yearim to the City of	foi um erro, na verdade ele subiu de Kiryat Yearim para a Cidade de
+281	David, that is what happens here in the chapter. So he continues	Davi, é isso que acontece aqui no capítulo. Então ele continua
+282	and says, "And David arose and went, and all the people who were	e diz: "E Davi se levantou e foi, e todo o povo que estava
+283	with him, from Baale-Judah, to bring up from there the Ark of	com ele, de Baalê-Yehudá, para fazer subir de lá a Arca de
+284	Elokim, which is called by the Name, the Name of Adonai Tzevaot, who dwells	Elokim, que é chamada pelo Nome, o Nome de Adonai Tzevaot, que habita
+285	between the cherubim upon it. And they set the Ark of Elokim upon	entre os querubins sobre ela. E puseram a Arca de Elokim sobre
+286	a new cart, and brought it out of the house of Avinadav, which was in Giv'ah,	um carro novo, e a trouxeram da casa de Avinadav, que estava em Guivá,
+287	and Uzzah and Achyo, the sons of Avinadav, drove the	e Uzá e Achyó, filhos de Avinadav, conduziam o
+288	new cart." Here already Chazal, uh, point out a few	carro novo." Aqui já os Sábios apontam alguns
+289	problems that there were, in Masechet Sotah and a few other places.	problemas que havia, no tratado de Sotá e em alguns outros lugares.
+290	First, they say there was here a first problem: they	Primeiro, dizem que houve aqui um primeiro problema:
+291	took the Ark of the Covenant of HaShem on a cart and not on the shoulder.	levaram a Arca da Aliança de HaShem num carro e não sobre o ombro.
+292	How is the Ark of the Covenant of HaShem carried? On the shoulder. The idea	Como se carrega a Arca da Aliança de HaShem? Sobre o ombro. A ideia
+293	is that a person carries the Ark of the Covenant of HaShem,	é que a pessoa carrega a Arca da Aliança de HaShem,
+294	that a person who wants to elevate himself to the Kodesh carries it on the shoulder.	que quem quer se elevar até o Kodesh a carrega sobre o ombro.
+295	The shoulder is really an expression of this, Chazal say: Aharon	O ombro é na verdade uma expressão disso, dizem os Sábios: Aharon
+296	would carry the	carregava a
+297	Ark: he is the one who leads me, I hold the	Arca: ele é quem me conduz, eu seguro a
+298	Ark on my shoulder with devotion, as if, yes, with my	Arca no ombro com devoção, como se, sim, com a minha
+299	self-sacrifice, and the Ark leads me. Yes, Chazal	entrega de vida, e a Arca me conduz. Sim, os Sábios
+300	describe that when the Kohanim held	descrevem que, quando os Kohanim seguravam
+301	the Ark, the Ark would lift up and the Kohanim	a Arca, a Arca se elevava e os Kohanim
+302	would actually walk in the air. Yes, the Ark would	na verdade caminhavam no ar. Sim, a Arca
+303	lead them, an expression to come and say that the Kodesh,	os conduzia, uma expressão para dizer que o Kodesh,
+304	the higher reality, lifts a person up. Here what	a realidade superior, eleva a pessoa. Aqui o que
+305	happens?	acontece?
+306	They put it on a cart. A cart is again an expression	Colocam-na num carro. O carro é de novo uma expressão
+307	of the cyclical nature of this world. Yes, cattle, like	da ciclicidade deste mundo. Sim, bois, como
+308	the Philistines, uh, like the Philistines put it	os filisteus, é, como os filisteus a colocaram
+309	back then. Yes? The cart. Now, this too is something, like	naquela época. Sim? O carro. Agora, isso também é algo, como
+310	a person understands that this world, all its materiality,	a pessoa entende que este mundo, toda a sua materialidade,
+311	has Aharon above it. But this is the second point. Who	tem Aharon acima dele. Mas esse é o segundo ponto. Quem
+312	drives the cart? In this case the sons of Avinadav, Uzzah and his brother,	conduz o carro? Neste caso os filhos de Avinadav, Uzá e seu irmão,
+313	the sons of Avinadav drive it. What kind of	os filhos de Avinadav o conduzem. Que tipo de
+314	notion is it that we are the ones who lead the Ark?	noção é essa de que nós somos os que conduzem a Arca?
+315	We	Nós
+316	can already, as they say, lead reality here,	já podemos, como se diz, conduzir a realidade aqui,
+317	we do not let the divine reality lead us,	não deixamos a realidade divina nos conduzir,
+318	slowly, slowly bridging this gap between where we are	aos poucos, aos poucos, superando essa lacuna entre onde estamos
+319	and where we need to get to, but rather we ride	e aonde precisamos chegar, mas sim montamos
+320	the horse, we ride the cart, we	no cavalo, montamos no carro, nós
+321	lead the Ark here. We lead the Torah,	conduzimos a Arca aqui. Conduzimos a Torá,
+322	we lead the Kodesh to where we are, instead of rising	conduzimos o Kodesh até onde estamos, em vez de nos elevarmos
+323	to where the Torah is. "And they brought it out of the house of	até onde a Torá está. "E a trouxeram da casa de
+324	Avinadav which was in Giv'ah, with the Ark of Elokim, and Achyo	Avinadav que estava em Guivá, com a Arca de Elokim, e Achyó
+325	went before the Ark." He too goes before the Ark,	ia diante da Arca." Ele também vai diante da Arca,
+326	he leads. "And David and all the House of Israel played before	ele conduz. "E Davi e toda a casa de Israel tocavam diante de
+327	Adonai with all manner of instruments of cypress wood, and with harps, and with lyres,	Adonai com toda sorte de instrumentos de madeira de cipreste, e com harpas, e com liras,
+328	and with timbrels, and with sistra, and with cymbals."	e com tamborins, e com sistros, e com címbalos."
+329	This is another point	Este é outro ponto
+330	in which David stumbled. Chazal say that David was punished for	em que Davi tropeçou. Os Sábios dizem que Davi foi punido por
+331	calling the words of HaShem "zemirot." David said, "Your statutes	chamar as palavras de HaShem de "zemirot". Davi disse: "Teus decretos
+332	were my songs." The Holy One, Blessed Be He, said, in Masechet	foram para mim cânticos." O Santo, Bendito Seja, disse, no tratado de
+333	Sotah, you call words of Torah "zemirot"? Then	Sotá: chamas as palavras da Torá de "zemirot"? Então
+334	I will punish you, that you will stumble on something that every	vou te castigar: tropeçarás numa coisa que toda
+335	child in Israel knows, that the Ark is placed on the shoulder and not	criança em Israel sabe, que a Arca se põe sobre o ombro e não
+336	placed on a cart. Yes? You will lean and tell them	num carro. Sim? Tu te inclinarás e dirás a eles
+337	to put it on the cart, and this will bring about everything	que a ponham no carro, e isso causará tudo o
+338	that happened here. Now what is	que aconteceu aqui. Agora, qual é
+339	the point of calling words of Torah "zemirot"? Yes, that here they	o ponto de chamar as palavras da Torá de "zemirot"? Sim, que aqui eles
+340	play before HaShem with cypress wood, harps,	tocam diante de HaShem com madeira de cipreste, harpas,
+341	lyres. This is	liras. Isso é,
+342	in effect, "zemirot" means turning words of Torah into something	na verdade, "zemirot" significa transformar as palavras da Torá em algo
+343	pleasant, fun for a person, which of course is ideal, but	agradável, divertido para a pessoa, o que é claro é ideal, mas
+344	there is something here that depends on what approach	há aqui algo que depende da abordagem
+345	it comes from, when you call words of Torah "zemirot." David's intention,	de onde isso vem, quando chamas as palavras da Torá de "zemirot". A intenção de Davi,
+346	as if there was a point here in David	como se houvesse aqui em Davi um ponto
+347	that really the Torah is also a kind of use for a person,	em que a Torá é também uma espécie de uso para a pessoa,
+348	as if words of Torah are fun, it's pleasant, it's	como se as palavras da Torá fossem diversão, é agradável, é
+349	singing. Yes, we of course today are all the time	cantar. Sim, nós, claro, hoje estamos o tempo todo
+350	singing verses, and it's not so simple, as there were	cantando versículos, e não é tão simples, pois houve
+351	among the greats of Israel some who did not like this, that in a synagogue,	entre os grandes de Israel alguns que não gostavam disso, que numa sinagoga,
+352	the story here goes only in the direction of songs	a história vá só na direção de canções
+353	and music. There are even some who said that these were the Reformers,	e música. Há até quem dissesse que eram os reformistas,
+354	yes, the Reformers would do it like this, that was how it was	sim, os reformistas faziam assim, era assim que era
+355	in their Temple, in their synagogue, meaning	no Templo deles, na sinagoga deles, ou seja,
+356	like an imitation of the church. One must understand that all	como uma imitação da igreja. É preciso entender que todos
+357	the hymns with melody are originally taken from the church,	os hinos com melodia são originalmente tirados da igreja,
+358	that's the liturgy, it's a religious hymn. Now, so	isso é a liturgia, é um hino religioso. Agora, então
+359	we do permit this in a certain way, but	nós permitimos isso de certa forma, mas
+360	the idea is that by a person singing hymns he is as if saying,	a ideia é que, ao cantar hinos, a pessoa é como se dissesse:
+361	I take words of Torah and I do not rise	eu pego palavras de Torá e não me elevo
+362	to them in terms of true purpose, but rather I undergo	até elas quanto ao verdadeiro propósito, mas passo
+363	some kind of emotional experience. I now feel	por uma espécie de experiência emocional. Agora sinto
+364	that I am holy, and we all know that when we are now	que sou santo, e todos sabemos que, quando agora estamos
+365	singing verses we have a feeling of, wow,	cantando versículos, temos uma sensação de: uau,
+366	we are touching holiness. Good, truly, whoever is like that is	estamos tocando a santidade. Bom, de fato, quem é assim é
+367	fortunate and it is good for him, but we all also know	feliz e lhe faz bem, mas todos também sabemos
+368	that many times after we finish singing	que muitas vezes, depois que terminamos de cantar
+369	this song, within a second we move on to singing	esta canção, em um segundo passamos a cantar
+370	another one, and it takes us in other directions. What does that	outra, e ela nos leva para outras direções. O que isso
+371	show? That even before, this feeling of elevation	mostra? Que mesmo antes essa sensação de elevação
+372	was a bit fake. Okay? Heaven forbid, we do	era um pouco falsa. Certo? chas veshalom, nós
+373	use it, and it is also a certain way for a person to be	usamos isso, e é também uma certa forma de a pessoa se
+374	uplifted, and an emotion, a person needs to know again to recognize	elevar, e uma emoção, a pessoa precisa saber de novo reconhecer
+375	his place and not think now that if he plays with	o seu lugar e não pensar agora que, se ele toca com
+376	some verses then now he is already a prophet and holy,	alguns versículos, então agora já é um profeta e santo,
+377	and this is true for all of life. Again, there is an issue of	e isso vale para a vida toda. De novo, há a questão das
+378	experiences in which a person feels he is doing something real,	experiências em que a pessoa sente que faz algo real,
+379	and that's true, but again be Aharon the Kohen, understand,	e isso é verdade, mas de novo seja Aharon, o Kohen, entenda,
+380	be a little ashamed between where you are and where you need	tenha um pouco de vergonha entre onde estás e onde precisas
+381	to get to, and don't be Nadav and Avihu on me now,	chegar, e não sejas agora um Nadav e Avihu,
+382	who are sure that that's it, they are now already without shame, yes, they	que estão certos de que é isso, já estão agora sem vergonha, sim,
+383	see upper worlds and do whatever	veem mundos superiores e fazem tudo o que
+384	seems fine to them. This is good, this stands on its own, for every	lhes parece bom. Isso é bom, isso se sustenta por si, para todo
+385	topic of music in the Torah world.	assunto de música no mundo da Torá.
+386	Today people get a bit confused because	Hoje as pessoas ficam um pouco confusas porque
+387	music gives some inspiration, an emotional experience,	a música dá alguma inspiração, uma experiência emocional,
+388	so people, since secular culture	então as pessoas, como a cultura secular
+389	today does not have this emotion, it's considered the peak of the	hoje não tem essa emoção, ela é considerada o auge da
+390	spiritual experience. So when people now	experiência espiritual. Então, quando as pessoas agora
+391	sing, they feel as if they are standing at a show, as if	cantam, sentem como se estivessem num show, como se
+392	they are now at the revelation at Mount Sinai. One needs to	estivessem agora na revelação no Monte Sinai. É preciso
+393	calm down a bit from that story. Okay, it is not the revelation at	acalmar um pouco essa história. Certo, não é a revelação no
+394	Mount Sinai, it is something that helps us a bit to direct our	Monte Sinai, é algo que nos ajuda um pouco a direcionar os nossos
+395	feelings, but as we all know, many times one can	sentimentos, mas como todos sabemos, muitas vezes se pode
+396	use very cheap songs and melodies and dress verses	usar canções e melodias muito baratas e vestir versículos
+397	on them, and many, many problems that arise from	nelas, e muitíssimos problemas que surgem dessa
+398	this approach. All this	abordagem. Tudo isso
+399	happens here with David. There is a bit here of, look,	acontece aqui com Davi. Há aqui um pouco de: vejam,
+400	we lead the Kodesh, we enjoy	nós conduzimos o Kodesh, nós gostamos
+401	it. We, the human world, are the main thing here	disso. Nós, o mundo humano, somos o principal aqui
+402	and the Kodesh serves us for this. And then	e o Kodesh nos serve para isso. E então
+403	what happens? "And they came to the threshing floor of Nakhon."	o que acontece? "E chegaram à eira de Nacon."
+404	Yes, a place called Nakhon. Yes, something not right happened	Sim, um lugar chamado Nacon. Sim, algo não correto aconteceu
+405	in a place called "right." "And Uzzah put forth his hand to the Ark of	num lugar chamado "correto". "E Uzá estendeu a mão para a Arca de
+406	Elokim and took hold of it, for the oxen stumbled."	Elokim e a segurou, pois os bois tropeçaram."
+407	So what happens? A person lives with this feeling that he	Então o que acontece? A pessoa vive com esta sensação de que
+408	is leading the oxen. He is leading the Ark, he	está conduzindo os bois. Está conduzindo a Arca,
+409	controls reality here, and suddenly there is a moment when it falls,	controla a realidade aqui, e de repente há um momento em que ela cai,
+410	and then what does Uzzah do? He sends out his hand and stops it. Yes,	e então o que Uzá faz? Estende a mão e a detém. Sim,
+411	of course he means well, but it's like Nadav	é claro que tem boa intenção, mas é como Nadav
+412	and Avihu, bursting into the Kodesh to touch the Ark. One does not	e Avihu, irrompendo no Kodesh para tocar a Arca. Não se
+413	touch the Ark of HaShem, it is above our world.	toca na Arca de HaShem, ela está acima do nosso mundo.
+414	But again, when a person lives with this view that he	Mas de novo, quando a pessoa vive com essa visão de que
+415	can, he already has no gap between the desired and the actual,	pode, já não tem lacuna entre o desejado e o real,
+416	he is already supremely holy. So he bursts into	já é supremamente santo. Então irrompe no
+417	the Kodesh and touches. What happens then? "And the anger of Adonai	Kodesh e toca. O que acontece então? "E a ira de Adonai
+418	burned against Uzzah, and Elokim struck him there for his error, and he died there	se acendeu contra Uzá, e Elokim o feriu ali por seu erro, e morreu ali
+419	beside the Ark of Elokim." Yes, what is "for his error"? That is	junto à Arca de Elokim." Sim, o que é "por seu erro"? É
+420	the mistake he made, okay, for this thing	o erro que cometeu, certo, por essa coisa
+421	the Holy One, Blessed Be He, strikes him, as we said, what	o Santo, Bendito Seja, o fere, como dissemos, o que
+422	happened? A person tried to stop, like Nadav and Avihu.	aconteceu? Uma pessoa tentou deter, como Nadav e Avihu.
+423	What were we trying to bring here to the Kodesh? What is	O que tentávamos trazer aqui ao Kodesh? O que há
+424	the problem here? "And David was angry because Adonai had burst forth against Uzzah,	de problema aqui? "E Davi se irou porque Adonai irrompeu contra Uzá,
+425	and he called that place Perets Uzzah, to this very day."	e chamou aquele lugar Perets Uzá, até o dia de hoje."
+426	When there is brazenness that tries	Quando há uma insolência que tenta
+427	to burst forth, there is failure here. This is not, this is a reality	irromper, há aqui fracasso. Isso não é, é uma realidade
+428	that calls to great people. David, the Mashiach, is called the son of	que chama grandes homens. Davi, o Mashiach, é chamado filho de
+429	Peretz. David comes from the family of Peretz, yes, "Why have you made	Peretz. Davi vem da família de Peretz, sim: "Por que abriste
+430	a breach for yourself?" Peretz. Well, we all have this true tendency	uma brecha para ti?" Peretz. Pois bem, todos temos essa tendência verdadeira
+431	to break through,	de irromper,
+432	to progress, to arrive. But it must be in the	de avançar, de chegar. Mas deve ser da
+433	right way, in a graded way, in a way that fits where	maneira certa, de forma gradual, de uma forma que se ajuste a onde
+434	we are. "And David feared Adonai that day	estamos. "E Davi temeu a Adonai naquele dia
+435	and said, how shall the Ark of Adonai come to me?" Do you understand?	e disse: como virá a mim a Arca de Adonai?" Entendem?
+436	David does teshuvah, he understands what? We are still	Davi faz teshuvá, ele entende o quê? Ainda não estamos
+437	not ripe, we cannot bring this to me	maduros, não podemos trazer isso para mim,
+438	home. "And David did not want to bring the Ark of Adonai to him	para casa. "E Davi não quis levar a Arca de Adonai para junto de si,
+439	to the City of David, and David diverted it to the house of Oved Edom the Gittite."	para a Cidade de Davi, e Davi a desviou para a casa de Oved Edom, o guitita."
+440	So who is Oved Edom the Gittite? So the Gemara also says	E quem é Oved Edom, o guitita? Então a Guemará também diz
+441	there in Masechet Sotah, unless I'm mistaken, it says	ali no tratado de Sotá, a não ser que eu me engane, diz
+442	he was one of the Levites, the gatekeepers. The Levites who were	que ele era um dos levitas, os porteiros. Os levitas que estavam
+443	in the Beit HaMikdash had several roles. There were	no Beit HaMikdash tinham várias funções. Havia
+444	the singers, that is, let's call them the guys who, like, have fun	os cantores, isto é, digamos assim, o pessoal que, assim, se diverte
+445	in the Beit HaMikdash, and there were the gatekeepers. Gatekeepers are	no Beit HaMikdash, e havia os porteiros. Os porteiros são
+446	what are called the keepers of the storehouses, those	o que se chama de guardas dos depósitos, aqueles
+447	who set the boundaries.	que estabelecem os limites.
+448	Oved Edom the Gittite. Yes, not from the tribe of Edom,	Oved Edom, o guitita. Sim, não da tribo de Edom,
+449	a Jew. Yes, he was a Levi. Only that he was perhaps	um judeu. Sim, ele era um levita. Só que talvez fosse
