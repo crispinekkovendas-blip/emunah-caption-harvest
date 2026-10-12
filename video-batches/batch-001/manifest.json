@@ -1,7 +1,7 @@
 {
  "name": "batch-001",
  "created": "2026-10-11T19:12:48.113Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "tkdpqlIeWig",
@@ -301,7 +301,8 @@
   "gWSZi2s00l4",
   "D9CiFUelODw",
   "hKfYYeeDRmY",
-  "CW7ftOFOaJM"
+  "CW7ftOFOaJM",
+  "W7LbZUNOXlM"
  ],
  "skipped": []
 }

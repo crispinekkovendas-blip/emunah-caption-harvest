@@ -1,7 +1,7 @@
 # batch-001
 
-24 of 25 lessons published · 0 skipped · status **pending**
-Tokens (30 agent runs with a record, 62 refused or without record): 6.8M in (mostly cache) · 1.10M out · API-equivalent 18.54
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (34 agent runs with a record, 62 refused or without record): 7.4M in (mostly cache) · 1.21M out · API-equivalent 20.48
 
 | lesson | state | detail |
 |---|---|---|
@@ -23,7 +23,7 @@ Tokens (30 agent runs with a record, 62 refused or without record): 6.8M in (mos
 | z35yuBszQQk | ✓ published | 2020 lines · Parashat Bereshit: por que o mundo foi criado |
 | U5-lw52HN6s | ✓ published | 2026 lines · Bereshit: a criação, o homem, o pecado e Caim e Abel |
 | 6H3YK7ktyk0 | ✓ published | 1587 lines · Bereshit: por que o homem foi criado e o poder da teshuvá |
-| W7LbZUNOXlM | ✗ will be redone (try 1) | 2 lines missing |
+| W7LbZUNOXlM | ✓ published | 1455 lines · Breshit e o equilíbrio entre a Justiça e a Misericórdia Divine |
 | B7c9d7-PZ28 | ✓ published | 1053 lines · Hok LeIsrael: Bereshit, domingo, com Rashi e Mishná |
 | OlpNv6qzVlY | ✓ published | 1221 lines · Sara e Hagar segundo o Or HaChaim em Lech Lecha |
 | gWSZi2s00l4 | ✓ published | 2511 lines · Rav Yitzchak Yosef: Lech Lecha, Kidush e minyan |
