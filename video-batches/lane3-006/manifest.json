@@ -2,7 +2,7 @@
  "name": "lane3-006",
  "lane": 3,
  "created": "2026-10-13T05:09:11.940Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "IE1R85-QmhQ",
@@ -235,7 +235,7 @@
   "VW-xmMYUd9c.p1"
  ],
  "tries": {
-  "IE1R85-QmhQ": 2,
+  "IE1R85-QmhQ": 3,
   "9xQfzlEGmPU": 1,
   "DSmvZL1reks": 1,
   "fgeFKiDfLYY": 3,
@@ -270,6 +270,7 @@
  ],
  "skipped": [
   "fgeFKiDfLYY",
-  "Hm8fk4lF5Cg"
+  "Hm8fk4lF5Cg",
+  "IE1R85-QmhQ"
  ]
 }

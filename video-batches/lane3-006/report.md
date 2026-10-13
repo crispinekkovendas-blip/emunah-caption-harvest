@@ -1,11 +1,11 @@
 # lane3-006
 
-22 of 25 lessons published · 2 skipped · status **pending**
-Tokens (90 agent runs with a record): 1.2M in (mostly cache) · 2.20M out · API-equivalent 25.69
+22 of 25 lessons published · 3 skipped · status **done**
+Tokens (91 agent runs with a record): 1.2M in (mostly cache) · 2.20M out · API-equivalent 25.80
 
 | lesson | state | detail |
 |---|---|---|
-| IE1R85-QmhQ | waiting | 2/3 parts |
+| IE1R85-QmhQ | skipped after 3 tries | 16 lines missing |
 | 9xQfzlEGmPU | ✓ published | 1008 lines · Como guardar a santidade do Shabat (Ki Tisa) |
 | DSmvZL1reks | ✓ published | 515 lines · Viver a serenidade do Shabat a semana toda |
 | ezL86L7pMmM | ✓ published | 1061 lines · Educar com luz, não com avisos: Parashat Emor |
