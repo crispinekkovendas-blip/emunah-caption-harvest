@@ -2,7 +2,7 @@
  "name": "lane3-005",
  "lane": 3,
  "created": "2026-10-12T23:13:11.442Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "AD_txtRRy8w",
@@ -257,7 +257,7 @@
   "glUhPo8wFho": 1,
   "cB06YKJsd1I": 1,
   "L209dTca5_c": 3,
-  "GcFPfJDGYbQ": 2
+  "GcFPfJDGYbQ": 3
  },
  "done": [
   "AD_txtRRy8w",
@@ -285,6 +285,7 @@
  "skipped": [
   "sNM_S5bdC-o",
   "WBKVAVg9CuA",
-  "L209dTca5_c"
+  "L209dTca5_c",
+  "GcFPfJDGYbQ"
  ]
 }
