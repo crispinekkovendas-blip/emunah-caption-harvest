@@ -2,7 +2,7 @@
  "name": "lane2-009",
  "lane": 2,
  "created": "2026-10-13T11:13:35.512Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "4EmN4JMCOrk",
@@ -210,8 +210,8 @@
   "KYfY2FOHpV0.p0"
  ],
  "tries": {
-  "NPooKN6_NWY": 2,
-  "bSmllgW1QUU": 2
+  "NPooKN6_NWY": 3,
+  "bSmllgW1QUU": 3
  },
  "done": [
   "4EmN4JMCOrk",
@@ -238,5 +238,8 @@
   "F5Lc5xtgW3w",
   "KYfY2FOHpV0"
  ],
- "skipped": []
+ "skipped": [
+  "NPooKN6_NWY",
+  "bSmllgW1QUU"
+ ]
 }
