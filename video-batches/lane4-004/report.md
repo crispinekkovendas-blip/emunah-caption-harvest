@@ -1,7 +1,7 @@
 # lane4-004
 
-21 of 25 lessons published · 2 skipped · status **pending**
-Tokens (110 agent runs with a record): 1.7M in (mostly cache) · 3.10M out · API-equivalent 36.69
+21 of 25 lessons published · 3 skipped · status **pending**
+Tokens (123 agent runs with a record): 1.9M in (mostly cache) · 3.51M out · API-equivalent 41.02
 
 | lesson | state | detail |
 |---|---|---|
@@ -24,9 +24,9 @@ Tokens (110 agent runs with a record): 1.7M in (mostly cache) · 3.10M out · AP
 | Pcwf48DzbQw | ✓ published | 899 lines · Por que os irmãos quiseram matar Yosef |
 | Srefhr92A_o | ✓ published | 667 lines · Matot-Masei: nedarim, aniversários e casamento |
 | hwQVAB7zNEc | ✓ published | 1161 lines · Parashá Ekev: os sentidos de "ekev" e a humildade |
-| rLQ_FuD__pA | ✗ will be redone (try 1) | 254 lines missing |
-| 7pfIoU_bN00 | skipped after 3 tries | 3 lines missing |
-| xW_HWuavFow | skipped after 3 tries | line 450 twice |
+| rLQ_FuD__pA | ✗ will be redone (try 2) | line 450 twice |
+| 7pfIoU_bN00 | skipped | |
+| xW_HWuavFow | skipped | |
 | kTry3LuQb3c | ✓ published | 691 lines · Haftará de Ra'ê: ver a consolação na livre escolha |
 | SUaaHPDeuGY | ✓ published | 1283 lines · O segredo do Shabat dos Dez Dias de Teshuvá |
-| ez3oskhk9aA | ✗ will be redone (try 2) | 17 lines missing |
+| ez3oskhk9aA | skipped after 3 tries | line 0 twice |
