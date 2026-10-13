@@ -2,7 +2,7 @@
  "name": "lane1-003",
  "lane": 1,
  "created": "2026-10-13T01:33:12.868Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "OrtjhdSG07g",
@@ -269,7 +269,7 @@
   "MxHqC22it3Y": 2,
   "fnQ3lAZJB5g": 3,
   "cGH0mTQGtGY": 2,
-  "-glyjn4lTB4": 2
+  "-glyjn4lTB4": 3
  },
  "done": [
   "1dFGCoPCiL8",
@@ -297,6 +297,7 @@
  ],
  "skipped": [
   "s3563roAZZs",
-  "fnQ3lAZJB5g"
+  "fnQ3lAZJB5g",
+  "-glyjn4lTB4"
  ]
 }
