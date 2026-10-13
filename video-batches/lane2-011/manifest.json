@@ -1,0 +1,267 @@
+{
+ "name": "lane2-011",
+ "lane": 2,
+ "created": "2026-10-13T16:07:49.273Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "4GlpBkO-UEg",
+   "title": "Chok LeIsrael da Parashá Noach, terça-feira",
+   "lines": 832,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "V9_jJbK-x68",
+   "title": "Noach: o único \"tzadik\" da Torá e a prisão da Arca",
+   "lines": 1367,
+   "parts": 4,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "1SFqadwGRj4",
+   "title": "Parashat Noach: o dilúvio, a arca e os limites da abundância",
+   "lines": 1673,
+   "parts": 4,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "YbZ-QrCZQLQ",
+   "title": "Parashá Noach: qual é a sua arca de Noach?",
+   "lines": 438,
+   "parts": 1,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "lPtF7kq30Nc",
+   "title": "Noach antes de Toldot: a paz interior e a ansiedade",
+   "lines": 814,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "MpU-eFdeF2A",
+   "title": "Kibud em para uma mãe que quis matar o filho",
+   "lines": 570,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "sK6SFbhb3P0",
+   "title": "O segredo da Arca de Noach e a salvação em tempos turbulentos",
+   "lines": 189,
+   "parts": 1,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "1-uONcMDPg4",
+   "title": "Shiur diário em ídiche sobre Parashat Noach",
+   "lines": 818,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "PZyPRVgmpz0",
+   "title": "Árvores em flor, Pessach e a Tzedaká de Nissan",
+   "lines": 2678,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "m2S--sGenHY",
+   "title": "Rabi Yehudá bar Ilai e o Kidush HaShem",
+   "lines": 1055,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wq_uNRwAZ7E",
+   "title": "Bamidbar, Shavuot e o ódio gratuito: aula do Rav Yitzchak Yosef",
+   "lines": 2418,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3864WZIf1BU",
+   "title": "Sapatos do seu número: inveja e discórdia em Korach",
+   "lines": 1741,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FQjCf9TfYMQ",
+   "title": "Parashá Balak: Bilam, a jumenta e a proteção de Israel",
+   "lines": 1847,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5NDlCl8_s1g",
+   "title": "Parashá Ekev: o calcanhar, a provação e a fonte do sustento",
+   "lines": 1609,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "WuooQwAtIhU",
+   "title": "Parashá Re'eh: escolher por si mesmo, bênção e maldição",
+   "lines": 1143,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xhcVVpzM-BY",
+   "title": "Parashat Nasso, o número 176 e a Torá com mesirut nefesh",
+   "lines": 1145,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "poGvznq_pS8",
+   "title": "Bereshit: segredos das letras, números e da Criação",
+   "lines": 1052,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "os2uv-4_idQ",
+   "title": "Parashá Reê: bênção, maldição e a aliança em Guerizim e Eival",
+   "lines": 1409,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "aNOlC_hYTu0",
+   "title": "O pecado de Adam: a árvore do conhecimento e a visão seletiva",
+   "lines": 1661,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "6lkKIeQ932s",
+   "title": "Fé, valor da Torá e as dificuldades da Criação em Bereshit",
+   "lines": 703,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-eq3PlERCBk",
+   "title": "Parashá Ekev: Tu BeAv, bênçãos da Torá e a tzir'á",
+   "lines": 1874,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wqe-VVt1t-I",
+   "title": "Parashat Shelach: o sentido da separação da chalá",
+   "lines": 1422,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "eisn3_BRpSI",
+   "title": "Como o mais humilde virou o maior líder: a ânava de Moshê",
+   "lines": 1142,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5KYmtdwG0FY",
+   "title": "Chaim KeHalachá: perguntas e respostas, Parashá Ekev",
+   "lines": 951,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ifHvjmrlfd8",
+   "title": "Por que a Torá começa com Bereshit: a verdade vista no fim",
+   "lines": 779,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "4GlpBkO-UEg.p0",
+  "4GlpBkO-UEg.p1",
+  "V9_jJbK-x68.p0",
+  "V9_jJbK-x68.p1",
+  "V9_jJbK-x68.p2",
+  "V9_jJbK-x68.p3",
+  "1SFqadwGRj4.p0",
+  "1SFqadwGRj4.p1",
+  "1SFqadwGRj4.p2",
+  "1SFqadwGRj4.p3",
+  "YbZ-QrCZQLQ.p0",
+  "lPtF7kq30Nc.p0",
+  "lPtF7kq30Nc.p1",
+  "MpU-eFdeF2A.p0",
+  "MpU-eFdeF2A.p1",
+  "sK6SFbhb3P0.p0",
+  "1-uONcMDPg4.p0",
+  "1-uONcMDPg4.p1",
+  "PZyPRVgmpz0.p0",
+  "PZyPRVgmpz0.p1",
+  "PZyPRVgmpz0.p2",
+  "PZyPRVgmpz0.p3",
+  "PZyPRVgmpz0.p4",
+  "PZyPRVgmpz0.p5",
+  "m2S--sGenHY.p0",
+  "m2S--sGenHY.p1",
+  "m2S--sGenHY.p2",
+  "wq_uNRwAZ7E.p0",
+  "wq_uNRwAZ7E.p1",
+  "wq_uNRwAZ7E.p2",
+  "wq_uNRwAZ7E.p3",
+  "wq_uNRwAZ7E.p4",
+  "wq_uNRwAZ7E.p5",
+  "3864WZIf1BU.p0",
+  "3864WZIf1BU.p1",
+  "3864WZIf1BU.p2",
+  "3864WZIf1BU.p3",
+  "FQjCf9TfYMQ.p0",
+  "FQjCf9TfYMQ.p1",
+  "FQjCf9TfYMQ.p2",
+  "FQjCf9TfYMQ.p3",
+  "FQjCf9TfYMQ.p4",
+  "5NDlCl8_s1g.p0",
+  "5NDlCl8_s1g.p1",
+  "5NDlCl8_s1g.p2",
+  "5NDlCl8_s1g.p3",
+  "WuooQwAtIhU.p0",
+  "WuooQwAtIhU.p1",
+  "WuooQwAtIhU.p2",
+  "xhcVVpzM-BY.p0",
+  "xhcVVpzM-BY.p1",
+  "xhcVVpzM-BY.p2",
+  "poGvznq_pS8.p0",
+  "poGvznq_pS8.p1",
+  "poGvznq_pS8.p2",
+  "os2uv-4_idQ.p0",
+  "os2uv-4_idQ.p1",
+  "os2uv-4_idQ.p2",
+  "os2uv-4_idQ.p3",
+  "aNOlC_hYTu0.p0",
+  "aNOlC_hYTu0.p1",
+  "aNOlC_hYTu0.p2",
+  "aNOlC_hYTu0.p3",
+  "6lkKIeQ932s.p0",
+  "6lkKIeQ932s.p1",
+  "-eq3PlERCBk.p0",
+  "-eq3PlERCBk.p1",
+  "-eq3PlERCBk.p2",
+  "-eq3PlERCBk.p3",
+  "-eq3PlERCBk.p4",
+  "wqe-VVt1t-I.p0",
+  "wqe-VVt1t-I.p1",
+  "wqe-VVt1t-I.p2",
+  "wqe-VVt1t-I.p3",
+  "eisn3_BRpSI.p0",
+  "eisn3_BRpSI.p1",
+  "eisn3_BRpSI.p2",
+  "5KYmtdwG0FY.p0",
+  "5KYmtdwG0FY.p1",
+  "5KYmtdwG0FY.p2",
+  "ifHvjmrlfd8.p0",
+  "ifHvjmrlfd8.p1"
+ ]
+}
