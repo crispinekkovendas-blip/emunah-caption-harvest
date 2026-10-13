@@ -1,7 +1,7 @@
 # lane5-005
 
-19 of 25 lessons published · 3 skipped · status **pending**
-Tokens (102 agent runs with a record): 1.5M in (mostly cache) · 2.62M out · API-equivalent 31.61
+19 of 25 lessons published · 4 skipped · status **pending**
+Tokens (117 agent runs with a record): 1.7M in (mostly cache) · 3.01M out · API-equivalent 35.72
 
 | lesson | state | detail |
 |---|---|---|
@@ -14,15 +14,15 @@ Tokens (102 agent runs with a record): 1.5M in (mostly cache) · 2.62M out · AP
 | Ca8bboaDyRc | ✓ published | 856 lines · Ensinamento de Mussar: Humildade, a mãe da Torá |
 | 4TlvOm9kB1s | ✓ published | 503 lines · Bilam e o verso Ma Tovu: quatro camadas de leitura |
 | gzvjR-Ew9Og | ✓ published | 1227 lines · Lech Lecha: as provações de Avraham e o "para si mesmo |
-| 0nSjPMGnCaU | skipped after 3 tries | line 0 twice |
-| KSAjfvZSyKY | skipped after 3 tries | 1 lines missing |
+| 0nSjPMGnCaU | skipped | |
+| KSAjfvZSyKY | skipped | |
 | VwuI_8nWq7Y | ✓ published | 1282 lines · Shemot: a tristeza é o inimigo, a alegria é a saída |
-| gpTawZWgjJk | ✗ will be redone (try 2) | line 900 twice |
-| sGYmlI8S59Q | skipped after 3 tries | 10 lines missing |
+| gpTawZWgjJk | waiting | 3/4 parts |
+| sGYmlI8S59Q | skipped | |
 | -qSd3yZjHAI | ✓ published | 776 lines · Por que estudar Torá às vezes não toca o coração |
 | qLdX-I34K2Y | ✓ published | 323 lines · Midrash Tanchuma Vayechi 9: Reuven, o primogênito |
-| LrHdoD7QOmY | waiting | 2/3 parts |
-| WEXIMGFnt34 | waiting | 2/3 parts |
+| LrHdoD7QOmY | skipped after 3 tries | 7 lines missing |
+| WEXIMGFnt34 | ✗ will be redone (try 2) | 5 lines missing |
 | AtQTlmpgiSY | ✓ published | 672 lines · Rosh HaShaná: o coração é o portal para HaShem |
 | 3zDPEGDIy2g | ✓ published | 914 lines · Provações crescem para quem vai ser grande |
 | PblW1j-my5w | ✓ published | 442 lines · Behaalotchá: acender a chama e escolher a história |
