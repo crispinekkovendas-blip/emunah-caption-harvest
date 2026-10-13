@@ -1,0 +1,14 @@
+900	To eat or not to eat?	Comer ou não comer?
+901	What do you say? Oy, oy, don't eat!	O que vocês dizem? Ai, ai, não comer!
+902	No.	Não.
+903	Come on, oh my!	Ai, meu Deus!
+904	Whoever says eat, raise your hand. Whoever says not	Quem diz para comer, levante a mão. Quem diz para não
+905	to eat, raise your hand. Oy vavoy, it's not...	comer, levante a mão. Ai, ai, ai, não é...
+906	Maran Rabbi Ovadia Yosef says: he should taste a little	O Maran Rav Ovadia Yosef diz: que prove um pouco
+907	and stop eating, so that his blessing will not be	e pare de comer, para que a sua bênção não seja
+908	a blessing in vain, which is a Torah prohibition. Very serious, most frightening.	uma bênção em vão, o que é uma proibição da Torá. Muito grave, assustador.
+909	Gentlemen, we need to learn halachot now. What's	Senhores, precisamos estudar halachot agora. O que
+910	on your minds? Meat and milk, oy vavoy, right? But this is	vocês têm na cabeça? Carne e leite, ai, ai, certo? Mas isto não é
+911	not meat mixed with milk in cooking, so it is only	carne misturada com leite no cozimento, então é apenas
+912	a rabbinic prohibition. That's serious: a rabbinic prohibition versus	uma proibição rabínica. É sério: uma proibição rabínica contra
+913	a Torah prohibition, "Do not take the name of HaShem your Elokim." Let's sit.	uma proibição da Torá, "Não pronunciarás o nome de HaShem teu Elokim." Vamos sentar.
