@@ -1,0 +1,55 @@
+videoId: nEiFh9dt8W4
+parte 3 de 3 · traduzir as linhas 900 a 930 (31 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Nachamu nachamu: por que a consolação é dupla?
+RESUMO: O rabino pergunta por que o versículo de Yeshayahu repete "Nachamu nachamu" na Haftará de Shabat Nachamu, já que uma consolação deveria bastar, e rejeita as respostas comuns (dois Templos destruídos, ou a repetição de estilo). Ele conta a história da Gemará no fim de Makot: os Sábios veem Roma em festa e o Beit HaMikdash em ruínas com uma raposa saindo do Santo dos Santos; Rabi Akiva ri e, ao citar "Tzion sadeh techaresh", faz os Sábios dizerem "Akiva, nechamtanu". Segundo o Rebe de Lubavitch (Likutei Sichot, vol. 19), existem duas consolações: a de que amanhã será bom e a de que o próprio sofrimento é o começo do bem, como a aradura profunda que prepara a semeadura, o prédio demolido para dar lugar a outro maior e o dente que cai para nascer o novo. O rabino liga isso aos Sábios que se reúnem com Rabi Akiva na noite do Seder em Bnei Brak, à Torá de Haazinu lida como canto (Rambam, Hilchot Temidin uMusafin), à ideia de que a adversidade revela forças, e a uma história sobre os cacos de vidro ao lado da chanukiá. Ele termina com o fim do tratado Moed Katan, "Bila hamavet lanetzach", e a guematria de "dimá" com o kolel igual a "moed".
+MOMENTOS: 00:21 A Haftará de Nachamu e a abertura do tema · 00:44 A pergunta: por que a consolação dupla? · 02:44 Makot: os Sábios vão a Roma e veem a alegria dela · 05:00 A raposa no Santo dos Santos e o riso de Rabi Akiva · 06:16 "Akiva, nechamtanu": a consolação dupla · 08:35 O Rebe: duas consolações, futuro e presente · 11:39 A aradura profunda e a semeadura · 16:40 Rabi Akiva e o met mitzvá, a vergonha como início · 19:40 Os Sábios vão a Rabi Akiva em Bnei Brak · 25:21 Kinat Haazinu na noite de Tisha beAv · 28:35 Haazinu é canto: o caminho inteiro · 35:07 História do ghevir e dos cacos de vidro · 42:26 Moed Katan termina com "bila hamavet"
+FONTES CITADAS: 00:25 Yeshayahu 40:1 · 01:34 Yeshayahu 51:12 · 01:39 Eichá 1:2 · 02:44 Makot 24b · 02:51 Yeshayahu 1:21 · 05:03 Bamidbar 1:51 · 05:51 Mica 3:12 · 05:54 Zecharia 8:4 · 07:19 Eichá 5:18 · 08:01 Likutei Sichot, vol. 19, Parashat Nachamu · 10:48 Shulchan Arukh, Orach Chaim 552:5 · 13:50 Berachot 7a · 13:50 Shemot 33:13 · 16:40 História de Rabi Akiva e o met mitzvá · 18:55 Yevamot 62b · 19:45 Hagadá de Pessach · 20:33 Sucá 27b · 22:15 Berachot 27b-28a · 23:00 Berachot 12b · 23:56 Yomá 54b · 25:48 Devarim 32:26 · 26:53 Devarim 32:27 · 27:45 Rosh HaShaná 31a · 28:01 Devarim 32:1 · 28:53 Ramban em Devarim 32 · 29:35 Devarim 32:10-11 · 30:03 Devarim 32:43 · 31:00 Rambam, Hilchot Temidin uMusafin · 34:08 Yirmiyahu, haftará de Devarim · 42:51 Yeshayahu 25:8 · 43:05 Yerushalmi, ordem de Moed
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+888|43:18|מועד קטן עם בפסוק ובילה מוות לנצח ומכה
+889|43:22|השם אלוקים דמאה מעל כל פנים. יפה מאוד.
+890|43:24|פסוק של נחמה. הרבי שאל פעם למה דווקא
+891|43:27|הפסוק הזה חסרים פסוקים של נחמה שיסיימו
+892|43:30|בפסוק של מחמיךבר רחמן זהרצו חיים ברחמים
+893|43:33|ידברו על תחיית סמייסים ידברו הרי מדברים
+894|43:35|עלות אז למה דווקא הפסוק הזה בילה מוות
+895|43:37|לנצח ומכרה שם אלוקים דמה מעל כל פנים למה
+896|43:40|לא פסוק אחר בכלל משנה אס לא מסיימוד
+897|43:43|פסוקים אבל גם אם רצו כאן תקווה למה דווקא
+898|43:45|הפסוק הזה המפורשים מובא בספרים שדמאה עם
+899|43:50|הכוילל בגימטריה מויד דמאה פלוס אחד זה
+
+LINHAS A TRADUZIR:
+900|43:53|מוי כן דמאה זה ה מויד זבוב ואותם אותיות
+901|43:57|דמה אז דמאה עם הכויל עם המילה עצמה היא
+902|44:00|היא מויד ומילא לכן מסיימים בפסוק ומכה שם
+903|44:03|אלוקים דמאה מעל כל פנים כי דמה עם הכולל
+904|44:05|בגימטריה מועד ולכן מסיימים איתה את מסכת
+905|44:08|מועיד ואת מסכת מועיד קות מה הפשט בזה
+906|44:11|דמאה עם הכול עם מועד אם דימה ומוד זה
+907|44:14|שווה זה צריך להיות שווה אם זה לא שווה מה
+908|44:16|יעזור הכול מה זה הקומבינה הזאת שמוסיפים
+909|44:18|את המילה עצמה כוללים את המילה עצמה מה
+910|44:20|הולך פה והרבי אמר פעם בהתוועדות
+911|44:24|כמה כמה כמה חזון, כמה ראייה יש בתוך בתוך
+912|44:27|הוורט הזה. דמאה עם הכויל עם או דמאה
+913|44:32|כשכוללים אותה עם כל הרצף, עם כל התמונה.
+914|44:35|האירוע הכואב עצמו שבוכים עליו אין בו
+915|44:38|נחמה. הוא קשה מאוד. כשקוראים פרשת כי תבו
+916|44:41|של הקללות אף אחד לא שר אותה כשישירה.
+917|44:43|כשקוראים פרשת בחוקותיי, אף אחד לא שר
+918|44:46|שירה. זה רגעים קשים מאוד. אבל פרשה
+919|44:49|סאזינו מכניסה את התוכחה כחלק מהרצף השלם
+920|44:52|של עם ישראל, כחלק מהתחנה לפני ירנינו
+921|44:55|גויים המו, לפני הנחמה, דמאה עם הכויל.
+922|44:58|כשכוללים את כל הסיפור, את כל התמונה, אז
+923|45:01|זוכים להקיבא נחמתנו, עקיבא נחמתנו. אז
+924|45:04|הדימה עצמה היא רגע של מועד, היא רגע של
+925|45:06|שמחה, היא רגע של הודעה.
+926|45:08|ירחם עלינו הקדוש ברוך הוא. ונזכה כבר
+927|45:10|נזכה כבר לפני ערב שבס נחמו להתגשמות של
+928|45:14|כל הנבואות הגדולות של כל השי ודנחמתא כי
+929|45:17|פשוט ממש וטובני והנגלה אשתה בעגלה הוא
+930|45:20|בזמן קריב ונאמר אמן שבת שלום ‏M.

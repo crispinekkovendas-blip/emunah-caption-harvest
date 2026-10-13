@@ -1,0 +1,80 @@
+videoId: 07Eq1qCMHkY
+parte 3 de 3 · traduzir as linhas 900 a 955 (56 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A força do começo: por que HaShem pede as primícias
+RESUMO: O rabino parte de um estudo sobre quem entra no mercado de trabalho em época fraca e fica atrasado por 20 anos, para mostrar que o momento inicial define o resto. Na Parashá Ki Tavô, a mitzvá dos Bikurim, junto com Challá e Maaser, leva à pergunta: o que HaShem ganha com o primeiro, se o primogênito nem é o mais valioso e o próprio HaShem escolhe os mais novos? A primeira resposta, do Sefer HaChinuch, é que no primeiro está o ego do homem, e entregá-lo expressa que tudo vem de HaShem, o que explica a diferença entre Kain e Hevel. A segunda resposta, hassídica, é que o começo molda tudo o que vem depois: o Rosh HaShaná, os sacrifícios do Tamid, e o adiamento de Simchat Torá e Shabat Bereshit, que o Minhagê Maharil explica como forma de confundir o Satan. O milagre do azeite de Chanucá e a regra de que na inauguração não se aceita bedieved reforçam a ideia. Por fim, o rabino aplica o tema à educação infantil (Reshit Arisotechem) e ao dito de Elisha ben Avuyá, no Pirkê Avot, sobre aprender na infância, ilustrado pelo episódio dele com Rabi Meir.
+MOMENTOS: 00:43 Estudo de Yale: entrar no mercado na hora certa · 03:12 A Torá e a importância dos começos · 05:20 Bikurim e as mitzvot de primícias · 10:33 O que HaShem ganha com o primeiro? · 13:07 O primogênito não é o mais valioso: o bezerro terceiro · 14:25 Resposta do Sefer HaChinuch: o ego e a fé · 16:46 Kain e Hevel: a oferta das primícias · 24:31 O começo determina a continuação · 28:14 Rosh HaShaná e o sacrifício do Tamid · 32:31 Por que Simchat Torá e Shabat Bereshit são adiados · 38:41 O azeite de Chanucá: com começo não se brinca · 44:08 Reshit Arisotechem e a educação infantil · 45:30 Elisha ben Avuyá e Rabi Meir
+FONTES CITADAS: 00:43 Lisa Kahn, Universidade de Yale · 03:38 Devarim 26:2 · 05:34 Devarim 26:1-11 (Ki Tavô, Bikurim) · 06:45 Bamidbar 15:20 · 07:01 Shemot 13:2 · 07:35 Devarim 21:17 · 09:43 Rashi em Bamidbar 15:20 · 10:37 Shemot 4:22 · 12:39 Bereshit 4:1-8 (Kain, Ishmael, Esav, Reuven) · 13:17 Guemará, Igal Tilta (Bechorot e outros tratados) · 13:54 Sanhedrin 65b · 14:25 Sefer HaChinuch, mitzvá 91 · 15:40 Torá Temimá (Rav Baruch HaLevi Epstein) · 16:11 Yeshayáhu 28:4 · 17:15 Bereshit 4:3-5 · 18:41 Divrê HaYamim I 29:14 · 28:17 Ari HaKadosh, Baal Shem Tov e o Rebe · 29:38 Bamidbar 28:4 · 30:17 Vayikrá 6:6 · 30:25 Shulchan Arukh, Orach Chaim 1:1 e Mishlê 15:15 · 35:54 Minhagê Maharil (Rabi Avraham Klausner) · 36:33 Iyov 1:6 · 37:00 Sucá 53a · 39:03 Guemará, Yomá 6b e Pesachim 77a · 40:00 Ran, Tratado Chanucá · 40:15 Melachim II 4:1-7 · 41:59 Rabi Yosef Engel, Guilionê HaShas · 43:03 Vayikrá 10:1-7 · 43:20 Midrash Daat Zekenim · 44:11 Bamidbar 15:20 · 45:30 Pirkê Avot 4:20 · 47:15 Chaguigá 15a · 49:48 Torat Melech, Tishrei 221
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+888|47:43|שירים אותך ורבי מאיר יודע שיש רק אחד
+889|47:47|שיכול להרים אותו אלישע בן אבויה אחר שכבר
+890|47:50|פקר תרחק רבי מאיר דופק אצלו בדלת שבת
+891|47:53|אחרי צהריים רבי בוא נצא לסיבוב שבת תשובה
+892|47:56|היום
+893|47:57|והולכים ומדברים דברי תורה ואחר על הסוס
+894|48:01|אחר הוא פוקר אחר הוא פורא קול הוא על
+895|48:03|הסוס ורבי מאיר הולך ברגל שבת
+896|48:07|בצהריים פתאום אחר מתעורר ואומר מאיר מאיר
+897|48:13|חזור לאחוריך שספרתי בעקבי הסוס ועברנו
+898|48:17|קילומטר עברנו 2000
+899|48:19|אמה אתם שומעים אחר שרוכב על הסוס הוא
+
+LINHAS A TRADUZIR:
+900|48:24|סופר את הצעדים והוא מזכיר לרבי מאיר
+901|48:27|שעברנו תחום שבת אסור לך להמשיך הלאה למה
+902|48:32|כי הלומד ילד למה הוא דומה לדיוק תובה על
+903|48:35|נייר חדש אומר לך רבי יהודה הנשיא תראה את
+904|48:38|אלישע בן אבויה זה לא מה שהוא אמר זה הוא
+905|48:41|היה אומר תראה אותו עצמו הוא ההוכחה
+906|48:43|לדברים הוא דיבר על עצמו הוא התרחק פקר
+907|48:47|ורוחב בשבת על סוס ועדיין סופר את הצעדים
+908|48:50|הוא עדיין לא משתחרר מאותה גרסת
+909|48:53|ינקותה זה הכוח של התחלה התחלה היא רגע
+910|48:57|עוצמתי כזה שנמצא בו כל ההמשך ולכן הקדוש
+911|49:01|ברוך הוא מבקש מאיתנו יש דברים שמותרים
+912|49:04|בהמשך השנה במשך השנה אפשר לדבר אפשר
+913|49:06|להשתטות וא אפשר לעשות הרבה טעויות בהתחלה
+914|49:10|אסור לעשות את הטעויות האלה אומר לנו
+915|49:13|הקדוש ברוך הוא בראש השנה תנצלו כל רגע
+916|49:16|ביום הכיפורים בעשרת ימי תשובה תנצלו כל
+917|49:18|רגע בחודש אלול א' אלול מתחיל בא' כי
+918|49:21|עכשיו מתחילה השנה בחודש אלול צריכים לנצל
+919|49:24|כל רגע אחר כך במשך השנה נעשה דברים אחרים
+920|49:27|חס ושלום גם ההמשך יהיה טוב אבל ההתחלה
+921|49:30|בוודאי צריכה להיות מושלמת ההתחלה חייבת
+922|49:33|להיות כזאת שעכשיו לא משחקים מחשבות זרות
+923|49:36|דיבורים זרים עיורים רעים נדחה אותם לאחרי
+924|49:39|החגים יבוא יצר הרע נגיד לו אחרי החגים
+925|49:41|עכשיו זה זמן שצריכים להיות מושלמים
+926|49:43|צריכים להיות מצטיינים לסיים את הקטע הזה
+927|49:46|בתורת מלכם תשי
+928|49:48|221 מבואר בכמה מקומות בדך הטעם שנקרא ראש
+929|49:52|השנה ולא תחילת השנה כי יום זה הוא כאין
+930|49:54|ראש לגבי שער ימות השנה וכמו שהראש חיות
+931|49:58|כל האיברים תלוייה בו וממנו נמשכת חיות
+932|50:00|לכל איבר פרטי כך ראש השנה כולל חיות של
+933|50:04|כל ימי השנה ואחר כך מתחלק בגילוי לימים
+934|50:06|פרטיים ויש לומר שזה הוא אחד מטעמי האזהרה
+935|50:10|ליקר ביותר את הזמן דראש השנה כי השעות
+936|50:13|והרגעים הללו הם כלליים וכמו בראש ואיברי
+937|50:16|הגוף כל אחד מבין שבראש כל שריטה חלילה
+938|50:19|היא מחרת היא קריטית כך בראש השנה כל רגע
+939|50:25|לא מושלם יש לו השפעה עלכל ל השנה כולה
+940|50:27|וזה ככה על חודש אלול וזה ככה על עשרת ימי
+941|50:29|תשובה אז זה הזמן קיבלנו מסגרת זמן מהקדוש
+942|50:32|ברוך הוא שבהם צריכים להצטיין יותר
+943|50:34|והחשיבות של הימים האלה היא לא רק בשביל
+944|50:37|עצמם אלא גם על כל ההשפעה על כל השנה כולה
+945|50:40|שתמשיך בעזרת השם לטובה ולברכה אני רק
+946|50:42|אסיים ואקד את השיעור לעילוי נשמעת פנחס
+947|50:45|בן סול וישראל בן כמשנה ג'ולייט בת יחזקל
+948|50:50|וחנה בת מרים מימה של הנשמות תיהייה עליה
+949|50:53|וימליצו טוב על המשפחות לנחת לבריאות
+950|50:55|לבשורות טובות כל מה שמבקשים להבדיל אלפי
+951|50:58|הבדלות לרפואת יחיאל בן ג'ולייט וייצמן
+952|51:02|שיחזור הביתה בריא ושלום למשפחתו יקטה
+953|51:05|וייחתם בתוך שאר כלל ישראל לשנה טובה
+954|51:08|ומתוקה לבשורות טובות בכל
+955|51:11|[מוזיקה]

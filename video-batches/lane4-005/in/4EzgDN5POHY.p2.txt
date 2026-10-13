@@ -1,0 +1,94 @@
+videoId: 4EzgDN5POHY
+parte 3 de 3 · traduzir as linhas 900 a 969 (70 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sinat chinam, Aharon HaCohen e o mês de Av
+RESUMO: O rabino abre com avisos sobre a viagem a Tsfat na saída de Shabat e traz duas guimatriot: o Baal HaTurim em Tazria, que liga "Uvayom hashmini yimol" a "Vayechulu hashamayim" e mostra que a diferença numérica entre os dois versículos é 815, igual a "dochê Shabat", e o versículo "Al ken yaazov ish" cuja guimatria (2837) coincide com a bênção da mulher antes da imersão no mikve. Passa então à morte de Aharon HaCohen em Rosh Chodesh Av (Bamidbar 33:38), ao Rashi em Chukat 20:29 e à Mishná de Avot sobre amar as criaturas e aproximá-las da Torá, contrastando com Korach. Explica, com a Guemará de Yomá, o Yerushalmi e Yirmiyahu, que o Primeiro Templo caiu por pecados graves e pelo abandono da Torá, e o Segundo por sinat chinam. Define sinat chinam a partir do Rashi em Devarim 1:27: odiar o outro por imaginar que ele nos odeia, como os que diziam que HaShem os tirou do Egito por ódio. Cita Malachi 2:10 para explicar o nome do mês de Av e termina com Devarim 1:12 ("Eichá esa levadi"), mostrando que Aharon mantinha a paz no povo e que em cada geração os sábios verdadeiros carregam essa tarefa, sempre conforme a Halachá.
+MOMENTOS: 00:04 Abertura: Parashat Devarim e os dias de Bein HaMetsarim · 00:42 Aviso da viagem a Tsfat na saída de Shabat · 03:45 Rema de Rotenburg: nascer em Shabat e a brit mila · 07:16 Baal HaTurim: mila dochê Shabat e o versículo de Tazria · 11:59 Diferença de 815 = "dochê Shabat" · 14:39 "Kulach yafa raayati": estudar a Torá por inteiro · 21:00 Guimatria de "Al ken yaazov ish" e a bênção do mikve · 23:12 Morte de Aharon em Rosh Chodesh Av e Rashi em Chukat · 26:34 Por que os Templos foram destruídos: sinat chinam · 30:16 Amar as criaturas e aproximá-las da Torá; Korach · 32:44 Rashi em Devarim 1:27: o ódio gratuito dos espiões · 45:44 Malachi 2:10 e o mês de Av · 50:15 Devarim 1:12 e a alma de Moshé em cada geração
+FONTES CITADAS: 03:54 Shabat 156a · 04:55 Rema de Rotenburg (Maharam), pergunta sobre o nascido em Shabat · 07:16 Baal HaTurim em Vayikra 12:3 · 07:34 Vayikra 12:3 · 08:19 Bereshit 2:1 · 13:39 Shabat 132a · 14:44 Shir HaShirim 4:7 · 20:45 Bereshit 2:24 · 21:48 Bênção da imersão no mikve · 23:30 Bamidbar 33:38 · 24:31 Pirkei Avot 1:12 · 25:04 Bamidbar 20:29 · 25:13 Rashi em Bamidbar 20:29 · 26:41 Yomá 9b · 27:15 Yirmiyahu 9:11 · 27:28 Nedarim 81a · 27:49 Yerushalmi, Chagigá 1:7 · 28:27 Shabat 119b · 28:43 Arachin 15b · 30:45 Bamidbar 16:3 · 31:20 Sfat Emet sobre o dia da morte de Aharon · 33:17 Yerushalmi, Makot 2:6 · 33:55 Devarim 1:27 · 34:36 Rashi em Devarim 1:27 · 44:42 Mishlei 17:13 · 45:44 Malachi 2:10 · 48:30 Malachi 2:11 · 50:15 Devarim 1:12 · 54:43 Zohar, a expansão de Moshé em cada geração · 54:55 Devarim 1:13
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+888|51:10|אב לפני.
+889|51:12|עכשיו מה אמרנו מקודם? כל זמן שאהרון הכהן
+890|51:15|היה בחיים
+891|51:18|אז הוא עשה כל הזמן בלהשקין שלום בניש
+892|51:21|לראהו בניש לאשתו להשקין שלום פלי פלאים
+893|51:26|אתם יודעים מה כתוב במדרש שבפטירתו של
+894|51:29|אהרון הכהן היו 80,000 תינוקות של בית רבן
+895|51:34|תינוקות שליוו אותו
+896|51:37|זאת אומרת שהיו שמה 80,000 מה זה 80 א000
+897|51:42|שכולם קראו להם אהרון על שמו
+898|51:44|זאת אומרת שבגלל השלום שהוא השכים [‏צחוק]
+899|51:48|איי איי איי תעשו חשבון בבקשה א כמה זמן
+
+LINHAS A TRADUZIR:
+900|51:52|הם היו במדבר 40 שנה נכון 40 שנה ואהרון
+901|51:55|הכהן עוד נפטר בחודש אב לפני תורידו לא
+902|51:59|שנה שלמה אבל כמעט שנה טוב אז אם ככה תעשו
+903|52:04|בשנה אחת יש 365 ימים יקח שנת חמה שנת חמה
+904|52:09|365 ימים 365
+905|52:12|כפול 40 כמה זה?
+906|52:17|>> 365
+907|52:18|* 40
+908|52:21|כמה יוצא לכם?
+909|52:23|>> 12,000 בערך
+910|52:26|>> 14600 זכה
+911|52:32|>> עשית עם המחשף נכון בסדר עכשיו ככה
+912|52:38|14600 כמה תינוקות הלכו אחריו? 80,000
+913|52:44|זאת אומרת תעשו בבקשה תעשה רגע במכשף
+914|52:48|תעשה 80,000 לחלק ל-14,600ח
+915|52:53|>> 80,000 לחלק ל-14,600
+916|53:01|>> 5.47
+917|53:02|>> 5.47 שבע יפה זאת אומרת הוא עסק למעלה
+918|53:06|מחמש פעמים בשלום בית ביום
+919|53:10|שבת
+920|53:10|>> אתה מבין וזה בתנאי שאני אומר שבכל ה-40
+921|53:13|שנה בכל ה-40 שנה ואמרתי לכם זה פחות מ-40
+922|53:17|שנה קצת בכל ה-40 שנה הוא עשה יושלום בית
+923|53:20|בלי מנוחה כל יום שבתות חגים יום הכיפורים
+924|53:23|הכל
+925|53:25|איי איי איי איי איי
+926|53:28|אין לנו מושגים עכשיו תחשוב לעצמך ברגע
+927|53:31|שאהרון הכהן נפטר ר כמה בלאגנים היו
+928|53:34|התחילו עוד הפעם בישראל? המון נכון אז
+929|53:39|ראיתי פירוש שלכן משה רבנו אומר בפרשת
+930|53:42|דברים אך עשה לבדי תוככם מה זה כמו הבנה
+931|53:46|לבדי עד עכשיו היה איתי אהרון הכהן עכשיו
+932|53:50|אני לבד אכה עשה לבדי תורככם ומשעכם
+933|53:55|וריבכם
+934|53:56|אבל יש רומזים זה רבותיי
+935|54:00|שהכוונה שבכל דור ודור יש תלמידי חכמים
+936|54:04|ויש רבנים ויש צדיקים אמיתיים שזוכים
+937|54:06|זוכים לעסוק עם עם ישראל
+938|54:09|וזוכים להדריך ולבכוח עיניים ולהשקין שלום
+939|54:12|בניש לראהו בניש לאשתו שזה בעצם התפקיד
+940|54:15|האמיתי רבותיי לאחד בן עם ישראל על פי
+941|54:20|דרכי תורתנו הקדושה הכל צרוף על פי ההלכה
+942|54:24|הצרופה אם זה לא הלכתי שב בשקט אל תעשה
+943|54:27|כלום אל תעשה שלום בית ואל תעשה טובות
+944|54:30|אם זה לא על פי ההלכה
+945|54:33|הכל על פי ההלכה כל דבר שסותים מההלכה
+946|54:36|ימינה שמאלה זה עובדן וחורבן שיהיה ברור
+947|54:43|לכן משה רבנו כתוב בזוהר הקדוש שהתפשטות
+948|54:46|דמשה בכל דר ודר
+949|54:50|כל תלמידי חכמים כל צדיקים אמיתיים וחולה
+950|54:52|שיש בכל דור ודור יש בהם נצות של משה רבנו
+951|54:55|עליו השלום ולכן הוא אומר אבו לכם אנשים
+952|55:00|חכמים ונבונים וידועים לשבטיכם
+953|55:05|ועשימם
+954|55:06|וראשיכם.
+955|55:08|וזה בעצם רומז משה רבנו עליו השלום שהנשמה
+956|55:12|שלו תתפשט בעצם בכל התלמידי חכמים ובכל
+957|55:15|המנהיגים שיו בכל הדורות כולם.
+958|55:19|שזה בעצם
+959|55:21|הישועה הגדולה.
+960|55:24|לכן זו בעצם רבותיי אהבת ישראל אמיתית
+961|55:29|לקרב אותם תורה ולמצוות.
+962|55:33|רציתי להספיק אתכם גם כן את שעשוות, אבל
+963|55:35|לביטר בלי עין הרע כבר התחיל להתנצץ בו
+964|55:38|ראיתי.
+965|55:40|ברוך השם אז אם ירצה השם ועל המלך טוב,
+966|55:45|שבוע הבא נזכה לעשות את השער המצוות כי זה
+967|55:49|יוצא גם טוב. זה יוצא שבוע הבא פרשת
+968|55:51|ויתחנן והגענוש מצות פרשת ויתחנן ברוך
+969|55:56|אדוני לעולם אמן ואמן
