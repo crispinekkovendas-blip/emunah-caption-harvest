@@ -1,7 +1,7 @@
 # lane2-008
 
-21 of 25 lessons published · 0 skipped · status **pending**
-Tokens (34 agent runs with a record): 0.3M in (mostly cache) · 0.57M out · API-equivalent 6.91
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (41 agent runs with a record): 0.4M in (mostly cache) · 0.71M out · API-equivalent 8.32
 
 | lesson | state | detail |
 |---|---|---|
@@ -11,16 +11,16 @@ Tokens (34 agent runs with a record): 0.3M in (mostly cache) · 0.57M out · API
 | SCeJawKSGSU | ✓ published | 95 lines · Parashat Shelach Lecha: os espiões e a Terra |
 | AhZpYpHhSF4 | ✓ published | 494 lines · Bikurim e a Brit: por que a Parashá se chama Tavô |
 | adKdl8ut83g | ✓ published | 100 lines · Parashá Nitsavim: a aliança, o oculto e a escolha da vida |
-| HyI8YmtGtjI | ✗ will be redone (try 1) | line 0 twice |
-| o4qy4XcmqWM | ✗ will be redone (try 1) | 2 lines missing |
+| HyI8YmtGtjI | ✓ published | 479 lines · Bishalach: a semente, a terra e a casca que vem antes |
+| o4qy4XcmqWM | ✓ published | 842 lines · Kí Tissá: o olhar interior sobre a guerra |
 | -9e419yzQ70 | ✓ published | 434 lines · Parashá Tsav: fogo constante, gratidão e alegria |
 | yFhook4NuQE | ✓ published | 100 lines · Parashat Tsav: os sacrifícios e o serviço no Mishkan |
-| 0quz8Hx-xyc | ✗ will be redone (try 1) | 118 lines missing |
+| 0quz8Hx-xyc | ✓ published | 711 lines · A queda revela quem você é: trabalhar as middot |
 | EfMOdFid4Lw | ✓ published | 498 lines · A força do silêncio: calar a boca e a alma |
 | ycthSEnnfaU | ✓ published | 809 lines · Parashá Bo: viver a Torá com emuná e tefilá |
 | SD5Qvpa6tGY | ✓ published | 218 lines · O Alef pequeno de Vayikrá e o valor da humildade |
 | G539RE1X0VU | ✓ published | 157 lines · Por que a Torá foi dada no deserto: humildade e Keter Torá |
-| Az-y3q_cjWs | ✗ will be redone (try 1) | 254 lines missing |
+| Az-y3q_cjWs | ✓ published | 419 lines · Nekamá proibida e nekamá obrigatória (Matot-Masei) |
 | qPYfJTT2-o0 | ✓ published | 93 lines · A Haftará de Vaetchanan: Nachamu, nachamu ami |
 | GttgzXJ1xyE | ✓ published | 64 lines · O poder das lágrimas: o clamor de Yishmael |
 | uS68cGnxtz0 | ✓ published | 113 lines · O Retorno do Filho ao Pai |
