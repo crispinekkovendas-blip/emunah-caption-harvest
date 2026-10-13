@@ -239,5 +239,33 @@
   "FoS1hxG9xbs.p0",
   "FoS1hxG9xbs.p1",
   "FoS1hxG9xbs.p2"
- ]
+ ],
+ "tries": {
+  "psQ4TnMv680": 1,
+  "T03lQdgYxiQ": 1,
+  "2tRPI0p4IMo": 1,
+  "yfdMhNamA8Y": 1,
+  "YF2oDA0SMDI": 1,
+  "7hBP79oiCo0": 1,
+  "ruQWOWExEOw": 1,
+  "U02_RE0pZQI": 1
+ },
+ "done": [
+  "wf_N-SHA3Jo",
+  "_LwH12k0LZQ",
+  "pRtXQh7P01U",
+  "utqv59PKgTA",
+  "YMjz55_lHFQ",
+  "gYAPIHclqTE",
+  "nN_GReQHbMw",
+  "BKcZ-praGsw",
+  "4RKDYnHmfyM",
+  "IXqCizFaQ3A",
+  "j9CB03aoa4c",
+  "oSUlIDGF1Mk",
+  "ajAqZpLpGto",
+  "Ox_Vgr-RAww",
+  "FoS1hxG9xbs"
+ ],
+ "skipped": []
 }
