@@ -2,7 +2,7 @@
  "name": "lane2-007",
  "lane": 2,
  "created": "2026-10-13T05:09:10.833Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "LahsaXMskPk",
@@ -240,7 +240,7 @@
   "VrouJBJ2XDA": 1,
   "x6FUah59sKU": 3,
   "5F8rj8PJkJs": 3,
-  "68YXUDnO-tw": 2,
+  "68YXUDnO-tw": 3,
   "vRJAh75SKqg": 2
  },
  "done": [
@@ -264,10 +264,12 @@
   "7wpqAg5tmsM",
   "mobxV57lOaU",
   "VrouJBJ2XDA",
-  "LahsaXMskPk"
+  "LahsaXMskPk",
+  "vRJAh75SKqg"
  ],
  "skipped": [
   "x6FUah59sKU",
-  "5F8rj8PJkJs"
+  "5F8rj8PJkJs",
+  "68YXUDnO-tw"
  ]
 }
