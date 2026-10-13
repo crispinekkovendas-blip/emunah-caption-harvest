@@ -1,0 +1,450 @@
+0	[Music]	[Música]
+1	There is in halacha	Existe na halachá
+2	what is called noten ta'am bar noten ta'am	o que se chama noten ta'am bar noten ta'am
+3	There is the flavor of what is permitted	Há o sabor do que é permitido
+4	and that of what is forbidden: permitted, forbidden. What does it mean?	e o do que é proibido: permitido, proibido. O que significa?
+5	A person cooked in a pot	Uma pessoa cozinhou numa panela
+6	in the morning he cooked milk in it	de manhã cozinhou leite nela
+7	at noon	ao meio-dia
+8	he cooked meat in it, that is one flavor	cozinhou carne nela, esse é um sabor
+9	In the morning he made milk, made meat, it released	De manhã fez leite, fez carne, ela liberou
+10	the pot	a panela
+11	the flavor of the milk into the meat, and a mixture of meat	o sabor do leite na carne, e resulta uma mistura de carne
+12	and milk results. This is forbidden	e leite. Isso é proibido
+13	Forbidden to benefit from, even to sell to a gentile	Proibido tirar proveito, até vender a um gentio
+14	Forbidden	Proibido
+15	The Torah said three times, "Do not cook a kid"	A Torá disse três vezes: "Não cozinharás o cabrito"
+16	One time, it is forbidden to eat	Uma vez, é proibido comer
+17	it is forbidden to benefit	é proibido tirar proveito
+18	and one time, it is forbidden to cook	e uma vez, é proibido cozinhar
+19	For example, a person who works	Por exemplo, uma pessoa que trabalha
+20	for gentiles	para gentios
+21	a consulate	num consulado
+22	and they are gentiles, and he is to cook for them meat in milk	e eles são gentios, e ele deve cozinhar para eles carne no leite
+23	that is what his boss wants, it is forbidden for him	é isso que o chefe quer, é proibido para ele
+24	even though he does not taste it, he only cooks	mesmo que ele não prove, apenas cozinhe
+25	The Torah said "do not cook," that alone is cooking	A Torá disse "não cozinharás", só o cozinhar já conta
+26	one for benefit and another for eating	um para o proveito e outro para o comer
+27	But	Mas
+28	there is noten ta'am bar noten ta'am dehetera	há noten ta'am bar noten ta'am de heter
+29	This is called permitted. For example, in the morning	Isso se chama permitido. Por exemplo, de manhã
+30	he cooked milk in the pot	cozinhou leite na panela
+31	at noon	ao meio-dia
+32	24 hours had passed	já tinham passado 24 horas
+33	he cooked rice in it	cozinhou arroz nela
+34	the pot was clean, of course	a panela estava limpa, é claro
+35	and he cooked rice in it	e cozinhou arroz nela
+36	The rice did not absorb directly from the milk	O arroz não absorveu diretamente do leite
+37	it absorbed from the pot, which had absorbed from the milk	absorveu da panela, que tinha absorvido do leite
+38	So what the pot absorbed from the milk is noten ta'am bar noten ta'am	Então o que a panela absorveu do leite é noten ta'am bar noten ta'am
+39	If it gave a second flavor into the rice, the flavor reaches it	Se deu um segundo sabor ao arroz, o sabor chega a ele
+40	and still it is permitted. Rice is pareve, permitted to eat	e ainda assim é permitido. Arroz é pareve, permitido comer
+41	it. Therefore, if he wants to take the rice	ele. Por isso, se quiser pegar o arroz
+42	and put it from there onto a dish of cheese, of dairy	e colocá-lo de lá num prato de queijo, de laticínio
+43	on the cheese, all of it is permitted	sobre o queijo, tudo é permitido
+44	noten ta'am bar noten ta'am dehetera	noten ta'am bar noten ta'am de heter
+45	still permitted	continua permitido
+46	So the first is what is forbidden	Então o primeiro é o que é proibido
+47	therefore the second flavor is permitted	por isso o segundo sabor é permitido
+48	Chametz too	O chametz também
+49	is the same	é igual
+50	At a time when	Numa época em que
+51	Pesach has not yet come, not on Pesach itself, before Pesach	Pessach ainda não chegou, não no próprio Pessach, antes de Pessach
+52	Before Pesach he cooked in the morning	Antes de Pessach ele cozinhou de manhã
+53	something fresh of chametz	algo fresco de chametz
+54	pure chametz	chametz puro
+55	At noon	Ao meio-dia
+56	he took the same pot	pegou a mesma panela
+57	and cooked jam in it, made jam of apricots or something	e cozinhou geleia nela, fez geleia de damasco ou outra coisa
+58	else, put it with sugar, boils them together	assim, pôs com açúcar, ferve tudo junto
+59	It released	Ela liberou
+60	from the chametz	do chametz
+61	and this is noten ta'am bar noten ta'am	e isso é noten ta'am bar noten ta'am
+62	Why? This jam was not cooked directly in	Por quê? Essa geleia não foi cozida diretamente em
+63	chametz	chametz
+64	but the pot absorbed from the chametz	mas a panela absorveu do chametz
+65	and then released	e depois liberou
+66	into this jam, so it is noten ta'am bar noten ta'am	nessa geleia, então é noten ta'am bar noten ta'am
+67	and still it is not considered chametz	e ainda assim não é considerado chametz
+68	it is not chametz	não é chametz
+69	It is no worse if he puts it	Não é pior se ele colocar
+70	for example, in some jar and	por exemplo, num pote e
+71	on Pesach wants to take the jar to taste; it is permitted	em Pessach quer pegar o pote para provar; é permitido
+72	Why? Because it is noten ta'am bar noten ta'am dehetera	Por quê? Porque é noten ta'am bar noten ta'am de heter
+73	…	…
+74	This heter is because there is not even a trace of it	Esse heter é porque não há nem um vestígio disso
+75	It has no taste, not even a trace in it	Não tem sabor, nem um vestígio nele
+76	therefore it is permitted lechatchila, permitted to eat it lechatchila	por isso é permitido lechatchila, permitido comê-lo lechatchila
+77	That is when it is of heter.	Isso é quando é de heter.
+78	But when it is of issur, it is forbidden. What is issur?	Mas quando é de issur, é proibido. O que é issur?
+79	The day of erev Pesach, in the morning	O dia de erev Pessach, de manhã
+80	for a food of chametz	para um alimento de chametz
+81	a person is permitted to eat chametz until the fourth hour, and he cooked	a pessoa pode comer chametz até a quarta hora, e cozinhou
+82	a dish of chametz	um prato de chametz
+83	in it, in the pot	nela, na panela
+84	At noon	Ao meio-dia
+85	he puts jam there and cooks in it; this creates a flavor	põe geleia ali e cozinha nela; isso cria um sabor
+86	A flavor is created, but it is forbidden; after four hours the chametz	Cria-se um sabor, mas é proibido; passadas quatro horas o chametz
+87	is forbidden	é proibido
+88	So when it is of issur	Então, quando é de issur
+89	it is forbidden to eat it on Pesach	é proibido comê-lo em Pessach
+90	This is the difference between heter and issur.	Essa é a diferença entre heter e issur.
+91	There are families	Há famílias
+92	abroad that adopted stringencies	no exterior que adotaram rigores
+93	not according to halacha, a stringency; for example	não conforme a halachá, um rigor; por exemplo
+94	the Ben Ish Chai writes that in Bavel they were accustomed	o Ben Ish Chai escreve que em Bavel tinham o costume
+95	not to use	de não usar
+96	old glass vessels	utensílios de vidro antigos
+97	not to use them	de não usá-los
+98	Maran ruled that it is permitted to use old glass vessels. Why?	Maran decidiu que é permitido usar utensílios de vidro antigos. Por quê?
+99	He says: it is written that glass neither absorbs nor	Ele diz: está escrito que o vidro nem absorve nem
+100	releases. The Rashba writes as proof that glass vessels	libera. O Rashba escreve como prova que utensílios de vidro
+101	that were used all year	que foram usados o ano todo
+102	may be used on Pesach if they were clean	podem ser usados em Pessach se estavam limpos
+103	with no dirt of chametz at all	sem nenhuma sujeira de chametz
+104	rinse it well, three times, and it is permitted. So	enxágue bem, três vezes, e é permitido. Assim
+105	the Rashba writes, so the Ran writes, so the Shulchan Arukh	escreve o Rashba, assim escreve o Ran, assim o Shulchan Arukh
+106	all kinds; all of them agreed, in Avodah Zarah, Rabbi	todos; todos concordaram, em Avodá Zará, Rabi
+107	Natan. Our rabbis confirmed it and said	Natan. Nossos rabinos confirmaram e disseram
+108	that it does not absorb at all. So why rinse it?	que não absorve nada. Então por que enxaguar?
+109	Rinse it well to remove the chametz, rinse it	Enxágue bem para tirar o chametz, enxágue
+110	well	bem
+111	We learned this from Haman the wicked	Aprendemos isso com Haman, o perverso
+112	He told us this halacha. Why? He sees	Ele nos disse essa halachá. Por quê? Ele vê
+113	the Jewish custom and tells Achashverosh in order	o costume judaico e conta a Achashverosh para
+114	to ignite his anger. What did he say? He said, "My lord	acender nele a ira. O que disse? Disse: "Meu senhor
+115	the king, come see, their laws differ from every people"	o rei, venha ver, as leis deles diferem as de todo povo"
+116	When a Jew needs to make Kiddush on Shabbat, holding the cup	Quando um judeu precisa fazer Kidush no Shabat, segurando o copo
+117	a fly was hovering there, and then it felt like	uma mosca pairava ali, e então teve vontade de
+118	taking a dip in his cup; it went down into it. What	dar um mergulho no copo dele; desceu nele. O que
+119	does this Jew do? He takes a spoon	esse judeu faz? Pega uma colher
+120	takes it out, throws it away, and goes on	tira a mosca, joga fora, e segue
+121	and then nothing happened; he finishes the Kiddush and drinks	e depois nada aconteceu; termina o Kidush e bebe
+122	it	o vinho
+123	But you, my lord the king, your little finger is clean	Mas você, meu senhor o rei, seu dedinho está limpo
+124	clean, everything, yet if your hand goes into the Jew's cup	limpo, tudo, mas se a sua mão entrar no copo do judeu
+125	the wine is yayin nesech, forbidden to drink	o vinho é yayin nesech, proibido beber
+126	he will take it and pour it out	ele o pegará e o despejará
+127	and then rinse the vessel three times until	e depois enxaguará o utensílio três vezes até
+128	he puts in other wine	colocar outro vinho
+129	Tosafot in Avodah Zarah learned from here	Os Tosafot em Avodá Zará aprenderam daqui
+130	that the Jewish custom, after something forbidden, is to rinse three times	que o costume judaico, depois de algo proibido, é enxaguar três vezes
+131	so that no residue remains	para que não fique nenhum resíduo
+132	Therefore, in particular, with beer bottles we have a law	Por isso, em particular, para garrafas de cerveja temos uma lei
+133	…	…
+134	…	…
+135	Pickled is like cooked	O que é conservado em imersão é como cozido
+136	It does not need specifically boiling hot water	Não precisa especificamente de água fervente
+137	a cold thing, but it is pickled	uma coisa fria, mas está em imersão
+138	steeped	embebido
+139	Meat fell into milk, cold milk	Caiu carne em leite, leite frio
+140	it stayed there 24 hours, it is forbidden to eat. Why? The steeping	ficou ali 24 horas, é proibido comer. Por quê? A imersão
+141	that it can be 24 hours	que pode durar 24 horas
+142	in the milk	no leite
+143	it becomes meat in milk, forbidden, and so with all kinds of prohibitions	vira carne com leite, proibido, e assim com todas as proibições
+144	kavush ke'vushal	kavush ke'vushal
+145	Therefore	Por isso
+146	this bottle had beer in it, and beer is chametz. What	esta garrafa teve cerveja, e cerveja é chametz. O que
+147	do they make it from? Barley. They soaked	usam para fazê-la? Cevada. Deixaram de molho
+148	the barley a long time, and it fermented, and the beer is chametz when he	a cevada por muito tempo, e fermentou, e a cerveja é chametz quando ele
+149	puts it in the bottle	a coloca na garrafa
+150	this bottle absorbs the flavor of the beer	esta garrafa absorve o sabor da cerveja
+151	absorbs chametz. Why? Even though the beer is cold, not hot, it is	absorve chametz. Por quê? Mesmo que a cerveja seja fria, não quente, está
+152	steeped	em imersão
+153	steeping inside the vessel, the vessel absorbed from it	imersa dentro do utensílio, o utensílio absorveu dela
+154	Yes. Nevertheless, this bottle, which is glass, like	Sim. Mesmo assim, esta garrafa, que é de vidro, como
+155	what we have there, with beer inside it	essa que temos ali, com cerveja dentro
+156	he kashers it, kashers it for Pesach	ele a torna kasher, kasher para Pessach
+157	since it does not absorb	já que ela não absorve
+158	He drinks the beer, takes the beer	Bebe a cerveja, pega a cerveja
+159	rinses it three times, puts in water and pours out, puts in water	enxágue três vezes, põe água e despeja, põe água
+160	and pours out, puts in water and pours out, three times, the first time	e despeja, põe água e despeja, três vezes, a primeira vez
+161	the third time not a trace of beer should remain. Then he can put	a terceira vez não deve restar vestígio de cerveja. Então pode pôr
+162	wine in it, the four cups, according to Maran	vinho nela, os quatro copos, segundo Maran
+163	who rules in his Halachot that all glass vessels do not	que decide em suas leis que todos os utensílios de vidro não
+164	absorb at all; rinsing them is enough	absorvem nada; basta enxaguá-los
+165	Our Ashkenazi brothers are stringent about this; they have the opinion of	Nossos irmãos asquenazitas são rigorosos nisso; têm a opinião do
+166	the Mordechai	Mordechai
+167	In perek Kol HaShaa he writes that glass vessels are like	No capítulo Kol HaShaa ele escreve que utensílios de vidro são como
+168	earthenware vessels	utensílios de barro
+169	they absorb and do not release	absorvem e não liberam
+170	He had no other version in Avodah Zarah, Rabbi Natan	Ele não tinha outra versão em Avodá Zará, Rabi Natan
+171	therefore the Rema is stringent	por isso o Rema é rigoroso
+172	But the Rav ruled explicitly that it is permitted	Mas o Rav decidiu explicitamente que é permitido
+173	Our Ashkenazi brothers who want to buy wine for Pesach	Nossos irmãos asquenazitas que querem comprar vinho para Pessach
+174	buy bottles; what is written is "new," what does that mean?	compram garrafas; o que se diz é "novas", o que isso significa?
+175	What? A new bottle	O quê? Uma garrafa nova
+176	to know it was not used all year	para saber que não foi usada o ano todo
+177	For us what matters is the Beit	Para nós o que importa é o Beit
+178	and old is permitted. Why? Maran, Beit Yosef, he is the head	e a velha é permitida. Por quê? Maran, Beit Yosef, ele é o principal
+179	The Beit Yosef permits	O Beit Yosef permite
+180	each community according to its custom. Now there were communities	cada comunidade segundo o seu costume. Ora, havia comunidades
+181	Sephardim abroad, as I said, the Ben Ish Chai	sefaraditas no exterior, como eu disse, o Ben Ish Chai
+182	above	acima
+183	families of Bavel	famílias de Bavel
+184	who were accustomed to be stringent not to use old glass vessels	que tinham o costume de ser rigorosas e não usar utensílios de vidro antigos
+185	on Pesach	em Pessach
+186	Yes, that is their custom, now	Sim, esse é o costume delas, agora
+187	there are no people in Bavel, all came to Eretz Yisrael	já não há gente em Bavel, todos vieram para Eretz Yisrael
+188	One who goes to a place where they do not do, or where they do, follows	Quem vai a um lugar onde não fazem, ou onde fazem, segue
+189	the custom of the place he went to; he does not need annulment. They came here	o costume do lugar para onde foi; não precisa de anulação. Vieram para cá
+190	and the custom here is like Maran, no stringencies, and they do	e o costume aqui é como Maran, sem rigores, e fazem
+191	as the place's custom; they need no annulment, they can	conforme o costume do lugar; não precisam de anulação, podem
+192	use glass vessels right away	usar utensílios de vidro logo
+193	after rinsing them properly	depois de enxaguá-los como manda a halachá
+194	Today	Hoje
+195	there is Duralex	existe a Duralex
+196	these are cups that are glass	são copos que são de vidro
+197	that you can use for cooking, they won't crack and	que se pode usar para cozinhar, não racham e
+198	nothing happens.	nada acontece.
+199	It is Pyrex,	É Pirex,
+200	Duralex, such cups or such pots	Duralex, copos assim ou panelas assim
+201	that you put in it,	que se põem nele,
+202	heat it on the fire, nothing happens to it.	aquece no fogo, nada acontece com ele.
+203	It is a kind of strong glass that is not affected	É um tipo de vidro resistente que não é afetado
+204	by heat	pelo calor
+205	They make it abroad, in London	Fazem isso no exterior, em Londres
+206	Yes, these ones	Sim, esses
+207	They do not absorb; since they do not absorb, it is permitted to use them	Não absorvem; já que não absorvem, é permitido usá-los
+208	on Pesach	em Pessach
+209	It is permitted to use them	É permitido usá-los
+210	in any case. Why? Since they did not absorb, it goes	em todo caso. Por quê? Como não absorveram, vale
+211	That is as long as we follow Maran. For Ashkenazim, no.	Isso enquanto seguimos Maran. Para asquenazitas, não.
+212	But there are those who permit it for Ashkenazim through hag'alá	Mas há quem permita aos asquenazitas por meio de hag'alá
+213	since they can withstand hot water	já que aguentam água quente
+214	he just does it in boiling water; if something	faz apenas em água fervente; se algo
+215	was absorbed, it is removed	foi absorvido, sai
+216	Yes, there is	Sim, existe
+217	But families that came from abroad	Mas famílias que vieram do exterior
+218	and were accustomed to forbid glass	e tinham o costume de proibir o vidro
+219	their children	os filhos delas
+220	when in their home do like their parents. What	quando estão em casa fazem como os pais. O que
+221	They will cook for them especially	Vão cozinhar especialmente para eles
+222	Their father does not eat rice, does not eat rice, that is only	O pai deles não come arroz, não come arroz, isso é só
+223	Ashkenazim; for us it is permitted to eat rice, and he is	asquenazitas; para nós é permitido comer arroz, e ele é
+224	…	…
+225	like the family, they do not eat rice, no, and he comes	como a família, não comem arroz, não, e ele vem
+226	from abroad and was accustomed not to eat rice	do exterior e tinha o costume de não comer arroz
+227	He arrives here and wants to continue his custom; according to	Chega aqui e quer continuar o seu costume; segundo
+228	the law he can eat rice here. Why? According to the custom of where he	a lei ele pode comer arroz aqui. Por quê? Segundo o costume do lugar para onde
+229	went, since his intention is not to return	foi, já que a intenção dele não é voltar
+230	Who	Quem
+231	Who thinks of returning to Bavel? Nobody.	Quem pensa em voltar para Bavel? Ninguém.
+232	Since their intention is to stay here, we put on him all	Como a intenção deles é ficar aqui, colocamos sobre ele todas
+233	[Laughter]	[Risos]
+234	the halachot that are practiced in Eretz Yisrael.	as halachot que se praticam em Eretz Yisrael.
+235	Therefore	Portanto
+236	by law he may eat rice without annulment. But	pela lei ele pode comer arroz sem anulação. Mas
+237	he wanted to be stringent	ele quis ser rigoroso
+238	good for him. He saw his parents do not eat rice,	bom para ele. Viu que seus pais não comem arroz,
+239	he too does not want to eat rice, so let him not eat. Who	ele também não quer comer arroz, então que não coma. Quem
+240	forces him? No problem. And his sons	o obriga? Sem problema. E os filhos dele
+241	study in yeshiva	estudam na yeshivá
+242	but their father does not eat rice, they did not eat it either	mas o pai deles não come arroz, eles também não comiam
+243	before they married	antes de se casarem
+244	Once they have a home of their own, they are permitted to eat rice; one will not	Quando têm casa própria, podem comer arroz; não se
+245	say that since the parents already practiced not to eat it, they will not	dirá que, como os pais já tinham o costume de não comer, eles não
+246	go, no.	vão, não.
+247	We follow the custom of the place; when we were at home	Seguimos o costume do lugar; quando estávamos na casa
+248	of our parents, we had no choice; they do not cook, they cook	de nossos pais, não tínhamos escolha; não cozinham, cozinham
+249	specially for us	especialmente para nós
+250	But after it becomes a home of its own, they are permitted	Mas depois que se torna uma casa própria, eles podem
+251	to eat rice, permitted to use glass vessels	comer arroz, usar utensílios de vidro
+252	old ones	antigos
+253	what was practiced in the home	o que se praticava na casa
+254	of the parents does not obligate them afterwards. And so	dos pais não os obriga depois. E assim
+255	…	…
+256	…	…
+257	I already said that we practice	Já disse que praticamos
+258	because the opinion of those who say	porque a opinião dos que dizem
+259	that any taste that is spoiled, nifgam,	que todo sabor estragado, nifgam,
+260	on Pesach, is permitted	em Pessach, é permitido
+261	What is nifgam? The Torah made a vessel that is	O que é nifgam? A Torá fez um utensílio que está
+262	absorbed with something forbidden	impregnado de algo proibido
+263	fit to be used for something permitted, which	apto a ser usado para algo permitido, que
+264	releases a flavor of forbidden into the permitted;	libera sabor de proibido no permitido;
+265	in water, they say	na água, dizem
+266	What is the matter? Like, for example, the vessels of Midian	Qual é a questão? Como, por exemplo, os utensílios de Midian
+267	They went to Midian and killed in them	Foram a Midian e mataram neles
+268	the Midianites	os midianitas
+269	The Midianites did not know that Israel was coming; they surprised them	Os midianitas não sabiam que Israel vinha; foram pegos de surpresa
+270	surprised them, and they had prepared	de surpresa, e tinham preparado
+271	for the afternoon meal, they had in the	para a refeição da tarde, tinham na
+272	kitchen pots full of meat, surely unkosher meat, of	cozinha panelas cheias de carne, certamente carne impura, de
+273	camels, of pigs	camelos, de porcos
+274	Yes, they cooked them for themselves; but	Sim, cozinhavam para eles; mas
+275	after they were killed, now these vessels	depois que foram mortos, agora esses utensílios
+276	of copper	de cobre
+277	have value, so what did all those who fought do?	têm valor, então o que fizeram todos os que lutaram?
+278	The soldiers took all these pots of	Os soldados pegaram todas essas panelas de
+279	copper to use them at home	cobre para usá-las em casa
+280	They came to the edge of Eretz Yisrael, and Elazar	Chegaram à fronteira de Eretz Yisrael, e Elazar
+281	HaCohen met them	HaCohen foi ao encontro deles
+282	He said to them, this is what Moshe Rabbenu told me	Disse-lhes: foi isto que Moshé Rabênu me disse
+283	It is forbidden to use these vessels, absorbed with	É proibido usar esses utensílios, impregnados de
+284	unkosher food. If you make kosher food, it will release into	alimento impuro. Se fizerem alimento kasher, ele liberará no
+285	that kosher food. Rather, you must kasher them	alimento kasher. Antes, é preciso torná-los kasher
+286	by hag'alá. How? The gold,	por hag'alá. Como? O ouro,
+287	the silver, the copper	a prata, o cobre
+288	the iron	o ferro
+289	the tin, the lead	o estanho, o chumbo
+290	Everything that comes in fire, pass through fire and it will be clean. What is meant? There is a skewer on which they roasted meat	Tudo o que vai ao fogo, passareis pelo fogo e será limpo. O que quer dizer? Há um espeto no qual assavam carne
+291	What is meant? There is a skewer; they who roasted meat on it	O que quer dizer? Há um espeto; os que assaram carne nele
+292	roasted their unkosher meat	assaram a carne impura deles
+293	The skewer absorbed	O espeto absorveu
+294	from unkosher meat	de carne impura
+295	They want to use it for kosher meat. What do they do?	Querem usá-lo para carne kasher. O que fazem?
+296	Put it	Colocam
+297	in the fire	no fogo
+298	This is called libun. It stays there until it is like	Isso se chama libun. Fica ali até ficar como
+299	a coal. Then everything absorbed inside becomes ash; there is	uma brasa. Então tudo o que está absorvido dentro vira cinza; não há
+300	no taste in it. Cold, it does not impart taste; everything is burned, so	nenhum sabor nele. Frio, não transmite sabor; tudo queimou, então
+301	it is permitted to use the skewer, put a kosher product on it	é permitido usar o espeto, pôr nele um produto kasher
+302	and eat	e comer
+303	Everything that goes in fire	Tudo o que vai ao fogo
+304	that is cooked without liquids, like this skewer, has in it	que é cozido sem líquidos, como este espeto, tem nele
+305	what is used in fire, pass through fire	o que é usado no fogo, passareis pelo fogo
+306	in the fire until it glows well, and then it is permitted	no fogo até ficar bem incandescente, e então é permitido
+307	And all that does not come in fire, pass through water. What	E tudo o que não vai ao fogo, passareis pela água. Qual
+308	is the meaning?	é o significado?
+309	Not used directly on the fire	Não é usado diretamente no fogo
+310	but rather a pot that has soup in it	mas sim uma panela que tem sopa
+311	has sauce in it	tem molho
+312	it is not roasting meat	não é assar carne
+313	pass it through water: boil enough water, put it	passai-o pela água: ferva água suficiente, coloque-o
+314	in the water, and it will release everything within, and it is permitted	na água, e ele liberará tudo o que há dentro, e é permitido
+315	to use it	usá-lo
+316	Elazar HaCohen said this in the name of Moshe Rabbenu; from this we learned	Elazar HaCohen disse isso em nome de Moshé Rabênu; daqui aprendemos
+317	the laws of hag'alá before Pesach	as leis da hag'alá antes de Pessach
+318	A person has vessels	Uma pessoa tem utensílios
+319	of copper that he uses all year; I do not	de cobre que usa o ano todo; não
+320	specifically mean copper, I mean	me refiro só a cobre, quero dizer
+321	some other metal, whatever it is	algum outro metal, seja qual for
+322	even if it is plastic	até se for de plástico
+323	he uses it all year, it absorbed food	usa o ano todo, absorveu alimento
+324	of chametz	de chametz
+325	Now Pesach has come and he has no other vessels	Agora chegou Pessach e ele não tem outros utensílios
+326	only these. What does he do? He does hag'alá. They take a barrel,	só estes. O que faz? Faz hag'alá. Pegam um barril,
+327	fill it with water, boil it, put fire under it. This is	enchem de água, fervem, põem fogo embaixo. Isso é
+328	until it bubbles.	até borbulhar.
+329	When it boils, he takes the vessel, puts it in with tongs	Quando ferve, pega o utensílio, põe com uma pinça
+330	or a wooden utensil, puts it inside	ou um utensílio de madeira, põe dentro
+331	for a moment, takes it out; everything it had absorbed	por um instante, tira; tudo o que tinha absorvido
+332	was released	foi liberado
+333	That is hag'alá, hag'alá	Isso é hag'alá, hag'alá
+334	This is the principle: "whatever does not come in fire, pass through water"	Este é o princípio: "tudo o que não vai ao fogo, passareis pela água"
+335	…	…
+336	But if it is used directly in the fire, like a skewer that was	Mas se é usado diretamente no fogo, como um espeto que estava
+337	in	em
+338	at the time of roasting, they put	na hora de assar, põem
+339	a little bit of bread crumbs so that it sticks	um pouco de migalhas de pão para que grude
+340	well and does not fall; so they make chametz with them	bem e não caia; assim fazem chametz com elas
+341	Therefore it is forbidden to use on Pesach unless he does libun on	Por isso é proibido usar em Pessach a menos que faça libun
+342	it. How does he do libun? He puts it in the fire until	nele. Como faz o libun? Põe no fogo até
+343	it is like a coal	ficar como uma brasa
+344	Then everything inside burns, and then he is permitted	Então tudo o que há dentro queima, e então ele pode
+345	to roast meat on Pesach	assar carne em Pessach
+346	"Whatever does not come in fire, you shall pass through water," and it will be purified	"Tudo o que não vai ao fogo, passareis pela água", e será purificado
+347	The Gemara expounds what "taher" means	A Guemará interpreta o que significa "taher"
+348	"Only with the water of purification shall it be cleansed"	"Mas será purificado com a água de purificação"
+349	What is the water of niddah? The water in which the niddah immerses, a mikveh	O que é a água da nidá? A água em que a nidá se imerge, um mikvê
+350	with forty se'ah. So these too	com quarenta seá. Então estes também
+351	true, you do not need... you do hag'alá, it has already released	é verdade, não precisa... faz hag'alá, já liberou
+352	what was inside. But since this vessel	o que havia dentro. Mas como este utensílio
+353	belonged to a gentile, to Midianite gentiles	era de um gentio, de gentios midianitas
+354	it passes into Jewish possession, just as a gentile passes into Jewish status,	passa à posse de um judeu, assim como um gentio passa ao status judaico,
+355	a convert immerses, so the vessel too must be immersed	o convertido faz imersão, o utensílio também precisa de imersão
+356	From where? From "the water in which the niddah immerses"	De onde? Da "água em que a nidá se imerge"
+357	Therefore this is practiced now	Por isso isso se pratica agora
+358	A person	Uma pessoa
+359	who passed through a gentile market, and there were several vessels: a pan	que passou por um mercado de gentios, e havia vários utensílios: uma frigideira
+360	or spoons, forks, all kinds of vessels	ou colheres, garfos, todo tipo de utensílio
+361	Yes, if it is new	Sim, se é novo
+362	no need for hag'alá, it is new, nothing was absorbed in it; but it needs	não precisa de hag'alá, é novo, nada foi absorvido nele; mas precisa de
+363	tevilá. Put it in the water and bless: "Asher kidshanu	tevilá. Coloque na água e abençoe: "Asher kidshanu
+364	bemitzvotav vetzivanu al tevilat keilim." He immerses	bemitsvotav vetsivanu al tevilat keilim." Ele imerge
+365	them and then it is permitted to use them. Before that it is forbidden	os utensílios e então é permitido usá-los. Antes disso é proibido
+366	to use them. "Only with the water of niddah," the water in which she immersed	usá-los. "Só com a água da nidá", a água em que ela se imergiu
+367	that is forty se'ah, a mikveh, a mikveh of purity	são quarenta seá, um mikvê, um mikvê de pureza
+368	Emunah: all of Tehillim that David, king of Israel, composed for us	Emuná: todo o Tehilim que David, rei de Israel, compôs para nós
+369	my teachers and rabbis, it is emunah	meus mestres e rabinos, é emuná
+370	and King David tells you, all the blessings come through	e o rei David lhe diz, todas as bênçãos vêm por meio
+371	emunah. Emunah, from the word "to train," imun.	da emuná. Emuná, da palavra "treinar", imun.
+372	To train all the time. There is none besides Him. There is	Treinar o tempo todo. Não há outro além d'Ele. Não há
+373	none besides Him. No one can harm me if	outro além d'Ele. Ninguém pode me fazer mal se
+374	HaShem protects me. And King David	HaShem me guarda. E o rei David
+375	says in Tehillim, chapter 26, verse 1: "And in HaShem I have trusted,	diz em Tehilim, capítulo 26, versículo 1: "E em HaShem confiei,
+376	I shall not slip." If I trust in HaShem, I will not slip. This	não vacilarei." Se confio em HaShem, não vacilarei. Esta
+377	is the power of bitachon. My teachers and rabbis,	é a força do bitachon. Meus mestres e rabinos,
+378	holy and honored congregation, to be strong in emunah, there is	santa e honrada congregação, para ser forte na emuná, não há
+379	none besides Him	outro além d'Ele
+380	and our bitachon is the emunah. Do you want bitachon?	e o nosso bitachon é a emuná. Quer bitachon?
+381	To believe in HaShem: more prayers, more strengthening, more	Crer em HaShem: mais orações, mais fortalecimento, mais
+382	chapters of Tehillim, more strengthening. But let us train in	capítulos de Tehilim, mais fortalecimento. Mas vamos nos treinar
+383	this. And King David also says this in Tehillim, in chapter	nisso. E o rei David também diz isso em Tehilim, no capítulo
+384	55, King David also says this: "And I, in You,	55, o rei David também diz isto: "E eu, em Ti,
+385	I trust." We will merit redemption.	confio." Mereceremos a redenção.
+386	In the first month, the month of Nisan, on the thir-	No primeiro mês, o mês de Nisan, no dia trei-
+387	teenth of Nisan, it was sealed with the king's ring	ze de Nisan, foi selado com o anel do rei
+388	The Midrash says: what did they do? Afterwards, three	O Midrash diz: o que fizeram? Depois, três
+389	days, the 14th, 15th and 16th of Nisan, on Seder night	dias, 14, 15 e 16 de Nisan, na noite do Seder
+390	they fasted. Right? On the 13th of Nisan it was sealed with the	jejuaram. Certo? No dia 13 de Nisan foi selado com o
+391	king's ring	anel do rei
+392	The Midrash says: what did Queen Esther do? She	O Midrash diz: o que fez a rainha Ester? Ela
+393	was diligent in biur chametz. "One who keeps a mitzvah does not know	foi zelosa no biur chametz. "Quem guarda a mitsvá não conhece
+394	evil." The Midrash says that in the merit of being	o mal." O Midrash diz que no mérito de ser
+395	diligent in biur chametz, in that merit she annulled	zelosa no biur chametz, nesse mérito ela anulou
+396	the decree	o decreto
+397	That is, the biur chametz that we do	Ou seja, o biur chametz que fazemos
+398	today, being diligent in biur chametz	hoje, ser zeloso no biur chametz
+399	annuls the decrees. At times when we need	anula os decretos. Em épocas em que precisamos
+400	mercy from Heaven and we are busy with biur chametz, it	de misericórdia do Céu e estamos ocupados com o biur chametz, isso
+401	cancels all the harsh decrees. "One who keeps a mitzvah does not	cancela todos os decretos duros. "Quem guarda a mitsvá não
+402	know evil" — this is Esther, who was diligent in biur chametz	conhece o mal" — esta é Ester, que foi zelosa no biur chametz
+403	It was the 13th of Nisan; she cleaned the house of	Era 13 de Nisan; ela limpou a casa de
+404	Achashverosh of chametz	Achashverosh de chametz
+405	For us to know — I said, there was here an old man	Para sabermos — eu disse, havia aqui um idoso
+406	who has, not upon us, Alzheimer's	que tem, que não seja conosco, Alzheimer
+407	Alzheimer's	Alzheimer
+408	So he heard the explosions of the firecrackers	Então ele ouviu as explosões dos rojões
+409	he heard the explosions and said the blessing "whose power	ouviu as explosões e disse a bênção "cuja força
+410	and might fill the world."	e poder enchem o mundo."
+411	Afterwards he saw lightning and said "who does the work of	Depois viu relâmpagos e disse "que faz a obra da
+412	creation." The blessing "oseh ma'aseh bereshit." Someone said	criação." A bênção "oseh maasê bereshit." Alguém disse
+413	to me, he is confused. We said, we are	para mim, ele está confuso. Dissemos: nós estamos
+414	confused. You must understand that with every explosion	confusos. Você tem de entender que em cada explosão
+415	it is "whose power and might fill the world." What is	é "cuja força e poder enchem o mundo." O que é
+416	it, "whose power and might fill the world"? He sees lightning	isso, "cuja força e poder enchem o mundo"? Vê relâmpago
+417	that is "oseh ma'aseh bereshit." It is all the Holy One, blessed be He,	isso é "oseh maasê bereshit." É tudo o Santo, Bendito Seja,
+418	who does it. Understand, put this in your head, that everything	que faz. Entenda, ponha isso na cabeça, que tudo
+419	the Holy One, blessed be He, does. The Holy One, blessed be He, says	o Santo, Bendito Seja, faz. O Santo, Bendito Seja, diz
+420	to you there: "One who keeps a mitzvah does not know	a você ali: "Quem guarda a mitsvá não conhece
+421	evil." The Kav HaYashar brings, in the chapter on the tzaddik,	o mal." O Kav HaYashar traz, no capítulo sobre o tsadik,
+422	in the name of the book Yesod Yosef, he brings that	em nome do livro Yesod Yosef, ele traz que
+423	there is a tradition, they had a tradition, they received	há uma tradição, tinham uma tradição, receberam
+424	by tradition that every effort a person makes for the honor of Yom Tov	por tradição que todo esforço que uma pessoa faz pela honra do Yom Tov
+425	of Pesach, and he is tired and weary from this effort, he is tired	de Pessach, e está cansado e exausto desse esforço, está cansado
+426	and weary — after the fridge, after the stove, carrying packages	e exausto — depois da geladeira, depois do fogão, carregando pacotes
+427	and he is tired and weary from this effort, then through	e está cansado e exausto desse esforço, então por meio
+428	this labor he kills all the harmful forces called "plagues of men."	desse trabalho ele mata todas as forças nocivas chamadas "pragas dos homens."
+429	With this he drives out of the home all the harmful forces, all	Com isso expulsa de casa todas as forças nocivas, todas
+430	the diseases, all the accidents, all the attacks, everything. What	as doenças, todos os acidentes, todos os atentados, tudo. O que
+431	again? There is a tradition that every effort that	mais uma vez? Há uma tradição de que todo esforço que
+432	a person makes for the honor of Yom Tov of Pesach, and is	uma pessoa faz pela honra do Yom Tov de Pessach, e está
+433	tired and weary from this effort, then through this he kills all	cansada e exausta desse esforço, então por meio disso mata todas
+434	the harmful forces called "plagues of men."	as forças nocivas chamadas "pragas dos homens."
+435	To know to do it with joy, such holy work,	Saber fazer isso com alegria, um trabalho tão sagrado,
+436	to do it with joy, to be careful not to do it with anger	fazer com alegria, cuidar para não fazer com raiva
+437	but the opposite: holy work	mas o contrário: trabalho sagrado
+438	It must be with emunah and joy, because someone	Tem de ser com emuná e alegria, porque alguém
+439	said something even sharper. They say in the aggadah:	disse algo ainda mais agudo. Dizem na agadá:
+440	the wicked son, what does he say? "What is this service to you?"	o filho perverso, o que ele diz? "Que serviço é este para vocês?"
+441	"To you," and not to him. Seder night — fine, if	"Para vocês", e não para ele. A noite do Seder — tudo bem, se
+442	he had said this about Yom Kippur — Yom	tivesse dito isso sobre Yom Kipur — Yom
+443	Kippur, no eating, no drinking, walking barefoot	Kipur, não se come, não se bebe, anda-se descalço
+444	he asks, what is this service to you? But what is	ele pergunta: que serviço é este para vocês? Mas o que há de
+445	bad for the wicked one in the Seder? The Seder is so pleasant! Why does he ask,	ruim para o perverso no Seder? O Seder é tão agradável! Por que ele pergunta:
+446	"What is this service to you?"	"Que serviço é este para vocês?"
+447	They say that to a person, when you need today	Dizem isso a uma pessoa, quando você precisa hoje
+448	to fulfill "and you shall tell your son," there is a wicked son, be careful	cumprir "e contarás a teu filho", há um filho perverso, tome cuidado
+449	be careful that you are not to blame for it, because he asks on the eve	tome cuidado para não ser o culpado, porque ele pergunta na véspera
