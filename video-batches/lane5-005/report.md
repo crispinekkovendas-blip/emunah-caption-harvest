@@ -1,7 +1,7 @@
 # lane5-005
 
-15 of 25 lessons published · 0 skipped · status **pending**
-Tokens (59 agent runs with a record): 0.9M in (mostly cache) · 1.52M out · API-equivalent 18.36
+19 of 25 lessons published · 0 skipped · status **pending**
+Tokens (86 agent runs with a record): 1.2M in (mostly cache) · 2.19M out · API-equivalent 26.40
 
 | lesson | state | detail |
 |---|---|---|
@@ -13,20 +13,20 @@ Tokens (59 agent runs with a record): 0.9M in (mostly cache) · 1.52M out · API
 | 3u2V8PrEkJw | ✓ published | 816 lines · Parashat Mishpatim e o segredo dos gilgulim |
 | Ca8bboaDyRc | ✓ published | 856 lines · Ensinamento de Mussar: Humildade, a mãe da Torá |
 | 4TlvOm9kB1s | ✓ published | 503 lines · Bilam e o verso Ma Tovu: quatro camadas de leitura |
-| gzvjR-Ew9Og | ✗ will be redone (try 1) | line 898 twice |
-| 0nSjPMGnCaU | ✗ will be redone (try 1) | 1 lines missing |
-| KSAjfvZSyKY | ✗ will be redone (try 1) | 7 lines missing |
+| gzvjR-Ew9Og | ✓ published | 1227 lines · Lech Lecha: as provações de Avraham e o "para si mesmo |
+| 0nSjPMGnCaU | ✗ will be redone (try 2) | 2 lines missing |
+| KSAjfvZSyKY | ✗ will be redone (try 2) | 189 lines missing |
 | VwuI_8nWq7Y | ✓ published | 1282 lines · Shemot: a tristeza é o inimigo, a alegria é a saída |
-| gpTawZWgjJk | ✗ will be redone (try 1) | line 1350 twice |
-| sGYmlI8S59Q | ✗ will be redone (try 1) | 10 lines missing |
+| gpTawZWgjJk | waiting | 3/4 parts |
+| sGYmlI8S59Q | ✗ will be redone (try 2) | 10 lines missing |
 | -qSd3yZjHAI | ✓ published | 776 lines · Por que estudar Torá às vezes não toca o coração |
 | qLdX-I34K2Y | ✓ published | 323 lines · Midrash Tanchuma Vayechi 9: Reuven, o primogênito |
-| LrHdoD7QOmY | ✗ will be redone (try 1) | line 438 twice |
-| WEXIMGFnt34 | waiting | 2/3 parts |
-| AtQTlmpgiSY | ✗ will be redone (try 1) | 4 lines missing |
+| LrHdoD7QOmY | ✗ will be redone (try 2) | 13 lines missing |
+| WEXIMGFnt34 | ✗ will be redone (try 1) | 138 lines missing |
+| AtQTlmpgiSY | ✓ published | 672 lines · Rosh HaShaná: o coração é o portal para HaShem |
 | 3zDPEGDIy2g | ✓ published | 914 lines · Provações crescem para quem vai ser grande |
 | PblW1j-my5w | ✓ published | 442 lines · Behaalotchá: acender a chama e escolher a história |
-| 1RDFU2iL3_M | ✗ will be redone (try 1) | 5 lines missing |
+| 1RDFU2iL3_M | ✓ published | 956 lines · Halachot de saladas no Shabat e o Baba Sali |
 | iYpyDoBM9yA | ✓ published | 902 lines · Kashrut da comida e seu efeito sobre a alma |
-| KunVFu7u_g8 | ✗ will be redone (try 1) | 1 lines missing |
+| KunVFu7u_g8 | ✓ published | 468 lines · Behaalotchá: a Torá em sete livros, não cinco |
 | AL_r7JCafbs | ✓ published | 217 lines · Korach: a rebelião e a queda de quem persegue honra |
