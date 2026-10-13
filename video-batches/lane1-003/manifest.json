@@ -1,0 +1,262 @@
+{
+ "name": "lane1-003",
+ "lane": 1,
+ "created": "2026-10-13T01:33:12.868Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "OrtjhdSG07g",
+   "title": "Shofetim: juízes que se julgam a si mesmos primeiro",
+   "lines": 1089,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1dFGCoPCiL8",
+   "title": "Os espiões, a política e o perigo de ir atrás da honra",
+   "lines": 424,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "jhOpuSBmfBg",
+   "title": "Cohen em túmulos de tzadikim: o caso do Shaúl Dwek",
+   "lines": 372,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "YyUCdfSXyPE",
+   "title": "A jumenta de Bilam e a ligação com a Shechiná",
+   "lines": 1584,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "cGH0mTQGtGY",
+   "title": "Pinchas: o zelo, Zimri e os Tamidim",
+   "lines": 1918,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "VQZIpHel-4o",
+   "title": "Parashá Re'eh: bênção, maldição e o lugar escolhido",
+   "lines": 1275,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "clm2JuN6AuY",
+   "title": "Vayigash: o jejum de 10 de Tevet e a tradução da Torá",
+   "lines": 1131,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rIETqxqC1tU",
+   "title": "Chukat: emunah, esforço e apoio à Torá",
+   "lines": 1604,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "cco1tMW28S0",
+   "title": "Pinechas: o poder da oração, a emunáh e o silêncio",
+   "lines": 1724,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "LE-4rrT54Qc",
+   "title": "A sarça ardente: sair do Egito interior e tocar a verdade",
+   "lines": 1098,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vMQVjtRYPNo",
+   "title": "Roubar a liberdade: por que sair por três dias?",
+   "lines": 1058,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "D9uROYvZiZc",
+   "title": "Consolo nos pequenos detalhes: Haftará de Ekev",
+   "lines": 748,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "s3563roAZZs",
+   "title": "Lech Lecha: não viva dentro de um filme",
+   "lines": 1151,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "bLbaK20cJx8",
+   "title": "Parashat Shelach: a honra dos espias e Hilchot Shabat",
+   "lines": 1530,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ajdEHmsBgAQ",
+   "title": "Parashá Korach: o que cada rebelde queria de fato",
+   "lines": 1175,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xjgolIr4jAM",
+   "title": "Melavê Malcá, Kabalat Shabat e leis do chamin e do chá",
+   "lines": 2109,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-glyjn4lTB4",
+   "title": "Por que Moshê viu toda a Terra: Vezot HaBeraká",
+   "lines": 1156,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "hMdEobhi-WU",
+   "title": "Elul: renovação, oração e gratidão (Ki Tavo)",
+   "lines": 1620,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "beP_UWya8NM",
+   "title": "A guarda dos olhos e o Tzitzit na Parashá Shelach",
+   "lines": 1005,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4RfZiieefNY",
+   "title": "Vayikra: como oferecer korbanot sem Beit HaMikdash",
+   "lines": 625,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1gy99nV4J-Q",
+   "title": "Nachamu Nachamu Ami: ver a consolação nos Profetas",
+   "lines": 1150,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Ic4e2DkM6OU",
+   "title": "Ki Teitzei: HaShem no meio do acampamento",
+   "lines": 823,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "MxHqC22it3Y",
+   "title": "Casar a mais nova antes da mais velha? Shiduchim em Vayetsê",
+   "lines": 723,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "fnQ3lAZJB5g",
+   "title": "Parashá Tzav: pensamentos, zerizut e preparação para Pessach",
+   "lines": 1977,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "fNIeBOyBSXE",
+   "title": "Dag lecholeh: a rashima do Rebe em Lisboa, 1941",
+   "lines": 631,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "OrtjhdSG07g.p0",
+  "OrtjhdSG07g.p1",
+  "OrtjhdSG07g.p2",
+  "1dFGCoPCiL8.p0",
+  "jhOpuSBmfBg.p0",
+  "YyUCdfSXyPE.p0",
+  "YyUCdfSXyPE.p1",
+  "YyUCdfSXyPE.p2",
+  "YyUCdfSXyPE.p3",
+  "cGH0mTQGtGY.p0",
+  "cGH0mTQGtGY.p1",
+  "cGH0mTQGtGY.p2",
+  "cGH0mTQGtGY.p3",
+  "cGH0mTQGtGY.p4",
+  "VQZIpHel-4o.p0",
+  "VQZIpHel-4o.p1",
+  "VQZIpHel-4o.p2",
+  "clm2JuN6AuY.p0",
+  "clm2JuN6AuY.p1",
+  "clm2JuN6AuY.p2",
+  "rIETqxqC1tU.p0",
+  "rIETqxqC1tU.p1",
+  "rIETqxqC1tU.p2",
+  "rIETqxqC1tU.p3",
+  "cco1tMW28S0.p0",
+  "cco1tMW28S0.p1",
+  "cco1tMW28S0.p2",
+  "cco1tMW28S0.p3",
+  "LE-4rrT54Qc.p0",
+  "LE-4rrT54Qc.p1",
+  "LE-4rrT54Qc.p2",
+  "vMQVjtRYPNo.p0",
+  "vMQVjtRYPNo.p1",
+  "vMQVjtRYPNo.p2",
+  "D9uROYvZiZc.p0",
+  "D9uROYvZiZc.p1",
+  "s3563roAZZs.p0",
+  "s3563roAZZs.p1",
+  "s3563roAZZs.p2",
+  "bLbaK20cJx8.p0",
+  "bLbaK20cJx8.p1",
+  "bLbaK20cJx8.p2",
+  "bLbaK20cJx8.p3",
+  "ajdEHmsBgAQ.p0",
+  "ajdEHmsBgAQ.p1",
+  "ajdEHmsBgAQ.p2",
+  "xjgolIr4jAM.p0",
+  "xjgolIr4jAM.p1",
+  "xjgolIr4jAM.p2",
+  "xjgolIr4jAM.p3",
+  "xjgolIr4jAM.p4",
+  "-glyjn4lTB4.p0",
+  "-glyjn4lTB4.p1",
+  "-glyjn4lTB4.p2",
+  "hMdEobhi-WU.p0",
+  "hMdEobhi-WU.p1",
+  "hMdEobhi-WU.p2",
+  "hMdEobhi-WU.p3",
+  "beP_UWya8NM.p0",
+  "beP_UWya8NM.p1",
+  "beP_UWya8NM.p2",
+  "4RfZiieefNY.p0",
+  "4RfZiieefNY.p1",
+  "1gy99nV4J-Q.p0",
+  "1gy99nV4J-Q.p1",
+  "1gy99nV4J-Q.p2",
+  "Ic4e2DkM6OU.p0",
+  "Ic4e2DkM6OU.p1",
+  "MxHqC22it3Y.p0",
+  "MxHqC22it3Y.p1",
+  "fnQ3lAZJB5g.p0",
+  "fnQ3lAZJB5g.p1",
+  "fnQ3lAZJB5g.p2",
+  "fnQ3lAZJB5g.p3",
+  "fnQ3lAZJB5g.p4",
+  "fNIeBOyBSXE.p0",
+  "fNIeBOyBSXE.p1"
+ ]
+}
