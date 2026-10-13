@@ -1,0 +1,30 @@
+videoId: hbq120-W1PE
+parte 1 de 1 · traduzir as linhas 0 a 19 (20 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Dar conforme a necessidade de quem recebe
+RESUMO: O rabino Benny Lau comenta a Parashá Ra'ê, que trata do sistema de impostos de Bnei Yisrael ao entrar na Terra: mesmo sendo pagar algo que não alegra, a Torá o ordena. Ele cita o versículo sobre o dízimo do terceiro ano, entregue ao levita, ao estrangeiro, ao órfão e à viúva, para que comam e se saciem. Em seguida traz Rashi, que explica que "ve'achlu vesavê'u" significa dar-lhes o suficiente para saciar, e que daí os Sábios disseram que não se dá a um pobre menos do que determinada medida na eira. Lau diz que essa regra aparece na Mishná, no Talmud e no Rambam. A lição é olhar para quem recebe e ver do que ele precisa, às vezes pouco, às vezes muito, dando segundo a pessoa e não segundo o próprio olho. A entrega é sempre equivalente a quem recebe, e não só a quem dá.
+MOMENTOS: 00:00 Parashá Ra'ê e o sistema de impostos de Israel · 00:11 Impostos: pôr a mão no bolso e dar a alguém · 00:15 O dízimo do terceiro ano (Devarim 14:28-29) · 00:25 Ve'achlu vesavê'u · 00:30 Rashi: dar o suficiente para saciar · 00:47 Regra presente na Mishná, no Talmud e no Rambam · 00:57 Olhar para quem recebe e ver do que precisa · 01:07 Dar conforme a pessoa, não conforme o seu olho
+FONTES CITADAS: 00:15 Devarim 14:28-29 · 00:25 Devarim 14:29 · 00:30 Rashi em Devarim 14:29 · 00:38 Mishná, Peá 8:5 · 00:47 Mishná e Talmud (regra citada por Rashi) · 00:47 Rambam, Matnot Aniyim
+
+LINHAS A TRADUZIR:
+0|00:00|פרשת ראה יום חמישי ואנחנו נמצאים בתוך
+1|00:03|פרשת מערכת המיסים של בני ישראל שנכנסים
+2|00:07|לארץ. אל תחייכו. מיסים זה לא שמח. מיסים
+3|00:11|זה להכניס יד לכיס ולתת למישהו. ואומרת
+4|00:15|לנו התורה, מקץ שלוש שנים תוציא את כל
+5|00:17|מעשר תבואתך בשנה והיא נחתה בשעריך ובה
+6|00:21|לוי, כי אין לו חלק ונחלה והגר והיתום
+7|00:25|ואלמנה אשר בשרך. ואכלו ושבעו למן יברכך
+8|00:30|השם ואומר לנו רש"י בא לוי ויתול מעשה
+9|00:34|ראשון והגר איתו מעשר שני ואכלו ושבהו מה
+10|00:38|זה אכלו ושבהו תן להם כדי סביאה מכאן אמרו
+11|00:43|אין פוחטים לאני בגורן וכולי אומר לנו
+12|00:47|רש"י כלל שמופיע במשנה ובתלמוד וברמב"ם
+13|00:50|כולם מלמדים אותנו את זה אתה יכול לתת
+14|00:53|בעין רעה אתה יכול לתת בעין בינונית תסתכל
+15|00:57|על מי שאתה נותן לו, תראה מה הוא זקוק לו.
+16|01:00|לפעמים הוא זקוק למשהו שהוא מעט ולפעמים
+17|01:03|הוא זקוק למשהו גדול. אתה חייב לתת לפי
+18|01:07|האדם ולא לפי העין שלך. הנתינה היא תמיד
+19|01:11|אקיובלנטית למי שמקבל ולא רק למי שנותן.

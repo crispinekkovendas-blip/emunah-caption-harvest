@@ -1,0 +1,27 @@
+videoId: ldK5-yZPs08
+parte 1 de 1 · traduzir as linhas 0 a 16 (17 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Ordem e derech eretz antes do pecado dos espiões
+RESUMO: Na Parashá Devarim, o rabino lembra que o pecado dos espiões (meraglim) começou com o povo pedindo a Moshe que os enviasse, e Moshe cedeu ao pedido. Ele lê o versículo "e vos aproximastes de mim, todos vós, e dissestes: enviemos homens à nossa frente". Rashi nota a palavra "todos vós" e explica que eles vieram em desordem, em tumulto. No Monte Sinai, ao contrário, vieram em ordem, com os chefes das tribos e os anciãos, e Moshe os ouviu. Desta vez, os jovens empurravam os anciãos e os anciãos empurravam os chefes, sem respeito e sem derech eretz. A conclusão é que o pecado dos espiões é apenas a ponta do caminho, e que tudo começa com a falta de derech eretz.
+MOMENTOS: 00:00 Parashá Devarim e a lembrança dos espiões · 00:10 Moshe atende ao pedido do povo · 00:14 O versículo "e vos aproximastes de mim, todos vós" · 00:22 Rashi e a palavra "todos vós" · 00:30 Eles vieram em desordem, sem protocolo · 00:34 Contraste com a aproximação ordenada no Sinai · 00:47 Jovens empurram anciãos, sem respeito · 01:00 O pecado dos espiões é só a ponta do caminho · 01:04 Tudo começa pela falta de derech eretz
+FONTES CITADAS: 00:14 Devarim 1:22 · 00:22 Rashi em Devarim 1:22 · 00:34 Devarim 5:20 · 00:34 Rashi em Devarim 1:22 · 01:00 Bamidbar 13
+
+LINHAS A TRADUZIR:
+0|00:00|פרשת דברים יום שלישי ואנחנו זוכרים שלפני
+1|00:05|שהמרגלים באו והוציאו דיבת הארץ רעה היה
+2|00:10|מי ששלח אותם ועל פי מה שכתוב כאן משה
+3|00:14|נענה לבקשתו של העם ותקרבון אליי כולכם
+4|00:19|ותאמרו נשלחה אנשים לפנינו ויחפרו לנו את
+5|00:22|הארץ רש"י שומע את המילה ותקרבון אליי
+6|00:26|כולכם ואומר לנו בערבוביה לא באתם באיזשהו
+7|00:30|סדר, בהחלטה, באיזשהו פרוטוקול, נפלתם
+8|00:34|עליי, כולכם בערבוביה. כששם במעמד הר
+9|00:38|סיני, אתם רציתם שאני אלך, באתם בסדר,
+10|00:42|ראשי שבטכם, זקניכם, קריבה הוגנת ושמעתי
+11|00:47|לכם, אבל פה בערבוביה ילדים דוחפים את
+12|00:51|הזקנים, זקנים דוחפים את הראשים, שום
+13|00:55|כבוד, שום דרך ארץ. ואני נדחפתי ונעניתי
+14|01:00|וסופו של דבר נכשלנו כולנו בחטא המרגלים.
+15|01:04|חטא מרגלים הוא רק קצה הדרך. זה מתחיל
+16|01:08|בדרך ארץ שקודמת לכל
