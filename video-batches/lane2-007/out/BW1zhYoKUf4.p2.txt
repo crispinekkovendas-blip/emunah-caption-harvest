@@ -1,0 +1,214 @@
+900	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+901	Everyone receives	Todos recebem
+902	Whoever didn't receive	Quem não recebeu
+903	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+904	Everyone receives	Todos recebem
+905	Whoever didn't receive	Quem não recebeu
+906	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+907	Everyone receives	Todos recebem
+908	Whoever didn't receive	Quem não recebeu
+909	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+910	Everyone receives	Todos recebem
+911	Whoever didn't receive	Quem não recebeu
+912	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+913	Everyone receives	Todos recebem
+914	Whoever didn't receive	Quem não recebeu
+915	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+916	Everyone receives	Todos recebem
+917	Whoever didn't receive	Quem não recebeu
+918	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+919	Everyone receives	Todos recebem
+920	Whoever didn't receive	Quem não recebeu
+921	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+922	Everyone receives	Todos recebem
+923	Whoever didn't receive	Quem não recebeu
+924	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+925	Everyone receives	Todos recebem
+926	Whoever didn't receive	Quem não recebeu
+927	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+928	Everyone receives	Todos recebem
+929	Whoever didn't receive	Quem não recebeu
+930	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+931	Everyone receives	Todos recebem
+932	Whoever didn't receive	Quem não recebeu
+933	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+934	Everyone receives	Todos recebem
+935	Whoever didn't receive	Quem não recebeu
+936	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+937	Everyone receives	Todos recebem
+938	Whoever didn't receive	Quem não recebeu
+939	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+940	Everyone receives	Todos recebem
+941	Whoever didn't receive	Quem não recebeu
+942	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+943	Everyone receives	Todos recebem
+944	Whoever didn't receive	Quem não recebeu
+945	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+946	Everyone receives	Todos recebem
+947	Whoever didn't receive	Quem não recebeu
+948	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+949	Everyone receives	Todos recebem
+950	Whoever didn't receive	Quem não recebeu
+951	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+952	Everyone receives	Todos recebem
+953	Whoever didn't receive	Quem não recebeu
+954	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+955	Everyone receives	Todos recebem
+956	Whoever didn't receive	Quem não recebeu
+957	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+958	Everyone receives	Todos recebem
+959	Whoever didn't receive	Quem não recebeu
+960	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+961	Everyone receives	Todos recebem
+962	Whoever didn't receive	Quem não recebeu
+963	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+964	Everyone receives	Todos recebem
+965	Whoever didn't receive	Quem não recebeu
+966	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+967	Everyone receives	Todos recebem
+968	Whoever didn't receive	Quem não recebeu
+969	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+970	Everyone receives	Todos recebem
+971	Whoever didn't receive	Quem não recebeu
+972	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+973	Everyone receives	Todos recebem
+974	Whoever didn't receive	Quem não recebeu
+975	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+976	Everyone receives	Todos recebem
+977	Whoever didn't receive	Quem não recebeu
+978	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+979	Everyone receives	Todos recebem
+980	Whoever didn't receive	Quem não recebeu
+981	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+982	Everyone receives	Todos recebem
+983	Whoever didn't receive	Quem não recebeu
+984	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+985	Everyone receives	Todos recebem
+986	Whoever didn't receive	Quem não recebeu
+987	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+988	Everyone receives	Todos recebem
+989	Whoever didn't receive	Quem não recebeu
+990	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+991	Everyone receives	Todos recebem
+992	Whoever didn't receive	Quem não recebeu
+993	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+994	Everyone receives	Todos recebem
+995	Whoever didn't receive	Quem não recebeu
+996	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+997	Everyone receives	Todos recebem
+998	Whoever didn't receive	Quem não recebeu
+999	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1000	Everyone receives	Todos recebem
+1001	Whoever didn't receive	Quem não recebeu
+1002	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1003	Everyone receives	Todos recebem
+1004	Whoever didn't receive	Quem não recebeu
+1005	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1006	Everyone receives	Todos recebem
+1007	Whoever didn't receive	Quem não recebeu
+1008	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1009	Everyone receives	Todos recebem
+1010	Whoever didn't receive	Quem não recebeu
+1011	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1012	Everyone receives	Todos recebem
+1013	Whoever didn't receive	Quem não recebeu
+1014	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1015	Everyone receives	Todos recebem
+1016	Whoever didn't receive	Quem não recebeu
+1017	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1018	Everyone receives	Todos recebem
+1019	Whoever didn't receive	Quem não recebeu
+1020	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1021	Everyone receives	Todos recebem
+1022	Whoever didn't receive	Quem não recebeu
+1023	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1024	Everyone receives	Todos recebem
+1025	Whoever didn't receive	Quem não recebeu
+1026	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1027	Everyone receives	Todos recebem
+1028	Whoever didn't receive	Quem não recebeu
+1029	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1030	Everyone receives	Todos recebem
+1031	Whoever didn't receive	Quem não recebeu
+1032	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1033	Everyone receives	Todos recebem
+1034	Whoever didn't receive	Quem não recebeu
+1035	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1036	Everyone receives	Todos recebem
+1037	Whoever didn't receive	Quem não recebeu
+1038	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1039	Everyone receives	Todos recebem
+1040	Whoever didn't receive	Quem não recebeu
+1041	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1042	Everyone receives	Todos recebem
+1043	Whoever didn't receive	Quem não recebeu
+1044	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1045	Everyone receives	Todos recebem
+1046	Whoever didn't receive	Quem não recebeu
+1047	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1048	Everyone receives	Todos recebem
+1049	Whoever didn't receive	Quem não recebeu
+1050	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1051	Everyone receives	Todos recebem
+1052	Whoever didn't receive	Quem não recebeu
+1053	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1054	Everyone receives	Todos recebem
+1055	Whoever didn't receive	Quem não recebeu
+1056	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1057	Everyone receives	Todos recebem
+1058	Whoever didn't receive	Quem não recebeu
+1059	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1060	Everyone receives	Todos recebem
+1061	Whoever didn't receive	Quem não recebeu
+1062	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1063	Everyone receives	Todos recebem
+1064	Whoever didn't receive	Quem não recebeu
+1065	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1066	Everyone receives	Todos recebem
+1067	Whoever didn't receive	Quem não recebeu
+1068	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1069	Everyone receives	Todos recebem
+1070	Whoever didn't receive	Quem não recebeu
+1071	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1072	Everyone receives	Todos recebem
+1073	Whoever didn't receive	Quem não recebeu
+1074	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1075	Everyone receives	Todos recebem
+1076	Whoever didn't receive	Quem não recebeu
+1077	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1078	Everyone receives	Todos recebem
+1079	Whoever didn't receive	Quem não recebeu
+1080	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1081	Everyone receives	Todos recebem
+1082	Whoever didn't receive	Quem não recebeu
+1083	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1084	Everyone receives	Todos recebem
+1085	Whoever didn't receive	Quem não recebeu
+1086	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1087	Everyone receives	Todos recebem
+1088	Whoever didn't receive	Quem não recebeu
+1089	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1090	Everyone receives	Todos recebem
+1091	Whoever didn't receive	Quem não recebeu
+1092	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1093	Everyone receives	Todos recebem
+1094	Whoever didn't receive	Quem não recebeu
+1095	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1096	Everyone receives	Todos recebem
+1097	Whoever didn't receive	Quem não recebeu
+1098	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1099	Everyone receives	Todos recebem
+1100	Whoever didn't receive	Quem não recebeu
+1101	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1102	Everyone receives	Todos recebem
+1103	Whoever didn't receive	Quem não recebeu
+1104	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1105	Everyone receives	Todos recebem
+1106	Whoever didn't receive	Quem não recebeu
+1107	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1108	Everyone receives	Todos recebem
+1109	Whoever didn't receive	Quem não recebeu
+1110	Guys, guys, everyone receives	Pessoal, pessoal, todos recebem
+1111	Everyone receives	Todos recebem
+1112	Whoever didn't receive	Quem não recebeu
+1113	Guys, g…	Pessoal, p…
