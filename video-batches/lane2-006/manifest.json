@@ -1,0 +1,243 @@
+{
+ "name": "lane2-006",
+ "lane": 2,
+ "created": "2026-10-13T00:04:02.911Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "nUKIBFhQiUY",
+   "title": "Parashat Mishpatim: acalmar o coração com a Torá",
+   "lines": 1192,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wf_N-SHA3Jo",
+   "title": "Por que Shabat e festas entram em Mishpatim, e a aliança proibida",
+   "lines": 654,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "psQ4TnMv680",
+   "title": "Parashá Behar: o servo de HaShem e a Rosh Chodesh",
+   "lines": 1032,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "T03lQdgYxiQ",
+   "title": "Por que caímos: as descidas e as centelhas em Balak",
+   "lines": 662,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2tRPI0p4IMo",
+   "title": "Aproximar os distantes: Moshe, Batia e Reuven",
+   "lines": 775,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_LwH12k0LZQ",
+   "title": "Parashat Ekev e a Haftará: \"E Tsiyon disse...",
+   "lines": 877,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "pRtXQh7P01U",
+   "title": "Hayom HaZe: Torá escrita e oral em Ki Tavo",
+   "lines": 485,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "utqv59PKgTA",
+   "title": "Não creia só na sua vida: confiança e teshuvá",
+   "lines": 815,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "YMjz55_lHFQ",
+   "title": "Santidade dos Cohanim e o futuro dos Bechorot",
+   "lines": 221,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "yfdMhNamA8Y",
+   "title": "De Ki Teitzei a Ki Tavo: da divisão à unidade",
+   "lines": 1327,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "gYAPIHclqTE",
+   "title": "Como criticar com amor: o poder da fala (Mishlei 13)",
+   "lines": 799,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "nN_GReQHbMw",
+   "title": "Kabalá Ketaná: a preparação de Elul e o mazal de Gad",
+   "lines": 679,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "BKcZ-praGsw",
+   "title": "Ki Tavo: os primeiros frutos, gratidão e alegria",
+   "lines": 452,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4RKDYnHmfyM",
+   "title": "O significado de Yom Kipur: alegria e perdão",
+   "lines": 856,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "YF2oDA0SMDI",
+   "title": "Parashat Shelach: os espiões e a Redenção",
+   "lines": 1164,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "IXqCizFaQ3A",
+   "title": "Tetzavê: o azeite, o Mishkan e as vestes do Cohen Gadol",
+   "lines": 557,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "7hBP79oiCo0",
+   "title": "Parashá Re'eh: a bênção e a \"maldição\" que são bênção",
+   "lines": 935,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "j9CB03aoa4c",
+   "title": "Oração e Súplica a Hashem",
+   "lines": 56,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "oSUlIDGF1Mk",
+   "title": "Quem avisa meus filhos? Contar o bem que se faz",
+   "lines": 802,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ajAqZpLpGto",
+   "title": "Suplicar, não só rezar: a força do tachanun no Elul",
+   "lines": 1422,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5Qo3Elcs0UM",
+   "title": "Entusiasmo interior e mitsvá lishmá antes de Rosh HaShaná",
+   "lines": 1018,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ruQWOWExEOw",
+   "title": "Como HaShem julga: os dois critérios do Din de Rosh HaShaná",
+   "lines": 1139,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "U02_RE0pZQI",
+   "title": "Nos sapatos: o chamado para não ser engolido pelo mundo",
+   "lines": 912,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Ox_Vgr-RAww",
+   "title": "O pecado do bezerro de ouro e o Erev Rav",
+   "lines": 270,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FoS1hxG9xbs",
+   "title": "Parashát Shemini e Parashát HaChodesh: a Guefulá",
+   "lines": 1077,
+   "parts": 3,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "nUKIBFhQiUY.p0",
+  "nUKIBFhQiUY.p1",
+  "nUKIBFhQiUY.p2",
+  "wf_N-SHA3Jo.p0",
+  "wf_N-SHA3Jo.p1",
+  "psQ4TnMv680.p0",
+  "psQ4TnMv680.p1",
+  "psQ4TnMv680.p2",
+  "T03lQdgYxiQ.p0",
+  "T03lQdgYxiQ.p1",
+  "2tRPI0p4IMo.p0",
+  "2tRPI0p4IMo.p1",
+  "_LwH12k0LZQ.p0",
+  "_LwH12k0LZQ.p1",
+  "pRtXQh7P01U.p0",
+  "pRtXQh7P01U.p1",
+  "utqv59PKgTA.p0",
+  "utqv59PKgTA.p1",
+  "YMjz55_lHFQ.p0",
+  "yfdMhNamA8Y.p0",
+  "yfdMhNamA8Y.p1",
+  "yfdMhNamA8Y.p2",
+  "gYAPIHclqTE.p0",
+  "gYAPIHclqTE.p1",
+  "nN_GReQHbMw.p0",
+  "nN_GReQHbMw.p1",
+  "BKcZ-praGsw.p0",
+  "BKcZ-praGsw.p1",
+  "4RKDYnHmfyM.p0",
+  "4RKDYnHmfyM.p1",
+  "YF2oDA0SMDI.p0",
+  "YF2oDA0SMDI.p1",
+  "YF2oDA0SMDI.p2",
+  "IXqCizFaQ3A.p0",
+  "IXqCizFaQ3A.p1",
+  "7hBP79oiCo0.p0",
+  "7hBP79oiCo0.p1",
+  "7hBP79oiCo0.p2",
+  "j9CB03aoa4c.p0",
+  "oSUlIDGF1Mk.p0",
+  "oSUlIDGF1Mk.p1",
+  "ajAqZpLpGto.p0",
+  "ajAqZpLpGto.p1",
+  "ajAqZpLpGto.p2",
+  "ajAqZpLpGto.p3",
+  "5Qo3Elcs0UM.p0",
+  "5Qo3Elcs0UM.p1",
+  "5Qo3Elcs0UM.p2",
+  "ruQWOWExEOw.p0",
+  "ruQWOWExEOw.p1",
+  "ruQWOWExEOw.p2",
+  "U02_RE0pZQI.p0",
+  "U02_RE0pZQI.p1",
+  "U02_RE0pZQI.p2",
+  "Ox_Vgr-RAww.p0",
+  "FoS1hxG9xbs.p0",
+  "FoS1hxG9xbs.p1",
+  "FoS1hxG9xbs.p2"
+ ]
+}
