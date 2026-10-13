@@ -1,16 +1,16 @@
 # lane3-006
 
 22 of 25 lessons published · 2 skipped · status **pending**
-Tokens (79 agent runs with a record): 1.1M in (mostly cache) · 1.97M out · API-equivalent 23.34
+Tokens (88 agent runs with a record): 1.2M in (mostly cache) · 2.19M out · API-equivalent 25.62
 
 | lesson | state | detail |
 |---|---|---|
-| IE1R85-QmhQ | ✗ will be redone (try 2) | 1 lines missing |
+| IE1R85-QmhQ | waiting | 2/3 parts |
 | 9xQfzlEGmPU | ✓ published | 1008 lines · Como guardar a santidade do Shabat (Ki Tisa) |
 | DSmvZL1reks | ✓ published | 515 lines · Viver a serenidade do Shabat a semana toda |
 | ezL86L7pMmM | ✓ published | 1061 lines · Educar com luz, não com avisos: Parashat Emor |
 | jz0GsqAOeCU | ✓ published | 799 lines · Dibrê shalom antes da guerra: Moshê e Yehoshua |
-| fgeFKiDfLYY | skipped after 3 tries | line 0 twice |
+| fgeFKiDfLYY | skipped | |
 | plF2mVZ_-tg | ✓ published | 446 lines · Parashá Haazinu: 70 nações e o Medo enviado por HaShem |
 | F3Ge_PFPE38 | ✓ published | 932 lines · Amor a HaShem e o Pele Yoetz: Behaalotcha |
 | bbzw0s8A-Jo | ✓ published | 628 lines · Rachel e Rabi Akiva: achar a força onde se caiu |
@@ -24,7 +24,7 @@ Tokens (79 agent runs with a record): 1.1M in (mostly cache) · 1.97M out · API
 | 57GV1dD4uSo | ✓ published | 663 lines · Ve'Etchanan: causas do desastre e o mérito da Torá |
 | KPArlvl3TaU | ✓ published | 106 lines · Parashat Re'eh: escolha, Santuário, shemitá e festas |
 | t2tHTe-swH4 | ✓ published | 649 lines · Fechar o ano: as 98 maldições de Ki Tavô |
-| Hm8fk4lF5Cg | skipped after 3 tries | 325 lines missing |
+| Hm8fk4lF5Cg | skipped | |
 | FMs3m0pferU | ✓ published | 416 lines · Parashat VaEtchanan: da dor pessoal à missão |
 | mE2zlqNb020 | ✓ published | 510 lines · Parashat Ekev: a Terra de Israel é a terra da emuná |
 | 6JiweWUQpxI | ✓ published | 454 lines · Ben Ish Chai: Halachot de Vayikrá 5 a 9 (ano 2) |
