@@ -1,7 +1,7 @@
 # lane4-003
 
-24 of 25 lessons published · 0 skipped · status **pending**
-Tokens (78 agent runs with a record, 77 refused or without record): 20.6M in (mostly cache) · 2.55M out · API-equivalent 43.98
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (80 agent runs with a record, 77 refused or without record): 20.7M in (mostly cache) · 2.61M out · API-equivalent 44.61
 
 | lesson | state | detail |
 |---|---|---|
@@ -14,7 +14,7 @@ Tokens (78 agent runs with a record, 77 refused or without record): 20.6M in (mo
 | L8kUw5fgzn8 | ✓ published | 1601 lines · Haazinu e Sucot: o Tzur, a fé e a alegria de Sucot |
 | Blk6fgF1qYA | ✓ published | 703 lines · O que define um judeu: tradição e as 13 crenças |
 | u2VtYmipsIo | ✓ published | 1366 lines · Parashá Pinchas: o trabalho de depuração interior |
-| XXTPWmnll0E | ✗ will be redone (try 1) | 1 lines missing |
+| XXTPWmnll0E | ✓ published | 627 lines · Nitsavim: como se preparar para Rosh HaShaná |
 | Qk2y43xug9Y | ✓ published | 879 lines · Nitsavim, as maldições e o preparo para Rosh HaShaná |
 | eva4oN6jq6s | ✓ published | 1118 lines · Aviram da terra de Israel e as cem bênçãos diárias |
 | uDxXHAfAm0A | ✓ published | 1255 lines · Como vencer o yetzer sem lutar: Ki Teitzei e a Torá |
