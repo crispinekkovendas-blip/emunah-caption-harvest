@@ -249,15 +249,15 @@
   "X8vBNxZq6-E.p1"
  ],
  "tries": {
-  "sNM_S5bdC-o": 2,
+  "sNM_S5bdC-o": 3,
   "u1xDDiK424U": 1,
   "pDoaIk0k3Rs": 1,
-  "WBKVAVg9CuA": 2,
+  "WBKVAVg9CuA": 3,
   "Pxv8u44l3Ig": 1,
   "glUhPo8wFho": 1,
   "cB06YKJsd1I": 1,
-  "L209dTca5_c": 2,
-  "GcFPfJDGYbQ": 1
+  "L209dTca5_c": 3,
+  "GcFPfJDGYbQ": 2
  },
  "done": [
   "AD_txtRRy8w",
@@ -282,5 +282,9 @@
   "glUhPo8wFho",
   "cB06YKJsd1I"
  ],
- "skipped": []
+ "skipped": [
+  "sNM_S5bdC-o",
+  "WBKVAVg9CuA",
+  "L209dTca5_c"
+ ]
 }

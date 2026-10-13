@@ -1,18 +1,18 @@
 # lane3-005
 
-21 of 25 lessons published · 0 skipped · status **pending**
-Tokens (90 agent runs with a record): 1.4M in (mostly cache) · 2.52M out · API-equivalent 30.20
+21 of 25 lessons published · 3 skipped · status **pending**
+Tokens (101 agent runs with a record): 1.5M in (mostly cache) · 2.80M out · API-equivalent 33.46
 
 | lesson | state | detail |
 |---|---|---|
 | AD_txtRRy8w | ✓ published | 840 lines · Ahavat Kelulotaich: o mérito do Dor HaMidbar após os espiões |
 | bg3rIgxnJFc | ✓ published | 1705 lines · Parashá Bó: as pragas, o milagre e a hilulá de Baba Sali |
-| GcFPfJDGYbQ | ✗ will be redone (try 1) | 21 lines missing |
+| GcFPfJDGYbQ | ✗ will be redone (try 2) | 11 lines missing |
 | ULbGA_BKQig | ✓ published | 924 lines · Parashat Ekev no Or HaChaim: toda a Torá é uma só mitsvá |
-| sNM_S5bdC-o | ✗ will be redone (try 2) | line 607 twice |
+| sNM_S5bdC-o | skipped after 3 tries | line 606 twice |
 | u1xDDiK424U | ✓ published | 1260 lines · Pinchas é Eliyahu: como vencer a morte |
 | pDoaIk0k3Rs | ✓ published | 1251 lines · Shabat Chazon: Tisha BeAv como festa de Mashiach |
-| WBKVAVg9CuA | ✗ will be redone (try 2) | 1 lines missing |
+| WBKVAVg9CuA | skipped after 3 tries | 1 lines missing |
 | Pxv8u44l3Ig | ✓ published | 1088 lines · Força interior: o caminho da justiça e da tzedaká |
 | 5YDwYmclYzQ | ✓ published | 756 lines · Os quatro requisitos dos espiões em Shelach Lecha |
 | Kwg33C4NWrU | ✓ published | 930 lines · Dias de Adar: as quatro Parashiot e o Nome de quatro letras |
@@ -28,5 +28,5 @@ Tokens (90 agent runs with a record): 1.4M in (mostly cache) · 2.52M out · API
 | vNnhMX-hGzg | ✓ published | 919 lines · Nissan, a matsá de remédio e a fé em tempos de guerra |
 | XBXrDcjLYCY | ✓ published | 1617 lines · Do sofrimento nasce o crescimento: Parashá Bamidbar |
 | yzBWdjkVKOU | ✓ published | 429 lines · Parashá Re'eh: como se mede a yirat shamayim |
-| L209dTca5_c | ✗ will be redone (try 2) | 228 lines missing |
+| L209dTca5_c | skipped after 3 tries | line 900 twice |
 | X8vBNxZq6-E | ✓ published | 664 lines · Haazinu: o pecado destrói a si mesmo e a restituição |
