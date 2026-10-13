@@ -1,0 +1,26 @@
+videoId: n47Y97S91Ho
+parte 1 de 1 · traduzir as linhas 0 a 15 (16 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A morte de Miriam e o fim da água
+RESUMO: O rabino Benny Lau situa a cena no 40º ano no deserto, quando Miriam morre e a congregação fica sem água (Bamidbar 20:1-2). Ele pergunta qual a relação entre a morte de Miriam e a falta de água, e lembra o ensinamento de que durante os 40 anos o poço existiu por mérito dela, a partir do qual nasceu a lenda do poço de Miriam. Ele pede ao ouvinte imaginar uma mulher que é a fonte de vida do povo, sem ser a própria água. Miriam deu força ao povo na saída do Egito e na canção do mar, sempre acreditando neles e dizendo "cantem, vocês conseguem". Com a morte dela surge uma seca geral, e a falta de água se torna o primeiro teste da nova liderança de Moshé, que precisa encontrar um jeito de preencher o lugar de Miriam.
+MOMENTOS: 00:00 O 40º ano no deserto · 00:04 Miriam morre e não há água · 00:09 Qual a ligação entre a morte e a água? · 00:14 O poço por mérito de Miriam · 00:19 Nasce a lenda do poço de Miriam · 00:23 Uma mulher que é a fonte da vida · 00:34 Miriam dá força ao povo · 00:40 A canção do mar: "cantem" · 00:46 A seca após a morte de Miriam · 00:50 A nova liderança de Moshé
+FONTES CITADAS: 00:04 Bamidbar 20:1-2 · 00:14 Taanit 9a · 00:37 Shemot 14:30-15:1 · 00:40 Shemot 15:20-21
+
+LINHAS A TRADUZIR:
+0|00:00|הגענו לשנת ה-40 במדבר. הגענו לרגע שבו
+1|00:04|מרים מתה ולא היה מים לעדה. מה הקשר בין
+2|00:09|מות מרים לבין עובדן המים? מכאן שכל 40
+3|00:14|שנה היה להם הבאר בזכות מרים. כאן בפסוק
+4|00:19|הזה נולדה האגדה על בארה של מרים. תנסו
+5|00:23|לדמיין את הדבר הזה שיש אישה שמסתובבת
+6|00:27|ביניכם. היא זאת שנותנת לכם את מקור
+7|00:30|החיים. היא עצמה לא המים. מרים לכל אורך
+8|00:34|חייה נתנה לאנשים את הכוח. היא נתנה להם
+9|00:37|את הכוח ביציאת מצרים. היא נתנה להם את
+10|00:40|הכוח בשירת הים. היא תמיד האמינה בהם.
+11|00:43|תמיד אמרה שירו. אתם יכולים. וכאן מת
+12|00:46|המרים. ופתאום יש יובש כללי. הרגע הזה של
+13|00:50|עובדן המים אחרי מותה של מרים הוא
+14|00:53|המנהיגות החדשה של משה. האם משה ימצא את
+15|00:56|הדרך למלא את מקומה של מרים?
