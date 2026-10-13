@@ -1,0 +1,77 @@
+videoId: 4TlvOm9kB1s
+parte 2 de 2 · traduzir as linhas 450 a 502 (53 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Bilam e o verso Ma Tovu: quatro camadas de leitura
+RESUMO: O rabino Jacobson mostra o contraste entre as queixas do povo em Behaalotcha, Shelach, Korach e Chukat e a bênção de Bilam em Balak, que vê Israel de longe e o louva com "Ma tovu ohalecha Yaakov, mishkenotecha Israel", verso que abre a oração da manhã. Ele analisa o verso pelo método PaRDeS. No Pshat, Rashi (Bamidbar 24:5, a partir da Gemará em Bava Batra) diz que Bilam viu que as portas das tendas não ficavam de frente uma para a outra, sinal de recato e privacidade. No Drash, Rabi Natan de Breslev (Likutei Halachot) lê as portas e janelas como a verdade própria de cada pessoa, e o Maguid de Mezritch lê as bocas como debates feitos para engrandecer a Torá, sem intenção de combater. No Remez, Rabi Baruch de Mezhibuzh lembra o dito dos Sábios de que HaShem abre uma porta do tamanho de um salão a quem abre uma do tamanho da ponta de uma agulha. No Sod, o Baal Shem Tov distingue Yaakov (a tenda provisória) de Israel (a morada fixa), e o Tanya diz que até o alimento simples de quem constrói uma tenda para HaShem é muito apreciado, como a comida num avião. Ele encerra com um pedido de doações para sua organização.
+MOMENTOS: 00:00 Bilam, o inimigo, abençoa Israel em Balak · 00:44 O contraste com as queixas das parashiot anteriores · 02:30 Ma Tovu, verso que abre a oração da manhã · 04:24 PaRDeS: as camadas de leitura do verso · 05:09 Rashi: portas que não se defrontam, o recato · 07:19 Rabi Natan de Breslev: portas e janelas · 11:57 Cada um tem sua janela, sem julgar o outro · 13:43 Não imitar a vida do vizinho · 15:00 O Maguid de Mezritch: bocas que não se opõem · 18:34 Rabi Baruch de Mezhibuzh: a porta de HaShem · 20:53 O Baal Shem Tov: Yaakov e Israel, tenda e morada · 28:29 O Tanya: o alimento no avião · 31:05 Pedido de doações
+FONTES CITADAS: 00:41 Bamidbar 24:5 · 02:16 Bamidbar 23:9 · 02:36 Sidur, Ma Tovu (oração da manhã) · 04:24 Sanhedrin 34a · 04:28 Arizal, interpretações da Torá por alma · 05:09 Rashi em Bamidbar 24:5 · 05:21 Bava Batra 60a · 06:38 Bava Metzia 42a · 08:05 Mishná, Bava Batra 3:7 · 08:21 Bava Batra 60a (Rabi Yochanan) · 08:44 Likutei Halachot, Rabi Natan de Breslev, Shecheinim 5 · 10:00 Tehilim 118:19 · 10:46 Yeshayahu 40:26 · 11:16 Bereshit 2:18 · 12:20 Rabi Natan de Breslev, Likutei Halachot · 12:46 Sichá do Rebe Rayatz, Yud Bet Tamuz · 14:33 Pirkei Avot 4:1 · 15:00 Or Torá, Maguid de Mezritch, 144 · 16:19 Tehilim 141:3 · 17:53 Derech Chaim, Maharal (Pirkei Avot 5:17) · 18:34 Butzina Dinhora, Rabi Baruch de Mezhibuzh · 19:29 Shir HaShirim Rabá 5:2 · 19:29 Shir HaShirim 5:2 · 21:23 Baal Shem Tov sobre Bamidbar 24:5 · 22:30 Bereshit 32:29 · 23:29 Shemot 25:8 · 24:12 Rambam, Hilchot Yesodei HaTorá 7 · 24:30 Bereshit 28:13 · 24:47 Pirkei Avot 3:15 (Rabi Akiva) · 24:55 Zohar, Tikunei Zohar 57a · 26:35 Baal Shem Tov, exemplo de Yaakov e Israel · 27:08 Sidur, Ma Tovu · 28:29 Tanya, Likutei Amarim, Iggeret HaKodesh
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+438|27:52|אולי יש בי דברים שאני צריך ודאי לעבד
+439|27:55|עליהם אבל אל תתייאש חס וש
+440|27:58|כשאתה בונה אוהל הגם שבעוד שעה אולי יכנסו
+441|28:02|מחשבות שונות בך ותצטרך לבנות אוהל שוב
+442|28:06|כול הראשון לכור חרב אבל היהודי הזה שיודע
+443|28:10|שעכשיו אני יכול לבנות אוהל לאמת אוהל
+444|28:15|השכינה אוהל הקדוש ברוך הוא אוהל האמת
+445|28:18|הפנימית של הנשמה שלי שחלק ל
+446|28:21|ממעל מתוב אלך יקב מתוך יקב
+447|28:29|יש ממ של בל התניה דמון
+448|28:33|הזקן הוא כותב משהו מאוד
+449|28:39|מאוד מאוד מאוד
+
+LINHAS A TRADUZIR:
+450|28:44|גדול זה יש ספ שלא את אתל לוז את לך לוז
+451|28:50|ככה למה זה
+452|28:54|ש אם מישהו נותן לך אוכל במדבר אתה במדבר
+453|28:59|אין לך חלילה שום אוכל ושום משקה ומישהו
+454|29:02|מביא לך אוכל אפילו אם האוכל הזה ממש לא
+455|29:06|תיים איי
+456|29:09|אתה תנ כל כך מאוכל אם מותר לי לתן אולי
+457|29:14|משל עכשוי שזה לא היה שייך בזמנו של בל
+458|29:17|תניה אם מישהו נמצא בטיסה
+459|29:21|ארוכה כן מארצות הברית לישראל או מארצות
+460|29:25|הברית לאוסטרליה כפי שהייתי עשיתי הרבה
+461|29:32|פעמים ולא הבאתי אוכל כן אני רעב רעב
+462|29:39|והאלה שעובדים במטוס מביאים לי אוכל אני
+463|29:42|פותח את האוכל תסלחו לי בבית אוכל כזה
+464|29:47|אולי הוא לא היה אוכל א אולי ה לא הייתי
+465|29:49|אוכל אבל במטוס פתאום זה נשה תיים למה למה
+466|29:54|העניין הוא כי אתה פגיע מאוד כי אין פה
+467|29:57|אוכל אין פה מקרר אין פה פנטרי אין פה
+468|30:00|ארון אוכל אין פה חנות מכולת מחוץ בצד אחר
+469|30:04|של הכביש אני יכול לביא אוכל אני נמצא
+470|30:07|במטוס 30,000 פט מעל ים מל מעל ים התיכון
+471|30:12|או אלנטק אשן ים האוקיינוס אני מאוד פגיע
+472|30:16|כל אוכל שאתה אוכל לי וואו איזה טעם יש פה
+473|30:20|הרבה יותר מטעם מי שלא אכל כמה ימים אתה
+474|30:23|מביא לו אוכל לקוי לא לא יפה לא תיים לא
+475|30:26|נחמד ודאי לא פנסי אבל יש בזה טעם לא
+476|30:31|נורמלי מסביר בתניה ככה
+477|30:34|בשמיים יש מלאכים בלי גבול שצועקים קדוש
+478|30:38|קדוש קדוש קדוש אוכל הכי טעים ונחמד אבל
+479|30:42|פה בעולם הזה יש כל כך הרבה הדגלים
+480|30:45|שכשיהיה קצת אוכל לחמי לאישי אוכל הקדוש
+481|30:50|ברוך הוא אפילו אם האוכל זה לא האוכל הכי
+482|30:52|יפה והכי נחמד זה אוכל שמעורב בו אולי
+483|30:55|הרבה פסולת אבל הקדוש ברוך הוא אומר האוכל
+484|30:58|הזה הוא הכי הכי טיים שיש אין אוכל כזה לא
+485|31:04|תמצא אוכל
+486|31:05|כזה מטובו אלך יקב לסכום אני צה לבקש
+487|31:11|מכולכם אני הארגון שלי עושה בשבוע הזה
+488|31:15|סיפת כספים גיוס כספים כדי שנוכל להמשיך
+489|31:19|את העבודה הקדושה לרומם את עם ישראל לאחד
+490|31:22|את עם ישראל בשיעורים ובדרכים השונות אזה
+491|31:27|אני מבקש כל כל מי שיוכל בבקשה אם אתם
+492|31:31|יכולים לתרום פה בלינק הזה שאתם רואים
+493|31:34|במסך אניד אני אגיד לכם גם מה הלינק
+494|31:40|זה rath on.com /
+495|31:45|yy r a i s e t h o
+496|31:52|n.com com / אתם יודעים מה זה סש ככה שורה
+497|31:57|זו באלכסון y שם שלי הוא יוסב יצחק ושמה
+498|32:02|תראו את הקמפיין לגיוס כספים ושמה יש כל
+499|32:05|הפרטים אני מבקש מכם בכל לשון של בקשה
+500|32:08|לתרום כדי שנוכל לא רק להמשיך א ללך מחיל
+501|32:11|אלחל למלות הארץ דית השם כמים לם מכסים ם
+502|32:16|אהבת השם אהבת התורה ואהבת ישראל תודה רבה שלום

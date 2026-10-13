@@ -1,0 +1,42 @@
+videoId: KunVFu7u_g8
+parte 2 de 2 · traduzir as linhas 450 a 467 (18 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Behaalotchá: a Torá em sete livros, não cinco
+RESUMO: O rabino começa o estudo da Parashá Behaalotchá a partir de uma conversa do Rebe, que aponta uma novidade nesta parashá em relação a todas as outras. Explica a divisão da Torá em parashiot abertas e fechadas e o trecho "Vayehi binsoa haaron", marcado com um nun invertido antes e depois. Segundo a Gemará, esse trecho conta como um livro à parte, e assim o livro de Bamidbar se divide em três e a Torá passa a ter sete livros, conforme o versículo de Mishlei "Ela lavrou suas sete colunas". Em seguida apresenta três perguntas do Rebe. A primeira é por que o sexto livro começa com "Vayehi haam kemitonenim", uma queixa e um assunto negativo, e fica sem nome, enquanto os outros têm. A segunda é qual o sentido de uma divisão em sete ao lado da divisão em cinco. A terceira é qual a relação com o nome da parashá, "Behaalotchá et haneirot", a menorá de sete candeias. A explicação ficou para o dia seguinte.
+MOMENTOS: 00:32 Introdução à conversa do Rebe sobre Behaalotchá · 01:09 Vayehi binsoa haaron conta como um livro à parte · 02:21 Parashiot abertas e fechadas na Torá · 03:59 Costume antigo de ler a Torá em três anos · 05:36 O trecho Vayehi binsoa haaron e a marcação de nun invertido · 07:27 Quatro linhas em branco entre os cinco livros · 08:46 Sete livros e o versículo de Mishlei sobre as sete colunas · 10:03 Behaalotchá contém três livros em uma só parashá · 12:12 Primeira pergunta: um livro que abre com queixa · 14:00 Como os livros da Torá recebem seus nomes · 17:26 Vayehi, haam e mitonenim: cada palavra aponta algo negativo · 20:02 Abençoar também pelo mal e o pecado dos queixosos · 22:28 Terceira pergunta: a menorá de sete candeias e os sete livros · 24:05 Resumo das perguntas e continuação no dia seguinte
+FONTES CITADAS: 00:55 Bamidbar 8:2 · 01:09 Shabat 116a · 01:29 Mishlei 9:1 · 04:06 Meguilá 29b · 05:14 Rambam, Hilchot Sefer Torá · 06:06 Bamidbar 10:35 · 06:09 Bamidbar 10:36 · 06:39 Shabat 115b · 07:51 Bava Batra 13b · 08:46 Mishlei 9:1 · 11:20 Costume do Chazak chazak venitchazek · 12:43 Bamidbar 11:1 · 13:05 Bamidbar 11:1 · 13:16 Bamidbar 12 · 13:31 Bamidbar 13 · 14:13 Shemot 1:1 · 14:22 Vayikrá 1:1 · 14:29 Bamidbar 1:1 · 15:32 Devarim 1:1 · 17:26 Meguilá 10b · 17:54 Ester 1:1 · 18:03 Rut 1:1 · 18:07 Bereshit 1:5 · 18:29 Bereshit 14:1 · 19:14 Midrash sobre o povo e os ímpios · 19:31 Bamidbar 11:1 · 20:02 Berachot 54a · 22:52 Bamidbar 8:2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+438|23:29|השייכות בתוכן העניינים וכיצד זה מתאים עם
+439|23:32|החלוקה לחמישה חומשי תורה זאת אומרת א
+440|23:36|נכון שאתה משווה בין המנורה לתורה וזה
+441|23:39|השוואה מאוד מתבקשת אבל לא השוואה שמסבירה
+442|23:43|את העניין היא לא מסבירה מה באמת המשמעות
+443|23:45|של השבע נראה גמרא שיש פה שייכות בין
+444|23:48|התורה לשבע כמו שיש שייכות בין המנורה
+445|23:51|לשבע אז נדרש פה הסבר בתוכן העניין וגם
+446|23:55|להבין אז בסופו של דבר אם באמת העניין הזה
+447|23:58|הוא יהיה מספיק משכנע ומספיק מובן אז איך
+448|24:00|זה שייך לחמישה חומשי תורה שזה החלוקה
+449|24:02|הרגילה זה מה ששאלנו קודם
+
+LINHAS A TRADUZIR:
+450|24:05|אז אלו בעצם השאלות שהרבי איתם פותח את
+451|24:07|השיחה מחר נתחיל את הביאור ולסיכום העניין
+452|24:11|השאלות הם האם באמת התורה האם מה מה מה
+453|24:15|ההבדל בין החלוקה של התורה לחמש או לשבע
+454|24:18|איך זה קשור דווקא לפרשה שלנו ואיך זה
+455|24:21|נותן מענה לכך שלפי החלוקה של שבע הספר
+456|24:24|השישי פותח בעניין לא טוב
+457|24:27|אז מה מה בעצם המסר כאן איך ניתן דווקא
+458|24:31|בפרשה שלנו כוח לעניין הזה שכמובן התכלית
+459|24:35|היא לתקן אותו ולא להשאיר אותו לטוב חס
+460|24:37|ושלום אז איך נעשה תיקון העניין אז זה
+461|24:41|נראה באמצה בעזרת השם חזקו ברור ברוך
+462|24:47|>> נכון בד בסוף הוא בטח שגיד שהשיר שבע
+463|24:49|ספרים שיר שבע מידות משר
+464|24:51|>> תמיד שבע זה שבע מידות [‏צחוק] זה פשוט
+465|24:53|אבל עוד פעם אז מה זה החמישה
+466|24:56|חמישה חמישה חומשי תורה שאלה
+467|25:17|‏K

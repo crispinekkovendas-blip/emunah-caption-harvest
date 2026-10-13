@@ -1,0 +1,244 @@
+{
+ "name": "lane5-005",
+ "lane": 5,
+ "created": "2026-10-13T07:53:45.171Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "fIcK2wgASGE",
+   "title": "Parashá Tzav e Parah: na morte nos ordenaram a vida",
+   "lines": 761,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "X65NLdjHYUU",
+   "title": "O que Bilam realmente profetizou: Parashá Balak",
+   "lines": 868,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Z7-Py4wXloU",
+   "title": "Elul e a escolha: HaShem pede que nos movamos",
+   "lines": 1175,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "V8GRAlOoUL0",
+   "title": "Dois conselhos para o julgamento de Rosh Hashaná",
+   "lines": 379,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "k5b6H2apWsg",
+   "title": "Bereshit: a Criação, o livre-arbítrio e a Shabat",
+   "lines": 453,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3u2V8PrEkJw",
+   "title": "Parashat Mishpatim e o segredo dos gilgulim",
+   "lines": 816,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Ca8bboaDyRc",
+   "title": "Ensinamento de Mussar: Humildade, a mãe da Torá",
+   "lines": 856,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4TlvOm9kB1s",
+   "title": "Bilam e o verso Ma Tovu: quatro camadas de leitura",
+   "lines": 503,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "gzvjR-Ew9Og",
+   "title": "Lech Lecha: as provações de Avraham e o \"para si mesmo",
+   "lines": 1227,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "0nSjPMGnCaU",
+   "title": "Esforço humano, temor a HaShem e o prêmio da tzedaká",
+   "lines": 919,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "KSAjfvZSyKY",
+   "title": "Dan lekaf zechut: julgar o outro com mérito",
+   "lines": 1090,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "VwuI_8nWq7Y",
+   "title": "Shemot: a tristeza é o inimigo, a alegria é a saída",
+   "lines": 1282,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "gpTawZWgjJk",
+   "title": "Parashat Ekev: preparar-se para Elul a partir do calcanhar",
+   "lines": 1360,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "sGYmlI8S59Q",
+   "title": "Parashá Re'eh: ouvir a Torá e as comidas proibidas",
+   "lines": 929,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-qSd3yZjHAI",
+   "title": "Por que estudar Torá às vezes não toca o coração",
+   "lines": 776,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qLdX-I34K2Y",
+   "title": "Midrash Tanchuma Vayechi 9: Reuven, o primogênito",
+   "lines": 323,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "LrHdoD7QOmY",
+   "title": "Sefirat HaOmer: a chance de mudar a vida por dentro",
+   "lines": 1342,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "WEXIMGFnt34",
+   "title": "Pinchas, Zimri e o segredo da teshuvá",
+   "lines": 1025,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "AtQTlmpgiSY",
+   "title": "Rosh HaShaná: o coração é o portal para HaShem",
+   "lines": 672,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3zDPEGDIy2g",
+   "title": "Provações crescem para quem vai ser grande",
+   "lines": 914,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PblW1j-my5w",
+   "title": "Behaalotchá: acender a chama e escolher a história",
+   "lines": 442,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1RDFU2iL3_M",
+   "title": "Halachot de saladas no Shabat e o Baba Sali",
+   "lines": 956,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "iYpyDoBM9yA",
+   "title": "Kashrut da comida e seu efeito sobre a alma",
+   "lines": 902,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "KunVFu7u_g8",
+   "title": "Behaalotchá: a Torá em sete livros, não cinco",
+   "lines": 468,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "AL_r7JCafbs",
+   "title": "Korach: a rebelião e a queda de quem persegue honra",
+   "lines": 217,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "fIcK2wgASGE.p0",
+  "fIcK2wgASGE.p1",
+  "X65NLdjHYUU.p0",
+  "X65NLdjHYUU.p1",
+  "Z7-Py4wXloU.p0",
+  "Z7-Py4wXloU.p1",
+  "Z7-Py4wXloU.p2",
+  "V8GRAlOoUL0.p0",
+  "k5b6H2apWsg.p0",
+  "k5b6H2apWsg.p1",
+  "3u2V8PrEkJw.p0",
+  "3u2V8PrEkJw.p1",
+  "Ca8bboaDyRc.p0",
+  "Ca8bboaDyRc.p1",
+  "4TlvOm9kB1s.p0",
+  "4TlvOm9kB1s.p1",
+  "gzvjR-Ew9Og.p0",
+  "gzvjR-Ew9Og.p1",
+  "gzvjR-Ew9Og.p2",
+  "0nSjPMGnCaU.p0",
+  "0nSjPMGnCaU.p1",
+  "0nSjPMGnCaU.p2",
+  "KSAjfvZSyKY.p0",
+  "KSAjfvZSyKY.p1",
+  "KSAjfvZSyKY.p2",
+  "VwuI_8nWq7Y.p0",
+  "VwuI_8nWq7Y.p1",
+  "VwuI_8nWq7Y.p2",
+  "gpTawZWgjJk.p0",
+  "gpTawZWgjJk.p1",
+  "gpTawZWgjJk.p2",
+  "gpTawZWgjJk.p3",
+  "sGYmlI8S59Q.p0",
+  "sGYmlI8S59Q.p1",
+  "sGYmlI8S59Q.p2",
+  "-qSd3yZjHAI.p0",
+  "-qSd3yZjHAI.p1",
+  "qLdX-I34K2Y.p0",
+  "LrHdoD7QOmY.p0",
+  "LrHdoD7QOmY.p1",
+  "LrHdoD7QOmY.p2",
+  "WEXIMGFnt34.p0",
+  "WEXIMGFnt34.p1",
+  "WEXIMGFnt34.p2",
+  "AtQTlmpgiSY.p0",
+  "AtQTlmpgiSY.p1",
+  "3zDPEGDIy2g.p0",
+  "3zDPEGDIy2g.p1",
+  "3zDPEGDIy2g.p2",
+  "PblW1j-my5w.p0",
+  "1RDFU2iL3_M.p0",
+  "1RDFU2iL3_M.p1",
+  "1RDFU2iL3_M.p2",
+  "iYpyDoBM9yA.p0",
+  "iYpyDoBM9yA.p1",
+  "iYpyDoBM9yA.p2",
+  "KunVFu7u_g8.p0",
+  "KunVFu7u_g8.p1",
+  "AL_r7JCafbs.p0"
+ ]
+}
