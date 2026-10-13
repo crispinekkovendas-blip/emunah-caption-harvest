@@ -1,19 +1,19 @@
 # lane4-004
 
-19 of 25 lessons published · 0 skipped · status **pending**
-Tokens (93 agent runs with a record): 1.4M in (mostly cache) · 2.60M out · API-equivalent 31.22
+21 of 25 lessons published · 2 skipped · status **pending**
+Tokens (110 agent runs with a record): 1.7M in (mostly cache) · 3.10M out · API-equivalent 36.69
 
 | lesson | state | detail |
 |---|---|---|
 | DZKQlAZKK18 | ✓ published | 299 lines · Parashat Tzav: a alma que sobe à noite e o Purim |
 | 56kcNk-7Ias | ✓ published | 1064 lines · Parashá Balak: a maldição que vira bênção |
-| NZY3vC0hYNQ | ✗ will be redone (try 2) | 3 lines missing |
+| NZY3vC0hYNQ | ✓ published | 1027 lines · Valor próprio sem vaidade: o sábio oculta o que sabe |
 | 7P6T5BRAV1k | ✓ published | 383 lines · Tamim Tihyeh: não consultar o futuro (Shoftim) |
 | woxuF6lMguc | ✓ published | 918 lines · Tsédek, mishpat e o mérito: julgar com justiça |
 | PuyyTR5GVtg | ✓ published | 1006 lines · Parashat Vayishlach: os mensageiros de Yaakov e Dina |
 | Xaw9gVdlwMc | ✓ published | 946 lines · Parashá Vaerá: Elokim, HaShem e as pragas |
 | 9xbetZ4mkng | ✓ published | 864 lines · A oração e o Beit HaMikdash: pedir a proximidade de HaShem |
-| 1_nlcCAuJks | ✗ will be redone (try 2) | 55 lines missing |
+| 1_nlcCAuJks | ✓ published | 1084 lines · Leis de Tishá BeAv, o luto e a Parashá Matot |
 | oDa2j5hivmk | ✓ published | 722 lines · Ikveta DeMeshichá: os calcanhares de Adam HaRishon |
 | MyzNaNmbX6I | ✓ published | 932 lines · Ki Teitzei: sair para a guerra e a força da prece |
 | Av3CEILgSbw | ✓ published | 902 lines · Yesod, Meguilat Rut e a fé de Boaz e Rut |
@@ -24,9 +24,9 @@ Tokens (93 agent runs with a record): 1.4M in (mostly cache) · 2.60M out · API
 | Pcwf48DzbQw | ✓ published | 899 lines · Por que os irmãos quiseram matar Yosef |
 | Srefhr92A_o | ✓ published | 667 lines · Matot-Masei: nedarim, aniversários e casamento |
 | hwQVAB7zNEc | ✓ published | 1161 lines · Parashá Ekev: os sentidos de "ekev" e a humildade |
-| rLQ_FuD__pA | waiting | 2/3 parts |
-| 7pfIoU_bN00 | ✗ will be redone (try 2) | 448 lines missing |
-| xW_HWuavFow | ✗ will be redone (try 2) | line 862 twice |
+| rLQ_FuD__pA | ✗ will be redone (try 1) | 254 lines missing |
+| 7pfIoU_bN00 | skipped after 3 tries | 3 lines missing |
+| xW_HWuavFow | skipped after 3 tries | line 450 twice |
 | kTry3LuQb3c | ✓ published | 691 lines · Haftará de Ra'ê: ver a consolação na livre escolha |
 | SUaaHPDeuGY | ✓ published | 1283 lines · O segredo do Shabat dos Dez Dias de Teshuvá |
-| ez3oskhk9aA | ✗ will be redone (try 1) | 1 lines missing |
+| ez3oskhk9aA | ✗ will be redone (try 2) | 17 lines missing |
