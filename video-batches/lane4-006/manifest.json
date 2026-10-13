@@ -1,0 +1,254 @@
+{
+ "name": "lane4-006",
+ "lane": 4,
+ "created": "2026-10-13T15:36:08.600Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "IhsGS16sXO8",
+   "title": "A queda de Noach: o que atrai o seu olhar, o problema ou a solução?",
+   "lines": 1374,
+   "parts": 4,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "5BA-XLYABHA",
+   "title": "Shabat Noach, a Shabat geral e a prestação de contas",
+   "lines": 413,
+   "parts": 1,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "MnfcPBJTNzk",
+   "title": "Bereshit: \"bereshit\", Rashi e a criação do mundo",
+   "lines": 1171,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "QNL3vz5Vjy4",
+   "title": "Parashá Nasso e Shavuot: Levitas, Sotá e Nazir",
+   "lines": 1898,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "E39u-ntLCis",
+   "title": "Tefilin: ligar a Torá à oração, mente e coração",
+   "lines": 864,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "u4V9MMnz7MU",
+   "title": "A vergonha da nudez após o pecado de Adam HaRishon",
+   "lines": 1375,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1UutwXq9vD4",
+   "title": "Bilam contra Israel: a força começa nas middot",
+   "lines": 882,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Yq7ee4gNCpw",
+   "title": "O mundo foi criado para você, e você para servi-lo",
+   "lines": 845,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "e83zacKS1Fg",
+   "title": "Amalek, dúvida e a Berit Milá: Beit HaLevi em Beshalach",
+   "lines": 673,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xIMNZixImTA",
+   "title": "Emuná, a Torá como planta do mundo e a bênção da fé",
+   "lines": 908,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5wcLb7uJDj0",
+   "title": "As sete pragas de Vaerá como oficina de trabalho pessoal",
+   "lines": 1060,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "kE4ty09Yb5s",
+   "title": "A recusa de Edom e a jornada até a Redenção",
+   "lines": 1295,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "OV8sU2kKdsQ",
+   "title": "Or HaChaim: toda a criação em uma só fala (Bereshit 1:1)",
+   "lines": 1070,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "UeCNY2plPf4",
+   "title": "Bereshit: a Hakhnaá e a Anavá de Moshé Rabênu",
+   "lines": 1007,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "d0pmT-iH20k",
+   "title": "Parashá Yitro: respeito à mulher e os pilares da fé",
+   "lines": 456,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FCPFHCRjjZE",
+   "title": "Elul: o dom e a guerra interior da alma",
+   "lines": 1313,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ADslkOmGwbY",
+   "title": "Lev yodea mara nafsho: entender o outro e a si mesmo",
+   "lines": 933,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Gvevbcy3dX8",
+   "title": "Nachamu: a dupla consolação de Yeshayahu e Rabi Akiva",
+   "lines": 1052,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "JyH1f4nnLCc",
+   "title": "O mundo como corredor: alegria de viver nas provações",
+   "lines": 948,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "w3pjiZyRvXw",
+   "title": "Haazinu, Shabat Shuvá e a preparação para Yom Kipur",
+   "lines": 451,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "WCj-wsm3HIo",
+   "title": "O blasfemo de Emor e o seu lugar no mundo",
+   "lines": 577,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "82DpxahYbfE",
+   "title": "Parashat Shelach: a crítica que mata a emuná",
+   "lines": 785,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Me9ayiBGLVI",
+   "title": "O Mashiach vai mesmo vir? Balanço da Redenção",
+   "lines": 1063,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "RxutouRnmNg",
+   "title": "Servir HaShem com alegria: Ki Tavo",
+   "lines": 1609,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Iey7YflqTAc",
+   "title": "Vaiakhel-Pekudei: a importância do Shabat e a emuná",
+   "lines": 492,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "IhsGS16sXO8.p0",
+  "IhsGS16sXO8.p1",
+  "IhsGS16sXO8.p2",
+  "IhsGS16sXO8.p3",
+  "5BA-XLYABHA.p0",
+  "MnfcPBJTNzk.p0",
+  "MnfcPBJTNzk.p1",
+  "MnfcPBJTNzk.p2",
+  "QNL3vz5Vjy4.p0",
+  "QNL3vz5Vjy4.p1",
+  "QNL3vz5Vjy4.p2",
+  "QNL3vz5Vjy4.p3",
+  "QNL3vz5Vjy4.p4",
+  "E39u-ntLCis.p0",
+  "E39u-ntLCis.p1",
+  "u4V9MMnz7MU.p0",
+  "u4V9MMnz7MU.p1",
+  "u4V9MMnz7MU.p2",
+  "u4V9MMnz7MU.p3",
+  "1UutwXq9vD4.p0",
+  "1UutwXq9vD4.p1",
+  "Yq7ee4gNCpw.p0",
+  "Yq7ee4gNCpw.p1",
+  "e83zacKS1Fg.p0",
+  "e83zacKS1Fg.p1",
+  "xIMNZixImTA.p0",
+  "xIMNZixImTA.p1",
+  "xIMNZixImTA.p2",
+  "5wcLb7uJDj0.p0",
+  "5wcLb7uJDj0.p1",
+  "5wcLb7uJDj0.p2",
+  "kE4ty09Yb5s.p0",
+  "kE4ty09Yb5s.p1",
+  "kE4ty09Yb5s.p2",
+  "OV8sU2kKdsQ.p0",
+  "OV8sU2kKdsQ.p1",
+  "OV8sU2kKdsQ.p2",
+  "UeCNY2plPf4.p0",
+  "UeCNY2plPf4.p1",
+  "UeCNY2plPf4.p2",
+  "d0pmT-iH20k.p0",
+  "d0pmT-iH20k.p1",
+  "FCPFHCRjjZE.p0",
+  "FCPFHCRjjZE.p1",
+  "FCPFHCRjjZE.p2",
+  "ADslkOmGwbY.p0",
+  "ADslkOmGwbY.p1",
+  "ADslkOmGwbY.p2",
+  "Gvevbcy3dX8.p0",
+  "Gvevbcy3dX8.p1",
+  "Gvevbcy3dX8.p2",
+  "JyH1f4nnLCc.p0",
+  "JyH1f4nnLCc.p1",
+  "JyH1f4nnLCc.p2",
+  "w3pjiZyRvXw.p0",
+  "w3pjiZyRvXw.p1",
+  "WCj-wsm3HIo.p0",
+  "WCj-wsm3HIo.p1",
+  "82DpxahYbfE.p0",
+  "82DpxahYbfE.p1",
+  "Me9ayiBGLVI.p0",
+  "Me9ayiBGLVI.p1",
+  "Me9ayiBGLVI.p2",
+  "RxutouRnmNg.p0",
+  "RxutouRnmNg.p1",
+  "RxutouRnmNg.p2",
+  "RxutouRnmNg.p3",
+  "Iey7YflqTAc.p0",
+  "Iey7YflqTAc.p1"
+ ]
+}

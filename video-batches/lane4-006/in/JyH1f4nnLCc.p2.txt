@@ -1,0 +1,72 @@
+videoId: JyH1f4nnLCc
+parte 3 de 3 · traduzir as linhas 900 a 947 (48 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O mundo como corredor: alegria de viver nas provações
+RESUMO: O rabino Zamir Cohen abre com as provações da vida (middot, mitzvot, shalom bait, dinheiro, saúde) e propõe uma ferramenta: a Mishná em Avot, segundo a qual este mundo é um corredor diante do Mundo Vindouro e o homem deve se preparar no corredor para entrar no salão. Explica as diferenças entre corredor e salão (temporário, estreito, escuro), ensina que o corpo é um instrumento de ginástica da alma, com o Ari z"l e a história do dibuk contada pelo Rav Eliyahu Lapian, e cita Berachot, "tudo o que o Misericordioso faz, faz para o bem", e a parábola do café com leite. Cita Mishlei (sete vezes cai o justo e se levanta; casa dos ímpios e tenda dos justos, com o Gaon de Vilna; "no riso também dói o coração"), Kohelet e a Tosefta sobre a medida boa ser 500 vezes maior, com o exemplo de Avraham e "yukach na meat mayim". Conta a parábola do rei de um ano que construiu uma cidade na ilha, ligada a Mishlei 31 (Eshet Chayil, "e ri do dia final"). Na parte de perguntas, fala de Kidush HaShem no exterior (com a história do vendedor de bilhetes alemão) e, citando o Rambam (Hilchot Deot) e o Talmud Yerushalmi, de por que cuidar da saúde faz parte do serviço a HaShem.
+MOMENTOS: 00:18 As provações da vida e o desejo de manter a alegria · 02:07 A Mishná em Avot: o mundo é um corredor · 04:45 Diferenças entre o corredor e o salão · 07:03 O que é essencial e o que é secundário na vida · 09:38 A história do dibuk: quem morre não muda mais · 13:37 Tudo o que o Misericordioso faz é para o bem · 14:11 A parábola do café com leite · 17:27 Sete vezes cai o justo e se levanta · 21:15 Casa dos ímpios e tenda dos justos (Gaon de Vilna) · 23:52 No riso também dói o coração; o primeiro ano de casamento · 28:36 A medida boa é 500 vezes maior: Avraham e a água · 31:20 A parábola do rei de um ano · 38:50 Eshet Chayil: o justo ri do dia final · 44:17 Kidush HaShem ao viajar ao exterior · 48:41 Cuidar da saúde como serviço a HaShem (Rambam)
+FONTES CITADAS: 02:07 Mishná, Avot 4:16 · 03:34 Ari z"l, Shaar HaGilgulim (introdução) · 08:09 Rav Eliyahu Lapian, Lev Eliyahu · 08:36 Rav Yehuda Petaya, Minchat Yehuda (Ruchot Mesaprot) · 12:46 Kohelet 12:7 · 13:42 Berachot 60b · 17:27 Mishlei 24:16 · 18:58 Kohelet 9:10 · 21:15 Mishlei 14:11 · 22:34 Gaon de Vilna em Mishlei 14:11 · 23:28 Mishlei 14:12 · 23:52 Mishlei 14:13 · 25:19 Devarim 24:5 · 25:50 Rav Dessler · 26:11 Massechet Derech Eretz · 28:07 Mishlei 14:14 · 28:36 Tosefta Sotá 3 · 29:30 Bereshit 18:4 · 29:41 Bava Metzia 86b e Tosefta · 38:50 Mishlei 31:10 · 39:04 Mishlei 31:15 · 39:10 Mishlei 31:25 · 39:28 Rashi em Mishlei · 44:20 Yoma 86a · 43:09 Amos 8:11 · 45:12 Shulchan Arukh, Choshen Mishpat 348 · 47:15 Kohelet 11:1 · 48:41 Rambam, Mishné Torá, Hilchot Deot 4 · 49:40 Talmud Yerushalmi, Avodá Zará
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+888|47:30|הסיפור אמיתי, אבל כך מספרים שהוא אמר וזה
+889|47:33|גרם לו לאהבת ישראל. הוא לא מוכן להטות
+890|47:36|אוזן לאנטישמים שמדברים נגד יהודים כי הוא
+891|47:38|אומר אני הכרתי אותם עוד כשלא הייתי נשיא.
+892|47:41|השכן היהודי שעזר לו, הוא הבין את המשמעות
+893|47:44|של מה שהוא עושה בעתיד, כמה יכול. וכך כל
+894|47:48|אדם שנמצא בין בארץ בין בחוץ לארץ צריך
+895|47:51|לדאוג ששם שמיים מתקדש על ידו.
+896|47:59|טוב, רק לעתכן את הרב שכבר קיבלתי כמה
+897|48:01|פניות. כן. אמנם אזורים קצת רחוקים אבל
+898|48:04|אנחנו עוד א בטח עוד מופטע במקום מיוחד
+899|48:07|בעזרת השם.
+
+LINHAS A TRADUZIR:
+900|48:08|>> אבל לא נהריה. לא לא לא [‏צחוק]
+901|48:12|גם לאט
+902|48:15|שלום שאלה לרב זמיר כהן כבר תקופה ארוכה
+903|48:18|אני מקפיד מאוד על שמירת שבת כשרו תפילות
+904|48:21|וצומות אבל לפעמים פחות מקפיד על בריאות
+905|48:24|הנפש והגוף
+906|48:26|כמו תזונה נכונה פעילות גופנית ושעות שינה
+907|48:30|אשמח לקבל הדרכה האם אורח חיים בריא הוא
+908|48:33|חלק מעבודת השם ומגוע
+909|48:37|>> לשאלה הזו מתייחס הרמבם
+910|48:41|בתחילת הפרקים בספר משנה תורה להרמב"ם
+911|48:45|בספר המדע הלכות דעות יש לו שם פרקים
+912|48:48|שעוסקים בהנהגת הבריאות והוא כותב כך
+913|48:52|הואיל והיות הגוף בריא מדרכי השם יתברך
+914|48:55|הוא מסביר למה הוא הולך לתת לנו הנחיה
+915|48:58|רפואית בספר שעוסק בדברי תורה אבל הוא
+916|49:01|אומר ש שהגוף יהיה בריא זה חלק מעבודת השם
+917|49:07|והוא מסביר כאדם שגופו חולה כי הוא לא שמר
+918|49:11|על הבריאות במקום להיות מרוכז בשיעורי
+919|49:14|תורה בחסד במצוות הוא טרוד ברופאים
+920|49:17|ברפואות בכאבים שוכב במיתה
+921|49:20|הוא לא פנוי לעבודת השם ואם על ידי שלא
+922|49:23|שמר על הבריאות גמר גרם לעצמו לעזוב את
+923|49:26|העולם לפני הזמן כמו שבתלמוד ירושלמי מביא
+924|49:29|הבאנו את זה בתחילת ספר מפתחות לחיים שם
+925|49:32|פרקים על הנהגת הבריאות של הרמבם ועוד אז
+926|49:36|בפרק הראשון הבאתי שם את לשונו של התלמוד
+927|49:40|ירושלמי. זה היה מפתיע לראות את זה.
+928|49:43|בתלמוד ירושלמי אומר שמתוך 100 אנשים
+929|49:47|שמתים,
+930|49:49|הרי אם היינו שואלים אדם שמאמין בבורא
+931|49:51|עולם מתוך 100 שמתו, כמה מתו בזמן שאלוקים
+932|49:54|קבע וכמה לפני הזמן? אדם שמאמין היה אומר
+933|49:57|100 מתוך 100. ככה בפשטות. אבל בתלמוד
+934|50:00|ירושלמי כתוב ש99 מתוך 100 מתים בפשיעה.
+935|50:04|ככה הלשון של הירושלמי. מה זה בפשיעה?
+936|50:07|פשעו בשמירת הבריאות ורק אחד בידי שמיים.
+937|50:11|זאת אומרת מתוך 100 רק אחד מת בתאריך
+938|50:13|שאלוקים קבע לו. השאר מתים כמה שנים לפני
+939|50:16|הזמן כי פשאו בשמירת הבריאות. לכן הרמבם
+940|50:20|שם נותן את כללי הנהגת הבריאות לאכול מה
+941|50:22|שבריא ולא להגזים באכילה ולפנות את הפסולת
+942|50:26|מהגוף ולעשות פעילות גופנית. לא חייב מכון
+943|50:28|כושר אבל לעייף את הגוף, להטריח את הגוף.
+944|50:31|אלה דברים שהם חלק מעבודת השם כמו שכותב
+945|50:35|הרמב"ם. לסיום אנחנו רוצים להודות למשה
+946|50:38|חיים היקר על הין והתרכה [מחיאות כפיים]
+947|50:41|ועל הצלמנים וכל העוזרים לאורך ימים ושנים טובות
