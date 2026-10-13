@@ -1,0 +1,237 @@
+{
+ "name": "lane3-006",
+ "lane": 3,
+ "created": "2026-10-13T05:09:11.940Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "IE1R85-QmhQ",
+   "title": "Mishpatim: dos Nezikin à Redenção, o lobo e Bava Batra",
+   "lines": 1065,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "9xQfzlEGmPU",
+   "title": "Como guardar a santidade do Shabat (Ki Tisa)",
+   "lines": 1008,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "DSmvZL1reks",
+   "title": "Viver a serenidade do Shabat a semana toda",
+   "lines": 515,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ezL86L7pMmM",
+   "title": "Educar com luz, não com avisos: Parashat Emor",
+   "lines": 1061,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "jz0GsqAOeCU",
+   "title": "Dibrê shalom antes da guerra: Moshê e Yehoshua",
+   "lines": 799,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "fgeFKiDfLYY",
+   "title": "Dvarim: da'at Elokim e a Haftará de Hazon",
+   "lines": 1014,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "plF2mVZ_-tg",
+   "title": "Parashá Haazinu: 70 nações e o Medo enviado por HaShem",
+   "lines": 446,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "F3Ge_PFPE38",
+   "title": "Amor a HaShem e o Pele Yoetz: Behaalotcha",
+   "lines": 932,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "bbzw0s8A-Jo",
+   "title": "Rachel e Rabi Akiva: achar a força onde se caiu",
+   "lines": 628,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FrnnnYOqcHE",
+   "title": "Parashat Toldot contada para crianças",
+   "lines": 115,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xKHlXwU8rjo",
+   "title": "Moshê ausente em Tetsavê e a humildade que traz a Torá",
+   "lines": 742,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vct-uflsEgA",
+   "title": "Guarda da língua: chave das salvações, Tazria-Metzora",
+   "lines": 700,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ylBnOt1a1UY",
+   "title": "Sol e Lua: firmeza e renovação no judaísmo",
+   "lines": 594,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rMlH4feHJFk",
+   "title": "Fé nos profetas, Mashiach e os 13 princípios",
+   "lines": 420,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vNKrvSY5ST4",
+   "title": "Ribit: o rigor da proibição de emprestar com juros",
+   "lines": 675,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "sL6wFuoOFt4",
+   "title": "Bikurim: como a Torá ensina a não ser ingrato",
+   "lines": 534,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "57GV1dD4uSo",
+   "title": "Ve'Etchanan: causas do desastre e o mérito da Torá",
+   "lines": 663,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "KPArlvl3TaU",
+   "title": "Parashat Re'eh: escolha, Santuário, shemitá e festas",
+   "lines": 106,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "t2tHTe-swH4",
+   "title": "Fechar o ano: as 98 maldições de Ki Tavô",
+   "lines": 649,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Hm8fk4lF5Cg",
+   "title": "O que é a santidade: \"Kedoshim tihiyu",
+   "lines": 1337,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FMs3m0pferU",
+   "title": "Parashat VaEtchanan: da dor pessoal à missão",
+   "lines": 416,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "mE2zlqNb020",
+   "title": "Parashat Ekev: a Terra de Israel é a terra da emuná",
+   "lines": 510,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "6JiweWUQpxI",
+   "title": "Ben Ish Chai: Halachot de Vayikrá 5 a 9 (ano 2)",
+   "lines": 454,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "s7HyVEmItB4",
+   "title": "O parapeito, a escada e o cão: Parashá Kí Tetsê",
+   "lines": 1167,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "VW-xmMYUd9c",
+   "title": "Os 3 pilares de Pirkei Avot para curar e consolar",
+   "lines": 580,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "IE1R85-QmhQ.p0",
+  "IE1R85-QmhQ.p1",
+  "IE1R85-QmhQ.p2",
+  "9xQfzlEGmPU.p0",
+  "9xQfzlEGmPU.p1",
+  "9xQfzlEGmPU.p2",
+  "DSmvZL1reks.p0",
+  "DSmvZL1reks.p1",
+  "ezL86L7pMmM.p0",
+  "ezL86L7pMmM.p1",
+  "ezL86L7pMmM.p2",
+  "jz0GsqAOeCU.p0",
+  "jz0GsqAOeCU.p1",
+  "fgeFKiDfLYY.p0",
+  "fgeFKiDfLYY.p1",
+  "fgeFKiDfLYY.p2",
+  "plF2mVZ_-tg.p0",
+  "F3Ge_PFPE38.p0",
+  "F3Ge_PFPE38.p1",
+  "F3Ge_PFPE38.p2",
+  "bbzw0s8A-Jo.p0",
+  "bbzw0s8A-Jo.p1",
+  "FrnnnYOqcHE.p0",
+  "xKHlXwU8rjo.p0",
+  "xKHlXwU8rjo.p1",
+  "vct-uflsEgA.p0",
+  "vct-uflsEgA.p1",
+  "ylBnOt1a1UY.p0",
+  "ylBnOt1a1UY.p1",
+  "rMlH4feHJFk.p0",
+  "vNKrvSY5ST4.p0",
+  "vNKrvSY5ST4.p1",
+  "sL6wFuoOFt4.p0",
+  "sL6wFuoOFt4.p1",
+  "57GV1dD4uSo.p0",
+  "57GV1dD4uSo.p1",
+  "KPArlvl3TaU.p0",
+  "t2tHTe-swH4.p0",
+  "t2tHTe-swH4.p1",
+  "Hm8fk4lF5Cg.p0",
+  "Hm8fk4lF5Cg.p1",
+  "Hm8fk4lF5Cg.p2",
+  "FMs3m0pferU.p0",
+  "mE2zlqNb020.p0",
+  "mE2zlqNb020.p1",
+  "6JiweWUQpxI.p0",
+  "6JiweWUQpxI.p1",
+  "s7HyVEmItB4.p0",
+  "s7HyVEmItB4.p1",
+  "s7HyVEmItB4.p2",
+  "VW-xmMYUd9c.p0",
+  "VW-xmMYUd9c.p1"
+ ]
+}

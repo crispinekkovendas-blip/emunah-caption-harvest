@@ -1,0 +1,89 @@
+videoId: DSmvZL1reks
+parte 2 de 2 · traduzir as linhas 450 a 514 (65 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Viver a serenidade do Shabat a semana toda
+RESUMO: O rabino parte do sentimento de pressão e vazio e conta a piada do judeu que mostrou ao médico a perna sadia. Em seguida, a Parashá Pekudei lista as 42 jornadas dos filhos de Israel, e ele pergunta por que a Torá inclui as paradas (chanayot); Rashi sobre Shemot 40:38 diz que o lugar onde acamparam também é chamado jornada, e o Or HaChaim explica que a parada tem uma dimensão espiritual e psicológica de parar e pensar quem sou e qual é minha missão. Essa parada é o Shabat: Rashi em Bereshit 2:2 diz que o mundo carecia de menuchá e que com o Shabat veio a menuchá, ou seja, o Shabat cria serenidade interior e não é só proibição. O Zohar e o Midrash mostram o Shabat como revelação do Kadosh Baruch Hu e como par de Israel, e o Zohar fala do grande amor de HaShem; Shir HaShirim 4:9 com Rashi e o Malbim mostra que HaShem ama Israel mesmo quando um olho olha para o bezerro de ouro, e Nechemia 9:18-21 confirma que a nuvem não saiu do povo. Com a história do baal teshuvá e o Rebe, baseada no Baal Shem Tov e no Admor HaZaken (Shaar HaYichud VeHaEmuná), ele ensina que o mundo é recriado a cada momento, por isso sempre se pode recomeçar. Conclui que o Shabat dá a alma adicional, abençoa os dias da semana e que quem profana o Shabat cria um vazio (chalal) em si.
+MOMENTOS: 00:00 Pressão, vazio e falta de serenidade · 00:42 Piada do judeu e do médico: a perna sadia · 02:03 As 42 jornadas e a Torá como roteiro de vida · 03:52 Pergunta: por que a nuvem também nas paradas (Rashi) · 06:10 Or HaChaim: tempo de parada, física e espiritual · 10:00 O Shabat como a parada semanal · 10:43 Rashi: o mundo carecia de menuchá · 14:09 Zohar: Shabat revela o Kadosh Baruch Hu · 15:10 Midrash: o Shabat e Knesset Israel como par · 16:20 Zohar: o amor imenso de HaShem por Israel · 18:43 Shir HaShirim: lavavtáni, um olho no bezerro · 22:09 Nechemia: a nuvem não saiu nem no bezerro · 23:34 Baal teshuvá e o Rebe: o mundo é recriado a cada momento · 29:45 Shabat dá a alma adicional e abençoa a semana
+FONTES CITADAS: 02:03 Bamidbar 33 · 03:01 Bamidbar 33:1 · 03:52 Shemot 40:38 · 04:42 Rashi em Shemot 40:38 · 06:15 Yirmeyahu 2:2 · 06:28 Or HaChaim em Shemot 40:38 · 10:34 Bereshit 2:2 · 10:43 Rashi em Bereshit 2:2 · 14:09 Zohar · 14:21 Beitzá 16a · 15:10 Midrash sobre o Shabat e Knesset Israel · 15:42 Shemot 20:8 · 16:25 Zohar II · 16:49 Devarim 14:1 · 18:13 Malaquias 1:2 · 18:43 Shir HaShirim 4:9 · 18:54 Rashi em Shir HaShirim 4:9 · 19:06 Malbim em Shir HaShirim 4:9 · 19:26 Midrash citado nos livros · 21:13 Midrash e Gemará · 21:27 Shabat 88b · 22:09 Nechemia 9:18-21 · 24:34 Baal Shem Tov, via Admor HaZaken, Shaar HaYichud VeHaEmuná · 24:53 Sidur, Yotzer Or · 27:04 Ensino do Rebe de Lubavitch · 28:29 Ensino do Rav Botman · 29:45 Rashi em Bereshit 2:2 · 31:11 Rambam, Hilchot Shabat · 31:53 Zohar · 32:55 Midrash
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+438|28:09|עוד לא היה העולם הזה הרגע הזה לא היה
+439|28:12|הרגע הזה שאנחנו מקשיבים פה לשיעור לא היה
+440|28:16|אף פעם עכשיו אני יכול ליצוא דבר
+441|28:19|חדש וזה הרגיע את אותו בעל
+442|28:22|תשובה זה נתן לו השראה עצומה
+443|28:29|ואמר לי הרב בוטמן אולי זה הפירוש המחדש
+444|28:33|בטובו בכל יום תמיד מה זה בטובו מה זה
+445|28:38|בטובו השם הוא טוב הוא מחדש את העולם כל
+446|28:43|רגע בשלה למה שהוא טוב לתת לנו את ההרגשה
+447|28:48|הטובה לכן זה כל כך מרגש לראות שגם בזמנים
+448|28:54|שעם ישראל היו במצב הכי נמוך והכי
+449|28:58|שפל גם שם הקדוש ברוך הוא איתם הענן תמיד
+
+LINHAS A TRADUZIR:
+450|29:04|איתם האם הקרה הזאת לא חייבת לשנות אצלנו
+451|29:10|משהו לשנות את המודעות שלנו מי אנחנו מה
+452|29:14|הערך שלנו כמה משמעות יש לחיים
+453|29:19|שלנו כמה משמעות יש ליהודי שבנו הזכות
+454|29:24|הנפלאה שנולדנו
+455|29:25|יהודים האם זה לא צריך לתת לנו שלווה
+456|29:29|עצומה כמו שאותו הבייבי שהאבא והאמא
+457|29:33|מחזיקים אותו על
+458|29:35|הידיים איזה שלוות נפש הוא מרגיש כל הזמן
+459|29:39|את היד של האבא ושל
+460|29:41|האמא מתי הגילוי הזה מגיע
+461|29:45|בשבת זה מה שכתוב העולם היה חסר מה היה
+462|29:48|חסר היה חסר את המנוחה את השלווה את
+463|29:51|המודעות מי אני מי אני תפסיק את המסע שלך
+464|29:57|עכשיו הולכים
+465|29:59|לחנות לכן שבת זה לא רק יום חופשה שבת זה
+466|30:04|הזמן שאני מקבל את הנשמה היתרה שבת זה
+467|30:07|הזמן שאני צריך להרגיש את החיבוק של הקדוש
+468|30:11|ברוך הוא אית שבת זה הזמן שאני פתאום
+469|30:15|מתבונן מי
+470|30:17|אני אני חונה לחזור
+471|30:21|לעצמי אנחנו כולנו מכירים
+472|30:25|שיש ב מלחמות של אז היו או דרך חרבות או
+473|30:31|דרך חץ
+474|30:33|וקשר שכתוב בחסידות
+475|30:36|מההסבר החץ מגיע רחוק רחוק החרב זה רק
+476|30:41|שהאויב
+477|30:42|מולך אבל בשביל שהחץ יהיה רחוק אתה צריך
+478|30:46|למתוח אותו
+479|30:48|אליך אדם רוצה עוצמה אתה רוצה ללכת רחוק
+480|30:53|אתה צריך לגלות מי אתה ריבונו של עולם
+481|30:57|לחפור בנפש מודעות מי אתה ריבונו של עולם
+482|31:01|אתה בן של הקדוש ברוך הוא לכן אנחנו
+483|31:04|אומרים דבר נורא מעניין על מי שלא שומר
+484|31:08|שבת אנחנו קוראים לו מחלל
+485|31:11|שבת למה מי שלא מניח תפילין לא אומרים לו
+486|31:14|מחלל
+487|31:15|תפילין מה העניין של מחלל
+488|31:19|שבת הפשט הפשוט שהוא עושה מהשבת חול אז
+489|31:23|הוא מחלל בלשון חול יש כאן עוד משהו כמו
+490|31:27|שאמרנו השבת היא מביאה קדושה לעולם קדושה
+491|31:30|לכל
+492|31:32|יהודי ה היא ממלאת אותך במודעות של החיבוק
+493|31:36|של הקדוש ברוך הוא שהקדוש ברוך הוא איתך
+494|31:40|וברגע שאתה מחלל את השבת אתה עושה אצלך
+495|31:45|חלל אתה מרגיש חלל אתה לא מרגיש מי אתה
+496|31:49|ומה אתה ולכן אומר הזוהר הקדוש שמה
+497|31:53|השבת מתברכים כל הימים של השבוע
+498|31:57|לכן אנחנו אומרים היום יום ראשון בשבת
+499|32:01|היום יום שני בשבת היום שלישי בשבת מה מה
+500|32:04|מה זה הסיפור היום ראשון כל יום מקבל את
+501|32:07|העוצמה
+502|32:09|מהשבת כמו בחניה הפיזית שבן אדם חונה ונח
+503|32:13|ומקבל את הכוחות להמשיך הלאה החניה
+504|32:18|הרוחנית הזאת הנפשית הזאת של שבת או החניה
+505|32:23|הנפשית שבן אדם חונה לעצמו אוצרת
+506|32:27|ומתחיל להזדהות עם המהות שלו מי אתה משם
+507|32:31|אתה מקבל כוח להמשיך הלאה היום יום ראשון
+508|32:35|מאיפה אני מקבל בשבת
+509|32:37|מהשבת וזה נותן לנו את היציבות ואת העוצמה
+510|32:40|שלנו בחיי היומיום אנחנו יודעים שהמדרש
+511|32:44|אומר שבזכות שמירת שבת יגלו עם ישראל אז
+512|32:50|אם רצ השם נזכה בקרוב ממש לביאת משיח
+513|32:55|צדקנו ונזכה לעמוד עם משיח באהבה ובדבקות
+514|33:01|ובשמחה רבה
