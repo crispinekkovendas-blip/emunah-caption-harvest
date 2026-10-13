@@ -2,7 +2,7 @@
  "name": "lane2-005",
  "lane": 2,
  "created": "2026-10-12T20:17:51.534Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "06oiIlfmjBg",
@@ -247,5 +247,34 @@
   "mrHVJa6K3SA.p0",
   "mrHVJa6K3SA.p1",
   "mrHVJa6K3SA.p2"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "06oiIlfmjBg",
+  "YGusZ6U1V0E",
+  "63ybgCSSvxg",
+  "yMEKw9L6Wsg",
+  "lFnRA8OZ-Kk",
+  "UE2SUJyVRIY",
+  "O8NHjFLDN84",
+  "hjngNMA3J_4",
+  "w7SdOQPITUo",
+  "a3dNlAWKqTg",
+  "TnZ13_Kio7U",
+  "_v9u2QZ7sdM",
+  "_hQ4F8TKO4k",
+  "ok-VGzZgyDk",
+  "Unkviv1PkQI",
+  "z7AR1vA1ANA",
+  "uuwYFTEhQkY",
+  "IcqHMfrisdw",
+  "fJBRT_Jcwlk",
+  "1whe8v0U5KY",
+  "Kxv_EfDNbnE",
+  "ypmTjmCCHoM",
+  "L8r2XZMo5Uo",
+  "pRUckW5gr6w",
+  "mrHVJa6K3SA"
+ ],
+ "skipped": []
 }
