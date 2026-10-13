@@ -1,0 +1,450 @@
+0	Good evening to the whole holy congregation.	Boa noite a toda a santa congregação.
+1	Can you hear well enough, right?	Dá para ouvir bem, certo?
+2	The holy city of Ramla, may it be built and established. Can you hear?	A cidade santa de Ramla, que seja construída e firmada. Estão ouvindo?
+3	Okay? Tell me.	Certo? Me diga.
+4	>> Maybe I have a problem with my ears.	>> Talvez eu tenha um problema nos ouvidos.
+5	>> No, no, something is a bit off, so call the Rabbi,	>> Não, não, algo está um pouco estranho, então chame o rabino,
+6	tell him that maybe it needs to be limited a bit.	diga a ele que talvez precise limitar um pouco.
+7	Friday night, Parashat Balak	Noite de sexta-feira, Parashá Balak
+8	A bit, that strengthens my confidence.	Um pouco, isso me dá mais segurança.
+9	>> It strengthens my confidence a bit, give me a little more volume.	>> Isso me dá mais segurança, me dê um pouco mais de volume.
+10	The year 5786	O ano de 5786
+11	Summer time, or or	Horário de verão, ou ou
+12	Exactly, summer time, the time is	Exatamente, horário de verão, a hora é
+13	seven minutes to nine, right? >> Yes	nove menos sete, certo? >> Sim
+14	Right. >> Fine.	Certo. >> Tudo bem.
+15	Chumash	Chumash
+16	There is a Chumash.	Tem um Chumash.
+17	Just to read a verse here	Só para ler um versículo aqui
+18	Good evening, Balak >> I said Parashat Balak	Boa noite, Balak >> Eu disse Parashat Balak
+19	…	…
+20	Bilam	Bilam
+21	and Balak, a perfect pair.	e Balak, uma dupla perfeita.
+22	The parashah is called Parashat Balak, but Balak has a partner.	A parashá se chama Parashat Balak, mas Balak tem um parceiro.
+23	His name is Bilam.	O nome dele é Bilam.
+24	And these two guys try to do	E esses dois tentam fazer
+25	what no one has done to the people of Israel: to destroy	o que ninguém fez ao povo de Israel: destruí-los.
+26	them. "And now, come, curse this people for me."	"E agora, vem, amaldiçoa para mim este povo."
+27	Bilam goes on his way after the Holy One, blessed be He, tried	Bilam segue o seu caminho depois que o Santo, bendito seja, tentou
+28	to tell him not to go, and he goes anyway. [snorts]	dizer-lhe que não fosse, e ele vai assim mesmo. [bufa]
+29	It is written there three times:	Está escrito ali, três vezes:
+30	on the way he had delays.	no caminho ele teve atrasos.
+31	"And the angel of HaShem stood in the way as an adversary against him, and he was	"E o anjo de HaShem se pôs no caminho como adversário dele, e ele estava
+32	riding on his donkey, and the donkey saw the angel of HaShem	montado na sua jumenta, e a jumenta viu o anjo de HaShem
+33	standing in the way with his sword drawn in his hand." Thank you, thank you.	parado no caminho com a espada desembainhada na mão." Obrigado, obrigado.
+34	What caring!	Que preocupação!
+35	"And the donkey turned aside from the way	"E a jumenta se desviou do caminho
+36	and went into the field, and Bilam struck the donkey."	e foi pelo campo, e Bilam bateu na jumenta."
+37	The second time: "And the angel of HaShem stood in a path between the vineyards,	A segunda vez: "E o anjo de HaShem parou numa vereda entre as vinhas,
+38	a fence on this side and a fence on that side." And the donkey saw the angel of HaShem	com um muro de um lado e um muro do outro." E a jumenta viu o anjo de HaShem
+39	"and pressed herself against the wall, and she pressed Bilam's foot against the wall,	"e se apertou contra o muro, e apertou o pé de Bilam contra o muro,
+40	and he struck her again." The third time: "And the angel of HaShem went further	e ele voltou a bater nela." A terceira vez: "E o anjo de HaShem passou adiante
+41	and stood in a narrow place where there was no way to turn to the right	e parou num lugar estreito onde não havia como se desviar para a direita
+42	or the left." "And the donkey saw the angel of HaShem and lay down under	nem para a esquerda." "E a jumenta viu o anjo de HaShem e se deitou debaixo
+43	Bilam, and Bilam's anger flared, and he struck the donkey with a staff."	de Bilam, e a ira de Bilam se acendeu, e ele bateu na jumenta com o cajado."
+44	Three times.	Três vezes.
+45	And then a miracle happens. A miracle, an enormous wonder, one-time	E então acontece um milagre. Um milagre, uma maravilha enorme, única
+46	in history.	na história.
+47	"And HaShem opened the mouth of the donkey, and she said to Bilam: What have I done	"E HaShem abriu a boca da jumenta, e ela disse a Bilam: Que te fiz
+48	to you that you have struck me these three times (regalim)?"	para que me tenhas batido estas três vezes (regalim)?"
+49	Three times you hit me, what did I do to you?	Três vezes você me bate, o que eu te fiz?
+50	Rashi says: she hinted to him.	Diz Rashi: ela lhe fez uma alusão.
+51	What is "these three regalim"? She hinted to him. There is a	O que é "estas três regalim"? Ela lhe fez uma alusão. Há aqui uma
+52	hint here. The donkey	alusão. A jumenta
+53	hints to Bilam:	alude a Bilam:
+54	>> "You seek to uproot a nation that celebrates three festivals	>> "Você quer arrancar uma nação que celebra três festas
+55	a year."	por ano."
+56	"That you have struck me these three regalim": three festivals, you	"Que me bateste estas três regalim": três festas, você
+57	want to uproot a nation	quer arrancar uma nação
+58	that celebrates	que celebra
+59	three festivals a year.	três festas por ano.
+60	So "three regalim" is a hint to the three festivals	Então "três regalim" é uma alusão às três festas
+61	that we celebrate.	que nós celebramos.
+62	First question.	Primeira pergunta.
+63	[clears throat]	[pigarreia]
+64	What is the wording in Rashi? "You seek to uproot	Qual é a expressão no Rashi? "Você quer arrancar
+65	a nation	uma nação
+66	that celebrates three festivals"?	que celebra três festas"?
+67	What is "uproot"? How did Bilam plan to do	O que é "arrancar"? Como Bilam planejava fazer
+68	this? How would he do it? It is written that he	isso? Como ele faria? Está escrito que ele
+69	knew how to time the moment when HaShem is angry.	sabia determinar o momento em que HaShem se irrita.
+70	And how long is the anger of the Holy One, blessed be He? A moment. HaShem	E quanto dura a ira do Santo, bendito seja? Um instante. HaShem
+71	is angry only a moment. One second. What could Bilam	se irrita só um instante. Um segundo. O que Bilam poderia
+72	do in that one second? Say one word. "Kalem" (destroy them).	fazer nesse segundo? Dizer uma palavra. "Kalem" (aniquila-os).
+73	So what can you do? Finish them off with	Então o que dá para fazer? Acabar com eles com
+74	the word "kalem". So he should have said	a palavra "kalem". Então deveria ter dito
+75	in Rashi:	no Rashi:
+76	you seek to destroy	você quer aniquilar
+77	a nation that celebrates three festivals a year. Destroy! Rashi	uma nação que celebra três festas por ano. Aniquilar! O Rashi
+78	does not say "destroy."	não diz "aniquilar".
+79	Rashi says: "You seek to uproot."	O Rashi diz: "Você quer arrancar."
+80	Why doesn't Rashi use the original	Por que o Rashi não usa a expressão
+81	wording, "kalem"? So "you seek to destroy"	original, "kalem"? Então "você quer aniquilar"
+82	and who celebrates three festivals? First question.	e quem celebra três festas? Primeira pergunta.
+83	Another question:	Outra pergunta:
+84	why does the donkey specifically pick	por que a jumenta escolhe justamente
+85	this mitzvah, the three festivals?	essa mitsvá, as três festas?
+86	Because three times he got signs and ignored them	Porque três vezes ele recebeu sinais e os descartou
+87	so as not to do it.	para não fazer isso.
+88	>> A delight.	>> Um prazer.
+89	>> And there's more to come.	>> E ainda vem mais.
+90	>> Why specifically this mitzvah? Why didn't she say	>> Por que justamente essa mitsvá? Por que ela não disse
+91	to him: you seek to uproot a nation that celebrates Shabbat,	a ele: você quer arrancar uma nação que celebra o Shabat,
+92	that puts on tefillin? Why? Why did the donkey seize	que põe tefilin? Por quê? Por que a jumenta se agarrou
+93	on this mitzvah called the three regalim? The people	a essa mitsvá chamada as três regalim? O povo
+94	of Israel has 613 mitzvot, not only going up	de Israel tem 613 mitsvot, não só a subida
+95	to Jerusalem three times. Why the donkey? "You seek	a Jerusalém três vezes. Por que a jumenta? "Você quer
+96	to uproot a nation	arrancar uma nação
+97	that celebrates three festivals a year."	que celebra três festas por ano."
+98	One more thing.	Mais uma coisa.
+99	What is "a nation that celebrates"	O que é "uma nação que celebra"
+100	three festivals, and not "a nation that keeps	três festas, e não "uma nação que cumpre
+101	three festivals"? Celebrates.	três festas"? Celebra.
+102	Celebrates.	Celebra.
+103	>> Again.	>> De novo.
+104	>> Why specifically a nation that keeps three festivals? Where	>> Por que justamente uma nação que cumpre três festas? Onde
+105	do you have this? You don't have it, right? Why are you doing it? Why	você tem isso? Você não tem, certo? Por que você faz isso? Por que
+106	do you want to uproot them?	você quer arrancá-los?
+107	Good. That's it for now.	Muito bem. Até aqui.
+108	There is a Mishnah in Tractate Avot.	Há uma Mishná no tratado de Avot.
+109	What is the difference between the disciples of Avraham Avinu and the disciples	Qual é a diferença entre os discípulos de Avraham Avinu e os discípulos
+110	of Bilam the wicked?	de Bilam, o perverso?
+111	The disciples of Avraham Avinu: a good eye,	Os discípulos de Avraham Avinu: olho bom,
+112	a humble spirit	espírito humilde
+113	>> and a modest soul.	>> e alma modesta.
+114	The disciples of Bilam the wicked:	Os discípulos de Bilam, o perverso:
+115	>> an evil eye, a haughty spirit	>> olho mau, espírito altivo
+116	>> and a broad soul.	>> e alma ampla.
+117	Yes, there's a question: what is the difference between the disciples of Avraham Avinu	Sim, há uma pergunta: qual é a diferença entre os discípulos de Avraham Avinu
+118	and the disciples of Bilam the wicked? What is the	e os discípulos de Bilam, o perverso? Qual é a
+119	difference? I didn't understand, do you even have a question? If they ask	diferença? Não entendi, você tem mesmo uma pergunta? Se te perguntarem
+120	you what the difference is between a religious	qual é a diferença entre um rapaz
+121	guy and Hezbollah >> [laughter]	religioso e o Hezbollah >> [risos]
+122	>> what will you answer?	>> o que você vai responder?
+123	Get out of here. That's not a question.	Some daqui. Isso não é uma pergunta.
+124	That's not a question.	Isso não é uma pergunta.
+125	This one is out to carry out attacks. He's a wild beast,	Este quer fazer atentados. É uma fera,
+126	a suicide bomber, Hezbollah.	um homem-bomba, Hezbollah.
+127	And this is a refined, noble, sweet guy.	E este é um rapaz refinado, nobre, doce.
+128	No. What is this? What is the difference between the disciples of Avraham Avinu	Não. O que é isso? Qual é a diferença entre os discípulos de Avraham Avinu
+129	and the disciples of Bilam? Obviously a difference. These are human beings,	e os discípulos de Bilam? Obviamente há diferença. Estes são seres humanos,
+130	those are animals.	aqueles são animais.
+131	No, I didn't understand the question. I didn't understand	Não, não entendi a pergunta. Não entendi
+132	the answer.	a resposta.
+133	This one is a good eye and that one is an evil eye. I didn't understand. So if	Este é olho bom e aquele é olho mau. Não entendi. Então se
+134	that's the answer, then what did you ask?	essa é a resposta, o que você perguntou?
+135	You know what you answered? Avraham's disciples, Avraham	Sabe o que você respondeu? Os discípulos de Avraham, de Avraham
+136	Avinu's, how lovely, how sweet,	Avinu, que lindo, que doce,
+137	what a righteous kid, what a beautiful life. And Bilam's	que menino justo, que vida bonita. E os de
+138	disciples are an evil eye, a bad life, laziness,	Bilam são olho mau, vida ruim, preguiça,
+139	nothing good. So if that's the answer, then what	nada de bom. Então se essa é a resposta, o que
+140	did you ask? Here, you said the answer.	você perguntou? Pronto, você mesmo disse a resposta.
+141	Didn't you know that before?	Você não sabia isso antes?
+142	What confused you?	O que te confundiu?
+143	Maybe I'll also ask what is the difference between day and night?	Quem sabe eu também pergunte qual é a diferença entre o dia e a noite?
+144	By day there is light, at night darkness. Really? Come on. So	De dia há luz, de noite escuridão. Sério? Ora, vamos. Então
+145	if that's the answer, then what did you ask?	se essa é a resposta, o que você perguntou?
+146	If the answer is that the disciples of Avraham Avinu have a good eye,	Se a resposta é que os discípulos de Avraham Avinu têm olho bom,
+147	they see everything positively, life is positive,	veem tudo de forma positiva, a vida é positiva,
+148	everything is good, then everything is good. And those tell you evil	tudo é bom, então tudo é bom. E aqueles te dizem olho
+149	eye, everything is bad. So what did you ask?	mau, tudo é ruim. Então o que você perguntou?
+150	Here's the answer, a simple answer: this one tells you everything is	Aí está a resposta, uma resposta simples: este te diz que tudo é
+151	good, he's an optimist, and that one is a pessimist.	bom, ele é otimista, e aquele é pessimista.
+152	Understood?	Entendido?
+153	Not so understood, but >> No, it's a rhetorical question, there's a simple answer, so what	Não muito entendido, mas >> Não, é uma pergunta retórica, há uma resposta simples, então o que
+154	did you ask? >> Yes.	você perguntou? >> Sim.
+155	Good, so with HaShem's help, today we want to talk	Muito bem, então com a ajuda de HaShem, hoje queremos falar
+156	a little about this subject called Balak	um pouco sobre este tema chamado Balak
+157	Bilam, with	Bilam, com
+158	to talk a little about what it is, who it is. Welcome, what	falar um pouco sobre o que é, quem é. Bem-vindos, que
+159	a privilege.	privilégio.
+160	Let's try to get a little into the subject,	Vamos tentar entrar um pouco no assunto,
+161	to get a little into the matter.	entrar um pouco na questão.
+162	The evil eye of Bilam.	O olho mau de Bilam.
+163	He wants to swallow a nation, Bil'am, "bala am."	Ele quer engolir um povo, Bil'am, "bala am".
+164	What is his point?	Qual é o ponto dele?
+165	Evil eye, evil eye means	Olho mau, olho mau significa
+166	that I come to a person and start giving him a speech, telling	que eu chego a uma pessoa e começo a fazer um discurso, dizendo
+167	him: you are bad.	a ela: você é mau.
+168	You're bad, you're bad, your wife is bad,	Você é mau, você é mau, sua mulher é má,
+169	life is bad,	a vida é ruim,
+170	your job is bad,	o seu trabalho é ruim,
+171	bad, bad, bad. That's it. Evil eye means	ruim, ruim, ruim. Só isso. Olho mau significa
+172	that I show a person... Bilam has the ability	que eu mostro a uma pessoa... Bilam tem a capacidade
+173	to take any person, any	de pegar qualquer pessoa, qualquer
+174	situation, and show you; he knows	situação, e te mostrar; ele sabe
+175	how to seize a situation: pay attention, it's very serious that you are in	pegar uma situação: repare, é gravíssimo que você esteja
+176	such a job.	num trabalho desses.
+177	You fell into a trap with your wife, you fell into a trap, sir, she ate	Você caiu numa armadilha com a sua mulher, caiu numa armadilha, senhor, ela te devorou,
+178	you up, you're	você está
+179	finished.	acabado.
+180	To the wife he says: this husband	À mulher ele diz: esse marido
+181	is a poor thing, a nobody, look at him. [laughter]	é um coitado, um zero à esquerda, olhe só para ele. [risos]
+182	That's not a man, that's a wimp.	Isso não é homem, é um molenga.
+183	That's Bilam, Bilam.	Isso é Bilam, Bilam.
+184	It's taking any situation in the world, because there is no perfection,	É pegar qualquer situação no mundo, porque não existe perfeição,
+185	and grabbing the weak part of the picture	e agarrar a parte fraca do quadro
+186	and enlarging it for you with a magnifying glass.	e ampliá-la para você com uma lupa.
+187	That's Bilam.	Isso é Bilam.
+188	This isn't from today, it's from long ago: Bilam, adviser to	Isso não é de hoje, é de muito tempo atrás: Bilam, conselheiro de
+189	Pharaoh.	Faraó.
+190	About Pharaoh it is written, "Come, let us deal wisely with him, lest he multiply."	Sobre Faraó está escrito: "Vem, ajamos sabiamente com ele, para que não se multiplique."
+191	What is "Hava nitchakma lo"? It is written there, "And the Egyptians did us evil	O que é "Hava nitchakma lo"? Está escrito ali: "E os egípcios nos fizeram mal
+192	and afflicted us."	e nos afligiram."
+193	What is "vayare'u otanu"?	O que é "vayare'u otanu"?
+194	It should have been written "vayare'u	Deveria estar escrito "vayare'u
+195	lanu." What is "otanu"? The commentators say "otanu":	lanu". O que é "otanu"? Dizem os comentaristas "otanu":
+196	they made us bad. The Egyptians would tell the people of Israel	eles nos fizeram maus. Os egípcios diziam ao povo de Israel
+197	day and night: you are a bad people. You Jews are crooks,	dia e noite: vocês são um povo mau. Vocês, judeus, são vigaristas,
+198	frauds, satans. You are the emissaries of the Satan. Every	trapaceiros, satãs. Vocês são os emissários do Satã. Todo
+199	Jew grows a tail behind, like the monkeys.	judeu tem um rabo crescendo atrás, como os macacos.
+200	That was the Egyptians' message. You are a disgusting people, and this	Essa era a mensagem dos egípcios. Vocês são um povo repugnante, e isso
+201	caused "vayare'u otanu": when a person keeps drilling it into you	causou "vayare'u otanu": quando alguém fica martelando em você
+202	24/7 that you are bad, you are disgusting, you are wicked, then wow,	24 horas por dia que você é mau, repugnante, perverso, então, uau,
+203	wow, slowly you start to believe it.	uau, aos poucos você passa a acreditar.
+204	When you hear for 24 hours that you are bad and life is bad	Quando você ouve 24 horas que você é mau e a vida é ruim
+205	and everything is rotten, then you accept it and you	e tudo está péssimo, então você aceita e você
+206	really become like that, and you go along with it until it	realmente fica assim, e vai com isso até que
+207	gets into your brain, and from the brain to the heart, and from the heart to the flesh. That's it.	entra no seu cérebro, e do cérebro ao coração, e do coração à carne. Pronto.
+208	That's why 80, 90 percent of the people of Israel did not leave Egypt. No	Por isso 80, 90 por cento do povo de Israel não saiu do Egito. Não
+209	chance.	havia chance.
+210	Nowhere to go. Where will you go? To the abyss?	Não há para onde ir. Para onde você vai? Para o abismo?
+211	Let's stay here, anyway we're finished, despair, despair,	Vamos ficar aqui, de qualquer jeito estamos acabados, desespero, desespero,
+212	total despair. They pushed it into our brains. That is, all of us	desespero total. Enfiaram isso na nossa cabeça. Ou seja, todos nós
+213	say that the wicked did not leave with Israel,	dizemos que os perversos não saíram com Israel,
+214	they died during the three days of the plague of darkness. Of the wicked	morreram nos três dias da praga da escuridão. Dos perversos
+215	only a fifth left, four fifths died, four	só um quinto saiu, quatro quintos morreram, quatro
+216	fifths were wicked.	quintos eram perversos.
+217	You need to understand that it isn't certain that if we	Vocês precisam entender que não é certo que, se nós
+218	had been in Egypt, we would have been among the fifth	estivéssemos no Egito, estaríamos entre o quinto
+219	that left, because of the despair,	que saiu, por causa do desespero,
+220	the bad depression.	da depressão ruim.
+221	Who is the clever one	Quem foi o esperto
+222	who told Pharaoh this method? Who was	que contou a Faraó esse método? Quem era
+223	among Pharaoh's advisers who stayed there? Iyov was silent,	dos conselheiros de Faraó que ficou ali? Iyov se calou,
+224	Yitro fled. Who was the adviser who remained in the end? Bilam. So	Yitro fugiu. Quem foi o conselheiro que restou no fim? Bilam. Então
+225	who brought the plan "Hava nitchakma lo"? How	quem trouxe o plano "Hava nitchakma lo"? Como
+226	shall we be wise? By telling them you are bad, you are	seremos sábios? Dizendo a eles que são maus, que são
+227	bad, we'll make them bad, it's over for them.	maus, vamos torná-los maus, acabou para eles.
+228	It's called brainwashing.	Isso se chama lavagem cerebral.
+229	The "hava nitchakma." We'll wash their brains, we'll be wise,	O "hava nitchakma". Vamos lavar o cérebro deles, ser sábios,
+230	we'll treat them through the mind, we'll treat their very being.	vamos tratá-los pela mente, tratar o próprio ser deles.
+231	Who suggested this to Pharaoh? Bilam. What is	Quem sugeriu isso a Faraó? Bilam. O que é
+232	Bilam? The evil eye is Bilam.	Bilam? O olho mau é Bilam.
+233	And so Pharaoh is a "bad mouth."	E por isso Faraó é uma "boca má".
+234	He spends all day telling you that you are bad. But the adviser	Passa o dia todo te dizendo que você é mau. Mas o conselheiro
+235	who stands behind Pharaoh?	que está atrás de Faraó?
+236	The prime minister has advisers,	O primeiro-ministro tem conselheiros,
+237	and they tell him what to say and what to do.	e eles dizem a ele o que falar e o que fazer.
+238	So Pharaoh has advisers. Who is the chief adviser? Bilam.	Então Faraó tem conselheiros. Quem é o conselheiro-chefe? Bilam.
+239	So Bilam's evil eye was not born now in Parashat	Então o olho mau de Bilam não nasceu agora na Parashat
+240	Balak, it goes back to Egypt. We know	Balak, vem desde o Egito. Nós conhecemos
+241	his technique.	a técnica dele.
+242	Wow, wow, wow.	Uau, uau, uau.
+243	What is the difference between the disciples of Avraham Avinu	Qual é a diferença entre os discípulos de Avraham Avinu
+244	and the disciples of Bilam?	e os discípulos de Bilam?
+245	And what does Avraham Avinu say?	E o que diz Avraham Avinu?
+246	Avraham Avinu says,	Avraham Avinu diz,
+247	my brother,	meu irmão,
+248	my dear brother,	meu querido irmão,
+249	"and I am dust and ashes."	"e eu sou pó e cinza."
+250	What are we?	O que somos nós?
+251	What? Come on, it sounds the same.	O quê? Ora, parece a mesma coisa.
+252	David HaMelech says, "I am a worm and not a man, a disgrace of men	David HaMelech diz: "Eu sou um verme e não um homem, opróbrio dos homens
+253	and despised by the people."	e desprezado pelo povo."
+254	Wow.	Uau.
+255	Listen, that's exactly what Bilam says, that we are nothing	Escute, é exatamente o que Bilam diz, que somos nada
+256	and we are bad and we are zero.	e somos maus e somos zero.
+257	And that's how he broke us. The Mishnah asks, what is the difference between	E foi assim que ele nos quebrou. A Mishná pergunta: qual é a diferença entre
+258	the disciples of Avraham and the disciples of Bilam? Bilam	os discípulos de Avraham e os discípulos de Bilam? Bilam
+259	tells you that you are bad.	te diz que você é mau.
+260	And Avraham Avinu also tells you that you are dust and ashes,	E Avraham Avinu também te diz que você é pó e cinza,
+261	a worm and not a man. Moshe Rabbeinu also said, "we are nothing,"	um verme e não um homem. Moshe Rabbeinu também disse: "nós somos nada,"
+262	"venachnu mah." I am nothing, we are nothing, so what is the difference?	"venachnu mah". Eu sou nada, nós somos nada, então qual é a diferença?
+263	What is the difference? It sounds to me like the same sounds.	Qual é a diferença? Para mim soa como os mesmos sons.
+264	This one says bad, that one says I am dust and ashes. Come on,	Este diz mau, aquele diz que sou pó e cinza. Ora,
+265	you're the same. What is the difference between the disciples of Avraham	vocês são iguais. Qual é a diferença entre os discípulos de Avraham
+266	and the disciples of Bilam? Now do you understand the question? Question.	e os discípulos de Bilam? Agora vocês entenderam a pergunta? Pergunta.
+267	>> Humility and pride.	>> Humildade e orgulho.
+268	>> A delight.	>> Um prazer.
+269	>> Wow, wow, wow, gentlemen.	>> Uau, uau, uau, senhores.
+270	>> We are small in our own eyes still >> Very nice. [laughter]	>> Nós ainda nos diminuímos >> Muito bom. [risos]
+271	>> Nothing, ah.	>> Nada, ah.
+272	>> Wonderful, wonderful, you can see the lessons are taking root.	>> Maravilhoso, maravilhoso, dá para ver que as aulas estão criando raízes.
+273	>> Taking >> [laughter]	>> Criando >> [risos]
+274	>> Blessed are You, Adonai Elokeinu, King of the universe, by Whose word everything came to be. >> Amen.	>> Bendito és Tu, Adonai Elokeinu, Rei do universo, por cuja palavra tudo veio a existir. >> Amen.
+275	The question screams.	A pergunta grita.
+276	The question screams.	A pergunta grita.
+277	Because Avraham Avinu, if you spoke with him, if you	Porque Avraham Avinu, se você falasse com ele, se você
+278	spoke with Moshe Rabbeinu, he would tell you the same words.	falasse com Moshe Rabbeinu, ele te diria as mesmas palavras.
+279	Here we already see	Aqui já se vê
+280	that	que
+281	it's not like people speak today.	não é como as pessoas falam hoje.
+282	People today speak in the name of faith: everything is good,	As pessoas hoje falam em nome da fé: tudo é bom,
+283	everything is beautiful, everything is rosy.	tudo é lindo, tudo é cor-de-rosa.
+284	If that's how people of faith spoke, there would be no question,	Se os homens de fé falassem assim, não haveria pergunta:
+285	what is the difference between the disciples of Avraham and the disciples of	qual é a diferença entre os discípulos de Avraham e os discípulos de
+286	Bilam.	Bilam.
+287	What don't you understand about the difference? Those say life is tasty,	O que você não entende da diferença? Aqueles dizem que a vida é gostosa,
+288	everything is tasty, everything is honey, sweet, sweet,	tudo é gostoso, tudo é mel, doce, doce,
+289	and those tell you everything is rotten.	e estes te dizem que tudo está péssimo.
+290	What are you asking, what is the difference between the disciples	O que você está perguntando, qual é a diferença entre os discípulos?
+291	What's unclear? This one tells you life is honey and that one tells you	O que não está claro? Este te diz que a vida é mel e aquele te diz
+292	life is a bitter onion.	que a vida é uma cebola amarga.
+293	That is, Avraham Avinu,	Ou seja, Avraham Avinu,
+294	when he was in a situation of 100 years without a child and Sarah	quando estava numa situação de 100 anos sem filho e Sará,
+295	at 90 still hadn't given birth. You ask Avraham,	aos 90, ainda sem ter dado à luz. Você pergunta a Avraham:
+296	how are you? How are you doing? What's happening? How is the situation?	como vai? Como está? O que está acontecendo? Como está a situação?
+297	Very hard.	Muito difícil.
+298	But you have faith.	Mas você tem fé.
+299	Right.	Certo.
+300	Correct.	Correto.
+301	Very hard. Life, faith.	Muito difícil. Vida, fé.
+302	>> Come on, but Bilam also says that life is bad, hard.	>> Ora, mas Bilam também diz que a vida é ruim, difícil.
+303	Evil eye. Come on, what is the difference between the disciples?	Olho mau. Vamos lá, qual é a diferença entre os discípulos?
+304	Both of you say that life is not simple.	Vocês dois dizem que a vida não é simples.
+305	Faith doesn't tell you to close your eyes	A fé não te manda fechar os olhos
+306	and when missiles are being fired at you to say, candies,	e, quando disparam mísseis contra você, dizer: balinhas,
+307	these are sweets, sweets.	são doces, doces.
+308	Come on, guys, that's candy? No. [screams] Not when	Vamos, pessoal, isso é doce? Não. [gritos] Não quando
+309	they fire missiles, say wow, wow, wow, not a	disparam mísseis, diga uau, uau, uau, a situação não é
+310	simple situation.	simples.
+311	So if you too say the situation isn't simple, and when you	Então se você também diz que a situação não é simples, e quando você
+312	see a brazen kid you don't say gold, gold,	vê um menino atrevido você não diz ouro, ouro,
+313	mazal tov, mazal tov, here comes the bar mitzvah.	mazal tov, mazal tov, aí vem o bar mitsvá.
+314	Dear, sweet Ravid.	O querido e doce Ravid.
+315	>> Golden Ravid.	>> O Ravid de ouro.
+316	>> We were at his bar mitzvah, how his father honored me.	>> Estivemos no bar mitsvá dele, como o pai dele me honrou.
+317	What an honor they gave me there at the bar mitzvah.	Que honra me fizeram lá no bar mitsvá.
+318	Sweet as honey.	Doce como mel.
+319	It was a pleasure to see the siyum of the tractate, the song.	Foi um prazer ver o siyum do tratado, a canção.
+320	What songs, what sweetness.	Que canções, que doçura.
+321	In a moment I just want this as part of the lesson, yes. [laughter] It's not for nothing.	Daqui a pouco eu quero isso como parte da aula, sim. [risos] Não é à toa.
+322	So what is Avraham Avinu's eye? What are the disciples of	Então o que é o olho de Avraham Avinu? O que são os discípulos de
+323	Avraham Avinu?	Avraham Avinu?
+324	A good eye.	Olho bom.
+325	What is a good eye?	O que é olho bom?
+326	A good eye means the situation is hard,	Olho bom significa que a situação é difícil,
+327	not simple at all, but I do the work.	nada simples, mas eu faço o trabalho.
+328	>> Within this hard situation there is a point of light that we	>> Dentro dessa situação difícil há um ponto de luz que nós
+329	are waiting for to be revealed.	esperamos que se revele.
+330	"Kol de'avid Rachmana":	"Kol de'avid Rachmana":
+331	"le'tav avid."	"le'tav avid."
+332	Everything HaShem does, and this is said in Aramaic, you	Tudo o que HaShem faz, e isso foi dito em aramaico, você
+333	don't see the holy tongue here, you see only Aramaic:	não vê aqui a língua sagrada, você vê só aramaico:
+334	"kol de'avad Rachmana," everything HaShem does is for the good.	"kol de'avad Rachmana", tudo o que HaShem faz é para o bem.
+335	And Nachum Ish Gamzu said, "gam zu letovah," that is,	E Nachum Ish Gamzu disse "gam zu letovah", isto é,
+336	in everything, good is hidden.	em tudo há um bem escondido.
+337	The situation is negative,	A situação é negativa,
+338	there are missiles here, the situation isn't simple.	há mísseis aqui, a situação não é simples.
+339	Avraham Avinu does not say in the name of faith that the situation is	Avraham Avinu não diz, em nome da fé, que a situação é
+340	wonderful.	maravilhosa.
+341	What a beautiful life. No, Avraham Avinu, no, he doesn't,	Que vida linda. Não, Avraham Avinu, não, ele não faz isso,
+342	he has eyes. He sees reality, he	ele tem olhos. Ele vê a realidade, ele
+343	sees missiles coming down, he sees a missile fall on	vê mísseis caindo, ele vê um míssil cair num
+344	a shelter and kill people, he sees it.	abrigo e matar pessoas, ele vê isso.
+345	No. Nobody died. No. He sees that there are	Não. Ninguém morreu. Não. Ele vê que há
+346	drones falling on soldiers. And soldiers dying.	drones caindo sobre soldados. E soldados morrendo.
+347	He sees it, Avraham Avinu. So what is a good	Ele vê isso, Avraham Avinu. Então o que é olho
+348	eye?	bom?
+349	Everything is good. No.	Tudo é bom. Não.
+350	Avraham Avinu tells you: know that faith says	Avraham Avinu te diz: saiba que a fé diz
+351	that within these terrible pains, these	que dentro dessas dores terríveis, dessas
+352	terrible pains, there is something deep, wonderful,	dores terríveis, há algo profundo, maravilhoso,
+353	sweet, waiting to be revealed. It takes time. We	doce, esperando para se revelar. É preciso tempo. Nós
+354	will yet see it. Take your time.	ainda vamos ver. Dê o seu tempo.
+355	When Yosef was thrown into the pit by his brothers, full of	Quando Yosef foi lançado ao poço pelos irmãos, cheio de
+356	snakes and scorpions, what did Yosef say? Ah,	cobras e escorpiões, o que disse Yosef? Ah,
+357	la la la la la. (singing)	lá lá lá lá lá. (cantando)
+358	What?	O quê?
+359	I promise you, I promise, but	Eu prometo a vocês, prometo, mas
+360	that he, that he cried.	que ele, que ele chorou.
+361	I promise you.	Eu prometo a vocês.
+362	[clears throat]	[pigarreia]
+363	>> Even if I were in such a pit,	>> Mesmo que eu estivesse num poço assim,
+364	I promise you I would cry, cry out.	prometo a vocês que eu choraria, gritaria.
+365	Faith doesn't tell you no, there are no snakes	A fé não te diz que não, que não há cobras
+366	and scorpions, no.	e escorpiões, não.
+367	Faith tells you yes, there are snakes and scorpions here, the situation	A fé te diz que sim, há cobras e escorpiões aqui, a situação
+368	is terrible and awful,	é terrível e horrível,
+369	but	mas
+370	know that within all this complication	saiba que dentro de toda essa complicação
+371	a point of light awaits you, and if you don't despair, if you do the work, it will yet	um ponto de luz te espera, e se você não desistir, se fizer o trabalho, ele ainda
+372	be revealed.	vai se revelar.
+373	What point of light? Snakes and scorpions, and after that	Que ponto de luz? Cobras e escorpiões, e depois disso
+374	they sell him to Egypt,	vendem-no ao Egito,
+375	and there he becomes a slave in Potiphar's house,	e ali ele se torna escravo na casa de Potifar,
+376	and a blood libel that Potiphar's wife makes against him, and from there	e uma calúnia mortal que a mulher de Potifar levanta contra ele, e dali
+377	he is thrown for 12 years into prison.	ele é jogado por 12 anos na prisão.
+378	Darkness after darkness after darkness.	Escuridão após escuridão após escuridão.
+379	Yes.	Sim.
+380	So what of Yosef? Come, Yosef, tell me, how are	E o Yosef? Vem, Yosef, me conta, como vai,
+381	you, what's going on in the prison? How is life? Very	o que acontece na prisão? Como está a vida? Muito
+382	hard.	difícil.
+383	So where is the faith? Where is the faith? Faith doesn't	Então onde está a fé? Onde está a fé? A fé não
+384	say it's not hard, it's not hard. Faith doesn't say it's not	diz que não é difícil, que não é difícil. A fé não diz que não é
+385	hard. Faith says it's hard. Faith says, look	difícil. A fé diz que é difícil. A fé diz: olhe
+386	at reality. Look reality in the eye, be	para a realidade. Olhe a realidade nos olhos, seja
+387	normal. Read reality correctly.	normal. Leia a realidade corretamente.
+388	His wife had a miscarriage.	A mulher dele sofreu um aborto espontâneo.
+389	How are you? What happened? He's alive.	Como vai? O que aconteceu? Ele está vivo.
+390	What do you mean alive? Your wife had a miscarriage. What do you mean alive? So when	Como vivo? Sua mulher sofreu um aborto. Como vivo? Então quando
+391	will the brit be? What alive? His wife had a miscarriage. That's it,	será a brit? Que vivo? A mulher dele sofreu um aborto. Pronto,
+392	the child fell, died. The fetus fell, died. No, he's alive.	a criança caiu, morreu. O feto caiu, morreu. Não, ele está vivo.
+393	Everything is good. Now he's dancing in heaven.	Tudo bem. Agora ele está dançando no céu.
+394	No, no, not like that, not like that.	Não, não, assim não, assim não.
+395	A miscarriage. Very hard.	Um aborto. Muito difícil.
+396	Bilam says it's hard and we say it's hard. Only Bilam	Bilam diz que é difícil e nós dizemos que é difícil. Só que Bilam
+397	says it's hard and gets stuck in the hard.	diz que é difícil e fica preso no difícil.
+398	Evil eye, and that's it. And there he is buried, Bilam. There	Olho mau, e pronto. E ali ele fica enterrado, Bilam. Ali
+399	he stops. With us it's a good eye. What is a good	ele para. Conosco é olho bom. O que é olho
+400	eye? Not an eye that blurs reality. It's an eye	bom? Não é um olho que embaça a realidade. É um olho
+401	that tells you there is good here.	que te diz que há bem aqui.
+402	Either it identifies the point of good, or even if it doesn't	Ou ele identifica o ponto de bem, ou, mesmo que não
+403	identify it, there will be good here. You'll yet see	o identifique, haverá bem aqui. Você ainda vai ver
+404	what will grow from this child.	o que vai crescer desta criança.
+405	A good eye. Either you see the good that is hidden here	Olho bom. Ou você vê o bem que está escondido aqui
+406	on the sides, or I believe. A good eye is an eye	nos cantos, ou eu acredito. Olho bom é um olho
+407	that believes that good will yet grow from here. And in the end	que acredita que ainda vai brotar um bem daqui. E no fim
+408	it turns out that Yosef,	revela-se que Yosef,
+409	who went through everything he went through so that from there he would go out	que passou por tudo o que passou para que dali ele saísse
+410	to rule over all of Egypt, would sustain his father and his brothers	para governar todo o Egito, sustentaria seu pai e seus irmãos
+411	in the years of famine, and thus prepare the whole generation	nos anos de fome, e assim prepararia toda a geração
+412	for the descent to Egypt.	para a descida ao Egito.
+413	>> Rabbi, I think faith doesn't exist without work.	>> Rabino, acho que a fé não existe sem trabalho.
+414	>> True,	>> Verdade,
+415	right?	certo?
+416	There is no faith. Faith that comes and blurs reality	Não há fé. Uma fé que vem e embaça a realidade
+417	isn't, isn't faith.	não é, não é fé.
+418	People, but that's how they think it's called	As pessoas, mas é assim que elas pensam que se chama
+419	to believe, that you don't call reality hard. Yes.	acreditar: que você não chame a realidade de difícil. Sim.
+420	Her husband passed away. She became a widow. Her husband passed away	O marido dela faleceu. Ela ficou viúva. O marido dela faleceu
+421	of an illness. A mother of six children, her husband passed away.	de doença. Mãe de seis filhos, o marido dela faleceu.
+422	So people come to comfort her. They come to comfort the widow,	Então vêm consolá-la. Vêm consolar a viúva,
+423	she sits shiva.	ela está sentando shivá.
+424	So the widow tells you,	Então a viúva te diz,
+425	you see her with a radiant face like that,	você a vê com o rosto radiante assim,
+426	"May you be comforted from Heaven," and we heard, and how it hurts us,	"Que sejam consolados pelos Céus", e nós soubemos, e como isso nos dói,
+427	and we have no words to comfort you, it's unbelievable,	e não temos palavras para te consolar, é inacreditável,
+428	wow, now you're alone with six children, and then she	uau, agora você está sozinha com seis filhos, e então ela
+429	says:	diz:
+430	everything is fine, my husband is in a good place,	está tudo bem, meu marido está num bom lugar,
+431	I'm not worried.	eu não me preocupo.
+432	I feel	Eu sinto
+433	that I am in the best place.	que estou no melhor lugar.
+434	What? What? Okay. So why are you even sitting shiva?	O quê? O quê? Tá. Então por que você está sentando shivá?
+435	>> Maybe she thinks that our life is there.	>> Talvez ela ache que a nossa vida é lá.
+436	>> So why are you sitting shiva? So what is wrong with you? What	>> Então por que você está sentando shivá? Então o que há com você? O que
+437	are you going through?	está passando?
+438	People	Pessoas
+439	who go through a hard reality, in the name of faith, they blur	que passam por uma realidade difícil, em nome da fé, a embaçam,
+440	it, they spray something on it like	espirram em cima um spray, assim, como
+441	an air freshener, the smell wasn't pleasant, there are pleasant smells,	um purificador de ar, o cheiro não era agradável, há cheiros agradáveis,
+442	but it only blurs, it's a blurring, it's not real, it's	mas isso só embaça, é um embaçamento, não é real, não é
+443	not faith. Faith tells you: see reality	fé. A fé te diz: veja a realidade
+444	as it is.	como ela é.
+445	Her husband passed away, very hard, we don't even have words	O marido dela faleceu, muito difícil, nem temos palavras
+446	to comfort you.	para te consolar.
+447	That is how it should be.	É assim que deve ser.
+448	When you come to comfort mourners, "agra d'beit avelim shtikuta," the reward	Quando você vai consolar enlutados, "agra d'beit avelim shtikuta", a recompensa
+449	received in a house of mourners is to be silent. What is to be silent?	que se recebe na casa dos enlutados é calar. O que é calar?
