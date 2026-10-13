@@ -1,7 +1,7 @@
 # lane5-005
 
-19 of 25 lessons published · 5 skipped · status **pending**
-Tokens (125 agent runs with a record): 1.8M in (mostly cache) · 3.21M out · API-equivalent 37.97
+20 of 25 lessons published · 5 skipped · status **done**
+Tokens (130 agent runs with a record): 1.9M in (mostly cache) · 3.30M out · API-equivalent 38.87
 
 | lesson | state | detail |
 |---|---|---|
@@ -17,12 +17,12 @@ Tokens (125 agent runs with a record): 1.8M in (mostly cache) · 3.21M out · AP
 | 0nSjPMGnCaU | skipped | |
 | KSAjfvZSyKY | skipped | |
 | VwuI_8nWq7Y | ✓ published | 1282 lines · Shemot: a tristeza é o inimigo, a alegria é a saída |
-| gpTawZWgjJk | skipped after 3 tries | 15 lines missing |
+| gpTawZWgjJk | skipped | |
 | sGYmlI8S59Q | skipped | |
 | -qSd3yZjHAI | ✓ published | 776 lines · Por que estudar Torá às vezes não toca o coração |
 | qLdX-I34K2Y | ✓ published | 323 lines · Midrash Tanchuma Vayechi 9: Reuven, o primogênito |
 | LrHdoD7QOmY | skipped | |
-| WEXIMGFnt34 | waiting | 2/3 parts |
+| WEXIMGFnt34 | ✓ published | 1025 lines · Pinchas, Zimri e o segredo da teshuvá |
 | AtQTlmpgiSY | ✓ published | 672 lines · Rosh HaShaná: o coração é o portal para HaShem |
 | 3zDPEGDIy2g | ✓ published | 914 lines · Provações crescem para quem vai ser grande |
 | PblW1j-my5w | ✓ published | 442 lines · Behaalotchá: acender a chama e escolher a história |
