@@ -1,0 +1,260 @@
+{
+ "name": "lane1-004",
+ "lane": 1,
+ "created": "2026-10-13T18:03:37.661Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "gCQmxXrwF0k",
+   "title": "Eleições segundo a Halachá e os 77 de Lemech",
+   "lines": 1080,
+   "parts": 3,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "86LKvFjYoHU",
+   "title": "Parashat Noach: a arca, as boas ações e a fé simples",
+   "lines": 1731,
+   "parts": 4,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "soIjmrDC2FA",
+   "title": "Chok LeIsrael: Parashá Noach, domingo",
+   "lines": 672,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "91BH_ogUlU8",
+   "title": "O mundo depois do Dilúvio: além do arco-íris",
+   "lines": 865,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "51i4iCh9qj8",
+   "title": "Fale pouco e faça muito: aproveitar o tempo (Mishlê)",
+   "lines": 1027,
+   "parts": 3,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "QlgPJKlmXXE",
+   "title": "Além do arco-íris: o mundo novo depois do dilúvio",
+   "lines": 859,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "2UJPKd0rnhs",
+   "title": "Acreditar em si: a fé em HaShem e nos próprios dons",
+   "lines": 616,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "w9DBYDk987c",
+   "title": "Parashá Noach: Shem, Yafet e a Torá que redime",
+   "lines": 874,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "STEXmF9qH6M",
+   "title": "Parashá Noach: por que a salvação foi numa arca sobre as águas",
+   "lines": 466,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "gLt8b10aDJ8",
+   "title": "Shabat Noach: o Nome que se revela na descida",
+   "lines": 492,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "8mEMnDhkLNM",
+   "title": "Noach: trabalho interno, valor próprio e humildade",
+   "lines": 980,
+   "parts": 3,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "6qVMQZvtnUA",
+   "title": "Bereshit: a Emet no início da Torá e da criação",
+   "lines": 1251,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HrJQEhQTmts",
+   "title": "Bereshit e a Midat HaEmet: a verdade como selo da Criação",
+   "lines": 1639,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "QPvv1N3Yfxk",
+   "title": "Bereshit: a fé na Criação e a certeza do futuro",
+   "lines": 1146,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tJAi90J9arY",
+   "title": "O segredo da Criação e a Torá lida duas vezes e o Targum",
+   "lines": 1621,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wT_wxFoVeS4",
+   "title": "Chok LeYisrael Bereshit, segunda: o segundo dia e a disputa",
+   "lines": 1191,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "23A3w7tZrTY",
+   "title": "Vayechi: o ponto da verdade e a Halachá de Pelag HaMinchá",
+   "lines": 2051,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "MvJqJvvWiek",
+   "title": "A esposa de Korach e a esposa de On ben Pelet",
+   "lines": 1580,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "sThaeWMCtvI",
+   "title": "Korach: as esposas de Korach e de On ben Pelet",
+   "lines": 1581,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-y80g1uFJow",
+   "title": "Halachot de Tishá BeAv e a Parashá Vaetchanan",
+   "lines": 1010,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "8wVgZCnaTYI",
+   "title": "As 100 bênçãos de Shabat e o versículo de Ekev",
+   "lines": 796,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1ABBticUk_w",
+   "title": "Shabat Bereshit: Árvores, Tefilá e Nascimento de Binyamin",
+   "lines": 1503,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2ACjxoLuJdQ",
+   "title": "Rav Ovadia Yosef: Bereshit e a Halachá de Sheelat Geshamim",
+   "lines": 1089,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "VC3mj4AkQws",
+   "title": "Shelach Lecha: HaShem confia em você",
+   "lines": 968,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "pt9P-CMJqLA",
+   "title": "Ver para se aproximar: o dia de hoje e o exemplo pessoal",
+   "lines": 1005,
+   "parts": 3,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "gCQmxXrwF0k.p0",
+  "gCQmxXrwF0k.p1",
+  "gCQmxXrwF0k.p2",
+  "86LKvFjYoHU.p0",
+  "86LKvFjYoHU.p1",
+  "86LKvFjYoHU.p2",
+  "86LKvFjYoHU.p3",
+  "soIjmrDC2FA.p0",
+  "soIjmrDC2FA.p1",
+  "91BH_ogUlU8.p0",
+  "91BH_ogUlU8.p1",
+  "51i4iCh9qj8.p0",
+  "51i4iCh9qj8.p1",
+  "51i4iCh9qj8.p2",
+  "QlgPJKlmXXE.p0",
+  "QlgPJKlmXXE.p1",
+  "2UJPKd0rnhs.p0",
+  "2UJPKd0rnhs.p1",
+  "w9DBYDk987c.p0",
+  "w9DBYDk987c.p1",
+  "STEXmF9qH6M.p0",
+  "STEXmF9qH6M.p1",
+  "gLt8b10aDJ8.p0",
+  "gLt8b10aDJ8.p1",
+  "8mEMnDhkLNM.p0",
+  "8mEMnDhkLNM.p1",
+  "8mEMnDhkLNM.p2",
+  "6qVMQZvtnUA.p0",
+  "6qVMQZvtnUA.p1",
+  "6qVMQZvtnUA.p2",
+  "HrJQEhQTmts.p0",
+  "HrJQEhQTmts.p1",
+  "HrJQEhQTmts.p2",
+  "HrJQEhQTmts.p3",
+  "QPvv1N3Yfxk.p0",
+  "QPvv1N3Yfxk.p1",
+  "QPvv1N3Yfxk.p2",
+  "tJAi90J9arY.p0",
+  "tJAi90J9arY.p1",
+  "tJAi90J9arY.p2",
+  "tJAi90J9arY.p3",
+  "wT_wxFoVeS4.p0",
+  "wT_wxFoVeS4.p1",
+  "wT_wxFoVeS4.p2",
+  "23A3w7tZrTY.p0",
+  "23A3w7tZrTY.p1",
+  "23A3w7tZrTY.p2",
+  "23A3w7tZrTY.p3",
+  "23A3w7tZrTY.p4",
+  "MvJqJvvWiek.p0",
+  "MvJqJvvWiek.p1",
+  "MvJqJvvWiek.p2",
+  "MvJqJvvWiek.p3",
+  "sThaeWMCtvI.p0",
+  "sThaeWMCtvI.p1",
+  "sThaeWMCtvI.p2",
+  "sThaeWMCtvI.p3",
+  "-y80g1uFJow.p0",
+  "-y80g1uFJow.p1",
+  "-y80g1uFJow.p2",
+  "8wVgZCnaTYI.p0",
+  "8wVgZCnaTYI.p1",
+  "1ABBticUk_w.p0",
+  "1ABBticUk_w.p1",
+  "1ABBticUk_w.p2",
+  "1ABBticUk_w.p3",
+  "2ACjxoLuJdQ.p0",
+  "2ACjxoLuJdQ.p1",
+  "2ACjxoLuJdQ.p2",
+  "VC3mj4AkQws.p0",
+  "VC3mj4AkQws.p1",
+  "VC3mj4AkQws.p2",
+  "pt9P-CMJqLA.p0",
+  "pt9P-CMJqLA.p1",
+  "pt9P-CMJqLA.p2"
+ ]
+}
