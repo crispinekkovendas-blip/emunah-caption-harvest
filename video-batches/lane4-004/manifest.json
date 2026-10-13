@@ -1,0 +1,251 @@
+{
+ "name": "lane4-004",
+ "lane": 4,
+ "created": "2026-10-13T02:21:18.313Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "DZKQlAZKK18",
+   "title": "Parashat Tzav: a alma que sobe à noite e o Purim",
+   "lines": 299,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "56kcNk-7Ias",
+   "title": "Parashá Balak: a maldição que vira bênção",
+   "lines": 1064,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "NZY3vC0hYNQ",
+   "title": "Valor próprio sem vaidade: o sábio oculta o que sabe",
+   "lines": 1027,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "7P6T5BRAV1k",
+   "title": "Tamim Tihyeh: não consultar o futuro (Shoftim)",
+   "lines": 383,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "woxuF6lMguc",
+   "title": "Tsédek, mishpat e o mérito: julgar com justiça",
+   "lines": 918,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PuyyTR5GVtg",
+   "title": "Parashat Vayishlach: os mensageiros de Yaakov e Dina",
+   "lines": 1006,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Xaw9gVdlwMc",
+   "title": "Parashá Vaerá: Elokim, HaShem e as pragas",
+   "lines": 946,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "9xbetZ4mkng",
+   "title": "A oração e o Beit HaMikdash: pedir a proximidade de HaShem",
+   "lines": 864,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1_nlcCAuJks",
+   "title": "Leis de Tishá BeAv, o luto e a Parashá Matot",
+   "lines": 1084,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "oDa2j5hivmk",
+   "title": "Ikveta DeMeshichá: os calcanhares de Adam HaRishon",
+   "lines": 722,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "MyzNaNmbX6I",
+   "title": "Ki Teitzei: sair para a guerra e a força da prece",
+   "lines": 932,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Av3CEILgSbw",
+   "title": "Yesod, Meguilat Rut e a fé de Boaz e Rut",
+   "lines": 902,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wmGSvQO69og",
+   "title": "O seu caminho: a vontade que conduz a vida",
+   "lines": 808,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "h6Q9WoPOIWw",
+   "title": "Parashat Re'eh: a bênção de cima e o trabalho de Elul",
+   "lines": 1514,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "BBdtmt54DZ0",
+   "title": "Parashat Shoftim no Or HaChaim: a guerra interior da alma",
+   "lines": 806,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "H4S7y8-5Vvg",
+   "title": "Vezot HaBerachá: a felicidade de ser judeu",
+   "lines": 1106,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Pcwf48DzbQw",
+   "title": "Por que os irmãos quiseram matar Yosef",
+   "lines": 899,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Srefhr92A_o",
+   "title": "Matot-Masei: nedarim, aniversários e casamento",
+   "lines": 667,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "hwQVAB7zNEc",
+   "title": "Parashá Ekev: os sentidos de \"ekev\" e a humildade",
+   "lines": 1161,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rLQ_FuD__pA",
+   "title": "Julgar a si mesmo e expiar o pecado: Shoftim e Elul",
+   "lines": 1288,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "7pfIoU_bN00",
+   "title": "Mishpatim: mitzvot entre o homem e o próximo e a Torá Oral",
+   "lines": 1447,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xW_HWuavFow",
+   "title": "As bênçãos: pequenos passos rumo a grandes degraus",
+   "lines": 883,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "kTry3LuQb3c",
+   "title": "Haftará de Ra'ê: ver a consolação na livre escolha",
+   "lines": 691,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "SUaaHPDeuGY",
+   "title": "O segredo do Shabat dos Dez Dias de Teshuvá",
+   "lines": 1283,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ez3oskhk9aA",
+   "title": "Por que Itro mereceu uma Parashá: Torá e coração",
+   "lines": 1701,
+   "parts": 4,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "DZKQlAZKK18.p0",
+  "56kcNk-7Ias.p0",
+  "56kcNk-7Ias.p1",
+  "56kcNk-7Ias.p2",
+  "NZY3vC0hYNQ.p0",
+  "NZY3vC0hYNQ.p1",
+  "NZY3vC0hYNQ.p2",
+  "7P6T5BRAV1k.p0",
+  "woxuF6lMguc.p0",
+  "woxuF6lMguc.p1",
+  "woxuF6lMguc.p2",
+  "PuyyTR5GVtg.p0",
+  "PuyyTR5GVtg.p1",
+  "PuyyTR5GVtg.p2",
+  "Xaw9gVdlwMc.p0",
+  "Xaw9gVdlwMc.p1",
+  "Xaw9gVdlwMc.p2",
+  "9xbetZ4mkng.p0",
+  "9xbetZ4mkng.p1",
+  "1_nlcCAuJks.p0",
+  "1_nlcCAuJks.p1",
+  "1_nlcCAuJks.p2",
+  "oDa2j5hivmk.p0",
+  "oDa2j5hivmk.p1",
+  "MyzNaNmbX6I.p0",
+  "MyzNaNmbX6I.p1",
+  "MyzNaNmbX6I.p2",
+  "Av3CEILgSbw.p0",
+  "Av3CEILgSbw.p1",
+  "Av3CEILgSbw.p2",
+  "wmGSvQO69og.p0",
+  "wmGSvQO69og.p1",
+  "h6Q9WoPOIWw.p0",
+  "h6Q9WoPOIWw.p1",
+  "h6Q9WoPOIWw.p2",
+  "h6Q9WoPOIWw.p3",
+  "BBdtmt54DZ0.p0",
+  "BBdtmt54DZ0.p1",
+  "H4S7y8-5Vvg.p0",
+  "H4S7y8-5Vvg.p1",
+  "H4S7y8-5Vvg.p2",
+  "Pcwf48DzbQw.p0",
+  "Pcwf48DzbQw.p1",
+  "Srefhr92A_o.p0",
+  "Srefhr92A_o.p1",
+  "hwQVAB7zNEc.p0",
+  "hwQVAB7zNEc.p1",
+  "hwQVAB7zNEc.p2",
+  "rLQ_FuD__pA.p0",
+  "rLQ_FuD__pA.p1",
+  "rLQ_FuD__pA.p2",
+  "7pfIoU_bN00.p0",
+  "7pfIoU_bN00.p1",
+  "7pfIoU_bN00.p2",
+  "7pfIoU_bN00.p3",
+  "xW_HWuavFow.p0",
+  "xW_HWuavFow.p1",
+  "kTry3LuQb3c.p0",
+  "kTry3LuQb3c.p1",
+  "SUaaHPDeuGY.p0",
+  "SUaaHPDeuGY.p1",
+  "SUaaHPDeuGY.p2",
+  "ez3oskhk9aA.p0",
+  "ez3oskhk9aA.p1",
+  "ez3oskhk9aA.p2",
+  "ez3oskhk9aA.p3"
+ ]
+}
