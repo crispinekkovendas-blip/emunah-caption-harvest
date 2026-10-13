@@ -1,0 +1,450 @@
+0	Hello, everyone.	Olá a todos.
+1	Uh...	Ééé...
+2	We're in the weekly class on the Parashah of the week, and in fact	Estamos na aula semanal sobre a Parashá da semana, e na verdade
+3	this is the last week we have a weekly Parashah before	esta é a última semana em que temos uma Parashá semanal antes
+4	the end of the year.	do fim do ano.
+5	Next week, with HaShem's help, there will be a class, only	Na semana que vem, com a ajuda de HaShem, haverá uma aula, só
+6	not on the weekly Parashah but on Rosh HaShanah,	que não sobre a Parashá da semana, mas sobre Rosh HaShaná,
+7	and the days, the Ten Days of Teshuvah, Yom Kippur,	e os dias, os Dez Dias de Teshuvá, Yom Kipur,
+8	and so on. Because next Shabbat there is no weekly Parashah. That is,	e assim por diante. Porque no próximo Shabat não há Parashá semanal. Ou seja,
+9	Parashat Haazinu is read	a Parashá Haazinu é lida
+10	in	na
+11	the week after, between Rosh HaShanah and Yom Kippur.	semana seguinte, entre Rosh HaShaná e Yom Kipur.
+12	So, then, the last Parashah we read this year	Então, a última Parashá que lemos este ano
+13	is Parashat Nitzavim. Actually two Parashiyot,	é a Parashá Nitzavim. Na verdade duas Parashiyot,
+14	Nitzavim and Vayelech, which in many years are	Nitzavim e Vayelech, que em muitos anos são
+15	combined, joined together.	unidas, lidas juntas.
+16	Uh...	Ééé...
+17	Before we begin this class, we will dedicate it	Antes de começarmos esta aula, vamos dedicá-la
+18	to the merit, success and abundance of blessing of the family of	ao mérito, ao sucesso e à abundância de bênçãos da família de
+19	Shoshana bat Marcelle Citrin and her children Avraham Baruch,	Shoshana bat Marcelle Citrin e seus filhos Avraham Baruch,
+20	Brian, Eliza, Liora. May HaShem guard them and keep them alive	Brian, Eliza, Liora. Que HaShem os guarde e os conserve vivos
+21	and send blessing in all the work of their hands and fulfill all the wishes	e envie bênção em toda obra de suas mãos e realize todos os desejos
+22	of their hearts for good, including all kinds of things that are happening	de seus corações para o bem, inclusive todas as coisas que estão acontecendo
+23	now, for which they need Siyata Dishmaya. They have	agora, para as quais precisam de Siyata Dishmaya. Eles
+24	consistently, for several years now, very much	têm, de forma constante, há vários anos, muito
+25	supported this Tuesday class, and may their strength be firm for it. Amen.	apoiado esta aula de terça-feira, e que suas forças se firmem por isso. Amém.
+26	Amen.	Amém.
+27	Another dedication I want to make, for the healing	Outra dedicação que quero fazer, pela cura
+28	of a Jew who is lying now at Rambam,	de um judeu que está internado agora no Rambam,
+29	Rambam Hospital in Haifa, named Almog, Almog son of	Hospital Rambam em Haifa, chamado Almog, Almog filho de
+30	Yitzchak and Dalia Masika, that the Holy One, blessed be He, send him	Yitzchak e Dalia Masika, que o Santo, Bendito Seja, lhe envie
+31	a complete healing, in general and among all the other sick of His people	uma cura completa, em meio a todos os outros doentes do Seu povo
+32	Israel.	Israel.
+33	"You are standing today, all of you."	"Vós estais hoje todos em pé."
+34	As I said, this Parashah is read before Rosh	Como eu disse, esta Parashá é lida antes de Rosh
+35	HaShanah.	HaShaná.
+36	And in this Parashah there are several things that, in an interesting way,	E nesta Parashá há várias coisas que, de maneira interessante,
+37	are connected to this time of year.	estão ligadas a esta época do ano.
+38	Moshe Rabbeinu, in the plain meaning of the words, as these	Moshé Rabênu, no sentido simples das palavras, como esses
+39	verses intend them, Moshe Rabbeinu gathers	versículos pretendem, Moshé Rabênu reúne
+40	the people of Israel on the last day of his life, on the seventh of Adar.	o povo de Israel no último dia de sua vida, no sete de Adar.
+41	Moshe Rabbeinu passed away; as it is written here, "today", it is the day	Moshé Rabênu faleceu; como está escrito aqui, "hoje", é o dia
+42	the day on which he passed away.	o dia em que ele faleceu.
+43	He, uh,	Ele, é...
+44	gathers all of Israel	reúne todo o Israel
+45	and it is very important to him	e é muito importante para ele
+46	to protect and to establish	proteger e institucionalizar
+47	the covenant that the Holy One, blessed be He, made with	a aliança que o Santo, Bendito Seja, fez com
+48	the people of Israel.	o povo de Israel.
+49	Um, it's not just that it's important to him. The whole Torah was said from the mouth of	Bem, não é só que seja importante para ele. Toda a Torá foi dita da boca do
+50	the Holy One, blessed be He, to Moshe at Sinai. That is,	Santo, Bendito Seja, a Moshé no Sinai. Ou seja,
+51	the Holy One, blessed be He, in fact	o Santo, Bendito Seja, na verdade
+52	told Moshe Rabbeinu to gather all of Israel, and they are	disse a Moshé Rabênu que reunisse todo o Israel, e eles estão
+53	standing today. So it is written: "You are standing today."	em pé hoje. Assim está escrito: "Vós estais hoje em pé."
+54	This day is also connected to the day of judgment, which is Rosh HaShanah,	Este dia também está ligado ao dia do julgamento, que é Rosh HaShaná,
+55	every single year. And all of us,	a cada ano. E todos nós,
+56	all of the people of Israel of course, but not only, the whole world	todo o povo de Israel, é claro, mas não só, o mundo inteiro
+57	too, stands in judgment on Rosh HaShanah. And the contents of	também, está em julgamento em Rosh HaShaná. E os conteúdos
+58	this Parashah are relevant both	desta Parashá são relevantes tanto
+59	to an event that took place in the time of Moshe Rabbeinu, and to	a um evento que ocorreu na época de Moshé Rabênu, quanto
+60	the great and awesome day of judgment that will come at the end of days,	ao grande e terrível dia do julgamento que virá no fim dos dias,
+61	as we will see further on in the class,	como veremos mais adiante na aula,
+62	and consequently also to the yearly day of judgment,	e, consequentemente, também ao dia anual do julgamento,
+63	which is Rosh HaShanah.	que é Rosh HaShaná.
+64	Okay, so these are the first verses: "Your heads,	Certo, estes são os primeiros versículos: "Os vossos chefes,
+65	your tribes, you are standing before HaShem your Elokim:	as vossas tribos, estais em pé perante HaShem, vosso Elokim:
+66	your heads, your tribes, your elders and your officers, every man of Israel,	os vossos chefes, as vossas tribos, os vossos anciãos e os vossos oficiais, todo homem de Israel,
+67	your little ones, your wives, and your stranger who is in the midst of your camp, from the hewer of your wood	as vossas crianças, as vossas mulheres e o estrangeiro que está no meio do teu acampamento, desde o rachador da tua lenha
+68	to the drawer of your water, that you may enter into the covenant of HaShem your Elokim,	até o tirador da tua água, para entrares na aliança de HaShem, teu Elokim,
+69	and into His oath, which HaShem your Elokim makes with you today."	e no Seu juramento, que HaShem, teu Elokim, faz contigo hoje."
+70	I'm skipping to chapter 30.	Vou pular para o capítulo 30.
+71	Later in this same Parashah	Mais adiante nesta mesma Parashá
+72	it is written something that, as	está escrito algo que, como
+73	I said, relates to the end of days,	eu disse, tem relação com o fim dos dias,
+74	to a time very far from the time when Moshe Rabbeinu gathers	com um tempo muito distante da época em que Moshé Rabênu reúne
+75	the people of Israel in the plains of Moav before entering the Land.	o povo de Israel nas planícies de Moav antes de entrar na Terra.
+76	So it is written in chapter 30, in the first verses: "And it shall be,	Assim está escrito no capítulo 30, nos primeiros versículos: "E será que,
+77	when all these things come upon you, the blessing	quando vierem sobre ti todas estas coisas, a bênção
+78	and the curse which I have set before you", that is, after, after	e a maldição que pus diante de ti", isto é, depois, depois de
+79	all the history	toda a história
+80	of the people of Israel,	do povo de Israel,
+81	which had times when Israel walked in the way of the Torah	que teve épocas em que Israel andou no caminho da Torá
+82	and blessings came upon it,	e vieram sobre ele bênçãos,
+83	and periods when Israel did not walk in the way of the Torah, and	e períodos em que Israel não andou no caminho da Torá, e
+84	hardships and suffering and terrible curses came upon it,	vieram sobre ele provações, sofrimentos e maldições terríveis,
+85	as anyone who reads the chronicles of our people can	como qualquer um que lê a história do nosso povo pode
+86	learn from the history books and the	aprender nos livros de história e nos
+87	historical events. Now the reason for such a thing, as	acontecimentos históricos. Ora, a razão para tal coisa, como
+88	is written in Parashat Ki Tavo, is that we ourselves	está escrito na Parashá Ki Tavo, é que nós mesmos
+89	brought upon ourselves the blessings when we behaved properly,	trouxemos sobre nós as bênçãos quando nos comportamos corretamente,
+90	and, God forbid, the curses when we behaved improperly. Now	e, que não aconteça, as maldições quando nos comportamos de forma incorreta. Agora
+91	he speaks about what will happen in the end, in the end, after all	ele fala do que acontecerá no fim, no fim, depois que tudo
+92	this takes place, all this happens: "And it shall be, when there come upon you"	isso se der, tudo isso acontecer: "E será que, quando vierem sobre ti"
+93	after all these things have already come upon you,	depois que todas essas coisas já tiverem vindo sobre ti,
+94	"the blessing and the curse which I have set before you,	"a bênção e a maldição que pus diante de ti,
+95	and you shall take it to heart among all the nations where	e o tomarás a teu coração entre todas as nações para onde
+96	HaShem your Elokim has driven you."	HaShem, teu Elokim, te tiver dispersado."
+97	As is known, it is mentioned in the Torah several times that if the people of	Como é sabido, é mencionado na Torá várias vezes que, se o povo de
+98	Israel does not keep the Torah of HaShem in the Land of Israel,	Israel não guardar a Torá de HaShem na Terra de Israel,
+99	it will not remain in the Land, it will be scattered.	não permanecerá na Terra, será disperso.
+100	That is the exile: the exile of the Ten Tribes, and after that	Esse é o exílio: o exílio das Dez Tribos, e depois
+101	the Babylonian exile, and after that the Roman exile, which scattered	o exílio babilônico, e depois o exílio romano, que nos dispersou
+102	us throughout the world. What is written here is that the Holy One, blessed be	por todo o mundo. O que está escrito aqui é que o Santo, Bendito
+103	He, promises	Seja, promete
+104	that at the end	que no fim
+105	of the exile,	do exílio,
+106	the Jews in all the corners of the world, wherever they may be,	os judeus em todos os cantos do mundo, onde quer que estejam,
+107	will return to HaShem.	voltarão a HaShem.
+108	This will be the conclusion, or the lesson,	Essa será a conclusão, ou a lição,
+109	of studying our history, and the understanding that everything	do estudo da nossa história, e a compreensão de que tudo
+110	that was said in advance would happen	o que foi dito de antemão que aconteceria
+111	did indeed happen, one by one.	de fato aconteceu, um por um.
+112	So there will be a certain process that will ripen in that the people of Israel	Então haverá um certo processo que amadurecerá no fato de que o povo de Israel
+113	will return to HaShem.	voltará a HaShem.
+114	This is what is written here.	Isto é o que está escrito aqui.
+115	"When all these things come upon you, and you take it	"Quando vierem sobre ti todas estas coisas, e o tomares
+116	to heart among all the nations where HaShem your Elokim has driven you,	a teu coração entre todas as nações para onde HaShem, teu Elokim, te dispersou,
+117	and you return to HaShem your Elokim and listen to His voice according to all that	e voltares a HaShem, teu Elokim, e ouvires a Sua voz conforme tudo o que
+118	I command you today, you and your children, with all your heart and with all	eu te ordeno hoje, tu e os teus filhos, com todo o teu coração e com toda
+119	your soul."	a tua alma."
+120	Now this is amazing, fantastic: a promise that the people of	Isto é impressionante, fantástico: a promessa de que o povo de
+121	Israel will return to HaShem.	Israel voltará a HaShem.
+122	Return to HaShem means returning to listen to His voice;	Voltar a HaShem significa voltar a ouvir a Sua voz;
+123	"His voice" is that same voice	"a Sua voz" é aquela mesma voz
+124	that the Holy One, blessed be He, made us hear at Mount Sinai. That is,	que o Santo, Bendito Seja, nos fez ouvir no Monte Sinai. Ou seja,
+125	the Torah. He will return to the Torah.	a Torá. Ele voltará à Torá.
+126	"You and your children, with all your heart and with all your soul": there will be teshuvah	"Tu e os teus filhos, com todo o teu coração e com toda a tua alma": haverá teshuvá
+127	from the whole heart of the people of Israel, he and his children.	de todo o coração do povo de Israel, ele e os seus filhos.
+128	Let's see the continuation of this fantastic prophecy	Vejamos a continuação desta fantástica profecia
+129	in our Parashah. It is written here in Parashat Nitzavim:	na nossa Parashá. Está escrito aqui na Parashá Nitzavim:
+130	"And HaShem your Elokim will bring back your captivity and have compassion on you,	"E HaShem, teu Elokim, restaurará o teu cativeiro e se compadecerá de ti,
+131	and will gather you again from all the peoples where HaShem	e tornará a reunir-te de todos os povos para onde HaShem,
+132	your Elokim has scattered you."	teu Elokim, te dispersou."
+133	So there are two things here.	Então há aqui duas coisas.
+134	A promise of the ingathering of the exiles, which is the last verse	Uma promessa da reunião dos exilados, que é o último versículo
+135	that I just read, that the Holy One, blessed be He, will gather us	que acabei de ler, que o Santo, Bendito Seja, nos reunirá
+136	from all the peoples where HaShem your Elokim has scattered you.	de todos os povos para onde HaShem, teu Elokim, te dispersou.
+137	And,	E,
+138	you will return to HaShem. The people of Israel will return to HaShem.	tu voltarás a HaShem. O povo de Israel voltará a HaShem.
+139	That is, there is hope. There is hope.	Ou seja, há esperança. Há esperança.
+140	When we say "Am Yisrael Chai," this is what is meant,	Quando dizemos "Am Yisrael Chai", é isto que se quer dizer,
+141	this is the meaning	este é o significado
+142	of "Am Yisrael Chai": that the people of Israel,	de "Am Yisrael Chai": que o povo de Israel,
+143	that very Israel who says "Shema Yisrael, HaShem	aquele mesmo Israel que diz "Shemá Israel, HaShem
+144	Elokeinu, HaShem is One," that very Israel who received the Torah	Elokênu, HaShem é Um", aquele mesmo Israel que recebeu a Torá
+145	at Sinai,	no Sinai,
+146	lives, despite all of a very, very tangled	vive, apesar de toda uma história muito, muito confusa
+147	and difficult history	e difícil
+148	over thousands of years, and in the end the people of Israel will return to where	ao longo de milhares de anos, e no fim o povo de Israel voltará para onde
+149	it needs to be.	deve estar.
+150	It will also be gathered physically	Será também reunido fisicamente
+151	from all	de toda
+152	its dispersion across the whole world, it will return to the Land of	a sua dispersão pelo mundo inteiro, voltará à Terra de
+153	Israel, but the central and main thing, not to forget,	Israel, mas o ponto central e principal, para não esquecer,
+154	is that it will return	é que voltará
+155	to its essence as the people of HaShem, and this is teshuvah, because the	à sua essência como povo de HaShem, e isto é teshuvá, porque a
+156	physical, technical dispersion across the world came as a result of abandoning	dispersão física e técnica pelo mundo veio em consequência de abandonar
+157	our mission as the people of HaShem. And here there is a promise	a nossa missão como povo de HaShem. E aqui há uma promessa
+158	that includes both of these things. And in the order	que inclui essas duas coisas. E na ordem
+159	in which the verses arrange it here, the main part of	em que os versículos as dispõem aqui, o essencial
+160	the ingathering, of the ingathering of the exiles,	da reunião, da reunião dos exilados,
+161	will be: you will return to HaShem,	será: tu voltarás a HaShem,
+162	"and HaShem your Elokim will bring back your captivity and have compassion on you."	"e HaShem, teu Elokim, restaurará o teu cativeiro e se compadecerá de ti."
+163	You will return to being what you need to be, the people of	Voltarás a ser o que precisas ser, o povo de
+164	Israel.	Israel.
+165	And then the Holy One, blessed be He, will end the exile, because	E então o Santo, Bendito Seja, encerrará o exílio, porque
+166	the cause of the exile was that you denied	a causa do exílio foi que negaste
+167	what you need to be.	aquilo que precisas ser.
+168	This ingathering of the exiles, in this specific form,	Esta reunião dos exilados, nesta forma específica,
+169	has not yet taken place,	ainda não aconteceu,
+170	and the next verse will show this. That is, even though	e o próximo versículo mostrará isso. Ou seja, embora
+171	seemingly today we are speaking about some kind of	aparentemente hoje falemos de uma certa
+172	ingathering of the exiles in the Land of Israel in the last 100 years,	reunião dos exilados na Terra de Israel nos últimos cem anos,
+173	that is, in the last 100 years.	ou seja, nos últimos cem anos.
+174	That is still not what is promised here. What is promised here	Isso ainda não é o que se promete aqui. O que se promete aqui
+175	is something very, very sweeping, as you will see in the next	é algo muito, muito abrangente, como vereis no próximo
+176	verse. Verse 4.	versículo. Versículo 4.
+177	"If your dispersed be at the end of the heavens", "the end of the heavens" is	"Se os teus dispersos estiverem na extremidade dos céus", "a extremidade dos céus" é
+178	an expression exaggerating the matter, the most distant place.	uma expressão que exagera a ideia, o lugar mais distante.
+179	"If your dispersed be at the end of the heavens, from there HaShem	"Se os teus dispersos estiverem na extremidade dos céus, dali HaShem,
+180	your Elokim will gather you, and from there He will take you.	teu Elokim, te reunirá, e dali te tomará.
+181	And HaShem your Elokim will bring you to the Land which your	E HaShem, teu Elokim, te trará à Terra que os teus
+182	fathers possessed, and you shall possess it,	pais possuíram, e a possuirás,
+183	and He will do you good and multiply you more than your fathers."	e te fará bem e te multiplicará mais do que a teus pais."
+184	What is written here	O que está escrito aqui
+185	is that the Holy One, blessed be He, will gather all the dispersed of the people of	é que o Santo, Bendito Seja, reunirá todos os dispersos do povo de
+186	Israel from the most distant place.	Israel do lugar mais distante.
+187	And in the prophecy of Yechezkel	E na profecia de Yechezkel
+188	it is written that not a single Jew will remain outside the borders of the Land of	está escrito que nem um único judeu ficará fora das fronteiras da Terra de
+189	Israel, in this final, absolute ingathering of the exiles,	Israel, nesta reunião dos exilados final e absoluta,
+190	in the ultimate redemption.	na redenção definitiva.
+191	"And I will leave none of them there any more," says HaShem; not	"E não deixarei mais ninguém deles lá", diz HaShem; nem
+192	a single Jew will remain outside the borders of the Land of Israel.	um único judeu ficará fora das fronteiras da Terra de Israel.
+193	Now I want to touch for a moment on a very, very deep point.	Agora quero tocar por um momento num ponto muito, muito profundo.
+194	The situation of the ingathering of the exiles	A situação de reunião dos exilados
+195	already took place once in history,	já aconteceu uma vez na história,
+196	with the establishment of the Second Temple.	com o estabelecimento do Segundo Templo.
+197	There was an exile, and by the way, in this exile between the destruction	Houve um exílio e, aliás, neste exílio entre a destruição
+198	of the First Temple and the Second Temple, there were no Jews in the Land of	do Primeiro Templo e o Segundo Templo, não havia judeus na Terra de
+199	Israel at all, at all.	Israel, absolutamente nenhum.
+200	For 70 years there were no Jews in the Land of Israel.	Durante 70 anos não houve judeus na Terra de Israel.
+201	In the first exile, the destruction of the First Temple,	No primeiro exílio, a destruição do Primeiro Templo,
+202	and then	e então
+203	the Holy One, blessed be He, sent	o Santo, Bendito Seja, enviou
+204	Koresh the gentile, and, if one may compare, Ezra the Scribe,	Koresh, o gentio, e, com a devida distinção, Ezra, o Escriba,
+205	and the kingdom of Persia, which is the second kingdom among the four	e o reino da Pérsia, que é o segundo reino entre os quatro
+206	kingdoms that are destined to rule the world,	reinos destinados a dominar o mundo,
+207	the kingdom of Persia, under Koresh, gave permission	o reino da Pérsia, sob Koresh, deu permissão
+208	to the Jews to return to the Land of Israel.	aos judeus para voltarem à Terra de Israel.
+209	And then Ezra,	E então Ezra,
+210	who is Malachi the prophet, Ezra, who stood at the head of the Great	que é Malachi, o profeta, Ezra, que presidia a Grande
+211	Assembly,	Assembleia,
+212	went up to the Land of Israel	subiu para a Terra de Israel
+213	with certain groups of people. Not everyone returned	com certos grupos de pessoas. Nem todos voltaram
+214	with Ezra, but there was an ingathering of the exiles. There was an	com Ezra, mas houve uma reunião dos exilados. Houve uma
+215	ingathering of the exiles and Jews returned to the Land of Israel for 420	reunião dos exilados e judeus voltaram à Terra de Israel por 420
+216	years.	anos.
+217	And this is the problem I want to address for a moment.	E este é o problema ao qual quero me referir por um momento.
+218	The cause of the exile: the Land of Israel is a holy land, and the holy	A causa do exílio: a Terra de Israel é uma terra santa, e a terra
+219	land	santa
+220	takes upon itself the people of Israel, who fit	assume sobre si o povo de Israel, que se enquadra
+221	the definition "and you shall be to Me a kingdom of priests and a holy nation."	na definição "e vós sereis para Mim um reino de sacerdotes e uma nação santa."
+222	The holiness of the Land of Israel obliges the people of Israel to conduct themselves	A santidade da Terra de Israel obriga o povo de Israel a conduzir-se
+223	in holiness, as we committed ourselves. We took upon	em santidade, como nos comprometemos. Aceitamos
+224	ourselves to be a holy nation. We said to it: "We will do and we will hear."	sobre nós ser uma nação santa. Dissemos a isso: "Faremos e ouviremos."
+225	But we violated	Mas violamos
+226	the holiness of the people of Israel before the destruction of the First Temple,	a santidade do povo de Israel antes da destruição do Primeiro Templo,
+227	and for a long time the Holy One, blessed be He, had much	e por muito tempo o Santo, Bendito Seja, teve muita
+228	patience.	paciência.
+229	We violated	Violamos
+230	through idolatry, forbidden relations, bloodshed,	por meio de idolatria, relações proibidas, derramamento de sangue,
+231	conduct not according to the laws of the Torah, as was set	conduta não conforme as leis da Torá, como foi estabelecido
+232	in advance that this is the condition for our being in the Land.	de antemão que esta é a condição para estarmos na Terra.
+233	"Because of our sins we were exiled from our land": first the Ten	"Por causa dos nossos pecados fomos exilados da nossa terra": primeiro as Dez
+234	Tribes were exiled, and afterward Yehudah too was exiled, the destruction	Tribos foram exiladas, e depois também Yehudá foi exilada, a destruição
+235	of the First Temple.	do Primeiro Templo.
+236	And that exile was a fixed-term exile, as was stated	E aquele exílio foi um exílio de prazo determinado, como foi dito
+237	explicitly in the prophecy of Yirmeyahu, that it was for 70 years, corresponding to the	explicitamente na profecia de Yirmeyahu, que era de 70 anos, correspondentes
+238	Shemitah years that were neglected; we won't go into that detail now.	aos anos de Shemitá que foram negligenciados; não entraremos nesse detalhe agora.
+239	And behold, the 70 years of exile were completed. By the way, they returned;	E eis que os 70 anos de exílio se completaram. Aliás, eles voltaram;
+240	in a prophecy they don't just return for nothing.	em uma profecia não se volta à toa.
+241	They returned because Koresh said:	Voltaram porque Koresh disse:
+242	"All the kingdoms of the earth HaShem has given me, and He has charged	"Todos os reinos da terra HaShem me deu, e Ele me ordenou
+243	me to build Him a house in Jerusalem. Whoever is among you of all	que Lhe edifique uma casa em Jerusalém. Quem dentre vós, de todo
+244	His people, HaShem his Elokim be with him, and let him go up." That is, there was here,	o Seu povo, HaShem, seu Elokim, seja com ele, e suba." Ou seja, houve aqui,
+245	so to speak, divine direction. Koresh acknowledges this, and the one	por assim dizer, uma direção divina. Koresh reconhece isso, e quem
+246	who returned the people of Israel to the Land of Israel and gathered the	devolveu o povo de Israel à Terra de Israel e reuniu os
+247	exiles of Babylon, the Babylonian exile, were the	exilados da Babilônia, o exílio babilônico, foram os
+248	last prophets, Chaggai, Zecharyah and Malachi. This was not done	últimos profetas, Chaggai, Zecharyah e Malachi. Isso não foi feito
+249	by chance; it was done under divine direction,	por acaso; foi feito sob direção divina,
+250	because only the One who scattered us into exile,	porque somente Aquele que nos dispersou no exílio,
+251	only He determines when we can return	só Ele determina quando podemos voltar
+252	to our home.	para a nossa casa.
+253	There is no need to elaborate and sharpen this any further. I assume	Não é preciso alongar e aguçar isso mais. Presumo
+254	that what I'm saying here	que o que digo aqui
+255	conveys a very, very important message.	transmite uma mensagem muito, muito importante.
+256	In any case, Jews returned to the Land of Israel,	Em todo caso, judeus voltaram à Terra de Israel,
+257	and so to speak a second chance was given to live in the Land of	e foi dada, por assim dizer, uma segunda chance de viver na Terra de
+258	Israel. Right.	Israel. Certo.
+259	And the history of the days of the Second Temple shows	E a história dos dias do Segundo Templo mostra
+260	that once again we tried to be clever,	que mais uma vez tentamos ser espertos,
+261	and at the beginning of the Second Temple period all kinds of groups arose	e no início do período do Segundo Templo surgiram todo tipo de grupos
+262	within the Jewish people of heretics, such as the Sadducees	dentro do povo judeu, de hereges, como os saduceus
+263	and the Boethusians,	e os boetusianos,
+264	and afterward the Hellenizers,	e depois os helenizantes,
+265	who led the people of Israel astray, and they were the majority of the Jewish	que desencaminharam o povo de Israel, e eram a maioria do público
+266	public in the Land of Israel in the Second Temple, during the period of	judeu na Terra de Israel no Segundo Templo, durante o período
+267	Greek rule.	do domínio grego.
+268	And after the Hasmoneans defeated the Greeks	E depois que os hasmoneus derrotaram os gregos
+269	and restored the Temple to its purity,	e restauraram a pureza do Templo,
+270	the Hasmonean kings themselves, in the Hasmonean dynasty,	os próprios reis hasmoneus, na dinastia dos hasmoneus,
+271	which did not last long, only close to 100 years, there too	que não durou muito, apenas cerca de cem anos, também ali
+272	all kinds of internal conflicts began, and Hyrcanus, who was one of	começaram todo tipo de conflitos internos, e Hircano, que era um dos
+273	the descendants of the Hasmoneans,	descendentes dos hasmoneus,
+274	became a Sadducee.	tornou-se saduceu.
+275	And of course when the king is a Sadducee or a heretic, then everyone	E, é claro, quando o rei é saduceu ou herege, todos
+276	bends along with him.	se curvam junto com ele.
+277	And afterward	E depois
+278	began the phenomenon of the heresy of Christianity and Yeshu	começou o fenômeno da heresia do cristianismo e de Yeshu
+279	and his disciples. [snort of contempt]	e seus discípulos. [bufo de desprezo]
+280	And afterward all the sects,	E depois todas as seitas,
+281	the Essenes and all the other sects; there were all kinds of sects	os essênios e todas as demais seitas; havia todo tipo de seitas
+282	that distorted the Torah.	que distorciam a Torá.
+283	And the result was that we violated the covenant with	E o resultado foi que violamos de novo a aliança com
+284	the Holy One, blessed be He, again,	o Santo, Bendito Seja,
+285	and we were expelled again from our land and went out into the long exile,	e fomos expulsos novamente da nossa terra e saímos para o longo exílio,
+286	long, long, long, in which we are to this very day,	longo, longo, longo, em que estamos até hoje,
+287	scattered in all the corners of the world.	dispersos por todos os cantos do mundo.
+288	And now, after this historical survey, and these are in fact	E agora, depois desta revisão histórica, e estes são, na verdade,
+289	the data,	os dados,
+290	we must ask: and what will happen now? Let's say the people of	é preciso perguntar: e o que acontecerá agora? Digamos que o povo de
+291	Israel truly awakens to teshuvah	Israel realmente desperte para a teshuvá
+292	and returns and understands that all the adventures it tries to go	e volte e entenda que todas as aventuras em que tenta entrar
+293	into and adopt foreign systems and foreign philosophies,	e adotar sistemas estrangeiros e filosofias estrangeiras,
+294	all of it is falsehood and vanity, and returns to HaShem,	tudo isso é mentira e vaidade, e volte a HaShem,
+295	blessed be He, with all its heart and all its soul, as is written here.	bendito seja, com todo o seu coração e toda a sua alma, como está escrito aqui.
+296	Very much so.	Sem dúvida.
+297	And then we will have the merit to return to the Land of	E então teremos o mérito de voltar à Terra de
+298	Israel and inherit it, as is written here:	Israel e herdá-la, como está escrito aqui:
+299	"and you shall possess it, and He will do you good and multiply you more than your fathers."	"e a possuirás, e te fará bem e te multiplicará mais do que a teus pais."
+300	So let's say that this will happen.	Então digamos que isso aconteça.
+301	Who guarantees	Quem garante
+302	that we won't go back to our old ways afterward, and then, God forbid, there will be	que não voltaremos aos nossos velhos caminhos depois, e então, que não aconteça, haverá
+303	another exile?	outro exílio?
+304	It is worth paying close attention to the next verse. It solves	Vale a pena prestar muita atenção ao próximo versículo. Ele resolve
+305	this problem.	este problema.
+306	And through the solution written here we will become aware of something	E através da solução escrita aqui tomaremos conhecimento de algo
+307	very great.	muito grande.
+308	So, then, we said this:	Então, dissemos isto:
+309	after all the blessings and curses come, "and you return to	depois que vierem todas as bênçãos e maldições, "e voltares a
+310	HaShem your Elokim and listen to His voice with all your heart and with all your	HaShem, teu Elokim, e ouvires a Sua voz com todo o teu coração e com toda a tua
+311	soul", and then "HaShem your Elokim will bring back your captivity and have compassion on you,"	alma", e então "HaShem, teu Elokim, restaurará o teu cativeiro e se compadecerá de ti",
+312	and you will return to the Land of Israel; the whole people will return to the Land of	e voltarás à Terra de Israel; o povo todo voltará à Terra de
+313	Israel and will be at the level of the people of Israel, that is,	Israel e estará no nível do povo de Israel, isto é,
+314	will throw away all the laws of nonsense and vanity of the nations of	lançará fora todas as leis de tolice e vaidade das nações do
+315	the world and return to the laws of Elokim,	mundo e voltará às leis de Elokim,
+316	and reconnect and return to the level of a holy nation.	e se reconectará e voltará ao nível de nação santa.
+317	When this happens, there is a promise here that from this situation	Quando isso acontecer, há aqui uma promessa de que, desta situação,
+318	there will never be a regression. It is written in the next verse.	nunca haverá retrocesso. Está escrito no próximo versículo.
+319	Let's see. "And HaShem your Elokim will circumcise your heart and the	Vejamos. "E HaShem, teu Elokim, circuncidará o teu coração e o
+320	heart of your seed, to love HaShem your Elokim with all your heart	coração da tua descendência, para amares a HaShem, teu Elokim, com todo o teu coração
+321	and with all your soul, that you may live."	e com toda a tua alma, para que vivas."
+322	What is written here?	O que está escrito aqui?
+323	I'll tell you what is written here in my own words,	Vou dizer o que está escrito aqui com as minhas palavras,
+324	and afterward you will see it inside. What is written here is	e depois vós o vereis no texto. O que está escrito aqui é
+325	that the Holy One, blessed be He, will cancel free choice,	que o Santo, Bendito Seja, cancelará o livre-arbítrio,
+326	and there will no longer be a possibility to choose evil.	e não haverá mais possibilidade de escolher o mal.
+327	This is called "HaShem your Elokim will circumcise your heart and the heart of	Isto se chama "HaShem, teu Elokim, circuncidará o teu coração e o coração da
+328	your seed."	tua descendência."
+329	"Mal" means removed, cut, removed the foreskin, as in brit	"Mal" significa removeu, cortou, removeu o prepúcio, como na brit
+330	milah. Orlah is a covering,	milá. Orlá é uma cobertura,
+331	a covering that covers, and it has to be removed.	uma cobertura que cobre, e é preciso removê-la.
+332	This covering is	Essa cobertura é
+333	the thing that in fact appears in the book of Devarim,	a coisa que de fato aparece no livro de Devarim,
+334	in Parashat	na Parashá
+335	Ekev.	Ekev.
+336	Look again for a moment at this verse: "And HaShem	Vejam de novo por um momento este versículo: "E HaShem,
+337	your Elokim will circumcise your heart and the heart of your seed."	teu Elokim, circuncidará o teu coração e o coração da tua descendência."
+338	Now I'll show you the next slide, which goes back to chapter	Agora vou mostrar o próximo slide, que volta ao capítulo
+339	10, in Parashat Ekev.	10, na Parashá Ekev.
+340	"And now, Israel, what does HaShem your Elokim ask of you, but	"E agora, Israel, o que HaShem, teu Elokim, pede de ti senão
+341	to fear": so Moshe Rabbeinu tells the people of Israel, what does	temer": assim Moshé Rabênu diz ao povo de Israel: o que
+342	HaShem your Elokim ask of you, but to fear HaShem	HaShem, teu Elokim, pede de ti senão temer a HaShem,
+343	your Elokim, to walk in all His ways, and to love Him, and to serve	teu Elokim, andar em todos os Seus caminhos, amá-Lo e servir
+344	HaShem your Elokim with all your heart and with all your soul, to keep	a HaShem, teu Elokim, com todo o teu coração e com toda a tua alma, guardar
+345	the commandments of HaShem and His statutes, which I command	os mandamentos de HaShem e os Seus estatutos, que eu te ordeno
+346	you today, for your good?	hoje, para o teu bem?
+347	"Behold, to HaShem your Elokim belong the heavens and the heavens of heavens, the earth	"Eis que a HaShem, teu Elokim, pertencem os céus e os céus dos céus, a terra
+348	and all that is in it. Only in your fathers did HaShem delight, to love them,	e tudo o que nela há. Somente de teus pais HaShem se agradou, para amá-los,
+349	and He chose their seed after them, you, from among all peoples, as this day."	e escolheu a descendência deles depois deles, vós, entre todos os povos, como hoje."
+350	And then this is what is written in chapter 10:	E então isto é o que está escrito no capítulo 10:
+351	"Circumcise therefore the foreskin of your heart, and your neck	"Circuncidai, pois, o prepúcio do vosso coração, e a vossa cerviz
+352	you shall no longer stiffen." And so the command is upon us that we circumcise	já não endurecereis." E assim o mandamento é para nós: circuncidarmos
+353	the foreskin of our heart,	o prepúcio do nosso coração,
+354	and not stiffen our neck. Let's explain for a moment this concept	e não endurecermos a nossa cerviz. Expliquemos por um momento este conceito
+355	at its abstract level.	em seu nível abstrato.
+356	What is called the foreskin of the heart?	O que se chama o prepúcio do coração?
+357	So of course the foreskin in brit milah is a physical,	Pois bem, o prepúcio na brit milá é um prepúcio físico,
+358	technical foreskin.	técnico.
+359	Physical. One removes the foreskin.	Físico. Remove-se o prepúcio.
+360	Excess skin that has to	Pele em excesso que é preciso
+361	be removed by the commandment of HaShem, as was said to Avraham	remover por mandamento de HaShem, como foi dito a Avraham
+362	Avinu. What is called the foreskin of the heart?	Avinu. O que se chama o prepúcio do coração?
+363	Here it already moves to the abstract. The heart is not just	Aqui já passa ao abstrato. O coração não é apenas
+364	the physical organ, which is very, very important, that sends blood	o órgão físico, que é muito, muito importante, que envia sangue
+365	to all, this pump that sends blood to all the cells in the body	para todos, essa bomba que envia sangue a todas as células do corpo
+366	and gives them life.	e lhes dá vida.
+367	The heart,	O coração,
+368	in the more abstract sense, is the engine. The motivation	no sentido mais abstrato, é o motor. A motivação
+369	to act. The heart. You do things, how do they say	para agir. O coração. Você faz coisas, como se diz
+370	in slang? With all your heart.	na gíria? De todo o coração.
+371	That means motivation to act.	Isso quer dizer motivação para agir.
+372	There is something called the foreskin of the heart. The foreskin of the heart is a kind of	Existe algo chamado prepúcio do coração. O prepúcio do coração é uma espécie de
+373	state of a blocking covering that prevents	estado de cobertura que bloqueia
+374	the heart, that prevents the truth from connecting to the heart. There is	o coração, que impede a verdade de se ligar ao coração. Há
+375	a foreskin that separates between the true reality, the truth,	um prepúcio que separa a realidade verdadeira, a verdade,
+376	and the heart. And then you go by the stubbornness of your heart,	e o coração. E então você vai segundo a obstinação do seu coração,
+377	regardless of reality as it should be.	sem relação com a realidade como ela deve ser.
+378	Here in chapter 10 in Parashat Ekev, Moshe Rabbeinu says to the Holy One,	Aqui no capítulo 10, na Parashá Ekev, Moshé Rabênu diz ao Santo,
+379	blessed be He,	Bendito Seja,
+380	what does HaShem ask of you?	o que HaShem pede de você?
+381	To remove the foreskin of the heart. You, the individual,	Remover o prepúcio do coração. Você, o indivíduo,
+382	and the whole of Israel, but you need to remove, to circumcise,	e todo o Israel, mas é preciso remover, circuncidar,
+383	the foreskin of the heart.	o prepúcio do coração.
+384	And consequently also the stiffness of the neck that comes as a result of the foreskin of	E, consequentemente, também a dureza da cerviz que vem em consequência do prepúcio do
+385	the heart,	coração,
+386	and to do what HaShem asks of you. What does He ask	e fazer o que HaShem pede de você. O que Ele pede
+387	of you? To fear HaShem, to walk in all His ways, to love	de você? Temer a HaShem, andar em todos os Seus caminhos, amá-Lo,
+388	Him, to serve HaShem, to keep the commandments of HaShem.	servir a HaShem, guardar os mandamentos de HaShem.
+389	So this is a command upon us to remove the foreskin of the heart.	Então este é um mandamento para nós: remover o prepúcio do coração.
+390	That is, the heart is fine, reality is	Ou seja, o coração está bem, a realidade está
+391	fine. The problem is the foreskin that separates between	bem. O problema é o prepúcio que separa entre
+392	reality as it is and the heart. And then the heart can,	a realidade como ela é e o coração. E então o coração pode,
+393	from behind	por trás
+394	the concealment of this foreskin, go to bad places,	do ocultamento desse prepúcio, ir a lugares ruins,
+395	go to other places and not take into account	ir a outros lugares e não levar em conta
+396	the true spiritual reality.	a verdadeira realidade espiritual.
+397	That is in chapter 10. And now let's return to what is written here.	Isso está no capítulo 10. E agora voltemos ao que está escrito aqui.
+398	Because in chapter 30 he speaks about what will happen at the end of	Porque no capítulo 30 ele fala sobre o que acontecerá no fim dos
+399	days. And in the end of days there will be events that will show	dias. E no fim dos dias haverá acontecimentos que mostrarão
+400	the people of Israel and lead it to the state of returning to	ao povo de Israel e o conduzirão ao estado de voltar a
+401	HaShem your Elokim with all your heart and with all your soul.	HaShem, teu Elokim, com todo o teu coração e com toda a tua alma.
+402	Is this state reversible? After we reach	Esse estado é reversível? Depois que chegarmos
+403	this state, will there still be a possibility that in the next	a esse estado, ainda haverá a possibilidade de que, na próxima
+404	generation, in the generation after it, again the foreskin of the heart will divert us	geração, na geração seguinte, de novo o prepúcio do coração nos desvie
+405	from the truth?	da verdade?
+406	So it helped,	Pois bem, adiantou,
+407	it helped, and the event described here	adiantou, e o acontecimento descrito aqui
+408	is the absolute end of the matter of exile.	é o fim absoluto da questão do exílio.
+409	There will be no exile afterward. After the whole people of Israel	Não haverá exílio depois. Depois que todo o povo de Israel
+410	returns to the Land of Israel in the true redemption, it will not	voltar à Terra de Israel na redenção verdadeira, não
+411	return and go into exile. Why?	voltará a ser exilado. Por quê?
+412	Because the Holy One, blessed be He, will circumcise the foreskin of our heart.	Porque o Santo, Bendito Seja, circuncidará o prepúcio do nosso coração.
+413	That is, whoever understands these things: there is a period	Ou seja, quem entende essas coisas: há um período
+414	in history, from Adam HaRishon until the time of	na história, desde Adam HaRishon até a época do
+415	the event described here, a period called the period of	acontecimento descrito aqui, um período chamado período de
+416	choice, and in this period of choice there is a possibility	escolha, e neste período de escolha há a possibilidade
+417	to behave properly and to behave improperly. The possibility	de se comportar corretamente e de se comportar de modo incorreto. A possibilidade
+418	to behave improperly stems from the fact that there is a concept	de se comportar mal decorre do fato de existir um conceito
+419	that, as we explained, is called the foreskin of the heart.	que, como explicamos, se chama prepúcio do coração.
+420	What do we need to do throughout the time of choice?	O que precisamos fazer ao longo do tempo da escolha?
+421	Remove the foreskin of the heart.	Remover o prepúcio do coração.
+422	But a time will come	Mas chegará um tempo
+423	when there will no longer be choice, because the Holy One, blessed be He,	em que não haverá mais escolha, porque o Santo, Bendito Seja,
+424	will remove the foreskin of the heart. It will not depend on us.	removerá o prepúcio do coração. Não dependerá de nós.
+425	And consequently	E, consequentemente,
+426	we will have no inclination to do wrong, to do evil. There will not be	não teremos inclinação para fazer o que é errado, para fazer o mal. Não haverá
+427	such an inclination.	tal inclinação.
+428	And this is what guarantees	E isto é o que garante
+429	that the exile	que o exílio
+430	has ended definitively, because there will be no possibility	terminou de forma definitiva, porque não haverá possibilidade
+431	for the people of that generation,	para as pessoas daquela geração,
+432	when the Holy One, blessed be He, returns us to the Land of Israel	quando o Santo, Bendito Seja, nos fizer voltar à Terra de Israel
+433	and returns us to the level of the Jew as he	e nos fizer voltar ao nível do judeu como ele
+434	should be, there will be no situation where some Jew	deve ser, não haverá situação em que algum judeu
+435	afterward would think of behaving improperly, would think of	depois pense em se comportar de modo incorreto, pense em
+436	behaving differently; this option simply will no longer	se comportar de outra forma; essa opção simplesmente não existirá
+437	exist, because the Holy One, blessed be He, will circumcise	mais, porque o Santo, Bendito Seja, circuncidará
+438	the foreskin of our heart. And this is what is written here. Now this	o prepúcio do nosso coração. E isto é o que está escrito aqui. Agora isso
+439	brings us into a huge issue from the	nos leva a uma questão enorme do ponto de vista
+440	philosophical, conceptual point of view, and that is the matter of choice.	filosófico e conceitual, que é a questão da escolha.
+441	Free choice. After all, one has to understand that the entire	O livre-arbítrio. Afinal, é preciso entender que toda a
+442	uniqueness of man over the other elements	singularidade do homem sobre os demais elementos
+443	in the whole universe is that he has free choice, and he	em todo o universo é que ele tem livre-arbítrio, e ele
+444	can, by his choice, build himself, that is, create	pode, por sua escolha, construir a si mesmo, isto é, criar
+445	his reality,	a sua realidade,
+446	for good or for bad.	para o bem ou para o mal.
+447	So what is written here in our Parashah is that this period	Então o que está escrito aqui na nossa Parashá é que este período
+448	is a time-limited period. It will not be like this	é um período limitado no tempo. Não será assim
+449	forever, because otherwise it could repeat itself again	para sempre, porque do contrário poderia se repetir de novo
