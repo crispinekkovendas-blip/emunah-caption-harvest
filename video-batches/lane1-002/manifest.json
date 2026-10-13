@@ -2,7 +2,7 @@
  "name": "lane1-002",
  "lane": 1,
  "created": "2026-10-12T20:41:33.773Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "u7apy-idxko",
@@ -254,5 +254,34 @@
   "cKeMiQsBKTQ.p0",
   "cKeMiQsBKTQ.p1",
   "cKeMiQsBKTQ.p2"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "u7apy-idxko",
+  "wuq1Gklqwzw",
+  "g77vdkFpCGM",
+  "5adGu0jCmAo",
+  "9_BVO-TrWOs",
+  "DUer8eXEfy0",
+  "tP9qT4y4jUw",
+  "7cWR8orijMA",
+  "Kl5ZdOTpQ6s",
+  "2I_uOjFNquc",
+  "Tj1Z_DbTWbo",
+  "O8iLdpbcCy0",
+  "fTlflYeRUWw",
+  "0RIXDtrz6VE",
+  "6bIB9Hh_5oo",
+  "wMMRX8lT4Dc",
+  "_xQcZ3790gQ",
+  "OVpTVcRJo3w",
+  "2i1MDE3MaWE",
+  "I3HyXxaTdkw",
+  "IVqEDJt859c",
+  "t2jmxLq_Zws",
+  "fjo7b6-f_Hs",
+  "yUd6itDRbjw",
+  "cKeMiQsBKTQ"
+ ],
+ "skipped": []
 }
