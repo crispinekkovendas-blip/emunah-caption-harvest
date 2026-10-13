@@ -1,450 +1,450 @@
-900	Does that seem normal to you? Good thing you didn't film me. You won't have time	Isso lhes parece normal? Ainda bem que não me filmaram. Não vão dar tempo
+900	common? Good thing you didn't film me. You won't have time	comum? Ainda bem que não me filmaram. Vocês não vão dar tempo
 901	to film me.	de me filmar.
-902	Now he pulls out a camera.	Agora ele tira uma câmera.
-903	Smile, brother. There are two good things in it.	Sorria, irmão. Há duas coisas boas nisso.
-904	Two good things.	Duas coisas boas.
-905	This one, yes. Do you know what I just did?	Esta sim. Sabem o que acabei de fazer?
-906	Do you know what I just did?	Sabem o que acabei de fazer?
+902	Now he takes out a camera	Agora ele tira uma câmera
+903	Smile, bro, there are two good things in it.	Sorria, irmão, isso tem duas coisas boas.
+904	Two good things	Duas coisas boas
+905	This one, yes. Do you know what I just did?	Esta, sim. Sabe o que eu fiz agora?
+906	Do you know what I just did?	Sabe o que eu fiz agora?
 907	Yes, I make faces. Rabbi Nachman of Breslev says	Sim, eu faço caretas. Rabi Nachman de Breslev diz
-908	this. Do you know why Rabbi Nachman of Breslev says	isto. Sabem por que Rabi Nachman de Breslev diz
-909	this? There is something amazingly psychological here.	isto? Há aqui algo psicológico impressionante.
-910	Rabbi Nachman of Breslev says: act silly.	Rabi Nachman de Breslev diz: faça uma bobagem.
-911	Now I take this in two directions.	Agora eu levo isso em duas direções.
-912	The silliness is: don't worry about what people think.	A bobagem é: não ligue para o que pensam.
-913	Do you know where shame comes from? I have something important to teach you.	Sabem de onde vem a vergonha? Tenho algo importante para lhes ensinar.
-914	I have something important to teach you.	Tenho algo importante para lhes ensinar.
-915	Shy people are part of the Jewish people. Some people have no	Os tímidos são parte do povo de Israel. Há pessoas que não têm
-916	"hashuma" in Moroccan Arabic. "Hashuma" means shame. They have no	"hashuma" em árabe marroquino. "Hashuma" é vergonha. Não têm
-917	shame at all. He walks in and stays as your guest, says	nenhuma vergonha. Ele entra e se hospeda na sua casa, diz
-918	"Wow, do you have lunch for me?" He even	"Nossa, você tem almoço para mim?" Ele ainda
-919	walks right in. You know him. He says, "Listen, brother,	entra. Você o conhece. Ele diz: "Escute, irmão,
-920	do you have a pool here, something we can	você tem uma piscina aqui, algo onde dê para
-921	dip into? A jacuzzi?" "Go to the bathroom,	mergulhar? Um jacuzzi?" "Vá ao banheiro,
-922	we'll open the water on you, we'll make you a jacuzzi." What is	vamos abrir a água em você, fazemos um jacuzzi." O que é
-923	a jacuzzi? He has no shame at all. There are people with no	um jacuzzi? Ele não tem vergonha nenhuma. Há pessoas sem
-924	shame at all. He comes right into the house. When I go	vergonha nenhuma. Ele entra direto na casa. Quando eu vou
-925	to be a guest at someone's home, I feel uncomfortable. Excuse me, if	ser hóspede na casa de alguém, fico sem jeito. Com licença, se
-926	you could bring me a towel, if I could take a shower.	puder me trazer uma toalha, se eu puder tomar um banho.
-927	I ask permission to shower, I ask permission to eat	Peço licença para tomar banho, peço licença para comer
-928	food. Sometimes I'm starving and ashamed to ask for	comida. Às vezes estou morrendo de fome e tenho vergonha de pedir
-929	food. There are people who are shameless. "Brother, tell	comida. Há gente sem vergonha. "Irmão, diga
-930	your wife to make those two schnitzels from last time. Yes,	à sua mulher para fazer aqueles dois schnitzels da última vez. Sim,
-931	yes, tell her to make two schnitzels again."	sim, diga a ela para fazer dois schnitzels de novo."
-932	I put it on the pan, blessed be His name forever. What is	Eu o coloco na frigideira, bendito seja o Seu nome para sempre. O que é
-933	that, asking like that? You ask for schnitzels? It's not nice. There are	isso, pedir assim? Você pede schnitzels? Não é bonito. Há
-934	people who have no shame at all.	pessoas que não têm vergonha nenhuma.
-935	Do you know why we feel ashamed?	Sabem por que sentimos vergonha?
-936	Why are we ashamed?	Por que sentimos vergonha?
-937	Why am I ashamed? Today I'm not ashamed to stand	Por que eu sinto vergonha? Hoje não tenho vergonha de estar
-938	before you. Why am I not ashamed now to stand before you, and there are	diante de vocês. Por que agora não tenho vergonha de estar diante de vocês, e há
-939	things I am ashamed to do?	coisas que tenho vergonha de fazer?
-940	I heard Rabbi Aharon Levi, the sweet tzaddik. I	Ouvi o Rabino Aharon Levi, o doce tsadik. Eu
-941	love his ideas very much, wonderful and amazing things.	amo muito as ideias dele, coisas maravilhosas e impressionantes.
-942	He explained it very, very nicely. I don't know in the name of one	Ele explicou de modo muito, muito bonito. Não sei se em nome de um
-943	of the commentators, but this is what he said:	dos comentaristas, mas foi isto que ele disse:
-944	If I walk in now in front of an audience	Se eu entro agora diante de um público
-945	and I see my flaws and think that they see	e vejo os meus defeitos e acho que eles veem
-946	my flaws, I will be ashamed.	os meus defeitos, sentirei vergonha.
-947	But if I think that you see my virtues and not my flaws, I won't be ashamed	Mas se eu penso que você vê as minhas qualidades e não os meus defeitos, não terei vergonha
+908	this — do you know why Rabbi Nachman of Breslev says	isto — sabe por que Rabi Nachman de Breslev diz
+909	this? There's something amazingly psychological here	isso? Há algo psicológico incrível aqui
+910	Rabbi Nachman of Breslev says: act silly	Rabi Nachman de Breslev diz: faça uma bobagem
+911	Now I take this in two directions	Agora eu levo isso em duas direções
+912	Being silly means: don't keep calculating	Fazer bobagem é: não fique calculando
+913	Do you know where shame comes from? I have something important to teach you	Sabem de onde vem a vergonha? Tenho algo importante para ensinar a vocês
+914	I have something important to teach you	Tenho algo importante para ensinar a vocês
+915	Shy people are part of the Jewish people. Some have no	Os tímidos fazem parte do povo de Israel. Alguns não têm
+916	"hshuma" in Moroccan — hshuma is shame. They have no	"hchuma" em marroquino — hchuma é vergonha. Não têm
+917	shame at all. He comes in and stays at your place and says	vergonha nenhuma. Ele entra, se hospeda na sua casa e diz
+918	"Wow, do you have lunch for me?" He still	"Nossa, tem almoço para mim?" Ele ainda
+919	comes in, bro, you know him, says to you, "Listen, bro,	entra, irmão, você o conhece, e diz: "Escuta, irmão,
+920	do you have, like, a swimming pool here, something we can	você tem aqui uma piscina, algo onde dê para
+921	swim in? Do you have a jacuzzi? Jacuzzi — go to the bathroom,	nadar? Tem jacuzzi? Jacuzzi — vá ao banheiro,
+922	we'll open the water on you, we'll make you a jacuzzi." What is	abrimos a água em você, fazemos um jacuzzi." O que é
+923	a jacuzzi? He isn't ashamed at all. Some people have no	um jacuzzi? Ele não tem vergonha nenhuma. Há pessoas sem
+924	shame at all. He walks into the house. I go in	nenhuma vergonha. Ele entra na casa. Eu entro
+925	to be a guest at someone's place, I feel uncomfortable, excuse me, if	para ser hóspede de alguém, fico sem jeito, com licença, se
+926	you could bring me a towel, if I could take a shower,	pudesse me trazer uma toalha, se eu pudesse tomar banho,
+927	I ask permission to shower, I ask permission to eat	peço licença para tomar banho, peço licença para comer
+928	food. Sometimes I'm starving, ashamed to ask for	comida. Às vezes estou morrendo de fome, com vergonha de pedir
+929	food. Some people are shameless: "Bro, tell	comida. Há quem não tenha vergonha: "Irmão, diga
+930	me, did your wife make those two schnitzels from last time?" Yes,	para mim, sua esposa fez aqueles dois bifes empanados da última vez?" Sim,
+931	yes, "tell her to make two schnitzels again."	sim, "diga a ela que faça dois bifes empanados de novo."
+932	I put it on the pan, may His name be praised forever, what is	Eu ponho na frigideira, louvado seja o Seu nome para sempre, o que é
+933	this? You ask like that? You ask for schnitzels, that's not nice. Some	isso? Você pede assim? Pedir bifes empanados, isso não é bonito. Há
+934	people have no shame at all.	pessoas sem nenhuma vergonha.
+935	Do you know why we are ashamed?	Sabem por que temos vergonha?
+936	Why are we ashamed?	Por que temos vergonha?
+937	Why am I ashamed? Today I'm not ashamed to stand	Por que eu tenho vergonha? Hoje não tenho vergonha de estar
+938	before you; why now am I not ashamed to stand before you, and there are	diante de vocês; por que agora não tenho vergonha de estar diante de vocês, e há
+939	things I'm ashamed to do.	coisas que tenho vergonha de fazer.
+940	I heard Rabbi Aharon Levi, the sweet tzaddik, I	Ouvi o Rabino Aharon Levi, o doce tsadik, eu
+941	really love his ideas, wonderful and amazing things.	amo muito as ideias dele, coisas maravilhosas e incríveis.
+942	He explained very, very nicely, I don't know in the name of one	Ele explicou de forma muito bonita, não sei se em nome de um
+943	of the commentators, but this is what he said:	dos comentaristas, mas ele disse assim:
+944	if I walk in now in front of an audience	se eu entro agora diante de um público
+945	and I see my flaws and think they see	e vejo os meus defeitos e acho que eles veem
+946	my flaws, I'll be ashamed.	os meus defeitos, vou ter vergonha.
+947	But if I think you see my virtues and not my flaws, I won't be ashamed	Mas se eu penso que você vê as minhas qualidades e não os meus defeitos, não terei vergonha
 948	of you.	de você.
-949	That's why a person next to his father and mother isn't ashamed	Por isso a pessoa junto ao pai e à mãe não tem vergonha
-950	to speak. Next to others he is ashamed to speak, because he	de falar. Junto a outros ela tem vergonha de falar, porque
-951	knows that his father and mother will see his virtues	sabe que o pai e a mãe verão as suas qualidades
-952	in him, so I have no reason to be ashamed. But if I	nela, então não tenho motivo para ter vergonha. Mas se eu
-953	walk in and think that you see my flaws in me,	entro e penso que vocês veem em mim os meus defeitos,
-954	and I think you are right, that I see	e penso que vocês têm razão, que eu vejo
-955	my flaws, then I will be ashamed.	os meus defeitos, então terei vergonha.
+949	That's why a person next to his father and mother isn't ashamed	Por isso a pessoa junto do pai e da mãe não tem vergonha
+950	to speak; next to others he's ashamed to speak because he	de falar; junto de outros tem vergonha de falar porque
+951	knows his father and mother will see his virtues	sabe que o pai e a mãe verão as qualidades
+952	in him, so I have no reason to be ashamed. But if I	dele, então não tenho motivo para ter vergonha. Mas se eu
+953	walk in and think you see my flaws,	entro e acho que vocês veem os meus defeitos,
+954	and I think you're right, that I see	e acho que vocês têm razão, que eu vejo
+955	my flaws, then I'll be ashamed.	os meus defeitos, então terei vergonha.
 956	Why are you ashamed to make a face like this?	Por que vocês têm vergonha de fazer uma careta assim?
 957	Do you know why?	Sabem por quê?
-958	Because you're afraid they'll see you in the mistakes	Porque vocês têm medo de que os vejam nos erros
-959	that you've made.	que cometeram.
-960	Rabbi Nachman of Breslev says: don't be afraid that they'll see you	Rabi Nachman de Breslev diz: não tenha medo de que o vejam
-961	in your mistakes, because whoever laughs at you,	nos seus erros, porque quem ri de você,
-962	he too does things at night,	ele também faz coisas à noite,
-963	out of a dream, out of sleep…	de um sonho, do sono…
-964	he too has his own mistakes. Why do you worry about what people think?	ele também tem os seus próprios erros. Por que você liga para o que pensam?
-965	Rabbi Nachman of Breslev teaches you: act silly,	Rabi Nachman de Breslev lhe ensina: faça uma bobagem,
-966	to teach you: don't worry about what people think.	para lhe ensinar: não ligue para o que as pessoas pensam.
-967	Me, for example, I get embarrassed. People at the airport, I'm	Eu, por exemplo, sinto vergonha. Pessoas no aeroporto, eu sou
-968	shy by nature, very shy. Now if I'm	tímido por natureza, muito tímido. Agora, se eu estou
-969	walking with you in the group, say we're a group	andando com vocês no grupo, digamos que somos um grupo
-970	traveling to Uman, at the airport, and one of us	viajando para Uman, no aeroporto, e um de nós
-971	starts singing "Who will give me wings like a dove," and everyone	começa a cantar "Quem me dera asas como a pomba", e todos
-972	clap their hands and all the people are looking. That's me,	batem palmas e todo mundo olha. Comigo,
-973	I'd be ashamed. I wouldn't dance like that, clapping, because	eu teria vergonha. Eu não dançaria assim, batendo palmas, porque
-974	I'm ashamed. Once in Ukraine I wasn't ashamed,	tenho vergonha. Uma vez, na Ucrânia, eu não tive vergonha,
-975	in Odessa, blessed be His name forever.	em Odessa, bendito seja o Seu nome para sempre.
-976	All the Breslevers started to sing, to sing,	Todos os breslever começaram a cantar, a cantar,
-977	to sing. They said to me, Rabbi, why do you worry	a cantar. Disseram-me: Rabino, por que você liga
-978	about people? There were lots of Ukrainians there. You know,	para as pessoas? Havia ali um monte de ucranianos. Sabe,
-979	a thousand Ukrainians looking at you. Come on,	mil ucranianos olhando para você. Vamos,
-980	come on, what are they looking at? What are	vamos, o que eles estão olhando? O que
-981	you doing here? I, blessed be His name forever. At that moment	você está fazendo aqui? Eu, bendito seja o Seu nome para sempre. Naquele momento
-982	I realized, wow, what's going on here? They're all Ukrainians.	percebi: nossa, o que é isto? São todos ucranianos.
-983	So what? At most they'll film me. What could	E daí? No máximo me filmam. O que poderia
-984	happen? Blessed be His name forever. I started dancing.	acontecer? Bendito seja o Seu nome para sempre. Comecei a dançar.
-985	I felt so happy that I wasn't worrying about	Senti-me tão feliz por não ligar para
+958	Because you're afraid that they'll see you in your	Porque vocês têm medo de que os vejam nos seus
+959	mistakes.	erros.
+960	Rabbi Nachman of Breslev says, don't be afraid they'll see you	Rabi Nachman de Breslev diz: não tenha medo de que te vejam
+961	in your mistakes, because the one who laughs at you	nos seus erros, porque aquele que ri de você
+962	does the same, he does it at night too,	faz o mesmo, ele também faz à noite,
+963	in a dream, in his sleep, even	num sonho, dormindo, até
+964	he has his own mistakes. Why do you worry what people think?	ele tem os seus próprios erros. Por que você se importa com o que pensam?
+965	Rabbi Nachman of Breslev teaches you: act	Rabi Nachman de Breslev te ensina: faça
+966	silly, to teach you: don't worry what people think.	bobagem, para te ensinar: não se preocupe com o que as pessoas pensam.
+967	Me, for example, I'm ashamed of people at the airport. I'm	Eu, por exemplo, tenho vergonha das pessoas no aeroporto. Sou
+968	naturally shy, very shy. Now, if I go	tímido por natureza, muito tímido. Agora, se eu vou
+969	with the group, say we're a group	com o grupo, digamos que somos um grupo
+970	traveling to Uman, at the airport, and we have	viajando para Uman, no aeroporto, e temos
+971	someone who starts singing "Mi yiten li ever ke-yonah" and everyone	alguém que começa a cantar "Mi yiten li ever ke-yonah" e todos
+972	claps, and all the people look — that's me,	batem palmas, e todas as pessoas olham — esse sou eu,
+973	I'd be ashamed, I won't dance clapping like that, because	eu teria vergonha, não vou dançar batendo palmas assim, porque
+974	I'm shy. Once in Ukraine I wasn't ashamed,	sou tímido. Uma vez na Ucrânia eu não tive vergonha,
+975	in Odessa, may His name be praised forever.	em Odessa, louvado seja o Seu nome para sempre.
+976	All the Breslevers there started singing, singing,	Todos os breslevers ali começaram a cantar, cantar,
+977	singing. They told me, Rabbi, why do you worry about	cantar. Disseram-me: Rabino, por que você se importa com
+978	people? There were lots of Ukrainians there, you know,	as pessoas? Havia muitos ucranianos ali, sabe,
+979	some 1,000 Ukrainians looking at you. Come on,	uns mil ucranianos olhando para você. Vamos,
+980	come on, come on, what, they're looking at you? What are you	vamos, vamos, e daí, estão olhando para você? O que você
+981	doing here? Me, may His name be praised forever. At that moment	está fazendo aqui? Eu, louvado seja o Seu nome para sempre. Naquele momento
+982	I realized, wow, what is this? They're all Ukrainians.	percebi: puxa, o que é isso? São todos ucranianos.
+983	So what? At most they'll film me. What can	E daí? No máximo me filmam. O que pode
+984	happen? May His name be praised forever. I started dancing.	acontecer? Louvado seja o Seu nome para sempre. Comecei a dançar.
+985	I felt so happy not worrying about	Senti-me tão feliz por não me importar com
 986	anyone.	ninguém.
-987	I'm not saying you shouldn't feel shame, madam.	Não estou dizendo que a senhora não deva ter vergonha.
+987	I'm not saying don't be modest, ma'am.	Não estou dizendo para não ser recatada, senhora.
 988	Don't be ashamed of who you are in your life.	Não tenha vergonha de quem você é na sua vida.
-989	Because everyone has their flaws.	Porque todos têm os seus defeitos.
-990	Everyone hides them at a different level. Your craziness,	Cada um os esconde num nível diferente. A sua loucura,
-991	Dvir, mine and yours, brother, everyone has them, but they	Dvir, a minha e a sua, irmão, todos têm, mas
-992	hide them. That's all. Cipralex, brother, is	escondem. Só isso. Cipralex, irmão, é
+989	Because everyone has your flaws.	Porque todos têm os seus defeitos.
+990	Each one hides them at a different level. Your crazy sides,	Cada um os esconde em um nível diferente. As suas loucuras,
+991	Dvir, mine and yours, bro, everyone has them, but they	Dvir, as minhas e as suas, irmão, todos têm, mas
+992	hide them. That's all. Cipralex, bro, is	escondem. Só isso. Cipralex, irmão, é
 993	the best-selling pill on earth, and I wish	o comprimido mais vendido do planeta, e quem dera
-994	they'd put it in the national water supply so everyone drinks	que o pusessem na rede nacional de água para que todos tomem
-995	Cipralex. Blessed be His name forever. If you open, Rabbi Moli,	Cipralex. Bendito seja o Seu nome para sempre. Se o senhor abrir, Rabino Moli,
-996	open a party for the depressed.	abra um partido para os deprimidos.
-997	If you open a party where everyone who is depressed puts	Se o senhor abrir um partido em que todo deprimido põe
-998	a note in the ballot to vote for you, I tell you, you take Bibi,	um voto para votar no senhor, eu lhe digo, o senhor pega o Bibi,
-999	you tell him bye-bye, shalom, you kick him out, you	diz tchau, tchau, shalom, chuta ele, o senhor
-1000	become prime minister tomorrow. Everyone is depressed, after all, everyone	vira primeiro-ministro amanhã. Todos estão deprimidos, afinal, todos
-1001	hides it, brother. And it's time to heal	escondem isso, irmão. E é hora de curar
-1002	the depression. It's time to bring a smile to	a depressão. É hora de trazer um sorriso aos
-1003	your lips, brother. It's time you see your	seus lábios, irmão. É hora de você ver as suas
-1004	virtues, my pure soul, you are a king. It's time	qualidades, minha alma pura, você é um rei. É hora
-1005	you stop beating yourself up and saying, "I'm like this	de parar de se torturar e de dizer: "eu sou assim
-1006	and I'm like that and I'm like that." So what if you're like that? So what, brother?	e eu sou assado e eu sou assim." E daí se você é assim? E daí, irmão?
-1007	[snorts of derision]	[bufos de desdém]
-1008	The first thing I ask of you, my dear brother, is	A primeira coisa que lhe peço, meu querido irmão, é
-1009	what Rabbi Nachman of Breslev says: stand in front of the mirror	o que diz Rabi Nachman de Breslev: fique diante do espelho
-1010	and do this: smile, by force. The hearts follow	e faça assim: sorria, à força. Os corações seguem
-1011	the actions. Does this sound crazy to you? Psychiatrists	as ações. Isso lhes parece loucura? Os psiquiatras
-1012	say this today, and Rabbi Nachman of Breslev was	dizem isso hoje, e Rabi Nachman de Breslev foi
-1013	a great psychiatrist, better than everyone,	um grande psiquiatra, melhor do que todos,
-1014	better than all the psychiatrists in the world.	melhor do que todos os psiquiatras do mundo.
+994	they'd put it in the national water carrier so everyone would drink	pusessem no sistema nacional de água para todos tomarem
+995	Cipralex. May His name be praised forever. If you open, Rabbi,	Cipralex. Louvado seja o Seu nome para sempre. Se você abrir, Rabino,
+996	against me, a party for the depressed.	contra mim, um partido dos deprimidos.
+997	If you open a party where everyone who's depressed puts	Se você abrir um partido em que todo deprimido põe
+998	a note to vote for you, I tell you, you take Bibi,	um voto em você, eu te digo: você pega o Bibi,
+999	you tell him bye-bye, you kick him, you	diz tchau para ele, dá um chute nele,
+1000	become prime minister tomorrow; everyone is depressed. After all, everyone	e amanhã vira primeiro-ministro; todos estão deprimidos. Afinal, todos
+1001	hides it, bro, and it's time to heal	escondem isso, irmão, e é hora de curar
+1002	the depression, time to put a smile on	a depressão, hora de colocar um sorriso
+1003	your lips, bro, time for you to see your virtues,	nos seus lábios, irmão, hora de ver as suas qualidades,
+1004	my pure soul, you're a king, it's time	minha alma pura, você é um rei, é hora
+1005	you stop beating yourself up and saying I'm like this	de parar de se maltratar e dizer: eu sou assim
+1006	and I'm like that and I'm like that. So what if you're like that? So what, bro.	e eu sou assado e eu sou assim. E daí se você é assim? E daí, irmão.
+1007	…	…
+1008	The first thing I ask of you, my dear brother, is	A primeira coisa que peço a você, meu querido irmão, é
+1009	what Rabbi Nachman of Breslev says: stand in front of the mirror	o que Rabi Nachman de Breslev diz: fique diante do espelho
+1010	and do like this, smile by force. After the actions the hearts follow.	e faça assim, sorria à força. Depois das ações, os corações seguem.
+1011	Does this sound crazy to you? Psychiatrists	Isso soa absurdo para vocês? Os psiquiatras
+1012	say this today, and Rabbi Nachman of Breslev was	dizem isso hoje, e Rabi Nachman de Breslev era
+1013	a psychiatrist, the best psychiatrist, better than all	um psiquiatra, o melhor psiquiatra, melhor do que todos
+1014	the psychiatrists in the world.	os psiquiatras do mundo.
 1015	Do you know what psychology teaches today?	Sabem o que a psicologia ensina hoje?
-1016	Rabbi Nachman wrote it in his writings 250 years ago,	Rabi Nachman escreveu isso nos seus escritos há 250 anos,
+1016	Rabbi Nachman wrote in his writings 250 years ago,	Rabi Nachman escreveu nos seus escritos há 250 anos,
 1017	250 years ago, before Sigmund Freud and his grandmother	há 250 anos, antes de Sigmund Freud e da avó dele
-1018	and his mother and his aunt, all together.	e da mãe dele e da tia dele, todos juntos.
+1018	and his mother and his aunt put together.	e da mãe dele e da tia dele juntas.
 1019	Sigmund Freud was Jewish. He was the father of	Sigmund Freud era judeu. Ele foi o pai da
-1020	modern, standard psychology. Everyone goes	psicologia moderna, convencional. Todos ficam
-1021	crazy over Sigmund Freud. And I tell you that Rabbi	loucos por Sigmund Freud. E eu lhes digo que Rabi
-1022	Nachman of Breslev, peace be upon him, who was holy of holies,	Nachman de Breslev, a paz esteja com ele, que era santo dos santos,
+1020	modern, standard psychology. Everyone goes	psicologia moderna, padrão. Todos ficam
+1021	crazy over Sigmund Freud. And I tell you that Rabbi	loucos por Sigmund Freud. E eu digo a vocês que Rabi
+1022	Nachman of Breslev, peace be upon him, who was holy of holies,	Nachman de Breslev, que a paz esteja com ele, que era santo dos santos,
 1023	put him in his little pocket with simple insights.	botou-o no bolso pequeno com percepções simples.
-1024	Like he says: act silly! Act silly,	Como ele diz: faça uma bobagem! Faça uma bobagem,
-1025	brother, stand there, smile. Yes, smile, smile at people.	irmão, fique de pé, sorria. Sim, sorria, sorria para as pessoas.
-1026	Hello. I tell you, people are charmed by your smile,	Olá. Eu lhe digo, as pessoas se encantam com o seu sorriso,
-1027	charmed.	encantadas.
+1024	As he says: act silly. Act silly,	Como ele diz: faça bobagem. Faça bobagem,
+1025	bro, stand there. Smile, yes, smile, smile at people.	irmão, fique aí. Sorria, sim, sorria, sorria para as pessoas.
+1026	Hello. I tell you, people are impressed by your smile,	Olá. Eu te digo, as pessoas ficam impressionadas com o seu sorriso,
+1027	impressed.	impressionadas.
 1028	When I stand like this, in life,	Quando eu fico assim, na vida,
 1029	people look at me like this,	as pessoas olham para mim assim,
-1030	I see him, I know he is looking at me	eu o vejo, sei que ele está olhando para mim
+1030	I see him, I know he's looking at me	eu o vejo, sei que ele está olhando para mim
 1031	because I'm smiling.	porque estou sorrindo.
-1032	Each one of you who smiles shines. Know	Cada um de vocês que sorri brilha. Saiba
-1033	that a ray of light comes out of you.	que um raio de luz sai de você.
-1034	A ray of light comes out of you. And if you're sad, brother, a ray	Um raio de luz sai de você. E se você está triste, irmão, sai
-1035	of darkness comes out of you. Blessed be His name forever. You scare	de você um raio de escuridão. Bendito seja o Seu nome para sempre. Você assusta
+1032	Each of you who smiles gives light. Know	Cada um de vocês que sorri ilumina. Saiba
+1033	that a ray of light comes out of you.	que sai de você um raio de luz.
+1034	A ray of light comes out of you. And if you're sad, bro, a ray of darkness comes	Sai de você um raio de luz. E se você está triste, irmão, sai
+1035	out of you. May His name be praised forever. You scare	de você um raio de escuridão. Louvado seja o Seu nome para sempre. Você assusta
 1036	the kids in the neighborhood.	as crianças do bairro.
-1037	You scare the kids in the neighborhood. Oh my! You know	Assusta as crianças do bairro. Ai, meu Deus! Vocês conhecem — "Ai, minha nossa!" Vocês conhecem
-1038	those old ladies who scare	aquelas velhas que assustam
-1039	the kids in the neighborhoods, "Come, come to me, child"? Don't	as crianças dos bairros: "Venha, venha cá, criança"? Não
-1040	be that kind of scary granny. I mean, from the good	seja uma vovó assustadora dessas. Quer dizer, das boas
-1041	grandmas: "Bless you," gives you candy, "Come, my soul,	vovós: "Deus te abençoe", dá um doce, "Venha, minha alma,
-1042	be smiley." There are those grandmas,	sorria." Há aquelas vovós,
-1043	those righteous ones: "Sweetheart, doll, cutie…"	aquelas justas: "Meu amor, boneca, fofinho…"
-1044	"my little one, my sweet." What sweet grandmas we had,	"meu pequeno, meu docinho." Que vovós doces nós tivemos,
-1045	how sweet, bless you, "I came to Grandma, my soul,"	que doces, abençoadas, "vim ver a vovó, minha alma",
-1046	and there are grandmas… hello.	e há vovós… olá.
-1047	Like in the army.	Como no exército.
-1048	With a grandma like that, better none at all, blessed be His name forever. What	Com uma vovó dessas, melhor nenhuma, bendito seja o Seu nome para sempre. Que
-1049	are those grandmas? Be, be a sweet grandpa, be	vovós são essas? Seja, seja um vovô doce, seja
-1050	a cool grandpa, "What's up, brother?" Be smiley, first of all,	um vovô descontraído, "E aí, irmão?" Seja sorridente, antes de tudo,
-1051	be smiley, my soul, a smile on your lips, a smile on	seja sorridente, minha alma, um sorriso nos lábios, um sorriso nos
-1052	your lips, laughing eyes, laughing eyes, a ray	lábios, olhos que riem, olhos que riem, um raio
-1053	of light comes out of you, a ray of light that lights up the world. About	de luz sai de você, um raio de luz que ilumina o mundo. A respeito
-1054	this the Gemara says: Greater is one who shows his teeth to his friend	disso diz a Guemará: Maior é quem mostra os dentes brancos ao seu amigo
+1037	You scare the kids in the neighborhood. Oh, mommy! Do you know	Você assusta as crianças do bairro. Ai, mamãe! Vocês conhecem
+1038	those old ladies who scare	aquelas velhinhas que assustam
+1039	the kids in the neighborhoods: come, come, come to me, boy, don't	as crianças dos bairros: vem, vem, vem aqui, menino, não
+1040	be such a scary granny. Unlike the good	seja uma vovó assustadora assim. Diferente das boas
+1041	grandmas, bless you, giving you candy, come, my soul,	vovós, Deus te abençoe, que dão bala: vem, minha alma,
+1042	be smiley. There are those grandmas,	seja sorridente. Existem aquelas vovós,
+1043	those tzaddikot, "sweetie, aww, baby, honey…"	aquelas tsadikot: "benzinho, ai, bebê, querido…"
+1044	"my cutie, my darling" — what sweet grandmas we had,	"meu fofo, meu amor" — que vovós doces nós tivemos,
+1045	how sweet, bless you, I came to Grandma, my	como eram doces, Deus te abençoe, vim ver a vovó, minha
+1046	soul, and there are grandmas, hello	alma, e há vovós, olá
+1047	How in the army	E no exército
+1048	with a grandma like that, better none at all, may His name be praised forever. What	com uma vovó dessas, melhor nenhuma, louvado seja o Seu nome para sempre. O que
+1049	are these grandmas? Be, be a sweet grandpa, be	são essas vovós? Seja, seja um vovô doce, seja
+1050	a cool grandpa, what's up, bro, be a smiler first of all,	um vovô legal, e aí, irmão, seja sorridente antes de tudo,
+1051	be a smiler, my soul, a smile on the lips, a smile on	seja sorridente, minha alma, um sorriso nos lábios, um sorriso nos
+1052	the lips, laughing eyes, laughing eyes, a ray	lábios, olhos que riem, olhos que riem, sai
+1053	of light comes out of you, a ray of light that lights up the world. About	de você um raio de luz, um raio de luz que ilumina o mundo. Sobre
+1054	this the Gemara says: Greater is one who whitens his friend's teeth	isso diz a Guemará: Maior é quem mostra os dentes brancos ao seu amigo
 1055	than one who gives him milk to drink.	do que quem lhe dá leite para beber.
-1056	Greater is one who shows his teeth to his friend than one who gives him milk to drink.	Maior é quem mostra os dentes brancos ao seu amigo do que quem lhe dá leite para beber.
-1057	You didn't understand what I said? I'll repeat: greater	Não entenderam o que eu disse? Repito: maior
-1058	is one who shows his teeth to his friend than one who gives him milk to drink.	é quem mostra os dentes brancos ao seu amigo do que quem lhe dá leite para beber.
-1059	A person is thirsty now, you give him warm milk,	Uma pessoa está com sede agora, você lhe dá leite quente,
-1060	blessed be His name forever. What kindness, the greatest	bendito seja o Seu nome para sempre. Que bondade, a maior
-1061	kindness in the world. But if I come to you and tell you,	bondade do mundo. Mas se eu venho a você e lhe digo:
-1062	smile, my soul, smile, doll, give a nice smile,	sorria, minha alma, sorria, boneca, dê um sorriso bonito,
-1063	look what a beautiful life we have, and you say to me,	veja que vida bonita nós temos, e você me diz:
-1064	"Wow, Rabbi Gal, you're right," and you smile a	"Nossa, Rabino Gal, o senhor tem razão", e você dá um
-1065	real smile, the Gemara says it's better to cause	sorriso verdadeiro, diz a Guemará que é melhor fazer
-1066	you to smile than to give you milk. Greater is one who shows	você sorrir do que lhe dar leite. Maior é quem mostra
-1067	his teeth to his friend than one who gives milk to drink, because if I	os dentes ao seu amigo do que quem dá leite, porque se eu
-1068	give you milk, I helped your flesh; if I give	lhe dou leite, ajudei a sua carne; se eu lhe dou
+1056	Greater is one who whitens his friend's teeth than one who gives him milk to drink.	Maior é quem mostra os dentes brancos ao seu amigo do que quem lhe dá leite para beber.
+1057	You didn't understand what I said? I'll say it again: greater	Não entenderam o que eu disse? Repito: maior
+1058	is one who whitens his friend's teeth than one who gives him milk to drink.	é quem mostra os dentes brancos ao seu amigo do que quem lhe dá leite para beber.
+1059	A person, now, say you give him hot milk,	Uma pessoa, agora, digamos que você lhe dê leite quente,
+1060	may His name be praised forever. What kindness, the greatest	louvado seja o Seu nome para sempre. Que bondade, a maior
+1061	kindness in the world. But if I come to you and tell you,	bondade do mundo. Mas se eu venho até você e digo:
+1062	smile, my soul, smile, doll, give a nice smile,	sorria, minha alma, sorria, bonitão, dê um lindo sorriso,
+1063	see what a beautiful life we have, and you tell me,	veja que vida linda nós temos, e você me diz:
+1064	wow, Rabbi Gal, you're right, and you smile a	puxa, Rabino Gal, você tem razão, e sorri um
+1065	real smile — the Gemara says it's better to make	sorriso verdadeiro — diz a Guemará que é melhor fazer
+1066	you smile than to give you milk. Greater is one who whitens	você sorrir do que lhe dar leite. Maior é quem mostra os dentes brancos
+1067	his friend's teeth than one who gives milk to drink, because if I	ao seu amigo do que quem dá leite para beber, porque se eu
+1068	give you milk, I helped your flesh; if I give	lhe dou leite, ajudei a sua carne; se lhe dou
 1069	you a smile, I helped your soul.	um sorriso, ajudei a sua alma.
-1070	First point.	Primeiro ponto.
+1070	First point:	Primeiro ponto:
 1071	Give a smile.	Dê um sorriso.
-1072	Tell me, do you have a reception problem? Something in	Digam-me, vocês têm problema de recepção? Algo nas
-1073	the antennas isn't working. I asked you to give a smile.	antenas não está funcionando. Pedi que dessem um sorriso.
-1074	A smile, brother? Don't be ashamed.	Um sorriso, irmão? Não tenha vergonha.
-1075	Eli, you're ashamed, right? You're ashamed, don't	Eli, você está com vergonha, não é? Está com vergonha, não
-1076	be ashamed, my dear. You're such a handsome guy. What are you	tenha vergonha, meu querido. Você é um rapaz tão bonito. Por que se
-1077	worrying about?	preocupa?
-1078	Why do you worry about what people think? Smile, brother. Yes. My soul,	Por que liga para o que pensam? Sorria, irmão. Sim. Minha alma,
-1079	we can see you in your smile. Dimple. Madam, don't ride	vemos você no seu sorriso. Covinha. Senhora, não ande
-1080	the bus like that, with all… But when you	de ônibus assim, com tudo… Mas quando você
-1081	are in a place of modesty, all smile on	está num lugar de recato, todo sorriso
-1082	your lips. A woman healthy in her soul, truly: vitality	nos lábios. Uma mulher saudável na alma, de verdade: a vitalidade
+1072	Tell me, do you have a reception problem? Something in the	Digam, vocês têm problema de recepção? Alguma coisa nas
+1073	antennas isn't working. I asked you to give a smile.	antenas não funciona. Pedi que dessem um sorriso.
+1074	A smile, bro? Don't be ashamed.	Um sorriso, irmão? Não tenha vergonha.
+1075	Eli, you're ashamed, right? You're ashamed, don't	Eli, você está com vergonha, né? Está com vergonha, não
+1076	be ashamed, my dear. Such a handsome guy. Why do you	tenha vergonha, meu querido. Um rapaz tão bonito. Por que você
+1077	care what people think?	se importa com o que pensam?
+1078	Why do you care? Smile, bro. Yes. My soul,	Por que se importar? Sorria, irmão. Isso. Minha alma,
+1079	we see you in your smile. A dimple. Ma'am, don't go	vemos você no seu sorriso. Uma covinha. Senhora, não ande
+1080	on the bus like this with all that, but when you	no ônibus assim com tudo isso, mas quando você
+1081	are in a place of modesty and so on, a smile on	está num lugar de recato e assim por diante, um sorriso nos
+1082	your lips, a woman healthy in her soul, truly the vitality	lábios, uma mulher saudável na alma, de verdade a vitalidade
 1083	of the soul is the greatest thing in the world. First point:	da alma é a maior coisa do mundo. Primeiro ponto:
-1084	act silly.	faça uma bobagem.
-1085	Every now and then, brother…	De vez em quando, irmão…
-1086	The wifi isn't working. Listen, my sweet ones, thing	O wifi não está funcionando. Escutem, meus queridos, coisa
-1087	two, two,	dois, dois,
-1088	[sighs] Good eyes.	[suspiros] Olhos bons.
-1089	Good eyes. Never look at what you lack, look at	Olhos bons. Nunca veja o que não há, veja
-1090	what you have.	o que há.
-1091	Don't look at your friend's shortcomings, look at his	Não olhe os defeitos do seu amigo, olhe as suas
-1092	virtues.	qualidades.
-1093	Don't look at what I don't have. Look at what I have.	Não vejam o que eu não tenho. Vejam o que eu tenho.
+1084	act silly.	faça bobagem.
+1085	Every now and then, bro…	De vez em quando, irmão…
+1086	No, the Wi-Fi isn't working. Listen, my sweet ones, thing	Não, o Wi-Fi não está funcionando. Escutem, meus queridos, coisa
+1087	two, two, the second thing,	dois, dois, a segunda coisa,
+1088	good eyes.	olhos bons.
+1089	Good eyes. Never look at what you lack, look at	Olhos bons. Nunca olhe para o que não tem, olhe para
+1090	what you have.	o que tem.
+1091	Don't look at your friend's faults, look at	Não olhe para os defeitos do seu amigo, olhe para
+1092	his virtues.	as qualidades dele.
+1093	Don't look at what I lack. Look at what I have.	Não olhem para o que me falta. Olhem para o que eu tenho.
 1094	I got a compliment from someone, I don't know if it's a compliment	Recebi um elogio de alguém, não sei se é um elogio
-1095	or not, but he said to me like this, you	ou não, mas ele me disse assim: sabe,
-1096	know, I'm the most critical person in the world,	eu sou a pessoa mais crítica do mundo,
-1097	every rabbi in the world, I critique him from the sole of the foot to	todo rabino do mundo, eu o critico da planta do pé até
-1098	the head. You're the first in whom I haven't managed to find	a cabeça. Você é o primeiro em quem não consegui encontrar
-1099	flaws, baruch HaShem.	defeitos, baruch HaShem.
+1095	or not, but he said to me like this, you	ou não, mas ele me disse assim: você
+1096	know, I'm the most critical person in the world,	sabe, eu sou a pessoa mais crítica do mundo,
+1097	every rabbi in the world, I critique him from head	todo rabino do mundo, eu o critico da cabeça
+1098	to toe. You're the first in whom I didn't manage to find	aos pés. Você é o primeiro em quem não consegui achar
+1099	flaws, thank HaShem.	defeitos, graças a HaShem.
 1100	I got a good compliment, but why do you criticize,	Recebi um bom elogio, mas por que você critica,
-1101	brother?	irmão?
-1102	What kind of eyes do we have? What kind of eyes do we have,	Que olhos nós temos? Que olhos nós temos,
-1103	brother? What do you choose in life?	irmão? O que você escolhe na vida?
+1101	bro?	irmão?
+1102	What eyes do we have? What eyes do we have,	Que olhos nós temos? Que olhos nós temos,
+1103	bro? What do you choose in life?	irmão? O que você escolhe na vida?
 1104	Cursed and blessed.	Maldito e abençoado.
-1105	My pure souls, there are two people in this week's	Minhas almas puras, há duas pessoas na parashá
-1106	parashah. About one it is written "blessed," and about the other it is written	desta semana. Sobre uma está escrito "abençoado" e sobre a outra está escrito
+1105	My pure souls, there are two people in the	Minhas almas puras, há duas pessoas na
+1106	Parashah of the week. One has "blessed" written about him and one has written about him	Parashá da semana. De um está escrito "abençoado" e de outro está escrito
 1107	"cursed."	"maldito".
-1108	They live in the same, same building.	Moram no mesmo, mesmo prédio.
-1109	In the same building in the same city. Petah Tikva, the mother of	No mesmo prédio na mesma cidade. Petah Tikva, a mãe
-1110	the colonies. Third floor, both in the front, both	das colônias. Terceiro andar, ambos na frente, ambos
-1111	married with five children. This one is blessed and this one is cursed.	casados e com cinco filhos. Este é abençoado e este é maldito.
+1108	They live in the same building.	Moram no mesmo prédio.
+1109	In the same building in the same city. Petach Tikva, the	No mesmo prédio na mesma cidade. Petach Tikva, as
+1110	moshavot. Third floor, both facing the front, both	moshavot. Terceiro andar, os dois na frente, os dois
+1111	married with five children. This one is blessed and that one is cursed.	casados e com cinco filhos. Este é abençoado e aquele é maldito.
 1112	They live in the same housing project, in the same building.	Moram no mesmo conjunto habitacional, no mesmo prédio.
 1113	One blessed, one cursed.	Um abençoado, um maldito.
-1114	The blessed one opens the window, he sees	O abençoado abre a janela, vê
-1115	children walking on the street, he says: pure souls of	crianças andando na rua, diz: almas puras de
-1116	lovely children, the children walking, when you get up	crianças encantadoras, as crianças andando, quando você acorda
-1117	in the morning in Bnei Brak at 7:30 to 8:00, rivers,	de manhã em Bnei Brak, entre 7h30 e 8h00, rios,
-1118	rivers of children, rivers of children	rios de crianças, rios de crianças
-1119	walking there on the roads, going down to the street, I look,	andando ali pelas ruas, descendo para a rua, eu olho,
-1120	pure souls, I enjoy every moment. And there are people	almas puras, aproveito cada momento. E há pessoas
-1121	who say, wow, look what a mess Bnei Brak is. I	que dizem: nossa, veja que bagunça é Bnei Brak. Eu
+1114	The blessed one opens the window, sees	O abençoado abre a janela, vê
+1115	children walking on the road, says: pure souls of	crianças andando na rua e diz: almas puras de
+1116	lovely children, the children walking — when you get up	crianças encantadoras, as crianças andando — quando você acorda
+1117	in the morning in Bnei Brak at 7:30 till 8:00, streams	de manhã em Bnei Brak, das 7h30 às 8h, torrentes
+1118	of children, streams of children	de crianças, torrentes de crianças
+1119	walking there on the roads, going down to the road, I look:	andando ali pelas ruas, descendo para a rua, eu olho:
+1120	pure souls, I enjoy every moment. And there are people who	almas puras, aproveito cada momento. E há pessoas que
+1121	say, wow, look what a mess Bnei Brak is. I	dizem: nossa, olha que bagunça é Bnei Brak. Eu
 1122	enjoy every second in Bnei Brak, enjoy every moment	aproveito cada segundo em Bnei Brak, aproveito cada momento
-1123	and moment. There's a man who looks at his wife and says,	e momento. Há um homem que olha para a mulher e diz:
-1124	"Wow, how much she wastes of mine."	"Nossa, quanto ela gasta do meu dinheiro."
-1125	My wife, may she be healthy, Wolt. She learned this Wolt.	Minha mulher, que ela tenha saúde, Wolt. Ela aprendeu esse Wolt.
-1126	What is this Wolt here? Blessed be His name forever,	O que é esse Wolt? Bendito seja o Seu nome para sempre,
-1127	we make good money, brother, I think only half the budget	ganhamos bom dinheiro, irmão, acho que só metade do orçamento
-1128	is Rabbi Eigal Cohen. There, my wife downloaded Wolt. What	é o Rabino Eigal Cohen. Aí minha mulher baixou o Wolt. O que
-1129	is this? Once it was Shein, then Alibaba, after that	é isso? Antes era Shein, depois Alibaba, depois
-1130	it was Temu, Temu, and each time they discover new things. I discover	foi Temu, Temu, e cada vez descobrem coisas novas. Eu descubro
-1131	myself anew, she tells me, I'm discovering	a mim mesma de novo, ela me diz, estou descobrindo
-1132	myself anew. Discover me anew, but why at my expense?	a mim mesma de novo. Descubra-me de novo, mas por que às minhas custas?
-1133	Believe me, believe me, Rabbi Moli, my pure soul,	Acredite em mim, acredite, Rabino Moli, minha alma pura,
-1134	in a second, brother, we were at some hotel, suddenly	num segundo, irmão, estávamos num hotel, de repente
-1135	a courier knocks on the door. She says, how did a courier get here? He says	um entregador bate à porta. Ela diz: como chegou um entregador? Ele me diz:
-1136	"Wolt." Wow, I don't know what Wolt is	"Wolt." Nossa, eu não sei o que é Wolt
-1137	at all, how do you get there, who is this Wolt? She presses	nem como se chega lá, quem é esse Wolt? Ela aperta
-1138	two buttons on the phone, a courier arrives, brings her	dois botões no telefone, chega um entregador, traz a ela
-1139	Hummus Eliyahu. Hummus, hummus, hummus, what a Garden	Hummus Eliyahu. Homus, homus, homus, que Jardim
-1140	of Eden of life, blessed and exalted be His name forever.	do Éden de vida, bendito e exaltado seja o Seu nome para sempre.
-1141	Eli, tell the truth, does your wife use Wolt?	Eli, diga a verdade, a sua mulher usa o Wolt?
-1142	Do you do Wolt? How do you say	Você faz Wolt? Como se diz
-1143	it? Wolt, Wolt, ah, Wolt, Wolt.	isso? Wolt, Wolt, ah, Wolt, Wolt.
-1144	Wolt, Wolt.	Wolt, Wolt.
-1145	It's connected to Rabbi Nachman, you know. Listen, my tzaddikim,	Está ligado a Rabi Nachman, sabem. Escutem, meus tsadikim,
-1146	so tell me, do you enjoy it when your wife	então me diga, você gosta quando sua mulher
-1147	orders	pede
-1148	food, or you don't enjoy it? You're bummed, brother?	comida, ou não gosta? Está chateado, irmão?
-1149	"I don't want to." "You don't want to?"	"Não quero." "Você não quer?"
+1123	and moment. There's a person who looks at his wife and says,	e momento. Há quem olhe para a esposa e diga:
+1124	wow, how much she wastes on me.	nossa, quanto ela gasta comigo.
+1125	My wife, bless her, Wolt — she learned this	Minha esposa, Deus a abençoe, Wolt — ela aprendeu esse
+1126	Wolt, what is this Wolt, may His name be praised forever.	Wolt, o que é esse Wolt, louvado seja o Seu nome para sempre.
+1127	You make good money, bro, I think only half the budget	Você ganha bem, irmão, acho que só metade do orçamento
+1128	is Rabbi Eigal Cohen's — my wife picked up Wolt. What	é do Rabino Eigal Cohen — minha esposa descobriu o Wolt. O que
+1129	is this? Once it was Shein, now it was Alibaba, after that	é isso? Antes era Shein, agora era Alibaba, depois
+1130	it was Temu, and each time they discover things. I discover	era Temu, e a cada vez descobrem coisas. Eu me descubro
+1131	myself anew, she tells me, I'm discovering myself	de novo, ela me diz, estou me descobrindo
+1132	anew — then rediscover me anew, but why at my expense?	de novo — então me redescubra, mas por que às minhas custas?
+1133	Believe me, believe me, Rabbi Moli, my pure soul,	Acredite, acredite, Rabino Moli, minha alma pura,
+1134	in a second, bro, we were in some hotel, suddenly	num segundo, irmão, estávamos num hotel, de repente
+1135	a courier knocks on the door. She says, how did a courier get here? She tells	um entregador bate na porta. Ela diz: como chegou um entregador? Ela me
+1136	me, Wolt. Wow, I don't know what Wolt is	diz: Wolt. Nossa, não sei o que é Wolt
+1137	at all, how you even get there, who is this Wolt. She presses	afinal, como se chega lá, quem é esse Wolt. Ela aperta
+1138	two buttons on the phone, a courier arrives, brings her	dois botões no telefone, chega um entregador, traz para ela
+1139	Hummus Eliyahu, hummus, hummus, hummus, what a Garden	Homus Eliyahu, homus, homus, homus, que Jardim
+1140	of Eden life is, may His name be praised and exalted forever.	do Éden é a vida, louvado e exaltado seja o Seu nome para sempre.
+1141	Eli, tell the truth, does your wife use Wolt? Don't	Eli, diga a verdade, sua esposa usa Wolt? Você não
+1142	you do Wolt? How do you say	faz Wolt? Como se diz
+1143	it? Wolt… Wolt, ah, Wolt, Wolt	isso? Wolt… Wolt, ah, Wolt, Wolt
+1144	Wolt, Wolt	Wolt, Wolt
+1145	It's connected to Rabbi Nachman, you know. Listen, my tzaddikim,	Tem a ver com Rabi Nachman, sabe. Escutem, meus tsadikim,
+1146	so, tell me, do you enjoy that your wife	então, diga-me, você gosta que a sua esposa
+1147	orders	peça
+1148	meat, or don't you enjoy it, bro?	carne, ou você não gosta, irmão?
+1149	I don't want to. >> You don't want to.	Não quero. >> Você não quer.
 1150	Listen well to the Rabbi, don't argue with me, say thank you	Escute bem o Rabino, não discuta comigo, agradeça
-1151	to the Creator of the world that you have a wife who spends on Wolt. Did you hear,	ao Criador do mundo por ter uma mulher que gasta no Wolt. Ouviu,
-1152	doll? Say thank you. Listen to me, your whole life.	boneca? Agradeça. Escute-me, a vida inteira.
-1153	Kosher? Of course it's kosher, sure, Hummus Eliyahu is kosher, sweetie.	Kasher? Claro que é kasher, com certeza, o Hummus Eliyahu é kasher, querido.
+1151	to the Creator that you have a wife who spends on Wolt. Did you hear,	ao Criador por ter uma esposa que gasta com Wolt. Ouviu,
+1152	doll? Say thank you. Listen to me, your whole life	bonitão? Agradeça. Escute-me, a sua vida inteira
+1153	kosher? Of course it's kosher, sure, Hummus Eliyahu is kosher, honey.	kasher? Claro que é kasher, com certeza, Homus Eliyahu é kasher, querido.
 1154	Ah, money.	Ah, dinheiro.
-1155	Ah, the phone isn't kosher. No, with a dove she sends	Ah, o telefone não é kasher. Não, com uma pomba ela manda
-1156	mail, with a dove, she sends a dove with this one	correio, com uma pomba, ela manda uma pomba com este
-1157	to Wolt, Wolt sends them back a dove with Hummus Eliyahu.	para o Wolt, o Wolt devolve uma pomba com Hummus Eliyahu.
-1158	I don't know, sweetie, I'm giving an example. I just got into	Não sei, querido, estou dando um exemplo. Acabei de entrar
-1159	a phone, kosher or not kosher?	num telefone, kasher ou não kasher?
-1160	Wait, soul, wait, understand, my brothers, my pure souls,	Espere, alma, espere, entendam, meus irmãos, minhas almas puras,
-1161	understand, my darlings, what the idea is	entendam, meus queridos, qual é a ideia
-1162	behind this. Don't catch me now on small details.	por trás disto. Não me peguem agora em miudezas.
-1163	All of life is a gift, even the waste that is wasted	A vida inteira é um presente, até os gastos que são gastos
-1164	on us is a gift, brother. My children, my girls,	conosco são um presente, irmão. Meus filhos, minhas meninas,
-1165	the sweet ones, my grandchildren, the sweet ones, my wife. I'm	as doces, meus netos, os doces, minha mulher. Estou
-1166	in America, my wife asks me, give me money to go	na América, minha mulher me pede: dê-me dinheiro para ir
-1167	shopping, 400, 500, 700 dollars, 800 dollars.	às compras, 400, 500, 700 dólares, 800 dólares.
-1168	I know she's buying for the grandchildren, may she be healthy,	Sei que ela compra para os netos, que ela tenha saúde,
-1169	may they be healthy, she buys for the grandchildren. I'm happy I have	que eles tenham saúde, ela compra para os netos. Fico feliz de ter
-1170	grandchildren that I get to buy gifts for. I'm happy	netos para quem posso comprar presentes. Fico feliz
-1171	that I have the means for my wife to order her food and buy the food she loves,	de poder fazer com que minha mulher peça a comida dela e compre a comida de que gosta,
-1172	and she can order. I'm happy I have daughters	e ela pode pedir. Fico feliz de ter filhas
-1173	who spend my money, and I say this in front of her:	que gastam o meu dinheiro, e digo isto na frente dela:
-1174	everything they spend of mine, the Creator of the world returns to me doubled.	tudo o que gastam de mim, o Criador do mundo me devolve em dobro.
+1155	Ah, the phone isn't kosher — no, she sends mail	Ah, o telefone não é kasher — não, ela manda correio
+1156	with a pigeon, with a pigeon… she sends a pigeon with this	com um pombo, com um pombo… ela manda um pombo com isto
+1157	to Wolt, Wolt sends back a pigeon with Hummus Eliyahu.	para o Wolt, o Wolt devolve um pombo com Homus Eliyahu.
+1158	I don't know, honey, I'm giving an example, I just walked in. A phone,	Não sei, querido, estou dando um exemplo, acabei de entrar. Um telefone,
+1159	kosher or not kosher?	kasher ou não kasher?
+1160	Wait, my soul, wait, understand, my brothers, my pure souls,	Espere, minha alma, espere, entendam, meus irmãos, minhas almas puras,
+1161	understand, my darlings, what's the idea behind	entendam, meus queridos, qual é a ideia por trás
+1162	this; don't catch me now on small details.	disso; não me peguem agora em miudezas.
+1163	All of life is a gift, even the waste that's wasted	A vida inteira é um presente, até os gastos que gastam
+1164	on us is a gift, bro. My daughters, my	conosco são um presente, irmão. Minhas filhas, minhas
+1165	sweet girls, my sweet grandchildren, my wife, I'm	queridas, meus netos queridos, minha esposa, estou
+1166	in America, my wife asks me, give me money to	na América, minha esposa me pede: dê-me dinheiro para
+1167	go shopping, 400, 500, 700 dollars, 800 dollars,	ir fazer compras, 400, 500, 700 dólares, 800 dólares,
+1168	I know she's buying for the grandchildren, bless her,	sei que ela compra para os netos, que ela seja saudável,
+1169	may they be healthy, she buys for the grandchildren. I'm happy I have	que eles sejam saudáveis, ela compra para os netos. Fico feliz de ter
+1170	grandchildren I can buy gifts for. I'm happy	netos para quem comprar presentes. Fico feliz
+1171	that my wife can order her food and buy the food she loves	que minha esposa possa pedir a comida dela e comprar a comida que ama
+1172	and she can order. I'm happy I have daughters	e possa pedir. Fico feliz de ter filhas
+1173	who spend on me, and I say this in front of her:	que gastam comigo, e digo isso na frente dela:
+1174	everything they spend on me, the Creator returns to me double.	tudo o que gastam comigo, o Criador me devolve em dobro.
 1175	Why? Because I do it with love.	Por quê? Porque eu faço isso com amor.
-1176	A beautiful life. Right now, do I get money for	Uma vida bonita. Agora, será que eu recebo dinheiro por
-1177	this lesson? I don't get a single shekel. I	esta aula? Não recebo um shekel. Eu
-1178	come here, I pay for this place. I pay for	venho aqui, eu pago por este lugar. Pago por
-1179	this place, brother.	este lugar, irmão.
-1180	I strive and make an effort, but I enjoy it more than all of you here	Eu me esforço e me empenho, mas aproveito mais do que todos vocês aqui
+1176	A beautiful life. Now I receive money for	Uma vida linda. Será que agora eu recebo dinheiro por
+1177	this lesson? Wow, I don't get a penny. I	esta aula? Nossa, não recebo um centavo. Eu
+1178	come here, I pay for this place. I pay for	venho aqui, eu pago por este lugar. Eu pago por
+1179	this place, bro,	este lugar, irmão,
+1180	I strive and make an effort but I enjoy more than all of you here	eu me esforço e me empenho, mas aproveito mais do que todos vocês aqui
 1181	because I understand the privilege I have. I choose	porque entendo o privilégio que tenho. Eu escolho
 1182	to see it with good eyes.	ver isso com olhos bons.
 1183	I choose to see my life as good. I	Eu escolho ver a minha vida como boa. Eu
-1184	have to get up in the morning at 7:30 or 7:00	preciso acordar de manhã às 7h30 ou às 7h00
-1185	in the morning. I see it as good even though I slept	da manhã. Eu vejo isso como bom mesmo tendo dormido
-1186	at 3 at night. I see it as good. Why do I	às 3 da madrugada. Eu vejo como bom. Por que eu
-1187	see it as good? Because life is a gift. It depends	vejo como bom? Porque a vida é um presente. Depende
-1188	on how you look at your life. How do you	de como você olha para a sua vida. Como você
+1184	have to get up in the morning at 7:30 or at 7:00	tenho que acordar de manhã às 7h30 ou às 7h
+1185	in the morning. I see it as good even though I slept	da manhã. Vejo isso como bom, mesmo tendo dormido
+1186	at 3 at night. I see it as good. Why do I	às 3 da madrugada. Vejo isso como bom. Por que eu
+1187	see it as good? Because life is a gift. It depends	vejo como bom? Porque a vida é um presente. Depende de
+1188	how you look at your life. How do you	como você olha para a sua vida. Como você
 1189	look at your life? Do you look at	olha para a sua vida? Você olha para
-1190	your life as a gift? Every single moment. Every	a sua vida como um presente? Cada momento. Cada
-1191	single breath. Every single breath. A person rides	respiração. Cada respiração. Uma pessoa anda
-1192	the bus and complains. Brother, we rode buses, we got excited.	de ônibus e reclama. Irmão, nós andávamos de ônibus e ficávamos emocionados.
-1193	I tell you, I used to ride the bus	Eu lhe digo, eu andava de ônibus
-1194	and get excited, because a bus for me meant that I had	e ficava emocionado, porque ônibus para mim significava que eu tinha
+1190	your life as a gift? Every moment, every	a sua vida como um presente? Cada momento, cada
+1191	breath. A person rides	respiração. Uma pessoa vai
+1192	the bus and complains. Bro, we rode buses, we got excited.	de ônibus e reclama. Irmão, nós andávamos de ônibus e ficávamos emocionados.
+1193	I tell you, I used to ride a bus	Eu te digo, eu andava de ônibus
+1194	and get excited, because a bus for me meant I had	e ficava emocionado, porque ônibus para mim significava que eu tinha
 1195	money for the bus.	dinheiro para o ônibus.
 1196	Today, you see, the kids ride	Hoje, veja, as crianças andam
-1197	the bus and are annoyed: why a bus, why here? Why	de ônibus e se irritam: por que ônibus, por que aqui? Por que
-1198	do I have to wait at the stop? Say thank you.	tenho de esperar no ponto? Agradeça.
-1199	We used to walk kilometers on foot, brother, I	Nós andávamos quilômetros a pé, irmão, eu
-1200	tell you we walked kilometers on foot, blessed be His name forever. The adults know what I'm	lhe digo que andávamos quilômetros a pé, bendito seja o Seu nome para sempre. Os adultos sabem do que estou
-1201	talking about. You know how much I used to plow through all of Bnei	falando. Sabe quanto eu percorria de todo Bnei
-1202	Brak. And falafel, today you bring the kids	Brak. E falafel, hoje você traz para as crianças
-1203	falafel for dinner. What, falafel?	falafel no jantar. O quê, falafel?
+1197	the bus and get upset: why a bus, why here? Why	de ônibus e ficam chateadas: por que ônibus, por que aqui? Por que
+1198	do I have to wait at the stop? Say thank you,	tenho que esperar no ponto? Agradeça,
+1199	we used to walk kilometers on foot, bro, I	nós andávamos quilômetros a pé, irmão, eu
+1200	tell you we walked kilometers on foot, may His name be praised forever. The adults know what I'm	te digo, andávamos quilômetros a pé, louvado seja o Seu nome para sempre. Os mais velhos sabem do que estou
+1201	talking about. You know how much I used to plow all of Bnei	falando. Sabe quanto eu percorria todo Bnei
+1202	Brak back and forth, and falafel. Today you bring the kids	Brak, de lá para cá, e falafel. Hoje você traz para as crianças
+1203	falafel for dinner — what, falafel?	falafel de jantar — como assim, falafel?
 1204	You know, dear Rabbi Moli, I used to eat	Sabe, querido Rabino Moli, eu comia
-1205	falafel at Falafel Nachum. I'd put on Shabbat clothes	falafel no Falafel Nachum. Eu vestia roupas de Shabat
-1206	beforehand, excited, put on a tie, put on perfume, "for the sake of the unification	antes, emocionado, punha gravata, punha perfume, "em nome da união
-1207	of the Holy One, blessed be He," I'm going to eat falafel at Nachum's,	do Santo, Bendito seja", eu vou comer falafel no Nachum,
-1208	brother. Who dreamed of falafel? Who, in his	irmão. Quem sonhava com falafel? Quem, nos seus
+1205	falafel at Falafel Nachum, I'd put on Shabbat clothes	falafel no Falafel Nachum, eu vestia roupa de Shabat
+1206	beforehand, excited, a tie, perfume, "for the sake of the unification of	antes, emocionado, gravata, perfume, "pela unificação do
+1207	the Holy One, blessed be He" — I'm going to eat falafel at Nachum's,	Santo, bendito seja Ele" — vou comer falafel no Nachum,
+1208	bro. Who would've dreamed of falafel? Who, in his	irmão. Quem sonhava com falafel? Quem, nos seus
 1209	pinkest dreams, dreamed of eating falafel?	sonhos mais cor-de-rosa, sonhava em comer falafel?
-1210	Today the kids don't know how to appreciate.	Hoje as crianças não sabem dar valor.
-1211	I ask of you, you're a spoiled generation, you're kids,	Eu lhes peço, vocês são uma geração mimada, são crianças,
-1212	baruch HaShem you have everything, but know that this is	baruch HaShem vocês têm tudo, mas saibam que isto é
-1213	a gift, and whoever doesn't know how to appreciate the gift	um presente, e quem não sabe dar valor ao presente
+1210	Today the kids don't know how to appreciate.	Hoje as crianças não sabem valorizar.
+1211	I ask of you, you're a spoiled generation, you're kids,	Peço a vocês: vocês são uma geração mimada, são crianças,
+1212	thank HaShem you have everything, but know that it's	graças a HaShem vocês têm tudo, mas saibam que é
+1213	a gift, and whoever doesn't know how to appreciate the gift	um presente, e quem não sabe valorizar o presente
 1214	can't be happy. One of the most important things	não pode ser feliz. Uma das coisas mais importantes
-1215	in the world that will turn you into happy people is to see	do mundo que farão de vocês pessoas felizes é ver
-1216	the good. Brother, look, figure out what your eyes	o bem. Irmão, veja, descubra o que os seus olhos
+1215	in the world that will turn you into happy people: seeing	do mundo que farão de vocês pessoas felizes: ver
+1216	the good. Bro, look, figure out what your eyes	o bem. Irmão, veja, descubra o que os seus olhos
 1217	see, do your eyes see good or bad?	veem, os seus olhos veem o bem ou o mal?
-1218	What do you think about the future?	O que você pensa do futuro?
+1218	What do you think about the future?	O que você pensa sobre o futuro?
 1219	Do you have positive thoughts about the future? Will you succeed,	Você tem pensamentos positivos sobre o futuro? Você vai ter sucesso,
-1220	Dvir, or not, in the competition in China? Ah, you'll succeed,	Dvir, ou não, na competição na China? Ah, vai ter sucesso,
-1221	and with HaShem's help you'll advance and succeed, and succeed big. Not	e com a ajuda de HaShem vai avançar e ter sucesso, e ter muito sucesso. Não
-1222	just succeed small.	só um sucesso pequeno.
-1223	In simple words, my dear brothers, to accustom the	Em palavras simples, meus queridos irmãos, acostumar a
-1224	mind to positive thinking.	mente ao pensamento positivo.
-1225	To accustom the mind to positive thinking means	Acostumar a mente ao pensamento positivo significa
-1226	to accustom the mind to positive thinking means	acostumar a mente ao pensamento positivo significa
-1227	seeing in each and every one his diamonds, in each	ver em cada um os seus diamantes, em cada
-1228	and every one his gifts in your lives, that when you	um os seus presentes na vida de vocês, que quando você
-1229	look in the mirror you don't see the negative, madam. They did	olha no espelho não veja o negativo, senhora. Fizeram
-1230	a psychology test: they took a page and made a black	um teste de psicologia: pegaram uma folha e fizeram nela um
-1231	dot on it and gave it to	ponto preto e deram a
-1232	what do you call them, students, so they'd tell you	como se chamam, estudantes, para que lhe dissessem
-1233	what they think: what do you see, what do you see on the page?	o que acham: o que você vê, o que você vê na folha?
+1220	Dvir, or not succeed in the competition in China? Ah, you'll succeed,	Dvir, ou não vai ter sucesso na competição na China? Ah, vai ter sucesso,
+1221	and with HaShem's help you'll advance and succeed, succeed big. Not	e com a ajuda de HaShem vai avançar e ter sucesso, sucesso grande. Não
+1222	only succeed small.	só sucesso pequeno.
+1223	In simple words, my dear brothers, to train	Em palavras simples, meus queridos irmãos, é treinar
+1224	the brain in positive thinking.	o cérebro no pensamento positivo.
+1225	To train the brain in positive thinking means	Treinar o cérebro no pensamento positivo significa
+1226	to train the brain in positive thinking means	treinar o cérebro no pensamento positivo significa
+1227	to see in each and every one his diamonds, in each	ver em cada um os seus diamantes, em cada
+1228	and every one his gifts, in your lives. When you	um os seus presentes, nas suas vidas. Quando você
+1229	look in the mirror, don't see the negative, ma'am. They did	olhar no espelho, não veja o negativo, senhora. Fizeram
+1230	a psychology test, took a page and made a dot	um teste de psicologia, pegaram uma folha e fizeram um ponto
+1231	black on it, gave it	preto nela, deram
+1232	to — what are they called — students so they'd tell you	a — como se chamam — estudantes para que dissessem
+1233	their opinion, what do you see, what do you see on the page?	a opinião deles: o que você vê, o que você vê na folha?
 1234	90% wrote a black dot.	90% escreveram um ponto preto.
-1235	10% wrote a white page with a small dot. You get	10% escreveram uma folha branca com um pontinho. Você recebe
-1236	a white page with a small black dot. What do you see?	uma folha branca com um pontinho preto. O que você vê?
+1235	10% wrote a white page with a small dot. You get a	10% escreveram uma folha branca com um pequeno ponto. Você recebe uma
+1236	white page with a small black dot. What do you see?	folha branca com um pequeno ponto preto. O que você vê?
 1237	The black dot. The same white page. Your life	O ponto preto. A mesma folha branca. A sua vida
 1238	is half full, half empty. All of life	é meio cheia, meio vazia. A vida inteira
-1239	is half. Your wife too is half full, half	é meio a meio. A sua mulher também é meio cheia, meio
-1240	empty. Whoever merited to get half full with	vazia. Quem mereceu receber meio cheia com
-1241	his wife is truly, truly, truly a person	a mulher é de verdade, de verdade, de verdade uma pessoa
-1242	who is apparently a great tzaddik, and his wife a great tzadeket. Most	que provavelmente é um grande tsadik, e a mulher dele uma grande tsadeket. A maior parte
-1243	of life in the world, dear madam, is half: a honey day, a day	da vida no mundo, querida senhora, é meio a meio: dia de mel, dia
-1244	of onion, "yom asal, yom basal," onion in Arabic,	de cebola, "yom asal, yom basal", cebola em árabe,
-1245	onion, and a day of honey. There are good days, there are days	cebola, e dia de mel. Há dias bons, há dias
+1239	is half. Your wife too, half full, half	é metade. A sua esposa também, meio cheia, meio
+1240	empty. Whoever merited to get half full with	vazia. Quem mereceu receber da esposa a metade cheia
+1241	his wife is truly, truly, truly a person	é de verdade, de verdade, de verdade uma pessoa
+1242	who is probably a great tzaddik, and his wife a great tzadeket. Most	que provavelmente é um grande tsadik, e a esposa uma grande tsadeket. A maior parte
+1243	of life in the world, dear ma'am, is half: yom asal, yom	da vida no mundo, querida senhora, é metade: yom asal, yom
+1244	basal, onion in Arabic: yom asal, yom basal, yom	basal, cebola em árabe: yom asal, yom basal, yom
+1245	basal, onion, and a honey day. There are days he's good, there are days	basal, cebola, e um dia de mel. Há dias em que ele está bem, há dias
 1246	as the song says, there are days	como diz a canção, há dias
-1247	like… in the love of HaShem, there are days.	como… no amor de HaShem, há dias.
-1248	Right, there are days when you get… I come	Certo, há dias em que você recebe… eu venho
-1249	to filming at Channel 14, Moshiko says to me, "Wow,	para as filmagens no Canal 14, o Moshiko me diz: "Nossa,
-1250	you look like you really got hit,"	você parece que levou uma surra de verdade",
-1251	"I'm wrecked, blessed be His name, I need coffee to wake up,"	"estou destruído, bendito seja o Seu nome, preciso de café para acordar,"
-1252	to move my eyes, to take down the… you know,	para mexer os olhos, para tirar o… sabe,
-1253	I want to look normal in the photos, I do it like this	quero ficar normal nas fotos, eu faço assim
-1254	and there are days I'm next to the Garden of Eden, blessed be His name. What	e há dias em que estou junto ao Jardim do Éden, bendito seja o Seu nome. O que
-1255	can you do, brother, it's all fine, but even in your lows	fazer, irmão, está tudo bem, mas mesmo nas suas baixas
-1256	know that you're okay, my soul, it's all fine. Don't get worked up about it,	saiba que você está bem, minha alma, está tudo bem. Não se exalte com isso,
-1257	but good eyes, good eyes, good	mas olhos bons, olhos bons, olhos
-1258	eyes, always, always good eyes. Always, you	bons, sempre, sempre olhos bons. Sempre, você
-1259	enter a place, blessed be His name forever, see how many righteous	entra num lugar, bendito seja o Seu nome para sempre, veja quantos justos
-1260	people there are here, see how many righteous women there are	há aqui, veja quantas mulheres justas há
-1261	here, see how many mitzvot. A person walks in the city, says	aqui, veja quantas mitsvot. Uma pessoa anda na cidade, diz
-1262	to you, how's the city, Petah Tikva? Wow, full of batei	a você: como é a cidade, Petah Tikva? Nossa, cheia de batei
+1247	like … , there are days	como… , há dias
+1248	right, there are days you get… I come	certo, há dias em que você recebe… eu venho
+1249	to filming at Channel 14, Moshiko tells me, wow,	gravar no Canal 14, o Moshiko me diz: nossa,
+1250	you look like you really got a beating, for the love of HaShem. I'm	você parece que levou uma surra de verdade, pelo amor de HaShem. Estou
+1251	wrecked, may His name be praised, I need coffee to wake up,	acabado, louvado seja o Seu nome, preciso de café para acordar,
+1252	to move my eyes, to take down the… you know	para mexer os olhos, para tirar o… sabe
+1253	I look normal in photos, I do like this	que nas fotos eu pareço normal, eu faço assim
+1254	with it. And there are days I'm, praised be His name, next to Gan Eden. What	com isso. E há dias em que estou, louvado seja o Seu nome, perto do Gan Éden. O que
+1255	can you do, bro, all is fine, but even in your lows	fazer, irmão, está tudo bem, mas mesmo nas suas baixas
+1256	know you're okay, my soul, all is fine, don't get worked up about it.	saiba que você está bem, minha alma, está tudo bem, não se agite com isso.
+1257	But good eyes, good eyes, good	Mas olhos bons, olhos bons, olhos
+1258	eyes, always, always good eyes. Always you	bons, sempre, sempre olhos bons. Sempre que você
+1259	enter a place, may His name be praised forever, see how many	entrar num lugar, louvado seja o Seu nome para sempre, veja quantos
+1260	tzaddikim there are here, see how many righteous women there are	tsadikim há aqui, veja quantas mulheres justas há
+1261	here, see how many mitzvot. A person walks in the city, says	aqui, veja quantas mitsvot. Uma pessoa anda na cidade e diz
+1262	to you, how's the city, how's Petach Tikva? Wow, full of batei	a você: como é a cidade, como é Petach Tikva? Nossa, cheia de batei
 1263	midrash, full of good things, full of tzaddikim,	midrash, cheia de coisas boas, cheia de tsadikim,
-1264	full of good deeds. There's one who tells you it's full	cheia de boas ações. Há um que lhe diz que está cheia
-1265	of crooks, full of criminals, full of this, full of that. It depends on your eyes. Train	de malandros, cheia de criminosos, cheia disso, cheia daquilo. Depende dos seus olhos. Exercitem
-1266	yourselves. A day of only jam.	a si mesmos. Um dia só de geleia.
-1267	Of what?	De quê?
-1268	May HaShem protect you, tzaddik.	Que HaShem o proteja, tsadik.
-1269	Only what?	Só o quê?
-1270	What's "only jam"?	O que é "só geleia"?
-1271	Jam alone and no shoes. Only jam.	Só geleia e sem sapatos. Só geleia.
-1272	Only jam. Ah, you, that there be no sugar, you	Só geleia. Ah, você, que não haja açúcar, você
-1273	say, no sugar problem. In short, I	diz, sem problema de açúcar. Em suma, eu
-1274	want to tell you, my dear gentlemen, my pure	quero dizer a vocês, meus queridos senhores, minhas almas
-1275	souls, another thing: hakarat hatov. Seeing	puras, mais uma coisa: hakarat hatov. Ver
-1276	the good and hakarat hatov. How long have I been speaking?	o bem e hakarat hatov. Há quanto tempo estou falando?
-1277	An hour. Give me another 10 minutes or so. I want	Uma hora. Deem-me mais uns 10 minutos. Quero
-1278	to cover a few more important points, my	abordar mais alguns pontos importantes, meus
-1279	dear gentlemen, but I need you to support me	queridos senhores, mas preciso que me deem apoio
+1264	full of good deeds. There's one who tells you it's full of	cheia de boas ações. Há quem diga que está cheia de
+1265	crooks, full of criminals, full of this, full of that. It depends on your eyes. Train	espertalhões, cheia de criminosos, cheia disso, cheia daquilo. Depende dos seus olhos. Treinem
+1266	yourselves. >> A day of only jam	a si mesmos. >> Um dia só de geleia
+1267	>> Of what?	>> De quê?
+1268	>> HaShem protect you, tzaddik.	>> HaShem te proteja, tsadik.
+1269	>> Only what?	>> Só o quê?
+1270	>> What is "only jam"?	>> O que é "só geleia"?
+1271	Jam alone, and no shoes. Only jam.	Geleia sozinha, e nada de sapatos. Só geleia.
+1272	>> Only jam. Ah, you — so there won't be sugar — you	>> Só geleia. Ah, você — para não haver açúcar — você
+1273	say, so there won't be a sugar problem. In short, I	diz, para não haver problema de açúcar. Resumindo, eu
+1274	want to tell you, my dear gentlemen, my pure souls,	quero dizer a vocês, meus queridos senhores, minhas almas puras,
+1275	another thing, hakarat hatov. To see good and	outra coisa: hakarat hatov. Ver o bem e
+1276	hakarat hatov. How long have I been talking?	hakarat hatov. Há quanto tempo estou falando?
+1277	>> An hour. Give me another 10 minutes like this. I want	>> Uma hora. Deem-me mais 10 minutos assim. Quero
+1278	to warm up a few more important points, my	aquecer mais alguns pontos importantes, meus
+1279	dear gentlemen, but I need you to fortify me	queridos senhores, mas preciso que vocês me fortaleçam
 1280	with listening. Please. Please.	com a escuta. Por favor. Por favor.
 1281	Hakarat hatov.	Hakarat hatov.
-1282	Hakarat hatov. Recognizing the good you have. First of all,	Hakarat hatov. Reconhecer o bem que você tem. Antes de tudo,
-1283	seeing the good you have. These are two different things.	ver o bem que você tem. São duas coisas diferentes.
-1284	Do you understand, my sweet, the difference between seeing	Você entende, meu doce, a diferença entre ver
-1285	the good and recognizing the good?	o bem e reconhecer o bem?
+1282	Hakarat hatov. To recognize the good you have. First of all	Hakarat hatov. Reconhecer o bem que você tem. Primeiro
+1283	to see the good you have. These are two different things.	ver o bem que você tem. São duas coisas diferentes.
+1284	Do you understand, sweetie, what's the difference between seeing	Você entende, querido, qual é a diferença entre ver
+1285	the good and hakarat hatov?	o bem e hakarat hatov?
 1286	Seeing the good is seeing good in you. Seeing	Ver o bem é ver o bem em você. Ver
-1287	you, a lovely boy with such beautiful peyot, and kissing	você, um menino encantador com peiot tão bonitas, e beijar
-1288	you. That's it. I truly see you, brother. I	você. Só isso. Eu realmente vejo você, irmão. Eu
+1287	you, a lovely boy with such beautiful peyot, and kissing	você, um menino encantador com peiot tão bonitos, e beijar
+1288	you. That's it. Truly I see you, bro. I	você. Só isso. De verdade eu vejo você, irmão. Eu
 1289	see a flower. Each and every one of you is a flower. Whether you have	vejo uma flor. Cada um de vocês é uma flor. Se você tem
-1290	fruit or no fruit doesn't matter. In my eyes,	frutos ou não, não importa. Aos meus olhos,
-1291	you sitting here and listening, the way they filmed you	você sentado aqui e ouvindo, do jeito que filmaram você
-1292	listening to the lesson so nicely, a flower, I see you	ouvindo a aula tão bem, uma flor, eu vejo você
-1293	listening so nicely to the lesson, I see in you	ouvindo tão bem a aula, vejo em vocês
-1294	truly good things. Rabbi Moli, look, I have	coisas realmente boas. Rabino Moli, veja, eu preciso
-1295	to tell you something, I can't lie to you.	dizer a vocês uma coisa, não posso mentir a vocês.
-1296	With love you can't lie.	Com amor não se pode mentir.
-1297	Who said it? King Solomon: "As in water face answers to face,	Quem disse isso? O rei Salomão: "Como na água o rosto responde ao rosto,
-1298	so the heart of man to man." I can't tell you I	assim o coração do homem ao homem." Não posso lhe dizer que
-1299	love you and in my heart, heaven forbid, feel toward you	amo você e no meu coração, chas veshalom, sentir por você
+1290	fruits or not doesn't matter. In my eyes,	frutos ou não, não importa. Aos meus olhos,
+1291	that you sit here and listen, as they filmed you	você que está sentado aqui e ouve, como filmaram você
+1292	listening to the lesson so nicely, a flower I see you	ouvindo a aula tão bonito, eu vejo você como uma flor
+1293	listening so nicely to the lesson, I see in you	ouvindo tão bonito a aula, vejo em vocês
+1294	truly good things. Rabbi Moli, look, I have to	coisas realmente boas. Rabino Moli, veja, eu tenho que
+1295	tell you something, I can't lie to you.	dizer uma coisa a vocês, não posso mentir para vocês.
+1296	In love you can't lie.	No amor não se pode mentir.
+1297	Who said this? King Solomon: as in water face answers face,	Quem disse isso? O rei Salomão: como na água o rosto responde ao rosto,
+1298	so the heart of man to man. I can't tell you I	assim o coração do homem ao homem. Não posso dizer que
+1299	love you and in my heart, heaven forbid, feel toward you	amo vocês e no coração, que o Céu não permita, sentir por vocês
 1300	contempt.	desprezo.
 1301	My love for you is pure love,	O meu amor por vocês é um amor puro,
 1302	not because I receive something from you, but because there is	não porque recebo algo de vocês, mas porque há
-1303	something pure in you. I see your faces.	em vocês algo puro. Eu vejo o rosto de vocês.
-1304	You don't see your own faces. I see	Vocês não veem o próprio rosto. Eu vejo
-1305	you listening to words of Torah. When I see	vocês ouvindo palavras de Torá. Quando eu vejo
-1306	you listening to words of Torah, when I see you	você ouvindo palavras de Torá, quando eu vejo você
-1307	listening to words of Torah in such an amazing way,	ouvindo palavras de Torá de maneira tão impressionante,
-1308	I understand there are special souls here. Special	entendo que há aqui almas especiais. Almas
+1303	in you something pure. I see your faces.	em vocês algo puro. Eu vejo os seus rostos.
+1304	You don't see your faces. I see	Vocês não veem os seus rostos. Eu vejo
+1305	you listening to words of Torah. When I see	vocês ouvindo palavras de Torá. Quando vejo
+1306	you listening to words of Torah, when I see you	você ouvindo palavras de Torá, quando vejo você
+1307	listening to words of Torah in such an amazing way,	ouvindo palavras de Torá de maneira tão incrível,
+1308	I understand there are special souls here. Special	entendo que há almas especiais aqui. Almas
 1309	souls. I want you to know this.	especiais. Quero que vocês saibam disso.
-1310	[applause] In a bit I'll speak about this.	[aplausos] Daqui a pouco falarei sobre isso.
-1311	In a bit I'll speak about this. It's a separate part that I	Daqui a pouco falarei sobre isso. É uma parte separada que
-1312	must give you, maybe a whole lesson on this thing,	preciso dar a vocês, talvez uma aula inteira sobre isso,
-1313	and in my heart it burns within me, because I'm lacking in it. I'm	e no meu coração arde dentro de mim, porque me falta isso. Falta-me
-1314	lacking in it. I myself don't really believe	isso. Eu mesmo não acredito muito
+1310	In a moment I'll talk about this.	Daqui a pouco vou falar sobre isso.
+1311	In a moment I'll talk about this. It's a separate part that I	Daqui a pouco vou falar sobre isso. É uma parte separada que eu
+1312	must give you, maybe a whole lesson on this thing	preciso dar a vocês, talvez uma aula inteira sobre isso
+1313	and in my heart it burns within me because I lack it. I	e no meu coração arde dentro de mim porque me falta isso. Eu
+1314	lack it. I myself don't really believe	sinto falta disso. Eu mesmo não acredito muito
 1315	in the good that I do. But I want to tell you	no bem que faço. Mas quero dizer a vocês
-1316	one thing. Two things. First, see good, brother,	uma coisa. Duas coisas. Primeiro, veja o bem, irmão,
+1316	one thing. Two things. First of all, see good, bro,	uma coisa. Duas coisas. Primeiro, veja o bem, irmão,
 1317	and second, recognize. Have hakarat hatov. See	e segundo, reconheça. Tenha hakarat hatov. Veja
 1318	how much good surrounds you.	quanto bem envolve você.
 1319	See how much good surrounds you. See how much good	Veja quanto bem envolve você. Veja quanto bem
-1320	surrounds you, brother.	envolve você, irmão.
-1321	See how many diamonds are around you, brother. The very fact that you	Veja quantos diamantes há ao seu redor, irmão. O simples fato de você
-1322	are sitting here now in the lesson means that "only goodness	estar sentado aqui agora na aula significa que "certamente a bondade
-1323	and kindness shall pursue me all the days of my life." See how much good	e a benignidade me seguirão todos os dias da minha vida." Veja quanto bem
-1324	surrounds you, madam, in that you are sitting here now	envolve a senhora, no fato de estar sentada aqui agora
-1325	healthy and strong, with HaShem's help, and you are before your wedding,	saudável e forte, com a ajuda de HaShem, e a senhora está antes do casamento,
-1326	and I thank you who are before your wedding, prepare	e agradeço a vocês que estão antes do casamento, preparem-se
-1327	for your wedding. And all the single women who are here,	para o seu casamento. E todas as solteiras que estão aqui,
-1328	I bless you that this Rosh Hashanah the Holy One, blessed be He, will decree for you a true match from the root of your soul.	eu abençoo vocês para que neste Rosh Hashaná o Santo, Bendito seja, decrete para vocês um verdadeiro par da raiz da sua alma.
-1329	Amen.	Amém.
-1330	And all the single men who are here, I ask that the Holy One, blessed be He, decree for you on Rosh Hashanah a match from the root of	E todos os solteiros que estão aqui, peço que o Santo, Bendito seja, decrete para vocês em Rosh Hashaná um par da raiz da
-1331	your soul. Amen.	sua alma. Amém.
-1332	And who knows whether the match isn't here, behind the	E quem sabe se o par não está aqui, atrás da
-1333	partition? Who knows whether the match isn't here? How	divisória? Quem sabe se o par não está aqui? Que
-1334	pity, what a pity that we don't have someone here	pena, que pena que não temos aqui alguém
-1335	who takes the initiative and makes lists and makes here, blessed	que tome a iniciativa e faça listas e faça aqui, bendito
-1336	be His name forever. I want to tell you, my beloved sons,	seja o Seu nome para sempre. Quero dizer a vocês, meus amados filhos,
-1337	my pure souls, my brothers,	minhas almas puras, meus irmãos,
-1338	the most important thing, the most important:	a coisa mais importante, a mais importante:
-1339	don't belittle yourself,	não se menospreze,
-1340	because you are a great person.	porque você é uma grande pessoa.
-1341	Rabbi Moli, know that I tell you this from the depth	Rabino Moli, saiba que eu lhe digo isto do fundo
-1342	of my heart, I've known you for over 20	do meu coração, conheço o senhor há mais de 20
-1343	years, your self-sacrifice for the holy Torah.	anos, a sua dedicação total à Torá sagrada.
-1344	How much you give of yourself to the students.	Quanto o senhor se entrega aos alunos.
-1345	[applause]	[aplausos]
-1346	This man is something else. I'll tell you a small	Este homem é fora de série. Vou contar a vocês uma pequena
-1347	story about Rabbi Moli. A man came, wanted 400	história sobre o Rabino Moli. Veio um homem, queria 400
-1348	shekels from him. A con man. He wanted 400 shekels from him.	shekels dele. Um vigarista. Queria 400 shekels dele.
-1349	Now look, he has nothing on him.	Agora veja, ele não tem nada consigo.
+1320	surrounds you, bro.	envolve você, irmão.
+1321	See how many diamonds are around you, bro. The very fact that you	Veja quantos diamantes há ao seu redor, irmão. O simples fato de você
+1322	sit here now in the lesson means that, brother, "only good	estar sentado aqui agora na aula significa que, irmão, "somente bondade
+1323	and kindness shall pursue me all the days of my life." See how much good	e benignidade me seguirão todos os dias da minha vida." Veja quanto bem
+1324	surrounds you, ma'am, in that you now sit here	envolve você, senhora, por você estar agora sentada aqui
+1325	healthy and strong, with HaShem's help, and you're before a wedding	saudável e forte, com a ajuda de HaShem, e você está perto do casamento
+1326	and I'm glad for you who are before a wedding. Prepare	e fico feliz por vocês que estão perto do casamento. Preparem-se
+1327	for your wedding. And all the single women who are here	para o seu casamento. E todas as solteiras que estão aqui,
+1328	I bless you that this Rosh Hashanah the Holy One, blessed be He, decree for you a perfect match from the root of your soul.	eu as abençoo: que neste Rosh Hashaná o Santo, bendito seja Ele, decrete para vocês um par perfeito da raiz da sua alma.
+1329	>> Amen.	>> Amém.
+1330	>> And all the single men who are here, I ask that the Holy One, blessed be He, decree for you at Rosh Hashanah a match from the root of	>> E todos os solteiros que estão aqui, peço que o Santo, bendito seja Ele, decrete para vocês no Rosh Hashaná um par da raiz da
+1331	your soul. >> Amen.	sua alma. >> Amém.
+1332	>> And who knows if the match isn't here behind the	>> E quem sabe se o par não está aqui atrás da
+1333	curtain? Who knows if the match isn't here? What	cortina? Quem sabe se o par não está aqui? Que
+1334	a pity, what a pity we don't have someone here	pena, que pena que não temos aqui alguém
+1335	who takes the initiative and makes lists and does, may His	que tome a iniciativa e faça listas e faça, louvado seja o Seu
+1336	name be praised forever. I want to tell you, my beloved sons,	nome para sempre. Quero dizer a vocês, meus amados filhos,
+1337	my pure souls, my brothers:	minhas almas puras, meus irmãos:
+1338	The most important thing, the most important:	A coisa mais importante, a mais importante:
+1339	Don't belittle yourself,	Não se menospreze,
+1340	because you are a great person.	porque você é uma pessoa grande.
+1341	Rabbi Moli, know that I say this from the depth	Rabino Moli, saiba que digo isto do fundo
+1342	of my heart, I've known you more than 20	do meu coração, eu o conheço há mais de 20
+1343	years, your self-sacrifice for the holy Torah.	anos, a sua abnegação pela Torá sagrada.
+1344	How much you give of yourself for the students.	Quanto você se entrega pelos alunos.
+1345	…	…
+1346	The man, they cut him down. I'll tell you a	O homem, eles o derrubaram. Vou contar a vocês uma
+1347	little story about Rabbi Moli. A man came, wanted 400	pequena história sobre o Rabino Moli. Veio um homem, queria 400
+1348	shekels from him. A swindler, a Bank Leumi scammer, wanted 400 shekels.	shekels dele. Um trapaceiro, um golpista do Banco Leumi, queria 400 shekels.
+1349	Look, now he has nothing on him.	Veja, agora ele não tem nada contra ele.

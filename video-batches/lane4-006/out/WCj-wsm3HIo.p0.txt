@@ -1,450 +1,450 @@
-0	This is truly a very painful and surprising story, and we don't	Esta é de fato uma história muito dolorosa e surpreendente, e não
-1	know exactly what created such tension and uproar in the end.	sabemos exatamente o que criou tanta tensão e alvoroço no final.
-2	Parashat Emor, Sefer Vayikra, chapter 24, verse 10: "And the son of	Parashat Emor, Sefer Vayikrá, capítulo 24, versículo 10: "E o filho de
-3	an Israelite woman went out, and he was the son of an Egyptian man, among the children of	uma mulher israelita saiu, e ele era filho de um homem egípcio, entre os filhos de
-4	Israel; and they strove in the camp, the son of the Israelite woman and	Israel; e brigaram no acampamento o filho da israelita e
-5	the Israelite man." Suddenly, from somewhere, a person comes out.	o homem israelita." De repente, de algum lugar, sai uma pessoa.
-6	Who is he? His mother is an Israelite woman, his father is	Quem é ele? A mãe é uma mulher israelita, o pai é
-7	an Egyptian man, and there's a quarrel here: "they strove." There's the son of	um homem egípcio, e há aqui uma briga: "brigaram". Há o filho da
-8	the Israelite woman and an Israelite man, and here something happens	israelita e um homem israelita, e aqui acontece algo
-9	surprising: "And the son of the Israelite woman blasphemed the Name	surpreendente: "E o filho da israelita blasfemou o Nome
-10	and cursed."	e amaldiçoou."
-11	This man, the son of the Israelite woman, whose father was	Esse homem, o filho da israelita, cujo pai era
-12	an Egyptian, curses the Name, and they brought him to Moshe. And the name of	egípcio, amaldiçoa o Nome, e o trouxeram a Moshê. E o nome de
-13	his mother was Shelomit, daughter of Divri, of the tribe of Dan. And they placed him in custody,	sua mãe era Shelomit, filha de Divri, da tribo de Dan. E o puseram sob custódia,
-14	they put him in custody, to make clear to them the word of HaShem. This is	puseram-no sob custódia, para lhes esclarecer a palavra de HaShem. Esta é
-15	the story. Afterward HaShem says to Moshe: Take	a história. Depois HaShem diz a Moshê: Leva
-16	the blasphemer outside the camp; and all who heard shall lay their hands upon	o blasfemo para fora do acampamento; e todos os que ouviram porão as mãos sobre
-17	his head, and the whole congregation shall stone him. After that there are several	a cabeça dele, e toda a congregação o apedrejará. Depois há várias
-18	mitzvot, and at the end of the Parashah: "Moshe spoke to the children of	mitsvot, e no fim da Parashá: "Moshê falou aos filhos de
-19	Israel, and they took the blasphemer outside the camp and stoned	Israel, e levaram o blasfemo para fora do acampamento e o apedrejaram
+0	This is truly a very painful and surprising story, and we don't	Esta é realmente uma história muito dolorosa e surpreendente, e não
+1	know exactly what created such tension and uproar in the end.	sabemos exatamente o que gerou tanta tensão e tumulto no final.
+2	Parashat Emor, Vayikra chapter 24, verse 10: "And the son	Parashá Emor, Vayikrá, capítulo 24, versículo 10: "E saiu o filho
+3	of an Israelite woman, whose father was an Egyptian, went out among the children	de uma mulher israelita, cujo pai era egípcio, entre os filhos
+4	of Israel; and they strove in the camp, the Israelite woman's son and the Israelite man."	de Israel; e brigaram no acampamento o filho da israelita e o homem israelita."
+5	Suddenly, from somewhere, a person comes out.	De repente, de algum lugar, sai uma pessoa.
+6	Who is he? His mother is an Israelite woman, his father	Quem é ele? A mãe dele é uma mulher israelita, o pai dele
+7	an Egyptian man, and there is a quarrel here: "and they strove." There is a son	um homem egípcio, e há aqui uma briga: "e brigaram". Há o filho
+8	of the Israelite woman and an Israelite man, and here something	da israelita e um homem israelita, e aqui acontece algo
+9	surprising happens: "And the son of the Israelite woman blasphemed the Name"	surpreendente: "E o filho da israelita blasfemou o Nome"
+10	and cursed.	e amaldiçoou.
+11	This man, the son of the Israelite woman, whose father was	Esse homem, filho da israelita, cujo pai era
+12	an Egyptian, curses HaShem, and they brought him to Moshe. And	egípcio, amaldiçoa HaShem, e o levaram a Moshê. E
+13	his mother's name was Shelomit daughter of Divri, of the tribe of Dan. And they put him in custody	o nome da mãe dele era Shelomit bat Divri, da tribo de Dan. E o puseram sob custódia
+14	They place him in custody, to clarify for them by the word of HaShem. This is	Puseram-no sob custódia, para lhes esclarecer pela palavra de HaShem. Essa é
+15	the story. Afterwards HaShem says to Moshe: Take out	a história. Depois HaShem diz a Moshê: Tira
+16	the blasphemer outside the camp; all who heard shall lay their hands upon	o blasfemo para fora do acampamento; todos os que ouviram porão as mãos sobre
+17	his head, and stone him. Then there are several	a cabeça dele, e o apedrejarão. Depois há várias
+18	mitzvot, and at the end of the Parashah: "And Moshe spoke to the children of	mitsvot, e no fim da Parashá: "E Moshê falou aos filhos de
+19	Israel, and they took the blasphemer out of the camp and stoned	Israel, e tiraram o blasfemo para fora do acampamento e o apedrejaram
 20	him with stones."	com pedras."
 21	The commentators begin with a simple question: "And the son of an Israelite woman went out" —	Os comentaristas começam com uma pergunta simples: "E saiu o filho de uma mulher israelita" —
-22	from where did he go out? What does "vayetsê" mean? Where was he,	de onde saiu? O que significa "vayetsê"? Onde ele estava,
-23	from where did he go out? Ibn Ezra	de onde saiu? Ibn Ezra
-24	says he went out of his tent, he was inside his tent,	diz que ele saiu da sua tenda, estava dentro da tenda,
-25	and he went out. But then the question is: what is the	e saiu. Mas então a pergunta é: qual é a
-26	novelty? Yes, he was in the tent, he went out. After all,	novidade? Sim, ele estava na tenda, saiu. Afinal,
+22	from where did he go out? What does "and he went out" mean? Where was he,	saiu de onde? O que significa "e saiu"? Onde ele estava,
+23	from where did he go out? The son... Ibn Ezra	de onde ele saiu? O filho... Ibn Ezra
+24	says he went out of his tent, he was inside his tent	diz que ele saiu da sua tenda, estava dentro da sua tenda
+25	and went out. But then the question is: what is the novelty? What's	e saiu. Mas então a pergunta é: qual é a novidade? Qual é
+26	the point? Yes, he was in the tent, he went out. After all,	o ponto? Sim, estava na tenda, saiu. Afinal,
 27	the word "vayetsê" seemingly wants to tell us something. If	a palavra "vayetsê" aparentemente quer nos dizer algo. Se
-28	it's just that he went from one place to another, what is the	é apenas que ele foi de um lugar para outro, qual é a
-29	big deal, what is the novelty? Rashi asks: from where did he go out?	grande coisa, qual é a novidade? Rashi pergunta: de onde ele saiu?
-30	And he brings three different explanations from the Midrash.	E traz três explicações diferentes do Midrash.
-31	The Midrash of Rabi Levi said: He went out of his world; he became liable	O Midrash de Rabi Levi disse: Saiu do seu mundo; tornou-se passível de
-32	to death. He went out of the world. "Olam" — after all, the words	morte. Saiu do mundo. "Olam" — afinal, as palavras
-33	just before this in the Chumash are "chok olam," an eternal statute. "And he went out" —	logo antes disso no Chumash são "chok olam", estatuto eterno. "E saiu" —
-34	he went out of this world. He did something because of which	saiu deste mundo. Fez algo por causa do qual
-35	he became liable to death. He nullified his place in the world.	tornou-se passível de morte. Anulou o seu lugar no mundo.
-36	So he "went out of his world." An interesting explanation. Another said:	Então ele "saiu do seu mundo". Uma explicação interessante. Outro disse:
-37	From the portion above he went out. He removed	Da porção anterior ele saiu. Ele separou
-38	himself, he separated himself from the portion written immediately	a si mesmo da porção que está escrita imediatamente
-39	before this in the Torah. What is written immediately before this story	antes disso na Torá. O que está escrito imediatamente antes dessa história
-40	in the Torah? The mitzvah of the show-bread on the day of Shabbat.	na Torá? A mitsvá do pão da proposição no dia de Shabat.
-41	"On the day of Shabbat, on the day of Shabbat, he shall arrange it." Every Shabbat they would place twelve	"No dia de Shabat, no dia de Shabat, ele o arranjará." Todo Shabat colocavam doze
-42	loaves of bread on the table inside the Heichal. Every	pães sobre a mesa dentro do Heichal. Toda
-43	Shabbat eve they would bake bread, and they placed the fresh bread. It	véspera de Shabat assavam pão, e colocavam o pão novo. Era
-44	was matzah. It's called the show-bread. On the table,	matsá. Chama-se pão da proposição. Sobre a mesa,
-45	twelve loaves. It remained there all	doze pães. Ficava ali durante toda
-46	the week until the next Shabbat. Then they would remove	a semana até o Shabat seguinte. Então retiravam
-47	the bread, and the Kohanim would eat it on the day of Shabbat,	o pão, e os Kohanim o comiam no dia de Shabat,
-48	and the same day they put twelve new loaves of bread, baked	e no mesmo dia colocavam doze pães novos, assados
-49	the day before, on Shabbat eve, until the next Shabbat. This is	no dia anterior, na véspera de Shabat, até o Shabat seguinte. Esta é
-50	the portion, the portion immediately before this story of	a porção, a porção imediatamente antes desta história da
+28	it's just that he went from one place to another, what's	é só que ele saiu de um lugar para outro, qual
+29	the big deal? What is the novelty? Rashi asks: from where did he go out?	é a grande novidade? Qual é o ensinamento? Rashi pergunta: de onde ele saiu?
+30	And he brings three different explanations from the Midrash.	E ele traz três explicações diferentes do Midrash.
+31	Midrash: Rabi Levi said: he went out of his world, he became liable	Midrash: Rabi Levi disse: saiu do seu mundo, tornou-se condenado
+32	to death, he went out of the world. "Olam" — the words	à morte, saiu do mundo. "Olam" — as palavras
+33	just before this in the Chumash: "chok olam," an eternal statute. "And he went out"	logo antes disso no Chumash: "chok olam", um decreto eterno. "E saiu"
+34	he went out of this world; he did something because of which	saiu deste mundo; fez algo por causa do qual
+35	he became liable to death; he nullified his place in the world,	se tornou condenado à morte; anulou o seu lugar no mundo,
+36	so he went out of his world. An interesting explanation. Rabi	e assim saiu do seu mundo. Uma explicação interessante. Rabi
+37	Berechiah said: he went out from the portion above — he removed	Berechiá disse: saiu da porção de cima — ele retirou
+38	himself, he separated himself from the portion written immediately	a si mesmo, separou-se da porção que está escrita imediatamente
+39	before it in the Torah. What is written immediately before this story	antes dela na Torá. O que está escrito imediatamente antes desta história
+40	in the Torah? The mitzvah of the showbread on Shabbat:	na Torá? A mitsvá do pão da proposição no Shabat:
+41	"on the day of Shabbat he shall arrange it." Every Shabbat they placed twelve	"no dia do Shabat o arrumará". Todo Shabat colocavam doze
+42	loaves of bread on the table inside the Sanctuary. Every Erev	pães sobre a mesa dentro do Santuário. Toda véspera de
+43	Shabbat they baked bread, and placed the new bread. It	Shabat assavam pão e colocavam o pão novo. Era
+44	was unleavened; it's called the showbread, on the table,	sem fermento; chama-se o pão da proposição, sobre a mesa,
+45	twelve loaves, and it stayed there all	doze pães, e ficava ali durante toda
+46	the week until the next Shabbat. Then they would remove the	a semana até o Shabat seguinte. Então retiravam o
+47	bread, the Kohanim would eat it on Shabbat,	pão, os Cohanim o comiam no Shabat,
+48	and that same day they put twelve new loaves that were baked	e naquele mesmo dia colocavam doze pães novos que tinham sido assados
+49	the day before, Erev Shabbat, until the next Shabbat. This is	no dia anterior, na véspera de Shabat, até o Shabat seguinte. Esta é
+50	the Parashah, the Parashah immediately before this story of	a porção, a porção imediatamente antes desta história da
 51	the curse.	maldição.
-52	He went out from the portion above. What does it mean? He	Ele saiu da porção anterior. O que significa? Ele
-53	began to mock and to scoff.	começou a zombar e a debochar.
-54	The way of a king is to eat hot bread every day, and here	O costume de um rei é comer pão quente todo dia, e aqui
-55	cold bread of nine days. Who ever heard of a king	pão frio de nove dias. Quem já ouviu falar de um rei
-56	eating bread? Bread that stays	que come pão? Pão que fica
-57	on a table for nine days. After all, they bake	sobre uma mesa por nove dias. Afinal, assam
-58	the show-bread on Friday, on Shabbat eve, they put it	o pão da proposição na sexta-feira, na véspera de Shabat, põem
-59	on the table inside the Sanctuary, on the holy day of Shabbat they ate	sobre a mesa dentro do Santuário, no santo dia de Shabat comiam
-60	it the following Shabbat — so it turns out that this bread was	no Shabat seguinte — de modo que esse pão ficou
-61	out there for nine days. Who ever heard of a king eating that? It's	lá por nove dias. Quem já ouviu falar de um rei que come isso? É
-62	the opposite of honor.	o oposto da honra.
-63	It doesn't make sense — he mocked this strange	Não faz sentido — ele zombou dessa estranha
-64	mitzvah. That is "vayetsê": he went out of the portion	mitsvá. Isso é "vayetsê": ele saiu da porção
-65	of the Parashah, from within this very Parashah he found a place to mock,	da Parashá, de dentro dessa mesma Parashá ele encontrou um lugar para zombar,
-66	to make a farce, to scoff.	para fazer palhaçada, para debochar.
-67	That is the second explanation. Then, the third explanation	Essa é a segunda explicação. Depois, a terceira explicação,
-68	from the Baraita, from the court of Moshe Rabbeinu:	da Baraita, do tribunal de Moshê Rabênu:
-69	he went out convicted. He entered a Torah judgment, and he	saiu condenado. Entrou num julgamento da Torá, e
-70	came before Moshe Rabbeinu, and there was a trial,	apresentou-se a Moshê Rabênu, e houve um julgamento,
-71	and the trial ended, and he went out of the trial.	e o julgamento terminou, e ele saiu do tribunal.
-72	And then the quarrel began, and then he cursed. What was	E então começou a briga, e então ele amaldiçoou. Qual era
+52	He went out from the portion above. What does it mean? He	Ele saiu da porção de cima. O que isso significa? Ele
+53	began to mock and scoff.	começou a zombar e a debochar.
+54	The way of a king is to eat warm bread every day; here, cold	O costume de um rei é comer pão quente todos os dias; aqui, pão frio
+55	bread of nine days, stale. Who ever heard of a king	de nove dias, dormido. Quem já ouviu falar de um rei
+56	eating bread? Bread that stayed	comendo pão? Pão que ficou
+57	on the table for nine days. After all, they baked the	sobre a mesa durante nove dias. Afinal, assavam o
+58	showbread on Friday, Erev Shabbat, put it	pão da proposição na sexta-feira, véspera de Shabat, colocavam-no
+59	on the table inside the Sanctuary, and on holy Shabbat they ate	sobre a mesa dentro do Santuário, e no santo Shabat comiam
+60	it the following Shabbat. It turns out this bread was	no Shabat seguinte. Resulta que esse pão ficou
+61	out for nine days. Who ever heard of a king eating this? It's	nove dias fora. Quem já ouviu falar de um rei que come isso? É
+62	the opposite of honor.	o contrário da honra.
+63	It doesn't make sense; he mocked this strange	Não faz sentido; ele zombou dessa mitsvá
+64	mitzvah, so "he went out": he went out of the portion of	estranha, então "saiu": saiu da porção
+65	this Parashah, he found in it a place to scoff,	desta Parashá, encontrou nela um lugar para debochar,
+66	to clown around, to mock.	para fazer palhaçada, para zombar.
+67	This is the second explanation. Then, the third	Essa é a segunda explicação. Depois, a terceira
+68	explanation, from the Baraita, from the court of Moshe Rabbenu:	explicação, da Baraita, do tribunal de Moshê Rabênu:
+69	he went out liable. He entered a Torah judgment, he	ele saiu condenado. Entrou num julgamento da Torá,
+70	came before Moshe Rabbenu and there was a trial,	foi diante de Moshê Rabênu e houve um julgamento,
+71	and the trial ended and he left the court,	e o julgamento terminou e ele saiu do tribunal,
+72	and then the quarrel began, and then he cursed. What was	e então começou a briga, e então amaldiçoou. Qual era
 73	the case? Rashi says: he came to pitch his tent inside	o caso? Rashi diz: ele veio armar a sua tenda dentro
-74	the camp of Dan. His mother was a woman whose	do acampamento de Dan. A mãe dele era uma mulher que
-75	origin was from the tribe of Dan: "Shelomit, daughter of Divri, of the tribe of Dan." Well,	tinha origem na tribo de Dan: "Shelomit, filha de Divri, da tribo de Dan." Bem,
-76	he needs a tent, he needs to sleep somewhere, he needs	ele precisa de uma tenda, precisa dormir em algum lugar, precisa de
-77	a dwelling. There were many banners; each tribe,	uma moradia. Havia muitas bandeiras; cada tribo,
-78	each tribe had a special place: for the Mishkan, for the tribe of Levi,	cada tribo tinha um lugar especial: para o Mishkan, para a tribo de Levi,
-79	for the Kohanim, for the Levites, Yehudah, Reuven, Shimon, for every tribe.	para os Kohanim, para os levitas, Yehudá, Reuven, Shimon, para cada tribo.
-80	So he took the tent and pitched it inside	Então ele pegou a tenda e a armou dentro
-81	the camp of Dan. They said to him, "What are you doing here? What are you doing	do acampamento de Dan. Disseram-lhe: "O que você faz aqui? O que você faz
-82	here?" He says to them, "I am of the daughters of Dan. After all, my mother	aqui?" Ele lhes diz: "Sou das filhas de Dan. Afinal, minha mãe
-83	comes from the tribe of Dan." They said to him, it is written in the Book of	vem da tribo de Dan." Disseram-lhe: está escrito no livro de
+74	the camp of Dan. His mother was a daughter whose	do acampamento de Dan. A mãe dele era uma filha cuja
+75	origin was from the tribe of Dan: Shelomit daughter of Divri, of the tribe of Dan. Well,	origem era da tribo de Dan: Shelomit bat Divri, da tribo de Dan. Bem,
+76	you need a tent, you need to sleep somewhere, you need	é preciso uma tenda, é preciso dormir em algum lugar, é preciso
+77	a dwelling. There were several banners; each tribe had	uma moradia. Havia várias bandeiras; cada
+78	its own special place: the Mishkan, the tribe of Levi,	tribo tinha o seu lugar especial: o Mishkan, a tribo de Levi,
+79	Yehuda, Reuven, Shimon, every tribe.	Yehudá, Reuven, Shimon, cada tribo.
+80	So he took his tent and pitched it inside	Então ele pegou a sua tenda e a armou dentro
+81	the camp of Dan. They said to him, "Why did you come here? What are you doing	do acampamento de Dan. Disseram-lhe: "Por que você veio aqui? O que está fazendo
+82	here?" He told them, "I am from the daughters of Dan. After all, my mother	aqui?" Ele lhes disse: "Sou das filhas de Dan. Afinal, minha mãe
+83	comes from the tribe of Dan." They said to him, it is written in the book of	vem da tribo de Dan." Disseram-lhe: está escrito no livro de
 84	Bamidbar.	Bamidbar.
-85	We will learn in the Book of Bamidbar, but the principle,	Vamos estudar no livro de Bamidbar, mas o princípio,
-86	the law, is "each man by his banner, with the signs of his father's house."	a lei, é "cada homem junto à sua bandeira, com os sinais da casa de seus pais."
-87	I am reckoned by my father's tribe. If my mother is from the tribe of	Eu sou contado pela tribo do meu pai. Se minha mãe é da tribo de
-88	Dan, but my father is from the tribe of Reuven, I am reckoned	Dan, mas meu pai é da tribo de Reuven, eu sou contado
-89	with the tribe of Reuven, not the tribe of Dan. Well, your father is	com a tribo de Reuven, não com a de Dan. Bem, seu pai é
+85	We will learn it in the book of Bamidbar, but the principle	Vamos estudar isso no livro de Bamidbar, mas o princípio
+86	of the law is "each man by his banner, with the ensigns of their fathers' houses."	da lei é: "cada homem junto à sua bandeira, com os sinais da casa de seus pais."
+87	I am counted with my father's tribe. If my mother is from the tribe of	Eu sou contado com a tribo do meu pai. Se minha mãe é da tribo de
+88	Dan but my father is from the tribe of Reuven, I am counted	Dan, mas meu pai é da tribo de Reuven, sou contado
+89	with the tribe of Reuven, not the tribe of Dan. Well, your father is	com a tribo de Reuven, não com a tribo de Dan. Ora, seu pai é
 90	Egyptian. Your father is not from the tribe of Dan. He entered the court	egípcio. Seu pai não é da tribo de Dan. Ele entrou no tribunal
-91	of Moshe. What do we do? He needs a place.	de Moshê. O que fazemos? Ele precisa de um lugar.
-92	He wanted to be inside the tribe of Dan. They don't want	Ele queria estar dentro da tribo de Dan. Eles não querem
-93	him in the tribe of Dan. Moshe Rabbeinu will find him a place	que ele esteja na tribo de Dan. Moshê Rabênu lhe encontrará um lugar
-94	elsewhere, but not in the tribe of Dan. He went out convicted. Moshe	em outra parte, mas não na tribo de Dan. Saiu condenado. Moshê
-95	Rabbeinu says they are right. He stood up and blasphemed. At that	Rabênu diz que eles têm razão. Levantou-se e blasfemou. Naquele
+91	of Moshe. What do you do? He needs a place.	de Moshê. O que fazer? Ele precisa de um lugar.
+92	He wanted to be within the tribe of Dan. They don't want	Ele queria estar dentro da tribo de Dan. Eles não querem
+93	him in the tribe of Dan. Moshe Rabbenu would find him a place	que ele esteja na tribo de Dan. Moshê Rabênu lhe acharia um lugar
+94	elsewhere, but not in the tribe of Dan. He came out liable. Moshe	em outro lugar, mas não na tribo de Dan. Ele saiu condenado. Moshê
+95	Rabbenu says they are right. He stood up and blasphemed; at that	Rabênu diz que eles têm razão. Ele se levantou e blasfemou; naquele
 96	moment he curses the Creator.	momento ele amaldiçoa o Criador.
-97	That is the story: he went out from the court of Moshe.	Essa é a história: ele saiu do tribunal de Moshê.
-98	The three explanations in Rashi: he went out of his world, "chok	As três explicações em Rashi: saiu do seu mundo, "chok
-99	olam"; he went out of this world.	olam"; saiu deste mundo.
-100	The second explanation: he went out of the portion above, about the show-	A segunda explicação: saiu da porção anterior, sobre o pão da
-101	bread, because he mocked and scoffed at it. The	proposição, porque zombou e debochou dele. A
-102	third explanation: he physically went out of a Torah judgment, from the court,	terceira explicação: saiu fisicamente de um julgamento da Torá, do tribunal,
-103	the court of Moshe Rabbeinu, and there he cursed and blasphemed.	o tribunal de Moshê Rabênu, e ali amaldiçoou e blasfemou.
-104	Now the question is: who is this man? Have we heard	Agora a pergunta é: quem é esse homem? Ouvimos falar
-105	about him, where he was born, where he came from? The Torah	dele, onde nasceu, de onde veio? A Torá
-106	says "the son of an Egyptian man." Which Egyptian? Just any son of an	diz "filho de um homem egípcio." Que egípcio? Simplesmente qualquer filho de um
-107	Egyptian man? How did he fall in among Israel? How did Shelomit, daughter of	egípcio? Como ele foi parar no meio de Israel? Como Shelomit, filha de
-108	Divri, go to an Egyptian man? Rashi says, and he quotes	Divri, foi a um egípcio? Rashi diz, e cita
-109	this from the Midrash Rabbah, on Parashat Vayikra, Parashat Emor,	isso do Midrash Rabá, em Vayikrá, Parashat Emor,
-110	and in many midrashim it is found: he is the Egyptian whom Moshe	e em muitos midrashim isso se encontra: ele é o egípcio que Moshê
-111	Rabbeinu killed. Or here the story is already	Rabênu matou. Ou aqui a história já
-112	…	…
-113	growing.	cresce.
-114	This is already a story — not just any story — it's already,	Esta já é uma história — não é uma história qualquer — já é,
-115	in English, all over again. We	em inglês, "all over again". Nós
-116	have already met this matter here. For this we	já nos deparamos aqui com este assunto. Para isso
-117	go to the first story about Moshe Rabbeinu in Parashat	vamos à primeira história sobre Moshê Rabênu na Parashat
-118	Shemot: "And Moshe grew up and went out to his brothers." And what is the first thing	Shemot: "E Moshê cresceu e saiu até seus irmãos." E qual é a primeira coisa
-119	that Moshe Rabbeinu sees?	que Moshê Rabênu vê?
-120	He saw an Egyptian man striking a Hebrew man, one of his brothers.	Ele viu um egípcio ferindo um hebreu, um de seus irmãos.
-121	"And he turned this way and that way, and saw	"E olhou para lá e para cá, e viu
-122	that there was no man, and he struck the Egyptian and hid him in the sand."	que não havia ninguém, e feriu o egípcio e o escondeu na areia."
-123	Wow! Rashi tells us in the name of our Sages of blessed memory,	Uau! Rashi nos diz em nome dos nossos Sábios, de abençoada memória,
-124	and it is also in the Zohar, Parashat Emor, who was this Egyptian man?	e também está no Zohar, Parashat Emor, quem era esse egípcio?
-125	The father of this man who blasphemed is the Egyptian	O pai deste homem que blasfemou é o egípcio
-126	whom Moshe killed, already in the plain meaning in Shemot. Rashi, in the name of	que Moshê matou, já no sentido simples em Shemot. Rashi, em nome do
-127	the Midrash: what happened?	Midrash: o que aconteceu?
+97	That's the story: he went out, he left the Beit Din. These	Essa é a história: ele saiu, saiu do Beit Din. Essas
+98	three explanations in Rashi: he went out of his world, "chok	três explicações em Rashi: saiu do seu mundo, "chok
+99	olam" — he left this world.	olam" — saiu deste mundo.
+100	Second explanation: he went out of the portion above, about the showbread,	Segunda explicação: saiu da porção de cima, sobre o pão da proposição,
+101	because he mocked and scoffed at it. The third	porque zombou e debochou dele. A terceira
+102	explanation: he physically left the Torah judgment, the Beit Din	explicação: saiu fisicamente do julgamento da Torá, do Beit Din
+103	of Moshe Rabbenu, and there he cursed and blasphemed.	de Moshê Rabênu, e ali amaldiçoou e blasfemou.
+104	Now the question is who this man is. Have we heard	Agora a pergunta é quem é esse homem. Já ouvimos
+105	about him, where was he born, where did he come from? The Torah	falar dele, onde nasceu, de onde veio? A Torá
+106	says "son of an Egyptian man." Which Egyptian? Just any	diz "filho de um homem egípcio". Qual egípcio? Um egípcio
+107	Egyptian? How did he end up among Israel? How did Shelomit daughter	qualquer? Como ele foi parar no meio de Israel? Como Shelomit bat
+108	of Divri end up with an Egyptian man? Rashi says, citing	Divri foi parar com um homem egípcio? Rashi diz, citando
+109	it from Midrash Rabbah, in Parashat Vayikra, Parashat Emor,	isso do Midrash Rabá, na Parashat Vayikrá, Parashat Emor,
+110	and in many Midrashim it is found: he is the Egyptian whom Moshe	e em muitos Midrashim isso se encontra: ele é o egípcio que Moshê
+111	Rabbenu killed. Here the story already	Rabênu matou. Aqui a história já
+112	already —	já —
+113	gets bigger.	fica maior.
+114	It's a story already — not just any story, it's already	É uma história que já — não é uma história qualquer, é já
+115	in English, "all over again." We	em inglês, "all over again". Nós
+116	already met this matter here. So we	já encontramos esse assunto aqui. Então
+117	go to the first story about Moshe Rabbenu in Parashat	vamos à primeira história sobre Moshê Rabênu na Parashat
+118	Shemot: "And Moshe grew up and went out to his brothers," and what is the first thing	Shemot: "E Moshê cresceu e saiu aos seus irmãos", e qual é a primeira coisa
+119	Moshe Rabbenu sees?	que Moshê Rabênu vê?
+120	He saw an Egyptian man striking a Hebrew man, one of his brothers.	Ele viu um homem egípcio ferindo um homem hebreu, um dos seus irmãos.
+121	He looked this way and that way, and saw that there was no man,	Olhou para um lado e para o outro, e viu que não havia ninguém,
+122	and he struck the Egyptian and hid him in the sand.	e feriu o egípcio e o escondeu na areia.
+123	Wow. Rashi tells us in the name of our Sages, of blessed memory,	Uau. Rashi nos diz em nome dos nossos Sábios, de abençoada memória,
+124	and also in the Zohar, Parashat Emor: who was this Egyptian man?	e também no Zohar, Parashat Emor: quem era esse homem egípcio?
+125	The father of this person who blasphemed is the Egyptian	O pai dessa pessoa que blasfemou é o egípcio
+126	whom Moshe killed. Already in the plain meaning of Shemot... Rashi in the name	que Moshê matou. Já no sentido simples de Shemot... Rashi em nome
+127	of the Midrash: what happened?	do Midrash: o que aconteceu?
 128	This Egyptian, the father of this man,	Esse egípcio, o pai desse homem,
-129	wanted to be with Shelomit, daughter of Divri. He took her husband	queria estar com Shelomit, filha de Divri. Tirou o marido dela
-130	out of the house, sent him to hard labor, he	de casa, mandou-o para o trabalho forçado,
-131	entered the house, it was still dark at night. The woman,	entrou na casa, ainda estava escuro, à noite. A mulher,
-132	Shelomit daughter of Divri, did not notice who it was. She thought	Shelomit filha de Divri, não percebeu quem era. Pensou
-133	it was her husband. He was with her. Her husband found out	que era o marido. Ele ficou com ela. O marido soube
-134	what had happened. And therefore this Egyptian wanted to kill him	do que havia acontecido. E por isso esse egípcio quis matá-lo
-135	during the day. He gave him murderous blows, because he knew	durante o dia. Deu-lhe golpes assassinos, porque sabia
-136	the truth of what had happened in his bed. And Moshe Rabbeinu saw	a verdade sobre o que acontecera em sua cama. E Moshê Rabênu viu
-137	all this, "and he struck the Egyptian and hid him in the sand." Our Sages	tudo isso, "e feriu o egípcio e o escondeu na areia." Nossos Sábios
-138	of blessed memory tell us:	de abençoada memória nos dizem:
-139	This child came from that very night. He was the child of	Esta criança veio daquela mesma noite. Era o filho de
-140	Shelomit daughter of Divri. But who was his father? His father	Shelomit filha de Divri. Mas quem era o pai dele? O pai dele
-141	was an Egyptian man who went to his mother, this Egyptian	era um egípcio que foi até a mãe dele, esse egípcio
-142	whom Moshe Rabbeinu killed.	que Moshê Rabênu matou.
-143	By the way, the Kli Yakar explains here something surprising, psychologically.	Aliás, o Kli Yakar explica aqui algo surpreendente, psicologicamente.
-144	He asks: why did he have hatred	Ele pergunta: por que ele tinha ódio
-145	toward the Holy One, blessed be He? Why did he curse the Name?	contra o Santo, Bendito Seja? Por que amaldiçoou o Nome?
+129	wanted to be with Shelomit daughter of Divri. He removed her husband	quis estar com Shelomit bat Divri. Ele tirou o marido dela
+130	from the house, sent him to early labor, and he	de casa, mandou-o para o trabalho bem cedo, e ele
+131	entered the house, it was still dark at night. The woman	entrou na casa, ainda estava escuro, de noite. A mulher,
+132	Shelomit daughter of Divri, did not notice who it was. She thought	Shelomit bat Divri, não percebeu quem era. Pensou
+133	it was her husband. He was with her. Her husband learned	que era o marido. Ele ficou com ela. O marido dela soube
+134	what had happened. And so this Egyptian wanted to kill him	o que tinha acontecido. E por isso esse egípcio quis matá-lo
+135	during the day. He gave him blows meant to kill, because he knew the	durante o dia. Deu-lhe golpes de morte, porque sabia a
+136	truth of what had happened to his wife. And Moshe Rabbenu saw	verdade sobre o que tinha acontecido com a mulher dele. E Moshê Rabênu viu
+137	all this, "and he struck the Egyptian and hid him in the sand." Our Sages,	tudo isso, "e feriu o egípcio e o escondeu na areia". Nossos Sábios,
+138	of blessed memory, tell us	de abençoada memória, nos dizem
+139	this child came from that night. He was the child of	que essa criança veio daquela noite. Era o filho de
+140	Shelomit daughter of Divri. But who was his father? His father	Shelomit bat Divri. Mas quem era o pai dele? O pai dele
+141	was the Egyptian man who went to his mother, this Egyptian	era o homem egípcio que foi até a mãe dele, esse egípcio
+142	whom Moshe Rabbenu killed.	que Moshê Rabênu matou.
+143	By the way, the Kli Yakar explains something surprising here, in a	A propósito, o Kli Yakar explica aqui algo surpreendente, de forma
+144	psychological way. He asks: why did he have hatred	psicológica. Ele pergunta: por que ele tinha ódio
+145	for the Holy One, Blessed be He? Why did he curse HaShem?	do Santo, Bendito seja? Por que amaldiçoou HaShem?
 146	Why? What happened here?	Por quê? O que aconteceu aqui?
-147	This is a great novelty. What? What did he do until now?	Isso é uma grande novidade. O quê? O que ele fez até agora?
-148	The Kli Yakar says something wonderful. Chazal say: how	O Kli Yakar diz algo maravilhoso. Chazal dizem: como
-149	did Moshe kill the Egyptian? It is written, "Do you intend to kill me,"	Moshê matou o egípcio? Está escrito: "Pretendes matar-me,"
-150	as you killed the Egyptian? Indeed, in the Midrash there are several	como mataste o egípcio? De fato, no Midrash há várias
-151	opinions, also in the Midrash on Parashat Shemot, but	opiniões, também no Midrash sobre a Parashat Shemot, mas
-152	the famous explanation is that Moshe Rabbeinu killed the Egyptian	a explicação famosa é que Moshê Rabênu matou o egípcio
+147	This is a great novelty. What? What had he done until then?	Isso é uma grande novidade. O quê? O que ele tinha feito até então?
+148	The Kli Yakar says something wonderful. Our Sages say, how	O Kli Yakar diz algo maravilhoso. Os Sábios dizem: como
+149	did Moshe kill the Egyptian? It is written "Do you intend to kill me" —	Moshê matou o egípcio? Está escrito: "Acaso pretendes me matar" —
+150	"as you killed the Egyptian." Indeed in the Midrash there are several	"como mataste o egípcio". De fato, no Midrash há várias
+151	views, also in the Midrash on Parashat Shemot, but	opiniões, também no Midrash da Parashat Shemot, mas
+152	the famous explanation is that Moshe Rabbenu killed the Egyptian	a explicação famosa é que Moshê Rabênu matou o egípcio
 153	with the Explicit Name. Wow.	com o Nome Explícito. Uau.
-154	His father was killed not by a sword, not by a knife, not by a spear,	O pai dele foi morto não por espada, não por faca, não por lança,
-155	not by an arrow; he was killed by the Explicit Name. Therefore he	não por flecha; foi morto pelo Nome Explícito. Por isso ele
-156	cursed the Name. In the writings of the Arizal,	amaldiçoou o Nome. Nos escritos do Arizal,
-157	there is a source from Rabi Shmuel Vital. He says: therefore he cursed	há uma fonte de Rabi Shmuel Vital. Ele diz: por isso ele amaldiçoou
-158	the Name.	o Nome.
-159	Therefore he cursed the Name. It is not just so, it is	Por isso ele amaldiçoou o Nome. Não é por acaso, não é
-160	not by chance that he changed the Name. He cursed the	por acaso que ele mudou o Nome. Ele amaldiçoou o
-161	Name. Which Name did he curse? The wording of the verse	Nome. Qual Nome ele amaldiçoou? A formulação do versículo
-162	is a wording we do not usually see in the Chumash. The wording	é uma formulação que normalmente não vemos no Chumash. A formulação
-163	is "And the son of the Israelite woman blasphemed the Name." It does not say	é "E o filho da israelita blasfemou o Nome." Não diz
-164	the four-letter Name, it does not say Adonai, it does not say Elokim. It says "the Name,"	o Nome de quatro letras, não diz Adonai, não diz Elokim. Diz "o Nome",
-165	as we say HaShem.	como dizemos HaShem.
-166	But it is not just that in the verse; it is because with the Name	Mas não é só isso no versículo; é porque com o Nome
-167	Moshe killed his father. Therefore he cursed that Name.	Moshê matou o pai dele. Por isso ele amaldiçoou esse Nome.
-168	So says Rabi Shmuel Vital. By the way, there is the book Tzror HaMor;	Assim diz Rabi Shmuel Vital. Aliás, há o livro Tzror HaMor;
-169	he writes that "HaShem" has the same letters as Moshe.	ele escreve que "HaShem" tem as mesmas letras de Moshê.
-170	HaShem is Hei, Shin, Mem. Amazing.	HaShem é Hei, Shin, Mem. Incrível.
-171	Reading the other way it is Mem, Shin, Hei, it is Moshe. He did not just	Lendo ao contrário é Mem, Shin, Hei, é Moshê. Ele não apenas
-172	curse the Name, he also cursed Moshe, because Moshe	amaldiçoou o Nome, também amaldiçoou Moshê, porque Moshê
-173	Rabbeinu is the one who killed his father with the Explicit Name.	Rabênu é quem matou o pai dele com o Nome Explícito.
-174	In the Zohar it even implies that he did not know the story	No Zohar até se entende que ele não conhecia a história
-175	until that moment. In the Zohar it is not so clear,	até aquele momento. No Zohar não é tão claro,
-176	but there is an implication that, as it were, the other man told him everything	mas há uma indicação de que, por assim dizer, o outro homem lhe contou tudo
-177	that happened, and then he understood what happened with his mother,	o que aconteceu, e então ele entendeu o que ocorreu com a mãe,
+154	His father was killed not with a sword, not with a knife, not with a spear,	O pai dele foi morto não com espada, nem com faca, nem com lança,
+155	not with an arrow; he was killed by the Explicit Name. Therefore he	nem com flecha; foi morto pelo Nome Explícito. Por isso ele
+156	cursed the Name. In the writings of the Arizal, in other places,	amaldiçoou o Nome. Nos escritos do Arizal, em outros lugares,
+157	of the Arizal, there is a teaching of Rabbi Shmuel Vital. He	do Arizal, há um ensinamento de Rabi Shmuel Vital. Ele
+158	says: therefore he cursed	diz: por isso ele amaldiçoou
+159	the Name. Therefore he cursed the Name. It is no coincidence, it	o Nome. Por isso amaldiçoou o Nome. Não é por acaso, não
+160	is no coincidence which Name he cursed. He cursed the	é por acaso qual Nome ele amaldiçoou. Amaldiçoou o
+161	Name. Which Name did he curse? The wording of the verse	Nome. Qual Nome ele amaldiçoou? A linguagem do versículo
+162	is a language we don't usually see in the Chumash. The language	é uma linguagem que normalmente não vemos no Chumash. A linguagem
+163	is "And the son of the Israelite woman pierced the Name." It doesn't say	é: "E o filho da israelita perfurou o Nome." Não está escrito
+164	the four-letter Name, it doesn't say Adonai, it doesn't say Elokim; it says "the Name,"	o Nome de quatro letras, não está escrito Adonai, não está escrito Elokim; está escrito "o Nome",
+165	as we say "HaShem."	como dizemos "HaShem".
+166	But it doesn't say this at all in the verse, because by this Name	Mas isso não está escrito no versículo, porque por esse Nome
+167	Moshe killed his father; therefore he cursed this Name.	Moshê matou o pai dele; por isso ele amaldiçoou esse Nome.
+168	So says Rabbi Shmuel Vital, in the writings of the Arizal. By the way, there is	Assim diz Rabi Shmuel Vital, nos escritos do Arizal. A propósito, há
+169	a book that writes: "HaShem" has the same letters as "Moshe."	um livro que escreve: "HaShem" tem as mesmas letras de "Moshê".
+170	"HaShem" is hei, shin, mem. Amazing.	"HaShem" é hei, shin, mem. Incrível.
+171	Read from the left, it's mem, shin, hei — that's Moshe. He didn't only	Lido da esquerda, é mem, shin, hei — é Moshê. Ele não apenas
+172	curse HaShem, he also cursed Moshe, because Moshe	amaldiçoou HaShem, também amaldiçoou Moshê, porque Moshê
+173	Rabbenu is the one who killed his father with the Explicit Name.	Rabênu é quem matou o pai dele com o Nome Explícito.
+174	In the Zohar it even implies that he didn't know the story	No Zohar até se entende que ele não conhecia a história
+175	until that moment. In the Zohar it's not so clear, but	até aquele momento. No Zohar não é tão claro, mas
+176	there is an implication that the other man told him everything	há uma indicação de que o outro homem lhe contou tudo
+177	that happened, and then he understood what happened with his mother,	o que aconteceu, e então ele entendeu o que houve com a mãe,
 178	who his father was, what Moshe did to his father, what	quem era o pai dele, o que Moshê fez ao pai dele, o que
-179	Elokim did to his father — he went completely mad. He	Elokim fez ao pai dele — ficou completamente louco.
-180	snapped. In any case, there is great quality in this, but	Perdeu o controle. De qualquer forma, há nisso grande valor, mas
+179	Elokim did to his father, and he went completely mad, he	Elokim fez ao pai dele, e ele enlouqueceu completamente,
+180	lashed out. In any case, there is great depth in this, but	explodiu. De qualquer forma, há grande profundidade nisso, mas
 181	I want to dwell on one point.	quero me deter em um ponto.
-182	What is the connection among all these stories? When we open	Qual é a ligação entre todas essas histórias? Quando abrimos
-183	a Midrash, we open Rashi, we open other midrashim of Chazal,	um Midrash, abrimos Rashi, abrimos outros midrashim de Chazal,
-184	it seems they pile all kinds of stories onto him. He left	parece que empilham todo tipo de história sobre ele. Ele saiu
-185	his world, he mocked the show-bread, he quarreled over	do seu mundo, zombou do pão da proposição, brigou sobre
-186	where his tent should be. Moshe Rabbeinu says,	onde a sua tenda deveria ficar. Moshê Rabênu diz:
-187	not in the tribe of Dan. He says, yes, in the tribe of Dan. He	na tribo de Dan não. Ele diz: sim, na tribo de Dan. Ele
+182	What is the connection among all these stories? When you open	Qual é a ligação entre todas essas histórias? Quando se abre
+183	a Midrash, open Rashi, open more Midrashim of Chazal,	um Midrash, abre-se Rashi, abrem-se mais Midrashim dos Sábios,
+184	it seems that all kinds of stories are piled on him. He went out	parece que todo tipo de história é posto sobre ele. Ele saiu
+185	of his world, he mocked the showbread, he quarreled about	do seu mundo, zombou do pão da proposição, brigou sobre
+186	where his tent should be. Moshe Rabbenu says:	onde deveria ficar a sua tenda. Moshê Rabênu diz:
+187	not in the tribe of Dan. He says yes, in the tribe of Dan. He	não na tribo de Dan. Ele diz que sim, na tribo de Dan. Ele
 188	curses because his father is the Egyptian whom Moshe killed.	amaldiçoa porque o pai dele é o egípcio que Moshê matou.
-189	Are these just completely separate stories that were attached to one	São apenas histórias completamente separadas que foram atribuídas a uma
-190	person because they didn't know exactly what happened here? In every	pessoa porque não sabiam exatamente o que aconteceu aqui? Em cada
-191	midrash there is a different story, and Rashi gathers many of them?	midrash há uma história diferente, e Rashi reúne muitas delas?
+189	Are these just completely separate stories that were attached to one	Serão apenas histórias completamente separadas que foram atribuídas a uma
+190	person because they didn't know exactly what's going on here? In each	pessoa porque não sabiam exatamente o que acontece aqui? Em cada
+191	Midrash there's a different story, and Rashi combines many of them?	Midrash há uma história diferente, e Rashi reúne muitas delas?
 192	What is the connection among all these stories? Is there	Qual é a ligação entre todas essas histórias? Há
-193	here one point, a common thread that runs through all	aqui um ponto, um fio condutor que atravessa todas
-194	these stories? Is there some thread between them?	essas histórias? Há algum fio entre elas?
-195	One of the great Chassidic masters in Poland is known as the	Um dos grandes mestres do chassidismo na Polônia é conhecido como o
+193	here a single point, a thread that runs through all	aqui um único ponto, um fio condutor que atravessa todas
+194	these stories? Is there some thread among them?	essas histórias? Existe algum fio entre elas?
+195	One of the great Chasidic masters in Poland, known as the Baal	Um dos grandes mestres do Hassidismo na Polônia, conhecido como o Baal
 196	Mei HaShiloach, the holy Rav, the tzaddik Rabi	Mei HaShiloach, o santo Rav, o tsadik Rabi
-197	Mordechai Yosef Leiner of Izbica. Izbica is a	Mordechai Yosef Leiner de Izbica. Izbica é uma
-198	small town in eastern Poland in the Lublin district, and one of	pequena cidade no leste da Polônia, no distrito de Lublin, e um dos
-199	the giants of Chassidut was Rabi Mordechai	gigantes do chassidismo foi Rabi Mordechai
-200	Yosef Leiner. He was born in the year 5560, 1800,	Yosef Leiner. Ele nasceu no ano 5560, 1800,
-201	1800, and he passed away on the 7th of Tevet, 5614,	1800, e faleceu em 7 de Tevet de 5614,
+197	Mordechai Yosef Leiner of Izbica. Izbica is	Mordechai Yosef Leiner de Izbica. Izbica é
+198	a small town in eastern Poland, in the Lublin district, and one of	uma pequena cidade no leste da Polônia, na região de Lublin, e um
+199	the giants of Chasidut in Poland was Rabbi Mordechai	dos gigantes do Hassidismo na Polônia foi o Rabi Mordechai
+200	Yosef Leiner. He was born in the year 5560,	Yosef Leiner. Ele nasceu no ano de 5560,
+201	1800, and he passed away on the 7th of Tevet, 5614,	1800, e faleceu no dia 7 de Tevet de 5614,
 202	1844.	1844.
-203	And he is the author of a very famous book in the Chassidic world,	E ele é o autor de um livro muito famoso no mundo chassídico,
-204	the Mei HaShiloach. His father was a student of the Chozeh of Lublin.	o Mei HaShiloach. O pai dele era discípulo do Chozê de Lublin.
-205	He himself was an outstanding student of the tzaddik Rabi	Ele mesmo foi um discípulo exímio do tsadik Rabi
-206	Simcha Bunim of Peshischa. Afterward he became a student	Simcha Bunim de Peshischa. Depois tornou-se discípulo
-207	of the Kotzker Rebbe, Rabi Menachem Mendel Morgenstern	do Rebe de Kotzk, Rabi Menachem Mendel Morgenstern
-208	of Kotzk. But in the year 5600-something, according to most of history,	de Kotzk. Mas no ano 5600 e tantos, segundo a maior parte da história,
-209	according to most chronicles, on Simchat Torah, he broke away	segundo a maior parte das crônicas, em Simchat Torá, ele se afastou
-210	from the Kotzker Rebbe, and he founded what is called	do Rebe de Kotzk, e fundou o que se chama
-211	Izbica Chassidut. And he stood at its head from then, after	chassidismo de Izbica. E esteve à sua frente desde então, depois de
-212	his break with Rabi Menachem Mendel of Kotzk, until his death	romper com Rabi Menachem Mendel de Kotzk, até o seu falecimento
-213	in the year 5614 —	no ano 5614 —
-214	the year 5614, sorry — he died at age 54. His book	o ano 5614, desculpem — ele faleceu aos 54 anos. O livro dele,
-215	Mei HaShiloach, is a very, very original book,	Mei HaShiloach, é um livro muito, muito original,
-216	fascinating, interesting and creative. I want — here in	fascinante, interessante e criativo. Eu quero — aqui na
-217	Parashat Emor there is a very, very long passage, relatively,	Parashat Emor há uma passagem muito, muito longa, relativamente,
-218	on this story, with many different details,	sobre esta história, com muitos detalhes diferentes,
-219	but I want, with the help of HaShem, to draw out one point	mas quero, com a ajuda de HaShem, extrair um ponto
-220	and clarify it as I understood it, with the help of HaShem, blessed be He.	e esclarecê-lo conforme o entendi, com a ajuda de HaShem, bendito seja.
-221	In the books of Kabbalah, in Sefer Yetzirah and other books of Kabbalah,	Nos livros da Cabala, no Sefer Yetzirá e em outros livros da Cabala,
-222	it is known that they speak of three components of reality:	sabe-se que se fala de três componentes da realidade:
-223	Olam, Shanah, Nefesh — an acronym. And Mount Sinai,	Olam, Shanah, Nefesh — uma sigla. E o Monte Sinai,
-224	"was all in smoke" — ashan: Olam, Shanah, Nefesh.	"fumegava todo" — ashan: Olam, Shanah, Nefesh.
-225	Because every reality is made up of three dimensions: the place	Porque toda realidade é composta de três dimensões: o lugar
-226	in which it is — that is Olam. Shanah is the time in which it	em que ela está — isso é Olam. Shanah é o tempo em que ela
-227	is. Nefesh is the	está. Nefesh é a
-228	awareness that I bring into that place at that time.	consciência que eu trago para aquele lugar naquele tempo.
-229	For example, I am now in a particular place; I am not	Por exemplo, estou agora num lugar específico; não estou
-230	in the whole world, I can't. But in a physical sense	no mundo inteiro, não posso. Mas em sentido físico
-231	I am at one point of the world,	estou em um ponto do mundo,
-232	right here where I sit and speak. I am also now at	aqui onde me sento e falo. Também estou agora em
-233	a particular moment. I could be in this place but	um momento específico. Eu poderia estar neste lugar mas
-234	at another time. I am now in this place and also at a particular	em outro tempo. Estou agora neste lugar e também em um
-235	moment, not at another moment. And there is the awareness that I	momento específico, não em outro momento. E há a consciência que eu
-236	bring into this place at this time. How much of my soul is present	trago para este lugar neste tempo. Quanto da minha alma está presente
+203	And he authored a very famous book in the Chasidic world,	E ele é autor de um livro muito famoso no mundo hassídico,
+204	the Mei HaShiloach. His father was a student of the Chozeh of Lublin.	o Mei HaShiloach. O pai dele foi discípulo do Chozê de Lublin.
+205	He himself was a distinguished student of the tzaddik Rabi	Ele próprio foi discípulo exímio do tsadik Rabi
+206	Simcha Bunim of Peshischa; afterward he became a student	Simcha Bunim de Peshischa; depois tornou-se discípulo
+207	of the Admor of Kotzk, Rabi Menachem Mendel Morgenstern	do Admor de Kotzk, Rabi Menachem Mendel Morgenstern
+208	of Kotzk. But in the year 5600, according to most history,	de Kotzk. Mas no ano de 5600, segundo a maior parte da história,
+209	according to most chronicles, on Simchat Torah 5600, he broke away	segundo a maior parte das crônicas, em Simchat Torá de 5600, ele se afastou
+210	from the Admor of Kotzk and founded what is called Chasidut	do Admor de Kotzk e fundou o que se chama de Hassidismo
+211	Izbica, and he stood at its head from 5600, after	de Izbica, e esteve à sua frente desde 5600, depois de
+212	his break with Rabi Menachem Mendel of Kotzk, until his passing	se separar de Rabi Menachem Mendel de Kotzk, até o seu falecimento
+213	in the year 5614,	no ano de 5614,
+214	5614, sorry. He died at age 54. His book	5614, desculpem. Ele morreu aos 54 anos. O livro
+215	Mei HaShiloach is a very, very original book,	Mei HaShiloach é um livro muito, muito original,
+216	fascinating, interesting and creative. In his Mei	fascinante, interessante e criativo. No seu Mei
+217	HaShiloach on Emor there is a very, very	HaShiloach sobre Emor há um trecho muito, muito
+218	long passage on this story, with many different details,	longo sobre essa história, com muitos detalhes diferentes,
+219	but I want, with HaShem's help, to draw out one point	mas quero, com a ajuda de HaShem, extrair um ponto
+220	and explain it as I understood it, with the help of HaShem, blessed be He.	e explicá-lo como eu entendi, com a ajuda de HaShem, bendito seja.
+221	In the books of Kabbalah, in Sefer Yetzirah and other Kabbalistic books,	Nos livros da Cabalá, no Sefer Yetsirá e em outros livros cabalísticos,
+222	they speak of three components of reality:	fala-se de três componentes da realidade:
+223	Olam, Shanah, Nefesh, an acronym. And "Mount Sinai	Olam, Shanah, Nefesh, um acrônimo. E "o monte Sinai
+224	was altogether smoke" — "ashan": Olam, Shanah, Nefesh.	era todo fumaça" — "ashan": Olam, Shanah, Nefesh.
+225	Because every reality is made of three dimensions: the place	Porque toda realidade é composta de três dimensões: o lugar
+226	in which it is found, that is Olam; Shanah is the time in which it	em que ela se encontra, isso é Olam; Shanah é o tempo em que ela
+227	is found; Nefesh is here	se encontra; Nefesh é aqui
+228	the awareness that I bring into that place, that time.	a consciência que eu coloco naquele lugar, naquele tempo.
+229	For example, I am now in a particular place, I am not	Por exemplo, agora estou num lugar determinado, não estou
+230	in the whole world, I can't, but	no mundo inteiro, não posso, mas
+231	in a physical sense I am at one point of the world,	em sentido físico estou num ponto do mundo,
+232	say, I'm sitting in Noam. I'm also now at	digamos, estou sentado em Noam. Também estou agora num
+233	a particular moment; I could be in this place but	momento determinado; poderia estar neste lugar, mas
+234	at another time. I am now in this place and at a	em outro tempo. Estou agora neste lugar e num
+235	particular moment, not another moment. And there is the awareness that I	momento determinado, não em outro. E há a consciência que eu
+236	bring to this place at this time. How much of my soul is present	trago a este lugar neste tempo. Quanto da minha alma está presente
 237	at this moment and in this place? How many parts of my mind,	neste momento e neste lugar? Quantas partes da minha mente,
-238	of my nefesh, of my awareness are put into this reality,	da minha nefesh, da minha consciência são colocadas nesta realidade,
-239	into this place? Every reality in the world is made up of	neste lugar? Toda realidade no mundo é composta destas
-240	these three dimensions. Olam, Shanah, Nefesh. As	três dimensões. Olam, Shanah, Nefesh. Como
-241	is known, today in modern physics each one affects the other.	se sabe, hoje na física moderna cada uma afeta a outra.
-242	Awareness affects place	A consciência afeta o lugar
-243	and time, and so on. And so it is "Har Sinai ashan." Because at	e o tempo, e assim por diante. E assim é "Har Sinai ashan." Porque no
+238	of my soul, of my awareness are brought into this reality,	da minha alma, da minha consciência são colocadas nesta realidade,
+239	into this place? Every reality in the world is made up of	neste lugar? Toda realidade no mundo é composta
+240	these three dimensions. Olam, Shanah, Nefesh. As	destas três dimensões. Olam, Shanah, Nefesh. Como
+241	is known, in modern physics each one	se sabe, na física moderna cada um
+242	affects the other. Awareness affects place	influencia o outro. A consciência influencia o lugar
+243	and time, and so on. And so it is "Har Sinai ashan." Because at Mount	e o tempo, e assim por diante. Por isso é "Har Sinai ashan". Porque no monte
 244	Sinai the Torah was given, and the Torah is the blueprint,	Sinai foi dada a Torá, e a Torá é o projeto,
-245	it is the map of all Creation. It includes	é o mapa de toda a Criação. Ela inclui
-246	ashan: Olam, Shanah, Nefesh. In everything the Holy One,	ashan: Olam, Shanah, Nefesh. Em cada coisa o Santo,
-247	blessed be He, Creator and Leader of the world, created a fixed	Bendito Seja, Criador e Condutor do mundo, criou uma forma e um
-248	pattern and form. Every creature has its own role and mission.	molde fixos. Cada criatura tem seu próprio papel e missão.
-249	I once heard a talk from the Lubavitcher Rebbe,	Certa vez ouvi uma palestra do Rebe de Lubavitch,
-250	in which he said: there is nothing in the world that the Holy One, blessed be He,	em que ele disse: não há nada no mundo que o Santo, Bendito Seja,
-251	created that is not both in the category of giver and also	criou que não esteja tanto na categoria de quem dá quanto
-252	of receiver, so that there should be no envy in the work	na de quem recebe, para que não haja inveja na obra
-253	of Creation. Therefore every single creature, whether inanimate, vegetative, living,	da Criação. Por isso cada criatura, seja inanimada, vegetal, animal,
-254	speaking, souls, angels, spheres, both receives	falante, almas, anjos, esferas, tanto recebe
+245	the map of all creation. It includes	o mapa de toda a criação. Ela inclui
+246	Olam, Shanah, Nefesh. In everything the Holy One,	Olam, Shanah, Nefesh. Em tudo o que o Santo,
+247	Blessed be He, Creator and Leader of the world, created, a fixed pattern	Bendito seja, Criador e Condutor do mundo, criou, há um padrão
+248	and form. Every creature has its own role and mission.	e uma forma fixos. Cada criatura tem seu papel e sua missão.
+249	I once heard a talk from the Lubavitcher Rebbe	Uma vez ouvi uma palestra do Rebe de Lubavitch
+250	in which he said there is nothing in the world that the Holy One, Blessed	em que ele disse que não há nada no mundo que o Santo, Bendito
+251	be He, created that is not both a giver and also a receiver,	seja, tenha criado que não seja ao mesmo tempo doador e também receptor,
+252	so that there will be no envy in the work of creation. Therefore	para que não haja inveja na obra da criação. Por isso
+253	every single creature, whether inanimate, plant, animal,	cada criatura, seja inanimada, vegetal, animal,
+254	speaker (human), souls, angels, spheres, both receives	falante (humano), almas, anjos, esferas, tanto recebe
 255	and also gives. I receive from oxygen. Without oxygen	quanto também dá. Eu recebo do oxigênio. Sem oxigênio
-256	I cannot live. I receive from water,	não posso viver. Recebo da água,
-257	from grain, from food, from the light of the sun, from the light of	do grão, do alimento, da luz do sol, da luz da
-258	the moon. And I also give. Every creature. There is no	lua. E também dou. Toda criatura. Não existe
-259	worm that does not receive and also give, so that there	verme que não receba e também dê, para que não
-260	should be no envy in the work of Creation. But every creature has an	haja inveja na obra da Criação. Mas cada criatura tem uma
-261	individual and unique role. Every time has its own	função individual e única. Cada tempo tem sua própria
-262	energy. Every place has its own energy.	energia. Cada lugar tem sua própria energia.
-263	For example, in time there is the day of Shabbat. Of the day of Shabbat it is written	Por exemplo, no tempo há o dia de Shabat. Sobre o dia de Shabat está escrito
-264	in the Zohar, "from it all the days are blessed." It is a source of	no Zohar: "dele todos os dias são abençoados." É uma fonte de
-265	inspiration and spiritual and material influence for the whole week. There are	inspiração e de influência espiritual e material para a semana inteira. Há
-266	places: there is Eretz Yisrael, "the eyes of HaShem your Elokim are upon it,"	lugares: há Eretz Yisrael, "os olhos de HaShem teu Elokim estão sobre ela,"
-267	from the beginning of the year to its end. Nothing can change this. I	do começo do ano até o seu fim. Nada pode mudar isso. Posso
-268	can love America, and I can love	amar a América, e posso amar
-269	Italy, and I can love Australia, and I	a Itália, e posso amar a Austrália, e posso
-270	can love New Zealand, but it will not be Eretz	amar a Nova Zelândia, mas não será Eretz
-271	Yisrael. There is Yerushalayim, the gate of heaven. Yerushalayim	Yisrael. Há Yerushalayim, o portão do céu. A Yerushalayim
-272	below is aligned opposite Yerushalayim above; it is written	de baixo está alinhada com a Yerushalayim de cima; está escrito
-273	in Masechet Taanit, and in the Zohar, or in Rashi, it is the gate of heaven. There is	no tratado Taanit, e no Zohar, ou em Rashi, é o portão do céu. Há
-274	the place of the Mikdash,	o lugar do Mikdash,
+256	I can't live. I receive from water, I	não posso viver. Recebo da água,
+257	receive from grain, from food, from sunlight, from the light of	recebo do grão, da alimentação, da luz do sol, da luz
+258	the moon. And I also give. Every creature. There is no	da lua. E também dou. Toda criatura. Não existe
+259	worm that doesn't receive and also give, so that there	minhoca que não receba e também dê, para que não
+260	will be no envy in the work of creation. But every creature has	haja inveja na obra da criação. Mas cada criatura tem
+261	an individual and unique role. Every time has	um papel individual e único. Cada tempo tem
+262	its own energy. Every place has its own energy.	sua própria energia. Cada lugar tem sua própria energia.
+263	For example, in time there is the day of Shabbat. Of Shabbat it is written	Por exemplo, no tempo há o dia do Shabat. Sobre o Shabat está escrito
+264	in the Zohar: from it all the days are blessed. It is a source of	no Zohar: dele todos os dias são abençoados. É fonte de
+265	inspiration and spiritual and physical bounty for the whole week. There are	inspiração e de influência espiritual e material para a semana toda. Há
+266	places: there is Eretz Yisrael, "the eyes of HaShem your Elokim are upon it,"	lugares: há Eretz Yisrael, "os olhos de HaShem, teu Elokim, estão sobre ela",
+267	"from the year's beginning to the year's end." Nothing can change this. I	"do início do ano até o fim do ano". Nada pode mudar isso. Eu
+268	can love America and I can love	posso amar a América e posso amar
+269	Italy and I can love Australia and I	a Itália e posso amar a Austrália e
+270	can love New Zealand, but that is not the Land of	posso amar a Nova Zelândia, mas isso não é a Terra de
+271	Israel. There is Jerusalem, the gate of heaven. The Jerusalem	Israel. Há Jerusalém, o portal dos céus. A Jerusalém
+272	below is aligned opposite the Jerusalem above. It is written	de baixo está alinhada com a Jerusalém de cima. Está escrito
+273	in Tractate Taanit, in the Zohar, in Rashi: it is the gate of heaven. There is	no tratado de Taanit, no Zohar, em Rashi: é o portal dos céus. Há
+274	the place of the Temple,	o lugar do Templo,
 275	the spiritual center of the world, the epicenter	o centro espiritual do mundo, o epicentro
-276	of spirituality, the place where heaven and earth	da espiritualidade, o lugar onde o céu e a terra
-277	merge and join. That is in Olam. In Shanah there is	se fundem e se unem. Isso é em Olam. Em Shanah há
-278	Shabbat; in Olam there is the Beit HaMikdash; there is the nefesh of the Jewish people,	Shabat; em Olam há o Beit HaMikdash; há a nefesh do povo judeu,
-279	"and I will bless those who bless you."	"e abençoarei os que te abençoarem."
-280	"And you shall be to Me a kingdom of priests and a holy nation." "You	"E vós sereis para Mim um reino de sacerdotes e uma nação santa." "Tu
-281	chose us from all the peoples, You raised us above all	nos escolheste dentre todos os povos, nos elevaste acima de todas
-282	the tongues." "A light to the nations I have made you."	as línguas." "Luz para as nações Eu te fiz."
-283	The same is true of every nation and every creature, whether	O mesmo vale para cada nação e cada criatura, seja
-284	in Olam, in Shanah or in Nefesh: everything has the pattern and form	em Olam, em Shanah ou em Nefesh: tudo tem o molde e a forma
-285	that the Holy One, blessed be He, chose,	que o Santo, Bendito Seja, escolheu,
-286	through which divine light will be transmitted and flow, through	pelos quais a luz divina será transmitida e fluirá, por meio
-287	this place, this time, this soul.	deste lugar, deste tempo, desta alma.
+276	of spirituality, the place where heaven and earth	da espiritualidade, o lugar onde os céus e a terra
+277	merge and connect. That is in Olam; in Shanah there is	se fundem e se conectam. Isso é em Olam; em Shanah há
+278	Shabbat; in Olam the Beit HaMikdash; in Nefesh, the people of Israel.	o Shabat; em Olam o Beit HaMikdash; em Nefesh, o povo de Israel.
+279	"And I will bless those who bless you."	"E abençoarei os que te abençoarem."
+280	"And you shall be to Me a kingdom of priests and a holy nation," "You	"E vós sereis para Mim um reino de sacerdotes e uma nação santa", "Tu
+281	chose us from among all the peoples, You loved us, from all the	nos escolheste dentre todos os povos, Tu nos amaste, dentre todas as
+282	tongues You exalted us." "I have given you as a light to the nations."	línguas Tu nos exaltaste." "Dei-te como luz para as nações."
+283	The same applies to every nation and every creature, whether	O mesmo vale para toda nação e toda criatura, seja
+284	in Olam, in Shanah or in Nefesh: every	em Olam, em Shanah ou em Nefesh: cada
+285	thing has the pattern and form chosen by the Holy One, Blessed be He,	coisa tem o padrão e a forma escolhidos pelo Santo, Bendito seja,
+286	through which divine light will be transmitted, will flow,	por meio dos quais a luz divina será transmitida, fluirá,
+287	through this place, through this time, through this soul.	por este lugar, por este tempo, por esta alma.
 288	This man,	Este homem,
-289	this man of whom it is told at the end of Parashat Emor, the son of an	este homem de quem se conta no fim da Parashat Emor, o filho de uma
-290	Israelite woman and an Egyptian man, does not	mulher israelita e de um egípcio, não
+289	this man of whom it is told at the end of Parashat Emor, between	este homem de quem se conta no fim da Parashat Emor, entre
+290	an Israelite woman and an Egyptian man, does not	uma israelita e um egípcio, não
 291	want to admit	quer admitir
-292	this division. And he claims something very mighty;	esta divisão. E ele afirma algo muito poderoso;
+292	this division, and he claims something very mighty;	essa divisão, e ele alega algo muito poderoso;
 293	it is very deep, very powerful:	é muito profundo, muito forte:
-294	Elokim is found in every place, at every time, in every	Elokim se encontra em todo lugar, em todo tempo, em toda
+294	Elokim is found in every place, in every time and in every	Elokim se encontra em todo lugar, em todo tempo e em toda
 295	reality and in every soul, without distinction.	realidade e em toda alma, sem distinção.
-296	Who is the audacious one	Quem é o atrevido
-297	who would create these differences? Who is he, and what is he,	que criaria essas diferenças? Quem é ele, e o que é ele,
-298	that he would constrict	para restringir
-299	the infinite and limitless Elokim into	o Elokim infinito e ilimitado em
-300	certain places, into certain times, into	certos lugares, em certos tempos, em
-301	certain souls? Are we stingy with Elokim's account?	certas almas? Somos mesquinhos com a conta de Elokim?
-302	We are so limited.	Somos tão limitados.
-303	We are so small, so...	Somos tão pequenos, tão...
-304	There is no division. Therefore it says here, "And the son of the Israelite woman	Não há divisão. Por isso está escrito aqui: "E o filho da israelita
-305	vayikov the Name." Why does it say "vayikov"? It should	'vayikov' o Nome." Por que diz "vayikov"? Deveria
-306	have said "vayekalel," since right after it says	estar escrito "vayekalel", pois logo depois diz
-307	"vayekalel." What is "vayikov"? It is explained that "vayikov" is another	"vayekalel". O que é "vayikov"? Explica-se que "vayikov" é outra
-308	term for cursing. The Zohar HaKadosh says, in Parashat Emor,	expressão para maldição. O Zohar HaKadosh diz, na Parashat Emor,
-309	in the Zohar HaKadosh, yes, part three, page 106, side a:	no Zohar HaKadosh, sim, parte três, página 106, lado a:
-310	"vayikov" is not only from the language of cursing, it is also from the language of piercing.	"vayikov" não é só da linguagem de maldição, é também da linguagem de perfurar.
-311	As it is written in the Book of Melachim II, chapter 12: "and he bored a	Como está escrito no livro de Melachim II, capítulo 12: "e fez um
-312	hole in its lid." He made a hole in the lid of the chest	furo na sua tampa." Ele fez um furo na tampa da arca
-313	into which they could put tzedakah. "Vayikov" means he made a hole.	na qual podiam colocar tsedacá. "Vayikov" significa que ele fez um furo.
-314	"Vayikov the son of the Israelite woman the Name." He made	"Vayikov o filho da israelita o Nome." Ele fez
-315	a hole in the Name of HaShem. He wants the divine light to be poured out	um furo no Nome de HaShem. Ele quer que a luz divina se derrame
-316	and flow to every place. It was sealed. He wanted	e flua para todo lugar. Estava selado. Ele quis
-317	to make a hole. When you make a hole, you make an opening, what	fazer um furo. Quando se faz um furo, abre-se uma abertura, o que
+296	Who is the impudent one	Quem é o atrevido
+297	who creates these differences? Who is he, and who is it	que cria essas diferenças? Quem é ele, e quem é aquele
+298	that will constrict	que irá restringir
+299	the infinite, boundless Elokim into	o Elokim infinito e sem limites a
+300	certain places, into certain times, into certain	certos lugares, a certos tempos, a certas
+301	souls? Why should we be stingy	almas? Por que deveríamos ser mesquinhos
+302	with Elokim's account? We are so limited.	com a conta de Elokim? Somos tão limitados.
+303	We are so petty, so small.	Somos tão mesquinhos, tão pequenos.
+304	There is no division. Therefore it is written here: "And the son of the Israelite woman	Não há divisão. Por isso está escrito aqui: "E o filho da israelita
+305	pierced the Name." Why is it written "vayikov"? It should	perfurou o Nome." Por que está escrito "vayikov"? Deveria
+306	have been written "vayekalel," yet immediately afterward it is written	estar escrito "vayekalel", mas logo depois está escrito
+307	"vayekalel." What is "vayikov"? They explain that "vayikov" is another	"vayekalel". O que é "vayikov"? Explicam que "vayikov" é outra
+308	expression of cursing. The holy Zohar says, Parashat Emor,	expressão de maldição. O santo Zohar diz, Parashat Emor,
+309	in the holy Zohar, volume 3, page 106a: "vayikov"	no santo Zohar, volume 3, página 106a: "vayikov"
+310	is not only an expression of cursing, it is also an expression of piercing.	não é só uma expressão de maldição, é também uma expressão de perfurar.
+311	As it is written in the book of Melachim II, chapter 12: "and he bored	Como está escrito no livro de Melachim II, capítulo 12: "e fez
+312	a hole in its lid." He made a hole in the lid of the chest so that they could	um furo na sua tampa". Fez um furo na tampa do cofre para que pudessem
+313	put charity there. "Vayikov" means he made a hole.	pôr ali a tsedacá. "Vayikov" quer dizer que ele fez um furo.
+314	"And the son of the Israelite woman pierced the Name." He made	"E o filho da israelita perfurou o Nome." Ele fez
+315	a hole in the Name of HaShem. He wants the divine light to spill out	um furo no Nome de HaShem. Ele quer que a luz divina se derrame
+316	and flow everywhere. It was sealed. He wanted	e flua para todo lugar. Estava selada. Ele quis
+317	to make a hole. When you make a hole, what	fazer um furo. Quando se faz um furo, o que
 318	happens? The light comes out. The light can spread. The light	acontece? A luz sai. A luz pode se espalhar. A luz
-319	does not stay sealed, closed and locked.	não fica selada, fechada e trancada.
-320	Light spreads in every place, it overflows, and that's it.	A luz se espalha em todo lugar, transborda, e pronto.
-321	Therefore Chazal say, "vayetsê" — from where did he go out? From where	Por isso Chazal dizem "vayetsê" — de onde ele saiu? De onde
-322	did he go out? He went out of his world. It is not just an expression, "he went out of his world."	saiu? Saiu do seu mundo. Não é só uma expressão, "saiu do seu mundo".
-323	Because seemingly it is puzzling. After all, there are many things,	Porque, aparentemente, é intrigante. Afinal, há muitas coisas,
-324	stories in Tanach in which a person became liable to death.	histórias no Tanach em que uma pessoa se tornou passível de morte.
-325	Only here it says "vayetsê," he went out of his world. Why here? Because	Só aqui está escrito "vayetsê", saiu do seu mundo. Por que aqui? Porque
-326	here is the whole point. It is not just a flowery expression.	aqui está todo o ponto. Não é apenas uma expressão floreada.
-327	There is an Olam. "Olam" means there is a pattern, there is a hierarchy,	Há um Olam. "Olam" significa que há um molde, há uma hierarquia,
-328	there is a hierarchy that the Holy One, blessed be He, established. A system	há uma hierarquia que o Santo, Bendito Seja, estabeleceu. Um sistema
-329	of ranking and organization. As in every individual person. Can	de ordenação e organização. Como em cada pessoa individual. Posso
-330	I deny this? I can try to	negar isso? Posso tentar
-331	deny it, but just as I cannot argue with the force of gravity,	negar, mas assim como não posso brigar com a força da gravidade,
-332	I can tell myself, I am like a bird, I want to fly, I have a dream	posso dizer a mim mesmo: sou como um pássaro, quero voar, tenho o sonho
-333	to fly like a bird. Fine.	de voar como um pássaro. Tudo bem.
-334	I climb a tree	Eu subo numa árvore
-335	…	…
-336	and decide that I am an eagle or another bird. But	e decido que sou uma águia ou outra ave. Mas
-337	everyone knows the sad end of the story. I cannot	todos sabem o triste fim da história. Não posso
-338	deny	negar
-339	the pattern of Creation, because I did not create	o padrão da Criação, porque eu não criei
-340	this pattern because I'm in a bad mood, and you didn't create it,	este padrão por estar de mau humor, e você não o criou,
-341	nor did my mother-in-law create it, nor did a mother create it. It is part of the pattern of Creation	nem minha sogra o criou, nem uma mãe o criou. Faz parte do padrão da própria
-342	itself. As in every individual person, there is ranking, there is	Criação. Como em cada pessoa individual, há ordenação, há
-343	organization. Elokim is the source of life. There is no other source	organização. Elokim é a fonte da vida. Não há outra fonte
-344	of life. "You shall have no other gods before Me." You can live another million	de vida. "Não terás outros deuses diante de Mim." Você pode viver mais um milhão
-345	years, another billion years, you will not find another	de anos, mais um bilhão de anos, não encontrará outro
-346	Elokim. There is one source of life, there is none besides Him,	Elokim. Há uma única fonte de vida, não há outra além dEle,
-347	and no place is empty of Him.	e nenhum lugar está vazio dEle.
-348	Then there is the divine soul. It is literally a part of Elokim	Depois há a alma divina. É literalmente uma parte de Elokim
-349	above, which the Holy One, blessed be He, flows and transmits into me.	do alto, que o Santo, Bendito Seja, faz fluir e transmite para dentro de mim.
-350	It is the part of Him that He placed into my reality.	É a parte dEle que Ele colocou na minha realidade.
-351	Then there is the animal soul. The animal soul is the vessel,	Depois há a alma animal. A alma animal é o recipiente,
-352	the Temple, the Beit HaMikdash of the divine soul.	o Templo, o Beit HaMikdash da alma divina.
-353	It is what enables the divine soul to live inside a biological body,	É ela que permite à alma divina viver dentro de um corpo biológico,
-354	a biological system. "The soul of the flesh is in the blood." Then	um sistema biológico. "A alma da carne está no sangue." Depois
-355	there is the physical body. The physical body is a vessel for the animal soul,	há o corpo físico. O corpo físico é um recipiente para a alma animal,
-356	which gives life to the physical body. The animal soul is the vessel for the divine soul,	que dá vida ao corpo físico. A alma animal é o recipiente da alma divina,
-357	which brings divine vitality	que traz vitalidade divina
-358	and divine meaning into the animal soul, and all	e significado divino para dentro da alma animal, e todos
-359	receive the flow of the Holy One, blessed be He, Himself.	recebem o fluxo do próprio Santo, Bendito Seja.
-360	I cannot deny this reality, because it is my reality.	Não posso negar essa realidade, porque é a minha realidade.
-361	In the whole world there is such a design.	No mundo inteiro há um desenho assim.
-362	But he left his world. What is the first thing he does?	Mas ele saiu do seu mundo. Qual é a primeira coisa que ele faz?
-363	He laughed at the show-bread. He says, what nonsense, that this Elokim of the Jews wants the Kohanim	Ele riu do pão da proposição. Diz: que bobagem, esse Elokim dos judeus quer que os Kohanim
-364	to eat on His mission. His Kohanim, merciful ones, are to eat	comam em Sua missão. Seus Kohanim, misericordiosos, comerão
-365	in His service bread after nine days,	a serviço dEle pão depois de nove dias,
-366	from over there?	vindo de lá?
-367	It has no taste, it has no smell, it's stale, it's	Não tem gosto, não tem cheiro, é velho, é
-368	dry, it's cold, it's chilled.	seco, é frio, é gelado.
-369	The Mei HaShiloach, Rav Leiner, writes this way: in this world, all	O Mei HaShiloach, o Rav Leiner, escreve assim: neste mundo, todas
-370	the influences a person receives from the Holy One, blessed be He, he receives	as influências que uma pessoa recebe do Santo, Bendito Seja, ele recebe
-371	in time through Shabbat, and in place through the site of the Mikdash,	no tempo por meio do Shabat, e no lugar por meio do local do Mikdash,
-372	and in soul through the Patriarchs, that is, the Jewish people as a whole. But he	e na alma por meio dos Patriarcas, isto é, do povo judeu como um todo. Mas ele
-373	said, this man, the man whose mother was an Israelite woman	disse, este homem, o homem cuja mãe era uma mulher israelita
-374	and whose father was an Egyptian man, he said, HaShem,	e cujo pai era um egípcio, ele disse: HaShem,
-375	blessed be He, can save in any place, at any time,	bendito seja, pode salvar em qualquer lugar, em qualquer tempo,
-376	and each soul on its own.	e cada alma por si mesma.
-377	What an enormous claim! I need Shabbat? Elokim	Que alegação enorme! Eu preciso do Shabat? Elokim
-378	needs Shabbat? What? For Him Sunday and Tuesday	precisa do Shabat? O quê? Para Ele o domingo e a terça
-379	are not as holy as the day of Shabbat? He needs the Mikdash?	não são tão santos quanto o dia de Shabat? Ele precisa do Mikdash?
-380	It has to come through the place of the Mikdash? What are you mocking me for?	Tem que vir pelo lugar do Mikdash? Por que você zomba de mim?
-381	What are you mocking Him for? Him?	Por que você zomba dEle? DEle?
-382	He has to save through the Patriarchs, through the Jewish people as a whole?	Ele tem que salvar por meio dos Patriarcas, por meio do povo judeu como um todo?
-383	He can save everyone, in any place, at any time, every	Ele pode salvar a todos, em qualquer lugar, em qualquer tempo, cada
-384	soul? Directly. He denies the sanctity of Shabbat time.	alma? Diretamente. Ele nega a santidade do tempo do Shabat.
-385	The show-bread flows from the day of Shabbat. The place, the Beit	O pão da proposição flui do dia de Shabat. O lugar, o Beit
-386	HaMikdash, Yerushalayim, Eretz Yisrael — he also makes	HaMikdash, Yerushalayim, Eretz Yisrael — ele também faz
-387	war against another place. He wants to be in the camp of	guerra contra outro lugar. Ele quer estar no acampamento de
-388	Dan. Why? Because his mother is in the camp of Dan. But that is	Dan. Por quê? Porque a mãe dele está no acampamento de Dan. Mas esse
-389	not his place. Not because he is a bad man. He	não é o lugar dele. Não porque ele seja um homem mau. Ele
-390	did nothing wrong. What happened between his father and his mother was not his fault.	não fez nada de errado. O que aconteceu entre o pai e a mãe não foi culpa dele.
-391	It wasn't even her fault, according to most of the midrashim. The Egyptian	Nem foi culpa dela, segundo a maior parte dos midrashim. O egípcio
-392	came in, and according to Rashi she didn't even know	entrou, e segundo Rashi ela nem sabia
-393	that he wasn't her husband. So the whole thing was simply a mistake. But we are not talking here about	que não era o marido. Então tudo foi simplesmente um engano. Mas aqui não se trata de
-394	blame. What we are talking about here is: what is my place?	culpa. O que está em questão aqui é: qual é o meu lugar?
-395	The personal Providence in every person's life:	A Providência individual na vida de cada pessoa:
-396	where is my place in life? The physical place,	onde está o meu lugar na vida? O lugar físico,
-397	the spiritual place, the psychological place, the soul's place,	o lugar espiritual, o lugar psicológico, o lugar da alma,
-398	the emotional place, the social place. His father is not from	o lugar emocional, o lugar social. O pai dele não é da
-399	the tribe of Dan. There is a law	tribo de Dan. Há uma lei
-400	that each tribe goes with the banner and the place	de que cada tribo vai com a bandeira e o lugar
-401	according to the father's tribe. Not because the mother isn't good. His mother	segundo a tribo do pai. Não porque a mãe não seja boa. A mãe dele
-402	could be the most charming and wonderful one in the world. He has a different place for everything.	podia ser a mais encantadora e maravilhosa do mundo. Ele tem outro lugar para tudo.
-403	You have nothing. There is no person who has no	Você não tem nada. Não existe pessoa que não tenha
-404	place. "There is nothing that has no place," it says in Pirkei Avot. It is not exclusion. It is the channel through which	lugar. "Não há coisa que não tenha lugar", diz em Pirkei Avot. Não é exclusão. É o canal por meio do qual
-405	I live. I cannot breathe your oxygen. Not	eu vivo. Não posso respirar o seu oxigênio. Não
-406	because your oxygen is bad. It will not	porque o seu oxigênio seja ruim. Simplesmente não
-407	work for me. I cannot use your heart's blood.	funciona para mim. Não posso usar o sangue do seu coração.
-408	I cannot use your neurons, your brain, your kidneys and your liver. We are	Não posso usar os seus neurônios, o seu cérebro, os seus rins e o seu fígado. Somos
-409	united, but only through mutual respect and the healthy boundaries	unidos, mas somente por meio do respeito mútuo e dos limites saudáveis
-410	that Elokim created. "Vayikov the Name of HaShem." He	que Elokim criou. "Vayikov o Nome de HaShem." Ele
-411	wanted to make a hole in all the partitions that exist in the world,	quis fazer um furo em todas as divisórias que existem no mundo,
-412	whether in Olam, whether in Shanah, whether in Nefesh.	seja em Olam, seja em Shanah, seja em Nefesh.
-413	There would be one great ruler. There was a famous singer in the United States,	Haveria um grande governante. Havia um cantor famoso nos Estados Unidos,
-414	he was killed, his name was John Lennon. He made	foi assassinado, o nome dele era John Lennon. Ele fez
-415	a famous melody: "Imagine." Imagine to yourselves: no	uma melodia famosa: "Imagine." Imaginem: nem
-416	heaven, no earth, no peoples, no nations, no countries.	céu, nem terra, nem povos, nem nações, nem países.
-417	True, it's nice to imagine in a world of dreams,	É verdade, é bom imaginar num mundo de sonhos,
-418	in a world of imagination, in an imaginary world, no partitions at all.	num mundo de imaginação, num mundo imaginário, sem nenhuma divisória.
-419	And this is true, because in His very essence,	E isso é verdade, porque na Sua própria essência,
-420	from that Infinite, blessed be He, truly there are no partitions.	daquele Infinito, bendito seja, de fato não há divisórias.
-421	HaShem is one and His Name is one and there is none besides Him, and before	HaShem é um e o Seu Nome é um e não há outro além dEle, e antes da
-422	Creation everything was united in simple unity, above	Criação tudo era unido em unidade simples, acima
-423	division. But out of this unity Elokim created	da divisão. Mas a partir dessa unidade Elokim criou
-424	division. He created a world not with one bird but	a divisão. Criou um mundo não com um só pássaro, mas
-425	with thousands of kinds of birds and thousands of kinds of	com milhares de espécies de aves e milhares de espécies de
-426	animals and beasts, and who can speak of creeping things,	animais e feras, e nem se fale dos répteis,
-427	and fish and human beings, and no two human beings are alike,	dos peixes e dos seres humanos, e não há dois seres humanos iguais,
-428	and no two	e não há dois
-429	grains of sand, drops of water, snowflakes that are alike to each other, and that is no	grãos de areia, gotas de água, flocos de neve iguais um ao outro, e isso não é
-430	mistake.	engano.
-431	Because this world is a limited world that transmits the	Porque este mundo é um mundo limitado que transmite a
-432	infinite light in its unique way. And he also wanted to	luz infinita à sua maneira única. E ele também quis
-433	make a hole in another partition:	fazer um furo em outra divisória:
-434	"Who separates, who separates between holy and mundane, between Israel	"Que separa, que separa entre o sagrado e o profano, entre Israel
-435	and the nations, between the seventh day and the six days of labor."	e as nações, entre o sétimo dia e os seis dias de trabalho."
-436	Who needs this separation? We are all children of one, one big	Quem precisa dessa separação? Somos todos filhos de um só, uma grande
-437	family. How nice. Stalin wanted to abolish	família. Que lindo. Stalin queria abolir
-438	the matter of family. There will be no family.	a questão da família. Não haverá família.
-439	All the nations are one family. We all love	Todos os povos são uma só família. Todos nós amamos
-440	…	…
-441	…	…
-442	…	…
-443	…	…
-444	…	…
-445	…	…
-446	…	…
-447	…	…
-448	…	…
-449	…	…
+319	doesn't stay sealed, closed and locked.	não fica selada, fechada e trancada.
+320	Light bursts out, spreads everywhere, it floods, and that's that.	A luz irrompe, se espalha por todo lugar, transborda, e pronto.
+321	That's why Chazal say "and he went out" — from where did he go out? From where	Por isso os Sábios dizem "e saiu" — de onde saiu? De onde
+322	did he go out? He went out of his world. "He went out of his world" is not	saiu? Saiu do seu mundo. "Saiu do seu mundo" não é
+323	just an expression. Because it seems puzzling. After all, there are many	só uma expressão. Porque parece estranho. Afinal, há muitas
+324	stories in the Tanach in which a person became liable to death.	histórias no Tanach em que uma pessoa se torna condenada à morte.
+325	Only here is it written "he went out of his world." Why here? Because	Só aqui está escrito "saiu do seu mundo". Por que aqui? Porque
+326	here is the whole point. It is not just a poetic expression.	aqui está todo o ponto. Não é só uma expressão poética.
+327	There is a world. "Olam" means a pattern, there is a hierarchy,	Há um mundo. "Olam" significa um padrão, há uma hierarquia,
+328	there is a hierarchy that the Holy One, Blessed be He, established. A system of	há uma hierarquia que o Santo, Bendito seja, estabeleceu. Um sistema de
+329	ranking and organization. As in every individual person. Can	classificação e organização. Como em cada pessoa. Posso
+330	I deny it? I can try	negar isso? Posso tentar
+331	to deny it, but just as I can't argue with	negar, mas assim como não posso brigar com
+332	the force of gravity, I can tell myself,	a força da gravidade, posso dizer a mim mesmo:
+333	I'm like a bird, I want to fly, I have a dream	sou como um pássaro, quero voar, tenho o sonho
+334	of flying like a bird. Fine.	de voar como um pássaro. Tudo bem.
+335	I climb a tree,	Subo numa árvore,
+336	decide that I'm an eagle or some other bird. But	decido que sou uma águia ou outra ave. Mas
+337	everyone knows the sad end of the story. I	todos conhecem o triste fim da história. Eu
+338	can't deny	não posso negar
+339	the pattern of creation, because I did not create	o padrão da criação, porque eu não criei
+340	this pattern; it's not because I'm in a bad mood. You	esse padrão; não é porque estou de mau humor. Você
+341	didn't create it, my mother-in-law didn't create it, and	não o criou, minha sogra não o criou, e
+342	no mother created it. It's part of the pattern of creation	nenhuma mãe o criou. Faz parte do padrão da própria
+343	itself. As in every individual person there is ranking, there is	criação. Como em cada pessoa há classificação, há
+344	organization. Elokim is the source of life; there is no	organização. Elokim é a fonte da vida; não há
+345	other source of life. "You shall have no other gods	outra fonte de vida. "Não terás outros deuses
+346	before Me." You could live another million	diante de Mim." Você pode viver mais um milhão
+347	years, another billion years, you won't find another	de anos, mais um bilhão de anos, não encontrará outro
+348	Elokim. There is one source of life, there is none besides Him,	Elokim. Há uma só fonte de vida, não há outra além Dele,
+349	and no place is empty of Him.	e nenhum lugar está vazio Dele.
+350	Then there is the divine soul. It is a part of Elokim from above,	Depois há a alma divina. Ela é uma parte de Elokim vinda do alto,
+351	literally, that the Holy One, Blessed be He, flows and transmits into	literalmente, que o Santo, Bendito seja, faz fluir e transmite para dentro de
+352	me. It is the part of Him that He placed into my	mim. É a parte Dele que Ele colocou na minha
+353	reality. Then there is the animal soul. The animal soul	realidade. Depois há a alma animal. A alma animal
+354	is the vessel, the sanctuary, the Temple of the divine soul.	é o recipiente, o santuário, o Templo da alma divina.
+355	It is what enables the divine soul	É ela que permite à alma divina
+356	to live inside a biological body. A biological system.	viver dentro de um corpo biológico. Um sistema biológico.
+357	The soul of flesh and blood. And then there is the physical body. The	A alma de carne e sangue. E depois há o corpo físico. O
+358	physical body is a vessel for the animal soul, which gives life to the	corpo físico é recipiente da alma animal, que dá vida ao
+359	physical body. The animal soul is the vessel for the divine soul,	corpo físico. A alma animal é o recipiente da alma divina,
+360	which brings divine vitality	que traz vitalidade divina
+361	and divine meaning into the animal soul, and all of them	e significado divino para dentro da alma animal, e todos eles
+362	receive the flow of the Holy One, Blessed be He, Himself.	recebem o fluxo do próprio Santo, Bendito seja.
+363	I cannot deny this reality, because it is my	Não posso negar essa realidade, porque ela é a minha
+364	reality. In the whole world there is such a picture.	realidade. No mundo inteiro existe esse quadro.
+365	But he left his world. What is the first thing he	Mas ele saiu do seu mundo. Qual é a primeira coisa que ele
+366	does? He laughs at the showbread. He says, what	faz? Ele ri do pão da proposição. Diz: que
+367	nonsense, that this Elokim of the Jews wants the Kohanim	besteira, esse Elokim dos judeus quer que os Cohanim
+368	to eat as His emissaries. His Kohanim, poor things, will eat	comam como Seus enviados. Os Cohanim Dele, coitados, comerão
+369	bread as His emissaries after nine days	pão como Seus enviados depois de nove dias
+370	of sitting like that.	assim parado.
+371	It has no taste, no smell, it's stale, it's	Não tem gosto, não tem cheiro, é velho, é
+372	dry, it's cold, it's chilled.	seco, é frio, é gelado.
+373	The Mei HaShiloach writes thus: in this world all	O Mei HaShiloach escreve assim: neste mundo todas
+374	the influences a person receives from the Holy One, Blessed be He, he receives	as influências que a pessoa recebe do Santo, Bendito seja, ela recebe
+375	in time through Shabbat, in space through the place of the Temple,	no tempo através do Shabat, no espaço através do lugar do Templo,
+376	and in soul through the Patriarchs, that is, the Jewish people. But he	e na alma através dos Patriarcas, isto é, o povo de Israel. Mas ele
+377	said, this man, this man whose mother was an Israelite	disse, esse homem, esse homem cuja mãe era uma
+378	woman and whose father was an Egyptian, he said: HaShem,	israelita e cujo pai era egípcio, disse: HaShem,
+379	blessed be He, can save in any place, at any time,	bendito seja, pode salvar em qualquer lugar, em qualquer tempo,
+380	and each soul on its own.	e cada alma por si mesma.
+381	What a mighty claim. I need Shabbat? Elokim	Que alegação poderosa. Eu preciso do Shabat? Elokim
+382	needs Shabbat? What? For Him, Sunday and Tuesday	precisa do Shabat? O quê? Para Ele, domingo e terça
+383	aren't as holy as Shabbat? He needs the Temple?	não são tão santos quanto o Shabat? Ele precisa do Templo?
+384	He has to come through the Temple site? What, are you	Tem de vir pelo lugar do Templo? O quê, você está
+385	making fun of me? What, are you making fun of Him? Of Him.	zombando de mim? O quê, está zombando Dele? Dele.
+386	He must save through the Patriarchs, through the collective of Israel.	Ele precisa salvar através dos Patriarcas, através da coletividade de Israel.
+387	He can't save everyone, in every place, at every time, every	Ele não pode salvar a todos, em todo lugar, em todo tempo, cada
+388	soul on its own? He denies the time, the holiness of Shabbat.	alma por si mesma? Ele nega o tempo, a santidade do Shabat.
+389	The showbread flows from Shabbat. The place, the Temple,	O pão da proposição flui do Shabat. O lugar, o Templo,
+390	Jerusalem, Eretz Yisrael — he also wages	Jerusalém, Eretz Yisrael — ele também faz
+391	war against place. He wants to be in the camp of	guerra contra o lugar. Quer estar no acampamento de
+392	Dan. Why? Because his mother is in the camp of Dan. But that's	Dan. Por quê? Porque a mãe dele está no acampamento de Dan. Mas esse
+393	not his place. Not because he's a bad man. He	não é o lugar dele. Não porque seja um homem mau. Ele
+394	did nothing wrong. It's not his fault what	não fez nada de errado. Não é culpa dele o que
+395	happened between his father and mother. Not even	aconteceu entre o pai e a mãe dele. Nem
+396	his fault, according to most Midrashim. The Egyptian	culpa dele, segundo a maioria dos Midrashim. O egípcio
+397	came in, and according to Rashi she didn't even	entrou, e segundo Rashi ela nem
+398	know it wasn't her husband, so the whole thing was simply	sabia que não era o marido, então tudo foi simplesmente
+399	a mistake. But it's not about blame here;	um engano. Mas aqui não se trata de culpa;
+400	it's about what my place is.	trata-se de qual é o meu lugar.
+401	The individual providence of every person in his life,	A providência individual de cada pessoa em sua vida,
+402	to know where my place in life is: the physical place,	saber onde é o meu lugar na vida: o lugar físico,
+403	the spiritual place, the psychological place, the soul's place,	o lugar espiritual, o lugar psicológico, o lugar da alma,
+404	the emotional place, the social place. His father isn't from the tribe of	o lugar emocional, o lugar social. O pai dele não é da tribo de
+405	Dan. There is a law	Dan. Há uma lei
+406	that each tribe goes to the banner and the place	de que cada tribo vai à bandeira e ao lugar
+407	of the father's tribe. Not because the mother isn't good. His mother	da tribo do pai. Não porque a mãe não seja boa. A mãe dele
+408	could be the most charming and the most wonderful	poderia ser a mais encantadora e a mais maravilhosa
+409	in the world. He has a different place. There is nothing	do mundo. Ele tem outro lugar. Não há nada
+410	without its place. There is no man, no man who has not his	sem o seu lugar. Não há homem, não há homem que não tenha a sua
+411	hour. There is no thing that has not its place. It is written in Pirkei	hora. Não há coisa que não tenha o seu lugar. Está escrito em Pirkei
+412	Avot. It's not a flaw. It is the channel through which	Avot. Não é uma falha. É o canal pelo qual
+413	I live. I can't breathe your oxygen. Not	eu vivo. Não posso respirar o seu oxigênio. Não
+414	because your oxygen isn't good. It just	porque o seu oxigênio não seja bom. Simplesmente
+415	won't work for me. I can't use the blood, the heart	não funciona para mim. Não posso usar o sangue, o coração
+416	of yours. I can't use your neurons,	seu. Não posso usar os seus neurônios,
+417	your brain, your kidneys and your liver. We are	o seu cérebro, os seus rins e o seu fígado. Somos
+418	united, but only through mutual respect and the healthy boundaries	unidos, mas só por meio do respeito mútuo e dos limites saudáveis
+419	that Elokim created. "And he pierced the Name of HaShem." He	que Elokim criou. "E perfurou o Nome de HaShem." Ele
+420	wanted to pierce all the partitions that exist in the world,	quis perfurar todas as divisórias que existem no mundo,
+421	whether in Olam, in Shanah or in Nefesh.	seja em Olam, em Shanah ou em Nefesh.
+422	There will be one great peace. There was a singer in the United States,	Haverá uma grande paz. Houve um cantor nos Estados Unidos,
+423	famous, he was killed, his name was John Lennon, he made	famoso, que foi morto, o nome dele era John Lennon, ele fez
+424	a song, a famous one, "Imagine." Imagine for yourselves: no	uma música, famosa, "Imagine". Imaginem: sem
+425	heaven, no earth, no peoples, no nations, no	céu, sem terra, sem povos, sem nações, sem
+426	countries. Right, it's good to imagine in a world of dreams,	países. É verdade, é bom imaginar num mundo de sonhos,
+427	in a world of imagination, in an ideal world there are no	num mundo de imaginação, num mundo ideal não há
+428	partitions. And that's true, because in His essence, in that	divisórias. E isso é verdade, porque na Sua essência, naquele
+429	Infinite One, blessed be He, there truly are no partitions.	Infinito, bendito seja, realmente não há divisórias.
+430	HaShem is One and His Name is One and there is none besides Him, and before	HaShem é Um e o Seu Nome é Um e não há ninguém além Dele, e antes da
+431	creation everything was united in the simple oneness, beyond	criação tudo era unido na unidade simples, acima
+432	division. But out of this oneness Elokim created	da divisão. Mas desta unidade Elokim criou
+433	division. He created a world not with one bird but	a divisão. Criou um mundo não com uma ave, mas
+434	with thousands of kinds of birds and thousands of kinds of	com milhares de espécies de aves e milhares de espécies de
+435	animals and beasts, and who even speaks of crawling creatures, and who speaks	animais e feras, e nem se fala dos répteis, e quem fala
+436	of fish, and human beings, and no two human beings are alike	dos peixes, e dos seres humanos, e não há dois seres humanos iguais
+437	to each other, and no two	um ao outro, e não há dois
+438	sorry, and no two grains of sand,	desculpem, e não há dois grãos de areia,
+439	drops of water, snowflakes, that are alike, and that is not	gotas de água, flocos de neve que sejam iguais, e isso não é
+440	a mistake.	um erro.
+441	Because this world is a limited world that transmits the	Porque este mundo é um mundo limitado que transmite a
+442	infinite light in its own unique way. And he also wanted	luz infinita à sua maneira única. E ele também quis
+443	to pierce another partition:	perfurar mais uma divisória:
+444	"the One who separates," who separates between holy and profane, between Israel	"Aquele que separa", que separa entre o sagrado e o profano, entre Israel
+445	and the nations, between the seventh day and the six days of work.	e as nações, entre o sétimo dia e os seis dias de trabalho.
+446	Who needs this separation? We're all children of one — one big	Quem precisa dessa separação? Somos todos filhos de uma — uma grande
+447	family. How lovely. Stalin wanted to abolish	família. Que lindo. Stalin quis abolir
+448	the institution of family. There would be no family.	a instituição da família. Não haveria família.
+449	All the peoples are one family. We all love	Todos os povos são uma só família. Todos nós amamos

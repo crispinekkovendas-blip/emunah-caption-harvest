@@ -1,450 +1,450 @@
 0	[Music]	[Música]
 1	[Music]	[Música]
-2	[Singing] not okay [Music]	[Canto] não está bem [Música]
+2	[Singing] Not okay [Music]	[Canto] Não está certo [Música]
 3	[Singing][Music] to be, to be	[Canto][Música] ser, ser
-4	names [Music] [Singing]	nomes [Música] [Canto]
+4	… [Music] [Singing]	… [Música] [Canto]
 5	>> [Music] >> great	>> [Música] >> grande
 6	[Music]	[Música]
 7	[Music]	[Música]
-8	[Music] >> [Singing] >> Yisrael	[Música] >> [Canto] >> Israel
+8	[Music] >> [Singing] >> Israel	[Música] >> [Canto] >> Israel
 9	…	…
 10	>> [Music][Singing]	>> [Música][Canto]
-11	>> a woman, who doesn't know	>> uma mulher, quem não sabe
-12	Yisrael [Singing][Music]	Israel [Canto][Música]
-13	not [Singing]	não [Canto]
-14	inherit who [Music] they don't know	herdar quem [Música] não sabem
+11	>> A woman, who doesn't know	>> Uma mulher, quem não sabe
+12	Israel [Singing][Music]	Israel [Canto][Música]
+13	Not [Singing]	Não [Canto]
+14	Inherited, who [Music] don't know	Herdou, quem [Música] não sabe
 15	[Music]	[Música]
 16	…	…
 17	>> [Music] >> …	>> [Música] >> …
-18	[Music] Am Yisrael, Am Yisrael, Am Yisrael	[Música] Am Yisrael, Am Yisrael, Am Yisrael
-19	Am Yisrael, Am [Music][Singing] Yisrael, Am	Am Yisrael, Am [Música][Canto] Yisrael, Am
-20	Yisrael, Am Yisrael, Yisrael, Yisrael	Yisrael, Am Yisrael, Israel, Israel
-21	Yisrael [Music] Yisrael, Yisrael	Israel [Música] Israel, Israel
-22	Yisrael, Yisrael, Am Yisrael [Music][Singing]	Israel, Israel, Am Yisrael [Música][Canto]
-23	Am Yisrael, Am Yisrael, Am Yisrael, Am Yisrael, Am	Am Yisrael, Am Yisrael, Am Yisrael, Am Yisrael, Am
-24	Yisrael, Am [Music] Yisrael, Am Yisrael, Am	Yisrael, Am [Música] Yisrael, Am Yisrael, Am
-25	[Singing] Yisrael. What was, was [Music]	[Canto] Israel. O que foi, foi [Música]
-26	…to start from the beginning	…começar do começo
+18	The people of Israel, the people of Israel, the people of Israel	O povo de Israel, o povo de Israel, o povo de Israel
+19	The people of Israel, the people [Music][Singing] of Israel, the people	O povo de Israel, o povo [Música][Canto] de Israel, o povo
+20	of Israel, the people of Israel, Israel, Israel	de Israel, o povo de Israel, Israel, Israel
+21	Israel [Music] Israel, Israel	Israel [Música] Israel, Israel
+22	Israel, Israel, the people of Israel [Music][Singing]	Israel, Israel, o povo de Israel [Música][Canto]
+23	The people of Israel, the people of Israel, the people of Israel, the people of Israel, the people	O povo de Israel, o povo de Israel, o povo de Israel, o povo de Israel, o povo
+24	of Israel, the people [Music] of Israel, the people of Israel, the people	de Israel, o povo [Música] de Israel, o povo de Israel, o povo
+25	[Singing] of Israel. What was, was [Music]	[Canto] de Israel. O que foi, foi [Música]
+26	To start, from the beginning	Para começar, do começo
 27	[Music]	[Música]
 28	What was, was [Singing]	O que foi, foi [Canto]
 29	The main thing is not to be afraid	O principal é não ter medo
 30	… [Music] …	… [Música] …
 31	… [Music][Singing]	… [Música][Canto]
 32	… [Music] … [Singing]	… [Música] … [Canto]
-33	my fathers [Music]	meus pais [Música]
+33	My fathers [Music]	Meus pais [Música]
 34	…	…
 35	>> [Music]	>> [Música]
 36	>> … [Music]	>> … [Música]
 37	[Music]	[Música]
 38	[Music]	[Música]
-39	[Singing] Yitbarach, always [Music]	[Canto] Yitbarach, sempre [Música]
-40	loves me, and there will always be	me ama, e sempre haverá
-41	[Singing] good	[Canto] bom
-42	HaShem Yitbarach always loves me [Music]	HaShem Yitbarach sempre me ama [Música]
-43	and I'll always have [Singing] only good, and I'll have even more	e sempre terei [Canto] só o bem, e terei ainda mais
-44	better [Singing] and even better [Music]	melhor [Canto] e ainda melhor [Música]
-45	better and even better, not [Music] better, always	melhor e ainda melhor, não [Música] melhor, sempre
-46	>> [Singing] >> I'll have only good	>> [Canto] >> terei só o bem
+39	[Singing] HaShem, blessed be He, always [Music]	[Canto] HaShem, bendito seja Ele, sempre [Música]
+40	loves me, and always there will be	me ama, e sempre haverá
+41	[Singing] good	[Canto] bem
+42	HaShem always loves me [Music]	HaShem sempre me ama [Música]
+43	and always I will have only good, and even more [Singing]	e sempre terei só o bem, e ainda mais [Canto]
+44	more good [Singing] and even more good [Music]	mais bem [Canto] e ainda mais bem [Música]
+45	more good and even more good, [Music] always	mais bem e ainda mais bem, [Música] sempre
+46	>> [Singing] >> I will have only good	>> [Canto] >> terei só o bem
 47	[Music]	[Música]
-48	… I say about myself [Singing] and always…	… eu digo sobre mim [Canto] e sempre…
-49	still keeps on waiting	ainda continua esperando
-50	[Music] fill me with knowing that You always love me; give	[Música] enche-me de saber que Tu sempre me amas; dá-me
-51	me every day [Music] …	todo dia [Música] …
-52	and turn me…	e volta-me…
+48	… I say about myself [Singing] and always not …	… eu digo sobre mim [Canto] e sempre não …
+49	still not continuing to copy	ainda sem continuar a imitar
+50	[Music] Fill me with this … give	[Música] Enche-me com isto … dá
+51	me every single day [Music] …	me todos os dias [Música] …
+52	and turn me …	e volta-me …
 53	in this world [Singing] …	neste mundo [Canto] …
 54	[Music] … everyone …	[Música] … todos …
 55	smiling [Singing]	sorrindo [Canto]
-56	people	pessoas
-57	HaShem Yitbarach always loves me and I'll always have	HaShem Yitbarach sempre me ama e sempre terei
+56	women	mulheres
+57	HaShem, blessed be He, always loves me and always I will have	HaShem, bendito seja Ele, sempre me ama e sempre terei
 58	only [Music][Singing] good	só [Música][Canto] o bem
-59	HaShem Yitbarach always loves me [Music] and always	HaShem Yitbarach sempre me ama [Música] e sempre
-60	I'll have only good, and I'll have even better, and even	terei só o bem, e terei ainda melhor, e ainda
-61	[Music] better, even better, this is even	[Música] melhor, ainda melhor, isto é ainda
-62	better, this is even better, this is even [Music] more	melhor, isto é ainda melhor, isto é ainda [Música] mais
-63	better, and I'll always [Singing] have only good, and I'll have	bom, e sempre [Canto] terei só o bem, e terei
-64	livelihood, I'll have wealth	sustento, terei riqueza
+59	HaShem, blessed be He, always loves me [Music] and always	HaShem, bendito seja Ele, sempre me ama [Música] e sempre
+60	I will have only good, and I will have even more good, and even more	terei só o bem, e terei ainda mais bem, e ainda mais
+61	[Music] good, even more good, this is even more	[Música] bem, ainda mais bem, isto é ainda mais
+62	good, this is even more good, this is even [Music] more	bem, isto é ainda mais bem, isto é ainda [Música] mais
+63	good, and always I will have [Singing] only good, and I will have	bem, e sempre terei [Canto] só o bem, e terei
+64	a livelihood, I will have wealth	sustento, terei riqueza
 65	>> [Music]	>> [Música]
-66	>> Single men and women [Singing] will have a match, there will be	>> Rapazes e moças [Canto] terão seu par, haverá
+66	>> Bachelors and maidens [Singing] will find their match, there will also be	>> Rapazes e moças [Canto] encontrarão o seu par, haverá também
 67	complete healing and health [Music]	cura completa e saúde [Música]
-68	[Singing] beautiful, happy lives, year after year	[Canto] vidas lindas e felizes, ano após ano
-69	HaShem Yitbarach always loves [Singing][Music] me	HaShem Yitbarach sempre me ama [Canto][Música]
-70	and I'll always have only good	e sempre terei só o bem
-71	HaShem Yitbarach [Music][Singing]	HaShem Yitbarach [Música][Canto]
-72	always loves me, and I'll always have only good, and I'll have	sempre me ama, e sempre terei só o bem, e terei
-73	even better; here, someone [Music] here is coming out of it, and there is	ainda melhor; aqui, alguém [Música] aqui está saindo, e há
-74	another who'll get out of it. It's a pity there's a Nissan blocking	outro que vai sair. Que pena que há um Nissan bloqueando
+68	[Singing] beautiful, happy lives, year after year	[Canto] vidas belas e felizes, ano após ano
+69	HaShem, blessed be He, always loves [Singing][Music] me	HaShem, bendito seja Ele, sempre me [Canto][Música] ama
+70	and always I will have only good	e sempre terei só o bem
+71	HaShem, blessed be He, [Music][Singing]	HaShem, bendito seja Ele, [Música][Canto]
+72	always me, and always I will have only good, and I will have	sempre me ama, e sempre terei só o bem, e terei
+73	more good, more good [Music] here, and there is	mais bem, mais bem [Música] aqui, e há
+74	someone else who got out of it. I'm sorry there's a Nissan blocking	mais alguém que saiu disso. Lamento que haja um Nissan bloqueando
 75	>> Yes	>> Sim
-76	My wife got out of it	Minha esposa saiu
+76	My wife got out of it	Minha esposa saiu disso
 77	Thank you very much	Muito obrigado
-78	Dear Jew who is blocking: a Nissan, Nissan 104 at the end	Querido judeu que está bloqueando: um Nissan, Nissan com final 104
-79	Nissan 104 at the end is blocking, and the guy over there, poor thing,	O Nissan com final 104 está bloqueando, e o rapaz ali, coitado,
-80	is very delayed unloading his things; please, whoever	está muito atrasado para desmontar as coisas dele; por favor, quem
+78	Dear Jew who is blocking a Nissan, Nissan 104 at the end	Querido judeu que está bloqueando um Nissan, Nissan 104 no final
+79	Nissan 104 at the end is blocking, and the guy there, poor thing,	O Nissan 104 no final está bloqueando, e o rapaz ali, coitado,
+80	is very delayed in unloading his things. Please, whoever	está muito atrasado para desmontar as suas coisas. Por favor, quem
 81	has a Nissan	tem um Nissan
-82	104 at the end, move the car so that…	com final 104, mova o carro para que…
-83	…can get out. Ah, Ron, Ron, where's Ron, Ron?	…possa sair. Ah, Ron, Ron, onde está o Ron, Ron?
-84	>> Ron isn't here	>> O Ron não está aqui
-85	>> Ah, he's over there. Who's in charge of the speaker?	>> Ah, ele está ali. Quem é o responsável pelo alto-falante?
-86	>> Sweetheart, the new speakers already, or not yet?	>> Querido, os alto-falantes novos já, ou ainda não?
-87	Turn me up for the world, turn me up to the maximum	Aumenta para o mundo, aumenta ao máximo
-88	that you can. Good evening, holy congregation, welcome	que você puder. Boa noite, comunidade santa, sejam bem-vindos
+82	104 at the end, move the car so that no, no	104 no final, mova o carro para que não, não
+83	… can leave. Uh, Ron, Ron, where is Ron, Ron?	… possa sair. Ah, Ron, Ron, onde está Ron, Ron?
+84	>> Ron isn't here	>> Ron não está aqui
+85	>> Oh, he's there. Who is in charge of the speaker?	>> Ah, ele está ali. Quem é o responsável pelo alto-falante?
+86	>> Is it you, sweetie? Are the new speakers here already or not yet?	>> É você, querido? Os alto-falantes novos já chegaram ou ainda não?
+87	Turn me up for the world, turn me up to the maximum	Aumente para o mundo, aumente ao máximo
+88	that you can. Good evening, holy congregation, welcome	que puder. Boa noite, santa congregação, sejam bem-vindos
 89	in the name of HaShem	em nome de HaShem
-90	The class is for the healing of Danny son of Sarah, Sapir son of	A aula é pela cura de Danny filho de Sarah, Sapir filho de
-91	Nofar, Shai son of Yehuda, Rachel, Daniela daughter of Hannah, Tomer	Nofar, Shai filho de Yehuda, Rachel, Daniela filha de Hannah, Tomer
+90	This lesson is for the healing of Danny son of Sarah, Sapir son of	Esta aula é pela cura de Danny filho de Sara, Sapir filho de
+91	Nofar, Shai, Yehuda son of Rachel, Daniela daughter of Chana, Tomer	Nofar, Shai, Yehuda filho de Rachel, Daniela filha de Chana, Tomer
 92	son of Nitza, Zemira, Shira daughter of Rachel, Leni, Orna daughter of	filho de Nitza, Zemira, Shira filha de Rachel, Leni, Orna filha de
-93	Chen, Hannah	Chen, Hannah
-94	…Chaya daughter of Nirit, … daughter of Malka, Benaya	…Chaya filha de Nirit, … filha de Malka, Benaya
-95	Chaim and Yaakov David, … Amit son of …, Netanel	Chaim e Yaakov David, … Amit filho de …, Netanel
-96	…, Jacqueline, Sarit daughter of Denise, an easy birth	…, Jacqueline, Sarit filha de Denise, um parto fácil
-97	…, Naama daughter of Shoshana, and for the success of Yosef, Elad	…, Naama filha de Shoshana, e pelo sucesso de Yosef, Elad
+93	Chen, Chana	Chen, Chana
+94	…, Chaya daughter of Nirit, … daughter of Malka, Benaya	…, Chaya filha de Nirit, … filha de Malka, Benaya
+95	Chaim and Yaakov David, Amit son of Eliezer, Netanya	Chaim e Yaakov David, Amit filho de Eliezer, Netanya
+96	Jacqueline, Sarit daughter of Denise, an easy birth for Batel	Jacqueline, Sarit filha de Denise, um parto fácil para Batel
+97	…, Naama daughter of Shoshana, and for the success of Yosefi Elad	…, Naama filha de Shoshana, e pelo sucesso de Yosefi Elad
 98	son of Eliza, Shira daughter of Nitza, … Shaul son of Shula	filho de Eliza, Shira filha de Nitza, … Shaul filho de Shula
 99	and David, Shai son of Nina, and Yaakov, Lital daughter of Carmel, Rachel	e David, Shai filho de Nina, e Yaakov, Lital filha de Carmel, Rachel
-100	daughter of Malka, and their children, holy offspring, …	filha de Malka, e seus filhos, descendência santa, …
-101	and the young girls, … and then a worthy match, with	e as moças, … e depois um par digno, com
+100	daughter of Malka, and their children, holy offspring that endures, Lior	filha de Malka, e seus filhos, descendência santa que perdura, Lior
+101	and the girls' youth, Meitar, and then a proper match, with	e a juventude das moças, Meitar, e então um par digno, com
 102	complete healing	cura completa
-103	Metal, Hodaya daughter of Valentina, Mor, Talia daughter of Sarah	Metal, Hodaya filha de Valentina, Mor, Talia filha de Sarah
-104	Dalit daughter of Esther, Shira daughter of Mitra, Or daughter of Medi	Dalit filha de Esther, Shira filha de Mitra, Or filha de Medi
-105	Rachel daughter of Ahuva, Hadassah daughter of Shoshana, Sarah Rachel	Rachel filha de Ahuva, Hadassah filha de Shoshana, Sarah Rachel
+103	Matal, Hodaya daughter of Valentina, Mor, Talia daughter of Sarah	Matal, Hodaya filha de Valentina, Mor, Talia filha de Sara
+104	Dalit daughter of Esther, Shira daughter of Mitra, Or daughter of Madi	Dalit filha de Ester, Shira filha de Mitra, Or filha de Madi
+105	Rachel daughter of Ahuva, Messi, Hadassah daughter of Shoshana, Sarah, Rachel	Rachel filha de Ahuva, Messi, Hadassá filha de Shoshana, Sara, Rachel
 106	Simcha and Rivka daughters of Rina, for the elevation of the soul of Pnina daughter of	Simcha e Rivka filhas de Rina, pela elevação da alma de Pnina filha de
-107	Adina, Yitzchak son of Rivka, Sofi daughter of Esther, Yaakov	Adina, Yitzchak filho de Rivka, Sofi filha de Esther, Yaakov
-108	…, daughter of … son of Mazal. The class is dedicated to the healing of Yair	…, filha de … filho de Mazal. A aula é dedicada à cura de Yair
-109	son of …, for the elevation of the soul of Medi daughter of Fibi	filho de …, pela elevação da alma de Medi filha de Fibi
+107	Adina, Yitzchak son of Rivka, Sofi daughter of Esther, Yaakov	Adina, Yitzchak filho de Rivka, Sofi filha de Ester, Yaakov
+108	…, daughter of … Mazal. This lesson is dedicated to the healing of Yair	…, filha de … Mazal. Esta aula é dedicada à cura de Yair
+109	son of … Tor, and to the soul of Madi daughter of Fibi	filho de … Tor, e à alma de Madi filha de Fibi
 110	May He who blessed our fathers, may He who blessed our holy fathers	Aquele que abençoou nossos pais, Aquele que abençoou nossos santos pais
-111	Abraham, Isaac and Jacob bless my friend Nissan	Avraham, Yitzchak e Yaakov abençoe meu amigo Nissan
+111	Abraham, Isaac and Jacob, bless my friend Nissan	Avraham, Yitzchak e Yaakov, abençoe o meu amigo Nissan
 112	Michael son of Shifra; may HaShem give him blessing and success	Michael filho de Shifra; que HaShem lhe dê bênção e sucesso
-113	in all the work of his hands, complete healing, worthy offspring	em toda obra de suas mãos, cura completa, filhos dignos
-114	for his children, long life, health and serenity. Amen. So	para seus filhos, longevidade, saúde e tranquilidade. Amém. Assim
-115	may it be His will. May He who blessed our fathers bless HaShem	seja Sua vontade. Aquele que abençoou nossos pais abençoe, HaShem
-116	the good…	o bom…
-117	>> Dan son of Hanash, may HaShem give him, with HaShem's help, blessing	>> Dan filho de Hanash, que HaShem lhe dê, com a ajuda de HaShem, bênção
-118	and success, long life, nachat, serenity and honor. Amen.	e sucesso, longevidade, nachat, tranquilidade e honra. Amém.
-119	So may it be His will. The class is for the healing of Raphael son of	Assim seja Sua vontade. A aula é pela cura de Rafael filho de
-120	Olga and Sarah daughter of Shiral, Noaz	Olga e Sarah filha de Shiral, Noaz
-121	>> Noa daughter of Tzipora. Which Nissan car	>> Noa filha de Tzipora. Qual é o carro Nissan
-122	>> Nissan 10… >> Nissan 104, please move the car, I'm begging you	>> Nissan 10… >> Nissan 104, por favor mova o carro, eu estou implorando
+113	in all the work of his hands, complete healing, proper matches	em toda obra das suas mãos, cura completa, pares dignos
+114	for his children, long life, health and tranquility, amen. Yes,	para os seus filhos, longa vida, saúde e tranquilidade, amém. Sim,
+115	may it be His will. May He who blessed our fathers bless	que seja a Sua vontade. Aquele que abençoou nossos pais abençoe
+116	the good one, uh …	o bom, ah …
+117	>> Dan son of Chana. May HaShem give him, with the help of HaShem, blessing	>> Dan filho de Chana. Que HaShem lhe dê, com a ajuda de HaShem, bênção
+118	and success, long life, nachat, tranquility and honor, amen,	e sucesso, longa vida, nachat, tranquilidade e honra, amém,
+119	so may it be His will. This lesson is for the healing of Refael son of	que assim seja a Sua vontade. Esta aula é pela cura de Refael filho de
+120	Olga, and Sarah daughter of Shirel, Noa	Olga, e Sara filha de Shirel, Noa
+121	>> Noa daughter of Tzipora. Which Nissan car?	>> Noa filha de Tzipora. Qual é o carro Nissan?
+122	>> Nissan 10 >> Nissan 104, please move the car, I'm begging you	>> Nissan 10 >> Nissan 104, por favor mova o carro, estou implorando
 123	please	por favor
-124	>> He's out	>> Ele saiu
-125	>> Thank you. Good evening, holy congregation, welcome in the name	>> Obrigado. Boa noite, comunidade santa, sejam bem-vindos em nome
-126	of HaShem. If we could please keep quiet. Blessed are You,	de HaShem. Se for possível, mantenham o silêncio, por favor. Bendito és Tu,
-127	Adonai Elokeinu, King of the world, by whose word everything came to be.	Adonai Elokeinu, Rei do universo, por cuja palavra tudo veio a existir.
+124	>> He left	>> Ele saiu
+125	>> Thank you. Good evening, holy congregation, welcome in the name	>> Obrigado. Boa noite, santa congregação, sejam bem-vindos em nome
+126	of HaShem. If it's possible, please keep quiet. Blessed are You,	de HaShem. Se for possível, silêncio por favor. Bendito és Tu,
+127	Adonai Elokeinu, King of the universe, by whose word everything came to be.	Adonai Elokeinu, Rei do universo, por cuja palavra tudo veio a existir.
 128	>> Amen, amen	>> Amém, amém
-129	>> I thank all those in charge. Whoever came with a sour face,	>> Agradeço a todos os responsáveis. Quem veio de cara azeda,
-130	change your face right away to a good mood. Today we	mude a cara já para um bom humor. Hoje nós
-131	will talk about lighting the light. Darkness	vamos falar sobre acender a luz. Escuridão
+129	>> I thank all those in charge. Whoever came with a sour face,	>> Agradeço a todos os responsáveis. Quem veio com cara azeda,
+130	change your face immediately to a good mood. Today we will	mude a cara já para bom humor. Hoje vamos
+131	talk about lighting the light. Darkness	falar de acender a luz. Escuridão
 132	is a sin, darkness is depression, darkness is sadness,	é pecado, escuridão é depressão, escuridão é tristeza,
 133	darkness is committing sins. Light is getting married,	escuridão é cometer pecados. Luz é casar,
-134	having children, bringing grandchildren to Abba.	ter filhos, trazer netos para o Pai.
-135	It is, with HaShem's help, to be in true joy all the time,	É, com a ajuda de HaShem, estar em verdadeira alegria o tempo todo,
-136	to always see the positive, to always see	ver sempre o positivo, ver sempre
+134	having children, bringing grandchildren to dad.	ter filhos, trazer netos para o papai.
+135	This is, with the help of HaShem, being in true joy all the time,	Isto é, com a ajuda de HaShem, estar em alegria verdadeira o tempo todo,
+136	always seeing the positive, always seeing	sempre ver o positivo, sempre ver
 137	the good things. My dear friends, in the weekly	as coisas boas. Meus queridos amigos, na parashá
-138	portion, when I get to Parashat Ki Tavo, I	da semana, quando chego à Parashat Ki Tavo, eu
-139	get a bit of a chill in my heart from the curses. There are 98	sinto um pouco de aperto no coração por causa das maldições. Há 98
-140	curses there, sadly. 98 curses that come upon a	maldições ali, infelizmente. 98 maldições que vêm sobre uma
+138	parashah, when I reach Parashat Ki Tavo, I	da semana, quando chego à parashá Ki Tavo,
+139	get a bit of sadness in my heart from the curses. There are 98	sinto um pouco de tristeza no coração pelas maldições. Há 98
+140	curses, sadly. 98 curses that come upon a	maldições, infelizmente. 98 maldições que vêm sobre uma
 141	person	pessoa
-142	who, God forbid, doesn't listen to HaShem Yitbarach.	que, D'us nos livre, não escuta HaShem Yitbarach.
-143	The beginning of the Parashah starts: If you listen to Adonai	O começo da parashá diz: Se ouvires Adonai
-144	your Elokim, be a good boy, be a good girl, HaShem	teu Elokim, seja um bom menino, seja uma boa menina, HaShem
-145	will give you: blessed shall you be in the city, blessed in the field,	te dará: bendito serás na cidade, bendito no campo,
-146	blessed the fruit of your womb, the fruit of your ground, the offspring of your herds	bendito o fruto do teu ventre, o fruto do teu solo, a cria do teu rebanho
-147	and the flocks of your sheep. Blessed, blessed, blessed, blessed	e os rebanhos das tuas ovelhas. Bendito, bendito, bendito, bendito
-148	and blessed. That's if you're a good boy. If you	e bendito. Isso é se fores um bom menino. Se não
-149	aren't a good boy, God forbid, not good things.	fores um bom menino, D'us nos livre, coisas que não são boas.
-150	Cursed, cursed, cursed, cursed. God forbid, may it not come	Maldito, maldito, maldito, maldito. D'us nos livre, que não venha
-151	and not be. My dear, sweet friends, this thing,	e não seja. Meus queridos e doces amigos, essa coisa,
-152	this thing is a bit puzzling, because at the end	essa coisa é um pouco confusa, porque no fim
-153	of all the curses it is written, do you know why	de todas as maldições está escrito, sabem por que
-154	curses came upon Am Yisrael? "Because you did not serve	as maldições vieram sobre Am Yisrael? "Porque não serviste
-155	Adonai your Elokim with joy and goodness of heart, from the abundance of all."	a Adonai teu Elokim com alegria e bondade de coração, na abundância de tudo."
-156	That is, if you want to ask a person why	Ou seja, se você quer perguntar a alguém por que
-157	there are troubles in the world, why are there— can't hear well, sweetie—	há tribulações no mundo, por que há— não se ouve bem, querido—
-158	such problems on planet Earth, why are there	tais problemas no planeta Terra, por que há
-159	girls who don't get married? Why are there boys who don't	moças que não se casam? Por que há rapazes que não
-160	get married? Why are there sick people? Why are there deceased?	se casam? Por que há doentes? Por que há falecidos?
-161	Why are there poor people? Why are there all kinds of bad things?	Por que há pobres? Por que há todo tipo de coisas ruins?
-162	The answer is: "Because you did not serve	A resposta é: "Porque não serviste
-163	Adonai your Elokim with joy and goodness of heart, from the abundance of all." That is,	a Adonai teu Elokim com alegria e bondade de coração, na abundância de tudo." Ou seja,
-164	you served HaShem, but you didn't serve Him with joy.	serviste a HaShem, mas não o serviste com alegria.
-165	My dear, sweet friends,	Meus queridos e doces amigos,
-166	today I want to learn with you the greatness of serving HaShem	hoje quero estudar com vocês a grandeza de servir a HaShem
-167	with joy. How does this connect to the month of Elul? We	com alegria. Como isso se liga ao mês de Elul? Nós
-168	are— can't hear well, can't hear well.	estamos— não se ouve bem, não se ouve bem.
-169	The month of mercy and Selichot.	O mês de misericórdia e Selichot.
-170	The month of mercy and Selichot is a month in which we do teshuvah.	O mês de misericórdia e Selichot é um mês em que fazemos teshuvá.
+142	who, God forbid, does not listen to the voice of HaShem, blessed be He.	que, que D'us nos livre, não ouve a voz de HaShem, bendito seja Ele.
+143	The parashah begins: "If you listen to the voice of Adonai	A parashá começa: "Se ouvires a voz de Adonai
+144	your Elokim," be a good boy, be a good girl, HaShem	teu Elokim", seja um bom menino, seja uma boa menina, HaShem
+145	will give you. "Blessed are you in the city, blessed are you in the field,	te dará. "Bendito serás na cidade, bendito serás no campo,
+146	blessed is the fruit of your womb, the fruit of your livestock, the offspring	bendito o fruto do teu ventre, o fruto do teu gado, as crias
+147	of your herds and the young of your flock." Blessed, blessed, blessed, blessed,	das tuas vacas e os rebanhos das tuas ovelhas." Bendito, bendito, bendito, bendito
+148	and blessed. That is if you are a good boy. If you are not	e bendito. Isso é se fores um bom menino. Se não
+149	a good boy, God forbid, not good things.	fores um bom menino, que D'us nos livre, coisas não boas.
+150	Cursed, cursed, cursed, cursed. God forbid, may it not come	Maldito, maldito, maldito, maldito. Que D'us nos livre, que não venha
+151	and not be. My dear and sweet friends, this thing,	e não seja. Meus queridos e doces amigos, isto,
+152	this thing is a bit strange, because at the end it's written, after	isto é um pouco estranho, porque no fim está escrito, depois
+153	all the curses at the end, it's written, do you know why	de todas as maldições, está escrito, sabes por que
+154	curses came upon the people of Israel? "Because you did not serve	vieram maldições sobre o povo de Israel? "Porque não serviste
+155	Adonai your Elokim with joy and goodness of heart, out of the abundance of everything."	a Adonai teu Elokim com alegria e bondade de coração, na abundância de tudo."
+156	That is to say, if you want to ask a person why there are	Quer dizer, se queres perguntar a alguém por que há
+157	troubles in the world, why there are … can't hear well? Sweetie, there is	problemas no mundo, por que há … não estão ouvindo bem? Querida, há
+158	such … why are there problems on planet Earth, why are there	tal … por que há problemas no planeta Terra, por que há
+159	girls who don't get married? Why are there guys who don't	moças que não se casam? Por que há rapazes que não
+160	get married? Why are there sick people? Why are there the departed?	se casam? Por que há doentes? Por que há falecidos?
+161	Why are there poor people? Why are there all kinds of	Por que há pobres? Por que há todo tipo de
+162	bad things? The answer is: "Because you did not serve	coisas más? A resposta é: "Porque não serviste
+163	Adonai your Elokim with joy and goodness of heart, out of abundance." That is,	a Adonai teu Elokim com alegria e bondade de coração, na abundância." Ou seja,
+164	you served HaShem, but you did not serve Him with joy.	serviste a HaShem, mas não O serviste com alegria.
+165	My dear and sweet friends,	Meus queridos e doces amigos,
+166	today I want to learn with you the virtue of serving HaShem	hoje quero estudar convosco o valor de servir a HaShem
+167	with joy. How is this connected to the month of Elul? We	com alegria. Como isso se liga ao mês de Elul? Estamos
+168	are now … can't hear well, can't hear well,	agora … não estão ouvindo bem, não estão ouvindo bem,
+169	in the month of mercy and Selichot.	no mês da misericórdia e das Selichot.
+170	The month of mercy and Selichot is a month in which we do teshuvah.	O mês da misericórdia e das Selichot é um mês em que fazemos teshuvá.
 171	A month in which we return in teshuvah to our Father	Um mês em que voltamos em teshuvá ao nosso Pai
 172	in heaven. What does joy have to do with teshuvah?	nos céus. O que a alegria tem a ver com a teshuvá?
-173	Joy is seemingly the opposite of teshuvah. Teshuvah	A alegria é aparentemente o oposto da teshuvá. Teshuvá
-174	is: I did, I sinned, I transgressed, I rebelled,	é: fiz, pequei, errei, me rebelei,
-175	I erred. I want to fix it. With joy it's the opposite.	me enganei. Quero corrigir. Com a alegria é o contrário.
-176	I did good things. I'm happy about it. Why	Fiz coisas boas. Estou feliz com isso. Por que
-177	did I choose to speak about joy precisely now? Because I think	escolhi falar sobre a alegria justamente agora? Porque acho
-178	…	…
-179	that in the end, my dear friends,	que no fim, meus queridos amigos,
-180	the secret of your success in life,	o segredo do seu sucesso na vida,
-181	the secret of your keeping Torah and mitzvot, and the most correct	o segredo do seu cumprimento da Torá e das mitsvot, e a mais correta
-182	teshuvah in the world, is teshuvah	teshuvá do mundo é a teshuvá
-183	out of love and from joy.	por amor e com alegria.
-184	There are many children here, young men, young and old, who are doing teshuvah, who are drawing close to our Father	Há aqui muitas crianças, rapazes, jovens e mais velhos que fazem teshuvá, que se aproximam do nosso Pai
+173	Joy is seemingly the opposite of teshuvah. Teshuvah	A alegria é, aparentemente, o oposto da teshuvá. Teshuvá
+174	is: I did, I sinned, I transgressed, I rebelled,	é: fiz, pequei, transgredi, me rebelei,
+175	I erred. I want to fix it. With joy it's the opposite.	errei. Quero corrigir. Com a alegria é o contrário.
+176	I did good things. I am happy about that. Why	Fiz coisas boas. Estou feliz com isso. Por que
+177	did I choose to speak about joy specifically now? Because I	escolhi falar da alegria justamente agora? Porque
+178	think	acho
+179	that in the end, my dear friends,	que, no fim, meus queridos amigos,
+180	the secret of your success in life,	o segredo do teu sucesso na vida,
+181	the secret of your keeping Torah and mitzvot, and the most correct	o segredo do teu cumprimento da Torá e das mitsvot, e a mais correta
+182	teshuvah in the world, is teshuvah	teshuvá do mundo, é a teshuvá
+183	out of love and out of joy.	por amor e com alegria.
+184	There are many children, guys, young and old here who are returning in teshuvah, who are getting closer to our Father	Há aqui muitas crianças, rapazes, jovens e adultos que estão fazendo teshuvá, que estão se aproximando do nosso Pai
 185	in heaven.	nos céus.
-186	There are many righteous girls here who are drawing close to our Father	Há aqui muitas moças justas que se aproximam do nosso Pai
-187	in heaven, who grew up in homes not so religious, and	nos céus, que cresceram em lares não tão religiosos, e
-188	nevertheless they come to hear words of Torah. I	mesmo assim vêm ouvir palavras de Torá. Eu
-189	envy you, I envy your reward, I envy that you	invejo vocês, invejo a sua recompensa, invejo que vocês
-190	are drawing close to the Creator. Happy are you and happy is your lot! [Applause]	se aproximam do Criador. Felizes de vocês e feliz a sua porção! [Aplausos]
-191	Happy are you and happy is your lot, who grew up in homes not so	Felizes de vocês e feliz a sua porção, que cresceram em lares não tão
-192	religious and chose to take a step and come toward the Creator	religiosos e escolheram dar um passo e vir ao encontro do Criador
-193	and to hear words of Torah and to be strengthened	e ouvir palavras de Torá e se fortalecer
-194	and to give nachat ruach to the Creator through the work of your hands.	e dar nachat ruach ao Criador com a obra das suas mãos.
-195	About this the Gemara says, and so the Rambam ruled: the place	Sobre isso diz a Guemará, e assim decidiu o Rambam: o lugar
-196	where baalei teshuvah stand, completely righteous people	onde os baalei teshuvá ficam, os totalmente justos
-197	cannot stand. Can't hear well. The place where baalei	não podem ficar. Não se ouve bem. O lugar onde os baalei
-198	teshuvah stand, completely righteous people cannot	teshuvá ficam, os totalmente justos não podem
-199	stand. That is, in the place where you stand, dear Jew,	ficar. Ou seja, no lugar onde você está, querido judeu,
-200	here at the class, if you merited to do teshuvah, dear Dvir,	aqui na aula, se você mereceu fazer teshuvá, querido Dvir,
-201	this is the place where baalei teshuvah, completely righteous people,	este é o lugar onde os baalei teshuvá, os totalmente justos,
-202	cannot stand. Because you go through difficulties, you	não podem ficar. Porque você passa por dificuldades, você
-203	go through confusions, you go through wars. Dear Ido,	passa por confusões, você passa por guerras. Querido Ido,
-204	the trials you go through, completely righteous people don't	as provações que você passa, os totalmente justos não
-205	go through them, you understand? But it's important to me, very	passam por elas, entende? Mas é importante para mim, muito
-206	important to me that the path be beautiful, that your path	importante para mim que o caminho seja bonito, que o seu caminho
-207	in serving HaShem be beautiful, that you not feel, God forbid,	no serviço a HaShem seja bonito, que vocês não sintam, D'us nos livre,
-208	that HaShem Yitbarach wants to punish you, and, God forbid,	que HaShem Yitbarach quer castigá-los, e, D'us nos livre,
-209	you hate Him. The way to serve HaShem must	que o odeiem. O caminho para servir a HaShem tem que
+186	There are many righteous girls here who are getting closer to our Father	Há aqui muitas moças justas que estão se aproximando do nosso Pai
+187	in heaven, who grew up in not-so-religious homes, and nevertheless	nos céus, que cresceram em lares não tão religiosos, e mesmo assim
+188	they come to hear words of Torah. I	vêm ouvir palavras de Torá. Eu
+189	envy you, I envy your reward, I envy the fact that you	vos invejo, invejo a vossa recompensa, invejo que vós
+190	are getting closer to the Creator. Happy are you and happy is your portion. [Applause]	estais vos aproximando do Criador. Felizes sois vós e feliz é a vossa porção. [Aplausos]
+191	Happy are you and happy is your portion, you who grew up in not-so	Felizes sois vós e feliz é a vossa porção, vós que crescestes em lares não tão
+192	religious homes and chose to take a step and come toward the Creator	religiosos e escolhestes dar um passo e vir ao encontro do Criador
+193	of the world, and to hear words of Torah and to strengthen yourselves	do mundo, e ouvir palavras de Torá e fortalecer-vos
+194	and to give nachat ruach to the Creator through your deeds.	e dar nachat ruach ao Criador com as vossas ações.
+195	About this the Gemara says, and so the Rambam ruled: in the place	Sobre isso diz a Guemará, e assim decidiu o Rambam: no lugar
+196	where baalei teshuvah stand, completely righteous people	onde os baalei teshuvá estão, os justos completos
+197	cannot stand. Can't hear well? In the place where baalei	não podem estar. Não estão ouvindo bem? No lugar onde os baalei
+198	teshuvah stand, completely righteous people cannot	teshuvá estão, os justos completos não podem
+199	stand. That is, in the place where you stand, dear Jew,	estar. Ou seja, no lugar onde estás, querido judeu,
+200	here in the lesson, if you merited to do teshuvah, dear Dvir,	aqui na aula, se tiveste o mérito de fazer teshuvá, querido Dvir,
+201	it is a place where baalei teshuvah, completely righteous people,	é um lugar onde os baalei teshuvá, os justos completos,
+202	cannot stand. Because you go through difficulties, you go	não podem estar. Porque passas por dificuldades, passas
+203	through confusion, you go through battles. Dear Ido,	por confusões, passas por batalhas. Querido Ido,
+204	the trials you go through, completely righteous people do not	as provações que enfrentas, os justos completos não
+205	go through them, you understand? But it's important to me, very	passam por elas, entendes? Mas é importante para mim, muito
+206	important to me that the path be beautiful, that your path	importante para mim que o caminho seja bonito, que o vosso caminho
+207	in serving HaShem be beautiful, that you not feel, God forbid,	no serviço a HaShem seja bonito, que não sintais, que D'us nos livre,
+208	that HaShem, blessed be He, wants to punish you and, God forbid,	que HaShem, bendito seja Ele, quer vos castigar e, que D'us nos livre,
+209	you come to hate Him. The way to serve HaShem must	passeis a odiá-Lo. O caminho para servir a HaShem deve
 210	be a beautiful way, a sweet way, a joyful way.	ser um caminho lindo, um caminho doce, um caminho alegre.
-211	And about this it is written in the Torah, "Because you did not serve	E sobre isso está escrito na Torá: "Porque não serviste
-212	Adonai your Elokim with joy." If all the time you serve	a Adonai teu Elokim com alegria." Se o tempo todo você servir
-213	HaShem only through intimidation, through punishments,	a HaShem só por meio de intimidação, de castigos,
-214	through, God forbid, missiles and … and atom bombs	por meio de, D'us nos livre, mísseis e … e bombas atômicas
+211	And about this it is written in the Torah: "Because you did not serve	E sobre isso está escrito na Torá: "Porque não serviste
+212	Adonai your Elokim with joy." If you always serve	a Adonai teu Elokim com alegria." Se sempre serves
+213	HaShem only through threats, through punishments,	a HaShem apenas por ameaças, por castigos,
+214	through, God forbid, missiles, atom bombs,	por, que D'us nos livre, mísseis, bombas atômicas,
 215	and wars with Arabs and the like, or earthquakes,	e guerras com árabes e coisas assim, ou terremotos,
-216	you'll develop hatred toward the Creator, a suppressed hatred,	você vai desenvolver ódio pelo Criador, um ódio reprimido,
-217	because you can't live in a world	porque você não consegue viver num mundo
-218	where you're happy and good-hearted if you feel all the time	em que é feliz e bondoso se sente o tempo todo
-219	that the Holy One, blessed be He, is pouncing on you.	que o Santo, bendito seja Ele, está em cima de você.
-220	The only way you can serve HaShem	O único caminho em que você pode servir a HaShem
-221	Yitbarach, the only way you can serve the Creator	Yitbarach, o único em que você pode servir ao Criador
-222	and in the right way is with joy. Dear Rabbi Moli,	e do jeito certo é com alegria. Querido Rabino Moli,
-223	I want to tell you something very simple.	quero lhe dizer algo muito simples.
-224	Dear mother, listen well.	Querida mãe, escute bem.
-225	Your daughter will see you dressing modestly,	Sua filha vai ver você se vestindo com modéstia,
-226	more or less, but with a certain modesty.	mais ou menos, mas com certa modéstia.
-227	Your daughter, your son, will see you keeping Shabbat,	Sua filha, seu filho, vão ver você guardando o Shabat,
-228	eating kosher food.	comendo comida kasher.
-229	Do you know what is the most correct way to make sure	Sabe qual é o jeito mais certo de fazer com que
-230	your son continues to keep Shabbat like you?	seu filho continue a guardar o Shabat como você?
-231	That your daughter keeps modesty like you?	Que sua filha guarde a modéstia como você?
-232	If she sees that it's fun for you to do it, she'll want	Se ela vir que é divertido para você fazer isso, ela vai querer
-233	to continue after you. If she sees it's hard for you to do	continuar depois de você. Se ela vir que é difícil para você fazer
-234	it, she won't want to follow you. A little more and then we get there. It's still not	isso, não vai querer seguir você. Mais um pouquinho e chegamos lá. Ainda não está
+216	you will develop hatred, suppressed hatred toward the Creator	desenvolverás ódio, ódio reprimido contra o Criador
+217	of the world, because you cannot live in a world	do mundo, porque não poderás viver em um mundo
+218	where you are happy and good-hearted if you feel all the time	onde és feliz e bondoso se sentes o tempo todo
+219	that the Holy One, blessed be He, is peering down at you.	que o Santo, bendito seja Ele, está de olho em ti.
+220	The only way you can serve HaShem,	O único modo em que podes servir a HaShem,
+221	blessed be He, the only way you can serve the Creator	bendito seja Ele, o único modo em que podes servir o Criador
+222	of the world and in the right way is with joy. Dear Rabbi Moli,	do mundo e do modo certo é com alegria. Querido rabino Moli,
+223	I want to tell you something very simple.	quero dizer-te algo muito simples.
+224	Dear mother, listen well.	Querida mãe, ouve bem.
+225	Your daughter will see you dressing modestly,	A tua filha vai ver-te vestir com modéstia,
+226	more or less, but a certain modesty.	mais ou menos, mas uma certa modéstia.
+227	Your daughter, your son, will see you keeping Shabbat,	A tua filha, o teu filho, vai ver-te guardar o Shabat,
+228	eating kosher food.	comer comida kasher.
+229	Do you know what the most correct way is to make sure	Sabes qual é o modo mais certo de fazer com que
+230	your son continues to keep Shabbat like you?	o teu filho continue a guardar o Shabat como tu?
+231	That your daughter keeps modesty like you?	Que a tua filha guarde a modéstia como tu?
+232	If she sees that you enjoy doing it, she will want	Se ela vir que gostas de fazer isso, ela vai querer
+233	to continue after you. If she sees that it's hard for you to do	continuar depois de ti. Se ela vir que é difícil para ti fazer
+234	it, she won't want to continue after you. A little more and then we get there. It's still not	isso, não vai querer continuar depois de ti. Mais um pouco e chegamos lá. Ainda não está
 235	good.	bom.
-236	If your child sees that you serve HaShem	Se o seu filho vir que você serve a HaShem
-237	with joy, if my daughters see that it's fun for me	com alegria, se as minhas filhas virem que é divertido para mim
-238	to serve HaShem, that I enjoy my service of HaShem,	servir a HaShem, que eu gosto do meu serviço a HaShem,
-239	that it's fun for me wherever I am, as a religious person,	que é divertido para mim onde quer que eu esteja, como religioso,
-240	a "dos" from Bnei Brak, I enjoy life more than any	um "dos" de Bnei Brak, eu aproveito a vida mais do que qualquer
-241	secular person in Tel Aviv. I'll sign that for you, by a few	laico em Tel Aviv. Eu assino embaixo, por alguns
-242	percent	por cento
-243	more	a mais
+236	If your child sees that you serve HaShem	Se o teu filho vir que serves a HaShem
+237	with joy, if my girls see that I enjoy	com alegria, se as minhas filhas veem que eu gosto
+238	serving HaShem, that I enjoy my service of HaShem,	de servir a HaShem, que gosto do meu serviço a HaShem,
+239	that I enjoy where I am, as a religious person,	que gosto de onde estou, como pessoa religiosa,
+240	a "dos" from Bnei Brak, I enjoy life more than any	um "dos" de Bnei Brak, gosto da vida mais do que qualquer
+241	secular person in Tel Aviv. I guarantee you that, a hundred	secular de Tel Aviv. Garanto-te isso, cem
+242	percent.	por cento.
+243	More	Mais
 244	than the richest person in Tel Aviv, in north Tel	do que a pessoa mais rica de Tel Aviv, do norte de Tel
-245	Aviv, in Herzliya Pituach. I, in Bnei Brak, in this	Aviv, de Herzliya Pituach. Eu, em Bnei Brak, nesta
-246	simple city, enjoy life more than all of them. The secret of	cidade simples, aproveito a vida mais do que todos eles. O segredo da
-247	happiness isn't in material things, in matter. Happiness isn't	felicidade não está no material, na matéria. A felicidade não está
-248	in a car or a bed or trees or in the pool	num carro, numa cama, em árvores ou na piscina
-249	he has next to his house. No, not there is	que ele tem ao lado de casa. Não, não é ali que está
-250	happiness found. "Because you did not serve HaShem	a felicidade. "Porque não serviste a HaShem
-251	your Elokim with joy." Happiness is found in a place of satisfaction.	teu Elokim com alegria." A felicidade está num lugar de satisfação.
-252	I'm satisfied with my work. I know that what	Estou satisfeito com o meu trabalho. Sei que o que
+245	Aviv, in Herzliya Pituach. I in Bnei Brak, this simple	Aviv, de Herzliya Pituach. Eu, em Bnei Brak, esta cidade
+246	city, enjoy life more than all of them. The secret	simples, aproveito a vida mais do que todos eles. O segredo
+247	of happiness is not found in material things. Happiness is not	da felicidade não está nas coisas materiais. A felicidade não
+248	found in a car or in a bed or in trees or in the swimming	está em um carro, ou numa cama, ou em árvores, ou na piscina
+249	pool he has near his house. No, that's not where	que ele tem perto de casa. Não, não é aí que
+250	happiness is found. "Because you did not serve Adonai	está a felicidade. "Porque não serviste a Adonai
+251	your Elokim with joy." Happiness is found in satisfaction.	teu Elokim com alegria." A felicidade está na satisfação.
+252	I am satisfied with my work. I know that what	Estou satisfeito com o meu trabalho. Sei que o que
 253	Elokim gave me is the best in the world.	Elokim me deu é o melhor do mundo.
-254	The Creator tells you: Why am I not enough for you?	O Criador lhe diz: por que Eu não sou suficiente para você?
-255	Why don't you serve Me with joy?	Por que você não Me serve com alegria?
-256	My dear friends, are you enjoying life or not	Meus queridos amigos, vocês aproveitam a vida ou não
-257	enjoying life?	aproveitam a vida?
-258	Oh, it's starting to get better. Thank you, dear.	Ah, está começando a melhorar. Obrigado, querida.
-259	Do you enjoy life? Is life fun for you? Do you understand	Você aproveita a vida? A vida é divertida para você? Entende
-260	that HaShem Yitbarach is saying to you, my daughter?	que HaShem Yitbarach está dizendo a você, minha filha?
-261	If you're not happy and joyful, you won't succeed	Se você não for feliz e alegre, não terá sucesso
-262	in your life.	na sua vida.
-263	HaShem Yitbarach asks of you: "Because you did not serve	HaShem Yitbarach pede a você: "Porque não serviste
-264	Adonai your Elokim with joy." That is, I'm not asking	a Adonai teu Elokim com alegria." Ou seja, não estou pedindo
-265	of you now modesty, Shabbat, kashrut; I'm not asking	a vocês agora modéstia, Shabat, kashrut; não estou pedindo
-266	anything of you. In this class I ask one thing of you.	nada a você. Nesta aula peço a você uma coisa só.
-267	Be a happy woman,	Seja uma mulher feliz,
-268	be a happy man,	seja um homem feliz,
-269	don't be a complaining man,	não seja um homem que reclama,
-270	don't be a man who is always looking for the negative, don't	não seja um homem que está sempre procurando o negativo, não
-271	be a person who always sees the black in	seja uma pessoa que sempre vê o preto na
-272	life, don't be a person who sees black in people,	vida, não seja uma pessoa que vê preto nas pessoas,
-273	don't be a negative person, don't be a	não seja uma pessoa negativa, não seja uma
-274	sad person. That's a curse on a person's head. Know, my dear	pessoa triste. Isso é uma maldição na cabeça de uma pessoa. Saiba, meu querido
-275	brother, I know many people. There are people	irmão, eu conheço muita gente. Há pessoas
-276	who are hopeless. Do you know what hopeless means? He is	que não têm jeito. Sabe o que é não ter jeito? Ele
-277	hopeless because he never gets out of the black	não tem jeito porque nunca sai do preto
-278	he lives in. My situation is terrible. I'm black,	em que vive. Minha situação está péssima. Estou no preto,
-279	black, black, black. The Holy One, blessed be He, says,	preto, preto, preto. O Santo, bendito seja Ele, diz:
-280	amen, so may it be His will.	amém, assim seja Sua vontade.
-281	I want you to leave here today with one verse. I'm not	Quero que vocês saiam daqui hoje com um versículo. Não estou
-282	asking you for mitzvot today. I'm asking you for joy.	pedindo mitsvot hoje. Peço alegria.
-283	Joy will bring you to mitzvot.	A alegria vai levar você às mitsvot.
-284	If you enjoy coming to this class, you'll keep	Se você gosta de vir a esta aula, vai continuar
-285	coming to this class.	vindo a esta aula.
-286	We pay a lot of money to give you	Nós pagamos muito dinheiro para dar a vocês
+254	The Creator says to you, why am I not enough for you?	O Criador diz-te: por que não Eu não sou suficiente para ti?
+255	Why do you not serve Me with joy?	Por que não Me serves com alegria?
+256	My dear friends, do you enjoy life or do you not	Meus queridos amigos, vocês gostam da vida ou não
+257	enjoy life?	gostam da vida?
+258	Oh, this is starting to get better. Thank you, soul.	Ah, isto está começando a melhorar. Obrigado, alma.
+259	Do you enjoy life? Are you having fun in life? Do you understand	Gostas da vida? Divertes-te na vida? Entendes
+260	that HaShem, blessed be He, is telling you, my daughter?	que HaShem, bendito seja Ele, está dizendo-te, minha filha?
+261	If you are not happy and joyful, you will not succeed	Se não fores feliz e alegre, não terás sucesso
+262	in your life.	na tua vida.
+263	HaShem, blessed be He, asks of you: "Because you did not serve	HaShem, bendito seja Ele, pede-te: "Porque não serviste
+264	Adonai your Elokim with joy." That is, I am not asking	a Adonai teu Elokim com alegria." Ou seja, não estou pedindo
+265	of you now modesty, Shabbat, kashrut, I am not asking	de vós agora modéstia, Shabat, cashrut, não estou pedindo
+266	anything of you. I am asking one thing of you in this lesson.	nada de ti. Peço-te uma coisa nesta aula.
+267	Be a happy woman,	Sê uma mulher alegre,
+268	be a happy man,	sê um homem alegre,
+269	do not be a complaining man,	não sejas um homem que reclama,
+270	do not be a man who is always looking for the negative, do not	não sejas um homem que está sempre procurando o negativo, não
+271	be a person who always sees the black in	sejas uma pessoa que vê sempre o negro
+272	life, do not be a person who sees black in people,	na vida, não sejas uma pessoa que vê negro nas pessoas,
+273	do not be a negative person, do not be a	não sejas uma pessoa negativa, não sejas uma
+274	sad person. It is a curse on a person's head. Know, my dear brother,	pessoa triste. É uma maldição na cabeça de uma pessoa. Sabe, meu querido irmão,
+275	I know many people. There are people	conheço muitas pessoas. Há pessoas
+276	who are hopeless. Do you know what hopeless is? He is	sem remédio. Sabes o que é sem remédio? Ele é
+277	hopeless because he never gets out of the black	sem remédio porque nunca sai do negro
+278	he lives in. My situation is terrible. I am black,	em que vive. A minha situação é péssima. Estou negro,
+279	black, black, black, black. The Holy One, blessed be He, says,	negro, negro, negro, negro. O Santo, bendito seja Ele, diz,
+280	amen, so may it be His will.	amém, que assim seja a Sua vontade.
+281	I want you to leave here today with one verse. I am not	Quero que saiam daqui hoje com um versículo. Não
+282	asking mitzvot of you today. I am asking joy of you.	peço mitsvot de vós hoje. Peço alegria.
+283	Joy will bring you to mitzvot.	A alegria vos levará às mitsvot.
+284	If it's fun for you to come to this lesson, you will continue	Se é divertido para ti vir a esta aula, vais continuar
+285	to come to this lesson.	a vir a esta aula.
+286	We pay a lot of money to give you	Pagamos muito dinheiro para dar-vos
 287	the best world possible.	o melhor mundo possível.
 288	Truly. [Applause] This world,	De verdade. [Aplausos] Este mundo,
-289	dear Dvir, this world costs us between 8,000	querido Dvir, este mundo nos custa entre 8.000
-290	and 10,000 shekels. I don't know the exact price.	e 10.000 shekels. Não sei o preço exato.
-291	Whoever knows the price, tell me. But close to between	Quem sabe o preço, me diga. Mas perto de entre
-292	8 and 10,000 shekels. But we try	8 e 10.000 shekels. Mas nós procuramos
-293	to take the biggest hall we can so that	pegar o maior salão que podemos para que
-294	you'll have fun, because I know, I know	vocês se divirtam, porque eu sei, eu sei
-295	for certain, if it's fun for you, my dear brother, to come to the class,	com certeza, se é divertido para você, meu querido irmão, vir à aula,
-296	you'll come again to the class next time.	você virá de novo à aula da próxima vez.
-297	HaShem Yitbarach wants you keeping mitzvot, putting on	HaShem Yitbarach quer você cumprindo mitsvot, colocando
-298	tefillin and dancing at parties, blessed be His name forever. If you're	tefilin e dançando em festas, bendito seja o Seu nome para sempre. Se você está
-299	sad, why do you put on tefillin? For whom do you put on	triste, por que coloca tefilin? Para quem você coloca
-300	tefillin if you're sad? Thank you very much, you helped me	tefilin se está triste? Muito obrigado, você me ajudou
-301	a lot, and you too, my sweetie, thank you very much, may HaShem	muito, e você também, meu querido, muito obrigado, que HaShem
-302	protect you. It really bothers me, and you helped me	proteja você. Isso realmente me incomoda, e vocês me ajudaram
-303	a lot, it was a true kindness you did me just now.	muito, foi uma verdadeira bondade que vocês fizeram comigo agora.
+289	dear Dvir, this world costs us between 8,000	querido Dvir, este mundo custa-nos entre 8.000
+290	and 10,000 shekels. I don't know the price exactly.	e 10.000 shekels. Não sei o preço exato.
+291	Whoever knows the price, tell me. But close to between	Quem souber o preço, que me diga. Mas perto de entre
+292	8 and 10,000 shekels. We take a hall, we try	8 e 10.000 shekels. Alugamos um salão, procuramos
+293	to take the biggest hall we can so that	alugar o maior salão que pudermos para que
+294	you will have fun, because I know, I know	vós tenhais prazer, porque eu sei, eu sei
+295	for certain that if you enjoy it, my dear brother, to come to the lesson,	com certeza que se gostas, meu querido irmão, de vir à aula,
+296	you will come again next time to the lesson.	virás outra vez da próxima vez à aula.
+297	HaShem, blessed be He, wants you keeping mitzvot, laying	HaShem, bendito seja Ele, quer-te cumprindo mitsvot, pondo
+298	tefillin and dancing at celebrations, may His name be praised forever. If you are	tefilin e dançando em festas, louvado seja o Seu nome para sempre. Se estás
+299	sad, why do you lay tefillin? For whom do you lay	triste, por que pões tefilin? Para quem pões
+300	tefillin, if you are sad? Thank you very much, you helped me	tefilin, se estás triste? Muito obrigado, ajudaste-me
+301	a lot, and you too, my sweet, thank you very much. HaShem	muito, e tu também, meu querido, muito obrigado. HaShem
+302	will protect you. It really bothered me and you helped me	te guarde. Isso realmente me incomodava e vocês me ajudaram
+303	a lot, it was a true kindness you did for me just now.	muito, foi uma verdadeira bondade que fizeram comigo agora.
 304	Thank you very much. [Applause]	Muito obrigado. [Aplausos]
-305	My dear brothers, I want to leave this class	Meus queridos irmãos, quero sair desta aula
-306	with fire, fire, burning fire. I ask you: don't	com fogo, fogo, fogo ardente. Peço a vocês: não
-307	serve HaShem out of sadness.	sirvam a HaShem com tristeza.
-308	Every mitzvah you do in your life, madam, modesty,	Toda mitsvá que você fizer na vida, senhora, modéstia,
-309	you go to the store,	você vai à loja,
-310	do it out of love. Don't do it because you	faça isso por amor. Não faça porque você
-311	are afraid.	tem medo.
-312	Don't do it because you have to, and don't do	Não faça porque você é obrigada, e não faça
-313	it because Elokim will punish you or all kinds of	porque Elokim vai castigá-la ou todo tipo de
-314	things like that. Do it	coisas assim. Faça
-315	because you love Him. That's it, that's all. It's fun to dress	porque você O ama. Só isso, é tudo. É divertido vestir-se
-316	modestly, it's beautiful to dress modestly. I ask	com modéstia, é lindo vestir-se com modéstia. Peço
-317	of you, dear girls, believe what I'm telling you.	a vocês, queridas moças, acreditem no que estou dizendo.
-318	You think modesty isn't pretty, and I tell you	Você acha que modéstia não é bonita, e eu lhe digo
-319	that modesty is the most beautiful thing in the world, because in your modesty	que a modéstia é a coisa mais bonita do mundo, porque na sua modéstia
-320	you look like a king's daughter. Same thing, you,	você parece filha de um rei. A mesma coisa, você,
-321	know, my dear brother, know, my pure soul,	saiba, meu querido irmão, saiba, minha alma pura,
-322	I'm ready to swear on this, with a grave oath,	estou pronto a jurar isso, com um juramento grave,
-323	a grave oath from my soul, I tell you it's fun	um juramento grave vindo da minha alma, eu digo a você: é divertido
+305	My dear brothers. I want to leave this lesson	Meus queridos irmãos. Quero sair desta aula
+306	on fire, a burning fire. I ask you, do not	em fogo, um fogo ardente. Peço-vos, não
+307	serve HaShem out of sadness.	sirvais a HaShem com tristeza.
+308	Every mitzvah you do in your life, madam, modesty,	Cada mitsvá que fizeres na vida, senhora, modéstia,
+309	you go to a store,	vais a uma loja,
+310	do it out of love. Do not do it because you are	faz isso por amor. Não faças isso porque tens
+311	afraid.	medo.
+312	Do not do it because you must, and do not do	Não faças isso porque és obrigada, e não faças
+313	it because Elokim will punish you or all kinds of	isso porque Elokim te castigará ou todo tipo de
+314	things like that, because … you do it because	coisas assim, porque … fazes isso porque
+315	you love Him, that's it, it's all fun, to dress	O amas, só isso, é tudo diversão, vestir-se
+316	modestly, it's beautiful to dress modestly. I ask	com modéstia, é lindo vestir-se com modéstia. Peço-vos,
+317	you, dear girls, believe what I'm telling you.	queridas moças, acreditem no que estou dizendo.
+318	You think modesty is not beautiful, and I tell you	Pensas que a modéstia não é bonita, e eu digo-te
+319	that modesty is the most beautiful thing in the world, because in your modesty	que a modéstia é a coisa mais linda do mundo, porque na tua modéstia
+320	you look like a king's daughter. The same thing, you	pareces filha de um rei. A mesma coisa, tu
+321	know, my dear brother, know, my pure soul,	sabe, meu querido irmão, sabe, minha alma pura,
+322	I am ready to swear on this, with a grave oath,	estou pronto a jurar sobre isto, com um juramento grave,
+323	a grave oath from my soul, I tell you it is fun	um juramento grave da minha alma, digo-te que é divertido
 324	to be Jewish. "Because you did not serve Adonai	ser judeu. "Porque não serviste a Adonai
-325	your Elokim with joy." You got hit, Dvir, Dvir,	teu Elokim com alegria." Você apanhou, Dvir, Dvir,
-326	when you were a child. I know they forced you. I know	quando era criança. Sei que forçaram você. Sei
-327	they did that to you many times. I know they kicked you many	que fizeram isso com você muitas vezes. Sei que chutaram você muitas
-328	times. I know, that's not Judaism.	vezes. Eu sei, isso não é Judaísmo.
-329	I prove it to you from the holy Torah: "Because	Eu provo a você pela Torá sagrada: "Porque
+325	your Elokim with joy." You got beaten, Dvir, Dvir,	teu Elokim com alegria." Apanhaste, Dvir, Dvir,
+326	when you were a child, I know, they forced you, I know	quando eras criança, eu sei, obrigaram-te, eu sei
+327	they did it to you many times, I know they kicked you many	fizeram-no muitas vezes, eu sei que te chutaram muitas
+328	times, I know. That is not Judaism.	vezes, eu sei. Isso não é Judaísmo.
+329	I prove this to you from the holy Torah: "Because	Provo-te isto pela Torá santa: "Porque
 330	you did not serve Adonai your Elokim with joy and goodness of heart,	não serviste a Adonai teu Elokim com alegria e bondade de coração,
-331	from the abundance of all." Judaism is kisses. There are	na abundância de tudo." O Judaísmo é beijos. Há
-332	punishments in the Torah, I'm not lying to you. Don't	castigos na Torá, não estou mentindo a você. Não
-333	argue with me. There are punishments in the Torah. There are punishments	discuta comigo. Há castigos na Torá. Há castigos
-334	in the Torah. But the Rambam says that one who serves because of	na Torá. Mas o Rambam diz que quem serve por causa de
-335	punishments, one who fears sins because of punishments,	castigos, quem teme as transgressões por causa de castigos,
-336	behaves like the common, simple folk.	age como gente simples, do povo da terra.
+331	out of the abundance of everything." Judaism is kisses.	na abundância de tudo." O Judaísmo é beijos.
+332	There are punishments in the Torah, I am not lying to you. Don't	Há castigos na Torá, não estou mentindo para ti. Não
+333	give me a hard time. There are punishments in the Torah. There are punishments	me deem dificuldade. Há castigos na Torá. Há castigos
+334	in the Torah. But the Rambam says that whoever serves because of	na Torá. Mas o Rambam diz que quem serve por causa de
+335	punishments, whoever fears sins because of punishments,	castigos, quem teme as transgressões por causa de castigos,
+336	is acting like the conduct of ignorant people.	age como o costume de gente simples.
 337	Silly, foolish.	Bobo, tolo.
-338	A person marries a woman because he's afraid to stay	Uma pessoa se casa com uma mulher porque tem medo de ficar
-339	alone. Oh, you fool, marry a woman because you love	sozinho. Ah, seu tolo, case-se com uma mulher porque você a
-340	her. Because it's fun for you to be with her. Just like that, brother.	ama. Porque é bom para você estar com ela. É assim mesmo, irmão.
-341	A person who doesn't enjoy being with his wife, how long will he last?	Uma pessoa que não gosta de estar com a esposa, quanto tempo vai aguentar?
-342	A religious woman who wants to be religious. If it's not fun	Uma mulher religiosa que quer ser religiosa. Se não é divertido
-343	for you to be religious, how long will you last? If	para você ser religiosa, quanto tempo vai aguentar? Se
-344	it's not fun at home, not fun with your wife, what	não é divertido em casa, não é divertido com sua esposa, o que
-345	are you even doing with her? Go improve your relationship,	você está fazendo com ela afinal? Vá melhorar o seu casamento,
-346	brother. Go be a better person, go	irmão. Vá ser uma pessoa melhor, vá
-347	be a happier person. Do you know that joy	ser uma pessoa mais feliz. Vocês sabem que a alegria
-348	brings you a good marriage, good livelihood,	traz a vocês um bom casamento, bom sustento,
-349	good health, good friends, successful Torah	boa saúde, bons amigos, um estudo de Torá
-350	study; your brain works when you're happy.	bem-sucedido; o seu cérebro funciona quando você está feliz.
-351	Your brain works 10 times better than when	O seu cérebro funciona 10 vezes melhor do que quando
-352	you're sad. When you're sad your brain is, excuse	você está triste. Quando está triste, o seu cérebro está, desculpem
-353	the expression, at the IQ of a frozen chicken, no sense	a expressão, com o QI de um frango congelado, sem juízo
-354	at all. When you're happy, a great light comes out of you.	nenhum. Quando você está feliz, uma grande luz sai de você.
-355	I want your month of Elul, your Selichot,	Quero que o seu mês de Elul, as suas Selichot,
-356	to come out of love, out of love. I want you to keep Shabbat.	venham do amor, do amor. Quero que vocês guardem o Shabat.
-357	It's fun to keep Shabbat. Maybe at the beginning of the path it's a bit hard	É divertido guardar o Shabat. Talvez no começo do caminho seja um pouco difícil
+338	A person marries a woman because he is afraid to remain	Uma pessoa casa-se com uma mulher porque tem medo de ficar
+339	alone. Hey, you, marry a woman because you love	sozinha. Ei, tu, casa-te com uma mulher porque a amas,
+340	her, because you enjoy being with her. Really, brother.	porque gostas de estar com ela. Mesmo, irmão.
+341	A person who doesn't enjoy being with his wife, how long will he last?	Um homem que não gosta de estar com a esposa, quanto tempo aguentará?
+342	A religious woman who wants to be religious. If it isn't fun	Uma mulher religiosa que quer ser religiosa. Se não é divertido
+343	for you to be religious, how long will you last? If	para ti ser religiosa, quanto tempo aguentarás? Se
+344	you don't enjoy home, you don't enjoy your wife, what	não gostas de casa, não gostas da tua esposa, o que
+345	are you even doing with her? Go improve your marriage,	estás fazendo com ela afinal? Vai melhorar o teu casamento,
+346	brother. Go be a better person, go	irmão. Vai ser uma pessoa melhor, vai
+347	be a happier person. Do you know that joy	ser uma pessoa mais alegre. Sabes que a alegria
+348	brings you a good marriage, good livelihood,	te traz um bom casamento, bom sustento,
+349	good health, good friends, successful	boa saúde, bons amigos, estudo de Torá
+350	Torah study? Your brain works when you are happy.	bem-sucedido? O teu cérebro funciona quando estás alegre.
+351	Your brain works ten times better than when	O teu cérebro funciona dez vezes melhor do que quando
+352	you are sad. When you are sad, your brain is at the level,	estás triste. Quando estás triste, o teu cérebro está no nível,
+353	pardon the expression, of the IQ of a frozen chicken. There is no sense	perdoem a expressão, do QI de um frango congelado. Não há juízo
+354	at all. When you are happy, a great light comes out of you.	nenhum. Quando estás alegre, uma grande luz sai de ti.
+355	I want your month of Elul, your Selichot,	Quero que o vosso mês de Elul, as vossas Selichot,
+356	to come from love, from love. I want you to keep Shabbat.	venham do amor, do amor. Quero que guardeis o Shabat.
+357	It's fun to keep Shabbat. Maybe at the beginning of the way it's a bit hard	É divertido guardar o Shabat. Talvez no início do caminho seja um pouco difícil
 358	with the cigarettes, I know, I know, brother. I	com os cigarros, eu sei, eu sei, irmão. Eu
-359	smoked for 32 years. A rabbi came, Rabbi …	fumei por 32 anos. Veio um rabino, o Rabino …
-360	I think I once heard him say that he spoke	acho que uma vez o ouvi dizer que falou
-361	about not smoking cigarettes on Shabbat. So someone asks him:	sobre não fumar cigarros no Shabat. Então alguém lhe pergunta:
-362	Do you smoke cigarettes?	Você fuma cigarros?
-363	So he said to him, no. So he said to him, then you	Aí ele disse que não. Aí o outro disse: então você
-364	don't know how hard it is. What a pity it didn't fall on	não sabe como é difícil. Que pena que não caiu sobre
-365	me. 32 years I smoked more cigarettes than him	mim. 32 anos eu fumei mais cigarros do que ele
-366	and his father together, the whole pack, 32 years I	e o pai dele juntos, o maço inteiro, 32 anos eu
-367	smoked cigarettes, and thank HaShem I had delight on Shabbat.	fumei cigarros, e graças a HaShem eu tinha deleite no Shabat.
-368	Today, thank HaShem, I'm free and happy, I	Hoje, graças a HaShem, estou livre e feliz, eu
-369	don't smoke, but even when I smoked I knew Shabbat is	não fumo, mas mesmo quando fumava eu sabia que o Shabat é
-370	a delight. I want you to understand, my pure souls,	um deleite. Quero que vocês entendam, minhas almas puras,
-371	the Creator gave you Torah because He loves you,	o Criador lhes deu a Torá porque Ele os ama,
-372	not because He wants to punish you. Tefillin are	não porque quer castigá-los. Os tefilin são
-373	the most beautiful connection to the Creator. "Its ways	a ligação mais bonita com o Criador. "Seus caminhos
-374	are ways of pleasantness, and all its paths are peace." The greatest club	são caminhos agradáveis, e todas as suas veredas são paz." A maior balada
-375	in the world: you young guys could have gone	do mundo: vocês, rapazes jovens, poderiam ter ido
-376	to a club. I tell you, my soul, I guarantee you	a uma balada. Eu digo a você, minha alma, eu garanto
-377	with the lights and the flashing, blessed be His name forever,	com as luzes e o pisca-pisca, bendito seja o Seu nome para sempre,
-378	no club in the world comes close to the pleasure, without	nenhuma balada do mundo chega perto do prazer, sem
-379	substances. Why do they take all kinds of	substâncias. Por que nas baladas tomam todo tipo de
-380	drugs in clubs and pour money into alcohol? They try to force	drogas e gastam com bebida? Tentam forçar
-381	themselves to be happy. It doesn't work, brother. There is one place	a si mesmos a ser felizes. Não funciona, irmão. Há um lugar
-382	where you're happy: in the beit midrash.	onde você é feliz: na casa de estudo.
-383	Here in the beit midrash.	Aqui, na casa de estudo.
-384	Here you come to get energy, brother. Here you understand	Aqui você vem receber energia, irmão. Aqui você entende
-385	what you're worth.	quanto você vale.
-386	There you feel how little you're worth. Excuse	Lá você sente como não vale nada. Desculpem
-387	the expression. A single guy dances in a club, plays	a expressão. Um rapaz solteiro dança na balada, banca
-388	the cool guy, looking, and the girl looks at him—	o descolado, procurando, e a moça olha para ele—
-389	"Get out of here, you too." What do you come out of there with?	"Sai daqui, você também." Com o que você sai de lá?
-390	Blessed be His name forever. What do you come out with? Naked	Bendito seja o Seu nome para sempre. Com o que você sai? Nu
-391	and voiceless. You go home to your mother, who is waiting for you	e sem voz. Volta para a sua mãe, que está esperando por você
-392	at 4 in the morning. "Where were you until now?" That's what	às 4 da manhã. "Onde você estava até agora?" É isso
-393	is left in life. Here, brother, my sweet. You	que sobra na vida. Aqui, irmão, meu querido. Você
-394	here learn how much you're worth.	aqui aprende quanto você vale.
-395	Here you'll be a gem in the crown.	Aqui você será uma joia na coroa.
-396	Here everyone loves you, everyone supports you, everyone strengthens you. Here	Aqui todos amam você, todos apoiam você, todos fortalecem você. Aqui
-397	the Creator kisses you, brother. Do you have another place	o Criador beija você, irmão. Você tem outro lugar
-398	where the Creator would kiss you like the beit midrash? You	onde o Criador beijaria você como na casa de estudo? Você
-399	come to learn Torah; that's the greatest fun	vem estudar Torá; essa é a maior diversão
-400	in the world. I wouldn't trade it for any pleasure	do mundo. Não troco isso por nenhum prazer
+359	smoked for 32 years. A rabbi came, Rabbi …	fumei durante 32 anos. Veio um rabino, o rabino …
+360	I think I once heard him say, when he spoke	acho que uma vez o ouvi dizer, quando falou
+361	about not smoking cigarettes on Shabbat, someone asked him:	sobre não fumar cigarros no Shabat, alguém lhe perguntou:
+362	do you smoke cigarettes?	você fuma cigarros?
+363	He said to him, no. So he said to him, brother,	Ele respondeu: não. Então disse-lhe: irmão,
+364	you know how hard it is, what a pity it didn't fall	sabes como é difícil, pena que não caiu
+365	on me. 32 years I smoked more cigarettes than him	sobre mim. 32 anos fumei mais cigarros do que ele
+366	and his father together, the whole pack, 32 years I was	e o pai dele juntos, o maço inteiro, 32 anos fui
+367	a smoker, and thank HaShem I had delight on Shabbat.	fumante, e graças a HaShem tive deleite no Shabat.
+368	Today, thank HaShem, I am already free and happy, I	Hoje, graças a HaShem, já estou livre e feliz,
+369	don't smoke. But even when I smoked I knew Shabbat is	não fumo. Mas mesmo quando fumava eu sabia que o Shabat é
+370	a delight. I want you to understand, my pure souls,	um deleite. Quero que entendam, minhas almas puras,
+371	the Creator of the world gave you Torah because He loves you,	o Criador do mundo vos deu a Torá porque vos ama,
+372	not because He wants to punish you. Tefillin is	não porque quer vos castigar. Os tefilin são
+373	the most beautiful connection to the Creator. "Its ways	a ligação mais bonita com o Criador. "Os seus caminhos
+374	are ways of pleasantness, and all its paths are peace." Any club	são caminhos agradáveis, e todas as suas veredas são paz." Qualquer clube
+375	in the world. You young guys could have gone	do mundo. Vós, rapazes jovens, poderíeis ter ido
+376	to a club. I tell you, my soul, I guarantee you	a um clube. Digo-te, minha alma, garanto-te
+377	…, may His name be praised forever,	…, louvado seja o Seu nome para sempre,
+378	no club in the world comes close to the pleasure without	nenhum clube do mundo chega perto do prazer sem
+379	substances. Why do they take all kinds of drugs and	substâncias. Por que tomam nos clubes todo tipo de drogas e
+380	strong drinks in clubs? They try to act	bebidas fortes? Tentam fingir
+381	happy by force. It doesn't work, brother. There is one place	estar felizes à força. Não funciona, irmão. Há um lugar
+382	where you are happy: here in the beit midrash,	onde estás feliz: aqui na casa de estudo,
+383	here in the beit midrash.	aqui na casa de estudo.
+384	Here you come to get energy, brother. Here you understand	Aqui vens receber energia, irmão. Aqui entendes
+385	what you are worth.	quanto vales.
+386	There you feel how worthless you are. Pardon	Lá sentes como não vales nada. Perdoem
+387	the expression. A single guy dances in a club, plays	a expressão. Um rapaz solteiro dança num clube, faz
+388	the big shot, looking around, and the girl looks at him,	o importante, olhando em volta, e a moça olha para ele,
+389	I said, go away, you too. What do you leave there with?	eu disse: sai daqui, tu também. Com o que sais de lá?
+390	May His name be praised forever. What do you leave there with? Empty	Louvado seja o Seu nome para sempre. Com o que sais de lá? Vazio
+391	and voiceless. You go home to your mother, who is waiting for you	e sem voz. Voltas para casa, para a tua mãe, que te espera
+392	at four in the morning. Where were you until now? That is what	às quatro da manhã. Onde estiveste até agora? Isso é o que
+393	is left in life. Here, brother, my sweet. Here	resta na vida. Aqui, irmão, meu querido. Aqui
+394	you learn how much you are worth, Barak. Here you	aprendes quanto vales, Barak. Aqui
+395	will be … crowned. Here everyone loves you,	serás … coroado. Aqui todos te amam,
+396	everyone supports you, everyone strengthens you. Here	todos te apoiam, todos te fortalecem. Aqui
+397	the Creator kisses you, brother. Do you have another place	o Criador te beija, irmão. Tens outro lugar
+398	where the Creator kisses you like the beit midrash? You	onde o Criador te beije como a casa de estudo? Vens
+399	come to learn Torah, it is the greatest fun	estudar Torá, é a maior diversão
+400	in the world. I won't trade it for any pleasure	do mundo. Não troco isso por nenhum prazer
 401	in the world.	do mundo.
-402	Dear brothers, I tell you, I'm invited to so	Queridos irmãos, eu lhes digo, sou convidado para tantos
-403	many places on earth, to so many	lugares do planeta, para tantas
+402	Dear brothers, I tell you, I am invited to so	Queridos irmãos, digo-vos, sou convidado para tantos
+403	many places on planet Earth, to so many	lugares do planeta Terra, para tantas
 404	parties, to so many weddings, to so many	festas, para tantos casamentos, para tantos
-405	shows. I could be at a different event every night	shows. Eu poderia estar toda noite num evento diferente
-406	with beer and good music, blessed be	com cerveja e boa música, bendito seja
-407	His name forever. I don't want to. I want to be here	o Seu nome para sempre. Não quero. Quero estar aqui
-408	with you at the Torah class, to learn and to teach, to keep	com vocês na aula de Torá, estudar e ensinar, guardar
-409	and to do. That's my greatest delight in life.	e cumprir. Esse é o meu maior deleite na vida.
+405	shows. I could be at a different event every night	espetáculos. Poderia estar em um evento diferente todas as noites
+406	with beer and good music, may His	com cerveja e boa música, louvado seja o Seu
+407	name be praised forever, I don't want to. I want to be here	nome para sempre, não quero. Quero estar aqui
+408	with you at a Torah lesson, to learn and to teach, to keep	convosco numa aula de Torá, para estudar e ensinar, guardar
+409	and to do. This is my greatest delight in life.	e praticar. Este é o meu maior deleite na vida.
 410	[Applause]	[Aplausos]
-411	I want to convince you, I want to convince you,	Quero convencer vocês, quero convencer vocês,
-412	my beloved ones, that it's fun to be Jewish. And if it isn't fun for you,	meus amados, de que é divertido ser judeu. E se não é divertido para você,
-413	my daughter, you still don't know Abba. Abba is	minha filha, você ainda não conhece o Pai. O Pai é
-414	your good Father, the best in the world, He loves	o seu Pai bom, o melhor do mundo, Ele ama
-415	you with a love of the soul. You may have prejudices	você com amor de alma. Pode ser que você tenha preconceitos
-416	about Him, you thought bad things about Him.	sobre Ele, que tenha pensado coisas ruins sobre Ele.
-417	Stop today. Today stop thinking bad	Pare hoje. Hoje pare de ter maus
-418	thoughts about Him. Stop thinking that He's out to get	pensamentos sobre Ele. Pare de pensar que Ele está atrás de
-419	you. Stop thinking that He wants to harm you.	você. Pare de pensar que Ele quer lhe fazer mal.
-420	Stop thinking that every time He said no to you it was	Pare de pensar que toda vez que Ele lhe disse não foi
-421	because He wants to hit you. He said no to you	porque quer bater em você. Ele lhe disse não
-422	because He loves you. A day will come and you'll say, "I will thank You,	porque ama você. Chegará o dia em que você dirá: "Eu Te agradeço,
-423	Adonai, for You were angry with me." A day will come, madam, and you'll	Adonai, pois Te irritaste comigo." Chegará o dia, senhora, e você
-424	say thank you very much for all the no's You told me.	dirá muito obrigada por todos os nãos que Tu me disseste.
+411	I want to convince you, I want to convince you,	Quero convencer-vos, quero convencer-vos,
+412	my beloved, that it's fun to be Jewish, and if it's not fun for you,	meus amados, de que é divertido ser judeu, e se não é divertido para ti,
+413	my daughter, you still don't know the Father. The Father is	minha filha, ainda não conheces o Pai. O Pai é
+414	your good Father, the best in the world, He loves	o teu bom Pai, o melhor do mundo, Ele
+415	you with a soul-deep love. You may have	ama-te com um amor profundo da alma. Pode ser que tenhas
+416	prejudices about Him, that you thought bad things about Him.	preconceitos sobre Ele, que tenhas pensado coisas más sobre Ele.
+417	Stop today. Today stop thinking	Pára hoje. Hoje pára de pensar
+418	bad thoughts about Him. Stop thinking that He is looking for	pensamentos maus sobre Ele. Pára de pensar que Ele anda atrás
+419	you. Stop thinking that He wants to harm you.	de ti. Pára de pensar que Ele quer o teu mal.
+420	Stop thinking that every time He told you no, it's	Pára de pensar que cada vez que Ele te disse não foi
+421	because He wants to hit you. He told you no	porque quer bater-te. Disse-te não
+422	because He loves you. A day will come and you will say: "I thank You, Adonai, for You answered me."	porque te ama. Um dia virá e dirás: "Dou-Te graças, Adonai, porque me respondeste."
+423	A day will come, madam, and you	Um dia virá, senhora, e dirás
+424	will say thank you very much for every no You told me.	muito obrigada por cada não que Me disseste.
 425	Where is it more fun to live? Where is it more fun	Onde é mais divertido viver? Onde é mais divertido
-426	to live? Where, who will give you self-confidence,	viver? Onde, quem lhe dará autoconfiança,
-427	brother, if not the Creator? Dear Ido, self-	irmão, se não o Criador? Querido Ido, autoconfiança
+426	to live? Who will give you self-confidence,	viver? Quem te dará autoconfiança,
+427	brother, if not the Creator? Dear Ido, self-	irmão, se não o Criador? Querido Ido, a autoconfiança
 428	confidence that stems from faith in the Creator is the	que nasce da fé no Criador é a
-429	most correct self-confidence in the world. The rest is	autoconfiança mais certa do mundo. O resto é
-430	nonsense, all noise and clanging, everyone	bobagem, tudo barulho e tilintar, todos
-431	just putting others down. You can get	só ficam derrubando os outros. Você pode obter
-432	direct self-confidence from the Creator,	autoconfiança direta do Criador,
-433	directly from the Creator, because you know the Creator	diretamente do Criador, porque você sabe que o Criador
-434	is One, Unique and Special, who can give you the strength	é Único, Singular e Especial, que pode lhe dar a força
-435	and the powers to succeed in your life, brother, and you	e o poder para ter sucesso na sua vida, irmão, e você
-436	will succeed, guaranteed,	terá sucesso, garantido,
-437	100% success. 100% success. You don't have this promise	100% de sucesso. 100% de sucesso. Você não tem essa promessa
+429	truest self-confidence in the world. The rest is nonsense,	autoconfiança mais verdadeira do mundo. O resto é bobagem,
+430	all noise and clanging, all noise and clanging, everyone	tudo barulho e tinidos, tudo barulho e tinidos, todos
+431	just plays Darwin with others. You can	só ficam jogando Darwin com os outros. Podes
+432	get direct self-confidence from the Creator,	obter autoconfiança direta do Criador,
+433	directly from the Creator, because you know that the Creator	diretamente do Criador, porque sabes que o Criador
+434	is One, unique and special, who can give you the strength	é Um, único e especial, que pode dar-te a força
+435	and the power to succeed in your life, brother, and you	e o poder de ter sucesso na tua vida, irmão, e tu
+436	will succeed, guaranteed.	terás sucesso, garantido.
+437	100% success. 100% success. You don't have this promise	100% de sucesso. 100% de sucesso. Não tens esta promessa
 438	anywhere else in the world. And Elokim demands	em nenhum outro lugar do mundo. E Elokim exige
-439	of you: recognize the good you have. "Because you did not serve	de você: reconheça o bem que você tem. "Porque não serviste
+439	of you: recognize the good you have. "Because you did not serve	de ti: reconhece o bem que tens. "Porque não serviste
 440	Adonai your Elokim with joy."	a Adonai teu Elokim com alegria."
-441	Do you know what that means?	Sabem o que isso quer dizer?
-442	Do you know what that means? You served HaShem with	Sabem o que isso quer dizer? Você serviu a HaShem com
-443	a sour face. The Holy One, blessed be He, tells you:	cara azeda. O Santo, bendito seja Ele, diz a você:
-444	here, 98 curses.	aqui, 98 maldições.
-445	98 curses on a person who serves HaShem with	98 maldições sobre uma pessoa que serve a HaShem com
+441	Do you know what this means?	Sabem o que isso quer dizer?
+442	Do you know what this means? You served HaShem with a	Sabem o que isso quer dizer? Serviste a HaShem com uma
+443	Tisha B'Av face. The Holy One, blessed be He, tells you:	cara de Tisha BeAv. O Santo, bendito seja Ele, diz-te:
+444	take 98 curses.	toma 98 maldições.
+445	98 curses on a person who serves HaShem with	98 maldições para uma pessoa que serve a HaShem com
 446	a sour face.	cara azeda.
-447	Rabbi, but it's hard for me. Listen well: difficulty is	Rabino, mas é difícil para mim. Escutem bem: dificuldade está
-448	in the eye of the beholder.	nos olhos de quem observa.
-449	Difficulty is in the eye of the beholder. Dvir worked very hard today	Dificuldade está nos olhos de quem observa. O Dvir trabalhou muito hoje
+447	Rabbi, but it's hard for me. Listen well: difficulty is	Rabino, mas é difícil para mim. Ouçam bem: a dificuldade está
+448	in the eye of the beholder.	nos olhos de quem vê.
+449	Difficulty is in the eye of the beholder. Dvir worked very hard today	A dificuldade está nos olhos de quem vê. Dvir trabalhou muito hoje
