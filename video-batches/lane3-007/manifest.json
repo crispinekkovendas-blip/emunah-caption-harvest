@@ -1,0 +1,259 @@
+{
+ "name": "lane3-007",
+ "lane": 3,
+ "created": "2026-10-13T17:51:50.379Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "7IAj7XtU-BU",
+   "title": "Parashá Noach, segundo dia: a arca, Mishná e Zohar",
+   "lines": 840,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "PI1ot3SZL0c",
+   "title": "Ismael, as guerras do fim e a força da Torá",
+   "lines": 770,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "LpBdLOddE3g",
+   "title": "Vayera: Avraham, Ishmael, brit milá e o nome Shadai",
+   "lines": 1226,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "gd4P8F3fow0",
+   "title": "Kashêr de utensílios e nat bar nat para Pessach",
+   "lines": 2779,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "abFqEuLYJfQ",
+   "title": "Autoestima antes da Torá: a mensagem de Bamidbar",
+   "lines": 1479,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "F3R0W8i9GeY",
+   "title": "Parashá Emor: as três santidades, espaço, tempo e alma",
+   "lines": 1681,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "w9dMhneZXuc",
+   "title": "Parashá Ekev: alegria no calcanhar, mitsvot leves e a bênção do vinho",
+   "lines": 1064,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "GYkqaO1m4XM",
+   "title": "Por que a mulher foi criada de dentro do homem",
+   "lines": 656,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "99bGd09s8PM",
+   "title": "O prego do inverno: manter o despertar das Altas Festas",
+   "lines": 1656,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "e_ro2hrvok4",
+   "title": "Alegria, Rabi Akiva e a recordação de 7 de outubro",
+   "lines": 1047,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "G8nGbFFdNJc",
+   "title": "A grandeza do homem e o caminho da teshuvá",
+   "lines": 1457,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "iaQG7zRhMGc",
+   "title": "Ben Ish Chai: cortinas, tendas e guarda-chuva no Shabat",
+   "lines": 863,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wxvqEV8wzus",
+   "title": "Parashat Re'eh e Elul: todo homem pode mudar",
+   "lines": 1304,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "zG0W1zr-9u0",
+   "title": "A guerra de todo o povo: justiça, unidade e Torá",
+   "lines": 1007,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "BTrm1i8WrtI",
+   "title": "De Bereshit a Noach: criar para fazer o bem",
+   "lines": 782,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vvvuETlA8nQ",
+   "title": "HaChodesh hazeh lachem\": o tempo novo de Israel",
+   "lines": 1420,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "T29WNCBs5e8",
+   "title": "Parashá Shelach: a gezerá de galut e a tentativa de forçá-la",
+   "lines": 1345,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "P0p3A1avADY",
+   "title": "Ben Ish Chai: Rosh Chodesh, velas e Yaale VeYavo",
+   "lines": 591,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "AB_K5jfSBys",
+   "title": "Por que a morte de Miriam foi ligada à Vaca Vermelha",
+   "lines": 902,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4BXF-rgMds0",
+   "title": "Parashá Matot: o poder da palavra e do voto",
+   "lines": 937,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "BR2294l4x08",
+   "title": "Parashá Bamidbar e Shavuot: o valor de uma palavra de Torá",
+   "lines": 1280,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "84RpbRT6xsM",
+   "title": "Inveja (Kin'á): Yitzchak e os filisteus na Parashá Toledot",
+   "lines": 1135,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xmI9x_8KIZQ",
+   "title": "Parashat Mishpatim: descer do Sinai para a vida real",
+   "lines": 453,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "uhZZR7x4OsQ",
+   "title": "Os Levitas no lugar dos primogênitos (Parashá Bamidbar)",
+   "lines": 364,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ux3kh4sd7cY",
+   "title": "Nes e natureza: um só Poder, de Purim a Vayikra",
+   "lines": 612,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "7IAj7XtU-BU.p0",
+  "7IAj7XtU-BU.p1",
+  "PI1ot3SZL0c.p0",
+  "PI1ot3SZL0c.p1",
+  "LpBdLOddE3g.p0",
+  "LpBdLOddE3g.p1",
+  "LpBdLOddE3g.p2",
+  "gd4P8F3fow0.p0",
+  "gd4P8F3fow0.p1",
+  "gd4P8F3fow0.p2",
+  "gd4P8F3fow0.p3",
+  "gd4P8F3fow0.p4",
+  "gd4P8F3fow0.p5",
+  "gd4P8F3fow0.p6",
+  "abFqEuLYJfQ.p0",
+  "abFqEuLYJfQ.p1",
+  "abFqEuLYJfQ.p2",
+  "abFqEuLYJfQ.p3",
+  "F3R0W8i9GeY.p0",
+  "F3R0W8i9GeY.p1",
+  "F3R0W8i9GeY.p2",
+  "F3R0W8i9GeY.p3",
+  "w9dMhneZXuc.p0",
+  "w9dMhneZXuc.p1",
+  "w9dMhneZXuc.p2",
+  "GYkqaO1m4XM.p0",
+  "GYkqaO1m4XM.p1",
+  "99bGd09s8PM.p0",
+  "99bGd09s8PM.p1",
+  "99bGd09s8PM.p2",
+  "99bGd09s8PM.p3",
+  "e_ro2hrvok4.p0",
+  "e_ro2hrvok4.p1",
+  "e_ro2hrvok4.p2",
+  "G8nGbFFdNJc.p0",
+  "G8nGbFFdNJc.p1",
+  "G8nGbFFdNJc.p2",
+  "G8nGbFFdNJc.p3",
+  "iaQG7zRhMGc.p0",
+  "iaQG7zRhMGc.p1",
+  "wxvqEV8wzus.p0",
+  "wxvqEV8wzus.p1",
+  "wxvqEV8wzus.p2",
+  "zG0W1zr-9u0.p0",
+  "zG0W1zr-9u0.p1",
+  "zG0W1zr-9u0.p2",
+  "BTrm1i8WrtI.p0",
+  "BTrm1i8WrtI.p1",
+  "vvvuETlA8nQ.p0",
+  "vvvuETlA8nQ.p1",
+  "vvvuETlA8nQ.p2",
+  "vvvuETlA8nQ.p3",
+  "T29WNCBs5e8.p0",
+  "T29WNCBs5e8.p1",
+  "T29WNCBs5e8.p2",
+  "P0p3A1avADY.p0",
+  "P0p3A1avADY.p1",
+  "AB_K5jfSBys.p0",
+  "AB_K5jfSBys.p1",
+  "AB_K5jfSBys.p2",
+  "4BXF-rgMds0.p0",
+  "4BXF-rgMds0.p1",
+  "4BXF-rgMds0.p2",
+  "BR2294l4x08.p0",
+  "BR2294l4x08.p1",
+  "BR2294l4x08.p2",
+  "84RpbRT6xsM.p0",
+  "84RpbRT6xsM.p1",
+  "84RpbRT6xsM.p2",
+  "xmI9x_8KIZQ.p0",
+  "xmI9x_8KIZQ.p1",
+  "uhZZR7x4OsQ.p0",
+  "ux3kh4sd7cY.p0",
+  "ux3kh4sd7cY.p1"
+ ]
+}
