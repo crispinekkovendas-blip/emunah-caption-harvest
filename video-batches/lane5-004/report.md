@@ -1,7 +1,7 @@
 # lane5-004
 
-19 of 25 lessons published · 5 skipped · status **pending**
-Tokens (157 agent runs with a record): 2.4M in (mostly cache) · 4.33M out · API-equivalent 51.75
+19 of 25 lessons published · 6 skipped · status **done**
+Tokens (159 agent runs with a record): 2.4M in (mostly cache) · 4.35M out · API-equivalent 52.03
 
 | lesson | state | detail |
 |---|---|---|
@@ -26,7 +26,7 @@ Tokens (157 agent runs with a record): 2.4M in (mostly cache) · 4.33M out · AP
 | 8A08zXWG61A | ✓ published | 1161 lines · Parashá Yitro: minha missão no mundo, aqui e agora |
 | TCK6fKICNag | ✓ published | 651 lines · Shemitá e Eretz Israel: Behar-Bechukotai |
 | shzmAlUwDOM | ✓ published | 929 lines · Pessach Sheni e o poder do grito que quebra as regras |
-| kP-x-XcxYZw | waiting | 2/3 parts |
+| kP-x-XcxYZw | skipped after 3 tries | 361 lines missing |
 | Jw6v3fT3AEM | skipped | |
 | n5CKD6tFqt0 | skipped | |
 | KFtyKJ4hPXM | ✓ published | 806 lines · Os segredos da palavra Bereshit e as fendas do altar |
