@@ -1,0 +1,89 @@
+videoId: rdFVlIOf5qU
+parte 2 de 2 · traduzir as linhas 450 a 514 (65 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Shabat Noach: a Shabat geral do "na prática
+RESUMO: O rabino Chaim Yosef Ginzburg, com base numa sicha do Rebe, explica que Shabat Bereshit dá a força para todo o ano e que Shabat Noach é igualmente uma Shabat geral, mas "na prática": a semana depois de Bereshit são os primeiros seis dias de ação do ano, sem festas, e a Shabat seguinte é o momento de avaliar o que foi realizado das forças recebidas em Tishrei. Em seguida ele mostra o ponto comum entre as parashiot Bereshit e Noach, a criação e a continuidade do mundo, citando Bereshit 1:1, Bereshit 6:12 com Rashi, o Dilúvio e a promessa de HaShem a Noach (Bereshit 8:21-22 e 9:12-16), com Rashi sobre a repetição "não voltarei" como juramento. Em Bereshit o mundo é criado perfeito (Bereshit 2:1), mas pode decair até perder o direito de existir (Bereshit 6:6); em Noach descobre-se uma força própria do mundo: a teshuvá que surge do ponto mais baixo. Noach sai da arca, oferece um sacrifício, e HaShem jura não trazer novo dilúvio e cria o arco-íris como lembrança. Isso é a "morada nos mundos inferiores": o mundo purificado pelo trabalho do homem, como o Dilúvio de 40 dias comparado à imersão na mikvê, revela a grandeza de HaShem.
+MOMENTOS: 00:37 Shabat Noach também é uma Shabat geral para o ano · 01:55 Os seis dias de ação do ano começam esta semana · 03:06 Avaliar na prática as forças recebidas em Tishrei · 04:40 Bereshit é geral "em potencial", Noach "na prática" · 06:42 O ponto comum entre as parashiot Bereshit e Noach · 08:35 Noach: a promessa e o juramento de HaShem · 10:35 Estações do ano e o arco-íris como sinal da aliança · 14:08 Bereshit: o mundo perfeito, como um aparelho lacrado · 16:14 O arrependimento de HaShem e o Dilúvio · 17:18 A novidade de Noach: a força própria do mundo e a teshuvá · 21:15 Noach sai da arca e oferece o sacrifício · 26:23 Os 40 dias do Dilúvio como a mikvê e a morada nos mundos inferiores
+FONTES CITADAS: 00:44 Dito dos Rebes anteriores sobre Shabat Bereshit · 02:40 Bereshit 1:1 · 07:51 Bereshit 6:11-13 · 08:03 Rashi em Bereshit 6:12 · 08:45 Bereshit 2:4 · 09:21 Bereshit 8:21 · 09:24 Rashi em Bereshit 8:21 · 10:10 Bereshit 7:23 · 10:13 Bereshit 8:13-14 · 10:38 Bereshit 8:22 · 11:09 Bereshit 7:11 · 11:23 Rashi em Bereshit 6:17 · 11:33 Bereshit 9:12-13 · 11:44 Bereshit 9:13 · 12:31 Zohar sobre o arco-íris · 12:44 Hayom Yom (costume de Chabad) · 14:25 Dito dos Sábios sobre a criação · 14:31 Bereshit 2:1 · 16:18 Bereshit 6:5-6 · 16:28 Rashi em Bereshit 6:6 · 16:36 Bereshit 6:7 · 18:00 Bereshit 7:13 · 21:11 Bereshit 6:9 · 21:31 Bereshit 8:20 · 21:36 Bereshit 8:21 · 22:35 Bereshit 9:14 · 22:41 Bereshit 9:14-15 · 23:06 Bereshit 9:16 · 23:35 Interpretação do nome Noach como "nachat ruach · 23:43 Midrash Tanchuma, Nasso 16 (morada nos mundos inferiores) · 25:53 Bereshit 6:11 · 26:26 Chassidut sobre o Dilúvio e a mikvê
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+438|24:23|ומה שנקרא מתמודד ועד למצב כאלה שיש את
+439|24:26|הירידה הכי גדולה ולמרות הירידה הכי גדולה
+440|24:29|פתאום מתגלה בעולם לאזשהו כוח בלתי רגיל
+441|24:32|של תשובה אז כאן באמת מתגלה עד כמה הקדוש
+442|24:36|ברוך הוא יכול לבוא לידי ביטוי גם במצבים
+443|24:40|הכי ירודים ונמוכים זה העניין של דירה
+444|24:43|בתחתונים שדווקא התחתונים עצמם בהנהגה הכי
+445|24:46|תחתונה של המציאות
+446|24:47|דווקא אם משקפת את גודל ההתגלות והנצחיות
+447|24:52|של הקדוש ברוך הוא שיכול להתגלות גם פה
+448|24:55|למטה
+449|24:56|אז לכן ה הסיפור של הבריאה באמת שייך
+
+LINHAS A TRADUZIR:
+450|25:00|בעיקר לפרשת בראשית אבל הסיפור של כוונת
+451|25:04|הבריאה תכלית השלמות של הבריאה שזה דירה
+452|25:07|בתחתונים הוא דווקא סיפור של פרשת נוח
+453|25:11|ואת העניין הזה הרבי אומר בסגנון אחר
+454|25:14|ובסגנון אחר בפרשת בראשית מודגש בעיקר
+455|25:18|מעמד ומצב העולם כפי שהוא מצד הכוונה
+456|25:20|העליונה, כפי שהוא בכוח.
+457|25:23|בפרשת נוח מודגש בעיקר מעמד ומצב העולם
+458|25:27|כפי שהוא מצד עבודת האדם, כפי שהוא בפועל.
+459|25:31|כמו שעשינו קודם את ההבחנה ששבת בראשית
+460|25:33|נותנת כוח על כל השנה ושבת בנוח נותנת לנו
+461|25:37|אפשרות לבחון את הפועל כדי להשפיע על
+462|25:40|הפועל של כל השנה.
+463|25:42|ומה זה בפועל של פרשת נוח? שגם בעולם
+464|25:45|תחתון שאין תחתון למטה ממנו ועד לתכלית
+465|25:49|הירידה שכמו שמתואר בפרשה שלנו מציאות
+466|25:53|העולם שמלאה הארץ חמס שזה ביטוי הכי קשה
+467|25:58|שיכול להיות ועם זאת נעשה מעמד ומצב של
+468|26:02|בירור וזיכוך ועד לטהרה עולם חדש רעה
+469|26:07|שם המצב הכי ירוד של מלא הארץ חמס נהיה
+470|26:10|עולם חדש רעה
+471|26:12|שזה בעצם עולם עולם מבורר ומזוכך שמי בירר
+472|26:16|וזיכרח אותו לא הקדוש ברוך הוא נח בעבודתו
+473|26:20|על ידי עבודתו של נח
+474|26:23|העולם הזה יתברר והזדכך עד כדי כך
+475|26:26|שבחסידות מוסבר שה-40 יום של המבול זה כמו
+476|26:30|40 שעה של המקווה
+477|26:33|וכשהעולם מעבר את המבול הוא נהיה טהור
+478|26:37|כמו המקווה כמו הטהרה של המקווה ואז נוח
+479|26:40|יוצא מתוך המבול הוא כאילו יוצא מהמקווה
+480|26:43|ומתחיל לעשות את העבודה שלו על במצב של
+481|26:47|טהרה ו
+482|26:49|ובירור וזיכוך. הכל מבואע ומזוכך. וזה שיש
+483|26:53|לו את המוטיבציה ואת ה ואת החיבור לעשות
+484|26:56|תשובה ולעשות נחת רוח לקדוש ברוך הוא זה
+485|26:59|תכלית הכוונה של דירה בתחתונים. שהקדוש
+486|27:03|ברוך הוא בעצם רוצה שהאדם עצמו יכיר את
+487|27:07|הקשר שלו איתו וירצה לשוב עליו בתשובה
+488|27:12|ולא יוותר על ה על החיבור עם הקדוש ברוך
+489|27:14|הוא על הקשר גם במצבים הכי ירודים ונמוכים
+490|27:18|שמה זה גם הכי חזק
+491|27:19|>> ממיל שמה מתגלה הקדוש ברוך הוא
+492|27:22|>> כן
+493|27:24|זה התמצית של הדברים כמו שה מתבטת בתוכן
+494|27:27|הפרשה
+495|27:29|באות הבא רבי יסביר את העניין הזה עצמו
+496|27:31|כמו בעומק יותר זה נראה מחר בעזרת השם
+497|27:38|>> ש חודש טוב ומבורך
+498|27:41|חודש של התגלות מלך המשיח היום ממש בעזרת
+499|27:44|השם
+500|27:46|>> וזה הוא מראה לו קודם כל אתשכזה
+501|27:50|זה כמו כאילו זה המצב עכשיו תשיג את זה בעצמך
+502|27:53|>> זה כמו שבן אדם חוזר בתשובה אז הוא מגמים לאורות קודם מתחילה
+503|27:57|>> ואז כזה
+504|27:58|>> אחר כך מתחילה ממש ככה כןו תהליך אז
+505|28:01|התפקיד שלנו זה להגיע למצב של גן עדן פחות
+506|28:04|עצמנו >> נכון כמו שהשם ברא את אדם הראשון לעובדה
+507|28:07|ולשום רעה
+508|28:10|ומה מה מה זה בגן עדן מקדם ששם היה ברור
+509|28:13|מציאות השם שמה היה התגלות האלוקות לא היה
+510|28:16|פקפוק וספק על מציאות השם הכל אמרו
+511|28:19|>> כן אפילו בזמן החטא אז כתוב שאדם ואשתו
+512|28:23|התבוששו כן התחבו למה הם התחבו לשם ידעו ש
+513|28:27|ידעו שמי שפה בא לבית זה הקדוש ברוך הוא
+514|28:30|>> אז אז המקום הזה צריך להגיע גם גם בסיפור של פרשת נוח

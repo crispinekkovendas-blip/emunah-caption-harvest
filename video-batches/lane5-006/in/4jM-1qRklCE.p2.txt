@@ -1,0 +1,62 @@
+videoId: 4jM-1qRklCE
+parte 3 de 3 · traduzir as linhas 900 a 937 (38 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Dar honra ao pobre: Leket, Shichecha e Pe'á
+RESUMO: O rabino Chagai Lundin, na Parashá Kedoshim, trata da mitzvá de Leket, Shichecha e Pe'á (Vayikrá 19:9-10), explicando tecnicamente cada parte: o canto do campo, as espigas caídas, o feixe esquecido e os cachos e bagas da vinha. Ele cita o Rambam, que chama essas mitzvot de base de todo o ensino de tzedaká e chessed, e pergunta por que a Torá manda o pobre colher e não simplesmente receber pão. Contrasta a visão capitalista (Locke, o pobre como perdedor) e a socialista (Marx e Engels, igualdade forçada) com a visão judaica: HaShem criou a pobreza, tzedaká vem de tzedek, e o pobre tem um papel no mundo. Lê o Rav Kook sobre a Mishná de Pe'á, "Al tasseg gvul olam", e sobre a Guemará de Shabat (guímel-dálet, "gmol dalim"), além do pasuk "Lo'eg larash cheref osehu". Usa a história de Rabi Elazar ben Rabi Shimon com o homem feio, o caso de Rut e Boaz, o poema de Ibn Ezra e a Carta do Ramban. Conclui que dar tzedaká é dar honra, de igual para igual, sem envergonhar, pois todos são membros de um só corpo.
+MOMENTOS: 00:30 A parashá e a mitzvá escolhida: Leket, Shichecha e Pe'á · 01:52 Leitura de Vayikrá 19:9-10 · 03:01 Explicação técnica: Pe'á, Leket e Shichecha · 04:58 A vinha: olelot e peret · 06:30 O Rambam: base de todo o ensino de tzedaká · 07:37 Duas formas de olhar o pobre · 10:45 Tzedaká vem de tzedek; HaShem criou a pobreza · 12:19 O pobre trabalha junto com todos na colheita · 14:57 A Meguilat Rut e Boaz · 17:25 Capitalismo e socialismo versus a visão judaica · 24:27 Rav Kook: a Mishná de Pe'á e "Al tasseg gvul olam" · 25:48 Rabi Elazar e o homem feio · 29:23 Lo'eg larash cheref osehu e a pobreza com propósito · 36:36 Torá se adquire com esforço; poema de Ibn Ezra · 42:48 Guemará de Shabat: guímel-dálet, "gmol dalim" · 48:19 Carta do Ramban e o corpo orgânico · 50:41 O doador deve preservar a honra de quem recebe
+FONTES CITADAS: 01:52 Vayikrá 19:9-10 · 02:03 Vayikrá 19:10 · 06:30 Rambam, Hilchot Matnot Aniyim · 11:50 Devarim 15:11 · 12:56 Mishná, Menachot (omer) · 14:13 Nehama dekissufa (Talmud Yerushalmi, Orlá 1:3) · 14:45 Tehilim 128:2 · 15:01 Meguilat Rut · 24:27 Mishná, Pe'á · 24:41 Mishlei 22:28 · 24:27 Rav Kook, Ein Aya (Pe'á) · 25:48 Taanit 20a-b · 22:13 Devarim 15:11 · 29:30 Mishlei 17:5 · 29:56 Rav Kook, Ein Aya · 30:30 Maharal, Netivot Olam, Netiv HaTzedaka · 36:49 Zohar, matnitin: machtzedei chakla · 36:52 Nedarim 81a · 37:35 Tehilim 1:2 · 37:39 Kidushin 32b · 38:16 Poema de Rabi Avraham Ibn Ezra · 42:48 Shabat 104a · 42:53 Rav Kook, Ein Aya (Shabat) · 50:03 Shabat 104a · 48:23 Ramban, Igueret HaRamban · 51:54 Berachot 17a
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+888|49:59|אה נוסיף רק סוף הגמרא שם אומרת ומה איתם
+889|50:03|המעדר הפי דד מג כן למה ד' הוא כביכול
+890|50:07|מסוות פניו אלג כן הקו האנכי של האוד ד
+891|50:12|היא כביכול מפנה את הגב לג' דיתן לה בצנאה
+892|50:17|כי איך היא דלא ליסוף מי כן שמי שנותן א
+893|50:20|צדקה צריך לתת את זה בצינ כאילו שלא
+894|50:24|יתבייש ממנו אחרי כל העילויים שמידת הצדקה
+895|50:27|תוכל לעלות בין מצד הנותן בין מצד המקבל
+896|50:31|בכל זה חוק עולם הוא שכל מקבל מוכרח להיות
+897|50:33|סובל באיזה מידת בושה ואמיתת החסד נכון כי
+898|50:37|כמה שאנחנו מדברים על זה עדיין אדם מרגיש
+899|50:39|בושה שהוא צריך לקבל מישהו אחר
+
+LINHAS A TRADUZIR:
+900|50:41|חובתו של הנותן היא לשמור את יסוד הכבוד
+901|50:45|של המקבל. דיברנו על השיעור, כ קראנו לו,
+902|50:48|נכון? לתת כבוד לעני, לתת כבוד לחסרונות
+903|50:52|בעולם, לא לבייש אותו. בסדר? לתת את
+904|50:56|הדברים בצורה מכובדת, כמו שאמרנו, לתת לא
+905|51:00|להסתכל בפנים, הכוונה היא לא כזה לעשות לו
+906|51:02|מסכן. אם אתה מסתכל בפנים בצורה מכבדת, אז
+907|51:05|זה עדיף. כן? בבקשה. כל הכבוד לך על מה
+908|51:09|שעשית. כל הכבוד לך למאמצים. תודה רבה.
+909|51:12|מבינים זה ככה בוס נפרד מהעובדים שלו.
+910|51:17|טוב. יאללה תודה רבה לכם על מה שעשיתם.
+911|51:21|אתם תרמתם פה לחברה לא לא פחות ממה שאני
+912|51:25|תרמתי. אן כל אחד נתן את שלו פה. אין זה
+913|51:30|השוויון האמיתי. לא השוויון המטשטהש שכולם
+914|51:33|אותו דבר. נכון אני בוס. יש לי תפקיד יותר
+915|51:36|עם נוכחות במציאות מאשר התפקיד שלך. הלב
+916|51:40|יש לו יותר תפקיד מהאצבע, אבל זה לא תחרות
+917|51:43|פה. כולנו יחד ממלאים את מה שהקדוש ברוך
+918|51:47|הוא נתן בעולם. לכל אחד יש את הכבוד שלו
+919|51:49|בעולם
+920|51:51|ובשמיים יש את השוויון. אתם מבינים? ככה
+921|51:54|אומרים חז"ל אמני מלאכתי בעיר, חברתי
+922|51:56|מלאכתי בשדה שכאילו אני עשיר, חבריני
+923|51:59|בעיר, חברי בשדה מסכן שמה תאמר אחד המרבה
+924|52:03|ואחד הממית ובלבד שיכוון ליבו לשמיים.
+925|52:06|בשמיים מבחינת כל אחד ממלא תפקידו בעולם
+926|52:10|ולאחד הקדוש ברוך הוא נתן תפקיד בעולם
+927|52:11|להיות רמתכל ולשני נתן להיות תפקיד להיות
+928|52:13|טורהי ולאחד נתן תפקיד שיש לו פרופיל לא
+929|52:16|קרבי או עם פרופיל נפשי שהוא לא יכול
+930|52:18|להתגייס זה הקדוש כל אחד מלא את תפקידו אף
+931|52:21|אחד לא מתנסא על השני אף אחד לא מזלזל
+932|52:23|בשני כל אחד שהוא עושה כמית יכולתו כן
+933|52:26|עושה את מה שהוא יכול ומהכל יחד מיני
+934|52:29|ומיני התקלה סילה זה מצוות לקד שכפה בסדר
+935|52:34|נו חשבתם שבמצווה כזו קטנה
+936|52:36|יוצי כל כך הרבה. אז הנה ברוך השם שיהיה
+937|52:40|לכולנו שבת שלום.

@@ -1,0 +1,251 @@
+{
+ "name": "lane5-006",
+ "lane": 5,
+ "created": "2026-10-13T14:27:17.307Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "JPNhJNPdOZs",
+   "title": "As seis parashiot com Alef e a conquista da Torá",
+   "lines": 1121,
+   "parts": 3,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "rdFVlIOf5qU",
+   "title": "Shabat Noach: a Shabat geral do \"na prática",
+   "lines": 515,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "_1HJterQM04",
+   "title": "Ayeka: o modelo Evento, Há em mim, Título, Decisão",
+   "lines": 1190,
+   "parts": 3,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "ICtOGe5KAn8",
+   "title": "Parashá Re'e e a venda da terra na Shemitá",
+   "lines": 1413,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Q7Jte41zGpA",
+   "title": "Bereshit: o propósito da criação e os anjos",
+   "lines": 1572,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ds7qvXypaoY",
+   "title": "Bereshit: por que a Torá começa com Bet e a Criação",
+   "lines": 1045,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ro7HvwWs88w",
+   "title": "Parashá Ekev: o perigo do ego na Terra de Israel",
+   "lines": 1189,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "UGKEIdRqbzQ",
+   "title": "O ser humano é bom, apenas sequestrado pelo yetzer hará",
+   "lines": 1193,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PerMRDCy08g",
+   "title": "Alegria o ano todo: lições dos Quatro Minim",
+   "lines": 818,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "u9h88p4bQvg",
+   "title": "Parashá Devarim: silêncio, oração e os Nove Dias",
+   "lines": 733,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "RIdnjt0TZto",
+   "title": "Caim e Hevel: encarar o primeiro assassino",
+   "lines": 892,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "nEeDpt7qtTI",
+   "title": "Onde estão os dinossauros? Bereshit e a ciência",
+   "lines": 796,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "lj889kH-6-k",
+   "title": "Parashat Ki Teitzei: a guerra contra o yetzer hará",
+   "lines": 944,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "zXZ7tMH9p7w",
+   "title": "Pares de qualidades: alegria/tristeza, medo/esperança",
+   "lines": 896,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5VicFIpEXBU",
+   "title": "Honrar os pais e o valor próprio pelo caminho do Baal Shem Tov",
+   "lines": 992,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Vb_UVGfC2pE",
+   "title": "Pecado da Árvore do Conhecimento e a escuta interior",
+   "lines": 917,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "V_6KlZvoDBo",
+   "title": "Vaikrá: renunciar à perfeição e oferecer o esforço",
+   "lines": 1112,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4jM-1qRklCE",
+   "title": "Dar honra ao pobre: Leket, Shichecha e Pe'á",
+   "lines": 938,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "bOymIv5HHlw",
+   "title": "Parashá Korach: igualdade e hierarquia",
+   "lines": 994,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HRdEfUJpRZ4",
+   "title": "Av, a Pedra Fundamental e a saudade do Beit HaMikdash",
+   "lines": 787,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "j2Smb2CFLEM",
+   "title": "Dathan e Aviram: ver a raiz da alma em cada judeu",
+   "lines": 464,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "8DDoqaZOF80",
+   "title": "A última ordem de Moshé: a crítica que entra no coração",
+   "lines": 799,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "bL8WXa6P-Ro",
+   "title": "O poder do grito no mês de Elul",
+   "lines": 820,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "AfvChSn-rqg",
+   "title": "Bikurim: o Eu mais íntimo e a Parashá Ki Tavô",
+   "lines": 1327,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "YIJO4c5js40",
+   "title": "A aliança dos amantes e o shofar de Nitzavim",
+   "lines": 835,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "JPNhJNPdOZs.p0",
+  "JPNhJNPdOZs.p1",
+  "JPNhJNPdOZs.p2",
+  "rdFVlIOf5qU.p0",
+  "rdFVlIOf5qU.p1",
+  "_1HJterQM04.p0",
+  "_1HJterQM04.p1",
+  "_1HJterQM04.p2",
+  "ICtOGe5KAn8.p0",
+  "ICtOGe5KAn8.p1",
+  "ICtOGe5KAn8.p2",
+  "ICtOGe5KAn8.p3",
+  "Q7Jte41zGpA.p0",
+  "Q7Jte41zGpA.p1",
+  "Q7Jte41zGpA.p2",
+  "Q7Jte41zGpA.p3",
+  "ds7qvXypaoY.p0",
+  "ds7qvXypaoY.p1",
+  "ds7qvXypaoY.p2",
+  "ro7HvwWs88w.p0",
+  "ro7HvwWs88w.p1",
+  "ro7HvwWs88w.p2",
+  "UGKEIdRqbzQ.p0",
+  "UGKEIdRqbzQ.p1",
+  "UGKEIdRqbzQ.p2",
+  "PerMRDCy08g.p0",
+  "PerMRDCy08g.p1",
+  "u9h88p4bQvg.p0",
+  "u9h88p4bQvg.p1",
+  "RIdnjt0TZto.p0",
+  "RIdnjt0TZto.p1",
+  "nEeDpt7qtTI.p0",
+  "nEeDpt7qtTI.p1",
+  "lj889kH-6-k.p0",
+  "lj889kH-6-k.p1",
+  "lj889kH-6-k.p2",
+  "zXZ7tMH9p7w.p0",
+  "zXZ7tMH9p7w.p1",
+  "5VicFIpEXBU.p0",
+  "5VicFIpEXBU.p1",
+  "5VicFIpEXBU.p2",
+  "Vb_UVGfC2pE.p0",
+  "Vb_UVGfC2pE.p1",
+  "Vb_UVGfC2pE.p2",
+  "V_6KlZvoDBo.p0",
+  "V_6KlZvoDBo.p1",
+  "V_6KlZvoDBo.p2",
+  "4jM-1qRklCE.p0",
+  "4jM-1qRklCE.p1",
+  "4jM-1qRklCE.p2",
+  "bOymIv5HHlw.p0",
+  "bOymIv5HHlw.p1",
+  "bOymIv5HHlw.p2",
+  "HRdEfUJpRZ4.p0",
+  "HRdEfUJpRZ4.p1",
+  "j2Smb2CFLEM.p0",
+  "j2Smb2CFLEM.p1",
+  "8DDoqaZOF80.p0",
+  "8DDoqaZOF80.p1",
+  "bL8WXa6P-Ro.p0",
+  "bL8WXa6P-Ro.p1",
+  "AfvChSn-rqg.p0",
+  "AfvChSn-rqg.p1",
+  "AfvChSn-rqg.p2",
+  "YIJO4c5js40.p0",
+  "YIJO4c5js40.p1"
+ ]
+}
