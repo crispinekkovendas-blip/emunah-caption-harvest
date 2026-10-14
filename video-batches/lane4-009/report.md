@@ -1,7 +1,7 @@
 # lane4-009
 
-24 of 25 lessons published · 0 skipped · status **pending**
-Tokens (51 agent runs with a record): 0.6M in (mostly cache) · 0.94M out · API-equivalent 11.21
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (53 agent runs with a record): 0.6M in (mostly cache) · 0.97M out · API-equivalent 11.56
 
 | lesson | state | detail |
 |---|---|---|
@@ -11,7 +11,7 @@ Tokens (51 agent runs with a record): 0.6M in (mostly cache) · 0.94M out · API
 | tFj0O4WSADI | ✓ published | 466 lines · Ben Ish Chai: construir e demolir utensílios em Shabat |
 | AXCxCMFJAgI | ✓ published | 810 lines · O segredo de Beha'alotcha: redenção com misericórdia |
 | LnoSoRaVgCw | ✓ published | 410 lines · Parashat Korach: como não deixar o ego nos dominar |
-| bto2LmwqwPM | ✗ will be redone (try 1) | 2 lines missing |
+| bto2LmwqwPM | ✓ published | 641 lines · Quando ninguém aplaude: quem é você de verdade? |
 | Lu_548l4eGY | ✓ published | 443 lines · Parashá Emor: o guia da Parashá para gerir o tempo |
 | iZ_ZKJGZ5LA | ✓ published | 740 lines · Bitachon e a Parashá Bamidbar: o Sium da Hishtadlut |
 | 4IL-Zp46Y2w | ✓ published | 221 lines · O pão da proposição e o maná: a proximidade de HaShem |
