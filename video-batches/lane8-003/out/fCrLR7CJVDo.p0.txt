@@ -1,0 +1,162 @@
+0	[Music]	[Música]
+1	H.K.	H.K.
+2	Y	Y
+3	Pictures arranged with shamir	Imagens organizadas com shamir
+4	Forbidden	Proibidos
+5	Brain of	Cérebro de
+6	Line	Linha
+7	Dry	Seco
+8	Yisuk	Yisuk
+9	Zak	Zak
+10	R	R
+11	Y	Y
+12	Rach	Rach
+13	Y	Y
+14	Y	Y
+15	Y Z	Y Z
+16	Not	Não
+17	Not	Não
+18	Z	Z
+19	R	R
+20	Sh	Sh
+21	Ar	Ar
+22	Bashav, far away	Bashav, longe
+23	Far away	Longe
+24	Red ones	Vermelhos
+25	Y	Y
+26	Sh	Sh
+27	Hand	Mão
+28	From	De
+29	12	12
+30	12	12
+31	Makat	Makat
+32	12	12
+33	Y	Y
+34	R	R
+35	Y	Y
+36	Yes	Sim
+37	T	T
+38	Y	Y
+39	Z	Z
+40	Mixed	Misturado
+41	Far away	Longe
+42	Nash	Nash
+43	D	D
+44	Net Y	Rede Y
+45	Y	Y
+46	Y	Y
+47	R	R
+48	R	R
+49	Y	Y
+50	Y	Y
+51	Y	Y
+52	[Music]	[Música]
+53	Y	Y
+54	To	Para
+55	D	D
+56	Brother	Irmão
+57	Y	Y
+58	M	M
+59	R	R
+60	Z	Z
+61	Y	Y
+62	R	R
+63	Y	Y
+64	Wine	Vinho
+65	R	R
+66	To travel	Viajar
+67	Moist	Úmido
+68	R	R
+69	R	R
+70	Rach	Rach
+71	Penetration	Penetração
+72	Y	Y
+73	Wine	Vinho
+74	A	A
+75	Z	Z
+76	Y	Y
+77	Yas	Yas
+78	Y	Y
+79	R	R
+80	Past	Passado
+81	M	M
+82	Y	Y
+83	Z	Z
+84	Z	Z
+85	To	Para
+86	Reconstruction	Reconstrução
+87	Z	Z
+88	Samash	Samash
+89	Brother	Irmão
+90	Wine	Vinho
+91	Y	Y
+92	R	R
+93	Y	Y
+94	[Music]	[Música]
+95	Y	Y
+96	Not	Não
+97	Y	Y
+98	R	R
+99	R	R
+100	Z	Z
+101	T	T
+102	Ram	Carneiro
+103	Far away	Longe
+104	Far away	Longe
+105	Spray	Spray
+106	Z	Z
+107	Moist	Úmido
+108	Ar	Ar
+109	Hi	Oi
+110	Benson	Benson
+111	Y	Y
+112	Mr. Dr.	Sr. Dr.
+113	Y	Y
+114	Y	Y
+115	This	Isto
+116	R	R
+117	R	R
+118	And	E
+119	Z	Z
+120	R	R
+121	Y	Y
+122	Z	Z
+123	R	R
+124	R	R
+125	Y	Y
+126	R	R
+127	R	R
+128	R	R
+129	Far away	Longe
+130	R	R
+131	Shon	Shon
+132	Y	Y
+133	Yak	Yak
+134	D	D
+135	Z	Z
+136	Y	Y
+137	R	R
+138	R	R
+139	P	P
+140	R Y	R Y
+141	R	R
+142	Y R	Y R
+143	Tens of seconds	Dezenas de segundos
+144	From	De
+145	Z	Z
+146	R	R
+147	R	R
+148	D	D
+149	Y	Y
+150	R	R
+151	R	R
+152	Y	Y
+153	R	R
+154	Not person and person	Não pessoa e pessoa
+155	Z	Z
+156	For the sake of	Por causa de
+157	Y	Y
+158	R	R
+159	R	R
+160	[Music]	[Música]
+161	To spoil	Estragar

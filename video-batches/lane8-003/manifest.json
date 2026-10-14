@@ -2,7 +2,7 @@
  "name": "lane8-003",
  "lane": 8,
  "created": "2026-10-14T22:47:48.007Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "65-wtqypSN8",
@@ -83,5 +83,18 @@
   "FJeVD05Fxeo.p0",
   "FJeVD05Fxeo.p1",
   "y4da40UG990.p0"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "65-wtqypSN8",
+  "fCrLR7CJVDo",
+  "b-zTAMdyJF0",
+  "WQ82NDzVXSg",
+  "rMhmJCSaIOE",
+  "lW6-r8AQoxo",
+  "trLM8yHixq4",
+  "FJeVD05Fxeo",
+  "y4da40UG990"
+ ],
+ "skipped": []
 }
