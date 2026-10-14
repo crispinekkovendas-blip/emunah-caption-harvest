@@ -1,0 +1,450 @@
+0	Save us,	Salva-nos,
+1	a troubled soul,	alma abalada,
+2	Hoshana	Hoshana
+3	This is the prayer we recite during Hoshanot	Esta é a oração que rezamos durante as Hoshanot
+4	of the festival of Sukkot.	da festa de Sucot.
+5	What is a "nefesh mevuhala"? A frightened soul.	O que é "nefesh mevuhala"? Uma alma assustada.
+6	For this reason we want, with HaShem's help, to discuss	Por isso queremos, com a ajuda de HaShem, discutir
+7	a phenomenon that is not easy to talk about, but	um fenômeno que não é fácil de abordar, mas
+8	is very necessary and fundamental.	é muito necessário e fundamental.
+9	The lack of inner serenity that seeps into so many	A falta de serenidade interior que se infiltra em tantos
+10	of us, in the depths of the heart: dread,	de nós, no fundo do coração: pavor,
+11	anxiety.	ansiedade.
+12	And it often dresses itself even in the garments of religion	E muitas vezes ela se veste até com as roupas da religião
+13	and faith, but in truth this is a frightened soul. We	e da fé, mas na verdade é uma alma assustada. Queremos
+14	want to talk about anxiety, panic, inner	falar de ansiedade, pânico, confusão
+15	confusion, PTSD, various traumas, whether	interior, TEPT, vários traumas, seja
+16	from war, terror, abuse, or perhaps from genes	de guerra, terror, abuso, ou talvez de genes
+17	that carried panic, through heredity or other circumstances.	que trouxeram pânico, por hereditariedade ou outras circunstâncias.
+18	We also want to focus on fears and anxieties	Queremos também focar em medos e ansiedades
+19	that dress themselves, as mentioned, in the guise of fear of	que se vestem, como dito, com o disfarce de temor ao
+20	Heaven or faith, and which can truly destroy	Céu ou de fé, e que podem realmente destruir
+21	deeply. And I also want to speak about a personal experience	profundamente. E quero falar também de uma experiência pessoal
+22	with this painful but important issue.	nesta questão dolorosa, mas importante.
+23	The question begs to be asked.	A pergunta pede para ser feita.
+24	There are two parashiot in the Torah that begin in an	Há duas parashiot na Torá que começam de forma
+25	identical way.	idêntica.
+26	The second parashah of the book of Bereshit, this week's Parashah,	A segunda parashá do livro de Bereshit, a parashá desta semana,
+27	Noach, begins with the words "Eleh toldot Noach."	Noach, começa com as palavras "Eleh toldot Noach".
+28	Four weeks after Parashat Noach, after Lech Lecha, Vayera,	Quatro semanas depois da parashá Noach, depois de Lech Lechá, Vayerá,
+29	Chayei Sarah, comes Parashat Toldot. How does it begin? "Eleh	Chayei Sará, chega a parashá Toldot. Como ela começa? "Eleh
+30	toldot Yitzchak." "Eleh toldot Noach," "Eleh toldot	toldot Yitzchak". "Eleh toldot Noach", "Eleh toldot
+31	Yitzchak." Clearly the two parashiot cannot be called	Yitzchak". É claro que as duas parashiot não podem ser chamadas
+32	by the same name, Toldot, because it would confuse the order. Each	pelo mesmo nome, Toldot, porque confundiria a ordem. Cada
+33	parashah needs its own name; if both were called	parashá precisa do seu próprio nome; se ambas fossem chamadas
+34	Toldot... When someone says Parashat Toldot,	Toldot... Quando alguém disser parashá Toldot,
+35	we would not know which one is meant.	não saberíamos a qual se refere.
+36	As I understand it, the word "Eleh" is not a word	Pelo que entendo, a palavra "Eleh" não é uma palavra
+37	used to name a parashah, since we want	usada para dar nome a uma parashá, pois queremos
+38	some spiritual name. It is the second word, "toldot."	um nome espiritual. É a segunda palavra, "toldot".
+39	You cannot call both of them Parashat Toldot.	Não dá para chamar as duas de parashá Toldot.
+40	But we always try to name a parashah after one	Mas sempre tentamos dar à parashá o nome de uma
+41	of the opening words of the parashah. Like Parashat Bereshit,	das palavras de abertura da parashá. Como a parashá Bereshit,
+42	the first word: "Bereshit bara Elokim et	a primeira palavra: "Bereshit bará Elokim et
+43	hashamayim v'et ha'aretz." Lech Lecha: "Vayomer" is not	hashamayim ve'et ha'aretz". Lech Lechá: "Vayomer" não
+44	used as a name; "Vayomer HaShem" is not a name —	é usado como nome; "Vayomer HaShem" não é um nome —
+45	"to Avraham, Lech lecha." Parashat Vayera: "Vayera elav HaShem."	"a Avraham, Lech lechá". Parashá Vayerá: "Vayerá elav HaShem".
+46	Parashat Chayei Sarah: "Vayihyu chayei Sarah." Parashat Vayetze:	Parashá Chayei Sará: "Vayihyu chayei Sará". Parashá Vayetzê:
+47	"Vayetze Yaakov from Be'er Sheva, vayelech." Parashat Vayishlach: "Vayishlach	"Vayetzê Yaakov de Be'er Sheva, vayelech". Parashá Vayishlach: "Vayishlach
+48	Yaakov malachim." "Vayeshev Yaakov be'eretz megurei aviv."	Yaakov malachim". "Vayeshev Yaakov be'eretz megurei aviv".
+49	"Miketz shnatayim yamim." "Vayigash elav Yehuda." "Vayechi	"Miketz shnatayim yamim". "Vayigash elav Yehuda". "Vayechi
+50	Yaakov." So we use either the word	Yaakov". Então usamos ou a palavra
+51	that opens the parashah or one of the	que abre a parashá ou uma das
+52	words that open the parashah.	palavras que abrem a parashá.
+53	So in this case, Parashat Noach and Parashat Toldot,	Então, neste caso, a parashá Noach e a parashá Toldot,
+54	both of which begin with exactly the same words: "Eleh	ambas começam exatamente com as mesmas palavras: "Eleh
+55	toldot Noach," "Eleh toldot Yitzchak." What would you	toldot Noach", "Eleh toldot Yitzchak". O que vocês
+56	say? What would have been the logic	diriam? Qual seria a lógica
+57	in choosing the most logical name for Parashat	para escolher o nome mais lógico para a parashá
+58	Noach? Seemingly Parashat Noach appears first,	Noach? Em princípio, a parashá Noach aparece primeiro,
+59	it is the second parashah of the Chumash. So what should	é a segunda parashá do Chumash. Então qual deveria
+60	its name be? "Eleh toldot," there is Toldot, there is Noach.	ser o nome dela? "Eleh toldot": há Toldot, há Noach.
+61	Seemingly they should have given it the name Toldot,	Em princípio, deveriam ter dado a ela o nome Toldot,
+62	because the word toldot appears closer to the beginning	porque a palavra toldot aparece mais perto do início
+63	of the parashah than the word Noach: "Eleh toldot Noach." Now	da parashá do que a palavra Noach: "Eleh toldot Noach". Agora
+64	we come to the second parashah, which begins with the same	chegamos à segunda parashá, que começa com as mesmas
+65	words: "Eleh toldot Yitzchak." Seemingly the name	palavras: "Eleh toldot Yitzchak". Em princípio, o nome
+66	of this parashah should be...	desta parashá deveria ser...
+67	what? "Eleh toldot Yitzchak"	o quê? "Eleh toldot Yitzchak"
+68	we should call it Yitzchak.	deveríamos chamá-la de Yitzchak.
+69	So what happens is very interesting. The word toldot	Então o que acontece é muito interessante. A palavra toldot
+70	is the second word in the Parashah. "Eleh toldot	é a segunda palavra da parashá. "Eleh toldot
+71	Noach." Noach is the third word of the Parashah.	Noach". Noach é a terceira palavra da parashá.
+72	"Eleh toldot Noach." Similarly in Parashat	"Eleh toldot Noach". Do mesmo modo na parashá
+73	Toldot. Toldot is the second word in the parashah.	Toldot. Toldot é a segunda palavra da parashá.
+74	"Eleh toldot Yitzchak." Yitzchak is the third word.	"Eleh toldot Yitzchak". Yitzchak é a terceira palavra.
+75	Would it not be logical for our parashah, which comes before	Não seria lógico que a nossa parashá, que vem antes de
+76	Toldot, to receive the name Toldot? And the later Parashat Toldot	Toldot, recebesse o nome Toldot? E a parashá Toldot, mais adiante,
+77	to receive the third word as its name,	receberia a terceira palavra como nome,
+78	Yitzchak?	Yitzchak?
+79	But in reality it is not so. Our parashah, what is its name?	Mas na realidade não é assim. A nossa parashá, qual é o nome?
+80	Noach: it is called by its third word, Noach.	Noach: é chamada pela sua terceira palavra, Noach.
+81	Parashat Toldot is called by its second word.	A parashá Toldot é chamada pela sua segunda palavra.
+82	What unfair discrimination against Noach! It would have been very	Que discriminação injusta contra Noach! Seria muito
+83	fitting for the name of our parashah to be Toldot, and the name of	apropriado que o nome da nossa parashá fosse Toldot, e o nome da
+84	Parashat Toldot to be Yitzchak, a very beautiful name to give	parashá Toldot fosse Yitzchak, um nome muito bonito para dar
+85	a parashah, after our forefather Yitzchak.	a uma parashá, em homenagem a nosso patriarca Yitzchak.
+86	Well, one could say: what's the big deal? It's just a name.	Bem, dá para dizer: qual é o problema? É só um nome.
+87	"Toldot Noach." What do you care? Let it be that way. But	"Toldot Noach". Que importa? Deixa ser assim. Mas
+88	that is exactly the point. These names were set by	é justamente esse o ponto. Esses nomes foram fixados por
+89	the great ones of Israel, who were meticulous in light and in weighty matters, and	grandes sábios de Israel, que eram cuidadosos nas coisas leves e nas graves, e
+90	the matter was accepted in all the communities of Israel as a custom of Israel.	isso foi aceito em todas as comunidades de Israel como costume de Israel.
+91	On this Tosafot writes, and the Rishonim: "A custom of Israel	Sobre isso escrevem os Tosafot e os Rishonim: "Costume de Israel
+92	is Torah." The Baal Shem Tov says even what	é Torá". O Baal Shem Tov diz que até o que
+93	happens to a leaf falling from a tree is by	acontece com uma folha que cai de uma árvore é por
+94	deliberate Providence; all the more so anything that is	Providência deliberada; quanto mais tudo aquilo que é
+95	part of the Torah, and was accepted by	parte da Torá, e foi aceito pelo
+96	the holy people of Israel as part of the order of the	santo povo de Israel como parte da ordem do
+97	Jewish calendar: the names of the parashiot, sanctified and engraved among	calendário judaico: os nomes das parashiot, santificados e gravados entre
+98	the faithful of Israel for hundreds, perhaps thousands of years.	os fiéis de Israel por centenas, talvez milhares de anos.
+99	There is precision here. This is no coincidence, whether this way or	Há precisão aqui. Não é acaso, seja assim ou
+100	that. Especially since it is known that names in the Torah are not mere	assado. Sobretudo porque se sabe que os nomes na Torá não são meras
+101	matters of chance; they are names that describe and belong	coincidências; são nomes que descrevem e pertencem
+102	to the essence of the thing. The Gemara says in Yoma 83b, Rabbi Meir	à essência da coisa. A Guemará diz em Yomá 83b: Rabi Meir
+103	was precise about names. The Maggid of Mezritch explains at length	era preciso quanto aos nomes. O Maguid de Mezritch explica longamente
+104	that it is written that HaShem asked Adam,	que está escrito que HaShem pediu a Adam,
+105	the first man, to give names to all the animals,	o primeiro homem, que desse nomes a todos os animais,
+106	in Bereshit, and the Midrash says that by this He	em Bereshit, e o Midrash diz que com isso Ele
+107	demonstrated Adam's wisdom relative to the angels. What's	mostrou a sabedoria de Adam em relação aos anjos. Qual é
+108	the big deal? Anyone can name a bear,	a grande coisa? Qualquer um pode chamar um urso,
+109	a lion, horse, camel, donkey, dog, cat, elephant, rooster. What's	um leão, cavalo, camelo, burro, cachorro, gato, elefante, galo. Qual é
+110	so great about that?	a grandeza disso?
+111	But the Ramban says that names in the holy tongue are not	Mas o Ramban diz que os nomes na língua sagrada não são
+112	chance names, they are purposeful names. The Maggid	nomes casuais, são nomes intencionais. O Maguid
+113	of Mezritch says that the name in the holy tongue of each thing	de Mezritch diz que o nome, na língua sagrada, de cada coisa
+114	is the channel that conveys	é o canal que transmite
+115	and channels the divine energy through which HaShem	e canaliza a energia divina pela qual HaShem
+116	gives life to and sustains the thing. So a name is very,	dá vida e sustenta a coisa. Por isso o nome é muito,
+117	very important. That is why sometimes, when someone is ill, may HaShem have mercy,	muito importante. Por isso às vezes, quando alguém está doente, que HaShem tenha misericórdia,
+118	we add a name in the Mi Sheberach during the Torah reading,	acrescentamos um nome no Mi Sheberach durante a leitura da Torá,
+119	at the Sefer Torah, in order to open, so to speak,	diante do Sefer Torá, para abrir, por assim dizer,
+120	new channels of influence, of a stream	novos canais de influência, de uma corrente
+121	of abundance. So when a parashah has a name by which we call it,	de abundância. Então, quando uma parashá tem um nome pelo qual a chamamos,
+122	it is not a mere random matter; it is connected to the essence of	não é uma questão casual; está ligado à essência da
+123	the thing. In addition, even on a simple level, if you were	coisa. Além disso, mesmo de forma simples, se você fosse
+124	asked to decide which name to give to Parashat	solicitado a decidir que nome dar à parashá
+125	Noach and which name to give to Parashat Toldot, what would you	Noach e que nome dar à parashá Toldot, o que você
+126	do? Say "Eleh toldot Noach"; you would choose one name	faria? Digamos "Eleh toldot Noach"; você escolheria um nome
+127	from these three words. Not "Eleh," since it describes nothing.	entre essas três palavras. Não "Eleh", porque não descreve nada.
+128	"Toldot" or "Noach"? I would choose Toldot.	"Toldot" ou "Noach"? Eu escolheria Toldot.
+129	"Eleh toldot Yitzchak": you would choose Yitzchak. Not the other way around.	"Eleh toldot Yitzchak": você escolheria Yitzchak. Não o contrário.
+130	It was the week of Parashat Toldot, 5752. It was	Era a semana da parashá Toldot de 5752. Era
+131	the beginning of the month of Kislev, 5752, 1991.	o início do mês de Kislev de 5752, 1991.
+132	I was a yeshiva student, and the Lubavitcher Rebbe	Eu era estudante de yeshivá, e o Rebe de Lubavitch
+133	spoke that week three times, and he raised	falou naquela semana três vezes, e levantou
+134	this question three times during the week in three separate	essa pergunta três vezes durante a semana em três
+135	talks. The first was on the occasion of	falas separadas. A primeira foi por ocasião da
+136	the worldwide conference of the shluchim, on Monday of Parashat	conferência mundial dos shluchim, na segunda-feira da parashá
+137	Toldot. The second was on the eve of Shabbat, which was Rosh	Toldot. A segunda foi na véspera de Shabat, que era Rosh
+138	Chodesh Kislev, and the third talk was at the farbrengen	Chodesh Kislev, e a terceira fala foi no farbrengen
+139	on Shabbat afternoon, Parashat Toldot 5752. Three	no Shabat à tarde, parashá Toldot de 5752. Três
+140	times he chose to focus on what seems a marginal topic,	vezes ele escolheu focar no que parece um assunto marginal,
+141	on the name of Parashat Noach versus the name	no nome da parashá Noach em comparação com o nome
+142	of Parashat Toldot. When I think about it today,	da parashá Toldot. Quando penso nisso hoje,
+143	I recall the words of the Gemara in tractate Avodah Zarah, page 5,	lembro das palavras da Guemará no tratado Avodá Zará, página 5,
+144	side b. The Gemara says: Moshe Rabbeinu says	lado b. A Guemará diz: Moshe Rabeinu diz
+145	to the Jews after 40 years, in Parashat Ki Tavo: "And HaShem	aos judeus depois de 40 anos, na parashá Ki Tavô: "E HaShem
+146	has not given you a heart to know, eyes to see, and ears	não vos deu um coração para saber, olhos para ver e ouvidos
+147	to hear, until this day." What is "until this day"?	para ouvir, até este dia". O que é "até este dia"?
+148	Rava says:	Rava diz:
+149	Sometimes it takes 40 years for a student to grasp	Às vezes leva 40 anos para um discípulo entender
+150	his teacher's mind. "And HaShem has not given you a heart to know, eyes	a mente do seu mestre. "E HaShem não vos deu um coração para saber, olhos
+151	to see... until this day": 40 years. Surely	para ver... até este dia": 40 anos. Certamente
+152	a good student understands at the beginning too, but there are	um bom aluno também entende no começo, mas há
+153	sometimes so many layers and depths, depth within	às vezes tantas camadas e profundidades, profundidade dentro de
+154	depth, that the student must mature	profundidade, que o aluno precisa amadurecer
+155	and work on himself for 40 years, and then he begins	e trabalhar em si mesmo por 40 anos, e só então começa
+156	to discover the inner depth of his teacher's words, which were	a descobrir a profundidade interior das palavras do mestre, que estavam
+157	hidden in those same ideas he said 40	ocultas nas mesmas ideias que ele disse 40
+158	years ago. This talk that I merited to hear from the Rebbe was	anos atrás. Esta fala que tive o mérito de ouvir do Rebe foi
+159	more than 30 years ago. Well, 5752 is 33	há mais de 30 anos. Bem, 5752 foi há 33
+160	years ago. 5752... more than 30, 33 years, 34 years.	anos. 5752... mais de 30, 33 anos, 34 anos.
+161	Winter of 5752. I was a young yeshiva student.	Inverno de 5752. Eu era um jovem estudante de yeshivá.
+162	I merited then to be one of the repeaters who merited to listen,	Tive então o mérito de ser um dos "repetidores" que mereceram ouvir,
+163	to repeat and to write down the Rebbe's words after Shabbatot	repetir e anotar as palavras do Rebe depois dos Shabatot
+164	and festivals, when there were no cassettes,	e festas, quando não havia fitas cassete,
+165	and almost 40 years have passed. Today when I return to those	e quase 40 anos se passaram. Hoje, quando volto àquelas
+166	words,	palavras,
+167	I hope I understand them much, much more	espero entendê-las muito, muito mais
+168	deeply. And in my view, when I recently heard	profundamente. E, na minha opinião, quando ouvi recentemente
+169	the words again,	as palavras de novo,
+170	it struck me	me ocorreu
+171	that the Rebbe here was addressing,	que o Rebe aqui estava tratando,
+172	focusing on an issue so sensitive, so basic, so necessary,	focando numa questão tão sensível, tão básica, tão necessária,
+173	so foundational,	tão fundamental,
+174	and immeasurably important in our lives today. A true leader	e imensuravelmente importante em nossa vida hoje. Um verdadeiro líder
+175	of Israel,	de Israel,
+176	a truly great one in Israel, sees things from beyond the	um verdadeiro grande em Israel, vê as coisas por trás da
+177	surface, and it was a bit puzzling that the Rebbe focused again	superfície, e era um pouco intrigante que o Rebe focasse de novo
+178	and again and again on a topic that is really very marginal.	e de novo e de novo num tema que é na verdade muito marginal.
+179	How many commentators dwell on a name like this, a name like that?	Quantos comentaristas se detêm num nome assim, num nome assado?
+180	It seems a technical matter, what name to give a parashah. But	Parece uma questão técnica, que nome dar a uma parashá. Mas
+181	for the Rebbe nothing was technical, because his whole approach	para o Rebe nada era técnico, porque todo o seu método
+182	is that every detail is a detail in the world, part of a mosaic,	é que cada detalhe é um detalhe no mundo, parte de um mosaico,
+183	part of a mechanism, part of a divine symphony,	parte de um mecanismo, parte de uma sinfonia divina,
+184	and all the more so every detail in the Torah. So it was always his way	e quanto mais cada detalhe na Torá. Por isso era sempre seu jeito
+185	to focus seemingly on minor details of the Jewish calendar,	focar aparentemente em detalhes menores do calendário judaico,
+186	on the names of parashiot, but from this he would show	nos nomes das parashiot, mas a partir disso ele mostrava
+187	that the drop and this detail reflect the entire essence	que a gota e esse detalhe refletem toda a essência
+188	of the universe.	do universo.
+189	Because in truth He equates the small and the great,	Porque na verdade Ele iguala o pequeno e o grande,
+190	and the divine unity, that there is none besides Him, focuses	e a unidade divina, que não há outro além Dele, se concentra
+191	on the great principles and also on the smallest details	nos grandes princípios e também nos menores detalhes
+192	of life, even the most marginal ones. But today, today	da vida, mesmo os mais marginais. Mas hoje, hoje
+193	when I look at it, I hope I am finding	quando olho para isso, espero estar encontrando
+194	new depth, and I want to offer you in this lesson	uma profundidade nova, e quero oferecer a vocês nesta aula
+195	one point from what we heard then from the Rebbe. I	um ponto do que ouvimos então do Rebe. Vou
+196	will expand upon it as I understood it, according to my humble opinion,	ampliar conforme o entendi, segundo a minha humilde opinião,
+197	with HaShem's help — "who can discern errors?" — and if I erred, HaShem	com a ajuda de HaShem — "quem discerne os erros?" — e se errei, HaShem
+198	will forgive me. The Rebbe's point of explanation was	me perdoará. O ponto da explicação do Rebe foi
+199	that in everything in the Torah there are many layers,	que em tudo na Torá há muitas camadas,
+200	many layers of interpretations. Every matter in the Torah, every verse, every halachah,	muitas camadas de interpretações. Cada assunto na Torá, cada versículo, cada halachá,
+201	every mitzvah, every topic in the Mishnah, in the Gemara,	cada mitsvá, cada tema na Mishná, na Guemará,
+202	in Midrashim, in Kabbalah, in Mussar, in Jewish thought, in Chassidut,	nos Midrashim, na Cabalá, no Mussar, no pensamento judaico, na Chassidut,
+203	every point in the Torah, beginning with the Written Torah and also in the customs	cada ponto da Torá, começando pela Torá Escrita e também nos costumes
+204	of Israel, can be interpreted by pshat, by remez,	de Israel, pode ser interpretado por pshat, por remez,
+205	by derash, by sod. The Arizal, the holy Ari, writes	por derash, por sod. O Arizal, o santo Ari, escreve
+206	that in every verse and every matter in the Torah there are 600,000	que em cada versículo e cada assunto da Torá há 600.000
+207	interpretations.	interpretações.
+208	600,000 interpretations by pshat, 600,000 interpretations	600.000 interpretações por pshat, 600.000 interpretações
+209	by remez, by sod, because each soul sometimes has	por remez, por sod, porque cada alma às vezes tem
+210	a deep and different view of the Torah. "Enlighten our eyes in Your Torah	um olhar profundo e diferente sobre a Torá. "Ilumina nossos olhos em Tua Torá
+211	and give us our portion in Your Torah." The Torah is infinite,	e dá-nos o nosso quinhão em Tua Torá". A Torá é infinita,
+212	"longer than the earth in measure, and broader than	"mais longa que a terra em medida, e mais larga que
+213	the sea," and therefore it contains within it	o mar", e por isso contém em si
+214	infinite understandings	entendimentos
+215	and insights.	e percepções infinitos.
+216	Down to the finest detail. Here too the Rebbe says that in a seemingly	Até o mínimo detalhe. Aqui também o Rebe diz que numa questão aparentemente
+217	marginal matter there is a deep, relevant, and breathtaking hint	marginal há uma alusão profunda, relevante e deslumbrante
+218	for Jewish life and for the life of the whole world. Both in a	para a vida judaica e para a vida do mundo inteiro. Tanto num
+219	collective sense, Klal Yisrael collectively, and	sentido coletivo, Klal Yisrael coletivamente, quanto
+220	for each individual. There is a lesson and a vital message here	para cada indivíduo. Há aqui uma lição e uma mensagem vital
+221	for life.	para a vida.
+222	When there are two parashiot, one could call the first	Quando há duas parashiot, poderíamos chamar a primeira
+223	Toldot and the second Yitzchak, or the reverse: call	de Toldot e a segunda de Yitzchak, ou o contrário: chamar
+224	the first Noach and the second Toldot, even though this means	a primeira de Noach e a segunda de Toldot, embora isso signifique
+225	reversing the order, putting first the third word	inverter a ordem, colocando em primeiro lugar a terceira palavra
+226	of the second parashah and putting first the second word	da segunda parashá e a segunda palavra
+227	of the later parashah. It was set by the custom of	da parashá posterior. Foi fixado pelo costume de
+228	Israel, by the greats of Israel, that this is called Noach and that is called	Israel, pelos grandes de Israel, que esta se chama Noach e aquela se chama
+229	Toldot, because a name is such a	Toldot, porque um nome é uma coisa tão
+230	essential and fundamental thing, and there is a hint here for life,	essencial e fundamental, e há aqui uma alusão para a vida,
+231	a hint that you cannot call it Toldot before Noach.	uma alusão de que não se pode chegar a Toldot antes de Noach.
+232	The experience of Toldot comes only after Parashat Noach,	A vivência de Toldot só vem depois da parashá Noach,
+233	and after the name Noach. The meaning of the word toldot is	e depois do nome Noach. O significado da palavra toldot é
+234	children, descendants: "These are the generations of Yitzchak son of Avraham:	filhos, descendentes: "Estas são as gerações de Yitzchak, filho de Avraham:
+235	Avraham begot Yitzchak." Rashi says Yaakov and Eisav	Avraham gerou Yitzchak". Rashi diz que Yaakov e Eisav
+236	are mentioned in Parashat Toldot. These are our children,	são mencionados na parashá Toldot. Estes são os nossos filhos,
+237	our offspring, whether in a biological sense or	nossos descendentes, seja no sentido biológico ou
+238	a spiritual one. What does the word Noach mean? Serenity,	espiritual. O que significa a palavra Noach? Serenidade,
+239	rest. It is written in Megillat Esther, "and rested from their enemies."	descanso. Está escrito na Meguilat Ester: "e descansaram de seus inimigos".
+240	The Targum on the word in Bereshit "vayishbot"	O Targum sobre a palavra em Bereshit "vayishbot"
+241	on the seventh day from all his work that He had done: what is	no sétimo dia de toda a obra que Ele havia feito: o que é
+242	"vayishbot"? In Targum Onkelos: "v'nach on the seventh day."	"vayishbot"? No Targum Onkelos: "venach no sétimo dia".
+243	That is, he ceased, Shabbat, cessation, rest, calm,	Ou seja, cessou, Shabat, cessação, descanso, calma,
+244	serenity. That is the meaning of Noach. In Midrash Rabbah on Parashat	serenidade. Esse é o significado de Noach. No Midrash Rabá sobre a parashá
+245	Noach it is written "Eleh toldot Noach." Noach: what is Noach?	Noach está escrito "Eleh toldot Noach". Noach: o que é Noach?
+246	Noach, says the Midrash,	Noach, diz o Midrash,
+247	is pleasant to him, pleasant to the world, pleasant to the fathers, pleasant to the sons,	é agradável para ele, agradável para o mundo, agradável para os pais, agradável para os filhos,
+248	pleasant to the upper beings, pleasant to the lower beings, pleasant in this	agradável para os seres superiores, agradável para os inferiores, agradável neste
+249	world, pleasant in the World to Come.	mundo, agradável no Mundo Vindouro.
+250	By way of hint there is a powerful message here. Before	Por via de alusão há aqui uma mensagem poderosa. Antes
+251	you raise children, toldot,	de você criar filhos, toldot,
+252	you must first cultivate Noach. Noach	você deve primeiro cultivar Noach. Noach
+253	before Toldot.	antes de Toldot.
+254	We need to cultivate	Precisamos cultivar
+255	serenity and inner calm. Both for toldot in the biological	serenidade e calma interior. Tanto para as toldot no sentido biológico
+256	sense and in the spiritual sense. Rashi writes on "Eleh toldot Noach": "Noach,	quanto no espiritual. Rashi escreve sobre "Eleh toldot Noach": "Noach,
+257	a righteous man, was perfect in his generations; he walked with Elokim."	homem justo, era íntegro em suas gerações; com Elokim andava".
+258	Rashi writes:	Rashi escreve:
+259	in Midrash Rabbah, the toldot of the righteous are good deeds.	no Midrash Rabá, as toldot dos justos são boas ações.
+260	It is not only biological offspring, it is also good	Não são só descendentes biológicos, são também boas
+261	deeds. The Midrash says, it is written in Mishlei: "The fruit of the	ações. O Midrash diz, está escrito em Mishlei: "O fruto do
+262	righteous is a tree of life." What is the fruit of the righteous? Mitzvot	justo é árvore de vida". Qual é o fruto do justo? Mitsvot
+263	and good deeds. So there are toldot in the	e boas ações. Então há toldot no
+264	biological sense. Thank HaShem, someone is blessed with living and	sentido biológico. Graças a HaShem, alguém é abençoado com descendência viva e
+265	enduring offspring. But there are also spiritual children. The influence	duradoura. Mas há também filhos espirituais. A influência
+266	we radiate on other people, the light	que irradiamos sobre outras pessoas, a luz
+267	we bring into the world through our deeds,	que trazemos ao mundo por meio de nossas ações,
+268	our speech, our lives,	nossa fala, nossa vida,
+269	the good deeds we do in the world: these are	as boas ações que fazemos no mundo: essas são
+270	our toldot, the impact, the influence, the students,	nossas toldot, o impacto, a influência, os alunos,
+271	the friends, all those whom we inspire,	os amigos, todos aqueles que inspiramos,
+272	directly or indirectly, consciously or unconsciously.	direta ou indiretamente, consciente ou inconscientemente.
+273	All those whom we touch are also considered	Todos aqueles que tocamos também são considerados
+274	our spiritual children. We created them,	nossos filhos espirituais. Nós os criamos,
+275	we put into them soul, light, warmth, love.	colocamos neles alma, luz, calor, amor.
+276	Our Sages say: whoever teaches his friend's son Torah, Scripture credits	Nossos Sábios dizem: quem ensina Torá ao filho do próximo, a Escritura lhe atribui
+277	him as if he had begotten him. Here too the Rebbe says,	como se o tivesse gerado. Aqui também o Rebe diz:
+278	before you are busy with toldot,	antes de se ocupar com toldot,
+279	that is, raising a new generation, physically or spiritually,	isto é, criar uma nova geração, material ou espiritualmente,
+280	touching other people, you must first find	tocar outras pessoas, é preciso primeiro encontrar
+281	the Noach, the serenity, the calm of the soul. Because very	o Noach, a serenidade, a paz da alma. Porque muito
+282	often	frequentemente
+283	we raise children, or grandchildren, or students,	criamos filhos, ou netos, ou alunos,
+284	or female students,	ou alunas,
+285	with anxiety, with pressure. There is so much to do, so	com ansiedade, com pressão. Há tanto a fazer, tanto
+286	much to accomplish, so much homework, so many	a realizar, tanta lição de casa, tantas
+287	obligations in order to keep up with what we imagine	obrigações para acompanhar o que imaginamos
+288	is a normal, productive, and successful life,	ser uma vida normal, produtiva e bem-sucedida,
+289	and so sometimes the basis behind education is tension,	e assim às vezes a base por trás da educação é a tensão,
+290	panic, dread. But here the tables turn,	o pânico, o pavor. Mas aqui a ordem se inverte,
+291	by switching the names, from Toldot to Noach, Noach to Toldot,	na troca dos nomes, de Toldot para Noach, de Noach para Toldot,
+292	Judaism teaches us something: a foundation	o judaísmo nos ensina algo: um alicerce
+293	for everything. Wise ones, if you want to raise,	para tudo. Sábios, se vocês querem criar,
+294	with HaShem's help, healthy, happy, joyful children,	com a ajuda de HaShem, filhos saudáveis, felizes, alegres,
+295	sane, balanced, who love people and love HaShem,	sãos, equilibrados, que amam as pessoas e amam HaShem,
+296	love Torah and love Israel, wise and understanding,	amam a Torá e amam Israel, sábios e inteligentes,
+297	the foundation must be Noach.	o alicerce deve ser Noach.
+298	Pleasantness: pleasant to the upper beings and pleasant to the lower,	Agradabilidade: agradável aos seres superiores e agradável aos inferiores,
+299	pleasant in this world and in the World to Come: composure,	agradável neste mundo e no Mundo Vindouro: moderação,
+300	clarity of mind, calm of soul and body. If we	clareza de mente, paz da alma e do corpo. Se nós
+301	raise physical children or do mitzvot and good deeds,	criamos filhos físicos ou cumprimos mitsvot e boas ações,
+302	that is, create spiritual children —	isto é, geramos filhos espirituais —
+303	the toldot of the righteous are good deeds — with a lot of	as toldot dos justos são boas ações — com muita
+304	guilt,	culpa,
+305	shame, tension, pressure, we collapse under our own	vergonha, tensão, pressão, sucumbimos sob nossos próprios
+306	efforts, we undermine, heaven forbid, the goal.	esforços, minamos, que não seja, o objetivo.
+307	We create, at best, something external and superficial	Criamos, no melhor dos casos, algo externo e superficial
+308	and shallow, not deep or lasting. The more a person becomes	e raso, não profundo nem duradouro. Quanto mais a pessoa se torna
+309	calmer, more serene, the more his success grows,	mais calma, mais serena, mais cresce o seu sucesso,
+310	inner and outer, his influence on himself and his power	interior e exterior, sua influência sobre si mesma e seu domínio
+311	over himself and also his outward influence. And this is the depth	de si e também sua influência externa. E essa é a profundidade
+312	in the prayers of Sukkot, in Hoshanot, when we	nas orações de Sucot, nas Hoshanot, quando
+313	say and ask of HaShem, "Hoshana,	dizemos e pedimos a HaShem: "Hoshana,
+314	a troubled soul,	alma abalada,
+315	Hoshana."	Hoshana".
+316	Save my soul, my spirit, my mind, my	Salva minha alma, meu espírito, minha mente, meu
+317	body from confusion, anger, despair, disorder,	corpo da confusão, da raiva, do desespero, da desordem,
+318	panic, dread. A person strong and calm inside, beloved	do pânico, do pavor. Uma pessoa forte e calma por dentro, amada
+319	and cherished, radiates so much	e querida, irradia tanto
+320	warmth, inner security, faith, and serenity upon	calor, segurança interior, fé e serenidade sobre
+321	the whole society, on the whole environment. Such a person is	toda a sociedade, sobre todo o ambiente. Essa pessoa é
+322	like a tree that gives shade in a thirsty land, in a dry land, a shelter	como uma árvore que dá sombra em terra sedenta, em terra seca, um abrigo
+323	from the storm. Who does not love and gravitate toward a quiet heart,	contra a tempestade. Quem não ama e não se sente atraído por um coração quieto,
+324	toward a sweet and balanced life, toward someone grounded in his center,	por uma vida doce e equilibrada, por alguém ancorado em seu centro,
+325	in your center, in the eye of the storm, who knows how to remain	no seu centro, no olho da tempestade, que sabe permanecer
+326	calm in the eye of the storm; in the center of the storm it does not matter if it rains,	calmo no olho da tempestade; no centro da tempestade pouco importa se chove,
+327	rain	chuva
+328	or the sun shines or whatever changes occur. But	ou se o sol brilha ou quaisquer mudanças que ocorram. Mas
+329	such people have an anchor of rest, pleasantness, calm,	essas pessoas têm uma âncora de repouso, agradabilidade, calma,
+330	even when a flood, heaven forbid, comes, as in Parashat Noach.	mesmo quando um dilúvio, que não seja, chega, como na parashá Noach.
+331	They master the art, and the art of Noach is rest	Elas dominam a arte, e a arte de Noach é o repouso
+332	and inner stillness, that same refined stability of character	e a quietude interior, aquela mesma estabilidade refinada de caráter
+333	that we call serenity, is more precious than pure	que chamamos de serenidade, é mais preciosa que ouro
+334	gold. How unimportant all the external searches are,	puro. Como são sem importância todas as buscas externas,
+335	"I'm looking for this, and I run here, and I run	"eu procuro isto, e corro para cá, e corro
+336	there," but inside	para lá", mas por dentro
+337	there is an empty space.	há um espaço vazio.
+338	And sometimes I run here, in our language there is always a word	E às vezes corro para cá, na nossa língua há sempre uma palavra
+339	…	…
+340	…I don't know if that's the expression, but	…não sei se é a expressão, mas
+341	I always feel something is lacking, that I need to impress you,	sempre sinto que falta algo, que preciso impressionar você,
+342	impress you and find this treasure and go for that freedom.	impressionar você e encontrar este tesouro e ir atrás daquela liberdade.
+343	How can you compare that with a life	Como se pode comparar isso com uma vida
+344	full of inner serenity, a life dwelling within a sea	cheia de serenidade interior, uma vida que habita num mar
+345	of quiet beneath the waves, beyond the reach of the storms?	de quietude sob as ondas, além do alcance das tempestades?
+346	Eternal serenity. I feel this most deeply	Serenidade eterna. Sinto isso mais profundamente
+347	in the book of Tehilim. King David was surrounded by storms on	no livro de Tehilim. O rei David estava cercado de tempestades por
+348	every side,	todos os lados,
+349	and we see it again and again: the pain, the	e vemos isso vez após vez: a dor, o
+350	suffering, the wanderings, the escapes, the	sofrimento, as errâncias, as fugas, os
+351	enemies, the persecutions, the challenges, the embarrassments.	inimigos, as perseguições, os desafios, as humilhações.
+352	And in Psalm 131	E no Salmo 131
+353	he reveals to us his eternal secret: "Surely I have	ele nos revela o seu segredo eterno: "Sim, eu
+354	calmed and quieted my soul, like a weaned child with its mother,	acalmei e aquietei minha alma, como o desmamado junto à mãe,
+355	like a weaned child is my soul within me."	como o desmamado está minha alma dentro de mim".
+356	In the midst of the storm, he was in the eye	No meio da tempestade, ele estava no olho
+357	of the storm,	da tempestade,
+358	the center of the storm,	no centro da tempestade,
+359	and there he had a very, very inner rest,	e ali ele tinha um repouso muito, muito interior,
+360	and from there he lived.	e dali ele vivia.
+361	How many people do we know, ourselves included,	Quantas pessoas conhecemos, nós mesmos incluídos,
+362	who miss out on	que perdem
+363	life, who destroy everything sweet and beautiful and happy	a vida, que destroem tudo que é doce, bonito e feliz
+364	and pleasant because of a volatile temper,	e agradável por causa de um temperamento explosivo,
+365	because of anger, because of lack of control over impulses,	por causa da raiva, por falta de controle dos impulsos,
+366	because of anger and ceaseless external and internal tension.	por causa da raiva e de uma tensão externa e interna sem fim.
+367	Serenity is strength, it is power: to tell your heart,	A serenidade é força, é poder: dizer ao seu coração:
+368	"Noach, shalom." You can enter a place of serenity	"Noach, shalom". Você pode entrar num lugar de serenidade
+369	even when there is a lot of panic outside.	mesmo quando há muito pânico lá fora.
+370	You can enter the inner place in your heart.	Você pode entrar no lugar interior do seu coração.
+371	There is no jealousy there, no competition,	Ali não há inveja, não há competição,
+372	no hatred, fear. No panic. I have no	não há ódio, medo. Sem pânico. Não tenho
+373	need to please others, I have no need to impress	necessidade de agradar aos outros, não tenho necessidade de impressionar
+374	others, and even when there are voices inside me saying what	os outros, e mesmo quando há vozes em mim dizendo o que
+375	he thinks, what she thinks, what he thinks, how it	ele pensa, o que ela pensa, o que ele pensa, como isso
+376	will look, how it won't look, there is a place: "To You my heart said,	vai parecer, como não vai parecer, há um lugar: "Por Ti disse o meu coração:
+377	'Seek My face.'" The inner face. It's not easy. We	'Buscai a Minha face'". A face interior. Não é fácil. Precisamos
+378	must learn to control our thoughts, and even	aprender a controlar nossos pensamentos, e ainda
+379	more our thought patterns, our perceptions,	mais nossos padrões de pensamento, nossas percepções,
+380	and our inner mental chatter, which we call	e nossa tagarelice mental interior, que chamamos de
+381	internal chatter, conversation and gossip inside the mind	internal chatter, conversa e fofoca dentro da mente
+382	that doesn't stop for a moment. Anxiety, called in English	que não para um instante. A ansiedade, chamada em inglês
+383	anxiety, is very, very popular today, and no one	anxiety, é muito, muito comum hoje, e ninguém
+384	chooses it. Here one has to be very sensitive.	a escolhe. Aqui é preciso ser muito sensível.
+385	I don't like it when the audience is blamed and told, you	Não gosto quando se culpa o público e se diz: você
+386	can control yourself, get rid of the anxieties.	pode se controlar, livrar-se das ansiedades.
+387	Sometimes people read articles and books and seminars,	Às vezes leem artigos e livros e fazem seminários,
+388	and they say everything is in your control:	e dizem que tudo está sob o seu controle:
+389	if you train yourself to think this way and not that way, you will be	se você se treinar a pensar assim e não assado, você terá
+390	at peace. That works for many people,	paz. Isso funciona para muita gente,
+391	and sometimes it's an idea, an excellent idea, and it	e às vezes é uma ideia, uma ideia excelente, e
+392	works, no point wasting time. But we must also be sensitive	funciona, sem perder tempo. Mas também é preciso ser sensível
+393	that sometimes there are deeper challenges. I know	ao fato de que às vezes há desafios mais profundos. Conheço
+394	many people	muitas pessoas
+395	who heard these mussar talks and went to seminars	que ouviram essas palestras de mussar e foram a seminários
+396	and read the books and did good things and would	e leram os livros e fizeram coisas boas e dariam
+397	give anything for a few hours of inner calm.	qualquer coisa por algumas horas de calma interior.
+398	They tried to do everything, to think well, to be	Elas se esforçaram em fazer de tudo, pensar bem, ser
+399	positive, to be positive, to look at	positivas, ser positivas, olhar
+400	the full half of the glass, and it helps. That's nice and good. But one must	para a metade cheia do copo, e isso ajuda. É bonito e bom. Mas é preciso
+401	know that sometimes there is real paralysis, inner,	saber que às vezes há uma paralisia real, interior,
+402	emotional, and I can't just say change your	emocional, e não posso simplesmente dizer: troque o seu
+403	disk, change the thought, and everything will be fine.	disco, mude o pensamento, e tudo ficará bem.
+404	Those who don't agree with me, I wish you were	Aqueles que não concordam comigo, quem dera vocês
+405	right. It's not always simple. Sometimes there is very, very	tivessem razão. Nem sempre é simples. Às vezes há um sofrimento
+406	inner suffering. There are things that go deep,	muito, muito interior. Há coisas que entram fundo,
+407	deep into the brain. Sometimes there is a very deep flaw,	fundo no cérebro. Às vezes há uma falha muito profunda,
+408	so deep that it controls everything. And we	tão profunda que controla tudo. E nós
+409	must learn how to make peace with the person with whom it is	precisamos aprender a fazer as pazes com a pessoa com quem é
+410	hardest to make peace: ourselves.	mais difícil fazer as pazes: nós mesmos.
+411	But even when there is this emotional paralysis,	Mas mesmo quando há essa paralisia emocional,
+412	it is possible to begin to develop a life of Noach. The first	é possível começar a desenvolver uma vida de Noach. A primeira
+413	thing: we must not be afraid	coisa: não devemos ter medo
+414	to look at what causes the troubled soul.	de olhar para o que causa a alma abalada.
+415	Not to be afraid to look at the panic. Sometimes it is	Não ter medo de olhar para o pânico. Às vezes está
+416	buried deep in the soul. We also need a lot of	enterrado no fundo da alma. Também precisamos de muita
+417	help and a lot of emotional support. One must also know that HaShem	ajuda e de muito apoio emocional. É preciso saber também que HaShem
+418	in His kindness gave our generation quite a few great gifts	em Sua bondade deu à nossa geração vários grandes presentes
+419	to help in the healing and rehabilitation of the soul and in opening and cleaning	para ajudar na cura e na reabilitação da alma e em abrir e limpar
+420	the wounds.	as feridas.
+421	And this is a great gift and an opportunity to use it, of course	E isso é um grande presente e uma oportunidade de usá-lo, claro
+422	with great experts in this field. And even if	com grandes especialistas nessa área. E mesmo que
+423	I can't get rid of all the voices that never	eu não consiga me livrar de todas as vozes que nunca
+424	stop driving me crazy, I can finally turn them	param de me enlouquecer, posso finalmente transformá-las
+425	into amusing characters; I can look at those thoughts	em personagens divertidos; posso olhar para esses pensamentos
+426	and say, "Welcome, Rabbi Yankel, you've come again	e dizer: "Bem-vindo, Rabino Yankel, você veio de novo
+427	to ruin my day." But one must understand that for many of us it can be	estragar o meu dia". Mas é preciso entender que para muitos de nós pode ser
+428	like a dybbuk.	como um dibuk.
+429	You play ball with the kids, you go on a trip with	Você brinca de bola com as crianças, passeia com
+430	the family, you are at a joyous event, you took the kids	a família, está numa festa alegre, levou as crianças
+431	to the park, seemingly a fun day,	ao parque, aparentemente um dia divertido,
+432	and suddenly the Satan enters your mind and ruins	e de repente o Satan entra na sua mente e estraga
+433	the experience.	a experiência.
+434	And he tells me — tells you — you	E ele me diz — diz a você — você
+435	aren't doing enough, you should be learning now,	não está fazendo o bastante, devia estar estudando agora,
+436	you waste time, you don't even know how to enjoy the kids,	você perde tempo, nem sabe aproveitar os filhos,
+437	you're just a good-for-nothing, the kids in their hearts	você é só um inútil, as crianças, no fundo do coração,
+438	don't love you at all, you're wasting time again, what	não gostam nada de você, você está perdendo tempo de novo, que
+439	a failure, what emptiness: always the inner voice that drives you crazy	fracasso, que vazio: sempre a voz interior que enlouquece
+440	and has to ruin every experience. I have a friend who told	e precisa estragar toda experiência. Tenho um amigo que me contou
+441	me that for dozens and dozens of years, every time	que por dezenas e dezenas de anos, toda vez
+442	he wanted to enjoy something, there was an inner voice explaining	que quis aproveitar algo, havia uma voz interior explicando
+443	to him why he is a failure, and this is a failure in a	a ele por que ele é um fracasso, e esse é um fracasso de forma
+444	paradoxical way. This voice thinks it is helping us	paradoxal. Essa voz pensa que está nos ajudando
+445	survive in a dangerous world, but in practice it destroys every good	a sobreviver num mundo perigoso, mas na prática destrói cada coisa
+446	part. But the whole outlook	boa. Mas toda a visão
+447	of his, which developed in early years, in very	dele, que se desenvolveu nos primeiros anos, em anos muito
+448	tender years, thinks that by always telling you	tenros, acha que, ao dizer sempre a você
+449	that you are in danger and the place is dangerous and everything is a failure	que você está em perigo e o lugar é perigoso e tudo é fracasso
