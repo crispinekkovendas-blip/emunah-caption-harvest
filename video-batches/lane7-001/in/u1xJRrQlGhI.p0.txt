@@ -1,0 +1,20 @@
+videoId: u1xJRrQlGhI
+parte 1 de 1 · traduzir as linhas 0 a 9 (10 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Regras para Colocar Tefilin
+RESUMO: A aula aborda as regras para colocar Tefilin, começando com a ordem de colocação do Tefilin de mão e cabeça. Se o Tefilin de mão for solto antes de colocar o de cabeça, basta apertá-lo e não é necessário recitar uma nova bênção. No entanto, se o Tefilin de mão for solto depois de colocar o de cabeça, é preciso apertá-lo e recitar a bênção novamente. A aula também enfatiza que é permitido colocar Tefilin emprestados, mas é estritamente proibido colocar Tefilin roubados, pois não se deve recitar uma bênção sobre algo obtido por roubo.
+MOMENTOS: 00:00 Continuação das regras do Shulchan Aruch · 00:04 Tefilin de mão solto antes do de cabeça · 00:12 Tefilin de mão solto depois do de cabeça · 00:16 Explicação sobre a bênção após o Tefilin de cabeça · 00:25 Permissão para Tefilin emprestados · 00:27 Proibição de Tefilin roubados · 00:30 Razão para não abençoar Tefilin roubados · 00:38 Permissão para abençoar Tefilin emprestados
+FONTES CITADAS: 00:00 Shulchan Arukh, Orach Chaim 28:12 · 00:04 Shulchan Arukh, Orach Chaim 28:12 · 00:12 Shulchan Arukh, Orach Chaim 28:12 · 00:25 Shulchan Arukh, Orach Chaim 28:12 · 00:27 Shulchan Arukh, Orach Chaim 28:12 · 00:33 Shulchan Arukh, Orach Chaim 28:12
+
+LINHAS A TRADUZIR:
+0|00:00|ממשיך בעל השולחן ערוך, אורח חיים סימן כ"ח סעיף י"ב.
+1|00:04|ואם מותר של יד קודם הנחת של ראש, מהדקן ואין צריך לחזור ולברך.
+2|00:10|אם מותר, מהדק ולא צריך לברך.
+3|00:12|אבל אם הניח של ראש ואחר כך מותר של יד, מהדק ומברך.
+4|00:16|אבל אם כבר הניח של ראש ואז עוד פעם מותר, אחרי אחרי ההנחה, זה כביכול נגמר המצווה אחרי ששם של של ראש, אז פה לך נמי חוזר ומברך.
+5|00:25|מותר להניח תפילין שאולים ולא על גזולים.
+6|00:27|זה עוד דבר חשוב לשים לב, לא לברך על תפילין גזולים.
+7|00:30|למה? מה אתה גזלת וברכת?
+8|00:33|זה בצד ב בביצה ברך אסור אסור לברך על תפילין גזולים.
+9|00:38|אבל שאולים יכול לברך.

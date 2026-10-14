@@ -1,0 +1,195 @@
+{
+ "name": "lane7-001",
+ "lane": 7,
+ "created": "2026-10-14T13:59:52.792Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "HUR7QdzuI9k",
+   "title": "Não caia no espírito: a guerra pela ruach",
+   "lines": 781,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Pt4tVGdhipE",
+   "title": "Humildade na criação do homem: \"façamos o homem",
+   "lines": 137,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xXchfbAktog",
+   "title": "Por que o cohen leva a cesta do pobre",
+   "lines": 134,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Dnl9dSGDEXE",
+   "title": "Autoconsciência não é orgulho: a humildade de Moshe",
+   "lines": 47,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "WsDWwZYfN7Q",
+   "title": "Oração e a Conexão com Hashem",
+   "lines": 11,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "M-MyZVLLcYQ",
+   "title": "Cuidados da Halachá ao sair de férias (Bein HaZmanim)",
+   "lines": 376,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "SJlzsnnNvRA",
+   "title": "Parashá Vayerá em versão para crianças",
+   "lines": 111,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "CEWy1fFZeTM",
+   "title": "O poder da mulher: o mel e a influência no lar",
+   "lines": 82,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4o2aGPqO09U",
+   "title": "Brit Milá completa a criação do homem",
+   "lines": 140,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "u1xJRrQlGhI",
+   "title": "Regras para Colocar Tefilin",
+   "lines": 10,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "yvBenF7Yiwg",
+   "title": "Por que \"teu irmão Israel\"? A irmandade com Edom",
+   "lines": 17,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "YKG_5pHb4r8",
+   "title": "Vayikrá: permissão, humildade e o sentido dos sacrifícios",
+   "lines": 1090,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-C8EssPsPDQ",
+   "title": "Parashá Emor: pureza dos Cohanim e os Mo'adim",
+   "lines": 1788,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HcjvVOQh4D4",
+   "title": "Mesaot: a jornada como fio da Kabalat Shabat de Matot-Masei",
+   "lines": 723,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PwZovhIOl20",
+   "title": "Os trajes do Cohen Gadol e o óleo da Menorá em Tetzavê",
+   "lines": 85,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3o_PQg7KzJc",
+   "title": "Por que o povo culpou Moshe e Aharon após Korach",
+   "lines": 124,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-RlPpQbahhg",
+   "title": "Maasê avot siman labanim: a hospitalidade de Avraham",
+   "lines": 74,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "GtlOIU-BGus",
+   "title": "Tefilin na Cobertura: Uma Mitzvá Inesperada",
+   "lines": 27,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "uBM0uD1R29k",
+   "title": "Não enfraqueça o espírito do povo de Israel",
+   "lines": 23,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xC8RomrkdcU",
+   "title": "Estudar Torá em qualquer idade contra o yetzer hara",
+   "lines": 1050,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "mTOFJi4ugHg",
+   "title": "O olhar mau dos espiões e a ponto preto da folha",
+   "lines": 98,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "TRbe1Zbr9dA",
+   "title": "A Sucá ensina humildade: o recado de Sucot",
+   "lines": 42,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "HUR7QdzuI9k.p0",
+  "HUR7QdzuI9k.p1",
+  "Pt4tVGdhipE.p0",
+  "xXchfbAktog.p0",
+  "Dnl9dSGDEXE.p0",
+  "WsDWwZYfN7Q.p0",
+  "M-MyZVLLcYQ.p0",
+  "SJlzsnnNvRA.p0",
+  "CEWy1fFZeTM.p0",
+  "4o2aGPqO09U.p0",
+  "u1xJRrQlGhI.p0",
+  "yvBenF7Yiwg.p0",
+  "YKG_5pHb4r8.p0",
+  "YKG_5pHb4r8.p1",
+  "YKG_5pHb4r8.p2",
+  "-C8EssPsPDQ.p0",
+  "-C8EssPsPDQ.p1",
+  "-C8EssPsPDQ.p2",
+  "-C8EssPsPDQ.p3",
+  "HcjvVOQh4D4.p0",
+  "HcjvVOQh4D4.p1",
+  "PwZovhIOl20.p0",
+  "3o_PQg7KzJc.p0",
+  "-RlPpQbahhg.p0",
+  "GtlOIU-BGus.p0",
+  "uBM0uD1R29k.p0",
+  "xC8RomrkdcU.p0",
+  "xC8RomrkdcU.p1",
+  "xC8RomrkdcU.p2",
+  "mTOFJi4ugHg.p0",
+  "TRbe1Zbr9dA.p0"
+ ]
+}
