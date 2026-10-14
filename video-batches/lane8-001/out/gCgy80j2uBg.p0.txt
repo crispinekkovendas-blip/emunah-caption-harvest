@@ -1,0 +1,450 @@
+0	The famous author	O famoso escritor
+1	Professor Elie Wiesel was born in Sighet	O professor Elie Wiesel nasceu em Sighet
+2	He came from a family that belonged to Vizhnitz Hasidism	Ele veio de uma família ligada ao chassidismo de Vizhnitz
+3	Many of his family members	Muitos dos membros da sua família
+4	were murdered in the Holocaust during World War II, and	foram assassinados no Holocausto, durante a Segunda Guerra Mundial, e
+5	he himself was in Auschwitz, was in Buchenwald, and he	ele mesmo esteve em Auschwitz, esteve em Buchenwald, e
+6	survived.	sobreviveu.
+7	He was a very close friend of my father, of blessed memory.	Ele era um amigo muito próximo do meu pai, de abençoada memória.
+8	The two met in the world of journalism.	Os dois se conheceram no mundo do jornalismo.
+9	Wiesel, before he became an international author	Wiesel, antes de se tornar um escritor internacional
+10	and received the Nobel Peace Prize and became renowned	e receber o Prêmio Nobel da Paz e ficar famoso
+11	across the entire globe. He was a journalist	no mundo inteiro. Ele era jornalista
+12	and writer, published famous books, and was a correspondent	e escritor, publicou livros famosos e foi correspondente
+13	for Yedioth Ahronoth at the UN.	do Yedioth Ahronoth na ONU.
+14	Later, when he got more into literature and traveling	Mais tarde, quando ele se dedicou mais à literatura e a viajar
+15	around the world, my father took his place. And they	pelo mundo, meu pai ocupou o lugar dele. E eles
+16	remained close friends all the days of their lives.	continuaram amigos próximos por toda a vida.
+17	I once heard this from Professor Wiesel himself. My father	Certa vez ouvi isso do próprio professor Wiesel. Meu pai
+18	suggested that he go meet the Lubavitcher Rebbe,	sugeriu que ele fosse conhecer o Rebe de Lubavitch,
+19	first to come to a farbrengen, to watch a farbrengen	primeiro para vir a um farbrengen, para assistir a um farbrengen
+20	that the Rebbe would lead. This was in the early 60s	que o Rebe conduzia. Isso foi no começo dos anos 60
+21	or the late 50s. And Wiesel	ou no fim dos anos 50. E Wiesel
+22	once told this. He told it at the	contou isso uma vez. Ele contou no
+23	shloshim for my father, and afterward	shloshim do meu pai, e depois
+24	he told it on several occasions: he came	contou em várias ocasiões: ele foi
+25	once to a farbrengen and understood that he would come again	uma vez a um farbrengen e entendeu que voltaria
+26	and again and again, and afterward he went in to a first meeting	de novo e de novo, e depois entrou para um primeiro encontro
+27	in yechidut,	em yechidut,
+28	a private meeting between him and the Lubavitcher Rebbe, and he	um encontro privado entre ele e o Rebe de Lubavitch, e ele
+29	said it lasted several hours, and he would	disse que durou várias horas, e ele
+30	come at times; there were periods when he had long visits,	vinha de vez em quando; houve períodos de visitas longas,
+31	meetings, meals with the Rebbe, and also an exchange of letters	encontros, refeições com o Rebe, e também uma troca de cartas
+32	that the Rebbe sent him and that he sent the Rebbe, and many	que o Rebe enviou a ele e que ele enviou ao Rebe, e muitas
+33	of the letters are very substantive and deep, dealing	das cartas são muito substanciais e profundas, tratando
+34	with matters of faith, matters of outlook, outlook on	de questões de fé, questões de visão de mundo, a visão sobre
+35	the Holocaust, outlook on the eternity of Israel, outlook on	o Holocausto, sobre a eternidade de Israel, sobre
+36	Judaism and the religion of Israel, and the like. I	o judaísmo e a religião de Israel, e assim por diante. Eu
+37	think the longest letter I saw from the Rebbe, that I	acho que a carta mais longa do Rebe que eu vi
+38	saw, was about six or seven	tinha mais ou menos seis ou sete
+39	pages. The Rebbe usually wrote quite briefly, and it was	páginas. O Rebe geralmente escrevia de forma bem breve, e foi
+40	in Yiddish, and it was written to Elie Wiesel in the month of Nisan,	em iídiche, escrita a Elie Wiesel no mês de Nissan,
+41	as far as I recall.	pelo que me lembro.
+42	In any case, I want to tell about one meeting	De qualquer forma, quero contar sobre um encontro
+43	that the author Elie Wiesel told about himself. He also	que o escritor Elie Wiesel contou ele mesmo. Ele também
+44	printed it in his book. He has an autobiography, All	publicou isso em seu livro. Ele tem uma autobiografia, "Todos
+45	Rivers Run to the Sea, and the second part, And the Sea Is Never	os Rios Vão para o Mar", e a segunda parte, "E o Mar Nunca
+46	Full, and I think I saw it there too. And he	Se Enche", e acho que vi isso lá também. E ele
+47	told that once he spoke candidly with the Rebbe	contou que uma vez conversou abertamente com o Rebe
+48	of Lubavitch about faith in Elokim after what happened	de Lubavitch sobre a fé em Elokim depois do que aconteceu
+49	in the Holocaust.	no Holocausto.
+50	Wiesel said that he turned to the Rebbe	Wiesel disse que se dirigiu ao Rebe
+51	of Lubavitch. This was in the middle of the night. The Rebbe would receive	de Lubavitch. Isso foi no meio da noite. O Rebe recebia
+52	yechidut at night, and it would last through	yechidut à noite, e durava
+53	the hours of the night. There were no visits by day; the	pelas horas da noite. Não havia visitas de dia;
+54	visits were in the middle of the night, from early night until	as visitas eram no meio da noite, do início da noite até
+55	the early morning, or sometimes even after daybreak,	de manhã cedo, ou às vezes até depois do amanhecer,
+56	until sunrise. It was at some point in the middle of the night,	até o nascer do sol. Foi em algum momento no meio da noite,
+57	and he turned to the Rebbe and said to him; they spoke in Yiddish then,	e ele se dirigiu ao Rebe e disse; eles falaram em iídiche então,
+58	but I will say it as he said it.	mas vou dizer como ele contou.
+59	He said to the Rebbe: I don't understand how you, how	Ele disse ao Rebe: Eu não entendo como o senhor, como
+60	Rebbe,	Rebe,
+61	Rabbi, how can you believe in Elokim	rabino, como o senhor pode crer em Elokim
+62	after Auschwitz?	depois de Auschwitz?
+63	And he tells that the Rebbe was silent. The Rebbe looked at him,	E ele conta que o Rebe ficou em silêncio. O Rebe olhou para ele,
+64	understood that he had touched on something very, very	entendeu que ele havia tocado em algo muito, muito
+65	deep and sensitive.	profundo e sensível.
+66	And he says that the Rebbe, after a pause,	E ele diz que o Rebe, depois de uma pausa,
+67	after a period of silence and inward contemplation,	depois de um tempo de silêncio e contemplação interior,
+68	said to him:	disse a ele:
+69	I will quote Wiesel as he repeated it from the heart.	Vou citar Wiesel como ele repetia isso, de coração.
+70	In whom, in whom do you want me to believe	Em quem, em quem você quer que eu acredite
+71	after...	depois...
+72	in man?	no homem?
+73	In whom do you want me to believe	Em quem você quer que eu acredite
+74	after, in man? If there is any faith left	depois, no homem? Se resta alguma fé
+75	at all, after it must be in a source that	depois disso, ela deve estar em uma fonte que
+76	transcends man and humanity.	transcende o homem e a humanidade.
+77	That is, in a free translation to Hebrew: In whom do you want	Ou seja, em tradução livre para o hebraico: em quem você quer
+78	me to believe after the Holocaust? In humanity?	que eu acredite depois do Holocausto? Na humanidade?
+79	That I should believe in humanity after Auschwitz?	Que eu acredite na humanidade depois de Auschwitz?
+80	In whom will I place my faith, in whom will I invest	Em quem vou depositar minha fé, em quem vou investir
+81	my faith? If any faith remains after	minha fé? Se resta alguma fé depois
+82	the Holocaust, it can only be in Elokim,	do Holocausto, ela só pode estar em Elokim,
+83	only in the Source of Creation, which is above the created beings,	só na Fonte da Criação, que está acima dos seres criados,
+84	above humanity and above creation.	acima da humanidade e acima da criação.
+85	This struck Wiesel at a very deep place, because	Isso atingiu Wiesel num lugar muito profundo, porque
+86	for decades and decades afterward he spoke about it,	por décadas e décadas depois ele falou sobre isso,
+87	he wrote about it, and as is known, in several of his books and lectures,	escreveu sobre isso, e como se sabe, em vários de seus livros e palestras,
+88	it was for him a constant inner struggle. On the one	isso era para ele uma luta interior sem fim. Por um
+89	hand, he came from a Hasidic Jewish family, first of all.	lado, ele vinha de uma família judaica chassídica, antes de tudo.
+90	He loved learning. He loved to study Mishnayot and Gemara,	Ele amava o estudo. Amava estudar Mishná e Guemará,
+91	the Written Torah, the Oral Torah. He kept Shabbat,	a Torá Escrita, a Torá Oral. Guardava o Shabat,
+92	would come to the synagogue...	ia à sinagoga...
+93	he was a Jew with a heart, with a soul,	era um judeu com coração, com alma,
+94	so he couldn't just be	então ele não podia simplesmente ser
+95	a denying atheist. That didn't work for him. But	um ateu negador. Isso não funcionava para ele. Mas
+96	he struggled. He always struggled, all his life. I	ele lutava. Lutou sempre, a vida toda. Eu
+97	still remember an article he wrote before Rosh Hashanah	ainda me lembro de um artigo que ele escreveu antes de Rosh Hashaná
+98	in the New York Times, which is a very, very famous	no New York Times, que é um jornal americano muito,
+99	American newspaper, by Jews, but very, very	muito famoso, de judeus, mas muito,
+100	liberal. Today it is very, very, very anti-	muito liberal. Hoje ele é muito, muito, muito anti-
+101	Israel too. And he wrote there before Rosh Hashanah. It	Israel também. E ele escreveu ali antes de Rosh Hashaná. Foi
+102	was in the year 5755, I think, around then...	no ano de 5755, creio eu, por volta disso...
+103	or so,	ou por aí,
+104	approximately those years, and he said that 50 years had passed	mais ou menos nesses anos, e ele disse que haviam passado 50 anos
+105	since the end of the Holocaust and that he wanted to make peace with the Holy One,	desde o fim do Holocausto e que queria fazer as pazes com o Santo,
+106	Blessed Be He. He says: I can no longer quarrel with You,	Bendito Seja. Ele diz: já não consigo brigar com Você,
+107	I can no longer wrestle with You, I can no	já não consigo lutar com Você, já não
+108	longer fight with You. I want to make peace.	consigo guerrear com Você. Quero fazer as pazes.
+109	It was a very, very moving article, to see a Jew	Foi um artigo muito, muito comovente, ver um judeu
+110	who suffered so much, so many were murdered, and he was	que passou por tanto, tantos foram assassinados, e ele era
+111	a sensitive person and a Holocaust writer, and he wrote the	uma pessoa sensível e um escritor do Holocausto, e escreveu o
+112	famous book Night, where he describes	famoso livro "A Noite", onde descreve
+113	the horrors that he saw with his own eyes	os horrores que viu com seus próprios olhos
+114	in those years, that no one can even	naqueles anos, que ninguém consegue sequer
+115	describe, what happened there. I remember once I was at	descrever, o que aconteceu ali. Lembro que uma vez estive na casa de
+116	Ka-Tzetnik's.	Ka-Tzetnik.
+117	You remember Ka-Tzetnik; Yehiel De-Nur was his name. He gave	Vocês se lembram de Ka-Tzetnik; Yehiel De-Nur era o nome dele. Ele deu
+118	testimony at the Eichmann trial and fainted on the spot, and he	testemunho no julgamento de Eichmann e desmaiou ali mesmo, e ele
+119	was a writer for my father's newspaper, in Yiddish,	era escritor do jornal do meu pai, em iídiche,
+120	the Algemeiner.	o Algemeiner.
+121	His articles were harrowing, both poetically	Os artigos dele eram dilacerantes, tanto do ponto de vista poético
+122	and rhetorically. His style, wow, something wonderful. I went	quanto retórico. O estilo dele, uau, algo maravilhoso. Fui
+123	to meet him at his apartment in Tel Aviv. At the end of	encontrá-lo no apartamento dele em Tel Aviv. No fim do
+124	the meeting, this was before the smartphone,	encontro, isso foi antes do smartphone,
+125	I took out a camera to take a picture, and he didn't allow	tirei uma câmera para fotografar, e ele não me
+126	me. I asked why. He said: you will think	deixou. Perguntei por quê. Ele disse: você vai pensar
+127	now that you have a photo of an Auschwitz survivor. You will never	agora que tem uma foto de um sobrevivente de Auschwitz. Você nunca
+128	have a photo of an Auschwitz survivor. I am telling	terá uma foto de um sobrevivente de Auschwitz. Estou contando
+129	all this because of a verse	tudo isso por causa de um versículo
+130	very, very deep in this week's Parashah, Parashat Devarim.	muito, muito profundo da parashá desta semana, Parashat Devarim.
+131	Moshe Rabbeinu, in the book of Devarim, begins his last	Moshe Rabeinu, no livro de Devarim, começa seu último
+132	address, five weeks before	discurso, cinco semanas antes
+133	his passing from the world, and he goes over the journey with	de sua partida deste mundo, e revê a jornada com
+134	the Jews. "These are the words that Moshe spoke to all	os judeus. "Estas são as palavras que Moshe falou a todo
+135	Israel." And it was in the 40th year, in the 12th month, on the first	Israel." E foi no quadragésimo ano, no décimo primeiro mês, no primeiro
+136	of the month, Moshe began to explain this Torah.	dia do mês, que Moshe começou a explicar esta Torá.
+137	And in one of the first verses, Devarim chapter 1,	E em um dos primeiros versículos, Devarim, capítulo 1,
+138	verse 9, he describes the difficulty of leading this	versículo 9, ele descreve a dificuldade de liderar este
+139	people. He said: "I said to you at that time, I cannot bear	povo. Ele disse: "Eu vos disse naquele tempo: não posso carregar
+140	you alone. HaShem your Elokim has multiplied you, and behold, you are	vocês sozinho. HaShem, vosso Elokim, vos multiplicou, e eis que hoje sois
+141	today like the stars of heaven in multitude. May HaShem, Elokim of your fathers, add	como as estrelas do céu em multidão. Que HaShem, Elokim de vossos pais, acrescente
+142	to you a thousand times as many... How can I bear alone	a vós mil vezes mais... Como poderei carregar sozinho
+143	your burden, your load, and your strife?" In a class in past years,	vosso fardo, vossa carga e vossas contendas?" Numa aula de anos atrás,
+144	last year, two years ago, we spoke about the "Eichah,"	no ano passado, dois anos atrás, falamos sobre o "Eicha",
+145	the "Eichah" in this verse, "How can I bear alone," which our Sages	o "Eicha" deste versículo, "Como poderei carregar sozinho", que nossos Sábios
+146	compare and equate to the Eichah of the book	comparam e equiparam ao Eicha do livro
+147	of Isaiah: "How has the faithful city become a harlot! She was full of justice,	de Yeshayahu: "Como se tornou prostituta a cidade fiel! Estava cheia de justiça,
+148	righteousness lodged in her," and the Eichah of the prophet:	a retidão morava nela", e o Eicha do profeta:
+149	"How does the city sit solitary, that was full of people! She has become like a widow."	"Como está solitária a cidade que era cheia de gente! Ficou como viúva."
+150	But here we will focus on the three expressions: "How can I bear alone	Mas aqui vamos nos concentrar nas três expressões: "Como poderei carregar sozinho
+151	your burden, your load, and your strife?" How, how is it within the power	vosso fardo, vossa carga e vossas contendas?" Como, como está ao alcance
+152	of a flesh-and-blood	de um ser humano
+153	human being to bear such pressure? But listen well. He uses	de carne e osso suportar tal pressão? Mas ouçam bem. Ele usa
+154	three expressions: tarchachem, masaachem, and rivchem. What	três expressões: tarchachem, masaachem e rivchem. O que
+155	does it mean? Rashi, the foremost of the plain-sense commentators, tells	isso quer dizer? Rashi, o maior dos comentaristas do sentido simples, nos diz
+156	us three different matters: "Tarchachem," from the word "tirchah,"	que são três assuntos diferentes: "Tarchachem", da palavra "tirchá",
+157	teaches that Israel were troublesome. One of them sees	ensina que Israel era trabalhoso. Um deles vê
+158	his opponent win the case and says: I have witnesses, I have	seu adversário vencer a causa e diz: tenho testemunhas, tenho
+159	proofs.	provas.
+160	He has no witnesses, he has no proofs, but he simply	Ele não tem testemunhas, não tem provas, mas ele simplesmente
+161	wants to create more trouble, more pressure. That is tarchachem.	quer criar mais incômodo, mais pressão. Isso é tarchachem.
+162	What is masaachem? Rashi says: it teaches that they were apikorsim.	O que é masaachem? Diz Rashi: ensina que eram apikorsim.
+163	He explains: when Moshe would go out early in the morning from his tent,	Ele explica: quando Moshe saía de manhã cedo da tenda,
+164	they would say: why did he go out early in the morning? Is he not at peace	diziam: por que ele saiu de manhã cedo? Não está em paz
+165	in his own home? There are quarrels in there. Or why is he late to leave	em sua casa? Há brigas lá dentro. Ou por que ele demorou a sair
+166	his house? Why didn't he go out earlier? He	de casa? Por que não saiu mais cedo? Ele
+167	sits and plots evil counsel against you and thinks	fica sentado tramando maus conselhos contra vocês e pensando
+168	evil thoughts about you.	maus pensamentos sobre vocês.
+169	That is masaachem, the apikorsim. What is rivchem? Rashi says:	Isso é masaachem, os apikorsim. O que é rivchem? Diz Rashi:
+170	it teaches that they were quarrelers, from the word riv, quarrel.	ensina que eram briguentos, da palavra riv, briga.
+171	Always complaining, dissatisfied, bitter,	Sempre reclamando, insatisfeitos, amargos,
+172	strife, dispute, problems. Rashi did not invent these	briga, discórdia, problemas. Rashi não inventou essas
+173	interpretations; rather, the source is from our Sages,	interpretações; a fonte são os nossos Sábios,
+174	of blessed memory. Here there is a famous question. Tarchachem, I	de abençoada memória. Aqui há uma pergunta famosa. Tarchachem, eu
+175	understand the idea: they were troublemakers, they simply wanted to create	entendo a ideia: eram criadores de problemas, só queriam criar
+176	trouble. You already lost the case; no, he'll bring even	incômodo. Você já perdeu a causa; não, ele traz ainda
+177	more witnesses, bring more documents, just to create a hassle. I understand. Rivchem, from riv, always quarrels,	mais testemunhas, traz mais documentos, só para dar trabalho. Entendo. Rivchem, de riv, sempre briga,
+178	always complains, is always dissatisfied, always has to	sempre reclama, está sempre insatisfeito, sempre tem que
+179	nag and find the faults, the problems.	cutucar e achar os defeitos, os problemas.
+180	Fine. But how do Rashi and our Sages know that masaachem	Está bem. Mas como Rashi e nossos Sábios sabem que masaachem
+181	refers to apikorsim? Masaachem means, from the word massa,	se refere a apikorsim? Masaachem significa, da palavra massa,
+182	"journey" or "burden." Rashi says it teaches that they were apikorsim. What connection	"jornada" ou "fardo". Rashi diz que ensina que eram apikorsim. Que ligação
+183	is there between the two things?	há entre as duas coisas?
+184	Masaachem means "burden." On the contrary, there are several	Masaachem quer dizer "fardo". Pelo contrário, vários
+185	commentators, for example,	comentaristas, por exemplo,
+186	other commentators, who explain masaachem	outros comentaristas, explicam masaachem
+187	from the word massa,	da palavra massa,
+188	a burden and great pressure. But Rashi,	um fardo e uma grande pressão. Mas Rashi,
+189	who writes many times, "I came only to explain the plain meaning of Scripture,"	que escreve muitas vezes: "vim apenas explicar o sentido simples da Escritura",
+190	says: what is masaachem?	diz: o que é masaachem?
+191	That they were apikorsim. What is the connection between burden and	Que eram apikorsim. Qual é a ligação entre fardo e
+192	apikorsut? And Rashi even	apikorsut? E Rashi até
+193	brings an example of their apikorsut, what they said:	traz um exemplo da apikorsut deles, do que diziam:
+194	if Moshe goes out early from the house, there is a problem at home there.	se Moshe sai cedo de casa, há um problema em casa.
+195	…	…
+196	Something is not right; his wife shouts at him, he shouts at	Algo não está bem; a mulher grita com ele, ele grita com
+197	his wife, I don't know what. If he is late to leave, he	a mulher, não sei o quê. Se ele demora a sair, ele
+198	plots evil counsel. What does that have to do with apikorsut? What	tece maus conselhos. O que isso tem a ver com apikorsut? Que
+199	connection is there to apikorsut? Several commentators on Rashi indeed,	ligação há com apikorsut? Vários comentaristas de Rashi, de fato,
+200	Siftei Chachamim, Sefer HaZikaron, Be'er Basadeh, Tzeidah LaDerech,	Siftei Chachamim, Sefer HaZikaron, Be'er Basadeh, Tzeidá LaDerech,
+201	are all bothered by this question. Something here is	todos se incomodam com essa pergunta. Algo aqui é
+202	complicated, and they say that "apikorsim" here is not	complicado, e dizem que "apikorsim" aqui não é
+203	like apikorsim in other places, a matter	como apikorsim em outros lugares, uma questão
+204	of heresy in faith; it means rebellion, it means	de heresia na fé; significa rebeldia, significa
+205	chutzpah. There are several among the commentators. Rashi, already at the end of	petulância. Há vários entre os comentaristas. Rashi, já no fim da
+206	Parashat Bereshit, used the word apikorsut	Parashat Bereshit, usou a palavra apikorsut
+207	in the sense of heresy. So what is the meaning here? There is a	no sentido de heresia. Então qual é o sentido aqui? Há uma
+208	wonderful explanation of this from the holy Rav, Rabbi	explicação maravilhosa sobre isso do santo Rav, Rabi
+209	Nachman of Breslov. Rabbi Nachman, as is known, was born in Mezhibuzh,	Nachman de Breslev. Rabi Nachman, como se sabe, nasceu em Mezhibuzh,
+210	in Ukraine, on Rosh Chodesh Nisan 5532, 12	na Ucrânia, em Rosh Chodesh Nissan de 5532, 12
+211	years after the passing of his great-grandfather, our teacher	anos depois da partida de seu bisavô, nosso mestre
+212	Rabbi Yisrael Baal Shem Tov. He was the son of Rabbi Simcha,	Rabi Yisrael Baal Shem Tov. Ele era filho de Rabi Simcha,
+213	and Udel's daughter was Feiga, and one of the sons	e a filha de Udel era Feiga, e um dos filhos
+214	of Feiga, the Rebbetzin Feiga, daughter of Udel, daughter of	de Feiga, a rebetsin Feiga, filha de Udel, filha do
+215	the Baal Shem, was Rabbi Nachman. He	Baal Shem, foi Rabi Nachman. Ele
+216	was born in Mezhibuzh in 5532. He was named after his grandfather,	nasceu em Mezhibuzh em 5532. Recebeu o nome do avô,
+217	his father's father, Rabbi Nachman of Horodenka, who was	pai de seu pai, Rabi Nachman de Horodenka, que foi
+218	a disciple of the Baal Shem Tov. Afterward, as is known, he lived	discípulo do Baal Shem Tov. Depois, como se sabe, ele viveu
+219	in Breslov, and his resting place is honored in Uman, Ukraine.	em Breslev, e seu lugar de repouso é venerado em Uman, na Ucrânia.
+220	Rabbi Nachman, in brief, says an idea like this, and I	Rabi Nachman, em resumo, diz uma ideia assim, e eu
+221	want to develop it. Masaachem, Rashi tells us,	quero desenvolvê-la. Masaachem, diz-nos Rashi,
+222	is apikorsut.	é apikorsut.
+223	Do you know why?	Sabem por quê?
+224	Because the heaviest burden on a person is to be an apikores.	Porque o fardo mais pesado para a pessoa é ser um apikores.
+225	There is no burden heavier on a person, no journey	Não há fardo mais pesado para a pessoa, nenhuma jornada
+226	harder.	mais difícil.
+227	There is nothing that complicates and makes harder and creates	Não há nada que complique, que dificulte e que crie
+228	a journey stronger and harder for a person than being an apikores.	uma jornada mais forte e mais difícil para a pessoa do que ser um apikores.
+229	Because the apikores is loaded with doubts, questions, confusions,	Porque o apikores está carregado de dúvidas, questionamentos, confusões,
+230	pounding at him all the time, racing around in him 24 hours	martelando nele o tempo todo, correndo dentro dele 24 horas
+231	a day. A person's sensitive heart cannot be	por dia. O coração sensível da pessoa não pode estar
+232	in true peace of mind, and therefore it causes masaachem,	em verdadeira paz de espírito, e por isso isso causa masaachem,
+233	that the journey of life is extremely hard. That is the wording in Sichot HaRan.	que a jornada da vida é extremamente difícil. Essa é a formulação nas Sichot HaRan.
+234	Sichot HaRan was written by the great disciple	As Sichot HaRan foram escritas pelo grande discípulo
+235	of Rabbi Nachman, Rabbi Natan, and was published after	de Rabi Nachman, Rabi Natan, e publicadas depois
+236	the passing of Rabbi Nachman, as is known.	da partida de Rabi Nachman, como se sabe.
+237	…	…
+238	Rabbi Nachman passed away	Rabi Nachman faleceu
+239	on Sukkot, 18 Tishrei 5571. After a few years	em Sucot, no dia 18 de Tishrei de 5571. Depois de alguns anos
+240	his disciple Rabbi Natan published the book Sichot HaRan,	seu discípulo Rabi Natan publicou o livro Sichot HaRan,
+241	which contains talks that he heard from his teacher Rabbi Nachman, and there,	que contém conversas que ele ouviu de seu mestre Rabi Nachman, e ali,
+242	in number 37, he says it briefly: apikorsut	no número 37, ele diz de forma breve: apikorsut
+243	is called a journey, as Rashi wrote on "masaachem," that they were	é chamada de jornada, como Rashi escreveu sobre "masaachem", que eram
+244	apikorsim. And therefore he writes: therefore, when one travels	apikorsim. E por isso ele escreve: por isso, quando se viaja
+245	to the tzaddik, he casts off from himself a great burden, as it were,	ao tsadik, lança-se de cima de si um grande fardo, por assim dizer,
+246	for he already has faith, which is the opposite of apikorsut.	pois já tem fé, que é o oposto da apikorsut.
+247	That is, the believer has a strong support and staff, so	Ou seja, o crente tem um forte apoio e um cajado, então
+248	the burdens of life are lighter. Everything for him is based	os fardos da vida são mais leves. Tudo para ele se baseia
+249	on faith. But an apikores has a great burden	na fé. Mas o apikores tem uma grande jornada
+250	in life. These things deserve to be clarified, as I understand	na vida. Estas coisas merecem ser esclarecidas, como eu as entendo,
+251	them, at least one side of this explanation of Rabbi	pelo menos um lado desta explicação de Rabi
+252	Nachman	Nachman
+253	of Breslov, the memory of the tzaddik for a blessing. We all know	de Breslev, a memória do tsadik seja uma bênção. Todos sabemos
+254	that life is complex and complicated, and sometimes	que a vida é complexa e complicada, e às vezes
+255	also very, very hard and painful.	também muito, muito dura e dolorosa.
+256	And especially for many of us, whose lives do not simply go	E em especial para muitos de nós, cuja vida não corre simplesmente
+257	"beside still waters He leads us,"	"junto a águas tranquilas Ele nos conduz",
+258	who truly go through hard and painful situations. There are	que de fato passamos por situações duras e dolorosas. Há
+259	many among the viewers and listeners of our classes	muitos entre os espectadores e ouvintes das nossas aulas
+260	whom I know personally, or through letters or	que conheço pessoalmente, ou por cartas ou
+261	messages, who have gone through a great deal in life,	mensagens, que passaram por muita coisa na vida,
+262	whether in material things, whether in spiritual things, whether	seja nas coisas materiais, seja nas espirituais, seja
+263	emotionally, psychologically,	emocionalmente, psicologicamente,
+264	mentally, sometimes even abuse, and at times in	mentalmente, às vezes até abuso, e por vezes em
+265	horrifying forms. Any abuse is something horrifying, but	formas aterrorizantes. Todo abuso é algo horrível, mas
+266	even lives that are generally beside still waters, everyone	mesmo as vidas que em geral correm junto a águas tranquilas, todos
+267	knows there are ups and downs, there are pains,	sabem que há altos e baixos, há dores,
+268	not few and not small. There are losses,	não poucas e não pequenas. Há perdas,
+269	there is the pain of loss. When someone close passes away, there is	há a dor da perda. Quando alguém próximo falece, há
+270	illness, there is mental illness,	doença, há doença da alma,
+271	and all kinds of inner and outer	e todo tipo de aflições e angústias internas
+272	troubles and distress. Whether it is physical health,	e externas. Seja a saúde do corpo,
+273	mental health, whether it is your own, whether it is	a saúde mental, seja a sua própria, seja a
+274	the children's, God forbid, whether it is that of friends	dos filhos, que D'us nos livre, seja a de amigos
+275	or loved ones, whether it is the nation as a whole.	ou entes queridos, seja a da nação como um todo.
+276	But everyone knows that life is not easy and not	Mas todos sabem que a vida não é fácil nem
+277	simple in this respect and that one.	simples neste ou naquele aspecto.
+278	So how do we deal with this?	Então como lidamos com isso?
+279	How, how do we cope with this?	Como, como lidamos com isso?
+280	The apikores	O apikores
+281	chooses. Actually he doesn't even choose; that is how he grew up, or that is how	escolhe. Na verdade nem escolhe; foi assim que ele cresceu, ou foi assim que
+282	it	isso
+283	is.	é.
+284	Things get set for him at some point in life, not	As coisas se fixam nele em algum ponto da vida, nem
+285	always can one say it is by choice.	sempre se pode dizer que é por escolha.
+286	But he chooses to live in a world	Mas ele escolhe viver num mundo
+287	that is not a living world. It is not a world that lives	que não é um mundo vivo. Não é um mundo que vive
+288	an inner life. It is a world of life without meaning,	uma vida interior. É um mundo de vida sem sentido,
+289	without purpose, without infinite depth. Everything is an accident.	sem propósito, sem profundidade infinita. Tudo é acaso.
+290	In English they say, you are a random blip on the	Em inglês se diz: você é um ponto aleatório na
+291	surface of infinity. Inconsequential and	superfície do infinito. Sem consequência e
+292	valueless. I am one drop less than a grain of sand.	sem valor. Sou uma gota a menos que um grão de areia.
+293	If you take a spaceship and go not so far	Se você pega uma nave espacial e vai não tão longe
+294	from our planet,	do nosso planeta,
+295	how does the Earth look? Like a tiny grain of sand.	como a Terra parece? Como um minúsculo grão de areia.
+296	What a joke.	Que piada.
+297	I am a total nobody, and I am inside an Earth that is truly	Eu sou um zé-ninguém total, e estou dentro de uma Terra que é de fato
+298	nothing. Nothing inside nothing. Zero inside	nada. Nada dentro de nada. Zero dentro de
+299	zero. For the apikores, what I see is what there is,	zero. Para o apikores, o que eu vejo é o que existe,
+300	and that's it.	e ponto.
+301	And the journey is extremely hard.	E a jornada é extremamente difícil.
+302	The downs of life, the trials of life,	As quedas da vida, as provações da vida,
+303	what we see in life, the tragedies in life,	o que vemos na vida, as tragédias da vida,
+304	the suffering in life, the distress in life. It is not easy, it is	o sofrimento da vida, a angústia da vida. Não é fácil, é
+305	a journey. An extremely hard journey. What is faith?	uma jornada. Uma jornada extremamente difícil. O que é a fé?
+306	Faith does not mean that I understand everything, I am naive,	Fé não quer dizer que eu entendo tudo, que sou ingênuo,
+307	everything is sweet, nice, pretty, wow, let's take	que tudo é doce, agradável, bonito, uau, vamos tirar
+308	a picture, let's all smile, there are no problems. That is not	uma foto, vamos todos sorrir, não há problemas. Não é
+309	the point.	essa a questão.
+310	…	…
+311	On the contrary, everyone understands that there are things in our world	Pelo contrário, todos entendem que há coisas no nosso mundo
+312	that we cannot explain, but faith is based on a recognition	que não conseguimos explicar, mas a fé se baseia num reconhecimento
+313	very deep in the mind, soul, and heart, that this building	muito profundo na mente, na alma e no coração, de que este edifício
+314	has a Master,	tem um Dono,
+315	that the Holy One, Blessed Be He, created the world with purpose,	que o Santo, Bendito Seja, criou o mundo com propósito,
+316	with meaning, and that He is the source of good,	com sentido, e que Ele é a fonte do bem,
+317	the source of kindness, the source of love, and the Father of mercy, of all	a fonte da bondade, a fonte do amor e o Pai da misericórdia, de toda
+318	mercy. It does not mean that I understand, that I can	misericórdia. Não quer dizer que eu entendo, que consigo
+319	fit it into my mind, that everything is logical.	encaixar isso na minha mente, que tudo é lógico.
+320	I also understand that a person has a limited mind, he has no	Eu também entendo que a pessoa tem uma mente limitada, não tem
+321	power to understand even the secrets of a single atom,	capacidade de entender nem os segredos de um único átomo,
+322	of a single cell in the body. I don't understand. I can't	de uma única célula do corpo. Eu não entendo. Não consigo
+323	grasp the essence of the sun and how it	apreender a essência do sol e como ele
+324	functions. The sun alone is something awesome,	funciona. Só o sol já é algo assombroso,
+325	awesome. After thousands of years we are still	assombroso. Depois de milhares de anos ainda estamos
+326	contemplating: what is the secret of light? What is the depth of light?	contemplando: qual é o segredo da luz? Qual é a profundidade da luz?
+327	Today in physics it is one of the greatest	Hoje, na física, é um dos maiores
+328	paradoxes, and I think I will understand it only through the One	paradoxos, e acho que só o entenderei por meio d'Aquele
+329	who created the sun.	que criou o sol.
+330	But the fact that I don't understand only tells me that I have here	Mas o fato de eu não entender só me diz que tenho aqui
+331	the opportunity to nullify myself	a oportunidade de me anular
+332	to the Infinite.	diante do Infinito.
+333	And in halachah, when we say bitul, it does not mean	E na halachá, quando dizemos bitul, não quer dizer
+334	you don't exist. Bitul means you become a part	que você não existe. Bitul quer dizer que você se torna parte
+335	…	…
+336	of what you are nullified to. As there is in halachah	daquilo a que você se anula. Como existe na halachá
+337	bitul b'shishim: if a drop of milk falls into a pot	o bitul beshishim: se uma gota de leite cai numa panela
+338	of cholent, a whole pot,	de cholent, uma panela inteira,
+339	there is 60 times as much cholent as the milk, the milk is nullified, says the Rosh,	há 60 vezes mais cholent que leite, o leite é anulado, diz o Rosh,
+340	in Tractate Chullin. Many are now learning Tractate Chullin.	no tratado de Chulin. Muitos estão estudando agora o tratado de Chulin.
+341	The forbidden thing becomes like the permitted. What is bitul?	O proibido passa a ser como o permitido. O que é bitul?
+342	That the milk becomes meat, because there is a	Que o leite se torna carne, porque há uma
+343	powerful quantity of meat; it is nullified, one in sixty. So what is bitul	quantidade poderosa de carne; é anulado, um em sessenta. Então o que é bitul
+344	toward the Creator? That you become a part of the Creator.	diante do Criador? Que você se torna parte do Criador.
+345	So bitul means that I am a reflection of something	Então bitul quer dizer que eu sou um reflexo de algo
+346	infinite, and there is purpose and there is meaning, and even	infinito, e há propósito e há sentido, e até
+347	in the depths of my suffering. King David says in Psalm 23	na profundeza do meu sofrimento. O rei David diz no Salmo 23
+348	in Tehillim: "Even when I walk through the valley of the shadow of death, I will fear no evil, for	em Tehilim: "Mesmo que eu ande pelo vale da sombra da morte, não temerei mal algum, pois
+349	You are with me," or in Tehillim 139: "If I ascend to heaven, You are there;	Tu estás comigo", ou em Tehilim 139: "Se subo aos céus, Tu estás lá;
+350	and if I make my bed in Sheol, behold, You are there." And so I	e se faço meu leito no Sheol, eis que Tu estás lá." E por isso eu
+351	will trust in You. And some will say: naivety. Yes, you want	confiarei em Ti. E haverá quem diga: ingenuidade. Sim, você quer
+352	to be naive.	ser ingênuo.
+353	Happy is the believer. I am too smart, I am sophisticated,	Feliz do crente. Eu sou esperto demais, sou sofisticado,
+354	I am a sophisticate, I am cunning, I am not some fool	sou refinado, sou astuto, não sou um tolo
+355	who goes like a sheep to the slaughter with all the religious	que vai como ovelha ao matadouro com todos os religiosos
+356	and the Haredim, who believe because they were brainwashed.	e os haredim, que acreditam porque lhes lavaram o cérebro.
+357	Nobody brainwashes me. I am	Ninguém me lava o cérebro. Eu sou
+358	an individual, I am a developed person, I am sophisticated,	um indivíduo, sou uma pessoa desenvolvida, sou sofisticado,
+359	I love science, I understand a bit about creation,	amo a ciência, entendo um pouco da criação,
+360	I am not just a fool who believes grandmother's tales, what	não sou simplesmente um bobo que acredita em histórias de avó, o que
+361	they call in Yiddish "maysehs."	em iídiche se chama "maysehs".
+362	But anyone with a brain in his head knows that this is just	Mas quem tem um cérebro na cabeça sabe que isso é só
+363	a defense mechanism. Some time ago a teenager came to me	um mecanismo de defesa. Há algum tempo veio a mim um jovem
+364	who declared himself an atheist.	que se declarou ateu.
+365	An atheist. Yes. In Hebrew slang they call this "chozer	Ateu. Sim. Na gíria hebraica isso se chama "chozer
+366	bishe'elah." There is a chozer bit'shuvah and a chozer bishe'elah.	bishe'elá". Há o chozer bitshuvá e o chozer bishe'elá.
+367	But it is truly a joke. Because true teshuvah is	Mas é de fato uma piada. Porque a verdadeira teshuvá
+368	not that there are no questions. It is that the questions are	não é não haver perguntas. É que as perguntas são
+369	real questions. They are deep questions. And the biggest	perguntas reais. São perguntas profundas. E a maior
+370	question is: why do I think that with my limited mind	pergunta é: por que eu acho que com a minha mente limitada
+371	I can understand the secrets of creation and the secrets of	posso entender os segredos da criação e os segredos da
+372	history, you know, the mysteries of the world, you know the	história, os mistérios do mundo, os
+373	dreams of every living being? We don't even understand the	sonhos de todo ser vivo? Nem sequer entendemos o
+374	mystery of light, as I said. Biology,	mistério da luz, como eu disse. Biologia,
+375	physiology, astronomy, every drop, every leaf	fisiologia, astronomia, cada gota, cada folha
+376	on the tree is awesome.	da árvore é assombrosa.
+377	Just learn a little about your DNA and you will be amazed.	Basta estudar um pouco sobre o seu DNA e você ficará pasmo.
+378	So I said to this young man; he asked me: Rabbi,	Então eu disse a esse jovem; ele me perguntou: rabino,
+379	Yosef Yitzchak, wow, why are you not	Yosef Yitzchak, uau, por que o senhor não é
+380	an atheist? You seem like a somewhat intelligent man.	ateu? O senhor parece um homem um pouco inteligente.
+381	…	…
+382	Why aren't you an atheist? Why do you believe in this?	Por que o senhor não é ateu? Por que acredita nisso?
+383	he asks me.	ele me pergunta.
+384	I took note of his compliment: I seem somewhat intelligent.	Registrei o elogio dele: eu pareço um pouco inteligente.
+385	What he said, I don't remember the exact words, but	O que ele disse, não me lembro das palavras exatas, mas
+386	that is how it was; he wanted to know. I told him in English.	foi assim; ele queria saber. Disse a ele em inglês.
+387	He had come to visit me. I told him: to tell you the	Ele tinha vindo me visitar. Eu disse: para dizer a
+388	truth, I don't have enough blind faith to	verdade, eu não tenho fé cega suficiente para
+389	be an atheist.	ser ateu.
+390	I don't have so much	Eu não tenho tanta
+391	blind faith to be an atheist. To believe today	fé cega para ser ateu. Para crer hoje
+392	that there is no Creator, no purpose, no design	que não há Criador, nem propósito, nem planejamento
+393	in creation, you need a great, great deal of faith. Just	na criação, é preciso muitíssima fé. Basta
+394	study what came after the Big Bang, the fine-tuning, what	estudar o que veio depois do Big Bang, o ajuste fino, o que
+395	had to happen for the universe to develop from the Big	teve que acontecer para o universo se desenvolver a partir do Big
+396	Bang. To believe that everything was	Bang. Acreditar que tudo foi
+397	an accident. That's fine, believe it, but that takes	por acaso. Tudo bem, acredite nisso, mas isso exige
+398	an awesome and wonderful faith, much, much greater than the faith	uma fé assombrosa e maravilhosa, muito, muito maior que a fé
+399	that there is a Creator.	de que há um Criador.
+400	And so, every detail; there is no detail in creation that does not show	E assim, cada detalhe; não há detalhe na criação que não mostre
+401	the wisdom of the design, there is no detail at all that does not	a sabedoria do plano, não há detalhe algum que não
+402	indicate that there is a Creator here. I told him: I don't have	indique que há um Criador aqui. Eu disse a ele: não tenho
+403	such faith. Faith is not naivety. Faith	tanta fé assim. Fé não é ingenuidade. A fé
+404	demands courage, every single day, to defy	exige coragem, todo santo dia, para desafiar
+405	everything that I see with my eyes.	tudo o que vejo com os meus olhos.
+406	I choose	Eu escolho
+407	to believe that it is the nature of the Good to do good, and "ein od milvado," and everything	crer que a natureza do Bom é fazer o bem, e "ein od milvado", e que tudo
+408	is a part	é parte
+409	of divinity.	da divindade.
+410	The Alter Rebbe, the great friend, the good friend of Rabbi	O Rebe Alter, o grande amigo, o bom amigo de Rabi
+411	Nachman, in Tanya chapter 47,	Nachman, no Tanya, capítulo 47,
+412	says something amazing, and in my personal life it	diz algo incrível, e na minha vida pessoal isso
+413	changed my life, not when I understood what he writes but	mudou a minha vida, não quando entendi o que ele escreve, mas
+414	when I merited to taste a bit of what he writes.	quando tive o mérito de provar um pouco do que ele escreve.
+415	And he says there, I'll say it in my own words,	E ele diz ali, vou dizer com minhas palavras,
+416	that every single day we have a gift, and the gift is	que todo dia temos um presente, e o presente é
+417	to say Shema Yisrael, HaShem Elokeinu, HaShem Echad: to fulfill	dizer Shemá Yisrael, HaShem Elokeinu, HaShem Echad: cumprir
+418	the mitzvah of reading the Shema, that is, to accept the yoke of	a mitsvá de recitar o Shemá, isto é, aceitar o jugo do
+419	Heaven, that is, to internalize the foundation of the unity of HaShem,	Reino dos Céus, isto é, interiorizar o fundamento da unidade de HaShem,
+420	that there is none besides Him. But he says there is one condition:	que não há outro além d'Ele. Mas ele diz que há uma condição:
+421	you have to want to.	você precisa querer.
+422	If a person wants, he can choose to accept the yoke of	Se a pessoa quer, ela pode escolher aceitar o jugo do
+423	the Kingdom of Heaven, and then he lives in a world of unity and harmony.	Reino dos Céus, e então vive num mundo de unidade e harmonia.
+424	But if he doesn't want to, he doesn't want to finish the	Mas se ele não quer, ele não quer terminar a
+425	sentence. He says, I'll let you finish the sentence	frase. Ele diz: deixo que você termine a frase
+426	yourself. That is, in the world there is evidence for both sides.	sozinho. Ou seja, no mundo há provas para um lado e para o outro.
+427	In the world every single moment is a miracle. That I am speaking	No mundo, cada momento é um milagre. Que eu esteja falando
+428	to you now is a miracle. Every movement in life, every	com vocês agora é um milagre. Cada movimento na vida, cada
+429	breath, "on every breath, a soul," every soul's praise,	respiração, "sobre cada respiração, uma alma", todo louvor da alma,
+430	is a miracle. "Who opens the eyes of the blind," "who raises those bowed down."	é um milagre. "Que abre os olhos dos cegos", "que levanta os encurvados".
+431	I had surgery a while ago on my right	Fiz uma cirurgia há algum tempo no meu olho
+432	eye. Today I say "who opens the eyes of the blind," and I	direito. Hoje digo "que abre os olhos dos cegos", e
+433	do not take it for granted.	não considero isso algo óbvio.
+434	But in the world there is evidence for both sides, and there are many	Mas no mundo há provas para um lado e para o outro, e há muitos
+435	barriers, and there are many tragedies, and many things	obstáculos, e há muitas tragédias, e muitas coisas
+436	that we do not understand. I don't need to tell you.	que não entendemos. Não preciso contar a vocês.
+437	The Alter Rebbe tells us: you have to choose every	O Rebe Alter nos diz: você precisa escolher todo
+438	day which world you want to choose, because "ein od	dia em qual mundo quer viver, porque "ein od
+439	milvado" is the reality. But I have to choose whether	milvado" é a realidade. Mas eu preciso escolher se
+440	I want to choose to say: this world is a world	quero escolher dizer: este mundo é um mundo
+441	of chaos, of tohu vavohu, a world where man is	de caos, de tohu vavohu, um mundo onde o homem é
+442	just like the beast, with no purpose at all, no	igual ao animal, sem propósito algum, sem
+443	meaning, everything is random, and maybe	sentido, tudo é acaso, e talvez
+444	you have a little more luck than him, and maybe you have more	você tenha um pouco mais de sorte que ele, e talvez você tenha mais
+445	luck than him. I can choose that. And then I	sorte que ele. Eu posso escolher isso. E então eu
+446	live, says Rabbi Nachman of Breslov, with the greatest burden,	vivo, diz Rabi Nachman de Breslev, com o maior fardo,
+447	the burden of heaviness, that presses on me every single moment,	o fardo do peso, que me pressiona a cada instante,
+448	with no moment of security, of inner peace of mind.	sem um momento de segurança, de paz de espírito interior.
+449	And especially if I am a sensitive person, and especially if I have gone through	E principalmente se sou uma pessoa sensível, e principalmente se passei por

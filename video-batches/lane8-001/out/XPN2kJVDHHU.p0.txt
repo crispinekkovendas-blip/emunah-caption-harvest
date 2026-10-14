@@ -1,0 +1,450 @@
+0	A big businessman once asked me,	Um empresário importante me perguntou uma vez,
+1	with businesses turning over hundreds of millions of dollars. He asked me	com negócios que movimentam centenas de milhões de dólares. Ele me fez
+2	an interesting question. He says: if I have a worker who is	uma pergunta interessante. Ele diz: se eu tenho um empregado que é
+3	an incorrigible saboteur, who simply undermines me	um sabotador incorrigível, que simplesmente trabalha contra mim
+4	and causes me big losses in business, helps	e me causa grandes prejuízos nos negócios, ajuda
+5	my competitors, makes me trouble, I have no question	meus concorrentes, me cria problemas, não tenho dúvida
+6	that morally I may, and perhaps must, throw	de que moralmente eu posso, e talvez deva, mandar
+7	him out. Fine. But my question, he says,	ele embora. Certo. Mas a minha pergunta, diz ele,
+8	is: what if I have a worker who is loyal and tries	é: e se eu tenho um empregado que é leal e se esforça
+9	to do faithful and good work, but	para fazer um trabalho fiel e bom, mas
+10	he simply doesn't have	simplesmente não tem
+11	the skills? He makes mistakes, he doesn't want to, he	a competência? Ele erra, ele não quer, ele
+12	doesn't mean to, but he gets confused, he causes me	não tem a intenção, mas se confunde, me causa
+13	losses, but not on purpose, the poor guy. Morally,	prejuízos, mas sem querer, coitado. Do ponto de vista moral,
+14	can I get rid of him? And then	posso me livrar dele? E depois
+15	he says: I have another question. Even if	ele diz: tenho outra pergunta. Mesmo que
+16	I can get rid of this man because he simply	eu possa me livrar desse homem porque ele simplesmente
+17	isn't capable enough, what if the reality is different:	não é tão capaz, e se a realidade for outra:
+18	a worker who does good work, faithful work, he	um empregado que faz um bom trabalho, um trabalho fiel, ele
+19	doesn't make mistakes, he knows what he's doing, he	não erra, sabe o que faz, ele
+20	is fine. But one day I suddenly find someone	está bem. Mas um dia, de repente, encontro alguém
+21	who has talents and skills much better	que tem talentos e habilidades muito melhores
+22	than the first worker. It's not that the first does bad	que os do primeiro empregado. Não é que o primeiro faça um trabalho
+23	work, he does good work, but I want	ruim, ele faz um bom trabalho, mas eu quero
+24	someone simply much more successful and skilled for this	alguém simplesmente muito mais competente e habilidoso para este
+25	job. Does this give me moral justification to get rid of	trabalho. Isso me dá justificativa moral para me livrar
+26	the first worker? That is	do primeiro empregado? Essa é
+27	the question. An interesting question, I told him; truly I don't	a pergunta. Pergunta interessante, eu disse; na verdade eu não
+28	know, I'm not an expert in this topic, and it truly	sei, não sou especialista neste assunto, e realmente
+29	requires study and investigation. But I'll tell you something very	exige estudo e investigação. Mas vou lhe dizer algo muito
+30	interesting: there is a Mishnah in the Talmud,	interessante: há uma Mishná no Talmud,
+31	in the Mishnayot, where our Sages of blessed memory speak precisely about	nas Mishnayot, em que nossos Sábios de abençoada memória falam exatamente sobre
+32	this question, but regarding a much more fateful and	essa questão, mas a respeito de algo muito mais decisivo e
+33	much more vital and basic matter,	muito mais vital e básico,
+34	the institution of marriage	a instituição do casamento
+35	and divorce. One of the tractates in the Talmud is Gittin.	e do divórcio. Um dos tratados do Talmud é Guitin.
+36	The last Mishnah in the tractate of Gittin, page 90a,	A última Mishná do tratado de Guitin, página 90a,
+37	deals with the very big question: what are the conditions	trata da grande questão: quais são as condições
+38	that justify divorce between a man and a woman. Everyone	que justificam o divórcio entre um homem e uma mulher. Todos
+39	understands that there are	entendem que há
+40	sometimes tragedies where there is no choice, sometimes there is	às vezes tragédias em que não há escolha, às vezes há
+41	danger to life, there is abuse,	risco de vida, há abuso,
+42	and so on. But in circumstances where there's no danger to life, what are	e assim por diante. Mas em circunstâncias sem risco de vida, quais são
+43	the conditions that justify a get? And of course, as in most	as condições que justificam um guet? E, claro, como na maioria
+44	of the Mishnayot, there is	das Mishnayot, há
+45	a dispute here too, a dispute in the Mishnah	uma discussão aqui também, uma discussão na Mishná,
+46	of the last Mishnah of Gittin, and the dispute is between Beit	a última Mishná de Guitin, e a discussão é entre Beit
+47	Shamai, Beit Hillel and Rabbi Akiva. Beit Shamai was	Shamai, Beit Hillel e Rabi Akiva. Beit Shamai era
+48	the house of study, the school founded by Shamai	a casa de estudo, a escola fundada por Shamai,
+49	the Elder. Beit Hillel is the house of study of Hillel, who founded	o Ancião. Beit Hillel é a casa de estudo de Hillel, que a fundou,
+50	Hillel	Hillel,
+51	the Elder. Shamai's house of study followed his opinion, his	o Ancião. A casa de estudo de Shamai seguia a opinião dele, o espírito
+52	spirit, Shamai's approaches, and Beit Hillel followed	dele, os métodos de Shamai, e Beit Hillel seguia
+53	the approaches of Hillel	os métodos de Hillel,
+54	the Elder. Afterwards came Rabbi Akiva, and here we are speaking	o Ancião. Depois veio Rabi Akiva, e aqui estamos falando
+55	of the period, the end of the Second Temple period, and the first period	do período, o final do Segundo Templo, e do primeiro período
+56	after the destruction of the Second Temple. Let's see what the dispute is.	depois da destruição do Segundo Templo. Vamos ver qual é a discussão.
+57	So I quote word for word from the Mishnah in tractate Gittin,	Então cito palavra por palavra a Mishná no tratado de Guitin,
+58	page 90: Beit Shamai say, a man shall not divorce	página 90: Beit Shamai dizem, um homem não deve se divorciar
+59	his wife unless he found in her ervat davar, as it says,	de sua esposa a menos que tenha achado nela ervat davar, como está dito:
+60	"for he found in her ervat davar." That is, Beit Shamai quotes here	"por ter achado nela ervat davar". Ou seja, Beit Shamai cita aqui
+61	a verse from Parashat Ki Teitzei. The Torah says: "When a man takes	um versículo da Parashá de Ki Tetsê. A Torá diz: "Quando um homem tomar
+62	a wife... and it shall be, if she finds no favor in his eyes, because	uma mulher... e se ela não achar graça aos seus olhos, por ter
+63	he found in her ervat davar, and he writes her a bill of divorce and puts it	achado nela ervat davar, e lhe escrever um documento de divórcio e o puser
+64	in her hand and sends her from his house, and she leaves his house and goes and becomes	na sua mão e a despedir de sua casa, e ela sair de sua casa, for e se tornar
+65	another man's." Beit Shamai says: listen well	de outro homem." Beit Shamai diz: ouça bem
+66	to the words of the Torah: "and it shall be if she finds no favor	as palavras da Torá: "e se ela não achar graça
+67	in his eyes because he found in her ervat davar", there was a matter	aos seus olhos por ter achado nela ervat davar", houve aqui uma questão
+68	of ervah here, there was a matter of betrayal in the institution of	de ervá, houve uma questão de traição na instituição do
+69	marriage, Merciful One save us. So this justifies divorce.	casamento, que o Misericordioso nos livre. Então isso justifica o divórcio.
+70	Now a person can divorce	Agora, uma pessoa pode se divorciar
+71	only if there is a breach of fidelity. Beit Hillel	somente se houver quebra de fidelidade. Beit Hillel
+72	say, even if she burned	diz, mesmo que ela tenha queimado
+73	his dish, even if she burned his	o prato dele, mesmo que ela tenha queimado a comida
+74	food,	dele,
+75	it justifies divorce, as it says "ervat davar."	isso justifica o divórcio, como está dito "ervat davar".
+76	That is, as Rashi explains it, the Torah does not say	Ou seja, como Rashi explica, a Torá não diz
+77	"ervah" alone, but "ervat davar." Beit	apenas "ervá", mas "ervat davar". Beit
+78	Hillel interpret this as two things: "he found ervah," and even	Hillel interpreta como duas coisas: "achou ervá" e até
+79	another thing; even if there is something else that worries him,	outra coisa; mesmo que haja algo mais que o preocupe,
+80	that stresses him, that causes him suffering: she burned	que o pressione, que lhe cause sofrimento: ela queimou
+81	his dish, she burned	o prato dele, ela queimou
+82	his food, he may divorce her. Rabbi Akiva says, even if he found another more beautiful	a comida dele, ele pode se divorciar dela. Rabi Akiva diz, mesmo que ele tenha achado outra mais bela
+83	than her,	do que ela,
+84	as it says, "and it shall be if she finds no favor in his eyes."	como está dito: "e se ela não achar graça aos seus olhos."
+85	That is, Rabbi Akiva	Ou seja, Rabi Akiva
+86	says, again let us listen to the Torah, to the words, what is written: "and it shall be	diz, de novo vamos ouvir a Torá, as palavras, o que está escrito: "e será
+87	if she finds no favor in his eyes because he found in her ervat davar,	se ela não achar graça aos seus olhos por ter achado nela ervat davar,
+88	and he writes her a bill of divorce and puts it in her hand, and sends her from his house,"	e lhe escrever um documento de divórcio e o puser na sua mão, e a despedir de sua casa,"
+89	and so on. Rabbi Akiva says, it is not written	e assim por diante. Rabi Akiva diz, não está escrito
+90	simply "when a man takes a wife," or "her husband, and if he finds	simplesmente "quando um homem tomar uma mulher", ou "o marido dela, e se achar
+91	ervat davar, he gives her a bill of divorce." It is written "and it shall be	ervat davar, lhe dá um documento de divórcio". Está escrito "e será
+92	if she finds no favor in his eyes." So the meaning is:	se ela não achar graça aos seus olhos." Então o sentido é:
+93	even if there was none, there was no	mesmo que não tenha havido nada, não tenha havido
+94	ervah, there was no	ervá, não tenha havido
+95	betrayal in the marriage, in fidelity; even if she didn't burn	traição no casamento, na fidelidade; mesmo que ela não tenha queimado
+96	his dishes, but one day he finds another woman,	a comida dele, mas um dia ele encontra outra mulher,
+97	more beautiful than her, she doesn't find favor	mais bela que ela, ela não acha graça
+98	in his eyes, says Rabbi Akiva, he may divorce	aos olhos dele, diz Rabi Akiva, ele pode se divorciar de
+99	his wife. These are the words of the Mishnah at the end of Gittin, and here I	sua esposa. Estas são as palavras da Mishná no fim de Guitin, e aqui eu
+100	ask you, my brothers and sisters, gentlemen, a simple question	pergunto a vocês, meus irmãos e irmãs, senhores, uma pergunta simples
+101	and an enormous question. I can understand well the position	e uma pergunta enorme. Consigo entender bem a posição
+102	of Beit Shamai. Beit Shamai says, even if there are differences	de Beit Shamai. Beit Shamai diz, mesmo que haja divergências
+103	of opinion, even if there are challenges, even if	de opinião, mesmo que haja desafios, mesmo que
+104	there are complications, every couple has things, has problems, has	haja complicações, todo casal tem coisas, tem problemas, tem
+105	shortcomings,	defeitos,
+106	the only couples I know who are perfect are	os únicos casais que conheço que são perfeitos são
+107	those I don't know.	aqueles que eu não conheço.
+108	But as long as	Mas enquanto
+109	the red lines are not crossed, there is	as linhas vermelhas não forem cruzadas, há
+110	basic fidelity between husband and wife, he did not find	fidelidade básica entre marido e mulher, ele não achou
+111	ervat davar, there is no justification	ervat davar, não há justificativa
+112	for divorce. OK, I understand that. But what is the plain meaning of	para o divórcio. Certo, entendo isso. Mas qual é o sentido simples de
+113	Beit Hillel? I come back	Beit Hillel? Eu volto
+114	home, my wife burned my food. Fine,	para casa, minha esposa queimou a minha comida. Tudo bem,
+115	we're going to divorce? That's a justification for divorce?	vamos nos divorciar? Isso é justificativa para o divórcio?
+116	That really is Beit Hillel's view, and you know that generally	Essa realmente é a posição de Beit Hillel, e vocês sabem que, em geral,
+117	in halachah, when there's a dispute between Beit Shamai and Beit	na halachá, quando há uma discussão entre Beit Shamai e Beit
+118	Hillel, the halachah follows Beit Hillel. What is meant? And especially	Hillel, a halachá segue Beit Hillel. O que isso quer dizer? E ainda mais
+119	Hillel, who is the one who says in Pirkei Avot, yes, Hillel says	Hillel, que é quem diz em Pirkei Avot, sim, Hillel diz
+120	in Pirkei Avot, chapter one: Be of the disciples of	em Pirkei Avot, capítulo um: Seja dos discípulos de
+121	Aaron, loving peace, pursuing peace, loving people.	Aarão, amando a paz, buscando a paz, amando as criaturas.
+122	And in Avot de-Rabbi Natan it is explained, it is told	E em Avot de Rabi Natan é explicado, é contado
+123	that Aaron the Kohen spent most of his time of service	que Aarão, o Cohen, passava a maior parte do seu tempo
+124	bringing peace between husband and wife, between a person and his fellow.	trazendo paz entre marido e mulher, entre uma pessoa e seu próximo.
+125	So Beit Hillel, those who follow Hillel's approach, a man	Então Beit Hillel, os que seguem o método de Hillel, homem
+126	of love, a man of peace, a man of kindness, lovers of peace, pursuers of	de amor, homem de paz, homem de bondade, amantes da paz, que buscam a
+127	peace, they say: she burned the dishes? That's it,	paz, dizem: ela queimou a comida? Pronto,
+128	divorce? Something here doesn't make sense.	divórcio? Há algo aqui que não se entende.
+129	Here many of the commentators on the Mishnah and in the Shulchan	Aqui muitos dos comentaristas da Mishná e do Shulchan
+130	Arukh, Even HaEzer, explain that Beit Hillel means	Arukh, Even HaEzer, explicam que Beit Hillel se refere
+131	to her doing it on purpose, not that	a ela fazer isso de propósito, não que
+132	she was busy with the children or with something else, working	ela estivesse ocupada com as crianças ou com outra coisa, trabalhando
+133	on something and the food burned; it speaks of a case where she	em algo e a comida queimou; fala-se de um caso em que ela
+134	simply wants to burn his food, she wants	simplesmente quer queimar a comida dele, quer
+135	to cause him suffering, to give him troubles	lhe causar sofrimento, lhe dar problemas
+136	and more. So some explain that it's simply	e mais. Então alguns explicam que é simplesmente
+137	a matter of intent. But there is here, there is here a	uma questão de intenção. Mas há aqui, há aqui um
+138	problem,	problema,
+139	a serious one. OK, that is the first point.	sério. Certo, este é o primeiro ponto.
+140	Why, why do they say "even if she burned	Por que, por que dizem "mesmo que ela tenha queimado
+141	his dish"? They could say even if there was no	o prato dele"? Poderiam dizer mesmo que não houvesse
+142	betrayal but she behaves in an improper way. Why	traição mas ela se comporte de maneira inadequada. Por que
+143	did he take this example of food, of burning	ele pegou este exemplo de comida, de queimar
+144	food? As Rashi says, "burned" means either she burns	a comida? Como diz Rashi, "queimou" quer dizer que ou ela queima
+145	the dishes or she puts in too much salt,	a comida ou coloca sal demais,
+146	it becomes salty, impossible to taste it.	fica salgada, impossível de provar.
+147	But let's go to the third position, Rabbi Akiva.	Mas vamos à terceira posição, Rabi Akiva.
+148	Even if we explain Beit Hillel's view as intentional, OK,	Mesmo que expliquemos a posição de Beit Hillel como intencional, certo,
+149	but what about Rabbi Akiva? How are we supposed	mas e Rabi Akiva? Como devemos
+150	to grasp Rabbi Akiva's position? Did he	entender a posição de Rabi Akiva? Será que ele
+151	truly believe that? Is that what he would say	realmente acreditava nisso? Era isso que ele diria
+152	to his children, to his students: you	aos seus filhos, aos seus alunos: você
+153	are married, you have a good wife, you have a faithful wife; the	é casado, tem uma boa esposa, tem uma esposa fiel; a
+154	food she didn't burn, she is faithful to you, there is no	comida ela não queimou, ela é fiel a você, não há
+155	ervat davar. But one day you find another	ervat davar. Mas um dia você encontra outra
+156	woman who in your opinion is more beautiful	mulher que, na sua opinião, é mais bela
+157	than your wife; this is truly a reason to divorce? That's what Rabbi	do que a sua esposa; isso realmente é motivo para se divorciar? Foi isso que Rabi
+158	Akiva said? This came out of the mouth of Rabbi	Akiva disse? Isso saiu da boca de Rabi
+159	Akiva. How can we understand this? I would	Akiva. Como podemos entender isso? Eu faria
+160	ask this question about any Tanna who said	essa pergunta sobre qualquer Tana que dissesse
+161	it, but when it comes to Rabbi Akiva	isso, mas quando se trata de Rabi Akiva
+162	the wonder grows much stronger. Let us remember who	o espanto fica muito maior. Vamos lembrar quem
+163	Rabbi Akiva is. What is Rabbi Akiva's history?	é Rabi Akiva. Qual é a história de Rabi Akiva?
+164	The Gemara in tractate	A Guemará no tratado de
+165	Ketubot, a bit before tractate Gittin, and many of the	Ketubot, um pouco antes do tratado de Guitin, e muitos dos
+166	Jewish people are now learning tractate Ketubot,	filhos de Israel estão estudando agora o tratado de Ketubot,
+167	and in these days they will learn this story, on	e nestes dias vão estudar esta história, na
+168	page 62. Rabbi Akiva was a simple man, didn't know how to learn,	página 62. Rabi Akiva era um homem simples, não sabia estudar,
+169	didn't even know aleph. He truly was an ignoramus,	não conhecia nem o alef. Ele realmente era um ignorante,
+170	he simply didn't know how to learn at all, he was a	simplesmente não sabia estudar de modo algum, era um
+171	good man, he was	bom homem, ele era
+172	a shepherd. And there was a girl named Rachel, and she looked at	pastor. E havia uma moça chamada Rachel, e ela olhou para
+173	Rabbi Akiva and saw something special in him, and she	Rabi Akiva e viu nele algo especial, e ela
+174	was the daughter of the nagid of the generation, her father was Kalba	era filha do nagid da geração, o pai dela era Kalba
+175	Savua. They say that anyone who entered his house, even	Savua. Dizem que qualquer um que entrasse na casa dele, mesmo
+176	starving like a dog, would leave sated; you shall eat	faminto como um cão, saía saciado; "comerás
+177	and be satisfied. He was one of the wealthiest and most	e te saciarás". Ele era um dos mais ricos e mais
+178	famous rich men in the Land of Israel at the end of the Second Temple period,	famosos da Terra de Israel no final do período do Segundo Templo,
+179	and he gave tzedakah abundantly, and he was a man of lineage, a	e dava tsedacá em abundância, e era um homem de linhagem, um
+180	respected man, a noble man, an extremely important man.	homem respeitado, nobre, extremamente importante.
+181	And he had a daughter, and this daughter married a	E ele tinha uma filha, e essa filha se casou com um
+182	simple am haaretz who didn't know how to learn, to the point	simples am haárets que não sabia estudar, a tal ponto
+183	that he banned her, he cut them off from his property, he	que ele a baniu, excluiu-os de seus bens,
+184	made a vow that she and her husband Akiva would not benefit from a	fez um voto de que ela e seu marido Akiva não se beneficiariam de uma
+185	penny of his property. That is, this girl gave up	moeda sequer dos bens dele. Ou seja, essa moça
+186	her	entregou a sua
+187	life; she was forced to cut off contact with her father,	vida; ela foi obrigada a cortar o contato com o pai,
+188	not by her choice but by his choice. Later he annulled	não por escolha dela, mas por escolha dele. Depois ele anulou
+189	his vow, but that's another story. Because of	o seu voto, mas isso é outra história. Por causa de
+190	Rabbi Akiva. And what happened next? She saw	Rabi Akiva. E o que aconteceu depois? Ela enxergou
+191	the abilities, the potential within Rabbi Akiva's soul,	as capacidades, o potencial dentro da alma de Rabi Akiva,
+192	and sent him to learn for 12 years, then	e o mandou estudar por 12 anos, depois
+193	sent him to learn another 12 years, and after 24 years	o mandou estudar mais 12 anos, e depois de 24 anos
+194	he returned home with 24 thousand students. And when	ele voltou para casa com 24 mil alunos. E quando
+195	Rachel went out to greet	Rachel saiu para recebê-lo,
+196	him, and she reached Rabbi Akiva, the students	e chegou até Rabi Akiva, os alunos
+197	didn't know who she was and thought she was some woman	não sabiam quem ela era e pensaram que era alguma mulher
+198	who had come	que tinha vindo
+199	here improperly. What does Rabbi Akiva say to the 24	aqui sem razão. O que Rabi Akiva diz aos 24
+200	thousand students?	mil alunos?
+201	Four words: Mine	Quatro palavras: o que é meu
+202	and yours	e o que é de vocês,
+203	are hers. Everything belongs	é dela. Tudo pertence
+204	to her. All that you see in me, all that you see	a ela. Tudo o que vocês veem em mim, tudo o que vocês veem
+205	in yourselves, everything belongs to this woman. She is the one	em vocês mesmos, tudo pertence a esta mulher. Foi ela quem
+206	who created me, she is the one	me criou, foi ela quem
+207	who formed me, she made me what I am	me formou, ela me fez o que eu sou
+208	today. I ask you, Rabbi Akiva knew who his wife was,	hoje. Pergunto a vocês: Rabi Akiva sabia quem era a sua esposa,
+209	who Rachel was; he experienced it in his own flesh. This	quem era Rachel; ele viveu isso na própria pele. Esta
+210	is his ruling in the Mishnayot: that's how one divorces, because he	é a sentença dele nas Mishnayot: assim se divorcia, porque ele
+211	found another? He, who knew what devotion is between	achou outra? Ele, que sabia o que é a dedicação entre
+212	a woman and a man? Moreover, there is a Gemara, a lengthy Talmud	uma mulher e um homem? Mais ainda, há uma Guemará, um longo Talmud
+213	in tractate Shabbat, page 25b: Who is	no tratado de Shabat, página 25b: Quem é
+214	rich? What makes me rich? Of course	rico? O que me torna rico? Claro
+215	there is a dispute. Rabbi Meir says, whoever has contentment	que há uma discussão. Rabi Meir diz: quem tem satisfação
+216	in his wealth. There are those who have a lot of money but	com a sua riqueza. Há os que têm muito dinheiro mas
+217	not a moment of satisfaction, not a moment of calm.	não têm um momento de satisfação, um momento de tranquilidade.
+218	There is always ambition: I need another million and another	Sempre há ambição: preciso de mais um milhão e mais um
+219	billion. There is no contentment. The richer you	bilhão. Não há satisfação. Quanto mais rico
+220	are, the more fear and more pressure.	você é, mais medo e mais pressão.
+221	That's Rabbi Meir's view. Rabbi Tarfon says, who is	Essa é a posição de Rabi Meir. Rabi Tarfon diz: quem é
+222	rich? Whoever has 100 vineyards, 100 fields and 100	rico? Quem tem 100 vinhedos, 100 campos e 100
+223	servants working in them.	servos que trabalham neles.
+224	Rabbi Yosi says, who is rich? Whoever has	Rabi Yossi diz: quem é rico? Quem tem
+225	a toilet near his table. That was already wealth	um banheiro perto da sua mesa. Isso já era riqueza
+226	in Talmudic times. Rabbi Akiva says,	no tempo do Talmud. Rabi Akiva diz:
+227	listen to this: who is rich? Whoever has a wife who is pleasant	escutem: quem é rico? Quem tem uma esposa agradável
+228	in her deeds. There is no greater wealth than this.	nos atos. Não há riqueza maior do que esta.
+229	You have a lot of money, you don't have a lot of money, you have	Você tem muito dinheiro, não tem muito dinheiro, tem
+230	a wife pleasant in her deeds, says Rabbi Akiva, you are	uma esposa agradável nos atos, diz Rabi Akiva, você é
+231	a rich man. Now I ask you, gentlemen:	um homem rico. Agora eu pergunto a vocês, senhores:
+232	this Rabbi Akiva who	este Rabi Akiva que
+233	spoke about this wealth, did not speak only abstractly.	falou dessa riqueza não falou apenas de maneira abstrata.
+234	I guess he spoke also in a personal	Imagino que ele falou também de forma
+235	way, since he tasted it in his own flesh, from his wife	pessoal, pois provou isso na própria carne, de sua esposa
+236	Rachel. He comes and gives us a ruling	Rachel. Ele vem e nos dá uma decisão
+237	of halachah: if you have a wife who is pleasant, and not only physically	de halachá: se você tem uma esposa agradável, e não só fisicamente
+238	pleasant, pleasant in deeds, pleasant morally, pleasant	agradável, agradável nos atos, agradável moralmente, agradável
+239	psychologically, emotionally,	psicologicamente, emocionalmente,
+240	spiritually, and one day you walk down the street and you meet	espiritualmente, e um dia você anda na rua e encontra
+241	someone, you found another pleasant one, truly, says Rabbi Akiva, there is no	alguém, achou outra agradável, de fato, diz Rabi Akiva, não há
+242	problem, divorce: "and it shall be if she finds no favor in his eyes." There is	problema, divorcie-se: "e se ela não achar graça aos seus olhos." Há
+243	someone he finds more charming than me,	alguém que ele acha mais encantadora do que eu,
+244	divorce. I want to tell you something from the gaon	divorcie-se. Quero dizer a vocês algo do gaon
+245	Rabbi Yosef Dov HaLevi Soloveitchik. Rabbi Yosef Dov was the rabbi in	Rabi Yosef Dov HaLevi Soloveitchik. Rabi Yosef Dov foi rabino em
+246	Boston. He was the son of Rabbi Moshe Soloveitchik,	Boston. Ele era filho de Rabi Moshe Soloveitchik,
+247	who was the son of Rabbi Chaim Soloveitchik. Rabbi Chaim	que era filho de Rabi Chaim Soloveitchik. Rabi Chaim
+248	Soloveitchik is also known as Rav Chaim	Soloveitchik é conhecido também como Rav Chaim
+249	of Brisk, Chaim Brisker, was head of the Volozhin yeshiva,	de Brisk, Chaim Brisker, que foi chefe da yeshivá de Volozhin,
+250	and was the son of the Beit HaLevi. Rav Yosef Dov HaLevi	e era filho do Beit HaLevi. Rav Yosef Dov HaLevi
+251	Soloveitchik, head of the	Soloveitchik, chefe da
+252	yeshiva... the Beit HaLevi was rabbi in Slutsk and afterwards rabbi	yeshivá... o Beit HaLevi foi rabino em Slutsk e depois rabino
+253	in Brisk, and the son of the Beit HaLevi was Rav Chaim	em Brisk, e o filho do Beit HaLevi foi Rav Chaim
+254	of Brisk, Rav Chaim Soloveitchik, whose son was	de Brisk, Rav Chaim Soloveitchik, cujo filho foi
+255	Rabbi Moshe, and the grandson who came to Germany	Rabi Moshe, e o neto que foi para a Alemanha
+256	and afterwards to the United States was the chief rabbi of Boston	e depois para os Estados Unidos foi o rabino-chefe de Boston
+257	and head of the yeshiva	e chefe da yeshivá
+258	of Yitzchak Elchanan; he passed away on Pesach 5753, 1993, I think.	de Yitschak Elchanan; ele faleceu em Pessach de 5753, 1993, creio.
+259	I was then in Boston, I went to console the mourners of	Eu estava então em Boston, fui consolar os enlutados da
+260	his family. He was among the famous geonim	família dele. Ele era um dos famosos gaonim
+261	in America. Rabbi Yosef Dov Soloveitchik, the man of Brisk, wrote	da América. Rabi Yosef Dov Soloveitchik, o homem de Brisk, escreveu
+262	many books. He has a book called Adam and His Home,	muitos livros. Ele tem um livro chamado Adam uVeito,
+263	in which he gave talks on marriage, on shalom bayit, on	em que ele deu palestras sobre o casamento, sobre shalom bait, sobre
+264	mitzvot. There I saw an idea and I take	mitsvot. Ali vi uma ideia e eu pego
+265	this idea and develop it a bit, as I understood it,	essa ideia e a desenvolvo um pouco, como eu entendi,
+266	with the help of HaShem, with my mistakes, HaShem will forgive, but	com a ajuda de HaShem, com meus erros, HaShem perdoará, mas
+267	the starting point I took from Rabbi Yosef Dov Solo-	o ponto de partida eu tirei de Rabi Yosef Dov Solo-
+268	veitchik. So let's explain the matters and see here	veitchik. Então vamos explicar as coisas e ver aqui
+269	something	algo
+270	amazing, and perhaps at first you'll think I'm a bit	surpreendente, e talvez de início vocês pensem que estou um pouco
+271	exaggerating, but you will soon see what I mean,	exagerando, mas logo vocês verão o que quero dizer,
+272	with the help of HaShem.	com a ajuda de HaShem.
+273	HaLevi... in our time	HaLevi... em nosso tempo
+274	we would even understand and be sensitive	nós até entenderíamos e seríamos sensíveis
+275	to the level of connection	ao nível de ligação
+276	and love	e de amor
+277	and marriage that the Tannaim had.	e de vida a dois que os Tanaim tinham.
+278	And the wonder that is revealed in this Mishnah in tractate	E o espanto que se revela nesta Mishná no tratado de
+279	Gittin: at first we thought this Mishnah in tractate Gittin	Guitin: no início pensamos que esta Mishná no tratado de Guitin
+280	is very strange, and seems to look at the institution of	é muito estranha, e parece olhar para a instituição do
+281	marriage as something cheap. But when we consider,	casamento como algo barato. Mas quando refletirmos,
+282	we will discover the depth	descobriremos a profundidade
+283	of the matters, we will understand	das coisas, entenderemos
+284	that this must be our hope and our ambition	que esta deve ser a nossa esperança e a nossa ambição
+285	and our goal, to reach the soles of the feet of the	e a nossa meta, chegar à sola dos pés dos
+286	Tannaim	Tanaim
+287	and the teachers. Because in our time we think we	e dos mestres. Porque em nosso tempo achamos que
+288	understand what romance is and what marriage is and what	entendemos o que é romance, o que é vida a dois e o que
+289	love is. But we know that today, with	é amor. Mas sabemos que hoje, com
+290	all the modernity and all the	toda a modernidade e todo o
+291	development, the institution of the family, of marriage has suffered	progresso, a instituição da família, do casamento, sofreu
+292	greatly in recent decades, and I'm not only	muito nas últimas décadas, e não estou falando apenas
+293	speaking about the number of divorces, but even those	do número de divórcios, mas mesmo aqueles
+294	who stay married face pressures and challenges in all	que continuam casados enfrentam pressões e desafios em toda
+295	our community and in the whole world, in all	a nossa comunidade e no mundo inteiro, em toda
+296	humanity. And here we will learn from this Mishnah a bit of how	a humanidade. E aqui aprenderemos desta Mishná um pouco de como
+297	we should look at marriage from the perspective of our Torah,	devemos olhar para o casamento sob a perspectiva da nossa Torá,
+298	Torah of life, Torah of truth, our eternal Torah. So let's	Torá de vida, Torá de verdade, nossa Torá eterna. Então vamos
+299	explain the matter, with the help of HaShem. When speaking about	explicar o assunto, com a ajuda de HaShem. Quando se fala de
+300	divorce, divorce exists on two different	divórcio, o divórcio existe em dois
+301	levels. There is divorce in the legal and technical	níveis diferentes. Há o divórcio no sentido legal e técnico
+302	and halachic sense.	e haláchico.
+303	The husband arranges a get; the get must be written under	O marido providencia um guet; o guet precisa ser escrito em
+304	very precise conditions according to the Jewish halachic	condições muito precisas segundo a tradição haláchica judaica,
+305	tradition, which is very strict about it, and the husband delivers this get	que é muito rigorosa nisso, e o marido entrega esse guet
+306	into the hand of his wife: "and he writes her a bill of divorce	na mão da esposa: "e lhe escreve um documento de divórcio
+307	and puts it in her hand,	e o põe na sua mão,
+308	and she leaves his house and goes and becomes another man's."	e ela sai de sua casa e vai e se torna de outro homem."
+309	And in all of tractate Gittin there are all the laws and all	E em todo o tratado de Guitin há todas as leis e todas
+310	the halachot, very detailed, very numerous,	as halachot, muito detalhadas, muito numerosas,
+311	very complicated and very precise, how to arrange	muito complicadas e muito precisas, como providenciar
+312	a get, how to ensure the get is valid and that there are	um guet, como garantir que o guet seja válido e que haja
+313	witnesses, so that the get be valid, and so on and so forth.	testemunhas, para que o guet seja válido, e assim por diante.
+314	That is divorce in the legal, technical sense. After	Esse é o divórcio no sentido legal e técnico. Depois
+315	that happens, the husband and wife are divorced, they are no longer	que isso acontece, o marido e a esposa estão divorciados, já não
+316	married to each other, they cut the tie, he	são casados um com o outro, cortaram o vínculo, ele
+317	is free, she is free, he will go where he	está livre, ela está livre, ele irá aonde
+318	wants, she will go where she wants, and we hope	quiser, ela irá aonde quiser, e esperamos
+319	that they succeed,	que tenham sucesso,
+320	both of them. But that is the end of the get, not	os dois. Mas esse é o fim do guet, não
+321	the beginning. Divorce begins from an inner place. There is a get	o começo. O divórcio começa em um lugar interior. Há um guet
+322	technically: the husband gives the get	tecnicamente: o marido dá o guet
+323	to the wife and they divorce. But it did not begin with	à esposa e eles se divorciam. Mas não começou com
+324	a document, it did not begin with a piece of paper, it did not	um documento, não começou com um pedaço de papel, não
+325	begin with going to the judge, to the beit din, to	começou com a ida ao juiz, ao beit din, ao
+326	the rabbi to arrange a get. It began in an inner place. It	rabino para providenciar um guet. Começou em um lugar interior. Começou
+327	began in the living room, it began in the kitchen, it began in the bedroom,	na sala, começou na cozinha, começou no quarto,
+328	it began inside the home, it began inside	começou dentro de casa, começou dentro
+329	the heart. The heart torn, the soul torn. The physical contract,	do coração. O coração rasgado, a alma rasgada. O contrato físico,
+330	the physical document that we call in Judaism a get is	o documento físico que no judaísmo chamamos de guet é
+331	only the last	apenas a última
+332	and final stage	e derradeira etapa
+333	of the challenge, of the divorce, of a get that perhaps has existed for a long time	do desafio, do divórcio, de um guet que talvez já exista há muito tempo
+334	inside the heart of the man, inside the heart of the woman,	dentro do coração do homem, dentro do coração da mulher,
+335	their soul, their heart	a alma deles, o coração deles
+336	is torn. There is a tear	está rasgado. Há uma ruptura
+337	in love, in affection, in appreciation, in respect,	no amor, no carinho, na estima, no respeito,
+338	in admiration, in connection,	na admiração, na ligação,
+339	in faithfulness, in devotion to one another,	na fidelidade, na dedicação de um ao outro,
+340	in friendship. This is no longer a get in the physical and technical sense, it is	na amizade. Isto já não é um guet no sentido físico e técnico, não é
+341	not a piece of	um pedaço de
+342	paper, it is a get within. So let's understand	papel, é um guet por dentro. Então vamos entender
+343	this: when I look at a get halachically it is	isto: quando olho para um guet do ponto de vista haláchico, é
+344	the last stage, it didn't start there, it ended	a última etapa, não começou ali, terminou
+345	there. Here the Mishnah wants to know something else. After	ali. Aqui a Mishná quer saber outra coisa. Depois
+346	we learned all of tractate Gittin, all the technical laws,	que estudamos todo o tratado de Guitin, todas as leis técnicas,
+347	how to arrange a get, how to write a get, how to deliver	como providenciar um guet, como escrever um guet, como entregar
+348	a get, how to ensure the get is valid according to Jewish	um guet, como garantir que o guet seja válido segundo a lei
+349	law, that the man and woman are now divorced according to	judaica, que o homem e a mulher agora estão divorciados segundo
+350	halachah, "and she becomes another man's."	a halachá, "e ela se torna de outro homem."
+351	Now in the Mishnah	Agora, na Mishná
+352	at the end they speak not only of a physical get, they speak	do fim falam não só de um guet físico, falam
+353	also of divorce on a spiritual, psychological,	também de divórcio no nível espiritual, psicológico,
+354	emotional level,	emocional,
+355	on the level of the soul, because here the	no nível da alma, porque aqui a
+356	big question is:	grande pergunta é:
+357	when does a man and a woman	quando um homem e uma mulher
+358	know they are divorced, even if they live in the same house?	sabem que estão divorciados, mesmo morando na mesma casa?
+359	We all know the	Todos nós conhecemos a
+360	tragic and difficult experience	experiência trágica e dolorosa
+361	of a couple, man and woman, who live together in one apartment,	de um casal, homem e mulher, que vive junto em um apartamento,
+362	raise one family together, technically, legally	cria uma família junto, tecnicamente, legalmente
+363	and halachically they are married, but emotionally they	e halachicamente são casados, mas emocionalmente
+364	are already divorced. We all know what we are talking about.	já estão divorciados. Todos sabemos do que estamos falando.
+365	You can live with someone, be with someone, live	Você pode morar com alguém, estar com alguém, viver
+366	with someone, legally you are 100% married,	com alguém, legalmente vocês são 100% casados,
+367	but emotionally you are alienated from each other,	mas emocionalmente vocês estão estranhos um ao outro,
+368	you are distant from one another, your hearts are torn. This is	estão distantes um do outro, os corações rasgados. Esta é
+369	the question: when do I know, when do you know, when do you	a pergunta: quando eu sei, quando você sabe, quando você
+370	know that you are divorced, that you are not married? To say	sabe que vocês estão divorciados, que não são casados? Dizer
+371	that if there are arguments at home it means you are not married,	que se há discussões em casa isso significa que vocês não são casados,
+372	heaven forbid? Every Jewish couple has arguments. To say	que o Céu nos livre? Todo casal judeu tem discussões. Dizer
+373	that if there are differences of opinion there is no marriage, heaven forbid? On	que se há divergências de opinião não há casamento, que o Céu nos livre? Pelo
+374	the contrary, a good marriage requires differences of opinion.	contrário, um bom casamento exige divergências de opinião.
+375	If not, it means someone here is being extinguished, or someone	Se não, significa que alguém aqui está se apagando, ou alguém
+376	here is being pushed aside, or someone here is broken	aqui está sendo posto de lado, ou alguém aqui está despedaçado
+377	to pieces. As the Mishnah says: a dispute for the sake of heaven	em pedaços. Como diz a Mishná: uma discussão em nome do Céu
+378	will endure. Certainly in a real marriage,	vai perdurar. Certamente num casamento verdadeiro,
+379	where I, the authentic I, connect with	em que eu, o eu autêntico, me ligo com
+380	the other authentic reality, the other person,	a outra realidade autêntica, a outra pessoa,
+381	authentic, there must be differences. After all, I have	autêntica, tem de haver diferenças. Afinal, eu tenho
+382	a personality and you have yours, that's clear. So here was	uma personalidade e você tem a sua, isso é claro. Então aqui estava
+383	the big and basic question according to the Jewish view:	a grande e básica pergunta segundo a visão judaica:
+384	when can a couple look in the mirror,	quando um casal pode olhar no espelho,
+385	and say: there is a serious problem. If we don't	e dizer: há um problema sério. Se não
+386	fix the gap, eventually it will materialize	corrigirmos a distância, no fim ela vai se concretizar
+387	in the physical get.	no guet físico.
+388	Maybe not even that. We all	Talvez nem isso. Todos nós
+389	know that there are men and women who live together all their lives,	conhecemos homens e mulheres que vivem juntos a vida inteira,
+390	maybe for decades, but they	talvez por décadas, mas eles
+391	have no soul bond anymore, "his soul bound up in his soul",	já não têm vínculo de alma, "sua alma ligada à alma dele",
+392	no inner bond. It's a tragedy. Here the question is not only	nenhum vínculo interior. É uma tragédia. Aqui a questão não é apenas
+393	a technical halachic one, when the rabbi says let's write	uma questão técnica haláchica, de quando o rabino diz vamos escrever
+394	a get, they will divorce one another. It is a much more	um guet, eles vão se divorciar. É uma questão muito mais
+395	intimate, more inner question: when do I know	íntima, mais interior: quando eu sei
+396	truly that there is an inner tear here, that even if officially,	de verdade que há aqui uma ruptura interior, que mesmo que oficialmente,
+397	physically and technically we are not divorced, spiritually	fisicamente e tecnicamente não estejamos divorciados, espiritualmente
+398	we are divorced. Here there are three views. Shamai says:	estamos divorciados. Aqui há três posições. Shamai diz:
+399	as long as there is no betrayal, as long as they haven't crossed	enquanto não houver traição, enquanto não cruzaram
+400	the red lines, even if there are problems and complications	as linhas vermelhas, mesmo que haja problemas, complicações
+401	and other challenges, there's no divorce here; so too there need not	e outros desafios, não há divórcio aqui; assim também não precisa
+402	be a technical divorce, since there is no spiritual	haver divórcio técnico, já que não há divórcio
+403	divorce. If there is no get in the soul, there need not	espiritual. Se não há guet na alma, não precisa
+404	be a get physically. Then comes the view of Beit Hillel, which is something	haver guet fisicamente. Depois vem a posição de Beit Hillel, que é algo
+405	else. Even if there is fidelity, even if he didn't	diferente. Mesmo que haja fidelidade, mesmo que ele não tenha
+406	find the thing, but if a woman is capable of going	achado a coisa, mas se uma mulher é capaz de ir
+407	and intentionally burning her husband's food, even	e queimar de propósito a comida do marido, mesmo
+408	if they are faithful to each other, faithful in the sense of	que sejam fiéis um ao outro, fiéis no sentido da
+409	marital connection, one flesh, they don't cross	ligação conjugal, uma só carne, não cruzam
+410	red lines, no betrayal in the institution of faithfulness of	linhas vermelhas, não há traição na instituição da fidelidade do
+411	marriage, but if a woman is capable of doing this,	casamento, mas se uma mulher é capaz de fazer isso,
+412	says Beit Hillel, listen, I tell you there is here	diz Beit Hillel, escute, eu lhe digo que há aqui
+413	an inner tear. It is not good, something is not good, it is not	uma ruptura interior. Não é bom, algo não está bem, não é
+414	marriage as it should look. But there is here	casamento como deveria ser. Mas há aqui
+415	a much deeper	uma explicação muito mais profunda,
+416	interpretation, at least a sharpening, as the Sages say,	pelo menos um aprofundamento, como dizem os Sábios,
+417	and the interpretation is as follows.	e a explicação é a seguinte.
+418	Beit Hillel speaks also to the husband and tells the husband something	Beit Hillel fala também ao marido e diz ao marido algo
+419	important and very deep: if you are married	importante e muito profundo: se você é casado
+420	to a woman and she made a dish for you and you taste	com uma mulher e ela fez um prato para você e você prova
+421	this dish and all you have to say about	esse prato e tudo o que você tem a dizer sobre
+422	her food is that it's burnt, it's disgusting, it's repulsive,	a comida dela é que está queimada, é nojenta, é repulsiva,
+423	…	…
+424	I say to you, you are not married	eu lhe digo, você não é casado
+425	truly. If you can say to yourself that there is someone	de verdade. Se você consegue dizer a si mesmo que há alguém
+426	who makes better and tastier foods	que faz comidas melhores e mais saborosas
+427	than your wife, there is a problem in	do que as da sua esposa, há um problema no
+428	your marriage. I know what you're thinking: with us	seu casamento. Sei o que vocês estão pensando: conosco
+429	that's not a problem, what, in a restaurant isn't there better food	isso não é problema, ora, num restaurante não há comida melhor
+430	than your wife's? But understand how, at the start, to look	do que a da sua esposa? Mas entendam como, de início, olhar
+431	at	para
+432	marriage. If you were truly bound to your wife with devotion,	o casamento. Se você realmente fosse ligado à sua esposa com devoção,
+433	with attachment,	com apego,
+434	with desire, "with a longing soul", in the language of the Midrash	com desejo, "com alma anelante", na linguagem do Midrash
+435	in the Parashah of	na Parashá de
+436	Vayishlach, when it speaks about	Vayishlach, quando fala sobre
+437	love, if you truly were in such a way,	amor, se você realmente fosse assim,
+438	there is no tastier food than your wife's food. You	não há comida mais saborosa do que a comida da sua esposa. Você
+439	know why? Not because she cooks the best in the world,	sabe por quê? Não porque ela cozinha melhor que todos no mundo,
+440	but because she is	mas porque ela é
+441	your wife, because it is	a sua esposa, porque é
+442	yours. It's yours, you…	seu. É seu, você…
+443	…	…
+444	Just as a person looks at his child	Assim como a pessoa olha para o seu filho
+445	who is yours,	que é seu,
+446	a child who is nicer, sweeter? Why? Because it's a child	um filho mais bonito, mais doce? Por quê? Porque é um filho
+447	of yours, it's your daughter. Your wife is not your son or daughter,	seu, é a sua filha. Sua esposa não é o seu filho ou a sua filha,
+448	but she prepared a dish, it's for you. How	mas ela preparou um prato, é para você. Como
+449	can you say this	você pode dizer isso
