@@ -1,0 +1,32 @@
+0	Adonai	Adonai
+1	Redeemer of His people	Redentor do Seu povo
+2	Guardian of Israel	Guardião de Israel
+3	We are before You	Estamos diante de Ti
+4	Have mercy on us	Tem misericórdia de nós
+5	We are before You	Estamos diante de Ti
+6	Have mercy on us	Tem misericórdia de nós
+7	We are before You	Estamos diante de Ti
+8	We are before You	Estamos diante de Ti
+9	Guardian of Israel	Guardião de Israel
+10	Guard over us	Guarda-nos
+11	We are before You	Estamos diante de Ti
+12	Have mercy on us	Tem misericórdia de nós
+13	Redeemer of His people	Redentor do Seu povo
+14	Guardian of Israel	Guardião de Israel
+15	Redeemer of His people	Redentor do Seu povo
+16	Guardian of Israel	Guardião de Israel
+17	We are before You	Estamos diante de Ti
+18	Have mercy on us	Tem misericórdia de nós
+19	We are before You	Estamos diante de Ti
+20	Have mercy on us	Tem misericórdia de nós
+21	We are before You	Estamos diante de Ti
+22	Have mercy on us	Tem misericórdia de nós
+23	We are before You	Estamos diante de Ti
+24	Guard over us	Guarda-nos
+25	Guardian of His people	Guardião do Seu povo
+26	Guard over us	Guarda-nos
+27	We are before You	Estamos diante de Ti
+28	Have mercy on us	Tem misericórdia de nós
+29	We are before You	Estamos diante de Ti
+30	Have mercy on us	Tem misericórdia de nós
+31	Guard over us	Guarda-nos
