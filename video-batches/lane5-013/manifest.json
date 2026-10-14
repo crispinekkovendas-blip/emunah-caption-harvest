@@ -2,7 +2,7 @@
  "name": "lane5-013",
  "lane": 5,
  "created": "2026-10-14T15:20:19.921Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "Xap2NdHfVv4",
@@ -98,7 +98,7 @@
  ],
  "tries": {
   "X9WUMaAJaCg": 1,
-  "Jm1FjsPzZxQ": 2
+  "Jm1FjsPzZxQ": 3
  },
  "done": [
   "Xap2NdHfVv4",
@@ -111,5 +111,7 @@
   "4CjcDO1FaLY",
   "X9WUMaAJaCg"
  ],
- "skipped": []
+ "skipped": [
+  "Jm1FjsPzZxQ"
+ ]
 }
