@@ -2,7 +2,7 @@
  "name": "lane2-015",
  "lane": 2,
  "created": "2026-10-14T15:20:18.490Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "8MkG3tjaNL8",
@@ -99,7 +99,8 @@
   "K_7VnZYKvpM",
   "5O5LoxWJSic",
   "2w31kD6EHjI",
-  "vsib_ckXDTE"
+  "vsib_ckXDTE",
+  "ESH37S3qjEQ"
  ],
  "skipped": []
 }
