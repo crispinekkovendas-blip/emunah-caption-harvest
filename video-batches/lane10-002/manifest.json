@@ -2,7 +2,7 @@
  "name": "lane10-002",
  "lane": 10,
  "created": "2026-10-14T14:50:58.860Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "x9VoLGuwlT4",
@@ -157,7 +157,7 @@
   "6RMOKNIjEXY.p2"
  ],
  "tries": {
-  "zZhyqu7Poyc": 2,
+  "zZhyqu7Poyc": 3,
   "6RMOKNIjEXY": 1
  },
  "done": [
@@ -178,5 +178,7 @@
   "f4e10yWnbY0",
   "6RMOKNIjEXY"
  ],
- "skipped": []
+ "skipped": [
+  "zZhyqu7Poyc"
+ ]
 }

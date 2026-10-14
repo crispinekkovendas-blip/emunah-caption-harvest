@@ -1,7 +1,7 @@
 # lane10-002
 
-16 of 17 lessons published · 0 skipped · status **pending**
-Tokens (39 agent runs with a record, 2 refused or without record): 0.5M in (mostly cache) · 0.81M out · API-equivalent 9.42
+16 of 17 lessons published · 1 skipped · status **done**
+Tokens (40 agent runs with a record, 2 refused or without record): 0.5M in (mostly cache) · 0.85M out · API-equivalent 9.81
 
 | lesson | state | detail |
 |---|---|---|
@@ -10,7 +10,7 @@ Tokens (39 agent runs with a record, 2 refused or without record): 0.5M in (most
 | mCN8n_1Jaio | ✓ published | 226 lines · A escolha certa: Or HaChaim em Parashat Re'e |
 | wDW7G78FmA8 | ✓ published | 858 lines · Aula diária em iídiche, Isru Chag e Parashat Bereshit |
 | HgpJJuwWoMs | ✓ published | 1094 lines · Pinchas: o nome de Zimri e a explicação do Or HaChaim |
-| zZhyqu7Poyc | waiting | 2/3 parts |
+| zZhyqu7Poyc | skipped after 3 tries | 9 lines missing |
 | ldpqinQkPW0 | ✓ published | 591 lines · Parashá Ki Tavô: a dor que mostra cuidado e a voz interior |
 | Lv2JD1sJKgA | ✓ published | 95 lines · Elul: abrir os olhos e voltar para casa |
 | H2F8aiLfLm0 | ✓ published | 47 lines · Corach: a Torá acima da lógica humana |
