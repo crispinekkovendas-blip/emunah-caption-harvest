@@ -1,0 +1,159 @@
+{
+ "name": "lane10-002",
+ "lane": 10,
+ "created": "2026-10-14T14:50:58.860Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "x9VoLGuwlT4",
+   "title": "Haftará de Bo: a queda do Egito e a consolação de Israel",
+   "lines": 95,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "f4e10yWnbY0",
+   "title": "3 de Tamuz: o milagre que se revela por etapas",
+   "lines": 1110,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "mCN8n_1Jaio",
+   "title": "A escolha certa: Or HaChaim em Parashat Re'e",
+   "lines": 226,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wDW7G78FmA8",
+   "title": "Aula diária em iídiche, Isru Chag e Parashat Bereshit",
+   "lines": 858,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HgpJJuwWoMs",
+   "title": "Pinchas: o nome de Zimri e a explicação do Or HaChaim",
+   "lines": 1094,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "zZhyqu7Poyc",
+   "title": "Parashat Tsav: o poder do pensamento e os korbanot",
+   "lines": 1272,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ldpqinQkPW0",
+   "title": "Parashá Ki Tavô: a dor que mostra cuidado e a voz interior",
+   "lines": 591,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Lv2JD1sJKgA",
+   "title": "Elul: abrir os olhos e voltar para casa",
+   "lines": 95,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "H2F8aiLfLm0",
+   "title": "Corach: a Torá acima da lógica humana",
+   "lines": 47,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "f4D-3hXZQOc",
+   "title": "Os novos milagres da redenção futura",
+   "lines": 50,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "hx-tC-tZNuU",
+   "title": "Shoftim: suborno, ribit e a Torá que adoça o yêtser hará",
+   "lines": 833,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "9zOKM4C8RjQ",
+   "title": "As maravilhas da quarta praga e o Zera Shimshon",
+   "lines": 276,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "bh2InpY4TKI",
+   "title": "Pinchas: a humilhação como proteção contra o orgulho",
+   "lines": 607,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "p61y2kzG8D0",
+   "title": "A visão de Isaías: a Haftará de Yitro",
+   "lines": 70,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qesOFWtYRr0",
+   "title": "RECOMPENSA E PUNIÇÃO: O VALOR DAS MITZVOT",
+   "lines": 62,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "GHf_Ou83qsA",
+   "title": "Parashat Shelach: meio copo cheio ou vazio?",
+   "lines": 614,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "6RMOKNIjEXY",
+   "title": "Dez razões do Shofar e o homem que vira \"animal",
+   "lines": 1119,
+   "parts": 3,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "x9VoLGuwlT4.p0",
+  "f4e10yWnbY0.p0",
+  "f4e10yWnbY0.p1",
+  "f4e10yWnbY0.p2",
+  "mCN8n_1Jaio.p0",
+  "wDW7G78FmA8.p0",
+  "wDW7G78FmA8.p1",
+  "HgpJJuwWoMs.p0",
+  "HgpJJuwWoMs.p1",
+  "HgpJJuwWoMs.p2",
+  "zZhyqu7Poyc.p0",
+  "zZhyqu7Poyc.p1",
+  "zZhyqu7Poyc.p2",
+  "ldpqinQkPW0.p0",
+  "ldpqinQkPW0.p1",
+  "Lv2JD1sJKgA.p0",
+  "H2F8aiLfLm0.p0",
+  "f4D-3hXZQOc.p0",
+  "hx-tC-tZNuU.p0",
+  "hx-tC-tZNuU.p1",
+  "9zOKM4C8RjQ.p0",
+  "bh2InpY4TKI.p0",
+  "bh2InpY4TKI.p1",
+  "p61y2kzG8D0.p0",
+  "qesOFWtYRr0.p0",
+  "GHf_Ou83qsA.p0",
+  "GHf_Ou83qsA.p1",
+  "6RMOKNIjEXY.p0",
+  "6RMOKNIjEXY.p1",
+  "6RMOKNIjEXY.p2"
+ ]
+}
