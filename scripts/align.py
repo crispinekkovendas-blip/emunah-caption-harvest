@@ -62,16 +62,26 @@ def kv_put(key, value):
 
 def audio_of(vid, tmp):
     out = os.path.join(tmp, f'{vid}.wav')
+    # YouTube refuses GitHub's runners ("Sign in to confirm you're not a bot"): the audio is downloaded
+    # on the owner's computer and handed over through the draft release align-queue → audio/<id>.opus
+    local = os.path.join('audio', f'{vid}.opus')
+    if os.path.exists(local):
+        subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', local, '-ac', '1', '-ar', str(SR), out], check=True)
+    else:
+        _youtube(vid, tmp)
+    wav, sr = sf.read(out, dtype='float32')
+    os.remove(out)
+    assert sr == SR, sr
+    return wav.mean(axis=1) if wav.ndim > 1 else wav
+
+
+def _youtube(vid, tmp):
     subprocess.run(
         ['python', '-m', 'yt_dlp', '-q', '--no-warnings', '-f', 'bestaudio', '-x', '--audio-format', 'wav',
          '--postprocessor-args', f'ffmpeg:-ac 1 -ar {SR}', '-o', os.path.join(tmp, f'{vid}.%(ext)s'),
          f'https://www.youtube.com/watch?v={vid}'],
         check=True,
     )
-    wav, sr = sf.read(out, dtype='float32')
-    os.remove(out)
-    assert sr == SR, sr
-    return wav.mean(axis=1) if wav.ndim > 1 else wav
 
 
 model = tokenizer = aligner = DICT = uro = None

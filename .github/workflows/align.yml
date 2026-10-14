@@ -17,7 +17,7 @@ on:
         default: 'false'
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   align:
@@ -43,11 +43,29 @@ jobs:
           python -m pip install --quiet torch==2.5.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cpu
           python -m pip install --quiet numpy soundfile uroman
           python -m pip install --quiet --upgrade yt-dlp
+      - name: The audio from the draft release align-queue (YouTube refuses the runners)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p audio
+          for id in $(echo "${{ inputs.ids }}" | tr ',' ' '); do
+            gh release download align-queue --repo "$GITHUB_REPOSITORY" -p "$id.opus" -D audio || echo "$id: not in the queue — trying YouTube"
+          done
+          ls -la audio
       - name: Align
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: python -u scripts/align.py --ids "${{ inputs.ids }}" ${{ inputs.publish == 'true' && '--publish' || '' }}
+      - name: Empty the queue of what was published
+        if: inputs.publish == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for f in out/align/*.json; do
+            id=$(basename "$f" .json)
+            gh release delete-asset align-queue "$id.opus" --repo "$GITHUB_REPOSITORY" --yes || true
+          done
       - uses: actions/upload-artifact@v4
         if: always()
         with:
