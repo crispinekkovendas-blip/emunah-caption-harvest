@@ -1,0 +1,87 @@
+{
+ "name": "lane8-003",
+ "lane": 8,
+ "created": "2026-10-14T22:47:48.007Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "65-wtqypSN8",
+   "title": "Shemot: só os justos recebem provas (nissionot)",
+   "lines": 380,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "fCrLR7CJVDo",
+   "title": "Rav Ovadia Yosef: Halachot de Pessach (Shemini)",
+   "lines": 162,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "b-zTAMdyJF0",
+   "title": "Povo que habita só: liberdade e redenção",
+   "lines": 925,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "WQ82NDzVXSg",
+   "title": "Kashrut e os dois sinais do caráter",
+   "lines": 446,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rMhmJCSaIOE",
+   "title": "Shabat Selichot e o ano Tashpaz: ano de plenitude",
+   "lines": 1100,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "lW6-r8AQoxo",
+   "title": "Parashá Vayechi: como olhar para um judeu que erra",
+   "lines": 44,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "trLM8yHixq4",
+   "title": "Parashá Korach: a reação de Moshé Rabênu às acusações",
+   "lines": 20,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FJeVD05Fxeo",
+   "title": "Gratidão e fortalecimento na Parashá Ki Tavo",
+   "lines": 840,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "y4da40UG990",
+   "title": "Dançar com a Torá em Simchat Torá",
+   "lines": 29,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "65-wtqypSN8.p0",
+  "fCrLR7CJVDo.p0",
+  "b-zTAMdyJF0.p0",
+  "b-zTAMdyJF0.p1",
+  "b-zTAMdyJF0.p2",
+  "WQ82NDzVXSg.p0",
+  "rMhmJCSaIOE.p0",
+  "rMhmJCSaIOE.p1",
+  "rMhmJCSaIOE.p2",
+  "lW6-r8AQoxo.p0",
+  "trLM8yHixq4.p0",
+  "FJeVD05Fxeo.p0",
+  "FJeVD05Fxeo.p1",
+  "y4da40UG990.p0"
+ ]
+}
