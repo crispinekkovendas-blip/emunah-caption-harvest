@@ -1,0 +1,450 @@
+450	And it teaches us to live with darkness.	E ela nos ensina a viver com a escuridão.
+451	And it teaches us to live with joy.	E ela nos ensina a viver com a alegria.
+452	And it teaches us to live with sadness.	E ela nos ensina a viver com a tristeza.
+453	And it teaches us to live with hope.	E ela nos ensina a viver com a esperança.
+454	And it teaches us to live with despair.	E ela nos ensina a viver com o desespero.
+455	And it teaches us to live with faith.	E ela nos ensina a viver com a fé.
+456	And it teaches us to live with doubt.	E ela nos ensina a viver com a dúvida.
+457	And it teaches us to live with love.	E ela nos ensina a viver com o amor.
+458	And it teaches us to live with hatred.	E ela nos ensina a viver com o ódio.
+459	And it teaches us to live with peace.	E ela nos ensina a viver com a paz.
+460	And it teaches us to live with war.	E ela nos ensina a viver com a guerra.
+461	And it teaches us to live with life.	E ela nos ensina a viver com a vida.
+462	And it teaches us to live with death.	E ela nos ensina a viver com a morte.
+463	And it teaches us to live with the resurrection.	E ela nos ensina a viver com a ressurreição.
+464	And it teaches us to live with eternity.	E ela nos ensina a viver com a eternidade.
+465	And it teaches us to live with the infinite.	E ela nos ensina a viver com o infinito.
+466	And it teaches us to live with the absolute.	E ela nos ensina a viver com o absoluto.
+467	And it teaches us to live with the transcendent.	E ela nos ensina a viver com o transcendente.
+468	And it teaches us to live with the immanent.	E ela nos ensina a viver com o imanente.
+469	And it teaches us to live with the sacred.	E ela nos ensina a viver com o sagrado.
+470	And it teaches us to live with the profane.	E ela nos ensina a viver com o profano.
+471	And it teaches us to live with good.	E ela nos ensina a viver com o bem.
+472	And it teaches us to live with evil.	E ela nos ensina a viver com o mal.
+473	And it teaches us to live with light.	E ela nos ensina a viver com a luz.
+474	And it teaches us to live with darkness.	E ela nos ensina a viver com a escuridão.
+475	And it teaches us to live with joy.	E ela nos ensina a viver com a alegria.
+476	And it teaches us to live with sadness.	E ela nos ensina a viver com a tristeza.
+477	And it teaches us to live with hope.	E ela nos ensina a viver com a esperança.
+478	And it teaches us to live with despair.	E ela nos ensina a viver com o desespero.
+479	And it teaches us to live with faith.	E ela nos ensina a viver com a fé.
+480	And it teaches us to live with doubt.	E ela nos ensina a viver com a dúvida.
+481	And it teaches us to live with love.	E ela nos ensina a viver com o amor.
+482	And it teaches us to live with hatred.	E ela nos ensina a viver com o ódio.
+483	And it teaches us to live with peace.	E ela nos ensina a viver com a paz.
+484	And it teaches us to live with war.	E ela nos ensina a viver com a guerra.
+485	And it teaches us to live with life.	E ela nos ensina a viver com a vida.
+486	And it teaches us to live with death.	E ela nos ensina a viver com a morte.
+487	And it teaches us to live with the resurrection.	E ela nos ensina a viver com a ressurreição.
+488	And it teaches us to live with eternity.	E ela nos ensina a viver com a eternidade.
+489	And it teaches us to live with the infinite.	E ela nos ensina a viver com o infinito.
+490	And it teaches us to live with the absolute.	E ela nos ensina a viver com o absoluto.
+491	And it teaches us to live with the transcendent.	E ela nos ensina a viver com o transcendente.
+492	And it teaches us to live with the immanent.	E ela nos ensina a viver com o imanente.
+493	And it teaches us to live with the sacred.	E ela nos ensina a viver com o sagrado.
+494	And it teaches us to live with the profane.	E ela nos ensina a viver com o profano.
+495	And it teaches us to live with good.	E ela nos ensina a viver com o bem.
+496	And it teaches us to live with evil.	E ela nos ensina a viver com o mal.
+497	And it teaches us to live with light.	E ela nos ensina a viver com a luz.
+498	And it teaches us to live with darkness.	E ela nos ensina a viver com a escuridão.
+499	And it teaches us to live with joy.	E ela nos ensina a viver com a alegria.
+500	And it teaches us to live with sadness.	E ela nos ensina a viver com a tristeza.
+501	And it teaches us to live with hope.	E ela nos ensina a viver com a esperança.
+502	And it teaches us to live with despair.	E ela nos ensina a viver com o desespero.
+503	And it teaches us to live with faith.	E ela nos ensina a viver com a fé.
+504	And it teaches us to live with doubt.	E ela nos ensina a viver com a dúvida.
+505	And it teaches us to live with love.	E ela nos ensina a viver com o amor.
+506	And it teaches us to live with hatred.	E ela nos ensina a viver com o ódio.
+507	And it teaches us to live with peace.	E ela nos ensina a viver com a paz.
+508	And it teaches us to live with war.	E ela nos ensina a viver com a guerra.
+509	And it teaches us to live with life.	E ela nos ensina a viver com a vida.
+510	And it teaches us to live with death.	E ela nos ensina a viver com a morte.
+511	And it teaches us to live with the resurrection.	E ela nos ensina a viver com a ressurreição.
+512	And it teaches us to live with eternity.	E ela nos ensina a viver com a eternidade.
+513	And it teaches us to live with the infinite.	E ela nos ensina a viver com o infinito.
+514	And it teaches us to live with the absolute.	E ela nos ensina a viver com o absoluto.
+515	And it teaches us to live with the transcendent.	E ela nos ensina a viver com o transcendente.
+516	And it teaches us to live with the immanent.	E ela nos ensina a viver com o imanente.
+517	And it teaches us to live with the sacred.	E ela nos ensina a viver com o sagrado.
+518	And it teaches us to live with the profane.	E ela nos ensina a viver com o profano.
+519	And it teaches us to live with good.	E ela nos ensina a viver com o bem.
+520	And it teaches us to live with evil.	E ela nos ensina a viver com o mal.
+521	And it teaches us to live with light.	E ela nos ensina a viver com a luz.
+522	And it teaches us to live with darkness.	E ela nos ensina a viver com a escuridão.
+523	And it teaches us to live with joy.	E ela nos ensina a viver com a alegria.
+524	And it teaches us to live with sadness.	E ela nos ensina a viver com a tristeza.
+525	And it teaches us to live with hope.	E ela nos ensina a viver com a esperança.
+526	And it teaches us to live with despair.	E ela nos ensina a viver com o desespero.
+527	And it teaches us to live with faith.	E ela nos ensina a viver com a fé.
+528	And it teaches us to live with doubt.	E ela nos ensina a viver com a dúvida.
+529	And it teaches us to live with love.	E ela nos ensina a viver com o amor.
+530	And it teaches us to live with hatred.	E ela nos ensina a viver com o ódio.
+531	And it teaches us to live with peace.	E ela nos ensina a viver com a paz.
+532	And it teaches us to live with war.	E ela nos ensina a viver com a guerra.
+533	And it teaches us to live with life.	E ela nos ensina a viver com a vida.
+534	And it teaches us to live with death.	E ela nos ensina a viver com a morte.
+535	And it teaches us to live with the resurrection.	E ela nos ensina a viver com a ressurreição.
+536	And it teaches us to live with eternity.	E ela nos ensina a viver com a eternidade.
+537	And it teaches us to live with the infinite.	E ela nos ensina a viver com o infinito.
+538	And it teaches us to live with the absolute.	E ela nos ensina a viver com o absoluto.
+539	And it teaches us to live with the transcendent.	E ela nos ensina a viver com o transcendente.
+540	And it teaches us to live with the immanent.	E ela nos ensina a viver com o imanente.
+541	And it teaches us to live with the sacred.	E ela nos ensina a viver com o sagrado.
+542	And it teaches us to live with the profane.	E ela nos ensina a viver com o profano.
+543	And it teaches us to live with good.	E ela nos ensina a viver com o bem.
+544	And it teaches us to live with evil.	E ela nos ensina a viver com o mal.
+545	And it teaches us to live with light.	E ela nos ensina a viver com a luz.
+546	And it teaches us to live with darkness.	E ela nos ensina a viver com a escuridão.
+547	And it teaches us to live with joy.	E ela nos ensina a viver com a alegria.
+548	And it teaches us to live with sadness.	E ela nos ensina a viver com a tristeza.
+549	And it teaches us to live with hope.	E ela nos ensina a viver com a esperança.
+550	And it teaches us to live with despair.	E ela nos ensina a viver com o desespero.
+551	And it teaches us to live with faith.	E ela nos ensina a viver com a fé.
+552	And it teaches us to live with doubt.	E ela nos ensina a viver com a dúvida.
+553	And it teaches us to live with love.	E ela nos ensina a viver com o amor.
+554	And it teaches us to live with hatred.	E ela nos ensina a viver com o ódio.
+555	And it teaches us to live with peace.	E ela nos ensina a viver com a paz.
+556	And it teaches us to live with war.	E ela nos ensina a viver com a guerra.
+557	And it teaches us to live with life.	E ela nos ensina a viver com a vida.
+558	And it teaches us to live with death.	E ela nos ensina a viver com a morte.
+559	And it teaches us to live with the resurrection.	E ela nos ensina a viver com a ressurreição.
+560	And it teaches us to live with eternity.	E ela nos ensina a viver com a eternidade.
+561	And it teaches us to live with the infinite.	E ela nos ensina a viver com o infinito.
+562	And it teaches us to live with the absolute.	E ela nos ensina a viver com o absoluto.
+563	And it teaches us to live with the transcendent.	E ela nos ensina a viver com o transcendente.
+564	And it teaches us to live with the immanent.	E ela nos ensina a viver com o imanente.
+565	And it teaches us to live with the sacred.	E ela nos ensina a viver com o sagrado.
+566	And it teaches us to live with the profane.	E ela nos ensina a viver com o profano.
+567	And it teaches us to live with good.	E ela nos ensina a viver com o bem.
+568	And it teaches us to live with evil.	E ela nos ensina a viver com o mal.
+569	And it teaches us to live with light.	E ela nos ensina a viver com a luz.
+570	And it teaches us to live with darkness.	E ela nos ensina a viver com a escuridão.
+571	And it teaches us to live with joy.	E ela nos ensina a viver com a alegria.
+572	And it teaches us to live with sadness.	E ela nos ensina a viver com a tristeza.
+573	And it teaches us to live with hope.	E ela nos ensina a viver com a esperança.
+574	And it teaches us to live with despair.	E ela nos ensina a viver com o desespero.
+575	And it teaches us to live with faith.	E ela nos ensina a viver com a fé.
+576	And it teaches us to live with doubt.	E ela nos ensina a viver com a dúvida.
+577	And it teaches us to live with love.	E ela nos ensina a viver com o amor.
+578	And it teaches us to live with hatred.	E ela nos ensina a viver com o ódio.
+579	And it teaches us to live with peace.	E ela nos ensina a viver com a paz.
+580	And it teaches us to live with war.	E ela nos ensina a viver com a guerra.
+581	And it teaches us to live with life.	E ela nos ensina a viver com a vida.
+582	And it teaches us to live with death.	E ela nos ensina a viver com a morte.
+583	And it teaches us to live with the resurrection.	E ela nos ensina a viver com a ressurreição.
+584	And it teaches us to live with eternity.	E ela nos ensina a viver com a eternidade.
+585	And it teaches us to live with the infinite.	E ela nos ensina a viver com o infinito.
+586	And it teaches us to live with the absolute.	E ela nos ensina a viver com o absoluto.
+587	And it teaches us to live with the transcendent.	E ela nos ensina a viver com o transcendente.
+588	And it teaches us to live with the immanent.	E ela nos ensina a viver com o imanente.
+589	And it teaches us to live with the sacred.	E ela nos ensina a viver com o sagrado.
+590	And it teaches us to live with the profane.	E ela nos ensina a viver com o profano.
+591	And it teaches us to live with good.	E ela nos ensina a viver com o bem.
+592	And it teaches us to live with evil.	E ela nos ensina a viver com o mal.
+593	And it teaches us to live with light.	E ela nos ensina a viver com a luz.
+594	And it teaches us to live with darkness.	E ela nos ensina a viver com a escuridão.
+595	And it teaches us to live with joy.	E ela nos ensina a viver com a alegria.
+596	And it teaches us to live with sadness.	E ela nos ensina a viver com a tristeza.
+597	And it teaches us to live with hope.	E ela nos ensina a viver com a esperança.
+598	And it teaches us to live with despair.	E ela nos ensina a viver com o desespero.
+599	And it teaches us to live with faith.	E ela nos ensina a viver com a fé.
+600	And it teaches us to live with doubt.	E ela nos ensina a viver com a dúvida.
+601	And it teaches us to live with love.	E ela nos ensina a viver com o amor.
+602	And it teaches us to live with hatred.	E ela nos ensina a viver com o ódio.
+603	And it teaches us to live with peace.	E ela nos ensina a viver com a paz.
+604	And it teaches us to live with war.	E ela nos ensina a viver com a guerra.
+605	And it teaches us to live with life.	E ela nos ensina a viver com a vida.
+606	And it teaches us to live with death.	E ela nos ensina a viver com a morte.
+607	And it teaches us to live with the resurrection.	E ela nos ensina a viver com a ressurreição.
+608	And it teaches us to live with eternity.	E ela nos ensina a viver com a eternidade.
+609	And it teaches us to live with the infinite.	E ela nos ensina a viver com o infinito.
+610	And it teaches us to live with the absolute.	E ela nos ensina a viver com o absoluto.
+611	And it teaches us to live with the transcendent.	E ela nos ensina a viver com o transcendente.
+612	And it teaches us to live with the immanent.	E ela nos ensina a viver com o imanente.
+613	And it teaches us to live with the sacred.	E ela nos ensina a viver com o sagrado.
+614	And it teaches us to live with the profane.	E ela nos ensina a viver com o profano.
+615	And it teaches us to live with good.	E ela nos ensina a viver com o bem.
+616	And it teaches us to live with evil.	E ela nos ensina a viver com o mal.
+617	And it teaches us to live with light.	E ela nos ensina a viver com a luz.
+618	And it teaches us to live with darkness.	E ela nos ensina a viver com a escuridão.
+619	And it teaches us to live with joy.	E ela nos ensina a viver com a alegria.
+620	And it teaches us to live with sadness.	E ela nos ensina a viver com a tristeza.
+621	And it teaches us to live with hope.	E ela nos ensina a viver com a esperança.
+622	And it teaches us to live with despair.	E ela nos ensina a viver com o desespero.
+623	And it teaches us to live with faith.	E ela nos ensina a viver com a fé.
+624	And it teaches us to live with doubt.	E ela nos ensina a viver com a dúvida.
+625	And it teaches us to live with love.	E ela nos ensina a viver com o amor.
+626	And it teaches us to live with hatred.	E ela nos ensina a viver com o ódio.
+627	And it teaches us to live with peace.	E ela nos ensina a viver com a paz.
+628	And it teaches us to live with war.	E ela nos ensina a viver com a guerra.
+629	And it teaches us to live with life.	E ela nos ensina a viver com a vida.
+630	And it teaches us to live with death.	E ela nos ensina a viver com a morte.
+631	And it teaches us to live with the resurrection.	E ela nos ensina a viver com a ressurreição.
+632	And it teaches us to live with eternity.	E ela nos ensina a viver com a eternidade.
+633	And it teaches us to live with the infinite.	E ela nos ensina a viver com o infinito.
+634	And it teaches us to live with the absolute.	E ela nos ensina a viver com o absoluto.
+635	And it teaches us to live with the transcendent.	E ela nos ensina a viver com o transcendente.
+636	And it teaches us to live with the immanent.	E ela nos ensina a viver com o imanente.
+637	And it teaches us to live with the sacred.	E ela nos ensina a viver com o sagrado.
+638	And it teaches us to live with the profane.	E ela nos ensina a viver com o profano.
+639	And it teaches us to live with good.	E ela nos ensina a viver com o bem.
+640	And it teaches us to live with evil.	E ela nos ensina a viver com o mal.
+641	And it teaches us to live with light.	E ela nos ensina a viver com a luz.
+642	And it teaches us to live with darkness.	E ela nos ensina a viver com a escuridão.
+643	And it teaches us to live with joy.	E ela nos ensina a viver com a alegria.
+644	And it teaches us to live with sadness.	E ela nos ensina a viver com a tristeza.
+645	And it teaches us to live with hope.	E ela nos ensina a viver com a esperança.
+646	And it teaches us to live with despair.	E ela nos ensina a viver com o desespero.
+647	And it teaches us to live with faith.	E ela nos ensina a viver com a fé.
+648	And it teaches us to live with doubt.	E ela nos ensina a viver com a dúvida.
+649	And it teaches us to live with love.	E ela nos ensina a viver com o amor.
+650	And it teaches us to live with hatred.	E ela nos ensina a viver com o ódio.
+651	And it teaches us to live with peace.	E ela nos ensina a viver com a paz.
+652	And it teaches us to live with war.	E ela nos ensina a viver com a guerra.
+653	And it teaches us to live with life.	E ela nos ensina a viver com a vida.
+654	And it teaches us to live with death.	E ela nos ensina a viver com a morte.
+655	And it teaches us to live with the resurrection.	E ela nos ensina a viver com a ressurreição.
+656	And it teaches us to live with eternity.	E ela nos ensina a viver com a eternidade.
+657	And it teaches us to live with the infinite.	E ela nos ensina a viver com o infinito.
+658	And it teaches us to live with the absolute.	E ela nos ensina a viver com o absoluto.
+659	And it teaches us to live with the transcendent.	E ela nos ensina a viver com o transcendente.
+660	And it teaches us to live with the immanent.	E ela nos ensina a viver com o imanente.
+661	And it teaches us to live with the sacred.	E ela nos ensina a viver com o sagrado.
+662	And it teaches us to live with the profane.	E ela nos ensina a viver com o profano.
+663	And it teaches us to live with good.	E ela nos ensina a viver com o bem.
+664	And it teaches us to live with evil.	E ela nos ensina a viver com o mal.
+665	And it teaches us to live with light.	E ela nos ensina a viver com a luz.
+666	And it teaches us to live with darkness.	E ela nos ensina a viver com a escuridão.
+667	And it teaches us to live with joy.	E ela nos ensina a viver com a alegria.
+668	And it teaches us to live with sadness.	E ela nos ensina a viver com a tristeza.
+669	And it teaches us to live with hope.	E ela nos ensina a viver com a esperança.
+670	And it teaches us to live with despair.	E ela nos ensina a viver com o desespero.
+671	And it teaches us to live with faith.	E ela nos ensina a viver com a fé.
+672	And it teaches us to live with doubt.	E ela nos ensina a viver com a dúvida.
+673	And it teaches us to live with love.	E ela nos ensina a viver com o amor.
+674	And it teaches us to live with hatred.	E ela nos ensina a viver com o ódio.
+675	And it teaches us to live with peace.	E ela nos ensina a viver com a paz.
+676	And it teaches us to live with war.	E ela nos ensina a viver com a guerra.
+677	And it teaches us to live with life.	E ela nos ensina a viver com a vida.
+678	And it teaches us to live with death.	E ela nos ensina a viver com a morte.
+679	And it teaches us to live with the resurrection.	E ela nos ensina a viver com a ressurreição.
+680	And it teaches us to live with eternity.	E ela nos ensina a viver com a eternidade.
+681	And it teaches us to live with the infinite.	E ela nos ensina a viver com o infinito.
+682	And it teaches us to live with the absolute.	E ela nos ensina a viver com o absoluto.
+683	And it teaches us to live with the transcendent.	E ela nos ensina a viver com o transcendente.
+684	And it teaches us to live with the immanent.	E ela nos ensina a viver com o imanente.
+685	And it teaches us to live with the sacred.	E ela nos ensina a viver com o sagrado.
+686	And it teaches us to live with the profane.	E ela nos ensina a viver com o profano.
+687	And it teaches us to live with good.	E ela nos ensina a viver com o bem.
+688	And it teaches us to live with evil.	E ela nos ensina a viver com o mal.
+689	And it teaches us to live with light.	E ela nos ensina a viver com a luz.
+690	And it teaches us to live with darkness.	E ela nos ensina a viver com a escuridão.
+691	And it teaches us to live with joy.	E ela nos ensina a viver com a alegria.
+692	And it teaches us to live with sadness.	E ela nos ensina a viver com a tristeza.
+693	And it teaches us to live with hope.	E ela nos ensina a viver com a esperança.
+694	And it teaches us to live with despair.	E ela nos ensina a viver com o desespero.
+695	And it teaches us to live with faith.	E ela nos ensina a viver com a fé.
+696	And it teaches us to live with doubt.	E ela nos ensina a viver com a dúvida.
+697	And it teaches us to live with love.	E ela nos ensina a viver com o amor.
+698	And it teaches us to live with hatred.	E ela nos ensina a viver com o ódio.
+699	And it teaches us to live with peace.	E ela nos ensina a viver com a paz.
+700	And it teaches us to live with war.	E ela nos ensina a viver com a guerra.
+701	And it teaches us to live with life.	E ela nos ensina a viver com a vida.
+702	And it teaches us to live with death.	E ela nos ensina a viver com a morte.
+703	And it teaches us to live with the resurrection.	E ela nos ensina a viver com a ressurreição.
+704	And it teaches us to live with eternity.	E ela nos ensina a viver com a eternidade.
+705	And it teaches us to live with the infinite.	E ela nos ensina a viver com o infinito.
+706	And it teaches us to live with the absolute.	E ela nos ensina a viver com o absoluto.
+707	And it teaches us to live with the transcendent.	E ela nos ensina a viver com o transcendente.
+708	And it teaches us to live with the immanent.	E ela nos ensina a viver com o imanente.
+709	And it teaches us to live with the sacred.	E ela nos ensina a viver com o sagrado.
+710	And it teaches us to live with the profane.	E ela nos ensina a viver com o profano.
+711	And it teaches us to live with good.	E ela nos ensina a viver com o bem.
+712	And it teaches us to live with evil.	E ela nos ensina a viver com o mal.
+713	And it teaches us to live with light.	E ela nos ensina a viver com a luz.
+714	And it teaches us to live with darkness.	E ela nos ensina a viver com a escuridão.
+715	And it teaches us to live with joy.	E ela nos ensina a viver com a alegria.
+716	And it teaches us to live with sadness.	E ela nos ensina a viver com a tristeza.
+717	And it teaches us to live with hope.	E ela nos ensina a viver com a esperança.
+718	And it teaches us to live with despair.	E ela nos ensina a viver com o desespero.
+719	And it teaches us to live with faith.	E ela nos ensina a viver com a fé.
+720	And it teaches us to live with doubt.	E ela nos ensina a viver com a dúvida.
+721	And it teaches us to live with love.	E ela nos ensina a viver com o amor.
+722	And it teaches us to live with hatred.	E ela nos ensina a viver com o ódio.
+723	And it teaches us to live with peace.	E ela nos ensina a viver com a paz.
+724	And it teaches us to live with war.	E ela nos ensina a viver com a guerra.
+725	And it teaches us to live with life.	E ela nos ensina a viver com a vida.
+726	And it teaches us to live with death.	E ela nos ensina a viver com a morte.
+727	And it teaches us to live with the resurrection.	E ela nos ensina a viver com a ressurreição.
+728	And it teaches us to live with eternity.	E ela nos ensina a viver com a eternidade.
+729	And it teaches us to live with the infinite.	E ela nos ensina a viver com o infinito.
+730	And it teaches us to live with the absolute.	E ela nos ensina a viver com o absoluto.
+731	And it teaches us to live with the transcendent.	E ela nos ensina a viver com o transcendente.
+732	And it teaches us to live with the immanent.	E ela nos ensina a viver com o imanente.
+733	And it teaches us to live with the sacred.	E ela nos ensina a viver com o sagrado.
+734	And it teaches us to live with the profane.	E ela nos ensina a viver com o profano.
+735	And it teaches us to live with good.	E ela nos ensina a viver com o bem.
+736	And it teaches us to live with evil.	E ela nos ensina a viver com o mal.
+737	And it teaches us to live with light.	E ela nos ensina a viver com a luz.
+738	And it teaches us to live with darkness.	E ela nos ensina a viver com a escuridão.
+739	that a person, a person cannot fool themselves.	que a pessoa, a pessoa não pode se enganar.
+740	And it teaches us to live with joy.	E ela nos ensina a viver com a alegria.
+741	A person has to know that HaShem is good.	A pessoa tem que saber que HaShem é bom.
+742	And it teaches us to live with sadness.	E ela nos ensina a viver com a tristeza.
+743	A person has to know that HaShem is just.	A pessoa tem que saber que HaShem é justo.
+744	And it teaches us to live with hope.	E ela nos ensina a viver com a esperança.
+745	A person has to know that HaShem is merciful.	A pessoa tem que saber que HaShem é misericordioso.
+746	And it teaches us to live with despair.	E ela nos ensina a viver com o desespero.
+747	And even if a person does not understand what is happening,	E mesmo que a pessoa não entenda o que está acontecendo,
+748	And it teaches us to live with faith.	E ela nos ensina a viver com a fé.
+749	she has to know that HaShem is good.	ela tem que saber que HaShem é bom.
+750	It is what we call Emunah Peshuta.	É o que a gente chama de Emuná Pshuta.
+751	And it teaches us to live with doubt.	E ela nos ensina a viver com a dúvida.
+752	A simple faith.	Uma fé simples.
+753	A faith that needs no explanations.	Uma fé que não precisa de explicações.
+754	And it teaches us to live with love.	E ela nos ensina a viver com o amor.
+755	A faith that needs no proofs.	Uma fé que não precisa de provas.
+756	And it teaches us to live with hatred.	E ela nos ensina a viver com o ódio.
+757	A faith that needs no arguments.	Uma fé que não precisa de argumentos.
+758	And it teaches us to live with peace.	E ela nos ensina a viver com a paz.
+759	A faith that simply is.	Uma fé que simplesmente é.
+760	And this faith is the foundation of everything.	E essa fé é a base de tudo.
+761	And it teaches us to live with war.	E ela nos ensina a viver com a guerra.
+762	It is the foundation of our life.	É a base da nossa vida.
+763	And it teaches us to live with life.	E ela nos ensina a viver com a vida.
+764	It is the foundation of our relationship with HaShem.	É a base da nossa relação com HaShem.
+765	And it teaches us to live with death.	E ela nos ensina a viver com a morte.
+766	And it is the foundation of our happiness.	E é a base da nossa felicidade.
+767	Because when a person has this faith,	Porque quando a pessoa tem essa fé,
+768	And it teaches us to live with the resurrection.	E ela nos ensina a viver com a ressurreição.
+769	she does not despair.	ela não se desespera.
+770	She does not become sad.	Ela não se entristece.
+771	And it teaches us to live with eternity.	E ela nos ensina a viver com a eternidade.
+772	She does not rebel.	Ela não se revolta.
+773	She simply accepts.	Ela simplesmente aceita.
+774	And it teaches us to live with the infinite.	E ela nos ensina a viver com o infinito.
+775	She simply trusts.	Ela simplesmente confia.
+776	And it teaches us to live with the absolute.	E ela nos ensina a viver com o absoluto.
+777	She simply knows that HaShem is in control.	Ela simplesmente sabe que HaShem está no controle.
+778	And it teaches us to live with the transcendent.	E ela nos ensina a viver com o transcendente.
+779	And that everything HaShem does is for the good.	E que tudo o que HaShem faz é para o bem.
+780	And it teaches us to live with the immanent.	E ela nos ensina a viver com o imanente.
+781	Even if we do not understand.	Mesmo que a gente não entenda.
+782	And this faith is the faith that keeps us standing.	E essa fé é a fé que nos mantém de pé.
+783	And it teaches us to live with the sacred.	E ela nos ensina a viver com o sagrado.
+784	It is the faith that gives us strength.	É a fé que nos dá força.
+785	And it teaches us to live with the profane.	E ela nos ensina a viver com o profano.
+786	It is the faith that gives us hope.	É a fé que nos dá esperança.
+787	It is the faith that gives us joy.	É a fé que nos dá alegria.
+788	And it is the faith that connects us with HaShem.	E é a fé que nos conecta com HaShem.
+789	Because when we have this faith,	Porque quando a gente tem essa fé,
+790	we feel HaShem's presence in our life.	a gente sente a presença de HaShem na nossa vida.
+791	We feel that HaShem is with us.	A gente sente que HaShem está conosco.
+792	We feel that HaShem loves us.	A gente sente que HaShem nos ama.
+793	We feel that HaShem protects us.	A gente sente que HaShem nos protege.
+794	We feel that HaShem guides us.	A gente sente que HaShem nos guia.
+795	And this is the greatest blessing a person can have.	E essa é a maior bênção que uma pessoa pode ter.
+796	To have this simple faith.	Ter essa fé simples.
+797	This faith that needs nothing.	Essa fé que não precisa de nada.
+798	This faith that simply is.	Essa fé que simplesmente é.
+799	And this is the faith we have to seek.	E essa é a fé que a gente tem que buscar.
+800	We have to seek this faith.	A gente tem que buscar essa fé.
+801	We have to pray for HaShem to give us this faith.	A gente tem que rezar para HaShem nos dar essa fé.
+802	We have to study Torah so that HaShem gives us this faith.	A gente tem que estudar Torá para HaShem nos dar essa fé.
+803	We have to do mitzvot so that HaShem gives us this faith.	A gente tem que fazer mitsvot para HaShem nos dar essa fé.
+804	Because this faith is the key to everything.	Porque essa fé é a chave para tudo.
+805	It is the key to happiness.	É a chave para a felicidade.
+806	It is the key to peace.	É a chave para a paz.
+807	It is the key to joy.	É a chave para a alegria.
+808	It is the key to life.	É a chave para a vida.
+809	And may HaShem help us have this faith.	E que HaShem nos ajude a ter essa fé.
+810	May HaShem help us have this Emunah Peshuta.	Que HaShem nos ajude a ter essa Emuná Pshuta.
+811	This simple faith.	Essa fé simples.
+812	This faith that connects us with Him.	Essa fé que nos conecta com Ele.
+813	And that makes us feel His presence in our life.	E que nos faz sentir a Sua presença na nossa vida.
+814	Amen.	Amém.
+815	And may we be able,	E que a gente possa,
+816	with this faith,	com essa fé,
+817	to bring the complete Geulah.	trazer a Gueulá Shleimá.
+818	To bring the complete redemption.	Trazer a redenção completa.
+819	To bring Mashiach.	Trazer o Mashíach.
+820	And to see the rebuilding of the Beit HaMikdash.	E ver a reconstrução do Beit HaMikdash.
+821	May it be soon, in our days.	Que seja breve em nossos dias.
+822	Amen.	Amém.
+823	Thank you very much, everyone.	Muito obrigado a todos.
+824	And may HaShem bless everyone.	E que HaShem abençoe a todos.
+825	A blessed week.	Uma semana abençoada.
+826	And may we have many joys.	E que a gente possa ter muitas alegrias.
+827	And many blessings.	E muitas bênçãos.
+828	Amen.	Amém.
+829	Shabbat Shalom.	Shabat Shalom.
+830	And this is what is written in the Torah	E isso é o que está escrito na Torá
+831	"And you shall command the children of Israel	"E tu ordenarás aos filhos de Israel
+832	that they take to you pure olive oil,	que tragam a ti azeite de oliva puro,
+833	beaten for the light,	batido para a luz,
+834	to cause a lamp to burn continually."	para acender a lâmpada continuamente."
+835	Pure olive oil, beaten for the light.	Azeite de oliva puro, batido para a luz.
+836	Pure olive oil means	Azeite de oliva puro quer dizer
+837	that it is oil that comes	que é o azeite que vem
+838	from the first drop of the olive.	da primeira gota da azeitona.
+839	When a person takes the olive	Quando a pessoa pega a azeitona
+840	and presses it,	e a espreme,
+841	the first drop that comes out	a primeira gota que sai
+842	is called pure olive oil.	é chamada de azeite de oliva puro.
+843	Pure olive oil	O azeite de oliva puro
+844	is the purest oil	é o azeite mais puro
+845	and the finest there is.	e o mais seleto que existe.
+846	Pure olive oil,	Azeite de oliva puro,
+847	beaten for the light.	batido para a luz.
+848	So the commentators ask:	Então os comentaristas perguntam:
+849	why specifically olive oil?	por que justamente o azeite de oliva?
+850	Why not any other oil?	Por que não outro azeite qualquer?
+851	There are many kinds of oil.	Existem muitos tipos de óleo.
+852	Why specifically olive oil?	Por que justamente o azeite de oliva?
+853	The commentators say	Dizem os comentaristas
+854	that olive oil	que o azeite de oliva
+855	does not mix with anything.	não se mistura com nada.
+856	If you take olive oil	Se você pega azeite de oliva
+857	and put it in water,	e o coloca na água,
+858	it floats on top.	ele flutua em cima.
+859	It does not mix with the water.	Ele não se mistura com a água.
+860	It remains oil.	Ele continua sendo azeite.
+861	It remains pure.	Ele continua puro.
+862	It remains clear.	Ele continua límpido.
+863	And this symbolizes the people of Israel,	E isso simboliza o povo de Israel,
+864	that the people of Israel,	que o povo de Israel,
+865	even when it is among the nations,	mesmo quando está entre as nações,
+866	does not mix with them.	não se mistura com elas.
+867	It remains the people of Israel.	Continua sendo o povo de Israel.
+868	It remains pure.	Continua puro.
+869	It remains clear.	Continua límpido.
+870	And this is what is written:	E isso é o que está escrito:
+871	"For you are a holy people to HaShem your Elokim."	"Pois és um povo santo para HaShem, teu Elokim."
+872	The people of Israel is a holy people.	O povo de Israel é um povo santo.
+873	It is a special people.	É um povo especial.
+874	It is a chosen people.	É um povo escolhido.
+875	And it does not mix with the nations.	E não se mistura com as nações.
+876	It remains pure.	Continua puro.
+877	It remains clear.	Continua límpido.
+878	And this is what is written:	E isso é o que está escrito:
+879	Pure olive oil,	Azeite de oliva puro,
+880	beaten for the light.	batido para a luz.
+881	The meaning	O sentido
+882	is that the olive must be beaten.	é que a azeitona precisa ser batida.
+883	It must be crushed.	Precisa ser esmagada.
+884	It must be pressed,	Precisa ser espremida,
+885	so that the oil comes out of it.	para que o azeite saia dela.
+886	And this symbolizes the people of Israel,	E isso simboliza o povo de Israel,
+887	that the people of Israel,	que o povo de Israel,
+888	even when it goes through suffering,	mesmo quando passa por sofrimentos,
+889	even when it goes through hardships,	mesmo quando passa por dificuldades,
+890	does not break.	não se quebra.
+891	It does not despair.	Não desanima.
+892	It grows stronger.	Fortalece-se.
+893	It rises higher.	Eleva-se.
+894	And it spreads light.	E espalha luz.
+895	It spreads holiness.	Espalha santidade.
+896	It spreads faith.	Espalha fé.
+897	And this is what is written:	E isso é o que está escrito:
+898	beaten for the light,	batido para a luz,
+899	to cause a lamp to burn continually.	para acender a lâmpada continuamente.
