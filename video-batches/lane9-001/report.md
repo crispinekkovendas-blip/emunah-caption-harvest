@@ -1,7 +1,7 @@
 # lane9-001
 
-24 of 25 lessons published · 0 skipped · status **pending**
-Tokens (50 agent runs with a record): 0.6M in (mostly cache) · 1.14M out · API-equivalent 13.37
+24 of 25 lessons published · 1 skipped · status **done**
+Tokens (54 agent runs with a record): 0.6M in (mostly cache) · 1.24M out · API-equivalent 14.43
 
 | lesson | state | detail |
 |---|---|---|
@@ -19,7 +19,7 @@ Tokens (50 agent runs with a record): 0.6M in (mostly cache) · 1.14M out · API
 | dpHmpU08ZNk | ✓ published | 12 lines · Servir HaShem com alegria |
 | 0XBz7sN_27Q | ✓ published | 20 lines · Os portões do corpo: juiz e oficial em cada um |
 | ypJ0ePbogDY | ✓ published | 600 lines · Da vida no automático à vida cheia de sentido |
-| 4dj5Q3RQlLc | ✗ will be redone (try 2) | line 900 twice |
+| 4dj5Q3RQlLc | skipped after 3 tries | 35 lines missing |
 | BzSyClctgKU | ✓ published | 810 lines · Amor próprio: a Torá manda cuidar de si mesmo |
 | QKJAMUMnbxI | ✓ published | 875 lines · Respeito à lei e à autoridade: Parashat Bechukotai |
 | ciGNo1GeiNI | ✓ published | 746 lines · Parashá Balak: o líder, o Mashiach e a Gruta de Machpelá |

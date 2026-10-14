@@ -2,7 +2,7 @@
  "name": "lane9-001",
  "lane": 9,
  "created": "2026-10-14T13:53:16.234Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "IgRg-xqSzrg",
@@ -224,7 +224,7 @@
  ],
  "tries": {
   "IgRg-xqSzrg": 1,
-  "4dj5Q3RQlLc": 2,
+  "4dj5Q3RQlLc": 3,
   "YlZ5jtWi5aQ": 1
  },
  "done": [
@@ -253,5 +253,7 @@
   "YlZ5jtWi5aQ",
   "2vo4G3z3Y3o"
  ],
- "skipped": []
+ "skipped": [
+  "4dj5Q3RQlLc"
+ ]
 }
