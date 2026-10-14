@@ -1,0 +1,450 @@
+0	And we will rise, be exalted, praised, glorified, uplifted and lifted high	E subiremos, seremos elevados, louvados, glorificados, exaltados e engrandecidos
+1	the name of the Holy One, blessed be He, Master of the world, Master of salvation,	o nome do Santo, bendito seja Ele, dono do mundo, dono da salvação,
+2	Master of mercy, Master of kindness, Master of splendor, Master of prayer,	dono da misericórdia, dono da bondade, dono do esplendor, dono da oração,
+3	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+4	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+5	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+6	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+7	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+8	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+9	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+10	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+11	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+12	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+13	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+14	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+15	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+16	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+17	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+18	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+19	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+20	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+21	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+22	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+23	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+24	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+25	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+26	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+27	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+28	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+29	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+30	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+31	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+32	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+33	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+34	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+35	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+36	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+37	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+38	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+39	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+40	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+41	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+42	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+43	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+44	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+45	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+46	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+47	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+48	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+49	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+50	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+51	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+52	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+53	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+54	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+55	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+56	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+57	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+58	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+59	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+60	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+61	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+62	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+63	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+64	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+65	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+66	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+67	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+68	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+69	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+70	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+71	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+72	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+73	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+74	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+75	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+76	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+77	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+78	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+79	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+80	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+81	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+82	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+83	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+84	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+85	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+86	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+87	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+88	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+89	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+90	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+91	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+92	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+93	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+94	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+95	Master of praise, Master of splendor, Master of prayer, Master of repentance,	dono do louvor, dono do esplendor, dono da oração, dono do arrependimento,
+96	Master of comfort, Master of greatness, Master of might, Master of praise,	dono do consolo, dono da grandeza, dono do poder, dono do louvor,
+97	Master of splendor, Master of prayer, Master of repentance, Master of comfort,	dono do esplendor, dono da oração, dono do arrependimento, dono do consolo,
+98	Master of greatness, Master of might, Master of praise, Master of splendor,	dono da grandeza, dono do poder, dono do louvor, dono do esplendor,
+99	Master of prayer, Master of repentance, Master of comfort, Master of greatness,	dono da oração, dono do arrependimento, dono do consolo, dono da grandeza,
+100	Master of might, Master of praise, Master of splendor, Master of prayer,	dono do poder, dono do louvor, dono do esplendor, dono da oração,
+101	Master of repentance, Master of comfort, Master of greatness, Master of might,	dono do arrependimento, dono do consolo, dono da grandeza, dono do poder,
+102	and His mercies are over all His works.	e Suas misericórdias estão sobre todas as Suas obras.
+103	Enter after "The Pursuit of Maran's Legacy"	Entre depois de "A Busca pela Herança de Maran"
+104	for additional and exclusive content	para conteúdos adicionais e exclusivos
+105	Adonai Elokeinu and Elokei of our fathers,	Adonai, Elokeinu e Elokei de nossos pais,
+106	King of the world,	Rei do mundo,
+107	who created heaven and earth,	que criou os céus e a terra,
+108	and all their hosts.	e todas as suas hostes.
+109	Adonai Elokeinu, Adonai is One.	Adonai Elokeinu, Adonai é Um.
+110	Blessed be the name of His glorious kingdom forever and ever.	Bendito seja o nome da glória do Seu reino para todo o sempre.
+111	And HaShem spoke to Moses, saying:	E HaShem falou a Moisés, dizendo:
+112	Speak to the children of Israel and say to them:	Fala aos filhos de Israel e dize-lhes:
+113	When a man among you brings an offering to HaShem from the animals,	Quando um homem dentre vós trouxer uma oferta a HaShem, dos animais,
+114	from the herd and from the flock you shall bring your offering.	do gado e do rebanho trareis a vossa oferta.
+115	If his offering is a burnt offering from the herd,	Se a sua oferta for uma oferta queimada do gado,
+116	a male without blemish he shall bring it, to the entrance of the Tent of Meeting;	um macho sem defeito a trará, à entrada da Tenda da Reunião;
+117	he shall bring it of his own will before HaShem.	trá-la-á por sua vontade perante HaShem.
+118	And he shall lay his hand on the head of the burnt offering,	E porá a mão sobre a cabeça da oferta queimada,
+119	and it shall be accepted for him, to atone for him.	e será aceita em seu favor, para expiar por ele.
+120	And he shall slaughter the young bull before HaShem,	E degolará o novilho perante HaShem,
+121	and the sons of Aaron, the kohanim, shall bring the blood,	e os filhos de Aarão, os kohanim, apresentarão o sangue,
+122	and sprinkle the blood upon the altar	e o aspergirão sobre o altar
+123	all around, at the entrance of the Tent of Meeting.	ao redor, que está à entrada da Tenda da Reunião.
+124	And he shall flay the burnt offering and cut it into its pieces.	E esfolará a oferta queimada e a cortará em pedaços.
+125	And the sons of Aaron the kohen shall put fire on the altar,	E os filhos de Aarão, o kohen, porão fogo sobre o altar,
+126	and arrange wood upon the fire.	e arrumarão lenha sobre o fogo.
+127	And the sons of Aaron, the kohanim, shall arrange the pieces,	E os filhos de Aarão, os kohanim, arrumarão os pedaços,
+128	the head and the fat, upon the wood	a cabeça e a gordura, sobre a lenha
+129	that is on the fire that is on the altar.	que está sobre o fogo que está sobre o altar.
+130	But its entrails and its legs he shall wash with water,	Mas as suas entranhas e as suas pernas lavará com água,
+131	and the kohen shall burn all of it on the altar;	e o kohen queimará tudo sobre o altar;
+132	it is a burnt offering, a fire offering, a pleasing aroma to HaShem.	é uma oferta queimada, oferta ígnea de aroma agradável a HaShem.
+133	And if his offering is from the flock, from the sheep or from the goats,	E se a sua oferta for do rebanho, dos cordeiros ou das cabras,
+134	for a burnt offering, a male without blemish he shall bring it.	como oferta queimada, um macho sem defeito a trará.
+135	And he shall slaughter it on the north side of the altar before HaShem,	E o degolará ao lado norte do altar perante HaShem,
+136	and the sons of Aaron shall sprinkle its blood upon the altar all around.	e os filhos de Aarão aspergirão o seu sangue sobre o altar ao redor.
+137	And he shall cut it into its pieces, with its head and its fat,	E o cortará em pedaços, com a sua cabeça e a sua gordura,
+138	and the kohen shall arrange them upon the wood	e o kohen os arrumará sobre a lenha
+139	that is on the fire that is on the altar.	que está sobre o fogo que está sobre o altar.
+140	And the entrails and the legs he shall wash with water,	E as entranhas e as pernas lavará com água,
+141	and the kohen shall bring all of it and burn it on the altar;	e o kohen trará tudo e o queimará sobre o altar;
+142	it is a burnt offering, a fire offering, a pleasing aroma to HaShem.	é uma oferta queimada, oferta ígnea de aroma agradável a HaShem.
+143	And HaShem spoke to Moses, saying:	E HaShem falou a Moisés, dizendo:
+144	Hear, O Israel,	Ouve, Israel,
+145	Adonai Elokeinu,	Adonai Elokeinu,
+146	Adonai is One.	Adonai é Um.
+147	Blessed be the name of His glorious kingdom forever and ever.	Bendito seja o nome da glória do Seu reino para todo o sempre.
+148	Hear, O Israel,	Ouve, Israel,
+149	Adonai Elokeinu,	Adonai Elokeinu,
+150	Adonai is One.	Adonai é Um.
+151	Blessed be the name of His glorious kingdom forever and ever.	Bendito seja o nome da glória do Seu reino para todo o sempre.
+152	Hear, O Israel,	Ouve, Israel,
+153	Adonai Elokeinu,	Adonai Elokeinu,
+154	Adonai is One.	Adonai é Um.
+155	Blessed be the name of His glorious kingdom forever and ever.	Bendito seja o nome da glória do Seu reino para todo o sempre.
+156	Hear, O Israel,	Ouve, Israel,
+157	Adonai Elokeinu,	Adonai Elokeinu,
+158	Adonai is One.	Adonai é Um.
+159	Blessed be the name of His glorious kingdom forever and ever.	Bendito seja o nome da glória do Seu reino para todo o sempre.
+160	Hear, O Israel,	Ouve, Israel,
+161	Adonai Elokeinu,	Adonai Elokeinu,
+162	Adonai is One.	Adonai é Um.
+163	Blessed be the name of His glorious kingdom forever and ever.	Bendito seja o nome da glória do Seu reino para todo o sempre.
+164	Hear, O Israel,	Ouve, Israel,
+165	Adonai Elokeinu,	Adonai Elokeinu,
+166	Adonai is One.	Adonai é Um.
+167	Blessed be the name of His glorious kingdom forever and ever.	Bendito seja o nome da glória do Seu reino para todo o sempre.
+168	Hear, O Israel,	Ouve, Israel,
+169	Adonai Elokeinu,	Adonai Elokeinu,
+170	Adonai is One.	Adonai é Um.
+171	Blessed be the name of His glorious kingdom forever and ever.	Bendito seja o nome da glória do Seu reino para todo o sempre.
+172	Hear, O Israel,	Ouve, Israel,
+173	Adonai Elokeinu,	Adonai Elokeinu,
+174	Adonai is One.	Adonai é Um.
+175	Blessed be the name of His glorious kingdom forever and ever.	Bendito seja o nome da glória do Seu reino para todo o sempre.
+176	Hear, O Israel,	Ouve, Israel,
+177	Adonai Elokeinu,	Adonai Elokeinu,
+178	Adonai is One.	Adonai é Um.
+179	Blessed be the name of His glorious kingdom forever and ever.	Bendito seja o nome da glória do Seu reino para todo o sempre.
+180	Hear, O Israel,	Ouve, Israel,
+181	Adonai Elokeinu,	Adonai Elokeinu,
+182	Adonai is One.	Adonai é Um.
+183	Blessed be the name of His glorious kingdom forever and ever.	Bendito seja o nome da glória do Seu reino para todo o sempre.
+184	And HaShem spoke to Moses, saying:	E HaShem falou a Moisés, dizendo:
+185	Speak to the children of Israel and say to them:	Fala aos filhos de Israel e dize-lhes:
+186	When a man among you brings an offering to HaShem from the animals,	Quando um homem dentre vós trouxer uma oferta a HaShem, dos animais,
+187	from the herd and from the flock you shall bring your offering.	do gado e do rebanho trareis a vossa oferta.
+188	He who is praised by the mouth of a holy people	Aquele que é louvado pela boca de um povo santo
+189	Amen	Amém
+190	in the multitude of the great throngs	na multidão das grandes assembleias
+191	Amen	Amém
+192	and in the praises of the upright of heart	e nos louvores dos retos de coração
+193	Amen	Amém
+194	and in the songs of the tzaddikim and chasidim	e nos cantos dos tsadikim e dos chasidim
+195	Amen	Amém
+196	and in the words of the holy ones and angels	e nas palavras dos santos e dos anjos
+197	Amen	Amém
+198	and in the songs of the kings on high	e nos cantos dos reis das alturas
+199	Amen	Amém
+200	and in the praises of the seraphim and ofanim	e nos louvores dos serafins e dos ofanim
+201	Amen	Amém
+202	and in the praises of the holy chayot	e nos louvores das chayot sagradas
+203	Amen	Amém
+204	and in the song of the cherubim and galgalim	e no canto dos querubins e dos galgalim
+205	Amen	Amém
+206	and in the praises of the heavens	e nos louvores dos céus
+207	Amen	Amém
+208	and in the praises of the earth	e nos louvores da terra
+209	Amen	Amém
+210	and in the songs of seas and rivers	e nos cantos dos mares e dos rios
+211	Amen	Amém
+212	and in the song of mountains and hills	e no canto das montanhas e das colinas
+213	Amen	Amém
+214	and in the voices of trees and grasses	e nas vozes das árvores e das ervas
+215	Amen	Amém
+216	and in the praises of wild animals and beasts	e nos louvores das feras e dos animais
+217	Amen	Amém
+218	and in the song of birds and fish	e no canto das aves e dos peixes
+219	Amen	Amém
+220	El, King, exalted and praised	El, Rei, exaltado e louvado
+221	Amen	Amém
+222	in the mouth of every soul and spirit	na boca de toda alma e espírito
+223	Amen	Amém
+224	His kingship is a kingship of all worlds	O Seu reinado é um reinado de todos os mundos
+225	Amen	Amém
+226	and His dominion is in every generation	e o Seu domínio está em cada geração
+227	Amen	Amém
+228	and in every time and hour	e em todo tempo e hora
+229	Amen	Amém
+230	and in every moment and instant	e em todo momento e instante
+231	Amen	Amém
+232	and in every hint and blink of an eye	e em cada indício e piscar de olhos
+233	Amen	Amém
+234	and in every universe and every creation	e em todo universo e em toda criação
+235	Amen	Amém
+236	and in all the work of Creation	e em toda a obra da Criação
+237	Amen	Amém
+238	and in every creature and every created being	e em toda criatura e em todo ser criado
+239	Amen	Amém
+240	and in all the emanated and the separate	e em todos os emanados e os separados
+241	Amen	Amém
+242	and in all that are joined and blended	e em todos os que se unem e se misturam
+243	Amen	Amém
+244	and in all that expand and contract	e em todos os que se expandem e se recolhem
+245	Amen	Amém
+246	and in all that are attached and the hidden	e em todos os que estão ligados e os ocultos
+247	Amen	Amém
+248	To You, HaShem, the One and Unique	A Ti, HaShem, o Único e Singular
+249	Amen	Amém
+250	Please, El, King Most High	Por favor, El, Rei Altíssimo
+251	Amen	Amém
+252	and save us for the sake of Your Name	e salva-nos por amor do Teu Nome
+253	Amen	Amém
+254	and reveal the glory of Your kingdom	e revela a glória do Teu reino
+255	Amen	Amém
+256	and in Your abundant mercies	e nas Tuas abundantes misericórdias
+257	Amen	Amém
+258	and in Your mighty kindnesses	e nas Tuas poderosas bondades
+259	Amen	Amém
+260	and in Your awesome acts of might	e nos Teus feitos tremendos de poder
+261	Amen	Amém
+262	and in Your great wonders	e nas Tuas grandes maravilhas
+263	Amen	Amém
+264	and in Your sublime creations	e nas Tuas sublimes criações
+265	Amen	Amém
+266	and in all the works of Your hands	e em todas as obras das Tuas mãos
+267	Amen	Amém
+268	and in all the souls of the children of Israel	e em todas as almas dos filhos de Israel
+269	Amen	Amém
+270	and in all the souls of all creation	e em todas as almas de toda a criação
+271	Amen	Amém
+272	and in all the creatures and created beings	e em todas as criaturas e seres criados
+273	Amen	Amém
+274	and in all that are joined and blended	e em todos os que se unem e se misturam
+275	Amen	Amém
+276	and in all that are attached and the hidden	e em todos os que estão ligados e os ocultos
+277	Amen	Amém
+278	To You, HaShem, the One and Unique	A Ti, HaShem, o Único e Singular
+279	Amen	Amém
+280	Please, El, King Most High	Por favor, El, Rei Altíssimo
+281	Amen	Amém
+282	and save us for the sake of Your Name	e salva-nos por amor do Teu Nome
+283	Amen	Amém
+284	and reveal the glory of Your kingdom	e revela a glória do Teu reino
+285	Amen	Amém
+286	and in Your abundant mercies	e nas Tuas abundantes misericórdias
+287	Amen	Amém
+288	and in Your mighty kindnesses	e nas Tuas poderosas bondades
+289	Amen	Amém
+290	and in Your awesome acts of might	e nos Teus feitos tremendos de poder
+291	Amen	Amém
+292	and in Your great wonders	e nas Tuas grandes maravilhas
+293	Amen	Amém
+294	and in Your sublime creations	e nas Tuas sublimes criações
+295	Amen	Amém
+296	and in all the works of Your hands	e em todas as obras das Tuas mãos
+297	Amen	Amém
+298	and in all the souls of the children of Israel	e em todas as almas dos filhos de Israel
+299	Amen	Amém
+300	and in all the souls of all creation	e em todas as almas de toda a criação
+301	Amen	Amém
+302	and in all the creatures and created beings	e em todas as criaturas e seres criados
+303	Amen	Amém
+304	and in all that are joined and blended	e em todos os que se unem e se misturam
+305	Amen	Amém
+306	and in all that are attached and the hidden	e em todos os que estão ligados e os ocultos
+307	Amen	Amém
+308	To You, HaShem, the One and Unique	A Ti, HaShem, o Único e Singular
+309	Amen	Amém
+310	Please, El, King Most High	Por favor, El, Rei Altíssimo
+311	Amen	Amém
+312	and save us for the sake of Your Name	e salva-nos por amor do Teu Nome
+313	Amen	Amém
+314	and reveal the glory of Your kingdom	e revela a glória do Teu reino
+315	Amen	Amém
+316	and in Your abundant mercies	e nas Tuas abundantes misericórdias
+317	Amen	Amém
+318	and in Your mighty kindnesses	e nas Tuas poderosas bondades
+319	Amen	Amém
+320	and in Your awesome acts of might	e nos Teus feitos tremendos de poder
+321	Amen	Amém
+322	and in Your great wonders	e nas Tuas grandes maravilhas
+323	Amen	Amém
+324	and in Your sublime creations	e nas Tuas sublimes criações
+325	Amen	Amém
+326	and in all the works of Your hands	e em todas as obras das Tuas mãos
+327	Amen	Amém
+328	and in all the souls of the children of Israel	e em todas as almas dos filhos de Israel
+329	Amen	Amém
+330	and in all the souls of all creation	e em todas as almas de toda a criação
+331	Amen	Amém
+332	and in all the creatures and created beings	e em todas as criaturas e seres criados
+333	Amen	Amém
+334	and in all that are joined and blended	e em todos os que se unem e se misturam
+335	Amen	Amém
+336	and in all that are attached and the hidden	e em todos os que estão ligados e os ocultos
+337	Amen	Amém
+338	To You, HaShem, the One and Unique	A Ti, HaShem, o Único e Singular
+339	Amen	Amém
+340	Please, El, King Most High	Por favor, El, Rei Altíssimo
+341	Amen	Amém
+342	and save us for the sake of Your Name	e salva-nos por amor do Teu Nome
+343	Amen	Amém
+344	and reveal the glory of Your kingdom	e revela a glória do Teu reino
+345	Amen	Amém
+346	and in Your abundant mercies	e nas Tuas abundantes misericórdias
+347	Amen	Amém
+348	and in Your kind…	e nas Tuas bondades…
+349	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+350	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+351	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+352	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+353	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+354	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+355	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+356	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+357	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+358	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+359	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+360	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+361	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+362	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+363	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+364	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+365	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+366	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+367	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+368	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+369	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+370	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+371	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+372	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+373	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+374	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+375	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+376	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+377	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+378	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+379	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+380	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+381	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+382	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+383	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+384	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+385	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+386	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+387	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+388	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+389	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+390	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+391	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+392	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+393	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+394	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+395	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+396	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+397	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+398	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+399	HaShem will give strength to His people;	HaShem dará força ao Seu povo;
+400	HaShem will bless His people with peace.	HaShem abençoará o Seu povo com paz.
+401	as it is said	como está dito
+402	And HaShem passed before him	E HaShem passou diante dele
+403	and proclaimed	e proclamou
+404	before HaShem, proclaiming	diante de HaShem, proclamando
+405	and proclaimed	e proclamou
+406	before Moses	diante de Moisés
+407	and called in the name	e invocou o nome
+408	of HaShem	de HaShem
+409	Amen	Amém
+410	and said	e disse
+411	before HaShem	diante de HaShem
+412	our iniquities and our sins	as nossas iniquidades e os nossos pecados
+413	and take us as Your inheritance	e toma-nos como Tua herança
+414	the children of Israel, in all	os filhos de Israel, em todas
+415	our iniquities	as nossas iniquidades
+416	You	Tu
+417	and for the Shemitah and for the Jubilee	e pelo Shemitá e pelo Jubileu
+418	and for the offerings and for the meal-offering	e pelos sacrifícios e pela oferta de farinha
+419	and for the sin-offering and for the guilt-offering	e pela oferta pelo pecado e pela oferta pela culpa
+420	and for the Torah and for the mitzvah	e pela Torá e pela mitsvá
+421	and for the lulav and for the etrog	e pelo lulav e pelo etrog
+422	and for the sukkah and for the heart	e pela sucá e pelo coração
+423	and for the shofar and for the sickle	e pelo shofar e pela foice
+424	and for the altar and for the east	e pelo altar e pelo oriente
+425	and for the east and for the west	e pelo oriente e pelo ocidente
+426	and for the north and for the south	e pelo norte e pelo sul
+427	and for the heavens and for the earth	e pelos céus e pela terra
+428	and for life and for death	e pela vida e pela morte
+429	and for the good and for the evil	e pelo bem e pelo mal
+430	and for peace and for war	e pela paz e pela guerra
+431	for from all peoples	pois dentre todos os povos
+432	from us	de nós
+433	and we will be	e nós seremos
+434	Adonai Elokeinu and Elokei of our fathers	Adonai Elokeinu e Elokei de nossos pais
+435	Elokei Avraham, Elokei Yitzchak, and Elokei Yaakov	Elokei Avraham, Elokei Yitzchak e Elokei Yaakov
+436	the great, mighty and awesome God	o Deus grande, poderoso e temível
+437	God Most High, Creator of heaven and earth	Deus Altíssimo, Criador dos céus e da terra
+438	Shield of the fathers by His word	Escudo dos pais por Sua palavra
+439	who revives the dead by His utterance	que revive os mortos por Sua palavra
+440	the holy God, none is like Him	o Deus santo, ninguém é como Ele
+441	for You are Adonai Elokeinu	pois Tu és Adonai Elokeinu
+442	and Elokei of our fathers forever and ever	e Elokei de nossos pais para todo o sempre
+443	Rock of our salvation and Shield of our support	Rocha da nossa salvação e Escudo do nosso amparo
+444	Your Name is holy and awesome	O Teu Nome é santo e temível
+445	Blessed are You, Adonai, Shield of Abraham	Bendito és Tu, Adonai, Escudo de Abraão
+446	You are mighty forever, Adonai	Tu és poderoso para sempre, Adonai
+447	who revives the dead, You are great in saving	que revive os mortos, Tu és grande em salvar
+448	who causes the dew to fall, sustains the living with kindness	que faz descer o orvalho, sustenta os vivos com bondade
+449	who revives the dead with abundant mercy	que revive os mortos com abundante misericórdia
