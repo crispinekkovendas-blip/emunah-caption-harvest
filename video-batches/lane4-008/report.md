@@ -1,7 +1,7 @@
 # lane4-008
 
-20 of 25 lessons published · 4 skipped · status **pending**
-Tokens (112 agent runs with a record): 1.5M in (mostly cache) · 2.77M out · API-equivalent 32.27
+21 of 25 lessons published · 4 skipped · status **done**
+Tokens (116 agent runs with a record): 1.6M in (mostly cache) · 2.86M out · API-equivalent 33.14
 
 | lesson | state | detail |
 |---|---|---|
@@ -13,11 +13,11 @@ Tokens (112 agent runs with a record): 1.5M in (mostly cache) · 2.77M out · AP
 | kZXSAc1_CIo | ✓ published | 1024 lines · Parashá Shelach Lecha: Hishtadlut e Bitachon |
 | g75SSh-LRj0 | ✓ published | 1212 lines · Vayakhel-Shekalim: unidade e amor a Israel |
 | VVpqIPn2ZSg | ✓ published | 241 lines · Leitura da Parashá Toldot, nusach marroquino |
-| b0WsNfYGiRY | waiting | 2/3 parts |
+| b0WsNfYGiRY | ✓ published | 944 lines · Haazinu: como cantar a repreensão e a Sucá |
 | XcJdkXd6t-A | skipped | |
 | PidTaZNoVqw | ✓ published | 740 lines · Tanya, o livro dos Beinonim: Dekel LePeirotav |
 | tFX1gItG7EE | ✓ published | 266 lines · A força do Livro de Devarim e o peso das palavras |
-| qxae6lMsFLk | skipped after 3 tries | line 322 twice |
+| qxae6lMsFLk | skipped | |
 | 0g3jnyxGEZY | skipped | |
 | hE0bCofaKH0 | ✓ published | 709 lines · Pare de reagir à realidade e comece a criá-la |
 | NDqlxNsdl1M | ✓ published | 265 lines · Brit Milá: o significado profundo da circuncisão |
