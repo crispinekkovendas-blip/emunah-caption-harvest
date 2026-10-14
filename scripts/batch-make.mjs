@@ -104,7 +104,19 @@ const richest = Object.entries(study)
 // same moment can never take the same lesson
 const LANES = 10
 const laneOf = (id) => [...id].reduce((h, ch) => (h * 31 + ch.charCodeAt(0)) >>> 0, 7) % LANES
-const order = [...new Set([...week, ...richest])].filter((id) => study[id] && !taken.has(id) && laneOf(id) === LANE - 1)
+const free = [...new Set([...week, ...richest])].filter((id) => study[id] && !taken.has(id))
+let order = free.filter((id) => laneOf(id) === LANE - 1)
+// 2026-10-14 (the owner: "10 lanes running all the time"): a lane whose own share ran out helps the
+// busy lanes, taking from the back half of their shares — an owner works from the front, so the two
+// never pick the same lesson in one round; the idle lanes deal that pool out among themselves
+const shares = Array.from({ length: LANES }, (_, i) => free.filter((id) => laneOf(id) === i))
+const idle = shares.map((s, i) => (s.length < SIZE ? i : -1)).filter((i) => i >= 0)
+if (idle.includes(LANE - 1)) {
+  const pool = shares.filter((s) => s.length >= 2 * SIZE).flatMap((s) => s.slice(Math.ceil(s.length / 2)))
+  const help = pool.filter((_, i) => i % idle.length === idle.indexOf(LANE - 1))
+  if (help.length) console.log(`own share: ${order.length} lessons — helping the busy lanes with ${help.length}`)
+  order = [...order, ...help]
+}
 
 const mine = batches.filter((b) => b.startsWith(`lane${LANE}-`)).length
 const name = `lane${LANE}-${String(mine + 1).padStart(3, '0')}`
