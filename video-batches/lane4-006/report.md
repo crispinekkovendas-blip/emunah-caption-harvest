@@ -1,7 +1,7 @@
 # lane4-006
 
-19 of 25 lessons published · 5 skipped · status **pending**
-Tokens (192 agent runs with a record): 2.8M in (mostly cache) · 5.02M out · API-equivalent 60.38
+19 of 25 lessons published · 6 skipped · status **done**
+Tokens (193 agent runs with a record): 2.8M in (mostly cache) · 5.02M out · API-equivalent 60.38
 
 | lesson | state | detail |
 |---|---|---|
@@ -17,7 +17,7 @@ Tokens (192 agent runs with a record): 2.8M in (mostly cache) · 5.02M out · AP
 | xIMNZixImTA | ✓ published | 908 lines · Emuná, a Torá como planta do mundo e a bênção da fé |
 | 5wcLb7uJDj0 | ✓ published | 1060 lines · As sete pragas de Vaerá como oficina de trabalho pessoal |
 | kE4ty09Yb5s | skipped | |
-| OV8sU2kKdsQ | waiting | 2/3 parts |
+| OV8sU2kKdsQ | skipped after 3 tries | line 900 twice |
 | UeCNY2plPf4 | ✓ published | 1007 lines · Bereshit: a Hakhnaá e a Anavá de Moshé Rabênu |
 | d0pmT-iH20k | ✓ published | 456 lines · Parashá Yitro: respeito à mulher e os pilares da fé |
 | FCPFHCRjjZE | ✓ published | 1313 lines · Elul: o dom e a guerra interior da alma |
