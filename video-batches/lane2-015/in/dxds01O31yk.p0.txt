@@ -1,0 +1,112 @@
+videoId: dxds01O31yk
+parte 1 de 1 · traduzir as linhas 0 a 101 (102 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Prece por Misericórdia e Redenção
+RESUMO: A aula é uma prece fervorosa a Hashem, começando com um apelo para que Ele ouça as súplicas e orações, reconhecendo a magnitude de Sua bondade. O orador expressa profundo arrependimento pelos pecados, pedindo perdão e purificação, e lamenta as aflições e armadilhas que cercam o povo. Há um clamor por proteção e salvação para os remanescentes, pedindo que Hashem se compadeça dos aflitos e do Seu povo, que sofre com a dispersão e o exílio. A prece enfatiza a fé na justiça e na misericórdia de Hashem, suplicando por Sua intervenção para salvar e perdoar os pecados, e conclui com um pedido para que Ele ouça as orações de todo Israel, o povo santo.
+MOMENTOS: 00:12 Apelo para que Hashem ouça as orações · 00:31 Reconhecimento dos pecados e pedido de perdão · 01:23 Lamento pelas aflições e amarguras · 02:01 Menção de armadilhas e perigos para o povo · 02:39 Pedido de proteção e apoio para os remanescentes · 03:01 Súplica por misericórdia para os aflitos · 03:59 Clamor por Hashem para ouvir as preces · 04:39 Pedido de justiça e misericórdia · 05:00 Lamento pela dispersão e sofrimento do povo · 06:42 Apelo a Hashem como Pai misericordioso · 07:44 Súplica pela salvação e perdão dos pecados · 08:02 Clamor pela proteção de Israel
+FONTES CITADAS: 00:00 Selichot, piyut "Eilecha Adonai Nasati Einai · 00:12 Bamidbar 14:19 (alusão a "kegodel chasdecha") · 00:31 Selichot, piyut "Eilecha Adonai Nasati Einai · 00:47 Selichot, piyut "Eilecha Adonai Nasati Einai · 02:01 Selichot, piyut "Eilecha Adonai Nasati Einai · 02:29 Selichot, piyut "Eilecha Adonai Nasati Einai · 03:01 Selichot, piyut "Eilecha Adonai Nasati Einai · 05:00 Selichot, piyut "Eilecha Adonai Nasati Einai · 06:42 Selichot, "Avinu Av HaRachaman · 07:13 Selichot, "Avinu Av HaRachaman · 07:17 Selichot, "Avinu Av HaRachaman · 07:36 Avinu Malkenu · 07:44 Tehilim 20:10 · 07:52 Tehilim 79:9 · 08:02 Selichot, "Shomer Yisrael · 08:42 Selichot, "Shomer HaGoy HaKadosh
+
+LINHAS A TRADUZIR:
+0|00:00|אליך אדוני נשתי עיני שמע קול תחנוני כגודל חסדך
+1|00:12|ושמע תפילתנו כגודל חסדך
+2|00:24|גברו יגוני וירבו אנחותי
+3|00:31|כי כל עוונותי שתה לנגדך
+4|00:36|וכל עוונותי שתה לנגדך
+5|00:47|כפר חטאתי אלוהי ישועתי
+6|00:56|ודמעת נורתי סבבני
+7|01:06|כפר חטאתי אלוהי ישועתי
+8|01:14|ודמעת נורתי סבבני
+9|01:23|זכרוני ומרורותי לא עמדו
+10|01:32|עד מותי לנגדי תחדש עלי
+11|01:42|זכרוני ומרורותי לא עמדו
+12|01:51|עד מותי לנגדי תחדש עלי
+13|02:01|תמנו לי זדים פחים ומצודים
+14|02:09|ובהם נלכדים עמידיך
+15|02:15|תמנו לי זדים פחים ומצודים
+16|02:23|ובהם נלכדים עמידיך
+17|02:29|כלו צור ועמזו ועצור
+18|02:39|ותומך נצור תנה לשרידיך
+19|02:46|כלו צור ועמזו ועצור
+20|02:53|ותומך נצור תנה לשרידיך
+21|03:01|מרום מרומים רחם ענאגומים
+22|03:11|ועל זרע רחומים ידיד ידידיך
+23|03:21|נואקים בוגדוד
+24|03:24|גדול ורב צמאינו
+25|03:30|ורב עניינינו
+26|03:35|ורב עשינו
+27|03:39|סוג לעול תציל
+28|03:45|ואויבם תבהיל
+29|03:50|וחתם תנאיל
+30|03:55|וגד גדודך
+31|03:59|עני עתירתם
+32|04:04|צור מחית פירתם
+33|04:09|ורשע שבותם
+34|04:14|ורב צחלתם
+35|04:18|פג עמך עומם
+36|04:24|וחיל לבדודם
+37|04:29|וגלות זקנם
+38|04:33|שבעו נדודך
+39|04:39|צדק מחלום
+40|04:44|ורב ענינו
+41|04:50|ורב צונות
+42|04:55|ורב חסדך
+43|05:00|רב צמפוזרים
+44|05:04|בחב לצרצורים
+45|05:10|בלא ומחזרים
+46|05:15|שרפו בועדך
+47|05:21|רב עמך עומם
+48|05:27|ורב ענינו
+49|05:32|ורב חסדך
+50|05:37|ורב צחלתך
+51|05:41|שדי נשגבת
+52|05:45|וכל אשר פעלת
+53|05:49|כי צדקת
+54|05:54|וצדק מתדך
+55|05:58|ורב ענינו
+56|06:03|ורב מלכי
+57|06:07|ורב נדרכי
+58|06:11|ורב ענינו
+59|06:13|תשוע תפילתי
+60|06:18|וצי חרנתי
+61|06:22|כי אתה תקוותי
+62|06:26|ומילוי עדיך
+63|06:29|ורב ענינו
+64|06:34|ורב חסדך
+65|06:39|ורב ענינו
+66|06:42|אבינו אב רחמן
+67|06:45|אלוהינו ואלוהי אבותינו
+68|06:49|בצר לנו קרנוך
+69|06:53|וקרה עלינו המון רחמיך
+70|06:58|ורשנוך והצילנו
+71|07:03|וצרנו היום כנו היום בתפילתנו
+72|07:08|ואל תנישנו מסברנו
+73|07:13|וחינו לזכרון טוב מלפניך
+74|07:17|חוס ורחם עלינו
+75|07:21|וטהרנו בטומאות עמונינו
+76|07:26|אמונה רחמיך עלינו
+77|07:30|המון רחמך ורחם עלינו
+78|07:32|וזכנו כרחמיך ואבינו מלכנו באנו
+79|07:36|אבינו מלכנו אבינו אתה
+80|07:44|אדוני הושיע מלך עלינו ביום קוראנו כי ענינו
+81|07:49|נכון כפר אנחנו
+82|07:52|הושיענו אלוהי ישענו על דבר כבוד שמך
+83|07:57|והצילנו וכפר חותינו למען שמך
+84|08:02|שומר ישראל
+85|08:07|ושר ישראל
+86|08:12|וכל ישראל
+87|08:16|עומדים וכל ישראל
+88|08:22|שומר ורחם
+89|08:27|ושר ורחם
+90|08:31|וכל ורחם
+91|08:36|עומדים וכל ורחם
+92|08:42|שומר הקדוש
+93|08:46|ושר הקדוש
+94|08:50|וכל הקדוש
+95|08:54|עומדים וכל הקדוש
+96|09:00|שומר ורחם
+97|09:04|ושר ורחם
+98|09:08|וכל ורחם
+99|09:12|עומדים וכל ורחם
+100|09:17|שמעתנו קבלנו שמעת קטינו
+101|09:23|יודע תנועות

@@ -1,0 +1,92 @@
+{
+ "name": "lane2-015",
+ "lane": 2,
+ "created": "2026-10-14T15:20:18.490Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "8MkG3tjaNL8",
+   "title": "Kabalat Shabat de Rosh Chodesh Elul: temimut e rachamim",
+   "lines": 697,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "dxds01O31yk",
+   "title": "Prece por Misericórdia e Redenção",
+   "lines": 102,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "D5Z2ye5u2KY",
+   "title": "Os Nesiim e a abundância de cada dia de Nisan",
+   "lines": 44,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vORsqPkuTUM",
+   "title": "Como trazer a paz: Pinchas e o shalom",
+   "lines": 51,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ESH37S3qjEQ",
+   "title": "Tehilim de consolo: a graça interior na Haftará de Va'etchanan",
+   "lines": 788,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ODkdnAOXZsw",
+   "title": "Por que Korach foi engolido pela terra: midá keneged midá",
+   "lines": 220,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "K_7VnZYKvpM",
+   "title": "Ben Ish Chai: tampa de caixa, barril e cesto no Shabat",
+   "lines": 271,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5O5LoxWJSic",
+   "title": "Zera Shimshon: a vinda de Rosh HaShaná e o Shofar",
+   "lines": 186,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2w31kD6EHjI",
+   "title": "Shemini: encher os dias para se renovar",
+   "lines": 42,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vsib_ckXDTE",
+   "title": "Parashá Vayechi: Efraim e Menashé e o amor entre irmãos",
+   "lines": 142,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "8MkG3tjaNL8.p0",
+  "8MkG3tjaNL8.p1",
+  "dxds01O31yk.p0",
+  "D5Z2ye5u2KY.p0",
+  "vORsqPkuTUM.p0",
+  "ESH37S3qjEQ.p0",
+  "ESH37S3qjEQ.p1",
+  "ODkdnAOXZsw.p0",
+  "K_7VnZYKvpM.p0",
+  "5O5LoxWJSic.p0",
+  "2w31kD6EHjI.p0",
+  "vsib_ckXDTE.p0"
+ ]
+}
