@@ -1,0 +1,232 @@
+{
+ "name": "lane5-008",
+ "lane": 5,
+ "created": "2026-10-14T04:48:46.206Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "gCxD8elNYRM",
+   "title": "Noach: a Teivá, as palavras e o lar com propósito",
+   "lines": 813,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "RTmtZLhy7Xw",
+   "title": "Parashá Balak: Balak, Moav e a liderança que não teme",
+   "lines": 1070,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "aByOzVa2B8g",
+   "title": "Por que Caleb e não Yehoshua? Eved HaShem e o Or HaChaim",
+   "lines": 1077,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "lE2GjgwRsHg",
+   "title": "Yom Kipur: assumir o erro sem desculpas (Haazinu)",
+   "lines": 873,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "JmeEZEoLUSE",
+   "title": "O poder do Tzadik e o risco de recrutar os bnei Torá",
+   "lines": 690,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "VKzxd8iW-SE",
+   "title": "Você não é vítima: nem vendido, mas enviado",
+   "lines": 462,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HOLybv8XADI",
+   "title": "Parashá Re'eh: os falsos profetas e como reconhecê-los",
+   "lines": 1078,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "E3FPf6JdSkA",
+   "title": "Or HaChaim em Nitzavim: o mandamento da teshuvá",
+   "lines": 893,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "QhfROQoAjo8",
+   "title": "Do 17 de Tamuz ao Geulá: o bem oculto no fundo",
+   "lines": 1390,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tRu5UxPq1T0",
+   "title": "Ki Tisá: meio shekel, o Mishkan e o bezerro de ouro",
+   "lines": 82,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-_yBMBaajm8",
+   "title": "Ano novo, ano novo: Elul, Rosh HaShaná e a Torá",
+   "lines": 420,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "MscNeYNA4KA",
+   "title": "A família: porta para uma vida de significado eterno",
+   "lines": 687,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rGCdcBipwz4",
+   "title": "Como passar adiante o bem: continuidade na Parashá Pinchas",
+   "lines": 397,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tiAbrBeZrpQ",
+   "title": "Hayim KeHalachá: perguntas e respostas, Vaetchanan",
+   "lines": 952,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tfe6vtMSfy4",
+   "title": "Por que Moshé foi punido: o Zera Shimshon em Balak",
+   "lines": 221,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "6kLZSX_ZXc4",
+   "title": "Alegria, humor e a liderança de Mishlei 14:6",
+   "lines": 1060,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1illMEhjGH8",
+   "title": "Teshuvá na boca e no coração: Nitzavim-Vayelech",
+   "lines": 365,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "fIF74Rc711o",
+   "title": "Matar o egípcio: o ato que fez de Moshé um líder",
+   "lines": 655,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3WEiSfW2hnk",
+   "title": "Perdoar e não odiar o irmão: Lo Tisna",
+   "lines": 261,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "r7RF2FeSkno",
+   "title": "As pragas do gafanhoto e da escuridão até a saída do Egito",
+   "lines": 98,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "s0Dgm8hGjVI",
+   "title": "Shabat HaGadol e a coragem de ser quem somos",
+   "lines": 699,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "DHgNlW9ZsGg",
+   "title": "A oração de Moshê em Vaetchanan e a Guêulá",
+   "lines": 434,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qm7AxwkR06Y",
+   "title": "Nada é por acaso: a Torá que HaShem dá a cada um",
+   "lines": 614,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "P0oIIFZ_R2M",
+   "title": "Vayakhel: por que o Shabat vem antes do Mishkan",
+   "lines": 187,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FcH9U99vZK4",
+   "title": "Por que Vayakhel abre com o Shabat antes do Mishkan",
+   "lines": 195,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "gCxD8elNYRM.p0",
+  "gCxD8elNYRM.p1",
+  "RTmtZLhy7Xw.p0",
+  "RTmtZLhy7Xw.p1",
+  "RTmtZLhy7Xw.p2",
+  "aByOzVa2B8g.p0",
+  "aByOzVa2B8g.p1",
+  "aByOzVa2B8g.p2",
+  "lE2GjgwRsHg.p0",
+  "lE2GjgwRsHg.p1",
+  "JmeEZEoLUSE.p0",
+  "JmeEZEoLUSE.p1",
+  "VKzxd8iW-SE.p0",
+  "VKzxd8iW-SE.p1",
+  "HOLybv8XADI.p0",
+  "HOLybv8XADI.p1",
+  "HOLybv8XADI.p2",
+  "E3FPf6JdSkA.p0",
+  "E3FPf6JdSkA.p1",
+  "QhfROQoAjo8.p0",
+  "QhfROQoAjo8.p1",
+  "QhfROQoAjo8.p2",
+  "QhfROQoAjo8.p3",
+  "tRu5UxPq1T0.p0",
+  "-_yBMBaajm8.p0",
+  "MscNeYNA4KA.p0",
+  "MscNeYNA4KA.p1",
+  "rGCdcBipwz4.p0",
+  "tiAbrBeZrpQ.p0",
+  "tiAbrBeZrpQ.p1",
+  "tiAbrBeZrpQ.p2",
+  "tfe6vtMSfy4.p0",
+  "6kLZSX_ZXc4.p0",
+  "6kLZSX_ZXc4.p1",
+  "6kLZSX_ZXc4.p2",
+  "1illMEhjGH8.p0",
+  "fIF74Rc711o.p0",
+  "fIF74Rc711o.p1",
+  "3WEiSfW2hnk.p0",
+  "r7RF2FeSkno.p0",
+  "s0Dgm8hGjVI.p0",
+  "s0Dgm8hGjVI.p1",
+  "DHgNlW9ZsGg.p0",
+  "qm7AxwkR06Y.p0",
+  "qm7AxwkR06Y.p1",
+  "P0oIIFZ_R2M.p0",
+  "FcH9U99vZK4.p0"
+ ]
+}
