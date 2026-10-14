@@ -1,0 +1,43 @@
+{
+ "name": "lane7-002",
+ "lane": 7,
+ "created": "2026-10-14T15:43:26.895Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "rUVYgHJLu4M",
+   "title": "Nekamá com astúcia: o plano de Moshê contra Midian",
+   "lines": 243,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "bA25SK8_P_Y",
+   "title": "Abrir mão de 80 milhões por paz de espírito",
+   "lines": 380,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5w1DT_n9VeU",
+   "title": "A Importância da Testemunha Ocular na Torá",
+   "lines": 65,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "SjalhAU2QeY",
+   "title": "Nitsavim: não ter pena dos cruéis e o poder do shofar",
+   "lines": 867,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "rUVYgHJLu4M.p0",
+  "bA25SK8_P_Y.p0",
+  "5w1DT_n9VeU.p0",
+  "SjalhAU2QeY.p0",
+  "SjalhAU2QeY.p1"
+ ]
+}

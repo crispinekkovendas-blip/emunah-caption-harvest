@@ -1,0 +1,75 @@
+videoId: 5w1DT_n9VeU
+parte 1 de 1 · traduzir as linhas 0 a 64 (65 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A Importância da Testemunha Ocular na Torá
+RESUMO: A aula começa com uma analogia sobre a necessidade de testemunhas oculares em um acidente de trânsito, onde apenas quem viu o ocorrido pode depor. É explicado que a lei judaica, a Halachá, exige que as testemunhas tenham visto o evento diretamente, e não por ouvir de terceiros. Essa exigência é comparada à Parashá Haazinu, onde Moshê convoca os céus e a terra para serem testemunhas eternas do pacto entre HaShem e o povo de Israel. A razão para isso é que os céus e a terra são perpétuos e podem atestar que o povo foi avisado sobre as consequências de suas ações. Assim, a Torá e a lei civil compartilham o princípio de que a validade de um testemunho depende da observação direta do evento.
+MOMENTOS: 00:09 Testemunha ocular de acidente · 00:19 Descrição do acidente · 00:30 Avaliação da cena do acidente · 00:44 Amigo de testemunha não pode depor · 00:59 Testemunha deve ter visto o ocorrido · 01:04 Definição de testemunha na Halachá · 01:13 Testemunho de ouvir dizer não é válido · 01:26 Conexão com as Parashot da semana · 01:30 Moshê adverte sobre a Torá e as Mitzvot · 01:38 Céus e terra como testemunhas eternas · 01:43 Versículo de Haazinu · 02:03 Céus e terra como testemunhas de tribunal
+FONTES CITADAS: 01:15 (não especificado) · 01:23 (não especificado) · 01:26 Parashot da semana · 01:30 Devarim (não especificado) · 01:38 Devarim (não especificado) · 01:43 Devarim 32:1 · 01:50 (não especificado) · 01:54 (não especificado)
+
+LINHAS A TRADUZIR:
+0|00:05|אז אתה אומר שהיית עד לתאונה?
+1|00:08|כן, אדוני השוטר.
+2|00:09|אני בדיוק עמדתי פה שזה קרה.
+3|00:11|לא שאלתי איפה עמדת.
+4|00:13|שאלתי אם ראית במו עיניך את הרגעי התאונה.
+5|00:16|כן, אני עמדתי במעבר חצייה.
+6|00:19|וראיתי את המכונית האדומה נוסעת ברמזור אדום
+7|00:22|ומתנגשת במכונית הכתומה.
+8|00:24|ואז באו...
+9|00:25|אדוני השוטר, שמעתי שהייתה פה תאונה. מה קרה?
+10|00:27|הייתה פה תאונה, ואני נותן עדות עכשיו.
+11|00:30|אדוני השוטר, תראה מה קרה למכונית הכתומה.
+12|00:33|זה אומר שהנהג של המכונית האדומה
+13|00:35|נסע במהירות גבוהה מהמותר.
+14|00:37|ובגלל שהוא לא היה מרוכז, נגרמה התאונה.
+15|00:40|אדוני השוטר, תן לו דוח.
+16|00:42|רגע, רגע, מי אתה?
+17|00:44|אני איציק, חבר של פושקה.
+18|00:46|איציק, אתה היית פה בזמן התאונה?
+19|00:48|לא, אבל פושקה סיפר לי ש...
+20|00:50|רגע, אם אתה לא היית פה,
+21|00:52|אתה לא יכול לתת עדות.
+22|00:54|למה לא? אני בא בטוב.
+23|00:56|אני כאן כדי לעזור למשטרת ישראל להוציא את הצדק לאור.
+24|00:59|תודה על הרצון לעזור, אבל אתה לא עד,
+25|01:02|ואתה לא יכול לתת עדות על התאונה.
+26|01:04|רגע, עד זה מישהו שראה במו עיניו מה שקרה.
+27|01:08|אתה לא ראית, אז אתה לא יכול להעיד.
+28|01:10|אבל פושקה אמר לי...
+29|01:11|מה שפושקה אמר לך זה לא עדות.
+30|01:13|זה שמיעה מפי שמיעה.
+31|01:15|בבית דין...
+32|01:16|משפט מקבלים רק עדות
+33|01:17|של מי שראה בעצמו.
+34|01:19|אז רק מי שבאמת היה פה יכול להעיד?
+35|01:21|בדיוק. רק מי שראה את האירוע במו עיניו
+36|01:24|הוא עד כשר.
+37|01:26|זה בדיוק כמו בפרשות השבוע.
+38|01:28|מה הקשר?
+39|01:29|תקשיב.
+40|01:30|בתחילת הפרשה, משה מזכיר לבני ישראל
+41|01:33|שאם הם ישמרו על התורה והמצוות,
+42|01:36|הם יערכו ימים על הארץ המובטחת.
+43|01:38|והוא מגייס את השמיים ואת הארץ
+44|01:41|להיות עדים.
+45|01:42|וכך הוא אומר:
+46|01:43|"האזינו השמיים ואדברה,
+47|01:46|ותשמע הארץ אמרי פי".
+48|01:48|עדים? למה הוא צריך עדים?
+49|01:50|כי השמיים והארץ קיימים לעד.
+50|01:52|הם יהיו פה תמיד.
+51|01:54|אם בעתיד עם ישראל יאמרו:
+52|01:56|"לא הזהירו אותנו",
+53|01:57|השמיים והארץ יוכלו להעיד:
+54|01:59|"היינו שם, שמענו, משה התרה בכם".
+55|02:03|אה, אז השמיים והארץ הם כמו עדים בבית משפט?
+56|02:06|כי הם היו שם וראו הכל?
+57|02:08|בדיוק.
+58|02:09|וזה בדיוק מה שאנחנו רוצים בבית המשפט.
+59|02:12|עדים נאמנים שראו במו עיניהם
+60|02:14|את ראיית התאונה.
+61|02:16|אני ראיתי, הוא שם!
+62|02:18|הוא נסע מהר!
+63|02:21|תודה שצפיתם!
+64|02:26|...תודה לאל!
