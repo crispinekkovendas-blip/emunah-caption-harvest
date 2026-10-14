@@ -1,7 +1,7 @@
 # lane7-001
 
-17 of 22 lessons published · 0 skipped · status **pending**
-Tokens (31 agent runs with a record): 0.3M in (mostly cache) · 0.49M out · API-equivalent 5.97
+21 of 22 lessons published · 0 skipped · status **pending**
+Tokens (38 agent runs with a record): 0.4M in (mostly cache) · 0.64M out · API-equivalent 7.45
 
 | lesson | state | detail |
 |---|---|---|
@@ -16,14 +16,14 @@ Tokens (31 agent runs with a record): 0.3M in (mostly cache) · 0.49M out · API
 | 4o2aGPqO09U | ✓ published | 140 lines · Brit Milá completa a criação do homem |
 | u1xJRrQlGhI | ✓ published | 10 lines · Regras para Colocar Tefilin |
 | yvBenF7Yiwg | ✓ published | 17 lines · Por que "teu irmão Israel"? A irmandade com Edom |
-| YKG_5pHb4r8 | ✗ will be redone (try 1) | 5 lines missing |
+| YKG_5pHb4r8 | ✗ will be redone (try 2) | 1 lines missing |
 | -C8EssPsPDQ | ✓ published | 1788 lines · Parashá Emor: pureza dos Cohanim e os Mo'adim |
-| HcjvVOQh4D4 | waiting | 1/2 parts |
+| HcjvVOQh4D4 | ✓ published | 723 lines · Mesaot: a jornada como fio da Kabalat Shabat de Matot-Masei |
 | PwZovhIOl20 | ✓ published | 85 lines · Os trajes do Cohen Gadol e o óleo da Menorá em Tetzavê |
-| 3o_PQg7KzJc | ✗ will be redone (try 1) | 2 lines missing |
-| -RlPpQbahhg | ✗ will be redone (try 1) | 1 lines missing |
+| 3o_PQg7KzJc | ✓ published | 124 lines · Por que o povo culpou Moshe e Aharon após Korach |
+| -RlPpQbahhg | ✓ published | 74 lines · Maasê avot siman labanim: a hospitalidade de Avraham |
 | GtlOIU-BGus | ✓ published | 27 lines · Tefilin na Cobertura: Uma Mitzvá Inesperada |
 | uBM0uD1R29k | ✓ published | 23 lines · Não enfraqueça o espírito do povo de Israel |
 | xC8RomrkdcU | ✓ published | 1050 lines · Estudar Torá em qualquer idade contra o yetzer hara |
-| mTOFJi4ugHg | ✗ will be redone (try 1) | 1 lines missing |
+| mTOFJi4ugHg | ✓ published | 98 lines · O olhar mau dos espiões e a ponto preto da folha |
 | TRbe1Zbr9dA | ✓ published | 42 lines · A Sucá ensina humildade: o recado de Sucot |
