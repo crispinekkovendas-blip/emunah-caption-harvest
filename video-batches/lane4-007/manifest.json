@@ -1,0 +1,230 @@
+{
+ "name": "lane4-007",
+ "lane": 4,
+ "created": "2026-10-14T01:42:30.747Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "VcPqNy68rp4",
+   "title": "Não corruptos: erram e corrigem (Matot-Masei)",
+   "lines": 990,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "jeJVGLPU-zM",
+   "title": "Orações de Shacharit e o Reino de HaShem",
+   "lines": 282,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tzAE1ZmHpf4",
+   "title": "Pensar bem para que seja bom: o olhar dos espias",
+   "lines": 297,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "00mW8-Owf5w",
+   "title": "A fuga misteriosa de Yitro e o serviço por amor",
+   "lines": 322,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "0aC0KX-wqQU",
+   "title": "O Teste de Fé: Escolhendo a Verdade em Tempos de Confusão",
+   "lines": 800,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "fXNeV0626Wk",
+   "title": "Parashá Shemot: de Moshé menino à sarça ardente",
+   "lines": 101,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "XtfrxjcIaFY",
+   "title": "O propósito da vida, o yêtzer hará e o amor ao próximo",
+   "lines": 970,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "9HN7IuolnVs",
+   "title": "Você também pode abrir o mar: Keriat Yam Suf por dentro",
+   "lines": 796,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "8AB2rMK32AU",
+   "title": "Parashat Emor: por que a impureza prejudica o serviço do Cohen",
+   "lines": 552,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "eu0sRKEJW5w",
+   "title": "Miriam e Aharon falam de Moshe: a profecia de Moshe",
+   "lines": 193,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "MPrXIRCRUmY",
+   "title": "Por que o Maná: fortalecer a confiança em HaShem",
+   "lines": 638,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qkwhVEAXgtA",
+   "title": "Lech Lecha: o primeiro chamado e a missão de Avraham",
+   "lines": 472,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "OjwUFICG8Qo",
+   "title": "Dathan e Aviram e a segunda abertura do Mar Vermelho",
+   "lines": 598,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "lTIcp7aGAbk",
+   "title": "Kamatz e Patach: Kadosh Ani em Shemini e Kedoshim",
+   "lines": 687,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "CXusi_nDUF0",
+   "title": "Contra a queixa: reconhecer o bem em Behaalotechá",
+   "lines": 524,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "gt6Acs68jCI",
+   "title": "Teshuvá como volta ao lar: Nitsavim-Vayelech",
+   "lines": 867,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "iVNklbmIwMU",
+   "title": "Tehilim 55: A Dor da Traição e a Confiança em HaShem",
+   "lines": 25,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "F7S5x1W4p6s",
+   "title": "Behar-Bechukotai: fim de Vayikrá, Shemitá e a aliança",
+   "lines": 361,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "iig0CuopzXw",
+   "title": "Prévia da Geulá: por que não vemos o fruto das mitsvot",
+   "lines": 567,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "VDJKcRu0UuE",
+   "title": "Tanya e as duas almas: tolerar a lama que entra em casa",
+   "lines": 712,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "LRAcamINPnA",
+   "title": "Haftará de Tsav: Shabat HaGadol e o retorno a HaShem",
+   "lines": 102,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wqfhGdtaIQ0",
+   "title": "Pnei HaDor: ver o bem em Israel e a redenção",
+   "lines": 1031,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "G0DvSAkoATg",
+   "title": "Shiviti e Tanya: presença e processo em Elul",
+   "lines": 963,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "bfeZJiofd7M",
+   "title": "Parashá Pinchas para crianças: zelo, herança e Yehoshua",
+   "lines": 109,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "zsirMHJTJbo",
+   "title": "O bastão que vira serpente: o desafio como força",
+   "lines": 679,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "VcPqNy68rp4.p0",
+  "VcPqNy68rp4.p1",
+  "VcPqNy68rp4.p2",
+  "jeJVGLPU-zM.p0",
+  "tzAE1ZmHpf4.p0",
+  "00mW8-Owf5w.p0",
+  "0aC0KX-wqQU.p0",
+  "0aC0KX-wqQU.p1",
+  "fXNeV0626Wk.p0",
+  "XtfrxjcIaFY.p0",
+  "XtfrxjcIaFY.p1",
+  "XtfrxjcIaFY.p2",
+  "9HN7IuolnVs.p0",
+  "9HN7IuolnVs.p1",
+  "8AB2rMK32AU.p0",
+  "8AB2rMK32AU.p1",
+  "eu0sRKEJW5w.p0",
+  "MPrXIRCRUmY.p0",
+  "MPrXIRCRUmY.p1",
+  "qkwhVEAXgtA.p0",
+  "qkwhVEAXgtA.p1",
+  "OjwUFICG8Qo.p0",
+  "OjwUFICG8Qo.p1",
+  "lTIcp7aGAbk.p0",
+  "lTIcp7aGAbk.p1",
+  "CXusi_nDUF0.p0",
+  "CXusi_nDUF0.p1",
+  "gt6Acs68jCI.p0",
+  "gt6Acs68jCI.p1",
+  "iVNklbmIwMU.p0",
+  "F7S5x1W4p6s.p0",
+  "iig0CuopzXw.p0",
+  "iig0CuopzXw.p1",
+  "VDJKcRu0UuE.p0",
+  "VDJKcRu0UuE.p1",
+  "LRAcamINPnA.p0",
+  "wqfhGdtaIQ0.p0",
+  "wqfhGdtaIQ0.p1",
+  "wqfhGdtaIQ0.p2",
+  "G0DvSAkoATg.p0",
+  "G0DvSAkoATg.p1",
+  "G0DvSAkoATg.p2",
+  "bfeZJiofd7M.p0",
+  "zsirMHJTJbo.p0",
+  "zsirMHJTJbo.p1"
+ ]
+}
