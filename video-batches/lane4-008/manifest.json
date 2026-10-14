@@ -242,11 +242,13 @@
  "tries": {
   "lxDqGU18gGI": 1,
   "Ny6aBVJubpI": 1,
-  "XcJdkXd6t-A": 1,
-  "0g3jnyxGEZY": 1,
+  "XcJdkXd6t-A": 2,
+  "0g3jnyxGEZY": 2,
   "sdjt_SNlHSE": 1,
-  "i_T0gct9odY": 1,
-  "e0_4ZSzHsgA": 1
+  "i_T0gct9odY": 2,
+  "e0_4ZSzHsgA": 1,
+  "b0WsNfYGiRY": 1,
+  "qxae6lMsFLk": 1
  },
  "done": [
   "vp5iZGK6c2M",
@@ -264,7 +266,10 @@
   "QKA5gKDwgXo",
   "_qmyqNeJdK0",
   "YUBOQkThUgA",
-  "GvNMUlLeuo8"
+  "GvNMUlLeuo8",
+  "lxDqGU18gGI",
+  "sdjt_SNlHSE",
+  "e0_4ZSzHsgA"
  ],
  "skipped": []
 }
