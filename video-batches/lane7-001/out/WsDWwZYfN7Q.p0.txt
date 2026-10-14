@@ -1,0 +1,11 @@
+0	Answer us	Responde-nos
+1	Our Father, our Father	Nosso Pai, nosso Pai
+2	Answer us on the day we call	Responde-nos no dia em que clamamos
+3	Answer us	Responde-nos
+4	Answer us, our Father, our Father	Responde-nos, nosso Pai, nosso Pai
+5	Answer us on the day we call	Responde-nos no dia em que clamamos
+6	Answer us	Responde-nos
+7	Our Father, our Father	Nosso Pai, nosso Pai
+8	Answer us on the day we call	Responde-nos no dia em que clamamos
+9	Answer us	Responde-nos
+10	HaShem	HaShem

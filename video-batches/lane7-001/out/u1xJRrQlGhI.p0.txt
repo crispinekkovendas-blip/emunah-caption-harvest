@@ -1,0 +1,10 @@
+0	The author of the Shulchan Aruch continues, Orach Chaim, siman 28, seif 12.	O autor do Shulchan Aruch continua, Orach Chaim, siman 28, seif 12.
+1	If the hand tefilin came loose before putting on the head tefilin, he tightens them and does not need to bless again.	Se o Tefilin de mão se soltou antes de colocar o de cabeça, ele os aperta e não precisa recitar a bênção novamente.
+2	If it came loose, he tightens it and does not need to bless.	Se soltou, ele aperta e não precisa recitar a bênção.
+3	But if he put on the head tefilin and afterward the hand tefilin came loose, he tightens it and blesses.	Mas se colocou o de cabeça e depois o de mão se soltou, ele aperta e recita a bênção.
+4	But if he already put on the head tefilin and then it came loose again, after the placing, the mitzvah has in a sense been completed once he put on the head tefilin, so here too he goes back and blesses.	Mas se já colocou o de cabeça e depois se soltou de novo, após a colocação, a mitsvá em certo sentido já terminou depois de colocar o de cabeça, então aqui também ele volta e recita a bênção.
+5	It is permitted to put on borrowed tefilin, but not stolen ones.	É permitido colocar Tefilin emprestados, mas não roubados.
+6	This is another important thing to pay attention to: not to bless over stolen tefilin.	Esta é mais uma coisa importante a que se deve prestar atenção: não recitar a bênção sobre Tefilin roubados.
+7	Why? What, you stole and then bless?	Por quê? Você roubou e ainda recita a bênção?
+8	This is like a blessing over a stolen egg: it is forbidden to bless over stolen tefilin.	É como a bênção sobre um ovo roubado: é proibido recitar a bênção sobre Tefilin roubados.
+9	But over borrowed ones, he may bless.	Mas sobre os emprestados, pode recitar a bênção.
