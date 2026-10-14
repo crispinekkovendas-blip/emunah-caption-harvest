@@ -1,0 +1,68 @@
+videoId: b0WsNfYGiRY
+parte 3 de 3 · traduzir as linhas 900 a 943 (44 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Haazinu: como cantar a repreensão e a Sucá
+RESUMO: O rabino Shneor Ashkenazi abre com a história de um homem em crise e com o discurso de Steve Jobs sobre a vida como uma sequência de pontos que só fazem sentido olhando para trás. Em seguida levanta duas perguntas: como é possível cantar a repreensão terrível de Haazinu, que os levitas entoavam no Beit HaMikdash, e por que sair de casas seguras para viver na Sucá. Mostra a importância de Haazinu como a última mitsvá (Devarim 31:19), segundo Rashi e o Rambam, e cita o Ramban, que a vê como resumo da história de Israel e prova de que o castigo vem do amor, com o Sifrei e a história do aluno Rav Avner. Explica que Haazinu é canto porque mostra o caminho inteiro, do exílio à redenção, e ilustra com José no poço e os perfumes (Rashi em Bereshit 37:25), com Rabi Tsadok de Lublin (shir como círculo) e com a história de uma família chassídica no Simchat Torá. Termina com Rabi Eliezer e Rabi Akiva sobre o motivo da Sucá: mesmo os tempos instáveis geram o futuro, e até a parada é parte da viagem.
+MOMENTOS: 00:06 Abertura: um ano novo e a dificuldade de se alegrar · 01:31 Um homem em crise: "o que HaShem quer de mim?" · 02:23 A vida como um livro com vários capítulos · 03:36 Steve Jobs e a caligrafia: a vida como pontos · 07:55 As duas perguntas: cantar Haazinu e a Sucá · 09:09 Os levitas cantavam Haazinu no Beit HaMikdash · 15:09 Ve'atá kitvu lachem: a última mitsvá da Torá · 20:07 O Ramban: Haazinu como resumo do exílio · 22:29 A história de Rav Avner e o Ramban · 27:43 Como a repreensão se torna canto · 31:29 José no poço e os perfumes dos ismaelitas · 35:06 Rabi Tsadok: shir é um círculo · 36:35 História do Simchat Torá em Crown Heights · 43:27 Rabi Akiva e a Sucá: ciclo e propósito
+FONTES CITADAS: 08:03 Devarim 32:1-43 · 08:49 Rambam, Hilchot Temidim uMusafim · 10:27 Devarim 32:6 · 10:43 Devarim 32:26 · 11:05 Devarim 32:27 · 11:32 Devarim 32:43 · 11:45 Devarim 32:39 · 15:09 Devarim 31:19 · 16:26 Rambam, Hilchot Sefer Torá 7:1 · 19:15 Rashi em Devarim 31:19 · 20:07 Ramban em Devarim 32:1 · 22:14 Sifrei Devarim 333 · 24:44 Devarim 32:26 · 26:10 Devarim 31:21 · 27:46 Rosh HaShaná 32b · 28:03 Shir HaShirim 1:1 · 31:29 Bereshit 37:24-28 · 32:17 Bereshit 37:25 · 32:17 Rashi em Bereshit 37:25 · 33:51 Tehilim 130:1 · 35:20 Bereshit 49:22 · 35:32 Shabat 54b · 35:06 Rabi Tsadok HaCohen de Lublin, Dover Tzedek · 41:19 Likutei Sichot, vol. 24, p. 233 · 42:27 Yehoshua 2:10 · 42:39 Tehilim 16:8 · 42:42 Shulchan Arukh, Orach Chaim 1:1 · 42:51 Rama em Shulchan Arukh, Orach Chaim 697:1 · 43:38 Sucá 11b · 43:38 Vayikra 23:43 · 45:27 Tehilim 27:5 · 45:48 Bamidbar 33:5
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+888|43:34|לומר עוד שיעור לחג הסוכות אבל
+889|43:38|רק נקודה קצרה שאלנו מילא לדעת רבי אליעזר
+890|43:42|שהסוכות נועדו להזכיר את ענני הכבוד איזה
+891|43:45|חיבוק איזה אקווריום 40 שנה לחיות כמו
+892|43:48|תינוק בבטן אמו, עננים שמגעצים את הבגדים
+893|43:51|ומרחיקים את האויבים. לא היה חסד כמו החסד
+894|43:53|הזה. על זה כבר דיברנו הרבה בשנים הקודמות
+895|43:55|על דעת רבי אליעזר. אבל מה היא דעת רבי
+896|43:57|עקיבא? ודי עוזב את הבית שהוא קנה בהמל
+897|44:01|כפיים לחזור לאוהל. למה? להזכיר את
+898|44:03|התקופות שגרנו באוהל. מי רוצה לזכור את
+899|44:06|התקופות שגרנו באוהלים?
+
+LINHAS A TRADUZIR:
+900|44:09|אפילו הבדועים כבר נכנסו לממשלה בשביל
+901|44:12|להפוך את האוהלים למקומות קבע. בשביל
+902|44:14|להקים לעצמם ישובים. גם הם לא מרגישים
+903|44:16|בנוח באוהלים.
+904|44:18|אז אנחנו רוצים לחזור חזרה לאוהלים. מה
+905|44:21|המטרה בעניין הזה?
+906|44:24|האמת היא שהנס של רבי עקיבא הוא נס יותר
+907|44:28|גדול מהנס של רבי אליעזר. 40 שנה חיינו
+908|44:31|באוהלים. האוהלים נעו ונדו ברוח היה נראה
+909|44:34|שאין שום כיוון לעם ישראל. כל הדור ההוא
+910|44:37|מת במדבר. אבל חלפו 40 שנה והתברר שהראיות
+911|44:41|הזאת הייתה התקופה הכי יציבה שלנו. חלפו
+912|44:45|40 שנה והתברר שהלך הדור ההוא וקם דור חדש
+913|44:49|והדור הזה כבר היה מכושל ומאמין מספיק כדי
+914|44:52|להיכנס לארץ ישראל. הימים שהיו נראים כל
+915|44:55|כך נעים ונדים ברוח היו ימים שילדו דור
+916|44:58|חדש. ילדו את הדור את אבותינו שבזכותם
+917|45:01|אנחנו כאן. אומר לך רבי עקיבא יש בחיים
+918|45:05|תקופות של הראיות, תקופות של שוריריות.
+919|45:07|תיכנס לסוכה ותזכור את התקופה הראית הזאת
+920|45:11|ותזכור 40 שנה האלו מה הם הצמיחו. בשעת
+921|45:14|מעשה זה היה נראה כל כך הראי, כל כך נ ונד
+922|45:16|ברוח אבל חלפו השנים. והתברר שהפכנו להיות
+923|45:20|האומה העתיקה בעולם, השורדת בעולם, יותר
+924|45:23|מכל תקופה אחרת. כי יצפנני בסוכו, ביום
+925|45:27|רעי יסתירני בסתר או לא. מה המסר של
+926|45:31|הסוכה? שבכל רגע אנחנו בתוך החיבוק של
+927|45:33|הקדוש ברוך הוא, אפילו בתוך הרעיות, אפילו
+928|45:36|בתוך השובריות, ודווקא בתוך הרגעים האלו,
+929|45:39|גם הם רגעים של חיבוק, גם הם רגעים של
+930|45:42|קרבה. ודווקא בתוך הרגעים האלה הקדוש ברוך
+931|45:44|הוא צועק לנו אל תעצרו אל תנוחו אל תחשבו
+932|45:48|שזו חניה אלא ויסו ויחנו גם החניה עצמה
+933|45:52|היא מסע גם העצירה עצמה יולדת משהו יוצרת
+934|45:55|משהו ואנחנו מבקשים מהקדוש ברוך הוא לראות
+935|45:57|את זה כבר במרה בימינו שהזמן שמחתנו יהפוך
+936|46:01|להיות את השמחה היתרה בבית המקדש לסיס
+937|46:03|ולרקוד בבית המקדש בירושלים בשמחת בית
+938|46:06|השואבה ל בשמחת בית השואבה לשאוב רוח
+939|46:11|הקודש כינה בן אמיתי ולראות כבר בשוב השם
+940|46:15|ציון מלך ביופיות אחזנה עינינו בקרוב ממש
+941|46:18|אשת בעגלה ובזמן קריב חג שמח חתימה וגמר
+942|46:23|חתימה טובה ורק טוב תמיד
+943|46:26|[מוזיקה]

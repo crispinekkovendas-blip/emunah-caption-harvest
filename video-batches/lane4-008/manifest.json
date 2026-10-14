@@ -1,0 +1,242 @@
+{
+ "name": "lane4-008",
+ "lane": 4,
+ "created": "2026-10-14T05:06:19.673Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "lxDqGU18gGI",
+   "title": "Bereshit e Noach: renovar-se e o auxílio do cônjuge",
+   "lines": 1656,
+   "parts": 4,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "vp5iZGK6c2M",
+   "title": "Parashá Noach para crianças: arca, dilúvio e Babel",
+   "lines": 92,
+   "parts": 1,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "epnh-P4Gp7k",
+   "title": "Bereshit: o poder de Suas obras e a herança das nações",
+   "lines": 1169,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Ny6aBVJubpI",
+   "title": "Bein HaMetzarim: Beit HaMikdash e fé em Matot-Masei",
+   "lines": 1779,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Xp0N4KLdxlU",
+   "title": "Viverá por meio deles\": a vida nas mitzvot e nos limites",
+   "lines": 755,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "kZXSAc1_CIo",
+   "title": "Parashá Shelach Lecha: Hishtadlut e Bitachon",
+   "lines": 1024,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "g75SSh-LRj0",
+   "title": "Vayakhel-Shekalim: unidade e amor a Israel",
+   "lines": 1212,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "VVpqIPn2ZSg",
+   "title": "Leitura da Parashá Toldot, nusach marroquino",
+   "lines": 241,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "b0WsNfYGiRY",
+   "title": "Haazinu: como cantar a repreensão e a Sucá",
+   "lines": 944,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "XcJdkXd6t-A",
+   "title": "Dar honra ao pobre: Leket, Shichechá e Peá",
+   "lines": 936,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PidTaZNoVqw",
+   "title": "Tanya, o livro dos Beinonim: Dekel LePeirotav",
+   "lines": 740,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tFX1gItG7EE",
+   "title": "A força do Livro de Devarim e o peso das palavras",
+   "lines": 266,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qxae6lMsFLk",
+   "title": "Parashá Devarim: como repreender com amor",
+   "lines": 967,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "0g3jnyxGEZY",
+   "title": "Descer para subir: a geração do Êkev",
+   "lines": 1068,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "hE0bCofaKH0",
+   "title": "Pare de reagir à realidade e comece a criá-la",
+   "lines": 709,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "NDqlxNsdl1M",
+   "title": "Brit Milá: o significado profundo da circuncisão",
+   "lines": 265,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "SVXm2QVdQ10",
+   "title": "Onde está a Arca da Aliança e os Keruvim de Shlomo",
+   "lines": 277,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "H47Rd0ToibU",
+   "title": "Shabat Zachor, Tetzaveh e as quatro mitzvot de Purim",
+   "lines": 455,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "sdjt_SNlHSE",
+   "title": "Educar para que a chama acenda por si mesma",
+   "lines": 613,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "i_T0gct9odY",
+   "title": "Parashá Chukat: três condições da Vaca Vermelha",
+   "lines": 916,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "QKA5gKDwgXo",
+   "title": "A Essência da Teshuvá e o Amor de Hashem",
+   "lines": 767,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "e0_4ZSzHsgA",
+   "title": "Mazal, Adar e o Mishkan de cada judeu",
+   "lines": 1051,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_qmyqNeJdK0",
+   "title": "Shabat Chazon: a destruição como preparo da Redenção",
+   "lines": 521,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "YUBOQkThUgA",
+   "title": "Yirat HaShem: o temor que nasce do amor (Parashá Ekev)",
+   "lines": 715,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "GvNMUlLeuo8",
+   "title": "Rei em Israel: o povo pede, HaShem escolhe",
+   "lines": 295,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "lxDqGU18gGI.p0",
+  "lxDqGU18gGI.p1",
+  "lxDqGU18gGI.p2",
+  "lxDqGU18gGI.p3",
+  "vp5iZGK6c2M.p0",
+  "epnh-P4Gp7k.p0",
+  "epnh-P4Gp7k.p1",
+  "epnh-P4Gp7k.p2",
+  "Ny6aBVJubpI.p0",
+  "Ny6aBVJubpI.p1",
+  "Ny6aBVJubpI.p2",
+  "Ny6aBVJubpI.p3",
+  "Xp0N4KLdxlU.p0",
+  "Xp0N4KLdxlU.p1",
+  "kZXSAc1_CIo.p0",
+  "kZXSAc1_CIo.p1",
+  "kZXSAc1_CIo.p2",
+  "g75SSh-LRj0.p0",
+  "g75SSh-LRj0.p1",
+  "g75SSh-LRj0.p2",
+  "VVpqIPn2ZSg.p0",
+  "b0WsNfYGiRY.p0",
+  "b0WsNfYGiRY.p1",
+  "b0WsNfYGiRY.p2",
+  "XcJdkXd6t-A.p0",
+  "XcJdkXd6t-A.p1",
+  "XcJdkXd6t-A.p2",
+  "PidTaZNoVqw.p0",
+  "PidTaZNoVqw.p1",
+  "tFX1gItG7EE.p0",
+  "qxae6lMsFLk.p0",
+  "qxae6lMsFLk.p1",
+  "qxae6lMsFLk.p2",
+  "0g3jnyxGEZY.p0",
+  "0g3jnyxGEZY.p1",
+  "0g3jnyxGEZY.p2",
+  "hE0bCofaKH0.p0",
+  "hE0bCofaKH0.p1",
+  "NDqlxNsdl1M.p0",
+  "SVXm2QVdQ10.p0",
+  "H47Rd0ToibU.p0",
+  "H47Rd0ToibU.p1",
+  "sdjt_SNlHSE.p0",
+  "sdjt_SNlHSE.p1",
+  "i_T0gct9odY.p0",
+  "i_T0gct9odY.p1",
+  "i_T0gct9odY.p2",
+  "QKA5gKDwgXo.p0",
+  "QKA5gKDwgXo.p1",
+  "e0_4ZSzHsgA.p0",
+  "e0_4ZSzHsgA.p1",
+  "e0_4ZSzHsgA.p2",
+  "_qmyqNeJdK0.p0",
+  "_qmyqNeJdK0.p1",
+  "YUBOQkThUgA.p0",
+  "YUBOQkThUgA.p1",
+  "GvNMUlLeuo8.p0"
+ ]
+}
