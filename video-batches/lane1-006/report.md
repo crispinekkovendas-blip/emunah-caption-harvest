@@ -1,14 +1,14 @@
 # lane1-006
 
-20 of 25 lessons published · 3 skipped · status **pending**
-Tokens (114 agent runs with a record, 50 refused or without record): 1.7M in (mostly cache) · 3.07M out · API-equivalent 36.10
+20 of 25 lessons published · 5 skipped · status **done**
+Tokens (125 agent runs with a record, 50 refused or without record): 1.9M in (mostly cache) · 3.33M out · API-equivalent 38.70
 
 | lesson | state | detail |
 |---|---|---|
 | I6yny4LYyIo | ✓ published | 772 lines · Os Poskim e os Mekubalim: o legado do Rav Ovadia |
 | MjX5TALml0w | ✓ published | 1307 lines · Fé, clamor e renovação em Bereshit, após o 7 de outubro |
 | jak2cqPigIo | ✓ published | 921 lines · As mitzvot do coração em Vaetchanan |
-| THaiO0_J5gk | skipped after 3 tries | 30 lines missing |
+| THaiO0_J5gk | skipped | |
 | zGXiZl8xN_M | ✓ published | 968 lines · Parashá Ekev: a vida boa neste mundo |
 | GN510oTQvLk | ✓ published | 596 lines · Louvor a Hashem e as leis do sacrifício |
 | xvjFWmS_BmI | ✓ published | 673 lines · Bo'ê Beshalach: a humildade, o êxodo e a bizá do mar |
@@ -24,9 +24,9 @@ Tokens (114 agent runs with a record, 50 refused or without record): 1.7M in (mo
 | HJ-VOA58aOA | ✓ published | 1312 lines · Chukat: o Chok, Or HaChaim e o cozimento no Shabat |
 | rghZzv_HM10 | ✓ published | 653 lines · Ki Tavô: a ingratidão a HaShem e a gratidão pela Terra |
 | 3gjLZcWs0Io | ✓ published | 1103 lines · Ame o próximo como a ti mesmo: o instrumento prático |
-| V2NOvR1Lz0o | skipped after 3 tries | 4 lines missing |
+| V2NOvR1Lz0o | skipped | |
 | iizcMyAYvr8 | ✓ published | 253 lines · Leitura da Torá: Parashá Chayei Sarah completa (Marroquino) |
 | RuCeXx4YwSM | ✓ published | 1079 lines · Sof Maase BeMachshava Techila: pensar antes de agir |
-| LAQOtuzLU2o | ✗ will be redone (try 2) | line 0 twice |
-| uqTzb2Xk2jI | waiting | 2/3 parts |
+| LAQOtuzLU2o | skipped after 3 tries | line 121 twice |
+| uqTzb2Xk2jI | skipped after 3 tries | 9 lines missing |
 | k9nnAgjBiVY | ✓ published | 575 lines · Ben Ish Chai: Hoshaná Rabá, as 13 Hakafot e o selo |
