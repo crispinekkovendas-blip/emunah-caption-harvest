@@ -1,7 +1,7 @@
 # lane5-008
 
-23 of 25 lessons published · 0 skipped · status **pending**
-Tokens (56 agent runs with a record): 0.8M in (mostly cache) · 1.50M out · API-equivalent 17.71
+24 of 25 lessons published · 1 skipped · status **done**
+Tokens (61 agent runs with a record): 0.8M in (mostly cache) · 1.62M out · API-equivalent 18.90
 
 | lesson | state | detail |
 |---|---|---|
@@ -20,9 +20,9 @@ Tokens (56 agent runs with a record): 0.8M in (mostly cache) · 1.50M out · API
 | rGCdcBipwz4 | ✓ published | 397 lines · Como passar adiante o bem: continuidade na Parashá Pinchas |
 | tiAbrBeZrpQ | ✓ published | 952 lines · Hayim KeHalachá: perguntas e respostas, Vaetchanan |
 | tfe6vtMSfy4 | ✓ published | 221 lines · Por que Moshé foi punido: o Zera Shimshon em Balak |
-| 6kLZSX_ZXc4 | ✗ will be redone (try 2) | line 450 twice |
+| 6kLZSX_ZXc4 | skipped after 3 tries | 3 lines missing |
 | 1illMEhjGH8 | ✓ published | 365 lines · Teshuvá na boca e no coração: Nitzavim-Vayelech |
-| fIF74Rc711o | ✗ will be redone (try 2) | line 0 twice |
+| fIF74Rc711o | ✓ published | 655 lines · Matar o egípcio: o ato que fez de Moshé um líder |
 | 3WEiSfW2hnk | ✓ published | 261 lines · Perdoar e não odiar o irmão: Lo Tisna |
 | r7RF2FeSkno | ✓ published | 98 lines · As pragas do gafanhoto e da escuridão até a saída do Egito |
 | s0Dgm8hGjVI | ✓ published | 699 lines · Shabat HaGadol e a coragem de ser quem somos |
