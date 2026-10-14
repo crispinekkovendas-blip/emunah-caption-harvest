@@ -1,0 +1,178 @@
+{
+ "name": "lane2-014",
+ "lane": 2,
+ "created": "2026-10-14T13:59:48.735Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "RAWTl_9kbgo",
+   "title": "A Parashá Vayigash: Perdão, Reconciliação e Providência Divina",
+   "lines": 1102,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5usKmnV6vEA",
+   "title": "Ki Tavô: o cuidado com a língua antes do Dia do Julgamento",
+   "lines": 45,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qEyjhwg3HRs",
+   "title": "Parashá Vayikrá: o verdadeiro korban nos preparativos de Pêssach",
+   "lines": 43,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "QYwtSrZ78-M",
+   "title": "Como trazer bênção ao casamento: Rav Shach e o verso Reê",
+   "lines": 39,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "80TIFopdqWc",
+   "title": "Kórach: o dia seguinte e a acusação a Moshé",
+   "lines": 315,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "bLms7yHxLVc",
+   "title": "Parashá Ki Tavo: o que faz de Israel um Am Segulá",
+   "lines": 1425,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "l3z-9KB8RXM",
+   "title": "Hospitalidade e os sinais da besta pura",
+   "lines": 95,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Gk30WFQJCA4",
+   "title": "Vayakhel-Pekudei: os desafios em proporção",
+   "lines": 21,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "SABFy0Bd81M",
+   "title": "Oração por Misericórdia e Proteção",
+   "lines": 32,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "nXOn6-CoQF8",
+   "title": "Dvekut verdadeira: imitar as midot de HaShem",
+   "lines": 55,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "CnFrctNWQpE",
+   "title": "Parashá Shemini: o oitavo dia e o fogo estranho",
+   "lines": 108,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3-5Sks-kWsM",
+   "title": "Zera Shimshon: as dores de parto e o Kadish",
+   "lines": 266,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "oUQlhFZec-I",
+   "title": "Tikun e bênção para a parnassá na Parashat HaMan",
+   "lines": 12,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3fpSsn_vrmo",
+   "title": "Parashá Vaerá: o Zohar sobre Yishmael e o \"Abba, você me ama",
+   "lines": 258,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "6t7yBRFrK8k",
+   "title": "Ajudar o outro é salvar a si mesmo (Ki Teitzei)",
+   "lines": 155,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ufPnptdOBz8",
+   "title": "A promessa da redenção e o amor eterno de HaShem",
+   "lines": 115,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "JcBHjQSq4cA",
+   "title": "Contagem do Ômer: dividir a luz do Seder em trocados",
+   "lines": 39,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "448alnx6YMw",
+   "title": "Por que honrar os pais vem junto com o Shabat",
+   "lines": 149,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "J8ngBg35U-8",
+   "title": "Nitsavim: levantar-se depois das maldições",
+   "lines": 1272,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vTCFXaNhmRI",
+   "title": "Shiur diário em ídiche, Parashá Ki Tavo",
+   "lines": 654,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "RAWTl_9kbgo.p0",
+  "RAWTl_9kbgo.p1",
+  "RAWTl_9kbgo.p2",
+  "5usKmnV6vEA.p0",
+  "qEyjhwg3HRs.p0",
+  "QYwtSrZ78-M.p0",
+  "80TIFopdqWc.p0",
+  "bLms7yHxLVc.p0",
+  "bLms7yHxLVc.p1",
+  "bLms7yHxLVc.p2",
+  "bLms7yHxLVc.p3",
+  "l3z-9KB8RXM.p0",
+  "Gk30WFQJCA4.p0",
+  "SABFy0Bd81M.p0",
+  "nXOn6-CoQF8.p0",
+  "CnFrctNWQpE.p0",
+  "3-5Sks-kWsM.p0",
+  "oUQlhFZec-I.p0",
+  "3fpSsn_vrmo.p0",
+  "6t7yBRFrK8k.p0",
+  "ufPnptdOBz8.p0",
+  "JcBHjQSq4cA.p0",
+  "448alnx6YMw.p0",
+  "J8ngBg35U-8.p0",
+  "J8ngBg35U-8.p1",
+  "J8ngBg35U-8.p2",
+  "vTCFXaNhmRI.p0",
+  "vTCFXaNhmRI.p1"
+ ]
+}

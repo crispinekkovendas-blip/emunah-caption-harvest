@@ -1,0 +1,474 @@
+videoId: RAWTl_9kbgo
+parte 2 de 3 · traduzir as linhas 450 a 899 (450 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A Parashá Vayigash: Perdão, Reconciliação e Providência Divina
+RESUMO: A aula de Torá aborda a Parashá Vayigash (Gênesis 44:18 a 47:27), que narra a aproximação de Judá a José, revelando uma profunda mudança em seu caráter ao se oferecer para ficar no lugar de Benjamim. José, então, se revela aos irmãos, acalmando-os e explicando que tudo ocorreu para o bem deles, a fim de sobreviverem à fome. Jacó e sua família são chamados ao Egito, onde se reencontram com José e se estabelecem na terra de Gósen, abençoados por Faraó. A porção termina com Jacó abençoando e profetizando sobre o futuro de seus filhos. A Parashá Vayigash ensina sobre perdão, reconciliação, a providência divina e a importância da família.
+MOMENTOS: 00:04 A Parashá da semana: Vayigash · 00:12 Gênesis 44:18-47:27: A porção de Vayigash · 00:22 A aproximação de Judá a José e sua mudança de caráter · 01:05 José se revela aos irmãos · 01:19 José acalma os irmãos e explica a providência divina · 01:31 José manda os irmãos trazerem Jacó e a família · 01:40 Jacó se convence e vai para o Egito · 02:02 O emocionante encontro de Jacó e José · 02:17 A família de Jacó se estabelece no Egito · 02:39 Jacó abençoa seus filhos e profetiza · 02:48 Ensinamentos da Parashá: perdão, reconciliação e providência · 03:06 A importância do perdão e da reconciliação · 03:17 A importância da família
+FONTES CITADAS: 00:12 Bereshit 44:18 · 00:32 Bereshit 44:33 · 01:10 Bereshit 45:3 · 01:22 Bereshit 45:5-8 · 01:43 Bereshit 45:26-27 · 02:10 Bereshit 46:30 · 02:28 Bereshit 47:6 · 02:44 Bereshit 49:1-28 · 25:50 Vayikra 25:1-13 · 26:27 Shemitá e Yovel (diferença entre Eretz Israel e fora dela) · 51:30 Ester 1:1 · 1:30:04 Tudo o que HaShem faz é para o bem da pessoa
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+438|1:18:16|Ela é um livro de vida.
+439|1:18:18|Ela é um livro de sabedoria.
+440|1:18:20|Ela é um livro que nos ensina a viver.
+441|1:18:22|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+442|1:18:26|Ela é um livro de vida.
+443|1:18:28|Ela é um livro de sabedoria.
+444|1:18:30|Ela é um livro que nos ensina a viver.
+445|1:18:32|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+446|1:18:36|Ela é um livro de vida.
+447|1:18:38|Ela é um livro de sabedoria.
+448|1:18:40|Ela é um livro que nos ensina a viver.
+449|1:18:42|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+
+LINHAS A TRADUZIR:
+450|1:18:46|Ela é um livro de vida.
+451|1:18:48|Ela é um livro de sabedoria.
+452|1:18:50|Ela é um livro que nos ensina a viver.
+453|1:18:52|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+454|1:18:56|Ela é um livro de vida.
+455|1:18:58|Ela é um livro de sabedoria.
+456|1:19:00|Ela é um livro que nos ensina a viver.
+457|1:19:02|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+458|1:19:06|Ela é um livro de vida.
+459|1:19:08|Ela é um livro de sabedoria.
+460|1:19:10|Ela é um livro que nos ensina a viver.
+461|1:19:12|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+462|1:19:16|Ela é um livro de vida.
+463|1:19:18|Ela é um livro de sabedoria.
+464|1:19:20|Ela é um livro que nos ensina a viver.
+465|1:19:22|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+466|1:19:26|Ela é um livro de vida.
+467|1:19:28|Ela é um livro de sabedoria.
+468|1:19:30|Ela é um livro que nos ensina a viver.
+469|1:19:32|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+470|1:19:36|Ela é um livro de vida.
+471|1:19:38|Ela é um livro de sabedoria.
+472|1:19:40|Ela é um livro que nos ensina a viver.
+473|1:19:42|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+474|1:19:46|Ela é um livro de vida.
+475|1:19:48|Ela é um livro de sabedoria.
+476|1:19:50|Ela é um livro que nos ensina a viver.
+477|1:19:52|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+478|1:19:56|Ela é um livro de vida.
+479|1:19:58|Ela é um livro de sabedoria.
+480|1:20:00|Ela é um livro que nos ensina a viver.
+481|1:20:02|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+482|1:20:06|Ela é um livro de vida.
+483|1:20:08|Ela é um livro de sabedoria.
+484|1:20:10|Ela é um livro que nos ensina a viver.
+485|1:20:12|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+486|1:20:16|Ela é um livro de vida.
+487|1:20:18|Ela é um livro de sabedoria.
+488|1:20:20|Ela é um livro que nos ensina a viver.
+489|1:20:22|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+490|1:20:26|Ela é um livro de vida.
+491|1:20:28|Ela é um livro de sabedoria.
+492|1:20:30|Ela é um livro que nos ensina a viver.
+493|1:20:32|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+494|1:20:36|Ela é um livro de vida.
+495|1:20:38|Ela é um livro de sabedoria.
+496|1:20:40|Ela é um livro que nos ensina a viver.
+497|1:20:42|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+498|1:20:46|Ela é um livro de vida.
+499|1:20:48|Ela é um livro de sabedoria.
+500|1:20:50|Ela é um livro que nos ensina a viver.
+501|1:20:52|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+502|1:20:56|Ela é um livro de vida.
+503|1:20:58|Ela é um livro de sabedoria.
+504|1:21:00|Ela é um livro que nos ensina a viver.
+505|1:21:02|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+506|1:21:06|Ela é um livro de vida.
+507|1:21:08|Ela é um livro de sabedoria.
+508|1:21:10|Ela é um livro que nos ensina a viver.
+509|1:21:12|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+510|1:21:16|Ela é um livro de vida.
+511|1:21:18|Ela é um livro de sabedoria.
+512|1:21:20|Ela é um livro que nos ensina a viver.
+513|1:21:22|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+514|1:21:26|Ela é um livro de vida.
+515|1:21:28|Ela é um livro de sabedoria.
+516|1:21:30|Ela é um livro que nos ensina a viver.
+517|1:21:32|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+518|1:21:36|Ela é um livro de vida.
+519|1:21:38|Ela é um livro de sabedoria.
+520|1:21:40|Ela é um livro que nos ensina a viver.
+521|1:21:42|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+522|1:21:46|Ela é um livro de vida.
+523|1:21:48|Ela é um livro de sabedoria.
+524|1:21:50|Ela é um livro que nos ensina a viver.
+525|1:21:52|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+526|1:21:56|Ela é um livro de vida.
+527|1:21:58|Ela é um livro de sabedoria.
+528|1:22:00|Ela é um livro que nos ensina a viver.
+529|1:22:02|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+530|1:22:06|Ela é um livro de vida.
+531|1:22:08|Ela é um livro de sabedoria.
+532|1:22:10|Ela é um livro que nos ensina a viver.
+533|1:22:12|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+534|1:22:16|Ela é um livro de vida.
+535|1:22:18|Ela é um livro de sabedoria.
+536|1:22:20|Ela é um livro que nos ensina a viver.
+537|1:22:22|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+538|1:22:26|Ela é um livro de vida.
+539|1:22:28|Ela é um livro de sabedoria.
+540|1:22:30|Ela é um livro que nos ensina a viver.
+541|1:22:32|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+542|1:22:36|Ela é um livro de vida.
+543|1:22:38|Ela é um livro de sabedoria.
+544|1:22:40|Ela é um livro que nos ensina a viver.
+545|1:22:42|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+546|1:22:46|Ela é um livro de vida.
+547|1:22:48|Ela é um livro de sabedoria.
+548|1:22:50|Ela é um livro que nos ensina a viver.
+549|1:22:52|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+550|1:22:56|Ela é um livro de vida.
+551|1:22:58|Ela é um livro de sabedoria.
+552|1:23:00|Ela é um livro que nos ensina a viver.
+553|1:23:02|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+554|1:23:06|Ela é um livro de vida.
+555|1:23:08|Ela é um livro de sabedoria.
+556|1:23:10|Ela é um livro que nos ensina a viver.
+557|1:23:12|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+558|1:23:16|Ela é um livro de vida.
+559|1:23:18|Ela é um livro de sabedoria.
+560|1:23:20|Ela é um livro que nos ensina a viver.
+561|1:23:22|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+562|1:23:26|Ela é um livro de vida.
+563|1:23:28|Ela é um livro de sabedoria.
+564|1:23:30|Ela é um livro que nos ensina a viver.
+565|1:23:32|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+566|1:23:36|Ela é um livro de vida.
+567|1:23:38|Ela é um livro de sabedoria.
+568|1:23:40|Ela é um livro que nos ensina a viver.
+569|1:23:42|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+570|1:23:46|Ela é um livro de vida.
+571|1:23:48|Ela é um livro de sabedoria.
+572|1:23:50|Ela é um livro que nos ensina a viver.
+573|1:23:52|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+574|1:23:56|Ela é um livro de vida.
+575|1:23:58|Ela é um livro de sabedoria.
+576|1:24:00|Ela é um livro que nos ensina a viver.
+577|1:24:02|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+578|1:24:06|Ela é um livro de vida.
+579|1:24:08|Ela é um livro de sabedoria.
+580|1:24:10|Ela é um livro que nos ensina a viver.
+581|1:24:12|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+582|1:24:16|Ela é um livro de vida.
+583|1:24:18|Ela é um livro de sabedoria.
+584|1:24:20|Ela é um livro que nos ensina a viver.
+585|1:24:22|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+586|1:24:26|Ela é um livro de vida.
+587|1:24:28|Ela é um livro de sabedoria.
+588|1:24:30|Ela é um livro que nos ensina a viver.
+589|1:24:32|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+590|1:24:36|Ela é um livro de vida.
+591|1:24:38|Ela é um livro de sabedoria.
+592|1:24:40|Ela é um livro que nos ensina a viver.
+593|1:24:42|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+594|1:24:46|Ela é um livro de vida.
+595|1:24:48|Ela é um livro de sabedoria.
+596|1:24:50|Ela é um livro que nos ensina a viver.
+597|1:24:52|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+598|1:24:56|Ela é um livro de vida.
+599|1:24:58|Ela é um livro de sabedoria.
+600|1:25:00|Ela é um livro que nos ensina a viver.
+601|1:25:02|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+602|1:25:06|Ela é um livro de vida.
+603|1:25:08|Ela é um livro de sabedoria.
+604|1:25:10|Ela é um livro que nos ensina a viver.
+605|1:25:12|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+606|1:25:16|Ela é um livro de vida.
+607|1:25:18|Ela é um livro de sabedoria.
+608|1:25:20|Ela é um livro que nos ensina a viver.
+609|1:25:22|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+610|1:25:26|Ela é um livro de vida.
+611|1:25:28|Ela é um livro de sabedoria.
+612|1:25:30|Ela é um livro que nos ensina a viver.
+613|1:25:32|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+614|1:25:36|Ela é um livro de vida.
+615|1:25:38|Ela é um livro de sabedoria.
+616|1:25:40|Ela é um livro que nos ensina a viver.
+617|1:25:42|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+618|1:25:46|Ela é um livro de vida.
+619|1:25:48|Ela é um livro de sabedoria.
+620|1:25:50|Ela é um livro que nos ensina a viver.
+621|1:25:52|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+622|1:25:56|Ela é um livro de vida.
+623|1:25:58|Ela é um livro de sabedoria.
+624|1:26:00|Ela é um livro que nos ensina a viver.
+625|1:26:02|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+626|1:26:06|Ela é um livro de vida.
+627|1:26:08|Ela é um livro de sabedoria.
+628|1:26:10|Ela é um livro que nos ensina a viver.
+629|1:26:12|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+630|1:26:16|Ela é um livro de vida.
+631|1:26:18|Ela é um livro de sabedoria.
+632|1:26:20|Ela é um livro que nos ensina a viver.
+633|1:26:22|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+634|1:26:26|Ela é um livro de vida.
+635|1:26:28|Ela é um livro de sabedoria.
+636|1:26:30|Ela é um livro que nos ensina a viver.
+637|1:26:32|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+638|1:26:36|Ela é um livro de vida.
+639|1:26:38|Ela é um livro de sabedoria.
+640|1:26:40|Ela é um livro que nos ensina a viver.
+641|1:26:42|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+642|1:26:46|Ela é um livro de vida.
+643|1:26:48|Ela é um livro de sabedoria.
+644|1:26:50|Ela é um livro que nos ensina a viver.
+645|1:26:52|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+646|1:26:56|Ela é um livro de vida.
+647|1:26:58|Ela é um livro de sabedoria.
+648|1:27:00|Ela é um livro que nos ensina a viver.
+649|1:27:02|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+650|1:27:06|Ela é um livro de vida.
+651|1:27:08|Ela é um livro de sabedoria.
+652|1:27:10|Ela é um livro que nos ensina a viver.
+653|1:27:12|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+654|1:27:16|Ela é um livro de vida.
+655|1:27:18|Ela é um livro de sabedoria.
+656|1:27:20|Ela é um livro que nos ensina a viver.
+657|1:27:22|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+658|1:27:26|Ela é um livro de vida.
+659|1:27:28|Ela é um livro de sabedoria.
+660|1:27:30|Ela é um livro que nos ensina a viver.
+661|1:27:32|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+662|1:27:36|Ela é um livro de vida.
+663|1:27:38|Ela é um livro de sabedoria.
+664|1:27:40|Ela é um livro que nos ensina a viver.
+665|1:27:42|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+666|1:27:46|Ela é um livro de vida.
+667|1:27:48|Ela é um livro de sabedoria.
+668|1:27:50|Ela é um livro que nos ensina a viver.
+669|1:27:52|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+670|1:27:56|Ela é um livro de vida.
+671|1:27:58|Ela é um livro de sabedoria.
+672|1:28:00|Ela é um livro que nos ensina a viver.
+673|1:28:02|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+674|1:28:06|Ela é um livro de vida.
+675|1:28:08|Ela é um livro de sabedoria.
+676|1:28:10|Ela é um livro que nos ensina a viver.
+677|1:28:12|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+678|1:28:16|Ela é um livro de vida.
+679|1:28:18|Ela é um livro de sabedoria.
+680|1:28:20|Ela é um livro que nos ensina a viver.
+681|1:28:22|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+682|1:28:26|Ela é um livro de vida.
+683|1:28:28|Ela é um livro de sabedoria.
+684|1:28:30|Ela é um livro que nos ensina a viver.
+685|1:28:32|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+686|1:28:36|Ela é um livro de vida.
+687|1:28:38|Ela é um livro de sabedoria.
+688|1:28:40|Ela é um livro que nos ensina a viver.
+689|1:28:42|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+690|1:28:46|Ela é um livro de vida.
+691|1:28:48|Ela é um livro de sabedoria.
+692|1:28:50|Ela é um livro que nos ensina a viver.
+693|1:28:52|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+694|1:28:56|Ela é um livro de vida.
+695|1:28:58|Ela é um livro de sabedoria.
+696|1:29:00|Ela é um livro que nos ensina a viver.
+697|1:29:02|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+698|1:29:06|Ela é um livro de vida.
+699|1:29:08|Ela é um livro de sabedoria.
+700|1:29:10|Ela é um livro que nos ensina a viver.
+701|1:29:12|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+702|1:29:16|Ela é um livro de vida.
+703|1:29:18|Ela é um livro de sabedoria.
+704|1:29:20|Ela é um livro que nos ensina a viver.
+705|1:29:22|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+706|1:29:26|Ela é um livro de vida.
+707|1:29:28|Ela é um livro de sabedoria.
+708|1:29:30|Ela é um livro que nos ensina a viver.
+709|1:29:32|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+710|1:29:36|Ela é um livro de vida.
+711|1:29:38|Ela é um livro de sabedoria.
+712|1:29:40|Ela é um livro que nos ensina a viver.
+713|1:29:42|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+714|1:29:46|Ela é um livro de vida.
+715|1:29:48|Ela é um livro de sabedoria.
+716|1:29:50|Ela é um livro que nos ensina a viver.
+717|1:29:52|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+718|1:29:56|Ela é um livro de vida.
+719|1:29:58|Ela é um livro de sabedoria.
+720|1:30:00|Ela é um livro que nos ensina a viver.
+721|1:30:02|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+722|1:30:04|אדם צריך לדעת, אדם צריך להבין
+723|1:30:06|Ela é um livro de vida.
+724|1:30:08|Ela é um livro de sabedoria.
+725|1:30:08|שכל מה שהוא עושה, כל מה שהוא רואה,
+726|1:30:10|Ela é um livro que nos ensina a viver.
+727|1:30:11|כל מה שהוא שומע, כל מה שהוא חווה,
+728|1:30:12|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+729|1:30:14|זה הכל לטובתו.
+730|1:30:16|Ela é um livro de vida.
+731|1:30:16|הכל לטובתו.
+732|1:30:18|Ela é um livro de sabedoria.
+733|1:30:18|וזה דבר מאוד חשוב.
+734|1:30:20|Ela é um livro que nos ensina a viver.
+735|1:30:22|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+736|1:30:22|וזה דבר שצריך להיות לנו בראש.
+737|1:30:25|כי אם אנחנו לא נבין את זה,
+738|1:30:26|Ela é um livro de vida.
+739|1:30:27|אז אנחנו נהיה כל הזמן בבלבול.
+740|1:30:28|Ela é um livro de sabedoria.
+741|1:30:29|אנחנו נהיה כל הזמן בקושי.
+742|1:30:30|Ela é um livro que nos ensina a viver.
+743|1:30:31|אנחנו נהיה כל הזמן בבעיות.
+744|1:30:32|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+745|1:30:33|אבל אם אנחנו נבין את זה,
+746|1:30:35|אז אנחנו נהיה כל הזמן בשמחה.
+747|1:30:36|Ela é um livro de vida.
+748|1:30:37|אנחנו נהיה כל הזמן באושר.
+749|1:30:38|Ela é um livro de sabedoria.
+750|1:30:39|אנחנו נהיה כל הזמן בטוב.
+751|1:30:40|Ela é um livro que nos ensina a viver.
+752|1:30:41|וזה דבר מאוד חשוב.
+753|1:30:42|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+754|1:30:45|וזה דבר שצריך להיות לנו בראש.
+755|1:30:46|Ela é um livro de vida.
+756|1:30:48|Ela é um livro de sabedoria.
+757|1:30:48|כי אם אנחנו לא נבין את זה,
+758|1:30:50|Ela é um livro que nos ensina a viver.
+759|1:30:50|אז אנחנו נהיה כל הזמן בבלבול.
+760|1:30:52|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+761|1:30:52|אנחנו נהיה כל הזמן בקושי.
+762|1:30:54|אנחנו נהיה כל הזמן בבעיות.
+763|1:30:56|Ela é um livro de vida.
+764|1:30:56|אבל אם אנחנו נבין את זה,
+765|1:30:58|Ela é um livro de sabedoria.
+766|1:30:58|אז אנחנו נהיה כל הזמן בשמחה.
+767|1:31:00|Ela é um livro que nos ensina a viver.
+768|1:31:00|אנחנו נהיה כל הזמן באושר.
+769|1:31:02|E a gente vai ver que a Torá, ela é muito mais do que um livro de leis.
+770|1:31:02|אנחנו נהיה כל הזמן בטוב.
+771|1:31:04|וזה דבר מאוד חשוב.
+772|1:31:08|וזה דבר שצריך להיות לנו בראש.
+773|1:31:11|כי אם אנחנו לא נבין את זה,
+774|1:31:13|אז אנחנו נהיה כל הזמן בבלבול.
+775|1:31:15|אנחנו נהיה כל הזמן בקושי.
+776|1:31:17|אנחנו נהיה כל הזמן בבעיות.
+777|1:31:19|אבל אם אנחנו נבין את זה,
+778|1:31:21|אז אנחנו נהיה כל הזמן בשמחה.
+779|1:31:23|אנחנו נהיה כל הזמן באושר.
+780|1:31:25|אנחנו נהיה כל הזמן בטוב.
+781|1:31:27|וזה דבר מאוד חשוב.
+782|1:31:31|וזה דבר שצריך להיות לנו בראש.
+783|1:31:34|כי אם אנחנו לא נבין את זה,
+784|1:31:36|אז אנחנו נהיה כל הזמן בבלבול.
+785|1:31:38|אנחנו נהיה כל הזמן בקושי.
+786|1:31:40|אנחנו נהיה כל הזמן בבעיות.
+787|1:31:42|אבל אם אנחנו נבין את זה,
+788|1:31:44|אז אנחנו נהיה כל הזמן בשמחה.
+789|1:31:46|אנחנו נהיה כל הזמן באושר.
+790|1:31:47|:
+791|1:31:48|אנחנו נהיה כל הזמן בטוב.
+792|1:31:50|וזה דבר מאוד חשוב.
+793|1:31:54|וזה דבר שצריך להיות לנו בראש.
+794|1:31:57|כי אם אנחנו לא נבין את זה,
+795|1:31:59|אז אנחנו נהיה כל הזמן בבלבול.
+796|1:32:01|אנחנו נהיה כל הזמן בקושי.
+797|1:32:03|אנחנו נהיה כל הזמן בבעיות.
+798|1:32:05|אבל אם אנחנו נבין את זה,
+799|1:32:07|אז אנחנו נהיה כל הזמן בשמחה.
+800|1:32:09|אנחנו נהיה כל הזמן באושר.
+801|1:32:11|אנחנו נהיה כל הזמן בטוב.
+802|1:32:13|וזה דבר מאוד חשוב.
+803|1:32:17|וזה דבר שצריך להיות לנו בראש.
+804|1:32:20|כי אם אנחנו לא נבין את זה,
+805|1:32:22|אז אנחנו נהיה כל הזמן בבלבול.
+806|1:32:24|אנחנו נהיה כל הזמן בקושי.
+807|1:32:26|אנחנו נהיה כל הזמן בבעיות.
+808|1:32:28|אבל אם אנחנו נבין את זה,
+809|1:32:30|אז אנחנו נהיה כל הזמן בשמחה.
+810|1:32:32|אנחנו נהיה כל הזמן באושר.
+811|1:32:34|אנחנו נהיה כל הזמן בטוב.
+812|1:32:36|וזה דבר מאוד חשוב.
+813|1:32:40|וזה דבר שצריך להיות לנו בראש.
+814|1:32:43|כי אם אנחנו לא נבין את זה,
+815|1:32:45|אז אנחנו נהיה כל הזמן בבלבול.
+816|1:32:47|אנחנו נהיה כל הזמן בקושי.
+817|1:32:49|אנחנו נהיה כל הזמן בבעיות.
+818|1:32:51|אבל אם אנחנו נבין את זה,
+819|1:32:53|אז אנחנו נהיה כל הזמן בשמחה.
+820|1:32:55|אנחנו נהיה כל הזמן באושר.
+821|1:32:57|אנחנו נהיה כל הזמן בטוב.
+822|1:32:59|וזה דבר מאוד חשוב.
+823|1:33:03|וזה דבר שצריך להיות לנו בראש.
+824|1:33:06|כי אם אנחנו לא נבין את זה,
+825|1:33:08|אז אנחנו נהיה כל הזמן בבלבול.
+826|1:33:10|אנחנו נהיה כל הזמן בקושי.
+827|1:33:12|אנחנו נהיה כל הזמן בבעיות.
+828|1:33:14|אבל אם אנחנו נבין את זה,
+829|1:33:16|אז אנחנו נהיה כל הזמן בשמחה.
+830|1:33:18|אנחנו נהיה כל הזמן באושר.
+831|1:33:20|אנחנו נהיה כל הזמן בטוב.
+832|1:33:22|וזה דבר מאוד חשוב.
+833|1:33:26|וזה דבר שצריך להיות לנו בראש.
+834|1:33:29|כי אם אנחנו לא נבין את זה,
+835|1:33:31|אז אנחנו נהיה כל הזמן בבלבול.
+836|1:33:33|אנחנו נהיה כל הזמן בקושי.
+837|1:33:35|אנחנו נהיה כל הזמן בבעיות.
+838|1:33:37|אבל אם אנחנו נבין את זה,
+839|1:33:39|אז אנחנו נהיה כל הזמן בשמחה.
+840|1:33:41|אנחנו נהיה כל הזמן באושר.
+841|1:33:43|אנחנו נהיה כל הזמן בטוב.
+842|1:33:45|וזה דבר מאוד חשוב.
+843|1:33:49|וזה דבר שצריך להיות לנו בראש.
+844|1:33:52|כי אם אנחנו לא נבין את זה,
+845|1:33:54|אז אנחנו נהיה כל הזמן בבלבול.
+846|1:33:56|אנחנו נהיה כל הזמן בקושי.
+847|1:33:58|אנחנו נהיה כל הזמן בבעיות.
+848|1:34:00|אבל אם אנחנו נבין את זה,
+849|1:34:02|אז אנחנו נהיה כל הזמן בשמחה.
+850|1:34:04|אנחנו נהיה כל הזמן באושר.
+851|1:34:06|אנחנו נהיה כל הזמן בטוב.
+852|1:34:08|וזה דבר מאוד חשוב.
+853|1:34:12|וזה דבר שצריך להיות לנו בראש.
+854|1:34:15|כי אם אנחנו לא נבין את זה,
+855|1:34:17|אז אנחנו נהיה כל הזמן בבלבול.
+856|1:34:19|אנחנו נהיה כל הזמן בקושי.
+857|1:34:21|אנחנו נהיה כל הזמן בבעיות.
+858|1:34:23|אבל אם אנחנו נבין את זה,
+859|1:34:25|אז אנחנו נהיה כל הזמן בשמחה.
+860|1:34:27|אנחנו נהיה כל הזמן באושר.
+861|1:34:29|אנחנו נהיה כל הזמן בטוב.
+862|1:34:31|וזה דבר מאוד חשוב.
+863|1:34:35|וזה דבר שצריך להיות לנו בראש.
+864|1:34:38|כי אם אנחנו לא נבין את זה,
+865|1:34:40|אז אנחנו נהיה כל הזמן בבלבול.
+866|1:34:42|אנחנו נהיה כל הזמן בקושי.
+867|1:34:44|אנחנו נהיה כל הזמן בבעיות.
+868|1:34:46|אבל אם אנחנו נבין את זה,
+869|1:34:48|אז אנחנו נהיה כל הזמן בשמחה.
+870|1:34:50|אנחנו נהיה כל הזמן באושר.
+871|1:34:52|אנחנו נהיה כל הזמן בטוב.
+872|1:34:54|וזה דבר מאוד חשוב.
+873|1:34:58|וזה דבר שצריך להיות לנו בראש.
+874|1:35:01|כי אם אנחנו לא נבין את זה,
+875|1:35:03|אז אנחנו נהיה כל הזמן בבלבול.
+876|1:35:05|אנחנו נהיה כל הזמן בקושי.
+877|1:35:07|אנחנו נהיה כל הזמן בבעיות.
+878|1:35:09|אבל אם אנחנו נבין את זה,
+879|1:35:11|אז אנחנו נהיה כל הזמן בשמחה.
+880|1:35:13|אנחנו נהיה כל הזמן באושר.
+881|1:35:15|אנחנו נהיה כל הזמן בטוב.
+882|1:35:17|וזה דבר מאוד חשוב.
+883|1:35:21|וזה דבר שצריך להיות לנו בראש.
+884|1:35:24|כי אם אנחנו לא נבין את זה,
+885|1:35:26|אז אנחנו נהיה כל הזמן בבלבול.
+886|1:35:28|אנחנו נהיה כל הזמן בקושי.
+887|1:35:30|אנחנו נהיה כל הזמן בבעיות.
+888|1:35:32|אבל אם אנחנו נבין את זה,
+889|1:35:34|אז אנחנו נהיה כל הזמן בשמחה.
+890|1:35:36|אנחנו נהיה כל הזמן באושר.
+891|1:35:38|אנחנו נהיה כל הזמן בטוב.
+892|1:35:40|וזה דבר מאוד חשוב.
+893|1:35:44|וזה דבר שצריך להיות לנו בראש.
+894|1:35:47|כי אם אנחנו לא נבין את זה,
+895|1:35:49|אז אנחנו נהיה כל הזמן בבלבול.
+896|1:35:51|אנחנו נהיה כל הזמן בקושי.
+897|1:35:53|אנחנו נהיה כל הזמן בבעיות.
+898|1:35:55|אבל אם אנחנו נבין את זה,
+899|1:35:57|אז אנחנו נהיה כל הזמן בשמחה.
