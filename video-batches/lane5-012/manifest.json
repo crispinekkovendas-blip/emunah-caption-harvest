@@ -1,0 +1,110 @@
+{
+ "name": "lane5-012",
+ "lane": 5,
+ "created": "2026-10-14T13:53:15.270Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "_AYHZacTlwY",
+   "title": "Ki Tavô: Bikurim, Amalek e as 98 maldições",
+   "lines": 1117,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "JFm0Cj5lQhE",
+   "title": "O valor interno do judeu: Bikurim e Ki Tavô",
+   "lines": 1530,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1IfMaPHnP30",
+   "title": "Nitzavim e Vayelech: Rosh HaShaná e a responsabilidade mútua",
+   "lines": 994,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qO-b0vKMjAE",
+   "title": "Haazinu: Céu e Terra, Alma e Corpo, antes de Yom Kipur",
+   "lines": 641,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "kD67_YtdwEU",
+   "title": "Haazinu: seis perguntas do Or HaChaim sobre o céu e a terra",
+   "lines": 849,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wmMMx9jfBeA",
+   "title": "Parashá Yitro: os Dez Mandamentos hoje",
+   "lines": 441,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "dxZzD0hOObg",
+   "title": "Leis de Pessach, venda do chametz e a redenção",
+   "lines": 826,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1x7uEqKGFiM",
+   "title": "Parashá Korach: a inveja e o pecado da comparação",
+   "lines": 921,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "jS0QFGiUDic",
+   "title": "A moldura haredi não basta para servir HaShem de verdade",
+   "lines": 94,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "BJp2bOXUTbk",
+   "title": "Parashá Emor: a força dos enfraquecidos",
+   "lines": 45,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "RNy16zePlX4",
+   "title": "Rashi sobre Korach: unidade e divisão no povo",
+   "lines": 18,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "_AYHZacTlwY.p0",
+  "_AYHZacTlwY.p1",
+  "_AYHZacTlwY.p2",
+  "JFm0Cj5lQhE.p0",
+  "JFm0Cj5lQhE.p1",
+  "JFm0Cj5lQhE.p2",
+  "JFm0Cj5lQhE.p3",
+  "1IfMaPHnP30.p0",
+  "1IfMaPHnP30.p1",
+  "1IfMaPHnP30.p2",
+  "qO-b0vKMjAE.p0",
+  "qO-b0vKMjAE.p1",
+  "kD67_YtdwEU.p0",
+  "kD67_YtdwEU.p1",
+  "wmMMx9jfBeA.p0",
+  "dxZzD0hOObg.p0",
+  "dxZzD0hOObg.p1",
+  "1x7uEqKGFiM.p0",
+  "1x7uEqKGFiM.p1",
+  "1x7uEqKGFiM.p2",
+  "jS0QFGiUDic.p0",
+  "BJp2bOXUTbk.p0",
+  "RNy16zePlX4.p0"
+ ]
+}
