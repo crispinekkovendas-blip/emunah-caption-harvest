@@ -1,7 +1,7 @@
 # lane3-008
 
-22 of 25 lessons published · 1 skipped · status **pending**
-Tokens (95 agent runs with a record): 1.2M in (mostly cache) · 2.16M out · API-equivalent 25.25
+22 of 25 lessons published · 2 skipped · status **pending**
+Tokens (100 agent runs with a record): 1.3M in (mostly cache) · 2.25M out · API-equivalent 26.15
 
 | lesson | state | detail |
 |---|---|---|
@@ -16,7 +16,7 @@ Tokens (95 agent runs with a record): 1.2M in (mostly cache) · 2.16M out · API
 | StzfYBcHiCg | ✓ published | 365 lines · Devekut em HaShem: o que sobrevive de Am Israel |
 | gd2Ws-hft08 | ✓ published | 1545 lines · Alegria com o que se tem: o teste da vida em Bereshit |
 | s4XSBB-yrU8 | ✓ published | 717 lines · Não destruir as más middot, mas purificá-las e usá-las |
-| Tef2UUpvDP0 | skipped after 3 tries | 1 lines missing |
+| Tef2UUpvDP0 | skipped | |
 | p__dC3OqgvY | ✓ published | 511 lines · Devarim: como dizer tochachá e aprender com Yaakov |
 | 8bGLq_s-aZg | waiting | 1/2 parts |
 | VS9Z3kHmdDQ | ✓ published | 358 lines · Pinchas: o líder que conhece cada alma de Israel |
@@ -28,5 +28,5 @@ Tokens (95 agent runs with a record): 1.2M in (mostly cache) · 2.16M out · API
 | 67VQBy-rQWs | ✓ published | 325 lines · O Cohen que quis casar com uma divorciada |
 | LretpOZ26GQ | ✓ published | 1072 lines · HaShem prefere os Leviim: o valor do esforço |
 | NNkJrQdffBs | ✓ published | 349 lines · Sheva Berachot: viver pelo outro e o Aharon que acendeu a Menorá |
-| nfDEWz0a83w | waiting | 3/4 parts |
+| nfDEWz0a83w | skipped after 3 tries | 5 lines missing |
 | DGgGODF__L4 | ✓ published | 984 lines · Ahavat chinam, fé em HaShem e o fim da inveja |
