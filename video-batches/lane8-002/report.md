@@ -1,7 +1,7 @@
 # lane8-002
 
-21 of 25 lessons published · 0 skipped · status **pending**
-Tokens (57 agent runs with a record): 0.7M in (mostly cache) · 1.00M out · API-equivalent 12.17
+21 of 25 lessons published · 3 skipped · status **pending**
+Tokens (69 agent runs with a record): 0.8M in (mostly cache) · 1.35M out · API-equivalent 15.73
 
 | lesson | state | detail |
 |---|---|---|
@@ -21,12 +21,12 @@ Tokens (57 agent runs with a record): 0.7M in (mostly cache) · 1.00M out · API
 | ggdc0s8Fqro | ✓ published | 82 lines · Não ter medo da verdade: o exemplo de Pinchas |
 | iwpWYQEgPvM | ✓ published | 40 lines · Seja rei: a mensagem do shofar para Rosh HaShaná |
 | WqNLInpsXec | ✓ published | 18 lines · Guerra e paz: dois versículos da Parashá Behaalotcha |
-| Ia_QIk-dUWk | ✗ will be redone (try 2) | line 450 twice |
+| Ia_QIk-dUWk | skipped after 3 tries | 183 lines missing |
 | yaoqTxUFBlU | ✓ published | 668 lines · Ben Ish Chai Halachot: Pikudei, Halachot 8 a 15 |
 | U22BU4Lt0d0 | ✓ published | 648 lines · Shemini: o bezerro de Aharon, shalom bait e o dia oitavo |
-| I1NcDOB6yTM | ✗ will be redone (try 2) | 4 lines missing |
+| I1NcDOB6yTM | skipped after 3 tries | 5 lines missing |
 | c67uVSVsJXo | ✓ published | 460 lines · O segredo de quem se levanta de qualquer queda |
-| WwNA41XTH7Y | ✗ will be redone (try 1) | 3 lines missing |
-| Qy9fFvnoDsU | ✗ will be redone (try 2) | line 1051 twice |
+| WwNA41XTH7Y | waiting | 2/3 parts |
+| Qy9fFvnoDsU | skipped after 3 tries | line 0 twice |
 | Rhmdax5gXL0 | ✓ published | 34 lines · Parashá Toldot: quem se afastou merece as bênçãos? |
 | VmkEXv9kIEI | ✓ published | 351 lines · Mitsvot práticas: a força de mudar no mundo da ação |
