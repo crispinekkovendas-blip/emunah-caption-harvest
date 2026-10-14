@@ -1,7 +1,7 @@
 # lane3-008
 
 22 of 25 lessons published · 2 skipped · status **pending**
-Tokens (106 agent runs with a record): 1.3M in (mostly cache) · 2.33M out · API-equivalent 26.96
+Tokens (108 agent runs with a record): 1.3M in (mostly cache) · 2.34M out · API-equivalent 27.00
 
 | lesson | state | detail |
 |---|---|---|
@@ -18,7 +18,7 @@ Tokens (106 agent runs with a record): 1.3M in (mostly cache) · 2.33M out · AP
 | s4XSBB-yrU8 | ✓ published | 717 lines · Não destruir as más middot, mas purificá-las e usá-las |
 | Tef2UUpvDP0 | skipped | |
 | p__dC3OqgvY | ✓ published | 511 lines · Devarim: como dizer tochachá e aprender com Yaakov |
-| 8bGLq_s-aZg | waiting | 1/2 parts |
+| 8bGLq_s-aZg | ✗ will be redone (try 1) | 20 lines missing |
 | VS9Z3kHmdDQ | ✓ published | 358 lines · Pinchas: o líder que conhece cada alma de Israel |
 | _3Nj9uN0nAg | ✓ published | 470 lines · Shofetim: guardar os portões e andar com tamim |
 | Yu0TEiTz69w | ✓ published | 94 lines · A Haftará de Ki Tavô: de Jerusalém escura à luz de HaShem |
