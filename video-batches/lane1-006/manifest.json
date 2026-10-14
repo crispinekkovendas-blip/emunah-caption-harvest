@@ -1,0 +1,250 @@
+{
+ "name": "lane1-006",
+ "lane": 1,
+ "created": "2026-10-14T13:49:29.987Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "I6yny4LYyIo",
+   "title": "Os Poskim e os Mekubalim: o legado do Rav Ovadia",
+   "lines": 772,
+   "parts": 2,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "MjX5TALml0w",
+   "title": "Fé, clamor e renovação em Bereshit, após o 7 de outubro",
+   "lines": 1307,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "jak2cqPigIo",
+   "title": "As mitzvot do coração em Vaetchanan",
+   "lines": 921,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "THaiO0_J5gk",
+   "title": "Shelach: olhar bom, shalom bait e o sustento",
+   "lines": 1797,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "zGXiZl8xN_M",
+   "title": "Parashá Ekev: a vida boa neste mundo",
+   "lines": 968,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "GN510oTQvLk",
+   "title": "Louvor a Hashem e as leis do sacrifício",
+   "lines": 596,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xvjFWmS_BmI",
+   "title": "Bo'ê Beshalach: a humildade, o êxodo e a bizá do mar",
+   "lines": 673,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Jw6kXh_yEvI",
+   "title": "A oração: dirigir-se diretamente a Kadosh Barukh Hu",
+   "lines": 813,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "n9n3yixScCI",
+   "title": "Maharamak, a Guemará do Sinai e Parashat Matot",
+   "lines": 1032,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "w8s-IFDJ7Vs",
+   "title": "Vayerá: a força de Avraham para os nisyonot",
+   "lines": 716,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "mUKyifrXkr0",
+   "title": "Pinchas: por que o judeu tem limites? Zimri e Pinchas",
+   "lines": 572,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-Mz_6UKOCGI",
+   "title": "Tamim: ser fiel à própria essência",
+   "lines": 1032,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_UL-hXEpjhQ",
+   "title": "Shabat Nitsavim: unidade, amor ao próximo e shalom",
+   "lines": 925,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rYuE6Ryws0g",
+   "title": "Não olhe para trás: fracassos e sucessos do passado",
+   "lines": 801,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wfv3_gRIdiQ",
+   "title": "Bitachon e hishtadlut: o caminho de Yaakov",
+   "lines": 1278,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Bs9F0_yT5Ag",
+   "title": "Parashat Ki Tisá: erguer a cabeça com tsedaká e teshuvá",
+   "lines": 911,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HJ-VOA58aOA",
+   "title": "Chukat: o Chok, Or HaChaim e o cozimento no Shabat",
+   "lines": 1312,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rghZzv_HM10",
+   "title": "Ki Tavô: a ingratidão a HaShem e a gratidão pela Terra",
+   "lines": 653,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3gjLZcWs0Io",
+   "title": "Ame o próximo como a ti mesmo: o instrumento prático",
+   "lines": 1103,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "V2NOvR1Lz0o",
+   "title": "Como realizar sonhos: a força de esperar (Chayei Sará)",
+   "lines": 1019,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "iizcMyAYvr8",
+   "title": "Leitura da Torá: Parashá Chayei Sarah completa (Marroquino)",
+   "lines": 253,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "RuCeXx4YwSM",
+   "title": "Sof Maase BeMachshava Techila: pensar antes de agir",
+   "lines": 1079,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "LAQOtuzLU2o",
+   "title": "As letras, o pergaminho e a luz oculta da Torá",
+   "lines": 1181,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "uqTzb2Xk2jI",
+   "title": "Hechal HaTemurot: o Filho do Rei e o Filho da Serva",
+   "lines": 980,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "k9nnAgjBiVY",
+   "title": "Ben Ish Chai: Hoshaná Rabá, as 13 Hakafot e o selo",
+   "lines": 575,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "I6yny4LYyIo.p0",
+  "I6yny4LYyIo.p1",
+  "MjX5TALml0w.p0",
+  "MjX5TALml0w.p1",
+  "MjX5TALml0w.p2",
+  "jak2cqPigIo.p0",
+  "jak2cqPigIo.p1",
+  "jak2cqPigIo.p2",
+  "THaiO0_J5gk.p0",
+  "THaiO0_J5gk.p1",
+  "THaiO0_J5gk.p2",
+  "THaiO0_J5gk.p3",
+  "zGXiZl8xN_M.p0",
+  "zGXiZl8xN_M.p1",
+  "zGXiZl8xN_M.p2",
+  "GN510oTQvLk.p0",
+  "GN510oTQvLk.p1",
+  "xvjFWmS_BmI.p0",
+  "xvjFWmS_BmI.p1",
+  "Jw6kXh_yEvI.p0",
+  "Jw6kXh_yEvI.p1",
+  "n9n3yixScCI.p0",
+  "n9n3yixScCI.p1",
+  "n9n3yixScCI.p2",
+  "w8s-IFDJ7Vs.p0",
+  "w8s-IFDJ7Vs.p1",
+  "mUKyifrXkr0.p0",
+  "mUKyifrXkr0.p1",
+  "-Mz_6UKOCGI.p0",
+  "-Mz_6UKOCGI.p1",
+  "-Mz_6UKOCGI.p2",
+  "_UL-hXEpjhQ.p0",
+  "_UL-hXEpjhQ.p1",
+  "_UL-hXEpjhQ.p2",
+  "rYuE6Ryws0g.p0",
+  "rYuE6Ryws0g.p1",
+  "wfv3_gRIdiQ.p0",
+  "wfv3_gRIdiQ.p1",
+  "wfv3_gRIdiQ.p2",
+  "Bs9F0_yT5Ag.p0",
+  "Bs9F0_yT5Ag.p1",
+  "Bs9F0_yT5Ag.p2",
+  "HJ-VOA58aOA.p0",
+  "HJ-VOA58aOA.p1",
+  "HJ-VOA58aOA.p2",
+  "rghZzv_HM10.p0",
+  "rghZzv_HM10.p1",
+  "3gjLZcWs0Io.p0",
+  "3gjLZcWs0Io.p1",
+  "3gjLZcWs0Io.p2",
+  "V2NOvR1Lz0o.p0",
+  "V2NOvR1Lz0o.p1",
+  "V2NOvR1Lz0o.p2",
+  "iizcMyAYvr8.p0",
+  "RuCeXx4YwSM.p0",
+  "RuCeXx4YwSM.p1",
+  "RuCeXx4YwSM.p2",
+  "LAQOtuzLU2o.p0",
+  "LAQOtuzLU2o.p1",
+  "LAQOtuzLU2o.p2",
+  "uqTzb2Xk2jI.p0",
+  "uqTzb2Xk2jI.p1",
+  "uqTzb2Xk2jI.p2",
+  "k9nnAgjBiVY.p0",
+  "k9nnAgjBiVY.p1"
+ ]
+}
