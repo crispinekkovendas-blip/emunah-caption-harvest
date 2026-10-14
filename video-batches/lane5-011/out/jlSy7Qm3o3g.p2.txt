@@ -1,0 +1,136 @@
+900	Shva, cholam, chirik	Shevá, cholam, chirik
+901	Kubutz, shuruk, kamatz, patach, tzere, segol, shva, cholam, chirik	Kubutz, shuruk, kamatz, patach, tserê, segol, shevá, cholam, chirik
+902	Kubutz, shuruk, kamatz, patach, tzere, segol, shva, cholam,	Kubutz, shuruk, kamatz, patach, tserê, segol, shevá, cholam,
+903	chirik, kubutz	chirik, kubutz
+904	patach, tzere, segol, shva, cholam, chirik, kubutz, shuruk, kamatz	patach, tserê, segol, shevá, cholam, chirik, kubutz, shuruk, kamatz
+905	patach, tzere, segol, shva, cholam, chirik, kubutz, shuruk, kamatz	patach, tserê, segol, shevá, cholam, chirik, kubutz, shuruk, kamatz
+906	patach, tzere, segol, shva, cholam, chirik, kubutz, shuruk, kamatz	patach, tserê, segol, shevá, cholam, chirik, kubutz, shuruk, kamatz
+907	patach, tzere, segol, shva, cholam, chirik, kubutz, shuruk, kamatz	patach, tserê, segol, shevá, cholam, chirik, kubutz, shuruk, kamatz
+908	patach, tzere, segol, shva, cholam, chirik, kubutz, shuruk, that's it	patach, tserê, segol, shevá, cholam, chirik, kubutz, shuruk, é isso
+909	Nine	Nove
+910	Now the tropes: Zarka, Makaf, Shofar Holech, Segolta	Agora os tropos: Zarká, Makaf, Shofar Holech, Segolta
+911	Pazer Gadol, Yerach ben Yomo, Karnei Para, Gaya, Telisha	Pazer Gadol, Yerach ben Yomo, Karnei Pará, Gaya, Telisha
+912	Geresh, Pesik, Revia, Shofar Mehupach, Kadma	Guerêsh, Pesik, Reviá, Shofar Mehupach, Kadmá
+913	Zakef Katon, Zakef Gadol, Shalshelet, Gershayim, Ta'ama, Darga	Zakef Katon, Zakef Gadol, Shalshelet, Guershayim, Taamá, Darguá
+914	Tevir, Merkha, Tipcha, Etnachta, Rafe, Dagesh, Yetiv, Tirsa	Tevir, Merchá, Tipchá, Etnachtá, Rafê, Dagesh, Yetiv, Tirsá
+915	Two ... Shibolet, Gaya, the Gaya at the end	Dois ... Shibólet, Gaya, a Gaya no final
+916	of the verse. Zarka, Shofar Holech, Segolta, Pazer Gadol, Yerach	do versículo. Zarká, Shofar Holech, Segolta, Pazer Gadol, Yerach
+917	ben Yomo, Karnei Para, Gaya, Telisha. Then Geresh, Pesik	ben Yomo, Karnei Pará, Gaya, Telisha. Depois Guerêsh, Pesik
+918	Revia, Shofar Mehupach, Kadma, Zakef Katon, Zakef Gadol	Reviá, Shofar Mehupach, Kadmá, Zakef Katon, Zakef Gadol
+919	Shalshelet, Gershayim, Ta'ama, Darga, Merkha	Shalshelet, Guershayim, Taamá, Darguá, Merchá
+920	Tipcha, Etnachta, Rafe, Dagesh, Yetiv, Tirsa	Tipchá, Etnachtá, Rafê, Dagesh, Yetiv, Tirsá
+921	Two ...	Dois ...
+922	Shibolet, Gaya, Gaya, the end of the verse. A second	Shibólet, Gaya, Gaya, o final do versículo. Uma segunda
+923	time, now a third: Mekav, Shofar Holech, Segolta, Pazer	vez, agora a terceira: Mekav, Shofar Holech, Segolta, Pazer
+924	Gadol, Yerach ben Yomo, Karnei Para, Gaya, Telisha	Gadol, Yerach ben Yomo, Karnei Pará, Gaya, Telisha
+925	Geresh, Pesik, Revia, Shofar Mehupach, Kadma, Zakef Katon	Guerêsh, Pesik, Reviá, Shofar Mehupach, Kadmá, Zakef Katon
+926	Zakef Gadol, Shalshelet, Gershayim, Ta'ama, Darga	Zakef Gadol, Shalshelet, Guershayim, Taamá, Darguá
+927	Avir, Merkha, Tipcha, Etnachta, Rafe, Dagesh, Yetiv, Tirsa	Avir, Merchá, Tipchá, Etnachtá, Rafê, Dagesh, Yetiv, Tirsá
+928	Shibolet, Gaya, Gaya, the end	Shibólet, Gaya, Gaya, o final
+929	of the verse	do versículo
+930	Now there is here the order of the Alef-Bet with which HaShem created	Agora temos aqui a ordem do Alef-Bet com o qual HaShem criou
+931	the world, so we must say this once.	o mundo, então é preciso dizer isso uma vez.
+932	Alef, Bet... There are great secrets in this. I will first	Alef, Bet... Há nisso grandes segredos. Vou antes
+933	give a small example. We have a halachah,	dar um pequeno exemplo. Temos uma halachá,
+934	a custom that the Arizal wrote down: that in the weeks of Shovavim	um costume que o Arizal escreveu: que nas semanas de Shovavim
+935	they would fast 84 fasts. Where does 84 come from?	jejuava-se 84 jejuns. De onde vem o 84?
+936	I will be glad to explain.	Terei prazer em explicar.
+937	If you look: Alef, Chet, Hei, Ayin, in the throat,	Se você olhar: Alef, Chet, Hei, Ayin, na garganta,
+938	the guttural letters. Alef, Chet is nine,	as letras guturais. Alef, Chet dá nove,
+939	and Hei	e o Hei
+940	makes 14, and Ayin 70: 84. What does it have to do with the throat? Heaven forbid,	dá 14, e o Ayin 70: 84. O que isso tem a ver com a garganta? Que o Céu nos livre,
+941	not for you, only for us: at the time of sin, saliva forms	não a vocês, só a nós: na hora do pecado forma-se saliva
+942	in the throat, and then there is also damage, heaven forbid, above	na garganta, e então há também dano, que o Céu nos livre, no alto
+943	in these four letters. To atone,	nessas quatro letras. Para expiar,
+944	they ordained fasting 84 days, and that is the secret, says the Zohar.	estabeleceram jejuar 84 dias, e esse é o segredo, diz o Zohar.
+945	Why the yevamah?	Por que a yevamá?
+946	When he comes to perform chalitzah for her, it is written, "and she shall spit before him."	Quando ele vem fazer a chalitsá, está escrito: "e cuspirá diante dele".
+947	Not that she spits in his face, but they take a	Não que ela cuspa no rosto dele, mas pegam uma
+948	slab, and she spits on it,	laje, e ela cospe nela,
+949	and the judges see the saliva, and then they release them.	e os juízes veem a saliva, e então os libertam.
+950	What is the point? Because the soul is found there, in her throat,	Qual é a questão? Porque a alma se encontra ali, na garganta dela,
+951	since she was with the husband, and he died without sons.	pois ela esteve com o marido, e ele morreu sem filhos.
+952	Now his soul is deposited with her. By	Agora a alma dele está depositada nela. Ao
+953	spitting, she releases him, and he can	cuspir, ela o liberta, e ele pode
+954	come in a reincarnation and bring sons. This is an immense secret.	vir em reencarnação e ter filhos. Isso é um segredo imenso.
+955	The Zohar, Parashat Mishpatim, speaks about this. So that is the Alef-Chet,	O Zohar, Parashat Mishpatim, fala sobre isso. Então esse é o Alef-Chet.
+956	All the letters have secrets in them, so let us say them	Todas as letras têm segredos, então vamos dizê-las
+957	together. Alef, Chet, Hei, Ayin in the throat; Gimel, Yod, Chaf, Kuf in the palate; Dalet, Tet, Lamed, Nun, Tav	juntos. Alef, Chet, Hei, Ayin na garganta; Guimel, Yod, Chaf, Kuf no palato; Dalet, Tet, Lamed, Nun, Tav
+958	on the tongue; Zayin, Samech, Shin, Resh, Tzadi on the teeth; Bet, Vav, Mem, Peh on the lips.	na língua; Zayin, Samech, Shin, Resh, Tsadi nos dentes; Bet, Vav, Mem, Pê nos lábios.
+959	Alef-Tav, Bet-Shin, Gimel-Resh, Dalet-Kuf, Hei-Tzadi, Vav-Peh, Zayin-Ayin, Chet-Samech	Alef-Tav, Bet-Shin, Guimel-Resh, Dalet-Kuf, Hei-Tsadi, Vav-Pê, Zayin-Ayin, Chet-Samech
+960	Tet-Nun, Yod-Mem, Kaf-Lamed	Tet-Nun, Yod-Mem, Kaf-Lamed
+961	…	…
+962	Zayin... Then there is another order, Albam.	Zayin... Depois há outra ordem, Albam.
+963	In the Gemara, tractate Shabbat 104, Alef with Lamed: you take	Na Guemará, tratado Shabat 104, Alef com Lamed: você pega
+964	the 11 letters in one row and another 11 in the next row and make	as 11 letras de uma fileira e mais 11 da outra fileira e forma
+965	pairs. Alef with Lamed, Albam: Gimel-Nun, Dalet-Samech, Hei-Ayin,	pares. Alef com Lamed, Albam: Guimel-Nun, Dalet-Samech, Hei-Ayin,
+966	Vav-Peh, Zayin-Tzadi, Chet-Kuf, Tet-Resh, Yod-Shin,	Vav-Pê, Zayin-Tsadi, Chet-Kuf, Tet-Resh, Yod-Shin,
+967	Kaf-Tav.	Kaf-Tav.
+968	Sorry, Kaf-Tav. Then Bet-Chet, Gimel-Shin, Dalet-Mem-Tav, Hei-Nun, and there	Desculpem, Kaf-Tav. Depois Bet-Chet, Guimel-Shin, Dalet-Mem-Tav, Hei-Nun, e ali
+969	Zayin-Ayin, Chet-Peh, Tzadi. Then Alef-Tet-Chet, Gimel-Zayin, Dalet-Vav. What is this? Here, here.	Zayin-Ayin, Chet-Pê, Tsadi. Depois Alef-Tet-Chet, Guimel-Zayin, Dalet-Vav. O que é isso? Aqui, aqui.
+970	Each pair makes ten: Alef-Tet, Bet-Chet, Gimel-Zayin, Dalet-Vav. Then	Cada par soma dez: Alef-Tet, Bet-Chet, Guimel-Zayin, Dalet-Vav. Depois
+971	Tzadi, Kaf, Lamed, Mem, Samech, Kaf-Samech	Tsadi, Kaf, Lamed, Mem, Samech, Kaf-Samech
+972	Resh, Hei, Alef, Kaf, Shin, Nun, Tav-Mem. Then there are these single ones:	Resh, Hei, Alef, Kaf, Shin, Nun, Tav-Mem. Depois há estas isoladas:
+973	"And You, Adonai, are El, compassionate and gracious, slow to anger, abundant in kindness	"E Tu, Adonai, és El compassivo e clemente, longânime e cheio de bondade
+974	and truth. Turn to me and be gracious to me; give Your strength to Your servant	e verdade. Volta-Te para mim e tem graça de mim; dá Tua força ao Teu servo
+975	and save the son of Your handmaid. Show me a sign for good, that my enemies may see	e salva o filho da Tua serva. Faze comigo um sinal para o bem, para que meus inimigos vejam
+976	and be ashamed, for You, Adonai, have helped me and comforted me." Arise, holy ones,	e se envergonhem, pois Tu, Adonai, me ajudaste e me consolaste." Levantai-vos, santos,
+977	and take hold of your holy weapons, and bind yourselves	e empunhai vossas armas santas, e unci-vos
+978	with the holy vowels and tropes,	às vogais e aos tropos santos,
+979	and gather together, and plead for mercy for	e reuni-vos, e pedi misericórdia para
+980	the Shechinah, and for her Sanctuary, and for the city of Jerusalem.	a Shechiná, e para o Seu Santuário, e para a cidade de Jerusalém.
+981	May His great Name be magnified and sanctified, speedily and in a	Que o Seu grande Nome seja engrandecido e santificado, prontamente e em
+982	time soon to come, and may foreign worship be uprooted from the earth,	tempo próximo, e que o culto estranho seja extirpado da terra,
+983	and may the memory of Amalek be erased from under the heavens.	e que a memória de Amalec seja apagada de debaixo dos céus.
+984	Amen.	Amém.
+985	And may the worship of the Master of Heaven return, in splendor and	E que o culto do Senhor dos Céus retorne, com esplendor e
+986	glory, and may He reign in His kingdom, and may His redemption sprout, and bring near His anointed.	glória, e que Ele reine em Seu reinado, e brote a Sua redenção, e aproxime o Seu ungido.
+987	Amen. Arise, holy ones, gather and speak in defense	Amém. Levantai-vos, santos, reuni-vos e falai em defesa
+988	of the House of Israel, the children of Abraham, Isaac and Jacob, and may there	da Casa de Israel, filhos de Avraham, Yitschak e Yaakov, e que haja
+989	be from before Him life, abundance, salvation and consolation,	de diante Dele vida, fartura, salvação e consolo,
+990	rescue, redemption, relief, atonement, respite and deliverance for us	livramento, redenção, alívio, expiação, descanso e salvamento para nós
+991	and for all His people Israel, and say Amen.	e para todo o Seu povo Israel, e digam Amém.
+992	And may the supreme will of all the holy ones be drawn down, the voice of all,	E que seja vertida a vontade suprema de todos os santos, a voz de todos,
+993	through the thirteen channels: "Preserver of kindness," "and He cleanses," the way of	pelos treze canais: "Preservador da bondade", "e Ele purifica", o caminho do
+994	palate and throat, to Abba and Imma, to Zeir Anpin and the Field of	palato e da garganta, a Abá e Imá, a Zeir Anpin e ao Campo das
+995	holy apples, and the lights of the countenance, will and joy	maçãs santas, e as luzes da face, vontade e alegria
+996	of all, and may there be drawn forth will and mercy, grace and kindness,	de todos, e que sejam vertidas vontade e misericórdia, graça e bondade,
+997	compassion, long life, abundant sustenance, and children	compaixão, vida longa, sustento abundante e filhos
+998	for us and for all Israel. Amen.	para nós e para todo Israel. Amém.
+999	May it be Your will, Master of all worlds,	Que seja a Tua vontade, Senhor de todos os mundos,
+1000	in all the worlds, and may all prayers be accepted,	em todos os mundos, e que todas as orações sejam aceitas,
+1001	Ah.	Ah.
+1002	and all of them in mercy, as it is written: "As for me, my prayer is to You,	e todas elas com misericórdia, como está escrito: "Quanto a mim, minha oração é a Ti,
+1003	Adonai, at a time of favor."	Adonai, em tempo de favor."
+1004	May the will of the Metzach be found in every hour that we need it. Amen.	Que a vontade do Metsach se encontre em toda hora de que precisarmos. Amém.
+1005	Amen.	Amém.
+1006	And the great will of Atik Yomin, good in judgment, joins and strengthens,	E a grande vontade de Atik Yomin, boa no julgamento, une e fortalece,
+1007	joins all that is light; may the good eye be open upon him	une tudo o que é leve; que o olho bom se abra sobre ele
+1008	and may blessing be constant from the open eye, the eye	e que a bênção seja constante do olho aberto, o olho
+1009	of holiness, the eye of providence, the eye that never sleeps and is pleasant,	da santidade, o olho da providência, o olho que nunca dorme e é agradável,
+1010	the eye that guards all, the eye that sustains all,	o olho que guarda tudo, o olho que sustenta tudo,
+1011	as it is written: "House of Jacob, come, let us walk in the light of Adonai."	como está escrito: "Casa de Yaakov, vinde, andemos à luz de Adonai."
+1012	And it is written: "A good eye will be blessed," and "Joseph is a fruitful son,	E está escrito: "Quem tem olho bom será abençoado", e "Yosef é um filho fecundo,
+1013	a fruitful son by a spring." The two apples are always delighting,	um filho fecundo junto à fonte." As duas maçãs estão sempre em delícia,
+1014	drawing near, fragrant, shining and white.	aproximando-se, perfumadas, resplandecentes e brancas.
+1015	Those holy apples, beautiful and white, bring forth	Essas maçãs santas, belas e brancas, trazem
+1016	life to the world. It is written: "In the light of the King's countenance is life." That is	vida ao mundo. Está escrito: "Na luz da face do rei há vida." Isto são
+1017	the apples,	as maçãs,
+1018	beautiful and pleasant to behold; through them the world endures.	belas e agradáveis de ver; por meio delas o mundo subsiste.
+1019	They return in joy, and all those	Elas retornam com alegria, e todas aquelas
+1020	lamps shine in joy, and all the lights,	lâmpadas brilham com alegria, e todas as luzes,
+1021	and all the worlds rejoice, whole in all wholeness, and all the joyful	e todos os mundos se alegram, completos em toda plenitude, e todos os alegres
+1022	and shining ones, and all good without interruption, and all are present	e radiantes, e todo o bem sem interrupção, e todos estão presentes
+1023	in a single moment. And the Ra'ava from before — this last passage —	num único momento. E a Raava de antes — este último trecho —
+1024	Ra'ava from before: life of life, for those who ... a life of peace.	Raava de antes: vida da vida, para aqueles que ... uma vida de paz.
+1025	Long life. Amen. Good life. Amen. Joyful life.	Vida longa. Amém. Vida boa. Amém. Vida alegre.
+1026	Amen. Life without ...	Amém. Vida sem ...
+1027	Amen.	Amém.
+1028	Life that gives joy.	Vida que dá alegria.
+1029	Amen, Amen. ...	Amém, Amém. ...
+1030	Raava, blessed from the mouth of the Holy One, blessed be He. Amen.	Raava, abençoada da boca do Santo, bendito seja. Amém.
+1031	In each and every one of His attributes, and in His ten sefirot,	Em cada uma de Suas medidas, e em Suas dez sefirot,
+1032	and in all His names, and in every appearance, and all angels.	e em todos os Seus nomes, e em toda visão, e todos os anjos.
+1033	Amen. May you merit many years,	Amém. Que mereçam muitos anos,
+1034	pleasant and good.	agradáveis e bons.
+1035	Shabbat shalom and a good life ...	Shabat shalom e uma boa vida ...

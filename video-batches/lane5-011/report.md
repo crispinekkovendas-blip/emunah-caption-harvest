@@ -1,7 +1,7 @@
 # lane5-011
 
-22 of 25 lessons published · 1 skipped · status **pending**
-Tokens (71 agent runs with a record): 0.8M in (mostly cache) · 1.71M out · API-equivalent 19.58
+24 of 25 lessons published · 1 skipped · status **done**
+Tokens (78 agent runs with a record): 0.9M in (mostly cache) · 1.90M out · API-equivalent 21.64
 
 | lesson | state | detail |
 |---|---|---|
@@ -18,15 +18,15 @@ Tokens (71 agent runs with a record): 0.8M in (mostly cache) · 1.71M out · API
 | ZnY5s5o41yk | ✓ published | 957 lines · Bitul chamets, trabalhadores estrangeiros e Pêssach |
 | 6OYoGssR4ZQ | ✓ published | 452 lines · Nomes de goyim: é permitido dar ao filho? |
 | 5u4U7k9Smh8 | ✓ published | 1078 lines · A bondade interior do homem e a Torá como tempero |
-| jlSy7Qm3o3g | ✗ will be redone (try 2) | 1 lines missing |
+| jlSy7Qm3o3g | ✓ published | 1036 lines · Parashá Bemidbar: o censo, o bezerro e a trilha de Alef-Bet |
 | -ouDLAI7UgU | ✓ published | 406 lines · Como fazer o Kadosh Baruch Hu estender a mão a você |
 | ZlxRn6DfPbM | ✓ published | 939 lines · Mussar: o iêtser hará e a hilulá do Or HaChaim |
 | I8fzHzNUPkE | ✓ published | 696 lines · Pinchas, o cohen que desceu da sua grandeza |
 | 4W0iLnoeF1E | ✓ published | 641 lines · Os dedos e os ouvidos: proteger-se da fofoca |
 | D6G5eCoGFuQ | ✓ published | 1537 lines · Pinchas: "Tsarur" os midianitas e a paz com verdade |
 | 8T0MraT8XhE | ✓ published | 733 lines · Você acredita na sua oração? A fé como força de tudo |
-| RlJTQ1I7VNE | skipped after 3 tries | 395 lines missing |
+| RlJTQ1I7VNE | skipped | |
 | ypV3AXmlDaQ | ✓ published | 1415 lines · De Tisha BeAv a Shabat Nachamu: a descida e a subida |
-| pwiSj8E2T2I | waiting | 1/2 parts |
+| pwiSj8E2T2I | ✓ published | 878 lines · A oração e o Mikdash: o retorno da alma |
 | dW2RWrDN8Z0 | ✓ published | 1170 lines · O Yibum e a Teshuvá segundo o Rav Kook |
 | Sc4ElGF_5Cc | ✓ published | 560 lines · Por que a Torá ameaça com maldições em Ki Tavô |
