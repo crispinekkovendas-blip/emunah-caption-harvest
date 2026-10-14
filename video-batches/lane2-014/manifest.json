@@ -2,7 +2,7 @@
  "name": "lane2-014",
  "lane": 2,
  "created": "2026-10-14T13:59:48.735Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "RAWTl_9kbgo",
@@ -176,7 +176,7 @@
   "vTCFXaNhmRI.p1"
  ],
  "tries": {
-  "bLms7yHxLVc": 2,
+  "bLms7yHxLVc": 3,
   "l3z-9KB8RXM": 1
  },
  "done": [
@@ -200,5 +200,7 @@
   "vTCFXaNhmRI",
   "l3z-9KB8RXM"
  ],
- "skipped": []
+ "skipped": [
+  "bLms7yHxLVc"
+ ]
 }
