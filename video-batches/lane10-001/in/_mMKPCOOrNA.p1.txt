@@ -1,0 +1,90 @@
+videoId: _mMKPCOOrNA
+parte 2 de 2 · traduzir as linhas 450 a 515 (66 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Aula diária em ídiche: Parashá Ki Tavo
+RESUMO: Esta é a aula diária em ídiche de quinta-feira, na semana da Parashá Ki Tavo, com o Rav Menashe Yisrael Reizman. A legenda automática do trecho disponível (a partir de 06:48) é quase toda ininteligível, pois o ídiche foi reconhecido como hebraico. Dá para perceber que a aula gira em torno do estudo e do aprendizado: o que significa aprender algo "querido" ou "precioso" (יקר) e como o estudo se fixa em quem aprende (11:23, 36:53). Aparecem também discussões sobre o que é permitido e proibido numa determinada situação (21:16, 52:33) e o tema do lugar (מקום), onde a pessoa se encontra e como isso a afeta (49:09, 50:28). Perto do fim há o conselho de prestar muita atenção e se concentrar bem em tudo o que se estuda (53:21). Nenhuma fonte pôde ser identificada com segurança.
+MOMENTOS: 06:48 Início do trecho legendado · 11:23 O que significa a palavra "yakar" (querido, precioso) · 21:16 Discussão sobre o que é permitido e o que não é · 22:40 Exemplo do médico e do hóspede · 36:53 Como o estudo permanece em quem aprende · 41:02 O aprendizado humano e as pessoas · 49:09 O tzadik e o lugar onde nasceu · 52:33 O que o homem não deve desviar · 53:21 Atenção e concentração em cada coisa · 55:26 Fechamento sobre o estudo e o cuidado
+FONTES CITADAS: 
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+438|49:30|ה-Ru כזה ה-Ru אפילו אחד שם
+439|49:33|הם כמו פרות שם
+440|49:39|בניקלסבורג נמצא בתור אבל ב
+441|49:44|מניחים את ה-F עכשיו שם בפרנקפורט, איפה
+442|49:47|זה שונה שם
+443|49:50|שם גברים
+444|49:53|להיות שם ב-W מסוכן לא ה-
+445|49:57|זה היה הגיוני, המייל עלול לקחת זמן
+446|50:01|קים ז' כשהיא קטינה
+447|50:08|מִן
+448|50:13|ה
+449|50:17|הוא אוטומטי
+
+LINHAS A TRADUZIR:
+450|50:21|אומר לדבר
+451|50:28|במקום אחר מָקוֹם
+452|50:37|מָקוֹם,
+453|50:40|כי הנה אתה שם, אחרים שם
+454|50:44|אסור לשתות שם.
+455|50:48|מַאִי
+456|50:49|לקחת מהגפן, הוא רוצה להיות כאן
+457|50:53|בפגישתו אני בא ל-se kri se krime
+458|50:58|הדברים שלך סַך הַכֹּל
+459|51:04|עשוי לתת בחלל הרכן
+460|51:07|לא לחפש, כי אין מקום
+461|51:09|הוא
+462|51:12|שְׁתִיָה
+463|51:15|מי ששותה שם את ה-W אבל הם
+464|51:20|לֹא
+465|51:25|שֶׁלִי
+466|51:28|דבר שנאמר לי
+467|51:35|גם הוא מ-
+468|51:51|אבל יצא מזה דו ברז
+469|52:01|מִן
+470|52:11|רצה
+471|52:15|דבר מסוכן
+472|52:29|קדוש של אחד מה
+473|52:33|אסור לאדם לסטות ממה שהוא רשאי לסטות ממנו
+474|52:35|ה-אוה רמאים
+475|52:40|בהיסטוריה
+476|52:42|הדברים הכתובים בוודאי היו נכונים
+477|52:46|מוּעֳסָק
+478|52:49|עַצמוֹ
+479|52:50|וולינט
+480|52:52|אנשים רצו לשים עוד מקום תחת רצועה
+481|52:56|לֹא
+482|53:08|מהחלל, דגים טהורים
+483|53:13|המקום השני ידוע לבית הספר
+484|53:21|שימו לב היטב והתמקדו היטב בכל
+485|53:23|דברים
+486|53:26|אחר של
+487|53:29|אַחֵר
+488|53:40|אבוד ווארי
+489|53:45|צריך לתת לעצמו לאבד את עצמו
+490|54:15|מָקוֹם
+491|54:21|מָקוֹם
+492|54:23|בשלום
+493|54:26|ב-
+494|54:29|לא להכיר אחד את השני זה
+495|54:32|ב
+496|54:37|משקה יקר
+497|54:47|נעלם לעזאזל
+498|54:57|נעלם
+499|54:59|כְּלִי שַׁיִט שתה
+500|55:11|לִשְׁתוֹת
+501|55:13|אל תשכח את ל.
+502|55:26|האם מותר לשים לב לכולם? תהיה בטוח.
+503|55:30|למידה נלמדה.
+504|55:34|רַק
+505|55:37|הוא למד אבל אסור לו לשרוט.
+506|55:40|אל תלחץ
+507|55:43|אנשים לא באמת מכירים אחד את השני.
+508|55:50|היא לא יכולה כמו שצריך
+509|55:55|אבל בקרמלין השני
+510|55:56|אק סה
+511|55:59|לא לחצתי על s, מי יביא איזה k
+512|56:04|גדול יותר
+513|56:15|מקום ש
+514|56:19|לִפְתוֹחַ
+515|56:26|לְהָבִיא

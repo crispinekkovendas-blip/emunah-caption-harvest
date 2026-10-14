@@ -1,0 +1,87 @@
+{
+ "name": "lane10-001",
+ "lane": 10,
+ "created": "2026-10-14T13:53:10.504Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "rXtx8XPdu4M",
+   "title": "Ki Tavo: a jornada da alma segundo o Or HaChaim",
+   "lines": 1097,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "g7VHKKdyeCU",
+   "title": "Parashat VeZot HaBerachá: as bênçãos de Moshe às tribos",
+   "lines": 114,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "lpyBek5Xqw4",
+   "title": "Vayera e a guerra: a entrega da alma e seu poder",
+   "lines": 890,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "XkKnwEgp4rU",
+   "title": "Êxodo e os lados sombrios da alma, Parashá Bo",
+   "lines": 68,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5eJ6WYWczOc",
+   "title": "Parashá Balak: forças de luz contra forças de trevas",
+   "lines": 719,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "RUP3_2uk3aQ",
+   "title": "Parashat Shoftim: a briga traz as aflições",
+   "lines": 41,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_mMKPCOOrNA",
+   "title": "Aula diária em ídiche: Parashá Ki Tavo",
+   "lines": 516,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "oj6-2bfvs6s",
+   "title": "Peça mechilá antes de Rosh HaShaná",
+   "lines": 31,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tx4eFPNyd7M",
+   "title": "As artimanhas do yetzer hará para evitar a teshuvá",
+   "lines": 55,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "rXtx8XPdu4M.p0",
+  "rXtx8XPdu4M.p1",
+  "rXtx8XPdu4M.p2",
+  "g7VHKKdyeCU.p0",
+  "lpyBek5Xqw4.p0",
+  "lpyBek5Xqw4.p1",
+  "XkKnwEgp4rU.p0",
+  "5eJ6WYWczOc.p0",
+  "5eJ6WYWczOc.p1",
+  "RUP3_2uk3aQ.p0",
+  "_mMKPCOOrNA.p0",
+  "_mMKPCOOrNA.p1",
+  "oj6-2bfvs6s.p0",
+  "tx4eFPNyd7M.p0"
+ ]
+}
