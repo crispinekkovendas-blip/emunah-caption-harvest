@@ -1,0 +1,82 @@
+videoId: G-y1R4TSVHw
+parte 2 de 2 · traduzir as linhas 450 a 507 (58 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Os três estágios do pecado dos espiões
+RESUMO: O rabino analisa o pecado dos espiões (Parashá Shelach Lecha) e mostra, pelo simples sentido dos versículos, que ele tem três estágios. Com o Malbim, distingue "tur" (turista, que busca o bem da terra) de "ragel" (espião, que busca falhas), e diz que o pecado é os enviados terem virado espiões. No estágio um eles elogiam a terra (Bamidbar 13:27) mas duvidam da conquista, contra Calev; no estágio dois difamam a terra, "terra que devora seus habitantes" (13:32); no estágio três há rebelião contra HaShem (14:9, 14:11). Com o Rav Tzvi Yehuda Kook e o Maharal (Netzach Israel, a Mishná em Avot sobre quem anda sozinho à noite), explica que o cerne é negar a ordem divina que liga o povo de Israel à Terra de Israel, inseparáveis como cérebro e coração. Por isso o pecado foi mais grave que o do bezerro de ouro e não houve reconciliação: a geração morreu no deserto. A correção é fortalecer a certeza de que essa é a ordem da criação, e então a terra é boa e a conquista possível.
+MOMENTOS: 00:59 Foco no pecado dos espiões · 01:29 Malbim: "tur" (turista) contra "ragel" (espião) · 03:40 O pecado: os turistas viraram espiões · 04:00 Estágio 1: elogio da terra e dúvida militar · 06:19 Estágio 2: difamação da terra · 07:42 Estágio 3: rebelião contra HaShem · 08:56 Rav Tzvi Yehuda: o pecado é rejeitar o vínculo necessário · 09:58 Maharal: ordem divina da criação e sair da ordem · 12:44 Povo e Terra de Israel como uma unidade · 15:18 Parábola do médico: cérebro e coração · 21:07 Sem reconciliação, ao contrário do bezerro · 22:42 Parábola do muro com um tijolo faltando · 26:49 A correção do pecado dos espiões
+FONTES CITADAS: 01:17 Bamidbar 13:2 · 01:29 Malbim em Bamidbar 13 · 03:13 Malbim em Yehoshua 2 · 04:04 Bamidbar 13:27 · 04:53 Bamidbar 13:28 · 05:09 Bamidbar 13:30-31 · 06:27 Bamidbar 13:32 · 07:10 Bamidbar 14:7 · 07:34 Bamidbar 14:8 · 08:14 Bamidbar 14:9 · 08:17 Bamidbar 14:11 · 09:03 Rav Tzvi Yehuda Kook · 10:26 Mishná Avot 3:4 · 10:44 Maharal · 11:41 Maharal, Netzach Israel cap. 1 · 17:12 Devarim 32:9 · 17:21 Rav Tzvi Yehuda Kook · 19:30 Bamidbar 13:30 · 21:29 Shemot 32 · 21:42 Bamidbar 14:29-33 · 25:42 Bamidbar 14:33 · 26:52 Gaon de Vilna (Gra)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+438|23:26|חומה רק חסרה לבנה או נכון לומר אין חומה
+439|23:30|מה נכון
+440|23:31|לומר מה נכון לומר האויב יכול להיכנס דרך
+441|23:35|החלל הזה מה לא חצי על חצי חצי אתה נכנס
+442|23:39|אפילו אני
+443|23:40|נכנס
+444|23:42|נכנסים אז זה לא נכון להגיד יש חומה אבל
+445|23:45|אי אבל חסרה לבנה אין חומה אחי אין חומה
+446|23:49|איך אמר המשורר ככה לא בונים
+447|23:55|חומה אז זה לא נכון שיש חומר קן לונה אין
+448|23:59|חומה אז תוציא חס ושלום מצווה אחת אין
+449|24:03|תורה תוציא חס ושלום גרגיר אחד מהארץ
+
+LINHAS A TRADUZIR:
+450|24:07|יהודי אחד אין עם ישראל בארץ
+451|24:12|ישראל זה חטא המרגלים חוסר ההבנה דרך אגב
+452|24:16|אני לא רוצה שלהיות תקיף יותר חטא המרגלים
+453|24:19|עשרת המרגלים גדולי ישראל ראשי בני ישראל
+454|24:22|אמה כולם אנשים רשה בני ישראל אמה כלומר
+455|24:26|חוסר הבנת הסדר ההכרחי של הקשר בין עם
+456|24:29|ישראל לארצו יכול לפגוע גם באנשי
+457|24:32|קודש כי בגלות הסתדרנו בכאילו
+458|24:38|במחאות בלי ארץ ישראל היו ישיבות ומקוואות
+459|24:42|ותלמודי תורה ובתי כנסיות וגמרים ודף יומי
+460|24:47|מסביב לשעון והכל טוב כן עד שהופיע השועה
+461|24:50|כמובן ולא רק לכן אומר רב צודה לכן הארץ
+462|24:54|הזאת כת לנו בכל תוקף וכל לא אלפי האח
+463|24:59|אחוזים ולא פחות מזה רבותיי כאן היסוד
+464|25:02|העיקרי של חטא המרגלים חוסר בירור החשבון
+465|25:06|האלוהי המציאותי הקוסמולוגי של שייכות האם
+466|25:09|והארץ ממילא אפשר להבין מדוע הפגם הזה הוא
+467|25:11|יותר נורא ומרעיש ממעשה העגל וזעזוע ביסוד
+468|25:16|המציאות בעובדה האלוהית של שייכות העם
+469|25:19|לארץ וארץ לעם הנה עכשיו המשפט שאנחנו
+470|25:21|מחפשים זעזוע ביסוד סדר
+471|25:25|הבריאה זה סדר הבריאה
+472|25:29|התוצאה מזה הטרגדיה נורא שבמקום דרך קצרה
+473|25:32|של 11 יום מחורב לפי מה שלמנו שב שבע חת
+474|25:35|המתאוננים אז זה שלושה ימים אבל לפי מה
+475|25:36|שאנחנו וים עכשיו לפי השיטה הזאת 11 יום
+476|25:39|התחדשה גזירה של 40 שנה לפי השיטה הזאת 11
+477|25:42|יום 11 ימים הפכו ל 4 שנה בגלל מה בגלל
+478|25:47|הכפירה בסדר הבריאה בגלל המרידה
+479|25:50|בהשם הדור ההוא נפסק ונחתך באופן יסודי
+480|25:54|ופריכם אתם יפלו במדבר הזה הנקודה היסודית
+481|25:57|של רה אצל מוציאי דיבת הארץ זה לא המחלוקת
+482|26:01|הצבאית ואפילו לא דיבת הארץ אלא היייתה
+483|26:03|נקודת ההכרה והאמונה ב בחיוניות השלמה של
+484|26:08|העם וארץ ומ קמחי ישראל גוי אחד בארץ לכן
+485|26:13|דור זה נחתך לגמרי והדור השני יבוא אנה
+486|26:17|ואנחנו עכשיו רבותיי בבירור גדול זה בירור
+487|26:21|עמוק כנראה י ארוך מה נקודת היחס היסודית
+488|26:27|הבסיסית המק התמציתית שלנו
+489|26:30|לארץ אם הנקודה היא הנקודה האמיתית הנקודה
+490|26:33|האלוהית סדר אלוהי ממילא נאמר טוב הארץ
+491|26:36|מאוד מאוד וממילא נאמר ה הלא נעלה וירשנו
+492|26:39|אותה כי יכול נו חלה ואם חס ושלום לא הפוך
+493|26:43|זה לא סדר אלוהי אז יהיו חולשות גם ביחס
+494|26:46|עם ארץ טובה וגם ביחס עם אפשר לנצח במלחמה
+495|26:49|אז במה אנחנו צריכים להתחזק בעת הזו
+496|26:52|להתחזק בתיקון חטא המרגלים כמו שכותב הגרא
+497|26:55|שכנגד חטא המרגלים צריך לתקן את חטא
+498|26:57|המרגלים ייש הרבה הסברים לפי הסבר ש רב
+499|26:59|צודה יסוד תיקון חטא המרגלים חוסר ההכרה
+500|27:02|בכרכי הקשר האלוהי בין עם ישראל לארץ
+501|27:05|ישראל כפירה בסדר האלוהי של הבריאה לכן
+502|27:09|נתחזק בהכרה מוחלטת שזה הסדר האלוהי של
+503|27:12|הבריאה מ ישרל בארץ ישראל ממילא טובה הארץ
+504|27:16|מו מאוד ממילא הללא נעלה וירשנו אותה כי
+505|27:20|יכול נוכל במרה בימינו אמן חזקו וימצאו שר
+506|27:26|כוח אפשר דברים אני חושב חשובים בחצי שעה
+507|27:30|לא צריך בשביל זה כמו באוניברסיטה שיעור של שעה וחצי
