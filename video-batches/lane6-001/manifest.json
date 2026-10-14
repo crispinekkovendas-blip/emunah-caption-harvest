@@ -1,0 +1,243 @@
+{
+ "name": "lane6-001",
+ "lane": 6,
+ "created": "2026-10-14T13:53:12.547Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "bUvBIdXauGA",
+   "title": "Os dias após Pessach e a Gueulá: Chesed e Gevurá",
+   "lines": 1018,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "t6vlZxRW4PQ",
+   "title": "Retomar o controle da vida: a Brit Milá de Avraham",
+   "lines": 959,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2qGBCAFlWlU",
+   "title": "Parashá Shelach: de onde vem a motivação para lutar",
+   "lines": 943,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "NOP4b0FzA-k",
+   "title": "Da fuga do Egito à Redenção completa: Parashat Beshalach",
+   "lines": 858,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "99Cb-zk0bjs",
+   "title": "O pecado da Árvore do Conhecimento e o truque do mau impulso",
+   "lines": 1191,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "DKnom1QUTOQ",
+   "title": "Shofetim: guardas nos portões do corpo",
+   "lines": 705,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "MewNz4F9UU8",
+   "title": "O sal da mulher de Ló: olhar o erro sem ficar preso",
+   "lines": 842,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "zdvWckvcTIA",
+   "title": "Parashá Shelach: a força do tsadik e a terra de Israel",
+   "lines": 1005,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "k47duXBdV98",
+   "title": "Or HaChaim: aceitar os Sábios e a Meguilat Ester",
+   "lines": 971,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2lHCs7CWjK0",
+   "title": "Parashat Emor, Pesach Sheni e Rabi Meir Baal HaNes",
+   "lines": 1037,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "62QDI6n-xA0",
+   "title": "Mishpat, Chesbon Nefesh e o mês de Elul",
+   "lines": 611,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "dpSFe4CwqPo",
+   "title": "Vayakhel: as tábuas quebradas e o Shabat que ficou",
+   "lines": 685,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "0bw170Q-eYw",
+   "title": "Pecado da Árvore do Conhecimento e como corrigi-lo",
+   "lines": 924,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "h0VYkZIpfNQ",
+   "title": "Shlach: o espião, o fruto e a vontade de querer a Terra",
+   "lines": 795,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "7x6ODHIQA18",
+   "title": "Os três passos da sabedoria: Mishlei 14:15-16",
+   "lines": 1116,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "TamVQTHD8FU",
+   "title": "Parashat Bereshit encenada: \"se eu estivesse lá",
+   "lines": 143,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "fXwHzXJxY60",
+   "title": "Leitura de Vayigash, toda a parashá, rito marroquino",
+   "lines": 268,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wh4fzuNY1oY",
+   "title": "Vayigash: por que Yaakov só acreditou que Yosef \"vive",
+   "lines": 569,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "x0FdTnPdbh0",
+   "title": "Parashat Miketz: Yosef, Paro e os sonhos",
+   "lines": 104,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ddnkUuNOqk4",
+   "title": "Ki Tisá: o bezerro de ouro e as 13 Middot",
+   "lines": 464,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "CCCvM_bQDSc",
+   "title": "Investir com sabedoria: Mishlei e a bênção do dinheiro",
+   "lines": 954,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "KQQ24evZ8oE",
+   "title": "A força do pensamento e da oração antes de Rosh Chodesh Elul",
+   "lines": 912,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qTTov0btNaE",
+   "title": "Ouvir a voz de HaShem na alma: Lech Lechá",
+   "lines": 655,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xaUcs4KHQr4",
+   "title": "O segredo das almas e o trabalho dos Patriarcas",
+   "lines": 1066,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "0I1xFQCx7jo",
+   "title": "Parashá Yitro: o relato com ilustração em IA",
+   "lines": 95,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "bUvBIdXauGA.p0",
+  "bUvBIdXauGA.p1",
+  "bUvBIdXauGA.p2",
+  "t6vlZxRW4PQ.p0",
+  "t6vlZxRW4PQ.p1",
+  "t6vlZxRW4PQ.p2",
+  "2qGBCAFlWlU.p0",
+  "2qGBCAFlWlU.p1",
+  "2qGBCAFlWlU.p2",
+  "NOP4b0FzA-k.p0",
+  "NOP4b0FzA-k.p1",
+  "99Cb-zk0bjs.p0",
+  "99Cb-zk0bjs.p1",
+  "99Cb-zk0bjs.p2",
+  "DKnom1QUTOQ.p0",
+  "DKnom1QUTOQ.p1",
+  "MewNz4F9UU8.p0",
+  "MewNz4F9UU8.p1",
+  "zdvWckvcTIA.p0",
+  "zdvWckvcTIA.p1",
+  "zdvWckvcTIA.p2",
+  "k47duXBdV98.p0",
+  "k47duXBdV98.p1",
+  "k47duXBdV98.p2",
+  "2lHCs7CWjK0.p0",
+  "2lHCs7CWjK0.p1",
+  "2lHCs7CWjK0.p2",
+  "62QDI6n-xA0.p0",
+  "62QDI6n-xA0.p1",
+  "dpSFe4CwqPo.p0",
+  "dpSFe4CwqPo.p1",
+  "0bw170Q-eYw.p0",
+  "0bw170Q-eYw.p1",
+  "0bw170Q-eYw.p2",
+  "h0VYkZIpfNQ.p0",
+  "h0VYkZIpfNQ.p1",
+  "7x6ODHIQA18.p0",
+  "7x6ODHIQA18.p1",
+  "7x6ODHIQA18.p2",
+  "TamVQTHD8FU.p0",
+  "fXwHzXJxY60.p0",
+  "wh4fzuNY1oY.p0",
+  "wh4fzuNY1oY.p1",
+  "x0FdTnPdbh0.p0",
+  "ddnkUuNOqk4.p0",
+  "ddnkUuNOqk4.p1",
+  "CCCvM_bQDSc.p0",
+  "CCCvM_bQDSc.p1",
+  "CCCvM_bQDSc.p2",
+  "KQQ24evZ8oE.p0",
+  "KQQ24evZ8oE.p1",
+  "KQQ24evZ8oE.p2",
+  "qTTov0btNaE.p0",
+  "qTTov0btNaE.p1",
+  "xaUcs4KHQr4.p0",
+  "xaUcs4KHQr4.p1",
+  "xaUcs4KHQr4.p2",
+  "0I1xFQCx7jo.p0"
+ ]
+}

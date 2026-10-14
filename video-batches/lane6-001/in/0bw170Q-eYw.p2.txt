@@ -1,0 +1,48 @@
+videoId: 0bw170Q-eYw
+parte 3 de 3 · traduzir as linhas 900 a 923 (24 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Pecado da Árvore do Conhecimento e como corrigi-lo
+RESUMO: O rabino começa pelo primeiro assassinato, Caim e Hevel, e pelo Midrash (Yalkut Shimoni) em que HaShem envia um corvo para enterrar o morto e mostrar a Adam e Chavá que o amor é mais forte que o ódio, ligando isso aos dias de guerra atuais. Em seguida apresenta as duas grandes perguntas dos comentaristas sobre o pecado da Árvore do Conhecimento: que mal havia em receber conhecimento (a pergunta do Moré Nevuchim do Rambam) e por que surgiu a vergonha da nudez. Cita o Midrash Bereshit Rabá 19:12, em que Adam diz "ve'ochal" (e comerei) no futuro, sinal de que já se sentiam escravos do impulso. Explica, com o Tanya do Admor HaZaken, que "da'at" significa ligação: a voz externa do impulso mau tornou-se a voz interna, e a vergonha nasce da distância entre o eu ideal e o eu real. O Rambam explica o mesmo em termos filosóficos (verdadeiro e falso passaram a ser bom e mau), e o Rebe, em Likutei Sichot, liga a vergonha ao desejo. A correção é viver com controle interno, perguntando "quem fala em mim?", como mostram o relato de John Nash e o de Rabi Nachum de Chernobyl, e o exemplo supremo é Yosef HaTsadik diante da mulher de Potifar, que viu a imagem do pai.
+MOMENTOS: 01:34 Midrash do corvo que enterra o corpo de Hevel · 04:00 O amor é mais forte que o ódio · 06:59 Uma vogal na Torá que revela o pecado · 07:53 Bereshit Rabá: ve'ochal, o pecado futuro · 08:44 As duas perguntas sobre a Árvore do Conhecimento · 11:34 Da'at: a voz externa vira interna · 13:13 John Nash: a história da esquizofrenia · 16:46 A proibição e a inveja do Nachash · 20:16 A pergunta do Moré Nevuchim e a resposta · 25:30 Da'at significa ligação (Tanya) · 31:18 A origem da vergonha e das roupas · 36:11 Rabi Nachum de Chernobyl e a autoanálise · 39:15 O Rambam: verdadeiro e falso viram bom e mau · 42:26 Yosef HaTsadik corrige o pecado de Adam
+FONTES CITADAS: 01:34 Yalkut Shimoni, Bereshit (Hevel) · 02:06 Bereshit 3:19 · 06:34 Dito de Rabi Shimon bar Yochai (sobre Har Sinai) · 07:27 Bereshit 3:12 · 07:43 Bereshit 3:13 · 07:53 Bereshit Rabá 19:12 · 08:44 Bereshit 2:17 · 09:17 Bereshit 2:15 · 10:03 Bereshit 2:25 · 16:31 Bereshit 2:16-17 · 17:09 Bereshit 2:25 e 3:7 · 17:27 Bereshit 3:1 · 17:55 Bereshit 3:3 · 18:11 Bereshit 3:5 · 19:09 Bereshit 3:6 · 20:19 Rambam, Moré Nevuchim 1:2 · 21:22 Bereshit 2:19-20 · 22:42 Gaon de Vilna (sobre Bereshit 2:15) · 25:38 Bereshit 4:1 · 29:02 Tanya, cap. 3 (Admor HaZaken) · 33:18 Ensinamento dos livros (bêged e me'il) · 39:08 Rambam, Moré Nevuchim 1:2 · 40:50 Admor HaZaken, Torá Or · 41:18 Likutei Sichot, vol. 3 (o Rebe) · 42:44 Bereshit 39 · 43:04 Rashi em Bereshit 39:11, citando Sotá 36b · 44:39 Bereshit 39:11 · 45:25 Bereshit 37:2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+888|45:17|אבא שלו הכי הרבה פעמים
+889|45:20|יש רעיון עצום רעיון שאין אמיתי ממנו
+890|45:25|יוסף היה דומה בפנים לאבא שלו אלה תולדות
+891|45:28|יעקב יוסף שהיה זיב עיקונין שלו דומה
+892|45:31|לאביו
+893|45:32|כשהוא רואה את דיוקנו של אבא הוא פתאום
+894|45:35|רואה את עצמו והוא יודע מה הוא רוצה
+895|45:39|ומה היא רוצה? הוא פתאום קולט שהיא קל
+896|45:44|חיצוני, שהיא לא האני הפנימי שלו. הוא
+897|45:47|מצליח ליצור את ההבחנה ואת ההבדלה בינו
+898|45:50|לבינה. קודם היא דיברה בכזה היגיון, בכזה
+899|45:54|מתק שפתיים, בכזה פיטוי, בכזה שכנוע, שזה
+
+LINHAS A TRADUZIR:
+900|45:58|כבר נכנס לתוכו, שזה כבר היה ההיגיון שלו
+901|46:00|והוא התחיל לחשוב שהיא צודקת, הוא כבר
+902|46:02|התחיל לשמוע את עצמו בתוך השטויות האלה.
+903|46:06|ואז פתאום נוצר רגע אחד שאי אפשר לטעות
+904|46:08|בו. הוא פתאום ראה את אבא ואבא דומה לו.
+905|46:11|הוא ראה את החלון הזה היה מראה. הוא פתאום
+906|46:14|ראה את עצמו בדרך חדשה, בדרך אמיתית
+907|46:18|והוא ידע שהיא לא שייכת לפה, שהיא
+908|46:21|טרמפיסטית, שהיא השטן היא הסתר אחראה
+909|46:25|שהתלבשה עליו והוא כבר ידע מה הוא צריך
+910|46:27|לעשות. וזאת כל מלאכת החיים. לברר את
+911|46:31|הדעת, לברור את הדעת, לבחון את הדעת,
+912|46:34|לחקור את הדעת ולדעת לזהות האם זאת רק
+913|46:37|חרדה, האם זה רק בלבול, האם זה סתם כעס,
+914|46:41|האם זה סתם אגו? האם זו סתם תאווה גדולה?
+915|46:45|ואם כן, אז לסמן אותה ולהעיף אותה, לא
+916|46:48|לעשות טעויות.
+917|46:50|זה השער שדרכו האדם נפל וזה השער שדרכו
+918|46:53|כולנו נעלה. לחיות עם בקרה פנימית, עם
+919|46:57|בחינה פנימית. בשביל זה צריכים הסלך הרב.
+920|46:59|בשביל זה צריכים ידיד שמתייעצים איתו.
+921|47:01|מישהו חיצוני שיכול לברור מה הכל החיצוני
+922|47:04|ומה הכל הפנימי. ככה התחילה הירידה וככה
+923|47:08|גם תתחיל העלייה. ‏y
