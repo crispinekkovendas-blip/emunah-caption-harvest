@@ -14,19 +14,19 @@ name: Translate a video batch (Claude)
 # subscription). When the plan's usage limit stops agents, the batch keeps what finished and the
 # 2-hourly schedule resumes it once the limit has reset.
 #
-# LANES (2026-10-11, the owner: 5 batches at the same time, no parallel agents inside a batch):
-# five lanes run side by side, each its own batch and its own chain; inside a lane the agents run one
+# LANES (2026-10-11, the owner: 5 batches at the same time; 10 since 2026-10-14, no parallel agents inside a batch):
+# ten lanes run side by side, each its own batch and its own chain; inside a lane the agents run one
 # after another. Each lane owns a fixed share of the lessons (hash of the id), so lanes never collide. The
-# schedule wakes all five lanes; a lane already running just goes on.
+# schedule (hourly) wakes all ten lanes; a lane already running just goes on.
 
 on:
   workflow_dispatch:
     inputs:
       lane:
-        description: 'Lane 1-5 (empty = start all five lanes)'
+        description: 'Lane 1-10 (empty = start all ten lanes)'
         default: ''
   schedule:
-    - cron: '41 */2 * * *'
+    - cron: '41 * * * *'
 
 concurrency:
   group: video-batches-lane-${{ inputs.lane || 'kick' }}
@@ -41,11 +41,11 @@ jobs:
     if: inputs.lane == ''
     runs-on: ubuntu-latest
     steps:
-      - name: Wake the five lanes
+      - name: Wake the ten lanes
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          for lane in 1 2 3 4 5; do
+          for lane in 1 2 3 4 5 6 7 8 9 10; do
             gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=$lane
           done
 

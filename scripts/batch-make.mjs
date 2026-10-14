@@ -64,7 +64,7 @@ const pending = (name) => {
 }
 
 fs.mkdirSync(DIR, { recursive: true })
-const batches = fs.readdirSync(DIR).filter((d) => /^(batch-\d{3}|lane\d-\d{3})$/.test(d)).sort()
+const batches = fs.readdirSync(DIR).filter((d) => /^(batch-\d{3}|lane\d+-\d{3})$/.test(d)).sort()
 
 // 1. an unfinished batch is resumed
 for (const b of batches) {
@@ -102,7 +102,7 @@ const richest = Object.entries(study)
   .map(([id]) => id)
 // each lane owns a fixed share of the lessons (a hash of the id), so lanes that build batches at the
 // same moment can never take the same lesson
-const LANES = 5
+const LANES = 10
 const laneOf = (id) => [...id].reduce((h, ch) => (h * 31 + ch.charCodeAt(0)) >>> 0, 7) % LANES
 const order = [...new Set([...week, ...richest])].filter((id) => study[id] && !taken.has(id) && laneOf(id) === LANE - 1)
 
