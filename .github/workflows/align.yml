@@ -1,0 +1,56 @@
+name: Align subtitles to the audio (Meta MMS)
+
+# 2026-10-14 (the owner: some lessons' subtitles run 4–5 lines ahead of the voice). Retimes the Hebrew
+# lines of each lesson against its audio with torchaudio's MMS_FA forced aligner, on the CPU runner.
+# Words never change, so the pt/en translations stay valid. See scripts/align.py.
+#
+#   gh workflow run align.yml -f ids=nEeDpt7qtTI -f publish=false
+
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: 'Video ids, comma separated'
+        required: true
+      publish:
+        description: 'Write the new times to Supabase (old ones kept in cuesOrig)'
+        default: 'false'
+
+permissions:
+  contents: read
+
+jobs:
+  align:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+      - name: Cache the model and the wheels
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/torch
+            ~/.cache/pip
+          key: mms-fa-torch251-v1
+      - name: Install (CPU torch)
+        run: |
+          python -m pip install --quiet torch==2.5.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install --quiet numpy soundfile uroman
+          python -m pip install --quiet --upgrade yt-dlp
+      - name: Align
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python -u scripts/align.py --ids "${{ inputs.ids }}" ${{ inputs.publish == 'true' && '--publish' || '' }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: align-report
+          path: out/align/
+          if-no-files-found: ignore
