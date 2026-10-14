@@ -1,11 +1,11 @@
 # lane5-012
 
-10 of 11 lessons published · 0 skipped · status **pending**
-Tokens (23 agent runs with a record): 0.3M in (mostly cache) · 0.59M out · API-equivalent 6.94
+11 of 11 lessons published · 0 skipped · status **done**
+Tokens (26 agent runs with a record): 0.3M in (mostly cache) · 0.70M out · API-equivalent 8.25
 
 | lesson | state | detail |
 |---|---|---|
-| _AYHZacTlwY | ✗ will be redone (try 1) | line 897 twice |
+| _AYHZacTlwY | ✓ published | 1117 lines · Ki Tavô: Bikurim, Amalek e as 98 maldições |
 | JFm0Cj5lQhE | ✓ published | 1530 lines · O valor interno do judeu: Bikurim e Ki Tavô |
 | 1IfMaPHnP30 | ✓ published | 994 lines · Nitzavim e Vayelech: Rosh HaShaná e a responsabilidade mútua |
 | qO-b0vKMjAE | ✓ published | 641 lines · Haazinu: Céu e Terra, Alma e Corpo, antes de Yom Kipur |
