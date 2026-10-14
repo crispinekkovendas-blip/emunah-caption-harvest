@@ -2,7 +2,7 @@
  "name": "lane4-007",
  "lane": 4,
  "created": "2026-10-14T01:42:30.747Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "VcPqNy68rp4",
@@ -231,7 +231,7 @@
   "VcPqNy68rp4": 1,
   "gt6Acs68jCI": 2,
   "wqfhGdtaIQ0": 1,
-  "XtfrxjcIaFY": 2,
+  "XtfrxjcIaFY": 3,
   "CXusi_nDUF0": 1
  },
  "done": [
@@ -260,5 +260,7 @@
   "CXusi_nDUF0",
   "gt6Acs68jCI"
  ],
- "skipped": []
+ "skipped": [
+  "XtfrxjcIaFY"
+ ]
 }

@@ -1,7 +1,7 @@
 # lane4-007
 
-24 of 25 lessons published · 0 skipped · status **pending**
-Tokens (63 agent runs with a record): 0.8M in (mostly cache) · 1.58M out · API-equivalent 18.33
+24 of 25 lessons published · 1 skipped · status **done**
+Tokens (66 agent runs with a record): 0.8M in (mostly cache) · 1.65M out · API-equivalent 19.10
 
 | lesson | state | detail |
 |---|---|---|
@@ -11,7 +11,7 @@ Tokens (63 agent runs with a record): 0.8M in (mostly cache) · 1.58M out · API
 | 00mW8-Owf5w | ✓ published | 322 lines · A fuga misteriosa de Yitro e o serviço por amor |
 | 0aC0KX-wqQU | ✓ published | 800 lines · O Teste de Fé: Escolhendo a Verdade em Tempos de Confusão |
 | fXNeV0626Wk | ✓ published | 101 lines · Parashá Shemot: de Moshé menino à sarça ardente |
-| XtfrxjcIaFY | ✗ will be redone (try 2) | line 450 twice |
+| XtfrxjcIaFY | skipped after 3 tries | line 0 twice |
 | 9HN7IuolnVs | ✓ published | 796 lines · Você também pode abrir o mar: Keriat Yam Suf por dentro |
 | 8AB2rMK32AU | ✓ published | 552 lines · Parashat Emor: por que a impureza prejudica o serviço do Cohen |
 | eu0sRKEJW5w | ✓ published | 193 lines · Miriam e Aharon falam de Moshe: a profecia de Moshe |
