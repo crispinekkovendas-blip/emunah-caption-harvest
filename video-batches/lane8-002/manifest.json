@@ -221,5 +221,34 @@
   "Qy9fFvnoDsU.p2",
   "Rhmdax5gXL0.p0",
   "VmkEXv9kIEI.p0"
- ]
+ ],
+ "tries": {
+  "s2nPtwSd-UQ": 1,
+  "m-wedGkrzmI": 1,
+  "Ia_QIk-dUWk": 1,
+  "yaoqTxUFBlU": 1,
+  "I1NcDOB6yTM": 1,
+  "Qy9fFvnoDsU": 1
+ },
+ "done": [
+  "ZWIvYKh98O4",
+  "9IFIuJIUfOY",
+  "q44xDTXasHE",
+  "XVx9nQb3Wt0",
+  "6rdwTB0AeY0",
+  "R2HeKNttWHE",
+  "O-5DaBufp8E",
+  "zMEmgWlilug",
+  "lrRsBPvAZAc",
+  "Cml_Pnunt7s",
+  "kSpz1BhW-LA",
+  "ggdc0s8Fqro",
+  "iwpWYQEgPvM",
+  "WqNLInpsXec",
+  "U22BU4Lt0d0",
+  "c67uVSVsJXo",
+  "Rhmdax5gXL0",
+  "VmkEXv9kIEI"
+ ],
+ "skipped": []
 }
