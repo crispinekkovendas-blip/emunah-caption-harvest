@@ -1,0 +1,223 @@
+{
+ "name": "lane4-009",
+ "lane": 4,
+ "created": "2026-10-14T11:12:58.149Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "GRsv1KWNhNc",
+   "title": "Ben Ish Chai: nós, amarrar e desamarrar no Shabat",
+   "lines": 440,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "jhzym5FBZ1c",
+   "title": "Tazria e Metzora: impureza, tsaraat e lashon hará",
+   "lines": 111,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "82HwW1Q0Yck",
+   "title": "Haftará de Shelach Lecha: Rachav e os espiões em Yericho",
+   "lines": 82,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tFj0O4WSADI",
+   "title": "Ben Ish Chai: construir e demolir utensílios em Shabat",
+   "lines": 466,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "AXCxCMFJAgI",
+   "title": "O segredo de Beha'alotcha: redenção com misericórdia",
+   "lines": 810,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "LnoSoRaVgCw",
+   "title": "Parashat Korach: como não deixar o ego nos dominar",
+   "lines": 410,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "bto2LmwqwPM",
+   "title": "Quando ninguém aplaude: quem é você de verdade?",
+   "lines": 641,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Lu_548l4eGY",
+   "title": "Parashá Emor: o guia da Parashá para gerir o tempo",
+   "lines": 443,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "iZ_ZKJGZ5LA",
+   "title": "Bitachon e a Parashá Bamidbar: o Sium da Hishtadlut",
+   "lines": 740,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4IL-Zp46Y2w",
+   "title": "O pão da proposição e o maná: a proximidade de HaShem",
+   "lines": 221,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "040hGmQmJnk",
+   "title": "Parashá Vayikra: os korbanot e a aproximação de HaShem",
+   "lines": 106,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "uupkb8uxlOg",
+   "title": "A falha dos pais bons e amorosos: os filhos como espelho",
+   "lines": 561,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "uk2pRLA4rc0",
+   "title": "Tumá e pureza: a Vaca Vermelha e a mikvê",
+   "lines": 165,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Tw-HCaSThHI",
+   "title": "Parashá Ki Teitzei: a Torá que não deixa ignorar",
+   "lines": 432,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Nc2eeif3e0I",
+   "title": "Emunah, Amalek e Purim na Parashá Beshalach",
+   "lines": 737,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Jr4VU73KV_Y",
+   "title": "Yom Kipur: a santidade que volta para casa",
+   "lines": 371,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3SEkjG07no8",
+   "title": "Gueulá e Galut: a Redenção nasce do exílio",
+   "lines": 602,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "e6-LjjMxZag",
+   "title": "A bênção da subsistência no Zera Shimshon",
+   "lines": 184,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "GEf6FaEvGtU",
+   "title": "Birkát HaMazon: A Benção Após as Refeições",
+   "lines": 54,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "KO_zvFFaYZA",
+   "title": "Os quatro filhos de Reuven: como educar",
+   "lines": 628,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2Zk7oS2NHP4",
+   "title": "As Lições da Parashá Vayigash",
+   "lines": 1862,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "sK95rWXw2NA",
+   "title": "Parashá Devarim: recontar a história e Shabat Chazon",
+   "lines": 389,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "T9vmSe5eGUA",
+   "title": "Ki Tetsê: guerra facultativa, servo e a alma pré-criação",
+   "lines": 521,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "S9AF4mn4CAk",
+   "title": "Bênção após as refeições: Birkat HaMazon",
+   "lines": 75,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "iNtCAwQ1eK0",
+   "title": "Corpo, alma e a serpente: o sentido da morte",
+   "lines": 399,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "GRsv1KWNhNc.p0",
+  "jhzym5FBZ1c.p0",
+  "82HwW1Q0Yck.p0",
+  "tFj0O4WSADI.p0",
+  "tFj0O4WSADI.p1",
+  "AXCxCMFJAgI.p0",
+  "AXCxCMFJAgI.p1",
+  "LnoSoRaVgCw.p0",
+  "bto2LmwqwPM.p0",
+  "bto2LmwqwPM.p1",
+  "Lu_548l4eGY.p0",
+  "iZ_ZKJGZ5LA.p0",
+  "iZ_ZKJGZ5LA.p1",
+  "4IL-Zp46Y2w.p0",
+  "040hGmQmJnk.p0",
+  "uupkb8uxlOg.p0",
+  "uupkb8uxlOg.p1",
+  "uk2pRLA4rc0.p0",
+  "Tw-HCaSThHI.p0",
+  "Nc2eeif3e0I.p0",
+  "Nc2eeif3e0I.p1",
+  "Jr4VU73KV_Y.p0",
+  "3SEkjG07no8.p0",
+  "3SEkjG07no8.p1",
+  "e6-LjjMxZag.p0",
+  "GEf6FaEvGtU.p0",
+  "KO_zvFFaYZA.p0",
+  "KO_zvFFaYZA.p1",
+  "2Zk7oS2NHP4.p0",
+  "2Zk7oS2NHP4.p1",
+  "2Zk7oS2NHP4.p2",
+  "2Zk7oS2NHP4.p3",
+  "2Zk7oS2NHP4.p4",
+  "sK95rWXw2NA.p0",
+  "T9vmSe5eGUA.p0",
+  "T9vmSe5eGUA.p1",
+  "S9AF4mn4CAk.p0",
+  "iNtCAwQ1eK0.p0"
+ ]
+}

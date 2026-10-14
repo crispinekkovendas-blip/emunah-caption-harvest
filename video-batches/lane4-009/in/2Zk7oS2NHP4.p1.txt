@@ -1,0 +1,474 @@
+videoId: 2Zk7oS2NHP4
+parte 2 de 5 · traduzir as linhas 450 a 899 (450 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: As Lições da Parashá Vayigash
+RESUMO: A aula de Torá de hoje é baseada na Parashá Vayigash, que é rica em lições importantes sobre o que as pessoas esperam de você. A Parashá começa com Yehudá suplicando a Yosef para não prender Binyamin, o que leva à revelação de Yosef aos irmãos. Yaacov, a princípio, não acredita que Yosef esteja vivo, mas as carroças enviadas por Yosef o convencem a descer ao Egito, onde ele se reencontra com seu filho e se apresenta ao Faraó, declarando ter 130 anos de dias poucos e ruins. A Parashá termina com a descrição da administração de Yosef sobre a fome no Egito, salvando tanto o povo egípcio quanto sua própria família. A Torá nos ensina a viver com HaShem, com o próximo, conosco mesmos e com o mundo, abrangendo todos os aspectos da existência, desde o tempo e o espaço até o sagrado e o profano, o bem e o mal, a luz e a escuridão, a alegria e a tristeza, a esperança e o desespero, a fé e a dúvida, o amor e o ódio, a paz e a guerra, a vida e a morte, e a ressurreição e a eternidade.
+MOMENTOS: 00:05 Parashá de Vayigash e o tema da aula · 01:27 Yaacov desce ao Egito e reencontra Yosef · 01:45 Faraó pergunta a idade de Yaacov · 02:05 Fim da Parashá: administração da fome por Yosef · 02:44 Tema da aula: O que as pessoas esperam de você? · 05:09 Tema da aula: O que as pessoas esperam de você? · 1:15:48 O significado do azeite puro na Torá · 1:16:24 Por que o azeite de oliva é usado na Torá · 1:17:47 O simbolismo do azeite esmagado para o povo de Israel · 1:18:15 O significado da chama eterna · 1:41:04 A história de Yaacov e a pedra em Haran · 2:06:33 A conexão com HaShem através da Torá · 2:56:52 A importância do estudo da Torá dia e noite
+FONTES CITADAS: 00:08 Parashá de Vayigash · 01:52 Bereshit 47:9 · 1:15:48 Shemot 27:20 · 1:16:24 Mefarshim · 1:17:11 Devarim 7:6 · 1:17:37 Mefarshim · 1:18:15 Shemot 27:20 · 1:18:29 Mefarshim · 1:18:59 Parashat Tetzaveh, Shemot 27:20 · 1:41:07 Parashat Vayetzei, Bereshit 28:11-12 · 1:41:34 Bereshit 28:16 · 1:41:37 Bereshit 28:18-19 · 2:56:52 Devarim 6:4-9, Devarim 11:13-21 · 2:57:24 Yehoshua 1:8
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+438|30:31|E ela nos ensina a viver com a morte.
+439|30:34|E ela nos ensina a viver com a ressurreição.
+440|30:37|E ela nos ensina a viver com a eternidade.
+441|30:40|E ela nos ensina a viver com o infinito.
+442|30:43|E ela nos ensina a viver com o absoluto.
+443|30:46|E ela nos ensina a viver com o transcendente.
+444|30:49|E ela nos ensina a viver com o imanente.
+445|30:52|E ela nos ensina a viver com o sagrado.
+446|30:55|E ela nos ensina a viver com o profano.
+447|30:58|E ela nos ensina a viver com o bem.
+448|31:01|E ela nos ensina a viver com o mal.
+449|31:04|E ela nos ensina a viver com a luz.
+
+LINHAS A TRADUZIR:
+450|31:07|E ela nos ensina a viver com a escuridão.
+451|31:10|E ela nos ensina a viver com a alegria.
+452|31:13|E ela nos ensina a viver com a tristeza.
+453|31:16|E ela nos ensina a viver com a esperança.
+454|31:19|E ela nos ensina a viver com o desespero.
+455|31:22|E ela nos ensina a viver com a fé.
+456|31:25|E ela nos ensina a viver com a dúvida.
+457|31:28|E ela nos ensina a viver com o amor.
+458|31:31|E ela nos ensina a viver com o ódio.
+459|31:34|E ela nos ensina a viver com a paz.
+460|31:37|E ela nos ensina a viver com a guerra.
+461|31:40|E ela nos ensina a viver com a vida.
+462|31:43|E ela nos ensina a viver com a morte.
+463|31:46|E ela nos ensina a viver com a ressurreição.
+464|31:49|E ela nos ensina a viver com a eternidade.
+465|31:52|E ela nos ensina a viver com o infinito.
+466|31:55|E ela nos ensina a viver com o absoluto.
+467|31:58|E ela nos ensina a viver com o transcendente.
+468|32:01|E ela nos ensina a viver com o imanente.
+469|32:04|E ela nos ensina a viver com o sagrado.
+470|32:07|E ela nos ensina a viver com o profano.
+471|32:10|E ela nos ensina a viver com o bem.
+472|32:13|E ela nos ensina a viver com o mal.
+473|32:16|E ela nos ensina a viver com a luz.
+474|32:19|E ela nos ensina a viver com a escuridão.
+475|32:22|E ela nos ensina a viver com a alegria.
+476|32:25|E ela nos ensina a viver com a tristeza.
+477|32:28|E ela nos ensina a viver com a esperança.
+478|32:31|E ela nos ensina a viver com o desespero.
+479|32:34|E ela nos ensina a viver com a fé.
+480|32:37|E ela nos ensina a viver com a dúvida.
+481|32:40|E ela nos ensina a viver com o amor.
+482|32:43|E ela nos ensina a viver com o ódio.
+483|32:46|E ela nos ensina a viver com a paz.
+484|32:49|E ela nos ensina a viver com a guerra.
+485|32:52|E ela nos ensina a viver com a vida.
+486|32:55|E ela nos ensina a viver com a morte.
+487|32:58|E ela nos ensina a viver com a ressurreição.
+488|33:01|E ela nos ensina a viver com a eternidade.
+489|33:04|E ela nos ensina a viver com o infinito.
+490|33:07|E ela nos ensina a viver com o absoluto.
+491|33:10|E ela nos ensina a viver com o transcendente.
+492|33:13|E ela nos ensina a viver com o imanente.
+493|33:16|E ela nos ensina a viver com o sagrado.
+494|33:19|E ela nos ensina a viver com o profano.
+495|33:22|E ela nos ensina a viver com o bem.
+496|33:25|E ela nos ensina a viver com o mal.
+497|33:28|E ela nos ensina a viver com a luz.
+498|33:31|E ela nos ensina a viver com a escuridão.
+499|33:34|E ela nos ensina a viver com a alegria.
+500|33:37|E ela nos ensina a viver com a tristeza.
+501|33:40|E ela nos ensina a viver com a esperança.
+502|33:43|E ela nos ensina a viver com o desespero.
+503|33:46|E ela nos ensina a viver com a fé.
+504|33:49|E ela nos ensina a viver com a dúvida.
+505|33:52|E ela nos ensina a viver com o amor.
+506|33:55|E ela nos ensina a viver com o ódio.
+507|33:58|E ela nos ensina a viver com a paz.
+508|34:01|E ela nos ensina a viver com a guerra.
+509|34:04|E ela nos ensina a viver com a vida.
+510|34:07|E ela nos ensina a viver com a morte.
+511|34:10|E ela nos ensina a viver com a ressurreição.
+512|34:13|E ela nos ensina a viver com a eternidade.
+513|34:16|E ela nos ensina a viver com o infinito.
+514|34:19|E ela nos ensina a viver com o absoluto.
+515|34:22|E ela nos ensina a viver com o transcendente.
+516|34:25|E ela nos ensina a viver com o imanente.
+517|34:28|E ela nos ensina a viver com o sagrado.
+518|34:31|E ela nos ensina a viver com o profano.
+519|34:34|E ela nos ensina a viver com o bem.
+520|34:37|E ela nos ensina a viver com o mal.
+521|34:40|E ela nos ensina a viver com a luz.
+522|34:43|E ela nos ensina a viver com a escuridão.
+523|34:46|E ela nos ensina a viver com a alegria.
+524|34:49|E ela nos ensina a viver com a tristeza.
+525|34:52|E ela nos ensina a viver com a esperança.
+526|34:55|E ela nos ensina a viver com o desespero.
+527|34:58|E ela nos ensina a viver com a fé.
+528|35:01|E ela nos ensina a viver com a dúvida.
+529|35:04|E ela nos ensina a viver com o amor.
+530|35:07|E ela nos ensina a viver com o ódio.
+531|35:10|E ela nos ensina a viver com a paz.
+532|35:13|E ela nos ensina a viver com a guerra.
+533|35:16|E ela nos ensina a viver com a vida.
+534|35:19|E ela nos ensina a viver com a morte.
+535|35:22|E ela nos ensina a viver com a ressurreição.
+536|35:25|E ela nos ensina a viver com a eternidade.
+537|35:28|E ela nos ensina a viver com o infinito.
+538|35:31|E ela nos ensina a viver com o absoluto.
+539|35:34|E ela nos ensina a viver com o transcendente.
+540|35:37|E ela nos ensina a viver com o imanente.
+541|35:40|E ela nos ensina a viver com o sagrado.
+542|35:43|E ela nos ensina a viver com o profano.
+543|35:46|E ela nos ensina a viver com o bem.
+544|35:49|E ela nos ensina a viver com o mal.
+545|35:52|E ela nos ensina a viver com a luz.
+546|35:55|E ela nos ensina a viver com a escuridão.
+547|35:58|E ela nos ensina a viver com a alegria.
+548|36:01|E ela nos ensina a viver com a tristeza.
+549|36:04|E ela nos ensina a viver com a esperança.
+550|36:07|E ela nos ensina a viver com o desespero.
+551|36:10|E ela nos ensina a viver com a fé.
+552|36:13|E ela nos ensina a viver com a dúvida.
+553|36:16|E ela nos ensina a viver com o amor.
+554|36:19|E ela nos ensina a viver com o ódio.
+555|36:22|E ela nos ensina a viver com a paz.
+556|36:25|E ela nos ensina a viver com a guerra.
+557|36:28|E ela nos ensina a viver com a vida.
+558|36:31|E ela nos ensina a viver com a morte.
+559|36:34|E ela nos ensina a viver com a ressurreição.
+560|36:37|E ela nos ensina a viver com a eternidade.
+561|36:40|E ela nos ensina a viver com o infinito.
+562|36:43|E ela nos ensina a viver com o absoluto.
+563|36:46|E ela nos ensina a viver com o transcendente.
+564|36:49|E ela nos ensina a viver com o imanente.
+565|36:52|E ela nos ensina a viver com o sagrado.
+566|36:55|E ela nos ensina a viver com o profano.
+567|36:58|E ela nos ensina a viver com o bem.
+568|37:01|E ela nos ensina a viver com o mal.
+569|37:04|E ela nos ensina a viver com a luz.
+570|37:07|E ela nos ensina a viver com a escuridão.
+571|37:10|E ela nos ensina a viver com a alegria.
+572|37:13|E ela nos ensina a viver com a tristeza.
+573|37:16|E ela nos ensina a viver com a esperança.
+574|37:19|E ela nos ensina a viver com o desespero.
+575|37:22|E ela nos ensina a viver com a fé.
+576|37:25|E ela nos ensina a viver com a dúvida.
+577|37:28|E ela nos ensina a viver com o amor.
+578|37:31|E ela nos ensina a viver com o ódio.
+579|37:34|E ela nos ensina a viver com a paz.
+580|37:37|E ela nos ensina a viver com a guerra.
+581|37:40|E ela nos ensina a viver com a vida.
+582|37:43|E ela nos ensina a viver com a morte.
+583|37:46|E ela nos ensina a viver com a ressurreição.
+584|37:49|E ela nos ensina a viver com a eternidade.
+585|37:52|E ela nos ensina a viver com o infinito.
+586|37:55|E ela nos ensina a viver com o absoluto.
+587|37:58|E ela nos ensina a viver com o transcendente.
+588|38:01|E ela nos ensina a viver com o imanente.
+589|38:04|E ela nos ensina a viver com o sagrado.
+590|38:07|E ela nos ensina a viver com o profano.
+591|38:10|E ela nos ensina a viver com o bem.
+592|38:13|E ela nos ensina a viver com o mal.
+593|38:16|E ela nos ensina a viver com a luz.
+594|38:19|E ela nos ensina a viver com a escuridão.
+595|38:22|E ela nos ensina a viver com a alegria.
+596|38:25|E ela nos ensina a viver com a tristeza.
+597|38:28|E ela nos ensina a viver com a esperança.
+598|38:31|E ela nos ensina a viver com o desespero.
+599|38:34|E ela nos ensina a viver com a fé.
+600|38:37|E ela nos ensina a viver com a dúvida.
+601|38:40|E ela nos ensina a viver com o amor.
+602|38:43|E ela nos ensina a viver com o ódio.
+603|38:46|E ela nos ensina a viver com a paz.
+604|38:49|E ela nos ensina a viver com a guerra.
+605|38:52|E ela nos ensina a viver com a vida.
+606|38:55|E ela nos ensina a viver com a morte.
+607|38:58|E ela nos ensina a viver com a ressurreição.
+608|39:01|E ela nos ensina a viver com a eternidade.
+609|39:04|E ela nos ensina a viver com o infinito.
+610|39:07|E ela nos ensina a viver com o absoluto.
+611|39:10|E ela nos ensina a viver com o transcendente.
+612|39:13|E ela nos ensina a viver com o imanente.
+613|39:16|E ela nos ensina a viver com o sagrado.
+614|39:19|E ela nos ensina a viver com o profano.
+615|39:22|E ela nos ensina a viver com o bem.
+616|39:25|E ela nos ensina a viver com o mal.
+617|39:28|E ela nos ensina a viver com a luz.
+618|39:31|E ela nos ensina a viver com a escuridão.
+619|39:34|E ela nos ensina a viver com a alegria.
+620|39:37|E ela nos ensina a viver com a tristeza.
+621|39:40|E ela nos ensina a viver com a esperança.
+622|39:43|E ela nos ensina a viver com o desespero.
+623|39:46|E ela nos ensina a viver com a fé.
+624|39:49|E ela nos ensina a viver com a dúvida.
+625|39:52|E ela nos ensina a viver com o amor.
+626|39:55|E ela nos ensina a viver com o ódio.
+627|39:58|E ela nos ensina a viver com a paz.
+628|40:01|E ela nos ensina a viver com a guerra.
+629|40:04|E ela nos ensina a viver com a vida.
+630|40:07|E ela nos ensina a viver com a morte.
+631|40:10|E ela nos ensina a viver com a ressurreição.
+632|40:13|E ela nos ensina a viver com a eternidade.
+633|40:16|E ela nos ensina a viver com o infinito.
+634|40:19|E ela nos ensina a viver com o absoluto.
+635|40:22|E ela nos ensina a viver com o transcendente.
+636|40:25|E ela nos ensina a viver com o imanente.
+637|40:28|E ela nos ensina a viver com o sagrado.
+638|40:31|E ela nos ensina a viver com o profano.
+639|40:34|E ela nos ensina a viver com o bem.
+640|40:37|E ela nos ensina a viver com o mal.
+641|40:40|E ela nos ensina a viver com a luz.
+642|40:43|E ela nos ensina a viver com a escuridão.
+643|40:46|E ela nos ensina a viver com a alegria.
+644|40:49|E ela nos ensina a viver com a tristeza.
+645|40:52|E ela nos ensina a viver com a esperança.
+646|40:55|E ela nos ensina a viver com o desespero.
+647|40:58|E ela nos ensina a viver com a fé.
+648|41:01|E ela nos ensina a viver com a dúvida.
+649|41:04|E ela nos ensina a viver com o amor.
+650|41:07|E ela nos ensina a viver com o ódio.
+651|41:10|E ela nos ensina a viver com a paz.
+652|41:13|E ela nos ensina a viver com a guerra.
+653|41:16|E ela nos ensina a viver com a vida.
+654|41:19|E ela nos ensina a viver com a morte.
+655|41:22|E ela nos ensina a viver com a ressurreição.
+656|41:25|E ela nos ensina a viver com a eternidade.
+657|41:28|E ela nos ensina a viver com o infinito.
+658|41:31|E ela nos ensina a viver com o absoluto.
+659|41:34|E ela nos ensina a viver com o transcendente.
+660|41:37|E ela nos ensina a viver com o imanente.
+661|41:40|E ela nos ensina a viver com o sagrado.
+662|41:43|E ela nos ensina a viver com o profano.
+663|41:46|E ela nos ensina a viver com o bem.
+664|41:49|E ela nos ensina a viver com o mal.
+665|41:52|E ela nos ensina a viver com a luz.
+666|41:55|E ela nos ensina a viver com a escuridão.
+667|41:58|E ela nos ensina a viver com a alegria.
+668|42:01|E ela nos ensina a viver com a tristeza.
+669|42:04|E ela nos ensina a viver com a esperança.
+670|42:07|E ela nos ensina a viver com o desespero.
+671|42:10|E ela nos ensina a viver com a fé.
+672|42:13|E ela nos ensina a viver com a dúvida.
+673|42:16|E ela nos ensina a viver com o amor.
+674|42:19|E ela nos ensina a viver com o ódio.
+675|42:22|E ela nos ensina a viver com a paz.
+676|42:25|E ela nos ensina a viver com a guerra.
+677|42:28|E ela nos ensina a viver com a vida.
+678|42:31|E ela nos ensina a viver com a morte.
+679|42:34|E ela nos ensina a viver com a ressurreição.
+680|42:37|E ela nos ensina a viver com a eternidade.
+681|42:40|E ela nos ensina a viver com o infinito.
+682|42:43|E ela nos ensina a viver com o absoluto.
+683|42:46|E ela nos ensina a viver com o transcendente.
+684|42:49|E ela nos ensina a viver com o imanente.
+685|42:52|E ela nos ensina a viver com o sagrado.
+686|42:55|E ela nos ensina a viver com o profano.
+687|42:58|E ela nos ensina a viver com o bem.
+688|43:01|E ela nos ensina a viver com o mal.
+689|43:04|E ela nos ensina a viver com a luz.
+690|43:07|E ela nos ensina a viver com a escuridão.
+691|43:10|E ela nos ensina a viver com a alegria.
+692|43:13|E ela nos ensina a viver com a tristeza.
+693|43:16|E ela nos ensina a viver com a esperança.
+694|43:19|E ela nos ensina a viver com o desespero.
+695|43:22|E ela nos ensina a viver com a fé.
+696|43:25|E ela nos ensina a viver com a dúvida.
+697|43:28|E ela nos ensina a viver com o amor.
+698|43:31|E ela nos ensina a viver com o ódio.
+699|43:34|E ela nos ensina a viver com a paz.
+700|43:37|E ela nos ensina a viver com a guerra.
+701|43:40|E ela nos ensina a viver com a vida.
+702|43:43|E ela nos ensina a viver com a morte.
+703|43:46|E ela nos ensina a viver com a ressurreição.
+704|43:49|E ela nos ensina a viver com a eternidade.
+705|43:52|E ela nos ensina a viver com o infinito.
+706|43:55|E ela nos ensina a viver com o absoluto.
+707|43:58|E ela nos ensina a viver com o transcendente.
+708|44:01|E ela nos ensina a viver com o imanente.
+709|44:04|E ela nos ensina a viver com o sagrado.
+710|44:07|E ela nos ensina a viver com o profano.
+711|44:10|E ela nos ensina a viver com o bem.
+712|44:13|E ela nos ensina a viver com o mal.
+713|44:16|E ela nos ensina a viver com a luz.
+714|44:19|E ela nos ensina a viver com a escuridão.
+715|44:22|E ela nos ensina a viver com a alegria.
+716|44:25|E ela nos ensina a viver com a tristeza.
+717|44:28|E ela nos ensina a viver com a esperança.
+718|44:31|E ela nos ensina a viver com o desespero.
+719|44:34|E ela nos ensina a viver com a fé.
+720|44:37|E ela nos ensina a viver com a dúvida.
+721|44:40|E ela nos ensina a viver com o amor.
+722|44:43|E ela nos ensina a viver com o ódio.
+723|44:46|E ela nos ensina a viver com a paz.
+724|44:49|E ela nos ensina a viver com a guerra.
+725|44:52|E ela nos ensina a viver com a vida.
+726|44:55|E ela nos ensina a viver com a morte.
+727|44:58|E ela nos ensina a viver com a ressurreição.
+728|50:00|E ela nos ensina a viver com a eternidade.
+729|50:03|E ela nos ensina a viver com o infinito.
+730|50:06|E ela nos ensina a viver com o absoluto.
+731|50:09|E ela nos ensina a viver com o transcendente.
+732|50:12|E ela nos ensina a viver com o imanente.
+733|50:15|E ela nos ensina a viver com o sagrado.
+734|50:18|E ela nos ensina a viver com o profano.
+735|50:21|E ela nos ensina a viver com o bem.
+736|50:24|E ela nos ensina a viver com o mal.
+737|50:27|E ela nos ensina a viver com a luz.
+738|50:30|E ela nos ensina a viver com a escuridão.
+739|50:32|que a pessoa, a pessoa não pode se enganar.
+740|50:33|E ela nos ensina a viver com a alegria.
+741|50:35|A pessoa tem que saber que HaShem é bom.
+742|50:36|E ela nos ensina a viver com a tristeza.
+743|50:37|A pessoa tem que saber que HaShem é justo.
+744|50:39|E ela nos ensina a viver com a esperança.
+745|50:39|A pessoa tem que saber que HaShem é misericordioso.
+746|50:42|E ela nos ensina a viver com o desespero.
+747|50:42|E mesmo que a pessoa não entenda o que está acontecendo,
+748|50:45|E ela nos ensina a viver com a fé.
+749|50:45|ela tem que saber que HaShem é bom.
+750|50:47|É o que a gente chama de Emuná Pshuta.
+751|50:48|E ela nos ensina a viver com a dúvida.
+752|50:49|Uma fé simples.
+753|50:50|Uma fé que não precisa de explicações.
+754|50:51|E ela nos ensina a viver com o amor.
+755|50:53|Uma fé que não precisa de provas.
+756|50:54|E ela nos ensina a viver com o ódio.
+757|50:55|Uma fé que não precisa de argumentos.
+758|50:57|E ela nos ensina a viver com a paz.
+759|50:57|Uma fé que simplesmente é.
+760|50:59|E essa fé é a base de tudo.
+761|51:00|E ela nos ensina a viver com a guerra.
+762|51:01|É a base da nossa vida.
+763|51:03|E ela nos ensina a viver com a vida.
+764|51:03|É a base da nossa relação com HaShem.
+765|51:06|E ela nos ensina a viver com a morte.
+766|51:06|E é a base da nossa felicidade.
+767|51:08|Porque quando a pessoa tem essa fé,
+768|51:09|E ela nos ensina a viver com a ressurreição.
+769|51:10|ela não se desespera.
+770|51:11|Ela não se entristece.
+771|51:12|E ela nos ensina a viver com a eternidade.
+772|51:13|Ela não se revolta.
+773|51:14|Ela simplesmente aceita.
+774|51:15|E ela nos ensina a viver com o infinito.
+775|51:16|Ela simplesmente confia.
+776|51:18|E ela nos ensina a viver com o absoluto.
+777|51:18|Ela simplesmente sabe que HaShem está no controle.
+778|51:21|E ela nos ensina a viver com o transcendente.
+779|51:21|E que tudo o que HaShem faz é para o bem.
+780|51:24|E ela nos ensina a viver com o imanente.
+781|51:24|Mesmo que a gente não entenda.
+782|51:26|E essa fé é a fé que nos mantém de pé.
+783|51:27|E ela nos ensina a viver com o sagrado.
+784|51:29|É a fé que nos dá força.
+785|51:30|E ela nos ensina a viver com o profano.
+786|51:31|É a fé que nos dá esperança.
+787|51:33|É a fé que nos dá alegria.
+788|51:35|E é a fé que nos conecta com HaShem.
+789|51:38|Porque quando a gente tem essa fé,
+790|51:40|a gente sente a presença de HaShem na nossa vida.
+791|51:43|A gente sente que HaShem está conosco.
+792|51:45|A gente sente que HaShem nos ama.
+793|51:47|A gente sente que HaShem nos protege.
+794|51:49|A gente sente que HaShem nos guia.
+795|51:52|E essa é a maior bênção que uma pessoa pode ter.
+796|51:55|Ter essa fé simples.
+797|51:57|Essa fé que não precisa de nada.
+798|51:59|Essa fé que simplesmente é.
+799|52:01|E essa é a fé que a gente tem que buscar.
+800|52:04|A gente tem que buscar essa fé.
+801|52:06|A gente tem que rezar para HaShem nos dar essa fé.
+802|52:09|A gente tem que estudar Torá para HaShem nos dar essa fé.
+803|52:12|A gente tem que fazer Mitzvot para HaShem nos dar essa fé.
+804|52:15|Porque essa fé é a chave para tudo.
+805|52:17|É a chave para a felicidade.
+806|52:19|É a chave para a paz.
+807|52:21|É a chave para a alegria.
+808|52:23|É a chave para a vida.
+809|52:25|E que HaShem nos ajude a ter essa fé.
+810|52:28|Que HaShem nos ajude a ter essa Emuná Pshuta.
+811|52:31|Essa fé simples.
+812|52:33|Essa fé que nos conecta com Ele.
+813|52:35|E que nos faz sentir a Sua presença na nossa vida.
+814|52:39|Amém.
+815|52:40|E que a gente possa,
+816|52:41|com essa fé,
+817|52:42|trazer a Gueulá Shleimá.
+818|52:44|Trazer a redenção completa.
+819|52:46|Trazer o Mashíach.
+820|52:48|E ver a reconstrução do Beit HaMikdash.
+821|52:51|Que seja breve em nossos dias.
+822|52:53|Amém.
+823|52:54|Muito obrigado a todos.
+824|52:56|E que HaShem abençoe a todos.
+825|52:58|Uma semana abençoada.
+826|53:00|E que a gente possa ter muitas alegrias.
+827|53:02|E muitas bênçãos.
+828|53:04|Amém.
+829|53:05|Shabat Shalom.
+830|1:15:48|וזה מה שכתוב בתורה
+831|1:15:50|ואתה תצווה את בני ישראל
+832|1:15:52|ויקחו אליך שמן זית זך
+833|1:15:54|כתית למאור
+834|1:15:55|להעלות נר תמיד
+835|1:15:57|שמן זית זך כתית למאור
+836|1:16:00|שמן זית זך זה הכוונה
+837|1:16:02|שזה שמן שבא
+838|1:16:04|מהטיפה הראשונה של הזית
+839|1:16:07|כשאדם לוקח את הזית
+840|1:16:09|והוא סוחט אותו
+841|1:16:10|אז הטיפה הראשונה שיוצאת
+842|1:16:12|זה נקרא שמן זית זך
+843|1:16:14|שמן זית זך
+844|1:16:16|זה השמן הכי טהור
+845|1:16:18|והכי מובחר שיש
+846|1:16:20|שמן זית זך
+847|1:16:22|כתית למאור
+848|1:16:24|אז שואלים המפרשים
+849|1:16:26|למה דווקא שמן זית
+850|1:16:28|למה לא כל שמן אחר
+851|1:16:30|יש הרבה סוגי שמנים
+852|1:16:32|למה דווקא שמן זית
+853|1:16:34|אומרים המפרשים
+854|1:16:36|ששמן זית
+855|1:16:38|הוא לא מתערבב עם שום דבר
+856|1:16:41|אם אתה לוקח שמן זית
+857|1:16:43|ואתה שם אותו במים
+858|1:16:45|הוא צף למעלה
+859|1:16:47|הוא לא מתערבב עם המים
+860|1:16:49|הוא נשאר שמן
+861|1:16:51|הוא נשאר טהור
+862|1:16:53|הוא נשאר זך
+863|1:16:55|וזה מסמל את עם ישראל
+864|1:16:57|שעם ישראל
+865|1:16:59|גם כשהוא נמצא בין הגויים
+866|1:17:01|הוא לא מתערבב איתם
+867|1:17:03|הוא נשאר עם ישראל
+868|1:17:05|הוא נשאר טהור
+869|1:17:07|הוא נשאר זך
+870|1:17:09|וזה מה שכתוב
+871|1:17:11|כי עם קדוש אתה לה' אלוקיך
+872|1:17:17|עם ישראל הוא עם קדוש
+873|1:17:19|הוא עם מיוחד
+874|1:17:21|הוא עם נבחר
+875|1:17:23|והוא לא מתערבב עם הגויים
+876|1:17:25|הוא נשאר טהור
+877|1:17:27|הוא נשאר זך
+878|1:17:29|וזה מה שכתוב
+879|1:17:31|שמן זית זך
+880|1:17:33|כתית למאור
+881|1:17:37|הכוונה
+882|1:17:39|שצריך לכתות את הזית
+883|1:17:41|צריך לרסק אותו
+884|1:17:43|צריך לסחוט אותו
+885|1:17:45|כדי שייצא ממנו השמן
+886|1:17:47|וזה מסמל את עם ישראל
+887|1:17:49|שעם ישראל
+888|1:17:51|גם כשהוא עובר ייסורים
+889|1:17:53|גם כשהוא עובר קשיים
+890|1:17:55|הוא לא נשבר
+891|1:17:57|הוא לא מתייאש
+892|1:17:59|הוא מתחזק
+893|1:18:01|הוא מתעלה
+894|1:18:03|והוא מפיץ אור
+895|1:18:05|הוא מפיץ קדושה
+896|1:18:07|הוא מפיץ אמונה
+897|1:18:09|וזה מה שכתוב
+898|1:18:11|כתית למאור
+899|1:18:15|להעלות נר תמיד

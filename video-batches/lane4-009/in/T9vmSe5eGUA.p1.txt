@@ -1,0 +1,95 @@
+videoId: T9vmSe5eGUA
+parte 2 de 2 · traduzir as linhas 450 a 520 (71 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Ki Tetsê: guerra facultativa, servo e a alma pré-criação
+RESUMO: A aula continua a explicação do Rebe sobre "Ki Tetsê lamilchamá", a descida da alma ao corpo como guerra para refinar o corpo, a alma animal e a parte do indivíduo no mundo, e mostra que essa guerra deve ser travada já ligado à plenitude do tempo de receber o prêmio. Rashi (Devarim 21:10) explica que o versículo trata de uma guerra facultativa (milchemet reshut), o que gera uma pergunta: como chamar de facultativa uma obrigação da alma, que é um mandamento? Surge uma segunda pergunta: se o povo de Israel é servo de HaShem ("Ki li Bnei Israel avadim"), por que haveria prêmio, já que o servo comprado nada recebe? O Rebe responde pelo termo "Tetsê" (sair): o judeu precisa saber que não é "local", que está neste mundo mas não pertence a ele. A alma vem de um nível acima de toda a cadeia de emanação, antes do primeiro tsimtsum, pois o pensamento de Israel precedeu tudo (Midrash). Por fim, HaShem consultou as almas ao criar o mundo, e o Zohar diz "Israel e o Santo, Bendito Seja, são um", o que explica a dimensão de escolha mesmo dentro da obrigação.
+MOMENTOS: 00:11 A guerra da alma: purificar corpo, alma animal e mundo · 01:50 Rashi: o versículo fala de guerra facultativa · 03:04 A alma desce de Atsilut como em uma guerra · 03:50 Pergunta 1: como chamar de facultativa uma obrigação · 07:57 Livre-arbítrio: escolher entre o bem e o mal tem consequência · 10:07 Pergunta 2: por que haveria prêmio pelo serviço? · 11:33 Empregado contratado versus servo comprado · 12:49 Ki li Bnei Israel avadim: somos servos de HaShem · 19:04 A palavra "Tetsê": a alma sai de seu lugar · 20:36 Eu não sou local: a consciência do judeu · 23:56 A alma vem de antes do primeiro tsimtsum · 25:34 HaShem consultou as almas antes de criar o mundo
+FONTES CITADAS: 00:11 Devarim 21:10 · 02:08 Rashi em Devarim 21:10 · 02:25 Devarim 20:16 · 02:32 Devarim 21:10-11 · 03:59 Mishná Kiddushin 4:14 · 07:57 Devarim 30:19 · 12:49 Vayikra 25:55 · 13:55 Vayikra 25:55 · 14:38 Devarim 34:5 · 19:04 Bamidbar 10:9 · 22:35 Sidur, Elokai Neshamá · 24:20 Bereshit Rabá 1:4 · 25:34 Bereshit Rabá 8:7 · 26:19 Zohar, Israel veKudsha Berich Hu chad
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+438|22:55|אומר הרבי לא רק משם
+439|22:57|נשמה של נתת בי תורה היא קנה סיב ב אלא
+440|23:01|גם ובעיקר ביחס לשורשה ומקורה הראשונה
+441|23:06|מסתבר שהנשמה בשורש המקורי הראשון
+442|23:12|היא למעלה מכל סדר ההשתלשל
+443|23:16|עולם האצילות הוא עולם מאוד מאוד עליון
+444|23:18|הכי עליון מהעולמות מארבעת העולמות אבל
+445|23:20|עדיין בתוך ההשתלשלות
+446|23:23|ממנו משתלשל עולם הבריאה עולם האצילות
+447|23:25|עצמו משתלשל מהעולמות שמעליו כתר
+448|23:29|ועולמתו וכולי.
+449|23:32|הנשמה מגיעה למעלה מכל ההשתלשלות של כל
+
+LINHAS A TRADUZIR:
+450|23:35|העולמות.
+451|23:37|מה יש לפני ההשתלשלות?
+452|23:40|לפני ההשתלשלות אז יש את הערת הקו ככה זה
+453|23:44|נכו
+454|23:48|שהוא מלמעלה למטה. אז ככה יש איזשהי המשכת
+455|23:51|אור מאור אינסוף שלפני הצמצום שנמשך אל
+456|23:54|תוך הצמצום.
+457|23:56|הרבי בא ואומר שהנשמה באה מהמקום שלפני
+458|23:59|הצמצום הראשון בכלל
+459|24:01|כולל גם למעלה מהתחלת ההשתלשלות בצמצום
+460|24:04|הראשון
+461|24:06|ובהערה הרבי נכנס לעוד עומק שיש גם לפני
+462|24:09|הצמצום הראשון עוד צמצומים שגם להם קדמה
+463|24:12|הנשמה כלומר הנשמה קודמת לכל ומה מלמד
+464|24:17|אותנו את הדבר הזה
+465|24:20|[כחכוח] מה אמר חז"ל במדרש רבא שם מחשבתן
+466|24:23|של ישראל קדמה לכל דבר
+467|24:27|כל מדרגה, כל גילוי, כל צמצום, כל בחינה
+468|24:30|אלוקית שקשורה לתהליך האלוקי בסדר
+469|24:34|השתלשלות העולמות, אם זה בתוך ההשתלשלות
+470|24:36|או גם קודם להשתלשלות,
+471|24:39|כל הדברים הללו קדם להם דבר ראשוני. ומה
+472|24:43|הדבר הראשוני שקדם לכל? מחשבתם של ישראל.
+473|24:47|ואצל הקדוש ברוך הוא מחשבה היא לא רק
+474|24:49|מחשבה כמו אצל האדם שרק במחשבה. אצל הקדוש
+475|24:51|ברוך הוא מחשבה זו מציאות.
+476|24:54|זאת אומרת המציאות של נשמות ישראל הייתה
+477|24:57|לפני הכובל.
+478|24:58|יותר מזה, מה המשמעות של אותה מציאות של
+479|25:01|הנשמות שלנו שהיו הם מה מה היה התפקוד
+480|25:05|שלהם ומה הם עשו? אז הרבי אומר, התפקיד של
+481|25:08|הנשמות באותה מדרגה היה כל כך משמעותי
+482|25:11|שאיתם הקדוש ברוך הוא התייעץ לברוא את
+483|25:14|העולמות. כלומר, לא היה נסה כל סדר
+484|25:16|ההשתלשלות, אילולי הנשמות היו ככה חושבות
+485|25:20|ומייעצות לקדוש ברוך הוא.
+486|25:24|ולזה לשון חכמים ובהם נמלך הקדוש ברוך הוא
+487|25:27|על על בריאה על דבר בריאת סדר ההשתלשלות
+488|25:31|כמאמר רבותינו זכרונם לברכה אומרים חז"ל
+489|25:34|במדרש שם במי נמלך כשהקדוש ברוך הוא בא
+490|25:37|לברוא את העולם עשה את זה על דעתו או שהוא
+491|25:39|עשה את זה בהתייעצות
+492|25:41|אז מסתבר שעשה את זה בהת התייעצות ואם יש
+493|25:44|לו להתייעץ הרי אין עולמות אין מלאכים אין
+494|25:46|אין מי להתייעץ הוא התייעץ בנשמתיהם של
+495|25:50|צדיקים שום דבר לא היה כן כן עולם עדיין
+496|25:53|אז זה רוצה להתייעץ אם לברוא את העולם אבל יש כן את הנשמות כי מחשבתם של ישראל קדמה
+497|25:58|לכל דבר >> זה לא כל הנשמות >> כל הנשמות >> כל הנשמות
+498|26:02|>> איך כולם צדיקים
+499|26:03|>> מה שהם שמה כולם צדיקים
+500|26:06|להיותם חלק אלוקי ממעל ממש כולם הם חלק
+501|26:08|אלוק ממעל ממש מציאות אחת עם מהותו
+502|26:13|ועצמותו יתברך הנשמות במדרגה הזו הם
+503|26:16|מציאות אחת עם הקדוש ברוך הוא שמה אומר על
+504|26:19|זה הזוהר את הביטוי העצום והנפלא
+505|26:22|ישראל וקודשבריךו כול
+506|26:27|>> אם כן זה כמו שאדם מתייעץ בינו לבין עצמו
+507|26:31|אז כביכול הנשמות הם חלק בלתי נפרן מהקדוש
+508|26:34|ברוך הוא ואיתם הוא מתייצץ לבריאת העולמות
+509|26:37|מה יוצא מזה אבל חומר למחשבה
+510|26:42|שבסופו של דבר כל מציאות העולם הזה היא
+511|26:45|מחייבת אותי או שהיא בכלל נעשת ברשות שלי
+512|26:52|ש
+513|26:53|>> אם אנחנו הנשמות שאיתנו השם תייצל בריאת
+514|26:55|העולם זאת אומרת שבאמת מדובר פה על משמרות
+515|26:59|כי זה הכל רשות אח גדולה שאנחנו כביכול
+516|27:02|נתנו רשות במרכאות או עצה טובה לקדוש ברוך
+517|27:05|הוא לברוא את העולם
+518|27:07|זה עניין גם של חובה כי ברור ברור ברור זה
+519|27:10|רק זה רק צעק רחון של העניין כמובן זה
+520|27:13|נמשיך נחשב Да.

@@ -1,0 +1,40 @@
+videoId: tFj0O4WSADI
+parte 2 de 2 · traduzir as linhas 450 a 465 (16 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Ben Ish Chai: construir e demolir utensílios em Shabat
+RESUMO: O rabino começa o ano 2 do Ben Ish Chai Halachot, em Parashat Vayakhel, com as leis de construir e demolir (boneh e soter) em utensílios no Shabat. A introdução parte da contradição em Shemot 36:7, onde a obra "era suficiente" e ainda "sobrava", e do comentário de Rashi sobre isso. O Ben Ish Chai explica que Betsalel e seus companheiros, com kavanot e yichudim, fizeram do trabalho material um trabalho espiritual, e por isso os utensílios do Mishkan ganharam eternidade, como diz a Gemará em Sotá 9a. Daí vem o princípio "não há construir e demolir em utensílios": os assuntos deste mundo são chamados kelim, de kilayon (extinção), e o Keli Yakar compara-os a brinquedos de criança, o que o rabino ilustra com a história do Graf Potocki. Também é citado o sentido de que os mundos de Beria, Yetsirá e Assiyá não têm boneh e soter em Shabat, que pertence ao mundo de Atsilut. Por fim, o rabino lê as halachot 1 e 2: portas de utensílios móveis, utensílios de 40 seá e portas presas ao solo ou à parede, e começa a halachá 3 sobre portas com dois eixos.
+MOMENTOS: 00:02 Abertura: Ben Ish Chai ano 2, Parashat Vayakhel · 00:14 A contradição em Shemot 36:7: "suficiente" e "sobrava" · 00:57 A resposta de Rashi · 01:58 O Ben Ish Chai: Betsalel fez trabalho espiritual · 03:20 É o sentido simples (pshat), não só cabalá · 04:51 Berachot 55a: Betsalel e as letras da criação · 06:41 Tito e o Templo: sem a Shechiná, nada resta · 08:31 Eternidade da obra e Sotá 9a: utensílios ocultos · 11:35 "Não há construir e demolir em utensílios" · 13:05 Keli Yakar: este mundo é brinquedo de criança · 15:01 A história do Graf Potocki · 19:13 Beria, Yetsirá e Assiyá versus Atsilut · 20:25 Halachá 1: portas de utensílios móveis · 23:13 Halachá 2: utensílios de 40 seá e portas na parede · 26:09 Halachá 3: portas com dois eixos
+FONTES CITADAS: 00:14 Shemot 36:7 · 00:57 Rashi em Shemot 36:7 · 01:46 Ben Ish Chai, Introdução às halachot de Vayakhel · 02:55 Berachot 55a · 06:45 Yoma 56b · 09:15 Sotá 9a · 09:44 Sotá 17a · 10:13 Pirkei Avot 4:11 · 11:42 Beitsá 36b · 11:47 Shulchan Arukh, Orach Chaim 313 · 13:05 Keli Yakar em Vayikra 19:18 · 14:21 Vayikra 19:18 · 17:32 Tehilim 117:1-2 · 19:13 Ben Ish Chai, Introdução às halachot de Vayakhel · 20:25 Ben Ish Chai, Halachot Vayakhel 1 · 21:36 Shabat 102b · 23:13 Ben Ish Chai, Halachot Vayakhel 2 · 26:09 Ben Ish Chai, Halachot Vayakhel 3
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+438|25:15|לקרקע ואז אסור בין ליטול ובין להחזיר
+439|25:19|ולכן אפילו אם בן אדם בשוגג תפס את הדלת
+440|25:22|של המטבח ונשאר לו הדלת ביד אסור לו
+441|25:27|להחזיר
+442|25:30|>> לגבי שרשרת אז זה עדיין לא ניטל לגמרי זה
+443|25:34|הסיבה של ההיתר שיש לדוגמה חלון או משהו
+444|25:37|שיש לו שרשרת
+445|25:40|ואז באופן כזה מותר לשים ולהחזיר מכיוון
+446|25:43|שדרכו בכך וברגע שזה מחובר עם שרשרת זה
+447|25:46|נקרא שזה עדיין לא ניטל לגמרי
+448|25:48|>> זה לא דרך שרשרת בנול מפתח אפשר לתו לגמרי
+449|25:53|זה
+
+LINHAS A TRADUZIR:
+450|25:55|מכבטיש מחזיר
+451|25:58|שמכב פטיש אם זה מחובר לקרקע יהיה אסור
+452|26:00|להוציא זאת מהצירים
+453|26:03|אתה מבין טוב
+454|26:09|ובואו נראה עוד הלכה אחת אומר הרב דלתות
+455|26:12|שיש להם שני צירים
+456|26:15|אם יצא ציר התחתון כולו ממקומו
+457|26:18|אסור להחזירו ואם מקצתו אבל אם רק מקצת
+458|26:24|הדלת יצא מהציר התחתון מותר להחזור ואין
+459|26:28|חוששים שם ההתקעה לפי שאין צריך לזה כל כך
+460|26:32|אבל אם יצא הציר העליון אפילו מקצתו אסור
+461|26:34|לדוחקו ולחזרו למקומו גזרה שם היתקע מפני
+462|26:38|שהעליון צריך להדקו בחוזק יותר מן התחתון
+463|26:42|מפני שהתחתון מתקיים מאליו בכורו כשהעליון
+464|26:47|במקומו
+465|26:49|ברוך אדוני לעולם אמן ואמן ‏Amen.
