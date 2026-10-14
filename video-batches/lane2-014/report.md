@@ -1,7 +1,7 @@
 # lane2-014
 
-18 of 20 lessons published · 0 skipped · status **pending**
-Tokens (28 agent runs with a record): 0.2M in (mostly cache) · 0.41M out · API-equivalent 4.92
+19 of 20 lessons published · 0 skipped · status **pending**
+Tokens (33 agent runs with a record): 0.3M in (mostly cache) · 0.51M out · API-equivalent 5.91
 
 | lesson | state | detail |
 |---|---|---|
@@ -10,8 +10,8 @@ Tokens (28 agent runs with a record): 0.2M in (mostly cache) · 0.41M out · API
 | qEyjhwg3HRs | ✓ published | 43 lines · Parashá Vayikrá: o verdadeiro korban nos preparativos de Pêssach |
 | QYwtSrZ78-M | ✓ published | 39 lines · Como trazer bênção ao casamento: Rav Shach e o verso Reê |
 | 80TIFopdqWc | ✓ published | 315 lines · Kórach: o dia seguinte e a acusação a Moshé |
-| bLms7yHxLVc | ✗ will be redone (try 1) | line 0 twice |
-| l3z-9KB8RXM | ✗ will be redone (try 1) | line 92 twice |
+| bLms7yHxLVc | waiting | 3/4 parts |
+| l3z-9KB8RXM | ✓ published | 95 lines · Hospitalidade e os sinais da besta pura |
 | Gk30WFQJCA4 | ✓ published | 21 lines · Vayakhel-Pekudei: os desafios em proporção |
 | SABFy0Bd81M | ✓ published | 32 lines · Oração por Misericórdia e Proteção |
 | nXOn6-CoQF8 | ✓ published | 55 lines · Dvekut verdadeira: imitar as midot de HaShem |
