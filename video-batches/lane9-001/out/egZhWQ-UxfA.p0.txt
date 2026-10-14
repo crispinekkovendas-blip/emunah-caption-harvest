@@ -1,0 +1,49 @@
+0	[Music]	[Música]
+1	Good afternoon, this is Chamda speaking from the hospital.	Boa tarde, aqui é a Chamda falando do hospital.
+2	I called to tell you that Pushka had an accident,	Liguei para dizer que o Pushka sofreu um acidente,
+3	and he is now hospitalized.	e agora ele está internado.
+4	What, Pushka is hospitalized? Is he okay? He's...	O quê, o Pushka está internado? Ele está bem? Ele está...
+5	resting now. I'll put him on right away.	descansando agora. Já vou passá-lo para você.
+6	Hi, Rabbi. Pushka, you're crying, does it hurt? My poor boy.	Oi, Rabino. Pushka, você está chorando, está doendo? Coitadinho.
+7	It hurts, it hurts, Rabbi. Oh, where does it hurt? In the heart, it hurts in my heart, Rabbi.	Dói, dói, Rabino. Ai, onde dói? No coração, dói no meu coração, Rabino.
+8	It hurts in my heart.	Dói no meu coração.
+9	In the heart? Oh, Pushka.	No coração? Ai, Pushka.
+10	Yes, my heart hurts over the new ball that burst.	Sim, meu coração dói pela bola nova que estourou.
+11	Over what?	Por quê?
+12	Over my new ball. It got stuck in the tree, so	Pela minha bola nova. Ela ficou presa na árvore, então
+13	I climbed the tree to get it down, but	subi na árvore para tirá-la, mas
+14	when I reached the branch it was stuck on, the branch broke.	quando cheguei ao galho em que ela estava presa, o galho quebrou.
+15	I fell to the ground, and the ball fell right on the point	Eu caí no chão, e a bola caiu bem na ponta
+16	of the fence and burst. A new ball! Do you understand why	da cerca e estourou. Uma bola nova! Você entende por que
+17	my heart hurts? Apart from the ball, do you feel okay?	meu coração dói? Fora a bola, você está se sentindo bem?
+18	I feel great. But Rabbi, I told you, my heart hurts	Estou ótimo. Mas Rabino, eu já disse, meu coração dói
+19	over the ball. Oh, Pushka, you simply don't know how to tell the difference between	pela bola. Ai, Pushka, você simplesmente não sabe distinguir entre
+20	the essential and the secondary.	o essencial e o secundário.
+21	Ikar and tafel? Who are they? I don't know them.	Ikar e tafel? Quem são? Não os conheço.
+22	Pushka, you can't tell the difference between something important	Pushka, você não sabe distinguir entre algo importante
+23	and something less important, just like the tribe of Reuven and the tribe of	e algo menos importante, exatamente como a tribo de Reuven e a tribo de
+24	Gad in this week's Parashah. Oh, those I do know, but, uh, what do they	Gad na Parashá da semana. Ah, esses eu conheço, mas, é, o que eles
+25	have to do with the story?	têm a ver com a história?
+26	These two tribes had a lot of livestock, and they saw	Essas duas tribos tinham muito gado, e viram
+27	the green fields and asked Moshe to settle there and not	os campos verdes e pediram a Moshe para se estabelecerem ali e não
+28	to cross the Jordan and enter the Land of Israel. And so	atravessar o Jordão e entrar na Terra de Israel. E assim
+29	they said: "Pens for the flock we will build here for our livestock, and cities for our children."	disseram: "Currais para o rebanho construiremos aqui para o nosso gado, e cidades para as nossas crianças."
+30	Moshe understood their order of priorities: first of all	Moshe entendeu a ordem de prioridades deles: primeiro de tudo
+31	the flock, the property, and only afterward the family and the children.	o rebanho, os bens, e só depois a família e as crianças.
+32	Therefore Moshe answered them in reverse order: "Build for yourselves cities	Por isso Moshe lhes respondeu em ordem inversa: "Construí para vós cidades
+33	for your children, and pens for your flocks." First of all, take care	para as vossas crianças, e currais para o vosso rebanho." Primeiro de tudo, cuidai
+34	of the family and the children, and only afterward of the sheep and the livestock.	da família e das crianças, e só depois das ovelhas e do gado.
+35	Don't swap the essential for the secondary, what is truly	Não troqueis o essencial pelo secundário, o que é realmente
+36	important for what is less important. You too, Pushka.	importante pelo que é menos importante. Você também, Pushka.
+37	Don't confuse your life, which is so precious and	Não confunda a sua vida, que é tão preciosa e
+38	is the essential, with the ball, which you can buy ten of,	é o essencial, com a bola, da qual se compram dez iguais,
+39	and which is the secondary. You're right, Rabbi, I simply don't know	e que é o secundário. Você tem razão, Rabino, eu simplesmente não sei
+40	what I was thinking. Of course my life is more important	no que eu estava pensando. Claro que a minha vida é mais importante
+41	than anything, even more than ten balls.	do que tudo, até mais do que dez bolas.
+42	Certainly, Pushka, more than anything.	Certamente, Pushka, mais do que tudo.
+43	So, Rabbi, in the meantime I'll settle for five	Então, Rabino, por enquanto eu me contento com cinco
+44	balls. So shall we pop over to the mall? There's a store there with	bolas. Então vamos dar uma passada no shopping? Tem lá uma loja com
+45	all the coolest balls. Wait a moment. Nurse, nurse,	todas as bolas mais legais. Espere um momento. Enfermeira, enfermeira,
+46	can you come discharge me? Nurse, nurse, come	você pode vir me dar alta? Enfermeira, enfermeira, venha
+47	a moment.	um instante.
+48	…	…

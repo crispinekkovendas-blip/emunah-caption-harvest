@@ -1,0 +1,450 @@
+0	Okay, hello everyone, here at the institute and to those watching	Bem, olá a todos, aqui no instituto e a quem nos assiste
+1	at home. As we usually say, we have reached the end of the book	em casa. Como costumamos dizer, chegamos ao fim do livro
+2	of Vayikra, Parashat Bechukotai, which we will read, with HaShem's help,	de Vayikrá, Parashat Bechukotai, que vamos ler, com a ajuda de HaShem,
+3	this coming Shabbat. The book of Vayikra, we have mentioned this several	neste próximo Shabat. O livro de Vayikrá, já mencionamos isso várias
+4	times, is one of the most, the most challenging book	vezes, é um dos livros mais, o livro mais desafiador
+5	of the five books of the Torah. So we are finishing	dos cinco livros da Torá. Então estamos terminando
+6	it. You can feel a little bit	ele. Dá para sentir um pouquinho
+7	that the book of Bamidbar is going to be a bit simpler	que o livro de Bamidbar vai ser um pouco mais simples
+8	in terms of the approaches we try to give. Let me	em termos das abordagens que tentamos dar. Deixe-me
+9	remind whoever forgot: the goal of these classes	lembrar a quem esqueceu: o objetivo destas aulas
+10	is to string the whole parashah on one line, to find	é alinhar toda a parashá numa só linha, encontrar
+11	the common denominator, and not just any denominator, a	o denominador comum, e não qualquer denominador, um
+12	psychological common denominator: what is the inner principle	denominador comum psíquico: qual é o princípio interior
+13	relevant to our lives, since every parashah the Holy One, Blessed be He,	relevante para as nossas vidas, já que cada parashá o Santo, Bendito Seja,
+14	schedules to fall exactly at this time.	faz cair exatamente neste período.
+15	The book of Vayikra was challenging in several respects: first,	O livro de Vayikrá foi desafiador em vários aspectos: primeiro,
+16	there is a jumble of topics there	há ali uma mistura de assuntos
+17	that seem very, very unrelated, unlike	que parecem muito, muito sem relação, ao contrário
+18	Bereshit, which had a certain chronology,	de Bereshit, que tinha uma certa cronologia,
+19	and Shemot; and Bamidbar already goes back to	e de Shemot; e Bamidbar já volta a ter
+20	journeys in the desert; at least there we have some	viagens no deserto; ali pelo menos temos algum
+21	narrative framework. Another thing: the content	quadro narrativo. Outra coisa: o próprio
+22	itself: sacrifices, messes, things like tzaraat,	conteúdo: sacrifícios, bagunças, coisas como tsaraat,
+23	zav, niddah, all the less pleasant things were	zav, nidá, todas as coisas menos agradáveis estavam
+24	concentrated in this book. Nevertheless, I hope	concentradas neste livro. Mesmo assim, espero
+25	that in these parashiyot we managed to pin down	que nessas parashiot tenhamos conseguido captar
+26	the point. So, with HaShem's help, next week when we reach	o ponto. Então, com a ajuda de HaShem, na semana que vem, quando chegarmos a
+27	Bamidbar, I hope things will be a little	Bamidbar, espero que as coisas sejam um pouco
+28	simpler. Now, Parashat Bechukotai is the parashah	mais simples. Agora, a Parashat Bechukotai é a parashá
+29	that closes the book. What is its content? As always,	que encerra o livro. Qual é o seu conteúdo? Como sempre,
+30	we do a quick survey of the plain meaning.	fazemos uma breve revisão do sentido simples.
+31	First, there is a very, very, very long	Primeiro, há uma descrição muito, muito, muito longa
+32	and detailed description of what will happen if "you walk in My statutes and	e detalhada do que acontecerá se "andardes nos Meus estatutos e
+33	keep My commandments and do them," and what will happen if,	guardardes os Meus mandamentos e os cumprirdes", e do que acontecerá se,
+34	heaven forbid, we do not walk in HaShem's statutes. "If you walk in My statutes,	Deus nos livre, não andarmos nos estatutos de HaShem. "Se andardes nos Meus estatutos,
+35	I will give your rains in their season, the land will yield its produce, the tree of the field	darei as vossas chuvas na sua estação, a terra dará o seu produto, a árvore do campo
+36	will give its fruit; I will give peace in the land; five of you will chase	dará o seu fruto; darei paz na terra; cinco de vós perseguireis
+37	a hundred, and a hundred of you ten thousand; I will turn to you	cem, e cem de vós perseguireis dez mil; Eu Me voltarei para vós
+38	and make you fruitful, and you will eat old stores long kept, and I will set My dwelling	e vos farei frutificar, e comereis o velho armazenado, e porei o Meu Tabernáculo
+39	among you, and I will walk among you." Wonderful. And then in verse 14,	entre vós, e andarei entre vós." Maravilhoso. E então no versículo 14,
+40	after 14 verses of descriptions of what wonderful things	depois de 14 versículos descrevendo que coisas maravilhosas
+41	happen if we walk in HaShem's statutes, we have	acontecem se andarmos nos estatutos de HaShem, temos
+42	now	agora
+43	from verse 14: "But if you will not listen to Me and will not do all these	a partir do versículo 14: "Mas se não Me ouvirdes e não cumprirdes todos estes
+44	commandments, and if you reject My statutes" — oy, oy,	mandamentos, e se rejeitardes os Meus estatutos" — ai, ai,
+45	oy, what is going to happen. And then begins	ai, o que vai acontecer. E então começa
+46	a description: "I will appoint over you terror,	uma descrição: "Designarei sobre vós o terror,
+47	consumption and fever... I will set My face against you, and you will be struck	a tísica e a febre... Porei o Meu rosto contra vós, e sereis derrotados
+48	before your enemies... and I will break the pride of your power,	diante dos vossos inimigos... e quebrarei o orgulho da vossa força,
+49	and I will make your heaven as iron and your earth as brass. And if you walk	e farei o vosso céu como ferro e a vossa terra como bronze. E se andardes
+50	with Me by chance, I will bring upon you a plague seven times over	comigo ao acaso, trarei sobre vós uma praga sete vezes maior
+51	for your sins, and I will send the wild beasts among you, and bereave you	pelos vossos pecados, e enviarei contra vós as feras do campo, e vos privarão
+52	of children. And if by these you are not reformed to Me, and you keep walking with Me by chance,	dos filhos. E se com isso não vos corrigirdes para Comigo, e continuardes a andar Comigo ao acaso,
+53	I too will walk with you by chance, and I will strike	também Eu andarei convosco ao acaso, e vos ferirei
+54	you; I will bring a sword upon you, avenging the vengeance	e trarei sobre vós a espada, que vingará a vingança
+55	of the covenant. And then a fourth time: "And if in spite of this you do not listen	da aliança. E então uma quarta vez: "E se mesmo assim não Me ouvirdes
+56	to Me, I will walk with you in fury, by chance, and even	Eu andarei convosco em fúria, ao acaso, e ainda
+57	more... and you will eat the flesh of your sons	mais... e comereis a carne dos vossos filhos
+58	and daughters." There are things here... "and you I will scatter	e das vossas filhas." Há coisas aqui... "e a vós espalharei
+59	among the nations." Here, in fact, there are those who claim that this is	entre as nações." Aqui, de fato, há quem afirme que esta é
+60	the parashah that describes the exile of the people of Israel, this	a parashá que descreve o exílio do povo de Israel, esta
+61	reality in which the people of Israel are	realidade em que o povo de Israel está
+62	in their hardest state. "I will make the land desolate,	na sua pior situação. "Devastarei a terra,
+63	and your enemies who dwell in it will be appalled." And here	e os vossos inimigos que nela habitam ficarão espantados." E aqui,
+64	more or less the curses of Parashat	mais ou menos, terminam as maldições da parashá
+65	Bechukotai end. It is not pleasant to say, they are longer	de Bechukotai. Não é agradável dizer, elas são mais longas
+66	than the blessings, apparently	do que as bênçãos, ao que parece,
+67	because one needs more of a whip	porque é preciso mais um chicote
+68	than a candy, since	do que um doce, pois
+69	in short, the evil inclination needs a lot of restraint.	em resumo, o mau impulso precisa de muita contenção.
+70	And after this, which is most of the parashah, there are a few more	E depois disso, que é a maior parte da parashá, há mais alguns
+71	verses.	versículos.
+72	[Music]	[Música]
+73	From here, from chapter 27, verse 23 to 34,	Daqui, do capítulo 27, do versículo 23 ao 34,
+74	there are, it comes out to 13 verses, that speak about	são, dá 13 versículos, que falam de
+75	a section called the parashah of arachin. What are arachin? "If	uma seção chamada parashá dos arachin. O que são arachin? "Se
+76	a person... the kohen will calculate the amount of your valuation until the Jubilee year."	uma pessoa... o cohen calculará o valor da tua avaliação até o ano do Jubileu."
+77	Every person, every object, every field, every house has a value,	Toda pessoa, todo objeto, todo campo, toda casa tem um valor,
+78	a worth, how much it is worth. And people would dedicate this worth	um preço, quanto vale. E as pessoas dedicavam esse valor
+79	to the Beit HaMikdash. There is a whole tractate,	ao Beit HaMikdash. Há um tratado inteiro,
+80	Tractate Arachin: when a person says, "Behold, my valuation	o tratado Arachin: quando uma pessoa diz: "Eis que a minha avaliação
+81	is upon me," meaning, I dedicate my worth	está sobre mim", isto é, eu dedico o meu valor
+82	to the Beit HaMikdash. Then: you, a man of such-and-such age,	ao Beit HaMikdash. Então: tu, homem de tal idade,
+83	are worth such-and-such. This	vales tanto e tanto. Isto
+84	the person brings to the Beit HaMikdash, and here the parashah ends.	a pessoa traz ao Beit HaMikdash, e aqui termina a parashá.
+85	And just as a person who brings his valuation to the Beit HaMikdash,	E assim como a pessoa que traz a sua avaliação ao Beit HaMikdash,
+86	so too every tithe of the land, of the fruit of the land, is holy	assim também todo dízimo da terra, do fruto da terra, é sagrado
+87	to HaShem, and if you redeem it you add a fifth,	para HaShem, e se o resgatas acrescentas um quinto,
+88	every tithe of cattle and flock. In short, the parashah ends	todo dízimo de gado e rebanho. Em resumo, a parashá termina
+89	and the book of Vayikra ends in a reality that seemingly	e o livro de Vayikrá termina numa realidade que, aparentemente,
+90	is not connected to what we saw in the previous part: a person	não tem ligação com o que vimos na parte anterior: uma pessoa
+91	who volunteers, who brings a kind of donation to the Beit HaMikdash, whether	que se oferece, que traz uma espécie de contribuição ao Beit HaMikdash, seja
+92	arachin, or terumah and maaser.	arachin, ou terumá e maaser.
+93	And so the book ends: "These are the commandments that Adonai commanded	E assim termina o livro: "Estes são os mandamentos que Adonai ordenou
+94	Moshe for the children of Israel at Mount Sinai." In fact,	a Moshe para os filhos de Israel no monte Sinai." Na verdade,
+95	the whole book of Vayikra was said in one place. The idea	todo o livro de Vayikrá foi dito num só lugar. A ideia
+96	is that the people of Israel, in Shemot, left Egypt,	é que o povo de Israel, em Shemot, saiu do Egito,
+97	stood at the foot of Mount Sinai, received the Ten Commandments,	ficou ao pé do monte Sinai, recebeu os Dez Mandamentos,
+98	and then was basically there and heard the book of Vayikra,	e então ficou ali e ouviu o livro de Vayikrá,
+99	and now, as mentioned, from Parashat Bamidbar, next Shabbat, we	e agora, como dito, a partir da Parashat Bamidbar, no próximo Shabat,
+100	begin to move, Bamidbar, also not	começamos a nos mover, em Bamidbar, também não
+101	too much moving, but it is already something a bit	muito movimento, mas já é algo um pouco
+102	more dynamic. Okay, so how do we understand the whole	mais dinâmico. Bem, então como entendemos toda a
+103	connection between the different topics of Parashat Bechukotai,	conexão entre os diferentes assuntos da Parashat Bechukotai,
+104	why is it the parashah that closes	por que é a parashá que encerra
+105	the book, and how are these things related to our times? The keyword,	o livro, e como essas coisas se relacionam com os nossos dias? A palavra-chave,
+106	as every time, we explain: it is the name of	como toda vez, explicamos: é o nome da
+107	the parashah. Just as the division of the parashah is not random,	parashá. Assim como a divisão da parashá não é casual,
+108	and the fact that the people of Israel decided the parashiyot are divided	e o fato de o povo de Israel ter decidido que as parashiot se dividem
+109	in this way has inner meaning, so too the name	dessa maneira tem um significado interior, assim também o nome
+110	that was accepted in Israel for each parashah. It is not clear, by the way,	que foi adotado em Israel para cada parashá. Não é claro, aliás,
+111	who gave the names, I don't know, it is something	quem deu os nomes, não sei, é algo
+112	that evolved over the years. Usually it is after	que foi se formando ao longo dos anos. Em geral é pela
+113	the first unique word in the first verse,	primeira palavra característica do primeiro versículo,
+114	but it is not a coincidence, like all the things accepted	mas não é coincidência, como todas as coisas adotadas
+115	in Israel. So the keyword here is chok. "If	em Israel. Então a palavra-chave aqui é chok. "Se
+116	you walk in My chukim." I titled this class	andardes nos Meus chukim." Dei a esta aula o título
+117	"Respect	"Respeito
+118	for the Law." And here, as always, we will try to touch what is called	à Lei". E aqui, como sempre, vamos tentar tocar o que se chama
+119	the inner psychology of the person of our day.	a psicologia interior da pessoa dos nossos dias.
+120	A	Uma
+121	chok is	lei é
+122	something that is not natural.	algo que não é natural.
+123	There are things we volunteer to do	Há coisas que nós mesmos nos dispomos a fazer,
+124	on our own; there are things we feel some	há coisas que sentimos uma certa
+125	spontaneous desire to do. Usually we don't	vontade espontânea de fazer. Em geral não
+126	call that by the word chok. A chok is an external command.	chamamos isso de chok. Um chok é uma ordem externa.
+127	Right? I read somewhere the wording of the law;	Certo? Leio em algum lugar o texto da lei;
+128	there is a police force that enforces the law, it compels me.	há uma polícia que faz cumprir a lei, ela me obriga.
+129	The word chok comes from the word chakuk,	A palavra chok vem da palavra chakuk,
+130	carved in rock, something carved in rock. To carve in rock, the rock,	gravado na rocha, algo gravado na rocha. Gravar na rocha, a rocha,
+131	you understand, did not carve itself. It is not that suddenly the Ten Commandments,	entendem, não se gravou a si mesma. Não é que de repente os Dez Mandamentos,
+132	we'll talk about it soon,	já falaremos disso,
+133	were engraved in the stones by themselves. The Ten Commandments.	tenham se gravado sozinhos nas pedras. Os Dez Mandamentos.
+134	The Torah is engraved in our heart, but in the simple sense,	A Torá está gravada em nosso coração, mas no sentido simples,
+135	laws are something that someone with a hammer and chisel carved	leis são algo que alguém com martelo e cinzel gravou
+136	with great effort in the rock. But once he carved it,	com grande esforço na rocha. Mas uma vez que gravou,
+137	it is carved forever; it is something that cannot be broken.	está gravado para sempre; é algo que não se pode quebrar.
+138	As mentioned, we really don't like things that are imposed	Como dito, nós não gostamos nada de coisas que são impostas
+139	on us	a nós
+140	from outside.	de fora.
+141	That is why there is a very important passage by Rav Kook in Maamarei	Por isso há uma passagem muito importante do Rav Kook em Maamarei
+142	HaRaiah, an essay called Nechamat Yisrael; you are invited to study	HaRaiah, um ensaio chamado Nechamat Yisrael; vocês estão convidados a estudá-lo
+143	it in your free time. It includes several	no tempo livre. Ele inclui vários
+144	topics, but one of the topics that Rav Kook expands on there	assuntos, mas um dos assuntos que o Rav Kook desenvolve ali
+145	is	é
+146	that the idolatrous soul, or he calls it the idolatrous person,	que a alma idólatra, ou ele a chama de o homem idólatra,
+147	is repelled by	é avessa à
+148	lawfulness; it cannot stand laws. An idolatrous soul, as we have explained several times	ordem da lei; não suporta leis. Uma alma idólatra, como explicamos várias vezes
+149	during these classes, an idolatrous soul is not only	durante estas aulas, alma idólatra não são apenas
+150	people who bow to a statue. Today no one	pessoas que se prostram diante de uma estátua. Hoje ninguém
+151	bows to a statue, at the practical level.	se prostra diante de uma estátua, no plano prático.
+152	An idolatrous soul is a psychological	Uma alma idólatra é uma postura
+153	stance: a person for whom what exists in the world	psicológica: uma pessoa para quem o que existe no mundo
+154	is only the tangible world;	é apenas o mundo tangível;
+155	abstract ideas do not exist for him.	ideias abstratas não existem para ele.
+156	He is a coarse, crude person; he needs to feel the substance	É uma pessoa grosseira, rude; precisa sentir a substância
+157	of matter in his hands.	da matéria nas mãos.
+158	A sort of child. Children are like that: children need	Uma espécie de criança. Crianças são assim: crianças precisam
+159	a toy, they need something to feel, to hear,	de um brinquedo, precisam de algo para sentir, ouvir,
+160	to see. The idolatrous person is so coarse, so	ver. O homem idólatra é tão grosseiro, tão
+161	material, so physical that even Elokim,	material, tão físico que até Elokim,
+162	even Elokim, he needs a statue. You tell him,	até Elokim, ele precisa de uma estátua. Você diz a ele:
+163	Elokim is in heaven; what, where is heaven? He	Elokim está no céu; como assim, onde é o céu? Ele
+164	needs some figure he can	precisa de alguma imagem a que possa
+165	direct himself to. So thank HaShem, after 2000 years and more	se dirigir. Então, graças a HaShem, depois de 2000 anos e mais
+166	of Israel influencing the world, slowly the	de Israel influenciando o mundo, aos poucos as
+167	religions also began to take this out of man:	religiões também começaram a tirar isso do homem:
+168	at least for Elokim, do not look for a statue, but understand	pelo menos para Elokim, não procure uma estátua, mas entenda
+169	that there is something more abstract. But still it did not	que há algo mais abstrato. Mas ainda assim isso não
+170	disappear completely. The idolatrous soul is	desapareceu por completo. A alma idólatra é
+171	what we call materialism. A person feels a sense of	o que chamamos de materialismo. A pessoa sente um encanto
+172	magic from this world; he sees something colorful	com este mundo; vê algo colorido
+173	with music, the whole idea of lust. A person	com música, toda a ideia da cobiça. A pessoa
+174	sees some food, something immodest, the	vê alguma comida, algo imodesto, os
+175	senses dazzle him. "You shall not go astray after	sentidos o deslumbram. "Não andareis após
+176	your hearts and after your eyes, after which you go astray."	os vossos corações e após os vossos olhos, atrás dos quais vos prostituís."
+177	One of the consequences of an idolatrous	Uma das consequências de uma pessoa
+178	person, who is very, very focused on what he has	idólatra, que está muito, muito concentrada no que tem
+179	in his hands, is that when you tell him	nas mãos, é que quando se diz a ele
+180	a law, when you tell him something whose immediate presence he does not feel:	uma lei, quando se diz a ele algo cuja presença imediata ele não sente:
+181	listen, it is forbidden to cross a red light. But now the road is	escute, é proibido atravessar no sinal vermelho. Mas agora a rua está
+182	empty. Right, that's the classic. I am now,	vazia. Certo, é o clássico. Eu estou agora,
+183	at night, an empty road; cross at a red light, or	à noite, numa rua vazia; atravesso no vermelho, ou
+184	let's go for something more: the road is not empty, but	vamos a algo mais: a rua não está vazia, mas
+185	I have to cross to the other side now. What stands	eu preciso atravessar agora para o outro lado. O que está
+186	behind, again, this stance in which a person crosses at a red	por trás, de novo, dessa postura em que a pessoa atravessa no vermelho
+187	light when the road is empty, or feels he must,	quando a rua está vazia, ou sente que precisa,
+188	he has a need?	ele tem uma necessidade?
+189	The abstract law is that a red light	A lei abstrata é que o sinal vermelho
+190	comes to organize traffic, because there are many people	vem organizar o trânsito, porque há muitas pessoas
+191	and wide roads, you can't have everyone	e ruas largas, não dá para cada um
+192	go whenever he wants. That is something abstract.	ir quando quiser. Isso é algo abstrato.
+193	As if, right now in my eyes, I don't see	Como se, agora, nos meus olhos, eu não veja
+194	a car; right now, in my need, I have to cross.	um carro; agora, na minha necessidade, eu preciso atravessar.
+195	An idolatrous person is a person who lives the here and now; everything	O idólatra é uma pessoa que vive o aqui e agora; tudo
+196	connected to abstract thinking is not in his head,	o que tem a ver com pensamento abstrato não está na sua cabeça,
+197	and so, naturally, he belittles	e então, naturalmente, ele despreza
+198	laws. A child who is in a test, right, the law is	as leis. Uma criança numa prova, certo, a lei é
+199	that it is forbidden to copy; it is theft; copying is something that is not	que é proibido colar; é roubo; colar é algo que não é
+200	honest. Again, a child is a little idolater	honesto. De novo, a criança é um pequeno idólatra
+201	in terms of his inner feeling; he is like, what,	em termos do seu sentimento interior; é como se dissesse: o quê,
+202	why is it forbidden to copy? Because now you have to explain to him:	por que é proibido colar? Porque agora é preciso explicar a ele:
+203	if you copy, you get used to receiving	se você cola, você se acostuma a receber
+204	a grade without knowing the material, and then it will make you used	nota sem saber a matéria, e isso vai te acostumar
+205	to doing that next time. The child says, listen,	a fazer isso da próxima vez. A criança diz: escute,
+206	it's already over, I already studied for the test, what difference	já passou, eu já estudei para a prova, que diferença
+207	does it make if I copy or don't copy? I won't study for this test again.	faz se eu colar ou não colar? Não vou estudar de novo para esta prova.
+208	Right, but if you copy you get used to a certain pattern that will	Certo, mas se você cola, você se acostuma a um certo padrão que vai
+209	harm you academically, or not even you, but you break	te prejudicar academicamente, ou nem você, mas você quebra
+210	the system here, because the moment	o sistema aqui, porque no momento
+211	it becomes accepted that one can copy, people will not	em que se aceita que se pode colar, as pessoas não
+212	study, and in the long run this creates a society of	vão estudar, e a longo prazo isso cria uma sociedade de
+213	people who do not know their profession. That is	pessoas que não conhecem a sua profissão. Isso é
+214	something that, for the child, is like "in another 2000 years the earth	algo que, para a criança, é como "daqui a 2000 anos a Terra
+215	will explode," who cares, my grandmother. I need now	vai explodir", e daí, minha avó. Eu preciso agora
+216	the A; I need now the gift	da nota máxima; eu preciso agora do presente
+217	from my parents; I am now afraid of my father who will yell at me	dos meus pais; agora tenho medo do meu pai, que vai gritar comigo
+218	if I get a 60.	se eu tirar 60.
+219	You understand, these are not	Entende, não são
+220	forces. And therefore, by the way, small children, all those who do	forças. E por isso, aliás, crianças pequenas, todos esses que fazem
+221	honor tests with small children, it doesn't work. At a	testes de honra com crianças pequenas, não funciona. Em idade
+222	slightly older age there is already some kind of it, but	um pouco maior já existe algo disso, mas
+223	at a young age, and in most people it continues until the end of	em idade pequena, e na maioria das pessoas isso continua até o fim da
+224	their lives, even adults, if there is no policeman, shoter,	vida, mesmo adultos, se não há um policial, shoter,
+225	which comes from the word shot, whip, if there is no external	que vem da palavra shot, chicote, se não há alguma coerção
+226	coercion somewhere,	externa em algum lugar,
+227	a person does not stand up to the law, not because he is a bad person.	a pessoa não se submete à lei, não porque seja uma pessoa má.
+228	Why are people lawbreakers? Why do people violate the law?	Por que as pessoas são infratoras? Por que as pessoas violam a lei?
+229	Not because they are bad	Não porque sejam más,
+230	but because it is a stance of this kind: the law is something	mas porque é uma postura assim: a lei é algo
+231	abstract; my need, or the situation I am in right now, is very tangible. The more	abstrato; a minha necessidade, ou a situação em que estou agora, é muito concreta. Quanto mais
+232	a person is materialistic and coarse, the more he violates	a pessoa é materialista e grosseira, mais ela viola
+233	the law; the more a person is spiritual and abstract,	a lei; quanto mais a pessoa é espiritual e abstrata,
+234	with more delay of gratification, with more self-control, he respects	com mais adiamento de satisfações, com mais autocontrole, ela respeita
+235	the law. Here we bring in another important word.	a lei. Aqui trazemos outra palavra importante.
+236	We talked about the word chok; another word: to honor the law.	Falamos da palavra chok; outra palavra: honrar a lei.
+237	Notice, many times together, right? When they want to say that one must keep the law, they use	Reparem, muitas vezes juntas, certo? Quando querem dizer que se deve cumprir a lei, usam
+238	this term: honor the law. Why? What is kavod?	este termo: honre a lei. Por quê? O que é kavod?
+239	Kavod. Many people understand kavod as	Kavod. Muitas pessoas entendem kavod como
+240	a kind of attitude of esteem; I esteem something.	uma espécie de atitude de apreço; eu aprecio algo.
+241	Why do I esteem something? In the childish,	Por que aprecio algo? Na abordagem infantil,
+242	idolatrous approach, because that thing brings me benefit. You,	idólatra, porque essa coisa me traz proveito. Você,
+243	I don't know, bring me food, so I honor	não sei, me traz comida, então eu te honro.
+244	you. You, I don't know, I need you	Você, não sei, eu preciso de você
+245	for other reasons, I honor you. What is the corollary?	por outras razões, eu te honro. Qual é o corolário?
+246	If I don't need you, if you don't bring me	Se eu não preciso de você, se você não me traz
+247	benefit, I have nothing to honor you for. I belittle you.	proveito, não tenho por que te honrar. Eu te desprezo.
+248	The word zilzul in Hebrew is a small, unimportant leaf	A palavra zilzul em hebraico é uma folhinha pequena e sem importância
+249	that appears in the Tanakh. There was once a song,	que aparece no Tanakh. Houve uma vez uma canção,
+250	"a zalzal fell." Ask people who studied	"caiu um zalzal". Perguntem a quem estudou
+251	for the matriculation exams in language. Whenever I mention this word	para o exame final em língua. Sempre que menciono esta palavra
+252	I see from the faces in the audience what ages I have.	vejo pelos rostos na plateia que idades eu tenho.
+253	You know, 30 years ago people would say, "yes, yes, that was in the matriculation,	Sabem, há 30 anos as pessoas diziam: "sim, sim, isso caía na prova,
+254	that we copied from the Tanakh, that was zilzul." Today	que copiávamos do Tanakh, isso era zilzul." Hoje
+255	nobody knows. Zilzul is a small leaf, that is,	ninguém sabe. Zilzul é uma folhinha pequena, isto é,
+256	to make a thing	tornar uma coisa
+257	small. What do I get out of it? What do I receive?	pequena. O que eu ganho com isso? O que eu recebo?
+258	Again, it is the same view: a person who is a hedonist,	De novo, é a mesma visão: uma pessoa que é hedonista,
+259	materialistic,	materialista,
+260	idolatrous, honors only things from which he receives	idólatra, só honra coisas das quais recebe
+261	benefit, something I can feel. Abstract things:	proveito, algo que eu possa sentir. Coisas abstratas:
+262	kavod in the Jewish meaning is like chok. Kavod comes from the root kaved,	kavod no sentido judaico é como chok. Kavod vem da raiz kaved,
+263	kaved is weight. When I say I honor something, I honor someone,	kaved é peso. Quando digo que honro algo, que honro alguém,
+264	I am saying this thing has weight in the world of	estou dizendo que essa coisa tem peso no mundo do
+265	the Holy One, Blessed be He, not because it brings me benefit.	Santo, Bendito Seja, não porque me traz proveito.
+266	There is a law here, and the law is what now allows	Há aqui uma lei, e a lei é o que agora permite
+267	people to drive on roads without	que as pessoas dirijam nas estradas sem
+268	accidents, even if I personally right now do not	acidentes, mesmo que eu pessoalmente agora não
+269	receive benefit from this law.	receba proveito dessa lei.
+270	Moreover, even if sometimes this law bothers	Mais ainda, mesmo que às vezes essa lei me
+271	me,	incomode,
+272	I still honor the law.	eu continuo honrando a lei.
+273	That is called a good citizen: he honors the law. I	Isso se chama um bom cidadão: ele honra a lei.
+274	will now get into the practical level; I did not say that from the	Vou entrar agora no plano prático; não disse que do ponto de vista
+275	halakhic standpoint one must stand at a red light at night.	haláchico é preciso parar no sinal vermelho à noite.
+276	That is not the point. I am speaking now about a principled approach:	Esse não é o ponto. Falo agora de uma postura de princípio:
+277	does a person show respect when he sees, for example,	a pessoa mostra respeito quando vê, por exemplo,
+278	a policeman, when he sees a person with	um policial, quando vê uma pessoa com
+279	authority? Again, what is authority? Authority is someone	autoridade? De novo, o que é autoridade? Autoridade é alguém
+280	external to me. You understand? It is not I who decide what to do	externo a mim. Entende? Não sou eu que decido o que fazer
+281	here; there is someone else here with authority, that is,	aqui; há aqui outra pessoa com autoridade, isto é,
+282	he has a broader view, he is a representative of a wider system	ela tem uma visão mais ampla, é representante de um sistema mais amplo
+283	that tells me what to do. People who are	que me diz o que fazer. Pessoas que são
+284	egoists, hedonists, get angry at this: no one	egoístas, hedonistas, se irritam com isso: ninguém
+285	will tell me what to do. That is arrogance, a mixture.	vai me dizer o que fazer. Isso é arrogância, uma mistura.
+286	It is called, get to know a Greek word that became	Chama-se, conheçam uma palavra grega que se tornou
+287	a concept: anarchism.	um conceito: anarquismo.
+288	Have you heard this concept?	Vocês já ouviram esse conceito?
+289	Anarchists. Anarchism is from Greek: an-, no,	Anarquistas. Anarquismo vem do grego: an-, sem,
+290	archon, in Greek, is someone with authority, an officeholder.	arconte, em grego, é alguém com autoridade, um titular de cargo.
+291	In Greece it was a kind of senior official.	Na Grécia era uma espécie de alto funcionário.
+292	Anarchism is whoever says: I don't want officials,	Anarquismo é quem diz: não quero funcionários,
+293	I don't want authority, I don't want commanders, I don't want a government.	não quero autoridade, não quero comandantes, não quero governo.
+294	I	Eu
+295	am the only one who tells me what to do. In the depth of the matter this is	sou o único que me diz o que fazer. No fundo da questão, esta é
+296	our parashah. Where does this come from? A person who does not want	a nossa parashá. De onde isso vem? Uma pessoa que não quer
+297	authority, a person who belittles the law, a person who is an anarchist	autoridade, uma pessoa que despreza a lei, uma pessoa que é anarquista
+298	in his soul, because he does not want	na sua alma, porque não quer
+299	Elokim. What is	Elokim. O que é
+300	Elokim? "If you walk in My statutes and keep My commandments	Elokim? "Se andardes nos Meus estatutos e guardardes os Meus mandamentos
+301	and do them." Because it is someone external	e os cumprirdes." Porque é alguém externo
+302	to us. True, He appears within us and He is our life and the length of our days,	a nós. É verdade, Ele aparece dentro de nós e é a nossa vida e a extensão dos nossos dias,
+303	but in terms of my everyday feeling,	mas em termos do meu sentimento do dia a dia,
+304	I don't feel that if I eat meat	não sinto que, se como carne
+305	with milk, I feel the impurity in my heart. I eat	com leite, sinto a impureza no meu coração. Eu como
+306	specifically a cheeseburger; it seems that in terms	justamente um cheeseburger; parece que em termos
+307	of my senses, my pleasures, it's great.	dos meus sentidos, dos meus prazeres, é ótimo.
+308	To understand that there is a source of authority above me:	Entender que há uma fonte de autoridade acima de mim:
+309	a chok, a mitzvah, also a command. There are things above me	um chok, uma mitsvá, também uma ordem. Há coisas acima de mim
+310	that, true, I personally do not feel them,	que, é verdade, eu pessoalmente não sinto,
+311	and I even go along with you. Perhaps there is even now	e até acompanho vocês. Talvez haja até agora
+312	some mitzvah that I personally wouldn't bother to break.	alguma mitsvá que eu, pessoalmente, não teria vontade de quebrar.
+313	Okay, it doesn't matter. You haven't understood	Tudo bem, não importa. Você não entendeu
+314	anything. The mitzvot, the laws, are not only to serve you,	nada. As mitsvot, as leis, não são só para servir a você,
+315	not you; they also want from you, according to Halakhah.	não a você; elas também querem de você, segundo a Halachá.
+316	If, for example, a person doesn't know, what do I say, why is there	Se, por exemplo, uma pessoa não sabe, o que eu digo, por que existe
+317	a mitzvah of tzitzit? The mitzvah of tzitzit is "so that you remember and do all My	a mitsvá de tsitsit? A mitsvá de tsitsit é "para que vos lembreis e cumprais todos os Meus
+318	commandments." I remember the mitzvot even without tzitzit. More than that,	mandamentos." Eu me lembro das mitsvot mesmo sem tsitsit. Mais que isso,
+319	I walk with a Garmin watch. How, Garmin, sorry, as you	eu ando com um relógio Garmin. Como assim, Garmin, desculpem, como vocês
+320	can see, I don't have a Garmin watch; since my bar mitzvah	podem ver, eu não tenho um relógio Garmin; desde o meu bar mitsvá
+321	I stayed with my Casio. A Garmin that	fiquei com o meu Casio. Um Garmin que
+322	gives me reminders of the mitzvot.	me dá lembretes das mitsvot.
+323	Again, how does it work, the head of that	De novo, como funciona a cabeça daquele
+324	one: the chok, the mitzvah, is something external, it doesn't	sujeito: o chok, a mitsvá, é algo externo, não
+325	fit in my intellect, it doesn't fit	se encaixa no meu intelecto, não se encaixa
+326	in my emotion. That is called kefirah, heresy; understand:	na minha emoção. Isso se chama kefirá, heresia; entendam:
+327	no Elokim, no authority. This is the deep root of anarchism.	sem Elokim, sem autoridade. Esta é a raiz profunda do anarquismo.
+328	Anarchism is a phenomenon that existed throughout	O anarquismo é um fenômeno que existiu ao longo de toda
+329	human history. In every society there was always	a história humana. Em toda sociedade sempre houve
+330	a group that tries to break the laws; you don't understand,	um grupo que tenta quebrar as leis; vocês não entendem,
+331	everyone wants to change the state,	cada um quer mudar o Estado,
+332	he wants to change the system in his direction, but in every period	quer mudar o sistema na sua direção, mas em cada época
+333	there are people who come and say, if the system doesn't work the way I want,	há pessoas que vêm e dizem: se o sistema não funciona como eu quero,
+334	if my statue is not the only one here, then let's go, I break	se a minha estátua não é a única aqui, então vamos lá, eu quebro
+335	the whole system. Let's go, balagan, that too	todo o sistema. Vamos lá, bagunça, isso também
+336	is a word from Arabic; its meaning is disorder	é uma palavra do árabe; seu significado é desordem
+337	and mess. It existed throughout history, but in the period of	e confusão. Existiu ao longo de toda a história, mas na época do
+338	modern anarchism, as it's called, it began in the 19th century	anarquismo moderno, como se chama, ele começou no século XIX
+339	in what are called	nos chamados
+340	socialist movements. The socialism movements,	movimentos socialistas. Os movimentos do socialismo,
+341	in their first incarnations, even before Karl Marx	nas suas primeiras encarnações, ainda antes de Karl Marx
+342	and Engels, it was even earlier, there were already anarchists	e Engels, foi ainda antes, já havia anarquistas
+343	in society, voices saying that society must be dismantled completely.	na sociedade, vozes dizendo que a sociedade precisa ser desmontada por completo.
+344	Again, it was a hard period, you understand, the 19th century,	De novo, foi um período difícil, entendem, o século XIX,
+345	most of the world was ruled by kings, a monarchic period,	a maior parte do mundo era governada por reis, um período monárquico,
+346	tyrannical, dictatorial, people were not well in it. So to come now and say we need to make	tirânico, ditatorial, as pessoas não estavam bem nele. Então vir agora e dizer que é preciso fazer
+347	change, slowly, those were the dreams then of anarchy.	mudança, aos poucos, esses eram então os sonhos de anarquia.
+348	Anarchy means we blow up the entire system here	Anarquia quer dizer que explodimos aqui todo o sistema
+349	if what is right does not happen. We need workers' rights;	se não acontecer o que é certo. Precisamos de direitos dos trabalhadores;
+350	if they don't give us that, then better that there be no	se não nos dão isso, então é melhor que não haja
+351	state. This is the root of the socialist revolutions;	Estado. Esta é a raiz das revoluções socialistas;
+352	their root is in anarchy.	a sua raiz está na anarquia.
+353	Of course, after those	Claro, depois que esses
+354	anarchists took over the centers of power, they of course	anarquistas tomaram os centros de poder, eles, claro,
+355	became a dictatorship. You understand, this is part	tornaram-se uma ditadura. Entendem, isso faz parte
+356	of it. After the revolutionary, what is a revolutionary?	disso. Depois do revolucionário, o que é um revolucionário?
+357	A revolutionary is one who says, let's go, I smash everything.	Revolucionário é quem diz: vamos lá, eu destruo tudo.
+358	Okay, so now you've become the leader; what do you do now?	Certo, então agora você virou o líder; o que faz agora?
+359	Exactly the opposite: now all of you will be mine,	Exatamente o contrário: agora todos vocês serão meus,
+360	that's how it is with me. That is also the psychology of	assim é comigo. Essa é também a psicologia da
+361	the Stalinist dictatorship and the whole revolution that became...	ditadura stalinista e de toda a revolução que se tornou...
+362	Anarchists are people who have no	Anarquistas são pessoas que não têm
+363	Elokim. It is not by chance that anarchism connected to	Elokim. Não é por acaso que o anarquismo se ligou
+364	the secular direction, always. Even in the religious world there are	à direção secular, sempre. Mesmo no mundo religioso há
+365	anarchists. There are, unpleasant to say, disturbed people	anarquistas. Há, é desagradável dizer, desequilibrados
+366	everywhere, in a whispered parenthesis, along with the ones on the	em toda parte, em parêntese sussurrado, junto com os da
+367	internet; also in the Torah world from time to time	internet; também no mundo da Torá, de vez em quando,
+368	there are such things, there is someone who is sure he is smarter than everyone,	há coisas assim, há alguém que tem certeza de que é mais sábio que todos,
+369	this and that, there is. But there is something in the religious framework	isso e aquilo, há. Mas há algo no quadro religioso
+370	in its essence that says: I believe in a source of	na sua essência que diz: eu acredito numa fonte de
+371	external authority. "If you walk in My statutes." You understand? So since	autoridade externa. "Se andardes nos Meus estatutos." Entendem? Então, já que
+372	this is so, anarchism exists within a kind of limits. Let me give you	é assim, o anarquismo existe dentro de certos limites. Deixem-me dar a vocês
+373	another point: on the national side, the so-called right	mais um ponto: no lado nacional, o chamado lado direito
+374	of the political map, here too there is no lack of disturbed people. There were	do mapa político, aqui também não faltam desequilibrados. Houve
+375	nationalist gangs that also wanted to blow up everything. But still, since there is some framework they are committed to,	bandos nacionalistas que também queriam explodir tudo. Mas ainda assim, como há um quadro ao qual estão comprometidos,
+376	a state, which is something national, external to me, that is bigger,	um Estado, que é algo nacional, externo a mim, que é maior,
+377	that is the basic psychological stance of a rightist,	essa é a postura psíquica básica de um direitista,
+378	a republican,	de um republicano,
+379	someone for whom the individual is not the center of the matter, but the center	alguém para quem o indivíduo não é o centro da questão, mas o centro
+380	of the matter is society, the collective. So usually even	da questão é a sociedade, o coletivo. Então, em geral, até
+381	anarchism, even the rampaging, is within some... I still want a state to exist.	o anarquismo, até a fúria, está dentro de algo... eu ainda quero que o Estado exista.
+382	The left side of the political map, the so-called liberal,	O lado esquerdo do mapa político, o chamado liberal,
+383	liberal is liberty, freedom, is a side that says: what	liberal vem de liberdade, é um lado que diz: o que
+384	interests me is only the individual. Okay. Now,	me interessa é só o indivíduo. Certo. Agora,
+385	since I have no Elokim and I have no state,	como não tenho Elokim e não tenho Estado,
+386	everything now	tudo agora
+387	runs wild. This is the psychological root of everything we see	enlouquece. Esta é a raiz psíquica de tudo o que vemos
+388	today, as you have these people who rampage in the streets. Okay,	hoje, como esses que vocês têm, que se descontrolam nas ruas. Certo,
+389	Kaplan, okay? There's no problem saying their names, no need to be afraid.	Kaplan, certo? Não há problema em dizer os nomes deles, não é preciso ter medo.
+390	Anarchists are also very cowardly people and they count on people	Anarquistas são também pessoas muito covardes e contam com que as pessoas
+391	not daring to come out against them, because it is part	não ousem sair contra eles, porque isso faz parte
+392	of the arsenal. The psychological root of those who rampaged	do arsenal. A raiz psicológica dos que se descontrolaram
+393	in the streets during the Corona period, the same	nas ruas durante a época da Corona, a mesma
+394	thing; and afterwards with the judicial reform, and afterwards	coisa; e depois com a reforma judicial, e depois
+395	with the hostages and the war, putting things up in the streets,	com os reféns e a guerra, pendurando coisas nas ruas,
+396	they have one common denominator: Bibi, it always remains. You can't say	eles têm um denominador comum: Bibi, isso sempre permanece. Não se pode dizer
+397	that they are not consistent in their principle. Very simply:	que não sejam coerentes no seu princípio. Muito simples:
+398	we are willing to accept a state system on condition that we	estamos dispostos a aceitar um sistema de Estado com a condição de que nós
+399	rule. We are willing to serve in the army, they also became senior	mandemos. Estamos dispostos a servir no exército, eles também se tornaram oficiais
+400	officers, as long as we rule. If the system now is a law,	superiores, desde que nós mandemos. Se o sistema agora é uma lei,
+401	for us that means an external	para nós isso significa uma lei
+402	law; we refuse. Either we rule or anarchy, then there will not	externa; recusamos. Ou mandamos nós ou anarquia, então não
+403	be a state. This is the psychological root of	haverá Estado. Esta é a raiz psíquica da
+404	psychological,	desordem psicológica,
+405	spiritual disturbance. It is the greatest danger to humanity in general	espiritual. É o maior perigo para a humanidade em geral
+406	and to the State of Israel in particular. Again, a person having this or that	e para o Estado de Israel em particular. De novo, uma pessoa ter esta ou aquela
+407	opinion about a regime, a political opinion, a person thinking	opinião sobre um regime, uma opinião política, uma pessoa achar
+408	that the security concept should be like this or like that; he has a personal problem with a leader,	que a doutrina de segurança deve ser assim ou assado; ter um problema pessoal com um líder,
+409	that is legitimate. But when you see people who are all the time	isso é legítimo. Mas quando você vê pessoas que estão o tempo todo
+410	rampaging, during the whole Corona, against whom did you go out?	em fúria, durante toda a Corona, contra quem vocês saíram?
+411	Against the virus? Shame, shame, who...	Contra o vírus? Vergonha, vergonha, quem...
+412	what do you want exactly? What do you want? Say, you	o que você quer exatamente? O que você quer? Digamos que você
+413	think that you, as an epidemiologist, an expert, right, everyone,	acha que você, como epidemiologista, especialista, certo, cada um,
+414	that is also a very anarchist trait: they	isso também é uma característica muito anarquista: eles
+415	understand everything. You understand, they understand	entendem de tudo. Entendem, eles entendem
+416	epidemiology, medicine, they understand security,	de epidemiologia, de medicina, entendem de segurança,
+417	they understand economics, they understand every field. That	entendem de economia, entendem de todas as áreas. Isso
+418	is, I tell you, you have to know it: every field	é, digo a vocês, é preciso conhecer isso: toda área
+419	in the world has its disturbed one. Among doctors too there is	do mundo tem o seu desequilibrado. Entre os médicos também há
+420	that someone who, when all the doctors say something,	aquele alguém que, quando todos os médicos dizem algo,
+421	…	…
+422	…	…
+423	…	…
+424	…	…
+425	…	…
+426	…	…
+427	…	…
+428	…	…
+429	…	…
+430	…	…
+431	…	…
+432	…	…
+433	…	…
+434	…	…
+435	…	…
+436	…	…
+437	…	…
+438	…	…
+439	…	…
+440	…	…
+441	…	…
+442	…	…
+443	…	…
+444	…	…
+445	…	…
+446	…	…
+447	…	…
+448	…	…
+449	…	…
