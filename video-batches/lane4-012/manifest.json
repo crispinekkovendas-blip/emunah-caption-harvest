@@ -1,0 +1,42 @@
+{
+ "name": "lane4-012",
+ "lane": 4,
+ "created": "2026-10-14T21:24:01.909Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "LcV3lD7HQMM",
+   "title": "Os três passos de \"Behaalotchá\": a consciência de si",
+   "lines": 365,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "huE_N4AF5RU",
+   "title": "Parashá Shemot: como saber qual é o rabino certo para você",
+   "lines": 32,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vPn1UUfleV0",
+   "title": "Parashat Bo: a porta de volta que não se fecha",
+   "lines": 46,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "XJFIaRgsI6I",
+   "title": "Parashá Vaetchanan: conter as estações da vida",
+   "lines": 16,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "LcV3lD7HQMM.p0",
+  "huE_N4AF5RU.p0",
+  "vPn1UUfleV0.p0",
+  "XJFIaRgsI6I.p0"
+ ]
+}
