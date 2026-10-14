@@ -1,0 +1,213 @@
+{
+ "name": "lane5-009",
+ "lane": 5,
+ "created": "2026-10-14T08:09:46.822Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "azRLSg3W5do",
+   "title": "Lech Lecha: a história de Avraham para crianças",
+   "lines": 112,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "CELy4EO9NTU",
+   "title": "As pequenas mitzvot: não conversar durante a refeição",
+   "lines": 261,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qL8Xh91KORI",
+   "title": "Mais doce que o mel: a doçura da Torá e os Bikurim",
+   "lines": 302,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "dAt5EQbzK0g",
+   "title": "Malchuyot, Zichronot e Shofarot: fé que não reprime a dor",
+   "lines": 870,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "YintS1aQrj0",
+   "title": "A Haftará de Beha'alotcha: Zecharia e o Candelabro",
+   "lines": 88,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_Uxg-XzKwPY",
+   "title": "Haftará de Korach: o discurso de Shmuel ao povo",
+   "lines": 109,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "6cKqXDxWi_U",
+   "title": "Shabat Chazak: força na semana mais fraca do ano",
+   "lines": 568,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ypeII5ZI3ho",
+   "title": "Parashá Bô: avisos, Tikun Shovevim e tefilin",
+   "lines": 391,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HoG-Q4zi3pY",
+   "title": "De quem é a Terra? A mensagem da guerra em Bereshit",
+   "lines": 350,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Q6lh_ogwtwo",
+   "title": "Leis de Deus, leis da natureza e o 'sejamos como as nações'",
+   "lines": 411,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "LqG-CnUFKY0",
+   "title": "Pinchas: viver a Gueulá no aqui e agora",
+   "lines": 520,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "IRa_kmPgzHM",
+   "title": "Parashá Bamidbar: cada pessoa tem um papel",
+   "lines": 409,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "D8Kmtb_By-I",
+   "title": "Haftarah de Emor: os cohanim filhos de Tzadok",
+   "lines": 96,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Sfh6ncq4HYM",
+   "title": "Reclamar ou agir: a queixa do povo e a lição da voluntária",
+   "lines": 90,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "QmwEzAVqLbo",
+   "title": "A Shabat, chave de toda a abundância",
+   "lines": 122,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "0BeSI_B-Nd0",
+   "title": "O Kaddish e a exaltação do nome de Hashem",
+   "lines": 78,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "aKR8ASmrbZc",
+   "title": "A singularidade de cada um na Torá",
+   "lines": 40,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ButSPX5r0hU",
+   "title": "A Haftará de Re'eh: consolo, justiça e o convite \"todo sedento, venha",
+   "lines": 126,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "sfqZX_Gs0Kg",
+   "title": "O amor das filhas de Tzelofchad pela Terra de Israel",
+   "lines": 122,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "nJiC1cR97kQ",
+   "title": "Bechukotai: o esforço na Torá e a bênção",
+   "lines": 152,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "kViNKdXKKZQ",
+   "title": "Bereshit: o plural \"Naasê Adam\" e a humildade",
+   "lines": 126,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_-Syj0BvBjw",
+   "title": "Cânticos e Bênção do Kiddush de Shabat",
+   "lines": 33,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "yCBiHZ7w8WA",
+   "title": "Purim, Pessach e a dança que anula o orgulho",
+   "lines": 388,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "BiqeV1FEW38",
+   "title": "Animais permitidos, proibidos e a pureza da alma",
+   "lines": 270,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_-GMHjLuNUA",
+   "title": "A força de ser o primeiro: Nachshon e o Yam Suf",
+   "lines": 60,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "azRLSg3W5do.p0",
+  "CELy4EO9NTU.p0",
+  "qL8Xh91KORI.p0",
+  "dAt5EQbzK0g.p0",
+  "dAt5EQbzK0g.p1",
+  "YintS1aQrj0.p0",
+  "_Uxg-XzKwPY.p0",
+  "6cKqXDxWi_U.p0",
+  "6cKqXDxWi_U.p1",
+  "ypeII5ZI3ho.p0",
+  "HoG-Q4zi3pY.p0",
+  "Q6lh_ogwtwo.p0",
+  "LqG-CnUFKY0.p0",
+  "LqG-CnUFKY0.p1",
+  "IRa_kmPgzHM.p0",
+  "D8Kmtb_By-I.p0",
+  "Sfh6ncq4HYM.p0",
+  "QmwEzAVqLbo.p0",
+  "0BeSI_B-Nd0.p0",
+  "aKR8ASmrbZc.p0",
+  "ButSPX5r0hU.p0",
+  "sfqZX_Gs0Kg.p0",
+  "nJiC1cR97kQ.p0",
+  "kViNKdXKKZQ.p0",
+  "_-Syj0BvBjw.p0",
+  "yCBiHZ7w8WA.p0",
+  "BiqeV1FEW38.p0",
+  "_-GMHjLuNUA.p0"
+ ]
+}

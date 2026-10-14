@@ -1,0 +1,88 @@
+videoId: 0BeSI_B-Nd0
+parte 1 de 1 · traduzir as linhas 0 a 77 (78 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O Kaddish e a exaltação do nome de Hashem
+RESUMO: Esta aula de Torá apresenta a recitação do Kaddish, uma oração central no judaísmo que exalta o nome de Hashem e expressa a esperança pela vinda do Messias e pela redenção. A oração é dividida em várias partes, começando com a glorificação do nome de Hashem e o desejo de que Seu reino seja estabelecido rapidamente. Em seguida, há uma resposta congregacional que bendiz o nome de Hashem eternamente. A oração continua com a exaltação do nome de Hashem acima de todas as bênçãos e louvores. Finalmente, o Kaddish inclui pedidos de paz e vida para todo o povo de Israel, culminando na afirmação de que Aquele que faz a paz nas alturas também a fará sobre nós e sobre todo Israel.
+MOMENTOS: 00:01 Início da recitação do Kaddish · 00:08 Desejo de que Hashem estabeleça Seu reino · 00:12 Pedido pela vinda do Messias · 00:20 Resposta "Amén" congregacional · 00:40 Bendição do nome de Hashem · 01:13 Exaltação do nome de Hashem acima de todas as bênçãos · 01:38 Pedido para que nossas orações sejam aceitas · 02:01 Súplica por paz e vida para Israel · 02:18 Aquele que faz a paz nas alturas fará a paz sobre nós · 02:34 Segunda recitação do Kaddish · 03:48 Segundo pedido de paz e vida para Israel · 03:57 Segunda afirmação da paz de Hashem
+FONTES CITADAS: 00:01 Kaddish (Sidur), Yitgadal veYitkadash · 00:08 Kaddish (Sidur), veYamlich malchutei · 00:14 Kaddish (Sidur), beChayeichon uvYomeichon · 00:40 Kaddish (Sidur), Yehe Shmei Rabba · 00:57 Kaddish (Sidur), Yitbarach veYishtabach · 01:13 Kaddish (Sidur), veYit-hadar veYitaleh veYit-halal · 01:38 Kaddish Shalem (Sidur), Yitkabal Tzlotana · 02:01 Kaddish (Sidur), Yehe Shlama Rabba · 02:18 Iyov 25:2 (texto do Kaddish, Oseh Shalom) · 02:34 Kaddish (Sidur), Yitgadal veYitkadash (repetição) · 03:38 Kaddish Shalem (Sidur), Yitkabal Tzlotana (repetição)
+
+LINHAS A TRADUZIR:
+0|00:01|וְיִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא
+1|00:05|בְּעָלְמָא דִּי בְרָא כִרְעוּתֵהּ
+2|00:08|וְיַמְלִיךְ מַלְכוּתֵהּ
+3|00:10|וְיַצְמַח פֻּרְקָנֵהּ
+4|00:12|וִיקָרֵב מְשִׁיחֵהּ
+5|00:14|בְּחַיֵּיכוֹן וּבְיוֹמֵיכוֹן
+6|00:16|וּבְחַיֵּי דְכָל בֵּית יִשְׂרָאֵל
+7|00:18|בַּעֲגָלָא וּבִזְמַן קָרִיב
+8|00:20|וְאִמְרוּ אָמֵן
+9|00:21|אָמֵן
+10|00:40|יְהֵא שְׁמֵהּ רַבָּא מְבָרַךְ
+11|00:42|אָמֵן
+12|00:49|לְעָלַם וּלְעָלְמֵי עָלְמַיָּא
+13|00:50|אָמֵן
+14|00:57|יִתְבָּרַךְ
+15|00:59|הוּא
+16|01:00|וְיִשְׁתַּבַּח
+17|01:03|וְיִתְפָּאֵר וְיִתְרוֹמַם
+18|01:06|וְיִתְנַשֵּׂא
+19|01:07|אָמֵן
+20|01:13|וְיִתְהַדָּר וְיִתְעַלֶּה וְיִתְהַלָּל
+21|01:15|שְׁמֵהּ דְּקֻדְשָׁא בְּרִיךְ הוּא
+22|01:17|הוּא
+23|01:18|לְעֵלָּא לְעֵלָּא מִכָּל בִּרְכָתָא
+24|01:21|וְשִׁירָתָא תֻּשְׁבְּחָתָא וְנֶחֱמָתָא
+25|01:25|דַּאֲמִירָן בְּעָלְמָא
+26|01:27|וְאִמְרוּ אָמֵן
+27|01:31|אָמֵן
+28|01:38|יִתְקַבַּל צְלוֹתָנָא וּבָעוּתָנָא
+29|01:40|אָמֵן
+30|01:43|דְכָל בֵּית יִשְׂרָאֵל
+31|01:45|קֳדָם אֲבוּנָא דְבִשְׁמַיָּא
+32|01:47|וְאִמְרוּ אָמֵן
+33|01:48|אָמֵן
+34|02:01|יְהֵא שְׁלָמָא רַבָּא מִן שְׁמַיָּא
+35|02:04|וְחַיִּים טוֹבִים
+36|02:06|עָלֵינוּ וְעַל כָּל יִשְׂרָאֵל
+37|02:08|וְאִמְרוּ אָמֵן
+38|02:09|אָמֵן
+39|02:18|עוֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו
+40|02:22|הוּא יַעֲשֶׂה שָׁלוֹם
+41|02:26|עָלֵינוּ וְעַל כָּל יִשְׂרָאֵל
+42|02:30|וְאִמְרוּ אָמֵן
+43|02:34|יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא
+44|02:38|בְּעָלְמָא דִּי בְרָא כִרְעוּתֵהּ
+45|02:40|וְיַמְלִיךְ מַלְכוּתֵהּ
+46|02:42|וְיַצְמַח פֻּרְקָנֵהּ
+47|02:44|וִיקָרֵב מְשִׁיחֵהּ
+48|02:46|בְּחַיֵּיכוֹן וּבְיוֹמֵיכוֹן
+49|02:49|וּבְחַיֵּי דְכָל בֵּית יִשְׂרָאֵל
+50|02:52|בַּעֲגָלָא וּבִזְמַן קָרִיב
+51|02:54|וְאִמְרוּ אָמֵן
+52|02:56|יְהֵא שְׁמֵהּ רַבָּא מְבָרַךְ
+53|03:00|לְעָלַם וּלְעָלְמֵי עָלְמַיָּא
+54|03:03|יִתְבָּרַךְ
+55|03:05|וְיִשְׁתַּבַּח וְיִתְפָּאֵר
+56|03:07|וְיִתְרוֹמַם וְיִתְנַשֵּׂא
+57|03:10|וְיִתְהַדָּר וְיִתְעַלֶּה
+58|03:13|וְיִתְהַלָּל שְׁמֵהּ דְּקֻדְשָׁא
+59|03:16|בְּרִיךְ הוּא
+60|03:18|לְעֵלָּא לְעֵלָּא מִכָּל
+61|03:20|בִּרְכָתָא וְשִׁירָתָא
+62|03:22|תֻּשְׁבְּחָתָא וְנֶחֱמָתָא
+63|03:24|דַּאֲמִירָן בְּעָלְמָא
+64|03:26|וְאִמְרוּ אָמֵן
+65|03:28|אָמֵן
+66|03:38|יִתְקַבַּל צְלוֹתָנָא וּבָעוּתָנָא
+67|03:41|דְכָל בֵּית יִשְׂרָאֵל
+68|03:43|קֳדָם אֲבוּנָא דְבִשְׁמַיָּא
+69|03:46|וְאִמְרוּ אָמֵן
+70|03:48|יְהֵא שְׁלָמָא רַבָּא מִן שְׁמַיָּא
+71|03:51|וְחַיִּים טוֹבִים
+72|03:53|עָלֵינוּ וְעַל כָּל יִשְׂרָאֵל
+73|03:56|וְאִמְרוּ אָמֵן
+74|03:57|עוֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו
+75|04:01|הוּא יַעֲשֶׂה שָׁלוֹם
+76|04:04|עָלֵינוּ וְעַל כָּל יִשְׂרָאֵל
+77|04:06|וְאִמְרוּ אָמֵן

@@ -1,0 +1,50 @@
+videoId: aKR8ASmrbZc
+parte 1 de 1 · traduzir as linhas 0 a 39 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A singularidade de cada um na Torá
+RESUMO: Neste Shabat, leremos as Parashot Nitzavim e Vayelech, que contêm a última mitzvá da Torá: escrever um Sefer Torá. Mesmo que não saibamos escrever, podemos nomear um emissário ou comprar livros sagrados para cumprir a mitzvá. O Rambam afirma que herdar um Sefer Torá não isenta a pessoa de escrever o seu próprio, o que revela a importância de cada um expressar sua individualidade na Torá. Assim como Avraham se destacou na bondade, Yitzchak na bravura e Yaacov no estudo da Torá, cada um deve buscar sua própria forma de servir a Hashem, utilizando suas qualidades e inteligência.
+MOMENTOS: 00:06 A última mitzvá da Torá · 00:17 A mitzvá de escrever um Sefer Torá · 00:31 Comprar livros sagrados cumpre a mitzvá · 00:44 Herdar um Sefer Torá não isenta da mitzvá · 01:02 Seguir os caminhos dos antepassados · 01:18 A individualidade de cada um · 01:48 Avraham e a Torá · 02:05 Yitzchak e a bravura · 02:23 Yaacov e o estudo da Torá · 02:45 Yaacov, o pilar da Torá · 02:51 A expressão individual na Torá
+FONTES CITADAS: 00:12 Devarim 31:19 · 00:17 Rambam, Hilchot Sefer Torá 7:1 · 00:27 Rambam, Hilchot Sefer Torá 7:1 · 00:31 Posekim sobre a mitzvá de escrever um Sefer Torá · 00:44 Rambam, Hilchot Sefer Torá 7:1 · 01:48 Yomá 28b · 01:55 Bereshit 26:18 · 02:15 Zohar e cabalá, os atributos dos patriarcas · 02:40 Midrash sobre Yaacov · 02:45 Tehilim 135:4 · 02:48 Bereshit Rabá 76:1
+
+LINHAS A TRADUZIR:
+0|00:00|השבת אנחנו נקרא פרשיות ניצבים וילך.
+1|00:06|בסוף פרשת וילך מופיעה המצווה האחרונה בתורה.
+2|00:12|"ועתה כתבו לכם את השירה הזאת".
+3|00:17|מצווה על כל יהודי ויהודי לכתוב ספר תורה.
+4|00:23|גם אם אנחנו לא יודעים לכתוב,
+5|00:27|אנחנו ממנים שליח שיכתוב לנו ספר תורה,
+6|00:31|או שאנחנו קונים ספרי קודש, לדעת הרבה פוסקים,
+7|00:36|יוצאים ידי חובה של המצווה הזאת כשאנחנו קונים ספרי קודש ואנחנו לומדים בהם.
+8|00:44|עכשיו, כותב הרמב"ם שאדם שקיבל בירושה,
+9|00:49|הניחו לו אבותיו ספר תורה,
+10|00:53|זה לא פוטר אותו ממצוות כתיבת ספר תורה.
+11|00:58|אנחנו רואים כאן משמעות גדולה מאוד.
+12|01:02|אנחנו מצד אחד רוצים ללכת בדרכי אבותינו.
+13|01:07|אם אבותינו היו צדיקים וחסידים ושמרו על כל המצוות ולמדו הרבה תורה,
+14|01:14|גם אנחנו צריכים ללכת בדרך הזאת.
+15|01:18|אבל כל אחד ואחד מאיתנו יש לו את הדברים שלו הפרטיים שהקדוש ברוך הוא נתן לו.
+16|01:26|יש לו את השכל שלו, את החוכמה שלו,
+17|01:30|וכל אחד ואחד מאיתנו צריך לחשוב איך אני עושה את שלי.
+18|01:36|נכון שמצד אחד אני ממשיך את מה שעשו אבותיי,
+19|01:40|אבל במה אני מבטא את זה בעצמי,
+20|01:43|בתכונות ובשכל שנתן לי הקדוש ברוך הוא.
+21|01:48|אם נתבונן נראה אברהם אבינו, חז"ל אומרים קיים את כל התורה כולה.
+22|01:55|יצחק, הוא הלך בדרכי אברהם.
+23|01:58|אבל אברהם אבינו היה מיוחד מאוד בחסד.
+24|02:02|גם יצחק היה מיוחד מאוד בחסד.
+25|02:05|אבל יצחק חשב, אני צריך לעשות דברים מצד עצמי,
+26|02:12|דברים שמתאימים לי, לנשמה שלי.
+27|02:15|ולכן יצחק היה סמל של עבודת השם,
+28|02:19|גבורה בעבודת השם.
+29|02:23|בא יעקב אבינו, כמובן גם כן הוא הלך בדרכי אבותיו,
+30|02:27|הוא המשיך דרכם של אבותיו, תורה ויראת שמיים.
+31|02:32|אבל יעקב חיפש גם כן מה אני יכול להגשים את עצמי יותר ויותר.
+32|02:40|והוא עסק הרבה הרבה בתורה, הוא נקרא עמוד התורה.
+33|02:45|והקדוש ברוך הוא קורא לו יעקב בחיר,
+34|02:48|הוא בחיר האבות בגלל התורה שהייתה בו.
+35|02:51|זאת אומרת שהאדם יכול להיות בנם של קדושים, בן של צדיקים,
+36|02:58|אבל עדיין יש לכל אחד את הביטוי העצמי שלו,
+37|03:03|את השכל שלו, את התכונות שלו,
+38|03:07|וכל אחד ואחד צריך להשתדל להגשים את מה שנתן לו הקדוש ברוך הוא
+39|03:13|בצורה חיובית בדרך של תורה ויראת שמיים.
