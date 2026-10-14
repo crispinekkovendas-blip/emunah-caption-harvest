@@ -1,0 +1,27 @@
+videoId: SVEjc4miOCc
+parte 1 de 1 · traduzir as linhas 0 a 16 (17 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Charada de Toldot: o versículo das letras repetidas
+RESUMO: O Rav Baruch Rosenblum propõe uma charada da Parashá Toldot: qual é o versículo do Tanakh com apenas seis palavras em que cada palavra tem duas letras idênticas. Ele mostra que a fórmula comum "e HaShem disse a Moshê para dizer" não serve, pois nela as letras não se repetem em todas as palavras. A resposta é o versículo "Vayimleú yameha laledet vehinê tomim bevitná" (Bereshit 25:24), sobre o nascimento de Yaakov e Esav. Ele percorre as palavras uma a uma, mostrando a letra dobrada em cada uma. A explicação é que esta é a primeira vez em que a Torá fala de gêmeos, e por isso cada palavra traz uma letra em dobro, como alusão aos gêmeos. Ele termina anunciando que haverá outros gêmeos, se HaShem quiser, na Parashá Vayeshev, e chama essa abertura de "petíach".
+MOMENTOS: 00:00 A charada: seis palavras, letras repetidas em cada uma · 00:12 Tentativa descartada: "e HaShem disse a Moshê" · 00:23 A resposta: Vayimleú yameha laledet · 00:33 Letra dobrada em cada palavra do versículo · 00:41 Por que cada palavra tem duas letras · 00:48 Primeira menção de gêmeos na Torá · 00:54 Outros gêmeos virão em Vayeshev
+FONTES CITADAS: 00:12 Shemot 6:29 (aprox) · 00:23 Bereshit 25:24 · 00:48 Bereshit 25:24 · 00:54 Bereshit 38:27
+
+LINHAS A TRADUZIR:
+0|00:00|יש פסוק אחד בכל התנך חוץ מזה אדמוני
+1|00:03|ואדמונית אחד בכל התנך שיש פה בסך הכל שש
+2|00:07|תיבות אבל בכל תיבה יש שתי אותיות זהות
+3|00:12|ויאמר השם אל משה לאמור אין לך אותיות
+4|00:15|זהות ויאמר אין לך עוד חוזרת פעמיים אל
+5|00:18|אין לך עוד משה גם אין לך פעמיים אין זה
+6|00:21|לא חוזר פעמיים איפה יש לך עוד שחוזרת
+7|00:23|פעמיים אני מכיר לכם את הפסוק וימלאו ימיה
+8|00:27|ללדת והנה ים בבטנה וימלאו שני וים ימיה
+9|00:33|שני ידים ללדת שני לדים והנה שני הים
+10|00:37|תומים שני ממים בבטנה שני בתים אז כמה יש
+11|00:41|לכם כל אחד יש לו שתיים למה כי זה המקור
+12|00:44|הראשון שהתורה מדברת על תאומים ותאומים זה
+13|00:48|שניים לכן התורה מביאה לך כל פסוק שניים
+14|00:51|לרמוז לך הנה התאומים המדוברים נחנו יהיה
+15|00:54|לנו עוד תאומים בעזרת השם בפרשת וישב זה
+16|00:57|נקרא פתיח
