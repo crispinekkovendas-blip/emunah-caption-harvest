@@ -1,0 +1,450 @@
+0	Is there a way to ease the daily challenge of life	Existe um jeito de aliviar o desafio diário da vida
+1	of living morally, in full control, with	de viver com moralidade, com domínio total, com
+2	enthusiasm and desire for the service of the Creator and for a life of	entusiasmo e desejo pelo serviço ao Criador e por uma vida de
+3	meaning? Can ordinary, simple people like us, with	sentido? Pessoas comuns e simples como nós, com
+4	all the challenges, doubts, confusions and pains,	todos os desafios, dúvidas, confusões e dores,
+5	truly live a life of mastery and full	podem realmente viver uma vida de domínio e
+6	enthusiasm? Is there a way to ease the challenge of living	entusiasmo pleno? Existe um jeito de aliviar o desafio de viver
+7	according to the Shulchan Arukh? Maybe someone writes me: the Torah	segundo o Shulchan Arukh? Talvez alguém me escreva: a Torá
+8	is not for everyone. It is so hard for me.	não é para todos. É tão difícil para mim.
+9	And why? Many ask: I make resolutions and decisions	E por quê? Muitos perguntam: eu faço resoluções e decisões
+10	but in practice, at the moment of truth, nothing changes.	mas, na prática, na hora da verdade, nada muda.
+11	Someone says: I was at a Shabbat, an uplifting Shabbat,	Alguém diz: estive num Shabat, um Shabat elevado,
+12	and I was inspired by the mashpia Rabbi Elimelech, shlita. I read again	e me inspirei com o mashpia Rabi Elimelech, shlita. Li de novo
+13	Mesillat Yesharim, Orchot Tzaddikim,	o Mesilat Yesharim, o Orchot Tsadikim,
+14	Shaarei Teshuvah, books like these. I decided	o Shaarei Teshuvá, livros assim. Decidi
+15	to pray, to do such a segulah, to go to such a place,	rezar, fazer tal segulá, ir a tal lugar,
+16	to take on such a resolution, to learn Torah every single	assumir tal compromisso, estudar Torá todo
+17	day and so on. I decided not to look at things	santo dia, e assim por diante. Decidi não olhar para coisas
+18	that are immodest. In practice, at the moment of truth, I fall	que não são recatadas. Na prática, na hora da verdade, eu caio
+19	again and again, especially people, or people who are more	de novo e de novo, sobretudo pessoas, ou pessoas mais
+20	sensitive.	sensíveis.
+21	The inner and outer battle is so hard. Is there a	A batalha interna e externa é tão difícil. Existe um
+22	way to find more peace of mind and a sense of belonging	caminho para encontrar mais paz de espírito e pertencimento
+23	with Judaism, the Torah, the mitzvot, the service of the Creator, that is	com o judaísmo, a Torá, as mitsvot, o serviço ao Criador, que seja
+24	more full of pleasure and inner joy? Today we	mais cheio de prazer e de alegria interior? Hoje nós
+25	will learn, with the help of HaShem, an apparently technical halachah,	vamos estudar, com a ajuda de HaShem, uma halachá aparentemente técnica,
+26	a halachah in the laws of acquisitions: how an object is transferred	uma halachá das leis de aquisições: como se transfere um objeto
+27	from one domain to another. The basis of the laws of acquisition	de um domínio para outro. A base das leis de aquisição
+28	is in Parashat Behar, which speaks of sale	está na parashá Behar, que fala de venda
+29	and purchase. But as we will see, as with every halachah, there is here	e compra. Mas, como veremos, como em toda halachá, há aqui
+30	a deep and splendid view of life. We will see how one halachah	um olhar profundo e magnífico sobre a vida. Veremos como uma halachá
+31	that seemingly deals purely with financial matters	que aparentemente trata só de questões financeiras
+32	and commerce holds within it the foundation of success in life, and also	e comércio guarda em si o fundamento do sucesso na vida, e também
+33	prepares us for the great revolution of the book	nos prepara para a grande revolução do livro
+34	of Tanya, written by the Baal HaTanya, the Alter Rebbe,	do Tanya, escrito pelo Baal HaTanya, o Admor HaZaken,
+35	Rabbi Shneur Zalman of Liadi, which, although it was written	Rabi Shneur Zalman de Liadi, que, embora tenha sido escrito
+36	more than 200 years ago, Tanya was printed in 5557, that is	há mais de 200 anos, o Tanya foi impresso em 5557, isto é,
+37	1797,	1797,
+38	much of the book is still not understood by many. Let's	grande parte do livro ainda não é compreendida por muitos. Vamos
+39	jump, with the help of HaShem, into the sea of wisdom. We'll speak a few	mergulhar, com a ajuda de HaShem, no mar da sabedoria. Falaremos alguns
+40	minutes of halachah, and for those who find it hard, I	minutos de halachá, e aos que acham difícil, eu
+41	ask you to stay here with us; it will be worthwhile,	peço que fiquem aqui conosco; valerá a pena,
+42	with the help of HaShem, blessed be He. There is a rule in halachah, in the	com a ajuda de HaShem, bendito seja. Há uma regra na halachá, no
+43	Talmud, in the Rambam, Laws of Sale, chapters 22-23,	Talmud, no Rambam, Leis de Venda, capítulos 22-23,
+44	in the Shulchan Arukh, Choshen Mishpat, siman 209.	no Shulchan Arukh, Choshen Mishpat, capítulo 209.
+45	A well-known halachah in the laws of acquisitions: ein adam	Uma halachá conhecida nas leis de aquisições: ein adam
+46	makne davar shelo ba laolam. The Rambam says this way:	makné davar shelo ba laolam. O Rambam diz assim:
+47	I quote, Rambam, Laws of Sale, chapter 22: If I	Cito, Rambam, Leis de Venda, capítulo 22: Se eu
+48	tell you, what this field will produce is sold to you, even	disser a você, o que este campo produzir está vendido a você, mesmo
+49	if you give me money; what this tree will produce	que você me dê dinheiro; o que esta árvore produzir
+50	is given to you; what this animal will bear	é dado a você; o que esta cria vier a gerar
+51	is for so-and-so, he has acquired nothing. That is,	é para fulano, ele não adquiriu nada. Ou seja,
+52	I have a farm, a field, a tree. Of course	tenho uma fazenda, um campo, uma árvore. Claro que
+53	I can sell you the field, the tree,	posso vender a você o campo, a árvore,
+54	the car, the machine, the house, the farm,	o carro, a máquina, a casa, a fazenda,
+55	but that is not what I'm doing. I want to sell	mas não é isso que estou fazendo. Quero vender
+56	you, to give you as a gift, something that has not yet come	a você, dar de presente, algo que ainda não veio
+57	into the world. I am not selling you a tree or a field. I am	ao mundo. Não estou vendendo uma árvore ou um campo. Estou
+58	telling	dizendo
+59	you: the fruits that will grow here in a year. You see	a você: os frutos que vão crescer aqui daqui a um ano. Veja
+60	these apples, these oranges that will grow in six	estas maçãs, estas laranjas que vão crescer daqui a seis
+61	months: they are sold to you or given to you as a gift.	meses: elas estão vendidas a você ou dadas de presente.
+62	The halachah is that there is no acquisition here. "One who sold a date palm	A halachá é que não há aqui aquisição. "Quem vendeu uma tamareira
+63	to his fellow," writes the Rambam, "can retract, even after	a seu próximo", escreve o Rambam, "pode voltar atrás, mesmo depois
+64	the fruits have come into the world." That is, if you gave money,	de os frutos virem ao mundo". Ou seja, se você deu dinheiro,
+65	I must of course return your money, but	claro que devo devolver o seu dinheiro, mas
+66	even if we did all the acts of acquisition, it is nothing, it is void.	mesmo que tenhamos feito todos os atos de aquisição, não vale nada, é nulo.
+67	If I say to you, for example, I have a ewe,	Se eu disser a você, por exemplo: tenho uma ovelha,
+68	the ewe will give wool, this wool is sold to you, but	a ovelha vai dar lã, esta lã está vendida a você, mas
+69	this wool has not yet grown, it has not come into the world; or	esta lã ainda não cresceu, não veio ao mundo; ou
+70	I say to you, I have a cow, my cow will become pregnant,	eu digo: tenho uma vaca, minha vaca vai ficar prenhe,
+71	this fetus, this offspring is acquired by you. In all these cases	este feto, esta cria é sua. Em todos estes casos
+72	and the like there is no legal halachic acquisition. I	e semelhantes não há nenhuma aquisição legal segundo a halachá. Eu
+73	can sell you the cow, the sheep, the ewe, the tree, the	posso vender a você a vaca, o carneiro, a ovelha, a árvore,
+74	field, and then of course all the fruits that grow will	o campo, e então, claro, todos os frutos que crescerem
+75	belong to you, because it already exists in the world. I	serão seus, porque isso já existe no mundo. Eu
+76	can sell you my whole field and everything that comes out of	posso vender a você todo o meu campo e tudo o que sair
+77	it is sold to you automatically; but I cannot	dele está vendido a você; mas não posso
+78	transfer something that has not yet come into the world. I only	transferir algo que ainda não veio ao mundo. Eu só
+79	want to transfer the fruits themselves, and they do not exist:	quero transferir os próprios frutos, e eles não existem:
+80	there are no oranges, no apples, no dates; they	não há laranjas, nem maçãs, nem tâmaras; eles
+81	will grow, with HaShem's help, in six months. There is no acquisition here.	vão crescer, com a ajuda de HaShem, daqui a seis meses. Não há aqui aquisição.
+82	What is the reasoning? The commentators on the halachah, the Tashbetz,	Qual é o fundamento? Os comentaristas da halachá, o Tashbetz,
+83	the Levush, the Netivot HaMishpat and others, explain thus:	o Levush, o Netivot HaMishpat e outros, explicam assim:
+84	Kinyan is a halachic term referring to the point at which	Kinyan é um termo haláchico que se refere ao ponto em que
+85	ownership of an object passes from one person to	a posse de um objeto passa de uma pessoa
+86	another. How is a kinyan created? There are different ways.	para outra. Como se cria um kinyan? Há diferentes modos.
+87	There is kinyan by money: you give me money.	Há kinyan por dinheiro: você me dá dinheiro.
+88	There is kinyan by meshichah: you bring the object	Há kinyan por meshichá: você leva o objeto
+89	into the buyer's domain. There is drawing up a deed of	para o domínio do comprador. Há a elaboração de um documento de
+90	sale, there is chazakah. But what they share is that the moment	venda, há a chazaká. Mas o que há em comum é que, no momento
+91	the kinyan is made, it is not merely a formal external matter.	em que se faz o kinyan, não é uma mera formalidade externa.
+92	Halachically, the object itself	Do ponto de vista haláchico, o próprio objeto
+93	passes to the other domain, legally and halachically. Since	passa para o outro domínio, de forma legal e haláchica. Como
+94	a kinyan relates to the object itself, there cannot be	o kinyan se refere ao próprio objeto, não pode haver
+95	a kinyan unless the object is present and exists in the domain of	kinyan a menos que o objeto exista e esteja no domínio do
+96	the seller, and then the kinyan can take effect on it.	vendedor, e então o kinyan pode ter efeito sobre ele.
+97	For example, if I want to sell you a house for a million	Por exemplo, se eu quiser vender a você uma casa por um milhão de
+98	dollars, but there is a problem: the house isn't mine, it	dólares, mas há um problema: a casa não é minha,
+99	belongs to my neighbor. You say to me, how can you	é do meu vizinho. Você me diz: como você pode
+100	sell me a house, it's not yours? I say, I'm going	me vender uma casa, ela não é sua? Eu digo: eu vou
+101	to buy the house from him in six months,	comprar a casa dele daqui a seis meses,
+102	and so I'm selling you the house now.	e por isso estou vendendo a casa a você agora.
+103	That's delusional, it's nonsense, it doesn't work that way. After	Isso é delírio, é bobagem, não funciona assim. Depois que
+104	you buy the house from your neighbor, then sell it to me.	você comprar a casa do seu vizinho, aí venda para mim.
+105	That you sell today your friend's house without	Que você venda hoje a casa do seu amigo sem
+106	permission is just nonsense. Nothing happened. There is	permissão é pura bobagem. Nada aconteceu. Não há
+107	nothing legal here. Even if I gave you a million	nada legal aqui. Mesmo que eu tenha dado a você um milhão de
+108	dollars, give it back to me. It's nonsense. There is no	dólares, devolva-me. É bobagem. Não há
+109	kinyan. It has to belong to you for you to be able	kinyan. Tem de ser seu para que você possa
+110	to bring about this ownership. How can I sell you a	produzir essa posse. Como posso vender a você uma
+111	house that belongs to my friend? Right?	casa que pertence ao meu amigo? Certo?
+112	I can sell you a tie that isn't mine,	Posso vender a você uma gravata que não é minha,
+113	a computer that isn't mine, only once it is	um computador que não é meu, só depois que for
+114	mine can I transfer the ownership. The same thing	meu posso transferir a posse. A mesma coisa
+115	says the halachah: if something has not come into the world, there is not	diz a halachá: se algo não veio ao mundo, não há
+116	anything on which a kinyan can take hold; it doesn't exist. These fruits	nada sobre o que o kinyan possa incidir; não existe. Esses frutos
+117	do not exist; when they are here,	não existem; quando estiverem aqui,
+118	fine, sell it, give it as a gift. So if	tudo bem, venda, dê de presente. Então, se
+119	I do sell it or give it as a gift	eu de fato vender ou der de presente
+120	even after the fruits grow, I can regret,	mesmo depois que os frutos crescerem, posso me arrepender,
+121	I can say: I decided not to do it. Why?	posso dizer: decidi não fazer. Por quê?
+122	Because legally nothing happened. After there are	Porque legalmente nada aconteceu. Depois que há
+123	fruits and I give them to you as a gift and you take them,	frutos e eu dou a você de presente e você os leva,
+124	I can't go back. I gave, I gave, I sold, I sold,	não posso voltar atrás. Dei, dei, vendi, vendi,
+125	I sold. But here there was no kinyan. Of course I	vendi. Mas aqui não houve kinyan. Claro que eu
+126	can make a vow. I can make a vow,	posso fazer um voto. Posso fazer um voto,
+127	commit that all the oranges this tree produces I	comprometer-me a que todas as laranjas que esta árvore produzir eu
+128	give to the poor, to supporters of Shabbat, and I am bound	darei aos pobres, aos que apoiam o Shabat, e estou obrigado
+129	to fulfill my vow: "according to all that came out of his mouth he shall do."	a cumprir o meu voto: "conforme tudo o que saiu de sua boca fará".
+130	But the fruits do not belong to him, because	Mas os frutos não pertencem a eles, porque
+131	there was no kinyan on them, since they don't exist. So if	não houve kinyan sobre eles, já que não existem. Então, se
+132	I do hatarat nedarim, annul the vow, I no longer	eu fizer hatarat nedarim, anular o voto, eu já não
+133	have to give those fruits to the poor. But an actual kinyan:	preciso dar esses frutos aos pobres. Mas um kinyan de fato:
+134	if I have the fruits and I transfer them	se eu tenho os frutos e os transfiro
+135	to someone else, I can no longer retract. And since	para outra pessoa, já não posso voltar atrás. E como
+136	it has not come into the world, I can make a vow	isso não veio ao mundo, posso fazer um voto
+137	and commit that after it comes into the world I must	e comprometer-me a que, depois que vier ao mundo, devo
+138	give it, but a kinyan of transfer from domain to domain	dar, mas um kinyan de transferência de um domínio a outro
+139	there was not. This is the difference between kinyan haguf and kinyan	não houve. Esta é a diferença entre kinyan haguf e kinyan
+140	peirot. If I transfer to you the body, the body of the tree,	peirot. Se eu transfiro a você o corpo, o corpo da árvore,
+141	the body of the field, of the cow, of the ewe, then I sell it	o corpo do campo, da vaca, da ovelha, então eu vendo
+142	and now you have the ewe, you have the tree, and of course if	e agora você tem a ovelha, tem a árvore, e é claro que se
+143	there is wool it's yours, if there are fruits they are yours.	houver lã é sua, se houver frutos são seus.
+144	But a kinyan of fruits that haven't yet grown is not	Mas um kinyan de frutos que ainda não cresceram não é
+145	a kinyan halachically. So here is the question in halachah:	kinyan do ponto de vista haláchico. Então eis a pergunta na halachá:
+146	is there a way to sell or give something as a gift	há um modo de vender ou dar algo de presente
+147	now if it has not come into the world? Perhaps there isn't, it's impossible.	agora, se isso não veio ao mundo? Talvez não haja, é impossível.
+148	Ah, there is an exception. So writes the Rambam in Laws of	Ah, há uma exceção. Assim escreve o Rambam nas Leis de
+149	Sale chapter 23: A person may transfer the body for its fruits, whether by	Venda, capítulo 23: Pode-se transferir o corpo pelos seus frutos, seja por
+150	sale or by gift, and this is not transferring something that has not come into the world,	venda ou por presente, e isso não é transferir algo que não veio ao mundo,
+151	since the body exists and he transfers it for its fruits.	pois o corpo existe e ele o transfere pelos seus frutos.
+152	What does it mean? One who sold or gave a field	O que isso significa? Quem vendeu ou deu um campo
+153	for its fruits, a tree for its fruits, a date palm for its fruits, a ewe	pelos seus frutos, uma árvore pelos seus frutos, uma tamareira pelos seus frutos, uma ovelha
+154	for its shearing, his sale or gift stands. That is,	pela sua tosquia, sua venda ou presente é válido. Ou seja,
+155	the halachah says something interesting. I want to sell	a halachá diz algo interessante. Eu quero vender
+156	you the dates, the oranges, the apples, the	a você as tâmaras, as laranjas, as maçãs, a
+157	crop, but they haven't grown, they haven't come	colheita, mas elas não cresceram, não vieram
+158	into the world. There is a way, one mechanism. I sell you	ao mundo. Há um caminho, um mecanismo. Eu vendo a você
+159	the	a
+160	date palm for the fruits that will grow from it. I sell you	tamareira pelos frutos que crescerão dela. Eu vendo a você
+161	the orange tree for the oranges that will grow. I	a laranjeira pelas laranjas que crescerão. Eu
+162	sell you the field, but not the whole field: for	vendo a você o campo, mas não o campo todo: pelo
+163	the grain or the wine that will grow in this field. I	grão ou pelo vinho que crescerão neste campo. Eu
+164	sell you the pregnant cow for the offspring	vendo a você a vaca prenhe pela cria
+165	that will be born from her. I sell you the ewe,	que dela nascerá. Eu vendo a você a ovelha,
+166	but not the whole sheep, not the whole ewe, only for its wool.	mas não o carneiro inteiro, nem a ovelha inteira, apenas pela sua lã.
+167	This is called a date palm for its fruits. That is, I	Isso se chama uma tamareira pelos seus frutos. Ou seja, eu
+168	sell you the tree, not the fruits, but I don't sell	vendo a você a árvore, não os frutos, mas não vendo
+169	you the whole tree; you can't do with the tree	a você a árvore toda; você não pode fazer com a árvore
+170	whatever you want. I sold you this aspect, this	o que quiser. Vendi a você este aspecto, este
+171	power in the tree, the productive power to grow	poder na árvore, o poder produtivo de fazer crescer
+172	fruits; that is sold to you. That is, that very aspect in the tree	frutos; isso foi vendido a você. Ou seja, esse aspecto da árvore
+173	that produces fruits already exists here, and that I	que produz frutos já existe aqui, e isso eu
+174	sold you, just as I can sell	vendi a você, assim como posso vender
+175	you one branch of my tree. I don't have to sell	a você um galho da minha árvore. Não preciso vender
+176	the whole tree. I can sell you one floor	a árvore toda. Posso vender a você um andar
+177	of a building. I can sell you half a field. Yes. Here	de um prédio. Posso vender a você meio campo. Sim. Aqui
+178	I'm not selling you one branch. I'm selling you the whole	eu não vendo a você um galho. Vendo a você a
+179	tree for its fruits. The Rambam brings an	árvore toda pelos seus frutos. O Rambam traz um
+180	interesting example. If I rent you a house for 100 years,	exemplo interessante. Se eu alugo a você uma casa por 100 anos,
+181	we have a 100-year contract, you can use	temos um contrato de 100 anos, você pode usar
+182	this house for 100 years. It's yours? It's yours. You	esta casa por 100 anos. É sua? É sua. Você
+183	can use it, but you can't demolish	pode usá-la, mas não pode demolir
+184	the kitchen. You can't build a new floor without	a cozinha. Não pode construir um andar novo sem
+185	my permission. Why? Because it's not yours. You have permission	a minha permissão. Por quê? Porque não é sua. Você tem permissão
+186	to live there, to use it there, to do what you	de morar lá, de usar lá, de fazer o que
+187	want. But it's not your house that you can demolish	quiser. Mas não é a sua casa, que você possa demolir
+188	and rebuild. If I sell you a house, you can	e reconstruir. Se eu vendo a você uma casa, você pode
+189	do what you want. Of course you have to check	fazer o que quiser. Claro que é preciso verificar
+190	the zoning. But if I rent you, yes, if I	o zoneamento. Mas se eu alugo a você, sim, se eu
+191	rent you a house, you have permission to live there, but	alugo a você uma casa, você tem permissão de morar lá, mas
+192	you can't do what you want, because the house	não pode fazer o que quiser, porque a casa
+193	is still mine.	ainda é minha.
+194	Here it's the same example. I sold you	Aqui é o mesmo exemplo. Eu vendi a você
+195	the field but not the whole field. I sold	o campo, mas não o campo todo. Eu vendi
+196	you the cow but not the essence of the cow; you can't	a você a vaca, mas não a essência da vaca; você não pode,
+197	for example slaughter the cow. If I sell you a cow you	por exemplo, abater a vaca. Se eu vendo a você uma vaca, você
+198	can slaughter it, you can work with it,	pode abatê-la, pode trabalhar com ela,
+199	you can keep it, whatever you want. Here I did not	pode mantê-la, o que quiser. Aqui eu não
+200	sell you the essence of the cow; I sold you the cow	vendi a você a essência da vaca; vendi a você a vaca
+201	with respect to the fetus: when there is a fetus, it belongs to you. I sold	em relação ao feto: quando houver um feto, ele é seu. Eu vendi
+202	you the field, the tree, but not the whole field, and you can't	a você o campo, a árvore, mas não o campo todo, e você não pode
+203	do with the tree whatever you want. I	fazer com a árvore o que quiser. Eu
+204	sold you a right in that part of the tree that produces	vendi a você um direito naquela parte da árvore que produz
+205	the fruits. That's the halachah. We learned three things.	os frutos. Esta é a halachá. Aprendemos três coisas.
+206	There is kinyan haguf, where you can sell and give,	Há o kinyan haguf, em que se pode vender e dar,
+207	and it is a good kinyan in halachah because it exists. There is	e é um bom kinyan na halachá porque existe. Há o
+208	kinyan peirot of fruits that haven't come into the world, and no person	kinyan peirot de frutos que não vieram ao mundo, e ninguém
+209	transfers what hasn't come into the world. That's the halachah. And there is the middle.	transfere o que não veio ao mundo. Essa é a halachá. E há o meio-termo.
+210	I transfer to you neither the tree itself nor the fruits.	Eu transfiro a você nem a árvore em si nem os frutos.
+211	A tree for its fruits.	A árvore pelos seus frutos.
+212	Then you have a right in all the fruits that will grow, and the kinyan	Então você tem um direito em todos os frutos que crescerem, e o kinyan
+213	does take effect now, because I didn't sell you the fruits, I sold	tem efeito agora, porque não vendi a você os frutos, vendi
+214	you the tree	a você a árvore
+215	for its fruits. One of the things	pelos seus frutos. Uma das coisas
+216	special in the teachings of the Lubavitcher Rebbe,	especiais nos ensinamentos do Rebe de Lubavitch,
+217	in whose shadow I merited to grow, is that always when he	à sombra de quem tive o mérito de crescer, é que sempre que ele
+218	taught a halachah in the Gemara, in the Rambam, he taught every	ensinava uma halachá na Guemará, no Rambam, ele ensinava cada
+219	sugya in depth, whichever he was studying in Shas,	sugiá em profundidade, qualquer que fosse que estivesse estudando no Shas,
+220	and in the end he would always explain that this halachah	e no fim ele sempre explicava que essa halachá
+221	holds within it a worldview, also on the	guarda em si uma visão de mundo, também no plano
+222	philosophical, psychological, emotional plane	filosófico, psicológico, emocional
+223	and moral, based on the words of the Rambam in Laws of Temurah:	e moral, baseada nas palavras do Rambam nas Leis de Temurá:
+224	"Most of the laws of the Torah are counsels to correct the dispositions and straighten	"A maioria das leis da Torá são conselhos para corrigir as disposições e endireitar
+225	the deeds." That is, every halachah has within it also a psychological counsel	os atos." Ou seja, toda halachá tem em si também um conselho da alma
+226	that speaks to us	que fala conosco
+227	on the personal, inner plane. It's not only a halachah about	no plano pessoal e interior. Não é apenas uma halachá sobre
+228	business matters or money matters,	assuntos de negócios ou assuntos de dinheiro,
+229	which is important. That is the revealed part. But in every halachah	o que é importante. Essa é a parte revelada. Mas em toda halachá
+230	there is	há
+231	also an emotional, inner content. And in fact a large part	também um conteúdo emocional e interior. E, de fato, grande parte
+232	of the teachings of Kabbalah and Chassidut is devoted to explaining every	dos ensinamentos da Cabalá e do Chassidut se dedica a explicar cada
+233	halachah, every mitzvah, every verse of the Torah and every Mishnah,	halachá, cada mitsvá, cada versículo da Torá e cada Mishná,
+234	Zeraim, Moed, Nashim, Nezikin, Kodashim, the Mishnah of the laws of	Zeraim, Moed, Nashim, Nezikin, Kodashim, a Mishná das leis de
+235	monetary matters. "Two Hold a Garment," the cow that we take,	assuntos monetários. "Dois seguram uma veste", a vaca que tomamos,
+236	we don't know who killed the fetus inside the cow,	não sabemos quem matou o feto dentro da vaca,
+237	it speaks of the laws of vessels, kilayim, laws of	fala-se das leis dos utensílios, de kilaim, das leis de
+238	...; the laws themselves are the basis of all	...; as próprias leis são a base de toda
+239	our tradition, but in every Mishnah, in every halachah there is also	a nossa tradição, mas em toda Mishná, em toda halachá há também
+240	inner content.	um conteúdo interior.
+241	The Rebbe also instituted the study of the Rambam, either	O Rebe também instituiu o estudo do Rambam, seja
+242	three chapters a day, finishing in one year, or one chapter	três capítulos por dia, concluindo em um ano, ou um capítulo
+243	a day, finishing in three years, the Mishneh Torah,	por dia, concluindo em três anos, o Mishné Torá,
+244	which is a wonderful study because it covers all the laws	que é um estudo maravilhoso porque abrange todas as leis
+245	of the Torah, including the laws of the Temple	da Torá, inclusive as leis do Templo
+246	and of Mashiach. And those who learn Rambam well know	e de Mashiach. E quem estuda bem o Rambam sabe
+247	that when you say the Rambam and review it, you get	que, ao estudar o Rambam e revisá-lo, tem-se
+248	a comprehensive knowledge of all the laws of the Torah. So every Shabbat,	um conhecimento abrangente de todas as leis da Torá. Então, todo Shabat,
+249	at the farbrengen and also at the meal, the Rebbe would dwell on	no farbrengen e também na refeição, o Rebe se detinha em
+250	one halachah or several halachot in the Rambam, explaining them	uma halachá ou várias halachot do Rambam, explicando-as
+251	wonderfully, both by the revealed Torah, with halachic analysis	de forma maravilhosa, tanto pela Torá revelada, com análise haláchica
+252	and learning, and also by the teachings of Kabbalah and	e estudo, quanto pelos ensinamentos da Cabalá e
+253	Chassidut and in the service of man, the psychology of the soul.	do Chassidut e no serviço do homem, na psicologia da alma.
+254	This talk was given on Shabbat Parashat Behar, since	Esta palestra foi dada no Shabat da parashá Behar, pois
+255	then they were learning this Rambam, in Laws of Sale, and I merited	então se estudava este Rambam, nas Leis de Venda, e tive o mérito
+256	to be there. It is printed in Likutei Sichot vol. 27, Parashat Behar.	de estar lá. Está impresso no Likutei Sichot, volume 27, parashá Behar.
+257	I want to share one point we heard from the Rebbe	Quero transmitir um ponto que ouvimos do Rebe
+258	of Lubavitch on this subject, as it is reflected in the service	de Lubavitch sobre este tema, como ele se reflete no serviço
+259	of man	do homem
+260	in practice. The purpose of	na prática. O propósito da
+261	creation and all service of HaShem is essentially to effect	criação e de todo o serviço a HaShem é, em essência, realizar
+262	a kinyan, to transfer something to the Holy One, Blessed Be He. It is written in Pirkei	um kinyan, transferir algo ao Santo, Bendito Seja. Está escrito em Pirkei
+263	Avot: "Five possessions did the Holy One, Blessed Be He, acquire	Avot: "Cinco aquisições adquiriu o Santo, Bendito Seja,
+264	in His world; Israel is one possession." That is, the point of the service	em Seu mundo; Israel é uma aquisição." Ou seja, o ponto do serviço
+265	of HaShem is that a person have	a HaShem é que a pessoa tenha
+266	the courage to transfer himself or herself and all that is theirs	a coragem de transferir a si mesma e tudo o que é seu
+267	to the Creator of the world. On the surface, it seems	ao Criador do mundo. Na superfície, parece
+268	that man is separate from the Infinite. I'm alone in the world, I'm	que o homem é separado do Infinito. Estou sozinho no mundo, estou
+269	separate, I'm even broken, with all life's challenges,	separado, até quebrado, com todos os desafios da vida,
+270	physical, psychological, emotional and so on. I'm alone	físicos, psicológicos, emocionais e assim por diante. Estou sozinho
+271	in the world. The service of HaShem is in essence to discover the truth	no mundo. O serviço a HaShem é, em essência, descobrir a verdade
+272	that there is nothing besides Him; that is, I and you and	de que não há nada além Dele; ou seja, eu, você e
+273	all of us are an inseparable part of the Infinite.	todos nós somos parte inseparável do Infinito.
+274	And at every moment I have the opportunity to live and breathe	E a cada momento tenho a oportunidade de viver, respirar
+275	and embody this truth and recognition in all parts of my life,	e encarnar essa verdade e esse reconhecimento em todas as partes da minha vida,
+276	that is, my thought, speech and action I can	ou seja, meu pensamento, minha fala e minha ação eu posso
+277	transfer them,	transferi-los,
+278	give them, so to speak, to the Holy One, Blessed Be He, by	dá-los, por assim dizer, ao Santo, Bendito Seja, por meio de
+279	their reflecting the will of HaShem in His Torah. It is written	eles refletirem a vontade de HaShem em Sua Torá. Está escrito
+280	in the Mishnah at the end of Tractate Kidushin: I was created	na Mishná, no fim do tratado Kidushin: Fui criado
+281	to serve my Maker (koni). It does not say to serve	para servir ao meu Possuidor (koni). Não está escrito para servir
+282	my Creator (bori). The Rebbe explains that koni is also from the word	ao meu Criador (bori). O Rebe explica que koni vem também da palavra
+283	kinyan, "Possessor of heaven	kinyan, "Possuidor dos céus
+284	and earth." A woman is acquired in three ways, so it is written	e da terra." A mulher é adquirida de três modos, assim está escrito
+285	at the beginning of Tractate Kidushin. In allegory, "woman"	no início do tratado Kidushin. Em alegoria, "mulher"
+286	is a metaphor for Knesset Yisrael. A woman is acquired in three	é uma metáfora de Knesset Yisrael. A mulher é adquirida de três
+287	ways: with money, with a deed, with intimacy. Simple ones, like when I	modos: com dinheiro, com documento, com relação conjugal. Coisas simples, como quando eu
+288	take my house, my machine, my tree, my watch,	pego minha casa, minha máquina, minha árvore, meu relógio,
+289	my cow, my farm, my car,	minha vaca, minha fazenda, meu carro,
+290	and my suit, and I give it to you as a gift or	e meu terno, e dou isso a você de presente ou
+291	I transfer it to you; so I transfer my life	transfiro a você; assim eu transfiro a minha vida
+292	to HaShem. I take my thoughts, my speech,	a HaShem. Pego meus pensamentos, minhas falas,
+293	I'm speaking now, my deeds, my conduct, and I have the power	estou falando agora, meus atos, minhas condutas, e tenho o poder
+294	to transfer them to the Holy One, Blessed Be He. I hand	de transferi-los ao Santo, Bendito Seja. Eu os entrego
+295	them over to the Creator of the world. What does it mean that I hand them over	ao Criador do mundo. O que significa que eu os entrego
+296	to the Creator? Not physically. It means that they	ao Criador? Não fisicamente. Significa que eles
+297	reflect the will of the Creator. They belong to the Creator	refletem a vontade do Criador. Pertencem ao Criador
+298	of the world. He is the owner: the thought, speech,	do mundo. Ele é o dono: o pensamento, a fala,
+299	and action. But here there is kinyan haguf and kinyan	e a ação. Mas aqui há kinyan haguf e kinyan
+300	peirot. As with a tree. I can sell the tree	peirot. Como numa árvore. Posso vender a árvore
+301	itself,	em si,
+302	and automatically the fruits already belong to you, because I sold you	e automaticamente os frutos já são seus, porque vendi a você
+303	the whole tree, everything that will grow belongs to you.	a árvore toda, tudo o que crescer pertence a você.
+304	Or I can sell only the fruits themselves without	Ou posso vender só os próprios frutos, sem
+305	the tree. I don't sell you the tree. The tree belongs	a árvore. Não vendo a árvore a você. A árvore pertence
+306	to me. I sell you only the fruits. And here there's a halachah:	a mim. Vendo a você só os frutos. E aqui há uma halachá:
+307	ein adam makne davar shelo ba laolam. If the fruits	ein adam makné davar shelo ba laolam. Se os frutos
+308	don't exist yet, I can't transfer	ainda não existem, não posso transferi-los.
+309	them. So in man there are these two types of kinyanim.	Assim, no homem há esses dois tipos de kinyan.
+310	There is a person who transfers to the Holy One, Blessed Be He, his body,	Há quem transfira ao Santo, Bendito Seja, o seu corpo,
+311	his essence. "Man is the tree of the field." And there is	a sua essência. "O homem é a árvore do campo." E há
+312	one who can acquire only the fruits. What's the difference? The body of	quem consiga adquirir apenas os frutos. Qual é a diferença? O corpo da
+313	the tree is the source from which all the fruits grow.	árvore é a fonte da qual crescem todos os frutos.
+314	The cow is the source, the mother from whom	A vaca é a fonte, a mãe da qual
+315	the fetus is formed. The field is	se forma o feto. O campo é
+316	the source, the whole earth from which bread will come, from which	a fonte, toda a terra da qual sairá o pão, da qual
+317	the grain grows. Wheat, barley, spelt, oats,	cresce o grão. Trigo, cevada, espelta, aveia,
+318	rye, and so on and so on. The ewe is the source	centeio, e assim por diante. A ovelha é a fonte
+319	from which all the wool grows. The same too with kinyan	da qual cresce toda a lã. O mesmo vale também para o kinyan
+320	haguf, in spiritual and psychological terms, it means the person	haguf, em termos espirituais e psicológicos: significa a própria pessoa,
+321	himself, the personality itself. What are fruits? Fruits	a própria personalidade. O que são frutos? Frutos
+322	are what grows from my personality, my thoughts,	são o que cresce da minha personalidade, meus pensamentos,
+323	my speech, my deeds. Chazal said:	minhas falas, meus atos. Disseram nossos sábios:
+324	"The fruits of a tzaddik" are mitzvot and good deeds,	"Os frutos do tsadik" são mitsvot e boas ações,
+325	because those are the fruits he yields. His head, his heart,	porque esses são os frutos que ele produz. A cabeça dele, o coração,
+326	his body, his personality, his soul,	o corpo, a personalidade, a alma,
+327	his instincts, his emotions, grow	os instintos, as emoções, fazem crescer
+328	fruits. What are they? Thoughts, speech and deeds.	frutos. O que são? Pensamentos, falas e atos.
+329	"These are the generations of Noah, Noah was a righteous man." Rashi: where	"Estas são as gerações de Noach, Noach era um homem justo." Rashi: onde
+330	are the generations? He says: the generations of the righteous are good	estão as gerações? Diz: as gerações dos justos são as boas
+331	deeds. Those are their fruits. Here there are two types of	ações. Esses são os seus frutos. Aqui há dois tipos de
+332	people. There are two types of Jews. There is a Jew who transfers	pessoas. Há dois tipos de judeus. Há um judeu que transfere
+333	to HaShem the kinyan haguf. His whole essence is handed	a HaShem o kinyan haguf. Toda a sua essência é entregue
+334	to the Holy One, Blessed Be He. That is, his being, the very	ao Santo, Bendito Seja. Ou seja, o seu ser, a própria
+335	consciousness, the body, the soul, the faculties, the intellect,	consciência, o corpo, a alma, as faculdades, o intelecto,
+336	the emotions, all of it belongs to the Holy One, Blessed	as emoções, tudo pertence ao Santo, Bendito
+337	Be He. And automatically all the fruits already belong to HaShem.	Seja. E automaticamente todos os frutos já pertencem a HaShem.
+338	Just as if I sold you a farm, automatically	Assim como, se eu vendi a você uma fazenda, automaticamente
+339	all the crop is yours; I sold you a pregnant cow, the fetus	toda a colheita é sua; vendi a você uma vaca prenhe, o feto
+340	is yours; so here I handed over my essence to HaShem,	é seu; assim aqui entreguei a minha essência a HaShem,
+341	and automatically all thought, speech and action, all	e automaticamente todo pensamento, fala e ação, todos
+342	the fruits, automatically already	os frutos, automaticamente já
+343	belong to HaShem. There's a fly driving me crazy here, open	pertencem a HaShem. Há uma mosca me enlouquecendo aqui, abram
+344	the door, and I'll pray that it	a porta, e eu vou rezar para que ela
+345	goes out. The fly loves the class,	saia. A mosca adora a aula,
+346	apparently. But there is a Jew	pelo visto. Mas há um judeu
+347	who transfers to the Holy One, Blessed Be He, only the fruits, not	que transfere ao Santo, Bendito Seja, apenas os frutos, não
+348	the tree itself. His inner mind and heart are still not	a própria árvore. A mente e o coração interiores dele ainda não
+349	freed from enslavement to superficiality, to the shells	estão libertos da escravidão à superficialidade, às cascas
+350	of life. Let's give an illustration so we understand	da vida. Vamos dar uma ilustração para entendermos
+351	this. You sit at the Shabbat table or at an ordinary table,	isso. Você está sentado à mesa de Shabat ou numa mesa qualquer,
+352	or in the synagogue or at the grocery or at some meeting.	ou na sinagoga, ou na mercearia, ou em alguma reunião.
+353	And there's a conversation of lashon hara.	E há uma conversa de lashon hará.
+354	The Jew of the first type is not interested at all.	O judeu do primeiro tipo não tem nenhum interesse.
+355	It's repulsive to him. What, now I'll devote five	Isso lhe repugna. O quê, agora vou dedicar cinco
+356	minutes, ten minutes to speaking lashon hara? To disconnect	minutos, dez minutos a falar lashon hará? Para me desligar
+357	from my essence, from the source of life, to take	da minha essência, da fonte da vida, para pegar
+358	my thoughts, my powers, to speak ill of a	meus pensamentos, minhas forças, para falar mal de uma
+359	person, a person who is one of His children? The Baal Shem Tov says,	pessoa, uma pessoa que é um dos Seus filhos? O Baal Shem Tov diz:
+360	every Jew is the only child of the Holy One, Blessed Be He.	todo judeu é filho único do Santo, Bendito Seja.
+361	If I want to go speak with him, fine, on the contrary, I'll help	Se eu quiser ir falar com ele, tudo bem, ao contrário, vou ajudá-lo
+362	him and rebuke him. But to sit around the table	e corrigi-lo. Mas sentar em volta da mesa
+363	and speak lashon hara, it doesn't even occur to him. To say a lie, even	e falar lashon hará nem lhe passa pela cabeça. Dizer uma mentira, mesmo
+364	an exaggeration, something that didn't happen at all, doesn't cross his mind.	uma exagero, algo que nem aconteceu, não lhe passa pela mente.
+365	He doesn't even have the desire; it's muktzeh because of	Ele nem tem o desejo; é muktsê por causa da
+366	loathing. Why? He feels that with these things he disconnects	repugnância. Por quê? Ele sente que com essas coisas se desliga
+367	himself from the truth; the seal of HaShem is truth. I	da verdade; o selo de HaShem é a verdade. Eu
+368	don't want to tell a lie, it would sicken me all day.	não quero dizer uma mentira, isso me enjoaria o dia todo.
+369	Why should I do it?	Por que eu faria isso?
+370	Why should I disconnect for some superficial,	Por que eu me desligaria por algum benefício externo
+371	shallow benefit? It's simply not worth it, it doesn't even come	e raso? Simplesmente não vale a pena, nem lhe passa
+372	to him. Yes. Would you go to the synagogue and speak ill about	pela cabeça. Sim. Você iria à sinagoga falar mal dos
+373	your sons, your daughters, your wife? You're crazy.	seus filhos, das suas filhas, da sua esposa? Você está louco.
+374	To him that is madness. Eating unhealthy things, or things	Para ele isso é loucura. Comer coisas pouco saudáveis, ou coisas
+375	not for the sake of Heaven, is for him like eating	que não sejam para o Céu, é para ele como comer
+376	something repulsive; it just doesn't occur	algo repugnante; simplesmente não lhe ocorre.
+377	to him. His wife says something hard to him, something sharp,	A esposa lhe diz algo duro, algo ríspido,
+378	maybe even words of reproach. What happens to this Jew	talvez até palavras de repreensão. O que acontece com este judeu
+379	who transferred his body to HaShem, his essence? He	que transferiu o seu corpo a HaShem, a sua essência? Ele
+380	doesn't get angry, neither inside nor outside. He remains	não se irrita, nem por dentro nem por fora. Permanece
+381	calm. Why? Because he knows who he is. He doesn't	sereno. Por quê? Porque sabe quem é. Não
+382	need a compliment from his wife at every moment. He knows, he feels	precisa de um elogio da esposa a cada momento. Ele sabe, sente
+383	that he is a Divine part from Above, and he doesn't shatter	que é uma parte divina do Alto, e não se despedaça
+384	to pieces because his wife doesn't compliment him 24 hours	em pedaços porque a esposa não o elogia 24 horas
+385	a day. He can even identify with her pain,	por dia. Ele consegue até se identificar com a dor dela,
+386	even if she is not right, and maybe he knows	mesmo que ela não tenha razão, e talvez ele saiba
+387	that she is even right, maybe 50%, maybe 60%,	que ela até tem razão, talvez 50%, talvez 60%,
+388	maybe 90%, and even if not, he identifies with her pain,	talvez 90%, e mesmo que não, ele se identifica com a dor dela,
+389	and therefore he can respond with presence, with	e por isso pode responder com presença, com
+390	love. The daughter says something inappropriate to him, or	amor. A filha lhe diz algo inadequado, ou
+391	the son, he doesn't get angry, doesn't explode, not even inside. He	o filho, ele não se irrita, não explode, nem por dentro. Ele
+392	remains calm, he remains settled inside because	permanece sereno, permanece em ordem por dentro porque
+393	he hears the pain in her voice, he understands the frustration, the	ouve a dor na voz dela, entende a frustração, a
+394	disappointment. He comes to the synagogue, someone talks in the house	decepção. Ele chega à sinagoga, alguém fala na casa
+395	of prayer, wants to talk. He doesn't want to talk,	de oração, quer conversar. Ele não quer conversar,
+396	to talk during prayer. And with such a gift, I have the ability	conversar durante a oração. E, com um presente assim, eu tenho a capacidade
+397	now of devekut with the Creator Himself,	agora de devekut com o próprio Criador,
+398	that I should go speak about politics, just	e eu iria falar de política, simples
+399	idle things, even matters of business?	coisas fúteis, até assuntos de negócios?
+400	What, bittul Torah? It doesn't occur to him. The gift of studying	O quê, bitul Torá? Isso não lhe ocorre. O presente de estudar
+401	Torah: devekut, His wisdom, the will of the Holy One, Blessed	Torá: devekut, a Sua sabedoria, a vontade do Santo, Bendito
+402	Be He; He and His wisdom are one, as in Tanya chapter 5, a unity	Seja; Ele e a Sua sabedoria são um, como no Tanya, capítulo 5, uma união
+403	like which there is none other. We're not speaking only of	tal que não há outra igual. Não falamos apenas do
+404	intellectual pleasure, nor emotional pleasure,	prazer intelectual, nem do prazer emocional,
+405	also the soul-pleasure of devekut with the Creator of the world:	mas também do prazer da alma de devekut com o Criador do mundo:
+406	Israel, the Torah and the Holy One, Blessed Be He, are one. What a	Israel, a Torá e o Santo, Bendito Seja, são um. Que
+407	profound gift. You want me to waste it? You're	presente profundo. Você quer que eu o desperdice? Você está
+408	crazy. This is the Jew who acquires the tree itself. In the book of	louco. Este é o judeu que adquire a própria árvore. No livro do
+409	Tanya, this is the Jew called a tzaddik. "Man is the tree of the field."	Tanya, este é o judeu chamado tsadik. "O homem é a árvore do campo."
+410	He transferred his essence; his mind, his heart	Ele transferiu a sua essência; a mente dele, o coração dele
+411	are already refined, they yearn for true things,	já estão refinados, anseiam por coisas verdadeiras,
+412	they respond to the outside world in the most	respondem ao mundo exterior da forma mais
+413	authentic and innermost way, as a reflection of the Infinite	autêntica e mais interior, como reflexo do próprio
+414	itself. He is unified, all the parts in him, the Divine soul	Infinito. Ele é unificado, todas as partes nele, a alma divina
+415	and the animal soul, both are partners. The animal soul	e a alma animal, ambas são parceiras. A alma animal
+416	is like a house for the Divine soul, which is a part	é como uma casa para a alma divina, que é uma parte
+417	of G-d above, and the body is a house for both, a pair, like the	do Alto, e o corpo é uma casa para ambas, um par, como o
+418	Temple, "and I will dwell within them." Therefore every response in life, every	Templo, "e habitarei dentro delas". Por isso toda reação na vida, todo
+419	instinct, every impulse, every desire, every wish, every	instinto, todo impulso, todo desejo, toda vontade, todo
+420	thought, speech and action is automatically acquired by HaShem. This is	pensamento, fala e ação é automaticamente adquirido por HaShem. Este é
+421	one Jew. But there is a Jew who cannot	um judeu. Mas há um judeu que não consegue
+422	transfer the tree itself, the house itself, only	transferir a própria árvore, a própria casa, apenas
+423	the fruits. That is, his wife said what she said,	os frutos. Ou seja, a esposa dele disse o que disse,
+424	he is exploding	ele está explodindo
+425	inside. His heart is exploding, he is in anger, in	por dentro. O coração dele está explodindo, ele está com raiva, com
+426	disappointment, in frustration. His daughter said something to him, he	decepção, com frustração. A filha lhe disse algo, ele
+427	wants to shout: how dare you, you spoiled one!	quer gritar: como você ousa, mimada!
+428	Or maybe to speak lashon hara, idle talk,	Ou talvez falar lashon hará, conversa fiada,
+429	during davening, bittul Torah, to talk during prayer. But what?	durante a oração, bitul Torá, conversar na oração. Mas o quê?
+430	He holds back. He holds back and says the right thing.	Ele se contém. Ele se contém e diz a coisa certa.
+431	He does not transfer his body to HaShem, his essence,	Ele não transfere o corpo a HaShem, a sua essência,
+432	only the fruits. The thought, the speech and the deed	só os frutos. O pensamento, a fala e a ação
+433	in practice, that is what he transfers. What's the difference? Something	na prática, é isso que ele transfere. Qual é a diferença? Algo
+434	that has not come into the world. In the first case he is sure:	que não veio ao mundo. No primeiro caso ele tem certeza:
+435	today, tomorrow, Monday, in the week, in the month, in the year	hoje, amanhã, segunda-feira, na semana, no mês, no ano
+436	he will remain faithful to his Divine essence. Why? Because	ele permanecerá fiel à sua essência divina. Por quê? Porque
+437	he transfers to HaShem the body itself, and automatically the fruits	ele transfere a HaShem o próprio corpo, e automaticamente os frutos
+438	already belong to HaShem. Tomorrow's fruits too will be	já pertencem a HaShem. Os frutos de amanhã também serão
+439	acquired by HaShem. In the second case I'm not sure. Maybe	adquiridos por HaShem. No segundo caso não tenho certeza. Talvez
+440	I'll make a vow and promise that I will never	eu faça um voto e prometa que nunca
+441	do it, but in the Rambam's words, he can retract,	vou fazer isso, mas, nas palavras do Rambam, ele pode voltar atrás,
+442	because when the fruits grow I don't know what will be.	porque, quando os frutos crescerem, não sei o que será.
+443	Ein adam makne davar shelo ba laolam. Each case	Ein adam makné davar shelo ba laolam. Cada caso
+444	has to be judged on its own merits. I can't	precisa ser julgado por si. Não posso
+445	promise today that tomorrow I won't actually explode.	prometer hoje que amanhã não vou explodir de fato.
+446	Tomorrow is a new day, and maybe I will fall. This is	Amanhã é um novo dia, e talvez eu caia. Esta é
+447	the reason people make resolutions	a razão de as pessoas fazerem resoluções
+448	and big decisions,	e grandes decisões,
+449	cry, but at the moment of truth they fall. Day after day, a Jew	chorarem, mas, na hora da verdade, caírem. Dia após dia, um judeu

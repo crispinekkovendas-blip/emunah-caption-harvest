@@ -1,0 +1,450 @@
+0	Always	Sempre
+1	At all times	Em todo tempo
+2	In every place	Em todo lugar
+3	Always	Sempre
+4	What is the essence of teshuvah?	Qual é a essência da teshuvá?
+5	That a person knows and believes	Que a pessoa saiba e acredite
+6	that HaShem is always with him	que HaShem está sempre com ela
+7	Always	Sempre
+8	This	Isto
+9	At every time	Em todo tempo
+10	In every place. What place?	Em todo lugar. Que lugar?
+11	In every place	Em todo lugar
+12	Even if a person has descended to the darkest places	Mesmo que a pessoa tenha descido aos lugares mais sombrios
+13	descended to the worst places	descido aos piores lugares
+14	As it is written	Como está escrito
+15	"Who dwells with them in the midst of their impurity"	"Que habita com eles em meio à sua impureza"
+16	Any place	Qualquer lugar
+17	If a person knows that HaShem is always with him	Se a pessoa sabe que HaShem está sempre com ela
+18	But a person must know it in every place	Mas a pessoa precisa saber isso em todo lugar
+19	Because a person thinks	Porque a pessoa pensa
+20	maybe he had a fall, he thinks: that's it	que talvez tenha caído, pensa: acabou
+21	HaShem has left him	HaShem o abandonou
+22	Where is HaShem? Why did I fall?	Onde está HaShem? Por que eu caí?
+23	He goes down, falls, finds himself there	Desce, cai, se encontra ali
+24	On the verse	Sobre o versículo
+25	"Who dwells with them in the midst of their impurity"	"Que habita com eles em meio à sua impureza"
+26	the holy Rashi writes	o santo Rashi escreve
+27	even when they are impure	mesmo quando estão impuros
+28	the Shechinah is with them	a Shechiná está com eles
+29	Therefore we must know	Por isso precisamos saber
+30	that this is the essence of teshuvah	que esta é a essência da teshuvá
+31	This knowledge that HaShem is always with you	Este conhecimento de que HaShem está sempre com você
+32	this is the essence of teshuvah	esta é a essência da teshuvá
+33	He writes	Ele escreve
+34	It is understood in all the holy books	Entende-se em todos os livros sagrados
+35	that HaShem is with us	que HaShem está conosco
+36	with each and every one	com cada um e um
+37	even with the worst sinner	até com o pior pecador
+38	in the entire world	em todo o mundo
+39	There is no one who knows	Não há ninguém que saiba
+40	maybe	talvez
+41	Everyone says: no	Todos dizem: não
+42	all his life	a vida inteira
+43	says: maybe it's not me	diz: talvez não seja eu
+44	it's not	não é
+45	Rabbi Natan emphasizes to everyone	Rabi Natan enfatiza a todos
+46	I repeat to you once more	Repito para vocês mais uma vez
+47	that HaShem	que HaShem
+48	is with each and every one	está com cada um e um
+49	even the worst sinner	até o pior pecador
+50	in the world	do mundo
+51	in the entire world	do mundo inteiro
+52	This is the matter of Elul	Este é o assunto de Elul
+53	If only…	Se apenas…
+54	There you are	Ali você está
+55	…	…
+56	As long as a person	Enquanto a pessoa
+57	fixes this in his mind	fixar isto em sua mente
+58	in his heart	em seu coração
+59	takes this into his heart	levar isto ao seu coração
+60	truly	de verdade
+61	as it is written in the verse	como está escrito no versículo
+62	"You shall know this day and take it to your heart"	"Saberás hoje e levarás ao teu coração"
+63	"that Adonai is Elokim in the heavens above"	"que Adonai é Elokim nos céus acima"
+64	"and on the earth beneath; there is no other"	"e na terra abaixo; não há outro"
+65	then certainly	então com certeza
+66	he has great hope	ele tem grande esperança
+67	all the days of his life, to merit	todos os dias de sua vida, de merecer
+68	the path of teshuvah in truth	o caminho da teshuvá de verdade
+69	One more thing	Mais uma coisa
+70	Rabbi Natan writes here things	Rabi Natan escreve aqui coisas
+71	that are absolutely clear	que são absolutamente claras
+72	Hilchot Edut, halachah 5, seif 9	Hilchot Edut, halachá 5, seif 9
+73	Edut	Edut
+74	seif 9	seif 9
+75	Rabbi Shalom, the women	Rabino Shalom, as mulheres
+76	Every day I mention you	Todos os dias eu te menciono
+77	Thank you, thank you	Obrigado, obrigado
+78	Since these things	Como estas coisas
+79	Rabbi Natan says this is the essence of teshuvah	Rabi Natan diz que esta é a essência da teshuvá
+80	So I will repeat a few points once more	Por isso repito mais alguns pontos
+81	We must know that HaShem	Precisamos saber que HaShem
+82	is by you, over you, with you	está junto de você, sobre você, com você
+83	each and every one	cada um e um
+84	always	sempre
+85	There is not one second in life	Não há um segundo na vida
+86	in which HaShem is not with you, none	em que HaShem não esteja com você, nenhum
+87	But a person may think: HaShem is with me	Mas a pessoa pode pensar: HaShem está comigo
+88	but, heaven forbid, a person fell, descended, sank	mas, D'us nos livre, a pessoa caiu, desceu, afundou
+89	He says: in every place	Ele diz: em todo lugar
+90	In every place	Em todo lugar
+91	Don't say	Não diga
+92	"It's not speaking about this Jew" — no	"Não está falando deste judeu" — não
+93	every place	todo lugar
+94	The mitzvot of HaShem	As mitsvot de HaShem
+95	As Rashi explained on the verse	Como Rashi explicou sobre o versículo
+96	even though they are impure	mesmo que estejam impuros
+97	the Shechinah is with them	a Shechiná está com eles
+98	Therefore we must know	Por isso precisamos saber
+99	that this is the essence of the path of teshuvah	que esta é a essência do caminho da teshuvá
+100	this knowledge	este conhecimento
+101	that HaShem is always with you,	de que HaShem está sempre com você,
+102	this is	esta é
+103	the essence of teshuvah.	a essência da teshuvá.
+104	If the Yetzer Hara puts a thought into you,	Se o Yetzer Hará colocar em você o pensamento,
+105	heaven forbid, that HaShem will not have mercy,	D'us nos livre, de que HaShem não terá misericórdia,
+106	that's it. That is the only fall.	pronto. Essa é a única queda.
+107	If a certain person became impure,	Se uma certa pessoa se contaminou,
+108	stumbled,	tropeçou,
+109	Rabbi Natan writes,	Rabi Natan escreve,
+110	even	até
+111	the worst sinner	o pior pecador
+112	in the entire world.	do mundo inteiro.
+113	A person knows,	A pessoa sabe,
+114	a sinner worse than the whole world.	um pecador pior do que o mundo inteiro.
+115	Rabbi Natan says,	Rabi Natan diz,
+116	that a person who knows this knowledge	que a pessoa que conhece este conhecimento
+117	certainly has great hope,	com certeza tem grande esperança,
+118	all the days of his life, to merit the path of teshuvah in truth.	todos os dias de sua vida, de merecer o caminho da teshuvá de verdade.
+119	Wow, Creator of the world!	Que Criador do mundo!
+120	Thank HaShem.	Graças a HaShem.
+121	Thank HaShem, thank HaShem.	Graças a HaShem, graças a HaShem.
+122	He strengthened us so much.	Ele nos fortaleceu muito.
+123	What a book, what a wonderful book this is.	Que livro, que livro maravilhoso este.
+124	What a wonderful book.	Que livro maravilhoso.
+125	What, what.	Que, que.
+126	This is strengthening.	Isto é fortalecimento.
+127	What	Que
+128	The Rabbi said,	O rabino disse,
+129	until this year,	até este ano,
+130	whenever Elul came,	sempre que chegava Elul,
+131	he would tremble.	ele tremia.
+132	As it is written, he would shake all over.	Como está escrito, ele sacudia por inteiro.
+133	Elul, what	Elul, o quê
+134	Judgment Day,	o Dia do Julgamento,
+135	afraid.	medo.
+136	But what Rabbi Shalom	Mas o que o Rabino Shalom
+137	reveals, this truth, that HaShem	revela, esta verdade, de que HaShem
+138	is our Father.	é o nosso Pai.
+139	HaShem, true,	HaShem, é verdade,
+140	Elokim,	Elokim,
+141	Judge,	Juiz,
+142	He is King, King.	Ele é Rei, Rei.
+143	But He is our Father.	Mas Ele é o nosso Pai.
+144	My Father.	Meu Pai.
+145	He is my father,	Ele é meu pai,
+146	and my father is a king. Good.	e meu pai é um rei. Bom.
+147	I'll tell you,	Vou te contar,
+148	that I have a father, this is a father.	que eu tenho um pai, este é um pai.
+149	A king father.	Um pai que é rei.
+150	King of the whole world. King of the world.	Rei do mundo inteiro. Rei do mundo.
+151	My father.	Meu pai.
+152	My father is the Judge of the world, Elokim.	Meu pai é o Juiz do mundo, Elokim.
+153	Father, my father.	Pai, meu pai.
+154	When a person knows: this is my father,	Quando a pessoa sabe: este é meu pai,
+155	everything becomes sweet.	tudo fica doce.
+156	Everything becomes sweet.	Tudo fica doce.
+157	Everything becomes mercy.	Tudo se torna misericórdia.
+158	A merciful father.	Um pai misericordioso.
+159	"As a father has mercy on his children."	"Como um pai tem compaixão dos filhos."
+160	Father.	Pai.
+161	That is why we say Avinu Malkeinu.	Por isso dizemos Avinu Malkeinu.
+162	First of all the Father, He is my father.	Primeiro de tudo o Pai, Ele é meu pai.
+163	Father is a king.	O pai é um rei.
+164	My father.	Meu pai.
+165	A father who forgoes his honor, his honor is forgone.	Um pai que abre mão da sua honra, a sua honra é cedida.
+166	A king who forgoes his honor — it is not forgone.	Um rei que abre mão da sua honra — ela não é cedida.
+167	You sinned before the king — you're ruined.	Você pecou diante do rei — está acabado.
+168	A king, Elokim.	Um rei, Elokim.
+169	But a father,	Mas um pai,
+170	father, my father.	pai, meu pai.
+171	A father who forgoes his honor,	Um pai que abre mão da sua honra,
+172	who has graced me	que me concedeu a graça
+173	of what I wrote	do que escrevi
+174	I remain with Father,	Eu permaneço com o Pai,
+175	who graces me to understand	que me concede a graça de entender
+176	three things	três coisas
+177	that change the entire picture.	que mudam o quadro inteiro.
+178	He is a father, when a person knows,	Ele é um pai, quando a pessoa sabe,
+179	my father.	meu pai.
+180	Father,	Pai,
+181	a person who knows that HaShem is his father has	a pessoa que sabe que HaShem é o seu pai tem
+182	Father.	Pai.
+183	total trust.	confiança total.
+184	Because my father	Porque meu pai
+185	loves me	me ama
+186	and wants to do for me	e quer fazer por mim
+187	the very best in the world.	o melhor do mundo.
+188	Materially and spiritually.	No material e no espiritual.
+189	My father.	Meu pai.
+190	Father.	Pai.
+191	What does he want?	O que ele quer?
+192	Every father.	Todo pai.
+193	Every father wants each of his sons to be	Todo pai quer que cada um de seus filhos seja
+194	like Moshe Rabbeinu,	como Moshe Rabeinu,
+195	like all the tzaddikim.	como todos os tsadikim.
+196	Also rich, like Korach.	E também rico, como Korach.
+197	So I didn't see you get excited.	Então não vi vocês se emocionarem.
+198	I said rich,	Eu disse rico,
+199	may HaShem let you see it all the days of your lives.	que HaShem permita que vejam isso todos os dias de suas vidas.
+200	Rich.	Rico.
+201	Also HaShem,	E também HaShem,
+202	also healthy, strong,	também saudável, forte,
+203	married, with children,	casado, com filhos,
+204	tzaddikim.	tsadikim.
+205	In short,	Em resumo,
+206	everything, all the perfection in the world,	tudo, toda a perfeição do mundo,
+207	HaShem, my Father, wants.	HaShem, meu Pai, quer.
+208	Therefore a person who has	Por isso a pessoa que tem
+209	the knowledge	o conhecimento
+210	that he has a father,	de que tem um pai,
+211	has total trust.	tem confiança total.
+212	Father.	Pai.
+213	He said, this	Ele disse, isto
+214	wants	quer
+215	to give us everything.	nos dar tudo.
+216	A person who has some fear, some worry,	A pessoa que tem algum medo, alguma preocupação,
+217	some such thing,	alguma coisa assim,
+218	is not living the reality that he has a father.	não está vivendo a realidade de que tem um pai.
+219	So he worries: what will be?	Por isso se preocupa: o que será?
+220	I didn't pray, I didn't do teshuvah,	Não rezei, não fiz teshuvá,
+221	it doesn't matter what you do.	não importa o que você faça.
+222	A father wants to give his son everything.	Um pai quer dar ao seu filho tudo.
+223	Everything.	Tudo.
+224	This is the first thing that results when a person knows we have a father.	Esta é a primeira coisa que resulta quando a pessoa sabe que temos um pai.
+225	The second thing,	A segunda coisa,
+226	I have a father, right?	eu tenho um pai, certo?
+227	A father who loves me,	Um pai que me ama,
+228	wants to give me everything.	quer me dar tudo.
+229	I too am his son,	Eu também sou filho dele,
+230	I want to make him happy.	quero alegrá-lo.
+231	The second thing that results is that a person gets a desire,	A segunda coisa que resulta é que a pessoa recebe um desejo,
+232	the strongest possible.	o mais forte possível.
+233	A perfect desire.	Um desejo perfeito.
+234	I want	Eu quero
+235	to make my father happy,	alegrar o meu pai,
+236	to do everything my father commands and wants.	fazer tudo o que meu pai ordena e quer.
+237	I want to do everything in the best way.	Quero fazer tudo da melhor forma.
+238	My father.	Meu pai.
+239	I want to obey him.	Quero ouvi-lo.
+240	The second thing is the desire.	A segunda coisa é o desejo.
+241	In a person who lives that this is a father,	Na pessoa que vive que este é um pai,
+242	he gets the knowledge: I am a son,	recebe o conhecimento: eu sou filho,
+243	I want to make father happy completely.	quero alegrar o pai por completo.
+244	I want to do everything my father commands him.	Quero fazer tudo o que meu pai lhe ordena.
+245	Everything my father wants from me, I want.	Tudo o que meu pai quer de mim, eu quero.
+246	This is the second thing.	Esta é a segunda coisa.
+247	The third thing is peace.	A terceira coisa é a paz.
+248	He is my father, but He is also your father.	Ele é meu pai, mas também é o seu pai.
+249	Also your father.	Também o seu pai.
+250	This knowledge that HaShem is my father,	Este conhecimento de que HaShem é o meu pai,
+251	and the Father of everyone,	e o Pai de todos,
+252	gives me the truth to be at peace with everyone.	me dá a verdade de estar em paz com todos.
+253	To love everyone.	De amar a todos.
+254	A father wants all his children to love one another.	Um pai quer que todos os seus filhos se amem uns aos outros.
+255	To be at peace with one another.	Estar em paz uns com os outros.
+256	This is how we must arrive at the knowledge of Father.	Assim precisamos chegar ao conhecimento do Pai.
+257	And a person has three things.	E a pessoa tem três coisas.
+258	Total trust, total desire, and total peace.	Confiança total, desejo total e paz total.
+259	Total peace.	Paz total.
+260	Father, my father.	Pai, meu pai.
+261	Because what I began to read to you,	Porque o que comecei a ler para vocês,
+262	in all the halachot,	em todas as halachot,
+263	says, the essence of the path of teshuvah that Moshe Rabbeinu did,	diz, a essência do caminho da teshuvá que Moshe Rabeinu fez,
+264	and the tzaddikim after him,	e os tsadikim depois dele,
+265	this is the essence of teshuvah from the month of Elul.	esta é a essência da teshuvá desde o mês de Elul.
+266	In the month of Elul, Rabbeinu brings the kavanot of Elul,	No mês de Elul, Rabeinu traz as kavanot de Elul,
+267	and gives an opening and a path.	e dá uma abertura e um caminho.
+268	The Maharal says that the simple meaning that comes out of this	O Maharal diz que o sentido simples que sai disto
+269	for all simple people,	para todas as pessoas simples,
+270	is that HaShem, in His great virtue,	é que HaShem, em Sua grande virtude,
+271	in His mercy, let us know through true tzaddikim	em Sua misericórdia, nos fez saber por meio de verdadeiros tsadikim
+272	that He gives an opening, a path.	que Ele dá uma abertura, um caminho.
+273	That is, even from the depths of the very many seas,	Ou seja, mesmo do fundo dos muitíssimos mares,
+274	in the depths of the very, very many seas,	no fundo dos muitíssimos, muitíssimos mares,
+275	that wash over a person,	que se abatem sobre a pessoa,
+276	the many waves of the sea, literally,	as muitas ondas do mar, literalmente,
+277	in the sense of "all Your breakers and Your waves passed over me."	no sentido de "todas as Tuas ondas e vagas passaram sobre mim."
+278	As it is written, "You cast me into the depths of the sea."	Como está escrito, "Lançaste-me nas profundezas do mar."
+279	Rabbi Natan says,	Rabi Natan diz,
+280	even if a person descended to the lowest places,	mesmo que a pessoa tenha descido aos lugares mais baixos,
+281	and is sent to the highest places,	e seja enviada aos lugares mais altos,
+282	Rabbi Natan says, the essential path is made,	Rabi Natan diz, o caminho essencial é feito,
+283	so that we can do teshuvah always, in every place,	para que possamos fazer teshuvá sempre, em todo lugar,
+284	by knowing and believing	sabendo e acreditando
+285	that He is in whatever place one is.	que Ele está em qualquer lugar em que se esteja.
+286	As we said before, HaShem is with you, always.	Como dissemos antes, HaShem está com você, sempre.
+287	Even in the most abominable places,	Mesmo nos lugares mais abomináveis,
+288	the most impure, he stumbled, descended,	os mais impuros, tropeçou, desceu,
+289	lost himself.	perdeu-se.
+290	HaShem is here with me too.	HaShem está aqui comigo também.
+291	With this knowledge he can easily do teshuvah from any place.	Com este conhecimento ele pode facilmente fazer teshuvá de qualquer lugar.
+292	HaShem is always with me.	HaShem está sempre comigo.
+293	So	Então
+294	yes,	sim,
+295	because our holy Rabbeinu	porque nosso santo Rabeinu
+296	writes	escreve
+297	writes: the essence of teshuvah is in the month of Elul.	escreve: a essência da teshuvá está no mês de Elul.
+298	Because they are days of favor.	Porque são dias de bom propósito.
+299	When we can receive spirit.	Quando podemos receber espírito.
+300	And the opening of the path is written there.	E a abertura do caminho está escrita ali.
+301	"Let us walk in it."	"Andemos nele."
+302	You need to listen: I explained to you, I explained three	Precisam ouvir: expliquei a vocês, expliquei três
+303	things, that one wants a person to know that he has a father.	coisas, que se quer que a pessoa saiba que tem um pai.
+304	Rabbeinu writes	Rabeinu escreve
+305	that Moshe	que Moshe
+306	bound himself	ligou-se
+307	even to the lowliest of Israel.	até ao mais baixo de Israel.
+308	Even the worst in the world.	Até o pior do mundo.
+309	He gave his soul for them.	Entregou sua alma por eles.
+310	That's it, you know	Pronto, você sabe
+311	that I have a father,	que eu tenho um pai,
+312	and he is also your father.	e ele é também o seu pai.
+313	Even the worst Jew,	Até o pior judeu,
+314	even in the worst places,	até nos piores lugares,
+315	has the same Father too.	tem também o mesmo Pai.
+316	I must be connected with him.	Eu preciso estar ligado a ele.
+317	Moshe Rabbeinu attained	Moshe Rabeinu alcançou
+318	the truth.	a verdade.
+319	He attained the truth.	Alcançou a verdade.
+320	Rabbeinu says,	Rabeinu diz,
+321	he bound himself	ligou-se
+322	even to the lowliest of Israel.	até ao mais baixo de Israel.
+323	He gave his soul for them.	Entregou sua alma por eles.
+324	Moshe was uniting	Moshe unia
+325	uniting	unia
+326	and binding himself with all of Israel.	e ligava-se a todo Israel.
+327	Even with the lowest of the low.	Até com o mais baixo dos baixos.
+328	Do you want to live the truth?	Você quer viver a verdade?
+329	You must love every Jew.	Precisa amar todo judeu.
+330	Every Jew.	Todo judeu.
+331	Even the lowest of the low.	Até o mais baixo dos baixos.
+332	That's what Moshe Rabbeinu did.	Assim fez Moshe Rabeinu.
+333	Are you better than Moshe Rabbeinu?	Você é melhor do que Moshe Rabeinu?
+334	Even a Jew who is truly	Mesmo um judeu que está de fato
+335	the farthest in the world, the farthest in the world.	o mais distante do mundo, o mais distante do mundo.
+336	Even so, I must be united and with him.	Mesmo assim, preciso estar unido e com ele.
+337	Even the lowest in the world.	Mesmo o mais baixo do mundo.
+338	Rabbeinu writes	Rabeinu escreve
+339	for there is certainly some divinity in him.	pois certamente há nele alguma divindade.
+340	Every Jew, even if he doesn't know, has divinity in him.	Todo judeu, mesmo que não saiba, tem divindade nele.
+341	He wants us to need	Ele quer que precisemos
+342	to know about ourselves	saber sobre nós mesmos
+343	always, every	sempre, todo
+344	moment of life,	momento da vida,
+345	in any place whatsoever, HaShem is with me.	em qualquer lugar que seja, HaShem está comigo.
+346	HaShem is with me.	HaShem está comigo.
+347	A reality that HaShem	Uma realidade: que HaShem
+348	is with you.	está com você.
+349	A reality in the world.	Uma realidade no mundo.
+350	This knowledge	Este conhecimento
+351	gives a person	dá à pessoa
+352	the ability to do teshuvah always.	a capacidade de fazer teshuvá sempre.
+353	HaShem is with me,	HaShem está comigo,
+354	hears me, loves me, listens to me,	me ouve, me ama, me escuta,
+355	wants me to do teshuvah, wants my teshuvah.	quer que eu faça teshuvá, quer a minha teshuvá.
+356	This is the work of Elul,	Este é o trabalho de Elul,
+357	and this is the work of an entire life.	e este é o trabalho da vida inteira.
+358	I wrote in the book	Escrevi no livro
+359	Sa'ar Ruach uTefilah,	Sa'ar Ruach uTefilá,
+360	I wrote	escrevi
+361	three	três
+362	channels of abundance.	canais de abundância.
+363	A person needs to see	A pessoa precisa ver
+364	three channels of abundance.	três canais de abundância.
+365	His father,	Seu pai,
+366	his mother,	sua mãe,
+367	and the	e o
+368	and the main one is his rabbi.	e o principal é o seu rabino.
+369	The main one is his rabbi.	O principal é o seu rabino.
+370	I wrote,	Escrevi,
+371	that a person's primary rabbi,	que o rabino principal da pessoa,
+372	through him the student receives all his abundance.	por meio dele o aluno recebe toda a sua abundância.
+373	All abundance, material and spiritual, he receives everything from his rabbi.	Toda a abundância, material e espiritual, ele recebe tudo do seu rabino.
+374	He says, I wrote,	Diz, escrevi,
+375	as long as they see in the heavenly court	enquanto se vê no tribunal celestial
+376	that the student has a rabbi over him	que o aluno tem um rabino sobre ele
+377	who bestows upon him,	que o abençoa,
+378	who leads him,	que o conduz,
+379	they do not judge him.	não o julgam.
+380	Because they leave it to his rabbi	Porque o remetem ao seu rabino
+381	to deal with his rectification.	para cuidar da sua correção.
+382	213.	213.
+383	One begins: one, two, three,	Um começa: um, dois, três,
+384	one, two, one, three.	um, dois, um, três.
+385	Two, one, three.	Dois, um, três.
+386	Therefore he says, he wrote	Por isso ele diz, escreveu
+387	HaShem graced me to write	HaShem me concedeu a graça de escrever
+388	that the work of the Yetzer Hara	que o trabalho do Yetzer Hará
+389	is to distance a person from his rabbi.	é afastar a pessoa do seu rabino.
+390	Because the Yetzer Hara knows	Porque o Yetzer Hará sabe
+391	that all of a person's rectification depends on this.	que toda a correção da pessoa depende disso.
+392	So he puts into the student	Por isso coloca no aluno
+393	opposition to his rabbi,	oposição ao seu rabino,
+394	twists his heart,	entorta seu coração,
+395	questions about his rabbi,	questionamentos sobre o rabino,
+396	incites him to bury all	incita-o a enterrar todas
+397	the good things the rabbi did for him.	as coisas boas que o rabino fez por ele.
+398	Therefore	Por isso
+399	everyone who cares about his life must	todo aquele que tem pena de sua vida deve
+400	thank every day,	agradecer todos os dias,
+401	from the depths of his heart, his rabbi,	do fundo do coração, ao seu rabino,
+402	and always remind himself	e lembrar a si mesmo sempre
+403	from where his rabbi took him out.	de onde o seu rabino o tirou.
+404	From what influences,	De que influências,
+405	how much he did for him,	quanto fez por ele,
+406	brought him close, made for him	aproximou-o, fez por ele
+407	he has a home, and so on.	ele tem um lar, e assim por diante.
+408	Heaven forbid a person denies	D'us nos livre a pessoa negar
+409	the good, this closes for him	o bem, isso fecha para ele
+410	all the channels of abundance.	todos os canais de abundância.
+411	And there is no denial	E não há negação
+412	There is no denial of good like denying	Não há negação do bem como negar
+413	the good that HaShem did for him	o bem que HaShem fez a ele
+414	in bringing him close to his rabbi.	ao aproximá-lo do seu rabino.
+415	None.	Não há.
+416	None, there is a whole chapter here	Não há, aqui há um capítulo inteiro
+417	ask about the good…, two, one, two.	pergunte sobre o bem…, dois, um, dois.
+418	Therefore	Por isso
+419	HaShem graced me	HaShem me concedeu a graça
+420	to write here an interpretation	de escrever aqui uma explicação
+421	entirely new of the Amidah.	totalmente nova da Amidá.
+422	Mincha of Erev	Mincha da véspera de
+423	Rosh HaShanah.	Rosh HaShaná.
+424	Mincha of Erev Rosh HaShanah.	Mincha da véspera de Rosh HaShaná.
+425	Mincha	Mincha
+426	"We thank You," two.	"Nós Te agradecemos", dois.
+427	There is a new interpretation here for the whole Amidah.	Há aqui uma explicação nova para toda a Amidá.
+428	"We thank You" — You are our Father.	"Nós Te agradecemos" — Tu és o nosso Pai.
+429	This is new.	Isto é novo.
+430	A completely new interpretation.	Uma explicação totalmente nova.
+431	The avreichim told me,	Os avreichim me disseram,
+432	to take the machzor,	para pegar o machzor,
+433	to pray the Amidah from the machzor every day.	para rezar a Amidá do machzor todos os dias.
+434	We were graced anew, everything is new.	Fomos agraciados de novo, tudo é novo.
+435	Everything is new.	Tudo é novo.
+436	Because the interpretations, wow.	Porque as explicações, uau.
+437	HaShem graced me to write you everything.	HaShem me concedeu a graça de escrever tudo para vocês.
+438	Literally everything.	Literalmente tudo.
+439	The whole order	Toda a ordem
+440	of Selichot,	das Selichot,
+441	and prostrating	e a prostração
+442	at Rabbeinu's tziyun.	no tsiyun de Rabeinu.
+443	Everything.	Tudo.
+444	You have everything on a page.	Vocês têm tudo numa folha.
+445	And like	E como
+446	already	já
+447	I wrote	escrevi
+448	"Behold, I bind myself"	"Eis que eu me ligo"
+449	"Behold, I love"	"Eis que eu amo"
