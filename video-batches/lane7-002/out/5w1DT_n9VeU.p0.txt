@@ -1,0 +1,65 @@
+0	So you're saying you witnessed the accident?	Então você diz que foi testemunha do acidente?
+1	Yes, officer.	Sim, senhor policial.
+2	I was standing right here when it happened.	Eu estava bem aqui quando aconteceu.
+3	I didn't ask where you were standing.	Não perguntei onde você estava.
+4	I asked if you saw the moments of the accident with your own eyes.	Perguntei se você viu os momentos do acidente com seus próprios olhos.
+5	Yes, I was standing at the crosswalk.	Sim, eu estava na faixa de pedestres.
+6	And I saw the red car driving through a red light	E vi o carro vermelho passar no sinal vermelho
+7	and crashing into the orange car.	e bater no carro laranja.
+8	And then they came...	E então vieram...
+9	Officer, I heard there was an accident here. What happened?	Senhor policial, ouvi dizer que houve um acidente aqui. O que aconteceu?
+10	There was an accident here, and I'm giving my testimony now.	Houve um acidente aqui, e estou prestando meu depoimento agora.
+11	Officer, look what happened to the orange car.	Senhor policial, olhe o que aconteceu com o carro laranja.
+12	It means that the driver of the red car	Isso significa que o motorista do carro vermelho
+13	was driving faster than the speed limit.	estava dirigindo acima da velocidade permitida.
+14	And because he wasn't focused, the accident happened.	E, por não estar concentrado, causou o acidente.
+15	Officer, give him a ticket.	Senhor policial, multe-o.
+16	Wait, wait, who are you?	Espere, espere, quem é você?
+17	I'm Itzik, Pushka's friend.	Sou o Itzik, amigo do Pushka.
+18	Itzik, were you here at the time of the accident?	Itzik, você estava aqui na hora do acidente?
+19	No, but Pushka told me that...	Não, mas o Pushka me contou que...
+20	Wait, if you weren't here,	Espere, se você não estava aqui,
+21	you can't give testimony.	você não pode prestar depoimento.
+22	Why not? I mean well.	Por que não? Estou vindo com boa intenção.
+23	I'm here to help the Israel Police bring justice to light.	Estou aqui para ajudar a Polícia de Israel a trazer a justiça à luz.
+24	Thanks for wanting to help, but you're not a witness,	Obrigado por querer ajudar, mas você não é testemunha,
+25	and you can't give testimony about the accident.	e não pode prestar depoimento sobre o acidente.
+26	Wait, a witness is someone who saw with his own eyes what happened.	Espere, testemunha é quem viu com os próprios olhos o que aconteceu.
+27	You didn't see, so you can't testify.	Você não viu, então não pode testemunhar.
+28	But Pushka told me...	Mas o Pushka me disse...
+29	What Pushka told you is not testimony.	O que o Pushka lhe disse não é testemunho.
+30	It's hearsay.	É ouvir dizer.
+31	In a court of law...	Em um tribunal...
+32	only the testimony is accepted	só se aceita o testemunho
+33	of someone who saw it himself.	de quem viu pessoalmente.
+34	So only someone who was really here can testify?	Então só quem esteve mesmo aqui pode testemunhar?
+35	Exactly. Only someone who saw the event with his own eyes	Exatamente. Só quem viu o acontecimento com os próprios olhos
+36	is a valid witness.	é uma testemunha válida.
+37	This is exactly like the Parashot of the week.	É exatamente como nas Parashot da semana.
+38	What's the connection?	Qual é a relação?
+39	Listen.	Escute.
+40	At the beginning of the Parashah, Moshe reminds the Children of Israel	No início da Parashá, Moshê lembra aos filhos de Israel
+41	that if they keep the Torah and the mitzvot,	que, se eles guardarem a Torá e as mitsvot,
+42	they will prolong their days on the promised land.	prolongarão seus dias na terra prometida.
+43	And he summons the heavens and the earth	E ele convoca os céus e a terra
+44	to be witnesses.	para serem testemunhas.
+45	And this is what he says:	E assim ele diz:
+46	"Give ear, O heavens, and I will speak,	"Escutai, ó céus, e falarei,
+47	and let the earth hear the words of my mouth."	e ouça a terra as palavras da minha boca."
+48	Witnesses? Why does he need witnesses?	Testemunhas? Por que ele precisa de testemunhas?
+49	Because the heavens and the earth exist forever.	Porque os céus e a terra existem para sempre.
+50	They will always be here.	Eles estarão sempre aqui.
+51	If in the future the people of Israel say:	Se no futuro o povo de Israel disser:
+52	"We were not warned,"	"Não nos avisaram",
+53	the heavens and the earth will be able to testify:	os céus e a terra poderão testemunhar:
+54	"We were there, we heard, Moshe warned you."	"Estávamos lá, ouvimos, Moshê os advertiu."
+55	Oh, so the heavens and the earth are like witnesses in a courtroom?	Ah, então os céus e a terra são como testemunhas em um tribunal?
+56	Because they were there and saw everything?	Porque estavam lá e viram tudo?
+57	Exactly.	Exatamente.
+58	And that's exactly what we want in court:	E é exatamente isso que queremos no tribunal:
+59	reliable witnesses who saw with their own eyes	testemunhas confiáveis que viram com os próprios olhos
+60	the accident itself.	o próprio acidente.
+61	I saw it, he's right there!	Eu vi, é ele ali!
+62	He was driving fast!	Ele estava dirigindo rápido!
+63	Thanks for watching!	Obrigado por assistir!
+64	...Thank goodness!	...Graças a Deus!
