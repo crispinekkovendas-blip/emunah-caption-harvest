@@ -1,0 +1,374 @@
+900	They explain that the order should be that way. Yes, correct.	Eles explicam que a ordem deve ser assim. Sim, correto.
+901	Sorry: Rashi and the Rambam say the order must	Desculpem: Rashi e o Rambam dizem que a ordem deve
+902	follow what is written in the first compartment, from the side of	seguir o que está escrito no primeiro compartimento, do lado de
+903	the reader. Because that is their proof, that is what	quem lê. Porque essa é a prova deles, é o que
+904	ends the verse. The Gemara ends: "and the reader reads"	termina a frase. A Guemará termina: "e o leitor lê"
+905	"in their order." So it is written, "the reader reads." Therefore Rashi says	"em sua ordem". Assim está escrito, "o leitor lê". Por isso Rashi diz
+906	"in their order": as they are written in the Torah, the earlier first, the later after.	"em sua ordem": como estão escritas na Torá, a anterior primeiro, a posterior depois.
+907	Therefore what is written, Kadesh and VeHaya ki, is on the right	Portanto o que está escrito, Kadesh e Vehayá ki, fica à direita
+908	of the reader, as when he reads in his usual way,	de quem lê, como quando lê do modo habitual,
+909	from his right to his left, and so he reads them in order. What	da direita para a esquerda, e assim lê na ordem. Qual
+910	is the meaning of this? So according to Rashi, the Rambam, and also	é o sentido? Então, segundo Rashi, o Rambam e também
+911	Rabenu Tam, what is written in the first Baraita, "What is	Rabenu Tam, o que está escrito na primeira Baraita, "Qual é
+912	their order: Kadesh, VeHaya, Shema, VeHaya," refers to a person	a ordem delas: Kadesh, Vehayá, Shemá, Vehayá", refere-se a uma pessoa
+913	who reads, "and he reads them in order." So look, as if	que lê, "e lê na ordem". Então olhem, como se
+914	someone were facing me. The order of the parashiot comes out like this:	alguém estivesse à minha frente. A ordem das parashiot fica assim:
+915	Kadesh, VeHaya ki yevi'acha,	Kadesh, Vehayá ki yevi'acha,
+916	Shema, VeHaya im shamoa. According to Rabenu Tam, Shema and VeHaya im	Shemá, Vehayá im shamoa. Segundo Rabenu Tam, Shemá e Vehayá im
+917	shamoa are switched. That is the pair of tefilin according to Rashi	shamoa se trocam. Esse é o par de tefilin segundo Rashi
+918	and the Rambam: our tefilin are like this, facing the reader. So	e o Rambam: nossos tefilin são assim, voltados para quem lê. Então
+919	if you are holding the parashiot and want to put	se você está segurando as parashiot e quer colocar
+920	them in, you begin and first put in	as parashiot, você começa e primeiro coloca
+921	on the right: you put in VeHaya im shamoa, and then	à direita: você coloca Vehayá im shamoa, e depois
+922	you put in Shema, and then you put in	coloca Shemá, e depois coloca
+923	VeHaya ki yevi'acha, and then Kadesh. So Kadesh is on your left, which is	Vehayá ki yevi'acha, e depois Kadesh. Assim Kadesh fica à sua esquerda, que é
+924	the reader's right. This is the view of Rashi and the Rambam, and	a direita de quem lê. Essa é a opinião de Rashi e do Rambam, e
+925	Rabenu Tam agrees on this; he does not dispute Rashi	Rabenu Tam concorda nisso; ele não discorda de Rashi
+926	and the Rambam.	e do Rambam.
+927	But the Rivad disputes the Rambam here, and Rashi.	Mas o Rivad discorda aqui do Rambam e de Rashi.
+928	Actually he disputes in two ways. First of all he says	Na verdade ele discorda em dois pontos. Primeiro ele diz
+929	no: the main Baraita speaks	que não: a Baraita principal fala
+930	of the one who puts them on, not the reader. What do we care	de quem coloca, não de quem lê. O que nos importa
+931	about the reader? That is how his wording goes: "What do I	quem lê? É assim a redação dele: "O que me
+932	care about the reader? The main mitzvah is for the one who puts them on."	importa quem lê? A mitsvá principal é de quem coloca."
+933	His wording...	A redação dele...
+934	Let us read his wording: "for we have no need of his reading." What	Vamos ler a redação dele: "pois não precisamos da leitura dele". O que
+935	do we care about one who reads? We are	nos importa quem lê? Estamos
+936	speaking of the person who fulfills the mitzvah. Therefore, according to	falando da pessoa que cumpre a mitsvá. Por isso, segundo
+937	the Rivad the order is exactly the opposite. That is,	o Rivad a ordem é exatamente a oposta. Ou seja,
+938	on the right of the reader must be Kadesh, VeHaya ki. Now	à direita de quem lê deve ficar Kadesh, Vehayá ki. Agora
+939	fine, the Rivad disputes Rashi and the Rambam also	bem, o Rivad discorda de Rashi e do Rambam também
+940	on the question of Shema and VeHaya im shamoa, because he holds	quanto a Shemá e Vehayá im shamoa, pois ele sustenta
+941	like Rabenu Tam in this, that one must first put	como Rabenu Tam nisso, que primeiro se deve pôr
+942	VeHaya im shamoa and then Shema. So it comes out accordingly	Vehayá im shamoa e depois Shemá. Então, por isso, resulta
+943	that he is exactly the opposite of Rabenu Tam. That is,	que ele é exatamente o oposto de Rabenu Tam. Ou seja,
+944	according to the Rivad the order of the parashiot must be,	segundo o Rivad a ordem das parashiot deve ser,
+945	from right to left: Kadesh, VeHaya ki yevi'acha, VeHaya im shamoa,	da direita para a esquerda: Kadesh, Vehayá ki yevi'acha, Vehayá im shamoa,
+946	Shema. According to Rabenu Tam it is reversed: Kadesh, VeHaya ki yevi'acha, VeHaya im	Shemá. Segundo Rabenu Tam é invertido: Kadesh, Vehayá ki yevi'acha, Vehayá im
+947	shamoa, Shema. According to Rashi, because again he holds	shamoa, Shemá. Segundo Rashi, porque de novo ele sustenta
+948	like Rabenu Tam, that one must first put on the right	como Rabenu Tam, que primeiro se deve pôr à direita
+949	VeHaya im shamoa and then Shema, to turn it around like this.	Vehayá im shamoa e depois Shemá, invertendo assim.
+950	So the Rivad disputes the Rambam in two things,	Então o Rivad discorda do Rambam em duas coisas,
+951	and the Shimusha Rabba, according to the Rema MiPano, one more	e o Shimusha Rabá, segundo o Rema MiPano, só mais
+952	second, we will summarize: the Shimusha Rabba's view according to	um instante, vamos resumir: a opinião do Shimusha Rabá segundo
+953	the Rema MiPano.	o Rema MiPano.
+954	Here he holds like Rashi in the dispute, not with	Aqui ele sustenta como Rashi na disputa, não com
+955	Rabenu Tam, but he holds that it must	Rabenu Tam, mas sustenta que deve
+956	be from the side of the one who puts them on. So the order of the parashiot according to	ser do lado de quem coloca. Assim a ordem das parashiot segundo
+957	the Shimusha Rabba goes like this: Kadesh, VeHaya ki yevi'acha, Shema,	o Shimusha Rabá é assim: Kadesh, Vehayá ki yevi'acha, Shemá,
+958	VeHaya im shamoa. According to the Rema MiPano, according to the Shimusha	Vehayá im shamoa. Segundo o Rema MiPano, segundo o Shimusha
+959	Rabba, and the Rema MiPano's view. So, a summary of the four	Rabá, e a opinião do Rema MiPano. Então, um resumo das quatro
+960	views, very briefly.	opiniões, bem resumido.
+961	According to Rashi and Rabenu Tam, Rashi, the Rambam and Rabenu	Segundo Rashi e Rabenu Tam, Rashi, o Rambam e Rabenu
+962	Tam, we go from right to left of the reader,	Tam, vamos da direita para a esquerda de quem lê,
+963	that is, whoever stands facing us. Then Kadesh li kol	isto é, de quem está à frente. Então Kadesh li kol
+964	bechor, VeHaya ki yevi'acha. It begins with Kadesh, VeHaya ki yevi'acha, and then	bechor, Vehayá ki yevi'acha. Começa com Kadesh, Vehayá ki yevi'acha, e depois
+965	here, according to Rashi, Shema, VeHaya im shamoa. According to Rabenu Tam	aqui, segundo Rashi, Shemá, Vehayá im shamoa. Segundo Rabenu Tam,
+966	the reverse: VeHaya im shamoa, Shema. That is Rashi and Rabenu Tam. Fine.	o inverso: Vehayá im shamoa, Shemá. Esses são Rashi e Rabenu Tam. Bem.
+967	The Rivad and the Shimusha Rabba say the opposite. What do they	O Rivad e o Shimusha Rabá dizem o oposto. O que eles
+968	say? That you have to go from the one who puts them on. So Kadesh,	dizem? Que é preciso ir a partir de quem coloca. Então Kadesh,
+969	VeHaya ki yevi'acha, both agree. And then the Rivad	Vehayá ki yevi'acha, os dois concordam. E depois o Rivad
+970	agrees with Rabenu Tam, so here it must be VeHaya	concorda com Rabenu Tam, então aqui deve ser Vehayá
+971	im shamoa, Shema, like Rabenu Tam really, but reversed.	im shamoa, Shemá, como Rabenu Tam na verdade, mas invertido.
+972	And the Shimusha Rabba agrees with Rashi, and so it must	E o Shimusha Rabá concorda com Rashi, e assim deve
+973	be Kadesh, VeHaya ki yevi'acha, Shema, VeHaya im shamoa, in this order.	ser Kadesh, Vehayá ki yevi'acha, Shemá, Vehayá im shamoa, nessa ordem.
+974	These are the four parashiot, the four	Essas são as quatro parashiot, os quatro
+975	main pairs of tefilin that the people of Israel have. So,	pares principais de tefilin que o povo de Israel tem. Então,
+976	of course, most of Israel puts on Rashi's. Rabenu Tam's, there are	claro, a maioria de Israel coloca o de Rashi. O de Rabenu Tam, há
+977	Hasidim who do.	chassidim que colocam.
+978	And the Arizal used to write from time to time that whoever puts them on,	E o Arizal escrevia de vez em quando que quem os coloca,
+979	that during all the Ten Days of Repentance one also puts on the tefilin	que durante todos os Dez Dias de Arrependimento também se colocam os tefilin
+980	of the Shimusha Rabba. I heard that the Lubavitcher Rebbe used to	do Shimusha Rabá. Ouvi dizer que o Rebe de Lubavitch também
+981	put on the Rivad's too.	colocava o do Rivad.
+982	Four pairs of tefilin, the Rivad's too. So I heard.	Quatro pares de tefilin, também o do Rivad. Foi o que ouvi.
+983	There are very, very wondrous things about this,	Há coisas muito, muito maravilhosas sobre isso,
+984	because they found tefilin in the Genizah, and they also	porque encontraram tefilin na Genizá, e também
+985	opened tefilin of one of the Geonim, and saw that his tefilin	abriram tefilin de um dos Gueonim, e viram que os tefilin dele
+986	were arranged, if I am not mistaken, like Rabenu Tam's,	estavam dispostos, se não me engano, como os de Rabenu Tam,
+987	I think. And then, so...	acho. E então, assim...
+988	The Aruch HaShulchan asks and says, how does it begin,	O Aruch HaShulchan pergunta e diz, como começa,
+989	from the Mishneh LaMelech, I think. The Aruch HaShulchan asks:	do Mishné LaMelech, acho. O Aruch HaShulchan pergunta:
+990	how could it be? What?	como pode ser? O quê?
+991	If you say that the halacha follows Rashi, it comes out that Rabenu Tam did not	Se você diz que a halachá segue Rashi, resulta que Rabenu Tam não
+992	put on tefilin all his life. That cannot be.	colocou tefilin a vida inteira. Isso não pode ser.
+993	How can one say such a thing? Rabenu Tam did not	Como se pode dizer uma coisa dessas? Rabenu Tam não
+994	put on tefilin all his life? That's it. And then the Aruch HaShulchan	colocou tefilin a vida inteira? Pronto. E então o Aruch HaShulchan
+995	brings, no, sorry, it is the Migdal Oz. The Migdal Oz writes	traz, não, desculpem, é o Migdal Oz. O Migdal Oz escreve
+996	this question,	essa pergunta,
+997	and then he brings, yes, the Migdal Oz, he...	e então ele traz, sim, o Migdal Oz, ele...
+998	yes, yes, now I remember, the Migdal Oz brings	sim, sim, agora me lembro, o Migdal Oz traz
+999	that in truth both are right. That is what he writes. He	que na verdade ambos estão certos. É o que ele escreve. Ele
+1000	says...	diz...
+1001	that the ancients went and found in the grave of Yechezkel	que os antigos foram e encontraram no túmulo de Yechezkel,
+1002	the prophet, tefilin hidden beneath his head.	o profeta, tefilin guardados sob a sua cabeça.
+1003	Yes, tefilin hidden beneath his head, of the	Sim, tefilin guardados sob a sua cabeça, do
+1004	prophet.	profeta.
+1005	And they examined them, and they were fit, as the Rambam of blessed memory wrote. And so	E os examinaram, e estavam aptos, como escreveu o Rambam, de abençoada memória. E assim
+1006	they practiced in most of the kingdoms.	se praticava na maioria dos reinos.
+1007	Then he brings here, on the hidden teachings, he	Então ele traz aqui, sobre os ensinamentos ocultos, ele
+1008	brings here from the Kabbalah,	traz aqui da Cabalá,
+1009	he brings, according to the reasons of the hidden teachings, that there are two aspects,	ele traz, segundo os motivos da Cabalá, que há dois aspectos,
+1010	and so on. In short, he weighs in on this matter.	e assim por diante. Em suma, ele opina sobre esse assunto.
+1011	And the Aruch HaShulchan, on this topic, this is long,	E o Aruch HaShulchan, nesse tema, é longo,
+1012	the Aruch HaShulchan brings the Zohar and says that it is written: in this world	o Aruch HaShulchan traz o Zohar e diz que está escrito: neste mundo
+1013	the halacha follows Rashi; in the World to Come the halacha follows Rabenu Tam. As if	a halachá segue Rashi; no Mundo Vindouro a halachá segue Rabenu Tam. Como se
+1014	he really brings this there, as if these are the words of	ele realmente trouxesse isso ali, como se fossem as palavras do
+1015	the living Elokim, that there is a Responsa of Rabbi Yaakov	Elokim vivo, que há as Respostas de Rabi Yaakov
+1016	of Marvège,	de Marvège,
+1017	called Responsa from Heaven. It is a wondrous work,	chamadas Respostas do Céu. É uma obra maravilhosa,
+1018	by one of the Baalei HaTosafot. Rabbi Reuven Margaliot	de um dos Baalei HaTosafot. O Rabino Reuven Margaliot
+1019	published it. He would ask dream-questions, and they would	a publicou. Ele fazia perguntas em sonho, e
+1020	answer him. He would ask dream-questions and they would answer	lhe respondiam. Fazia perguntas em sonho e lhe respondiam.
+1021	him. By the way, one of the things he writes in the dream-questions,	A propósito, uma das coisas que ele escreve nas perguntas em sonho,
+1022	that he asked, is about immersion for those who had a seminal emission,	que ele perguntou, é sobre a imersão de quem teve emissão seminal,
+1023	baalei keri.	baalei keri.
+1024	So he brings there, I don't remember, very, very serious things,	Então ele traz ali, não me lembro, coisas muito, muito sérias,
+1025	that at least the	que ao menos o
+1026	cantor should be very careful to be pure, with the immersion of Ezra,	chazan deve cuidar muito de estar puro, com a imersão de Ezra,
+1027	he should be careful. And he brings that he understands there that this delays	deve cuidar. E ele traz que entende ali que isso atrasa
+1028	our redemption, that the chazanim must be	a nossa redenção, que os chazanim devem estar
+1029	truly pure. So he brings Rabbi Yaakov of Marvège, one	realmente puros. Assim ele traz Rabi Yaakov de Marvège, um
+1030	of the Baalei HaTosafot. So there are those who were careful about this,	dos Baalei HaTosafot. Então há quem tenha sido cuidadoso nisso,
+1031	although Rabbi Reuven Margaliot, in the introduction to his edition	embora o Rabino Reuven Margaliot, na introdução à sua edição
+1032	at Mossad HaRav Kook, on the Responsa from Heaven, he	no Mossad HaRav Kook, sobre as Respostas do Céu,
+1033	brings a very large expansion on the discussion of the question, this	traz um desenvolvimento muito grande da discussão da questão,
+1034	well-known one, "it is not in heaven": how to rule halacha from Responsa from	aquela conhecida, "não está nos céus": como decidir a halachá a partir de Respostas do
+1035	Heaven. He would go to sleep. There are	Céu. Ele ia dormir. Existem
+1036	questions, this is called a dream-question. He goes to sleep, gets up	perguntas, isso se chama pergunta em sonho. Vai dormir, levanta
+1037	in the morning with an answer. [snoring] Really like that. There are	de manhã com uma resposta. [ronco] Assim mesmo. Há
+1038	several methods of dream-question. There is a dream-question where	vários métodos de pergunta em sonho. Há a pergunta em sonho em que
+1039	a person asks and they answer him in a dream, and there is a question	a pessoa pergunta e lhe respondem em sonho, e há uma pergunta
+1040	so there is a method that says	assim, há um método que diz
+1041	that there is a method of dream-question in which a person places a parchment,	que há um método de pergunta em sonho em que a pessoa coloca um pergaminho,
+1042	and he wakes up in the morning and the answer is written on the parchment.	e acorda de manhã e a resposta está escrita no pergaminho.
+1043	So I don't understand anything about this. It's only once	Eu não entendo nada disso. Só uma vez
+1044	I think Rabbi Margaliot brings there the ways,	acho que o Rabino Margaliot traz ali os modos,
+1045	not that he outlines how to do it, I	não que ele descreva como se faz, eu
+1046	think, the ways of dream-questions. In short, but one	acho, os modos das perguntas em sonho. Enfim, mas um
+1047	of the giants of the world, of the early Baalei	dos gigantes do mundo, dos primeiros Baalei
+1048	HaTosafot (what are Tosafot? They are supernal angels), he	HaTosafot (o que são os Tosafot? São anjos supremos), ele
+1049	made a dream-question, questions, he	fez uma pergunta em sonho, perguntas, ele
+1050	asked whether the halacha follows Rashi or Rabenu Tam.	perguntou se a halachá segue Rashi ou Rabenu Tam.
+1051	So they gave him an answer there, which is...	Então lhe deram ali uma resposta, que é...
+1052	one that...	uma que...
+1053	we don't understand anything, as it were.	não entendemos nada, por assim dizer.
+1054	If I am not mistaken they told him that the whole heavenly retinue puts on	Se não me engano disseram-lhe que toda a corte celestial coloca
+1055	Rashi's, and the Holy One, blessed be He, puts on the other.	o de Rashi, e o Santo, Bendito Seja, coloca o outro.
+1056	One must understand how much these things are hidden	É preciso entender o quanto essas coisas são ocultas
+1057	and concealed from us. But if we take from this	e escondidas de nós. Mas se tirarmos disso
+1058	some tiny drop, one point for our subject, in order to	alguma gotinha, um ponto para o nosso assunto, a fim de
+1059	enter into this dispute: first of all, regarding the dispute between	entrar nessa disputa: primeiro, quanto à disputa entre
+1060	Rashi and Rabenu Tam, there is a very deep point here,	Rashi e Rabenu Tam, há aqui um ponto muito profundo,
+1061	in the question, actually. We know there are Kadesh and VeHaya ki, one pair, and	na questão, na verdade. Sabemos que há Kadesh e Vehayá ki, um par, e
+1062	Shema and VeHaya im shamoa.	Shemá e Vehayá im shamoa.
+1063	And very briefly, truly, since this is a very, very	E muito resumidamente, de fato, pois este é um assunto muito, muito
+1064	long topic, but very briefly, the relation between the two	longo, mas muito resumidamente, a relação entre as duas
+1065	first parashiot and the two second parashiot, one must	primeiras parashiot e as duas segundas parashiot, é preciso
+1066	know that Kadesh and VeHaya ki are in Shemot, and Shema and VeHaya im shamoa are in	saber que Kadesh e Vehayá ki estão em Shemot, e Shemá e Vehayá im shamoa estão em
+1067	Devarim. This is a very deep matter.	Devarim. Isso é um assunto muito profundo.
+1068	It is written in the Gemara in Megillah that of the first four books	Está escrito na Guemará, em Meguilá, que os quatro primeiros livros
+1069	Moshe wrote from the mouth of HaShem. The book of Devarim Moshe	Moshé escreveu da boca de HaShem. O livro de Devarim, Moshé
+1070	wrote from his own mouth. That is, the book of Devarim is	escreveu da própria boca. Ou seja, o livro de Devarim é
+1071	a book that hints at the revelation of the Name through the people of Israel.	um livro que alude à revelação do Nome por meio do povo de Israel.
+1072	Therefore it is very connected to entering the Land, and so on. The book	Por isso está muito ligado à entrada na Terra, e assim por diante. O livro
+1073	of Shemot is a book that hints at the revelation of the Name from above.	de Shemot é um livro que alude à revelação do Nome de cima.
+1074	In this sense Kadesh and VeHaya ki are two parashiot	Nesse sentido, Kadesh e Vehayá ki são duas parashiot
+1075	that speak of the divine creation, that HaShem created the people	que falam da criação divina, de que HaShem criou o povo
+1076	of Israel, of an action of the Holy One, blessed be He. He	de Israel, de uma ação do Santo, Bendito Seja. Ele
+1077	speaks of what He did. "Kadesh li kol bechor," first	fala do que Ele fez. "Kadesh li kol bechor", antes
+1078	of all, this is the root. It is "Kodesh Yisrael laHashem,"	de tudo, essa é a raiz. É "Kodesh Yisrael laHashem",
+1079	the supreme inherent holiness that the Holy One, blessed be He,	a suprema santidade inerente que o Santo, Bendito Seja,
+1080	engraved in the people of Israel. It is the highest level:	gravou no povo de Israel. É o nível mais elevado:
+1081	"Israel is holy to HaShem, the first of His harvest." And out of this,	"Israel é santo para HaShem, as primícias de Sua colheita". E a partir disso,
+1082	VeHaya ki is explained in the books as being really the action	Vehayá ki é explicado nos livros como sendo na verdade a ação
+1083	that the Holy One, blessed be He, performs in the turning of history	que o Santo, Bendito Seja, realiza no giro da história
+1084	in order to reveal this holiness. And this is really the	para revelar essa santidade. E essa é na verdade a
+1085	second parashah. So it is written in the holy Zohar: a parashah in which the Holy One,	segunda parashá. Assim está escrito no sagrado Zohar: uma parashá em que o Santo,
+1086	blessed be He, expresses the going out, that He took us out	Bendito Seja, expressa a saída, que Ele nos tirou
+1087	to freedom from Egypt and brought us to the Land. That is,	para a liberdade do Egito e nos trouxe à Terra. Ou seja,
+1088	it is a divine action. You have a	é uma ação divina. Você tem uma
+1089	supreme divine soul, and this is the aspect of Kadesh li kol bechor. So	alma divina suprema, e esse é o aspecto de Kadesh li kol bechor. Então
+1090	this thing you must manifest in your life. It is expressed	isso você deve manifestar na sua vida. Expressa-se
+1091	in two things: one, that you break the chains,	em duas coisas: uma, que você quebra as correntes,
+1092	not to be enslaved to others. You must realize	para não ser escravo de outros. Você deve realizar
+1093	the divine soul within you. Who goes out to freedom? The one	a alma divina que há em você. Quem sai para a liberdade? Quem
+1094	who is connected to his soul. This is the level of the festival of Shavuot.	está ligado à sua alma. Esse é o nível da festa de Shavuot.
+1095	Why precisely is it written for Shavuot, "engraved on the tablets,"	Por que justamente está escrito sobre Shavuot "gravado nas tábuas",
+1096	read not "engraved" but "freedom"? Don't we have freedom	leia-se não "gravado" mas "liberdade"? Não temos a liberdade
+1097	on Pesach? Freedom is on Pesach. Why is Shavuot called	em Pessach? A liberdade é em Pessach. Por que Shavuot é chamado
+1098	"engraved on the tablets"? Because true freedom comes	"gravado nas tábuas"? Porque a verdadeira liberdade vem
+1099	from having real content for life, divine content	de ter um conteúdo verdadeiro para a vida, um conteúdo divino
+1100	that you come to realize. A very deep matter. A person	que você vem realizar. Algo muito profundo. Uma pessoa
+1101	who has no content for his life, who has no mission,	que não tem conteúdo para a sua vida, que não tem missão,
+1102	no purpose, no special light of his own, then	nem propósito, nem uma luz especial sua, então
+1103	it is easy to enslave him. It is easy for him to be attached	é fácil escravizá-lo. É fácil para ele estar ligado
+1104	to others, to follow the paths of others. But when a person	a outros, seguir os caminhos dos outros. Mas quando uma pessoa
+1105	connects to the divine soul within him, it tells him	se conecta à alma divina que há nela, ela lhe diz
+1106	what he must realize, and that gives him strength	o que ele precisa realizar, e isso lhe dá força
+1107	and courage to break chains and to give way to freedom.	e coragem para quebrar correntes e dar lugar à liberdade.
+1108	Holiness gives birth to freedom. This is a very deep principle.	A santidade gera a liberdade. Este é um princípio muito profundo.
+1109	It is the Kadesh li kol bechor that gives birth to VeHaya ki yevi'acha, that you	É o Kadesh li kol bechor que gera o Vehayá ki yevi'acha, em que você
+1110	go out from slavery in Egypt and enter the Land to realize	sai da escravidão no Egito e entra na Terra para realizar
+1111	and implement the holiness. It is like	e aplicar a santidade. É como
+1112	the holiness is like the seed of a tree, and VeHaya is, so to speak,	a santidade é como a semente de uma árvore, e Vehayá é, por assim dizer,
+1113	putting it in the soil and beginning to let it blossom	colocá-la na terra e começar a deixá-la florescer
+1114	and grow. These are the two parashiot that hint at what	e crescer. Essas são as duas parashiot que aludem ao que
+1115	the Holy One, blessed be He, does in the chosen quality of Israel. He creates	o Santo, Bendito Seja, faz na singularidade de Israel. Ele cria
+1116	the special quality of our souls, and out of this He frees us from	a qualidade especial das nossas almas, e a partir disso nos liberta da
+1117	slavery. Come and realize the service of HaShem	escravidão. Venham e realizem o serviço de HaShem
+1118	in your lives. And then Shema and VeHaya im shamoa are already	nas suas vidas. E então Shemá e Vehayá im shamoa já são
+1119	our work. It is the action on our part.	o nosso trabalho. É a ação da nossa parte.
+1120	It is written in the holy books: Kadesh and VeHaya ki are from above; and this is the people	Está escrito nos livros sagrados: Kadesh e Vehayá ki são do alto; e este é o povo
+1121	of Israel, our action: Shema Yisrael and VeHaya im	de Israel, a nossa ação: Shemá Israel e Vehayá im
+1122	shamoa. Shema, VeHaya im shamoa is directed to us, but	shamoa. Shemá, Vehayá im shamoa é dirigido a nós, mas
+1123	Shema is directed mainly to the acceptance of the kingship of Heaven, and if	Shemá é dirigido principalmente à aceitação do reinado dos Céus, e se
+1124	we are precise, the main point of Shema is directed to the study of Torah: "And you shall love	formos precisos, o ponto central do Shemá é dirigido ao estudo da Torá: "Amarás
+1125	HaShem," "and you shall speak of them when you sit in your house and when you walk on the way,"	HaShem", "e falarás delas ao te sentares em tua casa e ao andares pelo caminho",
+1126	which is really speaking in Torah. It is a parashah that reminds us	que é na verdade falar na Torá. É uma parashá que nos lembra
+1127	of the love of HaShem, the fear of HaShem, and engagement in Torah, the constant study of	o amor a HaShem, o temor a HaShem e a dedicação à Torá, o estudo constante da
+1128	Torah. And VeHaya im shamoa el mitzvotai is already	Torá. E Vehayá im shamoa el mitsvotai já é
+1129	the mitzvot, the service of the mitzvot. The service of the mitzvot is	as mitsvot, o serviço das mitsvot. O serviço das mitsvot é
+1130	the practical work of fulfilling the mitzvot. In this	o trabalho prático de cumprir as mitsvot. Nisso
+1131	matter we can say that there is a dispute here between Rashi	podemos dizer que há aqui uma disputa entre Rashi
+1132	and Rabenu Tam. According to Rashi, as in the verse,	e Rabenu Tam. Segundo Rashi, como no versículo,
+1133	one must first accept the yoke of the kingship of Heaven:	primeiro é preciso aceitar o jugo do reinado dos Céus:
+1134	Shema Yisrael,	Shemá Israel,
+1135	and one must toil in the study of Torah, and out of this, realize	e é preciso se empenhar no estudo da Torá, e a partir disso realizar
+1136	the mitzvot. First of all he learns Torah, engages in spirituality,	as mitsvot. Primeiro estuda Torá, ocupa-se com a espiritualidade,
+1137	and then through this he will come and fulfill	e então, por meio disso, virá e cumprirá
+1138	the mitzvot. Therefore one must put Torah before the mitzvot,	as mitsvot. Por isso é preciso pôr a Torá antes das mitsvot,
+1139	put learning before action. That is, put Shema	pôr o estudo antes da ação. Ou seja, pôr Shemá
+1140	before VeHaya im shamoa, as we do in the recitation of the Shema.	antes de Vehayá im shamoa, como fazemos na recitação do Shemá.
+1141	According to Rashi, then, Shema is the portion of the soul. But according to Rabenu Tam	Segundo Rashi, então, Shemá é a parashá da alma. Mas segundo Rabenu Tam
+1142	we must say that there is another aspect. It is true that from the	é preciso dizer que há outro aspecto. É verdade que do ponto de vista
+1143	point of view of learning, it is written in the holy books that Torah study	do estudo, está escrito nos livros sagrados que o estudo da Torá
+1144	is service, prayer is inwardness, and practical mitzvot	é serviço, a oração é interioridade, e as mitsvot práticas
+1145	are outwardness.	são exterioridade.
+1146	And in this sense, in the service of HaShem, where should one	E nesse sentido, no serviço de HaShem, por onde se deve
+1147	begin, from the inside or the outside? Begin from above or begin from below? I will explain what	começar, pelo interior ou pelo exterior? Começar de cima ou de baixo? Vou explicar o que
+1148	I mean. Should I begin to work on the heart,	quero dizer. Devo começar a trabalhar o coração,
+1149	or begin to work on the... the heart is the inner part, and	ou começar a trabalhar o... o coração é a parte interior, e
+1150	the actions are born from it. So apparently one should work	as ações nascem dele. Então, em princípio, devo trabalhar
+1151	on my heart, and then on my actions. But the Sefer	o meu coração, e depois as minhas ações. Mas o Sefer
+1152	HaChinuch teaches us that "after the actions, the hearts are drawn."	HaChinuch nos ensina que "atrás das ações os corações são atraídos".
+1153	That is, if you want to influence	Isto é, se você quer influenciar
+1154	your heart, to influence your thoughts, to influence	o seu coração, influenciar os seus pensamentos, influenciar
+1155	your understandings, then fulfill, fulfill. We see that a person arrives	os seus entendimentos, então cumpra, cumpra. Vemos que uma pessoa chega
+1156	at the age of bar mitzvah and fulfills mitzvot at thirteen, and only at fifteen to Talmud.	à idade de bar mitsvá e cumpre mitsvot aos treze, e só aos quinze ao Talmud.
+1157	So he does all the mitzvot. I think the practical mitzvot	Então ele cumpre todas as mitsvot. Acho que as mitsvot práticas
+1158	in order to influence them, one must begin with the practical	para influenciá-las, é preciso começar pelas mitsvot
+1159	mitzvot, and then learn. And then we can say that we have	práticas, e depois estudar. E então podemos dizer que temos
+1160	truly two paths. On the side of inwardness, in the inner	realmente dois caminhos. Do lado da interioridade, no mundo
+1161	world, one begins with understanding, with learning, and then descends	interior, começa-se com a compreensão, com o estudo, e depois desce-se
+1162	to action. But in the outer aspects, such as influencing	à ação. Mas nos aspectos exteriores, como influenciar
+1163	the body, the outer systems of life, then "after the	o corpo, os sistemas exteriores da vida, então "atrás das
+1164	actions the hearts are drawn." First do, and afterwards	ações os corações são atraídos". Primeiro faça, e depois
+1165	repair, says the holy Arizal.	corrija, diz o sagrado Arizal.
+1166	Prayer and the recitation of the Shema are inwardness. Mitzvot	A oração e a recitação do Shemá são interioridade. Mitsvot
+1167	of speech are inwardness. Mitzvot of action are	de fala são interioridade. Mitsvot de ação são
+1168	outwardness. Tefilin is a mitzvah of action. Therefore	exterioridade. Tefilin é uma mitsvá de ação. Por isso
+1169	it belongs mostly to the repair of the outwardness. That is why	pertence sobretudo à correção da exterioridade. Por isso
+1170	we said the repair of the body. The repair of the body, says Rabenu	dissemos a correção do corpo. A correção do corpo, diz Rabenu
+1171	Tam, must begin with the action and then move on	Tam, deve começar pela ação e depois passar
+1172	to thought. Therefore one must begin first with VeHaya im	ao pensamento. Por isso é preciso começar primeiro com Vehayá im
+1173	shamoa and afterwards Shema. Because first "after the	shamoa e depois Shemá. Porque primeiro "atrás das
+1174	actions the hearts are drawn." After the actions: that was VeHaya	ações os corações são atraídos". Atrás das ações: era Vehayá
+1175	im shamoa, with My mitzvot; the hearts are drawn. The matters	im shamoa, com Minhas mitsvot; os corações são atraídos. As coisas
+1176	of the heart, of the recitation of the Shema, spoken in it. Therefore Rabenu Tam	do coração, da recitação do Shemá, ditas nela. Por isso Rabenu Tam
+1177	says that first there must be action, VeHaya im shamoa, and then	diz que primeiro é preciso a ação, Vehayá im shamoa, e depois
+1178	to arrive at Shema Yisrael. But according to Rashi, tefilin	chegar ao Shemá Israel. Mas segundo Rashi, os tefilin
+1179	are the expression of the highest, innermost level, where	são a expressão do nível mais elevado, o mais interior, em que
+1180	"the Name will be called upon you." Therefore first Shema, and then VeHaya	"o Nome será chamado sobre você". Por isso primeiro Shemá, e depois Vehayá
+1181	im shamoa. Regarding this dispute, what about... and the same	im shamoa. Quanto a essa disputa, e quanto a... e o mesmo
+1182	thing, say, in the dispute between Rabenu Tam and the Rivad, between	vale, digamos, na disputa entre Rabenu Tam e o Rivad, entre
+1183	the Rivad and the Shimusha Rabba. It is the same principle in this detail, since	o Rivad e o Shimusha Rabá. É o mesmo princípio nesse detalhe, pois
+1184	they differ on Shema before VeHaya im shamoa. What about	eles divergem sobre Shemá antes de Vehayá im shamoa. E quanto
+1185	the second dispute, between the Rambam, Rabenu Tam and Rashi	à segunda disputa, entre o Rambam, Rabenu Tam e Rashi
+1186	against the Shimusha Rabba and the Rivad, whether it is from the side of the one who puts them on	contra o Shimusha Rabá e o Rivad, se é do lado de quem coloca
+1187	or from the side of the reader? That too has a fundamental	ou do lado de quem lê? Isso também tem aí uma disputa
+1188	dispute. When you put on tefilin, what is your form of	essencial. Quando você coloca tefilin, qual é a sua forma de
+1189	service? You must know that the Jewish person has two	serviço? É preciso saber que o judeu tem duas
+1190	stances of the soul. He has one stance of the soul in which he receives	posturas da alma. Ele tem uma postura da alma em que recebe
+1191	from the Holy One, blessed be He. He stands before HaShem, Master of the	do Santo, Bendito Seja. Ele está diante de HaShem, Senhor do
+1192	Universe, "bestow upon me," and so on. We stand before HaShem,	Universo, "derrama sobre mim", e assim por diante. Estamos diante de HaShem,
+1193	may He be blessed.	bendito seja.
+1194	We stand before HaShem, may He be blessed, as for example when a person takes three steps back and says "oseh shalom,"	Estamos diante de HaShem, bendito seja, como por exemplo quando uma pessoa faz "oseh shalom"
+1195	"may He make peace upon us," he makes "oseh shalom"	"que Ele faça a paz sobre nós", faz "oseh shalom"
+1196	to his left, then "oseh shalom" to his right. Correct. Why? Why	à sua esquerda, depois "oseh shalom" à sua direita. Correto. Por quê? Por que
+1197	does he start from the left? "All your turnings should be only to the right,"	começa pela esquerda? "Todas as tuas voltas serão apenas para a direita",
+1198	because he turns to the right of the Shechinah, who stands	porque ele se volta para a direita da Shechiná, que está
+1199	opposite him. His left is Her right. But there are	diante dele. A esquerda dele é a direita Dela. Mas há
+1200	other places, such as, for example, in Kedushah, where many	outros lugares, como por exemplo na Kedushá, em que muitos
+1201	say Kedushah right and then left. Why	fazem a Kedushá primeiro à direita e depois à esquerda. Por que
+1202	do you do it like this? Because in Kedushah you are not facing Him;	você faz assim? Porque na Kedushá você não está de frente para Ele;
+1203	you go right and then left. So it is always	você vai à direita e depois à esquerda. Então é sempre
+1204	a question of in what way you stand. Are you standing facing the Holy One, blessed be He? Then you are, so to speak,	uma questão de de que modo você está. Você está diante do Santo, Bendito Seja? Então você está, por assim dizer,
+1205	standing as a continuation of the Holy One, blessed be He,	como um prolongamento do Santo, Bendito Seja,
+1206	to reveal Him in the world. If you are the continuation that reveals Him	para revelá-Lo no mundo. Se você é o prolongamento que O revela
+1207	in the world,	no mundo,
+1208	then you stand facing the world.	então você está de frente para o mundo.
+1209	If you are now standing receiving from the Holy One, blessed be He,	Se agora você está recebendo do Santo, Bendito Seja,
+1210	then you turn to Him. That is what Rav Kook writes,	então você se volta para Ele. É o que escreve o Rav Kook,
+1211	that the people of Israel have... the Rav, in Orot Yisrael chapter 1, we have	que o povo de Israel tem... o Rav, em Orot Yisrael, capítulo 1, temos
+1212	two paragraphs on the essence of Israel. One	dois parágrafos sobre a essência de Israel. Um
+1213	says everything is founded on a soul for Elokim, which is Israel	diz que tudo se funda numa alma voltada para Elokim, isto é, Israel
+1214	turning toward Heaven. But there is a paragraph afterwards that says	voltado para o Céu. Mas há um parágrafo depois que diz
+1215	the essence of the desire to be good to all; this is the inner logic	a essência do desejo de ser bom para todos; essa é a lógica interior
+1216	of Israel, as if to influence the world. If in the aspect of	de Israel, como que para influenciar o mundo. Se na condição de
+1217	giving, then you face the world; in the aspect of receiving,	quem dá, então você se volta para o mundo; na condição de quem recebe,
+1218	you face the Holy One, blessed be He. So how is it	você se volta para o Santo, Bendito Seja. Então como é
+1219	with the level of the tefilin? There is a side to say that the people of Israel	com o nível dos tefilin? Há um lado que diz que o povo de Israel
+1220	in tefilin, "all the peoples will see" when "it is called upon you." That	nos tefilin, "todos os povos verão" quando "é chamado sobre você". Isto
+1221	is, the Name of Heaven is called upon us, and we	é, o Nome dos Céus é chamado sobre nós, e nós
+1222	show it to the world. Therefore the main emphasis is	o mostramos ao mundo. Por isso a ênfase principal está
+1223	precisely on the reader who looks.	justamente em quem lê e olha.
+1224	We look at him, at how he receives it.	Olhamos para ele, para ver como ele recebe isso.
+1225	So the things must be from the side of the reader, because the main thing	Então as coisas devem ser do lado de quem lê, porque o principal
+1226	is to influence him. Now we are the extension	é influenciá-lo. Agora somos o prolongamento
+1227	of the Holy One, blessed be He, and we influence him, so we must	do Santo, Bendito Seja, e o influenciamos, então precisamos
+1228	look at the reader and see. What does the Rivad say?	olhar para quem lê e ver. O que diz o Rivad?
+1229	What do I care about the reader? The mitzvah is for the one who puts them on. But	O que me importa quem lê? A mitsvá é de quem coloca. Mas
+1230	the Rambam and Rashi say no, we influence	o Rambam e Rashi dizem que não, nós influenciamos
+1231	through the tefilin, and therefore we look at the reader, how	por meio dos tefilin, e por isso olhamos para quem lê, para ver como
+1232	he receives it. Therefore it is from the side of the reader.	ele recebe isso. Por isso é do lado de quem lê.
+1233	So here, in the order, the order of the parashiot must be	Então aqui, na ordem, a ordem das parashiot deve ser
+1234	according to the reader, the receiver.	segundo quem lê, quem recebe.
+1235	But the Rivad must say: no, you do not influence	Mas o Rivad precisa dizer: não, você não influencia
+1236	with tefilin; with tefilin you receive. You receive from the Holy One,	com os tefilin; com os tefilin você recebe. Você recebe do Santo,
+1237	blessed be He, who speaks. Therefore it must be from the side	Bendito Seja, que fala. Por isso deve ser do lado
+1238	of the one who puts them on, since you stand facing the Holy One, blessed be He,	de quem coloca, pois você está diante do Santo, Bendito Seja,
+1239	who influences you. And therefore it must be from the side of the one who puts them on,	que o influencia. E por isso deve ser do lado de quem coloca,
+1240	and this is the order, again: the order must be Kadesh, VeHaya ki,	e essa é a ordem, de novo: a ordem deve ser Kadesh, Vehayá ki,
+1241	Shema, VeHaya; VeHaya, Shema is the order of receiving. But whom	Shemá, Vehayá; Vehayá, Shemá é a ordem de receber. Mas a quem
+1242	are you looking at? If you look at the one who receives from you, then I need his right side. But if	você olha? Se olha para quem recebe de você, então preciso do lado direito dele. Mas se
+1243	you look at yourself, that you are the receiver, then you need	você olha para si mesmo, que é quem recebe, então precisa
+1244	to be from your side, from the side of the one who puts them on. And perhaps the question is:	ser do seu lado, do lado de quem coloca. E talvez a questão seja:
+1245	what is the main point of the service of tefilin, to have the supreme holiness influence	qual é o ponto central do serviço dos tefilin, que a santidade suprema me influencie
+1246	me, or to reveal the supreme holiness	ou revelar a santidade suprema
+1247	through me? Is our service of tefilin to be	por meu intermédio? O nosso serviço dos tefilin é ser
+1248	receivers of the supreme holiness, or to impart	receptores da santidade suprema, ou transmitir
+1249	the supreme holiness? And perhaps this is the great dispute between	a santidade suprema? E talvez essa seja a grande disputa entre
+1250	Rashi	Rashi
+1251	and his followers and the Rivad and his followers. According to the Rivad the main thing	e seus seguidores e o Rivad e seus seguidores. Segundo o Rivad o principal
+1252	is to be one who receives the light, and according to	é ser quem recebe a luz, e segundo
+1253	Rashi and the Rambam the main emphasis is that the Name of HaShem is called	Rashi e o Rambam a ênfase principal é que o Nome de HaShem é chamado
+1254	upon you and you influence the whole world. This is the holy matter.	sobre você e você influencia o mundo inteiro. Essa é a coisa sagrada.
+1255	All these aspects, "these and these are the words of the living	Todos esses aspectos, "estas e estas são palavras do
+1256	Elokim." It is the Name of Heaven resting upon us. It is	Elokim vivo". É o Nome dos Céus que repousa sobre nós. É
+1257	like the aspect of "Vayisu Aharon" in Parashat Behaalotcha, and this is	como o aspecto de "Vayisu Aharon" na Parashat Behaalotcha, e esse é
+1258	the great level that we will see upon us on the festival of Shavuot.	o grande nível que veremos sobre nós na festa de Shavuot.
+1259	We merit to be uniquely joined with the Name of the Holy One, blessed	Merecemos nos unir de modo singular ao Nome do Santo, Bendito
+1260	be He, HaShem. May the Name go out upon us, cleave to us, not only	Seja, HaShem. Que o Nome saia sobre nós, se una a nós, não só
+1261	in thoughts and in studies but also in the very substance of our body,	em pensamentos e estudos, mas também na própria substância do nosso corpo,
+1262	like the level of the tefilin, which, as we saw, is	como o nível dos tefilin, que, como vimos, é
+1263	poured out from the level of the first Adam. It is written in the holy	vertido do nível de Adam HaRishon. Está escrito no sagrado
+1264	Zohar about the tefilin that they stem from the level of the first Adam,	Zohar sobre os tefilin que eles procedem do nível de Adam HaRishon,
+1265	before the sin; afterwards it is written "tunics of skin," right? And then	antes do pecado; depois está escrito "túnicas de pele", certo? E então
+1266	the Zohar says: "tunics of skin," this is	o Zohar diz: "túnicas de pele", isso são
+1267	the tefilin. And these tefilin are really a spark	os tefilin. E esses tefilin são na verdade uma centelha
+1268	to bring us back to the level of before, as	para nos trazer de volta ao nível de antes, como
+1269	we said, which is the level of Shavuot, that we rise to this	dissemos, que é o nível de Shavuot, em que nos elevamos a este
+1270	great and high level, in which we merit a great light.	nível grande e elevado, no qual merecemos uma grande luz.
+1271	May we merit, with the help of HaShem, the great light of HaShem	Que mereçamos, com a ajuda de HaShem, a grande luz de HaShem
+1272	upon us. Amen. Yes, may it be His will, with the help of HaShem. …	sobre nós. Amém. Sim, que seja Sua vontade, com a ajuda de HaShem. …
+1273	[Music]	[Música]

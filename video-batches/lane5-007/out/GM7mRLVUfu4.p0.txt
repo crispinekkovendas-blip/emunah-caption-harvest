@@ -1,0 +1,450 @@
+0	Let us examine, with HaShem's help, the laws of Yom Tov.	Vamos examinar, com a ajuda de HaShem, as leis de Yom Tov.
+1	There aren't many opportunities during the year to learn	Não há muitas oportunidades durante o ano para estudar
+2	these laws,	essas leis,
+3	because in the festivals of Tishrei there is so much	porque nas festas de Tishrei há tanto
+4	to learn about the laws of Rosh Hashanah, Yom	para estudar sobre as leis de Rosh Hashaná, Yom
+5	Kippur, Sukkot, Pesach, there is an abundance of laws. So	Kipur, Sucot, Pêssach, há uma abundância de leis. Então
+6	the most fitting time to learn the laws of Yom Tov is	a época mais adequada para estudar as leis de Yom Tov é
+7	before Shavuot, because what Shavuot has is these	antes de Shavuot, porque o que há em Shavuot são estas
+8	laws, the laws of Yom Tov, and from them we will learn for all the other festivals.	leis, as leis de Yom Tov, e a partir delas estudaremos todas as outras festas.
+9	First of all we will read the wording of the Shulchan Arukh, siman	Primeiro vamos ler o texto do Shulchan Arukh, simán
+10	495, se'if 1: Every melacha that is forbidden	495, seif 1: Toda melacha que é proibida
+11	on Shabbat is forbidden on Yom Tov, except for the melacha of ochel nefesh	no Shabat é proibida em Yom Tov, exceto a melacha de ochel nefesh
+12	and except for carrying	e exceto o transporte
+13	and kindling a fire.	e o acender do fogo.
+14	And likewise the preparations for ochel nefesh that could not be done	E também os preparativos para o ochel nefesh que não podiam ser feitos
+15	the day before.	na véspera.
+16	Preparations for ochel nefesh, such as grinding	Preparativos para o ochel nefesh, como moer
+17	spices,	temperos,
+18	because if you grind them today the aroma is better; it fades	porque se forem moídos hoje o aroma é melhor; ele se dissipa
+19	if you grind them yesterday. That is, if you grind them yesterday, from yesterday to today	se forem moídos ontem. Ou seja, se moer ontem, de ontem para hoje
+20	the aroma fades.	o aroma se dissipa.
+21	Or cutting a salad,	Ou cortar uma salada,
+22	which is not the same quality as when done today.	que não tem a mesma qualidade de quando é feita hoje.
+23	If they want to sew up a stuffed chicken,	Se querem costurar um frango recheado,
+24	they need to sew it on that very day. It can't be done	precisam costurá-lo no próprio dia. Não dá para fazer
+25	a day before. All of these are called preparations for ochel nefesh.	um dia antes. Tudo isso se chama preparativos para o ochel nefesh.
+26	So it says: preparations for ochel nefesh that could not be	Então diz: preparativos para o ochel nefesh que não podiam ser
+27	done yesterday, this too is permitted on Yom Tov,	feitos ontem, isso também é permitido em Yom Tov,
+28	even though it is not the ochel nefesh itself; it is only the	embora não seja o próprio ochel nefesh; é apenas o
+29	tool, the preparation for it.	instrumento, a preparação para ele.
+30	We will get to this later too, with HaShem's help.	Chegaremos a isso também adiante, com a ajuda de HaShem.
+31	The Rema adds: And there are those who are stringent even about ochel nefesh	O Rema acrescenta: E há quem seja rigoroso mesmo com o ochel nefesh
+32	itself, anything that does not lose flavor at all, if it can be done from Erev	em si, tudo o que não perde sabor de forma alguma, se puder ser feito desde a véspera de
+33	Yom Tov. And this is the custom of the Ashkenazim, who are very careful	Yom Tov. E este é o costume dos asquenazitas, que são muito cuidadosos
+34	even with the ochel nefesh itself: whatever can be done from Erev	mesmo com o próprio ochel nefesh: o que se pode fazer na véspera de
+35	Yom Tov and will not lose flavor, they do on Erev Yom Tov.	Yom Tov e não perde sabor, fazem na véspera de Yom Tov.
+36	But according to the plain meaning of the Shulchan Arukh, the ochel nefesh itself,	Mas segundo o sentido simples do Shulchan Arukh, o próprio ochel nefesh,
+37	even if they could have done it on Erev Yom Tov and it	mesmo que pudessem tê-lo feito na véspera de Yom Tov e ele
+38	doesn't lose flavor, for example preparing jam. Jam makes no	não perca sabor, por exemplo preparar geleia. Na geleia não faz
+39	difference. Make it today, make it yesterday, unless	diferença. Faça hoje, faça ontem, a não ser que
+40	you want it hot and tasty	queira quente e saborosa
+41	with its heat. But if he lets it cool anyway	com o seu calor. Mas se de qualquer modo vai deixá-la esfriar
+42	and wants jam, there is no difference, today or yesterday. So	e quer geleia, não há diferença, hoje ou ontem. Então
+43	according to the Rema one must be careful to do it yesterday,	segundo o Rema é preciso ter o cuidado de fazer isso ontem,
+44	on Erev Yom Tov.	na véspera de Yom Tov.
+45	According to the Shulchan Arukh	Segundo o Shulchan Arukh
+46	it can be done on the same day, because only preparations for ochel	pode-se fazer no mesmo dia, pois só os preparativos para o ochel
+47	nefesh that cannot be done from yesterday must one be careful	nefesh que não podem ser feitos desde ontem é que é preciso cuidar
+48	to do	de fazer
+49	on the day itself. What could be done from yesterday should be done from yesterday,	no próprio dia. O que podia ser feito desde ontem deve ser feito desde ontem,
+50	among the preparations for ochel nefesh.	entre os preparativos para o ochel nefesh.
+51	The Rema adds	O Rema acrescenta
+52	about ochel nefesh	sobre o ochel nefesh
+53	that does not lose flavor if he had done	que não perde sabor se tivesse sido feito
+54	it yesterday before Yom Tov: if he did not	ontem antes de Yom Tov: se não o
+55	do it on Erev Yom Tov and there is a Yom Tov need for it,	fez na véspera de Yom Tov e há necessidade dele em Yom Tov,
+56	it is permitted to do it with a change, so that he does not do it	é permitido fazê-lo com uma alteração, para que não o faça
+57	in his usual way; he does it with a change. We will need to	do modo habitual; faz com uma alteração. Ainda precisaremos
+58	return to this and clarify these matters more. First	voltar a isso e esclarecer melhor esses assuntos. Primeiro
+59	let's see the overview from above. The Shulchan	vejamos o panorama geral. O Shulchan
+60	Arukh continues: Reaping,	Arukh continua: Colher,
+61	grinding,	moer,
+62	harvesting grapes, slaughtering and hunting. Even though they are melachot	vindimar, abater e caçar. Embora sejam melachot
+63	of ochel nefesh, the Sages forbade them. That is, all	de ochel nefesh, os Sábios as proibiram. Ou seja, todas
+64	the melachot that we are permitted to do on Yom Tov	as melachot que nos é permitido fazer em Yom Tov
+65	for the need of ochel nefesh are only from kneading onward,	para a necessidade do ochel nefesh são apenas da amassadura em diante,
+66	meaning from preparing the dough until the baking. But the melachot	isto é, do preparo da massa até o assar. Mas as melachot
+67	before that: a person who wants to go and reap wheat	anteriores: uma pessoa que queira ir ceifar trigo
+68	and says, I want to bake now on Yom Tov	e diga: quero assar agora em Yom Tov
+69	and I'm reaping wheat, that is a need of ochel nefesh. All	e estou ceifando trigo, isso é uma necessidade de ochel nefesh. Todas
+70	the melachot that come before kneading, the Shulchan Arukh says,	as melachot que antecedem a amassadura, diz o Shulchan Arukh,
+71	the Sages forbade them.	os Sábios as proibiram.
+72	What he writes here, that this is forbidden rabbinically,	O que ele escreve aqui, que isso é proibido pelos Sábios,
+73	follows the view of the Rambam, the Rosh and the Ran,	segue a opinião do Rambam, do Rosh e do Ran,
+74	that by Torah law	de que pela Torá
+75	everything connected with ochel nefesh is permitted to do	tudo o que se relaciona ao ochel nefesh é permitido fazer
+76	on Yom Tov; the Sages decreed. By Torah law it is permitted to pick	em Yom Tov; os Sábios decretaram. Pela Torá é permitido colher
+77	an apple. A person who wants to pick an apple from the tree	uma maçã. Uma pessoa que queira colher uma maçã da árvore
+78	and eat it on Yom Tov, by Torah law it's permitted. The Sages	e comê-la em Yom Tov, pela Torá é permitido. Os Sábios
+79	decreed and left the permission only from kneading onward.	decretaram e deixaram a permissão apenas da amassadura em diante.
+80	But many Rishonim hold otherwise, that the distinction	Mas muitos Rishonim sustentam de outro modo, que a distinção
+81	between the melachot before kneading and those after	entre as melachot anteriores à amassadura e as posteriores
+82	kneading is a distinction from the Torah itself.	é uma distinção da própria Torá.
+83	The Torah distinguishes between these melachot and	A Torá distingue entre estas melachot e
+84	those melachot. And a person who does a melacha such as picking	aquelas melachot. E quem fizer uma melacha como colher
+85	from a tree on Yom Tov transgresses a Torah prohibition.	da árvore em Yom Tov transgride uma proibição da Torá.
+86	That is a quick overview of the basis of the matter.	Esse foi um panorama rápido da base do assunto.
+87	Now let us go into more detail.	Agora vamos entrar mais nos detalhes.
+88	How many festival days do we have in the year	Quantos dias de festa temos no ano
+89	from the Torah? We have six days. The first day	pela Torá? Temos seis dias. O primeiro dia
+90	of Pesach and the last day of Pesach are two days,	de Pêssach e o último dia de Pêssach são dois dias,
+91	the first and the seventh.	o primeiro e o sétimo.
+92	Shavuot is one more day, three days.	Shavuot é mais um dia, três dias.
+93	Rosh Hashanah, from the Torah, is one day.	Rosh Hashaná, pela Torá, é um dia.
+94	That brings us to four days. Sukkot, the first day	Chegamos a quatro dias. Sucot, o primeiro dia
+95	and the last day, that is, Shemini Atzeret, are festivals	e o último dia, isto é, Shemini Atseret, são festas
+96	from the Torah. So in total we have six days of	da Torá. Então, no total, temos seis dias de
+97	festivals from the Torah.	festas pela Torá.
+98	Yom Kippur has the law of Shabbat; it does not have the law of	Yom Kipur tem o regime do Shabat; não tem o regime de
+99	a festival,	festa,
+100	but	mas
+101	the festivals that the Torah gave us are six days.	as festas que a Torá nos deu são seis dias.
+102	Rabbinically, for Rosh Hashanah they added another day, both in the Land	Por decreto rabínico, em Rosh Hashaná acrescentaram mais um dia, tanto na Terra
+103	of Israel and outside the Land. So in the Land of Israel too,	de Israel quanto fora da Terra. Então na Terra de Israel também,
+104	Rosh Hashanah is two days. And for the other festivals outside	Rosh Hashaná são dois dias. E para as demais festas, fora
+105	the Land they established a second day of Yom Tov of the Diaspora.	da Terra estabeleceram um segundo dia de Yom Tov da diáspora.
+106	That is, in the Land of Israel, if we sum up	Ou seja, na Terra de Israel, se resumirmos
+107	these laws of Yom Tov, how many days a year	estas leis de Yom Tov, a quantos dias no ano
+108	do they apply to? Five days	elas se aplicam? Cinco dias
+109	or six days from the Torah, plus a seventh day,	ou seis dias pela Torá, mais um sétimo dia,
+110	rabbinic, which is the second day of Rosh Hashanah outside	rabínico, que é o segundo dia de Rosh Hashaná fora
+111	the Land. In total 12 days: six from the Torah and six	da Terra. No total 12 dias: seis pela Torá e seis
+112	rabbinic, to which they added another day.	rabínicos, aos quais acrescentaram mais um dia.
+113	What is the basis of the permission we have on Yom Tov that we don't	Qual é a base da permissão que temos em Yom Tov e que não
+114	have on Shabbat? On Shabbat there's no difference whether it is ochel nefesh	temos no Shabat? No Shabat não há diferença se é ochel nefesh
+115	or not ochel nefesh. All the melachot are forbidden on Shabbat.	ou não. Todas as melachot são proibidas no Shabat.
+116	On Yom Tov the Torah divides between this and that. Where	Em Yom Tov a Torá distingue entre uma coisa e outra. Onde
+117	do we find this distinction? Parashat Bo.	encontramos essa distinção? Na Parashat Bo.
+118	There the Torah commanded us only about the festival of Pesach.	Ali a Torá nos ordenou apenas sobre a festa de Pêssach.
+119	In Parashat Bo, the people of Israel left Egypt, even before	Na Parashat Bo, o povo de Israel saiu do Egito, ainda antes
+120	the plague of the firstborn. There Moshe Rabbeinu is already commanded to tell	da praga dos primogênitos. Ali Moshé Rabênu já é ordenado a dizer
+121	the people of Israel that on the first day and the seventh day	ao povo de Israel que no primeiro dia e no sétimo dia
+122	there shall be a holy convocation for you.	haverá uma santa convocação para vós.
+123	The first and seventh days of Pesach. Surely there they were	O primeiro e o sétimo dias de Pêssach. Certamente ali
+124	not yet commanded about Sukkot or Shavuot,	ainda não haviam sido ordenados sobre Sucot nem sobre Shavuot,
+125	there is no Rosh Hashanah yet, there was not yet the plague of the firstborn,	ainda não havia Rosh Hashaná, ainda não tinha havido a praga dos primogênitos,
+126	even then they were commanded only about the festival of Pesach, and there	mesmo então foram ordenados apenas sobre a festa de Pêssach, e ali
+127	the Torah says:	a Torá diz:
+128	No work	Nenhum trabalho
+129	shall be done on them, except for that which every person must eat, that alone	será feito neles, exceto o que cada pessoa precisa comer, só isso
+130	may be done for you. On these two days, the first day	poderá ser feito para vós. Nesses dois dias, o primeiro dia
+131	of Pesach and the seventh of Pesach, it is forbidden to do work. You shall not	de Pêssach e o sétimo de Pêssach, é proibido fazer trabalho. Não
+132	do any work, except for that which every person must eat, that alone	fareis nenhum trabalho, exceto o que cada pessoa precisa comer, só isso
+133	may be done for you. So here the Torah explicitly revealed that the melacha of	poderá ser feito para vós. Aqui a Torá revelou explicitamente que a melacha de
+134	ochel nefesh is permitted on Pesach, on the first day and on the	ochel nefesh é permitida em Pêssach, no primeiro dia e no
+135	last day.	último dia.
+136	What about the other festivals? This distinction is not written in the other	E as outras festas? Essa distinção não está escrita nas outras
+137	festivals.	festas.
+138	Where do the other festivals appear? Parashat Emor, which is	Onde aparecem as outras festas? Na Parashat Emor, que é
+139	exactly this week's parashah, Parashat Emor. There the Torah	exatamente a parashá desta semana, Parashat Emor. Ali a Torá
+140	begins and details all the holy convocations,	começa e detalha todas as santas convocações,
+141	starting with Shabbat, which is a holy convocation: no work shall	começando pelo Shabat, que é uma santa convocação: nenhum trabalho
+142	be done. Then it moves on	será feito. Depois passa
+143	to Pesach, the first and seventh days, then the counting of the Omer,	a Pêssach, o primeiro e o sétimo dias, depois a contagem do Ômer,
+144	the festival of Shavuot, Rosh Hashanah, Yom Kippur,	a festa de Shavuot, Rosh Hashaná, Yom Kipur,
+145	the first day of Sukkot and Shemini Atzeret. All this appears	o primeiro dia de Sucot e Shemini Atseret. Tudo isso aparece
+146	in Parashat Emor, one after the other; the Torah details all	na Parashat Emor, um após o outro; a Torá detalha todas
+147	the festivals. The Ramban enlightened us on how to learn	as festas. O Ramban nos iluminou sobre como estudar
+148	these verses in the Torah. The Ramban is found both in his	esses versículos da Torá. O Ramban se encontra tanto nos seus
+149	novellae on tractate Shabbat, page 117, and in his commentary	Chidushim ao tratado de Shabat, página 117, quanto no seu comentário
+150	on the Torah.	à Torá.
+151	The Ramban says a wonderful and important thing. A person	O Ramban diz algo maravilhoso e importante. Uma pessoa
+152	who reads the verses in the Torah remembers that in one place	que lê os versículos da Torá lembra que em um lugar
+153	it is written "melacha," in another place it is written "melechet avodah,"	está escrito "melachá", em outro lugar está escrito "melechet avodá",
+154	and he doesn't know what the difference is between them, why here	e não sabe qual é a diferença entre elas, por que aqui
+155	it is written this way and there differently. The Ramban really opens	está escrito assim e ali diferente. O Ramban realmente abre
+156	our eyes on this matter. The Ramban says as follows.	os olhos nesse assunto. O Ramban diz o seguinte.
+157	Yes, the Ramban says as follows:	Sim, o Ramban diz o seguinte:
+158	In Parashat Emor, when the Torah speaks about Shabbat and about Yom	Na Parashat Emor, quando a Torá fala do Shabat e de Yom
+159	Kippur,	Kipur,
+160	it does not use the words "melechet avodah." It	ela não usa as palavras "melechet avodá". Ela
+161	says "no melacha shall be done on it," a holy convocation, no	diz "nenhuma melachá será feita nele", santa convocação, nenhuma
+162	melacha shall be done. Because truly on Shabbat and Yom	melachá será feita. Porque de fato no Shabat e em Yom
+163	Kippur there is no distinction between ochel nefesh and not ochel	Kipur não há distinção entre ochel nefesh e o que não é ochel
+164	nefesh. All types of melachot are forbidden.	nefesh. Todos os tipos de melachot são proibidos.
+165	But when the Torah moves on to speak about Pesach,	Mas quando a Torá passa a falar de Pêssach,
+166	about Shavuot, about Rosh Hashanah and Sukkot,	de Shavuot, de Rosh Hashaná e de Sucot,
+167	in each one of these verses the Torah mentions "melechet	em cada um desses versículos a Torá menciona "melechet
+168	avodah shall not be done for you." Six times it says there	avodá não fareis". Seis vezes aparece ali
+169	"melechet avodah," once for each festival.	"melechet avodá", uma vez para cada festa.
+170	In total, for all six festivals of the year, "melechet avodah." The	No total, para todas as seis festas do ano, "melechet avodá". O
+171	Ramban says, what is this expression? "Melechet avodah,"	Ramban diz: o que é essa expressão? "Melechet avodá",
+172	unlike Shabbat and Yom Kippur, where it is written "melacha."	diferente do Shabat e de Yom Kipur, onde está escrito "melachá".
+173	The Torah, with two words, hinted to you here in Chumash Vayikra,	A Torá, com duas palavras, insinuou a você aqui no Chumash Vayikra,
+174	Parashat Emor, what it had already revealed in Parashat Bo,	na Parashat Emor, o que já havia revelado na Parashat Bo,
+175	in the book of Shemot. What is written there? "No work shall be done, but	no livro de Shemot. O que está escrito ali? "Nenhum trabalho será feito, mas
+176	that which every person must eat, that alone may be done for you." Here	o que cada pessoa precisa comer, só isso poderá ser feito para vós." Aqui
+177	the Torah says: know that what is forbidden on the festivals is only	a Torá diz: saiba que o que é proibido nas festas é apenas
+178	melechet avodah. But the melacha of ochel nefesh, the Ramban	melechet avodá. Mas a melachá de ochel nefesh, diz o Ramban,
+179	is a melacha of enjoyment and not a melacha of labor.	é uma melachá de prazer e não uma melachá de trabalho.
+180	Therefore from these words, "melechet avodah," we learn	Portanto, dessas palavras, "melechet avodá", aprendemos
+181	that the law that was stated	que a lei que foi dita
+182	for Pesach in Parashat Bo, where it elaborated and detailed the matters,	para Pêssach na Parashat Bo, onde ela se ampliou e detalhou os assuntos,
+183	you learn from it for all the festivals, which melachot	você aprende dela para todas as festas quais melachot
+184	we are forbidden to do on Yom Tov. Only a melacha that is	nos é proibido fazer em Yom Tov. Apenas uma melachá que
+185	not connected with ochel nefesh. But something connected with ochel	não esteja ligada ao ochel nefesh. Mas algo ligado ao ochel
+186	nefesh, the Torah permitted to eat, the Torah permitted to do	nefesh, a Torá permitiu comer, a Torá permitiu fazer
+187	that melacha.	essa melachá.
+188	What is the reason for the prohibition	Qual é a razão da proibição
+189	that the Torah forbade doing melachot	de a Torá ter proibido fazer melachot
+190	on the festivals, on Yom Tov?	nas festas, em Yom Tov?
+191	Even though Yom Tov is not like Shabbat. On Shabbat	Embora Yom Tov não seja como o Shabat. No Shabat
+192	it is understood why the Torah forbade; it is written explicitly in the Torah	entende-se por que a Torá proibiu; está escrito explicitamente na Torá
+193	why it is forbidden to do melacha on Shabbat. The Torah	por que é proibido fazer melachá no Shabat. A Torá
+194	explains: "And the children of Israel shall keep the Shabbat, to make the	explica: "E os filhos de Israel guardarão o Shabat, para fazer o
+195	Shabbat an everlasting covenant," and then the Holy One,	Shabat uma aliança eterna", e depois o Santo,
+196	blessed be He, says that it is a sign between Me and	bendito seja, diz que é um sinal entre Mim e
+197	the children of Israel forever. A sign means a mark.	os filhos de Israel para sempre. Sinal é uma marca.
+198	"For in six days HaShem made the heavens and the earth,	"Pois em seis dias HaShem fez os céus e a terra,
+199	and on the seventh day He rested and was refreshed." That is, regarding Shabbat	e no sétimo dia descansou e restaurou-se." Ou seja, sobre o Shabat
+200	the Torah explains why it is forbidden to do melacha. The Holy One,	a Torá explica por que é proibido fazer melachá. O Santo,
+201	blessed be He, says, this is the test of faith of every	bendito seja, diz: este é o teste de fé de todo
+202	Jew. Does he believe in Me, that I created	judeu. Ele crê em Mim, que Eu criei
+203	the world, or does he not believe in Me?	o mundo, ou não crê em Mim?
+204	It is explicit: it is a sign. This is the mark. "For in six days	É explícito: é um sinal. Esta é a marca. "Pois em seis dias
+205	HaShem made the heavens and the earth." Therefore Shabbat carries	HaShem fez os céus e a terra." Por isso o Shabat tem
+206	such great weight that a person who	um peso tão grande que uma pessoa que
+207	is an apostate regarding desecrating Shabbat has the law of an apostate to idolatry,	é apóstata quanto à profanação do Shabat tem o regime de apóstata da idolatria,
+208	to avodah zarah;	da avodá zará;
+209	his wine is like libation wine.	o vinho dele é como vinho de libação.
+210	Something we do not find regarding other transgressions: a person	Algo que não encontramos em outras transgressões: uma pessoa
+211	who eats neveilot and treifot	que come animais mortos sem abate e animais impróprios
+212	is not judged like a non-Jew. Why for Shabbat is he	não é julgada como um não judeu. Por que no caso do Shabat é
+213	judged like a non-Jew? Because the Torah declared that this is	julgada como um não judeu? Porque a Torá declarou que isto é
+214	a test of faith.	um teste de fé.
+215	Do you believe in Me or do you not believe in Me? So	Você crê em Mim ou não crê em Mim? Assim
+216	the Holy One, blessed be He, declares. So is it understood why on Shabbat	declara o Santo, bendito seja. Então se entende por que no Shabat
+217	it is forbidden to do melacha? The Holy One, blessed be He, says,	é proibido fazer melachá? O Santo, bendito seja, diz:
+218	"I made, I created the world in six days,	"Eu fiz, criei o mundo em seis dias,
+219	I did melacha, for on it He rested from all His work	fiz melachá, pois nele descansou de toda a Sua obra
+220	on the seventh day; you too shall not do any melacha." That is	no sétimo dia; você também não fará nenhuma melachá." Isso é
+221	understood. But Yom Tov is not related to the creation of the world.	compreensível. Mas Yom Tov não se relaciona com a criação do mundo.
+222	Yom Tov is the Exodus from Egypt,	Yom Tov é a saída do Egito,
+223	Sukkot, we dwelled in sukkot in the desert, the festival of Shavuot,	Sucot, habitamos em sucot no deserto, a festa de Shavuot,
+224	we received the Torah. Rosh Hashanah, the day of remembrance.	recebemos a Torá. Rosh Hashaná, o dia da lembrança.
+225	What is the point of not doing melacha on all these	Qual é o sentido de não fazer melachá em todas essas
+226	festivals?	festas?
+227	There are two reasons that appear in the Rishonim,	Há duas razões que aparecem nos Rishonim,
+228	and when we examine them in depth we see that each one follows its own view	e quando as examinamos a fundo vemos que cada uma segue a sua opinião
+229	in the dispute	na discussão
+230	we saw earlier. Are the melachot up to kneading forbidden	que vimos antes. As melachot até a amassadura são proibidas
+231	by Torah law or rabbinically? The Sefer HaChinuch	pela Torá ou pelos Sábios? O Sefer HaChinuch
+232	first copies the words of the Rambam, for the Rambam says	primeiro copia as palavras do Rambam, pois o Rambam diz
+233	that all the melachot	que todas as melachot
+234	up to	até
+235	kneading, reaping, grinding, all these are forbidden rabbinically,	a amassadura, ceifar, moer, todas essas são proibidas pelos Sábios,
+236	and from kneading onward the Sages did not forbid it;	e da amassadura em diante os Sábios não proibiram;
+237	by Torah law everything is permitted, everything connected to the need of	pela Torá tudo é permitido, tudo o que se liga à necessidade de
+238	ochel nefesh; the Sages forbade up to kneading.	ochel nefesh; os Sábios proibiram até a amassadura.
+239	Afterward the Sefer HaChinuch writes, in the roots of the mitzvah,	Depois o Sefer HaChinuch escreve, nas raízes da mitsvá,
+240	why the Torah commanded us	por que a Torá nos ordenou
+241	to rest from melacha. The Sefer HaChinuch says, since	a cessar a melachá. O Sefer HaChinuch diz: como
+242	these mitzvot, these festivals, were meant	essas mitsvot, essas festas, foram destinadas
+243	for us to remember the miracles and wonders that the Holy One, blessed be He,	a que lembremos os milagres e maravilhas que o Santo, bendito seja,
+244	did for us in the Exodus, in the desert, giving us	fez por nós na saída do Egito, no deserto, ao nos dar
+245	the Torah,	a Torá,
+246	if it were permitted	se fosse permitido
+247	on Yom Tov to do all the melachot,	em Yom Tov fazer todas as melachot,
+248	people, instead of	as pessoas, em vez de
+249	sitting with the children, telling them about the Exodus from Egypt,	sentar com os filhos, contar-lhes sobre a saída do Egito,
+250	saying words of Torah at the table, people would go to	dizer palavras de Torá à mesa, iriam
+251	work. Each one would go to his field. He has a livelihood to	trabalhar. Cada um iria ao seu campo. Tem um sustento para
+252	earn. They would be preoccupied with melachot	ganhar. Estariam absorvidos pelas melachot
+253	and would not learn, would not pass on to future generations	e não estudariam, não transmitiriam às gerações futuras
+254	the remembrance of the Exodus from Egypt, all the miracles that	a lembrança da saída do Egito, todos os milagres que
+255	HaShem did.	HaShem fez.
+256	So the main point of the prohibition of melacha on Yom Tov	Então o ponto principal da proibição de melachá em Yom Tov
+257	that the Torah forbade, says the Sefer HaChinuch, is so that	que a Torá proibiu, diz o Sefer HaChinuch, é para que
+258	we remember the miracles that the Holy One, blessed be He, did,	lembremos os milagres que o Santo, bendito seja, fez,
+259	and pass them on, and so that people gather in synagogues, in batei	e os transmitamos, e para que as pessoas se reúnam em sinagogas, em batê
+260	midrash, learn halachah, learn Torah. That is,	midrash, estudem halachá, estudem Torá. Ou seja,
+261	the basis according to the Sefer HaChinuch is so that a person will be free,	a base segundo o Sefer HaChinuch é que a pessoa esteja livre,
+262	free for what? Free to tell of the miracles the Holy One,	livre para quê? Livre para contar os milagres que o Santo,
+263	blessed be He, did, free to learn Torah. This is the reason the Torah	bendito seja, fez, livre para estudar Torá. Esta é a razão pela qual a Torá
+264	forbade melacha. But it is not connected to the matter of	proibiu a melachá. Mas não está ligada ao tema da
+265	the creation of the world, of "for in six days HaShem made the	criação do mundo, de "pois em seis dias HaShem fez os
+266	heavens and the earth."	céus e a terra".
+267	The Rav HaMaggid,	O Rav HaMaggid,
+268	in the laws of Yom Tov, writes a different reason.	nas leis de Yom Tov, escreve outra razão.
+269	He says, notice what we are permitted to do as melacha and what is	Ele diz: repare no que nos é permitido fazer como melachá e no que é
+270	forbidden to do as melacha.	proibido fazer como melachá.
+271	Ochel nefesh is permitted to do.	O ochel nefesh é permitido fazer.
+272	What is not ochel nefesh, or something whose way of being done	O que não é ochel nefesh, ou algo cuja forma de ser feito
+273	is in large quantities, by slaves doing it for their masters,	é em grandes quantidades, por escravos que o fazem para seus senhores,
+274	this the Torah forbade. The Rav HaMaggid holds like the view	isso a Torá proibiu. O Rav HaMaggid sustenta como a opinião
+275	of those who say that the prohibition	dos que dizem que a proibição
+276	of melacha up to the melacha of kneading is a prohibition	da melachá até a melachá de amassar é uma proibição
+277	from the Torah, not rabbinic. The Torah forbade. According to his view,	da Torá, não rabínica. A Torá proibiu. Segundo a opinião dele,
+278	the Rav HaMaggid says that this is the reason the Torah says	diz o Rav HaMaggid, essa é a razão pela qual a Torá diz
+279	so. All the melachot that it is the way of slaves to do for their masters,	assim. Todas as melachot que é costume dos escravos fazerem para seus senhores,
+280	you shall not do on Yom Tov. Remember	você não fará em Yom Tov. Lembre-se
+281	that you were a slave in Egypt, where you were enslaved to do these	de que você foi escravo no Egito, onde foi escravizado para fazer essas
+282	melachot, and now you are freed from doing them. And on the contrary, the Torah commands	melachot, e agora está livre de fazê-las. E, pelo contrário, a Torá ordena
+283	that you not do them so that you will feel you went out to freedom. But melachot that	que não as faça, para que sinta que saiu para a liberdade. Mas as melachot que
+284	it is the way of masters to do for themselves, for example cooking,	é costume dos senhores fazerem para si mesmos, por exemplo cozinhar,
+285	the master cooks for himself.	o senhor cozinha para si mesmo.
+286	Even a person who has a field and sends workers to go	Mesmo uma pessoa que tem um campo e envia trabalhadores para ir
+287	work in the field to reap the wheat for him, but at home	trabalhar no campo e ceifar o trigo para ele, mas em casa
+288	he does the melachot that relate to ochel nefesh, what	ele faz as melachot ligadas ao ochel nefesh, o que
+289	he needs to eat, to function at home. Therefore he says these	precisa para comer, para funcionar em casa. Por isso ele diz que essas
+290	melachot the Torah did not forbid.	melachot a Torá não proibiu.
+291	That is, the reason of the Rav HaMaggid	Ou seja, a razão do Rav HaMaggid
+292	explains in any case not only why the Torah commanded	explica de qualquer modo não só por que a Torá nos ordenou
+293	us to rest from melacha but also why the Torah	a cessar a melachá, mas também por que a Torá
+294	distinguished between one melacha and another, why it says	distinguiu entre uma melachá e outra, por que diz
+295	that reaping, even though it is connected	que a ceifa, mesmo estando ligada
+296	to ochel nefesh, is forbidden on Yom Tov, and cooking,	ao ochel nefesh, é proibida em Yom Tov, e cozinhar,
+297	kneading and baking, which are connected to ochel nefesh, the Torah	amassar e assar, que estão ligados ao ochel nefesh, a Torá
+298	says are permitted. According to the Rambam in the Sefer HaChinuch, everything	diz que são permitidos. Segundo o Rambam no Sefer HaChinuch, tudo
+299	connected to ochel nefesh is permitted by the Torah,	o que se liga ao ochel nefesh é permitido pela Torá,
+300	only the Sages forbade it so that a person	apenas os Sábios proibiram para que a pessoa
+301	would have this freedom.	tenha essa liberdade.
+302	But from the Torah,	Mas pela Torá,
+303	the Torah forbade melachot connected with field work,	a Torá proibiu melachot ligadas ao trabalho do campo,
+304	work that is connected, what is not connected to ochel nefesh,	trabalhos ligados, o que não se liga ao ochel nefesh,
+305	like building and	como construir e
+306	sewing and writing. These are things that, according to the Sefer HaChinuch,	costurar e escrever. São coisas que, segundo o Sefer HaChinuch,
+307	this is the reason for the distinction between this and that. Let us now enter a little	essa é a razão da distinção entre uma coisa e outra. Vamos entrar um pouco agora
+308	into the details of the laws.	nos detalhes das leis.
+309	A person who wants	Uma pessoa que quer
+310	to bake on Yom Tov.	assar em Yom Tov.
+311	A woman tells her husband, I want to make hot baked	Uma mulher diz ao marido: quero fazer chalot
+312	challot; challah from yesterday is not so good,	assadas quentes; a chalá de ontem não é tão boa,
+313	it doesn't have the quality of challah baked today.	não tem a qualidade da chalá assada hoje.
+314	On Shabbat there is nothing to do. They bake on Friday,	No Shabat não há o que fazer. Assam na sexta-feira,
+315	and can eat on Friday night and on Shabbat.	e podem comer na noite de Shabat e no Shabat.
+316	But on Yom Tov, she says, I want to bake on Yom	Mas em Yom Tov, ela diz: quero assar em Yom
+317	Tov. In what manner is it permitted to bake? Kneading	Tov. De que modo é permitido assar? Amassar
+318	is permitted, after all.	é permitido, afinal.
+319	Baking is also permitted.	Assar também é permitido.
+320	What there is, is the sifting of the flour, and for that the law is	O que há é o peneirar da farinha, e quanto a isso a lei é
+321	about sifting flour. This is something that could have been done	sobre peneirar farinha. Isso é algo que poderia ter sido feito
+322	on Erev Yom Tov.	na véspera de Yom Tov.
+323	There is the melacha of sifting in it. Sifting flour is the melacha of	Há nisso a melachá de peneirar. Peneirar farinha é a melachá de
+324	sifting. Therefore the sifting of the flour she must do	peneirar. Portanto o peneirar da farinha ela deve fazer
+325	on Erev Yom Tov. On Yom Tov she will be permitted	na véspera de Yom Tov. Em Yom Tov lhe será permitido
+326	to knead	amassar
+327	and to bake.	e assar.
+328	In our time, when there is an electric oven, how will she bake	Em nossos dias, quando há forno elétrico, como ela vai assar
+329	in an electric oven? The solution is simple. One can connect	em forno elétrico? A solução é simples. Pode-se conectar
+330	a timer plug, a Shabbat timer, and set it.	uma tomada com temporizador, um timer de Shabat, e programá-lo.
+331	At what time tomorrow does she want the oven to turn on on Yom	A que horas amanhã ela quer que o forno ligue em Yom
+332	Tov? From Erev Yom Tov she can set the oven to turn on on Yom Tov	Tov? Desde a véspera de Yom Tov ela pode preparar o forno para ligar em Yom Tov
+333	at a certain hour,	em determinada hora,
+334	and then she prepares the dough, lets it rise,	e então prepara a massa, deixa crescer,
+335	makes challot, puts them in the oven, and the Shabbat timer	faz as chalot, coloca no forno, e o timer de Shabat
+336	turns on the oven and turns it off. In this way	liga o forno e o desliga. Dessa maneira
+337	it is permitted to bake on Yom Tov. Or she wants to cook	é permitido assar em Yom Tov. Ou ela quer cozinhar
+338	in the oven, to cook with electrical devices that the Shabbat timer	no forno, cozinhar com aparelhos elétricos que o timer de Shabat
+339	turns on and off. That is something that is permitted to do. What	liga e desliga. Isso é algo que é permitido fazer. E quanto
+340	about separating challah? She prepares a quantity of dough.	à separação da chalá? Ela prepara uma quantidade de massa.
+341	It has the amount requiring separation of challah. It is permitted on Yom Tov	Ela tem a medida que exige separar chalá. É permitido em Yom Tov
+342	to separate challah, since this too is a need of ochel nefesh,	separar chalá, pois isso também é necessidade de ochel nefesh,
+343	provided that this dough was kneaded on Yom Tov. But if	desde que essa massa tenha sido amassada em Yom Tov. Mas se
+344	she has dough that she prepared on Erev Yom Tov, put it	ela tem uma massa que preparou na véspera de Yom Tov, colocou
+345	in the refrigerator or freezer, and on Yom Tov takes it out	na geladeira ou no freezer, e em Yom Tov a tira
+346	and now wants to separate challah, it will be forbidden	e agora quer separar a chalá, isso será proibido
+347	for her to separate challah. Since this dough	para ela. Como essa massa
+348	was already ready on Erev Yom Tov and she could have separated challah	já estava pronta na véspera de Yom Tov e ela poderia ter separado a chalá
+349	on Erev Yom Tov, it will be forbidden to separate	na véspera de Yom Tov, será proibido separar
+350	on Yom Tov. But if it is dough that she kneaded on Yom	em Yom Tov. Mas se é uma massa que ela amassou em Yom
+351	Tov, it will be permitted to separate challah too. What should a woman do	Tov, será permitido separar chalá também. O que deve fazer uma mulher
+352	who says, what can I do, yesterday I prepared a quantity of dough	que diz: o que posso fazer, ontem preparei uma quantidade de massa
+353	with the amount requiring challah, and I forgot	com a medida que exige chalá, e esqueci
+354	to separate challah, and now I want to make challot from this	de separar a chalá, e agora quero fazer chalot dessa
+355	dough, but it is forbidden to eat it	massa, mas é proibido comê-la
+356	because challah was not separated?	porque não se separou a chalá?
+357	The solution that can be done is for her to prepare more dough that has	A solução que se pode fazer é ela preparar mais massa que tenha
+358	the amount of separating challah, which she can indeed	a medida da separação de chalá, que ela pode de fato
+359	separate, she made it today, and join the	separar, fez hoje, e juntar as
+360	two doughs together, and then she separates from the dough of	duas massas, e então ela separa da massa da
+361	challah that she kneaded today, on the whole quantity together. But	chalá que amassou hoje, sobre toda a quantidade junta. Mas
+362	only on the challah dough that she prepared yesterday, that she kneaded the	apenas sobre a chalá da massa que preparou ontem, que amassou
+363	dough yesterday, it would be forbidden to do.	ontem, seria proibido fazer.
+364	Kindling fire.	Acender o fogo.
+365	It is called preparations for ochel nefesh. To clarify: on Yom Tov	Chama-se preparativos para o ochel nefesh. Para esclarecer: em Yom Tov
+366	it is forbidden to kindle fire. Producing a new fire is	é proibido acender fogo. Produzir um fogo novo é
+367	forbidden because it is a preparation for ochel nefesh, and this could	proibido porque é preparativo para o ochel nefesh, e isso poderia
+368	have been done from Erev Yom Tov. Preparations for ochel nefesh	ter sido feito desde a véspera de Yom Tov. Preparativos para o ochel nefesh
+369	that could have been done from Erev Yom Tov are forbidden to do	que podiam ser feitos desde a véspera de Yom Tov são proibidos de fazer
+370	on Yom Tov. That is according to all opinions. For ochel nefesh itself	em Yom Tov. Isso é segundo todas as opiniões. Quanto ao próprio ochel nefesh
+371	they disagreed whether it was possible to prepare from Erev Yom Tov, whether	discordaram se era possível preparar desde a véspera de Yom Tov, se
+372	one must prepare from Erev Yom Tov, or whether one can	é preciso preparar desde a véspera de Yom Tov, ou se se pode
+373	wait, lechatchilah, until Yom Tov. But	esperar, lechatchilá, até Yom Tov. Mas
+374	for preparations for ochel nefesh it is certainly forbidden	para os preparativos do ochel nefesh é certamente proibido
+375	to do on Yom Tov if it was possible from Erev Yom Tov.	fazer em Yom Tov se era possível desde a véspera de Yom Tov.
+376	We said examples earlier. There are things that if you do them	Demos exemplos antes. Há coisas que, se você as fizer
+377	on Erev Yom Tov, the quality will not be good. Like	na véspera de Yom Tov, a qualidade não será boa. Como
+378	grinding spices or coffee. A person who wants to take coffee	moer temperos ou café. Uma pessoa que quer pegar café
+379	and has a grinder at home, a manual grinder, and wants	e tem um moedor em casa, um moedor manual, e quer
+380	to grind the coffee, excellent coffee comes out, because	moer o café, sai um café excelente, porque
+381	it was just ground now, it has a different aroma, it has a	acabou de ser moído, tem outro aroma, tem outro
+382	different taste. Spices that have a different taste if they are	sabor. Temperos que têm outro sabor se
+383	ground now, then it is permitted. To do	forem moídos agora, então é permitido. Fazer
+384	on Yom Tov, even though they are preparations for ochel nefesh, because	em Yom Tov, mesmo sendo preparativos para o ochel nefesh, porque
+385	on Erev Yom Tov it was not possible. Or they make a stuffed	na véspera de Yom Tov não era possível. Ou fazem um frango
+386	chicken	recheado
+387	and want to sew up this chicken.	e querem costurar esse frango.
+388	It will be permitted to sew on Yom Tov; only the thread must	Será permitido costurar em Yom Tov; só o fio deve
+389	be cut while it is still day and inserted into the needle,	ser cortado ainda de dia e colocado na agulha,
+390	threaded onto the needle, prepared in such a way.	enfiado na agulha, preparado dessa maneira.
+391	The sewing itself will be permitted on Yom Tov,	A costura em si será permitida em Yom Tov,
+392	and afterward it is permitted to cut these threads. But if	e depois é permitido cortar esses fios. Mas se
+393	they want to take a skewer, in their time they would take	querem pegar um espeto, no tempo deles pegavam
+394	a reed, cut them, every household did	uma cana, cortavam, toda casa fazia
+395	this, cut the reed, made a kind of point	isso, cortava a cana, fazia uma espécie de ponta
+396	at its end, threaded meat on it and roasted.	na ponta, enfiava carne e assava.
+397	On Yom Tov, taking a reed, cutting	Em Yom Tov, pegar uma cana, cortá-la
+398	it, even if it is already detached, and making	mesmo já estando destacada, e fazer
+399	a skewer from it, that would be forbidden. This is a preparation for	dela um espeto, isso seria proibido. Isso é preparativo para o
+400	ochel nefesh. Preparing skewers, manufacturing skewers,	ochel nefesh. Preparar espetos, fabricar espetos
+401	is a preparation for ochel nefesh. And you could have done this	é preparativo para o ochel nefesh. E você podia ter feito isso
+402	from Erev Yom Tov.	desde a véspera de Yom Tov.
+403	It will be forbidden to do this on Yom Tov. Kindling	Será proibido fazer isso em Yom Tov. Acender
+404	fire also has the law of preparations for ochel nefesh that could have been	fogo também tem o regime de preparativos para o ochel nefesh que podiam ser
+405	done from Erev Yom Tov. Afterward, on Yom Tov,	feitos desde a véspera de Yom Tov. Depois, em Yom Tov,
+406	you do not need to produce a new fire. Transfer from fire	você não precisa produzir um fogo novo. Transfira de um fogo
+407	to fire. This is permitted to do on Yom Tov. But	para outro. Isso é permitido fazer em Yom Tov. Mas
+408	producing a new fire on Yom Tov is forbidden. After the fact, a person	produzir um fogo novo em Yom Tov é proibido. Depois do fato, uma pessoa
+409	who produced a new fire may use it. But	que produziu um fogo novo pode usá-lo. Mas
+410	lechatchilah	lechatchilá
+411	it is absolutely forbidden to kindle fire on Yom Tov. Therefore also	é absolutamente proibido acender fogo em Yom Tov. Por isso também
+412	turning on electricity on Yom Tov is forbidden. All	acender eletricidade em Yom Tov é proibido. Todos os
+413	electrical products are forbidden on Yom Tov. There were poskim who wanted	produtos elétricos são proibidos em Yom Tov. Houve poskim que quiseram
+414	in the past to permit. Today there is already agreement among all those who know	no passado permitir. Hoje já há consenso entre todos os que sabem
+415	how electricity works. Everyone agreed that it is forbidden to use,	como a eletricidade funciona. Todos concordaram que é proibido usar,
+416	forbidden to operate electricity on Shabbat.	proibido acionar eletricidade no Shabat.
+417	Before Yom Tov they prepare a memorial candle or any other candle	Antes de Yom Tov preparam uma vela de sete dias ou qualquer outra vela
+418	that burns a long time, or with a bowl, if they didn't buy a memorial candle.	que queime por muito tempo, ou com uma tigela, se não compraram uma vela.
+419	One can take a bowl with oil and place a floating wick there	Pode-se pegar uma tigela com óleo e colocar ali um pavio flutuante
+420	and then it will stay lit until the end of the festival. And each time	e assim ficará aceso até o fim da festa. E cada vez
+421	that they want to light a fire, they transfer from fire to fire.	que quiserem acender um fogo, transferem de um fogo para outro.
+422	When transferring from fire to fire, one can transfer also with the red	Ao transferir de fogo para fogo, pode-se transferir também com o lado
+423	side of the match. Even though the sulfur here	vermelho do fósforo. Embora o enxofre aqui
+424	suddenly ignites, it ignites from an existing fire, so	de repente se acenda, ele se acende de um fogo existente, então
+425	a big flame results. But one may light the match in this way,	resulta uma chama grande. Mas pode-se acender o fósforo dessa maneira,
+426	bring it to the gas and light	levá-lo ao gás e acendê-lo.
+427	it.	.
+428	Extinguishing on Yom Tov is forbidden. It is forbidden to extinguish. After	Apagar em Yom Tov é proibido. É proibido apagar. Depois
+429	they lit the gas and cooked, what do they do?	de acender o gás e cozinhar, o que fazem?
+430	So there is the solution found in many homes, that they take	Há a solução comum em muitas casas, de pegar
+431	a finjan, fill it with water to the brim, place	um bule, enchê-lo de água até a borda, colocá-lo
+432	it carefully. One must place it carefully because it is	com cuidado. É preciso colocá-lo com cuidado porque está
+433	full to the brim. While placing it, it can spill over	cheio até a borda. Ao colocá-lo, pode transbordar
+434	and extinguish. They place it and after it bubbles,	e apagar. Colocam-no e, depois que ele borbulha,
+435	the bubbling spills outside and extinguishes the gas.	a fervura transborda e apaga o gás.
+436	But there is a condition. In what manner is it permitted to do	Mas há uma condição. De que modo é permitido fazer
+437	this? Only if they truly want to drink this water,	isso? Somente se realmente querem beber essa água,
+438	that there is no hot water, no boiling water	que não há água quente, não há água fervente
+439	at home, and they want to drink the boiling water. But	em casa, e querem beber a água fervente. Mas
+440	it is forbidden to cook on Yom Tov in order to extinguish gas. It is permitted	é proibido cozinhar em Yom Tov para apagar o gás. É permitido
+441	to cook in order to use. Therefore the permission is only if	cozinhar para usar. Por isso a permissão é apenas se
+442	they use this water. Even if he has water in another	usam essa água. Mesmo que tenha água em outro
+443	place but it is not so hot and he now wants	lugar, mas não é tão quente e ele agora quer
+444	boiling water right away to pour on the coffee so he has	água fervente na hora para despejar sobre o café para ter
+445	boiling coffee, then this too is a Yom Tov need. But if	um café fervente, então isso também é uma necessidade de Yom Tov. Mas se
+446	there is no need for it, it will be forbidden to boil water for nothing.	não há necessidade, será proibido ferver água à toa.
+447	Rabbi, if the water is already hot, isn't there someone else who	Rabino, se a água já está quente, não há mais alguém que
+448	boils it?	a ferve?
+449	…	…
