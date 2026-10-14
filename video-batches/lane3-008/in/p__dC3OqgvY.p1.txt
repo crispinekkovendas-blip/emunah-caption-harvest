@@ -1,0 +1,85 @@
+videoId: p__dC3OqgvY
+parte 2 de 2 · traduzir as linhas 450 a 510 (61 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Devarim: como dizer tochachá e aprender com Yaakov
+RESUMO: O Rav Yosef Ben Porat abre Parashat Devarim (Devarim 1:1) perguntando por que a Torá enumera tantos lugares, e responde com Rashi: Moshé os menciona apenas por alusão, para não envergonhar Israel, pois são lugares ligados a pecados. Com o Chatam Sofer, explica que a tochachá depende do coração de quem fala, e que Moshé disse as repreensões em 36 dias, pois a palavra "Elê" tem guematria 36, falecendo no dia 37. Rashi (Devarim 1:3) ensina que só repreendeu perto da morte, aprendendo de Yaakov, e o Rav usa a história de Rabi Eliezer ben Hyrcanus, que nada disse que não ouvisse de Rabban Yochanan ben Zakai, para mostrar a humildade de aprender de um mestre. A razão de Yaakov: Reuven poderia se afastar e se juntar a Esav se fosse repreendido antes; assim a repreensão pode gerar reação adversa, como um remédio que causa alergia. Citando Mishlei e a Gemará (Yevamot), o rabino lembra que só se repreende quem escutará, e com discrição, em particular, sem envergonhar (Vayikrá 19:17), valendo para marido, esposa, filhos e alunos de yeshivá. Conclui que cada um deve primeiro corrigir a si mesmo, especialmente nas midot.
+MOMENTOS: 00:22 A pergunta: por que tantos lugares no início? · 01:11 Rashi: lugares citados só por alusão · 02:31 Toda a Torá foi dita por Moshé · 03:07 Chatam Sofer: o coração de quem repreende · 04:23 Como se diz tochachá: por alusão · 05:43 Chatam Sofer: Elê, guematria 36 dias · 06:12 Moshé aprendeu de Yaakov · 08:36 Rabi Eliezer e Rabban Yochanan ben Zakai · 14:29 Yaakov e Reuven: o medo da reação · 17:31 Quatro coisas: não repreender quem repete · 21:50 Mitsvá da tochachá: condições e privacidade · 23:07 Tochachá em casa: marido, esposa e filhos · 26:44 Na yeshivá: primeiro corrija a si mesmo
+FONTES CITADAS: 00:00 Devarim 1:1 · 01:11 Rashi em Devarim 1:1 · 02:31 Rambam, Fundamentos da Torá / Treze Princípios (Torá do Céu) · 02:45 Hagbahá da Torá · 03:12 Chatam Sofer em Devarim 1:1 · 04:51 Rashi em Devarim 1:3 · 05:43 Chatam Sofer em Devarim 1:1 · 06:01 Rashi em Devarim 1:3 · 06:21 Rambam, Introdução ao Seder Zeraim · 06:46 Or HaChaim em Devarim 33:1 · 07:18 Dito dos Sábios sobre os patriarcas · 08:10 Sucá 28a · 08:36 Sucá 28a · 13:43 Yeshayahu 2:22 · 13:50 Berachot 17a / Shabat 22a · 14:33 Bereshit Rabá sobre Yaakov e Reuven · 17:31 Yevamot 65b · 17:45 Mishlei 26:11 · 18:18 Kidushin 20a · 21:53 Vayikrá 19:17 · 22:04 Arachin 16b · 23:25 Devarim 6:7
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+438|26:55|למה מי שרוצה להיכנס לשיבה שלך
+439|26:59|אתה מכריח אותו. קודם תזכור דירה, קודם
+440|27:02|יוצא מקום אתה אקסטרני תלמד חצי שנה.
+441|27:07|אחרי שתלמד חצי שנה אקסטרני, אני אתן לך
+442|27:09|כאן מקום בפנימיה. למה אתה עושה את זה?
+443|27:13|אני מקבל כל אחד ישר.
+444|27:16|בוא נגיד לך
+445|27:18|פעם בחור אחד על רבת פנימיה.
+446|27:21|בחור אחר לו, למה אתה מסתובב בפרוסדור עם
+447|27:24|גופיה?
+448|27:26|זה לא יפה.
+449|27:27|זה לא מתאים לבן ישיבה מסתובב בפרוסדור עם
+
+LINHAS A TRADUZIR:
+450|27:31|גופיה.
+451|27:33|הבחור לבש את החולצה והסתלק מהישיבה.
+452|27:37|הוא נעלב עזב את הישיבה.
+453|27:40|אז לכן אני לא מוכן לקבל בחור חדש ממרתי
+454|27:44|לו אתה צודק אבל אני עושה את ההפך. אני כל
+455|27:48|אחד שנכנס אני מזהיר אותו.
+456|27:51|יש כאן אנשים שמקבלים משכורת. יש רבנים
+457|27:54|בישיבה הם התפקיד שלהם להגיד מוסר להגיד
+458|27:59|הדרכה זה הכל התפקיד שלך כאן זה רק ללמוד
+459|28:04|אתה לא מדריך פנימיה ואתה לא מושמח כאן
+460|28:07|להגיד לאנשים מה כן ומה לא
+461|28:11|קשות את עצמך
+462|28:13|אחר כך שות אחר קודם חנך את עצמך
+463|28:18|אל תגיד
+464|28:21|ואם באים ואומרים לי לא אני אמר לי ככה כ
+465|28:23|אני קורא לו אומר תשמע אני אתן לך אחרונה
+466|28:27|אל תעיז להגיד לאף אחד משל למה דברך דומה
+467|28:32|שאתה תלך לבקר בבית חולים אתה תגיד לחולה
+468|28:36|איזה תרופה לקחת איזה לא לקחת לא זרקו
+469|28:39|אותך והוא משטרה עליך יש כאן רופאים יש
+470|28:43|כאן מנהל מחלקה הם קובעים איזה רפואה כן
+471|28:46|ואיזה רפואה לא ולא אתה גם אם אתה רופא כל
+472|28:50|הכבוד לך גם בבית חולים אתה מבקר
+473|28:53|אתה לא תחתיף כאן איזה רפואות כן ואיזה רפואות לא
+474|29:00|אבל לא תגיד לחולה תשמע תצא קצת החוצה
+475|29:02|תטיל תהיה ככה אפטר
+476|29:07|תלפן לי יום אחד לא אחד אומר תראי
+477|29:12|אני אמרתי לבן שלי שיבוא הביתה
+478|29:17|והוא אמר לי שאתה אומר שלו אז קודם כל אני
+479|29:20|לא יודע בכלל בשביל מה הוא שאל אותו אותך
+480|29:22|הוא בחור הבן שלי בחור מבוגר שתוס יכול
+481|29:25|להחליט לב מה ללכת
+482|29:28|ואמרתי תעצור לפניוה סתגיד
+483|29:33|לי אתה אדם מבוגר אתה מכיר מערכת שאין
+484|29:37|להבוס
+485|29:39|בצבא זה המפקד בעבודה זה המנהל עבודה
+486|29:44|בכל מערכת
+487|29:46|בבית חולים זה הרופא אתה מכיר מערכת שכל
+488|29:50|אחד עם מסכת של מתי הוא יוצא זה תגיד לי
+489|29:53|במקום עבודה העובד יכול לצאת מתי רוצה הוא
+490|29:56|צריך לבישור מהבוס
+491|29:59|אם חייל יוצא בלי שהמפקד שלו יתן לו אישור
+492|30:02|רק על שמח שאבא שלו אמר לו שהוא חוזר הוא
+493|30:05|ילך למצור
+494|30:08|מבין אז מה אתה שואל אותי הוא לא ידע מה
+495|30:11|לעשות הוא לא ידע משב ישיבה זה טרמפיאדה
+496|30:20|לא דיברתי דעת תורה תורה וככה דעת התורה
+497|30:24|זה אותו שכל ישר
+498|30:27|שכל ישר
+499|30:29|מה אתה כאן
+500|30:32|אז זה צריך לדעת
+501|30:34|קשות את עצמך בן אדם בא לישיבה התפקיד שלו
+502|30:38|ללמוד לתקן את עצמו בתורה בלימוד ביראת
+503|30:42|שמיים ובראש וראשונה במידות
+504|30:46|במידות
+505|30:51|יהי רצון שנזכה
+506|30:55|ללמוד מוסר, ללמוד תוכחה
+507|30:58|וללמוד מכל רבותינו
+508|31:00|חכמי הדורות עד רבותינו עכשיו
+509|31:05|ואז השם יהיה בעזרנו שנזכה לתקן את עצמנו
+510|31:09|‏da
