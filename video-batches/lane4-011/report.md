@@ -1,7 +1,7 @@
 # lane4-011
 
 22 of 25 lessons published · 1 skipped · status **pending**
-Tokens (68 agent runs with a record, 23 refused or without record): 0.8M in (mostly cache) · 1.54M out · API-equivalent 18.07
+Tokens (78 agent runs with a record, 23 refused or without record): 0.9M in (mostly cache) · 1.77M out · API-equivalent 20.61
 
 | lesson | state | detail |
 |---|---|---|
@@ -20,11 +20,11 @@ Tokens (68 agent runs with a record, 23 refused or without record): 0.8M in (mos
 | cJaGAxx9TBM | ✓ published | 18 lines · Segulá para a abundância: ler a Parashá do Maná |
 | b5ek28xbS1M | ✓ published | 908 lines · Lech Lecha: a fé de Avraham e a confiança em HaShem |
 | 4KAsHtIcfDI | ✓ published | 1129 lines · Tazria: a brit milá, a tsaraat e o retorno a HaShem |
-| oDBN2gtsnK0 | ✗ will be redone (try 1) | 5 lines missing |
-| Uh0SXue0xQo | skipped after 3 tries | line 900 twice |
+| oDBN2gtsnK0 | ✗ will be redone (try 2) | 325 lines missing |
+| Uh0SXue0xQo | skipped | |
 | 0iOKkwpnvrw | ✓ published | 938 lines · Shemá Israel: o segredo da fé e a unidade dos valores |
 | 7Y-lbikHWsc | ✓ published | 418 lines · Niצבים-Vayelech: preparação para o novo ano |
-| dZLfVho4CmQ | ✗ will be redone (try 2) | 149 lines missing |
+| dZLfVho4CmQ | waiting | 2/3 parts |
 | xK2w-ojF8Sk | ✓ published | 195 lines · Tetzavê: o azeite puro e o Beit HaMikdash |
 | MAyEcLUhRqA | ✓ published | 197 lines · Tetsavê: o azeite de oliva e a alma de Israel |
 | Lw61LuQmMqw | ✓ published | 958 lines · Confiança em HaShem: não desesperar nem na hora da espada |
