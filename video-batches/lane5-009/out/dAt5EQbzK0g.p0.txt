@@ -1,0 +1,450 @@
+0	Good evening to the entire holy congregation. Welcome.	Boa noite a toda a sagrada congregação. Sejam bem-vindos.
+1	Good evening, Rabbi.	Boa noite, Rabino.
+2	It is nice of you to come.	É muito bom que vocês tenham vindo.
+3	The month of Elul.	O mês de Elul.
+4	Blessed are you. So today we thought	Bem-vindos. Então hoje pensamos
+5	of speaking a little about current matters,	em falar um pouco sobre assuntos do momento,
+6	a little preparation toward Rosh HaShanah. Preparation toward	um pouco de preparação para Rosh HaShaná. Preparação para
+7	these holy days.	estes dias sagrados.
+8	There is a Gemara in tractate Rosh HaShanah.	Há uma Guemará no tratado de Rosh HaShaná.
+9	The Holy One, blessed be He, said: Say before Me Malchuyot,	O Santo, Bendito Seja, disse: Digam diante de Mim Malchuyot,
+10	Zichronot, and Shofarot.	Zichronot e Shofarot.
+11	It is known that the Mussaf prayer of Rosh HaShanah is made up	Sabe-se que a oração de Mussaf de Rosh HaShaná é composta
+12	of three parts. Malchuyot:	de três partes. Malchuyot:
+13	ten verses of Malchuyot,	dez versículos de Malchuyot,
+14	ten verses of Zichronot,	dez versículos de Zichronot,
+15	ten verses of Shofarot.	dez versículos de Shofarot.
+16	Malchuyot, so that you will crown Me over you.	Malchuyot, para que Me coroem sobre vocês.
+17	Why do we say the verses of Malchuyot?	Por que dizemos os versículos de Malchuyot?
+18	So that you will crown Me over you.	Para que Me coroem sobre vocês.
+19	Zichronot,	Zichronot,
+20	so that your remembrance will rise before Me for good.	para que a lembrança de vocês suba diante de Mim para o bem.
+21	And with what? With the shofar.	E com o quê? Com o shofar.
+22	So here there is already a problem with this statement. It contradicts	Aqui já há um problema com esta afirmação. Ela contradiz
+23	itself.	a si mesma.
+24	Once again,	Mais uma vez,
+25	why must one say Malchuyot, so that you crown Me? Why	por que é preciso dizer Malchuyot, para que Me coroem? Por que
+26	must one say the verses of Zichronot, so that your remembrance rises	é preciso dizer os versículos de Zichronot, para que a lembrança de vocês suba
+27	before Me for good? So how does your remembrance rise before Me	diante de Mim para o bem? Então como a lembrança de vocês sobe diante de Mim
+28	for good? By what we did.	para o bem? Pelo que fizemos.
+29	We said before Me Zichronot	Dissemos diante de Mim Zichronot
+30	so that your remembrance rises before Me for good. So how	para que a lembrança de vocês suba diante de Mim para o bem. Então como
+31	does your remembrance rise before Me for good? Zichronot.	a lembrança de vocês sobe diante de Mim para o bem? Zichronot.
+32	By your having said Zichronot.	Por terem dito Zichronot.
+33	Just as when you said Malchuyot so that you crown Me	Assim como quando disseram Malchuyot para que Me coroem
+34	over you, Zichronot so that your remembrance rises before Me	sobre vocês, Zichronot para que a lembrança de vocês suba diante de Mim
+35	for good.	para o bem.
+36	So what do we learn? How does your remembrance rise for good? Through	Então o que aprendemos? Como a lembrança de vocês sobe para o bem? Por meio
+37	the verses of Zichronot.	dos versículos de Zichronot.
+38	So how does the Gemara continue and say: And with what?	Então como a Guemará continua e diz: E com o quê?
+39	With the shofar.	Com o shofar.
+40	And how will your remembrance rise before Me for good, with the shofar? But	E como a lembrança de vocês subirá diante de Mim para o bem, com o shofar? Mas
+41	You told me it is through the verses, so decide. Through	Você me disse que é pelos versículos, então decida. Por meio
+42	what does your remembrance rise before Me for good? Through	de que a lembrança de vocês sobe diante de Mim para o bem? Por meio
+43	the verses of Zichronot or through the shofar?	dos versículos de Zichronot ou do shofar?
+44	This is the first question we would like to discuss,	Esta é a primeira pergunta sobre a qual gostaríamos de falar,
+45	and also to explain what this concept is. Malchuyot,	e também explicar o que é este conceito. Malchuyot,
+46	Zichronot, Shofarot. What is it? What are these three	Zichronot, Shofarot. O que é isso? O que são estas três
+47	series?	séries?
+48	What stands behind this?	O que está por trás disso?
+49	And also to explain: what is this answer?	E também explicar: o que é esta resposta?
+50	"And with what? With the shofar."	"E com o quê? Com o shofar."
+51	The shofar raises your remembrance before Me for good.	O shofar faz subir a lembrança de vocês diante de Mim para o bem.
+52	That is, there are verses, but there is also a shofar. How does	Ou seja, há versículos, mas há também um shofar. Como
+53	the shofar do it?	o shofar faz isso?
+54	I blew the shofar blasts, and this raises	Eu toquei os toques do shofar, e isso faz subir
+55	your remembrances before Me for good. How does the shofar	as lembranças de vocês diante de Mim para o bem. Como o shofar
+56	do that?	faz isso?
+57	This is what we want to talk about today, and with your permission I	É sobre isso que queremos falar hoje, e, com a permissão de vocês,
+58	want to begin with the message called Malchuyot.	quero começar com a mensagem chamada Malchuyot.
+59	Have you heard of the concept of Malchuyot or not?	Vocês já ouviram falar do conceito de Malchuyot ou não?
+60	To crown HaShem.	Coroar HaShem.
+61	What is this thing, crowning HaShem? How nice.	O que é isso de coroar HaShem? Que bom.
+62	What is it to crown HaShem? You are King. Thank you very much.	O que é coroar HaShem? Tu és Rei. Muito obrigado.
+63	Bless you.	Saúde.
+64	What is it to crown HaShem? You are King?	O que é coroar HaShem? Tu és Rei?
+65	When I crown a flesh-and-blood king, what did I actually say	Quando eu coroo um rei de carne e osso, o que foi que eu disse
+66	to him? Long live our lord the king. Great. And where is the king	a ele? Viva o nosso senhor, o rei. Ótimo. E onde fica o rei
+67	now? The king is in his palace, and I am in	agora? O rei está no palácio dele, e eu estou no
+68	my palace.	meu palácio.
+69	Quiet. Try, Your Majesty, not to drive us crazy with	Silêncio. Procure, Vossa Majestade, não nos enlouquecer com
+70	many requests and demands. Try not to be a king	muitos pedidos e exigências. Procure não ser um rei
+71	who makes a lot of messes and wars with enemies.	que faz muita confusão e guerras com os inimigos.
+72	The quieter and calmer you are, all of us, citizens	Quanto mais quieto e calmo você for, todos nós, cidadãos
+73	of the country, will thank you and tell of your praise.	do país, vamos lhe agradecer e contar o seu louvor.
+74	Just be calm and quiet, Your Majesty.	Apenas fique calmo e quieto, Vossa Majestade.
+75	That is, a flesh-and-blood king has no connection	Ou seja, um rei de carne e osso não tem nenhuma ligação
+76	with us.	conosco.
+77	Except that he demands taxes, property tax,	Exceto que ele exige impostos, taxas,
+78	and from time to time he takes soldiers, drafts them into his army.	e de tempos em tempos leva soldados, recruta-os para o seu exército.
+79	Other than that he has no connection with you. You work	Fora isso ele não tem ligação com você. Você trabalha
+80	in a cowshed, you work in a dairy, you work	num curral, você trabalha numa laticínios, você trabalha
+81	as a cobbler,	como sapateiro,
+82	it has no connection to the king.	isso não tem ligação com o rei.
+83	Is there a connection? You're a cobbler, a connection to the king?	Há ligação? Você é sapateiro, ligação com o rei?
+84	You're a cook, is there a connection between you and the king? Nothing.	Você é cozinheiro, há ligação entre você e o rei? Nada.
+85	The kingship of HaShem is something entirely different. When you say	A realeza de HaShem é algo totalmente diferente. Quando você diz
+86	to crown HaShem, you have said something else here.	coroar HaShem, você disse aqui algo diferente.
+87	"And HaShem will be King over all the earth."	"E HaShem será Rei sobre toda a terra."
+88	Not only over His palace. No, no. The kingship of HaShem	Não só sobre o Seu palácio. Não, não. A realeza de HaShem
+89	is different from flesh-and-blood kingship. A king rules over	é diferente da realeza de carne e osso. Um rei governa
+90	his palace. That's it. In my house, I tell my wife what	o seu palácio. Só isso. Na minha casa, eu digo à minha esposa o que
+91	I want. In my house the king doesn't know what happens	eu quero. Na minha casa o rei não sabe o que acontece,
+92	at my place; it isn't connected to him.	não tem relação com ele.
+93	But the King of kings, whom you crown, what	Mas o Rei dos reis, a quem você coroa, o que
+94	does it mean to crown Him? Master of the world, I crown	significa coroá-Lo? Senhor do mundo, eu Te coroo
+95	You, means that everything I have and everything that happens	significa que tudo o que tenho e tudo o que acontece
+96	to me,	comigo,
+97	personally, in my surroundings,	pessoalmente, no meu entorno,
+98	in everything that passes over me, everything is from You, everything is You.	em tudo o que passa por mim, tudo é de Ti, tudo é Tu.
+99	So You are in my house. If my children decided	Então Tu estás na minha casa. Se meus filhos resolveram
+100	to go wild, who set them off? You.	enlouquecer, quem os agitou? Tu.
+101	If my wife's delivery is delayed, who delays	Se o parto da minha esposa está atrasado, quem o
+102	her delivery? You. If the boss decided to close	atrasa? Tu. Se o chefe resolveu fechar
+103	our department at work,	o nosso departamento no trabalho,
+104	a Jew just approached me after the class.	um judeu acabou de me procurar depois da aula.
+105	Rabbi, five minutes ago we got a message that they closed	Rabino, há cinco minutos recebemos a notícia de que fecharam
+106	the entire department.	o departamento inteiro.
+107	Nearly 50 workers were dismissed within a minute, they received	Quase 50 funcionários foram demitidos em um minuto, receberam
+108	a message that they were fired. Fifty. Boom.	a notícia de que estavam demitidos. Cinquenta. Bum.
+109	Who stands behind this message? HaShem.	Quem está por trás dessa notícia? HaShem.
+110	A son was born to you, not a daughter. A daughter was born, not a son. Who	Nasceu um filho e não uma filha. Nasceu uma filha e não um filho. Quem
+111	decides what will be born, a son or a daughter? HaShem. This is called the	decide o que vai nascer, filho ou filha? HaShem. Isto se chama a
+112	kingship of HaShem.	realeza de HaShem.
+113	This is called Malchuyot. On Rosh HaShanah, when we	Isto se chama Malchuyot. Em Rosh HaShaná, quando nós
+114	crown HaShem,	coroamos HaShem,
+115	it is not "You are King, so stay	não é "Tu és Rei, então fica
+116	in heaven and don't bother me."	no céu e não me incomodes."
+117	To crown HaShem is the recognition that every matter and every event and every	Coroar HaShem é o reconhecimento de que toda coisa e todo acontecimento e toda
+118	and every	e toda
+119	pain and every salvation, everything is from HaShem.	dor e toda salvação, tudo vem de HaShem.
+120	Wow.	Uau.
+121	That is a completely different world.	Isso é um mundo completamente diferente.
+122	If now a Torah novelty came to you,	Se agora lhe surgiu um novo ensinamento de Torá,
+123	you learned a sugya, a novelty came to you,	você estudou uma sugyá, surgiu-lhe um novo ensinamento,
+124	who brought you this novelty? You innovated it?	quem lhe trouxe esse ensinamento? Foi você que o inovou?
+125	It is HaShem.	É HaShem.
+126	Bring HaShem into every matter, to see: here is HaShem.	Introduzir HaShem em cada coisa, ver: eis HaShem.
+127	That is Malchuyot.	Isso é Malchuyot.
+128	[clears throat]	[pigarro]
+129	I think	Eu acho
+130	that this is why it is called Malchuyot and not Malchut,	que é por isso que se chama Malchuyot e não Malchut,
+131	Zichronot and not Zikaron,	Zichronot e não Zikaron,
+132	Shofarot and not Shofar. "Say before Me malchut, zikaron	Shofarot e não Shofar. "Digam diante de Mim malchut, zikaron
+133	and shofar." Why Malchuyot,	e shofar." Por que Malchuyot,
+134	in the plural?	no plural?
+135	Because HaShem is King over your wife, and over you, and over	Porque HaShem é Rei sobre a sua esposa, e sobre você, e sobre
+136	the children: "His kingdom rules over all."	os filhos: "O Seu reino governa sobre tudo."
+137	It is not a flesh-and-blood kingship that has no share	Não é uma realeza de carne e osso, que não tem parte
+138	or inheritance in your house and in your work, and also isn't	nem herança na sua casa e no seu trabalho, e também não se
+139	interested in how much you earned this week and how many customers	interessa por quanto você ganhou esta semana e quantos clientes
+140	came to you	vieram até você
+141	at the business. The king doesn't know at all what is happening	no negócio. O rei não sabe nem o que está acontecendo
+142	in your business, it doesn't interest him, and you can send	no seu negócio, isso não lhe interessa, e você pode mandar
+143	him a letter, say: Sir King, I wanted to inform	uma carta a ele, dizer: Senhor Rei, queria informá-lo
+144	you that next week I have 30 customers. He'll tell you:	de que na semana que vem tenho 30 clientes. Ele vai dizer:
+145	"Please don't send me this letter, it bothers	"Por favor, não me mande essa carta, ela me incomoda."
+146	me." But with HaShem,	Mas com HaShem,
+147	He determined that this week 30 customers will come to you. He	Ele determinou que esta semana virão 30 clientes até você. Ele
+148	determined that. What did David say	determinou isso. O que Davi disse
+149	about Shimei ben Gera? HaShem told him: Curse. Even the curses	sobre Shimei ben Gera? HaShem lhe disse: Amaldiçoe. Até as maldições
+150	that people curse you with, HaShem put them up to it.	com que o amaldiçoam, foi HaShem que as colocou neles.
+151	Everything that happens to a person is by private	Tudo o que acontece com uma pessoa é por providência
+152	providence from above. This is called Malchuyot.	particular do alto. Isto se chama Malchuyot.
+153	Why not Malchut? To tell you that all	Por que não Malchut? Para dizer a você que todos
+154	the kinds, in all areas, Malchuyot. It is not one kingship,	os tipos, em todos os assuntos, Malchuyot. Não é uma só realeza,
+155	one rule over one subject at one point.	um só domínio sobre um assunto num só ponto.
+156	It is Malchuyot.	É Malchuyot.
+157	It is kingship over your children.	É realeza sobre os seus filhos.
+158	Kingship over health. Kingship over livelihood, kingship	Realeza sobre a saúde. Realeza sobre o sustento, realeza
+159	over the length of your life, kingship over your mood.	sobre a duração da sua vida, realeza sobre o seu humor.
+160	Everything, everything, everything, everything.	Tudo, tudo, tudo, tudo.
+161	Yes, this does not contradict free choice.	Sim, isso não contradiz o livre-arbítrio.
+162	The choice always remains with the person.	A escolha sempre permanece com o ser humano.
+163	But the results, what will come of your choice, always	Mas os resultados, o que vai acontecer a partir da sua escolha, sempre
+164	you will remain under the decision of the Holy One, blessed be He.	você permanecerá sob a decisão do Santo, Bendito Seja.
+165	This work of Malchuyot is, in one word, equal to	Este trabalho de Malchuyot é, numa palavra, equivalente a
+166	emunah.	emunáh.
+167	Emunah.	Emunáh.
+168	To believe in HaShem is called Malchuyot: to believe that every	Acreditar em HaShem se chama Malchuyot: acreditar que tudo
+169	thing that happens to me is from HaShem.	o que acontece comigo vem de HaShem.
+170	For most of the world today, this subject called emunah	Para a maior parte do mundo hoje, esse assunto chamado emunáh
+171	is not such a	não é um assunto tão
+172	common one, I don't know, we are talking about	comum, não sei, estamos falando de
+173	psychology and all the various methods that empower	a psicologia e todos os métodos variados que fortalecem
+174	the person.	o ser humano.
+175	You can, you are capable, you, and there is none like you. In order	Você pode, você é capaz, você, e não há ninguém como você. Para
+176	to strengthen the soul	fortalecer a alma
+177	broken in all of us, since we are all weak,	quebrada de todos nós, já que somos todos fracos,
+178	so how does psychology	então como a psicologia
+179	strengthen the soul? By telling you: believe	fortalece a alma? Dizendo a você: acredite
+180	that you can, you are capable, and you and you and you.	que você pode, você é capaz, e você e você e você.
+181	They keep pushing you all the time, inflating your inner self:	Ficam empurrando você o tempo todo, inflando o seu interior:
+182	you can, and you and you and you.	você pode, e você e você e você.
+183	And the Creator, slowly, slowly,	E o Criador, aos poucos,
+184	is pushed aside,	é empurrado
+185	pushed into a corner.	para um canto.
+186	As Chazal say: whoever walks with an upright posture	Como dizem nossos sábios: quem anda com postura ereta
+187	pushes away the feet of the Shechinah.	empurra os pés da Shechiná.
+188	Walking with an upright posture means conducting oneself in the world	Andar com postura ereta significa conduzir-se no mundo
+189	with an upright posture. That is not the problem, an upright back, an upright back;	com postura ereta. Esse não é o problema, costas eretas, costas eretas;
+190	everyone should have an upright stature. The meaning is:	todos devem ter uma postura ereta. O sentido é:
+191	"My strength and the might of my hand," I can and I am capable, and come	"A minha força e o poder da minha mão", eu posso e sou capaz, e venha
+192	see what I did and come see what I built.	ver o que eu fiz e venha ver o que eu construí.
+193	And when today you speak about the Creator, people already look at you with	E quando hoje você fala do Criador, as pessoas já olham para você com
+194	examining	olhos
+195	eyes.	examinadores.
+196	You're Breslov.	Você é de Breslov.
+197	Right, you're Breslov.	Não é? Você é de Breslov.
+198	Either you're Chabad or you're Breslov, right, honestly.	Ou você é Chabad ou é Breslov, não é, na verdade.
+199	I went to the dentist	Fui ao dentista
+200	a month ago.	há um mês.
+201	So I spoke there with the secretary about how much I have	Então falei lá com a secretária sobre quanto eu preciso
+202	to pay. "You're a baal teshuvah,	pagar. "Você é baal teshuvá,
+203	right?"	não é?"
+204	She asks me. I said to her, wow, how do you	Ela me pergunta. Eu disse a ela: uau, como você
+205	know? How do you know that? "I know, I'm	sabe? Como você sabe isso? "Eu sei, não
+206	wrong, you're a baal teshuvah."	erro, você é baal teshuvá."
+207	Okay. Fine.	Tá. Tudo bem.
+208	I left her with it; why shouldn't she be pleased	Deixei-a com isso; por que ela não ficaria satisfeita
+209	that she guessed right?	por ter acertado?
+210	You're a baal teshuvah.	Você é baal teshuvá.
+211	People identify you; if you talk about the Creator	As pessoas identificam você; se você fala do Criador
+212	then you're obviously not haredi:	então claramente não é haredi:
+213	"That's how baalei teshuvah talk, because you talk about	"É assim que os baalei teshuvá falam, porque você fala do
+214	the Creator. What Creator, that's just talk	Criador. Que Criador, isso é só conversa
+215	for baalei teshuvah and Breslov."	de baalei teshuvá e de Breslov."
+216	Probably, probably.	Provavelmente, provavelmente.
+217	Rosh HaShanah, Rosh HaShanah	Rosh HaShaná, Rosh HaShaná
+218	brings us back to the right track.	nos traz de volta ao caminho certo.
+219	My dear friend, "Say before Me Malchuyot," this is the point,	Meu caro amigo, "digam diante de Mim Malchuyot", este é o ponto,
+220	the first one: first of all, crown HaShem.	o primeiro: antes de tudo, coroe HaShem.
+221	To crown HaShem: Father, it is You, it is from You.	Coroar HaShem: Pai, és Tu, é de Ti.
+222	With your permission I want to say a few words on this	Com a permissão de vocês, quero dizer algumas palavras sobre este
+223	subject, to expand on it a little more. There are those who, because of	assunto, para ampliá-lo um pouco mais. Há quem, por causa
+224	this Malchuyot, skip over a very, very	dessa Malchuyot, pule um ponto muito, muito
+225	important point that relates to mental health.	importante, que diz respeito à saúde mental.
+226	A Jew received news.	Um judeu recebeu uma notícia.
+227	Yes, not long ago. I told you he received	Sim, não faz muito tempo. Contei a vocês que ele recebeu
+228	news that he was fired from work. He says: five	a notícia de que foi demitido do trabalho. Ele diz: há cinco
+229	minutes ago they informed me that I'm dismissed.	minutos me informaram que estou demitido.
+230	All of us, the entire department, and I among them.	Todos nós, o departamento inteiro, e eu entre eles.
+231	And then he says to me: I felt a boom.	E então ele me diz: senti um bum.
+232	When he received the message he felt a boom.	Quando recebeu a notícia ele sentiu um bum.
+233	And then he says to me: "But I know that this is not	E então ele me diz: "Mas eu sei que isso não é
+234	according to emunah, because according to emunah I should	conforme a emunáh, porque, conforme a emunáh, eu deveria
+235	believe that everything is from heaven and everything is for the good."	acreditar que tudo vem do Céu e tudo é para o bem."
+236	I told him: wow, that is absolutely not the way to go.	Eu disse a ele: uau, não é nada assim que se deve ir.
+237	Did you notice? Again, the person gets a message.	Vocês notaram? De novo a pessoa recebe uma notícia.
+238	Fired from work along with all your colleagues from the department.	Demitido do trabalho junto com todos os seus colegas do departamento.
+239	Great.	Ótimo.
+240	What is the feeling, boom? What is boom? What is this boom?	Qual é o sentimento, bum? O que é bum? O que é esse bum?
+241	This boom has several meanings.	Esse bum tem vários significados.
+242	First, fear, panic. Wow, so what will be	Primeiro, medo, pânico. Uau, e o que vai ser
+243	from now on? What will be? What will be? From where will I	de agora em diante? O que vai ser? O que vai ser? De onde vou
+244	now support my wife and children? Livelihood,	agora sustentar minha esposa e meus filhos? Sustento,
+245	a millstone around the neck.	uma pedra de moinho no pescoço.
+246	A heavy yoke on a man. Livelihood, my friend.	Um jugo pesado sobre o homem. Sustento, meu amigo.
+247	Responsibility: the ketubah and the support.	Responsabilidade: a ketubá e o sustento.
+248	Second, there is sorrow here.	Segundo, há aqui tristeza.
+249	Wow, friends, I got used to working here for some years,	Uau, amigos, acostumei-me a trabalhar aqui por alguns anos,
+250	and suddenly to receive dismissal also hurts, because you became attached	e de repente receber a demissão também dói, porque você se apegou
+251	to the job, you connected, you have friends here, you invested here	ao trabalho, se ligou, tem amigos aqui, investiu aqui
+252	your strength, energy, mind, talent, wow, where did all this	sua força, energia, mente, talento, uau, para onde foi tudo isso?
+253	go? It hurts, it hurts to see your toil	Dói, dói ver o seu esforço
+254	seemingly going down the drain.	aparentemente indo por água abaixo.
+255	So there is fear here, and there is also sorrow.	Então há aqui medo, e há também tristeza.
+256	There is also shame, there is also shame, wow, what do I	Há também vergonha, há também vergonha, uau, o que eu
+257	tell my wife?	digo à minha esposa?
+258	"Oh, they fired you, apparently you weren't worth it."	"Ah, te demitiram, pelo visto você não valia a pena."
+259	The honor, the ego, there is shame here, several	A honra, o ego, há vergonha aqui, várias
+260	pains. He says: I felt a boom.	dores. Ele diz: senti um bum.
+261	Immediately he told me: but this is not according to emunah.	Logo ele me disse: mas isso não é conforme a emunáh.
+262	I know it is not according to emunah, because according to	Sei que não é conforme a emunáh, porque, conforme a
+263	emunah I should have	emunáh, eu deveria
+264	known that everything is from HaShem and everything is for the good. Ah, that	saber que tudo vem de HaShem e tudo é para o bem. Ah, isso
+265	means that emunah says not to feel these natural	quer dizer que a emunáh diz para não sentir esses sentimentos
+266	feelings that I mentioned before. Sorrow, fear,	naturais que mencionei antes. Tristeza, medo,
+267	shame.	vergonha.
+268	Did you understand?	Entenderam?
+269	"Say before Me Malchuyot." The Creator says,	"Digam diante de Mim Malchuyot." O Criador diz:
+270	"Crown Me." But what does it mean to crown Me?	"Coroem-Me." Mas o que é coroar-Me?
+271	To crown Me is emunah. And what is emunah?	Coroar-Me é emunáh. E o que é emunáh?
+272	To stifle,	Sufocar,
+273	to suppress, to throw away	reprimir, jogar fora
+274	all of nature, all types of nature. There is no nature.	toda a natureza, todos os tipos de natureza. Não existe natureza.
+275	On Shabbat	No Shabat
+276	a friend told me	um amigo me contou
+277	about a grandfather whose grandson died. Not	sobre um avô cujo neto morreu. Não
+278	long ago. The grandson died on the grandfather.	faz muito tempo. O neto do avô faleceu.
+279	So at the funeral the grandfather	Então no funeral o avô
+280	smiled and rejoiced and said: everything is for the good. Everything is from HaShem.	sorriu e se alegrou e disse: tudo é para o bem. Tudo vem de HaShem.
+281	Thank You, HaShem, for taking this grandson from me.	Obrigado, HaShem, por levares de mim este neto.
+282	I said to myself, wow, how people	Eu disse a mim mesmo: uau, como as pessoas
+283	distort emunah.	distorcem a emunáh.
+284	I said to him: tell me, on Tishah BeAv too, is that	Eu disse a ele: diga-me, em Tishá BeAv também, é isso
+285	what he does in the name of emunah, when everyone is lying on	que ele faz em nome da emunáh, quando todos estão deitados
+286	the floor over the destruction of the Beit HaMikdash? Does he also say:	no chão pela destruição do Beit HaMikdash? Ele também diz:
+287	Thank You, HaShem, for taking, burning, grinding the Beit HaMikdash?	Obrigado, HaShem, por levares, queimares, triturares o Beit HaMikdash?
+288	What thanks? Everything is for the good?	Que obrigado? Tudo é para o bem?
+289	No.	Não.
+290	On Tishah BeAv you do not say that. Not only on Tishah	Em Tishá BeAv não se diz isso. Não só em Tishá
+291	BeAv, but three weeks before Tishah BeAv, from the seventeenth	BeAv, mas três semanas antes de Tishá BeAv, desde 17
+292	of Tammuz, you do not say that. Three weeks of	de Tamuz, não se diz isso. Três semanas de
+293	mourning. Why, why are there three weeks of mourning? Say everything	luto. Por que, por que há três semanas de luto? Diga que tudo
+294	is good, everything is wonderful, everything is a blast.	é bom, tudo é maravilhoso, tudo é fantástico.
+295	Why lie on the floor on Tishah BeAv? Why? Get up,	Por que deitar no chão em Tishá BeAv? Por quê? Levante,
+296	dance.	dance.
+297	Get up,	Levante,
+298	compose melodies about yourself,	componha melodias sobre você mesmo,
+299	melodies of joy, of rhythm, a hora.	melodias de alegria, de ritmo, uma hora.
+300	We do not do this on Tishah BeAv. There are kinot	Não se faz isso em Tishá BeAv. Há kinot
+301	and weeping.	e choro.
+302	It is the most annoying day, Tishah BeAv.	É o dia mais irritante, Tishá BeAv.
+303	Depression.	Depressão.
+304	Why?	Por quê?
+305	There are times when the Creator says: now it is	Há momentos em que o Criador diz: agora é
+306	a time for pain,	tempo de dor,
+307	it is a time of mourning,	é tempo de luto,
+308	now it is a time of destruction; after three weeks	agora é tempo de destruição; depois de três semanas
+309	of mourning there are seven of consolation.	de luto há sete de consolo.
+310	But don't tell me that during Tishah BeAv everything is good,	Mas não me diga que durante Tishá BeAv tudo é bom,
+311	everything is good.	tudo é bom.
+312	This grandfather is burying a grandson; it is not the time to say everything	Esse avô está enterrando um neto; não é hora de dizer que tudo
+313	is good.	é bom.
+314	What, don't you have a heart? Don't you have pain? Don't you have crying,	O quê, você não tem coração? Não tem dor? Não tem choro,
+315	don't you have sorrow, sadness, don't you have, I don't know	não tem aflição, tristeza, não tem, não sei,
+316	what, fear.	o quê, medo.
+317	Where, where are the feelings? Emunah	Onde, onde estão os sentimentos? A emunáh
+318	denies the person normality, feelings, the	tira do ser humano a normalidade, os sentimentos, a
+319	naturalness of the person.	naturalidade do ser humano.
+320	Absolutely not. Woe to whoever understands emunah this way.	De jeito nenhum. Ai de quem entende a emunáh assim.
+321	So I told him: first thing, first of all, leave aside	Então eu disse a ele: primeira coisa, antes de tudo, deixe de lado
+322	now the emunah that it is for the good; no, first of all,	agora a emunáh de que é para o bem; não, antes de tudo,
+323	what do you feel? Boom. What is this boom? Sorrow	o que você sente? Bum. O que é esse bum? Tristeza
+324	that you were fired, fear, what will be, and shame. What do I	por ter sido demitido, medo, o que vai ser, e vergonha. O que eu
+325	tell my wife? It's unpleasant, now I'll be without	digo à minha esposa? É desagradável, agora vou ficar sem
+326	work. Who knows how long I will now be	trabalho. Quem sabe por quanto tempo vou ficar agora
+327	unemployed,	desempregado,
+328	and the welfare office, and I don't know exactly what, the city fund.	e a assistência social, e não sei exatamente o quê, o fundo da cidade.
+329	Who knows.	Quem sabe.
+330	So what then? Is this shame? So first of all give room	Então o quê? Isso é vergonha? Então, antes de tudo, dê espaço
+331	to your feelings. Yes, I am now	aos seus sentimentos. Sim, estou agora
+332	in fear, I am now in sorrow, and I now feel	com medo, estou agora em tristeza, e agora sinto
+333	shame, and it is normal to feel this. First of all, give	vergonha, e é normal sentir isso. Antes de tudo, dê
+334	room	espaço
+335	to your feelings, do not suppress them. What do you	aos seus sentimentos, não os reprima. O que você
+336	feel? Be open. Open up, say what you	sente? Seja aberto. Abra-se, diga o que
+337	feel,	sente,
+338	and give it some room. This is called respecting	e dê algum espaço. Isso se chama respeitar
+339	yourself. To respect yourself means to give room	a si mesmo. Respeitar a si mesmo significa dar espaço
+340	to your feelings.	aos seus sentimentos.
+341	To give room to your thoughts. Not to say, no, all is	Dar espaço aos seus pensamentos. Não dizer, não, tudo
+342	good, all is fine, all is fine. Not true, not all is	está bem, tudo está bem, tudo está bem. Não é verdade, nem tudo
+343	fine. It hurts me a lot. I am in sorrow, in fear,	está bem. Dói muito em mim. Estou em tristeza, em medo,
+344	in shame. That is the first stage.	em vergonha. Essa é a primeira etapa.
+345	About this, with emunah.	Sobre isso, com emunáh.
+346	And who gave you this fear?	E quem lhe deu esse medo?
+347	And who gave you this shame? And who put in you	E quem lhe deu essa vergonha? E quem colocou em você
+348	now this sorrow? The Creator?	agora essa tristeza? O Criador?
+349	Now speak to me of emunah within nature. Not outside	Agora fale-me de emunáh dentro da natureza. Não fora
+350	of nature.	da natureza.
+351	Not taking away the feelings in the name of emunah. No. There are	Não tirar os sentimentos em nome da emunáh. Não. Não
+352	no feelings.	há sentimentos.
+353	None. Dead, no.	Nenhum. Morto, não.
+354	The man had a best friend, the very best. He married off	O homem tinha um amigo, o melhor de todos. Casou
+355	his son, and this friend did not give him an invitation	o filho, e esse amigo não lhe deu um convite
+356	to the wedding.	para o casamento.
+357	So I ask him, and	Então eu pergunto a ele, e
+358	then he says to me: I'll tell you the truth, I don't know	então ele me diz: vou lhe dizer a verdade, não sei
+359	if it is permitted to say this, but I was hurt.	se é permitido dizer isso, mas fiquei magoado.
+360	I told him: why isn't it permitted to say this? What is	Eu disse a ele: por que não é permitido dizer isso? Qual é
+361	the problem with saying it? No, because I shouldn't	o problema de dizer? Não, porque eu não deveria
+362	be hurt. What? What is there to be hurt about? What? Everything is from	me magoar. O quê? Do que há para se magoar? O quê? Tudo vem de
+363	HaShem.	HaShem.
+364	No need to be hurt. Mistake. I did not understand: what,	Não precisa se magoar. Erro. Não entendi: o quê,
+365	you are not a person? First of all you need to be a	você não é uma pessoa? Antes de tudo você precisa ser uma
+366	person. A person, you were hurt, yes, it's normal.	pessoa. Uma pessoa, você se magoou, sim, é normal.
+367	About the hurt, say: and who did this hurt to me?	Sobre a mágoa, diga: e quem me fez essa mágoa?
+368	The Creator.	O Criador.
+369	Not that we are not hurt because it is from HaShem; I felt hurt	Não que não nos magoemos porque vem de HaShem; senti mágoa
+370	and the hurt is from HaShem. Do you understand what Malchuyot is?	e a mágoa vem de HaShem. Entenderam o que é Malchuyot?
+371	To crown HaShem also over your feelings.	Coroar HaShem também sobre os seus sentimentos.
+372	And here people skip, and that is mental health. And in the name of	E aqui as pessoas pulam, e isso é saúde mental. E em nome da
+373	emunah, no. I was once at some place, I told	emunáh, não. Estive uma vez num lugar, já contei
+374	this several times,	isso várias vezes,
+375	people really, really	pessoas realmente, realmente
+376	tzaddikim, tzaddikim,	tsadikim, tsadikim,
+377	but	mas
+378	the mother there, I came to exchange money, it was a	a mãe ali, eu fui trocar dinheiro, era um
+379	gemach of money, and while I was there the children	guemach de dinheiro, e enquanto eu estava lá as crianças
+380	broke a window.	quebraram uma janela.
+381	So the mother says to the children: wow, wow, soon Dad will come	Então a mãe diz às crianças: uau, uau, daqui a pouco o papai vem
+382	and he'll see that you broke the window.	e vai ver que vocês quebraram a janela.
+383	But Dad won't get angry,	Mas o papai não vai ficar bravo,
+384	because it is forbidden to get angry.	porque é proibido ficar bravo.
+385	So if it is forbidden to get angry, Dad won't get angry.	Então, se é proibido ficar bravo, o papai não vai ficar bravo.
+386	So I look: how does she know whether Dad will get angry or	Então eu olho: como ela sabe se o papai vai ficar bravo ou
+387	not? If it were me, first of all I'm angry. Afterwards	não? Se fosse eu, primeiro fico bravo. Depois
+388	let's move on to the next stage.	passamos à etapa seguinte.
+389	Dad won't get angry. She already knows to tell the children	O papai não vai ficar bravo. Ela já sabe dizer às crianças
+390	in advance a prophecy: Dad won't get angry because it's forbidden to get angry.	de antemão uma profecia: o papai não vai ficar bravo porque é proibido ficar bravo.
+391	But Dad will be sad.	Mas o papai vai ficar triste.
+392	So I had a question: but sadness too is forbidden, to be	Então eu tive uma pergunta: mas tristeza também é proibida, ficar
+393	in sadness.	triste.
+394	Why get angry? Dad won't get angry, because it's forbidden to get angry.	Por que ficar bravo? O papai não vai ficar bravo, porque é proibido ficar bravo.
+395	But Dad will be sad. But sadness too	Mas o papai vai ficar triste. Mas a tristeza também
+396	is forbidden.	é proibida.
+397	It's a question,	É uma pergunta,
+398	but I waited to see if it would really happen that way.	mas esperei para ver se realmente aconteceria assim.
+399	After 10 minutes, a knock at the door, our teacher and rabbi	Depois de 10 minutos, batidas na porta, nosso mestre e rabino
+400	arrived,	chegou,
+401	right on time.	bem na hora.
+402	She says to him,	Ela diz a ele:
+403	"Do you hear? The children broke the window on the balcony,	"Está ouvindo? As crianças quebraram a janela da varanda,
+404	go see."	vá ver."
+405	And I'm there exchanging money, gemach.	E eu ali trocando dinheiro, guemach.
+406	In short, I see him going to them, I	Resumindo, vejo-o indo até eles, eu
+407	hear him saying to them,	o ouço dizer a eles:
+408	You broke the window?	Vocês quebraram a janela?
+409	Well, Dad doesn't get angry because it's forbidden to get angry.	Bem, o papai não fica bravo porque é proibido ficar bravo.
+410	But Dad is sad.	Mas o papai está triste.
+411	So what do you say to Dad when he's sad?	Então o que se diz ao papai quando ele está triste?
+412	So the children asked Dad for forgiveness for having made	Então as crianças pediram perdão ao papai por tê-lo deixado
+413	him sad.	triste.
+414	Okay?	Certo?
+415	I continue there, and then the rebbetzin offers me:	Eu continuo ali, e então a rebetzin me oferece:
+416	maybe you'll drink something in the meantime until we bring you	talvez o senhor queira beber algo enquanto isso, até trazermos
+417	the money.	o dinheiro.
+418	So she prepared tea for me there,	Então ela me preparou um chá ali,
+419	and I told her, she asked me what I want to	e eu disse a ela, ela me perguntou o que eu quero
+420	drink, I told her that in winter I really love	beber, eu disse a ela que no inverno gosto muito
+421	to drink tea, so she told me: in our home we don't love	de beber chá, então ela me disse: na nossa casa não amamos
+422	tea.	chá.
+423	We drink tea.	Bebemos chá.
+424	Love, we love only HaShem.	Amar, amamos somente HaShem.
+425	A mussar lesson from the rebbetzin.	Uma lição de mussar da rebetzin.
+426	What is this that you say you love tea in winter?	O que é isso de dizer que ama chá no inverno?
+427	We love HaShem, we don't love tea.	Amamos HaShem, não amamos chá.
+428	Fish.	Peixe.
+429	There is no love for tea, what happened to you?	Não há amor por chá, o que houve com você?
+430	One must love HaShem.	É preciso amar HaShem.
+431	And what about you, and what about fish and schnitzels and chicken	E você, e o que dizer de peixes e shnitzels e frango
+432	and meatballs?	e almôndegas?
+433	And what about all that? No, we don't love anything.	E tudo isso? Não, não amamos nada.
+434	We don't love.	Não amamos.
+435	We love only HaShem.	Amamos somente HaShem.
+436	Wow, wow, this is life, this is education	Uau, uau, isso é vida, isso é educação
+437	for complete disconnection	para a desconexão total
+438	from natural life. What?	da vida natural. O quê?
+439	From physical life.	Da vida material.
+440	No, they eat, they are not people who don't eat. They eat, it's tasty.	Não, eles comem, não são pessoas que não comem. Eles comem, é gostoso.
+441	They eat, it's tasty.	Eles comem, é gostoso.
+442	No, they don't eat because it's tasty, but because one has to	Não, eles não comem porque é gostoso, mas porque é preciso
+443	eat. Also when her children later got the	comer. Também quando os filhos dela depois receberam o
+444	dinner,	jantar,
+445	so she said to me: in our home the children don't say	então ela me disse: na nossa casa as crianças não dizem
+446	the food is tasty; the Torah is tasty.	que a comida é gostosa; a Torá é gostosa.
+447	Food we eat because we have to.	Comida, comemos porque é preciso.
+448	I fled, I	Eu fugi, eu
+449	couldn't hold on, I said	não aguentei, eu disse
