@@ -1,0 +1,82 @@
+{
+ "name": "lane2-013",
+ "lane": 2,
+ "created": "2026-10-14T10:46:19.900Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "Uv0bH0iFG1Q",
+   "title": "Parashá Re'eh: Ra'u Elul Higuia, preparar-se para Elul",
+   "lines": 62,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "IU4RFm6xzSs",
+   "title": "Bikurim e a gratidão: você disse obrigado?",
+   "lines": 60,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-qxus1lchrQ",
+   "title": "Hasbará que abre corações — Parashá Vayetsê",
+   "lines": 60,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5ZHtm4UKv_U",
+   "title": "Deixar bênção: dar nunca é perder",
+   "lines": 34,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "cXCm976zyn0",
+   "title": "Moralidade falsa e a guerra pela verdade",
+   "lines": 75,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "P8766aq6nFY",
+   "title": "Ra'ê: cada pessoa traz a bênção ao mundo",
+   "lines": 48,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "oD3zql9inGI",
+   "title": "Entrando em Elul: Ani LeDodi VeDodi Li",
+   "lines": 32,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1hevcf3NVdk",
+   "title": "A única explicação para as nossas dificuldades",
+   "lines": 27,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "RWv1VLEc2dU",
+   "title": "Tikun da parnassá: a oportunidade da Parashat HaMan",
+   "lines": 11,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "Uv0bH0iFG1Q.p0",
+  "IU4RFm6xzSs.p0",
+  "-qxus1lchrQ.p0",
+  "5ZHtm4UKv_U.p0",
+  "cXCm976zyn0.p0",
+  "P8766aq6nFY.p0",
+  "oD3zql9inGI.p0",
+  "1hevcf3NVdk.p0",
+  "RWv1VLEc2dU.p0"
+ ]
+}
