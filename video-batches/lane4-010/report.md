@@ -1,7 +1,7 @@
 # lane4-010
 
-24 of 25 lessons published · 0 skipped · status **pending**
-Tokens (42 agent runs with a record): 0.4M in (mostly cache) · 0.79M out · API-equivalent 9.16
+24 of 25 lessons published · 1 skipped · status **done**
+Tokens (45 agent runs with a record): 0.5M in (mostly cache) · 0.85M out · API-equivalent 9.76
 
 | lesson | state | detail |
 |---|---|---|
@@ -21,7 +21,7 @@ Tokens (42 agent runs with a record): 0.4M in (mostly cache) · 0.79M out · API
 | pOipeyrTg5w | ✓ published | 310 lines · Gadol HaMachati Yoter Min HaHorgo - Ki Tetzê |
 | 3PGwHlz1-iU | ✓ published | 102 lines · Parashá Bamidbar: as bandeiras e as middot de Yaakov |
 | c-PDGzkRptM | ✓ published | 165 lines · Parashá Ekev: um único pedido que inclui tudo |
-| pNhfS9TvPzA | ✗ will be redone (try 2) | 2 lines missing |
+| pNhfS9TvPzA | skipped after 3 tries | 271 lines missing |
 | R0QSLC61y6w | ✓ published | 18 lines · Adon Olam: A Eternidade e Unidade de Hashem |
 | IZhVIg3bhik | ✓ published | 92 lines · Ki Tavo: HaShem não pede anjos, pede um começo verdadeiro |
 | wVeMyjSYlDE | ✓ published | 123 lines · Bikurim: a cesta do rico e a do pobre |
