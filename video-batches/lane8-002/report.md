@@ -1,12 +1,12 @@
 # lane8-002
 
-18 of 25 lessons published · 0 skipped · status **pending**
-Tokens (40 agent runs with a record): 0.4M in (mostly cache) · 0.67M out · API-equivalent 8.17
+21 of 25 lessons published · 0 skipped · status **pending**
+Tokens (57 agent runs with a record): 0.7M in (mostly cache) · 1.00M out · API-equivalent 12.17
 
 | lesson | state | detail |
 |---|---|---|
-| s2nPtwSd-UQ | ✗ will be redone (try 1) | line 450 twice |
-| m-wedGkrzmI | ✗ will be redone (try 1) | 1 lines missing |
+| s2nPtwSd-UQ | ✓ published | 464 lines · A liberdade e a solidão: o paradoxo de quem só quer receber |
+| m-wedGkrzmI | ✓ published | 1126 lines · Parashá Vayikra: três passos para se aproximar de HaShem |
 | ZWIvYKh98O4 | ✓ published | 184 lines · A testemunha que desaparece: Rosh HaShaná e o Zera Shimshon |
 | 9IFIuJIUfOY | ✓ published | 137 lines · Birkat HaMazon com intenção: o cheque aberto |
 | q44xDTXasHE | ✓ published | 900 lines · Mei-Sinai a Chatserot: a Torá que aproxima |
@@ -21,12 +21,12 @@ Tokens (40 agent runs with a record): 0.4M in (mostly cache) · 0.67M out · API
 | ggdc0s8Fqro | ✓ published | 82 lines · Não ter medo da verdade: o exemplo de Pinchas |
 | iwpWYQEgPvM | ✓ published | 40 lines · Seja rei: a mensagem do shofar para Rosh HaShaná |
 | WqNLInpsXec | ✓ published | 18 lines · Guerra e paz: dois versículos da Parashá Behaalotcha |
-| Ia_QIk-dUWk | ✗ will be redone (try 1) | 22 lines missing |
-| yaoqTxUFBlU | ✗ will be redone (try 1) | 298 lines missing |
+| Ia_QIk-dUWk | ✗ will be redone (try 2) | line 450 twice |
+| yaoqTxUFBlU | ✓ published | 668 lines · Ben Ish Chai Halachot: Pikudei, Halachot 8 a 15 |
 | U22BU4Lt0d0 | ✓ published | 648 lines · Shemini: o bezerro de Aharon, shalom bait e o dia oitavo |
-| I1NcDOB6yTM | ✗ will be redone (try 1) | line 894 twice |
+| I1NcDOB6yTM | ✗ will be redone (try 2) | 4 lines missing |
 | c67uVSVsJXo | ✓ published | 460 lines · O segredo de quem se levanta de qualquer queda |
-| WwNA41XTH7Y | waiting | 2/3 parts |
-| Qy9fFvnoDsU | ✗ will be redone (try 1) | line 400 twice |
+| WwNA41XTH7Y | ✗ will be redone (try 1) | 3 lines missing |
+| Qy9fFvnoDsU | ✗ will be redone (try 2) | line 1051 twice |
 | Rhmdax5gXL0 | ✓ published | 34 lines · Parashá Toldot: quem se afastou merece as bênçãos? |
 | VmkEXv9kIEI | ✓ published | 351 lines · Mitsvot práticas: a força de mudar no mundo da ação |
