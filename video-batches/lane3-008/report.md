@@ -1,7 +1,7 @@
 # lane3-008
 
 22 of 25 lessons published · 2 skipped · status **pending**
-Tokens (100 agent runs with a record): 1.3M in (mostly cache) · 2.25M out · API-equivalent 26.15
+Tokens (106 agent runs with a record): 1.3M in (mostly cache) · 2.33M out · API-equivalent 26.96
 
 | lesson | state | detail |
 |---|---|---|
@@ -28,5 +28,5 @@ Tokens (100 agent runs with a record): 1.3M in (mostly cache) · 2.25M out · AP
 | 67VQBy-rQWs | ✓ published | 325 lines · O Cohen que quis casar com uma divorciada |
 | LretpOZ26GQ | ✓ published | 1072 lines · HaShem prefere os Leviim: o valor do esforço |
 | NNkJrQdffBs | ✓ published | 349 lines · Sheva Berachot: viver pelo outro e o Aharon que acendeu a Menorá |
-| nfDEWz0a83w | skipped after 3 tries | 5 lines missing |
+| nfDEWz0a83w | skipped | |
 | DGgGODF__L4 | ✓ published | 984 lines · Ahavat chinam, fé em HaShem e o fim da inveja |
