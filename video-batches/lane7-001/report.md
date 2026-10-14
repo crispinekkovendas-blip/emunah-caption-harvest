@@ -1,7 +1,7 @@
 # lane7-001
 
-21 of 22 lessons published · 0 skipped · status **pending**
-Tokens (38 agent runs with a record): 0.4M in (mostly cache) · 0.64M out · API-equivalent 7.45
+21 of 22 lessons published · 1 skipped · status **done**
+Tokens (41 agent runs with a record): 0.4M in (mostly cache) · 0.76M out · API-equivalent 8.72
 
 | lesson | state | detail |
 |---|---|---|
@@ -16,7 +16,7 @@ Tokens (38 agent runs with a record): 0.4M in (mostly cache) · 0.64M out · API
 | 4o2aGPqO09U | ✓ published | 140 lines · Brit Milá completa a criação do homem |
 | u1xJRrQlGhI | ✓ published | 10 lines · Regras para Colocar Tefilin |
 | yvBenF7Yiwg | ✓ published | 17 lines · Por que "teu irmão Israel"? A irmandade com Edom |
-| YKG_5pHb4r8 | ✗ will be redone (try 2) | 1 lines missing |
+| YKG_5pHb4r8 | skipped after 3 tries | 1 lines missing |
 | -C8EssPsPDQ | ✓ published | 1788 lines · Parashá Emor: pureza dos Cohanim e os Mo'adim |
 | HcjvVOQh4D4 | ✓ published | 723 lines · Mesaot: a jornada como fio da Kabalat Shabat de Matot-Masei |
 | PwZovhIOl20 | ✓ published | 85 lines · Os trajes do Cohen Gadol e o óleo da Menorá em Tetzavê |
