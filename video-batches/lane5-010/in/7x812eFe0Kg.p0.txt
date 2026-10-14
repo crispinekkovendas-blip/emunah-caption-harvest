@@ -1,0 +1,95 @@
+videoId: 7x812eFe0Kg
+parte 1 de 1 · traduzir as linhas 0 a 84 (85 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O hábito, não a queda, é o verdadeiro problema
+RESUMO: O rabino abre o livro de Devarim lembrando que Moshe Rabenu não começa com histórias de glória, mas com uma repreensão suave, só por alusões a lugares onde o povo errou (Devarim 1:1), como explica Rashi: cada lugar é um sinal de um pecado, porque o povo precisa de abraço e não de martelo. Ele liga isso a Shabat Chazon: a destruição do Beit HaMikdash começou quando o povo deixou de sentir falta dele, e a destruição pessoal começa quando a pessoa passa a conviver em paz com a queda e o coração deixa de sentir. Moshe grita "Rav lachem shevet baHar hazé" (Devarim 1:6), um basta a rodar em volta do mesmo monte, do mesmo pecado e da mesma fraqueza. Chazon vem de visão: HaShem deixa a pessoa ver o quanto de luz e de santidade ainda vive nela, e duas parábolas (o palácio de que só se usa o depósito e o diamante trocado por uma lata de refrigerante) mostram o absurdo de viver com pouco tendo uma alma que é parte de Elokah de cima. Esse é o segredo do luto de Bein HaMetsarim: chorar também pelo Beit HaMikdash pessoal. A esperança é que enquanto a pessoa ainda sofre, o coração quebrado pode ser reconstruído, e o maior problema da geração é o hábito, a vida sem vontade de se levantar. Ele termina pedindo que se enxergue o bem em si, na esposa, nos filhos e no mundo.
+MOMENTOS: 00:09 Shabat Chazon e o início do livro de Devarim · 00:16 Moshe começa com repreensão, não com façanhas · 00:38 Rashi: cada lugar é uma alusão a um pecado · 00:49 O povo precisa de abraço, não de martelo · 01:01 A destruição começa quando se deixa de sentir a falta · 01:26 Acostumar-se à raiva, à tristeza, às telas e ao vazio · 02:02 Rav lachem: basta de rodar em volta do monte · 02:38 Chazon é visão: ver a luz e a alma que há em você · 03:02 Parábolas do palácio e do diamante · 03:32 O luto de Bein HaMetsarim pelo Beit HaMikdash pessoal · 03:54 Esperança: o coração que dói pode ser reconstruído · 04:17 O problema é o hábito, não a queda · 04:47 Ver o bem em si mesmo, na esposa e nos filhos
+FONTES CITADAS: 00:16 Devarim 1:1 · 00:38 Devarim 1:1 · 00:38 Rashi em Devarim 1:1 · 02:02 Devarim 1:6 · 02:38 Yeshayahu 1:1 · 03:29 Iyov 31:2 · 03:32 Bein HaMetsarim e Tisha BeAv
+
+LINHAS A TRADUZIR:
+0|00:00|[מוזיקה]
+1|00:05|שבת שלום לאחנו בית ישראל אהובים. ערב שבת
+2|00:09|קודש פרשת חזון זוכים להתחיל חומש חדש
+3|00:13|חומש דברים.
+4|00:16|בעצם משה רבנו עומד לפני עם ישראל בפרשת
+5|00:19|דברים ולא מתחיל בסיפורי גבורה. לא קריאת
+6|00:22|ים סוף לא מן לא ענני כבוד. הוא מתחיל
+7|00:26|בתוכך.
+8|00:27|אבל שימו לב החי דבר מפחיד. הוא לא צועק,
+9|00:30|הוא לא משפיל, הוא לא מבזה, הוא רק מזכיר
+10|00:34|מקומות. רב לכם שבת בהר הזה, חצרות, דיזב,
+11|00:38|רש"י הקדוש מגלה לנו כל מקום רמז לחטא
+12|00:42|אחר. למה ברמז?
+13|00:45|מה הבעיה? תן בהם. לא לא לא.
+14|00:49|עם ישראל זה לא פטיש במסמרים. עם ישראל
+15|00:52|צריך חיבוק.
+16|00:54|גם אם לפעמים כבר אדם כל כך רגיל לנפילה
+17|00:57|שלו, תדבר איתו ישירות בכלל להבין שיש כאן
+18|01:01|חורבן, זה עומק שבת חזון. האסון של החורבן
+19|01:05|לא מתחיל שהרומאים שרפו את בית המקדש.
+20|01:08|החורבן התחיל הרבה קודם ביום שבו עם ישראל
+21|01:11|הפסיק להרגיש שחסר לו בית מקדש. החורבן
+22|01:15|הפרטי של האדם מתחיל לא כשהוא נופל, אלא
+23|01:19|שהוא חי בשלום עם הנפילה.
+24|01:22|לא כשהלב נשבר. אלא כשהלב כבר לא מרגיש.
+25|01:26|יש אדם שמתרגל לכעס, יש אדם שמתרגל
+26|01:30|לעצבות, יש אדם שמתרגל לטומאה, יש אדם
+27|01:33|שמתרגל למסכים, לרעש, לחיצוניות,
+28|01:37|לרייקנות. לאט לאט קורה הסוד הכי גדול.
+29|01:42|הנפש מפסיקה לצעוק. האדם ממשיך לחיות,
+30|01:46|לדבר, לעבוד, ישן, קם, משפחה, ילדים,
+31|01:52|צחוק, אבל בפנים יש חורבן. הלב בפנים
+32|01:55|שחור, אפל, יבש, הוא לא נהנה מכלום. הוא
+33|01:59|לא שמח מכלום, לא טוב לו כלום. כל מה שיש
+34|02:02|לו ולא טוב לו. וזה מה שמשה רבנו צורח
+35|02:05|בפרשת דברים. רב לכם, די כבר לחיות חיים
+36|02:09|חיצוניים. די להסתובב סביב אותו הר 40
+37|02:13|שנה. די לברוח מהשליחות שלך, די להשים את
+38|02:17|כל העולם, די לחיות בלי אמת פנימית, כי יש
+39|02:21|אנשים שכל החיים שלהם הם סיבוב סביב, עוד
+40|02:26|סביב ועוד סביב ועוד סביב הרחד,
+41|02:31|אותה תאווה, אותו יאוש, אותו חטא, אותה
+42|02:34|חולשה שנים כבר השלימו עם זה. זה מה ששבת
+43|02:38|חזון באה לשבור. חזון לשון ראייה. ראייה
+44|02:42|למרחוק. הקדוש ברוך הוא נותן לך לראות רגע
+45|02:45|אחד מה יכול להיות כמה אור יש בו כמה נשמה
+46|02:50|יש בו כמה קדושה עדיין חיה בפנים פתאום
+47|02:54|האדם נבהל איך הסכמתי לכם כל כך הרבה שנים
+48|02:58|במקום כל כך נמוך יש בי עולם כזה גבוה
+49|03:02|למשל למה הדבר דומה אדם שיש לו ארמון
+50|03:05|20,000 מטר עושר מטלטל במקום לההנות
+51|03:09|מהעושר מהחדרים ומפוארים הוא חי באיזה זה
+52|03:13|מחסן בקצה של הארמון 30 שנה טיפש תהנה
+53|03:17|מארמון אדם יש לו יהלום בכיס טריליון דולר
+54|03:22|שווה והוא נבק על פחית קוקה-קולה טיפש
+55|03:25|תהנה מהטריליון דולר שלך יש לך נשמה כזו
+56|03:29|גדולה חלק אלוה מימה לא אתה מתעסק עם
+57|03:32|שטויות זה סוד האבלות של בין המיצרים לא
+58|03:35|רק לבכות על אבנים שנשר שנשרפו לי לפני
+59|03:40|2000 שנה לבכות על בית המקדש הפרטי
+60|03:43|שבתוכנו שנחרב על הלב שכבר לא בוער בתפילה
+61|03:48|על העיניים שכבר התרגלו לראות הכל אוי
+62|03:50|ואבוי לנו על הנשמה שכבר עייפה מלחפש אמת
+63|03:54|אבל כאן התקווה הגדולה כל זמן שהאדם עוד
+64|03:57|כואב הוא חי הלב שנשבר יכול להיבנות הנפש
+65|04:03|שצועקת יכולה להיגאל האדם שמפסיק לשקר
+66|04:07|לעצמו כבר התחיל את הגאולה הפרטית שלו זה
+67|04:10|המסר אחד של פרשת דבר דברים ערב תשעה באב
+68|04:14|שבת חזון לדור שלנו הבעיה הכי גדולה היא
+69|04:17|לא החטא הבעיה הכי גדולה היא ההרגל החטא
+70|04:21|לא הנפילה החיים בלי רצון לקום מי שיזכה
+71|04:24|בשבת הזאת לעשור רגע אחד לפני באמת להביט
+72|04:28|פנימה להודות איפה הוא מסתובב סביבותו הר
+73|04:32|כבר הרבה שנים לצעוק לקדוש ברוך הוא באמת
+74|04:36|רב לי [כחכוח]
+75|04:38|אני לא רוצה להישאר כאן אני רוצה להתקדם
+76|04:41|כבר אותו רגע התחיל בית המקדש הפרטי שלו
+77|04:44|להיבנות וזה המסר הגדול לפרשה שלנו וגם
+78|04:47|לראות את הטוב שבכל אחד את הטוב שבך את
+79|04:51|הטוב שבאשתך את הטוב שבילדים את הטוב
+80|04:54|שבעולם תפסיק לספור ביקורות תפסיק להסתכל
+81|04:58|מה לא טוב תסתכל כמה דברים טובים יש לך
+82|05:01|כמה דברים נפלאים יש לך ולאשתך הנפלאה אין
+83|05:04|בעולם כמוה אין בעולם כמו בעלך תראו רק את
+84|05:07|הטוב אחד של השני מפה עושים ומצליחים שבת שלו
