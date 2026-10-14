@@ -1,0 +1,88 @@
+videoId: 6wTOTmV3OU0
+parte 1 de 1 · traduzir as linhas 0 a 77 (78 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashá Korach: os Cohanim, os Levitas e seus dons
+RESUMO: O rabino começa em Bamidbar 18:21, versículo em que o Todo-Poderoso dá aos filhos de Levi todo o dízimo de Israel como herança, em troca do serviço que realizam, e nota que a ideia se repete várias vezes no capítulo. Ele situa o trecho depois da revolta de Korach contra Moshê e Aharon, quando a terra engoliu Korach e os seus, e HaShem ordena então a Moshê que regule por lei a posição dos Cohanim e dos Levitas. Explica os 24 dons sacerdotais, tirados do que o homem possui: produtos do campo, carne do abate, lã da tosquia e os primogênitos dos animais, até o primogênito do jumento. Esses dons não são caridade nem assistência social, e sim pagamento por um trabalho: o Templo ocupava os Levitas só em parte do ano, mas o resto do tempo eles eram os professores e educadores do povo. Ele acrescenta que a tribo de Levi também deveria ter terras, mas as dividiu entre as outras tribos, e compara isso ao arrendamento (chocher e aris da Gemará). Termina com a bênção de Moshê, em que os Levitas ensinam os juízos e a Torá a todo o Israel, de crianças a adultos.
+MOMENTOS: 00:05 Bamidbar 18:21: o dízimo como herança dos Levitas · 00:36 Depois da revolta de Korach e da terra que o engoliu · 00:57 HaShem manda regular por lei a posição dos Cohanim · 01:21 Os 24 dons sacerdotais · 01:52 Os primogênitos dos animais, até o do jumento · 02:08 Não é caridade nem assistência social · 02:32 Os Levitas trabalham o ano todo, não só no Templo · 03:03 Professores e educadores do povo · 03:35 A terra de Levi dividida entre as tribos · 04:32 Chocher e aris na Gemará · 04:56 A bênção de Moshê: ensinar a Torá a Israel
+FONTES CITADAS: 00:05 Bamidbar 18:21 · 00:48 Bamidbar 16:32 · 00:57 Bamidbar 18:8 · 01:21 Os 24 dons sacerdotais (matnot kehuná) · 01:35 Devarim 18:3 · 01:40 Devarim 18:4 · 01:58 Bamidbar 18:15 · 02:25 Bamidbar 18:21 · 03:12 Bamidbar 18:21 · 03:38 Bamidbar 35:2 · 04:32 Bava Metzia, chocher e aris · 04:56 Devarim 33:10
+
+LINHAS A TRADUZIR:
+0|00:00|פרשת קורח
+1|00:05|פרק יח פסוק כולבני
+2|00:12|לוי הנה נתתי כל מעשר בישראל לנחלה
+3|00:19|חלף עבודתם
+4|00:22|אשר הם עובדים את עבודת עולמד
+5|00:30|הפסוק הזה חוזר על עצמו כאן כמה פעמים.
+6|00:36|קורח
+7|00:38|הרי פתח במאבק נגד משה, כולל את אהרון
+8|00:45|וקרא לו מה שקרה לו.
+9|00:48|האדמה בעלה אותו ואת כל חסידיו.
+10|00:54|וכל האשר להם.
+11|00:57|ואז הקדוש ברוך הוא מצווה את משה
+12|01:02|לארגן בצורה מסודרת
+13|01:06|על פי חקיקה
+14|01:09|את המעמד של הכהנים והלביאים. על פי
+15|01:13|חקיקה.
+16|01:21|יש 24 מתנות כהודה.
+17|01:25|24
+18|01:29|מכל מה שיש לאדם
+19|01:32|מיבולי השדה,
+20|01:35|מן הבשר אשר הוא שוחט אז רואה אבל חייין
+21|01:40|מן הגיזה שהוא גוז את הצמר מן הכבשית.
+22|01:49|מי
+23|01:52|הצאון שנולדים לו הבקר, הבהמות הטהורות
+24|01:58|ולא רק הטהורות, כמין החמור,
+25|02:01|בכור של חמור, בכור של בהמת תורה,
+26|02:05|לכהן,
+27|02:08|שלא יתקבל הרושם
+28|02:11|שזה שנור, נדבות, צדקה
+29|02:17|הם אנשי
+30|02:19|לא עובדים א בטלנים מקבלים עזרה סוציאלית
+31|02:23|לא
+32|02:25|חלף עבודתם אשר הם עובדים
+33|02:29|הם עובדים
+34|02:32|אבל הם עובדים יום ולילה
+35|02:35|כל עובד עובד כך וכך שעות שמונה שעות תשע
+36|02:40|שעות יש לו עבודה אחרי זה הוא חופשי
+37|02:44|שבט לוי
+38|02:47|הכהנים והלביאים
+39|02:49|היו עובדים
+40|02:51|חלק קטן בבית המקדש על פי הצרכים
+41|02:55|בחגים יותר חול פחות
+42|03:00|אבל מה הם עשו כל השנה
+43|03:03|הם היו מלמדי התורה הם היו קצין חינוך
+44|03:08|התורה קוראת לזה לצוות צבא לבוד עבודה
+45|03:12|בעולמד התורה קוראת לזה כאן כאן חלף
+46|03:16|עבודתם אשר הם עובדים את עבודת עולמות.
+47|03:22|כלומר זה שכר מה שכל עם ישראל 11 שבטים
+48|03:29|נותנים לשבט לוי לסכר.
+49|03:35|ולא זו בלבד
+50|03:38|לשבט לוי הגיע חלק באדמות של ארץ ישראל.
+51|03:42|ציינתי פעמים רבות
+52|03:45|שבימי
+53|03:47|קדם
+54|03:48|כמעט כולם היו חקלאים.
+55|03:51|לא הייתה אדמיניסטרציה,
+56|03:53|לא היה הייטק, לא בנקים,
+57|03:56|לא קופת חולים.
+58|03:59|95% לפחות התפרנסו מחקלאות.
+59|04:04|אדמות ששבט לוי נכנסו לפול, למגר. הם
+60|04:10|חולקו לכל השבטים.
+61|04:14|כל שבט קיבל יותר אדמה כשבט לוי לא קיבל.
+62|04:19|כשהיום יש חקלאי שהוא לא רוצה להיות חקלאי
+63|04:22|[נחירות בוז] ורוב החקלאים היום כאלה. אז
+64|04:25|הוא נותן את השדות שלו, מחכיר אותם כמו
+65|04:27|סכום כך וכך למי שרוצה להיות חקלאי.
+66|04:32|בגמרא קראו לזה חוכר, קראו לזה אריס.
+67|04:37|אם כן, זאת הנחלה.
+68|04:43|שבט לוי לא קיבל
+69|04:46|זה עיוון שאר השבטים צריכים לתת להם אבל
+70|04:50|התורה לא מדגישה את זה במיוחד מדגישה את
+71|04:54|העבודה
+72|04:56|הם המלמדים של כלל ישראל יראו משפטיך
+73|05:00|ליעקב וחוקיך לישראל כך קובע את המעמד
+74|05:05|שלהם משה רבנו בברכות שהוא בכך את ישראל
+75|05:09|לפני לפני שהוא הלך לו למחל
+76|05:14|מתינוקות של בית רבן ועד אנשים מבוגרים
+77|05:18|בכל השכבות Вот.
