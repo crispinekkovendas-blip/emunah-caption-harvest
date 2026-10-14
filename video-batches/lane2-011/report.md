@@ -1,13 +1,13 @@
 # lane2-011
 
-17 of 25 lessons published · 7 skipped · status **pending**
-Tokens (197 agent runs with a record): 3.2M in (mostly cache) · 6.79M out · API-equivalent 79.96
+17 of 25 lessons published · 8 skipped · status **done**
+Tokens (209 agent runs with a record): 3.4M in (mostly cache) · 7.16M out · API-equivalent 84.36
 
 | lesson | state | detail |
 |---|---|---|
 | 4GlpBkO-UEg | ✓ published | 832 lines · Chok LeIsrael da Parashá Noach, terça-feira |
-| V9_jJbK-x68 | skipped after 3 tries | line 900 twice |
-| 1SFqadwGRj4 | skipped after 3 tries | 2 lines missing |
+| V9_jJbK-x68 | skipped | |
+| 1SFqadwGRj4 | skipped | |
 | YbZ-QrCZQLQ | ✓ published | 438 lines · Parashá Noach: qual é a sua arca de Noach? |
 | lPtF7kq30Nc | ✓ published | 814 lines · Noach antes de Toldot: a paz interior e a ansiedade |
 | MpU-eFdeF2A | ✓ published | 570 lines · Kibud em para uma mãe que quis matar o filho |
@@ -22,7 +22,7 @@ Tokens (197 agent runs with a record): 3.2M in (mostly cache) · 6.79M out · AP
 | WuooQwAtIhU | ✓ published | 1143 lines · Parashá Re'eh: escolher por si mesmo, bênção e maldição |
 | xhcVVpzM-BY | ✓ published | 1145 lines · Parashat Nasso, o número 176 e a Torá com mesirut nefesh |
 | poGvznq_pS8 | ✓ published | 1052 lines · Bereshit: segredos das letras, números e da Criação |
-| os2uv-4_idQ | ✗ will be redone (try 2) | 7 lines missing |
+| os2uv-4_idQ | skipped after 3 tries | 238 lines missing |
 | aNOlC_hYTu0 | ✓ published | 1661 lines · O pecado de Adam: a árvore do conhecimento e a visão seletiva |
 | 6lkKIeQ932s | ✓ published | 703 lines · Fé, valor da Torá e as dificuldades da Criação em Bereshit |
 | -eq3PlERCBk | ✓ published | 1874 lines · Parashá Ekev: Tu BeAv, bênçãos da Torá e a tzir'á |

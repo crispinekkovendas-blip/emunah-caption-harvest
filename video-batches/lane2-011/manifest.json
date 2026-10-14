@@ -2,7 +2,7 @@
  "name": "lane2-011",
  "lane": 2,
  "created": "2026-10-13T16:07:49.273Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "4GlpBkO-UEg",
@@ -278,7 +278,7 @@
   "eisn3_BRpSI": 3,
   "5KYmtdwG0FY": 1,
   "V9_jJbK-x68": 3,
-  "os2uv-4_idQ": 2
+  "os2uv-4_idQ": 3
  },
  "done": [
   "4GlpBkO-UEg",
@@ -306,6 +306,7 @@
   "5NDlCl8_s1g",
   "eisn3_BRpSI",
   "V9_jJbK-x68",
-  "1SFqadwGRj4"
+  "1SFqadwGRj4",
+  "os2uv-4_idQ"
  ]
 }
