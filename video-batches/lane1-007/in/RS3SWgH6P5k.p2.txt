@@ -1,0 +1,82 @@
+videoId: RS3SWgH6P5k
+parte 3 de 3 · traduzir as linhas 900 a 957 (58 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zedaká: dar o que se quer receber no Din
+RESUMO: O rabino Shneor Ashkenazi explica por que a Parashá Re'ê abre o mês de Elul: é a parashá da zedaká ("abrirás, abrirás a tua mão", "dar, darás"). Com o Rambam, Hilchot Teshuvá cap. 3, ele mostra que uma única mitzvá inclina a balança, e que o costume de Israel é multiplicar a zedaká de Elul a Yom Kipur. A pergunta central é por que justamente a zedaká muda o julgamento. A resposta, tirada de ensinamentos de Chabad, é que o Din de Rosh HaShaná trata das necessidades simples da vida (vida, saúde, sustento, paz de espírito), exatamente o que o pobre pede de nós; e HaShem governa por middá keneged middá. Ele cita a Mishná "Eilu Devarim" e o Rambam em seu comentário sobre ela: as mitzvót sociais (honrar pai e mãe, visitar doentes, hospedar, casar a noiva) são pagas neste mundo porque moldam o mundo do outro. Ilustra com a história do Dr. Howard Kelly e o copo de leite, a história de um casamento durante a pandemia, Yitro e o Mar Suf, e o poder de uma palavra de incentivo. Por fim, com a pergunta do Ramban em seu discurso de Rosh HaShaná, o Talmud sobre Acher e o ninho de pássaros, e o Zohar sobre shiluach hakén, mostra que a recompensa das mitzvót entre o homem e o próximo vem aqui, e a das mitzvót entre o homem e o Criador vem no mundo vindouro.
+MOMENTOS: 00:00 Re'ê, Elul e o chamado a cada pessoa · 01:14 A ligação entre a Parashá Re'ê e o mês de Elul · 02:07 Rambam: uma mitzvá inclina a balança · 03:27 Pergunta: por que a zedaká muda o Din? · 04:44 Zedaká é dar o que queremos receber · 07:37 Mishná: mitzvót que dão fruto neste mundo · 09:34 Rambam: HaShem paga o que você moldou · 14:02 História do Dr. Kelly: o copo de leite · 18:15 O Din de Rosh HaShaná trata de necessidades simples · 19:31 Middá keneged middá fortalece a emunah · 26:37 Yitro e o Mar Suf · 30:00 O poder de uma palavra boa · 34:20 Pergunta do Ramban sobre o Din de Rosh HaShaná · 40:08 Shiluach hakén e honrar pai e mãe
+FONTES CITADAS: 00:04 Devarim 11:26 · 01:35 Devarim 15:8,10 · 02:07 Rambam, Hilchot Teshuvá 3:4 · 02:31 Rambam, Hilchot Teshuvá 3:4 · 03:45 Unetané Tokef · 07:37 Mishná Peá 1:1 · 09:03 Mishná Peá 1:1 · 09:34 Rambam, comentário à Mishná Peá 1:1 · 18:15 Devarim 10:17 · 18:19 Torá Or / Likutei Torá, Admor HaZaken, em nome do Ramban · 26:37 Shemot 18:11 · 28:29 Sanhedrin 106a · 28:29 Shemot 1:22 · 29:17 Pesachim 8a · 33:37 Shemot 8:18 · 33:55 Melachim I 8:32 · 34:20 Ramban, Derashá de Rosh HaShaná · 35:25 Rosh HaShaná 16b · 36:05 Devarim 22:7 · 36:07 Chaguigá 15a · 37:08 Chaguigá 15a · 37:51 Kidushin 39b · 38:27 Eruvin 19a · 40:08 Zohar, Shiluach HaKén · 41:52 Rambam, Hilchot Teshuvá 9:1 · 42:03 Rambam, Hilchot Teshuvá 9:1 · 42:16 Shemot 20:12 · 43:48 Mishná Peá 1:1
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+888|41:18|אז מה מה מה גורם לקדוש ברוך הוא להחליט
+889|41:19|מי בקיצה או מי לא בקיצו מה הקריטריונים
+890|41:22|הקריטריונים הם עניינים של חברתים עניינים
+891|41:24|אלו דברים שאדם אוכל פירותיהם בעולם הזה
+892|41:26|עניינים שקשורים לעולם הזה זה ולכן בראש
+893|41:30|השוון לעיקר הדין ומשפט זה עניינים של אדם
+894|41:31|לחברו וזה מה שמכריע לגבי העולם הזה מה
+895|41:35|יהיה עם כל העינינים שבן אדם למקום על זה
+896|41:37|המשפט הוא למעלה זה המשפט הוא לא כאן ועוד
+897|41:40|דבר יפה מאוד מאוד שהרבי פעם כתב בליקוטי
+898|41:43|שיחות שיחה ארוכה בהדרן הלחולין הדרן מאוד
+899|41:45|מאוד מעמיק אני מוציא מההדרן הארוך הזה
+
+LINHAS A TRADUZIR:
+900|41:48|שורה אחת מחת אחת הרמבם בהלכות תשובה מדבר
+901|41:52|על שכר מצוות בליל מלקה שהשכר הוא הטובה
+902|41:54|התפונה לצדיקים היא בעולם ההוא בחיים שאין
+903|41:57|אחרי מוות, חיי נפש וכולו שהשכר לצדיקים
+904|42:00|הוא בעולם הבא. והרמב"ם מביא לזה ראיה
+905|42:03|מאיפה? ממצוות שילוח הכן שנאמר למרחון ימך
+906|42:06|ופרשו לעולם שכולו ארוך. למה הרמב"ם לא
+907|42:09|הביא את זה מפרשת ותחנן? מכיבוד אבהם כבר
+908|42:13|בעשרת הדיברות נאמר אותו לשון
+909|42:16|למענית לך את הימים אז למה למה הוא לא הביא את זה מסכת הדברות? למה הוא צריך
+910|42:19|להביא את זה מכת? הרי ברור שבכיבוד אבהם
+911|42:21|מסכת הדיברות זה מצווה הרבה יותר חשובה
+912|42:23|למה הוא לא הוכיח את זה משם? ורבי אומר
+913|42:26|דבר מיוחד במינו, מתבקש. זה שני מובנים של
+914|42:29|אריכות ימים.
+915|42:32|שילוח הכן זה מצווה רוחנית כמו שאמרנו. אז
+916|42:34|השכר עליה יהיה בעולם הבא. אז הרמב"ם
+917|42:36|מתאים. כיבוד אבהם זה קודם כל מצווה של
+918|42:39|בין אדם לחברו. כיבוד אבהם זה אחת המצוות
+919|42:42|שמנויות במשנה של אלו דבורים. זה מצווה
+920|42:45|שגורמת לאבא ואמא לחיות יותר שנים גם
+921|42:49|באריכות ימים וגם בימים ארוכים.
+922|42:52|כיבוד אבהם פירושו האמירה לאבא ואמא.
+923|42:54|אנחנו רוצים שתחיו, החיים שלכם חשובים, זה
+924|42:57|זכות בשבילנו כל יום שאתם נמצאים בעולם
+925|42:59|אנחנו נאווה כדי לתת לכם עוד דקה של חיים,
+926|43:02|עוד רגע של בריאות, להקל עליכם את החיים,
+927|43:04|לתת לכם שמחה.
+928|43:06|אז שמה למענית לווחת יומים, האריכות ימים
+929|43:09|זה אריכות ימים כפשוטה. זה אריכות ימים
+930|43:11|בעולם הזה כי נתת ליהודי חיים. דרשנים
+931|43:14|אומרים בבדיחות שלמה על כיבוד אבהם יש
+932|43:16|אריכות ימים? מה דווקא יצאה המצווה הזו
+933|43:19|מכלל המצוות? שלוש מצוות אריכוס יומים. מה
+934|43:21|פתאום דווקא כיבוד אבהם? כי לכבד את
+935|43:24|ההורים זה לוקח זמן. זה לוקח חלק מהיום.
+936|43:27|לקחת את אמא ולהחזיר את אמא ולקנות לאמא.
+937|43:29|ברוך השם שנזכה לאכול ימים שנים טובות. אז
+938|43:32|הקדוש ברוך הוא מבטיח שהוא יתן לך הרבה
+939|43:33|ימים בעולם הזה כדי להחזיר לך את כל הזמן
+940|43:36|שנתת. לא תפסיד כלום ממה שנתת. אז זה הכל
+941|43:40|מדובר על חיים גשמיים בעולם הזה. לכן
+942|43:42|הרמב"ם לא מביא ראיה מכיבוד אבאים. הרמב"ם
+943|43:44|מביא ראיה משילוח הכן. איי תשאלו אותי ששם
+944|43:48|בסיפור של הילד אז גם כן היה עניין
+945|43:50|מעורבות של כיבוד אבוהים. שאלה באמת יש שם
+946|43:52|כמה גרסות לא ניכנס לזה עכשיו אבל כל פנים
+947|43:54|בפשט אה
+948|43:57|כיבוד אבוהים זה מצווה של בן אדם למקום שהיא כתובה במפורש במשנה שאדם אוכל
+949|44:01|פירותיהם בעולם הזה אז אי אפשר להגיד על
+950|44:03|זה סח מצוות בעיין מלק ולכן אם אנחנו
+951|44:06|מסכמים אומר הרמבם מפתחו של חודש אלול
+952|44:09|אומרת פרשת ראה ראה אלול הגיע נתון תיתן
+953|44:12|פתוח תפתח שנזכה להיות מה נותנים בלב
+954|44:14|רחבלי לחשוב פעמיים והקדוש ברוך הוא יחזיר
+955|44:17|מידו המלאה הפתוחה הקדושה ורחבה בכל מה
+956|44:19|שודי מבקש בבונ חי ומזי רך ובכולו ריכה
+957|44:23|ונזכה באמת לכתב ולחתם לשנה טובה ומבורכת לנו ולכל בית

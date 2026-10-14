@@ -1,0 +1,41 @@
+videoId: DiWdZqUkSw0
+parte 2 de 2 · traduzir as linhas 450 a 466 (17 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Ben Ish Chai, Yitro: espremer, sucos e sangue no Shabat
+RESUMO: O Rav Shaked Bohadana continua o Ben Ish Chai, Parashá Yitro do segundo ano, halachot 6 a 8, sobre as leis de espremer frutas no Shabat e no Yom Tov. Primeiro, o Ben Ish Chai explica que no Yom Tov a espremedura é proibida por decreto rabínico, pois se espremeria muito para uso futuro, e que o costume de Bagdá de espremer romãs e uvas verdes (bosser) numa vasilha vazia se justifica porque elas eram antes cozidas e o suco estragava, sem risco de excesso (Shulchan Arukh, Orach Chaim 510). Depois trata dos sucos que escorrem sozinhos: se as frutas foram esmagadas antes do Shabat o suco é permitido, e uvas já dentro do tonel de vinho antes do Shabat se anulam em 60. Apresenta três opiniões sobre pôr uvas ou passas no vinho durante o Shabat (Bach, Taz, Yaavetz) e o Ben Ish Chai decide como o Taz. Em seguida, permite sugar o suco de frutas comuns, mas recomenda rigor com uvas e azeitonas. Por fim, trata de sugar o sangue entre os dentes, proibido por decreto rabínico (hovará), e de Mar'it HaAyin, com a exceção da circuncisão (Mishná Shabat 19, Guemará, Rav Papa).
+MOMENTOS: 00:04 Abertura: Ben Ish Chai, Yitro, ano 2 · 00:48 Espremer no Shabat e no Yom Tov · 02:28 Por que o Yom Tov proíbe espremer · 03:52 Costume de Bagdá: romãs e bosser em vasilha vazia · 07:02 Resumo da justificativa do costume · 08:12 Frutas esmagadas na véspera: suco permitido · 09:42 Uvas dentro do tonel: anulação em 60 · 13:59 Passas colocadas na água ou vinho antes do Shabat · 15:29 Colocar uvas no vinho no próprio Shabat · 17:21 Três opiniões: Bach, Taz e Yaavetz · 18:48 Sugar suco de frutas e sangue entre os dentes · 24:40 Mar'it HaAyin e o sangue do dedo · 27:05 A exceção da circuncisão
+FONTES CITADAS: 00:20 Shulchan Arukh, Orach Chaim 510 · 00:41 Ben Ish Chai, Shana Shnia, Yitro · 03:52 Shulchan Arukh, Orach Chaim 510:2 · 05:12 Ben Ish Chai, Yitro, halachá 6 · 07:02 Ben Ish Chai, Yitro, halachá 6 · 08:12 Ben Ish Chai, Yitro, halachá 7 · 08:44 Decreto dos mashkin shezavu · 09:42 Ben Ish Chai, Yitro, halachá 7 · 11:44 Davar sheyesh lo matirin · 12:10 Shulchan Arukh, Yoreh Deah, hilchot arvot · 13:59 Ben Ish Chai, Yitro, halachá 7 · 14:50 Ben Ish Chai, Yitro, halachá 7 · 15:29 Ben Ish Chai, Yitro, halachá 7 · 15:57 Shulchan Arukh HaRav (Rav Zalman) · 16:29 Bach, Orach Chaim 320 · 16:36 Taz, Orach Chaim 320 · 17:21 Yaavetz, Mor UKtziá, Orach Chaim · 18:11 Ben Ish Chai, Yitro, halachá 7 · 18:16 Ben Ish Chai, Yitro, halachá 7 · 18:52 Ben Ish Chai, Yitro, halachá 8 · 19:01 Ben Ish Chai, Yitro, halachá 8 · 19:08 Ben Ish Chai, Yitro, halachá 8 · 22:52 Magen Avraham, Orach Chaim 328, seif katan 53 · 23:06 Shulchan Arukh HaRav; Ben Ish Chai; Chayei Adam; Mishná Berurá; Kaf HaChaim · 25:30 Ben Ish Chai, Parashat Tazria, halachá 1 · 25:59 Ben Ish Chai, Parashat Tazria, halachá 1 · 26:19 Ben Ish Chai, Parashat Tazria, halachá 1 · 27:10 Mishná Shabat 19:1 · 27:35 Mil'at Kodesh, segundo capítulo · 27:58 Guemará Shabat 133b, Rav Papa
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+438|26:39|מטפטף להדיא שניכר שהוא מטפטף מאצבעות אז
+439|26:43|כולם יודעים שזה דם שלו לא יבאו לחשות בו
+440|26:46|שזה דם אחר שהוא אסור אבל אם נפסק הטפטוף
+441|26:50|ונשאר האצבע מלוכלך בדם או שיש לו בדוגמה
+442|26:54|דם נזל על מקום
+443|26:56|אחר אסור להניחה בפי משום הרית העין זה
+444|27:00|בעצם הדין הזה עכשיו מה שאתה שואל לגבי
+445|27:05|ברית מילה שאלה מצויינת זה בדיוק מה שחז
+446|27:10|מביאים במשנה במסכת שבת פרק רבי אליעזר
+447|27:13|דמילה שמה כתוב שמל ופורח ומוצץ ועושה כל
+448|27:20|צורכי המילה בשבת ואינו חושש םס פלנית
+449|27:25|וכולי ולמה התירו באמת את מציצת אדם בשבת
+
+LINHAS A TRADUZIR:
+450|27:31|מהמילה אז הערכנו בזה בספר מילת קודש בכל
+451|27:35|השער השני והבאנו מכיוון שזה חלק ממצוות
+452|27:40|המילה חלק ממצוות המילה זה מצייצת
+453|27:45|הדמים
+454|27:47|ו מה ש ובגלל זה המשנה לא אמרה את הסיבה
+455|27:50|היא אמרה שעושה כל צורכי המילה ל פורע
+456|27:54|מוצא צמס פלנית וכולי בהמשך שמה ש הגמרא
+457|27:58|זה הגמרא אומרת אמר רב פפא היומ הי מועלה
+458|28:02|דלא מיץ סכנ תאי ומעביר אנלה זאת אומרת
+459|28:07|הוא אמר מוהל שלא מוצץ זו סכנה ומעבירים
+460|28:11|אותו לא מאפשרים לו למול יותר אבל מסבירים
+461|28:14|שזה טעם נוסף מה שאמר פפה שזה עניין של
+462|28:17|סכנה אבל חוץ מזה גם זה חלק ממעשה המצווה
+463|28:22|של המילה וכמו שמותר למול בשבת אז מותר גם
+464|28:26|למצו את ה את הדמים כן ולשים את החבישה
+465|28:29|וכל צורכי המילה מה
+466|28:32|שנצרך ברוך אדוני לעולם אמן ואמן

@@ -1,0 +1,245 @@
+{
+ "name": "lane1-007",
+ "lane": 1,
+ "created": "2026-10-14T22:56:51.071Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "Ld0LPcDsJNM",
+   "title": "Que sejam milagres: como influenciamos a natureza",
+   "lines": 1147,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "L1UROwNzaKQ",
+   "title": "Sair do Egito: caminhar no seu degrau, sem pressão",
+   "lines": 1178,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "priXBoyKa_Y",
+   "title": "Shlach Lecha: a geração que não acreditou",
+   "lines": 686,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "nZfvnlDT6i4",
+   "title": "Bikurim: gratidão como combustível da alma",
+   "lines": 910,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "DiWdZqUkSw0",
+   "title": "Ben Ish Chai, Yitro: espremer, sucos e sangue no Shabat",
+   "lines": 467,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "w_oGG9rSk-4",
+   "title": "A esposa de Lot, o sal e o poder da crítica",
+   "lines": 773,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "GGXmPIYcx54",
+   "title": "Parashat Mishpatim: leis civis e sociais da Torá",
+   "lines": 100,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "n44sG5BnZqo",
+   "title": "Ben Ish Chai: leis da Bedicat Chametz (Parashat Tzav)",
+   "lines": 725,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "RS3SWgH6P5k",
+   "title": "Zedaká: dar o que se quer receber no Din",
+   "lines": 958,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Fyf3gwIrknM",
+   "title": "Vayikra ou Vayikar: HaShem fala com você",
+   "lines": 668,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rJeAGtUMKFU",
+   "title": "Hishtadlut e bitachon: quanto me esforçar",
+   "lines": 1053,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "zRCbyn0DVjc",
+   "title": "Ânava, a raiz de uma fala suave (Mishlei 14:3)",
+   "lines": 834,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "QIxpAc577iQ",
+   "title": "Parashá Haazinu: a canção de Moshe contada às crianças",
+   "lines": 120,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "oUvMGcoNhs0",
+   "title": "Tanya: as letras divinas que dão vida a tudo, até à pedra",
+   "lines": 1297,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Z1EoXd-LN2M",
+   "title": "Por que a Zechut das Mitzvot é crítica",
+   "lines": 1018,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "a-edvUUatHs",
+   "title": "Pekudei: o cheshbon nefesh detalhado e a Shabat Chazak",
+   "lines": 867,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "gkZlVYrSyIY",
+   "title": "Nissan, a Geulá e o Mashiach em Parashat Tazria",
+   "lines": 1200,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "zq-wQbi3cN0",
+   "title": "Por que nunca estamos saciados: o justo come para saciar",
+   "lines": 1035,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-Ag0YXeCJbk",
+   "title": "Parah Adumá: por que Moshé entendeu e Shlomo não",
+   "lines": 404,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-iBAInqwKGU",
+   "title": "O Poder da Vontade e da Fé",
+   "lines": 673,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_TmuReRKCDY",
+   "title": "Elul, Parashá Ekev e o \"Ani LeDodi VeDodi Li",
+   "lines": 1422,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ehS8v1navTc",
+   "title": "Desejo bom: saudade da Terra e vontade de carne",
+   "lines": 849,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Vutc2KrThEw",
+   "title": "Shofetim: responsabilidade e a Egla Arufá",
+   "lines": 886,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "CsVETG-aMSM",
+   "title": "Kí Tavô: a intimidade entre o povo e a terra",
+   "lines": 723,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "popBHbDjFAU",
+   "title": "Din e Rachamim: como a teshuvá corrige escolhas ruins",
+   "lines": 1424,
+   "parts": 4,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "Ld0LPcDsJNM.p0",
+  "Ld0LPcDsJNM.p1",
+  "Ld0LPcDsJNM.p2",
+  "L1UROwNzaKQ.p0",
+  "L1UROwNzaKQ.p1",
+  "L1UROwNzaKQ.p2",
+  "priXBoyKa_Y.p0",
+  "priXBoyKa_Y.p1",
+  "nZfvnlDT6i4.p0",
+  "nZfvnlDT6i4.p1",
+  "nZfvnlDT6i4.p2",
+  "DiWdZqUkSw0.p0",
+  "DiWdZqUkSw0.p1",
+  "w_oGG9rSk-4.p0",
+  "w_oGG9rSk-4.p1",
+  "GGXmPIYcx54.p0",
+  "n44sG5BnZqo.p0",
+  "n44sG5BnZqo.p1",
+  "RS3SWgH6P5k.p0",
+  "RS3SWgH6P5k.p1",
+  "RS3SWgH6P5k.p2",
+  "Fyf3gwIrknM.p0",
+  "Fyf3gwIrknM.p1",
+  "rJeAGtUMKFU.p0",
+  "rJeAGtUMKFU.p1",
+  "rJeAGtUMKFU.p2",
+  "zRCbyn0DVjc.p0",
+  "zRCbyn0DVjc.p1",
+  "QIxpAc577iQ.p0",
+  "oUvMGcoNhs0.p0",
+  "oUvMGcoNhs0.p1",
+  "oUvMGcoNhs0.p2",
+  "Z1EoXd-LN2M.p0",
+  "Z1EoXd-LN2M.p1",
+  "Z1EoXd-LN2M.p2",
+  "a-edvUUatHs.p0",
+  "a-edvUUatHs.p1",
+  "gkZlVYrSyIY.p0",
+  "gkZlVYrSyIY.p1",
+  "gkZlVYrSyIY.p2",
+  "zq-wQbi3cN0.p0",
+  "zq-wQbi3cN0.p1",
+  "zq-wQbi3cN0.p2",
+  "-Ag0YXeCJbk.p0",
+  "-iBAInqwKGU.p0",
+  "-iBAInqwKGU.p1",
+  "_TmuReRKCDY.p0",
+  "_TmuReRKCDY.p1",
+  "_TmuReRKCDY.p2",
+  "_TmuReRKCDY.p3",
+  "ehS8v1navTc.p0",
+  "ehS8v1navTc.p1",
+  "Vutc2KrThEw.p0",
+  "Vutc2KrThEw.p1",
+  "CsVETG-aMSM.p0",
+  "CsVETG-aMSM.p1",
+  "popBHbDjFAU.p0",
+  "popBHbDjFAU.p1",
+  "popBHbDjFAU.p2",
+  "popBHbDjFAU.p3"
+ ]
+}
