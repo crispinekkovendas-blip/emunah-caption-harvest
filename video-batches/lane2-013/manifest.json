@@ -2,7 +2,7 @@
  "name": "lane2-013",
  "lane": 2,
  "created": "2026-10-14T10:46:19.900Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "Uv0bH0iFG1Q",
@@ -78,5 +78,18 @@
   "oD3zql9inGI.p0",
   "1hevcf3NVdk.p0",
   "RWv1VLEc2dU.p0"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "Uv0bH0iFG1Q",
+  "IU4RFm6xzSs",
+  "-qxus1lchrQ",
+  "5ZHtm4UKv_U",
+  "cXCm976zyn0",
+  "P8766aq6nFY",
+  "oD3zql9inGI",
+  "1hevcf3NVdk",
+  "RWv1VLEc2dU"
+ ],
+ "skipped": []
 }

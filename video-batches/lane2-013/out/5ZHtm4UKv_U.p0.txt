@@ -1,0 +1,34 @@
+0	A man rents an apartment	Um homem aluga um apartamento
+1	He needs a roof over his head...	Ele precisa de um teto...
+2	For a period of time: a year, two, five, ten...	Por um tempo: um ano, dois, cinco, dez...
+3	One day the lease period ends	Um dia o contrato de aluguel termina
+4	That's it? He just leaves the house like that?	E é só isso? Vai deixar a casa assim?
+5	Leave it all wounded and damaged?	Deixá-la toda ferida e danificada?
+6	No way, absolutely not!	De jeito nenhum, nem pensar!
+7	He brings in a good renovation contractor	Ele chama um bom empreiteiro de reformas
+8	Makes a budget...	Faz as contas...
+9	Plasters and paints the walls...	Rebocam e pintam as paredes...
+10	Broken tiles, he replaces	Cerâmicas quebradas, ele troca
+11	Burnt-out lamps, he fixes, renovates...	Lâmpadas queimadas, ele conserta, renova...
+12	A tenant with a bit of a good heart and a good eye leaves the landlord something in the house	Um inquilino de bom coração e olho bom deixa algo para o dono da casa
+13	Not a miser who strips even the lamps from the ceiling...	Não como o avarento que leva até as lâmpadas do teto...
+14	There are some like that too, but usually people with a good eye and healthy in soul...	Também há esses, mas em geral as pessoas de olho bom e sãs de alma...
+15	Leave a blessing in the place!	Deixam uma bênção no lugar!
+16	We learned this from Yaakov Avinu: Yaakov Avinu arrived at a place (Shechem)	Aprendemos isso com Yaakov Avinu: Yaakov Avinu chegou a um lugar (Shechem)
+17	He saw that they lacked something, fixed their coin for them, left them a blessing!	Viu que lhes faltava algo, consertou a moeda deles, deixou-lhes uma bênção!
+18	You live in a building, you saw there are no mezuzot in the building	Você mora num prédio e viu que não há mezuzot no prédio
+19	Don't say "let's turn to the building committee." Go, spend 3,000 shekels, buy ten mezuzot	Não diga "vamos falar com o comitê do prédio." Vá, gaste 3.000 shekels, compre dez mezuzot
+20	Put one on every floor...	Coloque em cada andar...
+21	Nothing bad will happen...	Nada de mau vai acontecer...
+22	And whatever you put in your home, put in the building!	E o que você coloca na sua casa, coloque no prédio!
+23	Tomorrow when you move out, leave it and say: I left a blessing in the place!	Amanhã, quando mudar de apartamento, deixe e diga: deixei uma bênção no lugar!
+24	No harm will come from this!	Nenhum mal virá disso!
+25	"Ve-natenu" is written the same forward and backward, like "Shemesh"	"Ve-natenu" se escreve igual de frente para trás e de trás para frente, como "Shemesh"
+26	Read it from right to left and from left to right	Leia da direita para a esquerda e da esquerda para a direita
+27	What you give now will come back to you in an hour!	O que você der agora voltará para você daqui a pouco!
+28	With the heart you give, with that same heart you will receive!	Com o coração com que você der, com esse mesmo coração você receberá!
+29	Give a thousand, receive a hundred thousand!	Dê mil, receba cem mil!
+30	Give one, receive three!	Dê um, receba três!
+31	That is how the world stands!	Assim o mundo se sustenta!
+32	It is a mitzvah to act with a good eye!	É mitsvá agir com olho bom!
+33	Illuminating the Land – Rabbi Yoram Abergel and his son Rabbi Yisrael Abergel	Iluminando a Terra – Rabino Yoram Abergel e seu filho Rabino Yisrael Abergel
