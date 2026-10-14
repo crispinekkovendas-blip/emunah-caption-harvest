@@ -1,0 +1,94 @@
+900	You move it aside with your foot.	Você o empurra para o lado com o pé.
+901	That it dirties the Land of Israel, isn't that enough?	Que ele suja a Terra de Israel, isso não basta?
+902	Yes, no.	Sim, não.
+903	If it dirties and bothers you, bothers people, then if	Se suja e incomoda você, incomoda as pessoas, então
+904	with the foot, move it aside with the foot.	com o pé, tire-o do caminho com o pé.
+905	It bothers. You might step on it and get dirty,	Incomoda. Você pode pisar nele e se sujar,
+906	or fall, and there are those who only see dirt in the Land	ou cair, e há quem só veja sujeira na Terra
+907	of Israel, and it bothers them. In the soul.	de Israel, e isso os incomoda. Na alma.
+908	Yes, no, I mean that no. It bothers, really.	Sim, não, quer dizer, não. Incomoda, de verdade.
+909	Yes, it bothers.	Sim, incomoda.
+910	Perfectly fine, thank you, Rabbi. Hello and blessings,	Muito bem, obrigado, Rav. Olá e bênçãos,
+911	Rabbi, I'm a nurse in a hospital, what a tzaddeket. When	Rav, sou enfermeira em um hospital, que tsadekêt. Quando
+912	I travel to a night shift and come back in the morning, do I	eu vou para o plantão da noite e volto de manhã, preciso
+913	need to say Tefilat HaDerech twice, going and returning,	dizer a Tefilat HaDerech duas vezes, na ida e na volta,
+914	or is once enough, in the evening on the way there?	ou basta uma vez, à noite, na ida?
+915	Once in the evening is enough. That is, "lead me"	Uma vez à noite basta. Ou seja, "conduze-me"
+916	and "bring me back," add "and bring me back," so it covers	e "traze-me de volta"; acrescente "e traze-me de volta", assim vale
+917	the return too.	também para a volta.
+918	Having in mind the return as well. Someone wants to know	Tendo em mente também a volta. Alguém quer saber
+919	which name is better for a daughter: Noa, Tamar or Yael. Thanks	qual nome é melhor para uma filha: Noá, Tamar ou Yael. Obrigado
+920	very much, Shabbat shalom.	e Shabat shalom.
+921	All three are wonderful, whichever you like.	Os três são maravilhosos, o que vocês preferirem.
+922	And Noa, with a vav or without?	E Noá, com vav ou sem?
+923	Usually without a vav, because that's how it is written in the Torah.	Em geral sem vav, porque é assim que está escrito na Torá.
+924	Perfectly fine. Thank you, Rabbi. Hello, Rabbi.	Muito bem. Obrigado, Rav. Olá, Rav.
+925	Does the halachah of taking a sabbatical year still apply	A halachá de tirar um ano sabático ainda vale
+926	in our times? Or is it better to use the sabbatical money	nos dias de hoje? Ou é melhor usar o dinheiro do sabático
+927	to repay a loan debt?	para quitar uma dívida de empréstimos?
+928	There is no halachah that one must take a sabbatical year. It's only	Não existe halachá de que seja preciso tirar um ano sabático. É apenas
+929	something legal.	algo legal.
+930	The law allows a sabbatical year. And if you can repay	A lei permite o ano sabático. E se você pode quitar
+931	loans, that is preferable.	empréstimos, isso é preferível.
+932	Perfectly fine. Thank you, Rabbi. I wanted to ask whether	Muito bem. Obrigado, Rav. Eu queria perguntar se
+933	Rabbi, a last question	Rav, uma última pergunta
+934	from someone named Tzofia.	de alguém chamada Tsofia.
+935	Look, hello.	Veja, olá.
+936	Is it permitted to use a robot vacuum, a robot vacuum and mop,	É permitido usar um aspirador robô, um robô que aspira e lava,
+937	on Shabbat when it is scheduled to work at a	no Shabat, quando está programado para funcionar em
+938	certain hour, vacuums the house automatically	determinado horário, aspira a casa automaticamente
+939	and returns to its place without human touch?	e volta ao seu lugar sem contato de mão humana?
+940	It is better that it be at night, so that there's no issue	É melhor que seja à noite, para que não haja nisso questão
+941	of Shabbat desecration there, because by day people	de profanação do Shabat, pois de dia as pessoas
+942	keep an eye out.	ficam de olho.
+943	They won't move it, maybe they'll bump it.	Não vão movê-lo, talvez esbarrem nele.
+944	If it's at night, it cleans, it's permitted.	Se for à noite, ele limpa, é permitido.
+945	Perfectly fine, thank you, Rabbi. Good, two questions here: Modi, tzaddik. Hello, Rabbi, I serve	Muito bem, obrigado, Rav. Bom, duas perguntas aqui: Modi, tsadik. Olá, Rav, eu sirvo
+946	in combat	em combate
+947	and sometimes I don't have time to pray a full prayer. What should I do? Second question: my nephew doesn't	e às vezes não tenho tempo de rezar uma tefilá completa. O que fazer? Segunda pergunta: meu sobrinho não
+948	keep Shabbat; sometimes when he has the phone he insists	guarda o Shabat; às vezes, quando está com o telefone, ele insiste
+949	that I pick him up. Is it permitted?	que eu o pegue no colo. É permitido?
+950	that I pick him up. Is it permitted?	que eu o pegue no colo. É permitido?
+951	Regarding the prayer, there is a prayer for someone who has no time,	Quanto à tefilá, há uma tefilá para quem não tem tempo,
+952	called Havineinu, a short prayer. Use this prayer.	chamada Havineinu, uma tefilá curta. Use essa tefilá.
+953	If you don't remember it, then pray by heart what	Se você não se lembra, reze de memória o que
+954	you remember.	você lembrar.
+955	Or from your heart: compose your own prayer about the army	Ou do coração: formule a sua tefilá sobre o exército
+956	that you are in, for your needs and the needs of the soldiers.	em que você está, pelas suas necessidades e as dos soldados.
+957	As for picking up a child who is holding	Quanto a pegar no colo uma criança que tem na mão
+958	a muktzeh, there is no prohibition in that.	um muktsê, não há nisso proibição.
+959	Thank you, Rabbi. Like the stone.	Obrigado, Rav. Como a pedra.
+960	Someone asks: is it permitted to ride a scooter, a non-electric one,	Perguntam: é permitido andar de patinete, não elétrico,
+961	on Shabbat?	no Shabat?
+962	For a child outside the house? It's permitted.	Para uma criança fora de casa? É permitido.
+963	Up to what age?	Até que idade?
+964	I don't know, under six.	Não sei, menos de seis.
+965	Under six. The older the child, the older the age, it already becomes a	Menos de seis. Quanto mais velha a criança, mais velha a idade, já passa a ser um
+966	vehicle.	veículo.
+967	Yes, not a prohibition, it's not exactly the character of Shabbat.	Sim, não é proibição, não tem exatamente o caráter do Shabat.
+968	Perfectly fine. Good, let's try to fit in one more question.	Muito bem. Bom, vamos tentar encaixar mais uma pergunta.
+969	Hello, Rabbi. Must small children keep	Olá, Rav. As crianças pequenas precisam guardar
+970	meat and milk, and terumot and ma'asrot?	carne e leite, e terumot e maasserot?
+971	Certainly.	Certamente.
+972	For children it is a mitzvah of chinuch: that they not eat meat	Para as crianças é uma mitsvá de educação: que não comam carne
+973	and milk together and not eat tevel, but they should	e leite juntos e não comam tevel, mas devem
+974	eat only things that have been tithed.	comer apenas coisas que foram separadas os dízimos.
+975	Perfectly fine. Good, Rabbi, unfortunately we did not	Muito bem. Bom, Rav, infelizmente não
+976	manage to answer all the questions, although we really	conseguimos responder a todas as perguntas, embora tenhamos
+977	tried. There are many more truly	tentado de verdade. Há ainda muitas outras perguntas
+978	lovely questions. Yasher koach to you. Thanks to Michael Maon	realmente lindas. Yasher koach a vocês. Obrigado a Michael Maon
+979	and Yitzchak Moskovitz, who were with us here in the studio,	e a Yitschak Moskovitz, que estiveram conosco aqui no estúdio,
+980	and a huge thanks to Tzofia Chana Berman, who came to edit	e um enorme obrigado a Tsofia Chana Berman, que veio editar
+981	the program for us. May you merit great mitzvot. And thanks to our teacher and rabbi, Rabbi Shmuel Eliyahu, rabbi	o programa para nós. Que você mereça grandes mitsvot. E obrigado ao nosso mestre e rabino, o Rav Shmuel Eliyahu, rabino
+982	of Tzfat. Thank you very much.	de Tsfat. Muito obrigado.
+983	who is with us in the studio, and a huge yasher koach for all the Rabbi's work, and Rabbi, could we	que está conosco no estúdio, e um enorme yasher koach por toda a obra do Rav, e Rav, podemos
+984	give once more the phone number	dizer mais uma vez o número de telefone
+985	for those who want to buy just the	de quem quer comprar apenas o
+986	book on the weekly Parashah that comes out this week, with the help of	livro da Parashá da semana que sai esta semana, com a ajuda de
+987	HaShem. We have 20 more seconds, I'll give the	HaShem. Temos mais 20 segundos, vou repetir o
+988	phone number again so that people will know. Whoever	número de telefone para que as pessoas saibam. Quem
+989	wants it, it's 052 3859408.	quiser, é 052 3859408.
+990	052 3859 9408 for whoever wants to buy the	052 3859 9408 para quem quiser comprar o
+991	new book of Rabbi Shmuel on the book of Bereshit. We wish	novo livro do Rav Shmuel sobre o livro de Bereshit. Desejamos
+992	everyone Shabbat shalom, good tidings and complete redemption.	a todos Shabat shalom, boas notícias e redenção completa.
+993	[Music]	[Música]

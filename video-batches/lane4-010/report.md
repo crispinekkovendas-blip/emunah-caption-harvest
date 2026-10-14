@@ -1,7 +1,7 @@
 # lane4-010
 
-23 of 25 lessons published · 0 skipped · status **pending**
-Tokens (36 agent runs with a record): 0.4M in (mostly cache) · 0.60M out · API-equivalent 7.28
+24 of 25 lessons published · 0 skipped · status **pending**
+Tokens (42 agent runs with a record): 0.4M in (mostly cache) · 0.79M out · API-equivalent 9.16
 
 | lesson | state | detail |
 |---|---|---|
@@ -13,7 +13,7 @@ Tokens (36 agent runs with a record): 0.4M in (mostly cache) · 0.60M out · API
 | tCqAfJy42Ec | ✓ published | 272 lines · Zera Shimshon: o Rei escolhido por HaShem e o mês de Elul |
 | 2S72usmMofQ | ✓ published | 109 lines · Reuven, Oséias e a Teshuvá Incompleta |
 | FPus5ifea94 | ✓ published | 567 lines · Hakarat HaTov: ver a bênção que já chegou |
-| Iwzhch1zUH0 | ✗ will be redone (try 1) | 1 lines missing |
+| Iwzhch1zUH0 | ✓ published | 994 lines · Chaim KeHalachá: perguntas e respostas de Shabat Bereshit |
 | EQ5EZVbmsOA | ✓ published | 357 lines · Haazinu e Shabat Shuvá: pertencimento e a ameaça da fartura |
 | GfiBPXD-6AE | ✓ published | 210 lines · A vergonha que apaga o pecado, e o que ela não apaga |
 | V3pHXn0piUc | ✓ published | 513 lines · Ensinar o mérito: Datan e Aviram, Korach e as crianças |
@@ -21,7 +21,7 @@ Tokens (36 agent runs with a record): 0.4M in (mostly cache) · 0.60M out · API
 | pOipeyrTg5w | ✓ published | 310 lines · Gadol HaMachati Yoter Min HaHorgo - Ki Tetzê |
 | 3PGwHlz1-iU | ✓ published | 102 lines · Parashá Bamidbar: as bandeiras e as middot de Yaakov |
 | c-PDGzkRptM | ✓ published | 165 lines · Parashá Ekev: um único pedido que inclui tudo |
-| pNhfS9TvPzA | ✗ will be redone (try 1) | 333 lines missing |
+| pNhfS9TvPzA | ✗ will be redone (try 2) | 2 lines missing |
 | R0QSLC61y6w | ✓ published | 18 lines · Adon Olam: A Eternidade e Unidade de Hashem |
 | IZhVIg3bhik | ✓ published | 92 lines · Ki Tavo: HaShem não pede anjos, pede um começo verdadeiro |
 | wVeMyjSYlDE | ✓ published | 123 lines · Bikurim: a cesta do rico e a do pobre |
