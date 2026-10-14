@@ -1,16 +1,16 @@
 # lane3-007
 
-18 of 25 lessons published · 0 skipped · status **pending**
-Tokens (107 agent runs with a record): 1.6M in (mostly cache) · 3.03M out · API-equivalent 36.34
+19 of 25 lessons published · 4 skipped · status **pending**
+Tokens (130 agent runs with a record): 2.0M in (mostly cache) · 3.66M out · API-equivalent 43.95
 
 | lesson | state | detail |
 |---|---|---|
-| 7IAj7XtU-BU | ✗ will be redone (try 2) | line 450 twice |
+| 7IAj7XtU-BU | skipped after 3 tries | line 427 twice |
 | PI1ot3SZL0c | ✓ published | 770 lines · Ismael, as guerras do fim e a força da Torá |
-| LpBdLOddE3g | ✗ will be redone (try 2) | 4 lines missing |
+| LpBdLOddE3g | skipped after 3 tries | line 900 twice |
 | gd4P8F3fow0 | ✓ published | 2779 lines · Kashêr de utensílios e nat bar nat para Pessach |
-| abFqEuLYJfQ | ✗ will be redone (try 2) | line 1043 twice |
-| F3R0W8i9GeY | ✗ will be redone (try 1) | line 450 twice |
+| abFqEuLYJfQ | waiting | 3/4 parts |
+| F3R0W8i9GeY | ✗ will be redone (try 2) | line 900 twice |
 | w9dMhneZXuc | ✓ published | 1064 lines · Parashá Ekev: alegria no calcanhar, mitsvot leves e a bênção do vinho |
 | GYkqaO1m4XM | ✓ published | 656 lines · Por que a mulher foi criada de dentro do homem |
 | 99bGd09s8PM | ✓ published | 1656 lines · O prego do inverno: manter o despertar das Altas Festas |
@@ -20,10 +20,10 @@ Tokens (107 agent runs with a record): 1.6M in (mostly cache) · 3.03M out · AP
 | wxvqEV8wzus | ✓ published | 1304 lines · Parashat Re'eh e Elul: todo homem pode mudar |
 | zG0W1zr-9u0 | ✓ published | 1007 lines · A guerra de todo o povo: justiça, unidade e Torá |
 | BTrm1i8WrtI | ✓ published | 782 lines · De Bereshit a Noach: criar para fazer o bem |
-| vvvuETlA8nQ | ✗ will be redone (try 2) | 11 lines missing |
-| T29WNCBs5e8 | ✗ will be redone (try 2) | line 451 twice |
+| vvvuETlA8nQ | ✓ published | 1420 lines · HaChodesh hazeh lachem": o tempo novo de Israel |
+| T29WNCBs5e8 | skipped after 3 tries | 5 lines missing |
 | P0p3A1avADY | ✓ published | 591 lines · Ben Ish Chai: Rosh Chodesh, velas e Yaale VeYavo |
-| AB_K5jfSBys | ✗ will be redone (try 2) | 10 lines missing |
+| AB_K5jfSBys | skipped after 3 tries | 4 lines missing |
 | 4BXF-rgMds0 | ✓ published | 937 lines · Parashá Matot: o poder da palavra e do voto |
 | BR2294l4x08 | ✓ published | 1280 lines · Parashá Bamidbar e Shavuot: o valor de uma palavra de Torá |
 | 84RpbRT6xsM | ✓ published | 1135 lines · Inveja (Kin'á): Yitzchak e os filisteus na Parashá Toledot |
