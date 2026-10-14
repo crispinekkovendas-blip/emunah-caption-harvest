@@ -2,7 +2,7 @@
  "name": "lane4-012",
  "lane": 4,
  "created": "2026-10-14T21:24:01.909Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "LcV3lD7HQMM",
@@ -38,5 +38,13 @@
   "huE_N4AF5RU.p0",
   "vPn1UUfleV0.p0",
   "XJFIaRgsI6I.p0"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "LcV3lD7HQMM",
+  "huE_N4AF5RU",
+  "vPn1UUfleV0",
+  "XJFIaRgsI6I"
+ ],
+ "skipped": []
 }

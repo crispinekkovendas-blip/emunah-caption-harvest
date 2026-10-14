@@ -1,0 +1,46 @@
+0	Yesterday you made the government, for example.	Ontem você fez o governo, por exemplo.
+1	Umm.	Hmm.
+2	[Foreign]	[Estrangeiro]
+3	[Music] [Foreign]	[Música] [Estrangeiro]
+4	[Laughter]	[Risos]
+5	[Music]	[Música]
+6	[Music] [Foreign] kings	[Música] [Estrangeiro] reis
+7	its coloniality	sua colonialidade
+8	Umm.	Hmm.
+9	their children	seus filhos
+10	Yes, relocation, body, yes, relocation.	Sim, relocation, corpo, sim, relocation.
+11	Yes.	Sim.
+12	Umm.	Hmm.
+13	[Music]	[Música]
+14	[Foreign]	[Estrangeiro]
+15	[Music]	[Música]
+16	[Foreign]	[Estrangeiro]
+17	The ocean is	O oceano é
+18	[Foreign]	[Estrangeiro]
+19	of the polished night	da noite polida
+20	also [Foreign]	também [Estrangeiro]
+21	[Music]	[Música]
+22	Lama	Lama
+23	[Music] [Foreign]	[Música] [Estrangeiro]
+24	laughing	rindo
+25	that it is Amazon [Foreign] he is	que é a Amazon [Estrangeiro] ele é
+26	[Music]	[Música]
+27	[Foreign]	[Estrangeiro]
+28	Obama is [Foreign] [	Obama é [Estrangeiro] [
+29	Music] [Foreign]	Música] [Estrangeiro]
+30	Israel	Israel
+31	[Foreign]	[Estrangeiro]
+32	[Music]	[Música]
+33	of the alphabetic ones of 2023 he	dos alfabéticos de 2023 ele
+34	Johannesburg but Melbourne over Los Angeles [Foreign]	Joanesburgo, mas Melbourne sobre Los Angeles [Estrangeiro]
+35	Abba or Asav [Foreign]	Abba ou Asav [Estrangeiro]
+36	[Music]	[Música]
+37	[Foreign] like, I feel like	[Estrangeiro] tipo, eu sinto como se
+38	Yes.	Sim.
+39	Umm.	Hmm.
+40	Israel	Israel
+41	is [Foreign]	é [Estrangeiro]
+42	why am I he [Foreign]	por que eu sou ele [Estrangeiro]
+43	to us [Foreign]	para nós [Estrangeiro]
+44	to us because	para nós porque
+45	770 Eastern Parkway [Foreign]	770 Eastern Parkway [Estrangeiro]
