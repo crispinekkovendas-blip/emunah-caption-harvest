@@ -1,7 +1,7 @@
 # lane5-010
 
-23 of 25 lessons published · 0 skipped · status **pending**
-Tokens (25 agent runs with a record): 0.1M in (mostly cache) · 0.07M out · API-equivalent 1.01
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (27 agent runs with a record): 0.1M in (mostly cache) · 0.08M out · API-equivalent 1.05
 
 | lesson | state | detail |
 |---|---|---|
@@ -19,12 +19,12 @@ Tokens (25 agent runs with a record): 0.1M in (mostly cache) · 0.07M out · API
 | 6meEmxn9Fl4 | ✓ published | 77 lines · Mesmo sem entender, o remédio funciona |
 | KHunkB8jqB8 | ✓ published | 84 lines · De quem o yêtser hará tem medo: Nitsavim-Vayelech |
 | R8CulQ0bAdA | ✓ published | 100 lines · A diferença entre "Ráot" (males) e "Tzarot" (angústias) |
-| tLqKDNUmYtc | ✗ will be redone (try 1) | line 0 twice |
+| tLqKDNUmYtc | ✓ published | 33 lines · Em uma de suas tribos: o lugar que é de todos |
 | Ja7DOrwNr9k | ✓ published | 62 lines · Permanecer na Terra de Israel: o segredo |
 | 7f4NeD-9Yyw | ✓ published | 47 lines · Parashá Behar: a Shemitá e o descanso da terra |
 | 7uOf3k49ajY | ✓ published | 24 lines · Parashat Nasso e Shavuot: cada alma tem sua voz |
 | QVuCJQV12o8 | ✓ published | 15 lines · Entrar com alegria no novo ano - Ki Tavô |
-| eFFiRzkWg7E | waiting | 0/1 parts |
+| eFFiRzkWg7E | ✓ published | 26 lines · Bushat panim leGan Eden: a vergonha que leva à teshuvá |
 | Q9iok9WKqKI | ✓ published | 18 lines · A partida de Aharon, o homem da paz |
 | 8sIzRjlKeAc | ✓ published | 21 lines · Moshé implora entrar na Terra de Israel |
 | bbPZ8DOK_gQ | ✓ published | 45 lines · Os Maasot da vida: incline a jornada para o lado bom |
