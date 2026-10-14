@@ -1,0 +1,71 @@
+{
+ "name": "lane9-002",
+ "lane": 9,
+ "created": "2026-10-14T16:32:37.067Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "dl7A8WKqzUA",
+   "title": "Parashat Re'eh: aproveitar cada momento é a bênção",
+   "lines": 1002,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "EDEVbVxzM-E",
+   "title": "Parashá Ki Tavo: bikurim, aliança, bênçãos e maldições",
+   "lines": 107,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "6qQsUiM_aJY",
+   "title": "Vayelech: preparação para Yom Kipur e sua grandeza",
+   "lines": 1119,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wqbz_bFt2SQ",
+   "title": "Vezot HaBracha, Hoshana Raba e os decretos",
+   "lines": 694,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Fo8kI_iFxQU",
+   "title": "Parashá Behaalotecha: feedback que salva vidas",
+   "lines": 37,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "hJaeA2x1fJc",
+   "title": "Parashá Shoftim: liderança que inspira os outros",
+   "lines": 26,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FAkVpsHcvJM",
+   "title": "Parashá Chukat: o segredo da sobrevivência judaica",
+   "lines": 19,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "dl7A8WKqzUA.p0",
+  "dl7A8WKqzUA.p1",
+  "dl7A8WKqzUA.p2",
+  "EDEVbVxzM-E.p0",
+  "6qQsUiM_aJY.p0",
+  "6qQsUiM_aJY.p1",
+  "6qQsUiM_aJY.p2",
+  "wqbz_bFt2SQ.p0",
+  "wqbz_bFt2SQ.p1",
+  "Fo8kI_iFxQU.p0",
+  "hJaeA2x1fJc.p0",
+  "FAkVpsHcvJM.p0"
+ ]
+}
