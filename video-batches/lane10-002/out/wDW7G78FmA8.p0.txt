@@ -1,0 +1,450 @@
+0	The area is	A região é
+1	To be	Ser
+2	We see in …	Vemos em …
+3	He is from …	Ele é de …
+4	On	Sobre
+5	One of …	Um dos …
+6	It was not carried outside with …	Não foi levado para fora com …
+7	They gathered	Eles se reuniram
+8	From	De
+9	West	Oeste
+10	…	…
+11	My area in …	Minha região em …
+12	…	…
+13	What I mean is,	O que quero dizer é que,
+14	because he can	porque ele pode
+15	he did not write a single word about it.	ele não escreveu uma só palavra sobre isso.
+16	But still,	Mas ainda assim,
+17	apparently	aparentemente
+18	Enough now.	Chega por ora.
+19	Still,	Ainda assim,
+20	more like that of the standing of whoever	mais como a posição de quem
+21	is impudent, whoever	é atrevido, quem
+22	mine	meu
+23	is the …	é o …
+24	It proves, but the …	Prova, mas o …
+25	It brings children	Traz crianças
+26	of peace …	de paz …
+27	Every synagogue	Toda sinagoga
+28	with a	com um
+29	brings	traz
+30	But then bring the price with you.	Mas então traga o preço com você.
+31	You see,	Veja,
+32	one may bring	pode-se trazer
+33	so those who may, so every	então os que podem, então todo
+34	…	…
+35	can	pode
+36	let him bring bad	deixe-o trazer o ruim
+37	to bring	trazer
+38	is not brought	não é trazido
+39	to sleep	dormir
+40	still, bad eating	ainda assim, comer mal
+41	fire does not	fogo não
+42	you know	você sabe
+43	to teach people, that is, this	ensinar as pessoas, isto é, isto
+44	one might think that it is not brought	poderia-se pensar que não se traz
+45	I mean, means that were brought	quero dizer, meios que foram trazidos
+46	mine	meu
+47	was the last	foi o último
+48	to bring meat	trazer carne
+49	in	em
+50	in the morning, meat tomorrow is	de manhã, carne amanhã é
+51	how much meat exactly until	quanta carne exatamente até
+52	so it is the practice, so it is so	assim é o costume, assim é
+53	a person does not seek to bring	a pessoa não procura trazer
+54	But	Mas
+55	mine	meu
+56	leftovers	sobras
+57	…	…
+58	Where is this permitted?	Onde isso é permitido?
+59	Can you	Você pode
+60	as, is it	como, é
+61	with what I mean is in	com o que quero dizer é em
+62	not that it would bring me already now	não que isso me traga já agora
+63	I did not combine mine	não juntei o meu
+64	it	ele
+65	seems in	parece em
+66	services	serviços
+67	…	…
+68	this year	este ano
+69	I was in synagogue early in the morning	estive na sinagoga de manhã cedo
+70	…	…
+71	…	…
+72	child	criança
+73	leftovers from eating meat	sobras de comer carne
+74	already for this, for this, the food	já por isso, por isso, a comida
+75	bad automatically	estraga automaticamente
+76	fell asleep	adormeceu
+77	and now I write mine in big letters	e agora escrevo o meu em letras grandes
+78	big …, that is	grande …, isto é
+79	you …	você …
+80	to allow	permitir
+81	cannot bring	não pode trazer
+82	I	eu
+83	to sleep	dormir
+84	eating badly makes you sick	comer mal faz adoecer
+85	to bring …	trazer …
+86	still pious	ainda piedoso
+87	But it brings freshness, it is not sly.	Mas traz frescor, não é astuto.
+88	…	…
+89	almost not	quase não
+90	was not	não foi
+91	brought	trazido
+92	Monday brings Tuesday with	segunda traz a terça com
+93	Wednesday, and brings Thursday	a quarta, e traz a quinta
+94	still considered foreign, still brings strife	ainda considerado estranho, ainda traz discórdia
+95	another look	mais um olhar
+96	from Thursday, fig	da quinta-feira, figo
+97	Do not make a mess.	Não façam bagunça.
+98	it	ele
+99	hard	difícil
+100	we are last	somos os últimos
+101	…	…
+102	hard afterwards	difícil depois
+103	stronger	mais forte
+104	the difficulty comes from the fact that	a dificuldade vem de que
+105	brings	traz
+106	brings	traz
+107	but there will be	mas haverá
+108	Do not do this	Não faça isso
+109	not	não
+110	the	o
+111	and so on	e assim por diante
+112	already ten, but not	já dez, mas não
+113	morning	manhã
+114	it	ele
+115	except … but	exceto … mas
+116	stain, sick, sick, but	mancha, doente, doente, mas
+117	not everything	nem tudo
+118	…	…
+119	used	usado
+120	in	em
+121	nice	bonito
+122	in …	em …
+123	to improve	melhorar
+124	made	feito
+125	hunger, perhaps the size is bad	fome, talvez o tamanho seja ruim
+126	already	já
+127	already	já
+128	…	…
+129	cooking meat from …	cozinhar carne de …
+130	from the butcher shop	do açougue
+131	to rinse	enxaguar
+132	to cook	cozinhar
+133	because she cooks better, meets	porque ela cozinha melhor, encontra
+134	they will meet, that is certain.	eles vão se encontrar, isso é certo.
+135	where new	onde novo
+136	meat	carne
+137	meat has	a carne tem
+138	everything, but	tudo, mas
+139	…	…
+140	the next is hard	o seguinte é difícil
+141	works later	funciona depois
+142	it is hard with	é difícil com
+143	work.	trabalho.
+144	…	…
+145	to contaminate	contaminar
+146	What must be done.	O que é preciso fazer.
+147	No need	Não é preciso
+148	like HaShem, it is not …	como HaShem, não …
+149	but not	mas não
+150	[clears throat]	[pigarreia]
+151	from the Yemenite community	da comunidade iemenita
+152	as one who learns	como quem estuda
+153	…	…
+154	it	ele
+155	to make fading	fazer desbotar
+156	what can one sit	o que se pode sentar
+157	it is like …	é como …
+158	you sit with the animals	você se senta com os animais
+159	everything	tudo
+160	What is the meaning of "everything about the making of"?	Qual é o significado de "tudo sobre a criação de"?
+161	from the earlier ones	dos primeiros
+162	on the holy, tries the vocabulary	sobre o sagrado, tenta o vocabulário
+163	…	…
+164	everything	tudo
+165	what do you two do, we	o que vocês dois fazem, nós
+166	everything is possible, everything	tudo é possível, tudo
+167	…	…
+168	certainly, but the	certamente, mas o
+169	more	mais
+170	at the post office	na agência do correio
+171	it was not,	não foi,
+172	But in the Ramban, last trip in two	Mas no Ramban, última viagem em dois
+173	third …	terceiro …
+174	above, general	acima, em geral
+175	rice	arroz
+176	to understand	entender
+177	knowledge of these things	conhecimento dessas coisas
+178	it	ele
+179	one of the things is to eat rich food	uma das coisas é comer comida rica
+180	the rich knew the rich	os ricos conheciam os ricos
+181	where the rich rule	onde os ricos dominam
+182	this has already been said.	isso já foi dito.
+183	general, more	em geral, mais
+184	do you	você
+185	differ according to where the rich want	diferem conforme onde os ricos querem
+186	offer a variety of lines	oferecem uma variedade de linhas
+187	because you visit, you visit the	porque você visita, você visita os
+188	lines of the rich send you mail, visit the rich	linhas dos ricos lhe enviam correio, visite os ricos
+189	to make the lines stop	para fazer as linhas pararem
+190	does not create freshness where the rich are	não cria frescor onde estão os ricos
+191	how is it	como é
+192	different schools	escolas diferentes
+193	all those that were sought	todos aqueles que eram procurados
+194	but did not mean rule of the rich	mas não se referia ao domínio dos ricos
+195	it is bad	é ruim
+196	means	meio
+197	to bring with you	trazer consigo
+198	general, now	em geral, agora
+199	general may	em geral pode
+200	general	em geral
+201	bad	ruim
+202	Bad. But no, it did not help.	Ruim. Mas não, não ajudou.
+203	to bring until	trazer até
+204	but fresh, no	mas fresco, não
+205	fresh, when	fresco, quando
+206	so now one	então agora um
+207	to bring …	trazer …
+208	…	…
+209	…	…
+210	it will be later until	será depois até
+211	if not …	se não …
+212	but not I	mas não eu
+213	hers	dela
+214	bed on	cama sobre
+215	…	…
+216	bring bag	trazer sacola
+217	the	o
+218	you	você
+219	to make	fazer
+220	of the	do
+221	he is accustomed, may bring	ele está habituado, pode trazer
+222	size, big, what not	tamanho, grande, o que não
+223	the …	o …
+224	you bring how	você traz como
+225	to shout	gritar
+226	said.	disse.
+227	so	assim
+228	more they know than	mais eles sabem do que
+229	who falls	quem cai
+230	to bring, to know	trazer, conhecer
+231	Is this permitted?	Isso é permitido?
+232	But we	Mas nós
+233	not	não
+234	to bring tonight, to bring tomorrow	trazer esta noite, trazer amanhã
+235	will	vai
+236	seed	semente
+237	the	o
+238	to bring the servants, poison, third	trazer os servos, veneno, terceiro
+239	not	não
+240	it will not end on Wednesday, not if	não terminará na quarta, não se
+241	he will not bring it later, not tomorrow.	ele não trará isso depois, não amanhã.
+242	should not be brought to the knowledge of	não deve ser trazido ao conhecimento de
+243	morning	manhã
+244	tomorrow now. Aggression now.	amanhã agora. Agressão agora.
+245	with …	com …
+246	old tooth	dente velho
+247	steep	íngreme
+248	brings	traz
+249	a	um
+250	…, the question is right	…, a pergunta está certa
+251	to study this like …	estudar isso como …
+252	snoring	ronco
+253	a man made of …	um homem feito de …
+254	not completely removed	não totalmente removido
+255	now studies	agora estudos
+256	the last	o último
+257	will bring the last one tomorrow	trará o último amanhã
+258	one of the greatest	um dos maiores
+259	but the	mas o
+260	to bring nights, but now it is the last	trazer noites, mas agora é o último
+261	I can no longer bring it to a halt.	já não consigo trazer isso a um fim.
+262	to bring.	trazer.
+263	it	ele
+264	brings the Leviathan in	traz o Leviatã
+265	the two gems hold the …	as duas gemas seguram o …
+266	all the last ones, to bring	todos os últimos, trazer
+267	to allow	permitir
+268	all the tractors	todos os tratores
+269	not the two of	não os dois de
+270	with the victory quickly, but the Ramban	com a vitória rapidamente, mas o Ramban
+271	the people invest in the day of	o povo investe no dia de
+272	people	pessoas
+273	people tend toward stones,	as pessoas tendem a pedras,
+274	because you did not know one another.	porque vocês não se conheciam.
+275	not tomorrow	não amanhã
+276	it is not tomorrow, but I cannot tomorrow.	não é amanhã, mas eu não posso amanhã.
+277	but do not look for	mas não procure
+278	do not think about tomorrow that …	não pensem no amanhã que …
+279	but one	mas um
+280	what is not weighed tomorrow, and there is there	o que não é ponderado amanhã, e há ali
+281	face, no more	rosto, nunca mais
+282	Do not complain about your suffering, do not complain to me.	Não se queixe do seu sofrimento, não se queixe a mim.
+283	because they	porque eles
+284	…	…
+285	born movement	movimento nascido
+286	all the bad things	todas as coisas ruins
+287	now the slander attackers begin to fall ill.	agora os atacantes da difamação começam a adoecer.
+288	in	em
+289	writes	escreve
+290	…	…
+291	…	…
+292	This is not supposed to happen.	Isso não deveria acontecer.
+293	But	Mas
+294	to allow	permitir
+295	I may	eu posso
+296	was	foi
+297	who is quiet	quem está quieto
+298	himself, a pretzel	ele mesmo, um pretzel
+299	where	onde
+300	to write. Yes, you write.	escrever. Sim, você escreve.
+301	yes,	sim,
+302	you	você
+303	…	…
+304	in the wrong mistake of estimation,	no erro equivocado de avaliação,
+305	that you both, children	que vocês dois, crianças
+306	were happy with the holy and dear	ficaram felizes com o santo e querido
+307	every day enjoys the dear	todo dia desfruta do querido
+308	burning all over the attraction at night	queimando por toda a atração à noite
+309	…, especially with the dear holy …	…, especialmente com o querido santo …
+310	hard	difícil
+311	both of the dear of the sheikhs from the	ambos do querido dos xeques do
+312	do not use this dear on hard surfaces.	não use este querido em superfícies duras.
+313	the dear sheikh argues with the	o querido xeque discute com o
+314	dear, not on the side of …, but	querido, não do lado de …, mas
+315	every taste as sweet with	todo sabor como doce com
+316	hard to understand the Indian culture with	difícil entender a cultura indiana com
+317	holy dear	santo querido
+318	children create beautifully	crianças criam lindamente
+319	by the dear	pelo querido
+320	can	pode
+321	…	…
+322	well, call between	bem, chame entre
+323	between	entre
+324	apart from the position	além da posição
+325	but still does not enter	mas ainda assim não entra
+326	dear	querido
+327	next	seguinte
+328	…	…
+329	the book week, …, in the	a semana do livro, …, no
+330	…	…
+331	from	de
+332	now everyone is allowed	agora todos são permitidos
+333	somehow not allowed	de alguma forma não permitido
+334	that	que
+335	I saw afterwards that there is one dear in …	vi depois que há um querido em …
+336	dear only green, the dear	querido só verde, o querido
+337	green, the holy dear in every	verde, o santo querido em todo
+338	they freed themselves with the dear swing now	eles se libertaram com o querido balanço agora
+339	free tea	chá grátis
+340	business	negócio
+341	with	com
+342	the two	os dois
+343	…	…
+344	he is the holy one	ele é o santo
+345	he is with	ele está com
+346	because	porque
+347	from	de
+348	the difficulty makes you great	a dificuldade faz de você alguém grande
+349	so pure	assim puro
+350	from	de
+351	great	grande
+352	later to be of	depois ser de
+353	not	não
+354	all together	todos juntos
+355	not	não
+356	I do not want to do this in a big way.	não quero fazer isso em grande.
+357	because one already	porque um já
+358	everyone left … continued to a shaped rhythm	todos saíram … continuaram para um ritmo moldado
+359	how	como
+360	you do everything	você faz tudo
+361	in …	em …
+362	given people in danger	dado pessoas em perigo
+363	what	o que
+364	bad …	ruim …
+365	to send others stinginess	enviar outros, avareza
+366	no one, not you, everyone	ninguém, não você, todos
+367	not	não
+368	no one now, not you	ninguém agora, não você
+369	can	pode
+370	dancing with a given	dançando com um dado
+371	meets.	encontra.
+372	even more	ainda mais
+373	you	você
+374	the second hard one of one enters	o segundo difícil de um entra
+375	recorded	registrado
+376	nice	bonito
+377	with two weeks	com duas semanas
+378	in twelve people, the mat was free without	em doze pessoas, o tapete estava livre sem
+379	we do it, so Kallah with it with	nós fazemos isso, então Kalá com isso com
+380	his bad with it bad in	o mal dele com isso mal em
+381	now you are sticky another, where does it look	agora você está grudento outro, onde isso olha
+382	may k together with others	pode k junto com outros
+383	the hard historic kitchen	a difícil cozinha histórica
+384	in makeup	na maquiagem
+385	now to dance into the society with finished inside	agora dançar na sociedade com terminado dentro
+386	…	…
+387	dance with me, dance my heir	dance comigo, dance o meu herdeiro
+388	I thought dancing did me good.	pensei que dançar me fazia bem.
+389	…	…
+390	I know how to dance with voice, but but but	sei dançar com voz, mas mas mas
+391	I knew	eu sabia
+392	still says Swiss	ainda diz suíço
+393	…	…
+394	fact, the whole	fato, o todo
+395	thinks everything is so amazing	acha tudo tão incrível
+396	a lot, a lot	muito, muito
+397	even the first … is not enough	nem o primeiro … basta
+398	was	foi
+399	he demanded nothing of him.	ele não exigiu nada dele.
+400	can	pode
+401	to understand	entender
+402	studied …, so understandable	estudou …, tão compreensível
+403	general	geral
+404	but the man there	mas o homem ali
+405	so the	assim o
+406	person	pessoa
+407	he	ele
+408	in stone.	na pedra.
+409	give a little	dê um pouco
+410	in in	em em
+411	the knee is not overcome by difficulty	o joelho não é vencido pela dificuldade
+412	loaded with dear, still hard, perhaps	carregado de querido, ainda difícil, talvez
+413	you cannot return yourself to the table.	você não pode se devolver à mesa.
+414	the space can be returned	o espaço pode ser devolvido
+415	confused	confuso
+416	the course above is there because the person	o percurso acima está ali porque a pessoa
+417	more of course, it is like this:	mais claro, é assim:
+418	hard to fold	difícil de dobrar
+419	everything, everything, everything	tudo, tudo, tudo
+420	…	…
+421	…	…
+422	God, get out of there	…, saia daí
+423	in	em
+424	…	…
+425	the …	o …
+426	…	…
+427	the last horsepower of the …	a última potência do …
+428	in	em
+429	vain	vão
+430	still on the one on which the last	ainda sobre aquele sobre o qual o último
+431	said	disse
+432	…	…
+433	it is that of	é aquele de
+434	given	dado
+435	where it says	onde diz
+436	mine, if this is what you are looking for	meu, se é isso que você procura
+437	if this is what you are looking for	se é isso que você procura
+438	dear …, hard to understand the difference.	querido …, difícil entender a diferença.
+439	to me the second	para mim o segundo
+440	lichens, nice	líquens, agradável
+441	on the … in	sobre o … em
+442	so I am holy	então eu sou santo
+443	a smaller question with	uma pergunta menor com
+444	gives was	dá foi
+445	beautiful slime, is the slime	lindo lodo, o lodo é
+446	a broken	um quebrado
+447	you look …	você parece …
+448	What is life?	O que é a vida?
+449	But …	Mas …
