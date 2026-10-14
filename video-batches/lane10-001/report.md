@@ -1,13 +1,13 @@
 # lane10-001
 
-8 of 9 lessons published · 0 skipped · status **pending**
-Tokens (19 agent runs with a record): 0.2M in (mostly cache) · 0.38M out · API-equivalent 4.27
+9 of 9 lessons published · 0 skipped · status **done**
+Tokens (21 agent runs with a record): 0.2M in (mostly cache) · 0.44M out · API-equivalent 4.89
 
 | lesson | state | detail |
 |---|---|---|
 | rXtx8XPdu4M | ✓ published | 1097 lines · Ki Tavo: a jornada da alma segundo o Or HaChaim |
 | g7VHKKdyeCU | ✓ published | 114 lines · Parashat VeZot HaBerachá: as bênçãos de Moshe às tribos |
-| lpyBek5Xqw4 | ✗ will be redone (try 2) | 1 lines missing |
+| lpyBek5Xqw4 | ✓ published | 890 lines · Vayera e a guerra: a entrega da alma e seu poder |
 | XkKnwEgp4rU | ✓ published | 68 lines · Êxodo e os lados sombrios da alma, Parashá Bo |
 | 5eJ6WYWczOc | ✓ published | 719 lines · Parashá Balak: forças de luz contra forças de trevas |
 | RUP3_2uk3aQ | ✓ published | 41 lines · Parashat Shoftim: a briga traz as aflições |
