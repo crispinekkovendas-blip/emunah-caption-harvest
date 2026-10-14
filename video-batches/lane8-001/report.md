@@ -1,11 +1,11 @@
 # lane8-001
 
-23 of 25 lessons published · 0 skipped · status **pending**
-Tokens (52 agent runs with a record, 8 refused or without record): 0.7M in (mostly cache) · 1.33M out · API-equivalent 15.72
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (58 agent runs with a record, 8 refused or without record): 0.8M in (mostly cache) · 1.51M out · API-equivalent 17.93
 
 | lesson | state | detail |
 |---|---|---|
-| W5vVAue8tfY | waiting | 0/4 parts |
+| W5vVAue8tfY | ✓ published | 1558 lines · Parashá Bamidbar e Shavuot: bandeiras, sal e desejo pela Torá |
 | V3Kf2MKSuSU | ✓ published | 1321 lines · O poder da humildade verdadeira na Parashá Ekev |
 | x6gWgYe-hqw | ✓ published | 725 lines · Da escuridão à luz: sair de onde estamos presos |
 | lN_TJsOQB1I | ✓ published | 738 lines · Shechem e Alon Moreh: confiança sem mentir a si mesmo |
@@ -23,7 +23,7 @@ Tokens (52 agent runs with a record, 8 refused or without record): 0.7M in (most
 | S8g2YsIqvv0 | ✓ published | 200 lines · Metsorá, língua maligna e a purificação interior |
 | adHxpkDv5PM | ✓ published | 318 lines · O número oito e a eternidade na Parashá Shemini |
 | g0GRwpcrt9s | ✓ published | 119 lines · Haftará de Shoftim: a consolação e a redenção de Israel |
-| 61Ginh8hQ7c | waiting | 0/2 parts |
+| 61Ginh8hQ7c | ✓ published | 604 lines · Quando a emoção esfria: o nega como sinal de vida |
 | cNPTfRKHPwM | ✓ published | 480 lines · Maasrot: a chave da bênção na parnassá |
 | fca2czkgAGc | ✓ published | 284 lines · A Torá vem do Céu: a promessa da Shemitá |
 | J-yr5WVtyTA | ✓ published | 225 lines · A hierarquia do rei: mente, coração e fígado |
