@@ -1,0 +1,221 @@
+{
+ "name": "lane4-010",
+ "lane": 4,
+ "created": "2026-10-14T13:16:57.313Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "xp1Y2OEMtCA",
+   "title": "O espião que não se calou: Kalev e o Zera Shimshon",
+   "lines": 280,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "DoJtKLmj4I8",
+   "title": "Haftará de Acharei Mot-Kedoshim: viver, não só perguntar",
+   "lines": 91,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "id5ISn_p0dM",
+   "title": "Bnei Gershon: o fracasso como essência e proximidade a HaShem",
+   "lines": 949,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "d54uW7QheRA",
+   "title": "Parashá Pinchas: a maldição virou bênção e o sentido do sofrimento",
+   "lines": 1058,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "l8UcvVMCWMo",
+   "title": "Mais que estudar: viver bem e com equilíbrio",
+   "lines": 761,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tCqAfJy42Ec",
+   "title": "Zera Shimshon: o Rei escolhido por HaShem e o mês de Elul",
+   "lines": 272,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2S72usmMofQ",
+   "title": "Reuven, Oséias e a Teshuvá Incompleta",
+   "lines": 109,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FPus5ifea94",
+   "title": "Hakarat HaTov: ver a bênção que já chegou",
+   "lines": 567,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Iwzhch1zUH0",
+   "title": "Chaim KeHalachá: perguntas e respostas de Shabat Bereshit",
+   "lines": 994,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "EQ5EZVbmsOA",
+   "title": "Haazinu e Shabat Shuvá: pertencimento e a ameaça da fartura",
+   "lines": 357,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "GfiBPXD-6AE",
+   "title": "A vergonha que apaga o pecado, e o que ela não apaga",
+   "lines": 210,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "V3pHXn0piUc",
+   "title": "Ensinar o mérito: Datan e Aviram, Korach e as crianças",
+   "lines": 513,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_qf0pVy-ZF4",
+   "title": "Unidade do povo traz milagres: Or HaChaim em Devarim",
+   "lines": 235,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "pOipeyrTg5w",
+   "title": "Gadol HaMachati Yoter Min HaHorgo - Ki Tetzê",
+   "lines": 310,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3PGwHlz1-iU",
+   "title": "Parashá Bamidbar: as bandeiras e as middot de Yaakov",
+   "lines": 102,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "c-PDGzkRptM",
+   "title": "Parashá Ekev: um único pedido que inclui tudo",
+   "lines": 165,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "pNhfS9TvPzA",
+   "title": "Parashá Pinchas: o líder que cuida do espírito e do corpo",
+   "lines": 1242,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "R0QSLC61y6w",
+   "title": "Adon Olam: A Eternidade e Unidade de Hashem",
+   "lines": 18,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "IZhVIg3bhik",
+   "title": "Ki Tavo: HaShem não pede anjos, pede um começo verdadeiro",
+   "lines": 92,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wVeMyjSYlDE",
+   "title": "Bikurim: a cesta do rico e a do pobre",
+   "lines": 123,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "KBcmAPswcCE",
+   "title": "Fidelidade aos Sábios na leitura de Yaakov e Esav",
+   "lines": 74,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "teVRnozMdhs",
+   "title": "Parashá Toledot: as dez bênçãos de Yaakov",
+   "lines": 30,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "6xf34OS0xkY",
+   "title": "Parashá Balak: a bênção de quem foi humilhado",
+   "lines": 130,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "lYZ55ZE8vas",
+   "title": "Parashá Ekev: não levar tudo ao coração",
+   "lines": 67,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "zP6WcdISMbw",
+   "title": "Parashá Ekev: a menorá montada e a imagem completa",
+   "lines": 195,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "xp1Y2OEMtCA.p0",
+  "DoJtKLmj4I8.p0",
+  "id5ISn_p0dM.p0",
+  "id5ISn_p0dM.p1",
+  "id5ISn_p0dM.p2",
+  "d54uW7QheRA.p0",
+  "d54uW7QheRA.p1",
+  "d54uW7QheRA.p2",
+  "l8UcvVMCWMo.p0",
+  "l8UcvVMCWMo.p1",
+  "tCqAfJy42Ec.p0",
+  "2S72usmMofQ.p0",
+  "FPus5ifea94.p0",
+  "FPus5ifea94.p1",
+  "Iwzhch1zUH0.p0",
+  "Iwzhch1zUH0.p1",
+  "Iwzhch1zUH0.p2",
+  "EQ5EZVbmsOA.p0",
+  "GfiBPXD-6AE.p0",
+  "V3pHXn0piUc.p0",
+  "V3pHXn0piUc.p1",
+  "_qf0pVy-ZF4.p0",
+  "pOipeyrTg5w.p0",
+  "3PGwHlz1-iU.p0",
+  "c-PDGzkRptM.p0",
+  "pNhfS9TvPzA.p0",
+  "pNhfS9TvPzA.p1",
+  "pNhfS9TvPzA.p2",
+  "R0QSLC61y6w.p0",
+  "IZhVIg3bhik.p0",
+  "wVeMyjSYlDE.p0",
+  "KBcmAPswcCE.p0",
+  "teVRnozMdhs.p0",
+  "6xf34OS0xkY.p0",
+  "lYZ55ZE8vas.p0",
+  "zP6WcdISMbw.p0"
+ ]
+}
