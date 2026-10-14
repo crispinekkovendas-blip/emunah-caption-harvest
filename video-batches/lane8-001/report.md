@@ -1,11 +1,11 @@
 # lane8-001
 
 23 of 25 lessons published · 0 skipped · status **pending**
-Tokens (52 agent runs with a record, 2 refused or without record): 0.7M in (mostly cache) · 1.33M out · API-equivalent 15.72
+Tokens (52 agent runs with a record, 8 refused or without record): 0.7M in (mostly cache) · 1.33M out · API-equivalent 15.72
 
 | lesson | state | detail |
 |---|---|---|
-| W5vVAue8tfY | ✗ will be redone (try 2) | line 647 twice |
+| W5vVAue8tfY | waiting | 0/4 parts |
 | V3Kf2MKSuSU | ✓ published | 1321 lines · O poder da humildade verdadeira na Parashá Ekev |
 | x6gWgYe-hqw | ✓ published | 725 lines · Da escuridão à luz: sair de onde estamos presos |
 | lN_TJsOQB1I | ✓ published | 738 lines · Shechem e Alon Moreh: confiança sem mentir a si mesmo |
