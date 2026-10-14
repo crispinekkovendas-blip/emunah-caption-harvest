@@ -1,0 +1,99 @@
+{
+ "name": "lane5-013",
+ "lane": 5,
+ "created": "2026-10-14T15:20:19.921Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "Xap2NdHfVv4",
+   "title": "Parashá Vayelech: Moshé passa a liderança a Yehoshua",
+   "lines": 87,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "X9WUMaAJaCg",
+   "title": "Lechatchilá Ariber e a Parashá Kedoshim",
+   "lines": 951,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "QRjfgPD_HSw",
+   "title": "Honrar o neto, mikvê e dúvida sobre sorvete lácteo",
+   "lines": 593,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "jLj7QOYwX-U",
+   "title": "Bênção especial a Trump na Parashá",
+   "lines": 18,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "QHOCiqeAqBY",
+   "title": "Mel e sal: a humildade que merece o korban",
+   "lines": 134,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "x-NXAbVqIQc",
+   "title": "Parashá Re'ê: a bênção e o dízimo, matéria e espírito",
+   "lines": 289,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "JDoEYIbWPjw",
+   "title": "Shabat e Shavuot: a menucha de Matan Torá",
+   "lines": 485,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "JrFTvPtXfGo",
+   "title": "A filha de Yiftach e o voto: o Zera Shimshon",
+   "lines": 209,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Jm1FjsPzZxQ",
+   "title": "Como se conectar a si mesmo: corpo, alma e Shekalim",
+   "lines": 1995,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4CjcDO1FaLY",
+   "title": "Teshuvá por amor: \"Lemaan Chayêcha\" em Nitsavim",
+   "lines": 867,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "Xap2NdHfVv4.p0",
+  "X9WUMaAJaCg.p0",
+  "X9WUMaAJaCg.p1",
+  "X9WUMaAJaCg.p2",
+  "QRjfgPD_HSw.p0",
+  "QRjfgPD_HSw.p1",
+  "jLj7QOYwX-U.p0",
+  "QHOCiqeAqBY.p0",
+  "x-NXAbVqIQc.p0",
+  "JDoEYIbWPjw.p0",
+  "JDoEYIbWPjw.p1",
+  "JrFTvPtXfGo.p0",
+  "Jm1FjsPzZxQ.p0",
+  "Jm1FjsPzZxQ.p1",
+  "Jm1FjsPzZxQ.p2",
+  "Jm1FjsPzZxQ.p3",
+  "Jm1FjsPzZxQ.p4",
+  "4CjcDO1FaLY.p0",
+  "4CjcDO1FaLY.p1"
+ ]
+}
