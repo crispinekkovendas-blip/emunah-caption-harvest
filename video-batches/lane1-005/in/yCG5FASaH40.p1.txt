@@ -1,0 +1,102 @@
+videoId: yCG5FASaH40
+parte 2 de 2 · traduzir as linhas 450 a 527 (78 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Chukat, segunda: Rashi, Pesachim e o Zohar
+RESUMO: O Rav Shlomo Levinstein segue o estudo diário da Parashá Chukat (Bamidbar 19), lendo o versículo sobre o sacerdote impuro até a noite e o Rashi sobre o acampamento da Shechiná, e a divisão das cinzas da vaca vermelha em três partes (Har HaMishchá, os turnos e o Chel). Em Neviim, lê Shoftim 11, quando os anciãos de Gilad pedem a Yiftach que lidere a guerra contra Amon, e em Tehilim 43 conta a história da filha da Rabanit Kanievsky que voltou à teshuvá ao abrir o salmo "Shofteni Elokim". Depois estuda a Mishná de Pesachim, capítulo 5: horário do sacrifício, shechitá "shelo lishmá", o chamets, as três turmas na Azará, o Halel e a limpeza da Azará no Shabat. Na Gemará (Pesachim 64b) discute-se por que são três turmas de 30 pessoas e se as portas se fecham sozinhas ou pelos cohanim, e conta o censo de Agripas e o "Pesach Me'ubin". No Zohar Chukat 182b descreve o lugar dos tzadikim no Gan Eden superior e inferior, no Rambam o formato dos pelos da vaca vermelha, e no Mussar de Sefer Chasidim o cuidado com "lo tachmod" e com o respeito ao livro.
+MOMENTOS: 00:22 Rashi: o impuro e o acampamento da Shechiná · 01:35 Rashi: as três divisões das cinzas da vaca vermelha · 03:02 Haftará em Shoftim 11: os anciãos de Gilad e Yiftach · 05:01 Tehilim 43 e Rashi sobre "shelach orchá" · 05:25 A história da Rabanit Kanievsky e o salmo 43 · 07:30 Mishná Pesachim 5: horário do sacrifício · 09:45 Shechitá shelo lishmá e antes do tamid · 13:41 As três turmas e os cohanim com taças de ouro e prata · 16:03 Shabat: lavar a Azará e a pele do sacrifício · 18:25 Gemará Pesachim 64b: três turmas de 30 · 22:32 O censo de Agripas e o Pesach Me'ubin · 24:35 Zohar Chukat: Gan Eden inferior e superior · 28:51 Rambam: pelos da vaca vermelha · 29:49 Sefer Chasidim: lo tachmod e respeito ao livro
+FONTES CITADAS: 00:04 Bamidbar 19:7 · 00:22 Rashi em Bamidbar 19:7 · 01:21 Bamidbar 19:9 · 01:35 Rashi em Bamidbar 19:9 · 03:02 Shoftim 11:7-10 · 05:01 Tehilim 43:1-3 · 05:25 História da Rabanit Kanievsky · 07:01 Rashi em Tehilim 43:3 · 07:30 Mishná Pesachim 5:1 · 08:46 Mishná Pesachim 5:2 · 09:45 Mishná Pesachim 5:3 · 10:43 Mishná Pesachim 5:3 · 11:19 Shemot 23:18 · 13:08 Mishná Pesachim 5:5 · 13:41 Mishná Pesachim 5:5 · 14:15 Mishná Pesachim 5:6 · 15:13 Mishná Pesachim 5:7 · 16:03 Mishná Pesachim 5:8 · 17:02 Mishná Pesachim 5:9 · 17:49 Mishná Pesachim 5:10 · 18:25 Pesachim 64b · 18:41 Rashi em Pesachim 64b · 20:09 Pesachim 64b · 21:18 Pesachim 64b · 22:04 Pesachim 64b · 22:32 Pesachim 64b · 23:25 Devarim 16:7 · 23:32 Pesachim 64b · 24:35 Zohar Chukat 182b · 24:55 Tehilim 27:4 · 25:20 Yeshayahu 64:3 · 27:01 Yeshayahu 66:23 · 27:10 Kohelet 4:2 · 27:54 Kohelet 4:3 · 28:51 Rambam, Hilchot Para Aduma 1 · 29:29 Rambam, Hilchot Para Aduma 1 · 29:49 Sefer Chasidim · 29:54 Shemot 20:14 · 30:54 Sefer Chasidim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+438|25:52|הדן תתה ולא יתיר אז הם עומדים האלה שלא
+439|25:55|הגיעו לדרגות גבוהות עומדים בגן עדן
+440|25:57|התחתון ולא יותר והיא תממן מן עדן תתאר מי
+441|26:02|זה מה זה הגן עדן התחתון הזה אלדע עדן
+442|26:06|דיקרי חוכמת התער זה עדן שנקרא חוכמה
+443|26:10|התחתונה וד קימה על גן בדיעראה והשגחות
+444|26:14|הדהי עדן עלי זה עומד על גן שבארץ וההשגחה
+445|26:18|של זה העדן עליו ואילן קיימי גן והנון
+446|26:23|מעדן ד והצדיקים האלה עומדים במקום שנקרא
+447|26:26|גן ונהנים מהעדן
+448|26:29|מה היא בין עדן תתה לעילה? התשובה היא כי
+449|26:33|יתרון האור מן החושך. עדן תתה יקרי עדנה
+
+LINHAS A TRADUZIR:
+450|26:37|וזה נוקווה זה נקבה עדןלאה יקרי עדן לא
+451|26:43|עדנה אלא עדן זה דכר זה זכר עלי כתיב אין
+452|26:48|לא ראתה אלוקים זולתך הי עדן תתאה קרי גן
+453|26:52|לעדן דלאה והי גן קרי עדן לגן דלתא
+454|26:58|והילן דמשתקח כי בגן תתאנן מהי עדן דעלי
+455|27:01|ובכל שבת ושבת ובכל ירך ויח דה ודכתיב
+456|27:05|והיה מדי חודש בחודשו ומידי שבת בשבתו בכל
+457|27:08|זאת האלה שנמצאים בגן עדן התחתון יכולים
+458|27:10|להגיע לעליון מתי בשבתות וימים טובים וראש
+459|27:13|חודש ועלילין אמר שלמה ועל אלילו המתים
+460|27:18|אמר שלמה המלך
+461|27:21|ושבח אני את המתים אשר כבר מתו מן החיים
+462|27:23|אשר הם החיים עדנה
+463|27:26|דאילין בדרגילב יטוין
+464|27:33|בדרג גילטר מיניו
+465|27:37|שכבר מן אינון שכבר מתו וקבילו און שטרי
+466|27:41|זמני שכבר מתו וקיבלו אותנו שם שני פעמים
+467|27:44|והילין עקרון כסף מזוכק דאל לנו רזים
+468|27:47|לנורין ונפיק מני זוהמה ויתבריר ויתנקי
+469|27:52|ולכן הם יכולים כבר להגיע לדרגות הגבוהות
+470|27:54|וטוב משניהם את אשר עדן לא היה מה זה הור
+471|27:59|רוחה דקאים לאילה ואיתקב לנחתא לתתה זה
+472|28:02|הרוח שעומד למטה ומתעכב לירד למטה אז הוא
+473|28:06|הכי טוב מכולם דקאים בקיומי ולתלי
+474|28:08|לקבלונשה ואתי מזונה מהו מזון דלאד לאילה
+475|28:12|שהרי עומד בקיומו ואין לו לקבל עונש ויש
+476|28:15|לו מזון ממזון עליון ההוא שלמעלה למעלה
+477|28:19|ת מכלו מן דלא תפרש ולא יתגליה ולכל מי לא
+478|28:23|יביסתימן אינון טוב מכולם מי שלא נפרד
+479|28:26|מהקדוש ברוך הוא מעולם ולא נתגנה לחיצונים
+480|28:30|אף פעם וכל ענייניו הם
+481|28:33|כבסתום ובעצנה דוזכה חסידר פיקודי אורייתא
+482|28:37|וקמלון וישתדל באורייתא ימילד אחידתני
+483|28:42|בדרגילה על כל שאר בני נשה וכולו התאחדן
+484|28:47|מחופדהי
+485|28:51|הלכה פסוקה רמבם הלכות פרה אדומה פרק א'
+486|28:55|המשך של אתמול צריך שיישאר מן המעדים כדי
+487|28:58|שינטל בזוג זאת אומרת שאם
+488|29:04|אם אם
+489|29:07|השערה אדומה אז צריך שחותכים אותה שאפשר
+490|29:10|יהיה לחתוך אותה עם מספריים זה האורך שלה
+491|29:13|שכל שערה שאינה ניתלת בזוג הרי היא כאילו
+492|29:16|אינה אם אי אפשר לחתוך אותה במספריים זה
+493|29:18|לא נקרא שיש כאן שערה לפי כך אם היו בה
+494|29:20|שתי שערות לבנות או שחורות שאינם נלקטים
+495|29:23|בזוג הרי זו כשרה
+496|29:26|כי זה לא נקרא שיש היו קרני האותלפי
+497|29:29|השחורים יגוד שיחתו תוך את זה גלגל העין
+498|29:33|והשיניים והלשון אין מראה הן פוסלים בפרה
+499|29:36|זה לא צריך להיות דווקא צבע מסוים הייתה
+500|29:40|ביבלת וחתכה אף על פי שצימח במקומה שיער
+501|29:43|אדום הדינו שהיא פסולה כי הבלת הזאת פוסלת
+502|29:47|אותם
+503|29:49|מוסר מספר חסידים סימן צטקא
+504|29:54|לא תחמוד אשת כתוב בלי ו לא תחמד
+505|30:01|ומה הכוונה? אזהרה שלא ליפות עצמו כדי
+506|30:05|שישר בעיני אשת ראהו ויכניס אהבתו ויופיו
+507|30:09|בליבה.
+508|30:11|אז לכן כתוב לא תחמד כאילו אתה תגרום לה
+509|30:14|לחמוד אותך. גם זה אסור. לא תהיה חומד
+510|30:17|לאשת ראך ועוד קרי לא תחמוד לא תחמד אזהרה
+511|30:22|שלא ישבח אישה יפה בפני חברו. שמה יגרור
+512|30:25|אחריה והיה בכח. כלומר לא תחמד אשת ראך
+513|30:29|לאחרים
+514|30:31|ולא תהנה מזיב פנויה כל שכן מאשת איש כדי
+515|30:35|שתהנה מזיב השכינה אז מי שרוצה להנות מזיב
+516|30:38|השכינה לא יכול לההנות מזיב אישה ואפילו
+517|30:41|אישה פנויה
+518|30:44|אם באה המצווה לידך שלא בכוונה תשמח ותיתן
+519|30:47|שבח והודעה לקדוש ברוך הוא שאינה אותה
+520|30:51|לידך לעשות
+521|30:54|לא יסרטט אדם קונטרס על הספר ספר מפני
+522|30:57|שהספר יש לו קדושה ולזה אין בקדושה וכל
+523|31:00|שכן שאסור לסחוק עליו ראשו אפילו בחלק שבו
+524|31:05|אז זאת אומרת
+525|31:09|זאת אומרת שאסור לסרוק עליו ראשו אפילו
+526|31:12|בחלק שבו וכי זה גורם לביזיון
+527|31:17|לעניין הזה זה

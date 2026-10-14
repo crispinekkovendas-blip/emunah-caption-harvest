@@ -1,0 +1,257 @@
+{
+ "name": "lane1-005",
+ "lane": 1,
+ "created": "2026-10-14T04:23:55.475Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "mpAH8qpDjGA",
+   "title": "O valor do estudo de Torá e como estudar com renovação",
+   "lines": 882,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tUGMcQXQL80",
+   "title": "A Mezuzá: proteção, Eretz Israel e a harmonia do shalom bayit",
+   "lines": 1237,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "guohen2mcaY",
+   "title": "Or HaChaim: Balak, Bilam e a morte de Kozbi",
+   "lines": 1260,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "yzmAt2g9hqI",
+   "title": "Domar a besta interior: kashrut e carne na Parashá Re'eh",
+   "lines": 1084,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "GfNZg6tY0N0",
+   "title": "As maldições de Ki Tavô: 98 e o código Salach",
+   "lines": 1175,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "-QozICO1pBU",
+   "title": "Tamuz e Av: ver, ouvir e aproveitar o que restou",
+   "lines": 680,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "MTeeTJbK3sQ",
+   "title": "Parashat Bô: HaShem em toda parte e a escolha do Faraó",
+   "lines": 1187,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "pC9c_L1kvaU",
+   "title": "Bereshit: Din e Rachamim; o estudo de Torá de Rav Ovadia",
+   "lines": 1191,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "kAWYYvjyBwI",
+   "title": "Tamid: a rotina e o começo que moldam o dia",
+   "lines": 917,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "p0ZV7rOZor4",
+   "title": "O anjo guardião de Mishpatim e o caminho",
+   "lines": 1065,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_M1PSUBkPiY",
+   "title": "Estudo com compreensão: lição de Rabenu Yosef Chayim",
+   "lines": 1164,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "jAuXUbJZnNc",
+   "title": "Haftará de Vaetchanan: pedidos de consolo e o chen",
+   "lines": 789,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "AvIYOGdpmR4",
+   "title": "O segredo da bênção: Parashá Reê e o mês de Elul",
+   "lines": 1450,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "nI7vzaT539Y",
+   "title": "Viver a fé: kedushá em cada pequeno passo",
+   "lines": 1624,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "SlEDS0i8X_4",
+   "title": "Vayikrá: conduta milagrosa, Moshê e os 310 mundos",
+   "lines": 1344,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "r-i2no69y54",
+   "title": "Servir HaShem com alegria: Yaakov e a Shechiná",
+   "lines": 1982,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "eOpb1IF2d6I",
+   "title": "Vaiechi: não apressar o tempo e a felicidade da simplicidade",
+   "lines": 1171,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "yCZRfVHIXhE",
+   "title": "Vayikrá, Pêssach e a redenção: rápida ou gradual?",
+   "lines": 1015,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "bT55cMuSKDY",
+   "title": "Parashat Devarim: a Tochachá que dá força, não derruba",
+   "lines": 1098,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "iNjUnOHZd-c",
+   "title": "A Torá que separa de HaShem: o Chafetz Chaim e o Baal Shem Tov",
+   "lines": 780,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vlX49cqvm8I",
+   "title": "Os segredos da Criação: Torá, esforço e oração",
+   "lines": 877,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "O7ELyS5kDvk",
+   "title": "Parashat Shelach: o tempo de amadurecer e agir",
+   "lines": 1149,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "yCG5FASaH40",
+   "title": "Parashat Chukat, segunda: Rashi, Pesachim e o Zohar",
+   "lines": 528,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "lHAsnFYAcAU",
+   "title": "Bilam, a jumenta e os discípulos de Avraham",
+   "lines": 732,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HUIwe7w2dyg",
+   "title": "Teshuvá e o mecanismo do pecado e do castigo",
+   "lines": 947,
+   "parts": 3,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "mpAH8qpDjGA.p0",
+  "mpAH8qpDjGA.p1",
+  "tUGMcQXQL80.p0",
+  "tUGMcQXQL80.p1",
+  "tUGMcQXQL80.p2",
+  "guohen2mcaY.p0",
+  "guohen2mcaY.p1",
+  "guohen2mcaY.p2",
+  "yzmAt2g9hqI.p0",
+  "yzmAt2g9hqI.p1",
+  "yzmAt2g9hqI.p2",
+  "GfNZg6tY0N0.p0",
+  "GfNZg6tY0N0.p1",
+  "GfNZg6tY0N0.p2",
+  "-QozICO1pBU.p0",
+  "-QozICO1pBU.p1",
+  "MTeeTJbK3sQ.p0",
+  "MTeeTJbK3sQ.p1",
+  "MTeeTJbK3sQ.p2",
+  "pC9c_L1kvaU.p0",
+  "pC9c_L1kvaU.p1",
+  "pC9c_L1kvaU.p2",
+  "kAWYYvjyBwI.p0",
+  "kAWYYvjyBwI.p1",
+  "kAWYYvjyBwI.p2",
+  "p0ZV7rOZor4.p0",
+  "p0ZV7rOZor4.p1",
+  "p0ZV7rOZor4.p2",
+  "_M1PSUBkPiY.p0",
+  "_M1PSUBkPiY.p1",
+  "_M1PSUBkPiY.p2",
+  "jAuXUbJZnNc.p0",
+  "jAuXUbJZnNc.p1",
+  "AvIYOGdpmR4.p0",
+  "AvIYOGdpmR4.p1",
+  "AvIYOGdpmR4.p2",
+  "AvIYOGdpmR4.p3",
+  "nI7vzaT539Y.p0",
+  "nI7vzaT539Y.p1",
+  "nI7vzaT539Y.p2",
+  "nI7vzaT539Y.p3",
+  "SlEDS0i8X_4.p0",
+  "SlEDS0i8X_4.p1",
+  "SlEDS0i8X_4.p2",
+  "r-i2no69y54.p0",
+  "r-i2no69y54.p1",
+  "r-i2no69y54.p2",
+  "r-i2no69y54.p3",
+  "r-i2no69y54.p4",
+  "eOpb1IF2d6I.p0",
+  "eOpb1IF2d6I.p1",
+  "eOpb1IF2d6I.p2",
+  "yCZRfVHIXhE.p0",
+  "yCZRfVHIXhE.p1",
+  "yCZRfVHIXhE.p2",
+  "bT55cMuSKDY.p0",
+  "bT55cMuSKDY.p1",
+  "bT55cMuSKDY.p2",
+  "iNjUnOHZd-c.p0",
+  "iNjUnOHZd-c.p1",
+  "vlX49cqvm8I.p0",
+  "vlX49cqvm8I.p1",
+  "O7ELyS5kDvk.p0",
+  "O7ELyS5kDvk.p1",
+  "O7ELyS5kDvk.p2",
+  "yCG5FASaH40.p0",
+  "yCG5FASaH40.p1",
+  "lHAsnFYAcAU.p0",
+  "lHAsnFYAcAU.p1",
+  "HUIwe7w2dyg.p0",
+  "HUIwe7w2dyg.p1",
+  "HUIwe7w2dyg.p2"
+ ]
+}
