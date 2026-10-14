@@ -95,5 +95,20 @@
   "Jm1FjsPzZxQ.p4",
   "4CjcDO1FaLY.p0",
   "4CjcDO1FaLY.p1"
- ]
+ ],
+ "tries": {
+  "X9WUMaAJaCg": 1,
+  "Jm1FjsPzZxQ": 1
+ },
+ "done": [
+  "Xap2NdHfVv4",
+  "QRjfgPD_HSw",
+  "jLj7QOYwX-U",
+  "QHOCiqeAqBY",
+  "x-NXAbVqIQc",
+  "JDoEYIbWPjw",
+  "JrFTvPtXfGo",
+  "4CjcDO1FaLY"
+ ],
+ "skipped": []
 }
