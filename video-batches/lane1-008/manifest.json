@@ -1,0 +1,181 @@
+{
+ "name": "lane1-008",
+ "lane": 1,
+ "created": "2026-10-15T04:33:33.077Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "QBV2WC5BP50",
+   "title": "Haftará de Zachor: Shaul e a guerra contra Amalek",
+   "lines": 99,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3fge7OiateA",
+   "title": "Olhar para trás antes de entrar na Terra: Matot-Masei",
+   "lines": 355,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "DjHqVufyopk",
+   "title": "Parashá Bô: o pedido do ouro e a promessa a Avraham",
+   "lines": 202,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Yk2VTHAczZU",
+   "title": "Fé e chuká: a Parah Adumá e a vida de Or HaChaim",
+   "lines": 959,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "XbcntldjxWU",
+   "title": "A liderança que se recusou a desistir: o Rebe",
+   "lines": 534,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "xYICKoS_ovQ",
+   "title": "O segredo do sustento está na alegria e na canção",
+   "lines": 188,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vP4xyHZKJbY",
+   "title": "Viver como canal de HaShem, não de aprovação externa",
+   "lines": 692,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "LJL8RDAtu6A",
+   "title": "Tekiá, Shevarim, Teruá: recomeçar com um olhar bom",
+   "lines": 670,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "efgS-FMmqUc",
+   "title": "Acredite que você é bom: emuná, oração e recomeço",
+   "lines": 1058,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "_FA1MNCXaLs",
+   "title": "Por que o exílio persiste: o Zera Shimshon e os convertidos",
+   "lines": 288,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ispuYm2yamg",
+   "title": "Parashá Tsav: o fogo perpétuo e o coração judeu",
+   "lines": 96,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ninCU_XWEdo",
+   "title": "Bereshit: a oferenda de Caim e Hevel de todo o coração",
+   "lines": 61,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Czofs-wlwvE",
+   "title": "Ouvir e Ver: A Essência da Teshuvá",
+   "lines": 77,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Krr2BuGjxN8",
+   "title": "Ver os pequenos detalhes: mensagem de Parashat Ekev",
+   "lines": 42,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3j7szS8tHHg",
+   "title": "Por que precisamos da quebra na vida?",
+   "lines": 18,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "EKOpz4XVNKc",
+   "title": "Parashat Shelach: a grandeza da Terra de Israel",
+   "lines": 1041,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ufwiGq4kSCg",
+   "title": "Massê: a jornada no deserto dos povos, cura gradual",
+   "lines": 1094,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "HaldFR-d2Bo",
+   "title": "O sapato e a alma: o sentido da chalitsá",
+   "lines": 45,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FPmzWRg4OZs",
+   "title": "Avraham, o homem de chessed por essência",
+   "lines": 45,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Iyusi5tSvCo",
+   "title": "Parashat Beshalach: o que fazer e não fazer nos desafios",
+   "lines": 60,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "QBV2WC5BP50.p0",
+  "3fge7OiateA.p0",
+  "DjHqVufyopk.p0",
+  "Yk2VTHAczZU.p0",
+  "Yk2VTHAczZU.p1",
+  "Yk2VTHAczZU.p2",
+  "XbcntldjxWU.p0",
+  "XbcntldjxWU.p1",
+  "xYICKoS_ovQ.p0",
+  "vP4xyHZKJbY.p0",
+  "vP4xyHZKJbY.p1",
+  "LJL8RDAtu6A.p0",
+  "LJL8RDAtu6A.p1",
+  "efgS-FMmqUc.p0",
+  "efgS-FMmqUc.p1",
+  "efgS-FMmqUc.p2",
+  "_FA1MNCXaLs.p0",
+  "ispuYm2yamg.p0",
+  "ninCU_XWEdo.p0",
+  "Czofs-wlwvE.p0",
+  "Krr2BuGjxN8.p0",
+  "3j7szS8tHHg.p0",
+  "EKOpz4XVNKc.p0",
+  "EKOpz4XVNKc.p1",
+  "EKOpz4XVNKc.p2",
+  "ufwiGq4kSCg.p0",
+  "ufwiGq4kSCg.p1",
+  "ufwiGq4kSCg.p2",
+  "HaldFR-d2Bo.p0",
+  "FPmzWRg4OZs.p0",
+  "Iyusi5tSvCo.p0"
+ ]
+}
