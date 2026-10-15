@@ -1,0 +1,28 @@
+{
+ "name": "lane5-015",
+ "lane": 5,
+ "created": "2026-10-15T14:48:36.571Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "akwQH5e-_O0",
+   "title": "O pecado dos espiões e a lição de Miriam sobre lashon hará",
+   "lines": 1213,
+   "parts": 11,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "akwQH5e-_O0.p0",
+  "akwQH5e-_O0.p1",
+  "akwQH5e-_O0.p2",
+  "akwQH5e-_O0.p3",
+  "akwQH5e-_O0.p4",
+  "akwQH5e-_O0.p5",
+  "akwQH5e-_O0.p6",
+  "akwQH5e-_O0.p7",
+  "akwQH5e-_O0.p8",
+  "akwQH5e-_O0.p9",
+  "akwQH5e-_O0.p10"
+ ]
+}
