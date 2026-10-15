@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
     inputs:
       lane:
-        description: 'Lane 1-8 (empty = start all eight)'
+        description: 'Lane 1-12 (empty = start all twelve)'
         default: ''
       ids:
         description: 'Only these ids (a test)'
@@ -34,11 +34,11 @@ jobs:
     if: inputs.lane == ''
     runs-on: ubuntu-latest
     steps:
-      - name: Wake the eight lanes
+      - name: Wake the twelve lanes
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          for lane in 1 2 3 4 5 6 7 8; do
+          for lane in 1 2 3 4 5 6 7 8 9 10 11 12; do
             gh workflow run dub.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=$lane
           done
 
@@ -71,7 +71,7 @@ jobs:
       - name: Dub
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python -u scripts/dub.py --lane ${{ inputs.lane }} --lanes 8 --budget-min 300 ${{ inputs.ids != '' && format('--ids {0}', inputs.ids) || '' }}
+        run: python -u scripts/dub.py --lane ${{ inputs.lane }} --lanes 12 --budget-min 300 ${{ inputs.ids != '' && format('--ids {0}', inputs.ids) || '' }}
       - name: Keep the lane going
         if: inputs.chain == 'true' && inputs.ids == ''
         env:
