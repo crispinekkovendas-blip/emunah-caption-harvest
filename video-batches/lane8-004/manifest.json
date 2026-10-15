@@ -179,11 +179,11 @@
   "LpBdLOddE3g": 1,
   "fgeFKiDfLYY": 1,
   "I1NcDOB6yTM": 2,
-  "T29WNCBs5e8": 2,
+  "T29WNCBs5e8": 3,
   "L209dTca5_c": 1,
   "Ia_QIk-dUWk": 3,
-  "Qy9fFvnoDsU": 2,
-  "sNM_S5bdC-o": 1
+  "Qy9fFvnoDsU": 3,
+  "sNM_S5bdC-o": 2
  },
  "done": [
   "WBKVAVg9CuA",
@@ -193,6 +193,8 @@
   "I1NcDOB6yTM"
  ],
  "skipped": [
-  "Ia_QIk-dUWk"
+  "Ia_QIk-dUWk",
+  "T29WNCBs5e8",
+  "Qy9fFvnoDsU"
  ]
 }
