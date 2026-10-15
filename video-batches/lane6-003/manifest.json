@@ -1,0 +1,125 @@
+{
+ "name": "lane6-003",
+ "lane": 6,
+ "created": "2026-10-15T02:06:18.795Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "uzkEOOZWxkw",
+   "title": "A shlichut de Yirmeyahu na Haftará de Pinchas",
+   "lines": 86,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ql-C-AuySGM",
+   "title": "O Segredo da Bênção da Refeição",
+   "lines": 119,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "RyWxWmEBvU0",
+   "title": "Moshê e a entrada na Terra: a ordem da Torá, não o prêmio",
+   "lines": 297,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4UZ0DKjdNwc",
+   "title": "Conflito no casamento: o ezer kenegdô",
+   "lines": 387,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "B1PQv9ZaeBo",
+   "title": "Fé no povo e halachot de berachot de Tu BiShvat",
+   "lines": 295,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "NKpuBPlOu1c",
+   "title": "Oração e Perdão: A Súplica do Povo",
+   "lines": 32,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "nRBWsDHCjy0",
+   "title": "A rapidez de Aharon HaCohen e o incenso contra a praga",
+   "lines": 199,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "jLmZcIbpoQk",
+   "title": "A alegria de Sucot é uma ordem",
+   "lines": 16,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "oXFElm84qGI",
+   "title": "Lech Lecha: não pare, o caminho de Avraham Avinu",
+   "lines": 78,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "H_7C5bELKew",
+   "title": "Receber os golpes com amor: a Menorá de ouro maciço",
+   "lines": 49,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "DlZNaOvCVs0",
+   "title": "Por que de verdade guardamos Torá e mitzvot? Parashat Chukat",
+   "lines": 750,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5XCtKS44Cnw",
+   "title": "Yerach ou Chodesh: renovar a vida em Elul",
+   "lines": 899,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FX9bhb3gkR4",
+   "title": "Shor e chamor: por que a vida nos quebra",
+   "lines": 597,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "W4p-miCJfZE",
+   "title": "Parashá Korach: família feliz e baixar expectativas",
+   "lines": 38,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "uzkEOOZWxkw.p0",
+  "ql-C-AuySGM.p0",
+  "RyWxWmEBvU0.p0",
+  "4UZ0DKjdNwc.p0",
+  "B1PQv9ZaeBo.p0",
+  "NKpuBPlOu1c.p0",
+  "nRBWsDHCjy0.p0",
+  "jLmZcIbpoQk.p0",
+  "oXFElm84qGI.p0",
+  "H_7C5bELKew.p0",
+  "DlZNaOvCVs0.p0",
+  "DlZNaOvCVs0.p1",
+  "5XCtKS44Cnw.p0",
+  "5XCtKS44Cnw.p1",
+  "FX9bhb3gkR4.p0",
+  "FX9bhb3gkR4.p1",
+  "W4p-miCJfZE.p0"
+ ]
+}
