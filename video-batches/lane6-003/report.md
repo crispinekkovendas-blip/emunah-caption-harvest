@@ -1,7 +1,7 @@
 # lane6-003
 
-12 of 14 lessons published · 0 skipped · status **pending**
-Tokens (17 agent runs with a record): 0.2M in (mostly cache) · 0.30M out · API-equivalent 3.53
+13 of 14 lessons published · 0 skipped · status **pending**
+Tokens (20 agent runs with a record): 0.2M in (mostly cache) · 0.37M out · API-equivalent 4.29
 
 | lesson | state | detail |
 |---|---|---|
@@ -13,9 +13,9 @@ Tokens (17 agent runs with a record): 0.2M in (mostly cache) · 0.30M out · API
 | NKpuBPlOu1c | ✓ published | 32 lines · Oração e Perdão: A Súplica do Povo |
 | nRBWsDHCjy0 | ✓ published | 199 lines · A rapidez de Aharon HaCohen e o incenso contra a praga |
 | jLmZcIbpoQk | ✓ published | 16 lines · A alegria de Sucot é uma ordem |
-| oXFElm84qGI | ✗ will be redone (try 1) | 1 lines missing |
+| oXFElm84qGI | ✓ published | 78 lines · Lech Lecha: não pare, o caminho de Avraham Avinu |
 | H_7C5bELKew | ✓ published | 49 lines · Receber os golpes com amor: a Menorá de ouro maciço |
 | DlZNaOvCVs0 | ✓ published | 750 lines · Por que de verdade guardamos Torá e mitzvot? Parashat Chukat |
-| 5XCtKS44Cnw | ✗ will be redone (try 1) | line 0 twice |
+| 5XCtKS44Cnw | ✗ will be redone (try 2) | line 830 twice |
 | FX9bhb3gkR4 | ✓ published | 597 lines · Shor e chamor: por que a vida nos quebra |
 | W4p-miCJfZE | ✓ published | 38 lines · Parashá Korach: família feliz e baixar expectativas |
