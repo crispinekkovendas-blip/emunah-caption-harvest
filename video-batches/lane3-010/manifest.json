@@ -1,0 +1,147 @@
+{
+ "name": "lane3-010",
+ "lane": 3,
+ "created": "2026-10-15T02:49:31.365Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "-Zgpukt8xTM",
+   "title": "Kabalá agora: a bênção de Parashat Re'eh no mês de Elul",
+   "lines": 126,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PSIVHt4cVKs",
+   "title": "O valor do esforço: a recompensa de quem se esforça",
+   "lines": 65,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PolDUGUc3FI",
+   "title": "Caiu? Não olhe para trás: a consolação de Vaetchanan",
+   "lines": 88,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "EoUGAMchmNQ",
+   "title": "Pinchas não se compadece e não cede",
+   "lines": 35,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "lZY1VrV8AQQ",
+   "title": "Yom Kipur: HaShem cobre, nós purificamos",
+   "lines": 42,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "8ef0x9InJUg",
+   "title": "Como ser autêntico: a lição de Pinchas",
+   "lines": 106,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Jgn_kAEnLOg",
+   "title": "Julgue a si mesmo: os portões da alma",
+   "lines": 92,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "hTEyh64Nxls",
+   "title": "Parashá Haazinu: a reconciliação entre o povo e a terra",
+   "lines": 19,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "iM7NXPx-Jbc",
+   "title": "Ra'ê e a arte de iluminar o rosto",
+   "lines": 26,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4lOXt_FFwgo",
+   "title": "Vayakhel: Ahavat Israel na última farbrenguen do Rebe",
+   "lines": 1220,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4MydVEDZjiI",
+   "title": "Nadav e Avihu: emoção sem halachá e o desejo de partir",
+   "lines": 1262,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "g6Zb1gIgEE4",
+   "title": "O ouro dentro da praga: transformar a dificuldade em sucesso",
+   "lines": 1528,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "LdJZehF7w5g",
+   "title": "Liderança verdadeira: o cajado de Aarão que floresceu",
+   "lines": 535,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "lQMzRY21Dlo",
+   "title": "Parashat Chukat: educar com exemplo, emoção e verdade",
+   "lines": 622,
+   "parts": 2,
+   "from": "mais fontes"
+  },
+  {
+   "id": "eEf4m4y0Z6s",
+   "title": "Nitsavim-Vayelech: coroar HaShem Rei no Rosh HaShaná",
+   "lines": 42,
+   "parts": 1,
+   "from": "mais fontes"
+  },
+  {
+   "id": "N9fFMRLfFlg",
+   "title": "Estou vivendo a vida que foi feita para mim? (Tzav)",
+   "lines": 68,
+   "parts": 1,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "-Zgpukt8xTM.p0",
+  "PSIVHt4cVKs.p0",
+  "PolDUGUc3FI.p0",
+  "EoUGAMchmNQ.p0",
+  "lZY1VrV8AQQ.p0",
+  "8ef0x9InJUg.p0",
+  "Jgn_kAEnLOg.p0",
+  "hTEyh64Nxls.p0",
+  "iM7NXPx-Jbc.p0",
+  "4lOXt_FFwgo.p0",
+  "4lOXt_FFwgo.p1",
+  "4lOXt_FFwgo.p2",
+  "4MydVEDZjiI.p0",
+  "4MydVEDZjiI.p1",
+  "4MydVEDZjiI.p2",
+  "g6Zb1gIgEE4.p0",
+  "g6Zb1gIgEE4.p1",
+  "g6Zb1gIgEE4.p2",
+  "g6Zb1gIgEE4.p3",
+  "LdJZehF7w5g.p0",
+  "LdJZehF7w5g.p1",
+  "lQMzRY21Dlo.p0",
+  "lQMzRY21Dlo.p1",
+  "eEf4m4y0Z6s.p0",
+  "N9fFMRLfFlg.p0"
+ ]
+}
