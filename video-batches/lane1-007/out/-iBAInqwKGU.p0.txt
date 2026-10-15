@@ -1,0 +1,450 @@
+0	Honor	Honra
+1	The kohanim	Os cohanim
+2	Little children	Crianças pequenas
+3	What time is it?	Que horas são?
+4	The time there is...	A hora lá é...
+5	Parashat Balak	Parashat Balak
+6	There are no kohanim	Não há cohanim
+7	Kohanim	Cohanim
+8	Bnei Brak	Bnei Brak
+9	All the kohanim	Todos os cohanim
+10	Everyone	Todos
+11	Anyway, there's no need	De qualquer modo, não há necessidade
+12	for him to bless	de ele abençoar
+13	He wants	Ele quer
+14	to shout	gritar
+15	So he says	Então ele diz
+16	to the one who is asked	a quem é pedido
+17	to bless them	abençoá-los
+18	they bless him	eles o abençoam
+19	He wants to shout	Ele quer gritar
+20	He tells us	Ele nos conta
+21	in Balak	em Balak
+22	messengers	mensageiros
+23	from him	dele
+24	Menachem	Menachem
+25	All the kohanim	Todos os cohanim
+26	only with the mouth	só com a boca
+27	What time is it?	Que horas são?
+28	what the kohanim	o que os cohanim
+29	will pray	vai rezar
+30	soul	alma
+31	said	disse
+32	If so, when it is whole	Se é assim, quando está inteiro
+33	we need	precisamos
+34	to kiss	beijar
+35	He will curse and it will come true	Ele amaldiçoará e se cumprirá
+36	He told us	Ele nos disse
+37	the princes want	os príncipes querem
+38	messengers	mensageiros
+39	and now curse the people of Israel	e agora amaldiçoe o povo de Israel
+40	whom you bless	aquele que você abençoar
+41	is blessed	é abençoado
+42	and whom you curse is cursed	e aquele que você amaldiçoar é amaldiçoado
+43	Good.	Bom.
+44	The messengers arrived	Os mensageiros chegaram
+45	He said to them	Ele lhes disse
+46	Lodge here tonight	Pernoitem aqui esta noite
+47	And Elokim came	E Elokim veio
+48	to Bilam	a Bilam
+49	and said: Who are these men with you?	e disse: Quem são esses homens que estão com você?
+50	…	…
+51	Does HaShem not know? Does Elokim not know who they are?	HaShem não sabe? Elokim não sabe quem são?
+52	Good.	Bom.
+53	Rabbi Nachman said,	Rabi Nachman disse:
+54	Balak son of Tzippor, king of Moab,	Balak, filho de Tsipor, rei de Moav,
+55	sent to him:	enviou a ele:
+56	Behold, a people	Eis que um povo
+57	has come out of Egypt.	saiu do Egito.
+58	It covers the face of the earth.	Ele cobre a face da terra.
+59	Now come, curse it for me.	Agora venha, amaldiçoe-o para mim.
+60	Perhaps I will be able	Talvez eu consiga
+61	to fight against it and drive it out.	combatê-lo e expulsá-lo.
+62	Elokim said to Bilam:	Elokim disse a Bilam:
+63	You shall not go with them.	Você não irá com eles.
+64	You shall not curse the people,	Você não amaldiçoará o povo,
+65	for they are blessed.	pois eles são abençoados.
+66	Good.	Bom.
+67	HaShem revealed to him	HaShem lhe revelou
+68	what His will is.	qual é a Sua vontade.
+69	Heaven forbid that Elokim change His will.	Que não haja, D'us livre, mudança na vontade de Elokim.
+70	A human being	O ser humano
+71	goes with the wind.	vai com o vento.
+72	But Elokim,	Mas Elokim,
+73	what He wants, that's it.	o que Ele quer, é isso.
+74	But	Mas
+75	Bilam	Bilam
+76	was not satisfied.	não ficou satisfeito.
+77	The answer of the Holy One, Blessed be He,	A resposta do Santo, Bendito seja,
+78	did not please him.	não o agradou.
+79	Because	Porque
+80	if he went, he would get honor, he would get money.	se fosse, receberia honra, receberia dinheiro.
+81	That's not	Não é
+82	what interests him, is it?	isso que lhe interessa, não é?
+83	He only wants	Ele só quer
+84	to get honor, to get money. That's what interests him.	receber honra, receber dinheiro. É isso que lhe interessa.
+85	That's what interests him.	É isso que lhe interessa.
+86	Good.	Bom.
+87	In short,	Em resumo,
+88	Bilam said to them,	Bilam lhes disse:
+89	Go back to your land,	Voltem para a sua terra,
+90	for HaShem has refused to let me go with you.	pois HaShem recusou me deixar ir com vocês.
+91	It doesn't say Elokim, it says HaShem.	Não está escrito Elokim, está escrito HaShem.
+92	HaShem,	HaShem,
+93	the Name that toward Israel is mercy.	o Nome que, em relação a Israel, é misericórdia.
+94	He said	Ele disse
+95	So Balak thought,	Então Balak pensou:
+96	perhaps	talvez
+97	we need to send him more messengers, more important and more distinguished.	precisemos enviar a ele mais mensageiros, mais importantes e mais honrados.
+98	Good.	Bom.
+99	The messengers arrived. He also told them, "Stay here tonight."	Os mensageiros chegaram. Ele também lhes disse: "Pernoitem aqui esta noite."
+100	And Elokim came to Bilam	E Elokim veio a Bilam
+101	at night.	à noite.
+102	He said to him, "If they came to call you,	Ele lhe disse: "Se vieram chamar você,
+103	the men have come, rise, go with them.	os homens vieram, levante-se, vá com eles.
+104	But only the word that I speak to you, that you shall do."	Mas somente a palavra que Eu lhe disser, essa você fará."
+105	Now what?	E agora?
+106	His will, the idea of this...	A vontade Dele, a ideia disso...
+107	What is this?	O que é isso?
+108	Blah blah, what does he want?	Blá blá, o que ele quer?
+109	Yes, yes, to go.	Sim, sim, ir.
+110	Yes, to receive money, to receive honor.	Sim, receber dinheiro, receber honra.
+111	So why?	Então por quê?
+112	What did Bilam need to say?	O que Bilam precisava dizer?
+113	When the third delegation came, he should have told them,	Quando veio a terceira delegação, ele deveria ter dito a eles:
+114	I asked the Holy One, Blessed be He, and He said no, no.	Perguntei ao Santo, Bendito seja, e Ele disse não, não.
+115	He told them, "Stay here, maybe HaShem will change His mind."	Ele lhes disse: "Fiquem aqui, talvez HaShem mude de ideia."
+116	So the Holy One, Blessed be He, said, "That's what you want? Fine."	Então o Santo, Bendito seja, disse: "É isso que você quer? Está bem."
+117	What does it say?	O que está escrito?
+118	"And Bilam rose in the morning, saddled his donkey, and went with the princes of Moab."	"E Bilam se levantou de manhã, selou sua jumenta e foi com os príncipes de Moav."
+119	What does it say? "And the anger of Elokim was kindled because he went."	O que está escrito? "E a ira de Elokim se acendeu porque ele foi."
+120	You told him, "Go with the men."	Você disse a ele: "Vá com os homens."
+121	Why? Why is He angry with him?	Por quê? Por que Ele está com raiva dele?
+122	Because I revealed to you what My will is.	Porque Eu lhe revelei qual é a Minha vontade.
+123	Therefore, when a person has a craving for something,	Por isso, quando uma pessoa tem desejo por alguma coisa,
+124	people think... the Holy One, Blessed be He, revealed to us what His will is.	as pessoas pensam... o Santo, Bendito seja, nos revelou qual é a Sua vontade.
+125	The Holy One, Blessed be He, revealed to us that His will is that we believe in Him,	O Santo, Bendito seja, nos revelou que a Sua vontade é que acreditemos Nele,
+126	that we listen to Him, listen to the Torah, listen to the mitzvot, listen to the service of HaShem.	que O ouçamos, ouçamos a Torá, ouçamos as mitsvot, ouçamos o serviço de HaShem.
+127	We listen, each in his own portion.	Ouvimos, cada um na sua parte.
+128	What do people fall into?	No que as pessoas caem?
+129	Strong drink, drugs.	Bebida forte, drogas.
+130	Above all, sexual immorality, the most serious sin in this world,	Acima de tudo, a imoralidade sexual, o pecado mais grave deste mundo,
+131	that has ever been, since the Holy One, Blessed be He, created this world,	que já existiu, desde que o Santo, Bendito seja, criou este mundo,
+132	the most serious sin: sexual immorality.	o pecado mais grave: a imoralidade sexual.
+133	Promiscuity.	Libertinagem.
+134	No sin can come close to it at all.	Nenhum pecado chega perto disso.
+135	When a person has sexual immorality, promiscuity, man or woman, it doesn't matter,	Quando uma pessoa tem imoralidade sexual, libertinagem, homem ou mulher, não importa,
+136	he sins against the Holy One, Blessed be He, for what?	ele peca contra o Santo, Bendito seja, por quê?
+137	You are its slave.	Você é escravo disso.
+138	You're finished, look at what you've done...	Você acabou, veja o que fez...
+139	So a person says, "I need it for a livelihood."	Então a pessoa diz: "Eu preciso disso para o sustento."
+140	Everyone makes some excuse.	Cada um dá alguma desculpa.
+141	Why, why is it permitted for him?	Por quê, por que isso lhe é permitido?
+142	So for a livelihood, Heaven forbid, you would steal?	Então, pelo sustento, D'us livre, você roubaria?
+143	What don't people do for a livelihood?	O que as pessoas não fazem pelo sustento?
+144	Steal, rob, lie.	Furtam, roubam, mentem.
+145	What, a livelihood.	O quê, o sustento.
+146	We, because we want to bring close those who are distant,	Nós, porque queremos aproximar os que estão distantes,
+147	who are wallowing in garbage,	que estão chafurdando no lixo,
+148	who are lost in immorality, that's why we broadcast to them.	que estão perdidos na imoralidade, por isso transmitimos para eles.
+149	We want, Heaven forbid, that perhaps they will find in the trash can,	Queremos que talvez eles encontrem, no meio da lixeira,
+150	some video of ours.	algum vídeo nosso.
+151	He'll see something, a trash can, some trash can.	Ele vai ver alguma coisa, uma lixeira, alguma lixeira.
+152	It's nothing great.	Não é nada demais.
+153	Perhaps they'll find some video of ours, some talk of ours.	Talvez encontrem algum vídeo nosso, alguma palavra nossa.
+154	What is it to us?	O que isso nos custa?
+155	Therefore, a person on his own is not strong enough to be strong.	Por isso, a pessoa sozinha não tem força para ser forte.
+156	Whatever HaShem does, I want.	O que HaShem faz, eu quero.
+157	We now have a surprise for people.	Agora temos uma surpresa para as pessoas.
+158	My will like Your will.	A minha vontade como a Tua vontade.
+159	What a beautiful thing...	Que coisa linda...
+160	What a beautiful thing, wow.	Que coisa linda, uau.
+161	What beautiful things, what beautiful pictures, what flowers, what words.	Que coisas lindas, que imagens lindas, que flores, que palavras.
+162	All words of HaShem, talks, what...	Todas as palavras de HaShem, conversas, que...
+163	It uplifts, it strengthens.	Elevam, fortalecem.
+164	Truly, truly.	De verdade, de verdade.
+165	In short, women, you have	Em resumo, mulheres, vocês têm
+166	some beautiful pictures.	algumas imagens lindas.
+167	What, in short, you have a great gift.	Enfim, vocês têm um grande presente.
+168	It's an edition, or	É uma edição, ou
+169	some words.	algumas palavras.
+170	A personal edition for every girl and woman.	Uma edição pessoal para cada moça e mulher.
+171	We men are right.	Nós, os homens, temos razão.
+172	The men	Os homens
+173	don't have one.	não têm.
+174	Such an edition.	Uma edição dessas.
+175	No, this is like that.	Não, isso é assim.
+176	This is only for women.	Isso é só para mulheres.
+177	Women have something special.	As mulheres têm algo especial.
+178	Men need another, another, another edition.	Os homens precisam de outra, outra, outra edição.
+179	All this, this	Tudo isso, isto
+180	is their personal notebook.	é o caderno pessoal delas.
+181	Really.	De verdade.
+182	What	Qual
+183	We'll soon know what the price is.	Logo vamos saber qual é o preço.
+184	We'll know it.	Vamos saber.
+185	The kingship	A soberania
+186	My will, as Your will.	A minha vontade, como a Tua vontade.
+187	Not like Balak, not like Balak and Bilam.	Não como Balak, não como Balak e Bilam.
+188	Even Balak heard that HaShem wants	Até Balak ouviu que HaShem quer
+189	that they bless the people of Israel, bless the people of Israel, that's it.	que abençoem o povo de Israel, abençoem o povo de Israel, só isso.
+190	HaShem made a mockery of Bilam.	HaShem zombou de Bilam.
+191	What mockery?	Que zombaria?
+192	Good.	Bom.
+193	His donkey sees the angel, and he doesn't see the angel.	A jumenta dele vê o anjo, e ele não vê o anjo.
+194	She says, "If I had a sword in my hand, I would have killed you."	Ela diz: "Se eu tivesse uma espada na mão, eu o teria matado."
+195	You want to curse a whole people with a mouth?	Você quer amaldiçoar um povo inteiro com a boca?
+196	What, your donkey needs a sword?	O quê, sua jumenta precisa de uma espada?
+197	In short, HaShem made a fool of him.	Em resumo, HaShem o fez de bobo.
+198	A real mockery.	Uma verdadeira zombaria.
+199	Therefore, let no one fool himself.	Por isso, que ninguém engane a si mesmo.
+200	That	Que
+201	You want the truth? Fight for the truth.	Você quer a verdade? Lute pela verdade.
+202	Cry out. For this we have hitbodedut.	Clame. Para isso temos a hitbodedut.
+203	Really: HaShem, I will fight for my eyes.	De verdade: HaShem, vou lutar pelos meus olhos.
+204	Give me strength	Dê-me força
+205	to believe in You.	para acreditar em Ti.
+206	Give me joy in life.	Dê-me alegria de viver.
+207	To rejoice in the holy Torah, to rejoice in the mitzvot.	Alegrar-me na santa Torá, alegrar-me nas mitsvot.
+208	Not to touch drugs, cigarettes, anything.	Não tocar em drogas, em cigarros, em nada.
+209	Let me not touch the iPhone.	Que eu não toque no iPhone.
+210	Nothing, nothing.	Em nada, em nada.
+211	You have hitbodedut. Cry out to HaShem about this.	Você tem a hitbodedut. Clame a HaShem por isso.
+212	Ask HaShem to have mercy on you.	Peça a HaShem que tenha misericórdia de você.
+213	Ask for the sense and the strength to overcome your yetzer hara.	Peça o bom senso e a força para vencer o seu yetzer hará.
+214	Rabenu taught us	Rabenu nos ensinou
+215	that when a person prays for something,	que quando uma pessoa reza por algo,
+216	anything, that he prayed.	qualquer coisa, que ela rezou.
+217	Every day, day after day, it will help with the words.	Todos os dias, dia após dia, isso vai ajudar com as palavras.
+218	Every day, beg HaShem.	Todo dia, suplique a HaShem.
+219	Every day.	Todo dia.
+220	Ask HaShem.	Peça a HaShem.
+221	What did he tell us?	O que ele nos disse?
+222	Surely, if a person wants to go, they lead him.	Certamente, se a pessoa quer ir, eles a conduzem.
+223	As I wrote in the book Or HaChadash.	Como escrevi no livro Or HaChadash.
+224	What is the proof that you want to walk in a good path?	Qual é a prova de que você quer andar num bom caminho?
+225	That you pray for it every day, day after day.	Que você reza por isso todos os dias, dia após dia.
+226	When a person prays for one thing every day,	Quando uma pessoa reza por uma coisa todo dia,
+227	it shows that you do want it.	isso mostra que você realmente quer.
+228	Beg HaShem every day.	Suplique a HaShem todo dia.
+229	HaShem will hear.	HaShem vai ouvir.
+230	It is very important	É muito importante
+231	for everyone	para todos
+232	to study the book Or HaChadash.	estudar o livro Or HaChadash.
+233	It is truly	É realmente
+234	with this book one can get out of all the desires.	com este livro é possível sair de todos os desejos.
+235	You'll learn how to work every day,	Você vai aprender a trabalhar todo dia,
+236	how to want, to want, to want,	a querer, querer, querer,
+237	to beg HaShem	a suplicar a HaShem
+238	every day.	todo dia.
+239	Rabbi Natan reveals to us	Rabi Natan nos revela
+240	that	que
+241	the whole matter of the Akedah,	todo o assunto da Akedá,
+242	Yitzchak,	Itschak,
+243	Rabbi Natan says,	Rabi Natan diz:
+244	the main merit of the Akedat Yitzchak is	o principal mérito da Akedat Itschak é
+245	the aspect of will.	o aspecto da vontade.
+246	For it bears	Pois ela carrega
+247	will and longing for holiness.	vontade e anseio pela santidade.
+248	This was the main virtue of the test	Essa foi a principal virtude da prova
+249	of Avraham and Yitzchak, our forefathers.	de Avraham e Itschak, nossos patriarcas.
+250	For the merit, the merit	Pois o mérito, o mérito
+251	is exactly this.	é exatamente isto.
+252	Avraham wanted very much	Avraham queria muito
+253	to slaughter	sacrificar
+254	his only son.	seu filho único.
+255	He had no thought,	Ele não teve nenhum pensamento:
+256	"Maybe,	"Talvez,
+257	Heaven forbid, the Holy One, Blessed be He,	D'us livre, o Santo, Bendito seja,
+258	will retract."	volte atrás."
+259	He told me, "Go,	Ele me disse: "Vá,
+260	offer up your son, your only one,	ofereça seu filho, seu único,
+261	whom you love."	a quem você ama."
+262	Maybe the Holy One, Blessed be He, will retract? No.	Talvez o Santo, Bendito seja, volte atrás? Não.
+263	Bilam,	Bilam,
+264	he	ele
+265	Balak,	Balak,
+266	they	eles
+267	want their desires.	querem os seus desejos.
+268	But Avraham wants what You want.	Mas Avraham quer o que Tu queres.
+269	You want me to slaughter my son? I'll slaughter.	Queres que eu sacrifique meu filho? Eu sacrifico.
+270	I have no questions.	Não tenho nenhuma pergunta.
+271	I waited	Eu esperei
+272	until a son was born to me,	até que me nascesse um filho,
+273	a son when I am 100	um filho quando eu tinha 100 anos
+274	and my wife is 90.	e minha esposa, 90.
+275	And now Yitzchak is 37.	E agora Itschak tem 37.
+276	37 years.	37 anos.
+277	The time of the Akedah.	A época da Akedá.
+278	And	E
+279	he hadn't married, not even one chuppah.	ele não se casou, nem sequer uma chupá.
+280	He could have married, brought good offspring, and then we'd slaughter him.	Poderia ter se casado, trazido uma boa descendência, e então o sacrificaríamos.
+281	No.	Não.
+282	How long they waited, how much they prayed to have a son.	Quanto esperaram, quanto rezaram para ter um filho.
+283	What You want, I want.	O que Tu queres, eu quero.
+284	Therefore	Por isso
+285	Avraham did not have	Avraham não tinha
+286	the will and hope	a vontade e a esperança
+287	that Elokim would retract. No.	de que Elokim voltasse atrás. Não.
+288	He said, that's it.	Ele disse: é isso.
+289	All the way he walked.	Todo o caminho ele andou.
+290	Yitzchak didn't know anything.	Itschak não sabia de nada.
+291	When they arrived	Quando chegaram
+292	before the mountain,	diante do monte,
+293	and	e
+294	Avraham put the wood on Yitzchak,	Avraham pôs a lenha sobre Itschak
+295	took the fire in his hands	e tomou em suas mãos o fogo
+296	and the knife.	e a faca.
+297	Yitzchak asked Avraham,	Itschak perguntou a Avraham:
+298	"Where is the lamb?"	"Onde está o cordeiro?"
+299	Until now he hadn't asked.	Até agora ele não tinha perguntado.
+300	Maybe Avraham will buy one.	Talvez Avraham compre um.
+301	He hadn't asked, but now.	Não tinha perguntado, mas agora.
+302	He says	Ele diz
+303	to them,	a eles:
+304	"Stay here with the donkey,	"Fiquem aqui com o jumento,
+305	and I and the boy will go."	e eu e o rapaz iremos."
+306	So he asked, and he said to him,	Então perguntou, e ele lhe disse:
+307	"Elokim will provide	"Elokim providenciará
+308	the lamb	o cordeiro
+309	for the burnt offering, my son."	para o holocausto, meu filho."
+310	They arrived.	Chegaram.
+311	Avraham builds an altar,	Avraham constrói um altar,
+312	arranges the wood,	arruma a lenha,
+313	binds Yitzchak his son.	amarra Itschak, seu filho.
+314	He says to him, "Father, bind me tight,	Ele lhe diz: "Pai, amarre-me bem,
+315	so that I won't move."	para que eu não me mexa."
+316	And he placed him. Avraham was a hero.	E ele o colocou. Avraham era um herói.
+317	Yitzchak was not a small child.	Itschak não era uma criança pequena.
+318	Surely at age 37.	Certamente aos 37 anos.
+319	Yitzchak was a hero.	Itschak era um herói.
+320	Avraham places him on the altar.	Avraham o coloca sobre o altar.
+321	What a hero, Avraham.	Que herói, Avraham.
+322	Good.	Bom.
+323	It is written	Está escrito
+324	that Avraham our forefather educated	que Avraham, nosso patriarca, educou
+325	his body.	o seu corpo.
+326	He educated	Ele educou
+327	his body,	o seu corpo,
+328	all his limbs.	todos os seus membros.
+329	He educated them	Ele os educou
+330	by the will of HaShem,	segundo a vontade de HaShem,
+331	so that only	para que somente
+332	what the will wants,	o que a vontade quer,
+333	they do.	eles façam.
+334	What the will doesn't want, they don't do.	O que a vontade não quer, eles não fazem.
+335	Like this.	Assim.
+336	He educated all of his limbs.	Ele educou todos os seus membros.
+337	Avraham, in letters, is Ramach, 248.	Avraham, em letras, é Ramach, 248.
+338	He educated all 248	Ele educou todos os 248
+339	of his limbs	membros seus
+340	to know that only what the will wants, they do.	para saber que somente o que a vontade quer, eles fazem.
+341	Therefore his hand	Por isso a sua mão
+342	did not hesitate, did not hesitate	não hesitou, não hesitou
+343	to go and take the knife.	em ir pegar a faca.
+344	What does it say? "And Avraham stretched out his hand."	O que está escrito? "E Avraham estendeu a sua mão."
+345	Did anyone tell his hand to reach out?	Alguém disse à mão dele para se estender?
+346	Our will must be very, very strong	Nossa vontade deve ser muito, muito forte
+347	for HaShem.	para HaShem.
+348	Rabbi Natan reveals to us	Rabi Natan nos revela
+349	that each one of us	que cada um de nós
+350	has his will	tem a sua vontade
+351	only for HaShem.	somente para HaShem.
+352	This is our inner essence.	Esta é a nossa essência interior.
+353	Therefore	Por isso
+354	Therefore the Second Temple	Por isso o Segundo Templo
+355	HaShem knows that I am good.	HaShem sabe que eu sou bom.
+356	I want to do only good.	Quero fazer só o bem.
+357	This is the essence	Esta é a essência
+358	of every Jew:	de todo judeu:
+359	only, only good.	somente, somente o bem.
+360	The essence of every Jew is to do only good.	A essência de todo judeu é fazer somente o bem.
+361	To be only good.	Ser somente bom.
+362	This is the essence.	Esta é a essência.
+363	This is our soul.	Esta é a nossa alma.
+364	Our inner core is only	Nosso interior é somente
+365	good, only to do good.	bom, somente fazer o bem.
+366	Therefore	Por isso
+367	I already said	eu já disse
+368	…	…
+369	that the Second Temple	que o Segundo Templo
+370	is more important than the First.	é mais importante que o Primeiro.
+371	Therefore	Por isso
+372	every Jew should know	todo judeu deve saber
+373	that HaShem knows that I am good.	que HaShem sabe que eu sou bom.
+374	Everyone.	Cada um.
+375	Everyone say this: HaShem knows that I am good.	Todos digam isto: HaShem sabe que eu sou bom.
+376	I want to do only good.	Quero fazer só o bem.
+377	I can't hear you. I want to do only good.	Não estou ouvindo vocês. Quero fazer só o bem.
+378	To be even better.	Ser ainda melhor.
+379	Even better.	Ainda melhor.
+380	HaShem knows that I am good.	HaShem sabe que eu sou bom.
+381	Again. HaShem	De novo. HaShem
+382	knows that I am good.	sabe que eu sou bom.
+383	I always want to do only good.	Sempre quero fazer só o bem.
+384	HaShem knows that I am good	HaShem sabe que eu sou bom
+385	and I always want to do only good,	e sempre quero fazer só o bem,
+386	and to be even better.	e ser ainda melhor.
+387	And even better, and even better, and even better.	E ainda melhor, e ainda melhor, e ainda melhor.
+388	And I always want to do only good.	E sempre quero fazer só o bem.
+389	This is	Este é
+390	our saying.	o nosso lema.
+391	HaShem is my Father.	HaShem é o meu Pai.
+392	He always sees me.	Ele sempre me vê.
+393	HaShem is my Father.	HaShem é o meu Pai.
+394	He always sees me.	Ele sempre me vê.
+395	And He always sees me, and He always sees me, and He always sees me.	E sempre me vê, e sempre me vê, e sempre me vê.
+396	And He always sees me, and He always sees me.	E sempre me vê, e sempre me vê.
+397	And He always wants only good.	E sempre quer só o bem.
+398	HaShem is my Father.	HaShem é o meu Pai.
+399	Let us remember.	Vamos nos lembrar.
+400	HaShem is a Fa-	HaShem é um Pa-
+401	ther to me.	i para mim.
+402	A father is	Um pai é
+403	a father's love for a son,	o amor de um pai por um filho,
+404	a love that does not depend on deeds.	um amor que não depende de ações.
+405	No matter what the son does in the world,	Não importa o que o filho faça no mundo,
+406	you are a son, there is no...	você é filho, não há...
+407	Reality won't change: you are a son.	A realidade não muda: você é filho.
+408	You, just the same, you are my son.	Você, do mesmo jeito, é o meu filho.
+409	It doesn't matter.	Não importa.
+410	You, you are a son, you are my son.	Você, você é filho, você é o meu filho.
+411	The main thing is to hold on to this truth. Truth.	O principal é se agarrar a esta verdade. Verdade.
+412	It's the truth.	É a verdade.
+413	Whoever holds on to this truth, the yetzer hara	Quem se agarra a esta verdade, o yetzer hará
+414	hands the Holy One, Blessed be He,	entrega ao Santo, Bendito seja,
+415	a letter of resignation.	uma carta de demissão.
+416	He says to the Holy One, "What can I do?	Ele diz ao Santo: "O que posso fazer?
+417	I have nothing to do.	Não tenho o que fazer.
+418	I have no access to him.	Não tenho nenhum acesso a ele.
+419	He knows that he has a Father who always loves him.	Ele sabe que tem um Pai que sempre o ama.
+420	What can I say to him?	O que posso dizer a ele?
+421	What can I do to him?	O que posso fazer com ele?
+422	A son,	Um filho,
+423	drive him into sadness?	levá-lo à tristeza?
+424	A son.	Um filho.
+425	There is nothing."	Não há nada."
+426	When a person knows this knowledge, that's it, the yetzer hara	Quando a pessoa sabe isto, pronto, o yetzer hará
+427	the yetzer hara gives up.	o yetzer hará desiste.
+428	Despair, not out of knowledge.	Desespero, não por conhecimento.
+429	So Breslov tells us that the yetzer hara does not give up on us.	Então Breslev nos diz que o yetzer hará não desiste de nós.
+430	As long as they don't know that HaShem is our Father,	Enquanto não sabem que HaShem é o nosso Pai,
+431	he can say, "Elokim, what did you do?	ele pode dizer: "Elokim, o que você fez?
+432	What did you do? King, you acted against the King.	O que você fez? Rei, você agiu contra o Rei.
+433	Insolent, against the King."	Insolente, contra o Rei."
+434	Elokim.	Elokim.
+435	HaShem is my Father.	HaShem é o meu Pai.
+436	Between a father and a son, all the accounts,	Entre um pai e um filho, todas as contas,
+437	there are no accounts.	não há contas.
+438	Therefore we need to strengthen ourselves	Por isso precisamos nos fortalecer
+439	to do hitbodedut every day.	para fazer hitbodedut todo dia.
+440	I told you, HaShem gave us faith for this world,	Eu lhes disse, HaShem nos deu fé para este mundo,
+441	not the intellect, but the awareness,	não o intelecto, mas a consciência,
+442	to say thank you even for the bad.	para dizer obrigado até pelo que é ruim.
+443	I said thank you and I was saved.	Eu disse obrigado e fui salvo.
+444	And people were saved. They said thank you and were saved.	E pessoas foram salvas. Disseram obrigado e foram salvas.
+445	This is not a symptom, it is reality.	Isso não é um sintoma, é a realidade.
+446	The law of gratitude, what a law of gratitude, a really strong law.	A lei da gratidão, que lei da gratidão, uma lei realmente forte.
+447	What a law.	Que lei.
+448	There is no law like the law of gratitude.	Não há lei como a lei da gratidão.
+449	But more than anything, Father, You love me.	Mas acima de tudo, Pai, Tu me amas.
