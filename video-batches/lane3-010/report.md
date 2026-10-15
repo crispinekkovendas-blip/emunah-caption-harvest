@@ -1,7 +1,7 @@
 # lane3-010
 
-14 of 16 lessons published · 0 skipped · status **pending**
-Tokens (25 agent runs with a record): 0.3M in (mostly cache) · 0.49M out · API-equivalent 5.77
+15 of 16 lessons published · 0 skipped · status **pending**
+Tokens (27 agent runs with a record): 0.3M in (mostly cache) · 0.51M out · API-equivalent 5.97
 
 | lesson | state | detail |
 |---|---|---|
@@ -14,10 +14,10 @@ Tokens (25 agent runs with a record): 0.3M in (mostly cache) · 0.49M out · API
 | Jgn_kAEnLOg | ✓ published | 92 lines · Julgue a si mesmo: os portões da alma |
 | hTEyh64Nxls | ✓ published | 19 lines · Parashá Haazinu: a reconciliação entre o povo e a terra |
 | iM7NXPx-Jbc | ✓ published | 26 lines · Ra'ê e a arte de iluminar o rosto |
-| 4lOXt_FFwgo | waiting | 2/3 parts |
+| 4lOXt_FFwgo | ✓ published | 1220 lines · Vayakhel: Ahavat Israel na última farbrenguen do Rebe |
 | 4MydVEDZjiI | ✓ published | 1262 lines · Nadav e Avihu: emoção sem halachá e o desejo de partir |
 | g6Zb1gIgEE4 | ✓ published | 1528 lines · O ouro dentro da praga: transformar a dificuldade em sucesso |
 | LdJZehF7w5g | ✓ published | 535 lines · Liderança verdadeira: o cajado de Aarão que floresceu |
 | lQMzRY21Dlo | ✓ published | 622 lines · Parashat Chukat: educar com exemplo, emoção e verdade |
-| eEf4m4y0Z6s | ✗ will be redone (try 1) | line 0 twice |
+| eEf4m4y0Z6s | ✗ will be redone (try 2) | 34 lines missing |
 | N9fFMRLfFlg | ✓ published | 68 lines · Estou vivendo a vida que foi feita para mim? (Tzav) |
