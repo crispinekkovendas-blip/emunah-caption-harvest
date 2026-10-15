@@ -1,13 +1,13 @@
 # lane3-011
 
 4 of 9 lessons published · 4 skipped · status **pending**
-Tokens (264 agent runs with a record): 1.7M in (mostly cache) · 1.46M out · API-equivalent 18.62
+Tokens (275 agent runs with a record): 1.8M in (mostly cache) · 1.52M out · API-equivalent 19.39
 
 | lesson | state | detail |
 |---|---|---|
 | 7IAj7XtU-BU | ✓ published | 840 lines · Parashá Noach, segundo dia: a arca, Mishná e Zohar |
 | F3R0W8i9GeY | ✓ published | 1681 lines · Parashá Emor: as três santidades, espaço, tempo e alma |
-| GcFPfJDGYbQ | ✗ will be redone (try 1) | 170 lines missing |
+| GcFPfJDGYbQ | ✗ will be redone (try 2) | 53 lines missing |
 | AB_K5jfSBys | ✓ published | 902 lines · Por que a morte de Miriam foi ligada à Vaca Vermelha |
 | Hm8fk4lF5Cg | skipped | |
 | Tef2UUpvDP0 | skipped | |
