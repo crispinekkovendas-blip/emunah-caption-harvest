@@ -1,14 +1,14 @@
 # lane3-009
 
-23 of 25 lessons published · 1 skipped · status **pending**
-Tokens (47 agent runs with a record): 0.5M in (mostly cache) · 0.80M out · API-equivalent 9.51
+24 of 25 lessons published · 1 skipped · status **done**
+Tokens (49 agent runs with a record): 0.5M in (mostly cache) · 0.82M out · API-equivalent 9.68
 
 | lesson | state | detail |
 |---|---|---|
 | xCarjIhp_BI | ✓ published | 1847 lines · Parashá Re'eh: escolha, filiação e kashrut |
 | NjbeypkGvPE | ✓ published | 338 lines · Parashá Mishpatim: quem acendeu o fogo da guerra? |
 | hLZaMDlkf_c | ✓ published | 318 lines · Karat brit: a aliança de Arvot Moav e a Parashá Ki Tavô |
-| c_Un4qRrr4M | waiting | 2/3 parts |
+| c_Un4qRrr4M | ✓ published | 1064 lines · Yitro: ouvir com o coração e a força da hitbodedut |
 | sr4Mvux9eZ0 | ✓ published | 440 lines · Parashá Re'eh: o que você escolhe ver |
 | H-db2HnZObY | ✓ published | 100 lines · Haftará de Tazria-Metsorá: Yeshayahu 66 |
 | tN0pVPTC-2Q | ✓ published | 876 lines · Hashavat Avedá: solidariedade e além do padrão |
@@ -19,7 +19,7 @@ Tokens (47 agent runs with a record): 0.5M in (mostly cache) · 0.80M out · API
 | 6EMYXMElMhE | ✓ published | 328 lines · O que significa abençoar HaShem na Birkat HaMazon |
 | bTnY4PLKWOg | ✓ published | 83 lines · Vayakhel contada às crianças: Shabat e o Mishkan |
 | R7Bm-5qzP1M | ✓ published | 201 lines · Quem foi Betsalel? O dom de construir e ensinar |
-| 69VkysFriUo | skipped after 3 tries | 1 lines missing |
+| 69VkysFriUo | skipped | |
 | ST9_bvtiY_g | ✓ published | 122 lines · Zimri, Pinechás e o túmulo oculto de Moshê |
 | fPUyS0lbwnU | ✓ published | 183 lines · Vayishlach: ter tudo versus ter muito |
 | JscPjHzdcT8 | ✓ published | 129 lines · Por que Moshé julgou o povo após Yom Kipur |
