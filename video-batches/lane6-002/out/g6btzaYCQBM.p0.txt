@@ -1,0 +1,450 @@
+0	Hello everyone, those of us here at the institute,	Olá a todos, os que estão aqui no instituto,
+1	the listeners	os ouvintes
+2	and the viewers on the network, on all platforms.	e os espectadores na rede, em todas as plataformas.
+3	Today, with HaShem's help, we will study Parashat Tazria.	Hoje, com a ajuda de HaShem, estudaremos a Parashat Tazria.
+4	Parashat Tazria is another parashah that, how shall I put it,	Parashat Tazria é mais uma parashá que, como posso dizer,
+5	gently, is not	com delicadeza, não é
+6	as friendly as many parashiot in the book of Vayikra.	tão amigável quanto muitas parashiot do livro de Vayikrá.
+7	We spoke about this: Vayikra is perhaps, of the	Já falamos sobre isso: Vayikrá é talvez, dos
+8	five books of the Torah, the one we find hardest	cinco livros da Torá, o que mais nos custa
+9	to connect with, to what happens there. There are parashiot	conectar com o que acontece ali. Há parashiot
+10	in Vayikra that deal with sacrifices. We spoke about it,	em Vayikrá que tratam dos sacrifícios. Falamos disso,
+11	again, the impression we have of it and how we must understand	de novo, a impressão que temos disso e como devemos entender
+12	it today, what it gives us here and now.	isso hoje, o que isso nos dá aqui e agora.
+13	In Tazria-Metzora we are going to deal	Em Tazria-Metzorá vamos tratar
+14	with another topic that at first glance seems not	de outro tema que, à primeira vista, parece nada
+15	pleasant, which is the topic of purities,	simpático, que é o tema das purezas,
+16	plagues, all kinds of laws of impurity and tzaraat, and so on. And also	das pragas, diversas leis de impureza e tzaraat, e assim por diante. E também
+17	here, before we touch the parashah itself, we need to give	aqui, antes de tocarmos na parashá em si, é preciso dar
+18	some principle. Yes, there are the well-known words of	algum princípio. Sim, há as conhecidas palavras dos
+19	our Sages on the verse "And there shall be	nossos Sábios sobre o versículo "E haverá
+20	faith in your times, strength of salvations, wisdom and knowledge." "Emunat itecha"	segurança em teus tempos, força de salvações, sabedoria e conhecimento". "Emunat itecha"
+21	are the orders Zeraim and Moed. Yes, in the Shas, the two	são as ordens Zeraim e Moed. Sim, no Shas, as duas
+22	first orders: Zeraim, which deals with working the land,	primeiras ordens: Zeraim, que trata do trabalho da terra,
+23	and Moed, with the festivals, Shabbat, and so on. That is "Emunat itecha."	e Moed, que trata das festas, do Shabat e assim por diante. Isso é "Emunat itecha".
+24	"Chosen yeshuot" is Nashim	"Chosen yeshuot" é Nashim
+25	and Nezikin, which deal with the whole topic of kiddushin,	e Nezikin, que tratam de todo o tema dos kidushin,
+26	not upon us, Gittin,	que não seja conosco, dos Guitin,
+27	and the whole topic of damages. That is "chosen yeshuot." "Chochmat	e de todo o tema dos danos. Isso é "chosen yeshuot". "Chochmat
+28	vadaat" are Kodashim and Taharot. Kodashim and Taharot.	vadaat" são Kodashim e Taharot. Kodashim e Taharot.
+29	Here we already see an interesting principle:	Aqui já vemos um princípio interessante:
+30	although Kodashim is the sacrifices and Taharot is, as	embora Kodashim sejam os sacrifícios e Taharot seja, como
+31	we said, all the plagues found in the human body,	dissemos, todas as pragas que se encontram no corpo humano,
+32	we would expect it to be something very,	esperaríamos que fosse algo muito,
+33	very material. I mean, indeed, we are dealing here	muito material. Quer dizer, de fato lidamos aqui
+34	apparently with the lowest sides of the human body	aparentemente com os lados mais baixos do corpo humano
+35	and all the animal sides that exist in reality.	e com todos os lados animais que existem na realidade.
+36	With all this, the Sages attribute it to the verse, in the words	Apesar disso, os Sábios o atribuem ao versículo, nas palavras
+37	"wisdom and knowledge." There is something precisely from wisdom and knowledge	"sabedoria e conhecimento". Há algo justamente a partir de sabedoria e conhecimento
+38	through which we can see the abstract, deep world	pelo qual podemos ver o mundo abstrato e profundo
+39	that stands behind all	que está por trás de todas
+40	these things. And as mentioned, Parashat Tazria is one	essas coisas. E, como foi dito, a Parashat Tazria é um
+41	of the deepest examples of this. Only, as always,	dos exemplos mais profundos disso. Só que, como sempre,
+42	we will first do the general overview. Parashat Tazria usually	faremos primeiro a visão geral. A Parashat Tazria, em geral,
+43	we read in a regular year together with	lemos num ano comum junto com
+44	another parashah, the adjacent one, Tazria-Metzora.	outra parashá, a vizinha, Tazria-Metzorá.
+45	This year is a leap year, so we read each	Este ano é bissexto, então lemos cada
+46	parashah separately. The general topic of Tazria-	parashá separadamente. O tema geral de Tazria-
+47	Metzora deals	Metzorá trata
+48	with tzaraat. We will understand what exactly tzaraat is. Only that Parashat	da tzaraat. Vamos entender o que exatamente é a tzaraat. Só que a Parashat
+49	Tazria deals more with identifying, let's call it that,	Tazria trata mais da identificação, digamos assim,
+50	the tzaraat, and Parashat Metzora deals more with the ways of healing	da tzaraat, e a Parashat Metzorá trata mais dos caminhos de cura
+51	the tzaraat. But that is not accurate, because Parashat Tazria	da tzaraat. Mas isso não é exato, porque a Parashat Tazria
+52	indeed deals with another thing, not only with tzaraat	trata sim de outra coisa, não só de tzaraat
+53	like Metzora, but "when a woman conceives	como Metzorá, mas "quando uma mulher conceber
+54	and bears a male." Parashat Tazria begins first with a woman giving birth.	e der à luz um menino". A Parashat Tazria começa primeiro com a mulher que dá à luz.
+55	"When a woman conceives and bears a male, she shall be impure seven days; as in the days of	"Quando uma mulher conceber e der à luz um menino, será impura sete dias; como nos dias da
+56	her menstrual impurity she shall be impure. And on the eighth day the flesh of his foreskin shall be circumcised."	impureza da sua menstruação será impura. E no oitavo dia a carne do seu prepúcio será circuncidada."
+57	The first verses of chapter 12, the first	Os primeiros versículos do capítulo 12, os primeiros
+58	verses in Parashat Tazria, deal with the impurity of a woman after childbirth.	versículos da Parashat Tazria, tratam da impureza da parturiente.
+59	When a woman gives birth, she must bring a sacrifice	Quando uma mulher dá à luz, ela precisa trazer um sacrifício
+60	and sit in the days of purification. For a male or a female. It is also mentioned:	e permanecer nos dias de purificação. Para menino ou menina. Também é mencionado:
+61	"On the eighth day the flesh of his foreskin shall be circumcised." That is, we will	"No oitavo dia a carne do seu prepúcio será circuncidada." Ou seja, vamos
+62	talk about this, brit milah is dealt with here too,	falar disso, a brit milá também é tratada aqui,
+63	this verse comes in, and then	esse versículo entra, e depois
+64	let me correct myself, in chapter 13, not 13:	corrijo, no capítulo 13, não 13:
+65	the first verses, the first eight verses	os primeiros versículos, os oito primeiros versículos
+66	deal with the impurity of childbirth, and then from chapter 13	tratam da impureza da parturiente, e depois, do capítulo 13
+67	until the end of the parashah they deal with tzaraat. How	até o fim da parashá, tratam da tzaraat. Como
+68	exactly does tzaraat appear, on three levels that Parashat	exatamente a tzaraat aparece, em três planos de que a Parashat
+69	Tazria speaks about: one, tzaraat of the skin, all	Tazria fala: um, a tzaraat da pele, todo
+70	kinds of hairs or spots that appear on the skin;	tipo de pelos ou manchas que aparecem na pele;
+71	tzaraat of the hair, in the beard, the head, and so on; and tzaraat of the garment.	a tzaraat do cabelo, na barba, na cabeça e assim por diante; e a tzaraat da roupa.
+72	Okay, also tzaraat that appears on a person's garment. How do	Certo, também a tzaraat que aparece na roupa da pessoa. Como se
+73	they treat	trata
+74	this? Let's start perhaps from the end, because	isso? Vamos começar talvez pelo fim, porque
+75	we are going to deal with the first part of Parashat Tazria,	vamos tratar da primeira parte da Parashat Tazria,
+76	but the end deals with tzaraat. What is tzaraat? Tzaraat is	mas o fim trata da tzaraat. O que é a tzaraat? A tzaraat é
+77	a kind of disease for which it is unclear what the equivalent	um tipo de doença cujo equivalente hoje
+78	is today, if any; it was a very,	não está claro, se é que existe; era uma doença muito,
+79	very severe disease in which one saw	muito grave em que se viam
+80	plagues on the skin, all kinds of very unpleasant sores. But more than that, if the disease was not	chagas na pele, todo tipo de feridas muito desagradáveis. Mas mais do que isso, se a doença não
+81	treated, it caused the body to disintegrate	fosse tratada, causava a desintegração do corpo
+82	in one way or another. In the ancient world, in the days of the Torah,	de um jeito ou de outro. No mundo antigo, nos dias da Torá,
+83	it was considered perhaps	era considerada talvez
+84	the most terrible plague.	a pior das pragas.
+85	Again, it may be a kind	De novo, pode ser que seja um tipo
+86	of cancer	de câncer
+87	that today expresses itself outwardly, and so they recognized	que hoje se manifesta por fora, e assim eles identificavam
+88	it in this way. It could be something	isso dessa forma. Pode ser algo
+89	special to their time. But what made tzaraat	especial do tempo deles. Mas o que fez a tzaraat
+90	be perceived as, yes, as a concept	ser vista como, sim, um conceito
+91	of the greatest disgrace, right? A metzora is someone	de maior desonra, certo? Um metsorá é alguém
+92	who is as if outside of society. That is because this disease	que fica como que fora da sociedade. Isso porque essa doença
+93	was visible on the outside, unlike	era visível por fora, ao contrário de
+94	certain diseases that, fine, a person has inside	certas doenças que, tudo bem, a pessoa tem por dentro,
+95	the body deals with itself. Here it is also seen	o corpo lida com elas. Aqui isso também se vê
+96	outwardly, and this created distancing, and this was also isolation,	por fora, e isso criou afastamento, e também isolamento,
+97	and all the processes meant to isolate the metzora, so that	e todos os processos destinados a isolar o metsorá, para que
+98	he would not infect others and so that he would heal. We will also understand	ele não contagiasse os outros e para que se curasse. Vamos entender também
+99	the connection to this, why isolation here is what creates	a relação com isso, por que o isolamento aqui é o que cria
+100	the healing. In any case, this is the topic of tzaraat,	a cura. De todo modo, esse é o tema da tzaraat,
+101	and the Torah devotes a great deal to it, both in these	e a Torá dedica muito espaço a ela, tanto nestas
+102	parashiot, Tazria and Metzora, and in other places	parashiot, Tazria e Metzorá, quanto em outros lugares
+103	in the Torah. For example Miriam, right, who is punished in Parashat	da Torá. Por exemplo Miriam, certo, que é castigada na Parashat
+104	Behaalotecha by the Holy One, blessed be He, so she	Behaalotchá pelo Santo, bendito seja, então ela
+105	becomes a metzora, yes, a severe metzora, she is shut away for seven	fica metsorá, sim, uma metsorá grave, é isolada por sete
+106	days while she has tzaraat. It was always the punishment	dias enquanto está com tzaraat. Sempre foi o castigo
+107	in the Torah, to get tzaraat.	na Torá, pegar tzaraat.
+108	In any case, we said Parashat Metzora and part of Tazria. But in the first part,	De todo modo, falamos da Parashat Metzorá e de parte de Tazria. Mas na primeira parte,
+109	as said, of Parashat Tazria, and this is mainly what	como dito, da Parashat Tazria, e é principalmente isso
+110	we will deal with, we are dealing with the impurity of a woman after childbirth. Yes, there are here	que vamos tratar, tratamos da impureza da parturiente. Sim, há aqui
+111	among the eight verses seven verses	entre os oito versículos sete versículos
+112	that deal with when a woman gives birth, which sacrifice she	que tratam de quando uma mulher dá à luz, que sacrifício ela
+113	must bring, an atonement sacrifice, and she must sit	precisa trazer, um sacrifício de expiação, e ela precisa permanecer
+114	more days, days of purification. But there is also a verse, we read	mais dias, dias de purificação. Mas há também um versículo, nós lemos
+115	it in verse 3: "And on the eighth day the flesh of his foreskin shall be circumcised."	no versículo 3: "E no oitavo dia a carne do seu prepúcio será circuncidada."
+116	The topic of brit milah is also mentioned. You might say, fine, we mentioned childbirth,	O tema da brit milá também é mencionado. Poderiam dizer: tudo bem, mencionamos o parto,
+117	so incidentally, we also said	então, de passagem, também dissemos
+118	that one must circumcise the son.	que é preciso circuncidar o filho.
+119	That is not accurate, because this verse,	Isso não é exato, porque este versículo,
+120	which is in total five words, "And on the eighth day	que tem ao todo cinco palavras, "E no oitavo dia
+121	the flesh of his foreskin shall be circumcised," is in fact the central source for learning	a carne do seu prepúcio será circuncidada", é na verdade a fonte central para aprender
+122	the laws of brit milah. Yes, the Rambam writes: after all, apparently	as leis da brit milá. Sim, o Rambam escreve: afinal, aparentemente
+123	brit milah was already mentioned in the book of Bereishit, that Abraham	a brit milá já foi mencionada no livro de Bereshit, que Avraham
+124	our father circumcised, and so on. But the Rambam says, our obligation	nosso patriarca circuncidou, e assim por diante. Mas diz o Rambam: nossa obrigação
+125	regarding brit milah is not from Abraham our father, because	quanto à brit milá não vem de Avraham nosso patriarca, porque
+126	the patriarchs were not yet commanded in the Torah, but only after	os patriarcas ainda não foram ordenados na Torá, mas só depois
+127	the revelation at Mount Sinai. So since there was the revelation at Mount Sinai	da revelação no Monte Sinai. Então, como houve a revelação no Monte Sinai
+128	in the book of Shemot, now in the book of Vayikra, Parashat Tazria,	no livro de Shemot, agora no livro de Vayikrá, Parashat Tazria,
+129	this verse is the anchor for brit milah. That is,	este versículo é a âncora da brit milá. Ou seja,
+130	the essence of brit milah is somehow connected here	a essência da brit milá está de algum modo ligada aqui
+131	to our parashah, both to the topic of the woman who gives birth	à nossa parashá, tanto ao tema da parturiente
+132	and to the topic of the metzora.	quanto ao tema do metsorá.
+133	There are places where they customarily say this verse	Há lugares em que se costuma dizer este versículo
+134	during the brit: "On the eighth day the flesh of	durante a brit: "No oitavo dia a carne do
+135	his foreskin shall be circumcised." There is something here that is not incidental but very,	seu prepúcio será circuncidada". Há aqui algo que não é casual, mas muito,
+136	very central, and now we need to understand how all the topics fit together	muito central, e agora é preciso entender como todos os temas se encaixam
+137	here, because apparently these two	aqui, porque aparentemente esses dois
+138	topics, impurity of childbirth on the one hand and the metzora	temas, a impureza do parto de um lado e o metsorá
+139	on the other, if we said that brit milah, which is within	do outro, se dissemos que a brit milá, que está dentro
+140	the impurity of childbirth, these are topics that are apparently opposite	da impureza do parto, são temas aparentemente opostos
+141	to each other. Right? Birth is an event that is supposed to be joyful,	um ao outro. Certo? O nascimento é um acontecimento que deveria ser alegre,
+142	bringing life into the world, and tzaraat is exactly the opposite, it is a	trazer vida ao mundo, e a tzaraat é exatamente o oposto, é uma
+143	kind of death. There is such an expression of the Sages: "A metzora	espécie de morte. Há uma expressão dos Sábios: "O metsorá
+144	is considered as dead." You know, these are two topics that are	é considerado como morto". Sabem, são dois temas que
+145	again, we would say, as is said about all the parashiot, that just in the order of the Torah	de novo, diríamos, como se diz de todas as parashiot, que simplesmente na ordem da Torá
+146	it happened to place topics here	calhou de pôr aqui temas
+147	with no connection between them. So that is not it. But if we	sem relação entre si. Então não é isso. Mas se
+148	try to find some thread	tentarmos encontrar algum fio
+149	that strings together Parashat Tazria, then we need	que una a Parashat Tazria, então precisamos
+150	to understand what the connection is between a woman who gives birth on the one hand and tzaraat	entender qual é a ligação entre a parturiente de um lado e a tzaraat
+151	on the other. And here, as said, we come to the main point	do outro. E aqui, como dito, chegamos ao ponto principal
+152	of the lesson. Look, I called this lesson	da aula. Vejam, chamei esta aula
+153	by the title "Atoning for the Moments of Despair." I will explain,	pelo título "Expiar os momentos de desespero". Vou explicar,
+154	and I hope, as always, that we will also understand the connection	e espero, como sempre, que também entendamos a relação
+155	to our emotional reality now, in a period that many	com a nossa realidade emocional agora, num período que muitos
+156	feel	sentem
+157	in the people	no povo
+158	of Israel. This topic of a woman who gives birth,	de Israel. Este tema da mulher que dá à luz,
+159	who brings a sacrifice, yes, who became impure and therefore	que traz um sacrifício, sim, que se tornou impura e por isso
+160	now must bring a childbirth sacrifice and afterwards	agora precisa trazer o sacrifício do parto e depois
+161	sit the days of purification, is something that is not	permanecer nos dias de purificação, é algo que não
+162	understandable. Bringing life into the world is the happiest moment	se entende. Trazer vida ao mundo é o momento mais feliz
+163	there is. If we try now to imagine what	que há. Se tentarmos agora imaginar qual é
+164	the purest, holiest moment in the world is,	o momento mais puro, mais santo que há no mundo,
+165	it is birth, right? What could be greater than that?	é o nascimento, certo? O que poderia ser maior do que isso?
+166	A woman who gives birth, a family that brings life into the world,	Uma mulher que dá à luz, uma família que traz vida ao mundo,
+167	must bring an atonement sacrifice. The opposite: they should already	precisa trazer um sacrifício de expiação. O contrário: já deveriam
+168	bring a thanksgiving sacrifice for the fact that the Holy One, blessed be He,	trazer um sacrifício de agradecimento por o Santo, bendito seja,
+169	gave us, a peace offering, a peace offering of joy. And instead	nos ter dado, um sacrifício de paz, um sacrifício de alegria. E em vez disso
+170	one must bring an atonement sacrifice, and afterwards also sit	é preciso trazer um sacrifício de expiação e depois ainda permanecer
+171	a few more days in a kind of isolation over	mais alguns dias numa espécie de isolamento por causa de
+172	impurity. Why? This is apparently something that is	impureza. Por quê? Isso é, aparentemente, algo que é
+173	the opposite of everything,	o oposto de tudo,
+174	we see that there is something in childbirth that is accompanied	vemos que há algo no parto que é acompanhado
+175	not only by pain but also by something that we call blood.	não só por dor, mas também por algo que chamamos de sangue.
+176	"For the soul of the flesh is in the blood." Even at the	"Pois a alma da carne está no sangue." Mesmo no nível
+177	simple level, there is an expression of the Sages who say	simples, há uma expressão dos Sábios que dizem
+178	that the grave opens and blood comes out. As if they are saying	que o túmulo se abre e sai sangue. Como se dissessem
+179	that the womb is a kind of grave. There is something in childbirth	que o útero é uma espécie de túmulo. Há algo no parto
+180	that is, even in the most external reality, that life	que é, mesmo na realidade mais externa, que a vida
+181	is accompanied by blood, bringing life into the world is accompanied	é acompanhada de sangue, trazer vida ao mundo é acompanhado
+182	by pain and, as the Torah tells us, also by a kind of impurity.	de dor e, como a Torá nos diz, também de uma espécie de impureza.
+183	What is the problem? And here note, this is an important point.	Qual é o problema? E aqui reparem, este é um ponto importante.
+184	There is	Há
+185	a wonderful Gemara in tractate	uma Guemará maravilhosa no tratado
+186	Niddah, where Rashbi says, Rabbi Shimon bar Yochai.	Nidá, onde diz Rashbi, Rabi Shimon bar Yochai.
+187	Rabbi Shimon bar Yochai is the holy Tanna	Rabi Shimon bar Yochai é o santo Tanaíta
+188	who always has the inner view to look at	que sempre tem o olhar interior para ver
+189	things beyond what is seen at first glance. Rashbi says:	as coisas além do que aparece à primeira vista. Diz Rashbi:
+190	Do you know why a woman who gives birth must bring an atonement	Vocês sabem por que a parturiente precisa trazer um sacrifício
+191	sacrifice? We would say, well, she must bring an atonement	de expiação? Diríamos: bem, ela precisa trazer expiação
+192	because, as we said, there is blood here, there is, I don't know,	porque, como dissemos, há sangue aqui, há, não sei,
+193	involvement with the body, with the	envolvimento com o corpo, com os lados
+194	lowest sides of the body. Okay, it brings life	baixos do corpo. Certo, traz vida
+195	into the world, but what can you do, there is impurity here. Rashbi says	ao mundo, mas o que fazer, há impureza aqui. Diz Rashbi
+196	there is another reason why a woman who gives birth must bring	que há outro motivo pelo qual a parturiente precisa trazer
+197	an atonement sacrifice and must sit until she is purified. He says:	um sacrifício de expiação e permanecer até se purificar. Ele diz:
+198	At the time that she crouches	No momento em que ela se agacha
+199	to give birth, she kneels and swears that she will never again come near her husband.	para dar à luz, ela se ajoelha e jura que nunca mais se aproximará do marido.
+200	Therefore the Torah said she shall bring an atonement sacrifice. Rashbi	Por isso a Torá disse que ela traga um sacrifício de expiação. Rashbi
+201	describes a reality that we know. We heard, it is a time of	descreve uma realidade que conhecemos. Ouvimos, é um momento de
+202	pain. "Mishbar," the word, you all know, comes from	dor. "Mishbar", a palavra, vocês todos sabem, vem
+203	the stone on which women giving birth sat in	da pedra em que as parturientes se sentavam nos
+204	ancient times. This stone was called mishbar, to sit on	tempos antigos. Essa pedra se chamava mishbar, sentar sobre
+205	the mishbar. From this came the word	o mishbar. Daí veio a palavra
+206	"crisis" (mishbar). At the time that the woman giving birth	"crise" (mishbar). No momento em que a parturiente
+207	there is a kind of break (shever). What?	há uma espécie de quebra (shever). O quê?
+208	The break, the pain is so great, the struggle so hard	A quebra, a dor é tão grande, o enfrentamento tão difícil
+209	that the woman giving birth swears that she will never again	que a parturiente jura que nunca mais
+210	come near her husband. There is a very, very deep point here in understanding	se aproximará do marido. Há aqui um ponto muito, muito profundo na compreensão
+211	of the	da
+212	human soul. That a person brings life into the world is, as said,	alma humana. Que uma pessoa traga vida ao mundo é, como dito,
+213	supposed to be joy, but note that there is something deep	para ser alegria, mas reparem que há algo profundo
+214	and dark in our soul, that when	e sombrio na nossa alma, que quando
+215	we bring life into the world, not only in the sense of	trazemos vida ao mundo, não só no sentido do
+216	physical birth, when we create something good	parto físico, quando criamos algo bom
+217	in this world, when something happens that	neste mundo, quando acontece algo que
+218	gives birth to a new stature,	gera uma nova estatura,
+219	it arouses in us also a kind of	isso desperta em nós também uma espécie de
+220	resistance. She jumps up and says, "I will not come near anymore,	resistência. Ela se levanta de um salto e diz: "Não me aproximarei mais,
+221	I don't want to give birth anymore." Yes, she swears. And	não quero mais dar à luz." Sim, ela jura. E
+222	now, to atone for this oath, one must of course go through a process of atonement. Why? Why does a person	agora, para expiar esse juramento, é preciso passar por um processo de expiação. Por quê? Por que a pessoa
+223	feel this need	sente essa necessidade
+224	at the happiest moment, to say now,	no momento mais feliz, de dizer agora:
+225	"so it's not worth it at all"? Okay, there is pain, there is this, but still there is here,	"então não vale a pena nada"? Certo, há dor, há isso, mas ainda assim há aqui,
+226	as I said, a touching of some dark	como eu disse, um toque em algum segredo sombrio
+227	secret that exists in the human	que existe no gênero
+228	race.	humano.
+229	We live in this world, we live in the world	Vivemos neste mundo, vivemos no mundo
+230	of the Holy One, blessed be He. This world is good. "HaShem is good	do Santo, bendito seja. Este mundo é bom. "HaShem é bom
+231	to all, and His mercies are over all His works." Bringing life into the world	para todos, e Suas misericórdias estão sobre todas as Suas obras." Trazer vida ao mundo
+232	is a good thing, but there is something, a little dark dent	é algo bom, mas há algo, uma pequena fenda sombria
+233	that whispers to us	que sussurra para nós
+234	in the ear: this world is	no ouvido: este mundo é
+235	life is not	a vida não
+236	worth it. Even, precisely when a person brings	vale a pena. Mesmo, justamente quando a pessoa traz
+237	life into the world now, he is now in something	vida ao mundo agora, ela está agora em algo
+238	good, there is a kind of notion like this,	bom, existe uma espécie de noção assim,
+239	that if everything is good, it means that it is not good. There is such an	de que, se tudo é bom, quer dizer que não é bom. Há uma
+240	expression that they used to say, that this is how	expressão que se costumava dizer, que era assim que
+241	grumpy mothers-in-law were: the son would bring home	eram as sogras ranzinzas: o filho trazia para casa
+242	a bride, and even if the bride was perfect,	uma noiva, e mesmo que a noiva fosse perfeita,
+243	the mother-in-law would say, "The bride is too pretty."	a sogra dizia: "A noiva é bonita demais."
+244	In Yiddish it sounds better: "The bride is too pretty."	Em iídiche soa melhor: "A noiva é bonita demais."
+245	A feeling like this: it's too good, someone is	Uma sensação assim: é bom demais, alguém está
+246	fooling me here, it can't be, I don't deserve	me enganando aqui, não pode ser, eu não mereço
+247	this good. Here are words that now	esse bem. Eis palavras que agora
+248	we hear a lot in these days: we are not worthy, we are not worthy of what is happening here.	ouvimos muito nestes dias: não somos dignos, não somos dignos do que está acontecendo aqui.
+249	No, this isn't us, the world should be bad.	Não, isso não é conosco, o mundo deveria ser mau.
+250	How suddenly did it become so good for me	Como foi que de repente ficou tão bom para mim
+251	in this world?	neste mundo?
+252	People feel a kind of pangs of conscience	As pessoas sentem uma espécie de peso na consciência
+253	about it:	por isso:
+254	a child was born here, no, I will not bring more children	nasceu uma criança aqui, não, não trarei mais filhos
+255	into the world. The Catholic Christian world talks a great deal	ao mundo. O mundo cristão católico fala muito
+256	about a concept called original sin. This is of course	sobre um conceito chamado pecado original. Isso é claro
+257	taken, everything is taken at its root from the Torah, the sin	tirado, tudo é tirado em sua raiz da Torá, o pecado
+258	of the Garden of Eden, the sin of the serpent. But the Catholic Christian conception	do Gan Éden, o pecado da serpente. Mas a concepção cristã católica
+259	took it in the direction, as I said,	levou isso na direção, como eu disse,
+260	that this world is bad, this world is founded in sin,	de que este mundo é mau, este mundo é fundado no pecado,
+261	founded in sin. It	fundado no pecado.
+262	looks good, but actually the primordial serpent	Parece bom, mas na verdade a serpente primordial
+263	is there all the time, waiting for when we will fall.	está lá o tempo todo, esperando quando vamos cair.
+264	Now you are happy, wait, wait, in a second you	Agora vocês estão felizes, esperem, esperem, em um segundo vocês
+265	fall. The bride is too pretty, the deal looks too good. There is	caem. A noiva é bonita demais, o negócio parece bom demais. Há
+266	someone here who came up with a deal that looks good	alguém aqui que inventou um negócio que parece bom
+267	for us and for them too, a win-win, as it's called,	para nós e para eles também, um ganha-ganha, como se diz,
+268	…, someone is fooling us. It is a suspicious emotional stance,	…, alguém está nos enganando. É uma postura emocional desconfiada
+269	and negating, toward life here in this world.	e negadora diante da vida aqui neste mundo.
+270	There were	Havia
+271	in the Middle Ages Christian monks.	na Idade Média monges cristãos.
+272	They lived, after all, in a monastery; this is the whole	Eles viviam, afinal, num mosteiro; essa é toda a
+273	Christian conception: this world is bad, so there is no point living in this world,	concepção cristã: este mundo é mau, então não há por que viver neste mundo,
+274	no point bringing children into the world,	não há por que trazer filhos ao mundo,
+275	why bring children into such a miserable world, that isn't	para que trazer filhos a um mundo tão miserável, isso não
+276	relevant. So the monks lived all their lives in the monastery.	faz sentido. Então os monges viviam a vida toda no mosteiro.
+277	Naturally they were people, you understand, drooling and full of	Naturalmente eram pessoas, entendem, babando e cheias de
+278	frustration, and much has been written about it, about what that led to,	frustração, e muito se escreveu sobre isso, sobre aonde isso levou,
+279	to all kinds of things. But the monks used to	a todo tipo de coisa. Mas os monges costumavam
+280	write at the end of their lives a kind of will, as if	escrever no fim da vida uma espécie de testamento, como se
+281	leaving behind... So I once saw some study	deixassem... Então eu vi uma vez um estudo
+282	that examined the... they found all kinds of	que examinou os... encontraram todo tipo de
+283	documents from the Middle Ages, from various monasteries,	documentos da Idade Média, de vários mosteiros,
+284	of monks who wrote their wills before their death,	de monges que escreviam seus testamentos antes da morte,
+285	when they felt the end approaching, and there was a sentence that repeated every	quando sentiam o fim se aproximar, e havia uma frase que se repetia toda
+286	time, I mean a kind of fixed opening, and then they	vez, quer dizer, uma espécie de abertura fixa, e depois eles
+287	wrote what they wanted. The opening was this: "Behold, I have reached the end of	escreviam o que queriam. A abertura era esta: "Eis que cheguei ao fim da
+288	my life, full of sin." That was the opening, all of them.	minha vida, cheia de pecado." Essa era a abertura, de todos.
+289	"Behold, I have reached the end of my life, full of sin," and now I want	"Eis que cheguei ao fim da minha vida, cheia de pecado", e agora quero
+290	to say thus and so. This is the stance:	dizer isto e aquilo. Esta é a postura:
+291	life is sin, life is not good, to bring children	a vida é pecado, a vida não é boa, trazer filhos
+292	into the world is not good. Catholic Christianity	ao mundo não é bom. O cristianismo católico
+293	took this in a certain way. Today in a world that rolled	levou isso de certa maneira. Hoje, num mundo que rolou
+294	upside down, out of Catholic Christianity	de cabeça para baixo, saindo do cristianismo católico
+295	into the progressive world,	para o mundo progressista,
+296	the secular ones here. Now to the point, there are several stages here, that at first	os seculares aqui. Agora ao ponto, há aqui várias etapas, em que no início
+297	they	eles
+298	indeed go out against this religious conception that says	de fato se levantam contra essa concepção religiosa que diz
+299	not to bring life into the world. They say no, we	para não trazer vida ao mundo. Dizem: não, nós
+300	want to live, to flourish, and precisely to have children,	queremos viver, florescer, e justamente ter filhos,
+301	and a modern world full of blossoming and optimism. But	e um mundo moderno cheio de florescimento e otimismo. Mas
+302	very quickly, since it is disconnected from Elokim, then woe	muito rápido, como está desligado de Elokim, então ai
+303	is me from my Creator, woe is me from my inclination. So it	de mim por causa do meu Criador, ai de mim por causa da minha inclinação. Então
+304	rolls upside down until in the end it connects with	vai rolando de cabeça para baixo até que no fim se liga com
+305	this conception: life is bad. Okay, there is no Elokim,	essa concepção: a vida é má. Certo, não há Elokim,
+306	there is no meaning to life, all there is is to eat,	não há sentido na vida, tudo o que há é comer,
+307	drink and enjoy. Good, so we thought for a few hundred	beber e se divertir. Bem, achamos por algumas centenas de
+308	years that here, we will settle for this, but we discovered that it is	anos que ali nos contentaríamos com isso, mas descobrimos que não
+309	not enough. So now we do not return to the understanding	basta. Então agora não voltamos ao entendimento
+310	that one must connect to meaning, to Elokim, but rather	de que é preciso se conectar ao sentido, a Elokim, mas sim
+311	there is no Elokim on the one hand,	não há Elokim de um lado,
+312	and there is also no this world on the other, so there is also no need	e também não há este mundo do outro, então também não é preciso
+313	to bring children into the world. There is a concept	trazer filhos ao mundo. Há um conceito
+314	today in progressive culture called	hoje na cultura progressista chamado
+315	anti-natalism, okay, antinatalist couples	antinatalismo, certo, casais antinatalistas
+316	who decide that from the outset we do not want to bring	que decidem que desde o início não queremos trazer
+317	children into the world. Again, some	filhos ao mundo. De novo, algum
+318	egoism, dressed up	egoísmo, vestido
+319	as a kind of ideology: we don't, why? Because we don't want	de uma espécie de ideologia: nós não, por quê? Porque não queremos
+320	to bring children into such a miserable world. This emotional	trazer filhos a um mundo tão miserável. Essa postura
+321	stance, you understand, needs atonement. That is the whole	emocional, entendem, precisa de expiação. Essa é toda a
+322	idea of the parashah. A person who feels this feeling,	ideia da parashá. Uma pessoa que sente esse sentimento,
+323	who does not allow what we said, truth, faith,	que não deixa o que dissemos, a verdade, a fé,
+324	joy of life to appear, must bring atonement for it.	a alegria de viver aparecerem, precisa trazer expiação por isso.
+325	And all of us are a bit in this place. Yes, if these are very, very deep	E todos nós estamos um pouco nesse lugar. Sim, se são processos psicológicos muito, muito profundos
+326	psychological processes in the soul of man, certainly	na alma do homem, é claro
+327	most people bring children into the world, and most people live in this world,	que a maioria das pessoas traz filhos ao mundo, e a maioria das pessoas vive neste mundo,
+328	most people do not get up in the morning and commit suicide,	a maioria das pessoas não acorda de manhã e se suicida,
+329	most people in the end create life, both children and	a maioria das pessoas no fim cria vida, tanto filhos quanto
+330	work and friends and so on. But since the original sin	trabalho e amigos e assim por diante. Mas como o pecado original
+331	keeps nesting in the background, over time there is formed	fica sempre aninhado ao fundo, com o tempo se forma
+332	a deep psychology	uma psicologia profunda
+333	of self-hatred, hatred of life: "I live and I'm well,	de ódio a si mesmo, ódio à vida: "Eu vivo e estou bem,
+334	but I don't deserve it. I am bad in essence, this world	mas não mereço isso. Sou mau na essência, este mundo
+335	is bad in essence." So now, if they hate me,	é mau na essência." Então agora, se me odeiam,
+336	if things do not work out for me in this world, rightly	se as coisas não dão certo para mim neste mundo, com razão
+337	I deserve to be hated, I am not worthy of all this	mereço ser odiado, não sou digno de todo esse
+338	good. People now, I don't know, respect me,	bem. Pessoas agora, não sei, me respeitam,
+339	people now tell me well done for some good	pessoas agora me dizem parabéns por alguma boa
+340	deed I did. People immediately, like, no,	ação que fiz. As pessoas logo, tipo, não,
+341	no, it's not me, it's not, why can't you	não, não sou eu, não é, por que você não consegue
+342	accept what... People who do not know how to accept compliments,	aceitar o que... Pessoas que não sabem aceitar elogios,
+343	you'd say, they are so modest, so humble. Yes, but I don't know, it seems that precisely these people	diriam, são tão modestas, tão humildes. Sim, mas não sei, parece que justamente essas pessoas
+344	very much want their good things to be publicized, right? They,	querem muito que suas coisas boas sejam divulgadas, certo? Elas,
+345	at the same time, push this away and so...	ao mesmo tempo, empurram isso para longe e assim...
+346	So when they tell you "good," why do you respond with such	Então quando te dizem "bom", por que você reage com tantas
+347	contortions? Okay, so you say he wants to play at being	contorções? Certo, então você diz que ele quer bancar o
+348	humble. It is more than that. We all know this about	humilde. É mais do que isso. Todos nós conhecemos isso em
+349	ourselves: we feel not good about the fact	nós mesmos: não nos sentimos bem com o fato
+350	that things are good for us, not good that we succeeded,	de as coisas irem bem para nós, não nos sentimos bem por termos tido êxito,
+351	not good with, sometimes, precisely when they go out and hate us,	não nos sentimos bem com, às vezes, justamente quando saem e nos odeiam,
+352	we feel, yes, really, that it is deserved. This is the root	sentimos, sim, de verdade, que é merecido. Essa é a raiz
+353	of endless	de infinitos
+354	psychological issues: children who constantly doubt their parents'	problemas psicológicos: crianças que duvidam o tempo todo do amor dos
+355	love for them. "My parents don't love me," and why	pais por elas. "Meus pais não me amam", e por que
+356	don't they love me? "Rightly, I am a bad child." And this is, how do you say,	não me amam? "Com razão, sou uma criança má." E isso é, como se diz,
+357	a recipe for problems for life. Okay, it can be also	uma receita para problemas pela vida toda. Certo, pode ser também
+358	on all levels. Let's start with the global level, yes,	em todos os níveis. Comecemos pelo nível mundial, sim,
+359	the conception, again, Christian Catholic,	a concepção, de novo, cristã católica,
+360	progressive: human beings are bad. Again we	progressista: os seres humanos são maus. De novo
+361	say the world is bad, everything here is good, we were	dizemos que o mundo é mau, tudo aqui é bom, fomos
+362	created, we live in this world, let's bring a few	criados, vivemos neste mundo, vamos trazer alguns
+363	human beings... There is a whole world of literature and	seres humanos... Há um mundo inteiro de literatura e de
+364	cinema that says that all human beings are bad. They	cinema que diz que todos os seres humanos são maus. Eles
+365	always do things, and the fact that bad things happen to them,	sempre fazem coisas, e o fato de coisas ruins acontecerem com eles,
+366	and they destroy themselves, that's how it should be. It's a	e se autodestruírem, é como deve ser. É um
+367	death wish, like, there will be an atomic holocaust,	desejo de morte, tipo, haverá um holocausto atômico,
+368	there will be pollution, because we humans destroyed	haverá poluição, porque nós, humanos, destruímos
+369	this planet, we destroyed planet earth. This is very	este planeta, destruímos o planeta Terra. Isso é muito
+370	telling, because these are people who many times come,	revelador, porque são pessoas que muitas vezes vêm,
+371	supposedly, in the name of fixing, all kinds of organizations, I don't know,	supostamente, em nome de consertar, todo tipo de organização, não sei,
+372	animal rights, all kinds of climate groups. Again,	direitos dos animais, todo tipo de grupo do clima. De novo,
+373	they often claim correct things. But	eles muitas vezes afirmam coisas corretas. Mas
+374	you see many times that those who stand in these movements,	vê-se muitas vezes que quem está nesses movimentos,
+375	the forces behind them or the leaders,	as forças por trás ou os líderes,
+376	are people with hatred of life who hate human beings,	são pessoas com ódio à vida que odeiam os seres humanos,
+377	and so of course, when they decide that someone	e por isso, claro, quando decidem que alguém
+378	is guilty of polluting planet earth, they go against him	é culpado de poluir o planeta Terra, vão contra ele
+379	violently	com violência
+380	and in a very, very fanatical way. But it is more than that.	e de modo muito, muito fanático. Mas é mais do que isso.
+381	It is not by chance that there is a connection between	Não é por acaso que há uma ligação entre
+382	climate and environment organizations and, for example,	organizações de clima e meio ambiente e, por exemplo,
+383	antisemitic phenomena. In the current war	fenômenos antissemitas. Na guerra atual
+384	there were several such cases: people who do not	houve vários casos assim: pessoas que não
+385	come to repair the world out of love of life, but it	vêm consertar o mundo por amor à vida, mas isso
+386	comes with the idea that human beings are bad, and I am the	vem com a ideia de que os seres humanos são maus, e eu sou a
+387	great heroine, the great hero. I say: I came to fight in the name of animals, in the name of	grande heroína, o grande herói. Eu digo: vim lutar em nome dos animais, em nome dos
+388	penguins in Antarctica,	pinguins na Antártida,
+389	because animals are much nicer than human beings,	porque os animais são muito mais simpáticos que os seres humanos,
+390	and so on. There is endless more of this. So that is the global level,	e assim por diante. Há infinitas coisas assim. Então esse é o nível mundial,
+391	then it goes also into the more inner circle, for example in the people of Israel.	depois entra também no círculo mais interno, por exemplo no povo de Israel.
+392	You see, "when a woman conceives and bears a male," precisely	Veja, "quando uma mulher conceber e der à luz um menino", justamente
+393	the one who gives birth, who brings life into the world, is more	quem dá à luz, quem traz vida ao mundo, está mais
+394	prone to this. Precisely nations that bring life into the world,	sujeito a isso. Justamente povos que trazem vida ao mundo,
+395	and if it is good for the world, more self-hatred nests inside.	e se é bom para o mundo, mais ódio a si mesmo se aninha por dentro.
+396	The people of Israel throughout all of history.	O povo de Israel ao longo de toda a história.
+397	Now also in this period it is also something very	Agora, neste período, também é algo muito
+398	significant: there is a group called auto-antisemites.	significativo: há um grupo chamado autoantissemitas.
+399	Auto-antisemites, that is self-antisemitism, Jews	Autoantissemitas, ou seja, antissemitismo de si mesmo, judeus
+400	who explain that the root of evil in the world is the people of	que explicam que a raiz do mal no mundo é o povo de
+401	Israel. Again, this is a conception that has deep	Israel. De novo, é uma concepção que tem explicações
+402	psychological explanations of self-hatred that	psicológicas profundas de ódio a si mesmo que
+403	comes from the depths, as we said, families with	vem do fundo, como dissemos, famílias com
+404	children who grew up without loving parents, and from other directions,	filhos que cresceram sem pais amorosos, e de outras direções,
+405	wanting to please the ruling culture.	querendo agradar à cultura dominante.
+406	And even today, it was at the time of the Balfour Declaration.	E mesmo hoje, foi na época da Declaração Balfour.
+407	At the time of the Balfour Declaration, Britain was	Na época da Declaração Balfour, a Grã-Bretanha era
+408	the ruling power, there was the British Jewish aristocracy,	a potência dominante, havia a aristocracia judaica britânica,
+409	there were a few Jewish families who fought tooth and nail	havia algumas famílias judias que lutaram com unhas e dentes
+410	against the Balfour Declaration. It was at such levels that	contra a Declaração Balfour. Era em níveis tais que
+411	Balfour and the other ministers in England who were for the Declaration	Balfour e os outros ministros na Inglaterra que eram a favor da Declaração
+412	were Bible lovers, yes, they were devout Christians,	eram amantes da Bíblia, sim, eram cristãos devotos,
+413	and precisely because they were devout Christians	e justamente por serem cristãos devotos
+414	they saw in the people of Israel some kind of... But those who came	viam no povo de Israel uma espécie de... Mas quem veio
+415	against were Jews: "It is forbidden to give Jews	contra foram judeus: "Não se deve dar aos judeus
+416	independence, they should stay in England," they assimilated,	independência, eles devem ficar na Inglaterra", assimilaram-se,
+417	they feared antisemitism again, which is	temiam o antissemitismo de novo, o que são
+418	a million explanations, but in depth, yes, from self-hatred.	um milhão de explicações, mas no fundo, sim, de ódio a si mesmo.
+419	Also today the crisis that now exists with the United States	Também hoje a crise que existe agora com os Estados Unidos
+420	or things like that, whoever drives things behind the scenes	ou coisas assim, quem move as coisas por trás dos bastidores
+421	is often progressive Jewish forces.	são muitas vezes forças judaicas progressistas.
+422	For this too there are studies and deep psychological explanations	Para isso também há estudos e explicações psicológicas profundas
+423	of how in the end the Jews try to destroy themselves.	de como no fim os judeus tentam destruir a si mesmos.
+424	It is such	É uma postura
+425	a stance. But	assim. Mas
+426	it penetrates even inside the people of Israel,	isso penetra até dentro do povo de Israel,
+427	inside the State of Israel. I will give you something, sit, listen, a question	dentro do Estado de Israel. Vou dar a vocês algo, sentem, escutem, uma pergunta
+428	that I received from someone who is, I say, a tzaddik, but look at the	que recebi de alguém que é, digo, um tsadik, mas vejam o
+429	form of thought. I will tell you a question; he writes	modo de pensar. Vou contar uma pergunta; ele me escreve
+430	to me like this: there was now a demonstration of all the	assim: houve agora uma manifestação de todos os
+431	anarchists who, now in wartime, weaken the IDF,	anarquistas que, agora em tempo de guerra, enfraquecem as FDI,
+432	and he writes like this, note	e ele escreve assim, reparem
+433	the words. He referred to the lesson I gave here last week	nas palavras. Ele se referiu à aula que dei aqui na semana
+434	about Parashat Shemini, where I referred to the fact	passada sobre a Parashat Shemini, em que me referi ao fato
+435	that there are people who have no shame. So someone writes me	de que há pessoas que não têm vergonha. Então alguém me escreve
+436	like this: "You said that there are people who simply hate, they have hatred,	assim: "Você disse que há pessoas que simplesmente odeiam, têm ódio,
+437	and they find a changing reason to bring it out."	e encontram um motivo que muda para pô-lo para fora."
+438	And now listen to the wording. Again, it comes from righteousness,	E agora escutem a formulação. De novo, vem de justiça,
+439	but he says: "I feel that we, as a public, perhaps should check what we	mas ele diz: "Sinto que nós, como público, talvez devêssemos verificar o que
+440	are doing wrong if they hate us like this."	estamos fazendo de errado se nos odeiam assim."
+441	This is amazing, this way of thinking, and I hear it not	Isso é impressionante, esse modo de pensar, e eu o ouço não
+442	…	…
+443	…	…
+444	…	…
+445	…	…
+446	…	…
+447	…	…
+448	…	…
+449	…	…
