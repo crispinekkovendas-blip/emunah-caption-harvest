@@ -57,11 +57,11 @@ jobs:
           path: |
             ~/.cache/huggingface
             ~/.cache/pip
-          key: kokoro-torch251-v1
+          key: kokoro-torch280-v1
       - name: Install
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg espeak-ng >/dev/null
-          python -m pip install --quiet torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install --quiet torch==2.8.0 --index-url https://download.pytorch.org/whl/cpu
           python -m pip install --quiet "kokoro>=0.9.4" soundfile numpy
           python -m spacy download en_core_web_sm -q || true
       - name: Dub
