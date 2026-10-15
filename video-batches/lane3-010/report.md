@@ -1,7 +1,7 @@
 # lane3-010
 
-15 of 16 lessons published · 0 skipped · status **pending**
-Tokens (27 agent runs with a record): 0.3M in (mostly cache) · 0.51M out · API-equivalent 5.97
+16 of 16 lessons published · 0 skipped · status **done**
+Tokens (28 agent runs with a record): 0.3M in (mostly cache) · 0.51M out · API-equivalent 5.98
 
 | lesson | state | detail |
 |---|---|---|
@@ -19,5 +19,5 @@ Tokens (27 agent runs with a record): 0.3M in (mostly cache) · 0.51M out · API
 | g6Zb1gIgEE4 | ✓ published | 1528 lines · O ouro dentro da praga: transformar a dificuldade em sucesso |
 | LdJZehF7w5g | ✓ published | 535 lines · Liderança verdadeira: o cajado de Aarão que floresceu |
 | lQMzRY21Dlo | ✓ published | 622 lines · Parashat Chukat: educar com exemplo, emoção e verdade |
-| eEf4m4y0Z6s | ✗ will be redone (try 2) | 34 lines missing |
+| eEf4m4y0Z6s | ✓ published | 42 lines · Nitsavim-Vayelech: coroar HaShem Rei no Rosh HaShaná |
 | N9fFMRLfFlg | ✓ published | 68 lines · Estou vivendo a vida que foi feita para mim? (Tzav) |
