@@ -1,7 +1,7 @@
 # lane6-003
 
-13 of 14 lessons published · 0 skipped · status **pending**
-Tokens (20 agent runs with a record): 0.2M in (mostly cache) · 0.37M out · API-equivalent 4.29
+14 of 14 lessons published · 0 skipped · status **done**
+Tokens (22 agent runs with a record): 0.2M in (mostly cache) · 0.45M out · API-equivalent 5.08
 
 | lesson | state | detail |
 |---|---|---|
@@ -16,6 +16,6 @@ Tokens (20 agent runs with a record): 0.2M in (mostly cache) · 0.37M out · API
 | oXFElm84qGI | ✓ published | 78 lines · Lech Lecha: não pare, o caminho de Avraham Avinu |
 | H_7C5bELKew | ✓ published | 49 lines · Receber os golpes com amor: a Menorá de ouro maciço |
 | DlZNaOvCVs0 | ✓ published | 750 lines · Por que de verdade guardamos Torá e mitzvot? Parashat Chukat |
-| 5XCtKS44Cnw | ✗ will be redone (try 2) | line 830 twice |
+| 5XCtKS44Cnw | ✓ published | 899 lines · Yerach ou Chodesh: renovar a vida em Elul |
 | FX9bhb3gkR4 | ✓ published | 597 lines · Shor e chamor: por que a vida nos quebra |
 | W4p-miCJfZE | ✓ published | 38 lines · Parashá Korach: família feliz e baixar expectativas |
