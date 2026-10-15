@@ -1,12 +1,12 @@
 # lane1-007
 
-22 of 25 lessons published · 2 skipped · status **pending**
-Tokens (104 agent runs with a record): 1.5M in (mostly cache) · 2.60M out · API-equivalent 31.20
+22 of 25 lessons published · 3 skipped · status **done**
+Tokens (109 agent runs with a record): 1.6M in (mostly cache) · 2.72M out · API-equivalent 32.32
 
 | lesson | state | detail |
 |---|---|---|
 | Ld0LPcDsJNM | ✓ published | 1147 lines · Que sejam milagres: como influenciamos a natureza |
-| L1UROwNzaKQ | skipped after 3 tries | 15 lines missing |
+| L1UROwNzaKQ | skipped | |
 | priXBoyKa_Y | ✓ published | 686 lines · Shlach Lecha: a geração que não acreditou |
 | nZfvnlDT6i4 | ✓ published | 910 lines · Bikurim: gratidão como combustível da alma |
 | DiWdZqUkSw0 | ✓ published | 467 lines · Ben Ish Chai, Yitro: espremer, sucos e sangue no Shabat |
@@ -23,10 +23,10 @@ Tokens (104 agent runs with a record): 1.5M in (mostly cache) · 2.60M out · AP
 | a-edvUUatHs | ✓ published | 867 lines · Pekudei: o cheshbon nefesh detalhado e a Shabat Chazak |
 | gkZlVYrSyIY | ✓ published | 1200 lines · Nissan, a Geulá e o Mashiach em Parashat Tazria |
 | zq-wQbi3cN0 | ✓ published | 1035 lines · Por que nunca estamos saciados: o justo come para saciar |
-| -Ag0YXeCJbk | skipped after 3 tries | 8 lines missing |
+| -Ag0YXeCJbk | skipped | |
 | -iBAInqwKGU | ✓ published | 673 lines · O Poder da Vontade e da Fé |
 | _TmuReRKCDY | ✓ published | 1422 lines · Elul, Parashá Ekev e o "Ani LeDodi VeDodi Li |
 | ehS8v1navTc | ✓ published | 849 lines · Desejo bom: saudade da Terra e vontade de carne |
 | Vutc2KrThEw | ✓ published | 886 lines · Shofetim: responsabilidade e a Egla Arufá |
 | CsVETG-aMSM | ✓ published | 723 lines · Kí Tavô: a intimidade entre o povo e a terra |
-| popBHbDjFAU | waiting | 3/4 parts |
+| popBHbDjFAU | skipped after 3 tries | line 225 twice |

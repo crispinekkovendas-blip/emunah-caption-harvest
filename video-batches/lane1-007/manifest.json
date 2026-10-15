@@ -2,7 +2,7 @@
  "name": "lane1-007",
  "lane": 1,
  "created": "2026-10-14T22:56:51.071Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "Ld0LPcDsJNM",
@@ -255,7 +255,7 @@
   "-iBAInqwKGU": 1,
   "ehS8v1navTc": 2,
   "Vutc2KrThEw": 1,
-  "popBHbDjFAU": 2
+  "popBHbDjFAU": 3
  },
  "done": [
   "Ld0LPcDsJNM",
@@ -283,6 +283,7 @@
  ],
  "skipped": [
   "L1UROwNzaKQ",
-  "-Ag0YXeCJbk"
+  "-Ag0YXeCJbk",
+  "popBHbDjFAU"
  ]
 }
