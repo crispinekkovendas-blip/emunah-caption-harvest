@@ -26,7 +26,9 @@ const SIZE = Number(process.argv[process.argv.indexOf('--size') + 1]) || 25
 // lanes (2026-10-11): several batches run at the same time, each owned by one lane; a batch made
 // before lanes existed belongs to lane 1
 const LANE = Number(process.argv[process.argv.indexOf('--lane') + 1]) || 1
-const CHUNK = 450
+// 2026-10-15: 450 → 120 lines per request. With 450 Claude dropped or doubled lines (119 lessons skipped
+// after 3 tries) and let the text slide up to 6 lines ahead of the Hebrew (subtitles before the voice)
+const CHUNK = 120
 const BEFORE = 12
 const SUPA = (process.env.SUPABASE_URL || '').replace(/\/$/, '')
 const H = { apikey: process.env.SUPABASE_SERVICE_KEY, authorization: `Bearer ${process.env.SUPABASE_SERVICE_KEY}` }
@@ -79,7 +81,12 @@ for (const b of batches) {
 
 // 2. otherwise the next batch
 const taken = new Set()
-for (const b of batches) for (const l of JSON.parse(fs.readFileSync(path.join(DIR, b, 'manifest.json'), 'utf8')).lessons) taken.add(l.id)
+// a lesson skipped in a batch made with the old 450-line requests gets one more chance (2026-10-15)
+for (const b of batches) {
+  const m = JSON.parse(fs.readFileSync(path.join(DIR, b, 'manifest.json'), 'utf8'))
+  const again = m.created && m.created < '2026-10-15T12:00' ? new Set(m.skipped || []) : new Set()
+  for (const l of m.lessons) if (!again.has(l.id)) taken.add(l.id)
+}
 const study = (await (await fetch(`${SITE}/data/videos/study.json`, { signal: AbortSignal.timeout(60000) })).json()).study
 
 // the week's parashá (hebcal, São Paulo) → its lessons first
