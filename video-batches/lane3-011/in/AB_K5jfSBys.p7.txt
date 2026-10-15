@@ -1,0 +1,86 @@
+videoId: AB_K5jfSBys
+parte 8 de 8 · traduzir as linhas 840 a 901 (62 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Por que a morte de Miriam foi ligada à Vaca Vermelha
+RESUMO: O rabino começa com o anúncio de escolas de pureza sagrada para meninas e com histórias sobre o ietser hará, que muda de nome a cada geração, e sobre Rabi Shmuel Salant, que foi à casa de um rico avarento para que ele não pudesse dizer no tribunal celestial que não sabia que faltava uma mikvê. Na parte central da Parashá Chukat, cita a Gemará em Moed Katan 28a, segundo a qual a morte de Miriam foi colocada junto à Vaca Vermelha para ensinar que, assim como a Vaca Vermelha, a morte dos justos expia, e o Rashi, que fala em korbanot. Pergunta por que isso é preciso, se a Midrash Pesikta Zutrata já ensina com Nadav e Avihu e Yom Kipur que a morte dos justos expia, e responde com o Tur (Orach Chaim 126), segundo o qual Mikhael oferece as almas dos justos no altar celestial. Um animal ou um cohen velho é inválido para o altar, como mostram o Rambam e o Mishné LaMelech, mas a Vaca Vermelha não é invalidada pela velhice (Rambam, Hilchot Parah Adumah), e Miriam morreu com 126 anos: a morte do justo expia em qualquer idade, como dizia o Rav Ovadia. Conclui com a Mishná em Kinim (os anciãos eruditos ganham em sabedoria), com Berachot 17a (Rabi Meir ao terminar Iyov), e com Kohelet 3:19-21, onde o espírito do homem sobe e o do animal desce.
+MOMENTOS: 01:14 O ietser hará e seus novos nomes · 04:26 O nome atual: os tempos mudaram · 07:01 Rabi Shmuel Salant e a mikvê em Jerusalém · 12:49 Para você não ter o que responder no tribunal celestial · 14:30 O desfecho: o rico passa a dar tsedaká · 20:20 Moed Katan: a morte de Miriam e a Vaca Vermelha · 26:47 A pergunta: Nadav e Avihu já ensinam isso · 29:55 Rashi e a Vaca Vermelha chamada chatat · 32:39 O Tur: Mikhael oferece as almas dos justos · 34:43 Animal e cohen velho são inválidos para o altar · 40:01 A Vaca Vermelha não se invalida pela velhice · 42:53 Rav Ovadia: chorar mesmo aos 110 anos · 45:28 A Mishná em Kinim e os anciãos eruditos · 48:43 Berachot 17a: o fim de Iyov · 51:36 Kohelet 3: o espírito do homem sobe
+FONTES CITADAS: 02:00 Bereshit 8:21 · 05:35 Midrash sobre a criação de Chavá · 05:43 Tehilim 119:89 · 20:44 Bamidbar 20:1 · 20:55 Moed Katan 28a · 21:29 Rashi em Bamidbar 20:1 · 22:50 Cheder Naê, Rabi Moshe Meir Chai Elikim · 23:17 Halichot Shevá, Rabi Shimon Ochion · 26:18 Sha'ar Asher Kubo e Derash Avraham, Rabi Nissim Avraham Ashkenazi · 27:36 Pesikta Zutrata, Acharê Mot 16:1 · 29:41 Bamidbar 19:9 · 29:55 Rashi em Bamidbar 19:9 · 30:44 Siftê Chachamim sobre Rashi em Bamidbar 20:1 · 32:39 Tur, Orach Chaim 126 · 33:46 Menachot 110a · 33:49 Beit Yossef sobre Tur, Orach Chaim 126 · 35:39 Rambam, Hilchot Issurê Mizbeach 2:6 · 36:29 Mishné LaMelech · 36:51 Rambam, Hilchot Biat Mikdash 6:2 · 37:24 Vayikra 21:17 · 40:01 Rambam, Hilchot Parah Adumah 1:1 · 41:40 Bamidbar 19:2 · 44:49 Tehilim 103:5 · 45:28 Mishná Kinim 3:6 · 45:55 Iyov 12:20 · 46:04 Iyov 12:12 · 49:56 Berachot 17a · 50:40 Kohelet 7:1 · 52:16 Kohelet 3:19 · 52:51 Kohelet 3:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|48:31|בסדר, יש לפעמים א טוב איי איי איי איי
+829|48:36|איי איי איי איי איי אני רוצה להראות לכם
+830|48:40|רבותיי לסיום
+831|48:43|שורה אחת בגמרא במסכת ברכות אם אפשר מסכת
+832|48:46|ברכות תראו איך הדבר הזה
+833|48:51|ממש מסוכם מה שדיברנו עכשיו בלשון של
+834|48:54|הגמרא במסכת ברכות ואז אז אנחנו נבין
+835|48:59|שעיקר העיקרים, העניין שמיתת צדיקים, מיתת
+836|49:03|מרים נשמחה דווקא לפרה אדומה וכולי,
+837|49:06|להשמיע לנו שהצדיקים מכפרים במיתתם גם
+838|49:09|כאשר נפטרים זקנים
+839|49:13|וזה
+
+LINHAS A TRADUZIR:
+840|49:16|אם אני אזכה לקבל מסכת ברכות. הרב לא
+841|49:19|הסברת את העניין של או הנה
+842|49:23|ישר כוח גדול. רבי משה נחשב לך כאילו הבאת
+843|49:26|גם אבל הוא הקדים אותך מה נעשה
+844|49:33|או אי
+845|49:39|אומרת הגמרא
+846|49:41|שימו לב
+847|49:48|דף יז עמוד א
+848|49:51|רבי יוחנן קאבה מסיים ספר דיוב הגרסה פה
+849|49:54|זה רבי יוחנן יש גרסה
+850|49:58|בעין יעקב כתוב אמר רבי יוחנן כי אבא
+851|50:01|מסיים רבי מאיר ספרד איוב כאשר היה מסיים
+852|50:04|רבי מאיר
+853|50:06|ספר דיוב הוא היה מסיים את ספר איוב מה
+854|50:08|הוא היה אומר אמר אחי היה אומר כך סוף אדם
+855|50:13|למות וסוף בהמה לשחיטה והכל למיטה הם
+856|50:18|עומדים אז לכאורה הם שווים בדיניהם
+857|50:23|אם הם שווים בדיניהם אז מה שאמרנו זה זקן
+858|50:28|פסול זה זקן פסול מה כתוב פה ההמשך אשרי
+859|50:32|מי שגדל בתורה ועמלו בתורה ועושה נחת רוח
+860|50:36|ליוצרו וגדל בשם טוב ונפטר בשם טוב מן
+861|50:40|העולם ועליו אמר שלומ טוב שם משמן טוב
+862|50:44|ויום המוות מיום מבתו זאת אומרת כתוב פה
+863|50:47|מפורש רבותיי סוף אדם למות וסוף בהמה
+864|50:50|לשחיטה כן והכל למיתהם עומדים אבל יש הבדל
+865|50:54|גדול ביניהם ההבדל הגדול ביניהם שאשרי מי
+866|50:57|שגדל בתורה ועמלו בתורה ועושה נחת רוח
+867|51:00|ליוצר באופן הזה הוא זוכה להתעלות
+868|51:04|ממדרגת בהמה
+869|51:07|והופך להיות במדרגת אדם
+870|51:12|אבל יש נשמה חזק וברוך וגם תדע לך אם כבר
+871|51:18|ציינת אז בספר כהלת
+872|51:22|כן, בספר כהלת בפרק ג' פסוק טוב
+873|51:27|כך.
+874|51:36|איי איי איי איי איי איי איי איי פרק ג'
+875|51:39|פסוק ט שים לב טוב
+876|51:47|הנה
+877|51:49|מה יתרון העושה בכל אשר אומר וכולי
+878|52:11|גם שלמה המלך עליו השלום
+879|52:16|הוא כותב בפסוק יט
+880|52:19|כמקרה בני אדם
+881|52:21|ומקרה הבהמה
+882|52:24|ומקרה אחד להם כמות זה כן מות זה ורוח אחד
+883|52:31|לכל
+884|52:33|ומותר האדם מן הבהמה עין כי הכל הבל הכל
+885|52:39|הולך
+886|52:41|אל מקום אחד
+887|52:43|הכל היה מן העפר
+888|52:45|והכל שו אל העפר עד כאן זה הגשמיות
+889|52:51|תראה את הפסוק הבא. מיודע רוח בני האדם,
+890|52:56|העולה היא למעלה.
+891|53:00|ורוח הבהמה
+892|53:01|היורדת היא למטה לארץ. אז לכן מכיוון שרוח
+893|53:06|הבהמה יורדת למטה לארץ הזקנה פוסלת בה.
+894|53:10|אבל רוח בני אדם שעולה למעלה
+895|53:13|אז אין זקנה בנשמה.
+896|53:16|ולכן מיתתן של צדיקים רבותיי מכפרת בכל
+897|53:21|גיל ובכל שלב ו רצון שנזכה כבר שלא נצטרך
+898|53:27|שיפתרו צדיקים ונזכה שהשם יתברך יגלה כבוד
+899|53:32|מלכותו עלינו ונראה במרה ממש
+900|53:37|ובניין ציון בירושלים בשמחה ובעגלה ובזמן
+901|53:41|קריב אמן
