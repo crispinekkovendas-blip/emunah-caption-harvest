@@ -1,15 +1,15 @@
 # lane6-002
 
-22 of 25 lessons published · 0 skipped · status **pending**
-Tokens (57 agent runs with a record): 0.7M in (mostly cache) · 1.48M out · API-equivalent 17.38
+23 of 25 lessons published · 2 skipped · status **done**
+Tokens (64 agent runs with a record): 0.8M in (mostly cache) · 1.70M out · API-equivalent 19.64
 
 | lesson | state | detail |
 |---|---|---|
 | Vh8ws6WlzO4 | ✓ published | 761 lines · Bnot Tzlofchad e a Torá feminina em círculos |
 | UvcGIpmpfHo | ✓ published | 1013 lines · Entre a soberba e o desespero: o conselho a Caim |
 | G-y1R4TSVHw | ✓ published | 508 lines · Os três estágios do pecado dos espiões |
-| 0geNqI-_8B4 | ✗ will be redone (try 2) | line 450 twice |
-| e8TMuDMA9_E | ✗ will be redone (try 2) | bad line "409	and see you next week. [Music]	e até a semana " |
+| 0geNqI-_8B4 | skipped after 3 tries | line 450 twice |
+| e8TMuDMA9_E | ✓ published | 409 lines · Parashá Ekev: o perigo do sucesso e a gratidão |
 | W4dUgO8ywGo | ✓ published | 610 lines · Como não deixar o Judaísmo virar rotina: o fogo de Yitro |
 | 0fEfssZDKv4 | ✓ published | 730 lines · Serenidade interior: Yaakov sentou entre os cães |
 | 0zgF7b60fSY | ✓ published | 71 lines · Parashat Ekev para crianças: gratidão e humildade |
@@ -22,7 +22,7 @@ Tokens (57 agent runs with a record): 0.7M in (mostly cache) · 1.48M out · API
 | 0PW3oQkZsug | ✓ published | 1140 lines · Fé, hitbodedut e o cálculo da alma antes de Pessach |
 | 2Pt2eQJb8_I | ✓ published | 561 lines · As quatro etapas de Adam: da dor à entrega a HaShem |
 | G3Psk0986vE | ✓ published | 581 lines · Parashá Korach: ouvir a voz interior da alma |
-| Rv-NFZ9LOE4 | ✗ will be redone (try 2) | line 450 twice |
+| Rv-NFZ9LOE4 | skipped after 3 tries | 11 lines missing |
 | KFm_twMrmIY | ✓ published | 228 lines · Por que precisamos de Yom Kipur além da teshuvá |
 | NJM2FHm0Las | ✓ published | 87 lines · Haftará de Behar-Bechukotai: em quem você confia |
 | s9-tCK5qPLE | ✓ published | 440 lines · Ki Tetsê e Ki Tavô: trabalho e recompensa unidos |
