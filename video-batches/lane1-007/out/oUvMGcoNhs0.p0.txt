@@ -1,0 +1,450 @@
+0	By the way, you can also jump in, no, later I'll	A propósito, você também pode entrar, não, depois eu
+1	jump in to all of you now, come on, come on	entro com todos vocês agora, vamos, vamos
+2	Anyone who wants to	Quem quiser
+3	What, what	O quê, o quê
+4	What do we do in addition to this	O que fazemos além disso
+5	Hello, we're here, the food will be tasty, I'm telling you	Olá, estamos aqui, a comida vai estar gostosa, estou dizendo
+6	I'm telling you, we're so spoiled, we haven't eaten here for weeks, bro, it's fine	Estou dizendo, estamos tão mimados, faz semanas que não comemos aqui, irmão, tudo bem
+7	Look at me, we won't be here at the maamar, we	Olhe para mim, não estaremos aqui no maamar, nós
+8	will arrive and find it ready, if we're here	chegaremos e vamos encontrá-lo pronto, se estivermos aqui
+9	at the maamar we'll arrive and find it ready now	no maamar chegaremos e vamos encontrá-lo pronto agora
+10	You opened your mouth, bro, you took on reality, bro	Você abriu a boca, irmão, você enfrentou a realidade, irmão
+11	Okay	Certo
+12	Shaar HaYichud VeHaEmuná	Shaar HaYichud VeHaEmuná
+13	Let's review a bit the lines we began yesterday and continue.	Vamos rever um pouco as linhas que começamos ontem e continuar.
+14	This is the second part of the book of Tanya.	Esta é a segunda parte do livro do Tanya.
+15	In this part the Alter Rebe explains to us emunah,	Nesta parte o Alter Rebe nos explica a emuná,
+16	according to the Tanya, according to Chassidut. Faith in HaShem exists	segundo o Tanya, segundo o Chassidut. A fé em HaShem existe
+17	since Avraham Avinu. Faith in HaKadosh	desde Avraham Avinu. A fé em HaKadosh
+18	Baruch Hu is not an innovation of Chassidut,	Baruch Hu não é uma novidade do Chassidut,
+19	but in the way of Chassidut, to everything it gives	mas, ao modo do Chassidut, a tudo ela dá
+20	light and life.	luz e vida.
+21	The same with the mitzvah of Yichud,	O mesmo com a mitsvá do Yichud,
+22	the mitzvah called Shema Yisrael HaShem Elokeinu HaShem	a mitsvá chamada Shemá Yisrael HaShem Elokeinu HaShem
+23	Echad. We say it twice a day, morning and evening,	Echad. Nós a dizemos duas vezes por dia, de manhã e à noite,
+24	to know that HaKadosh Baruch Hu is one. And here too	para saber que HaKadosh Baruch Hu é um. E aqui também
+25	we will see that according to the Tanya we have a new understanding	veremos que, segundo o Tanya, temos uma nova compreensão
+26	of this mitzvah, and with the help of HaShem also a new understanding.	dessa mitsvá, e com a ajuda de HaShem também uma nova compreensão.
+27	Every morning and evening when we say Shema Yisrael,	Toda manhã e noite, quando dissermos Shemá Yisrael,
+28	we have what to contemplate.	teremos o que contemplar.
+29	As is known, "Shema"	Como se sabe, "Shemá"
+30	does not just mean "hear",	não é apenas "ouvir",
+31	but "listen and understand".	mas "escutar e compreender".
+32	One must understand	É preciso compreender
+33	a little of the Zohar.	um pouco do Zohar.
+34	The Alter Rebe says: I want to understand a little of the Zohar.	O Alter Rebe diz: quero compreender um pouco do Zohar.
+35	The introduction. What is written in the Zohar.	A introdução. O que está escrito no Zohar.
+36	A little of the Zohar, that's little.	Um pouco do Zohar, isso é pouco.
+37	A little of the Zohar, really very, very little.	Um pouco do Zohar, mesmo muito, muito pouco.
+38	What is written in the Zohar: "Shema Yisrael kulo yichuda ila'a."	O que está escrito no Zohar: "Shemá Yisrael kulo yichuda ilá'a".
+39	The Zohar says that when we say the verse Shema Yisrael,	O Zohar diz que, quando dizemos o versículo Shemá Yisrael,
+40	this is the upper Yichud, the higher Yichud.	este é o Yichud superior, o Yichud mais elevado.
+41	And "Baruch Shem Kevod Malchuto leolam vaed" is a Yichud	E "Baruch Shem Kevod Malchuto leolam vaed" é um Yichud
+42	too, the lower Yichud, the lesser Yichud.	também, o Yichud inferior, o Yichud mais baixo.
+43	In general it is known that "Baruch Shem Kevod Malchuto leolam vaed"	Em geral sabe-se que "Baruch Shem Kevod Malchuto leolam vaed"
+44	is, in several respects, considered just like Shema Yisrael,	é, em vários aspectos, considerado igual ao Shemá Yisrael,
+45	as if it were really one part, one structure.	como se fosse realmente uma só parte, uma só estrutura.
+46	But still there is a difference: Shema Yisrael is	Mas ainda assim há uma diferença: Shemá Yisrael é
+47	the upper Yichud and Baruch Shem is the lower Yichud. What	o Yichud superior e Baruch Shem é o Yichud inferior. O que
+48	does it mean, upper Yichud and lower Yichud? This	significa Yichud superior e Yichud inferior? Isso
+49	the Zohar does not explain.	o Zohar não explica.
+50	And this is what the Alter Rebe wants to explain to us through	E isso o Alter Rebe quer nos explicar por meio
+51	the chapters before us.	dos capítulos que temos diante de nós.
+52	He doesn't explain what the upper Yichud and lower Yichud are, right? He will explain.	Ele não explica o que são o Yichud superior e o inferior, certo? Ele vai explicar.
+53	Not right now. The Zohar doesn't explain. Right.	Não agora. O Zohar não explica. Isso.
+54	Yes.	Sim.
+55	Chapter 1. The Baal HaTanya begins: "Veyadaata haiom vahashevota	Capítulo 1. O autor do Tanya começa: "Veyadaata haiom vahashevota
+56	el levavecha."	el levavecha".
+57	The Alter Rebe opens with a verse,	O Alter Rebe abre com um versículo,
+58	a verse that we say every day in prayer:	um versículo que dizemos todos os dias na oração:
+59	"Veyadaata haiom vahashevota el levavecha, ki HaShem hu	"Veyadaata haiom vahashevota el levavecha, ki HaShem hu
+60	HaElokim,	HaElokim,
+61	bashamayim mima'al	nos céus acima
+62	ve'al ha'aretz mitachat."	e na terra abaixo".
+63	We must understand something that is not understandable in this verse.	Precisamos entender algo que não é compreensível neste versículo.
+64	Would it enter your mind	Passaria pela sua cabeça
+65	that there is another deity, yes, I add the word "another",	que há outra divindade, sim, acrescento a palavra "outra",
+66	hidden in the waters under the earth?	escondida nas águas debaixo da terra?
+67	Why does it need to warn so strongly with these words?	Por que é preciso advertir tanto com essas palavras?
+68	In the simple sense, what is the Torah speaking about, what does it	No sentido simples, de que a Torá está falando, o que ela
+69	ask of us to know?	nos pede para saber?
+70	And not only to know, but also to bring back to the heart.	E não só saber, mas também fazer voltar ao coração.
+71	The Torah uses the expression "vahashevota el levavecha," which is	A Torá usa a expressão "vahashevota el levavecha", que é
+72	like: convince the heart, convince yourself, put it into	como: convença o coração, convença a si mesmo, ponha isso
+73	the heart. That means the heart refuses	no coração. Isso quer dizer que o coração se recusa
+74	to accept this. But in any case, convince the heart that	a aceitar isso. Mas, de qualquer modo, convença o coração de que
+75	HaShem is HaElokim in the heavens above and on the earth	HaShem é HaElokim nos céus acima e na terra
+76	below.	abaixo.
+77	The Alter Rebe: what must be understood? Would anyone even think	O Alter Rebe: o que é preciso entender? Alguém chegaria sequer a pensar
+78	that there is another deity?	que há outra divindade?
+79	Hiding somewhere under the heavens,	Escondida em algum lugar debaixo dos céus,
+80	or somewhere in the heavens hiding yet another divine being,	ou em algum lugar nos céus, escondido mais um ser divino,
+81	another creator, a maker?	outro criador, outro formador?
+82	…	…
+83	Why does it need to warn so much?	Por que é preciso advertir tanto?
+84	And the truth is, I will expand on this,	E a verdade é que vou aprofundar isso,
+85	this is actually a question on Shema Yisrael. What are we	isso é, na verdade, uma pergunta sobre o Shemá Yisrael. A que nos
+86	pointing to when we say that HaShem is one? In the simple sense	referimos quando dizemos que HaShem é um? No sentido simples
+87	it means HaShem is one and there are not two or three.	quer dizer que HaShem é um e não dois ou três.
+88	So for this one has to close the eyes morning and evening?	Então para isso é preciso fechar os olhos de manhã e à noite?
+89	This is what the Torah means, this is the mitzvah of Shema Yisrael,	É isso que a Torá quer dizer, é a mitsvá do Shemá Yisrael,
+90	the mitzvah of Yichud. Does anyone even think	a mitsvá do Yichud. Alguém chega a pensar
+91	such a thing? Does anyone struggle with such a doubt, maybe two	numa coisa dessas? Alguém luta com uma dúvida dessas, talvez dois
+92	or three, that the Torah must warn so much, and that	ou três, a ponto de a Torá precisar advertir tanto, e de que
+93	this has to be read every morning and evening?	isso precise ser lido toda manhã e toda noite?
+94	So the point that will come, what will be	Então o ponto que virá, qual será
+95	the point of the answer,	o ponto da resposta,
+96	is that this is not the intention at all.	é que não é essa a intenção, de modo nenhum.
+97	What is the Torah warning so strongly about, "vahashevota el levavecha" that HaShem is	Sobre o que a Torá adverte tanto, "vahashevota el levavecha", que HaShem é
+98	HaElokim, heavens above, earth below? It's not that there is no	HaElokim, céus acima, terra abaixo? Não é que não haja
+99	other creator,	outro criador,
+100	there is none besides Him.	não há outro além Dele.
+101	It's that what I see, the heavens and the earth, and in my sight	É que o que eu vejo, os céus e a terra, e na minha visão
+102	it is a reality.	isso é uma realidade.
+103	A separate reality. Even though I know that HaKadosh	Uma realidade separada. Ainda que eu saiba que HaKadosh
+104	Baruch Hu created the heavens, and even though I know	Baruch Hu criou os céus, e ainda que eu saiba
+105	that HaKadosh Baruch Hu is the only one who gives life and sustains,	que HaKadosh Baruch Hu é o único que dá vida e sustenta,
+106	still, in my sensation,	ainda assim, na minha sensação,
+107	and in my feeling,	e no meu sentimento,
+108	and even in a kind of my intellect, I feel certain	e até num certo tipo do meu intelecto, eu sinto algumas
+109	separate things.	coisas separadas.
+110	And therefore the Torah warns, and for this one has to close	E por isso a Torá adverte, e para isso é preciso fechar
+111	the eyes morning and evening and say to myself again and again:	os olhos de manhã e à noite e dizer a mim mesmo vezes sem conta:
+112	know, Shema Yisrael, listen, Efraim, listen to yourself,	saiba, Shemá Yisrael, escute, Efraim, escute a si mesmo,
+113	that HaShem Elokeinu, HaShem Elokeinu, HaShem is one, there is only one	que HaShem Elokeinu, HaShem Elokeinu, HaShem é um, existe uma só
+114	reality. But saying it in the morning is not enough, because	realidade. Mas dizer isso de manhã não basta, porque
+115	when I open my eyes I see that there is this one,	quando abro os olhos vejo que há este,
+116	and that one, and that one, and that one, and that one.	e aquele, e aquele, e aquele, e aquele.
+117	Certainly, and all the more so if someone annoys me, then	Com certeza, e ainda mais se alguém me irrita, então
+118	I really need to say it. So how can one truly understand? First of all, this:	eu realmente preciso dizer. Então como é possível entender de verdade? Primeiro, isto:
+119	to understand	entender
+120	that all of reality is one thing with HaShem, because it	que toda a realidade é uma só coisa com HaShem, porque
+121	is not enough that HaShem created it, it is not enough that HaShem	não basta que HaShem a tenha criado, não basta que HaShem
+122	gives it life, that still doesn't make it into one	lhe dê vida, isso ainda não faz dela uma
+123	reality.	só realidade.
+124	It is not enough to understand that HaKadosh Baruch Hu created	Não basta entender que HaKadosh Baruch Hu criou
+125	the world. Many people can believe that HaKadosh	o mundo. Muita gente pode acreditar que HaKadosh
+126	Baruch Hu created the world, but the world is	Baruch Hu criou o mundo, mas o mundo é
+127	a separate reality.	uma realidade separada.
+128	It already exists. Wait, so the point you're saying is that it is not	Ele já existe. Espere, então o ponto que você diz é que ele não é
+129	a separate reality? Nice, so for that an explanation is needed.	uma realidade separada? Bonito, então para isso é preciso uma explicação.
+130	That everything is HaKadosh Baruch Hu. And saying these words doesn't help to	Que tudo é HaKadosh Baruch Hu. E dizer essas palavras não ajuda a
+131	make it understood.	fazer entender isso.
+132	You have to prove it, explain it first,	É preciso prová-lo, explicá-lo primeiro,
+133	that what is one is everything.	que aquilo que é um é tudo.
+134	That everything is Him.	Que tudo é Ele.
+135	As I said yesterday, that one thing depends on another	Como eu disse ontem, que uma coisa dependa de outra
+136	does not make them one reality. As I said,	não faz delas uma só realidade. Como eu disse,
+137	the example I gave: just as a person cannot	o exemplo que dei: assim como uma pessoa não pode
+138	exist without water,	existir sem água,
+139	he isn't called water. Nice, 70% of the human body is fluids.	ela não se chama água. Bonito, 70% do corpo humano é líquido.
+140	But ice.	Mas gelo.
+141	But a person is not called water, and nobody looks at a person and says: here is water, here is water, nobody	Mas a pessoa não se chama água, e ninguém olha para uma pessoa e diz: aqui está água, aqui está água, ninguém
+142	says such a thing, even though everyone knows	diz uma coisa dessas, ainda que todos saibam
+143	that without water he can't live. So that without water I	que sem água ele não vive. Então o fato de que sem água eu
+144	can't exist does not make me a reality	não posso existir não me torna uma realidade
+145	of water. I am still a reality completely separate from water.	de água. Eu continuo sendo uma realidade totalmente separada da água.
+146	And here comes	E aqui vem
+147	here comes the	aqui vem a
+148	novelty in the relationship between the world and HaKadosh	novidade na relação entre o mundo e HaKadosh
+149	Baruch Hu. The dependence is much stronger.	Baruch Hu. A dependência é muito mais forte.
+150	What? What? To be dependent.	O quê? O quê? Ser dependente.
+151	No. The world's dependence on the divine force is not only	Não. A dependência do mundo em relação à força divina não é só
+152	that without it, it cannot exist.	que sem ela ele não pode existir.
+153	The whole world stands only as long as	O mundo inteiro só se mantém enquanto
+154	…	…
+155	it is not just that, but rather that at every moment HaKadosh Baruch	não é só isso, mas sim que a cada instante HaKadosh Baruch
+156	Hu, with His words, creates the world anew.	Hu, com as Suas palavras, cria o mundo de novo.
+157	So let's see. Here it is written, by the way,	Então vamos ver. Aqui está escrito, a propósito,
+158	about the Yichud.	sobre o Yichud.
+159	This is what is meant by the mitzvah of Yichud. This is the whole mitzvah of	É isso que se quer dizer com a mitsvá do Yichud. É toda a mitsvá do
+160	Yichud. The mitzvah of Yichud is really to understand that everything	Yichud. A mitsvá do Yichud é, na verdade, entender que tudo
+161	is one.	é um.
+162	That is the mitzvah of Yichud. But which mitzvah of Yichud do you mean?	Essa é a mitsvá do Yichud. Mas a qual mitsvá do Yichud você se refere?
+163	Shema Yisrael HaShem Elokeinu HaShem Echad.	Shemá Yisrael HaShem Elokeinu HaShem Echad.
+164	Also in the mitzvah of Yichud, people.	Também na mitsvá do Yichud, as pessoas.
+165	No, no. Ah, in emunah it is Baruch Shem.	Não, não. Ah, na emuná é Baruch Shem.
+166	So when you say mitzvat HaYichud you mean only	Então, quando vocês dizem mitsvat HaYichud, querem dizer só
+167	Shema Yisrael HaShem Elokeinu. That is called a	Shemá Yisrael HaShem Elokeinu. Isso se chama uma
+168	mitzvah. I can tell you that this maamar moves	mitsvá. Posso dizer que este maamar me
+169	me.	emociona.
+170	It's very moving. Truly one can. Emunah is not at the level	É muito comovente. De fato, dá para. A emuná não está no nível
+171	of every yeshiva bachur,	de todo rapaz de yeshivá,
+172	it is an asset to learn Shaar HaEmunah, at least the first	é um tesouro estudar o Shaar HaEmuná, pelo menos os primeiros
+173	chapters, and to know them. For me, my mission, the concepts are more or less familiar,	capítulos, e conhecê-los. Para mim, minha missão, os conceitos são mais ou menos conhecidos,
+174	in part.	em parte.
+175	But to know the chapter, because what will sustain all the knowledge, this knowledge	Mas conhecer o capítulo, porque o que sustentará todo o conhecimento, esse conhecimento
+176	slowly becomes weaker and weaker with life, however much	aos poucos se torna cada vez mais fraco com a vida, por mais que
+177	I learned Chassidut and I know there is none besides Him,	eu tenha estudado Chassidut e saiba que não há nenhum além Dele,
+178	slowly my mind has a very strong tendency,	aos poucos minha mente tem uma tendência muito forte,
+179	there is a force in that.	há uma força nisso.
+180	The way to deal with it is to read these chapters	A maneira de lidar com isso é ler esses capítulos
+181	again and again. I know a serious Chasid who reads this	vezes sem conta. Conheço um chassid sério que lê isto
+182	every day before prayer.	todo dia antes da oração.
+183	Chapter 1.	Capítulo 1.
+184	Every day, for eight, I'm telling you, years.	Todo dia, há oito, estou lhe dizendo, anos.
+185	Every day he reads it.	Todo dia ele lê isso.
+186	And he reads it in a way	E ele lê de um jeito
+187	…	…
+188	Yes, he knows it in a way that one cannot	Sim, ele sabe isso de um jeito que não dá para
+189	have the patience to read it again and again.	ter paciência de ler isso vezes sem conta.
+190	We read it twice.	Nós lemos duas vezes.
+191	Ah, he already knows it. Of course he knows it by heart.	Ah, ele já sabe. Claro que sabe de cor.
+192	Ah,	Ah,
+193	like chapter 39.	como o capítulo 39.
+194	So let's see now what the upper Yichud	Então vamos ver agora o que são o Yichud superior
+195	and the lower Yichud are, and how we bring this back	e o Yichud inferior, e como fazemos isso voltar
+196	to the heart: in the heavens above and the earth below. Here	ao coração: nos céus acima e na terra abaixo. Aqui
+197	it is written.	está escrito.
+198	Here it is written.	Aqui está escrito.
+199	According to …	Segundo …
+200	this verse, they would say that this	este versículo, diriam que isto
+201	Although I can tell you that today,	Embora eu possa dizer que hoje,
+202	what is written in Shaar HaEmunah, every Jew knows that HaShem is	o que está escrito no Shaar HaEmuná, todo judeu sabe que HaShem é
+203	Elokim.	Elokim.
+204	Even someone who didn't learn Tanya is very influenced by this.	Mesmo quem não estudou Tanya é muito influenciado por isso.
+205	It changed the world; it is an issue in itself to understand	Isso mudou o mundo; é uma questão em si entender
+206	how this happened.	como isso aconteceu.
+207	But it has already penetrated the reality of the world to such a degree	Mas isso já penetrou na realidade do mundo a tal ponto
+208	that even someone who doesn't read it from here, it is already clear to him	que mesmo quem não lê isso daqui, já lhe é claro
+209	that it is so.	que é assim.
+210	There is a concept that when you bring down	Há um conceito de que, quando se traz para baixo
+211	something to the level of intellect, and work on it, use it	algo ao nível do intelecto, e se trabalha nisso, se usa isso
+212	and contemplate it, in the end it changes reality,	e se contempla isso, no fim isso muda a realidade,
+213	so that a person can now be born in Mexico, a gentile,	de modo que uma pessoa pode agora nascer no México, um gentio,
+214	and not hear any Jew, and it is immediately clear to him	e não ouvir nenhum judeu, e imediatamente lhe é claro
+215	that it is so, and this is a result	que é assim, e isso é resultado
+216	of our having labored to learn this. There is	de termos nos esforçado para estudar isso. Há
+217	proof of this in Chazal, I'm not saying this for nothing,	prova disso em Chazal, não digo isso à toa,
+218	also scientific proof.	e também prova científica.
+219	There are several patents	Há várias patentes
+220	that turn out to have been invented by one person in one	que, ao que parece, foram inventadas por uma pessoa em um
+221	place in the world, and simultaneously suddenly many people	lugar do mundo e, ao mesmo tempo, de repente muita gente
+222	know it. If there is such a phenomenon, the	sabe. Se existe um fenômeno assim, o
+223	…	…
+224	No, there's no explanation for it.	Não, não há explicação para isso.
+225	Are you talking about all of Tanya, or only all the things? All the things.	Você fala de todo o Tanya ou só de todas as coisas? Todas as coisas.
+226	No, that's not what it's called, as it were.	Não, não é assim que se chama, por assim dizer.
+227	No, it's not that effect, it's something else: it's that	Não, não é esse efeito, é outra coisa: é que
+228	a person brought it down into the world of intellect,	uma pessoa trouxe isso para o mundo do intelecto,
+229	innovated something, and suddenly people in another place	inovou algo, e de repente pessoas em outro lugar
+230	read, say, the same text that wasn't understood,	leem, digamos, o mesmo texto que não era compreendido,
+231	and immediately understand it as he said.	e entendem imediatamente como ele disse.
+232	Rav, it's like that, right? You know in the time of	Rav, é assim, certo? Você sabe, no tempo de
+233	Suddenly it's as if it came down into the reality of the world, as if it's	De repente é como se tivesse descido para a realidade do mundo, como se fosse
+234	There's a story, I'll tell the story. There's a story.	Há uma história, vou contar a história. Há uma história.
+235	This is from the Beit Yosef, 500 years ago, one of the greatest	É do Beit Yosef, há 500 anos, um dos maiores
+236	... who wrote the Shulchan Aruch, they called him the Beit	... que escreveu o Shulchan Aruch, chamavam-no de Beit
+237	Yosef.	Yosef.
+238	Yosef Karo. He would learn Torah day and night. He	Yosef Karo. Ele estudava Torá dia e noite. Ele
+239	wrote for us the Shulchan Aruch, the Beit Yosef on	escreveu para nós o Shulchan Aruch, o Beit Yosef sobre
+240	the Rambam. He was also a great kabbalist, he also had a thing	o Rambam. Era também um grande cabalista, também tinha um
+241	and he wrote in a book that he would struggle with	e ele escreveu num livro que tinha dificuldade com
+242	questions. At night he would ask the Maggid from	perguntas. De noite ele perguntava ao Maggid vindo
+243	Heaven, he had an angel who would	do Céu, ele tinha um anjo que
+244	answer him, and he would receive answers from him. There's a book	lhe respondia, e ele recebia respostas dele. Há um livro
+245	called Maggid Meisharim.	chamado Maggid Meisharim.
+246	Once he labored very hard on a certain	Uma vez ele se esforçou muito numa certa
+247	sugya and really had difficulty. He asks the Maggid, he	sugyá e teve realmente dificuldade. Ele pergunta ao Maggid, ele
+248	received an answer.	recebeu uma resposta.
+249	The next morning,	Na manhã seguinte,
+250	he goes to the synagogue, prays Shacharit, he sees	ele vai à sinagoga, reza Shacharit, vê
+251	a simple Jew learning the same passage, and he asks	um judeu simples estudando a mesma passagem, e ele pergunta
+252	the same question he had difficulty with yesterday, and the Jew	a mesma pergunta com a qual teve dificuldade ontem, e o judeu
+253	immediately says the answer the Maggid told him.	diz imediatamente a resposta que o Maggid lhe disse.
+254	Something! The Beit Yosef labored so hard and didn't succeed,	Que coisa! O Beit Yosef se esforçou tanto e não conseguiu,
+255	and it was revealed to him from Heaven, and a simple person sits reading	e foi-lhe revelado do Céu, e uma pessoa simples senta lendo
+256	and immediately understands. So the Beit Yosef's spirit fell,	e entende imediatamente. Então o ânimo do Beit Yosef desabou,
+257	he says: apparently I don't know how to learn Torah, I don't	ele diz: pelo visto não sei estudar Torá, não
+258	know what's happening to me. And he asked about this afterwards,	sei o que está acontecendo comigo. E ele perguntou isso depois,
+259	at night, of the Maggid from Heaven: how can it be	à noite, ao Maggid do Céu: como pode ser
+260	that I labor so hard and an answer has to be revealed to me from	que eu me esforço tanto e uma resposta precisa me ser revelada do
+261	Heaven, when a simple person, after I see	Céu, enquanto uma pessoa simples, depois de eu ver
+262	him ask, doesn't know how to learn? And then what did	que ele pergunta, não sabe estudar? E então o que
+263	the Maggid tell him? That it's because of your effort, because you	o Maggid lhe disse? Que é por causa do seu esforço, porque você
+264	labored so hard, in your merit it came down to the world of understanding.	se esforçou tanto, por seu mérito isso desceu ao mundo da compreensão.
+265	That is, there is a reality called the world of intellect,	Ou seja, existe uma realidade chamada mundo do intelecto,
+266	and something changed in the world. He didn't hear it from the Beit	e algo mudou no mundo. Ele não ouviu isso do Beit
+267	Yosef, he didn't learn it from the Maggid from Heaven,	Yosef, não aprendeu isso do Maggid do Céu,
+268	but it's as if it became understood that it is so.	mas é como se tivesse se tornado compreendido que é assim.
+269	There are many things that the Baal Shem Tov innovated, like here,	Há muitas coisas que o Baal Shem Tov inovou, como aqui,
+270	and today I tell you seriously, a person who didn't	e hoje eu lhes digo com seriedade, uma pessoa que nunca
+271	open Chassidut,	abriu o Chassidut,
+272	which once was a groundbreaking innovation, he	que antes era uma inovação revolucionária, ele
+273	will tell you: what's the novelty in that, it's clear that it's so.	lhe dirá: qual é a novidade nisso, é claro que é assim.
+274	Hashgachah pratit, that the world …	Hashgachá pratit, que o mundo …
+275	concepts. Someone knows that historically the world	conceitos. Alguém sabe que, historicamente, o mundo
+276	Jewish, as you say, never thought like that	judaico, como você diz, nunca pensou assim
+277	and thought otherwise, and suddenly it became as if	e pensava diferente, e de repente tornou-se como se
+278	it were the ABC of emunah and Judaism. What, you,	fosse o ABC da emuná e do judaísmo. O quê, você,
+279	what did the Baal Shem Tov innovate, what nonsense, Baal Shem Tov,	o que o Baal Shem Tov inovou, que bobagem, Baal Shem Tov,
+280	you innovated the ABC of Judaism.	você inovou o ABC do judaísmo.
+281	I never learned the Baal Shem Tov, I	Eu nunca estudei o Baal Shem Tov, eu
+282	know it like this, it's clear to me that it's so, it is	sei assim, é claro para mim que é assim, é
+283	the meaning of "Yafutsu maayanotecha chutsa," it is the body of Chassidut.	o sentido de "Yafutsu maayanotecha chutsa", é o corpo do Chassidut.
+284	But it is thanks to our effort. The more	Mas é graças ao nosso esforço. Quanto mais
+285	we labor, the more we will understand the greatness of	nos esforçarmos, mais entenderemos a grandeza do
+286	the meaning of learning,	significado do estudo,
+287	of Torah learning that comes down to the human intellect, that a person	do estudo de Torá que desce ao intelecto humano, que uma pessoa
+288	succeeds in understanding something well, it changes something	consegue entender bem algo, isso muda algo
+289	in the reality of the world.	na realidade do mundo.
+290	My human intellect, as a person, is like	Meu intelecto humano, como pessoa, é como
+291	some kind of source code of reality.	uma espécie de código-fonte da realidade.
+292	It is the computer room of the world.	É a sala de computadores do mundo.
+293	My thoughts. My understanding.	Meus pensamentos. Minha compreensão.
+294	My wisdom.	Minha sabedoria.
+295	Here it is written:	Aqui está escrito:
+296	Here it is written: "Leolam HaShem devarcha nitsav bashamayim."	Aqui está escrito: "Leolam HaShem devarcha nitsav bashamayim".
+297	The Baal Shem Tov, of blessed memory, on this verse.	O Baal Shem Tov, de abençoada memória, sobre este versículo.
+298	The Baal Shem Tov explained this verse in a special way,	O Baal Shem Tov explicou este versículo de um modo especial,
+299	this verse.	este versículo.
+300	What is the explanation? "HaShem, Your word stands in the heavens," because Your word	Qual é a explicação? "HaShem, a Tua palavra está firme nos céus", porque a Tua palavra
+301	that You said, "Let there be a firmament in the midst of the waters," etc.	que disseste, "Haja um firmamento no meio das águas", etc.
+302	HaKadosh Baruch Hu, when You said on the second day	HaKadosh Baruch Hu, quando disseste no segundo dia
+303	of the creation of the world,	da criação do mundo,
+304	"Let there be a firmament in the midst of the waters,"	"Haja um firmamento no meio das águas",
+305	these words and letters stand firm	essas palavras e letras permanecem firmes
+306	forever in the firmament of the heavens	para sempre no firmamento dos céus
+307	and are clothed within all the firmaments. There are not just one, there are	e estão revestidas em todos os firmamentos. Não há só um, há
+308	many firmaments in the heavens. So this ma'amar, "Let there be a firmament,"	muitos firmamentos nos céus. Então este maamar, "Haja um firmamento",
+309	which was said on the second day, these letters, this speech,	que foi dito no segundo dia, essas letras, essa fala,
+310	this ma'amar exists all the time within the heavens,	esse maamar existe o tempo todo dentro dos céus,
+311	to give life to all the firmaments. This is the explanation, once again:	para dar vida a todos os firmamentos. Essa é a explicação, mais uma vez:
+312	"Leolam HaShem devarcha	"Leolam HaShem devarcha
+313	nitsav bashamayim."	nitsav bashamayim".
+314	He said.	Ele disse.
+315	As it is written,	Como está escrito,
+316	another verse:	outro versículo:
+317	"Devar Elokeinu yakum leolam."	"Devar Elokeinu yakum leolam".
+318	His words are alive and endure forever.	As Suas palavras são vivas e permanecem para sempre.
+319	Again, all these verses are now interpreted	Mais uma vez, todos esses versículos são agora interpretados
+320	as referring to the Maamarot of the six days of Creation, not to the mitzvot	como referentes aos Maamarot dos seis dias da Criação, não às mitsvot
+321	and not to the Torah, as these	e não à Torá, como em geral se interpretam
+322	verses are usually interpreted. But the Baal Shem Tov interprets it as referring to	esses versículos. Mas o Baal Shem Tov os interpreta como referentes à
+323	the first speech that HaKadosh Baruch Hu spoke. This is	primeira fala que HaKadosh Baruch Hu falou. Essa é
+324	the speech that is eternal, that forever stands firm.	a fala que é eterna, que permanece firme para sempre.
+325	What is the meaning of the fact that this speech is constantly	Qual é o significado de que essa fala esteja constantemente
+326	standing firm in the heavens?	firme nos céus?
+327	As if the letters were to withdraw now, Heaven forbid,	Como se as letras se retirassem agora, que não permita HaShem,
+328	and return to their source,	e voltassem à sua fonte,
+329	all the heavens would be	todos os céus seriam
+330	truly nothing and naught,	verdadeiramente nada e zero,
+331	and as if they had never been at all,	e como se nunca tivessem existido,
+332	as before the ma'amar "Let there be a firmament," truly.	como antes do maamar "Haja um firmamento", de verdade.
+333	This is what we spoke about,	É disso que falamos,
+334	what does it mean when you say, if it were not	o que significa quando você diz, se não fosse
+335	Wait, but before the depth, first of all the	Espere, mas antes da profundidade, primeiro o
+336	simple meaning of the words.	sentido simples das palavras.
+337	If the letters, the speech, were to stop,	Se as letras, a fala, parassem,
+338	then the heavens too would stop existing, just as	então os céus também deixariam de existir, assim como
+339	in the first moment the heavens were created and came to exist from	no primeiro momento os céus foram criados e passaram a existir do
+340	nothing.	nada.
+341	From nothing to something by means of speech, something that continues to happen every	Do nada ao ser por meio da fala, algo que continua acontecendo a cada
+342	moment. As we say in prayer, "who in His goodness renews	instante. Como dizemos na oração, "que em Sua bondade renova
+343	every day, always, the work of creation."	todos os dias, continuamente, a obra da criação".
+344	But if it were to stop, all the heavens would truly become nothing	Mas se parasse, todos os céus se tornariam verdadeiramente nada
+345	and would be as if they had never been, as before the ma'amar "Let there be a firmament,"	e seriam como se nunca tivessem existido, como antes do maamar "Haja um firmamento",
+346	truly. And it's not only now; the Baal Shem Tov	de verdade. E não é só agora; o Baal Shem Tov
+347	said this about the firmament,	disse isso sobre o firmamento,
+348	on the verse "Leolam HaShem devarcha nitsav bashamayim." And the	sobre o versículo "Leolam HaShem devarcha nitsav bashamayim". E o
+349	Alter Rebe says it is not only the ma'amar "Let there be a firmament," but also	Alter Rebe diz que não é só o maamar "Haja um firmamento", mas também
+350	in all the creations in all the worlds,	em todas as criaturas em todos os mundos,
+351	upper and lower.	superiores e inferiores.
+352	Also what was created on the third day, there too there is a ma'amar:	Também o que foi criado no terceiro dia, ali também há um maamar:
+353	"Let the waters gather," "let the dry land appear," "let the earth bring forth plants, grass,	"Ajuntem-se as águas", "apareça a terra seca", "produza a terra plantas, relva,
+354	fruit, trees." This ma'amar too is said	frutos, árvores". Esse maamar também é dito
+355	all the time. On the fourth day, on the fifth day,	o tempo todo. No quarto dia, no quinto dia,
+356	and even this physical earth,	e até esta terra física,
+357	truly would be like	de fato seria como
+358	if there were to withdraw from it now, Heaven forbid,	se se retirassem dela agora, que não permita HaShem,
+359	the letters of the ten Maamarot by which the earth was created.	as letras dos dez Maamarot pelos quais a terra foi criada.
+360	These are ten Maamarot.	São dez Maamarot.
+361	The creation of the world. The world was created by ten Maamarot, "Let there be a firmament."	A criação do mundo. O mundo foi criado por dez Maamarot, "Haja um firmamento".
+362	Kidding.	Brincadeira.
+363	The six days of Creation, yes.	Os seis dias da Criação, sim.
+364	Ten Maamarot by which the earth was created in the six days of	Dez Maamarot pelos quais a terra foi criada nos seis dias da
+365	Creation. If they were to withdraw, the earth would return	Criação. Se se retirassem, a terra voltaria
+366	to truly nothing and naught,	ao verdadeiro nada e zero,
+367	truly as before the six days of Creation.	de fato como antes dos seis dias da Criação.
+368	And note here, the Alter Rebe writes	E repare aqui, o Alter Rebe escreve
+369	that it's not only the heavens, but all the creations, upper	que não são só os céus, mas todas as criaturas, superiores
+370	and lower, and even the earth.	e inferiores, e até a terra.
+371	All of reality.	Toda a realidade.
+372	Ten Maamarot, that's everything we	Dez Maamarot, é tudo o que
+373	Right. Why does he say "even the earth"? Does he	Certo. Por que ele diz "até a terra"? Ele
+374	mean the earth, does he mean literally soil?	quer dizer a terra, quer dizer literalmente o solo?
+375	Why does the Alter Rebe say "and even the earth"	Por que o Alter Rebe diz "e até a terra"
+376	physical, the most material, also in	física, a mais material, também em
+377	You say, okay, we want to open up more	Vocês dizem: bem, queremos abrir mais
+378	what you are saying,	o que vocês estão dizendo,
+379	about the earth, the inanimate.	sobre a terra, o inanimado.
+380	Yes, he says even the earth, the inanimate. That's the point, notice	Sim, ele diz até a terra, o inanimado. Esse é o ponto, reparem
+381	why "even." There is a big reversal here.	por que "até". Há aqui uma grande reviravolta.
+382	It's also according to the order of the chain of descent, as it were, in	Isso também é segundo a ordem da cadeia de descida, por assim dizer, na
+383	the very essence of the inanimate, after all.	própria essência do inanimado, afinal.
+384	This is the simple meaning of things, I don't like peshat.	Esse é o sentido simples das coisas, eu não gosto de peshat.
+385	In the inanimate there is something.	No inanimado há algo.
+386	It is the only one	Ele é o único
+387	that does not seem to need	que não parece precisar
+388	a sustaining force. With plants it's fairly clear, that's one level	de uma força que o sustente. Com as plantas é bem claro, é um nível
+389	up from the inanimate, certainly the animal, certainly in the desert, these are things that	acima do inanimado, com certeza o animal, com certeza no deserto, são coisas que
+390	are not eternal. The tree, the flower, certainly an animal or a fish,	não são eternas. A árvore, a flor, com certeza um animal ou um peixe,
+391	needs water, needs this, needs conditions. At a certain	precisa de água, precisa disso, precisa de condições. Em certo
+392	point it dies.	momento morre.
+393	So it's clear that it exists and lives thanks to something. But	Então é claro que existe e vive graças a algo. Mas
+394	when you see a stone, a boulder,	quando você vê uma pedra, um rochedo,
+395	most of all, when you see a stone	sobretudo, quando você vê uma pedra
+396	Here is exactly the point. Right now I see	Aqui está exatamente o ponto. Agora mesmo eu vejo
+397	here a huge stone outside. Nonsense, doesn't matter. I	aqui uma pedra enorme lá fora. Bobagem, não importa. Eu
+398	see now	vejo agora
+399	I see now a big stone outside.	Vejo agora uma pedra grande lá fora.
+400	That's it, I'm done. I see a big stone outside.	Pronto, terminei. Vejo uma pedra grande lá fora.
+401	So according to the perception	Então, segundo a percepção
+402	of mine, notice, according to my tangible perception,	minha, reparem, segundo a minha percepção palpável,
+403	this stone, if there are no disturbances, will	essa pedra, se não houver perturbações,
+404	last forever. If nothing pushes it and no	durará para sempre. Se nada a empurrar e nenhum
+405	fire comes and burns it, it was here. Yes,	fogo vier e a queimar, ela esteve aqui. Sim,
+406	by the way, one can reach places on earth that no person has touched. One can dig here in the ground	aliás, é possível chegar a lugares da terra que mão humana nunca tocou. Dá para cavar aqui no chão
+407	100 meters.	100 metros.
+408	Here one can reach a place that since the creation	Aqui é possível chegar a um lugar que desde a criação
+409	of the world has been there. You know, I thought about this, I was together after all	do mundo está lá. Sabe, eu pensei nisso, estive junto, afinal,
+410	the rocks there. Those are rocks of the creation of the world, no. Could be.	com as rochas lá. São rochas da criação do mundo, não. Pode ser.
+411	Yes, okay.	Sim, certo.
+412	So here logic says that no force is needed for it to	Então aqui a lógica diz que não é preciso força para que isso
+413	exist; on the contrary, force is needed for it not to exist.	exista; ao contrário, é preciso força para que não exista.
+414	Here you grasp the Maamarot.	Aqui vocês captam os Maamarot.
+415	That the thing is eternal and exists.	Que a coisa é eterna e existe.
+416	This is, after all, the inanimate.	Isso é, afinal, o inanimado.
+417	No force is needed for it to exist. It's not a plant, it's not	Não é preciso força para que exista. Não é uma planta, não é
+418	alive, it's dead, it stands here and that's it. If I say that he	viva, é morta, está aqui e pronto. Se eu disser que ele
+419	won't move it from here, it will stay here forever.	não vai movê-la daqui, ela ficará aqui para sempre.
+420	The Alter Rebe says: no.	O Alter Rebe diz: não.
+421	Know that the stone too, in and of itself, does not exist,	Saiba que a pedra também, por si mesma, não existe,
+422	and were it not for a force that constantly brings it into being,	e não fosse por uma força que a faz existir continuamente,
+423	it would return to its basic state, which is nothing.	ela voltaria ao seu estado básico, que é nada.
+424	Even in the inanimate. That's why he says "even the earth," because when it comes	Mesmo no inanimado. Por isso ele diz "até a terra", porque quando se trata
+425	to the inanimate, it's a reversal; to grasp it this way is the hardest,	do inanimado, é uma reviravolta; captar assim é o mais difícil,
+426	to grasp that the inanimate is alive and constantly needs a sustaining force	captar que o inanimado vive e precisa constantemente de uma força que o sustente
+427	and a vitalizing force. The word of HaShem will return to	e que o vivifique. A palavra de HaShem voltaria a
+428	that is to say, it will return. All this is harder to contemplate	isto é, voltaria. Tudo isso é mais difícil de contemplar
+429	and feel and see this way, because	e sentir e ver assim, porque
+430	the reality of the inanimate broadcasts the opposite:	a realidade do inanimado transmite o contrário:
+431	that from the moment it was created, it needs no force.	que, desde o momento em que foi criada, ela não precisa de nenhuma força.
+432	That's it, the opposite; to destroy it, force is needed.	Pronto, o contrário; para destruí-la é preciso força.
+433	This is what the Alter Rebe concludes.	Isso é o que o Alter Rebe conclui.
+434	Look inside.	Olhem lá dentro.
+435	A line that begins "Yemei Bereshit," truly.	Uma linha que começa "Yemei Bereshit", de fato.
+436	And this is what the Ari, of blessed memory, wrote:	E é isso que o Arizal, de abençoada memória, escreveu:
+437	"and also in the truly inanimate,	"e também no inanimado propriamente dito,
+438	such as stones, earth and water,	como pedras, terra e água,
+439	there is a level of nefesh	há um nível de alma
+440	and spiritual vitality."	e vitalidade espiritual".
+441	The Arizal wrote that there is a nefesh in the inanimate.	O Arizal escreveu que há uma nefesh no inanimado.
+442	The Arizal did not explain, because it is a wonder in terms of perception.	O Arizal não explicou, porque é uma maravilha em termos de percepção.
+443	Also the	Também o
+444	In a person, certainly, there is a nefesh. In an animal,	No ser humano, com certeza, há uma nefesh. No animal,
+445	certainly there is a nefesh, it is also written in the Torah.	com certeza há uma nefesh, também está escrito na Torá.
+446	In plants one can discuss whether there is a nefesh. But	Nas plantas dá para discutir se há nefesh. Mas
+447	how come, to say that in the inanimate there is a nefesh? And also	como assim, dizer que no inanimado há uma nefesh? E também
+448	how would it be expressed?	como isso se expressaria?
+449	A nefesh is something, there is some will, some something.	A nefesh é algo, há alguma vontade, algum algo.
