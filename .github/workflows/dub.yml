@@ -64,6 +64,10 @@ jobs:
           python -m pip install --quiet torch==2.8.0 --index-url https://download.pytorch.org/whl/cpu
           python -m pip install --quiet "kokoro>=0.9.4" soundfile numpy
           python -m spacy download en_core_web_sm -q || true
+      - name: Git identity (the handover commits dub/done/<id>)
+        run: |
+          git config --global user.name "dub bot"
+          git config --global user.email "actions@users.noreply.github.com"
       - name: Dub
         env:
           GH_TOKEN: ${{ github.token }}

@@ -14,5 +14,5 @@ for i in 1 2 3; do gh release upload dub-queue $audio --repo "$GITHUB_REPOSITORY
 rm -f $files
 mkdir -p dub/done && date -u +%FT%TZ > "dub/done/$id"
 git add "dub/done/$id"
-git -c user.name="dub bot" -c user.email="actions@users.noreply.github.com" commit -q -m "dub: $id" || exit 0
+git commit -q -m "dub: $id" || exit 0
 for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep $((RANDOM % 10 + 3)); done
