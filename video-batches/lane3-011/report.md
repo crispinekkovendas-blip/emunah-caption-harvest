@@ -1,7 +1,7 @@
 # lane3-011
 
 4 of 9 lessons published · 3 skipped · status **pending**
-Tokens (237 agent runs with a record): 1.6M in (mostly cache) · 1.34M out · API-equivalent 17.22
+Tokens (250 agent runs with a record): 1.6M in (mostly cache) · 1.40M out · API-equivalent 18.00
 
 | lesson | state | detail |
 |---|---|---|
@@ -10,7 +10,7 @@ Tokens (237 agent runs with a record): 1.6M in (mostly cache) · 1.34M out · AP
 | GcFPfJDGYbQ | waiting | 9/10 parts |
 | AB_K5jfSBys | ✓ published | 902 lines · Por que a morte de Miriam foi ligada à Vaca Vermelha |
 | Hm8fk4lF5Cg | skipped | |
-| Tef2UUpvDP0 | ✗ will be redone (try 2) | 3 lines missing |
+| Tef2UUpvDP0 | waiting | 8/9 parts |
 | nfDEWz0a83w | skipped | |
 | 69VkysFriUo | ✓ published | 134 lines · Juízes: o dayan deve ser justo e conhecedor da Halachá |
 | YKG_5pHb4r8 | skipped | |
