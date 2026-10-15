@@ -1,0 +1,77 @@
+name: Dub lessons (Kokoro, pt + en)
+
+# 2026-10-15 (the owner: "run on github public option 2 right away and store here on disk E"). Each lane
+# dubs its share of the curated lessons with Kokoro-82M on the CPU runner, hands every lesson over at
+# once (draft release dub-queue + dub/done/<id>), then starts itself again. See scripts/dub.py.
+#
+#   gh workflow run dub.yml                 (all lanes)
+#   gh workflow run dub.yml -f lane=3
+#   gh workflow run dub.yml -f lane=1 -f ids=nEeDpt7qtTI -f chain=false   (a test)
+
+on:
+  workflow_dispatch:
+    inputs:
+      lane:
+        description: 'Lane 1-8 (empty = start all eight)'
+        default: ''
+      ids:
+        description: 'Only these ids (a test)'
+        default: ''
+      chain:
+        description: 'Start the lane again when done'
+        default: 'true'
+
+concurrency:
+  group: dub-lane-${{ inputs.lane || 'kick' }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  kick:
+    if: inputs.lane == ''
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wake the eight lanes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for lane in 1 2 3 4 5 6 7 8; do
+            gh workflow run dub.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=$lane
+          done
+
+  dub:
+    if: inputs.lane != ''
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Cache the model and the wheels
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/pip
+          key: kokoro-torch251-v1
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg espeak-ng >/dev/null
+          python -m pip install --quiet torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install --quiet "kokoro>=0.9.4" soundfile numpy
+          python -m spacy download en_core_web_sm -q || true
+      - name: Dub
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python -u scripts/dub.py --lane ${{ inputs.lane }} --lanes 8 --budget-min 300 ${{ inputs.ids != '' && format('--ids {0}', inputs.ids) || '' }}
+      - name: Keep the lane going
+        if: inputs.chain == 'true' && inputs.ids == ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git pull -q || true
+          gh workflow run dub.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=${{ inputs.lane }}
