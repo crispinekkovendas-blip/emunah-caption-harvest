@@ -1,0 +1,27 @@
+# lane1-008
+
+14 of 20 lessons published · 0 skipped · status **pending**
+Tokens (31 agent runs with a record): 0.3M in (mostly cache) · 0.56M out · API-equivalent 6.71
+
+| lesson | state | detail |
+|---|---|---|
+| QBV2WC5BP50 | ✓ published | 99 lines · Haftará de Zachor: Shaul e a guerra contra Amalek |
+| 3fge7OiateA | ✓ published | 355 lines · Olhar para trás antes de entrar na Terra: Matot-Masei |
+| DjHqVufyopk | ✓ published | 202 lines · Parashá Bô: o pedido do ouro e a promessa a Avraham |
+| Yk2VTHAczZU | ✗ will be redone (try 1) | 277 lines missing |
+| XbcntldjxWU | ✗ will be redone (try 1) | 2 lines missing |
+| xYICKoS_ovQ | ✓ published | 188 lines · O segredo do sustento está na alegria e na canção |
+| vP4xyHZKJbY | ✗ will be redone (try 1) | 1 lines missing |
+| LJL8RDAtu6A | ✓ published | 670 lines · Tekiá, Shevarim, Teruá: recomeçar com um olhar bom |
+| efgS-FMmqUc | ✗ will be redone (try 1) | 1 lines missing |
+| _FA1MNCXaLs | ✓ published | 288 lines · Por que o exílio persiste: o Zera Shimshon e os convertidos |
+| ispuYm2yamg | ✓ published | 96 lines · Parashá Tsav: o fogo perpétuo e o coração judeu |
+| ninCU_XWEdo | ✓ published | 61 lines · Bereshit: a oferenda de Caim e Hevel de todo o coração |
+| Czofs-wlwvE | ✓ published | 77 lines · Ouvir e Ver: A Essência da Teshuvá |
+| Krr2BuGjxN8 | ✓ published | 42 lines · Ver os pequenos detalhes: mensagem de Parashat Ekev |
+| 3j7szS8tHHg | ✓ published | 18 lines · Por que precisamos da quebra na vida? |
+| EKOpz4XVNKc | ✓ published | 1041 lines · Parashat Shelach: a grandeza da Terra de Israel |
+| ufwiGq4kSCg | ✗ will be redone (try 1) | 1 lines missing |
+| HaldFR-d2Bo | ✗ will be redone (try 1) | 1 lines missing |
+| FPmzWRg4OZs | ✓ published | 45 lines · Avraham, o homem de chessed por essência |
+| Iyusi5tSvCo | ✓ published | 60 lines · Parashat Beshalach: o que fazer e não fazer nos desafios |
