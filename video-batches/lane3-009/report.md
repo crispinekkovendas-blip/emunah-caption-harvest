@@ -1,7 +1,7 @@
 # lane3-009
 
-22 of 25 lessons published · 0 skipped · status **pending**
-Tokens (43 agent runs with a record): 0.5M in (mostly cache) · 0.73M out · API-equivalent 8.76
+23 of 25 lessons published · 1 skipped · status **pending**
+Tokens (47 agent runs with a record): 0.5M in (mostly cache) · 0.80M out · API-equivalent 9.51
 
 | lesson | state | detail |
 |---|---|---|
@@ -19,11 +19,11 @@ Tokens (43 agent runs with a record): 0.5M in (mostly cache) · 0.73M out · API
 | 6EMYXMElMhE | ✓ published | 328 lines · O que significa abençoar HaShem na Birkat HaMazon |
 | bTnY4PLKWOg | ✓ published | 83 lines · Vayakhel contada às crianças: Shabat e o Mishkan |
 | R7Bm-5qzP1M | ✓ published | 201 lines · Quem foi Betsalel? O dom de construir e ensinar |
-| 69VkysFriUo | ✗ will be redone (try 2) | 123 lines missing |
+| 69VkysFriUo | skipped after 3 tries | 1 lines missing |
 | ST9_bvtiY_g | ✓ published | 122 lines · Zimri, Pinechás e o túmulo oculto de Moshê |
 | fPUyS0lbwnU | ✓ published | 183 lines · Vayishlach: ter tudo versus ter muito |
 | JscPjHzdcT8 | ✓ published | 129 lines · Por que Moshé julgou o povo após Yom Kipur |
-| s5FZNgjXrqA | ✗ will be redone (try 2) | 2 lines missing |
+| s5FZNgjXrqA | ✓ published | 750 lines · Viver com emunáh: a história do bilionário e a kipá |
 | Dihn6mwRpMw | ✓ published | 104 lines · O sigilo e o aberto: por que Adam se escondeu |
 | g0dISaY1hhs | ✓ published | 514 lines · Orar e enxergar os milagres de HaShem |
 | xVczCV23RYc | ✓ published | 110 lines · Por que o porco voltará a ser permitido: persistência |
