@@ -1,0 +1,101 @@
+videoId: Vb_UVGfC2pE
+parte 8 de 8 · traduzir as linhas 840 a 916 (77 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Pecado da Árvore do Conhecimento e a escuta interior
+RESUMO: O rabino começa pelo primeiro assassinato, Caim e Hevel, e pelo Midrash (Yalkut Shimoni) em que um corvo ensina Adam e Chavah a enterrar o morto, mostrando que o amor é mais forte que o ódio. Em seguida pergunta o que foi o pecado da Árvore do Conhecimento, citando o Midrash Bereshit Rabá 19:12 sobre "ve'ochal" (comerei) no futuro, e a pergunta do Guia dos Perplexos do Rambam: se já tinham inteligência (deram nomes aos animais), qual era o problema e por que a vergonha da nudez? A resposta, com o Tanya do Admor HaZaken e o Likutei Sichot do Rebe, é que "daat" significa ligação: a voz externa do mal se uniu à voz interna e passou a ocupar o assento do motorista, nascendo a vergonha como o abismo entre o eu ideal e o eu real. O Rambam diz o mesmo em termos filosóficos: antes do pecado a dúvida era entre verdade e falsidade, depois entre bom e mau, algo subjetivo. A correção é viver com controle interno, perguntando "quem fala em mim?", como mostram o relato de John Nash e a história de Rabi Nachum de Chernobil. O exemplo máximo é Yosef HaTzadik diante da esposa de Potifar, que vê a imagem do pai (Rashi, Gemará Sotá) e separa a voz externa da sua.
+MOMENTOS: 01:31 Midrash do corvo que enterra o corpo de Hevel · 04:01 O amor é mais forte que o ódio · 07:25 "Ve'ochal": Adam e Chavah já choram o pecado futuro · 08:44 O que foi o pecado da Árvore do Conhecimento? · 11:04 Daat como ligação: a voz externa vira interna · 12:56 Parábola de John Nash e a voz que se descarta · 19:51 A pergunta do Guia dos Perplexos do Rambam · 28:31 Tanya: daat é ligação, o eu externo se faz interno · 31:00 A vergonha como abismo entre o ideal e o real · 38:55 O Rambam: verdade e falsidade versus bom e mau · 41:33 Yosef HaTzadik e a imagem do pai · 46:26 Viver com controle e exame interior
+FONTES CITADAS: 01:31 Yalkut Shimoni, Bereshit (Hevel e o corvo) · 02:02 Bereshit 3:19 · 04:01 Yalkut Shimoni, Bereshit (Hevel e o corvo) · 06:31 Rabi Shimon bar Yochai (sobre Har Sinai) · 07:25 Bereshit 3:12 · 07:53 Bereshit Rabá 19:12 · 09:14 Bereshit 2:15 · 16:31 Bereshit 2:16-17 · 17:08 Bereshit 2:25 e 3:7 · 17:30 Bereshit 3:1-3 · 18:15 Bereshit 3:4-5 · 19:12 Bereshit 3:6 · 20:19 Rambam, Guia dos Perplexos 1:2 · 21:22 Bereshit 2:19-20 · 22:42 Gaon de Vilna (sobre Bereshit 2:15) · 25:14 Bereshit 4:1 · 28:31 Tanya, Likutei Amarim cap. 3 (Admor HaZaken) · 32:54 Ensinamento dos livros sobre bêguedes · 33:09 Yeshayahu 52:1 · 36:00 História de Rabi Nachum de Chernobil · 38:55 Rambam, Guia dos Perplexos 1:2 · 40:26 Tanya (Torá Or), Admor HaZaken · 40:56 Likutei Sichot vol. 3, p. 898 (Rebe) · 42:10 Bereshit 39 (Yosef e a esposa de Potifar) · 42:40 Rashi em Bereshit 39:11, citando Gemará Sotá 36b · 44:14 Bereshit 39:11 · 45:01 Bereshit 37:2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|42:10|כתוב הוא התיקון לחטא עץ הדעת הוא דוחה את
+829|42:14|דברי האישה את דברי אשת פוטיפר בניגוד
+830|42:16|לאדם שהתפתם מדברי האישה אותה אשת פוטיפר
+831|42:20|היא עצמה הנחש היא עצמה הרע בניגוד לאדם
+832|42:23|הראשון שנכנע לאישה שנכנעה לנחש
+833|42:27|אצל יוסף הצדיק יש רגע עצום הרגע של חייו
+834|42:32|שהוא עוצר ועושה את ההתבוננות את האנליזה
+835|42:35|הפנימית הזו הוא מגיע הביתה וקשה מאוד
+836|42:38|לומר אבל כל אחד מבין את הרמז של התורה
+837|42:40|כמו שמביא רש"י מהגמרא סותטה הוא הגיע
+838|42:43|הביתה במטרה לחטו איתה עוד רגע הוא נופל
+839|42:47|איך הוא יכול אחרת היופי של התורה שהיא לא
+
+LINHAS A TRADUZIR:
+840|42:50|משקרת שקרים היופי של התורה שהיא מספרת
+841|42:53|סיפור אמיתי, נוכח, מציאותי.
+842|42:56|ילד בן 17 בדרך הטבע לא יכול לעמוד מול
+843|43:01|אישה כל כך חזקה. בפרט שאין לו מה שישמור
+844|43:04|עליו. אין לו מה להפסיד. מה שומר עלינו מן
+845|43:06|החטא? בוא נודה. אנחנו הרי לא צדיקים
+846|43:08|גמורים. מה בכל אופן שומר עלינו מהטעויות?
+847|43:11|הפחד להפסיד. והבה מחשב שכר מצווה כנגד
+848|43:15|הפסדה. אנחנו יודעים מה נפסיד ואנחנו
+849|43:17|אומרים טעות של רגע לא שווה למותטת הכל.
+850|43:21|לאבד את המשפחה, לאבד את הקריירה, לאבד את
+851|43:23|הכבוד, לאבד את החיים. זה רצית לדפוק את
+852|43:25|הראש, דפקת את החיים. אבל יוסף הצדיק לא
+853|43:28|היה מה להפסיד. הוא היה יתו מאמא, אבא ישב
+854|43:32|עליו שבעה, האחים מחקו אותו ועשו חרם ביחד
+855|43:35|עם הקדוש ברוך הוא שלא מדברים עליו, יש לו
+856|43:37|רק מה להרוויח. היא יכולה לפתוח לו שערים,
+857|43:41|לגרום לו לממש את החלומות, להפוך להיות
+858|43:43|מלך על אחיו. מנגד אם יגיד לה, היא תקבור
+859|43:47|אותו בכלא לכל חייו כמו שהיא עשתה. 13
+860|43:50|שנים 13 שנים יוסף הצדיק יושב בערות הארץ
+861|43:55|במקום הכי נמוך של המקום הכי נמוך בעולם
+862|43:59|הוא יכול לשבת שם כל חייו הוא לא יכול
+863|44:01|לצפות את הנס הזה של שרי המשקים משרי
+864|44:04|העופים עם החלומות שלהם היא הדרך היחידה
+865|44:08|שלו להחלץ מהשבח לצמוח לגדול להגשים את
+866|44:11|החלומות שלו בדרך הטבע הוא לא יכול לעמוד
+867|44:14|נגדם לכן אומרת התורה ויבוא הביתה אין איש
+868|44:18|מאנשי הבית שם בבית בית בדרך הטבע כשילד
+869|44:22|בא הביתה כשאין איש מאנשי הבית והוא יודע
+870|44:24|שהיא יורבת לו מביא רש"י את אחת הדעות
+871|44:27|בגמרא סותטה שבא לעשות מלאכתו אמה ואז
+872|44:30|ברגע האחרון קוראנס אומרת הגמרא נראתה לו
+873|44:34|דמוד יוקנו של אביו הוא רואה בחלון פתאום
+874|44:37|את אבא את הבבואה של אבא והוא קם ומזדהק
+875|44:40|וימאן הוא משאיר את הבגד העליון אצלה
+876|44:43|ובורח החוצה אבל מה קרה כשהוא ראה אותה
+877|44:45|סליחה מה קרה כשהוא ראה את מודיוקנו של
+878|44:47|אבא נו אז מה הכל כל חוטה רואה את אבא
+879|44:50|שלו. החוטא הכי גדול בספר בראשית, עשיו
+880|44:53|ראה את אבא שלו הכי הרבה פעמים.
+881|44:56|יש רעיון עצום, רעיון שאין אמיתי ממנו.
+882|45:01|יוסף היה דומה בפנים לאבא שלו. אלה תולדות
+883|45:04|יעקב יוסף שהיה זיב עיקונין שלו דומה
+884|45:06|לאביו.
+885|45:08|כשהוא רואה את דיוקנו של אבא הוא פתאום
+886|45:11|רואה את עצמו והוא יודע מה הוא רוצה ומה
+887|45:15|היא רוצה.
+888|45:16|הוא פתאום קולט שהיא קל חיצוני, שהיא לא
+889|45:21|האני הפנימי שלו. הוא מצליח ליצור את
+890|45:24|ההבחנה ואת ההבדלה בינו לבינה. קודם היא
+891|45:28|דיברה בכזה היגיון, בכזה מתק שפתיים, בכזה
+892|45:31|פיתוי, בכזה שכנוע, שזה כבר נכנס לתוכו,
+893|45:35|שזה כבר היה ההיגיון שלו, והוא התחיל
+894|45:36|לחשוב שהיא צודקת, הוא כבר התחיל לשמוע את
+895|45:39|עצמו בתוך השטויות האלה
+896|45:42|ואז פתאום נוצר רגע אחד שאי אפשר לטעות
+897|45:44|בו. הוא פתאום ראה את אבא ואבא דומה לו.
+898|45:47|הוא ראה את החלון הזה היה מראה. הוא פתאום
+899|45:50|ראה את עצמו בדרך חדשה, בדרך אמיתית
+900|45:54|והוא ידע שהיא לא שייכת לפה, שהיא
+901|45:57|טרמפיסטית, שהיא השטן היא הסתרה אחראה
+902|46:01|שהתלבשה עליו והוא כבר ידע מה הוא צריך
+903|46:03|לעשות. וזאת כל מלאכת החיים. לברר את
+904|46:07|הדעת, לברור את הדעת, לבחון את הדעת,
+905|46:10|לחקור את הדעת ולדעת לזהות האם זאת רק
+906|46:13|חרדה. האם זה רק בלבול? האם זה סתם כעס?
+907|46:17|האם זה סתם אגו? האם זו סתם תאווה גדולה?
+908|46:21|ואם כן, אז לסמן אותה ולהעיף אותה, לא
+909|46:24|לעשות טעויות.
+910|46:26|זה השער שדרכו האדם נפל וזה השער שדרכו
+911|46:29|כולנו נעלה. לחיות עם בקרה פנימית, עם
+912|46:33|בחינה פנימית. בשביל זה צריכים עשה לך
+913|46:35|הרב, בשביל זה צריכים ידיד שמתייעצים
+914|46:37|איתו. מישהו חיצוני שיכול לברור מה הכל
+915|46:40|החיצוני ומה הכל הפנימי. ככה התחילה
+916|46:42|הירידה וככה גם תתחיל העלייה.
