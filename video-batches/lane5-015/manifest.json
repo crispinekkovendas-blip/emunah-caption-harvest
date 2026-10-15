@@ -2,7 +2,7 @@
  "name": "lane5-015",
  "lane": 5,
  "created": "2026-10-15T14:48:36.571Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "akwQH5e-_O0",
@@ -26,6 +26,8 @@
   "akwQH5e-_O0.p10"
  ],
  "tries": {},
- "done": [],
+ "done": [
+  "akwQH5e-_O0"
+ ],
  "skipped": []
 }
