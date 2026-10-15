@@ -1,7 +1,7 @@
 # lane3-011
 
-4 of 9 lessons published · 1 skipped · status **pending**
-Tokens (176 agent runs with a record): 1.2M in (mostly cache) · 1.04M out · API-equivalent 13.66
+4 of 9 lessons published · 2 skipped · status **pending**
+Tokens (201 agent runs with a record): 1.3M in (mostly cache) · 1.18M out · API-equivalent 15.37
 
 | lesson | state | detail |
 |---|---|---|
@@ -9,8 +9,8 @@ Tokens (176 agent runs with a record): 1.2M in (mostly cache) · 1.04M out · AP
 | F3R0W8i9GeY | ✓ published | 1681 lines · Parashá Emor: as três santidades, espaço, tempo e alma |
 | GcFPfJDGYbQ | waiting | 9/10 parts |
 | AB_K5jfSBys | ✓ published | 902 lines · Por que a morte de Miriam foi ligada à Vaca Vermelha |
-| Hm8fk4lF5Cg | ✗ will be redone (try 2) | 62 lines missing |
+| Hm8fk4lF5Cg | waiting | 9/12 parts |
 | Tef2UUpvDP0 | waiting | 8/9 parts |
-| nfDEWz0a83w | waiting | 13/14 parts |
+| nfDEWz0a83w | skipped after 3 tries | line 1201 twice |
 | 69VkysFriUo | ✓ published | 134 lines · Juízes: o dayan deve ser justo e conhecedor da Halachá |
-| YKG_5pHb4r8 | skipped after 3 tries | line 600 twice |
+| YKG_5pHb4r8 | skipped | |
