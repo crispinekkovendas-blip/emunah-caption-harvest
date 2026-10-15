@@ -1,11 +1,11 @@
 # lane9-003
 
 4 of 10 lessons published · 3 skipped · status **pending**
-Tokens (266 agent runs with a record): 1.9M in (mostly cache) · 1.74M out · API-equivalent 23.48
+Tokens (267 agent runs with a record, 17 refused or without record): 1.9M in (mostly cache) · 1.74M out · API-equivalent 23.56
 
 | lesson | state | detail |
 |---|---|---|
-| 7pfIoU_bN00 | skipped after 3 tries | line 600 twice |
+| 7pfIoU_bN00 | skipped | |
 | xW_HWuavFow | ✓ published | 883 lines · As bênçãos: pequenos passos rumo a grandes degraus |
 | ez3oskhk9aA | skipped | |
 | Lc-D5AerYlM | waiting | 8/9 parts |
