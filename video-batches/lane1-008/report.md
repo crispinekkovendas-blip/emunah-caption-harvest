@@ -1,7 +1,7 @@
 # lane1-008
 
-19 of 20 lessons published · 0 skipped · status **pending**
-Tokens (45 agent runs with a record): 0.5M in (mostly cache) · 0.84M out · API-equivalent 9.78
+20 of 20 lessons published · 0 skipped · status **done**
+Tokens (48 agent runs with a record): 0.5M in (mostly cache) · 0.90M out · API-equivalent 10.41
 
 | lesson | state | detail |
 |---|---|---|
@@ -13,7 +13,7 @@ Tokens (45 agent runs with a record): 0.5M in (mostly cache) · 0.84M out · API
 | xYICKoS_ovQ | ✓ published | 188 lines · O segredo do sustento está na alegria e na canção |
 | vP4xyHZKJbY | ✓ published | 692 lines · Viver como canal de HaShem, não de aprovação externa |
 | LJL8RDAtu6A | ✓ published | 670 lines · Tekiá, Shevarim, Teruá: recomeçar com um olhar bom |
-| efgS-FMmqUc | ✗ will be redone (try 2) | 1 lines missing |
+| efgS-FMmqUc | ✓ published | 1058 lines · Acredite que você é bom: emuná, oração e recomeço |
 | _FA1MNCXaLs | ✓ published | 288 lines · Por que o exílio persiste: o Zera Shimshon e os convertidos |
 | ispuYm2yamg | ✓ published | 96 lines · Parashá Tsav: o fogo perpétuo e o coração judeu |
 | ninCU_XWEdo | ✓ published | 61 lines · Bereshit: a oferenda de Caim e Hevel de todo o coração |
