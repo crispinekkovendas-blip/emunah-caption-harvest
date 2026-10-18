@@ -1,7 +1,7 @@
 # lane9-003
 
 4 of 10 lessons published · 3 skipped · status **pending**
-Tokens (267 agent runs with a record, 305 refused or without record): 1.9M in (mostly cache) · 1.74M out · API-equivalent 23.56
+Tokens (267 agent runs with a record, 322 refused or without record): 1.9M in (mostly cache) · 1.74M out · API-equivalent 23.56
 
 | lesson | state | detail |
 |---|---|---|
