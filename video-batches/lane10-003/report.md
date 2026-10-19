@@ -1,20 +1,20 @@
 # lane10-003
 
-9 of 15 lessons published · 5 skipped · status **pending**
-Tokens (389 agent runs with a record, 1155 refused or without record): 2.7M in (mostly cache) · 2.40M out · API-equivalent 32.89
+9 of 15 lessons published · 6 skipped · status **done**
+Tokens (405 agent runs with a record, 1155 refused or without record): 2.8M in (mostly cache) · 2.50M out · API-equivalent 34.16
 
 | lesson | state | detail |
 |---|---|---|
 | ro7HvwWs88w | ✓ published | 1189 lines · Parashá Ekev: o perigo do ego na Terra de Israel |
 | V90AZCXe3e4 | ✓ published | 697 lines · Ver a consolação: a Haftará de Parashat Reê |
-| D3kttQ65MG4 | waiting | 9/10 parts |
+| D3kttQ65MG4 | skipped after 3 tries | 117 lines missing |
 | zz3J06SPFt0 | skipped | |
 | kP-x-XcxYZw | ✓ published | 1300 lines · Os sete porquês da serpente de cobre (Parashá Chukat) |
 | Jw6v3fT3AEM | ✓ published | 1225 lines · Aharon HaCohen e o amor que une o povo |
 | n5CKD6tFqt0 | ✓ published | 1039 lines · Parashat Shoftim: juízes de justiça e a Amidá |
 | 0nSjPMGnCaU | ✓ published | 919 lines · Esforço humano, temor a HaShem e o prêmio da tzedaká |
 | gpTawZWgjJk | skipped | |
-| LrHdoD7QOmY | skipped after 3 tries | 2 lines missing |
+| LrHdoD7QOmY | skipped | |
 | 5VicFIpEXBU | ✓ published | 992 lines · Honrar os pais e o valor próprio pelo caminho do Baal Shem Tov |
 | bOymIv5HHlw | skipped | |
 | AfvChSn-rqg | skipped | |
