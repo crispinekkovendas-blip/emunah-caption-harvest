@@ -1,0 +1,16 @@
+# The old draft dub-queue (full at 1,000 files) → the public releases dub-00 … dub-15 (2026-10-19)
+name: Move dubs to the public releases
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - name: Move
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: bash scripts/dub-move.sh
