@@ -1,0 +1,10 @@
+360	It doesn't happen by chance.	Não acontece por acaso.
+361	And if someone found himself	E se alguém se viu
+362	behind bars, in a prison,	atrás das grades, numa prisão,
+363	sitting in darkness and the shadow of death,	sentado nas trevas e na sombra da morte,
+364	here it says: "For they rebelled against the words of God, and spurned the counsel of the Most High."	aqui está escrito: "Pois se rebelaram contra as palavras de Elokim e desprezaram o conselho do Altíssimo."
+365	"He humbled their heart with labor; they stumbled, and there was none to help."	"Humilhou o coração deles com o trabalho; tropeçaram, e não havia quem os ajudasse."
+366	That is, there is a reason why this particular person	Ou seja, há uma razão pela qual essa pessoa em particular
+367	is in prison, beyond the specific crime he committed	está na prisão, além do crime específico que cometeu
+368	because of which he sits in prison: "for they rebelled."	pelo qual está preso: "pois se rebelaram."
+479	chametz.	chametz.
