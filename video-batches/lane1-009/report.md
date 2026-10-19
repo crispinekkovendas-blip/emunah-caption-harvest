@@ -1,7 +1,7 @@
 # lane1-009
 
 3 of 18 lessons published · 0 skipped · status **pending**
-Tokens (265 agent runs with a record, 2356 refused or without record): 2.0M in (mostly cache) · 1.81M out · API-equivalent 24.84
+Tokens (276 agent runs with a record, 2441 refused or without record): 2.1M in (mostly cache) · 1.88M out · API-equivalent 25.77
 
 | lesson | state | detail |
 |---|---|---|
@@ -20,6 +20,6 @@ Tokens (265 agent runs with a record, 2356 refused or without record): 2.0M in (
 | V2NOvR1Lz0o | waiting | 0/9 parts |
 | L1UROwNzaKQ | waiting | 0/10 parts |
 | -Ag0YXeCJbk | ✓ published | 404 lines · Parah Adumá: por que Moshé entendeu e Shlomo não |
-| popBHbDjFAU | waiting | 0/12 parts |
-| bLms7yHxLVc | waiting | 9/12 parts |
-| zZhyqu7Poyc | waiting | 10/11 parts |
+| popBHbDjFAU | waiting | 7/12 parts |
+| bLms7yHxLVc | ✗ will be redone (try 1) | line 120 twice |
+| zZhyqu7Poyc | ✗ will be redone (try 1) | line 1200 twice |
