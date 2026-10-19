@@ -39,7 +39,7 @@ jobs:
             python -m pip install --quiet faster-whisper numpy soundfile uroman
           else
             python -m pip install --quiet torch==2.8.0 torchaudio==2.8.0 --index-url https://download.pytorch.org/whl/cpu
-            python -m pip install --quiet whisperx
+            python -m pip install --quiet whisperx "transformers<5"
           fi
       - name: Audio
         env:
