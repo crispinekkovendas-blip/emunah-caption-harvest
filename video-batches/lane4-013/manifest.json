@@ -225,7 +225,7 @@
   "XcJdkXd6t-A": 3,
   "qxae6lMsFLk": 3,
   "Uh0SXue0xQo": 1,
-  "dZLfVho4CmQ": 2,
+  "dZLfVho4CmQ": 3,
   "0g3jnyxGEZY": 1,
   "XtfrxjcIaFY": 1
  },
@@ -234,11 +234,14 @@
   "htPhtTbmR4Y",
   "oDBN2gtsnK0",
   "Uh0SXue0xQo",
-  "ADslkOmGwbY"
+  "ADslkOmGwbY",
+  "XtfrxjcIaFY",
+  "0g3jnyxGEZY"
  ],
  "skipped": [
   "JyH1f4nnLCc",
   "XcJdkXd6t-A",
-  "qxae6lMsFLk"
+  "qxae6lMsFLk",
+  "dZLfVho4CmQ"
  ]
 }
