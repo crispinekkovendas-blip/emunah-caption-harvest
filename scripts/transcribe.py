@@ -6,9 +6,10 @@ the runners).
 
   python scripts/transcribe.py --lane N --lanes L [--budget-min 230] [--ids a,b]
 
-2026-10-19 (the owner: "whisper X is not that good" — in the Torah Readings project Meta's MMS placed
-words better than WhisperX, which drifted 5-7 s early): Whisper only WRITES the words; every line's
-time then comes from Meta's MMS forced aligner (align.py, torchaudio MMS_FA) over the same audio.
+2026-10-19, after a test on 12 min of Rav Meir Eliyahu (compare_stt.py, run 39248751695): WhisperX with
+ivrit.ai's model ("B") wrote the Hebrew best (12.9 % apart from YouTube's automatic captions, and right
+twice as often where they disagree) and timed it best (half the words within 0.18 s; Meta MMS 0.24-0.26 s).
+So: WhisperX (ivrit.ai Whisper → WhisperX's Hebrew wav2vec2 word alignment) → cues.
 
 Each lesson becomes the same document the caption harvest writes (videos/transcript/<id>: cues
 [start, end, text] of ≤ 6 s / ≤ 90 characters, lang he), so curation, translation, dubbing and the
@@ -85,6 +86,33 @@ def cues_of(segments, max_s=6.0, max_chars=90):
     return clean
 
 
+def load_wav(path):
+    import numpy as np
+
+    raw = subprocess.run(['ffmpeg', '-loglevel', 'error', '-i', path, '-f', 's16le', '-ac', '1', '-ar', '16000', '-'], capture_output=True, check=True).stdout
+    return np.frombuffer(raw, np.int16).astype('float32') / 32768.0
+
+
+def segments_of(segs):
+    """WhisperX's aligned segments → objects with .words (start/end/word) for cues_of; a word the
+    aligner could not place takes its neighbours' time"""
+    out = []
+    for sg in segs:
+        o = type('S', (), {})()
+        o.start, o.end, o.text = sg['start'], sg['end'], sg.get('text', '')
+        o.words = []
+        last = sg['start']
+        for w in sg.get('words', []):
+            x = type('W', (), {})()
+            x.start = w.get('start', last)
+            x.end = w.get('end', x.start)
+            x.word = w.get('word', '')
+            last = x.end
+            o.words.append(x)
+        out.append(o)
+    return out
+
+
 def queue_ids():
     out = subprocess.run(['gh', 'release', 'view', 'stt-queue', '--repo', REPO, '--json', 'assets', '-q', '.assets[].name'], capture_output=True, text=True)
     return [n[:-5] for n in out.stdout.split() if n.endswith('.opus')]
@@ -102,12 +130,13 @@ def main():
     print(f'lane {a.lane}: {len(ids)} lessons waiting')
     if not ids:
         return
-    from faster_whisper import WhisperModel
+    import whisperx
 
-    model = WhisperModel(MODEL, device='cpu', compute_type='int8', cpu_threads=os.cpu_count() or 4)
-    import align as mms  # Meta MMS forced aligner: the times of the lines
-
-    mms.load()
+    try:
+        model = whisperx.load_model(MODEL, 'cpu', compute_type='int8', language='he', vad_method='silero')
+    except TypeError:
+        model = whisperx.load_model(MODEL, 'cpu', compute_type='int8', language='he')
+    am, meta = whisperx.load_align_model(language_code='he', device='cpu')
     os.makedirs('audio', exist_ok=True)
     for vid in ids:
         if (time.time() - t0) / 60 > a.budget_min:
@@ -121,38 +150,23 @@ def main():
         if r.returncode != 0:
             print(f'{vid}: audio not in the queue')
             continue
-        # decoded once by ffmpeg (16 kHz mono float32) for Whisper and MMS alike — faster-whisper's own
-        # decoder breaks on new PyAV releases (metadata_errors)
-        with tempfile.TemporaryDirectory() as tmp:
-            wav = mms.audio_of(vid, tmp)
-        segments, info = model.transcribe(wav, language='he', beam_size=5, vad_filter=True, word_timestamps=True, condition_on_previous_text=False)
-        cues = cues_of(list(segments))
-        dur = info.duration
+        wav = load_wav(f'audio/{vid}.opus')
+        os.remove(f'audio/{vid}.opus')
+        dur = len(wav) / 16000
+        res = model.transcribe(wav, batch_size=8, language='he')
+        al = whisperx.align(res['segments'], am, meta, wav, 'cpu', return_char_alignments=False)
+        cues = cues_of(segments_of(al['segments']))
         if len(cues) < 3:
-            os.remove(f'audio/{vid}.opus')
             print(f'{vid}: {len(cues)} cues for {dur:.0f}s — no speech?')
             continue
-        t2 = time.time()
-        aligned = None
-        try:
-            new, _groups, _ = mms.align(cues, wav)
-            shifts = sorted(n[0] - o[0] for n, o in zip(new, cues))
-            aligned = {'by': 'mms_fa', 'at': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()), 'shift': round(shifts[len(shifts) // 2], 2)}
-            cues_whisper, cues = cues, new
-        except Exception as err:
-            print(f'{vid}: MMS alignment failed ({str(err)[:100]}) — keeping Whisper times')
-        os.remove(f'audio/{vid}.opus')
         doc = {
             'v': 1, 'videoId': vid, 'lang': 'he', 'duration': round(dur), 'cues': cues, 'title': '', 'summary': '', 'moments': [],
-            'model': MODEL.split('/')[-1], 'source': 'whisper:ivrit-ai' + ('+mms' if aligned else ''), 'generated': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
+            'model': MODEL.split('/')[-1], 'source': 'whisperx:ivrit-ai', 'generated': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
         }
-        if aligned:
-            doc['aligned'] = aligned
-            doc['cuesOrig'] = cues_whisper
         kv_put(f'videos/transcript/{vid}', doc)
         subprocess.run(['gh', 'release', 'delete-asset', 'stt-queue', f'{vid}.opus', '--repo', REPO, '--yes'])
         el = time.time() - t1
-        print(f'{vid}: {dur / 60:.1f} min → {len(cues)} cues in {el / 60:.1f} min ({dur / max(el, 1):.1f}× real time; MMS {time.time() - t2:.0f}s{', shift ' + format(aligned['shift'], '+.2f') + 's' if aligned else ''})', flush=True)
+        print(f'{vid}: {dur / 60:.1f} min → {len(cues)} cues in {el / 60:.1f} min ({dur / max(el, 1):.1f}× real time)', flush=True)
 
 
 if __name__ == '__main__':

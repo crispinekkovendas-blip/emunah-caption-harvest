@@ -59,12 +59,11 @@ jobs:
             ~/.cache/huggingface
             ~/.cache/pip
             ~/.cache/torch
-          key: stt-ivrit-turbo-mms-v1
+          key: stt-whisperx-ivrit-v1
       - name: Install
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
-          python -m pip install --quiet torch==2.5.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cpu
-          python -m pip install --quiet faster-whisper numpy soundfile uroman
+          python -m pip install --quiet whisperx
       - name: Transcribe
         env:
           GH_TOKEN: ${{ github.token }}
