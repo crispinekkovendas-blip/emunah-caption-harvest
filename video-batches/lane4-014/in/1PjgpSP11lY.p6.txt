@@ -1,0 +1,46 @@
+videoId: 1PjgpSP11lY
+parte 7 de 7 · traduzir as linhas 720 a 741 (22 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Por que Noach não está nas Selichot e Yosef está
+RESUMO: O rabino dedica a aula à memória de Rabi Amram ben Mesoda e parte do versículo "E Noach achou graça aos olhos de HaShem", explicando com o Zohar que o título de tzadik pertence a quem guarda a aliança. Discute a divergência de Rashi sobre "em suas gerações" e conclui que Noach seria justo em qualquer geração, comparando-o a Yosef, que resistiu à mulher de Potifar sendo jovem, solteiro, belo e longe do pai, e mostrando que o lugar deixa um reshimu que influencia a pessoa (Yaakov em Mitsrayim, Rabi Yosei ben Kisma, Gemará sobre brigas e sobre Rabi Meir). Pergunta então por que Yosef é lembrado nas Selichot e Noach não, e responde: a Noach não veio prova, pois isolou-se na arca, e ele era idoso, ao passo que a maior virtude é guardar a aliança quando jovem. Termina com Binyamin HaTzadik, chamado assim por não ter dormido na cama de Yaakov durante o luto por Yosef, mas sem mérito para as Selichot pelo mesmo motivo de Noach.
+MOMENTOS: 00:00 Dedicatória em memória de Rabi Amram ben Mesoda · 00:33 Noach achou graça: quem guarda a aliança é tzadik · 02:36 Rashi: Noach "em suas gerações", elogio ou crítica · 03:10 Yosef: jovem, belo e longe de casa, resistiu · 08:44 Yaakov em Mitsrayim e a casa de estudo em Goshen · 12:09 Rabi Yosei ben Kisma: só morar em lugar de Torá · 16:50 O reshimu dos justos e a santidade dos lugares · 20:44 Rabi Meir e a briga dos vizinhos; lugar de discórdia · 24:22 Noach justo entre os ímpios, como Yosef no Egito · 25:33 Por que Noach não está nas Selichot · 27:47 Noach não enfrentou prova; a arca por 120 anos · 33:27 Segunda razão: Noach era idoso · 35:04 Binyamin HaTzadik e a cama de Yaakov
+FONTES CITADAS: 00:37 Bereshit 6:8 · 01:05 Zohar, Noach 66b · 01:02 Bereshit 6:9 · 02:38 Rashi em Bereshit 6:9 · 03:10 Rambam, Hilchot De'ot 6:1 · 03:14 Bereshit 37:2 · 03:28 Taanit 20a-b · 04:14 Pesachim 113b · 04:24 Avodá Zará 19a · 04:49 Zohar sobre guerra contra Amalek e as provas de pureza · 06:27 Sotá 36b · 06:30 Sotá 8a · 06:48 Bereshit 39:10 · 06:51 Avodá Zará 5a · 07:04 Zohar Chadash 25 · 07:20 Kidushin 49b · 07:30 Kidushin 49b · 08:07 Bereshit 41:46 · 09:44 Bereshit 46:3-4 · 10:05 Hagadá de Pessach · 10:08 Bereshit Rabá 95:3 · 12:09 Pirkei Avot 6:9 · 12:54 Yeshayahu 58:8 · 16:56 Zohar, Pinchas · 19:45 Berachot 3a · 20:26 Pirkei Avot 2:4 · 20:33 Zecharia 5:4 · 20:38 Gitin 52a · 21:10 Yevamot 96b · 21:49 Shevuot 39a · 22:00 Yevamot 62b · 22:32 Sotá 10a · 23:07 Rosh Hashaná 23b · 26:01 Sanhedrin 108a · 26:16 Musaf de Rosh Hashaná · 26:40 Bava Batra 57b · 27:29 Birkot HaShachar · 31:54 Bereshit 39:12 · 32:11 Bereshit 3:11-13 · 32:27 Bereshit 3:1 · 32:29 Onkelos em Bereshit 3:1 · 35:24 Yomá 69a · 35:33 Pesachim 56a · 35:56 Bereshit 49:4 · 36:12 Devarim 33:17 · 37:39 Sotá 36b · 37:46 Bereshit 37:33-35 · 38:49 Yomá 77a
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+708|37:51|בנחיי
+709|37:52|ויקיר ויאמר כן כתונת בני היא חיה רעה
+710|37:57|חלתו טרוף טורף יוסף ויקומו כל בניו
+711|38:01|ובנותיו לנחמו ולא קיבל מהם כי ירד אל בני
+712|38:03|אבל שעולה כל אותם שנים שיעקב היה באבל
+713|38:08|בנימין לא שימש מיטתו
+714|38:11|אז בגלל שהוא לא שימש מיטתו כי אבא בצער
+715|38:14|זה נקרא כובש מעייינוי אז כיוון שהוא כבש
+716|38:19|מעייינו שזה היה עניין שקשור לברית לכן
+717|38:23|הוא נקרא גם בנימין הצדיק כי הוא השתתף
+718|38:25|בצער אבא
+719|38:27|ולפי זה קשה
+
+LINHAS A TRADUZIR:
+720|38:30|הרי היה לו 10ה בנים אז מה אתה מספר לי
+721|38:33|שהוא כובש מעייינוי נכון היה לו 10ה בנים
+722|38:36|או לא בנימין הוא ורד מופים חופים כולם
+723|38:40|הוא קרא אותם על שם אחיו אז מה אתה אומר
+724|38:42|לי כובש מעייינו אלא בזמן שהוא היה חייב
+725|38:45|לקיים את המצווה קיים את המצווה וזהו
+726|38:49|עשה v שעירה כסוטה עונתה לא יגרה דף עז
+727|38:52|יומה ומדוע נקרא שמע עונם לשון עינוי שהיא
+728|38:55|מתענה אז צריך צריך לו לגרוע את זה. מה
+729|38:57|שהיה חייב נתן הסביב וגמר ומשמה נולדו לו
+730|39:01|הילדים וכל הזמנים האחרים הוא לא שימש.
+731|39:04|בגלל זה הוא נקרא בנימין הצדיק. אבל אף על
+732|39:07|פי כן הזכות הזאת לא מקנה לו להיות
+733|39:09|בסליחות כמו שלא הקנה הזכות של נח להיות
+734|39:12|בסליחות. הגם שהם היו דמויות עצומות.
+735|39:15|ודווקא יוסף שהוא עמד בניסיון הקשה הזה
+736|39:18|במקום של טומאה צעיר יפה תואר בלי בלי
+737|39:23|קדושה עם ניסיון יומ יומי והיא כדברה אליו
+738|39:27|יום יום זה לא פחת פעמי לכן הוא נזכר
+739|39:30|בסליחות זכותו תעמוד לנו ויהי רצון שנזכה
+740|39:33|לעשות רצון משיח הקדוש ברוך הוא ונראה
+741|39:36|במשיח צדקנו במירה בימינו אמן Да.

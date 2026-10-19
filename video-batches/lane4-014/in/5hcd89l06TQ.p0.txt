@@ -1,0 +1,130 @@
+videoId: 5hcd89l06TQ
+parte 1 de 7 · traduzir as linhas 0 a 119 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Balak: o medo de Moav e o poder de Bilam
+RESUMO: A aula mostra que a Parashá Balak começa "do meio": ela nasce do final da Parashá anterior, quando Israel pede passagem a Sichon e este recusa, é derrotado, e depois Og de Bashan também cai (Bamidbar 21). O rabino explica que Moav teme Israel por causa dessas vitórias, e que Balak, descendente de Yitro segundo o Zohar, é escolhido rei; seu nome "filho de Tsipor" é explicado como desprezo pelo pai ou como o pássaro que ele adorava e que lhe revelava segredos. Balak não organiza o exército e chama Bilam, descrito pelo Zohar como coxo, com um olho torto e surdo de um ouvido, mas dono de forças de impureza. A mensagem de Balak "talvez eu vença, talvez golpeemos" é lida como a conduta dos ímpios, e "ele é mais poderoso do que eu" como a visão de que Davi sairia de Moav por Rut. O rabino compara "arah" e "kovah" segundo Rashi e o Zohar, explica por que "o furor de Elokim" não contradiz o ensinamento de Berachot 7a, e trata da jumenta de Bilam e do segredo do Zohar sobre a impureza que dava força à sua magia. Termina com "Ma tovu ohalecha Yaakov": as tendas são boas quando Israel de fato mora nelas, estudando.
+MOMENTOS: 00:16 Início da Parashá e a ligação com a semana anterior · 01:13 Israel pede passagem a Sichon e promete pagar a água · 06:01 Sichon recusa, é derrotado e Israel conquista sua terra · 09:34 Og de Bashan e a ajuda dos céus na guerra · 12:56 Por que a circuncisão de Og não o protegeu · 16:00 Moav teme Israel e fica sem aliado · 18:25 Balak, descendente de Yitro, é feito rei · 20:23 Por que Balak é chamado filho de Tsipor · 23:23 Balak chama Bilam, o feiticeiro deformado · 26:41 Talvez eu vença, talvez golpeemos: a conduta do ímpio · 29:35 Poderoso é mais forte do que eu: Davi sai de Moav · 31:44 A diferença entre arah e kovah · 33:35 O furor de Elokim e a contradição com Berachot 7a · 37:15 A jumenta de Bilam e o segredo do Zohar · 40:44 Ma tovu ohalecha Yaakov e as casas de estudo
+FONTES CITADAS: 00:16 Bamidbar 22:2-4 · 00:55 Bamidbar 24:14 · 01:20 Bamidbar 21:22 · 01:41 Zohar, Parashat Beshalach, daf 62 · 03:50 Guemará (Makat Dam, Rashi/Midrash sobre a praga de sangue) · 06:01 Bamidbar 21:23 · 06:31 Bamidbar 21:24 · 07:42 Zecharia 4:6 · 07:59 Shekalim (Guemará, daf 13) · 08:15 Chaguigá 4a · 08:31 Shemot 3:5 · 10:06 Guemará (Sotá 35a, Arca que carregava seus carregadores) · 12:48 Bamidbar 21:34 · 13:30 Rashi em Bereshit 42:23 · 13:54 Zohar sobre o nome de HaShem que brilha na circuncisão · 14:27 Bamidbar 21:33-35 · 15:19 Shabat 92a · 15:47 Bamidbar 22:2-3 · 18:25 Zohar, Balak 196a · 20:23 Zohar, Balak 184a · 21:00 Bamidbar 22:2 · 21:04 Shemot 18:1 · 21:40 Midrash sobre Yosef e a mulher de Potifar · 23:05 Zohar, Balak · 23:26 Zohar, Balak 200a · 24:30 Bamidbar 22:8 · 24:56 Zohar, Balak · 25:36 Bamidbar 22:5 · 26:46 Bamidbar 22:6 · 27:07 Bamidbar 22:6 · 29:39 Bamidbar 22:6 · 29:54 Bamidbar 16 (Korach) · 29:59 Berachot 31b (Shmuel equiparado a Moshe e Aharon) · 30:12 Rut 4:13-22 · 31:01 Sefer HaTishbi (aprox) · 31:15 Bava Batra 16b · 31:27 Bamidbar 22:6 · 31:37 Rashi em Bamidbar 22:11 · 31:48 Zohar, Balak 198b · 32:12 Bereshit 31:29 · 33:01 Bamidbar 22:22 · 33:21 Berachot 7a · 34:13 Zohar, Balak · 34:21 Bamidbar 24:16 · 34:45 Bereshit 18:1 · 34:55 Bereshit 17:1 · 35:03 Bereshit 20:3 · 37:11 Bamidbar 22:30 · 37:23 Avodá Zará 4b · 37:31 Rav Chida (aprox) · 38:44 Chavakuk 2:11 · 39:10 Zohar, Balak · 39:52 Shemot 22:17 · 40:13 Bamidbar 23:3 · 40:31 Zohar Chai · 40:44 Bamidbar 24:5 · 41:58 Makot 23b
+
+LINHAS A TRADUZIR:
+0|00:00|טלפונים טלפונים
+1|00:13|כן הפרשה השבוע
+2|00:16|פרשת בלק ויר בלק בן ציפור את כל אשר עשה
+3|00:19|ישראל מורי ויגור מואב מפני העם מאוד כי
+4|00:21|רב הוא רק עצמו מואב מפני בני ישראל
+5|00:24|ויאמרו מואב אל זקני מדיין ילחכו הקהל את
+6|00:27|כל סביבותנו כילכוך השור ורת ירק השדה
+7|00:31|ובלק בין ציפור מלך למואב בעת ההי אז באמת
+8|00:36|הפרשה הזאת מתחילה מהאמצע
+9|00:39|הפרשה הזאתי צריך להבין מאיפה היא באה היא
+10|00:42|הגיעה עוד מהפרשה של שבוע שעבר פרשה של
+11|00:45|שבוע שעבר היא הבאקראונד היא הפלטפורמה
+12|00:48|שדרכה מגיעה הפרשה שלנו ולכן מי שיפתח את
+13|00:52|הפרשה הזאת הרי עוד הפעם ההוא הרשע בא
+14|00:55|לקלל והקריב ולא הקריב ולך יעצך את אשר
+15|00:59|יעשה העם הזה לעמך באחרית הימים וכולי.
+16|01:01|אבל צריך באמת לפתוח כמה פסוקים בשבוע
+17|01:03|שעבר ולראות מאיפה מגיע הבלק הזה לקלל את
+18|01:07|ישראל. מה כל כך חורה לו, מה מציק לו שהוא
+19|01:10|בא שהוא בא
+20|01:13|לקלל את ישראל. אז ככה כתוב בפרשה שבוע
+21|01:16|שעבר. בסוף הפרשה עם ישראל מגיעים שבוע
+22|01:18|שעבר
+23|01:20|לאזור מואב. לא נתן סיכון את ישראל לעבור
+24|01:23|בגבולו. אמר לו מה זה אתה לא נותן לי
+25|01:26|לעבור? לא ניתן ימין ושמאל בדרך המלך נלך
+26|01:31|לא נשתה
+27|01:32|מי באר מה זה לא נשתה ממי באר אנחנו יש
+28|01:35|לנו בארה של מרים כמה פעמים כבר הזכרתי את
+29|01:38|הגאון חידה שהוא כותב שכל טעם שהיו טועמים
+30|01:41|במים היה הטעם של המים של הבאר כמו שהזוהר
+31|01:45|כותב בפרשת בשלח דף סב שכל טעם היו טועמים
+32|01:49|במן ככה כל טעם של שתייה היו טועמים באר X
+33|01:54|בלו לייבל קוקה-קולה ערסים
+34|01:57|שפס שופסי הכל היה במים אז עכשיו כשהיו
+35|02:01|טועמים את זה הם היו משה אומר לו אנחנו לא
+36|02:05|נשתה מי באר מהבאר שלנו לא נשתה אנחנו
+37|02:08|כולנו פה עם שלם צמעים מתים מצמה איך לא
+38|02:12|נשתה איזה הבטחה זאת הוא אומר אני רוצה
+39|02:15|שיהיה לך הכנסה מזה שאנחנו עוברים בגבוליך
+40|02:19|לא נטה ימין ושמאל לא נלך בשדה וקרם
+41|02:22|ונרמוס לכם את הגידולים שגידלתם ונטעתם
+42|02:25|אנחנו בדרך המלך נלך דרך כבושה שבל אחי
+43|02:29|אנחנו לא נזיק אדרבה נועיל אנחנו לא נשתה
+44|02:32|מהבאר שלנו עם שלם 60,000 ריבו לבד
+45|02:37|הגדולים מעל 60 ולבד הקטנים מתחת 20 כולנו
+46|02:41|אנחנו נקנה ממכם מים כמה מי עדן יש מי עדן
+47|02:47|נביאות א אני יודע מה יש אקוונובה כל מיני
+48|02:51|שמות כאלה שממלאים מהברז אז יש כאלה גם
+49|02:54|טובים יש גם טובים
+50|02:56|אבל יש כאלה ממלים מהברז. יש דבר כזה
+51|02:58|במיאמי מים של עדים. זאת אומרת מרתיחים את
+52|03:02|המים והעדים שנוצרים באים ומקבלים אותם
+53|03:06|באיזה מגש. ואז כשהם פוגשים את המגע הקר
+54|03:09|של הסרפס של ה של המגש אז הם חוזרים להיות
+55|03:14|מים ומוכרים את זה בתור מים של עדים. זאת
+56|03:17|אומרת זה הרבה יותר יקר אבל זה מיוחד. בכל
+57|03:20|מקרה, מה שיצא מכאן שכמו שרבנו מבטיח
+58|03:23|לסיכון, אנחנו רק טוב עושים איתך, רק טוב.
+59|03:28|איזה טוב? לא רק שאנחנו לא נרמוס לך קרם
+60|03:31|ושדה, לא כוטפים, לא גונבים, לא נטילת
+61|03:35|ידיים, לא עושים, לא אוכלים מתחת, כלום,
+62|03:38|לא עושים לכם שדות בדרך המלך, רק בדרך
+63|03:41|כבושה שכבר גם ככה אתם הולכים בה, אנחנו
+64|03:44|הולכים בה, לא נשתה מהבאר שלנו, אלא נקנה
+65|03:47|ממכם מים. כמה אתם תרצו לכוס מים? הרי
+66|03:50|הגמרא אומרת למה נקרא שמע מכת דם. דם לשון
+67|03:53|דמים. דמים זה כסף שישראל התעשרו מזה שקנו
+68|03:57|מים ממצרים. נכון? ככה היה. המצרים רצו
+69|04:01|לשתות מים. שבעת ימים היה דם. הקדוש ברוך
+70|04:04|הוא לא רצה להרוג אותם עדיין. היה לו
+71|04:05|תוכניות עוד צפרדה, כינים, ערוב, דבר,
+72|04:08|שכין אחרי או יש עוד הרבה זמן להטביע אותם
+73|04:10|בנילוס, בים סוף. אז לא רוצה להרוג אותם,
+74|04:14|צריך להחיות אותם. אדם לא יכול שבעה ימים
+75|04:16|בלי מים. מה עשה? נתן כוח ליהודים למכור
+76|04:21|מים לגויים. אז גוי היה בא אומר אני רוצה
+77|04:24|את מים הזה. אומר לו, בסדר 700 שק.
+78|04:28|אומר לו מה לקתם היהודים רק כסף אתם.
+79|04:34|אמר לי איזה אחד בברוקלין גוי גוי. פעם
+80|04:36|הייתי בברוקלין נתתי דרשה. איזה גוי הסתכל
+81|04:39|עליי עושה לי rי ווא I'm so exciting. Rab
+82|04:42|איזה אני מתרגש. רבי אמרתי לו first time
+83|04:46|you see פעם ראשונה אתה רואה רבי no but
+84|04:49|first time i talk with פעם ראשונה אני
+85|04:51|מדבר עם רב אף אחד לא מתייחס אליו אז
+86|04:54|אמרתי לו יפה הוא עושה לי you know I know
+87|04:57|exactly when is your holiday when is
+88|05:00|your holiday times אני יודע בדיוק מתי
+89|05:02|החגים שלכם אמרתי לו מתי הוא אומר ככשאין
+90|05:05|פקקים בברוקלין
+91|05:08|במנאתן אני יודע יש לכם חג
+92|05:11|אין פקקים בברוקלין במטן תבינו שכמה
+93|05:15|נמצאים שמה שש מיליון בארצות הברית לבד מה
+94|05:18|שיש יהודים שמה אין פקקים זה חג של
+95|05:21|היהודים ככה זה עובד בכל מקרה משה רבנו
+96|05:25|אומר להם אנחנו נקנה ממכם מים כמה תרצו על
+97|05:28|מים 700 שק 800 ש₪ 750 ש₪ יקח לי 750
+98|05:32|ש₪ כמה תרצו מוכר הכל קונה ואז
+99|05:39|נו מה יהיה
+100|05:42|לכן מה שקורה? משה בא ומביא לו עצה
+101|05:47|כלכלית. לא רק אנחנו באים, גם עושים לך
+102|05:50|כסף סיכון, גם מביאים לך כבוד שעברנו
+103|05:53|מגבולך, לא ניתה. מה אומר לו סיכון? לא
+104|05:56|תעבור בדרכי. פן בחרב צא לקראתך. מה זה
+105|06:01|פן? אתה גבר צא. מה הפן? פן בחרב. למה?
+106|06:05|אמר, "יום אחד אולי אנחנו נסתכסך, אתם
+107|06:08|תיקחו את ארץ ישראל, אתם שכנים שלנו
+108|06:11|נסתכסך. עכשיו שאתם תיכנסו בתוך ארץ ישראל
+109|06:14|אתם יודעים את כל הגבולות שלנו יודעים
+110|06:16|איפה יש עצים איפה זה הצבא איפה זה הכנסת
+111|06:19|יודעים את הכל מה קורה איתנו אז פן בחרב
+112|06:22|אולי יום אחד בחרב אצא לקראתך לא עכשיו
+113|06:25|אני אצא לקראתך אולי יום אחד אני אצא ואתה
+114|06:28|כבר כל השטח שלי כבר גלוי ופרוס לפניך לא
+115|06:31|מסכים לא מסכים אכל אותה ויכהו ישראל לפי
+116|06:36|חרב וירשצו מארנון עד יבוק לא רצית בטוב
+117|06:41|יבוא ברע את כל חבל של סיכון, ארץ סיכון
+118|06:45|בא והרגו אותם מישראל. לקחו את הכל על
+119|06:49|הבתים, עם הכרם עם דרך הכבושה והלא כבושה.
