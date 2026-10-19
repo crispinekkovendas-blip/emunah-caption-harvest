@@ -1,18 +1,23 @@
 #!/usr/bin/env bash
-# dub-fetch.sh [dest] — on the owner's computer: take every file waiting in the draft release dub-queue
-# to E:\shiur-dub (pt/, en/, json/) and delete it from the queue. Run it again whenever; it only moves
-# what is complete (the .json is written last by the lane, so a lesson with its .json is whole).
+# dub-fetch.sh [dest] — on the owner's computer: a backup on E:\shiur-dub (pt/, en/, json/) of every
+# whole lesson in the public releases dub-00 … dub-15 that is not there yet. Since 2026-10-19 the
+# releases are where the site plays the dubs from, so nothing is deleted from GitHub any more.
 set -u
 R=crispinekkovendas-blip/emunah-caption-harvest
 D="${1:-/e/shiur-dub}"
 mkdir -p "$D/pt" "$D/en" "$D/json"
-names=$(gh release view dub-queue -R $R --json assets -q '.assets[].name' 2>/dev/null)
-for j in $(echo "$names" | grep '\.json$'); do
-  id="${j%.json}"
-  for f in "$id.pt.opus" "$id.en.opus" "$id.json"; do
-    echo "$names" | grep -qx "$f" || continue
-    case "$f" in *.pt.opus) sub=pt ;; *.en.opus) sub=en ;; *) sub=json ;; esac
-    gh release download dub-queue -R $R -p "$f" -D "$D/$sub" --clobber && gh release delete-asset dub-queue "$f" -R $R --yes >/dev/null
+for i in $(seq -w 0 15); do
+  rel="dub-$i"
+  names=$(gh release view "$rel" -R $R --json assets -q '.assets[].name' 2>/dev/null)
+  for j in $(echo "$names" | grep '\.json$'); do
+    id="${j%.json}"
+    [ -f "$D/json/$id.json" ] && continue
+    for f in "$id.pt.opus" "$id.en.opus" "$id.json"; do
+      echo "$names" | grep -qx "$f" || continue
+      case "$f" in *.pt.opus) sub=pt ;; *.en.opus) sub=en ;; *) sub=json ;; esac
+      # the .json last, so a lesson with its .json on E: is whole
+      gh release download "$rel" -R $R -p "$f" -D "$D/$sub" --clobber
+    done
+    echo "$id"
   done
-  echo "$id"
 done
