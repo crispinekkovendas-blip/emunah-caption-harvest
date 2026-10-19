@@ -1,14 +1,14 @@
 # lane6-004
 
 11 of 13 lessons published · 1 skipped · status **pending**
-Tokens (300 agent runs with a record, 1299 refused or without record): 2.2M in (mostly cache) · 2.20M out · API-equivalent 29.31
+Tokens (312 agent runs with a record, 1299 refused or without record): 2.3M in (mostly cache) · 2.28M out · API-equivalent 30.07
 
 | lesson | state | detail |
 |---|---|---|
 | gCQmxXrwF0k | ✓ published | 1080 lines · Eleições segundo a Halachá e os 77 de Lemech |
 | 86LKvFjYoHU | ✓ published | 1731 lines · Parashat Noach: a arca, as boas ações e a fé simples |
 | 23A3w7tZrTY | ✓ published | 2051 lines · Vayechi: o ponto da verdade e a Halachá de Pelag HaMinchá |
-| guohen2mcaY | skipped after 3 tries | line 1078 twice |
+| guohen2mcaY | skipped | |
 | LAQOtuzLU2o | ✓ published | 1181 lines · As letras, o pergaminho e a luz oculta da Torá |
 | uqTzb2Xk2jI | ✓ published | 980 lines · Hechal HaTemurot: o Filho do Rei e o Filho da Serva |
 | bUvBIdXauGA | ✓ published | 1018 lines · Os dias após Pessach e a Gueulá: Chesed e Gevurá |
