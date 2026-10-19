@@ -1,14 +1,14 @@
 # lane1-009
 
-8 of 18 lessons published · 9 skipped · status **pending**
-Tokens (609 agent runs with a record, 2441 refused or without record): 4.5M in (mostly cache) · 3.93M out · API-equivalent 54.38
+8 of 18 lessons published · 10 skipped · status **done**
+Tokens (610 agent runs with a record, 2441 refused or without record): 4.5M in (mostly cache) · 3.93M out · API-equivalent 54.44
 
 | lesson | state | detail |
 |---|---|---|
 | QlgPJKlmXXE | ✓ published | 859 lines · Além do arco-íris: o mundo novo depois do dilúvio |
 | QPvv1N3Yfxk | skipped | |
 | sThaeWMCtvI | ✓ published | 1581 lines · Korach: as esposas de Korach e de On ben Pelet |
-| THaiO0_J5gk | waiting | 14/15 parts |
+| THaiO0_J5gk | skipped after 3 tries | 9 lines missing |
 | s3563roAZZs | skipped | |
 | -glyjn4lTB4 | skipped | |
 | fnQ3lAZJB5g | skipped | |
