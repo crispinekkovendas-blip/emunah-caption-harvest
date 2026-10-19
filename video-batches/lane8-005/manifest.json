@@ -2,7 +2,7 @@
  "name": "lane8-005",
  "lane": 8,
  "created": "2026-10-19T05:51:43.517Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "wOxqGxgwDGs",
@@ -160,7 +160,7 @@
  "tries": {
   "sNM_S5bdC-o": 1,
   "T29WNCBs5e8": 3,
-  "L209dTca5_c": 2,
+  "L209dTca5_c": 3,
   "Ia_QIk-dUWk": 3
  },
  "done": [
@@ -174,6 +174,7 @@
  ],
  "skipped": [
   "T29WNCBs5e8",
-  "Ia_QIk-dUWk"
+  "Ia_QIk-dUWk",
+  "L209dTca5_c"
  ]
 }
