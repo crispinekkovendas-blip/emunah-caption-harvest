@@ -1,0 +1,60 @@
+{
+ "name": "lane8-006",
+ "lane": 8,
+ "created": "2026-10-19T19:01:08.324Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "oMA1QPCzExc",
+   "title": "Vayigash: as perguntas de Yehudá e a resposta de Yosef",
+   "lines": 628,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "8R3sVro6QF8",
+   "title": "Kí Tisá: aliyot, Purim e a divisão da Parashá",
+   "lines": 526,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "MHqDkQCQqpM",
+   "title": "Yosef no Nilo, o sepultamento e a alma de Moshé",
+   "lines": 643,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3xqYecSPjaw",
+   "title": "A maldição do sábio e o nome de Moshê ausente de Tetzavê",
+   "lines": 579,
+   "parts": 5,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "oMA1QPCzExc.p0",
+  "oMA1QPCzExc.p1",
+  "oMA1QPCzExc.p2",
+  "oMA1QPCzExc.p3",
+  "oMA1QPCzExc.p4",
+  "oMA1QPCzExc.p5",
+  "8R3sVro6QF8.p0",
+  "8R3sVro6QF8.p1",
+  "8R3sVro6QF8.p2",
+  "8R3sVro6QF8.p3",
+  "8R3sVro6QF8.p4",
+  "MHqDkQCQqpM.p0",
+  "MHqDkQCQqpM.p1",
+  "MHqDkQCQqpM.p2",
+  "MHqDkQCQqpM.p3",
+  "MHqDkQCQqpM.p4",
+  "MHqDkQCQqpM.p5",
+  "3xqYecSPjaw.p0",
+  "3xqYecSPjaw.p1",
+  "3xqYecSPjaw.p2",
+  "3xqYecSPjaw.p3",
+  "3xqYecSPjaw.p4"
+ ]
+}
