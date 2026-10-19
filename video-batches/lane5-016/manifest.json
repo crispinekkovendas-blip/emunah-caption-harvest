@@ -1,0 +1,132 @@
+{
+ "name": "lane5-016",
+ "lane": 5,
+ "created": "2026-10-19T11:15:01.109Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "U7xtPPnjawE",
+   "title": "Vayetze: a saída do tsadik e o maasser kesafim",
+   "lines": 734,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PwNIV-NAcGk",
+   "title": "Vayakhel: o Bezerro, Rosh Chodesh e os 12 meses",
+   "lines": 364,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "hWpjADEp14U",
+   "title": "Vayeshev: o sofrimento de Yaakov e o conserto de Adam",
+   "lines": 790,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "aJL8BNw_8Mk",
+   "title": "Chayei Sarah: o Elogio de Sará, o Shidduch e Rav Pethaya",
+   "lines": 957,
+   "parts": 8,
+   "from": "mais fontes"
+  },
+  {
+   "id": "VbhM08Usmc4",
+   "title": "As cantigas de Beshalach, o mar e o cuidado com o próximo",
+   "lines": 776,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "lDY4zj1yl68",
+   "title": "Vayêshev: as provações de Yaakov e o perigo da raiva",
+   "lines": 703,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "UtQGs_NBBkA",
+   "title": "O segredo do Ketoret e como compô-lo",
+   "lines": 813,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "YyWNrhtmkwA",
+   "title": "O poder do nome: como escolher e quando evitar um nome",
+   "lines": 758,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "RpIU6tslFF8",
+   "title": "Ribit: a gravidade do juro e seus limites na Halachá",
+   "lines": 690,
+   "parts": 6,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "U7xtPPnjawE.p0",
+  "U7xtPPnjawE.p1",
+  "U7xtPPnjawE.p2",
+  "U7xtPPnjawE.p3",
+  "U7xtPPnjawE.p4",
+  "U7xtPPnjawE.p5",
+  "U7xtPPnjawE.p6",
+  "PwNIV-NAcGk.p0",
+  "PwNIV-NAcGk.p1",
+  "PwNIV-NAcGk.p2",
+  "PwNIV-NAcGk.p3",
+  "hWpjADEp14U.p0",
+  "hWpjADEp14U.p1",
+  "hWpjADEp14U.p2",
+  "hWpjADEp14U.p3",
+  "hWpjADEp14U.p4",
+  "hWpjADEp14U.p5",
+  "hWpjADEp14U.p6",
+  "aJL8BNw_8Mk.p0",
+  "aJL8BNw_8Mk.p1",
+  "aJL8BNw_8Mk.p2",
+  "aJL8BNw_8Mk.p3",
+  "aJL8BNw_8Mk.p4",
+  "aJL8BNw_8Mk.p5",
+  "aJL8BNw_8Mk.p6",
+  "aJL8BNw_8Mk.p7",
+  "VbhM08Usmc4.p0",
+  "VbhM08Usmc4.p1",
+  "VbhM08Usmc4.p2",
+  "VbhM08Usmc4.p3",
+  "VbhM08Usmc4.p4",
+  "VbhM08Usmc4.p5",
+  "VbhM08Usmc4.p6",
+  "lDY4zj1yl68.p0",
+  "lDY4zj1yl68.p1",
+  "lDY4zj1yl68.p2",
+  "lDY4zj1yl68.p3",
+  "lDY4zj1yl68.p4",
+  "lDY4zj1yl68.p5",
+  "UtQGs_NBBkA.p0",
+  "UtQGs_NBBkA.p1",
+  "UtQGs_NBBkA.p2",
+  "UtQGs_NBBkA.p3",
+  "UtQGs_NBBkA.p4",
+  "UtQGs_NBBkA.p5",
+  "UtQGs_NBBkA.p6",
+  "YyWNrhtmkwA.p0",
+  "YyWNrhtmkwA.p1",
+  "YyWNrhtmkwA.p2",
+  "YyWNrhtmkwA.p3",
+  "YyWNrhtmkwA.p4",
+  "YyWNrhtmkwA.p5",
+  "YyWNrhtmkwA.p6",
+  "RpIU6tslFF8.p0",
+  "RpIU6tslFF8.p1",
+  "RpIU6tslFF8.p2",
+  "RpIU6tslFF8.p3",
+  "RpIU6tslFF8.p4",
+  "RpIU6tslFF8.p5"
+ ]
+}

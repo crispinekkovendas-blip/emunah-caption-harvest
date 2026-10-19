@@ -1,0 +1,114 @@
+videoId: RpIU6tslFF8
+parte 6 de 6 · traduzir as linhas 600 a 689 (90 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Ribit: a gravidade do juro e seus limites na Halachá
+RESUMO: O Rav Meir Eliyahu abre contando sua viagem à África do Sul, Nova York e Canadá e observa que a Parashá Ki Teitzei é a que mais contém mitsvot (77), seguida de Mishpatim (53) e Kedoshim (48). Ele passa ao tema do juro, com o versículo "Lo tashich l'achicha neshech kesef" (Devarim 23:20-21), e explica com o Rambam (Hilchot Malve veLove 4:1) que o juro se chama "neshech" porque morde como uma cobra ou cão. Citando Shekalim, Bava Metzia 61 e 75, Tosafot, o Arizal e o Rambam, mostra que quem empresta com juro é chamado de herege, não ressuscita na ressurreição dos mortos e, segundo Tosafot, perde até o mundo vindouro, ilustrando com a visão dos ossos secos de Yechezkel e com histórias. Depois explica que o juro vale também para favores, cumprimentos, ensino de Torá e até um agradecimento, com a discussão de Rav Shlomo Zalman Auerbach e do Chazon Ish. Trata do heter iska, dos bancos, do prosbol antes do Shemitá e conclui que a Torá manda emprestar com juro ao não judeu (Devarim 23:21), uma mitsvá de fazer segundo o Rambam.
+MOMENTOS: 00:00 Viagem à África do Sul, Nova York e Canadá · 01:37 As três parashiot com mais mitsvot · 02:47 O versículo do juro: Lo tashich l'achicha · 03:22 Por que o juro se chama neshech (mordida) · 06:10 Gemará Shekalim: a matrona e Rabi Aba · 07:29 A severidade: herege, sem parte no mundo vindouro · 08:54 Quem transgride: devedor, credor, testemunhas e escriba · 10:09 Os ossos secos de Yechezkel e quem não ressuscita · 11:48 O Arizal e o avelá dígarmá nos ossos · 17:39 O Chatam Sofer e o Shulchan Arukh sobre o juro · 21:47 Rambam: o juro de palavras, cumprimento e Torá · 23:54 Pode agradecer? Rav Shlomo Zalman e o Chazon Ish · 27:45 O heter iska e os bancos · 29:56 O prosbol antes do Shemitá · 33:26 A mitsvá de emprestar com juro ao não judeu
+FONTES CITADAS: 02:47 Devarim 23:20-21 · 03:22 Rambam, Hilchot Malve veLove 4:1 · 06:10 Shekalim 8b (aprox) · 07:05 Mishlei 8:1 / Kohelet 8:1 · 07:48 Rambam, Hilchot Malve veLove 4:2 · 08:15 Vayikra 25:37-38 · 08:54 Bava Metzia 75b · 09:13 Vayikra 19:14 · 09:15 Bava Metzia 61b · 10:09 Pirkei deRabi Eliezer 33 · 10:09 Sotá 4b (Tosafot) · 10:46 Yechezkel 37:11-14 · 11:48 Arizal, Etz Chaim, Shaar 18 (aprox) · 17:03 Yeshayahu 54:11-12 · 17:39 Chatam Sofer, Parashat Behar · 18:23 Shulchan Arukh, Yoreh Deah (poema final) · 20:45 Sotá 4b, Tosafot · 21:01 Devarim 23:20 · 21:47 Rambam, Hilchot Malve veLove 5:12 · 22:29 Rambam, Hilchot Malve veLove 5:12 · 22:43 Rambam, Hilchot Malve veLove 5:12 · 23:54 Minchat Shlomo (Rav Shlomo Zalman Auerbach) 1:27 · 24:34 Chazon Ish, Orchot Rabenu 3, p. 94 · 28:02 Heter iska · 30:01 Prosbol de Hillel (Gitin 36a) · 32:48 Teshuvot veHanhagot 2:422 · 33:26 Devarim 23:21 · 33:36 Rambam, Hilchot Malve veLove 5:1 · 34:50 Rambam, Hilchot Malve veLove 1:2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|31:47|אז א איך אדם יקנה בית בצורה כזאתי? הוא
+589|31:51|בבעיה. הוא בבעיה. אז היו נוהגים לעשות
+590|31:55|היו נוהגים לעשות התרי עסקות.
+591|31:59|ההתר עסקה הוא לא כזה תמים, הוא לא כזה
+592|32:01|פשוט בפרט שאם לא יודעים לכתוב את כל ה את
+593|32:05|כל הסעיפים הקטנים כמו שצריך אתה בפלונטר
+594|32:08|אז רגע אז לא לקחת כסף מהבנקים אז איך אני
+595|32:11|אקנה בית אדום היום צריך עון עצמי מאיפה
+596|32:14|גם תביא את העון עצמי גם פה פעם היו
+597|32:17|מביאים לך באמריקה לפני הכריסה הקריסיס של
+598|32:21|2008 היית מקבל כמעט 100% את כל הבית מה
+599|32:24|זה כמעט 100% היית בא לבנק היית מראה רק
+
+LINHAS A TRADUZIR:
+600|32:27|שאתה אתה עובד, היית אומר להם, שמעו, הבית
+601|32:29|עולה מיליון דולר, אתה מקבל מיליון דולר,
+602|32:31|100% מיליון דולר. פה מוציאים לך את
+603|32:35|הקישקה עד שיתנו לך פה ואם איזה ריביות
+604|32:38|שאתה צריך למשקן את עצמך כדי להחזיר להם
+605|32:42|עוד 40 שנה, אולי תסיים את ה תסיים את את
+606|32:45|המשכנתא הזאתי. אז איך בן אדם יקנה בית?
+607|32:48|תשובות והנהגות חלק ב סימן תכב כותב ידוע
+608|32:51|מה שאמר הגרא שריביתי עבירה תמידית יום
+609|32:54|בלילה הוא עובר על איסור כל הזמן עובר על
+610|32:57|איסור הגרס סיפר על אחד שהתגלה בחלום ואמר
+611|33:01|שבית דין של מעלה לא מסכימים להיתר עסקה
+612|33:05|של האחרונים ומקים ועונשים על ריבית הוא
+613|33:08|הרג אותנו אז מה אפילו בהתר עסקה משמ
+614|33:12|שאסור כאן לפי זה אז מה הוא יעשה ממשיך
+615|33:16|והדברים מבילים הרי שאפילו בהתר יותר עסקה
+616|33:18|מצוי לפעמים שאינון יסקראוי. לכן אם כבר
+617|33:20|עושה יסדר התר עסקה בלי חששות. זאת אומרת
+618|33:24|צריך לדאוג באמת שתלמיד חכם יעשה את זה
+619|33:26|כמו שצריך. כיוון שכתוב בפסוק לנוכרי תשיך
+620|33:29|ולאחיך לא תשיך כמה שמנן שיש על זה מצוות
+621|33:32|עשה דאורייתא להלוות לגוי. מצוות עשה
+622|33:36|דאורייתא רמבם פרק הלכה א'. הגוי והגר
+623|33:39|תושף לובים ומלווים מהם בריבית שנאמר לא
+624|33:42|תשיך לאחיך. לאחיך אסור ולשאר העולם מותר.
+625|33:46|הוא מצווה עשה. להשיך לאקום שנאמר לנוכרית
+626|33:50|השיך מפי השמואה למדו שזאת מצוות עשה וזה
+627|33:54|דין תורה ולכן אני אמרתי לתלמידים שלי
+628|33:56|במיאמי אתם רוצים מצוות עשה דאורייתא לכו
+629|33:59|לגוי תעלבו לו דולר
+630|34:02|ותבקשו ממנו מחר
+631|34:04|א א פטריק מחר תביא לי דולר וקווטר יעני
+632|34:08|דולר ועוד רבע דולר את בסדר תעשה לי את
+633|34:12|הטובה הזאת אומר לו למה לא אני הלווה ממך
+634|34:15|אתה מביא לו דולר הוא מחזיר לך הדולר ורבע
+635|34:18|קיימת מצוות עשה דאורייתא של לנוכרית השיך
+636|34:22|[נחירות בוז]
+637|34:23|אז תראה איזה מעלה עצומה זאתי אז אם יש לך
+638|34:25|גויים ערבים וכאלה תן לו 10 ש₪ תגיד לו
+639|34:29|מחר תחזיר לי 10 ש₪ ו-10 אגורות הוא לא
+640|34:32|יקפיד על 10 הגורות הוא יחזיר לך 10
+641|34:34|הגורות מצווה תעשה דאורייתא לנוכרי תשיך
+642|34:37|איזה מעלה עצומה הזאתי הרמבם הולך לשיטתו
+643|34:40|שמותר גם לדחוק בו הרמבם אומר תקשר אליו
+644|34:44|תציק לו תציק לו נו מה עם ה10 שק תחזיר את
+645|34:47|ה10 שק אחמד איפה הלכת איפה ה10 שק לאן
+646|34:50|הלכת היכות לובה ומלווה פרק א' הלכה ב כל
+647|34:54|הנוגש מעני והוא יודע שאין לו מה יחזיר
+648|34:57|עובר בלא תעשה שנאמר לו תהיה לו כנושה
+649|35:01|ומצווה עשה לנגוש את האקום ולעצר לו שנאמר
+650|35:07|לנוכרית יגוש אז אז יש עניין מפי השמוע
+651|35:11|למדו שזאת מצוות עשה כך כותב הרמבם ולכן
+652|35:13|אם אתה רוצה לקיים את המצוות האלה בקל
+653|35:16|אפשר לעשות את זה על ידי סכום קטן ואז
+654|35:19|הרווחת גם את המצוות עשה דאורייתא הזו.
+655|35:21|רבותיי, יש עוד המון על מה לדבר בסוגיית
+656|35:23|הריבית והיא סוגיה מאוד מאוד מאוד זבוכה
+657|35:27|בהלכה. אתם רואים שאנחנו מסתבכים אפילו עם
+658|35:29|שלום ותודה כל שכן על לימוד תורה והלכה כל
+659|35:33|שכן לקבל ממנו איזה טובת הנאה. הבאתי לו
+660|35:36|100 ש₪ והוא בא לצאת ואומר לו תעשה טובה
+661|35:40|רק סגור את האור לפני שאתה יוצא ריבית.
+662|35:43|איך מותר לי לבקש ממנו טובות אחרי
+663|35:45|שהלווותי לו? אתם מבינים? אז הלכה כל כך
+664|35:47|סבוכה. צריך מאוד לעשות דעת תורה. כל פעם
+665|35:50|שיש לכם איזה שאלה או ספק אז תשאלו חכמים.
+666|35:53|רבותיי, שבוע הבא השיעור לא התקיים איתי
+667|35:55|כי אני נוסע לצפון לעשות המון שיעורים.
+668|35:57|שמה בצפון יש לנו מרתון של שיעורים לכבוד
+669|36:00|אלול. אז שבוע הבא אנחנו לא נהיה כאן. אבל
+670|36:04|תוכלו להשלים את כל השיעורים דרך הקו
+671|36:06|שלנו. יש לנו קו 029
+672|36:13|19 02
+673|36:17|1929 1929
+674|36:20|5129
+675|36:22|כל השיעורים לא מצונזר לא עולה כסף לכבוד
+676|36:25|השם תוכלו לשמוע את זה שם השם יעזור לנו
+677|36:28|על דבר כבוד שמו חזק וברוך
+678|36:31|>> חלקה תביא אותו
+679|36:35|>> רגע רגע משה שתעמוד תעמוד
+680|36:41|איזה
+681|36:47|>> משה שער כמוך יש לו [‏צחוק] עין הר כן
+682|36:52|נעשה לך חלקה בעזרת השם זה הקטן גדול יהיה
+683|36:55|>> אמן >> אמן תראה ממנו נחת יהיה ירא שמיים עבד
+684|36:58|להשם יתברך וישמח את הבורא ברוך הוא בכל מה שהוא עושה
+685|37:01|>> אמ אמן
+686|37:03|>> והצלחה גזרות טובות רבי חנניה בן הקשה
+687|37:07|אומרצה הקדוש ברוך לזרה תורה מצוות שלמה
+688|37:10|רדיוני חפץ צדקים תורה ויהדיר
+689|37:12|>> התגדל והתקדש שמי רב
