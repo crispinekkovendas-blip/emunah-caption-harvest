@@ -1,7 +1,7 @@
 # lane9-003
 
 5 of 10 lessons published · 4 skipped · status **pending**
-Tokens (300 agent runs with a record, 441 refused or without record): 2.1M in (mostly cache) · 1.93M out · API-equivalent 26.14
+Tokens (324 agent runs with a record, 441 refused or without record): 2.3M in (mostly cache) · 2.05M out · API-equivalent 27.49
 
 | lesson | state | detail |
 |---|---|---|
@@ -13,5 +13,5 @@ Tokens (300 agent runs with a record, 441 refused or without record): 2.1M in (m
 | OV8sU2kKdsQ | ✓ published | 1070 lines · Or HaChaim: toda a criação em uma só fala (Bereshit 1:1) |
 | 5IdjiPekQFs | ✓ published | 750 lines · Eglá Arufá: o valor infinito de cada judeu |
 | i_T0gct9odY | ✓ published | 916 lines · Parashá Chukat: três condições da Vaca Vermelha |
-| pNhfS9TvPzA | ✗ will be redone (try 2) | 1 lines missing |
-| 4dj5Q3RQlLc | skipped after 3 tries | 3 lines missing |
+| pNhfS9TvPzA | waiting | 9/11 parts |
+| 4dj5Q3RQlLc | skipped | |
