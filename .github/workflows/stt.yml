@@ -32,14 +32,14 @@ jobs:
     if: inputs.lane == ''
     runs-on: ubuntu-latest
     steps:
-      - name: Wake the eight lanes (only when audio is waiting)
+      - name: Wake the fourteen lanes (only when audio is waiting)
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           n=$(gh release view stt-queue --repo "$GITHUB_REPOSITORY" --json assets -q '.assets[].name' | grep -c opus || true)
           echo "$n files waiting"
           [ "$n" -gt 0 ] || exit 0
-          for lane in 1 2 3 4 5 6 7 8; do
+          for lane in $(seq 1 14); do
             gh workflow run stt.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=$lane
           done
 
@@ -69,7 +69,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
-        run: python -u scripts/transcribe.py --lane ${{ inputs.lane }} --lanes 8 --budget-min 230 ${{ inputs.ids != '' && format('--ids {0}', inputs.ids) || '' }}
+        run: python -u scripts/transcribe.py --lane ${{ inputs.lane }} --lanes 14 --budget-min 230 ${{ inputs.ids != '' && format('--ids {0}', inputs.ids) || '' }}
       - name: Keep the lane going while audio waits
         if: inputs.ids == ''
         env:

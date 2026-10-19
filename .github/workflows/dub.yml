@@ -20,6 +20,7 @@ on:
       chain:
         description: 'Start the lane again when done'
         default: 'true'
+  # 2026-10-19: 6 lanes (was 12) so transcription gets 14 of the 20 job slots
   # a lane whose run was cancelled (time limit) never starts the next one: wake all lanes every hour;
   # a lane already running just goes on (2026-10-18)
   schedule:
@@ -38,11 +39,11 @@ jobs:
     if: inputs.lane == ''
     runs-on: ubuntu-latest
     steps:
-      - name: Wake the twelve lanes
+      - name: Wake the six lanes
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          for lane in 1 2 3 4 5 6 7 8 9 10 11 12; do
+          for lane in $(seq 1 6); do
             gh workflow run dub.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=$lane
           done
 
@@ -75,9 +76,9 @@ jobs:
       - name: Dub
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python -u scripts/dub.py --lane ${{ inputs.lane }} --lanes 12 --budget-min 230 ${{ inputs.ids != '' && format('--ids {0}', inputs.ids) || '' }}
+        run: python -u scripts/dub.py --lane ${{ inputs.lane }} --lanes 6 --budget-min 230 ${{ inputs.ids != '' && format('--ids {0}', inputs.ids) || '' }}
       - name: Keep the lane going
-        if: inputs.chain == 'true' && inputs.ids == ''
+        if: inputs.chain == 'true' && inputs.ids == '' && fromJSON(inputs.lane) <= 6
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
