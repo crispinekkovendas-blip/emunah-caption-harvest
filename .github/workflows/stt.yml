@@ -1,0 +1,76 @@
+name: Transcribe lessons without captions (Whisper, ivrit.ai)
+
+# 2026-10-18 (the owner: "lets harvest more"): the lessons YouTube never captioned get a Hebrew
+# transcript from faster-whisper + ivrit.ai's model on the CPU runner. The audio waits in the draft
+# release stt-queue (put there by W04 scripts/stt-feed.mjs on the owner's computer). See scripts/transcribe.py.
+#
+#   gh workflow run stt.yml                       (all lanes)
+#   gh workflow run stt.yml -f lane=1 -f ids=abc  (a test)
+
+on:
+  workflow_dispatch:
+    inputs:
+      lane:
+        description: 'Lane 1-4 (empty = start all four)'
+        default: ''
+      ids:
+        description: 'Only these ids (a test)'
+        default: ''
+  schedule:
+    - cron: '47 * * * *'
+
+concurrency:
+  group: stt-lane-${{ inputs.lane || 'kick' }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  kick:
+    if: inputs.lane == ''
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wake the four lanes (only when audio is waiting)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh release view stt-queue --repo "$GITHUB_REPOSITORY" --json assets -q '.assets|length' || echo 0)
+          echo "$n files waiting"
+          [ "$n" -gt 0 ] || exit 0
+          for lane in 1 2 3 4; do
+            gh workflow run stt.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=$lane
+          done
+
+  stt:
+    if: inputs.lane != ''
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Cache the model and the wheels
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/pip
+          key: stt-ivrit-turbo-v1
+      - name: Install
+        run: python -m pip install --quiet faster-whisper
+      - name: Transcribe
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python -u scripts/transcribe.py --lane ${{ inputs.lane }} --lanes 4 --budget-min 230 ${{ inputs.ids != '' && format('--ids {0}', inputs.ids) || '' }}
+      - name: Keep the lane going while audio waits
+        if: inputs.ids == ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh release view stt-queue --repo "$GITHUB_REPOSITORY" --json assets -q '.assets|length' || echo 0)
+          [ "$n" -gt 0 ] && gh workflow run stt.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=${{ inputs.lane }} || true
