@@ -20,6 +20,10 @@ on:
       chain:
         description: 'Start the lane again when done'
         default: 'true'
+  # a lane whose run was cancelled (time limit) never starts the next one: wake all lanes every hour;
+  # a lane already running just goes on (2026-10-18)
+  schedule:
+    - cron: '17 * * * *'
 
 concurrency:
   group: dub-lane-${{ inputs.lane || 'kick' }}
@@ -71,7 +75,7 @@ jobs:
       - name: Dub
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python -u scripts/dub.py --lane ${{ inputs.lane }} --lanes 12 --budget-min 300 ${{ inputs.ids != '' && format('--ids {0}', inputs.ids) || '' }}
+        run: python -u scripts/dub.py --lane ${{ inputs.lane }} --lanes 12 --budget-min 230 ${{ inputs.ids != '' && format('--ids {0}', inputs.ids) || '' }}
       - name: Keep the lane going
         if: inputs.chain == 'true' && inputs.ids == ''
         env:
