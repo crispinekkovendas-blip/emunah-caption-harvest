@@ -104,29 +104,36 @@ const KEY = (id) => `videos/transcript/${id}`
 const state = fs.existsSync(STATE_FILE) ? JSON.parse(fs.readFileSync(STATE_FILE, 'utf8')) : { done: [], failed: {}, runs: [] }
 const saveState = () => fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 1))
 const done = new Set(state.done)
+/** deleted, private or captionless videos: asking again only spends the rate limit */
+const gone = new Set(state.gone || [])
 
 /* ── what the cache already holds ──────────────────────────────────────── */
+/**
+ * Keys only, filtered in the database — the same two queries as /videos/swept/. Pulling every
+ * document's value (2026-10-04: ~900 transcripts) made Supabase time out with a 500.
+ */
 async function cachedIds() {
-  const q = new URLSearchParams({ select: 'key,value', key: 'like.videos/transcript/*', limit: '5000' })
-  const res = await fetch(`${SUPA}/rest/v1/global_options?${q}`, { headers: { apikey: ANON, authorization: `Bearer ${ANON}` } })
-  if (!res.ok) throw new Error(`Supabase ${res.status}`)
-  const rows = await res.json()
-  const withCues = new Set()
-  const withSummary = new Set()
-  for (const r of rows) {
-    const id = r.key.slice('videos/transcript/'.length)
-    if (!/^[\w-]{11}$/.test(id)) continue
-    let j
-    try {
-      j = JSON.parse(r.value)
-    } catch {
-      continue
+  // Supabase answers at most 1,000 rows a request: page through, ordered by key
+  const keys = async (valueFilter) => {
+    const ids = new Set()
+    for (let offset = 0; ; offset += 1000) {
+      const q = new URLSearchParams({ select: 'key', key: 'like.videos/transcript/___________', order: 'key', limit: '1000', offset: String(offset) })
+      if (valueFilter) q.set('value', valueFilter)
+      const res = await fetch(`${SUPA}/rest/v1/global_options?${q}`, { headers: { apikey: ANON, authorization: `Bearer ${ANON}` } })
+      if (!res.ok) throw new Error(`Supabase ${res.status}`)
+      const rows = await res.json()
+      for (const r of rows) {
+        const id = r.key.slice('videos/transcript/'.length)
+        if (/^[\w-]{11}$/.test(id)) ids.add(id)
+      }
+      if (rows.length < 1000) break
     }
-    if (j.unavailable) continue
-    if (Array.isArray(j.cues) && j.cues.length) withCues.add(id)
-    if (String(j.summary || '').trim()) withSummary.add(id)
+    return ids
   }
-  return { withCues, withSummary }
+  // 2026-10-13: scanning the values (cues / summary) now times out with a 500 — the table holds the
+  // subtitle translations too. Keys alone are cheap: a lesson with a document is not harvested again.
+  const withCues = await keys('')
+  return { withCues, withSummary: withCues }
 }
 
 /* ── json3 → the site's cues ───────────────────────────────────────────── */
@@ -211,7 +218,7 @@ function ytdlp(videoId, subLangs) {
     .filter((f) => f.startsWith(videoId) && f.endsWith('.json3'))
     .map((f) => path.join(TMP, f))
   const err = `${r.stderr || ''}`.trim()
-  return { files, err, rateLimited: /429|Too Many Requests/i.test(err), absent: /no subtitles|There are no subtitles/i.test(err) }
+  return { files, err, rateLimited: /429|Too Many Requests|confirm you.re not a bot/i.test(err), absent: /no subtitles|There are no subtitles/i.test(err) }
 }
 
 /* ── Supabase ──────────────────────────────────────────────────────────── */
@@ -236,10 +243,13 @@ async function main() {
   const { withCues, withSummary } = await cachedIds()
 
   let pool = IDS.length ? IDS.map((id) => seed.videos.find((v) => v.videoId === id) || { videoId: id, title: id, duration: 0 }) : seed.videos
-  pool = pool.filter((v) => v.videoId && (FORCE || (!withCues.has(v.videoId) && !done.has(v.videoId))))
+  // YouTube writes its automatic captions a day or more after the upload: a video younger than two
+  // weeks that had none is asked again (2026-10-13), only older ones stay in "gone"
+  const fresh = (v) => v.published && Date.now() - new Date(v.published).getTime() < 14 * 86400000
+  pool = pool.filter((v) => v.videoId && (FORCE || (!withCues.has(v.videoId) && !done.has(v.videoId) && (!gone.has(v.videoId) || fresh(v)))))
   const todo = pool.slice(0, LIMIT === Infinity ? pool.length : LIMIT)
 
-  console.log(`shelf ${LANG} · ${seed.videos.length} videos · ${withCues.size} already have cues (${withSummary.size} of them a summary)`)
+  console.log(`shelf ${LANG} · ${seed.videos.length} videos · ${withCues.size} already have a document`)
   console.log(`${pool.length} left to harvest, taking ${todo.length} this run · ${GAP / 1000}s between videos\n`)
   if (DRY) {
     for (const v of todo.slice(0, 20)) console.log('  would harvest', v.videoId, `${Math.round((v.duration || 0) / 60)}min`, String(v.title || '').slice(0, 60))
@@ -287,10 +297,20 @@ async function main() {
 
     if (!got) {
       const rate = /429/.test(why) || attempt >= 3
-      if (rate) refused++
-      else missing++
-      streak++
+      // only a refusal counts towards the wall: a deleted video says nothing about the rate limit
+      if (rate) {
+        refused++
+        streak++
+      } else {
+        missing++
+        streak = 0
+        if (/not available|private|removed|terminated|no subtitles/i.test(why)) {
+          gone.add(id)
+          state.gone = [...gone]
+        }
+      }
       state.failed[id] = why || 'rate limited'
+      saveState()
       console.log(`  ${String(i + 1).padStart(3)}/${todo.length} ${id}  —  no captions  (${(why || 'rate limited').slice(0, 60)})`)
       if (streak >= 6) {
         walled = true
