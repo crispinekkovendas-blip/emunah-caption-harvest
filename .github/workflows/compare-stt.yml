@@ -38,8 +38,9 @@ jobs:
             python -m pip install --quiet torch==2.5.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cpu
             python -m pip install --quiet faster-whisper numpy soundfile uroman
           else
-            python -m pip install --quiet torch==2.8.0 torchaudio==2.8.0 --index-url https://download.pytorch.org/whl/cpu
-            python -m pip install --quiet whisperx "transformers<5"
+            python -m pip install --quiet whisperx
+            python -m pip list 2>/dev/null | grep -iE "^(torch|torchaudio|torchvision|transformers|whisperx|ctranslate2|faster-whisper|pyannote)" || true
+            python -c "from transformers.pipelines import Pipeline" 2>&1 | tail -5 || true
           fi
       - name: Audio
         env:
