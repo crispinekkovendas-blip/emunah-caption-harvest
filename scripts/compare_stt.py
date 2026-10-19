@@ -8,6 +8,7 @@ owner: "Whisper X is not better at listening to Hebrew? lets do a test compariso
   A  WhisperX stock: large-v3 + WhisperX's Hebrew aligner (imvladikon/wav2vec2-xls-r-300m-hebrew)
   B  WhisperX with ivrit.ai's Hebrew Whisper + the same aligner
   C  ours: ivrit.ai's Hebrew Whisper (faster-whisper) + Meta MMS forced alignment (align.py)
+  D  B's words (WhisperX + ivrit.ai) retimed by Meta MMS — needs B.json (--from)
 
 Every variant ends as words with a time; `score` compares them with YouTube's captions of the same
 minutes (themselves automatic — a yardstick, not the truth): word error rate, and how far each matched
@@ -93,6 +94,26 @@ def run_ours(wav, vid, audio):
     return spread(new), {'asr_s': round(t_asr), 'align_s': round(t_al), 'cues_whisper': cues, 'cues_mms': new}
 
 
+def run_mms_on(src, wav):
+    """another variant's words → lines of ≤ 6 s / ≤ 90 characters → Meta MMS times each line"""
+    import transcribe as tr
+    import align as mms
+
+    words = json.load(open(src, encoding='utf8'))['words']
+    W = type('W', (), {})
+    seg = type('S', (), {})()
+    seg.words = []
+    for s0, e0, t in words:
+        w = W()
+        w.start, w.end, w.word = s0, e0, t
+        seg.words.append(w)
+    cues = tr.cues_of([seg])
+    mms.load()
+    t = time.time()
+    new, _, _ = mms.align(cues, wav)
+    return spread(new), {'asr_s': 0, 'align_s': round(time.time() - t), 'from': os.path.basename(src)}
+
+
 def norm(w):
     w = re.sub(r'[֑-ׇ]', '', w)  # points and accents
     w = re.sub(r'[^א-תa-zA-Z0-9]', '', w)
@@ -144,6 +165,7 @@ def main():
     ap.add_argument('--variant')
     ap.add_argument('--id', required=True)
     ap.add_argument('--audio')
+    ap.add_argument('--src', help='D: the words to retime (B.json)')
     ap.add_argument('--clip', type=float, default=720)
     ap.add_argument('--out', default='out/cmp')
     ap.add_argument('--dir', default='out/cmp')
@@ -156,6 +178,8 @@ def main():
             words, info = run_whisperx('large-v3', wav)
         elif a.variant == 'B':
             words, info = run_whisperx(IVRIT, wav)
+        elif a.variant == 'D':
+            words, info = run_mms_on(a.src, wav)
         else:
             words, info = run_ours(wav, a.id, a.audio)
         info['total_s'] = round(time.time() - t0)
@@ -166,9 +190,9 @@ def main():
     row = kv_get(f'videos/transcript/{a.id}')
     ref_cues = [c for c in (row.get('cuesOrig') or row['cues']) if c[0] < a.clip - 2]
     ref = spread(ref_cues)
-    names = {'A': 'WhisperX (large-v3 + wav2vec2-hebrew)', 'B': 'WhisperX (ivrit.ai + wav2vec2-hebrew)', 'C': 'Whisper ivrit.ai + Meta MMS'}
+    names = {'A': 'WhisperX (large-v3 + wav2vec2-hebrew)', 'B': 'WhisperX (ivrit.ai + wav2vec2-hebrew)', 'C': 'Whisper ivrit.ai + Meta MMS', 'D': 'WhisperX ivrit.ai words + Meta MMS'}
     report = {'id': a.id, 'clip_s': a.clip, 'reference': 'YouTube captions (automatic)', 'variants': {}}
-    for v in 'ABC':
+    for v in 'ABCD':
         p = f'{a.dir}/{v}.json'
         if not os.path.exists(p):
             p = next((os.path.join(r, f) for r, _, fs in os.walk(a.dir) for f in fs if f == f'{v}.json'), None)

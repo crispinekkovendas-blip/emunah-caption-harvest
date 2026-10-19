@@ -57,8 +57,41 @@ jobs:
           name: cmp-${{ matrix.variant }}
           path: out/cmp/${{ matrix.variant }}.json
 
-  score:
+  retime:
     needs: run
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet torch==2.5.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install --quiet faster-whisper numpy soundfile uroman
+      - name: Audio
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release download align-queue --repo "$GITHUB_REPOSITORY" -p "cmp-${{ inputs.id }}.opus" -D .
+      - uses: actions/download-artifact@v4
+        with:
+          name: cmp-B
+          path: in
+      - name: B's words, Meta MMS times (D)
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          PYTHONPATH: scripts
+        run: python -u scripts/compare_stt.py run --variant D --src in/B.json --id ${{ inputs.id }} --audio cmp-${{ inputs.id }}.opus --out out/cmp
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cmp-D
+          path: out/cmp/D.json
+
+  score:
+    needs: [run, retime]
     if: always()
     runs-on: ubuntu-latest
     steps:
