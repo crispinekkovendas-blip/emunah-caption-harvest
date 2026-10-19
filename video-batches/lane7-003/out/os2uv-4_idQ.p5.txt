@@ -1,0 +1,120 @@
+600	en: "…are they not beyond the Jordan, after the way of the setting sun, beside the terebinths of Moreh."	pt: "…não estão eles além do Jordão, depois do caminho do pôr do sol, junto aos carvalhos de Moré?"
+601	en: "Beside the terebinths of Moreh."	pt: "Junto aos carvalhos de Moré."
+602	en: Avraham, when he enters the promised land	pt: Avraham, quando entra pela primeira vez
+603	en: for the first time, stops at Shechem, at Elon Moreh.	pt: na terra prometida, pára em Shechem, em Elon Moré.
+604	en: "To the place of Shechem, to Elon Moreh." HaShem	pt: "Até o lugar de Shechem, até Elon Moré." HaShem
+605	en: now says through Moshe Rabbeinu to the people of Israel:	pt: diz agora, por meio de Moshé Rabênu, ao povo de Israel:
+606	en: when you enter the land, you cross the Jordan	pt: quando vocês entrarem na terra, atravessarão o Jordão
+607	en: in the area of Jericho,	pt: na região de Jericó,
+608	en: but you will go all the way to Shechem, because Har Gerizim	pt: mas irão até Shechem, porque o Har Guerizim
+609	en: and Har Eival are located there.	pt: e o Har Eival estão ali.
+610	en: Shechem lies in the valley between Har Gerizim and Har	pt: Shechem fica no vale entre o Har Guerizim e o Har
+611	en: Eival. That is where Shechem is. So just as Avraham Avinu came	pt: Eival. É ali que Shechem fica. Assim como Avraham Avinu chegou
+612	en: to Elon Moreh, you too will go to Elon Moreh. And there	pt: a Elon Moré, vocês também irão a Elon Moré. E ali
+613	en: you will carry out the matter of the blessings and the curses.	pt: farão o ato das bênçãos e das maldições.
+614	en: Alright?	pt: Certo?
+615	en: What is special?	pt: O que há de especial?
+616	en: What is special about Shechem? What is special about Elon Moreh? So	pt: O que há de especial em Shechem? O que há de especial em Elon Moré? Bem,
+617	en: first of all, the word "Moreh."	pt: antes de tudo, a palavra "Moré".
+618	en: "Moreh" means instructions, right?	pt: "Moré" quer dizer instruções, certo?
+619	en: Instructions. And these are the instructions: if you do this, it will be	pt: Instruções. E estas são as instruções: se fizerem assim, será
+620	en: good. If you do not do this, heaven forbid, it will not be good.	pt: bom. Se não fizerem assim, que não aconteça, não será bom.
+621	en: Elon Moreh.	pt: Elon Moré.
+622	en: Let's see Rashi on this verse. Oh, wait,	pt: Vejamos Rashi sobre este versículo. Ah, espere,
+623	en: one more thing. Okay. So "He came	pt: mais uma coisa. Certo. Então "Ele veio
+624	en: to the land of Canaan, and Avram passed through the land to the place of Shechem, to	pt: à terra de Canaã, e Avram atravessou a terra até o lugar de Shechem, até
+625	en: Elon Moreh; and the Canaanite was then in the land. And HaShem appeared to	pt: Elon Moré; e o cananeu estava então na terra. E HaShem apareceu a
+626	en: Avram and said, 'To your offspring I will give this land.'	pt: Avram e disse: 'À tua descendência darei esta terra.'
+627	en: And he built there an altar." Avraham builds an altar. When we enter	pt: E ele construiu ali um altar." Avraham constrói um altar. Quando entramos
+628	en: the land, we remember the instructions in the book of Devarim, chapter	pt: na terra, lembramos das instruções do livro de Devarim, capítulo
+629	en: 27, Parashat Ki Tavo: "An altar of stones you shall make for Me; you shall not	pt: 27, Parashá Ki Tavo: "Um altar de pedras farás para Mim; não
+630	en: wield iron upon them." So the matter is that Avraham stops	pt: levantarás ferro sobre elas." Então o fato é que Avraham pára
+631	en: at Shechem. Why does he stop at Shechem? We will see in a moment.	pt: em Shechem. Por que ele pára em Shechem? Veremos em um instante.
+632	en: At Elon Moreh, but he builds an altar there. And also	pt: Em Elon Moré, mas ele constrói ali um altar. E também
+633	en: when we enter the land, besides the matter of the blessing	pt: quando entramos na terra, além do ato da bênção
+634	en: and the curse on Gerizim and Eival, and the stones upon which	pt: e da maldição em Guerizim e Eival, e das pedras sobre as quais
+635	en: the Torah must be written, we must also set up an altar,	pt: se deve escrever a Torá, é preciso também erguer um altar,
+636	en: as we saw before. Let's see Rashi here:	pt: como vimos antes. Vejamos Rashi aqui:
+637	en: "And Avram passed through the land": he entered it on this journey	pt: "E Avram atravessou a terra": ele entrou nela nesta jornada
+638	en: from Charan	pt: vinda de Charan
+639	en: "to the place of Shechem, to Elon Moreh": that is Shechem.	pt: "até o lugar de Shechem, até Elon Moré": isto é, Shechem.
+640	en: That means Shechem is Elon Moreh. Elon Moreh is	pt: Quer dizer, Shechem é Elon Moré. Elon Moré é
+641	en: Shechem.	pt: Shechem.
+642	en: "The Holy One, blessed be He, showed Avraham Avinu Har	pt: "O Santo, bendito seja, mostrou a Avraham Avinu o Har
+643	en: Gerizim and Har Eival, where Israel received the oath	pt: Guerizim e o Har Eival, onde Israel recebeu o juramento
+644	en: of the Torah." Rashi says this in Parashat Lech Lecha, there,	pt: da Torá." Rashi diz isto na Parashá Lech Lechá, ali,
+645	en: from the Midrash. That is, it is no coincidence that he stops at Elon	pt: a partir do Midrash. Ou seja, não é por acaso que ele pára em Elon
+646	en: Moreh, because there his descendants, the children of Israel, when they reach the land,	pt: Moré, porque ali seus descendentes, os filhos de Israel, ao chegarem à terra,
+647	en: will take upon themselves the oath of the Torah, and the matter	pt: tomarão sobre si o juramento da Torá, e o ato
+648	en: of blessing and curse at Gerizim. This is called the same	pt: da bênção e da maldição em Guerizim. É a mesma
+649	en: covenant that is already inside the land; this covenant	pt: aliança que já está dentro da terra; esta aliança
+650	en: will be there.	pt: será ali.
+651	en: So it is no coincidence.	pt: Então não é por acaso.
+652	en: Shechem is the place, the	pt: Shechem é o lugar, o
+653	en: first place where Avraham stops in the land. Right, the Holy One,	pt: primeiro lugar onde Avraham pára na terra. Certo, o Santo,
+654	en: blessed be He, promises him the whole land, but he is	pt: bendito seja, lhe promete toda a terra, mas ele ainda
+655	en: still traveling. Where does he stop? In Shechem, at Elon	pt: está em viagem. Onde ele pára? Em Shechem, em Elon
+656	en: Moreh.	pt: Moré.
+657	en: Shechem. Remember the name of this place; even today it is still in the news.	pt: Shechem. Lembrem o nome deste lugar; ainda hoje ele está nas notícias.
+658	en: Jenin is near Shechem, and there are a lot of troubles there.	pt: Jenin fica perto de Shechem, e ali há muitos problemas.
+659	en: …	pt: …
+660	en: But there is a reason that it is in Shechem even today. We	pt: Mas há uma razão para isso acontecer em Shechem ainda hoje. Nós
+661	en: will learn a little about Shechem in a moment. Okay, I	pt: aprenderemos um pouco sobre Shechem daqui a pouco. Bem, eu
+662	en: just want to show one more very fascinating thing. Again,	pt: só quero mostrar mais uma coisa fascinante. De novo,
+663	en: we saw that Avraham Avinu, when he enters the land for the	pt: vimos que Avraham Avinu, quando entra na terra pela
+664	en: first time, settles or stops in Shechem, and Rashi	pt: primeira vez, se estabelece ou pára em Shechem, e Rashi
+665	en: explains why: because the Holy One, blessed be He, showed him	pt: explica por quê: porque o Santo, bendito seja, lhe mostrou
+666	en: Gerizim and Eival, where the children of Israel would receive	pt: Guerizim e Eival, onde os filhos de Israel receberiam
+667	en: the Torah. Here too we see that the command is	pt: a Torá. Aqui também vemos que a ordem é
+668	en: to cross the Jordan and reach Elon Moreh in order	pt: atravessar o Jordão e chegar a Elon Moré para
+669	en: to take the oath of the Torah. But not only Avraham, Yaakov too.	pt: tomar o juramento da Torá. Mas não só Avraham, Yaakov também.
+670	en: Remember that Yitzchak too remained in the land.	pt: Lembrem que Yitzchak também permaneceu na terra.
+671	en: Yitzchak was born in the land, stayed in the land, never left	pt: Yitzchak nasceu na terra, ficou na terra, nunca saiu
+672	en: the land. Yaakov was forced to flee. Remember? Because of	pt: da terra. Yaakov foi obrigado a fugir. Lembram? Por causa de
+673	en: Esav his brother. "And Yaakov left Beer Sheva and went to Charan."	pt: Esav, seu irmão. "E Yaakov saiu de Beer Sheva e foi para Charan."
+674	en: Where is he going? To Avraham's place. Charan.	pt: Para onde ele vai? Para o lugar de Avraham. Charan.
+675	en: He returns with the tribes.	pt: Ele volta com as tribos.
+676	en: Where does he stop when he returns?	pt: Onde ele pára quando volta?
+677	en: Parashat Vayetze, uh, sorry, Parashat Vayishlach.	pt: Parashá Vayetsê, ah, desculpem, Parashá Vayishlach.
+678	en: Yes, Vayishlach: "And Yaakov came whole to	pt: Sim, Vayishlach: "E Yaakov chegou são e salvo à
+679	en: the city of Shechem, which is in the land of Canaan, when he came from Padan Aram."	pt: cidade de Shechem, que está na terra de Canaã, quando veio de Padan Aram."
+680	en: When he arrives from Charan, like Avraham, he arrives at Shechem.	pt: Quando chega de Charan, como Avraham, ele chega a Shechem.
+681	en: What happened in Shechem when Yaakov arrived? The incident of Dina, right?	pt: O que aconteceu em Shechem quando Yaakov chegou? O episódio de Dina, certo?
+682	en: The whole story of the rape of Dina was in Shechem.	pt: Toda a história da violação de Dina foi em Shechem.
+683	en: "And Yaakov came whole to the city of Shechem, which is in the land,	pt: "E Yaakov chegou são e salvo à cidade de Shechem, que está na terra,
+684	en: when he came from Padan Aram, and he camped before the city. And he bought the parcel	pt: quando veio de Padan Aram, e acampou diante da cidade. E comprou a parcela
+685	en: of field where he had pitched his tent from the sons of Chamor, father of Shechem,	pt: do campo onde armara sua tenda, dos filhos de Chamor, pai de Shechem,
+686	en: for a hundred kesitah." What does he do there? What	pt: por cem kesitá." O que ele faz ali? O que
+687	en: the Holy One, blessed be He, commanded us, and what his grandfather	pt: o Santo, bendito seja, nos ordenou, e o que seu avô
+688	en: Avraham did: "And he set up there an altar and called it El Elokei Yisrael."	pt: Avraham fez: "E erigiu ali um altar e o chamou El Elokei Yisrael."
+689	en: Another altar. Another altar: this is Yaakov's altar. We saw the altar	pt: Outro altar. Outro altar: este é o altar de Yaakov. Vimos o altar
+690	en: of Avraham,	pt: de Avraham,
+691	en: and now there is the altar of Yaakov. And now the Holy One,	pt: e agora há o altar de Yaakov. E agora o Santo,
+692	en: blessed be He, commands us that when we enter the land,	pt: bendito seja, nos ordena que, quando entrarmos na terra,
+693	en: we reach Shechem, because there, at the entrance to the land, both	pt: cheguemos a Shechem, porque ali, na entrada da terra, tanto
+694	en: Avraham and Yaakov stopped, and we too will build an altar there.	pt: Avraham quanto Yaakov pararam, e nós também construiremos ali um altar.
+695	en: "And Elokim said to Yaakov:	pt: "E Elokim disse a Yaakov:
+696	en: 'Arise, go up to Beit El and dwell there.'" This is after the story there	pt: 'Levanta-te, sobe a Beit El e habita ali.'" Isto é depois da história ali
+697	en: of the rape in Shechem; the matter ended. Shimon and Levi took revenge there	pt: da violação em Shechem; o caso terminou. Shimon e Levi se vingaram ali
+698	en: on the men of Shechem. And then notice what is written next:	pt: dos homens de Shechem. E então reparem no que está escrito a seguir:
+699	en: "And Elokim said to Yaakov: 'Arise, go up to Beit El and dwell	pt: "E Elokim disse a Yaakov: 'Levanta-te, sobe a Beit El e habita
+700	en: there.'" Now you are in Shechem, going up to Beit El. This Beit	pt: ali.'" Agora você está em Shechem, subindo a Beit El. Esta Beit
+701	en: El mentioned here is not the Beit El that we know;	pt: El mencionada aqui não é a Beit El que conhecemos;
+702	en: it is Jerusalem, we will see in a moment, it is explained from the words.	pt: é Yerushalayim, veremos daqui a pouco, isso se explica pelas palavras.
+703	en: "And Elokim said to Yaakov": Beit El	pt: "E Elokim disse a Yaakov": Beit El
+704	en: is called here by this name because it is the house of God, as Yaakov said:	pt: é chamada aqui por esse nome porque é a casa de Deus, como Yaakov disse:
+705	en: "This is none other than the house of Elokim, and this is the gate of heaven."	pt: "Esta não é senão a casa de Elokim, e esta é a porta do céu."
+706	en: "And Elokim said to Yaakov: 'Arise, go up to Beit El and dwell	pt: "E Elokim disse a Yaakov: 'Levanta-te, sobe a Beit El e habita
+707	en: there, and make there an altar to the El who appeared to you when you fled	pt: ali, e faze ali um altar ao El que te apareceu quando fugias
+708	en: from Esav your brother.'" And Yaakov said to his household and to all	pt: de Esav, teu irmão.'" E Yaakov disse à sua casa e a todos
+709	en: who were with him: "Remove the foreign gods that are among you	pt: os que estavam com ele: "Tirai os deuses estrangeiros que há entre vós
+710	en: and purify yourselves." Where is this happening? In Shechem. He says before	pt: e purificai-vos." Onde isso acontece? Em Shechem. Ele diz que antes
+711	en: we go up to Jerusalem, the holy city, to Beit El,	pt: de subirmos a Yerushalayim, a cidade santa, a Beit El,
+712	en: we must remove the foreign gods.	pt: precisamos remover os deuses estrangeiros.
+713	en: Remember the arurim,	pt: Lembram dos arurim,
+714	en: the 11 curses? What is the first?	pt: as 11 maldições? Qual é a primeira?
+715	en: "Cursed is the one who makes a carved or molten image." That is,	pt: "Maldito o homem que fizer uma escultura ou imagem fundida." Ou seja,
+716	en: before reaching Jerusalem one must purify oneself. This	pt: antes de chegar a Yerushalayim é preciso se purificar. Isso
+717	en: happened with Yaakov too. Yes. Now why did they have	pt: aconteceu também com Yaakov. Sim. Agora, por que eles tinham
+718	en: foreign gods? Because when they conquered Shechem and avenged	pt: deuses estrangeiros? Porque, quando conquistaram Shechem e vingaram
+719	en: the matter of Dina, they took all the spoils there. What	pt: o caso de Dina, levaram todo o espólio dali. O que
