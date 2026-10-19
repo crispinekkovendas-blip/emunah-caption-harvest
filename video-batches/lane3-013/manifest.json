@@ -1,0 +1,105 @@
+{
+ "name": "lane3-013",
+ "lane": 3,
+ "created": "2026-10-19T11:46:27.022Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "iHjQ458vE0I",
+   "title": "Noach: guardar a aliança e caminhar com HaShem",
+   "lines": 389,
+   "parts": 4,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "0Kv6VqHG-VY",
+   "title": "Parashá Bo: como morreram os primogênitos do Egito",
+   "lines": 751,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ZsLrZuAJIvA",
+   "title": "O pecado da venda de Yosef: por que os irmãos não são culpados",
+   "lines": 1272,
+   "parts": 11,
+   "from": "mais fontes"
+  },
+  {
+   "id": "f6RzqumCjvk",
+   "title": "Vayechi: Yaakov, a sepultura e o Rav que nos guia",
+   "lines": 826,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "tmoNX5t-2pM",
+   "title": "Vayechi: Guilgul Mechilot e a sepultura de Yaakov",
+   "lines": 768,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "0GPaucML9VQ",
+   "title": "Beshalach: a humildade, a saída do Egito e a riqueza do mar",
+   "lines": 676,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "molijOBjqR8",
+   "title": "Os segredos do poço de Miriam (Parashá Chukat)",
+   "lines": 366,
+   "parts": 4,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "iHjQ458vE0I.p0",
+  "iHjQ458vE0I.p1",
+  "iHjQ458vE0I.p2",
+  "iHjQ458vE0I.p3",
+  "0Kv6VqHG-VY.p0",
+  "0Kv6VqHG-VY.p1",
+  "0Kv6VqHG-VY.p2",
+  "0Kv6VqHG-VY.p3",
+  "0Kv6VqHG-VY.p4",
+  "0Kv6VqHG-VY.p5",
+  "0Kv6VqHG-VY.p6",
+  "ZsLrZuAJIvA.p0",
+  "ZsLrZuAJIvA.p1",
+  "ZsLrZuAJIvA.p2",
+  "ZsLrZuAJIvA.p3",
+  "ZsLrZuAJIvA.p4",
+  "ZsLrZuAJIvA.p5",
+  "ZsLrZuAJIvA.p6",
+  "ZsLrZuAJIvA.p7",
+  "ZsLrZuAJIvA.p8",
+  "ZsLrZuAJIvA.p9",
+  "ZsLrZuAJIvA.p10",
+  "f6RzqumCjvk.p0",
+  "f6RzqumCjvk.p1",
+  "f6RzqumCjvk.p2",
+  "f6RzqumCjvk.p3",
+  "f6RzqumCjvk.p4",
+  "f6RzqumCjvk.p5",
+  "f6RzqumCjvk.p6",
+  "tmoNX5t-2pM.p0",
+  "tmoNX5t-2pM.p1",
+  "tmoNX5t-2pM.p2",
+  "tmoNX5t-2pM.p3",
+  "tmoNX5t-2pM.p4",
+  "tmoNX5t-2pM.p5",
+  "tmoNX5t-2pM.p6",
+  "0GPaucML9VQ.p0",
+  "0GPaucML9VQ.p1",
+  "0GPaucML9VQ.p2",
+  "0GPaucML9VQ.p3",
+  "0GPaucML9VQ.p4",
+  "0GPaucML9VQ.p5",
+  "molijOBjqR8.p0",
+  "molijOBjqR8.p1",
+  "molijOBjqR8.p2",
+  "molijOBjqR8.p3"
+ ]
+}
