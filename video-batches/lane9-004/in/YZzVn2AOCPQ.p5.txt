@@ -1,0 +1,103 @@
+videoId: YZzVn2AOCPQ
+parte 6 de 6 · traduzir as linhas 600 a 678 (79 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Por que Moshe Rabenu "quebrou" com as queixas do povo
+RESUMO: O Rav Meir Eliyahu comenta a Parashá Beha'alotcha: o povo chora por carne e Moshe, que desde o início relutou em tirá-los do Egito, não aguenta mais e compara-se a um "omen", o cuidador que não tem leite para acalmar o bebê (Bamidbar 11:12). Ele traz a pergunta de um aluno ao mestre, com base no Zohar, sobre por que pediram carne se o maná tinha todos os sabores, e a resposta de que "os olhos não se saciam de ver" (Kohelet 1:8). Segue uma longa história sobre um herdeiro que descobre um meio-irmão e se recusa a abrir o túmulo do pai para o teste de DNA, o que leva ao tema da dignidade do morto, do "kishuy" da terra de Israel e das 36 súplicas para a hora da partida. Depois ele trata da dúvida de Moshe, "seiscentos mil homens... e Tu dizes: darei carne" (Bamidbar 11:21-22), explicando com a Gemará em Berachot 4a que o milagre depende do merecimento, e que por isso pedimos de HaShem um presente gratuito (Berachot 17b). Termina com a escolha dos setenta anciãos por sorteio, Eldad e Medad que se recusaram à grandeza e profetizaram, segundo o Zohar.
+MOMENTOS: 00:06 O povo briga com Moshe e pede carne · 00:53 Moshe resistiu a ser enviado ao Egito · 01:18 Pergunta do aluno: por que pedir carne se havia maná · 03:11 Moshe: "Eu gerei este povo?" e o omen · 04:12 Peixes do mar: o Yetzer Hara dá o que reclamar · 04:49 História do herdeiro e do suposto irmão · 13:01 Medo de abrir o túmulo e o juízo do morto · 13:53 A terra de Israel expia; Zohar e Ketubot 112 · 16:00 Contato com o morto e a decomposição do corpo · 18:25 As 36 súplicas pela partida da alma · 22:08 O herdeiro consulta o Rav Elyashiv · 24:19 A dúvida de Moshe: de onde virá a carne · 25:14 Milagres dependem do merecimento (Berachot 4a) · 27:37 Pedimos de HaShem um presente gratuito · 31:42 Os setenta anciãos, Eldad e Medad
+FONTES CITADAS: 00:42 Shemot 4:13 · 00:55 Shemot 4:10 · 01:31 Zohar, Beshalach 62a · 01:46 Kohelet 1:8 · 03:11 Bamidbar 11:15 · 03:15 Bamidbar 11:12 · 04:09 Bamidbar 11:22 · 05:35 Berachá Dayan HaEmet e HaTov VeHametiv · 13:50 Devarim 32:43 · 13:57 Zohar, Vayechi (fim) · 14:10 Ketubot 112a · 14:13 Tehilim 102:15 · 16:00 Berachot 18a e Shabat 13a · 16:42 Ketubot 111a (Eretz Israel) · 17:00 Gaon de Vilna · 17:44 Iyov 25:6 · 18:09 Rav Chida, Chayim Sha'al · 18:22 Berachot 8a · 20:25 Avot 1:14 · 20:20 Mishlei 10:2 · 22:28 Devarim 6:5 · 23:20 Sanhedrin 46b · 24:22 Bamidbar 11:21-22 · 25:14 Berachot 4a · 26:41 Rashi em Berachot 4a · 27:25 Bamidbar 11:23 · 27:49 Berachot 17b · 28:06 Zohar / Midrash, Rabi Shimon bar Yochai e o vale · 28:48 Ta'anit 25a · 29:38 Kohelet 1:4 · 31:45 Bamidbar 11:16 · 33:20 Sanhedrin 17a · 34:56 Bamidbar 11:27 · 34:59 Zohar, Beha'alotcha 152b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|31:45|גם אם אין זכויות ויאמר השם אל משה ספלי
+589|31:49|איש 70 איש מזקני ישראל אשר ידעת כי הם
+590|31:52|זקני העם ושוטריו ולקחת אותם אל אוהל מועד
+591|31:56|והתייצבו שם עמך משה אמר אני צריך 70
+592|32:00|זקנים כמה כמה כמה שבטים יש כמה שבטים יש
+593|32:06|>> 12 איך אתה מביא לי מכל שבט
+594|32:10|כדי שיהיה לי בדיוק 70. כמה צריך להביא
+595|32:12|מכל שבט? תסבירו לי. אם אני לוקח ש מכל
+596|32:16|שבט, 6 * 12 כמה זה?
+597|32:20|>> 72. אז זה לא טוב. אם אני לוקח 5ח מכל
+598|32:24|שבט, 5 * 12 כמה זה?
+599|32:27|>> 69. חסר לי אחד.
+
+LINHAS A TRADUZIR:
+600|32:30|>> 60 חסר לי 10. מה אני אז מה אני אעשה? אם
+601|32:34|אני אקח שש מכל שבט ומשבט אחד אני אקח
+602|32:38|חמש. או אני אקח יותר אז יהיה מציל קנאה
+603|32:42|עם השבטים לכן מה הוא עשה לקח שש מכל שבט
+604|32:47|ונתן לכל היה לו 12 72 פתקים על שתי פתקים
+605|32:54|היו ריקים וכל הפתקים האחרים היה כתוב זקן
+606|32:58|זקן זקן זקן יעני הוא נבחר להיות מהחכמים
+607|33:02|נתן לכולם את הפתקים ושאל אותם עכשיו
+608|33:05|עשינו הגרלה כל אחד יבוא ויקח את הפתקים
+609|33:08|שלא תגידו אני נותן. עשו כובע, כל אחד בא
+610|33:11|נטל את הפתקים. עכשיו א יש לו 70 ש כאלה
+611|33:17|שהם קיבלו שתי פתקים ריקים. הגמרא אומרת
+612|33:20|היו שתיים שהם היו האחים של משה מהאב ולא
+613|33:23|מהאם. קראו להם אלדד ומידד. הם אמרו מה
+614|33:27|אנחנו צריכים את הגדולה הזאת? פתקים. עזוב
+615|33:29|אנחנו מוותרים. נראה אותם היום מוותרים.
+616|33:32|איך אמר החזון איש? למה? טוב אחרי זה אני
+617|33:36|אספר לכם את זה בהזדמנות אחרת. למה זה
+618|33:38|פרובוקטיבי הסיפור הזה? היה אלדד ומידד
+619|33:42|אמרו לה, "אתה אוהב את זה? אה, רק אש אתה
+620|33:45|רוצה אש. אחרי זה מי התמודד עם הריקוטים?
+621|33:48|אתה זהוב לא רוצה לדבר ברוך השם שלא
+622|33:52|אמרתי.
+623|33:53|אלד ומידד משארו אמר מה אנחנו צריכים את
+624|33:55|הגדולה הזאת? להיות רב ראשי, להיות זה
+625|33:58|עזבנו תן לנו להיות דרוישים, לשבת ללמוד
+626|34:01|תורה. העולם הבא מחכה לנו. מי שמקבל כבוד
+627|34:03|פה מסכן הכל מוחקים לו משמה. אין לו נשאר
+628|34:06|כלום. ככל שעשו לו יותר כבוד, יותר טררם
+629|34:09|יותר א תברח מזה אוילה לרבנות שמקברת את
+630|34:12|בעליה פז פסחים לכן אלדד ומדד אמרו מה
+631|34:16|אנחנו צריכים את הגדולה הזאת בוא נצא תפסו
+632|34:18|אחד את השני אמרו בוא נלך נעשה חברות עזוב
+633|34:21|אותנו מהמינויים האלה מי צריך את את
+634|34:23|המינויים האלה יצאו לבחוץ והם נשארו במחנה
+635|34:27|ובפתקים שלהם כן היה כתוב זקן כשהם לקחו
+636|34:31|את הפתקים הם אפילו לא אפילו לא הסתכלו
+637|34:34|לקחו את הפתק שמו בכיס אמרו יאללה בוא בוא
+638|34:35|בוא נלך בוא נלך מפה בוא נלמד בבטרה יצאו
+639|34:38|בחוץ ללמוד ועל הפתקים שתהם כן כתוב וזה
+640|34:41|מה שכתוב אלדנו ומדן נשאר במחלה ואמה
+641|34:44|בכתובים מה זה אמה בכתובים על הכתובים
+642|34:47|שלהם כתוב זקן על הפתקים שלהם ובכל זאת
+643|34:51|הקדוש ברוך הוא נתן להם א נבואה והם אמרו
+644|34:56|אלדד ומדנדד מתנבים אומר להם יהושע מתנבים
+645|34:59|במחנה בזוהר בעלותך קנה עמוד ב כתב שהם
+646|35:02|התנבו שמשה מת ויהושע מכניס ולכן כן
+647|35:06|מתנבים ראשי תיבות. משה תנוח נפשו בגי אז
+648|35:10|יהושע מכניס. אז יהושע זכה להכניס אותם
+649|35:14|והם התנבו אל דד ומידד. ויש עליהם עוד
+650|35:16|הרבה מה לדבר על הדמויות המדהימות האלה
+651|35:18|אלדד ומידד. אבל זה בהזדמנות אחרת בלי
+652|35:21|נדר. מי שרוצה ספרים שלנו ויהיוס נמצא אצל
+653|35:24|אהרון בחוץ הקדוש ברוך הוא יגזור אליכם
+654|35:25|גזרות טובות ישועות ונחמות. רבי חקש אומר
+655|35:28|צה הקדוש ברוך זקר ב תורה מצוות שנמר
+656|35:30|אדוני חפץ צדק יגדיל תורה ויאדיר תגדל
+657|35:34|והתקדש שמ רבה בעלמה יברך קרות וימניך
+658|35:37|מלכות ויצמ פוקנ ויקרב משיח
+659|35:41|ובמכ מחי דכל בית ישראל בעגלה ובזמן קראי
+660|35:45|וימו אמן
+661|35:48|>> יהה שמי רבה מברך לעלם ולעלמי עלמיה יתברך
+662|35:51|וישתבח ויתפהר ויתרומם ויתנשא ויתהדר ועלה
+663|35:55|והתעלל שמ דקדשה בך מכל ברכת שירתה שבחתה
+664|36:01|ונחמת דמיר בעלמה רומן על ישראל ועל רבנן
+665|36:05|ועל תלמיד ועל כל תלמידי תלמידן דעסקין
+666|36:07|בהורית קדשתה די והתר בכל אתר ואתרון חינה
+667|36:13|וחזדה ורחמ קודם הרי שמ אמן יה של אמרב
+668|36:18|משמיה חיים וזבה וישורה ונחמה וזבה ופורה
+669|36:21|גולה וסליחה וכפרה ורוח והצלה לל כל עמו
+670|36:24|ישראל ואמרו אמן
+671|36:25|>> אמן עושה שלום בבו ורחמיו יעשה שלום עלינו
+672|36:29|ועל כל עמו ישראל וימו אמן
+673|36:37|זהות טובות
+674|36:41|שם נשלח רפואה שלמה רפואת הנפש והגוב גזרות טובות
+675|36:48|תנו לו רק לעבור חבר'ה תנו לו לעבור חבר'ה תנו לו לעבורים
+676|36:55|טובה בעזרת השם שלישיבה קדושה אה רעיונות
+677|37:00|לעבוד חברה תמידו לעבוד גמדומים
+678|37:11|מעל הכל הכל הכל הכל
