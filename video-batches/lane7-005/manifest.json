@@ -1,0 +1,105 @@
+{
+ "name": "lane7-005",
+ "lane": 7,
+ "created": "2026-10-19T17:49:41.679Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "0e0vIU7VC3U",
+   "title": "Mikets: Yosef, o yetzer hara e o significado de \"Vayhi",
+   "lines": 806,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "MRJwMq-Y5UE",
+   "title": "Vaiakhel: utensílios do Mishkan e a cadeira da Shechiná",
+   "lines": 725,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "0oR3GS_NXx4",
+   "title": "Parashá Vaerá: mesirut nefesh e os cinco verbos da redenção",
+   "lines": 1014,
+   "parts": 9,
+   "from": "mais fontes"
+  },
+  {
+   "id": "E9Ws5gPMgM4",
+   "title": "Vayishlach: Yaakov, Esav e os 613 mandamentos",
+   "lines": 706,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "qpbYyv2XP7s",
+   "title": "Gartí: como Yaakov disse ter guardado as 613 mitsvot",
+   "lines": 586,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FsjKUuvt4O0",
+   "title": "Moshê e a Terra de Israel: a liderança de Chazak VeEmatz",
+   "lines": 632,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "u70DCrJXX-Y",
+   "title": "Parashat Terumá: o Mishkan, a humildade e a tzedaká",
+   "lines": 688,
+   "parts": 6,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "0e0vIU7VC3U.p0",
+  "0e0vIU7VC3U.p1",
+  "0e0vIU7VC3U.p2",
+  "0e0vIU7VC3U.p3",
+  "0e0vIU7VC3U.p4",
+  "0e0vIU7VC3U.p5",
+  "0e0vIU7VC3U.p6",
+  "MRJwMq-Y5UE.p0",
+  "MRJwMq-Y5UE.p1",
+  "MRJwMq-Y5UE.p2",
+  "MRJwMq-Y5UE.p3",
+  "MRJwMq-Y5UE.p4",
+  "MRJwMq-Y5UE.p5",
+  "MRJwMq-Y5UE.p6",
+  "0oR3GS_NXx4.p0",
+  "0oR3GS_NXx4.p1",
+  "0oR3GS_NXx4.p2",
+  "0oR3GS_NXx4.p3",
+  "0oR3GS_NXx4.p4",
+  "0oR3GS_NXx4.p5",
+  "0oR3GS_NXx4.p6",
+  "0oR3GS_NXx4.p7",
+  "0oR3GS_NXx4.p8",
+  "E9Ws5gPMgM4.p0",
+  "E9Ws5gPMgM4.p1",
+  "E9Ws5gPMgM4.p2",
+  "E9Ws5gPMgM4.p3",
+  "E9Ws5gPMgM4.p4",
+  "E9Ws5gPMgM4.p5",
+  "qpbYyv2XP7s.p0",
+  "qpbYyv2XP7s.p1",
+  "qpbYyv2XP7s.p2",
+  "qpbYyv2XP7s.p3",
+  "qpbYyv2XP7s.p4",
+  "FsjKUuvt4O0.p0",
+  "FsjKUuvt4O0.p1",
+  "FsjKUuvt4O0.p2",
+  "FsjKUuvt4O0.p3",
+  "FsjKUuvt4O0.p4",
+  "FsjKUuvt4O0.p5",
+  "u70DCrJXX-Y.p0",
+  "u70DCrJXX-Y.p1",
+  "u70DCrJXX-Y.p2",
+  "u70DCrJXX-Y.p3",
+  "u70DCrJXX-Y.p4",
+  "u70DCrJXX-Y.p5"
+ ]
+}
