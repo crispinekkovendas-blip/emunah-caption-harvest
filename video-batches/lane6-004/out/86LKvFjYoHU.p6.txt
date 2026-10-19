@@ -1,0 +1,120 @@
+720	No, no, this protects you. It looks to you like it locked	Não, não, isso te protege. Parece que isso te trancou
+721	you in, but it protects you.	e te prendeu, mas isso te protege.
+722	Look at the Targum, the matter is revealed. It seems to you	Veja o Targum, o assunto se revela. Parece a você
+723	"and HaShem closed," but the Targum reveals that the Holy One,	"e HaShem fechou", mas o Targum revela que o Santo,
+724	Blessed be He, protects him and does not literally lock him in.	bendito seja Ele, o protege e não o tranca de verdade.
+725	Listen to the Ritva in tractate Makkot, 11a, and for	Ouçam o Ritva no tratado Makot, 11a, e por
+726	a moment let's look at what is there. A Mishnah: everyone	um instante vejamos o que há ali. Uma Mishná: todos
+727	knows that one who killed unintentionally goes into exile to the cities of refuge.	sabem que quem matou sem querer vai para o exílio nas cidades de refúgio.
+728	When does he leave the city of refuge? When the High Priest dies.	Quando ele sai da cidade de refúgio? Quando morre o Cohen Gadol.
+729	Which High Priest?	Qual Cohen Gadol?
+730	It depends on the High Priest at the time of the final verdict of	Depende do Cohen Gadol que havia na hora da sentença final do
+731	the exile. At the time of the final verdict; it doesn't depend on	exílio. Na hora da sentença final; não depende do
+732	the High Priest at the time of the killing, but at the time of the final	Cohen Gadol da hora do homicídio, mas da hora da sentença
+733	verdict of his case.	final dele.
+734	The Mishnah says: if his verdict was finalized,	A Mishná diz: se a sua sentença foi selada,
+735	his verdict was finalized, and there was a High Priest,	a sua sentença foi selada, e havia um Cohen Gadol,
+736	and afterwards this High Priest died, even a day later,	e depois esse Cohen Gadol morreu, mesmo um dia depois,
+737	he leaves immediately. Sometimes he doesn't even go into exile.	ele sai imediatamente. Às vezes ele nem chega a ir para o exílio.
+738	If the verdict had been given	Se a sentença já tinha sido dada,
+739	already, he has to go into exile, and he didn't	ele precisa ir para o exílio, e não
+740	manage to go into exile, and suddenly the High Priest dies, he	deu tempo de ir, e de repente o Cohen Gadol morre, ele
+741	doesn't go into exile at all. Now, sometimes the	não vai para o exílio de modo algum. Agora, às vezes a
+742	verdict was between one High Priest and the next, meaning	sentença foi entre um Cohen Gadol e outro, ou seja,
+743	the High Priest had already died and they hadn't yet appointed a	o Cohen Gadol já tinha morrido e ainda não tinham nomeado um
+744	new High Priest,	novo Cohen Gadol,
+745	and the verdict came in between. Then the halachah is that he	e a sentença saiu nesse intervalo. Então a halachá é que ele
+746	never leaves from there, because there is no High Priest	nunca sai de lá, porque não há Cohen Gadol
+747	to release him. He needs the High Priest who was there	que o liberte. Ele precisa do Cohen Gadol que havia
+748	at the time of the verdict; when that one dies, he releases him.	na hora da sentença; quando este morre, ele o liberta.
+749	The death of the High Priest who was there at the time of the verdict.	A morte do Cohen Gadol que havia na hora da sentença.
+750	And if his verdict was between one priest and another, between	E se a sentença dele foi entre um sacerdote e outro, entre
+751	one High Priest and another, and the new High Priest wasn't yet	um Cohen Gadol e outro, e o novo Cohen Gadol ainda não
+752	there, then the halachah	existia, então a halachá
+753	is that he never leaves from there, because there is no High Priest	é que ele nunca sai de lá, porque não há Cohen Gadol
+754	to release him. There is no one to release him. Now,	que o liberte. Não há quem o liberte. Agora,
+755	listen well. The Gemara says there: one whose verdict was finalized	ouçam bem. A Guemará diz ali: alguém cuja sentença foi selada
+756	when there was a High Priest, there was a High Priest,	quando havia um Cohen Gadol, havia um Cohen Gadol,
+757	and suddenly afterwards word came about that High Priest,	e de repente, depois, surgiu uma notícia sobre esse Cohen Gadol,
+758	testimony arrived that he is the son of a divorced woman or	chegou um testemunho de que ele é filho de uma divorciada ou
+759	a chalutzah, a chalal, that he isn't a High Priest at all, he is	de uma chalutzá, um chalal, que ele nem é Cohen Gadol, ele é
+760	disqualified. There is a dispute in the Gemara: what is this called? Is it	inválido. Há uma divergência na Guemará: como isso se chama? É
+761	"the priesthood died" or "the priesthood was annulled"? "The priesthood died"	"a sacerdócio morreu" ou "o sacerdócio foi anulado"? "O sacerdócio morreu"
+762	means as if the High Priest has now died. When?	significa como se o Cohen Gadol tivesse morrido agora. Quando?
+763	When the testimony arrived that he is the son of a divorced woman or chalutzah, a chalal.	Quando chegou o testemunho de que ele é filho de divorciada ou chalutzá, um chalal.
+764	Now the High Priest has died, and he leaves, he goes out	Agora o Cohen Gadol morreu, e ele sai, ele vai embora
+765	free. There is an opinion, a dispute in the Gemara, an opinion	livre. Há uma opinião, é uma divergência na Guemará, uma opinião
+766	that the priesthood was annulled. What does "annulled" mean? That now	de que o sacerdócio foi anulado. O que significa "anulado"? Que agora
+767	it turns out that he was never a High Priest, he is a chalal,	se esclarece que ele nunca foi Cohen Gadol, ele é um chalal,
+768	so there was never a High Priest, he will not leave from here, because	então nunca houve Cohen Gadol, ele não sairá daqui, porque
+769	at the time of the verdict he was a High Priest, but	na hora da sentença ele era Cohen Gadol, mas
+770	since the priesthood was annulled,	como o sacerdócio foi anulado,
+771	it turns out, retroactively, that he was never a High Priest at all,	fica claro, retroativamente, que ele nunca foi Cohen Gadol,
+772	because he was the son of a divorced woman or chalutzah, and so he	porque era filho de divorciada ou chalutzá, e assim ele
+773	never leaves from there. But another opinion holds	nunca sai de lá. Mas outra opinião sustenta
+774	that the priesthood died. What does "died" mean? That now	que o sacerdócio morreu. O que significa "morreu"? Que agora
+775	he died, as it were, now that the testimony came that he is the son of	ele morreu, por assim dizer, agora que veio o testemunho de que é filho de
+776	a divorced woman or chalutzah, now it is as if he died,	divorciada ou chalutzá, agora é como se ele tivesse morrido,
+777	and now he leaves. Yes. Listen to the Ritva's language,	e agora ele sai. Sim. Ouçam a linguagem do Ritva,
+778	an awesome language. The Ritva asks:	uma linguagem impressionante. O Ritva pergunta:
+779	How, how does he leave? The High Priest has to	Como, como ele sai? O Cohen Gadol precisa
+780	die for him to leave. It is established that he is the son of	morrer para que ele saia. Ficou claro que ele é filho de
+781	a divorced woman, but he did not die, asks the Ritva. And	uma divorciada, mas ele não morreu, pergunta o Ritva. E
+782	according to the one who says "the priesthood died," according to this one,	segundo quem diz "o sacerdócio morreu", segundo este,
+783	now the priesthood died, a man who is not disqualified retroactively; in any case	agora o sacerdócio morreu, um homem que não é invalidado retroativamente; em todo caso
+784	there is no atoning death. The High Priest did not die. After all,	não há morte que expie. O Cohen Gadol não morreu. Afinal,
+785	the death of the High Priest is what atones, and so he leaves	a morte do Cohen Gadol é o que expia, e por isso ele sai
+786	the exile. But here there is no death that atones. So why does he	do exílio. Mas aqui não há morte que expie. Então por que ele
+787	return? Why doesn't he go into exile, and why does he return? Why does he	volta? Por que não vai para o exílio, e por que volta? Por que ele
+788	leave the city of refuge? The question is understood. Listen well to what	sai da cidade de refúgio? A pergunta é entendida. Ouçam bem o que
+789	the Ritva answers: And one could say that the disqualification	o Ritva responde: E pode-se dizer que a invalidez
+790	found in him, now it has been revealed that he is the son of a divorced woman. Right? A disqualification	encontrada nele, agora ficou revelado que ele é filho de uma divorciada. Certo? Uma invalidez
+791	found in him, his anguish,	encontrada nele, o sofrimento dele,
+792	this anguish of his is considered to him like death, to atone.	esse sofrimento dele é considerado como morte, para expiar.
+793	What he will receive now is pain. Every High Priest who is found to be	O que ele receberá agora é dor. Todo Cohen Gadol que se descobre ser
+794	the son of a divorced woman, this disqualification is like death. Everyone	filho de divorciada, essa invalidez é como a morte. Todos
+795	leaves the city of refuge.	saem da cidade de refúgio.
+796	What does it mean? That a person goes through anguish and doesn't know	O que isso significa? Que uma pessoa passa por sofrimento e não sabe
+797	that it is exempting him from death. It simply exempts you	que isso a livra da morte. Isso simplesmente te livra
+798	from death, it exempts him from death, it simply exempts	da morte, livra-o da morte, simplesmente livra
+799	him from death.	ele da morte.
+800	Again, there is the Ritva's difficulty: how does he	De novo, há a dificuldade do Ritva: como ele
+801	leave? After all, he did not die, there is no atoning death. Always,	sai? Afinal, ele não morreu, não há morte que expie. Sempre,
+802	the death of the High Priest atones, and it releases	a morte do Cohen Gadol expia, e é ela que liberta
+803	the exile from the city of refuge, but here there is no death to release	o exilado da cidade de refúgio, mas aqui não há morte que o liberte.
+804	him. Why does he leave? And one can say, says the Ritva,	Por que ele sai? E pode-se dizer, diz o Ritva,
+805	that the disqualification found in him, his anguish,	que a invalidez encontrada nele, o sofrimento dele,
+806	is considered to him like death, to atone.	é considerada para ele como morte, para expiar.
+807	He has now truly gone through death. These matters are as	Ele passou agora de verdade pela morte. Essas coisas são como
+808	we said earlier: Noach seemed to be locked in the ark, but	dissemos antes: Noach parecia estar preso na arca, mas
+809	he knew that outside there was a flood, so he didn't need	ele sabia que lá fora havia um dilúvio, então não precisava de
+810	a psychologist. No one needed a psychologist	psicólogo. Ninguém precisava de psicólogo
+811	if he knows this saves him from death. Right? The same	se sabe que isso o salva da morte. Certo? A mesma
+812	thing. If you understand that this anguish exempts you	coisa. Se você entende que esse sofrimento te livra
+813	from death. It exempts, and not only that.	da morte. Livra, e não só isso.
+814	What the Ritva says is: you have already died. You have already died. You were only	O que o Ritva diz é: você já morreu. Você já morreu. Só
+815	left alive, because they leave the city of	ficou vivo, porque eles saem da cidade de
+816	refuge. Why do they leave it? As if the High Priest died, he stayed alive. So he will understand	refúgio. Por que saem dela? Como se o Cohen Gadol tivesse morrido, ele ficou vivo. Então ele entenderá
+817	what	o que
+818	this takes off him, what sweetens it for him, he will	isso tira dele, o que adoça isso para ele, ele
+819	understand.	entenderá.
+820	We don't understand, we cannot understand	Nós não entendemos, não podemos entender
+821	the ways of HaShem. Here it looks to you like great suffering, but we	os caminhos de HaShem. Aqui parece a você um grande sofrimento, mas nós
+822	don't understand. This is how it is explained: "And Noach was 500 years old,"	não entendemos. É assim que se explica: "E Noach tinha 500 anos",
+823	and Noach fathered three sons. Each one... why?	e Noach gerou três filhos. Cada um... por quê?
+824	Why was this decreed on this tzaddik? The Holy One, Blessed be He, says: "You,	Por que isso foi decretado sobre este tsadik? O Santo, bendito seja Ele, diz: "Tu,
+825	I have seen righteous before Me in this generation." Exactly. He waits	Eu te vi justo diante de Mim nesta geração." Exatamente. Ele espera
+826	until 500 years. Why does he walk about childless until 500 years?	até os 500 anos. Por que ele anda sem filhos até os 500 anos?
+827	Everyone then, look in the verses, everyone fathered then	Todos então, vejam nos versículos, todos geravam então
+828	from age 60 to 100, right? Look at the end of the parashah, from	dos 60 aos 100 anos, certo? Vejam no fim da parashá, dos
+829	age 60 to 100. Why must this one and only be held back	60 aos 100. Por que este único precisa ser retido
+830	just because he is a tzaddik, until 500?	só porque é tsadik, até os 500?
+831	What does Rashi say? Rashi says this in last week's	O que diz Rashi? Rashi diz isso na parashá
+832	parashah: "And Noach was 500 years old," at the end of last week's	da semana passada: "E Noach tinha 500 anos", no fim da parashá
+833	parashah. It is a Midrash Rabbah, Bereshit Rabbah 26. Rabbi	da semana passada. É um Midrash Rabá, Bereshit Rabá 26. Rabi
+834	Yehuda said: What is the reason? All the generations fathered at 100	Yehuda disse: Qual é o motivo? Todas as gerações geravam aos 100
+835	years, and this one at 500. Why did Noach have to be held back	anos, e este aos 500. Por que Noach precisou ser retido
+836	until 500? The Holy One, Blessed be He, says: oy, oy, oy,	até os 500? O Santo, bendito seja Ele, diz: ai, ai, ai,
+837	oy, with the wicked.	ai, com os perversos.
+838	If Noach's sons will be wicked, then they will be drowned	Se os filhos de Noach forem perversos, serão afogados
+839	in the waters, in the flood. And it is bad for a tzaddik, it will be suffering for him.	nas águas, no dilúvio. E isso é mau para um tsadik, será sofrimento para ele.
