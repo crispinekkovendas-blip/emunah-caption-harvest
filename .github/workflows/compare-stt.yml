@@ -1,0 +1,79 @@
+name: Compare WhisperX vs Whisper + Meta MMS (Hebrew)
+
+# 2026-10-19 (the owner: "Whisper X is not better at listening to Hebrew? lets do a test comparison").
+# The clip waits in the draft release align-queue as cmp-<id>.opus. See scripts/compare_stt.py.
+#
+#   gh workflow run compare-stt.yml -f id=r5HfUUM-L3c -f clip=720
+
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: 'Lesson id (audio: align-queue/cmp-<id>.opus)'
+        required: true
+      clip:
+        description: 'Seconds compared'
+        default: '720'
+
+permissions:
+  contents: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    strategy:
+      fail-fast: false
+      matrix:
+        variant: [A, B, C]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          if [ "${{ matrix.variant }}" = "C" ]; then
+            python -m pip install --quiet torch==2.5.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+            python -m pip install --quiet faster-whisper numpy soundfile uroman
+          else
+            python -m pip install --quiet torch==2.8.0 torchaudio==2.8.0 --index-url https://download.pytorch.org/whl/cpu
+            python -m pip install --quiet whisperx
+          fi
+      - name: Audio
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT || github.token }}
+        run: gh release download align-queue --repo "$GITHUB_REPOSITORY" -p "cmp-${{ inputs.id }}.opus" -D .
+      - name: Transcribe (${{ matrix.variant }})
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          PYTHONPATH: scripts
+        run: python -u scripts/compare_stt.py run --variant ${{ matrix.variant }} --id ${{ inputs.id }} --audio cmp-${{ inputs.id }}.opus --out out/cmp
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cmp-${{ matrix.variant }}
+          path: out/cmp/${{ matrix.variant }}.json
+
+  score:
+    needs: run
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          path: out/cmp
+      - name: Score against YouTube's captions
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python -u scripts/compare_stt.py score --id ${{ inputs.id }} --clip ${{ inputs.clip }} --dir out/cmp
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cmp-report
+          path: out/cmp/report.json
