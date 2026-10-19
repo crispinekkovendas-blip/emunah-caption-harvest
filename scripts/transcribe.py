@@ -121,7 +121,11 @@ def main():
         if r.returncode != 0:
             print(f'{vid}: audio not in the queue')
             continue
-        segments, info = model.transcribe(f'audio/{vid}.opus', language='he', beam_size=5, vad_filter=True, word_timestamps=True, condition_on_previous_text=False)
+        # decoded once by ffmpeg (16 kHz mono float32) for Whisper and MMS alike — faster-whisper's own
+        # decoder breaks on new PyAV releases (metadata_errors)
+        with tempfile.TemporaryDirectory() as tmp:
+            wav = mms.audio_of(vid, tmp)
+        segments, info = model.transcribe(wav, language='he', beam_size=5, vad_filter=True, word_timestamps=True, condition_on_previous_text=False)
         cues = cues_of(list(segments))
         dur = info.duration
         if len(cues) < 3:
@@ -131,8 +135,6 @@ def main():
         t2 = time.time()
         aligned = None
         try:
-            with tempfile.TemporaryDirectory() as tmp:
-                wav = mms.audio_of(vid, tmp)  # reads audio/<id>.opus
             new, _groups, _ = mms.align(cues, wav)
             shifts = sorted(n[0] - o[0] for n, o in zip(new, cues))
             aligned = {'by': 'mms_fa', 'at': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()), 'shift': round(shifts[len(shifts) // 2], 2)}
