@@ -1,7 +1,7 @@
 # lane10-003
 
-9 of 15 lessons published · 4 skipped · status **pending**
-Tokens (354 agent runs with a record, 1155 refused or without record): 2.5M in (mostly cache) · 2.21M out · API-equivalent 30.37
+9 of 15 lessons published · 5 skipped · status **pending**
+Tokens (389 agent runs with a record, 1155 refused or without record): 2.7M in (mostly cache) · 2.40M out · API-equivalent 32.89
 
 | lesson | state | detail |
 |---|---|---|
@@ -13,10 +13,10 @@ Tokens (354 agent runs with a record, 1155 refused or without record): 2.5M in (
 | Jw6v3fT3AEM | ✓ published | 1225 lines · Aharon HaCohen e o amor que une o povo |
 | n5CKD6tFqt0 | ✓ published | 1039 lines · Parashat Shoftim: juízes de justiça e a Amidá |
 | 0nSjPMGnCaU | ✓ published | 919 lines · Esforço humano, temor a HaShem e o prêmio da tzedaká |
-| gpTawZWgjJk | skipped after 3 tries | 87 lines missing |
-| LrHdoD7QOmY | waiting | 11/12 parts |
+| gpTawZWgjJk | skipped | |
+| LrHdoD7QOmY | skipped after 3 tries | 2 lines missing |
 | 5VicFIpEXBU | ✓ published | 992 lines · Honrar os pais e o valor próprio pelo caminho do Baal Shem Tov |
-| bOymIv5HHlw | skipped after 3 tries | line 600 twice |
-| AfvChSn-rqg | skipped after 3 tries | 1 lines missing |
+| bOymIv5HHlw | skipped | |
+| AfvChSn-rqg | skipped | |
 | 6kLZSX_ZXc4 | ✓ published | 1060 lines · Alegria, humor e a liderança de Mishlei 14:6 |
 | nJiC1cR97kQ | ✓ published | 152 lines · Bechukotai: o esforço na Torá e a bênção |
