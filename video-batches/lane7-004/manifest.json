@@ -1,0 +1,59 @@
+{
+ "name": "lane7-004",
+ "lane": 7,
+ "created": "2026-10-19T11:20:09.548Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "-OiOcj-XiWw",
+   "title": "Lech Lecha: a guerra de Avraham e o segredo da vitória",
+   "lines": 364,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "BWGzyaGCACU",
+   "title": "Zachor: quem é Amalek e por que apagar sua memória",
+   "lines": 742,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "dK9lf7YExWI",
+   "title": "O Terceiro Templo desce do céu ou é construído?",
+   "lines": 707,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "dxXzTKHq-_o",
+   "title": "Aniversário no judaísmo: pode celebrar? Parashá Matot",
+   "lines": 374,
+   "parts": 4,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "-OiOcj-XiWw.p0",
+  "-OiOcj-XiWw.p1",
+  "-OiOcj-XiWw.p2",
+  "-OiOcj-XiWw.p3",
+  "BWGzyaGCACU.p0",
+  "BWGzyaGCACU.p1",
+  "BWGzyaGCACU.p2",
+  "BWGzyaGCACU.p3",
+  "BWGzyaGCACU.p4",
+  "BWGzyaGCACU.p5",
+  "BWGzyaGCACU.p6",
+  "dK9lf7YExWI.p0",
+  "dK9lf7YExWI.p1",
+  "dK9lf7YExWI.p2",
+  "dK9lf7YExWI.p3",
+  "dK9lf7YExWI.p4",
+  "dK9lf7YExWI.p5",
+  "dxXzTKHq-_o.p0",
+  "dxXzTKHq-_o.p1",
+  "dxXzTKHq-_o.p2",
+  "dxXzTKHq-_o.p3"
+ ]
+}
