@@ -58,12 +58,13 @@
   "3xqYecSPjaw.p4"
  ],
  "tries": {
-  "8R3sVro6QF8": 2,
+  "8R3sVro6QF8": 3,
   "3xqYecSPjaw": 3,
-  "oMA1QPCzExc": 1
+  "oMA1QPCzExc": 2
  },
  "done": [],
  "skipped": [
-  "3xqYecSPjaw"
+  "3xqYecSPjaw",
+  "8R3sVro6QF8"
  ]
 }
