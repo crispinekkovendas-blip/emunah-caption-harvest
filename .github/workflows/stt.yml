@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
     inputs:
       lane:
-        description: 'Lane 1-4 (empty = start all four)'
+        description: 'Lane 1-8 (empty = start all eight)'
         default: ''
       ids:
         description: 'Only these ids (a test)'
@@ -32,14 +32,14 @@ jobs:
     if: inputs.lane == ''
     runs-on: ubuntu-latest
     steps:
-      - name: Wake the four lanes (only when audio is waiting)
+      - name: Wake the eight lanes (only when audio is waiting)
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          n=$(gh release view stt-queue --repo "$GITHUB_REPOSITORY" --json assets -q '.assets|length' || echo 0)
+          n=$(gh release view stt-queue --repo "$GITHUB_REPOSITORY" --json assets -q '.assets[].name' | grep -c opus || true)
           echo "$n files waiting"
           [ "$n" -gt 0 ] || exit 0
-          for lane in 1 2 3 4; do
+          for lane in 1 2 3 4 5 6 7 8; do
             gh workflow run stt.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=$lane
           done
 
@@ -60,17 +60,17 @@ jobs:
             ~/.cache/pip
           key: stt-ivrit-turbo-v1
       - name: Install
-        run: python -m pip install --quiet faster-whisper
+        run: python -m pip install --quiet faster-whisper 'av<15'
       - name: Transcribe
         env:
           GH_TOKEN: ${{ github.token }}
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
-        run: python -u scripts/transcribe.py --lane ${{ inputs.lane }} --lanes 4 --budget-min 230 ${{ inputs.ids != '' && format('--ids {0}', inputs.ids) || '' }}
+        run: python -u scripts/transcribe.py --lane ${{ inputs.lane }} --lanes 8 --budget-min 230 ${{ inputs.ids != '' && format('--ids {0}', inputs.ids) || '' }}
       - name: Keep the lane going while audio waits
         if: inputs.ids == ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          n=$(gh release view stt-queue --repo "$GITHUB_REPOSITORY" --json assets -q '.assets|length' || echo 0)
+          n=$(gh release view stt-queue --repo "$GITHUB_REPOSITORY" --json assets -q '.assets[].name' | grep -c opus || true)
           [ "$n" -gt 0 ] && gh workflow run stt.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=${{ inputs.lane }} || true
