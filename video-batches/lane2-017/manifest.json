@@ -2,7 +2,7 @@
  "name": "lane2-017",
  "lane": 2,
  "created": "2026-10-19T07:23:06.056Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "1SFqadwGRj4",
@@ -243,11 +243,11 @@
   "bSmllgW1QUU.p0"
  ],
  "tries": {
-  "1SFqadwGRj4": 2,
+  "1SFqadwGRj4": 3,
   "ywML4O-eW4A": 2,
   "bSmllgW1QUU": 3,
   "YF2oDA0SMDI": 3,
-  "5NDlCl8_s1g": 2
+  "5NDlCl8_s1g": 3
  },
  "done": [
   "FQjCf9TfYMQ",
@@ -265,6 +265,8 @@
  ],
  "skipped": [
   "bSmllgW1QUU",
-  "YF2oDA0SMDI"
+  "YF2oDA0SMDI",
+  "1SFqadwGRj4",
+  "5NDlCl8_s1g"
  ]
 }

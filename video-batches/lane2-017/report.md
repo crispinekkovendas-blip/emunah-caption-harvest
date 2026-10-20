@@ -1,16 +1,16 @@
 # lane2-017
 
-12 of 16 lessons published · 2 skipped · status **pending**
-Tokens (233 agent runs with a record): 1.8M in (mostly cache) · 2.16M out · API-equivalent 27.02
+12 of 16 lessons published · 4 skipped · status **done**
+Tokens (235 agent runs with a record): 1.8M in (mostly cache) · 2.18M out · API-equivalent 27.30
 
 | lesson | state | detail |
 |---|---|---|
-| 1SFqadwGRj4 | waiting | 13/14 parts |
+| 1SFqadwGRj4 | skipped after 3 tries | 2 lines missing |
 | orLOp39Q4rs | ✓ published | 824 lines · A venda da primogenitura de Esav a Yaakov |
 | V3b42SX0sy0 | ✓ published | 1068 lines · Rivká: "sobre mim a sua maldição" — dá para carregar o sofrimento alheio? |
 | lzGJdCly_AM | ✓ published | 675 lines · Como Yaakov guardou as 613 mitsvot na casa de Lavan |
 | FQjCf9TfYMQ | ✓ published | 1847 lines · Parashá Balak: Bilam, a jumenta e a proteção de Israel |
-| 5NDlCl8_s1g | waiting | 13/14 parts |
+| 5NDlCl8_s1g | skipped after 3 tries | line 1440 twice |
 | EMRVO3ncZa0 | ✓ published | 403 lines · As 100 bênçãos do Shabat e a proteção do alto |
 | ywML4O-eW4A | ✓ published | 424 lines · Como limpar o coração para o julgamento de Rosh HaShaná |
 | 7rHHFJL3cG0 | ✓ published | 725 lines · Parashá Ekev: mitsvot, tsedaká, modéstia e o dia do julgamento |
