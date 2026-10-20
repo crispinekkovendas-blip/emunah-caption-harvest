@@ -1,7 +1,7 @@
 # lane7-006
 
 5 of 8 lessons published · 1 skipped · status **pending**
-Tokens (142 agent runs with a record): 1.2M in (mostly cache) · 1.47M out · API-equivalent 18.73
+Tokens (143 agent runs with a record): 1.2M in (mostly cache) · 1.48M out · API-equivalent 18.85
 
 | lesson | state | detail |
 |---|---|---|
@@ -12,4 +12,4 @@ Tokens (142 agent runs with a record): 1.2M in (mostly cache) · 1.47M out · AP
 | z66W2cAwCSU | ✓ published | 769 lines · Pinchas: Bilam, a Torá como combustível e o zelo de Pinchas |
 | ReRpYwGEaDU | skipped | |
 | eOqLE00apcU | ✓ published | 753 lines · Vayeshev: Yosef, o yesod e a perda de Yaakov |
-| Am0Hkt_6brk | waiting | 6/7 parts |
+| Am0Hkt_6brk | ✗ will be redone (try 2) | 2 lines missing |
