@@ -1,0 +1,22 @@
+{
+ "name": "lane8-008",
+ "lane": 8,
+ "created": "2026-10-20T17:45:51.789Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "WATQNYgPAwU",
+   "title": "Yaakov desce à Klipá: Vayetsê e o Birur final",
+   "lines": 561,
+   "parts": 5,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "WATQNYgPAwU.p0",
+  "WATQNYgPAwU.p1",
+  "WATQNYgPAwU.p2",
+  "WATQNYgPAwU.p3",
+  "WATQNYgPAwU.p4"
+ ]
+}
