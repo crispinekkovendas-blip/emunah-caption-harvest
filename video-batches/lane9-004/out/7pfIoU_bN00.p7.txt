@@ -1,0 +1,120 @@
+840	receives a prize of 200 dollars. You don't want to? Don't play.	recebe um prêmio de 200 dólares. Não quer? Não jogue.
+841	But that is the condition. That is, there is already reward	Mas essa é a condição. Ou seja, já há aqui recompensa
+842	and punishment, whether you are accurate or	e castigo, conforme você seja preciso ou
+843	you distort. Second, in these groups,	distorça. Segundo, nesses grupos,
+844	the ones who whisper the word from person to person, in the first game	os que sussurram a palavra de pessoa para pessoa, no primeiro jogo
+845	here it's a bit different: they don't whisper, but	aqui é um pouco diferente: não sussurram, mas
+846	shout it out loud, and not once, but 50 times:	gritam em voz alta, e não uma vez, mas 50 vezes:
+847	chair, chair, chair, chair. And if that isn't enough, they even	cadeira, cadeira, cadeira, cadeira. E se isso não bastasse, ainda
+848	take a chair and put it in his hand, so that	pegam uma cadeira e põem na mão dele, para que
+849	he is sure that this is what it's about, and he passes it to the second, and he	ele tenha certeza de que é disso que se trata, e ele passa ao segundo, e ele
+850	passes it to the third, and so on in all 10 groups. Now	passa ao terceiro, e assim em todos os 10 grupos. Agora
+851	you don't know what the first word	você não sabe qual foi a primeira palavra
+852	was that was said. You ask the last one: what did you hear? He tells	que foi dita. Você pergunta ao último: o que você ouviu? Ele diz
+853	you: chair. You close the door, open the door of	a você: cadeira. Você fecha a porta, abre a porta da
+854	the second room, ask the last one: what did you hear? He says	segunda sala, pergunta ao último: o que você ouviu? Ele diz
+855	chair. You go to the third, the fourth, everyone says chair.	cadeira. Você vai ao terceiro, ao quarto, todos dizem cadeira.
+856	And you also see that they passed on	E você vê também que passaram adiante
+857	a chair, and you know there is reward and punishment for whoever distorts,	uma cadeira, e sabe que há recompensa e castigo para quem distorcer,
+858	and they repeat every word 50	e repetem cada palavra 50
+859	times. Now, if we ask a person in the world: are you willing	vezes. Agora, se perguntarmos a alguém no mundo: você aceita
+860	to bet 500 dollars that the word "chair" is the	apostar 500 dólares que a palavra "cadeira" é a
+861	word	palavra
+862	that was said? Not 500, let's say 5000 dollars, he's also willing	que foi dita? Não 500, digamos 5000 dólares, ele também aceita
+863	to bet. This is certainly true, he has no doubt about it.	apostar. Isso é certamente verdade, ele não tem dúvida alguma.
+864	When we examine how the Oral Torah was transmitted from generation	Quando examinamos como a Torá Oral foi transmitida de geração
+865	to generation, it was transmitted in this way, not like the telephone game	em geração, ela foi transmitida dessa forma, não como o telefone sem fio
+866	in the first version, by whispering, but the Oral Torah.	na primeira versão, por sussurro, mas a Torá Oral.
+867	So before the Mishnah was written, how did they learn	Então, antes de a Mishná ser escrita, como estudavam
+868	Torah? Hundreds, and sometimes thousands, would sit before	Torá? Centenas, e às vezes milhares, sentavam-se diante do
+869	the rabbi. There were yeshivot where the learning was in the field, not in the Beit	rabino. Havia yeshivot em que o estudo era no campo, não na Casa de
+870	Midrash. It is written that in Rav Huna's yeshivah there were	Estudo. Está escrito que na yeshivá de Rav Huna havia
+871	at least 800 students; usually it reached more,	pelo menos 800 alunos; geralmente chegava a mais,
+872	but the minimum was 800 students. Rav Huna	mas o mínimo eram 800 alunos. Rav Huna
+873	was the greatest of the generation. How would he teach them? His voice	era o maior da geração. Como ele os ensinaria? A voz dele
+874	cannot reach such distances, and there was no loudspeaker.	não alcança tais distâncias, e não havia alto-falante.
+875	They would appoint amoraim. What are amoraim? He,	Colocavam amoraim. O que são amoraim? Ele,
+876	the greatest of the generation, sits at the head, and next to him stands	o maior da geração, senta-se à frente, e ao lado dele está
+877	a Torah scholar who is also a great rabbi, but not at	um sábio da Torá que também é um grande rabino, mas não no
+878	his level. The rabbi says a few rulings in halachah, for example:	nível dele. O rabino diz algumas sentenças de halachá, por exemplo:
+879	black tefilin are a halachah given to Moshe at Sinai; tefilin	tefilin pretos são uma halachá dada a Moshe no Sinai; os tefilin
+880	must be square, a halachah to Moshe	devem ser quadrados, uma halachá a Moshe
+881	at Sinai; the passages of the tefilin are four: "Sanctify to Me,"	no Sinai; as parashiot dos tefilin são quatro: "Santifica-me",
+882	"And it shall be when He brings you," "Shema," "And it shall be if you listen." So he says a few	"E será quando te trouxer", "Shemá", "E será se ouvirdes". Assim ele diz algumas
+883	sentences, then stops. The amora who stands there takes one	frases e para. O amora que está ali pega um
+884	who also has a throat like a loudspeaker; he turns	que também tem uma garganta como alto-falante; ele se volta
+885	to the hundreds of students sitting here and repeats what	para as centenas de alunos sentados aqui e repete o que
+886	the rabbi said: black tefilin, halachah,	o rabino disse: tefilin pretos, halachá,
+887	square. After, say, 10 rows, which is hundreds of	quadrados. Depois de, digamos, 10 fileiras, que são centenas de
+888	students, another amora stands; he hears what this one	alunos, há outro amora; ele ouve o que este
+889	said, turns, and repeats the words to the next rows.	disse, volta-se e repete as palavras às fileiras seguintes.
+890	After him there is another amora. In Rav Huna's yeshivah,	Depois dele há outro amora. Na yeshivá de Rav Huna,
+891	the Gemara says so, the Gemara tells us there were 13	diz a Guemará, a Guemará conta que havia 13
+892	amoraim. There were so many students that there were 13 amoraim,	amoraim. Havia tantos alunos que havia 13 amoraim,
+893	each one repeating. And so it continues, the rabbi	e cada um repetia. E assim continua, o rabino
+894	meanwhile advances, the rabbi speaks and they repeat. The lesson	entretanto avança, o rabino fala e eles repetem. A aula
+895	would end, all the students would disperse into chavrutot,	terminava, todos os alunos se dispersavam em chavrutot,
+896	drilling the words exactly as they heard them:	repassando as palavras exatamente como as ouviram:
+897	square tefilin, a halachah to Moshe from Sinai, four	tefilin quadrados, halachá a Moshe no Sinai, quatro
+898	passages in the tefilin, "Sanctify to Me." Here I've said this	parashiot nos tefilin, "Santifica-me". Aqui eu disse isto
+899	several times; everyone knows it by heart. There they would	várias vezes; todos sabem de cor. Ali eles
+900	repeat and drill,	repetiam e memorizavam,
+901	drilling until they were masters, with wonderful	memorizavam até dominarem a matéria de forma
+902	command of the material. Therefore there were also no disputes until Hillel and Shammai.	maravilhosa. Por isso também não havia divergências até Hillel e Shamai.
+903	There were no disputes in Israel; all the Torah was	Não havia divergências em Israel; toda a Torá era
+904	uniform for everyone. Later disputes began. Rabbi Yehuda HaNasi came	uniforme para todos. Depois começaram as divergências. Rabi Yehuda HaNasi veio
+905	and put the words in writing, with the halachic	e pôs as palavras por escrito, com as regras
+906	rule of "follow the majority," which is also this week's parashah,	de halachá de "seguir a maioria", que também é a parashá desta semana,
+907	that there is a rule that one does not follow the majority for evil,	em que há uma regra de que não se segue a maioria para o mal,
+908	but for good one follows the majority, and in halachah	mas para o bem se segue a maioria, e na halachá
+909	that is a matter of good. So this is how you know you are fulfilling	isso é questão de bem. Assim você sabe que cumpre
+910	the halachah exactly as Moshe received it at Sinai and passed it on	a halachá exatamente como Moshe a recebeu no Sinai e a transmitiu
+911	to the next generations. These are the same	às gerações seguintes. São os mesmos
+912	tefilin we received; this is really what Yigael Yadin	tefilin que recebemos; é isso mesmo que Yigael Yadin
+913	found, but he doesn't know that it's around this axis, because there is no	encontrou, mas ele não sabe que é em torno deste eixo, pois não há
+914	chance that some rabbi came 1000 or 2000 or	chance de algum rabino ter vindo há 1000 ou 2000 ou
+915	3000 years ago and said: true, Elokim said,	3000 anos e dito: é verdade que Elokim disse,
+916	suppose, three passages, I want	suponhamos, três parashiot, eu quero
+917	to add one more. There is no chance he added one more,	acrescentar mais uma. Não há chance de ele ter acrescentado mais uma,
+918	because he would violate "do not add" and "do not subtract."	porque transgrediria "não acrescentarás" e "não diminuirás".
+919	It is forbidden to add to the Torah, forbidden to subtract from it.	É proibido acrescentar à Torá, proibido diminuir dela.
+920	Rabbinic decrees are a different law; they received authority to enact	Os decretos dos Sábios são outra lei; receberam autoridade para decretar
+921	decrees, but that is not within the mitzvah of the Torah	decretos, mas isso não está dentro da mitsvá da própria
+922	itself; it is a fence around the Torah. But there is no rabbi	Torá; é uma cerca em torno da Torá. Mas não há rabino
+923	who can say: instead of four, make five passages,	que possa dizer: em vez de quatro, faça cinco parashiot,
+924	or instead of four, reduce to three. And so every single Jew	ou em vez de quatro, reduza a três. E assim cada judeu
+925	can connect out of love and joy,	pode se conectar com amor e alegria,
+926	and be at ease that he is doing the will of HaShem properly,	e ficar tranquilo de que cumpre a vontade de HaShem corretamente,
+927	completely and with joy. We will conclude with a blessing for the public here	por inteiro e com alegria. Concluiremos com uma bênção para o público que está
+928	with us, and for all the viewers wherever they are, and for all	aqui conosco, e para todos os espectadores onde quer que estejam, e para todos
+929	the soldiers of Israel: may HaShem protect everyone wherever	os soldados de Israel: que HaShem proteja a todos onde quer que
+930	they are, with health, good livelihood, the establishment of	estejam, com saúde, boa subsistência, a construção de
+931	faithful homes in Israel, with an upright generation. Amen and amen.	lares fiéis em Israel, com uma geração reta. Amém e amém.
+932	Amen. Shalom, Rav. We will move on to the stage of	Amém. Shalom, Rav. Passaremos à etapa das
+933	questions. Someone from Rechovot asks us: when Moshe Rabbeinu	perguntas. Alguém de Rechovot nos pergunta: quando Moshe Rabeinu
+934	received the Torah, did he see all the future	recebeu a Torá, ele viu todo o futuro
+935	that awaited him and the people of Israel? And if so, where is	que o aguardava e ao povo de Israel? E se sim, onde está
+936	his free choice?	o livre-arbítrio dele?
+937	In fact, when Moshe Rabbeinu was on Mount Sinai, it is written	Na verdade, quando Moshe Rabeinu estava no monte Sinai, está escrito
+938	that he saw the future, but he did not see matters that concern	que ele viu o futuro, mas não viu coisas que dizem respeito
+939	choice, actual good and evil. It is written that he saw a yeshivah	à escolha, ao bem e ao mal na prática. Está escrito que ele viu uma yeshivá
+940	sitting and engaged in Torah, and Rabbi Akiva expounding mounds	sentada e ocupada com a Torá, e Rabi Akiva expondo montes
+941	upon mounds of halachot on the crowns of the letters. He saw	e montes de halachot sobre os coroinhas das letras. Ele viu
+942	this because when Moshe Rabbeinu passed into the spiritual dimension of	isso porque, quando Moshe Rabeinu passou à dimensão espiritual da
+943	creation, there the concepts and terms of past and	criação, ali os conceitos e termos de passado e
+944	future are nullified. We live in a world of matter.	futuro se anulam. Vivemos num mundo de matéria.
+945	It is known, as Einstein already discovered, that matter and time	É sabido, como Einstein já descobriu, que matéria e tempo
+946	go together. When was time actually created? Only at the time	andam juntos. Quando o tempo foi realmente criado? Somente na época
+947	of the creation of the world, when time began to flow. Before	da criação do mundo, quando o tempo começou a fluir. Antes
+948	that there were no concepts of time, since the whole matter of	disso não havia conceitos de tempo, pois toda a questão do
+949	time is connected to matter. For example, how do we	tempo está ligada à matéria. Por exemplo, como
+950	know that time has passed? Because before the lecture we stood	sabemos que passou tempo? Porque antes da palestra estávamos
+951	at the entrance and now we are sitting here, so time passed since	na entrada e agora estamos sentados aqui, então passou tempo desde que
+952	we were there until we arrived here. So matter causes	estávamos lá até chegarmos aqui. Assim a matéria causa
+953	the movement of time, but if there is no matter, there is no time.	o movimento do tempo, mas se não há matéria, não há tempo.
+954	Time has no meaning. Even a person who sits and does	O tempo não tem significado. Mesmo uma pessoa que fica sentada e não faz
+955	nothing, the exchange of substances in the body, the changes, that too is	nada, a troca de substâncias no corpo, as mudanças, isso também é
+956	a matter of time, a process. But if there is no matter, there is also	questão de tempo, um processo. Mas se não há matéria, também não
+957	no time. Therefore, everything that is above matter is not	há tempo. Por isso, tudo o que está acima da matéria não está
+958	bound by the limits of time. This, by the way, is also subject to the matter of	sujeito aos limites do tempo. Isso, aliás, também está ligado ao tema da
+959	kefitzat haderech, which Chazal tell us about Eliezer, Avraham's servant	kefitzat haderech, que os Sábios contam sobre Eliezer, servo de Avraham
