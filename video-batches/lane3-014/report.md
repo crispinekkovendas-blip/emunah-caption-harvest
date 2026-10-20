@@ -1,7 +1,7 @@
 # lane3-014
 
-9 of 12 lessons published · 1 skipped · status **pending**
-Tokens (140 agent runs with a record): 1.1M in (mostly cache) · 1.39M out · API-equivalent 17.38
+9 of 12 lessons published · 2 skipped · status **pending**
+Tokens (143 agent runs with a record): 1.2M in (mostly cache) · 1.41M out · API-equivalent 17.59
 
 | lesson | state | detail |
 |---|---|---|
@@ -11,7 +11,7 @@ Tokens (140 agent runs with a record): 1.1M in (mostly cache) · 1.39M out · AP
 | ignYKz928AQ | ✓ published | 706 lines · Parashat Beshalach: quem realmente libertou Israel |
 | VWZTg_ou7RI | ✓ published | 691 lines · Matot-Masei: o cuidado com a palavra e a vingança de Midyan |
 | OLiZ9YK7tBU | ✓ published | 552 lines · Vayigash: Midá keneged midá e o desmascarar de Yosef |
-| P9yoql-gaSs | waiting | 5/6 parts |
+| P9yoql-gaSs | skipped after 3 tries | 33 lines missing |
 | 06zPmn4UfvI | ✓ published | 634 lines · Maasê: Exílio, Faíscas (Rapach) e o Incenso (Ketoret) |
 | VWkaeTdURP0 | ✓ published | 710 lines · Vayeshev: guardar os olhos e o alicerce da Brit |
 | rKy0q-kMwMo | skipped | |
