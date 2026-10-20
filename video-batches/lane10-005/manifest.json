@@ -1,0 +1,151 @@
+{
+ "name": "lane10-005",
+ "lane": 10,
+ "created": "2026-10-20T08:03:25.427Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "JnI74lxJVCQ",
+   "title": "Ki Tisá: o Bezerro de Ouro, os brincos e o Olam Haba",
+   "lines": 704,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "5QrKeNCEleY",
+   "title": "Por que a Shemitá foi dita no Monte Sinai",
+   "lines": 762,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1WPDlC-F1Vw",
+   "title": "Menorá do rosto, guarda dos sentidos e queixa do Maná",
+   "lines": 730,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "gGcpg5foFkI",
+   "title": "Os cinco termos da redenção e as pragas do Egito",
+   "lines": 684,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "e_RkKn2UcT8",
+   "title": "Shovavim: o tikun do pgam habrit e o peso da teshuvá",
+   "lines": 506,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "4tQZhJnKa4k",
+   "title": "Purim: vigília, refeição, vinho e as 15 taças",
+   "lines": 537,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "j1xLbXB-wbA",
+   "title": "Parashá Re'ê: a bênção de hoje e os cinco níveis de serviço",
+   "lines": 647,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "GmQSdw9JupU",
+   "title": "Parashá Vayeshev: os Guerim, a fé e o esforço",
+   "lines": 599,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "mSTBsKbYsOY",
+   "title": "Vayikrá: crianças puras e a proximidade com HaShem",
+   "lines": 568,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FmM8o31AzOc",
+   "title": "Mishpatim: lashon hará, viúvas e ajuda aos falecidos",
+   "lines": 619,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Ic8lOSB_FHg",
+   "title": "Korach: a política, a inveja e o fim na terra aberta",
+   "lines": 695,
+   "parts": 6,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "JnI74lxJVCQ.p0",
+  "JnI74lxJVCQ.p1",
+  "JnI74lxJVCQ.p2",
+  "JnI74lxJVCQ.p3",
+  "JnI74lxJVCQ.p4",
+  "JnI74lxJVCQ.p5",
+  "5QrKeNCEleY.p0",
+  "5QrKeNCEleY.p1",
+  "5QrKeNCEleY.p2",
+  "5QrKeNCEleY.p3",
+  "5QrKeNCEleY.p4",
+  "5QrKeNCEleY.p5",
+  "5QrKeNCEleY.p6",
+  "1WPDlC-F1Vw.p0",
+  "1WPDlC-F1Vw.p1",
+  "1WPDlC-F1Vw.p2",
+  "1WPDlC-F1Vw.p3",
+  "1WPDlC-F1Vw.p4",
+  "1WPDlC-F1Vw.p5",
+  "1WPDlC-F1Vw.p6",
+  "gGcpg5foFkI.p0",
+  "gGcpg5foFkI.p1",
+  "gGcpg5foFkI.p2",
+  "gGcpg5foFkI.p3",
+  "gGcpg5foFkI.p4",
+  "gGcpg5foFkI.p5",
+  "e_RkKn2UcT8.p0",
+  "e_RkKn2UcT8.p1",
+  "e_RkKn2UcT8.p2",
+  "e_RkKn2UcT8.p3",
+  "e_RkKn2UcT8.p4",
+  "4tQZhJnKa4k.p0",
+  "4tQZhJnKa4k.p1",
+  "4tQZhJnKa4k.p2",
+  "4tQZhJnKa4k.p3",
+  "4tQZhJnKa4k.p4",
+  "j1xLbXB-wbA.p0",
+  "j1xLbXB-wbA.p1",
+  "j1xLbXB-wbA.p2",
+  "j1xLbXB-wbA.p3",
+  "j1xLbXB-wbA.p4",
+  "j1xLbXB-wbA.p5",
+  "GmQSdw9JupU.p0",
+  "GmQSdw9JupU.p1",
+  "GmQSdw9JupU.p2",
+  "GmQSdw9JupU.p3",
+  "GmQSdw9JupU.p4",
+  "mSTBsKbYsOY.p0",
+  "mSTBsKbYsOY.p1",
+  "mSTBsKbYsOY.p2",
+  "mSTBsKbYsOY.p3",
+  "mSTBsKbYsOY.p4",
+  "FmM8o31AzOc.p0",
+  "FmM8o31AzOc.p1",
+  "FmM8o31AzOc.p2",
+  "FmM8o31AzOc.p3",
+  "FmM8o31AzOc.p4",
+  "FmM8o31AzOc.p5",
+  "Ic8lOSB_FHg.p0",
+  "Ic8lOSB_FHg.p1",
+  "Ic8lOSB_FHg.p2",
+  "Ic8lOSB_FHg.p3",
+  "Ic8lOSB_FHg.p4",
+  "Ic8lOSB_FHg.p5"
+ ]
+}
