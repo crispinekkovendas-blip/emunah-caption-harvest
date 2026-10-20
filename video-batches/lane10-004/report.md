@@ -1,7 +1,7 @@
 # lane10-004
 
-7 of 11 lessons published · 3 skipped · status **pending**
-Tokens (274 agent runs with a record): 2.0M in (mostly cache) · 1.93M out · API-equivalent 25.93
+8 of 11 lessons published · 3 skipped · status **done**
+Tokens (275 agent runs with a record): 2.0M in (mostly cache) · 1.94M out · API-equivalent 25.99
 
 | lesson | state | detail |
 |---|---|---|
@@ -10,7 +10,7 @@ Tokens (274 agent runs with a record): 2.0M in (mostly cache) · 1.93M out · AP
 | sJqZMBpC1bs | ✓ published | 371 lines · Shovavim, Tikun e o Jejum de Fala (Taanit Dibur) |
 | GrQA3opa3tI | ✓ published | 757 lines · Parashat Terumá: escrever o nome na doação? |
 | DIz_UGlci3g | ✓ published | 759 lines · Parashá Bo: os Bechorot, o Shabat HaGadol e o dinheiro |
-| D3kttQ65MG4 | waiting | 9/10 parts |
+| D3kttQ65MG4 | ✓ published | 1128 lines · Am levadad yishkon: a hitbodedut de Parashat Balak |
 | zz3J06SPFt0 | skipped | |
 | gpTawZWgjJk | skipped | |
 | LrHdoD7QOmY | ✓ published | 1342 lines · Sefirat HaOmer: a chance de mudar a vida por dentro |
