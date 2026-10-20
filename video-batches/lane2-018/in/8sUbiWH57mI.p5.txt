@@ -1,0 +1,73 @@
+videoId: 8sUbiWH57mI
+parte 6 de 6 · traduzir as linhas 600 a 648 (49 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Devarim, 36 dias e morar perto do sábio
+RESUMO: O rabino abre o livro de Devarim: Moshe falou a Israel nos 36 dias entre o 1º de Shevat e o 7 de Adar, e o valor numérico de "Elê" (36) alude a isso. Ensina que "Elê haDevarim" repara o pecado do bezerro de ouro pelo estudo da Torá, e pede que cada um leve ao Mundo Vindouro os livros-base dos Sábios (Talmud Bavli, Yerushalmi, Zohar, Midrashim), pois lá não se ensina conhecimento novo. Explica por que Moshe, que ama Israel, o repreende (o Midrash "ohavam ochíham", "neemanim pitsê ohev", Bil'am que abençoa por ódio). Conta que o leão que devorou um homem a 12 km de R' Yehoshua ben Levi fez Eliyahu HaNavi afastar-se dele (Makot 11a), e a história de R' Moshe Feinstein e do menino gentio. Daí vem a lição de morar no lugar do mestre (Berachot 8a): Shelomo e Bat Paroh (Sanhedrin 70b), R' Yosef Chayim de Bagdá/Yosef Yedid HaLevi e a vizinhança de Bucarim em Jerusalém. Termina com o remez de "Eicha" (Elul, Yamim Noraim, Kipur, Hoshaná Rabá), conclamando a despertar para a teshuvá antes de Elul, pois o mal precede a vinda do Mashiach.
+MOMENTOS: 00:00 Início do livro de Devarim · 00:23 A data da morte de Moshe e os 36 dias · 01:19 O remez de "Elê" = 36 · 01:44 Elê haDevarim repara o bezerro de ouro · 02:21 Livros-base dos Sábios para o Mundo Vindouro · 03:36 Moshe ama e repreende; Bil'am odeia e abençoa · 06:10 Leões em Makot 11a e R' Yehoshua ben Levi · 08:59 R' Moshe Feinstein e o menino que morreu · 12:50 A história do bairro dos Bucarim · 17:08 R' Yosef Yedid HaLevi como rav do bairro · 22:09 Morar no lugar do mestre: Shelomo e Bat Paroh · 34:36 Eicha como remez de Elul e dos dias de teshuvá
+FONTES CITADAS: 00:06 Devarim 1:1 · 00:31 Rosh HaShaná 11a · 00:36 Devarim 1:3 · 01:44 Devarim 1:1 · 01:50 Taanit 26a · 03:36 Midrash Devarim: ohavam ochíham · 04:03 Devarim 9:18-21 · 04:35 Sanhedrin 105b · 04:48 Bamidbar 24:5 · 04:59 Mishlê 27:6 · 05:44 Bereshit 27:29 · 05:46 Yerushalmi Berachot · 06:10 Makot 11a · 06:25 Bava Metsia 85a · 06:54 Vayikrá 26:5 · 07:44 Chulin 5b · 09:05 Sotá 49a · 09:11 Rashi em Sotá 4b · 09:17 Rashi em Eruvin 29a · 10:32 Tehilim 145:18 · 16:43 Pesachim 87b · 19:09 Rashi em Bava Batra 145b · 19:48 Berachot 63b · 20:11 Salmo 78:38 / Vehu rachum · 20:50 Orchot Chayim / Shulchan Arukh, Orach Chaim 293 · 21:00 Havdalá · 22:11 Berachot 8a · 22:26 Sanhedrin 21b · 22:26 Sanhedrin 70b · 23:19 Rambam, Hilchot Yom Tov · 23:41 Ketubot 111b · 27:03 Shekalim · 27:22 Shir HaShirim 7:9 · 28:47 Sanhedrin 97b · 28:53 Berachot 34b / Shabat 63a · 29:33 Sucá 52b · 32:55 Sanhedrin 70b · 32:24 Pesachim 58a · 33:05 Mishlê 31:1-10 · 34:36 Devarim 1:12 · 36:14 Zecharia 14:7 · 37:04 Salmo 44:26-27
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|35:04|הבאה.
+589|35:05|תראו איזה ממשלה עלתה, ממשלה של שמאל, שממש קיצוני, שמאל קיצוני, זה שלראש ממשלה יש כיפה,
+590|35:11|זה לא אומר שזו ממשלה ימנית, הרי ברור שזה סתם.
+591|35:14|הממשלה היא מאוד קיצונית.
+592|35:16|קיצצו את הקצבאות שנתנו למשפחות שנזקקות, עכשיו את
+593|35:22|המעונות של הילדים קיצצו, מי יודע מה עוד יקצצו.
+594|35:26|אבל הערבים?
+595|35:29|אל תיגע, אל תיגע בפרה הקדושה, אל תיגע.
+596|35:32|חמש, למעלה מ-50 מיליארד שקל.
+597|35:36|למה?
+598|35:36|כדי שיהיה פה עוד מדינה.
+599|35:38|לא מספיק שיהיה רק מדינת ישראל, צריך עוד מדינה, מדינת ישמעאל.
+
+LINHAS A TRADUZIR:
+600|35:42|אז בואו נעזור להם שיהיה עוד מדינה.
+601|35:44|איך נעזור להם?
+602|35:45|ניתן להם תקציבים.
+603|35:47|ואז יקום פה עוד מדינה.
+604|35:48|הרי גם ערבי ישראלי שאמור להיות נאמן למדינה, ראינו מה היה בלוד.
+605|35:53|ראינו מה קרה, אתם מחכים רק ליום פקודה.
+606|35:55|מי יודע מה עותיד להיות?
+607|35:57|אני באמת סובר מאוד חזק, זה הרגשת ליבי, אני לא נביא ולא צופה, שכנראה שהשם רוצה שהכול
+608|36:03|יתמוטט.
+609|36:04|כנראה השם רוצה שהכול יתמוטט.
+610|36:05|לפני שיהיה יותר טוב ויבוא המשיח, צריך שיהיה יותר רע, כדי שהוא יזריח לנו
+611|36:11|את החמה בחשכת הלילה.
+612|36:14|מה שנאמר, כתוב שמה בעיה לעת ערב.
+613|36:18|יהי אור.
+614|36:19|לעת ערב יש חושך.
+615|36:21|אחרי הערב בא הלילה.
+616|36:23|מה זה לעת ערב איור?
+617|36:24|לפני שהוא מזריח את האור צריך להיות עלטה, חושך גדול, ואז, איך נאריך את המשיח?
+618|36:31|אנשים פה מחכים למשיח, נוסעים לבית מלון כל שנים וחמישים, נוסעים לך לקונזיס, נוסעים לך לזה,
+619|36:37|הולכים לך בתי מלון מפוצצים, נוסעים לך לקאטר, אה?
+620|36:43|כן, נוסעים לכל מיני מקומות, שמה, יש, חמסענק.
+621|36:49|נותנים לך, נוסעים לך.
+622|36:51|נוסעים לך לכל מיני מקומות.
+623|36:54|מה, מחכים אנשים למשיח?
+624|36:56|איך יחכו למשיח?
+625|36:57|כשהמצב יהיה קשה כשחל לעפר נפשנו, דווקא לארץ בפנינו,
+626|37:04|שהכי גרוע, אז קומה עזרת הלן עובדנו למען חסדך.
+627|37:08|כאן נראה שהשם רוצה להפיל את הכל.
+628|37:11|כי זה הפך ההיגיון של האויב שלך שמתוכך אתה ככה מחזק אותו, זה הפך
+629|37:17|ההיגיון, זה לא נתפס בכל שכל, בכל מדינה בעולם זה לא היה מתקבל הדבר הזה.
+630|37:22|בכל מדינה בעולם, שמי שלא שומר אמונים למדינה, עוד אתה מחזק אותו.
+631|37:27|אמריקה הפטריוטית הייתה נלחמת בכל הכוח במי שיפצה פה נגד
+632|37:33|אמריקה, יזמזם נגד אמריקה.
+633|37:35|ופה, בתוכנו, ככה זה, מהכסף של מה שאתה משלם, דברים הזויים, נראה
+634|37:41|בעליל שהשם רוצה להפיל שהכל יהיה התמוטטות וקריסה של הכל ואז
+635|37:47|כשהכל קודר ונופל אז יתגלה המשיח במלוא עוזו.
+636|37:52|אז כיוון שהעתיד לא נראה ורוד, זה הולך להיות משהו יותר מורכב, כל אחד פה
+637|37:58|יחוס על נפשו ועל נפש ילדיו ועל נפש צאצאיו ועל כל יוצאיך לצו
+638|38:03|ויתחזק, מי יודע מה יגזרו עלינו בראש השנה הבאה?
+639|38:07|מי יודע איזה גזרות עתידות לבוא?
+640|38:09|ומי שלא רוצה שזה ייגע בו, יפול מצידך אל איפה רביבה מימיניך, אליך לא ייגש, יתחזק עכשיו,
+641|38:15|אל תחכה לאלול.
+642|38:16|עכשיו, לכן אמר איכה, ראשי תיבות א' אלול, י' ימי תשובה, כ' זה כיפור, א'
+643|38:22|הושענה רבה, אלה ימי הדין, שהקדוש ברוך הוא יהפוך אותם עלינו לטובה ולברכה, לששון
+644|38:28|ולשמחה.
+645|38:29|מי שרוצה ספרים שלנו ו-USB נמצא אצל אהרון בחוץ, יראוי עינינו, ישמח ליבנו בעגלה ובזמן קריב
+646|38:34|ונאמר אמן.
+647|38:35|רבי יחנן אליהו בן הקשה אומר, יצא הקדוש ברוך הוא לזיכוי לצרה לבחר אחרי בלעים, תורה ומצוות
+648|38:38|שנמר, אדוני חפש ממעצית, כה יגד
