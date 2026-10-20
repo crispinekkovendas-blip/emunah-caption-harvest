@@ -1,18 +1,18 @@
 # lane5-017
 
-4 of 11 lessons published · 3 skipped · status **pending**
-Tokens (151 agent runs with a record): 1.2M in (mostly cache) · 1.47M out · API-equivalent 18.84
+5 of 11 lessons published · 4 skipped · status **pending**
+Tokens (194 agent runs with a record): 1.6M in (mostly cache) · 1.87M out · API-equivalent 24.01
 
 | lesson | state | detail |
 |---|---|---|
-| coDrV0KmAIY | ✗ will be redone (try 2) | 4 lines missing |
-| FJgWLj88VxA | ✗ will be redone (try 2) | 1 lines missing |
+| coDrV0KmAIY | waiting | 7/8 parts |
+| FJgWLj88VxA | skipped after 3 tries | 13 lines missing |
 | TGEbluiUx5o | ✓ published | 619 lines · Por que o sofrimento aproxima Israel de HaShem |
-| 7276NbfR4g8 | waiting | 6/7 parts |
+| 7276NbfR4g8 | ✓ published | 745 lines · Pinchas: Tsipora, o mérito e o Nome de Pinchas |
 | bQJPZogWEQU | ✓ published | 719 lines · Pensamentos de santidade e o fortalecimento da Torá |
 | osKeepzQHzw | ✓ published | 646 lines · Parashá Toldot: banquetes, mitsvot e "pinui-binui |
-| srpTG249JMw | skipped after 3 tries | 2 lines missing |
-| 29w1Ua8VkK8 | ✗ will be redone (try 2) | line 240 twice |
+| srpTG249JMw | skipped | |
+| 29w1Ua8VkK8 | waiting | 5/6 parts |
 | f8f9LRaPMkM | ✓ published | 724 lines · Mikêts e Chanucá: sonhos, hishtadlut e os Hasmoneus |
-| 1S_rB8DpPeA | skipped after 3 tries | 1 lines missing |
-| Sy29d_OVlaQ | skipped after 3 tries | 4 lines missing |
+| 1S_rB8DpPeA | skipped | |
+| Sy29d_OVlaQ | skipped | |
