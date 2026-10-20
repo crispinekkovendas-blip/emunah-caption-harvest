@@ -1,13 +1,13 @@
 # lane4-014
 
-10 of 15 lessons published · 4 skipped · status **pending**
-Tokens (319 agent runs with a record): 2.4M in (mostly cache) · 2.80M out · API-equivalent 36.01
+10 of 15 lessons published · 5 skipped · status **done**
+Tokens (321 agent runs with a record): 2.5M in (mostly cache) · 2.82M out · API-equivalent 36.22
 
 | lesson | state | detail |
 |---|---|---|
 | 1PjgpSP11lY | ✓ published | 742 lines · Por que Noach não está nas Selichot e Yosef está |
 | whxt16nIGSg | ✓ published | 957 lines · Vidui, teshuvá verdadeira e ser servo de HaShem |
-| QNL3vz5Vjy4 | waiting | 14/16 parts |
+| QNL3vz5Vjy4 | skipped after 3 tries | line 837 twice |
 | hSGUy9cOf6c | ✓ published | 985 lines · Ver o Rav acima de si: Miriam, os espiões e Korach |
 | tQGCw_mE-Ik | ✓ published | 422 lines · Pitum HaKetoret, Chanukat HaBayit e Kedoshim |
 | 5hcd89l06TQ | ✓ published | 752 lines · Parashat Balak: o medo de Moav e o poder de Bilam |
