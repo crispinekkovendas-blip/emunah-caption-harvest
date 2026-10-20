@@ -1,7 +1,7 @@
 # lane9-004
 
 8 of 14 lessons published · 5 skipped · status **pending**
-Tokens (321 agent runs with a record): 2.3M in (mostly cache) · 2.59M out · API-equivalent 33.21
+Tokens (324 agent runs with a record): 2.4M in (mostly cache) · 2.61M out · API-equivalent 33.43
 
 | lesson | state | detail |
 |---|---|---|
@@ -17,5 +17,5 @@ Tokens (321 agent runs with a record): 2.3M in (mostly cache) · 2.59M out · AP
 | ez3oskhk9aA | skipped | |
 | YZzVn2AOCPQ | ✓ published | 679 lines · Por que Moshe Rabenu "quebrou" com as queixas do povo |
 | kE4ty09Yb5s | skipped | |
-| pNhfS9TvPzA | waiting | 10/11 parts |
+| pNhfS9TvPzA | ✗ will be redone (try 2) | 233 lines missing |
 | 4dj5Q3RQlLc | skipped | |
