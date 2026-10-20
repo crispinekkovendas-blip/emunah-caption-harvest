@@ -1,0 +1,25 @@
+600	Did they get drunk or not?	Eles ficaram embriagados ou não?
+601	They got drunk.	Ficaram embriagados.
+602	Chazal say they were drunk on wine.	Os Sábios dizem que estavam embriagados de vinho.
+603	How could they have had wine?	Como poderiam ter vinho?
+604	Did they get drunk or not?	Embriagaram-se ou não?
+605	Chazal say they got drunk.	Os Sábios dizem que se embriagaram.
+606	Yes.	Sim.
+607	So how do you resolve it?	Então como você resolve?
+608	So it was wine.	Então era vinho.
+609	So it implies it turns into the real thing.	Então isso quer dizer que vira a coisa real.
+610	So if they had thought about pork, you can focus, write yourself minus	Então, se tivessem pensado em porco, pode se concentrar, escreva para você menos
+611	ten points on your test.	dez pontos na sua prova.
+612	In any case, gentlemen, as a practical halachah, as a practical halachah,	De qualquer forma, senhores, como halachá na prática, como halachá na prática,
+613	we probably have no practical halachah here, but this is probably the only answer I found, but I'm sure	provavelmente não temos halachá prática aqui, mas esta é provavelmente a única resposta que encontrei, mas tenho certeza
+614	that in so large a community of Torah scholars and lovers and honorers of Torah, perhaps I too will be built up,	de que numa comunidade tão grande de estudiosos e amantes e honradores da Torá, talvez eu também seja edificado,
+615	and someone will have an answer to this question. I'd be glad to hear it, and without a vow, in the next edition of Merkavot	e alguém terá uma resposta para esta pergunta. Ficarei feliz em ouvir, e sem fazer voto, na próxima edição de Merkavot
+616	Argaman we will publish it.	Argaman nós a publicaremos.
+617	There are rabbis who hear the lessons that come out now and add to them, and in twenty years they	Há rabinos que ouvem as aulas que saem agora e acrescentam a elas, e daqui a vinte anos eles
+618	laughed	riram
+619	at me, but you won't be here in a hundred years.	de mim, mas você não estará aqui daqui a cem anos.
+620	What do you intend to sign as permanent?	O que você pretende firmar como permanente?
+621	Baruch HaShem, we are going up to Gan Eden; you'll stay here, that's the best.	Baruch HaShem, nós subimos ao Gan Éden; você fica aqui, isso é o melhor.
+622	You'll stay here, that's the most important.	Você fica aqui, isso é o mais importante.
+623	In any case, gentlemen, whoever wants our new book, it is	De qualquer forma, senhores, quem quiser o nosso novo livro, ele está
+624	outside. We bless everyone with a blessing, success, salvations and consolations.	lá fora. Abençoamos a todos com uma bênção, sucesso, salvações e consolações.

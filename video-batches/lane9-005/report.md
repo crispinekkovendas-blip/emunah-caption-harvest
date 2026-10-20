@@ -1,17 +1,17 @@
 # lane9-005
 
-5 of 13 lessons published · 4 skipped · status **pending**
-Tokens (192 agent runs with a record): 1.6M in (mostly cache) · 1.86M out · API-equivalent 23.92
+6 of 13 lessons published · 5 skipped · status **pending**
+Tokens (214 agent runs with a record): 1.7M in (mostly cache) · 2.07M out · API-equivalent 26.67
 
 | lesson | state | detail |
 |---|---|---|
 | KuwxP-UTw0Y | ✓ published | 787 lines · Vayechi: Yaakov e a correção do pecado de Adam |
 | OZAlJT2c1pI | ✓ published | 574 lines · Por que Moshê some da Parashá Tetsavê |
 | 7GysJ534K1c | skipped | |
-| gmOS6SdQs3Y | ✗ will be redone (try 1) | 1 lines missing |
-| ppdKnAZ5P3g | skipped after 3 tries | 7 lines missing |
-| pMpF3IXppJ8 | waiting | 4/7 parts |
-| bMJNeyya-6k | ✗ will be redone (try 2) | 6 lines missing |
+| gmOS6SdQs3Y | ✓ published | 720 lines · Vayigash: HaShem eleva os humildes (o tsunami) |
+| ppdKnAZ5P3g | skipped | |
+| pMpF3IXppJ8 | skipped after 3 tries | 3 lines missing |
+| bMJNeyya-6k | waiting | 5/6 parts |
 | 5gRYX2y4rS0 | waiting | 5/6 parts |
 | 6E15081YHIQ | skipped | |
 | q69t6lT1HcM | skipped | |
