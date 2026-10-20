@@ -1,0 +1,22 @@
+{
+ "name": "lane2-019",
+ "lane": 2,
+ "created": "2026-10-20T23:40:34.901Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "d5huPfZHrCo",
+   "title": "Por que Yosef está nas Selichot e Noach não",
+   "lines": 541,
+   "parts": 5,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "d5huPfZHrCo.p0",
+  "d5huPfZHrCo.p1",
+  "d5huPfZHrCo.p2",
+  "d5huPfZHrCo.p3",
+  "d5huPfZHrCo.p4"
+ ]
+}
