@@ -1,0 +1,120 @@
+600	English: Ah, people say "they make it with awe" but pronounce it "with a curse".	Português: Ah, fazem "com temor" e dizem "com maldição".
+601	English: What is this, "making it with awe"?	Português: O que é isso, "fazer com temor"?
+602	English: Do you make it with awe?	Português: Você faz com temor?
+603	English: "Making it with awe"!	Português: "Fazendo com temor"!
+604	English: What, are you Avraham Avinu in the Sefer Yetzirah?	Português: Quê, você é Avraham Avinu no Sefer Yetzirá?
+605	English: "And the calf of the herd that he had prepared"?	Português: "E o bezerro do gado que ele tinha preparado"?
+606	English: Making it with awe?	Português: Fazendo com temor?
+607	English: Who is making it with awe?	Português: Quem faz com temor?
+608	English: Do you make it with awe?	Português: Você faz com temor?
+609	English: "Making it with awe"!	Português: "Fazendo com temor"!
+610	English: Ah, and in the same way you find plenty of embarrassing mistakes in general in...	Português: Ah, e assim você encontra muitos erros constrangedores em geral em...
+611	English: "Quickly," "accept their prayer quickly, with favor."	Português: "Depressa", "aceite a oração depressa, com favor".
+612	English: Who is "mehera"?	Português: Quem é "mehera"?
+613	English: "Mehera," as we find, the Gemara says in Berachot, page twenty, side two: it will come quickly upon one whose wife and children bless on his behalf.	Português: "Mehera", como encontramos, a Guemará diz em Berachot, página vinte, lado dois: virá depressa sobre aquele cuja mulher e filhos abençoam por ele.
+614	English: What is "mehera"?	Português: O que é "mehera"?
+615	English: "Mehera" is a malignant disease, as we find.	Português: "Mehera" é uma doença maligna, como encontramos.
+616	English: "Mehera."	Português: "Mehera."
+617	English: Count how many times "mehera" appears in the Amidah.	Português: Conte quantas vezes aparece "mehera" na Amidá.
+618	English: There are many times.	Português: Há muitas vezes.
+619	English: "Mehera."	Português: "Mehera."
+620	English: But you have to stress that letter, the guttural one.	Português: Mas é preciso enfatizar aquela letra, a gutural.
+621	English: And there are plenty more like these.	Português: E há muitos outros assim.
+622	English: So this is "Vayhi beshalach Paroh."	Português: Então isto é "Vayhi beshalach Paroh".
+623	English: Why "Vayhi," so they would not say that Pharaoh sent him?	Português: Por que "Vayhi", para que não digam que Faraó o enviou?
+624	English: Why "Vayhi mikets," so they would not say that Pharaoh took him out of the pit?	Português: Por que "Vayhi mikets", para que não digam que Faraó o tirou da cova?
+625	English: Afterwards that wicked man came to him and said, "I mention my sins today."	Português: Depois aquele perverso veio a ele e disse: "Eu me lembro hoje dos meus pecados."
+626	English: Wow, how was he not afraid that Pharaoh would get angry at him again?	Português: Nossa, como não teve medo de que Faraó se irritasse com ele de novo?
+627	English: You mention your sins?	Português: Você menciona os seus pecados?
+628	English: Say there is someone you embarrassed.	Português: Digamos que há alguém que você envergonhou.
+629	English: What did you do?	Português: O que você fez?
+630	English: I know.	Português: Eu sei.
+631	English: He bought a new car, come on.	Português: Ele comprou um carro novo, vamos lá.
+632	English: What a Jaguar!	Português: Que Jaguar!
+633	English: A 2020.	Português: Um 2020.
+634	English: He drives it and says, "Come, take me to the party, so people's eyes pop out."	Português: Ele dirige e diz: "Venha, me leve à festa, para as pessoas arregalarem os olhos."
+635	English: "Come, take me."	Português: "Venha, me leve."
+636	English: He took him to the party in the 2020 Jaguar.	Português: Levou-o à festa no Jaguar 2020.
+637	English: The other one said to him, "May I smoke?"	Português: O outro disse: "Posso fumar?"
+638	English: He said, "Smoke, no problem."	Português: Ele disse: "Fume, sem problema."
+639	English: He smoked and dropped his cigarette on the seat, still burning, without meaning to.	Português: Fumou e deixou o cigarro cair no banco, aceso, sem querer.
+640	English: He got out of the car, both of them got out, and he came back.	Português: Saiu do carro, os dois saíram, e voltou.
+641	English: The whole car went up in flames, and there was no insurance.	Português: O carro inteiro pegou fogo, e não havia seguro.
+642	English: The owner came to him: "Fine, bring me the money, look what you did to me."	Português: O dono veio a ele: "Está bem, traga-me o dinheiro, veja o que você fez comigo."
+643	English: "No, where will I bring it from?"	Português: "Não, de onde vou trazer?"
+644	English: "I barely make it to the end of the month, what do you want from me?"	Português: "Mal consigo fechar o mês, o que você quer de mim?"
+645	English: "To sell my soul to the devil?"	Português: "Vender minha alma ao diabo?"
+646	English: "What do you want me to do?"	Português: "O que você quer que eu faça?"
+647	English: "I have nothing," truly he has nothing.	Português: "Eu não tenho", realmente ele não tem.
+648	English: The money is gone, David.	Português: O dinheiro se foi, David.
+649	English: It's over, there's nothing, finished, gone.	Português: Acabou, não há nada, chega, foi-se.
+650	English: "I won't forgive you, that Jaguar, all my life I dreamed of it."	Português: "Não vou te perdoar, aquele Jaguar, a vida inteira sonhei com ele."
+651	English: "I worked like a donkey for that Jaguar, I washed floors."	Português: "Trabalhei como um burro por aquele Jaguar, lavei pisos."
+652	English: "Aren't you ashamed?"	Português: "Você não tem vergonha?"
+653	English: "I won't forgive you."	Português: "Não vou te perdoar."
+654	English: Fine, time passed, time does its work, year after year, it fades from the heart, he forgot	Português: Bem, o tempo passou, o tempo faz o seu trabalho, ano após ano, sai do coração, esqueceu
+655	English: a little about the Jaguar, calmed down, asked for forgiveness, the sin was forgiven, all is well, twenty	Português: um pouco do Jaguar, se acalmou, pediu perdão, a falta foi perdoada, tudo bem, passaram-se vinte
+656	English: years went by, all right?	Português: anos, certo?
+657	English: After twenty years he comes to his friend and says, "Do you remember how once..."	Português: Depois de vinte anos ele vem ao amigo e diz: "Você se lembra de como uma vez..."
+658	English: "I burned your car, the Jaguar, remember?"	Português: "Eu queimei o seu carro, o Jaguar, lembra?"
+659	English: "What a blaze that was."	Português: "Que incêndio foi aquele."
+660	English: What will the owner do?	Português: O que ele vai fazer?
+661	English: His anger is stirred up again.	Português: A raiva dele desperta de novo.
+662	English: "What, aren't you ashamed?"	Português: "Quê, você não tem vergonha?"
+663	English: "But you forgave me, you told me 'forgiven.'"	Português: "Mas você me perdoou, você me disse 'perdoado'."
+664	English: "I don't forgive you, you know what?"	Português: "Não perdoo, sabe de uma coisa?"
+665	English: "I don't forgive."	Português: "Não perdoo."
+666	English: "But you already said 'forgiven.'"	Português: "Mas você já disse 'perdoado'."
+667	English: Sometimes a person forgives another, and afterwards he remembers the whole situation again	Português: Às vezes uma pessoa perdoa a outra, e depois se lembra de novo de toda a situação
+668	English: and the feelings, and his anger is stirred up again.	Português: e dos sentimentos, e a raiva desperta nela de novo.
+669	English: It rises up again.	Português: Volta a subir de novo.
+670	English: I don't understand: this young man sinned against Pharaoh, king of Egypt. "I mention my sins today." Why do you	Português: Não entendo: este jovem pecou contra Faraó, rei do Egito. "Eu me lembro hoje dos meus pecados." Para que você
+671	English: mention it?	Português: lembra isso?
+672	English: Why?	Português: Para quê?
+673	English: So that they fall on you again?	Português: Para que caiam sobre você de novo?
+674	English: After all, if Pharaoh remembers the anger you caused him the first time, perhaps you too	Português: Afinal, se Faraó se lembrar da raiva que você lhe causou da primeira vez, talvez você também
+675	English: will have your head cut off, as was done to the chief butler and the chief baker.	Português: tenha a cabeça cortada, como fizeram ao copeiro-chefe e ao padeiro-chefe.
+676	English: So how are you not afraid to recall what happened?	Português: Então como você não tem medo de recordar o que houve?
+677	English: Rather, what must we say?	Português: Mas então, o que se deve dizer?
+678	English: In truth he did not sin against Pharaoh at all.	Português: Na verdade ele não pecou nada contra Faraó.
+679	English: Pharaoh woke up that day in a bad mood.	Português: Faraó acordou naquele dia de mau humor.
+680	English: Pharaoh did not take his pills, the...	Português: Faraó não tomou os seus comprimidos, o...
+681	English: the antidepressant, he didn't take the pills, he got angry.	Português: o antidepressivo, não tomou os comprimidos, irritou-se.
+682	English: He was just looking for someone to grab now, someone to grab.	Português: Só procurava alguém para agarrar agora, alguém para agarrar.
+683	English: Unluckily for him, the one passing by there...	Português: Por azar dele, quem passava por ali...
+684	English: the chief baker.	Português: o padeiro-chefe.
+685	English: The chief baker.	Português: O padeiro-chefe.
+686	English: The moment the chief baker passed: "You!"	Português: Assim que o padeiro-chefe passou: "Você!"
+687	English: "Why are you looking at me?"	Português: "Por que você está me olhando?"
+688	English: "I didn't look, Your Majesty, I didn't look." "You didn't look?"	Português: "Não olhei, Majestade, não olhei." "Não olhou?"
+689	English: "Into prison now!" He went into prison now and he had done nothing, just like	Português: "Para a prisão agora!" Ele foi para a prisão agora e não tinha feito nada, assim como
+690	English: Yosef: "But I did nothing, and I was stolen, yes, stolen."	Português: Yosef: "Mas eu não fiz nada, e fui roubado, sim, roubado."
+691	English: Therefore the chief baker was not afraid to mention, so to speak, his sins, because he truly	Português: Por isso o padeiro-chefe não teve medo de mencionar, por assim dizer, os seus pecados, porque na verdade ele
+692	English: had done nothing.	Português: não tinha feito nada.
+693	English: The anger of the king of Egypt would not be stirred up against him again.	Português: A raiva do rei do Egito não despertaria de novo contra ele.
+694	English: About this he said, "I mention my sins today."	Português: Sobre isso ele disse: "Eu me lembro hoje dos meus pecados."
+695	English: As if to say: do not mention it.	Português: Como se dissesse: não lembre isso.
+696	English: I did not truly sin, but that I looked at you, you know, don't catch me again.	Português: Eu não pequei de verdade, mas por ter olhado para você, sabe, não me pegue de novo.
+697	English: As the Gemara says in Bava Kama, page sixty-one:	Português: Como diz a Guemará em Bava Kama, página sessenta e um:
+698	English: "When there is a plague in the city, gather in your feet,"	Português: "Quando há peste na cidade, recolha os seus pés",
+699	English: do not leave the house.	Português: não saia de casa.
+700	English: Why?	Português: Por quê?
+701	English: Because the angel of death is in the city and does not distinguish between tzaddik and wicked, and strikes whoever he finds there.	Português: Porque o anjo da morte está na cidade e não distingue entre tsadik e perverso, e fere quem encontra ali.
+702	English: The angel of death is in the city.	Português: O anjo da morte está na cidade.
+703	English: The same here: the king is angry, run away from him.	Português: O mesmo aqui: o rei está irritado, fuja dele.
+704	English: Why?	Português: Por quê?
+705	English: He will not distinguish who sinned and who did not, and he will strike everyone.	Português: Ele não distinguirá quem pecou e quem não pecou, e ferirá a todos.
+706	English: This is the chief baker, he did not truly sin against the king of Egypt.	Português: Este é o padeiro-chefe, ele não pecou de verdade contra o rei do Egito.
+707	English: So why is he in prison?	Português: Então por que ele está na prisão?
+708	English: Because there was talk in the city, and the angel of death does not distinguish between good and bad: he seized him, put him	Português: Porque houve falatório na cidade, e o anjo da morte não distingue entre bons e maus: agarrou-o, pôs ele
+709	English: into the pit. That is what happened.	Português: na cova. Foi isso que aconteceu.
+710	English: And therefore he was not afraid to mention his sins.	Português: E por isso ele não teve medo de mencionar os seus pecados.
+711	English: "I mention my sins today."	Português: "Eu me lembro hoje dos meus pecados."
+712	English: What does he say to him there? He says, "There with us, a Hebrew lad." Rashi writes, "'Amcha shmo'. Cursed	Português: O que ele diz ali? Diz: "Estava ali conosco um jovem hebreu." Rashi escreve: "'Amcha shmo'. Malditos
+713	English: are the wicked, whose kindness is not complete."	Português: são os perversos, cuja bondade não é completa."
+714	English: You could not say a righteous lad, a good lad, a wise lad, a lad, what title did you find	Português: Você não pôde dizer um jovem justo, um jovem bom, um jovem sábio, um jovem, que título você achou
+715	English: for him? "Hebrew," as if to say some riffraff from the street, brought from Canaan, a Hebrew	Português: para ele? "Hebreu", como se dissesse qualquer ralé da rua, trazido de Canaã, um jovem
+716	English: lad, his parents are wicked, whose kindness is not complete, "a servant of the chief of the butchers." Let us tell him: "And it came to pass,	Português: hebreu, os pais dele são perversos, cuja bondade não é completa, "servo do chefe dos cozinheiros". Vamos contar a ele: "E aconteceu que,
+717	English: as he interpreted for us, so it was; me he restored to my post." Who is "me"	Português: conforme nos interpretou, assim foi; a mim ele restituiu ao meu posto." Quem é "a mim"
+718	English: who restored?	Português: que restituiu?
+719	English: The Zohar writes: Yosef restored. Why?	Português: O Zohar escreve: Yosef restituiu. Por quê?
