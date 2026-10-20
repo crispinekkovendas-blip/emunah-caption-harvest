@@ -1,0 +1,85 @@
+{
+ "name": "lane8-007",
+ "lane": 8,
+ "created": "2026-10-20T00:13:23.264Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "nfSJ_8wXjjM",
+   "title": "Parashat Shelach: as condições dos espiões e as almas",
+   "lines": 679,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "OoKqBaRNAqw",
+   "title": "Parashat Matot: festas, abstinência e o poder da palavra",
+   "lines": 579,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "EsMEKHnk_fM",
+   "title": "Bechita em Elul, Selichot e temor a HaShem",
+   "lines": 633,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "3QtfHglis14",
+   "title": "Parashá Vayechi: o medo de Yaakov e o sepultamento",
+   "lines": 612,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PogvsHUb7Tw",
+   "title": "Por que crianças estudam Vayikrá: pureza e proximidade de HaShem",
+   "lines": 551,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "01tlkyYfGTs",
+   "title": "Vaerá: cinco expressões de redenção e as pragas",
+   "lines": 575,
+   "parts": 5,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "nfSJ_8wXjjM.p0",
+  "nfSJ_8wXjjM.p1",
+  "nfSJ_8wXjjM.p2",
+  "nfSJ_8wXjjM.p3",
+  "nfSJ_8wXjjM.p4",
+  "nfSJ_8wXjjM.p5",
+  "OoKqBaRNAqw.p0",
+  "OoKqBaRNAqw.p1",
+  "OoKqBaRNAqw.p2",
+  "OoKqBaRNAqw.p3",
+  "OoKqBaRNAqw.p4",
+  "EsMEKHnk_fM.p0",
+  "EsMEKHnk_fM.p1",
+  "EsMEKHnk_fM.p2",
+  "EsMEKHnk_fM.p3",
+  "EsMEKHnk_fM.p4",
+  "EsMEKHnk_fM.p5",
+  "3QtfHglis14.p0",
+  "3QtfHglis14.p1",
+  "3QtfHglis14.p2",
+  "3QtfHglis14.p3",
+  "3QtfHglis14.p4",
+  "3QtfHglis14.p5",
+  "PogvsHUb7Tw.p0",
+  "PogvsHUb7Tw.p1",
+  "PogvsHUb7Tw.p2",
+  "PogvsHUb7Tw.p3",
+  "PogvsHUb7Tw.p4",
+  "01tlkyYfGTs.p0",
+  "01tlkyYfGTs.p1",
+  "01tlkyYfGTs.p2",
+  "01tlkyYfGTs.p3",
+  "01tlkyYfGTs.p4"
+ ]
+}
