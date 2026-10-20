@@ -2,7 +2,7 @@
  "name": "lane2-018",
  "lane": 2,
  "created": "2026-10-20T07:23:13.247Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "mCrvmV8ZQ5s",
@@ -156,7 +156,7 @@
   "_mH6IBSZmlk.p5"
  ],
  "tries": {
-  "mCrvmV8ZQ5s": 2,
+  "mCrvmV8ZQ5s": 3,
   "JFHmcjv2H9Y": 1,
   "iH1azTNADYQ": 3,
   "PKoptFokTz4": 3,
@@ -164,7 +164,7 @@
   "2ozbDdr0aic": 3,
   "8sUbiWH57mI": 1,
   "_mH6IBSZmlk": 3,
-  "jf8cXAC7n9Y": 2
+  "jf8cXAC7n9Y": 3
  },
  "done": [
   "dR_dgRwSJoI",
@@ -177,6 +177,8 @@
   "iH1azTNADYQ",
   "PKoptFokTz4",
   "2ozbDdr0aic",
-  "_mH6IBSZmlk"
+  "_mH6IBSZmlk",
+  "mCrvmV8ZQ5s",
+  "jf8cXAC7n9Y"
  ]
 }
