@@ -1,0 +1,39 @@
+videoId: 9ESVMlJPVLE
+parte 6 de 6 · traduzir as linhas 600 a 614 (15 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Lech Lecha: sair da impureza rumo à Terra de Israel
+RESUMO: O rabino parte do versículo "Lech lecha" (Bereshit 12:1) e explica que Avraham foi tirado de Ur Kasdim, terra de impureza, para a Terra de Israel, onde HaShem queria plantar o "vinhedo" do povo de Israel. Cita a Gemará em Yevamot 79a sobre as três qualidades do povo (envergonhados, misericordiosos e benfeitores), com o caso de Rav Amoná em Bavel (Beitzá 32b), e o princípio "afasta-te do mal e faze o bem". Mostra, pelo Maaser Sheni e pelo Yerushalmi, como subir a Jerusalém e ver a Torá e os sábios fortalecia a pessoa, e que o ar e a Terra de Israel tornam sábio e esperto (Bava Batra 158b, Ketubot 75a, Berachot 5a). Explica o valor das hakafot em volta da Torá e da mesa de Shabat segundo o Arizal, e o mérito da terra de Israel que expia pecados (Devarim 32:43), com o costume de pôr terra sobre o falecido. Conta a história da peste na yeshivá Porat Yosef e do bilhete levado ao Arizal, e termina com a esperança de ver os justos na ressurreição dos mortos.
+MOMENTOS: 00:04 Lech lecha: Avraham sai de Ur Kasdim · 00:58 Três qualidades do povo: Yevamot 79a · 01:47 Rav Amoná em Bavel e o Erev Rav · 03:29 Afastar-se do mal: sair dos lugares impuros · 03:48 Maaser Sheni e a subida a Jerusalém · 11:00 O ar da Terra de Israel torna sábio · 15:52 Um sábio de Israel vale dois do exterior · 23:41 Terra de Israel faz as pessoas espertas · 23:56 As hakafot e a mesa de Shabat segundo o Arizal · 27:10 A terra de Israel expia e a terra no falecido · 29:49 Os vermes segundo a gravidade do pecado · 35:23 História do bilhete da yeshivá Porat Yosef · 38:14 Quem julga a pessoa depois dos 120 anos
+FONTES CITADAS: 00:04 Bereshit 12:1 · 00:28 Chazal (Ohalot 2:3) · 00:40 Devarim 11:11-12 · 00:58 Yevamot 79a · 01:39 Yevamot 79a · 01:47 Beitzá 32b · 03:29 Tehilim 34:15 · 03:48 Bava Batra 22a · 03:48 Rabi Shlomo Sirilio sobre o Yerushalmi, Maaser Sheni · 10:46 Maaser Sheni / Yerushalmi · 11:05 Bava Batra 158b · 11:22 Avot 6:2 · 11:28 Avot 6:9 · 12:05 Tehilim 85:14 · 12:16 Eruvin 54a · 13:25 Yerushalmi, Maaser Sheni · 14:15 Devarim 23:15 · 15:29 Eruvin 53a · 15:52 Ketubot 75a · 21:33 Berachot 5a · 23:34 Berachot 61b · 23:56 Rabi Haim Vital, Shaar HaKavanot (Arizal) · 25:11 Ben Ish Chai · 25:24 Arizal, Shaar HaKavanot · 25:49 Sidur do Chida, Sefer Brit Olam · 26:41 Chatam Sofer, Drashot, vol. 2 · 27:10 Devarim 32:43 · 27:27 Rabi Natan, Midrash · 28:00 Zohar, sobre o Chibut HaKever · 29:05 Shabat 13b e Berachot 18b · 29:43 Rabi Aharon Berachia de Modena · 30:53 Yeshayahu 54:1 · 31:04 Berachot 10a · 31:54 Yoma 86a · 32:45 Bereshit 46:4 · 32:48 Zohar, Vayechi · 38:30 Zohar
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|38:31|יכול להיות אין.
+589|38:32|אני אמרתי, ליבי אומר לי שהזוהר כותב שמי שידון אותך אחרי 120 בשמיים יהיה
+590|38:38|הדיינים מהדור שלך.
+591|38:41|הזוהר כתב הדיינים, הוא לא אמר מהדור שלך.
+592|38:44|אני אומר, חייב לומר שזה מהדור שלך כי רק יש לך זכות לראות את חכם עובדיה, את רבי
+593|38:50|אברהם, את רבי אליהו, מרדכי אליהו, את הגדולים האלה.
+594|38:55|מה אתה חושב, שתעמוד שם ותראה את משה רבנו דן אותך?
+595|38:59|תראה את המרכו דן אותך, את הגאון מווילנה דן אותך, תזכה לראות את הפנים שלו.
+596|39:03|ואם זה רשע שצריך ללכת לגהינם, מה רשע שילך לגהינם יראה את הפנים של הגאון מווילנה?
+597|39:08|את הפנים של הבן איש חי?
+598|39:10|אז צריך לומר שזה דווקא דיינים מהדור שלך.
+599|39:13|אתה רואה שמהסיפור הזה גם יש ראייה ניצחת שאתה לא רואה חכמים מדורות קודמים.
+
+LINHAS A TRADUZIR:
+600|39:19|למה שרבי נסים נחום לא יביא את הפתק למרכו?
+601|39:22|שלחו אותך להביא את הפקטק למארחו.
+602|39:25|לא, הוא היה צריך להביא לרבי אברהם חיים עוספיא.
+603|39:27|והוא היה צריך להעביר למרן החידה, ומרן החידה היה צריך להעביר למארחו.
+604|39:31|לומר לך, תראה איזה זכות.
+605|39:33|זה בעולם הבא.
+606|39:34|מה יהיה בתחיית המתים?
+607|39:36|נזכה לראות את הפנים של המארחו?
+608|39:38|תחיית המתים, נאכל כולנו דגים, יהיה סעודה דגים, השם יעשה משהו
+609|39:44|משהו, ואז שמה יקומו כל המתים, נזכה לראות את הפנים של מרן החידה, של רבנו הארי,
+610|39:50|של ארגאון מווילנה, של ארגאון בן איש חי, נראה את כולם, כנראה שתחיית המתים זה משהו
+611|39:55|אחר, כולם יראו מי שיזכה יהיה ילד טוב יעשה תשובה, יתקן את
+612|40:01|המידות, קדוש ברוך הוא יזכה אותו לקום בתחילת המתים ולאכול מסעודת לוויתנו לראות פניהם של
+613|40:06|צדיקי הדורות שמזכה אותנו מי שרוצה ספרים ב-USB נמצא בחוץ אצל אהרון,
+614|40:12|יגזור עליכם גזרות טובות, ישועות ונחמות

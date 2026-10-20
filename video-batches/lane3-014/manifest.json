@@ -1,0 +1,163 @@
+{
+ "name": "lane3-014",
+ "lane": 3,
+ "created": "2026-10-20T14:44:13.336Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "o7G7_0o7bj8",
+   "title": "Vayigash: por que os irmãos não ficaram sem resposta",
+   "lines": 703,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "fkH8ASoXfBk",
+   "title": "Parashá Bo: o Erev Rav que subiu do Egito",
+   "lines": 548,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ZrA7__RaiXE",
+   "title": "Kórach, a morte incomum e o ajuste de contas final",
+   "lines": 698,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "ignYKz928AQ",
+   "title": "Parashat Beshalach: quem realmente libertou Israel",
+   "lines": 706,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "VWZTg_ou7RI",
+   "title": "Matot-Masei: o cuidado com a palavra e a vingança de Midyan",
+   "lines": 691,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "OLiZ9YK7tBU",
+   "title": "Vayigash: Midá keneged midá e o desmascarar de Yosef",
+   "lines": 552,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "P9yoql-gaSs",
+   "title": "Parashá Devarim: o mussar de Moshe e a data do discurso",
+   "lines": 669,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "06zPmn4UfvI",
+   "title": "Maasê: Exílio, Faíscas (Rapach) e o Incenso (Ketoret)",
+   "lines": 634,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "VWkaeTdURP0",
+   "title": "Vayeshev: guardar os olhos e o alicerce da Brit",
+   "lines": 710,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rKy0q-kMwMo",
+   "title": "Parashá Mishpatim: o sentido oculto da sequência de Shemot",
+   "lines": 607,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "bXNiaITm-qw",
+   "title": "Parashá Bo: a rã, a oração em voz alta e a morte dos primogênitos",
+   "lines": 548,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "9ESVMlJPVLE",
+   "title": "Lech Lecha: sair da impureza rumo à Terra de Israel",
+   "lines": 615,
+   "parts": 6,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "o7G7_0o7bj8.p0",
+  "o7G7_0o7bj8.p1",
+  "o7G7_0o7bj8.p2",
+  "o7G7_0o7bj8.p3",
+  "o7G7_0o7bj8.p4",
+  "o7G7_0o7bj8.p5",
+  "fkH8ASoXfBk.p0",
+  "fkH8ASoXfBk.p1",
+  "fkH8ASoXfBk.p2",
+  "fkH8ASoXfBk.p3",
+  "fkH8ASoXfBk.p4",
+  "ZrA7__RaiXE.p0",
+  "ZrA7__RaiXE.p1",
+  "ZrA7__RaiXE.p2",
+  "ZrA7__RaiXE.p3",
+  "ZrA7__RaiXE.p4",
+  "ZrA7__RaiXE.p5",
+  "ignYKz928AQ.p0",
+  "ignYKz928AQ.p1",
+  "ignYKz928AQ.p2",
+  "ignYKz928AQ.p3",
+  "ignYKz928AQ.p4",
+  "ignYKz928AQ.p5",
+  "VWZTg_ou7RI.p0",
+  "VWZTg_ou7RI.p1",
+  "VWZTg_ou7RI.p2",
+  "VWZTg_ou7RI.p3",
+  "VWZTg_ou7RI.p4",
+  "VWZTg_ou7RI.p5",
+  "OLiZ9YK7tBU.p0",
+  "OLiZ9YK7tBU.p1",
+  "OLiZ9YK7tBU.p2",
+  "OLiZ9YK7tBU.p3",
+  "OLiZ9YK7tBU.p4",
+  "P9yoql-gaSs.p0",
+  "P9yoql-gaSs.p1",
+  "P9yoql-gaSs.p2",
+  "P9yoql-gaSs.p3",
+  "P9yoql-gaSs.p4",
+  "P9yoql-gaSs.p5",
+  "06zPmn4UfvI.p0",
+  "06zPmn4UfvI.p1",
+  "06zPmn4UfvI.p2",
+  "06zPmn4UfvI.p3",
+  "06zPmn4UfvI.p4",
+  "06zPmn4UfvI.p5",
+  "VWkaeTdURP0.p0",
+  "VWkaeTdURP0.p1",
+  "VWkaeTdURP0.p2",
+  "VWkaeTdURP0.p3",
+  "VWkaeTdURP0.p4",
+  "VWkaeTdURP0.p5",
+  "rKy0q-kMwMo.p0",
+  "rKy0q-kMwMo.p1",
+  "rKy0q-kMwMo.p2",
+  "rKy0q-kMwMo.p3",
+  "rKy0q-kMwMo.p4",
+  "rKy0q-kMwMo.p5",
+  "bXNiaITm-qw.p0",
+  "bXNiaITm-qw.p1",
+  "bXNiaITm-qw.p2",
+  "bXNiaITm-qw.p3",
+  "bXNiaITm-qw.p4",
+  "9ESVMlJPVLE.p0",
+  "9ESVMlJPVLE.p1",
+  "9ESVMlJPVLE.p2",
+  "9ESVMlJPVLE.p3",
+  "9ESVMlJPVLE.p4",
+  "9ESVMlJPVLE.p5"
+ ]
+}
