@@ -1,0 +1,22 @@
+{
+ "name": "lane10-006",
+ "lane": 10,
+ "created": "2026-10-20T23:46:43.909Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "CM-id2qn9Uk",
+   "title": "Dinossauros na Torá: gigantes de Bereshit ao Dilúvio",
+   "lines": 555,
+   "parts": 5,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "CM-id2qn9Uk.p0",
+  "CM-id2qn9Uk.p1",
+  "CM-id2qn9Uk.p2",
+  "CM-id2qn9Uk.p3",
+  "CM-id2qn9Uk.p4"
+ ]
+}
