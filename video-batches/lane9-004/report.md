@@ -1,7 +1,7 @@
 # lane9-004
 
-8 of 14 lessons published · 4 skipped · status **pending**
-Tokens (275 agent runs with a record): 2.0M in (mostly cache) · 2.25M out · API-equivalent 29.30
+8 of 14 lessons published · 5 skipped · status **pending**
+Tokens (306 agent runs with a record): 2.2M in (mostly cache) · 2.49M out · API-equivalent 31.91
 
 | lesson | state | detail |
 |---|---|---|
@@ -14,8 +14,8 @@ Tokens (275 agent runs with a record): 2.0M in (mostly cache) · 2.25M out · AP
 | DQFaP1c7Vd4 | ✓ published | 409 lines · O início da escravidão no Egito e o peso dos cargos |
 | GfqzPqFSqCM | ✓ published | 704 lines · Terumá: Gan Eden, Guehinam e a doação que eleva |
 | 7pfIoU_bN00 | skipped | |
-| ez3oskhk9aA | skipped after 3 tries | Unexpected token '<', "<!DOCTYPE "... is not valid JSON |
+| ez3oskhk9aA | skipped | |
 | YZzVn2AOCPQ | ✓ published | 679 lines · Por que Moshe Rabenu "quebrou" com as queixas do povo |
-| kE4ty09Yb5s | skipped after 3 tries | line 720 twice |
-| pNhfS9TvPzA | waiting | 8/11 parts |
-| 4dj5Q3RQlLc | waiting | 12/13 parts |
+| kE4ty09Yb5s | skipped | |
+| pNhfS9TvPzA | waiting | 10/11 parts |
+| 4dj5Q3RQlLc | skipped after 3 tries | 82 lines missing |
