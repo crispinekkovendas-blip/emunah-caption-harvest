@@ -1,7 +1,7 @@
 # lane5-016
 
-7 of 9 lessons published · 1 skipped · status **pending**
-Tokens (153 agent runs with a record): 1.2M in (mostly cache) · 1.62M out · API-equivalent 20.29
+7 of 9 lessons published · 2 skipped · status **done**
+Tokens (160 agent runs with a record): 1.2M in (mostly cache) · 1.67M out · API-equivalent 20.91
 
 | lesson | state | detail |
 |---|---|---|
@@ -11,6 +11,6 @@ Tokens (153 agent runs with a record): 1.2M in (mostly cache) · 1.62M out · AP
 | aJL8BNw_8Mk | ✓ published | 957 lines · Chayei Sarah: o Elogio de Sará, o Shidduch e Rav Pethaya |
 | VbhM08Usmc4 | ✓ published | 776 lines · As cantigas de Beshalach, o mar e o cuidado com o próximo |
 | lDY4zj1yl68 | ✓ published | 703 lines · Vayêshev: as provações de Yaakov e o perigo da raiva |
-| UtQGs_NBBkA | waiting | 6/7 parts |
+| UtQGs_NBBkA | skipped after 3 tries | 2 lines missing |
 | YyWNrhtmkwA | ✓ published | 758 lines · O poder do nome: como escolher e quando evitar um nome |
-| RpIU6tslFF8 | skipped after 3 tries | 4 lines missing |
+| RpIU6tslFF8 | skipped | |
