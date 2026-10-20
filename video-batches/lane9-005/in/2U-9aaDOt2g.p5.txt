@@ -1,0 +1,97 @@
+videoId: 2U-9aaDOt2g
+parte 6 de 6 · traduzir as linhas 600 a 672 (73 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayechi: o medo de Yaakov e o segredo do Keitz
+RESUMO: O rabino começa pelo pedido de Yaakov a Yosef, "não me enterres no Egito", e pelo comentário de Rashi de que a terra se tornaria piolhos. Ele questiona por que um tsadik temeria isso e responde que o temor era dos feitiços dos egípcios e, segundo a Guemará (Berachot), do pecado que poderia ter causado a perda da proteção. Em seguida explica por que Yaakov enterrou Rachel no caminho de Efrat (para que ela interceda pelos filhos no exílio, com o Zohar e Jeremias 31), por que exigiu um juramento (a Guemará conta que Yosef anulou o juramento de Faraó sobre o hebraico) e a bênção a Efraim e Menashe, com a leitura de Rashi sobre a Presença Divina que se retirou. Mostra que "ver o teu rosto não esperava" fala da pureza de Yosef diante da esposa de Potifar, e que "Mi" e "Eleh" juntos formam Elokim. Apresenta o comentário de Rabi Shimshon de Ostropoli sobre "pediu para revelar o fim" por meio da guemátria 21 vezes 9. Termina com "Banot Tzaadá" e a voz silenciosa das moças egípcias, além do anúncio do novo livro de responsa.
+MOMENTOS: 00:02 Pedido de Yaakov: não me enterres no Egito · 00:47 Rashi: a terra seria piolhos; qual era o medo? · 02:58 O temor eram os feitiços dos egípcios · 05:01 Yaakov temia que o pecado tivesse causado · 10:47 Maarat HaMachpelá e o sepultamento de Rachel · 12:53 Rabi Moshe Montefiore e o recinto do túmulo de Rachel · 16:42 Por que Yaakov enterrou Rachel no caminho · 18:16 Por que Yosef precisou jurar · 20:46 Faraó, a anulação de votos e o hebraico · 25:50 Rashi: Potifar e "ver o teu rosto" · 30:12 Mi e Eleh: Efraim e Menashe · 32:06 Rabi Shimshon de Ostropoli: o Keitz · 38:15 Banot Tzaadá e o muro da prisão
+FONTES CITADAS: 00:02 Bereshit 47:29-30 · 00:13 Rashi em Bereshit 47:29 · 02:12 Tehilim 91:7 · 04:54 Bereshit 32:8 · 05:01 Bereshit 28:15 · 05:05 Berachot 4a · 05:42 Shut Marcavot Argaman, parte 2 · 06:13 Shulchan Arukh, Orach Chaim 34:2 · 06:13 Menachot 34b · 10:47 Zohar, Vayechi · 10:52 Yeshayahu 60:21 · 10:57 Chagigá 12a · 11:15 Sotá 13a · 13:00 Bereshit 35:20 · 16:52 Bereshit Rabá 82:10 · 17:04 Yirmiyahu 31:14 · 17:26 Eichá 1:1 · 17:38 Berachot 3a · 18:16 Bereshit 47:30-31 · 20:46 Sotá 36b · 22:19 Tehilim 81:6 · 25:16 Bereshit 48:1-2 · 25:33 Bereshit 48:3-4 · 25:45 Bereshit 48:11 · 25:50 Rashi em Bereshit 48:8 · 26:39 Shabat 151b · 27:15 Kidushin 49b · 27:26 Bereshit 42:9 · 28:10 Sotá 36b · 28:15 Sotá 36b · 28:43 Bereshit 39:12 · 29:28 Berachot 5b · 30:00 Bereshit 48:8-9 · 30:12 Rashi em Bereshit 48:8 · 31:07 Shemot 32:4 · 31:35 Tehilim 126:2 · 31:46 Bamidbar 16:30 · 31:55 Bênção Shehakol · 32:00 Rashi em Bereshit 49:1 · 32:42 Sanhedrin 97b · 33:09 Yirmiyahu 8:20 · 34:46 Bereshit Rabá 98:3 · 34:56 Shemá · 37:26 Shemot 3:4 · 38:15 Bereshit 49:22 · 41:22 Makot 23b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|36:47|למה אני רואה שהסתלקה ממני שכינה?
+589|36:50|אני לא יודע שהשכינה הסתלקה, אתם אולי עשיתם איזו עבירה?
+590|36:53|אמרו לו, לא אבא, שמע ישראל ה' אלוקינו ה' אחד, צירפנו גם את
+591|36:59|השם לתוך המכירה.
+592|37:00|ולכן הוא ביקש לגלות את הקץ.
+593|37:02|הסתלקה ממנו שכינה, שאל, אולי יש לכם פסול?
+594|37:05|אמרו לו, לא, גם השכינה צירפנו אותה לתוך המכירה.
+595|37:09|וזה ביקש לגלות את הקץ.
+596|37:10|משה רבנו, עליו השלום ידע שהיו עשרה וצירפו את השכינה אבל הוא היה בטוח
+597|37:16|שהם פגמו בשם אביה ולא בשם אקיה ולכן משה מכפיל
+598|37:21|עשרים ושש כפול עשר כמה יצא?
+599|37:26|מאתיים שישים גימטריה שר וזה שכתוב במעמד הסנא וירא כי שר לראות מה זה שר
+
+LINHAS A TRADUZIR:
+600|37:32|לראות?
+601|37:33|רצה לראות מתי הגאולה תהיה משה רבנו אז הקדוש ברוך הוא אמר לו משה
+602|37:38|משה אז קהולה לא רחוקה כמו שאתה חושב זה לא 26 כפול 10
+603|37:44|זה 21 כפול 10 אמר לו איזה 21 אמר לו אהיה
+604|37:49|שלחניה עליך יש שם אהיה אתה לא מכיר אותו והשם הזה הוא נפגם לא שם הוויה
+605|37:55|וזה מה שביאר רבי שמשון מאוסטרופולי בכל המהלך הזה וזה מדהים איך הכל
+606|38:01|מסתדר איך הכל ממש גוואלדה אגדנק מתוקים וסוכריות תקנה את
+607|38:07|הספר בסוף הדרשה, בכוח אתה פרסי עד הסוף, אה?
+608|38:12|בטח.
+609|38:13|אחר כך מה כתוב שם?
+610|38:15|בנות צעדה על אשור.
+611|38:18|בנות צועדות על אשור.
+612|38:19|אשור זה חומה.
+613|38:20|מה זה בנות צעדה?
+614|38:22|בנות צועדות.
+615|38:23|או בת צעדה או בנות צועדות.
+616|38:26|הלשון מקולקל לכאורה.
+617|38:27|מה זה, החוק התחבירי לא מתיישב פה.
+618|38:30|בנות צעדה, אלא המצרים היו ערבים פרצוף קוף.
+619|38:35|עכשיו ערבי, מה תעשה איתו?
+620|38:38|אם רוח, אדם יפה תואר כמו יוסף, מסוכס, יפה, גדול, שכינה
+621|38:43|עליו, כולם היו רוצים, אפילו פוטיפר קנה אותו בשביל עצמו.
+622|38:47|היה יפה, יוסף הצדיק.
+623|38:49|אז היו הבנות של מצרים, אמרו, ראיתם את העבד היהודי בכלא?
+624|38:54|אמרו, לא, לא ראו, בואו תראו, לא ראיתם יופי כזה בחיים שלכם?
+625|38:57|לכו תראו.
+626|38:58|עכשיו מה היו עושים?
+627|38:59|היו מעמידים שומרים הערבים, המצרים, שהבנות לא יעלו ויראו את יוסף.
+628|39:04|למה?
+629|39:04|אחרי זה רואים דבר כזה, מה ייקח דבר כזה?
+630|39:08|מה?
+631|39:10|ראית בית ממלכה, אתה תלך, תיקח לך איזה חדר במעלות דפנה, שתי חדרים, ברבע.
+632|39:15|יש וילה, פרצת ימה וקדמה, אחרי שראית משהו משובח, קשה מאוד לרדת, קשה
+633|39:21|מאוד.
+634|39:22|אז העמידו שומרים הערבים המצרים שלא יעלו על החומה.
+635|39:25|עכשיו, ראיתם פעם קבוצה של בנות ביחד?
+636|39:29|וואלה, איסתר, איזה רעש.
+637|39:31|לא ישבתם פעם באוטובוס?
+638|39:33|כמעט אתה רוצה לעלות על הגג של האוטובוס.
+639|39:35|איזה רעש!
+640|39:36|קשקשות וטאפקה -פקה וטקה -טקה ואווווווווווווו אז מה היו עושות הבנות?
+641|39:41|היו כולם אומרות אחת לשנייה צ 'חלה, חלווה, אה, פתימה, אה, תהיו בשקט עכשיו,
+642|39:47|עולים עכשיו לחומה.
+643|39:49|בואו, עולים, שקט.
+644|39:51|ואז הן היו עולות בשקט מופתי לחומה כאילו הייתה שם רק בת אחת.
+645|39:56|ולכן כתוב בנות צעדה, לא צועדות, צעדה, כמו הייתה אחת צועדת כדי
+646|40:02|לעלות לחומה, לכן כתוב בנות צעדה ולא צועדות על אישור על החומה שמה שהיא
+647|40:07|החומה הזאת הידועה של הכלא.
+648|40:11|זה אמרת בנות צעדה.
+649|40:13|אה?
+650|40:13|פירוי שפה מאוד.
+651|40:14|פירוי שפה מאוד.
+652|40:15|מה, שומר לא שמע אותם?
+653|40:17|לא שמע אותם השומר.
+654|40:18|מה לעשות?
+655|40:19|ואז ראו את היופי של מצרים ולא התחתנו ברוך השם.
+656|40:22|מה רוצה שהתחתנו?
+657|40:23|היה לנו עוד מצרים בעולם?
+658|40:25|יש לנו מספיק.
+659|40:26|רבותיי יום שמחה גדול שלי היום הזה שסוף סוף יצא שוט מרכבות ארגמן חלק A שעבדתי עליו ימים
+660|40:32|ולילות והשקעתי הרבה מאוד מהזמן וחלק מהסוגיות גם קצת הזכרנו אותם פה ולכן כולכם שותפים
+661|40:38|איתי ביחד בשו״ת הזה אז מי שירצה את הספרים נמצא בחוץ אצל אהרון שו״ת חלק
+662|40:44|A חלק ב' נגמר לגמרי הוצאתי את הכל מחדש מהדורת עניינה הרבה יותר
+663|40:50|מבוארת הרבה יותר מוספת הוספתי הורדתי פלפלתי הוספתי בשקלא
+664|40:55|וטריא ולכן פנים חדשות באו לכאן אז יצא גם שו״ת חלק ב' החדש מהדורת עיניה.
+665|41:01|אז מי שרוצה שוט חלק A, שוט חלק ב', כל הספרים נמצאים בחוץ.
+666|41:04|גם על דיסקים החדשים, שבוע שעבר יצא דיסק חדש, תורה 16.
+667|41:08|מי שירצה נמצא בחוץ הכל, במחיר הקרן, לזיכוי רבים, 17, 18
+668|41:14|כבר.
+669|41:15|ייתן לכם שפע ונחת, תהנו מהתורות האלה.
+670|41:18|ייתן לכם יישוב הדעת ושמחת חיים וגזירות טובות, ישועות ונחמות.
+671|41:22|רבי חנינא מן הקשר אומר הצד קדוש ברוך הוא לצדקו ולצדקו ולצדקו יגדיל תורה
+672|41:27|ויהאדיר
