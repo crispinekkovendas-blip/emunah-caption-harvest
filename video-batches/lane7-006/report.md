@@ -1,7 +1,7 @@
 # lane7-006
 
 5 of 8 lessons published · 1 skipped · status **pending**
-Tokens (140 agent runs with a record): 1.2M in (mostly cache) · 1.45M out · API-equivalent 18.55
+Tokens (142 agent runs with a record): 1.2M in (mostly cache) · 1.47M out · API-equivalent 18.73
 
 | lesson | state | detail |
 |---|---|---|
