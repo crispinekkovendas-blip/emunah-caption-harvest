@@ -18,5 +18,10 @@
   "d5huPfZHrCo.p2",
   "d5huPfZHrCo.p3",
   "d5huPfZHrCo.p4"
- ]
+ ],
+ "tries": {
+  "d5huPfZHrCo": 1
+ },
+ "done": [],
+ "skipped": []
 }
