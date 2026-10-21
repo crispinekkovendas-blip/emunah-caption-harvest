@@ -161,8 +161,8 @@
   "v1CV2YJBZIw": 3,
   "eaB37dEhxKY": 1,
   "WoAbuC9dTxU": 1,
-  "jCYyOjsYTfc": 2,
-  "8hwOnWomSk0": 1
+  "jCYyOjsYTfc": 3,
+  "8hwOnWomSk0": 2
  },
  "done": [
   "XuGKr0Hd9Ro",
@@ -175,6 +175,7 @@
  "skipped": [
   "cAwEm5p_PIc",
   "AuZXEyBmVuc",
-  "v1CV2YJBZIw"
+  "v1CV2YJBZIw",
+  "jCYyOjsYTfc"
  ]
 }
