@@ -1,11 +1,11 @@
 # lane3-014
 
-9 of 12 lessons published · 2 skipped · status **pending**
-Tokens (150 agent runs with a record): 1.2M in (mostly cache) · 1.49M out · API-equivalent 18.47
+10 of 12 lessons published · 2 skipped · status **done**
+Tokens (152 agent runs with a record): 1.2M in (mostly cache) · 1.51M out · API-equivalent 18.67
 
 | lesson | state | detail |
 |---|---|---|
-| o7G7_0o7bj8 | waiting | 5/6 parts |
+| o7G7_0o7bj8 | ✓ published | 703 lines · Vayigash: por que os irmãos não ficaram sem resposta |
 | fkH8ASoXfBk | ✓ published | 548 lines · Parashá Bo: o Erev Rav que subiu do Egito |
 | ZrA7__RaiXE | ✓ published | 698 lines · Kórach, a morte incomum e o ajuste de contas final |
 | ignYKz928AQ | ✓ published | 706 lines · Parashat Beshalach: quem realmente libertou Israel |
