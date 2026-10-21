@@ -210,13 +210,24 @@ def skel(w):
     return w
 
 
+# words every lesson and every daf has — a pair of two of them proves nothing ("הקדוש ברוך הוא",
+# "אמר רבי", "של זה"…); skeletons, as skel() makes them (first run, 2026-10-21: score-3 Talmud runs were
+# mostly "הקדוש ברוך הוא")
+COMMON = {skel(w) for w in (
+    'הקדוש ברוך הוא אמר אמרו רבי רב רבן של את על זה זו לא כל אם אבל מה מי כי גם או אין יש היה הם הן אני אתה '
+    'אנחנו לו לה להם בו בה עם אל כן כך אז עוד רק כמו שם עד אחד אחת שני דבר אומר אומרת ואמר תני תנא אמר '
+    'דאמר מאי היכי הכא התם איכא ליכא דהא והא ולא וכל שהוא שהיא אותו אותה הזה הזאת שלו שלה ישראל ה'
+).split()}
+
+
 def find(cues, t, text):
     """the best run of quoted words near t → (score, [(cue, w0, w1)…]) or None"""
     src = [skel(w) for w in text.split()]
     src = [w for w in src if w]
-    pairs = set(zip(src, src[1:]))
+    pairs = {p for p in zip(src, src[1:]) if not (p[0] in COMMON and p[1] in COMMON)}
     if len(pairs) < 2:
         return None
+    need = 3 if len(src) <= 60 else 4  # a whole daf or chapter: more words to be sure
     words = []  # (cue, index in cue, skeleton)
     for ci, c in enumerate(cues):
         if c[0] < t - 40 or c[0] > t + 120:
@@ -244,7 +255,7 @@ def find(cues, t, text):
             else:
                 gap += 1
             j += 1
-        if n >= 3:
+        if n >= need:
             start_t = cues[words[i][0]][0]
             key = (n, -abs(start_t - t))
             if not best or key > best[0]:
