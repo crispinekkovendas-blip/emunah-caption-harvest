@@ -1,17 +1,17 @@
 # lane4-015
 
 11 of 18 lessons published · 6 skipped · status **pending**
-Tokens (247 agent runs with a record): 2.0M in (mostly cache) · 2.39M out · API-equivalent 30.62
+Tokens (267 agent runs with a record): 2.2M in (mostly cache) · 2.60M out · API-equivalent 33.04
 
 | lesson | state | detail |
 |---|---|---|
 | svP4cygkCCQ | ✓ published | 766 lines · Yaakov foge: o yetzer hara e a pedra do poço |
-| CEloJsU6eAk | skipped after 3 tries | line 595 twice |
+| CEloJsU6eAk | skipped | |
 | kzntZefs5ys | skipped | |
-| pYUie5ltuf0 | ✗ will be redone (try 2) | 7 lines missing |
+| pYUie5ltuf0 | waiting | 6/7 parts |
 | tq6kBbckLd8 | ✓ published | 709 lines · Matan Torá: o Sinai, os dois Guehinam e Yitro |
 | g3NYTQrI33M | ✓ published | 591 lines · Bechukotai: perseguido, medo e Torá com ação |
-| QDE7D7qE0mE | skipped after 3 tries | 1 lines missing |
+| QDE7D7qE0mE | skipped | |
 | CzoAXsHBIs4 | ✓ published | 665 lines · Parashá Bo: a teimosia na santidade e a vida após a morte |
 | jv6bYM-X7GM | skipped | |
 | B-lXpu3_bcU | ✓ published | 630 lines · Vayosef hayá beMitsrayim: Yossef presente no Egito |
