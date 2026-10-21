@@ -1,0 +1,41 @@
+{
+ "name": "lane4-016",
+ "lane": 4,
+ "created": "2026-10-21T03:11:32.441Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "8VPhFvtXMxQ",
+   "title": "Onde está Maran HaRav Ovadia? Os que moldaram a Torá",
+   "lines": 885,
+   "parts": 8,
+   "from": "mais fontes"
+  },
+  {
+   "id": "FWCuPqWYkBM",
+   "title": "Onde está o túmulo de David? O túnel de Chizkiyáhu",
+   "lines": 963,
+   "parts": 9,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "8VPhFvtXMxQ.p0",
+  "8VPhFvtXMxQ.p1",
+  "8VPhFvtXMxQ.p2",
+  "8VPhFvtXMxQ.p3",
+  "8VPhFvtXMxQ.p4",
+  "8VPhFvtXMxQ.p5",
+  "8VPhFvtXMxQ.p6",
+  "8VPhFvtXMxQ.p7",
+  "FWCuPqWYkBM.p0",
+  "FWCuPqWYkBM.p1",
+  "FWCuPqWYkBM.p2",
+  "FWCuPqWYkBM.p3",
+  "FWCuPqWYkBM.p4",
+  "FWCuPqWYkBM.p5",
+  "FWCuPqWYkBM.p6",
+  "FWCuPqWYkBM.p7",
+  "FWCuPqWYkBM.p8"
+ ]
+}
