@@ -1,0 +1,114 @@
+600	Gather the meat!	Juntem a carne!
+601	Put it on the grill already, on the fire!	Já a coloquem na churrasqueira, no fogo!
+602	They went to put it in their mouths, "before it was cut",	Foram pôr na boca, "antes de ser cortada",
+603	before they bit with their teeth, "and the anger of HaShem burned against the people."	antes de morderem com os dentes, "e a ira de HaShem se acendeu contra o povo".
+604	Tak, they died.	Pá, morreram.
+605	He didn't even get to enjoy the bite.	Nem chegou a aproveitar a mordida.
+606	"Before it was cut, and the anger of HaShem burned against the people."	"Antes de ser cortada, e a ira de HaShem se acendeu contra o povo."
+607	Tak, one dies, the second dies, the third dies.	Pá, um morre, o segundo morre, o terceiro morre.
+608	Everyone who cried over meat died in the end.	Todo aquele que chorou por carne morreu no fim.
+609	So you see, whoever whines about things that aren't for his survival...	Então veja: quem choraminga por coisas que não são para a sua sobrevivência...
+610	Why didn't He kill them when they cried over water?	Por que Ele não os matou quando choraram por água?
+611	Why didn't He kill them when they cried over bread?	Por que Ele não os matou quando choraram por pão?
+612	That is a need for survival.	Isso é necessidade de sobrevivência.
+613	But over meat you cry, somehow, what?	Mas por carne você chora, como assim?
+614	Over meat you cry?	Por carne você chora?
+615	What, over your stomach?	O quê, pelo seu estômago?
+616	Over your pleasures?	Pelos seus prazeres?
+617	Over that, HaShem's anger burned against the people.	Por isso a ira de HaShem se acendeu contra o povo.
+619	and its officers, and bring them to the Tent of Meeting, and let them stand there with you."	e seus oficiais, e leva-os à Tenda da Reunião, e que se apresentem ali contigo."
+620	Moshe says: Enough, Master of the Universe, I can't.	Moshe diz: Chega, Soberano do Universo, eu não consigo.
+621	Bring me some help.	Dá-me alguma ajuda.
+622	What?	O quê?
+623	Every rabbi has assistants under him, he has gabbaim, he has...	Todo rabino tem ajudantes sob ele, tem gabaim, tem...
+624	I can't, I can't, I'm no longer able.	Não consigo, não consigo, já não aguento.
+625	They drive you out of your mind.	Eles enlouquecem a gente.
+626	You bring them meat, they want fish; you bring them the water, they want the manna; you bring them this, they	Trazes-lhes carne, querem peixe; trazes-lhes a água, querem o maná; trazes-lhes isto, eles
+627	say that.	dizem aquilo.
+628	They are not calm.	Não sossegam.
+629	They are not calm!	Não sossegam!
+630	What shall I do?	O que vou fazer?
+631	You are able!	Tu és capaz!
+632	Give me helpers!	Dá-me ajudantes!
+633	Or kill me!	Ou então me mata!
+634	HaShem said: No, no, you will live, with HaShem's help, to a hundred and twenty. I will give you helpers.	HaShem disse: Não, não, você viverá, com a ajuda de HaShem, até os cento e vinte. Eu lhe darei ajudantes.
+635	Gather for Me seventy of the elders of Israel, "whom you know to be the elders of the people and its officers,"	Reúna para Mim setenta dos anciãos de Israel, "que sabes serem os anciãos do povo e seus oficiais",
+636	men who have stature, "and bring them to the Tent of Meeting, and let them stand there with you,"	homens de peso, "e leva-os à Tenda da Reunião, e que se apresentem ali contigo,"
+637	"and I will take of the spirit that is upon you and place it upon these seventy, and they will be prophets,"	"e tomarei do espírito que está sobre ti e o porei sobre estes setenta, e serão profetas,"
+638	minor ones, and you a great prophet, and they will be your helpers, seventy men.	menores, e tu um grande profeta, e eles serão os seus ajudantes, setenta homens.
+639	Now Moshe Rabbeinu was charged with choosing seventy men. Moshe said: Good, I need	Agora Moshe Rabeinu recebeu a tarefa de escolher setenta homens. Moshe disse: Bem, eu preciso de
+640	seventy. How many tribes are there?	setenta. Quantas tribos existem?
+641	Twelve. If I take six from each tribe, how many do I have?	Doze. Se eu tomar seis de cada tribo, quantos tenho?
+642	Seventy-two. Seventy-two is not good. If I take five from each tribe, how many do I have?	Setenta e dois. Setenta e dois não serve. Se eu tomar cinco de cada tribo, quantos tenho?
+643	Five from each tribe, five times twelve.	Cinco de cada tribo, cinco vezes doze.
+644	How many?	Quantos?
+645	Sixty.	Sessenta.
+646	Not enough.	Não é suficiente.
+647	So what shall I do?	Então o que vou fazer?
+648	How do I take exactly seventy?	Como pego exatamente setenta?
+649	Slips of paper.	Papeizinhos.
+650	So what shall I do?	Então o que vou fazer?
+651	He took from each tribe...	Tomou de cada tribo...
+652	So he ended up with seventy-two.	Ficou, então, com setenta e dois.
+653	And he took sacks.	E pegou sacos.
+654	In one sack he wrote "elder": seventy slips that say "elder", and two blank slips.	Num saco escreveu "ancião": setenta papeizinhos escritos "ancião", e dois papeizinhos em branco.
+655	And in one sack he wrote their seventy-two names.	E noutro saco escreveu os seus setenta e dois nomes.
+656	And Miriam was there.	E Miriam estava ali.
+657	Tak, tak: whoever's name came up together with "elder", come on, go to the Tent of Meeting.	Pá, pá: aquele cujo nome saísse junto com "ancião", vamos, vá para a Tenda da Reunião.
+658	Tak, "elder", go to the Tent of Meeting.	Pá, "ancião", vá para a Tenda da Reunião.
+659	And so it went: whoever's name came up with the blank slip, sorry, you didn't get the appointment,	E assim foi: aquele cujo nome saísse com o papel em branco, desculpe, você não recebeu a nomeação,
+660	go back to your tent.	volte para a sua tenda.
+661	That is how it was.	Assim foi.
+662	There were two tzaddikim there, Eldad and Medad, who said: What do we need this greatness for?	Havia ali dois tsadikim, Eldad e Medad, que disseram: Para que precisamos dessa grandeza?
+664	its owner. Poor is the one who chases honor; it is a disease, a poor wretch.	o seu dono. Coitado de quem corre atrás de honra; é uma doença, coitado.
+665	Whoever chases honor, and power, and positions, it is a disease, it is a klipah.	Quem corre atrás de honra, de poder e de cargos, isso é uma doença, é uma klipá.
+667	honor he dies, what...	honra ele morre, que...
+669	the honor they give him or from people kissing his hands. Poor man, poor man.	quem lhe presta honra ou lhe beija as mãos. Coitado, coitado.
+671	the one who seeks this.	de quem procura isso.
+672	Eldad and Medad: what do we need this for?	Eldad e Medad: para que precisamos disso?
+673	Huh?	Hein?
+674	Who needs this thing?	Quem precisa disso?
+675	Eldad and Medad said: Come with me, Eldad, let's go back to our room to study Bava Batra, come.	Eldad e Medad disseram: Venha comigo, Eldad, vamos voltar ao nosso quarto para estudar Bava Batra, vamos.
+676	Eldad and Medad went.	Eldad e Medad foram.
+677	And they went to the camp.	E foram para o acampamento.
+678	And when Moshe Rabbeinu took out their slip, on the slip of one of them was written "elder",	E quando Moshe Rabeinu tirou o papel deles, no papel de um deles estava escrito "ancião",
+679	"elder".	"ancião".
+680	Ah, that's what is written.	Ah, é isso que está escrito.
+681	Eldad and Medad remained in the camp, "and they were among those written."	Eldad e Medad ficaram no acampamento, "e eles estavam entre os inscritos".
+682	What is "among those written"?	O que é "entre os inscritos"?
+683	On their slips was written "elder".	Nos papéis deles estava escrito "ancião".
+684	They were supposed to enter among the seventy.	Eles deveriam entrar entre os setenta.
+685	So that is what is written: "and they were among those written."	Então é isso que está escrito: "e eles estavam entre os inscritos".
+686	See how the Gemara in Eruvin 13 was fulfilled in them: whoever flees from honor, honor pursues him.	Veja como se cumpriu neles a Guemará em Eruvin 13: quem foge da honra, a honra o persegue.
+687	And whoever chases honor, honor flees from him.	E quem corre atrás da honra, a honra foge dele.
+688	The Zohar, Behaalotcha 155b, writes that they prophesied that Moshe would die	O Zohar, Behaalotcha 155b, escreve que eles profetizaram que Moshe morreria
+689	and Yehoshua would bring in	e Yehoshua introduziria
+690	the people of Israel to the Land of Israel.	o povo de Israel na Terra de Israel.
+691	And the Rema wrote an acronym: "mitnabim" — "Moshe tanuach nafsho be-gai", then	E o Rema escreveu uma sigla: "mitnabim", "Moshe tanuach nafsho be-gai", então
+692	"Yehoshua machnis".	"Yehoshua machnis".
+693	An allusion to the fact that they merited, and Moshe Rabbeinu brought them into the Land of Israel, before	Uma alusão a que eles mereceram, e Moshe Rabeinu os introduziu na Terra de Israel, antes da
+694	the Land of Israel, they prophesied about this very matter, that Yehoshua, his student, would continue his path.	Terra de Israel, eles profetizaram sobre este assunto, que Yehoshua, seu discípulo, continuaria o seu caminho.
+695	And this was a great book for Moshe Rabbeinu.	E isso foi uma grande notícia para Moshe Rabeinu.
+696	A person wants his son to continue his path.	O homem quer que o seu filho continue o seu caminho.
+697	And a person is jealous of everyone except his son and his student.	E o homem tem inveja de todos, exceto do seu filho e do seu discípulo.
+698	But still, a person...	Mas ainda assim, o homem...
+699	You see, the student or the son?	Veja, o discípulo ou o filho?
+700	The son!	O filho!
+701	And Moshe Rabbeinu did not merit that his sons would continue him; he had a son who worshipped idols, in Bava Batra 109	E Moshe Rabeinu não mereceu que seus filhos o continuassem; teve um filho que servia a idolatria, em Bava Batra 109
+702	b, the Gemara says, may HaShem have mercy, Moshe Rabbeinu had a son who worshipped idols, and his sons did not	b, a Guemará diz, que HaShem tenha misericórdia, Moshe Rabeinu teve um filho que servia a idolatria, e os seus filhos não
+703	fill his place.	ocuparam o seu lugar.
+704	Who merited it?	Quem mereceu?
+705	Yehoshua.	Yehoshua.
+706	Yehoshua merited and took the position.	Yehoshua mereceu e assumiu o cargo.
+707	Why?	Por quê?
+708	"The youth did not leave the tent."	"O jovem não se afastava do interior da tenda."
+710	of distinguished lineage, but you persevere in Torah, in the end he will be a great man.	de linhagem distinta, mas perseverando na Torá, no fim será um grande homem.
+711	Tosafot, Ketubot 62: whoever goes to the beit midrash will in the end be a great man.	Tosafot, Ketubot 62: todo aquele que vai à casa de estudo, no fim será um grande homem.
+712	Whoever sits and learns Torah, HaShem makes him succeed.	Quem se senta e estuda Torá, o Santo, Bendito Seja, o faz prosperar.
+713	He sits and learns Torah, his possessions prosper.	Senta-se e estuda Torá, seus bens prosperam.
+714	He sits and learns Torah, his enemies fall.	Senta-se e estuda Torá, seus inimigos caem.
+715	He sits and learns Torah, he brings down the yetzer hara.	Senta-se e estuda Torá, derruba o yetser hará.
+716	Whoever sits and learns Torah never loses.	Quem se senta e estuda Torá nunca perde.
+717	There is no such thing as a person losing from learning Torah with toil, with eagerness, with diligence, with perseverance.	Não existe uma pessoa perder por estudar Torá com esforço, com avidez, com dedicação, com perseverança.
+718	He will see how HaShem arranges his life for him.	Verá como HaShem organiza a sua vida.
+719	He brings him the right wife, good children, all his life, tak tak tak, and most...	Traz-lhe a mulher certa, bons filhos, a vida toda, tac tac tac, e a maior...
