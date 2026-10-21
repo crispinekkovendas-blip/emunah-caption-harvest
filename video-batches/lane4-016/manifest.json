@@ -37,5 +37,10 @@
   "FWCuPqWYkBM.p6",
   "FWCuPqWYkBM.p7",
   "FWCuPqWYkBM.p8"
- ]
+ ],
+ "tries": {
+  "FWCuPqWYkBM": 1
+ },
+ "done": [],
+ "skipped": []
 }
