@@ -1,7 +1,7 @@
 # lane1-010
 
 8 of 16 lessons published · 6 skipped · status **pending**
-Tokens (461 agent runs with a record): 3.5M in (mostly cache) · 3.14M out · API-equivalent 43.09
+Tokens (495 agent runs with a record): 3.7M in (mostly cache) · 3.34M out · API-equivalent 45.91
 
 | lesson | state | detail |
 |---|---|---|
@@ -15,9 +15,9 @@ Tokens (461 agent runs with a record): 3.5M in (mostly cache) · 3.14M out · AP
 | s3563roAZZs | ✓ published | 1151 lines · Lech Lecha: não viva dentro de um filme |
 | -glyjn4lTB4 | skipped | |
 | fnQ3lAZJB5g | skipped | |
-| p0ZV7rOZor4 | skipped after 3 tries | 5 lines missing |
+| p0ZV7rOZor4 | skipped | |
 | r5HfUUM-L3c | ✓ published | 552 lines · Emunáh no luto: Yaakov, Rav Huna e Davi contra Golyat |
-| eOpb1IF2d6I | ✗ will be redone (try 2) | 38 lines missing |
+| eOpb1IF2d6I | waiting | 9/10 parts |
 | V2NOvR1Lz0o | skipped | |
 | L1UROwNzaKQ | skipped | |
-| bLms7yHxLVc | skipped after 3 tries | line 360 twice |
+| bLms7yHxLVc | skipped | |
