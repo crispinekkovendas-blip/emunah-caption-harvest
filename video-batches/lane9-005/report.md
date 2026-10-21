@@ -1,7 +1,7 @@
 # lane9-005
 
-6 of 13 lessons published · 5 skipped · status **pending**
-Tokens (223 agent runs with a record): 1.8M in (mostly cache) · 2.15M out · API-equivalent 27.56
+6 of 13 lessons published · 6 skipped · status **pending**
+Tokens (232 agent runs with a record): 1.9M in (mostly cache) · 2.24M out · API-equivalent 28.65
 
 | lesson | state | detail |
 |---|---|---|
@@ -11,8 +11,8 @@ Tokens (223 agent runs with a record): 1.8M in (mostly cache) · 2.15M out · AP
 | gmOS6SdQs3Y | ✓ published | 720 lines · Vayigash: HaShem eleva os humildes (o tsunami) |
 | ppdKnAZ5P3g | skipped | |
 | pMpF3IXppJ8 | skipped | |
-| bMJNeyya-6k | waiting | 5/6 parts |
-| 5gRYX2y4rS0 | ✗ will be redone (try 2) | 25 lines missing |
+| bMJNeyya-6k | skipped after 3 tries | 21 lines missing |
+| 5gRYX2y4rS0 | waiting | 5/6 parts |
 | 6E15081YHIQ | skipped | |
 | q69t6lT1HcM | skipped | |
 | 2U-9aaDOt2g | ✓ published | 673 lines · Vayechi: o medo de Yaakov e o segredo do Keitz |
