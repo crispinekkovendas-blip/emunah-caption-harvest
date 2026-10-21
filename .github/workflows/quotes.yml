@@ -1,0 +1,32 @@
+# Tag the quotes in the subtitles of Rav Meir Eliyahu's curated lessons, each with its kind (Tanakh,
+# Mishnah, Talmud, Midrash, Zohar, Halachá, commentary, other) — 2026-10-21. scripts/tag_quotes.py.
+#   gh workflow run quotes.yml                      (all 20 lanes)
+#   gh workflow run quotes.yml -f force=true        (tag again over the old ones)
+name: Tag quotes in the subtitles
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Tag again lessons that already have quotes'
+        default: 'false'
+permissions:
+  contents: read
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        lane: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Tag
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python -u scripts/tag_quotes.py --lane ${{ matrix.lane }} --lanes 20 --ids-file data/quote-ids.txt ${{ inputs.force == 'true' && '--force' || '' }}
