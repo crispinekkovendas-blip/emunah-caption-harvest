@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'measure or repair'
-        default: 'repair'
+        description: 'measure (repair is locked in drift.py since 2026-10-21)'
+        default: 'measure'
       ids_file:
         description: 'the lessons'
         default: 'data/quote-ids.txt'

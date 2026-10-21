@@ -264,6 +264,11 @@ def main():
     ap.add_argument('--out', default='out/drift')
     ap.add_argument('--dry', action='store_true')
     a = ap.parse_args()
+    # LOCKED 2026-10-21: two runs damaged aligned subtitles (the name anchors are too noisy — aligned text
+    # measured as drifting, then re-cut wrong); everything was put back from before-drift. measure and
+    # --dry still work; a real repair needs DRIFT_REPAIR_OK=1 and a better detector first.
+    if a.mode == 'repair' and not a.dry and os.environ.get('DRIFT_REPAIR_OK') != '1':
+        sys.exit('repair is locked (see the note at the top of main)')
     ids = [x for x in a.ids.split(',') if x] or [l.strip() for l in open(a.ids_file, encoding='utf8') if l.strip()]
     ids = [v for v in ids if a.ids or lane_of(v, a.lanes) == a.lane - 1]
     os.makedirs(a.out, exist_ok=True)
