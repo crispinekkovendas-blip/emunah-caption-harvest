@@ -1,17 +1,17 @@
 # lane4-015
 
-11 of 18 lessons published · 4 skipped · status **pending**
-Tokens (225 agent runs with a record): 1.8M in (mostly cache) · 2.18M out · API-equivalent 28.11
+11 of 18 lessons published · 6 skipped · status **pending**
+Tokens (247 agent runs with a record): 2.0M in (mostly cache) · 2.39M out · API-equivalent 30.62
 
 | lesson | state | detail |
 |---|---|---|
 | svP4cygkCCQ | ✓ published | 766 lines · Yaakov foge: o yetzer hara e a pedra do poço |
-| CEloJsU6eAk | ✗ will be redone (try 2) | 2 lines missing |
+| CEloJsU6eAk | skipped after 3 tries | line 595 twice |
 | kzntZefs5ys | skipped | |
-| pYUie5ltuf0 | waiting | 6/7 parts |
+| pYUie5ltuf0 | ✗ will be redone (try 2) | 7 lines missing |
 | tq6kBbckLd8 | ✓ published | 709 lines · Matan Torá: o Sinai, os dois Guehinam e Yitro |
 | g3NYTQrI33M | ✓ published | 591 lines · Bechukotai: perseguido, medo e Torá com ação |
-| QDE7D7qE0mE | ✗ will be redone (try 2) | 2 lines missing |
+| QDE7D7qE0mE | skipped after 3 tries | 1 lines missing |
 | CzoAXsHBIs4 | ✓ published | 665 lines · Parashá Bo: a teimosia na santidade e a vida após a morte |
 | jv6bYM-X7GM | skipped | |
 | B-lXpu3_bcU | ✓ published | 630 lines · Vayosef hayá beMitsrayim: Yossef presente no Egito |
@@ -20,6 +20,6 @@ Tokens (225 agent runs with a record): 1.8M in (mostly cache) · 2.18M out · AP
 | d0XZJ4cqrko | ✓ published | 632 lines · Parashá Vaetchanan: Tu BeAv, prece, Torá e o Shemá |
 | LXfecQHEmW8 | ✓ published | 522 lines · Parashat Chukat: o poder da Vaca Vermelha e da pureza |
 | TgH9Oo5_3Jw | ✓ published | 677 lines · Parashá Bô: as três últimas pragas e a riqueza do Egito |
-| Q76ZMb_Loxg | skipped after 3 tries | 119 lines missing |
+| Q76ZMb_Loxg | skipped | |
 | B_1D5aFVnSI | ✓ published | 613 lines · Vaerá: Elokim e HaShem, o sofrimento e o Egito |
 | X1Z--q7kAZg | skipped | |
