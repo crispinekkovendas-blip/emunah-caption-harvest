@@ -2,7 +2,7 @@
  "name": "lane10-006",
  "lane": 10,
  "created": "2026-10-20T23:46:43.909Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "CM-id2qn9Uk",
@@ -20,8 +20,10 @@
   "CM-id2qn9Uk.p4"
  ],
  "tries": {
-  "CM-id2qn9Uk": 2
+  "CM-id2qn9Uk": 3
  },
  "done": [],
- "skipped": []
+ "skipped": [
+  "CM-id2qn9Uk"
+ ]
 }
