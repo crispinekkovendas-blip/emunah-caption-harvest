@@ -249,10 +249,10 @@
   "jv6bYM-X7GM": 3,
   "LXfecQHEmW8": 2,
   "X1Z--q7kAZg": 3,
-  "CEloJsU6eAk": 1,
-  "QDE7D7qE0mE": 1,
+  "CEloJsU6eAk": 2,
+  "QDE7D7qE0mE": 2,
   "d0XZJ4cqrko": 1,
-  "Q76ZMb_Loxg": 2
+  "Q76ZMb_Loxg": 3
  },
  "done": [
   "tq6kBbckLd8",
@@ -264,11 +264,13 @@
   "TgH9Oo5_3Jw",
   "svP4cygkCCQ",
   "d0XZJ4cqrko",
-  "LXfecQHEmW8"
+  "LXfecQHEmW8",
+  "B_1D5aFVnSI"
  ],
  "skipped": [
   "kzntZefs5ys",
   "jv6bYM-X7GM",
-  "X1Z--q7kAZg"
+  "X1Z--q7kAZg",
+  "Q76ZMb_Loxg"
  ]
 }
