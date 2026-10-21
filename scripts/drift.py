@@ -129,8 +129,10 @@ def lags(HS, tr):
                 continue
             a = skel(m.group(0))
             js = [j for j in range(max(0, i - R), min(len(HS), i + R + 1)) if a in HS[j]]
-            if js:
-                j = min(js, key=lambda j: abs(i - j))
+            # only a word said once nearby proves anything: "Rabino" said five times in a row matched the
+            # wrong one and showed aligned lessons 13 lines off (2026-10-21, FmM8o31AzOc)
+            if len(js) == 1:
+                j = js[0]
                 out.append((i, k, i - j, j, HS[j][a]))
     return out
 
@@ -228,6 +230,28 @@ def resplit(tr, he, L, s, e):
     return out
 
 
+def aligned(HS, tr, s, e):
+    """how many anchors of lines s..e sit on their own Hebrew line (±1)"""
+    return sum(1 for i, _, d, _, _ in lags(HS, tr) if s <= i <= e and abs(d) <= 1)
+
+
+def safe(he, old, new, HS, s, e):
+    """a re-cut stretch is kept only if no Hebrew line lost its translation, no line swelled, and more
+    names now sit on their own line (2026-10-21: the first run trusted the drift score alone and emptied
+    lines 392–403 of nEeDpt7qtTI — all 78 repairs were put back)"""
+    ratio = sum(len(x) for x in old) / max(1, sum(len(x) for x in he))
+    for j in range(s, e + 1):
+        hw = len(he[j].split())
+        if hw >= 3 and not new[j].strip():
+            return False, f'line {j} emptied'
+        if len(new[j]) > 3 * ratio * len(he[j]) + 50:
+            return False, f'line {j} swelled'
+    before, after = aligned(HS, old, s, e), aligned(HS, new, s, e)
+    if after <= before:
+        return False, f'names on their line {before} → {after}'
+    return True, ''
+
+
 # ── main ─────────────────────────────────────────────────────────────────────────────────────────
 def main():
     ap = argparse.ArgumentParser()
@@ -261,13 +285,21 @@ def main():
                 r, L = report(vid, lang, HS, tr)
                 if a.mode == 'repair' and r['stretches']:
                     new = list(tr)
+                    took = []
                     for s, e in r['stretches']:
                         got = resplit(new, he, L, s, e)
-                        if got:
-                            new[s:e + 1] = got
+                        if not got:
+                            continue
+                        cand = new[:s] + got + new[e + 1:]
+                        ok, why = safe(he, tr, cand, HS, s, e)
+                        if ok:
+                            new = cand
+                            took.append([s, e])
+                        else:
+                            r.setdefault('refused', []).append([s, e, why])
                     r2, _ = report(vid, lang, HS, new)
-                    better = r2['worst'] < r['worst'] or (r2['worst'] == r['worst'] and len(r2['stretches']) < len(r['stretches']))
-                    r['after'] = {'worst': r2['worst'], 'stretches': r2['stretches'], 'applied': better and not a.dry}
+                    better = bool(took)
+                    r['after'] = {'worst': r2['worst'], 'stretches': r2['stretches'], 'took': took, 'applied': better and not a.dry}
                     if better and not a.dry:
                         if not kv_get(f'videos/transcript/{vid}/{lang}/before-drift'):
                             kv_put(f'videos/transcript/{vid}/{lang}/before-drift', tdoc)
