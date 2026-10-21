@@ -2,7 +2,7 @@
  "name": "lane6-004",
  "lane": 6,
  "created": "2026-10-15T10:36:51.180Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "gCQmxXrwF0k",
@@ -250,7 +250,7 @@
   "gCQmxXrwF0k": 2,
   "LAQOtuzLU2o": 2,
   "uqTzb2Xk2jI": 1,
-  "xaUcs4KHQr4": 2
+  "xaUcs4KHQr4": 3
  },
  "done": [
   "23A3w7tZrTY",
@@ -266,6 +266,7 @@
   "7x6ODHIQA18"
  ],
  "skipped": [
-  "guohen2mcaY"
+  "guohen2mcaY",
+  "xaUcs4KHQr4"
  ]
 }
