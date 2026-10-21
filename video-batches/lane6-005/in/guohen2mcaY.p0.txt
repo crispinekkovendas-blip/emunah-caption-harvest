@@ -1,0 +1,130 @@
+videoId: guohen2mcaY
+parte 1 de 11 · traduzir as linhas 0 a 119 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Or HaChaim: Balak, Bilam e a morte de Kozbi
+RESUMO: Na hilulá do Or HaChaim HaKadosh (15 de Tamuz), o Rav Shaked Bohadana apresenta a grandeza do Rabenu Chaim ben Atar, seu Peri Toar sobre Yoré Deá e o aviso severo da introdução, e traz o testemunho do Rabi Gershon de Kitov. Em seguida estuda o fim da Parashá Balak: Balak ordena quatro coisas a Bilam em "veatá berach lechá el mekomecha" (Bamidbar 24:11-12), Bilam rebate dizendo que Balak enviou mensageiros duas vezes e aceitou suas condições, e o conselho "lechá iatzchá" é lido junto com a Guemará de Guitin 56b-57a sobre Onkelos, Tito e Bilam. Depois aborda a pergunta de por que Tzur aparece em terceiro lugar entre os reis de Midian, com Rashi, e conta a história do Rabi Yitzchak Eizik Charif. A grande pergunta do Or HaChaim é com base em qual lei Pinchas matou Kozbi bat Tzur: ele propõe o din da bestiali (Vaikrá 20:15), ligado à Guemará de Berachot 58a, enquanto o Chatam Sofer e a Torá Temimá a explicam por idolatria. O Rav confronta isso com o Rambam (Issurei Biá 12:10), o Minchat Chinuch e o Maguid Mishné, conclui que o Or HaChaim é igual ao Rambam, com a diferença de que, no ato, "kanaim pogim bo" dispensa testemunhas e Sanhedrin, e fecha com o Midrash Pesikta que reflete o Or HaChaim.
+MOMENTOS: 00:04 Hilulá do Or HaChaim HaKadosh, 15 de Tamuz · 02:40 Peri Toar sobre Yoré Deá em quatro volumes · 05:58 O aviso severo do Or HaChaim na introdução · 08:57 O Baal Shem Tov e o Rabi Gershon de Kitov sobre o Or HaChaim · 12:03 Por que a Torá dividiu a história de Pinchas em duas parashiot · 19:03 Os quatro mandamentos de Balak a Bilam · 27:08 Bilam responde: os dois grupos de mensageiros · 35:00 Lechá iatzchá: o conselho de Bilam · 40:49 Guitin 56b: Onkelos, Tito e Bilam · 47:07 Por que Tzur é o terceiro rei de Midian · 52:53 A pergunta do Or HaChaim: por que Kozbi foi morta · 57:49 O Chatam Sofer e a Torá Temimá: idolatria · 1:03:16 Rambam, Issurei Biá 12:10 e o Minchat Chinuch · 1:11:27 Resposta final e o Midrash Pesikta
+FONTES CITADAS: 06:36 Or HaChaim, introdução ao Peri Toar · 08:57 Carta do Rabi Gershon de Kitov · 10:29 Carta do Rabi Gershon de Kitov · 17:22 Bamidbar 24:10 · 17:41 Or HaChaim em Bamidbar 24:10 · 18:05 Rambam, Hilchot Shabat · 18:34 Bamidbar 24:11-12 · 20:01 Or HaChaim em Bamidbar 24:11 · 24:00 Or HaChaim em Bamidbar 24:11 · 25:11 Bamidbar 24:12-13 · 28:30 Or HaChaim em Bamidbar 24:12 · 31:44 Or HaChaim em Bamidbar 24:14 · 32:35 Zohar III, 194a (Pinchas) · 33:37 Bamidbar 24:14 · 33:50 Bamidbar 24:15-17 · 34:37 Bamidbar 25:1 · 35:02 Rashi em Bamidbar 24:14 · 38:15 Or HaChaim em Bamidbar 24:14 · 38:56 Mashal da raposa e do leão · 40:49 Guitin 56b-57a · 42:07 Eicha 1:5 · 45:07 Or HaChaim em Bamidbar 24:14 · 46:56 Bamidbar 31:8 · 47:32 Bamidbar 25:15 · 47:48 Rashi em Bamidbar 31:8 · 49:46 Rashi em Bamidbar 31:8 · 51:13 Sanhedrin 81b · 52:53 Or HaChaim em Bamidbar 25:8 · 54:26 Vaikrá 20:15 · 55:49 Or HaChaim em Bamidbar 25:8 · 55:53 Yechezkel 23:20 · 56:04 Berachot 58a · 57:49 Chatam Sofer, Torat Moshe, Parashat Pinchas · 59:05 Bamidbar 25:3-4 · 1:00:14 Bamidbar 25:17-18 · 1:01:21 Torá Temimá em Bamidbar 25:8 · 1:03:16 Rambam, Issurei Biá 12:10 · 1:04:10 Bamidbar 31:16-17 · 1:05:51 Minchat Chinuch, mitzvá 35 e 229 · 1:07:39 Or HaChaim em Bamidbar 25:8 · 1:08:36 Igrot Moshe, Even HaEzer 38 · 1:09:35 Maguid Mishné em Issurei Biá 12:10 · 1:12:17 Masechet Semachot, cap. 8 · 1:13:06 Torat Kohanim, Kedoshim · 1:13:18 Pesikta, Parashat Pinchas
+
+LINHAS A TRADUZIR:
+0|00:04|אנחנו רבותיי היום ברוך השם פרשת פנחס
+1|00:06|והיום זה יום הדהילולה
+2|00:09|של מורנו ורבנו מאור עינינו רבנו חיים בן
+3|00:14|עתר בעל האור החיים הקדוש זכותו יגן עלינו
+4|00:18|>> אמן
+5|00:20|>> רבותיי למפורסמות אין צריך ראיה אנחנו
+6|00:23|יכולים היום לדבר על האור החיים הקדוש ועל
+7|00:28|מסכת חייו המופלאה
+8|00:30|איך הוא למד במסירות נפש, למד ולימד
+9|00:33|והרביץ תורה ברבים וכתב חיבורים יקרים מפס
+10|00:36|ומפנינים
+11|00:38|במסירות נפש גדולה מאוד מתוך רדיפות
+12|00:41|ונידודים בכל מיני מקומות בעולם עד שהגיע
+13|00:45|לירושלים
+14|00:47|עיר הקודש
+15|00:49|אפשר להרבות בכך המון
+16|00:52|ונכתבו באמת ספרים אודות תולדות חייו
+17|00:56|המופלאים של רבנו חיים בן אתר
+18|00:59|זה נקרא הנר המערבי
+19|01:01|ומומלץ מאוד לכל בן אדם יכול ללמוד שמה
+20|01:05|ולראות את הדברים
+21|01:08|אבל אני בחרתי דווקא שנלמד מהתורה של
+22|01:13|הצדיק
+23|01:14|נראה בעזרת השם
+24|01:18|את דבריו הנפלאים
+25|01:21|שברוך השם אף על פי שכל השנה אנחנו זוכים
+26|01:24|תמיד לטבל את דברינו בדברי רבנו חיים בן
+27|01:29|עתר
+28|01:31|אבל היום זה יום הדיולה של אור החיים
+29|01:34|הקדוש עכשיו זה טו בתמוז
+30|01:37|היום שנתבקש בישיבה של מעלה
+31|01:42|אז כאן זה הזמן העיקרי עכשיו להקדיש את כל
+32|01:48|השיעור במשנתו של רבנו חיים בן אתר שזה
+33|01:52|קשור לפרשיות שבוע שלנו שאנחנו עכשיו נמצאים בהם
+34|01:58|>> [כחכוח]
+35|02:01|>> פתור בלוך כלום אי אפשר. אני אגיד לכם אבל
+36|02:04|איזה עובדה יקרה בעניין של אור החיים
+37|02:06|הקדוש. בעקבות סדרת ספרים חדשה שיצאה ברוך
+38|02:10|השם כל שנה
+39|02:13|זוכים להעדיר ספרים של רבנו חיים בן עתר
+40|02:19|שהוא חיבר וברוך השם הרבה גדולי הדורות
+41|02:22|עסקו בהם ובנו עליהם טילי טילים של אבנות
+42|02:27|והלכות
+43|02:28|אז ברוך השם התורה של רבנו חיים מאתר היא
+44|02:30|תמיד פרה ורבה [נחירות בוז]
+45|02:33|שמחתי לראות שהוציאו עכשיו בארבעה חלקים
+46|02:37|את הפרי תואר של אור חיים הקדוש. פרי תואר
+47|02:40|רבותיי זה חיבור על יורי דעה. כן? חיבור
+48|02:43|הלכתי של אור החיים הקדוש שהרי רבנו חיים
+49|02:47|בן אתר הוא היה פוסק גדול ודיין גדול.
+50|02:52|והוציאו את זה עכשיו בארבעה חלקים. ושמחנו
+51|02:54|מאוד מכיוון ש
+52|03:00|הרבה שנים הספרים הללו פרי תואר הם לא
+53|03:05|העדירו אותם.
+54|03:06|אני יש לי את ההוצאות הקודמות הישנות ממש
+55|03:11|בכתב קטן וכולי לא לא כל כך העדירו אותם
+56|03:14|בספרים יקרים מפס ומפנינים כל מי שזכה
+57|03:17|ללמוד יורי דעה הלכות שחיטה הלכות תערובות
+58|03:22|בשר וחלב וכולי
+59|03:25|אז זוכה ללמוד את היורי דעה עם הפרי חדש
+60|03:29|ועם הפרי תואר פרי חדש רבינו חזקיה דסילבה
+61|03:33|שהוא היה גאון הגאונים גם כן כן, אבל לפי
+62|03:38|גודל חריפותו של הפרי חדש, הרבה פעמים הוא
+63|03:40|היה חולק על ראשונים.
+64|03:43|ואור החיים הקדוש חיבר את הספר שלו פרי
+65|03:47|תואר על יורי דעה ובין היתר הוא גם א
+66|03:53|מפריך את ההשגות של הפרי חדש של רבותינו
+67|03:56|הראשונים.
+68|03:57|וזוכה רבנו חיים בן אתר להעמיד את התורתן,
+69|04:00|תורתן של ראשונים כמלאכים,
+70|04:03|להראות איך דבריהם מדויקים.
+71|04:06|עכשיו יש סיבה למה הספרים הללו לא כל כך
+72|04:11|העדירו אותם עד כה
+73|04:14|מכיוון ש
+74|04:16|האור החיים הקדוש מזהיר באזהרה חמורה
+75|04:19|בהקדמה שלו לפרי תואר שמי שלא רגיל בלימוד
+76|04:24|עיוני עמוק שלא ילמד בספר שלו ככה הוא
+77|04:29|כותב אומר יבוא להשיג על דבריי והוא לא
+78|04:32|הבין אפילו מה שאני מתכוון
+79|04:35|ולכן
+80|04:37|הוציאו שנה שעברה את הפרי תואר גם בהוצאה
+81|04:42|יפה, אבל פה עכשיו זה עם ההוצאה של עוז
+82|04:45|והדר.
+83|04:47|אבל
+84|04:50|שאל אותי אחד האברכים, זה לא בדרך כלל כמו
+85|04:53|שהם עושים. בדרך כלל עוז והדר שיהיו
+86|04:56|בריאים שהם באמת ממלכת התורה הם זוכים
+87|05:00|בדרך כלל לפתוח את הדברים ולבאר את הדברים
+88|05:04|ממש אף לב אלה כל ספר שעוסקים
+89|05:08|בו אז פותחים ומבערים ומקשים פה הוא אומר
+90|05:12|לי לא יש רק ציונים של מראה מקומות וכל
+91|05:15|מיני מקומות שאל אותי למה אמרתי לו אני
+92|05:19|יודע למה ואני גם אראה לך למה וברוך השם
+93|05:23|כאשר דמיתי כן ראיתי הם כותבים בהקדמה שהם
+94|05:27|פשוט פחדו
+95|05:30|לדון בדבריו של אור החיים הקדוש
+96|05:33|בין לימין בין להשמיל בשביל לא להילקד חס
+97|05:38|וחלילה בקפדה שלו ממש פחדו אנחנו מכירים
+98|05:42|את מקומנו מי אנחנו הקטנים הנסים מול הענק
+99|05:45|שבענקים שנבוא עכשיו לפתוח ולבאר דבריו
+100|05:49|ולהמין ולהשמיל כי באמת דבריו מאוד עמוקים
+101|05:53|אני רוצה להראות לכם את הלשון שלו לשון
+102|05:56|מפחידה
+103|05:58|אומר אור החיים הקדוש
+104|06:01|בהקדמה לספר שלו
+105|06:05|והיו דברי אלה מול כל קורא
+106|06:09|שאם לפקח בדבריו זאת אומרת הוא בא לפקח
+107|06:13|עכשיו בדבריי
+108|06:15|ואין צריך לומר לקנטרני
+109|06:20|נגידים אדבר אני דיבר זה דברים דברים קשים
+110|06:23|דבר לאמיתו בעקיצת ולחישת ונחישת נחש
+111|06:29|ועוסר אני עליו עוסר אני עליו פריי למאכלו
+112|06:34|ותוארו לעיניו
+113|06:36|וגם לקמן בסימן פד סע קטן יג לא כותב
+114|06:42|חוששני שיבוא כל החושב בדעתו כי איש משכיל
+115|06:45|הוא וכפי האמת עדיין לא הגיע לדעת חלק
+116|06:50|מ100
+117|06:51|להבין עמרי קדוש ויתגדר להקשות על דבריי
+118|06:58|וידכה באפס ידיעה ואין מבדיל בין טוב לרע
+119|07:03|ונמצאו דברי תורה בטלים על כן צוחינן על
