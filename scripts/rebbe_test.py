@@ -102,7 +102,10 @@ def pick_archive(item, min_s):
     for ident in ids:
         meta = get_json(f'https://archive.org/metadata/{urllib.parse.quote(ident)}')
         files = [f for f in meta.get('files', []) if f.get('name', '').lower().endswith(('.mp3', '.ogg', '.m4a', '.opus', '.wav', '.flac', '.mp4', '.webm', '.mkv'))]
-        files = [f for f in files if seconds(f.get('length')) >= min_s] or []
+        if item:
+            print(f'{ident}: ' + ', '.join(f'{f["name"]} ({f.get("length", "?")} s, {f.get("size", "?")} B)' for f in files))
+        # a file archive.org gives no length for is measured after the download (ffprobe)
+        files = [f for f in files if not f.get('length') or seconds(f.get('length')) >= min_s]
         if not files:
             continue
         # audio before video, then the smallest file (a video's audio is the same, its download is not)
