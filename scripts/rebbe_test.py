@@ -125,10 +125,68 @@ def pick_archive(item, min_s):
     raise SystemExit('no archive.org recording long enough')
 
 
+MEDIA_EXT = ('.mp3', '.ogg', '.m4a', '.opus', '.wav', '.flac', '.mp4', '.webm', '.mkv')
+
+
+def fetch_many(a, items):
+    """several short recordings of the Rebbe joined into one clip (run 5: JEM's clip alone is 57 s)"""
+    tmp = os.path.join(a.out, 'parts')
+    os.makedirs(tmp, exist_ok=True)
+    parts, total = [], 0.0
+    for ident in items:
+        if total >= a.minutes * 60:
+            break
+        meta = get_json(f'https://archive.org/metadata/{urllib.parse.quote(ident)}')
+        title = meta.get('metadata', {}).get('title', '')
+        by_stem = {}
+        for f in meta.get('files', []):
+            n = f.get('name', '')
+            if n.lower().endswith(MEDIA_EXT):
+                by_stem.setdefault(os.path.splitext(n)[0], []).append(f)
+        print(f'{ident} ({title}): {len(by_stem)} recordings')
+        for stem, fs in sorted(by_stem.items()):
+            if total >= a.minutes * 60:
+                break
+            f = min(fs, key=lambda f: int(f.get('size') or 1 << 40))  # one format per recording, the smallest
+            url = f'https://archive.org/download/{urllib.parse.quote(ident)}/{urllib.parse.quote(f["name"])}'
+            raw = os.path.join(tmp, 'raw.bin')
+            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=600) as r, open(raw, 'wb') as out:
+                while True:
+                    b = r.read(1 << 20)
+                    if not b:
+                        break
+                    out.write(b)
+            wav = os.path.join(tmp, f'{len(parts):03d}.wav')
+            if subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', raw, '-vn', '-ac', '1', '-ar', str(SR), wav]).returncode != 0:
+                print(f'  {f["name"]}: no audio')
+                continue
+            dur = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', wav],
+                                       capture_output=True, text=True).stdout.strip() or 0)
+            parts.append({'item': ident, 'title': title, 'file': f['name'], 'start_s': round(total, 2), 'length_s': round(dur, 2), 'url': url})
+            total += dur
+            print(f'  {f["name"]}: {dur:.0f} s')
+    if not parts:
+        raise SystemExit('no audio in these items')
+    lst = os.path.join(tmp, 'list.txt')
+    with open(lst, 'w') as f:
+        for i in range(len(parts)):
+            f.write(f"file '{i:03d}.wav'\n")
+    clip = os.path.join(a.out, 'clip.opus')
+    subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', lst, '-t', str(a.minutes * 60),
+                    '-ac', '1', '-ar', str(SR), '-c:a', 'libopus', '-b:a', '32k', clip], check=True)
+    subprocess.run(['rm', '-rf', tmp])
+    src = {'source': 'archive.org', 'item': 'rebbe-clips', 'title': 'The Lubavitcher Rebbe — ' + ' · '.join(dict.fromkeys(p['title'] for p in parts)),
+           'parts': parts, 'clip_offset_s': 0, 'clip_minutes': round(min(total, a.minutes * 60) / 60, 2)}
+    json.dump(src, open(os.path.join(a.out, 'source.json'), 'w', encoding='utf8'), ensure_ascii=False, indent=1)
+    print(json.dumps(src, ensure_ascii=False, indent=1))
+
+
 def fetch(a):
     global LIST_ONLY
     LIST_ONLY = a.list
     os.makedirs(a.out, exist_ok=True)
+    if ',' in a.item:
+        return fetch_many(a, [x.strip() for x in a.item.split(',') if x.strip()])
     need = a.offset + a.minutes * 60
     raw = os.path.join(a.out, 'source.bin')
     if a.url and re.search(r'youtu\.?be', a.url):

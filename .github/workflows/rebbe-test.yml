@@ -3,8 +3,8 @@ name: Rebbe test (WhisperX Yiddish + Meta MMS)
 # 2026-10-24 (the owner: "transcribe Lubavitcher Rebbe shiurim, try with one … run the test within github
 # servers"). The library's method on one recording of the Rebbe: WhisperX (large-v3, Yiddish) writes the
 # words, Meta MMS retimes the lines. The audio comes from archive.org (YouTube refuses the runners).
-# A push runs JEM's "The Lubavitcher Rebbe on Jewish Beauty" (archive.org youtube-c3zlbxSQrx0) — the
-# searches found few real recordings of the Rebbe and picked others' talks. Nothing goes to Supabase; the result is committed to video-batches/stt-test/rebbe/. See scripts/rebbe_test.py.
+# A push runs the Rebbe's own short recordings on archive.org joined (JEM's clips, then "Videos of the
+# Lubavitcher Rebbe") — the searches found few real recordings of him and picked others' talks. Nothing goes to Supabase; the result is committed to video-batches/stt-test/rebbe/. See scripts/rebbe_test.py.
 #
 #   gh workflow run rebbe-test.yml --ref <branch> [-f item=<archive.org id>] [-f url=<audio url>] [-f minutes=20]
 
@@ -52,7 +52,7 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
           python -m pip install --quiet yt-dlp
       - name: The Rebbe's audio
-        run: python -u scripts/rebbe_test.py fetch --item "${{ inputs.item || 'youtube-c3zlbxSQrx0' }}" --url "${{ inputs.url }}" --minutes ${{ inputs.minutes || '20' }} --offset ${{ inputs.offset || '60' }} --out out/rebbe ${{ inputs.list && '--list' || '' }}
+        run: python -u scripts/rebbe_test.py fetch --item "${{ inputs.item || 'youtube-c3zlbxSQrx0,We-want-moshiach-now,youtube-gHmKY_YnF14,rebbe-chabad' }}" --url "${{ inputs.url }}" --minutes ${{ inputs.minutes || '20' }} --offset ${{ inputs.offset || '60' }} --out out/rebbe ${{ inputs.list && '--list' || '' }}
       - uses: actions/upload-artifact@v4
         with:
           name: rebbe-audio
