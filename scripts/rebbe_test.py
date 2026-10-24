@@ -26,15 +26,21 @@ import urllib.parse
 import urllib.request
 
 SR = 16000
+LIST_ONLY = False
 UA = {'user-agent': 'emunah-caption-harvest (rebbe test)'}
 # the first run's single query found 2 items and took Rabbi Leibel Groner's farbrengen: search by creator and
 # title too, and score — the Rebbe himself as the creator first, other rabbis' talks last
+# (the second found 5, none of them the Rebbe: archive.org also spells him Schneersohn / Shneerson and keeps
+# many of his talks as video — the audio is taken from those too)
+MEDIA = 'mediatype:(audio OR movies)'
+WHO = '(Schneerson OR Schneersohn OR Shneerson OR Shneersohn OR "Lubavitcher Rebbe" OR "Menachem Mendel" OR "Lubavitch Rebbe")'
 QUERIES = [
-    'creator:(Schneerson OR "Lubavitcher Rebbe" OR "Menachem Mendel") AND mediatype:audio',
-    'title:("Lubavitcher Rebbe" OR "the Rebbe" OR Schneerson) AND title:(sicha OR sichos OR sichot OR farbrengen OR maamar OR sichah) AND mediatype:audio',
-    '(sicha OR sichos OR farbrengen OR maamar) AND (Schneerson OR "Lubavitcher Rebbe") AND mediatype:audio',
+    f'creator:{WHO} AND {MEDIA}',
+    f'title:{WHO} AND {MEDIA}',
+    f'subject:{WHO} AND {MEDIA}',
+    f'(Rebbe OR Lubavitch OR Chabad) AND (sicha OR sichos OR sichot OR farbrengen OR maamar OR "ma\'amar") AND {MEDIA}',
 ]
-REBBE = re.compile(r'schneerson|lubavitcher rebbe|menachem mendel|\brebbe\b', re.I)
+REBBE = re.compile(r'schneers|shneers|lubavitcher rebbe|lubavitch rebbe|menachem mendel|\brebbe\b', re.I)
 TALK = re.compile(r'sich|farbreng|maamar|ma\'amar|yechidus|dollars', re.I)
 OTHER = re.compile(r'\brabbi\b|\brav\b|\br\.\s|groner|shiur by|class by|lecture by|niggun|nigun|song|music', re.I)
 
@@ -44,7 +50,7 @@ def score(d):
     creator = d.get('creator') or ''
     creator = ' '.join(creator) if isinstance(creator, list) else creator
     s = 0
-    if re.search(r'schneerson|lubavitcher rebbe|menachem mendel', creator, re.I):
+    if re.search(r'schneers|shneers|lubavitcher rebbe|lubavitch rebbe|menachem mendel', creator, re.I):
         s += 4
     if REBBE.search(title):
         s += 2
@@ -81,21 +87,24 @@ def pick_archive(item, min_s):
     else:
         seen = {}
         for query in QUERIES:
-            q = urllib.parse.urlencode({'q': query, 'fl[]': ['identifier', 'title', 'creator', 'downloads'], 'rows': 50, 'sort[]': 'downloads desc', 'output': 'json'}, doseq=True)
+            q = urllib.parse.urlencode({'q': query, 'fl[]': ['identifier', 'title', 'creator', 'downloads', 'mediatype'], 'rows': 100, 'sort[]': 'downloads desc', 'output': 'json'}, doseq=True)
             for d in get_json(f'https://archive.org/advancedsearch.php?{q}')['response']['docs']:
                 seen.setdefault(d['identifier'], d)
         docs = sorted(seen.values(), key=lambda d: (-score(d), -(d.get('downloads') or 0)))
         print(f'archive.org: {len(docs)} candidates (score, downloads, id, creator, title)')
-        for d in docs[:25]:
-            print(f'  {score(d):3d} {d.get("downloads") or 0:7d}  {d["identifier"]}  [{d.get("creator", "")}]  {d.get("title", "")}')
+        for d in docs[:60]:
+            print(f'  {score(d):3d} {d.get("downloads") or 0:7d} {d.get("mediatype", "")[:5]:5}  {d["identifier"]}  [{d.get("creator", "")}]  {d.get("title", "")}')
+        if LIST_ONLY:
+            raise SystemExit(0)
         ids = [d['identifier'] for d in docs if score(d) > 0]
     for ident in ids:
         meta = get_json(f'https://archive.org/metadata/{urllib.parse.quote(ident)}')
-        files = [f for f in meta.get('files', []) if f.get('name', '').lower().endswith(('.mp3', '.ogg', '.m4a', '.opus', '.wav', '.flac'))]
+        files = [f for f in meta.get('files', []) if f.get('name', '').lower().endswith(('.mp3', '.ogg', '.m4a', '.opus', '.wav', '.flac', '.mp4', '.webm', '.mkv'))]
         files = [f for f in files if seconds(f.get('length')) >= min_s] or []
         if not files:
             continue
-        files.sort(key=lambda f: (not f['name'].lower().endswith('.mp3'), seconds(f.get('length'))))
+        # audio before video, then the smallest file (a video's audio is the same, its download is not)
+        files.sort(key=lambda f: (f['name'].lower().endswith(('.mp4', '.webm', '.mkv')), int(f.get('size') or 0)))
         f = files[0]
         md = meta.get('metadata', {})
         return {
@@ -112,6 +121,8 @@ def pick_archive(item, min_s):
 
 
 def fetch(a):
+    global LIST_ONLY
+    LIST_ONLY = a.list
     os.makedirs(a.out, exist_ok=True)
     need = a.offset + a.minutes * 60
     raw = os.path.join(a.out, 'source.bin')
@@ -223,6 +234,7 @@ def main():
     ap.add_argument('--minutes', type=float, default=20)
     ap.add_argument('--offset', type=float, default=60)
     ap.add_argument('--out', default='out/rebbe')
+    ap.add_argument('--list', action='store_true', help='fetch: only list archive.org candidates')
     a = ap.parse_args()
     {'fetch': fetch, 'stt': stt, 'retime': retime}[a.step](a)
 

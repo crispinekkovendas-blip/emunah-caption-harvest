@@ -22,9 +22,13 @@ on:
       offset:
         description: 'Seconds skipped at the start'
         default: '60'
+      list:
+        description: 'Only list the archive.org candidates (no transcription)'
+        type: boolean
+        default: false
   push:
     branches: [claude/sweet-brahmagupta-4larfi]
-    paths: [.github/workflows/rebbe-test.yml, scripts/rebbe_test.py]
+    paths: [.github/workflows/rebbe-test.yml]
 
 permissions:
   contents: write
@@ -47,7 +51,7 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
           python -m pip install --quiet yt-dlp
       - name: The Rebbe's audio
-        run: python -u scripts/rebbe_test.py fetch --item "${{ inputs.item }}" --url "${{ inputs.url }}" --minutes ${{ inputs.minutes || '20' }} --offset ${{ inputs.offset || '60' }} --out out/rebbe
+        run: python -u scripts/rebbe_test.py fetch --item "${{ inputs.item }}" --url "${{ inputs.url }}" --minutes ${{ inputs.minutes || '20' }} --offset ${{ inputs.offset || '60' }} --out out/rebbe ${{ inputs.list && '--list' || '' }}
       - uses: actions/upload-artifact@v4
         with:
           name: rebbe-audio
@@ -55,6 +59,7 @@ jobs:
 
   stt:
     needs: fetch
+    if: ${{ !inputs.list }}
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
