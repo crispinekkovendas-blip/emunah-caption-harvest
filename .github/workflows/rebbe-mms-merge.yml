@@ -11,7 +11,10 @@ on:
     inputs:
       run_id:
         description: 'The four-ears run whose artifacts are used'
-        required: true
+        default: '40125574938'
+  push:
+    branches: [claude/sweet-brahmagupta-4larfi]
+    paths: [.github/workflows/rebbe-mms-merge.yml]
 
 permissions:
   contents: read
@@ -42,7 +45,7 @@ jobs:
         with:
           name: rebbe-audio
           path: out/rebbe
-          run-id: ${{ inputs.run_id }}
+          run-id: ${{ inputs.run_id || '40125574938' }}
           github-token: ${{ github.token }}
       - name: Meta MMS — Yiddish adapter
         env:
@@ -68,14 +71,14 @@ jobs:
         with:
           name: rebbe-audio
           path: out/rebbe
-          run-id: ${{ inputs.run_id }}
+          run-id: ${{ inputs.run_id || '40125574938' }}
           github-token: ${{ github.token }}
       - uses: actions/download-artifact@v4
         with:
           pattern: rebbe-stt-*
           path: out/rebbe
           merge-multiple: true
-          run-id: ${{ inputs.run_id }}
+          run-id: ${{ inputs.run_id || '40125574938' }}
           github-token: ${{ github.token }}
       - uses: actions/download-artifact@v4
         continue-on-error: true
