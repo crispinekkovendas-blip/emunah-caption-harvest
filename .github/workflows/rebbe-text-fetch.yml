@@ -1,0 +1,73 @@
+name: Rebbe test — fetch the sicha's text from chabad.net (Sefer HaSichos)
+
+# 2026-10-24: the search (rebbe-text-search.yml run 2) found chabad.net's library ("מעין") open to the runners —
+# Sefer HaSichos 5751 (the Rebbe's edited sichos, Hebrew); chabad.org answers 403. Part 2 starts at 26 Nissan,
+# so Leil 11 Nissan is in part 1. This job reads the part's table of contents, prints every entry of Nissan,
+# follows the ones of 10–11 Nissan and prints their text in full — the reference Claude curates the ears with.
+
+on:
+  workflow_dispatch:
+    inputs:
+      index:
+        description: 'Table of contents page'
+        default: 'https://chabad.net/library/sefer-hasichos?facet=chalakim&volume=5751&part=1'
+      match:
+        description: 'Entries to follow (regex on the entry title)'
+        default: 'י"א ניסן|י״א ניסן|יו"ד ניסן|יו״ד ניסן|י'' ניסן|ליל י"א|אור לי"א'
+  push:
+    branches: [claude/sweet-brahmagupta-4larfi]
+    paths: [.github/workflows/rebbe-text-fetch.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Table of contents → the 11 Nissan sicha
+        env:
+          INDEX: ${{ inputs.index || 'https://chabad.net/library/sefer-hasichos?facet=chalakim&volume=5751&part=1' }}
+          MATCH: ${{ inputs.match || 'י"א ניסן|י״א ניסן|יו"ד ניסן|יו״ד ניסן|י'' ניסן|ליל י"א|אור לי"א' }}
+        shell: python
+        run: |
+          import html, os, re, urllib.parse, urllib.request
+          UA = {'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'}
+          def get(url):
+              with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as r:
+                  return r.read().decode('utf8', 'replace')
+          def text(page):
+              page = re.sub(r'(?s)<(script|style|nav|header|footer).*?</\1>', ' ', page)
+              page = re.sub(r'(?i)<br\s*/?>|</p>|</div>|</h\d>|</li>', '\n', page)
+              t = html.unescape(re.sub(r'<[^>]+>', ' ', page))
+              t = re.sub(r'[ \t‎‏⁦-⁩]+', ' ', t)
+              return re.sub(r'\n\s*\n+', '\n', t).strip()
+          index = os.environ['INDEX']
+          page = get(index)
+          links = re.findall(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', page, re.S)
+          entries = []
+          for href, label in links:
+              label = re.sub(r'\s+', ' ', html.unescape(re.sub('<[^>]+>', ' ', label))).strip()
+              if label:
+                  entries.append((urllib.parse.urljoin(index, html.unescape(href)), label))
+          print(f'{index}: {len(page)} chars, {len(entries)} links')
+          print('\n=== entries of Nissan')
+          for url, label in entries:
+              if 'ניסן' in label:
+                  print(f'  {label[:120]}\n    {url}')
+          pat = re.compile(os.environ['MATCH'])
+          chosen = [(u, l) for u, l in entries if pat.search(l)]
+          if not chosen:
+              print('\nno entry matched; the page text (first 4000 chars):\n' + text(page)[:4000])
+          seen = set()
+          for url, label in chosen[:4]:
+              if url in seen:
+                  continue
+              seen.add(url)
+              t = text(get(url))
+              print(f'\n\n######## {label}\n{url}\n{len(t)} chars\n')
+              print(t[:60000])
