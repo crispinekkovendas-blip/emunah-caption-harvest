@@ -38,14 +38,17 @@ jobs:
     if: inputs.lane == ''
     runs-on: ubuntu-latest
     steps:
-      - name: Wake the fourteen lanes (only when audio is waiting)
+      - uses: actions/checkout@v4
+      # 2026-10-24: only the lanes that own audio (all fourteen woke while any file waited, and spun empty)
+      - name: Wake the lanes that own audio in the queue
         env:
           GH_TOKEN: ${{ github.token }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: |
-          n=$(gh release view stt-queue --repo "$GITHUB_REPOSITORY" --json assets -q '.assets[].name' | grep -c opus || true)
-          echo "$n files waiting"
-          [ "$n" -gt 0 ] || exit 0
-          for lane in $(seq 1 14); do
+          lanes=$(python3 scripts/transcribe.py --owners 14)
+          echo "lanes with audio: ${lanes:-none}"
+          for lane in $lanes; do
             gh workflow run stt.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=$lane
           done
 
@@ -71,6 +74,7 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
           python -m pip install --quiet whisperx
       - name: Transcribe
+        id: t
         env:
           GH_TOKEN: ${{ github.token }}
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
@@ -85,10 +89,10 @@ jobs:
           git add video-batches/stt-test
           git commit -m "stt test: ${{ inputs.ids }} (${{ inputs.lang || 'he' }})" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
-      - name: Keep the lane going while audio waits
-        if: inputs.ids == '' && (inputs.lang || 'he') == 'he'
+      # 2026-10-24: only while THIS lane still owns audio and this run made progress — before, any file in the
+      # queue (another lane's, or one that never transcribes) restarted every lane every 3½ minutes
+      - name: Keep the lane going while its own audio waits
+        if: inputs.ids == '' && (inputs.lang || 'he') == 'he' && steps.t.outputs.left != '0' && steps.t.outputs.done != '0' && steps.t.outputs.left != ''
         env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          n=$(gh release view stt-queue --repo "$GITHUB_REPOSITORY" --json assets -q '.assets[].name' | grep -c opus || true)
-          [ "$n" -gt 0 ] && gh workflow run stt.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=${{ inputs.lane }} || true
+        run: gh workflow run stt.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=${{ inputs.lane }}
