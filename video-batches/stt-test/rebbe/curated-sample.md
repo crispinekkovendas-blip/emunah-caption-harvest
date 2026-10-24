@@ -22,6 +22,7 @@ against a published text. ✓ = both ears agree and the sentence is sure; ~ = th
 | 11:31 | ✓ | און אַלע ענינים ווערן צוזאַמענגעבונדן און פאַרבונדן | E todas as coisas se unem e se ligam | And all matters are bound and joined together |
 | 12:14 | ~ | אָבער ביים רגע הראשון פון יום הראשון | Mas no primeiro instante do primeiro dia | But at the first moment of the first day |
 | 12:30 | ~ | … השמים והארץ וכל צבאם | … os céus, a terra e todas as suas hostes | … the heavens and the earth and all their hosts |
+| 13:10 | ~ | … וואָס „יום אחד" איז ניט מער ווי „יום ראשון" | … que "um dia" não é mais do que "o primeiro dia" | … that "one day" is no more than "the first day" |
 | 13:43 | ~ | זמן גשמי און מקום גשמי | Tempo físico e espaço físico | Physical time and physical space |
 | 13:55 | ✓ | … תפילת מעריב, און תפילת עלינו … אחד באחד יגשו | … a oração de Maariv e o Aleinu … "um se achega ao outro" | … the Maariv prayer and Aleinu … "one comes close to the other" |
 | 14:08 | ✓ | דער צווייטער: י״ג תשרי — ווערט פאַרבונדן מיטן ערשטן, י״ג ניסן, יום ההילולא, מיט בנו ממלא מקומו | O segundo: 13 de Tishrei — ligado ao primeiro, 13 de Nissan, dia da hilulá, com seu filho e sucessor | The second: 13 Tishrei — joined to the first, 13 Nissan, the day of the hilula, with his son and successor |
@@ -44,5 +45,9 @@ against a published text. ✓ = both ears agree and the sentence is sure; ~ = th
   translated into German and invented. Side effect: in pauses it recites the prompt ("Rebbe redt Jiddisch,
   Moschiach, Gemore…") — those lines must be dropped, or the prompt shortened.
 - Translate ear: invents stories — dropped.
+- Meta MMS (run on the Demucs voice with its Hebrew adapter — MMS has no Yiddish one): letter by letter, no
+  punctuation, never loops; rough, but real Yiddish shows through ("ווס יים ארחוד … וי יים רישן", "פון דם גאנצן",
+  "ממש … גאולה אמיתית והשלימה"). A tie-breaker: with the German ear it gave the 13:10 line (why "יום אחד" and
+  not "יום ראשון"); the rest of the two gaps stays too broken to curate.
 - Between them, about half of the sicha's lines can be curated sure (✓) or in gist (~); the rest (a few
   stretches between 12:40–13:30 and 16:20–17:15) only by topic.
