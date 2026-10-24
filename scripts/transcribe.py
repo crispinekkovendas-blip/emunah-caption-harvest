@@ -137,14 +137,31 @@ def main():
     ap.add_argument('--ids', default='')
     ap.add_argument('--lang', default='he', choices=sorted(LANGS))
     ap.add_argument('--out', default='', help='also write each document here as <id>.json')
+    ap.add_argument('--owners', type=int, default=0, help='only print the lanes (1..N) that own audio in the queue')
     a = ap.parse_args()
     model_name, source = LANGS[a.lang]
     model_name = os.environ.get('STT_MODEL') or model_name
     queue = 'stt-queue' if a.lang == 'he' else f'stt-queue-{a.lang}'
+    # 2026-10-24: a lane restarted itself whenever ANY file was in the queue — 13 of 14 lanes spun every 3½ min
+    # with "0 lessons waiting" (17,000+ runs) and held the job slots the dub and translation runs wait for. The
+    # kick now wakes only the lanes that own files, and a lane goes on only while it owns files and made progress.
+    if a.owners:
+        print(' '.join(str(n) for n in sorted({lane_of(v, a.owners) + 1 for v in queue_ids(queue)})))
+        return
     t0 = time.time()
     ids = [x for x in a.ids.split(',') if x] if a.ids else [v for v in queue_ids(queue) if lane_of(v, a.lanes) == a.lane - 1]
     print(f'lane {a.lane}: {len(ids)} lessons waiting')
+    done = 0
+
+    def report():
+        left = 0 if a.ids else sum(1 for v in queue_ids(queue) if lane_of(v, a.lanes) == a.lane - 1)
+        print(f'lane {a.lane}: {done} transcribed, {left} left')
+        if os.environ.get('GITHUB_OUTPUT'):
+            with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                f.write(f'done={done}\nleft={left}\n')
+
     if not ids:
+        report()
         return
     import whisperx
 
@@ -173,7 +190,9 @@ def main():
         al = whisperx.align(res['segments'], am, meta, wav, 'cpu', return_char_alignments=False)
         cues = cues_of(segments_of(al['segments']))
         if len(cues) < 3:
-            print(f'{vid}: {len(cues)} cues for {dur:.0f}s — no speech?')
+            # no speech: out of the queue, or the lane would take it again forever
+            print(f'{vid}: {len(cues)} cues for {dur:.0f}s — no speech? removed from the queue')
+            subprocess.run(['gh', 'release', 'delete-asset', queue, f'{vid}.opus', '--repo', REPO, '--yes'])
             continue
         doc = {
             'v': 1, 'videoId': vid, 'lang': a.lang, 'duration': round(dur), 'cues': cues, 'title': '', 'summary': '', 'moments': [],
@@ -185,8 +204,10 @@ def main():
             with open(os.path.join(a.out, f'{vid}.json'), 'w', encoding='utf8') as f:
                 json.dump(doc, f, ensure_ascii=False, indent=0)
         subprocess.run(['gh', 'release', 'delete-asset', queue, f'{vid}.opus', '--repo', REPO, '--yes'])
+        done += 1
         el = time.time() - t1
         print(f'{vid}: {dur / 60:.1f} min → {len(cues)} cues in {el / 60:.1f} min ({dur / max(el, 1):.1f}× real time)', flush=True)
+    report()
 
 
 if __name__ == '__main__':
