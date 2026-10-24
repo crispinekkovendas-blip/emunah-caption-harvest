@@ -15,6 +15,8 @@ video-batches/stt-test/rebbe/.
   python scripts/rebbe_test.py fetch  [--url URL] [--item IA_ID] [--minutes 20] [--offset 60] --out out/rebbe
   python scripts/rebbe_test.py stt    --out out/rebbe          (WhisperX large-v3, Yiddish)
   python scripts/rebbe_test.py retime --out out/rebbe          (Meta MMS, Yiddish romanization)
+  python scripts/rebbe_test.py stt --lang de|he --anti-loop    (the "two ears" passes, WhisperX, 2026-10-24)
+  python scripts/rebbe_test.py merge  --out out/rebbe          (German lines + the Hebrew words heard with them)
 """
 import argparse
 import json
@@ -220,37 +222,106 @@ def fetch(a):
     print(json.dumps(src, ensure_ascii=False, indent=1))
 
 
+# the passes of the "two ears" test (2026-10-24, the owner: "Yiddish is German and Hebrew — transcribe it
+# twice, one in German and one in Hebrew, and Claude curates … remember to use WhisperX"): Whisper hears German
+# well and ivrit.ai hears the loshon-kodesh words well; the Yiddish pass (run 6) got neither. Every pass is
+# WhisperX (Silero VAD → Whisper → WhisperX's wav2vec2 word aligner). Each pass: model, aligner language.
+PASSES = {
+    'yi': ('large-v3', 'he'),
+    'de': ('large-v3', 'de'),
+    'he': ('ivrit-ai/whisper-large-v3-turbo-ct2', 'he'),
+}
+# run 6 filled ~4 min with loops ("אין אין אין…"): faster-whisper's own guards against repetition
+ANTI_LOOP = {'repetition_penalty': 1.15, 'no_repeat_ngram_size': 4, 'compression_ratio_threshold': 2.2,
+             'log_prob_threshold': -1.0, 'no_speech_threshold': 0.6, 'condition_on_previous_text': False}
+
+
 def stt(a):
     os.environ.setdefault('SUPABASE_URL', 'http://unused')
     os.environ.setdefault('SUPABASE_SERVICE_KEY', 'unused')
     import whisperx
-    from transcribe import LANGS, cues_of, load_wav, segments_of
+    from transcribe import cues_of, load_wav, segments_of
 
-    model_name, _ = LANGS['yi']
+    model_name, align_lang = PASSES[a.lang]
     wav = load_wav(os.path.join(a.out, 'clip.opus'))
     dur = len(wav) / SR
     t = time.time()
-    try:
-        model = whisperx.load_model(model_name, 'cpu', compute_type='int8', language='yi', vad_method='silero')
-    except TypeError:
-        model = whisperx.load_model(model_name, 'cpu', compute_type='int8', language='yi')
-    res = model.transcribe(wav, batch_size=8, language='yi')
+    kw = dict(compute_type='int8', language=a.lang)
+    opts = ANTI_LOOP if a.anti_loop else None
+    model = None
+    for extra in ({'vad_method': 'silero', 'asr_options': opts}, {'asr_options': opts}, {'vad_method': 'silero'}, {}):
+        extra = {k: v for k, v in extra.items() if v is not None}
+        try:
+            model = whisperx.load_model(model_name, 'cpu', **kw, **extra)
+            print(f'WhisperX: {model_name} ({a.lang}) with {sorted(extra)}')
+            break
+        except (TypeError, ValueError) as err:
+            print(f'WhisperX load_model {sorted(extra)} refused: {err}')
+    res = model.transcribe(wav, batch_size=8, language=a.lang)
     t_asr = time.time() - t
-    am, meta = whisperx.load_align_model(language_code='he', device='cpu')
+    am, meta = whisperx.load_align_model(language_code=align_lang, device='cpu')
     t = time.time()
     al = whisperx.align(res['segments'], am, meta, wav, 'cpu', return_char_alignments=False)
     t_al = time.time() - t
-    cues = cues_of(segments_of(al['segments']))
+    segs = segments_of(al['segments'])
+    cues = cues_of(segs)
+    words = [[round(w.start, 2), round(w.end, 2), (w.word or '').strip()] for sg in segs for w in sg.words if (w.word or '').strip()]
     placed = sum(1 for sg in al['segments'] for w in sg.get('words', []) if 'start' in w)
     total = sum(len(sg.get('words', [])) for sg in al['segments'])
     doc = {
-        'lang': 'yi', 'model': model_name, 'aligner': 'whisperx wav2vec2-hebrew', 'duration': round(dur),
-        'asr_s': round(t_asr), 'align_s': round(t_al), 'words': total, 'words_placed': placed, 'cues': cues,
+        'lang': a.lang, 'model': model_name, 'aligner': f'whisperx wav2vec2 ({align_lang})', 'anti_loop': bool(a.anti_loop),
+        'duration': round(dur), 'asr_s': round(t_asr), 'align_s': round(t_al), 'words': total, 'words_placed': placed,
+        'cues': cues, 'word_times': words,
     }
-    json.dump(doc, open(os.path.join(a.out, 'stt.json'), 'w', encoding='utf8'), ensure_ascii=False)
+    name = 'stt.json' if a.lang == 'yi' else f'stt-{a.lang}.json'
+    json.dump(doc, open(os.path.join(a.out, name), 'w', encoding='utf8'), ensure_ascii=False)
     print(f'{dur / 60:.1f} min → {len(cues)} cues, {placed}/{total} words placed by the aligner; ASR {t_asr:.0f}s, align {t_al:.0f}s')
     for c in cues[:25]:
         print(f'  {c[0]:7.2f} {c[1]:7.2f}  {c[2]}')
+
+
+def merge(a):
+    """the German pass's lines as the frame; under each, the Hebrew pass's words heard in the same seconds —
+    the work file Claude curates (printed in full, and written to merged.txt)"""
+    de = json.load(open(os.path.join(a.out, 'stt-de.json'), encoding='utf8'))
+    he = json.load(open(os.path.join(a.out, 'stt-he.json'), encoding='utf8'))
+    src = json.load(open(os.path.join(a.out, 'source.json'), encoding='utf8'))
+    clock = lambda s: f'{int(s // 60):02d}:{s % 60:04.1f}'
+    frame = de['cues']
+    hw = he['word_times']
+    taken = [False] * len(hw)
+    lines = []
+    for i, (s, e, t) in enumerate(frame):
+        nxt = frame[i + 1][0] if i + 1 < len(frame) else 1e9
+        mine = []
+        for j, (ws, we, w) in enumerate(hw):
+            mid = (ws + we) / 2
+            if not taken[j] and s - 0.4 <= mid < min(nxt, e + 0.4):
+                mine.append(w)
+                taken[j] = True
+        lines.append((s, e, t, ' '.join(mine)))
+    # Hebrew words heard where the German pass heard nothing get lines of their own
+    groups = []
+    for (ws, we, w), k in zip(hw, taken):
+        if k:
+            continue
+        if groups and ws - groups[-1][1] < 1.5 and len(groups[-1][2]) < 14:
+            groups[-1][1] = we
+            groups[-1][2].append(w)
+        else:
+            groups.append([ws, we, [w]])
+    lines += [(g[0], g[1], '', ' '.join(g[2])) for g in groups]
+    lines.sort(key=lambda x: x[0])
+    out = [src.get('title', ''), 'parts: ' + ' · '.join(f'{clock(p["start_s"])} {p["title"]} ({p["file"]})' for p in src.get('parts', [])),
+           f'DE = WhisperX {de["model"]} (German) · HE = WhisperX {he["model"]} (Hebrew) · anti-loop {de.get("anti_loop")}', '']
+    for n, (s, e, t, h) in enumerate(lines):
+        out.append(f'{n}|{clock(s)}-{clock(e)}')
+        out.append(f'  DE: {t}')
+        out.append(f'  HE: {h}')
+    text = '\n'.join(out) + '\n'
+    open(os.path.join(a.out, 'merged.txt'), 'w', encoding='utf8').write(text)
+    print(f'DE {len(frame)} cues ({de["words"]} words, ASR {de["asr_s"]}s) · HE {len(he["cues"])} cues ({he["words"]} words, ASR {he["asr_s"]}s) · {len(groups)} Hebrew-only lines')
+    print(text)
 
 
 def retime(a):
@@ -298,7 +369,9 @@ def retime(a):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('step', choices=['fetch', 'stt', 'retime'])
+    ap.add_argument('step', choices=['fetch', 'stt', 'retime', 'merge'])
+    ap.add_argument('--lang', default='yi', choices=sorted(PASSES))
+    ap.add_argument('--anti-loop', action='store_true')
     ap.add_argument('--url', default='')
     ap.add_argument('--item', default='')
     ap.add_argument('--minutes', type=float, default=20)
@@ -306,7 +379,7 @@ def main():
     ap.add_argument('--out', default='out/rebbe')
     ap.add_argument('--list', action='store_true', help='fetch: only list archive.org candidates')
     a = ap.parse_args()
-    {'fetch': fetch, 'stt': stt, 'retime': retime}[a.step](a)
+    {'fetch': fetch, 'stt': stt, 'retime': retime, 'merge': merge}[a.step](a)
 
 
 if __name__ == '__main__':

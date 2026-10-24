@@ -1,0 +1,111 @@
+name: Rebbe test — two ears (WhisperX German + WhisperX Hebrew)
+
+# 2026-10-24 (the owner: "Yiddish is German and Hebrew — make the transcript twice, one in German and the other
+# in Hebrew, and then Claude Code could curate … remember to use WhisperX"). The same 20 min as rebbe-test.yml
+# (run 6: the Yiddish pass got neither the German words nor the Hebrew ones). Two WhisperX passes side by side:
+# large-v3 in German (German aligner) and ivrit.ai in Hebrew (Hebrew aligner), both with the anti-loop options;
+# then the German lines with the Hebrew words heard in the same seconds, printed in the merge job's log for
+# Claude to curate. Nothing goes to Supabase and nothing is committed. See scripts/rebbe_test.py.
+
+on:
+  workflow_dispatch:
+    inputs:
+      item:
+        description: 'archive.org identifiers, comma separated'
+        default: 'youtube-c3zlbxSQrx0,We-want-moshiach-now,youtube-gHmKY_YnF14,rebbe-chabad'
+      minutes:
+        description: 'Minutes transcribed'
+        default: '20'
+  push:
+    branches: [claude/sweet-brahmagupta-4larfi]
+    paths: [.github/workflows/rebbe-two-ears.yml]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: rebbe-two-ears
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+      - name: The Rebbe's audio (same clip as run 6)
+        run: python -u scripts/rebbe_test.py fetch --item "${{ inputs.item || 'youtube-c3zlbxSQrx0,We-want-moshiach-now,youtube-gHmKY_YnF14,rebbe-chabad' }}" --minutes ${{ inputs.minutes || '20' }} --out out/rebbe
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rebbe-audio
+          path: out/rebbe
+
+  stt:
+    needs: fetch
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      matrix:
+        lang: [de, he]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Cache the model and the wheels
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/pip
+            ~/.cache/torch
+          key: ${{ matrix.lang == 'he' && 'stt-whisperx-ivrit-v1' || 'stt-whisperx-yi-v1' }}
+      - name: Install WhisperX
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet whisperx
+      - uses: actions/download-artifact@v4
+        with:
+          name: rebbe-audio
+          path: out/rebbe
+      - name: WhisperX (${{ matrix.lang }})
+        env:
+          PYTHONPATH: scripts
+        run: python -u scripts/rebbe_test.py stt --lang ${{ matrix.lang }} --anti-loop --out out/rebbe
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rebbe-stt-${{ matrix.lang }}
+          path: out/rebbe/stt-${{ matrix.lang }}.json
+
+  merge:
+    needs: stt
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          name: rebbe-audio
+          path: out/rebbe
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: rebbe-stt-*
+          path: out/rebbe
+          merge-multiple: true
+      - name: German lines + the Hebrew words heard with them
+        run: python -u scripts/rebbe_test.py merge --out out/rebbe
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rebbe-merged
+          path: |
+            out/rebbe/merged.txt
+            out/rebbe/stt-*.json
+            out/rebbe/source.json
