@@ -1,0 +1,61 @@
+name: Rebbe test — the published text timed by Meta MMS
+
+# 2026-10-24 (the owner: "Ok" to the next test). For a sicha the Rebbe edited, chabad.net has his own Yiddish
+# (Sefer HaSichos); Meta MMS times it against the recording line by line. First: 11 Nissan 5751 ("ברכה — אור
+# ליום ג' י"א ניסן, לאחרי תפלת ערבית", shs-5751-033) with its recording in archive.org's rebbe-chabad, if there.
+# Nothing goes to Supabase and nothing is committed. See scripts/rebbe_textalign.py.
+
+on:
+  workflow_dispatch:
+    inputs:
+      item:
+        description: 'archive.org item'
+        default: 'rebbe-chabad'
+      match:
+        description: 'Regex on the recording file name'
+        default: '(yud.?al|yud.?a.?leph|11).*nis+[ae]n.*5751|5751.*(yud.?al|yud.?a.?leph|11).*nis+[ae]n'
+      text_url:
+        description: 'The text (chabad.net page)'
+        default: 'https://chabad.net/read/shs-5751-033'
+  push:
+    branches: [claude/sweet-brahmagupta-4larfi]
+    paths: [.github/workflows/rebbe-textalign.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  align:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Cache the model and the wheels
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/torch
+            ~/.cache/pip
+          key: mms-fa-v1
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet torch==2.5.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install --quiet numpy soundfile uroman
+      - name: The text, the recording, the timing
+        env:
+          PYTHONPATH: scripts
+        run: >
+          python -u scripts/rebbe_textalign.py
+          --item "${{ inputs.item || 'rebbe-chabad' }}"
+          --match "${{ inputs.match || '(yud.?al|yud.?a.?leph|11).*nis+[ae]n.*5751|5751.*(yud.?al|yud.?a.?leph|11).*nis+[ae]n' }}"
+          --text-url "${{ inputs.text_url || 'https://chabad.net/read/shs-5751-033' }}"
+          --out out/textalign
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: rebbe-textalign
+          path: out/textalign/aligned.json
