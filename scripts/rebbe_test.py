@@ -27,7 +27,32 @@ import urllib.request
 
 SR = 16000
 UA = {'user-agent': 'emunah-caption-harvest (rebbe test)'}
-QUERY = '(title:(sicha OR sichos OR farbrengen OR sichot) OR subject:(sicha OR sichos OR farbrengen)) AND (Rebbe OR Lubavitch OR Schneerson) AND mediatype:audio'
+# the first run's single query found 2 items and took Rabbi Leibel Groner's farbrengen: search by creator and
+# title too, and score — the Rebbe himself as the creator first, other rabbis' talks last
+QUERIES = [
+    'creator:(Schneerson OR "Lubavitcher Rebbe" OR "Menachem Mendel") AND mediatype:audio',
+    'title:("Lubavitcher Rebbe" OR "the Rebbe" OR Schneerson) AND title:(sicha OR sichos OR sichot OR farbrengen OR maamar OR sichah) AND mediatype:audio',
+    '(sicha OR sichos OR farbrengen OR maamar) AND (Schneerson OR "Lubavitcher Rebbe") AND mediatype:audio',
+]
+REBBE = re.compile(r'schneerson|lubavitcher rebbe|menachem mendel|\brebbe\b', re.I)
+TALK = re.compile(r'sich|farbreng|maamar|ma\'amar|yechidus|dollars', re.I)
+OTHER = re.compile(r'\brabbi\b|\brav\b|\br\.\s|groner|shiur by|class by|lecture by|niggun|nigun|song|music', re.I)
+
+
+def score(d):
+    title = d.get('title') or ''
+    creator = d.get('creator') or ''
+    creator = ' '.join(creator) if isinstance(creator, list) else creator
+    s = 0
+    if re.search(r'schneerson|lubavitcher rebbe|menachem mendel', creator, re.I):
+        s += 4
+    if REBBE.search(title):
+        s += 2
+    if TALK.search(title):
+        s += 2
+    if OTHER.search(title) or (OTHER.search(creator) and not REBBE.search(creator)):
+        s -= 6
+    return s
 
 
 def get_json(url):
@@ -54,12 +79,16 @@ def pick_archive(item, min_s):
     if item:
         ids = [item]
     else:
-        q = urllib.parse.urlencode({'q': QUERY, 'fl[]': ['identifier', 'title'], 'rows': 40, 'sort[]': 'downloads desc', 'output': 'json'}, doseq=True)
-        docs = get_json(f'https://archive.org/advancedsearch.php?{q}')['response']['docs']
-        print(f'archive.org: {len(docs)} candidates')
-        for d in docs[:15]:
-            print(f'  {d["identifier"]}  {d.get("title", "")}')
-        ids = [d['identifier'] for d in docs]
+        seen = {}
+        for query in QUERIES:
+            q = urllib.parse.urlencode({'q': query, 'fl[]': ['identifier', 'title', 'creator', 'downloads'], 'rows': 50, 'sort[]': 'downloads desc', 'output': 'json'}, doseq=True)
+            for d in get_json(f'https://archive.org/advancedsearch.php?{q}')['response']['docs']:
+                seen.setdefault(d['identifier'], d)
+        docs = sorted(seen.values(), key=lambda d: (-score(d), -(d.get('downloads') or 0)))
+        print(f'archive.org: {len(docs)} candidates (score, downloads, id, creator, title)')
+        for d in docs[:25]:
+            print(f'  {score(d):3d} {d.get("downloads") or 0:7d}  {d["identifier"]}  [{d.get("creator", "")}]  {d.get("title", "")}')
+        ids = [d['identifier'] for d in docs if score(d) > 0]
     for ident in ids:
         meta = get_json(f'https://archive.org/metadata/{urllib.parse.quote(ident)}')
         files = [f for f in meta.get('files', []) if f.get('name', '').lower().endswith(('.mp3', '.ogg', '.m4a', '.opus', '.wav', '.flac'))]
