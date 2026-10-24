@@ -106,7 +106,9 @@ def words_of(text):
     r = re.sub(r"[’`]", "'", r)
     out = []
     for w in r.split():
-        w = ''.join(ch for ch in w if ch in DICT and ch != '*')
+        # '-' is the CTC blank in MMS_FA's dictionary: a hyphen in the text (the Rebbe's Yiddish has "פאָ-דערן")
+        # made the aligner refuse the whole group ("targets shouldn't contain blank index") — 2026-10-24
+        w = ''.join(ch for ch in w if ch in DICT and ch not in '*-')
         if w:
             out.append(w)
     return out
