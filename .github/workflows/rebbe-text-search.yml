@@ -1,0 +1,83 @@
+name: Rebbe test — find the published text of the sicha
+
+# 2026-10-24 (the owner: "do the next steps right away"). The ears (rebbe-two-ears / rebbe-four-ears) recover
+# the sicha only in part; the Rebbe's sichos are published (Sichos Kodesh in Yiddish, Toras Menachem /
+# Sefer HaSichos in Hebrew). Where the text exists, Meta MMS (align.py) only has to time it. This job only
+# searches and prints what it finds (links, titles, the first lines of each page) for Claude to choose.
+# The test's sicha: Leil Yud-Alef Nissan 5751 (the recording "10_Leil_Yud_Gimmel_Nissan_5751_Maariv_Sicha_Dollars"),
+# about 13 Nissan (the Tzemach Tzedek) and 13 Tishrei (the Rebbe Maharash), "אחד באחד יגשו".
+
+on:
+  workflow_dispatch:
+    inputs:
+      extra:
+        description: 'Extra search phrases, separated by |'
+        default: ''
+  push:
+    branches: [claude/sweet-brahmagupta-4larfi]
+    paths: [.github/workflows/rebbe-text-search.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Search
+        env:
+          EXTRA: ${{ inputs.extra }}
+        shell: python
+        run: |
+          import html, os, re, time, urllib.parse, urllib.request
+          UA = {'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'}
+          queries = [
+              'שיחת י"א ניסן תנש"א "אחד באחד יגשו"',
+              'י"א ניסן תנש"א שיחה י"ג ניסן י"ג תשרי "אחד באחד יגשו"',
+              'תורת מנחם התוועדויות תנש"א י"א ניסן',
+              'ספר השיחות תנש"א י"א ניסן',
+              'שיחות קודש תנש"א י"א ניסן',
+              '"אחד באחד יגשו" צמח צדק מהר"ש י"ג ניסן י"ג תשרי',
+              'site:chabadlibrary.org תנש"א י"א ניסן',
+              'site:hebrewbooks.org ספר השיחות תנש"א',
+              'site:chabad.org Rebbe 11 Nissan 5751 sicha',
+              'Sichos in English 11 Nissan 5751',
+          ] + [q for q in os.environ.get('EXTRA', '').split('|') if q.strip()]
+          def get(url):
+              req = urllib.request.Request(url, headers=UA)
+              with urllib.request.urlopen(req, timeout=40) as r:
+                  return r.read().decode('utf8', 'replace')
+          seen = {}
+          for q in queries:
+              print(f'\n=== {q}')
+              try:
+                  page = get('https://html.duckduckgo.com/html/?' + urllib.parse.urlencode({'q': q}))
+              except Exception as err:
+                  print(f'  search failed: {err}')
+                  continue
+              hits = re.findall(r'class="result__a" href="([^"]+)"[^>]*>(.*?)</a>', page)
+              for href, title in hits[:8]:
+                  m = re.search(r'uddg=([^&]+)', href)
+                  url = urllib.parse.unquote(m.group(1)) if m else href
+                  title = html.unescape(re.sub('<[^>]+>', '', title))
+                  print(f'  {title[:110]}\n    {url}')
+                  seen.setdefault(url, title)
+              time.sleep(2)
+          print(f'\n\n##### the first lines of the {min(len(seen), 25)} first pages #####')
+          for url, title in list(seen.items())[:25]:
+              try:
+                  t = get(url)
+              except Exception as err:
+                  print(f'\n--- {url}: {err}')
+                  continue
+              t = re.sub(r'(?s)<(script|style).*?</\1>', ' ', t)
+              t = html.unescape(re.sub(r'<[^>]+>', ' ', t))
+              t = re.sub(r'\s+', ' ', t)
+              hit = [k for k in ('אחד באחד יגשו', 'י"א ניסן', 'תנש"א', 'צמח צדק', 'י"ג תשרי') if k in t]
+              print(f'\n--- {title[:90]}\n    {url}\n    {len(t)} chars · contains: {hit}')
+              i = t.find('אחד באחד')
+              print('    ' + (t[max(0, i - 400):i + 600] if i >= 0 else t[:500]))
