@@ -6,7 +6,9 @@ name: Rebbe test — fetch the sicha's text from chabad.net (Sefer HaSichos)
 # follows the ones of 10–11 Nissan and prints their text in full — the reference Claude curates the ears with.
 # Run 1 found 11 Nissan (shs-5751-033, a Yiddish text, מוגה) — but the recording is Leil 13 Nissan
 # ("10_Leil_Yud_Gimmel_Nissan_5751…"; the ears heard 13 Nissan / 13 Tishrei, אחד באחד יגשו): a push reads the
-# next entries, 034–036, and prints in full the one of י"ג ניסן.
+# next entries, 034–036, and prints in full the one of י"ג ניסן. Run 2: 034–035 are Acharon shel Pesach, 036 Erev
+# Pesach — 13 Nissan was never edited (not in Sefer HaSichos). A push now lists chabad.net's whole library
+# (every link) and opens the collections of unedited talks (Toras Menachem / Hisvaaduyos / Sichos Kodesh).
 
 on:
   workflow_dispatch:
@@ -37,9 +39,9 @@ jobs:
           python-version: '3.12'
       - name: Table of contents → the 11 Nissan sicha
         env:
-          INDEX: ${{ inputs.index || 'https://chabad.net/library/sefer-hasichos?facet=chalakim&volume=5751&part=1' }}
-          URLS: ${{ inputs.urls || 'https://chabad.net/read/shs-5751-034 https://chabad.net/read/shs-5751-035 https://chabad.net/read/shs-5751-036' }}
-          MATCH: ${{ inputs.match || 'י"א ניסן|י״א ניסן|יו"ד ניסן|יו״ד ניסן|י'' ניסן|ליל י"א|אור לי"א' }}
+          INDEX: ${{ inputs.index || 'https://chabad.net/library' }}
+          URLS: ${{ inputs.urls }}
+          MATCH: ${{ inputs.match || 'תורת מנחם|התוועדויות|שיחות קודש|בלתי מוגה|toras|menachem|hisvaaduyos|sichos-kodesh' }}
         shell: python
         run: |
           import html, os, re, urllib.parse, urllib.request
@@ -75,10 +77,9 @@ jobs:
               if label:
                   entries.append((urllib.parse.urljoin(index, html.unescape(href)), label))
           print(f'{index}: {len(page)} chars, {len(entries)} links')
-          print('\n=== entries of Nissan')
-          for url, label in entries:
-              if 'ניסן' in label:
-                  print(f'  {label[:120]}\n    {url}')
+          print('\n=== every link')
+          for url, label in entries[:400]:
+              print(f'  {label[:100]}  →  {url}')
           pat = re.compile(os.environ['MATCH'])
           chosen = [(u, l) for u, l in entries if pat.search(l)]
           if not chosen:
@@ -88,6 +89,11 @@ jobs:
               if url in seen:
                   continue
               seen.add(url)
-              t = text(get(url))
+              page2 = get(url)
+              t = text(page2)
               print(f'\n\n######## {label}\n{url}\n{len(t)} chars\n')
-              print(t[:60000])
+              print(t[:3000])
+              for href, lab in re.findall(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', page2, re.S)[:300]:
+                  lab = re.sub(r'\s+', ' ', html.unescape(re.sub('<[^>]+>', ' ', lab))).strip()
+                  if lab and ('תנש' in lab or '5751' in href or 'ניסן' in lab):
+                      print(f'    {lab[:100]}  →  {urllib.parse.urljoin(url, html.unescape(href))}')
