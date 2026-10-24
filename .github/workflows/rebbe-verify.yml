@@ -1,0 +1,67 @@
+name: Rebbe model — check the timed text with the Hebrew ear (dataset step 2)
+
+# 2026-10-24 (the owner: "Ok do it"). Run 40134706567 timed Sefer HaSichos against three recordings with
+# Meta MMS, but its scores did not separate right from wrong. ivrit.ai (WhisperX) hears each recording on its
+# own; scripts/rebbe_verify.py keeps a line only where the ear heard its letters at MMS's place, more than at
+# shifted places (chance). Leil 11 Nissan 5749 is left out: chabad.net's page for it carries the 5750 text.
+# Nothing goes to Supabase and nothing is committed; verified.json + ear-he.json per talk are artifacts.
+
+on:
+  workflow_dispatch:
+    inputs:
+      align_run:
+        description: 'The run with the textalign-* artifacts'
+        default: '40134706567'
+  push:
+    branches: [claude/sweet-brahmagupta-4larfi]
+    paths: [.github/workflows/rebbe-verify.yml]
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - {name: leil-11-nissan-5750, match: '^28_Leil_Yud_Alef_Nissan_5750'}
+          - {name: leil-11-nissan-5751, match: '^29_Leil_Yud_Alef_Nissan_5751'}
+          - {name: erev-pesach-5751, match: '^7_Erev_Pesach_5751'}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Cache the model and the wheels
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/pip
+            ~/.cache/torch
+          key: stt-whisperx-ivrit-v1
+      - name: Install WhisperX
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet whisperx
+      - uses: actions/download-artifact@v4
+        with:
+          name: textalign-${{ matrix.name }}
+          path: out/textalign
+          run-id: ${{ inputs.align_run || '40134706567' }}
+          github-token: ${{ github.token }}
+      - name: ${{ matrix.name }} — the ear against the timed text
+        env:
+          PYTHONPATH: scripts
+        run: python -u scripts/rebbe_verify.py --aligned out/textalign/aligned.json --match '${{ matrix.match }}' --out out/verify
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: verify-${{ matrix.name }}
+          path: |
+            out/verify/verified.json
+            out/verify/ear-he.json
