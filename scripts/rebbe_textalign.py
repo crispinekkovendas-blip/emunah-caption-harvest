@@ -69,8 +69,10 @@ def sicha_lines(url):
     t = re.sub(r'[ \t‎‏⁦-⁩]+', ' ', t)
     # the body: from the first section letter "א." to the editors' note / the addendum / the footnotes
     start = re.search(r'(?m)^\s*א\.\s', t)
+    if not start:  # a short bracha has no sections: the first long paragraph of Hebrew letters
+        start = next((m for m in re.finditer(r'(?m)^.+$', t) if len(re.findall(r'[א-ת]', m.group())) >= 150), None)
     if not start:
-        raise SystemExit('no "א." in the page')
+        raise SystemExit('no "א." and no long paragraph in the page')
     body = t[start.start():]
     end = re.search(r'(?m)^\s*(הוספה|הערות)\s*$|\[כ"ק אדמו"ר', body)
     body = body[: end.start()] if end else body

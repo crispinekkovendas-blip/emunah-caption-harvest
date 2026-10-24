@@ -1,0 +1,55 @@
+name: Rebbe model — the paired talks timed by Meta MMS (dataset step 1)
+
+# 2026-10-24 (the owner: "We need to train our own model to hear the Lubavitcher Rebbe"; Kaggle, own use only).
+# The talks that have both a recording on archive.org (rebbe-chabad) and the Rebbe's edited Yiddish on
+# chabad.net (Sefer HaSichos 5749–5752). Each pair is timed line by line (scripts/rebbe_textalign.py); the
+# logs show how many lines land with a good score — the minutes the training set can start from.
+# Nothing goes to Supabase and nothing is committed; aligned.json per pair is an artifact.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [claude/sweet-brahmagupta-4larfi]
+    paths: [.github/workflows/rebbe-textalign-pairs.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  align:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - {name: leil-11-nissan-5749, match: '^24_Leil_Yud_Alef_Nissan_5749', text: 'https://chabad.net/read/shs-5749-002'}
+          - {name: leil-11-nissan-5750, match: '^28_Leil_Yud_Alef_Nissan_5750', text: 'https://chabad.net/read/shs-5750-032'}
+          - {name: leil-11-nissan-5751, match: '^29_Leil_Yud_Alef_Nissan_5751', text: 'https://chabad.net/read/shs-5751-033'}
+          - {name: erev-pesach-5751, match: '^7_Erev_Pesach_5751', text: 'https://chabad.net/read/shs-5751-036'}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Cache the model and the wheels
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/torch
+            ~/.cache/pip
+          key: mms-fa-v1
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet torch==2.5.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install --quiet numpy soundfile uroman
+      - name: ${{ matrix.name }}
+        env:
+          PYTHONPATH: scripts
+        run: python -u scripts/rebbe_textalign.py --item rebbe-chabad --match '${{ matrix.match }}' --text-url '${{ matrix.text }}' --out out/textalign
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: textalign-${{ matrix.name }}
+          path: out/textalign/aligned.json
