@@ -17,6 +17,8 @@ video-batches/stt-test/rebbe/.
   python scripts/rebbe_test.py retime --out out/rebbe          (Meta MMS, Yiddish romanization)
   python scripts/rebbe_test.py stt --lang de|he --anti-loop    (the "two ears" passes, WhisperX, 2026-10-24)
   python scripts/rebbe_test.py merge  --out out/rebbe          (German lines + the Hebrew words heard with them)
+  python scripts/rebbe_test.py clean | mms | stt --lang en --prompt   (four ears: Demucs, Meta MMS Yiddish,
+                                                               WhisperX translate, the vocabulary prompt)
 """
 import argparse
 import json
@@ -230,6 +232,18 @@ PASSES = {
     'yi': ('large-v3', 'he'),
     'de': ('large-v3', 'de'),
     'he': ('ivrit-ai/whisper-large-v3-turbo-ct2', 'he'),
+    # four ears (2026-10-24, the owner: "do it now the other ears"): Whisper's own translation into English
+    # (task translate from Yiddish) — the meaning as a cross-check; no word aligner (English words, Yiddish audio)
+    'en': ('large-v3', None),
+}
+# the vocabulary prompt: Whisper spells the words it was shown far more often (Chabad terms, the sicha's date)
+PROMPTS = {
+    'de': 'Der Rebbe redt Jiddisch: Chassidus, Moschiach, Gemore, Rambam, Sohar, Toyre, Mitzve, Schabbes, '
+          'Jud-Alef Nissen, Jud-Gimel Nissen, Tzemach Tzedek, Rebbe Maharasch, mimale mekoymo, Farbrengen, Ma\'amer.',
+    'he': 'הרבי מליובאוויטש בשיחה: חסידות, משיח, גמרא, רמב"ם, זוהר, תורה, מצוה, שבת, י"א ניסן, י"ג ניסן, '
+          'הצמח צדק, ממלא מקומו, תפילת ערבית, התוועדות, מאמר.',
+    'en': 'The Lubavitcher Rebbe speaks: Chassidus, Moshiach, Gemara, Rambam, Zohar, Torah, mitzvah, Shabbos, '
+          '11 Nissan, 13 Nissan, the Tzemach Tzedek, Rebbe Maharash, farbrengen, maamar.',
 }
 # run 6 filled ~4 min with loops ("אין אין אין…"): faster-whisper's own guards against repetition
 ANTI_LOOP = {'repetition_penalty': 1.15, 'no_repeat_ngram_size': 4, 'compression_ratio_threshold': 2.2,
@@ -246,8 +260,13 @@ def stt(a):
     wav = load_wav(os.path.join(a.out, 'clip.opus'))
     dur = len(wav) / SR
     t = time.time()
-    kw = dict(compute_type='int8', language=a.lang)
-    opts = ANTI_LOOP if a.anti_loop else None
+    translate = a.lang == 'en'
+    kw = dict(compute_type='int8', language='yi' if translate else a.lang)
+    if translate:
+        kw['task'] = 'translate'
+    opts = dict(ANTI_LOOP) if a.anti_loop else None
+    if a.prompt:
+        opts = {**(opts or {}), 'initial_prompt': PROMPTS[a.lang]}
     model = None
     for extra in ({'vad_method': 'silero', 'asr_options': opts}, {'asr_options': opts}, {'vad_method': 'silero'}, {}):
         extra = {k: v for k, v in extra.items() if v is not None}
@@ -257,8 +276,18 @@ def stt(a):
             break
         except (TypeError, ValueError) as err:
             print(f'WhisperX load_model {sorted(extra)} refused: {err}')
-    res = model.transcribe(wav, batch_size=8, language=a.lang)
+    res = model.transcribe(wav, batch_size=8, language=kw['language'], **({'task': 'translate'} if translate else {}))
     t_asr = time.time() - t
+    if translate:  # English text over Yiddish audio: the segments' own times, no word aligner
+        cues = [[round(sg['start'], 2), round(sg['end'], 2), sg['text'].strip()] for sg in res['segments'] if sg['text'].strip()]
+        doc = {'lang': 'en', 'task': 'translate from yi', 'model': model_name, 'anti_loop': bool(a.anti_loop), 'prompt': bool(a.prompt),
+               'duration': round(dur), 'asr_s': round(t_asr), 'words': sum(len(c[2].split()) for c in cues), 'cues': cues,
+               'word_times': []}
+        json.dump(doc, open(os.path.join(a.out, 'stt-en.json'), 'w', encoding='utf8'), ensure_ascii=False)
+        print(f'{dur / 60:.1f} min → {len(cues)} English segments; ASR {t_asr:.0f}s')
+        for c in cues[:25]:
+            print(f'  {c[0]:7.2f} {c[1]:7.2f}  {c[2]}')
+        return
     am, meta = whisperx.load_align_model(language_code=align_lang, device='cpu')
     t = time.time()
     al = whisperx.align(res['segments'], am, meta, wav, 'cpu', return_char_alignments=False)
@@ -269,7 +298,7 @@ def stt(a):
     placed = sum(1 for sg in al['segments'] for w in sg.get('words', []) if 'start' in w)
     total = sum(len(sg.get('words', [])) for sg in al['segments'])
     doc = {
-        'lang': a.lang, 'model': model_name, 'aligner': f'whisperx wav2vec2 ({align_lang})', 'anti_loop': bool(a.anti_loop),
+        'lang': a.lang, 'model': model_name, 'aligner': f'whisperx wav2vec2 ({align_lang})', 'anti_loop': bool(a.anti_loop), 'prompt': bool(a.prompt),
         'duration': round(dur), 'asr_s': round(t_asr), 'align_s': round(t_al), 'words': total, 'words_placed': placed,
         'cues': cues, 'word_times': words,
     }
@@ -278,6 +307,78 @@ def stt(a):
     print(f'{dur / 60:.1f} min → {len(cues)} cues, {placed}/{total} words placed by the aligner; ASR {t_asr:.0f}s, align {t_al:.0f}s')
     for c in cues[:25]:
         print(f'  {c[0]:7.2f} {c[1]:7.2f}  {c[2]}')
+
+
+def mms(a):
+    """Meta MMS speech recognition with its Yiddish adapter (facebook/mms-1b-all, target 'yid'): letter by letter
+    from the sounds (CTC), so it cannot loop or invent sentences — the tie-breaker between the German and the
+    Hebrew ears. 20 s windows; word times from the CTC frames (20 ms each)."""
+    import numpy as np
+    import torch
+    from transformers import AutoProcessor, Wav2Vec2ForCTC
+
+    from transcribe import load_wav
+
+    wav = load_wav(os.path.join(a.out, 'clip.opus'))
+    dur = len(wav) / SR
+    t = time.time()
+    proc = model = None
+    for code in ('yid', 'ydd'):  # Yiddish, or Eastern Yiddish, whichever adapter MMS has
+        try:
+            proc = AutoProcessor.from_pretrained('facebook/mms-1b-all', target_lang=code)
+            model = Wav2Vec2ForCTC.from_pretrained('facebook/mms-1b-all', target_lang=code, ignore_mismatched_sizes=True)
+            print(f'MMS adapter: {code}')
+            break
+        except Exception as err:
+            print(f'MMS adapter {code}: {str(err)[:200]}')
+    if model is None:
+        raise SystemExit('MMS has no Yiddish adapter')
+    model.eval()
+    torch.set_num_threads(os.cpu_count() or 4)
+    step = 20 * SR
+    words = []
+    with torch.inference_mode():
+        for s0 in range(0, len(wav), step):
+            x = wav[s0:s0 + step]
+            if len(x) < SR // 2 or float(np.abs(x).max()) < 1e-3:
+                continue
+            inp = proc(x, sampling_rate=SR, return_tensors='pt')
+            ids = torch.argmax(model(**inp).logits, dim=-1)[0]
+            out = proc.tokenizer.decode(ids, output_word_offsets=True)
+            fps = ids.shape[0] / (len(x) / SR)
+            for w in out.word_offsets:
+                words.append([round(s0 / SR + w['start_offset'] / fps, 2), round(s0 / SR + w['end_offset'] / fps, 2), w['word']])
+    t_asr = time.time() - t
+    # cues of ≤ 6 s / ≤ 90 characters, like the others, for reading
+    cues, cur = [], None
+    for ws, we, w in words:
+        if cur and (we - cur[0] > 6 or len(cur[2]) + len(w) > 90 or ws - cur[1] > 0.8):
+            cues.append(cur)
+            cur = None
+        cur = [ws, we, w] if cur is None else [cur[0], we, cur[2] + ' ' + w]
+    if cur:
+        cues.append(cur)
+    doc = {'lang': 'yi', 'model': f'facebook/mms-1b-all ({code} adapter)', 'duration': round(dur), 'asr_s': round(t_asr),
+           'words': len(words), 'cues': cues, 'word_times': words}
+    json.dump(doc, open(os.path.join(a.out, 'stt-mms.json'), 'w', encoding='utf8'), ensure_ascii=False)
+    print(f'{dur / 60:.1f} min → {len(words)} words, {len(cues)} cues; {t_asr:.0f}s')
+    for c in cues[:25]:
+        print(f'  {c[0]:7.2f} {c[1]:7.2f}  {c[2]}')
+
+
+def clean(a):
+    """Demucs (htdemucs, two stems): the Rebbe's voice apart from the crowd and the niggunim; clip.opus becomes
+    the voice, the original is kept as clip-raw.opus"""
+    raw = os.path.join(a.out, 'clip.opus')
+    wav_in = os.path.join(a.out, 'clip.wav')
+    subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', raw, '-ac', '2', '-ar', '44100', wav_in], check=True)
+    t = time.time()
+    subprocess.run(['python', '-m', 'demucs', '--two-stems=vocals', '-n', 'htdemucs', '-d', 'cpu', '-o', os.path.join(a.out, 'sep'), wav_in], check=True)
+    voice = os.path.join(a.out, 'sep', 'htdemucs', 'clip', 'vocals.wav')
+    os.replace(raw, os.path.join(a.out, 'clip-raw.opus'))
+    subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', voice, '-ac', '1', '-ar', str(SR), '-c:a', 'libopus', '-b:a', '32k', raw], check=True)
+    subprocess.run(['rm', '-rf', os.path.join(a.out, 'sep'), wav_in])
+    print(f'Demucs: the voice separated in {time.time() - t:.0f}s')
 
 
 def merge(a):
@@ -312,12 +413,40 @@ def merge(a):
             groups.append([ws, we, [w]])
     lines += [(g[0], g[1], '', ' '.join(g[2])) for g in groups]
     lines.sort(key=lambda x: x[0])
+    # the other ears, when they ran: Meta MMS Yiddish words by time, Whisper's English by overlap
+    extra = {}
+    for key, name in (('mms', 'stt-mms.json'), ('en', 'stt-en.json')):
+        f = os.path.join(a.out, name)
+        if os.path.exists(f):
+            extra[key] = json.load(open(f, encoding='utf8'))
+    ears = {}
+    for key, doc in extra.items():
+        items = doc['word_times'] if key == 'mms' else doc['cues']
+        per = [[] for _ in lines]
+        for ws, we, w in items:
+            mid = (ws + we) / 2
+            best = None
+            for n, (s, e, _, _) in enumerate(lines):
+                if s - 0.4 <= mid <= e + 0.4 or (key == 'en' and ws < e and we > s):
+                    best = n
+                    if key == 'mms':
+                        break
+                    per[n].append(w)
+            if key == 'mms' and best is not None:
+                per[best].append(w)
+        ears[key] = per
     out = [src.get('title', ''), 'parts: ' + ' · '.join(f'{clock(p["start_s"])} {p["title"]} ({p["file"]})' for p in src.get('parts', [])),
-           f'DE = WhisperX {de["model"]} (German) · HE = WhisperX {he["model"]} (Hebrew) · anti-loop {de.get("anti_loop")}', '']
+           f'DE = WhisperX {de["model"]} (German) · HE = WhisperX {he["model"]} (Hebrew) · anti-loop {de.get("anti_loop")} · prompt {de.get("prompt")}'
+           + (' · MMS = Meta MMS Yiddish' if 'mms' in ears else '') + (' · EN = WhisperX translate' if 'en' in ears else '')
+           + (' · audio cleaned by Demucs' if os.path.exists(os.path.join(a.out, 'clip-raw.opus')) else ''), '']
     for n, (s, e, t, h) in enumerate(lines):
         out.append(f'{n}|{clock(s)}-{clock(e)}')
         out.append(f'  DE: {t}')
         out.append(f'  HE: {h}')
+        if 'mms' in ears:
+            out.append(f'  MMS: {" ".join(ears["mms"][n])}')
+        if 'en' in ears:
+            out.append(f'  EN: {" / ".join(dict.fromkeys(ears["en"][n]))}')
     text = '\n'.join(out) + '\n'
     open(os.path.join(a.out, 'merged.txt'), 'w', encoding='utf8').write(text)
     print(f'DE {len(frame)} cues ({de["words"]} words, ASR {de["asr_s"]}s) · HE {len(he["cues"])} cues ({he["words"]} words, ASR {he["asr_s"]}s) · {len(groups)} Hebrew-only lines')
@@ -369,7 +498,8 @@ def retime(a):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('step', choices=['fetch', 'stt', 'retime', 'merge'])
+    ap.add_argument('step', choices=['fetch', 'stt', 'retime', 'merge', 'mms', 'clean'])
+    ap.add_argument('--prompt', action='store_true', help='stt: the vocabulary prompt (PROMPTS)')
     ap.add_argument('--lang', default='yi', choices=sorted(PASSES))
     ap.add_argument('--anti-loop', action='store_true')
     ap.add_argument('--url', default='')
@@ -379,7 +509,7 @@ def main():
     ap.add_argument('--out', default='out/rebbe')
     ap.add_argument('--list', action='store_true', help='fetch: only list archive.org candidates')
     a = ap.parse_args()
-    {'fetch': fetch, 'stt': stt, 'retime': retime, 'merge': merge}[a.step](a)
+    {'fetch': fetch, 'stt': stt, 'retime': retime, 'merge': merge, 'mms': mms, 'clean': clean}[a.step](a)
 
 
 if __name__ == '__main__':

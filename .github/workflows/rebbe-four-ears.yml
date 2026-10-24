@@ -1,0 +1,181 @@
+name: Rebbe test — four ears (Demucs + WhisperX German/Hebrew/translate + Meta MMS Yiddish)
+
+# 2026-10-24 (the owner: "do it now the other ears, don't wait"). The two-ears run (rebbe-two-ears.yml) plus:
+#   · Demucs first: the Rebbe's voice apart from the crowd and the niggunim (every ear hears the clean voice);
+#   · the vocabulary prompt on every WhisperX pass (Chabad terms, the sicha's date);
+#   · WhisperX translate: Whisper's own English for each stretch — the meaning as a cross-check;
+#   · Meta MMS speech recognition, Yiddish adapter: letter by letter from the sounds — it cannot loop.
+# Then the German lines with what the other three ears heard in the same seconds, printed in the merge job's
+# log for Claude to curate. Nothing goes to Supabase and nothing is committed. See scripts/rebbe_test.py.
+
+on:
+  workflow_dispatch:
+    inputs:
+      item:
+        description: 'archive.org identifiers, comma separated'
+        default: 'youtube-c3zlbxSQrx0,We-want-moshiach-now,youtube-gHmKY_YnF14,rebbe-chabad'
+      minutes:
+        description: 'Minutes transcribed'
+        default: '20'
+  push:
+    branches: [claude/sweet-brahmagupta-4larfi]
+    paths: [.github/workflows/rebbe-four-ears.yml]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: rebbe-four-ears
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+      - name: The Rebbe's audio (same clip as run 6 and the two-ears run)
+        run: python -u scripts/rebbe_test.py fetch --item "${{ inputs.item || 'youtube-c3zlbxSQrx0,We-want-moshiach-now,youtube-gHmKY_YnF14,rebbe-chabad' }}" --minutes ${{ inputs.minutes || '20' }} --out out/rebbe
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rebbe-audio-raw
+          path: out/rebbe
+
+  clean:
+    needs: fetch
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Cache Demucs
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/torch
+            ~/.cache/pip
+          key: demucs-htdemucs-v1
+      - name: Install Demucs
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet torch==2.5.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install --quiet demucs soundfile
+      - uses: actions/download-artifact@v4
+        with:
+          name: rebbe-audio-raw
+          path: out/rebbe
+      - name: Demucs — the voice apart from the crowd and the singing
+        run: python -u scripts/rebbe_test.py clean --out out/rebbe
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rebbe-audio
+          path: out/rebbe
+
+  whisperx:
+    needs: clean
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      matrix:
+        lang: [de, he, en]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Cache the model and the wheels
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/pip
+            ~/.cache/torch
+          key: ${{ matrix.lang == 'he' && 'stt-whisperx-ivrit-v1' || 'stt-whisperx-yi-v1' }}
+      - name: Install WhisperX
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet whisperx
+      - uses: actions/download-artifact@v4
+        with:
+          name: rebbe-audio
+          path: out/rebbe
+      - name: WhisperX (${{ matrix.lang }}${{ matrix.lang == 'en' && ', translate from Yiddish' || '' }})
+        env:
+          PYTHONPATH: scripts
+        run: python -u scripts/rebbe_test.py stt --lang ${{ matrix.lang }} --anti-loop --prompt --out out/rebbe
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rebbe-stt-${{ matrix.lang }}
+          path: out/rebbe/stt-${{ matrix.lang }}.json
+
+  mms:
+    needs: clean
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Cache the model and the wheels
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/pip
+          key: mms-1b-all-yid-v1
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install --quiet "transformers>=4.40,<5" numpy
+      - uses: actions/download-artifact@v4
+        with:
+          name: rebbe-audio
+          path: out/rebbe
+      - name: Meta MMS — Yiddish adapter
+        env:
+          PYTHONPATH: scripts
+          SUPABASE_URL: http://unused
+          SUPABASE_SERVICE_KEY: unused
+        run: python -u scripts/rebbe_test.py mms --out out/rebbe
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rebbe-stt-mms
+          path: out/rebbe/stt-mms.json
+
+  merge:
+    needs: [whisperx, mms]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          name: rebbe-audio
+          path: out/rebbe
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: rebbe-stt-*
+          path: out/rebbe
+          merge-multiple: true
+      - name: German lines + what the other ears heard with them
+        run: python -u scripts/rebbe_test.py merge --out out/rebbe
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rebbe-merged
+          path: |
+            out/rebbe/merged.txt
+            out/rebbe/stt-*.json
+            out/rebbe/source.json
