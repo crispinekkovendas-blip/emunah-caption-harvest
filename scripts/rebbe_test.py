@@ -81,8 +81,10 @@ def seconds(length):
 
 
 def pick_archive(item, min_s):
-    """the first archive.org recording of the Rebbe long enough for the clip"""
+    """the first archive.org recording of the Rebbe long enough for the clip (a named item: any length — the
+    Rebbe's JEM clips are a few minutes long, and the run before skipped them for a Drupal talk by a Guy Schneerson)"""
     if item:
+        min_s = 60
         ids = [item]
     else:
         seen = {}
@@ -141,8 +143,15 @@ def fetch(a):
                 if not b:
                     break
                 f.write(b)
+    total = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', raw],
+                                 capture_output=True, text=True).stdout.strip() or 0)
+    if total and total < a.offset + 120:  # a short recording is taken whole
+        a.offset = 0
+    if total:
+        a.minutes = round(min(a.minutes, (total - a.offset) / 60), 2)
+    src['length_s'] = round(total)
     clip = os.path.join(a.out, 'clip.opus')
-    subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-ss', str(a.offset), '-t', str(a.minutes * 60), '-i', raw,
+    subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-ss', str(a.offset), '-t', str(a.minutes * 60), '-i', raw, '-vn',
                     '-ac', '1', '-ar', str(SR), '-c:a', 'libopus', '-b:a', '32k', clip], check=True)
     os.remove(raw)
     src.update({'clip_offset_s': a.offset, 'clip_minutes': a.minutes})
