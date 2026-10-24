@@ -96,8 +96,13 @@ def load():
     uro = ur.Uroman()
 
 
+# uroman's language for the lesson being aligned: Hebrew, or Yiddish (the Rebbe's sichos, 2026-10-24 —
+# same letters, but װ ײ ױ and the pointed alefs are read the Yiddish way)
+LCODE = 'heb'
+
+
 def words_of(text):
-    r = uro.romanize_string(text, lcode='heb').lower()
+    r = uro.romanize_string(text, lcode=LCODE).lower()
     r = re.sub(r"[’`]", "'", r)
     out = []
     for w in r.split():
@@ -164,6 +169,7 @@ def align(cues, wav):
 
 
 def main():
+    global LCODE
     ap = argparse.ArgumentParser()
     ap.add_argument('--ids', required=True)
     ap.add_argument('--publish', action='store_true')
@@ -178,6 +184,7 @@ def main():
         if not row or not row.get('cues'):
             print(f'{vid}: no transcript')
             continue
+        LCODE = 'yid' if row.get('lang') == 'yi' else 'heb'
         old = row.get('cuesOrig') or row['cues']  # always align the ORIGINAL times
         with tempfile.TemporaryDirectory() as tmp:
             wav = audio_of(vid, tmp)
