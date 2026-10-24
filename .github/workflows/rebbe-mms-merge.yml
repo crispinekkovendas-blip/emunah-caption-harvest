@@ -1,0 +1,90 @@
+name: Rebbe test — Meta MMS Yiddish + merge on a finished four-ears run
+
+# 2026-10-24: the four-ears run's MMS job failed at once (transformers needed protobuf for the MMS tokenizer).
+# Rather than run Demucs and the three WhisperX passes again, this takes that run's clean audio and passes
+# (artifacts), runs Meta MMS (Yiddish adapter) and merges the four ears, printed in the log.
+#
+#   gh workflow run rebbe-mms-merge.yml --ref <branch> -f run_id=<four-ears run id>
+
+on:
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: 'The four-ears run whose artifacts are used'
+        required: true
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  mms:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Cache the model and the wheels
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/pip
+          key: mms-1b-all-yid-v1
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install --quiet "transformers>=4.40,<5" numpy protobuf sentencepiece
+      - uses: actions/download-artifact@v4
+        with:
+          name: rebbe-audio
+          path: out/rebbe
+          run-id: ${{ inputs.run_id }}
+          github-token: ${{ github.token }}
+      - name: Meta MMS — Yiddish adapter
+        env:
+          PYTHONPATH: scripts
+          SUPABASE_URL: http://unused
+          SUPABASE_SERVICE_KEY: unused
+        run: python -u scripts/rebbe_test.py mms --out out/rebbe
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rebbe-stt-mms
+          path: out/rebbe/stt-mms.json
+
+  merge:
+    needs: mms
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          name: rebbe-audio
+          path: out/rebbe
+          run-id: ${{ inputs.run_id }}
+          github-token: ${{ github.token }}
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: rebbe-stt-*
+          path: out/rebbe
+          merge-multiple: true
+          run-id: ${{ inputs.run_id }}
+          github-token: ${{ github.token }}
+      - uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: rebbe-stt-mms
+          path: out/rebbe
+      - name: German lines + what the other three ears heard with them
+        run: python -u scripts/rebbe_test.py merge --out out/rebbe
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rebbe-merged-4
+          path: out/rebbe/merged.txt
