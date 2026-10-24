@@ -1,6 +1,6 @@
 name: Rebbe test — Meta MMS Yiddish + merge on a finished four-ears run
 
-# 2026-10-24: the four-ears run's MMS job failed at once (transformers needed protobuf for the MMS tokenizer).
+# 2026-10-24 (run 2: MMS has no Yiddish adapter — the Hebrew one is used). The four-ears run's MMS job failed at once (transformers needed protobuf for the MMS tokenizer).
 # Rather than run Demucs and the three WhisperX passes again, this takes that run's clean audio and passes
 # (artifacts), runs Meta MMS (Yiddish adapter) and merges the four ears, printed in the log.
 #

@@ -323,16 +323,25 @@ def mms(a):
     dur = len(wav) / SR
     t = time.time()
     proc = model = None
-    for code in ('yid', 'ydd'):  # Yiddish, or Eastern Yiddish, whichever adapter MMS has
+    # Yiddish, Eastern Yiddish — then Hebrew: run 1 found MMS has no Yiddish adapter ('yid' / 'ydd' unknown);
+    # its Hebrew one still writes the sounds in Hebrew letters, letter by letter, without loops
+    for code in ('yid', 'ydd', 'heb'):
         try:
             proc = AutoProcessor.from_pretrained('facebook/mms-1b-all', target_lang=code)
             model = Wav2Vec2ForCTC.from_pretrained('facebook/mms-1b-all', target_lang=code, ignore_mismatched_sizes=True)
             print(f'MMS adapter: {code}')
             break
         except Exception as err:
-            print(f'MMS adapter {code}: {str(err)[:200]}')
+            print(f'MMS adapter {code}: {type(err).__name__} {str(err)[:200]}')
     if model is None:
-        raise SystemExit('MMS has no Yiddish adapter')
+        try:
+            import json as _j
+            from huggingface_hub import hf_hub_download
+            vocab = _j.load(open(hf_hub_download('facebook/mms-1b-all', 'vocab.json')))
+            print('MMS languages starting with y / h:', sorted(k for k in vocab if k[:1] in 'yh'))
+        except Exception as err:
+            print(f'(could not list the MMS languages: {err})')
+        raise SystemExit('MMS: no Yiddish or Hebrew adapter')
     model.eval()
     torch.set_num_threads(os.cpu_count() or 4)
     step = 20 * SR
