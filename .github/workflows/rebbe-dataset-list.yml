@@ -1,0 +1,65 @@
+name: Rebbe model — list recordings and texts
+
+# 2026-10-24 (the owner: "train our own model to hear the Lubavitcher Rebbe"; GPU: Kaggle free; the recordings
+# for this project's own use). Step 1 of the training data: what audio there is (archive.org) and which talks
+# have the Rebbe's own edited Yiddish (Sefer HaSichos on chabad.net, 7 volumes), so recordings can be paired with
+# texts by date. Prints both lists; nothing is stored.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [claude/sweet-brahmagupta-4larfi]
+    paths: [.github/workflows/rebbe-dataset-list.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Recordings and texts
+        shell: python
+        run: |
+          import html, json, re, urllib.parse, urllib.request
+          UA = {'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'}
+          def get(url):
+              with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as r:
+                  return r.read().decode('utf8', 'replace')
+          print('##### archive.org recordings of the Rebbe')
+          for item in ('rebbe-chabad', 'Lubavitcher_Rebbe'):
+              try:
+                  meta = json.loads(get(f'https://archive.org/metadata/{item}'))
+              except Exception as err:
+                  print(f'{item}: {err}'); continue
+              files = [f for f in meta.get('files', []) if f.get('name', '').lower().endswith(('.mp4', '.mp3', '.webm', '.ogg', '.m4a', '.mkv', '.avi', '.flac', '.wav'))]
+              stems = {}
+              for f in files:
+                  stems.setdefault(f['name'].rsplit('.', 1)[0], f)
+              total = sum(float(f.get('length') or 0) for f in stems.values() if str(f.get('length', '')).replace('.', '').isdigit())
+              print(f'\n{item}: "{meta.get("metadata", {}).get("title", "")}" — {len(stems)} recordings, ~{total / 3600:.1f} h with known length')
+              for stem, f in sorted(stems.items()):
+                  print(f'  {stem}  ({f.get("length", "?")} s)')
+          print('\n\n##### Sefer HaSichos on chabad.net (the Rebbe\'s edited Yiddish)')
+          base = 'https://chabad.net/library/sefer-hasichos'
+          page = get(base)
+          vols = sorted(set(re.findall(r'volume=(\d{4})(?:&amp;|&)part=(\d)', page)) | set((v, '') for v in re.findall(r'volume=(\d{4})(?!(?:&amp;|&)part)', page)))
+          print('volumes:', vols)
+          seen = set()
+          for v, p in vols:
+              url = f'{base}?facet=chalakim&volume={v}' + (f'&part={p}' if p else '')
+              try:
+                  pg = get(url)
+              except Exception as err:
+                  print(f'{url}: {err}'); continue
+              for href, lab in re.findall(r'<a[^>]+href="(/read/shs-[^"]+)"[^>]*>(.*?)</a>', pg, re.S):
+                  if href in seen:
+                      continue
+                  seen.add(href)
+                  lab = re.sub(r'\s+', ' ', html.unescape(re.sub('<[^>]+>', ' ', lab))).strip()
+                  print(f'  {v}{"/" + p if p else ""}  https://chabad.net{href}  {lab[:110]}')
+          print(f'\n{len(seen)} talks')
