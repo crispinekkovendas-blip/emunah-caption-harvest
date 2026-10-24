@@ -4,7 +4,13 @@ transcribe.py — Hebrew transcripts for the lessons YouTube never captioned (20
 runners; the audio comes from the owner's computer through the draft release stt-queue (YouTube refuses
 the runners).
 
-  python scripts/transcribe.py --lane N --lanes L [--budget-min 230] [--ids a,b]
+  python scripts/transcribe.py --lane N --lanes L [--budget-min 230] [--ids a,b] [--lang he|yi] [--out DIR]
+
+2026-10-24 (the owner: "try to transcribe the Lubavitcher Rebbe's shiurim, with one"): --lang yi for the
+Rebbe's sichos, which are in Yiddish. ivrit.ai's model knows only Hebrew and writes Yiddish as invented
+Hebrew, so Yiddish takes OpenAI's large-v3 (Yiddish is one of its languages) with the same Hebrew-script
+aligner; its audio waits in its own draft release stt-queue-yi, so the hourly Hebrew lanes never take it.
+The document says lang yi — the Hebrew translation batches (batch-make: lang he only) leave it alone.
 
 2026-10-19, after a test on 12 min of Rav Meir Eliyahu (compare_stt.py, run 39248751695): WhisperX with
 ivrit.ai's model ("B") wrote the Hebrew best (12.9 % apart from YouTube's automatic captions, and right
@@ -28,8 +34,13 @@ import urllib.request
 SUPA = os.environ['SUPABASE_URL'].rstrip('/')
 KEY = os.environ['SUPABASE_SERVICE_KEY']
 H = {'apikey': KEY, 'authorization': f'Bearer {KEY}'}
-MODEL = os.environ.get('STT_MODEL', 'ivrit-ai/whisper-large-v3-turbo-ct2')
 REPO = os.environ.get('GITHUB_REPOSITORY', '')
+# language → (Whisper model, source tag); the aligner is the Hebrew one for both (same alphabet: a Yiddish
+# letter it does not know — װ ײ ױ, pointed alefs — leaves that word with its neighbours' time)
+LANGS = {
+    'he': ('ivrit-ai/whisper-large-v3-turbo-ct2', 'whisperx:ivrit-ai'),
+    'yi': ('large-v3', 'whisperx:large-v3'),
+}
 
 
 def kv_has(key):
@@ -113,8 +124,8 @@ def segments_of(segs):
     return out
 
 
-def queue_ids():
-    out = subprocess.run(['gh', 'release', 'view', 'stt-queue', '--repo', REPO, '--json', 'assets', '-q', '.assets[].name'], capture_output=True, text=True)
+def queue_ids(queue):
+    out = subprocess.run(['gh', 'release', 'view', queue, '--repo', REPO, '--json', 'assets', '-q', '.assets[].name'], capture_output=True, text=True)
     return [n[:-5] for n in out.stdout.split() if n.endswith('.opus')]
 
 
@@ -124,18 +135,23 @@ def main():
     ap.add_argument('--lanes', type=int, default=4)
     ap.add_argument('--budget-min', type=float, default=230)
     ap.add_argument('--ids', default='')
+    ap.add_argument('--lang', default='he', choices=sorted(LANGS))
+    ap.add_argument('--out', default='', help='also write each document here as <id>.json')
     a = ap.parse_args()
+    model_name, source = LANGS[a.lang]
+    model_name = os.environ.get('STT_MODEL') or model_name
+    queue = 'stt-queue' if a.lang == 'he' else f'stt-queue-{a.lang}'
     t0 = time.time()
-    ids = [x for x in a.ids.split(',') if x] if a.ids else [v for v in queue_ids() if lane_of(v, a.lanes) == a.lane - 1]
+    ids = [x for x in a.ids.split(',') if x] if a.ids else [v for v in queue_ids(queue) if lane_of(v, a.lanes) == a.lane - 1]
     print(f'lane {a.lane}: {len(ids)} lessons waiting')
     if not ids:
         return
     import whisperx
 
     try:
-        model = whisperx.load_model(MODEL, 'cpu', compute_type='int8', language='he', vad_method='silero')
+        model = whisperx.load_model(model_name, 'cpu', compute_type='int8', language=a.lang, vad_method='silero')
     except TypeError:
-        model = whisperx.load_model(MODEL, 'cpu', compute_type='int8', language='he')
+        model = whisperx.load_model(model_name, 'cpu', compute_type='int8', language=a.lang)
     am, meta = whisperx.load_align_model(language_code='he', device='cpu')
     os.makedirs('audio', exist_ok=True)
     for vid in ids:
@@ -144,27 +160,31 @@ def main():
         t1 = time.time()
         if kv_has(f'videos/transcript/{vid}'):
             print(f'{vid}: already has a transcript — leaving the queue')
-            subprocess.run(['gh', 'release', 'delete-asset', 'stt-queue', f'{vid}.opus', '--repo', REPO, '--yes'])
+            subprocess.run(['gh', 'release', 'delete-asset', queue, f'{vid}.opus', '--repo', REPO, '--yes'])
             continue
-        r = subprocess.run(['gh', 'release', 'download', 'stt-queue', '--repo', REPO, '-p', f'{vid}.opus', '-D', 'audio', '--clobber'])
+        r = subprocess.run(['gh', 'release', 'download', queue, '--repo', REPO, '-p', f'{vid}.opus', '-D', 'audio', '--clobber'])
         if r.returncode != 0:
             print(f'{vid}: audio not in the queue')
             continue
         wav = load_wav(f'audio/{vid}.opus')
         os.remove(f'audio/{vid}.opus')
         dur = len(wav) / 16000
-        res = model.transcribe(wav, batch_size=8, language='he')
+        res = model.transcribe(wav, batch_size=8, language=a.lang)
         al = whisperx.align(res['segments'], am, meta, wav, 'cpu', return_char_alignments=False)
         cues = cues_of(segments_of(al['segments']))
         if len(cues) < 3:
             print(f'{vid}: {len(cues)} cues for {dur:.0f}s — no speech?')
             continue
         doc = {
-            'v': 1, 'videoId': vid, 'lang': 'he', 'duration': round(dur), 'cues': cues, 'title': '', 'summary': '', 'moments': [],
-            'model': MODEL.split('/')[-1], 'source': 'whisperx:ivrit-ai', 'generated': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
+            'v': 1, 'videoId': vid, 'lang': a.lang, 'duration': round(dur), 'cues': cues, 'title': '', 'summary': '', 'moments': [],
+            'model': model_name.split('/')[-1], 'source': source, 'generated': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
         }
         kv_put(f'videos/transcript/{vid}', doc)
-        subprocess.run(['gh', 'release', 'delete-asset', 'stt-queue', f'{vid}.opus', '--repo', REPO, '--yes'])
+        if a.out:
+            os.makedirs(a.out, exist_ok=True)
+            with open(os.path.join(a.out, f'{vid}.json'), 'w', encoding='utf8') as f:
+                json.dump(doc, f, ensure_ascii=False, indent=0)
+        subprocess.run(['gh', 'release', 'delete-asset', queue, f'{vid}.opus', '--repo', REPO, '--yes'])
         el = time.time() - t1
         print(f'{vid}: {dur / 60:.1f} min → {len(cues)} cues in {el / 60:.1f} min ({dur / max(el, 1):.1f}× real time)', flush=True)
 

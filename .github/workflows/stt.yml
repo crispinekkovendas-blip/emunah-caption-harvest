@@ -6,6 +6,9 @@ name: Transcribe lessons without captions (Whisper, ivrit.ai)
 #
 #   gh workflow run stt.yml                       (all lanes)
 #   gh workflow run stt.yml -f lane=1 -f ids=abc  (a test)
+#   gh workflow run stt.yml -f lane=1 -f ids=abc -f lang=yi
+#       (2026-10-24: the Lubavitcher Rebbe's Yiddish; audio in the draft release stt-queue-yi. A run with
+#        ids also commits the transcript to video-batches/stt-test/<id>.json to be read)
 
 on:
   workflow_dispatch:
@@ -16,6 +19,9 @@ on:
       ids:
         description: 'Only these ids (a test)'
         default: ''
+      lang:
+        description: 'Spoken language: he (ivrit.ai) or yi (large-v3, audio in stt-queue-yi)'
+        default: 'he'
   schedule:
     - cron: '47 * * * *'
 
@@ -59,7 +65,7 @@ jobs:
             ~/.cache/huggingface
             ~/.cache/pip
             ~/.cache/torch
-          key: stt-whisperx-ivrit-v1
+          key: ${{ inputs.lang == 'yi' && 'stt-whisperx-yi-v1' || 'stt-whisperx-ivrit-v1' }}
       - name: Install
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
@@ -69,9 +75,18 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
-        run: python -u scripts/transcribe.py --lane ${{ inputs.lane }} --lanes 14 --budget-min 230 ${{ inputs.ids != '' && format('--ids {0}', inputs.ids) || '' }}
+        run: python -u scripts/transcribe.py --lane ${{ inputs.lane }} --lanes 14 --budget-min 230 --lang ${{ inputs.lang || 'he' }} ${{ inputs.ids != '' && format('--ids {0} --out video-batches/stt-test', inputs.ids) || '' }}
+      - name: Keep the test transcript in the repo
+        if: inputs.ids != ''
+        run: |
+          [ -d video-batches/stt-test ] || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add video-batches/stt-test
+          git commit -m "stt test: ${{ inputs.ids }} (${{ inputs.lang || 'he' }})" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
       - name: Keep the lane going while audio waits
-        if: inputs.ids == ''
+        if: inputs.ids == '' && (inputs.lang || 'he') == 'he'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
