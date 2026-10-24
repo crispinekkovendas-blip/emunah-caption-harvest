@@ -4,6 +4,9 @@ name: Rebbe test — fetch the sicha's text from chabad.net (Sefer HaSichos)
 # Sefer HaSichos 5751 (the Rebbe's edited sichos, Hebrew); chabad.org answers 403. Part 2 starts at 26 Nissan,
 # so Leil 11 Nissan is in part 1. This job reads the part's table of contents, prints every entry of Nissan,
 # follows the ones of 10–11 Nissan and prints their text in full — the reference Claude curates the ears with.
+# Run 1 found 11 Nissan (shs-5751-033, a Yiddish text, מוגה) — but the recording is Leil 13 Nissan
+# ("10_Leil_Yud_Gimmel_Nissan_5751…"; the ears heard 13 Nissan / 13 Tishrei, אחד באחד יגשו): a push reads the
+# next entries, 034–036, and prints in full the one of י"ג ניסן.
 
 on:
   workflow_dispatch:
@@ -11,6 +14,9 @@ on:
       index:
         description: 'Table of contents page'
         default: 'https://chabad.net/library/sefer-hasichos?facet=chalakim&volume=5751&part=1'
+      urls:
+        description: 'Pages to read directly, space separated (instead of the table of contents)'
+        default: ''
       match:
         description: 'Entries to follow (regex on the entry title)'
         default: 'י"א ניסן|י״א ניסן|יו"ד ניסן|יו״ד ניסן|י'' ניסן|ליל י"א|אור לי"א'
@@ -32,6 +38,7 @@ jobs:
       - name: Table of contents → the 11 Nissan sicha
         env:
           INDEX: ${{ inputs.index || 'https://chabad.net/library/sefer-hasichos?facet=chalakim&volume=5751&part=1' }}
+          URLS: ${{ inputs.urls || 'https://chabad.net/read/shs-5751-034 https://chabad.net/read/shs-5751-035 https://chabad.net/read/shs-5751-036' }}
           MATCH: ${{ inputs.match || 'י"א ניסן|י״א ניסן|יו"ד ניסן|יו״ד ניסן|י'' ניסן|ליל י"א|אור לי"א' }}
         shell: python
         run: |
@@ -46,6 +53,19 @@ jobs:
               t = html.unescape(re.sub(r'<[^>]+>', ' ', page))
               t = re.sub(r'[ \t‎‏⁦-⁩]+', ' ', t)
               return re.sub(r'\n\s*\n+', '\n', t).strip()
+          if os.environ.get('URLS', '').strip():
+              for url in os.environ['URLS'].split():
+                  try:
+                      t = text(get(url))
+                  except Exception as err:
+                      print(f'\n--- {url}: {err}')
+                      continue
+                  head = t[:400].replace('\n', ' ')
+                  full = 'י"ג ניסן' in t[:3000] or 'י״ג ניסן' in t[:3000]
+                  print(f'\n\n######## {url} · {len(t)} chars · {"13 NISSAN — full text" if full else "start"}\n{head}')
+                  if full:
+                      print('\n' + t[:80000])
+              raise SystemExit(0)
           index = os.environ['INDEX']
           page = get(index)
           links = re.findall(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', page, re.S)
