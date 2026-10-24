@@ -52,20 +52,36 @@ jobs:
               with urllib.request.urlopen(req, timeout=40) as r:
                   return r.read().decode('utf8', 'replace')
           seen = {}
+          # run 1 (DuckDuckGo html): no hits at all for any query — a bot check. Bing first, then DuckDuckGo
+          # lite; when nothing is found, the start of what came back is printed, so a refusal shows itself
+          def bing(q):
+              page = get('https://www.bing.com/search?' + urllib.parse.urlencode({'q': q, 'setlang': 'he'}))
+              hits = re.findall(r'<li class="b_algo"[^>]*>.*?<h2[^>]*><a[^>]*href="(https?://[^"]+)"[^>]*>(.*?)</a>', page, re.S)
+              return hits, page
+          def ddg_lite(q):
+              page = get('https://lite.duckduckgo.com/lite/?' + urllib.parse.urlencode({'q': q}))
+              hits = re.findall(r'<a[^>]*rel="nofollow"[^>]*href="([^"]+)"[^>]*class=.result-link.[^>]*>(.*?)</a>', page, re.S)
+              hits += re.findall(r'<a[^>]*class=.result-link.[^>]*href="([^"]+)"[^>]*>(.*?)</a>', page, re.S)
+              return hits, page
           for q in queries:
               print(f'\n=== {q}')
-              try:
-                  page = get('https://html.duckduckgo.com/html/?' + urllib.parse.urlencode({'q': q}))
-              except Exception as err:
-                  print(f'  search failed: {err}')
-                  continue
-              hits = re.findall(r'class="result__a" href="([^"]+)"[^>]*>(.*?)</a>', page)
-              for href, title in hits[:8]:
-                  m = re.search(r'uddg=([^&]+)', href)
-                  url = urllib.parse.unquote(m.group(1)) if m else href
-                  title = html.unescape(re.sub('<[^>]+>', '', title))
-                  print(f'  {title[:110]}\n    {url}')
-                  seen.setdefault(url, title)
+              for name, engine in (('bing', bing), ('ddg-lite', ddg_lite)):
+                  try:
+                      hits, page = engine(q)
+                  except Exception as err:
+                      print(f'  {name}: failed {err}')
+                      continue
+                  if not hits:
+                      snippet = re.sub(r'\s+', ' ', html.unescape(re.sub('<[^>]+>', ' ', page)))[:300]
+                      print(f'  {name}: 0 hits · page starts: {snippet}')
+                      continue
+                  for href, title in hits[:8]:
+                      m = re.search(r'uddg=([^&]+)', href)
+                      url = urllib.parse.unquote(m.group(1)) if m else html.unescape(href)
+                      title = html.unescape(re.sub('<[^>]+>', '', title)).strip()
+                      print(f'  [{name}] {title[:110]}\n    {url}')
+                      seen.setdefault(url, title)
+                  break
               time.sleep(2)
           print(f'\n\n##### the first lines of the {min(len(seen), 25)} first pages #####')
           for url, title in list(seen.items())[:25]:
