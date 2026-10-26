@@ -138,6 +138,9 @@ def main():
     ap.add_argument('--lang', default='he', choices=sorted(LANGS))
     ap.add_argument('--out', default='', help='also write each document here as <id>.json')
     ap.add_argument('--owners', type=int, default=0, help='only print the lanes (1..N) that own audio in the queue')
+    # 2026-10-25: the Emunah Shlemah site's own pipeline (emunah-shlemah-site meir-new.yml) downloads the audio on
+    # its runner and hands it here — no queue release involved
+    ap.add_argument('--audio-dir', default='', help='take <id>.opus from this folder instead of the queue release')
     a = ap.parse_args()
     model_name, source = LANGS[a.lang]
     model_name = os.environ.get('STT_MODEL') or model_name
@@ -177,14 +180,23 @@ def main():
         t1 = time.time()
         if kv_has(f'videos/transcript/{vid}'):
             print(f'{vid}: already has a transcript — leaving the queue')
-            subprocess.run(['gh', 'release', 'delete-asset', queue, f'{vid}.opus', '--repo', REPO, '--yes'])
+            if not a.audio_dir:
+                subprocess.run(['gh', 'release', 'delete-asset', queue, f'{vid}.opus', '--repo', REPO, '--yes'])
             continue
-        r = subprocess.run(['gh', 'release', 'download', queue, '--repo', REPO, '-p', f'{vid}.opus', '-D', 'audio', '--clobber'])
-        if r.returncode != 0:
-            print(f'{vid}: audio not in the queue')
-            continue
-        wav = load_wav(f'audio/{vid}.opus')
-        os.remove(f'audio/{vid}.opus')
+        if a.audio_dir:
+            src = os.path.join(a.audio_dir, f'{vid}.opus')
+            if not os.path.exists(src):
+                print(f'{vid}: no audio in {a.audio_dir}')
+                continue
+        else:
+            r = subprocess.run(['gh', 'release', 'download', queue, '--repo', REPO, '-p', f'{vid}.opus', '-D', 'audio', '--clobber'])
+            if r.returncode != 0:
+                print(f'{vid}: audio not in the queue')
+                continue
+            src = f'audio/{vid}.opus'
+        wav = load_wav(src)
+        if not a.audio_dir:
+            os.remove(src)
         dur = len(wav) / 16000
         res = model.transcribe(wav, batch_size=8, language=a.lang)
         al = whisperx.align(res['segments'], am, meta, wav, 'cpu', return_char_alignments=False)
@@ -192,7 +204,8 @@ def main():
         if len(cues) < 3:
             # no speech: out of the queue, or the lane would take it again forever
             print(f'{vid}: {len(cues)} cues for {dur:.0f}s — no speech? removed from the queue')
-            subprocess.run(['gh', 'release', 'delete-asset', queue, f'{vid}.opus', '--repo', REPO, '--yes'])
+            if not a.audio_dir:
+                subprocess.run(['gh', 'release', 'delete-asset', queue, f'{vid}.opus', '--repo', REPO, '--yes'])
             continue
         doc = {
             'v': 1, 'videoId': vid, 'lang': a.lang, 'duration': round(dur), 'cues': cues, 'title': '', 'summary': '', 'moments': [],
@@ -203,7 +216,8 @@ def main():
             os.makedirs(a.out, exist_ok=True)
             with open(os.path.join(a.out, f'{vid}.json'), 'w', encoding='utf8') as f:
                 json.dump(doc, f, ensure_ascii=False, indent=0)
-        subprocess.run(['gh', 'release', 'delete-asset', queue, f'{vid}.opus', '--repo', REPO, '--yes'])
+        if not a.audio_dir:
+            subprocess.run(['gh', 'release', 'delete-asset', queue, f'{vid}.opus', '--repo', REPO, '--yes'])
         done += 1
         el = time.time() - t1
         print(f'{vid}: {dur / 60:.1f} min → {len(cues)} cues in {el / 60:.1f} min ({dur / max(el, 1):.1f}× real time)', flush=True)
