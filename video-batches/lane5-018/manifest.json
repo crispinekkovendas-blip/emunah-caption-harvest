@@ -2,7 +2,7 @@
  "name": "lane5-018",
  "lane": 5,
  "created": "2026-10-26T14:32:47.799Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "h7OTcWqrMBc",
@@ -30,10 +30,12 @@
   "rPzH7xD04Kg.p2"
  ],
  "tries": {
-  "h7OTcWqrMBc": 2
+  "h7OTcWqrMBc": 3
  },
  "done": [
   "rPzH7xD04Kg"
  ],
- "skipped": []
+ "skipped": [
+  "h7OTcWqrMBc"
+ ]
 }
