@@ -19,5 +19,10 @@
   "Kp0epiK5LTQ.p3",
   "Kp0epiK5LTQ.p4",
   "Kp0epiK5LTQ.p5"
- ]
+ ],
+ "tries": {
+  "Kp0epiK5LTQ": 1
+ },
+ "done": [],
+ "skipped": []
 }
