@@ -1,0 +1,32 @@
+{
+ "name": "lane5-018",
+ "lane": 5,
+ "created": "2026-10-26T14:32:47.799Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "h7OTcWqrMBc",
+   "title": "Recrutar estudiosos da Torá: o erro de Avraham e de Asa",
+   "lines": 582,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "rPzH7xD04Kg",
+   "title": "A saga do Keter Aram Tzová e o Rambam",
+   "lines": 315,
+   "parts": 3,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "h7OTcWqrMBc.p0",
+  "h7OTcWqrMBc.p1",
+  "h7OTcWqrMBc.p2",
+  "h7OTcWqrMBc.p3",
+  "h7OTcWqrMBc.p4",
+  "rPzH7xD04Kg.p0",
+  "rPzH7xD04Kg.p1",
+  "rPzH7xD04Kg.p2"
+ ]
+}
