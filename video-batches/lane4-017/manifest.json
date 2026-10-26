@@ -1,0 +1,23 @@
+{
+ "name": "lane4-017",
+ "lane": 4,
+ "created": "2026-10-26T14:33:00.144Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "TjGBAhYS3vU",
+   "title": "O Islã na Europa e o plano de HaShem rumo à guerra",
+   "lines": 659,
+   "parts": 6,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "TjGBAhYS3vU.p0",
+  "TjGBAhYS3vU.p1",
+  "TjGBAhYS3vU.p2",
+  "TjGBAhYS3vU.p3",
+  "TjGBAhYS3vU.p4",
+  "TjGBAhYS3vU.p5"
+ ]
+}
