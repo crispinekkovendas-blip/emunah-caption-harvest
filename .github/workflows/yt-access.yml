@@ -1,0 +1,44 @@
+# Can a GitHub runner read YouTube? (2026-10-25: the owner wants the whole Rav Meir Eliyahu pipeline on
+# GitHub — "dont run any script in this pc") — list his channel, then download one lesson's audio, first
+# plainly, then with the bgutil proof-of-origin token server beside yt-dlp.
+name: YouTube access test
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: 'a video to download'
+        default: '8VPhFvtXMxQ'
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet -U "yt-dlp[default]" curl-cffi
+          yt-dlp --version
+      - name: List his channel (no download)
+        continue-on-error: true
+        run: yt-dlp --flat-playlist --playlist-end 5 --print "%(id)s %(duration)s %(title)s" "https://www.youtube.com/channel/UCLlBotitx4zAGffm_Wdh7Bg/videos"
+      - name: One video's page (title, date)
+        continue-on-error: true
+        run: yt-dlp --skip-download --add-header "Accept-Language:he" --print "%(upload_date)s %(title)s" "https://www.youtube.com/watch?v=${{ inputs.id }}"
+      - name: Audio, plain
+        id: plain
+        continue-on-error: true
+        run: yt-dlp -f bestaudio -x --audio-format opus -o "plain.%(ext)s" "https://www.youtube.com/watch?v=${{ inputs.id }}" && ls -la plain.*
+      - name: Audio, with the bgutil token server
+        if: steps.plain.outcome != 'success'
+        continue-on-error: true
+        run: |
+          docker run -d --name pot -p 4416:4416 brainicism/bgutil-ytdlp-pot-provider
+          python -m pip install --quiet bgutil-ytdlp-pot-provider
+          sleep 8
+          yt-dlp -v -f bestaudio -x --audio-format opus -o "pot.%(ext)s" "https://www.youtube.com/watch?v=${{ inputs.id }}" 2>&1 | grep -iE "pot|bgutil|error|Destination|sign in" | head -20
+          ls -la pot.* || echo "no audio with the token server either"
