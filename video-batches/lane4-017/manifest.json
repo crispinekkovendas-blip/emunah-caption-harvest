@@ -2,7 +2,7 @@
  "name": "lane4-017",
  "lane": 4,
  "created": "2026-10-26T14:33:00.144Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "TjGBAhYS3vU",
@@ -21,8 +21,10 @@
   "TjGBAhYS3vU.p5"
  ],
  "tries": {
-  "TjGBAhYS3vU": 2
+  "TjGBAhYS3vU": 3
  },
  "done": [],
- "skipped": []
+ "skipped": [
+  "TjGBAhYS3vU"
+ ]
 }
