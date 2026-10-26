@@ -1,0 +1,23 @@
+{
+ "name": "lane10-007",
+ "lane": 10,
+ "created": "2026-10-26T14:32:51.566Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "utd1McwvG3w",
+   "title": "Avraham, a guerra e o alistamento dos estudantes de Torá",
+   "lines": 628,
+   "parts": 6,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "utd1McwvG3w.p0",
+  "utd1McwvG3w.p1",
+  "utd1McwvG3w.p2",
+  "utd1McwvG3w.p3",
+  "utd1McwvG3w.p4",
+  "utd1McwvG3w.p5"
+ ]
+}
