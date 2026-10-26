@@ -18,8 +18,15 @@
 #   gh workflow run meir-new.yml                    (find and do everything new)
 #   gh workflow run meir-new.yml -f ids=a,b         (just these lessons, no search)
 #   gh workflow run meir-new.yml -f all=true -f dry=true   (every channel of the site: count what is new)
-name: Rav Meir Eliyahu — new lessons
+#
+# DAILY (2026-10-26, the owner: "just update the channels that is on the shiurim website" — "Sonnet, 30 lessons
+# a day newest first"): the schedule runs the --all sweep with max 30; what does not fit waits in
+# emunah-shlemah-site pipeline/sweep-queue.json for the next days, the other speakers are listed in
+# pipeline/sweep-external.json.
+name: New lessons — Rav Meir Eliyahu / every teacher of the site
 on:
+  schedule:
+    - cron: '17 6 * * *'
   workflow_dispatch:
     inputs:
       ids:
@@ -49,7 +56,7 @@ env:
 jobs:
   find:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 90
     outputs:
       ids: ${{ steps.ids.outputs.ids }}
       csv: ${{ steps.ids.outputs.csv }}
@@ -76,7 +83,7 @@ jobs:
         working-directory: site
         env:
           YT_COOKIES_FILE: ${{ runner.temp }}/cookies.txt
-        run: python -u pipeline/meir_new.py find --out "$GITHUB_WORKSPACE/new.json" --max ${{ inputs.max }} ${{ inputs.since && format('--since {0}', inputs.since) || '' }} ${{ inputs.all && '--all' || '' }} ${{ inputs.dry && '--dry' || '' }}
+        run: python -u pipeline/meir_new.py find --out "$GITHUB_WORKSPACE/new.json" --max ${{ inputs.max || '30' }} ${{ inputs.since && format('--since {0}', inputs.since) || '' }} ${{ (github.event_name == 'schedule' || inputs.all) && '--all' || '' }} ${{ inputs.dry && '--dry' || '' }}
       - id: ids
         name: The lessons to do
         run: |
@@ -95,8 +102,8 @@ jobs:
         run: |
           git config user.name "meir-new"
           git config user.email "actions@github.com"
-          git add public/data/videos/he.json
-          git diff --cached --quiet || (git commit -q -m "videos: Rav Meir Eliyahu's new uploads in the library seed (meir-new.yml)" && for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done)
+          git add public/data/videos/he.json pipeline/sweep-queue.json pipeline/sweep-external.json 2>/dev/null || git add public/data/videos/he.json
+          git diff --cached --quiet || (git commit -q -m "videos: new uploads in the library seed + the sweep queue (meir-new.yml)" && for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done)
       - uses: actions/upload-artifact@v4
         with:
           name: found
@@ -113,7 +120,7 @@ jobs:
     timeout-minutes: 300
     strategy:
       fail-fast: false
-      max-parallel: 5
+      max-parallel: 10
       matrix:
         id: ${{ fromJSON(needs.find.outputs.ids) }}
     steps:
