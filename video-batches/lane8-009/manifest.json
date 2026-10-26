@@ -1,0 +1,23 @@
+{
+ "name": "lane8-009",
+ "lane": 8,
+ "created": "2026-10-26T14:33:04.821Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "Kp0epiK5LTQ",
+   "title": "Vayera: a semelhança de Yitzchak e a dúvida da paternidade",
+   "lines": 619,
+   "parts": 6,
+   "from": "parashá da semana"
+  }
+ ],
+ "chunks": [
+  "Kp0epiK5LTQ.p0",
+  "Kp0epiK5LTQ.p1",
+  "Kp0epiK5LTQ.p2",
+  "Kp0epiK5LTQ.p3",
+  "Kp0epiK5LTQ.p4",
+  "Kp0epiK5LTQ.p5"
+ ]
+}
