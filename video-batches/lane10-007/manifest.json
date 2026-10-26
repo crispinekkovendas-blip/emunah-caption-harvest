@@ -2,7 +2,7 @@
  "name": "lane10-007",
  "lane": 10,
  "created": "2026-10-26T14:32:51.566Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "utd1McwvG3w",
@@ -23,6 +23,8 @@
  "tries": {
   "utd1McwvG3w": 2
  },
- "done": [],
+ "done": [
+  "utd1McwvG3w"
+ ],
  "skipped": []
 }
