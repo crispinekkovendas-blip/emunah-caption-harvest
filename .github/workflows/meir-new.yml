@@ -1,0 +1,317 @@
+# Rav Meir Eliyahu's NEW lessons, end to end on GitHub (2026-10-25, the owner: "update Rav Meir Elyahu new
+# videos … then transcribe then curate.. just the new ones" / "dont run any script in this pc … all in github").
+#
+#   find     his channels' latest uploads not in the library yet (W04 pipeline/meir_new.py) → the library seed
+#            (emunah-shlemah-site public/data/videos/he.json), committed
+#   stt      one job per lesson: its audio from YouTube, then WhisperX + ivrit.ai (scripts/transcribe.py)
+#   curate   one lesson at a time: Claude (one shot, the W04 .curate/PROMPT.md rules) writes the study, W04
+#            curate-upload.mjs checks it and puts it in the transcript cache
+#   finish   the quote colours (scripts/tag_quotes.py), W04 book-export (study.json, the book snapshot), W05
+#            build-catalog (catalog + study files), committed to emunah-shlemah-site, emunah-shiurim-book
+#            and shiur-hebraico-site. The owner deploys (deploy-site.ps1 / npm run deploy).
+# The translation lanes (translate-batch.yml) and the dubs take the curated lessons up by themselves.
+#
+# Secrets: YT_COOKIES (a signed-in YouTube cookies.txt — the runners are refused without it), REPOS_TOKEN
+# (contents read/write on the three private repos), CLAUDE_CODE_OAUTH_TOKEN, SUPABASE_URL / _SERVICE_KEY /
+# _ANON_KEY.
+#
+#   gh workflow run meir-new.yml                    (find and do everything new)
+#   gh workflow run meir-new.yml -f ids=a,b         (just these lessons, no search)
+name: Rav Meir Eliyahu — new lessons
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: 'Only these ids (skip the search)'
+        default: ''
+      since:
+        description: 'Uploads on or after YYYY-MM-DD (empty = his newest lesson in the library)'
+        default: ''
+      max:
+        description: 'At most this many new lessons'
+        default: '10'
+concurrency:
+  group: meir-new
+  cancel-in-progress: false
+permissions:
+  contents: write
+env:
+  OWNER: crispinekkovendas-blip
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    outputs:
+      ids: ${{ steps.ids.outputs.ids }}
+      csv: ${{ steps.ids.outputs.csv }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{ env.OWNER }}/emunah-shlemah-site
+          token: ${{ secrets.REPOS_TOKEN }}
+          path: site
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Install
+        run: python -m pip install --quiet -U "yt-dlp[default]" curl-cffi
+      - name: Cookies
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
+        run: printf '%s\n' "$YT_COOKIES" > "$RUNNER_TEMP/cookies.txt"
+      - name: Find the new lessons
+        if: inputs.ids == ''
+        working-directory: site
+        env:
+          YT_COOKIES_FILE: ${{ runner.temp }}/cookies.txt
+        run: python -u pipeline/meir_new.py find --out "$GITHUB_WORKSPACE/new.json" --max ${{ inputs.max }} ${{ inputs.since && format('--since {0}', inputs.since) || '' }}
+      - id: ids
+        name: The lessons to do
+        run: |
+          if [ -n "${{ inputs.ids }}" ]; then
+            node -e 'const ids=process.argv[1].split(",").filter(Boolean);require("fs").writeFileSync("new.json",JSON.stringify(ids.map(id=>({id}))))' "${{ inputs.ids }}"
+          fi
+          node -e '
+            const ids = JSON.parse(require("fs").readFileSync("new.json", "utf8")).map((x) => x.id)
+            const out = require("fs").createWriteStream(process.env.GITHUB_OUTPUT, { flags: "a" })
+            out.write(`ids=${JSON.stringify(ids)}\ncsv=${ids.join(",")}\n`)
+            console.log(`${ids.length} lessons: ${ids.join(" ")}`)
+          '
+      - name: Commit the library seed
+        if: inputs.ids == ''
+        working-directory: site
+        run: |
+          git config user.name "meir-new"
+          git config user.email "actions@github.com"
+          git add public/data/videos/he.json
+          git diff --cached --quiet || (git commit -q -m "videos: Rav Meir Eliyahu's new uploads in the library seed (meir-new.yml)" && for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done)
+      - uses: actions/upload-artifact@v4
+        with:
+          name: found
+          include-hidden-files: true
+          path: |
+            new.json
+            site/.curate/desc/
+          if-no-files-found: ignore
+
+  stt:
+    needs: find
+    if: needs.find.outputs.ids != '[]' && needs.find.outputs.ids != ''
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      max-parallel: 5
+      matrix:
+        id: ${{ fromJSON(needs.find.outputs.ids) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{ env.OWNER }}/emunah-shlemah-site
+          token: ${{ secrets.REPOS_TOKEN }}
+          path: site
+          sparse-checkout: pipeline
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Cache the model and the wheels
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/pip
+            ~/.cache/torch
+          key: stt-whisperx-ivrit-v1
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet whisperx "yt-dlp[default]" curl-cffi
+      - name: Cookies
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
+        run: printf '%s\n' "$YT_COOKIES" > "$RUNNER_TEMP/cookies.txt"
+      - name: Audio
+        env:
+          YT_COOKIES_FILE: ${{ runner.temp }}/cookies.txt
+        run: python -u site/pipeline/meir_new.py audio --ids ${{ matrix.id }} --dir audio
+      - name: Transcribe
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python -u scripts/transcribe.py --ids ${{ matrix.id }} --audio-dir audio --budget-min 280
+
+  curate:
+    needs: [find, stt]
+    if: always() && needs.find.outputs.ids != '[]' && needs.find.outputs.ids != ''
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        id: ${{ fromJSON(needs.find.outputs.ids) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{ env.OWNER }}/emunah-shlemah-site
+          token: ${{ secrets.REPOS_TOKEN }}
+          path: site
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: actions/download-artifact@v4
+        with:
+          name: found
+          path: found
+      - run: npm install -g @anthropic-ai/claude-code > /dev/null
+      - name: Keys for the site's scripts
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+        run: |
+          printf 'SUPABASE_URL=%s\nSUPABASE_SERVICE_KEY=%s\nSUPABASE_ANON_KEY=%s\n' "$SUPABASE_URL" "$SUPABASE_SERVICE_KEY" "$SUPABASE_ANON_KEY" > site/.env.local
+          mkdir -p site/.curate/desc
+          cp found/site/.curate/desc/* site/.curate/desc/ 2>/dev/null || true
+      - name: Curate ${{ matrix.id }}
+        working-directory: site
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ID: ${{ matrix.id }}
+        run: |
+          TS="node --experimental-transform-types --import ./scripts/ts-hook.mjs"
+          $TS scripts/curate-export.mjs --ids "$ID" 2>&1 | grep -v Experimental | tail -2 || true
+          IN=".curate/in/$ID.txt"
+          if [ ! -s "$IN" ]; then echo "::warning::$ID has no transcript to curate (or is curated already)"; exit 0; fi
+          mkdir -p .curate/out
+          # ONE SHOT, like translate-batch.yml: the work file on stdin, the rules as the system prompt, no tools;
+          # a second try when the check rejects the first
+          for attempt in 1 2; do
+            set +e
+            claude -p "Curate the lesson transcript below following the system rules. Reply with ONLY the blocks the rules ask for (TITLE, SUMMARY, MOMENTS, QUESTIONS, SOURCES, ANSWERS, NIKUD, PT), nothing before or after, no code fences." \
+              --system-prompt "$(cat .curate/PROMPT.md)" --tools "" \
+              --model sonnet --effort high --output-format json < "$IN" > usage.json 2> err.txt
+            set -e
+            node -e '
+              const fs = require("fs")
+              let j = {}
+              try { j = JSON.parse(fs.readFileSync("usage.json", "utf8")) } catch {}
+              const t = String(j.result || "").replace(/^```[a-z]*\n?|\n?```\s*$/g, "").trim()
+              if (!j.is_error && t) fs.writeFileSync(process.argv[1], t + "\n")
+              console.log(`reply: ${t.length} characters${j.is_error ? " · error: " + String(j.result).slice(0, 160) : ""} · tokens in ${j.usage?.input_tokens ?? "?"} + cache ${j.usage?.cache_read_input_tokens ?? 0}, out ${j.usage?.output_tokens ?? "?"}`)
+            ' ".curate/out/$ID.txt"
+            if [ ! -s ".curate/out/$ID.txt" ]; then grep -ihE "limit|rate|quota|error|login" usage.json err.txt | head -5 || true; continue; fi
+            $TS scripts/curate-upload.mjs 2>&1 | grep -vE "Experimental|trace-warnings" | tail -4 || true
+            if [ -f ".curate/done/$ID.txt" ]; then echo "curated $ID"; exit 0; fi
+            echo "rejected:"; cat .curate/rejected/$ID.* 2>/dev/null | tail -5 || true
+          done
+          echo "::error::$ID not curated"
+          exit 1
+
+  finish:
+    needs: [find, curate]
+    if: always() && needs.find.outputs.ids != '[]' && needs.find.outputs.ids != ''
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{ env.OWNER }}/emunah-shlemah-site
+          token: ${{ secrets.REPOS_TOKEN }}
+          path: site
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{ env.OWNER }}/shiur-hebraico-site
+          token: ${{ secrets.REPOS_TOKEN }}
+          path: shiur
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{ env.OWNER }}/emunah-shiurim-book
+          token: ${{ secrets.REPOS_TOKEN }}
+          path: book
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          name: found
+          path: found
+      - name: Keys for the sites' scripts
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+        run: |
+          printf 'SUPABASE_URL=%s\nSUPABASE_SERVICE_KEY=%s\nSUPABASE_ANON_KEY=%s\n' "$SUPABASE_URL" "$SUPABASE_SERVICE_KEY" "$SUPABASE_ANON_KEY" > site/.env.local
+          printf 'SUPABASE_URL=%s\nSUPABASE_ANON_KEY=%s\n' "$SUPABASE_URL" "$SUPABASE_ANON_KEY" > shiur/.env.local
+      - name: Quote colours
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          python -u scripts/tag_quotes.py --ids "${{ needs.find.outputs.csv }}"
+          # his lessons' list, for a later tag_quotes run over all of them
+          for id in $(echo "${{ needs.find.outputs.csv }}" | tr ',' ' '); do grep -qx "$id" data/quote-ids.txt || echo "$id" >> data/quote-ids.txt; done
+      # the book-export cache: the last run's (actions/cache), else the seed copy from the owner's computer
+      # (a whole read of the table wore out Supabase's free tier on 2026-10-20 — never start from nothing)
+      - name: Restore the book cache
+        uses: actions/cache/restore@v4
+        with:
+          path: site/scripts/.book-cache.json
+          key: book-cache-${{ github.run_id }}
+          restore-keys: book-cache-
+      - name: Seed the book cache
+        env:
+          GH_TOKEN: ${{ secrets.REPOS_TOKEN }}
+        run: |
+          if [ ! -s site/scripts/.book-cache.json ]; then
+            gh release download book-cache --repo "$OWNER/emunah-shlemah-site" -p book-cache.json -O site/scripts/.book-cache.json
+          fi
+          ls -la site/scripts/.book-cache.json
+      - name: Book export (study.json, parashá files, the book snapshot)
+        working-directory: site
+        run: node --experimental-transform-types --import ./scripts/ts-hook.mjs scripts/book-export.mjs --out "$GITHUB_WORKSPACE/book/data/shiurim.json" 2>&1 | grep -vE "Experimental|trace-warnings" | tail -5
+      - name: Save the book cache
+        uses: actions/cache/save@v4
+        with:
+          path: site/scripts/.book-cache.json
+          key: book-cache-${{ github.run_id }}
+      - name: Exact dates of the new lessons
+        run: |
+          node -e '
+            const fs = require("fs")
+            const f = "shiur/scripts/out/dates.json"
+            const d = JSON.parse(fs.readFileSync(f, "utf8"))
+            let n = 0
+            for (const x of JSON.parse(fs.readFileSync("found/new.json", "utf8"))) if (x.published && !d[x.id]) { d[x.id] = x.published.slice(0, 10); n++ }
+            fs.writeFileSync(f, JSON.stringify(d))
+            console.log(`${n} dates added`)
+          '
+      - name: Shiur Hebraico catalog
+        working-directory: shiur
+        env:
+          BOOK: ${{ github.workspace }}/book/data/shiurim.json
+        run: node scripts/build-catalog.mjs
+      - name: Commit everything
+        run: |
+          push() { for i in 1 2 3; do git pull --rebase -q && git push -q && return 0; sleep 5; done; return 1; }
+          msg="Rav Meir Eliyahu's new lessons curated on GitHub (meir-new.yml run ${{ github.run_id }}): ${{ needs.find.outputs.csv }}"
+          for d in . site shiur book; do
+            (cd "$d" && git config user.name "meir-new" && git config user.email "actions@github.com")
+          done
+          git add data/quote-ids.txt && (git diff --cached --quiet || (git commit -q -m "$msg" && push))
+          (cd site && git add public/data/videos/study.json public/data/videos/shiurim && (git diff --cached --quiet || (git commit -q -m "$msg" && push)))
+          (cd book && git add data/shiurim.json && (git diff --cached --quiet || (git commit -q -m "$msg" && push)))
+          (cd shiur && git add src/data/catalog.json public/estudo scripts/out/dates.json && (git diff --cached --quiet || (git commit -q -m "$msg" && push)))
+          echo "committed — deploy when ready: deploy-site.ps1 (Shiur Hebraico) and npm run deploy (Emunah Shlemah)"
