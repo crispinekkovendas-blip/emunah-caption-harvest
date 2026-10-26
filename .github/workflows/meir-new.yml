@@ -17,6 +17,7 @@
 #
 #   gh workflow run meir-new.yml                    (find and do everything new)
 #   gh workflow run meir-new.yml -f ids=a,b         (just these lessons, no search)
+#   gh workflow run meir-new.yml -f all=true -f dry=true   (every channel of the site: count what is new)
 name: Rav Meir Eliyahu — new lessons
 on:
   workflow_dispatch:
@@ -30,6 +31,14 @@ on:
       max:
         description: 'At most this many new lessons'
         default: '10'
+      all:
+        description: 'Every channel of the Hebrew library, not only Rav Meir Eliyahu (2026-10-26)'
+        type: boolean
+        default: false
+      dry:
+        description: 'Only list and count the new lessons'
+        type: boolean
+        default: false
 concurrency:
   group: meir-new
   cancel-in-progress: false
@@ -67,7 +76,7 @@ jobs:
         working-directory: site
         env:
           YT_COOKIES_FILE: ${{ runner.temp }}/cookies.txt
-        run: python -u pipeline/meir_new.py find --out "$GITHUB_WORKSPACE/new.json" --max ${{ inputs.max }} ${{ inputs.since && format('--since {0}', inputs.since) || '' }}
+        run: python -u pipeline/meir_new.py find --out "$GITHUB_WORKSPACE/new.json" --max ${{ inputs.max }} ${{ inputs.since && format('--since {0}', inputs.since) || '' }} ${{ inputs.all && '--all' || '' }} ${{ inputs.dry && '--dry' || '' }}
       - id: ids
         name: The lessons to do
         run: |
