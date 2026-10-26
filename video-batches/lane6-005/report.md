@@ -1,7 +1,7 @@
 # lane6-005
 
-15 of 23 lessons published · 5 skipped · status **pending**
-Tokens (395 agent runs with a record, 2686 refused or without record): 3.1M in (mostly cache) · 3.56M out · API-equivalent 45.60
+15 of 23 lessons published · 7 skipped · status **pending**
+Tokens (408 agent runs with a record, 2686 refused or without record): 3.2M in (mostly cache) · 3.65M out · API-equivalent 46.73
 
 | lesson | state | detail |
 |---|---|---|
@@ -12,7 +12,7 @@ Tokens (395 agent runs with a record, 2686 refused or without record): 3.1M in (
 | faQ0E94NTN0 | skipped | |
 | 2avTuO2UdOY | skipped | |
 | cqNUK8ZQpXo | ✓ published | 633 lines · Chayei Sarah: Avraham chora Sara e o valor do Rav |
-| Brq4sJwhLPM | waiting | 5/6 parts |
+| Brq4sJwhLPM | skipped after 3 tries | 1 lines missing |
 | D9zZ7XM7AzE | skipped | |
 | CAuXLcem5zg | ✓ published | 546 lines · Yosef no Egito: a bênção do talmid chacham e da humildade |
 | WsbpvcmnKPA | ✓ published | 758 lines · Avraham, amor a HaShem e a descida da Shechiná |
@@ -21,10 +21,10 @@ Tokens (395 agent runs with a record, 2686 refused or without record): 3.1M in (
 | guohen2mcaY | skipped | |
 | jh0N0txND9Q | ✓ published | 955 lines · Parashat Chayei Sarah: o riso de Sará e o papel das mulheres |
 | 5TA9tEiBkOo | ✓ published | 682 lines · Dvarim: por que a teshuvá não veio perto de Moshe |
-| nfzKMSTiwDM | waiting | 9/11 parts |
+| nfzKMSTiwDM | skipped after 3 tries | line 1201 twice |
 | _Ncmwc9xaO4 | ✓ published | 719 lines · Gog e Magog, Torá e guemilut chassadim |
 | EQXmWLpjkxM | skipped | |
 | Ppr8VQGqjfE | ✓ published | 670 lines · A Vaca Vermelha, o Ari HaKadosh e o pecado de Moshe |
 | dgHMufnwTis | ✓ published | 759 lines · Medida por medida: Yocheved, Faraó e a escuridão |
 | f0b68bfxHl8 | ✓ published | 599 lines · Tikun do karet, Aharon e Moshe e a Semikhá |
-| xaUcs4KHQr4 | ✗ will be redone (try 2) | 1 lines missing |
+| xaUcs4KHQr4 | waiting | 8/9 parts |
