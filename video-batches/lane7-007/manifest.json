@@ -1,0 +1,25 @@
+{
+ "name": "lane7-007",
+ "lane": 7,
+ "created": "2026-10-26T14:32:47.942Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "ZNjTp4tl5sQ",
+   "title": "Keter Aram Tzová: o mistério do Tanakh mais antigo",
+   "lines": 900,
+   "parts": 8,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "ZNjTp4tl5sQ.p0",
+  "ZNjTp4tl5sQ.p1",
+  "ZNjTp4tl5sQ.p2",
+  "ZNjTp4tl5sQ.p3",
+  "ZNjTp4tl5sQ.p4",
+  "ZNjTp4tl5sQ.p5",
+  "ZNjTp4tl5sQ.p6",
+  "ZNjTp4tl5sQ.p7"
+ ]
+}
