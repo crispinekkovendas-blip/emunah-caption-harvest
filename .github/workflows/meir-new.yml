@@ -93,7 +93,10 @@ jobs:
       - name: Cookies
         env:
           YT_COOKIES: ${{ secrets.YT_COOKIES }}
-        run: printf '%s\n' "$YT_COOKIES" > "$RUNNER_TEMP/cookies.txt"
+        # yt-dlp wants the Netscape header line; a secret set from grep output has none (2026-10-27)
+        run: |
+          printf '%s\n' "$YT_COOKIES" > "$RUNNER_TEMP/cookies.txt"
+          head -1 "$RUNNER_TEMP/cookies.txt" | grep -q '^# Netscape' || sed -i '1i # Netscape HTTP Cookie File' "$RUNNER_TEMP/cookies.txt"
       - name: Find the new lessons
         if: inputs.ids == ''
         working-directory: site
@@ -168,7 +171,10 @@ jobs:
       - name: Cookies
         env:
           YT_COOKIES: ${{ secrets.YT_COOKIES }}
-        run: printf '%s\n' "$YT_COOKIES" > "$RUNNER_TEMP/cookies.txt"
+        # yt-dlp wants the Netscape header line; a secret set from grep output has none (2026-10-27)
+        run: |
+          printf '%s\n' "$YT_COOKIES" > "$RUNNER_TEMP/cookies.txt"
+          head -1 "$RUNNER_TEMP/cookies.txt" | grep -q '^# Netscape' || sed -i '1i # Netscape HTTP Cookie File' "$RUNNER_TEMP/cookies.txt"
       - name: Audio
         env:
           YT_COOKIES_FILE: ${{ runner.temp }}/cookies.txt
