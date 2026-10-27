@@ -1,9 +1,9 @@
 # lane9-006
 
-0 of 2 lessons published · 0 skipped · status **pending**
-Tokens (18 agent runs with a record): 0.1M in (mostly cache) · 0.12M out · API-equivalent 1.39
+1 of 2 lessons published · 1 skipped · status **done**
+Tokens (25 agent runs with a record): 0.2M in (mostly cache) · 0.16M out · API-equivalent 1.88
 
 | lesson | state | detail |
 |---|---|---|
-| l612Tc6knSM | ✗ will be redone (try 2) | 7 lines missing |
-| dW4MAykyZtY | waiting | 2/3 parts |
+| l612Tc6knSM | skipped after 3 tries | 3 lines missing |
+| dW4MAykyZtY | ✓ published | 323 lines · Bá bayamim: levar o passado consigo, até as quedas |

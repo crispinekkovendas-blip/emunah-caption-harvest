@@ -2,7 +2,7 @@
  "name": "lane9-006",
  "lane": 9,
  "created": "2026-10-27T16:51:56.362Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "l612Tc6knSM",
@@ -31,9 +31,13 @@
   "dW4MAykyZtY.p2"
  ],
  "tries": {
-  "l612Tc6knSM": 2,
+  "l612Tc6knSM": 3,
   "dW4MAykyZtY": 1
  },
- "done": [],
- "skipped": []
+ "done": [
+  "dW4MAykyZtY"
+ ],
+ "skipped": [
+  "l612Tc6knSM"
+ ]
 }
