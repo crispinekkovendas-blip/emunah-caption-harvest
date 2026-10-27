@@ -59,8 +59,10 @@ on:
         type: choice
         options: [site, kabbalah]
         default: site
+# one run of each set at a time (2026-10-27: the Kabbalah set runs beside the site's, the owner: "add new lanes");
+# their finish jobs take turns (the same files in three repos)
 concurrency:
-  group: meir-new
+  group: meir-new-${{ (github.event.schedule == '47 18 * * *' || inputs.set == 'kabbalah') && 'kabbalah' || 'site' }}
   cancel-in-progress: false
 permissions:
   contents: write
@@ -134,7 +136,7 @@ jobs:
     timeout-minutes: 300
     strategy:
       fail-fast: false
-      max-parallel: 10
+      max-parallel: 12
       matrix:
         id: ${{ fromJSON(needs.find.outputs.ids) }}
     steps:
@@ -248,6 +250,9 @@ jobs:
   finish:
     needs: [find, curate]
     if: always() && needs.find.outputs.ids != '[]' && needs.find.outputs.ids != ''
+    concurrency:
+      group: meir-new-finish
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
