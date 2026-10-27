@@ -1,0 +1,120 @@
+720	Did you check?	Você verificou?
+721	And what if it's not a multi-story building?	E se não for um prédio de vários andares?
+722	You say it just like that, like in the market.	Você fala assim, como na feira.
+723	What, no problem?	Como, não há problema?
+724	Don't give me distinctions.	Não me venha com distinções.
+725	I want to know when it's forbidden, when it's permitted.	Quero saber quando é proibido e quando é permitido.
+726	In which case will it be forbidden?	Em que caso será proibido?
+727	What is the Gemara speaking about, a solitary house?	De que fala a Guemará, de uma casa isolada?
+728	A lone house in the middle of the street is forbidden,	Uma casa isolada no meio da rua é proibida,
+729	unless someone else is with him. But if it's not a lone house	a menos que haja outra pessoa com ele. Mas se não for uma casa isolada,
+730	but a house where partners live, other neighbors, it will be permitted. Or a lone	e sim uma casa onde moram outros vizinhos, será permitido. Ou uma casa
+731	house attached to a house that isn't lone, yes?	isolada colada a uma casa não isolada, certo?
+732	Okay?	Certo?
+733	So now we've sorted that out. Now there's a known case, what do you do?	Então já resolvemos isso. Agora há um caso conhecido: o que se faz?
+734	Those who sleep in the sukkah and have no place to build a sukkah.	Aqueles que dormem na sucá e não têm onde construir uma sucá.
+735	All the neighbors object.	Todos os vizinhos se opõem.
+736	He goes, finds some open area, and builds a sukkah there.	Ele vai, encontra um terreno aberto e constrói ali uma sucá.
+737	Can he sleep...	Ele pode dormir...
+738	Wait, I haven't finished the question.	Espere, ainda não terminei a pergunta.
+739	Can he sleep there at night or not?	Ele pode dormir ali à noite ou não?
+740	Why?	Por quê?
+741	The shade of faith...	A sombra da fé...
+742	What?	O quê?
+743	The shade of faith, that is what protects.	A sombra da fé, é ela que protege.
+744	What?	O quê?
+745	I'm asking according to the Gemara. The Gemara didn't say "the shade of faith," you're bringing me the Zohar.	Pergunto segundo a Guemará. A Guemará não disse "a sombra da fé", você me traz o Zohar.
+746	According to the Gemara.	Segundo a Guemará.
+747	What is the law?	Qual é a halachá?
+748	Well?	Então?
+749	The Gaon said: it is written in the verse, "One who keeps a mitzvah will not	O Gaon disse: está escrito no versículo: "Quem guarda a mitsvá não
+750	know any evil thing."	conhecerá nenhum mal."
+751	So since he is fulfilling the mitzvah of "In sukkot you shall dwell seven days,"	Então, como ele cumpre a mitsvá de "Em sucot habitareis sete dias",
+752	he is permitted to sleep in the sukkah even when alone, because there is no problem	é permitido a ele dormir na sucá mesmo estando sozinho, porque não há problema
+753	here: he is keeping a mitzvah, and there are angels guarding the people.	aqui: ele guarda uma mitsvá, e há anjos que protegem o povo.
+754	Now say also the Zohar, which says "the holy, exalted ushpizin." If he invited the	Agora diga também o Zohar, que diz: "os ushpizin elevados e sagrados". Se ele convidou os
+755	ushpizin, then he's all set, okay?	ushpizin, então está tudo em ordem, certo?
+756	Okay, next.	Certo, adiante.
+757	What comes after?	O que mais?
+758	Because it's written there, in the Zohar it's also written, "a house	Porque está escrito ali, no Zohar também está escrito: "uma casa
+759	set apart."	separada."
+760	A special house, meaning he is alone, a lone house.	Uma casa especial, isto é, ele está sozinho, uma casa isolada.
+761	Now, what else?	Agora, o que mais?
+762	What else?	O que mais?
+763	What else?	O que mais?
+764	What else?	O que mais?
+765	What else?	O que mais?
+766	Well?	Então?
+767	The Gaon, the Chida, says that when he goes to sleep he should say, "Sealed be the mouth of	O Gaon, o Chida, diz que ao ir dormir ele deve dizer: "Selada seja a boca do
+768	Satan," and then he will be shut out from us.	Satã", e assim ele ficará barrado contra nós.
+769	"Sealed be the mouth of Satan."	"Selada seja a boca do Satã."
+770	And at night, if a person walks at night, the Gemara says, where should he walk, in the middle	E à noite, se alguém anda à noite, diz a Guemará, por onde deve andar, no meio
+771	of the street or at the side of the street?	da rua ou na beira da rua?
+772	Where do people walk?	Por onde se anda?
+773	There's an alley, no cars there.	Há uma viela, sem carros ali.
+774	Where is it better to walk?	Por onde é melhor andar?
+775	In the middle of the alley or at the sides?	No meio da viela ou pelas laterais?
+776	When?	Quando?
+777	When?	Quando?
+778	What not?	O que não?
+779	That it not pass by, the one who	Que não passe aquele que
+780	makes a car, it will finish him off.	faz um carro, ele acabará com ele.
+781	I didn't understand.	Não entendi.
+782	That no car should pass, by law.	Que nenhum carro passe, por lei.
+783	Who will come?	Quem virá?
+784	There's no car here.	Não há carro aqui.
+785	He is in a village.	Ele está numa vila.
+786	There are no vehicles there.	Não há veículos lá.
+787	He wants to walk at night, he asks you where to walk, at the sides or in the middle?	Ele quer andar à noite e pergunta por onde andar, pelas laterais ou pelo meio?
+788	Gemara.	Guemará.
+789	An explicit Gemara.	Uma Guemará explícita.
+790	What?	O quê?
+791	I can't hear.	Não estou ouvindo.
+792	Is there a difference between day and night?	Há diferença entre dia e noite?
+793	The Gemara distinguishes.	A Guemará faz distinção.
+794	By day he walks in the middle of the road, but	De dia ele anda no meio da estrada, mas
+795	at night he walks at the side.	à noite anda pela lateral.
+796	Why?	Por quê?
+797	By day the harmful spirits are afraid to walk in the center; they walk at the side, by the wall.	De dia os espíritos nocivos têm medo de andar no centro; eles andam pela lateral, junto ao muro.
+798	But at night the harmful spirits go	Mas à noite os espíritos nocivos andam
+799	in the middle of the road, so we must be careful.	no meio da estrada, por isso devemos ter cuidado.
+800	He should not walk in the middle of the road at night, but at the sides.	À noite ele não deve andar no meio da estrada, e sim pelas laterais.
+801	By day, the opposite: by day he walks in the middle and not at the sides.	De dia, o contrário: de dia anda no meio e não pelas laterais.
+802	That is what the Gemara says explicitly.	É isso que a Guemará diz explicitamente.
+803	Okay?	Certo?
+804	Is there a difference between Eretz Yisrael and outside the Land?	Há diferença entre Eretz Yisrael e fora da Terra?
+805	No, they said.	Não, disseram.
+806	No, they made no distinction.	Não, não fizeram distinção.
+807	But the dangers are not common in	Mas os perigos não são comuns em
+808	Eretz Yisrael.	Eretz Yisrael.
+809	They made no distinction.	Não fizeram distinção.
+810	Are the dangers common there?	Os perigos são comuns ali?
+811	Why is it good to say Pitum HaKetoret?	Por que é bom dizer o Pitum HaKetoret?
+812	How does that help?	Como isso ajuda?
+813	Ah, good that you said it.	Ah, que bom que você disse.
+814	So the holy Zohar wrote, Parashat Terumah, that if there is, God forbid, a plague,	Assim escreveu o santo Zohar, Parashat Terumá: se houver, que não haja, uma praga,
+815	and one wants to be saved from the plague, he should say Pitum HaKetoret.	e alguém quiser se salvar da praga, que diga o Pitum HaKetoret.
+816	But when do we say Pitum HaKetoret?	Mas quando se diz o Pitum HaKetoret?
+817	Can it be said now, at night?	Pode-se dizer agora, à noite?
+818	When yes?	Quando sim?
+819	From midnight.	A partir da meia-noite.
+820	From midnight onward, until tomorrow at sunset.	Da meia-noite em diante, até o pôr do sol de amanhã.
+821	Can he say it?	Ele pode dizer?
+822	The Pitum HaKetoret.	O Pitum HaKetoret.
+823	The practical difference now, with the ballot boxes coming up, yes?	A consequência prática agora, com as urnas se aproximando, certo?
+824	At the ballot box, say Pitum HaKetoret there.	Na urna, diga ali o Pitum HaKetoret.
+825	Come on.	Vamos lá.
+826	Now	Agora
+827	…	…
+828	What?	O quê?
+829	To drink silver.	Beber prata.
+830	I didn't hear.	Não ouvi.
+831	To drink silver.	Beber prata.
+832	Silence?	Silêncio?
+833	What?	O quê?
+834	Silver, silver.	Prata, prata.
+835	What is he saying?	O que ele está dizendo?
+836	What is he saying?	O que ele está dizendo?
+837	To drink silver.	Beber prata.
+838	Silver?	Prata?
+839	Silver.	Prata.
