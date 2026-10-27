@@ -156,12 +156,12 @@ jobs:
       - name: Audio
         env:
           YT_COOKIES_FILE: ${{ runner.temp }}/cookies.txt
-        run: python -u site/pipeline/meir_new.py audio --ids ${{ matrix.id }} --dir audio
+        run: python -u site/pipeline/meir_new.py audio --ids=${{ matrix.id }} --dir audio
       - name: Transcribe
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
-        run: python -u scripts/transcribe.py --ids ${{ matrix.id }} --audio-dir audio --budget-min 280
+        run: python -u scripts/transcribe.py --ids=${{ matrix.id }} --audio-dir audio --budget-min 280
 
   curate:
     needs: [find, stt]
@@ -276,7 +276,7 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: |
-          python -u scripts/tag_quotes.py --ids "${{ needs.find.outputs.csv }}"
+          python -u scripts/tag_quotes.py --ids="${{ needs.find.outputs.csv }}"
           # his lessons' list, for a later tag_quotes run over all of them
           for id in $(echo "${{ needs.find.outputs.csv }}" | tr ',' ' '); do grep -qx "$id" data/quote-ids.txt || echo "$id" >> data/quote-ids.txt; done
       # the book-export cache: the last run's (actions/cache), else the seed copy from the owner's computer
