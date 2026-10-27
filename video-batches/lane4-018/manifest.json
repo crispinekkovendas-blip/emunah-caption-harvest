@@ -1,0 +1,65 @@
+{
+ "name": "lane4-018",
+ "lane": 4,
+ "created": "2026-10-27T16:50:48.944Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "MnOMG7feQRw",
+   "title": "Ansiar a salvação: Parashá Vayera e a espera das eleições",
+   "lines": 805,
+   "parts": 7,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "Xqw-x_pjX08",
+   "title": "Mayim Rabim: bens materiais a serviço do amor a HaShem",
+   "lines": 287,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "2loRn9IlBTY",
+   "title": "A elevação moral da democracia: aula para o dia das eleições",
+   "lines": 682,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vTdTsQdc5aU",
+   "title": "Fé verdadeira: confiar em HaShem nos momentos difíceis",
+   "lines": 1225,
+   "parts": 11,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "MnOMG7feQRw.p0",
+  "MnOMG7feQRw.p1",
+  "MnOMG7feQRw.p2",
+  "MnOMG7feQRw.p3",
+  "MnOMG7feQRw.p4",
+  "MnOMG7feQRw.p5",
+  "MnOMG7feQRw.p6",
+  "Xqw-x_pjX08.p0",
+  "Xqw-x_pjX08.p1",
+  "Xqw-x_pjX08.p2",
+  "2loRn9IlBTY.p0",
+  "2loRn9IlBTY.p1",
+  "2loRn9IlBTY.p2",
+  "2loRn9IlBTY.p3",
+  "2loRn9IlBTY.p4",
+  "2loRn9IlBTY.p5",
+  "vTdTsQdc5aU.p0",
+  "vTdTsQdc5aU.p1",
+  "vTdTsQdc5aU.p2",
+  "vTdTsQdc5aU.p3",
+  "vTdTsQdc5aU.p4",
+  "vTdTsQdc5aU.p5",
+  "vTdTsQdc5aU.p6",
+  "vTdTsQdc5aU.p7",
+  "vTdTsQdc5aU.p8",
+  "vTdTsQdc5aU.p9",
+  "vTdTsQdc5aU.p10"
+ ]
+}
