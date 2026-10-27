@@ -1,0 +1,24 @@
+{
+ "name": "lane7-008",
+ "lane": 7,
+ "created": "2026-10-27T16:51:23.184Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "XzDhDr8xRzg",
+   "title": "Ansiar pela salvação: esperar as eleições em Parashat Vayerá",
+   "lines": 777,
+   "parts": 7,
+   "from": "parashá da semana"
+  }
+ ],
+ "chunks": [
+  "XzDhDr8xRzg.p0",
+  "XzDhDr8xRzg.p1",
+  "XzDhDr8xRzg.p2",
+  "XzDhDr8xRzg.p3",
+  "XzDhDr8xRzg.p4",
+  "XzDhDr8xRzg.p5",
+  "XzDhDr8xRzg.p6"
+ ]
+}
