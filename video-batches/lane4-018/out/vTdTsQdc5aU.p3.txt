@@ -1,0 +1,120 @@
+360	"Rabbi, I believe."	"Rabino, eu acredito."
+361	What's your name?	Como você se chama?
+362	"Rabbi, my name is Talia."	"Rabino, meu nome é Talia."
+363	You believe?	Você acredita?
+364	"Rabbi, I always watch your classes, I believe in your blessing, I'm getting married."	"Rabino, eu sempre vejo as suas aulas, acredito na sua bênção, vou me casar."
+365	That's what she tells me. "Look, I just came from Modi'in, to the class."	Foi o que ela me disse. "Olha, acabei de vir de Modi'in, para a aula."
+366	I said, do you know what believing means?	Eu disse: você sabe o que é acreditar?
+367	Tomorrow morning you go buy a dress.	Amanhã de manhã você vai comprar um vestido.
+368	The rabbi tells me, "I'll close the guest list, not a dress, okay?"	Ela me diz: "Rabino, eu fecho a lista de convidados, não o vestido, tá?"
+369	That's what she tells me.	Foi o que ela me disse.
+370	I said, a guest list, fine, everyone closes a guest list, but there's no groom.	Eu disse: lista de convidados, tudo bem, todo mundo fecha uma lista de convidados, mas não há noivo.
+371	Measure for measure.	Medida por medida.
+372	What is faith?	O que é fé?
+373	Story number two.	História número dois.
+374	I was in the middle of it, I had already sold my gym.	Eu estava no meio disso, já tinha vendido a minha academia.
+375	I was still a working man.	Eu ainda era um homem que trabalhava.
+376	There's a man here named Shalom, I won't go into it, he appears before me, I can't tell	Há aqui um homem chamado Shalom, não vou entrar nisso, ele aparece diante de mim, não posso contar
+377	these things.	essas coisas.
+378	My rabbi is called Rav Yigal Cohen, and there's another one, Rav Portal.	O meu rabino se chama Rav Yigal Cohen, e há outro, o Rav Portal.
+379	He puts Shalom on the line.	Ele põe o Shalom na linha.
+380	Rav Portal, I'm in a city called Savyon, I was training someone named, look, I'm giving you the names, named	Rav Portal, estou numa cidade chamada Savyon, eu treinava uma pessoa chamada, olha, estou dando os nomes a vocês, chamada
+381	Ofer Goeta.	Ofer Goeta.
+382	Savyon, HaGdarot Street.	Savyon, rua HaGdarot.
+383	Let's not give the whole number, so you can't check it all the way.	Não vamos dar o número inteiro, para vocês não checarem até o fim.
+384	Savyon, HaGdarot Street.	Savyon, rua HaGdarot.
+385	I was there.	Eu estava lá.
+386	Rav Portal says to him, "I want a man to enter yeshivah."	O Rav Portal diz a ele: "Quero que um homem entre na yeshivá."
+387	I said to him, Rabbi, do you know what yeshivah is?	Eu disse a ele: Rabino, você sabe o que é uma yeshivá?
+388	It's like leaving everything, go into Bnei Brak, sit and learn Torah.	É como largar tudo, ir para Bnei Brak, sentar e estudar Torá.
+389	I said to him, Rabbi, I'm not going into a dorm in Bnei Brak?	Eu disse a ele: Rabino, eu não vou entrar num internato em Bnei Brak, certo?
+390	That's not me, that's not my style, I can't do that.	Isso não sou eu, não é o meu estilo, eu não consigo fazer isso.
+391	Rav Geva told me, I wasn't "Rav Geva" then, he told me, "Geva, you'll enter the dorm there, if not,	O Rav Geva me disse, eu ainda não era "Rav Geva" na época, ele me disse: "Geva, você vai entrar no internato, se não,
+392	forget it, you're just playing the tough guy."	esquece, você só está bancando o durão."
+393	He said one sentence to me that shook me, Rav Portal, he was on the line.	Ele me disse uma frase que me abalou, o Rav Portal, ele estava na linha.
+394	You're a tough guy to others; a real man, let's see you facing a page of Gemara.	Você é durão com os outros; um homem de verdade, vamos ver você diante de uma folha de Guemará.
+395	Let's see you be a man facing a page of Gemara. He knew how to touch my sore points.	Vamos ver você ser homem diante de uma folha de Guemará. Ele sabia tocar nos meus pontos.
+396	A real man, let's see you hand over the phone. Be a real man.	Um homem de verdade, vamos ver você largar o telefone. Seja um homem de verdade.
+397	Be a real man, let's see you cope, as a spoiled kid, I was a spoiled kid. You	Seja um homem de verdade, vamos ver você se virar, como criança mimada, eu era uma criança mimada. Vocês
+398	know what a spoiled kid is?	sabem o que é uma criança mimada?
+399	A "cream kid," that's what it's called, a cream kid.	Uma "criança de nata", é assim que se chama, uma criança de nata.
+400	Let's see you live with four others in the same room.	Vamos ver você viver com mais quatro no mesmo quarto.
+401	An old-style dorm, whoever understands will understand, terrified, a bunk bed, where you're afraid of falling every second, every moment you	Um dormitório de antigamente, quem entende, entende, um pavor, beliche, em que você tem medo de cair a cada segundo, a cada momento você
+402	fear falling.	tem medo de cair.
+403	They fight, fight each other over who gets the shower.	Brigam, brigam entre si para ver quem fica com o chuveiro.
+404	That same day we spoke, Shalom sits here, he says to me, "I'm asking you, come to	Naquele mesmo dia em que conversamos, o Shalom está sentado aqui, ele me diz: "Peço que você venha à
+405	Netivot Olam."	Netivot Olam."
+406	The rosh yeshivah, I'm giving you names, check my words.	O rosh yeshivá, estou dando os nomes a vocês, conferam as minhas palavras.
+407	The rabbi is called Rav Yosef Brock.	O rabino se chama Rav Yosef Brock.
+408	Tzuri, pay attention.	Tzuri, preste atenção.
+409	He tells me, at one o'clock you have a meeting there.	Ele me diz: à uma da tarde você tem uma reunião lá.
+410	Getting in there is very hard.	Entrar lá é muito difícil.
+411	Very, very hard.	Muito, muito difícil.
+412	At one o'clock I'm sitting facing the rosh yeshivah, his name is Rav Yosef Brock.	À uma da tarde estou sentado diante do rosh yeshivá, o nome dele é Rav Yosef Brock.
+413	The mashgiach is called Rav Nachum Diamant.	O mashguiach se chama Rav Nachum Diamant.
+414	Check my words.	Conferam as minhas palavras.
+415	I'm there, sitting there.	Estou lá, sentado lá.
+416	I came in sports clothes, as a fitness trainer.	Cheguei de roupa esportiva, como personal trainer.
+417	Who are you?	Quem é você?
+418	What are you?	O que é você?
+419	I'm sitting facing them.	Estou sentado diante deles.
+420	I said to them, listen.	Eu disse a eles: escutem.
+421	I saw the structure, you see an old-style structure.	Eu vi o prédio, um prédio de antigamente.
+422	You know, what a fear it is to arrive in the heart of Bnei Brak.	Vocês sabem que medo é chegar ao coração de Bnei Brak.
+423	An old-style building, a spoiled kid arrives there, they tell me, "Listen, you'll sit, go in	Um prédio de antigamente, uma criança mimada chega lá, e me dizem: "Escute, você vai sentar, entre
+424	now to an hour-long Gemara class, after an hour come out, talk with us."	agora numa aula de Guemará de uma hora, depois de uma hora saia e converse conosco."
+425	I went in to the class, and an hour later I came out, I told them, I love you, I'm not staying here.	Entrei na aula, e uma hora depois saí e disse a eles: eu amo vocês, não vou ficar aqui.
+426	It's not good for me, it didn't do me good, I don't understand, the teacher speaks, I don't know what he's	Não me faz bem, não me fez bem, eu não entendo, o professor fala, não sei o que ele está
+427	saying, Rashi, Tosafot, I didn't understand what he was saying to me at all, nothing, nothing, nothing, I said, I'm not staying here.	falando, Rashi, Tosafot, não entendi nada do que ele dizia, nada, nada, nada, eu disse: não vou ficar aqui.
+428	The rosh yeshivah looks at me and says, how old are you?	O rosh yeshivá olha para mim e diz: quantos anos você tem?
+429	I told him my age.	Eu disse a ele a minha idade.
+430	He said to me, what do you want in your life?	Ele me disse: o que você quer da sua vida?
+431	I told him, listen, I'm not haredi.	Eu disse a ele: escute, eu não sou haredi.
+432	I keep Torah and mitzvot, I try, but not...	Eu guardo Torá e mitsvot, procuro me esforçar, mas não...
+433	He says to me, listen, I heard you're a kid who can	Ele me diz: escute, ouvi dizer que você é um jovem que pode
+434	succeed.	ter sucesso.
+435	Invest in yourself and jump into the water.	Invista em você mesmo e pule na água.
+436	Because whoever lives with a goal succeeds.	Porque quem vive com um objetivo tem sucesso.
+437	I said to him, not me, not you.	Eu disse a ele: eu não, você não.
+438	Let's try a week, but I'm not sleeping here.	Vamos tentar uma semana, mas eu não durmo aqui.
+439	I was afraid to sleep there, I don't know why, I got tense about sleeping there.	Eu tinha medo de dormir lá, não sei por quê, fiquei tenso com a ideia de dormir lá.
+440	He said to me, don't sleep, just come all week.	Ele me disse: não durma, só venha a semana toda.
+441	After I came all week, I'm talking about it with my eyes closing from exhaustion.	Depois que vim a semana toda, falo disso com os olhos fechando de cansaço.
+442	All week I came for half a day.	A semana toda eu vim meio dia.
+443	Half a day I worked, half a day I learned.	Meio dia eu trabalhava, meio dia eu estudava.
+444	From then until a hundred and twenty.	Desde então até os cento e vinte anos.
+445	I arrive at Ben Sasson, today I'm in the yeshivah and kollel Netivot Olam, which is my rosh yeshivah's,	Chego a Ben Sasson, hoje estou na yeshivá e no kolel Netivot Olam, que é do meu rosh yeshivá,
+446	Rav Yosef Brock, and this is Rav Diamant.	o Rav Yosef Brock, e este é o Rav Diamant.
+447	And there I learn every day from nine to six, and that's where I am.	E lá eu estudo todos os dias das nove às seis, e é lá que estou.
+448	You know what I'll tell you?	Sabem o que eu vou contar a vocês?
+449	Faith: everyone needs someone who believed in him.	Fé: todo mundo precisa de alguém que acreditou nele.
+450	Shalom believed in me.	O Shalom acreditou em mim.
+451	He didn't give up on me, he said to me, Geva, in one phone call, please, go check the yeshivah, go see.	Ele não desistiu de mim, ele me disse: Geva, num único telefonema, por favor, vá conferir a yeshivá, vá ver.
+452	And everyone needs someone who believed in him, he believed in me, he's not my father, he's not even my uncle.	E todo mundo precisa de alguém que acreditou nele, ele acreditou em mim, ele não é meu pai, nem meu tio.
+453	He believed in me, and know what a heartbeat is, what is zikuy harabim, every moment I learn, today	Ele acreditou em mim, e saibam o que é um coração batendo, o que é zikui harabim, cada momento que eu estudo, hoje
+454	thank HaShem I have children.	graças a HaShem tenho filhos.
+455	Every moment my children learn and are there and I keep Torah and mitzvot, his heart pounds for you.	Cada momento em que meus filhos estudam e estão lá e eu guardo Torá e mitsvot, o coração dele bate por vocês.
+456	The heart pounds.	O coração bate.
+457	Do you know why I'm telling you this?	Sabem por que estou contando isso a vocês?
+458	Ask yourselves one thing, Lior Vaknin, my dear and beloved.	Perguntem a si mesmos uma coisa, Lior Vaknin, meu querido e amado.
+459	True, the class started at eleven.	É verdade, a aula começou às onze.
+460	But if I had told you at eleven, the lady is waiting in the heart of Tel Aviv.	Mas se eu tivesse dito a você às onze: a moça está esperando no coração de Tel Aviv.
+461	Your day would have only just begun.	O seu dia estaria apenas começando.
+462	Choose between truth and evil.	Escolha entre a verdade e o mal.
+463	Choose between truth and falsehood.	Escolha entre a verdade e a mentira.
+464	Ma'am, do you know what true faith is?	Senhora, você sabe o que é fé verdadeira?
+465	I'm not joking, I feel like crying as I say it, today he's my chavruta, he and I sit together.	Não estou brincando, dá vontade de chorar ao dizer isso, hoje ele é a minha chavruta, ele e eu sentamos juntos.
+466	I remember, as a child, I admired him.	Eu me lembro, quando criança, eu o admirava.
+467	I loved him, to this day I tell him, I'm dust at his feet, dust at the toenail of his foot, I am dust.	Eu o amava, até hoje digo a ele: sou pó aos seus pés, pó na unha do seu pé, sou pó.
+468	I love him with all my soul, like a friend.	Eu o amo de todo o coração, como a um amigo.
+469	I sit and learn with him, he says to me, Rav Sanir, listen well, record my words.	Sento e estudo com ele, ele me diz: Rav Sanir, escutem bem, gravem as minhas palavras.
+470	I won't forget, Rav Sanir, today he lives in Ra'anana, back then he lived in Petach Tikva.	Não vou esquecer, Rav Sanir, hoje ele mora em Ra'anana, naquela época morava em Petach Tikva.
+471	I came to his home as a secular kid.	Fui à casa dele como um jovem secular.
+472	I said to him, Rabbi, I won't forget this, I want to do teshuvah.	Eu disse a ele: Rabino, não vou esquecer isso, quero voltar à Torá.
+473	I can't delete the internet, I can't leave things behind, I'm not managing, I want to, I'm not managing.	Não consigo apagar a internet, não consigo largar as coisas, não consigo, eu quero, não consigo.
+474	I can't keep shemirat negiah.	Não consigo guardar a shemirat negiá.
+475	I can't progress, I want to, I can't, I'm afraid of what people will say.	Não consigo avançar, eu quero, não consigo, tenho medo do que vão dizer.
+476	He said to me, Geva, know one thing.	Ele me disse: Geva, saiba uma coisa.
+477	If you choose the Creator of the world, He will choose you.	Se você escolher o Criador do mundo, Ele escolherá você.
+478	If I had known that this is the life waiting for me as a person who keeps Torah and mitzvot,	Se eu soubesse que esta é a vida que me espera como alguém que guarda Torá e mitsvot,
+479	I would have done teshuvah in first grade.	eu teria voltado à Torá na primeira série.
