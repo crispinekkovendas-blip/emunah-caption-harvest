@@ -23,10 +23,18 @@
 # a day newest first"): the schedule runs the --all sweep with max 30; what does not fit waits in
 # emunah-shlemah-site pipeline/sweep-queue.json for the next days, the other speakers are listed in
 # pipeline/sweep-external.json.
-name: New lessons — Rav Meir Eliyahu / every teacher of the site
+#
+# KABBALAH (2026-10-27, the owner: all the Kabbalah channels of sections A and B of the vault note "Kabbalah
+# Channels Hebrew", "latest 10, yet we need to curate all.. paulatinamente", "separate 30 a day"): the
+# 18:47 schedule (or -f set=kabbalah) runs meir_new.py --set kabbalah — its own channels
+# (pipeline/kabbalah-channels.json), seed (public/data/videos/kabala.json) and queue
+# (pipeline/kabbalah-queue.json). The concurrency group keeps it behind the morning run.
+name: New lessons — Rav Meir Eliyahu / every teacher of the site / Kabbalah
+run-name: ${{ (github.event.schedule == '47 18 * * *' || inputs.set == 'kabbalah') && 'Kabbalah channels' || 'Site teachers' }}
 on:
   schedule:
     - cron: '17 6 * * *'
+    - cron: '47 18 * * *'
   workflow_dispatch:
     inputs:
       ids:
@@ -46,6 +54,11 @@ on:
         description: 'Only list and count the new lessons'
         type: boolean
         default: false
+      set:
+        description: 'site = the teachers of the site, kabbalah = the Kabbalah channels (2026-10-27)'
+        type: choice
+        options: [site, kabbalah]
+        default: site
 concurrency:
   group: meir-new
   cancel-in-progress: false
@@ -53,10 +66,11 @@ permissions:
   contents: write
 env:
   OWNER: crispinekkovendas-blip
+  SET: ${{ (github.event.schedule == '47 18 * * *' || inputs.set == 'kabbalah') && 'kabbalah' || 'site' }}
 jobs:
   find:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 150
     outputs:
       ids: ${{ steps.ids.outputs.ids }}
       csv: ${{ steps.ids.outputs.csv }}
@@ -83,7 +97,7 @@ jobs:
         working-directory: site
         env:
           YT_COOKIES_FILE: ${{ runner.temp }}/cookies.txt
-        run: python -u pipeline/meir_new.py find --out "$GITHUB_WORKSPACE/new.json" --max ${{ inputs.max || '30' }} ${{ inputs.since && format('--since {0}', inputs.since) || '' }} ${{ (github.event_name == 'schedule' || inputs.all) && '--all' || '' }} ${{ inputs.dry && '--dry' || '' }}
+        run: python -u pipeline/meir_new.py find --set "$SET" --out "$GITHUB_WORKSPACE/new.json" --max ${{ inputs.max || '30' }} ${{ inputs.since && format('--since {0}', inputs.since) || '' }} ${{ (github.event_name == 'schedule' || inputs.all) && '--all' || '' }} ${{ inputs.dry && '--dry' || '' }}
       - id: ids
         name: The lessons to do
         run: |
@@ -102,8 +116,8 @@ jobs:
         run: |
           git config user.name "meir-new"
           git config user.email "actions@github.com"
-          git add public/data/videos/he.json pipeline/sweep-queue.json pipeline/sweep-external.json 2>/dev/null || git add public/data/videos/he.json
-          git diff --cached --quiet || (git commit -q -m "videos: new uploads in the library seed + the sweep queue (meir-new.yml)" && for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done)
+          for p in public/data/videos/he.json public/data/videos/kabala.json pipeline/sweep-*.json pipeline/kabbalah-*.json; do [ ! -e "$p" ] || git add "$p"; done
+          git diff --cached --quiet || (git commit -q -m "videos: new uploads in the library seed + the $SET queue (meir-new.yml)" && for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done)
       - uses: actions/upload-artifact@v4
         with:
           name: found
@@ -322,7 +336,8 @@ jobs:
       - name: Commit everything
         run: |
           push() { for i in 1 2 3; do git pull --rebase -q && git push -q && return 0; sleep 5; done; return 1; }
-          msg="Rav Meir Eliyahu's new lessons curated on GitHub (meir-new.yml run ${{ github.run_id }}): ${{ needs.find.outputs.csv }}"
+          if [ "$SET" = kabbalah ]; then who="Kabbalah channels' lessons"; else who="New lessons of the site's teachers"; fi
+          msg="$who curated on GitHub (meir-new.yml run ${{ github.run_id }}): ${{ needs.find.outputs.csv }}"
           for d in . site shiur book; do
             (cd "$d" && git config user.name "meir-new" && git config user.email "actions@github.com")
           done
