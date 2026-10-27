@@ -1,0 +1,58 @@
+{
+ "name": "lane5-019",
+ "lane": 5,
+ "created": "2026-10-27T16:51:07.016Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "O0EBdkbeNS8",
+   "title": "Prioridades na vida: o que não adiar, com Avraham em Vayera",
+   "lines": 833,
+   "parts": 7,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "3CVmjaG83W8",
+   "title": "Quatro níveis no estudo da Torá e o apoio aos sábios",
+   "lines": 926,
+   "parts": 8,
+   "from": "mais fontes"
+  },
+  {
+   "id": "nBc8EN0-ORY",
+   "title": "Mishná Bava Metzia 5:3-4: Avak ribit e Iska",
+   "lines": 313,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "kWMFWdYVCfA",
+   "title": "Dia das eleições como dia de julgamento por quatro anos",
+   "lines": 187,
+   "parts": 2,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "O0EBdkbeNS8.p0",
+  "O0EBdkbeNS8.p1",
+  "O0EBdkbeNS8.p2",
+  "O0EBdkbeNS8.p3",
+  "O0EBdkbeNS8.p4",
+  "O0EBdkbeNS8.p5",
+  "O0EBdkbeNS8.p6",
+  "3CVmjaG83W8.p0",
+  "3CVmjaG83W8.p1",
+  "3CVmjaG83W8.p2",
+  "3CVmjaG83W8.p3",
+  "3CVmjaG83W8.p4",
+  "3CVmjaG83W8.p5",
+  "3CVmjaG83W8.p6",
+  "3CVmjaG83W8.p7",
+  "nBc8EN0-ORY.p0",
+  "nBc8EN0-ORY.p1",
+  "nBc8EN0-ORY.p2",
+  "kWMFWdYVCfA.p0",
+  "kWMFWdYVCfA.p1"
+ ]
+}

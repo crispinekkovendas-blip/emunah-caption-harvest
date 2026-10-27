@@ -1,0 +1,97 @@
+videoId: nBc8EN0-ORY
+parte 3 de 3 · traduzir as linhas 240 a 312 (73 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mishná Bava Metzia 5:3-4: Avak ribit e Iska
+RESUMO: A aula explica a Mishná 3 do capítulo 5 de Bava Metzia: quem vende um campo e recebe só parte do pagamento não pode dizer "quando você trouxer o restante, leve o campo", pois quem come os frutos nesse intervalo incorre em avak ribit (de Rabanan) e até em roubo, conforme o Rabeinu Ovadia de Bartenura. Se a venda é "a partir de agora", ambos ficam proibidos e os frutos são colocados com um terceiro (shalish) até se saber o desfecho. No segundo caso, o do empréstimo sobre o campo hipotecado ("se não me pagar em três anos, será meu"), é permitido porque é uma venda efetiva "a partir de agora", sem asmachta, conforme o Bartenura. Em seguida é citada a Guemará do capítulo "Eizehu Neshech" sobre os casos em que um, outro, ambos ou nenhum pode comer os frutos. Na Mishná 4, sobre não estabelecer um lojista "pela metade do lucro", o rabino ilustra com o exemplo de uma falafelaria e a divisão metade empréstimo, metade depósito, mostrando que o trabalho sobre o depósito não pode ser gratuito. A solução é pagar um salário (shechar poel), e hoje o heter iska prevê 60% do lucro para o trabalhador. A aula termina com as galinhas, bezerros e potros, citando o Bartenura sobre responsabilidade e avaliação.
+MOMENTOS: 00:00 Leitura da Mishná 3: venda do campo com pagamento parcial · 00:52 Explicação do caso: comprador pagou só parte do valor · 01:19 Por que é proibido: frutos, roubo e avak ribit · 03:13 O caso inverso: o comprador come os frutos · 04:29 Venda "a partir de agora": ambos proibidos e frutos com o shalish · 05:44 Bartenura sobre "traga o restante e leve o campo" · 07:20 Empréstimo sobre o campo hipotecado: três anos · 09:00 Asmachta e a diferença do "a partir de agora" · 10:26 Guemará: quando um, outro ou ambos podem comer os frutos · 12:59 Mishná 4: lojista pela metade do lucro · 14:30 Exemplo da falafelaria: metade empréstimo, metade depósito · 18:57 Solução: salário de trabalhador e heter iska com 60% · 19:47 Galinhas, bezerros e potros pela metade
+FONTES CITADAS: 00:00 Bava Metzia 5:3 · 00:13 Bava Metzia 5:3 · 00:23 Bava Metzia 5:3 · 02:32 Avak ribit de Rabanan · 05:44 Rabeinu Ovadia de Bartenura em Bava Metzia 5:3 · 08:23 Rabeinu Ovadia de Bartenura em Bava Metzia 5:3 · 09:39 Rabeinu Ovadia de Bartenura em Bava Metzia 5:3 · 10:26 Bava Metzia 72b (capítulo Eizehu Neshech) · 12:59 Bava Metzia 5:4 · 13:19 Bava Metzia 5:4 · 13:53 Rabeinu Ovadia de Bartenura em Bava Metzia 5:4 · 20:04 Rabeinu Ovadia de Bartenura em Bava Metzia 5:4 · 20:46 Rabeinu Ovadia de Bartenura em Bava Metzia 5:4 · 21:23 Rabeinu Ovadia de Bartenura em Bava Metzia 5:4 · 21:54 Rabeinu Ovadia de Bartenura em Bava Metzia 5:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|16:33|ולכן הרווחים יהיו שלי.
+229|16:36|יוצא לנו מכאן, שבסופו של דבר הוא יחזיר לו את כל ה-100,000 שקל, כי גם
+230|16:42|את ה-50,000 שקל של ההלוואה הוא צריך להחזיר, וגם את ה-50,000 שקל של הפיקרון הוא צריך
+231|16:46|להחזיר.
+232|16:47|חוץ מזה, הוא גם ייתן לו 50% מהרווחים.
+233|16:54|זה לכאורה יותר עסקה.
+234|16:55|מה אתם אומרים, באופן כזה מותר או אסור?
+235|17:03|הדבר הזה הוא עדיין אסור.
+236|17:06|למה אסור?
+237|17:06|אבל הוא לא לקח שקל אחד על החמישים אלף שקל של ההלוואה.
+238|17:12|התשובה היא, זה לא נכון.
+239|17:15|זה שהוא התעסק לו בפיקדון, בחמישים אלף שקל של הפיקדון, הוא התעסק וכולי והרוויח
+
+LINHAS A TRADUZIR:
+240|17:21|בשבילו.
+241|17:22|סוף סוף הוא עבד אצלו.
+242|17:24|הוא עבד בשבילו.
+243|17:26|למה הוא לא שילם לו על זה?
+244|17:28|מי היה עושה לו את זה בחינם?
+245|17:32|תגיד כן, הוא הסכים לעשות את זה, מכיוון
+246|17:38|שיש לו בזה גם רווח.
+247|17:41|מה הכוונה יש לו בזה גם רווח?
+248|17:43|כל מה שהוא מרוויח מההלוואה זה רווחים שלו, סליחה.
+249|17:49|אבל על מה שהוא מרוויח מההלוואה ומה שהוא נהנה מההלוואה, על זה אסור לך לקחת
+250|17:55|תשלום.
+251|17:57|מכיוון שעל זה אסור לך לקחת תשלום.
+252|18:00|כי אז יוצא לנו מכאן שהוא במילים אחרות הסכים לעבוד אצלך בחינם בגלל ההלוואה
+253|18:05|שנתת לו.
+254|18:07|ולכן יש פה איסור ריבית.
+255|18:10|אז לכן, לכן רבותיי, על מנת
+256|18:18|לפתור את הבעיה הזאת, פשוט מאוד, הוא צריך לשלם לו שכר מסוים
+257|18:25|על כך שהוא יתעסק לו בפיקדון.
+258|18:28|צריך לשלם לו שכר.
+259|18:31|ולכן, זה בעצם מה שאומרת המשנה שלנו.
+260|18:34|אין מושיבין חנווני למחצית שכר, אפילו שהוא עושה איתו פל גמיל ופל גפיקדון,
+261|18:40|ומתחלקים חצי-חצי ברווחים, ולא ייתן מעות לקח בהם פירות
+262|18:45|למחצית שכר, מחצית שכר הכוונה שהם חוצים את הרווחים,
+263|18:51|אלא אם כן נתן לו שכרו כפועל.
+264|18:55|צריך לתת לו שכרו כפועל.
+265|18:57|היום בזמננו בשטר של ההתר עסקה, איך אנחנו פותחים את הבעיה הזאת פשוט
+266|19:03|מאוד.
+267|19:04|אני כבר מעיקר, הבשטר של היתר עסקה, אני אומר לו שהוא יקבל 60% מהרווחים,
+268|19:09|ואני 40% מהרווחים.
+269|19:12|פתרתי את הבעיה.
+270|19:14|כי 50% מהרווחים מגיע לו, על פי דין.
+271|19:17|עוד 10% מהרווחים זה מהפיקדון, מהרווחים של הפיקדון, שזה שכר על זה
+272|19:23|שהתעסקת לי בפיקדון.
+273|19:26|40% מהרווחים מגיעים אליי.
+274|19:29|ואז יוצא לנו מכאן, שאכן ניכר הדבר, שגם מה שהוא התעסק בפיקדון,
+275|19:35|זה לא היה בעבור ההלוואה, אלא זה בעבור המשכורת שהוא
+276|19:41|קיבל מהפיקדון עצמו.
+277|19:43|ולכן זה יהיה בסדר.
+278|19:47|אומרת המשנה, אין מושיבים תרנגולים למחצה, ואין שמעין עגלים ושיחין
+279|19:53|למחצה, אלא אם כן נותן לו שכר עמלו ומזונו, וזה אותו עיקרון.
+280|19:58|אומר רבנו עובדיה מברטנוע, קודם כל, שכר
+281|20:04|כפועל, אז נחלקו בזה, כאיזה פועל הוא צריך לתת.
+282|20:08|אז הוא כותב מפורשות, אברטנורה, אלא אם כן נותן לו שכר עמלו
+283|20:14|שהוא עמל באותו החצי כפועל בטל של אותה מלאכה דה בטל מינה.
+284|20:18|זאת אומרת, כגון אם הוא היה נגר או נפח, כמה אדם רוצה ליטול, להיבטל ממלאכה כבדה זו
+285|20:24|ולעשות מלאכה קלה.
+286|20:26|כמה היית מוכן להשתחרר בפחות, כמה היית מוכן, פה אתה מרוויח עשר אלף, כמה היית מוכן להרוויח
+287|20:32|פחות, רק בשביל לא לעבוד קשה.
+288|20:36|ככה ברטנורה מסביר.
+289|20:37|ויש מסבירים אחרת.
+290|20:40|בכל מקרה, אומרת המשנה, אין מושיבים תרנגולים למחצה, אומר
+291|20:46|הברטנורה, לשום ביצים בדמים לבעל התרנגולית, לא שיבה עליהם לגדל יפוחים, למחצית
+292|20:52|שכר.
+293|20:53|מה שהיו ההפוכים שווים יותר על דמי הביצים.
+294|20:57|דהואיל וזה מקבל עליו אחריות חצי דמי הביצים, אם יתקלקלו או אם ימותו,
+295|21:03|אבל יפל גם מלווה.
+296|21:04|נמצא זה מגדל את חצן השני בשכר המתנת מעותיו.
+297|21:08|אז לא יעשה כן, אלא אם כן נותן לו שכר עמלו ומזונו.
+298|21:14|שכר עמלו ומזונו, אומר הרב, מזון שהוא מוציא בהפוכים.
+299|21:19|ואין שמין עגלים ושיחין למחצה.
+300|21:23|אומר ברטינורה עכשיו הם שמים כך וכך קבלם עליך לגדלם שנתיים למחצית שכר ולמחצית הפסד אם
+301|21:28|ימותו אז לא עושים כן אבל מקבלים עגלים וסייחים קטנים בלא שומה
+302|21:35|שאם ימותו לא ישלם כלום ברגע שהוא לא מקבל על עצמו אחריות עליהם אז אין פה כל כך דין
+303|21:41|של הלוואה ואם יחיו יחלקו ביניהם
+304|21:47|אז לכן אבל מקבלים עגלים וצייחים למחיצה ומגדלים אותם עד שיהיו משולשים.
+305|21:53|מה הכוונה משולשים?
+306|21:54|אומר הברצינורה פירש כי שיעמדו על שליש גידולם ואז יחלוקו וחמור עד שתהיה טוענת
+307|22:01|מסעוי.
+308|22:02|כך היה מנהגם לגדלם קודם חלוקה.
+309|22:05|אז בעצם הוא לא מקבל על עצמו אחריות עליהם אם הם ימותו ולכן זה כאילו מתעסק רק
+310|22:11|בשלו ולאחר מכן הם יכולים לחלוק ביניהם פה אין פה דין של הלוואה ולכן זה
+311|22:16|יהיה מותר.
+312|22:18|ברוך ה' לעולם, אמן ואמן.
