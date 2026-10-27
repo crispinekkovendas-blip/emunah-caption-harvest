@@ -1,0 +1,53 @@
+{
+ "name": "lane10-008",
+ "lane": 10,
+ "created": "2026-10-27T16:52:10.844Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "QBHQwdHLg7M",
+   "title": "Bênção dos noivos e o cálice de vinho na chupá",
+   "lines": 762,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Zk8BOBs1q30",
+   "title": "Proibições por perigo: bebida descoberta, peixe e carne",
+   "lines": 1037,
+   "parts": 9,
+   "from": "mais fontes"
+  },
+  {
+   "id": "1-K-ptdrfME",
+   "title": "Emunah: ver HaShem por trás de tudo e não odiar ninguém",
+   "lines": 687,
+   "parts": 6,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "QBHQwdHLg7M.p0",
+  "QBHQwdHLg7M.p1",
+  "QBHQwdHLg7M.p2",
+  "QBHQwdHLg7M.p3",
+  "QBHQwdHLg7M.p4",
+  "QBHQwdHLg7M.p5",
+  "QBHQwdHLg7M.p6",
+  "Zk8BOBs1q30.p0",
+  "Zk8BOBs1q30.p1",
+  "Zk8BOBs1q30.p2",
+  "Zk8BOBs1q30.p3",
+  "Zk8BOBs1q30.p4",
+  "Zk8BOBs1q30.p5",
+  "Zk8BOBs1q30.p6",
+  "Zk8BOBs1q30.p7",
+  "Zk8BOBs1q30.p8",
+  "1-K-ptdrfME.p0",
+  "1-K-ptdrfME.p1",
+  "1-K-ptdrfME.p2",
+  "1-K-ptdrfME.p3",
+  "1-K-ptdrfME.p4",
+  "1-K-ptdrfME.p5"
+ ]
+}
