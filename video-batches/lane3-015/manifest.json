@@ -17,5 +17,10 @@
   "kgMR0DvHA8M.p1",
   "kgMR0DvHA8M.p2",
   "kgMR0DvHA8M.p3"
- ]
+ ],
+ "tries": {
+  "kgMR0DvHA8M": 1
+ },
+ "done": [],
+ "skipped": []
 }
