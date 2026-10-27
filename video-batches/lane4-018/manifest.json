@@ -2,7 +2,7 @@
  "name": "lane4-018",
  "lane": 4,
  "created": "2026-10-27T16:50:48.944Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "MnOMG7feQRw",
@@ -64,12 +64,15 @@
  ],
  "tries": {
   "MnOMG7feQRw": 1,
-  "Xqw-x_pjX08": 2,
+  "Xqw-x_pjX08": 3,
   "2loRn9IlBTY": 2
  },
  "done": [
   "vTdTsQdc5aU",
-  "MnOMG7feQRw"
+  "MnOMG7feQRw",
+  "2loRn9IlBTY"
  ],
- "skipped": []
+ "skipped": [
+  "Xqw-x_pjX08"
+ ]
 }
