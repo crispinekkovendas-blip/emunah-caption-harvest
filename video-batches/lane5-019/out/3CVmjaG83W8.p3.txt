@@ -1,0 +1,120 @@
+360	It's not Achav's kitchen, you're mistaken.	Não é a cozinha de Achav, você está enganado.
+361	Who cooked there?	Quem cozinhava lá?
+362	Ovadia.	Ovadia.
+363	Who did the slaughtering?	Quem abatia os animais?
+364	Ovadia the prophet.	Ovadia, o profeta.
+365	He was their shochet.	Ele era o shochet deles.
+366	He prepared the food.	Ele preparava a comida.
+367	So the ravens would come, take meat, and feed	Então os corvos vinham, pegavam carne e alimentavam
+368	Eliyahu.	Eliyahu.
+369	Eliyahu could not have survived otherwise.	Eliyahu não teria como sobreviver.
+370	Yes.	Sim.
+371	Okay, now you can sleep	Bem, agora você pode dormir
+372	now.	agora.
+373	Do you know what is written there?	Você sabe o que está escrito ali?
+374	Do you understand what is written?	Você entende o que está escrito?
+375	Do you know what Rabbi Shimon bar Yochai writes about them?	Você sabe o que Rabi Shimon bar Yochai escreve sobre eles?
+376	He says there is a raven and there is a dove.	Ele diz que há o corvo e há a pomba.
+377	The raven is the erev rav, it's your congregation.	O corvo é o erev rav, é a sua congregação.
+378	The erev rav is the raven.	O erev rav é o corvo.
+379	And the dove is the talmid chacham, the tzaddik who sits and learns Torah.	E a pomba é o sábio da Torá, o tsadik que se senta e estuda Torá.
+380	Did you hear?	Ouviu?
+381	The Shechinah, how does the Gemara put it?	A Shechiná, como a Guemará diz?
+382	"Keneset Yisrael is likened to a dove."	"Keneset Yisrael é comparada à pomba."
+383	Why a dove?	Por que a pomba?
+384	Why?	Por quê?
+385	What about the dove?	O que há com a pomba?
+386	Its wings protect it.	Suas asas a protegem.
+387	If you come to catch the dove, what does it do?	Se você vem pegar a pomba, o que ela faz?
+388	It starts beating its wings at you.	Começa a bater as asas contra você.
+389	And if it's a male dove, wow, wow, it scratches	E se é um pombo macho, nossa, nossa, ele arranha
+390	you.	você.
+391	So the dove, its wings protect it; Israel, the mitzvot	Assim a pomba, suas asas a protegem; Israel, as mitsvot
+392	protect them.	os protegem.
+393	And so there was an episode in the Gemara, Elisha Baal Kenafayim.	E por isso há um episódio na Guemará, Elisha Baal Kenafayim.
+394	What happened with him?	O que aconteceu com ele?
+395	When the kingdom decreed not to put on tefillin.	Quando o reino decretou que não se pusessem tefilin.
+396	What happened with him?	O que aconteceu com ele?
+397	With Elisha Baal Kenafayim.	Com Elisha Baal Kenafayim.
+398	I didn't understand anything.	Não entendi nada.
+399	The kingdom decreed that they not put on tefillin.	O reino decretou que não se pusessem tefilin.
+400	He had tefillin on, he was walking along, and there came	Ele estava com tefilin, andando, e então veio
+401	the officer.	o oficial.
+402	He chased after him; what did he do?	Perseguiu-o; o que ele fez?
+403	He took the tefillin and tucked them away in his garment.	Pegou os tefilin e os escondeu na roupa.
+404	The officer said to him, take your hand out of there.	O oficial disse: tire a mão daí.
+405	He said, what do you want from me? Show me dove's wings.	Ele disse: o que você quer de mim? Mostre-me asas de pomba.
+406	He opened it and took out dove's wings.	Abriu e tirou asas de pomba.
+407	What else happened with him?	O que mais aconteceu com ele?
+408	There was another story.	Houve outra história.
+409	They ate there on the way, they were traveling in a storm.	Comeram ali no caminho, viajavam numa tempestade.
+410	They ate on the way, and then began to travel in the storm.	Comeram no caminho e então começaram a viajar na tempestade.
+411	He was still in the middle of the meal.	Ele ainda estava no meio da refeição.
+412	Now he has to bless where he finished.	Agora ele tem de recitar a bênção onde terminou.
+413	He wants to go back, and they won't let him.	Quer voltar, e não o deixam.
+414	What did he tell them?	O que ele lhes disse?
+415	I forgot a golden dove, dove's wings.	Esqueci uma pomba de ouro, asas de pomba.
+416	What, what?	O quê, o quê?
+417	That's not a blessing.	Isso não é uma bênção.
+418	I don't know, look it up in the Gemara.	Não sei, procure na Guemará.
+419	He told them, I lost it, I forgot the wings of	Disse-lhes: perdi, esqueci as asas de
+420	a dove.	uma pomba.
+421	He went back the whole way, and from heaven he found dove's wings	Voltou todo o caminho e, do céu, encontrou asas de pomba
+422	and brought them with him.	e as trouxe consigo.
+423	So he recited Birkat HaMazon in that place.	Assim recitou o Birkat HaMazon naquele lugar.
+424	See what he merited.	Veja o que ele mereceu.
+425	This is in this world.	Isso é neste mundo.
+426	All the more so in the World to Come.	Quanto mais no Mundo Vindouro.
+427	That's by Greenwich time.	Isso é pelo horário de Greenwich.
+428	Okay, so...	Bem, então...
+429	The Gaon of Vilna.	O Gaon de Vilna.
+430	What, what?	O quê, o quê?
+431	The Gaon	O Gaon
+432	of Vilna, and he didn't say.	de Vilna, e ele não disse.
+433	What, what does he say?	O quê, o que ele diz?
+434	The Gaon of Vilna, the Gaon of Vilna, but he says no...	O Gaon de Vilna, o Gaon de Vilna, mas ele diz que não...
+435	Yes, the Gaon of Vilna, I'm in the middle, wait, I know.	Sim, o Gaon de Vilna, estou no meio, espere, eu sei.
+436	So the Gaon of Vilna says, "It is a tree of life to those who hold fast," and the one who holds gives food	Diz então o Gaon de Vilna: "É árvore da vida para os que a seguram", e quem segura dá comida
+437	to Torah students, to those who learn Torah.	aos estudantes de Torá, aos que estudam Torá.
+438	That is the tree of life.	Essa é a árvore da vida.
+439	Then there is the one who supports, who truly supports	Depois há o que apoia, que apoia de fato
+440	with money and in all kinds of matters the talmidei chachamim.	com dinheiro e em todo tipo de assunto os sábios da Torá.
+441	He says there is a third level, those who sit	Ele diz que há um terceiro nível, os que se sentam
+442	and hear words of Torah.	e ouvem palavras de Torá.
+443	The first feeds the talmid chacham.	O primeiro alimenta o sábio.
+444	The second supports him.	O segundo o apoia.
+445	The third sits and hears words of Torah from him.	O terceiro se senta e ouve dele palavras de Torá.
+446	And the fourth, he writes, and see in the Zohar, in the portion	E o quarto, ele escreve, e veja no Zohar, na parashá
+447	…, Zohar on Vayikra, page 23,	…, Zohar sobre Vayikrá, página 23,
+448	it is written that a person who assists the	está escrito que a pessoa que ajuda os
+449	sages merits that true prophets come forth from his offspring,	sábios merece que de sua descendência saiam verdadeiros profetas,
+450	in the Zohar's words, prophets of truth.	nas palavras do Zohar, profetas de verdade.
+451	See what a person merits.	Veja o que a pessoa merece.
+452	He brings the verse, "The holy stones are poured out at the head of every	Ele traz o versículo: "As pedras sagradas estão espalhadas na esquina de todas as
+453	street."	ruas."
+454	What is he talking about?	De que ele está falando?
+455	Listen to what he is talking about.	Ouça de que ele está falando.
+456	What these wicked ones do, they do to the yeshivas.	O que esses perversos fazem, fazem com as yeshivot.
+457	What do they do?	O que eles fazem?
+458	They entice them to leave the yeshiva and go to work	Seduzem-nos a deixar a yeshivá e ir trabalhar
+459	and earn a living.	e ganhar o sustento.
+460	About them it is said, "The holy stones are poured out."	Sobre eles está dito: "As pedras sagradas estão espalhadas."
+461	At first they were inside the yeshiva, holy stones, at the head of every street.	No início estavam dentro da yeshivá, pedras sagradas, na esquina de todas as ruas.
+462	Where do they go?	Para onde vão?
+463	To all sorts of places, to leave, to go and make a living.	Para todo tipo de lugar, para sair, para ir ganhar o sustento.
+464	And therefore know, a person who learned, as Tana DeVei Eliyahu brought, a person	E por isso saiba, uma pessoa que estudou, como trouxe o Tana DeVei Eliyahu, uma pessoa
+465	who learned Torah and taught Torah and guarded	que estudou Torá, ensinou Torá e guardou
+466	the Torah and did and fulfilled the Torah.	a Torá e a praticou e a cumpriu.
+467	But he had money, and it was in his power to support	Mas tinha dinheiro, e estava ao seu alcance sustentar
+468	the talmid chacham so that he would not leave the yeshiva and go to work.	o sábio para que ele não deixasse a yeshivá e fosse trabalhar.
+469	Did you hear?	Ouviu?
+470	Did you hear?	Ouviu?
+471	And he did not give him money so that he would not go out to work.	E não lhe deu dinheiro para que não saísse a trabalhar.
+472	He did not do it; about this man, heaven forbid, it is said,	Não fez isso; sobre esse homem, que o Céu nos livre, está dito:
+473	"Cursed be he who does not uphold the words of this Torah."	"Maldito quem não confirmar as palavras desta Torá."
+474	"Uphold" means he does not strengthen the one who sits and learns Torah.	"Confirmar" quer dizer que não fortalece quem se senta e estuda Torá.
+475	He says, so see how grave it is for those who leave learning	Ele diz: veja então como é grave para os que deixam o estudo
+476	and go to work.	e vão trabalhar.
+477	And they are enticed today.	E hoje os seduzem.
+478	They entice them too.	Também os seduzem.
+479	They make advertisements and say it's a mitzvah, and they have rabbis who tell them so,	Fazem propagandas e dizem que é mitsvá, e têm rabinos que lhes dizem isso,
