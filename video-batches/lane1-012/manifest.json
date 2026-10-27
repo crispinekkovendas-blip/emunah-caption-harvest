@@ -2,7 +2,7 @@
  "name": "lane1-012",
  "lane": 1,
  "created": "2026-10-27T16:51:07.804Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "tx8KxzsTKOk",
@@ -66,13 +66,16 @@
  ],
  "tries": {
   "tx8KxzsTKOk": 1,
-  "SCmj-C56Ceg": 2,
-  "urybg2p-a9A": 2
+  "SCmj-C56Ceg": 3,
+  "urybg2p-a9A": 3
  },
  "done": [
   "MqI_nUUUE4Q",
   "vR8cmCA8I3k",
   "tx8KxzsTKOk"
  ],
- "skipped": []
+ "skipped": [
+  "SCmj-C56Ceg",
+  "urybg2p-a9A"
+ ]
 }
