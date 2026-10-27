@@ -1,0 +1,22 @@
+{
+ "name": "lane2-020",
+ "lane": 2,
+ "created": "2026-10-27T16:50:33.928Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "wZhP7BSJmMg",
+   "title": "Vayera: hospitalidade, tzniut e proteção das mitzvot",
+   "lines": 583,
+   "parts": 5,
+   "from": "parashá da semana"
+  }
+ ],
+ "chunks": [
+  "wZhP7BSJmMg.p0",
+  "wZhP7BSJmMg.p1",
+  "wZhP7BSJmMg.p2",
+  "wZhP7BSJmMg.p3",
+  "wZhP7BSJmMg.p4"
+ ]
+}
