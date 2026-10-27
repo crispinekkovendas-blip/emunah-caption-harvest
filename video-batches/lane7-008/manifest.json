@@ -20,5 +20,10 @@
   "XzDhDr8xRzg.p4",
   "XzDhDr8xRzg.p5",
   "XzDhDr8xRzg.p6"
- ]
+ ],
+ "tries": {
+  "XzDhDr8xRzg": 1
+ },
+ "done": [],
+ "skipped": []
 }
