@@ -2,7 +2,7 @@
  "name": "lane3-015",
  "lane": 3,
  "created": "2026-10-27T16:50:41.303Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "kgMR0DvHA8M",
@@ -21,6 +21,8 @@
  "tries": {
   "kgMR0DvHA8M": 1
  },
- "done": [],
+ "done": [
+  "kgMR0DvHA8M"
+ ],
  "skipped": []
 }
