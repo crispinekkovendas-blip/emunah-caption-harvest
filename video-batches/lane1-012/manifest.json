@@ -1,0 +1,67 @@
+{
+ "name": "lane1-012",
+ "lane": 1,
+ "created": "2026-10-27T16:51:07.804Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "tx8KxzsTKOk",
+   "title": "Vayera: a força da fé e da confiança em HaShem",
+   "lines": 424,
+   "parts": 4,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "MqI_nUUUE4Q",
+   "title": "Abiá, a guerra contra Yaravam e o drama das agunot",
+   "lines": 493,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "SCmj-C56Ceg",
+   "title": "Rambam Shechitá 1:14 – a faca e o tamanho da falha",
+   "lines": 556,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vR8cmCA8I3k",
+   "title": "Eleições: santificar o Nome e seguir os grandes da Torá",
+   "lines": 278,
+   "parts": 3,
+   "from": "mais fontes"
+  },
+  {
+   "id": "urybg2p-a9A",
+   "title": "A maldade de Sodoma e o mérito de Lot e suas filhas",
+   "lines": 588,
+   "parts": 5,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "tx8KxzsTKOk.p0",
+  "tx8KxzsTKOk.p1",
+  "tx8KxzsTKOk.p2",
+  "tx8KxzsTKOk.p3",
+  "MqI_nUUUE4Q.p0",
+  "MqI_nUUUE4Q.p1",
+  "MqI_nUUUE4Q.p2",
+  "MqI_nUUUE4Q.p3",
+  "MqI_nUUUE4Q.p4",
+  "SCmj-C56Ceg.p0",
+  "SCmj-C56Ceg.p1",
+  "SCmj-C56Ceg.p2",
+  "SCmj-C56Ceg.p3",
+  "SCmj-C56Ceg.p4",
+  "vR8cmCA8I3k.p0",
+  "vR8cmCA8I3k.p1",
+  "vR8cmCA8I3k.p2",
+  "urybg2p-a9A.p0",
+  "urybg2p-a9A.p1",
+  "urybg2p-a9A.p2",
+  "urybg2p-a9A.p3",
+  "urybg2p-a9A.p4"
+ ]
+}
