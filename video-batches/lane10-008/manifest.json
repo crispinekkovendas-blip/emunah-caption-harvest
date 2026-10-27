@@ -2,7 +2,7 @@
  "name": "lane10-008",
  "lane": 10,
  "created": "2026-10-27T16:52:10.844Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "QBHQwdHLg7M",
@@ -51,11 +51,13 @@
   "1-K-ptdrfME.p5"
  ],
  "tries": {
-  "QBHQwdHLg7M": 2
+  "QBHQwdHLg7M": 3
  },
  "done": [
   "Zk8BOBs1q30",
   "1-K-ptdrfME"
  ],
- "skipped": []
+ "skipped": [
+  "QBHQwdHLg7M"
+ ]
 }
