@@ -1,0 +1,33 @@
+{
+ "name": "lane9-006",
+ "lane": 9,
+ "created": "2026-10-27T16:51:56.362Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "l612Tc6knSM",
+   "title": "Avraham e a hospitalidade: o que a Parashá Vayerá ensina",
+   "lines": 675,
+   "parts": 6,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "dW4MAykyZtY",
+   "title": "Bá bayamim: levar o passado consigo, até as quedas",
+   "lines": 323,
+   "parts": 3,
+   "from": "parashá da semana"
+  }
+ ],
+ "chunks": [
+  "l612Tc6knSM.p0",
+  "l612Tc6knSM.p1",
+  "l612Tc6knSM.p2",
+  "l612Tc6knSM.p3",
+  "l612Tc6knSM.p4",
+  "l612Tc6knSM.p5",
+  "dW4MAykyZtY.p0",
+  "dW4MAykyZtY.p1",
+  "dW4MAykyZtY.p2"
+ ]
+}
