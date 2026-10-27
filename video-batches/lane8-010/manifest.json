@@ -1,0 +1,36 @@
+{
+ "name": "lane8-010",
+ "lane": 8,
+ "created": "2026-10-27T16:51:59.612Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "PyYGb6g1zNA",
+   "title": "A grande estratégia de Shlomo HaMelech: o coração que ouve",
+   "lines": 721,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "AjX-ySqvn6I",
+   "title": "A queda da Europa e a ascensão de Israel no plano divino",
+   "lines": 498,
+   "parts": 5,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "PyYGb6g1zNA.p0",
+  "PyYGb6g1zNA.p1",
+  "PyYGb6g1zNA.p2",
+  "PyYGb6g1zNA.p3",
+  "PyYGb6g1zNA.p4",
+  "PyYGb6g1zNA.p5",
+  "PyYGb6g1zNA.p6",
+  "AjX-ySqvn6I.p0",
+  "AjX-ySqvn6I.p1",
+  "AjX-ySqvn6I.p2",
+  "AjX-ySqvn6I.p3",
+  "AjX-ySqvn6I.p4"
+ ]
+}
