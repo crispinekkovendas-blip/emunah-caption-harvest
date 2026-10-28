@@ -1,0 +1,58 @@
+{
+ "name": "lane1-013",
+ "lane": 1,
+ "created": "2026-10-28T02:11:50.168Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "wjzKeAlQvb0",
+   "title": "Vayera, terça: o riso de Sarah, Yevamot e o Rambam",
+   "lines": 745,
+   "parts": 7,
+   "from": "recente"
+  },
+  {
+   "id": "U4s4AAgDz9s",
+   "title": "O mundo é nada: o pai que virou chassid de Gur",
+   "lines": 404,
+   "parts": 4,
+   "from": "recente"
+  },
+  {
+   "id": "cMbldte2ylU",
+   "title": "Sucot: língua sagrada, \"aqui\" e \"lá\" e o Midrash de Ben Pazi",
+   "lines": 1917,
+   "parts": 16,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "wjzKeAlQvb0.p0",
+  "wjzKeAlQvb0.p1",
+  "wjzKeAlQvb0.p2",
+  "wjzKeAlQvb0.p3",
+  "wjzKeAlQvb0.p4",
+  "wjzKeAlQvb0.p5",
+  "wjzKeAlQvb0.p6",
+  "U4s4AAgDz9s.p0",
+  "U4s4AAgDz9s.p1",
+  "U4s4AAgDz9s.p2",
+  "U4s4AAgDz9s.p3",
+  "cMbldte2ylU.p0",
+  "cMbldte2ylU.p1",
+  "cMbldte2ylU.p2",
+  "cMbldte2ylU.p3",
+  "cMbldte2ylU.p4",
+  "cMbldte2ylU.p5",
+  "cMbldte2ylU.p6",
+  "cMbldte2ylU.p7",
+  "cMbldte2ylU.p8",
+  "cMbldte2ylU.p9",
+  "cMbldte2ylU.p10",
+  "cMbldte2ylU.p11",
+  "cMbldte2ylU.p12",
+  "cMbldte2ylU.p13",
+  "cMbldte2ylU.p14",
+  "cMbldte2ylU.p15"
+ ]
+}
