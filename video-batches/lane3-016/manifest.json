@@ -1,0 +1,59 @@
+{
+ "name": "lane3-016",
+ "lane": 3,
+ "created": "2026-10-28T02:11:53.422Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "vO92nh4JAwE",
+   "title": "Elogio a Rabi David Batzri: cabalá, Ari e amor ao próximo",
+   "lines": 151,
+   "parts": 2,
+   "from": "recente"
+  },
+  {
+   "id": "ogj_KxhGdWI",
+   "title": "Jerusalém, Malki Tzedek e o yud de Avraham, Sará e Yehoshua",
+   "lines": 838,
+   "parts": 7,
+   "from": "recente"
+  },
+  {
+   "id": "_I0Ro-8lQH0",
+   "title": "Votar é mitsvá? Rachel Imenu, Israel e as eleições",
+   "lines": 999,
+   "parts": 9,
+   "from": "recente"
+  },
+  {
+   "id": "wkRlk5HTSB0",
+   "title": "Ben HaMetzarim: levar a luz de HaShem à escuridão",
+   "lines": 312,
+   "parts": 3,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "vO92nh4JAwE.p0",
+  "vO92nh4JAwE.p1",
+  "ogj_KxhGdWI.p0",
+  "ogj_KxhGdWI.p1",
+  "ogj_KxhGdWI.p2",
+  "ogj_KxhGdWI.p3",
+  "ogj_KxhGdWI.p4",
+  "ogj_KxhGdWI.p5",
+  "ogj_KxhGdWI.p6",
+  "_I0Ro-8lQH0.p0",
+  "_I0Ro-8lQH0.p1",
+  "_I0Ro-8lQH0.p2",
+  "_I0Ro-8lQH0.p3",
+  "_I0Ro-8lQH0.p4",
+  "_I0Ro-8lQH0.p5",
+  "_I0Ro-8lQH0.p6",
+  "_I0Ro-8lQH0.p7",
+  "_I0Ro-8lQH0.p8",
+  "wkRlk5HTSB0.p0",
+  "wkRlk5HTSB0.p1",
+  "wkRlk5HTSB0.p2"
+ ]
+}
