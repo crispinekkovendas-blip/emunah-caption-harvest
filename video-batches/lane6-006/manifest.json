@@ -1,0 +1,78 @@
+{
+ "name": "lane6-006",
+ "lane": 6,
+ "created": "2026-10-28T00:44:57.678Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "DJPgG7KwBnc",
+   "title": "Lot: separar-se de alguém sem nunca se desconectar",
+   "lines": 1023,
+   "parts": 9,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "ilRFJ8kUX70",
+   "title": "Abraão, a hospitalidade e o entusiasmo de dar (Vayerá)",
+   "lines": 415,
+   "parts": 4,
+   "from": "parashá da semana"
+  },
+  {
+   "id": "dTK9VzDfNaI",
+   "title": "Be'itá e Achishena no Tzidkat HaTzadik e a brit milá",
+   "lines": 942,
+   "parts": 8,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Skrr6jdy_f0",
+   "title": "Quatro degraus no estudo da Torá e quem a sustenta",
+   "lines": 912,
+   "parts": 8,
+   "from": "mais fontes"
+  },
+  {
+   "id": "mEtTONZtV8c",
+   "title": "Rambam, Shechitá 1:9-13: cortes laterais e bedikat simanim",
+   "lines": 398,
+   "parts": 4,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "DJPgG7KwBnc.p0",
+  "DJPgG7KwBnc.p1",
+  "DJPgG7KwBnc.p2",
+  "DJPgG7KwBnc.p3",
+  "DJPgG7KwBnc.p4",
+  "DJPgG7KwBnc.p5",
+  "DJPgG7KwBnc.p6",
+  "DJPgG7KwBnc.p7",
+  "DJPgG7KwBnc.p8",
+  "ilRFJ8kUX70.p0",
+  "ilRFJ8kUX70.p1",
+  "ilRFJ8kUX70.p2",
+  "ilRFJ8kUX70.p3",
+  "dTK9VzDfNaI.p0",
+  "dTK9VzDfNaI.p1",
+  "dTK9VzDfNaI.p2",
+  "dTK9VzDfNaI.p3",
+  "dTK9VzDfNaI.p4",
+  "dTK9VzDfNaI.p5",
+  "dTK9VzDfNaI.p6",
+  "dTK9VzDfNaI.p7",
+  "Skrr6jdy_f0.p0",
+  "Skrr6jdy_f0.p1",
+  "Skrr6jdy_f0.p2",
+  "Skrr6jdy_f0.p3",
+  "Skrr6jdy_f0.p4",
+  "Skrr6jdy_f0.p5",
+  "Skrr6jdy_f0.p6",
+  "Skrr6jdy_f0.p7",
+  "mEtTONZtV8c.p0",
+  "mEtTONZtV8c.p1",
+  "mEtTONZtV8c.p2",
+  "mEtTONZtV8c.p3"
+ ]
+}
