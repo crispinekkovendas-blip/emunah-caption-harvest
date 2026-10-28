@@ -1,0 +1,43 @@
+{
+ "name": "lane9-008",
+ "lane": 9,
+ "created": "2026-10-28T14:14:19.355Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "8WDxnoOGp0I",
+   "title": "O ponto da Malchut que rompe o Masach: Atik e \"Ani/Ein",
+   "lines": 697,
+   "parts": 6,
+   "from": "recente"
+  },
+  {
+   "id": "yaR6pCSPgoA",
+   "title": "Mesirut nefesh de Avraham e a hilulá de Rav Shach",
+   "lines": 396,
+   "parts": 4,
+   "from": "recente"
+  },
+  {
+   "id": "lqyS1r12sm4",
+   "title": "Lech Lecha na Cabalá: Avraham, Sarah e a nesira",
+   "lines": 156,
+   "parts": 2,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "8WDxnoOGp0I.p0",
+  "8WDxnoOGp0I.p1",
+  "8WDxnoOGp0I.p2",
+  "8WDxnoOGp0I.p3",
+  "8WDxnoOGp0I.p4",
+  "8WDxnoOGp0I.p5",
+  "yaR6pCSPgoA.p0",
+  "yaR6pCSPgoA.p1",
+  "yaR6pCSPgoA.p2",
+  "yaR6pCSPgoA.p3",
+  "lqyS1r12sm4.p0",
+  "lqyS1r12sm4.p1"
+ ]
+}
