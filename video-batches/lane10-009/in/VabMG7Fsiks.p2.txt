@@ -1,0 +1,86 @@
+videoId: VabMG7Fsiks
+parte 3 de 3 · traduzir as linhas 240 a 301 (62 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Heter isqá com animais e investimento no campo ou casa
+RESUMO: A aula trata da Mishná de Bava Metsiá, capítulo 5, mishná 5. Primeiro revê o mecanismo do heter isqá, em que metade do valor é empréstimo e metade é depósito, e o administrador precisa receber pagamento pelo trabalho com a parte do depósito para que não haja ribit. A Mishná permite avaliar uma vaca e um burro que trabalham e comem "pela metade", pois o trabalho deles já é o salário de quem os recebe; o rabi explica isso com Rabeinu Ovadia de Bartenura. Rabban Shimon ben Gamliel permite incluir também o bezerro e o potro junto da mãe, mas a halachá não segue sua opinião. Em seguida a aula explica a frase "mafriz al sadehu ve'eino choshesh mishum ribit" (também lida "mafrin"), ligada a "pru urvu" e às "arei perazot", e dá o caso do arrendatário que recebe 200 zuz emprestados para investir no campo e paga mais kurim. Por fim, o rabi aplica o princípio a uma casa alugada e reformada pelo inquilino, tratando de compensação do aluguel e de quem fica com a valorização na venda.
+MOMENTOS: 00:03 Leitura da Mishná sobre avaliar vaca e burro pela metade · 00:33 Revisão do heter isqá: metade empréstimo, metade depósito · 01:57 Por que é preciso pagar pelo trabalho com o depósito · 02:42 O que significa "faz e come" · 03:44 Rashi... não: Bartenura, o trabalho dos animais é o salário · 04:50 Dividir os filhotes de imediato ou criá-los, conforme o costume · 05:24 Rabban Shimon ben Gamliel e o bezerro com a mãe · 06:40 A halachá não segue Rabban Shimon ben Gamliel · 07:14 "Mafriz" e "mafrin": arei perazot e a explicação de Bartenura · 08:33 Exemplo do campo: 200 zuz e dois kurim a mais · 10:21 Exemplo do aluguel da casa que será reformada · 14:43 O comerciante que reforma por conta própria e a valorização · 17:54 Compensar no aluguel ou receber a valorização na venda
+FONTES CITADAS: 00:03 Bava Metsiá 5:5 · 00:18 Bava Metsiá 5:5 · 00:24 Bava Metsiá 5:5 · 01:05 Heter isqá · 02:26 Bava Metsiá 5:4 · 03:55 Rabeinu Ovadia de Bartenura em Bava Metsiá 5:5 · 06:40 Bava Metsiá 5:5, Rabban Shimon ben Gamliel · 07:05 Rabeinu Ovadia de Bartenura em Bava Metsiá 5:5 · 07:22 Bereshit 1:28 · 07:35 Ester 9:19 · 08:14 Rabeinu Ovadia de Bartenura em Bava Metsiá 5:5 · 12:19 Rabeinu Ovadia de Bartenura em Bava Metsiá 5:5
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|14:58|בא למזכיר, אומר לו בוא תשפץ, זה בית שלך, לא רוצה.
+229|15:02|תן לי הלוואה, אני אשפץ, לא רוצה.
+230|15:05|לא רוצה להשקיע, הבית ראוי למגורים, תסתדר עם זה.
+231|15:09|תגיד לו, כן, אבל הבית כבר ישן וזה דלתות מהקבלן עוד שזה, ששמים
+232|15:15|טישו בתוך החורים שלו, מה?
+233|15:18|הוא אומר לו, זה לא מעניין.
+234|15:20|אז עכשיו הסוחר, הוא יודע שלאריכות זמן הוא יהיה בבית הזה, אז הוא
+235|15:26|אומר, טוב, אני אשקיע כסף.
+236|15:28|בא, השקיע כספים, שיפץ את הבית.
+237|15:32|האם הוא צריך עכשיו לשלם יותר?
+238|15:37|ודאי שלא צריך, מכיוון שהוא קיבל את הבית
+239|15:42|ברמה מסוימת, ועל הרמה הזאת הוא צריך בעצם לשלם.
+
+LINHAS A TRADUZIR:
+240|15:47|השיפוץ זה בעצם שייך לסוחר, הוא עשה את השיפוץ הזה, ולא רק זאת,
+241|15:53|מחר המזכיר ירצה למכור את הבית, והסוחר הוא השביח,
+242|15:59|הוא השביח את הנכס.
+243|16:00|הנכס היה שווה מיליון וחצי, עכשיו אחרי השיפוץ, הרחבה וכדומה, שווה שתי מיליון
+244|16:06|מאתיים.
+245|16:08|אז באופן כזה, ההשבחה של הנכס שייכת למי שעשה את
+246|16:13|השיפוץ.
+247|16:15|לזוכר.
+248|16:19|אתה אומר להתקזז איתו בשכירות, זו אפשרות אחת, אבל אמרתי, יש מנהג המזכירים שהוא יכול להגיד
+249|16:25|לך, תשמע, אני מבחינתי אל תשפץ.
+250|16:28|אתה רוצה לשפץ?
+251|16:30|תשפץ על חשבונך.
+252|16:32|אבל אני לא מוריד לך מהשכירות, ולא מוריד לך מהשכירות.
+253|16:35|הוא יכול להגיד דבר כזה.
+254|16:39|ואז הסוחר, הוא יחליט אם שווה לו או לא שווה לו.
+255|16:45|אבל אם המזכיר ימכור את הבית למישהו אחר, ועכשיו
+256|16:51|מישהו אחר משלם יותר כסף, בגלל שזה בית משופץ, אז היתרה
+257|16:56|מגיעה לסוחר ששיפץ.
+258|17:00|הבנתם?
+259|17:00|אין דבר כזה לא מסכים.
+260|17:02|קח אותו לבית דין.
+261|17:03|אתה מבין?
+262|17:04|קח אותו לבית דין, לא ירצה ללכת לבית דין, קח אותו לבית משפח.
+263|17:08|ושם, אני יודע, אני רק קונה למה שאני רוצה.
+264|17:11|ואז מחייבים אותו.
+265|17:14|זה מתי שהוא מוכר למישהו אחר.
+266|17:18|הוא לא יכול לעשות כסף על חשבון הגב שלך, שאתה השקעת את הכסף ושיפצת.
+267|17:27|אתה שואל אם יש זמן שיש התיישנות?
+268|17:29|לא, כל זמן שבאמת השיפוץ שווה.
+269|17:32|ואם הוא שיפץ ועוד הפעם נהרס, או לא יודע מה, אז ינכה נעמה.
+270|17:37|אבל אם הוא שכר בית עם אדמה, והוא הרחיב ועשה
+271|17:43|עמודים ועשה את הבית ממאה מטר למאה שבעים מטר וכולי, זה
+272|17:49|דבר שוודאי שהוא מגיע לו את הכסף הזה.
+273|17:54|אם המזכיר ירצה, אנחנו ניתן למזכיר בחירה.
+274|17:59|נגיד לו, שמע, יש לך בחירה חופשית.
+275|18:01|או שבמשך השנים עכשיו שהוא גר, תקזז לו מהשכירות.
+276|18:06|עד המחיר של השיפוץ.
+277|18:08|ואז הנה חינם היא, מתי שתמכור לא תצטרך להביא לו כסף.
+278|18:14|או שאם אתה, לא, אני רוצה את הכסף של השכירות שלי.
+279|18:18|יש לו עיניים גדולות, אין בעיה.
+280|18:21|אז מתי שאתה תמכור, אז הוא, מגיע לו.
+281|18:24|ואם הסוחר בעצמו יקנה את הבית?
+282|18:26|הוא משלם לפי המחיר של הבית לפני השיפוץ.
+283|18:32|היי, אבל המחיר של הבית עלה, אין בעיה.
+284|18:34|יביאו שמיים.
+285|18:36|יעשה איתו סיבוב בבית.
+286|18:38|יגיד לו, הנה, אתה רואה את היציקת ביטון הזאת?
+287|18:40|זה אני עשיתי.
+288|18:41|את הגדר הזאת?
+289|18:42|זה אני עשיתי.
+290|18:43|את ההרחבה הזאת?
+291|18:45|זה אני עשיתי.
+292|18:46|את המטבח החדש?
+293|18:47|זה אני עשיתי.
+294|18:48|את זה?
+295|18:49|זה אני עשיתי.
+296|18:50|מה היה פה?
+297|18:51|היה פה ככה וככה וככה וככה.
+298|18:54|עכשיו הוא ייתן שמאות.
+299|18:56|רואים את ההבדל הכספי, שלם ממה שהיה.
+300|19:00|בסדר?
+301|19:02|ברוך אדוני לעולם, אמן ואמן.

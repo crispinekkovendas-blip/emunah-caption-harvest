@@ -1,0 +1,65 @@
+{
+ "name": "lane10-009",
+ "lane": 10,
+ "created": "2026-10-28T02:12:15.117Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "VabMG7Fsiks",
+   "title": "Heter isqá com animais e investimento no campo ou casa",
+   "lines": 302,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "jUvpq831Gjc",
+   "title": "O teste que HaShem dá antes do decreto",
+   "lines": 675,
+   "parts": 6,
+   "from": "recente"
+  },
+  {
+   "id": "AtjvsX4cXhg",
+   "title": "Lech Lecha: a Terra, a essência e a missão de Avraham",
+   "lines": 1474,
+   "parts": 13,
+   "from": "recente"
+  },
+  {
+   "id": "r6Si7dRMlR8",
+   "title": "Despedida do cabalista Rabi David Shalom Batzri",
+   "lines": 485,
+   "parts": 5,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "VabMG7Fsiks.p0",
+  "VabMG7Fsiks.p1",
+  "VabMG7Fsiks.p2",
+  "jUvpq831Gjc.p0",
+  "jUvpq831Gjc.p1",
+  "jUvpq831Gjc.p2",
+  "jUvpq831Gjc.p3",
+  "jUvpq831Gjc.p4",
+  "jUvpq831Gjc.p5",
+  "AtjvsX4cXhg.p0",
+  "AtjvsX4cXhg.p1",
+  "AtjvsX4cXhg.p2",
+  "AtjvsX4cXhg.p3",
+  "AtjvsX4cXhg.p4",
+  "AtjvsX4cXhg.p5",
+  "AtjvsX4cXhg.p6",
+  "AtjvsX4cXhg.p7",
+  "AtjvsX4cXhg.p8",
+  "AtjvsX4cXhg.p9",
+  "AtjvsX4cXhg.p10",
+  "AtjvsX4cXhg.p11",
+  "AtjvsX4cXhg.p12",
+  "r6Si7dRMlR8.p0",
+  "r6Si7dRMlR8.p1",
+  "r6Si7dRMlR8.p2",
+  "r6Si7dRMlR8.p3",
+  "r6Si7dRMlR8.p4"
+ ]
+}
