@@ -1,0 +1,87 @@
+{
+ "name": "lane4-019",
+ "lane": 4,
+ "created": "2026-10-28T07:21:33.429Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "RzL46Xpgxc8",
+   "title": "Ki Yedativ: vontade e prazer essenciais na avodá material",
+   "lines": 349,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "_u6VIUW72iY",
+   "title": "Não se associar a ímpios e a origem do cristianismo",
+   "lines": 1021,
+   "parts": 9,
+   "from": "recente"
+  },
+  {
+   "id": "2wibfOQeYws",
+   "title": "Lech Lecha: Avraham limpa o mundo do tohu e das provas",
+   "lines": 714,
+   "parts": 6,
+   "from": "recente"
+  },
+  {
+   "id": "K3XgaNkO4Ak",
+   "title": "Zugot de neshamá: casamento de alma e shalom bayit",
+   "lines": 973,
+   "parts": 9,
+   "from": "recente"
+  },
+  {
+   "id": "YrWs6QmNsz4",
+   "title": "Vayerá: hospitalidade de Avraham, Sodoma e a Akedá",
+   "lines": 1769,
+   "parts": 15,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "RzL46Xpgxc8.p0",
+  "RzL46Xpgxc8.p1",
+  "RzL46Xpgxc8.p2",
+  "_u6VIUW72iY.p0",
+  "_u6VIUW72iY.p1",
+  "_u6VIUW72iY.p2",
+  "_u6VIUW72iY.p3",
+  "_u6VIUW72iY.p4",
+  "_u6VIUW72iY.p5",
+  "_u6VIUW72iY.p6",
+  "_u6VIUW72iY.p7",
+  "_u6VIUW72iY.p8",
+  "2wibfOQeYws.p0",
+  "2wibfOQeYws.p1",
+  "2wibfOQeYws.p2",
+  "2wibfOQeYws.p3",
+  "2wibfOQeYws.p4",
+  "2wibfOQeYws.p5",
+  "K3XgaNkO4Ak.p0",
+  "K3XgaNkO4Ak.p1",
+  "K3XgaNkO4Ak.p2",
+  "K3XgaNkO4Ak.p3",
+  "K3XgaNkO4Ak.p4",
+  "K3XgaNkO4Ak.p5",
+  "K3XgaNkO4Ak.p6",
+  "K3XgaNkO4Ak.p7",
+  "K3XgaNkO4Ak.p8",
+  "YrWs6QmNsz4.p0",
+  "YrWs6QmNsz4.p1",
+  "YrWs6QmNsz4.p2",
+  "YrWs6QmNsz4.p3",
+  "YrWs6QmNsz4.p4",
+  "YrWs6QmNsz4.p5",
+  "YrWs6QmNsz4.p6",
+  "YrWs6QmNsz4.p7",
+  "YrWs6QmNsz4.p8",
+  "YrWs6QmNsz4.p9",
+  "YrWs6QmNsz4.p10",
+  "YrWs6QmNsz4.p11",
+  "YrWs6QmNsz4.p12",
+  "YrWs6QmNsz4.p13",
+  "YrWs6QmNsz4.p14"
+ ]
+}
