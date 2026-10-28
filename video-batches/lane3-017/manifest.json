@@ -2,7 +2,7 @@
  "name": "lane3-017",
  "lane": 3,
  "created": "2026-10-28T14:14:04.504Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "i_Mswjw-dsM",
@@ -52,11 +52,13 @@
   "vTaTzWTRBjQ.p8"
  ],
  "tries": {
-  "i_Mswjw-dsM": 2
+  "i_Mswjw-dsM": 3
  },
  "done": [
   "ok-SU6gQ9rA",
   "vTaTzWTRBjQ"
  ],
- "skipped": []
+ "skipped": [
+  "i_Mswjw-dsM"
+ ]
 }
