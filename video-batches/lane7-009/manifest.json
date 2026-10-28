@@ -2,7 +2,7 @@
  "name": "lane7-009",
  "lane": 7,
  "created": "2026-10-28T02:12:08.636Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "WCFOQcUuxX8",
@@ -70,12 +70,14 @@
  "tries": {
   "WCFOQcUuxX8": 1,
   "zBX7hL3epYA": 1,
-  "Y8HYY_MHWw8": 2
+  "Y8HYY_MHWw8": 3
  },
  "done": [
   "lWprWCH2BwI",
   "WCFOQcUuxX8",
   "zBX7hL3epYA"
  ],
- "skipped": []
+ "skipped": [
+  "Y8HYY_MHWw8"
+ ]
 }
