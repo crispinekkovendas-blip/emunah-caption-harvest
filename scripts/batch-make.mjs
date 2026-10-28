@@ -104,6 +104,22 @@ try {
 } catch (err) {
   console.log(`hebcal: ${String(err?.message || err)} — richest lessons only`)
 }
+// 2026-10-28 (the owner: "put the newest first"): lessons uploaded in the last 60 days lead, newest
+// first, so a lesson the daily pipeline curated reaches Shiur Hebraico within hours; the upload dates come
+// from the library seeds the site publishes
+const fresh = []
+try {
+  const since = new Date(Date.now() - 60 * 86400_000).toISOString()
+  const dates = new Map()
+  for (const seed of ['he', 'kabala']) {
+    const r = await fetch(`${SITE}/data/videos/${seed}.json`, { signal: AbortSignal.timeout(60000) })
+    if (r.ok) for (const v of (await r.json()).videos || []) if (v.published) dates.set(v.videoId, v.published)
+  }
+  fresh.push(...[...dates].filter(([id, p]) => study[id] && p >= since).sort((a, b) => b[1].localeCompare(a[1])).map(([id]) => id))
+  console.log(`uploaded in the last 60 days: ${fresh.length} lessons with a study`)
+} catch (err) {
+  console.log(`seeds: ${String(err?.message || err)} — no newest-first list`)
+}
 const richest = Object.entries(study)
   .sort((a, b) => b[1].s - a[1].s || b[1].q - a[1].q)
   .map(([id]) => id)
@@ -111,7 +127,7 @@ const richest = Object.entries(study)
 // same moment can never take the same lesson
 const LANES = 10
 const laneOf = (id) => [...id].reduce((h, ch) => (h * 31 + ch.charCodeAt(0)) >>> 0, 7) % LANES
-const free = [...new Set([...week, ...richest])].filter((id) => study[id] && !taken.has(id))
+const free = [...new Set([...fresh, ...week, ...richest])].filter((id) => study[id] && !taken.has(id))
 let order = free.filter((id) => laneOf(id) === LANE - 1)
 // 2026-10-14 (the owner: "10 lanes running all the time"): a lane whose own share ran out helps the
 // busy lanes, taking from the back half of their shares — an owner works from the front, so the two
@@ -167,7 +183,7 @@ for (const id of order) {
     )
     chunks.push(`${id}.p${k}`)
   }
-  lessons.push({ id, title: doc.title, lines: doc.cues.length, parts, from: week.includes(id) ? 'parashá da semana' : 'mais fontes' })
+  lessons.push({ id, title: doc.title, lines: doc.cues.length, parts, from: fresh.includes(id) ? 'recente' : week.includes(id) ? 'parashá da semana' : 'mais fontes' })
   console.log(`  ${id}  ${doc.cues.length} lines → ${parts} part(s)  ${doc.title}`)
 }
 if (!lessons.length) {
