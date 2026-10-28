@@ -2,7 +2,7 @@
  "name": "lane6-008",
  "lane": 6,
  "created": "2026-10-28T14:14:11.981Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "CbVsaY3vqwc",
@@ -64,7 +64,7 @@
  ],
  "tries": {
   "SZy_WAV4skM": 1,
-  "4pJazA4vJIA": 2,
+  "4pJazA4vJIA": 3,
   "RmRntk2t-Pk": 1
  },
  "done": [
@@ -72,5 +72,7 @@
   "SZy_WAV4skM",
   "RmRntk2t-Pk"
  ],
- "skipped": []
+ "skipped": [
+  "4pJazA4vJIA"
+ ]
 }
