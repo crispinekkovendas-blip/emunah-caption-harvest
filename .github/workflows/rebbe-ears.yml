@@ -1,0 +1,140 @@
+name: Rebbe model — three ears + Claude curation (training data)
+
+# 2026-10-28 (the owner: "Go ahead, let's train this"). Every unique recording of archive.org's rebbe-chabad, in
+# 30-minute chunks (scripts/rebbe_ears.py plan). Each chunk, in one job: Demucs (his voice apart from the crowd
+# and the niggunim) → WhisperX German + WhisperX Hebrew (ivrit.ai) + Meta MMS (the three ears of the four-ears
+# test, without the translate ear that invented) → Claude curates (scripts/rebbe_curate.py). The artifact
+# ears-<chunk> keeps the original audio (clip-raw.opus, for training), the three ears and curated.json/.txt.
+# Nothing goes to Supabase and nothing is committed. A push runs the pilot: one chunk, the Leil 13 Nissan 5751
+# talk of video-batches/stt-test/rebbe/curated-sample.md.
+#
+#   gh workflow run rebbe-ears.yml --ref <branch> -f only=all      (or a regex on the file name, or pilot)
+
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: 'Chunks: pilot, all, or a regex on the recording file name'
+        default: 'pilot'
+      max:
+        description: 'At most this many chunks (0 = no limit)'
+        default: '0'
+      parallel:
+        description: 'Chunks at the same time (the production pipeline shares the 20 job slots)'
+        default: '5'
+  push:
+    branches: [claude/sweet-brahmagupta-4larfi]
+    paths: [.github/workflows/rebbe-ears.yml]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: rebbe-ears
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      chunks: ${{ steps.p.outputs.chunks }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - id: p
+        env:
+          ONLY: ${{ inputs.only || 'pilot' }}
+        run: python -u scripts/rebbe_ears.py plan --only "$([ "$ONLY" = all ] && echo '' || echo "$ONLY")" --max ${{ inputs.max || '0' }}
+
+  chunk:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      max-parallel: ${{ fromJSON(inputs.parallel || '5') }}
+      matrix:
+        c: ${{ fromJSON(needs.plan.outputs.chunks) }}
+    name: ${{ matrix.c.id }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Room on the disk (three models + Demucs)
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL
+          df -h / | tail -1
+      # the caches of the earlier runs: Whisper large-v3, ivrit.ai, MMS, Demucs
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/pip
+            ~/.cache/torch
+          key: stt-whisperx-yi-v1
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/pip
+            ~/.cache/torch
+          key: stt-whisperx-ivrit-v1
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/pip
+          key: mms-1b-all-yid-v1
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/torch
+            ~/.cache/pip
+          key: demucs-htdemucs-v1
+      - name: Install (WhisperX + MMS here, Demucs in its own venv — newer torchaudio cannot save without torchcodec)
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet whisperx "transformers>=4.40,<5" protobuf sentencepiece
+          python -m venv /tmp/dm
+          /tmp/dm/bin/pip install --quiet torch==2.5.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+          /tmp/dm/bin/pip install --quiet demucs soundfile
+          npm install -g @anthropic-ai/claude-code > /dev/null
+      - name: The chunk (${{ matrix.c.file }}, from ${{ matrix.c.start }} s)
+        run: python -u scripts/rebbe_ears.py fetch --url "${{ matrix.c.url }}" --start ${{ matrix.c.start }} --len ${{ matrix.c.len }} --id "${{ matrix.c.id }}" --out out/ears
+      - name: Demucs — the voice
+        run: PATH=/tmp/dm/bin:$PATH python -u scripts/rebbe_test.py clean --out out/ears
+      - name: Ear 1 — WhisperX German
+        env:
+          PYTHONPATH: scripts
+        run: python -u scripts/rebbe_test.py stt --lang de --anti-loop --prompt --out out/ears
+      - name: Ear 2 — WhisperX Hebrew (ivrit.ai)
+        env:
+          PYTHONPATH: scripts
+        run: python -u scripts/rebbe_test.py stt --lang he --anti-loop --prompt --out out/ears
+      - name: Ear 3 — Meta MMS
+        continue-on-error: true
+        env:
+          PYTHONPATH: scripts
+          SUPABASE_URL: http://unused
+          SUPABASE_SERVICE_KEY: unused
+        run: python -u scripts/rebbe_test.py mms --out out/ears
+      - name: Claude curates
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: python -u scripts/rebbe_curate.py --out out/ears
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ears-${{ matrix.c.id }}
+          retention-days: 90
+          path: |
+            out/ears/clip-raw.opus
+            out/ears/source.json
+            out/ears/stt-*.json
+            out/ears/curated.*
