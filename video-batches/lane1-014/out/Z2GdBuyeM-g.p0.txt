@@ -1,0 +1,120 @@
+0	Cool.	Beleza.
+1	Come on,	Vamos,
+2	let's see	vamos ver
+3	the...	o...
+4	No, this has to	Não, isso tem que
+5	stay.	ficar.
+6	Yes, this is...	Sim, isso é...
+7	Okay, let's start with this drawing.	Certo, vamos começar com este desenho.
+8	Okay, come on, let's start.	Certo, vamos lá, vamos começar.
+9	Come on, we're starting, going back to the Introduction book.	Vamos lá, começando, voltando ao livro da Introdução.
+10	like	como
+11	Today we begin with 123, 123.	Hoje começamos pelo trecho 123, 123.
+12	Okay, let's start in order, and now I need to share the screen.	Certo, vamos começar em ordem, e agora preciso compartilhar a tela.
+13	Come on.	Vamos lá.
+14	Good morning, Introduction class on the Wisdom of Kabbalah, we're in lesson number 66.	Bom dia, aula da Introdução à Sabedoria da Cabalá, estamos na aula número 66.
+15	We're getting to item 123 of the Introduction.	Chegamos ao trecho 123 da Introdução.
+16	These are already very advanced items.	Estes já são trechos muito avançados.
+17	Let's do a short review of what we learned in the previous lesson, starting from item 120, which begins the topic	Vamos fazer uma breve revisão do que estudamos na aula anterior, a partir do trecho 120, que inicia o tema
+18	called the Five Parzufim of Atzilut.	chamado os Cinco Parçufim de Atzilut.
+19	On the matter of Ibur in each parzuf, let's see what we learned.	Sobre o Ibur em cada parçuf, vamos ver o que aprendemos.
+20	We'll see it through a drawing as well.	Vamos ver isso também por meio de um desenho.
+21	We learned in the previous lesson that we had a reality of the world	Aprendemos na aula anterior que tínhamos a realidade do mundo
+22	of Nekudim. The world of Nekudim is a world that came out after the world of Akudim, after the parzufim Galgalta and AB-SAG.	de Nekudim. O mundo de Nekudim é um mundo que saiu depois do mundo de Akudim, depois dos parçufim Galgalta e AB-SAG.
+23	A world came out called what?	Saiu um mundo chamado o quê?
+24	At what stature?	Em que estatura?
+25	At the stature of Zeir Anpin. It came out as a complete world because it was mixed with bechinah Dalet	Em estatura de Zeir Anpin. Saiu como um mundo completo porque estava misturado com a bechiná Dalet
+26	and Gimel. We said that when there is a mixture of Dalet and Gimel, this allows a world to emerge and not	e Guimel. Dissemos que quando há mistura de Dalet e Guimel, isso permite a saída de um mundo e não
+27	just a single parzuf. At first they came out in katnut, without the mixture of Dalet-Gimel, and so they came out more	apenas um único parçuf. No início saíram em katnut, sem a mistura de Dalet e Guimel, e por isso saíram mais
+28	like one parzuf, where we have a male and female parzuf, Keter and Abba and Imma,	como um só parçuf, em que temos um parçuf masculino e feminino, Keter e Abba e Imma,
+29	and the Rosh, which is up here, is not so mixed with...	e o Rosh, que está aqui em cima, não é tão misturado com...
+30	the Rosh of the world of Nekudim. This Rosh did not extend into the body in katnut.	o Rosh do mundo de Nekudim. Este Rosh não se expandiu para o corpo em katnut.
+31	But in gadlut, when there was a mixture of bechinah Dalet and Gimel, there was a zivug on the	Mas em gadlut, quando houve mistura da bechiná Dalet e Guimel, houve um zivug sobre os
+32	vessels and it extended into the body, and the breaking of the vessels occurred in the world of Nekudim. There was the breaking of	vasos e ele se expandiu para o corpo, e a quebra dos vasos ocorreu no mundo de Nekudim. Houve a quebra dos
+33	the vessels. Here you see the drawing in more detail: the state of katnut, in which no breaking occurred,	vasos. Aqui vocês veem o desenho em mais detalhes: o estado de katnut, em que não ocorreu quebra,
+34	the state of panim be'achor, when there was already partial gadlut but it still had not extended into the body, and the state	o estado de panim be'achor, quando já havia gadlut parcial mas ainda não havia se expandido para o corpo, e o estado
+35	of gadlut in the world of Nekudim, in which the breaking occurred, the death of the kings.	de gadlut no mundo de Nekudim, em que ocorreu a quebra, a morte dos reis.
+36	They in fact constitute all of these kings, this whole reality in fact constitutes	Eles de fato formam todos esses reis; toda essa realidade de fato constitui
+37	the raw material that we will need to correct later, in the worlds of Atzilut, Beriah, Yetzirah and Assiyah.	a matéria-prima que precisaremos corrigir mais adiante, nos mundos de Atzilut, Beriá, Yetzirá e Assiyá.
+38	And all the souls, souls of tzaddikim, that appear in this place below the Parsa.	E todas as almas, almas de tsadikim, que aparecem neste lugar abaixo da Parsá.
+39	Our desire is to correct this place below the Tabur of Dak, which was not corrected, this whole place	Nosso desejo é corrigir este lugar abaixo do Tabur de Dak, que não foi corrigido, todo este lugar
+40	from the Tabur and below, the Dak, to which the parzuf Galgalta extended into this place only in terms of	do Tabur para baixo, o Dak, ao qual o parçuf Galgalta se expandiu neste lugar apenas em termos de
+41	preservation; the parzufim AB and SAG did not extend into this place at all.	preservação; os parçufim AB e SAG não se expandiram para este lugar de modo algum.
+42	Then came what parzuf?	Então veio qual parçuf?
+43	The world of Nekudim, and it worked in fact within this place of the greatness of the receiving vessels,	O mundo de Nekudim, e ele atuou de fato dentro deste lugar da grandeza dos vasos de recepção,
+44	which is below the Tabur, the Dak, but without success. It corrected partially the	que está abaixo do Tabur, o Dak, mas sem sucesso. Ele corrigiu parcialmente o
+45	upper third, the NHY of Dak, as you can see here. It corrected	terço superior, o NHY de Dak, como vocês veem aqui. Ele corrigiu
+46	partially, but it did not fully correct the body, in fact the main part.	parcialmente, mas não corrigiu plenamente o corpo, de fato a parte principal.
+47	It did not manage to correct the greatness of the receiving vessels, and so we will need to see how	Não conseguiu corrigir a grandeza dos vasos de recepção, e por isso precisaremos ver como
+48	in the continuation of the tikkun they come to correct this whole process, called below the Tabur,	no prosseguimento da correção vem-se corrigir todo este processo, chamado abaixo do Tabur,
+49	the Dak, or in other words, the greatness of the receiving vessels,	o Dak, ou em outras palavras, a grandeza dos vasos de recepção,
+50	where ultimately we will see Adam HaRishon, who emerges in this place, and...	onde, em última instância, veremos Adão HaRishon, que sai neste lugar, e...
+51	his head at first will be even higher up than this, but he emerges and will have to	a sua cabeça no início estará ainda mais acima do que isto, mas ele sai e terá que
+52	correct this reality so that he can express the perfection	corrigir esta realidade para poder expressar a perfeição
+53	that the Creator planned in the thought of creation, the complete benefit. After there was	que o Criador planejou no pensamento da criação, o benefício completo. Depois que houve
+54	the world of Nekudim, which we already learned in previous lessons and already went through; it wasn't our topic.	o mundo de Nekudim, que já estudamos em aulas anteriores e já percorremos; esse não era o nosso tema.
+55	We saw that in fact the reality of Tzimtzum Bet returned in the parzufim of Nekudim; when	Vimos que de fato a realidade de Tzimtzum Bet voltou nos parçufim de Nekudim; quando
+56	the breaking ended, we returned to the reality of Tzimtzum Bet in katnut.	a quebra terminou, voltamos à realidade de Tzimtzum Bet em katnut.
+57	The bodies were already nullified and broken, they have no meaning anymore, and the Roshim returned	Os corpos já foram anulados e quebrados, já não têm significado, e os Roshim voltaram
+58	to katnut. The Reshimot, by their nature, in the purification of the screen, return	à katnut. As Reshimot, por sua natureza, na depuração do Masach, voltam
+59	to the Rosh. But since the Rosh of Nekudim is a small Rosh, and a small one cannot give birth,	ao Rosh. Mas como o Rosh de Nekudim é um Rosh pequeno, e um pequeno não pode gerar,
+60	those Reshimot that rose at the time of the breaking, both what fell	essas Reshimot que subiram na hora da quebra, tanto o que caiu
+61	and what rose with the Masach to the Rosh of Nekudim, and the Rosh, which returned to katnut, cannot give birth	quanto o que subiu com o Masach ao Rosh de Nekudim, e o Rosh, que voltou à katnut, não pode gerar
+62	with these Reshimot that rose to it. Therefore, it raises these Reshimot to the Rosh of Sag,	com essas Reshimot que subiram a ele. Por isso ele eleva essas Reshimot ao Rosh de Sag,
+63	since the Rosh of Sag is the great one adjacent to it, the great one adjacent to the world	pois o Rosh de Sag é o grande que lhe é adjacente, o grande adjacente ao mundo
+64	of Nekudim is the Rosh of Sag, and the Rosh of Sag makes a zivug on those Reshimot	de Nekudim é o Rosh de Sag, e o Rosh de Sag faz um zivug sobre essas Reshimot
+65	that came from the world of Nekudim, and gives birth to the world of Atzilut.	que vieram do mundo de Nekudim, e gera o mundo de Atzilut.
+66	Let's see the world of Atzilut.	Vamos ver o mundo de Atzilut.
+67	So it gives birth to the world of Atzilut.	Então ele gera o mundo de Atzilut.
+68	This is a very basic, fundamental drawing of the world of Atzilut.	Este é um desenho muito básico, fundamental, do mundo de Atzilut.
+69	Wait, what should I answer?	Espere, o que devo responder?
+70	Do you see the drawings?	Vocês estão vendo os desenhos?
+71	Do you see the drawings?	Vocês estão vendo os desenhos?
+72	What do you say?	O que vocês me dizem?
+73	Here is the world of Atzilut. In the world of Atzilut, five parzufim came out in fact:	Eis o mundo de Atzilut. No mundo de Atzilut saíram de fato cinco parçufim:
+74	Atik, Arich Anpin, Abba and Imma, Yeshsut and ZON, and this is the main subject of ours here, to see	Atik, Arich Anpin, Abba e Imma, Ishsut e ZON, e este é o tema principal nosso aqui, ver
+75	how they came out, what the connection is between them, what this new structure is that was created in the world of Atzilut, which comes to correct the world of	como eles saíram, qual é a ligação entre eles, qual é esta nova estrutura criada no mundo de Atzilut, que vem corrigir o mundo de
+76	Nekudim, what it corrected within the world of Nekudim, what the relations are between the world of Atzilut	Nekudim, o que corrigiu dentro do mundo de Nekudim, quais são as relações entre o mundo de Atzilut
+77	and the world of Nekudim, and more details on this subject, which is the main part of our study right now, to understand	e o mundo de Nekudim, e mais detalhes sobre este tema, que é o principal do nosso estudo agora, para entender
+78	the connection between the new parzuf called the world of Atzilut, which receives the name	a ligação entre o novo parçuf chamado mundo de Atzilut, que recebe o nome
+79	MA, which earlier belonged to the world of Nekudim. But the world of Nekudim, which was broken,	MA, que antes pertencia ao mundo de Nekudim. Mas o mundo de Nekudim, que foi quebrado,
+80	now serves as female in the world of Atzilut. Atzilut is considered male, so it receives the name	agora serve como feminino no mundo de Atzilut. Atzilut é considerado masculino, por isso recebe o nome
+81	MA, which is a male name, whereas in relation to Adam Kadmon and the world of Nekudim, it	MA, que é um nome masculino, enquanto em relação a Adam Kadmon e ao mundo de Nekudim, ele
+82	was considered BON, female. Let's see one more thing here, okay.	era considerado BON, feminino. Vamos ver mais uma coisa aqui, certo.
+83	Today I want to understand the connection between the different levels within the world of Atzilut	Hoje quero entender a ligação entre os diferentes níveis dentro do mundo de Atzilut
+84	and to see how they connect to one another, the Ahim Bechorim. But before	e ver como eles se conectam uns aos outros, os Ahim Bechorim. Mas antes
+85	that, let's see for a moment, before that, we'll go back	disso, vejamos por um instante, antes disso, vamos voltar
+86	a little more to what we learned in the previous lesson, so that we have the concepts well in hand,	um pouco mais ao que aprendemos na aula anterior, para termos bem firmes os conceitos,
+87	in the Rosh. So we learned that the return to katnut in the world of Nekudim	no Rosh. Então aprendemos que o retorno à katnut no mundo de Nekudim
+88	was the first stage.	foi a primeira etapa.
+89	After that, they made a zivug in the Rosh of Sag, at what stature?	Depois disso, fizeram um zivug no Rosh de Sag, em que estatura?
+90	The stature of Shoresh.	A estatura de Shoresh.
+91	When the Reshimot returned after Nekudim, were purified and rose to the Rosh of Sag, the Rosh of Sag	Quando as Reshimot voltaram depois de Nekudim, foram depuradas e subiram ao Rosh de Sag, o Rosh de Sag
+92	makes a zivug in Tzimtzum Bet at the stature of Shoresh.	faz um zivug em Tzimtzum Bet na estatura de Shoresh.
+93	How is Tzimtzum Bet at the stature of Shoresh called?	Como se chama Tzimtzum Bet na estatura de Shoresh?
+94	Metzach.	Metzach.
+95	Not "ratzach," Metzach.	Não "ratzach", Metzach.
+96	So this is a zivug at the stature of Metzach.	Então este é um zivug em estatura de Metzach.
+97	Remember this concept, Metzach: it is a zivug on Tzimtzum Bet at the stature of Shoresh.	Lembrem-se deste conceito, Metzach: é um zivug em Tzimtzum Bet na estatura de Shoresh.
+98	It has a root of aviut.	Ele tem uma raiz de aviut.
+99	Galgalta comes out on bechinah Dalet, AB on bechinah Gimel, SAG on bechinah Bet, the world of Nekudim comes out on bechinah	Galgalta sai sobre a bechiná Dalet, AB sobre a bechiná Guimel, SAG sobre a bechiná Bet, o mundo de Nekudim sai sobre a bechiná
+100	Alef, and the world of Atzilut comes out on bechinat Shoresh.	Alef, e o mundo de Atzilut sai sobre a bechiná Shoresh.
+101	If we want to be more precise, it comes out on Alef-Shoresh.	Se quisermos ser mais precisos, sai sobre Alef-Shoresh.
+102	Alef of hitlabshut and Shoresh is the aviut in Tzimtzum Bet.	Alef de hitlabshut, e Shoresh é o aviut em Tzimtzum Bet.
+103	That is, it barely has any aviut.	Ou seja, ele mal tem aviut.
+104	The thickness of its screen is very, very low. What allows it to come out as a world?	A espessura do seu Masach é muito, muito baixa. O que lhe permite sair como um mundo?
+105	The mixture with Dalet-Gimel, like	A mistura com Dalet e Guimel, como
+106	we saw in the world of Nekudim, that the mixture with Dalet-Gimel caused the emergence of a world and not just a single parzuf; also in the world	vimos no mundo de Nekudim, que a mistura com Dalet e Guimel causou a saída de um mundo e não apenas de um único parçuf; também no mundo
+107	of Atzilut, which comes out with the thickness of its screen very, very low, what allows it to come out as a world?	de Atzilut, que sai com a espessura do Masach muito, muito baixa, o que lhe permite sair como um mundo?
+108	The mixture with Dalet-Gimel. So	A mistura com Dalet e Guimel. Então
+109	At the beginning, one more thing, a new point, in the world of Atzilut.	No início, mais uma coisa, um ponto novo, no mundo de Atzilut.
+110	In the world of AK, gadlut came out right away.	No mundo de AK, a gadlut saiu logo de início.
+111	In the world of Nekudim we have two levels, katnut and gadlut.	No mundo de Nekudim temos dois níveis, katnut e gadlut.
+112	In the world of Atzilut there is a novelty called Ibur.	No mundo de Atzilut há uma novidade chamada Ibur.
+113	Ibur, katnut and gadlut.	Ibur, katnut e gadlut.
+114	We'll see what the importance of the reality of Ibur is.	Vamos ver qual é a importância da realidade do Ibur.
+115	But Ibur is called the stature of NHY.	Mas o Ibur é chamado de estatura de NHY.
+116	So at first in the world of Atzilut the stature of NHY comes out, which is the stature of Nefesh in three	Por isso, no início, no mundo de Atzilut sai a estatura de NHY, que é a estatura de Nefesh em três
+117	lines. The concepts HaBaD, HaGaT, NHY — sorry, the concepts Nefesh, Ruach,	linhas. Os conceitos HaBaD, HaGaT, NHY, desculpem, os conceitos Nefesh, Ruach,
+118	Neshamah in three lines are called HaBaD, HaGaT, NHY. Why do we have	Neshamá em três linhas chamam-se HaBaD, HaGaT, NHY. Por que temos
+119	only three vessels in Tzimtzum Bet? You...	apenas três vasos em Tzimtzum Bet? Você...
