@@ -82,10 +82,16 @@ for (const b of batches) {
 // 2. otherwise the next batch
 const taken = new Set()
 // a lesson skipped in a batch made with the old 450-line requests gets one more chance (2026-10-15)
+// 2026-10-28 (the owner: "keep doing the transcription work non stop"): a lesson skipped with 120-line
+// requests (Claude dropped or doubled lines) gets one more chance in SMALL pieces; skipped again, it stays
+const SMALL = 40
+const small = new Set()
 for (const b of batches) {
   const m = JSON.parse(fs.readFileSync(path.join(DIR, b, 'manifest.json'), 'utf8'))
-  const again = m.created && m.created < '2026-10-15T12:00' ? new Set(m.skipped || []) : new Set()
+  const old = m.created && m.created < '2026-10-15T12:00'
+  const again = new Set((m.skipped || []).filter((id) => old || !m.lessons.find((l) => l.id === id)?.small))
   for (const l of m.lessons) if (!again.has(l.id)) taken.add(l.id)
+  if (!old) for (const id of again) small.add(id)
 }
 const study = (await (await fetch(`${SITE}/data/videos/study.json`, { signal: AbortSignal.timeout(60000) })).json()).study
 
@@ -158,11 +164,12 @@ for (const id of order) {
     `FONTES CITADAS: ${(doc.sources || []).map((s) => `${clock(s[0])} ${s[2]}`).join(' · ')}`,
   ].join('\n')
   const line = (i) => `${i}|${clock(doc.cues[i][0])}|${doc.cues[i][2]}`
-  const parts = Math.ceil(doc.cues.length / CHUNK)
+  const size = small.has(id) ? SMALL : CHUNK
+  const parts = Math.ceil(doc.cues.length / size)
   fs.mkdirSync(path.join(DIR, name, 'in'), { recursive: true })
   for (let k = 0; k < parts; k++) {
-    const a = k * CHUNK
-    const b = Math.min(doc.cues.length, a + CHUNK) - 1
+    const a = k * size
+    const b = Math.min(doc.cues.length, a + size) - 1
     const before = []
     for (let i = Math.max(0, a - BEFORE); i < a; i++) before.push(line(i))
     const body = []
@@ -183,7 +190,7 @@ for (const id of order) {
     )
     chunks.push(`${id}.p${k}`)
   }
-  lessons.push({ id, title: doc.title, lines: doc.cues.length, parts, from: fresh.includes(id) ? 'recente' : week.includes(id) ? 'parashá da semana' : 'mais fontes' })
+  lessons.push({ id, title: doc.title, lines: doc.cues.length, parts, ...(small.has(id) ? { small: 1 } : {}), from: fresh.includes(id) ? 'recente' : week.includes(id) ? 'parashá da semana' : 'mais fontes' })
   console.log(`  ${id}  ${doc.cues.length} lines → ${parts} part(s)  ${doc.title}`)
 }
 if (!lessons.length) {
