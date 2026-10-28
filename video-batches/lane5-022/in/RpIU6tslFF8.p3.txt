@@ -1,0 +1,64 @@
+videoId: RpIU6tslFF8
+parte 4 de 18 · traduzir as linhas 120 a 159 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Ribit: a gravidade do juro e seus limites na Halachá
+RESUMO: O Rav Meir Eliyahu abre contando sua viagem à África do Sul, Nova York e Canadá e observa que a Parashá Ki Teitzei é a que mais contém mitsvot (77), seguida de Mishpatim (53) e Kedoshim (48). Ele passa ao tema do juro, com o versículo "Lo tashich l'achicha neshech kesef" (Devarim 23:20-21), e explica com o Rambam (Hilchot Malve veLove 4:1) que o juro se chama "neshech" porque morde como uma cobra ou cão. Citando Shekalim, Bava Metzia 61 e 75, Tosafot, o Arizal e o Rambam, mostra que quem empresta com juro é chamado de herege, não ressuscita na ressurreição dos mortos e, segundo Tosafot, perde até o mundo vindouro, ilustrando com a visão dos ossos secos de Yechezkel e com histórias. Depois explica que o juro vale também para favores, cumprimentos, ensino de Torá e até um agradecimento, com a discussão de Rav Shlomo Zalman Auerbach e do Chazon Ish. Trata do heter iska, dos bancos, do prosbol antes do Shemitá e conclui que a Torá manda emprestar com juro ao não judeu (Devarim 23:21), uma mitsvá de fazer segundo o Rambam.
+MOMENTOS: 00:00 Viagem à África do Sul, Nova York e Canadá · 01:37 As três parashiot com mais mitsvot · 02:47 O versículo do juro: Lo tashich l'achicha · 03:22 Por que o juro se chama neshech (mordida) · 06:10 Gemará Shekalim: a matrona e Rabi Aba · 07:29 A severidade: herege, sem parte no mundo vindouro · 08:54 Quem transgride: devedor, credor, testemunhas e escriba · 10:09 Os ossos secos de Yechezkel e quem não ressuscita · 11:48 O Arizal e o avelá dígarmá nos ossos · 17:39 O Chatam Sofer e o Shulchan Arukh sobre o juro · 21:47 Rambam: o juro de palavras, cumprimento e Torá · 23:54 Pode agradecer? Rav Shlomo Zalman e o Chazon Ish · 27:45 O heter iska e os bancos · 29:56 O prosbol antes do Shemitá · 33:26 A mitsvá de emprestar com juro ao não judeu
+FONTES CITADAS: 02:47 Devarim 23:20-21 · 03:22 Rambam, Hilchot Malve veLove 4:1 · 06:10 Shekalim 8b (aprox) · 07:05 Mishlei 8:1 / Kohelet 8:1 · 07:48 Rambam, Hilchot Malve veLove 4:2 · 08:15 Vayikra 25:37-38 · 08:54 Bava Metzia 75b · 09:13 Vayikra 19:14 · 09:15 Bava Metzia 61b · 10:09 Pirkei deRabi Eliezer 33 · 10:09 Sotá 4b (Tosafot) · 10:46 Yechezkel 37:11-14 · 11:48 Arizal, Etz Chaim, Shaar 18 (aprox) · 17:03 Yeshayahu 54:11-12 · 17:39 Chatam Sofer, Parashat Behar · 18:23 Shulchan Arukh, Yoreh Deah (poema final) · 20:45 Sotá 4b, Tosafot · 21:01 Devarim 23:20 · 21:47 Rambam, Hilchot Malve veLove 5:12 · 22:29 Rambam, Hilchot Malve veLove 5:12 · 22:43 Rambam, Hilchot Malve veLove 5:12 · 23:54 Minchat Shlomo (Rav Shlomo Zalman Auerbach) 1:27 · 24:34 Chazon Ish, Orchot Rabenu 3, p. 94 · 28:02 Heter iska · 30:01 Prosbol de Hillel (Gitin 36a) · 32:48 Teshuvot veHanhagot 2:422 · 33:26 Devarim 23:21 · 33:36 Rambam, Hilchot Malve veLove 5:1 · 34:50 Rambam, Hilchot Malve veLove 1:2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|05:49|מתאים אל תיקח כמו נתתי לך את הרכב שלי
+109|05:54|אני מזכיר את הרכב אני מזכיר את הטרקטור
+110|05:56|אני מזכיר את הבית אני מזכיר גם את הכסף
+111|05:59|אז בעיני העולם זה לא ברור וזה מאוד מתייש
+112|06:02|ישב על הד לדעת השאלה הזאתי למה אני לא א
+113|06:06|יכול לקחת כסף על שכירות של כסף מה הבעיה
+114|06:10|הגמרא שקלים ח עמוד ב אומרת הגמרא
+115|06:12|מטרוניתחת ראתה את רבי אבאו שהפנים שלו
+116|06:16|היו מהירות ביותר
+117|06:19|אמרה או הוא מגדל חזירים למה היו עושים
+118|06:22|הרבה כסף על גידול חזירים או הוא מלווה
+119|06:24|בריבית כי הם היו עושים הרבה כסף זה היה
+
+LINHAS A TRADUZIR:
+120|06:27|עסק מאוד מסגסג באירופה העניין הזה של
+121|06:31|הלוואות בריבית
+122|06:32|אתה מתעשר נהיה עשיר היום יש גם את העסק
+123|06:35|הזה עוש עם התרים וזה תכף אני אדבר על
+124|06:38|התרי עסקה ועל לטמא את השרץ אבל תכף אני
+125|06:41|אדבר על הסוגיה ואו הוא שיכור אז או מגדל
+126|06:46|חזירים או הוא מלווה בריבית או שיכור כי
+127|06:51|הפנים שלו היו מהירות שמע אותה רבי אבאו
+128|06:55|אמר לה טיפח רוחה דהי איתה אם אתחד המענך
+129|06:59|תמותי פה במקום אמן
+130|07:02|אם יש לי את אחד מאלה שאמרת אלא מתוך
+131|07:05|שתורתי מצויה לי פניי מהירות שנאמר חוכמת
+132|07:07|אדם תאיר פניו אז הפנים של הבן אדם מהירות
+133|07:10|בזכות החוכמה שלו אתה רואה מכאן מהיסוד של
+134|07:13|הגמרא הזאת שהמלווה בריבית היה עסק מסגסג
+135|07:18|היו עושים המון כסף מזה אז אם זה ככה והיו
+136|07:22|באמת עושים הרבה כסף מזה אז למה באמת אסור
+137|07:25|להזכיר כמו שאני מזכיר כלים בבית ויותר
+138|07:29|מזה התורה אומרת אומרת שמי שילווה בריבית
+139|07:32|הוא רשע, כופר בהשם, מרים יד בתורת משה
+140|07:36|רבנו ואין לו חלק לעולם הבא. על מה? נתתי
+141|07:41|לו 100, קיבלתי 120, על זה 20 שקרפת, יש
+142|07:44|20, יש 20 א000, יש 20 מיליון זה לא משנה
+143|07:48|דין פרוטה, דין 100, הדין שלקחת. כך כותב
+144|07:51|הרמב"ם על חז"י קורא: "כל הכותב שתה
+145|07:54|ריבית" הרי זה כותב ומעיד עליו עדים שכפר
+146|07:59|בהשם אלוקי ישראל
+147|08:01|וכן כל הלובה ומלווה בריבית בינם לבין
+148|08:05|עצמם הרי שתי אלה כופרים בהשם אלוקי ישראל
+149|08:11|כפרו ביציאת מצרים כפרו בניסים כפרו
+150|08:15|בפתיחת ים סוף לא להמין על מה על מה שנאמר
+151|08:20|את כספך לא תיתן לו בנשך אני השם אלוקיכם
+152|08:22|אשר הוצאתי אתכם מארץ מצרים ככה כותב
+153|08:25|הרמבם נמצא שמי שיעשה דבר כזה הוא כופר יש
+154|08:28|לזה נפקמינה בהלכה אז מה אם הוא כופר טוב
+155|08:30|אז אני כופר אז מה הבעיה מה הבעיה לא
+156|08:33|יושבים עליו שבעה הוא נקבר עם הרשעים מחוץ
+157|08:37|לגדר מורידים אותו לבור מחפשים את
+158|08:39|ההזדמנות מתי לדחוף אותו לא מצווים להחיות
+159|08:43|אותו אם הוא נפל למשקב שישאר שם יהיה מקום

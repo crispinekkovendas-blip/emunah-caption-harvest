@@ -1,0 +1,64 @@
+videoId: RpIU6tslFF8
+parte 8 de 18 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Ribit: a gravidade do juro e seus limites na Halachá
+RESUMO: O Rav Meir Eliyahu abre contando sua viagem à África do Sul, Nova York e Canadá e observa que a Parashá Ki Teitzei é a que mais contém mitsvot (77), seguida de Mishpatim (53) e Kedoshim (48). Ele passa ao tema do juro, com o versículo "Lo tashich l'achicha neshech kesef" (Devarim 23:20-21), e explica com o Rambam (Hilchot Malve veLove 4:1) que o juro se chama "neshech" porque morde como uma cobra ou cão. Citando Shekalim, Bava Metzia 61 e 75, Tosafot, o Arizal e o Rambam, mostra que quem empresta com juro é chamado de herege, não ressuscita na ressurreição dos mortos e, segundo Tosafot, perde até o mundo vindouro, ilustrando com a visão dos ossos secos de Yechezkel e com histórias. Depois explica que o juro vale também para favores, cumprimentos, ensino de Torá e até um agradecimento, com a discussão de Rav Shlomo Zalman Auerbach e do Chazon Ish. Trata do heter iska, dos bancos, do prosbol antes do Shemitá e conclui que a Torá manda emprestar com juro ao não judeu (Devarim 23:21), uma mitsvá de fazer segundo o Rambam.
+MOMENTOS: 00:00 Viagem à África do Sul, Nova York e Canadá · 01:37 As três parashiot com mais mitsvot · 02:47 O versículo do juro: Lo tashich l'achicha · 03:22 Por que o juro se chama neshech (mordida) · 06:10 Gemará Shekalim: a matrona e Rabi Aba · 07:29 A severidade: herege, sem parte no mundo vindouro · 08:54 Quem transgride: devedor, credor, testemunhas e escriba · 10:09 Os ossos secos de Yechezkel e quem não ressuscita · 11:48 O Arizal e o avelá dígarmá nos ossos · 17:39 O Chatam Sofer e o Shulchan Arukh sobre o juro · 21:47 Rambam: o juro de palavras, cumprimento e Torá · 23:54 Pode agradecer? Rav Shlomo Zalman e o Chazon Ish · 27:45 O heter iska e os bancos · 29:56 O prosbol antes do Shemitá · 33:26 A mitsvá de emprestar com juro ao não judeu
+FONTES CITADAS: 02:47 Devarim 23:20-21 · 03:22 Rambam, Hilchot Malve veLove 4:1 · 06:10 Shekalim 8b (aprox) · 07:05 Mishlei 8:1 / Kohelet 8:1 · 07:48 Rambam, Hilchot Malve veLove 4:2 · 08:15 Vayikra 25:37-38 · 08:54 Bava Metzia 75b · 09:13 Vayikra 19:14 · 09:15 Bava Metzia 61b · 10:09 Pirkei deRabi Eliezer 33 · 10:09 Sotá 4b (Tosafot) · 10:46 Yechezkel 37:11-14 · 11:48 Arizal, Etz Chaim, Shaar 18 (aprox) · 17:03 Yeshayahu 54:11-12 · 17:39 Chatam Sofer, Parashat Behar · 18:23 Shulchan Arukh, Yoreh Deah (poema final) · 20:45 Sotá 4b, Tosafot · 21:01 Devarim 23:20 · 21:47 Rambam, Hilchot Malve veLove 5:12 · 22:29 Rambam, Hilchot Malve veLove 5:12 · 22:43 Rambam, Hilchot Malve veLove 5:12 · 23:54 Minchat Shlomo (Rav Shlomo Zalman Auerbach) 1:27 · 24:34 Chazon Ish, Orchot Rabenu 3, p. 94 · 28:02 Heter iska · 30:01 Prosbol de Hillel (Gitin 36a) · 32:48 Teshuvot veHanhagot 2:422 · 33:26 Devarim 23:21 · 33:36 Rambam, Hilchot Malve veLove 5:1 · 34:50 Rambam, Hilchot Malve veLove 1:2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|14:45|קרה?" אומר לו, "לא משנה מה קרה, השם
+269|14:48|יעזור." אומר לו, "השם יעזור". תגיד לי מה
+270|14:50|קרה? אומר לו, "מה? מה קרה? מצב על הפנים
+271|14:54|אין לי בית ה בעל הבית רוצה לזרוק אותי,
+272|14:57|אין לי, יש לי משפחה מרובת ילדים, איפה
+273|15:00|אני עכשיו אלך?"
+274|15:01|ההוא אומר לו, "תשמע,
+275|15:05|ראיתי אותך פה שעה, אני כבר מסתכל עליך על
+276|15:07|הדמעות שלך, ריגשת אותי ואני רוצה להביא
+277|15:11|לך בית חמישה חדרים."
+278|15:14|הוציא מפתחות מהכיס, אמר, "הנה בשבילך
+279|15:16|הבית חמישה חדרים." אמר לו, "אל מה? איך?"
+
+LINHAS A TRADUZIR:
+280|15:20|אמר לו שהנדיב
+281|15:24|הגביר אמר לו שהוא עשה בדיקות
+282|15:27|והוא הולך, הוא צריך להסתלק לבית עולמו.
+283|15:29|יש לו מחלה ברמינן כל הגוף אין לו זרע
+284|15:32|אחריו אמר למה שהמדינה תיקח את זה
+285|15:37|לא יודע מה באתי לקדוש ברוך הוא פה בכותל
+286|15:39|לבכות על אחרית ימיי מהשמיים ראיתי אותך
+287|15:43|לא סתם פגשתי אותך אז הנה הבית בשבילך
+288|15:47|הביא לו בית חמישה חדרים בכותל ראה אותו
+289|15:53|משהו פלא הלך סיפר את זה לחברים שלו בכולל
+290|15:56|החברים שלו יואו איזה כיף לך יואו גם
+291|15:58|אנחנו המצב שלנו הרגנו אוטובוס לכותל.
+292|16:04|אחד האברחים סיפר שמה ואני בוכה ובוכה
+293|16:07|ובוכה שעה שעתיים פתאום אחרי שעתיים מישהו
+294|16:10|עושה לי ככה אני מסתובב איזה אני אומר לי
+295|16:14|בבקשה תעזור לי החולה בא למת מסכן
+296|16:19|למה הראשון מצא קיבל והשני לא קיבל הראשון
+297|16:24|חיפש את הקדוש ברוך הוא בכותל השני חיפש
+298|16:28|את העשיר בכותל אז זה ההבדלים את מי אתה
+299|16:30|מחפש איפה הראש שלך מונח מה אתה מלווה
+300|16:33|בריבית? מה הקדוש ברוך הוא לא יכול להשאיר
+301|16:34|אותך בדרכים אחרות? אתה צריך את הדבר הזה?
+302|16:37|ככה זה היה. מעשה היה ונפטר איזה גביר
+303|16:40|מיליונר אחד והחבר'ה הקדישה ביקשה 8,000
+304|16:44|זהובים על הקבר שלו. סכום אסטרונומי. אז
+305|16:48|שאלו הילדים שלו, על מה 8,000 זהובים? אתם
+306|16:51|מוכרים פה ב200 זהובים את החלקה? אמר אמר
+307|16:55|הבעל החברה קדישה, כן, אבל אנחנו לא
+308|16:58|מוכרים. אנחנו מזכירים את זה עד תחית
+309|16:59|המתים. כולם יקומו. נעשה שמה מגדלים אבל
+310|17:03|הוא לבה בריבית האבא שלכם אז הוא קונה את
+311|17:06|זה לנצח נצחים הוא ישאר פה בתחיית המתים
+312|17:08|אז לא נוכל לעלים פה מגדלים אתה מבין עוד
+313|17:11|מעט יהיה תחיית המתים אין בית קברות
+314|17:13|סנהדריה הזיתים הרצל הכל מגדלים הכל ירמו
+315|17:18|שמה כולם ימקומו המתים יקומו וכולם יקומו
+316|17:21|יבנו שמה מגדלים שנאמר הנה אנוכי מרביץ
+317|17:23|בפיךבנייך וסדתיך בספירים ושמתי כחות חוד
+318|17:26|שמשותיך וכל גבולך לאבני חפץ יהיה מגדלים
+319|17:29|באוויר שמה

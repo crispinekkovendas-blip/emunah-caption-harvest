@@ -1,0 +1,64 @@
+videoId: Sy29d_OVlaQ
+parte 20 de 21 · traduzir as linhas 760 a 799 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Shelach: o perigo de buscar poder e honra
+RESUMO: O rabino lê o início da Parashá (Bamidbar 13:1-3) e explica que Moshé enviou homens de elite, mas os espiões caíram por política: temiam perder seus cargos ao entrar na Terra e por isso difamaram a Terra. Com a Gemará (Eruvin 13b, Sotá 9a, Chulin 60b) ensina que quem cobiça o que não é seu perde até o que tem, e ilustra com o camelo, o crocodilo e Yerovam ben Nevat, que perdeu tudo por orgulho e por querer ser antes de Ben Yishai. Mostra que a língua dos espiões foi castigada (Sotá 35a), e passa ao louvor da Terra de Israel, citando a Gemará (Ketuvot, Bava Batra) e o Zohar sobre o ar e a terra. Conta a parábola do ponto preto na folha branca, ensinando a ver o bom, e critica o "voltar à pergunta", trazendo Bamidbar 33 e Sanhedrin 63b. Defende o tempo de qualidade com cada filho e a atenção em casa, e termina com "ish echad ish echad" (Bamidbar 13:2): não ser um no boca e outro no coração, como Esav, com a história do homem que se fez passar por rabino.
+MOMENTOS: 00:22 Início da Parashá: por que "envia homens" · 01:27 Os espiões caíram por política e cargos · 02:30 Eruvin 13b: quem foge da honra a recebe · 03:37 O camelo que quis chifres (Chulin 60b) · 04:28 O crocodilo que quis engolir tudo · 06:17 Yerovam ben Nevat e o orgulho · 09:47 O sonho: "eu, você e Ben Yishai" no Gan Eden · 16:02 A língua dos espiões e os vermes · 17:42 Louvor da Terra de Israel · 23:41 A parábola do ponto preto na folha · 25:49 Voltar à pergunta ou voltar ao desejo · 31:41 Tempo de qualidade com cada filho · 36:40 Ish echad ish echad: boca e coração iguais · 38:36 História do falso rabino e da casa
+FONTES CITADAS: 00:06 Bamidbar 13:1-3 · 00:30 Bamidbar 13:18-20 · 02:30 Eruvin 13b · 02:38 Sotá 9a · 02:42 Sotá 9a · 03:42 Chulin 60b · 06:19 Sanhedrin 101b · 07:16 Devarim 16:16-17 · 08:04 Melachim I 12:28-30 · 08:36 Eruvin 69b · 08:40 Shulchan Arukh, Yoré Deá 2 (Beit Yosef) · 09:12 Zohar sobre Yerovam · 09:23 Ben Ish Chai · 09:47 Sanhedrin 102a · 10:57 Zohar, Idra Zuta · 13:05 Rambam, Igueret · 14:10 Rav Yehuda Fatiyah, Ruchot Mesaprot · 16:05 Sotá 35a · 16:24 Yeshayáhu 41:14 · 17:40 Devarim 11:12 · 17:46 Bava Batra 158b · 17:54 Ketuvot 112a · 18:03 Tehilim 102:15 · 18:09 Ketuvot 75a · 18:20 Devarim 32:43 · 18:33 Bereshit 3:17 · 18:53 Zohar, Balak (Bamidbar 25:1) · 19:33 Sotá 14a · 19:46 Bava Batra 158b · 20:41 Bereshit 4:10 · 21:19 Zohar sobre Bereshit 4:10 · 23:47 Bamidbar 13:2 · 26:16 Yirmeyáhu 2:5 · 26:35 Sanhedrin 99b · 27:18 Tehilim 73:28 · 28:26 Pirkei Avot 3:16 · 29:39 Bamidbar 33:15-16 · 30:00 Sanhedrin 63b · 31:36 Yevamot 62b · 33:55 Berachot 58a · 36:40 Bamidbar 13:2 · 36:43 Zohar e Gemará sobre os hipócritas · 37:02 Sotá 41b · 37:44 Bereshit 25:27 · 38:12 Bereshit Rabá sobre Bereshit 25:27
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+748|40:48|ממול, תדפקו לי.
+749|40:50|אמרו לו, לא דופקים, לא באים, אנחנו במחיר כזה לא מוכרים, כבר שווה לנו לסגור את הבית ככה,
+750|40:55|ואולי יום אחד נחזור לפה.
+751|40:57|which we highly doubt it, אנחנו מסופקים מאוד.
+752|41:00|טוב, עבר יום, עבר יומיים, עבר שלושה ימים, כבר כרטיס טיסה, כבר
+753|41:05|מתקתק, עוד שבועיים כבר היה כרטיס טיסה.
+754|41:08|את הבית אף אחד לא יקנה, זה נגמר הסיפור, הם כבר הבינו שזה כבר לא יקרה, הם שנה מחפשים קונה
+755|41:14|לבית, אין אפילו עם מי לדבר, אף אחד לא מתקשר.
+756|41:18|בלית ברירה דפקו לבן אדם, אמרו לו שמע יא חביבי, מודים
+757|41:23|שטעינו, זה המחיר, אתה יכול קצת לעלות בבקשה, אולי באיזה מאה אלף,
+758|41:29|אמר להם לא.
+759|41:31|אמרו לנו אולי באיזה חמישים אלף, אמר להם זהו זה, זה הכסף שיש לי, רוצים טוב, לא רוצים,
+
+LINHAS A TRADUZIR:
+760|41:37|תפס אותם בפינה, מה, הבינו איזה תרנגולת זהב.
+761|41:42|זה שלהם, אבל הם, נכון, אמר להם, זה מה שאני רוצה לשלם.
+762|41:46|אתם רוצים, תקנו, לא רוצים, ביתה, אני לא מכריח, אני שמתי לכם אקדח, אתם רוצים, תקנו, תמכרו,
+763|41:52|לא רוצים למכור, רק תמכרו.
+764|41:53|בקיצור, סוף של דבר, החליטו למכור לו במחיר הזה.
+765|41:56|עשה את העסקה של החיים שלו, לפני שחתם על העסקה, כבר סידר את העורכי דין, חבר שלו עורך דין,
+766|42:02|סידר את הכל, הלך לרב שלו.
+767|42:05|איזה אחד?
+768|42:07|מה, לרב שלו?
+769|42:08|אמר לו, רבי.
+770|42:09|יש לי איזה בית, חבל על הזמן עסקה של החיים, כך וכך, אני רוצה רק שהרבי יברך אותי, שהכל ילך
+771|42:15|כמו שצריך למישרין.
+772|42:16|אמר לו, איזה בית?
+773|42:17|אמר לו, כך וכך, מקום כך וכך, מול הכינרת, בכתובת כך וכך.
+774|42:22|אמר לו, מה?
+775|42:23|חכה, תן לי רגע, ההוא עשה ככה.
+776|42:27|לא, לא בשבילך הבית הזה.
+777|42:30|אמר לו, מה?
+778|42:31|הרב, מה, אתה לא תעשה לי את זה עכשיו, רבנו, אני רק באתי לבקש ברכה.
+779|42:34|הוא אומר לו, לא.
+780|42:36|תן לי עוד פעם, אני אבדוק לך?
+781|42:40|לא, זה לא בשבילך, אני רואה שיעשה לך את צרות הבית הזה.
+782|42:43|זה לא בשבילך הבית הזה.
+783|42:45|אומר לו, הרב, אני סומך עליך, זה קשה לי לוותר על הדבר הזה.
+784|42:48|אומר לו, קשה, זה לא בשבילך.
+785|42:51|טוב, נגמר.
+786|42:52|ההוא קיבל את זה, מה שהרב אומר, כשהוא יגיד לך ימין שמאל שמאל ימין, קיבל את זה.
+787|42:57|גמר את הזה, בלע את הלשון שלא מה יעשה,
+788|43:03|ונגמר.
+789|43:04|הלך לשתום, נשבר, אמר, טוב, נשאר עוד בבית הזה, שלוש חדרים, מה נעשה?
+790|43:08|אחרי חודש, הוא רואה שהרף שהוא שאל אותו, נכנס ויוצא מהבית, מביא את הרהיטים
+791|43:14|שלו לתוך הבית, מביא את ה...
+792|43:17|זה, בטח גם את הטלוויזיה הוא הכניס לתוך הבית.
+793|43:21|בא אליו ואומר לו, רבנו, מה זה?
+794|43:24|אומר לו, מה?
+795|43:25|אומר לו, מה אני רואה פה?
+796|43:27|הוא אומר לו, אני קניתי את הבית, מה הבעיה?
+797|43:29|אומר לו, מה?
+798|43:30|אבל אני באתי אליך ואני אמרתי לך...
+799|43:32|אמר לו, אני אמרתי לך זה לא בשבילך, בשבילי, אבל לא בשבילך.

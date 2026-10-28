@@ -1,0 +1,50 @@
+videoId: 1S_rB8DpPeA
+parte 1 de 20 · traduzir as linhas 0 a 39 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayigash: o perdão que Yosef não pronunciou
+RESUMO: O rabino retoma o drama de Vayigash, a taça encontrada no saco de Binyamin, e explica o "nachash yenachesh" de Yosef e o argumento dos irmãos, que já haviam devolvido o dinheiro (Bereshit 44), com Rashi sobre o motivo de a busca começar por Shimon. Ele enumera as dez ofensas que os irmãos cometeram contra Yosef, segundo o Midrash Rabá: os cães, a nudez, o poço de serpentes e escorpiões, as vendas, as pancadas, a mulher de Potifar e a prisão, e mostra, com Daniel na cova dos leões e Bilam, que quem guarda a aliança é protegido. A essas dez ofensas correspondem os Dez Mártires do Reino, e o Arizal (citado em nome do Ari) afirma que Rabi Akiva trazia a alma de Yissachar. Yosef não disse "perdoei" nem no fim de Vayechi (Bereshit 50), e por isso voltou como Rabi Yishmael Cohen Gadol, cuja morte e cujo rosto esfolado são contados com Berachot 10a e Avodá Zará. O rabino conclui que os irmãos agiram por "din Torá" (din rodef) e foram punidos por se sentarem para comer pão depois de lançar Yosef ao poço, ilustrando com o Gaon de Vilna, e termina com a lição de perdoar em voz alta antes do Shemá, citando Shabat 149b.
+MOMENTOS: 00:55 Nachash yenachesh: Yosef sabe sem a taça · 01:20 Os irmãos: já devolvemos o dinheiro · 03:40 Rashi: por que a busca começa por Shimon · 05:54 As dez ofensas dos irmãos contra Yosef · 07:19 Poço de serpentes e escorpiões · 09:58 Daniel e os leões: quem guarda a aliança é protegido · 12:21 Nudez, venda, pancadas, prisão: as dez ofensas · 12:53 Os dez mártires do reino e o Ari: Yissachar em Rabi Akiva · 18:22 Yosef perdoou os irmãos? · 26:59 Yosef volta como Rabi Yishmael Cohen Gadol · 32:33 Din rodef e a casa de estudo em Goshen · 34:12 Comer pão após lançá-lo ao poço e o Gaon de Vilna · 38:12 Perdoar em voz alta antes do Shemá
+FONTES CITADAS: 00:55 Bereshit 44:5 · 01:20 Bereshit 44:7-8 · 01:38 Devolução de objeto perdido (Hashavat Avedá), Shulchan Arukh, Choshen Mishpat 266 · 02:31 Bereshit 43:20 · 03:16 Bereshit 44:10-12 · 03:40 Rashi em Bereshit 44:12 · 03:57 Rashi em Bereshit 44:15 / Bereshit Rabá · 04:41 Bereshit 44:13-14 · 05:11 Bereshit 44:16 · 05:54 Bereshit Rabá, as dez ofensas contra Yosef · 07:27 Yevamot 121a · 08:20 Devarim 8:15 · 09:10 Shabat 22a · 09:18 Zohar, Vayeshev 181 · 10:04 Daniel 6 · 11:01 Bamidbar 25:1 · 11:54 Bereshit 37:14 · 12:53 Midrash dos Dez Mártires do Reino (Eleh Ezkerah) · 13:40 Bereshit 45:5 · 13:48 Berachot 61b e Menachot 29b · 13:55 Avodá Zará 18a · 14:10 Chulin 142a e Kidushin 39b · 14:40 Arizal (Rabi Yitschak Luria), Shaar HaGilgulim · 15:12 Pesachim 49b · 16:42 Eruvin 21b · 17:08 Bechorot 58a · 18:12 Bava Kama 50a · 18:36 Bereshit 50:15 · 21:43 Bereshit 50:16-17 · 22:28 Bereshit 50:19-21 · 24:50 Bereshit 37:2 · 25:09 Pesachim 50a · 26:12 Mishlei 9:8 · 27:17 Gitin 58a · 27:23 Semachot 8 e Midrash Eleh Ezkerah · 28:56 Maase Merkavot / Responsa de Rav Pealim, parte 1, 11 · 31:14 Berachot 10a · 31:26 Avodá Zará 10a · 32:42 Din rodef (Sanhedrin 73a) · 33:03 Bereshit Rabá / Rashi em Bereshit 46:28 · 33:30 Avodá Zará 3b · 33:53 Bereshit 49:1 · 34:12 Bereshit 37:25 · 34:27 Relato do Gaon de Vilna sobre o delator (moser) · 36:15 Sidur, Birkat HaMinim (Amidá) · 38:12 Shabat 149b · 39:11 Sidur, Hareni Mochel antes do Shemá · 40:32 Eruvin 13b
+
+LINHAS A TRADUZIR:
+0|00:01|כן, הפרשה שלנו השבוע, פרשת ויגש.
+1|00:05|זה הפרשה עצרה באמצע הדרמה.
+2|00:08|מה היה הדרמה?
+3|00:11|האחים ירדו מצרימה, וכל
+4|00:17|אחד מכיר את הסיפור שיוסף הצדיק התחפש לשליט מצרי
+5|00:22|וביקש מהם, לכו תביאו לי בבקשה את ה...
+6|00:28|אמר לבן שלו מנשה, לך תתחפש שאתה כאילו לא יודע מי לקח את הגביע ואתה
+7|00:34|תלך שעה, תנסה להפיל אותם.
+8|00:36|תגיד להם, למה שילמתם רעתך הטובה?
+9|00:40|מה זה, תעשו דבר כזה?
+10|00:44|איך אתם משלמים רעה?
+11|00:45|הם יצאו את העיר, לא הרחיקו.
+12|00:48|ויוסף אמר לאשר על ביתו, קום רדוף אחרי האנשים והשגתם.
+13|00:52|אמרת אליהם, למה שילמתם רעתך הטובה?
+14|00:55|הלא זה אשר ישתה אדוני בו, והוא נחש, ינחש, ינחש, ינחש.
+15|01:00|מה זה נחש, ינחש?
+16|01:01|אלא שהוא יודע לנחש גם בלי הגביע הזה.
+17|01:05|הוא אדם גדול, איש אשר כמוני, הוא אומר.
+18|01:07|אני לא צריך את הגביע, אני מסברה יודע שאתם גנבתם אותו.
+19|01:12|אה, ויסיגם וידבר אליהם את הדברים האלה, ויאמרו אליו, למה ידבר אדוני כדברים האלה?
+20|01:18|חלילה לעבדיך מעשות כדבר הזה?
+21|01:20|מה נראה לך בעולם שאנחנו גנבים?
+22|01:23|הלא כסף אשר נמצא בהמתכותינו ישבונו אליך.
+23|01:27|אנחנו כבר החזרנו, אתה רואה שאנחנו לא טעה ובצע.
+24|01:30|יכולנו לשתוק, לא להגיד כלום.
+25|01:32|בן אדם מחזיר לך עודף יותר מהכסף שלך, יותר ממה שמגיע לך, או אפילו לא שילמת ומחזיר לך עודף,
+26|01:37|תשתוק!
+27|01:38|להלכה אסור לשתוק, אם לא תחזור בגלגול עוד הפעם, שיאה מלאה עוונות, כזה מקדרק בראש.
+28|01:43|וכאן זה השבת אבדה, אתה חייב להחזיר לו.
+29|01:47|אלא אם כן זה גוי, אם זה גוי טעות, הגוי מותרת.
+30|01:49|לגזור, אסור, אבל אם הוא טעה, זה דבר אחר.
+31|01:52|ויש אומרים, בגוי משום קידוש השם מצווה להשיב לו וגם היום אתה לא יודע אם הבעלים
+32|01:58|הוא יהודי או לא יהודי אולי הגוי הוא רק עובד שמה אבל הבעלים, אתה לא יודע, לא משנה שגם אם
+33|02:04|הבעלים יהודי ואם הגוי עובד שמה אז גם הגוי הוא בעלים אבל למה?
+34|02:08|כי תמיד אתה יודע איך זה עובד אבל אתה רואה שכאן אסור.
+35|02:12|אתה צריך להחזיר את זה ליהודי, להגיד לו, תשמע, הנה, סליחה, טעית, לא מגיע לי הסכום שהבאת לי.
+36|02:18|והוא אומר לו, כסף שנמצא במתוכן, יכולנו לשתוק.
+37|02:22|אתה לא ביקשת, לא דרשת מאיתנו, יכולנו לראות בשקט ולהחזיר את הכסף הזה.
+38|02:26|מה, אנחנו טעה ובצע?
+39|02:28|אנחנו לא גנבים ולא שקרנים, אנחנו אנשים ישרים פלס.

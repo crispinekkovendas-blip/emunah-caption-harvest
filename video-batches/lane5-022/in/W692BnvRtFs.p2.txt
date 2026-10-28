@@ -1,0 +1,64 @@
+videoId: W692BnvRtFs
+parte 3 de 10 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mim rabim: trabalho e preocupação — "Ki Yedativ
+RESUMO: A aula estuda o maamar "Ki Yedativ", que parte do versículo de Bereshit 18:19, no qual HaShem testemunha o afeto por Avraham por ele instruir seus filhos e sua casa depois dele. O Targum traduz "yedativ" como conhecimento, mas isso deixa "lemaan" sem sentido, e Rashi por isso o explica como expressão de afeto; o Rebe pergunta como o Targum responderia. Em seguida o Rebe cita o maamar do Rebe Maharash de 5636 sobre Shir HaShirim 8:7, "Mayim rabim lo yuchlu lechabot et haahava", e pergunta como a água, mesmo a espiritual (sabedoria e intelecto, como no Tanya cap. 3), poderia apagar um amor que está acima do intelecto e que é ele mesmo comparado à água no piyut "Zechor Av". A explicação é que "mayim rabim" são as preocupações com o sustento no exílio, ao contrário da época do Beit HaMikdash, quando havia bênção e abundância. O problema não é lidar com o material, mas ficar preocupado e cheio de dúvidas, cuja resolução traz alegria. Citando Pirkei Avot cap. 6, o Rebe ensina que riqueza e força servem aos tzadikim quando são vistas como instrumentos do serviço a HaShem, como no relato do Baal Shem Tov sobre a acusação contra os donos de estalagens.
+MOMENTOS: 00:07 O versículo "Ki yedativ" e o elogio a Avraham · 01:18 Maamar do Rebe Rashab e a data do yom huledet · 02:16 Targum e Rashi: "yedativ" como conhecimento ou afeto · 04:06 A pergunta sobre o Targum abre o maamar · 04:44 Maamar do Rebe Maharash sobre "Mayim rabim" · 05:23 Como a água poderia apagar o amor? · 08:51 Água espiritual: sabedoria e intelecto (Tanya cap. 3) · 10:46 Piyut "Zechor Av": o amor é comparado à água · 14:14 Mim rabim como preocupações com o sustento · 17:13 Dúvidas que cansam o intelecto · 23:27 Diferença entre se ocupar e ficar preocupado · 24:21 Riqueza para tzadikim e o Baal Shem Tov
+FONTES CITADAS: 00:19 Bereshit 18:19 · 02:16 Targum Onkelos em Bereshit 18:19 · 02:53 Rashi em Bereshit 18:19 · 04:55 Shir HaShirim 8:7 · 09:00 Tanya, cap. 3 · 10:46 Piyut Zechor Av · 16:40 Mishlei 19:21 · 17:33 Shemot 20:9 · 18:32 Mayim ela Torá (Bava Kama 17a) · 18:52 Responsa de um dos Poskim · 21:54 Mishlei 19:3 · 23:37 Pirkei Avot 6:8 · 25:12 Yirmiyahu 9:22 · 26:07 História do Baal Shem Tov, Keter Shem Tov · 27:29 Mishlei 3:6 · 27:34 Berachot 63a
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|05:23|מהו עניין המים שיכבו את האהבה?
+69|05:27|הפסוק אומר מים רבים, לא יוכלו לכבות את האהבה, על איזה מים מדובר, שהייתה מחשבה שהם יכולים
+70|05:33|לכבות את האהבה.
+71|05:35|והשאלה הפשוטה היא, הלוא, האהבה שהיא רגע שבלב, אינה בגדר כיבוי כלל שהמים
+72|05:41|יכבו אותה.
+73|05:42|אש גשמית, אפשר להדליק אותה, אפשר לכבות אותה, אבל האהבה בלב היא לא דבר פיזי
+74|05:48|שאפשר לכבות אותו על ידי מים בכלל וגם לא על ידי מים רבים.
+75|05:53|אז מה העניין של המים הרבים שיכבו את האהבה?
+76|05:57|זו שאלתו של הרבי מהרש במאמרו לפרשת וירא, תרשל"ו.
+77|06:05|אז הרבי מיד מבאר שהשאלה היא לא כפשוטה
+78|06:12|שהרבי מהרש תמה איך מים גשמיים יכולים לכבות רגש של
+79|06:17|אהבה.
+
+LINHAS A TRADUZIR:
+80|06:18|יש פה משהו הרבה יותר עמוק בשאלה.
+81|06:21|מה אומר?
+82|06:28|אומר, ויש לומר, שכוונת השאלה מהו עניין המים שהיא חבות אהבה,
+83|06:34|היא לא בנוגע למים גשמים, שאז היה אפשר לומר,
+84|06:40|שהכוונה בפסוק היא למים רוחניים.
+85|06:42|זאת אומרת, אם השאלה הייתה על מים גשמים, הייתי מיד עונה, אין הכוונה למים גשמים, המים כאן
+86|06:48|הם רק משל, הכוונה היא למים רוחניים, כפי שמצינו בכמה מקומות עניין המים
+87|06:54|ברוחניות, וממילא, אם השאלה היא איך גשמי יכול לכבות רוחני, אז אני הייתי
+88|07:00|עונה שהמים פה באמת הם לא גשמיים, הם רוחניים.
+89|07:05|אז חייבים לומר ששאלתו של הרבי אמרה, שמלכתחילה מתייחסת למים רוחניים.
+90|07:12|מלכתחילה אומר, ברור לי שאתה מבין לבד שמים רבים שמדובר כאן זה רק
+91|07:18|משל המים הרוחניים, ולמרות זאת המים הרוחניים גם כן לא יוכלו לכבות את האהבה.
+92|07:26|ועל זה שואל הרבי אמרש, מה העניין של המים הרוחניים שהייתי חושב שיכולים
+93|07:32|לכבות את האהבה?
+94|07:35|אלא, וזה מה שרבי עכשיו יבהר, ששאלתו של הרבי אמרש במאמר שלו, היא
+95|07:41|אלא בנוגע לעניין המים ברוחניות.
+96|07:43|ובמאמר המוסגר הרבי מוסיף, הוא להעיר שאף שבמאמר זה
+97|07:49|מבואר שמים רבים שלא יוכלו לכבות את האהבה, קאי על טרדות הפרנסה כדלקמן.
+98|07:56|שזה פירוש שתואם לפירושו של אדמו"ר הזקן, כמו בדיבור המתחיל זה,
+99|08:02|שבתורה או פרשת נח, שכנראה עליו מיוסד מאמר זה, הרי
+100|08:08|ישנו גם הביאור בדיבור המתחיל זה, שבתורה או פרשת תולדות, שמים רבים הם מדרגות נעלות
+101|08:14|בקדושה החולה.
+102|08:16|אז יש אמנם את הפירוש שמים רבים הולך על תרדות הפרנסה, שאז הביאור,
+103|08:22|שהם לא מכבות את אהבת השם, כלומר, למרות שאדם טרוד בענייני חולין
+104|08:27|ובעניינים גשמיים, זה לא יכול להשכיח ממנו, או לבטל חלילה
+105|08:33|את האהבה הפנימית שיש לו בליבו לקדוש ברוך הוא.
+106|08:38|אבל כאמור, יש גם פירוש יותר ישיר
+107|08:44|למושג מים ברוחניות, שזה מדרגות נעלות שבקדושה, שעכשיו הוא ייבאר
+108|08:50|מים.
+109|08:51|שמה זה המים הרבים?
+110|08:54|שזה מים שברוחניות, שהוא עניין חוכמה ושכל.
+111|09:00|ומי שזוכר, בפרק ג' בתניא, האדמור הזה כן מביא שמה שיסוד האש הוא בלב,
+112|09:06|ויסוד המים והלכות הוא מהמוח.
+113|09:09|כך הוא מביא שם.
+114|09:11|זאת אומרת שאנחנו כבר בתחילת התניא לומדים שמים שייכים לחוכמה,
+115|09:17|שייכים לשכל, למוח.
+116|09:20|אז אם כן, הפירוש הפשוט שהייתי מפרש, שמים רבים לא יוכלו לכבות את האהבה,
+117|09:26|כיוון שאהבה היא עניין רוחני, אז ממילא במים רבים גם כן מתכוונים למים הרוחנים, שזה החוכמה
+118|09:32|והשכל.
+119|09:34|ועל זה שואל הרבי אמרש את השאלה, איך שייך שיכבו את האהבה?

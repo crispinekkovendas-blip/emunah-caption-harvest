@@ -1,0 +1,64 @@
+videoId: 1S_rB8DpPeA
+parte 3 de 20 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayigash: o perdão que Yosef não pronunciou
+RESUMO: O rabino retoma o drama de Vayigash, a taça encontrada no saco de Binyamin, e explica o "nachash yenachesh" de Yosef e o argumento dos irmãos, que já haviam devolvido o dinheiro (Bereshit 44), com Rashi sobre o motivo de a busca começar por Shimon. Ele enumera as dez ofensas que os irmãos cometeram contra Yosef, segundo o Midrash Rabá: os cães, a nudez, o poço de serpentes e escorpiões, as vendas, as pancadas, a mulher de Potifar e a prisão, e mostra, com Daniel na cova dos leões e Bilam, que quem guarda a aliança é protegido. A essas dez ofensas correspondem os Dez Mártires do Reino, e o Arizal (citado em nome do Ari) afirma que Rabi Akiva trazia a alma de Yissachar. Yosef não disse "perdoei" nem no fim de Vayechi (Bereshit 50), e por isso voltou como Rabi Yishmael Cohen Gadol, cuja morte e cujo rosto esfolado são contados com Berachot 10a e Avodá Zará. O rabino conclui que os irmãos agiram por "din Torá" (din rodef) e foram punidos por se sentarem para comer pão depois de lançar Yosef ao poço, ilustrando com o Gaon de Vilna, e termina com a lição de perdoar em voz alta antes do Shemá, citando Shabat 149b.
+MOMENTOS: 00:55 Nachash yenachesh: Yosef sabe sem a taça · 01:20 Os irmãos: já devolvemos o dinheiro · 03:40 Rashi: por que a busca começa por Shimon · 05:54 As dez ofensas dos irmãos contra Yosef · 07:19 Poço de serpentes e escorpiões · 09:58 Daniel e os leões: quem guarda a aliança é protegido · 12:21 Nudez, venda, pancadas, prisão: as dez ofensas · 12:53 Os dez mártires do reino e o Ari: Yissachar em Rabi Akiva · 18:22 Yosef perdoou os irmãos? · 26:59 Yosef volta como Rabi Yishmael Cohen Gadol · 32:33 Din rodef e a casa de estudo em Goshen · 34:12 Comer pão após lançá-lo ao poço e o Gaon de Vilna · 38:12 Perdoar em voz alta antes do Shemá
+FONTES CITADAS: 00:55 Bereshit 44:5 · 01:20 Bereshit 44:7-8 · 01:38 Devolução de objeto perdido (Hashavat Avedá), Shulchan Arukh, Choshen Mishpat 266 · 02:31 Bereshit 43:20 · 03:16 Bereshit 44:10-12 · 03:40 Rashi em Bereshit 44:12 · 03:57 Rashi em Bereshit 44:15 / Bereshit Rabá · 04:41 Bereshit 44:13-14 · 05:11 Bereshit 44:16 · 05:54 Bereshit Rabá, as dez ofensas contra Yosef · 07:27 Yevamot 121a · 08:20 Devarim 8:15 · 09:10 Shabat 22a · 09:18 Zohar, Vayeshev 181 · 10:04 Daniel 6 · 11:01 Bamidbar 25:1 · 11:54 Bereshit 37:14 · 12:53 Midrash dos Dez Mártires do Reino (Eleh Ezkerah) · 13:40 Bereshit 45:5 · 13:48 Berachot 61b e Menachot 29b · 13:55 Avodá Zará 18a · 14:10 Chulin 142a e Kidushin 39b · 14:40 Arizal (Rabi Yitschak Luria), Shaar HaGilgulim · 15:12 Pesachim 49b · 16:42 Eruvin 21b · 17:08 Bechorot 58a · 18:12 Bava Kama 50a · 18:36 Bereshit 50:15 · 21:43 Bereshit 50:16-17 · 22:28 Bereshit 50:19-21 · 24:50 Bereshit 37:2 · 25:09 Pesachim 50a · 26:12 Mishlei 9:8 · 27:17 Gitin 58a · 27:23 Semachot 8 e Midrash Eleh Ezkerah · 28:56 Maase Merkavot / Responsa de Rav Pealim, parte 1, 11 · 31:14 Berachot 10a · 31:26 Avodá Zará 10a · 32:42 Din rodef (Sanhedrin 73a) · 33:03 Bereshit Rabá / Rashi em Bereshit 46:28 · 33:30 Avodá Zará 3b · 33:53 Bereshit 49:1 · 34:12 Bereshit 37:25 · 34:27 Relato do Gaon de Vilna sobre o delator (moser) · 36:15 Sidur, Birkat HaMinim (Amidá) · 38:12 Shabat 149b · 39:11 Sidur, Hareni Mochel antes do Shemá · 40:32 Eruvin 13b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|03:57|שמא עיניך נתת באדוני הארץ?
+69|04:00|חשד אותו משכב זכור?
+70|04:02|וואלה ריבי!
+71|04:03|זה מה שאתה חושד את אח שלך הקטן?
+72|04:05|מכל העוונות שבעולם?
+73|04:07|שמא עיניך נתת בו?
+74|04:09|טאח!
+75|04:10|נתן לו איזה אחד.
+76|04:11|אבל מה, בנימין, מה אתה רוצה ממנו?
+77|04:12|הוא אבא!
+78|04:13|עם עשר!
+79|04:14|איזה משכב?
+
+LINHAS A TRADUZIR:
+80|04:15|מה אתה רוצה ממנו?
+81|04:16|זה לא תגיד איזה אחד רווק, פרפר, במיאמי.
+82|04:21|לא, זה נשוא עם ילדים, מה אתה אומר, משה?
+83|04:25|יש גם נשואים עם ילדים, השם ירחם.
+84|04:27|כל אתה יודע, בעין הרע.
+85|04:29|בן פורת יוסף.
+86|04:31|אני לא יודע כלום.
+87|04:32|אה, אתה לא יודע כלום, אה, דוקטורט.
+88|04:34|תמים, תמים.
+89|04:36|אז זה, תמים, זה תמים.
+90|04:38|על כל מקום, נתן לו סתירה.
+91|04:41|ויקראו סמלותם, ויעמוסי של מחתור חמורו, וישעו העירה, ויבוא יהודה אחיו ביתה יוסף, והוא עודו
+92|04:47|שם.
+93|04:47|ויפלו לפניו ארצה.
+94|04:49|בבקשה, עוד הפעם, שתחוו לו.
+95|04:52|ויאמר להם יוסף, מי המעשה הזה אשר
+96|04:57|עשיתם?
+97|04:58|מה?
+98|04:59|אה, לא ידעתם כי נחש ינחש איש אשר כמוני.
+99|05:04|אני מסברה יודע שאתם גנבתם.
+100|05:05|מי יגנוב?
+101|05:06|עם מי אני אכלתי?
+102|05:07|את מי אני נכנסתי לבית אוצרותיי?
+103|05:09|רק אתכם.
+104|05:11|ויאמר יהודה, מה נאמר לאדוני ומה נדבר ומה נצדק?
+105|05:14|האלוהים מצא את עוון עבדיך.
+106|05:17|אנחנו יודעים שאנחנו לא גנבים, רק הוא ידע שיש לנו איזה עוון.
+107|05:22|אז מצא בעל חוב מקום לגבות את חובו.
+108|05:26|לא מגיע לנו, לא גנבנו.
+109|05:28|אנחנו יודעים שלא גנבנו.
+110|05:29|מישהו השתיל את זה בתוך ההמתחה של בנימין.
+111|05:32|אבל האלוהים מצא את עוון עבדיך.
+112|05:35|היה לנו איזה עוון אחר לגמרי עם אח שלנו, אבל אשמים אנחנו.
+113|05:41|ראינו בצרת נפשו ולא הקשבנו לו.
+114|05:45|אז הוא מצא את עוון עבדיך ובא, התלבש על המצב הזה.
+115|05:51|אתה חושב שהם אז היו רחמנים אליו?
+116|05:54|עשרה עבירות הם עברו ליוסף הצדיק.
+117|05:57|אחד, שיסו בו את הכלבים כדי שיהרגו אותו.
+118|06:01|כך כותב המדרש רבה, בראשית רבה, היה להם רוטוויילרים,
+119|06:08|מה שהבנת?
