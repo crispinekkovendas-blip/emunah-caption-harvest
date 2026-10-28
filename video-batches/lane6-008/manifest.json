@@ -1,0 +1,65 @@
+{
+ "name": "lane6-008",
+ "lane": 6,
+ "created": "2026-10-28T14:14:11.981Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "CbVsaY3vqwc",
+   "title": "Talmud Eser HaSefirot: o paradoxo do Tzimtzum e o Criador",
+   "lines": 853,
+   "parts": 8,
+   "from": "recente"
+  },
+  {
+   "id": "SZy_WAV4skM",
+   "title": "Tikunei HaZohar: a carruagem de Yechezkel e os anjos",
+   "lines": 438,
+   "parts": 4,
+   "from": "recente"
+  },
+  {
+   "id": "4pJazA4vJIA",
+   "title": "Tanduu: Hoshana Rabá, Baal HaSulam e a voz da maioria",
+   "lines": 1135,
+   "parts": 10,
+   "from": "recente"
+  },
+  {
+   "id": "RmRntk2t-Pk",
+   "title": "Os Akudim: luz, reshimu e a formação dos Kelim",
+   "lines": 599,
+   "parts": 5,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "CbVsaY3vqwc.p0",
+  "CbVsaY3vqwc.p1",
+  "CbVsaY3vqwc.p2",
+  "CbVsaY3vqwc.p3",
+  "CbVsaY3vqwc.p4",
+  "CbVsaY3vqwc.p5",
+  "CbVsaY3vqwc.p6",
+  "CbVsaY3vqwc.p7",
+  "SZy_WAV4skM.p0",
+  "SZy_WAV4skM.p1",
+  "SZy_WAV4skM.p2",
+  "SZy_WAV4skM.p3",
+  "4pJazA4vJIA.p0",
+  "4pJazA4vJIA.p1",
+  "4pJazA4vJIA.p2",
+  "4pJazA4vJIA.p3",
+  "4pJazA4vJIA.p4",
+  "4pJazA4vJIA.p5",
+  "4pJazA4vJIA.p6",
+  "4pJazA4vJIA.p7",
+  "4pJazA4vJIA.p8",
+  "4pJazA4vJIA.p9",
+  "RmRntk2t-Pk.p0",
+  "RmRntk2t-Pk.p1",
+  "RmRntk2t-Pk.p2",
+  "RmRntk2t-Pk.p3",
+  "RmRntk2t-Pk.p4"
+ ]
+}
