@@ -1,0 +1,64 @@
+videoId: eOpb1IF2d6I
+parte 27 de 30 · traduzir as linhas 1040 a 1079 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vaiechi: não apressar o tempo e a felicidade da simplicidade
+RESUMO: O rabino parte de Bereshit 49:1, quando Yaakov chama os filhos para revelar o fim dos dias, mas muda de assunto e passa a repreendê-los. Com o Rabi Natan (Likutei Halachot, Guezelá) e o Midrash, explica que a Shechiná se afastou, que os filhos responderam com o Shemá Israel, e que Yaakov entendeu que não se deve apressar o fim (Gemará: quem apressa o tempo, o tempo o empurra). Mostra que toda transgressão nasce de apressar o tempo, seja na vontade (Adam HaRishon e a árvore do conhecimento, Kohelet 3:1), seja no entendimento (a história do Sábio e do Simples de Rabi Nachman, Avraham em Bereshit 15:8) ou no dinheiro e na inveja, com Iyov e Tehilim 19:10 como exemplos. Ensina que o oposto é alegrar-se com a própria parte e esperar, e que isso é a simplicidade (tamim) de Yaakov, citando Nedarim 32, Devarim 18:13 e Rashi. Termina com a imagem dos filhos que recebem tudo e nada valorizam, e a esperança na redenção final.
+MOMENTOS: 00:30 Yaakov chama os filhos e muda de assunto · 02:05 Rabi Natan: a Shechiná se afastou de Yaakov · 03:16 Os filhos respondem com o Shemá Israel · 04:56 Quem apressa o tempo, o tempo o empurra · 06:26 A repreensão a Reuven: pressa e impetuosidade · 08:44 Exemplos: conversar com alguém e consertar objetos · 11:58 Pressa ao mudar o caráter e a raiva · 22:46 Nathan HaMeir e Rabi Akiva · 24:46 Adam HaRishon não esperou a entrada do Shabat · 28:29 O Sábio e o Simples de Rabi Nachman · 35:20 Avraham perguntou como saberia que herdaria a terra · 38:00 Pressa por dinheiro, inveja e sustento · 53:42 Yaakov entendeu o poder da simplicidade · 57:04 Quem é simples, HaShem é simples com ele · 1:00:02 Filhos que recebem tudo não valorizam nada
+FONTES CITADAS: 00:30 Bereshit 49:1 · 01:05 Bereshit 49:2 · 01:37 Bereshit 49:3 · 02:05 Rabi Natan, Likutei Halachot, Hilchot Guezelá, Halachá 5 · 03:16 Shemá Israel, Devarim 6:4 · 03:32 Midrash sobre Bereshit 49 (Pesachim 56a) · 04:13 Livei lefumi lo guali · 04:56 Eruvin 13b · 06:26 Bereshit 49:4 · 06:52 Shabat 55b · 07:26 Kohelet 3:1 · 17:00 Rabi Natan, Likutei Halachot, Hilchot Guezelá, Halachá 5 · 19:02 Kohelet 3:1 · 19:45 Mishlei 7:26 · 20:07 Sotá 22a · 21:48 Sucá 52b · 22:36 Kidushin 4:14 (Yerushalmi) · 22:46 Kidushin 81b · 24:46 Adam HaRishon não esperou o Shabat · 25:00 Bereshit 3:5 · 25:07 Midrash sobre Adam HaRishon · 25:16 Mishlei 14:17 · 26:03 Rabi Natan, Likutei Halachot · 29:13 História do Sábio e do Simples, Rabi Nachman de Breslev · 32:24 Kohelet 5:1 · 35:20 Bereshit 15:8 · 37:53 Rabi Natan, Likutei Halachot, Hilchot Gezelá · 38:43 Likutei Moharan II, Torá 2 · 40:55 Likutei Moharan II, Torá 7 · 46:05 Rabi Natan, Likutei Halachot · 48:26 Iyov 38:4 · 49:50 Tehilim 19:10 · 50:50 Tehilim 145:17 · 51:40 Kohelet Rabá 1:13 · 54:17 Nedarim 32a · 54:31 Bereshit 25:27 · 57:04 Avodá Zará 19a · 57:12 Tehilim 18:26 · 58:06 Rashi em Devarim 18:13 · 58:41 Avot 4:3
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+1028|55:04|מעניין. יש לו רק לחם, אין לו אוכל בבית.
+1029|55:08|הוא כל פעם אומר לאשתו, א, תביא לי את
+1030|55:11|הרוטב, תביא לי את הפשטידה, תביא לי את
+1031|55:13|הבורקס, תביא לי את הבשר עם התוספות, תביא
+1032|55:15|לי את היין. היא כל פעם מביאה לו חתיכת
+1033|55:18|לחם כי אין להם יותר מזה שום דבר.
+1034|55:21|אז והוא מאוד שמח, רבנו כותב שהוא היה
+1035|55:24|מאוד שמח עם הלחם והוא היה עושה ממש סיפור
+1036|55:27|שלם. איזה איזה מעדנים את מגישה לאשתי.
+1037|55:30|איזה בשר, איך יצא לך משובח הבשר, איזה
+1038|55:33|יין טוב, איזה והכל על הלחם. אז לכאורה יש
+1039|55:38|פה איזשהי קושיה.
+
+LINHAS A TRADUZIR:
+1040|55:40|אם העניין של התמימות זה להיות שמח בחלקו,
+1041|55:43|היה צריך להגיד, אשתי יש לנו לחם, ישתבח
+1042|55:46|שמו, הכל טוב, לא צריך יותר. נכון? הוא
+1043|55:48|היה אומר מה שיש, תודה רבה. אבל הוא לא
+1044|55:51|אומר מה שיש תודה רבה. הוא אומר, "תביא לי
+1045|55:53|בשר." נותנת לו לחם, משחק אותה כאילו זה
+1046|55:56|בשר. יש פה מסר כפול. הוא שואף הוא שואף
+1047|56:00|להתקדם.
+1048|56:02|הוא רוצה בשר, הוא רוצה יין, הוא רוצה
+1049|56:04|רוצה להגיע ליותר ממה שיש לו. מצד שני,
+1050|56:07|כשהוא מקבל את הלחם הוא שמח בזה כאילו הוא
+1051|56:09|קיבל את כל מה שיש לו. אז זה חוזר למה
+1052|56:12|שדיברנו קודם. תשמח במה שיש ותצפה לי
+1053|56:16|ישועה. אתה יכול להתקדם, אבל לא שהלב שלך
+1054|56:18|יהיה רק שאני אשיג את מה שאני רוצה, אז
+1055|56:21|אני אגיד, אז אני אהיה לי טוב. עכשיו רע
+1056|56:23|לי. כשאני אגיע למטרה שרציתי, אז יהיה לי
+1057|56:26|טוב. אז אז זה אומר רבנו אומר רבי נתן זה
+1058|56:29|מתכון שאף פעם לא יהיה לך טוב
+1059|56:32|עכשיו רע לי כשאני אשיג את המטרות שלי
+1060|56:34|יהיה לי טוב לי כשאני אתחתן יהיה לי טוב כשיה לי ילדים יהיה לי טוב כשאני אהיה
+1061|56:38|בריא יהיה לי טוב כשאניהיה מסודר עם
+1062|56:39|הפרנסה יהיה לי טוב שאני אגמור את הוילה
+1063|56:41|יהיה לי טוב וכולי וכולי וכולי ועכשיו רע
+1064|56:44|לי תמיד יהיה לך רע רבי נתן אומר אני יכול
+1065|56:46|להתחייב לך תמיד יהיה לך רע כי תמיד יהיה
+1066|56:48|משהו שחסר לך ואם אתה אומר עכשיו טוב לי
+1067|56:51|ואני רואה מה שהשם נתן לי וזה לא מובן
+1068|56:53|מאליו אני מודה לו זה תמימות ואתה בגלל זה
+1069|56:57|תקבל גם עוד כי אתה תוכל להחזיק גם את
+1070|56:59|העוד. אם טוב לך עכשיו יהיה לך טוב גם אחר
+1071|57:01|כך. אם רע לך עכשיו יהיה לך רע גם אחר כך.
+1072|57:04|וזה אומרת הגמרא אמר רבי יצחק, כל המתמים
+1073|57:07|את עצמו הקדוש ברוך הוא מתמם עמו.
+1074|57:12|שנאמר, אם חסיד תתחסד,
+1075|57:15|אם כבר תמים תמם. אתה תהיה תמים עם הקדוש
+1076|57:18|ברוך הוא, הקדוש ברוך הוא יהיה תמים איתך.
+1077|57:22|מה הכוונה?
+1078|57:24|כל המתמים את עצמו
+1079|57:27|שעה עומדת לו. זה מה שאמרנו. נדחם מפני

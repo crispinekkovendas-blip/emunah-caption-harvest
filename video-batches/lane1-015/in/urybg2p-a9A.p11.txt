@@ -1,0 +1,64 @@
+videoId: urybg2p-a9A
+parte 12 de 15 · traduzir as linhas 440 a 479 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A maldade de Sodoma e o mérito de Lot e suas filhas
+RESUMO: O rabino mostra que o mal de Sodoma estava em disfarçar a crueldade de bondade e de vontade de HaShem: citando Bava Batra 10a (Turnus Rufus e Rabi Akiva), eles diziam que não deviam ajudar quem HaShem quis pobre. Explica "Ered na veEre'e" (Bereshit 18:21) e o Midrash Bereshit Rabá 49, segundo o qual HaShem castigou Sodoma por etapas, com terremotos e tempestades, antes de destruí-la. Em seguida, conta a história da mulher de Lot, com Rashi sobre o sal (Bereshit 19:26): ela quis ser estátua de sal para que Davi não viesse dela, mas ele viria das filhas. Relata o sonho em que as filhas de Lot aparecem, segundo o Rav Moshe Feinstein, e explica que HaShem embriagou Lot para que sua intenção impura não atrapalhasse as intenções santas delas, com paralelos em Ezequias, Menashe e Lemech. Por fim, apresenta a Mishná de Avot 5:10 ("meu é meu e teu é teu" é o critério de Sodoma) e a regra de obrigar a quem age assim quando um tem proveito e o outro nada perde (Rambam, Shechenim 7:8). Termina com o Sefer HaChaim, que compara Sodoma ao mel e à abelha e ensina a ser como o sal: dar mesmo vindo de terra ruim.
+MOMENTOS: 00:48 Sodoma fazia o mal em nome de HaShem · 02:05 Turnus Rufus e Rabi Akiva: argumento contra a tzedaká · 03:38 "Ered na veEre'e": HaShem desce a Sodoma · 05:59 Bereshit Rabá: tremores e tempestades como aviso · 09:15 A mulher de Lot e o sal · 11:17 A exigência dos sodomitas e a ideia de existência própria · 13:50 O Rav Yechezkel Abramsky e a viagem a Tel Aviv · 15:51 Lot oferece as filhas para impedir Davi · 17:24 A mulher de Lot olha para trás · 20:25 História de Rav Moshe Feinstein e as filhas de Lot · 23:34 Por que HaShem embriagou Lot; Ezequias e Menashe · 27:29 Lemech, Ada, Tzila e Naamá · 29:23 Avot 5:10 e o carona em Ramot · 31:58 Obrigar a quem age como Sodoma; o Sefer HaChaim: mel e sal
+FONTES CITADAS: 01:58 Bava Batra 10a · 03:38 Bereshit 18:21 · 05:59 Bereshit Rabá 49 · 09:27 Rashi em Bereshit 19:26 · 10:32 Midrash sobre a mulher de Lot e o sal · 13:06 Bereshit 19:13 · 13:24 Midrash sobre os anjos · 15:57 Midrash sobre Davi em Sodoma · 15:57 Tehilim 89:21 · 17:24 Bereshit 19:26 · 17:30 Rashi em Bereshit 19:26 · 20:44 Rav Moshe Feinstein, Igrot Moshe, introdução ao volume 8 · 24:14 Sanhedrin 94b · 24:41 Yevamot 49b · 27:09 Divrei Yatziv, Even HaEzer · 27:29 Bereshit 4:19-22 · 28:49 Bereshit 19:11 · 28:55 Yeshuot Malko · 29:29 Avot 5:10 · 29:46 Rashi em Avot 5:10 · 31:04 Pnei Yehoshua / Tosafot Bava Batra · 31:17 Bava Kama 20a · 32:07 Rambam, Hilchot Shechenim 7:8 · 32:28 Sefer HaChaim (Rabi Chaim ben Betzalel), Parnassá veKalkalá cap. 4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+428|25:54|גלגל ללוט שמא יהיה לו יין, ואז הראש שלו לא נמצא, הראש שלו מסובב.
+429|25:59|עכשיו המחשבות הקדושות של בנות לוט המשיכו את מי?
+430|26:03|את הזרע הקודש, את משיח צדקנו.
+431|26:06|אותו דבר, כתוב...
+432|26:16|אתה אומר עצם זה, נכון, גם, נכון.
+433|26:20|הסיבה העיקרית, למה?
+434|26:22|כדי להביא את משהיר צדקנו.
+435|26:25|אותו דבר מצאנו לגבי למך.
+436|26:29|למך, הבת שלו הייתה, איך קראו לחמיו של נוח?
+437|26:36|יש נידון בפוסקים, האם ספר חסידים, הספר חסידים כותב שאסור
+438|26:41|שיהיה כלה עם שם חמותה.
+439|26:45|שלא יהיה חתן עם שם חמיו.
+
+LINHAS A TRADUZIR:
+440|26:48|יש נדון בפוסקים, מה קורה כששני המחותנים באותו שם?
+441|26:53|האם זה אסור או מותר?
+442|26:59|נגיד המחותן, קוראים לו אהרון, האבא של החתן, האם גם האבא של הקהל קוראים לו אהרון?
+443|27:04|זו סיבה לבטל את השידוך או לא?
+444|27:05|זה לא סיבה לבטל את השידוך.
+445|27:07|האם דיברו על זה או לא?
+446|27:09|אז שוט דברי יציב, שוט דברי יציב באבן העזר, שם יש לו תשובה על זה, הוא כותב להקל.
+447|27:15|שאפשר לסמוך על זה, ואין לפסול מהמחותנים.
+448|27:19|הוא מביא לזה כמה וכמה ראיות מהגמרא, שראו שהמחותנים, היה להם את אותו שם.
+449|27:24|יש גמרא בחודף מ"ד, לא ניכנס לזה עכשיו.
+450|27:26|אחד הראיות הם נוח.
+451|27:29|איך קראו לאבא של נוח?
+452|27:33|למך.
+453|27:34|איך קראו לאשתו של נוח?
+454|27:37|נעמה.
+455|27:37|ואיך קראו לאבא של נעמה?
+456|27:43|למך, יפה.
+457|27:45|אחות תובל קין נעמה, אבא שלה זה היה נמך.
+458|27:48|כשאבא שלה לקח את אמא שלה, הוא לקח שתי נשים, עדה וצילה.
+459|27:54|עדה נועדה בשביל מה?
+460|27:56|בשביל להביא ילדים.
+461|27:57|צילה זה לא בשביל להביא לילדים, זה לשבת בצל בלי שום כוונות של ילדים, רק לשחק יחד.
+462|28:04|בסוף נעמה, מאיפה נולדה?
+463|28:07|מצילה, מהשנייה, ממנה התקיים העולם.
+464|28:09|דווקא מאישה שלא התכוון להביא ממנה ילדים, דווקא ממנה נולדה לאמה.
+465|28:15|למה?
+466|28:16|כי הקדוש ברוך הוא, בשביל בנים צדיקים צריך שההורים יהיו להם כוונות טובות.
+467|28:20|אם הוא היה מביא מהדה שהכוונה שלה להביא ילדים, אז זה כוונות היה לו.
+468|28:27|שם היה לו כוונות של פריאה ורבייה, כוונות של טומאה, אז זה ישפיע לרעה על הילדים שנוצרו מהם,
+469|28:33|מפריאה ורבייה לרעה.
+470|28:35|אז מה עשה הקדוש ברוך הוא?
+471|28:36|הביא את נעמה מאיפה?
+472|28:38|מצילה, ששם לא היו לו כוונות להביא ילדים, לא היו לו כוונות בכלל.
+473|28:42|אז שמה משמה אפשר להביא את נעמה, שממנה התקיים העולם, כולנו צאצאים של
+474|28:48|נעמה.
+475|28:49|אומר הפסוק שאנשי סדום והילו למצוא הפתח.
+476|28:55|מה זה והילו למצוא הפתח?
+477|28:58|אומר בספר ישועות מלכו לגאון מקותנה, מה זה והילו?
+478|29:01|הם ראו את הפתח עשר פעמים.
+479|29:04|העיניים שלהם, בדמיון שלהם, הם ראו את הפתח עשר פעמים.

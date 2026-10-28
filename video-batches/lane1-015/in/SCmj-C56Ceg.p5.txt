@@ -1,0 +1,64 @@
+videoId: SCmj-C56Ceg
+parte 6 de 14 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Rambam Shechitá 1:14 – a faca e o tamanho da falha
+RESUMO: O rabino estuda o Rambam, Hilchot Shechitá, capítulo 1, halachá 14: pode-se abater com qualquer instrumento cortante, de metal, pedra, vidro ou cana, desde que o fio seja liso e sem falha, e até uma falha minúscula, como um sulco, invalida a shechitá. Ele parte da Mishná em Chulin 15b (o que não vale são a foice, a serra, os dentes e a unha, que estrangulam) e da Gemará em Chulin 17b, e menciona o Avach, o Pri Chadash, o Rama e o Shulchan Arukh sobre a preferência pela faca de metal e o caso do vidro. Explica os métodos de verificação dos Sábios (sol, água, língua, cabelo, carne do dedo) e a regra de Rav Chisda de que o limite é "chaguirat HaTziporen". Apresenta as posições do Ramban e do Rashba (qualquer falha invalida), do Rama e do Rosh (chaguirá como sensação), e a dificuldade no Rambam, que em Hilchot Beit HaBechirá fala de chaguirat HaTziporen no altar. Mostra as soluções do Pri Chadash, do Tevuot Shor, do Beit Yaakov e do Rashash. Conclui com a halachá no Shulchan Arukh, Yoreh Deá 18:2 (qualquer falha que prenda mesmo um fio de cabelo) e a prática de verificar com a carne do dedo e a unha pelos três lados.
+MOMENTOS: 00:18 Texto do Rambam: com o que se abate · 01:07 Mishná em Chulin 15b: tudo serve, exceto o que estrangula · 03:04 Faca de metal em primeiro lugar: Avach e Pri Chadash · 04:39 Vidro no Shulchan Arukh e a correção do Rama · 06:33 A falha como sulco e por que invalida · 08:56 Gemará em Chulin 17b: o limite de chaguirat HaTziporen · 09:53 Como os Sábios verificavam a faca · 14:55 Ramban e Rashba: qualquer falha invalida · 18:25 Rama: chaguirá como sensação · 26:27 A dificuldade no Rambam e o altar · 32:49 Rashash: shechitá de kodashim e de chulin · 37:42 Maharshal e a halachá no Shulchan Arukh · 40:41 Prática: o sensível a falhas no matadouro
+FONTES CITADAS: 00:18 Rambam, Hilchot Shechitá 1:14 · 01:13 Mishná, Chulin 15b · 02:38 Braita (Chulin) · 03:08 Avach, Yoreh Deá 6:1 · 03:25 Pri Chadash e Pri To'ar · 03:37 Keret u'Plet, Rabi Natan Eibeschütz · 04:46 Shulchan Arukh, Yoreh Deá 6:1 · 04:54 Rama, Yoreh Deá 6:1 · 05:39 Shach e Taz, Yoreh Deá 6 · 06:33 Rambam, Hilchot Shechitá 1:14 · 08:56 Chulin 17b · 09:53 Chulin 17b · 14:55 Ramban e Rashba sobre Chulin 17b · 18:25 Rama (Rabenu Aharon HaLevi), Bedek HaBayit · 19:54 Shmuel II 22:46 · 24:37 Gaon de Vilna e Rashba sobre o Rama · 25:25 Rosh · 25:45 Tur e Maggid Mishné · 26:03 Drisha · 27:09 Rambam, Hilchot Beit HaBechirá 1:14 · 28:20 Pri Chadash, Yoreh Deá 18:5 · 29:26 Tevuot Shor · 29:32 Rambam, Hilchot Bi'at Mikdash 7:2-3 · 30:44 Tevuot Shor e Beit Yaakov · 32:09 Tevuot Shor · 32:38 Keret u'Plet · 32:49 Rashash, Chulin 17b · 37:42 Maharshal, Yam shel Shlomo · 38:32 Shulchan Arukh, Yoreh Deá 18:2 · 39:19 Shulchan Arukh, Yoreh Deá 18:2 · 40:31 Pri To'ar
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|15:10|הרמב"ן והרשב"א תרצו ששיטתם של אותם חכמים חלוקה לשיטה המובאת בגמרא, ששיעור הפגימה
+189|15:16|הוא כדי חגירת הציפורן, וסברו שאף פגימה קטנה מזו פוסלת את הסכין.
+190|15:22|כי כדי חגירת הציפורן, שוב אני חוזר ואני אומר, כדי חגירת הציפורן, זה באופן שאני
+191|15:28|מעביר, צריך לגדל קצת ציפורן באצבע, ואז מעבירים את
+192|15:36|האצבע ככה, בצורה ישרה.
+193|15:38|צריך בצורה ישרה להעביר את האצבע על אחות של הסכין.
+194|15:45|בצורה כזאת, הולכה והובה.
+195|15:49|זה צריך להיות משני צדדים.
+196|15:52|גם מהצד הזה וגם מהצד השני.
+197|15:55|והם מעבירים את הציפורם בצורה כזאת.
+198|15:59|ולכתחילה צריך לבדוק ביבש.
+199|16:03|אבל יש כאלה שמקילים, שאם היד הרטובה ועל רטוב, זה גם אפשרי.
+
+LINHAS A TRADUZIR:
+200|16:07|אבל לכתחילה צריך לבדוק ביבש.
+201|16:10|בהמות תמיד בודקים על יבש.
+202|16:12|עופות, מכיוון שהשחיטה שלהם הרבה יותר מהירה, אז אם כל פעם יצטרכו ליבש בשביל לבדוק,
+203|16:18|זה לוקח להם זמן, לכן הם סומכים על בדיקה גם ברטוב.
+204|16:23|אבל בסוף השחיטה, תמיד לוקחים ובודקים את הסכין, ואם
+205|16:29|נמצא חלילה פגם, פוסלים את כל העופות שנשחטו בלין האחרון.
+206|16:34|ככה צריך.
+207|16:37|עכשיו, מה אתה שואל, רבי דאוויל, מה צריך
+208|16:42|להרגיש?
+209|16:43|ברגע שאתה מגדל קצת ציפורן, אתה מרגיש, אם הציפורן
+210|16:49|נתקעת, נתקעת, או שהכל הולך חלק
+211|16:54|לגמרי.
+212|16:55|הנה, אני אפילו בדף הזה, בדף הזה, מרגיש שזה לא הולך חלק.
+213|17:01|אבל אם אני אתן לכם, אני אראה לכם סכין, כן של שחיטה, ותראו,
+214|17:08|הולך חלק.
+215|17:09|אם הסכין היא כמו שצריך.
+216|17:11|עושים הולכה והובאה.
+217|17:14|והם משני צדדים, כמו שאמרתי.
+218|17:16|לכתחילה שש פעמים צריך להעביר את הציפון.
+219|17:20|בשביל להרגיש.
+220|17:22|בכל מקרה רבנו הרמב"ן והרשב"א כותבים שיש מחמירים שגם בפגם יותר קטן
+221|17:28|מזה כי כדי חגירת הציפורן הכוונה שהציפורן נתקעת
+222|17:35|אז הם אומרים שאפילו פגם יותר קטן מזה שאפילו אם הציפורן לא נתקעת אם אתה מרגיש את הפגימה
+223|17:42|זה כבר יהיה אסור ולכן יש מחכמי הגמרא שבדקו באופנים אחרים
+224|17:52|עכשיו, ככה הם בעצם מתרצים את שיטת הריב שהוא הביא את מנהגם של אותם חכמי
+225|17:58|הגמרא והשמיט את השיעור של חגירת הציפורן.
+226|18:02|למה?
+227|18:03|הם כותבים שהריב סבר שאף פגימה פחותה מחגירת הציפורן
+228|18:10|פוסלת את הסכין.
+229|18:12|וכך מסיק הלכה למעשה הרשב"א להלכה
+230|18:18|שכל פגימה פוסלת את הסכין אף שהיא קטנה מחגירת ציפורן.
+231|18:25|לעומת זאת, דעת הרטבע הבערן, הם אומרים שבאמת
+232|18:33|חגירת הציפורן זה בעצם שיעור הפגם שאוסר,
+233|18:40|וכל המנהגם של חכמי הגמרא לבדוק את הסכין בשמש, במים או בשאר מיני בדיקות
+234|18:46|כמו שלמדנו, לא הייתה מעיקר הדין אלא חומראי שהנהיגו בעצמם.
+235|18:53|אך להלכה הכל מודים שאין הבגימה פוסלת את הסכין אלא בחגירת הציפורן.
+236|18:58|כך דעת הרמב״ם, הרטבע וההן.
+237|19:04|הראה רבנו אהרון הלוי בבדק הבית הוא
+238|19:10|כותב שחכמי הגמרא בדקו באור השמש במים כדי
+239|19:15|לברור לעצמם סכין יפה אכן זה מעיקר הדין משום ששיעור הפגימה הפושל את

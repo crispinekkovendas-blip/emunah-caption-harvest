@@ -1,0 +1,64 @@
+videoId: eOpb1IF2d6I
+parte 2 de 30 · traduzir as linhas 40 a 79 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vaiechi: não apressar o tempo e a felicidade da simplicidade
+RESUMO: O rabino parte de Bereshit 49:1, quando Yaakov chama os filhos para revelar o fim dos dias, mas muda de assunto e passa a repreendê-los. Com o Rabi Natan (Likutei Halachot, Guezelá) e o Midrash, explica que a Shechiná se afastou, que os filhos responderam com o Shemá Israel, e que Yaakov entendeu que não se deve apressar o fim (Gemará: quem apressa o tempo, o tempo o empurra). Mostra que toda transgressão nasce de apressar o tempo, seja na vontade (Adam HaRishon e a árvore do conhecimento, Kohelet 3:1), seja no entendimento (a história do Sábio e do Simples de Rabi Nachman, Avraham em Bereshit 15:8) ou no dinheiro e na inveja, com Iyov e Tehilim 19:10 como exemplos. Ensina que o oposto é alegrar-se com a própria parte e esperar, e que isso é a simplicidade (tamim) de Yaakov, citando Nedarim 32, Devarim 18:13 e Rashi. Termina com a imagem dos filhos que recebem tudo e nada valorizam, e a esperança na redenção final.
+MOMENTOS: 00:30 Yaakov chama os filhos e muda de assunto · 02:05 Rabi Natan: a Shechiná se afastou de Yaakov · 03:16 Os filhos respondem com o Shemá Israel · 04:56 Quem apressa o tempo, o tempo o empurra · 06:26 A repreensão a Reuven: pressa e impetuosidade · 08:44 Exemplos: conversar com alguém e consertar objetos · 11:58 Pressa ao mudar o caráter e a raiva · 22:46 Nathan HaMeir e Rabi Akiva · 24:46 Adam HaRishon não esperou a entrada do Shabat · 28:29 O Sábio e o Simples de Rabi Nachman · 35:20 Avraham perguntou como saberia que herdaria a terra · 38:00 Pressa por dinheiro, inveja e sustento · 53:42 Yaakov entendeu o poder da simplicidade · 57:04 Quem é simples, HaShem é simples com ele · 1:00:02 Filhos que recebem tudo não valorizam nada
+FONTES CITADAS: 00:30 Bereshit 49:1 · 01:05 Bereshit 49:2 · 01:37 Bereshit 49:3 · 02:05 Rabi Natan, Likutei Halachot, Hilchot Guezelá, Halachá 5 · 03:16 Shemá Israel, Devarim 6:4 · 03:32 Midrash sobre Bereshit 49 (Pesachim 56a) · 04:13 Livei lefumi lo guali · 04:56 Eruvin 13b · 06:26 Bereshit 49:4 · 06:52 Shabat 55b · 07:26 Kohelet 3:1 · 17:00 Rabi Natan, Likutei Halachot, Hilchot Guezelá, Halachá 5 · 19:02 Kohelet 3:1 · 19:45 Mishlei 7:26 · 20:07 Sotá 22a · 21:48 Sucá 52b · 22:36 Kidushin 4:14 (Yerushalmi) · 22:46 Kidushin 81b · 24:46 Adam HaRishon não esperou o Shabat · 25:00 Bereshit 3:5 · 25:07 Midrash sobre Adam HaRishon · 25:16 Mishlei 14:17 · 26:03 Rabi Natan, Likutei Halachot · 29:13 História do Sábio e do Simples, Rabi Nachman de Breslev · 32:24 Kohelet 5:1 · 35:20 Bereshit 15:8 · 37:53 Rabi Natan, Likutei Halachot, Hilchot Gezelá · 38:43 Likutei Moharan II, Torá 2 · 40:55 Likutei Moharan II, Torá 7 · 46:05 Rabi Natan, Likutei Halachot · 48:26 Iyov 38:4 · 49:50 Tehilim 19:10 · 50:50 Tehilim 145:17 · 51:40 Kohelet Rabá 1:13 · 54:17 Nedarim 32a · 54:31 Bereshit 25:27 · 57:04 Avodá Zará 19a · 57:12 Tehilim 18:26 · 58:06 Rashi em Devarim 18:13 · 58:41 Avot 4:3
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+28|01:37|ראובן בכורי אתה כוכי וראשית אוני יתר סת
+29|01:41|ויתר עוז פחז כביים על תותר שמעון ולוי
+30|01:46|יהודה מתחיל לברך את השבטים כל אחד בברכה
+31|01:49|שלו יש לו גם מה להגיד קצת תוכחה לכל אחד
+32|01:54|איפה הוא לא בכיוון הבטחת שתספר מה יהיה
+33|01:57|בגאולה מה איך עברת הנושא? מה קרה בעצם?
+34|01:59|נכון? זה רואים בעיניים שמשהו פה לא כל כך
+35|02:02|ברור בסיפור.
+36|02:05|אומר רבי נתן, הלכות גזלה הלכה ה אות י'.
+37|02:11|וזה בחינת ויקרא יעקב אל בניו ויאמר האספו
+38|02:15|ואגיד לכם את אשר יקרה אתכם באחרית הימים.
+39|02:18|אשר יקרא אתכם באחרית הימים.
+
+LINHAS A TRADUZIR:
+40|02:21|ואמרו רבותינו ז"ל שיעקב אבינו ביקש לגלות
+41|02:24|את הקץ
+42|02:27|ונסתלקה עמנו שכינה.
+43|02:29|המעבר הזה בין תקשיבו אני הולך לגלות לכם
+44|02:32|את זמן הגאולה ואת אופן הגאולה ותהליך
+45|02:34|הגאולה לבין פתאום מעבר נושא זה לא במקרה
+46|02:38|הוא התכוון לגלות את את הזמן של הגאולה
+47|02:41|כנראה שזה לא היה הזמן או שהייתה כאן
+48|02:44|איזשהי שגיעה ואז הסתלקה ממנו שכינה הרגיש
+49|02:47|שכבר לא פועל בו ולא מתגלה בו הכוח של
+50|02:51|הקדוש ברוך הוא אז הוא הבין שצריך לעבור
+51|02:53|נושא כנראה זה לא הזמן זה לא רצוי משהו פה
+52|02:56|לא מתאים לכן הוא עבר נושא
+53|02:59|הסתלקה ממנו שכינה, אמר, שמה יש ביניכם
+54|03:03|פסול,
+55|03:05|אולי אני עומד מול הבנים שלי שהם לא מספיק
+56|03:08|ראויים למעמד הזה. אולי מישהו פה זז
+57|03:12|מהדרך, אולי מישהו פה רק מעמיד פנים, אני
+58|03:14|לא כל כך סגור על זה. בוא נראה מה קורה
+59|03:16|איתכם. מיד פתחו ואמרו, שמע ישראל, השם
+60|03:21|אלוקינו, השם אחד. שמע ישראל. עכשיו דיברו
+61|03:23|אליו, אתה ישראל אבינו, תשמע, אנחנו כולנו
+62|03:27|באותה עמדה, כולנו מאמינים בשם, לא זזנו
+63|03:29|מקום אחר.
+64|03:32|כשם שאין בליבך אלא אחד, כך אין בליבנו
+65|03:35|אלא אחד. ואז התחיל לדבר דברים אחרים. עבר
+66|03:38|נושא בקינטר השווים ראובן ושמעון וכולי
+67|03:45|היינו כי יעקב טעה שבתחילה סבר שכבר הגיעת
+68|03:49|לגלות להם הקץ ונסתלקה ממנו שכינה על
+69|03:51|שביקש לגלות את הקץ שאז הבין מיד שאי אפשר
+70|03:56|לדחוק את השעה בשום דבר בפרט בעניין הקץ
+71|04:00|האחרון לשוב לארץ ישראל ושתהיה גאולה שלמה
+72|04:05|שאין אחרי הגלות שזה נעלם לם מכל הצדיקים
+73|04:09|הגדולים ואפילו הצדיקים הודעים בזה קצת
+74|04:13|אסור לגלות כי ליבי לפומי לא גלי חז"ל
+75|04:17|אומרים שהקדוש ברוך הוא בעצמו אפילו
+76|04:19|כביכול
+77|04:21|הלב לא מגלה לפה זה לא מגיע לפה כביכול גם
+78|04:25|של הקדוש ברוך הוא ואז הבין גודל הפגם של
+79|04:29|הדוחקת השעה אפילו צדיקים גדולים תראו

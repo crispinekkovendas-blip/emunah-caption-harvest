@@ -1,0 +1,64 @@
+videoId: p0ZV7rOZor4
+parte 14 de 27 · traduzir as linhas 520 a 559 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O anjo guardião de Mishpatim e o caminho
+RESUMO: O rabino Yinon Kalazan foca em Shemot 23:20-23, o anjo que HaShem envia diante de Israel para guardá-lo no caminho, e pergunta se é o mesmo anjo que aparece depois do pecado do bezerro, em Shemot 33. Ele mostra que esse anjo guardião já acompanhava Avraham (Bereshit 24:7 e a Akedá), Yaakov (Bereshit 48:16), o povo na saída do Egito (Shemot 14:19) e Daniel (Daniel 6), com Radak, Tehilim 34, Tehilim 91 e Malbim. Explica que os anjos são enviados que executam a palavra de HaShem (Tehilim 103 e 104). Depois contrasta com o anjo enviado após o bezerro (Shemot 32:34 e 33:2-3), que viria no lugar da Shechiná, e Moshe recusa (Shemot 33:12-15). Rashi em Yehoshua 5 e o Midrash Rabá e Tanchuma identificam o anjo com Mikhael, o príncipe de Israel, que voltou na época de Yehoshua. Por fim o Zohar (Vayechi e Mishpatim) liga o anjo à Shechiná que acompanha quem guarda a Torá, e daí a Tefilat HaDerech.
+MOMENTOS: 00:43 O tema: o anjo guardião · 00:55 Shemot 23:20: envio do anjo para guardar no caminho · 04:36 Após o bezerro: HaShem envia um anjo no lugar da Shechiná · 06:12 Eliezer e o anjo que prepara o caminho (Bereshit 24) · 08:30 A Akedá e o anjo que detém Avraham · 10:27 Yaakov: o anjo que me redime de todo mal · 17:13 O anjo na saída do Egito (Beshalach) · 22:08 Tehilim 91: porque Seus anjos te guardarão · 29:29 O anjo que fechou a boca dos leões (Daniel) · 35:12 O diálogo de Moshe e HaShem após o bezerro · 44:05 Yehoshua e o comandante do exército de HaShem · 49:02 O anjo é Mikhael, príncipe de Israel · 51:25 Midrash Rabá e Tanchuma sobre o anjo · 56:33 Zohar: o anjo é a Shechiná e a Tefilat HaDerech
+FONTES CITADAS: 00:55 Shemot 23:20 · 02:06 Shemot 23:21-23 · 04:36 Shemot 33:3 · 06:45 Bereshit 24:7 · 08:45 Bereshit 22:10-12 · 10:41 Bereshit 48:15-16 · 12:15 Radak em Bereshit 48:16 · 12:45 Tehilim 34:8 · 16:50 Shemot 14:19 · 19:16 Rashi em Tehilim 90:1 · 22:27 Tehilim 91:1-7 · 24:15 Tehilim 91:9-12 · 26:03 Malbim em Tehilim 90:1 · 28:23 Midrash sobre a saída do Egito · 28:50 Radak em Tehilim 34:8 · 31:50 Daniel 6:23 · 30:30 Yeshayahu 63:9 · 33:05 Tehilim 103:20-22 · 34:03 Tehilim 104:4 · 34:54 Pesukei DeZimra, Tehilim 148 · 36:19 Shemot 32:31-32 · 37:19 Shemot 32:33-34 · 38:22 Shemot 33:1-3 · 40:01 Shemot 33:12-13 · 41:34 Shemot 33:14 · 41:39 Rashi em Shemot 33:14 · 42:48 Shemot 33:15 · 44:08 Yehoshua 5:13-15 · 46:36 Rashi em Yehoshua 5:14 · 48:18 Rashi em Yehoshua 5:14 · 49:14 Daniel 10:21 · 49:56 Shemot 23:21 · 51:32 Midrash Rabá, Shemot · 52:23 Midrash Rabá, Rabi Levi · 54:00 Midrash Tanchuma, Mishpatim · 55:56 Shemot 13:21 · 56:50 Zohar, Bereshit, Vayechi · 58:38 Gemará sobre andar sozinho no caminho · 1:00:31 Zohar, Bereshit, Vayechi · 1:01:40 Bereshit 28:20 · 1:02:08 Bereshit 32:11 · 1:02:44 Zohar, Shemot, Mishpatim · 1:04:44 Tefilat HaDerech
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+508|31:14|שאמרנו אמרתי זה בפרק ו בדניאל. בואו נראה
+509|31:18|את המקור
+510|31:22|בפרק
+511|31:25|ו' הוא עדיין מהפרקים הכתובים בארמית
+512|31:27|בדניאל. אז כתוב פה כך עדיין דניאל אם
+513|31:31|מלכה מלל אז עדיין זה אז אז דניאל אם המלך
+514|31:36|דיבר המלך שזרק אותו ל או גזר שיזרקו אותו
+515|31:42|לגובה האריות מלכה לעל מנחי והוא אומר לו
+516|31:45|דניאל ככה מלך שיחיה לעולם אלא היא
+517|31:50|האלוהים שלי שלח מלאך שלח מלאך וסגר פום
+518|31:54|ארבתא וסגר את פי האריות או חסם את פי
+519|31:57|האריות ולא חייבוני והם לא פגעו בי כל כ
+
+LINHAS A TRADUZIR:
+520|32:03|דקדמוי זכו השתכחת לי מכיוון שלפני אלוקים
+521|32:09|היו זכויות שנמצאו לי ואף קדמך מלכה
+522|32:14|חיבולה לא עבדת
+523|32:18|ואף לפניך המלך
+524|32:21|פגיעה לא עשיתי
+525|32:24|כלומר אני לא חטאתי שבגלל זה מגיע לי
+526|32:27|שהעריות יתרפו אותי. מה כתוב כאן שוב? שיש
+527|32:32|מלאך ששומר את יראה השם באופן צמוד. וזה
+528|32:37|מה מה שהיה אצל דניאל.
+529|32:40|עכשיו, כמו שאמרנו,
+530|32:44|הקדוש ברוך הוא מנהל את העולם באמצעות
+531|32:46|אמצעים, באמצעות שליחים. מי הם השליחים של
+532|32:51|הקדוש ברוך הוא? יש לו כל מיני סוגים של
+533|32:53|שליחים. המלאך תמיד מוטא לטיב השליחות.
+534|32:59|אז בואו נראה פסוק שוב בתהילים במקום אחר
+535|33:03|תהילים קג
+536|33:05|ברכו השם מלאכיו
+537|33:08|גיבורי כוח עושה דברו
+538|33:12|זה תפקידם של המלאכים הם עושה דברו של השם
+539|33:16|ברכו השם הלכיו כאן בתהילים קג גיבורי כוח
+540|33:20|עושה דברו לשמוע בכל דברו ברכו השם כל
+541|33:23|צבאיו משרתיו עושה רצונו ברכו השם כל
+542|33:26|מעשיו בכל מקומות ממשלתו שזה כל העולם
+543|33:30|ברכי נפשי את השם זה פרק כק בתהינים מי הם
+544|33:35|המלאכים או מה הם המלאכים עושה דברו של
+545|33:38|השם אז הם מפעילים את כל המערכת את כל
+546|33:41|המקום ש
+547|33:44|את כל הבריאה שהקדוש ברוך הוא שולט בה בכל
+548|33:46|מקומות ממשלתו אבל האופן שבו הדברים נעשים
+549|33:49|זה באמצעות שליחים השליחים האלה הם מלאכים
+550|33:52|והמלאכים האלה הם כוחות שכמו שאמרתי
+551|33:55|מותאמים
+552|33:57|בהתאם לשליחות שאותה הם צריכים לבצע.
+553|34:01|במקום נוסף בתהילים אנחנו מוצאים את זה
+554|34:03|בפרק קד. ברכי נפשי את השם השם אלוהי גדלת
+555|34:08|מאוד הוד והדר לבשת עוטה אור כסלמה ותה
+556|34:11|שמיים כיריאה מקרה במים עליותיו ושם אבים
+557|34:14|רכובו המהלך על כנפי רוח וכאן יש התייחסות
+558|34:18|למלאכים עושה מלאכיו רוחות משרטיו אש לו.
+559|34:26|עושה מלאכו רוחות. המלאכים

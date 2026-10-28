@@ -1,0 +1,50 @@
+videoId: wjzKeAlQvb0
+parte 1 de 19 · traduzir as linhas 0 a 39 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayera, terça: o riso de Sarah, Yevamot e o Rambam
+RESUMO: A aula parte de Bereshit 18:11-15 e da pergunta sobre o Rashi "cessou de haver em Sarah o costume das mulheres", já que ela nem tinha ventre. O Midrash Rabá responde que "chadal", na língua da Torá, significa "nunca houve", como em "e se deixares de fazer voto" (Devarim 23:23). Depois vêm o Rashi sobre HaShem alterar as palavras de Sarah em favor da paz e a explicação do Ben Ish Chai de que Sarah não mentiu ao dizer "não". A aula traz também a história da cidade de Kushta, da Gemará, e o cálculo dos versículos cuja soma dá 440, a guematria de "met" (morte). Em seguida estudam-se a Haftará (Melachim II 4), Mishlei 3:34 a 4:3 com Rashi e a Mishná Yevamot, capítulo 4, com o Bartenura e a Gemará Yevamot 39b sobre a precedência entre yibum e chalitzá. A aula termina com o Zohar sobre estudar Torá e contemplar as obras de HaShem, o Shulchan Arukh sobre o juramento e o Rambam (Hilchot Tumat Tzara'at 16:10) sobre a conversa dos zombadores e a lashon hará.
+MOMENTOS: 00:00 Rashi: "cessou de haver em Sarah o costume das mulheres" · 00:54 Midrash Rabá: "chadal" significa que nunca houve · 03:09 Rashi: a Torá alterou as palavras de Sarah por causa da paz · 06:14 Sarah negou o riso? A explicação do Ben Ish Chai · 10:10 Kushta, os 440 versículos e a guematria de "met" · 12:10 Haftará: a shunamita e Elisha (Melachim II 4) · 13:48 Mishlei 3:34 a 4:3 com Rashi · 16:53 Mishná Yevamot cap. 4: yibum, chalitzá e meses de espera · 24:02 "E será o primogênito": o dever de yibum do irmão mais velho · 39:50 Gemará Yevamot 39b: yibum ou chalitzá primeiro? · 44:01 Zohar: estudar Torá e contemplar as obras de HaShem · 50:00 Rambam: a lashon hará, a tzara'at e a roda dos zombadores
+FONTES CITADAS: 00:00 Bereshit 18:11 · 00:18 Rashi em Bereshit 18:11 · 00:35 Bereshit 11:30 · 00:46 Yevamot 64b · 00:54 Bereshit Rabá 48:17 · 01:14 Devarim 23:23 · 01:18 Devarim 23:24 · 02:00 Bereshit 18:12 · 02:19 Rashi em Bereshit 18:12 · 02:52 Bereshit 18:13 · 03:14 Rashi em Bereshit 18:13 · 04:09 Ben Ish Chai · 04:50 Bereshit 18:14 · 04:50 Rashi em Bereshit 18:14 · 05:08 Bereshit 18:15 · 05:38 Rashi em Bereshit 18:15 · 06:48 Ben Ish Chai, Parashat Vayera · 10:10 Sanhedrin 97a · 12:01 Bereshit 18:15 · 12:10 Melachim II 4:11 · 12:40 Melachim II 4:12-13 · 13:15 Melachim II 4:14-15 · 13:48 Mishlei 3:34 · 14:06 Rashi em Mishlei 3:34 · 14:33 Mishlei 3:35 · 14:38 Rashi em Mishlei 3:35 · 14:59 Mishlei 4:1 · 15:06 Rashi em Mishlei 4:1 · 15:11 Mishlei 4:2 · 15:26 Mishlei 4:3 · 15:40 Rashi em Mishlei 4:3 · 16:12 Rashi em Mishlei 4:3 (outra explicação) · 16:30 Divrei HaYamim I 22:10 · 17:05 Mishná Yevamot 4:1 · 18:00 Mishná Yevamot 4:2 · 19:46 Mishná Yevamot 4:3 · 21:15 Mishná Yevamot 4:3 · 21:22 Bartenura em Yevamot 4:3 · 22:38 Mishná Yevamot 4:4 · 23:28 Bartenura em Yevamot 4:4 · 23:50 Mishná Yevamot 4:5 · 23:59 Devarim 25:6 · 24:21 Yevamot 24a · 24:47 Mishná Yevamot 4:6 · 25:30 Mishná Yevamot 4:7 · 26:07 Mishná Yevamot 4:7 · 26:17 Mishná Yevamot 4:7 · 27:13 Mishná Yevamot 4:7 · 28:49 Bartenura em Yevamot 4:7 · 29:29 Mishná Yevamot 4:8 · 29:59 Bartenura em Yevamot 4:8 · 30:22 Mishná Yevamot 4:9 · 32:22 Mishná Yevamot 4:10 · 33:22 Mishná Yevamot 4:10 · 34:15 Mishná Yevamot 4:10 · 34:32 Mishná Yevamot 4:11 · 35:41 Yevamot 39a · 36:32 Mishná Yevamot 4:12 · 37:44 Mishná Yevamot 4:12 · 37:58 Mishná Yevamot 4:13
+
+LINHAS A TRADUZIR:
+0|00:00|פרשת ויירו יום שלישי ואברהם וסרו זקנים
+1|00:06|בואים ביומים חודה לי יועיס לסרו אוי רך כאן
+2|00:12|נשים ואברהם ושרה סיבו עלו ביומין פסק
+3|00:18|מלמהווה לשרה אורך כנשיה רש"י
+4|00:25|חדל להיות פסק ממנה אורך כנשים אורך נידות יש
+5|00:31|כאן שאלה שצריכים לברר אותה.
+6|00:35|הרי חז"ל אומרים שכתוב בפרשה, בסוף פרשת נח כתוב,
+7|00:43|ושרה היא עקרה, אין לה ולד.
+8|00:46|וחז"ל אומרים שאפילו בית ולד לא היה לה.
+9|00:49|אז אם לא היה לה בית ולד, מה פירוש חדל להיות לשרה אורח כנשים?
+10|00:54|והתשובה לזה, את השאלה שואל המדרש, מדרש רבה.
+11|00:57|והמדרש אומר שחדל אצלנו, בעברית שלנו,
+12|01:04|חדל זה נקרא היה והפסיק.
+13|01:08|בעברית של התורה, חדל זה לא היה אף פעם.
+14|01:13|איפה רואים את זה?
+15|01:14|וכי תחדל לנדור לא יהיה בך חטא.
+16|01:18|מוצא שפתך תשמור ועשית, כאשר ציווך השם אלוקיך.
+17|01:23|אם נדרת תשמור, אבל וכי תחדל לנדור לא יהיה בך חטא.
+18|01:28|אם תגיד שתחדל הכוונה שהיה פעם והפסיק, אז למה לא יהיה בך חטא?
+19|01:33|אלא מוכרחים לומר שבכי תחדל הכוונה לא היה אף פעם.
+20|01:38|שמעולם לא נדרת, אז לא יהיה בך חטא.
+21|01:41|אותו הדבר פה חדל להיות לשרה אורח קנשים, חדל הכוונה מעולם לא
+22|01:47|היה.
+23|01:49|כי באמת צורא ימינו לא היה לה אפילו בית ולד.
+24|01:54|ממילא הנס שהשם עשה פה הוא נס כפול ומכופל.
+25|01:59|בת יצחק סורו בקרבו לאימו עיר, אחריו לא ישיא או ישא לי
+26|02:05|עדנו, ואדוני זוקן, וחייכת שרה
+27|02:10|במאה למימר, בת ארדס איבית הוות לי ולאימו
+28|02:15|וריבוני סיב.
+29|02:19|רש"י בקרבה מסתכלת במאה ואמרה אפשר רק רביים הללו טעונים
+30|02:25|ולד השדיים הללו שצמקו מושכים חלב החריב לא
+31|02:31|תהיה הייתה לי עדנה אומרה שהיא צחצוח בשר ולשון משנה זה
+32|02:37|מישיר את הבשר ומעדן את הבשר דבר אחר
+33|02:44|לשון עידן זמן וסת נידות אז היא אומרת, אני כבר זקנה, איך יכול
+34|02:50|פתאום עכשיו להיות?
+35|02:52|והיימר אדוני אל אברהם, לא מוזה צחקו סורו
+36|02:57|לאמויר, האף ומנום אילד, ואני זוקנתי.
+37|03:03|ואמר אדוני לאברהם, למד אינן חייכת שרה למימר,
+38|03:09|אבירם בקושתא הוליד ואנא שיבית.
+39|03:14|אומר רש"י, האף ומנם הגם אמת אלד ואני זקנתי

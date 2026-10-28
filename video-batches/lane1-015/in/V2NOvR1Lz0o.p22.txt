@@ -1,0 +1,64 @@
+videoId: V2NOvR1Lz0o
+parte 23 de 26 · traduzir as linhas 880 a 919 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Como realizar sonhos: a força de esperar (Chayei Sará)
+RESUMO: O rabino resume a Parashá Chayei Sará e foca na compra da Caverna de Machpela, a primeira herança de Avraham na Terra de Israel, citando Rabi Natan no Likutei Halachot e um Midrash sobre o desejo de Avraham e Sará de encontrar o lugar de repouso de Adam e Chavá. Avraham descobre a caverna ao correr atrás de um animal, mas, por estar em mãos das forças da impureza, espera mais de 25 anos, e depois 37 anos, e só age quando Sará falece, comprando o lugar sem chamar atenção, por preço cheio e não de graça. A partir daí ele explica que, desde o pecado de Adam, cada pessoa perdeu partes de si (lugar, amigos, mestres, ofício, alegria, par) e que a teshuvá de Rabi Nachman é voltar ao que é seu. Cita Rabi Nachman (Likutei Moharan) e Rabi Natan: o essencial da teshuvá é a espera, pois ela anula a acusação (kitrug) no tribunal celestial, prova que a pessoa quer de verdade e forma recipientes e humildade. Traz Tehilim, Chavakuk, o conto da Filha do Rei e Chazal sobre Adam e Bat Sheva. Termina com a promessa de Rabi Natan de que quem espera com alegria, sem pressionar, verá tudo se transformar para o bem.
+MOMENTOS: 00:00 Resumo da Parashá Chayei Sará · 01:48 Rabi Natan: Avraham e a Machpela, primeira herança · 03:06 A Machpela como portal do Gan Eden · 05:12 Avraham encontra a caverna ao perseguir o animal · 07:04 A caverna está nas mãos do Sitra Achra · 11:18 Avraham espera mais de 25 anos · 12:59 A compra da caverna com Efron · 16:00 Adam HaRishon e o que se perdeu · 24:55 Teshuvá como voltar ao que é nosso · 29:53 O novo ensinamento: o essencial da teshuvá é esperar · 36:13 Esperar com alegria na porta da tenda · 39:19 Esperar prova que queremos de verdade · 46:09 Impaciência e orgulho · 57:06 Tudo se transforma para o bem
+FONTES CITADAS: 01:53 Rabi Natan, Likutei Halachot · 03:06 Midrash sobre a Machpela · 03:24 Midrash sobre Avraham e Sará · 10:44 Chazal sobre Bat Sheva e David · 09:44 Chazal sobre Adam e a Árvore do Conhecimento · 16:00 Chazal sobre Adam HaRishon · 15:00 Bereshit 3 · 17:03 Bereshit 2:19 · 17:50 Bereshit 3:9 · 18:14 Arizal · 21:09 Rabi Nachman · 22:04 Rabi Nachman, Sefer HaMidot · 24:55 Rabi Nachman · 25:27 Zohar sobre teshuvá · 27:29 Rabi Natan, Likutei Halachot · 29:57 Rabi Nachman, Likutei Moharan · 33:15 Tehilim 16:2 · 33:58 Rabi Natan, Likutei Halachot · 34:02 Bereshit 18:1 · 36:29 Rabi Natan, Likutei Halachot · 38:13 Rabi Nachman, Sipurei Maasiyot, A Filha do Rei Escrava · 39:19 Tehilim 136:25 · 40:05 Tehilim 51:8 · 40:13 Rabi Nachman, Sefer HaMidot · 41:35 Shabat 104a · 42:33 Chazal, a loja de óleo · 46:18 Devarim 8:14 · 49:33 Rabi Natan, Likutei Halachot · 50:09 Rabi Natan, Likutei Halachot · 50:58 Eicha 3:22 · 51:31 Chavakuk 2:3 · 53:24 Rabi Nachman, Likutei Moharan II · 54:16 Eicha 3:31 · 56:08 Rabi Natan, Likutei Halachot · 57:06 Rabi Nachman
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+868|49:48|מקבל כלים אתה מקבל התקשרות עם הדבר אתה
+869|49:51|מבטל את הקטרוג כשיגיע הזמן זה יהיה שלך
+870|49:55|באמת כדאי לך לך
+871|49:57|ואתה תבוא לזה בצורה קדושה בצורה עם ענווה
+872|50:01|רבי נתן כותב בליקוי הלכות
+873|50:04|ככה כי כשזוכים לזה לבחינת
+874|50:09|המתנה אז בוודאי יזכה לגאולה שלמה מגלות
+875|50:13|נפשו מה זה גלות נפשו גלות נפשי זה הפירוש
+876|50:18|שהנפש שלי לא במקום לפעמים אדם נמצא פיזית
+877|50:21|במקום שלו עוסק פיזית בעבודה שלו נמצא
+878|50:25|פיזית עם בבן זוג שלו אבל הנפש שלו בטירוף
+879|50:28|והוא לא מצא את עצמו ויש לו יש לו פחדים
+
+LINHAS A TRADUZIR:
+880|50:31|ויש לו שערות ויש לו בלבולים ויש לו שאלות
+881|50:33|הנפש שלו לא במקום אז אז מה זה עוזר כל מה
+882|50:36|שיש לו אעם הנפש שלו לא במקום הוא לא יכול
+883|50:39|בכלל ליהנות ממה שיש לו אז הגלות הכי
+884|50:42|גדולה הא ה גלות
+885|50:45|הנפש רבי נתן אומר שזוכרים לזה מבחינת
+886|50:49|המתנה בוודאי יזכה לגאולה שלמה מגלות נפשו
+887|50:53|כי בוודאי סוף כל סוף ישוב אל שם וי רחמו
+888|50:58|כי חסדי השם לא תמנו ולא חלו רחמיו הרחמים
+889|51:02|של הקדוש ברוך הוא הם
+890|51:03|אינסופיים וכשב אדם מחכה בלי ללחוץ הוא
+891|51:07|מעורר רחמים בדיוק באותה מידה שכשהוא לוחץ
+892|51:11|ומתעקש בגאווה שזה יהיה כמו שהוא רוצה אז
+893|51:14|הוא מעורר דין אם הוא
+894|51:16|מחכה לוקח אוויר ומחכה אני ממשיך לרצות
+895|51:20|אני רוצה אני מבקש מתי שאתה רוצה ריבונו
+896|51:23|של עולם אתה יודע שכואב לי אתה יודע שזה
+897|51:25|קשה לי אבל אני מבקש ואני מחכה
+898|51:27|הדבר הזה מעורר רחמים והרחמים של הקדוש
+899|51:29|ברוך הוא הם
+900|51:31|אינסופיים ועל זה נאמר פסוק בחבקוק על
+901|51:35|משמרתי אעמודה כי עוד חזון למועד אם תממ
+902|51:40|חכה לו על מה נאמר התממה חכה לו על הגאולה
+903|51:44|על הגאולה שכל עם ישראל מחכה לה שזה נאמר
+904|51:47|על הגאולה
+905|51:49|האחרונה והסיבה שעם ישראל מחכה כל כך הרבה
+906|51:53|זמן לגאולה זה בדיוק אותה סיבה רוצים לבטל
+907|51:56|את הקט
+908|51:57|רוצים להכין כלים ששהו ברוך הוא יתן לנו
+909|52:00|את זה זה יהיה שר לנו לנצח אז רבי נתן
+910|52:03|מחדש ואומר וזהו גם בכל אדם ובכל זמן אם
+911|52:07|התממה חכה לו זה בכל אדם בכל נושא שאתה
+912|52:10|רוצה לזכות אז גם עליך נאמר אם מתאמ זה לא
+913|52:15|קורה זה מתאמ חכה
+914|52:19|לו כי עיקר הגאולה גאולת הנפש ואף על פי
+915|52:24|שרואה שמתעכב גאולת הרבה הרבה פעמים אדם
+916|52:27|אומר נו זה לא קורה כבר כל כך הרבה זמן
+917|52:29|עובר זה לא קורה צריך להתחזק להמתין הרבה
+918|52:33|לישועת עד ישקיף ויראה השם
+919|52:37|משמיים אז בעצם רבי נתן אומר פה אף אחד

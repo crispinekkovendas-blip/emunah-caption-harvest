@@ -1,0 +1,64 @@
+videoId: urybg2p-a9A
+parte 8 de 15 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A maldade de Sodoma e o mérito de Lot e suas filhas
+RESUMO: O rabino mostra que o mal de Sodoma estava em disfarçar a crueldade de bondade e de vontade de HaShem: citando Bava Batra 10a (Turnus Rufus e Rabi Akiva), eles diziam que não deviam ajudar quem HaShem quis pobre. Explica "Ered na veEre'e" (Bereshit 18:21) e o Midrash Bereshit Rabá 49, segundo o qual HaShem castigou Sodoma por etapas, com terremotos e tempestades, antes de destruí-la. Em seguida, conta a história da mulher de Lot, com Rashi sobre o sal (Bereshit 19:26): ela quis ser estátua de sal para que Davi não viesse dela, mas ele viria das filhas. Relata o sonho em que as filhas de Lot aparecem, segundo o Rav Moshe Feinstein, e explica que HaShem embriagou Lot para que sua intenção impura não atrapalhasse as intenções santas delas, com paralelos em Ezequias, Menashe e Lemech. Por fim, apresenta a Mishná de Avot 5:10 ("meu é meu e teu é teu" é o critério de Sodoma) e a regra de obrigar a quem age assim quando um tem proveito e o outro nada perde (Rambam, Shechenim 7:8). Termina com o Sefer HaChaim, que compara Sodoma ao mel e à abelha e ensina a ser como o sal: dar mesmo vindo de terra ruim.
+MOMENTOS: 00:48 Sodoma fazia o mal em nome de HaShem · 02:05 Turnus Rufus e Rabi Akiva: argumento contra a tzedaká · 03:38 "Ered na veEre'e": HaShem desce a Sodoma · 05:59 Bereshit Rabá: tremores e tempestades como aviso · 09:15 A mulher de Lot e o sal · 11:17 A exigência dos sodomitas e a ideia de existência própria · 13:50 O Rav Yechezkel Abramsky e a viagem a Tel Aviv · 15:51 Lot oferece as filhas para impedir Davi · 17:24 A mulher de Lot olha para trás · 20:25 História de Rav Moshe Feinstein e as filhas de Lot · 23:34 Por que HaShem embriagou Lot; Ezequias e Menashe · 27:29 Lemech, Ada, Tzila e Naamá · 29:23 Avot 5:10 e o carona em Ramot · 31:58 Obrigar a quem age como Sodoma; o Sefer HaChaim: mel e sal
+FONTES CITADAS: 01:58 Bava Batra 10a · 03:38 Bereshit 18:21 · 05:59 Bereshit Rabá 49 · 09:27 Rashi em Bereshit 19:26 · 10:32 Midrash sobre a mulher de Lot e o sal · 13:06 Bereshit 19:13 · 13:24 Midrash sobre os anjos · 15:57 Midrash sobre Davi em Sodoma · 15:57 Tehilim 89:21 · 17:24 Bereshit 19:26 · 17:30 Rashi em Bereshit 19:26 · 20:44 Rav Moshe Feinstein, Igrot Moshe, introdução ao volume 8 · 24:14 Sanhedrin 94b · 24:41 Yevamot 49b · 27:09 Divrei Yatziv, Even HaEzer · 27:29 Bereshit 4:19-22 · 28:49 Bereshit 19:11 · 28:55 Yeshuot Malko · 29:29 Avot 5:10 · 29:46 Rashi em Avot 5:10 · 31:04 Pnei Yehoshua / Tosafot Bava Batra · 31:17 Bava Kama 20a · 32:07 Rambam, Hilchot Shechenim 7:8 · 32:28 Sefer HaChaim (Rabi Chaim ben Betzalel), Parnassá veKalkalá cap. 4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|16:24|מאשתי עירית או עידית, ממנה יצא דוד המלך?
+269|16:29|מהמרשעת הזאת יצא דוד המלך?
+270|16:31|לא יכול להיות.
+271|16:32|אז ממי עתיד לצא דוד המלך?
+272|16:35|מהבנות שלי.
+273|16:36|אמר לוט לאלה בחוץ, קחו את הבנות שלי, תחטאו, תחטאו
+274|16:42|איתם, תטמאו אותם, כדי שלא יצא מהם דוד המלך.
+275|16:46|מוכן להפקיר את הבנות שלו, בשביל מה?
+276|16:49|כדי שלא יצא מהם דוד המלך, שלא יצא מהם אשיח צדקנו.
+277|16:53|לוט היה ראש הסטרא אחא, ראש הטומאה, מוכן לטמא את הבנות שלו, העיקר
+278|16:59|שמה?
+279|17:00|שלא יצא מהם דוד המלך, שלא יצא מהם אשיח צדקנו.
+
+LINHAS A TRADUZIR:
+280|17:04|אז מה עושים המלאכים?
+281|17:05|סוגרים את הדלת ואומרים לו, אדוני, כמה שעשתה סדומניק, אנחנו לא ניתן
+282|17:11|לך.
+283|17:12|קח מהר את הבנות שלך, נצא מהן לפני שתקלקל אותן ותברח.
+284|17:17|יוצא לוט, יוצאים הבנות, וגם היא, עירית או עידית, אשתו
+285|17:23|של לוט.
+286|17:24|ומה כתוב?
+287|17:25|שמה היא עושה?
+288|17:26|ותאבד אשתו, מאחוריו בתי נציב מלח.
+289|17:30|אומר רש"י, מה זה מאחוריו?
+290|17:32|מאחוריו של לוט.
+291|17:34|מה זה מאחוריו של לוט?
+292|17:35|אנחנו חשבנו מאחוריו של אברהם?
+293|17:37|מה זה מאחוריו של לוט?
+294|17:38|ודאי מאחוריו של לוט.
+295|17:39|זה לוט מי שנמצא שם, אין שום מישהו אחר.
+296|17:42|מה זה מאחוריו של לוט?
+297|17:44|אלא, יש ב...
+298|17:47|הילדים בגן, שמציירים להם את הציור של לוט, אשתו של לוט, שנהייתה נצים מלח, אז
+299|17:53|מראים אותה מסתתרת מאחורי לוט ומתבוננת.
+300|17:56|זה יפה בציורים של הגנון, אבל זה לא הכוונה כאן.
+301|18:00|אשתו של לוט, היה לה קצת שכל.
+302|18:02|אמרו, מה פתאום מצילים אותנו?
+303|18:04|מה רע הקדוש ברוך הוא ראה להטריח מלאכים בשביל להציל אותנו, דווקא אותנו מכל אנשי
+304|18:10|סדום?
+305|18:10|איזה מעלה ראו בנו להציל אותנו דווקא מכל אנשי סדום?
+306|18:14|הרי אני יודעת שאנחנו לא הכי טובים.
+307|18:17|ואם אני הייתי אשתו של לוט, לא סתם לוט בחר בי.
+308|18:20|לוט הרשע, אני מרשעת.
+309|18:22|אלא מה?
+310|18:23|בגלל שעתיד לצאת ממנו מי?
+311|18:26|דוד המלך.
+312|18:27|אשתו של לוט אמרה, למה מצילים אותנו?
+313|18:29|בגלל שעתיד לצאת ממני דוד המלך.
+314|18:32|אז היא אמרה, אותה מרשעת אמרה, אני לא מוכנה שיצא דוד המלך.
+315|18:35|אז היא חשבה שדוד המלך עתיד לצאת ממי?
+316|18:38|ממנה.
+317|18:39|אז היא אמרה, אני אסתכל אחורה, ואמרו לנו מה?
+318|18:42|לא להביט אחורה.
+319|18:44|ומי שיסתכל אחורה, מה יקרה לו?

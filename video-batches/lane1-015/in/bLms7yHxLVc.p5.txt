@@ -1,0 +1,64 @@
+videoId: bLms7yHxLVc
+parte 6 de 36 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashá Ki Tavo: o que faz de Israel um Am Segulá
+RESUMO: O rabino parte de Devarim 26:16-19, no início da Parashá Ki Tavo, onde Israel é chamado de "Am Segulá", e explica por que o conceito é ao mesmo tempo elogioso e incômodo para muitos. Com o Ramban e o Rabênu Bachyê, mostra que o "hoje" do versículo é como o dia de Sinai, renovado nas Aravot Moav depois do pecado do bezerro de ouro, e que a segulá nasce de aceitar e cumprir a Torá; o "ha'emarta" é lido como "levar a dizer", pelos milagres que Israel viu. Em Devarim 14:1-2 o mandamento de não se lacerar pelos mortos decorre de sermos filhos de HaShem, com fé na Ressurreição dos mortos, e a Mishná de Pirkê Avot (Rabi Akiva) mostra a progressão de amado como Adam, como filho e como detentor do "kli chemdá", a Torá. Com o Simchat Moshe, explica que "shamoa tishmeu" alude à Torá escrita e oral (Pardes: peshat, remez, drash e sod), que os povos não alcançam, e defende que o Sod é o cerne da Torá, contra os caraítas, os críticos acadêmicos da Cabalá e os "ramba'mistas". Com Rashi e o Sforno define segulá como tesouro precioso, cita Rabi Shimon bar Yochai ("vós sois chamados Adam") para explicar que Adam é a harmonia entre corpo e alma. Por fim, com Yechezkel 20:32, Bilam e a história da Europa (Iluminismo, assimilação, ideologia racial nazista), conclui que querer ser como as nações leva ao sofrimento, e que a identidade de Israel é a Torá.
+MOMENTOS: 00:03 Introdução e dedicatórias · 01:11 O conceito incômodo de Am Segulá · 02:17 Devarim 26:16-19: os quatro versículos · 06:45 O Ramban: o "hoje" como o dia de Sinai · 08:15 Duas alianças: Sinai e Aravot Moav · 10:55 Rabênu Bachyê e o sentido de ha'emarta · 17:11 Filhos de HaShem e o luto pelos mortos · 22:20 Rabi Akiva: Adam, filhos e kli chemdá · 26:34 Simchat Moshe: shamoa tishmeu e o Pardes · 35:33 Karaítas, críticos da Torá e o Sod · 49:34 Rashi e Sforno: o que é segulá · 54:16 Atem Adam: harmonia entre corpo e alma · 59:05 Bilam, assimilação e a ideologia nazista · 1:16:02 Conclusão: a Torá como identidade de Israel
+FONTES CITADAS: 
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|10:29|העולם והוא ברא את כל בני אדם בעולם
+189|10:32|והייחודיות של העם הספציפי הזה זה כי העם
+190|10:35|הזה, עם ישראל קיבל על עצמו את המצוות
+191|10:39|ולכן קבלת המצוות ושמירתם זה לא רק הקבלה
+192|10:41|העקרונית כן אבל אלא אלא יש פה גם נעשה
+193|10:44|חוץ מהנשמע צריך לעשות ולכן זה חוזר על
+194|10:47|עצמו פעם אחר פעם לשמור כל מצוותיו לעשות
+195|10:50|וכולי בזה מתבטת הסגולה של העם שלנו כעם
+196|10:55|סגולה כך הרמבן רבנו בחיים מדבר פה על
+197|10:59|העניין של האמרה בוא בואו נראה
+198|11:03|והשם האמירך כלומר גם הוא עשה לך כל כך
+199|11:07|כלומר הרבה ניסים ונפלאות שראית בעיניך עד
+
+LINHAS A TRADUZIR:
+200|11:11|שסיבב שאמרת שתהיה לו לעם סגולה אז
+201|11:18|הרבנו בחיים מפרש את המילה האמרת מלשון
+202|11:22|אמירה
+203|11:24|האמרת זה כאילו שאני גורם למישהו לומר
+204|11:29|האמרת אני מאמיר מישהו אני גורם לו לומר.
+205|11:33|זאת אומרת מה גרם לך שתהיה לו לעם סגולה?
+206|11:38|הניסים והנפלאות שראית בעיניך,
+207|11:41|האופן הייחודי של צורת ההשגחה על עם
+208|11:44|ישראל. עכשיו,
+209|11:47|מה זה להיות לו לעם סגולה כאשר דיבר לך?
+210|11:50|איפה דיבר? איפה דיבר לך? אומר רבנו בחיה
+211|11:54|כאשר דיבר לך כלומר בסיני הוא שאמר אם
+212|11:58|שמוע תשמעו בקולי ושמרתם את בריתי והיתם
+213|12:00|לי סגולה מכל העמים אז זה הקטע הבא שהוא
+214|12:04|ממש לפני מעמד הר סיני בפרק יט הקדוש ברוך
+215|12:07|הוא שולח את משה רבנו לעם ישראל להציע להם
+216|12:10|את התורה וזה מה שכתוב שם בספר שמות אתם
+217|12:13|ראיתם אשר עשיתי למצרים וישא אתכם על כלפי
+218|12:15|נשרים ואביא אתכם אליי ואתה ואתה אם יש פה
+219|12:19|אם אם אני מציע לכם עסקה אבל היא תלויה
+220|12:23|בכם אם שמוע תשמעו בקולי ושמרתם את בריתי
+221|12:27|והיתם לי סגולה מכל העמים זה הפעם הראשונה
+222|12:30|שמוזכר העניין של סגולה עם סגולה ולכן
+223|12:35|בספר דברים שראינו קודם לכן הוא אומר כאשר
+224|12:40|דיבר לך איפה דיבר לך אם אנחנו צריכים
+225|12:43|לחזור אחורה לשמוע לפני מעמד הר סיני שמה
+226|12:46|הוא דיבר והיתם לי סגולה מכל העמים כי לי
+227|12:49|כל הארץ ואתם תהיו לי ממלכת כהנים וגוי
+228|12:51|קדוש אלה הדברים אשר תדבר על בני ישראל
+229|12:54|ויבוא משה ויקרא לזקנם וישם לפניהם את כל
+230|12:56|הדברים האלה אשר ציווהו השם ויענו כל העם
+231|12:58|יחדיו ויאמרו כל אשר דיבר השם נעשה כלומר
+232|13:01|אנחנו מקבלים את זה שאנחנו נהיה לעם השם
+233|13:04|לעם סגולה לגוי קדוש ומתחייבים לשמור את
+234|13:07|מצוותיו
+235|13:09|אז זה ה והשם האמירך היום להיות לעם סגולה
+236|13:13|כאשר דיבר לך דיבר לך בסיני
+237|13:17|מה זה אומר עם סגולה
+238|13:23|נראה עוד כמה מקומות בתורה לגבי דברים
+239|13:26|לכאורה ספציפיים ש

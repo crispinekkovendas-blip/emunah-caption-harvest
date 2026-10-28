@@ -1,0 +1,50 @@
+videoId: L1UROwNzaKQ
+parte 1 de 30 · traduzir as linhas 0 a 39 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sair do Egito: caminhar no seu degrau, sem pressão
+RESUMO: O rabino abre Shemot lembrando que o Egito é um estado interior de aperto e tristeza, não só um lugar, e que, segundo Rabi Natan, toda a Torá é a história pessoal de cada um. Explica como o Faraó escravizou Israel com astúcia: pressão, ambição e tarefas sem sentido, até a pessoa perder a noção de quem é, e liga isso ao ensinamento de Rabi Nachman no Likutei Moharan de seguir o caminho da verdade conforme o próprio degrau, e a Kohelet (não seja justo demais). Usa a serpente e Chavá (a cerca que virou "nem tocar") e o exemplo de Pessach para distinguir o essencial do que é apenas costume ou hidur. Lê o verso "e fizeram amarga a vida deles com trabalho duro, com barro e tijolos" pelo Zohar: trabalho duro é kushiyot (perguntas), barro é chumra (rigor excessivo), tijolos é libun (esclarecer a halachá para si). Cita Rashi, para quem a maioria não quis sair do Egito, e o ensinamento de que o que se exige é o desejo verdadeiro e constante de se aproximar de HaShem, pois "no caminho em que a pessoa quer andar, a conduzem". Conclui que o avanço deve ser lento, com alegria, e que quem sai do Egito é HaShem; a pessoa só precisa querer.
+MOMENTOS: 00:10 Shemot: de novo a descida ao Egito · 01:10 Rabi Natan: o Egito como exílio da alma · 03:44 Como Israel foi parar na escravidão · 06:23 Rabi Nachman: andar na verdade conforme o degrau · 10:04 Kohelet: não seja justo demais · 17:38 Chavá e a serpente: o erro da cerca · 21:23 Pessach e a distinção entre obrigação e hidur · 23:36 Zohar: trabalho duro, barro e tijolos · 34:24 Simplicidade e o perigo da astúcia · 42:13 Rashi: a maioria não quis sair do Egito · 46:34 O essencial é o desejo, não a perfeição · 49:18 Quem quer andar, é conduzido · 59:01 Birchot HaShachar e a inteligência do coração · 1:06:26 Quem tira do Egito é HaShem
+FONTES CITADAS: 00:44 Pessachim 116b · 01:10 Rabi Natan, Likutei Halachot · 04:27 Shemot 1:10 · 05:24 Midrash sobre o início da escravidão no Egito · 06:23 Rabi Nachman, Likutei Moharan · 10:04 Kohelet 7:16 · 12:46 Mishlei 7:26 · 12:51 Sotá 22a · 17:38 Bereshit 2:17 · 18:46 Bereshit 3:1-3 · 19:22 Bereshit 2:17 · 19:40 Bereshit Rabá 19:3 · 22:40 Shemot 1:13-14 · 23:36 Zohar, citado por Rabi Natan · 24:18 Mishlei 14:23 · 24:56 Zohar sobre Shemot 1:14 · 34:24 Rabi Nachman, Likutei Moharan Torá 122 · 36:03 Devarim 30:12 · 36:22 Berachot 33b · 36:25 Berachot 25b; Yoma 30a · 37:28 Vayikrá 18:5 · 37:28 Yoma 85b; Sanhedrin 74a · 38:20 Rabi Natan, Likutei Halachot · 39:55 Berachot 22a; Sanhedrin 8a · 42:20 Rashi em Shemot 13:18 · 42:57 Midrash sobre Shemot 6:9 · 44:42 Rabi Nachman, Likutei Moharan · 47:04 Rabi Nachman, Likutei Moharan · 49:18 Makot 10b · 52:18 Tehilim 77:20 · 53:13 Devarim 30:13 · 59:01 Birchot HaShachar · 1:03:50 Rabi Natan, Chayei Moharan
+
+LINHAS A TRADUZIR:
+0|00:03|התחלנו בשעה טובה חומש
+1|00:10|שמות ועוד פעם יורדים למצרים עוד פעם כל
+2|00:14|הסיפור הזה
+3|00:18|חוזר באמת עד עכשיו ראינו בחומש בראשית את
+4|00:22|כל הבניה של עם ישראל אברהם יצחק
+5|00:25|ויעקב כל הסיפור של ישמעאל ועשו שנפלטים
+6|00:28|החוצה הסיפורים יוסף שים נפשות בית יעקב
+7|00:32|יורדים
+8|00:34|למצרים כבר בפסוקים הראשונים אנחנו פשוט
+9|00:37|מוצאים את עצמנו בתוך הגלות
+10|00:40|בחזרה
+11|00:44|ו שוב ירידה ירידה לצורך עליה חזל אומרים
+12|00:49|בכל דור ודור חייב כל אדם לראות את עצמו
+13|00:51|כאילו הוא יצא ממצרים אז ממילא אנחנו
+14|00:55|מבינים שהמושג הזה של מצרים המושג הזה של
+15|00:59|ירידת מצרים המושג הזה של יציאת מצרים הוא
+16|01:02|דבר ששייך לכל אחד בכל דור אבל בשביל
+17|01:06|לראות את עצמי כאילו יצאתי ממצרים אני
+18|01:08|צריך להבין בכלל מה זה
+19|01:10|מצרים רבי נתן
+20|01:13|כותב כי כל מה שעבר על ישראל יציאת מצרים
+21|01:17|וקבלת התורה ואחר כך וכל המלחמות לכבוש
+22|01:21|ארץ ישראל וכל מה שעבר עלינו אחר כך הכל
+23|01:26|כאשר לכל עובר על כל אדם שרוצה לזכות לחיי
+24|01:31|עולם שבהכרח שיעבור עליו כמה מיני מלחמות
+25|01:35|בלי שיעור ובכל פעם יותר וכל אחד יכול
+26|01:39|להבין בעצמו כל זה לפי בחינתו וערכו איך
+27|01:42|שעוברים עליו כמה עליות וירידות כמה וכמה
+28|01:45|פעמים שכל זה נמשך מבחינת גלות מצרים
+29|01:49|כעיקר גלות כעיקר הגלות הוא גלות הנפש וכל
+30|01:53|הגלויות מכונים בשם
+31|01:57|מצרים אז רבי נתן אומר המושג הזה של ירידה
+32|02:01|למצרים הוא לא נגמר והגלות הזאת והשעבוד
+33|02:05|הזה יש לו המשכים בכל הדורות ואצל כל אחד
+34|02:08|וכל מה שכתוב בכל התורה זה הסיפור של כל
+35|02:12|אחד מאיתנו כל אחד צריך לעבור את כל
+36|02:14|הגלגולים ואת כל הסיפורים האלה ממילא כל
+37|02:17|מה שכתוב בתורה הוא נהיה סיפור אישי הוא
+38|02:20|לא רק היסטוריה על משהו שהיה הוא לא רק
+39|02:22|חוקים של איך לחיות הוא גם מספר לנו כל

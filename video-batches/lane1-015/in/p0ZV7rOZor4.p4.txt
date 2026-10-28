@@ -1,0 +1,64 @@
+videoId: p0ZV7rOZor4
+parte 5 de 27 · traduzir as linhas 160 a 199 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O anjo guardião de Mishpatim e o caminho
+RESUMO: O rabino Yinon Kalazan foca em Shemot 23:20-23, o anjo que HaShem envia diante de Israel para guardá-lo no caminho, e pergunta se é o mesmo anjo que aparece depois do pecado do bezerro, em Shemot 33. Ele mostra que esse anjo guardião já acompanhava Avraham (Bereshit 24:7 e a Akedá), Yaakov (Bereshit 48:16), o povo na saída do Egito (Shemot 14:19) e Daniel (Daniel 6), com Radak, Tehilim 34, Tehilim 91 e Malbim. Explica que os anjos são enviados que executam a palavra de HaShem (Tehilim 103 e 104). Depois contrasta com o anjo enviado após o bezerro (Shemot 32:34 e 33:2-3), que viria no lugar da Shechiná, e Moshe recusa (Shemot 33:12-15). Rashi em Yehoshua 5 e o Midrash Rabá e Tanchuma identificam o anjo com Mikhael, o príncipe de Israel, que voltou na época de Yehoshua. Por fim o Zohar (Vayechi e Mishpatim) liga o anjo à Shechiná que acompanha quem guarda a Torá, e daí a Tefilat HaDerech.
+MOMENTOS: 00:43 O tema: o anjo guardião · 00:55 Shemot 23:20: envio do anjo para guardar no caminho · 04:36 Após o bezerro: HaShem envia um anjo no lugar da Shechiná · 06:12 Eliezer e o anjo que prepara o caminho (Bereshit 24) · 08:30 A Akedá e o anjo que detém Avraham · 10:27 Yaakov: o anjo que me redime de todo mal · 17:13 O anjo na saída do Egito (Beshalach) · 22:08 Tehilim 91: porque Seus anjos te guardarão · 29:29 O anjo que fechou a boca dos leões (Daniel) · 35:12 O diálogo de Moshe e HaShem após o bezerro · 44:05 Yehoshua e o comandante do exército de HaShem · 49:02 O anjo é Mikhael, príncipe de Israel · 51:25 Midrash Rabá e Tanchuma sobre o anjo · 56:33 Zohar: o anjo é a Shechiná e a Tefilat HaDerech
+FONTES CITADAS: 00:55 Shemot 23:20 · 02:06 Shemot 23:21-23 · 04:36 Shemot 33:3 · 06:45 Bereshit 24:7 · 08:45 Bereshit 22:10-12 · 10:41 Bereshit 48:15-16 · 12:15 Radak em Bereshit 48:16 · 12:45 Tehilim 34:8 · 16:50 Shemot 14:19 · 19:16 Rashi em Tehilim 90:1 · 22:27 Tehilim 91:1-7 · 24:15 Tehilim 91:9-12 · 26:03 Malbim em Tehilim 90:1 · 28:23 Midrash sobre a saída do Egito · 28:50 Radak em Tehilim 34:8 · 31:50 Daniel 6:23 · 30:30 Yeshayahu 63:9 · 33:05 Tehilim 103:20-22 · 34:03 Tehilim 104:4 · 34:54 Pesukei DeZimra, Tehilim 148 · 36:19 Shemot 32:31-32 · 37:19 Shemot 32:33-34 · 38:22 Shemot 33:1-3 · 40:01 Shemot 33:12-13 · 41:34 Shemot 33:14 · 41:39 Rashi em Shemot 33:14 · 42:48 Shemot 33:15 · 44:08 Yehoshua 5:13-15 · 46:36 Rashi em Yehoshua 5:14 · 48:18 Rashi em Yehoshua 5:14 · 49:14 Daniel 10:21 · 49:56 Shemot 23:21 · 51:32 Midrash Rabá, Shemot · 52:23 Midrash Rabá, Rabi Levi · 54:00 Midrash Tanchuma, Mishpatim · 55:56 Shemot 13:21 · 56:50 Zohar, Bereshit, Vayechi · 58:38 Gemará sobre andar sozinho no caminho · 1:00:31 Zohar, Bereshit, Vayechi · 1:01:40 Bereshit 28:20 · 1:02:08 Bereshit 32:11 · 1:02:44 Zohar, Shemot, Mishpatim · 1:04:44 Tefilat HaDerech
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+148|09:01|מאומה כי אתה ידעתי כי יראה אלוהים אתה
+149|09:04|ולא חסכת את בנך את יחידך ממני זאת אומרת
+150|09:07|אנחנו רואים פה שבעצם בעקבות המלאך הזה
+151|09:10|שעוצר את אברהם ניצלים חייו של יצחק
+152|09:18|אז קודם לכן ולכן הבאתי את זה קודם למרות
+153|09:22|שהקטע שהבאתי קודם לכם בקשר לשידוך של
+154|09:24|יצחק מופיע יותר מאוחר בפרק כד וזה בפרק
+155|09:28|כב כי אני רוצה להראות שהמלאך הזה אנחנו
+156|09:31|מוצאים אותו עם האבות
+157|09:35|אז קודם ראינו בואו נראה את זה שוב שאומר
+158|09:39|אברהם
+159|09:41|השם אשר לקחני אני מבית אבי, מארץ מולדתי
+
+LINHAS A TRADUZIR:
+160|09:44|ואשר דיבר לי ואשר נשבע לי לאמור, הוא
+161|09:47|ישלח מלאכו לפניך. זאת אומרת, המלאך הזה
+162|09:51|מוכר לאברהם מרגע הלך לך, מיציאת מצרים.
+163|09:55|והוא אומר, המלאך הזה הוא הוא ישלח
+164|09:59|ילך לפניך ויסדר את העניין של השידוך של
+165|10:04|יצחק. אבל אנחנו מוצאים שהמלאך הזה גם
+166|10:08|כביכול מציל את יצחק מן העקידה, נכון? כמו
+167|10:12|שהזכרתי כן ויקרא אליו מלאך השם מן השמיים
+168|10:15|ויאמר אברהם אברהם ויאמר אינני ויאמר אל
+169|10:17|תשלח ידך אל הנהר הנהר הזה זה יצחק פעם
+170|10:21|נוספת נמצא
+171|10:23|את המלאך השומר
+172|10:27|אצל יעקב אבינו
+173|10:30|בסוף ספר בראשית בפרק מחימים
+174|10:36|האחרונים לחייו של יעקב הוא מדבר עם יוסף
+175|10:40|וכך כתוב שמה
+176|10:41|בפרשת ויחי ויברך את יוסף ויאמר האלוהים
+177|10:45|אשר התהלכו אבותיי לפניו אברהם ויצחק
+178|10:49|האלוהים הרועה אותי מעודי ועד ועד היום
+179|10:53|הזה מה זה הרואה אותי המנהיג אותי כמו
+180|10:55|שהרועה מנהיג את הצאון האלוהים הרואה אותי
+181|10:59|עד היום הזה המלאך הגואל אותי מכל רע יברך
+182|11:05|את הנערים
+183|11:07|אז מדובר פה על מנשה ואפרים
+184|11:09|ובעצם בהקדמה
+185|11:11|או בברכה שהוא נותן להם המלאך הגואל אותי
+186|11:13|מכל רע יברך את הנערים ויקרא בהם שמי ושם
+187|11:16|אבותיי אברהם ויצחק ויתגו לרוב בקרב הארץ
+188|11:18|אבל מה למדנו מכאן שמעודי
+189|11:22|ועד היום הזה מלווה אותי מלאך כך אומר
+190|11:26|יעקב מעודי ועד היום הזה מלווה אותי מלאך
+191|11:30|והוא המלאך הגואל אותי מכל רע
+192|11:34|אז זה מעניין כאילו אנחנו חוזרים אחורה
+193|11:36|ואנחנו רואים שאצל האבות היה מלאך היה
+194|11:40|מלאך
+195|11:40|הוא כנראה מאוד מאוד ברקע הדברים, מאוד
+196|11:44|מאוד לא בולט, אבל פה ושם אנחנו רואים
+197|11:47|שהוא מופיע
+198|11:49|ומאוזכר, הן על ידי אברהם והן ביחס ליצחק
+199|11:53|והן יעקב אומר את זה בפירוש
