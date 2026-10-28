@@ -1,0 +1,28 @@
+{
+ "name": "lane2-021",
+ "lane": 2,
+ "created": "2026-10-28T02:11:54.527Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "oaX59sZsjUw",
+   "title": "Lech Lecha: preparar-se para receber a Torá e a Terra",
+   "lines": 1240,
+   "parts": 11,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "oaX59sZsjUw.p0",
+  "oaX59sZsjUw.p1",
+  "oaX59sZsjUw.p2",
+  "oaX59sZsjUw.p3",
+  "oaX59sZsjUw.p4",
+  "oaX59sZsjUw.p5",
+  "oaX59sZsjUw.p6",
+  "oaX59sZsjUw.p7",
+  "oaX59sZsjUw.p8",
+  "oaX59sZsjUw.p9",
+  "oaX59sZsjUw.p10"
+ ]
+}
