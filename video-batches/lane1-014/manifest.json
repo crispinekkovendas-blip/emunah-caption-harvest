@@ -2,7 +2,7 @@
  "name": "lane1-014",
  "lane": 1,
  "created": "2026-10-28T14:14:05.930Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "_fmcRRO9Yi4",
@@ -60,7 +60,8 @@
  "done": [
   "_fmcRRO9Yi4",
   "eHxVfQPlbps",
-  "9dUeS6aUGSQ"
+  "9dUeS6aUGSQ",
+  "Z2GdBuyeM-g"
  ],
  "skipped": []
 }
