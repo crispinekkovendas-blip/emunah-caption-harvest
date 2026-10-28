@@ -31,10 +31,8 @@
 # (pipeline/kabbalah-queue.json). The concurrency group keeps it behind the morning run.
 name: New lessons — Rav Meir Eliyahu / every teacher of the site / Kabbalah
 run-name: ${{ (github.event.schedule == '47 18 * * *' || inputs.set == 'kabbalah') && 'Kabbalah channels' || 'Site teachers' }}
+# the daily schedules moved to emunah-pipeline/lessons on 2026-10-27 (its own 20 runners); this copy runs by hand only
 on:
-  schedule:
-    - cron: '17 6 * * *'
-    - cron: '47 18 * * *'
   workflow_dispatch:
     inputs:
       ids:
