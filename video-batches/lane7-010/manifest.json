@@ -1,0 +1,91 @@
+{
+ "name": "lane7-010",
+ "lane": 7,
+ "created": "2026-10-28T14:14:04.591Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "IN6hGhUXW0c",
+   "title": "Bechorot 39: mumim e a mesirut nefesh de Avraham Avinu",
+   "lines": 1872,
+   "parts": 16,
+   "from": "recente"
+  },
+  {
+   "id": "GxGM9VarVR8",
+   "title": "O Pargod de \"Ezer KeNegdo\": dez comentários sobre o casal",
+   "lines": 755,
+   "parts": 7,
+   "from": "recente"
+  },
+  {
+   "id": "VkBM9NIZbxw",
+   "title": "Aula Or Tzadikim: o legado do pai e a luz do justo",
+   "lines": 1599,
+   "parts": 14,
+   "from": "recente"
+  },
+  {
+   "id": "Q0bJ4yVSgJo",
+   "title": "Malchut: o último rosto de Atzilut e seu tikun",
+   "lines": 306,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "L6np-z97lMI",
+   "title": "Não existe vazio: conectar a escuridão à Luz Divina",
+   "lines": 654,
+   "parts": 6,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "IN6hGhUXW0c.p0",
+  "IN6hGhUXW0c.p1",
+  "IN6hGhUXW0c.p2",
+  "IN6hGhUXW0c.p3",
+  "IN6hGhUXW0c.p4",
+  "IN6hGhUXW0c.p5",
+  "IN6hGhUXW0c.p6",
+  "IN6hGhUXW0c.p7",
+  "IN6hGhUXW0c.p8",
+  "IN6hGhUXW0c.p9",
+  "IN6hGhUXW0c.p10",
+  "IN6hGhUXW0c.p11",
+  "IN6hGhUXW0c.p12",
+  "IN6hGhUXW0c.p13",
+  "IN6hGhUXW0c.p14",
+  "IN6hGhUXW0c.p15",
+  "GxGM9VarVR8.p0",
+  "GxGM9VarVR8.p1",
+  "GxGM9VarVR8.p2",
+  "GxGM9VarVR8.p3",
+  "GxGM9VarVR8.p4",
+  "GxGM9VarVR8.p5",
+  "GxGM9VarVR8.p6",
+  "VkBM9NIZbxw.p0",
+  "VkBM9NIZbxw.p1",
+  "VkBM9NIZbxw.p2",
+  "VkBM9NIZbxw.p3",
+  "VkBM9NIZbxw.p4",
+  "VkBM9NIZbxw.p5",
+  "VkBM9NIZbxw.p6",
+  "VkBM9NIZbxw.p7",
+  "VkBM9NIZbxw.p8",
+  "VkBM9NIZbxw.p9",
+  "VkBM9NIZbxw.p10",
+  "VkBM9NIZbxw.p11",
+  "VkBM9NIZbxw.p12",
+  "VkBM9NIZbxw.p13",
+  "Q0bJ4yVSgJo.p0",
+  "Q0bJ4yVSgJo.p1",
+  "Q0bJ4yVSgJo.p2",
+  "L6np-z97lMI.p0",
+  "L6np-z97lMI.p1",
+  "L6np-z97lMI.p2",
+  "L6np-z97lMI.p3",
+  "L6np-z97lMI.p4",
+  "L6np-z97lMI.p5"
+ ]
+}
