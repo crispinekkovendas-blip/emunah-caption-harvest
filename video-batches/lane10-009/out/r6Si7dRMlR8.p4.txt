@@ -1,0 +1,5 @@
+480	Give	Deem
+481	him one second to move.	lhe um segundo para se mover.
+482	Let him through.	Deixem-no passar.
+483	There are more photographers, help out.	Há mais fotógrafos, ajude.
+484	There are more photographers.	Há mais fotógrafos.
