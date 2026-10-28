@@ -21,5 +21,10 @@
   "8-GlYBN9gCA.p5",
   "8-GlYBN9gCA.p6",
   "8-GlYBN9gCA.p7"
- ]
+ ],
+ "tries": {
+  "8-GlYBN9gCA": 1
+ },
+ "done": [],
+ "skipped": []
 }
