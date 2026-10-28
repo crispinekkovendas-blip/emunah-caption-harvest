@@ -1,0 +1,64 @@
+videoId: Hm8fk4lF5Cg
+parte 24 de 34 · traduzir as linhas 920 a 959 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O que é a santidade: "Kedoshim tihiyu
+RESUMO: O rabino Yinon Kalazan parte de Vaikra 19:2, "Kedoshim tihiyu ki kadosh ani HaShem Elokeichem", e cita o Midrash Rabá: a santidade de HaShem está acima da nossa, por isso o povo não pode ser santo como Ele. Define kadosh como separação para o alto (o exemplo da lata entre sete latas e o do Shabat entre os dias), com Rabi Yitzchak Abravanel em Yeshayahu e Rabeinu Bechaie, e liga a impureza (tuma) à raiz de "atum", a matéria fechada em si mesma. Mostra pelos versículos de Vaikra 20:7-8, Bamidbar 15:39-40 e Shemot 19:3-8 que a santidade vem de guardar as mitsvot, e explica a bênção "asher kidshanu bemitsvotav", com o jogo mitsave/metsuve e gufe/neshamá. Com o princípio "eved melech kamelech" (Talmud) e o Ramchal em Adir BaMarom, que cita o Zohar sobre "asher bara Elokim la'asot", ensina que, se o corpo serve à alma, ele recebe a eternidade, o que chama de ressurreição dos mortos, e que, se a alma serve ao corpo, vem o karet. Conclui que o povo de Israel, ao santificar a matéria, fica acima até dos anjos.
+MOMENTOS: 00:45 Início da parashá Kedoshim e Vaikra 19:1-2 · 02:51 Midrash Rabá: a minha santidade está acima da sua · 03:52 Kadosh é separado para o alto: a metáfora das latas · 06:47 Santos em relação a quê: as nações do mundo · 09:40 Os kedoshim no Kedushá e os anjos · 14:10 Santidade pelas mitsvot: Vaikra 20:7-8 e Tsitsit · 16:40 Abravanel: tuma como matéria fechada em si mesma · 24:57 A proposta do Monte Sinai: Shemot 19 · 32:49 "Asher kidshanu bemitsvotav" e mitsave/metsuve · 52:21 Fazer uma mitsvá é ressuscitar os mortos · 54:09 Eved melech kamelech e a escolha entre corpo e alma · 1:14:12 Ramchal e o Zohar: o ser humano completa a criação · 1:18:55 Israel mais santo que os anjos
+FONTES CITADAS: 00:47 Vaikra 19:1-2 · 02:54 Vaikra Rabá 24 · 08:37 Shemuel I 2:1-2 · 09:30 Amidá, terceira bênção (Atá Kadosh) · 12:39 Bereshit 2:7 · 14:10 Vaikra 20:7-8 · 15:40 Bamidbar 15:37-41 (Tsitsit, terceiro trecho do Shemá) · 16:40 Abravanel em Yeshayahu 6:3 · 17:50 Vaikra 11:44 · 18:44 Raiz de tuma (tet-mem-alef) e atum · 23:32 Rabeinu Bechaie em Vaikra 19:2 · 24:57 Shemot 19:1-6 · 25:32 Shemot 19:5-6 · 26:55 Bereshit 1:26 · 30:42 Shemot 19:7-8 · 32:38 Bênção das mitsvot · 40:18 Midrash sobre a Torá oferecida às nações · 42:32 Shemot 19:8 · 50:40 Jogo de letras chomer e ruach · 54:12 Dito talmúdico: eved melech kamelech · 55:40 Bereshit 41:40,44 · 1:10:40 Karet (Rambam, Hilchot Teshuvá) · 1:13:00 Bamidbar 15:40 · 1:13:33 Ramchal, Adir BaMarom (citando o Zohar) · 1:13:53 Bereshit 2:1-3 · 1:15:00 Zohar sobre os 613 mandamentos e os 248 membros e 365 tendões · 1:17:33 Elokai Neshamá
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+908|54:42|חסרת כוח ומשמעות והוא הדין בכל המקומות
+909|54:45|האחרים בעולם. אבל פעם היה מלך, פעם פעם
+910|54:48|הייתה מלוכה ומלך היה מלך. הוא היה פשוט
+911|54:52|האדון המוחלט על כל נתי.
+912|54:57|עכשיו בואו ניקח דוגמה. נגיד מלך שמולך על
+913|55:01|10 מיליון בני אדם.
+914|55:05|מלך. אז בתוך הקבוצה הזאת שמונה 10 מיליון
+915|55:09|ואחד אנשים, יש אחד שהוא המלך
+916|55:14|וכל היתר הם עבדי המלך. כי כל מי שהוא לא
+917|55:18|מלך והוא נתין של המלך אז הוא עבד של
+918|55:22|המלך.
+919|55:23|אז יש לנו מלך אחד ו10 מיליון עבדים,
+
+LINHAS A TRADUZIR:
+920|55:27|עבדי המלך. [נחירות בוז]
+921|55:30|עכשיו המלך אמור לנהל אותם ולמעשה הוא
+922|55:35|קובע הכל. כמו שאמר פרעה
+923|55:40|ליוסף,
+924|55:45|אתה תהיה על ביתי ועל פיך אישה כל עמי.
+925|55:49|ואחרי זה באה גם הגדרה.
+926|55:52|ובלעדיך לא ירים איש את ידו ואת רגלו בארץ
+927|55:57|מצרים
+928|55:59|בלדיך. זאת אומרת אני נותן לך את כל
+929|56:02|סמכויות המלך וסמכויות המלך הם לקבוע מי
+930|56:05|מרים את היד ומי לא מרים את היד. כל דבר
+931|56:09|נקבע על פי המלך. עכשיו אם למלך הזה יש 10
+932|56:13|מיליון אנש עבדים והוא צריך להחליט בשביל
+933|56:17|כל אחד מהם מתי הוא מרים את היד ומתי הוא
+934|56:19|מוריד את היד אז המלך לא יספיק לעשות שום
+935|56:21|דבר בחיים וגם 24 שעות ביממה לא יספיקו
+936|56:25|כדי שהוא יתן הנחיות לכל אחד תרים את היד
+937|56:27|תוריד את היד תעשה ככה אל תעשה כך
+938|56:30|מה עושה המלך המלך לוקח קבוצה לא גדולה
+939|56:36|מתוך 10 מיליון עבדיו נגיד הוא יקח קבוצה
+940|56:39|של איזה 30
+941|56:41|אנשים
+942|56:44|וימנה אותם לשרים.
+943|56:47|שרים על מי? על יתר האזרחים.
+944|56:50|הם לא שרים ביחס אליו. הם נשארים עבדים
+945|56:54|שלו.
+946|56:56|יש לו 10 מיליון עבדים אבל עכשיו הוא לוקח
+947|56:59|30 מהם. הוא משאיר אותם ביחס אליו אל המלך
+948|57:03|כעבדים אבל הוא נותן להם סמכויות ביחס לכל
+949|57:08|10ה המיליון חסר ה-30 האלה כאשר הוא ממנה
+950|57:13|אחד לשר השיכון ואחד לשר התקשורת ואחד לשר
+951|57:18|החקלאות ואחד לשר הבינוי
+952|57:23|הוא נותן להם סמכויות לעבדים שלו מבחינתו
+953|57:26|של המלך הם נשארים עבדים
+954|57:29|מבחינת טם של יתר האזרחים.
+955|57:33|מהרגע שהמלך נתן ל30 האלה את הסמכויות
+956|57:37|שלהם,
+957|57:40|הם נחשבים מבחינתם של יתר האזרחים למלך
+958|57:45|בתחום הזה, כי הוא נותן להם את סמכות המלך
+959|57:49|בתחום שהוא הפקיד אותם עליהם. זה נקרא עבד

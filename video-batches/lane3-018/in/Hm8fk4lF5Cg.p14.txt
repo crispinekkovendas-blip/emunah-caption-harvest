@@ -1,0 +1,64 @@
+videoId: Hm8fk4lF5Cg
+parte 15 de 34 · traduzir as linhas 560 a 599 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O que é a santidade: "Kedoshim tihiyu
+RESUMO: O rabino Yinon Kalazan parte de Vaikra 19:2, "Kedoshim tihiyu ki kadosh ani HaShem Elokeichem", e cita o Midrash Rabá: a santidade de HaShem está acima da nossa, por isso o povo não pode ser santo como Ele. Define kadosh como separação para o alto (o exemplo da lata entre sete latas e o do Shabat entre os dias), com Rabi Yitzchak Abravanel em Yeshayahu e Rabeinu Bechaie, e liga a impureza (tuma) à raiz de "atum", a matéria fechada em si mesma. Mostra pelos versículos de Vaikra 20:7-8, Bamidbar 15:39-40 e Shemot 19:3-8 que a santidade vem de guardar as mitsvot, e explica a bênção "asher kidshanu bemitsvotav", com o jogo mitsave/metsuve e gufe/neshamá. Com o princípio "eved melech kamelech" (Talmud) e o Ramchal em Adir BaMarom, que cita o Zohar sobre "asher bara Elokim la'asot", ensina que, se o corpo serve à alma, ele recebe a eternidade, o que chama de ressurreição dos mortos, e que, se a alma serve ao corpo, vem o karet. Conclui que o povo de Israel, ao santificar a matéria, fica acima até dos anjos.
+MOMENTOS: 00:45 Início da parashá Kedoshim e Vaikra 19:1-2 · 02:51 Midrash Rabá: a minha santidade está acima da sua · 03:52 Kadosh é separado para o alto: a metáfora das latas · 06:47 Santos em relação a quê: as nações do mundo · 09:40 Os kedoshim no Kedushá e os anjos · 14:10 Santidade pelas mitsvot: Vaikra 20:7-8 e Tsitsit · 16:40 Abravanel: tuma como matéria fechada em si mesma · 24:57 A proposta do Monte Sinai: Shemot 19 · 32:49 "Asher kidshanu bemitsvotav" e mitsave/metsuve · 52:21 Fazer uma mitsvá é ressuscitar os mortos · 54:09 Eved melech kamelech e a escolha entre corpo e alma · 1:14:12 Ramchal e o Zohar: o ser humano completa a criação · 1:18:55 Israel mais santo que os anjos
+FONTES CITADAS: 00:47 Vaikra 19:1-2 · 02:54 Vaikra Rabá 24 · 08:37 Shemuel I 2:1-2 · 09:30 Amidá, terceira bênção (Atá Kadosh) · 12:39 Bereshit 2:7 · 14:10 Vaikra 20:7-8 · 15:40 Bamidbar 15:37-41 (Tsitsit, terceiro trecho do Shemá) · 16:40 Abravanel em Yeshayahu 6:3 · 17:50 Vaikra 11:44 · 18:44 Raiz de tuma (tet-mem-alef) e atum · 23:32 Rabeinu Bechaie em Vaikra 19:2 · 24:57 Shemot 19:1-6 · 25:32 Shemot 19:5-6 · 26:55 Bereshit 1:26 · 30:42 Shemot 19:7-8 · 32:38 Bênção das mitsvot · 40:18 Midrash sobre a Torá oferecida às nações · 42:32 Shemot 19:8 · 50:40 Jogo de letras chomer e ruach · 54:12 Dito talmúdico: eved melech kamelech · 55:40 Bereshit 41:40,44 · 1:10:40 Karet (Rambam, Hilchot Teshuvá) · 1:13:00 Bamidbar 15:40 · 1:13:33 Ramchal, Adir BaMarom (citando o Zohar) · 1:13:53 Bereshit 2:1-3 · 1:15:00 Zohar sobre os 613 mandamentos e os 248 membros e 365 tendões · 1:17:33 Elokai Neshamá
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+548|32:43|קידשנו במצוותיו
+549|32:49|שאלנו
+550|32:51|קדושים תהיו. איך עושים את זה? איך נהיים
+551|32:53|קדושים? התשובה
+552|32:56|במצוותיו.
+553|32:57|אשר קידשנו במצוותיו,
+554|33:01|בציוויים, בהנחיות.
+555|33:04|זה מה שעושה אותנו לקדושים. קידשנו
+556|33:07|במצוותיו.
+557|33:10|אז זה יפתח בפנינו עכשיו את הצורך להבין
+558|33:14|את המושג שנקרא מצווה.
+559|33:19|והאפקט של המצווה, אפקט הקדושה של המצווה
+
+LINHAS A TRADUZIR:
+560|33:23|אשר קידשנו במצוותיו.
+561|33:27|המצוות הם המקדשות אותנו. עכשיו בפשטות
+562|33:30|לכאורה מה זה מצווה? מצווה זה ציווי.
+563|33:35|אבל אנחנו מדברים עכשיו על המצווה שהוא
+564|33:37|ריבונו של עולם. ברוך אתה השם אלוקינו מלך
+565|33:40|העולם. הוא המצווה. אתה המצווה. ברוך אתה
+566|33:43|המצווה. אתה השם אלוקינו אשר קידשנו
+567|33:47|במצוותיו בציוויים שלך
+568|33:52|בהנחיות ובביצוע שלנו את ההנחיות האלה
+569|33:55|אנחנו מתקדשים אשר קידשנו במצוותיו
+570|33:59|אז בואו ננסה להבין איך זה עובד ולמה זה
+571|34:02|כזה דבר טוב
+572|34:07|אז ככה
+573|34:09|כדי
+574|34:12|את המילה מצווה
+575|34:15|מצווה זה יחיד, רבים זה מצוות.
+576|34:20|אני כתבתי כאן, כמו שאתם רואים, את המילה
+577|34:22|מצוות עם דבל ו עם שני וים. א מכיוון שאם
+578|34:28|אתה כותב את זה מצת, זה יכול להיות מצות
+579|34:31|ואפשר לחשוב שזה קשור לפסח. אז לכן כתבתי
+580|34:35|את זה בו ובעולם
+581|34:39|הוא ונוסף בפני עצמו. מצוות.
+582|34:47|עכשיו, כדי להבין איך פועל עניין המצווה,
+583|34:51|בואו ניקח את המילה מצוות כשהיא כתובה עם
+584|34:54|חמש אותיות. מ צו ת ונרחיק את המיתר
+585|35:01|ארבעת האותיות. נקבל את המילה צוות.
+586|35:06|צוות.
+587|35:09|מצווה זה צוות.
+588|35:11|אבל היו ויש פה שני וים יש פה שני צבטים
+589|35:16|שני דברים נדרשים
+590|35:19|שני דברים באופן בסיסי נדרשים
+591|35:21|כדי לקיים מצווה
+592|35:26|קודם כל
+593|35:28|כדי לקיים מצווה
+594|35:31|צריך מצווה
+595|35:36|כדי לקיים מצווה צריך קודם כל הכרה בקיומו
+596|35:39|של מצווה
+597|35:42|צריך מצווה,
+598|35:44|צריך
+599|35:46|מצווה את זה שמצווים אותו

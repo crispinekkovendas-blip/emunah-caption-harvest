@@ -1,0 +1,64 @@
+videoId: P9yoql-gaSs
+parte 15 de 17 · traduzir as linhas 560 a 599 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashá Devarim: o mussar de Moshe e a data do discurso
+RESUMO: O Rav Meir Eliyahu parte da pergunta do Ben Ish Chai sobre Devarim 1:1-3: por que a Torá registra aqui a data (primeiro de Shvat, no 40o ano) e por que diz que Moshe falou "conforme tudo que Adonai lhe ordenou", se tudo na Torá vem d'Ele. Ele mostra, com o Zohar e a história de Korach, que Moshe era "homem de Elokim", meio anjo, e que a Shechiná cumpria o que ele decretava, e daí passa ao mérito de Yocheved, cuja tzniut produziu Moshe, Aharon e Miriam, com apelos à modéstia e à vigilância dos filhos. A resposta do Ben Ish Chai é que Moshe, a poucos dias da morte, queria afastar a suspeita de que o mussar servia à própria honra, e que depois de ser punido em Mei Meriva ("Shim'u na hamorim") ele só voltou a repreender porque agora era ordem divina, como no Midrash da pérola que parecia brasa. Em seguida o rabino explica o gaguejar de Moshe (a brasa que purificou sua boca do leite das egípcias, Sotá 12b), a ordem de "Chatzerot ve Di Zahav" em Rashi (Moshe repreendeu primeiro por Korach e Miriam, depois pelo bezerro) e as "setenta línguas" de Rashi em "Hoil Moshe", que ele lê como setenta faces da Torá segundo o Zohar. Termina com a pergunta sobre por que Devarim 1:36 cita Calev e não Yehoshua, e a resposta de que Calev vence sem ter recebido bênção de Moshe.
+MOMENTOS: 00:29 Pergunta do Ben Ish Chai sobre a data e o "conforme ordenou" · 01:56 Moshe, "homem de Elokim": meio anjo, meio homem · 03:27 Korach: Moshe decreta e a Shechiná cumpre · 04:56 Temor do Céu medido por ser ouvido em casa · 08:39 O mérito de Yocheved: a tzniut · 17:51 Volta à pergunta: mussar sem busca de honra · 21:25 Moshe não precisa de honra: "dentro de um mês eu morro" · 24:37 Mei Meriva: "Shim'u na hamorim" e a punição · 29:36 Midrash: a pérola que parecia brasa · 31:20 Por que Moshe gaguejava: a brasa na boca · 34:01 Chatzerot e Di Zahav: a ordem das repreensões · 36:33 "Hoil": as setenta línguas são setenta faces · 40:03 Por que Calev e não Yehoshua
+FONTES CITADAS: 00:07 Devarim 1:1-3 · 00:54 Devarim 1:3 · 01:56 Tehilim 90:1 · 02:09 Tehilim 113:4 · 02:19 Zohar, Shemot 43a · 02:25 Iyov 1:6 · 03:05 Devarim 33:1 · 03:27 Bamidbar 16:29-30 · 03:51 Zohar sobre Korach · 04:03 Avot 5:6 · 04:24 Berachot 6b · 04:29 Kohelet 12:13 · 04:56 Shabat 23b · 05:08 Moed Katan 9a · 05:44 Shabat 23b · 06:32 Shemot 34:29 · 06:52 Devarim 1:1-34:12 · 08:39 Yoma 47a · 12:09 Shemot 2:1 · 12:15 Zohar sobre Shemot 2:1 · 12:04 Yabia Omer, Even HaEzer · 13:58 Berachot 32a · 15:45 Hakdamat HaZohar 12a, Or Yakar do Ramak · 16:42 Megilá 11a · 16:54 Mishlei 10:1 · 16:59 Zohar, história de Rabi Yossi e o carregador árabe · 21:25 Rashi em Bava Kama 62a · 23:30 Bava Batra 74a · 24:04 Sanhedrin 65b · 24:43 Bamidbar 20:10 · 25:36 Midrash sobre as falhas de Moshe · 28:41 Devarim 31:29 · 29:03 Devarim 1:3 · 29:36 Midrash da pérola e da brasa · 30:30 Bamidbar 20:12 · 30:59 Shemot 4:10 · 31:30 Derech Eretz Zuta, último capítulo · 32:51 Sotá 12b · 33:19 Rabi Chida sobre o gaguejar de Moshe · 33:51 Devarim 1:1 · 34:01 Rashi em Devarim 1:1 · 35:48 Bamidbar 12:1-2 · 36:33 Devarim 1:5 · 36:42 Zohar sobre Hoil Moshe · 36:44 Rashi em Devarim 1:5 · 39:03 Zohar, Vayikrá 21a · 39:45 Devarim 1:36 · 40:20 Midrash sobre Calev · 40:33 Bamidbar 13:30 · 41:44 Sanhedrin 17a · 42:02 Bamidbar 13:16 · 42:46 Sotá 34b · 43:23 Makot 23b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+548|35:57|אמרה, מה?
+549|35:59|וכי רק במשה דיבר השם?
+550|36:02|אלא גם אנחנו, ותדבר מרים במשה על אודות האישה המקושית אשר לקח כי אישה קושית לקח, מיד ראה
+551|36:07|שהם עדיין מקבלים את המוסר.
+552|36:09|למה?
+553|36:09|כי המוסר היה על אחרים, על קורח, על מרים, לא עליכם, לא עליכם.
+554|36:14|ראה שמוסר בעקיפין הם מקבלים, אמר בואו ניקח אותם עוד שלב, ניתן מוסר עליכם.
+555|36:20|אתם עבדתם עגל, ודי זהב, וקיבלו ממנו.
+556|36:24|ולכן שינת הסדר קודם כל מתחיל ברך, אחר כך באה אל היותר קשה.
+557|36:30|זה מה שאמר, בחצרות ודי זהב.
+558|36:33|הואיל משה באר את התורה הזאת, מה זה הואיל?
+559|36:36|הואיל אותיות אליהו, אליהו לעתיד לבוא, מגיע עם משה רבנו, אומר הזוהר, ושניהם
+
+LINHAS A TRADUZIR:
+560|36:42|עתידים לבאר את התורה הזאתי.
+561|36:44|רש"י פירש, הואיל משה בשבעים לשון.
+562|36:49|מה פתאום הוא מפרש להם את התורה בשבעים לשון?
+563|36:52|התחיל לדבר איתם ספרדית, בואנו, הולה, בלה, אסתא, אספניאו, ג'וינטנדו, ג'וינטנדו, ג'וינטנדו,
+564|36:57|ג'וינטנדו.
+565|36:59|נתחיל אחרי זה להסביר להם באנגלית In the beginning הקדוש ברוך הוא קריאט אול די
+566|37:04|יוניברס נו כל פעם התחילה כל התורה כולה בשבעים
+567|37:10|לשון מה זה?
+568|37:12|איך עשה את זה?
+569|37:13|בשביל מה הם צריכים את זה?
+570|37:15|למה הם העבדים שבאו ממצרים מהם הפקולטה למשפטים למדו צרפתית?
+571|37:19|מה למדו?
+572|37:20|לא סיפרתי לכם פעם שפעם הייתי בדרשה בארצות הברית הזו זה מישהו אמר לי וואו הרב איזה דרשה
+573|37:26|אשריך אז עמד לידו איזה אמריקאי אחד שאל אותי הרב הוא לא מבין איך אומרים
+574|37:31|אשריך איך אומרים אשריך באנגלית אמרתי לו אשריך אשריך זה באנגלית
+575|37:37|אז אני יודע איך good for you אשריך בכל מקרה משה רבנו מבאר להם את כל
+576|37:43|התורה כולה בכל השבעים לשון איזה צורך יש בזה בכלל אני לא
+577|37:49|מבין איך למדתם רשי מה הבנתם מה הבנתם כשהוא סיפר להם את זה בשבעים לשון מה הבנתם
+578|37:56|משה חוץ מסוכריות, מה הבנתם?
+579|37:59|כשלמדת את הרש"י הזה על הפרשה, מה הבנת?
+580|38:03|שבעים לשונות דיבר משה רבנו.
+581|38:06|יעני, הוא היה מהסנהדרין, צריך ללמוד שבעים שפות.
+582|38:08|עדיין לא היה שפות, לא היה צרפתית, אנגלית, זו שפה מבולגנת שהמציאו אותה אחר כך על סמך כמה
+583|38:14|ג'יברישים של בריטית ועוד ג'יברישים של אותו זמן.
+584|38:18|לא משנה, את השבעים שפות הבסיסיות הם למדו.
+585|38:22|הוא למד, משה.
+586|38:23|לא משנה שלא היה צריך את זה כל כך, כי כל הדין ודברים היה רק האנשים האלה במדבר.
+587|38:27|לא בא אליו איזה מישהו מצרפת למדבר סיני ואמר לו, משה,
+588|38:34|יש לי דין דברים איתך.
+589|38:36|לא היה לו כאלה, לא היה.
+590|38:38|אז הוא למד אבל שבעים לשון.
+591|38:39|אמר את כל השבעים לשון, את כל התורה כולה ביאר בשבעים לשון.
+592|38:43|מה יש צורך בזה?
+593|38:45|אה, משה, איך הבנת?
+594|38:46|שמאי, איך הבנת?
+595|38:49|דברים גבוהים.
+596|38:49|דברים גבוהים בקבלה.
+597|38:51|הכי טוב בקבלה, הכי טוב, לא צריך לתאמץ הרבה, בקבלה זה תמיד עובד.
+598|38:58|אלא, אולי זה לא כל כך קבוע, זה באמת בקבלה.
+599|39:03|זוהר בוא, דף מ"א, זוהר ויקרא דף כ"א, הזוהר כותב שבבטן

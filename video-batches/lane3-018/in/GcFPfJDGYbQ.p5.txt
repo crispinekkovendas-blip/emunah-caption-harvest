@@ -1,0 +1,64 @@
+videoId: GcFPfJDGYbQ
+parte 6 de 29 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Chametz no altar: o Korban Todá e o Yetzer HaRá
+RESUMO: O rabino parte de Vayikrá 7:11-13, em Parashat Tzav, o Shabat HaGadol: o Korban Todá é o único sacrifício individual trazido com chalot de chametz, e o único outro é o Shtei HaLechem de Shavuot. Com Rashi e a Guemará em Berachot, explica os quatro que devem agradecer (os que descem ao mar, os que cruzam desertos, os presos e o doente curado), retirados do Tehilim 107, o salmo de Pessach. Mostra a diferença entre chesed e din. Contrasta com Vayikrá 2, onde nenhuma oferenda de farinha pode ser chametz nem mel no altar, e fala da proibição do chametz no lugar (o Mizbeach) e no tempo (Pessach), com a pena de karet. Com o Ramchal no Maamar HaChochmá, o maror, o Korban Pessach e a matzá preparam o corpo, e a matzá é alimento sem yetzer hará, enquanto o chametz é o se'or, o yetzer hará. Com o Maharal em Tiferet Yisrael (Kidushin 30b), a Torá é o tempero que domina o yetzer hará, por isso o Shtei HaLechem é chametz, e o Korban Todá pode trazê-lo porque o yetzer hará foi neutralizado pelo perigo vivido.
+MOMENTOS: 00:07 Parashat Tzav e Shabat HaGadol · 01:07 Vayikrá 7:11-13: Korban Todá com chametz · 03:29 Único sacrifício com chametz, além de Shavuot · 04:10 Modim e o agradecimento a HaShem · 06:00 Rashi: os quatro que devem agradecer · 11:04 A fonte em Berachot e o Tehilim 107 · 12:20 Chesed e din no Hodu LaHaShem ki tov · 18:22 As quatro categorias dentro do salmo · 30:00 Vayikrá 2: nenhuma oferenda de farinha é chametz · 34:42 Chametz proibido no lugar e no tempo · 37:48 Ramchal: maror, Pessach e matzá · 49:06 Matzá como yetzer tov, chametz como yetzer hará · 55:04 Maharal: a Torá como tempero do yetzer hará · 1:03:03 Por que o Shtei HaLechem e o Todá trazem chametz
+FONTES CITADAS: 01:09 Vayikrá 7:11-13 · 06:03 Rashi em Vayikrá 7:12 · 09:34 Tehilim 107:8, 107:22 · 11:07 Berachot 54b · 10:15 Tehilim 107:1 · 11:56 Tehilim 107:2-3 · 11:56 Mizmor de Pessach, Tehilim 107 · 17:33 Shemot 6:6 · 18:55 Tehilim 107:4-9 · 19:57 Tehilim 107:10-16 · 22:28 Tehilim 107:17-22 · 24:13 Tehilim 107:23-32 · 25:17 Tehilim 107:33-42 · 26:26 Tehilim 107:43 · 27:21 Mishná, Menachot 5:1 · 29:10 Vayikrá 2:1-3 · 30:00 Vayikrá 2:4-5 · 30:36 Vayikrá 2:7-10 · 30:49 Vayikrá 2:11 · 31:11 Vayikrá 2:12 · 36:41 Vayikrá 23:15-17 · 37:48 Ramchal, Maamar HaChochmá, Seder Leil Pessach · 39:26 Bereshit 2:7 · 40:25 Shemot 1:14 · 42:19 Shemot 24:7 · 44:03 Ramchal, Maamar HaChochmá, os quatro pilares do Seder · 46:54 Shemot 12:21 · 47:39 Haggadá de Pessach, Rabban Gamliel · 47:49 Ramchal, Maamar HaChochmá, a matzá · 55:04 Maharal, Tiferet Yisrael, cap. 25 · 55:11 Devarim 11:18 · 55:21 Kidushin 30b · 56:19 Midrash sobre o pai que golpeia o filho e põe uma atadura · 58:02 Midrash sobre o yetzer hará e a Torá como tempero · 58:57 Bereshit 4:7 · 1:03:04 Sucá 52a
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|11:04|רש"י זה גמרא במסכת ברכות
+189|11:07|אמר רב יהודה אמרב ארבעה צריכים להודות
+190|11:10|יורדי הים הולכי מדברות מי שהיה חולה
+191|11:13|ונתרפא ומי שהיה חבוש בבית האסורים ויצא
+192|11:20|הגמרא שם בנ"ד עמוד בברכות מביאה ראיה לכל
+193|11:25|אחד מארבעה האלה וכל כולם מוזכרים בפרק
+194|11:29|ק"ז
+195|11:31|בספר תהילים
+196|11:34|עכשיו אני מניח שזה תלוי במנהגים שונים של עידות
+197|11:38|שונות,
+198|11:40|אבל אם אתם יודעים, לכל אחד משלושת הרגלים
+199|11:43|יש מזמור
+
+LINHAS A TRADUZIR:
+200|11:46|שאומרים אותו בכניסת החג.
+201|11:50|המזמור של פסח
+202|11:53|הוא מזמור קז בתהילים. הודו להשם כי טוב
+203|11:56|כי לעולם חסדו יאמרו גאולי השם אשר גאלהם
+204|11:59|מיצר. כך נוהגים בוודאות אני יודע התימנים
+205|12:04|נדמה לי שגם הספרדים
+206|12:07|ואני לא בטוח בעניין הזה אבל יכול להיות
+207|12:09|שגם האשכנזים שמתפללים בנוסח החסידי בנוסח
+208|12:12|ספרד גם כן אומרים את זה בכל מקרה
+209|12:16|המזמור הזה הוא מזמור הוא המזמור של חג
+210|12:20|הפסח בגלל המילים הראשונות שמה יאמרו
+211|12:24|גאולי השם
+212|12:26|וממצרים יצאנו גאולים וגאלתי אתכם ולכן זה
+213|12:30|המזמור של החג. אז לכן באופן מאוד מעניין
+214|12:34|יש לנו פה התייחסות ברשי ובגמרא על הפסוק
+215|12:39|בפרשת השבוע שתמיד נקראת פרשת צו לפני
+216|12:43|פסח. אז עוד הזדמנות נהדרת ככה עכשיו
+217|12:47|ללמוד את המזמור הזה. אני לא נלמד את כל
+218|12:49|המזמור אבל את עיקרי הדברים. בואו נראה את
+219|12:51|המזמור הזה. הוא מזמור יחסית לא קצר. זאת
+220|12:54|אומרת יש בו 43
+221|12:57|פסוקים. אה,
+222|13:00|לא נקרא את כולם, אבל את עיקרי הדברים.
+223|13:02|בואו נראה הנה המזמור
+224|13:05|בתהילים. קז.
+225|13:08|הודו להשם כי טוב, כי לעולם חסדו. אז קודם
+226|13:12|כל בואו ננתח את המשפט הזה. זה המשפט
+227|13:14|שחוזר על עצמו בכמה מזמורים בתהילים. הודו
+228|13:17|להשם כי טוב, כי לעולם חסדו.
+229|13:20|מה זה אומר? יש הבדל בין חסד לבין דין.
+230|13:23|הזכרנו את זה הרבה פעמים כשדיברנו על
+231|13:25|המידות השונות, על צורות ההנהגה, חסד, דין
+232|13:28|רחמים, אז יש הבדל בין חסד לבין דין. דין
+233|13:32|זה שהדברים מחוייבים
+234|13:35|מצד הדין. זאת אומרת, ניתן דוגמה, אני
+235|13:37|הולך למכולת ואני לוקח מוצרים וכשאני יוצא
+236|13:42|אני משלם.
+237|13:44|פירוש המילים בעברית. המילה לשלם
+238|13:49|זה להשלים.
+239|13:51|להשלים את החיסרון

@@ -1,0 +1,64 @@
+videoId: GcFPfJDGYbQ
+parte 22 de 29 · traduzir as linhas 840 a 879 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Chametz no altar: o Korban Todá e o Yetzer HaRá
+RESUMO: O rabino parte de Vayikrá 7:11-13, em Parashat Tzav, o Shabat HaGadol: o Korban Todá é o único sacrifício individual trazido com chalot de chametz, e o único outro é o Shtei HaLechem de Shavuot. Com Rashi e a Guemará em Berachot, explica os quatro que devem agradecer (os que descem ao mar, os que cruzam desertos, os presos e o doente curado), retirados do Tehilim 107, o salmo de Pessach. Mostra a diferença entre chesed e din. Contrasta com Vayikrá 2, onde nenhuma oferenda de farinha pode ser chametz nem mel no altar, e fala da proibição do chametz no lugar (o Mizbeach) e no tempo (Pessach), com a pena de karet. Com o Ramchal no Maamar HaChochmá, o maror, o Korban Pessach e a matzá preparam o corpo, e a matzá é alimento sem yetzer hará, enquanto o chametz é o se'or, o yetzer hará. Com o Maharal em Tiferet Yisrael (Kidushin 30b), a Torá é o tempero que domina o yetzer hará, por isso o Shtei HaLechem é chametz, e o Korban Todá pode trazê-lo porque o yetzer hará foi neutralizado pelo perigo vivido.
+MOMENTOS: 00:07 Parashat Tzav e Shabat HaGadol · 01:07 Vayikrá 7:11-13: Korban Todá com chametz · 03:29 Único sacrifício com chametz, além de Shavuot · 04:10 Modim e o agradecimento a HaShem · 06:00 Rashi: os quatro que devem agradecer · 11:04 A fonte em Berachot e o Tehilim 107 · 12:20 Chesed e din no Hodu LaHaShem ki tov · 18:22 As quatro categorias dentro do salmo · 30:00 Vayikrá 2: nenhuma oferenda de farinha é chametz · 34:42 Chametz proibido no lugar e no tempo · 37:48 Ramchal: maror, Pessach e matzá · 49:06 Matzá como yetzer tov, chametz como yetzer hará · 55:04 Maharal: a Torá como tempero do yetzer hará · 1:03:03 Por que o Shtei HaLechem e o Todá trazem chametz
+FONTES CITADAS: 01:09 Vayikrá 7:11-13 · 06:03 Rashi em Vayikrá 7:12 · 09:34 Tehilim 107:8, 107:22 · 11:07 Berachot 54b · 10:15 Tehilim 107:1 · 11:56 Tehilim 107:2-3 · 11:56 Mizmor de Pessach, Tehilim 107 · 17:33 Shemot 6:6 · 18:55 Tehilim 107:4-9 · 19:57 Tehilim 107:10-16 · 22:28 Tehilim 107:17-22 · 24:13 Tehilim 107:23-32 · 25:17 Tehilim 107:33-42 · 26:26 Tehilim 107:43 · 27:21 Mishná, Menachot 5:1 · 29:10 Vayikrá 2:1-3 · 30:00 Vayikrá 2:4-5 · 30:36 Vayikrá 2:7-10 · 30:49 Vayikrá 2:11 · 31:11 Vayikrá 2:12 · 36:41 Vayikrá 23:15-17 · 37:48 Ramchal, Maamar HaChochmá, Seder Leil Pessach · 39:26 Bereshit 2:7 · 40:25 Shemot 1:14 · 42:19 Shemot 24:7 · 44:03 Ramchal, Maamar HaChochmá, os quatro pilares do Seder · 46:54 Shemot 12:21 · 47:39 Haggadá de Pessach, Rabban Gamliel · 47:49 Ramchal, Maamar HaChochmá, a matzá · 55:04 Maharal, Tiferet Yisrael, cap. 25 · 55:11 Devarim 11:18 · 55:21 Kidushin 30b · 56:19 Midrash sobre o pai que golpeia o filho e põe uma atadura · 58:02 Midrash sobre o yetzer hará e a Torá como tempero · 58:57 Bereshit 4:7 · 1:03:04 Sucá 52a
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|49:47|אסור
+829|49:49|שיהיה שעור
+830|49:51|מעורב בתוך המים והקמח
+831|49:55|אם יש רק מים וקמח
+832|50:01|ולא נותנים לבצק להחמיץ, זאת אומרת מאבדים
+833|50:04|אותו במשך 18 דקות
+834|50:10|אז הוא לא יחמיץ וזה נקרא מצה אז מה יש לי
+835|50:12|בסוף אחרי אחרי התהליך יש מצה שמורכבת
+836|50:17|ממים
+837|50:19|וחיטה וקמח קמח תחום חיטה
+838|50:24|תבואה
+839|50:25|חיטה תכונה שהיא קמח עם המים.
+
+LINHAS A TRADUZIR:
+840|50:32|החמץ
+841|50:34|מה שמחמיץ אותו זה השאור. השאור זה דבר
+842|50:38|נוסף,
+843|50:40|זה דבר שלישי שמתערב בתוך
+844|50:45|המצה, בתוך הקמח והמים. וזה מה שעושה.
+845|50:49|עכשיו, השיעור הזה הוא הדבר שנקרא יצר
+846|50:52|הרע. זאת אומרת בדימוי
+847|50:55|יצר הרע
+848|50:57|משול לשעור. מה עושה השאור? מטפיח את
+849|51:01|הבצק.
+850|51:04|מטפיח את הבצק. נותן לו חשיבות או מנפח
+851|51:08|אותו. מנפח אותו.
+852|51:11|וזה הדבר הזר.
+853|51:18|הערכנו בזה המון בשיעורים אחרים שדיברנו
+854|51:20|על סוד החמץ והמצה. מי שמעניין אותו הנושא
+855|51:24|זה מאוד מעניין לקראת פסח אז אפשר לשמוע
+856|51:26|שיעורים שניתנו בשנים שעברו על סוד החמץ
+857|51:29|והמצה בכל מקרה יצר הרע זה השיעור המצה זה
+858|51:35|המים והקמח
+859|51:37|אני אומר עוד משהו תראו האדם בנוי מגוף
+860|51:39|ומנשמה זה שני מרכיבים גוף ונשמה
+861|51:45|אז הגוף והנשמה זה הקמח והמים
+862|51:52|יצר הרע זה דבר שלישי שכשמכניסים אותו
+863|51:56|לתוך הגוף אז הכל מתנפחות
+864|52:01|של האגו
+865|52:03|זה הדבר השלישי ולכן הוא עושה פה שינוי
+866|52:07|בצירוב של שני המרכיבים האלה של
+867|52:12|הקמח והמים השינוי הזה זה היצר הרע
+868|52:17|לכן מסביר פה הרמח"ל על פי דברים שמתוארים
+869|52:22|בעומק, מבוארים בעומק בתורת הסוד
+870|52:27|שבמשך
+871|52:28|שבעת הימים האלה אנחנו ניזונים רק
+872|52:34|מה
+873|52:37|קמח והמים שאגב הם יצירה אלוקית. הקדוש
+874|52:42|ברוך הוא ברא את המים. הקדוש ברוך הוא ברא
+875|52:43|את התבואה ואת הקמח. השאור זה כבר כביכול
+876|52:49|תחכום אנושי
+877|52:52|שלקחת מוצרים כמובן שהקדוש ברוך הוא עשה
+878|52:54|אבל להחמיץ אותם בכוונה כדי להשפיע על
+879|52:58|ההרכב של הצירוף של המים והקמח

@@ -1,0 +1,64 @@
+videoId: i_Mswjw-dsM
+parte 6 de 23 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zohar Mishpatim: Amá, Shifchá e a Bat Yechidá
+RESUMO: O rabino conclui o comentário do Ramchal ao Maamar Saba de Mishpatim, no Zohar, que distingue almas chamadas "amá" e "shifchá" da alma "bat melech" (bat yechidá), ligada à Shechiná. Com base em Shemot 21:7 ("E quando um homem vender..."), explica que "ish" pode ser HaShem, "HaShem ish milchamá", ou um anjo como Gavriel, "o homem Gavriel" (Daniel). Segundo o Zohar, a bat melech pode descer em um corpo "estrangeiro" por gilgul, mas "meu Kavod a outro não darei" (Yeshayahu 42:8) a protege de ser entregue às kelipot de Sitra Achra. Distingue corpos do lado direito, iluminados pela alma, de corpos do lado esquerdo, que precisam de submissão e sofrimento, e lembra que o Ramchal em Mesilat Yesharim não dispensa o jejum e a imersão para o baal teshuvá. Passa então à kenesset Yisrael como um todo, em que todos podem alcançar a bat yechidá e a ruach hakodesh (Shemot 21:11, "Lo tetzé kayetziat haavadim"), e fala de Yosef, Yehudá e Tamar. Termina com a história de Natan HaAzati, os yichudim do Ari e a escolha do próximo texto de estudo.
+MOMENTOS: 00:21 Zohar: almas chamadas amá e shifchá · 01:44 Bat melech e os dois sentidos de "ish" · 03:05 Alma que se endividou em gilgul e o corpo nochri · 05:57 O corpo como amá da Shechiná; Metatron · 09:16 Shifchá: almas baixas na klipat Nogah · 11:42 Retorno a "E quando um homem vender" e Hoshea · 14:04 HaShem ish milchamá versus o ish Gavriel · 22:31 Corpos da direita e da esquerda; submissão e teshuvá · 30:41 Bat yechidá que se reveste temporariamente; Yiftach · 34:47 Nogah e o corpo que não é entregue às kelipot · 37:30 Origem das almas e do corpo (Metatron) · 45:37 Kenesset Yisrael e a bat yechidá de todos · 51:27 Yosef, Yehudá e Tamar · 56:03 O corpo recebe a alma por graus · 1:01:03 Pessach, os quatro filhos e Natan HaAzati · 1:06:07 Yichud HaYirá e o próximo estudo
+FONTES CITADAS: 00:21 Zohar, Mishpatim, Maamar Saba · 00:47 Shemot 21:7 · 02:21 Shemot 15:3 · 02:35 Daniel 9:21 · 02:38 Bereshit 37:15 · 03:05 Zohar, Mishpatim, Maamar Saba · 04:32 Yeshayahu 42:8 · 05:18 Vayikrá 25:23 · 07:11 Zohar sobre Metatron · 09:21 Zohar, Mishpatim, Maamar Saba · 11:54 Hoshea 2:18 · 24:41 Yom Kipur, jejum · 24:54 Yeshayahu 42:8 · 27:58 Ramchal, Mesilat Yesharim · 28:09 Mishlei 5:9 · 30:41 Shofetim 11 · 38:21 Bereshit 24 · 39:31 Zohar, Vayechi · 45:23 Shemot 21:7 · 46:12 Ramchal, Mesilat Yesharim, cap. 26 · 47:29 Shemot 21:11 · 48:05 Yeshayahu 52:12 · 48:11 Zohar, Maamar Saba · 49:24 Elokai Neshamá · 50:47 Chaguigá 13a · 52:36 Bereshit 39 · 53:28 Shabat 56a · 54:14 Tehilim 32:2 · 1:01:03 Haggadá de Pessach · 1:02:34 Shemot 17:7 · 1:03:09 Shemot 12:26 · 1:04:25 Ari HaKadosh, yichudim · 1:06:07 Ramchal, Yichud HaYirá
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|14:22|‫כבר כאילו פוטרים אותה מכמה דברים.
+189|14:24|‫אישה, אתה פוטר אותה מהרבה דברים.
+190|14:26|‫למה?
+191|14:26|‫בגלל שיש לה בעל, יש לה ילדים, ‫אבל יותר נכון, ‫בגלל שיש לה ילדים.
+192|14:31|‫גם אם אין לה ילדים, ‫אז היא פטורה.
+193|14:33|‫לפלוג יש לה או אין לה ילדים.
+194|14:39|‫למה היא פטורה מתפילה?
+195|14:40|‫למה פטורה מהמצוות שהזמן גרמה?
+196|14:42|‫בגלל שהזמן שלה, כאילו...
+197|14:45|‫מה זה אדם עובד?
+198|14:46|‫עובד, הוא הזכיר את הזמן שלו.
+199|14:51|‫הזמן שלו, הוא לא שלך.
+
+LINHAS A TRADUZIR:
+200|14:53|‫הזמן שלך, כשאתה עובד, ‫זה לא שלך.
+201|14:57|‫אני מדבר נטו, כמו שמזוכים, ‫במסגרת השארים גם כן את העניין
+202|15:02|‫שלא היו עונים אפילו שלום ‫בעת העבודה.
+203|15:06|‫למה הוא יגנוב זמן למעביד אותו, כן.
+204|15:15|מה זה אישי?
+205|15:16|אישי הוא השורש שנותן את הנשמה בעולם הזה.
+206|15:21|והנה גם הוא, הוא זה המשלח, אבל הוא זה שנותן, עושה את הנשמה.
+207|15:26|אבל לפעמים זה לא הקדוש ברוך הוא, תהיינו הקדוש ברוך הוא, כמובן למה
+208|15:33|הוא היוצר כל, הוא האדון כל הנשמות וכולי,
+209|15:39|אבל הוא מתלבש, כמו שראינו, מתלבש.
+210|15:44|היא בלי התלבשות, אבל כשהיא בלי התלבשות, זה בת יחידה.
+211|15:48|אבל היא מתלבשות, המשלח אותה הוא שורש בלתי מתלבש.
+212|15:54|כלומר, כשזה בת יחידה, אז מי ששולח את הנשמה, זה ישיר.
+213|15:59|כמו שכתוב כאן בזוה אצלנו, כאן בזוה אדוני איש מלחמה.
+214|16:05|כלומר, השם הוא האיש שמביא את הנשמה שנקראת
+215|16:11|בת יחידה.
+216|16:12|אבל...
+217|16:14|אם הנשמה היא מבחינת עמה או שפחה,
+218|16:19|השורש המשולח הוא מלובש
+219|16:25|במלאכים.
+220|16:25|זאת אומרת, עד אשר היינו מתת, אבל ראינו
+221|16:31|בפסוק שהביא לפני כן בדניאל והאיש גבריאל, גם מלאך
+222|16:37|נקרא איש.
+223|16:38|וסוד זה האמת, האבי, הקדוש אומר, בעת הזיווג,
+224|16:44|הזום, גם כן מתחברים למעלה בעת הזיווג,
+225|16:50|והנשמה באה מצד הזיווג הזה, די הוא של זר, הקדוש הולכו, כביכול, הוא
+226|16:56|זה שנותן.
+227|17:02|כי נקרא כך, ואיל גבריאל, כי נקרא כך, גבריאל, על שם
+228|17:08|השורש מלובש בו, גברי, ‫אין, כלומר, האל מנובש בו.
+229|17:12|‫והאמת, השורש הזו מצד הגבורה.
+230|17:18|‫המכניע עשה.
+231|17:21|‫לא יודע, אפשר לומר שגם ‫לשמעאלים יש להם,
+232|17:26|‫גם כן מזכירים שהגב ‫התגלה אליה המלאך.
+233|17:32|‫תהיינו גבריאל.
+234|17:32|‫גם אנחנו, ‫כלומר, זה השורש הוא אצלנו, ‫זה גבריאל, אצלם
+235|17:38|של גבריל, מלאך.
+236|17:42|גבריאל, שעה, גבריל, אבל זה גבורה, זה מצד הגבורה,
+237|17:47|ויכול להיות רק עבד,
+238|17:53|שפחה, אגב, שפחתה, היא השכינה, והנה השפחה,
+239|17:59|אבל גם הגילוי

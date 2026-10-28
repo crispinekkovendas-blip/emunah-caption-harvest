@@ -1,0 +1,64 @@
+videoId: GcFPfJDGYbQ
+parte 27 de 29 · traduzir as linhas 1040 a 1079 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Chametz no altar: o Korban Todá e o Yetzer HaRá
+RESUMO: O rabino parte de Vayikrá 7:11-13, em Parashat Tzav, o Shabat HaGadol: o Korban Todá é o único sacrifício individual trazido com chalot de chametz, e o único outro é o Shtei HaLechem de Shavuot. Com Rashi e a Guemará em Berachot, explica os quatro que devem agradecer (os que descem ao mar, os que cruzam desertos, os presos e o doente curado), retirados do Tehilim 107, o salmo de Pessach. Mostra a diferença entre chesed e din. Contrasta com Vayikrá 2, onde nenhuma oferenda de farinha pode ser chametz nem mel no altar, e fala da proibição do chametz no lugar (o Mizbeach) e no tempo (Pessach), com a pena de karet. Com o Ramchal no Maamar HaChochmá, o maror, o Korban Pessach e a matzá preparam o corpo, e a matzá é alimento sem yetzer hará, enquanto o chametz é o se'or, o yetzer hará. Com o Maharal em Tiferet Yisrael (Kidushin 30b), a Torá é o tempero que domina o yetzer hará, por isso o Shtei HaLechem é chametz, e o Korban Todá pode trazê-lo porque o yetzer hará foi neutralizado pelo perigo vivido.
+MOMENTOS: 00:07 Parashat Tzav e Shabat HaGadol · 01:07 Vayikrá 7:11-13: Korban Todá com chametz · 03:29 Único sacrifício com chametz, além de Shavuot · 04:10 Modim e o agradecimento a HaShem · 06:00 Rashi: os quatro que devem agradecer · 11:04 A fonte em Berachot e o Tehilim 107 · 12:20 Chesed e din no Hodu LaHaShem ki tov · 18:22 As quatro categorias dentro do salmo · 30:00 Vayikrá 2: nenhuma oferenda de farinha é chametz · 34:42 Chametz proibido no lugar e no tempo · 37:48 Ramchal: maror, Pessach e matzá · 49:06 Matzá como yetzer tov, chametz como yetzer hará · 55:04 Maharal: a Torá como tempero do yetzer hará · 1:03:03 Por que o Shtei HaLechem e o Todá trazem chametz
+FONTES CITADAS: 01:09 Vayikrá 7:11-13 · 06:03 Rashi em Vayikrá 7:12 · 09:34 Tehilim 107:8, 107:22 · 11:07 Berachot 54b · 10:15 Tehilim 107:1 · 11:56 Tehilim 107:2-3 · 11:56 Mizmor de Pessach, Tehilim 107 · 17:33 Shemot 6:6 · 18:55 Tehilim 107:4-9 · 19:57 Tehilim 107:10-16 · 22:28 Tehilim 107:17-22 · 24:13 Tehilim 107:23-32 · 25:17 Tehilim 107:33-42 · 26:26 Tehilim 107:43 · 27:21 Mishná, Menachot 5:1 · 29:10 Vayikrá 2:1-3 · 30:00 Vayikrá 2:4-5 · 30:36 Vayikrá 2:7-10 · 30:49 Vayikrá 2:11 · 31:11 Vayikrá 2:12 · 36:41 Vayikrá 23:15-17 · 37:48 Ramchal, Maamar HaChochmá, Seder Leil Pessach · 39:26 Bereshit 2:7 · 40:25 Shemot 1:14 · 42:19 Shemot 24:7 · 44:03 Ramchal, Maamar HaChochmá, os quatro pilares do Seder · 46:54 Shemot 12:21 · 47:39 Haggadá de Pessach, Rabban Gamliel · 47:49 Ramchal, Maamar HaChochmá, a matzá · 55:04 Maharal, Tiferet Yisrael, cap. 25 · 55:11 Devarim 11:18 · 55:21 Kidushin 30b · 56:19 Midrash sobre o pai que golpeia o filho e põe uma atadura · 58:02 Midrash sobre o yetzer hará e a Torá como tempero · 58:57 Bereshit 4:7 · 1:03:04 Sucá 52a
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+1028|1:01:40|ומצד התורה נמצא יצר הרע כמו שהוא באר
+1029|1:01:43|קודם לכם במשפטים הקודמים
+1030|1:01:45|ואם לא חן לא היה נמצא מפני שאינו יכול
+1031|1:01:48|לעמוד כנגדו
+1032|1:01:51|עוד מורה עוד מורה זה כי אין צריך להרחיק
+1033|1:01:55|אותו עם התורה זאת אומרת אתה יכול לחיות
+1034|1:01:59|בשלום עם יצר הרע כשיש לך את התורה
+1035|1:02:02|כי אז התורה אומרת לך איך איך לשים את
+1036|1:02:06|הגבולות ליצר הרע. אז לא צריך להרחיק אותו
+1037|1:02:09|לגמרי אלא אפשר שהוא יהיה בשליטה. אם אתה
+1038|1:02:14|נמצא במצב של תורה, דהיינו לומד תורה
+1039|1:02:17|ומקיים את מצוות התורה, התורה נותנת לך את
+
+LINHAS A TRADUZIR:
+1040|1:02:20|הקוד, קוד השליטה על כוחו העצום של יצר
+1041|1:02:25|הרע.
+1042|1:02:28|ולכן המצווה להקריב החמץ ביום מתן תורה.
+1043|1:02:36|מצווה להקריב ביום מתן תורה עם חמץ על
+1044|1:02:39|חלות לחם חמץ א לא זה נאמר בקורבן תודה
+1045|1:02:43|אבל שתי הלחם חמץ תאפנה
+1046|1:02:47|מצווה להקריב החמץ ביום מתן תורה כי אז
+1047|1:02:49|החמץ שמקריבים אותו עם התורה הוא החמץ
+1048|1:02:54|המוגבל בגבולות הראויים ולכן אין סכנה
+1049|1:02:58|שהוא יקח אותך למקום רע
+1050|1:03:03|ועוד רמז בזה מה שאמרו
+1051|1:03:04|כל הגדול מחברו יצרו גדול ממנו כי דיתה
+1052|1:03:06|במסכת סוכה ולכך ראוי שיהיו שני לחמי תודה
+1053|1:03:10|בעצרת חמץ וזהו עיקר הטעם אך צריך אל
+1054|1:03:16|הבנתה הבנת המצווה הזאת חוכמה ועומק מאוד
+1055|1:03:21|בעניין הזה
+1056|1:03:24|ולא כמו שאר קורבנות שאסור להקריב חמץ אל
+1057|1:03:27|המזבח
+1058|1:03:29|עכשיו הוא נוגע בעניין הזה שלמה יש איסור
+1059|1:03:32|שחמץ יגיע אל המזבח כי המזבח זה מקום
+1060|1:03:34|הקרובה כמו שאמרנו הקורבן הקרובה בין
+1061|1:03:37|הקדוש ברוך הוא לבין המקריב האדם ולא כמו
+1062|1:03:40|שאר קורבנות שאסור להקריב חמץ על המזבח כי
+1063|1:03:43|היצר הרע מרוחק מן עבודת השם יתברך
+1064|1:03:47|אבל ביום מתן תורה שהתורה שומרת מיצר הרע
+1065|1:03:50|שאינו מושל באדם אין הרחקה עליו ולפי כך
+1066|1:03:56|היו מביאים שתי הלחם של חמץ בעצרת דווקא
+1067|1:04:00|אוקיי אוקיי,
+1068|1:04:08|אני רק הוסיף כאן כי זה קצת ארוך המרל
+1069|1:04:10|הזה, מעבר למה שנוכל עכשיו לראות. אמ
+1070|1:04:15|אני אוסיף על זה את העניין של קורבן תודה.
+1071|1:04:18|ולא במקרה הרחנו בהתחלה לבאר את אותם
+1072|1:04:21|ארבעה שצריכים להודות.
+1073|1:04:27|אמרנו כן הולכי מדבריות, אסירים, יורדי
+1074|1:04:32|הים
+1075|1:04:35|וחולה שנתרפא.
+1076|1:04:37|בכל המצבים האלה אדם נמצא במקום שהוא מבין
+1077|1:04:41|כמה הוא חסר יש וכמה הוא תלוי בחסדי השם.
+1078|1:04:46|ואם הוא מבין את זה ומכיר בזה ומביא קורבן
+1079|1:04:51|תודה אז קורבן התודה זה יכול לבוא עם חמץ

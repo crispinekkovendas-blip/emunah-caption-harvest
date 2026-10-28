@@ -1,0 +1,64 @@
+videoId: GcFPfJDGYbQ
+parte 8 de 29 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Chametz no altar: o Korban Todá e o Yetzer HaRá
+RESUMO: O rabino parte de Vayikrá 7:11-13, em Parashat Tzav, o Shabat HaGadol: o Korban Todá é o único sacrifício individual trazido com chalot de chametz, e o único outro é o Shtei HaLechem de Shavuot. Com Rashi e a Guemará em Berachot, explica os quatro que devem agradecer (os que descem ao mar, os que cruzam desertos, os presos e o doente curado), retirados do Tehilim 107, o salmo de Pessach. Mostra a diferença entre chesed e din. Contrasta com Vayikrá 2, onde nenhuma oferenda de farinha pode ser chametz nem mel no altar, e fala da proibição do chametz no lugar (o Mizbeach) e no tempo (Pessach), com a pena de karet. Com o Ramchal no Maamar HaChochmá, o maror, o Korban Pessach e a matzá preparam o corpo, e a matzá é alimento sem yetzer hará, enquanto o chametz é o se'or, o yetzer hará. Com o Maharal em Tiferet Yisrael (Kidushin 30b), a Torá é o tempero que domina o yetzer hará, por isso o Shtei HaLechem é chametz, e o Korban Todá pode trazê-lo porque o yetzer hará foi neutralizado pelo perigo vivido.
+MOMENTOS: 00:07 Parashat Tzav e Shabat HaGadol · 01:07 Vayikrá 7:11-13: Korban Todá com chametz · 03:29 Único sacrifício com chametz, além de Shavuot · 04:10 Modim e o agradecimento a HaShem · 06:00 Rashi: os quatro que devem agradecer · 11:04 A fonte em Berachot e o Tehilim 107 · 12:20 Chesed e din no Hodu LaHaShem ki tov · 18:22 As quatro categorias dentro do salmo · 30:00 Vayikrá 2: nenhuma oferenda de farinha é chametz · 34:42 Chametz proibido no lugar e no tempo · 37:48 Ramchal: maror, Pessach e matzá · 49:06 Matzá como yetzer tov, chametz como yetzer hará · 55:04 Maharal: a Torá como tempero do yetzer hará · 1:03:03 Por que o Shtei HaLechem e o Todá trazem chametz
+FONTES CITADAS: 01:09 Vayikrá 7:11-13 · 06:03 Rashi em Vayikrá 7:12 · 09:34 Tehilim 107:8, 107:22 · 11:07 Berachot 54b · 10:15 Tehilim 107:1 · 11:56 Tehilim 107:2-3 · 11:56 Mizmor de Pessach, Tehilim 107 · 17:33 Shemot 6:6 · 18:55 Tehilim 107:4-9 · 19:57 Tehilim 107:10-16 · 22:28 Tehilim 107:17-22 · 24:13 Tehilim 107:23-32 · 25:17 Tehilim 107:33-42 · 26:26 Tehilim 107:43 · 27:21 Mishná, Menachot 5:1 · 29:10 Vayikrá 2:1-3 · 30:00 Vayikrá 2:4-5 · 30:36 Vayikrá 2:7-10 · 30:49 Vayikrá 2:11 · 31:11 Vayikrá 2:12 · 36:41 Vayikrá 23:15-17 · 37:48 Ramchal, Maamar HaChochmá, Seder Leil Pessach · 39:26 Bereshit 2:7 · 40:25 Shemot 1:14 · 42:19 Shemot 24:7 · 44:03 Ramchal, Maamar HaChochmá, os quatro pilares do Seder · 46:54 Shemot 12:21 · 47:39 Haggadá de Pessach, Rabban Gamliel · 47:49 Ramchal, Maamar HaChochmá, a matzá · 55:04 Maharal, Tiferet Yisrael, cap. 25 · 55:11 Devarim 11:18 · 55:21 Kidushin 30b · 56:19 Midrash sobre o pai que golpeia o filho e põe uma atadura · 58:02 Midrash sobre o yetzer hará e a Torá como tempero · 58:57 Bereshit 4:7 · 1:03:04 Sucá 52a
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|15:35|כביכול. הקדוש ברוך הוא לא מחוייב בכלום
+269|15:37|אבל אין פה מקום לתביעה מצידו של מקבל
+270|15:41|החסד.
+271|15:45|אין פה מקום לתביעה. אתה חייב לעזור לי,
+272|15:48|אתה חייב לתת לי את החסד הזה. נהפוכו.
+273|15:52|וה
+274|15:54|מי שעושה את החסד עושה אותו באופן
+275|15:56|וולונטרי לחלוטין.
+276|15:58|עכשיו כתוב כאן שהקדוש
+277|16:03|ברוך הוא עושה חסד עם בני האדם.
+278|16:09|כלומר,
+279|16:11|גם במקום
+
+LINHAS A TRADUZIR:
+280|16:14|שאין להם זכאות, כי אם יש להם זכאות, אז
+281|16:17|יש להם כבר מקום לתביעה. גם במקום שאין
+282|16:20|להם זכאות,
+283|16:21|הקדוש ברוך הוא נותן להם מה שלא מגיע להם
+284|16:24|מצד הדין.
+285|16:27|יתרה מזו כפי שנראה במזמור הזה יש מצבים
+286|16:31|של האדם לא רק לא מגיע אלא מגיע שלא לתת
+287|16:35|לו
+288|16:38|והקדוש ברוך הוא בכל זאת נותן לו למרות
+289|16:42|שמגיע לו שלא לתת לו
+290|16:46|אז זה הפירוש ברגע שאנחנו מחייבים לקדוש
+291|16:49|ברוך הוא הודעה על כל דבר בבוקר כשודי קם
+292|16:52|הוא אומר מודה אני לפניך על זה שהחזרת לי
+293|16:55|את הנשמה ואנחנו מודים כמו שאמרתי במודים
+294|16:58|אנחנו לך בתפילת 18 על ניסך ונפלאותיך
+295|17:02|שבכל יום וכולי
+296|17:05|אבל כאן באופן ספציפי מדובר על דברים מאוד
+297|17:09|מסוימים שהם מה שראינו קודם לכן את הגמרא
+298|17:12|ואת רש"י אז בואו עכשיו נמשיך את המזמור
+299|17:15|הזה הודו להשם כי טוב כי לעולם חסדום
+300|17:20|יאמרו גאולי השם אשר גאלם מיד צר ומארצות
+301|17:24|קיבצם
+302|17:25|ממזרח וממערב, מצפון ומים.
+303|17:28|אז כמו שאמרתי, ההועיל ועם ישראל ביציאת
+304|17:33|מצרים נקרא עם ישראל, נקרא גאול וגאלתי
+305|17:38|אתכם. זה אחת מארבע לשונות הגאולה.
+306|17:41|שיבכו גאולים. אז לכן זה המזמור של פסח.
+307|17:46|אבל למעשה המשפט הזה מדבר על אחרית הימים.
+308|17:51|יאמרו גאולי השם אשר געלה מיד צר ומארצות
+309|17:54|קיבצם כי ממצרים זה היה מארץ אחת ממצרים
+310|17:59|הגאולה באחית הימים תהיה מכל הארצות ממזרח
+311|18:02|ממערב מצפון ומים אוקיי עכשיו זה דבר מאוד
+312|18:06|כללי שמחייב
+313|18:09|הודעה
+314|18:11|ועכשיו שימו לב לשורות שהדגשתי באדום כאן
+315|18:15|בתוך המזמור הזה מופיעים ארבעת הקטגוריות
+316|18:19|שראינו בגמרא.
+317|18:22|הקטגוריה הראשונה במזמור היא טעו במדבר
+318|18:26|בישמון דרך.
+319|18:30|אדם שנאלץ או בגלל

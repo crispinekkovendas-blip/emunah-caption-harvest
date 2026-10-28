@@ -1,0 +1,64 @@
+videoId: GcFPfJDGYbQ
+parte 26 de 29 · traduzir as linhas 1000 a 1039 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Chametz no altar: o Korban Todá e o Yetzer HaRá
+RESUMO: O rabino parte de Vayikrá 7:11-13, em Parashat Tzav, o Shabat HaGadol: o Korban Todá é o único sacrifício individual trazido com chalot de chametz, e o único outro é o Shtei HaLechem de Shavuot. Com Rashi e a Guemará em Berachot, explica os quatro que devem agradecer (os que descem ao mar, os que cruzam desertos, os presos e o doente curado), retirados do Tehilim 107, o salmo de Pessach. Mostra a diferença entre chesed e din. Contrasta com Vayikrá 2, onde nenhuma oferenda de farinha pode ser chametz nem mel no altar, e fala da proibição do chametz no lugar (o Mizbeach) e no tempo (Pessach), com a pena de karet. Com o Ramchal no Maamar HaChochmá, o maror, o Korban Pessach e a matzá preparam o corpo, e a matzá é alimento sem yetzer hará, enquanto o chametz é o se'or, o yetzer hará. Com o Maharal em Tiferet Yisrael (Kidushin 30b), a Torá é o tempero que domina o yetzer hará, por isso o Shtei HaLechem é chametz, e o Korban Todá pode trazê-lo porque o yetzer hará foi neutralizado pelo perigo vivido.
+MOMENTOS: 00:07 Parashat Tzav e Shabat HaGadol · 01:07 Vayikrá 7:11-13: Korban Todá com chametz · 03:29 Único sacrifício com chametz, além de Shavuot · 04:10 Modim e o agradecimento a HaShem · 06:00 Rashi: os quatro que devem agradecer · 11:04 A fonte em Berachot e o Tehilim 107 · 12:20 Chesed e din no Hodu LaHaShem ki tov · 18:22 As quatro categorias dentro do salmo · 30:00 Vayikrá 2: nenhuma oferenda de farinha é chametz · 34:42 Chametz proibido no lugar e no tempo · 37:48 Ramchal: maror, Pessach e matzá · 49:06 Matzá como yetzer tov, chametz como yetzer hará · 55:04 Maharal: a Torá como tempero do yetzer hará · 1:03:03 Por que o Shtei HaLechem e o Todá trazem chametz
+FONTES CITADAS: 01:09 Vayikrá 7:11-13 · 06:03 Rashi em Vayikrá 7:12 · 09:34 Tehilim 107:8, 107:22 · 11:07 Berachot 54b · 10:15 Tehilim 107:1 · 11:56 Tehilim 107:2-3 · 11:56 Mizmor de Pessach, Tehilim 107 · 17:33 Shemot 6:6 · 18:55 Tehilim 107:4-9 · 19:57 Tehilim 107:10-16 · 22:28 Tehilim 107:17-22 · 24:13 Tehilim 107:23-32 · 25:17 Tehilim 107:33-42 · 26:26 Tehilim 107:43 · 27:21 Mishná, Menachot 5:1 · 29:10 Vayikrá 2:1-3 · 30:00 Vayikrá 2:4-5 · 30:36 Vayikrá 2:7-10 · 30:49 Vayikrá 2:11 · 31:11 Vayikrá 2:12 · 36:41 Vayikrá 23:15-17 · 37:48 Ramchal, Maamar HaChochmá, Seder Leil Pessach · 39:26 Bereshit 2:7 · 40:25 Shemot 1:14 · 42:19 Shemot 24:7 · 44:03 Ramchal, Maamar HaChochmá, os quatro pilares do Seder · 46:54 Shemot 12:21 · 47:39 Haggadá de Pessach, Rabban Gamliel · 47:49 Ramchal, Maamar HaChochmá, a matzá · 55:04 Maharal, Tiferet Yisrael, cap. 25 · 55:11 Devarim 11:18 · 55:21 Kidushin 30b · 56:19 Midrash sobre o pai que golpeia o filho e põe uma atadura · 58:02 Midrash sobre o yetzer hará e a Torá como tempero · 58:57 Bereshit 4:7 · 1:03:04 Sucá 52a
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+988|59:30|למה? שהוא סדר הנמצאים אשר הם נבראים
+989|59:33|עליו. הרי התורה הסתכל בתורה וברא את
+990|59:37|העולם ולכן כל המציאות כולה בנויה על
+991|59:41|התורה זה סדר המציאות ולכן יצר הרע לא
+992|59:45|יכול להשתלט על התורה שהוא סדר הנמצאים
+993|59:50|אשר הם נבראים עליו ולפי כך התורה היא
+994|59:53|תבלין ליצר הרע שאינו יכול למשול על האדם
+995|59:57|יצר הרע לא יכול למשול על האדם כשהוא עוסק
+996|59:59|בתורה לומד ומקיים את התורה הוא להוציא את
+997|1:00:03|האדם עד שיצא האדם חוץ מן הסדר אשר ראוי
+998|1:00:06|שזה אינו יכול כי אם הוא שומר את התורה את
+999|1:00:10|ההוראות של התורה הוא לא יצא מחוץ לסדר
+
+LINHAS A TRADUZIR:
+1000|1:00:12|וזה בדיוק מה שרוצה יצר הרע לא הוציא אותו
+1001|1:00:15|מחוץ לסדר אבל אם הוא יודע את התורה אז
+1002|1:00:17|הוא אומר לייצר הרע לא עד כאן אני שומר את
+1003|1:00:20|הסדרים ומפני זה מעלת התורה שאין יצר הרע
+1004|1:00:23|שולט עם התורה ואם לא הייתה התורה
+1005|1:00:29|שהיא רטייה ליצר הרע שלא יוכל להוציא את
+1006|1:00:32|האדם מן הסדר
+1007|1:00:34|לא היה נברא יצר הרע שלא היה אדם יכול
+1008|1:00:37|לעמוד כנגדו. מאוד מעניין מה שהוא אומר
+1009|1:00:38|כאן
+1010|1:00:41|שאם לא הייתה תורה אז לא היה נברא יצר
+1011|1:00:44|הרע.
+1012|1:00:45|יצר הרע נברא רק כדי
+1013|1:00:49|כאשר יה יש אפשרות להתגבר עליו. אם לא
+1014|1:00:53|הייתה אפשרות להתגבר עליו אז לא היה טעם
+1015|1:00:56|לברואו. כי היה מביא את כל האדם את כל בני
+1016|1:00:59|אדם ואת כל העולם לעבדון.
+1017|1:01:01|לכן נברא היצר הרע. יש לו כוח עצום. הדרך
+1018|1:01:04|היחידה לנטרל אותו זה התורה. ובגלל התורה
+1019|1:01:08|נמצא בכלל יצר הרע בעולם. כיעילמה להתורה.
+1020|1:01:12|אז לא היה יצר הרע. כי אם היה יצר הרע בלי
+1021|1:01:15|התורה אז העולם היה נחרב.
+1022|1:01:19|אבל התורה היא שמירה מן היצר הרע. עכשיו
+1023|1:01:22|אחרי כל זה שימו לב הוא מגיע פה עכשיו
+1024|1:01:24|לדברים שפתחנו בהם. ולכן ביום מתן תורה
+1025|1:01:30|היו מביאים שתי הלחם.
+1026|1:01:32|שהיו של חמץ
+1027|1:01:36|כי היצר הרע הוא השאור שבעיסא
+1028|1:01:40|ומצד התורה נמצא יצר הרע כמו שהוא באר
+1029|1:01:43|קודם לכם במשפטים הקודמים
+1030|1:01:45|ואם לא חן לא היה נמצא מפני שאינו יכול
+1031|1:01:48|לעמוד כנגדו
+1032|1:01:51|עוד מורה עוד מורה זה כי אין צריך להרחיק
+1033|1:01:55|אותו עם התורה זאת אומרת אתה יכול לחיות
+1034|1:01:59|בשלום עם יצר הרע כשיש לך את התורה
+1035|1:02:02|כי אז התורה אומרת לך איך איך לשים את
+1036|1:02:06|הגבולות ליצר הרע. אז לא צריך להרחיק אותו
+1037|1:02:09|לגמרי אלא אפשר שהוא יהיה בשליטה. אם אתה
+1038|1:02:14|נמצא במצב של תורה, דהיינו לומד תורה
+1039|1:02:17|ומקיים את מצוות התורה, התורה נותנת לך את

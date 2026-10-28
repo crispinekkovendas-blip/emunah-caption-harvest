@@ -1,0 +1,50 @@
+videoId: P9yoql-gaSs
+parte 1 de 17 · traduzir as linhas 0 a 39 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashá Devarim: o mussar de Moshe e a data do discurso
+RESUMO: O Rav Meir Eliyahu parte da pergunta do Ben Ish Chai sobre Devarim 1:1-3: por que a Torá registra aqui a data (primeiro de Shvat, no 40o ano) e por que diz que Moshe falou "conforme tudo que Adonai lhe ordenou", se tudo na Torá vem d'Ele. Ele mostra, com o Zohar e a história de Korach, que Moshe era "homem de Elokim", meio anjo, e que a Shechiná cumpria o que ele decretava, e daí passa ao mérito de Yocheved, cuja tzniut produziu Moshe, Aharon e Miriam, com apelos à modéstia e à vigilância dos filhos. A resposta do Ben Ish Chai é que Moshe, a poucos dias da morte, queria afastar a suspeita de que o mussar servia à própria honra, e que depois de ser punido em Mei Meriva ("Shim'u na hamorim") ele só voltou a repreender porque agora era ordem divina, como no Midrash da pérola que parecia brasa. Em seguida o rabino explica o gaguejar de Moshe (a brasa que purificou sua boca do leite das egípcias, Sotá 12b), a ordem de "Chatzerot ve Di Zahav" em Rashi (Moshe repreendeu primeiro por Korach e Miriam, depois pelo bezerro) e as "setenta línguas" de Rashi em "Hoil Moshe", que ele lê como setenta faces da Torá segundo o Zohar. Termina com a pergunta sobre por que Devarim 1:36 cita Calev e não Yehoshua, e a resposta de que Calev vence sem ter recebido bênção de Moshe.
+MOMENTOS: 00:29 Pergunta do Ben Ish Chai sobre a data e o "conforme ordenou" · 01:56 Moshe, "homem de Elokim": meio anjo, meio homem · 03:27 Korach: Moshe decreta e a Shechiná cumpre · 04:56 Temor do Céu medido por ser ouvido em casa · 08:39 O mérito de Yocheved: a tzniut · 17:51 Volta à pergunta: mussar sem busca de honra · 21:25 Moshe não precisa de honra: "dentro de um mês eu morro" · 24:37 Mei Meriva: "Shim'u na hamorim" e a punição · 29:36 Midrash: a pérola que parecia brasa · 31:20 Por que Moshe gaguejava: a brasa na boca · 34:01 Chatzerot e Di Zahav: a ordem das repreensões · 36:33 "Hoil": as setenta línguas são setenta faces · 40:03 Por que Calev e não Yehoshua
+FONTES CITADAS: 00:07 Devarim 1:1-3 · 00:54 Devarim 1:3 · 01:56 Tehilim 90:1 · 02:09 Tehilim 113:4 · 02:19 Zohar, Shemot 43a · 02:25 Iyov 1:6 · 03:05 Devarim 33:1 · 03:27 Bamidbar 16:29-30 · 03:51 Zohar sobre Korach · 04:03 Avot 5:6 · 04:24 Berachot 6b · 04:29 Kohelet 12:13 · 04:56 Shabat 23b · 05:08 Moed Katan 9a · 05:44 Shabat 23b · 06:32 Shemot 34:29 · 06:52 Devarim 1:1-34:12 · 08:39 Yoma 47a · 12:09 Shemot 2:1 · 12:15 Zohar sobre Shemot 2:1 · 12:04 Yabia Omer, Even HaEzer · 13:58 Berachot 32a · 15:45 Hakdamat HaZohar 12a, Or Yakar do Ramak · 16:42 Megilá 11a · 16:54 Mishlei 10:1 · 16:59 Zohar, história de Rabi Yossi e o carregador árabe · 21:25 Rashi em Bava Kama 62a · 23:30 Bava Batra 74a · 24:04 Sanhedrin 65b · 24:43 Bamidbar 20:10 · 25:36 Midrash sobre as falhas de Moshe · 28:41 Devarim 31:29 · 29:03 Devarim 1:3 · 29:36 Midrash da pérola e da brasa · 30:30 Bamidbar 20:12 · 30:59 Shemot 4:10 · 31:30 Derech Eretz Zuta, último capítulo · 32:51 Sotá 12b · 33:19 Rabi Chida sobre o gaguejar de Moshe · 33:51 Devarim 1:1 · 34:01 Rashi em Devarim 1:1 · 35:48 Bamidbar 12:1-2 · 36:33 Devarim 1:5 · 36:42 Zohar sobre Hoil Moshe · 36:44 Rashi em Devarim 1:5 · 39:03 Zohar, Vayikrá 21a · 39:45 Devarim 1:36 · 40:20 Midrash sobre Calev · 40:33 Bamidbar 13:30 · 41:44 Sanhedrin 17a · 42:02 Bamidbar 13:16 · 42:46 Sotá 34b · 43:23 Makot 23b
+
+LINHAS A TRADUZIR:
+0|00:07|אלה הדברים אשר דיבר משה אל כל ישראל בעבר הירדן במדבר, בערבה, מול סוף, בן פרן ובן
+1|00:13|תופל, החצרות בדי זהב, אחד עשר יום מחורב, דרך הר שעיר עד קדש ברנע,
+2|00:19|והיא בארבעים שנה, בשתי עשר חודש.
+3|00:22|באחד לחודש דיבר משה אל בני ישראל ככל אשר ציווה אותו אדוני, אותו
+4|00:28|עליהם.
+5|00:29|שואל רבנו יוסף חיים עליו השלום, הוא אומר אני לא מבין, אף פעם לא אמר לנו מה התאריך שהוא
+6|00:35|מדבר את הדרשות שלו פתאום כאן הוא מביא לנו את התאריך בשתי עשר
+7|00:40|חודש, באחד לחודש, דיבר משה, בשביל מה התאריך?
+8|00:45|כל הזמן לא מזכיר את התאריך.
+9|00:47|כל הארבעה חומשים שלפני זה בראשית שמות ויקרא במדבר, לא מובא איזה תאריך הוא מדבר איתם
+10|00:53|את הדרשות שנותן להם.
+11|00:54|אומר להם תצאו ממצרים, אומר להם בוקר ויגיז השם סלעב, בוקר ויודע השם את אשר לו ואת הקרוב
+12|00:59|יקריב אליו, לא כתוב תאריכים בשום מקום.
+13|01:02|ואילו כאן החליט לתת לנו תאריך תמה על זה תמיה רבתי רבנו יוסף חיים עליו השלום
+14|01:08|דבר שני מה זה שהוא כותב ככל אשר ציווה אדוני אותו עליהם
+15|01:14|והכל ציווה השם אותו עליהם איזה חידוש יש כאן כאן עכשיו הוא מחדש לנו כאילו בוא תשמע
+16|01:20|מה זה כל מה שאומר עכשיו זה מהקדוש ברוך הוא לא מי משה הוסיף מדעתו הגם
+17|01:26|שבאמת הקדוש ברוך הוא לכאורה הביא רק ארבעה חומשים ראשונים וחומש חמישי משה הוסיף
+18|01:32|מדעתו והקדוש ברוך הוא אמר לו יישר כוחך הקדוש ברוך הוא הודה לו אבל סוף סוף תדע שגם החומש
+19|01:38|החמישי הזה זה מהקדוש ברוך הוא רוח הקודש דיבר רבו ומילתו על לשונו משה רבנו היה רוח
+20|01:44|הקודש שוחה עליו דיה צדיק מתנפלה באספקריה שאינה מאירה
+21|01:50|מאירה, ונותנת לו עוז ותעצומות וכוח.
+22|01:53|הגוף שלו היה כמו מלאך השרת.
+23|01:56|תפילה למשה איש האלוהים.
+24|01:58|מה זה תפילה למשה איש האלוהים?
+25|02:00|חציו ומעלה איש, חציו ומטה איש, חציו ומעלה אלוקים.
+26|02:04|וכי אלוקים?
+27|02:05|מדובר על הקדוש ברוך הוא לא מלאך שנקרא אלוקים.
+28|02:09|כמו שכתוב, ורם הוא מכל אלוקים.
+29|02:11|וכי הקדוש ברוך הוא אתה משווה אותו לעץ ואבן, והוא רם על עץ ואבן?
+30|02:15|איזה חידוש יש בזה?
+31|02:16|שהקדוש ברוך הוא נישא על העצים והאבנים?
+32|02:18|לא.
+33|02:19|על מלאכים שנקראים אלוהים וכמו שכותב הזוהר פרשת שמו בדף מ"ג שיש לנו עשרה סוגים של מלאכים
+34|02:25|אלוהים בני אלוהים ויבואו בני האלוהים להתייצב על אדוני ויבוא גם השטן להתייצב בתוכם זה אצל
+35|02:31|איוב, בני אלוהים, זה מלאכים פחותים, יותר מעליהם זה אלוהים.
+36|02:35|יש ערלים, גלגלים, חשמלים, כל אלה סרה סוגים, אלה למעלה מאלה, אלה למעלה
+37|02:40|מאלה.
+38|02:41|ומי שלומד עץ חיים יודע שיש מלאכים יותר מבני אדם, ויש בני אדם שהם יותר ממלאכים.
+39|02:47|תלוי איפה אתה אחוז מהשורש שלך, ואיפה, על איזה מלאך מדובר.
