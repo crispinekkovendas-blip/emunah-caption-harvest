@@ -2,7 +2,7 @@
  "name": "lane6-006",
  "lane": 6,
  "created": "2026-10-28T00:44:57.678Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "DJPgG7KwBnc",
@@ -76,14 +76,17 @@
   "mEtTONZtV8c.p3"
  ],
  "tries": {
-  "DJPgG7KwBnc": 2,
+  "DJPgG7KwBnc": 3,
   "dTK9VzDfNaI": 1,
   "mEtTONZtV8c": 2
  },
  "done": [
   "ilRFJ8kUX70",
   "Skrr6jdy_f0",
-  "dTK9VzDfNaI"
+  "dTK9VzDfNaI",
+  "mEtTONZtV8c"
  ],
- "skipped": []
+ "skipped": [
+  "DJPgG7KwBnc"
+ ]
 }

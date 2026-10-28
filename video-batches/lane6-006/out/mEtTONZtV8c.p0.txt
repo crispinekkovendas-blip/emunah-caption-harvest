@@ -1,0 +1,120 @@
+0	Rambam, Hilchot Shechitá, chapter 1, halachá 9.	Rambam, Hilchot Shechitá, capítulo 1, halachá 9.
+1	Our teacher the Rambam writes: the shochet must slaughter in the middle of the neck.	Nosso mestre o Rambam escreve: o shochet deve fazer a shechitá no meio do pescoço.
+2	And if he slaughtered from the sides, his shechitá is kasher. And how much is the shiur of shechitá?	E se fez a shechitá pelos lados, a shechitá é kasher. E qual é o shiur da shechitá?
+3	The two simanim, which are the trachea and the esophagus.	Os dois simanim, que são a traqueia e o esôfago.
+4	The preferred shechitá is that both are cut, whether in cattle or in birds.	A shechitá ideal é que ambos sejam cortados, tanto no gado quanto nas aves.
+5	And for this the shochet had intent.	E para isso o shochet teve intenção.
+6	And if he cut the majority of one of them in a bird, or the majority of the two in cattle	E se cortou a maioria de um deles na ave, ou a maioria dos dois no gado
+7	and in a wild animal, his shechitá is kasher.	e no animal selvagem, a shechitá é kasher.
+8	So let us understand this halachá.	Então vamos entender esta halachá.
+9	First, our teacher the Rambam tells us that the shochet must slaughter in the middle of the neck.	Primeiro, nosso mestre o Rambam nos diz que o shochet deve fazer a shechitá no meio do pescoço.
+10	In the middle of the neck, where the vertebrae of the trachea are, where the esophagus is,	No meio do pescoço, onde ficam as vértebras da traqueia, onde fica o esôfago,
+11	and that is really the place of the shechitá lechatchilá.	e esse é de fato o lugar da shechitá lechatchilá.
+12	And our teacher the Rambam writes: and if he slaughtered from the sides, his shechitá is kasher.	E nosso mestre o Rambam escreve: e se fez a shechitá pelos lados, a shechitá é kasher.
+13	What does "from the sides" mean?	O que significa "pelos lados"?
+14	It means from the sides of the animal's neck, even though in such a shechitá	Significa pelos lados do pescoço do animal, embora em uma shechitá assim
+15	the spinal column is also cut, if he slaughters from the sides,	também seja cortada a medula, se ele faz a shechitá pelos lados,
+16	but bedieved his shechitá will be kasher.	mas bedieved a shechitá dele será kasher.
+17	There are several conditions. First, he must cut the simanim before cutting	Há várias condições. Primeiro, ele precisa cortar os simanim antes de cortar
+18	the spinal column, because if he cuts the spinal column before the simanim, then he	a medula, porque se cortar a medula antes dos simanim, então ele
+19	has already made the animal treifa before he cut the simanim, so it will be treifa.	já tornou o animal treifá antes de cortar os simanim, e ela será treifá.
+20	Therefore the poskim are very stringent about this and write	Por isso os poskim são muito rigorosos nisso e escrevem
+21	that only if he turned the simanim, took the simanim toward the side,	que apenas se ele virou os simanim, levou os simanim para o lado,
+22	and then slaughtered from the side, so that he knows for certain he cut the simanim before the spinal column, then it	e então fez a shechitá pelo lado, de modo que sabe com certeza que cortou os simanim antes da medula, então
+23	will be kasher.	será kasher.
+24	But if he did not turn the simanim to the sides, and he is in doubt whether he cut the simanim first or the	Mas se ele não virou os simanim para os lados, e tem dúvida se cortou primeiro os simanim ou a
+25	spinal column, whether he cut the spinal column before the simanim, then in any case	medula, se cortou a medula antes dos simanim, então de qualquer forma
+26	it will be invalid.	será pasul.
+27	Therefore the Rosh writes, and also the Tur, in siman 20, seif 3, that one who slaughters from the sides, his	Por isso o Rosh escreve, e também o Tur, no simán 20, seif 3, que aquele que faz a shechitá pelos lados, a
+28	shechitá is not kasher unless he knows that he preceded the cutting of the simanim to	shechitá dele não é kasher a não ser que saiba que cortou os simanim antes
+29	cutting the spinal column. Maran the Beit Yossef writes there that the kashrut of the shechitá	de cortar a medula. Maran, o Beit Yossef, escreve ali que a kashrut da shechitá
+30	always depends on knowing that he cut the simanim before he cut the spinal column, and therefore Maran says	depende sempre de saber que cortou os simanim antes de cortar a medula, e por isso Maran diz
+31	that both are needed, to validate it. He says that even if he turned the simanim to the sides of the neck,	que são necessárias as duas coisas, para validar. Ele diz que mesmo que tenha virado os simanim para os lados do pescoço,
+32	he must know that he cut the simanim before the spinal column.	precisa saber que cortou os simanim antes da medula.
+33	And if he did not turn the simanim, as long as it is clear to him that he cut the simanim before the spinal column,	E se não virou os simanim, desde que lhe seja claro que cortou os simanim antes da medula,
+34	his shechitá is kasher. That is how Maran wrote in the Beit Yossef, implying	a shechitá dele é kasher. Assim Maran escreveu no Beit Yossef, dando a entender
+35	that even if he did not take the simanim aside and he slaughtered the animal	que mesmo que não tenha levado os simanim para o lado e tenha feito a shechitá do animal
+36	from the sides, and it is clear to him that he cut the simanim before the spinal column, this shechitá is kasher.	pelos lados, e lhe seja claro que cortou os simanim antes da medula, essa shechitá é kasher.
+37	But in the Shulchan Arukh he does not rule as his conclusion in the Beit Yossef.	Mas no Shulchan Arukh ele não decide como sua conclusão no Beit Yossef.
+38	In the Shulchan Arukh, Maran writes there in siman 20, seif 3, he takes	No Shulchan Arukh, Maran escreve ali no simán 20, seif 3, ele adota
+39	the stringent view, that two conditions are needed to validate shechitá from the sides: first,	a posição rigorosa, de que são necessárias duas condições para validar a shechitá pelos lados: primeiro,
+40	that he turn the simanim to the side of the neck, and second, that he know he cut them before the spinal column.	que vire os simanim para o lado do pescoço, e segundo, que saiba que os cortou antes da medula.
+41	He needs both, to validate it.	Ele precisa de ambas, para validar.
+42	So the Taz and the Shach and the others comment there on the Shulchan Arukh.	Então o Taz, o Shach e os outros comentam ali sobre o Shulchan Arukh.
+43	They say: if he knows for certain that he cut the simanim before the spinal column, what reason is there to require turning	Eles dizem: se ele sabe com certeza que cortou os simanim antes da medula, qual a razão de exigir que vire
+44	the simanim to the side of the neck?	os simanim para o lado do pescoço?
+45	The Shach writes to explain that what he wrote, "that he turned the simanim and knew that he cut them before he cut	O Shach escreve para explicar que o que está escrito, "que virou os simanim e soube que os cortou antes de cortar
+46	the spinal column," means that the intention is not a vav that joins, but a vav that divides, that is, he must turn the simanim, or know	a medula", significa que a intenção não é um vav que une, mas um vav que separa, isto é, que deve virar os simanim, ou saber
+47	that he cut them before the spinal column.	que os cortou antes da medula.
+48	That is, he says that what Maran writes, "and that he turned," this vav is	Ou seja, ele diz que o que Maran escreve, "e que virou", esse vav é
+49	a dividing one.	separador.
+50	It is like "or."	É como "ou".
+51	So either it is clear to him that he cut the simanim before the spinal column, or he turned the simanim to the side.	Então ou lhe é claro que cortou os simanim antes da medula, ou ele virou os simanim para o lado.
+52	But in practice, the poskim take	Mas na prática, os poskim adotam
+53	that one should certainly be stringent.	que certamente se deve ser rigoroso.
+54	As the plain wording of the Shulchan Arukh: if he slaughtered the animal from the sides and not from the neck,	Como o sentido simples do Shulchan Arukh: se fez a shechitá do animal pelos lados e não pelo pescoço,
+55	then he must both take the simanim to the side and also have it be clear to him that he cut	então ele precisa tanto levar os simanim para o lado quanto ter claro que os cortou
+56	them before the spinal column.	antes da medula.
+57	All this is that bedieved his shechitá will be kasher if he knows he cut the simanim before the spinal column.	Tudo isso é que bedieved a shechitá dele será kasher se ele sabe que cortou os simanim antes da medula.
+58	That is bedieved.	Isso é bedieved.
+59	Lechatchilá, everyone agrees that one must slaughter the animal in the middle	Lechatchilá, todos concordam que se deve fazer a shechitá do animal no meio
+60	of the neck.	do pescoço.
+61	And this is also the wording here of the Rambam. He says, "and if he slaughtered from the sides," that is,	E esta é também a linguagem do Rambam aqui. Ele diz: "e se fez a shechitá pelos lados", isto é,
+62	bedieved, "his shechitá is kasher," and also that it be clear to him that he cut	bedieved, "a shechitá dele é kasher", e também que lhe seja claro que cortou
+63	the simanim before the spinal column.	os simanim antes da medula.
+64	Our teacher the Rambam writes: and what is the shiur of shechitá?	Nosso mestre o Rambam escreve: e qual é o shiur da shechitá?
+65	The two simanim.	Os dois simanim.
+66	The preferred shechitá is that both are cut, whether in cattle or in birds.	A shechitá ideal é que ambos sejam cortados, tanto no gado quanto nas aves.
+67	The meaning is, we learned that in cattle the majority of	O sentido é: aprendemos que no gado basta a maioria de
+68	two simanim is enough, and in a bird even the majority of one siman is enough.	dois simanim, e na ave basta até a maioria de um simán.
+69	Why?	Por quê?
+70	Because in cattle two simanim must be cut, the trachea and the esophagus,	Porque no gado devem ser cortados dois simanim, a traqueia e o esôfago,
+71	and in a bird one of them is enough, either the trachea or the esophagus.	e na ave basta um deles, ou a traqueia ou o esôfago.
+72	And in fish no shechitá is needed at all; mere gathering suffices.	E nos peixes não é necessária shechitá alguma; basta a mera coleta.
+73	That is why we said: the animal was created from the earth, so it needs two simanim.	Por isso dissemos: o animal foi criado da terra, por isso precisa de dois simanim.
+74	Fish are from the water, they need no shechitá at all.	Os peixes são da água, não precisam de shechitá alguma.
+75	Birds are from the swamp mud, they need one siman.	As aves são do lodo do pântano, precisam de um simán.
+76	And the majority is like the whole.	E a maioria é como o todo.
+77	Therefore even a majority is enough.	Por isso basta até a maioria.
+78	But our teacher the Rambam teaches us that all this is only from the essential law.	Mas nosso mestre o Rambam nos ensina que tudo isso é apenas do din essencial.
+79	Lechatchilá, whether in a bird or in cattle, one must	Lechatchilá, tanto na ave quanto no gado, deve-se
+80	cut both simanim	cortar os dois simanim
+81	completely. "And for this the shochet had intent." What does "for this the	por inteiro. "E para isso o shochet teve intenção." O que significa "para isso o
+82	shochet had intent" mean?	shochet teve intenção"?
+83	It means that the shochet must intend to cut both	Significa que o shochet precisa ter a intenção de cortar os dois
+84	simanim. There is a very interesting Maguid Mishné here, who brings a Yerushalmi	simanim. Há aqui um Maguid Mishné muito interessante, que traz um Yerushalmi
+85	and writes it in order to bring a source for the Rambam	e o escreve para trazer uma fonte para o Rambam
+86	from the Yerushalmi for this law.	do Yerushalmi para esta lei.
+87	But we do not find this so much in the Yerushalmi, and so they indicated a source for it,	Mas não encontramos isso tanto no Yerushalmi, e por isso indicaram uma fonte para isso,
+88	they indicated a source for it in the holy Zohar.	indicaram uma fonte para isso no Zohar HaKadosh.
+89	Let me show you this.	Vou mostrar isso a vocês.
+90	Here, there is a Maguid Mishné from a manuscript.	Aqui, há um Maguid Mishné de um manuscrito.
+91	It is not in all the editions.	Não está em todas as edições.
+92	So here he writes explicitly, "and for this the shochet had intent," which is proven for our teacher	Então aqui ele escreve explicitamente: "e para isso o shochet teve intenção", o que está provado para nosso mestre
+93	from the story brought in the Yerushalmi, of one who cut the majority of the two simanim,	pelo episódio trazido no Yerushalmi, de quem cortou a maioria dos dois simanim,
+94	and a certain young scholar came before a Torah scholar, who said to him: what	e um certo jovem erudito veio diante de um talmid chacham, que lhe disse: o que
+95	did you intend?	você tinha em mente?
+96	Did you intend to cut the two simanim?	Você pretendia cortar os dois simanim?
+97	Lechatchilá, he said, both, and bedieved he told him the shechitá is kasher.	Lechatchilá, ele disse, os dois, e bedieved disse-lhe que a shechitá é kasher.
+98	He told him: your shechitá is kasher even though you cut only the majority of two,	Disse-lhe: sua shechitá é kasher, embora você tenha cortado apenas a maioria dos dois,
+99	but from now on you shall not slaughter this way, because the hands need training.	mas daqui em diante não faça a shechitá assim, porque as mãos precisam de treino.
+100	The meaning is that from now on you shall not slaughter until you train your hand well in order	O sentido é que daqui em diante você não fará a shechitá até treinar bem a sua mão para
+101	to cut the two simanim. So from here we see that the question was	cortar os dois simanim. Então daqui vemos que a pergunta era
+102	why, since we do not find this Yerushalmi. But where does this statement appear?	por quê, já que não encontramos esse Yerushalmi. Mas onde aparece essa afirmação?
+103	The Maguid Mishné cites the Zohar Chadash, Bereshit, page 20, side b.	O Maguid Mishné cita o Zohar Chadash, Bereshit, folha 20, lado b.
+104	There in the Zohar it is written:	Ali no Zohar está escrito:
+105	Yes, it says explicitly that Rabbi Yehuda asked him about	Sim, diz explicitamente que Rabi Yehudá lhe perguntou sobre
+106	his intention in the shechitá: what did you intend, precisely, in	a intenção dele na shechitá: o que você tinha em mente, exatamente, em
+107	any case? Our teacher the Rambam says, "and for this the shochet had intent": the shochet must intend to cut	todo caso? Nosso mestre o Rambam diz: "e para isso o shochet teve intenção": o shochet deve ter a intenção de cortar
+108	both simanim lechatchilá. "And if he cut the majority of one of them	os dois simanim lechatchilá. "E se cortou a maioria de um deles
+109	in a bird, or the majority of the two in cattle and in a wild animal, his shechitá is kasher." So	na ave, ou a maioria dos dois no gado e no animal selvagem, a shechitá é kasher." Então
+110	we said that bedieved the majority of two in cattle, the majority of one siman	dissemos que bedieved a maioria de dois no gado, a maioria de um simán
+111	in a bird, the shechitá is kasher. This is really the minimum.	na ave, a shechitá é kasher. Este é de fato o mínimo.
+112	Halachá 10: the Rambam writes, if he cut one siman entirely	Halachá 10: o Rambam escreve: se cortou um simán inteiro
+113	and half of the other in cattle, his shechitá	e metade do outro no gado, a shechitá dele
+114	is invalid.	é pasul.
+115	The majority of this one and the majority of that one: even if he cut from each only a little more than half, by a hair's breadth, it is kasher,	A maioria deste e a maioria daquele: mesmo que tenha cortado de cada um apenas um pouco mais da metade, por um fio de cabelo, é kasher,
+116	since he cut slightly more than half, its majority.	pois cortou um pouco mais da metade, a sua maioria.
+117	Let us explain this.	Vamos explicar isso.
+118	We know that in cattle one must cut the two simanim,	Sabemos que no gado é preciso cortar os dois simanim,
+119	and bedieved the majority of two also	e bedieved a maioria dos dois também
