@@ -1,0 +1,70 @@
+{
+ "name": "lane7-009",
+ "lane": 7,
+ "created": "2026-10-28T02:12:08.636Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "WCFOQcUuxX8",
+   "title": "Entre Or e Shefa: noivado, Geulá e os Sete Brachot",
+   "lines": 1949,
+   "parts": 17,
+   "from": "recente"
+  },
+  {
+   "id": "zBX7hL3epYA",
+   "title": "Lot, Avraham e a ambivalência: a Shalshelet em Vayera",
+   "lines": 585,
+   "parts": 5,
+   "from": "recente"
+  },
+  {
+   "id": "lWprWCH2BwI",
+   "title": "Nenhum ato é pequeno: eleições, Yossef e Chanucá",
+   "lines": 360,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "Y8HYY_MHWw8",
+   "title": "Nomes de HaShem, Shem Mem-Bet e a kidá de Levi",
+   "lines": 771,
+   "parts": 7,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "WCFOQcUuxX8.p0",
+  "WCFOQcUuxX8.p1",
+  "WCFOQcUuxX8.p2",
+  "WCFOQcUuxX8.p3",
+  "WCFOQcUuxX8.p4",
+  "WCFOQcUuxX8.p5",
+  "WCFOQcUuxX8.p6",
+  "WCFOQcUuxX8.p7",
+  "WCFOQcUuxX8.p8",
+  "WCFOQcUuxX8.p9",
+  "WCFOQcUuxX8.p10",
+  "WCFOQcUuxX8.p11",
+  "WCFOQcUuxX8.p12",
+  "WCFOQcUuxX8.p13",
+  "WCFOQcUuxX8.p14",
+  "WCFOQcUuxX8.p15",
+  "WCFOQcUuxX8.p16",
+  "zBX7hL3epYA.p0",
+  "zBX7hL3epYA.p1",
+  "zBX7hL3epYA.p2",
+  "zBX7hL3epYA.p3",
+  "zBX7hL3epYA.p4",
+  "lWprWCH2BwI.p0",
+  "lWprWCH2BwI.p1",
+  "lWprWCH2BwI.p2",
+  "Y8HYY_MHWw8.p0",
+  "Y8HYY_MHWw8.p1",
+  "Y8HYY_MHWw8.p2",
+  "Y8HYY_MHWw8.p3",
+  "Y8HYY_MHWw8.p4",
+  "Y8HYY_MHWw8.p5",
+  "Y8HYY_MHWw8.p6"
+ ]
+}
