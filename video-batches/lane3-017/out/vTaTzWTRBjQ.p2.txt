@@ -1,0 +1,120 @@
+240	I said there was also "Ani ledodi vedodi li."	Eu disse que havia também "Ani ledodi vedodi li".
+241	The bride stands.	A noiva está de pé.
+242	So then, what does "Ani ledodi vedodi li" come to?	Então, quanto dá "Ani ledodi vedodi li"?
+243	Now let's add all four	Agora vamos somar todos esses quatro
+244	of these numbers	números
+245	together, and we get 330.	juntos, e obtemos 330.
+246	145 plus 185 equals 330.	145 mais 185 é igual a 330.
+247	This number, in the wisdom	Este número, na sabedoria
+248	of calculation, belongs to a series of a special kind of numbers that are called	do cálculo, pertence a uma série de um tipo especial de números que são chamados
+249	chashmal numbers.	números chashmal.
+250	What is the definition of a	Qual é a definição de um
+251	chashmal number?	número chashmal?
+252	First of all, there is chashmal in this pair.	Antes de tudo, há chashmal neste par.
+253	What is the definition of a chashmal number?	Qual é a definição de um número chashmal?
+254	The triangle of n, whatever number n is, plus	O triângulo de n, seja qual for o número n, mais
+255	the square of n plus 1.	o quadrado de n mais 1.
+256	What is a triangle?	O que é um triângulo?
+257	A triangle is the sum of all the numbers from 1 to	Um triângulo é a soma de todos os números de 1 até
+258	n.	n.
+259	If I take all the numbers from 1 to 14, I get 105.	Se eu pegar todos os números de 1 a 14, obtenho 105.
+260	In this series, this is the heh-kuf of kamah, and the rest	Nesta série, este é o heh-kuf de kamah, e o resto
+261	of kamah.	de kamah.
+262	This is the triangle of fourteen.	Este é o triângulo de quatorze.
+263	If I take the square of fifteen,	Se eu pegar o quadrado de quinze,
+264	which is fourteen plus one, I get	que é quatorze mais um, obtenho
+265	two hundred twenty-five, which is the mem	duzentos e vinte e cinco, que é o mem
+266	of kamah, plus "Ani ledodi vedodi li."	de kamah, mais "Ani ledodi vedodi li".
+267	That is, it is a skip; among the four numbers, these are the two skips.	Ou seja, é um salto; entre os quatro números, esses são os dois saltos.
+268	Five and a hundred is the triangle of fourteen,	Cinco e cem é o triângulo de quatorze,
+269	and forty and one hundred eighty-five is the square of fifteen.	e quarenta e cento e oitenta e cinco é o quadrado de quinze.
+270	How do you draw this?	Como se desenha isto?
+271	You draw it like a house.	Desenha-se como uma casa.
+272	There is a triangle from one to fourteen.	Há um triângulo de um a quatorze.
+273	The next triangle after fourteen is fifteen.	O triângulo seguinte depois de quatorze é quinze.
+274	And from fifteen I build a square.	E a partir de quinze eu construo um quadrado.
+275	It was nice to see this, just to	Foi bom ver isto, só para
+276	understand why it is called a chashmal number.	entender por que se chama número chashmal.
+277	The triangle on top is the "chash,"	O triângulo em cima é o "chash",
+278	and the square beneath it, which continues it, is the "mal."	e o quadrado embaixo, que o continua, é o "mal".
+279	That is why it is called a chashmal number.	Por isso se chama número chashmal.
+280	In the foreign terminology it is called...	Na terminologia estrangeira chama-se...
+281	a pentagonal number, which we won't go into explaining,	número pentagonal, que não vamos explicar,
+282	but it is a kind of number that is very, very	mas é um tipo de número muito, muito
+283	important.	importante.
+284	I said it is the triangle of n plus the square of n plus 1, but	Eu disse que é o triângulo de n mais o quadrado de n mais 1, mas
+285	within the series it is called the 15th chashmal number.	dentro da série ele se chama o 15º número chashmal.
+286	What is 15?	O que é 15?
+287	YH. "Zachu, the Shechinah is between them": the yod of ish	YH. "Mereceram, a Shechiná está entre eles": o yud de ish
+288	and the heh of ishah. I turn the YH into a chashmal number,	e o heh de ishá. Eu transformo o YH em um número chashmal,
+289	and I get "Ani ledodi vedodi li"	e obtenho "Ani ledodi vedodi li"
+290	plus kamah.	mais kamah.
+291	Now, the number, again, what is it?	Agora, o número, de novo, o que é?
+292	It was 330, equal to 22 times YH.	Era 330, igual a 22 vezes YH.
+293	The YH is right here.	O YH está bem aqui.
+294	Twenty-two, twenty-two letters of the Torah.	Vinte e dois, vinte e duas letras da Torá.
+295	There are several important things in Kabbalah, the connection between 15 and 22, so that	Há várias coisas importantes na Cabalá, a ligação entre 15 e 22, de modo que
+296	I multiply them and get this.	eu os multiplico e obtenho isto.
+297	But here we are looking for	Mas aqui estamos procurando
+298	"Al ken yaazov ish et aviv ve'et imo vedavak be'ishto	"Por isso deixará o homem seu pai e sua mãe e se unirá à sua mulher
+299	vehayu levasar echad."	e serão uma só carne."
+300	How much is the groom and the bride together?	Quanto valem o noivo e a noiva juntos?
+301	Ariel already told him, what is it?	O Ariel já lhe disse, quanto é?
+302	It is also a multiple of 22.	Também é um múltiplo de 22.
+303	It is double the square of 11, 242,	É o dobro do quadrado de 11, 242,
+304	that is, one times eleven times 22.	ou seja, onze vezes 22.
+305	So what do we have?	Então o que temos?
+306	In this series that we did, we got YH	Nesta série que fizemos, obtivemos YH
+307	times twenty-two, but they themselves are VH	vezes vinte e dois, mas eles mesmos são VH
+308	times twenty-two.	vezes vinte e dois.
+309	That is, together it is YH and VH times twenty-two, equal to "vehayu levasar	Ou seja, juntos é YH e VH vezes vinte e dois, igual a "vehayu levasar
+310	echad."	echad".
+311	So then, they also have the "yom echad,"	Então, eles também têm o "yom echad",
+312	and the "makom echad," and also the "vehayu levasar echad," here	e o "makom echad", e também o "vehayu levasar echad", aqui
+313	in this match.	neste shidduch.
+314	One can look at them.	Podemos olhar para eles.
+315	This brings all three things together.	Isto reúne as três coisas juntas.
+316	One day and one place, and one flesh, may it be good for us.	Um dia e um lugar, e uma só carne, que seja bom para nós.
+317	L'chaim, l'chaim.	Lechaim, lechaim.
+318	A few more melodies.	Mais algumas melodias.
+319	Aba di di da da di	Aba di di da da di
+320	Di	Di
+321	Leave a little, Tzachi.	Deixe um pouco, Tsachi.
+322	Oh, Merciful One, who answers, answer, answer, answer	Ó, Misericordioso, que responde, responde, responde, responde
+323	Matzah, matzah, matzah, only, kamah, kamah, kamah	Matsá, matsá, matsá, apenas, kamah, kamah, kamah
+324	Night	Noite
+325	Who created, who created joy and gladness	Que criou, que criou alegria e contentamento
+326	We who rejoice in the joy of groom and bride must	Nós que nos alegramos na alegria de noivo e noiva devemos
+327	think about the expression "Netzach Yisrael lo yeshaker velo yinachem, ki lo	pensar na expressão "A Eternidade de Israel não mente nem se arrepende, pois não
+328	adam hu lehinachem." We bless again, building another stage	é homem para se arrepender." Abençoamos de novo, construindo mais uma etapa
+329	of eternity,	de eternidade,
+330	Yisrael, Netzach Yisrael, the continuity of	de Israel, Netzach Yisrael, a continuidade do
+331	the people of Israel, by building a faithful house in Israel.	povo de Israel, por meio da construção de um lar fiel em Israel.
+332	Netzach Yisrael is also the victory of the people of Israel, to prevail.	Netzach Yisrael é também a vitória do povo de Israel, o prevalecer.
+333	Decisive outcomes and victory in	Resultados decisivos e vitória em
+334	our wars.	nossas guerras.
+335	We already see this fulfilled in our days.	Já vemos isso se cumprindo em nossos dias.
+336	Netzach Yisrael also comes from "lenatzeach," to conduct; the conductor conducts the orchestra.	Netzach Yisrael vem também de "lenatseach", reger; o maestro rege a orquestra.
+337	Conducting the philharmonic.	Regendo a filarmônica.
+338	Conducting, like the orchestra, like in the book of Tehillim, "lamnatzeach."	Reger, como a orquestra, como no livro de Tehilim, "lamenatseach".
+339	There is victory,	Há vitória,
+340	there is eternity.	há eternidade.
+341	When a groom and a bride marry, they renew and continue and strengthen	Quando um noivo e uma noiva se casam, eles renovam, continuam e fortalecem
+342	the Netzach Yisrael.	o Netzach Yisrael.
+343	And therefore, we call on everyone who takes part	E por isso, pedimos a todos os que participam
+344	in the joy, also to pay attention and contemplate the whole history of the people of	da alegria que também reflitam e contemplem toda a história do povo de
+345	Israel.	Israel.
+346	Where our story began, and where	De onde começou a nossa história, e para onde
+347	all of our story is going.	vai toda a nossa história.
+348	Thanks to them, thanks to marrying in holiness and purity, the generations continue.	Graças a eles, graças a casarem em santidade e pureza, as gerações continuam.
+349	The chronicles of the generations from the beginning.	A crônica das gerações desde o início.
+350	That is how we merit Netzach Yisrael with all	Assim merecemos o Netzach Yisrael com todas
+351	the	as
+352	explanations of ours.	nossas explicações.
+353	And so we now want to speak briefly about the history of the people of Israel in general.	E por isso queremos agora falar brevemente sobre a história do povo de Israel em geral.
+354	As we said earlier, what is our story,	Como dissemos antes, qual é a nossa história,
+355	ours: "From where did you come, and to where are you going,	nossa: "De onde vieste, e para onde vais,
+356	and before Whom will you give account."	e perante Quem prestarás contas."
+357	And everything begins with Avraham Avinu,	E tudo começa com Avraham Avinu,
+358	our first father. "Avraham was one": one day, one place,	nosso primeiro pai. "Avraham era um só": um dia, um lugar,
+359	one message, everything is Avraham, he, Avram, …	uma mensagem, tudo é Avraham, ele, Avram, …
