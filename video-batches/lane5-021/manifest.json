@@ -2,7 +2,7 @@
  "name": "lane5-021",
  "lane": 5,
  "created": "2026-10-28T14:14:10.161Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "8-GlYBN9gCA",
@@ -25,6 +25,8 @@
  "tries": {
   "8-GlYBN9gCA": 1
  },
- "done": [],
+ "done": [
+  "8-GlYBN9gCA"
+ ],
  "skipped": []
 }
