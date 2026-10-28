@@ -1,0 +1,57 @@
+{
+ "name": "lane1-014",
+ "lane": 1,
+ "created": "2026-10-28T14:14:05.930Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "_fmcRRO9Yi4",
+   "title": "Revelação da alma e de HaShem pelos kelim: Chovat HaTalmidim",
+   "lines": 447,
+   "parts": 4,
+   "from": "recente"
+  },
+  {
+   "id": "Z2GdBuyeM-g",
+   "title": "Ahim Bechorim e a constância do mundo de Atzilut",
+   "lines": 503,
+   "parts": 5,
+   "from": "recente"
+  },
+  {
+   "id": "eHxVfQPlbps",
+   "title": "Gog e Magog em Sucot, ressurreição em Pessach e o Gaon de Vilna",
+   "lines": 511,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "9dUeS6aUGSQ",
+   "title": "Parashat Shemini: o conserto da boca e a kashrut",
+   "lines": 577,
+   "parts": 5,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "_fmcRRO9Yi4.p0",
+  "_fmcRRO9Yi4.p1",
+  "_fmcRRO9Yi4.p2",
+  "_fmcRRO9Yi4.p3",
+  "Z2GdBuyeM-g.p0",
+  "Z2GdBuyeM-g.p1",
+  "Z2GdBuyeM-g.p2",
+  "Z2GdBuyeM-g.p3",
+  "Z2GdBuyeM-g.p4",
+  "eHxVfQPlbps.p0",
+  "eHxVfQPlbps.p1",
+  "eHxVfQPlbps.p2",
+  "eHxVfQPlbps.p3",
+  "eHxVfQPlbps.p4",
+  "9dUeS6aUGSQ.p0",
+  "9dUeS6aUGSQ.p1",
+  "9dUeS6aUGSQ.p2",
+  "9dUeS6aUGSQ.p3",
+  "9dUeS6aUGSQ.p4"
+ ]
+}

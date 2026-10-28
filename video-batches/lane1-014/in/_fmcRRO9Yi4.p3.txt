@@ -1,0 +1,111 @@
+videoId: _fmcRRO9Yi4
+parte 4 de 4 · traduzir as linhas 360 a 446 (87 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Revelação da alma e de HaShem pelos kelim: Chovat HaTalmidim
+RESUMO: O rabino lê a Chovat HaTalmidim, p. 175, que ensina que a alma simples se revela por meio dos kelim (vasos): órgãos, inclinações e talentos. Todos eles existem para revelar a alma judaica por meio da Torá e das mitzvot. Por kal vahomer, a luz de HaShem só se revela por atos e mitzvot, e por isso recebe nomes como Chesed, Elokim ou Shakai, conforme o vaso, como no Midrash "Eu sou chamado segundo meus atos" e no Patach Eliyahu. O texto aponta duas diferenças entre o exemplo (a alma do homem) e o que ele ilustra (a luz Divina): a alma é contida pelo corpo e HaShem não é contido pelos mundos, e o homem precisa dos kelim enquanto HaShem os criou por Sua vontade. O rabino aplica isso à autoconhecimento: observar gostos, estilo e inclinações revela a própria alma. Distingue nefesh, ruach e neshamá (ação, fala e pensamento; direita, esquerda e meio) e cita Iyov 19:26 e o Midrash sobre "Bereshit" e Israel. Explica que o mundo natural revela o nível de nefesh de HaShem, enquanto a Torá e as mitzvot revelam o ruach e a neshamá. Como exemplo, mostra as leis de votos em Nedarim, que podem ser estudadas de forma seca ou espiritual, ligando o voto da mulher e sua anulação ao tzimtzum e à aprovação do alto, e conta a história da mulher "Lechluchit".
+MOMENTOS: 02:27 A alma é simples e os kelim a revelam · 04:38 A alma se revela por todos os órgãos, Torá e mitzvot · 06:11 Como se revela a luz simples de HaShem; os nomes pelos kelim · 10:07 Primeira diferença: a alma é contida, HaShem não · 12:08 Segunda diferença: os kelim são necessários ao homem, não a HaShem · 13:41 Conhecer a si mesmo pelas ações: o exemplo das flores · 15:51 Nefesh, ruach e neshamá: ação/fala/pensamento, direita/esquerda/meio · 22:39 Trabalho de autoconhecimento: perguntas fundamentais · 26:42 Bereshit: o mundo revela o poder, Israel revela a santidade · 30:00 Natureza revela a nefesh; Torá e mitzvot revelam ruach e neshamá · 33:48 Exemplo das leis de votos (Nedarim) e a espiritualidade na Gemará · 38:20 Por que o voto da mulher depende do pai ou do marido · 44:00 O tzimtzum feito pelo kli e a aprovação do alto · 46:40 A história da mulher que fez voto em Nedarim
+FONTES CITADAS: 02:27 Chovat HaTalmidim, p. 175 · 04:38 Chovat HaTalmidim, p. 175 · 05:29 Chovat HaTalmidim, Maamar HaElef (alegoria do funil) · 07:07 Shemot Rabbah 3:6 · 08:08 Patach Eliyahu (Tikunei Zohar, introdução) · 14:05 Expressão cabalística "mi-maasecha yikranucha · 16:51 Nefesh HaChaim (Rav Chaim de Volozhin) · 17:18 Cabalá: nefesh, ruach, neshamá · 18:00 Cabalá: nefesh, ruach e neshamá como direita, esquerda e meio · 19:36 Bereshit Rabbah 14:9 · 20:23 Niddah 31a · 25:11 Iyov 19:26 · 26:42 Rashi em Bereshit 1:1 · 29:02 Bereshit Rabbah 1:4 · 33:48 Bamidbar 30 · 35:04 Nedarim: Mishná, Gemará, Rashi, Rashbam e Tosafot · 36:18 Pshat, remez, drash e sod (PaRDeS) · 37:29 Nedarim, capítulo 10 · 38:34 Bamidbar 30:4-10 · 44:00 Etz Chaim (tzimtzum) · 44:39 Zohar: itaruta de-letata · 46:40 Nedarim 66b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|39:04|מקוים אז צריך להבין
+349|39:11|מה פה העניין מה העניין של נדר בכלל
+350|39:18|ולמה האישה היא תלויה?
+351|39:21|למה האישה לא עצמאית?
+352|39:22|זה אומר שהאישה היא לא עצמאית.
+353|39:29|אם היא נערה, אז אביה אחראי על נדריה.
+354|39:34|ואם היא נשואה, אז בעלה אחראי על נדריה.
+355|39:37|ואם היא מאורסת, אז גם אביה וגם
+356|39:40|בעלה.
+357|39:43|למה זה ככה?
+358|39:46|אם היא גרושה אז היא משוחררת לגמרי.
+359|39:49|זהו.
+
+LINHAS A TRADUZIR:
+360|39:51|גם.
+361|39:52|משוחררת.
+362|39:54|היא כבר לא תחזור לבית של אבא שלה.
+363|39:56|היא לא חוזרת לרשות אביה.
+364|39:59|לא.
+365|40:00|גמרנו.
+366|40:01|אז היא יכולה לעשות מה שהיא רוצה.
+367|40:05|האם יש אפשרות להפר את נדריה אם היא גרושה או אלמנה?
+368|40:09|התשובה היא כן.
+369|40:12|היא יכולה ללכת לבית דין ולהשמיע להם את הנדר ובית דין יכולים להפר
+370|40:18|את נדריה אם היא רוצה אבל היא ברשותה ברשות עצמה
+371|40:29|אז צריך להבין את כל הדבר הזה הרי האישה היא מסמלת את הרצון
+372|40:35|לקבל של האדם עכשיו בדרך כלל למה בן
+373|40:41|אדם נודר נדר?
+374|40:42|בשביל מה נודרים נדרים?
+375|40:45|בגשמיות.
+376|40:47|נודרים איזה נדר, איזה התחייבות מסוימת, רוצים איזה
+377|40:54|כוח דוחף לאיזה מטרה מסוימת.
+378|40:58|למשל, אדם רוצה להתחזק בקימה לפנות בוקר, אז הוא נודר
+379|41:04|נדר, שהוא יקום בחולי.
+380|41:16|זה נדר עם תנאי יש נדר בלי תנאי זאת אומרת נגיד
+381|41:22|אישה דוגמה אישה היה לה הריון מאוד מאוד קשה לידה מאוד
+382|41:28|קשה אז היא אומרת אני נודרת נדר אני נודרת עכשיו
+383|41:34|נדר שאני לא נכנסת יותר להיריון גמר זהו
+384|41:42|אז זה לא אם או מה לא רוצה יותר אז בכדי לתת תוקף, לתת תוקף להחלטה
+385|41:48|שלה, אז היא נודרת נדר.
+386|41:51|זה תוקף
+387|41:52|פשוט.
+388|42:05|זה כבר שיגעון, זה שיגעון, זה שיגעון.
+389|42:17|כאילו נגיד כזה דבר, האישה זה הכלי, והגבר זה מרכבה לאור,
+390|42:23|ואם הכלי מקבל על עצמו קבלות, אז האור צריך לאשר את זה כאילו.
+391|42:30|אם לא יבוא אור אלוקים על זה, זה לא מאושר.
+392|42:35|זה נראה לי.
+393|42:39|נו.
+394|42:44|דתיים?
+395|42:45|נערים דתיים?
+396|42:49|בזמני היה אני נשבע אה זה השתדרג לנודר
+397|42:57|בזמני זה היה אני נשבעת לך כי שבועה זה
+398|43:03|דומה לנדר אבל שבועה זה יותר חמור שבועה זה גם התחייבות אבל שבועה זה יותר חמור
+399|43:09|מנדר הלשון הזאת של
+400|43:12|שבועה זה התחייבות בסדר משחקים לא
+401|43:19|אני מחפש את השורש הרוחני של הדבר הזה.
+402|43:34|זה לא לעניין, אז הם לא יאשרו לה.
+403|43:36|אם זה כן לעניין, אז כן יאשרו לה.
+404|43:41|זאת אומרת, גם בעולמות אנחנו אומרים שאת הצמצום,
+405|43:47|הצמצום עשה הכלי.
+406|43:50|הכלי החליט שהוא לא רוצה יותר לקבל את אור אינסוף, אלא אם כן הוא נתקן בה על
+407|43:56|מנת להשפיע.
+408|43:56|אז הכלי עשה את הצמצום.
+409|44:00|עכשיו, אם האור לא היה מאשר את זה, אז זה לא היה.
+410|44:06|לא היה מתקבל.
+411|44:08|היות ש...
+412|44:10|אני זוכר את המילים האלה, שהעליון,
+413|44:16|העליון התברך, קיבל את החוק של התחתון,
+414|44:24|מין לשון כזאת.
+415|44:26|תחתון החליט שהוא לא רוצה לקבל יותר לתועלת עצמו והעליון קיבל את זה.
+416|44:34|אז כאילו העליון צריך לאשר את הדבר הזה.
+417|44:39|התערותא דלתתא זקוקה לאישור מלמעלה.
+418|44:56|בכל אופן, אז כל הלימודים הללו
+419|45:01|השונים נותנים לאדם הרגשה של מציאות השם.
+420|45:08|כי באמת כל הדברים האלה זה הבורא התברך בדרכי התגלותו
+421|45:13|השונים לתחתונים.
+422|45:40|יש סיפור בגמרא בנדרים, שאישה אחת עשתה נדר.
+423|45:50|שאם
+424|45:57|אין בה איזה משהו יפה,
+425|46:03|אז היא לא תקבל שום דבר מבעלה, לא רוצה כלום מבעלה.
+426|46:07|אם אין בה שום דבר יפה.
+427|46:13|סיפור כזה, זה גם משל.
+428|46:16|כל הדברים האלה זה משלים.
+429|46:22|אז חכמים רצו להתיר לה את הנדר, שכן תוכל ליהנות מבעלה.
+430|46:28|אז התחילו לעבור, אם יש בה איזה דבר יפה.
+431|46:32|הראש שלה מרובע, הגב שלה עם גיבנת.
+432|46:38|היד שלה תלויה.
+433|46:44|אז איך יתירו אותה לבעלה?
+434|46:48|אז בסוף חכמים שאלו אותה, איך קוראים לך?
+435|46:52|הפוך,
+436|47:02|איך קוראים לך?
+437|47:03|אז היא אמרה, לכלוכית.
+438|47:06|אז הם אמרו, או, יש פה משהו יפה.
+439|47:09|דבר אחד יש פה יפה.
+440|47:11|והתירו אותה.
+441|47:15|זה הכל משלים.
+442|47:17|טוב, נסיים,
+443|47:18|כן.
+444|47:29|מה נשמע אל חנוך?
+445|47:41|מה?
+446|47:43|כן.
