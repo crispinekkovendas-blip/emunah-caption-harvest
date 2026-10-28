@@ -1,0 +1,85 @@
+{
+ "name": "lane9-007",
+ "lane": 9,
+ "created": "2026-10-28T02:11:58.955Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "feAOxQ_EZBE",
+   "title": "A Akedá: Kierkegaard e o Rav Kook, entre esquerda e direita",
+   "lines": 676,
+   "parts": 6,
+   "from": "recente"
+  },
+  {
+   "id": "U-0WRcPPgGE",
+   "title": "O Kav, o Chalal e a Luz: Etz Chaim com o Ramchal",
+   "lines": 844,
+   "parts": 8,
+   "from": "recente"
+  },
+  {
+   "id": "xsuxCiPSAjI",
+   "title": "Ismael e Yitzchak: por que não há coexistência (Vayera)",
+   "lines": 1584,
+   "parts": 14,
+   "from": "recente"
+  },
+  {
+   "id": "2Bb286JSFeI",
+   "title": "Vayera: a hospitalidade de Avraham e os anjos",
+   "lines": 722,
+   "parts": 7,
+   "from": "recente"
+  },
+  {
+   "id": "LS5hGOob5vk",
+   "title": "Tudo o que HaShem faz é para o seu bem: o teste da fé",
+   "lines": 583,
+   "parts": 5,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "feAOxQ_EZBE.p0",
+  "feAOxQ_EZBE.p1",
+  "feAOxQ_EZBE.p2",
+  "feAOxQ_EZBE.p3",
+  "feAOxQ_EZBE.p4",
+  "feAOxQ_EZBE.p5",
+  "U-0WRcPPgGE.p0",
+  "U-0WRcPPgGE.p1",
+  "U-0WRcPPgGE.p2",
+  "U-0WRcPPgGE.p3",
+  "U-0WRcPPgGE.p4",
+  "U-0WRcPPgGE.p5",
+  "U-0WRcPPgGE.p6",
+  "U-0WRcPPgGE.p7",
+  "xsuxCiPSAjI.p0",
+  "xsuxCiPSAjI.p1",
+  "xsuxCiPSAjI.p2",
+  "xsuxCiPSAjI.p3",
+  "xsuxCiPSAjI.p4",
+  "xsuxCiPSAjI.p5",
+  "xsuxCiPSAjI.p6",
+  "xsuxCiPSAjI.p7",
+  "xsuxCiPSAjI.p8",
+  "xsuxCiPSAjI.p9",
+  "xsuxCiPSAjI.p10",
+  "xsuxCiPSAjI.p11",
+  "xsuxCiPSAjI.p12",
+  "xsuxCiPSAjI.p13",
+  "2Bb286JSFeI.p0",
+  "2Bb286JSFeI.p1",
+  "2Bb286JSFeI.p2",
+  "2Bb286JSFeI.p3",
+  "2Bb286JSFeI.p4",
+  "2Bb286JSFeI.p5",
+  "2Bb286JSFeI.p6",
+  "LS5hGOob5vk.p0",
+  "LS5hGOob5vk.p1",
+  "LS5hGOob5vk.p2",
+  "LS5hGOob5vk.p3",
+  "LS5hGOob5vk.p4"
+ ]
+}
