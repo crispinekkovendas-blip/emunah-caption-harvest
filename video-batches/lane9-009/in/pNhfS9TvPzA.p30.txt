@@ -1,0 +1,64 @@
+videoId: pNhfS9TvPzA
+parte 31 de 32 · traduzir as linhas 1200 a 1239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashá Pinchas: o líder que cuida do espírito e do corpo
+RESUMO: O rabino parte do pedido de Moshé a HaShem por um sucessor (Bamidbar 27:15-17) e pergunta por que ele chama HaShem de "Elokei haruchot lechol basar" e por que repete "para que a congregação não seja como ovelhas sem pastor"; cita Rashi, que explica que cada pessoa tem uma mente diferente e o líder deve suportar cada um conforme a sua. Segundo o caminho do Baal Shem, todo ser humano é espírito e carne, e o líder, o pai e a mãe precisam cuidar dos dois lados, citando "sem farinha não há Torá, sem Torá não há farinha". "Ish al haedá" significa ser uma personalidade que trabalha as suas midot e permanece acima, sem se ofender com cada palavra da esposa ou dos filhos. "Asher yetsê lifnêhem" significa cuidar da própria saúde e do próprio repouso antes de conduzir os outros, e "asher yavó" é saber voltar ao Bêt HaMidrash. "Asher yotsiém ve'asher yeviém" significa levar os outros a descansar e depois trazê-los de volta à santidade, com exemplos sobre filhos, filhas e esposa. Por fim, "adat HaShem" são as almas elevadas que também precisam de um pastor que cuide do corpo, e a aula termina com a história da mãe do rabino e da carteira de motorista, sobre fixar uma meta e não desistir.
+MOMENTOS: 00:51 HaShem diz a Moshé que sua missão terminou · 01:16 Moshé pede um líder para o povo · 02:50 Rashi: cada pessoa tem uma mente diferente · 04:46 Rashi: sair e entrar à frente, não como os reis · 08:35 Todo ser humano é espírito e carne · 10:59 Líder e pai precisam cuidar dos dois lados · 19:16 Ish al haedá: o líder como personalidade · 27:03 Estar acima e não se ofender com tudo · 35:48 Asher yetsê lifnêhem: cuidar de si primeiro · 49:51 Asher yavó: saber voltar ao estudo · 56:29 Asher yotsiém: dar à filha o que ela deseja · 1:02:58 Adat HaShem: as almas elevadas também precisam de pastor · 1:10:14 Exemplo da mãe do rabino e a carteira de motorista
+FONTES CITADAS: 00:51 Bamidbar 27:12-13 · 01:16 Bamidbar 27:16-17 · 03:13 Rashi em Bamidbar 27:16 · 05:20 Rashi em Bamidbar 27:17 · 06:35 Rashi em Bamidbar 27:17 · 07:00 Bamidbar 27:17 · 18:07 Pirkei Avot 3:17 · 1:00:34 Birkot HaShachar · 1:03:03 Bamidbar 27:17 · 1:16:55 Bereshit 22 e Pirkei Avot 5:3
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+1188|1:16:53|רישיון.
+1189|1:16:55|בעשירי הוא מתקשר אליי. הרב נכשלתי.
+1190|1:17:02|מה אני אגיד לו?
+1191|1:17:04|הלו הלו
+1192|1:17:07|אצלנו אין הכשלתי יש ממשיכים
+1193|1:17:11|אשתו אמרה הרב אני חושבת שבעלי לא מתאים
+1194|1:17:14|לזה זה לא בשבילו חבל זה המון כסף זה עוד
+1195|1:17:19|טסט עם 10ה כבר הוא לא הצליח אפילו אברהם
+1196|1:17:22|אבינו עמד בעשרה ניסיונות אם הוא עבשירי
+1197|1:17:26|כבר לא עבר די הרב אולי כדאי לשחרר ציל
+1198|1:17:30|ממש לא,
+1199|1:17:33|אני מקבל טלפון בטסט ה-14.
+
+LINHAS A TRADUZIR:
+1200|1:17:38|הרב, נכשלתי
+1201|1:17:43|14
+1202|1:17:47|הרב, אולי כדאי שבעלי יפסיק? זה לא מתאים
+1203|1:17:50|לו. הרב, זה לא מתאים אין כזה דבר.
+1204|1:17:55|16
+1205|1:17:56|הרב, עוד פעם נכשלתי.
+1206|1:18:02|מה אתה היית אומר לאחד כזה?
+1207|1:18:06|אם אפילו אתה לא אם 16,
+1208|1:18:09|אתה אתה לא מצליח להגיע ב-16, בטest ה-16
+1209|1:18:12|להצליח, אז עזוב בואנה, זה לא בשבילך, לך
+1210|1:18:15|תיסע על אופניים.
+1211|1:18:18|מה רע? גם באופניים אפשר להגיע לכל מקום.
+1212|1:18:22|אבל עבדכם הנאמן
+1213|1:18:25|חניך של אמא זכרונה לברכה,
+1214|1:18:28|תמשיך
+1215|1:18:30|ולא לוותר לעצמך עד שתגיע ליעד.
+1216|1:18:35|בטסט ה-17 קיבלתי השבוע טלפון. הרב,
+1217|1:18:41|בעלי קיבל רישיון.
+1218|1:18:46|איפה המחיות כפיים שלכם?
+1219|1:18:52|>> הוא לא ויטר הוא לא ויטר לעצמו אתם יודעים
+1220|1:18:56|מה הוא למד? תציב יעד
+1221|1:19:00|וכל יעד שאתה תציב אתה תגיע אליו. תאמין
+1222|1:19:05|שאתה יכול שהבורא עולם איתך הוא יעזור לך.
+1223|1:19:10|אתם יודעים איך זה ירים לו את הביטחון?
+1224|1:19:12|היום מסתובב שמה איפה שהוא גר.
+1225|1:19:16|אשתו אומרת לי, "הרב, בעלי נהיה זקוף,
+1226|1:19:19|התיישר לו הגב.
+1227|1:19:24|אשר יוציאם ואשר יביאם. אתה לא אמור לדאוג
+1228|1:19:28|לתלמידים שלך. לא חשוב, עזבי את הרישיון.
+1229|1:19:31|העיקר שהוא לומד טוב, בעלך מתמיד, בעלך
+1230|1:19:35|צדיק, מצוין. לא, לא, תדאג לתלמידים גם
+1231|1:19:40|שיוציאו רישיון.
+1232|1:19:43|חי ורעיי, יהיה רצון
+1233|1:19:46|שבעזרת השם נזכה כולנו ללכת בדרך הנכונה,
+1234|1:19:51|בדרך האמת,
+1235|1:19:53|ונזכה להקים דורות ישרים מבורכים, בריאים
+1236|1:19:57|בגוף, בריאים בנשמה, בריאים בנפש. וככה
+1237|1:20:03|בעזרת השם כולם יגידו, תראה מה זה עם
+1238|1:20:07|ישראל, איזה עם מבורך. גם צדיקים, גם בעלי
+1239|1:20:13|רוח וגם בריאים בנפש ובגוף. שלמות. חזקו

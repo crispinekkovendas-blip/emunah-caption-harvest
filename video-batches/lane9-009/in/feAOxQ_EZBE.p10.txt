@@ -1,0 +1,64 @@
+videoId: feAOxQ_EZBE
+parte 11 de 17 · traduzir as linhas 400 a 439 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A Akedá: Kierkegaard e o Rav Kook, entre esquerda e direita
+RESUMO: O Rav Lior Lavi, na véspera das eleições, estuda uma conversa do Rav Tzvi Yehuda Kook (Sichot, Parashat Vayera) e contrapõe a leitura da Akedá feita por Kierkegaard à do Rav Kook no Olat Reiyá. Para Kierkegaard, em "Temor e Tremor", a Akedá é a suspensão do moral em nome da fé, algo absurdo e que só se pode viver em silêncio. O Rav Tzvi Yehuda parte da Mishná de Avot sobre o "olho bom", que é a simpatia e o amor às criaturas, e mostra que Avraham ama os seres humanos a ponto de se arriscar por Lot e por Sedom. Por isso a Akedá não é frieza: Avraham, que discutiu por Sedom, aceita ali uma ordem direta, pois ela lhe foi dada como tarefa, não como informação. Segundo o Rav Kook, não há duas morais, e sim uma moral limitada e outra ampliada, como na ordem de um cirurgião, e a Akedá mostra que a fé pura também pode ter a força de se dispor a entregar o filho. No fim, o amor ao filho é elevado, e o rabino compara a esquerda humanista à direita da fé harmônica, que não abandona o mundo dos valores nem na guerra.
+MOMENTOS: 00:43 Akedá pelo olhar da esquerda e da direita · 01:27 O Rav Hanazir ouve o Rav Kook ler a Akedá · 04:49 Kierkegaard: a Akedá como choque entre fé e moral · 09:50 Introdução ao método do Rav Tzvi Yehuda · 11:21 Olho bom: a Mishná de Avot e a simpatia · 17:38 Quem tem compaixão é descendente de Avraham · 20:30 Avraham e Lot: o amor às criaturas leva à guerra · 25:54 Avraham discute com HaShem por Sedom · 30:38 Por que Avraham não discute na Akedá · 33:34 Moral limitada e moral ampliada · 38:27 O sentido da Akedá e o amor ao filho · 41:36 Kierkegaard contra Rav Kook e a ética na guerra
+FONTES CITADAS: 04:55 Kierkegaard, Temor e Tremor · 11:27 Avot 5:19 · 17:38 Sotá 4b e Beitzá 32b · 20:44 Bereshit 13:9 · 21:01 Rashi em Bereshit 13:11 · 21:13 Bereshit Rabá 41:7 · 21:58 Bereshit 14:14 · 23:23 Tehilim 97:10 · 23:29 Tehilim 145:9 · 25:54 Bereshit 18:20-21 · 31:18 Bereshit 18:17 · 28:12 Bereshit 18:25 · 29:41 Bereshit 22:1-14 · 38:43 Bereshit 22:5 · 36:55 Rav Kook, Olat Reiyá · 37:38 Sanhedrin 74b · 39:02 Neviim, oferendas de filhos a ídolos · 15:47 Vayikrá 19:18
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+388|25:57|יש דין ויש דיין.
+389|26:00|מוכרח להתגלות ברור משפטי אלוהי.
+390|26:03|האם אפשר לקיים חלק זה של כדור הארץ?
+391|26:06|ארדנה וארעיה כצעקתה.
+392|26:09|כן, כן, יש שם את הדפים נמצאים שם מאחורה.
+393|26:17|העולם אינו הפקר, יש דין ויש דיין.
+394|26:19|מוכרח להתגלות ברור משפטי אלוהי.
+395|26:21|האם אפשר לקיים?
+396|26:23|מה זה?
+397|26:24|לא, לא, לא, חדשים.
+398|26:25|כל פעם, כל שבוע חדש.
+399|26:30|ארדנה וארעיה כצעקתה, אבל אי אפשר לסדר דברים נוראים אלה בלי ידיעת אברהם.
+
+LINHAS A TRADUZIR:
+400|26:37|שהוא מחותנו, מחותן של ריבונו של עולם.
+401|26:42|כן, הרב צבי יהודה היה לו ביטויים כאלה.
+402|26:43|הוא מחותן של ריבונו של עולם, כאילו, מה, אני יכול לעשות דבר כזה בלי להודיע לאברהם אבינו?
+403|26:48|נודיע לו.
+404|26:50|קרוב למלכות, המכסן ימי אברהם?
+405|26:54|הדברים הנוראים שנתגלו במועצה השמימית העליונה מצריכים בירור בארץ אשר
+406|27:00|נתן לבני אדם.
+407|27:02|עם הקרוב למלכות.
+408|27:04|בפני סכנת הכליה הנשקפת לאנשים האלה הרעים והחטאים להשם מאוד, בגופם
+409|27:10|ובממונם.
+410|27:11|ואז מופיע אברהם אבינו במסירות נפש עילאית.
+411|27:15|מצבים של יהרג ואל יעבור, בהם נהרגים על קידוש השם נקראים מסירות נפש.
+412|27:22|אמנם באופן יותר מדויק זו מסירות גוף, שהרי הנפש קיימת, אבל ישנם מצבים
+413|27:28|יותר עליונים, בהם גדולי עולם, קדושי עליון, מפקירים ומוסרים את
+414|27:34|נפשם עבור כלל ישראל.
+415|27:37|יש סיפור מפורסם על הבעל שם טוב, שמסר נפשו להתפלל להצלתו של אדם רשע
+416|27:43|בלי מתום, מלא קלקולים.
+417|27:46|למרות שהודיעו לו מן השמיים שבזה הוא יפסיד את העולם הבא שלו.
+418|27:51|ככה אמרו לה הבעל שם טוב, שאם אתה מתפלל על הרשע הזה, אין עולם הבא.
+419|27:55|אחרי רגע של דיכאון, התאושש ואמר, עכשיו אני עובד את השם לשמו.
+420|28:01|בלי שתהיה לי מזה שום זכות.
+421|28:04|זאת מדרגה ענקית של התאהבות בבריות.
+422|28:09|וכן אצל אברהם אבינו נמצא סגנון של העזה ממש.
+423|28:12|חלילה לך מעשות כדבר הזה.
+424|28:15|איך אברהם אבינו אומר דבר כזה?
+425|28:16|מה זה אתה בא לקדוש ברוך הוא אומר לו חלילה לך.
+426|28:19|איך אתה עושה דבר כזה?
+427|28:20|הקדוש ברוך הוא לא מתאים לך לעשות דבר כזה.
+428|28:23|חוצפה היא לדבר כך אל שופט כל הארץ.
+429|28:27|זהו מעשה של הסתכנות ומסירות נפש.
+430|28:29|הפקרת עצמו.
+431|28:31|מתוך התאהבות בבריות.
+432|28:35|אברהם אבינו, בצד מי אתה?
+433|28:37|בצד של הקדוש ברוך הוא?
+434|28:38|בצד של סדום?
+435|28:39|בצד של הבריות?
+436|28:40|הוא אומר, הקדוש ברוך הוא, אני בצד של הבריות, אבל כי גם אתה בצד של הבריות, אז איך אתה יכול
+437|28:46|להתנהג ככה?
+438|28:47|אני איתם כי אני איתך.
+439|28:50|אברהם אבינו אומר, אני לא מבין את זה.

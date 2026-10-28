@@ -1,0 +1,64 @@
+videoId: kE4ty09Yb5s
+parte 21 de 33 · traduzir as linhas 800 a 839 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A recusa de Edom e a jornada até a Redenção
+RESUMO: O rabino lembra que, após o pecado dos espiões, Israel ficou 38 anos no deserto e, no fim, pediu ao rei de Edom passagem pela sua terra, mas ele recusou e Israel teve de contornar (Bamidbar 20), como no início da jornada foram contornados os filisteus (Shemot 13:17). Com o Tzror HaMor sobre Bamidbar 33, ele explica que as 42 jornadas escritas "por ordem de HaShem" aludem à longa jornada do exílio até a Redenção, ligadas ao Nome de 42 letras, e garantem que Israel sobreviverá mesmo sem merecimento, por misericórdia. Ele comenta com tristeza e crítica as notícias da semana sobre um acordo com o Irã e afirma que quem conduz o mundo é HaShem, como em Mishlei 21:1, e que os governantes são apenas instrumentos. Com Devarim 1, o Midrash e Rashi, mostra que Amon, Moav e Edom são "todos os vizinhos" do Emori, a terra dos Keni, Kenizi e Kadmoni, que Israel perdeu com o pecado dos espiões e só herdará no fim dos dias (Bil'am e Yeshayahu). Por fim, com o Midrash Tanchuma e Devarim 2, ensina que a recusa de Edom vem na verdade de HaShem ("não vos darei"), e conclui que o caminho para a Redenção depende de nossas escolhas e de voltar à Torá.
+MOMENTOS: 00:26 Introdução: o episódio de Edom na Parashá · 01:35 Israel contorna o monte de Edom no 40º ano · 02:51 Paralelo: os filisteus no início do caminho · 04:38 Tzror HaMor sobre as 42 jornadas · 12:09 O Nome de 42 letras e a sobrevivência de Israel · 20:51 A escolha de Israel define o ritmo da história · 31:40 HaShem conduz o mundo, os governantes são bonecos · 33:20 As 70 nações: Esav e Yishmael · 42:45 Devarim 1: onze dias de Horev a Kadesh · 48:54 Os vizinhos do Emori: Amon, Moav e Edom · 53:37 O pedido a Edom em Bamidbar 20 · 1:00:44 Midrash Tanchuma: a recusa vem de HaShem · 1:08:34 Conclusão: voltar à Torá
+FONTES CITADAS: 02:51 Shemot 13:17 · 03:54 Bereshit 25:25-30 · 04:13 Bamidbar 20:14-21 · 04:38 Tzror HaMor sobre Bamidbar 33 · 06:16 Bamidbar 33:1-2 · 07:08 Mikha 7:15 · 10:00 Bamidbar 33:1 · 12:12 Nome de 42 letras · 12:25 Ana BeKoach · 15:19 Devarim 28:62 · 22:00 Bamidbar 13-14 · 31:57 Mishlei 21:1 · 33:41 Arizal e Gaon de Vilna sobre as 70 nações · 34:19 Tehilim 20:8 · 35:09 Daniel 2 e 7 · 42:45 Devarim 1:1-2 · 46:22 Devarim 1:6-8 · 48:05 Devarim 1:8 · 48:58 Rashi em Devarim 1:7 (Sifrei Devarim) · 50:30 Bereshit 15:19 · 52:12 Bamidbar 24:17-18 · 52:12 Yeshayahu 11:14 · 53:13 Devarim 1:46 · 53:37 Bamidbar 20:14-17 · 55:27 Bereshit 27:40 · 56:05 Bamidbar 20:19 · 56:19 Bamidbar 20:20-21 · 1:00:44 Midrash Tanchuma, Chukat · 1:00:48 Tehilim 120:7 · 1:01:43 Devarim 2:5 · 1:11:44 Vayikra 26:3-6 · 1:12:00 Shemot 24:7
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+788|45:25|והם מגיעים לקדש יש קדש נושא יש קדש ברנע
+789|45:29|ויש עוד קדש
+790|45:31|ונשב מק בקדש ימים רבים
+791|45:35|ואז הם סובבים את ארץ אדום ואז הם מגיעים
+792|45:41|למקום שבו הם מבקשים את הבקשה הזאת ממלך
+793|45:46|אדום הם אמורים לא לעלות לארץ מדרום אלא
+794|45:51|לעשות סיבוב לעקוף את ארץ מואב
+795|45:55|ולהגיע ליריכו בסיבוב הזה עכשיו הם יכלו
+796|45:59|לקצר את הדרך אם הם היו הולכים דרך ארץ
+797|46:02|אדום
+798|46:04|ומלך אדום מסרב להם והנה הפסוקים בפרשה
+799|46:07|שלנו אחרי כל הרקע הזה
+
+LINHAS A TRADUZIR:
+800|46:11|לא זה לא בפרשה שלנו עדיין
+801|46:13|אוקיי בוא נראה עוד כמה פסוקים אני ערכתי
+802|46:15|את זה בכוונה בצורה הזאת שנוכל להבין את
+803|46:18|הכל אז נמשיך רגע שוב בספר דברים
+804|46:22|השם אלוקינו דיבר אלינו בחורב לאמור משה
+805|46:24|בסוף במדבר בשנת ה-40 מספר מה היה השם
+806|46:30|אלוהינו דיבר אלינו בחורב לאמור רב לכם
+807|46:32|שבט בהר הזה מה זה ההר הזה הר סיני הר
+808|46:35|חורב פנוסעו לכם ובואו הר האמורי ואל כל
+809|46:41|שכניו שימו לב לביטוי הזה כלומר אם אנחנו
+810|46:44|חוזרים למפה אנחנו נמצאים כאן כאילו נגיד
+811|46:47|שזה הר סיני רב לכם שבט בהר הזה כי פה הם
+812|46:50|ישבו כמעט שנה אחרי מעמד הר סיני אז
+813|46:55|תלכו אל הר האמורי הר האמורי
+814|47:00|זה שרשרת הרי יהודה.
+815|47:03|הרי יהודה זה נקרא הר האמורי. אבל כתוב פה
+816|47:06|הר האמורי ואל כל שכינז
+817|47:11|נראה את הפסוק שוב. השם אלוקינו דיבר
+818|47:13|אלינו בחורב לאמור. זה לקוח מספר דברים
+819|47:15|פרק א' השם אלוקינו דיבר אלינו בחורב
+820|47:18|לאמור. רב לכם שבת בהר הזה בהר חורב
+821|47:20|פנושאו לכם ובואו הר האמורי ואל כל שכיניו
+822|47:24|בערבה בהר שזה גב ההר שרשרת הרי יהודה
+823|47:29|ובשפלה שזה כל החוף אשקלון אשדוד יבנה
+824|47:34|רחובות ראשון לציון של ימינו כן וכולי זה
+825|47:38|השפלה
+826|47:40|[כחכוח] בערבה בהר בשפלה ובנגב ובחוף הים
+827|47:44|ארץ הקנעני והלבנון עד לבנון
+828|47:48|עד הנהר הגדול, נהר פרט, שזה כל החלק
+829|47:52|שנמצא היום בשליטת סוריה.
+830|47:57|עכשיו חלק מזה מסתפח איכשהו החרמון וכולי.
+831|48:01|טוב, הגולן עד הנהר הגדול, נהר פרט. לשמה
+832|48:05|אתם זה הארץ שאליה אתם אותה אתם צריכים
+833|48:08|לרשת. ראה נתתי לפניכם את הארץ בואו הורשו
+834|48:12|את הארץ אשר נשבע השם לאבותיכם לאברהם
+835|48:14|יצחק וליעקב לתת להם ולזרם אחריהם כלומר
+836|48:19|11 יום אנחנו מתחילים לכבוש את הארץ כך
+837|48:23|הקדוש ברוך הוא אומר לנו ואז מה שקרה
+838|48:26|מגיעים לקדש ברניה שולחים את המרגלים
+839|48:28|המרגלים יוצאים מדי הארץ רעה ובגלל זה יש

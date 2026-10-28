@@ -1,0 +1,64 @@
+videoId: kE4ty09Yb5s
+parte 24 de 33 · traduzir as linhas 920 a 959 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A recusa de Edom e a jornada até a Redenção
+RESUMO: O rabino lembra que, após o pecado dos espiões, Israel ficou 38 anos no deserto e, no fim, pediu ao rei de Edom passagem pela sua terra, mas ele recusou e Israel teve de contornar (Bamidbar 20), como no início da jornada foram contornados os filisteus (Shemot 13:17). Com o Tzror HaMor sobre Bamidbar 33, ele explica que as 42 jornadas escritas "por ordem de HaShem" aludem à longa jornada do exílio até a Redenção, ligadas ao Nome de 42 letras, e garantem que Israel sobreviverá mesmo sem merecimento, por misericórdia. Ele comenta com tristeza e crítica as notícias da semana sobre um acordo com o Irã e afirma que quem conduz o mundo é HaShem, como em Mishlei 21:1, e que os governantes são apenas instrumentos. Com Devarim 1, o Midrash e Rashi, mostra que Amon, Moav e Edom são "todos os vizinhos" do Emori, a terra dos Keni, Kenizi e Kadmoni, que Israel perdeu com o pecado dos espiões e só herdará no fim dos dias (Bil'am e Yeshayahu). Por fim, com o Midrash Tanchuma e Devarim 2, ensina que a recusa de Edom vem na verdade de HaShem ("não vos darei"), e conclui que o caminho para a Redenção depende de nossas escolhas e de voltar à Torá.
+MOMENTOS: 00:26 Introdução: o episódio de Edom na Parashá · 01:35 Israel contorna o monte de Edom no 40º ano · 02:51 Paralelo: os filisteus no início do caminho · 04:38 Tzror HaMor sobre as 42 jornadas · 12:09 O Nome de 42 letras e a sobrevivência de Israel · 20:51 A escolha de Israel define o ritmo da história · 31:40 HaShem conduz o mundo, os governantes são bonecos · 33:20 As 70 nações: Esav e Yishmael · 42:45 Devarim 1: onze dias de Horev a Kadesh · 48:54 Os vizinhos do Emori: Amon, Moav e Edom · 53:37 O pedido a Edom em Bamidbar 20 · 1:00:44 Midrash Tanchuma: a recusa vem de HaShem · 1:08:34 Conclusão: voltar à Torá
+FONTES CITADAS: 02:51 Shemot 13:17 · 03:54 Bereshit 25:25-30 · 04:13 Bamidbar 20:14-21 · 04:38 Tzror HaMor sobre Bamidbar 33 · 06:16 Bamidbar 33:1-2 · 07:08 Mikha 7:15 · 10:00 Bamidbar 33:1 · 12:12 Nome de 42 letras · 12:25 Ana BeKoach · 15:19 Devarim 28:62 · 22:00 Bamidbar 13-14 · 31:57 Mishlei 21:1 · 33:41 Arizal e Gaon de Vilna sobre as 70 nações · 34:19 Tehilim 20:8 · 35:09 Daniel 2 e 7 · 42:45 Devarim 1:1-2 · 46:22 Devarim 1:6-8 · 48:05 Devarim 1:8 · 48:58 Rashi em Devarim 1:7 (Sifrei Devarim) · 50:30 Bereshit 15:19 · 52:12 Bamidbar 24:17-18 · 52:12 Yeshayahu 11:14 · 53:13 Devarim 1:46 · 53:37 Bamidbar 20:14-17 · 55:27 Bereshit 27:40 · 56:05 Bamidbar 20:19 · 56:19 Bamidbar 20:20-21 · 1:00:44 Midrash Tanchuma, Chukat · 1:00:48 Tehilim 120:7 · 1:01:43 Devarim 2:5 · 1:11:44 Vayikra 26:3-6 · 1:12:00 Shemot 24:7
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+908|52:19|נחץ את פעתי מואב והיה אדום ירשע. כמו
+909|52:24|שנאמר אדום ומואב משלח ידם ובני עמון
+910|52:27|נשמעתם. כלומר בישעיהו ובנבואת משה נבואת
+911|52:32|בלעם בפרשת בלק מוזכרים כל השלושה האלה
+912|52:37|לעתיד לבוא לכן כאן אמר אל הר האמורי הוא
+913|52:41|ארץ שבע האומות ומפני שהיה יושב בתחילת
+914|52:45|הכניסה מיד פוגשים אותו כשמגיעים מדרום את
+915|52:48|האמורי לכן זה נקרא על שמו אבל היו שמה גם
+916|52:52|שלושה עמים נוספים
+917|52:55|[כחכוח] המון מואב ואדום שהם קנים כנזי
+918|52:57|וקדמוני והיינו צריכים לרשת גם את הרצם,
+919|53:00|אבל בגלל את המרגלים אנחנו לא יורשים את
+
+LINHAS A TRADUZIR:
+920|53:03|הרצם. הם נשארים שמה עד אחרית הימים. טוב,
+921|53:07|[נחירות בוז] [כחכוח]
+922|53:10|עכשיו היינו בקדש, הגענו לקדש ומשה רבנו
+923|53:13|מסכם שמה ואומר ותשבו בקדש ימים רבים
+924|53:18|כימים אשר ישבתם.
+925|53:21|[נחירות בוז]
+926|53:24|עכשיו
+927|53:26|צריכים להגיע לאזור יריכו. הנה הפסוקים
+928|53:30|בפרשת השבוע. תראו אחרי כל ההקדמה הזאת
+929|53:33|מתחילת השיעור. הנה הגענו סוף סוף לפרשת
+930|53:37|חוקת במדבר פרק כ. וישלח משה מלאכים
+931|53:41|שליחים מי קדש אל מלך אדום? כה אמר אחיך
+932|53:47|ישראל [נחירות בוז]
+933|53:51|עמי קנען הם לא אחים שלנו
+934|53:54|גם המון מואב לא נקראים אחיך אבל אדום זה
+935|53:58|אחיך כי יעקב ועשיו הם אחים אז הוא אומר
+936|54:01|לו תשמע אח שלי
+937|54:04|אתה שמעת מה עברנו תן לי לעבור אני לא
+938|54:07|הולך לכבוש אותך אתה לא טארגט שלי אני רק
+939|54:11|רוצה לעבור דרך דרך המקום שלך והוא הוא
+940|54:13|מסביר לו בצ בצורה מפורטת בואו נראה וישלח
+941|54:17|משה מלאכים יקדש אל מלך אדום כה אמר אחיך
+942|54:19|ישראל אתה ידעת את כל התלאה אשר מצאתנו
+943|54:23|וירדו אבותינו מצרים אבנש במצרים ימים
+944|54:26|רבים ויראו לנומצרים
+945|54:29|ולאבותינו ונצעק אל השם וישמע כולנו וישלח
+946|54:31|מלאך ויוציאנו ממצרים והנה אנחנו בקדש עיר
+947|54:35|קצה גבוליך
+948|54:38|קדש יושבת על הקצה של הגבול של מ של אדום
+949|54:44|נע עבר בארצך
+950|54:46|לא נעבור בשדה ובחרם אל תדאג לא נזיק
+951|54:49|לשדות לא לקרמים אנחנו רוצים לעבור על
+952|54:52|ההייו על הכביש הראשי
+953|54:56|לא נשתה באר מבאר יש לנו באר מרים דרך
+954|55:00|המלך נלך לא ניתה ימין ושמאל עד אשר נעבור
+955|55:03|גבולך תן לי רק לעבור
+956|55:06|ויאמר אליו אדום לא תעבור בי פן בחרב אצל
+957|55:11|לקראתך
+958|55:13|לא אני לא נותן לך לעבור עלזה
+959|55:16|עכשיו שימו לב למילה אחיך כה אמר אחיך

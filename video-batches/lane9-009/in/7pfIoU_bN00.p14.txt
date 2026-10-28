@@ -1,0 +1,64 @@
+videoId: 7pfIoU_bN00
+parte 15 de 37 · traduzir as linhas 560 a 599 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mishpatim: mitzvot entre o homem e o próximo e a Torá Oral
+RESUMO: O Rav Zamir Cohen abre com as obrigações do marido em Shemot 21:10 (shear, kesutá, onatá), segundo o Rambam, e com a alegria do casal nas festas, segundo a Gemará. Pergunta por que a parashá começa com mitzvot entre o homem e o próximo e explica que quem se eleva espiritualmente não deve esquecer as pessoas, citando Kibud Av VaEm junto com o Shabat nos Dez Mandamentos. Ensina a mitzvá de ajudar o burro caído do inimigo (Shemot 23:5), com a Gemará em Bava Metzia 32b: vencer o impulso e ajudar o inimigo é preferível, e a quebra das middot fortalece a alma, como um músculo. Com o Rambam, explica que o Gan Éden não se descreve, e com a Mishná de Avot, que uma hora de prazer no Mundo Vindouro vale mais que toda a vida neste mundo. Em Shemot 24:12 (veha-mitzvá), mostra que a Torá Oral foi dada em Sinai, com os tefilin e o Yabia Omer sobre o boiler solar como exemplos, e com o jogo do telefone sem fio prova a fidelidade da transmissão, com os amoraim de Rav Huna. Nas perguntas, trata de falar entre a netilat yadaim e a bênção de HaMotzi, da hishtadlut, e de Shir HaShirim como parábola do Rei Shlomo e do povo de Israel, em exílio.
+MOMENTOS: 00:03 Shear, kesutá e onatá: deveres do marido · 01:20 A alegria da esposa e dos filhos nas festas · 03:14 Por que a parashá começa com mitzvot entre o homem e o próximo · 05:22 Kibud Av VaEm ao lado do Shabat · 09:24 O burro do inimigo caído sob a carga · 11:19 Bava Metzia 32b: ajudar o inimigo ou o amigo · 14:53 Quebrar as middot como o treino que constrói músculos · 16:54 Yafá shaá achat shel korat ruach baOlam HaBá · 26:36 Como saber que a Torá Oral é de HaShem · 32:26 Veha-mitzvá: a Torá Oral dada no Sinai · 42:39 O jogo do telefone sem fio e a transmissão da Torá Oral · 46:41 Os amoraim na yeshivá de Rav Huna · 57:44 Shir HaShirim: o Rei Shlomo e a noiva · 1:08:38 Rabi Akiva e Shir HaShirim
+FONTES CITADAS: 00:03 Shemot 21:10 (shear, kesutá, onatá) · 00:14 Rambam, Hilchot Ishut · 01:23 Devarim 16:14 · 01:25 Pesachim 109a · 02:48 Zohar, tevilá e a união do casal · 05:17 Shemot 20:8 e 20:12 (Dez Mandamentos) · 08:49 Bava Metzia 71a · 08:49 Yeshayahu 58:7 · 09:24 Shemot 23:5 · 11:19 Bava Metzia 32b · 14:53 Bava Metzia 32b (lekhof et yitzro) · 16:14 Rosh HaShaná 17a · 16:54 Avot 4:17 · 20:18 Rambam, Hilchot Teshuvá 8 · 21:00 Berachot 17a · 22:18 Mishlei 18:21 · 26:01 Vayikra 23:40 (etrog em Sucot) · 32:26 Shemot 24:12 · 35:13 Michael Drosnin, O Código da Bíblia · 37:15 Devarim 6:8 (Shemá, tefilin) · 38:26 Devarim 4:14 · 40:15 Yigael Yadin, tefilin das cavernas de Qumran · 41:49 Mishná, regra de halachá como os Sábios · 42:24 Devarim 12:21 · 46:58 Yoma 20b · 47:48 Yoma 20b (Rav Huna, 13 amoraim) · 48:28 Shemot 23:2 (acharei rabim lehatot) · 48:55 Devarim 4:2 · 56:07 Devarim 15:18 · 57:23 Shir HaShirim 2:12 · 57:44 Shir HaShirim 1:1 · 1:02:32 Shir HaShirim 1:2 · 1:03:07 Shir HaShirim 1:3 · 1:05:35 Hoshea 2:21 · 1:08:21 Shir HaShirim 1:8 · 1:09:42 Shir HaShirim 2:8 · 1:10:50 Shir HaShirim 2:11 · 1:08:07 Sefer HaRokeach sobre Shir HaShirim 1:3 · 1:16:38 Makot 3:16 (Rabi Chananya ben Akashia)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+548|29:29|לצינורות לקולטים והמים הקרים האלה הופכים
+549|29:33|להיות מים רחים האם זה נקרא שהאישה הזו
+550|29:35|בישלה בשבת האם מותר לפתוח ברז של דוד שמש
+551|29:38|במטבח כדי להדיח כלים כשזה רק דו שמש
+552|29:41|ההיגיון היה אומר שלא אבל שם ביבי העומר
+553|29:46|הוא דן בדבר ולהלכה הוא פוסק שמותר אם לא
+554|29:50|מדובר בדוד חשמלי אלא בדוד שמש כלומר המים
+555|29:53|התחממו על ידי השמש מותר אף על פי
+556|29:55|שההיגיון באמת אומר שאסור
+557|29:58|כי זה בישול לכאורה מאיפה הוא יודע את זה
+558|30:01|מביא את המשנה במסכת שבת המשנה אומרת
+559|30:05|במסכת שבת שמותר בשבת לבשל
+
+LINHAS A TRADUZIR:
+560|30:09|בשמש אסור לבשל בתולדת השמש אבל בשמש עצמה
+561|30:14|מותר מה זה תולדת השמש אדם שיקח מחבת יניח
+562|30:17|אותו בשמש עד שהמחבת נעשה לו הט והוא לוקח
+563|30:21|את המחוות הזה מכניס אותו לבית שובר עליו
+564|30:23|ביצה הכין חביתה מותר לעשות את זה בשבת
+565|30:27|אסור אחרי שהמחבת תחמם בשמש יש לו דין כמו
+566|30:32|מחבת שהתחמם על האש אמנם זה לא אותה חומרה
+567|30:35|אבל יש לזה את אותו למעשה אסור לבשל בזה
+568|30:38|ולכן אסור אבל בשמש עצמה מותר אז הוא דן
+569|30:42|עכשיו האם זה נקרא אם הדות שמש נקרא בישול
+570|30:45|בשמש עצמה או בישול בתולדת השמש במה שקיבל
+571|30:49|חום על ידי השמש שם הוא מבסס את הדברים
+572|30:52|שכמו שאדם שמבשל הרי לכאורה יש כאן את ה
+573|30:57|קרני השמש מחממות את הקולטים והכוללת
+574|31:00|מחממים את המים אז לכאורה זה תולדה זה כמו
+575|31:02|מחבת הוא מוכיח שלא מביא לזה ראיות אבל
+576|31:06|מבחינת ההיגיון הפשוט אדם שמבשל בסיר של
+577|31:09|מים על האש זה נקרא שהוא בישל באש או
+578|31:11|בתולדת
+579|31:13|האש נקרא שהוא בישל באש אבל למה הרי יש פה
+580|31:17|סיר
+581|31:18|שמתחמם אבל מכיוון שהסיר צריך כל הזמן את
+582|31:21|האש שתקה בסיר כדי שיתחמם האוכל והתבשיל
+583|31:25|באש עצמו כך הוא מוכיח שגם דות שמש זה
+584|31:27|נקרא בישול בשמש עצמה ולא בתולדת השמש
+585|31:30|ולכן מותר כל הלכה חייבת להיות מבוססת על
+586|31:34|דברי המשנה והתלמוד שזה בעצם היסודות שיש
+587|31:37|לנו בתורה שבעל פה אבל אדם שבא וש אומר
+588|31:40|תשמע אני רוצה לדעת שבאמת התורה שבעל פה
+589|31:42|ניתנה על ידי אלוקים עצם החמישה חומשי
+590|31:44|תורה התורה עצמה שניתנה למשה בסיני זה
+591|31:47|נושא בפני עצמו שניתן להוכיח אותו בצורה
+592|31:50|ברורה את מעמד הר סיני עם כל התמסורת של
+593|31:53|כל הדורות מי שרואה אפילו עם ה עם משליח
+594|31:56|ציבור טעה במילה אחת בבית כנסת מיד מתקנים
+595|32:00|אותו אם יש אות אחת שהיא לא כתובה ספר
+596|32:02|תורה פסול חייבים לתקן תוך 30 יום אז עצם
+597|32:06|מעמד הר סיני ומינות התמסורת של התורה
+598|32:09|מדור לדור בסדר יש לזה גם הוכחות לתורה מן
+599|32:12|השמיים מנגנוני הוכחה בתוך התורה כמו

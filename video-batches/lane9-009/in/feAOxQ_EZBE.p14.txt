@@ -1,0 +1,64 @@
+videoId: feAOxQ_EZBE
+parte 15 de 17 · traduzir as linhas 560 a 599 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A Akedá: Kierkegaard e o Rav Kook, entre esquerda e direita
+RESUMO: O Rav Lior Lavi, na véspera das eleições, estuda uma conversa do Rav Tzvi Yehuda Kook (Sichot, Parashat Vayera) e contrapõe a leitura da Akedá feita por Kierkegaard à do Rav Kook no Olat Reiyá. Para Kierkegaard, em "Temor e Tremor", a Akedá é a suspensão do moral em nome da fé, algo absurdo e que só se pode viver em silêncio. O Rav Tzvi Yehuda parte da Mishná de Avot sobre o "olho bom", que é a simpatia e o amor às criaturas, e mostra que Avraham ama os seres humanos a ponto de se arriscar por Lot e por Sedom. Por isso a Akedá não é frieza: Avraham, que discutiu por Sedom, aceita ali uma ordem direta, pois ela lhe foi dada como tarefa, não como informação. Segundo o Rav Kook, não há duas morais, e sim uma moral limitada e outra ampliada, como na ordem de um cirurgião, e a Akedá mostra que a fé pura também pode ter a força de se dispor a entregar o filho. No fim, o amor ao filho é elevado, e o rabino compara a esquerda humanista à direita da fé harmônica, que não abandona o mundo dos valores nem na guerra.
+MOMENTOS: 00:43 Akedá pelo olhar da esquerda e da direita · 01:27 O Rav Hanazir ouve o Rav Kook ler a Akedá · 04:49 Kierkegaard: a Akedá como choque entre fé e moral · 09:50 Introdução ao método do Rav Tzvi Yehuda · 11:21 Olho bom: a Mishná de Avot e a simpatia · 17:38 Quem tem compaixão é descendente de Avraham · 20:30 Avraham e Lot: o amor às criaturas leva à guerra · 25:54 Avraham discute com HaShem por Sedom · 30:38 Por que Avraham não discute na Akedá · 33:34 Moral limitada e moral ampliada · 38:27 O sentido da Akedá e o amor ao filho · 41:36 Kierkegaard contra Rav Kook e a ética na guerra
+FONTES CITADAS: 04:55 Kierkegaard, Temor e Tremor · 11:27 Avot 5:19 · 17:38 Sotá 4b e Beitzá 32b · 20:44 Bereshit 13:9 · 21:01 Rashi em Bereshit 13:11 · 21:13 Bereshit Rabá 41:7 · 21:58 Bereshit 14:14 · 23:23 Tehilim 97:10 · 23:29 Tehilim 145:9 · 25:54 Bereshit 18:20-21 · 31:18 Bereshit 18:17 · 28:12 Bereshit 18:25 · 29:41 Bereshit 22:1-14 · 38:43 Bereshit 22:5 · 36:55 Rav Kook, Olat Reiyá · 37:38 Sanhedrin 74b · 39:02 Neviim, oferendas de filhos a ídolos · 15:47 Vayikrá 19:18
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+548|35:46|פסקה 18 עמוד 160, בדף יש פסקה שהכותרת שלה עקידת יצחק.
+549|35:54|כן, כן, אפשר לבדוק מאחורה, יכול להיות שיש שם.
+550|35:56|אמור להיות.
+551|35:57|מה?
+552|35:58|לא, אין?
+553|35:59|טוב, בסדר, אז מה שנקרא, יהיה תורה שבעל פה.
+554|36:03|אז עוד פעם, ואצל אברהם אבינו, אוהב את המקום, אוהב את הבריות.
+555|36:07|כמסירות הנפש שלו משום אהבת הבריות, כך מסירות נפשו בקבלת פקודה וקבלת
+556|36:12|משמעת מריבונו של עולם.
+557|36:14|כאן, שיא מסירות הנפש של ביטול.
+558|36:17|כל האידאל.
+559|36:22|כאן, מה זה ביטול כל האידאל?
+
+LINHAS A TRADUZIR:
+560|36:25|כל האידאל שהבן אדם חשב שזה האידאל.
+561|36:28|זה היה אידאל מוגבל, אידאל שלו.
+562|36:31|כאן ההכנה לעם אלוהי אברהם.
+563|36:34|איך לקבל עול מלכות שמיים מתוך התענגות של דבקות באלוהים ומשמעת.
+564|36:40|כאן ההכנה למסירות נפש של כלל ישראל.
+565|36:43|בעולם הזה ובעולם הבא, בגשמיות.
+566|36:46|וברוחניות.
+567|36:48|תסתכלו בבקשה בהערה 99, ציטוט מתוך עולת ראייה, זה מתוך הפירוש של הרב.
+568|36:55|כוח הקדושה של המחשבה הקדושה של אברהם אבינו בעקדה, שהיא
+569|37:01|ביססה את יסוד כוח מסירות הנפש הישראלית.
+570|37:05|למה?
+571|37:06|למה?
+572|37:07|מה מיוחד בכוח מסירות הנפש?
+573|37:10|מסירות הנפש זה להיות נאמן.
+574|37:13|לדבר שהוא גדול מהחיים ומהדרך שבהם אני מבין את החיים.
+575|37:19|זה לא בגלל שהמוסר יצא לפנסיה לתקופה קצרה, אלא בגלל שאני נאמן
+576|37:25|למערכת שהיא יותר גדולה מהחשיבה האנושית
+577|37:28|המוגבלת.
+578|37:31|אומר הרב צבי יהודה, יש ברורים בהלכה אם קידוש השם שייך גם לגויים.
+579|37:38|בסדר?
+580|37:38|יש גמרא במסכת סנהדרין, תסתכלו במקורות, ע"ד עמוד ב' ועוד.
+581|37:43|ואומנם עיקר קידוש השם הוא רק בכלל ישראל.
+582|37:48|מתוך היסוד המידותי של אברהם אבינו, מתוך צור חוצבתם.
+583|37:53|כלומר, מתוך המחצב שממנו נחצבנו, אשרינו שזכינו.
+584|37:58|ככה מסיימת השיחה.
+585|38:00|כלומר, במילים אחרות, הרב צבי יהודה, בעקבות הפירוש של הרב קוק בעולת
+586|38:05|ראייה, מסביר שמעשה העקדה הוא לא מעשה של...
+587|38:12|הפסקת המוסר, כמו שהבאנו בשם קירקגור, אלא העלאת המוסר
+588|38:18|של האדם המוגבל למערכת יותר גדולה.
+589|38:23|עכשיו, זה חשוב להזכיר כאן גם נקודה מאוד חשובה בפירוש של הרב קוק.
+590|38:27|הרב קוק בעצם מתייחס לכל סיפור העקדה.
+591|38:29|הרי סיפור העקדה בסוף מסתיים לא בשחיטה של הילד, של הבן, אלא
+592|38:35|העוקד והנעקד והמזבח, ובסוף יצחק חוזר.
+593|38:40|אברהם חוזר, הם חוזרים ביחד, נכון?
+594|38:43|נשתחווה ונשובה עליכם.
+595|38:46|אז מה היה צריך את כל הסיפור הזה?
+596|38:49|אז חזרנו על זה כבר הרבה מאוד פעמים.
+597|38:50|הרב קוק מסביר שם שיש טענה שיכולה הייתה להיות
+598|38:56|שעובדי עבודה זרה, שהיו מאוד ידועים בהקרבת הילדים שלהם, כמו שמופיע בנביאים,
+599|39:02|שיש להם איזו יכולת עוצמתית יותר גדולה מהאמונה שלנו.

@@ -1,0 +1,64 @@
+videoId: feAOxQ_EZBE
+parte 6 de 17 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A Akedá: Kierkegaard e o Rav Kook, entre esquerda e direita
+RESUMO: O Rav Lior Lavi, na véspera das eleições, estuda uma conversa do Rav Tzvi Yehuda Kook (Sichot, Parashat Vayera) e contrapõe a leitura da Akedá feita por Kierkegaard à do Rav Kook no Olat Reiyá. Para Kierkegaard, em "Temor e Tremor", a Akedá é a suspensão do moral em nome da fé, algo absurdo e que só se pode viver em silêncio. O Rav Tzvi Yehuda parte da Mishná de Avot sobre o "olho bom", que é a simpatia e o amor às criaturas, e mostra que Avraham ama os seres humanos a ponto de se arriscar por Lot e por Sedom. Por isso a Akedá não é frieza: Avraham, que discutiu por Sedom, aceita ali uma ordem direta, pois ela lhe foi dada como tarefa, não como informação. Segundo o Rav Kook, não há duas morais, e sim uma moral limitada e outra ampliada, como na ordem de um cirurgião, e a Akedá mostra que a fé pura também pode ter a força de se dispor a entregar o filho. No fim, o amor ao filho é elevado, e o rabino compara a esquerda humanista à direita da fé harmônica, que não abandona o mundo dos valores nem na guerra.
+MOMENTOS: 00:43 Akedá pelo olhar da esquerda e da direita · 01:27 O Rav Hanazir ouve o Rav Kook ler a Akedá · 04:49 Kierkegaard: a Akedá como choque entre fé e moral · 09:50 Introdução ao método do Rav Tzvi Yehuda · 11:21 Olho bom: a Mishná de Avot e a simpatia · 17:38 Quem tem compaixão é descendente de Avraham · 20:30 Avraham e Lot: o amor às criaturas leva à guerra · 25:54 Avraham discute com HaShem por Sedom · 30:38 Por que Avraham não discute na Akedá · 33:34 Moral limitada e moral ampliada · 38:27 O sentido da Akedá e o amor ao filho · 41:36 Kierkegaard contra Rav Kook e a ética na guerra
+FONTES CITADAS: 04:55 Kierkegaard, Temor e Tremor · 11:27 Avot 5:19 · 17:38 Sotá 4b e Beitzá 32b · 20:44 Bereshit 13:9 · 21:01 Rashi em Bereshit 13:11 · 21:13 Bereshit Rabá 41:7 · 21:58 Bereshit 14:14 · 23:23 Tehilim 97:10 · 23:29 Tehilim 145:9 · 25:54 Bereshit 18:20-21 · 31:18 Bereshit 18:17 · 28:12 Bereshit 18:25 · 29:41 Bereshit 22:1-14 · 38:43 Bereshit 22:5 · 36:55 Rav Kook, Olat Reiyá · 37:38 Sanhedrin 74b · 39:02 Neviim, oferendas de filhos a ídolos · 15:47 Vayikrá 19:18
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|13:48|והוא מבטל את דעתו בפני האל, אם הוא דתי, ואם הוא לא דתי
+189|13:54|אז הוא בכלל לא מבין מה הולך פה.
+190|13:56|והחוויה שנוצרת היא חוויה של...
+191|14:01|אתה אומר שנאה.
+192|14:03|מה זה שנאה?
+193|14:04|את מי אתה שונא?
+194|14:05|אם אתה לא מאמין...
+195|14:06|מה, אתה שונא ומאמין שונא את הבורא?
+196|14:09|לא.
+197|14:10|אלא הכוונה היא שכשאתה מרגיש ניכור הולך
+198|14:15|וגובר, אתה מרגיש פירוד.
+199|14:20|ואז גם היחס שלך לבריאה הוא יחס של זרות וניכור.
+
+LINHAS A TRADUZIR:
+200|14:25|זרות וניכור מובילים בסופו של דבר גם לשנאה.
+201|14:28|שנאה זה אומר שבן אדם מסתכל על הבריות ואומר, איך, מה זה כל הבריות האלה?
+202|14:33|מה הם רוצים?
+203|14:33|מה הם רוצים ממני?
+204|14:34|בסדר, בפילוסופיה הקסטנציאליסטית זה נגיד אחד ההוגים המפורסמים הצרפתים, ז'אן
+205|14:40|פול סרטר, סארט, ככה הוא נקרא בצרפתית, אז הוא אמר, האחר
+206|14:46|הוא הגיהינום שלי.
+207|14:48|מה הכוונה שהאחר הוא הגיהינום שלי?
+208|14:52|החוויה של האדם שמישהו אחר מסתכל עליו, גורם
+209|14:58|לו להרגיש שמגבילים אותו, כי הוא לא יכול לעשות מה שהוא רוצה.
+210|15:03|זאת אומרת, מתי שהאדם נמצא לבד, אז הוא לא צריך לדפוק דין וחשבון
+211|15:09|לאף אחד, הוא עושה מה שהוא רוצה.
+212|15:11|מתי שמישהו מסתכל עליך, אתה כבר נמצא בבעיה, בגלל שהוא מגביל
+213|15:17|אותך כביכול.
+214|15:18|אז זאת אומרת, החוויה של אדם שחי בעולם של זרות וניכור,
+215|15:24|יוצרת גם חוויה של ניכור בפני האחרים.
+216|15:28|אתה לא רוצה, מה זה נקרא, אל תתקרבו אליי, אני לא אתקרב אליכם, תעזבו אותי.
+217|15:33|ולהפך, מתי שאתה מרגיש שכל מקור
+218|15:38|החיים שלך הוא מלא שפע, מלא חסד, מלא אהבה, מלא נתינה, אז אתה אוהב את כל
+219|15:44|הבריות, אתה אוהב גם את החיים שלך.
+220|15:47|כמו שאומרים, ואהבת לרעך כמוך.
+221|15:49|אם אתה לא אוהב את עצמך, אז איך אתה תאהב אחרים?
+222|15:51|עכשיו, זה לא אמירה של מה בכך, זה אמירה עמוקה.
+223|15:55|זה אומר שאם אתה חווה את החיים שלך כמתנה, אז אתה תסתכל גם על מי שנמצא מסביבך, שזה
+224|16:01|גם סוג של מתנה.
+225|16:02|ואם אתה רואה את החיים שלך כמשהו שאתה לא מבין מה אתה תקוע פה בעולם, אז גם אחרים יראו לך כמו
+226|16:07|הם תקועים בעולם, ואתה לא מבין מה רוצים ממך פה.
+227|16:10|בסדר?
+228|16:11|זאת אומרת, החוויה פה היא חוויה מאוד קשה.
+229|16:15|זאת אומרת, מה שהרב צבי יהודה מדבר פה, עין טובה, זה דבר מאוד עמוק.
+230|16:19|להסתובב בעולם בעין טובה, זה אומר להסתובב בעולם בתוך תחושה שכל מה שאתה רואה בעולם הוא
+231|16:25|חלק מברכה אלוהית, אהבה.
+232|16:28|חסד, שפע, נתינה.
+233|16:32|במילים אחרות אפשר להגיד שהאוהב השם
+234|16:38|חווה את העולם כשפע תמידי שמוענק לו.
+235|16:41|ומי שחווה את העולם כטבע, הוא לא חווה את העולם
+236|16:47|כשפע בהכרח.
+237|16:48|הוא רואה את העולם הזה כמשהו אקראי, מכני, שהוא לא חווה אותו
+238|16:54|כנתינה של מישהו.
+239|16:56|וזה יוצר תחושה של ניכור וזרות.

@@ -1,0 +1,64 @@
+videoId: feAOxQ_EZBE
+parte 7 de 17 · traduzir as linhas 240 a 279 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A Akedá: Kierkegaard e o Rav Kook, entre esquerda e direita
+RESUMO: O Rav Lior Lavi, na véspera das eleições, estuda uma conversa do Rav Tzvi Yehuda Kook (Sichot, Parashat Vayera) e contrapõe a leitura da Akedá feita por Kierkegaard à do Rav Kook no Olat Reiyá. Para Kierkegaard, em "Temor e Tremor", a Akedá é a suspensão do moral em nome da fé, algo absurdo e que só se pode viver em silêncio. O Rav Tzvi Yehuda parte da Mishná de Avot sobre o "olho bom", que é a simpatia e o amor às criaturas, e mostra que Avraham ama os seres humanos a ponto de se arriscar por Lot e por Sedom. Por isso a Akedá não é frieza: Avraham, que discutiu por Sedom, aceita ali uma ordem direta, pois ela lhe foi dada como tarefa, não como informação. Segundo o Rav Kook, não há duas morais, e sim uma moral limitada e outra ampliada, como na ordem de um cirurgião, e a Akedá mostra que a fé pura também pode ter a força de se dispor a entregar o filho. No fim, o amor ao filho é elevado, e o rabino compara a esquerda humanista à direita da fé harmônica, que não abandona o mundo dos valores nem na guerra.
+MOMENTOS: 00:43 Akedá pelo olhar da esquerda e da direita · 01:27 O Rav Hanazir ouve o Rav Kook ler a Akedá · 04:49 Kierkegaard: a Akedá como choque entre fé e moral · 09:50 Introdução ao método do Rav Tzvi Yehuda · 11:21 Olho bom: a Mishná de Avot e a simpatia · 17:38 Quem tem compaixão é descendente de Avraham · 20:30 Avraham e Lot: o amor às criaturas leva à guerra · 25:54 Avraham discute com HaShem por Sedom · 30:38 Por que Avraham não discute na Akedá · 33:34 Moral limitada e moral ampliada · 38:27 O sentido da Akedá e o amor ao filho · 41:36 Kierkegaard contra Rav Kook e a ética na guerra
+FONTES CITADAS: 04:55 Kierkegaard, Temor e Tremor · 11:27 Avot 5:19 · 17:38 Sotá 4b e Beitzá 32b · 20:44 Bereshit 13:9 · 21:01 Rashi em Bereshit 13:11 · 21:13 Bereshit Rabá 41:7 · 21:58 Bereshit 14:14 · 23:23 Tehilim 97:10 · 23:29 Tehilim 145:9 · 25:54 Bereshit 18:20-21 · 31:18 Bereshit 18:17 · 28:12 Bereshit 18:25 · 29:41 Bereshit 22:1-14 · 38:43 Bereshit 22:5 · 36:55 Rav Kook, Olat Reiyá · 37:38 Sanhedrin 74b · 39:02 Neviim, oferendas de filhos a ídolos · 15:47 Vayikrá 19:18
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|16:11|זאת אומרת, החוויה פה היא חוויה מאוד קשה.
+229|16:15|זאת אומרת, מה שהרב צבי יהודה מדבר פה, עין טובה, זה דבר מאוד עמוק.
+230|16:19|להסתובב בעולם בעין טובה, זה אומר להסתובב בעולם בתוך תחושה שכל מה שאתה רואה בעולם הוא
+231|16:25|חלק מברכה אלוהית, אהבה.
+232|16:28|חסד, שפע, נתינה.
+233|16:32|במילים אחרות אפשר להגיד שהאוהב השם
+234|16:38|חווה את העולם כשפע תמידי שמוענק לו.
+235|16:41|ומי שחווה את העולם כטבע, הוא לא חווה את העולם
+236|16:47|כשפע בהכרח.
+237|16:48|הוא רואה את העולם הזה כמשהו אקראי, מכני, שהוא לא חווה אותו
+238|16:54|כנתינה של מישהו.
+239|16:56|וזה יוצר תחושה של ניכור וזרות.
+
+LINHAS A TRADUZIR:
+240|16:59|בואו נמשיך.
+241|17:02|אצל אברהם אבינו מופיעה עין יפה ברוממות, בגדלות.
+242|17:05|מה הכוונה?
+243|17:05|הוא מסתכל על העולם לא סתם מה שנקרא רומנטיקן, אוהב את הבריות, מסתכל על הפירות היפים ועל
+244|17:11|הצמחים היפים ועל בני אדם החמודים.
+245|17:13|הוא אוהב גם מי שזה נראה באופן פשוט שלא ראוי לאהבה.
+246|17:18|הוא מצליח לזהות גם בכאלה שמבחוץ הם נראים מאוד מאוד...
+247|17:23|לא טובים, הוא מצליח לראות בהם את האור שיש
+248|17:26|בהם.
+249|17:30|יש מדרגות באהבת הבריות ויש מציאות של התאהבות באנשים עד כדי מסירות נפש.
+250|17:34|זאת אומרת, הוא לא יכול לחיות בלי שלאחרים יהיה חיים.
+251|17:38|לכן אומרים חז"ל, כל המרחם על הבריות בידוע שהוא מזרעו של אברהם אבינו.
+252|17:43|ולעומת זאת, מי שמתאכזר אינו מזרעו.
+253|17:47|בסדר, מה זה אומר?
+254|17:48|זה אומר שאכזריות, מה זה המילה אכזר?
+255|17:52|אך זר, זרות, זרות.
+256|17:57|חוויית הזרות יוצרת אכזריות.
+257|18:01|כי כשאתה מסתכל על החתול המסכן ואתה מרגיש שהוא זר לך, אז אתה יכול
+258|18:07|לעשות לו מה שאתה רוצה.
+259|18:08|אתה יכול להתעלל בו, לפגוע בו, והוא כלום, שום דבר, אתה לא מרגיש אותו.
+260|18:12|אבל מי שחווה את כל הבריאה כאילו זה חלק ממנו, הוא מרגיש את זה.
+261|18:16|זה החיים שלו, הוא לא יכול להתאכזר.
+262|18:19|הוא רוצה שיהיה לו טוב כמו שלא יהיה טוב.
+263|18:21|הוא מרגיש אותו.
+264|18:23|הוא מרגיש כאילו, שמעתי משהו מדהים, שמעתי משהו מדהים.
+265|18:29|אתם שמעתם על זה שיש כלבים שמטפלים בפוסט-טראומטיים,
+266|18:34|נכון?
+267|18:36|אז מישהו הסביר איך זה עובד, איך כלב עוזר למישהו שהוא פוסט-טראומטי.
+268|18:41|תשמעו דבר מדהים.
+269|18:42|הכלב מרגיש, הוא לא מרגיש, הוא מריח את
+270|18:47|ההורמון שיוצר את ה...
+271|18:53|דיכאון, ומייד כשהוא מריח את זה, מזהה את זה, הוא הולך לבעלים שלו ומתחיל
+272|18:59|ללקק אותו, מתחיל להתלטף איתו.
+273|19:03|זאת אומרת, הכלב בעצם, מה שמיוחד בו, זה שהוא מרגיש את השני.
+274|19:09|ברמת הכלב, אז תחשבו מה זה שבן אדם, לא כלב, הוא מרגיש את השני,
+275|19:15|שכואב לו, שמצטער, שמשהו מציק לו.
+276|19:20|זה רחמים, זה נקרא מרחם על הבריות.
+277|19:23|מה ההפך מזה?
+278|19:24|מתאכזר על הבריות.
+279|19:26|אכזריות, זה לא אכפת לי מהם.

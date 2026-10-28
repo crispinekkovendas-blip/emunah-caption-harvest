@@ -1,0 +1,50 @@
+videoId: 7GysJ534K1c
+parte 1 de 17 · traduzir as linhas 0 a 39 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayishlach: por que Yaakov venceu Lavan e Esav
+RESUMO: O Rav Meir Eliyahu abre a Parashá Vayishlach com a mensagem de Yaakov a Esav ("com Lavan morei") e pergunta por que HaShem advertiu Lavan em sonho, mas não fez o mesmo com Esav. Ele explica a diferença entre qesamim (com as mãos) e kishuf (com a fala), e mostra que Yaakov só foi poupado de Esav porque antes venceu o anjo, o poder espiritual de Esav, segundo o Zohar e o Ramak. Dá então duas respostas: Yaakov sabia que Esav vinha e podia se preparar com presente, oração e divisão do acampamento (a regra de fazer o próprio esforço), e contra os feitiços de Lavan ele não tinha defesa, pois "a voz é a voz de Yaakov". Com a Guemará (Sotá, Yomá) sobre Yosef e a imagem do pai, e a Guemará (Menachot 44a) sobre o homem do tzitzit e a mulher que se converteu, ele ensina que o sinal do Céu apenas devolve a pessoa ao livre-arbítrio. Termina com Rashi sobre "garti" ter o valor numérico de 613, a lição de humildade ("não sei") e a explicação de que os 613 mandamentos de Yaakov viraram anjos que protegeram contra Esav.
+MOMENTOS: 00:11 Yaakov foge de Lavan e se prepara para Esav · 02:24 A contradição na fala de Lavan: "tenho poder" e a advertência · 02:38 Diferença entre qesamim (mãos) e kishuf (fala) · 04:29 Por que HaShem não advertiu Esav como advertiu Lavan? · 08:05 O Zohar: a luta com o anjo foi a verdadeira batalha · 10:36 O anjo na forma de Esav e o Ramak · 12:41 Primeira resposta: Yaakov sabia e se preparou (presente e oração) · 17:01 Segunda resposta: contra o kishuf de Lavan ele não tinha defesa · 18:30 Yosef e a imagem do pai: auxílio que devolve a escolha · 22:14 O homem do tzitzit e a mulher que se converteu · 30:25 Rashi: "garti" tem o valor de 613 e a humildade · 35:52 Os anjos de Yaakov e os 613 mandamentos contra Esav
+FONTES CITADAS: 00:00 Bereshit 32:5-6 · 00:21 Devarim 18:13 · 00:35 Bereshit 29:26 · 01:32 Bereshit 32:4 · 01:40 Bereshit 31:24 · 01:55 Guemará, Yevamot 103b · 02:05 Bereshit 31:29 · 02:52 Bamidbar 22:7 · 03:11 Bereshit 25:6 · 03:11 Guemará, Sanhedrin 91a · 04:39 Yomá 71a · 05:09 Rambam, Hilchot De'ot 4 · 06:33 Rashi em Bereshit 32:7 · 06:41 Bereshit 27:41 · 07:51 Bereshit 33:4 · 07:51 Bereshit 33:9 · 08:05 Zohar, Vayishlach · 08:10 Bereshit 32:25 · 08:27 Shemuel I 17:45 · 10:36 Zohar, Vayishlach · 10:45 Ramak (Moshe Cordovero) sobre o Zohar · 12:46 Bereshit 32:14 · 12:51 Bereshit 32:17 · 12:58 Bereshit 48:22 · 13:03 Targum Onkelos em Bereshit 48:22 · 13:06 Bereshit 32:12 · 13:06 Shelá HaKadosh, citado por Rabi Yaakov Culi · 13:49 Kol Nidrei · 14:23 Arizal, ferir com ofuscamento (sanverim) · 14:42 Shemot 5 · 16:37 Guemará, Pesachim 64b · 17:07 Bereshit 31:7 · 17:37 Bereshit 27:22 · 17:43 Yevamot 64a · 18:37 Sotá 36b · 18:37 Yomá 35b · 19:07 Sotá 36b · 19:34 Mishlei 29:3 · 19:49 Yonatan ben Uziel sobre Bereshit 39 · 20:01 Bereshit 39:14 · 20:24 Ben Ish Chai · 20:28 Tehilim 97:11 · 22:14 Menachot 44a · 23:06 Ben Ish Chai, Halachot · 23:35 Menachot 43a · 23:41 Tehilim 12:1 · 26:19 Shir HaShirim 4:7 · 26:25 Bamidbar 15:41 · 26:48 Menachot 44a · 29:30 Menachot 44a · 30:25 Rashi em Bereshit 32:5 · 30:52 Bava Metzia 83b · 31:20 Berachot 4a · 31:27 Temura 16a · 32:45 Shabat 63a · 32:52 Sanhedrin 82a · 33:10 Yomá 29a · 33:18 Kidushin 30a · 33:31 Pesachim 112a · 34:23 Menachot 110a
+
+LINHAS A TRADUZIR:
+0|00:00|אדוני לעשו, כה אמר עבדך יעקב, אם לבן גרתי, ואחרד עתה, ויהיה לי שור,
+1|00:06|וחמור, צאן, ועבד, ושפחה, ושליחה להגיד לאדוני למצוא חן בעיניך.
+2|00:11|הנה הפרשה הזאת, יעקב אבינו, בורח מלבן הרשע, שעשה לו שמות
+3|00:17|ושפטים, זה עשרים שנה שהיה מתעלל בו.
+4|00:21|והקדוש ברוך הוא שמר עליו, כיוון שהיה יעקב אבינו תמים, תמים תהיה עם השם אלוקיך, וכשאתה
+5|00:27|תמים, אתה עם השם אלוקיך.
+6|00:29|וזה הנחש הארור, עשיו, שלא הפסיק
+7|00:35|לנסות לקשף אותו ולרמות אותו, ואמר לו, לא כן יעשה במקומותינו לתת הבכירה לפני הצעירה.
+8|00:41|הצעירה לפני הבכירה.
+9|00:42|אז למה לא אמרת את זה לפני זה?
+10|00:44|למה לא אמרת לפני זה?
+11|00:45|עכשיו, אחרי שכבר עבדתי אותך שבע שנים, עכשיו אתה מחליף לי את המשכורת, מביא לי את לאהב, אבל
+12|00:49|ברחל עבדתיך.
+13|00:51|והוא אומר לו, לא כן יעשה במקומותינו לתת הצעירה לפני הבכירה.
+14|00:54|אז תגיד בהתחלה, למה אתה אומר את זה עכשיו?
+15|00:57|תגיד לפני שאני אבוא עליה, למה אחר כך רק בבוקר אתה אומר?
+16|01:02|אז זה ככה דרכם של הנחשים.
+17|01:04|והוא, מסכן יעקב אבינו, היה אשתם יושב אוהלים, והיה הולך עם השם בתום לב
+18|01:10|ובתמימות, הקדוש ברוך הוא שמר עליו, הגן עליו מפני הפורענות של עשו הרשע.
+19|01:15|אחרי שברוך שפטרנו מהעונשו של זה, הלך עשו וכרת איתו ברית על אותו
+20|01:21|האבן שהם כרתו שמה.
+21|01:24|עכשיו גמר עם לבן, מחילה, זה לא עשו, זה היה לבן, עכשיו גמר עם לבן, עכשיו באה
+22|01:30|הצרה שזאת עם עשו.
+23|01:32|עכשיו, עשו רוצה להרוג אותו, וישלח יעקב מלאכים לפניו אל עשו אחיו, וארצה שעיר שדה אדום.
+24|01:38|מה?
+25|01:39|לא הבנתי.
+26|01:40|למה בפרשה לפני, ויבוא אלוהים אל לבן הארמי בחלום הלילה, ויאמר לא ישמר לך פן
+27|01:46|דבר עם יעקב מטוב עד רע.
+28|01:48|אוי ואבויים תדבר איתו, אתה לא תדבר איתו בכלל, הגמרא אומרת מלא רע, טוב שידבר.
+29|01:54|מה יש בזה?
+30|01:55|הגמרא מתרצת, כל טובה אצל הרשעים, רעה היא אצל הצדיקים.
+31|02:01|לא מדופשך ולא מעוקצך.
+32|02:03|לא רוצים שום דבר מהם.
+33|02:05|אמר לו, יש לאל ידי לעשות עמכם רע, והשם אלוקיכם התגלה אליי אתמול בחלום ואמר
+34|02:11|לי, ישמר מיעקב מטוב עד רע.
+35|02:13|אני לא הבנתי בכלל את הפסוק הזה.
+36|02:15|הוא אומר, יש לאל ידי לעשות עמכם רע, ואלוהי אביכם הזהיר אותי.
+37|02:20|אז אם הזהיר, אז אין לאל ידך.
+38|02:22|אז מה אתה אומר, יש לאל ידי?
+39|02:24|ואלוהי אביכם, הזעיר אותי, תשמר לך, מדבר עם יעקב.

@@ -1,0 +1,64 @@
+videoId: feAOxQ_EZBE
+parte 4 de 17 · traduzir as linhas 120 a 159 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A Akedá: Kierkegaard e o Rav Kook, entre esquerda e direita
+RESUMO: O Rav Lior Lavi, na véspera das eleições, estuda uma conversa do Rav Tzvi Yehuda Kook (Sichot, Parashat Vayera) e contrapõe a leitura da Akedá feita por Kierkegaard à do Rav Kook no Olat Reiyá. Para Kierkegaard, em "Temor e Tremor", a Akedá é a suspensão do moral em nome da fé, algo absurdo e que só se pode viver em silêncio. O Rav Tzvi Yehuda parte da Mishná de Avot sobre o "olho bom", que é a simpatia e o amor às criaturas, e mostra que Avraham ama os seres humanos a ponto de se arriscar por Lot e por Sedom. Por isso a Akedá não é frieza: Avraham, que discutiu por Sedom, aceita ali uma ordem direta, pois ela lhe foi dada como tarefa, não como informação. Segundo o Rav Kook, não há duas morais, e sim uma moral limitada e outra ampliada, como na ordem de um cirurgião, e a Akedá mostra que a fé pura também pode ter a força de se dispor a entregar o filho. No fim, o amor ao filho é elevado, e o rabino compara a esquerda humanista à direita da fé harmônica, que não abandona o mundo dos valores nem na guerra.
+MOMENTOS: 00:43 Akedá pelo olhar da esquerda e da direita · 01:27 O Rav Hanazir ouve o Rav Kook ler a Akedá · 04:49 Kierkegaard: a Akedá como choque entre fé e moral · 09:50 Introdução ao método do Rav Tzvi Yehuda · 11:21 Olho bom: a Mishná de Avot e a simpatia · 17:38 Quem tem compaixão é descendente de Avraham · 20:30 Avraham e Lot: o amor às criaturas leva à guerra · 25:54 Avraham discute com HaShem por Sedom · 30:38 Por que Avraham não discute na Akedá · 33:34 Moral limitada e moral ampliada · 38:27 O sentido da Akedá e o amor ao filho · 41:36 Kierkegaard contra Rav Kook e a ética na guerra
+FONTES CITADAS: 04:55 Kierkegaard, Temor e Tremor · 11:27 Avot 5:19 · 17:38 Sotá 4b e Beitzá 32b · 20:44 Bereshit 13:9 · 21:01 Rashi em Bereshit 13:11 · 21:13 Bereshit Rabá 41:7 · 21:58 Bereshit 14:14 · 23:23 Tehilim 97:10 · 23:29 Tehilim 145:9 · 25:54 Bereshit 18:20-21 · 31:18 Bereshit 18:17 · 28:12 Bereshit 18:25 · 29:41 Bereshit 22:1-14 · 38:43 Bereshit 22:5 · 36:55 Rav Kook, Olat Reiyá · 37:38 Sanhedrin 74b · 39:02 Neviim, oferendas de filhos a ídolos · 15:47 Vayikrá 19:18
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|08:28|והייתי אומר אפילו בזהירות או לא בזהירות, שלפעמים אנחנו רואים
+109|08:35|שעלולות להיווצר בתוך קבוצות סגורות, כמו כתות
+110|08:40|דתיות, התנהלויות באמת לא מוסריות, וכשיש לך קושיות, הוא אומר, מה פתאום, זה...
+111|08:47|זה מעל, מעל ההתנהגות, מעל ההתנהגות הרגילה.
+112|08:52|זה מעל המוסר.
+113|08:54|אז הנושא הזה הוא נושא טעון, הוא נושא גדול.
+114|08:57|וכמו שאמרתי בהתחלה, אנחנו ננסה לראות איך הנושא הזה של ימין
+115|09:03|ושמאל בתפיסות פוליטיות.
+116|09:07|שוב, ימין ושמאל זה שתי מילים מאוד מאוד גדולות.
+117|09:11|אבל הייתי אומר, היחס בין התפיסה האנושית הליברלית אפילו, כי גם ימין יש לו
+118|09:17|מימדים ליברליים.
+119|09:18|ואנחנו מדברים על מימד של לאומי, אמוני, מסורת, כל
+
+LINHAS A TRADUZIR:
+120|09:24|המימדים האלה שהרבה פעמים הימין הולך איתם, ואני רוצה לאמת אותם עם
+121|09:30|ההסתכלות הזו של קירקגור, שבעצם אנחנו נראה שזה מאוד מזכיר חשיבה שדומה מאוד
+122|09:36|לחשיבה של שמאל.
+123|09:37|בסדר?
+124|09:38|שוב, אני לא בא עכשיו רק כביקורת, אני רק בא כשיקוף, איזו
+125|09:43|התבוננות ש...
+126|09:45|חשבתי שאפשר לשקף דרך הנקודה הזאת.
+127|09:50|ובכן, כמו שהתחלנו ללמוד בשבועות
+128|09:56|הקודמים, ההסתכלות של הרב צבי יהודה על הפרשיות היא הסתכלות רוחבית
+129|10:03|מאוד מאוד מקיפה.
+130|10:05|אין לו הסתכלות על פרשייה מסוימת והוא שואל עליה קושיות ושאלות
+131|10:11|וכל מיני דברים כאלה.
+132|10:12|הוא יותר מסתכל ברוחב, בעומק.
+133|10:17|בצורה נקרא לזה בסקירה במעוף הציפור מסתכל על
+134|10:22|הפרשייה במעוף הציפור אז אם אפשר בבקשה תסתכלו
+135|10:27|בעמודים עמוד הראשון שיש לפניכם עמוד 157
+136|10:32|בפסקה ה-14 עין טובה
+137|10:38|בסדר עין טובה זה מתוך הסדרה הראשונה בשיחות הרב צבי יהודה יש שתי סדרות
+138|10:44|לפעמים שלוש זה סדרה ראשונה, פרשת ויירא.
+139|10:50|זה משנה תשכ"ה.
+140|10:56|זאת אומרת, 1965.
+141|10:58|שיחה יחסית עתיקה של הרב צבי יהודה.
+142|11:01|יחסית ישנה.
+143|11:02|בדרך כלל השיחות הן משנות ה-70, והשיחה הזו, שיחה יותר ישנה.
+144|11:07|אומר הרב צבי יהודה, ושוב, הוא חוזר על היסודות בהרבה מאוד שנים.
+145|11:12|למשך עשרות שנים הוא חזר על היסודות האלה.
+146|11:15|כלומר, התגבשה אצלו הסתכלות והוא חזר על היסודות הרבה פעמים.
+147|11:19|עין טובה.
+148|11:21|אומר הרב צבי יהודה, במשנה ואבות אנו פוגשים הגדרה מיוחדת, כל מי שיש בידו
+149|11:27|שלושה דברים הללו מתלמידיו של אברהם אבינו.
+150|11:31|והמידה הראשונה, עין טובה.
+151|11:33|בסדר?
+152|11:34|אבות, פרקי משנה יט.
+153|11:38|מהי עין טובה?
+154|11:39|נכון?
+155|11:39|הרבה פעמים אומרים, עין טובה זה מידה טובה, זה טוב יש לך עין טובה, יש לך עין רעה.
+156|11:44|מה זה עין טובה?
+157|11:45|מה זה אומר עין טובה?
+158|11:48|מסביר הרב צבי יהודה, סימפתיה.
+159|11:51|כמו שאומר השיר, יש לי סימפתיה.
