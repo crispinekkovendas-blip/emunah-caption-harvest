@@ -1,0 +1,60 @@
+{
+ "name": "lane10-010",
+ "lane": 10,
+ "created": "2026-10-28T14:14:32.320Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "2jdOiCx_jAw",
+   "title": "Malchut e memshala segundo o Ramchal: mem aberta e fechada",
+   "lines": 444,
+   "parts": 4,
+   "from": "recente"
+  },
+  {
+   "id": "LLRi4KJEoUw",
+   "title": "HaShem Melech, Malach, Yimloch: as Havayot e a Merkava",
+   "lines": 573,
+   "parts": 5,
+   "from": "recente"
+  },
+  {
+   "id": "B40fco4kwuo",
+   "title": "Generalização, eleições e Lech Lecha com Gottlieb e Avri Gilad",
+   "lines": 1240,
+   "parts": 11,
+   "from": "recente"
+  },
+  {
+   "id": "Dzy7jdeFhzI",
+   "title": "Zohar Vayikrá: o shofar e o abrandamento do Din",
+   "lines": 164,
+   "parts": 2,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "2jdOiCx_jAw.p0",
+  "2jdOiCx_jAw.p1",
+  "2jdOiCx_jAw.p2",
+  "2jdOiCx_jAw.p3",
+  "LLRi4KJEoUw.p0",
+  "LLRi4KJEoUw.p1",
+  "LLRi4KJEoUw.p2",
+  "LLRi4KJEoUw.p3",
+  "LLRi4KJEoUw.p4",
+  "B40fco4kwuo.p0",
+  "B40fco4kwuo.p1",
+  "B40fco4kwuo.p2",
+  "B40fco4kwuo.p3",
+  "B40fco4kwuo.p4",
+  "B40fco4kwuo.p5",
+  "B40fco4kwuo.p6",
+  "B40fco4kwuo.p7",
+  "B40fco4kwuo.p8",
+  "B40fco4kwuo.p9",
+  "B40fco4kwuo.p10",
+  "Dzy7jdeFhzI.p0",
+  "Dzy7jdeFhzI.p1"
+ ]
+}
