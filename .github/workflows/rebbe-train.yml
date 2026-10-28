@@ -1,0 +1,117 @@
+name: Rebbe model — dataset to Kaggle + train (and read the result)
+
+# 2026-10-28 (the owner: "Go ahead, let's train this"; Kaggle free GPU; own use only). step=train: the ears-*
+# artifacts of a rebbe-ears.yml run → scripts/rebbe_dataset.py (✓ lines as clips; dev = whole held-out chunks;
+# test = the Lexicon clips) → the PRIVATE Kaggle dataset <user>/rebbe-yiddish-speech → the PRIVATE kernel
+# <user>/rebbe-whisper-train (kaggle/rebbe-train/train.py, GPU). step=result: the kernel's state, metrics.json and
+# samples.txt in the log. The model stays on Kaggle (never in a GitHub artifact: this repository is public).
+# Needs the repository secrets KAGGLE_USERNAME and KAGGLE_KEY (Kaggle → Settings → API → Create New Token).
+
+on:
+  workflow_dispatch:
+    inputs:
+      step:
+        description: 'train | result'
+        default: 'train'
+      ears_run:
+        description: 'The rebbe-ears.yml run whose ears-* artifacts make the dataset'
+        default: ''
+      epochs:
+        description: 'Training epochs'
+        default: '3'
+  # a push only registers the workflow (a workflow that exists only on a branch cannot be dispatched before its
+  # first run); both jobs are skipped
+  push:
+    branches: [claude/sweet-brahmagupta-4larfi]
+    paths: [.github/workflows/rebbe-train.yml]
+
+permissions:
+  contents: read
+  actions: read
+
+concurrency:
+  group: rebbe-train
+  cancel-in-progress: false
+
+env:
+  KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+  KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+
+jobs:
+  train:
+    if: inputs.step == 'train'
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet kaggle
+          npm install -g @anthropic-ai/claude-code > /dev/null
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: ears-*
+          path: out/ears-all
+          run-id: ${{ inputs.ears_run }}
+          github-token: ${{ github.token }}
+      - name: The dataset (✓ lines → clips; the Lexicon test set)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: python -u scripts/rebbe_dataset.py --ears out/ears-all --out out/dataset
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rebbe-dataset-text
+          path: |
+            out/dataset/summary.json
+            out/dataset/*/metadata.jsonl
+      - name: To Kaggle (private dataset) and start training (private kernel)
+        run: |
+          if [ -z "$KAGGLE_USERNAME" ] || [ -z "$KAGGLE_KEY" ]; then
+            echo "::warning::KAGGLE_USERNAME / KAGGLE_KEY are not set — the dataset is built (artifact rebbe-dataset-text) but not uploaded"
+            exit 0
+          fi
+          DS="$KAGGLE_USERNAME/rebbe-yiddish-speech"
+          printf '{"title":"rebbe-yiddish-speech","id":"%s","licenses":[{"name":"other"}]}' "$DS" > out/dataset/dataset-metadata.json
+          if kaggle datasets status "$DS" >/dev/null 2>&1; then
+            kaggle datasets version -p out/dataset -m "ears run ${{ inputs.ears_run }}" --dir-mode zip -q
+          else
+            kaggle datasets create -p out/dataset --dir-mode zip -q   # private unless -u
+          fi
+          for i in $(seq 1 60); do
+            s=$(kaggle datasets status "$DS" 2>&1 | tail -1); echo "dataset: $s"
+            [ "$s" = "ready" ] && break; sleep 20
+          done
+          K=kaggle/rebbe-train
+          cat > $K/kernel-metadata.json <<EOF
+          {"id": "$KAGGLE_USERNAME/rebbe-whisper-train", "title": "rebbe-whisper-train", "code_file": "train.py",
+           "language": "python", "kernel_type": "script", "is_private": true, "enable_gpu": true,
+           "enable_internet": true, "dataset_sources": ["$DS"], "competition_sources": [], "kernel_sources": []}
+          EOF
+          sed -i "s/^EPOCHS = .*/EPOCHS = float(os.environ.get('EPOCHS', ${{ inputs.epochs || '3' }}))/" $K/train.py
+          kaggle kernels push -p $K
+          echo "Training started on Kaggle: https://www.kaggle.com/code/$KAGGLE_USERNAME/rebbe-whisper-train — run this workflow with step=result in an hour or two."
+
+  result:
+    if: inputs.step == 'result'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: The kernel's state and scores
+        run: |
+          python -m pip install --quiet kaggle
+          K="$KAGGLE_USERNAME/rebbe-whisper-train"
+          kaggle kernels status "$K"
+          mkdir -p out && kaggle kernels output "$K" -p out --file-pattern 'metrics\.json|samples\.txt|.*\.log' -q || true
+          ls -la out
+          cat out/metrics.json 2>/dev/null | python -c "import json,sys; m=json.load(sys.stdin); m.pop('train_log',None); print(json.dumps(m,indent=1))" || true
+          head -c 20000 out/samples.txt 2>/dev/null || true
+          tail -60 out/*.log 2>/dev/null || true
