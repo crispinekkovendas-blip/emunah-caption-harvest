@@ -1,11 +1,11 @@
 # lane1-014
 
 3 of 4 lessons published · 0 skipped · status **pending**
-Tokens (21 agent runs with a record): 0.2M in (mostly cache) · 0.15M out · API-equivalent 2.02
+Tokens (22 agent runs with a record): 0.2M in (mostly cache) · 0.16M out · API-equivalent 2.03
 
 | lesson | state | detail |
 |---|---|---|
 | _fmcRRO9Yi4 | ✓ published | 447 lines · Revelação da alma e de HaShem pelos kelim: Chovat HaTalmidim |
-| Z2GdBuyeM-g | waiting | 4/5 parts |
+| Z2GdBuyeM-g | ✗ will be redone (try 1) | 1 lines missing |
 | eHxVfQPlbps | ✓ published | 511 lines · Gog e Magog em Sucot, ressurreição em Pessach e o Gaon de Vilna |
 | 9dUeS6aUGSQ | ✓ published | 577 lines · Parashat Shemini: o conserto da boca e a kashrut |
