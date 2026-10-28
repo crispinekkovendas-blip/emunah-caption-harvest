@@ -2,7 +2,7 @@
  "name": "lane4-019",
  "lane": 4,
  "created": "2026-10-28T07:21:33.429Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "RzL46Xpgxc8",
@@ -86,7 +86,7 @@
  ],
  "tries": {
   "K3XgaNkO4Ak": 3,
-  "YrWs6QmNsz4": 2,
+  "YrWs6QmNsz4": 3,
   "_u6VIUW72iY": 3
  },
  "done": [
@@ -95,6 +95,7 @@
  ],
  "skipped": [
   "K3XgaNkO4Ak",
-  "_u6VIUW72iY"
+  "_u6VIUW72iY",
+  "YrWs6QmNsz4"
  ]
 }
