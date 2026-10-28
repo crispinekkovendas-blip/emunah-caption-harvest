@@ -1,0 +1,64 @@
+videoId: 4pJazA4vJIA
+parte 21 de 29 · traduzir as linhas 800 a 839 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Tanduu: Hoshana Rabá, Baal HaSulam e a voz da maioria
+RESUMO: O programa mistura atualidade e espiritualidade. O rabino explica que Hoshana Rabá é a segunda "selagem" do julgamento depois de Yom Kippur, com o exemplo do Ari HaKadosh sobre as duas selagens do "chavit". Ele liga isso ao ensinamento de Yemima sobre a primeira e a segunda compreensão: não agir pelo impulso inicial, mas esperar a compreensão mais profunda. Depois vêm comentários sobre o avião que pousou na Arábia Saudita, a violência contra um burro, o casamento de meninas e os seguidores de Rabi Nachman de Breslov, que ele diz só poderem ser entendidos com a sabedoria da cabalá de Baal HaSulam. Segue uma conversa sobre abusos em lares ultraortodoxos, sobre a desqualificação de listas eleitorais e sobre a democracia. Aí ele cita Baal HaSulam sobre "acharei rabim lehatot" (Shemot 23:2): a maioria vale para assuntos materiais, mas no espiritual segue-se o indivíduo. Na rubrica "Sete minutos", Yossi Meir conta do cassino em Las Vegas e da visita ao 770, com ensinamentos do Rav Dunin e um texto de Yemima sobre manter o foco no estudo, não no mestre. Ao final falam do Sucot/Hoshana Rabá, do túmulo de Moshé (Devarim 34:6) e da polêmica sobre celebrações no local do 7 de outubro.
+MOMENTOS: 01:33 Hoshana Rabá como selo final depois de Yom Kippur · 02:14 Ari HaKadosh e o exemplo das duas selagens do "chavit" · 03:48 Yemima: a primeira e a segunda compreensão · 05:10 Costume de vigília, Zohar e selichot em Hoshana Rabá · 10:48 Crítica aos que se dizem seguidores de Rabi Nachman · 12:07 Baal HaSulam e a "autorização do Céu" para explicar · 19:42 Abusos em lares ultraortodoxos e a situação das mulheres · 27:04 Desqualificação de listas eleitorais e democracia · 35:56 Baal HaSulam: "acharei rabim lehatot" só vale no material · 41:10 Sete minutos: Yossi Meir em Las Vegas e no 770 · 46:01 Ensinamentos do Rav Dunin sobre os chassidim · 49:27 Texto de Yemima sobre o foco no estudo, não no mestre · 51:11 Tumba de Moshé, 7 de outubro e luto compartilhado
+FONTES CITADAS: 01:50 Hoshana Rabá, segunda selagem após Yom Kippur · 02:14 Ari HaKadosh, Chavit · 03:48 Yemima, a primeira e a segunda compreensão · 05:10 Zohar, vigília de Hoshana Rabá · 05:52 Devarim 4:35 · 10:48 Rabi Nachman de Breslov · 12:07 Baal HaSulam, rashut min hashamayim · 35:56 Shemot 23:2 · 36:22 Baal HaSulam sobre acharei rabim lehatot · 39:10 Shemot 23:2 · 39:15 Baal HaSulam sobre o espiritual · 46:01 Rav Dunin · 47:19 Kuntres Ahavat Yisrael, do Rebe de Lubavitch · 47:49 Rav Dunin, em nome de seus mestres · 48:42 Kohelet 2:13 · 49:27 Yemima, texto lido por Yossi Meir · 50:14 Devarim 34:6
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+788|38:04|מדווחים על חדשות.
+789|38:05|לא, לא, לא כל כך.
+790|38:06|אז אולי זה הפתרון, במקום להיכנס לכל הקצרים האלה.
+791|38:10|אני צורך קצרים, אבל לא פוליטיים.
+792|38:12|יש קצרים מעניינים בכל מיני נושאים שמעניינים אותי.
+793|38:15|אבל כמה אחוז המעניינים האלה?
+794|38:20|אצלי בפיד?
+795|38:21|כן.
+796|38:22|80 אחוז.
+797|38:23|80 אחוז?
+798|38:23|מה זה פיד?
+799|38:25|פיד זה שטף האינפורמציה שעובד.
+
+LINHAS A TRADUZIR:
+800|38:27|באיזה מדיה?
+801|38:29|בכל מדיה.
+802|38:30|אז מה, אתה מיוחס או מה?
+803|38:32|לא, אני פשוט...
+804|38:33|למה אצלי מופיעים כל כך הרבה שטויות?
+805|38:34|מכיוון שאתה בחרת להסתכל בשטויות, אתה צריך לחנך אותו, מה אתה אוהב.
+806|38:38|אז אתה מיד זורק אותם.
+807|38:40|כן, אני לא...
+808|38:41|אתה מיד זורק אותם.
+809|38:42|אצלי אתה תראה פוליטיקה אמריקאית, רוחניות יהודית,
+810|38:48|תזונה, כושר, ואנשים שעושים שטויות וזה
+811|38:54|עולה להם, כל מיני נופלים מסולם וכל מיני...
+812|38:58|הבנתי, אז מה שאתה מבשל זה מה שאתה מקבל.
+813|39:00|כן.
+814|39:00|זה מה שאתה אומר.
+815|39:01|בוודאי.
+816|39:02|לכן קוראים לו אלגוריתם.
+817|39:03|כן.
+818|39:04|האם ג'וסי מאיר כבר איתנו?
+819|39:06|לא?
+820|39:08|בוא.
+821|39:10|אבל אני רק רוצה להוסיף מה שבעל הסולם אומר, שחוק התורה אחרי רבים
+822|39:15|לעטות, זה רק לגבי גשמיות.
+823|39:18|אבל לגבי רוחניות, אומר בעל הסולם, כן.
+824|39:21|אחרי היחיד לעטות.
+825|39:24|כן.
+826|39:25|לא אחרי הרבים.
+827|39:25|ברור.
+828|39:26|הרבים לא מבינים כלום ברוחניות.
+829|39:28|נכון.
+830|39:29|ואין פה מה לספור ידיים.
+831|39:31|לא.
+832|39:32|צריך למצוא את האחד המיוחד, המיוחד, שהוא חי חיים רוחניים, וללכת איתו.
+833|39:38|פה אין הצבעות.
+834|39:39|אני מקובל עליי לגמרי, וגם צריך לטרוח יפה לשים את הקו בין גשמי
+835|39:45|לרוחני.
+836|39:46|כי היום הרבה ממה שיכול להיחשב גשמי הוא בעצם רוחני.
+837|39:51|כמו מהו צדק.
+838|39:55|אתה יודע, ערכים של חברה.
+839|39:58|אני לא יודע, אני חושב שהאדם במצבו הנוכחי הוא כבר לא כשיר לדמוקרטיה.

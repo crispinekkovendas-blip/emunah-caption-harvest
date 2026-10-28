@@ -1,0 +1,64 @@
+videoId: 4pJazA4vJIA
+parte 15 de 29 · traduzir as linhas 560 a 599 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Tanduu: Hoshana Rabá, Baal HaSulam e a voz da maioria
+RESUMO: O programa mistura atualidade e espiritualidade. O rabino explica que Hoshana Rabá é a segunda "selagem" do julgamento depois de Yom Kippur, com o exemplo do Ari HaKadosh sobre as duas selagens do "chavit". Ele liga isso ao ensinamento de Yemima sobre a primeira e a segunda compreensão: não agir pelo impulso inicial, mas esperar a compreensão mais profunda. Depois vêm comentários sobre o avião que pousou na Arábia Saudita, a violência contra um burro, o casamento de meninas e os seguidores de Rabi Nachman de Breslov, que ele diz só poderem ser entendidos com a sabedoria da cabalá de Baal HaSulam. Segue uma conversa sobre abusos em lares ultraortodoxos, sobre a desqualificação de listas eleitorais e sobre a democracia. Aí ele cita Baal HaSulam sobre "acharei rabim lehatot" (Shemot 23:2): a maioria vale para assuntos materiais, mas no espiritual segue-se o indivíduo. Na rubrica "Sete minutos", Yossi Meir conta do cassino em Las Vegas e da visita ao 770, com ensinamentos do Rav Dunin e um texto de Yemima sobre manter o foco no estudo, não no mestre. Ao final falam do Sucot/Hoshana Rabá, do túmulo de Moshé (Devarim 34:6) e da polêmica sobre celebrações no local do 7 de outubro.
+MOMENTOS: 01:33 Hoshana Rabá como selo final depois de Yom Kippur · 02:14 Ari HaKadosh e o exemplo das duas selagens do "chavit" · 03:48 Yemima: a primeira e a segunda compreensão · 05:10 Costume de vigília, Zohar e selichot em Hoshana Rabá · 10:48 Crítica aos que se dizem seguidores de Rabi Nachman · 12:07 Baal HaSulam e a "autorização do Céu" para explicar · 19:42 Abusos em lares ultraortodoxos e a situação das mulheres · 27:04 Desqualificação de listas eleitorais e democracia · 35:56 Baal HaSulam: "acharei rabim lehatot" só vale no material · 41:10 Sete minutos: Yossi Meir em Las Vegas e no 770 · 46:01 Ensinamentos do Rav Dunin sobre os chassidim · 49:27 Texto de Yemima sobre o foco no estudo, não no mestre · 51:11 Tumba de Moshé, 7 de outubro e luto compartilhado
+FONTES CITADAS: 01:50 Hoshana Rabá, segunda selagem após Yom Kippur · 02:14 Ari HaKadosh, Chavit · 03:48 Yemima, a primeira e a segunda compreensão · 05:10 Zohar, vigília de Hoshana Rabá · 05:52 Devarim 4:35 · 10:48 Rabi Nachman de Breslov · 12:07 Baal HaSulam, rashut min hashamayim · 35:56 Shemot 23:2 · 36:22 Baal HaSulam sobre acharei rabim lehatot · 39:10 Shemot 23:2 · 39:15 Baal HaSulam sobre o espiritual · 46:01 Rav Dunin · 47:19 Kuntres Ahavat Yisrael, do Rebe de Lubavitch · 47:49 Rav Dunin, em nome de seus mestres · 48:42 Kohelet 2:13 · 49:27 Yemima, texto lido por Yossi Meir · 50:14 Devarim 34:6
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+548|25:27|מה שזה, חותכים, זה לא חותך, אפשר.
+549|25:31|בדיוק.
+550|25:34|אז זה מה שעשיתי היום.
+551|25:38|אני כתבתי לעצמי פה התפוררות אנגליה, אבל אני לא זוכר...
+552|25:42|אשתי למשל שאלה אותי אתמול, אתמול זה יום הנסיעה צפונה.
+553|25:48|אז היא מתקשרת ושאלת אותי, תגיד, אולי אתה יודע במקרה איפה הסבון?
+554|25:55|המיוחד, איזה סבון, אתה יודע, יש סבונים בחנויות מיוחדות לסבונים.
+555|26:02|אז אתה יודע איפה הסבון נעלם אולי?
+556|26:05|והתשובה?
+557|26:07|התשובה היא שאני לא רוצה להגיד אותה אפילו.
+558|26:12|התשובה היא, שאני הייתי בתל אביב אז, ואז התעניינתי ואמרו לי שיש חנות כזאת
+559|26:18|בשוק לווינסקי.
+
+LINHAS A TRADUZIR:
+560|26:19|כן.
+561|26:20|אז הגעתי לאותה חנות וקניתי שתי סבונים.
+562|26:24|אתה יודע, מהאנטיקות עם ניחוחות של זנגוויל, עם פירורי כמון וכל
+563|26:30|מיני...
+564|26:32|ושמתי את זה על המקום, וזהו.
+565|26:36|ואפילו שלא משתמשים בזה, כן?
+566|26:38|ברור.
+567|26:39|אבל זה חשוב, כאילו שיהיה הריבוע הזה.
+568|26:43|למה?
+569|26:43|לא יודע למה.
+570|26:46|תחושה של ספה.
+571|26:47|כן, זו תחושה כזאת ש...
+572|26:51|אחלה.
+573|26:52|לא יודע אם ראית את דיוני בית המשפט העליון היום בעניינו של אבו שחאדה
+574|26:58|דנאן, שפתאום, כשהוא עומד בפני בית משפט ישראלי, פתאום הוא
+575|27:04|כבר נחרץ פחות בדעתו.
+576|27:07|כן.
+577|27:08|הוא לא התכוון, הוא לא הבין.
+578|27:10|אתם לא הבנתם, זה נאמר בערבית, ואתם תרגמתם את זה לעברית, זה לא בדיוק
+579|27:15|מתורגם נכון.
+580|27:17|וצריך להגיד ש...
+581|27:18|מה נגמר עם זה אבל?
+582|27:21|פסלו או לא פסלו?
+583|27:23|אז השופט עמית, בצעד מוזר בעיניי,
+584|27:28|אמר שמסתמן רוב לפסילתו, ולכן הוא מציע לו לפרוש.
+585|27:34|כן.
+586|27:35|שזו בעיה, מכיוון שבעצם הוא נמנע מלייצר תקדים.
+587|27:40|כי זה יכול להיות תקדים, שעל פיו יואפו אחר כך גם...
+588|27:44|עוד.
+589|27:45|עוד.
+590|27:46|ומה עם פסילת שתי הרשימות הללו בכלל?
+591|27:50|זה בן אדם פרטי, ומה עם פסילת שתי הרשימות?
+592|27:53|אני חושב ש...
+593|27:53|על זה לא דנו היום?
+594|27:54|אני לא יודע, אני חושב שפסילת רשימות היא מאוד בעייתית
+595|28:00|לחזות דמוקרטית של מדינה.
+596|28:02|לא משנה כמה הרשימות האלה הן עוינות ואויבות.
+597|28:06|כן.
+598|28:08|זאת אומרת, גם מפלגה שהיא נאצית בעליל, אתה אומר מבחינה דמוקרטית...
+599|28:14|אנחנו כל הזמן אומרים, אנחנו דמוקרטיה היחידה ודמוקרטיה.

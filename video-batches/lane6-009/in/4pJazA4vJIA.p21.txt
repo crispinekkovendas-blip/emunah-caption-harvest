@@ -1,0 +1,64 @@
+videoId: 4pJazA4vJIA
+parte 22 de 29 · traduzir as linhas 840 a 879 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Tanduu: Hoshana Rabá, Baal HaSulam e a voz da maioria
+RESUMO: O programa mistura atualidade e espiritualidade. O rabino explica que Hoshana Rabá é a segunda "selagem" do julgamento depois de Yom Kippur, com o exemplo do Ari HaKadosh sobre as duas selagens do "chavit". Ele liga isso ao ensinamento de Yemima sobre a primeira e a segunda compreensão: não agir pelo impulso inicial, mas esperar a compreensão mais profunda. Depois vêm comentários sobre o avião que pousou na Arábia Saudita, a violência contra um burro, o casamento de meninas e os seguidores de Rabi Nachman de Breslov, que ele diz só poderem ser entendidos com a sabedoria da cabalá de Baal HaSulam. Segue uma conversa sobre abusos em lares ultraortodoxos, sobre a desqualificação de listas eleitorais e sobre a democracia. Aí ele cita Baal HaSulam sobre "acharei rabim lehatot" (Shemot 23:2): a maioria vale para assuntos materiais, mas no espiritual segue-se o indivíduo. Na rubrica "Sete minutos", Yossi Meir conta do cassino em Las Vegas e da visita ao 770, com ensinamentos do Rav Dunin e um texto de Yemima sobre manter o foco no estudo, não no mestre. Ao final falam do Sucot/Hoshana Rabá, do túmulo de Moshé (Devarim 34:6) e da polêmica sobre celebrações no local do 7 de outubro.
+MOMENTOS: 01:33 Hoshana Rabá como selo final depois de Yom Kippur · 02:14 Ari HaKadosh e o exemplo das duas selagens do "chavit" · 03:48 Yemima: a primeira e a segunda compreensão · 05:10 Costume de vigília, Zohar e selichot em Hoshana Rabá · 10:48 Crítica aos que se dizem seguidores de Rabi Nachman · 12:07 Baal HaSulam e a "autorização do Céu" para explicar · 19:42 Abusos em lares ultraortodoxos e a situação das mulheres · 27:04 Desqualificação de listas eleitorais e democracia · 35:56 Baal HaSulam: "acharei rabim lehatot" só vale no material · 41:10 Sete minutos: Yossi Meir em Las Vegas e no 770 · 46:01 Ensinamentos do Rav Dunin sobre os chassidim · 49:27 Texto de Yemima sobre o foco no estudo, não no mestre · 51:11 Tumba de Moshé, 7 de outubro e luto compartilhado
+FONTES CITADAS: 01:50 Hoshana Rabá, segunda selagem após Yom Kippur · 02:14 Ari HaKadosh, Chavit · 03:48 Yemima, a primeira e a segunda compreensão · 05:10 Zohar, vigília de Hoshana Rabá · 05:52 Devarim 4:35 · 10:48 Rabi Nachman de Breslov · 12:07 Baal HaSulam, rashut min hashamayim · 35:56 Shemot 23:2 · 36:22 Baal HaSulam sobre acharei rabim lehatot · 39:10 Shemot 23:2 · 39:15 Baal HaSulam sobre o espiritual · 46:01 Rav Dunin · 47:19 Kuntres Ahavat Yisrael, do Rebe de Lubavitch · 47:49 Rav Dunin, em nome de seus mestres · 48:42 Kohelet 2:13 · 49:27 Yemima, texto lido por Yossi Meir · 50:14 Devarim 34:6
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|39:26|הרבים לא מבינים כלום ברוחניות.
+829|39:28|נכון.
+830|39:29|ואין פה מה לספור ידיים.
+831|39:31|לא.
+832|39:32|צריך למצוא את האחד המיוחד, המיוחד, שהוא חי חיים רוחניים, וללכת איתו.
+833|39:38|פה אין הצבעות.
+834|39:39|אני מקובל עליי לגמרי, וגם צריך לטרוח יפה לשים את הקו בין גשמי
+835|39:45|לרוחני.
+836|39:46|כי היום הרבה ממה שיכול להיחשב גשמי הוא בעצם רוחני.
+837|39:51|כמו מהו צדק.
+838|39:55|אתה יודע, ערכים של חברה.
+839|39:58|אני לא יודע, אני חושב שהאדם במצבו הנוכחי הוא כבר לא כשיר לדמוקרטיה.
+
+LINHAS A TRADUZIR:
+840|40:04|לא כשיר.
+841|40:05|ולכן...
+842|40:06|מה זה אומר?
+843|40:07|ולכן, בתוך שנים אחדות, ה-AI ישתלט על הכל.
+844|40:11|ה-AI יוביל אותנו.
+845|40:13|אנחנו נפסיק להצביע.
+846|40:14|אנחנו נצביע פעם אחת על חברת ה-AI שאנחנו רוצים שתנהל אותנו, ומשם זה כבר ילך לבד.
+847|40:20|ואתה יודע מה?
+848|40:22|זה יהיה פי מיליון יותר טוב.
+849|40:24|למה?
+850|40:25|מכיוון שעשו ניסויים עם אנשים ש...
+851|40:30|נגיד, יום או שבוע או חודש, כל החלטה נסע מול ה-AI וראו מה קורה.
+852|40:34|כל החלטה, מה לאכול, איפה ללכת, איך לנסוע עכשיו, הכול.
+853|40:38|וזה חכם.
+854|40:39|והחיים שלהם השתפרו בגדול.
+855|40:41|זה חכם.
+856|40:42|בגדול.
+857|40:43|כן, כי זה מנוטרל מכוחו...
+858|40:45|אבל אתה אומר שאם זה יגיע לאיזה ידיים זדוניות, הם יכולות להפוך הולך את הכול.
+859|40:49|זה בוודאי.
+860|40:50|זה בוודאי.
+861|40:52|לא אם.
+862|40:53|כש.
+863|40:54|אבל אי אפשר לעשות כאילו שמירה, חומות הגנה וזה?
+864|40:59|שידיים זדוניות לא ייכנסו לתוך הזה
+865|41:03|שלך?
+866|41:06|לא יודע, אני לא מבין בזה.
+867|41:07|לא מבין בזה.
+868|41:08|בוא, שנייה, נדבר עם...
+869|41:10|היהודי הנודד הוא יוסי מאיר, שבשליחותנו תר את העולם ומביא משם
+870|41:16|תובנות רוחניות בכל מקום שבו הוא נמצא.
+871|41:20|שלום עליך, יוסף.
+872|41:22|שלום לאברי, שלום לכבוד הרב.
+873|41:24|אתה עכשיו בלאז וגאס.
+874|41:26|בלאז וגאס.
+875|41:27|אתה אומר קזינה?
+876|41:29|בלאז וגאס, במלון שמסתבר, לא ידעתי, שאלוויס פרסלי
+877|41:35|הופיע כאן איזה 275 הופעות.
+878|41:38|ויש האומרים שבלילות עדיין ג'ייל
+879|41:43|האוזרון.

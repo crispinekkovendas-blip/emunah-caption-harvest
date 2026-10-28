@@ -1,0 +1,64 @@
+videoId: 4pJazA4vJIA
+parte 24 de 29 · traduzir as linhas 920 a 959 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Tanduu: Hoshana Rabá, Baal HaSulam e a voz da maioria
+RESUMO: O programa mistura atualidade e espiritualidade. O rabino explica que Hoshana Rabá é a segunda "selagem" do julgamento depois de Yom Kippur, com o exemplo do Ari HaKadosh sobre as duas selagens do "chavit". Ele liga isso ao ensinamento de Yemima sobre a primeira e a segunda compreensão: não agir pelo impulso inicial, mas esperar a compreensão mais profunda. Depois vêm comentários sobre o avião que pousou na Arábia Saudita, a violência contra um burro, o casamento de meninas e os seguidores de Rabi Nachman de Breslov, que ele diz só poderem ser entendidos com a sabedoria da cabalá de Baal HaSulam. Segue uma conversa sobre abusos em lares ultraortodoxos, sobre a desqualificação de listas eleitorais e sobre a democracia. Aí ele cita Baal HaSulam sobre "acharei rabim lehatot" (Shemot 23:2): a maioria vale para assuntos materiais, mas no espiritual segue-se o indivíduo. Na rubrica "Sete minutos", Yossi Meir conta do cassino em Las Vegas e da visita ao 770, com ensinamentos do Rav Dunin e um texto de Yemima sobre manter o foco no estudo, não no mestre. Ao final falam do Sucot/Hoshana Rabá, do túmulo de Moshé (Devarim 34:6) e da polêmica sobre celebrações no local do 7 de outubro.
+MOMENTOS: 01:33 Hoshana Rabá como selo final depois de Yom Kippur · 02:14 Ari HaKadosh e o exemplo das duas selagens do "chavit" · 03:48 Yemima: a primeira e a segunda compreensão · 05:10 Costume de vigília, Zohar e selichot em Hoshana Rabá · 10:48 Crítica aos que se dizem seguidores de Rabi Nachman · 12:07 Baal HaSulam e a "autorização do Céu" para explicar · 19:42 Abusos em lares ultraortodoxos e a situação das mulheres · 27:04 Desqualificação de listas eleitorais e democracia · 35:56 Baal HaSulam: "acharei rabim lehatot" só vale no material · 41:10 Sete minutos: Yossi Meir em Las Vegas e no 770 · 46:01 Ensinamentos do Rav Dunin sobre os chassidim · 49:27 Texto de Yemima sobre o foco no estudo, não no mestre · 51:11 Tumba de Moshé, 7 de outubro e luto compartilhado
+FONTES CITADAS: 01:50 Hoshana Rabá, segunda selagem após Yom Kippur · 02:14 Ari HaKadosh, Chavit · 03:48 Yemima, a primeira e a segunda compreensão · 05:10 Zohar, vigília de Hoshana Rabá · 05:52 Devarim 4:35 · 10:48 Rabi Nachman de Breslov · 12:07 Baal HaSulam, rashut min hashamayim · 35:56 Shemot 23:2 · 36:22 Baal HaSulam sobre acharei rabim lehatot · 39:10 Shemot 23:2 · 39:15 Baal HaSulam sobre o espiritual · 46:01 Rav Dunin · 47:19 Kuntres Ahavat Yisrael, do Rebe de Lubavitch · 47:49 Rav Dunin, em nome de seus mestres · 48:42 Kohelet 2:13 · 49:27 Yemima, texto lido por Yossi Meir · 50:14 Devarim 34:6
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+908|43:56|וחגגתי ושמחתי ואפילו שאגתי ואז הוא אומר לי
+909|44:02|תירגע תירגע זה בסך הכל 4 דולר ואמרתי כן צריך לדעת לחגוג את
+910|44:07|הניצחונות הקטנים אם לא תדע לחגוג את הנצחונות הקטנים, לא תדע לחגוג את הנצחונות הגדולים.
+911|44:13|ואל קטן גדול, באמת.
+912|44:16|אני ווינר, באמת, בוגאז.
+913|44:19|אז כמה זמן היית?
+914|44:20|אני הצטרפתי בוגאז.
+915|44:22|כמה זמן?
+916|44:23|זו עובדה.
+917|44:24|כמה זמן היית בקזינו?
+918|44:25|אה, שבע דקות.
+919|44:26|כן, כן, שבע דקות.
+
+LINHAS A TRADUZIR:
+920|44:27|שבע דקות בגן עדן.
+921|44:30|זה זכייה בשבע דקות.
+922|44:32|אתה גם היית בכזה מקום.
+923|44:33|והאישי היצר אומר לי, רגע, תשב...
+924|44:35|מה?
+925|44:36|הרב שאל אותי אם גם אני הייתי בכזה מקום ואני יצאתי, הייתי שעות ויצאתי ברווח של 450
+926|44:41|דולר.
+927|44:42|וזה שבע דקות אחד.
+928|44:45|ושבע דקות ש...
+929|44:46|כן, היתר אמר, תמשיך לשבת, תמשיך לשבת, אבל...
+930|44:49|לא, לא, תודה, שבע דקות מספיק, התמלאתי, אני עדיין באנרגיה הזאת של לפני
+931|44:55|ארבע שעות, וזה ילווה אותי.
+932|44:58|מכונת הבאפלו, זה בתמונה גם.
+933|45:01|והשבע דקות השניות היו כשעוד היית בניו יורק, בשליחותנו, ב-770,
+934|45:06|נכון?
+935|45:07|מה היה שם?
+936|45:08|770, את הרבי שאני אוהב,
+937|45:13|ושזה ימי בהלימוד, והרבי אחר כך זה ביחד, ואני מגיע ל-770, שזה
+938|45:19|חלומות של כל חסיד.
+939|45:22|ואני נכנס, ואני מזהה את המקום, ואני רואה את המקום, ומאוד ואלפי חסידים, ואני זוכר
+940|45:27|מהתמונות ומהווידאוים, ואני נכנס לתוך ההיכל.
+941|45:30|ואני זוכר מהתמונות מהווידאו, את ההתוודויות, ואז אני שואל את חסיד,
+942|45:36|איפה היה בדיוק קדיש, הצטרפתי לקדיש, ואחר כך שאלתי איזה תמים,
+943|45:42|איפה הרבי היה עומד?
+944|45:44|אז הוא אומר לי, הוא היה עומד שם, ושם, בשתי נקודות, הסתכלתי, ויצאתי, זה יצא
+945|45:50|שבע דקות, שאחרי שבע דקות יצאתי, והיצר תקף אותי, איך?
+946|45:53|אתה מגיע לרבי ואתה יוצא אחרי שבע דקות, מה אני איתך, מה קורה כאן?
+947|45:58|ואז הזכרתי בהבנה של הרב דונין.
+948|46:01|ש...
+949|46:03|קודם כל, לפני ההבנה של הרב דוני, פתאום הבנתי שכמו אייפון 18 שיצא לפני איזה שבועיים, שלושה
+950|46:09|תבועות, שאחד הפרמטרים שלו שהוא נטען מהר, הבנתי שאני נטענתי מהר.
+951|46:15|הבנתי שנטענתי בשבע דקות, אולי אני החסיד ה...
+952|46:20|שאני חסיד עצמאי.
+953|46:22|חסיד 18, חסיד 18 פרו.
+954|46:25|18 זה בגימטרייה חי.
+955|46:27|ואני לא צריך להיות עכשיו מחובר לשקר, ובעצם, הרב דולנין, ברור לברכה, משפיע גדול בחב"ד, ברכה
+956|46:33|לקירובים מערבי.
+957|46:34|אתה הכרת אותו?
+958|46:35|לפני כמה שנים.
+959|46:36|כן, בטח.

@@ -1,0 +1,64 @@
+videoId: EQXmWLpjkxM
+parte 12 de 19 · traduzir as linhas 440 a 479 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Shemot: da grandeza à escravidão e o Gan Eden de Batya
+RESUMO: O rabino abre o livro de Shemot, que o Rambam chama de livro do exílio e da redenção, e lembra o Zohar, que diz que toda a redenção futura está insinuada nele, sobretudo na Shirat HaYam. Ele pergunta como os filhos de Yaakov, que tinham altos cargos sob Yosef, se tornaram escravos, e responde com a Gemará em Sotá: o Faraó os pôs primeiro em trabalho braçal, e os egípcios os subjugaram. Com Pesachim 87b (a rabanut que enterra seu dono), Yosef morre primeiro e conta a história do Chafetz Chaim, do shochet e do tribunal celestial, para mostrar o peso de cada cargo. Depois trata da disputa em Sotá 11a e no Zohar sobre o Faraó que não conhecia Yosef (o mesmo rei com decretos novos ou um rei realmente novo), com o apoio de Rabeinu Bachya, e fala do envelhecimento de quem estuda e de quem não estuda Torá. Em seguida fala de Batya, filha do Faraó: seu Gan Eden segundo o Zohar, sua conversão (Meguilá 13a, Berachot 47a, Yevamot 47a), os gerim no Gan Eden e na Guehinam e sua lepra espiritual segundo os Tikunei HaZohar. Termina com o choro do menino Moshé e três lições do Rebe de Slonim sobre o bebê.
+MOMENTOS: 00:07 Morte de Yosef e abertura do livro de Shemot · 00:28 Shemot como livro do exílio e da redenção · 02:22 Pergunta: como os filhos de Yaakov viraram escravos? · 03:26 Resposta da Gemará em Sotá: trabalho braçal · 04:04 Rabanut que enterra seu dono (Pesachim 87b) · 05:05 História do Chafetz Chaim, o genro e o shochet · 18:44 Rei novo no Egito: disputa em Sotá e no Zohar · 22:58 Rabeinu Bachya: um rei realmente novo · 25:05 Batya, filha do Faraó, e o Gan Eden das mulheres · 32:53 Batya vem se converter (Meguilá 13a) · 40:15 Tikunei HaZohar: a lepra de Batya e de Moshé · 42:31 Três lições do bebê, segundo o Rebe de Slonim
+FONTES CITADAS: 00:00 Shemot 1:1-6 · 00:28 Rambam, Shemot como livro do exílio e da redenção · 00:34 Zohar, Shirat HaYam · 00:40 Shemot 15:1,17 · 02:48 Bereshit 45:11 / 50:21 · 03:26 Sotá 11b · 04:04 Pesachim 87b · 04:26 Shemot 1:6 · 08:34 Yomá 39a · 09:00 Shemot 22:30 · 18:44 Shemot 1:8 · 18:52 Sotá 11a · 18:52 Zohar, Shemot · 19:47 Bereshit 41:38 · 21:02 Avot 4:9 / Kidushin 40b · 21:23 Shabat 152a · 22:06 Bava Kama 46a · 22:58 Rabeinu Bachya em Shemot 1:8 · 23:13 Bereshit 40:20 · 23:51 Sotá 13b · 24:10 Moed Katan 18b · 25:05 Shemot 2:5 · 25:07 Derech Eretz Zuta / Massechet Sofrim · 25:21 Zohar, Shelach Lecha 167 · 28:04 Ramak, Gan Eden · 29:15 Shabat 30b · 32:53 Meguilá 13a · 33:11 Zohar, Shemot · 33:57 Berachot 47b · 34:03 Bechorot 30b · 34:15 Devarim 17:11 · 36:03 Devarim 10:19 · 36:27 Yevamot 47a · 36:56 Sanhedrin 56a · 37:17 Zohar, Gan Eden e Guehinam · 40:15 Tikunei HaZohar, Tikun 21, 48b · 40:45 Shemot 4:6-7 · 41:27 Shemot 2:6 · 42:31 Rebe de Slonim · 43:06 Zohar, Shemot 12b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+428|24:40|בשערו, שמה, חתך אותו שמה, והסתרס.
+429|24:46|עד ההוא דכתיב סריס פרעה.
+430|24:47|אז מה, הוא הלך עם פרעה?
+431|24:48|סרסיר, הלך לאורב.
+432|24:50|אה, יפה מאוד.
+433|24:51|טוב, בסדר.
+434|24:52|זה מפרשי הקוראן כתבו את זה ככה?
+435|24:56|לא, מה זה, מאיפה אתה מביא?
+436|24:58|תביא ראיות, אנחנו נשמע בינתיים.
+437|25:02|התורה הזאת, השם ירחם עליך.
+438|25:05|ותרד בת פרעה ללחוץ על האור.
+439|25:07|בת פרעה הייתה מעשרה צדיקים שנכנסו לגן עדן.
+
+LINHAS A TRADUZIR:
+440|25:09|חיוך מנהרד אליהו הנביא משיח בן דוד אלעזר רב דברם, חירם מלך צור אבים לחקוש, אבן של רבי
+441|25:13|יהודה הנשיא, בתיה בת פרעה.
+442|25:15|בתיה בת פרעה היא הייתה מעשרה צדיקים, הייתה צדיקה גדולה, והיא נכנסה לגן עדן, כותב הזוהר
+443|25:21|בפרשת שלח לך על ענייני גן עדן של נשים.
+444|25:25|האם אשתך בגן עדן, איפה היא נמצאת, לאן היא נכנסת, מה היא עושה כל היום בגן
+445|25:30|עדן?
+446|25:31|מילא, גברים, כתוב בזוהר, ותכף, בעזרת השם, עוד מעט, יצא הספר שלי, מרכבות הגמול, זה שישה
+447|25:37|כרכים על כל סוגיית העולם הבאה.
+448|25:39|בפרוטות, לא סיפורים ולא מריחות, בפרוטות.
+449|25:44|גן עדן, גיהינם, כף הקלע, מדורים, מה עושים בגן עדן, מה מגישים לאכול בגן עדן, את מי רואים,
+450|25:49|את מי פוגשים, האם אתה רואה את החברים שלך, האם אתה רואה אנשים מדורות ראשונות.
+451|25:54|הקפתי את זה, זה 15 שנה עבודה.
+452|25:56|15, שישה כרכים, יצאו בבת אחת, תוכלו לראות את זה, לדעת, אני אומר לכם, מי שילמד את
+453|26:02|זה ולא יזוז אצלו כלום בעירת שמיים, יקבל ממני תעודת סתום.
+454|26:09|למה?
+455|26:09|איפה עירת שמיים שלך אחרי שאתה תראה את כל מה שהולך לקרות?
+456|26:13|צריך להשתנות הבן אדם, אני כותב את הספר ובוכה, כותב את הספר ובוכה, בעל כורחי, שלוש
+457|26:19|בלילה, בשתיים בלילה, אתם לא יודעים כמה זעזע אותי, אני אומר לכם,
+458|26:25|התחלפתי לגמרי בעירת שמיים לפני שכתבתי את הספר הזה ואחרי, ואם לא כתבתי אותו בשבילי היה די,
+459|26:31|שישנה אותי לחלוטין, ואני מובטח בחסד עליון שזה מה שיקרה לכל מי שילמד את הספר מכריכה לכריכה,
+460|26:37|שישנה אותו לחלוטין הספר הזה, ויראה בדיוק מה הולך לקרות.
+461|26:43|זה הרבה דפים, זה מפורט מאוד כל מה שקורה שמה.
+462|26:47|ושמה הבאתי כל מדור בגן עדן, והבאתי מדורות של גן עדן עליון, ומדורות של גן עדן תחתון,
+463|26:52|ובכניסה לגן עדן, ואם אתה פוגש שמה את אשתך, ואם אתה רואה אותה שמה, אז דוהר כותב שהם
+464|26:58|מתייחדים בגן עדן, זוהר אשלח לך קס"ז, רק אם הוא זכה הוא רואה את אשתו בגן עדן.
+465|27:04|אם לא, הוא לא מתייחד איתה בגן עדן.
+466|27:07|אמר לי איזה אחד, אבל הפוך צריך להיות.
+467|27:09|אם הוא זכה, לא יראה אותה בגן עדן.
+468|27:13|אמרתי לו, תלוי איזה אישה קיבלת, זה תלוי.
+469|27:16|העולם הזה איחוד גופה בגופה, העולם הבא איחוד נאורה בנאורה, אור באור.
+470|27:21|ואם הוא ייחד קוצ'ה בריחו ושכין תפו במעשיו בעולם הזה, אז הוא מתייחד שמה עם אשתו בעולם הבא
+471|27:27|ומולידים נשמות לגרים.
+472|27:29|ומה זה נפש הגרים?
+473|27:30|כמה גרים כבר יש בעולם שצריך לעשות להם כל כך הרבה נפשות?
+474|27:34|אלא מה, הסברתי את הכל, שזה נפשות הגרים, צריך אותם לעוד תפקידים, ולא רק בשביל שגר
+475|27:40|שמתגייר מושכים לו נפש מהזיווג של הנשמות.
+476|27:44|בקיצור, ספר, אני אומר לכם, משנה אתכם הפסיידן.
+477|27:47|ושם הבאתי על כל הגן עדן של הנשים.
+478|27:51|מילא גברים בגן עדן, מה עושים כל היום שם?
+479|27:55|לומדים תורה.

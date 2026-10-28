@@ -1,0 +1,64 @@
+videoId: xaUcs4KHQr4
+parte 8 de 27 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O segredo das almas e o trabalho dos Patriarcas
+RESUMO: O Rav Ofer Erez parte da Parashá Toldot e dos casamentos nos Contos de Rabênu Natan/Rabi Nachman para explicar que o casamento tem raiz espiritual: no pecado de Adam HaRishon partes da alma (nefesh, ruach, neshamá) se perderam e viemos a este mundo para completá-las, muitas vezes em lugares escuros, como na piada do bêbado que procura a moeda sob o poste de luz. Segundo o Arizal (Etz Chaim e Shaar HaGuilgulim) e o Ramchal, as almas caíram nas klipot e o mal se misturou nelas; os Tzadikim e as almas de Zeir Anpin ajudam na correção, e o casamento é uma das ferramentas mais fortes para ela. Com base na Guemará (Berachot) sobre Rabi Shimon e a leitura do Shemá, ele fala da exílio como noite e escuridão. Explica por que só Avraham, Yitzchak e Yaakov são chamados Avot: eles separaram as almas de Israel das almas das nações, com Yishmael e Esav como o lado rejeitado. Yaakov precisou sair de Beer Sheva para Charan, casou-se com Lea, Rachel, Bilha e Zilpa, gerou as tribos e os 600.000 rebanhos. Em Vayishlach ele volta por duas pequenas jarras (Rashi: o dinheiro dos justos lhes é caro), que o Arizal ensina serem as almas mais caídas, cujo óleo chegou a Moshê, Shemuel, David e aos Hashmonaim, ligado à luz escondida de Chanucá.
+MOMENTOS: 00:17 A busca do casamento nos contos de Rabênu · 01:42 Raiz espiritual do casamento: o pecado de Adam · 02:20 Nefesh, ruach e neshamá perdidos · 05:49 Procurar a alma em lugares inesperados · 07:08 A piada do homem que procura sob a luz · 13:36 Adam HaRishon obrigado em mitzvot no Gan Eden · 17:20 Os Tzadikim ajudam: Yosef e a mão e o pé · 20:38 Rabi Shimon e a leitura do Shemá após o amanhecer · 24:21 O segredo do casamento nos Contos · 28:34 Por que só três são chamados Avot · 36:59 A tarefa dos Patriarcas: tirar as almas das klipot · 39:59 Yaakov sai de Beer Sheva para Charan · 43:53 Os 600.000 rebanhos de Yaakov · 48:35 As duas pequenas jarras em Vayishlach · 53:54 O óleo chega a Moshê, David e aos Hashmonaim
+FONTES CITADAS: 01:00 Contos de Rabênu: Maasê de Bat Melech, Maasê miBurger, Maasê meHaKaftsanim · 03:00 Arizal, Etz Chaim · 03:43 Ramchal · 10:19 Arizal, Shaar HaGuilgulim · 11:20 Ramchal · 12:39 Arizal, Shaar HaGuilgulim · 13:36 Sanhedrin 38b · 16:11 Ramchal, Maamar HaGeulá · 17:20 Bereshit 41:44 · 20:38 Berachot 9a · 21:34 Bereshit 1:5 · 30:28 Shelá HaKadosh · 28:06 Berachot 16b · 33:37 Bereshit 25:34 · 35:25 Bereshit 49:8 · 37:13 Chaguigá 12a · 39:04 Bereshit 28:10 · 43:49 Bereshit Rabá 73 · 45:54 Rabi Moshe Teitelbaum, introdução ao seu livro · 49:04 Bereshit 32:25 · 48:45 Rashi em Bereshit 32:25 · 50:23 Berachot 43b · 52:39 Bereshit 32:26 · 53:54 Pesikta, óleo das jarras de Yaakov · 54:35 Meguilat Hashmonaim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|14:39|הכל התהפך להיות מציאות אחרת לגמרי אנחנו
+269|14:43|היום לא יכולים להבין מה זה מה זה תהיה
+270|14:45|המציאות ואני אגיד לכם רק דבר אחד שברגע
+271|14:48|שיתגלה בעזרת השם אני מקווה עד עד 11 ו3
+272|14:52|בלילה לא לא יותר נשמע את השופר נעלה
+273|14:56|לירושלים ואז יהיה לנו פליה אחת. אתם יודעים איזה
+274|15:00|פלייה? מה הפליה הראשונה? אתם יודעים מה
+275|15:01|תהיה לנו הפליאה הראשונה? איך יכולנו
+276|15:04|לסבול את המציאות בלי משיח? בלי האור הבלי
+277|15:07|האור שיתגלה שיבוא המשיח צדקנו יהיה לנו
+278|15:10|פלייה גדולה. איך יכולנו לחיות בעולם כזה?
+279|15:13|אז נבין את השיגון ואת הטירוף שאנחנו
+
+LINHAS A TRADUZIR:
+280|15:15|נמצאים עכשיו. בגיקל שאנחנו לא יודעים את
+281|15:17|המציאות ה של ימות משיח לכן אנחנו יכולים
+282|15:21|לסבול את המציאות עכשיו. אבל שיבוא משיח
+283|15:23|כבר לא נוכל. אז מה שתפלל איך עברנו את
+284|15:26|זה? זה הגמרא אומרת צדיקים יגידו איך כזה
+285|15:29|הר גבוה איך יכולנו בכלל לבוא את זה בשלום
+286|15:32|את את המציאות הזאת ה
+287|15:36|העבודה ש אז בחטא אדם הראשון בחטא אדם
+288|15:39|הראשון כל הנשמות נפלו כל הנשמות נפלו א
+289|15:43|נפלו למ בכללות זה נקרא מקומות של טומאה
+290|15:48|של של קליפה לא בעולם הזה יש מקומות של של
+291|15:52|טומאה וקליפה לא בעולם הזה זה יש רבנו
+292|15:55|הארי מאוד מפר פרט על נשמות זה התחלק לכמה
+293|15:59|קבוצות רבנו הרי כותב את זה אנחנו נפלנו
+294|16:02|למקומות לא פשוטים הדור האחרון נפל
+295|16:03|למקומות מאוד לא פשוטים
+296|16:06|הלשון של רבנו הארי מקומות של קלי זה
+297|16:09|קליפות טומא
+298|16:11|הרמחל בספר מאמר הגאולה קורא לזה עררי
+299|16:14|גבעות האפלה ועררי החושך
+300|16:18|למעשה אחרי שחטנו בחטא אדם הראשון מאוד
+301|16:22|מאוד מאוד עד עד בחינת בלתי אפשרי
+302|16:26|אין לנו יכולת לתקן את אין לנו יכולת
+303|16:28|לעשות את העבודה שאנחנו צריכים כדי לתקן
+304|16:30|את זה. זה גדול עלינו כמו שאומרים יותר זה
+305|16:33|יותר חזק מאיתנו. יותר חזק מאיתנו אבל
+306|16:36|כמובן שהקדוש ברוך הוא מכין את כל הדרכים
+307|16:40|לסייע ולתקן. הקדוש ברוך הוא לא רוצה
+308|16:43|שנהיה במצב שאנחנו לא יכולים לעשות את
+309|16:45|העבודה כי אחרת מעטם בכל זה. לכן הקדוש
+310|16:49|ברוך הוא הכין דרכי עזרה. דרכים של עזרה
+311|16:53|לאדם
+312|16:54|בעבודתו כי אדם כבר לא יכול לבד זה צריך
+313|16:57|לדעת אנחנו לא יכולים להתמודד עם היצר הרע
+314|17:00|לבד עם כל ה כל כך מבלבל הוא כל כך עוצמתי
+315|17:03|בכל מיני בחינות אחת הדרכים אולי הדרך
+316|17:06|הראשונה הדרך הראשונה מצד סיוע מציאת סיוע
+317|17:10|לנו זה הנשמות הצדיקים שמסאים לנו בעבודה
+318|17:14|הזאתי לדעת כתוב א הצדיקים דורשים כתוב על
+319|17:20|יוסף הצדיק ואשתו ירים ידו ורגלו וכל ארץ

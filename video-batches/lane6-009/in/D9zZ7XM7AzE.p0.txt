@@ -1,0 +1,50 @@
+videoId: D9zZ7XM7AzE
+parte 1 de 18 · traduzir as linhas 0 a 39 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Terumá: o Monte do Templo e a tzedaká
+RESUMO: O Rav Meir Eliyahu abre com a pergunta de por que a Torá se alonga tanto sobre o Mishkan (Shemot 25:1-2), algo aparentemente temporário, e responde que nada na Torá é supérfluo e que o Mishkan e seus utensílios são eternos. Segundo a Guemará em Yomá, o Mishkan passou por Guilgal, Nov e Shiló até Jerusalém, e o rei Shlomo, com ruach hakodesh, escondeu os utensílios sob o Monte do Templo antes da destruição. Ele explica que HaShem escolheu o Monte Sinai e o Monte do Templo por serem baixos, pois ama os humildes e rejeita o orgulhoso (Sotá 5a, Sucá 52a), e que o Zohar explica "Har HaBayit": monte para os gentios, casa para Israel. Daí passa ao Mashiach, que segundo o Talmud de Jerusalém nasceu no dia da destruição, e ao Kadish pelos falecidos. Na segunda parte, comenta o midrash sobre "yidvenu" (quem dá de coração) e trata do ma'aser kesafim, do limite de um quinto (Ketubot 50a, Taanit 9a), do exemplo de Monbaz, o rei (Bava Batra 11a), e da importância de fazer testamento haláchico e civil e dar tzedaká em vida.
+MOMENTOS: 00:10 A longa descrição do Mishkan na Parashá · 01:28 Por que a Torá se alonga: nada é supérfluo · 02:20 Onde está o Mishkan hoje (Guemará em Yomá) · 04:01 Shlomo sabia que o Templo seria destruído · 05:44 HaShem ama os humildes: Sinai e Monte do Templo baixos · 07:41 Orgulho, fermento e mel: nada de soberba · 11:17 Zohar: por que Har HaBayit, monte e casa · 15:30 O nascimento do Mashiach no dia da destruição · 18:00 O Kadish e a alma dos falecidos · 22:28 Os utensílios guardados sob o Monte do Templo · 26:15 Yidvenu e yidvenu: quem dá de coração · 27:22 Ma'aser kesafim e a bênção prometida · 31:18 O limite de um quinto na tzedaká · 33:37 Monbaz: quem guarda no alto e quem guarda embaixo · 36:31 Fazer testamento haláchico e legal em vida
+FONTES CITADAS: 00:00 Shemot 25:1-2 · 01:28 Eruvin 21b · 02:20 Yomá 52b · 03:57 Melachim I 10:7 · 04:01 Yomá 52b · 04:25 Bereshit 22:4 · 05:44 Tehilim 68:17 · 05:50 Sidur, final da Amidá · 05:52 Meguilá 29a · 06:21 Targum Yonatan em Shemot 19 · 07:21 Bava Batra 98a · 07:30 Sotá 5a · 07:41 Vayikrá 2:11 · 08:30 Mishlei 16:5 · 10:01 Avot 3:1 · 11:05 Sotá 3b · 11:17 Zohar, Har HaBayit · 12:33 Yevamot 47a · 12:52 Yevamot 47a · 13:35 Sucá 52b · 14:02 Yeshayahu 11:3-4 · 14:26 Zohar · 15:30 Berachot 2:4, Talmud de Jerusalém · 16:08 Bênção Baruch Dayan HaEmet · 17:05 Dez justos que entraram vivos no Gan Eden · 18:09 Shaar HaKavanot (Ari z"l), pág. 15 · 18:24 Ben Ish Chai, Vayechi e Vayigash · 18:30 Rabi Yehuda Fatiyah, Nefesh Chaya 88 · 18:53 Kadish · 19:11 Berachot 18b · 19:11 Zohar Chadash · 20:07 Pesachim 25b · 20:13 Sete mitzvot de Bnei Noach · 22:37 Yomá 52b · 23:00 Eichá 1:6 · 23:05 Melachim I 8:9 · 23:55 Yomá 21b · 24:26 Rashi e Tosafot · 24:34 Rambam, Hilchot Beit HaBechira · 26:15 Shemot 25:2 · 26:21 Midrash sobre yidvenu · 27:14 Ketubot 50a · 27:22 Tosafot em Taanit 9a · 27:39 Devarim 14:22 · 27:44 Malachi 3:10 · 27:48 Taanit 9a · 31:08 Shulchan Arukh, Yoreh De'ah 247 a 259 · 31:24 Devarim 15:4 · 31:30 Taanit 21a · 32:46 Ketubot 50a · 33:13 Rav Chida, Machzik Bracha · 33:37 Bava Batra 11a · 38:27 Mishlei 11:17 · 38:53 Hilchot Yerushot, Choshen Mishpat
+
+LINHAS A TRADUZIR:
+0|00:00|דבר אדוני אל משה לאמור דבר אל בני ישראל ויקחו לי תרומה מאת כל איש אשר התבאנו לי בו תיקחו
+1|00:04|את תרומתי וזאת התרומה אשר תיקחו מאיתם זהב אחרי סגון חושת ומתחלת וארגמן וסוללת שני ושש
+2|00:10|ועזים וכולי פרשה הזאת פרשת תרומה מתחילה לדבר על כל סוגיית המשכן תרומה וגם
+3|00:16|תצווה וגם פיקודי והקהל אלה הפרשיות שמדברות על עניין המשכן כל
+4|00:21|כליו כל ענייניו ולכאורה זה תמוה מאוד מה פתאום התורה מעריכה בדבר שהוא כל כך זמני
+5|00:27|הרי זה היה בכמה זמן זה היה?
+6|00:30|מה לנו היום לדעת את כל המידות האלה?
+7|00:32|אנחנו בכלל לא משתמשים בזה?
+8|00:34|אפילו תגיד הרמב״ם הגדול, הנשר הגדול, שהוא כתב את כל הלכות הלכתה למשיחה, לא רק
+9|00:40|מה שהיה בתקופת הגלות.
+10|00:44|למה שעכשיו הווה, אלא גם מה שעתיד להיות, הרמב״ם העריך בזה הרבה מאוד, אבל
+11|00:50|להלכה לא צריך את כל זה, למה התורה שהיא מתקמצנת כל כך במילים, תראו כמה אנחנו מדקדקים ללמוד
+12|00:56|בעיטור של מילה, למה אמר דברים, היה אומר הדברים.
+13|00:59|למה ההיא באה לרבות על כל קוץ וקוץ, תילי תילים של הלכות, עירובין דף כ"א עמוד ב',
+14|01:06|מה פתאום כאן מעריכה במילים בלי סוף על כל עשיית המשכן
+15|01:11|וכליו וכל יריות העזים וכל התרומות של כולם.
+16|01:16|בארבע הפרשיות שהעריכה ועוד שמה יש את הפרשה שמדברת על העגל בקרי טיסה
+17|01:21|שעוצרת באמצע, מה עריכות דברים יש כאן?
+18|01:25|בשביל מה התורה העריכה?
+19|01:27|ויש בזה כמה תירוצים.
+20|01:28|יש מי שאומר שהאריכות הזאת היא באה ללמד אותך שאין דבר בטל בתורה.
+21|01:34|גם אם נראה בעיניך שיש כאן איזה דבר שהוא לבטלה, נראה לך שזה לא היה
+22|01:40|צריך להאריך בזה.
+23|01:41|זה היה משהו זמני, תקופה זמנית, עשו את המשכן ואת כליו בבית המקדש,
+24|01:47|וזה היה זמני וזהו.
+25|01:49|זה לא היה זמני.
+26|01:50|כי מה שכן אנחנו יודעים, שכל המשכן וכליו זה משהו שהוא עולמי, הוא יישאר
+27|01:56|לעולם ולא תשלוט בו יד זרים.
+28|02:00|איפה המשכן היום?
+29|02:02|איפה המשכן?
+30|02:03|משה, איפה אכבה את האוטו?
+31|02:09|המשכן.
+32|02:10|לא דרשות עכשיו בלב.
+33|02:12|המשכן.
+34|02:13|יש לך אורות זהירים ואורות תחשים מעודמים בלב?
+35|02:17|איפה המשכן היום?
+36|02:18|איפה זה נמצא?
+37|02:20|אז הגמרא אומרת במסכת יומא שכל המשכן שעשה משה רבנו הכניסו אותו כמובן
+38|02:27|לארץ ישראל והוא היה ועמד בגילגל ובנוב
+39|02:32|ובשילה היה כמה מקומות רק הוא עבר שדרוגים כל הזמן
