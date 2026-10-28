@@ -2,7 +2,7 @@
  "name": "lane6-007",
  "lane": 6,
  "created": "2026-10-28T02:21:12.844Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "3sgoiRToKlk",
@@ -38,9 +38,12 @@
   "GKiiRbwKz9Q.p5"
  ],
  "tries": {
-  "3sgoiRToKlk": 2,
-  "GKiiRbwKz9Q": 2
+  "3sgoiRToKlk": 3,
+  "GKiiRbwKz9Q": 3
  },
  "done": [],
- "skipped": []
+ "skipped": [
+  "3sgoiRToKlk",
+  "GKiiRbwKz9Q"
+ ]
 }
