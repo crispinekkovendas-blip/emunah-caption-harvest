@@ -2,7 +2,7 @@
  "name": "lane10-009",
  "lane": 10,
  "created": "2026-10-28T02:12:15.117Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "VabMG7Fsiks",
@@ -63,13 +63,16 @@
   "r6Si7dRMlR8.p4"
  ],
  "tries": {
-  "jUvpq831Gjc": 2,
+  "jUvpq831Gjc": 3,
   "AtjvsX4cXhg": 1,
   "r6Si7dRMlR8": 1
  },
  "done": [
   "VabMG7Fsiks",
-  "r6Si7dRMlR8"
+  "r6Si7dRMlR8",
+  "AtjvsX4cXhg"
  ],
- "skipped": []
+ "skipped": [
+  "jUvpq831Gjc"
+ ]
 }
