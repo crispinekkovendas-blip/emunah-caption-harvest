@@ -1,9 +1,9 @@
 # lane4-020
 
-0 of 2 lessons published · 0 skipped · status **pending**
-Tokens (42 agent runs with a record): 0.3M in (mostly cache) · 0.30M out · API-equivalent 3.55
+0 of 2 lessons published · 2 skipped · status **done**
+Tokens (63 agent runs with a record): 0.5M in (mostly cache) · 0.46M out · API-equivalent 5.11
 
 | lesson | state | detail |
 |---|---|---|
-| fHp6xoddUgc | ✗ will be redone (try 2) | 6 lines missing |
-| e5urC9nmmHk | ✗ will be redone (try 2) | 2 lines missing |
+| fHp6xoddUgc | skipped after 3 tries | 2 lines missing |
+| e5urC9nmmHk | skipped after 3 tries | 1 lines missing |
