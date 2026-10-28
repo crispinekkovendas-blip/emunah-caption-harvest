@@ -1,0 +1,54 @@
+{
+ "name": "lane3-017",
+ "lane": 3,
+ "created": "2026-10-28T14:14:04.504Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "i_Mswjw-dsM",
+   "title": "Zohar Mishpatim: Amá, Shifchá e a Bat Yechidá",
+   "lines": 920,
+   "parts": 8,
+   "from": "recente"
+  },
+  {
+   "id": "ok-SU6gQ9rA",
+   "title": "Tzimtzum Bet e as Nekudot de SAG: Gar e Zat de Bina",
+   "lines": 660,
+   "parts": 6,
+   "from": "recente"
+  },
+  {
+   "id": "vTaTzWTRBjQ",
+   "title": "Sheva Berachot: lugar para HaShem e as dez eras de Israel",
+   "lines": 1077,
+   "parts": 9,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "i_Mswjw-dsM.p0",
+  "i_Mswjw-dsM.p1",
+  "i_Mswjw-dsM.p2",
+  "i_Mswjw-dsM.p3",
+  "i_Mswjw-dsM.p4",
+  "i_Mswjw-dsM.p5",
+  "i_Mswjw-dsM.p6",
+  "i_Mswjw-dsM.p7",
+  "ok-SU6gQ9rA.p0",
+  "ok-SU6gQ9rA.p1",
+  "ok-SU6gQ9rA.p2",
+  "ok-SU6gQ9rA.p3",
+  "ok-SU6gQ9rA.p4",
+  "ok-SU6gQ9rA.p5",
+  "vTaTzWTRBjQ.p0",
+  "vTaTzWTRBjQ.p1",
+  "vTaTzWTRBjQ.p2",
+  "vTaTzWTRBjQ.p3",
+  "vTaTzWTRBjQ.p4",
+  "vTaTzWTRBjQ.p5",
+  "vTaTzWTRBjQ.p6",
+  "vTaTzWTRBjQ.p7",
+  "vTaTzWTRBjQ.p8"
+ ]
+}

@@ -1,0 +1,104 @@
+videoId: i_Mswjw-dsM
+parte 8 de 8 · traduzir as linhas 840 a 919 (80 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zohar Mishpatim: Amá, Shifchá e a Bat Yechidá
+RESUMO: O rabino conclui o comentário do Ramchal ao Maamar Saba de Mishpatim, no Zohar, que distingue almas chamadas "amá" e "shifchá" da alma "bat melech" (bat yechidá), ligada à Shechiná. Com base em Shemot 21:7 ("E quando um homem vender..."), explica que "ish" pode ser HaShem, "HaShem ish milchamá", ou um anjo como Gavriel, "o homem Gavriel" (Daniel). Segundo o Zohar, a bat melech pode descer em um corpo "estrangeiro" por gilgul, mas "meu Kavod a outro não darei" (Yeshayahu 42:8) a protege de ser entregue às kelipot de Sitra Achra. Distingue corpos do lado direito, iluminados pela alma, de corpos do lado esquerdo, que precisam de submissão e sofrimento, e lembra que o Ramchal em Mesilat Yesharim não dispensa o jejum e a imersão para o baal teshuvá. Passa então à kenesset Yisrael como um todo, em que todos podem alcançar a bat yechidá e a ruach hakodesh (Shemot 21:11, "Lo tetzé kayetziat haavadim"), e fala de Yosef, Yehudá e Tamar. Termina com a história de Natan HaAzati, os yichudim do Ari e a escolha do próximo texto de estudo.
+MOMENTOS: 00:21 Zohar: almas chamadas amá e shifchá · 01:44 Bat melech e os dois sentidos de "ish" · 03:05 Alma que se endividou em gilgul e o corpo nochri · 05:57 O corpo como amá da Shechiná; Metatron · 09:16 Shifchá: almas baixas na klipat Nogah · 11:42 Retorno a "E quando um homem vender" e Hoshea · 14:04 HaShem ish milchamá versus o ish Gavriel · 22:31 Corpos da direita e da esquerda; submissão e teshuvá · 30:41 Bat yechidá que se reveste temporariamente; Yiftach · 34:47 Nogah e o corpo que não é entregue às kelipot · 37:30 Origem das almas e do corpo (Metatron) · 45:37 Kenesset Yisrael e a bat yechidá de todos · 51:27 Yosef, Yehudá e Tamar · 56:03 O corpo recebe a alma por graus · 1:01:03 Pessach, os quatro filhos e Natan HaAzati · 1:06:07 Yichud HaYirá e o próximo estudo
+FONTES CITADAS: 00:21 Zohar, Mishpatim, Maamar Saba · 00:47 Shemot 21:7 · 02:21 Shemot 15:3 · 02:35 Daniel 9:21 · 02:38 Bereshit 37:15 · 03:05 Zohar, Mishpatim, Maamar Saba · 04:32 Yeshayahu 42:8 · 05:18 Vayikrá 25:23 · 07:11 Zohar sobre Metatron · 09:21 Zohar, Mishpatim, Maamar Saba · 11:54 Hoshea 2:18 · 24:41 Yom Kipur, jejum · 24:54 Yeshayahu 42:8 · 27:58 Ramchal, Mesilat Yesharim · 28:09 Mishlei 5:9 · 30:41 Shofetim 11 · 38:21 Bereshit 24 · 39:31 Zohar, Vayechi · 45:23 Shemot 21:7 · 46:12 Ramchal, Mesilat Yesharim, cap. 26 · 47:29 Shemot 21:11 · 48:05 Yeshayahu 52:12 · 48:11 Zohar, Maamar Saba · 49:24 Elokai Neshamá · 50:47 Chaguigá 13a · 52:36 Bereshit 39 · 53:28 Shabat 56a · 54:14 Tehilim 32:2 · 1:01:03 Haggadá de Pessach · 1:02:34 Shemot 17:7 · 1:03:09 Shemot 12:26 · 1:04:25 Ari HaKadosh, yichudim · 1:06:07 Ramchal, Yichud HaYirá
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|1:00:57|‫מי שקרא טוב טוב ‫את ההגדה של פסח שהוצאנו, ‫אז
+829|1:01:03|באותה לילה, ‫כל הנשמות של ישראל, ‫ואפילו ארבעה בנים.
+830|1:01:09|‫הרשע, מה זה רשע?
+831|1:01:12|‫אז הוא מסביר, אם אפשר, ‫שמצד הגבורות.
+832|1:01:15|‫הוא נקרא רשע בגלל מעשיו.
+833|1:01:17|‫מצד נשמתו הוא לא...
+834|1:01:18|‫הוא גבורה, אלא הוא החליט להיות רשע.
+835|1:01:23|‫דהיינו, הוא כפר בעיקר.
+836|1:01:25|‫הוא כפר בעיקר, אבל הוא...
+837|1:01:26|‫מצד הגבורות, זה דעת.
+838|1:01:30|‫יש חסדים לדעת ויש גבורות לדעת, ‫אבל יש הרוחמה ויש הבינה שזה ה...
+839|1:01:36|‫יש ארבעה מוחים.
+
+LINHAS A TRADUZIR:
+840|1:01:37|‫אז המקובלים מפרשים שהאמת, ‫הרמיים פנו, זה המקור, זה רמיים פנו.
+841|1:01:40|‫ארבעה מוחים זה ארבעה בנים.
+842|1:01:46|‫ארבעה בנים, חכם, רשע, תם, ‫ואינו יודע לשאול.
+843|1:01:50|‫אז זה התמימים, זה חסדים, ‫הם לומדים.
+844|1:01:56|‫הגבורות לדת יודעים הרבה, ‫הרבה יותר ממסורתיים.
+845|1:02:02|‫הם כולם באוניברסיטה, ‫הם לומדים שם.
+846|1:02:07|‫יש כאן גם כן אחרים שלומדים, ‫אנשים טובים גם כן.
+847|1:02:11|‫טוב, אז הולכים לבר אילן.
+848|1:02:13|‫לא, אני לא עושה פרסומת, אבל...
+849|1:02:16|אבל ודאי שאלו שמתוחכמים, לא כולם רשעים.
+850|1:02:21|וגם במי שאנחנו מייחסים אותם, אבל רק בגלל שהוא כפה בעיקר, בגלל
+851|1:02:27|השאלה שלו, בגלל הדרך של איך הוא מקשה, אתם יכולים
+852|1:02:33|לשאול אותו דבר.
+853|1:02:34|כמו שאומר הזוהר, יש השם בקרבנו עם עין.
+854|1:02:39|לא יפה שאלו.
+855|1:02:41|לא ככה שואלים.
+856|1:02:42|אבל שאלו, נכון.
+857|1:02:47|זאת אומרת, באותה שעה היה עין ששולט.
+858|1:02:53|זה לא השם, השם זה פעולה של תיקון בגילוי.
+859|1:02:59|אז אם אנחנו נושאים בהיעלם, ואנחנו מתנהגים בהיעלם, שאין לנו מים, בשבילו
+860|1:03:04|הוצאת אותנו.
+861|1:03:05|תשאירו אותנו שם, הבנתם?
+862|1:03:09|לכם, אז אומר הזוהר, כל זה מדהים ומרור, למדנו את זה, אז למה נהנה שוב?
+863|1:03:14|לא יפה שם.
+864|1:03:17|זה רק העניין, אין הבדל גדול בין הקושיה של הטעם לבין, לא יודע, של
+865|1:03:22|אפילו...
+866|1:03:24|מה זאת?
+867|1:03:25|מה זאת?
+868|1:03:25|בסדר, זה טעם, הוא כמעט לא מדבר.
+869|1:03:29|לכם?
+870|1:03:31|מה זאת לכם?
+871|1:03:34|מילה אחת הופכת אותו לעשר.
+872|1:03:38|טוב, סיימנו, רבותיי, אני רוצה לומר כמה מילים.
+873|1:03:43|שכל אחד יכול לעלות למעלה, אם אתה זוכר לדרך התלבשות, זה דרך אחרת התלבשות.
+874|1:03:49|והאם אדם יכול לקרוא לזה?
+875|1:03:53|לענות דעתי, כן.
+876|1:03:55|הייחודים של הארי הקדוש, הוא נתן אותם כדי להמשיך את הרוח
+877|1:04:01|הקודש, להמשיך ידיעות אמיתיות, להמשיך השגות.
+878|1:04:05|הוא לא מדבר...
+879|1:04:07|מאיפה אתה יודע שאתה נותן לדבר לאנשים פשוטים, לאנשים שלא יודעים כלום, כמו הרוב?
+880|1:04:14|שנכנסו לתורה הזאת, איפה אתה יודע?
+881|1:04:20|איך אתה נותן להם את זה?
+882|1:04:23|איך אתה נותן להם את הדברים האלה?
+883|1:04:25|הרי נתן העזתי, נתן ייחודים, הוא נתן ייחודים לשבתאי צבי,
+884|1:04:31|למשיח השקר.
+885|1:04:36|וגם הרב חם מזכיר אותם ייחודים.
+886|1:04:39|ורבו מזכיר את היחודים של נתן, למה גם חשד, אולי יש לך את היחודים של
+887|1:04:45|נתן, רב נתן, רש, לא רב,
+888|1:04:50|אבל רש ככה נתן, ומשכיר יבין
+889|1:04:56|שהרמז אמר על נתן העזתי, ולא מצאתי בכל איטליה
+890|1:05:02|אחד שמכיר את הזוהר כמו נתן העזתי.
+891|1:05:06|כשבדק אותו, ראה שהוא יודע את הזוהר בצורה והרמז, מי זה רמז
+892|1:05:12|בזוהר?
+893|1:05:13|פירוש שלם על הזוהר הקדוש, הוא כתב.
+894|1:05:18|ובכל זאת, טעה בגדול והטעה.
+895|1:05:21|והיה כוחו של
+896|1:05:26|המשיח השקר.
+897|1:05:30|אז רואים פה, לא לכל דכפין,
+898|1:05:32|ויחד הדברים האלה.
+899|1:05:38|‫אני חושב שכן, ‫הארי המלכו ראו את העתיד לבוא.
+900|1:05:43|‫שעם ישראל צריך להגיע לזה.
+901|1:05:45|‫הרמחן כתב, ייחוד היראה, ‫שאם אדם ישיג את היראה,
+902|1:05:51|‫את הרוממות, ‫ויכוון בי' כו' כו' ויראה, ‫ונותן את
+903|1:05:57|החיבורים ‫של האותיות והנקודות, ‫הוא אומר, ישיג את הרוח
+904|1:06:02|הקודש.
+905|1:06:04|‫יראה מביד הרוח הקודש, ‫טרן, אבל בסדר.
+906|1:06:07|יראה רוח בודש, כדפותו, יש לו מאמר שלם על זה.
+907|1:06:15|אז מה שרציתי להגיד לכם, האם נמשיך ללמוד ספר קיצור
+908|1:06:21|הכוונות, היום סיימנו את המאמר החתוך שנקטע כאן, אבל
+909|1:06:27|זה מסתיים.
+910|1:06:29|אין יותר מזה, זה מה שיש.
+911|1:06:36|יש האפשרות השנייה ללמוד איחוד היראה, שהוא גם כן
+912|1:06:43|ביאור של זוהר בראשית על פקודה קדמאה
+913|1:06:49|יראה.
+914|1:06:50|מה זה יראה בזוהר?
+915|1:06:52|זה דף שלם, עמוד שלם, עמוד שלם בזוהר שמדבר על פקודה קדמאה בתחילת
+916|1:06:58|בראשית.
+917|1:07:01|אז לאלו שבאים לידים המעום אני רוצה
+918|1:07:07|לראות באמת מי במי הולכים, אנחנו נעשה, נבקש לכולם, אבל אני לא רוצה
+919|1:07:13|להתחיל ברגל שמאלה, כבודאי עם שניים שלושה
