@@ -1,0 +1,68 @@
+name: Rebbe model — curate again (Claude, on ears already heard)
+
+# 2026-10-28. The pilot (rebbe-ears run 40635335541) showed the ears work but the first curation was too timid
+# (18 lines, 1 ✓ in 30 min; 8-minute windows, default effort). This re-runs only scripts/rebbe_curate.py on the
+# ears-* artifacts of an earlier run — no 1.5-hour ears pass — and uploads them again as one
+# artifact, ears-bundle (a folder per chunk, with the new curated.json), so rebbe-train.yml can take this run's id. A push re-curates the pilot.
+
+on:
+  workflow_dispatch:
+    inputs:
+      ears_run:
+        description: 'The run whose ears-* artifacts to curate again'
+        default: '40635335541'
+      only:
+        description: 'Regex on the chunk id (empty = all)'
+        default: ''
+      model:
+        description: 'Claude model (sonnet / opus)'
+        default: 'sonnet'
+      window:
+        description: 'Seconds per request'
+        default: '180'
+  push:
+    branches: [claude/sweet-brahmagupta-4larfi]
+    paths: [.github/workflows/rebbe-curate.yml, scripts/rebbe_curate.py]
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: npm install -g @anthropic-ai/claude-code > /dev/null
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: ears-*
+          path: out/ears-all
+          run-id: ${{ inputs.ears_run || '40635335541' }}
+          github-token: ${{ github.token }}
+      - name: Claude curates each chunk again
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          CURATE_MODEL: ${{ inputs.model || 'sonnet' }}
+          CURATE_WINDOW: ${{ inputs.window || '180' }}
+          ONLY: ${{ inputs.only }}
+        run: |
+          for d in $(find out/ears-all -name source.json -printf '%h\n' | sort); do   # ears-<chunk>/ or ears-bundle/<chunk>/
+            id=$(basename "$d")
+            if [ -n "$ONLY" ] && ! echo "$id" | grep -Eq "$ONLY"; then continue; fi
+            echo "::group::$id"
+            python -u scripts/rebbe_curate.py --out "$d" || echo "::warning::$id not curated"
+            echo "::endgroup::"
+          done
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ears-bundle
+          retention-days: 90
+          path: out/ears-all

@@ -56,8 +56,10 @@ def is_dev(chunk_id):
 def build(ears, out):
     stats = {'train': [0, 0.0], 'dev': [0, 0.0]}
     meta = {k: open(os.path.join(out, k, 'metadata.jsonl'), 'w', encoding='utf8') for k in stats}
-    for name in sorted(os.listdir(ears)):
-        d = os.path.join(ears, name)
+    # a folder per chunk — straight under --ears (ears-<chunk> artifacts) or deeper (the ears-bundle of rebbe-curate.yml)
+    dirs = sorted({r for r, _, fs in os.walk(ears) if 'clip-raw.opus' in fs or 'curated.json' in fs})
+    for d in dirs:
+        name = os.path.basename(d)
         cj, audio = os.path.join(d, 'curated.json'), os.path.join(d, 'clip-raw.opus')
         if not (os.path.exists(cj) and os.path.exists(audio)):
             print(f'  {name}: no curated.json / clip-raw.opus — skipped')

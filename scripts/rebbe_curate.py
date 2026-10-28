@@ -17,8 +17,9 @@ import os
 import re
 import subprocess
 
-WINDOW = 480.0
+WINDOW = float(os.environ.get('CURATE_WINDOW', 180))
 MODEL = os.environ.get('CURATE_MODEL', 'sonnet')
+EFFORT = os.environ.get('CURATE_EFFORT', 'high')
 EARS = (('de', 'DE'), ('he', 'HE'), ('mms', 'MMS'))
 # the German ear recites its vocabulary prompt in pauses (four-ears run)
 PROMPT_ECHO = re.compile(r'Rebbe redt Jiddisch|Chassidus, Moschiach|Tzemach Tzedek, Rebbe Maharasch', re.I)
@@ -31,8 +32,8 @@ on the Germanic words. In silences it may recite its prompt ("Der Rebbe redt Jid
 ignore such text.
 - HE: Whisper fine-tuned for Hebrew (ivrit.ai). Writes the Yiddish by sound in Hebrew letters ("ניתין מוקים וניתין \
 זמן" = ניט אין מקום און ניט אין זמן); good on the loshon-kodesh words, quotes and names.
-- MMS: Meta MMS, letter by letter in Hebrew letters, no punctuation; rough but never invents whole sentences — use \
-it to break ties.
+- MMS: Meta MMS, letter by letter in Hebrew letters, often without spaces; very rough, but it never invents \
+whole sentences — use it only to break ties.
 Each input line is: start–end seconds, the ear, what it heard.
 
 Write what the Rebbe actually said, in Yiddish, in Hebrew letters:
@@ -42,8 +43,10 @@ written in their source.
 - Verbatim: his words in his order, repetitions included. Never add, explain, smooth or complete from memory of \
 the published texts. If you cannot tell what he said, leave it out.
 - One line per phrase, 2–15 seconds, its start and end taken from the ears' times.
-- Mark each line: ✓ only when the ears support every word and you are sure of it; ~ when the meaning is sure but \
-some wording is reconstructed. Do not write lines you would mark lower than ~.
+- Cover ALL of the Rebbe's speech in the window, phrase after phrase, not only the easiest lines.
+- Mark each line: ✓ when you are sure of every word — the ears never agree letter for letter (DE writes Latin \
+letters, HE Hebrew letters), so agreement in SOUND counts: "bechol rega v'rega" (DE) + "בכל רגע ורגע" (HE) = ✓. \
+~ when the meaning is sure but some words are reconstructed. Leave out what you could only guess.
 - Leave out singing (niggunim), the crowd, other speakers (chazzan, translators, gabbaim) and the prompt echo.
 
 Example lines (from an earlier curation, Leil 13 Nissan 5751):
@@ -74,7 +77,7 @@ def timeline(out):
 
 def ask(text):
     r = subprocess.run(['claude', '-p', 'Curate the ears below following the system rules.', '--system-prompt', SYSTEM,
-                        '--tools', '', '--model', MODEL, '--output-format', 'json'],
+                        '--tools', '', '--model', MODEL, '--effort', EFFORT, '--output-format', 'json'],
                        input=text, capture_output=True, text=True, timeout=1800)
     try:
         j = json.loads(r.stdout)
@@ -117,7 +120,7 @@ def main():
     lines.sort(key=lambda l: l['start'])
     sure = [l for l in lines if l['mark'] == '✓']
     secs = sum(l['end'] - l['start'] for l in sure)
-    doc = {'source': src, 'model': MODEL, 'windows': windows, 'lines': lines,
+    doc = {'source': src, 'model': MODEL, 'effort': EFFORT, 'window_s': WINDOW, 'windows': windows, 'lines': lines,
            'sure_lines': len(sure), 'sure_seconds': round(secs)}
     json.dump(doc, open(os.path.join(a.out, 'curated.json'), 'w', encoding='utf8'), ensure_ascii=False, indent=0)
     off = src.get('clip_offset_s', 0)
