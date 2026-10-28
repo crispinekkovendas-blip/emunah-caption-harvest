@@ -1,0 +1,50 @@
+videoId: 3QtfHglis14
+parte 1 de 16 · traduzir as linhas 0 a 39 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashá Vayechi: o medo de Yaakov e o sepultamento
+RESUMO: O rabino parte do pedido de Yaakov para não ser enterrado no Egito e da explicação de Rashi de que seu corpo seria fonte de vermes; pergunta por que Yaakov temeria isso e responde que o receio era de feitiços dos egípcios que o cultuariam, e que Yaakov sempre temia que o pecado causasse (Berachot 4a), inclusive por ter cancelado alguma hanhagá de piedade. Em seguida trata de por que Yaakov enterrou Rachel no caminho, e não na Meárat HaMachpelá (Zohar, Guemará), contando a história de Rabi Moshe Montefiore e do túmulo de Rachel, e porque ela deve ficar descoberta, ligada à Malchut. Explica a razão do juramento de Yosef, a dispensa de juramentos diante do faraó e a história das setenta línguas e da língua sagrada (Sotá 36b). Passa ao verso "ver o teu rosto eu não esperava" (Rashi, Kidushin 49b, Shabat 151b), à pergunta "quem são estes" e ao Erev Rav, e ao pedido de Yaakov de revelar o fim, com o cálculo de Rabi Shimshon de Ostropoli em guematria. Termina com "filhas passeiam sobre o muro" (Bereshit 49:22) e avisos sobre seus livros.
+MOMENTOS: 00:03 Pedido de Yaakov: não me enterres no Egito · 00:15 Rashi: o pó virará vermes sob o meu corpo · 00:58 Cemitério de idosos em Goshen · 02:58 Feitiços dos egípcios, não vermes · 04:49 Yaakov temia que o pecado causasse · 05:50 Hanhagot canceladas: Rabenu Tam e Rashi · 09:20 Por que Rachel foi enterrada no caminho · 10:47 Quem está sepultado na Meárat HaMachpelá · 11:28 Rabi Moshe Montefiore e o túmulo de Rachel · 17:06 Rachel pede misericórdia pelos filhos · 18:13 Por que Yosef também jurou · 20:26 Faraó manda anular o juramento · 21:17 Setenta línguas e a língua sagrada · 25:30 Yaakov e Yosef: ver o teu rosto não esperava · 29:59 Quem são estes? Mi e Elé · 32:00 Yaakov quis revelar o fim · 38:15 Filhas passeiam sobre o muro
+FONTES CITADAS: 00:03 Bereshit 47:29 · 00:15 Rashi em Bereshit 47:29 · 00:21 Shemot 8:18 · 00:34 Shemot 10:23 · 02:08 Tehilim 91:7 · 03:10 Bereshit 47:7 · 04:49 Bereshit 28:15 · 05:00 Berachot 4a · 05:17 Tehilim 121:5 · 05:44 Shut Merkavot Argaman, parte 2 · 06:13 Shulchan Arukh, Orach Chaim 34:2 · 06:13 Menachot 34b · 06:35 Zohar e cabalá sobre os tefilin · 09:20 Bereshit 47:30 · 09:29 Bereshit 47:30 · 10:47 Zohar, Vayechi · 10:51 Chagigá 12a · 11:13 Sotá 13a · 11:36 Yabia Omer, parte 7 (Rav Ovadia Yosef) · 13:01 Bereshit 35:20 · 13:05 Zohar e cabalá sobre Rachel e Leá · 13:35 Tehilim 119:126 · 17:08 Yirmiyáhu 31:14 · 17:21 Zohar, Vayechi · 17:27 Eichá 1:1 · 17:33 Berachot 31b · 18:13 Bereshit 47:31 · 20:41 Hatarat nedarim e hatarat shevuot · 20:46 Sotá 36b · 22:18 Sotá 36b · 22:18 Tehilim 81:6 · 25:18 Bereshit 48:1 · 25:35 Bereshit 48:3 · 25:41 Bereshit 48:11 · 25:47 Sotá 36b · 25:58 Rashi em Bereshit 48:11 · 26:40 Shabat 151b · 27:20 Kidushin 49b · 28:16 Sotá 36b · 28:28 Sotá 36b · 29:29 Berachot 5b · 29:59 Bereshit 48:8 · 30:05 Bereshit 48:9 · 30:14 Rashi em Bereshit 48:8 · 31:01 Shemot 32:4 · 31:12 Shemot 32:26 · 31:42 Tehilim 126:2 · 31:48 Bamidbar 16:33 · 32:00 Midrash sobre Bereshit 49:1 · 33:04 Sanedrin 97b · 33:09 Cálculos de Rav Saadia Gaon, Abravanel, Maharal e Ramban · 34:46 Midrash sobre Bereshit 49:2 · 34:56 Shemá Israel (Devarim 6:4) · 35:06 Rabi Shimshon de Ostropoli · 37:26 Shemot 3:4 · 38:15 Bereshit 49:22 · 38:15 Interpretação de Bereshit 49:22
+
+LINHAS A TRADUZIR:
+0|00:03|ויקרבו ימי ישראל למות ויקרא לבנו ליוסם ויאמר לו אם נא מצאתי חן בעיניך שים נא ידך
+1|00:09|תחת ירחי ועשית עמדי חסד ואמת אל נא תקברני במצרים למה אל נא תקברני
+2|00:14|במצרים?
+3|00:15|רש"י מפרש סופה להיות עפרה כנים ומרחשים תחת גופי
+4|00:21|ואני אף פעם לא הבנתי בגושן לא היה מכות כל העשרת המכות ראה הפלטי בין העם
+5|00:27|המצרי לבין העם היהודי ליהודים הקדוש ברוך הוא נתן אור בכל מושבותיהם ולאו דווקא אור
+6|00:34|שהיה מכת חושך ולהם אור תמיד היה להם אור הקדוש ברוך הוא נתן להם ברכה והצלחה
+7|00:39|והיה להם נחת והיו עושים הרבה כסף מהמכה של אדם אפילו
+8|00:45|נו אז מה זה שהוא אומר סופה להיות עפרה קינים אבל הלוא יקברו במצרים
+9|00:52|יקברו אותך ברמסס היא גושן יקברו אותך שמה בארץ גושן אז מה מרחשים תחת
+10|00:57|גופי וגם אם יקברו אותו שמה, נגיד שעוד לא היה בית קברות בגושן, ופרעה לא הסכים לפתוח עכשיו
+11|01:03|אדמה חדשה, רב מעבר יבוא כליו השלום כותב שעיר שפותחים עכשיו בית
+12|01:09|קברות חדש, כל העיר עושים תענית.
+13|01:12|ולא יכולים כל העיר, אז ראשי העיר עושים תענית, מקיפים את המקום של הבית
+14|01:18|קברות עם קטורת, וקוראים שמה קטורת במקום הזה שמה, בשביל
+15|01:23|שנגיד שכאן בבית קברות יקברו רק אנשים זקנים.
+16|01:29|הגיעו כבר למעלה מגיל מאה, זה כבר זקן קשיש, בן מאה, הוא אמר בגבג, כאילו מת
+17|01:34|ועבר מן העולם.
+18|01:36|אז בן מאה יקברו אותו שמה, ושמה רק יקברו, לא ילדים ולא נשים צעירות
+19|01:41|ולא עוללים, אלא זה יהיה בית קברות של זקנים בלבד.
+20|01:46|הפרעה הרשע יכול להיות שרצה שלא יסכים לפתוח בית קברות בגושן,
+21|01:52|על הצד של, אולי היה בית קברות בגושן, ואז קשה על יעקב אבינו, מה אתה מפחד מהקינים, הרי שמה
+22|01:57|לא ירחשו תחת גופך.
+23|01:59|אז נגיד שלא היה, והיה בית קברות רק במצרים.
+24|02:02|אז מה, אתה חושב שאם היה נקבר יעקב אבינו במצרים, הקדוש ברוך הוא היה נותן לכלים תחת גופו?
+25|02:08|מה, יפול מצדך אלף עורבבה מימיניך אליך יעקב לא ייגש.
+26|02:12|נו מה, כמה פעמים ראינו צדיקים וגדונים שפתחו את הקבר שלהם ונשארו צדיקים
+27|02:18|עליונים וקדושים.
+28|02:20|לא קרה להם כלום, לא הסריחו, לא התליעו, לא באה אליהם, לא רימה ולא
+29|02:26|תולעה.
+30|02:27|והיה העור שלהם אדום עוד פה היה להם כמו תפוחים אדום כאילו קברו
+31|02:32|אותם עכשיו נו אז מה הבעיה למה יעקב אבינו מפחד גם אם יקברו אותך במצרים
+32|02:39|ששם כן היה קינים וכן כל הפרה הפך להיות קינים אז מה אצלך ודאי
+33|02:45|לא ירחשו תחש גופך אתה קדוש אתה טהור הקדוש ברוך הוא ישמור עליך שלא יהיה
+34|02:50|עונה לך שלא כל רע אז מה פתאום יעקב אבינו מפחד שיהיו הכינים מרחשים תחת
+35|02:56|גופי?
+36|02:58|אלא יעקב אבינו לא אמר על הכינים ירחשו תחת גופי, המצרים יעשו כשפים והם
+37|03:04|ירחשו תחת גופי, הם יבואו אליי ויתפללו עליי, המצרים ידעו
+38|03:10|שיעקב אבינו הוא קדוש וטהור, יעקב אבינו בירך את פרעה, מיד הנילוס היה יוצא לקראתו,
+39|03:16|היה גל של מים, גל של מים יוצא לקראת פרעה

@@ -1,0 +1,64 @@
+videoId: PyYGb6g1zNA
+parte 5 de 19 · traduzir as linhas 160 a 199 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A grande estratégia de Shlomo HaMelech: o coração que ouve
+RESUMO: O rabino abre o capítulo 3 de Melachim I (Reis I), com o casamento de Shlomo com a filha de Faraó e o pedido a HaShem em Givon, "um coração que ouve" (Melachim I 3:1-15). Ele propõe que Shlomo via sua época como o fim da história: Israel já chegara ao destino, 480 anos após o Êxodo, e agora cabia consertar o mundo sob o reinado de Shaddai. Por isso Shlomo se casa com a filha de Faraó e depois com mil mulheres, que funcionariam como embaixadoras da fé junto aos seus povos. O rabino apoia essa leitura no altar do Monte Eival, na visita da rainha de Sheva (Melachim I 10), no Rashi sobre Zevulun e na inauguração do Templo, em Tishrei. Ele explica também os 40 mil estábulos de cavalos e os 12 mil cavaleiros (Melachim I 5) como infraestrutura de comunicação, e a aliança com Chiram, rei de Tzor, como porta para todas as nações. Por fim, ele antecipa que no próximo encontro veremos o caso das duas mulheres, o "conto pequeno" que ilustra a sabedoria de Shlomo, e que a razão do fracasso virá depois.
+MOMENTOS: 00:29 Leitura de Melachim I 3: casamento e sonho em Givon · 02:07 O capítulo 3 como abertura de todo o projeto de Shlomo · 03:33 Midrash: Gavriel finca uma cana no mar, de onde surge Roma · 04:19 Shlomo diagnostica a época: o fim da história · 08:58 A missão: consertar o mundo sob o reinado de Shaddai · 10:12 O altar do Monte Eival como semente da missão · 13:28 Parceria com as nações: o casamento com a filha de Faraó · 16:19 Por que Shlomo pede só um coração que ouve · 19:59 A rainha de Sheva e o Rashi sobre Zevulun · 29:49 Inauguração do Templo em Tishrei e ajuda de fora · 33:04 Os 40 mil cavalos e a proibição "não multiplicará cavalos" · 36:42 Chiram de Tzor: a porta para todas as nações · 39:02 A regra do conto pequeno que antecipa o grande
+FONTES CITADAS: 00:29 Melachim I 3:1-4 · 00:52 Melachim I 3:5 · 01:17 Melachim I 3:9 · 01:46 Melachim I 3:12-14 · 03:33 Midrash sobre o casamento de Shlomo com a filha de Faraó · 07:02 Zohar, ano 600 do sexto milênio · 10:12 Devarim 27:2-8 (altar no Monte Eival) · 18:49 Kohelet 2:18-19 · 20:15 Melachim I 10:1 · 20:40 Melachim I 10:4-7 · 21:17 Melachim I 10:9 · 21:35 Melachim I 10:13 · 22:00 Devarim 33:18-19 · 22:07 Rashi em Devarim 33:19 · 27:22 Melachim I 8:41-43 · 30:51 Melachim I 5:9-11 · 31:19 Melachim I 7:13-14 · 32:09 Melachim I 5:1-4 · 32:58 Melachim I 5:6 · 33:10 Devarim 17:16 · 34:16 Ester 8:10 · 36:08 Sanhedrin 90a (derash do versículo "não multiplicará cavalos") · 36:14 Devarim 17:16 · 37:16 Melachim I 5:16-19 · 37:42 Melachim I 5:21 · 38:04 Melachim I 5:22-26
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+148|09:37|ומאמינים באל אחד.
+149|09:40|זו המשימה.
+150|09:41|עם ישראל את הסיבוב שלו סיים.
+151|09:44|גם, נטפל פה בכמה עניינים, בסדר, זה האירוע.
+152|09:49|עכשיו, השליחות של עם ישראל היא להשפיע החוצה, וממש כמו שאנחנו אומרים,
+153|09:55|ומי שתיקן את התפילה הזאת זה היה יהושע בן נון, לתקן עולם מלכות שלהם.
+154|10:00|זה מתחיל מהאזור הזה, ארץ התרבות, ארץ כנען, נסופוטמיה וכו', ולהגיע לכל מקום שנמצאים בו בני
+155|10:05|אדם.
+156|10:05|עכשיו, הדבר הזה, החייבר, הוא היה מונח מראשית הצירים, זה לא איזה הפתעה.
+157|10:09|אני מזכיר לכם את מה שאתם זוכרים, רבי יצחק.
+158|10:12|שכשעם ישראל נכנס לארץ ישראל, די בהתחלה עשו מבצע, הלכו להר עיבל,
+159|10:18|הקימו מזבח עצום ממדים, סדו אותו בסיד וכתבו עליו את דברי התורה בהר
+
+LINHAS A TRADUZIR:
+160|10:24|היטב.
+161|10:25|הרעיון הוא שאתה לא תוכל לפספס את זה.
+162|10:27|כל מי שגר בארץ כנען ירים עיניים להר עיבל, יראה מבנה מסויד בסיד, זה מסנוור כשהשמש פוגעת,
+163|10:33|זה נקרא דרך מבוא השמש, זה מסנוור אותו, הוא יראה את זה, הוא יבוא ויקרא.
+164|10:37|נעים מאוד, אנחנו עם ישראל בשבעים לשון.
+165|10:40|בחיתית, באמורית, בכנענית, איזה שפה שאתה רוצה, אנחנו עם ישראל, נעים מאוד, יצאנו ממצרים,
+166|10:45|קראנו את ים סוף, קיבלנו תורה מסיני, אמונה באל אחד, באנו להביא לכם ברכה.
+167|10:50|אמונה באל אחד, מוסר, יושר, משפחה, צדקה, סדרים
+168|10:56|חברתיים, לא לרצוח, לא לגנוב, זה הסיפור שלנו, באנו לתקן את האנושות.
+169|11:01|זו השליחות.
+170|11:03|אחרי שנגמור להתעסק עם עצמנו, מה נעשה?
+171|11:07|נתקן את העולם.
+172|11:09|יש רק מיליארד 200 מיליון הודים שעובדים עבודה זרה, לא כולם.
+173|11:13|האינדים לא, אבל היהודאיסטים כן.
+174|11:16|הסינים, יש מה לעשות, חסר מה לעשות.
+175|11:19|עם ישראל הוא הממלכת כהנים וגוי קדוש של האנושות כולה.
+176|11:24|שלמה מזהה את האירוע הזה כתקופה שלו.
+177|11:28|מבחינתו, בארבעים שנה שהוא מלך, יהיו התפתחויות מדעיות בלתי רגילות, העולם יהיה
+178|11:34|מקום יותר נעים לחיות בו.
+179|11:36|אמרנו בדרך...
+180|11:38|בדרך, נראה לי, פשט.
+181|11:40|מה נוח עושה?
+182|11:42|מה נוח עושה?
+183|11:43|כולם אומרים, מה נוח יצר?
+184|11:46|מה, איך?
+185|11:47|לא, לפני הטבע, כשהוא נולד, מה כתוב?
+186|11:49|מחרשה.
+187|11:50|לא, הוא לא יצר מחרשה.
+188|11:51|הוא יצר מחרשה, הוא יצר זמן.
+189|11:54|הנחמה הייתה שנוח אפשר לבני אדם זמן.
+190|11:57|כי אם אני עכשיו במקום יום שלם לחרוש, אני חורש בחצי יום, יש לי זמן, פנוי, לחשוב.
+191|12:02|אם אני חושב, אולי אני אמצא עוד המצאות ועוד גילויים ועוד ועוד, במקום להיות כל הזמן עסוק
+192|12:06|בעבודה.
+193|12:09|שלמה המלך אומר, אני צריך למצוא, לייצר כל מיני אמצעים טכנולוגיים כאלה, כמו שאנחנו חיים
+194|12:13|היום, בקיצור, שיפנו את האדם, ואז כל אחד מאיתנו יכול להגיד, אני לא צריך ללמוד דבר כזה, דבר
+195|12:18|אחר, לגלות, לחקור את הבריאה, לחקור את החומר, לחקור את הרוח, לחקור את הכל, ולהביא את העולם
+196|12:23|למצב טוב.
+197|12:24|שבו יש לאנשים זמן, והם מתקנים את דרכיהם.
+198|12:27|זה האירוע.
+199|12:28|שלמה, כי הוא חי בתקופה שאמורה להביא לידי שלמות.

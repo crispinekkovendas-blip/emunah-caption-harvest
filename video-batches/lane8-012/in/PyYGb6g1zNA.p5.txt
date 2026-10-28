@@ -1,0 +1,64 @@
+videoId: PyYGb6g1zNA
+parte 6 de 19 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A grande estratégia de Shlomo HaMelech: o coração que ouve
+RESUMO: O rabino abre o capítulo 3 de Melachim I (Reis I), com o casamento de Shlomo com a filha de Faraó e o pedido a HaShem em Givon, "um coração que ouve" (Melachim I 3:1-15). Ele propõe que Shlomo via sua época como o fim da história: Israel já chegara ao destino, 480 anos após o Êxodo, e agora cabia consertar o mundo sob o reinado de Shaddai. Por isso Shlomo se casa com a filha de Faraó e depois com mil mulheres, que funcionariam como embaixadoras da fé junto aos seus povos. O rabino apoia essa leitura no altar do Monte Eival, na visita da rainha de Sheva (Melachim I 10), no Rashi sobre Zevulun e na inauguração do Templo, em Tishrei. Ele explica também os 40 mil estábulos de cavalos e os 12 mil cavaleiros (Melachim I 5) como infraestrutura de comunicação, e a aliança com Chiram, rei de Tzor, como porta para todas as nações. Por fim, ele antecipa que no próximo encontro veremos o caso das duas mulheres, o "conto pequeno" que ilustra a sabedoria de Shlomo, e que a razão do fracasso virá depois.
+MOMENTOS: 00:29 Leitura de Melachim I 3: casamento e sonho em Givon · 02:07 O capítulo 3 como abertura de todo o projeto de Shlomo · 03:33 Midrash: Gavriel finca uma cana no mar, de onde surge Roma · 04:19 Shlomo diagnostica a época: o fim da história · 08:58 A missão: consertar o mundo sob o reinado de Shaddai · 10:12 O altar do Monte Eival como semente da missão · 13:28 Parceria com as nações: o casamento com a filha de Faraó · 16:19 Por que Shlomo pede só um coração que ouve · 19:59 A rainha de Sheva e o Rashi sobre Zevulun · 29:49 Inauguração do Templo em Tishrei e ajuda de fora · 33:04 Os 40 mil cavalos e a proibição "não multiplicará cavalos" · 36:42 Chiram de Tzor: a porta para todas as nações · 39:02 A regra do conto pequeno que antecipa o grande
+FONTES CITADAS: 00:29 Melachim I 3:1-4 · 00:52 Melachim I 3:5 · 01:17 Melachim I 3:9 · 01:46 Melachim I 3:12-14 · 03:33 Midrash sobre o casamento de Shlomo com a filha de Faraó · 07:02 Zohar, ano 600 do sexto milênio · 10:12 Devarim 27:2-8 (altar no Monte Eival) · 18:49 Kohelet 2:18-19 · 20:15 Melachim I 10:1 · 20:40 Melachim I 10:4-7 · 21:17 Melachim I 10:9 · 21:35 Melachim I 10:13 · 22:00 Devarim 33:18-19 · 22:07 Rashi em Devarim 33:19 · 27:22 Melachim I 8:41-43 · 30:51 Melachim I 5:9-11 · 31:19 Melachim I 7:13-14 · 32:09 Melachim I 5:1-4 · 32:58 Melachim I 5:6 · 33:10 Devarim 17:16 · 34:16 Ester 8:10 · 36:08 Sanhedrin 90a (derash do versículo "não multiplicará cavalos") · 36:14 Devarim 17:16 · 37:16 Melachim I 5:16-19 · 37:42 Melachim I 5:21 · 38:04 Melachim I 5:22-26
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|11:51|הוא יצר מחרשה, הוא יצר זמן.
+189|11:54|הנחמה הייתה שנוח אפשר לבני אדם זמן.
+190|11:57|כי אם אני עכשיו במקום יום שלם לחרוש, אני חורש בחצי יום, יש לי זמן, פנוי, לחשוב.
+191|12:02|אם אני חושב, אולי אני אמצא עוד המצאות ועוד גילויים ועוד ועוד, במקום להיות כל הזמן עסוק
+192|12:06|בעבודה.
+193|12:09|שלמה המלך אומר, אני צריך למצוא, לייצר כל מיני אמצעים טכנולוגיים כאלה, כמו שאנחנו חיים
+194|12:13|היום, בקיצור, שיפנו את האדם, ואז כל אחד מאיתנו יכול להגיד, אני לא צריך ללמוד דבר כזה, דבר
+195|12:18|אחר, לגלות, לחקור את הבריאה, לחקור את החומר, לחקור את הרוח, לחקור את הכל, ולהביא את העולם
+196|12:23|למצב טוב.
+197|12:24|שבו יש לאנשים זמן, והם מתקנים את דרכיהם.
+198|12:27|זה האירוע.
+199|12:28|שלמה, כי הוא חי בתקופה שאמורה להביא לידי שלמות.
+
+LINHAS A TRADUZIR:
+200|12:36|שנייה, רגע, עכשיו אנחנו עונים על זה.
+201|12:40|בסדר?
+202|12:41|אנחנו בדיוק...
+203|12:42|קודם כל, אתם מבינים את הרעיון?
+204|12:44|אתם מבינים שאפשר לחשוב ככה?
+205|12:46|אנחנו אומרים, אה, שלמה, אתה לא יודע שעוד אחריך יהיה בית ראשון ובית שני וגלות?
+206|12:50|לא.
+207|12:50|מבחינת שלמה זהו, נגמר.
+208|12:52|אנחנו נבנה את בית הבית ראשון, וזהו, מעכשיו אנחנו רק נתעסק בלתקן את העולם.
+209|12:57|תקן עולם המלכות שעדיין, להחזיר את העולם למצבו העיקרי של לפני החטא, שבו בני אדם חיים בשלום,
+210|13:02|באחווה, עוסקים במושכלות, לא גונבים, לא רוצחים, מאמינים באל אחד.
+211|13:07|מתפללים, מתקנים את העולם, מגלים את סודותם, מביאים ברכה, שזה מה שהקדוש ברוך הוא התכוון
+212|13:11|מראש.
+213|13:15|למה?
+214|13:19|אה, רגע, אתה שואל?
+215|13:20|שנייה, רגע, אנחנו באמצע.
+216|13:22|אני, אני, אז אני אסיים לענות, ואז תגידו, אם יש לכם שאלות, אני אענה בשמחה.
+217|13:26|טוב.
+218|13:28|עכשיו, כדי להשפיע על אומות העולם, באופן שזה יתקבל, אתה חייב
+219|13:34|צינורות, צינורות השפעה.
+220|13:37|אתה חייב, פעם אחת.
+221|13:38|ופעם שנייה, אתה חייב שותפות.
+222|13:42|אף אחד לא אוהב, אם אתה רוצה שינוי אמיתי, אתה לא רוצה שינוי מוכתב מלמעלה, שברגע ששלמה
+223|13:48|יסיים את תפקידו, אז הכל יחסוך חזרה למה שהיה לפני כן.
+224|13:51|אף אחד לא אוהב שמכריחים אותו.
+225|13:52|עכשיו יכול להיות ששלמה יכול היה להכריח, היה לו את הכוח, הייתה לו את העוצמה, דוד בנה לו
+226|13:56|ממלכה עצומה, הוא לא רוצה.
+227|13:58|הוא מציע לאומות העולם שותפות מ-day one.
+228|14:01|לא, כשאני אגמור, אני אבוא להראות לכם איזה מושלמים אנחנו.
+229|14:06|בואו תהיו שותפים איתנו בבניין בית השם ובבניין בית
+230|14:11|המלך, כן?
+231|14:13|והוא מתחתן עם בת פרעה, ברור שהוא גייר אותה, כן?
+232|14:16|אבל זה...
+233|14:17|הוא גייר אותה, אבל ברור שהיא...
+234|14:19|מה אתה צריך אותה?
+235|14:20|חסר לך בנות?
+236|14:21|הוא צריך מישהי מאומות העולם, הכי בכירה מאומות
+237|14:26|העולם, שמדבר את השפה של אומות העולם, בסדר?
+238|14:30|כאילו היום הייתי אומר, הוא היה מתחתן עם מישהי, נגיד...
+239|14:35|לא, דווקא לא.

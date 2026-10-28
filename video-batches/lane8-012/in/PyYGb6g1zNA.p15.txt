@@ -1,0 +1,64 @@
+videoId: PyYGb6g1zNA
+parte 16 de 19 · traduzir as linhas 600 a 639 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A grande estratégia de Shlomo HaMelech: o coração que ouve
+RESUMO: O rabino abre o capítulo 3 de Melachim I (Reis I), com o casamento de Shlomo com a filha de Faraó e o pedido a HaShem em Givon, "um coração que ouve" (Melachim I 3:1-15). Ele propõe que Shlomo via sua época como o fim da história: Israel já chegara ao destino, 480 anos após o Êxodo, e agora cabia consertar o mundo sob o reinado de Shaddai. Por isso Shlomo se casa com a filha de Faraó e depois com mil mulheres, que funcionariam como embaixadoras da fé junto aos seus povos. O rabino apoia essa leitura no altar do Monte Eival, na visita da rainha de Sheva (Melachim I 10), no Rashi sobre Zevulun e na inauguração do Templo, em Tishrei. Ele explica também os 40 mil estábulos de cavalos e os 12 mil cavaleiros (Melachim I 5) como infraestrutura de comunicação, e a aliança com Chiram, rei de Tzor, como porta para todas as nações. Por fim, ele antecipa que no próximo encontro veremos o caso das duas mulheres, o "conto pequeno" que ilustra a sabedoria de Shlomo, e que a razão do fracasso virá depois.
+MOMENTOS: 00:29 Leitura de Melachim I 3: casamento e sonho em Givon · 02:07 O capítulo 3 como abertura de todo o projeto de Shlomo · 03:33 Midrash: Gavriel finca uma cana no mar, de onde surge Roma · 04:19 Shlomo diagnostica a época: o fim da história · 08:58 A missão: consertar o mundo sob o reinado de Shaddai · 10:12 O altar do Monte Eival como semente da missão · 13:28 Parceria com as nações: o casamento com a filha de Faraó · 16:19 Por que Shlomo pede só um coração que ouve · 19:59 A rainha de Sheva e o Rashi sobre Zevulun · 29:49 Inauguração do Templo em Tishrei e ajuda de fora · 33:04 Os 40 mil cavalos e a proibição "não multiplicará cavalos" · 36:42 Chiram de Tzor: a porta para todas as nações · 39:02 A regra do conto pequeno que antecipa o grande
+FONTES CITADAS: 00:29 Melachim I 3:1-4 · 00:52 Melachim I 3:5 · 01:17 Melachim I 3:9 · 01:46 Melachim I 3:12-14 · 03:33 Midrash sobre o casamento de Shlomo com a filha de Faraó · 07:02 Zohar, ano 600 do sexto milênio · 10:12 Devarim 27:2-8 (altar no Monte Eival) · 18:49 Kohelet 2:18-19 · 20:15 Melachim I 10:1 · 20:40 Melachim I 10:4-7 · 21:17 Melachim I 10:9 · 21:35 Melachim I 10:13 · 22:00 Devarim 33:18-19 · 22:07 Rashi em Devarim 33:19 · 27:22 Melachim I 8:41-43 · 30:51 Melachim I 5:9-11 · 31:19 Melachim I 7:13-14 · 32:09 Melachim I 5:1-4 · 32:58 Melachim I 5:6 · 33:10 Devarim 17:16 · 34:16 Ester 8:10 · 36:08 Sanhedrin 90a (derash do versículo "não multiplicará cavalos") · 36:14 Devarim 17:16 · 37:16 Melachim I 5:16-19 · 37:42 Melachim I 5:21 · 38:04 Melachim I 5:22-26
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|32:53|ויהי לשלמה, ארבעים אלף אורבות סוסים למרכבו,
+589|32:58|ושנים עשר אלף פרשים.
+590|33:02|זה פסוק מרכזי מאוד.
+591|33:04|כדי להבין את מה שאני אומר, כדי להוכיח את מה שאני טוען פה.
+592|33:08|הרי כתוב בתורה מה?
+593|33:10|לא ירבה לסוסים.
+594|33:12|והוא מפורש.
+595|33:13|אז צריך לשאול פה שתי שאלות.
+596|33:14|א', למה הוא עושה את זה?
+597|33:16|כלומר, למה הוא עובר, סליחה, א', למה הוא עובר על מה שכתוב בתורה?
+598|33:20|וב', נגיד שאתה עובר, מה צריך את כל הכמות הזאת?
+599|33:23|40 אלף סוסים!
+
+LINHAS A TRADUZIR:
+600|33:24|12 אלף פרשים!
+601|33:26|כאילו, לא ירבה, זה גם אם יש לו אלף, זה גם הרבה.
+602|33:29|אז פה יש 42 אלף.
+603|33:30|יש 12 אלף פרשים, מה האירוע?
+604|33:33|תשובה, ברור ששלמה אומר, מה שהתורה התכוונה זה עד אליי.
+605|33:41|זה עד אליי.
+606|33:41|בסדר?
+607|33:44|ממני ואילך מתחילה תקופה אחרת, עידן חדש.
+608|33:48|התורה מדברת על העידן שבו אנחנו עדיין מתארגנים על עצמנו, אל תחזרו ממצרים כי זה יעכב אתכם.
+609|33:54|אני מתחיל עידן חדש.
+610|33:56|ולצורך העידן הזה אני צריך יכולת השפעה.
+611|34:00|למה הוא צריך כל כך הרבה סוסים ופרשים?
+612|34:02|איזה עוד ספר בתנ״ך יש בו הרבה מאוד רוכבים ופרשים ואיזה?
+613|34:08|איזה?
+614|34:10|לא, לא.
+615|34:12|איזה ספר מופיעים אנשים?
+616|34:14|מגילת אסתר אומר לכם רבי עזרא.
+617|34:16|רוכבי הרכש, החשטרנים, בני הרמחים, יצאו דחופים, על הפרדים, על הכ...
+618|34:22|אחשוורוש מנהל אימפריה של 127 מדינות, הוא מנסה להכין שם את דתי פרס ומדי, חלק דברים
+619|34:26|הגיוניים, חלק דברים הזויים, הוא כל הזמן צריך פרשים זמינים לשלוח את המכתבים שלו, כל הזמן,
+620|34:32|כי אחרת אתה לא תשלוט על הממלכה, ממלכה עצומה, 127 מדינות, אתה תאבד את כולם, זה ילך לך
+621|34:38|לאיבוד.
+622|34:38|אז הוא צריך מערך אדיר של דליברי, של זה, מה שאתם עושים היום במייל או בוואטסאפ, הוא צריך עם
+623|34:44|סוסים.
+624|34:45|אז שלמה המלך אומר, יש לי המון מה לספר לאומות העולם, אני צריך לבנות תשתית ארגונית
+625|34:51|מסיבית, שכשיש לי איזה דבר חוכמה, דבר אמונה, יש לי איך להפיץ אותו.
+626|34:56|אני צריך 40 אלף בסוסים ו12 אלף פרשים, לא לצורכי מלחמה, כי כבר מלחמה דוד פתר לו את הבעיה,
+627|35:02|לצורכי שלום, בסדר?
+628|35:04|זה הסיבה.
+629|35:04|אבל התורה אמרה, כן, התורה אמרה עד אליי, ממני ואילך, כאילו
+630|35:10|תקופה אחרת, בסדר?
+631|35:13|זה כאילו ה...
+632|35:24|הוא נביא בעצמו קודם כל.
+633|35:26|ואתה שואל האם זה מסוכן.
+634|35:27|כן, זה ללכת על מתח גבוה.
+635|35:30|זה ריזיקה גדולה.
+636|35:31|אגב, גם החזון איש אמר את זה.
+637|35:36|גם החזון איש.
+638|35:36|החזון איש הרי הוא המציא את המושג תינוק, הכיל את המושג תינוק שנשבע
+639|35:43|לבני דורנו והדור שלו.

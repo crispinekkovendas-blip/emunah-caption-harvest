@@ -1,0 +1,64 @@
+videoId: oMA1QPCzExc
+parte 15 de 16 · traduzir as linhas 560 a 599 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayigash: as perguntas de Yehudá e a resposta de Yosef
+RESUMO: O Rav Meir Eliyahu abre a Parashá com Yehudá diante de Yosef depois que a taça foi achada com Binyamin, e mostra as muitas perguntas que Yehudá tinha: por que o vizir se interessava pela família, por que Binyamin, quem pôs o dinheiro nos sacos. Ele cita a Guemará (Taanit 9a) sobre quem joga suas desgraças em HaShem e a Mishná de Avot sobre a loja aberta e o caderno que registra tudo. Compara com o homem que, no Mundo Vindouro, tem mil perguntas e HaShem o cala com uma palavra, como Yosef com "Eu sou Yosef", e cita o Zohar sobre o espanto dos irmãos. Explica por que Yaakov não morreu apesar de ter dito "seu irmão morreu" (Rachel, Sanhedrin, honra aos pais no Shulchan Arukh), por que não reconheceram Yosef (Ramban, Rabi Yaakov Kuli) e a circuncisão como sinal. Depois trata da alegria como condição para entender a Torá e para a profecia (Ari Zal, Shabat, Yonáh ben Amitai), e por que Yosef mandou Yehudá na frente construir uma casa de estudo em Goshen, concluindo com a centralidade da Torá.
+MOMENTOS: 00:03 Os irmãos presos por roubo; Yehudá diante de Yosef · 00:45 Quem culpa HaShem pelas suas desgraças · 01:25 As perguntas de Yehudá: algo nesta história não fecha · 03:55 Quem pôs a taça com Binyamin e o dinheiro nos sacos · 05:08 A dívida antiga: a venda de Yosef e o caderno aberto · 08:56 No Mundo Vindouro HaShem responde todas as perguntas · 10:35 O Zohar: os irmãos se calaram de espanto · 11:04 Por que Yaakov não morreu ao dizer que o irmão morreu · 17:00 Yehudá se aproxima; Yosef não se contém · 20:44 Por que não reconheceram Yosef: Ramban e a máscara · 22:34 A circuncisão e o Nome de HaShem sobre o brit · 26:15 Não se entristeçam: a alegria e a Torá · 33:08 Por que Yosef não foi receber Yaakov; a casa de estudo em Goshen · 38:21 A vida gira em torno da Torá
+FONTES CITADAS: 00:27 Bereshit 44:16 · 00:45 Taanit 9a · 01:09 Bereshit 42:28 · 01:11 Mishlei 19:3 · 02:04 Bava Batra 110a · 02:10 Sucá 56b · 02:45 Chulin 91a · 03:16 Bereshit 40:2 · 03:55 Midrash sobre Binyamin e a taça · 04:30 Bereshit 44:8 · 05:14 Bereshit 42:21 · 05:26 Pirkei Avot 3:16 · 06:41 Bereshit 44:17 · 07:06 Bereshit 42:15 · 08:06 Rashi em Bereshit 42:24 · 10:14 Bereshit 45:3 · 10:35 Zohar, Vayigash · 11:04 Bereshit 31:32 · 11:34 Sanhedrin 105a · 11:48 Moed Katan 18a · 12:12 Bereshit 42:38 · 12:35 Midrash sobre Yaakov e Rachel · 12:54 Shulchan Arukh, Yoré Deá 240 · 13:38 Zohar, Vayishlach · 13:59 Avodá Zará 3a · 15:17 Zohar, Vayigash · 15:58 Bereshit 37:9 · 17:00 Bereshit 44:18 · 18:19 Bereshit 44:30 · 19:06 Bereshit 45:3 · 19:13 Zohar, Vayigash · 19:18 Yomá 86a · 20:49 Ramban em Bereshit 42:8 · 21:02 Rabi Yaakov Kuli (Meam Loez) · 21:46 Bereshit 37:2 · 22:34 Bereshit 45:4 · 22:34 Zohar, Lech Lecha 93b · 22:56 Rambam, Moré Nevuchim 3:49 · 23:16 Rambam sobre o Nome de HaShem sobre o brit · 23:34 Eruvin 19a · 24:33 Bereshit 24:2 · 26:15 Bereshit 45:5 · 26:33 Ari Zal, Shaar Ruach HaKodesh 10 · 27:03 Shabat 30b · 27:08 Pessachim 66b · 27:14 Meguilá 14a · 27:25 Sucá 28a · 29:04 Bereshit 37:26 · 29:38 Bereshit 45:27 · 29:55 Bereshit 46:3 · 30:07 Zohar, Shemot 5a · 31:18 Bereshit 45:9 · 32:23 Bereshit 45:11 · 33:11 Ketuvot 62b · 34:33 Meguilá 7b · 34:45 Bereshit 46:28 · 36:58 Yomá 28b · 37:30 Shabat · 38:26 Simchat Torá, hakafot
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+548|33:51|אומרת הגמרא, איך שראיתה אותו נפחה נשמתה ומתה במקום.
+549|33:57|לא יכלה, הלב לא סבל את זה, הלב דפק דפק דפק מהר טה טה טה קיבלה דום לב ומתה במקום.
+550|34:03|אמר רבי חנינה בן חכינאי הענייה הזאת לשווא חיכתה יהי רצון לפניך ריבון עלמא שתקים
+551|34:09|אותה לתחייה ועמדה וקמה.
+552|34:13|אם יוסף הצדיק
+553|34:19|יעקב, מה היה קורה ליעקב?
+554|34:21|היה מת במקום אבל כל הדרך עד לשם וכל המחשבות לאט
+555|34:27|לאט הביאו את זה בהדרגתיות לכן הוא לא רצה אז אם רבי חניה מן חכינה הצליח להקים את אשתו
+556|34:33|אז לא היה יכול יוסף להקים את אבא שלו אין סומכים על הנס דף זין מסכת
+557|34:39|מגילה לא בכל שעה אתה מתרחש הניסה ולכן אם אפשר לעשות את זה שלא בדרך נס ככה
+558|34:45|היה ולא רצה שיעקב חס ושלום יהיה לו בעיה ואת יהודה שלח לפניו אל יוסף
+559|34:51|לאורות גושנה למה שלח לפניו?
+
+LINHAS A TRADUZIR:
+560|34:55|בית אולפנה אמר לו יעקב אנחנו יורדים עכשיו למצרים אנחנו הולכים לגלות ארוכה
+561|35:01|אה, הולכים גלות ארוכה?
+562|35:02|צריך, צריך מקום ללמוד.
+563|35:05|צריך בית מדרש.
+564|35:07|מסכן בן אדם שגר בין חילונים ואין שם בית מדרש.
+565|35:11|מה אתה עושה שם?
+566|35:12|אסור לאדם לדור במקום שאין שם עשרה בטלנים.
+567|35:19|לא גרים במקום שיש שם בית מדרש, שיושבים ולמדים, לא בית כנסת, בית כנסת, כל העולם ברוך
+568|35:25|השם מלאים.
+569|35:26|איך אמר לי, אחד לא מפחד לרדת לגיהינם.
+570|35:28|אמרתי לו, למה?
+571|35:29|הוא אומר, בטח גם שם יש בית חב"ד.
+572|35:31|אני אלך לשם, יצילו אותי.
+573|35:33|בתי כנסת יש לאלפים ולרבבות, בית מדרש, אבל לא בית מדרש סגור.
+574|35:38|נפתח רק יום השישי שבת, פתוח, כל השבוע, זה ברכתו של בית מדרש, לא עצים
+575|35:44|ואבנים, לא רק פאר עוד והדר, זה גם חשוב, שבת דף יוד, אבל זה לא העיקר, העיקר
+576|35:50|יושבים, לומדים חכמים
+577|35:56|יש את מי לשאול ללכות דמים יש את מי לשאול ללכות סתם יש עם מי להתייעץ בחינוך
+578|36:02|הילדים יש זה אדם זכה לגור ליד חכמים אשרה וטוב חלקו ייקחו אותו
+579|36:08|עולם הבא כשהסתיים הקדנציה שלו בעולם הזה, בזכות שהיה ליד החכמים, הולך את חכמים
+580|36:13|יחכם ורואה כסילים מרוע.
+581|36:15|משלב מי שגר ליד החכמים, יעלה למעלה ויראה את הזכויות שעשו לו.
+582|36:21|נו.
+583|36:22|אז עכשיו יהודה, יעקב אומר ליהודה, אנחנו צריכים ללכת.
+584|36:26|עכשיו לגלות ארוכה.
+585|36:27|מה נעשה במצרים שם?
+586|36:29|ארץ טמאה, אווירת טמא, עפרת טמא, אהבת הארץ.
+587|36:32|מה נעשה?
+588|36:33|לך לשם עוד לפני שאני מגיע.
+589|36:40|בניין הולכים לעשות מגרש כן בלי מכרז בלי כלום זה
+590|36:46|מהמפלגה סידר שסדר לנו שאנחנו בונים שמה בית
+591|36:52|מדרש עם ספרים, עם שותים בהלכה, עם הכל, שיהיה לנו שמה תלמוד
+592|36:58|בבלי, ירושלמי, הרי האבות למדו את כל התורה כולה, כ"ח עמוד ב' במסכת יומא.
+593|37:03|אז כל התורה, תסדר לנו, נשב שמה, נלמד.
+594|37:06|למה לא יכול להיות בעולם אדם יגור ליד מקום שאין שמה בית מדרש.
+595|37:10|לא יכול להיות.
+596|37:10|אתה רוצה להיות תלמיד, אבל לא, יש בית מדרש והוא בבית שלו אף פעם לא נכנס.
+597|37:16|אז מה עשית בזה?
+598|37:18|מה עשית בזה?
+599|37:19|בית מדרש שתיכנס, שתתפלל שמים, אנשים עם כובעים שחורים שהילדים יראו, שיראו שיש

@@ -1,0 +1,50 @@
+videoId: 3xqYecSPjaw
+parte 1 de 15 · traduzir as linhas 0 a 39 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A maldição do sábio e o nome de Moshê ausente de Tetzavê
+RESUMO: O Rav Meir Eliyahu começa notando que o nome de Moshê não aparece em Tetzavê e, citando o Zohar, explica que a maldição de um sábio se cumpre até sem motivo, porque a Shechiná repousa sobre ele. Dá como exemplo Yaakov, que amaldiçoou sem saber quem levara os ídolos de Lavan, e Rachel morreu. Moshê disse "apaga-me do Teu livro" e foi apagado; o Zohar mostra que ele mandava na Shechiná, tanto que o Mishkan só se ergueu com ele. Mostra também que os artesãos do Mishkan eram ajudados pela Shechiná, e por isso se costuma dizer "leshem yichud" antes de um trabalho. Cita o Megalê Amukot, que vê Moshê como gilgul de Shet e de Noach, e o remez de nechoshet, Noach, Shet, "ve'atá". Para mostrar que apagar o nome é castigo, conta o episódio de Rabban Shimon ben Gamliel e Rabi Meir e Rabi Natan (Horayot 13b), em que Rabi Meir passou a ser chamado "Acherim". Termina com a proteção contra as preocupações e o motivo de o nome ter sido apagado justamente em Tetzavê.
+MOMENTOS: 00:01 O nome de Moshê não aparece em Tetzavê · 00:24 Zohar: a maldição do sábio vale até sem motivo · 03:20 Yaakov e Lavan: quem levar os ídolos não viverá · 06:44 Zohar: a aliança dos lábios, de Moshê em Ki Tissa · 08:36 Moshê diz "apaga-me" e a Shechiná cumpre · 10:41 Os artesãos do Mishkan e a ajuda da Shechiná · 12:09 Leshem yichud antes de qualquer obra · 15:40 O Mishkan só se ergue com Moshê, marido da Shechiná · 16:47 Megalê Amukot: Moshê, gilgul de Shet e de Noach · 21:02 Rabban Shimon ben Gamliel e Rabi Meir · 26:41 Rabi Yaakov ben Korshi e o tratado Uktzin · 32:33 Preocupações e a oração no túmulo de Rabi Meir · 35:11 Por que Moshê foi apagado de Tetzavê
+FONTES CITADAS: 00:24 Zohar, Tetzavê 175a · 01:00 Ketubot 17a, Chatam Sofer · 01:35 Bereshit 28:13 · 01:59 Moed Katan 18a · 03:20 Bereshit 31:30-32 · 04:03 Bereshit 31:39 · 04:51 Rashi em Bereshit 31:33 · 05:40 Sanhedrin 22b · 05:50 Bereshit 48:7 · 06:07 Rut 1:5 · 06:44 Zohar Chadash 74b · 07:00 Shemot 32:31-32 · 07:48 Sanhedrin 102a · 08:03 Shemot 32:34 · 08:49 Devarim 33:1 · 09:07 Bamidbar 16:29-30 · 09:49 Devarim 5:27 · 10:41 Shemot 31:6 · 11:04 Berachot 55a · 11:42 Zohar, Pekudê 222 · 12:14 Zohar, Tazria 47b · 12:34 Chazon Ovadia, parte 1, simán 29 · 15:40 Shabat 92a · 15:56 Shir HaShirim 3:11 · 16:57 Sanhedrin 37b · 17:16 Shabat 146a · 17:27 Bereshit 4:1 · 18:02 Bereshit 49:17 · 18:26 Sanhedrin 37b · 18:37 Zohar, Vayikrá 10 · 18:53 Yomá 54b · 19:26 Megalê Amukot sobre Moshê · 19:33 Shemot 27:19 · 21:02 Horayot 13b · 21:57 Guitin 67a · 22:05 Sotá 20a · 22:20 Sanhedrin 24a · 22:27 Yevamot 62b · 26:41 Horayot 13b · 26:56 Bava Metzia 59a · 27:03 Vayikrá 19:16 · 31:18 Horayot 13b · 31:28 Chaguigá 15a · 32:45 Yomá 75a · 32:50 Mishlê 12:25 · 32:58 Berachot 5a · 33:09 Rashi em Berachot 5a · 33:30 Shulchan Arukh, Orach Chaim 98:1 · 34:06 Mishlê 11:14 · 35:35 Pesachim 6b · 36:32 Shemot 32:32
+
+LINHAS A TRADUZIR:
+0|00:01|‫ואתה תצווה.
+1|00:03|‫פרשה הזאת, פרשה מעניינת מאוד, ‫מלאה
+2|00:08|בעניינים של המשכן וכליו, ‫אבל מה שמעניין
+3|00:14|בפרשה הזאת, ‫שאין אותה בפרשיות אחרות, ‫שהשם של משה רבנו נעלם.
+4|00:19|‫הוא לא מופיע אפילו פעם אחת בפרשה.
+5|00:21|‫זוהר, ויש לך, קע"ה, עמוד א'.
+6|00:24|‫הזוהר כותב שמה, ‫כי לילת חכם אפילו בחינם היא באה.
+7|00:29|בר מינן שחכם יבוא ויקלל בן אדם שזה חמור ביותר אם חכם מוציא מהפה שלו
+8|00:35|הגמרא אומרת אפילו לא מגיעה הקללה זה נתפס בבן אדם זה חמור מאוד למה?
+9|00:41|בגלל שהוא מדרגה של הקדושה אז ממילא ברכת חכם יש לה מעלה ‫כי יש עליו
+10|00:47|שכינה ששורה עליו, ‫ובפרט תלמידי חכמים, חז"ל אומרים, ‫שהשכינה ששורה על עמי הארץ ‫בימי
+11|00:52|השבת, ‫שורה על תלמידי חכמים בימי החול.
+12|00:56|‫לכן התלמיד חכם נקרא שבת.
+13|00:59|‫אפילו בימי החול הוא נקרא שבת.
+14|01:00|‫זה הטעם, למה חתם סופר ‫כותב בחידושים שלו ‫על כתובות דף י"ז.
+15|01:04|‫איך מותר לך להגיד, ‫קלה נאהבה חסודה?
+16|01:07|‫מי יתיר לך להסתכל עליה בכלל?
+17|01:10|מה אתה מסתכל עליה אתה אומר כלה נאה וחסודה אסור לך לשמור על העיניים שלך מה אתה מסתכל על
+18|01:14|הכלה אז חתם סופר כותב תכוון על השכינה או על השבת שנקראת כלה בואי
+19|01:20|כלה שבת מלכתה ותגיד כלה נאה וחסודה ואתה בכלל לא ראית אותה אתה רק אומר על
+20|01:26|השבת האמת שזה דוח הגדול, הביאור הזה, ופלפלתי בו כבר בתשובות שלי
+21|01:32|בחלקי באבן העזר, ולא ניכנס לסוגיה הזאת.
+22|01:35|אבל אתה רואה מכאן שתלמיד חכם, בגלל שהשכינה שורה עליו, בסוד ויעל אלוהים מעל
+23|01:41|אברהם.
+24|01:42|האלוהים זאתי השכינה שנקראת אלוהים, והיא על אברהם, על הראש של אברהם, שמה השכינה
+25|01:48|שורה.
+26|01:49|אם החכם יוציא ברכה זה יתקיים, אם יוציא קללה זה יתקיים.
+27|01:53|אז זה כמה חמור הוא לא להוציא דברים מילים לפה שלהם כי ברית כרותה
+28|01:59|לשפתיים בדף י"ח במסכת מועד קטן ראינו את זה על שמואל שדיבר
+29|02:05|על אחיו פנחס שדיבר איתו על האח שלו ובסוף הילדים שלו הלכו למה
+30|02:11|ברית כרותה לשפתיים בדף י"ט במסכת ברכות גם שמה למדנו את זה בדף ס בכל מיני
+31|02:17|מקומות כמה אדם צריך לשמור על הלשון עכשיו אם יש חכם ושכינה שורה עליו ככל
+32|02:23|שמדרגת הקדושה שלו יותר גדולה כל מילה שלו נבחנת ונלקחת
+33|02:28|במשמעות יותר גדולה בשמיים.
+34|02:31|אז אם הוא מברך מישהו, לכן אנחנו הולכים לחכמים לבקש מהם ברכות.
+35|02:35|מי יודע איזה מסירות נפש יש לו?
+36|02:37|מי יודע כמה הוא קם בלילה?
+37|02:39|מי יודע כמה הוא בוכה על השכינה?
+38|02:40|כמה תעניות הוא עושה?
+39|02:42|כמה לימוד תורה יש לו במסירות נפש?

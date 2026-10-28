@@ -1,0 +1,64 @@
+videoId: T29WNCBs5e8
+parte 21 de 34 · traduzir as linhas 800 a 839 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashá Shelach: a gezerá de galut e a tentativa de forçá-la
+RESUMO: O rabino parte da Parashá Shelach: após o pecado dos espiões, HaShem perdoa a destruição total, mas jura que aquela geração não entrará na terra e decreta quarenta anos de galut no deserto, um ano para cada dia da espionagem (Bamidbar 14). Ao ouvir o decreto, o povo sobe ao monte apesar do aviso de Moshe, e é destruído por Amalek e os cananeus; Moshe repete o episódio em Devarim 1 e em Bamidbar 32 (Parashá Matot, filhos de Gad e Reuven). Ele cita Mishlei 21:30 com o Gaon de Vilna, o Ralbag e a Metzudot para dizer que nenhuma sabedoria ou conselho vale contra a vontade de HaShem, e liga isso ao Tehilim 78 e aos filhos de Efraim, que saíram do Egito antes do tempo e foram mortos em Gat. A seguir apresenta o Targum Yonatan ben Uziel e Ibn Ezra sobre as três vezes do juramento em Shir HaShirim (2:7, 3:5, 8:4), as chamadas três promessas de não apressar o fim do exílio, e o Midrash Rabá sobre a função do Mashiach de reunir os exilados. Com base nisso, sustenta que a criação do Estado de Israel repete o erro dos que subiram sem HaShem, e que continuamos em galut sob o domínio das nações. Termina com a oração por Yerushalayim e pela reconstrução da realeza da casa de David. As opiniões políticas e as críticas a pessoas e grupos são do orador.
+MOMENTOS: 00:08 O tema da Parashá: os espiões enviados por Moshe · 01:26 Perdão após a prece de Moshe, mas juramento de HaShem · 04:09 A sentença: quarenta anos no deserto, dia por ano · 08:19 O povo tenta subir ao monte contra o decreto · 10:41 Moshe avisa: sem HaShem não vencerão · 20:00 O orador compara o episódio ao Estado de Israel hoje · 30:50 Devarim 1 e Bamidbar 32: o mesmo erro relembrado · 35:00 Mishlei 21:30: nenhuma sabedoria contra HaShem · 42:59 Tehilim 78: os filhos de Efraim saíram antes do tempo · 47:49 As três promessas de Shir HaShirim · 49:25 Targum Yonatan ben Uziel sobre Shir HaShirim 2:7 · 1:00:41 O terceiro juramento e o Mashiach · 1:17:04 Midrash Rabá: a função do Mashiach
+FONTES CITADAS: 00:43 Bamidbar 14:1 · 02:43 Bamidbar 14:20-23 · 05:12 Bamidbar 14:26-35 · 06:23 Bamidbar 14:34 · 08:12 Bamidbar 14:39-40 · 09:39 Bamidbar 14:41-43 · 12:02 Bamidbar 14:44-45 · 17:07 Vayikra 26 (Bechukotai) · 18:30 Yirmiyahu · 30:50 Devarim 1:34-36 · 32:17 Devarim 1:41 · 33:08 Devarim 1:42-44 · 34:18 Devarim 1:43-44 · 35:00 Mishlei 21:30 · 35:22 Biur HaGra em Mishlei 21:30 · 36:22 Ralbag em Mishlei 21:30 · 36:49 Mishlei 19:21 · 37:54 Bamidbar 32:10-15 · 41:08 Tehilim 78:1-7 · 42:46 Tehilim 78:8-10 · 44:43 Divrei HaYamim I 7:21 · 47:49 Shir HaShirim 2:7 · 49:25 Targum Yonatan ben Uziel em Shir HaShirim 2:7 · 52:51 Targum Yonatan ben Uziel em Shir HaShirim 2:7 · 53:57 Ibn Ezra em Shir HaShirim 2:7 · 55:03 Targum Yonatan ben Uziel em Shir HaShirim 3:5 · 59:50 Shir HaShirim 8:4 · 1:00:48 Targum Yonatan ben Uziel em Shir HaShirim 8:4 · 1:18:29 Metzudot em Mishlei 21:30 · 1:17:04 Bereshit Rabá, parashá Tzav · 1:15:33 Treze Princípios de fé (Rambam) · 1:19:08 Amidá, bênção de Yerushalayim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+788|46:17|והקדוש ברוך הוא מודיע לנו בפירוש שאם
+789|46:20|אנחנו ננסה להתחכם עם זה
+790|46:24|נשלם על זה מחיר דמים
+791|46:27|ישמידו אותנו בלי בכלל
+792|46:33|להתרגש
+793|46:35|אומות העולם לא יתנו לדבר הזה לקרות ככה
+794|46:38|הקדוש ברוך הוא אומר איפה אז בואו בוא נראה
+795|46:44|בספר נוסף נזכרנו כאן את משלה ספר נוסף
+796|46:48|שכתב שלמה המלך עליו השלום זה ספר
+797|46:52|שיר השירים
+798|46:54|בשיר השירים כידוע
+799|46:57|נתנו התחלה של סדרה על זה עוד לא סיימנו
+
+LINHAS A TRADUZIR:
+800|46:59|שיר השירים מדובר במשל המפורסם של הדוד
+801|47:04|והראיה כשהדוד זה הקדוש ברוך הוא הראיה זה
+802|47:06|עם ישראל ויש שמה דוסיח ממדואט כזה זה
+803|47:11|שהוא שר בשיר השירים הוא הדוד שר לרעיה
+804|47:15|והרעיה שרה אל הדוד
+805|47:18|ובתוך שיר השירים שהוא כולו משל
+806|47:23|והנמשל שלו זה מערכת היחסים
+807|47:27|של הקשר בין הקדוש ברוך הוא לבין עם ישראל
+808|47:29|לאורך ההיסטוריה
+809|47:31|שלוש פעמים
+810|47:34|מוזכר הפסוק הבא
+811|47:37|פעמיים מתוך השלוש באופן לגמרי מדויק.
+812|47:40|הפסוק חוזר על עצמו לחלוטין
+813|47:44|ובהפעם השלישית הוא חוזר על עצמו עם שינוי
+814|47:46|קל. בואו רגע נראה את הדבר הזה, נפרוס פה
+815|47:49|את האינפורמציה ואחרי זה נראה איך זה
+816|47:51|מתחבר למה שראינו עכשיו בתהילים עד עח על
+817|47:53|העניין של בני אפרים ואיך זה מתחבר לחטא
+818|47:56|המרגלים.
+819|47:58|אז כתוב ככה
+820|48:00|בשיר השירים בפרק ב' פסוק ז'.
+821|48:05|השבעתי אתכם בנות ירושלים בצבעות או
+822|48:08|באיילות השדה אם תעירו ואם תעוררו את
+823|48:12|האהבה עד שתכפץ על איזו אהבה מדובר על
+824|48:16|האהבה של הדוד לראיה
+825|48:19|האהבה הזאת יש לה שני מצבים מצב של שינה
+826|48:24|כלומר שהיא נמצאת באיזשהיא הקפעה מסוימת
+827|48:28|ומצב של עירות התעוררות
+828|48:33|מזהיר אותנו פה הקדוש ברוך הוא
+829|48:36|שאני מזהיר אכם לא להעיר ולא לעורר את
+830|48:40|האהבה עד שתכפץ. מה זה עד שתכפץ?
+831|48:45|עד שהדוד יחפוץ.
+832|48:48|כי יש סיבה למה היא נמצאת במצב של השינה
+833|48:52|כביכול של ההקפעה.
+834|48:56|ואל תאירו אותה לפני הזמן. כשהקדוש ברוך
+835|49:00|הוא יחפץ הוא יעשה את זה. לא שנייה קודם.
+836|49:05|אז הפסוק הזה כתוב כאן בפרק ב'. הוא כתוב
+837|49:07|עוד פעם בפרק ג' והוא כתוב עוד פעם
+838|49:10|בוריאציה בפרק ח.
+839|49:13|מדובר פה במשלמשל הזה הוא לחלוטין לא מובן

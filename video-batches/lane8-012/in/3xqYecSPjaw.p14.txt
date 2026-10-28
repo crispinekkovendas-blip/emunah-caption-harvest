@@ -1,0 +1,43 @@
+videoId: 3xqYecSPjaw
+parte 15 de 15 · traduzir as linhas 560 a 578 (19 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A maldição do sábio e o nome de Moshê ausente de Tetzavê
+RESUMO: O Rav Meir Eliyahu começa notando que o nome de Moshê não aparece em Tetzavê e, citando o Zohar, explica que a maldição de um sábio se cumpre até sem motivo, porque a Shechiná repousa sobre ele. Dá como exemplo Yaakov, que amaldiçoou sem saber quem levara os ídolos de Lavan, e Rachel morreu. Moshê disse "apaga-me do Teu livro" e foi apagado; o Zohar mostra que ele mandava na Shechiná, tanto que o Mishkan só se ergueu com ele. Mostra também que os artesãos do Mishkan eram ajudados pela Shechiná, e por isso se costuma dizer "leshem yichud" antes de um trabalho. Cita o Megalê Amukot, que vê Moshê como gilgul de Shet e de Noach, e o remez de nechoshet, Noach, Shet, "ve'atá". Para mostrar que apagar o nome é castigo, conta o episódio de Rabban Shimon ben Gamliel e Rabi Meir e Rabi Natan (Horayot 13b), em que Rabi Meir passou a ser chamado "Acherim". Termina com a proteção contra as preocupações e o motivo de o nome ter sido apagado justamente em Tetzavê.
+MOMENTOS: 00:01 O nome de Moshê não aparece em Tetzavê · 00:24 Zohar: a maldição do sábio vale até sem motivo · 03:20 Yaakov e Lavan: quem levar os ídolos não viverá · 06:44 Zohar: a aliança dos lábios, de Moshê em Ki Tissa · 08:36 Moshê diz "apaga-me" e a Shechiná cumpre · 10:41 Os artesãos do Mishkan e a ajuda da Shechiná · 12:09 Leshem yichud antes de qualquer obra · 15:40 O Mishkan só se ergue com Moshê, marido da Shechiná · 16:47 Megalê Amukot: Moshê, gilgul de Shet e de Noach · 21:02 Rabban Shimon ben Gamliel e Rabi Meir · 26:41 Rabi Yaakov ben Korshi e o tratado Uktzin · 32:33 Preocupações e a oração no túmulo de Rabi Meir · 35:11 Por que Moshê foi apagado de Tetzavê
+FONTES CITADAS: 00:24 Zohar, Tetzavê 175a · 01:00 Ketubot 17a, Chatam Sofer · 01:35 Bereshit 28:13 · 01:59 Moed Katan 18a · 03:20 Bereshit 31:30-32 · 04:03 Bereshit 31:39 · 04:51 Rashi em Bereshit 31:33 · 05:40 Sanhedrin 22b · 05:50 Bereshit 48:7 · 06:07 Rut 1:5 · 06:44 Zohar Chadash 74b · 07:00 Shemot 32:31-32 · 07:48 Sanhedrin 102a · 08:03 Shemot 32:34 · 08:49 Devarim 33:1 · 09:07 Bamidbar 16:29-30 · 09:49 Devarim 5:27 · 10:41 Shemot 31:6 · 11:04 Berachot 55a · 11:42 Zohar, Pekudê 222 · 12:14 Zohar, Tazria 47b · 12:34 Chazon Ovadia, parte 1, simán 29 · 15:40 Shabat 92a · 15:56 Shir HaShirim 3:11 · 16:57 Sanhedrin 37b · 17:16 Shabat 146a · 17:27 Bereshit 4:1 · 18:02 Bereshit 49:17 · 18:26 Sanhedrin 37b · 18:37 Zohar, Vayikrá 10 · 18:53 Yomá 54b · 19:26 Megalê Amukot sobre Moshê · 19:33 Shemot 27:19 · 21:02 Horayot 13b · 21:57 Guitin 67a · 22:05 Sotá 20a · 22:20 Sanhedrin 24a · 22:27 Yevamot 62b · 26:41 Horayot 13b · 26:56 Bava Metzia 59a · 27:03 Vayikrá 19:16 · 31:18 Horayot 13b · 31:28 Chaguigá 15a · 32:45 Yomá 75a · 32:50 Mishlê 12:25 · 32:58 Berachot 5a · 33:09 Rashi em Berachot 5a · 33:30 Shulchan Arukh, Orach Chaim 98:1 · 34:06 Mishlê 11:14 · 35:35 Pesachim 6b · 36:32 Shemot 32:32
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+548|35:00|ראוי רבי מאיר בעל הנס שיענו לך בזכותו, ולכן ישיחנה לאחרים.
+549|35:05|מי זה אחרים?
+550|35:05|אוריות י"ג, אחרים זה רבי מאיר בעל הנס.
+551|35:08|על זה אמר ישיחנה לאחרים.
+552|35:11|אז זה הטעם למה משה רבנו נמחק בפרשה הזו.
+553|35:15|השאלה, השאלה איזה פרשה הוא אומר מחנינה?
+554|35:21|כי תישא.
+555|35:22|מתי זה כי תישא?
+556|35:24|שבוע הבא.
+557|35:25|אז מה הוא נמחק מהפרשה השבוע?
+558|35:28|אין מוקדם ומאוחר.
+559|35:29|שיימחק בפרשה שלכם כי תישא ויקאל.
+
+LINHAS A TRADUZIR:
+560|35:31|מה הוא נמחק מהפרשה הזאתי?
+561|35:33|הוא רק לא אמר את זה.
+562|35:35|אז בפשט מה שחז"ל אומרים בפסחים אין מוקדם ומאוחר בתורה.
+563|35:41|אבל יש מי שאמר שהקדוש ברוך הוא כל כך אהב את משה רבנו ‫אז הוא אמר לו, טוב, תכתוב.
+564|35:47|‫כשהגיע אליו להר סיני, ‫הוא אומר לו, תכתוב את התורה.
+565|35:51|‫אז הוא כותב, מכי תישא, ‫הוא עלה להר סיני בכי תישא, ‫תכתוב.
+566|35:55|‫המשיכו אחרי זה פרשת ולקל, תכתוב, ‫והוא כותב גם את השם שלו.
+567|36:00|‫אחרי זה לפיקודי, תכתוב, ‫והוא כותב גם את השם שלו.
+568|36:04|אומר אבל עדיין יש חוב מידת הדין באה לקדוש ברוך הוא אומרת לו יש חוב צריך למחוק אותו מאחת
+569|36:09|הפרשיות הוא בעצמו הוציא מהפה שלו אם הוא הוציא כללת חכם אפילו בחינם היא באה אומר הקדוש ברוך
+570|36:15|הוא עוד מעט עוד מעט תמשיך לכתוב לכתוב לכתוב לכתוב לכתוב עד שהוא גמר לכתוב סיבוב שלם
+571|36:21|של כל התורה כולה ואז נשאר הפרשה האחרונה אמר הקדוש ברוך הוא למידת הדין,
+572|36:27|מה אני יכול לעשות?
+573|36:28|עכשיו נשאר פרשה אחרונה, כאן אנחנו נמחוק את השם של משה רבנו.
+574|36:32|אז באמת מחקו אותו בפרשה לפני הפרשה שהוא אמר, ועמיין, מכן נהנה מספרך אשר כתבת.
+575|36:38|מי שרוצה ספרים שלנו על התורה ו-USB ואת שוטים, נמצא אצל אהרון בחוץ, הקדוש ברוך הוא יגזור
+576|36:43|עליכם ועלינו גזרות טובות, ישורות ונחמות.
+577|36:45|רבי חנן בן הקשה אומר, יצא הקדוש ברוך הוא יצא לבחר לכם בעליהם תורה מצפויות, שימר אדוני חפץ
+578|36:49|עם הצדקו, יגדיל

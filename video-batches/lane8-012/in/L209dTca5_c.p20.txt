@@ -1,0 +1,64 @@
+videoId: L209dTca5_c
+parte 21 de 28 · traduzir as linhas 800 a 839 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ki Tetzê: a força da palavra falada
+RESUMO: O rabino parte dos versículos sobre votos em Devarim 23:22-24 (Ki Tetzê), que mandam não atrasar o cumprimento de um voto e dizem que quem se abstém de fazer votos não peca, e os compara com Kohelet 5, onde o tolo é quem promete e não cumpre. Em seguida traz a Mishná de Bava Metsia 4, segundo a qual quem não sustenta a sua palavra enfrenta Aquele que castigou a geração do Dilúvio e a geração da Dispersão. Para entender a ligação, estuda a Torre de Babel em Bereshit 11, com a explicação de Rashi sobre querer fazer guerra contra HaShem, e a escala dos seres (inanimado, vegetal, animal, falante). Mostra que o Targum de Onkelos traduz Bereshit 2:7 como "espírito falante", ou seja, a fala é a ação da alma no corpo e a roupa do pensamento. Daí explica o termo "não profanará (yachel) sua palavra" de Bamidbar 30, a ideia de profanação como esvaziamento, e fecha com Tehilim 34 (guardar a língua como se guarda o pino de uma granada) e com a Gemará de Sucá 46b, que proíbe prometer algo a uma criança e não cumprir, para não ensiná-la a mentir.
+MOMENTOS: 00:48 Os versículos sobre votos em Ki Tetzê · 03:58 A fala que gera obrigação: "o que disseste com a tua boca" · 05:00 Kohelet 5: o tolo promete e não cumpre · 07:36 Mishná de Bava Metsia: quem não sustenta sua palavra · 15:04 A Torre de Babel e a língua única · 21:56 Inanimado, vegetal, animal e falante · 31:08 Onkelos: "espírito falante" em Bereshit 2:7 · 37:54 A fala como a roupa do pensamento · 46:11 "Não profanará sua palavra": o sentido de profanar · 51:53 Rashi: a geração da Dispersão usou a fala contra HaShem · 58:25 Tehilim 34: guardar a língua como o pino de uma granada · 1:01:18 Gemará de Sucá: não prometer em vão a uma criança
+FONTES CITADAS: 01:00 Devarim 23:22-24 · 05:13 Kohelet 5:3-5 · 06:10 Kohelet 5:4 · 06:31 Kohelet 5:5 · 07:41 Mishná, Bava Metsia 4:2 · 12:11 Bereshit 6:11-13 · 14:22 Mishná, Avot 5:2 · 15:04 Bereshit 11:1 · 16:10 Bereshit 11:3-4 · 17:29 Bereshit 11:5-6 · 18:20 Bereshit 11:7-9 · 19:40 Bereshit 1:28 · 20:09 Bereshit 9:1 · 20:18 Yeshayahu 45:18 · 26:38 Bereshit 2:7 · 29:34 Meguilá 3a · 31:32 Targum Onkelos em Bereshit 2:7 · 37:54 Alma, fala e pensamento na cabalá · 44:11 Os três campos de ação: pensamento, fala e ação · 46:14 Bamidbar 30:3 · 46:47 Devarim 21:1 · 47:34 Shemot 31:14 · 48:21 Vayikra 19:2 · 48:06 Shemot 19:6 · 51:53 Rashi em Bereshit 11:4 · 55:34 Bereshit 1:3 · 55:42 Bênção "shehakol nihyê bidvarô · 55:50 Tehilim 33:6 · 58:27 Tehilim 34:13-14 · 1:01:35 Sucá 46b · 1:03:07 Yirmeyahu 9:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+788|47:22|חילול זה קידוש
+789|47:30|חילול הקודש שבת היא שבת
+790|47:34|קודש אסור לחלל את השבת מחללי האמות יומת
+791|47:39|חילול שבת למה זה נקרא חילול המילה חילול
+792|47:44|קשורה למילה
+793|47:46|חלל ריק
+794|47:49|וקום חלל זה לקחת דבר שיש בו תוכן ולסלק
+795|47:54|ממנו את התוכן
+796|47:56|זה נקרא
+797|47:58|חילול עם
+798|48:00|ישראל הקדוש ברוך הוא כשבחר בנו מכל
+799|48:04|העמים במעמד הר סיני הוא שלח את משה רבנו
+
+LINHAS A TRADUZIR:
+800|48:07|והציע לנו ואתם תהיו לי ממלכת כהנים וגוי
+801|48:14|קדוש אז אני תמיד אומר בהלצה שכל יהודי
+802|48:17|הוא בעצם גוי רק הוא צריך להיות גוי
+803|48:21|קדוש קדושים תהיו כי קדוש אני השם עם
+804|48:26|ישראל זה עם ככל העמים אבל הוא קדוש יש בו
+805|48:32|קדושה האנטיתזה של
+806|48:35|קדושה זה חילון אגב הביטוי הזה הוא ביטוי
+807|48:39|מזעזע שכולנו התרגלנו לקרוא להשתמש בו אבל
+808|48:43|זה ביטוי שמי שמבין את המשמעות שלו אנשים
+809|48:46|מדברים ולא מבינים מה הם מדברים מה פירוש
+810|48:49|להיות יהודי
+811|48:52|חילוני חילוני זה מלשון חילול זה מלשון
+812|48:56|זה עקירת הקדושה אני יהודי אבל אני לא
+813|48:59|עושה שום דבר שבקדושה אני לא עושה מצוות
+814|49:03|אשר קידשנו במצוותיו אני לא רוצה להתקדש
+815|49:06|במצוותיו ואני חי לי את חיי כאילו שאני לא
+816|49:09|יהודי עכשיו אם גוי חי את חייב כלא יהודי
+817|49:12|בסדר זה הוא הוא גוי אבל יהודי יש לו את
+818|49:16|המחוייבות לקדושה כשהוא מסלק מתוכו את
+819|49:20|הקדושה הוא יוצר
+820|49:22|חלל החילול אז אדם
+821|49:26|שנהרג נרצח או יצאה ממנו
+822|49:30|נשמתו נוצר חלל כי הדבר המרכזי העליון
+823|49:36|הרוחני שנותן לו את החיים ויפח באפיו נשמת
+824|49:40|חיים הוא נ נתן נפך באפם נשמה של חיים
+825|49:45|הנשמה היא נותנת חיים לגוף אז כשהנשמה
+826|49:48|הזאת מסתלקת נוצר חלל לכן אדם שנפל בקרב
+827|49:54|או בכלל
+828|49:56|נרצח לא דווקא בקרב הגב בתורה כי אם מצא
+829|49:58|חלל נופל באדמה לא נודע מקו זה לא חייב
+830|50:01|להיות מישהו שנפל בקרב אדם שהסתלק ממנו
+831|50:04|נקודת הקובץ שלו שזה
+832|50:07|הנשמה לא יחל דברו יש גם דבר כזה הדיבור
+833|50:11|הוא קדוש מי שמבין את מה שהסברנו בקשר
+834|50:14|לדיבור הדיבור זה הפעולה של הנשמה הקדושה
+835|50:18|בגוף עכשיו ברגע שהנשמה פועלת בגוף
+836|50:22|ויוצאים דיבורים מושכלים כש אדם יודע על
+837|50:26|מה הוא
+838|50:28|התחייב זה מחייב אותו ואם זה לא מחייב
+839|50:32|אותו הוא כלומר אם הוא לא מתח לא עומד

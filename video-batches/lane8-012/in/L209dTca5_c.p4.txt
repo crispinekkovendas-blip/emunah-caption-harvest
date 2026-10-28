@@ -1,0 +1,64 @@
+videoId: L209dTca5_c
+parte 5 de 28 · traduzir as linhas 160 a 199 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ki Tetzê: a força da palavra falada
+RESUMO: O rabino parte dos versículos sobre votos em Devarim 23:22-24 (Ki Tetzê), que mandam não atrasar o cumprimento de um voto e dizem que quem se abstém de fazer votos não peca, e os compara com Kohelet 5, onde o tolo é quem promete e não cumpre. Em seguida traz a Mishná de Bava Metsia 4, segundo a qual quem não sustenta a sua palavra enfrenta Aquele que castigou a geração do Dilúvio e a geração da Dispersão. Para entender a ligação, estuda a Torre de Babel em Bereshit 11, com a explicação de Rashi sobre querer fazer guerra contra HaShem, e a escala dos seres (inanimado, vegetal, animal, falante). Mostra que o Targum de Onkelos traduz Bereshit 2:7 como "espírito falante", ou seja, a fala é a ação da alma no corpo e a roupa do pensamento. Daí explica o termo "não profanará (yachel) sua palavra" de Bamidbar 30, a ideia de profanação como esvaziamento, e fecha com Tehilim 34 (guardar a língua como se guarda o pino de uma granada) e com a Gemará de Sucá 46b, que proíbe prometer algo a uma criança e não cumprir, para não ensiná-la a mentir.
+MOMENTOS: 00:48 Os versículos sobre votos em Ki Tetzê · 03:58 A fala que gera obrigação: "o que disseste com a tua boca" · 05:00 Kohelet 5: o tolo promete e não cumpre · 07:36 Mishná de Bava Metsia: quem não sustenta sua palavra · 15:04 A Torre de Babel e a língua única · 21:56 Inanimado, vegetal, animal e falante · 31:08 Onkelos: "espírito falante" em Bereshit 2:7 · 37:54 A fala como a roupa do pensamento · 46:11 "Não profanará sua palavra": o sentido de profanar · 51:53 Rashi: a geração da Dispersão usou a fala contra HaShem · 58:25 Tehilim 34: guardar a língua como o pino de uma granada · 1:01:18 Gemará de Sucá: não prometer em vão a uma criança
+FONTES CITADAS: 01:00 Devarim 23:22-24 · 05:13 Kohelet 5:3-5 · 06:10 Kohelet 5:4 · 06:31 Kohelet 5:5 · 07:41 Mishná, Bava Metsia 4:2 · 12:11 Bereshit 6:11-13 · 14:22 Mishná, Avot 5:2 · 15:04 Bereshit 11:1 · 16:10 Bereshit 11:3-4 · 17:29 Bereshit 11:5-6 · 18:20 Bereshit 11:7-9 · 19:40 Bereshit 1:28 · 20:09 Bereshit 9:1 · 20:18 Yeshayahu 45:18 · 26:38 Bereshit 2:7 · 29:34 Meguilá 3a · 31:32 Targum Onkelos em Bereshit 2:7 · 37:54 Alma, fala e pensamento na cabalá · 44:11 Os três campos de ação: pensamento, fala e ação · 46:14 Bamidbar 30:3 · 46:47 Devarim 21:1 · 47:34 Shemot 31:14 · 48:21 Vayikra 19:2 · 48:06 Shemot 19:6 · 51:53 Rashi em Bereshit 11:4 · 55:34 Bereshit 1:3 · 55:42 Bênção "shehakol nihyê bidvarô · 55:50 Tehilim 33:6 · 58:27 Tehilim 34:13-14 · 1:01:35 Sucá 46b · 1:03:07 Yirmeyahu 9:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+148|09:17|קונים בא לכוח ורוצה לקנות אז צריך לדעת ש
+149|09:22|כשקונים פירות הקניין לא נעשה בתשלום של
+150|09:26|הכסף כמו שמקובל לחשוב היום אלא
+151|09:30|הקניין נעשה באמצעות
+152|09:34|המשיכה זאת אומרת מרגע שהקונה משך את הדבר
+153|09:39|שאותו הוא קונה במקרה הזה זה פירות מין מ
+154|09:43|רשותו משך אותו כלומר הוא צרף אותו אליו
+155|09:46|זה מה שיוצר את הקניין גם אם הוא עדיין לא
+156|09:48|שלם את
+157|09:49|הכסף אני תן למשל דוגמה תראו לעצמכם אדם
+158|09:52|נכנס לא על חנות שבה קונים פירות וירקות
+159|09:55|אלא הוא הולך לקנות איזה אגרטל או איזה
+
+LINHAS A TRADUZIR:
+160|09:58|כלי זכוכית קר כן אז הוא יש את התצוגה
+161|10:02|בחנות והוא אומר למוכר אני רוצה את
+162|10:05|האגרטל השלישי שמה על המדף השני מצד
+163|10:09|ימין המוכר הולך ומוריד את
+164|10:13|זה
+165|10:15|ו האגרטל הזה נופל
+166|10:21|ונשבר גם אם הוא שילם את
+167|10:26|הכסף ה הלקוח כ כאילו רק צריך להביא לו את
+168|10:30|זה התשלום של הכסף לא עושה את הקניין עד
+169|10:34|שבעצם האגרטל יגיע לרשותו זאת אומרת מה
+170|10:37|שעושה פה את הקניין זה
+171|10:39|המשיכה עכשיו אחרי פחות או יותר העיקרון
+172|10:42|הזה בואו נראה שוב את המשנה משך אמנו
+173|10:45|פירות ולא נתן לו
+174|10:47|מאות הם סיכמו שהוא קונה ממנו לא יודע כמה
+175|10:51|עשרה ארגזי תפוזים או תפוחים אני אני יודע
+176|10:53|מה והוא משך הלקוח משך את הפירות מבעל
+177|10:57|הבית ועדיין לא נתן לו את הפירות לא נתן
+178|11:01|לו את המאות ה עוד לא שילם לו הוא רק הוא
+179|11:04|משך ולא שילם את המאות ואחרי זה הוא רוצה
+180|11:06|לחזור בו הוא אומר אתה יודע מה לא אני לא
+181|11:08|רוצה הפירות לא טובים אני לא קונה אותם אבל הוא כבר משך את זה יכול בעל הבית לומר
+182|11:13|לו
+183|11:14|מצטער משכת זה כבר שלך אני לא מוכן לקבל
+184|11:17|את זה חזרה זה הפירוש משך ממנו פירות ולא
+185|11:21|נתן לו מאות אינו יכול לחזור בו נתן לו
+186|11:25|מאות ולא משך ממנו פירות זאת אומרת הם
+187|11:28|סיכמו שהוא קונה את הארגז תפוזים האלה
+188|11:31|והוא כבר שילם לו את הכסף אבל עדיין לא
+189|11:33|משך את זה יכול לחזור
+190|11:36|בו כי לא היה פה קניין מה הקניין הקובע
+191|11:39|הוא קניין משיחה עכשיו מה קורה כאן לזה
+192|11:42|מתייחסת המשנה ואומרת אבל אמרו מי שפרע
+193|11:45|מאנשי דור המבול ומדור הפלגה הוא עתיד
+194|11:48|להיפרע ממי שאינו עומד בדיבורו כלומר
+195|11:52|התחייבת נכון עוד לא ביצעת את הקניין אבל
+196|11:55|התחייבת אז מצד הדין אתה יכול לחזור בך
+197|11:59|אבל דע לך ווזה דבר חמור מה שכתוב כאן מי
+198|12:03|שפרה מאנשי דור המבול ומדור הפלגה הוא
+199|12:07|עתיד להיפרע ממי שאינו עומד בדיבורו דור

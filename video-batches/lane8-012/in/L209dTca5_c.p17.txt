@@ -1,0 +1,64 @@
+videoId: L209dTca5_c
+parte 18 de 28 · traduzir as linhas 680 a 719 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ki Tetzê: a força da palavra falada
+RESUMO: O rabino parte dos versículos sobre votos em Devarim 23:22-24 (Ki Tetzê), que mandam não atrasar o cumprimento de um voto e dizem que quem se abstém de fazer votos não peca, e os compara com Kohelet 5, onde o tolo é quem promete e não cumpre. Em seguida traz a Mishná de Bava Metsia 4, segundo a qual quem não sustenta a sua palavra enfrenta Aquele que castigou a geração do Dilúvio e a geração da Dispersão. Para entender a ligação, estuda a Torre de Babel em Bereshit 11, com a explicação de Rashi sobre querer fazer guerra contra HaShem, e a escala dos seres (inanimado, vegetal, animal, falante). Mostra que o Targum de Onkelos traduz Bereshit 2:7 como "espírito falante", ou seja, a fala é a ação da alma no corpo e a roupa do pensamento. Daí explica o termo "não profanará (yachel) sua palavra" de Bamidbar 30, a ideia de profanação como esvaziamento, e fecha com Tehilim 34 (guardar a língua como se guarda o pino de uma granada) e com a Gemará de Sucá 46b, que proíbe prometer algo a uma criança e não cumprir, para não ensiná-la a mentir.
+MOMENTOS: 00:48 Os versículos sobre votos em Ki Tetzê · 03:58 A fala que gera obrigação: "o que disseste com a tua boca" · 05:00 Kohelet 5: o tolo promete e não cumpre · 07:36 Mishná de Bava Metsia: quem não sustenta sua palavra · 15:04 A Torre de Babel e a língua única · 21:56 Inanimado, vegetal, animal e falante · 31:08 Onkelos: "espírito falante" em Bereshit 2:7 · 37:54 A fala como a roupa do pensamento · 46:11 "Não profanará sua palavra": o sentido de profanar · 51:53 Rashi: a geração da Dispersão usou a fala contra HaShem · 58:25 Tehilim 34: guardar a língua como o pino de uma granada · 1:01:18 Gemará de Sucá: não prometer em vão a uma criança
+FONTES CITADAS: 01:00 Devarim 23:22-24 · 05:13 Kohelet 5:3-5 · 06:10 Kohelet 5:4 · 06:31 Kohelet 5:5 · 07:41 Mishná, Bava Metsia 4:2 · 12:11 Bereshit 6:11-13 · 14:22 Mishná, Avot 5:2 · 15:04 Bereshit 11:1 · 16:10 Bereshit 11:3-4 · 17:29 Bereshit 11:5-6 · 18:20 Bereshit 11:7-9 · 19:40 Bereshit 1:28 · 20:09 Bereshit 9:1 · 20:18 Yeshayahu 45:18 · 26:38 Bereshit 2:7 · 29:34 Meguilá 3a · 31:32 Targum Onkelos em Bereshit 2:7 · 37:54 Alma, fala e pensamento na cabalá · 44:11 Os três campos de ação: pensamento, fala e ação · 46:14 Bamidbar 30:3 · 46:47 Devarim 21:1 · 47:34 Shemot 31:14 · 48:21 Vayikra 19:2 · 48:06 Shemot 19:6 · 51:53 Rashi em Bereshit 11:4 · 55:34 Bereshit 1:3 · 55:42 Bênção "shehakol nihyê bidvarô · 55:50 Tehilim 33:6 · 58:27 Tehilim 34:13-14 · 1:01:35 Sucá 46b · 1:03:07 Yirmeyahu 9:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+668|39:58|ועכשיו זה יורד אל המישור הפיזי באמצעות
+669|40:02|מיתרי הכל באמצעות
+670|40:07|ה תנועה של האוויר במיתרי
+671|40:12|הכל יוצאות
+672|40:14|הברות ההברות האלה יוצרות צלילים הצלילים
+673|40:18|האלה מגיעים לאוזנו של המאזין ואם הוא
+674|40:21|מבין את השפה של הדובר הצלילים ה אלה אצלו
+675|40:27|מתחברים נופלים על אור הטוף מעובדים
+676|40:30|ומגיעים חזרה למוח של השומע ואז המחשבה
+677|40:35|עברה מן החושב אותה אל זה ששומע אותה
+678|40:40|כמובן בתנאי שהוא מבין את
+679|40:42|השפה עכשיו פעם ונחזור חזרה למה שקרה לפני
+
+LINHAS A TRADUZIR:
+680|40:46|דור הפלגה פעם כולם הבינו את כולם וי כל
+681|40:51|הארץ צפה אחת ודברים אחדים הם דיברו הם
+682|40:55|חשבו מחשבה דיברו אותה וכשהם דיברו אותה
+683|40:58|כולם הבינו בדיוק למה מתכוונים לא רק ם
+684|41:01|מכירים את השפה הם גם הבינו את המשמעות
+685|41:04|היום אנחנו יכולים לדבר את אותה שפה ועדיין אנחנו לא מבינים אחד את השני אנחנו
+686|41:08|מדברים באותם מילים אבל כל אחד מבין אותם אחרת או לא
+687|41:12|מבינים
+688|41:14|אותם זה לא היה המצב הראשוני אבל אפילו מה
+689|41:17|שקורה היום זה פלא מדהים איך הדבר הזה
+690|41:20|מתרחש יש כאן חיבור בין מציאות לא פיזית
+691|41:25|למציאות פיז ואופן החיבור הזה הוא לא ברור
+692|41:29|לחלוטין אין לו שום הסבר איך מציאות
+693|41:34|פיזית מתחברת
+694|41:37|למציאות מציאות רוחנית מתחברת למציאות
+695|41:39|פיזית ויוצרת אפקט שזה לא רק הצליל והכל
+696|41:44|אלא
+697|41:45|המשמעות שאותה אנחנו מחלקים אחד עם השני
+698|41:49|דרך ה ספונטניות של
+699|41:55|הדיבור
+700|41:57|מה מגלה לנו התורה מה מגלה לנו ריבונו של
+701|42:00|עולם שברא את האדם על גופו ועל נשמתו
+702|42:04|ובוודאי את אפשרות הדיבור
+703|42:07|שבו הדיבור הוא בעל ערך עצום כי הוא מחבר
+704|42:11|את המופשט עם
+705|42:14|המוחש זה המקום שהדברים
+706|42:17|מתחברים עכשיו אם נשים לב לדבר נוסף מופלא
+707|42:21|לא פחות האדם יש לו
+708|42:25|גוף
+709|42:26|ויש לו ראש נכון הגוף הוא חלק מהראש סליחה
+710|42:31|הראש הוא חלק מהגוף כן
+711|42:34|אבל מן הכתפיים ומטה מן הכתפיים ומטה אין
+712|42:40|שום הבדל בין אדם לבין
+713|42:46|חיה ידיים רגליים יש גם לחיות מערכת עיכול
+714|42:50|וכל מה שנמצא מתחת
+715|42:53|לכתפיים ההבדל זה זה הראש עכשיו גם לבעלי
+716|42:57|חיים יש ראש אבל הם
+717|43:00|לא הראש שלהם הוא לא ראש
+718|43:03|שחושב לאדם יש את אפשרות ההשכלה וההבנה
+719|43:07|ההשכלה וההבנה נמצאים בחלק הזה בחלק הגבוה

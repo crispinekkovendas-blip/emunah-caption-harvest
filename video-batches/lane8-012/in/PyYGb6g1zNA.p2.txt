@@ -1,0 +1,64 @@
+videoId: PyYGb6g1zNA
+parte 3 de 19 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A grande estratégia de Shlomo HaMelech: o coração que ouve
+RESUMO: O rabino abre o capítulo 3 de Melachim I (Reis I), com o casamento de Shlomo com a filha de Faraó e o pedido a HaShem em Givon, "um coração que ouve" (Melachim I 3:1-15). Ele propõe que Shlomo via sua época como o fim da história: Israel já chegara ao destino, 480 anos após o Êxodo, e agora cabia consertar o mundo sob o reinado de Shaddai. Por isso Shlomo se casa com a filha de Faraó e depois com mil mulheres, que funcionariam como embaixadoras da fé junto aos seus povos. O rabino apoia essa leitura no altar do Monte Eival, na visita da rainha de Sheva (Melachim I 10), no Rashi sobre Zevulun e na inauguração do Templo, em Tishrei. Ele explica também os 40 mil estábulos de cavalos e os 12 mil cavaleiros (Melachim I 5) como infraestrutura de comunicação, e a aliança com Chiram, rei de Tzor, como porta para todas as nações. Por fim, ele antecipa que no próximo encontro veremos o caso das duas mulheres, o "conto pequeno" que ilustra a sabedoria de Shlomo, e que a razão do fracasso virá depois.
+MOMENTOS: 00:29 Leitura de Melachim I 3: casamento e sonho em Givon · 02:07 O capítulo 3 como abertura de todo o projeto de Shlomo · 03:33 Midrash: Gavriel finca uma cana no mar, de onde surge Roma · 04:19 Shlomo diagnostica a época: o fim da história · 08:58 A missão: consertar o mundo sob o reinado de Shaddai · 10:12 O altar do Monte Eival como semente da missão · 13:28 Parceria com as nações: o casamento com a filha de Faraó · 16:19 Por que Shlomo pede só um coração que ouve · 19:59 A rainha de Sheva e o Rashi sobre Zevulun · 29:49 Inauguração do Templo em Tishrei e ajuda de fora · 33:04 Os 40 mil cavalos e a proibição "não multiplicará cavalos" · 36:42 Chiram de Tzor: a porta para todas as nações · 39:02 A regra do conto pequeno que antecipa o grande
+FONTES CITADAS: 00:29 Melachim I 3:1-4 · 00:52 Melachim I 3:5 · 01:17 Melachim I 3:9 · 01:46 Melachim I 3:12-14 · 03:33 Midrash sobre o casamento de Shlomo com a filha de Faraó · 07:02 Zohar, ano 600 do sexto milênio · 10:12 Devarim 27:2-8 (altar no Monte Eival) · 18:49 Kohelet 2:18-19 · 20:15 Melachim I 10:1 · 20:40 Melachim I 10:4-7 · 21:17 Melachim I 10:9 · 21:35 Melachim I 10:13 · 22:00 Devarim 33:18-19 · 22:07 Rashi em Devarim 33:19 · 27:22 Melachim I 8:41-43 · 30:51 Melachim I 5:9-11 · 31:19 Melachim I 7:13-14 · 32:09 Melachim I 5:1-4 · 32:58 Melachim I 5:6 · 33:10 Devarim 17:16 · 34:16 Ester 8:10 · 36:08 Sanhedrin 90a (derash do versículo "não multiplicará cavalos") · 36:14 Devarim 17:16 · 37:16 Melachim I 5:16-19 · 37:42 Melachim I 5:21 · 38:04 Melachim I 5:22-26
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|04:43|לא היה, לא, לא היה.
+69|04:45|היה, פשוט לא היה, לא היה את כל מה שיש לנו היום.
+70|04:48|לא כזה שפע ולא...
+71|04:49|לא היה אינטרנט, כן?
+72|04:53|לא היה...
+73|04:58|מה?
+74|05:00|טלפון לא היה, לנו בבית לא היה טלפון.
+75|05:02|היה טלפון ציבורי, היינו הולכים...
+76|05:04|כן?
+77|05:04|ואם נלך עוד מאה שנה קודם, אז אנחנו בתחילת המאה הקודמת עוד נסענו על סוסים.
+78|05:11|אומרים שהקפיצה הכי גדולה באנושות היא, שקל להסביר אותה, זה
+79|05:16|שב-1903 האחים רייט מטיסים פעם ראשונה מטוס ל-100 מטר, אני לא
+
+LINHAS A TRADUZIR:
+80|05:22|יודע כמה זה, וב-1969 כבר מגיעים לירח.
+81|05:26|זה הקצב.
+82|05:26|בסדר?
+83|05:28|כאילו, בני אדם מצליחים להטיס חללית, מה?
+84|05:33|מצורף, מטורף, בסדר?
+85|05:34|עכשיו, יש שאלה שדנים בפילוסופיה של המדע ועוד, למה זה לקח כל כך
+86|05:40|הרבה זמן?
+87|05:41|למה?
+88|05:43|מה, זה היה דין שאנחנו נתעכב כל כך הרבה?
+89|05:46|וכמו שזה קרה עכשיו, יכול היה גם לקרות לפני כן.
+90|05:49|השאלה אותי מנוסחת, למה זה לא קרה מיד אחרי יוון?
+91|05:52|הרי יוון העתיקה הגיעה להישגים בלתי רגילים באמצעים שהיו
+92|05:57|להם במדע, במתמטיקה, באלגברה, בהנדסה.
+93|06:03|וזה נראה מתבקש שמיד אחרי יוון, מיד ברצף יהיה קופרניקוס, גלילאו.
+94|06:09|איינשטיין, בואר, כאילו, קרה 100-200 שנה, 300
+95|06:15|שנה, ונגלה את הכל.
+96|06:17|נמציא את עצמי, כאילו, למה זה נעצר שם?
+97|06:19|זה נעצר, נעצר, נעצר לאלף שנים.
+98|06:21|ימי הביניים.
+99|06:22|אז מה יש איזה, מה אתה רואה?
+100|06:25|אז יש לכל הסיבות, לא בשל מוסרית, עם ישראל היו בגלות וכולי וכולי, בסדר?
+101|06:29|אני רק בא להגיד שזה לא איזה גזירת גורל.
+102|06:32|כלומר, זה לא שהעולם מתקדם ככה לאט, לאט, לאט, לאט, ובסוף הגענו להיום, לא.
+103|06:37|העולם היה לו איזו קפיצה עצומה ביוון, פתאום הוא נעצר להמון המון זמן, ואז
+104|06:43|לפני בערך מהמהפכה התעשייתית וקדימה, הוא עוד פעם טס בצורה בלתי רגילה,
+105|06:49|כשהיום אנחנו יודעים שאנחנו לא יודעים, בסדר?
+106|06:50|היום אנחנו יודעים שההתקדמות היא כבר לא ליניארית, אלא אקספוננציאלית,
+107|06:56|נכון?
+108|06:57|אקספוננציאלית, כן, זו המילה.
+109|07:00|זה קפיצות מטורפות, אנחנו לא יודעים לאן זה יגיע בכלל.
+110|07:02|כלומר, נפתחו, כמו שכתוב בזוהר הקדוש, שבשנת 600 שנה לך אין נוח, בשנת 600 שנה לאלף השישי
+111|07:08|פתחו מעיינות חוכמה וכולי וכולי.
+112|07:11|מה שאני בא להגיד זה שלדעתי שלמה, שהיה חכם מכל אדם, הבין שזה
+113|07:17|אצלו.
+114|07:18|כלומר, הוא הולך לגלות את הפיזיקה המודרנית, את תורת היחסות, את הכל.
+115|07:23|כלומר, הוא הולך לקדם את האנושות לפסגת הטכנולוגיה המדעית שלה, אין סיבה שלא.
+116|07:29|מבחינה...
+117|07:30|בסדר?
+118|07:30|כאילו, הוא חכם מכל אדם, אז למה שלא יגלה את כל מה שגילה איינשטיין אחריו, וגלילאו,
+119|07:36|וכל הפיזיקאים החשובים וכולי וכולי.

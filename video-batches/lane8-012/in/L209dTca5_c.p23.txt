@@ -1,0 +1,64 @@
+videoId: L209dTca5_c
+parte 24 de 28 · traduzir as linhas 920 a 959 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ki Tetzê: a força da palavra falada
+RESUMO: O rabino parte dos versículos sobre votos em Devarim 23:22-24 (Ki Tetzê), que mandam não atrasar o cumprimento de um voto e dizem que quem se abstém de fazer votos não peca, e os compara com Kohelet 5, onde o tolo é quem promete e não cumpre. Em seguida traz a Mishná de Bava Metsia 4, segundo a qual quem não sustenta a sua palavra enfrenta Aquele que castigou a geração do Dilúvio e a geração da Dispersão. Para entender a ligação, estuda a Torre de Babel em Bereshit 11, com a explicação de Rashi sobre querer fazer guerra contra HaShem, e a escala dos seres (inanimado, vegetal, animal, falante). Mostra que o Targum de Onkelos traduz Bereshit 2:7 como "espírito falante", ou seja, a fala é a ação da alma no corpo e a roupa do pensamento. Daí explica o termo "não profanará (yachel) sua palavra" de Bamidbar 30, a ideia de profanação como esvaziamento, e fecha com Tehilim 34 (guardar a língua como se guarda o pino de uma granada) e com a Gemará de Sucá 46b, que proíbe prometer algo a uma criança e não cumprir, para não ensiná-la a mentir.
+MOMENTOS: 00:48 Os versículos sobre votos em Ki Tetzê · 03:58 A fala que gera obrigação: "o que disseste com a tua boca" · 05:00 Kohelet 5: o tolo promete e não cumpre · 07:36 Mishná de Bava Metsia: quem não sustenta sua palavra · 15:04 A Torre de Babel e a língua única · 21:56 Inanimado, vegetal, animal e falante · 31:08 Onkelos: "espírito falante" em Bereshit 2:7 · 37:54 A fala como a roupa do pensamento · 46:11 "Não profanará sua palavra": o sentido de profanar · 51:53 Rashi: a geração da Dispersão usou a fala contra HaShem · 58:25 Tehilim 34: guardar a língua como o pino de uma granada · 1:01:18 Gemará de Sucá: não prometer em vão a uma criança
+FONTES CITADAS: 01:00 Devarim 23:22-24 · 05:13 Kohelet 5:3-5 · 06:10 Kohelet 5:4 · 06:31 Kohelet 5:5 · 07:41 Mishná, Bava Metsia 4:2 · 12:11 Bereshit 6:11-13 · 14:22 Mishná, Avot 5:2 · 15:04 Bereshit 11:1 · 16:10 Bereshit 11:3-4 · 17:29 Bereshit 11:5-6 · 18:20 Bereshit 11:7-9 · 19:40 Bereshit 1:28 · 20:09 Bereshit 9:1 · 20:18 Yeshayahu 45:18 · 26:38 Bereshit 2:7 · 29:34 Meguilá 3a · 31:32 Targum Onkelos em Bereshit 2:7 · 37:54 Alma, fala e pensamento na cabalá · 44:11 Os três campos de ação: pensamento, fala e ação · 46:14 Bamidbar 30:3 · 46:47 Devarim 21:1 · 47:34 Shemot 31:14 · 48:21 Vayikra 19:2 · 48:06 Shemot 19:6 · 51:53 Rashi em Bereshit 11:4 · 55:34 Bereshit 1:3 · 55:42 Bênção "shehakol nihyê bidvarô · 55:50 Tehilim 33:6 · 58:27 Tehilim 34:13-14 · 1:01:35 Sucá 46b · 1:03:07 Yirmeyahu 9:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+908|54:37|שאתה צריך לקיים אותה במהירות האפשרית
+909|54:40|וברמה הכי
+910|54:41|גבוהה אתה לא היית חייב לחייב את עצמך לא
+911|54:45|לא היית חייב לידור נדרת אתה חייב לקיים
+912|54:49|יש
+913|54:50|פה הסבת
+914|54:53|זרקור לכוח
+915|54:58|הדיבור בוא רגע נראה מה זה
+916|55:03|אומר הדיבור של
+917|55:15|האדם בדיבורו של האדם אני אקרא לכם כמה
+918|55:18|שורות שככה סיכמתי בהם את עיקרי הדברים
+919|55:21|בדיבורו של האדם המבטא את ייחודו בין
+
+LINHAS A TRADUZIR:
+920|55:24|הברואים
+921|55:25|ואת הדמות
+922|55:28|לבוראו נכון הקדוש ברוך הוא אוקיי הדיבור
+923|55:32|אצל הקדוש ברוך הוא אחר אבל כתוב הרבה
+924|55:34|פעמים בתורה וידבר השם אל משה לאמור
+925|55:37|הבריאה כולה נאמרה
+926|55:39|בדיבור כי הוא אמר
+927|55:42|ויהי נכון יש ברכה שאני מניח שכולם מכירים
+928|55:46|ברוך אתה השם אלוקינו מלך העולם שהכל נהיה
+929|55:50|בדברו בדבר השם שמיים נעשו ורוח פיכל
+930|55:54|צבעם כי הוא אמר ויהי ויאמר אלוקים יהי
+931|55:58|ויהי אז האדם דומה עכשיו כמובן שהקדוש
+932|56:01|ברוך הוא לא גוף ולא דמות הגוף ושמה אין
+933|56:04|פעולה של רוחנית שב זה אנחנו מדברים על
+934|56:08|הדיבור האלוקי בהשאלה לא כדי לבטא את זה
+935|56:12|אצל האדם ככה זה פועל הקדוש ברוך הוא הוא
+936|56:15|לא גוף ולא חומר כי חומר הוא מוגבל והקדוש
+937|56:17|ברוך הוא הוא בלתי מוגבל אז מה פירוש
+938|56:20|שהקדוש ברוך הוא אומר שהוא מדבר וידבר השם
+939|56:23|אל משה לאמור דבר השם שמיים נעשו אז זה לא
+940|56:26|כפשוטו זה לא כפשוטו ביחס לריבונו של עולם
+941|56:29|כי יש הבדל ביננו לבין האלוקים לנו יש גוף
+942|56:31|ולא
+943|56:33|אין בכל מקרה עצם אפשרות הדיבור דהינו
+944|56:38|מחשבה שכשהיא הופכת לדיבור ה יוצרת מציאות
+945|56:42|לפחות מצד ריבונו של עולם מיל מילותיו של
+946|56:45|הקדוש ברוך הוא יצרו את המציאות הכל נהיה
+947|56:49|בדברו אז את הדימוי הזה האדם מבחינה זו
+948|56:53|דומה לקדוש ברוך הוא בדיבורו של האדם
+949|56:56|המבטא את ייחודו בין הברואים
+950|56:59|אקסקלוסיביות
+951|57:00|שקיימת בין כל הנבראים רק לאדם ואת דמותו
+952|57:05|לבוראו יש מימד של קדושה חובתו של האדם לא
+953|57:11|לשקר בדיבורו ולא לחלל את מוצא שפתיו
+954|57:15|נתפסת כחובה אנושית והיא קיימת לא רק לגבי
+955|57:19|דיבור שבין אדם ואלוקי אלא אף גם אם לא
+956|57:23|באותה עוצמה בנוגע לדיבור שבן אדם לחברו
+957|57:26|הן בנוגע לאמירת שקר הן בנוגע לכיבוד
+958|57:31|הבטחה ומשא ומתן
+959|57:35|באמונה ויש עוד לשון הרע אפשרות להשתמש

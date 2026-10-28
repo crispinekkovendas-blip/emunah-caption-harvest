@@ -1,0 +1,64 @@
+videoId: L209dTca5_c
+parte 9 de 28 · traduzir as linhas 320 a 359 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ki Tetzê: a força da palavra falada
+RESUMO: O rabino parte dos versículos sobre votos em Devarim 23:22-24 (Ki Tetzê), que mandam não atrasar o cumprimento de um voto e dizem que quem se abstém de fazer votos não peca, e os compara com Kohelet 5, onde o tolo é quem promete e não cumpre. Em seguida traz a Mishná de Bava Metsia 4, segundo a qual quem não sustenta a sua palavra enfrenta Aquele que castigou a geração do Dilúvio e a geração da Dispersão. Para entender a ligação, estuda a Torre de Babel em Bereshit 11, com a explicação de Rashi sobre querer fazer guerra contra HaShem, e a escala dos seres (inanimado, vegetal, animal, falante). Mostra que o Targum de Onkelos traduz Bereshit 2:7 como "espírito falante", ou seja, a fala é a ação da alma no corpo e a roupa do pensamento. Daí explica o termo "não profanará (yachel) sua palavra" de Bamidbar 30, a ideia de profanação como esvaziamento, e fecha com Tehilim 34 (guardar a língua como se guarda o pino de uma granada) e com a Gemará de Sucá 46b, que proíbe prometer algo a uma criança e não cumprir, para não ensiná-la a mentir.
+MOMENTOS: 00:48 Os versículos sobre votos em Ki Tetzê · 03:58 A fala que gera obrigação: "o que disseste com a tua boca" · 05:00 Kohelet 5: o tolo promete e não cumpre · 07:36 Mishná de Bava Metsia: quem não sustenta sua palavra · 15:04 A Torre de Babel e a língua única · 21:56 Inanimado, vegetal, animal e falante · 31:08 Onkelos: "espírito falante" em Bereshit 2:7 · 37:54 A fala como a roupa do pensamento · 46:11 "Não profanará sua palavra": o sentido de profanar · 51:53 Rashi: a geração da Dispersão usou a fala contra HaShem · 58:25 Tehilim 34: guardar a língua como o pino de uma granada · 1:01:18 Gemará de Sucá: não prometer em vão a uma criança
+FONTES CITADAS: 01:00 Devarim 23:22-24 · 05:13 Kohelet 5:3-5 · 06:10 Kohelet 5:4 · 06:31 Kohelet 5:5 · 07:41 Mishná, Bava Metsia 4:2 · 12:11 Bereshit 6:11-13 · 14:22 Mishná, Avot 5:2 · 15:04 Bereshit 11:1 · 16:10 Bereshit 11:3-4 · 17:29 Bereshit 11:5-6 · 18:20 Bereshit 11:7-9 · 19:40 Bereshit 1:28 · 20:09 Bereshit 9:1 · 20:18 Yeshayahu 45:18 · 26:38 Bereshit 2:7 · 29:34 Meguilá 3a · 31:32 Targum Onkelos em Bereshit 2:7 · 37:54 Alma, fala e pensamento na cabalá · 44:11 Os três campos de ação: pensamento, fala e ação · 46:14 Bamidbar 30:3 · 46:47 Devarim 21:1 · 47:34 Shemot 31:14 · 48:21 Vayikra 19:2 · 48:06 Shemot 19:6 · 51:53 Rashi em Bereshit 11:4 · 55:34 Bereshit 1:3 · 55:42 Bênção "shehakol nihyê bidvarô · 55:50 Tehilim 33:6 · 58:27 Tehilim 34:13-14 · 1:01:35 Sucá 46b · 1:03:07 Yirmeyahu 9:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+308|18:12|שאני לא כל כך אוהב כך אומר ריבונו של
+309|18:15|עולם עו עוד רגע נסביר למה עכשיו מה הוא
+310|18:17|רוצה מה הוא אומר פ מה הוא מחליט לעשות
+311|18:20|הבה
+312|18:21|נרדה ונבלה שם שפתם אשר לא ישמעו איש שפת
+313|18:26|ראהו אני בלבל להם את השפה ומה שהיה
+314|18:30|בהתחלה כמתואר פה פעמיים כבר בפסוקים האלה
+315|18:33|ויקל הארץ שפה אחת ויאמר השם אן עם אחת
+316|18:36|ושפה אחת לא תהיה שפה אחת אני אבלבל את
+317|18:40|שפתם אשר לא ישמעו איש שפת
+318|18:44|ראהו הם לא יבינו אחד את
+319|18:47|השני ויפץ השם וזה מה שהוא עשה הוא בלבל
+
+LINHAS A TRADUZIR:
+320|18:50|את שפתם ויפץ השם אותם משם על פני כל הארץ
+321|18:54|ויחדלו לבנות
+322|18:57|העיר אז זה מה שקרה הם הפסיקו להבין אחד
+323|19:02|את השני לא שמעו הכוונה היא לא הבינו איש
+324|19:05|הצפת ראהו ולכן הם לא יכלו להמשיך בפרויקט
+325|19:08|הזה המגדל הזה נתקע באמצע והעיר ומשם מפיץ
+326|19:13|אותם השם על פני כל הארץ ויחדלו לבנות
+327|19:15|העיר על כן קרה שמה בבל זאת אומרת בבל של
+328|19:20|ימים תהיה בבל ההיסטורית היייתה מסביב
+329|19:22|לאותו מגדל לא גמור מגדל שהתחילו אותו ולא
+330|19:25|גמרו אותו על כן קרא שמה בבל כי שם בלא
+331|19:29|לשם את צפת כל הארץ ומשם מפיצה השם על פני
+332|19:32|כל הארץ אז אמה שאנחנו צריכים להבין למה
+333|19:36|הקדוש ברוך הוא לא אהב את הרעיון אז ככה
+334|19:40|כשהקדושים
+335|19:41|וחווה הוא אמר להם פרו ורבו ומילאו את
+336|19:45|הארץ
+337|19:47|וכבשוה אותו דבר הוא אמר לנוח היו שני
+338|19:50|אבות לאנושות אדם הראשון שהיה אביהם של
+339|19:54|עשרת הדורות
+340|19:55|הראשונים ולאחר מכן האב השני של האנושות
+341|19:58|אחרי שנכחדה כל האנושות זולת נוח ושלושת
+342|20:02|בניו הוא נח היה האב השני של האנושות וגם
+343|20:06|נח בצאתו מן התיבה הקדוש ברוך הוא אמר לו
+344|20:08|אותו
+345|20:09|דבר פורבו מילו את הארץ וכבשוה לא
+346|20:15|ולבניו כתוב
+347|20:18|בפסוק בתנך שהקדוש ברוך הוא ברא את העולם
+348|20:22|לא טוהו בראה לשבט יצרה הוא לא ברא את
+349|20:26|העולם כדי שהוא יהיה טוהו שומם
+350|20:31|וחסר התכלית של בריאת העולם זה האדם
+351|20:38|ש יפתח את העולם יתיישב בעולם וכבשוה
+352|20:43|לכבוש את
+353|20:44|העולם זה בדיוק הדבר שהם רצו לא לעשות
+354|20:48|אנשי מגדל בבל הם לא רצו להתפזר הם רצו
+355|20:52|להתמקד במקום אחד עכשיו היו לזה סיבות אני
+356|20:54|לא אכנס לזה עכשיו כי זה לא הנושא שלנו
+357|20:56|דיברנו על זה אם אתם זוכרים למי שזוכר ומי
+358|20:59|שלא זוכר מומלץ מאוד לראות את השיעורים על
+359|21:02|מגדל בבל בספר בראשית פרשת נוח שמה ביארנו

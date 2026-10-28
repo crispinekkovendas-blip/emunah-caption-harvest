@@ -1,0 +1,64 @@
+videoId: L209dTca5_c
+parte 4 de 28 · traduzir as linhas 120 a 159 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ki Tetzê: a força da palavra falada
+RESUMO: O rabino parte dos versículos sobre votos em Devarim 23:22-24 (Ki Tetzê), que mandam não atrasar o cumprimento de um voto e dizem que quem se abstém de fazer votos não peca, e os compara com Kohelet 5, onde o tolo é quem promete e não cumpre. Em seguida traz a Mishná de Bava Metsia 4, segundo a qual quem não sustenta a sua palavra enfrenta Aquele que castigou a geração do Dilúvio e a geração da Dispersão. Para entender a ligação, estuda a Torre de Babel em Bereshit 11, com a explicação de Rashi sobre querer fazer guerra contra HaShem, e a escala dos seres (inanimado, vegetal, animal, falante). Mostra que o Targum de Onkelos traduz Bereshit 2:7 como "espírito falante", ou seja, a fala é a ação da alma no corpo e a roupa do pensamento. Daí explica o termo "não profanará (yachel) sua palavra" de Bamidbar 30, a ideia de profanação como esvaziamento, e fecha com Tehilim 34 (guardar a língua como se guarda o pino de uma granada) e com a Gemará de Sucá 46b, que proíbe prometer algo a uma criança e não cumprir, para não ensiná-la a mentir.
+MOMENTOS: 00:48 Os versículos sobre votos em Ki Tetzê · 03:58 A fala que gera obrigação: "o que disseste com a tua boca" · 05:00 Kohelet 5: o tolo promete e não cumpre · 07:36 Mishná de Bava Metsia: quem não sustenta sua palavra · 15:04 A Torre de Babel e a língua única · 21:56 Inanimado, vegetal, animal e falante · 31:08 Onkelos: "espírito falante" em Bereshit 2:7 · 37:54 A fala como a roupa do pensamento · 46:11 "Não profanará sua palavra": o sentido de profanar · 51:53 Rashi: a geração da Dispersão usou a fala contra HaShem · 58:25 Tehilim 34: guardar a língua como o pino de uma granada · 1:01:18 Gemará de Sucá: não prometer em vão a uma criança
+FONTES CITADAS: 01:00 Devarim 23:22-24 · 05:13 Kohelet 5:3-5 · 06:10 Kohelet 5:4 · 06:31 Kohelet 5:5 · 07:41 Mishná, Bava Metsia 4:2 · 12:11 Bereshit 6:11-13 · 14:22 Mishná, Avot 5:2 · 15:04 Bereshit 11:1 · 16:10 Bereshit 11:3-4 · 17:29 Bereshit 11:5-6 · 18:20 Bereshit 11:7-9 · 19:40 Bereshit 1:28 · 20:09 Bereshit 9:1 · 20:18 Yeshayahu 45:18 · 26:38 Bereshit 2:7 · 29:34 Meguilá 3a · 31:32 Targum Onkelos em Bereshit 2:7 · 37:54 Alma, fala e pensamento na cabalá · 44:11 Os três campos de ação: pensamento, fala e ação · 46:14 Bamidbar 30:3 · 46:47 Devarim 21:1 · 47:34 Shemot 31:14 · 48:21 Vayikra 19:2 · 48:06 Shemot 19:6 · 51:53 Rashi em Bereshit 11:4 · 55:34 Bereshit 1:3 · 55:42 Bênção "shehakol nihyê bidvarô · 55:50 Tehilim 33:6 · 58:27 Tehilim 34:13-14 · 1:01:35 Sucá 46b · 1:03:07 Yirmeyahu 9:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|06:51|תיתן את פיך כלומר לפה יש כוח והוא יכול
+109|06:54|אם
+110|06:55|לא תבצע מה שאמרת יכול להיות לך
+111|06:59|פגיעה בגוף אל תיתן את פיך להחטיא את בשרך
+112|07:03|ואל תאמר לפני המלאך כי שגג אתה לא יכול
+113|07:06|להתנצל ולומר לא התכוונתי וכן הלאה למה
+114|07:10|יקצוף האלוקים על כולך וקיבל את מעשה ידיך
+115|07:13|כולך אז שוב יש לנו פה התייחסות נוספת
+116|07:16|דיבור קול מהרגע שהאדם אומר משהו הדבר הזה
+117|07:21|מחייב בכלל גם בבין אדם לחברו כל התחייבות
+118|07:26|ונראה עוד מעט וכמובן שכאן שמדובר על
+119|07:29|התחייבות בפני הקדוש ברוך הוא הלאה נראה
+
+LINHAS A TRADUZIR:
+120|07:33|עכשיו אחרי שראינו את התורה ואת את הפסוק
+121|07:36|בכתובים בספר קהלת בואו נראה את המשנה
+122|07:39|במסכת בא
+123|07:41|המציאה משנה בפרק ד' של בא המציע כתוב כך
+124|07:46|משך אמנו פירות ולא נתן לו מאות אינו יכול
+125|07:50|לחזור בו נתן לו מאות ולא משך אמנו פירות
+126|07:53|יכול לחזור בו אבל אמרו מי שפרה מאנשי דור
+127|07:58|המבול ומדור הפל הוא עתיד להיפרע ממי
+128|08:00|שאינו עומד בדיבורו ננסה רגע להבין את זה
+129|08:04|קודם כל נלמד רק את הסוגיה שמה במסכת בא
+130|08:08|ומציאה
+131|08:10|ה מסכת בא ומציאה היא מסכת האמצעית בין
+132|08:14|שתי מסכתות נוספות בו קמה ובבה בטרה שלושת
+133|08:19|המסכתות האלה בב קמה בבה מציע ובבא בטרה
+134|08:23|מרכיבות מסכת גדולה יותר שנקראת מסכת
+135|08:26|זיקים והיא עוסקת בעצם וזה נמצא בסדר
+136|08:30|נזיקין בשישה סדרי משנה בתלמוד
+137|08:34|ומסכתות האלה עוסקות בענייני
+138|08:39|ממונות בפרק ד' במסכת בא ומציאה מדובר על
+139|08:42|מערכת הקניינים איך קונים דברים כלומר יש
+140|08:46|חפצים שהם שלי רכוש שהוא שלי
+141|08:50|והשאלה היא איך נכס הופך להיות שלי או
+142|08:57|יוצא מרשותי עכשיו עכשיו מדובר פה על שני
+143|09:00|אנשים כאן בדיון פה
+144|09:02|במשנה
+145|09:04|שאחד מוכר לחברו פירות
+146|09:09|נגיד ירקן או מוכר פירות
+147|09:13|בשוק הפירות הם כמובן שלא ועכשיו באים
+148|09:17|קונים בא לכוח ורוצה לקנות אז צריך לדעת ש
+149|09:22|כשקונים פירות הקניין לא נעשה בתשלום של
+150|09:26|הכסף כמו שמקובל לחשוב היום אלא
+151|09:30|הקניין נעשה באמצעות
+152|09:34|המשיכה זאת אומרת מרגע שהקונה משך את הדבר
+153|09:39|שאותו הוא קונה במקרה הזה זה פירות מין מ
+154|09:43|רשותו משך אותו כלומר הוא צרף אותו אליו
+155|09:46|זה מה שיוצר את הקניין גם אם הוא עדיין לא
+156|09:48|שלם את
+157|09:49|הכסף אני תן למשל דוגמה תראו לעצמכם אדם
+158|09:52|נכנס לא על חנות שבה קונים פירות וירקות
+159|09:55|אלא הוא הולך לקנות איזה אגרטל או איזה

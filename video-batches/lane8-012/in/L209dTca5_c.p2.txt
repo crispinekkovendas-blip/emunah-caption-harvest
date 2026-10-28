@@ -1,0 +1,64 @@
+videoId: L209dTca5_c
+parte 3 de 28 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ki Tetzê: a força da palavra falada
+RESUMO: O rabino parte dos versículos sobre votos em Devarim 23:22-24 (Ki Tetzê), que mandam não atrasar o cumprimento de um voto e dizem que quem se abstém de fazer votos não peca, e os compara com Kohelet 5, onde o tolo é quem promete e não cumpre. Em seguida traz a Mishná de Bava Metsia 4, segundo a qual quem não sustenta a sua palavra enfrenta Aquele que castigou a geração do Dilúvio e a geração da Dispersão. Para entender a ligação, estuda a Torre de Babel em Bereshit 11, com a explicação de Rashi sobre querer fazer guerra contra HaShem, e a escala dos seres (inanimado, vegetal, animal, falante). Mostra que o Targum de Onkelos traduz Bereshit 2:7 como "espírito falante", ou seja, a fala é a ação da alma no corpo e a roupa do pensamento. Daí explica o termo "não profanará (yachel) sua palavra" de Bamidbar 30, a ideia de profanação como esvaziamento, e fecha com Tehilim 34 (guardar a língua como se guarda o pino de uma granada) e com a Gemará de Sucá 46b, que proíbe prometer algo a uma criança e não cumprir, para não ensiná-la a mentir.
+MOMENTOS: 00:48 Os versículos sobre votos em Ki Tetzê · 03:58 A fala que gera obrigação: "o que disseste com a tua boca" · 05:00 Kohelet 5: o tolo promete e não cumpre · 07:36 Mishná de Bava Metsia: quem não sustenta sua palavra · 15:04 A Torre de Babel e a língua única · 21:56 Inanimado, vegetal, animal e falante · 31:08 Onkelos: "espírito falante" em Bereshit 2:7 · 37:54 A fala como a roupa do pensamento · 46:11 "Não profanará sua palavra": o sentido de profanar · 51:53 Rashi: a geração da Dispersão usou a fala contra HaShem · 58:25 Tehilim 34: guardar a língua como o pino de uma granada · 1:01:18 Gemará de Sucá: não prometer em vão a uma criança
+FONTES CITADAS: 01:00 Devarim 23:22-24 · 05:13 Kohelet 5:3-5 · 06:10 Kohelet 5:4 · 06:31 Kohelet 5:5 · 07:41 Mishná, Bava Metsia 4:2 · 12:11 Bereshit 6:11-13 · 14:22 Mishná, Avot 5:2 · 15:04 Bereshit 11:1 · 16:10 Bereshit 11:3-4 · 17:29 Bereshit 11:5-6 · 18:20 Bereshit 11:7-9 · 19:40 Bereshit 1:28 · 20:09 Bereshit 9:1 · 20:18 Yeshayahu 45:18 · 26:38 Bereshit 2:7 · 29:34 Meguilá 3a · 31:32 Targum Onkelos em Bereshit 2:7 · 37:54 Alma, fala e pensamento na cabalá · 44:11 Os três campos de ação: pensamento, fala e ação · 46:14 Bamidbar 30:3 · 46:47 Devarim 21:1 · 47:34 Shemot 31:14 · 48:21 Vayikra 19:2 · 48:06 Shemot 19:6 · 51:53 Rashi em Bereshit 11:4 · 55:34 Bereshit 1:3 · 55:42 Bênção "shehakol nihyê bidvarô · 55:50 Tehilim 33:6 · 58:27 Tehilim 34:13-14 · 1:01:35 Sucá 46b · 1:03:07 Yirmeyahu 9:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|04:17|שבפה זה נכון בהחלט גם בבין אדם לחברו אבל
+69|04:20|כאן זה הרבה יותר חמור כי מדובר פה
+70|04:22|בהתחייבות בין האדם לבין האלוקים ולכן
+71|04:24|הנושא שעליו נדבר היום ניגע בו לא נספיק
+72|04:27|לכסות אותו כדרכנו כמובן
+73|04:30|הוא הנושא הזה כוח הדיבור ננסה להבין את
+74|04:35|העוצמה את עניין הדיבור את הייחודיות של
+75|04:38|הדיבור ולמה הוא כל
+76|04:40|כך למה זה דבר כל כך
+77|04:43|דרמטי אני אצטרך פה להידרש
+78|04:46|לנושאים שהם מעבר למה שאנחנו
+79|04:49|נדבר פה כ כי צריך את זה בתור או אבל בואו
+
+LINHAS A TRADUZIR:
+80|04:53|נראה עוד כמה דברים לפני שניגע לניתוח
+81|04:56|עניין כוח הדיבור יש אני עובר עכשיו
+82|05:00|מהתורה אל הכתובים בספר קהלת שלמה המלך
+83|05:04|בספר קהלת בפרק ה מתייחס לעניין
+84|05:07|הנדרים תזכרו ברקע את הדברים שיצאנו מהם
+85|05:10|מהפרשה שלנו כי תדור נדר להשם לא תאחר
+86|05:13|לשלמו והנה עכשיו קוהלת פרק ה כאשר תידור
+87|05:18|נדר לאלוהים אל תאחר לשלמו רואים שזה
+88|05:22|בדיוק זה מן זה בעצם חזרה כאילו על מה
+89|05:24|שכתוב בפסוק בספר דברים כי תידור נדר
+90|05:30|לאלוהים אל תאחר לשלמו ממשיך שלמה המלך
+91|05:34|ואומר כי אין חפץ בכסילים את אשר תדור שלם
+92|05:40|אין חפץ בכסילים כסיל זה מי שאומר
+93|05:45|ולא מקיים או שבזמן שהוא אמר הוא לא
+94|05:49|התכוון לקיים או שבזמן שהוא אמר הוא כן
+95|05:52|ולאחר מכן פשוט זה התמסמס לו והוא לא ביצע
+96|05:56|את זה זה נקרא כסילות אין חפץ ב פסילים את
+97|06:00|אשר תדור שלם ואם אתם זוכרים את הפסוק
+98|06:04|ההוא א בתורה וכי תחד לנדור לא יהיה בך
+99|06:10|חטא אז הנה הפסוק הבא כאן מאוד דומה אל
+100|06:14|טוב אשר לא תידור משתידור ולא תשלם עדיף
+101|06:19|שלא תדור בכלל אל תדור שום נדר אבל אם אם
+102|06:24|אתה נודר תשלם אז טוב אשר לא תידור כלל
+103|06:27|משתידור ולא תשלם עכשיו הוא מוסיף אל תיתן
+104|06:31|את פיך להחטיא את בשרך
+105|06:37|אם אתה לוקח על עצמך התחייבות ואתה לא
+106|06:41|מקיים אותה אז אתה תקבל פה חיסרון להחטיא
+107|06:47|זה חיסרון חט זה חיסרון להחטיא את בשרך אל
+108|06:51|תיתן את פיך כלומר לפה יש כוח והוא יכול
+109|06:54|אם
+110|06:55|לא תבצע מה שאמרת יכול להיות לך
+111|06:59|פגיעה בגוף אל תיתן את פיך להחטיא את בשרך
+112|07:03|ואל תאמר לפני המלאך כי שגג אתה לא יכול
+113|07:06|להתנצל ולומר לא התכוונתי וכן הלאה למה
+114|07:10|יקצוף האלוקים על כולך וקיבל את מעשה ידיך
+115|07:13|כולך אז שוב יש לנו פה התייחסות נוספת
+116|07:16|דיבור קול מהרגע שהאדם אומר משהו הדבר הזה
+117|07:21|מחייב בכלל גם בבין אדם לחברו כל התחייבות
+118|07:26|ונראה עוד מעט וכמובן שכאן שמדובר על
+119|07:29|התחייבות בפני הקדוש ברוך הוא הלאה נראה

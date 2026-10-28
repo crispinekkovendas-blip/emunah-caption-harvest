@@ -1,0 +1,64 @@
+videoId: L209dTca5_c
+parte 14 de 28 · traduzir as linhas 520 a 559 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ki Tetzê: a força da palavra falada
+RESUMO: O rabino parte dos versículos sobre votos em Devarim 23:22-24 (Ki Tetzê), que mandam não atrasar o cumprimento de um voto e dizem que quem se abstém de fazer votos não peca, e os compara com Kohelet 5, onde o tolo é quem promete e não cumpre. Em seguida traz a Mishná de Bava Metsia 4, segundo a qual quem não sustenta a sua palavra enfrenta Aquele que castigou a geração do Dilúvio e a geração da Dispersão. Para entender a ligação, estuda a Torre de Babel em Bereshit 11, com a explicação de Rashi sobre querer fazer guerra contra HaShem, e a escala dos seres (inanimado, vegetal, animal, falante). Mostra que o Targum de Onkelos traduz Bereshit 2:7 como "espírito falante", ou seja, a fala é a ação da alma no corpo e a roupa do pensamento. Daí explica o termo "não profanará (yachel) sua palavra" de Bamidbar 30, a ideia de profanação como esvaziamento, e fecha com Tehilim 34 (guardar a língua como se guarda o pino de uma granada) e com a Gemará de Sucá 46b, que proíbe prometer algo a uma criança e não cumprir, para não ensiná-la a mentir.
+MOMENTOS: 00:48 Os versículos sobre votos em Ki Tetzê · 03:58 A fala que gera obrigação: "o que disseste com a tua boca" · 05:00 Kohelet 5: o tolo promete e não cumpre · 07:36 Mishná de Bava Metsia: quem não sustenta sua palavra · 15:04 A Torre de Babel e a língua única · 21:56 Inanimado, vegetal, animal e falante · 31:08 Onkelos: "espírito falante" em Bereshit 2:7 · 37:54 A fala como a roupa do pensamento · 46:11 "Não profanará sua palavra": o sentido de profanar · 51:53 Rashi: a geração da Dispersão usou a fala contra HaShem · 58:25 Tehilim 34: guardar a língua como o pino de uma granada · 1:01:18 Gemará de Sucá: não prometer em vão a uma criança
+FONTES CITADAS: 01:00 Devarim 23:22-24 · 05:13 Kohelet 5:3-5 · 06:10 Kohelet 5:4 · 06:31 Kohelet 5:5 · 07:41 Mishná, Bava Metsia 4:2 · 12:11 Bereshit 6:11-13 · 14:22 Mishná, Avot 5:2 · 15:04 Bereshit 11:1 · 16:10 Bereshit 11:3-4 · 17:29 Bereshit 11:5-6 · 18:20 Bereshit 11:7-9 · 19:40 Bereshit 1:28 · 20:09 Bereshit 9:1 · 20:18 Yeshayahu 45:18 · 26:38 Bereshit 2:7 · 29:34 Meguilá 3a · 31:32 Targum Onkelos em Bereshit 2:7 · 37:54 Alma, fala e pensamento na cabalá · 44:11 Os três campos de ação: pensamento, fala e ação · 46:14 Bamidbar 30:3 · 46:47 Devarim 21:1 · 47:34 Shemot 31:14 · 48:21 Vayikra 19:2 · 48:06 Shemot 19:6 · 51:53 Rashi em Bereshit 11:4 · 55:34 Bereshit 1:3 · 55:42 Bênção "shehakol nihyê bidvarô · 55:50 Tehilim 33:6 · 58:27 Tehilim 34:13-14 · 1:01:35 Sucá 46b · 1:03:07 Yirmeyahu 9:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+508|30:09|של אונקלוס הוא תרגום מילולי תרגום מילולי
+509|30:12|פירושו של דבר המילה בעברית מולה המילה
+510|30:15|בלשון הקודש מולה המילה
+511|30:17|בארמית לעומתו יונתן בן עוזאל שקדם לו אגב
+512|30:21|ב-200 שנה בערך יונתן תרגם את התורה את
+513|30:25|התנך את התורה והנביא
+514|30:27|מעברית לארמית אבל לא בתרגום מילולי אלא
+515|30:31|בתרגום ענייני דהיינו הוא מביא גם את
+516|30:34|הרעיונות שמאחורי הדברים ולכן הוא לא
+517|30:36|מתרגם מילה מול מילה יונתן בן עוזיאל
+518|30:39|אנחנו אבל עכשיו נתמקד בתרגום של אונקלוס
+519|30:43|לפסוק הזה ובואו תראו את הסוד שמקובל בפו
+
+LINHAS A TRADUZIR:
+520|30:47|כי מה שקורה שוב כאמור אונגלס מתרגם בדרך
+521|30:52|כלל מילה מול מילה תרגום מילולי יש כמה
+522|30:57|מקומות בתורה שהוא לא מתרגם תרגום מילולי
+523|31:00|אלא הוא חורג ממנהגו ונותן לזה תרגום
+524|31:04|ענייני לא
+525|31:06|מילולי הפסוק הזה הוא אחד
+526|31:08|מהם אז בואו נראה את תרגום אונקלוס
+527|31:12|התרגום כמובן מתרגם את זה לארמית הועיל
+528|31:15|ולא כולם פה דוברי ארמיית מקצועיים כי זאת
+529|31:18|לא שפה שממש מדברים אותה בימינו אני אראה
+530|31:23|לכם את התרגום בארמית וארגם כל מילה חזרה
+531|31:26|ללשון הקודש ואז תוכלו לראות את הההבדל
+532|31:29|אוקיי אז הנה שני הפסוקים זאת אומרת הנה
+533|31:32|הפסוק והתרגום שלו ויצר השם אלוקים את
+534|31:36|האדם נראה את המשפט הזה וברא השם אלוקים
+535|31:41|ית
+536|31:43|אדם זה מאוד מאוד דומה השפות מאוד דומות
+537|31:46|למשל במקום מילה ויצר כתוב פה וברא בריאה
+538|31:52|אז בריאה יצירה לאנשים רבים זה נראה מילים
+539|31:54|נרדפות כך הוא מתרגם את זה ו ר השם אלוקים
+540|31:58|וברא השם אלוקים את האדם מאוד מעניין שימו
+541|32:02|לב ש האות א' בעברית מתחלפת ליי
+542|32:07|בארמית ית אדם את האדם ית אדם הל המילים
+543|32:13|הבאות מאוד דומה עפר מן האדמה מה התרגום
+544|32:17|עפרה מן אדמתה כלומר ממש אותה מילה עם א'
+545|32:22|בסוף אפרה מן עד מתה עד כאן זה תרגום
+546|32:26|מילולי המילה בעברית מולה מילה
+547|32:28|בארמית הלאה ויפח באפיו נשמת חיים אונקלוס
+548|32:33|מתרגם ויפח הוא
+549|32:36|נפח הוא נפח הקדוש ברוך הוא בפו באנ פו הי
+550|32:42|שוב האותיות הפו נמצאות בתוך המילה הארמית
+551|32:46|באנ פוי עם התוספת של
+552|32:48|הה באנ פוי ה ונ
+553|32:53|אוקיי נשמת חיים מתרגל אונקלוס נשמתה נכון
+554|32:59|שוב הא' האופיינית הזאת כמו אפר מן עד מתה
+555|33:02|אז נשמתה במקום
+556|33:04|נשמת חיים
+557|33:07|דחיה הוא מוסיף פה ד' חיה זה חיים דחיה של
+558|33:13|חיים
+559|33:14|ונפח באפיו נשמה של חיים עכשיו בא השינוי

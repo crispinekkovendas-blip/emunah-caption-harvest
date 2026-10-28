@@ -1,0 +1,64 @@
+videoId: L209dTca5_c
+parte 22 de 28 · traduzir as linhas 840 a 879 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ki Tetzê: a força da palavra falada
+RESUMO: O rabino parte dos versículos sobre votos em Devarim 23:22-24 (Ki Tetzê), que mandam não atrasar o cumprimento de um voto e dizem que quem se abstém de fazer votos não peca, e os compara com Kohelet 5, onde o tolo é quem promete e não cumpre. Em seguida traz a Mishná de Bava Metsia 4, segundo a qual quem não sustenta a sua palavra enfrenta Aquele que castigou a geração do Dilúvio e a geração da Dispersão. Para entender a ligação, estuda a Torre de Babel em Bereshit 11, com a explicação de Rashi sobre querer fazer guerra contra HaShem, e a escala dos seres (inanimado, vegetal, animal, falante). Mostra que o Targum de Onkelos traduz Bereshit 2:7 como "espírito falante", ou seja, a fala é a ação da alma no corpo e a roupa do pensamento. Daí explica o termo "não profanará (yachel) sua palavra" de Bamidbar 30, a ideia de profanação como esvaziamento, e fecha com Tehilim 34 (guardar a língua como se guarda o pino de uma granada) e com a Gemará de Sucá 46b, que proíbe prometer algo a uma criança e não cumprir, para não ensiná-la a mentir.
+MOMENTOS: 00:48 Os versículos sobre votos em Ki Tetzê · 03:58 A fala que gera obrigação: "o que disseste com a tua boca" · 05:00 Kohelet 5: o tolo promete e não cumpre · 07:36 Mishná de Bava Metsia: quem não sustenta sua palavra · 15:04 A Torre de Babel e a língua única · 21:56 Inanimado, vegetal, animal e falante · 31:08 Onkelos: "espírito falante" em Bereshit 2:7 · 37:54 A fala como a roupa do pensamento · 46:11 "Não profanará sua palavra": o sentido de profanar · 51:53 Rashi: a geração da Dispersão usou a fala contra HaShem · 58:25 Tehilim 34: guardar a língua como o pino de uma granada · 1:01:18 Gemará de Sucá: não prometer em vão a uma criança
+FONTES CITADAS: 01:00 Devarim 23:22-24 · 05:13 Kohelet 5:3-5 · 06:10 Kohelet 5:4 · 06:31 Kohelet 5:5 · 07:41 Mishná, Bava Metsia 4:2 · 12:11 Bereshit 6:11-13 · 14:22 Mishná, Avot 5:2 · 15:04 Bereshit 11:1 · 16:10 Bereshit 11:3-4 · 17:29 Bereshit 11:5-6 · 18:20 Bereshit 11:7-9 · 19:40 Bereshit 1:28 · 20:09 Bereshit 9:1 · 20:18 Yeshayahu 45:18 · 26:38 Bereshit 2:7 · 29:34 Meguilá 3a · 31:32 Targum Onkelos em Bereshit 2:7 · 37:54 Alma, fala e pensamento na cabalá · 44:11 Os três campos de ação: pensamento, fala e ação · 46:14 Bamidbar 30:3 · 46:47 Devarim 21:1 · 47:34 Shemot 31:14 · 48:21 Vayikra 19:2 · 48:06 Shemot 19:6 · 51:53 Rashi em Bereshit 11:4 · 55:34 Bereshit 1:3 · 55:42 Bênção "shehakol nihyê bidvarô · 55:50 Tehilim 33:6 · 58:27 Tehilim 34:13-14 · 1:01:35 Sucá 46b · 1:03:07 Yirmeyahu 9:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|49:56|נרצח לא דווקא בקרב הגב בתורה כי אם מצא
+829|49:58|חלל נופל באדמה לא נודע מקו זה לא חייב
+830|50:01|להיות מישהו שנפל בקרב אדם שהסתלק ממנו
+831|50:04|נקודת הקובץ שלו שזה
+832|50:07|הנשמה לא יחל דברו יש גם דבר כזה הדיבור
+833|50:11|הוא קדוש מי שמבין את מה שהסברנו בקשר
+834|50:14|לדיבור הדיבור זה הפעולה של הנשמה הקדושה
+835|50:18|בגוף עכשיו ברגע שהנשמה פועלת בגוף
+836|50:22|ויוצאים דיבורים מושכלים כש אדם יודע על
+837|50:26|מה הוא
+838|50:28|התחייב זה מחייב אותו ואם זה לא מחייב
+839|50:32|אותו הוא כלומר אם הוא לא מתח לא עומד
+
+LINHAS A TRADUZIR:
+840|50:36|בהתחייבות הוא מחלל את הדיבור לא יחל
+841|50:43|דברו גם בדברים שבין אדם
+842|50:47|לחברו וזה המשמעות של מי לכן המשנה אומרת
+843|50:51|שמה כשראינו בהתחלה
+844|50:53|ש מי ש אינו עומד בדיבורו מי שפרה מדור
+845|50:58|המבול ומדור
+846|51:00|הפלגה דור הפלגה השתמשו בדיבור כדי לפעול
+847|51:06|נגד התכלית האלוקית אין חילול יותר גדול
+848|51:10|של
+849|51:11|ה דיבור מאשר לקחת את המתנה הייחודית הזאת
+850|51:16|שנתן הקדוש ברוך הוא לאדם ולפעול בה
+851|51:19|כנגדו אז מה עשה הקדוש ברוך הוא לקח להם
+852|51:22|את הדיבור ומאז אף אחד לא מבין אחד את
+853|51:25|השני
+854|51:27|לא ישמעו איש שפת
+855|51:29|ראהו הדיבור אמור לחבר את המציאות הפיזית
+856|51:33|עעם המציאות הרוחנית מה עשו אנשי דור
+857|51:36|הפלגה לקחו את הדיבור כדי לנתק בין הבריאה
+858|51:41|לבין הבורא וזה קשור לא הסברתי את זה כאן
+859|51:44|עכשיו אמרתי לכם שמי שרוצה להבין את
+860|51:46|העניין מה הם רצו לעשות מה זה ונעשה לנו
+861|51:49|שם אז תסתכלו ברשי רשי מביא את
+862|51:53|המדרש מגדל וראשו בשמיים רצו לעלות לשמיים
+863|51:56|ולעשות אמו עם ריבונו של עולם מלחמה נעשה
+864|52:00|לנו שם זאת אומרת אנחנו נקבע את התכלית
+865|52:02|שלנו ולא מתחשבים במה שאתה רוצה ולכן
+866|52:06|הייתה פה מרידה בהשם באמצעות כוח הדיבור
+867|52:11|מה עשה הקדוש ברוך הוא לקח להם את כוח
+868|52:14|הדיבור מי שלא עומד בדיבורו לא ראוי שהוא
+869|52:19|ידבר והקדוש ברוך הוא הייפרה
+870|52:22|ממנו זה נותן הבנה עמוקה הרבה יותר למושג
+871|52:28|דיבור שוא אנחנו מכירים אותו מגיל צעיר
+872|52:30|מאוד נכון מאז שהתחלנו לדבר אנחנו לא הבנו
+873|52:33|אף פעם מה מה מה זה אומר ומה שאמרתי פה
+874|52:36|עכשיו זה עדיין לא כל העניין אם תרצו יש
+875|52:39|שיעורים אחרים שבהם מדבר על כוח הדיבור על
+876|52:41|הנושא של לשון הרע וכן הלאה אז שמה הדברים
+877|52:44|מבוארים הרבה יותר אבל במה שנוגע
+878|52:47|לעניינינו כדי להבין את העניין הזה דיבור
+879|52:51|זה פעולה קדושה של הנשמה בגוף דיבור מושכל

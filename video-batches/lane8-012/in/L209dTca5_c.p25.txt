@@ -1,0 +1,64 @@
+videoId: L209dTca5_c
+parte 26 de 28 · traduzir as linhas 1000 a 1039 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ki Tetzê: a força da palavra falada
+RESUMO: O rabino parte dos versículos sobre votos em Devarim 23:22-24 (Ki Tetzê), que mandam não atrasar o cumprimento de um voto e dizem que quem se abstém de fazer votos não peca, e os compara com Kohelet 5, onde o tolo é quem promete e não cumpre. Em seguida traz a Mishná de Bava Metsia 4, segundo a qual quem não sustenta a sua palavra enfrenta Aquele que castigou a geração do Dilúvio e a geração da Dispersão. Para entender a ligação, estuda a Torre de Babel em Bereshit 11, com a explicação de Rashi sobre querer fazer guerra contra HaShem, e a escala dos seres (inanimado, vegetal, animal, falante). Mostra que o Targum de Onkelos traduz Bereshit 2:7 como "espírito falante", ou seja, a fala é a ação da alma no corpo e a roupa do pensamento. Daí explica o termo "não profanará (yachel) sua palavra" de Bamidbar 30, a ideia de profanação como esvaziamento, e fecha com Tehilim 34 (guardar a língua como se guarda o pino de uma granada) e com a Gemará de Sucá 46b, que proíbe prometer algo a uma criança e não cumprir, para não ensiná-la a mentir.
+MOMENTOS: 00:48 Os versículos sobre votos em Ki Tetzê · 03:58 A fala que gera obrigação: "o que disseste com a tua boca" · 05:00 Kohelet 5: o tolo promete e não cumpre · 07:36 Mishná de Bava Metsia: quem não sustenta sua palavra · 15:04 A Torre de Babel e a língua única · 21:56 Inanimado, vegetal, animal e falante · 31:08 Onkelos: "espírito falante" em Bereshit 2:7 · 37:54 A fala como a roupa do pensamento · 46:11 "Não profanará sua palavra": o sentido de profanar · 51:53 Rashi: a geração da Dispersão usou a fala contra HaShem · 58:25 Tehilim 34: guardar a língua como o pino de uma granada · 1:01:18 Gemará de Sucá: não prometer em vão a uma criança
+FONTES CITADAS: 01:00 Devarim 23:22-24 · 05:13 Kohelet 5:3-5 · 06:10 Kohelet 5:4 · 06:31 Kohelet 5:5 · 07:41 Mishná, Bava Metsia 4:2 · 12:11 Bereshit 6:11-13 · 14:22 Mishná, Avot 5:2 · 15:04 Bereshit 11:1 · 16:10 Bereshit 11:3-4 · 17:29 Bereshit 11:5-6 · 18:20 Bereshit 11:7-9 · 19:40 Bereshit 1:28 · 20:09 Bereshit 9:1 · 20:18 Yeshayahu 45:18 · 26:38 Bereshit 2:7 · 29:34 Meguilá 3a · 31:32 Targum Onkelos em Bereshit 2:7 · 37:54 Alma, fala e pensamento na cabalá · 44:11 Os três campos de ação: pensamento, fala e ação · 46:14 Bamidbar 30:3 · 46:47 Devarim 21:1 · 47:34 Shemot 31:14 · 48:21 Vayikra 19:2 · 48:06 Shemot 19:6 · 51:53 Rashi em Bereshit 11:4 · 55:34 Bereshit 1:3 · 55:42 Bênção "shehakol nihyê bidvarô · 55:50 Tehilim 33:6 · 58:27 Tehilim 34:13-14 · 1:01:35 Sucá 46b · 1:03:07 Yirmeyahu 9:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+988|59:25|הניצרה נוצרת אותו שומרת אותו שההוא לא
+989|59:27|יתפוצץ זה מין מחסום כזה והוא הדין יש
+990|59:31|ניצרה באקדח
+991|59:33|ובוה למה שמים
+992|59:35|ניצרה כי אם זה זה יכול סתם ככה להשתחרר
+993|59:39|ולגרום נזק קטלני ככל שהדבר יותר מסוכן
+994|59:44|שמים לו מקדמי ביטחון ומקדם הביטחון של
+995|59:47|כלי הנשק המודרניים זה ניצרה ניצרה לרימון
+996|59:51|ניצרה לאקדח ניצרה
+997|59:53|לרווה
+998|59:55|הרבה לפני שהמציאו את הרוע והאקדח הראשון
+999|59:59|כתוב בספר תהילים שיש כלי נשק מאוד מאוד
+
+LINHAS A TRADUZIR:
+1000|1:00:03|קטלני ומסוכן כלומר הוא יכול להיות גם
+1001|1:00:06|מבורך מאוד אבל הוא יכול להיות מאוד קטלני
+1002|1:00:08|קוראים לו
+1003|1:00:10|לשון אומר לנו דוד המלך מי שחפץ חיים
+1004|1:00:14|ואוהב ימים לראות טוב
+1005|1:00:17|הלשון שישים לו ניצרה נצור לשונך מרע הרבה
+1006|1:00:23|מהצרות האדם מביא על עצמו בדיבורים
+1007|1:00:27|מיותרים מזיקים דיבורים שיכולים ליצור
+1008|1:00:31|שנאה וקנאה ובסופו של דבר גם
+1009|1:00:35|רצח מילים מסוגלות
+1010|1:00:39|להרוג לאלא רק את הזולת גם את עצמך לכן
+1011|1:00:43|תשמור על הניצרה
+1012|1:00:46|ה נצור לשונך לפני שאתה מפעיל את כלי הנשק
+1013|1:00:51|הזה או את הכלי העוצמתי הזה לפני שאתה
+1014|1:00:56|משחרר את הניצרה תחשוב טוב מה אתה הולך
+1015|1:00:59|לשחרר מכיוון שאם הניצרה משוחררת ואתה
+1016|1:01:02|מדבר חופשי אתה תהרוג את עצמך מי האיש
+1017|1:01:06|החפץ
+1018|1:01:07|חיים אז מי שיש לו ניצרה יש לו סיכוי אוהב
+1019|1:01:11|ימים לראות טוב מי שלא אין לו המילים שלו יהרגו
+1020|1:01:18|אותו הגמרא אומרת במסכת סוכה את הדבר הבא
+1021|1:01:23|תראו הדיבור מחייב לא רק אותנו לא רק
+1022|1:01:27|בינינו לבין חברנו לא רק בינינו לבין
+1023|1:01:30|הקדוש ברוך
+1024|1:01:31|הוא תראו את הגמרא גמרא במסכת סוכה דף מו
+1025|1:01:35|אמר רבי זרא אני אקרא את זה בלשון הגמרא
+1026|1:01:39|בארמית וארגם אמר רבי זרא לא לימה איניש
+1027|1:01:42|לינוק יבנ לח מידי ולא
+1028|1:01:46|יהב תרגום לעברית לא לימה לא יאמר איניש
+1029|1:01:53|אדם לא יאמר ר אדם לינקה ינוקה זה ילד קטן
+1030|1:01:57|לאו דווקא תינוק ינוקה ינוקה
+1031|1:02:01|זה ילד צעיר לא יאמר אדם לילד דיהיב נ לך
+1032|1:02:08|מידי ולא יהיב לי אני אתן לך משהו אני אתן
+1033|1:02:11|לך סוכריה אני אתן לך פרס אני אתן לך
+1034|1:02:14|משהו ולא והוא לא יתן לו אם אתה אומר לילד
+1035|1:02:19|שאתה תיתן לו משהו אז מה שהתחייב תעשה שלא
+1036|1:02:25|יווצר מצב שתגיד לו אני נותן לך ובסוף לא
+1037|1:02:27|תיתן לו מסיבות שונות כאלה ואחרות למה
+1038|1:02:30|אומרת הגמרא משום דעת גמור
+1039|1:02:34|שיקרא מכיוון שהילד

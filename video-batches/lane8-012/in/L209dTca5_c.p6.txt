@@ -1,0 +1,64 @@
+videoId: L209dTca5_c
+parte 7 de 28 · traduzir as linhas 240 a 279 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ki Tetzê: a força da palavra falada
+RESUMO: O rabino parte dos versículos sobre votos em Devarim 23:22-24 (Ki Tetzê), que mandam não atrasar o cumprimento de um voto e dizem que quem se abstém de fazer votos não peca, e os compara com Kohelet 5, onde o tolo é quem promete e não cumpre. Em seguida traz a Mishná de Bava Metsia 4, segundo a qual quem não sustenta a sua palavra enfrenta Aquele que castigou a geração do Dilúvio e a geração da Dispersão. Para entender a ligação, estuda a Torre de Babel em Bereshit 11, com a explicação de Rashi sobre querer fazer guerra contra HaShem, e a escala dos seres (inanimado, vegetal, animal, falante). Mostra que o Targum de Onkelos traduz Bereshit 2:7 como "espírito falante", ou seja, a fala é a ação da alma no corpo e a roupa do pensamento. Daí explica o termo "não profanará (yachel) sua palavra" de Bamidbar 30, a ideia de profanação como esvaziamento, e fecha com Tehilim 34 (guardar a língua como se guarda o pino de uma granada) e com a Gemará de Sucá 46b, que proíbe prometer algo a uma criança e não cumprir, para não ensiná-la a mentir.
+MOMENTOS: 00:48 Os versículos sobre votos em Ki Tetzê · 03:58 A fala que gera obrigação: "o que disseste com a tua boca" · 05:00 Kohelet 5: o tolo promete e não cumpre · 07:36 Mishná de Bava Metsia: quem não sustenta sua palavra · 15:04 A Torre de Babel e a língua única · 21:56 Inanimado, vegetal, animal e falante · 31:08 Onkelos: "espírito falante" em Bereshit 2:7 · 37:54 A fala como a roupa do pensamento · 46:11 "Não profanará sua palavra": o sentido de profanar · 51:53 Rashi: a geração da Dispersão usou a fala contra HaShem · 58:25 Tehilim 34: guardar a língua como o pino de uma granada · 1:01:18 Gemará de Sucá: não prometer em vão a uma criança
+FONTES CITADAS: 01:00 Devarim 23:22-24 · 05:13 Kohelet 5:3-5 · 06:10 Kohelet 5:4 · 06:31 Kohelet 5:5 · 07:41 Mishná, Bava Metsia 4:2 · 12:11 Bereshit 6:11-13 · 14:22 Mishná, Avot 5:2 · 15:04 Bereshit 11:1 · 16:10 Bereshit 11:3-4 · 17:29 Bereshit 11:5-6 · 18:20 Bereshit 11:7-9 · 19:40 Bereshit 1:28 · 20:09 Bereshit 9:1 · 20:18 Yeshayahu 45:18 · 26:38 Bereshit 2:7 · 29:34 Meguilá 3a · 31:32 Targum Onkelos em Bereshit 2:7 · 37:54 Alma, fala e pensamento na cabalá · 44:11 Os três campos de ação: pensamento, fala e ação · 46:14 Bamidbar 30:3 · 46:47 Devarim 21:1 · 47:34 Shemot 31:14 · 48:21 Vayikra 19:2 · 48:06 Shemot 19:6 · 51:53 Rashi em Bereshit 11:4 · 55:34 Bereshit 1:3 · 55:42 Bênção "shehakol nihyê bidvarô · 55:50 Tehilim 33:6 · 58:27 Tehilim 34:13-14 · 1:01:35 Sucá 46b · 1:03:07 Yirmeyahu 9:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|13:39|דבר מאוד מאוד
+229|13:42|רציני יצאנו מזה תזכרו את כל המסע הזה
+230|13:45|יצאנו מהפסוקים בתורה שלושת הפסוקים בתורה
+231|13:48|בספר דברים בפרשה שלנו פרשת כי תצא כי
+232|13:51|תידור נדר להשם לא לא תאחר לשלמו וכולי
+233|13:55|ראינו את הפסוקים גם בקהלת ראינו עכשיו את
+234|13:58|המשנה הזאת במסכת ב המציעה ועכשיו בואו
+235|14:01|ננסה להעמיק טיפה יותר נתחיל אולי מהעניין
+236|14:04|של מה הקשר בין העמידה במילה והעונש הנורא
+237|14:08|שמופיע כאן שקשור למה שהוא מקביל לדור
+238|14:11|המבול ודור
+239|14:13|הפלגה אז לצורך זה בואו נלך לספר בראשית
+
+LINHAS A TRADUZIR:
+240|14:16|ונלך דווקא לדור הפלגה כלומר לדור שבו בנו
+241|14:20|את מגדל
+242|14:22|בבל אז כך כתוב במשנה במסכת אבות רה דורות
+243|14:25|מאדם ועד נוח וכולם היו מכעיסים והולכים
+244|14:31|עד שהביא עליהם את מי
+245|14:32|המבול ערה דורות מנוח ועד אברהם וכולם היו
+246|14:37|מכעיסים והולכים עד שבא אברהם ונטל שכר
+247|14:40|כולם אבל גם הם נענשו בזה שבעצם הקדוש
+248|14:43|ברוך הוא לקח מהם את המתנה שנקראת שפה יש
+249|14:48|בלבול
+250|14:49|השפה הם לא מבינים איש הצפת ראהו בוא נראה
+251|14:52|את הכמה פסוקים האלה בספר בראשית שמתארים
+252|14:55|מה היה כי זה בעצם פותח פה עניין של
+253|14:59|הדיבור נראה ספר בראשית פרק יא פסוק א' וי
+254|15:04|כל הארץ שפה אחת ודברים
+255|15:07|אחדים כולם מדברים שפה אחת זה היה כמובן
+256|15:11|עשרה דורות אחרי שכל העולם הוכחד חוץ מנוח
+257|15:15|ושלושת בניו ולכן כל עשרת הדורות האלה
+258|15:18|דיברו שפה אחת הם היו כולם ילדים של נוח
+259|15:21|לא היו שפות שונות כולם דיברו שפה אחת וי
+260|15:24|כל הארץ שפה אחת ודברים אחדים עכשיו הם ה
+261|15:28|תיבה נחתה על הרי הרהרת שזה מקום בדרומה
+262|15:34|של טורקיה צפון עיראק של ימינו והם נוסעים
+263|15:38|מזרח דרומה וי בנוסע מקדם ויימצאו בקעה
+264|15:42|בארץ שנאר ויישבו שם ארץ שנער זה בבל
+265|15:45|ההיסטורית וזה בעצם עיראק של ימינו בעמק
+266|15:49|שם הם הוצאים ביקה ומתיישבים שם ויאמרו
+267|15:53|אישל ראהו עכשיו הם משתמשים בשפה ויאמרו
+268|15:58|זה מדברים כן ויאמרו כל הארץ שפה אחת
+269|16:01|דברים אחדים כולם מדברים את אותה שפה כולם
+270|16:04|מבינים אחד את השני ועכשיו בואו נראה מה
+271|16:06|הם עושים עם הכלי הזה שנקרא דיבור ויאמרו
+272|16:10|אישל ראהו הו נלבנה לבנים ונשרפה לשרפה
+273|16:13|ותהי להם הלבנה לאבן והחמר היה להם לחומר
+274|16:16|ושוב
+275|16:18|ויאמרו דיבור ויאמרו הו נבנה לנו עיר
+276|16:21|ומגדל וראשו בשמיים ונעשה לנו שם פן נפוץ
+277|16:24|על פני כל הארץ זה מה שהם רצו לעשות מה הם
+278|16:28|רצו הם רצו להתרכז במקום אחד לבנות עיר
+279|16:31|גדולה שכל בעצם תושבי העולם שזה מה שהיה
