@@ -36,5 +36,11 @@
   "GKiiRbwKz9Q.p3",
   "GKiiRbwKz9Q.p4",
   "GKiiRbwKz9Q.p5"
- ]
+ ],
+ "tries": {
+  "3sgoiRToKlk": 1,
+  "GKiiRbwKz9Q": 1
+ },
+ "done": [],
+ "skipped": []
 }
