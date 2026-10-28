@@ -109,5 +109,17 @@
   "uhdk2vGGA90.p13",
   "uhdk2vGGA90.p14",
   "uhdk2vGGA90.p15"
- ]
+ ],
+ "tries": {
+  "AUCG4MzqwXA": 1,
+  "21krfgcXC0I": 1,
+  "uhdk2vGGA90": 1
+ },
+ "done": [
+  "FtSpBnkYHZE",
+  "bSZqZsfKliI",
+  "1M0FvutrmAY",
+  "OmE1wCIB88I"
+ ],
+ "skipped": []
 }

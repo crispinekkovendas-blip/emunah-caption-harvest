@@ -1,0 +1,120 @@
+0	There's more here if you want to share.	Tem mais aqui se você quiser repartir.
+1	Can I have some more?	Posso pegar mais?
+2	Do you want to take some?	Você quer pegar?
+3	No, no, no, I have some, I told you.	Não, não, eu tenho, já disse.
+4	Do you want me to do it? No, I'll do it.	Quer que eu faça? Não, eu faço.
+5	All the best, complete.	Tudo de bom, completo.
+6	All the best, every blessing and success.	Tudo de bom, toda bênção e sucesso.
+7	All the salvations, all the salvations, all the salvations, all the salvations, all	Todas as salvações, todas as salvações, todas as salvações, todas as salvações, todas
+8	the salvations, all the wishes, all the wishes, all the wishes,	as salvações, todos os pedidos, todos os pedidos, todos os pedidos,
+9	may you build and succeed, and succeed.	que você construa e tenha sucesso, e tenha sucesso.
+10	Doing this, Baruch Chai, amen, so may it be His will.	Fazendo isto, Baruch Chai, amém, que assim seja a vontade.
+11	All of you, may there be good news.	Todos vocês, que haja boas notícias.
+12	What are you putting there?	O que você está colocando aí?
+13	How are you?	Como vai?
+14	Rabbi, we are sitting here; tomorrow is the surgery, bless him	Rabino, estamos sentados aqui; amanhã é a cirurgia, abençoe-o
+15	with Moti, may he flourish, and success to all of Israel.	com Moti, que ele floresça, e sucesso a todo o povo de Israel.
+16	What is this? The time has come, gentlemen.	O que é isso? Chegou a hora, senhores.
+17	The time has come, it has arrived.	Chegou a hora, chegou.
+18	Good, just a blessing, Rabbi.	Bom, só uma bênção, Rabino.
+19	Good luck, and all the salvations, good news, blessing, success and everything.	Boa sorte, e todas as salvações, boas notícias, bênção, sucesso e tudo.
+20	Tomorrow, the surgery.	Amanhã, a cirurgia.
+21	Tomorrow, the surgery.	Amanhã, a cirurgia.
+22	Tomorrow, the surgery.	Amanhã, a cirurgia.
+23	Tomorrow, the surgery.	Amanhã, a cirurgia.
+24	Tomorrow, the surgery.	Amanhã, a cirurgia.
+25	Tomorrow, the surgery.	Amanhã, a cirurgia.
+26	Tomorrow, the surgery, now.	Amanhã, a cirurgia, agora.
+27	Amen, amen.	Amém, amém.
+28	May your children's children be around your table.	Que os filhos dos seus filhos estejam ao redor da sua mesa.
+29	Four hundred seventy-six, top.	Quatrocentos e setenta e seis, em cima.
+30	Four hundred seventy-six.	Quatrocentos e setenta e seis.
+31	Top.	Em cima.
+32	May the children be around your table.	Que os filhos estejam ao redor da sua mesa.
+33	Amen, amen.	Amém, amém.
+34	All of this, good news.	Tudo isso, boas notícias.
+35	Amen, Avraham ben Malka.	Amém, Avraham ben Malka.
+36	All the salvations, afterwards with success.	Todas as salvações, depois com sucesso.
+37	What?	O quê?
+38	No, what happened?	Não, o que houve?
+39	One is enough.	Um é suficiente.
+40	You mean	Você quer dizer
+41	everyone.	todos.
+42	Why?	Por quê?
+43	…, of Rabbi …	…, de Rabi …
+44	Good, I'll leave two; you have in mind everyone.	Bom, vou deixar dois; você tem em mente todos.
+45	Ah, right, okay, right.	Ah, certo, tudo bem, certo.
+46	You have …, come on.	Você tem …, vamos.
+47	At night, at night.	À noite, à noite.
+48	Eat first, and everything will pass for you.	Coma primeiro, e tudo vai passar para você.
+49	And I love you very much.	E eu gosto muito de você.
+50	Ivri.	Ivri.
+51	All the best, good news, all the salvations.	Tudo de bom, boas notícias, todas as salvações.
+52	That's amazing, Tamar bat Chatuna Ahuva.	Isso é incrível, Tamar bat Chatuna Ahuva.
+53	Tamar bat Chatuna Ahuva.	Tamar bat Chatuna Ahuva.
+54	Tamar bat Chatuna Ahuva.	Tamar bat Chatuna Ahuva.
+55	Tamar bat Chatuna Ahuva.	Tamar bat Chatuna Ahuva.
+56	Tamar bat Chatuna Ahuva.	Tamar bat Chatuna Ahuva.
+57	Tamar bat Chatuna Ahuva.	Tamar bat Chatuna Ahuva.
+58	Tamar bat Chatuna Ahuva.	Tamar bat Chatuna Ahuva.
+59	Tamar bat Chatuna Ahuva.	Tamar bat Chatuna Ahuva.
+60	Thank you very much, Rabbi. A complete recovery for my wife,	Muito obrigado, Rabino. Uma recuperação completa para minha esposa,
+61	Danit bat Ariela.	Danit bat Ariela.
+62	A complete recovery, all of it, a complete recovery.	Uma recuperação completa, toda ela, uma recuperação completa.
+63	Don't look right and left, look only to the Creator of the world.	Não olhe para a direita e para a esquerda, olhe só para o Criador do mundo.
+64	Everyone, this shows success.	Todos, isso mostra sucesso.
+65	All of her, wrapped in blessing and abundant blessing.	Toda ela, envolta em bênção e em abundante bênção.
+66	Yes, abundant blessing; may she have a complete recovery.	Sim, abundante bênção; que ela tenha uma recuperação completa.
+67	Yaad ben Rivka, come, let us bless him, protect him in all these matters.	Yaad ben Rivka, venha, vamos abençoá-lo, protegê-lo em todas essas questões.
+68	May the angel Raphael accompany his surgery, in all these matters.	Que o anjo Rafael acompanhe a cirurgia dele, em todas essas questões.
+69	Blessed be you.	Bendito seja você.
+70	It could be, and good news.	Pode ser, e boas notícias.
+71	One must say 100 blessings a day; does that include the morning blessings or not?	Deve-se dizer 100 bênçãos por dia; isso inclui as bênçãos da manhã ou não?
+72	All these blessings.	Todas essas bênçãos.
+73	Including the morning ones.	Incluindo as da manhã.
+74	Where did we get to, you said?	Onde chegamos, você disse?
+75	476, top.	476, em cima.
+76	Yes.	Sim.
+77	Yes, baruch HaShem.	Sim, baruch HaShem.
+78	…	…
+79	All the best, success and all these salvations.	Tudo de bom, sucesso e todas essas salvações.
+80	Amen, may it be His will.	Amém, que seja a vontade.
+81	Gentlemen.	Senhores.
+82	Yes, what did you advise?	Sim, o que você aconselhou?
+83	You said: "Kol…", peace, your house,	Vocês disseram: "Kol…", paz, a sua casa,
+84	and the name of ben David.	e o nome de ben David.
+85	All the best, thank HaShem.	Tudo de bom, graças a HaShem.
+86	The holy Zohar says: we mention Rabbi Shimon and his companions,	O santo Zohar diz: mencionamos Rabi Shimon e seus companheiros,
+87	our Eliyahu, Rabbi	nosso Eliyahu, Rabi
+88	Shimon and his companions	Shimon e seus companheiros
+89	not hanging in the heavens,	não pendurado nos céus,
+90	Elokim,	Elokim,
+91	and he spoke further, the second, Noach	e ele falou mais, o segundo, Noach
+92	…	…
+93	Eliyahu for us, thank you very much.	Eliyahu para nós, muito obrigado.
+94	After him you said	Depois dele vocês disseram
+95	each one, it was	cada um, era
+96	Peace,	Paz,
+97	we began	começamos
+98	about him.	sobre ele.
+99	… he is a student of Rabbi Akiva, in a good reading.	… ele é discípulo de Rabi Akiva, numa boa leitura.
+100	… in your merit, … alive …	… pelo seu mérito, … vivo …
+101	… for us.	… para nós.
+102	Thank you very much.	Muito obrigado.
+103	Thank you very much.	Muito obrigado.
+104	Shimon and his companion…	Shimon e seu companheiro…
+105	What?	O quê?
+106	With the help of HaShem, you have no problem, you have nothing.	Com a ajuda de HaShem, você não tem problema, não tem nada.
+107	All good, with the help of HaShem.	Tudo bem, com a ajuda de HaShem.
+108	All is fine, all is fine.	Está tudo bem, está tudo bem.
+109	Rabbi, now they are giving the…	Rabino, agora estão dando o…
+110	Yes, you weren't going to leave?	Sim, vocês não iam embora?
+111	You can stay, there is no	Vocês podem ficar, não há
+112	problem.	problema.
+113	You can also dance.	Vocês também podem dançar.
+114	There is no mourning on Motzaei Shabbat.	Não há luto no Motzei Shabat.
+115	…	…
+116	Now there will be … on Shechem, and this … at the end.	Agora haverá … sobre Shechem, e isto … no final.
+117	I'll stay for sure.	Eu vou ficar com certeza.
+118	Yes.	Sim.
+119	They will also be able to dance.	Eles também poderão dançar.
