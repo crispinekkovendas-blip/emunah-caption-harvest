@@ -1,0 +1,40 @@
+{
+ "name": "lane6-007",
+ "lane": 6,
+ "created": "2026-10-28T02:21:12.844Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "3sgoiRToKlk",
+   "title": "Vayerá: a hospitalidade como segulá para ter filhos",
+   "lines": 1083,
+   "parts": 10,
+   "from": "recente"
+  },
+  {
+   "id": "GKiiRbwKz9Q",
+   "title": "Zohar: as três coisas que trazem mal a quem as faz",
+   "lines": 628,
+   "parts": 6,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "3sgoiRToKlk.p0",
+  "3sgoiRToKlk.p1",
+  "3sgoiRToKlk.p2",
+  "3sgoiRToKlk.p3",
+  "3sgoiRToKlk.p4",
+  "3sgoiRToKlk.p5",
+  "3sgoiRToKlk.p6",
+  "3sgoiRToKlk.p7",
+  "3sgoiRToKlk.p8",
+  "3sgoiRToKlk.p9",
+  "GKiiRbwKz9Q.p0",
+  "GKiiRbwKz9Q.p1",
+  "GKiiRbwKz9Q.p2",
+  "GKiiRbwKz9Q.p3",
+  "GKiiRbwKz9Q.p4",
+  "GKiiRbwKz9Q.p5"
+ ]
+}
