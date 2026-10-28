@@ -1,13 +1,13 @@
 # lane3-018
 
-0 of 6 lessons published · 0 skipped · status **pending**
-Tokens (165 agent runs with a record): 0.8M in (mostly cache) · 0.43M out · API-equivalent 6.93
+0 of 6 lessons published · 1 skipped · status **pending**
+Tokens (279 agent runs with a record): 1.4M in (mostly cache) · 0.74M out · API-equivalent 11.81
 
 | lesson | state | detail |
 |---|---|---|
-| i_Mswjw-dsM | ✗ will be redone (try 1) | 16 lines missing |
-| f6RzqumCjvk | ✗ will be redone (try 1) | 61 lines missing |
-| P9yoql-gaSs | ✗ will be redone (try 1) | 8 lines missing |
-| rKy0q-kMwMo | ✗ will be redone (try 2) | 3 lines missing |
-| GcFPfJDGYbQ | waiting | 26/29 parts |
-| Hm8fk4lF5Cg | ✗ will be redone (try 1) | line 480 twice |
+| i_Mswjw-dsM | waiting | 22/23 parts |
+| f6RzqumCjvk | waiting | 19/21 parts |
+| P9yoql-gaSs | waiting | 15/17 parts |
+| rKy0q-kMwMo | skipped after 3 tries | 1 lines missing |
+| GcFPfJDGYbQ | ✗ will be redone (try 1) | 41 lines missing |
+| Hm8fk4lF5Cg | waiting | 32/34 parts |
