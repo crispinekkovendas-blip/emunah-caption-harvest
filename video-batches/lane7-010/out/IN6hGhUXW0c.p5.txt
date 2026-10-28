@@ -1,0 +1,120 @@
+600	and it ate fresh straw that grew in Nisan and still has moisture, and dry straw of Tishrei, from a field that grew	e comeu palha fresca que cresceu em Nisan e ainda tem umidade, e palha seca de Tishrei, de um campo que cresceu
+601	in Tishrei, a field that grew,	em Tishrei, um campo que cresceu,
+602	right?	certo?
+603	and this one grew on rainfall, or fresh	e este cresceu com a chuva, ou fresca
+604	and dry from an irrigated field that needs watering, or it ate dry and then	e seca de um campo irrigado que precisa de rega, ou comeu seca e depois
+605	fresh. In these cases, if the illness did not pass, it is not	fresca. Nesses casos, se a doença não passou, não é
+606	a mum.	um mum.
+607	Not until it eats the fresh and then the dry.	Só quando comer a fresca e depois a seca.
+608	The way is to eat fresh first and then dry.	O modo é comer primeiro a fresca e depois a seca.
+609	Now, that is how the illness passes.	Agora, é assim que a doença passa.
+610	If it did not pass, it is a mum.	Se não passou, é um mum.
+611	And if it ate the fresh first and then the dry and it did not pass, it is a mum.	E se comeu primeiro a fresca e depois a seca e não passou, é um mum.
+612	But if the order is reversed...	Mas se a ordem for invertida...
+613	it is a doubt.	é uma dúvida.
+614	It still is not...	Ainda não...
+615	we have not done a test.	fizemos o teste.
+616	The test is not a test.	O teste não é um teste.
+617	Do you have to take it to a vet?	É preciso levá-lo ao veterinário?
+618	There is nothing to be done.	Não há o que fazer.
+619	Whose view is our Mishnah? It is Rabbi Yehuda's.	De quem é a opinião da nossa Mishná? É a de Rabi Yehuda.
+620	Our Mishnah says the spots are permanent after eighty days; it is Rabbi Yehuda's, as it was taught:	A nossa Mishná diz que as manchas são permanentes após oitenta dias; é de Rabi Yehuda, pois foi ensinado:
+621	The spots are permanent after forty days.	As manchas são permanentes após quarenta dias.
+622	And if they are permanent after eighty days?	E se são permanentes após oitenta dias?
+623	These are the words of Rabbi Meir.	São as palavras de Rabi Meir.
+624	But Rabbi Yehuda says, spots, eighty days.	Mas Rabi Yehuda diz: manchas, oitenta dias.
+625	And these are the permanent ones: it ate fresh and dry, meaning it ate fresh first and then dry, from	E estas são as permanentes: comeu fresca e seca, isto é, comeu primeiro fresca e depois seca, de
+626	a Beit HaBa'al, meaning a field that grew on rainfall alone,	um Beit HaBa'al, isto é, um campo que cresceu só com a chuva,
+627	alone, and that is its cure. If it was not cured, it is a permanent mum. But	somente, e essa é a sua cura. Se não se curou, é um mum permanente. Mas
+628	if it ate fresh and then dry from a Beit HaShelachin, which needs	se comeu fresca e depois seca de um Beit HaShelachin, que precisa de
+629	irrigation, or if it ate dry and then fresh, not in order, not fresh first and then dry,	irrigação, ou se comeu seca e depois fresca, fora de ordem, não primeiro fresca e depois seca,
+630	there is no mum until it eats fresh and then dry.	não há mum até que coma fresca e depois seca.
+631	That is not...	Isso não é...
+632	it still does not count as the cure.	ainda não conta como a cura.
+633	That is not its cure.	Essa não é a cura
+634	.	dela.
+635	And it has three months.	E tem três meses.
+636	That is, in this test, if it was not healed by the end of three	Isto é, neste teste, se não ficou curado ao fim de três
+637	months, it is a mum.	meses, é um mum.
+638	Now the Gemara: how can we say this?	Agora a Guemará: como se pode dizer isso?
+639	That our Mishnah is like Rabbi Yehuda, and yet it was taught:	Que a nossa Mishná é como Rabi Yehuda, e no entanto foi ensinado:
+640	It ate fresh and dry, of rainfall.	Comeu fresca e seca, de chuva.
+641	Fresh and dry of a Beit HaShelachin; this implies that in both, if it ate fresh and then dry, it is a cure.	Fresca e seca de um Beit HaShelachin; isso implica que em ambos, se comeu fresca e depois seca, é cura.
+642	That is not like Rabbi Yehuda.	Isso não é como Rabi Yehuda.
+643	Rabbi Yehuda: not just rainfall, but a Ba'al field; a Beit HaShelachin, no.	Rabi Yehuda: não qualquer chuva, mas de um campo de Ba'al; de um Beit HaShelachin, não.
+644	The Baraita is missing something, and it teaches thus:	A Baraita está incompleta, e ensina assim:
+645	Missing.	Falta algo.
+646	It ate fresh and dry.	Comeu fresca e seca.
+647	It ate fresh and then ate dry, of rainfall.	Comeu fresca e depois comeu seca, de chuva.
+648	This is a mum.	Isso é um mum.
+649	And if it was not cured, it is a mum.	E se não se curou, é um mum.
+650	But of a Beit HaShelachin, there is no mum.	Mas de um Beit HaShelachin, não há mum.
+651	Furthermore, rainfall: if it ate dry and then fresh,	Além disso, chuva: se comeu seca e depois fresca,
+652	fresh?	fresca?
+653	there is no mum	não há mum
+654	until it eats, first of all,	até que coma, antes de tudo,
+655	dry?	seca?
+656	Sorry.	Desculpe.
+657	Until it eats dry, having eaten fresh.	Até que coma seca, tendo comido fresca.
+658	First fresh, then dry.	Primeiro fresca, depois seca.
+659	And there is...	E há...
+660	Good, we understood the matter.	Bom, entendemos o assunto.
+661	It must be specifically a Ba'al field that gets the rainfall.	Tem de ser especificamente um campo de Ba'al que recebe a chuva.
+662	And first it eats fresh, and then it eats dry.	E primeiro come fresca, e depois come seca.
+663	And it has three months.	E tem três meses.
+664	Here, three months, and it was taught, and Rav	Aqui, três meses, e foi ensinado, e Rav
+665	Adi bar Avin said, Rabbi Yitzchak bar Ashyan said: Adar and Nisan,	Adi bar Avin disse, Rabi Yitzchak bar Ashyan disse: Adar e Nisan,
+666	fresh; the grain in Adar and Nisan is fresh, Elul and Tishrei dry.	frescas; o cereal em Adar e Nisan é fresco, Elul e Tishrei, seco.
+667	So that is four months.	Então são quatro meses.
+668	Adar to the middle of Nisan, fresh.	De Adar até a metade de Nisan, fresco.
+669	So that is already a month and a half.	Então já é um mês e meio.
+670	Elul and half of Tishrei, dry.	Elul e metade de Tishrei, seco.
+671	That makes three.	São três.
+672	The question raised:	A pergunta levantada:
+673	Fresh in the time of fresh, is that so, must it eat?	Fresca no tempo da fresca, é assim, precisa comer?
+674	Fresh in the time of fresh, dry in the time of dry.	Fresca no tempo da fresca, seca no tempo da seca.
+675	Or fresh and dry, both in the time of fresh.	Ou fresca e seca, ambas no tempo da fresca.
+676	Now you tell me fresh is Adar and Nisan, dry is	Agora você me diz que fresca é Adar e Nisan, seca é
+677	Tishrei; so from Adar to Tishrei it must wait? It eats fresh, then we take	Tishrei; então de Adar a Tishrei precisa esperar? Come a fresca, depois pegamos
+678	from Adar to Tishrei it ate dry, and that is a long time,	de Adar a Tishrei comeu a seca, e isso é muito tempo,
+679	or together: it eats fresh and then it eats dry,	ou juntas: come a fresca e depois come a seca,
+680	and we are done; no need to wait for its Tishrei from the previous year.	e acabou; não precisa esperar o seu Tishrei do ano anterior.
+681	The fresh is a bit wet now, right?	A fresca está um pouco úmida agora, certo?
+682	Something like that.	Algo assim.
+683	And the other one is hard.	E a outra é dura.
+684	No, it is all straw.	Não, tudo é palha.
+685	Fresh straw, dry straw.	Palha fresca, palha seca.
+686	Where is that written?	Onde está escrito isso?
+687	So far we have not learned it, maybe soon.	Até agora não estudamos, talvez daqui a pouco.
+688	Ah, good?	Ah, bom?
+689	We will see.	Veremos.
+690	In the meantime, the Gemara raised the question; so what should we make of the Gemara?	Enquanto isso, a Guemará levantou a pergunta; então o que tiramos da Guemará?
+691	The Gemara says, the question is: fresh in the time of fresh, dry in the time of dry,	A Guemará diz, a pergunta é: fresca no tempo da fresca, seca no tempo da seca,
+692	must it be delayed until Tishrei, or perhaps fresh and dry in the time of fresh.	deve-se adiar até Tishrei, ou talvez fresca e seca no tempo da fresca.
+693	The Rashash asks about this: it says three months, but	O Rashash questiona isto: diz três meses, mas
+694	it is written, and it does not need four months or six months, and furthermore	está escrito, e não precisa de quatro meses nem de seis meses, e além disso
+695	the Rashash says, the Gemara does not raise the question of whether we can test fresh and dry in the time of dry.	o Rashash diz, a Guemará não levanta a questão de se podemos testar fresca e seca no tempo da seca.
+696	Now, this is the Rashash.	Agora, este é o Rashash.
+697	Did you see that?	Você viu isso?
+698	Good, onward.	Bom, adiante.
+699	You, what, look into it.	Você, o quê, examine.
+700	Huh?	Hã?
+701	A month and a half, a month and a half.	Um mês e meio, um mês e meio.
+702	Right.	Certo.
+703	The Gemara said at first that it is four months, four months.	A Guemará disse no início que são quatro meses, quatro meses.
+704	Which is a month and a half from here, yes, three.	Que é um mês e meio daqui, sim, três.
+705	No, and it has three months.	Não, e tem três meses.
+706	About this he asks; he says, three months are needed.	Sobre isso ele pergunta; diz, são necessários três meses.
+707	Where would six months come from?	De onde viriam seis meses?
+708	You say fresh in the time of fresh and dry in the time of dry.	Você diz fresca no tempo da fresca e seca no tempo da seca.
+709	That is what he is asking about.	É sobre isso que ele pergunta.
+710	Right.	Certo.
+711	That is what they ask.	É isso que perguntam.
+712	Whether together; the question: fresh in the time of fresh and dry in the time of dry, must it wait from Nisan to Tishrei,	Se juntas; a pergunta: fresca no tempo da fresca e seca no tempo da seca, precisa esperar de Nisan a Tishrei,
+713	or fresh and dry both in the time of fresh.	ou fresca e seca ambas no tempo da fresca.
+714	And what is the answer to this?	E qual é a resposta a isto?
+715	Come and hear: Rav Adi bar Avin said, Rabbi Yitzchak bar Ashyan said: Adar and Nisan fresh,	Vem e escuta: Rav Adi bar Avin disse, Rabi Yitzchak bar Ashyan disse: Adar e Nisan, fresca,
+716	Elul and Tishrei dry. You see, this implies that in Adar and Nisan we feed it the fresh, in Elul and Tishrei	Elul e Tishrei, seca. Veja, isso implica que em Adar e Nisan lhe damos a fresca, em Elul e Tishrei
+717	we feed it the dry, not together. Yes, he says no, perhaps	lhe damos a seca, não juntas. Sim, ele diz que não, talvez
+718	it is in Elul and Tishrei that we feed it both, and not in Adar and Nisan.	seja em Elul e Tishrei que lhe damos ambas, e não em Adar e Nisan.
+719	Perhaps we keep it like this, we set it aside like this, yes, until...	Talvez o guardemos assim, o deixemos de lado assim, sim, até...
