@@ -1,0 +1,64 @@
+videoId: FWCuPqWYkBM
+parte 21 de 25 · traduzir as linhas 800 a 839 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Onde está o túmulo de David? O túnel de Chizkiyáhu
+RESUMO: O rabino resume as aulas anteriores (as pilhagens do túmulo de David por Hurkanus e Herodes e a pergunta de Melachim I 2:10: David foi sepultado na Cidade de David, que ficava na colina oriental, e não no Monte Sião). Como não se pode escavar no Monte Sião, ele propõe achar um fio da meada na Cidade de David e conta como Chizkiyáhu, ameaçado por Sanherív, tapou a fonte do Gichon e cavou o túnel de Shiloach (Melachim II 20:20, Divrê HaYamim II 32:30), com a inscrição de Shiloach. A pergunta central é por que o túnel faz um grande desvio ao sul; Clermont-Ganneau sugeriu que foi para não violar os túmulos da casa de David. O Barão Rothschild financiou a escavação de Raymond Weill (1913), que achou nove cavernas funerárias, mas vazias e sem prova de que seriam reais. A tradição do Monte Sião nasce no relato de Binyamin miTudela (séc. XII), reforçada por Pierotti (1859) e pelo radar de penetração no solo, mas sem prova científica. Ele conclui com uma solução: David está na Cidade de David, e uma caverna liga o Monte Sião a ela, como o Zohar e o Sefer HaTemuná descrevem para Moshê e a Me'arat HaMachpelá; por isso é correto rezar no Monte Sião.
+MOMENTOS: 00:30 Resumo das aulas anteriores: as pilhagens do túmulo · 03:17 Melachim I 2:10: David sepultado na Cidade de David · 04:07 Cidade de David na colina oriental, Monte Sião fora das muralhas · 07:12 Não se pode escavar no Monte Sião; buscar um fio da meada · 10:07 Chizkiyáhu, Sanherív e o problema da água · 15:04 A fonte do Gichon e suas tradições · 22:21 O túnel de Shiloach nos versículos de Melachim II e Divrê HaYamim · 24:53 A inscrição de Shiloach e seu destino · 30:00 O enigma do desvio do túnel e a teoria de Clermont-Ganneau · 36:42 O Barão Rothschild e a escavação de Raymond Weill · 48:08 Binyamin miTudela e o relato dos dois operários judeus · 53:36 Pierotti, o radar e a tradição de Rabi Moshê Chagiz · 1:03:06 Sefer HaTemuná, o Zohar e a solução: caverna ligando as duas colinas
+FONTES CITADAS: 03:17 Melachim I 2:10 · 16:08 Tradição sobre Adam HaRishon · 16:20 Sucá 48b (Tosafot) · 16:26 Yeshayáhu 12:3 · 16:39 Avot deRabi Natan, cap. 35 · 17:08 Melachim I 1:33 · 17:23 Costume do Tashlich · 17:31 Kli Yakar sobre Melachim I 1:33 · 17:49 Discípulo do Ramban · 18:01 Rabi Avraham Azulai, Ir shel Zahav · 22:21 Melachim II 20:20 · 22:40 Divrê HaYamim II 32:30 · 24:53 Inscrição de Shiloach · 33:17 Charles Clermont-Ganneau (1897) · 49:11 Binyamin miTudela, Masaot Binyamin · 53:14 Testemunho de Rabi Yehoshua Diskin (c. 1892) · 54:46 Ermete Pierotti, Jerusalem Explored (1859) · 57:59 Estudo de radar de Amit Re'em (Autoridade de Antiguidades) · 1:00:09 Rabi Moshê Chagiz, Elé HaMitzvot · 1:03:09 Sefer HaTemuná, terceira Temuná, 60b · 1:03:31 Devarim 34:6 · 1:03:48 Zohar, Chukat 183a · 1:04:42 Chadash/Hagaot, Parashat Zot HaBerachá · 1:05:55 Pitach Eliyáhu, Tikunê HaZohar · 1:12:03 Rav Ovadia Yosef / Rav Ovadia Hadaya
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+788|59:02|בעין מדעית הם לא ממהרים להכריז שהם מצאו את קבר דוד, כי באמת הכל יכול להיות שם
+789|59:08|למטה.
+790|59:09|מחילות, מערות, בורות מים נטושים, חדרים חצובים בסלע, אולי אפילו קברים, אבל מי אמר
+791|59:15|שזה קברי בית דוד?
+792|59:16|כל זה נמצא עמוק מתחת לרצפה שבחדר שבו ניצב כיום הציון.
+793|59:22|רבי משה חגיס, אז עד כאן רבותיי, קודם כל הארכיאולוג הזה, מה שהוא מצא הוא לא גילה לנו את
+794|59:28|אמריקה כל כך כי ידענו, אבל סוף סוף מה שאנחנו כן יודעים היום שגם מבחינה מדעית יש שם
+795|59:34|משהו מתחת להר ציון.
+796|59:36|אז מבחינת הסיפורים שמביא לנו רבי בנימין מתודלה זה סיפורים, שתי הצבעים שבאו
+797|59:42|לפנימה עם דיסקין זה סיפורים.
+798|59:45|אחר כך ארמט אפיארוטי קצת יותר ממוסד כי הוא גם משרטט לך את
+799|59:50|המערה ואחר כך המתראם מרשות העתיקות,
+
+LINHAS A TRADUZIR:
+800|59:56|הארכיאולוגיה, הוא מביא מקם חודר קרקע ומאמת את כל הסיפורים האלה.
+801|1:00:00|אבל עדיין אין לנו ראייה מדעית שנמצא הקבר בהר ציון.
+802|1:00:06|אתם איתי?
+803|1:00:08|יופי.
+804|1:00:09|הגאון רבי משה חגיז מחכמי ירושלים לפני 300 שנה, איתו ספר נקרא אלה מסאי, עמוד
+805|1:00:14|ט"ז.
+806|1:00:15|אני קורא, לא יודע, אבל ככה אני קורא.
+807|1:00:17|והאלוקי, מורנו הרב יצחק לוריה זצ"ל, מי זה?
+808|1:00:24|דרוח השם דיבר בו הוא גם כן אישר וקיים
+809|1:00:30|שכל אותו תחום ארץ ישראל בערי הקודש בסימניהם במיצריהם בכל
+810|1:00:35|הקברים המצוינים שם סביב סביב לכל תחום ארץ ישראל וסמך ידו על הכותל המערבי
+811|1:00:41|ועיר דוד שהוא חוץ לחומות ירושלים דשם קברי מלכי בית דוד
+812|1:00:48|ככה הוא כותב אני מגמגם בדברים שכותב פה הרב משה חגיז.
+813|1:00:52|למה?
+814|1:00:53|כי הוא מביא את זה מסוף שער הגלגולים.
+815|1:00:54|ואין את זה בשום מהדורה של סוף שער הגלגולים.
+816|1:00:57|רבינו ארי, בסוף שער הגלגולים, אמרכו כותב שם הקדמה, ל"ח, ל"ט, מ"מ היא
+817|1:01:03|בכלל מדברת על קושיות בזוהר, לא יודע מה הכניסו אותה.
+818|1:01:06|ל"ז, ל"ח, ל"ט, מדבר שם על השורשים של מארכו, יש להם הרבה מקבילות בספר החזיונות,
+819|1:01:12|וגם הוא כותב שם כל הקברים איפה נמצאים.
+820|1:01:15|אז הוא כותב ששם, בסוף שער הגלגולים, הוא מתייחס גם לקבר ב בהר ציון אבל אין את זה
+821|1:01:21|ואני לא יודע מאיפה הוא מביא את זה עכשיו לא חשוד רבי משה חגיז להמציא אבל סוף
+822|1:01:27|סוף בשער הגלגולים של היום שהוא אותנטי זה לא ספר מלפני אלפיים שנה או רזיאל
+823|1:01:33|המלאך לך תאמין לא תאמין אתה מדבר פה על ספר לפני 450 שנה שיש עליו בלי סוף כתבי יד
+824|1:01:39|כתבי יד מה הרחוי יש לנו אותם היום ולא כתוב שם בכלל על קבר בן דוד ולכן אני לא יודע מאיפה
+825|1:01:44|הוא מביא את זה בשם רבנו ארי סוף דבר רבותיי עומדים להגיע לסוף החקירה.
+826|1:01:52|דוד קבור בהר ציון?
+827|1:01:53|כן או לא?
+828|1:01:55|כן או לא?
+829|1:01:58|לא יודע.
+830|1:01:59|בפשט, עוד לא הגענו למסקנה, אבל בפשט, הוא כתוב שהוא קבור בעיר
+831|1:02:04|דוד.
+832|1:02:06|לא מצאנו היום את הקברים.
+833|1:02:08|מה שמצא רימון וויל ספק ספקה, זה עומד על קרי התרנגולת.
+834|1:02:14|מה שיש בהר ציון מבוסס בעיקר על סיפורים, יש שם ודאי
+835|1:02:20|מערות, רק לא, אין לנו מחקר מדעי שהמערות ששם שייכות לקבר דוד
+836|1:02:25|המלך.
+837|1:02:26|אז מה עושים?
+838|1:02:28|אני הולך לתת לכם עכשיו תירוץ שיישב את כל הסוגיה הזאתי, שהתירוץ הזה עלה
+839|1:02:34|לי באמצע תפילת העמידה.

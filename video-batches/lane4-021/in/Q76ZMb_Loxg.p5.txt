@@ -1,0 +1,64 @@
+videoId: Q76ZMb_Loxg
+parte 6 de 24 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayigash: os "vai" de Yaakov, Yosef e o temor a HaShem
+RESUMO: O rabino abre a Parashá Vayigash (Bereshit 44:18) notando que as parashiot sobre Yaakov começam com "Vai/Vayehi", pois a vida de Yaakov foi cheia de sofrimento: Esav, Lavan (cuja alma reencarnou em Bilam e Naval HaCarmeli, segundo o Arizal), Yosef, os 30 anos perdidos por sua queixa a Paro. Em seguida trata da halachá do cão sem corrente (Bava Kama), dos programas de busca de textos e do esforço na Torá. Cita o Zohar (Vayera) sobre Rabi Chizkiyah, que não viu grau mais alto do que o de quem guarda o Brit, e conta histórias do Ben Ish Chai e do Rav Shach no tribunal celeste, além do hidur mitzvá (Shabat 21b, Sucá 41b) nas velas de Chanuká. Explica que Yosef foi governante por temer a HaShem, que o mar se abriu por mérito dele e que não se deve esquecer a origem (Pesachim 66b). Depois discute por que Binyamin não morreu apesar do "brit krutá lasefatayim" (Bereshit 44:9), por que os irmãos se assustaram diante de Yosef e por que Yosef não subiu a seu pai. Termina com "al tachos al kelechem" (Bereshit 45:20) e a quitação de Paro.
+MOMENTOS: 00:54 Os sofrimentos de Yaakov: Esav e Lavan · 02:22 Halachá do cão sem corrente (Bava Kama) · 12:03 Zohar: Yosef governou por guardar o Brit · 18:49 Ben Ish Chai e a moça no tribunal celeste · 24:17 Rav Shach garante a vida de uma mulher · 26:27 Hidur mitzvá e as velas de Chanuká · 31:46 Amor e temor de HaShem: Avraham e Yosef · 35:36 Não esquecer a origem; o orgulho · 41:42 O brit krutá lasefatayim e Binyamin · 45:44 Por que os irmãos se assustaram com Yosef · 49:35 Por que Yosef não foi até seu pai Yaakov · 53:41 Al tachos al kelechem e a quitação de Paro
+FONTES CITADAS: 00:15 Bereshit 44:18 · 00:51 Bereshit Rabá 84:3 (Rashi em Bereshit 37:2) · 01:24 Zohar, Vayetze · 01:26 Arizal sobre os gilgulim · 02:22 Bava Kama 15b · 04:30 Bava Kama 15b · 10:53 Bereshit Rabá 65 · 12:06 Zohar, Vayera · 13:11 Tehilim 102:14 · 16:20 Zohar, Vayera · 23:19 Chulin 7b · 25:23 Bereshit 44:32 · 26:27 Shabat 133b · 26:41 Zohar, Yitro · 27:14 Shabat 21b · 29:46 Sucá 41b · 30:18 Vayikrá 23:40 · 32:08 Bereshit 22:12 · 32:35 Zohar, Vayera · 33:06 Bereshit 25:5 · 33:52 Sotá 36b · 35:22 Tehilim 114:3 · 37:16 Pesachim 66b · 38:18 Bereshit 23:6 · 41:16 Bereshit 44:7 · 41:22 Bereshit 44:9 · 41:42 Moed Katan 18a · 41:52 Bereshit 31:32 · 44:23 Bereshit 45:3 · 45:05 Bereshit 44:20 · 46:06 Zohar, Vayigash · 48:37 Rabi Yaakov Culi, Me'am Lo'ez · 50:30 Zohar, Vayigash · 50:47 Pirkê deRabi Eliezer / Midrash sobre Serach bat Asher · 51:16 Bereshit 45:27 · 51:28 Bereshit 45:26 · 52:05 Bereshit 45:28 · 53:41 Bereshit 45:20 · 55:55 Bereshit 15:13-14 · 56:05 Berachot 9b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|12:18|מה שאנחנו אומרים שבעה מדורי גן עדן יש, כנגד שבעה מדורי גיהינם, זה רק
+189|12:23|השבעה הגדולים.
+190|12:25|בתוכם יש חילוקים וחדרים ואולמות.
+191|12:29|זה הכל, מי שנכנס, הכל לפי הזכויות שלו.
+192|12:32|יש אחד, יש לו רשות להיכנס רק לחדר הראשון.
+193|12:36|השני, יש לו רשות להיכנס גם לחדר השני.
+194|12:38|וככה על זה הדרך, כל אחד נכנס לפי הזכויות שלו.
+195|12:41|ככל שעשה יותר מצוות, נתן יותר צדקות, שבר יותר את המידות שלו, היה קם בלילה, אמרו
+196|12:47|על הרב דוב יפה.
+197|12:49|עליו השלום, צדיק היה.
+198|12:51|והוא, לא היה לו כוח לקום בלילה בשביל הילדים.
+199|12:55|מה נעשה?
+
+LINHAS A TRADUZIR:
+200|12:55|זה הילדים קמים בלילה, והוא רצה ללמוד תורה, והיה מפריע לו כל פעם לקום בלילה בשביל הילדים,
+201|13:01|היה בצער.
+202|13:03|אמר לאשתו, תשמעי, את תקומי לילדים.
+203|13:06|למה?
+204|13:06|את אימא שלהם, את הולדת אותם.
+205|13:08|מה שנאמר, עצת השם, היא תקום.
+206|13:11|אמרה לו, לא, אבל כתוב, אתה תקום, תרחם ציון.
+207|13:15|אתה תקום.
+208|13:16|אמר לה, לא, היא תקום.
+209|13:17|אתה תקום, היא תקום אתה.
+210|13:19|הלכו לרבי.
+211|13:20|הגיעו לרבי, אמרו לו, רבנו, תראה מה שקורה, אני לא יכול, אני קשה לי
+212|13:26|אחרי זה, אני קם בלילות, אחרי זה אני לא לומד טוב בכולל.
+213|13:29|אמר לו הרבי, אבל מה תעשה היא?
+214|13:32|היא אמרה לו, אני גם, אני לא בת אדם, אני גם בן אדם, אני לא מסוגלת, אני קשה לי, ילדים שיהיו
+215|13:38|בריאים, אני לא, זה יצאו עליו, עליו, על אמא שלו יצאו.
+216|13:42|אז שמע את זה ככה הרב, אמר בואו נפסוק לכם, לילה עתה תקום, לילה אי תקום.
+217|13:47|לילה עצת השם היא תקום, לילה אתה תקום תרחם ציון.
+218|13:51|כל לילה משהו אחר.
+219|13:53|טוב, מהלילה הראשון האישה נדבה רוחה ואמרה אני הלילה הראשון, עליי.
+220|13:58|הלכו לישון.
+221|13:59|בלילה קמו הילדים, עשו רעש ובלאגן וצלצולים ולהחליף להם וטיטולים ומוצצים.
+222|14:04|ואתם יודעים מה זה ילד?
+223|14:06|ילד צורח את הנשמה שלו עד שאתה קם, אומר אני רוצה את המוצץ שלי וזה לידו המוצץ שלו.
+224|14:12|זה מעצבן, אבל מה תעשה?
+225|14:13|זה ילדים.
+226|14:14|טוב, אתה ככה קם.
+227|14:17|היא קמה כל הלילה, אחרי זה ביום שלמחרת, את תקריאת שמע על המיטה, אמרה לו, אה,
+228|14:23|דרבאלק, אתה זוכר היום זה התור שלך, שלא תעשה לנו קונצים.
+229|14:27|אמרה, לא בסדר, תור שלי, אני אלך, אני אקום, אל תדאגי.
+230|14:31|הלכו לישון, בבוקר, והנה הבוקר אור, קמו שתיהן.
+231|14:36|אמר לה, וואי, לא קמתי בלילה.
+232|14:38|בתחילה אני לא שמתי לב.
+233|14:40|אמרה לו, מה, לא, אני גם ישנתי שנת ישרים, לא היה לי שום דבר.
+234|14:44|אמר לה, את בטוחה?
+235|14:45|אמרה לו כן, מה זה?
+236|14:47|הלכו לילדים, ראו הכל בסדר.
+237|14:49|טוב, הלכו לישון, לילה אחר, אמר לה, את זוכרת את התור שלך?
+238|14:53|אמרה לו, אתה התחמקת פעם אחת, התחמקת.
+239|14:56|אמר לה, בסדר, התחמקתי, לא יודע מה היה.

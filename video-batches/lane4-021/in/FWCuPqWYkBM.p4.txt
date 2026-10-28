@@ -1,0 +1,64 @@
+videoId: FWCuPqWYkBM
+parte 5 de 25 · traduzir as linhas 160 a 199 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Onde está o túmulo de David? O túnel de Chizkiyáhu
+RESUMO: O rabino resume as aulas anteriores (as pilhagens do túmulo de David por Hurkanus e Herodes e a pergunta de Melachim I 2:10: David foi sepultado na Cidade de David, que ficava na colina oriental, e não no Monte Sião). Como não se pode escavar no Monte Sião, ele propõe achar um fio da meada na Cidade de David e conta como Chizkiyáhu, ameaçado por Sanherív, tapou a fonte do Gichon e cavou o túnel de Shiloach (Melachim II 20:20, Divrê HaYamim II 32:30), com a inscrição de Shiloach. A pergunta central é por que o túnel faz um grande desvio ao sul; Clermont-Ganneau sugeriu que foi para não violar os túmulos da casa de David. O Barão Rothschild financiou a escavação de Raymond Weill (1913), que achou nove cavernas funerárias, mas vazias e sem prova de que seriam reais. A tradição do Monte Sião nasce no relato de Binyamin miTudela (séc. XII), reforçada por Pierotti (1859) e pelo radar de penetração no solo, mas sem prova científica. Ele conclui com uma solução: David está na Cidade de David, e uma caverna liga o Monte Sião a ela, como o Zohar e o Sefer HaTemuná descrevem para Moshê e a Me'arat HaMachpelá; por isso é correto rezar no Monte Sião.
+MOMENTOS: 00:30 Resumo das aulas anteriores: as pilhagens do túmulo · 03:17 Melachim I 2:10: David sepultado na Cidade de David · 04:07 Cidade de David na colina oriental, Monte Sião fora das muralhas · 07:12 Não se pode escavar no Monte Sião; buscar um fio da meada · 10:07 Chizkiyáhu, Sanherív e o problema da água · 15:04 A fonte do Gichon e suas tradições · 22:21 O túnel de Shiloach nos versículos de Melachim II e Divrê HaYamim · 24:53 A inscrição de Shiloach e seu destino · 30:00 O enigma do desvio do túnel e a teoria de Clermont-Ganneau · 36:42 O Barão Rothschild e a escavação de Raymond Weill · 48:08 Binyamin miTudela e o relato dos dois operários judeus · 53:36 Pierotti, o radar e a tradição de Rabi Moshê Chagiz · 1:03:06 Sefer HaTemuná, o Zohar e a solução: caverna ligando as duas colinas
+FONTES CITADAS: 03:17 Melachim I 2:10 · 16:08 Tradição sobre Adam HaRishon · 16:20 Sucá 48b (Tosafot) · 16:26 Yeshayáhu 12:3 · 16:39 Avot deRabi Natan, cap. 35 · 17:08 Melachim I 1:33 · 17:23 Costume do Tashlich · 17:31 Kli Yakar sobre Melachim I 1:33 · 17:49 Discípulo do Ramban · 18:01 Rabi Avraham Azulai, Ir shel Zahav · 22:21 Melachim II 20:20 · 22:40 Divrê HaYamim II 32:30 · 24:53 Inscrição de Shiloach · 33:17 Charles Clermont-Ganneau (1897) · 49:11 Binyamin miTudela, Masaot Binyamin · 53:14 Testemunho de Rabi Yehoshua Diskin (c. 1892) · 54:46 Ermete Pierotti, Jerusalem Explored (1859) · 57:59 Estudo de radar de Amit Re'em (Autoridade de Antiguidades) · 1:00:09 Rabi Moshê Chagiz, Elé HaMitzvot · 1:03:09 Sefer HaTemuná, terceira Temuná, 60b · 1:03:31 Devarim 34:6 · 1:03:48 Zohar, Chukat 183a · 1:04:42 Chadash/Hagaot, Parashat Zot HaBerachá · 1:05:55 Pitach Eliyáhu, Tikunê HaZohar · 1:12:03 Rav Ovadia Yosef / Rav Ovadia Hadaya
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+148|12:01|ירושלים בחומות גבוהות וזה הכוח של ירושלים תמיד היה בכל המלחמות הכוח של
+149|12:06|ירושלים היה שהיא יושבת על גבעה מצד אחד נחל כדרון זה מהצד המזרחי מהצד
+150|12:12|המערבי גיא בן הינום אז היא יושבת בדיוק על הר ומוקפת חומות גבוהות
+151|12:18|ובצורות יש חומות מזמן חזקיהו המלך של שבע מטר עובי חומה
+152|12:24|אפשר לראות אותם בעיר העתיקה במקום שנמצא הרובע היהודי יש שם
+153|12:30|חומות של שבע מטר חומה תבין שאלה חומות שקשה מאוד לכל צבא לכבוש בעובי כזה של
+154|12:36|חומה אז עכשיו נגיד שהצלחנו לגונן על העיר אבל
+155|12:41|צריך מים צריך מים אם הצבא של האשור יקיף
+156|12:47|ויקטר את העיר העתיקה אנחנו צריכים מים לא אכפת לנו שהוא יישאר בחוץ אבל
+157|12:53|אנחנו צריכים מים זה מקור חיים בלי מים כל תושבי ירושלים ימותו
+158|12:59|בצמא איפה המקור מים היחידי שנמצא בירושלים?
+159|13:05|מעיין הגיחון וזה נמצא מחוץ לחומות ירושלים מעיין
+
+LINHAS A TRADUZIR:
+160|13:10|הגיחון מאז ומקדם הייתה בעיית אספקת המים בירושלים מהדילמות הלוגיסטיות המרכזיות של
+161|13:16|העיר מיקומה הטופוגרפי הגבוה הביא לכך שכמעט לא עמדו לרשותה
+162|13:22|שום מקור רשת מים טבעית היא גבוהה מים מחלחלים למקום נמוך תמיד הייתה
+163|13:28|ירושלים מדבר צחיח דרך אגב עד היום כל החוקרים שואלים
+164|13:34|איך בעולם עיר שאין לה נמל אין לה
+165|13:40|נהר אין לה מקורות מים אין לה מכרות זהב או נפט
+166|13:46|מתמודדת עם בעיית מים חריפה יושבת על גב ההר בצד הלא נכון של
+167|13:52|דרכי המסחר הראשיות להגיע אליה סיוט אפילו עד היום זה
+168|13:58|עליות גדולות לרדת ממנה זה ירידות גדולות אתה מדבר פה על חמורים על
+169|14:04|גמלים לא על טסלה שאתה שם גז עם החשמלית איך כל העולם
+170|14:09|רוצים את ירושלים ורצו את ירושלים והיא הפכה לטריטוריה המבוקשת ביותר בהיסטוריה
+171|14:15|האנושית.
+172|14:15|איך?
+173|14:17|אם היה נמל או אם היא הייתה יושבת על דרכי מסחר נוחות לגישה
+174|14:22|מחברת בין דרכים או אם היית רוצה לעבור לעולם העתיק מה
+175|14:28|שנקרא סוריה והלאה מאירופה כשאתה מגיע לא צריך לעלות לירושלים
+176|14:34|ירושלים זה עלייה חדה וירידה חדה אין כאן נמל, אין כאן מקורות מים, אין כאן מקורות
+177|14:40|נפט, מה יש כאן?
+178|14:41|כלום.
+179|14:42|אז איך כולם רוצים את ירושלים?
+180|14:45|אין לזה שום הסבר הגיוני, אם לא הפן המיסטי שלה, עיר
+181|14:51|האלוהים.
+182|14:52|וזה מה שהביא את כולם עוד הפעם ועוד הפעם לכבוש את העיר הזאת.
+183|14:55|על כל פנים, המקור מים היחיד שהביא את ההתיישבות של הגרעין של ירושלים הקדומה,
+184|15:01|זה היה מעיין הגיחון.
+185|15:04|מדובר על מעיין טבעי ממזרח לעיר בעמק קדרון אני רוצה להראות לכם איפה זה נמצא
+186|15:12|בוא נראה אם יש לי פה איזה תמונה של זה נגיד זה התמונה שהראיתי לכם מקודם המעיין
+187|15:17|נמצא כאן פה נמצא המעיין הנה הבריכה תכף אני אדבר בה אבל זה
+188|15:23|המעיין ירושלים מוקפת חומה בזמן חזקיה והמעיין מחוץ
+189|15:29|לתחום של ירושלים אז המעיין הגיחון, מדובר על מעיין טבעי ממזרח לעיר
+190|15:35|בעמק הדרון.
+191|15:36|המעיין נקרא בשם גיחון כי בעבר היו המים מגיחים בפעימות קצובות
+192|15:42|כמו קצב של לב.
+193|15:43|פעם, פעם, פעם.
+194|15:46|אם היית בא פעם למעיין הגיחון, היית רואה שהנביעה שיוצאת מתחת לאדמה,
+195|15:52|היא יוצאת בבהימות.
+196|15:54|פעם, פעם, שפריצן של מים.
+197|15:56|פעם, פעם.
+198|15:57|גיחון, מלשון הגחה, כי הם מגיחים מהאדמה.
+199|16:03|היום המעיין הזה כבר לא מגיח מהאדמה, אבל השם נשאר כמו שהוא גיחון.

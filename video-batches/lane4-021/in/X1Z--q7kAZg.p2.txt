@@ -1,0 +1,64 @@
+videoId: X1Z--q7kAZg
+parte 3 de 15 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Por que Yaakov temia Esav: "por que serei privada de vocês dois
+RESUMO: O rabino parte do versículo de Bereshit 32 (Vayishlach), em que Yaakov envia mensageiros a Esav, e pergunta por que Yaakov teme, já que "quem vem para te matar, antecipe-se e mate-o" (Sanhedrin 72a, Berachot 58a). Com a parábola do rei e do astrólogo, explica o Midrash: Rivká disse em profecia "por que serei privada de vocês dois num só dia", e Yaakov temia que, se matasse Esav, ele mesmo morresse no mesmo dia. Daí o rabino trata do sentido de "também", do rompimento do ventre de Rivká por Esav, de que quem não tem filhos é considerado morto (Nedarim 64b, Zohar), de Chana (Berachot 31b), do "livro de registro" de cada alma e de gerar filhos após a meia-noite de Shabat. Explica que Esav e Yishmael serviram para retirar a escória de Yitzchak e Avraham (Pesachim 56a), e conta o fim de Esav na Gemará de Sotá 13a, em que Chushim ben Dan decapita Esav na Meárat HaMachpelá, ligando isso ao Nachash e à cabalá (Kidushin 29b). Outra razão: Yaakov temia perder Rabi Meir, descendente de Esav (Yevamot 62b), e Moshé olhou "cá e lá" antes de matar o egípcio (Zohar); matar uma pessoa é matar todos os seus descendentes (Rashi em Bereshit 4:10). O final traz relatos de viagens, a divergência sobre Tachanun num casamento e um apelo de tzedaká.
+MOMENTOS: 00:40 Yaakov envia mensageiros a Esav (Bereshit 32) · 01:05 Primeira pergunta: por que Yaakov teme se pode ir atrás de Esav · 02:20 Segunda pergunta: temia matar Esav ou ser morto · 02:46 "Quem vem para te matar, antecipe-se" (Sanhedrin 72a) · 03:23 Parábola do rei e do astrólogo · 05:26 Rivká profetiza: por que serei privada de vocês dois · 08:48 Quem não tem filhos é considerado morto · 10:15 O livro de registro da alma e filhos após a meia-noite de Shabat · 14:20 Esav e Yishmael tiram a escória de Yitzchak e Avraham · 16:06 Sepultamento de Yaakov e a morte de Esav por Chushim ben Dan · 18:52 Esav como reencarnação do Nachash e a cabeça cortada · 21:56 Yaakov temia perder Rabi Meir · 23:29 Matar uma pessoa é matar seus descendentes
+FONTES CITADAS: 00:40 Bereshit 32:4-6 · 02:20 Bereshit 32:8 · 02:20 Bereshit Rabá 76:2 · 02:46 Sanhedrin 72a; Berachot 58a · 03:23 Parábola do rei e do astrólogo · 05:26 Bereshit 27:45 · 05:49 Cântico dos Cânticos 4:2 · 06:51 Bereshit 25:1 · 07:20 Bereshit Rabá 63 · 08:37 Yevamot 65b · 09:07 Bereshit 30:1 · 09:09 Nedarim 64b · 09:09 Zohar Vayetzé; Zohar Bereshit · 09:18 Berachot 31b · 09:36 Bemidbar 5:28 · 10:42 Berachot 31b · 12:25 Shemot 2:1 · 12:25 Zohar Shemot · 12:39 Shemot 2:2 · 12:51 Zohar Shemot · 13:47 Bereshit 25:21 · 14:42 Pesachim 56a · 16:09 Sotá 13a · 17:06 Bereshit 50:5 · 17:13 Bereshit 48:7 · 18:59 Reencarnações de Chavá, Adam e o Nachash · 21:24 Kidushin 29b · 22:17 Yevamot 62b · 22:55 Zohar Shemot · 22:59 Shemot 2:12 · 23:34 Bereshit 4:10 · 23:37 Rashi em Bereshit 4:10 · 31:31 Salmos 137:5 · 38:19 Makot 23b · 38:19 Yeshayáhu 42:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|05:07|בכוכבים שביום שאני הולך למות, ‫אתה תמות יום אחרי.
+69|05:13|‫אמר את זה, מה אתה אומר?
+70|05:15|תשמרו עליו מהיום, תנו לו מה שהוא רוצה, שיאכל, שישתה, תגנו
+71|05:20|עליו.
+72|05:21|זהו, ככה היה.
+73|05:23|קשר את הגורל שלו עם הגורל שלו, וככה לא קרה לו כלום.
+74|05:26|רבקה עליה השלום הייתה צדיקה גדולה, והיא הייתה נביאה.
+75|05:31|שרה, רבקה, רחל, חנה, כולן היו נביאות, צדיקות היו.
+76|05:35|ורוח הקודש הייתה צולחת עליהן.
+77|05:38|ורבקה אמרה ברוח הקודש, למה אשכל גם שניכם יום אחד?
+78|05:43|שאל המדרש, מה זה גם?
+79|05:45|למה אשקל שניכם?
+
+LINHAS A TRADUZIR:
+80|05:46|למה אני אהיה אם שכולה?
+81|05:48|למה?
+82|05:49|זה מה שאומר השיר השירים.
+83|05:52|שכולה אין בה אם.
+84|05:53|מה זה?
+85|05:54|למה שאני אהיה אם שכולה?
+86|05:57|מילא, למה אשקל שניכם יום אחד?
+87|06:00|מה זה גם?
+88|06:01|את מי עוד את שוכלת?
+89|06:02|במי את?
+90|06:03|את בשכול, את בעבל, על מי עוד?
+91|06:04|מה זה גם?
+92|06:06|אלא היא רצתה הרבה ילדים.
+93|06:07|מי רוצה שיביאו לו שתי ילדים?
+94|06:09|מה אנחנו...
+95|06:11|אלה מתל אביב רוצים שתי ילדים וקלב?
+96|06:15|לא אנחנו רוצים תביאו שבעה תביאו שמונה תביאו תשעה ילדים זה ברכה
+97|06:21|אה משה עשרה ילדים עשרה?
+98|06:24|יש לך עשרה שאתה ממליץ לאחרים עשרה?
+99|06:28|אה עשרה מיליון אולי יש לה אה יפה בלי עין
+100|06:33|הרע אז עכשיו מה שנהיה שעכשיו רבקה מה פתאום הביאה שתי
+101|06:39|ילדים?
+102|06:41|מה את תל אביבית?
+103|06:42|לא יכלת להביא עוד ילדים?
+104|06:44|היית מביאה עוד ילדים?
+105|06:45|היה לנו עוד שבטים, היו צדיקים, היו עוד נשים ירי שמיים בעולם, מה זה שתי ילדים?
+106|06:51|אברהם אבינו גם אחרי ששרה מתה, חזר לקח את קטורה הזאתי הגר, ולמה שמע
+107|06:57|קטורה?
+108|06:58|נעים ממעשיה קטורת, עשתה תשובה הגר, והביא עוד ילדים, ופרה ורבה בארץ
+109|07:03|אברהם, זה שיצחק יקרא לך זרה זה יצחק המובחר הקצף את האליטה
+110|07:09|וייתן לו כל אשר לו ליצחק בנו הכל נתן לו את כל הברכות את כל הכסף את הכל נתן ליצחק אבל
+111|07:15|הביא הרבה ילדים מה יש רבקה פה הביאה רק שתי ילדים מה קרה ורק הריון
+112|07:20|אחד והייתה הערה פעם אחת ודי אלא אומר המדרש וזה כולכם
+113|07:26|מכירים שבשעה שבאו להוציא את עשיו מהרחם של רבקה אמר מה זה
+114|07:32|לא מספיק לי זה אני צריך להתמודד איתו עם הפרנקל איזה
+115|07:38|יעקב הזה אני צריך להתמודד איתו?
+116|07:41|עוד אמא שלי עוד תביא עוד ילדים זאתי?
+117|07:43|אני אראה לה מה זה תפס לה את הרחם תפסו את עשיו מהרגליים להוציא אותו הוא לא רצה לצאת
+118|07:50|משכו אותו ומשך לה את הרחם ועקר לרבקה את הרחם מהמקום והייתה כולו כולו
+119|07:56|היה מתבוסס בדם ביצה השני כולו אדום למה אדום?

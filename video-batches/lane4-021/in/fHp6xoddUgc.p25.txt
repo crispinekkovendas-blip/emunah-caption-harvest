@@ -1,0 +1,64 @@
+videoId: fHp6xoddUgc
+parte 26 de 30 · traduzir as linhas 1000 a 1039 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Nekudat Emet: o eu, a vontade e a visão de vida
+RESUMO: O rabino abre dizendo que tudo o que ensina vem de Baal HaSulam e propõe uma viagem para explicar o que é Nekudat Emet. Começa perguntando o que é o "eu" e o que é a vida, e os alunos não conseguem definir nenhum dos dois. Usa a imagem da navegação, que exige ponto de partida e ponto de chegada, e afirma que o ponto de partida é o próprio ser humano, que é a vontade (ratzon). A meta da vida é passar de uma forma de vontade errada, egoísta como a da criança, para uma forma certa, de doação. Lembra a pergunta de Avraham Avinu sobre quem move o mundo e explica que HaShem criou o desejo de receber para poder fazer o bem. Cita "não há pobreza senão no conhecimento" (Nedarim 41a), com Rashi entendendo daat como vontade. Ensina que a carência do outro (filho, cônjuge) é uma oportunidade, e usa o noivo sob a chupá que assume "outra daat" e a formiga na panela (Chulin) como imagens da unidade do casal. Depois divide a vontade em três níveis: prazeres deste mundo, o que a alma humana quer (graça, importância, domínio) e conhecimentos. Mostra então como a vontade gera uma visão de vida sombria ("sou um fracasso", "não sou amado"), que provoca emoções tóxicas, como a preocupação, e daí doenças. Por fim, diz que cada pessoa tem também uma visão de vida luminosa, como Rabi Akiva em "tudo o que o Misericordioso faz é para o bem". O processo de Nekudat Emet (físico, emocional e de consciência) revela essa visão, e a pessoa passa a poder escolher.
+MOMENTOS: 00:24 Abertura: o objetivo do curso e Nekudat Emet · 01:16 O que é o "eu"? Os alunos não conseguem definir · 04:37 O que é a vida? Tentativas de definição · 06:34 A imagem da navegação: ponto de partida e chegada · 09:02 Avraham Avinu e a necessidade de conhecer o Criador · 10:46 O ser humano é a vontade; mudar a si mesmo · 12:25 A criança como pura vontade e por que HaShem criou o desejo de receber · 19:18 Pobreza é falta de daat, não falta de posses · 23:12 A carência do outro como oportunidade e presente · 25:46 A chupá, a daat adicional e a formiga na panela · 33:00 Prioridades: cônjuge, filhos, círculos; honrar os pais · 36:15 A Torá como ferramenta: do egoísmo ao altruísmo · 40:25 Os três níveis da vontade · 47:55 Visão de vida: o desejo cria a sensação do oposto · 54:37 Emoções tóxicas e doenças · 1:01:45 O versículo pessoal, o processo e a escolha
+FONTES CITADAS: 00:05 Baal HaSulam · 09:02 Bereshit Rabá 39:1 · 10:29 Pirkei Avot 2:7 · 15:14 Baal HaSulam, propósito da Criação · 15:36 Cabalá, Sefirá Keter · 16:54 Baal Shem Tov · 20:00 Nedarim 41a · 20:11 Nedarim 41a · 20:20 Rashi, daat como vontade · 21:21 Baal HaSulam · 25:46 Yerushalmi Bikkurim 3:3 · 28:36 Chulin 100a; Shulchan Arukh, Yoreh Deá 100:1 · 35:02 Shemot 20:12 · 37:21 Baruch SheAmar · 38:46 Tehilim · 42:15 Mishlei 20:27 · 49:09 Chafetz Chaim · 51:59 Bereshit 4:7 · 52:56 Chazal, nefesh como vontade · 53:20 Pesachim 49b · 53:28 Berachot 60b · 1:01:26 Berachot 60b · 1:01:32 Taanit 21a · 1:01:45 Arizal
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+988|53:53|שזה השלב הבא שלנו המציאות הרגשית מה קורה לה אם אני בתפיסת חיים מחשיכה איזה
+989|53:59|רגשות יעלו לי נפלאות אהבת העולם, אהבת חיים, שמחה מאושרת,
+990|54:06|כל העושר, נכון?
+991|54:10|כל הרגשות השליליים יקפצו לי.
+992|54:14|רגש שלילי, יותר רעיל מקוקה קולה, מקפה, ממה שאתם
+993|54:20|רוצים.
+994|54:20|תקראו לזה איך שאתם רוצים.
+995|54:22|תביאו לי את כל האוכלים המורקסים והזה, מה שאתם רוצים, כל האוכלים הלא רעילים.
+996|54:26|קחו רגש רעיל אחד מתוך המערכת, אני לא יודע פי כמה יותר רעיל.
+997|54:32|עכשיו בואו תנסו לראות מתוך הרגשות שיש לנו, השליליים, תכף נעבור לחיובים.
+998|54:37|מתוך הרגשות השליליים שיש לנו, מי הוא הרוצח השקט?
+999|54:44|איזה רגש שלילי מתוך הרגשות השליליים שיש לנו, הוא הרוצח השקט?
+
+LINHAS A TRADUZIR:
+1000|54:49|כעס שקט.
+1001|54:51|כעס שקט.
+1002|54:53|גאווה.
+1003|54:56|גאווה זה לא רגש, זה...
+1004|54:59|אה, לסיים?
+1005|55:07|לא קנאה ולא שנאה, שנאה וכעס זה רגשות צועקים, זה אש בוערת, זה
+1006|55:13|בכלל לא דומם וזה לא שקט וזה לא הורג אותנו בשקט, אני רוצה את זה שהורג אותנו בשקט,
+1007|55:20|עצבות לא הורגת אותנו בשקט, התעלמות שמתעלמים ממך זה יוצא
+1008|55:26|רגש, אני מחפש את הרגש זה יודע, זה פלא פלאים, אני כבר לא יודע כמה שנים בתוך התרועה, אף פעם
+1009|55:32|לא עולים על זה.
+1010|55:34|פחד?
+1011|55:34|האצלות.
+1012|55:34|האצלות זה לא, זה לא רגש.
+1013|55:36|פחד?
+1014|55:36|האצלות זה לא רגש.
+1015|55:39|פחד?
+1016|55:39|כמה דברים, אני לא רואה כלום.
+1017|55:42|אה, טוב.
+1018|55:45|לא, לא פחד, דאגה.
+1019|55:47|דאגה, דאגה.
+1020|55:51|בטח, מה זה?
+1021|55:53|בטח.
+1022|55:55|די אגב.
+1023|55:56|למה, למה אנחנו קוראים לזה רוצח השקד עם סיבה פשוטה?
+1024|55:59|הוא רעיל בדיוק כמו כל שאר הרגשות.
+1025|56:04|זה דומה.
+1026|56:06|בסדר, רק רגע, זה פתרונות, אני לא רוצה, אני רוצה את הדבר עצמו.
+1027|56:09|להבין שזה רעילות רגשית.
+1028|56:12|עכשיו, שימו לב מה קורה בדור שלנו.
+1029|56:16|מי לא דואג?
+1030|56:21|מי לא דואג?
+1031|56:23|אין כזה דבר.
+1032|56:26|עכשיו, כשיש רגש שלילי בתוך הלב, זה
+1033|56:32|משחרר רעילות למערכת.
+1034|56:35|עכשיו, רגש חיובי לא יודע להיכנס כשיש רגש שלילי.
+1035|56:40|הוא לא מכיר.
+1036|56:41|לא יודע את הדרך.
+1037|56:43|אי אפשר, זה לא עובד ביחד.
+1038|56:46|אין שתי רגשות בו זמנית.
+1039|56:48|אין, יש אחד אחרי השני, יכול להיות מהר, אבל זה אחד אחרי השני.

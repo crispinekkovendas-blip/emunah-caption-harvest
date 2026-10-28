@@ -1,0 +1,64 @@
+videoId: FWCuPqWYkBM
+parte 17 de 25 · traduzir as linhas 640 a 679 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Onde está o túmulo de David? O túnel de Chizkiyáhu
+RESUMO: O rabino resume as aulas anteriores (as pilhagens do túmulo de David por Hurkanus e Herodes e a pergunta de Melachim I 2:10: David foi sepultado na Cidade de David, que ficava na colina oriental, e não no Monte Sião). Como não se pode escavar no Monte Sião, ele propõe achar um fio da meada na Cidade de David e conta como Chizkiyáhu, ameaçado por Sanherív, tapou a fonte do Gichon e cavou o túnel de Shiloach (Melachim II 20:20, Divrê HaYamim II 32:30), com a inscrição de Shiloach. A pergunta central é por que o túnel faz um grande desvio ao sul; Clermont-Ganneau sugeriu que foi para não violar os túmulos da casa de David. O Barão Rothschild financiou a escavação de Raymond Weill (1913), que achou nove cavernas funerárias, mas vazias e sem prova de que seriam reais. A tradição do Monte Sião nasce no relato de Binyamin miTudela (séc. XII), reforçada por Pierotti (1859) e pelo radar de penetração no solo, mas sem prova científica. Ele conclui com uma solução: David está na Cidade de David, e uma caverna liga o Monte Sião a ela, como o Zohar e o Sefer HaTemuná descrevem para Moshê e a Me'arat HaMachpelá; por isso é correto rezar no Monte Sião.
+MOMENTOS: 00:30 Resumo das aulas anteriores: as pilhagens do túmulo · 03:17 Melachim I 2:10: David sepultado na Cidade de David · 04:07 Cidade de David na colina oriental, Monte Sião fora das muralhas · 07:12 Não se pode escavar no Monte Sião; buscar um fio da meada · 10:07 Chizkiyáhu, Sanherív e o problema da água · 15:04 A fonte do Gichon e suas tradições · 22:21 O túnel de Shiloach nos versículos de Melachim II e Divrê HaYamim · 24:53 A inscrição de Shiloach e seu destino · 30:00 O enigma do desvio do túnel e a teoria de Clermont-Ganneau · 36:42 O Barão Rothschild e a escavação de Raymond Weill · 48:08 Binyamin miTudela e o relato dos dois operários judeus · 53:36 Pierotti, o radar e a tradição de Rabi Moshê Chagiz · 1:03:06 Sefer HaTemuná, o Zohar e a solução: caverna ligando as duas colinas
+FONTES CITADAS: 03:17 Melachim I 2:10 · 16:08 Tradição sobre Adam HaRishon · 16:20 Sucá 48b (Tosafot) · 16:26 Yeshayáhu 12:3 · 16:39 Avot deRabi Natan, cap. 35 · 17:08 Melachim I 1:33 · 17:23 Costume do Tashlich · 17:31 Kli Yakar sobre Melachim I 1:33 · 17:49 Discípulo do Ramban · 18:01 Rabi Avraham Azulai, Ir shel Zahav · 22:21 Melachim II 20:20 · 22:40 Divrê HaYamim II 32:30 · 24:53 Inscrição de Shiloach · 33:17 Charles Clermont-Ganneau (1897) · 49:11 Binyamin miTudela, Masaot Binyamin · 53:14 Testemunho de Rabi Yehoshua Diskin (c. 1892) · 54:46 Ermete Pierotti, Jerusalem Explored (1859) · 57:59 Estudo de radar de Amit Re'em (Autoridade de Antiguidades) · 1:00:09 Rabi Moshê Chagiz, Elé HaMitzvot · 1:03:09 Sefer HaTemuná, terceira Temuná, 60b · 1:03:31 Devarim 34:6 · 1:03:48 Zohar, Chukat 183a · 1:04:42 Chadash/Hagaot, Parashat Zot HaBerachá · 1:05:55 Pitach Eliyáhu, Tikunê HaZohar · 1:12:03 Rav Ovadia Yosef / Rav Ovadia Hadaya
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+628|46:45|אין שום קשר בין הר ציון לעיר דוד.
+629|46:47|אתה נמצא בפלונטר עכשיו.
+630|46:49|אז עכשיו תחזור חזרה לקושייה.
+631|46:51|אז איפה הוא קבור?
+632|46:53|אני לא אומר שאם לא נחפור בהר ציון לא נמצא את הקברים של דוד.
+633|46:58|אני רק אומר שלעת עתה אין לנו שום ראייה מקראית
+634|47:04|או ארכיאולוגית שהוא קבור בהר ציון.
+635|47:06|אין, בינתיים.
+636|47:07|עוד לא גמרתי את השיעור.
+637|47:08|אבל בינתיים אין שום ראייה.
+638|47:10|אתם מסכימים עם זה?
+639|47:11|ברור שאין שום ראייה?
+
+LINHAS A TRADUZIR:
+640|47:13|אין גם ראייה שמה שמצא ויל זה קברי דוד.
+641|47:16|אין ראייה.
+642|47:17|גם אין ראייה שלא, אבל אין ראייה שכן.
+643|47:20|אז אם אין ראייה שכן, אז זה לא.
+644|47:22|אז חזרנו לקושייה, אז איפה דוד המלך קבור?
+645|47:27|נו, מה יצא?
+646|47:29|קודם כל, כשאתה הולך לחקור על דבר כזה, אתה צריך למצוא מי הראשון שמזכיר את המסורת הזאת שהוא
+647|47:34|בכלל קבור בהר ציון.
+648|47:36|מאיפה זה יצא?
+649|47:37|מאיפה זה יצא?
+650|47:38|אז כנראה אחרי שהפכתי בדבר והפכתי ואמרתי לכם שעות אני יושב על ספרים קורא
+651|47:44|תחקירים קורא מחקרים קורא דברים באנגלית כל מיני מחקרים
+652|47:48|האוביל הזה כל התדפיס דוח שלו הכל זה באנגלית
+653|47:55|דברים עד שמצאתי הראשון שמזכיר ומקשר את הר ציון לקבר
+654|48:01|דוד המלך היה הנוסע המפורסם מימי הביניים מי אם לא
+655|48:08|בנימין מתודלה.
+656|48:10|הוא ביקר במאה ה-12 בירושלים ובספר המקסים שלו מסעות בנימין
+657|48:16|שדרך אגב תורגם לעשרות שפות.
+658|48:20|עשרות שפות.
+659|48:21|יש לו שם משקולות וצבעים ותיאורים ודרכי מסחר מסביר לך דברים
+660|48:27|מדהימים על עיניים שלנו בימי הביניים.
+661|48:30|לא רק...
+662|48:31|איפה הוא לא ביקר?
+663|48:31|איפה הוא לא ביקר?
+664|48:33|לא רק בארץ ישראל, בכל המקומות בעולם הוא ביקר.
+665|48:36|יש שם סיפור מרתק ודרמטי בספר שלו מסעות בנימין שהוא כותב שהוא שמע את
+666|48:42|הסיפור מהרב אברהם חסיד ירושלים כנראה זה היה איזה דמות מאוד
+667|48:47|מפורסמת על האופן שבו ירדו שני יהודים אל מעבה האדמה תחת
+668|48:53|הר ציון זמן קצר לפני שהוא הגיע לשם בסך הכל 15 שנה לפני שהוא היה שם
+669|48:59|זאת אומרת הוא שומע סיפור שהתרחש לפני 15 שנה זה לא הרבה לא
+670|49:05|הרבה חמש עשרה שנה סביב שנת אלף מאה חמישים וחמש נו
+671|49:11|אז מה הסיפור בואו אני קורא לכם רבי בנימין מתודלה ובהר ציון קברי בית דוד
+672|49:17|וקברי המלכים אשר קמו אחריו ואין המקום ידוע אלא מלפני חמש
+673|49:23|עשרה שנה מאז המקום ידוע נפל כותל אחד מן הבמה
+674|49:29|אשר בהר ציון וציווה הפטריאח הנוצרי
+675|49:34|לממונה שלו קח את האבנים מהחומות הקדמונים ובנה ממנו במה
+676|49:41|והוא עשה כן לבנות במה שמה בהר ציון.
+677|49:45|שכר פועלים ובין הפועלים היו שני אנשים בעלי ברית היינו
+678|49:51|יהודים יום אחד הלכו כל הפועלים למשתה היה יום עידם
+679|49:57|היה איזה חף של הנוצרים אני יודע ההילולה של ישו אז הלכו

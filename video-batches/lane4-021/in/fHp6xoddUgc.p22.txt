@@ -1,0 +1,64 @@
+videoId: fHp6xoddUgc
+parte 23 de 30 · traduzir as linhas 880 a 919 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Nekudat Emet: o eu, a vontade e a visão de vida
+RESUMO: O rabino abre dizendo que tudo o que ensina vem de Baal HaSulam e propõe uma viagem para explicar o que é Nekudat Emet. Começa perguntando o que é o "eu" e o que é a vida, e os alunos não conseguem definir nenhum dos dois. Usa a imagem da navegação, que exige ponto de partida e ponto de chegada, e afirma que o ponto de partida é o próprio ser humano, que é a vontade (ratzon). A meta da vida é passar de uma forma de vontade errada, egoísta como a da criança, para uma forma certa, de doação. Lembra a pergunta de Avraham Avinu sobre quem move o mundo e explica que HaShem criou o desejo de receber para poder fazer o bem. Cita "não há pobreza senão no conhecimento" (Nedarim 41a), com Rashi entendendo daat como vontade. Ensina que a carência do outro (filho, cônjuge) é uma oportunidade, e usa o noivo sob a chupá que assume "outra daat" e a formiga na panela (Chulin) como imagens da unidade do casal. Depois divide a vontade em três níveis: prazeres deste mundo, o que a alma humana quer (graça, importância, domínio) e conhecimentos. Mostra então como a vontade gera uma visão de vida sombria ("sou um fracasso", "não sou amado"), que provoca emoções tóxicas, como a preocupação, e daí doenças. Por fim, diz que cada pessoa tem também uma visão de vida luminosa, como Rabi Akiva em "tudo o que o Misericordioso faz é para o bem". O processo de Nekudat Emet (físico, emocional e de consciência) revela essa visão, e a pessoa passa a poder escolher.
+MOMENTOS: 00:24 Abertura: o objetivo do curso e Nekudat Emet · 01:16 O que é o "eu"? Os alunos não conseguem definir · 04:37 O que é a vida? Tentativas de definição · 06:34 A imagem da navegação: ponto de partida e chegada · 09:02 Avraham Avinu e a necessidade de conhecer o Criador · 10:46 O ser humano é a vontade; mudar a si mesmo · 12:25 A criança como pura vontade e por que HaShem criou o desejo de receber · 19:18 Pobreza é falta de daat, não falta de posses · 23:12 A carência do outro como oportunidade e presente · 25:46 A chupá, a daat adicional e a formiga na panela · 33:00 Prioridades: cônjuge, filhos, círculos; honrar os pais · 36:15 A Torá como ferramenta: do egoísmo ao altruísmo · 40:25 Os três níveis da vontade · 47:55 Visão de vida: o desejo cria a sensação do oposto · 54:37 Emoções tóxicas e doenças · 1:01:45 O versículo pessoal, o processo e a escolha
+FONTES CITADAS: 00:05 Baal HaSulam · 09:02 Bereshit Rabá 39:1 · 10:29 Pirkei Avot 2:7 · 15:14 Baal HaSulam, propósito da Criação · 15:36 Cabalá, Sefirá Keter · 16:54 Baal Shem Tov · 20:00 Nedarim 41a · 20:11 Nedarim 41a · 20:20 Rashi, daat como vontade · 21:21 Baal HaSulam · 25:46 Yerushalmi Bikkurim 3:3 · 28:36 Chulin 100a; Shulchan Arukh, Yoreh Deá 100:1 · 35:02 Shemot 20:12 · 37:21 Baruch SheAmar · 38:46 Tehilim · 42:15 Mishlei 20:27 · 49:09 Chafetz Chaim · 51:59 Bereshit 4:7 · 52:56 Chazal, nefesh como vontade · 53:20 Pesachim 49b · 53:28 Berachot 60b · 1:01:26 Berachot 60b · 1:01:32 Taanit 21a · 1:01:45 Arizal
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+868|47:33|היפותטי כזה, אף אחד לא מכיר, לא רוצה הצלחה.
+869|47:39|בדור שלנו אף אחד לא מכיר את זה.
+870|47:42|אם אני רוצה לקבל הצלחה, מה אני אומר באותו רגע?
+871|47:47|שימו לב, אני אומר שתי דברים.
+872|47:51|לא, לא.
+873|47:53|ביחס להצלחה רק.
+874|47:55|בסדר?
+875|47:56|אני שואף להצלחה.
+876|47:58|באופן טבעי כשאני שואף לדבר עצמו, יש לי אותו, אין לי אותו.
+877|48:02|יופי, החוויה שלי הפנימית אומרת שמה, אני מצליח או הפוך?
+878|48:13|אני שואף להצליח.
+879|48:13|אם אני שואף לדבר, יש לי אותו או אין לי אותו?
+
+LINHAS A TRADUZIR:
+880|48:15|אין לי אותו.
+881|48:16|אם אני רוצה להצליח, אני שואף להצליחה.
+882|48:18|מה זה אומר עליי?
+883|48:19|אתה רוצה לענות.
+884|48:21|שאני מצליח או לא מצליח?
+885|48:23|אני לא מצליח.
+886|48:24|אם אני אהפוך את זה להעניק כישלון, מסתדר לכם?
+887|48:27|כן.
+888|48:29|יופי.
+889|48:30|הנה תפיסת חיים.
+890|48:33|עוד פעם, אני חוזר עוד פעם.
+891|48:35|אני יודע, זה פשוט, ובגלל שזה פשוט, זה מסובך.
+892|48:36|לא, עכשיו טוב אם אני רוצה להצליח, מה זה?
+893|48:40|לא אמרתי שיש בעיה.
+894|48:41|אני רק אמרתי שזה יוצר אצלך בנפש תפיסת חיים של אני כישלון.
+895|48:44|אז אתה לא תרצה להצליח?
+896|48:46|לא אמרתי, אתה תרצה עוד יותר להצליח.
+897|48:49|אתה תרצה, כן, אתה גם תרצה להצליח להצליח, אבל אתה תרצה להצליח כל הזמן.
+898|48:53|עכשיו בוא אני אגיד לכם איך זה עובד.
+899|49:03|אני אסביר את זה בצורה אחרת, בסדר, אצל נשים.
+900|49:09|אמר החפץ חיים, שאיפתה של אישה, זה?
+901|49:15|גברים?
+902|49:16|בואו נראה אתכם.
+903|49:16|זה מבחן לכל הנישואים פה
+904|49:23|עכשיו.
+905|49:23|בדיוק.
+906|49:24|לא בדיוק.
+907|49:25|אף על פי שאביזה זה...
+908|49:29|היא חפצה לנצור חן בעיני בעלה.
+909|49:34|זה מה שהיא חפצה.
+910|49:36|עכשיו, אם אתה בא הביתה ומתלונן על הצד השני, יש לך ביקורת על הצד
+911|49:42|השני, מה גרמת לצד השני להרגיש?
+912|49:46|שהוא מוצא חן או לא מוצא חן?
+913|49:48|אבל היא שואפת למה?
+914|49:50|מילאת לה את הכלי או שהיא הורקנת לה אותו?
+915|49:53|אז זה עכשיו, מה החוויה שלה?
+916|49:55|שהיא לא מוצאת חן.
+917|49:57|אותו דבר.
+918|49:59|יש לה, אם זה ימשיך ויהיה, וימשיך ויהיה, וימשיך ויהיה, זה ייתפס אצלה כתפיסת חיים, אני לא
+919|50:03|מוצא אתכם בעיניו.

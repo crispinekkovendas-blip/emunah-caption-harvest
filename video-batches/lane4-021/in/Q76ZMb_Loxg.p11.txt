@@ -1,0 +1,64 @@
+videoId: Q76ZMb_Loxg
+parte 12 de 24 · traduzir as linhas 440 a 479 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayigash: os "vai" de Yaakov, Yosef e o temor a HaShem
+RESUMO: O rabino abre a Parashá Vayigash (Bereshit 44:18) notando que as parashiot sobre Yaakov começam com "Vai/Vayehi", pois a vida de Yaakov foi cheia de sofrimento: Esav, Lavan (cuja alma reencarnou em Bilam e Naval HaCarmeli, segundo o Arizal), Yosef, os 30 anos perdidos por sua queixa a Paro. Em seguida trata da halachá do cão sem corrente (Bava Kama), dos programas de busca de textos e do esforço na Torá. Cita o Zohar (Vayera) sobre Rabi Chizkiyah, que não viu grau mais alto do que o de quem guarda o Brit, e conta histórias do Ben Ish Chai e do Rav Shach no tribunal celeste, além do hidur mitzvá (Shabat 21b, Sucá 41b) nas velas de Chanuká. Explica que Yosef foi governante por temer a HaShem, que o mar se abriu por mérito dele e que não se deve esquecer a origem (Pesachim 66b). Depois discute por que Binyamin não morreu apesar do "brit krutá lasefatayim" (Bereshit 44:9), por que os irmãos se assustaram diante de Yosef e por que Yosef não subiu a seu pai. Termina com "al tachos al kelechem" (Bereshit 45:20) e a quitação de Paro.
+MOMENTOS: 00:54 Os sofrimentos de Yaakov: Esav e Lavan · 02:22 Halachá do cão sem corrente (Bava Kama) · 12:03 Zohar: Yosef governou por guardar o Brit · 18:49 Ben Ish Chai e a moça no tribunal celeste · 24:17 Rav Shach garante a vida de uma mulher · 26:27 Hidur mitzvá e as velas de Chanuká · 31:46 Amor e temor de HaShem: Avraham e Yosef · 35:36 Não esquecer a origem; o orgulho · 41:42 O brit krutá lasefatayim e Binyamin · 45:44 Por que os irmãos se assustaram com Yosef · 49:35 Por que Yosef não foi até seu pai Yaakov · 53:41 Al tachos al kelechem e a quitação de Paro
+FONTES CITADAS: 00:15 Bereshit 44:18 · 00:51 Bereshit Rabá 84:3 (Rashi em Bereshit 37:2) · 01:24 Zohar, Vayetze · 01:26 Arizal sobre os gilgulim · 02:22 Bava Kama 15b · 04:30 Bava Kama 15b · 10:53 Bereshit Rabá 65 · 12:06 Zohar, Vayera · 13:11 Tehilim 102:14 · 16:20 Zohar, Vayera · 23:19 Chulin 7b · 25:23 Bereshit 44:32 · 26:27 Shabat 133b · 26:41 Zohar, Yitro · 27:14 Shabat 21b · 29:46 Sucá 41b · 30:18 Vayikrá 23:40 · 32:08 Bereshit 22:12 · 32:35 Zohar, Vayera · 33:06 Bereshit 25:5 · 33:52 Sotá 36b · 35:22 Tehilim 114:3 · 37:16 Pesachim 66b · 38:18 Bereshit 23:6 · 41:16 Bereshit 44:7 · 41:22 Bereshit 44:9 · 41:42 Moed Katan 18a · 41:52 Bereshit 31:32 · 44:23 Bereshit 45:3 · 45:05 Bereshit 44:20 · 46:06 Zohar, Vayigash · 48:37 Rabi Yaakov Culi, Me'am Lo'ez · 50:30 Zohar, Vayigash · 50:47 Pirkê deRabi Eliezer / Midrash sobre Serach bat Asher · 51:16 Bereshit 45:27 · 51:28 Bereshit 45:26 · 52:05 Bereshit 45:28 · 53:41 Bereshit 45:20 · 55:55 Bereshit 15:13-14 · 56:05 Berachot 9b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+428|26:36|התנאה לפניו במצוות, שהמצוות יהיו חביבות עליך, תייקר אותן.
+429|26:41|תוציא מהכסף שלך לכבוד המצוות של השם זה מראה שאתה אוהב אותו כמו שאומר הזוהר יתרו דף
+430|26:47|צדיק ג' על הפסוק כבד את השם מעוניך מעוניך
+431|26:52|מממוניך שהיה לך כסף תוציא במיוחד על נרות חנוכה
+432|26:58|רב שמעון איפה החנוכיה איפה אה הבאתם שלה ביוקר השנה בדרך כלל כל
+433|27:04|שנה מביאים פה איזה נרות מסכנים ככה כאן פעם הבאתם יפה או יפה
+434|27:10|נרות חנוכה, יש מצווה להאדר אותם יותר מהכל.
+435|27:13|ולמה?
+436|27:14|כותב הראש וגם הריף, מסכת שבת, בדף כ"א, שרב אומנה אומר,
+437|27:20|הזעיר בנר אביאן לבנים תלמידי חכמים.
+438|27:22|הוא לא אמר איזה נר.
+439|27:23|עכשיו, אם אני הייתי לומד את הסוגיה הזאת כפשטה, הייתי אומר, הזעיר בנר שבת.
+
+LINHAS A TRADUZIR:
+440|27:28|איזה מסכת אנחנו עוסקים?
+441|27:30|חנוכה.
+442|27:31|אין מסכת חנוכה.
+443|27:32|שו"ת שלי, מרכבות ארגמן, חלק...
+444|27:35|חלק ג' סימן ט"ו, אני הערכתי למה אין מסכת חנוכה וכן יש מסכת מגילה.
+445|27:41|מה קרה שאין חנוכה?
+446|27:42|אין אפילו משניות חנוכה.
+447|27:44|חנוכה נזכרת פעם אחת במשנה מסכת בבא קמא שהיא מדברת על אחד שנשא את הגמל
+448|27:49|והחציר שלו שרף עם דרות חנוכה, הוא שם בכניסה, לא משנה.
+449|27:53|אבל אין מסכת חנוכה, למה אין חנוכה?
+450|27:57|אז זו שאלה, אז תפתחו, הבאתי כמה וכמה תירוצים למה אין מסכת חנוכה.
+451|28:01|שמה פלפלתי בארוכה, ובסוף גם כתבתי ביאור על דרך הסוד, על הפיוט מה עצור
+452|28:07|ישועתי.
+453|28:08|תפתחו ותראו שמה.
+454|28:09|או לפי זה, הגמרא אומרת, כן, בכ"א, מהי חנוכה?
+455|28:13|עמוד ב', אבל אין מסכת חנוכה.
+456|28:15|הגמרא מדברת על חנוכה, אבל אין מסכת מיוחדת לחנוכה.
+457|28:18|למה יש מסכת מגילה?
+458|28:20|אז שיהיה מסכת חנוכה.
+459|28:21|אז גם שאלה, למה אמרו מסכת מגילה ולא מסכת פורים?
+460|28:24|שיהיה מסכת פורים.
+461|28:26|הגמרא מסכת מגילה לא מדברת רק על מגילה, מדברת גם על פורים.
+462|28:30|טוב, שנגיע לפורים ניגע בזה.
+463|28:32|איך שיהיה, שאלה.
+464|28:34|עכשיו, סוף סוף, מה אומר?
+465|28:39|יש ספרים על חנוכה, אבל אני מסבר על מסכתות, שרבי סידר את המשניות, למה לא סידר משניות חנוכה?
+466|28:44|אז לא משניות חנוכה, כמו שאין משניות פורים, יש משניות מגילה, אז שיהיה משניות חנוכיה, מה
+467|28:50|הבעיה?
+468|28:51|באמת שאלה.
+469|28:52|בכל מקרה, מה שלמדנו, שצריך להיעדר בנרות חנוכה, אני הייתי אומר שכשהגמרה אומרת, אמר רב
+470|28:58|אונה, דף כ"ג, מסכת שבת, אז העיר בנר אביאן לבנים תלמידי חכמים.
+471|29:03|איזה מסכת אנחנו עוסקים?
+472|29:04|מסכת שבת.
+473|29:05|על איזה נר רב אונה מדבר?
+474|29:07|נר שבת.
+475|29:08|אז היה צריך להגיד, אמר רב אונה, אז העיר בנר שבת, אביאן לבנים תלמידי חכמים.
+476|29:13|והוא לא אומר את זה, הוא אומר אז העיר בנר, הוא לא אומר נר שבת.
+477|29:18|ריף כותב אז העיר בנר שבת ונר חנוכה אביען לבנים תלמידי
+478|29:24|חכמים ראש כותב אז העיר בנר חנוכה אביען לבנים תלמידי חכמים הוא אפילו לא
+479|29:30|מזכיר שבת ותראו איזה מעלה היה לנר חנוכה שהיה צריך לעדר אותו.

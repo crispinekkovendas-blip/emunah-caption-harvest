@@ -1,0 +1,64 @@
+videoId: JyH1f4nnLCc
+parte 14 de 24 · traduzir as linhas 520 a 559 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O mundo como corredor: alegria de viver nas provações
+RESUMO: O rabino Zamir Cohen abre com as provações da vida (middot, mitzvot, shalom bait, dinheiro, saúde) e propõe uma ferramenta: a Mishná em Avot, segundo a qual este mundo é um corredor diante do Mundo Vindouro e o homem deve se preparar no corredor para entrar no salão. Explica as diferenças entre corredor e salão (temporário, estreito, escuro), ensina que o corpo é um instrumento de ginástica da alma, com o Ari z"l e a história do dibuk contada pelo Rav Eliyahu Lapian, e cita Berachot, "tudo o que o Misericordioso faz, faz para o bem", e a parábola do café com leite. Cita Mishlei (sete vezes cai o justo e se levanta; casa dos ímpios e tenda dos justos, com o Gaon de Vilna; "no riso também dói o coração"), Kohelet e a Tosefta sobre a medida boa ser 500 vezes maior, com o exemplo de Avraham e "yukach na meat mayim". Conta a parábola do rei de um ano que construiu uma cidade na ilha, ligada a Mishlei 31 (Eshet Chayil, "e ri do dia final"). Na parte de perguntas, fala de Kidush HaShem no exterior (com a história do vendedor de bilhetes alemão) e, citando o Rambam (Hilchot Deot) e o Talmud Yerushalmi, de por que cuidar da saúde faz parte do serviço a HaShem.
+MOMENTOS: 00:18 As provações da vida e o desejo de manter a alegria · 02:07 A Mishná em Avot: o mundo é um corredor · 04:45 Diferenças entre o corredor e o salão · 07:03 O que é essencial e o que é secundário na vida · 09:38 A história do dibuk: quem morre não muda mais · 13:37 Tudo o que o Misericordioso faz é para o bem · 14:11 A parábola do café com leite · 17:27 Sete vezes cai o justo e se levanta · 21:15 Casa dos ímpios e tenda dos justos (Gaon de Vilna) · 23:52 No riso também dói o coração; o primeiro ano de casamento · 28:36 A medida boa é 500 vezes maior: Avraham e a água · 31:20 A parábola do rei de um ano · 38:50 Eshet Chayil: o justo ri do dia final · 44:17 Kidush HaShem ao viajar ao exterior · 48:41 Cuidar da saúde como serviço a HaShem (Rambam)
+FONTES CITADAS: 02:07 Mishná, Avot 4:16 · 03:34 Ari z"l, Shaar HaGilgulim (introdução) · 08:09 Rav Eliyahu Lapian, Lev Eliyahu · 08:36 Rav Yehuda Petaya, Minchat Yehuda (Ruchot Mesaprot) · 12:46 Kohelet 12:7 · 13:42 Berachot 60b · 17:27 Mishlei 24:16 · 18:58 Kohelet 9:10 · 21:15 Mishlei 14:11 · 22:34 Gaon de Vilna em Mishlei 14:11 · 23:28 Mishlei 14:12 · 23:52 Mishlei 14:13 · 25:19 Devarim 24:5 · 25:50 Rav Dessler · 26:11 Massechet Derech Eretz · 28:07 Mishlei 14:14 · 28:36 Tosefta Sotá 3 · 29:30 Bereshit 18:4 · 29:41 Bava Metzia 86b e Tosefta · 38:50 Mishlei 31:10 · 39:04 Mishlei 31:15 · 39:10 Mishlei 31:25 · 39:28 Rashi em Mishlei · 44:20 Yoma 86a · 43:09 Amos 8:11 · 45:12 Shulchan Arukh, Choshen Mishpat 348 · 47:15 Kohelet 11:1 · 48:41 Rambam, Mishné Torá, Hilchot Deot 4 · 49:40 Talmud Yerushalmi, Avodá Zará
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+508|27:33|אומר שלמה, גם בסחוק יכאב לב.
+509|27:37|אדם שמעביר את הזמן על צחוק ועל שטויות,
+510|27:40|אפילו שזה דבר המותר, לא נכשל בדברים
+511|27:43|האסורים, אומר בסוף יכאב הלב. הוא לא אומר
+512|27:46|יענש, אומר, אבל הלב יכאב. למה? למה
+513|27:48|בזבזתי את הזמן במקום לשבת? ללמוד, לעזור
+514|27:51|לאשתי, לשבת עם הילדים, לעשות חסדים.
+515|27:55|ואחריתה שמחה תוגה. האחרית של השמחה הזאת
+516|27:59|שהוא צוחק וצוהל, מרגיש עכשיו נחמד, בסוף
+517|28:02|מגיעה תוגה. מה זה תוגה? יגון. פסוק הבא.
+518|28:07|מדרכיו ישבע סוג לב ומעליו איש טוב. סוג
+519|28:12|לב זה אדם שהוא נסוג. כך מסבירים כאן
+
+LINHAS A TRADUZIR:
+520|28:15|המפרשים. אדם שהוא נסוג מהדרך הישרה,
+521|28:18|כלומר סותא מהדרך הנכונה ומאוות את
+522|28:21|הדרכים, אז הוא בסופו של דבר מדרכיו סבבה.
+523|28:24|מה שעשה לא טוב, משם הוא יסבע, יראה את
+524|28:27|הפירות בהמשך.
+525|28:29|ומעליו איש טוב. לעומת זאת, אדם שהוא איש
+526|28:33|טוב הולך בדרך טובה, הוא גם ישבע, אבל הוא
+527|28:36|סבע פי כמה ממנו. חז"ל אמרו שמידה טובה,
+528|28:40|פרס שהקדוש ברוך הוא נותן לאדם על מעשה
+529|28:42|טוב, הפיף 500 ממידת פורענות. אדם עשה
+530|28:47|מעשה רע, הוא יקבל מידה כנגד מידה. אבל
+531|28:50|עשה מעשה טוב, הוא יקבל במידה כנגד מידה
+532|28:53|פי 500 ממה שהוא עשה. ושם בתוספתה גם
+533|28:57|נכתבה לפני כ-2000 שנה, חז"ל מביאים רשימה
+534|28:59|של דוגמאות מהתנ"ך שאדם עשה מעשה קטן,
+535|29:02|תראה מה הוא קיבל אחר כך.
+536|29:06|על אברהם אבינו כתוב שכשבאו אליו שלושת
+537|29:08|האורחים שהוא חשב שהם ערבים,
+538|29:11|קיבל אותם יפה. היה יום חם אחרי שהוא עשה
+539|29:14|ברית מילה, הקדוש ברוך הוא הוציא חמה מן
+540|29:16|ארתיקה שיהיה חום כדי שלא יבוא אליו
+541|29:18|אורחים, שיוכל לנוח. והוא ישב פתח האוהל
+542|29:21|כחום היום, אולי בכל זאת יבוא איזה אורח.
+543|29:24|ובאו שלושת המלאכים האלה שנדמו לו כערבים
+544|29:27|והוא רץ לקראתם, מזמין אותם ושם הוא אומר
+545|29:30|יוקחנה מעט מים.
+546|29:34|הוא השתמש במילים מעט מים והלך הביא להם
+547|29:37|מים שישתו שילחצו את הרגליים מהאבק
+548|29:41|אומרים חז"ל בזכות יוקחנה מעט מים עם
+549|29:44|ישראל זכו
+550|29:47|למים 40 שנה כשהיו במדבר להשקות את כל
+551|29:50|ישראל
+552|29:53|ללכת במדבר עם שלם 40 שנה צריך ניסים כדי
+553|29:57|שיהיה להם מים והיה להם בערה של מרים גם
+554|29:59|הזכות של מרים שם הייתה רק בזכותה היה
+555|30:02|בצורה כזאת
+556|30:03|אבל הבסיס של המים שזכו עם ישראל במדבר
+557|30:08|יוקחנ מעט מים. אתה מרגיש מה כבר עשיתי?
+558|30:10|עזרתי לבן אדם, חייכתי אלה, נתתי לו הרגשה
+559|30:13|טובה.

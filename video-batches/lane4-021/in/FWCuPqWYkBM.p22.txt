@@ -1,0 +1,64 @@
+videoId: FWCuPqWYkBM
+parte 23 de 25 · traduzir as linhas 880 a 919 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Onde está o túmulo de David? O túnel de Chizkiyáhu
+RESUMO: O rabino resume as aulas anteriores (as pilhagens do túmulo de David por Hurkanus e Herodes e a pergunta de Melachim I 2:10: David foi sepultado na Cidade de David, que ficava na colina oriental, e não no Monte Sião). Como não se pode escavar no Monte Sião, ele propõe achar um fio da meada na Cidade de David e conta como Chizkiyáhu, ameaçado por Sanherív, tapou a fonte do Gichon e cavou o túnel de Shiloach (Melachim II 20:20, Divrê HaYamim II 32:30), com a inscrição de Shiloach. A pergunta central é por que o túnel faz um grande desvio ao sul; Clermont-Ganneau sugeriu que foi para não violar os túmulos da casa de David. O Barão Rothschild financiou a escavação de Raymond Weill (1913), que achou nove cavernas funerárias, mas vazias e sem prova de que seriam reais. A tradição do Monte Sião nasce no relato de Binyamin miTudela (séc. XII), reforçada por Pierotti (1859) e pelo radar de penetração no solo, mas sem prova científica. Ele conclui com uma solução: David está na Cidade de David, e uma caverna liga o Monte Sião a ela, como o Zohar e o Sefer HaTemuná descrevem para Moshê e a Me'arat HaMachpelá; por isso é correto rezar no Monte Sião.
+MOMENTOS: 00:30 Resumo das aulas anteriores: as pilhagens do túmulo · 03:17 Melachim I 2:10: David sepultado na Cidade de David · 04:07 Cidade de David na colina oriental, Monte Sião fora das muralhas · 07:12 Não se pode escavar no Monte Sião; buscar um fio da meada · 10:07 Chizkiyáhu, Sanherív e o problema da água · 15:04 A fonte do Gichon e suas tradições · 22:21 O túnel de Shiloach nos versículos de Melachim II e Divrê HaYamim · 24:53 A inscrição de Shiloach e seu destino · 30:00 O enigma do desvio do túnel e a teoria de Clermont-Ganneau · 36:42 O Barão Rothschild e a escavação de Raymond Weill · 48:08 Binyamin miTudela e o relato dos dois operários judeus · 53:36 Pierotti, o radar e a tradição de Rabi Moshê Chagiz · 1:03:06 Sefer HaTemuná, o Zohar e a solução: caverna ligando as duas colinas
+FONTES CITADAS: 03:17 Melachim I 2:10 · 16:08 Tradição sobre Adam HaRishon · 16:20 Sucá 48b (Tosafot) · 16:26 Yeshayáhu 12:3 · 16:39 Avot deRabi Natan, cap. 35 · 17:08 Melachim I 1:33 · 17:23 Costume do Tashlich · 17:31 Kli Yakar sobre Melachim I 1:33 · 17:49 Discípulo do Ramban · 18:01 Rabi Avraham Azulai, Ir shel Zahav · 22:21 Melachim II 20:20 · 22:40 Divrê HaYamim II 32:30 · 24:53 Inscrição de Shiloach · 33:17 Charles Clermont-Ganneau (1897) · 49:11 Binyamin miTudela, Masaot Binyamin · 53:14 Testemunho de Rabi Yehoshua Diskin (c. 1892) · 54:46 Ermete Pierotti, Jerusalem Explored (1859) · 57:59 Estudo de radar de Amit Re'em (Autoridade de Antiguidades) · 1:00:09 Rabi Moshê Chagiz, Elé HaMitzvot · 1:03:09 Sefer HaTemuná, terceira Temuná, 60b · 1:03:31 Devarim 34:6 · 1:03:48 Zohar, Chukat 183a · 1:04:42 Chadash/Hagaot, Parashat Zot HaBerachá · 1:05:55 Pitach Eliyáhu, Tikunê HaZohar · 1:12:03 Rav Ovadia Yosef / Rav Ovadia Hadaya
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+868|1:05:03|אבל אמר חור מוסיף מהספרי שממשה רבנו
+869|1:05:09|יש עוד מחילה לאבות הקדושים כדי שכולם יתחברו ביחד.
+870|1:05:13|יש איזה עניין שהקדושה הזאת תהיה מוליך כמו מוליך חשמלי.
+871|1:05:19|אמור מעתה שמה שכתב בספר התמונה שמשה נקבר במערת המכפלה הוא לא
+872|1:05:24|התכוון מערה ממש הוא קבור בהר נבו אלא שיש
+873|1:05:30|דרך שמובילה מקברו למערת המכפלה, וזה נקרא
+874|1:05:36|כאילו הוא נקבר במערת המכפלה.
+875|1:05:39|זאת אומרת, כיוון שהדרך מהר נבו מחברת אותו למערת המכפלה, זה
+876|1:05:44|כאילו הוא קבור במערת המכפלה.
+877|1:05:46|הראייה, רד למטה במערת המכפלה, רד למערה, תמשיך להר נבו, אז זה כאילו הוא קבור במערת
+878|1:05:52|המכפלה.
+879|1:05:53|הבנתם את התירוץ הזה?
+
+LINHAS A TRADUZIR:
+880|1:05:55|יופי.
+881|1:05:55|עכשיו אני רציתי להמתיק בביאור שלי על הפתח אליהו בישות מרכבות ארגמן בחלק בית סימן
+882|1:06:01|א'.
+883|1:06:02|עילאין שמעו, אינו דמכין דחברון וראייה מהמנה.
+884|1:06:08|שגם הוא מדמכין דחברון.
+885|1:06:11|דמכין דחברון, דמכין זה ישנה, ישנה חברון.
+886|1:06:15|אז אליהו הנביא כולם פסקו את הפסיק אחרי הדמכין דחברון
+887|1:06:21|פסיק ואז הוא כאילו מדבר עכשיו לראייה מהמנה.
+888|1:06:24|לא לא לא.
+889|1:06:26|הפסיק לא שם.
+890|1:06:27|הפסיק הוא אחרי הראייה מהמנה.
+891|1:06:29|עילאים שימעו עליונים שימעו אימון דמכין אתם הישנים דחברון
+892|1:06:34|וראייה מהמנה שגם הוא מהדמכין דחברון.
+893|1:06:38|מקסים?
+894|1:06:39|יפה מאוד עכשיו, עד כאן היה התירוץ איך משה קבור
+895|1:06:44|במערת המכפלה.
+896|1:06:46|ומה יותר קלאסי, גלאט, כשר
+897|1:06:51|ויפה להביא את כל מה שלימדתי אתכם בשלוש שבועות
+898|1:06:57|האחרונים ולהגיד לכם הוא עדין גם כאן.
+899|1:07:02|עיר דוד ההיסטורית המקורית באמת נמצאת בשלוחה המזרחית של
+900|1:07:07|ירושלים מדרום להר הבית מעל מעיין הגיחון ובאמת הוא
+901|1:07:13|קבור שם בעיר דוד כמו שאמר הפסוק לא יעזור העולם אי אפשר להזיז את הפסוק
+902|1:07:20|אבל מער ציון המוכר לנו היום שבו
+903|1:07:26|הולכים להתפלל הממוקם בגבעה המערבית של ירושלים העתיקה בעבריו
+904|1:07:32|של דוד המלך יש שמה מערה והמערה הזאת
+905|1:07:37|בהר ציון מובילה לתוך עיר דוד זה סמוך ונראה זה לא כמו
+906|1:07:43|משה רבנו איפה הר נבו ואיפה מערת המכפלה אני מדבר איתך על סמוך ונראה
+907|1:07:51|שדוד המלך קבור בעיר דוד המקראית וטרם מצאו את הקברים שלו כי לא יעלה על הדעת שמהשמיים לא
+908|1:07:56|ישמרו על הקברים של דוד המלך וניקח את התיאוריה של ריימון וויל שישדדו את הקברים, כמאן, כמאן.
+909|1:08:03|אז עכשיו מה יצא?
+910|1:08:04|שדוד קבור בעיר דוד המקראית ויש מעיר דוד המקראית מערה
+911|1:08:10|תת קרקעית שמובילה להר ציון.
+912|1:08:14|ובזה רבותיי הכל סוכר.
+913|1:08:19|למה?
+914|1:08:20|למה?
+915|1:08:21|באמת צדק ארמיט אפיארוטי הוא ירד למטה בדרך המערה הצבעים צדקו
+916|1:08:28|העדות של רבי בנימין מתודלה שהוא מספר לנו צדקו לפחות עצם זה
+917|1:08:34|שהם ירדו למטה וראו שמה כי הם עברו בדרך המערה כולם עברו דרך המערה ירדו לעיר
+918|1:08:40|דוד דרך המערה הגיעו לעיר דוד המקראית ושם הם מצאו את הכל ולכן יוצא מכאן
+919|1:08:46|שבאמת דוד המלך קבור בהר ציון וגם זה עיר דוד

@@ -1,0 +1,64 @@
+videoId: Q76ZMb_Loxg
+parte 16 de 24 · traduzir as linhas 600 a 639 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayigash: os "vai" de Yaakov, Yosef e o temor a HaShem
+RESUMO: O rabino abre a Parashá Vayigash (Bereshit 44:18) notando que as parashiot sobre Yaakov começam com "Vai/Vayehi", pois a vida de Yaakov foi cheia de sofrimento: Esav, Lavan (cuja alma reencarnou em Bilam e Naval HaCarmeli, segundo o Arizal), Yosef, os 30 anos perdidos por sua queixa a Paro. Em seguida trata da halachá do cão sem corrente (Bava Kama), dos programas de busca de textos e do esforço na Torá. Cita o Zohar (Vayera) sobre Rabi Chizkiyah, que não viu grau mais alto do que o de quem guarda o Brit, e conta histórias do Ben Ish Chai e do Rav Shach no tribunal celeste, além do hidur mitzvá (Shabat 21b, Sucá 41b) nas velas de Chanuká. Explica que Yosef foi governante por temer a HaShem, que o mar se abriu por mérito dele e que não se deve esquecer a origem (Pesachim 66b). Depois discute por que Binyamin não morreu apesar do "brit krutá lasefatayim" (Bereshit 44:9), por que os irmãos se assustaram diante de Yosef e por que Yosef não subiu a seu pai. Termina com "al tachos al kelechem" (Bereshit 45:20) e a quitação de Paro.
+MOMENTOS: 00:54 Os sofrimentos de Yaakov: Esav e Lavan · 02:22 Halachá do cão sem corrente (Bava Kama) · 12:03 Zohar: Yosef governou por guardar o Brit · 18:49 Ben Ish Chai e a moça no tribunal celeste · 24:17 Rav Shach garante a vida de uma mulher · 26:27 Hidur mitzvá e as velas de Chanuká · 31:46 Amor e temor de HaShem: Avraham e Yosef · 35:36 Não esquecer a origem; o orgulho · 41:42 O brit krutá lasefatayim e Binyamin · 45:44 Por que os irmãos se assustaram com Yosef · 49:35 Por que Yosef não foi até seu pai Yaakov · 53:41 Al tachos al kelechem e a quitação de Paro
+FONTES CITADAS: 00:15 Bereshit 44:18 · 00:51 Bereshit Rabá 84:3 (Rashi em Bereshit 37:2) · 01:24 Zohar, Vayetze · 01:26 Arizal sobre os gilgulim · 02:22 Bava Kama 15b · 04:30 Bava Kama 15b · 10:53 Bereshit Rabá 65 · 12:06 Zohar, Vayera · 13:11 Tehilim 102:14 · 16:20 Zohar, Vayera · 23:19 Chulin 7b · 25:23 Bereshit 44:32 · 26:27 Shabat 133b · 26:41 Zohar, Yitro · 27:14 Shabat 21b · 29:46 Sucá 41b · 30:18 Vayikrá 23:40 · 32:08 Bereshit 22:12 · 32:35 Zohar, Vayera · 33:06 Bereshit 25:5 · 33:52 Sotá 36b · 35:22 Tehilim 114:3 · 37:16 Pesachim 66b · 38:18 Bereshit 23:6 · 41:16 Bereshit 44:7 · 41:22 Bereshit 44:9 · 41:42 Moed Katan 18a · 41:52 Bereshit 31:32 · 44:23 Bereshit 45:3 · 45:05 Bereshit 44:20 · 46:06 Zohar, Vayigash · 48:37 Rabi Yaakov Culi, Me'am Lo'ez · 50:30 Zohar, Vayigash · 50:47 Pirkê deRabi Eliezer / Midrash sobre Serach bat Asher · 51:16 Bereshit 45:27 · 51:28 Bereshit 45:26 · 52:05 Bereshit 45:28 · 53:41 Bereshit 45:20 · 55:55 Bereshit 15:13-14 · 56:05 Berachot 9b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|36:29|והתעשר מאוד מאוד וחזרו כל החברים שלו השאיר להם את הכספת למטה
+589|36:34|בסלון ונשאר בחדר למעלה.
+590|36:37|קראו לו, אמרו לו, מה, באנו לבקר אותך?
+591|36:40|מה, שמענו, עשית יציאה, קוראים לזה היום.
+592|36:43|עשית יציאה, יש לך כסף עכשיו.
+593|36:45|אמר להם, אתם לא באתם בשבילי.
+594|36:47|בשביל מי באתם?
+595|36:47|בשביל הכסף שלי.
+596|36:48|אז הנה, הוא למטה, שמה, בכספת, מה באתם אצלי?
+597|36:51|אתם לא רוצים אותי, אתם רק רוצים את הכסף, בשביל הכסף אתם מכבדים אותי.
+598|36:55|וזה אדם שהוא, השם הגביה אותו, ופתאום הוא מרים את הראש שלו על האחרים, הקדוש
+599|37:01|ברוך הוא לוקח את הראש שלו ומפיל אותו בחזרה למטה.
+
+LINHAS A TRADUZIR:
+600|37:04|ואם לא יוריד אותו חזרה למטה גלגול זה, אז יוריד אותו חזרה למטה גלגול הבא.
+601|37:09|לא נגמר כלום הקדנציה שלו פה.
+602|37:11|כי ככה הקדוש ברוך הוא אומר, כל המתגאה, אם פרנסו...
+603|37:16|לציבור הגמרא אומרת דף ס"ו מסכת פסחים אם חכם הוא חוכמתו מסתלקת ממנו אם נביא
+604|37:22|הוא נבואתו מסתלקת ממנו נביא למדנו מדבורה אורי אורי דבורה אורי אורי דברי שיר ואם חכם
+605|37:28|הוא למדנו מהילל הבבלי שהתגאה עליהם אמר להם מי גרם לכם שעלה מבבל והם לוח עליכם
+606|37:33|הצלות שבכם שלא שימשתם גדולי הדור שמעיה ואבטליון מיד שאלו אותו על סכין בשבת בפסח
+607|37:39|והתעלמה ממנו ההלכה למה התגאה עליהם נשכחה ממנו ההלכה והוא הדין, הוא
+608|37:45|הדין שאם הוא נביא, התגעתה דבורה, אמרה עד שקמתי דבורה, עד שקמתי אם בישראל,
+609|37:50|מיד אורי אורי דבורה, השתגחה ממנה ההלכה.
+610|37:53|לכן מישהו מתגאה, שוכח מאיפה הוא בא, שכח שהוא היה איזה כלום,
+611|38:00|איזה...
+612|38:01|שום דבר, קדוש ברוך הוא הרים אותו, להיות רביי גדול, להיות חכם גדול, להיות עשיר גדול, להיות
+613|38:07|שכח אותו, קדוש ברוך הוא מוריד אותו בחזרה.
+614|38:10|וזה מה שכתוב, ויוסף הוא השליט על הארץ, הגם שהוא היה שליט, על הארץ.
+615|38:14|רגליים שלו היו על הארץ, הוא לא שכח מאיפה הוא בא.
+616|38:18|וזה מה שאמרו לאברהם אבינו, נשיא אלוהים אתה בתוכנו.
+617|38:22|הגם שאתה נשיא אלוהים, אתה גדול, אבל אתה בתוכנו, אחד מאיתנו, עמך לא מרגיש בעצמך שום דבר.
+618|38:29|כמה פעמים סיפרתי על הרב בן ציון אבא שאול, שהיה הולך פה בשכונות האלה, כאן הוא היה גר, היה
+619|38:35|הולך פה ביום שישי אחרי קידוש בלי כובע, בלי ג'קט, רק עם החולצה שלו, ואת כל
+620|38:41|השס מעביר ומטפר, והיית רואה אותו, לא היית מאמין שזה גדול הדור.
+621|38:45|לא היית מאמין שזה מגדולי הדור.
+622|38:47|כלום.
+623|38:48|הוא ככה היה הולך ומפלפל וזה, והיית רואה אותו פה מעביר את כל השס, עשה סיבוב של כל
+624|38:54|גאולה, בית ישראל, הבוכרים, עשה סיבוב של הכל, גמר את המסכת שלמדו.
+625|38:59|מה הוא כותב בזיכרון לציון, בספר שלו, שהוא וחכם עובדיה היו חברותה, והם היו
+626|39:05|הולכים מכאן, משכונות האלה, עד לפורת יוסף בעיר העתיקה ברגל.
+627|39:10|הוא אומר, ואני וחכם עובדיה, כל הדרך את הסוגיה שלמדנו אתמול בגמרא היינו עושים בעל פה.
+628|39:15|הוא אומר, מה ההבדל ביני לבינו?
+629|39:16|שהוא היה זוכר גם את השמות של החכמים, ואני לא זוכר, לא זכרתי את השמות של החכמים.
+630|39:21|הוא היה אומר, רבך אומר, רב עונה אומר, רבי עקיבא אומר, רבי אומר.
+631|39:26|ואני הייתי אומר, יש מי שאומר כך, יש מי שאומר כך.
+632|39:29|וזה היה ההבדל בינינו.
+633|39:30|וכמה ניסו להתנכל לשתיהם, והם, שתיהם גדולי הדור, יששכר וזבולון.
+634|39:36|כמו יששכר וזבולון היו.
+635|39:37|גדולים ישראל, שתיהם יששכרים, שתיהם גדולי ישראל.
+636|39:40|וזכו לעטרה וגדולה במקום אחד.
+637|39:44|מה אתה אומר, שמאי?
+638|40:02|רגע, מה, אתה אומר שיוסף היה נותן בוקס לאשת
+639|40:05|פוטיפר?

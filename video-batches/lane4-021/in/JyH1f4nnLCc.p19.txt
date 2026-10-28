@@ -1,0 +1,64 @@
+videoId: JyH1f4nnLCc
+parte 20 de 24 · traduzir as linhas 760 a 799 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O mundo como corredor: alegria de viver nas provações
+RESUMO: O rabino Zamir Cohen abre com as provações da vida (middot, mitzvot, shalom bait, dinheiro, saúde) e propõe uma ferramenta: a Mishná em Avot, segundo a qual este mundo é um corredor diante do Mundo Vindouro e o homem deve se preparar no corredor para entrar no salão. Explica as diferenças entre corredor e salão (temporário, estreito, escuro), ensina que o corpo é um instrumento de ginástica da alma, com o Ari z"l e a história do dibuk contada pelo Rav Eliyahu Lapian, e cita Berachot, "tudo o que o Misericordioso faz, faz para o bem", e a parábola do café com leite. Cita Mishlei (sete vezes cai o justo e se levanta; casa dos ímpios e tenda dos justos, com o Gaon de Vilna; "no riso também dói o coração"), Kohelet e a Tosefta sobre a medida boa ser 500 vezes maior, com o exemplo de Avraham e "yukach na meat mayim". Conta a parábola do rei de um ano que construiu uma cidade na ilha, ligada a Mishlei 31 (Eshet Chayil, "e ri do dia final"). Na parte de perguntas, fala de Kidush HaShem no exterior (com a história do vendedor de bilhetes alemão) e, citando o Rambam (Hilchot Deot) e o Talmud Yerushalmi, de por que cuidar da saúde faz parte do serviço a HaShem.
+MOMENTOS: 00:18 As provações da vida e o desejo de manter a alegria · 02:07 A Mishná em Avot: o mundo é um corredor · 04:45 Diferenças entre o corredor e o salão · 07:03 O que é essencial e o que é secundário na vida · 09:38 A história do dibuk: quem morre não muda mais · 13:37 Tudo o que o Misericordioso faz é para o bem · 14:11 A parábola do café com leite · 17:27 Sete vezes cai o justo e se levanta · 21:15 Casa dos ímpios e tenda dos justos (Gaon de Vilna) · 23:52 No riso também dói o coração; o primeiro ano de casamento · 28:36 A medida boa é 500 vezes maior: Avraham e a água · 31:20 A parábola do rei de um ano · 38:50 Eshet Chayil: o justo ri do dia final · 44:17 Kidush HaShem ao viajar ao exterior · 48:41 Cuidar da saúde como serviço a HaShem (Rambam)
+FONTES CITADAS: 02:07 Mishná, Avot 4:16 · 03:34 Ari z"l, Shaar HaGilgulim (introdução) · 08:09 Rav Eliyahu Lapian, Lev Eliyahu · 08:36 Rav Yehuda Petaya, Minchat Yehuda (Ruchot Mesaprot) · 12:46 Kohelet 12:7 · 13:42 Berachot 60b · 17:27 Mishlei 24:16 · 18:58 Kohelet 9:10 · 21:15 Mishlei 14:11 · 22:34 Gaon de Vilna em Mishlei 14:11 · 23:28 Mishlei 14:12 · 23:52 Mishlei 14:13 · 25:19 Devarim 24:5 · 25:50 Rav Dessler · 26:11 Massechet Derech Eretz · 28:07 Mishlei 14:14 · 28:36 Tosefta Sotá 3 · 29:30 Bereshit 18:4 · 29:41 Bava Metzia 86b e Tosefta · 38:50 Mishlei 31:10 · 39:04 Mishlei 31:15 · 39:10 Mishlei 31:25 · 39:28 Rashi em Mishlei · 44:20 Yoma 86a · 43:09 Amos 8:11 · 45:12 Shulchan Arukh, Choshen Mishpat 348 · 47:15 Kohelet 11:1 · 48:41 Rambam, Mishné Torá, Hilchot Deot 4 · 49:40 Talmud Yerushalmi, Avodá Zará
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+748|40:01|אם כל אחד מאיתנו בשכונה שאנחנו גרים נניח
+749|40:05|שהמוכר בחנות הוא חבר טוב שלך. אתם תמיד
+750|40:09|מדברים, צוחקים, מתבטחים.
+751|40:11|אם תבוא אליו ותגיד לו, אתה יודע יוסי
+752|40:13|שיום אחד תמות? איך הוא יגיב?
+753|40:17|הפנים פניו יפלו. אני יודע, אבל למה אתה
+754|40:19|צריך להגיד לי את זה? לא נעים לשמוע. כולם
+755|40:22|בסוף מתים. אתה צריך להגיד לי שאני אמות.
+756|40:24|מה? נחמד לך להגיד לי את זה. אבל אם נלך
+757|40:27|לאדם צדיק ונאמר לצדיק הזה, כבודו יודע
+758|40:30|שיום אחד כבודו ימות, איך הוא יגיב? הוא
+759|40:33|יחייך.
+
+LINHAS A TRADUZIR:
+760|40:35|למה? כי אדם שיודע שהעולם הזה דומה
+761|40:38|לפרוסדור בפני העולם הבא, אז הוא יודע מה
+762|40:40|אני עושה כל החיים. אני צובר לעצמי תורה,
+763|40:43|מצוות, מעשים טובים, עבודת המידות, עיצוב
+764|40:46|האישיות. אני בונה לעצמי את העולם הבא
+765|40:48|שלי. אז מה זה המוות? סך הכל לעבור לארמון
+766|40:51|המפואר. כמו אותו מלך שבנה ב באותו אי בנה
+767|40:56|לעצמו את הארמון עם כל הפאר והאדר. ועכשיו
+768|40:58|הוא יודע, שנה עבדתי, עכשיו לנצח יש לי שם
+769|41:01|את החיים הטובים והמאושרים. וזה היסוד
+770|41:04|הגדול שיכול לתת לאדם כוח להתמודד
+771|41:08|עם כל תחומי ההתמודדויות שיש בחיים.
+772|41:12|פגעו בו, העליבו אותו, הלך כסף, יצר הרע
+773|41:15|שתוקף אותו. זה נכון גם בשידוכים. בחור
+774|41:18|מחפש בחורה, בחורה מחפשת בחור. לפעמים
+775|41:21|החיצוניות מאוד מרשימה. אבל אם האדם אומר
+776|41:24|לעצמו, בוא נבדוק האם עם האדם הזה, הבחור
+777|41:28|הזה, הבחורה הזאת יהיה לי טוב כל החיים,
+778|41:32|האם יש כאן דוגמה טובה לילדים שלי?
+779|41:34|חיצוניות מאוד מרשים, אבל יש כאן דוגמה
+780|41:36|טובה שהילדים יראו דפוסי התנהגות נכונים
+781|41:39|של מידות טובות, של יראת שמיים, של
+782|41:41|צניעות, של קדושה, או שזה בחיצוניות כך,
+783|41:45|אבל הפנימיות היא אחרת, המהות היא אחרת.
+784|41:48|כשהוא זוכר שהעולם הזה דומה לפרוס דור,
+785|41:51|תמיד רואה את התכלית. כל דבר שהוא עושה,
+786|41:54|מה ההשלכה של זה לחיי נצח, לחיי העולם
+787|41:56|הבא. ונסיים בברכה לכל הציבור שנמצא
+788|42:00|איתנו, לכל הצופים, [מחיאות כפיים] שהשם
+789|42:02|יתן לכולם שפע, ברכה וטובה, שמחת חיים,
+790|42:06|אורך ימים ושנות חיים. אמן.
+791|42:11|>> תודה רבה לכבוד הרב דמיר כהן שליטה ואנחנו
+792|42:14|עוברים לשלב של השאלות.
+793|42:17|שנייה אחת. אוקי,
+794|42:19|>> אולי עד שהתארגנו, רק הודעה קצרה לציבור.
+795|42:25|ברוך השם, השיעור כאן הולך וגדל והרבה
+796|42:29|אנשים גם עומדים ויושבים בחוץ וגם שמעתי
+797|42:32|שהיו מצבים שקבוצות שלמות נאלצו לחזור
+798|42:36|לבית אחרי שטרו להגיע.
+799|42:39|אז אם מישהו יודע על אולם, אולם של בית

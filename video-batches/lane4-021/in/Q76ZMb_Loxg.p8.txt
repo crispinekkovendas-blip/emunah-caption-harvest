@@ -1,0 +1,64 @@
+videoId: Q76ZMb_Loxg
+parte 9 de 24 · traduzir as linhas 320 a 359 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayigash: os "vai" de Yaakov, Yosef e o temor a HaShem
+RESUMO: O rabino abre a Parashá Vayigash (Bereshit 44:18) notando que as parashiot sobre Yaakov começam com "Vai/Vayehi", pois a vida de Yaakov foi cheia de sofrimento: Esav, Lavan (cuja alma reencarnou em Bilam e Naval HaCarmeli, segundo o Arizal), Yosef, os 30 anos perdidos por sua queixa a Paro. Em seguida trata da halachá do cão sem corrente (Bava Kama), dos programas de busca de textos e do esforço na Torá. Cita o Zohar (Vayera) sobre Rabi Chizkiyah, que não viu grau mais alto do que o de quem guarda o Brit, e conta histórias do Ben Ish Chai e do Rav Shach no tribunal celeste, além do hidur mitzvá (Shabat 21b, Sucá 41b) nas velas de Chanuká. Explica que Yosef foi governante por temer a HaShem, que o mar se abriu por mérito dele e que não se deve esquecer a origem (Pesachim 66b). Depois discute por que Binyamin não morreu apesar do "brit krutá lasefatayim" (Bereshit 44:9), por que os irmãos se assustaram diante de Yosef e por que Yosef não subiu a seu pai. Termina com "al tachos al kelechem" (Bereshit 45:20) e a quitação de Paro.
+MOMENTOS: 00:54 Os sofrimentos de Yaakov: Esav e Lavan · 02:22 Halachá do cão sem corrente (Bava Kama) · 12:03 Zohar: Yosef governou por guardar o Brit · 18:49 Ben Ish Chai e a moça no tribunal celeste · 24:17 Rav Shach garante a vida de uma mulher · 26:27 Hidur mitzvá e as velas de Chanuká · 31:46 Amor e temor de HaShem: Avraham e Yosef · 35:36 Não esquecer a origem; o orgulho · 41:42 O brit krutá lasefatayim e Binyamin · 45:44 Por que os irmãos se assustaram com Yosef · 49:35 Por que Yosef não foi até seu pai Yaakov · 53:41 Al tachos al kelechem e a quitação de Paro
+FONTES CITADAS: 00:15 Bereshit 44:18 · 00:51 Bereshit Rabá 84:3 (Rashi em Bereshit 37:2) · 01:24 Zohar, Vayetze · 01:26 Arizal sobre os gilgulim · 02:22 Bava Kama 15b · 04:30 Bava Kama 15b · 10:53 Bereshit Rabá 65 · 12:06 Zohar, Vayera · 13:11 Tehilim 102:14 · 16:20 Zohar, Vayera · 23:19 Chulin 7b · 25:23 Bereshit 44:32 · 26:27 Shabat 133b · 26:41 Zohar, Yitro · 27:14 Shabat 21b · 29:46 Sucá 41b · 30:18 Vayikrá 23:40 · 32:08 Bereshit 22:12 · 32:35 Zohar, Vayera · 33:06 Bereshit 25:5 · 33:52 Sotá 36b · 35:22 Tehilim 114:3 · 37:16 Pesachim 66b · 38:18 Bereshit 23:6 · 41:16 Bereshit 44:7 · 41:22 Bereshit 44:9 · 41:42 Moed Katan 18a · 41:52 Bereshit 31:32 · 44:23 Bereshit 45:3 · 45:05 Bereshit 44:20 · 46:06 Zohar, Vayigash · 48:37 Rabi Yaakov Culi, Me'am Lo'ez · 50:30 Zohar, Vayigash · 50:47 Pirkê deRabi Eliezer / Midrash sobre Serach bat Asher · 51:16 Bereshit 45:27 · 51:28 Bereshit 45:26 · 52:05 Bereshit 45:28 · 53:41 Bereshit 45:20 · 55:55 Bereshit 15:13-14 · 56:05 Berachot 9b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+308|19:11|וגן, אז יש את הרבנית של הרב ראש ישיבה, אז היא נמצאת שמה
+309|19:17|הרבנית, היא עוזרת לאנשים, ויש את הרב, מכרז את הגברים, שרה מגיירת את הנשים ואברהם
+310|19:23|את האנשים, ככה צריך שלא יהיה אנדרלמוסיה, ואז מה היה?
+311|19:28|באה בחורה אחת לישיבה, הגיעה לשמה חילונית,
+312|19:33|גמורה, הייתה קצינה בצבא, שמשמור אותה, והייתה קצינה, והגיעה
+313|19:39|בשבת הזאת, לקחה חופש מהצבא, והגיעה לישיבה.
+314|19:43|מה מביא בחורה חילונית לישיבה?
+315|19:45|אז שאל אותה הרב, אמרה לו, זה עניינים שלי.
+316|19:48|אמר לה, אני מכבד אותך, מה שאת לא רוצה לגלות, אל תגלי.
+317|19:52|עכשיו, אצלנו שם בישיבה, באשראי של הרב צבי יוסף בן פורת, אין, לא אוכלים ביום
+318|19:58|שישי בערב בישיבה.
+319|20:00|מה עושים?
+
+LINHAS A TRADUZIR:
+320|20:00|בגלל שזה בעלי תשובה, אז הרב רצה להראות להם איך מקיימים שולחן של
+321|20:06|שבת, איך הרבנים מכבדים את הנשים שלהם, איך כל העניינים.
+322|20:12|אז עכשיו, כאילו שזה הכל גלאט, נגיד, אבל הרב דקדק לשלוח אותם למשפחות טובות,
+323|20:17|משפחות שנראה מה זה רבנים, מה זה חכמים, מה זה דתיים.
+324|20:23|אז עכשיו, שלח אותה לאיזה משפחה אחת, הביא אותה שמה ברחוב
+325|20:28|עוזיאל.
+326|20:29|נכנסה שמה לרחוב עוזיאל לאיזה משפחה, זה סיפור אמיתי, אני מספר לך מה שסיפרו לנו בישיבה.
+327|20:35|הכניסו אותה שמה לאיזה משפחה, אכלה!
+328|20:40|משפחה ספרדית, למה היא ספרדיה?
+329|20:42|הביאו לה גפילטפיש, הביאו לה דגים מרוקאיים.
+330|20:46|הרגישו לה את האוכל וזה עכשיו, היא מהאי נעימות, אמרה אני אקום גם כן לעזור לפנות את השולחן.
+331|20:53|לקחה את הכלים, עשתה ערימה של כלים, ככה המגדל.
+332|20:57|לקחה את זה, ובאה לפנות את הכלים למטבח.
+333|21:02|פתאום שומעים, אהה, צעקה, פח.
+334|21:06|נפלו, כל הכלים נשברו.
+335|21:09|באה, קמה בעלת הבית, אמרה, מה קרה?
+336|21:12|מה קרה?
+337|21:12|הלכה למטבח, ראו אותה שוכבת מעולפת על הרצפה וכל הכלים.
+338|21:17|חיפשו, אולי היה פה עכברים, אבל אין כאן עכברים.
+339|21:20|מה יש לה?
+340|21:20|מה היא מפחדת זאתי?
+341|21:21|מה יש לה?
+342|21:22|ראתה את זה, לא הבינה מה קרה לה.
+343|21:24|נו.
+344|21:25|הרימו לה את הרגליים ככה, בעלת הבית הרימה לה את הרגליים, זילפה עליה מים והתעוששה.
+345|21:31|ואז שאלו אותה, מה יש לך?
+346|21:33|מה ראית?
+347|21:34|איזה שד?
+348|21:35|אמרה, ראיתי מלאך.
+349|21:36|אמרה, איזה מלאכים יש לי בבית?
+350|21:38|יש איזה שבע מלאכי חבלה.
+351|21:40|איפה הם?
+352|21:40|הלכו, מוישיק, מכלוף.
+353|21:42|בואי נא.
+354|21:43|אלה, ראית אותם?
+355|21:44|אמרה, לא, ראיתי משהו אחר.
+356|21:46|אמרה בעלת הבית, שאלה אותה, וכל האורחים טמאים, כולם היו שם.
+357|21:52|מה קרה לך?
+358|21:53|מה עשית?
+359|21:54|אז היא ראתה במטבח שתלוי תמונה של רבנו יוסף חיים, הבן איש חי,

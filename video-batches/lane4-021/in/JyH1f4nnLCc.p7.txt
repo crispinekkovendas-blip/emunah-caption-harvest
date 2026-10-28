@@ -1,0 +1,64 @@
+videoId: JyH1f4nnLCc
+parte 8 de 24 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O mundo como corredor: alegria de viver nas provações
+RESUMO: O rabino Zamir Cohen abre com as provações da vida (middot, mitzvot, shalom bait, dinheiro, saúde) e propõe uma ferramenta: a Mishná em Avot, segundo a qual este mundo é um corredor diante do Mundo Vindouro e o homem deve se preparar no corredor para entrar no salão. Explica as diferenças entre corredor e salão (temporário, estreito, escuro), ensina que o corpo é um instrumento de ginástica da alma, com o Ari z"l e a história do dibuk contada pelo Rav Eliyahu Lapian, e cita Berachot, "tudo o que o Misericordioso faz, faz para o bem", e a parábola do café com leite. Cita Mishlei (sete vezes cai o justo e se levanta; casa dos ímpios e tenda dos justos, com o Gaon de Vilna; "no riso também dói o coração"), Kohelet e a Tosefta sobre a medida boa ser 500 vezes maior, com o exemplo de Avraham e "yukach na meat mayim". Conta a parábola do rei de um ano que construiu uma cidade na ilha, ligada a Mishlei 31 (Eshet Chayil, "e ri do dia final"). Na parte de perguntas, fala de Kidush HaShem no exterior (com a história do vendedor de bilhetes alemão) e, citando o Rambam (Hilchot Deot) e o Talmud Yerushalmi, de por que cuidar da saúde faz parte do serviço a HaShem.
+MOMENTOS: 00:18 As provações da vida e o desejo de manter a alegria · 02:07 A Mishná em Avot: o mundo é um corredor · 04:45 Diferenças entre o corredor e o salão · 07:03 O que é essencial e o que é secundário na vida · 09:38 A história do dibuk: quem morre não muda mais · 13:37 Tudo o que o Misericordioso faz é para o bem · 14:11 A parábola do café com leite · 17:27 Sete vezes cai o justo e se levanta · 21:15 Casa dos ímpios e tenda dos justos (Gaon de Vilna) · 23:52 No riso também dói o coração; o primeiro ano de casamento · 28:36 A medida boa é 500 vezes maior: Avraham e a água · 31:20 A parábola do rei de um ano · 38:50 Eshet Chayil: o justo ri do dia final · 44:17 Kidush HaShem ao viajar ao exterior · 48:41 Cuidar da saúde como serviço a HaShem (Rambam)
+FONTES CITADAS: 02:07 Mishná, Avot 4:16 · 03:34 Ari z"l, Shaar HaGilgulim (introdução) · 08:09 Rav Eliyahu Lapian, Lev Eliyahu · 08:36 Rav Yehuda Petaya, Minchat Yehuda (Ruchot Mesaprot) · 12:46 Kohelet 12:7 · 13:42 Berachot 60b · 17:27 Mishlei 24:16 · 18:58 Kohelet 9:10 · 21:15 Mishlei 14:11 · 22:34 Gaon de Vilna em Mishlei 14:11 · 23:28 Mishlei 14:12 · 23:52 Mishlei 14:13 · 25:19 Devarim 24:5 · 25:50 Rav Dessler · 26:11 Massechet Derech Eretz · 28:07 Mishlei 14:14 · 28:36 Tosefta Sotá 3 · 29:30 Bereshit 18:4 · 29:41 Bava Metzia 86b e Tosefta · 38:50 Mishlei 31:10 · 39:04 Mishlei 31:15 · 39:10 Mishlei 31:25 · 39:28 Rashi em Mishlei · 44:20 Yoma 86a · 43:09 Amos 8:11 · 45:12 Shulchan Arukh, Choshen Mishpat 348 · 47:15 Kohelet 11:1 · 48:41 Rambam, Mishné Torá, Hilchot Deot 4 · 49:40 Talmud Yerushalmi, Avodá Zará
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|14:30|נשאל אדם איך אתה מכין את הקפה עם חלב?
+269|14:33|הוא יענה, לוקח קפה,
+270|14:36|מניח כפית קפה, כפית או חצי כפית סוכר,
+271|14:39|מערבב אותם, מים חמים ועל זה חלב. כך הוא
+272|14:43|מכין.
+273|14:45|כשמתבוננים יש כאן דבר מעניין.
+274|14:48|יש כמה הבדלים קיצוניים בין התערובת הזו.
+275|14:53|הקפה הוא שחור,
+276|14:55|הסוכר לבן. הקפה מר, הסוכר מתוק. המים
+277|15:03|חמים החלב קר מוציאים מהמקרר
+278|15:08|את כל זה מערבב ואומר שהכל נהיה בדברו
+279|15:11|לומר זה רמז שאדם קם בבוקר יאמר לעצמו
+
+LINHAS A TRADUZIR:
+280|15:15|ריבונו של עולם אני לא יודע איזה יום
+281|15:17|יעבור עליי
+282|15:19|יהיה בצבע של השחור של הקפה השחור יהיה
+283|15:23|בצבע של הסוכר הלבן יהיה מתוק יהיה מר
+284|15:27|יהיה חם יהיה קר אבל אני סומך עליך שהכל
+285|15:31|נהיה בדבר ברכה. כל מה שיהיה היום זה בא
+286|15:34|ממך. ואם זה בא ממך אז בטוח יהיה לי טוב.
+287|15:38|ובאמת מה יוצר את ה את הטעם הטעים שאנשים
+288|15:40|כל כך אוהבים את הקפה עם חלב? התערובת של
+289|15:43|הכל.
+290|15:45|אם היה שם כפית סוכר ועוד כפית סוכר ועל
+291|15:49|זה רק מים חמים ורק הכל לבן ושותה, לא היה
+292|15:52|טעים. התערובת גם של המריר, של השחור, של
+293|15:57|החם, של הקר, זה יוצר את השלמות.
+294|16:00|כך גם בחיים.
+295|16:04|כשקשה לאדם בחיים הוא יאמר לעצמו זה חלק
+296|16:08|מהטוב. כי השלמות של כל החיים
+297|16:13|עד 120 בעזרת השם שכל אדם מגיע, השלמות
+298|16:16|שלי תהיה לא רק מהימים הטובים, גם מהימים
+299|16:21|שלא היה טוב לכאורה, גם הימים שהיה לי קשה
+300|16:24|איתם.
+301|16:26|מה ההבדל בין ציור לבין קשקוש?
+302|16:30|קשקוש הרבה יותר קל לעשות. אתה לוקח
+303|16:33|מכחול, מעביר אותו בקשקושים לכל צד, אבל
+304|16:37|את זה זורקים לפח. המיוחד בציור זה
+305|16:41|המעצורים. שאתה מותח קו, יודע בדיוק איפה
+306|16:45|לעצור, פונה שמאלה, ימינה, עולה, מסתובב,
+307|16:48|עיגול.
+308|16:50|זה מה שיוצר את היופי. גם בשירים.
+309|16:54|מה יוצר את היופי של שיר? אם כל הזמן היית
+310|16:57|מנגן תו אחד לאורך כל הדרך היה צורם כמו
+311|17:00|הזעקה
+312|17:01|אבל כשיש עליות ומורדות תנודות זה מה
+313|17:05|שיוצר את היופי של השיר זה מה שיוצר את
+314|17:07|התענוג גם החיים של האדם אם כל החיים היו
+315|17:10|מורכבים רק ממסלול שהכל נחמד והכל טוב בלי
+316|17:14|התמודדויות בלי קשיים אדם היה מרגיש ימום
+317|17:17|בחיים לא היה מה שבנה אותו לא היה לו שום
+318|17:20|מכשיר כושר שאיתו הוא מתעלה דווקא על ידי
+319|17:23|שיש לו יצרים יש לו גשעים גם יש לו נפילות

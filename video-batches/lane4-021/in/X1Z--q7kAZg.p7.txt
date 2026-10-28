@@ -1,0 +1,64 @@
+videoId: X1Z--q7kAZg
+parte 8 de 15 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Por que Yaakov temia Esav: "por que serei privada de vocês dois
+RESUMO: O rabino parte do versículo de Bereshit 32 (Vayishlach), em que Yaakov envia mensageiros a Esav, e pergunta por que Yaakov teme, já que "quem vem para te matar, antecipe-se e mate-o" (Sanhedrin 72a, Berachot 58a). Com a parábola do rei e do astrólogo, explica o Midrash: Rivká disse em profecia "por que serei privada de vocês dois num só dia", e Yaakov temia que, se matasse Esav, ele mesmo morresse no mesmo dia. Daí o rabino trata do sentido de "também", do rompimento do ventre de Rivká por Esav, de que quem não tem filhos é considerado morto (Nedarim 64b, Zohar), de Chana (Berachot 31b), do "livro de registro" de cada alma e de gerar filhos após a meia-noite de Shabat. Explica que Esav e Yishmael serviram para retirar a escória de Yitzchak e Avraham (Pesachim 56a), e conta o fim de Esav na Gemará de Sotá 13a, em que Chushim ben Dan decapita Esav na Meárat HaMachpelá, ligando isso ao Nachash e à cabalá (Kidushin 29b). Outra razão: Yaakov temia perder Rabi Meir, descendente de Esav (Yevamot 62b), e Moshé olhou "cá e lá" antes de matar o egípcio (Zohar); matar uma pessoa é matar todos os seus descendentes (Rashi em Bereshit 4:10). O final traz relatos de viagens, a divergência sobre Tachanun num casamento e um apelo de tzedaká.
+MOMENTOS: 00:40 Yaakov envia mensageiros a Esav (Bereshit 32) · 01:05 Primeira pergunta: por que Yaakov teme se pode ir atrás de Esav · 02:20 Segunda pergunta: temia matar Esav ou ser morto · 02:46 "Quem vem para te matar, antecipe-se" (Sanhedrin 72a) · 03:23 Parábola do rei e do astrólogo · 05:26 Rivká profetiza: por que serei privada de vocês dois · 08:48 Quem não tem filhos é considerado morto · 10:15 O livro de registro da alma e filhos após a meia-noite de Shabat · 14:20 Esav e Yishmael tiram a escória de Yitzchak e Avraham · 16:06 Sepultamento de Yaakov e a morte de Esav por Chushim ben Dan · 18:52 Esav como reencarnação do Nachash e a cabeça cortada · 21:56 Yaakov temia perder Rabi Meir · 23:29 Matar uma pessoa é matar seus descendentes
+FONTES CITADAS: 00:40 Bereshit 32:4-6 · 02:20 Bereshit 32:8 · 02:20 Bereshit Rabá 76:2 · 02:46 Sanhedrin 72a; Berachot 58a · 03:23 Parábola do rei e do astrólogo · 05:26 Bereshit 27:45 · 05:49 Cântico dos Cânticos 4:2 · 06:51 Bereshit 25:1 · 07:20 Bereshit Rabá 63 · 08:37 Yevamot 65b · 09:07 Bereshit 30:1 · 09:09 Nedarim 64b · 09:09 Zohar Vayetzé; Zohar Bereshit · 09:18 Berachot 31b · 09:36 Bemidbar 5:28 · 10:42 Berachot 31b · 12:25 Shemot 2:1 · 12:25 Zohar Shemot · 12:39 Shemot 2:2 · 12:51 Zohar Shemot · 13:47 Bereshit 25:21 · 14:42 Pesachim 56a · 16:09 Sotá 13a · 17:06 Bereshit 50:5 · 17:13 Bereshit 48:7 · 18:59 Reencarnações de Chavá, Adam e o Nachash · 21:24 Kidushin 29b · 22:17 Yevamot 62b · 22:55 Zohar Shemot · 22:59 Shemot 2:12 · 23:34 Bereshit 4:10 · 23:37 Rashi em Bereshit 4:10 · 31:31 Salmos 137:5 · 38:19 Makot 23b · 38:19 Yeshayáhu 42:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|17:07|שמה קברתי את לאה, שמה קבר אברהם את שרה, שמה קבר יצחק את רבקה, שמה אני קברתי את לאה.
+269|17:13|אני משביע אותך, אל תעשה לי כמו שעשיתי לאימא שלך, שקברתי אותה פה עליהם הדרך.
+270|17:18|אז אני מזהיר אותך, קח אותי למקומי מערת המכפלה.
+271|17:23|שלקח אותו לשם, פתאום בא עשיו.
+272|17:26|סיעה, מה אתם קוברים?
+273|17:27|זה קבר שלי.
+274|17:29|כבר אז היה מלחמות על הקברים, אוהו, זה פחד עולם עד שהבן אדם מוצא את הקבר שלו, הוא אומר אני
+275|17:35|כאן נקבר, אני הבכור, אני נקבר.
+276|17:37|חיכו, הלכו שלחו את נפתלי למאור איילה של אוחה, היה אצן, רץ, חזק,
+277|17:43|אמרו שאתה רחוב שאתה חתמת נמצא במצרים, הנפתלי לך תביא את זה עכשיו,
+278|17:49|תראו מה זה, שלחו אותו לרוץ למצרים, מי מערת המכפלה רץ למצרים?
+279|17:54|בוודאי, ידע קיצור הדרך וקפיצת הדרך, מה שדיברנו שבוע שעבר, אז שלחו אותו למצרים.
+
+LINHAS A TRADUZIR:
+280|17:59|בינתיים בא חושים בן דן, היה קצת חצי חירש, חצי זה, טאבל קצת, ככה, חוץ
+281|18:05|מכבודו, ככה זה.
+282|18:06|אומר, מה הולך פה?
+283|18:07|למה לא קוברים?
+284|18:08|איפה הקבורה?
+285|18:09|למה לא קוברים?
+286|18:10|אומרים לו, זה הדוד שלך זה, בא עכשיו עוד הפעם לעשות לנו בלאגן עם פועוונטות הרסואה כזה.
+287|18:18|בא עושה לנו דאווינים אומר לא נקבר לא נקבר זה איפה הוא זה איפה הוא
+288|18:24|אומר לו איפה שם בא עשו אומר לו אה יש לך בעיה אומר
+289|18:30|לו שם נמחה את זכר העמלק מהעולם טאק נתן לו איזה אחד
+290|18:35|הראש שלו התגלגל נפל לרגליים של יעקב אומרת הגמרא פתח יעקב את העיניים שלו
+291|18:41|חייך קראת לזה אמר לו טוב מאוד וסגר
+292|18:48|ככה היה.
+293|18:50|למה דווקא את הראש של עשיו?
+294|18:52|מה הרעיון של הראש של עשיו?
+295|18:54|למה עשיו הוא גלגול הנחש.
+296|18:59|רבקה הייתה גלגול חווה, יעקב גלגול הדם הראשון, ועשיו גלגול הנחש.
+297|19:04|ולכן כיוון שהעשיו הוא גלגול הנחש, הנחש, הכוח שלו זה בראש שלו.
+298|19:09|הנחש, הכוח שלו, הערש שלו, תתפוס נחש, תמיד תופסים נחש מפה.
+299|19:14|יש עד היום נחשייה בתל אביב, מה שהם עושים, תופסים נחשים לעשות נסיוב,
+300|19:19|נוגדנים נגד ההרס שלהם, הקשה שלהם.
+301|19:22|תמיד בר מינן, בן אדם שיקיש אותו נחש, שלא ירוץ מהר.
+302|19:26|למה אם הוא רץ מהר, הוא רק מפזר את ההרס מהר בגוף שלו.
+303|19:31|וההרס הזה זה הרס שמשתק בר מינן את כל המערכות.
+304|19:34|אז מה שיעשה שיהיה רגוע, ויקחו אותו מהר בית החולים.
+305|19:37|זה ילך שמה.
+306|19:39|ואם אפשר להביא את הנחש, מה טוב.
+307|19:41|למה?
+308|19:42|כי מהנחש הזה יעשו לו נוגדן.
+309|19:44|עכשיו איך עושים?
+310|19:45|הנחש יש לו פה שתי שיניים.
+311|19:48|יש שתי סוגים נחשים.
+312|19:49|יש נחש שהוא מקיף את הקורבן שלו וחונק אותו, זה כמו אנקונדה, שזה הנחשים הכי גדולים,
+313|19:54|ויש נחשים קטנים שיש להם נחשי הרס, יש להם פה שתי שיניים.
+314|20:00|שתי השיניים הם שתי מזריקים, הם חלולים, אתם תראו חורים יש להם בשתי השיניים האלה.
+315|20:06|עכשיו מה שעושים, תופסים את הנחש מהראש שלו, לוקחים כוס, שמים עליה בד לבן, ונותנים
+316|20:12|לנחש עם הראש שלו לתקוע את שתי השיניים שלו בתוך הבד.
+317|20:15|פה איפה שהדעת נמצא.
+318|20:17|פה מאחורה יש לו כמו גולה כזה, גוש כזה, לוחצים לו על
+319|20:23|הגוש הזה ויוצא ממנו הארס.

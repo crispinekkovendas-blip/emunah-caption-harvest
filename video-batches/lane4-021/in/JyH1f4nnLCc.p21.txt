@@ -1,0 +1,64 @@
+videoId: JyH1f4nnLCc
+parte 22 de 24 · traduzir as linhas 840 a 879 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O mundo como corredor: alegria de viver nas provações
+RESUMO: O rabino Zamir Cohen abre com as provações da vida (middot, mitzvot, shalom bait, dinheiro, saúde) e propõe uma ferramenta: a Mishná em Avot, segundo a qual este mundo é um corredor diante do Mundo Vindouro e o homem deve se preparar no corredor para entrar no salão. Explica as diferenças entre corredor e salão (temporário, estreito, escuro), ensina que o corpo é um instrumento de ginástica da alma, com o Ari z"l e a história do dibuk contada pelo Rav Eliyahu Lapian, e cita Berachot, "tudo o que o Misericordioso faz, faz para o bem", e a parábola do café com leite. Cita Mishlei (sete vezes cai o justo e se levanta; casa dos ímpios e tenda dos justos, com o Gaon de Vilna; "no riso também dói o coração"), Kohelet e a Tosefta sobre a medida boa ser 500 vezes maior, com o exemplo de Avraham e "yukach na meat mayim". Conta a parábola do rei de um ano que construiu uma cidade na ilha, ligada a Mishlei 31 (Eshet Chayil, "e ri do dia final"). Na parte de perguntas, fala de Kidush HaShem no exterior (com a história do vendedor de bilhetes alemão) e, citando o Rambam (Hilchot Deot) e o Talmud Yerushalmi, de por que cuidar da saúde faz parte do serviço a HaShem.
+MOMENTOS: 00:18 As provações da vida e o desejo de manter a alegria · 02:07 A Mishná em Avot: o mundo é um corredor · 04:45 Diferenças entre o corredor e o salão · 07:03 O que é essencial e o que é secundário na vida · 09:38 A história do dibuk: quem morre não muda mais · 13:37 Tudo o que o Misericordioso faz é para o bem · 14:11 A parábola do café com leite · 17:27 Sete vezes cai o justo e se levanta · 21:15 Casa dos ímpios e tenda dos justos (Gaon de Vilna) · 23:52 No riso também dói o coração; o primeiro ano de casamento · 28:36 A medida boa é 500 vezes maior: Avraham e a água · 31:20 A parábola do rei de um ano · 38:50 Eshet Chayil: o justo ri do dia final · 44:17 Kidush HaShem ao viajar ao exterior · 48:41 Cuidar da saúde como serviço a HaShem (Rambam)
+FONTES CITADAS: 02:07 Mishná, Avot 4:16 · 03:34 Ari z"l, Shaar HaGilgulim (introdução) · 08:09 Rav Eliyahu Lapian, Lev Eliyahu · 08:36 Rav Yehuda Petaya, Minchat Yehuda (Ruchot Mesaprot) · 12:46 Kohelet 12:7 · 13:42 Berachot 60b · 17:27 Mishlei 24:16 · 18:58 Kohelet 9:10 · 21:15 Mishlei 14:11 · 22:34 Gaon de Vilna em Mishlei 14:11 · 23:28 Mishlei 14:12 · 23:52 Mishlei 14:13 · 25:19 Devarim 24:5 · 25:50 Rav Dessler · 26:11 Massechet Derech Eretz · 28:07 Mishlei 14:14 · 28:36 Tosefta Sotá 3 · 29:30 Bereshit 18:4 · 29:41 Bava Metzia 86b e Tosefta · 38:50 Mishlei 31:10 · 39:04 Mishlei 31:15 · 39:10 Mishlei 31:25 · 39:28 Rashi em Mishlei · 44:20 Yoma 86a · 43:09 Amos 8:11 · 45:12 Shulchan Arukh, Choshen Mishpat 348 · 47:15 Kohelet 11:1 · 48:41 Rambam, Mishné Torá, Hilchot Deot 4 · 49:40 Talmud Yerushalmi, Avodá Zará
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|44:17|וצריך לזכור תמיד
+829|44:20|בגמרא כתוב על הפסוק ואהבת את השם אלוקיך
+830|44:23|שיהיה שם שמיים מתאהב על ידך. כלומר חלק
+831|44:28|מאהבת השם זה ששם שמיים מתאהב על ידינו.
+832|44:31|שודי מגיע לכל מקום שהוא מגיע כשהוא יוצא
+833|44:35|משם לקדש שם שמיים.
+834|44:38|לא חס ושלום שידברו הפוך אלא לפני
+835|44:43|שיוצאים, מסדרים, מנקים, מארגנים בצורה
+836|44:45|סבירה. עד כמה יש דברים שה כשמתערכים
+837|44:49|במקום אז לא אמורים לכבש את הסדינים ואת
+838|44:51|המגבות אבל ש לעזוב חדר במלון כשהוא חדר
+839|44:55|נקי. נוסעים ברכב השאות לשמור שם על
+
+LINHAS A TRADUZIR:
+840|44:58|הניקיון, מגיעים
+841|45:01|לאיזה פארק מסוים, גם בארץ, לא משנה, בכל
+842|45:04|מקום, יושבים לאכול, לשתות, צריך להיזהר
+843|45:07|שלא לגרום
+844|45:09|דחייה לאחרים. בפרט אם מדובר גם בנזקים
+845|45:12|שמזיקים, צריך לזכור שגזל הגוי אסור.
+846|45:16|גם אם מדובר במלון של לא יהודים, אסור
+847|45:20|לגזול, אסור להזיק.
+848|45:22|ואם שברו משהו, קלקלו משהו אפילו בטעות,
+849|45:25|צריכים ללכת להנהלת המלון ליד אותם
+850|45:29|בטעות המראה נשברה כמה זה עולה אני שלם.
+851|45:32|יכול להיות שיגידו לו אתה לא צריך אבל מצד
+852|45:34|עצמו צריך לפנות ולומר וגם מרוויחים ששם
+853|45:38|שמיים מתקדש. צריך שבכל מקום שיהיהודים
+854|45:40|נמצאים שיאמרו זה דבר גדול מה שהאדם הזה
+855|45:45|עשה. ויש מעשה שהיה לפני השואה,
+856|45:51|היה מוכר כרטיסים ברכבת בגרמניה, גרמני,
+857|45:54|לא יהודי.
+858|45:57|וגם יהודים נוסעים ברכבת. יהודי אחד קנה
+859|45:59|ממנו כרטיס, רואים על הלבוש שלו, כמו כל
+860|46:02|היהודי אירופה,
+861|46:05|קנה כרטיס, קיבל עודף והוא ראה שהוא נתן
+862|46:08|לו במקום שטר קטן, נתן לו שטר יותר גדול
+863|46:11|ממה שהוא נתן לו. טעה בחשבון.
+864|46:15|והוא מיד חזר לחלון של הקופה ואמר לו,
+865|46:20|"נתת לי יותר." מאוד התפעל מזה. לקח את
+866|46:24|הכסף חזרה, הודע לו ושאל את עצמו, "מעניין
+867|46:30|אם רק יהודי מתנהג כך?" הרי מן הסתם היו
+868|46:34|לי עוד מקרים שטעיתי, אבל לא זוכר פעם
+869|46:35|שמישהו החזיר לי כסף.
+870|46:38|אחרי כמה ימים, עוד יהודי כאן הכרטיס, הוא
+871|46:40|בכוונה נתן לו עודף יותר גדול. ההוא הלך
+872|46:44|חזר החזיר לו את הכסף ניסא כך כמה ודים
+873|46:48|שלבושים כשומרי תורה ומצוות ברעש תמיד
+874|46:51|ניסע את זה עם אחרים ראה שלא חוזרים זה
+875|46:54|גרם לו להעריץ את היהודים אין ספור יהודים
+876|46:57|הבן אדם הזה הציל בשואה ההוא שהחזיר לו את
+877|47:00|העודף הוא לא העלה בדעתו שאני עכשיו מציל
+878|47:03|יהודים אבל כשהוא נתן לו להרגיש הרצה כלפי
+879|47:07|ודים בשואה הוא אמר איך אפשר להרוג את

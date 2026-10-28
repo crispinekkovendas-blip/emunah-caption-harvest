@@ -1,0 +1,64 @@
+videoId: fHp6xoddUgc
+parte 11 de 30 · traduzir as linhas 400 a 439 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Nekudat Emet: o eu, a vontade e a visão de vida
+RESUMO: O rabino abre dizendo que tudo o que ensina vem de Baal HaSulam e propõe uma viagem para explicar o que é Nekudat Emet. Começa perguntando o que é o "eu" e o que é a vida, e os alunos não conseguem definir nenhum dos dois. Usa a imagem da navegação, que exige ponto de partida e ponto de chegada, e afirma que o ponto de partida é o próprio ser humano, que é a vontade (ratzon). A meta da vida é passar de uma forma de vontade errada, egoísta como a da criança, para uma forma certa, de doação. Lembra a pergunta de Avraham Avinu sobre quem move o mundo e explica que HaShem criou o desejo de receber para poder fazer o bem. Cita "não há pobreza senão no conhecimento" (Nedarim 41a), com Rashi entendendo daat como vontade. Ensina que a carência do outro (filho, cônjuge) é uma oportunidade, e usa o noivo sob a chupá que assume "outra daat" e a formiga na panela (Chulin) como imagens da unidade do casal. Depois divide a vontade em três níveis: prazeres deste mundo, o que a alma humana quer (graça, importância, domínio) e conhecimentos. Mostra então como a vontade gera uma visão de vida sombria ("sou um fracasso", "não sou amado"), que provoca emoções tóxicas, como a preocupação, e daí doenças. Por fim, diz que cada pessoa tem também uma visão de vida luminosa, como Rabi Akiva em "tudo o que o Misericordioso faz é para o bem". O processo de Nekudat Emet (físico, emocional e de consciência) revela essa visão, e a pessoa passa a poder escolher.
+MOMENTOS: 00:24 Abertura: o objetivo do curso e Nekudat Emet · 01:16 O que é o "eu"? Os alunos não conseguem definir · 04:37 O que é a vida? Tentativas de definição · 06:34 A imagem da navegação: ponto de partida e chegada · 09:02 Avraham Avinu e a necessidade de conhecer o Criador · 10:46 O ser humano é a vontade; mudar a si mesmo · 12:25 A criança como pura vontade e por que HaShem criou o desejo de receber · 19:18 Pobreza é falta de daat, não falta de posses · 23:12 A carência do outro como oportunidade e presente · 25:46 A chupá, a daat adicional e a formiga na panela · 33:00 Prioridades: cônjuge, filhos, círculos; honrar os pais · 36:15 A Torá como ferramenta: do egoísmo ao altruísmo · 40:25 Os três níveis da vontade · 47:55 Visão de vida: o desejo cria a sensação do oposto · 54:37 Emoções tóxicas e doenças · 1:01:45 O versículo pessoal, o processo e a escolha
+FONTES CITADAS: 00:05 Baal HaSulam · 09:02 Bereshit Rabá 39:1 · 10:29 Pirkei Avot 2:7 · 15:14 Baal HaSulam, propósito da Criação · 15:36 Cabalá, Sefirá Keter · 16:54 Baal Shem Tov · 20:00 Nedarim 41a · 20:11 Nedarim 41a · 20:20 Rashi, daat como vontade · 21:21 Baal HaSulam · 25:46 Yerushalmi Bikkurim 3:3 · 28:36 Chulin 100a; Shulchan Arukh, Yoreh Deá 100:1 · 35:02 Shemot 20:12 · 37:21 Baruch SheAmar · 38:46 Tehilim · 42:15 Mishlei 20:27 · 49:09 Chafetz Chaim · 51:59 Bereshit 4:7 · 52:56 Chazal, nefesh como vontade · 53:20 Pesachim 49b · 53:28 Berachot 60b · 1:01:26 Berachot 60b · 1:01:32 Taanit 21a · 1:01:45 Arizal
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+388|19:25|אדם שמסתפק בתפוח ולא מחפש יותר, הוא לא עני, הוא עשיר בתפוח.
+389|19:30|בסדר?
+390|19:31|אדם שיש לו מיליארדים, כמו, לא יודע איך קוראים לו, איך קוראים לו?
+391|19:37|אוקיי.
+392|19:38|יש לו מיליארדים, אבל זה לא מרגיע אותו, הוא רוצה עוד יותר.
+393|19:42|אז אם יש לו ארבע מאות מיליארד, הוא רוצה שמונה מאות.
+394|19:44|יש לו שמונה מאות, הוא רוצה אלף, לא יודע איך קוראים לזה כבר.
+395|19:47|אלף שש מאות בלעד, זה לא משנה, אז בכמה הוא אני?
+396|19:52|כל זה.
+397|19:54|עניות זה לא לפי מה שיש לך או מה שאין לך, אלא לפי מה שאתה מרגיש חסר לך.
+398|20:00|אז יש אני אמיתי, כתוב, אין אני אלא בדעת.
+399|20:04|זה אני אמיתי.
+
+LINHAS A TRADUZIR:
+400|20:06|בסדר?
+401|20:06|אין אני אלא בדעת, אמרה התורה הקדושה, אין עניות אלא בדעת.
+402|20:11|דעת, קנית מה חסרת, דעת חסרת מה קנית.
+403|20:15|אדם שאין לו דעת, עכשיו צריך להבין מה זה דעת, רש"י כותב דעת שווה רצון.
+404|20:20|כן?
+405|20:21|ככה רש"י כותב, לא אני אומר.
+406|20:27|אבל לא רצון.
+407|20:30|רצון.
+408|20:33|נכון.
+409|20:36|בוודאי שדעת זה מהשם.
+410|20:38|אז מה, מאיתנו?
+411|20:42|ומי עושה את זה?
+412|20:45|השם, דעת זה מהשם, בסדר?
+413|20:49|עכשיו דעת, אומר רש"י, דעת זה רצון, ועכשיו שימו לב, אנחנו עברנו מאז היותנו
+414|20:56|בעולם האמת, עד שיצאנו לעולם הזה, אנחנו עוברים מסע ענק מאוד,
+415|21:03|שבדרך אנחנו לוקחים איתנו כל מיני כאלה דברים שאנחנו צריכים לתקן אותם.
+416|21:09|עיקר התיקון זה דיברנו עכשיו, צריך שהרצון יקבל צורה נכונה.
+417|21:13|כל מי שמתעסק בדור הזה, עם כל שאר הדברים, יהיה לו מאוד לא פשוט להגיע לגמר
+418|21:19|התיקון שלו בדור הזה.
+419|21:21|לכן ברל הסולם אמר, צריך להתעסק עם הכלל בדור הזה, והכלל של כל הדברים זה הרצון, ואיתו צריך
+420|21:27|להתעסק.
+421|21:28|בסדר?
+422|21:29|באה הנקודות ואומרת, בואו נבין איך הרצון הזה פועל במציאות שלנו, בואו נלמד איך לנווט
+423|21:35|נכון, ולהביא את עצמי אל הנקודה שאליה אני אמור להגיע.
+424|21:40|אחרת, אין בעיה שיעברו פה...
+425|21:42|90 שנה, 120 שנה בעזרת השם לכולנו, ואנחנו נבוא עוד פעם, כי לא זזת.
+426|21:49|ואתה רואה לא מעט כאלה היום, מבוגרים, ואתה אומר, ריבונו של עולם, תעזור, זה לא יכול
+427|21:55|להיות.
+428|21:57|הוא נשאר במקום שלו, הוא לא זז, הוא עוד ילד, אבל רק הרצונות השתנו.
+429|22:01|זאת אומרת, הסרט החיצוני של הרצון השתנה בפנים, אותה תנועה.
+430|22:06|זה לא זז.
+431|22:08|אני, ברוך השם, לפעמים, כן?
+432|22:11|לפעמים אני מצליח ואני לא מצליח.
+433|22:13|אבל אני משתדל לאחוז את המחשבה שלי כשבא אליי ילד שזה רצון.
+434|22:18|מגיע אליי רצון.
+435|22:20|והרצון הזה הוא הזדמנות.
+436|22:21|לפעמים, לא תמיד אני מצליח, אני אומר מראש, בדרך כלל זו הזדמנות בשבילך.
+437|22:28|ההזדמנות שלי, מה?
+438|22:31|מה ההזדמנות שלי שילד בא עכשיו?
+439|22:32|עכשיו יש לי, ברוך השם, עשרה ילדים.

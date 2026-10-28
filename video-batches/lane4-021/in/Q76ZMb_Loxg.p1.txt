@@ -1,0 +1,64 @@
+videoId: Q76ZMb_Loxg
+parte 2 de 24 · traduzir as linhas 40 a 79 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayigash: os "vai" de Yaakov, Yosef e o temor a HaShem
+RESUMO: O rabino abre a Parashá Vayigash (Bereshit 44:18) notando que as parashiot sobre Yaakov começam com "Vai/Vayehi", pois a vida de Yaakov foi cheia de sofrimento: Esav, Lavan (cuja alma reencarnou em Bilam e Naval HaCarmeli, segundo o Arizal), Yosef, os 30 anos perdidos por sua queixa a Paro. Em seguida trata da halachá do cão sem corrente (Bava Kama), dos programas de busca de textos e do esforço na Torá. Cita o Zohar (Vayera) sobre Rabi Chizkiyah, que não viu grau mais alto do que o de quem guarda o Brit, e conta histórias do Ben Ish Chai e do Rav Shach no tribunal celeste, além do hidur mitzvá (Shabat 21b, Sucá 41b) nas velas de Chanuká. Explica que Yosef foi governante por temer a HaShem, que o mar se abriu por mérito dele e que não se deve esquecer a origem (Pesachim 66b). Depois discute por que Binyamin não morreu apesar do "brit krutá lasefatayim" (Bereshit 44:9), por que os irmãos se assustaram diante de Yosef e por que Yosef não subiu a seu pai. Termina com "al tachos al kelechem" (Bereshit 45:20) e a quitação de Paro.
+MOMENTOS: 00:54 Os sofrimentos de Yaakov: Esav e Lavan · 02:22 Halachá do cão sem corrente (Bava Kama) · 12:03 Zohar: Yosef governou por guardar o Brit · 18:49 Ben Ish Chai e a moça no tribunal celeste · 24:17 Rav Shach garante a vida de uma mulher · 26:27 Hidur mitzvá e as velas de Chanuká · 31:46 Amor e temor de HaShem: Avraham e Yosef · 35:36 Não esquecer a origem; o orgulho · 41:42 O brit krutá lasefatayim e Binyamin · 45:44 Por que os irmãos se assustaram com Yosef · 49:35 Por que Yosef não foi até seu pai Yaakov · 53:41 Al tachos al kelechem e a quitação de Paro
+FONTES CITADAS: 00:15 Bereshit 44:18 · 00:51 Bereshit Rabá 84:3 (Rashi em Bereshit 37:2) · 01:24 Zohar, Vayetze · 01:26 Arizal sobre os gilgulim · 02:22 Bava Kama 15b · 04:30 Bava Kama 15b · 10:53 Bereshit Rabá 65 · 12:06 Zohar, Vayera · 13:11 Tehilim 102:14 · 16:20 Zohar, Vayera · 23:19 Chulin 7b · 25:23 Bereshit 44:32 · 26:27 Shabat 133b · 26:41 Zohar, Yitro · 27:14 Shabat 21b · 29:46 Sucá 41b · 30:18 Vayikrá 23:40 · 32:08 Bereshit 22:12 · 32:35 Zohar, Vayera · 33:06 Bereshit 25:5 · 33:52 Sotá 36b · 35:22 Tehilim 114:3 · 37:16 Pesachim 66b · 38:18 Bereshit 23:6 · 41:16 Bereshit 44:7 · 41:22 Bereshit 44:9 · 41:42 Moed Katan 18a · 41:52 Bereshit 31:32 · 44:23 Bereshit 45:3 · 45:05 Bereshit 44:20 · 46:06 Zohar, Vayigash · 48:37 Rabi Yaakov Culi, Me'am Lo'ez · 50:30 Zohar, Vayigash · 50:47 Pirkê deRabi Eliezer / Midrash sobre Serach bat Asher · 51:16 Bereshit 45:27 · 51:28 Bereshit 45:26 · 52:05 Bereshit 45:28 · 53:41 Bereshit 45:20 · 55:55 Bereshit 15:13-14 · 56:05 Berachot 9b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+28|01:54|המלך, חזר אחר כך גלגול אבן.
+29|01:57|אמר הקדוש ברוך הוא, כמה אני יכול עליך?
+30|02:00|לבן ראשי תיבות, למד, לבן, בית, בלעם, נון, נבל הכרמלי.
+31|02:05|וזה הטעם אחר כך שאמר לו דוד המלך, אל תדאג, אני לא אשאיר לו עוד הבוקר משתין
+32|02:12|בקיר.
+33|02:12|אפילו את הכלבים שלו אני אהרוג.
+34|02:15|היו לו כלבים רוטווילרים לנבל הכרמלי.
+35|02:18|עמסטף, כל מיני כלבים כאלה רשעים.
+36|02:22|גמרא אומרת, אסור לגדל כלב רעם בתוך ביתו.
+37|02:24|בבא קמא דף ט"ו, בבא קמא דף מ"ו.
+38|02:27|שנאמר לו, תשים דמים בביתך.
+39|02:30|אסור לעשות כלב רע, שהוא כלב בלי שלשלת.
+
+LINHAS A TRADUZIR:
+40|02:34|יש, רצו להמציא בארצות הברית, התקשרו אליי, כתבתי על זה תשובה בשו"ת שלי, בכל של משפט,
+41|02:40|בחלק ד', שמה התקשרו, המציאו דבר כזה, שיש שלשלת
+42|02:45|לכלב, שהכלב לא יכול, זה בלי חוטים, זה אל-חוטי, והכלב זה
+43|02:51|מחובר לאיזה מוניטור שנמצא בבית של האדונים שלו.
+44|02:55|קודמים במוניטור, לא יודע איך זה עובד, זה עוד לא הוציאו את זה, אבל חושבים לא הוציא את זה,
+45|02:59|רצו אישור ממני, אז אמרתי שאני לא מעציר את זה.
+46|03:03|ובמוניטור הזה יש איזה כוח אנרגטי שמושך את הכלב לחזרה
+47|03:09|לתוך החצר.
+48|03:10|עכשיו, אתה יכול, אתה יכול לווסת אותו, לתת לו כמה שאתה רוצה, שתי מטר, שלוש
+49|03:16|מטר, ארבע מטר, והוא חוזר.
+50|03:18|אני הייתי פעם בארצות הברית, הלכתי לשם לטארגט.
+51|03:22|טארגט זה מקום גדול, מוכרים שם כל מיני מוצרי חשמל וכלים לבית.
+52|03:28|אז הגעתי לטארגט, היה לי עגלה.
+53|03:30|יצאתי מהטארגט עם העגלה, העגלה לא נוסעת.
+54|03:34|לא נוסעת.
+55|03:35|יצאתי מטר מהחנות, העגלה לא נוסעת.
+56|03:38|מה קורה?
+57|03:38|מסתבר שהם המציאו משהו כזה, במקום שיביאו את כל הסודנים האלה שיעמדו בראש עירת בחוץ, השחורים,
+58|03:45|שיגידו להם תחזירו את העגלות.
+59|03:47|אז במקום זה הם המציאו פטנט, שברגע שהעגלה עוזבת את החנות, העגלה לא
+60|03:52|נוסעת.
+61|03:53|אין לך מה לעשות איתה, הגלגלים נתקעו.
+62|03:55|משהו מדהים, אתה לא ראית כזה דבר.
+63|03:58|על אותו עניין, רצו לעשות גם בשלשלת של הכלב.
+64|04:03|כלב, לא נוח לו להיות מחובר כל הזמן לשלשלת, אז שמו לו קולר על הצוואר שלו,
+65|04:09|והקולר הזה, ברגע שהוא עוזב את הבית של האדון, הקולר הזה מונע ממנו להתקדם קדימה.
+66|04:15|האם אפשר או אסור להשתמש בכזה שלשלת?
+67|04:19|להלכה ולמעשה כתבתי שאסור, כי כל הטעם שאסור, שמא הוא יפגע באנשים, ואפילו לא יפגע
+68|04:25|בהם בפועל, אבל הם לא מכירים את הדבר, השיטה החדשה הזאת, שהוא לא יכול לעשות להם כלום.
+69|04:30|גמרא אומרת, מעשה היה באיזה אחד, שהיה כלב שלא, לא נעול
+70|04:36|בשלשלת.
+71|04:37|ראתה את זה איזה אישה הרה, מסכנה, הייתה בהיריון.
+72|04:41|ראתה את זה ונבעתה, נבעלה ממנו, אמר לה, אל תדאגי.
+73|04:46|הוצאתי לו את השיניים, ואין לו כלום, אמרה לו שקיל תבוטח.
+74|04:51|כבר נע הולד ממקומו, מה זה יעזור?
+75|04:53|כבר התפלתי, בר מינן.
+76|04:55|גם כאן, הגם שתגיד, תגיד לה, כן, אבל יש לו את הקולר הזה, אל תפחדי שאין לו שרשרת.
+77|05:01|אבל יש לו את הקולר שעוצר אותו, היא לא מכירה את השיטה הזאת, שקיל תבוטח, היא תפחד.
+78|05:07|לכן ודאי שאסור לדבר הזה.
+79|05:09|אז אסרתי את זה, וכתבתי עוד כל מיני טעמים, ושקלא וטריא, להתיר מצד אחד, לאסור מצד אחר,

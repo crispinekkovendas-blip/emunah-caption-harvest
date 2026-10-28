@@ -1,0 +1,64 @@
+videoId: FWCuPqWYkBM
+parte 8 de 25 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Onde está o túmulo de David? O túnel de Chizkiyáhu
+RESUMO: O rabino resume as aulas anteriores (as pilhagens do túmulo de David por Hurkanus e Herodes e a pergunta de Melachim I 2:10: David foi sepultado na Cidade de David, que ficava na colina oriental, e não no Monte Sião). Como não se pode escavar no Monte Sião, ele propõe achar um fio da meada na Cidade de David e conta como Chizkiyáhu, ameaçado por Sanherív, tapou a fonte do Gichon e cavou o túnel de Shiloach (Melachim II 20:20, Divrê HaYamim II 32:30), com a inscrição de Shiloach. A pergunta central é por que o túnel faz um grande desvio ao sul; Clermont-Ganneau sugeriu que foi para não violar os túmulos da casa de David. O Barão Rothschild financiou a escavação de Raymond Weill (1913), que achou nove cavernas funerárias, mas vazias e sem prova de que seriam reais. A tradição do Monte Sião nasce no relato de Binyamin miTudela (séc. XII), reforçada por Pierotti (1859) e pelo radar de penetração no solo, mas sem prova científica. Ele conclui com uma solução: David está na Cidade de David, e uma caverna liga o Monte Sião a ela, como o Zohar e o Sefer HaTemuná descrevem para Moshê e a Me'arat HaMachpelá; por isso é correto rezar no Monte Sião.
+MOMENTOS: 00:30 Resumo das aulas anteriores: as pilhagens do túmulo · 03:17 Melachim I 2:10: David sepultado na Cidade de David · 04:07 Cidade de David na colina oriental, Monte Sião fora das muralhas · 07:12 Não se pode escavar no Monte Sião; buscar um fio da meada · 10:07 Chizkiyáhu, Sanherív e o problema da água · 15:04 A fonte do Gichon e suas tradições · 22:21 O túnel de Shiloach nos versículos de Melachim II e Divrê HaYamim · 24:53 A inscrição de Shiloach e seu destino · 30:00 O enigma do desvio do túnel e a teoria de Clermont-Ganneau · 36:42 O Barão Rothschild e a escavação de Raymond Weill · 48:08 Binyamin miTudela e o relato dos dois operários judeus · 53:36 Pierotti, o radar e a tradição de Rabi Moshê Chagiz · 1:03:06 Sefer HaTemuná, o Zohar e a solução: caverna ligando as duas colinas
+FONTES CITADAS: 03:17 Melachim I 2:10 · 16:08 Tradição sobre Adam HaRishon · 16:20 Sucá 48b (Tosafot) · 16:26 Yeshayáhu 12:3 · 16:39 Avot deRabi Natan, cap. 35 · 17:08 Melachim I 1:33 · 17:23 Costume do Tashlich · 17:31 Kli Yakar sobre Melachim I 1:33 · 17:49 Discípulo do Ramban · 18:01 Rabi Avraham Azulai, Ir shel Zahav · 22:21 Melachim II 20:20 · 22:40 Divrê HaYamim II 32:30 · 24:53 Inscrição de Shiloach · 33:17 Charles Clermont-Ganneau (1897) · 49:11 Binyamin miTudela, Masaot Binyamin · 53:14 Testemunho de Rabi Yehoshua Diskin (c. 1892) · 54:46 Ermete Pierotti, Jerusalem Explored (1859) · 57:59 Estudo de radar de Amit Re'em (Autoridade de Antiguidades) · 1:00:09 Rabi Moshê Chagiz, Elé HaMitzvot · 1:03:09 Sefer HaTemuná, terceira Temuná, 60b · 1:03:31 Devarim 34:6 · 1:03:48 Zohar, Chukat 183a · 1:04:42 Chadash/Hagaot, Parashat Zot HaBerachá · 1:05:55 Pitach Eliyáhu, Tikunê HaZohar · 1:12:03 Rav Ovadia Yosef / Rav Ovadia Hadaya
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|21:17|הטבעי הבריכה הזאת מלאכותית היא לא בריכה טבעית היא
+269|21:23|מלאכותית הוא בנה אותה ועכשיו הוא היה צריך להעביר את המים
+270|21:30|מכאן עד לבריכה הבריכה בתוך תחומי העיר ירושלים אין
+271|21:36|לנו בעיה עכשיו שצבא אשור יהיה שמה כי הוא סתם את המעין אבל עכשיו הוא צריך להוביל את
+272|21:41|המים מכאן לתוך הבריכה.
+273|21:44|איך עושים את זה?
+274|21:46|איך עושים את זה?
+275|21:48|הוא חצב נקבה, נקבה זה תעלה, באורך
+276|21:54|533 מטרים בעומק הסלע.
+277|21:59|זה גובה של בן אדם.
+278|22:01|בתוך עומק הסלע, 533 מטר.
+279|22:06|עם פטיש ואיזמל.
+
+LINHAS A TRADUZIR:
+280|22:07|כלים פרימיטיביים.
+281|22:09|פתח את הסלע ואפשר להזרים את מי הגיחון בכוח
+282|22:14|הגרביטציה עם קצת שיפוע הישר לבריכת השילוח.
+283|22:21|אני קורא מלכים ב', פרק כ', פסוק כ', כתוב ככה ויתר דברי חזקיהו וכל
+284|22:27|גבורתו אשר עשה את הברכה ואת התעלה ויבא את
+285|22:33|המים העירה.
+286|22:34|הלא הם הכתובים על ספר דברי הימים למלכי יהודה.
+287|22:37|פתחתי דברי הימים למלכי יהודה, פרק ל"ב פסוק ל.
+288|22:40|והוא יחזקיהו סתם את מוצא מימי גיחון העליון.
+289|22:45|למה?
+290|22:46|שאשור לא ייהנה.
+291|22:47|וישרם למטה מערבה לעיר דוד ויצלח יחזקיהו
+292|22:53|בכל מעשהו.
+293|22:55|עד כאן רבותיי, מערה עצומה בתוך הסלע, בתוך
+294|23:00|ירושלים, כדי להוביל את כל המים ממעיים הגיחון לתוך הבריכת השילוח
+295|23:06|שנמצאת בתוך עיר דוד.
+296|23:08|לפני 150 שנה בערך, בשנת 1880, אני צודק
+297|23:14|150 שנה?
+298|23:15|אולי 147?
+299|23:16|לא יודע.
+300|23:18|1880, ילד אחד קטן חובב הרפתקאות בשם יעקב
+301|23:24|אליהו, רצה לחצות את כל הנקבע מקצה לקצה.
+302|23:30|לקח איתו פנס, ולא אמר לאבא ואימא כלום, ונכנס לתוך הנקבע
+303|23:37|ממעיין הגיחון, והוא רצה לצאת בצד השני, עד ל...
+304|23:42|אתה מדבר פה על יותר מחצי קילומטר, בתוך האדמה.
+305|23:46|זה עמוק בתוך האדמה.
+306|23:48|אז הוא לקח איתו את הפנס, ועשה את כל הדרך לבד.
+307|23:53|את כל הדרך לבד, יש מקומות שהמים עולים ממש גבוה.
+308|23:57|אתה חייב להרים את הראש שלך למעלה כדי לנשום.
+309|24:00|ויש כל מיני מקומות, תלוי גם בגאות, שפל, אם זה חורף, קיץ, לא נכנס לסוגיה.
+310|24:05|אבל אתה רואה מכאן, הילד הקטן הזה, כמה מטרים לפני שהוא יצא לבריכת
+311|24:10|השילוח, הוא כמעט טבע.
+312|24:13|וכשהוא טבע, הוא נכנס להיסטריה, והוא מנסה לתפוס
+313|24:19|בקיר במשהו, והוא לא מצליח לתפוס במשהו.
+314|24:23|אבל פתאום כשהוא שם את היד שלו על הקיר, הוא מרגיש שיש שם
+315|24:28|חריטות על הקיר.
+316|24:31|הוא עולה למעלה, מסתכל על החריטות, ונדמה לו שכתוב משהו על
+317|24:37|הקיר.
+318|24:38|הוא מסתכל, קרא לאחד הארכיאולוגים, שהוא היה מקורב איתו
+319|24:44|במשפחה, ואותו ארכיאולוג בא וראה שמדובר כאן על כתובת

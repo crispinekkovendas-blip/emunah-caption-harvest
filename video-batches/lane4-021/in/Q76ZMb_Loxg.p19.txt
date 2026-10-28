@@ -1,0 +1,64 @@
+videoId: Q76ZMb_Loxg
+parte 20 de 24 · traduzir as linhas 760 a 799 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayigash: os "vai" de Yaakov, Yosef e o temor a HaShem
+RESUMO: O rabino abre a Parashá Vayigash (Bereshit 44:18) notando que as parashiot sobre Yaakov começam com "Vai/Vayehi", pois a vida de Yaakov foi cheia de sofrimento: Esav, Lavan (cuja alma reencarnou em Bilam e Naval HaCarmeli, segundo o Arizal), Yosef, os 30 anos perdidos por sua queixa a Paro. Em seguida trata da halachá do cão sem corrente (Bava Kama), dos programas de busca de textos e do esforço na Torá. Cita o Zohar (Vayera) sobre Rabi Chizkiyah, que não viu grau mais alto do que o de quem guarda o Brit, e conta histórias do Ben Ish Chai e do Rav Shach no tribunal celeste, além do hidur mitzvá (Shabat 21b, Sucá 41b) nas velas de Chanuká. Explica que Yosef foi governante por temer a HaShem, que o mar se abriu por mérito dele e que não se deve esquecer a origem (Pesachim 66b). Depois discute por que Binyamin não morreu apesar do "brit krutá lasefatayim" (Bereshit 44:9), por que os irmãos se assustaram diante de Yosef e por que Yosef não subiu a seu pai. Termina com "al tachos al kelechem" (Bereshit 45:20) e a quitação de Paro.
+MOMENTOS: 00:54 Os sofrimentos de Yaakov: Esav e Lavan · 02:22 Halachá do cão sem corrente (Bava Kama) · 12:03 Zohar: Yosef governou por guardar o Brit · 18:49 Ben Ish Chai e a moça no tribunal celeste · 24:17 Rav Shach garante a vida de uma mulher · 26:27 Hidur mitzvá e as velas de Chanuká · 31:46 Amor e temor de HaShem: Avraham e Yosef · 35:36 Não esquecer a origem; o orgulho · 41:42 O brit krutá lasefatayim e Binyamin · 45:44 Por que os irmãos se assustaram com Yosef · 49:35 Por que Yosef não foi até seu pai Yaakov · 53:41 Al tachos al kelechem e a quitação de Paro
+FONTES CITADAS: 00:15 Bereshit 44:18 · 00:51 Bereshit Rabá 84:3 (Rashi em Bereshit 37:2) · 01:24 Zohar, Vayetze · 01:26 Arizal sobre os gilgulim · 02:22 Bava Kama 15b · 04:30 Bava Kama 15b · 10:53 Bereshit Rabá 65 · 12:06 Zohar, Vayera · 13:11 Tehilim 102:14 · 16:20 Zohar, Vayera · 23:19 Chulin 7b · 25:23 Bereshit 44:32 · 26:27 Shabat 133b · 26:41 Zohar, Yitro · 27:14 Shabat 21b · 29:46 Sucá 41b · 30:18 Vayikrá 23:40 · 32:08 Bereshit 22:12 · 32:35 Zohar, Vayera · 33:06 Bereshit 25:5 · 33:52 Sotá 36b · 35:22 Tehilim 114:3 · 37:16 Pesachim 66b · 38:18 Bereshit 23:6 · 41:16 Bereshit 44:7 · 41:22 Bereshit 44:9 · 41:42 Moed Katan 18a · 41:52 Bereshit 31:32 · 44:23 Bereshit 45:3 · 45:05 Bereshit 44:20 · 46:06 Zohar, Vayigash · 48:37 Rabi Yaakov Culi, Me'am Lo'ez · 50:30 Zohar, Vayigash · 50:47 Pirkê deRabi Eliezer / Midrash sobre Serach bat Asher · 51:16 Bereshit 45:27 · 51:28 Bereshit 45:26 · 52:05 Bereshit 45:28 · 53:41 Bereshit 45:20 · 55:55 Bereshit 15:13-14 · 56:05 Berachot 9b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+748|46:22|יש מי שאומר, לא עזבו אותו חתימת זקן, כן חתימת זקן.
+749|46:25|יש על זה קושיות.
+750|46:27|למה?
+751|46:28|גם את בנימין לא עזבו עם חתימת זקן.
+752|46:30|אז איך יוסף ידע שהביאו להם את בנימין?
+753|46:33|אז זה קושייה אחת.
+754|46:34|שני, תגיד הקול שלו, אבל הקול שלו הוא גם דיבר איתם לפני זה.
+755|46:38|אז איך הם לא זיהו אותו, את הקול שלו?
+756|46:41|מה, לא ידעו?
+757|46:42|אז מה, תגיד, דיבר בערבית?
+758|46:44|דיבר בערבית, זהו,
+759|46:50|אז מה, קול שלי שאני מדבר בערבית או מדבר בעברית זה לא אותו קול?
+
+LINHAS A TRADUZIR:
+760|46:54|אותו צלילים, אותו ניואנסים, מה זה לא אותו קול?
+761|46:57|אותו דבר, אז מה זה רעיון, איפה נבהלו מפניו?
+762|47:00|לא ראו אותו, אז פתאום הוא אמר להם, כי פיה מדבר עליכם, למה פיה מדבר עליכם?
+763|47:04|כי עד עכשיו היה מתורגמן, מנשה עמד ותרגם להם את הקול, הוא אומר לו
+764|47:17|שמעו את זה, הסתכלו על מנשה, הוא אומר לכם, בוקר טוב.
+765|47:23|הוא אומר בוקר טוב.
+766|47:24|טוב, תגיד לו גם בוקר טוב.
+767|47:27|היום הוא מדבר איתם תקיף, והיו שומעים ערבית,
+768|47:32|היו שומעים את זה ככה, היו נבהלים.
+769|47:35|ופתאום אמר להם, אני אוסף, הנה אני מדבר עברית, נבהלו מפניו, רגע מה,
+770|47:41|כן זה אבא.
+771|47:43|עכשיו איך הם לא זיהו, כן זה יוסף, איך לא זיהו אותו?
+772|47:47|למה לא זיהו אותו?
+773|47:47|הרי דמות קלסתר פניו של יעקב כמו קלסתר פנים של יוסף.
+774|47:51|הם דומים, לוק לייק.
+775|47:52|איך לא ראו?
+776|47:53|אלא, הם לא ראו אותו כשהוא היה צעיר.
+777|47:56|הם לא ראו את אבא שלהם כשהוא היה בגיל שלושים כמו יוסף.
+778|47:59|אצלנו היום זה לא בעיה לראות את אבא שלך בן שלושים, יש תמונות.
+779|48:04|אה, הנה בוא, תראה.
+780|48:07|יש תמונות.
+781|48:08|אז אתה רואה את אבא שלך בן שלושים, אתה רואה את הבן שלך, אתה רואה את הבן, אתה רואה אני יודע
+782|48:13|מה, את עצמך בן שלושים, הנה אתה ואבא דומים, בבקשה אותו דבר, אבל
+783|48:19|הם ראו את אבא כבר זקן, למעלה מגיל מאה היה כבר יעקב, אז הם לא ראו אותו כשהוא היה בן
+784|48:24|שלושים, רק אחר כך כשאמר להם אני יוסף, פתאום נבעלו מפניו, אמרו רגע זה כן אותם תווי
+785|48:30|פנים, זה כמו אבא, זה אבא הנה זה יוסף, גם זה דוח הגדול אבל נגיד שזה
+786|48:36|תירוץ אחד.
+787|48:37|התירוץ הכי מתיישב על הלב זה מה שכותב רבי יעקב קולי מדרש מעם לועז.
+788|48:40|הוא כותב שהיה מנהג במצרים העתיקה שלא רואים את הפנים של המלך.
+789|48:47|למה?
+790|48:48|שהמלך הוא כזה קדוש כאילו וטהור, שפשוטי העם אין להם זכות
+791|48:54|ורשות לראות את הפנים של המלך.
+792|48:56|אז תמיד המלך, הפרעונים, היה להם כמו מסכה כזאתי.
+793|49:01|כמו המסכה כזאת עם המקלות שלהם אלה, של הדרדלה, של המלאך המוות.
+794|49:06|ושם ככה, הוא היה מדבר עליהם ככה.
+795|49:14|והוא מתרגם.
+796|49:15|עכשיו, לא ידעו מי מאחורי המסכה.
+797|49:18|פתאום לא יכל יוסף יותר לעמוד.
+798|49:21|לא יכל להתאפק יוסף.
+799|49:23|הוריד את המסכה, אמר להם, אני יוסף.

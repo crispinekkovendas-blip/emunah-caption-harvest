@@ -1,0 +1,64 @@
+videoId: Q76ZMb_Loxg
+parte 14 de 24 · traduzir as linhas 520 a 559 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayigash: os "vai" de Yaakov, Yosef e o temor a HaShem
+RESUMO: O rabino abre a Parashá Vayigash (Bereshit 44:18) notando que as parashiot sobre Yaakov começam com "Vai/Vayehi", pois a vida de Yaakov foi cheia de sofrimento: Esav, Lavan (cuja alma reencarnou em Bilam e Naval HaCarmeli, segundo o Arizal), Yosef, os 30 anos perdidos por sua queixa a Paro. Em seguida trata da halachá do cão sem corrente (Bava Kama), dos programas de busca de textos e do esforço na Torá. Cita o Zohar (Vayera) sobre Rabi Chizkiyah, que não viu grau mais alto do que o de quem guarda o Brit, e conta histórias do Ben Ish Chai e do Rav Shach no tribunal celeste, além do hidur mitzvá (Shabat 21b, Sucá 41b) nas velas de Chanuká. Explica que Yosef foi governante por temer a HaShem, que o mar se abriu por mérito dele e que não se deve esquecer a origem (Pesachim 66b). Depois discute por que Binyamin não morreu apesar do "brit krutá lasefatayim" (Bereshit 44:9), por que os irmãos se assustaram diante de Yosef e por que Yosef não subiu a seu pai. Termina com "al tachos al kelechem" (Bereshit 45:20) e a quitação de Paro.
+MOMENTOS: 00:54 Os sofrimentos de Yaakov: Esav e Lavan · 02:22 Halachá do cão sem corrente (Bava Kama) · 12:03 Zohar: Yosef governou por guardar o Brit · 18:49 Ben Ish Chai e a moça no tribunal celeste · 24:17 Rav Shach garante a vida de uma mulher · 26:27 Hidur mitzvá e as velas de Chanuká · 31:46 Amor e temor de HaShem: Avraham e Yosef · 35:36 Não esquecer a origem; o orgulho · 41:42 O brit krutá lasefatayim e Binyamin · 45:44 Por que os irmãos se assustaram com Yosef · 49:35 Por que Yosef não foi até seu pai Yaakov · 53:41 Al tachos al kelechem e a quitação de Paro
+FONTES CITADAS: 00:15 Bereshit 44:18 · 00:51 Bereshit Rabá 84:3 (Rashi em Bereshit 37:2) · 01:24 Zohar, Vayetze · 01:26 Arizal sobre os gilgulim · 02:22 Bava Kama 15b · 04:30 Bava Kama 15b · 10:53 Bereshit Rabá 65 · 12:06 Zohar, Vayera · 13:11 Tehilim 102:14 · 16:20 Zohar, Vayera · 23:19 Chulin 7b · 25:23 Bereshit 44:32 · 26:27 Shabat 133b · 26:41 Zohar, Yitro · 27:14 Shabat 21b · 29:46 Sucá 41b · 30:18 Vayikrá 23:40 · 32:08 Bereshit 22:12 · 32:35 Zohar, Vayera · 33:06 Bereshit 25:5 · 33:52 Sotá 36b · 35:22 Tehilim 114:3 · 37:16 Pesachim 66b · 38:18 Bereshit 23:6 · 41:16 Bereshit 44:7 · 41:22 Bereshit 44:9 · 41:42 Moed Katan 18a · 41:52 Bereshit 31:32 · 44:23 Bereshit 45:3 · 45:05 Bereshit 44:20 · 46:06 Zohar, Vayigash · 48:37 Rabi Yaakov Culi, Me'am Lo'ez · 50:30 Zohar, Vayigash · 50:47 Pirkê deRabi Eliezer / Midrash sobre Serach bat Asher · 51:16 Bereshit 45:27 · 51:28 Bereshit 45:26 · 52:05 Bereshit 45:28 · 53:41 Bereshit 45:20 · 55:55 Bereshit 15:13-14 · 56:05 Berachot 9b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+508|31:39|אמר לי, אבל מה, כן, אשתי ודאי שתתה מזה.
+509|31:42|למה לא מפסיקה לדבר.
+510|31:44|אז זה מה שיהיה.
+511|31:46|בכל מקרה, אדם שאוהב את הקדוש ברוך הוא, מה עושה?
+512|31:50|מהדר במצוות, עושה מצוות.
+513|31:52|אדם שירא את הקדוש ברוך הוא, מה עושה?
+514|31:55|נדחה מהלא תעשה.
+515|31:57|את האלוהים ההיא ירא, זאת עשו וחיו.
+516|32:00|לא חסך ממני מאום הקיים אותך באשר את אשתו.
+517|32:03|ואיך אעשה הרעה הגדולה הזאת לאלוהים?
+518|32:05|כל פעם יוסף הצדיק היה ירא שמיים.
+519|32:08|אצל אברהם כתוב, ועתה ידעתי כי ירא אלוהים אתה.
+
+LINHAS A TRADUZIR:
+520|32:12|אבל מה ירא אלוהים?
+521|32:13|הוא היה אוהב את השם.
+522|32:15|הרי זה מצוות עשה, מה זה קחנה את בנך?
+523|32:17|מצוות עשה, אמרנו מצוות עשה זה מי שאוהב את הקדוש ברוך הוא בא לחדש לך שאברהם אבינו
+524|32:23|עליו השלום גם ירא, זה החידוש.
+525|32:26|זה שהוא אוהב את הקדוש ברוך הוא איש החסד, זה לא חידוש שאברהם אוהב.
+526|32:30|חידוש אתה ידעתי כי ירא אלוהים אתה, אתה לא רק אוהב אותי, אתה גם ירא ממני.
+527|32:35|וזה למה הוא קורא לו אומר הזוהר פעמיים, אברהם אברהם.
+528|32:39|אברהם ראשון אוהב את הקדוש ברוך הוא חסד שבחסד.
+529|32:43|אברהם השני, גבורה שבחסד.
+530|32:47|הוא השתלם להיות מידת הדין, וזה מה שהוא אומר לו יצחק.
+531|32:50|אבא, ויאמר, הנני בני, והזוהר דורש, הנני בני, אני מתחיל להיות מידת הדין, כמו בני.
+532|32:56|גם אני מתחיל להיות מידת הדין.
+533|32:58|ולכן הקדוש ברוך הוא אוהב את אברהם אבינו.
+534|33:00|ואחרי זה יצחק, גם יצחק, היה גבורה שבגבורה, ואז מיתק את עצמו על ידי החסדים של אבא שלו,
+535|33:06|וייתן אברהם את כל אשר לו ליצחק.
+536|33:09|מה זה נתן לו?
+537|33:10|נתן לו מידת החסד, ויצחק בהתחלה היה גבורה-גבורה, ונהיה...
+538|33:14|חסד שבגבורה התמתק גם עד שבא יעקב אבינו בחיר האבות והיה גם
+539|33:20|כן תפארת שזה הקו הימני שהוא היה המכריע שביניהם אז
+540|33:26|תראו שמישהו ירא שמיים שומר את הברית מילה שלו יוסף הצדיק בזכות מה זכה להיות
+541|33:32|השליט על ארץ מצרים המשביר?
+542|33:34|בזכות מה?
+543|33:35|בזכות זה שהוא היה שומר בריתו שהיה ירא שמיים וזה מה שאומר המדרש תנא רבי ישמעאל
+544|33:41|הים רעב האנוס הירדן הסתוב לאחור, שואל רבי ישמעאל, מה
+545|33:47|הים ראה?
+546|33:48|ראה ארונו של יוסף, ככה אומרת הגמרא בסוטה.
+547|33:52|מה שייך ארונו של יוסף שראה?
+548|33:55|למה לא ראה בני ישראל, בני אברהם, יצחק ויעקב?
+549|33:59|מה ראה ארונו של יוסף?
+550|34:01|אלא יוסף הצדיק היה מעל הטבע.
+551|34:04|כל יום שידלה אותו, דיברתי על זה באריכות שבוע שעבר, שידלה אותו אשת פוטיפר לדבר עבירה ולא
+552|34:09|נפל בידיים שלה.
+553|34:11|והיא דברה אליו, כי דברה אליו יום יום, לא שמעה אצלה לשכב אצלה להיות אימא, לא שמעה אצלה,
+554|34:16|נפתח הים.
+555|34:18|למה?
+556|34:19|כי אם יוסף היה מעל הטבע, אז ראוי למי שמעל הטבע, שיפתחו לו את הים גם
+557|34:24|מעל הטבע.
+558|34:26|מישהו מעל הטבע וככה כותבו כל המפרשים וגם חכם עובדיה הביא את זה בפיאור שלו מאור ישראל על
+559|34:31|מסכת חגיגה שהוא כותב שמי שילך דף ט"ו שמי שילך בדרך

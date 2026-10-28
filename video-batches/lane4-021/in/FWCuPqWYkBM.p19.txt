@@ -1,0 +1,64 @@
+videoId: FWCuPqWYkBM
+parte 20 de 25 · traduzir as linhas 760 a 799 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Onde está o túmulo de David? O túnel de Chizkiyáhu
+RESUMO: O rabino resume as aulas anteriores (as pilhagens do túmulo de David por Hurkanus e Herodes e a pergunta de Melachim I 2:10: David foi sepultado na Cidade de David, que ficava na colina oriental, e não no Monte Sião). Como não se pode escavar no Monte Sião, ele propõe achar um fio da meada na Cidade de David e conta como Chizkiyáhu, ameaçado por Sanherív, tapou a fonte do Gichon e cavou o túnel de Shiloach (Melachim II 20:20, Divrê HaYamim II 32:30), com a inscrição de Shiloach. A pergunta central é por que o túnel faz um grande desvio ao sul; Clermont-Ganneau sugeriu que foi para não violar os túmulos da casa de David. O Barão Rothschild financiou a escavação de Raymond Weill (1913), que achou nove cavernas funerárias, mas vazias e sem prova de que seriam reais. A tradição do Monte Sião nasce no relato de Binyamin miTudela (séc. XII), reforçada por Pierotti (1859) e pelo radar de penetração no solo, mas sem prova científica. Ele conclui com uma solução: David está na Cidade de David, e uma caverna liga o Monte Sião a ela, como o Zohar e o Sefer HaTemuná descrevem para Moshê e a Me'arat HaMachpelá; por isso é correto rezar no Monte Sião.
+MOMENTOS: 00:30 Resumo das aulas anteriores: as pilhagens do túmulo · 03:17 Melachim I 2:10: David sepultado na Cidade de David · 04:07 Cidade de David na colina oriental, Monte Sião fora das muralhas · 07:12 Não se pode escavar no Monte Sião; buscar um fio da meada · 10:07 Chizkiyáhu, Sanherív e o problema da água · 15:04 A fonte do Gichon e suas tradições · 22:21 O túnel de Shiloach nos versículos de Melachim II e Divrê HaYamim · 24:53 A inscrição de Shiloach e seu destino · 30:00 O enigma do desvio do túnel e a teoria de Clermont-Ganneau · 36:42 O Barão Rothschild e a escavação de Raymond Weill · 48:08 Binyamin miTudela e o relato dos dois operários judeus · 53:36 Pierotti, o radar e a tradição de Rabi Moshê Chagiz · 1:03:06 Sefer HaTemuná, o Zohar e a solução: caverna ligando as duas colinas
+FONTES CITADAS: 03:17 Melachim I 2:10 · 16:08 Tradição sobre Adam HaRishon · 16:20 Sucá 48b (Tosafot) · 16:26 Yeshayáhu 12:3 · 16:39 Avot deRabi Natan, cap. 35 · 17:08 Melachim I 1:33 · 17:23 Costume do Tashlich · 17:31 Kli Yakar sobre Melachim I 1:33 · 17:49 Discípulo do Ramban · 18:01 Rabi Avraham Azulai, Ir shel Zahav · 22:21 Melachim II 20:20 · 22:40 Divrê HaYamim II 32:30 · 24:53 Inscrição de Shiloach · 33:17 Charles Clermont-Ganneau (1897) · 49:11 Binyamin miTudela, Masaot Binyamin · 53:14 Testemunho de Rabi Yehoshua Diskin (c. 1892) · 54:46 Ermete Pierotti, Jerusalem Explored (1859) · 57:59 Estudo de radar de Amit Re'em (Autoridade de Antiguidades) · 1:00:09 Rabi Moshê Chagiz, Elé HaMitzvot · 1:03:09 Sefer HaTemuná, terceira Temuná, 60b · 1:03:31 Devarim 34:6 · 1:03:48 Zohar, Chukat 183a · 1:04:42 Chadash/Hagaot, Parashat Zot HaBerachá · 1:05:55 Pitach Eliyáhu, Tikunê HaZohar · 1:12:03 Rav Ovadia Yosef / Rav Ovadia Hadaya
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+748|55:46|הוא רוקן רק מערה אחת ולכן הורדוס מצא אחר כך מערה אחרת ומה שכותב האברבנל שיש
+749|55:52|עוד אוצרות במערות האחרות שיש שם.
+750|55:56|הוא טען שבסוף הוא הגיע למערה ענקית עם גרן מדרגות מונומנטלי
+751|56:02|טיפס עליו בהתרגשות וכותב בספר שלו Jerusalem Explored מצאתי
+752|56:08|את קברי בית דוד ושם ארונות קבורה ענקיים ומרשימים
+753|56:13|מאבן הוא לא נסחף לזהב וכסף ושיש, אבל הוא כותב אבן.
+754|56:19|יכול להיות שזה כן עשוי זהב וכסף ושיש, אבל במזג האוויר הסוער, בחושך,
+755|56:24|בהתרגשות, בפחד, אז הוא לא ראה את זה שזה עשוי זהב, כסף ושיש, אבל בכל מקרה,
+756|56:30|ככה הוא כותב בהתרגשות שהוא מצא.
+757|56:33|לפני שהוא הספיק למדוד את החלל, שומרי המקום המוסלמים פתאום
+758|56:37|הופיעו.
+759|56:40|אתה רק שומע את הערבית שלהם, אתה כולך מתמקמק.
+
+LINHAS A TRADUZIR:
+760|56:52|לקחו אותו, הרימו אותו, סתמו את הפתח של המערה, והוא שרטט את
+761|56:57|כל המבנה בספר שלו.
+762|56:59|רבותיי, יש את השרטוט של המערה בספר שלו, Jerusalem Explored, והוא אומר,
+763|57:05|אני מבקש בכל לשון, מכל הארכיאולוגים שיבואו אחריי, שיחקרו את המקום, כי אין לי
+764|57:11|ספק שזה קבר דוד המלך.
+765|57:13|ככה כותב גוי.
+766|57:15|שמסיח לפי תומו.
+767|57:17|בשנת 2011 הוחלט לבחון את הטענות שלו, לא בזמן 2011, הוחלט
+768|57:22|לבחון את הטענות של ארמטה, פיירוטי, האם הן טענות אמיתיות או
+769|57:27|לא.
+770|57:29|בשל הסטטוס קוו הדתי והפוליטי בהר ציון שהוא המנפיצים בעולם, כמו שאמרנו, כל ניסיון חפירה
+771|57:34|ארכיאולוגי פולשני צפוי להצעיד משבר דתי עולמי ולגרור תקריות, כמו שדיברנו, אז
+772|57:40|אין מנוס אלא להשתמש בכלים טכנולוגים מתקדמים שלא דורשים חפירה.
+773|57:46|איזה כלים טכנולוגיים אפשר להשתמש כאן?
+774|57:51|מה אתם אומרים?
+775|57:51|מכ"ם.
+776|57:53|הארכיאולוג עמית ראם, מרשות העתיקות, יחד עם צוות מומחים, ביצעו
+777|57:59|סריקות באמצעות מכ"ם חודר קרקע מכל הכיוונים של הר ציון.
+778|58:04|הביאו את המכ"ם לכל הכיוונים והתחילו לשרטט לפי הגלים שחוזרים מהמכ"ם.
+779|58:10|זה קצת דומה לעטלף.
+780|58:12|עטלף, איך הוא מוצא את הדרך שלו בלילה?
+781|58:14|הוא לא רואה, אלא הוא צועק,
+782|58:16|אהההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההה
+783|58:37|המק"ם זיהה חלל מונומנטלי מתחת לקבר דוד בהר ציון, נצפו שינויים בצפיפות הקרקע,
+784|58:43|הוכח בוודאות חדירה של גלים מבעד לרצפה וקיומו של
+785|58:49|חלל תת קרקעי רכב ידיים עם עוד חללים
+786|58:55|קטנים.
+787|58:57|זאת אומרת זה מערה אחת גדולה ויש לה עוד עיר שלמה בקיצור מתחת להר הזה.
+788|59:02|בעין מדעית הם לא ממהרים להכריז שהם מצאו את קבר דוד, כי באמת הכל יכול להיות שם
+789|59:08|למטה.
+790|59:09|מחילות, מערות, בורות מים נטושים, חדרים חצובים בסלע, אולי אפילו קברים, אבל מי אמר
+791|59:15|שזה קברי בית דוד?
+792|59:16|כל זה נמצא עמוק מתחת לרצפה שבחדר שבו ניצב כיום הציון.
+793|59:22|רבי משה חגיס, אז עד כאן רבותיי, קודם כל הארכיאולוג הזה, מה שהוא מצא הוא לא גילה לנו את
+794|59:28|אמריקה כל כך כי ידענו, אבל סוף סוף מה שאנחנו כן יודעים היום שגם מבחינה מדעית יש שם
+795|59:34|משהו מתחת להר ציון.
+796|59:36|אז מבחינת הסיפורים שמביא לנו רבי בנימין מתודלה זה סיפורים, שתי הצבעים שבאו
+797|59:42|לפנימה עם דיסקין זה סיפורים.
+798|59:45|אחר כך ארמט אפיארוטי קצת יותר ממוסד כי הוא גם משרטט לך את
+799|59:50|המערה ואחר כך המתראם מרשות העתיקות,

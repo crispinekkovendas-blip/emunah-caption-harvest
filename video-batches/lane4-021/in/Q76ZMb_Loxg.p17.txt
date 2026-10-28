@@ -1,0 +1,64 @@
+videoId: Q76ZMb_Loxg
+parte 18 de 24 · traduzir as linhas 680 a 719 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayigash: os "vai" de Yaakov, Yosef e o temor a HaShem
+RESUMO: O rabino abre a Parashá Vayigash (Bereshit 44:18) notando que as parashiot sobre Yaakov começam com "Vai/Vayehi", pois a vida de Yaakov foi cheia de sofrimento: Esav, Lavan (cuja alma reencarnou em Bilam e Naval HaCarmeli, segundo o Arizal), Yosef, os 30 anos perdidos por sua queixa a Paro. Em seguida trata da halachá do cão sem corrente (Bava Kama), dos programas de busca de textos e do esforço na Torá. Cita o Zohar (Vayera) sobre Rabi Chizkiyah, que não viu grau mais alto do que o de quem guarda o Brit, e conta histórias do Ben Ish Chai e do Rav Shach no tribunal celeste, além do hidur mitzvá (Shabat 21b, Sucá 41b) nas velas de Chanuká. Explica que Yosef foi governante por temer a HaShem, que o mar se abriu por mérito dele e que não se deve esquecer a origem (Pesachim 66b). Depois discute por que Binyamin não morreu apesar do "brit krutá lasefatayim" (Bereshit 44:9), por que os irmãos se assustaram diante de Yosef e por que Yosef não subiu a seu pai. Termina com "al tachos al kelechem" (Bereshit 45:20) e a quitação de Paro.
+MOMENTOS: 00:54 Os sofrimentos de Yaakov: Esav e Lavan · 02:22 Halachá do cão sem corrente (Bava Kama) · 12:03 Zohar: Yosef governou por guardar o Brit · 18:49 Ben Ish Chai e a moça no tribunal celeste · 24:17 Rav Shach garante a vida de uma mulher · 26:27 Hidur mitzvá e as velas de Chanuká · 31:46 Amor e temor de HaShem: Avraham e Yosef · 35:36 Não esquecer a origem; o orgulho · 41:42 O brit krutá lasefatayim e Binyamin · 45:44 Por que os irmãos se assustaram com Yosef · 49:35 Por que Yosef não foi até seu pai Yaakov · 53:41 Al tachos al kelechem e a quitação de Paro
+FONTES CITADAS: 00:15 Bereshit 44:18 · 00:51 Bereshit Rabá 84:3 (Rashi em Bereshit 37:2) · 01:24 Zohar, Vayetze · 01:26 Arizal sobre os gilgulim · 02:22 Bava Kama 15b · 04:30 Bava Kama 15b · 10:53 Bereshit Rabá 65 · 12:06 Zohar, Vayera · 13:11 Tehilim 102:14 · 16:20 Zohar, Vayera · 23:19 Chulin 7b · 25:23 Bereshit 44:32 · 26:27 Shabat 133b · 26:41 Zohar, Yitro · 27:14 Shabat 21b · 29:46 Sucá 41b · 30:18 Vayikrá 23:40 · 32:08 Bereshit 22:12 · 32:35 Zohar, Vayera · 33:06 Bereshit 25:5 · 33:52 Sotá 36b · 35:22 Tehilim 114:3 · 37:16 Pesachim 66b · 38:18 Bereshit 23:6 · 41:16 Bereshit 44:7 · 41:22 Bereshit 44:9 · 41:42 Moed Katan 18a · 41:52 Bereshit 31:32 · 44:23 Bereshit 45:3 · 45:05 Bereshit 44:20 · 46:06 Zohar, Vayigash · 48:37 Rabi Yaakov Culi, Me'am Lo'ez · 50:30 Zohar, Vayigash · 50:47 Pirkê deRabi Eliezer / Midrash sobre Serach bat Asher · 51:16 Bereshit 45:27 · 51:28 Bereshit 45:26 · 52:05 Bereshit 45:28 · 53:41 Bereshit 45:20 · 55:55 Bereshit 15:13-14 · 56:05 Berachot 9b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+668|41:42|עכשיו למדנו בגמרא במסכת חגיגה מועד קטן י"ח שברית כרותה לשפתיים יעקב אבינו
+669|41:48|אמר אצל לבן הרשע מה אמר?
+670|41:52|אשר תמצא את אלוהיך ומת ככה כתוב אם אשר תמצא את
+671|41:57|אלוהיך לא יחיה זה הלשון שמה ועל זה אומר הזוהר מתה
+672|42:03|רחל למה?
+673|42:05|כי ברית כרותה לשפתיים ולא ידע יעקב כי רחל גנבתם לפי זה שאלה
+674|42:11|למה כשיעקב הוציא מהפה שלו, ברית כרותה לשפתיים ומתה רחל?
+675|42:17|כי באמת, היא גנבה את זה.
+676|42:18|ולעומת זאת, כאן שהאחים הוציאו מהפה שלהם, מי שימצא גביע בידו
+677|42:24|ומת, לא מת בנימין.
+678|42:27|מה ההבדל?
+679|42:28|הם לא דגו, למה הוא לא גנב בעצמו?
+
+LINHAS A TRADUZIR:
+680|42:31|היא גנבה...
+681|42:36|בסדר, אבל ברית כרותה לשפתיים.
+682|42:38|הוא אמר, הוא אמר, אשר ימצא מעבדיך ומת.
+683|42:43|אז רציתי שנה שעברה באמת לומר שהוא באמת לא גנב.
+684|42:48|מתי יש את הברית כרותה לשפתיים?
+685|42:51|רק מתי שבאמת הדבר אמיתי.
+686|42:54|אז ברית כרותה לשפתיים ומת.
+687|42:57|אבל היא לאו הכי, אם זה לא אמת, אז אין ברית כרותה לשפתיים.
+688|43:00|זה קצת קושי, אבל נגיד.
+689|43:02|תירוץ שני שאמרתי לומר.
+690|43:04|שאשר יימצא איתו מעבדיך ומת, אם יש את
+691|43:10|הגביע אצל אחד מעבדיך, שימות.
+692|43:14|זאת אומרת, הוא היה חכם.
+693|43:17|כשהם אמרו את זה, לא כתוב מי מהאחים אמר את זה.
+694|43:19|אולי יהודה, אולי ראובן, אבל כשהוא אמר את זה, הוא אמר אולי באמת פריקו אותה לשפתיים.
+695|43:25|הרי למדנו מאבא, שאבא אמר את זה ומתה רחל בדרך.
+696|43:29|אז אנחנו יודעים את הדבר הזה, ומה הם לא היו חכמים, היו גדולי ישראל אלה, זה השבטים,
+697|43:35|כנגד השתים עשרה גבולי האלכסון של השכינה הקדושה, אלה גדולי ישראל.
+698|43:40|אז הוא יודע שאם הוא מוציא מהשפתיים שלו עכשיו, ומאת ימות.
+699|43:43|אז מה עשה?
+700|43:44|הוא אמר את זה בצורה כזאת, שיחשבו שמדברים עליהם, אבל באמת הוא לא דיבר עליהם.
+701|43:50|מה אמר?
+702|43:50|אשר יימצא איתו מעבדיך ומת.
+703|43:54|אם זה נמצא אצל מישהו מעבדיך, שימות העבד שלך.
+704|43:57|אנחנו לא עבדיך, אנחנו עבדים של הקדוש ברוך הוא.
+705|44:00|זה שאתה רוצה להבין כאילו דיברנו על עצמנו, מותר לאדם להטעות עצמו.
+706|44:05|אבל מעבדיך ומת, אז בנימין לא מעבדיך.
+707|44:09|אז בנימין הוא עדיין לא העבד שלך, וגם אם אחר כך יתגלגל שהוא יהיה העבד שלך, כשזה נמצא הוא
+708|44:14|עדיין לא נקרא עדיין העבד שלך.
+709|44:16|ולכן בנימין לא מת.
+710|44:19|אחרי זה אתם תראו, אה?
+711|44:22|גם הוא לא גנר.
+712|44:22|גם הוא לא גנר, נכון.
+713|44:23|ואחרי זה אתם תראו ולא יכלו אחיו לענות אותו כי נבעלו
+714|44:29|מפניו למה נבעלו מפניו?
+715|44:32|הם אמרו מה זה נבעלו מפניו?
+716|44:35|הם אמרו אם אנחנו באמת לא הרגנו אותו, הרי אנחנו שחטנו סתם
+717|44:40|ועשינו בימוי, סתם שיקרנו, לקחנו עזים, הקרנה הקטונת בן חיים, לאה
+718|44:46|ויקירה ויאמר וכולי.
+719|44:48|אז עשינו, אנחנו רואים שהוא לא מת, אבל יכול להיות יוסף מת.

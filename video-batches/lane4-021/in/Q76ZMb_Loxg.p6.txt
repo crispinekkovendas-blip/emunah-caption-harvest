@@ -1,0 +1,64 @@
+videoId: Q76ZMb_Loxg
+parte 7 de 24 · traduzir as linhas 240 a 279 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayigash: os "vai" de Yaakov, Yosef e o temor a HaShem
+RESUMO: O rabino abre a Parashá Vayigash (Bereshit 44:18) notando que as parashiot sobre Yaakov começam com "Vai/Vayehi", pois a vida de Yaakov foi cheia de sofrimento: Esav, Lavan (cuja alma reencarnou em Bilam e Naval HaCarmeli, segundo o Arizal), Yosef, os 30 anos perdidos por sua queixa a Paro. Em seguida trata da halachá do cão sem corrente (Bava Kama), dos programas de busca de textos e do esforço na Torá. Cita o Zohar (Vayera) sobre Rabi Chizkiyah, que não viu grau mais alto do que o de quem guarda o Brit, e conta histórias do Ben Ish Chai e do Rav Shach no tribunal celeste, além do hidur mitzvá (Shabat 21b, Sucá 41b) nas velas de Chanuká. Explica que Yosef foi governante por temer a HaShem, que o mar se abriu por mérito dele e que não se deve esquecer a origem (Pesachim 66b). Depois discute por que Binyamin não morreu apesar do "brit krutá lasefatayim" (Bereshit 44:9), por que os irmãos se assustaram diante de Yosef e por que Yosef não subiu a seu pai. Termina com "al tachos al kelechem" (Bereshit 45:20) e a quitação de Paro.
+MOMENTOS: 00:54 Os sofrimentos de Yaakov: Esav e Lavan · 02:22 Halachá do cão sem corrente (Bava Kama) · 12:03 Zohar: Yosef governou por guardar o Brit · 18:49 Ben Ish Chai e a moça no tribunal celeste · 24:17 Rav Shach garante a vida de uma mulher · 26:27 Hidur mitzvá e as velas de Chanuká · 31:46 Amor e temor de HaShem: Avraham e Yosef · 35:36 Não esquecer a origem; o orgulho · 41:42 O brit krutá lasefatayim e Binyamin · 45:44 Por que os irmãos se assustaram com Yosef · 49:35 Por que Yosef não foi até seu pai Yaakov · 53:41 Al tachos al kelechem e a quitação de Paro
+FONTES CITADAS: 00:15 Bereshit 44:18 · 00:51 Bereshit Rabá 84:3 (Rashi em Bereshit 37:2) · 01:24 Zohar, Vayetze · 01:26 Arizal sobre os gilgulim · 02:22 Bava Kama 15b · 04:30 Bava Kama 15b · 10:53 Bereshit Rabá 65 · 12:06 Zohar, Vayera · 13:11 Tehilim 102:14 · 16:20 Zohar, Vayera · 23:19 Chulin 7b · 25:23 Bereshit 44:32 · 26:27 Shabat 133b · 26:41 Zohar, Yitro · 27:14 Shabat 21b · 29:46 Sucá 41b · 30:18 Vayikrá 23:40 · 32:08 Bereshit 22:12 · 32:35 Zohar, Vayera · 33:06 Bereshit 25:5 · 33:52 Sotá 36b · 35:22 Tehilim 114:3 · 37:16 Pesachim 66b · 38:18 Bereshit 23:6 · 41:16 Bereshit 44:7 · 41:22 Bereshit 44:9 · 41:42 Moed Katan 18a · 41:52 Bereshit 31:32 · 44:23 Bereshit 45:3 · 45:05 Bereshit 44:20 · 46:06 Zohar, Vayigash · 48:37 Rabi Yaakov Culi, Me'am Lo'ez · 50:30 Zohar, Vayigash · 50:47 Pirkê deRabi Eliezer / Midrash sobre Serach bat Asher · 51:16 Bereshit 45:27 · 51:28 Bereshit 45:26 · 52:05 Bereshit 45:28 · 53:41 Bereshit 45:20 · 55:55 Bereshit 15:13-14 · 56:05 Berachot 9b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|14:23|דרבאלק, אתה זוכר היום זה התור שלך, שלא תעשה לנו קונצים.
+229|14:27|אמרה, לא בסדר, תור שלי, אני אלך, אני אקום, אל תדאגי.
+230|14:31|הלכו לישון, בבוקר, והנה הבוקר אור, קמו שתיהן.
+231|14:36|אמר לה, וואי, לא קמתי בלילה.
+232|14:38|בתחילה אני לא שמתי לב.
+233|14:40|אמרה לו, מה, לא, אני גם ישנתי שנת ישרים, לא היה לי שום דבר.
+234|14:44|אמר לה, את בטוחה?
+235|14:45|אמרה לו כן, מה זה?
+236|14:47|הלכו לילדים, ראו הכל בסדר.
+237|14:49|טוב, הלכו לישון, לילה אחר, אמר לה, את זוכרת את התור שלך?
+238|14:53|אמרה לו, אתה התחמקת פעם אחת, התחמקת.
+239|14:56|אמר לה, בסדר, התחמקתי, לא יודע מה היה.
+
+LINHAS A TRADUZIR:
+240|14:59|הלכו לישון עוד פעם, קמו הילדים, שיגעו אותה, לילה אחרי התור שלו, קמו בבוקר עוד פעם.
+241|15:05|אמר לה, אני לא קמתי, לא שמעתי כלום.
+242|15:07|מה מתברר?
+243|15:08|מהשמיים כל כך אהבו את התורה שלו, שבימים שהיה התור שלו לקום, נתנו
+244|15:14|לילדים לישון.
+245|15:16|זהו, אני אמרתי נעשה את זה גם כן עם הרבנית אצלי בבית, דווקא בימים שלה
+246|15:22|נתנו להם לישון.
+247|15:25|נו, מה נעשה?
+248|15:26|כנראה שרצו שאני אקום לתיקון חצות, מה נעשה?
+249|15:30|אז בכל מקרה...
+250|15:31|זה איך אדם נכנס לגן עדן?
+251|15:33|נכנס לגן עדן לפי הזכויות שלו.
+252|15:37|ככל שיש לו יותר זכויות, ככל שהוא יותר עבד השם, מכניסים אותו יותר מדורים.
+253|15:42|שם זה לא עובד, אני אכנס, אני אשתחל למסיבה, ככה אני אעבור את הסלקטור ואני אכנס
+254|15:48|בפנים.
+255|15:48|לא עובד.
+256|15:49|אם יש לך זכויות שנמצאות על הנשמה שלך, על הלבוש שלה, אתה יכול להיכנס
+257|15:55|בדלת.
+258|15:55|אם לא, אתה יוצא בחוץ, אתה לא יכול אפילו להיכנס לעבור את הדלת.
+259|15:59|ככה זה עובד.
+260|16:00|אז מי שרוצה, יהיה עבד השם, יוסף הצדיק היה עבד השם, ויוסף הצדיק כתוב אצלו,
+261|16:06|ויוסף הוא השליט על הארץ, הוא המשביר.
+262|16:08|אמר רבי שמעון בר יוחאי, הוא השליט, הגם שהיה שליט, בזכות מה היה
+263|16:14|שליט?
+264|16:15|אמר רבי חזקיה, זוהר וירא, צפיתי בכל המדרגות של העולמות העליונים למעלה
+265|16:20|בשמיים, ולא ראיתי מדרגה יותר גבוהה ממי ששולט על הברית שלו, על
+266|16:26|התאווה שלו.
+267|16:28|מי ששולט על הברית מילה שלו, עוד מעט ימי השובבים, שמות וירא בו ושלח יתרו משפטים, כמה חשוב
+268|16:33|לעשות את התיקונים האלה.
+269|16:35|זה יום אחד אתה עושה צענית, אחרי זה פודד תשער בצדקה, וכוונות
+270|16:41|של הרשש, בלי כוונות של הרשש זה לא טוב.
+271|16:44|צריך לעשות תפילה.
+272|16:45|יש בשובי נפשי, יש אצל הרב בצרה, יש אצל הרב הלל, יש פה ברוך השם אצל רחל אימנו, יש אצל הרב
+273|16:50|בניהו.
+274|16:51|ברוך השם רבותיי, אתם גרים בשכונה שאין כמוה בעולם.
+275|16:56|זה השכונות האלה כאן, בתוך הרדיוס של כמה קילומטרים, יש לכם פה איזה
+276|17:01|10-20 ישיבות של מקובלים, ולומדים קבלה, חייב לעשות את זה, פעם בחיים.
+277|17:07|וזה לא סתם תענית, תענית עם כוונות הרשש בתפילה, ולפדות את זה בכסף.
+278|17:13|עכשיו, לפדות בכסף הבנו, תענית הבנו, מה זה כוונות הרשש בתפילה, מאיפה אני יודע לכוון, אז
+279|17:19|אתה הולך למקום שעושים שם את התיקון עם כוונות הרשש, ואז ממילא, כשאתה עושה את זה,
