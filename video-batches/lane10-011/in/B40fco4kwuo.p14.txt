@@ -1,0 +1,64 @@
+videoId: B40fco4kwuo
+parte 15 de 31 · traduzir as linhas 560 a 599 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Generalização, eleições e Lech Lecha com Gottlieb e Avri Gilad
+RESUMO: O programa mistura atualidade e Torá. Começa com a pergunta se o versículo sobre Yishmael ("homem selvagem, sua mão contra todos") se aplica a todo muçulmano, e daí vem a defesa da generalização como ferramenta cognitiva básica: sem ela não há autodefesa, e só depois de generalizar se pode abrir exceções. Seguem comentários sobre as eleições, as fazendas e os morros de Judeia e Samaria, o caso do Rav Landau e as críticas à sociedade haredi (com a referência de Yoma 72b à Torá que vira veneno para quem a segue pelo "lado esquerdo"). Na Parashá Lech Lecha, ele lê o versículo (Bereshit 12:1) com Rashi, "para o teu benefício e para o teu bem": o caminho exige movimento constante e presença, e a presença vem do estudo interno. Os Sábios também ensinam que Eretz Israel vem do nível supremo do amor, que é revelado aos poucos, e que Mamre, Aner e Eshkol representam três forças da alma na consulta sobre a circuncisão. Depois a conversa trata da culpa europeia e da prescrição de injustiças históricas, e o enviado Yossi Meir, ao vivo do México, liga os aliados de Avraham, o "muro de ferro" e o princípio "respeite-o e suspeite dele" à cautela com os aliados. O programa termina com a crítica de Ron Lauder a Netanyahu e uma conversa sobre comida vegana.
+MOMENTOS: 00:47 Abertura e os temas da semana · 02:13 Yishmael e a pergunta sobre generalizar · 03:08 A generalização como ferramenta cognitiva · 04:36 Visita às fazendas de Judeia e Samaria · 06:29 Eleições e votos em partidos de esquerda · 12:41 Rav Landau e a crítica à sociedade haredi · 18:22 Fazendas, morros e Baruch Goldstein · 21:12 Rav Dov Lior e a colheita de azeitonas · 23:28 Parashá Lech Lecha e Rashi: movimento e presença · 27:00 Terra que te mostrarei: o aprendizado do amor · 28:15 Mamre, Aner e Eshkol: três forças da alma · 33:00 Europa, culpa e prescrição histórica · 41:08 Tefilin de Deri e teste cognitivo para líderes · 46:09 Yossi Meir ao vivo da Cidade do México · 51:10 Aliados de Avraham e o muro de ferro · 59:22 Lauder contra Netanyahu e crítica judaica a judeus
+FONTES CITADAS: 02:19 Bereshit 16:12 · 06:15 Tehilim 121:4 · 16:17 Yoma 72b · 20:43 Sanhedrin 72a · 20:50 Kavdehu vechashdehu (dito dos Sábios) · 21:12 Rav Dov Lior sobre colheita de azeitonas · 23:32 Bereshit 12:1 · 23:40 Rashi em Bereshit 12:1 · 26:39 Sotá 17a · 27:00 Ensinamento dos Sábios sobre "a terra que te mostrarei · 28:02 Bereshit 13:18 · 28:15 Bereshit Rabá 42:8 · 35:55 Bereshit 15:19-21 · 46:35 Sanhedrin 65b · 50:38 Bereshit 14:13 · 51:27 Dito popular · 51:57 Bereshit Rabá 58:4 · 52:11 Bereshit 9:25 · 52:37 Kavdehu vechashdehu (dito dos Sábios)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+548|26:39|יש, כמו שאומרים ששלושה מקיימים את הקשר, האיש והאישה והקדוש ברוך הוא, אז
+549|26:45|גם את הקשר עם עצמך, אם אין שם נוכחות...
+550|26:50|מי שרוצה יגיד אלוהית, מי שרוצה יגיד יקומית, מי שרוצה יגיד
+551|26:56|רוחנית, מי שרוצה יגיד וואלבה.
+552|26:59|כן.
+553|27:00|רבותינו אמרו, למה כתוב אל הארץ אשר הרקע ולא כתוב פשוט
+554|27:06|לארץ ישראל?
+555|27:09|אז הם אמרו שארץ ישראל זה נמשך מהמדרגה
+556|27:15|העליונה של אהבה.
+557|27:17|זה תודעת אהבה עליונה, לכן כתוב...
+558|27:20|שארץ ישראל גבוהה מכל הארצות.
+559|27:24|כמובן שמבחינה גיאוגרפית זה לא מי יודע מה מדויק.
+
+LINHAS A TRADUZIR:
+560|27:27|לא.
+561|27:27|כן.
+562|27:28|אז הם אמרו שאתה צריך ללמוד אהבה.
+563|27:34|אני אראה לך לאט לאט.
+564|27:36|אם אני אראה לך מה זאת אהבה בבת אחת, תחטוף התקפת לב.
+565|27:41|לא תעמוד בזה.
+566|27:42|אז אני אראה לך, אני אלמד אותך אהבה לאט לאט.
+567|27:47|ועוד הם אמרו...
+568|27:49|תסתלק מה...
+569|27:52|מצוות הנשים מלומדה.
+570|27:54|הכל הרגל, הכל מונוטוני, אוטומציה, תסתלק מזה.
+571|27:59|תהיה מודע לעצמך.
+572|28:01|לגמרי.
+573|28:02|אגב, מהפרשה, אלוני ממרה, שאברהם ישב באלוני ממרה, לא ידעתי שממרה זה שם של בן אדם.
+574|28:08|כן, זה שם של בן אדם.
+575|28:09|כן, אח של ענר ושל...
+576|28:12|אשכול.
+577|28:12|של אשכול, נכון.
+578|28:13|כן.
+579|28:15|רבותינו שואלים, כשהקדוש ברוך הוא ציווה את אברהם לעשות ברית מילה, אז הוא הלך להתייעץ עם
+580|28:21|חבריו.
+581|28:21|כן.
+582|28:22|אז הם שואלים, תגידו, זה לא קצת מעליב?
+583|28:25|בורא כל העולם אומר לך לעשות ברית ואתה הולך להתייעץ עם חברים?
+584|28:29|פרלמנט של ראשון.
+585|28:33|ואשכול והנר אמרו לו לא לעשות ברית, וממרה אמר, כן תעשה ברית, נכון?
+586|28:39|כן, ממרה אמר לו להמרות את פיו.
+587|28:44|של ענר ואשכול.
+588|28:45|אז רבותינו אומרים שהם שלושה כוחות בנפש האדם.
+589|28:51|זה לא שהם ישבו בפרלמנט של ראשון והתייעצו תוך כדי פיצוח גרעיני אבטיח.
+590|28:56|אתה יודע שיש ירידה דרמטית בצריכת גרעיני אבטיח בארץ
+591|29:02|ישראל.
+592|29:02|מה הסיבה?
+593|29:03|שאנשים לא בא להם לפצח גרעיני אבטיח, שטרחתם רבה ותועלתם מועטה.
+594|29:08|וגרעינים רגילים כן?
+595|29:10|גרעינים רגילים הולך רגיל.
+596|29:12|הולך רגיל.
+597|29:12|הולך רגיל, אבל גרעיני אבטיח...
+598|29:14|אני מדווח לך את כל הדיווחים האלה, מה זה?
+599|29:17|זה במסגרת ערוץ 12, 13, מה...

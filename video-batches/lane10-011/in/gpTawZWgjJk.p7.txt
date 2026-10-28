@@ -1,0 +1,64 @@
+videoId: gpTawZWgjJk
+parte 8 de 34 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ekev: preparar-se para Elul a partir do calcanhar
+RESUMO: O rabino começa lembrando que Tu BeAv e a guematria de "Ktivá vaChatimá tová" já anunciam o clima de Elul, e que antes da preparação de Elul há uma "preparação para a preparação". Na Parashá, o versículo "VeHaiá ékev tishmeun" (Devarim 7:12) tem em Rashi uma leitura incomum: ékev como o calcanhar, alusão às mitzvot leves que a pessoa pisa com o calcanhar, e não o simples "porque", como em "ékev asher shamá Avraham" (Bereshit 22:18). Ele explica que o "pshat" da Torá é entender a instrução (Torá vem de "hora'á"), e que servir HaShem é conexão, como encher um recipiente que antes precisa ser limpo até do menor pó. Com o Likutei Torá do Admor HaZaken, apresenta a parábola do Rei no Campo, em que o rei recebe a todos sem condições, e as iniciais de Elul em "Ani leDodi veDodi li" (Shir HaShirim 6:3). Mostra que HaShem deseja morada nos planos inferiores (Kohelet 5:8, a criação a partir da terra) e dá quatro valores de começar de baixo: é o propósito, prepara o recipiente (o exemplo do copo e do vinho do Rebe), traz luz mais alta (Mishlei 16:11 e a balança) e revela o próprio HaShem. Encerra ligando o processo à Daat (conexão) e à redenção que começa na letra álef.
+MOMENTOS: 00:38 Tu BeAv e Ktivá vaChatimá tová · 03:57 Versículo VeHaiá ékev tishmeun · 05:21 Ékev asher shamá Avraham e a guematria 172 · 07:54 Rashi: ékev como o calcanhar · 09:00 Geração do calcanhar de Mashiach · 13:12 Mitzvot leves e honrar pai e mãe · 19:41 Servir HaShem é conexão: o recipiente limpo · 26:35 O ciclo do ano: verão e inverno · 32:58 Preparação de Elul e a parábola do Rei no Campo · 43:20 Iniciais de Elul: cinco versículos · 48:55 HaShem quer morada nos planos inferiores · 58:40 Ani leDodi começa na álef: o primeiro passo · 1:02:42 Segundo valor: o copo e o vinho do Rebe · 1:08:08 Terceiro e quarto valores: a balança e o próprio HaShem
+FONTES CITADAS: 00:38 Guematria de Tu BeAv · 02:07 Ktivá vaChatimá tová leshaná tová umetuká · 03:57 Devarim 7:12 · 04:38 Devarim 7:12 · 05:21 Bereshit 26:5 · 06:39 Tanya, cap. 23 (os Patriarcas como carruagem) · 07:09 Rashi, princípio do pshat · 07:54 Rashi em Devarim 7:12 · 12:49 Shemot 20:12 · 28:32 Bereshit 2:6 · 30:16 Shir HaShirim 6:3 · 30:22 Shir HaShirim 2:16 · 30:59 Shir HaShirim 1:4 · 33:08 Likutei Torá, Admor HaZaken, Ani leDodi · 35:13 Shemuel I 9 · 39:56 Unetané Tokef · 43:29 Shir HaShirim 6:3 · 44:02 Ester 9:22 · 44:15 Devarim 30:6 · 44:41 Shemot 15:1 · 49:19 Kohelet 5:8 · 52:58 Birkat Cohanim (Bamidbar 6:25) · 54:21 Elokai netzor (Amidá) · 55:22 Bereshit 1:24 · 57:40 Bereshit 2:7 · 1:00:28 Pão da vergonha (Yerushalmi Orlá 1:3) · 1:06:01 Berachot 10b · 1:08:23 Mishlei 16:11 · 1:10:07 Bamidbar 6:25 · 1:10:26 Yeshayáhu 64:3 · 1:14:18 Divrei HaYamim I 28:9
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|15:11|עושים את זה הכי נכון, הכי מדויק לפי
+269|15:14|ההלכה. אתה יכול היום לראות במנועי חיפוש
+270|15:17|באינטרנט כמה יהודים שואלים שאלות את הרב
+271|15:22|ככה דרך ה
+272|15:23|>> כל מיני פרטי פרטים של שאלות והלכות על
+273|15:27|סיטואציות שלפעמים לא היית חושב עליהם
+274|15:29|ואתה רואה כמה לב ישראל אר כמה יהודים
+275|15:32|בעצם חשוב להם לא רק לקיים את המצוות
+276|15:36|במובן הכללי אלא באמת לדייק ולדקדק בפרטי
+277|15:39|המצוות כדי שלא תהיה מצוות כאלו שאנחנו
+278|15:43|דשים אותם בעקב דורכים עליהם במין גסות
+279|15:46|הרוח בלי שימת לב מתאימה.
+
+LINHAS A TRADUZIR:
+280|15:50|אז באמת הפירוש עצמו הוא פירוש מאוד יפה.
+281|15:54|אבל איך הפירוש הזה קשור עם פירוש רש"י?
+282|15:58|הרי רש"י כפי שאמרנו קודם הוא נאמן לאתגר
+283|16:03|אני באתי לפשותו של מקרא לפרש רק את מה
+284|16:06|שנדרש ברמת הפשט. רש"י לא מביא גם הדרשות
+285|16:11|דרשות יפה יפיות בתורה על כל מיני דברים
+286|16:14|ועניינים רמזים נפלאים כמו הרמז הנפלא
+287|16:17|שאמרנו קודם עקב אשר שמע אברהם בקולי ושמה
+288|16:20|רש"י לא מפרש את הרמז הזה מפרשים אחרים
+289|16:23|אומרים אותו שהם לא מפרשי הפשט
+290|16:27|אם עוסקים ברמזים אבל רש"י עוסק בפשט אז
+291|16:31|למה כאן רש"י מוציא את המילה עקב מפשוטו
+292|16:35|הוא לא משאיר את זה במובן הפשוט כמו בשאר
+293|16:37|המקומות בתורה
+294|16:39|עקב בעבור בגלל בגלל שתשמעו תזכו לקבל את
+295|16:43|השכר אלא מחבר אותנו למקום הזה של המצוות
+296|16:48|שאדם דש בעקביו.
+297|16:51|כנראה שיש כאן איזשהו עניין מאוד משמעותי
+298|16:55|בהבנת הפשט של התורה.
+299|16:59|מסתבר שכשאנחנו מדברים על הפשט של התורה,
+300|17:03|זה לא רק הפשט המקראי
+301|17:07|במובן
+302|17:09|הרעיוני.
+303|17:11|אם התורה הייתה אוסף של רעיונות
+304|17:15|אוסף של סיפורים,
+305|17:17|אז כשהייתי מחפש להבין פשט, הכוונה היא
+306|17:21|להבין פשט את מה שנקרא הבנת הנקרא. כמו
+307|17:25|שילד בבית הספר מקבל ציון על הבנת הנקרא.
+308|17:29|אבל בתורה גם אם אדם יש לו הבנת הנקרא
+309|17:33|מצויינת
+310|17:35|לא בהכרח שהוא הבין את הפשט.
+311|17:38|פשט בתורה זה משהו אחר לגמרי. וזה מה שרשי
+312|17:41|בא ללמד אותם. מה זה פשט בתורה? תורה היא
+313|17:45|הרי מלשון הוראה.
+314|17:48|פשט בתורה זה להבין את ההוראה.
+315|17:51|זאת אומרת, אם אתה לומד משהו בתורה ואתה
+316|17:53|לא מבין נכון או היטב את ההוראה שבדבר,
+317|17:57|לא הבנת פשט.
+318|18:00|>> זה מה שרשי בא ללמד.
+319|18:02|>> וזה מה שרשי בא ללמד אותם. שמי שרוצה

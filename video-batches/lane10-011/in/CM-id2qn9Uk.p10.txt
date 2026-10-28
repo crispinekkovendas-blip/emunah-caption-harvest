@@ -1,0 +1,64 @@
+videoId: CM-id2qn9Uk
+parte 11 de 14 · traduzir as linhas 400 a 439 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Dinossauros na Torá: gigantes de Bereshit ao Dilúvio
+RESUMO: O Rav Meir Eliyahu abre com Rashi sobre por que a Torá começa em Bereshit: para mostrar que o mundo todo pertence a HaShem. Em seguida enfrenta a pergunta sobre os dinossauros e a idade do mundo: o mundo foi criado já "adulto", como Adam HaRishon (Sanhedrin), e por isso testes de carbono 14 não o abalam; além disso, a Torá escreve só o que é relevante, como mostram os 80 anos de Moshé e os 38 anos no deserto. Propõe que "hatanminim hagedolim" (Bereshit 1:21) designa a classe dos répteis gigantes, apoiando-se em Rashi sobre o bastão de Moshé que virou nachash e tanin (Shemot 4:3, 7:9). Cita a Gemará (Bava Batra 73b, Shabat 28b, Shevuot) e o Midrash sobre o Reem, o Tachash e as aves e peixes gigantes, e aponta as lacunas de datação dos cientistas. Conclui que a catástrofe global que extinguiu os dinossauros foi o Mabul (Dilúvio), apoiando-se em Rosh HaShaná 12a e 11b.
+MOMENTOS: 00:35 Rashi: por que a Torá começa em Bereshit · 03:54 Idade do mundo: criado maduro, como Adam HaRishon · 05:39 Esqueletos gigantes e o museu de Londres · 07:23 Por que a Torá não menciona os dinossauros · 15:38 Não há contradição real entre ciência e Torá · 17:36 Hatanminim hagedolim e Rashi sobre tanin e nachash · 21:33 Reem e outras criaturas gigantes nos Sábios · 26:00 O Tachash e as aves e peixes gigantes · 28:00 Chida e Shevuot: o halachá sobre a criatura gigante · 31:37 A ilha que era um peixe e a lição do Ismael · 35:23 Falhas da cronologia científica e da evolução · 40:50 O Mabul como a catástrofe que extinguiu os gigantes
+FONTES CITADAS: 00:35 Rashi em Bereshit 1:1 (Rabi Yitzchak) · 00:41 Shemot 12:2 · 00:53 Shemot 9:29 · 01:58 Yirmeyahu 10 / Tehilim 115 · 04:03 Sanhedrin 38b · 08:11 Shemot 2 e 3 · 09:00 Sefer Bamidbar · 10:47 Berachot 28b (Rabi Eliezer) · 11:38 Tikunei HaZohar (Erev Rav) · 13:10 Josefo, sobre o Templo · 13:42 Yehoshua 6 · 13:47 Shemot 17 / Bamidbar 20 · 16:29 Bereshit 1:21 · 18:13 Bereshit 1:25 · 18:24 Bereshit 1:20-21 · 19:28 Shemot 4:3 · 19:39 Shemot 7:9 · 19:51 Rashi em Shemot 7:9 · 21:33 Bava Batra 73b (Rabá bar Bar Chana) · 22:49 Midrash Tehilim 22 · 26:00 Shabat 28b (Rabi Meir) · 26:51 Bava Batra 73b · 27:55 Bava Batra 73b · 28:04 Eyn Yaakov (Chida) sobre Shevuot · 29:23 Bava Batra 73b · 31:37 Bava Batra 73b · 32:19 Maharsha / Eyn Yaakov sobre Bava Batra 73b · 38:09 Bereshit Rabá 9:2 · 40:50 Bereshit 6-9 (Parashat Noach) · 41:24 Midrash sobre o Reem (Zevachim 113b / Bereshit Rabá) · 41:48 Rosh HaShaná 12a · 42:06 Rosh HaShaná 11b · 43:00 Responsa Mirkevet Argaman (Rav Meir Eliyahu)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+388|30:51|לפעמים כשהם רוקנים את הים לוקחים רשתות ענק לתוך המים ומוציאים משם
+389|30:57|דגים יכול להיות שאחד הדגים הוא מת וכל הדגים
+390|31:03|מפרפרים מתים וגם הוא מת זה שמת והיה מסריח בתוך המים זה
+391|31:09|אותו אחד, זה ויזדמן לך לצלחת, לכן הדג מסריח.
+392|31:13|ככה הוא אמר, הדייג הזה, אני לא יודע, אני לא מבין בדגים, ככה הוא אמר, לכן דגים מסריחים.
+393|31:18|לכן אם יש דג מסריח, עדיף להחזיר את זה לדייג, כדי שלא תאכל דג מת.
+394|31:23|בכל מקרה, הסיפור שם מסיים, כשחזרנו לאותו מקום אחרי 12 חודשים, ראינו
+395|31:28|שמנסרים קורות מהעצמות של הדג, ולא נגמרו העצמות.
+396|31:33|אחר כך הוא מספר, רבה בר חנה, סיפורים הזויים.
+397|31:37|הוא מספר לך, ראינו אי בתוך הים, ירדנו לאי,
+398|31:43|עשינו על האש ונעננו על האי והיה על הכיף
+399|31:49|כיפק אכלנו שתינו קוקוס
+
+LINHAS A TRADUZIR:
+400|31:56|ושמנו שרשראות של פרחים כמו בהוואי נא נא נא נאי נאי
+401|32:01|נאי השתזפנו ופתאום האי רעד
+402|32:07|נבהלנו מהרעידות של האי והתהפך האי וקלטנו שזה היה דג ענק
+403|32:14|ואם לא הספינה הייתה קרובה היינו מתים.
+404|32:19|עמאר בין כותב על הסיפור הזה זה רמז לאחרית הימים שעם ישראל יבואו לארץ
+405|32:25|ישראל ישתו יאכלו יענו ולא ידעו
+406|32:30|ויש להם אומה שהיא כבושה תחתם ישמעאל והם לא שמים
+407|32:36|לב שהאומה הזאת זה כריש גדול והם יושבים אוכלים
+408|32:42|מצעדים שינקין הכל נהנים מהעולם הזה ולא יודעים על מה הם יושבים
+409|32:48|יום אחד תתהפך עליהם האומה הזאתי ואז אם לא הספינה
+410|32:54|קרובה אם לא הגאולה קרובה היינו מתים אז תבין שהשאננות הזאתי
+411|33:00|נגד הגוי אשר בקרבך שעולה מעלה מעלה היא עצובה ביותר למה?
+412|33:05|כי נראה לך כאילו אתה שולט על האי, אבל באמת האי יתהפך עליך, פליפ-אפ, on
+413|33:11|you.
+414|33:12|אז כמה צריך, זה בדמעות על זה.
+415|33:15|בכל מקרה רבותיי, יש עוד הרבה סיפורים כאלה, אין לי זמן, חבל חבל שאני לא אגיע להסביר את
+416|33:20|הסוגיה.
+417|33:22|בעבר הרחוק, מי שהיה קורא את המעשיות האלה היה טמאה.
+418|33:26|מעניין שרק בעת החדשה מצאו את הדינוזאורים שנת 1676
+419|33:32|1676 תגיד 400 שנה אחורה נו התגלה באנגליה
+420|33:38|עצם ענקית בחפירות שערך פרופסור רוברט פלוט מאוניברסיטת אוקספורד
+421|33:44|לפני כן כל דיבור על יצורי ענק היה בגדר מיתוס ודמיון עם הזמן
+422|33:49|נמצאו עוד ועוד שלדים ריכוז של עצמות של דינוזאורים נמצא באמריקה
+423|33:55|הצפונית, בלגיה, ניגריה, סין, מונטובה שבארצות הברית
+424|34:01|שמה נמצאו עצמות של עשר אלף דינוזאורים ומכאן יצאו
+425|34:07|המדענים בהצהרות דרמטיות שהיצורים האלה חיו לפני מיליוני שנים
+426|34:12|גם שערוך גיל העצם הביא אותם למסקנה הזאת ואנחנו כאנשי דת
+427|34:18|מאמינים בתורה ובמושב עבדות צריכים לתרץ אז צריך לתרץ את העולם גיל העולם תירצנו
+428|34:24|בצביונו נברא בגודל מה תתרץ לי עכשיו בדינוזאורים
+429|34:31|אז עכשיו צריך לעיין בזה איך שלא ניישב את זה מדובר על
+430|34:37|ממצאים של עצמות לא על מספר דל של עצמות הנתונות
+431|34:42|לפרשנויות אתה מדבר פה על מאות עצמות חלק מהעצמות הושלמו
+432|34:48|בצורה אובייקטיבית מצאת את החצי הזה של הדינוזאור אתה צריך עכשיו להשלים אותו
+433|34:54|בצבע אחר את החצי האחר שלו בחלק מהמוזיאונים בעולם מה
+434|34:59|שמצאו השאירו באותו צבע ואת החלקים שהם השלימו בסימטריה
+435|35:06|מלאכותית אז הם שמו בצבע אחר ואומרים לך הצבע הירוק זה אנחנו יש לנו כל
+436|35:12|הלבן זה מה שמצאנו לא נגענו בזה עכשיו אתה לא יכול להתכחש עין בעין אתה רואה חיות
+437|35:18|ענק מה אתה תעשה מקומות בעולם עד היום סווגו למעלה
+438|35:23|מ-900 מיני דינוזאורים שונים מצאו גם את הקוויאר את הביצים של הדינוזאורים
+439|35:29|הם טוענים ששלדי הדינוזאורים הם בני שישים וחמש מיליון שנה אני שואל

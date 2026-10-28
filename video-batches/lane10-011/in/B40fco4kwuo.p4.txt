@@ -1,0 +1,64 @@
+videoId: B40fco4kwuo
+parte 5 de 31 · traduzir as linhas 160 a 199 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Generalização, eleições e Lech Lecha com Gottlieb e Avri Gilad
+RESUMO: O programa mistura atualidade e Torá. Começa com a pergunta se o versículo sobre Yishmael ("homem selvagem, sua mão contra todos") se aplica a todo muçulmano, e daí vem a defesa da generalização como ferramenta cognitiva básica: sem ela não há autodefesa, e só depois de generalizar se pode abrir exceções. Seguem comentários sobre as eleições, as fazendas e os morros de Judeia e Samaria, o caso do Rav Landau e as críticas à sociedade haredi (com a referência de Yoma 72b à Torá que vira veneno para quem a segue pelo "lado esquerdo"). Na Parashá Lech Lecha, ele lê o versículo (Bereshit 12:1) com Rashi, "para o teu benefício e para o teu bem": o caminho exige movimento constante e presença, e a presença vem do estudo interno. Os Sábios também ensinam que Eretz Israel vem do nível supremo do amor, que é revelado aos poucos, e que Mamre, Aner e Eshkol representam três forças da alma na consulta sobre a circuncisão. Depois a conversa trata da culpa europeia e da prescrição de injustiças históricas, e o enviado Yossi Meir, ao vivo do México, liga os aliados de Avraham, o "muro de ferro" e o princípio "respeite-o e suspeite dele" à cautela com os aliados. O programa termina com a crítica de Ron Lauder a Netanyahu e uma conversa sobre comida vegana.
+MOMENTOS: 00:47 Abertura e os temas da semana · 02:13 Yishmael e a pergunta sobre generalizar · 03:08 A generalização como ferramenta cognitiva · 04:36 Visita às fazendas de Judeia e Samaria · 06:29 Eleições e votos em partidos de esquerda · 12:41 Rav Landau e a crítica à sociedade haredi · 18:22 Fazendas, morros e Baruch Goldstein · 21:12 Rav Dov Lior e a colheita de azeitonas · 23:28 Parashá Lech Lecha e Rashi: movimento e presença · 27:00 Terra que te mostrarei: o aprendizado do amor · 28:15 Mamre, Aner e Eshkol: três forças da alma · 33:00 Europa, culpa e prescrição histórica · 41:08 Tefilin de Deri e teste cognitivo para líderes · 46:09 Yossi Meir ao vivo da Cidade do México · 51:10 Aliados de Avraham e o muro de ferro · 59:22 Lauder contra Netanyahu e crítica judaica a judeus
+FONTES CITADAS: 02:19 Bereshit 16:12 · 06:15 Tehilim 121:4 · 16:17 Yoma 72b · 20:43 Sanhedrin 72a · 20:50 Kavdehu vechashdehu (dito dos Sábios) · 21:12 Rav Dov Lior sobre colheita de azeitonas · 23:32 Bereshit 12:1 · 23:40 Rashi em Bereshit 12:1 · 26:39 Sotá 17a · 27:00 Ensinamento dos Sábios sobre "a terra que te mostrarei · 28:02 Bereshit 13:18 · 28:15 Bereshit Rabá 42:8 · 35:55 Bereshit 15:19-21 · 46:35 Sanhedrin 65b · 50:38 Bereshit 14:13 · 51:27 Dito popular · 51:57 Bereshit Rabá 58:4 · 52:11 Bereshit 9:25 · 52:37 Kavdehu vechashdehu (dito dos Sábios)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+148|07:39|מקווה שלא.
+149|07:40|מקווה שלא, ומקווה שהאנשים שחושבים בעצמם,
+150|07:47|ושלא חושבים עבורם, ומתכנתים אותם בכל מיני תוכנות קוד פרימיטיביות,
+151|07:53|יקומו ויקחו את גורלם בידיהם ונשים קץ לשלטון
+152|07:59|אנשים רעים בנו.
+153|08:01|אנשים רעים, כל האוריחיאדה הזאת ששולטת בנו כבר שנים,
+154|08:07|כל הריקבון הנוראי הזה, חייבים לעשות לזה
+155|08:13|סוף.
+156|08:14|ומצד שני, איזנקוט מפחיד אותי.
+157|08:17|מפחיד אותי.
+158|08:18|מזל שאף אחד לא שומע את התוכנית שלנו, יאללה.
+159|08:21|מזל גדול, אני חושב.
+
+LINHAS A TRADUZIR:
+160|08:23|כי למשל, אחד הספונסרים של אייזנקוט זה קובי ריכטר, הוא גם של הדמוקרטים, אתה יודע, איזה
+161|08:28|מיליארדר ישראלי.
+162|08:31|כן.
+163|08:32|והוא אומר באיזה פודקאסט, אני מוכן שמנסור עבאס יהיה ראש
+164|08:38|הממשלה.
+165|08:39|עד כדי כך.
+166|08:40|עד כדי כך.
+167|08:41|אתה מבין שבשמאל יש גם כן, יש טמטום חושים מוחלט.
+168|08:47|אנשים שבאמת...
+169|08:48|אנשים ממש ממש, לא משנה כמה מיליארדים יושבים להם בחשבון, הם ממש
+170|08:53|כסילי...
+171|08:56|אין לי את המילה, רציתי להגיד מה...
+172|09:01|בקיצור, אנשים טיפשיים.
+173|09:02|אני חושב שזה מוטים, אנשים מוטים.
+174|09:06|אנשים מתים, לא מוטים, מתים.
+175|09:10|נכון, מוטים מהחיים.
+176|09:12|כן.
+177|09:13|זאת אומרת, התפיסת עולם שלהם וכל ה...
+178|09:16|לא, הם לא, הם לא...
+179|09:17|איזה רעיון עם ירון לונדון, למי אתה מצביע?
+180|09:19|אז הוא אמר...
+181|09:20|אני לא משותפת בטח, נכון?
+182|09:21|איזה אידיוט, איזה בן אדם אידיוט.
+183|09:23|אני לא מבין את זה.
+184|09:24|אני רוצה לספר לך משהו.
+185|09:27|שלשום הלכתי לפגוש חבר...
+186|09:31|אז יש ממש אנשים שהם אנטי-יהודים, אה?
+187|09:34|תקשיב שנייה!
+188|09:35|אני מקשיב.
+189|09:37|לא, אתה לא מקשיב, אתה מתערב.
+190|09:39|כן.
+191|09:40|כמו...
+192|09:41|שלשום נודע לי שחבר יקר.
+193|09:45|שעזב את הארץ לפני, לא יודע, 10-15 שנה, הלך לחפש את גורלו
+194|09:50|באמריקה.
+195|09:53|הוא איש של אומנויות, ואין לו מה לחפש פה, איזו ביצה קטנה עליו, והתחתן עם גויה שמה,
+196|10:00|וילדים שמה, ויש לו חיים, וזה בא לארץ להצביע.
+197|10:06|הלכתי לראות אותו.
+198|10:08|התגעגעתי.
+199|10:10|ודיברנו, וראינו, ותמונות, והילדים, ואיך, ומה, ומו ומי.

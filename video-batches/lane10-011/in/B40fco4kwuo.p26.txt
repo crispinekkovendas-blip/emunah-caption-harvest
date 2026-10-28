@@ -1,0 +1,64 @@
+videoId: B40fco4kwuo
+parte 27 de 31 · traduzir as linhas 1040 a 1079 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Generalização, eleições e Lech Lecha com Gottlieb e Avri Gilad
+RESUMO: O programa mistura atualidade e Torá. Começa com a pergunta se o versículo sobre Yishmael ("homem selvagem, sua mão contra todos") se aplica a todo muçulmano, e daí vem a defesa da generalização como ferramenta cognitiva básica: sem ela não há autodefesa, e só depois de generalizar se pode abrir exceções. Seguem comentários sobre as eleições, as fazendas e os morros de Judeia e Samaria, o caso do Rav Landau e as críticas à sociedade haredi (com a referência de Yoma 72b à Torá que vira veneno para quem a segue pelo "lado esquerdo"). Na Parashá Lech Lecha, ele lê o versículo (Bereshit 12:1) com Rashi, "para o teu benefício e para o teu bem": o caminho exige movimento constante e presença, e a presença vem do estudo interno. Os Sábios também ensinam que Eretz Israel vem do nível supremo do amor, que é revelado aos poucos, e que Mamre, Aner e Eshkol representam três forças da alma na consulta sobre a circuncisão. Depois a conversa trata da culpa europeia e da prescrição de injustiças históricas, e o enviado Yossi Meir, ao vivo do México, liga os aliados de Avraham, o "muro de ferro" e o princípio "respeite-o e suspeite dele" à cautela com os aliados. O programa termina com a crítica de Ron Lauder a Netanyahu e uma conversa sobre comida vegana.
+MOMENTOS: 00:47 Abertura e os temas da semana · 02:13 Yishmael e a pergunta sobre generalizar · 03:08 A generalização como ferramenta cognitiva · 04:36 Visita às fazendas de Judeia e Samaria · 06:29 Eleições e votos em partidos de esquerda · 12:41 Rav Landau e a crítica à sociedade haredi · 18:22 Fazendas, morros e Baruch Goldstein · 21:12 Rav Dov Lior e a colheita de azeitonas · 23:28 Parashá Lech Lecha e Rashi: movimento e presença · 27:00 Terra que te mostrarei: o aprendizado do amor · 28:15 Mamre, Aner e Eshkol: três forças da alma · 33:00 Europa, culpa e prescrição histórica · 41:08 Tefilin de Deri e teste cognitivo para líderes · 46:09 Yossi Meir ao vivo da Cidade do México · 51:10 Aliados de Avraham e o muro de ferro · 59:22 Lauder contra Netanyahu e crítica judaica a judeus
+FONTES CITADAS: 02:19 Bereshit 16:12 · 06:15 Tehilim 121:4 · 16:17 Yoma 72b · 20:43 Sanhedrin 72a · 20:50 Kavdehu vechashdehu (dito dos Sábios) · 21:12 Rav Dov Lior sobre colheita de azeitonas · 23:32 Bereshit 12:1 · 23:40 Rashi em Bereshit 12:1 · 26:39 Sotá 17a · 27:00 Ensinamento dos Sábios sobre "a terra que te mostrarei · 28:02 Bereshit 13:18 · 28:15 Bereshit Rabá 42:8 · 35:55 Bereshit 15:19-21 · 46:35 Sanhedrin 65b · 50:38 Bereshit 14:13 · 51:27 Dito popular · 51:57 Bereshit Rabá 58:4 · 52:11 Bereshit 9:25 · 52:37 Kavdehu vechashdehu (dito dos Sábios)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+1028|50:14|הוא הגיע מליטה, כשאני הייתי בליטה, אז אני מבין בזה.
+1029|50:18|ואימא שלה, המשפחה של אימא שלה הגיעה, המשפחה של אבא שלה הגיעה מליטה.
+1030|50:23|היא, המשפחה של אימא שלה הגיעה מבולגריה במלחמת, בזמן השואה.
+1031|50:29|זה מצמרר מה שאתה אומר, אתה יודע, אתה קולט.
+1032|50:31|בזמן השואה, אימא שלה באה מבולגריה, ברחה מבולגריה, פליטה, אפרופו ויבוא הפליט.
+1033|50:38|שאני את הפסוק הזה קראתי עשרה ימים לפני 7 לאוקטובר ברודוס, הפסוק הזה.
+1034|50:43|כי הפקיד קבלה ברולוסט קרא לי איבריאו, ואז איבב אותי, בטומחנאות עברית, ויבוא הפליט, אמא
+1035|50:49|שלו בא כפליטה לכאן, ועכשיו אתה מספר את העניין הזה, קלאודיה שנבר, אז זה כן,
+1036|50:54|הרבה יהודים כאן דרך אגב, לאורך השני במקסיקו, דמויות מרתקות, יש כאן
+1037|51:00|בבש, מתחום הקולנוע, מתחום המוזיקה, זה כרגיל, העם היהודי...
+1038|51:05|שאנחנו מצד אחד, אפרופו בעלי ברית אברהם, אנחנו עם שהכוח שלנו הוא בעצם קדוש מקום, בפרשה
+1039|51:10|השלישית אומר לנו, חביבי, אתה רוצה לשרוד?
+
+LINHAS A TRADUZIR:
+1040|51:13|עם הנצח, תיצור לך בעלי ברית.
+1041|51:15|וככה אברהם מלמד אותי, עד כדי כך שתהיו החוקים, אבל אפרופו הדומנציה, מה שאמרתם, הדבר החשוב
+1042|51:21|ביותר, וזו נקודה חזקה, שזה בדיוק קשור לפרשה, בוא שאומרים, שמור אותי מאוהביי, אשמר
+1043|51:27|בעצמי, אז שמור אותי בבעלי בריתי, ובשונאה אשמר בעצמי, כי גם
+1044|51:33|בעלי הברית אברהם מלמד אותנו, צריך להיזהר ולהישמר, למה?
+1045|51:37|איך הוא מלמד אותנו?
+1046|51:39|היה לו קיר ברזל, אברי אמר שבוע שעבר, של הבת, שתקרא, הוא נותן לה חופש,
+1047|51:45|אבל בסוף יש קיר ברזל, ואברהם מלמד אותנו שגם היה לו קיר ברזל, ואיפה הקיר ברזל היה?
+1048|51:51|כי יש אומרים שקריית ארבע, אחד הפירושים במדרשים, שעל שם ארבעה צדיקים, אברהם, ענר, אשכול
+1049|51:57|ובמראה, הם הארבעה, והיה מצב שאולי הוא ישיא אברהם את יצחק
+1050|52:03|בנו ל...
+1051|52:04|לבלות הצדקניות של הנר אשכול וממרא, ובסוף הוא לא יציא
+1052|52:10|אותם, למה?
+1053|52:11|כי הם ממוראים, שמיוחסים לכנען, לדוח, ארור כנען, שהוא מקולל.
+1054|52:16|זאת אומרת, זה אברהם מלמד אותנו, והקדוש ברוך הוא מלמד אותנו, מה זה עם הנצח?
+1055|52:21|זה עם שיש לו קיר ברזל, קיר ברזל של נישואים, קיר ברזל של אוכל,
+1056|52:27|קיר ברזל של מידות, קיר ברזל ששומר עלינו, כן חופש.
+1057|52:32|כן בעלי ברית, אפרופו דה בנצה, ראינו מה עשה ביידן, בסופו של דבר בעל הברית, ולא שלח לנו
+1058|52:37|חימוש בשביעי לאוקטובר, ועכשיו לכן כבדהו וחשדהו, גם את
+1059|52:43|הבעל ברית, ודרך אגב, בעל ברית זה יכול להיות, גם הרב שלך יכול להיות בעל ברית, וגם אותו אתה
+1060|52:49|צריך כבדהו וחשדהו, יש את הרב שיינברג מצפת, שעשה מה שעשה שם לבנות הקהילה,
+1061|52:55|ואז יש את הדיאלוג במשטרה, פרסמו בוויינט את ה...
+1062|53:00|דיאלוג, שבא התלמיד שלו בני 2023, חתן צעיר, והוא אומר, אבל הרב, בוא, הרב
+1063|53:06|עשה מה שעשה לאשתו.
+1064|53:08|אז הוא אומר, אבל הרב, אני האמנתי בך.
+1065|53:11|אז צ'יינברג אומר לו, מי ביקש לך להאמין בי?
+1066|53:14|והוא צודק.
+1067|53:15|והוא צודק.
+1068|53:17|וואו.
+1069|53:17|אם אז יש לך בעל ברית, תיזהר לא להיכנס לשאננות.
+1070|53:20|ואתמול טיילתי כאן, ואחרי כמה ימים של ההפחדות על מקסיקו, הרגשתי שמקסיקו סיטי היא בעלת
+1071|53:26|ברית שלי.
+1072|53:27|אני הולך כמו אני הולך בתל אביב.
+1073|53:29|ואז פגשתי לי שוב, ודרך אגב, אני מדבר כאן גם בספרדית, עילג את אומנם, ואני יכול לתקשר
+1074|53:35|בספרדית, ואיתו דיברתי באנגלית וגם ספרדית, והוא אמר לי, תיזהר.
+1075|53:39|והוא הימם אותי, כי הייתי כבר במרכז העיר, וחשבתי שזה לא בטוח, והוא החזיר אותי, חביבי, באיזו
+1076|53:44|הבנה, אומנם אתה חושב שגם העירי עכשיו היא בעלת הברית שלך, אבל תיזהר, כי הכי הכי מסוכן,
+1077|53:50|זה המקום של השאננות.
+1078|53:52|יפה.
+1079|53:54|טוב, יש לי תחושה שהגיע הזמן להתחיל לחשוב מה התחנה הבאה?

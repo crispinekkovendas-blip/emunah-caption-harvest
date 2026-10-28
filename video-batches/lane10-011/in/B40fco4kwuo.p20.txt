@@ -1,0 +1,64 @@
+videoId: B40fco4kwuo
+parte 21 de 31 · traduzir as linhas 800 a 839 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Generalização, eleições e Lech Lecha com Gottlieb e Avri Gilad
+RESUMO: O programa mistura atualidade e Torá. Começa com a pergunta se o versículo sobre Yishmael ("homem selvagem, sua mão contra todos") se aplica a todo muçulmano, e daí vem a defesa da generalização como ferramenta cognitiva básica: sem ela não há autodefesa, e só depois de generalizar se pode abrir exceções. Seguem comentários sobre as eleições, as fazendas e os morros de Judeia e Samaria, o caso do Rav Landau e as críticas à sociedade haredi (com a referência de Yoma 72b à Torá que vira veneno para quem a segue pelo "lado esquerdo"). Na Parashá Lech Lecha, ele lê o versículo (Bereshit 12:1) com Rashi, "para o teu benefício e para o teu bem": o caminho exige movimento constante e presença, e a presença vem do estudo interno. Os Sábios também ensinam que Eretz Israel vem do nível supremo do amor, que é revelado aos poucos, e que Mamre, Aner e Eshkol representam três forças da alma na consulta sobre a circuncisão. Depois a conversa trata da culpa europeia e da prescrição de injustiças históricas, e o enviado Yossi Meir, ao vivo do México, liga os aliados de Avraham, o "muro de ferro" e o princípio "respeite-o e suspeite dele" à cautela com os aliados. O programa termina com a crítica de Ron Lauder a Netanyahu e uma conversa sobre comida vegana.
+MOMENTOS: 00:47 Abertura e os temas da semana · 02:13 Yishmael e a pergunta sobre generalizar · 03:08 A generalização como ferramenta cognitiva · 04:36 Visita às fazendas de Judeia e Samaria · 06:29 Eleições e votos em partidos de esquerda · 12:41 Rav Landau e a crítica à sociedade haredi · 18:22 Fazendas, morros e Baruch Goldstein · 21:12 Rav Dov Lior e a colheita de azeitonas · 23:28 Parashá Lech Lecha e Rashi: movimento e presença · 27:00 Terra que te mostrarei: o aprendizado do amor · 28:15 Mamre, Aner e Eshkol: três forças da alma · 33:00 Europa, culpa e prescrição histórica · 41:08 Tefilin de Deri e teste cognitivo para líderes · 46:09 Yossi Meir ao vivo da Cidade do México · 51:10 Aliados de Avraham e o muro de ferro · 59:22 Lauder contra Netanyahu e crítica judaica a judeus
+FONTES CITADAS: 02:19 Bereshit 16:12 · 06:15 Tehilim 121:4 · 16:17 Yoma 72b · 20:43 Sanhedrin 72a · 20:50 Kavdehu vechashdehu (dito dos Sábios) · 21:12 Rav Dov Lior sobre colheita de azeitonas · 23:32 Bereshit 12:1 · 23:40 Rashi em Bereshit 12:1 · 26:39 Sotá 17a · 27:00 Ensinamento dos Sábios sobre "a terra que te mostrarei · 28:02 Bereshit 13:18 · 28:15 Bereshit Rabá 42:8 · 35:55 Bereshit 15:19-21 · 46:35 Sanhedrin 65b · 50:38 Bereshit 14:13 · 51:27 Dito popular · 51:57 Bereshit Rabá 58:4 · 52:11 Bereshit 9:25 · 52:37 Kavdehu vechashdehu (dito dos Sábios)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+788|37:56|אין כלום.
+789|37:58|הם כבר נטמעו ואין.
+790|38:00|כן, הם סתם נהיו אמריקאים שיכורים.
+791|38:03|כן.
+792|38:04|הלבוריג'ינים הם אישה מששת ימי בראשית?
+793|38:08|כנראה שכן.
+794|38:11|כנראה שכן.
+795|38:12|מעניין, כל היבשות האלו, אוסטרליה, ניו זילנד, הם אלפי שנים היו
+796|38:18|מנותקות לגמרי מכל הציוויליזציה.
+797|38:20|נכון, אתה רואה שהם גם נראים אחרת, יש להם, הכל אצלם אחרת.
+798|38:24|ואתה רואה גם את הטבע.
+799|38:26|הטבע הוא אחר.
+
+LINHAS A TRADUZIR:
+800|38:28|חיות אחרות.
+801|38:29|כן, לגמרי.
+802|38:30|אבל מה שגילו, למשל, בפפואה ניו גינאה, שזה עוד יותר רחוק מאוסטרליה.
+803|38:35|הגעת לאוסטרליה, רק הגעת לחצי הדרך.
+804|38:39|בפפואה ניו גינאה, היו אוכלים שם בני אדם עד לפני 50 שנה.
+805|38:43|כן.
+806|38:45|אז עשו הסתכלות, וגילו שגם שם, אחוז
+807|38:50|האוכלוסייה שיש לה, מה שאנחנו קוראים הפרעת קשב, הוא זהה לאוכלוסייה המערבית.
+808|38:57|אותו דבר, בערך סביב עשרה אחוז.
+809|38:59|רק ששם הם המנהיגים.
+810|39:02|מכיוון שהם הציידים.
+811|39:04|מכיוון שיש לך הפרעת קשב, אתה כל שנייה שומע משהו, כל שנייה אתה חושך אחדים ותגובותיך
+812|39:10|מהירות.
+813|39:12|אז אתה המנהיג.
+814|39:16|כלומר, שהפרעת קשב היא בכלל אירוע של שיבוש באבולוציה.
+815|39:23|כלומר, המהפכה התעשייתית הפכה יתרון לחיסרון.
+816|39:28|אז מי אומר את כל זה?
+817|39:31|אז זה לא הציוויליזציה עשתה הפרעות קשב?
+818|39:35|גם אנשים שהיו מנותקים מהציוויליזציה, ממש חיו בטבע, יש להם הפרעות
+819|39:40|קשב?
+820|39:41|לא, אין להם הפרעות קשב, יש להם סט של תכונות.
+821|39:43|היית פעם פגיע עם הפרעות קשב?
+822|39:44|לא, אבל יש סט של תכונות שבעולם הישן נקרא
+823|39:50|בן אדם מהביוקר, אבל כשהוא צריך לשבת בכיתה, הוא לא יכול לעשות את זה, ולכן הוא הפרעת
+824|39:56|קשב.
+825|39:59|הבנתי.
+826|40:03|טוב, לא יודע אם ראית את אליוקים שטארק, מכיר אותו?
+827|40:09|ראיתי.
+828|40:10|זה שאמר שהחרדים הם לקראת שואה, כמו לפני השואה.
+829|40:15|כן, ראיתי, כן.
+830|40:16|הוא חזר בו, אז הוא חסיד בלז.
+831|40:21|עוד איזה מסותר תודעה שרוצה להיכנס לכנסת, וייכנס.
+832|40:28|והוא, ראיתי אותו בהרצאה ביידיש בפני חסידי בלז, אומר,
+833|40:35|60 שנה האדמו"ר פעל למען כלל ישראל, מעכשיו כלל ישראל יפעל רק בשביל בלז.
+834|40:43|זהו.
+835|40:43|כולם בעד אחד, אחד בעד כולם.
+836|40:46|רק מתחלפים, כאילו.
+837|40:48|כן, בדיוק.
+838|40:49|בסדר.
+839|40:53|הספינה החרדית הולכת ושוקעת.

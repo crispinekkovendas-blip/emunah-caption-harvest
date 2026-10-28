@@ -1,0 +1,64 @@
+videoId: B40fco4kwuo
+parte 8 de 31 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Generalização, eleições e Lech Lecha com Gottlieb e Avri Gilad
+RESUMO: O programa mistura atualidade e Torá. Começa com a pergunta se o versículo sobre Yishmael ("homem selvagem, sua mão contra todos") se aplica a todo muçulmano, e daí vem a defesa da generalização como ferramenta cognitiva básica: sem ela não há autodefesa, e só depois de generalizar se pode abrir exceções. Seguem comentários sobre as eleições, as fazendas e os morros de Judeia e Samaria, o caso do Rav Landau e as críticas à sociedade haredi (com a referência de Yoma 72b à Torá que vira veneno para quem a segue pelo "lado esquerdo"). Na Parashá Lech Lecha, ele lê o versículo (Bereshit 12:1) com Rashi, "para o teu benefício e para o teu bem": o caminho exige movimento constante e presença, e a presença vem do estudo interno. Os Sábios também ensinam que Eretz Israel vem do nível supremo do amor, que é revelado aos poucos, e que Mamre, Aner e Eshkol representam três forças da alma na consulta sobre a circuncisão. Depois a conversa trata da culpa europeia e da prescrição de injustiças históricas, e o enviado Yossi Meir, ao vivo do México, liga os aliados de Avraham, o "muro de ferro" e o princípio "respeite-o e suspeite dele" à cautela com os aliados. O programa termina com a crítica de Ron Lauder a Netanyahu e uma conversa sobre comida vegana.
+MOMENTOS: 00:47 Abertura e os temas da semana · 02:13 Yishmael e a pergunta sobre generalizar · 03:08 A generalização como ferramenta cognitiva · 04:36 Visita às fazendas de Judeia e Samaria · 06:29 Eleições e votos em partidos de esquerda · 12:41 Rav Landau e a crítica à sociedade haredi · 18:22 Fazendas, morros e Baruch Goldstein · 21:12 Rav Dov Lior e a colheita de azeitonas · 23:28 Parashá Lech Lecha e Rashi: movimento e presença · 27:00 Terra que te mostrarei: o aprendizado do amor · 28:15 Mamre, Aner e Eshkol: três forças da alma · 33:00 Europa, culpa e prescrição histórica · 41:08 Tefilin de Deri e teste cognitivo para líderes · 46:09 Yossi Meir ao vivo da Cidade do México · 51:10 Aliados de Avraham e o muro de ferro · 59:22 Lauder contra Netanyahu e crítica judaica a judeus
+FONTES CITADAS: 02:19 Bereshit 16:12 · 06:15 Tehilim 121:4 · 16:17 Yoma 72b · 20:43 Sanhedrin 72a · 20:50 Kavdehu vechashdehu (dito dos Sábios) · 21:12 Rav Dov Lior sobre colheita de azeitonas · 23:32 Bereshit 12:1 · 23:40 Rashi em Bereshit 12:1 · 26:39 Sotá 17a · 27:00 Ensinamento dos Sábios sobre "a terra que te mostrarei · 28:02 Bereshit 13:18 · 28:15 Bereshit Rabá 42:8 · 35:55 Bereshit 15:19-21 · 46:35 Sanhedrin 65b · 50:38 Bereshit 14:13 · 51:27 Dito popular · 51:57 Bereshit Rabá 58:4 · 52:11 Bereshit 9:25 · 52:37 Kavdehu vechashdehu (dito dos Sábios)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|13:17|כן.
+269|13:17|כי ההתנקשויות
+270|13:23|של גדולי הציבור החרדי במוסד המשפחה, כשמישהו לא הולך בתלם,
+271|13:30|זה דבר חמור ביותר.
+272|13:31|מאוד.
+273|13:31|ואני מכליל, בגלל זה אני מכליל.
+274|13:34|מאוד חמור, כן.
+275|13:36|יש המוני המוני פצועים מהדברים הללו.
+276|13:40|שלעולם לא יחלימו.
+277|13:41|כן.
+278|13:43|כן, זה חמור מאוד.
+279|13:45|זה שאדם מרשה לעצמו, לא ידע איך יצור ילוד אישה,
+
+LINHAS A TRADUZIR:
+280|13:52|איך הוא מרשה לעצמו לקחת את
+281|13:58|קביעת הגורלות של אנשים מסוימים.
+282|14:02|זה אני לא מבין.
+283|14:05|זה מראה על...
+284|14:08|גאווה מסריחה, זה יותר חמור מכסילות לדעתי.
+285|14:12|כן.
+286|14:13|סוג של גאווה מסריחה.
+287|14:19|נאציזם.
+288|14:22|לוקחים אנשים מרשים לעצמם לקבוע גורלות ולהגדיר הגדרות
+289|14:28|ולהחליט החלטות לגבי ציבורים ואנשים ו...
+290|14:33|נורא ואיום.
+291|14:34|נורא ואיום.
+292|14:35|באמת.
+293|14:36|לא מקבל את זה בשום פנים ואיום.
+294|14:39|החברה החרדית חייבת להיות מפורקת.
+295|14:41|אני חושב שזה מאוד חשוב להצביע לציבור החרדי.
+296|14:45|הלוואי שהם יצליחו, כי זה משהו חדש, זה יציאה
+297|14:51|מהלפיתה הזאת.
+298|14:54|חדש.
+299|14:54|השאלה היא כמה, אתה יודע, כמה היציאה מהלפיתה היא כדי לייצר לפיתה
+300|14:59|אחרת.
+301|15:01|לא חושב, לא חושב.
+302|15:02|אני חושב שיש פה רעננות.
+303|15:04|משהו חדש וחשוב.
+304|15:06|אז למה זה לא מצליח להתרומם מעל אחוז החסימה?
+305|15:10|כן.
+306|15:12|למה?
+307|15:12|למרות שאתה יודע, יש לי חברים חילונים שמצביעים
+308|15:16|למפלגה של לייטנר.
+309|15:20|כן.
+310|15:21|כולל בן אדם אחד שהוא ממש מהכי, מהכי ביוקר במדינה.
+311|15:27|שאלתי אותו למי זה מצביע, הוא אמר לי להם.
+312|15:30|מה זה הכי ביוקר?
+313|15:32|מהאנשים שמזיזים את הגלגלי שיניים של המדינה הזאת.
+314|15:35|הבנתי.
+315|15:37|לא, זו הזדמנות, זה דבר חשוב מאוד.
+316|15:40|הם נלחמים מלחמה עצומה.
+317|15:43|החרדים נלחמים בהם.
+318|15:46|ויש הרבה הרבה דיבורים נגדם, אתה יודע, הכפשות
+319|15:52|הכי גדולות.

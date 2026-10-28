@@ -1,0 +1,64 @@
+videoId: jUvpq831Gjc
+parte 7 de 17 · traduzir as linhas 240 a 279 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O teste que HaShem dá antes do decreto
+RESUMO: O rabino parte de "ardá na veer'e" (Bereshit 18:21) e, segundo o Midrash, explica que o Kadosh Baruch Hu desceu com o Seu Beit Din para ensinar que o juiz deve ver com os próprios olhos. Sodoma tinha feito da残 crueldade uma lei, e Lot, nomeado juiz naquele dia (Rashi), recebe um teste: os anjos chegam como hóspedes para ver como ele reage. Com o Midrash sobre a esposa de Lot e o sal, o Ramban em Bereshit 19:5, Sanhedrin 109 e Yechezkel 16:49, ele mostra que o pecado central de Sodoma foi não amparar o pobre e o necessitado. Cita o Malbim, que compara com a "concubina de Givá" e vê aqui crueldade nascida do orgulho, e Rav Hirsch sobre o nome Havayá em 19:13, além do Midrash da montanha virada como medida por medida. Daí tira a regra central: quando há um decreto duro, o Kadosh Baruch Hu envia um teste difícil, mas não impossível, e quem passa é salvo, como na história da filha de Rabi Akiva em Shabat 156a ("tzedaká tatsil mimavet", Mishlei 10:2) e na história de Rav Chaim Kanievsky. Termina lendo "me'et HaShem hayetá zot" como sinal de que o fato estranho é um teste, e fecha com um apelo, na véspera das eleições, para orar, ouvir os sábios e votar.
+MOMENTOS: 00:18 "Ardá na veer'e": HaShem e Seu Beit Din descem · 02:53 Lot é nomeado juiz de Sodoma · 03:51 Regra geral: o teste que antecede o decreto · 04:32 Os anjos são enviados para testar Lot · 06:10 A esposa de Lot, o sal e a hospitalidade · 08:13 Ramban: Sodoma e a crueldade com os pobres · 11:07 Malbim: a concubina de Givá e o orgulho · 12:52 O nome Havayá e a destruição de Sodoma · 14:16 A montanha virada: medida por medida · 18:39 Rabi Akiva e sua filha (Shabat 156a) · 26:03 Rav Chaim Kanievsky e o homem sem filhos · 32:51 "Me'et HaShem hayetá zot": o teste inesperado · 35:05 Véspera das eleições: oração e voto
+FONTES CITADAS: 00:18 Bereshit 18:21 · 00:51 Midrash sobre Bereshit 18:21 · 02:59 Rashi em Bereshit 19:1 · 03:22 Devarim 32:4 · 03:26 Midrash sobre o Mar Vermelho · 05:36 Yoma 2a · 06:10 Midrash sobre Lot e sua esposa · 07:04 Midrash sobre a esposa de Lot · 08:13 Ramban em Bereshit 19:5 · 08:39 Sanhedrin 109a · 08:58 Yechezkel 16:49 · 09:12 Bereshit 13:13 · 10:30 Bereshit 19:4 · 11:07 Shoftim 19 (concubina de Givá) · 12:09 Malbim em Bereshit 19 · 12:54 Bereshit 19:13 · 13:28 Rav Shimshon Rafael Hirsch em Bereshit 19:13 · 14:09 Bereshit 19:25 · 14:16 Midrash sobre a destruição de Sodoma · 16:55 Oznayim LaTorah, Rav Zalman Sorotzky · 18:39 Shabat 156a · 20:25 Shabat 156a · 23:55 Mishlei 10:2 · 24:00 Shabat 156a · 26:03 Rav Chaim Kanievsky · 31:07 Bereshit 18:21 · 32:51 Tehilim 118:23 · 32:58 Hallel · 35:50 Rav Aharon Kotler · 38:44 Mishná Sotá 9:15 · 39:35 Hagadá de Pessach · 44:27 Chofetz Chaim · 45:33 Dito dos Sábios · 47:01 Shemot 1:10 · 47:27 Rashi em Bereshit 14:2 · 48:53 Amidá, Hashivá Shofteinu
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|17:36|ואני מכיר דברים גם מהיום.
+229|17:40|ולכן שימו את זה על ליבכם.
+230|17:43|נותן לאדם מבחן חוזר, מה שנקרא.
+231|17:48|אם הוא יעמוד במבחן, הוא ינצל מגזירה.
+232|17:53|בין אם זה אדם פרטי, בין אם זה ציבור.
+233|17:58|ומסובב הסיבות, מסובב את הדברים שהאדם הזה,
+234|18:04|או הקבוצה הזאת, או הציבור הזה, או העיר הזה, יבואו לידי
+235|18:09|ניסיון.
+236|18:11|קשה.
+237|18:12|שהם צריכים להתאמץ.
+238|18:14|לא מדי קשה, קשה.
+239|18:18|אם ימדו בניסיון, הכדלך הוא יהפוך את גזר דינם לטוב, מה
+
+LINHAS A TRADUZIR:
+240|18:24|שנקרא ימתיק את דינם, יבטל את עונשם.
+241|18:33|וכאן סיפור מאוד מפורסם בגמרא, שכולכם ודאי שמעתם אותו.
+242|18:39|מצכת שבת קנ"ו עמוד א',
+243|18:45|גדול גדול החכמים, גדול גדול התנאים, רבי עקיבא.
+244|18:51|מסופר שנולדה ביתו, אמרו לה, חוזים בכוכבים, אסטרולוגים.
+245|18:57|פעם אנשים ידעו את זה באמת, לא כמו היום כל
+246|19:00|השרלטנים.
+247|19:03|אמרו לו שביום שהיא תתחתן, היא תמות.
+248|19:10|כמובן שהוא לא גילה לה.
+249|19:12|אביב שמר את הדבר.
+250|19:14|הוא שמר את זה בליבו.
+251|19:17|עברו שנים, הגיע הזמן, הבחורה התחתנה.
+252|19:25|ומה היה?
+253|19:30|שהיא חזרה מהחתונה, היא התחילה להוריד את כל המטפחות, כל
+254|19:36|הדברים מהראש, ונשים יש להן כאלה סיכות.
+255|19:41|שהן שמות בסערות, בכסירות, בכל זיקות כאלה.
+256|19:47|אז היא שלפה כזאת זיקה גדולה ותקעה אותה בקיר, כי יכול להיות שהוא שלץ.
+257|19:55|ואחר כך רשום.
+258|19:59|בבוקר מוקדם השכם, הגיע הרבי, רבי
+259|20:03|עקיבא, לדירה של ביתו.
+260|20:09|כשלפי כל הציפיות היא הייתה כבר צריכה להיות מתה.
+261|20:15|דפק בדלת, היא באה פותחת לו את הדלת.
+262|20:20|רואה אותה?
+263|20:23|מתפלא.
+264|20:25|פתאום הוא מסתכל על הקיר, הוא רואה נחש תלוי.
+265|20:33|יש מחט שננעצה בעין של הנחש,
+266|20:40|וככה היא הרגה אותו, אותה מחט, אותה סיכה, ועכשיו הוא
+267|20:46|תלוי על הקיר.
+268|20:48|זה מה שאומרי רבי עקיבא.
+269|20:51|שואל אותה רבי עקיבא, מה זה כאן על הקיר?
+270|20:55|מה זה כאן, נחש סיכה בראשו?
+271|20:57|מה זה, תלית איזה קישוט?
+272|20:58|מה זה?
+273|21:00|אמרתי לו, לא, גם אני רואה את זה פעם ראשונה.
+274|21:03|בלילה היה חושך, לא היה כמו היום חשמל.
+275|21:09|הוצאתי את כל אותם סיכות מסריגות, קוראים לזה, לדברים האלה,
+276|21:15|ותקעתי אותה בקיר, כי
+277|21:19|רעץ.
+278|21:21|ועכשיו אני רואה שהיה כאן נחש שלא ראיתי אותו, וזה פגע לו
+279|21:28|בעין.

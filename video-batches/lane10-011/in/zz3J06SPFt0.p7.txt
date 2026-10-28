@@ -1,0 +1,64 @@
+videoId: zz3J06SPFt0
+parte 8 de 31 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Shelach: os espiões e o Birur HaTachton
+RESUMO: O rabino Ginzburg abre dizendo que vivemos tempos de milagres ocultos e lembra o que o Rebe disse há 34 anos na Parashá Shelach: a boa notícia de Rashi de que entrarão na terra, e a bênção da Haftará, "HaShem entregou em nossas mãos toda a terra, e todos os moradores da terra tremeram diante de nós". Ele vê a guerra atual como uma "guerra dos espiões", baseada em inteligência, ligando-a aos espiões de Yehoshua e à conquista de Sichon e Og, e conta o encontro de Netanyahu com o Rebe em Simchat Torá. Depois paralela o momento com a Meguilat Ester, no dia 23 de Sivan, quando Mordechai e Ester dizem "Baruch HaShem que não nos entregou como presa aos seus dentes" e "Nosso auxílio está em nome de HaShem" (Targum Sheni, Salmo 124, o capítulo do Rebe), e pede que se anseie por trazer o korban todá no Beit HaMikdash. Na segunda parte, explica o "shlach lecha lédatecha" de Rashi: Moshê sabia que a entrada na terra tinha de vir de baixo, pelo Birur HaTachton, tal como a verdade foi lançada à terra segundo o Midrash ("emet meérets titsmach"). Mostra como Yehoshua foi protegido pela prece de Moshê, Calev foi rezar em Chevron, e o desejo pela terra nasceu graças aos espiões. Conclui que faltou aos espiões a anulação (bitul) ao Moshê da geração, o que os espiões de Yehoshua em casa de Rachav corrigiram.
+MOMENTOS: 00:20 Milagres ocultos nos tempos atuais · 01:09 A mensagem do Rebe há 34 anos na Parashá Shelach · 02:20 A bênção da Haftará: os moradores da terra tremeram · 04:28 A guerra atual como guerra dos espiões · 07:51 O milagre vestido de natureza · 10:59 Simchat Torá: o encontro de Netanyahu com o Rebe · 14:15 Sivan na Pérsia: Haman, Achashverosh e o decreto · 21:41 Targum Sheni: Mordechai e Ester se encontram · 24:49 Como imaginar a Redenção: o korban todá · 30:46 Rashi: shlach lecha lédatecha · 38:37 O Midrash da Emet lançada à terra · 43:57 Yehoshua e Calev, protegidos dos espiões · 52:37 O mérito dos espiões e o Birur HaTachton · 57:42 O que faltou: o bitul ao Moshê da geração · 1:00:55 Os espiões de Yehoshua e Rachav
+FONTES CITADAS: 00:29 Salmo 136:4 · 01:36 Rashi em Bamidbar 14:8 · 02:20 Yehoshua 2:24 (Haftará de Shelach) · 06:12 Bamidbar 21:32 · 10:59 Bamidbar 13:2 · 14:41 Ester 3:13 · 16:00 Ester 8:11 · 16:39 Ester 9:1 · 17:01 Ester 8:15 · 18:46 Salmos 124 (capítulo do Rebe) · 20:42 Salmos 124:6 · 21:03 Salmos 124:8 · 21:20 Targum Sheni em Ester 8:15 · 22:56 Salmos 89:21 · 25:15 Sidur, Amidá · 26:00 Juízes 5:31 · 27:04 Daniel 2 (sonho da estátua) · 31:01 Rashi em Bamidbar 13:2 · 38:37 Bereshit Rabá 8:5 · 39:55 Salmos 85:12 · 41:55 Bereshit 3:7 · 42:03 Yeshayahu 11:9 · 42:46 Bamidbar 13:16 · 42:46 Rashi em Bamidbar 13:16 · 41:43 Berachot 58a · 44:20 Yehoshua no pecado do bezerro (Shemot 33:11) · 47:14 Rashi em Bamidbar 13:22 · 47:50 Sotá 35a · 54:10 Berachot 21b, Megilá 23b · 54:20 Megaleh Amukot · 56:17 Yehoshua 2:9 · 59:42 Bamidbar 12:3 · 1:00:55 Yehoshua 2 · 1:02:48 Yehoshua 6 · 1:03:16 Rambam, Hilchot Melachim 12:5 · 1:04:08 Yeshayahu 66:22
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|14:20|לסיפור המרגלים, לפרשת המרגלים.
+269|14:24|אבל עניין נוסף
+270|14:27|זה שבחודש הזה, חודש סיוון הוא החודש
+271|14:30|שבאותה מדינה ממש, ממלכת פרס, לפני 2400
+272|14:34|שנה,
+273|14:37|היה הסיפור של המן ואחשוורוש.
+274|14:41|והייתה גזירה הכי קשה כמו היום להשמיד,
+275|14:43|להרוג ולאבד את כל היהודים. זה אז היה המן
+276|14:46|הפרמטיבי והיום זה המן המודרני. כן. אבל
+277|14:49|זה אותו זה אותו המן עם אותה מחשבה, עם
+278|14:51|אותם מילים
+279|14:53|להשמיד, להרוג ולאבד את כל היהודים.
+
+LINHAS A TRADUZIR:
+280|14:58|ורחמנא ליצלן ואז כבר נגזרה הגזירה
+281|15:02|וגזירה ברמה כזו שאין להשיב אותה. היא
+282|15:05|גזירה בלתי הפיכה בגלל שהדת בפרס אומרת
+283|15:09|שגזירת המלך היא לא ניתנת לביטול. זה מצב
+284|15:12|בלתי הפיך.
+285|15:14|אז נכון שכבר את המן המלך טלה על העץ ואת
+286|15:19|בית המן הוא נתן למרדכי ואת התפקיד ואת
+287|15:22|הטבעת גם העניק למרדכי להיות המשנה למלך.
+288|15:24|אבל תחשבו על אבסורד. אסתר היא המלכה
+289|15:26|היהודיה הנכבדת.
+290|15:29|מרדכי משנה למלך ויש גזירה בתוקף שעוד כמה
+291|15:33|חודשים זה חזים בחודש סיוון בבוא חודש אדר
+292|15:36|של השנה הבאה ביום אחד להשמיד להרוג ולאבד
+293|15:40|את כל היהודים מה עושים אז עם ישראל עם
+294|15:44|חכם ונבון אז היוזמה הייתה כזו שתהיה
+295|15:49|גזירה מתקנת מה זה גזירה מתקנת בלי לבטל
+296|15:52|את הגזירה הקודמת המלך הוציא גזירה חדשה
+297|15:56|שהגזרה אומרת שהיהודים יקהלו ויעמדו על
+298|16:00|נפשם וינקמו באוייבהם.
+299|16:04|אז מבחינתו של המלך, מה אכפת לו? מה שיהיה
+300|16:07|יהיה טוב? זו הגזירה וזו הגזירה. כמובן
+301|16:10|שמה קרה שנפל פחד על כל האויבים ובסופו של
+302|16:14|דבר טיפת דם יהודי לא נפלה ארצאה.
+303|16:18|ומכאן בעזרת השם נשלח את הברכה ש לכל
+304|16:21|הפצועים שירפו ולכל ההרוגים. השם יקום דמם
+305|16:25|שבאמת השם יקום את דמם כפשוטו בניצחון
+306|16:27|מוחלט ולכל הראש מזה שמכאן וך אפילו טיפה
+307|16:31|אדם יהודי לא טיפול ארצה אמן אמן והיהודים
+308|16:35|עשו בשונאים כרצונם עכשיו מתי חל המהפך
+309|16:39|ב-23 לחודש סיוון כך כתוב במגילת אסתר
+310|16:43|אתמול זה התאריך של אתמול אז יצאו הרצים
+311|16:46|החשדרפנים יצאו דחופים ומבועלים בדבר המלך
+312|16:49|להביא את הבשורה שנגזרה גזרה חדשה
+313|16:53|שיהיהודים יקלו וימדו על נפשם.
+314|16:56|מיד כמה פסוקים אחר כך
+315|16:59|א
+316|17:01|ממשיכה המגילה לספר שמרדכי יוצא בלבוש
+317|17:04|מלכות תכלת וחוטר זהב גדולה
+318|17:08|וליהודים הייתה הורה ושמחה וששון ועיקר
+319|17:11|ויר שושן צעלה ושמחה

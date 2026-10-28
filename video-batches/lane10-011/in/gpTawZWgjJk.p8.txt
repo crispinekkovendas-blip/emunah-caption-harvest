@@ -1,0 +1,64 @@
+videoId: gpTawZWgjJk
+parte 9 de 34 · traduzir as linhas 320 a 359 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ekev: preparar-se para Elul a partir do calcanhar
+RESUMO: O rabino começa lembrando que Tu BeAv e a guematria de "Ktivá vaChatimá tová" já anunciam o clima de Elul, e que antes da preparação de Elul há uma "preparação para a preparação". Na Parashá, o versículo "VeHaiá ékev tishmeun" (Devarim 7:12) tem em Rashi uma leitura incomum: ékev como o calcanhar, alusão às mitzvot leves que a pessoa pisa com o calcanhar, e não o simples "porque", como em "ékev asher shamá Avraham" (Bereshit 22:18). Ele explica que o "pshat" da Torá é entender a instrução (Torá vem de "hora'á"), e que servir HaShem é conexão, como encher um recipiente que antes precisa ser limpo até do menor pó. Com o Likutei Torá do Admor HaZaken, apresenta a parábola do Rei no Campo, em que o rei recebe a todos sem condições, e as iniciais de Elul em "Ani leDodi veDodi li" (Shir HaShirim 6:3). Mostra que HaShem deseja morada nos planos inferiores (Kohelet 5:8, a criação a partir da terra) e dá quatro valores de começar de baixo: é o propósito, prepara o recipiente (o exemplo do copo e do vinho do Rebe), traz luz mais alta (Mishlei 16:11 e a balança) e revela o próprio HaShem. Encerra ligando o processo à Daat (conexão) e à redenção que começa na letra álef.
+MOMENTOS: 00:38 Tu BeAv e Ktivá vaChatimá tová · 03:57 Versículo VeHaiá ékev tishmeun · 05:21 Ékev asher shamá Avraham e a guematria 172 · 07:54 Rashi: ékev como o calcanhar · 09:00 Geração do calcanhar de Mashiach · 13:12 Mitzvot leves e honrar pai e mãe · 19:41 Servir HaShem é conexão: o recipiente limpo · 26:35 O ciclo do ano: verão e inverno · 32:58 Preparação de Elul e a parábola do Rei no Campo · 43:20 Iniciais de Elul: cinco versículos · 48:55 HaShem quer morada nos planos inferiores · 58:40 Ani leDodi começa na álef: o primeiro passo · 1:02:42 Segundo valor: o copo e o vinho do Rebe · 1:08:08 Terceiro e quarto valores: a balança e o próprio HaShem
+FONTES CITADAS: 00:38 Guematria de Tu BeAv · 02:07 Ktivá vaChatimá tová leshaná tová umetuká · 03:57 Devarim 7:12 · 04:38 Devarim 7:12 · 05:21 Bereshit 26:5 · 06:39 Tanya, cap. 23 (os Patriarcas como carruagem) · 07:09 Rashi, princípio do pshat · 07:54 Rashi em Devarim 7:12 · 12:49 Shemot 20:12 · 28:32 Bereshit 2:6 · 30:16 Shir HaShirim 6:3 · 30:22 Shir HaShirim 2:16 · 30:59 Shir HaShirim 1:4 · 33:08 Likutei Torá, Admor HaZaken, Ani leDodi · 35:13 Shemuel I 9 · 39:56 Unetané Tokef · 43:29 Shir HaShirim 6:3 · 44:02 Ester 9:22 · 44:15 Devarim 30:6 · 44:41 Shemot 15:1 · 49:19 Kohelet 5:8 · 52:58 Birkat Cohanim (Bamidbar 6:25) · 54:21 Elokai netzor (Amidá) · 55:22 Bereshit 1:24 · 57:40 Bereshit 2:7 · 1:00:28 Pão da vergonha (Yerushalmi Orlá 1:3) · 1:06:01 Berachot 10b · 1:08:23 Mishlei 16:11 · 1:10:07 Bamidbar 6:25 · 1:10:26 Yeshayáhu 64:3 · 1:14:18 Divrei HaYamim I 28:9
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+308|17:29|אבל בתורה גם אם אדם יש לו הבנת הנקרא
+309|17:33|מצויינת
+310|17:35|לא בהכרח שהוא הבין את הפשט.
+311|17:38|פשט בתורה זה משהו אחר לגמרי. וזה מה שרשי
+312|17:41|בא ללמד אותם. מה זה פשט בתורה? תורה היא
+313|17:45|הרי מלשון הוראה.
+314|17:48|פשט בתורה זה להבין את ההוראה.
+315|17:51|זאת אומרת, אם אתה לומד משהו בתורה ואתה
+316|17:53|לא מבין נכון או היטב את ההוראה שבדבר,
+317|17:57|לא הבנת פשט.
+318|18:00|>> זה מה שרשי בא ללמד.
+319|18:02|>> וזה מה שרשי בא ללמד אותם. שמי שרוצה
+
+LINHAS A TRADUZIR:
+320|18:05|להבין את הפשט בפסוק כאן, במילים הקודמות,
+321|18:08|במקומות הקודמים בתורה שהמילה עקב מוזכרת,
+322|18:12|אז שמה אין איזשהו חיסרון הבנה בפשט של
+323|18:16|ההוראה המעשית. שמה רש"י לא צריך לומר
+324|18:19|דבר.
+325|18:20|אבל כשמגיעה המילה עקב בהקשר של הפרשה
+326|18:23|שלנו, שגם כל הפרשה נקראת במילה הזו, על
+327|18:27|שם המילה הזו עקב, פרשת עקב,
+328|18:30|אז כאן מאוד נוגע להבין מה באמת התורה
+329|18:33|מצפה מאיתנו, מה השם אומר לנו.
+330|18:37|זה בעצם בסופו של דבר סוד החיים. כל הברית
+331|18:41|וכל החסד וכל השבוע, כל ההבטחות האלוקיות,
+332|18:44|שזה כמובן כולל את ההבטחה הכי חשובה לנו,
+333|18:47|שזו הגאולה האמיתית והשלמה, הכל תלוי בעקב
+334|18:50|הזה.
+335|18:52|אז לומר שזה רק עקב שתשמעון, תשמורון
+336|18:55|לעשות את כל מה שאני מצווה אתכם, זה לא
+337|18:59|מספיק.
+338|19:01|כי אדם יכול להיות במצב
+339|19:05|שהוא מקיים את המצוות של השם, לומד את
+340|19:08|התורה, הולך בדרכי השם
+341|19:11|ועדיין מפספסף משהו מאוד חשוב בפשט.
+342|19:16|מה הפשט?
+343|19:18|הפשט הוא שכשודי ניגש לעבוד את השם
+344|19:22|הוא צריך לדעת שעבודת השם הנכונה
+345|19:27|היא עבודה שמתחילה מהעקב שמתחילה מימת לב
+346|19:32|למה שנמצא בתחתית
+347|19:35|כלומר
+348|19:37|ננסה להמחיש את זה בצורה פשוטה
+349|19:41|רוב האנשים שאתה נותן להם איזשהיא משימה
+350|19:44|איך האדם ניגש לבצע משימה
+351|19:48|שמוטלת עליו. אז כל אחד מאיתנו יש לו
+352|19:51|חוזקות בנפש וחולשות,
+353|19:54|את המקומות החזקים והגבוהים, את הראש
+354|19:57|ואת החולשות, שזה המקומות הנמוכים כמו העקב.
+355|20:01|כשמותלת עליי משימה ואני רוצה להצליח בה,
+356|20:03|אני מן הסתם מגייס את הכוחות החזקים שבי,
+357|20:07|את הידע שלי, את הניסיון שלי, את החושים
+358|20:12|שהשם חנן בי ומנסה להצליח במשימה.
+359|20:17|וככה אפשר לחשוב גם בעבודת השם שבעבודת

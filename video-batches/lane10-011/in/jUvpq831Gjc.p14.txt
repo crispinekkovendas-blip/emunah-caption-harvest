@@ -1,0 +1,64 @@
+videoId: jUvpq831Gjc
+parte 15 de 17 · traduzir as linhas 560 a 599 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O teste que HaShem dá antes do decreto
+RESUMO: O rabino parte de "ardá na veer'e" (Bereshit 18:21) e, segundo o Midrash, explica que o Kadosh Baruch Hu desceu com o Seu Beit Din para ensinar que o juiz deve ver com os próprios olhos. Sodoma tinha feito da残 crueldade uma lei, e Lot, nomeado juiz naquele dia (Rashi), recebe um teste: os anjos chegam como hóspedes para ver como ele reage. Com o Midrash sobre a esposa de Lot e o sal, o Ramban em Bereshit 19:5, Sanhedrin 109 e Yechezkel 16:49, ele mostra que o pecado central de Sodoma foi não amparar o pobre e o necessitado. Cita o Malbim, que compara com a "concubina de Givá" e vê aqui crueldade nascida do orgulho, e Rav Hirsch sobre o nome Havayá em 19:13, além do Midrash da montanha virada como medida por medida. Daí tira a regra central: quando há um decreto duro, o Kadosh Baruch Hu envia um teste difícil, mas não impossível, e quem passa é salvo, como na história da filha de Rabi Akiva em Shabat 156a ("tzedaká tatsil mimavet", Mishlei 10:2) e na história de Rav Chaim Kanievsky. Termina lendo "me'et HaShem hayetá zot" como sinal de que o fato estranho é um teste, e fecha com um apelo, na véspera das eleições, para orar, ouvir os sábios e votar.
+MOMENTOS: 00:18 "Ardá na veer'e": HaShem e Seu Beit Din descem · 02:53 Lot é nomeado juiz de Sodoma · 03:51 Regra geral: o teste que antecede o decreto · 04:32 Os anjos são enviados para testar Lot · 06:10 A esposa de Lot, o sal e a hospitalidade · 08:13 Ramban: Sodoma e a crueldade com os pobres · 11:07 Malbim: a concubina de Givá e o orgulho · 12:52 O nome Havayá e a destruição de Sodoma · 14:16 A montanha virada: medida por medida · 18:39 Rabi Akiva e sua filha (Shabat 156a) · 26:03 Rav Chaim Kanievsky e o homem sem filhos · 32:51 "Me'et HaShem hayetá zot": o teste inesperado · 35:05 Véspera das eleições: oração e voto
+FONTES CITADAS: 00:18 Bereshit 18:21 · 00:51 Midrash sobre Bereshit 18:21 · 02:59 Rashi em Bereshit 19:1 · 03:22 Devarim 32:4 · 03:26 Midrash sobre o Mar Vermelho · 05:36 Yoma 2a · 06:10 Midrash sobre Lot e sua esposa · 07:04 Midrash sobre a esposa de Lot · 08:13 Ramban em Bereshit 19:5 · 08:39 Sanhedrin 109a · 08:58 Yechezkel 16:49 · 09:12 Bereshit 13:13 · 10:30 Bereshit 19:4 · 11:07 Shoftim 19 (concubina de Givá) · 12:09 Malbim em Bereshit 19 · 12:54 Bereshit 19:13 · 13:28 Rav Shimshon Rafael Hirsch em Bereshit 19:13 · 14:09 Bereshit 19:25 · 14:16 Midrash sobre a destruição de Sodoma · 16:55 Oznayim LaTorah, Rav Zalman Sorotzky · 18:39 Shabat 156a · 20:25 Shabat 156a · 23:55 Mishlei 10:2 · 24:00 Shabat 156a · 26:03 Rav Chaim Kanievsky · 31:07 Bereshit 18:21 · 32:51 Tehilim 118:23 · 32:58 Hallel · 35:50 Rav Aharon Kotler · 38:44 Mishná Sotá 9:15 · 39:35 Hagadá de Pessach · 44:27 Chofetz Chaim · 45:33 Dito dos Sábios · 47:01 Shemot 1:10 · 47:27 Rashi em Bereshit 14:2 · 48:53 Amidá, Hashivá Shofteinu
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+548|39:32|לעקור את הכל.
+549|39:35|בדיוק במדיניות של לבן, לעקור את הכל, ביקש, הם אומרים את זה גלוי.
+550|39:41|כבר עשו את זה בסתר, ככה.
+551|39:44|גם, היום זה בגלוי.
+552|39:49|לכן זה כל כך חשוב.
+553|39:52|א', נתפלל.
+554|39:54|אפילו היום, ב-21:00 ורבע בלילה, כאן ובכנסת ברחוב הפסגה, אצל
+555|40:00|הרווק, עושים תפילה, שכל העם בבוא שכונה ולהגידו תהילים.
+556|40:06|ומחר חוץ מההסתדרות של כל הפעילים שנוסעים להביא עוד בן אדם ועוד בן אדם עוד
+557|40:12|פתק ועוד קול גם עושים מחר ימי תפילה
+558|40:20|ולכן כולנו חלק מכאן זה פעם ראשונה חלק שנייה
+559|40:26|ואפילו יותר להטביע תארו לכם
+
+LINHAS A TRADUZIR:
+560|40:32|הבן שלי הוא גר בווינה והוא התייעץ כאן, שאל את גדולי הטובה.
+561|40:39|הוא שאל לפני שנים את הרב שטיינמן, תבוא מחוץ לארצו ואשתו באים, היום
+562|40:45|בערב מגיעים כאן, יום רביעי חוזרים.
+563|40:49|וזה עולה המוקס, וכרטיס רק לכאן, צד אחד עלה לו 400 יורו.
+564|40:56|אנשים שלחו שאלות מאמריקה לרב לנדו, לבוא, אמר כן, תבוא,
+565|41:01|תבוא אתה ואשתך, וזה כבר אלפיים דולר לפחות.
+566|41:06|תבין עד איפה כל גדולי הדור מתייחסים לנושא, באיזו רצינות.
+567|41:13|אני זוכר מזגיח, רב חסקל זיכרונו לברכה, על הבוקר מוקדם הוא הלך להצביע, אמר
+568|41:19|מצווה לשמוע דברי חרמים, שאני לא ראיתי אותו בחיים שלי יוצא מהישיבה.
+569|41:25|מגיע כלום חמש בבוקר, על לו חדר למעלה ליד בית מרש, ויוצא בעשר בלילה.
+570|41:32|פעם יחידה שאני ראיתי יוצא, הלך להצביע לבחירות.
+571|41:39|יש כאן בשכונה אחד גאון וצדיק גדול.
+572|41:44|קוראים לו רבי יהודה עדיס, ראש ישיבת קול יעקב.
+573|41:52|מופלא.
+574|41:55|לאחרונה הוא חולה מאוד.
+575|41:59|בנס הוא חי.
+576|42:00|עשו לו בבית שלו בית חולים פרטי, עם מכונות של מאות אלפים.
+577|42:07|מארח שלם.
+578|42:09|הבית שלו.
+579|42:11|שנה הוא לא יצא מהבית כבר.
+580|42:13|יום כיפור הוא הלך לישיבה בכנסת, הוא גר עם הבית כנסת באותו מפלס.
+581|42:19|מצאו לו דירה מיוחדת בישיבה, הוא לא יצא יום כיפור להתפלל.
+582|42:25|פתאום אתמול בערב הוא הראה שהוא רוצה לצאת.
+583|42:31|הוציאו אותו לבית מדרש.
+584|42:35|כל התלמידים הסתכלו, מה?
+585|42:37|‫לא ראינו אותו כבר יותר משנה, ‫את הראש שיבר.
+586|42:40|‫הנה הוא כאן.
+587|42:45|‫הזיזו אותו עד שהוא הגיע ‫למקום שלא שמע ליד ארון קודש.
+588|42:51|‫הוא מדבר, לא שומעים אותו, ‫בקושי צריך לשים את האוזן.
+589|42:56|‫הוא אמר שהוא לא יכול לדבר.
+590|42:57|‫אז שיביאו את הסרט שהסריטו אותו ‫בבחירות הקודמות לפני ארבע שנים
+591|43:02|וישימו.
+592|43:04|‫שמו מסך לפני ארון קודש, מסריט
+593|43:10|הוא סרט שהוא דיבר 17 דקות לפני ארבע שנים שכולם חייבים ללכת להצביע ג'
+594|43:19|ואחרי זה דיבר הבן שלו שהוא ממלא במקומו עכשיו
+595|43:25|מקום של ראש הישיבה ואמר עכשיו אבא אמר לי, נחש לו באוזן תגיד כל
+596|43:31|בחור שלא מתכוון מחר לשים ג' שיקח את המזוודות עכשיו וילך בישיבה
+597|43:37|ככה עשו החצה הזה, אתמול בערב כאן, בשכונה בית וגם.
+598|43:40|יודעים?
+599|43:43|עד איפה הוא מייחס לזה חשוב.

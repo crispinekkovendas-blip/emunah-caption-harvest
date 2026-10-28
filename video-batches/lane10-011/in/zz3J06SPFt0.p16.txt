@@ -1,0 +1,64 @@
+videoId: zz3J06SPFt0
+parte 17 de 31 · traduzir as linhas 640 a 679 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Shelach: os espiões e o Birur HaTachton
+RESUMO: O rabino Ginzburg abre dizendo que vivemos tempos de milagres ocultos e lembra o que o Rebe disse há 34 anos na Parashá Shelach: a boa notícia de Rashi de que entrarão na terra, e a bênção da Haftará, "HaShem entregou em nossas mãos toda a terra, e todos os moradores da terra tremeram diante de nós". Ele vê a guerra atual como uma "guerra dos espiões", baseada em inteligência, ligando-a aos espiões de Yehoshua e à conquista de Sichon e Og, e conta o encontro de Netanyahu com o Rebe em Simchat Torá. Depois paralela o momento com a Meguilat Ester, no dia 23 de Sivan, quando Mordechai e Ester dizem "Baruch HaShem que não nos entregou como presa aos seus dentes" e "Nosso auxílio está em nome de HaShem" (Targum Sheni, Salmo 124, o capítulo do Rebe), e pede que se anseie por trazer o korban todá no Beit HaMikdash. Na segunda parte, explica o "shlach lecha lédatecha" de Rashi: Moshê sabia que a entrada na terra tinha de vir de baixo, pelo Birur HaTachton, tal como a verdade foi lançada à terra segundo o Midrash ("emet meérets titsmach"). Mostra como Yehoshua foi protegido pela prece de Moshê, Calev foi rezar em Chevron, e o desejo pela terra nasceu graças aos espiões. Conclui que faltou aos espiões a anulação (bitul) ao Moshê da geração, o que os espiões de Yehoshua em casa de Rachav corrigiram.
+MOMENTOS: 00:20 Milagres ocultos nos tempos atuais · 01:09 A mensagem do Rebe há 34 anos na Parashá Shelach · 02:20 A bênção da Haftará: os moradores da terra tremeram · 04:28 A guerra atual como guerra dos espiões · 07:51 O milagre vestido de natureza · 10:59 Simchat Torá: o encontro de Netanyahu com o Rebe · 14:15 Sivan na Pérsia: Haman, Achashverosh e o decreto · 21:41 Targum Sheni: Mordechai e Ester se encontram · 24:49 Como imaginar a Redenção: o korban todá · 30:46 Rashi: shlach lecha lédatecha · 38:37 O Midrash da Emet lançada à terra · 43:57 Yehoshua e Calev, protegidos dos espiões · 52:37 O mérito dos espiões e o Birur HaTachton · 57:42 O que faltou: o bitul ao Moshê da geração · 1:00:55 Os espiões de Yehoshua e Rachav
+FONTES CITADAS: 00:29 Salmo 136:4 · 01:36 Rashi em Bamidbar 14:8 · 02:20 Yehoshua 2:24 (Haftará de Shelach) · 06:12 Bamidbar 21:32 · 10:59 Bamidbar 13:2 · 14:41 Ester 3:13 · 16:00 Ester 8:11 · 16:39 Ester 9:1 · 17:01 Ester 8:15 · 18:46 Salmos 124 (capítulo do Rebe) · 20:42 Salmos 124:6 · 21:03 Salmos 124:8 · 21:20 Targum Sheni em Ester 8:15 · 22:56 Salmos 89:21 · 25:15 Sidur, Amidá · 26:00 Juízes 5:31 · 27:04 Daniel 2 (sonho da estátua) · 31:01 Rashi em Bamidbar 13:2 · 38:37 Bereshit Rabá 8:5 · 39:55 Salmos 85:12 · 41:55 Bereshit 3:7 · 42:03 Yeshayahu 11:9 · 42:46 Bamidbar 13:16 · 42:46 Rashi em Bamidbar 13:16 · 41:43 Berachot 58a · 44:20 Yehoshua no pecado do bezerro (Shemot 33:11) · 47:14 Rashi em Bamidbar 13:22 · 47:50 Sotá 35a · 54:10 Berachot 21b, Megilá 23b · 54:20 Megaleh Amukot · 56:17 Yehoshua 2:9 · 59:42 Bamidbar 12:3 · 1:00:55 Yehoshua 2 · 1:02:48 Yehoshua 6 · 1:03:16 Rambam, Hilchot Melachim 12:5 · 1:04:08 Yeshayahu 66:22
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+628|33:24|לא השתמש בקלף הזה כי משה רבינו הוא רבי
+629|33:27|אמיתי שלא עוזב את אנשי הדור שלו ואם הדור
+630|33:30|שלו כרגע נשארו במדבר משה רבינו איתם עד
+631|33:33|הרגע שיגיע הזמן של תחיית המתים הוא יוכל
+632|33:35|יחד איתם להיכנס לארץ זאת אומרת שבדיאבד
+633|33:38|אפשר לומר שגם משה רבנו הפסיד את הזכות
+634|33:41|להיכנס את הארץ שהוא כל כך משתוקק לזה
+635|33:44|בגלל הקלקול של המרגלים עכשיו אני אשאל את
+636|33:47|עצמנו כזו שאלה פשוטה אם עכשיו וזה לא אם
+637|33:50|עכשיו זה יקרה עוד מעט אנחנו נשב עם משה
+638|33:52|רבינו לשולחן הדיונים כן משה רבינו משה
+639|33:55|ואהרון עמהם כתוב אדרבה כתוב שהצדיקים הכי
+
+LINHAS A TRADUZIR:
+640|33:59|גדולים שבכל הדורות הם יקומו לתחיית המתים
+641|34:01|הראשונים הם יקומו לשלב הראשון של התגלות
+642|34:04|המשיח נו מה תחיית המתים הכללית שתהיה
+643|34:07|לאחר מכן
+644|34:09|ומשה משיח ילמד תורה עם משה רבינו ואבות
+645|34:12|ועם כולם. אז אנחנו נשאל את משה רבנו,
+646|34:14|רגע, תאמר את האמת, אחרי שאתה יודע מה קרה
+647|34:16|בסופו של דבר עם המרגלים,
+648|34:19|אם הייתה לך הזדמנות שנייה לשלוח את
+649|34:21|המרגלים, היית שולח אותם או שהיית שומע
+650|34:23|שהשם אומר לך שלח לך לדעתך? אז היית אומר,
+651|34:26|רגע, רגע, זה לא מתאים. אם השם לא נותן פה
+652|34:28|אור ירוק על מלא, אלא משהו כזה מאומאם, אז
+653|34:33|אני לא שולח.
+654|34:36|מסתבר כשמבינים את הביאור של החסידות
+655|34:38|בעניין המרגלים שאין ספק שמשה היה עושה
+656|34:42|אותו דבר בדיוק.
+657|34:45|אין דרך בעולם לדלג על השלב הזה של שליחת
+658|34:48|המרגלים
+659|34:50|דווקא מצד הכוונה הפנימית של הקדוש ברוך
+660|34:52|הוא. שמי מכיר את הכוונה הפנימית? משה
+661|34:55|רבינו.
+662|34:57|מה משה רבינו יודע? הוא יודע שהכוונה
+663|35:00|הפנימית של הקדוש ברוך הוא ששלמות הבריאה
+664|35:04|שמתבטאת בכניסה לארץ ישראל, שארץ ישראל
+665|35:08|היא ארץ התחתונה, אנחנו כולנו מכירים את
+666|35:09|מיני ישראל, כן? אבל באמת לא כולם יודעים
+667|35:13|שארץ ישראל היא מיני עולם.
+668|35:16|זאת אומרת, בארץ ישראל יש את יש את מה שיש
+669|35:18|בכל העולם ומה שקורה בארץ ישראל משפיע על
+670|35:21|כל העולם. אפילו היום רואים את זה, תחשבו
+671|35:23|על תשומת הלב שכל העולם היום מרוכז במה?
+672|35:27|במה שקורה בארץ ישראל. זה זה הדבר היחיד
+673|35:29|שמעניין את כל אומות העולם
+674|35:31|כי זה באמת הליבה של כל המציאות של כל
+675|35:34|המציאות של עולם הזה הגשמי והתחתון וכשכאן
+676|35:38|העסק בסדר אז זה משפיע לטובה על כולם
+677|35:41|לכן משה רבינו יודע שהכיבוש של ארץ ישראל
+678|35:46|והכניסה לארץ חייבים להעשות דווקא על ידי
+679|35:52|המרגלים

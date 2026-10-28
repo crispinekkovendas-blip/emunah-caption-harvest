@@ -1,0 +1,64 @@
+videoId: gpTawZWgjJk
+parte 18 de 34 · traduzir as linhas 680 a 719 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Ekev: preparar-se para Elul a partir do calcanhar
+RESUMO: O rabino começa lembrando que Tu BeAv e a guematria de "Ktivá vaChatimá tová" já anunciam o clima de Elul, e que antes da preparação de Elul há uma "preparação para a preparação". Na Parashá, o versículo "VeHaiá ékev tishmeun" (Devarim 7:12) tem em Rashi uma leitura incomum: ékev como o calcanhar, alusão às mitzvot leves que a pessoa pisa com o calcanhar, e não o simples "porque", como em "ékev asher shamá Avraham" (Bereshit 22:18). Ele explica que o "pshat" da Torá é entender a instrução (Torá vem de "hora'á"), e que servir HaShem é conexão, como encher um recipiente que antes precisa ser limpo até do menor pó. Com o Likutei Torá do Admor HaZaken, apresenta a parábola do Rei no Campo, em que o rei recebe a todos sem condições, e as iniciais de Elul em "Ani leDodi veDodi li" (Shir HaShirim 6:3). Mostra que HaShem deseja morada nos planos inferiores (Kohelet 5:8, a criação a partir da terra) e dá quatro valores de começar de baixo: é o propósito, prepara o recipiente (o exemplo do copo e do vinho do Rebe), traz luz mais alta (Mishlei 16:11 e a balança) e revela o próprio HaShem. Encerra ligando o processo à Daat (conexão) e à redenção que começa na letra álef.
+MOMENTOS: 00:38 Tu BeAv e Ktivá vaChatimá tová · 03:57 Versículo VeHaiá ékev tishmeun · 05:21 Ékev asher shamá Avraham e a guematria 172 · 07:54 Rashi: ékev como o calcanhar · 09:00 Geração do calcanhar de Mashiach · 13:12 Mitzvot leves e honrar pai e mãe · 19:41 Servir HaShem é conexão: o recipiente limpo · 26:35 O ciclo do ano: verão e inverno · 32:58 Preparação de Elul e a parábola do Rei no Campo · 43:20 Iniciais de Elul: cinco versículos · 48:55 HaShem quer morada nos planos inferiores · 58:40 Ani leDodi começa na álef: o primeiro passo · 1:02:42 Segundo valor: o copo e o vinho do Rebe · 1:08:08 Terceiro e quarto valores: a balança e o próprio HaShem
+FONTES CITADAS: 00:38 Guematria de Tu BeAv · 02:07 Ktivá vaChatimá tová leshaná tová umetuká · 03:57 Devarim 7:12 · 04:38 Devarim 7:12 · 05:21 Bereshit 26:5 · 06:39 Tanya, cap. 23 (os Patriarcas como carruagem) · 07:09 Rashi, princípio do pshat · 07:54 Rashi em Devarim 7:12 · 12:49 Shemot 20:12 · 28:32 Bereshit 2:6 · 30:16 Shir HaShirim 6:3 · 30:22 Shir HaShirim 2:16 · 30:59 Shir HaShirim 1:4 · 33:08 Likutei Torá, Admor HaZaken, Ani leDodi · 35:13 Shemuel I 9 · 39:56 Unetané Tokef · 43:29 Shir HaShirim 6:3 · 44:02 Ester 9:22 · 44:15 Devarim 30:6 · 44:41 Shemot 15:1 · 49:19 Kohelet 5:8 · 52:58 Birkat Cohanim (Bamidbar 6:25) · 54:21 Elokai netzor (Amidá) · 55:22 Bereshit 1:24 · 57:40 Bereshit 2:7 · 1:00:28 Pão da vergonha (Yerushalmi Orlá 1:3) · 1:06:01 Berachot 10b · 1:08:23 Mishlei 16:11 · 1:10:07 Bamidbar 6:25 · 1:10:26 Yeshayáhu 64:3 · 1:14:18 Divrei HaYamim I 28:9
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+668|37:41|המלך מופיע ומקבלים את פניו המלך באהבותו
+669|37:44|הגדולה מבין שככה ככה נראים עובדי האדמה
+670|37:48|להפך הוא מייקר את זה חביב בעיניו שהם
+671|37:52|ניגשים אליו ככה בצורה טבעית אגב גם המלך
+672|37:56|בשדה
+673|37:57|הוא גם כן לא בא בצורה רשמית הוא גם לבוש
+674|38:00|בבגדי דרך
+675|38:02|לא בבגדי ארמון
+676|38:04|הוא לא עם הכתר של המלוכה וכל הגלימות
+677|38:08|והתרות והכסף והזהב וכולו מעורר אמה ועירה
+678|38:13|מן הסתם בא מדרך רחוקה
+679|38:16|דרך שיש בה הרבה חום
+
+LINHAS A TRADUZIR:
+680|38:19|ומזגנים פעם לא היו אז בטח שבמשל הזה לא
+681|38:22|לא התייחסו למיזוג שבדרך אלא מה המלך לבוש
+682|38:26|בגדים קלילים שזה כמובן משל מה המשל הזה
+683|38:30|רומז
+684|38:31|שהוא בלי לבושים, זאת אומרת הוא לא בלי
+685|38:33|הסטרים, בלי מחיצות, בלי בניסטן בקשבון.
+686|38:37|וכך הוא גם מוכן לפגוש את כל אחד ואחד. אל
+687|38:40|תתחפש, אפילו אל תתייפה,
+688|38:44|תהיה מי שאתה, אבל את עצמך תביא
+689|38:49|ותביא את עצמך
+690|38:51|באופן מלא, באופן מושלם. רגע, נחזור, נעשה
+691|38:55|קפיצה למה שאמרנו קודם. תביא את עצמך גם
+692|38:58|עם מה שנמצא מתחת לעקב של הרגל שלך.
+693|39:02|כלומר, תביא את עצמך בתודעה מלאה, לא
+694|39:05|בתודעה חלקית,
+695|39:07|לא בשביל לעשות בי, לא בצורה הפסגית, לא
+696|39:09|כדי שתעשה סלפי עם המלך ותגיד, אני פגשתי
+697|39:12|את המלך ותמשיך הלאה בסדר היום ה הנבדל
+698|39:17|שלך, אלא להביא את עצמך למלך זה באופן כזה
+699|39:20|שאתה אומר, מהרגע הזה שאני זוכה לפגוש את
+700|39:22|המלך, נוצר בינינו חיבור פנים על פנים שאף
+701|39:26|אחד לא יקח לי כבר את החיבור הזה. אני כבר
+702|39:29|יפתח את החיבור הזה וימשיך איתו הלאה. אחר
+703|39:31|כך אני גם אתנכה יותר ולבש בגדים מתאימים
+704|39:35|יותר ובסוף אני גם אפגוש את המלך בארמון
+705|39:38|כי אני לא מבטל. אני נכנס פה למהלך שאני
+706|39:41|לא נסוג ממנו
+707|39:44|אבל זה הכל בזכות זה שאני מביא את עצמי אל
+708|39:46|המלך לגמרי עם כל השימת לב עם כל הפנימיות
+709|39:49|שלי
+710|39:51|וזה אלול. ככה אומר אדמור הזקן אומר באלול
+711|39:56|זה עוד לא ראש השנה ויום הכיפורים שהמלך
+712|39:58|יושב על כיסר רם וניסע וכל באי עולם
+713|40:01|עוברים לפניו כבני מרון והוא דן ושפט את
+714|40:05|כל הברועים
+715|40:07|וכמובן כותב את כולם בספר חיים טובים ספר
+716|40:10|של כבוד ועשירות וכל הברכות הטובות
+717|40:13|שמוזכרות בתפילות החגים זה יקרה בארמון
+718|40:17|המלוכה בחודש תשרי
+719|40:20|אבל בחודש אלול

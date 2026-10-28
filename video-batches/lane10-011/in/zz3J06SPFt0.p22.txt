@@ -1,0 +1,64 @@
+videoId: zz3J06SPFt0
+parte 23 de 31 · traduzir as linhas 880 a 919 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Shelach: os espiões e o Birur HaTachton
+RESUMO: O rabino Ginzburg abre dizendo que vivemos tempos de milagres ocultos e lembra o que o Rebe disse há 34 anos na Parashá Shelach: a boa notícia de Rashi de que entrarão na terra, e a bênção da Haftará, "HaShem entregou em nossas mãos toda a terra, e todos os moradores da terra tremeram diante de nós". Ele vê a guerra atual como uma "guerra dos espiões", baseada em inteligência, ligando-a aos espiões de Yehoshua e à conquista de Sichon e Og, e conta o encontro de Netanyahu com o Rebe em Simchat Torá. Depois paralela o momento com a Meguilat Ester, no dia 23 de Sivan, quando Mordechai e Ester dizem "Baruch HaShem que não nos entregou como presa aos seus dentes" e "Nosso auxílio está em nome de HaShem" (Targum Sheni, Salmo 124, o capítulo do Rebe), e pede que se anseie por trazer o korban todá no Beit HaMikdash. Na segunda parte, explica o "shlach lecha lédatecha" de Rashi: Moshê sabia que a entrada na terra tinha de vir de baixo, pelo Birur HaTachton, tal como a verdade foi lançada à terra segundo o Midrash ("emet meérets titsmach"). Mostra como Yehoshua foi protegido pela prece de Moshê, Calev foi rezar em Chevron, e o desejo pela terra nasceu graças aos espiões. Conclui que faltou aos espiões a anulação (bitul) ao Moshê da geração, o que os espiões de Yehoshua em casa de Rachav corrigiram.
+MOMENTOS: 00:20 Milagres ocultos nos tempos atuais · 01:09 A mensagem do Rebe há 34 anos na Parashá Shelach · 02:20 A bênção da Haftará: os moradores da terra tremeram · 04:28 A guerra atual como guerra dos espiões · 07:51 O milagre vestido de natureza · 10:59 Simchat Torá: o encontro de Netanyahu com o Rebe · 14:15 Sivan na Pérsia: Haman, Achashverosh e o decreto · 21:41 Targum Sheni: Mordechai e Ester se encontram · 24:49 Como imaginar a Redenção: o korban todá · 30:46 Rashi: shlach lecha lédatecha · 38:37 O Midrash da Emet lançada à terra · 43:57 Yehoshua e Calev, protegidos dos espiões · 52:37 O mérito dos espiões e o Birur HaTachton · 57:42 O que faltou: o bitul ao Moshê da geração · 1:00:55 Os espiões de Yehoshua e Rachav
+FONTES CITADAS: 00:29 Salmo 136:4 · 01:36 Rashi em Bamidbar 14:8 · 02:20 Yehoshua 2:24 (Haftará de Shelach) · 06:12 Bamidbar 21:32 · 10:59 Bamidbar 13:2 · 14:41 Ester 3:13 · 16:00 Ester 8:11 · 16:39 Ester 9:1 · 17:01 Ester 8:15 · 18:46 Salmos 124 (capítulo do Rebe) · 20:42 Salmos 124:6 · 21:03 Salmos 124:8 · 21:20 Targum Sheni em Ester 8:15 · 22:56 Salmos 89:21 · 25:15 Sidur, Amidá · 26:00 Juízes 5:31 · 27:04 Daniel 2 (sonho da estátua) · 31:01 Rashi em Bamidbar 13:2 · 38:37 Bereshit Rabá 8:5 · 39:55 Salmos 85:12 · 41:55 Bereshit 3:7 · 42:03 Yeshayahu 11:9 · 42:46 Bamidbar 13:16 · 42:46 Rashi em Bamidbar 13:16 · 41:43 Berachot 58a · 44:20 Yehoshua no pecado do bezerro (Shemot 33:11) · 47:14 Rashi em Bamidbar 13:22 · 47:50 Sotá 35a · 54:10 Berachot 21b, Megilá 23b · 54:20 Megaleh Amukot · 56:17 Yehoshua 2:9 · 59:42 Bamidbar 12:3 · 1:00:55 Yehoshua 2 · 1:02:48 Yehoshua 6 · 1:03:16 Rambam, Hilchot Melachim 12:5 · 1:04:08 Yeshayahu 66:22
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+868|46:13|בעולם הזה כי הם מתו במגפה משונה אלא גם
+869|46:15|אין להם חלק לעולם הבא
+870|46:17|אז אתם יודעים מה התגובה של המרגלים לכך
+871|46:21|שהם לא זקוקים לחלק בעולם הבא. הם למעלה
+872|46:25|מדרגת עולם הבא. עולם הבא לא נחשב עבורם
+873|46:28|שכר. זה מבחינתם ירידת ירידה במדרגה. זאת
+874|46:31|אומרת הם דבוקים ברמות אלוקיות שאי אפשר
+875|46:34|לתאר.
+876|46:36|ולכן בדבקות הרוחנית הזו זה כל כך מפתא
+877|46:39|ומגרה שהם רוצים רק להיות עם משה רבינו
+878|46:42|במדבר.
+879|46:43|הם מוכנים לוותר על הרעיון של הכניסה
+
+LINHAS A TRADUZIR:
+880|46:45|לארץ.
+881|46:47|והעיקר להיות עם משה רבנו, עם התורה, עם
+882|46:50|הקדושה, עם ענני הכבוד, עם המן, עם המים
+883|46:52|של בערה של מרים, זה מה שמעניין אותם.
+884|46:56|וכלב בן יפונה מרגיש שהוא עלול עוד רגע
+885|46:59|להידבק בטענוג
+886|47:01|ה במתיקות הרוחנית הזו וחלילה כמו קלות
+887|47:05|הנפש.
+888|47:06|אז הוא עושה פעולה חריגה, הוא הולך לבדו,
+889|47:10|כולם היו הלכו בקבוצה. הוא הולך לבדו
+890|47:13|לחברון,
+891|47:14|להשתתח על קברי אבות ולהתחנן שיצילו אותו.
+892|47:19|משה רבנו לא לא התפלל עליו. הוא מבקש
+893|47:22|מאבות שהם יתפללו עליו, שהוא לא יקשל ולא
+894|47:26|יהיה ניסט לעצת המרגלים.
+895|47:29|ואז באמת חוזרים המרגלים. אז יהושע וכלב
+896|47:33|בצד אחד. באמת זה היה ככה יהושע בצד אחד.
+897|47:36|הספרת המרגלים בצד השני. כמובן מי סופר את
+898|47:39|יהושע הוא שפוט של משה רבינו כמה הוא לא
+899|47:42|לא מעניין באמת מה שיש לו להגיד אנחנו
+900|47:44|יודעים מראש מה הוא יגיד כן אבל בוא נשמע
+901|47:45|מהמרגלים אומרים וכלב הוא מטעת
+902|47:50|כי הוא מדבר כמו שאר המרגלים
+903|47:53|אבל יש לו כוונה אחרת נסתרת וברגע שהוא
+904|47:57|הצליח לתפוס את צומת הלב של עם ישראל
+905|48:00|בתחבולה
+906|48:02|הוא פתח ואמר מה רק זה מה שעשה לנו משה
+907|48:05|רבינו כאילו כולם באים ים לשמוע עוד איזה
+908|48:09|דברים חלילה של הפך הטוב לשון הרע
+909|48:13|וחזקה לשון הרע שמתקבלת על הלב ואז הוא
+910|48:17|אומר הרי הוא הוציא אותנו ממצרים וקרא לנו
+911|48:19|את הים והגיז לנו את הסלבים והוריד לנו את
+912|48:22|המן מה שיגיד אנחנו נעשה יגיד לנו לעשות
+913|48:25|סולמות לעלות לשמיים גם זה נעשה
+914|48:29|וככה בעצם הוא הצליח ברגע אחד לומר את
+915|48:32|ההפך הגמור בלי שישתיקו אותו להפך הוא
+916|48:34|השתיק את כולם אבל עדיין זה שניים מול מול
+917|48:38|השרה
+918|48:40|ו וקרה הקלקול הגדול. אבל מה עומק העניין?
+919|48:44|עומק העניין זה שאת התכלית הפנימית של
