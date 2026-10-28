@@ -2,7 +2,7 @@
 
 2026-10-28 (the owner: "Go ahead, let's train this"; Kaggle, for the project's own use only — the Kaggle dataset
 and model stay private). Input: the ears-<chunk> artifacts of rebbe-ears.yml, one folder each (clip-raw.opus =
-the original audio, curated.json = Claude's lines). Only ✓ lines are used; neighbours closer than 1 s join into
+the original audio, curated.json = Claude's lines). Only ✓ lines and lines the Hebrew ear verified (rebbe_curate.check) are used; neighbours closer than 1 s join into
 one example of at most 25 s (Whisper hears 30 s). Whole chunks go to dev (every 10th by name) so nothing of a
 dev chunk is trained on. The test set is the "Lubavitcher Rebbe Lexicon" on archive.org: 40 clips of the Rebbe
 (1981) whose file names are his words verbatim, romanized — Claude writes them once in Yiddish letters; they are
@@ -28,7 +28,7 @@ MEDIA = ('.mp3', '.ogg', '.oga', '.wav', '.flac', '.m4a', '.mp4', '.webm', '.opu
 
 
 def examples(curated):
-    sure = sorted((l for l in curated['lines'] if l['mark'] == '✓'), key=lambda l: l['start'])
+    sure = sorted((l for l in curated['lines'] if l['mark'] == '✓' or l.get('verified')), key=lambda l: l['start'])
     out, cur = [], None
     for l in sure:
         if cur and l['start'] - cur['end'] <= GAP and l['end'] - cur['start'] <= MAX:

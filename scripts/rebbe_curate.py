@@ -58,6 +58,28 @@ Example lines (from an earlier curation, Leil 13 Nissan 5751):
 Reply with ONLY the curated lines, one per line: start<TAB>end<TAB>mark<TAB>Yiddish text — seconds with one \
 decimal, no other text, no code fences. If the window holds no speech of the Rebbe you can curate, reply NONE."""
 
+SHIFTS = (-120, -75, -45, 45, 75, 120)
+
+
+def check(out, lines):
+    """an objective test of each curated line, apart from Claude's own mark: the share of its letters (consonant
+    skeleton, rebbe_verify.py) that the Hebrew ear heard in the same seconds, against the same line at shifted
+    times (chance). verified = above 0.35 and above every shift of its own."""
+    from rebbe_verify import grams, heard, overlap
+
+    path = os.path.join(out, 'stt-he.json')
+    if not os.path.exists(path):
+        return
+    words = json.load(open(path, encoding='utf8'))['word_times']
+    for l in lines:
+        g = grams(l['text'])
+        own = overlap(g, heard(words, l['start'], l['end']))
+        shifted = [overlap(g, heard(words, l['start'] + d, l['end'] + d)) for d in SHIFTS if l['start'] + d >= 0]
+        l['he_overlap'] = round(own, 3)
+        l['he_chance'] = round(max(shifted), 3) if shifted else 0.0
+        l['verified'] = own >= 0.35 and own > l['he_chance']
+
+
 LINE = re.compile(r'^\s*(\d+(?:\.\d+)?)\t(\d+(?:\.\d+)?)\t([✓~])\t(.+?)\s*$')
 
 
@@ -118,7 +140,9 @@ def main():
         lines += got
         w0 = w1
     lines.sort(key=lambda l: l['start'])
-    sure = [l for l in lines if l['mark'] == '✓']
+    check(a.out, lines)
+    # training lines: Claude sure (✓), or the gist sure (~) and the Hebrew ear heard its letters there
+    sure = [l for l in lines if l['mark'] == '✓' or l.get('verified')]
     secs = sum(l['end'] - l['start'] for l in sure)
     doc = {'source': src, 'model': MODEL, 'effort': EFFORT, 'window_s': WINDOW, 'windows': windows, 'lines': lines,
            'sure_lines': len(sure), 'sure_seconds': round(secs)}
@@ -127,8 +151,11 @@ def main():
     clock = lambda s: f'{int(s // 3600)}:{int(s % 3600 // 60):02d}:{s % 60:04.1f}'
     with open(os.path.join(a.out, 'curated.txt'), 'w', encoding='utf8') as f:
         for l in lines:
-            f.write(f'{clock(off + l["start"])}  {l["mark"]}  {l["text"]}\n')
-    print(f'\n{len(lines)} curated lines, {len(sure)} ✓ = {secs / 60:.1f} min of training speech')
+            v = f'{l["he_overlap"]:.2f}{"+" if l.get("verified") else " "}' if 'he_overlap' in l else '     '
+            f.write(f'{clock(off + l["start"])}  {l["mark"]} {v} {l["text"]}\n')
+    print(f'\n{len(lines)} curated lines, {sum(l["mark"] == "✓" for l in lines)} ✓, '
+          f'{sum(bool(l.get("verified")) for l in lines)} verified by the Hebrew ear; '
+          f'{len(sure)} for training = {secs / 60:.1f} min')
     print(open(os.path.join(a.out, 'curated.txt'), encoding='utf8').read())
 
 
