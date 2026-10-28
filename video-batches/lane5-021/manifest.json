@@ -1,0 +1,25 @@
+{
+ "name": "lane5-021",
+ "lane": 5,
+ "created": "2026-10-28T14:14:10.161Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "8-GlYBN9gCA",
+   "title": "Tefilá: carência, fé e a consciência do Bom que faz o bem",
+   "lines": 857,
+   "parts": 8,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "8-GlYBN9gCA.p0",
+  "8-GlYBN9gCA.p1",
+  "8-GlYBN9gCA.p2",
+  "8-GlYBN9gCA.p3",
+  "8-GlYBN9gCA.p4",
+  "8-GlYBN9gCA.p5",
+  "8-GlYBN9gCA.p6",
+  "8-GlYBN9gCA.p7"
+ ]
+}
