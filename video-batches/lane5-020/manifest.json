@@ -1,0 +1,41 @@
+{
+ "name": "lane5-020",
+ "lane": 5,
+ "created": "2026-10-28T02:12:02.923Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "W692BnvRtFs",
+   "title": "Mim rabim: trabalho e preocupação — \"Ki Yedativ",
+   "lines": 380,
+   "parts": 4,
+   "from": "recente"
+  },
+  {
+   "id": "nnfwnJ6jpUg",
+   "title": "Zohar Vayikra 19a: Adam, Chava e a rainha dos demônios",
+   "lines": 206,
+   "parts": 2,
+   "from": "recente"
+  },
+  {
+   "id": "bFtbI5c7kD0",
+   "title": "Magen Avraham na Amidá e a guerra dos reis em Lech Lechá",
+   "lines": 417,
+   "parts": 4,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "W692BnvRtFs.p0",
+  "W692BnvRtFs.p1",
+  "W692BnvRtFs.p2",
+  "W692BnvRtFs.p3",
+  "nnfwnJ6jpUg.p0",
+  "nnfwnJ6jpUg.p1",
+  "bFtbI5c7kD0.p0",
+  "bFtbI5c7kD0.p1",
+  "bFtbI5c7kD0.p2",
+  "bFtbI5c7kD0.p3"
+ ]
+}
