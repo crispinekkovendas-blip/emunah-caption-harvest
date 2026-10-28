@@ -1,12 +1,12 @@
 # lane9-007
 
 2 of 5 lessons published · 0 skipped · status **pending**
-Tokens (40 agent runs with a record): 0.3M in (mostly cache) · 0.32M out · API-equivalent 4.20
+Tokens (62 agent runs with a record): 0.5M in (mostly cache) · 0.47M out · API-equivalent 5.73
 
 | lesson | state | detail |
 |---|---|---|
-| feAOxQ_EZBE | ✗ will be redone (try 1) | 2 lines missing |
+| feAOxQ_EZBE | ✗ will be redone (try 2) | 47 lines missing |
 | U-0WRcPPgGE | ✓ published | 844 lines · O Kav, o Chalal e a Luz: Etz Chaim com o Ramchal |
-| xsuxCiPSAjI | ✗ will be redone (try 1) | line 120 twice |
-| 2Bb286JSFeI | waiting | 5/7 parts |
+| xsuxCiPSAjI | waiting | 13/14 parts |
+| 2Bb286JSFeI | ✗ will be redone (try 1) | 1 lines missing |
 | LS5hGOob5vk | ✓ published | 583 lines · Tudo o que HaShem faz é para o seu bem: o teste da fé |
