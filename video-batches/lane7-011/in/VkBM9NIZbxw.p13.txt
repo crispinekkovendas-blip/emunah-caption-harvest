@@ -1,0 +1,64 @@
+videoId: VkBM9NIZbxw
+parte 14 de 40 · traduzir as linhas 520 a 559 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Aula Or Tzadikim: o legado do pai e a luz do justo
+RESUMO: O rabino abre o quinto shiur em memória de seu pai a partir de Mishlei, "Or tzadikim yismach", com o comentário de Rabenu Yonah de que a alma do justo é como a luz: permanece para sempre e vive em alegria neste mundo e no Mundo Vindouro. Ele lista as obras de irmãos, filhos e netos como frutos da árvore da vida do pai e conta a parábola dos quatro pintores, do Knesset Yechezkel, para dizer que os filhos são apenas o reflexo do que os pais pintaram. Em seguida descreve a devoção do pai: beijar mezuzot (Rambam), só viver em lugar de Torá (Avot), dormir numa cadeira para não perder o netz, e os justos que não dormiam em cama, como Yaakov, o Chatam Sofer e outros. Mostra o amor às Torá e aos livros antigos, a fidelidade ao Ben Ish Chai e ao Chida, o cuidado de não usar Cabalá prática, com o Zohar sobre a pérola no saco do pobre, e o estudo de Torá até o dia do casamento, com exemplos de grandes sábios e a Guemará em Ketubot 62b sobre Rabi Shimon bar Yochai. Por fim relata sua bondade, cuidado com os filhos, gratidão, honestidade com dinheiro, humildade ao recusar emitir decisões e o cargo de dayan, e termina com o Torá de que o justo falecido é uma semente que gera frutos, e com bênçãos aos que honram sua memória.
+MOMENTOS: 00:46 Or Tzadikim: versículo de Mishlei e Rabenu Yonah · 02:04 Fontes da aula: os cadernos do irmão Rav Shmuel · 08:15 Frutos do pai: livros de filhos e netos · 14:39 Parábola dos quatro pintores do Knesset Yechezkel · 20:27 Devoção do pai: mezuzá, lugar de Torá, tefilá no netz · 30:54 Justos que não dormiam em cama · 36:39 Amor pelos livros antigos e fidelidade à tradição · 42:17 Zohar: pérola no saco do pobre e Cabalá prática · 58:34 Torá até o dia do casamento: exemplos de grandes sábios · 1:09:26 Ketubot 62b: Rabi Shimon bar Yochai e Rabi Chanina · 1:16:14 Papel da mulher e Chana mãe de Shmuel · 1:23:49 Cuidado com os filhos, gratidão e dinheiro · 2:01:06 Humildade e recusa do cargo de dayan · 2:11:03 Encerramento: o justo como semente e bênçãos
+FONTES CITADAS: 00:46 Mishlei 13:9 · 01:02 Rabenu Yonah em Mishlei 13:9 · 21:16 Rambam, Hilchot Mezuzá 6:13 · 22:51 Pirkei Avot 6:9 · 31:17 Bereshit Rabá sobre Bereshit 28:11 · 31:53 Bereshit 28:11 · 32:17 Semag, Rabi Moshe de Coucy · 32:49 Reshit Chochma, Shaar HaKedushá · 33:48 Berachot 57b · 35:25 Bereshit 2:21 · 35:31 Bereshit Rabá sobre Bereshit 2:21 · 39:00 Chagigá 12b · 42:17 Zohar, Parashat Shelach Lecha 157b · 43:50 Taamei HaMinhagim · 50:27 Chazon Ovadia sobre vinho na terceira refeição · 1:09:26 Ketubot 62b · 1:09:59 Berachot 7b · 1:12:19 Shabat 127a · 1:23:10 Tehilim 144:15 · 1:19:22 Shmuel I 1:20-23 · 1:44:44 Bava Batra 90a · 1:31:32 Hallel · 2:11:03 Zera lecabalá sobre a sepultura do justo · 2:11:45 Bereshit 3:19 · 2:12:36 Yeshayahu 54:13 · 2:18:14 Bava Kamá 92a · 2:18:38 Bereshit 27:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+508|46:03|נענשו על כך על זה שהשתמשו בקבלה מעשית
+509|46:10|ועיינות באוצר סיפורים מושקוביץ', שבחי הבעל שם טוב ועוד.
+510|46:13|ואם בצדיקים האלו, גדולי עולם מקובלים שידעו קבלה מעשית,
+511|46:20|נענשו, קל וחומר אנו הקטנים בדורנו, מה נאמר, מה יעשו אזובי הקיר.
+512|46:27|וכל הספרים וכל הסגולות המובאים בספרים הם ללימוד ולא למעשה.
+513|46:34|ללימוד ולא למעשה.
+514|46:38|והרוצה לראות ראה את כללי השימוש ודיני השימוש אצל פוסקי
+515|46:43|זמננו כמו ספר תמים תהיה לרב הגאון המקובל, הרב
+516|46:49|הלל שליטא וכן בספר קדושת יצחק של הרב יעקב עד השליטא
+517|46:55|בהקדמה שם יש כללים מי מותר לו, איך מותר, אם בכלל
+518|47:01|מותר לכן גם מור אבינו עליו השלום שידע מקבלה
+519|47:07|מעשית ולמד אותה, וחיבב סגולות.
+
+LINHAS A TRADUZIR:
+520|47:12|עם כל זאת, מעולם לא השתמש, למרות שהוא הראשון שנקרא על שם המקובל רבי יהודה
+521|47:18|פטאיה, שכן השתמש בקבלה מעשית.
+522|47:21|וכפי הידוע לנו, והקראתי, גם המקובלים האלה נענשו,
+523|47:28|למרות שהשתמשו בקבלה מעשית.
+524|47:31|למרות שהם היו ראויים לכך.
+525|47:33|לא פשוט.
+526|47:35|קודם כל פשט.
+527|47:38|וללמוד אתה למד, מצווה ללמוד הכל זה חלק מהתורה ולקיים את הפשט
+528|47:45|וללכת עמים תהיה עם השם אלוקיך
+529|47:50|כך מור אבינו היה דבק בדברי תורה המסורים משה קיבל תורה
+530|47:56|מסיני ומסרה לישוע וישוע לזקנים ובכל הדורות נהגו
+531|48:02|והתנהלו בצורות כאלו שקודם כל לומדים הלכה ודע תורה וזה מה
+532|48:07|שעושים אלא אם כן קיבלת במסורת כך נהג
+533|48:13|מור אבינו לפי מה שקיבל במסורת לא בהשתמשות בקבלה מעשית אלא אפילו במנהגיה המקובלים
+534|48:20|אלא אפילו כנגד חכמי הדור אמרתי מספר פעמים
+535|48:26|שמור אבינו היה חסיד של רבנו הבן איש חי מכל איבריו וגידיו
+536|48:32|ולמעלה בקודש של רבנו החביב רבי חיים פלאצ'י,
+537|48:38|ספר מלח, מועד לכל חי, ספר כף החיים של רבי חיים
+538|48:44|פלאצ'י, לא זזו מידיו.
+539|48:48|ספר, ספריו של הבן איש חי, לא זזו מידיו, ומעל אלו רבנו
+540|48:54|החידה הקדוש, כל ספריו, עבודת הקודש ועוד,
+541|49:00|רבנו החידה שמסר תורה.
+542|49:03|אל רבי חיים פלאצ'י שמסע התורה רבנו אבן ישחי עד התחנה
+543|49:09|האחרונה וכאן זה נעצר לא היה מעניין את מור אבינו שום פוסק
+544|49:14|בדור ומעולם לא פסק הלכה עד כמה שאני יודע
+545|49:21|על פי שום פוסק בדור וגם אם היו בני הבית הבנים
+546|49:27|הצעירים מביאים ספרים של פוסקי הדור בבית אבינו מעולם, עד
+547|49:32|כמה שאני יודע, לא פתח בהם ולא עיין בהם.
+548|49:37|והרבה פעמים, כשהיה איזה פינה באיזה, לפני שנים רבות, איזה פינת
+549|49:43|הלכה ברדיו, שהיו משמיעים דברי תורה של איזה רב גדול מפוסקי
+550|49:48|הדור, היה מר אבינו מתקומם ואומר, לא כך הלכה.
+551|49:54|הרי למדנו, מר בן ארבי נשחי כך, והרי למדנו, בכף החיים כך, והרי למדנו כך.
+552|50:00|איך אפשר לפסוק ואיך אפשר לומר כך.
+553|50:03|היה דבק מאוד באלו הקדמונים.
+554|50:08|אציין לדוגמה, וכל אדם בכבודו מונח, כפי
+555|50:14|שאמרנו, גם באלו שלא, שמור אבינו לא אחז בהם מפוסקי דורנו להלכה,
+556|50:20|אבל תמיד כיבד ודיבר יקר ונאמנה.
+557|50:27|יש הלכה על יין בסעודה שלישית.
+558|50:29|האם צריך לעשות קידוש בסעודה שלישית ביין?
+559|50:34|בספר חזון עובדיה דן בזה שהמושג שאין לקדש על יין בסעודה שלישית

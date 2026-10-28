@@ -1,0 +1,64 @@
+videoId: VkBM9NIZbxw
+parte 12 de 40 · traduzir as linhas 440 a 479 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Aula Or Tzadikim: o legado do pai e a luz do justo
+RESUMO: O rabino abre o quinto shiur em memória de seu pai a partir de Mishlei, "Or tzadikim yismach", com o comentário de Rabenu Yonah de que a alma do justo é como a luz: permanece para sempre e vive em alegria neste mundo e no Mundo Vindouro. Ele lista as obras de irmãos, filhos e netos como frutos da árvore da vida do pai e conta a parábola dos quatro pintores, do Knesset Yechezkel, para dizer que os filhos são apenas o reflexo do que os pais pintaram. Em seguida descreve a devoção do pai: beijar mezuzot (Rambam), só viver em lugar de Torá (Avot), dormir numa cadeira para não perder o netz, e os justos que não dormiam em cama, como Yaakov, o Chatam Sofer e outros. Mostra o amor às Torá e aos livros antigos, a fidelidade ao Ben Ish Chai e ao Chida, o cuidado de não usar Cabalá prática, com o Zohar sobre a pérola no saco do pobre, e o estudo de Torá até o dia do casamento, com exemplos de grandes sábios e a Guemará em Ketubot 62b sobre Rabi Shimon bar Yochai. Por fim relata sua bondade, cuidado com os filhos, gratidão, honestidade com dinheiro, humildade ao recusar emitir decisões e o cargo de dayan, e termina com o Torá de que o justo falecido é uma semente que gera frutos, e com bênçãos aos que honram sua memória.
+MOMENTOS: 00:46 Or Tzadikim: versículo de Mishlei e Rabenu Yonah · 02:04 Fontes da aula: os cadernos do irmão Rav Shmuel · 08:15 Frutos do pai: livros de filhos e netos · 14:39 Parábola dos quatro pintores do Knesset Yechezkel · 20:27 Devoção do pai: mezuzá, lugar de Torá, tefilá no netz · 30:54 Justos que não dormiam em cama · 36:39 Amor pelos livros antigos e fidelidade à tradição · 42:17 Zohar: pérola no saco do pobre e Cabalá prática · 58:34 Torá até o dia do casamento: exemplos de grandes sábios · 1:09:26 Ketubot 62b: Rabi Shimon bar Yochai e Rabi Chanina · 1:16:14 Papel da mulher e Chana mãe de Shmuel · 1:23:49 Cuidado com os filhos, gratidão e dinheiro · 2:01:06 Humildade e recusa do cargo de dayan · 2:11:03 Encerramento: o justo como semente e bênçãos
+FONTES CITADAS: 00:46 Mishlei 13:9 · 01:02 Rabenu Yonah em Mishlei 13:9 · 21:16 Rambam, Hilchot Mezuzá 6:13 · 22:51 Pirkei Avot 6:9 · 31:17 Bereshit Rabá sobre Bereshit 28:11 · 31:53 Bereshit 28:11 · 32:17 Semag, Rabi Moshe de Coucy · 32:49 Reshit Chochma, Shaar HaKedushá · 33:48 Berachot 57b · 35:25 Bereshit 2:21 · 35:31 Bereshit Rabá sobre Bereshit 2:21 · 39:00 Chagigá 12b · 42:17 Zohar, Parashat Shelach Lecha 157b · 43:50 Taamei HaMinhagim · 50:27 Chazon Ovadia sobre vinho na terceira refeição · 1:09:26 Ketubot 62b · 1:09:59 Berachot 7b · 1:12:19 Shabat 127a · 1:23:10 Tehilim 144:15 · 1:19:22 Shmuel I 1:20-23 · 1:44:44 Bava Batra 90a · 1:31:32 Hallel · 2:11:03 Zera lecabalá sobre a sepultura do justo · 2:11:45 Bereshit 3:19 · 2:12:36 Yeshayahu 54:13 · 2:18:14 Bava Kamá 92a · 2:18:38 Bereshit 27:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+428|39:00|כמה חיבב תורה, כל דבר תורה חדש, אומרים חז"ל, כמו הדגים
+429|39:05|שבים, הם חיים בתוך המים.
+430|39:09|אבל כל טיפה וטיפה שנופלת מהשמיים, הם פותחים את הפה כאילו זו טיפה חדשה שלא
+431|39:15|ראו מעולם.
+432|39:17|כל דבר תורה חדש היה חביב על מור אבינו.
+433|39:20|אצלו אפילו עלון שראה, רשם לעצמו.
+434|39:27|אולי העלון היחיד, היחיד, עד כמה שאני יודע, שמור אבינו היה מעיין
+435|39:33|בו, זה הגיליון איק ותא דור איק ותא דמשיחא.
+436|39:39|שידידנו היקר שמשמרו וחייהו כותב ועורך בכל
+437|39:44|שבוע במאמץ רב הגיליון היקר הזה היה לעיני מור
+438|39:50|אבינו וכשמצא אפילו שם משהו הוא מיד העתיק את זה בכתב ידו כמו אחד
+439|39:56|הפתקאות שנמצאו בגיליון עקבתא דמשיחא תשרי תשס"ז
+
+LINHAS A TRADUZIR:
+440|40:02|כתוב שרבי משה ארי אפרים זצ"ל אמר מקובל אני
+441|40:08|מזכני, הרב הקדוש מנאסיד, זכרונו לחיי העולם הבא, סגולה לאדם שעומד
+442|40:14|למשפט בפני גוי, בפני נוכרי, לקחת בעת המשפט עלה
+443|40:20|מהלולב ביד ימין, להחזיק את העלה בין האגודה לאצבע
+444|40:26|ולומר, האוחז ביד מידת משפט.
+445|40:32|האוחז ביד מידת משפט.
+446|40:35|והדבר מסוגל לכל דבר.
+447|40:38|כמו רבינו העתיק את הסגולה הזאתי, שהוא בא בעקבתא דמשיחא בשם גאון אבבדין, העדה החרדית,
+448|40:43|זצאל, הרב פריינד, ששמע את זה בשם סבא שלו, הרב
+449|40:49|בנוסיד, והיה חביב עליו עוד סגולה, עוד דבר חדש,
+450|40:55|אדם שעומד למשפט לפני שופט גוי, או פוסק כמו גוי, ייקח עלה מהלולב, יאחז
+451|41:01|אותו ביד ימין, בין האגודה לאצבע, ויאמר האוחז ביד מידת משפט.
+452|41:10|אני יודע שברוך השם הדברים היו חביבים עליו למרות שלא השתמש אף פעם בסגולות והיה רחוק מהן
+453|41:16|אבל דברים היו חביבים עליו והתנהג כדרך כל הארץ
+454|41:22|בפשטות על פי דרך הטבע גם בענייני שידוכים
+455|41:28|למרות שידע סגולות רבות בענייני שידוכים אפילו אמר לאנשים לקרוא פרקי תהילים
+456|41:33|מסוימים אבל הוא לא איבד את הדברים
+457|41:40|בגלל שהוא ידע דברים וסגולות, הוא קודם כל התנהג כדרך כל הארץ
+458|41:46|בהשתדלות.
+459|41:48|אחד הילדים במשפחה, כשהגיע לגיל שידוכים, אמר האבא שהוא צריך ללכת לאחד
+460|41:54|השטחנים.
+461|41:56|אולי הציע לו הצעות.
+462|41:59|הבן הזה הרגיש שהוא אמר לאבא,
+463|42:05|אמר לי לחפש אצל השטחנים האלה הפשוטים.
+464|42:08|לא יבינו אותי בדיוק וכולי.
+465|42:11|זה לא שטחן כל כך חכם, זה לא שטחן כל כך צדיק.
+466|42:17|ענה לו האבא, כתוב בספר הזוהר, לפעמים בשק של העני
+467|42:23|מרגליות מוצאים.
+468|42:26|לפעמים בשק של העני מרגליות מוצאים.
+469|42:29|אל תזלזל בשטחן שהוא עני, בדעת וכולי.
+470|42:34|לפעמים יש מרגלית גם שם, כך כתוב בזוהר.
+471|42:38|עשה הבן כדברי האבא, ודווקא משם באמת בא השידוך.
+472|42:44|את דברי הזוהר הזה הכתיב מור אבי למרת אמי, שכתבה את זה בכתב ידה, זוהר פרשת שלח לך,
+473|42:50|דף קנ"ז עמוד ב', לפעמים בכיס העני יש
+474|42:54|מרגלית.
+475|42:57|מור אבינו לא זלזל בפשט, הפשט זה צריך ללכת למכולת ולקנות לחם.
+476|43:03|הפשט זה צריך ללכת לשטחן וצריך לעשות השתדלות.
+477|43:08|ואל תזלזל לא בשטחן ולא בחנות מכולת וכולי לפעמים בשק
+478|43:14|של העני יש מרגלית והעולם נוהג על פי דרך הטבע למרות שאנחנו
+479|43:19|יודעים סגולות ודברים רבים ורמזים שונים כמו

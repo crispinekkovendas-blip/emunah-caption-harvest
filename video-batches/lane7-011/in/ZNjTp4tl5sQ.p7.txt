@@ -1,0 +1,64 @@
+videoId: ZNjTp4tl5sQ
+parte 8 de 23 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Keter Aram Tzová: o mistério do Tanakh mais antigo
+RESUMO: O rabino apresenta o Keter Aram Tzová (o Códice de Alepo) como o item judaico mais valioso do mundo, um Tanakh completo com cerca de 1100 anos. Conta que Israel ben Simcha de Basra encomendou o texto ao escriba Shlomo ben Buya, de Tiberíades, e depois a massora (vocalização, cantilação, grafias plenas e defectivas, parashiyot abertas e fechadas) a Aharon ben Asher. Cita a importância de cada detalhe massorético, com exemplos de Bereshit, Shemot e Devarim e de Bava Batra 21b e Yevamot 76b, e as palavras de Ibn Ezra sobre os sábios de Tiberíades. Segue o caminho do códice: doação aos caraítas em Jerusalém, saque dos cruzados, resgate pela comunidade do Cairo e endosso do Rambam em Hilchot Sefer Torá 8:4. Depois, 600 anos guardado em Alepo, o pogrom de 1947 e a notícia de que o livro teria queimado. O presidente Ben Tzvi e o Mossad o trazem para Israel, e cerca de 200 folhas desaparecem, seguindo-se o processo da comunidade e a tragédia de um assassinato num hotel. O rabino faz críticas duras ao establishment, diz que não acusa ninguém por falta de provas, afirma que as folhas ainda existem e termina pedindo a HaShem que reúna os dispersos e devolva o livro inteiro.
+MOMENTOS: 00:35 Introdução: o objeto judaico de centenas de milhões de dólares · 03:49 Israel ben Simcha de Basra encomenda um Tanakh completo (cerca de 930) · 06:03 Shlomo ben Buya escreve o texto em Tiberíades · 07:30 Por que a massora importa: exemplos de leitura de palavras · 11:28 Obra pronta, doação aos caraítas e a inscrição na capa · 13:41 Cruzados, Cairo e o endosso do Rambam · 17:07 A família do Rambam leva o livro a Alepo, onde fica 600 anos · 23:03 Pogrom de 1947 e a notícia do incêndio · 26:15 Ben Tzvi, o Mossad e o contrabando até Israel · 35:12 Faltam 200 folhas; o processo dos alepinos · 40:54 Hotel em Jerusalém, assassinato e a investigação de Matti Friedman · 58:10 As folhas continuam sumidas; hoje o livro está no Museu de Israel
+FONTES CITADAS: 01:45 Otzrot HaMikdash (livro do rabino) · 04:46 Bava Batra 14b · 05:19 Shemot 15:2 · 05:19 Shabat 133b · 05:26 Shut Mercavot Argaman, vol. 1, Orach Chaim 1 · 07:07 Shut Mercavot Argaman, vol. 1, Orach Chaim 1 · 07:30 Bereshit 1:1 · 07:36 Devarim 4:32 · 07:42 Bereshit 47:31 · 07:48 Shemot 23:19 · 08:05 Devarim 25:19 · 08:11 Bava Batra 21b · 08:23 Yevamot 76b · 08:55 Tehilim 119:126 · 09:07 Megilá 3a · 10:33 Etz Chaim, Shaar 38, cap. 6 · 10:46 Ibn Ezra em Shemot 25:31 · 11:04 Ibn Ezra, Sefer Tzachot · 12:59 Inscrição na capa do Keter · 15:03 R. David Hassan, poema sobre Tiberíades · 15:38 Rambam, Hilchot Sefer Torá 8:4 · 18:48 Sotá 13a · 19:30 R. Yaakov Sapir, Even Sapir (1822) · 19:53 Beit Yosef, Kesef Mishné · 22:12 Inscrição no Keter de Alepo · 24:56 Bênção Shehakol · 25:38 Prof. Casuto, artigo no jornal Haaretz · 31:44 Apelo do Rav Ben Tzion Meir Chai Uziel (1953) · 55:29 Ester 7:4 · 55:44 Bereshit 9:6 · 56:57 Mishlei 2:19 · 59:59 Shut Mercavot Argaman, vol. 1, Yoreh Deá 8 · 1:02:46 Rav Soloveitchik de Brisk · 1:06:02 Tehilim 26:6 · 1:06:23 Amidá, bênção Mekabets Nidchei · 1:06:29 Yir'u Eineinu / Kadish
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|22:34|לא בגלל שהספר יצא מהקהילה, הקהילה נחרבה, אלא בגלל שהקהילה נחרבה, אז הספר
+269|22:40|יצא מהקהילה.
+270|22:41|מה קרה?
+271|22:44|האום כ"ט בנובמבר 49.
+272|22:50|47.
+273|22:51|לא הבנתי, איך זה כ"ט בנובמבר?
+274|22:52|רגע, כ"ט זה בעברית ונובמבר זה בלעז.
+275|22:54|אז תגיד, 29 בנובמבר או כ"ט באייר, או...
+276|22:58|אני לא יודע בדיוק איך זה עובד, כאילו...
+277|23:00|כלאיים התאריך הזה כ"ט בנובמבר.
+278|23:03|רבותיי, המדינה קמה ב-47 או 48?
+279|23:08|אז איך אני אומר 47?
+
+LINHAS A TRADUZIR:
+280|23:11|ההצהרה.
+281|23:12|ההצהרה הייתה ב-47.
+282|23:14|אבל בן גוריון הכריז על המדינה ב-48 ככה שאם אתם שומעים
+283|23:20|אותי אומרים 47 אני לא טועה ואם אתם שומעים מישהו אחר אומר 48 הוא גם לא טועה כי תלוי באיזה
+284|23:25|נקודה אתה מתחיל כך או כך רבותיי כ"ט בנובמבר 47 הוא מחליט על חלוקה על תוכנית החלוקה
+285|23:31|לחלק את המדינה לערבים ויהודים בתל אביב רוקדים אלנבי,
+286|23:37|שינקין, בזום, רוקדים, צוהלים ושמחים, אבל בארצות ערב
+287|23:43|מתחילות פרעות ביהודים.
+288|23:46|וגם בחלב, גם בחלב.
+289|23:48|השלטונות שולחים משטרה שתפקידה לאפשר לפורעים לשחרר את הזעם, אבל דיר
+290|23:54|באלכ, לא פגיעות בנפש.
+291|23:56|רכוש, תשרפו, תגנבו, תבזזו, תבעילו, תפחידו, אבל לא פגיעות בנפש.
+292|24:01|זה ההוראות שמקבלת המשטרה החלבית.
+293|24:04|בחלב, המון מוסלמים מוסת, מתנפל על היהודים וצועק פלסטין
+294|24:09|בואלה דנא.
+295|24:12|(אומר בערבית ומתרגם:) פלסטין ארצנו והיהודים
+296|24:18|כלבנו.
+297|24:22|זה מה שהם צעקו.
+298|24:24|מקללים, בוזזים, הורסים, נוצים, פורעים, פרעות, מציתים את כל הבתי כנסת של היהודים,
+299|24:30|ביניהם גם בית הכנסת הזה שהכתרים
+300|24:36|נמצאים בו ועל כולם הספר הקדוש הזה, הכתר
+301|24:42|שנקרא כתר הרם צובה, גם כל הבית כנסת עולה בלהבות
+302|24:47|והתפשטה השמועה שהספר עלה בלהבות השמיימה.
+303|24:53|עד כאן פרק א'.
+304|24:56|ברוך אתה אדוני אלוהינו מלך העולם שהכל נהיה בדברו.
+305|25:04|פרופסור קסוטו שהקהילה החלבית התייחסה אליו בחשדנות מצד אחד הוא
+306|25:09|פרופסור לא כל כך מתאים לסטייל הרבני המסורתי מצד שני הוא היה
+307|25:16|רבי אז לא רצו לתת לו אבל מצד היותו רבי נתנו לו זאת אומרת הקנאות לא
+308|25:21|נבעה ממקום רע אלא היא נבעה ממכות של גוננות לשמור על האוצר הזה שיש לו
+309|25:29|למעלה מאלף שנים פרופסור קסוטו פרסם מאמר בעיתון הארץ, בו הוא מספיד את הספר,
+310|25:35|אני קורא את ההספד שלו, כמה מילים.
+311|25:38|התנ״ך המפורסם שהיה פאר הקהילה היהודית בחלב, היה למאכולת אש בפרעות, כיתר ארם צובה,
+312|25:44|אבד.
+313|25:45|ומכיוון שאני הייתי האחרון שזכה לעיין בו, רואה אני חובה להעלות זכרו במילים קצרות לפני
+314|25:51|הקהל, והוא כותב ומהלל ומשבח ומפאר ומקלס את הספר הקדוש הזה, ואיך
+315|25:57|עבד, איך הפסדנו את אחד האוצרות הנכסים הלאומיים הכי גדולים
+316|26:03|של עם ישראל.
+317|26:05|אז עד כאן לכאורה הלך הספר ונעלם.
+318|26:10|אבל הסיפור לא נגמר רבותיי, הסיפור לא נגמר.
+319|26:15|הנשיא השני של מדינת ישראל, מישהו יודע איך קוראים לו?

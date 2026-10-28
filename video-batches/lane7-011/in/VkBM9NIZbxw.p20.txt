@@ -1,0 +1,64 @@
+videoId: VkBM9NIZbxw
+parte 21 de 40 · traduzir as linhas 800 a 839 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Aula Or Tzadikim: o legado do pai e a luz do justo
+RESUMO: O rabino abre o quinto shiur em memória de seu pai a partir de Mishlei, "Or tzadikim yismach", com o comentário de Rabenu Yonah de que a alma do justo é como a luz: permanece para sempre e vive em alegria neste mundo e no Mundo Vindouro. Ele lista as obras de irmãos, filhos e netos como frutos da árvore da vida do pai e conta a parábola dos quatro pintores, do Knesset Yechezkel, para dizer que os filhos são apenas o reflexo do que os pais pintaram. Em seguida descreve a devoção do pai: beijar mezuzot (Rambam), só viver em lugar de Torá (Avot), dormir numa cadeira para não perder o netz, e os justos que não dormiam em cama, como Yaakov, o Chatam Sofer e outros. Mostra o amor às Torá e aos livros antigos, a fidelidade ao Ben Ish Chai e ao Chida, o cuidado de não usar Cabalá prática, com o Zohar sobre a pérola no saco do pobre, e o estudo de Torá até o dia do casamento, com exemplos de grandes sábios e a Guemará em Ketubot 62b sobre Rabi Shimon bar Yochai. Por fim relata sua bondade, cuidado com os filhos, gratidão, honestidade com dinheiro, humildade ao recusar emitir decisões e o cargo de dayan, e termina com o Torá de que o justo falecido é uma semente que gera frutos, e com bênçãos aos que honram sua memória.
+MOMENTOS: 00:46 Or Tzadikim: versículo de Mishlei e Rabenu Yonah · 02:04 Fontes da aula: os cadernos do irmão Rav Shmuel · 08:15 Frutos do pai: livros de filhos e netos · 14:39 Parábola dos quatro pintores do Knesset Yechezkel · 20:27 Devoção do pai: mezuzá, lugar de Torá, tefilá no netz · 30:54 Justos que não dormiam em cama · 36:39 Amor pelos livros antigos e fidelidade à tradição · 42:17 Zohar: pérola no saco do pobre e Cabalá prática · 58:34 Torá até o dia do casamento: exemplos de grandes sábios · 1:09:26 Ketubot 62b: Rabi Shimon bar Yochai e Rabi Chanina · 1:16:14 Papel da mulher e Chana mãe de Shmuel · 1:23:49 Cuidado com os filhos, gratidão e dinheiro · 2:01:06 Humildade e recusa do cargo de dayan · 2:11:03 Encerramento: o justo como semente e bênçãos
+FONTES CITADAS: 00:46 Mishlei 13:9 · 01:02 Rabenu Yonah em Mishlei 13:9 · 21:16 Rambam, Hilchot Mezuzá 6:13 · 22:51 Pirkei Avot 6:9 · 31:17 Bereshit Rabá sobre Bereshit 28:11 · 31:53 Bereshit 28:11 · 32:17 Semag, Rabi Moshe de Coucy · 32:49 Reshit Chochma, Shaar HaKedushá · 33:48 Berachot 57b · 35:25 Bereshit 2:21 · 35:31 Bereshit Rabá sobre Bereshit 2:21 · 39:00 Chagigá 12b · 42:17 Zohar, Parashat Shelach Lecha 157b · 43:50 Taamei HaMinhagim · 50:27 Chazon Ovadia sobre vinho na terceira refeição · 1:09:26 Ketubot 62b · 1:09:59 Berachot 7b · 1:12:19 Shabat 127a · 1:23:10 Tehilim 144:15 · 1:19:22 Shmuel I 1:20-23 · 1:44:44 Bava Batra 90a · 1:31:32 Hallel · 2:11:03 Zera lecabalá sobre a sepultura do justo · 2:11:45 Bereshit 3:19 · 2:12:36 Yeshayahu 54:13 · 2:18:14 Bava Kamá 92a · 2:18:38 Bereshit 27:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+788|1:10:19|הלך לישיבה הוא היה חבר של רבי שמעון בר יוחאי הוא הלך לישיבה וזה
+789|1:10:25|היה בשילה אילולד רבי שמעון בר יוחאי מתי הוא הלך לישיבה?
+790|1:10:32|בסוף יום החופה של רבי שמעון בר יוחאי אומר לו רבי שמעון בר יוחאי לחברו
+791|1:10:38|בר חנינא, לאן אתה הולך לישיבה?
+792|1:10:41|ייעקב לי עדי הטבע עדך.
+793|1:10:44|חכה לי, אני תכף, אני כבר נמצא בסוף ימי החופה שלי.
+794|1:10:48|חכה לי עוד כמה שעות, חכה לי, אני מסיים את שבעת ימי החופה ואני אצטרף איתך לדרך ונלך ביחד
+795|1:10:54|לישיבה.
+796|1:10:55|ישיבת רבי עקיבא.
+797|1:10:57|תתעכב עוד כמה שעות ונלך ביחד, אני נמצא בסוף ימי חופתי.
+798|1:11:03|אומרת הגמרא לא חיכה לו, ביטול תורה.
+799|1:11:09|לא חיכה לו.
+
+LINHAS A TRADUZIR:
+800|1:11:12|אומר אשי, בשלהי לולדת רבי שמעון, סוף ימי חופתו, זה היה היום השישי, השביעי,
+801|1:11:19|לא רצה לחכות לו יום או יומיים, ולהצטרף איתו ביחד ללכת לישיבה של רבי עקיבא.
+802|1:11:24|הוא ביקש ממנו, רבי שמעון יעקב ליהם, תן לי את שכנוע ימי חופתי ואלך עמך לישיבה.
+803|1:11:31|הוא לא מוכן לחכות, ביטול תורה.
+804|1:11:36|ביטול תורה לא מוכן לחכות.
+805|1:11:40|אז מה אם אתה מתחתן?
+806|1:11:41|אז מה אם אתה בסוף היום השישי או השביעי?
+807|1:11:44|לי מותר לבטל תורה בשבילך כמה שעות?
+808|1:11:48|אני הולך כרגע, ואתה תבוא אחר כך.
+809|1:11:53|בספר בתורתו יגש, שהביא את הדברים, כותב, אתה יודע למה הוא סירב לו רבי חנינה?
+810|1:11:59|כי כל מצוות שבעולם נדחות מפני ההולך ללמוד תורה אצל רבו.
+811|1:12:05|כי זה הפסד שלא חוזר, ותלמוד תורה כנגד כולם,
+812|1:12:10|הפסד שאינו חוזר.
+813|1:12:15|הפסד שאינו חוזר.
+814|1:12:19|זמן של תורה הוא הפסד שאינו חוזר.
+815|1:12:23|מספרים בספר דרכי משה פיינשטיין, מסופר על הרב פיינשטיין, פוסק של אמריקה,
+816|1:12:30|שבאמצע שמחת השבע ברכות לבן שלו, רבי דוד, שמרו אותו מדבר, באמצע
+817|1:12:36|שמחה תושב הברכות לבן שלו הוא אמר לעצמו חבל על
+818|1:12:42|הביטול תורה מבני הרב דוד חבל על הביטול תורה מהבן שלי הרב דוד
+819|1:12:48|ביטול תורה נכון שאת כל התורה לומדים אותנו בשביל
+820|1:12:54|לקיים לידי מעשה אבל עם כל זאת הלוואי והייתי עושה את הדבר הכי
+821|1:13:00|גדול לימוד תורה שלא יהיה ביטול תורה
+822|1:13:07|אני מכיר אדם שמלמד תורה, שביום
+823|1:13:13|שברוך השם אשתו הלכה ללדת, בת,
+824|1:13:19|בסוף זה היה בת, הוא לקח אותה לבית הרפואה, והוא חיכה ליד חדר הלידה,
+825|1:13:26|אבל היה לו שיעור בערב, והוא השאיר את אשתו בהסכמה שם,
+826|1:13:32|והלך ללמוד תורה וחזר מהשיעור, ורק כשחזר הבת נולדה.
+827|1:13:38|אז מה אם אשתך בחדר לידה?
+828|1:13:42|אני מכיר אדם בדור שלנו
+829|1:13:48|שחיתן בן ואמר לבן שלו, את החתונה אתה עושה
+830|1:13:54|לא ביום שיש לי שיעור קבוע.
+831|1:13:57|ואם תעשה את זה ביום שיש לי שיעור קבוע, אני לא בא לחתונה שלך בעצמך.
+832|1:14:05|אז מה אם אני מחתן בן?
+833|1:14:07|אם אני יכול לעשות כל תצדקה, שזה לא יפגע בשיעור תורה קבוע, תלמוד תורה כנגד
+834|1:14:13|כולם.
+835|1:14:15|כתוב בספרים הקדושים שדבר שאדם לא עבד עליו, אלא זה
+836|1:14:21|בטבע שלו, או דבר שהדבר לא בתכונה שלו, אלא זה
+837|1:14:27|מאבותיו, לא שייך בזה גאווה.
+838|1:14:30|מתי שייך גאווה זה דבר שאדם עבד, עמל, אסור להתגאות בהישג שהגעת.
+839|1:14:36|כגון אם נולדת קמצן ואתה מפזר כרגע ושברת את מידת הקמצנות, אסור לך להתפאר

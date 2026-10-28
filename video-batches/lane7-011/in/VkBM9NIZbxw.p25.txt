@@ -1,0 +1,64 @@
+videoId: VkBM9NIZbxw
+parte 26 de 40 · traduzir as linhas 1000 a 1039 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Aula Or Tzadikim: o legado do pai e a luz do justo
+RESUMO: O rabino abre o quinto shiur em memória de seu pai a partir de Mishlei, "Or tzadikim yismach", com o comentário de Rabenu Yonah de que a alma do justo é como a luz: permanece para sempre e vive em alegria neste mundo e no Mundo Vindouro. Ele lista as obras de irmãos, filhos e netos como frutos da árvore da vida do pai e conta a parábola dos quatro pintores, do Knesset Yechezkel, para dizer que os filhos são apenas o reflexo do que os pais pintaram. Em seguida descreve a devoção do pai: beijar mezuzot (Rambam), só viver em lugar de Torá (Avot), dormir numa cadeira para não perder o netz, e os justos que não dormiam em cama, como Yaakov, o Chatam Sofer e outros. Mostra o amor às Torá e aos livros antigos, a fidelidade ao Ben Ish Chai e ao Chida, o cuidado de não usar Cabalá prática, com o Zohar sobre a pérola no saco do pobre, e o estudo de Torá até o dia do casamento, com exemplos de grandes sábios e a Guemará em Ketubot 62b sobre Rabi Shimon bar Yochai. Por fim relata sua bondade, cuidado com os filhos, gratidão, honestidade com dinheiro, humildade ao recusar emitir decisões e o cargo de dayan, e termina com o Torá de que o justo falecido é uma semente que gera frutos, e com bênçãos aos que honram sua memória.
+MOMENTOS: 00:46 Or Tzadikim: versículo de Mishlei e Rabenu Yonah · 02:04 Fontes da aula: os cadernos do irmão Rav Shmuel · 08:15 Frutos do pai: livros de filhos e netos · 14:39 Parábola dos quatro pintores do Knesset Yechezkel · 20:27 Devoção do pai: mezuzá, lugar de Torá, tefilá no netz · 30:54 Justos que não dormiam em cama · 36:39 Amor pelos livros antigos e fidelidade à tradição · 42:17 Zohar: pérola no saco do pobre e Cabalá prática · 58:34 Torá até o dia do casamento: exemplos de grandes sábios · 1:09:26 Ketubot 62b: Rabi Shimon bar Yochai e Rabi Chanina · 1:16:14 Papel da mulher e Chana mãe de Shmuel · 1:23:49 Cuidado com os filhos, gratidão e dinheiro · 2:01:06 Humildade e recusa do cargo de dayan · 2:11:03 Encerramento: o justo como semente e bênçãos
+FONTES CITADAS: 00:46 Mishlei 13:9 · 01:02 Rabenu Yonah em Mishlei 13:9 · 21:16 Rambam, Hilchot Mezuzá 6:13 · 22:51 Pirkei Avot 6:9 · 31:17 Bereshit Rabá sobre Bereshit 28:11 · 31:53 Bereshit 28:11 · 32:17 Semag, Rabi Moshe de Coucy · 32:49 Reshit Chochma, Shaar HaKedushá · 33:48 Berachot 57b · 35:25 Bereshit 2:21 · 35:31 Bereshit Rabá sobre Bereshit 2:21 · 39:00 Chagigá 12b · 42:17 Zohar, Parashat Shelach Lecha 157b · 43:50 Taamei HaMinhagim · 50:27 Chazon Ovadia sobre vinho na terceira refeição · 1:09:26 Ketubot 62b · 1:09:59 Berachot 7b · 1:12:19 Shabat 127a · 1:23:10 Tehilim 144:15 · 1:19:22 Shmuel I 1:20-23 · 1:44:44 Bava Batra 90a · 1:31:32 Hallel · 2:11:03 Zera lecabalá sobre a sepultura do justo · 2:11:45 Bereshit 3:19 · 2:12:36 Yeshayahu 54:13 · 2:18:14 Bava Kamá 92a · 2:18:38 Bereshit 27:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+988|1:27:01|כשאני למדתי שם בישיבה, אבא והאימא באו לקחו אותי ביום הראשון
+989|1:27:07|ישבו איתי, לא זזו עד שראו שהמיטה מסודרת שם בפנימייה ושהכול
+990|1:27:13|ושאני מסודר והיו באים לבקר אותי ומביאים לי מגשים של דברים
+991|1:27:19|וכמה אחריות, כמה חום, כמה אהבה, כמה
+992|1:27:24|אכפתיות אחי הרב שמואל מספר
+993|1:27:31|שכשהוא היה הולך לישיבה והיה חוזר בלילה, לישון בלילה מור אבינו היה מגיע
+994|1:27:36|בשעות הלילה היה ניגש למיטה של הרב שמואל, מלטף אותו בפנים
+995|1:27:43|ושם לו חמישה שקלים חדשים ואומר לו זה דמי כיס, שתקנה לך משהו בזה
+996|1:27:51|אחי הרב שמואל קיבל עיטוף, קיבל חמישה שקלים אני
+997|1:27:56|זוכר שלפני שהיו השקלים אני קיבלתי ממור אבי שש לירות דמי
+998|1:28:02|כיס, לירות שהיה לירות בזמן הבית ספר,
+999|1:28:08|דמי כיס שבועי.
+
+LINHAS A TRADUZIR:
+1000|1:28:12|מור אבינו דאג לנו שלא יחסר לנו כלום, כולל דמי כיס.
+1001|1:28:17|כשהיינו אומרים לו תודה, היה אומר, תגיד תודה רבה לקדוש ברוך הוא.
+1002|1:28:24|תודה רבה לקדוש ברוך הוא.
+1003|1:28:26|אנחנו קיבלנו דמי כיס, אני על כל פנים, ממור אבי, מהיותי ילד בבית הספר
+1004|1:28:33|ועד אחרי החתונה.
+1005|1:28:36|בקביעות, שבוע שבוע, מור אבי דאג שיהיה לי דמי כיס, אלא שהרבה
+1006|1:28:42|פעמים אני הייתי, במקום לאכול לשתות בדמי כיס הזה הייתי קונה ספרים,
+1007|1:28:49|הייתי קונה בזה ספרים ולפעמים אפילו הייתי נשאר עב והייתי קונה בזה ספרים כי זה היה האוכל
+1008|1:28:55|שלי והחוק שלי אבל דמי כיס נתן, וכשהיינו אומרים לו
+1009|1:29:01|תודה, היה אומר, תגיד תודה רבה לקדוש ברוך הוא פעם אמרו לו
+1010|1:29:06|הילדים, לאבא, אין אוכל בבית.
+1011|1:29:11|אבא פתח את המקרר ואמר, אפילו נשיא ארה״ב אוכל לחם עם
+1012|1:29:17|מרגרינה, תראו אתם מה יש לכם פה.
+1013|1:29:20|בואו תראו מה יש לכם בבית, אין לכם אוכל בבית, מפונקים, יש לכם הכל.
+1014|1:29:27|ואכן הקפיד מור אבינו שילדים יאכלו ולא יזלזלו במאכל
+1015|1:29:33|וגם בבחורי ישיבות.
+1016|1:29:36|מובא בספר פאר התורה, פעם נכנס תלמיד לשיעור של חכם בן ציון, אבא שאול זצל, ראש
+1017|1:29:42|ישיבת פורת יוסף.
+1018|1:29:45|הרב הכיר שהוא לא אכל ארוחת בוקר, הרב גער בו, צא לאכול, אל תיכנס
+1019|1:29:51|לבית המדרש, אל תיכנס לשיעור לפני שאתה אוכל ארוחת בוקר.
+1020|1:29:55|כי בן תורה צריך להיות כשור לעול וכחמור נמסה ללימוד התורה, וזה אי
+1021|1:30:01|אפשר בלי לאכול.
+1022|1:30:03|אז ראש הישיבה, חכם בן ציון, אמר לו, אתה לא נכנס לשיעור פה.
+1023|1:30:07|לך לאכול ארוחת בוקר ואז תבוא.
+1024|1:30:10|היה אומר רבנו החפץ חיים, יש יצר הרע מיוחד לילדים היהודים של לא לאכול.
+1025|1:30:17|תאכל ותהיה בריא כמו גוי ותלמד תורה כמו יעקב.
+1026|1:30:21|תדאג לבריאות שלך כמו גוי ותלמד תורה כמו יעקב.
+1027|1:30:27|גם מור אבינו עליו השלום.
+1028|1:30:29|היה דואג לנו שאנחנו נאכל ושאנחנו נהיה בריאים ושאנחנו נהיה חזקים ושלא יחסר לנו סנדוויץ',
+1029|1:30:35|שלא יחסר לנו אוכל.
+1030|1:30:38|כשהיינו אומרים לו תודה, תגיד תודה לקדוש ברוך הוא.
+1031|1:30:42|מספר אחי, הרב שמואל, ששמע מהגאון הגדול, רבי ראובן אלבז, שיכול להיות
+1032|1:30:48|אותו מממן, ראש ישיבת פורת יוסף, שבאוד מאוד מאוד חיבב את מור אבינו, ומור אבינו
+1033|1:30:54|התפלל אצלו, אפשר לומר, במשך שנים בישיבה, ישיבת אור החיים.
+1034|1:30:59|הוא מגיע בקביעות, בפרט בסוף ימיו, הוא מגיע בקביעות לשם, הוא מתפלל שם בקביעות
+1035|1:31:05|בישיבה אצל הרב אלבז.
+1036|1:31:08|הרב מאוד כיבד אותו, גם בל"ג בעומר, בריקודים, אפילו בשנה, שנתיים האחרונות.
+1037|1:31:16|ספר הרב שמואל בשם גאון, הרב ראובן אל בשליטה, שאדם צריך 60% מהחיים
+1038|1:31:22|להודות, ו-40% לבקש.
+1039|1:31:26|60% להודות, 40% לבקש.

@@ -1,0 +1,64 @@
+videoId: 68YXUDnO-tw
+parte 2 de 25 · traduzir as linhas 40 a 79 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Como baixar a preocupação: Mishlei 12:25
+RESUMO: O Rav Zamir Cohen explica o versículo "Deagá beLev ish yashchena, vedavar tov yesmachena" (Mishlei 12:25): a preocupação que se instala no coração, e não apenas na mente, incha como uma bolha. A Gemará em Yomá lê "yashchena" como "yasichena": afastar o assunto da mente e conversar com outros, o que alivia a pressão e traz bons conselhos (Ruach Chaim, Tehilim 119:99). Depois vêm três caminhos para o "davar tov": a base de "kol de'avid rachmana letav avid" (Berachot 60b), a imaginação guiada segundo o Malbim, com as cores da cabalá do Ramak em Pardes Rimonim, e o Gaon de Vilna, para quem "tov" é a Torá (Mishlei 4:2). Na parte de perguntas ele trata da kashrut (Vaicrá 11:43), de "nosê be'ol im chavero" (Pirkê Avot 6:6) e do mês de Elul.
+MOMENTOS: 01:22 O versículo: deagá beLev ish yashchena · 03:52 A Gemará em Yomá: dois sentidos de yashchena · 05:03 Primeiro caminho: afastar a preocupação da mente · 07:04 Segundo caminho: conversar com os outros · 11:36 Davar tov: três caminhos para a alegria · 12:48 Kol de'avid rachmana letav avid · 22:18 O Malbim: imaginação guiada · 27:05 Ramak: as cores das sefirot e a cura · 39:12 Gaon de Vilna: tov é a Torá · 42:00 Pergunta: a importância da kashrut · 48:19 Nosê be'ol im chavero · 51:20 Dividir o peso da coletividade
+FONTES CITADAS: 01:22 Mishlei 12:25 · 03:52 Yomá 75a · 08:38 Mishlei 11:14 · 08:48 Rabi Chaim de Volozhin, Ruach Chaim em Pirkê Avot · 09:23 Tehilim 119:99 · 12:48 Berachot 60b · 15:23 Berachot 33b · 18:15 Devarim 4:39 · 18:26 Melachim I 18:21 · 19:19 Melachim I 18:39 · 19:43 Bereshit 1:1 · 22:21 Malbim em Mishlei 12:25 · 27:05 Ramak, Pardes Rimonim, Shaar HaGvanim · 32:11 Pirkê Avot 2:1 · 34:41 Bereshit 18 · 34:51 Bereshit 22 · 38:35 Shemot 28 · 39:41 Mishlei 4:2 · 43:18 Vaicrá 11:43 · 48:19 Pirkê Avot 6:6 · 53:34 Makot 23b · 53:41 Yeshayáhu 42:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+28|01:41|ומקום השכל הרציונל.
+29|01:44|הלב הוא מקום הרגשות.
+30|01:47|ואומר שלמה תדע לך כשיש לך דאגה בלב כלומר
+31|01:52|כשאתה רואה שזה כבר לא נקרא לזה התארגנות
+32|01:55|לקראת העתיד מבחינה שכלית אדם שעובר דירה
+33|02:00|הגיוני שהוא יתארגן לאיפה אני עובר מה אני
+34|02:03|לוקח איתי איך אני מסתדר שם זה בסדר גמור
+35|02:06|אין כאן דאגה שיש בה חיסרון זו התארגנות
+36|02:09|לקראת העתיד זה כשהשכל עובד הבעיה אומר
+37|02:13|שלמה המלך כשזה נכנס ללב כשהדאגה מתחילה
+38|02:17|להתמקם בלב, לקנן בלב. דאגה בלב איש היא
+39|02:22|שוכנת בתוך הלב. שם זו כבר בעיה. השאלה
+
+LINHAS A TRADUZIR:
+40|02:26|איך מתמודדים? עם רגשות קשה מאוד להתמודד.
+41|02:29|כשמדובר בשכל מול שכל יותר קל. אתה יכול
+42|02:33|להסביר לעצמך כנגד החשיבה הזאת יש חשיבה
+43|02:36|אחרת. אבל כשהרגש שבלב הוא זה שתופס מקום,
+44|02:41|איך אפשר להתמודד עם רגשות? כשההסבר
+45|02:45|השכלי לא משפיע על הלב של האדם,
+46|02:50|אומר שלמה המלך, דאגה בלב איש ישכנה.
+47|02:53|פירוש המילה ישכנה מלשון שוחה, מקום נמוך
+48|02:57|תנמיך אותה,
+49|03:00|אל תיתן להתנפח.
+50|03:03|השאלה איך עושים את זה?
+51|03:06|איך אפשר להנמיך דאגה שמקננת בליבו של
+52|03:09|האדם? וזו דאגה אמיתית. בפרט יש דאגות על
+53|03:13|עניינים מאוד כבדים כמו בריאות בשאלות של
+54|03:16|חיים ומוות. יש דאגות לקראת מבחן. כשאדם
+55|03:21|יודע שכל העתיד הכלכלי שלו, ככה התחושה
+56|03:24|באותה שעה, כל העתיד תלוי בעניין הזה.
+57|03:27|משברים שיש לאדם במהלך החיים, אם זה
+58|03:30|במשפחה, מחוץ למשפחה,
+59|03:33|איך אפשר להנמיך את הדאגה הזו שהיא מכניסה
+60|03:36|את האדם לעצבות, לתסכול, קשה לו לישון
+61|03:39|בלילות.
+62|03:41|הוא הולך ביום והוא לא מרוכז בעבודה כי
+63|03:43|הראש טרוד שם באותם לחצים של המה יהיה ומה
+64|03:48|הלאה ואיך אני מתקדם מכאן.
+65|03:52|הגמרא במסכת יומה מסבירה שבמילה ישחנה
+66|03:58|רמז שלמה המלך שתי דרכים באיזו צורה ניתן
+67|04:02|להנמיך את הלחצים הפנימיים של הדאגות שיש
+68|04:06|בלב.
+69|04:08|אומרת הגמרא שהמילה ישכנה היא מלשון
+70|04:11|ישיחנה מדעתו
+71|04:16|ועוד משמעות ישיחנה לאחרים
+72|04:21|כלומר יש שני מסלולים שאדם שמרגיש שהוא
+73|04:25|דואג מוטרד קשה לו לישון בלילה לחוץ במשך
+74|04:28|היום שני מסלולים שיפעל בהם כדי להנמיך את
+75|04:32|הדאגה שיש לו המסלול האחד ישיחמידת תפסיק
+76|04:37|להתעסק עם זה. נכון שזה עולה בראש והרגש
+77|04:42|שוב מציף את הדברים, אבל יש לאדם יכולת
+78|04:46|לומר, אני לא רוצה לחשוב על העניין הזה,
+79|04:48|אני רוצה לחשוב על משהו אחר. בוא נחשוב על

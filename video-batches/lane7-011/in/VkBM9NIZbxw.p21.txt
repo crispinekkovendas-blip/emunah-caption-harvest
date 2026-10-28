@@ -1,0 +1,64 @@
+videoId: VkBM9NIZbxw
+parte 22 de 40 · traduzir as linhas 840 a 879 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Aula Or Tzadikim: o legado do pai e a luz do justo
+RESUMO: O rabino abre o quinto shiur em memória de seu pai a partir de Mishlei, "Or tzadikim yismach", com o comentário de Rabenu Yonah de que a alma do justo é como a luz: permanece para sempre e vive em alegria neste mundo e no Mundo Vindouro. Ele lista as obras de irmãos, filhos e netos como frutos da árvore da vida do pai e conta a parábola dos quatro pintores, do Knesset Yechezkel, para dizer que os filhos são apenas o reflexo do que os pais pintaram. Em seguida descreve a devoção do pai: beijar mezuzot (Rambam), só viver em lugar de Torá (Avot), dormir numa cadeira para não perder o netz, e os justos que não dormiam em cama, como Yaakov, o Chatam Sofer e outros. Mostra o amor às Torá e aos livros antigos, a fidelidade ao Ben Ish Chai e ao Chida, o cuidado de não usar Cabalá prática, com o Zohar sobre a pérola no saco do pobre, e o estudo de Torá até o dia do casamento, com exemplos de grandes sábios e a Guemará em Ketubot 62b sobre Rabi Shimon bar Yochai. Por fim relata sua bondade, cuidado com os filhos, gratidão, honestidade com dinheiro, humildade ao recusar emitir decisões e o cargo de dayan, e termina com o Torá de que o justo falecido é uma semente que gera frutos, e com bênçãos aos que honram sua memória.
+MOMENTOS: 00:46 Or Tzadikim: versículo de Mishlei e Rabenu Yonah · 02:04 Fontes da aula: os cadernos do irmão Rav Shmuel · 08:15 Frutos do pai: livros de filhos e netos · 14:39 Parábola dos quatro pintores do Knesset Yechezkel · 20:27 Devoção do pai: mezuzá, lugar de Torá, tefilá no netz · 30:54 Justos que não dormiam em cama · 36:39 Amor pelos livros antigos e fidelidade à tradição · 42:17 Zohar: pérola no saco do pobre e Cabalá prática · 58:34 Torá até o dia do casamento: exemplos de grandes sábios · 1:09:26 Ketubot 62b: Rabi Shimon bar Yochai e Rabi Chanina · 1:16:14 Papel da mulher e Chana mãe de Shmuel · 1:23:49 Cuidado com os filhos, gratidão e dinheiro · 2:01:06 Humildade e recusa do cargo de dayan · 2:11:03 Encerramento: o justo como semente e bênçãos
+FONTES CITADAS: 00:46 Mishlei 13:9 · 01:02 Rabenu Yonah em Mishlei 13:9 · 21:16 Rambam, Hilchot Mezuzá 6:13 · 22:51 Pirkei Avot 6:9 · 31:17 Bereshit Rabá sobre Bereshit 28:11 · 31:53 Bereshit 28:11 · 32:17 Semag, Rabi Moshe de Coucy · 32:49 Reshit Chochma, Shaar HaKedushá · 33:48 Berachot 57b · 35:25 Bereshit 2:21 · 35:31 Bereshit Rabá sobre Bereshit 2:21 · 39:00 Chagigá 12b · 42:17 Zohar, Parashat Shelach Lecha 157b · 43:50 Taamei HaMinhagim · 50:27 Chazon Ovadia sobre vinho na terceira refeição · 1:09:26 Ketubot 62b · 1:09:59 Berachot 7b · 1:12:19 Shabat 127a · 1:23:10 Tehilim 144:15 · 1:19:22 Shmuel I 1:20-23 · 1:44:44 Bava Batra 90a · 1:31:32 Hallel · 2:11:03 Zera lecabalá sobre a sepultura do justo · 2:11:45 Bereshit 3:19 · 2:12:36 Yeshayahu 54:13 · 2:18:14 Bava Kamá 92a · 2:18:38 Bereshit 27:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|1:13:42|אני מכיר אדם בדור שלנו
+829|1:13:48|שחיתן בן ואמר לבן שלו, את החתונה אתה עושה
+830|1:13:54|לא ביום שיש לי שיעור קבוע.
+831|1:13:57|ואם תעשה את זה ביום שיש לי שיעור קבוע, אני לא בא לחתונה שלך בעצמך.
+832|1:14:05|אז מה אם אני מחתן בן?
+833|1:14:07|אם אני יכול לעשות כל תצדקה, שזה לא יפגע בשיעור תורה קבוע, תלמוד תורה כנגד
+834|1:14:13|כולם.
+835|1:14:15|כתוב בספרים הקדושים שדבר שאדם לא עבד עליו, אלא זה
+836|1:14:21|בטבע שלו, או דבר שהדבר לא בתכונה שלו, אלא זה
+837|1:14:27|מאבותיו, לא שייך בזה גאווה.
+838|1:14:30|מתי שייך גאווה זה דבר שאדם עבד, עמל, אסור להתגאות בהישג שהגעת.
+839|1:14:36|כגון אם נולדת קמצן ואתה מפזר כרגע ושברת את מידת הקמצנות, אסור לך להתפאר
+
+LINHAS A TRADUZIR:
+840|1:14:42|בזה.
+841|1:14:44|אבל אם זה דבר שהוא בטבח שלך, נולדת כזה, אתה לא יכול בלי לתת צדקות, אין לך
+842|1:14:50|בחירה בזה.
+843|1:14:53|או שאתה אדם שקיבלת מאבותיך בגנים את זה, זה לא שלך, זה מכוח אבותיך, אז אין
+844|1:14:59|בזה גאווה אם אתה מספר, ובפרט אם זה לפני תלמידיך ולפני הילדים שלך שילמדו.
+845|1:15:06|לכן בעקבות זאת אני יכול לומר ששתי המעשיות האחרות שסיפרתי, אם זה על האדם שנולדה לו
+846|1:15:12|בת ואם זה על האדם שחיתן בן, שני המעשיות
+847|1:15:17|האלה, בדידי אבה עובדה, אני יצחק כהן, כן, כשנולדה לי בת, אני יצחק כהן
+848|1:15:23|כשחיתנתי בן, ברוך השם לא ביטלתי תורה, וגם לחתונה של
+849|1:15:29|אחותי לא הלכתי על חשבון שיעור תורה.
+850|1:15:33|תלמוד תורה כנגד כולם.
+851|1:15:35|והכוח שלי לדברים האלה זה לא מהכוח שלי זה מהכוח האור הגדול
+852|1:15:41|כפי שאמרתי בתחילת השיעור אנחנו הצל של הקיר הרביעי
+853|1:15:48|מתוך שלושת הקירות תורה, עבודה, גמילות חסדים של
+854|1:15:54|האבא היקר הזה אנחנו בסך הכל מראה שלו התפילה היא
+855|1:15:59|שיזכו גם כן בנינו ובני בנינו לרשת מאיתנו את הכוחות האלה
+856|1:16:06|שקיבלנו מהמאור הגדול להמשיך את זה גם הלאה.
+857|1:16:10|אמן, כן, יהי רצון.
+858|1:16:14|מור אבינו היה אדם שפוי שלמד תורה בהתמדה גדולה,
+859|1:16:20|ידע מה חלקו וידע גם איך להנהיג את בני ביתו בדרכה של
+860|1:16:26|תורה.
+861|1:16:28|ראינו תמיד כשהאימא הייתה מטופלת בילדים קטנים, היה אומר
+862|1:16:34|לה האבא, אל תחפשי מצוות אחרים, ואפילו אל תבואי לבית כנסת,
+863|1:16:40|ואפילו לא בראש השנה, ואפילו לא בשביל שופר, ואפילו לא בכיפור.
+864|1:16:46|חובתך היא לטפל בבית בילדים קטנים.
+865|1:16:50|ואמא היקרה, שהייתה צייתנית לכל הגה של אבא, בלי
+866|1:16:56|אומר ובלי דברים, מה שאבא ביקש ואמר זה מה שהיא עשתה.
+867|1:17:04|העיקר שלעשות את בשביל מה נולדת ושלא יהיה
+868|1:17:10|מצווה הבאה בעבירה.
+869|1:17:13|אישה לא נולדה להיות בסליחות ולא בבית כנסת ולא בכיפור ולא בשופר של
+870|1:17:19|ראש השנה ותור ספרדיה בפרט אם יש לה לטפל בבית בילדים קטנים
+871|1:17:25|וכך עשרות שנים מראת אמנו ישבה בבית ורק כשהילדים
+872|1:17:31|גדלו היא כבר הכינה הכל והכל היה מסודר אז הייתה
+873|1:17:37|בדבקות הולכת איתנו ביחד לבית הכנסת בנץ מה זה איתנו?
+874|1:17:42|אם בראש השנה מור אבי היה הולך לבית הכנסת בעלות השחר האימא הייתה
+875|1:17:48|מצטרפת ואני איתם שלושתנו היינו הולכים יחד בקביעות לבית הכנסת
+876|1:17:54|אני בדרך כלל הייתי מתחיל חזן אם זה בבית כנסת משכיל אל דל בירושלים
+877|1:18:01|שנים רבות, אם זה בבית הכנסת ששם היה הרב חשין דורש עליו
+878|1:18:07|השלום ועוד, אם זה בבית הכנסת מוסאיוף בראשי שם במניין של ותיקין הגדול
+879|1:18:13|הייתה אימא יושבת בעזרת נשים נהנית ואבא היה יושב בגברים לידי וגם הוא רובה

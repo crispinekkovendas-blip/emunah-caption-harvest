@@ -1,0 +1,50 @@
+videoId: qpbYyv2XP7s
+parte 1 de 15 · traduzir as linhas 0 a 39 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Gartí: como Yaakov disse ter guardado as 613 mitsvot
+RESUMO: O Rav Meir Eliyahu parte de Rashi em Bereshit 32:5 (Parashat Vayishlach), que lê "garti" (morei com Lavan) como 613 em guematria, e pergunta como Yaakov podia dizer que guardou as 613 mitsvot, se vivia fora da terra, não era cohen nem levita e não havia Templo. Mostra que Moshe e Aharon eram ambos cohen e levi, e lembra a lista das 613 e a discussão do Ramban contra o Rambam sobre a mitsvá de povoar Eretz Israel. Traz a resposta do Rav Chida (Menachot 110a): quem estuda as leis de um sacrifício é como quem o ofereceu, e Yaakov guardou o que pôde e estudou o resto. Depois dá três explicações de por que Yaakov disse isso a Esav: enquanto estuda Torá, Esav não tem poder sobre ele; as bênçãos de Yitschak não se cumpriram nele, então não há o que invejar; e os anjos enviados, que Rashi diz serem anjos de verdade, bateram em Esav como sinal dos 613 anjos das mitsvot. Segue com o medo de Yaakov, o estudioso frágil que se esgota pela Torá (Rabi Shimon bar Yochai), o Zohar sobre a luta com o anjo de Esav, o número 400 (guematria de "saco") ligado ao Tikun Chatsot de Léa, e historias de Baba Sali. Termina com Machalat, esposa de Esav, e o ditado de que toda ave se junta à sua espécie.
+MOMENTOS: 00:19 Vayishlach: Yaakov envia mensageiros a Esav · 00:30 Rashi: garti tem guematria 613 · 01:14 Como guardar 613 sem Templo, cohen ou levi? · 01:59 Moshe e Aharon eram cohen e levi · 03:16 Mitsvá de povoar Eretz Israel; Rambam e Ramban · 03:44 A lista das 613 mitsvot e as listas dos Rishonim · 06:17 Rav Chida: estudar é como cumprir · 08:00 Três respostas: Torá protege, bênçãos, anjos · 10:50 Os anjos batem em Esav · 13:44 Talmidei chachamim fracos; Rabi Shimon bar Yochai · 20:07 Zohar: a luta com o anjo enfraqueceu Esav · 21:55 Os 400 homens, guematria de saco, Tikun Chatsot · 26:57 Baba Sali e o homem sem filhos · 32:24 Machalat e Basemat, esposas de Esav
+FONTES CITADAS: 00:19 Bereshit 32:4 · 00:24 Bereshit 32:5 · 00:30 Rashi em Bereshit 32:5 · 02:05 Zevachim 101b · 02:36 Bamidbar 1:51 · 02:48 Shemot 4:14 · 03:23 Rambam, Sefer HaMitsvot, mitsvot omitidas · 03:48 Makot 23b · 03:56 Makot 23b · 04:06 Semag, Smak, Sefer HaYereim, Rabeinu Yona · 04:48 Ramban, Hassagot ao Sefer HaMitsvot do Rambam · 05:11 Meguilat Esther sobre o Rambam · 06:24 Rav Chida · 06:30 Menachot 110a · 08:12 Bereshit 27:40 · 08:25 Bereshit 27:22 · 09:12 Bereshit 27:28 · 09:22 Bereshit 27:29 · 10:08 Rashi em Bereshit 32:4 · 10:17 Baalei HaRemazim · 12:09 Zohar, Hagadá de Pessach · 12:15 Shemot 12:12 · 13:03 Rashi em Bereshit 29:10 · 13:09 Bereshit 29:10 · 13:29 Bereshit 28:2 · 13:44 Yomá 72b · 14:06 Avot 6:6 · 14:19 Shabat 33b · 14:33 Talmud Yerushalmi, Shevi'it · 14:39 Midrash e fontes sobre Rabi Pinchas ben Yair · 15:23 Sanhedrin 99b · 17:08 Rashi em Bereshit 32:7 · 18:42 Bereshit 27:41-42 · 19:50 Bereshit 33:4 · 19:54 Bereshit 33:5 · 20:07 Zohar, Vayishlach · 20:16 Chulin 91a · 20:28 Meguilá 3a · 21:55 Arizal, Tikun Chatsot · 22:18 Tikun Chatsot · 24:13 Bereshit 32:14-21 · 24:23 Berachot 17a · 26:44 Bereshit 29:18 · 26:52 Taanit 9a · 27:15 Nedarim 64b · 27:15 Zohar, Bereshit 24 · 27:21 Bereshit 15:2 · 32:44 Bereshit 28:9 · 32:34 Bereshit Rabá e Talmud Yerushalmi, Bikurim · 32:57 Midrash sobre Basemat · 33:02 Yevamot 79a · 33:26 Bava Kama 92b · 34:45 Yeshayahu 42:21 · 34:49 Kadish
+
+LINHAS A TRADUZIR:
+0|00:07|יישר כוח לחכם כהן השם יאריך ימיו בטוב ושנותיו בנעימים פרשה
+1|00:13|השבוע פרשת וישלח פרשה יפה מלאה מוסר על מה
+2|00:19|שקורה ליעקב אבינו עליו השלום וישלח יעקב מלאכים לפניו ולעשיו אחיו ארצה שעיר שדה אדום וייצב
+3|00:24|אותם לאמור כותו אמרו לאדוני לעשיו כה אמר עבדיך יעקב אם לבן גרתי ואיכה רדעת מה זה גרתי?
+4|00:30|רש"י כותב גרתי גמטריה תרי"ג, לא מבין למה צריך להגיע לגמטריה, תגיד אותיות, זה יותר
+5|00:36|קרוב, גרתי אותיות תרי"ג, אז למה צריך להגיע לגמטריה?
+6|00:40|טוב, אולי רוצה לרמוז לך שכשאדם עושה מעשים טובים, אל תגיד לאדיה
+7|00:45|גרתי אותיות תרי"ג, גם את המעשים טובים שאתה עושה ואתה רוצה לרמוז עליהם, תמיד שזה יהיה
+8|00:52|בעקיפין, גמטריה, אל תגיד לאדיה שאתה עושה אותם, תרמוז על זה שאתה עושה אותם קושייה עצומה אם
+9|00:58|לבן גרתי גרתי אותיות תרי"ג או גם תרי"ג תרי"ג לרמוז לך אם לבן גרתי ותרי"ג מצוות שמרתי
+10|01:04|איך תרי"ג מצוות שמרתי?
+11|01:05|אתה בחוץ לארץ בארץ ניכר בארם נהריים בטומאה בקלי איך עשית
+12|01:11|תרי"ג מצוות?
+13|01:12|אתה עשית תרי"ג מצוות?
+14|01:14|ומה עם בית המקדש שעדיין חרב שחצי מהמצוות שלנו כמעט זה רק על הר הבית ‫חצי מהמצוות,
+15|01:20|מצוות קורבנות, ‫מצוות הקטורת, מצוות כהנים.
+16|01:22|‫עכשיו, יעקב אבינו כהן, ‫בינתיים לא הייתה כהונה.
+17|01:25|‫הכהונה התחילה מאהרון הכהן.
+18|01:27|‫אח של אהרון היה לוי והוא בעצמו כהן.
+19|01:31|‫זה עוד קושייה.
+20|01:32|‫אלה שתי אחים יצאו מלוי, נכון?
+21|01:34|‫ליעקב אבינו היה 12 בנים.
+22|01:35|‫ראובן שמעון לוי, יששכר, ‫זבולון דרפטר, ‫לגעת ישראל ובנימין.
+23|01:39|‫ולוי הזה הביא את...
+24|01:42|מי?
+25|01:43|‫את מי אורליד לוי?
+26|01:47|קהת, איפה אתה?
+27|01:48|וקהת הביא את עמרם, ואמרם הביא את משה ואהרון.
+28|01:52|עכשיו, משה ואהרון הם שתי אחים, אחד לוי, אחד כהן.
+29|01:57|איך יצא דבר כזה שאחד לוי, אחד כהן והם שתי אחים?
+30|01:59|אומרת הגמרא, גם משה היה לוי, וגם משה היה כהן.
+31|02:05|למשה קראו משה לוי, זה היה השם של משה.
+32|02:09|משה רבנו, מה המשפחה שלו?
+33|02:10|רבנו, רבנו, משה רבנו.
+34|02:11|מה המשפחה שלו?
+35|02:13|לוי.
+36|02:13|משה לוי, זה היה השם שלו, כן?
+37|02:16|אז משה לוי, זה היה השם שלו.
+38|02:18|ואהרון הכהן, מה המשפחה שלו?
+39|02:20|כהן, זה היה המשפחה שלו, אהרון כהן.
