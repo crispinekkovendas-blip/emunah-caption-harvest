@@ -1,0 +1,92 @@
+videoId: 21krfgcXC0I
+parte 4 de 4 · traduzir as linhas 360 a 427 (68 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Nesheh e Tarbit: ribit da Torá e ribit de rabanan
+RESUMO: A aula abre o capítulo 5 de Bava Metzia (Mishná 1) e distingue nesheh, ribit da Torá (ribit ketzutza, fixada de antemão), de tarbit, ribit de rabanan (avak ribit), geralmente em compra e venda ou sem lucro certo. Com o Bartenura, explica que a Torá proíbe o "agar netar", o pagamento pela espera, ainda que pareça razoável, e que isso é permitido com não judeus, citando o Rambam. Na Mishná 1, o adiantamento de dinheiro por trigo só é permitido se o vendedor tem a mercadoria em estoque ou se o preço já foi estabelecido (yatza hasha'ar); na psika al hov (fixação sobre dívida), só vale se ele tem o vinho em estoque. Na Mishná 2, explica que o credor não pode morar de graça no pátio do devedor nem alugar dele por menos. Por fim, explica por que se pode acrescentar no aluguel mas não na venda: o aluguel só é pago no fim, e a venda tem o preço devido desde o kinyan, de modo que o acréscimo vira pagamento pela espera. O Bartenura conclui que o avak ribit não se recupera pelo tribunal, mas deve ser devolvido para se cumprir o dever perante o Céu, ao contrário da ribit ketzutza.
+MOMENTOS: 00:04 Início do capítulo 5 e Mishná 1: nesheh e tarbit · 01:13 Nesheh e tarbit na Torá: sem diferença halachica · 02:42 Ribit ketzutza (da Torá) e avak ribit (de rabanan) · 04:35 Bartenura: agar netar, o pagamento pela espera · 06:15 Permissão de ribit com não judeus e o Rambam · 09:43 Hakdamat ma'ot: adiantamento de dinheiro por mercadoria · 11:06 Duas condições: mercadoria em estoque ou yatza hasha'ar · 14:37 Psika al hov: o caso do vinho sem estoque · 16:57 Mishná 2: morar de graça no pátio do devedor · 22:53 Aluguel versus venda: quando se pode acrescentar · 26:00 A venda em prestações e a espera paga · 29:19 Avak ribit não se recupera pelo tribunal
+FONTES CITADAS: 00:28 Bava Metzia 5:1 · 00:41 Bava Metzia 5:1 · 01:19 Vayikrá 25:36 · 04:43 Bartenura em Bava Metzia 5:1 · 04:56 Devarim 23:20 · 06:34 Rambam, Hilchot Malveh VeLoveh 5:1 · 08:06 Bava Metzia 5:1 · 08:43 Bartenura em Bava Metzia 5:1 · 09:06 Bava Metzia 5:1 · 09:12 Bartenura em Bava Metzia 5:1 · 13:21 Bava Metzia 5:1 · 13:35 Bava Metzia 5:1 · 13:57 Bava Metzia 5:1 · 15:14 Bartenura em Bava Metzia 5:1 · 16:57 Bava Metzia 5:2 · 22:53 Bava Metzia 5:2 · 23:06 Bava Metzia 5:2 · 16:57 Bava Metzia 5:2 · 17:21 Bava Metzia 5:2 · 22:19 Bava Metzia 5:2 · 27:32 Bartenura em Bava Metzia 5:2 · 29:07 Bartenura em Bava Metzia 5:2 · 29:41 Shulchan Arukh, Yoreh De'ah 161
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|25:06|עכשיו, אותו אחד עושה חשבון לעצמו, אומר הלוואי, אם היה לי עכשיו 40 אלף שקל
+349|25:12|מזומן, הייתי נותן לך, אבל אין לי, מה אני אעשה?
+350|25:14|אז אני אשלם לך בסוף כל חודש וחודש 4 אלף.
+351|25:18|בסופו של דבר, יוצא לנו מכאן שמכיוון שאני ממתין למעות שלי, אז
+352|25:24|הרווחתי 8 אלף שקל.
+353|25:26|האם זה אסור או מותר?
+354|25:28|התשובה היא זה מותר.
+355|25:30|למה?
+356|25:30|כי זה דין שכירות.
+357|25:32|ואין שכירות משתלמת, אלא לבסוף.
+358|25:35|אז זה לא נקרא באמת שאני המתנתי לכסף שלי.
+359|25:38|זה לא נקרא שאני המתנתי.
+
+LINHAS A TRADUZIR:
+360|25:40|קיבלתי את הכסף מתי שמגיע לי.
+361|25:42|סוף כל חודש וחודש.
+362|25:44|אז זה המחיר האמיתי.
+363|25:46|אם הוא היה מקדים לי את הכסף, והיה משלם לי לפני שהוא חייב מן הדין,
+364|25:52|אז אני עושה לו הנחה.
+365|25:55|הדבר הזה מותר.
+366|25:57|אבל זה מותר דווקא לגבי שכירות.
+367|26:00|לגבי מכר, אם אני עכשיו מוכר לו דבר מסוים.
+368|26:05|והוא עכשיו קנה ממני ונטל את החפץ, לקח
+369|26:11|אותו.
+370|26:12|מכרתי לו, עשינו קניין.
+371|26:15|ועכשיו אני אומר לו, תשמע, תשלם לי עכשיו, תשלם 40 אלף.
+372|26:21|אתה רוצה לפרוס בתשלומים?
+373|26:22|אפשר.
+374|26:24|לפרוס בתשלומים?
+375|26:25|זה יגיע לך לאיזה 44 אלף שקל.
+376|26:28|בסופו של דבר, תעשה אבל עשרה תשלומים.
+377|26:32|אז פה יהיה איסור חמור לשלם את התשלומים.
+378|26:36|למה?
+379|26:37|מכיוון שמכר, החלות הממונית שלו חלה בזמן הקניין, שזה
+380|26:43|המשיכה.
+381|26:45|ואז ממילא הסכום האמיתי זה הסכום שאנחנו קובעים עכשיו.
+382|26:48|זה הסכום האמיתי, הוא לא עושה לי טובה אם הוא משלם לי עכשיו.
+383|26:52|זה הסכום האמיתי.
+384|26:54|אני עושה לו טובה לכאורה אם אני פורס לו את זה לתשלומים.
+385|26:59|ואם אני עושה לו טובה שאני פורס לו את זה לתשלומים, אז על הטובה הזאת אסור לי להסתכר.
+386|27:05|כי זה נקרא שכר המתנת מעות.
+387|27:09|מה שהוא חייב לך, פרסת לו.
+388|27:12|ואז הוא משלם יותר ממה שהוא צריך לשלם.
+389|27:16|ולכן במכר זה נקרא ריבית.
+390|27:19|זה בעצם מה שהמשנה שלנו אומרת.
+391|27:23|אומרת המשנה, בואו נראה בפנים, מרבין על השכר ואין
+392|27:29|מרבין על המכר.
+393|27:32|מסביר לי הברטנוע, מרבין על השכר בשכר המתנת מעות השכירות,
+394|27:38|ואין מרבין על המכר בשכר המתנת המקח.
+395|27:42|וטעמה, משום דשכירות אינה משתלמת אלא לבסוף.
+396|27:48|היא לקח, קישה כלמיני סלע בחודש.
+397|27:52|דאבו ליהוד בית סלעים.
+398|27:55|אין זה שכר המתנת מעות, שהרי לא נתחייב לשלם לו שכירות עד סוף החודש.
+399|28:01|והיידה אמר לה, אם מעכשיו תיתן לי, הרי היא שלך בעשר סלעים.
+400|28:09|יהבה מקדים לה, אבה מחילה מדמי השכירות.
+401|28:12|אז אם היה מקדים לו, זה נקרא שהוא מוכר לו מדמי השכירות.
+402|28:15|הוא מוגר לה בפחות משווייה.
+403|28:18|הוא משכיר לו בפחות מהשווי שלה.
+404|28:20|אבל גבי מכר...
+405|28:23|מי שמשך המקח, דינו ליתן המעות.
+406|28:27|וכי אמר לה, אם מעכשיו תיתן, הרי לך באלף זוז, הן הן
+407|28:32|דמיה.
+408|28:33|וכי מעטפה עלי הוא לגורן, וכאשר הוא מרבה עליהם, שכר
+409|28:39|המתנת מעות הוא.
+410|28:43|לכן אומרת המשנה אצלנו, כיצד?
+411|28:46|הזכיר לו את חצרו ואמר לו, אם מעכשיו אתה נותן להראוי לך בעשר סלם לשנה.
+412|28:52|ואם שחודש בחודש בסלע לחודש מותר.
+413|28:55|מכר לו את שדהו ואמר לו אם מעכשיו אתה נותן לי ארי שלך באלף
+414|29:01|זוז.
+415|29:02|אם לגורן בשנים עשר מנה אסור.
+416|29:08|אז זה בעצם הכללים ואומר פה רבנו עובדיה מברטינורה
+417|29:14|מכר לו את שדה וכולי והוא עדין מטלטלים וכל סחורה אם מכר לו יותר משוויה בשכר
+418|29:19|המתנת מעות אסור ואבי אבק ריבית מדבריהם.
+419|29:24|למה זה נקרא אבק ריבית?
+420|29:26|דרך מקח וממקר.
+421|29:27|בכל אבק ריבית, אם נתן, אינה יוצאה בדיינים.
+422|29:31|לגבי אבק ריבית, אם הוא עשה שלא כדין, אינה יוצאה בדיינים, הוא לא יכול אחר כך
+423|29:37|לתבוע אותו בבית דין ולהוציא ממנו את זה בדיינים.
+424|29:41|אבל ודאי שאם אותו אדם שנטל אבק ריבית רוצה לחזור בתשובה, אז הוא צריך
+425|29:47|להחזיר בשביל יצא ידי שמיים.
+426|29:50|ואילו רבית קצוצה דאורייתא, ואילו רבית קצוצה דאורייתא יוצאה בדיינים.
+427|29:57|ברוך ה' לעולם, אמן ואמן.

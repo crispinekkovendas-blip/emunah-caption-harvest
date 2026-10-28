@@ -1,0 +1,113 @@
+{
+ "name": "lane8-011",
+ "lane": 8,
+ "created": "2026-10-28T02:12:05.646Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "AUCG4MzqwXA",
+   "title": "Vayera de todo judeu: a brit milá e a essência de HaShem",
+   "lines": 451,
+   "parts": 4,
+   "from": "recente"
+  },
+  {
+   "id": "FtSpBnkYHZE",
+   "title": "Vayera: a revelação a Avraham após a milá e o Rebe Rashab",
+   "lines": 335,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "21krfgcXC0I",
+   "title": "Nesheh e Tarbit: ribit da Torá e ribit de rabanan",
+   "lines": 428,
+   "parts": 4,
+   "from": "recente"
+  },
+  {
+   "id": "bSZqZsfKliI",
+   "title": "Zohar Lech Lecha: Moshé, o Nissan e as 14 chayot",
+   "lines": 920,
+   "parts": 8,
+   "from": "recente"
+  },
+  {
+   "id": "1M0FvutrmAY",
+   "title": "Vayera: visitar o doente e receber hóspedes",
+   "lines": 1073,
+   "parts": 9,
+   "from": "recente"
+  },
+  {
+   "id": "OmE1wCIB88I",
+   "title": "Alegria, fé e olhar bom: como viver um casamento feliz",
+   "lines": 1155,
+   "parts": 10,
+   "from": "recente"
+  },
+  {
+   "id": "uhdk2vGGA90",
+   "title": "Lech Lecha: sair do lugar errado para receber a bênção",
+   "lines": 1878,
+   "parts": 16,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "AUCG4MzqwXA.p0",
+  "AUCG4MzqwXA.p1",
+  "AUCG4MzqwXA.p2",
+  "AUCG4MzqwXA.p3",
+  "FtSpBnkYHZE.p0",
+  "FtSpBnkYHZE.p1",
+  "FtSpBnkYHZE.p2",
+  "21krfgcXC0I.p0",
+  "21krfgcXC0I.p1",
+  "21krfgcXC0I.p2",
+  "21krfgcXC0I.p3",
+  "bSZqZsfKliI.p0",
+  "bSZqZsfKliI.p1",
+  "bSZqZsfKliI.p2",
+  "bSZqZsfKliI.p3",
+  "bSZqZsfKliI.p4",
+  "bSZqZsfKliI.p5",
+  "bSZqZsfKliI.p6",
+  "bSZqZsfKliI.p7",
+  "1M0FvutrmAY.p0",
+  "1M0FvutrmAY.p1",
+  "1M0FvutrmAY.p2",
+  "1M0FvutrmAY.p3",
+  "1M0FvutrmAY.p4",
+  "1M0FvutrmAY.p5",
+  "1M0FvutrmAY.p6",
+  "1M0FvutrmAY.p7",
+  "1M0FvutrmAY.p8",
+  "OmE1wCIB88I.p0",
+  "OmE1wCIB88I.p1",
+  "OmE1wCIB88I.p2",
+  "OmE1wCIB88I.p3",
+  "OmE1wCIB88I.p4",
+  "OmE1wCIB88I.p5",
+  "OmE1wCIB88I.p6",
+  "OmE1wCIB88I.p7",
+  "OmE1wCIB88I.p8",
+  "OmE1wCIB88I.p9",
+  "uhdk2vGGA90.p0",
+  "uhdk2vGGA90.p1",
+  "uhdk2vGGA90.p2",
+  "uhdk2vGGA90.p3",
+  "uhdk2vGGA90.p4",
+  "uhdk2vGGA90.p5",
+  "uhdk2vGGA90.p6",
+  "uhdk2vGGA90.p7",
+  "uhdk2vGGA90.p8",
+  "uhdk2vGGA90.p9",
+  "uhdk2vGGA90.p10",
+  "uhdk2vGGA90.p11",
+  "uhdk2vGGA90.p12",
+  "uhdk2vGGA90.p13",
+  "uhdk2vGGA90.p14",
+  "uhdk2vGGA90.p15"
+ ]
+}
