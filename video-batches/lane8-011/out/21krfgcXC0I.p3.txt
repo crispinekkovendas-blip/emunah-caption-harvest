@@ -1,0 +1,68 @@
+360	I received the money when it was due to me,	Recebi o dinheiro quando era devido a mim,
+361	at the end of each and every month.	no fim de cada mês.
+362	So that is the true price.	Então esse é o preço verdadeiro.
+363	If he had paid me in advance, before he was obligated by law to pay,	Se ele me adiantasse o dinheiro e me pagasse antes de ser obrigado por lei,
+364	then I am giving him a discount.	eu estaria lhe dando um desconto.
+365	This is permitted.	Isso é permitido.
+366	But it is permitted specifically with regard to rental.	Mas isso é permitido justamente no caso do aluguel.
+367	With regard to a sale, if I now sell him a certain item,	No caso de uma venda, se agora eu vendo a ele determinado objeto,
+368	and he has now bought from me and taken the item, he took	e ele agora comprou de mim e tomou o objeto, ele levou
+369	it.	o objeto.
+370	I sold it to him, we made a kinyan.	Vendi a ele, fizemos um kinyan.
+371	And now I say to him, listen, pay me now, pay 40 thousand.	E agora digo a ele: escute, pague-me agora, pague 40 mil.
+372	Do you want to spread it out in installments?	Você quer parcelar?
+373	It's possible.	É possível.
+374	Spread it in installments?	Parcelar?
+375	It will come to around 44 thousand shekels.	Isso vai dar uns 44 mil shekels.
+376	In the end, you make ten payments.	No fim, você faz dez pagamentos.
+377	Here there would be a serious prohibition to take the payments.	Aqui haveria uma proibição grave em receber os pagamentos.
+378	Why?	Por quê?
+379	Because in a sale, the monetary obligation takes effect at the time of the kinyan, which is	Porque na venda, a obrigação monetária passa a valer no momento do kinyan, que é
+380	the pulling.	a meshichá.
+381	And so the true amount is the amount we set now.	E então o valor verdadeiro é o valor que fixamos agora.
+382	That is the true amount; he is not doing me a favor if he pays me now.	Esse é o valor verdadeiro; ele não me faz favor se me paga agora.
+383	That is the true amount.	Esse é o valor verdadeiro.
+384	I am supposedly doing him a favor if I spread it out for him in installments.	Eu é que, supostamente, lhe faço um favor se parcelo para ele.
+385	And if I am doing him a favor by spreading it in installments, I am forbidden to profit from that favor.	E se lhe faço um favor ao parcelar, é proibido eu lucrar com esse favor.
+386	Because this is called payment for waiting for the money.	Porque isso se chama pagamento pela espera do dinheiro.
+387	What he owes you, you spread out for him,	O que ele lhe deve, você parcelou para ele,
+388	and then he pays more than he needs to pay.	e então ele paga mais do que precisa pagar.
+389	Therefore, in a sale this is called ribit.	Por isso, na venda isso se chama ribit.
+390	This is in fact what our Mishnah says.	É justamente isso que a nossa Mishná diz.
+391	The Mishnah says, let's look inside: One may add to the rental, but one may not	A Mishná diz, vamos ver no texto: pode-se acrescentar no aluguel, mas não se
+392	add to the sale.	pode acrescentar na venda.
+393	The Bartenura explains to me: One may add to the rental, as payment for waiting for the money of the rental,	O Bartenura me explica: acrescenta-se no aluguel, como pagamento pela espera do dinheiro do aluguel,
+394	but one may not add to the sale, as payment for waiting for the purchase price.	mas não se acrescenta na venda, como pagamento pela espera do preço da compra.
+395	And the reason is that rental is paid only at the end.	E a razão é que o aluguel só é pago no fim.
+396	If he rented it for one sela per month,	Se ele alugou por uma sela por mês,
+397	and he said to him, for the year, ten selaim:	e disse a ele: por todo o ano, dez selaim:
+398	this is not payment for waiting, since he was not obligated to pay him rent until the end of the month.	isso não é pagamento pela espera, pois ele não estava obrigado a lhe pagar o aluguel até o fim do mês.
+399	And so he said to him, if you give me now, it is yours for ten selaim.	E assim ele disse: se você me der agora, é seu por dez selaim.
+400	If he pays in advance, he is waiving part of the rental fee.	Se ele paga adiantado, ele abre mão de parte do valor do aluguel.
+401	So if he paid him in advance, it is called that he is discounting him from the rental fee.	Então, se ele pagou adiantado, isso se chama que ele lhe dá um desconto no valor do aluguel.
+402	He rents to him for less than its worth.	Ele aluga a ele por menos do que vale.
+403	He rents to him for less than its value.	Ele aluga a ele por menos do que o seu valor.
+404	But with regard to a sale...	Mas no caso da venda...
+405	One who has taken possession of the item is obligated to give the money.	Quem tomou posse da mercadoria tem o dever de dar o dinheiro.
+406	And if he said to him, if you give now, it is yours for a thousand zuz, that is	E se ele disse: se você der agora, é seu por mil zuz, esse é
+407	its price.	o seu preço.
+408	And if he is paying for it at the threshing floor, and he adds to it, it is	E se ele vai pagar na época da eira e acrescenta ao preço, isso é
+409	payment for waiting for the money.	pagamento pela espera do dinheiro.
+410	Therefore our Mishnah says: How so?	Por isso a nossa Mishná diz: como assim?
+411	If he rented him his courtyard and said to him, if you give now, it is yours for ten selaim a year,	Alugou a ele o seu pátio e disse: se você der agora, é seu por dez selaim por ano,
+412	and if month by month, a sela per month, it is permitted.	e se for mês a mês, uma sela por mês, é permitido.
+413	If he sold him his field and said to him, if you give me now, it is yours for a thousand	Vendeu a ele o seu campo e disse: se você me der agora, é seu por mil
+414	zuz,	zuz,
+415	and if at the threshing floor, for twelve maneh, it is forbidden.	e se for na época da eira, por doze maneh, é proibido.
+416	So these are in fact the rules, and Rabbeinu Ovadia of Bartenura says here:	Estas são, então, as regras, e Rabenu Ovadia de Bartenura diz aqui:
+417	If he sold him a field, etc. — and the same applies to movable goods and any merchandise: if he sold it for more than its worth as payment for	Se vendeu a ele um campo etc. — e o mesmo vale para bens móveis e qualquer mercadoria: se vendeu por mais do que vale como pagamento pela
+418	waiting for the money, it is forbidden, and it is avak ribit, from the rabbis.	espera do dinheiro, é proibido, e é avak ribit, de rabanan.
+419	Why is it called avak ribit?	Por que se chama avak ribit?
+420	Because it is by way of buying and selling.	Porque é por via de compra e venda.
+421	In every avak ribit, if he gave it, it is not recovered through the courts.	Em todo avak ribit, se ele pagou, não se recupera pelo tribunal.
+422	Regarding avak ribit, if he acted improperly, it is not recovered through the courts; he cannot afterwards	Quanto ao avak ribit, se ele agiu indevidamente, não se recupera pelo tribunal; ele não pode depois
+423	sue him in beit din and have it taken from him through the judges.	processá-lo no beit din e fazer com que seja tirado dele pelos juízes.
+424	But certainly, if that person who took avak ribit wants to repent, then he must	Mas certamente, se aquela pessoa que recebeu avak ribit quer fazer teshuvá, então ela precisa
+425	return it in order to fulfill his obligation before Heaven.	devolver, para cumprir o seu dever perante o Céu.
+426	Whereas ribit ketzutza, from the Torah, ribit ketzutza from the Torah, is recovered through the courts.	Já a ribit ketzutza, da Torá, a ribit ketzutza da Torá, é recuperada pelo tribunal.
+427	Blessed is HaShem forever, amen and amen.	Bendito seja HaShem para sempre, amém e amém.

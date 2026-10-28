@@ -1,0 +1,120 @@
+120	A gold dinar is worth 25 silver dinars.	O dinar de ouro vale 25 dinares de prata.
+121	He gave it to him for wheat: you will supply me with this	Ele deu isso a ele pelo trigo: você me fornecerá com isso
+122	wheat.	trigo.
+123	And so on for the rest.	E assim por diante.
+124	Here we are talking about a case where he hasn't yet handed over the wheat, he only advanced the money.	Aqui se trata de um caso em que ele ainda não entregou o trigo, apenas adiantou o dinheiro.
+125	This is called hakdamat ma'ot, advancing money.	Isso se chama hakdamat ma'ot, o adiantamento de dinheiro.
+126	Hakdamat ma'ot actually resembles a loan.	O adiantamento de dinheiro, na verdade, se assemelha a um empréstimo.
+127	Why?	Por quê?
+128	Because even if I come to buy something from you, I'm not lending to you, I'm buying from you.	Porque, mesmo que eu venha comprar algo de você, não estou emprestando a você, estou comprando de você.
+129	But you haven't yet supplied me with the product.	Mas você ainda não me forneceu o produto.
+130	So I've now given you money, which is called hakdamat ma'ot, on the basis that you will supply me with a certain product for this money.	Então eu agora te dei dinheiro, o que se chama hakdamat ma'ot, com base em que você me fornecerá um certo produto com esse dinheiro.
+131	True, this is by way of buying and selling, but it resembles a loan.	É verdade que isso é por via de compra e venda, mas se assemelha a um empréstimo.
+132	Why does it resemble a loan?	Por que se assemelha a um empréstimo?
+133	Because I gave money, he is meanwhile using that money, and I have still received nothing.	Porque dei dinheiro, ele entretanto usa esse dinheiro, e eu ainda não recebi nada.
+134	I'm waiting for what I want to receive.	Estou esperando o que quero receber.
+135	Now, it's known that if I advance money for	Agora, é sabido que, se eu adianto dinheiro por
+136	a certain product, and at some point this product gets more expensive,	um certo produto, e em algum momento esse produto fica mais caro,
+137	and in two or three months I receive this product at the price	e daqui a dois ou três meses recebo esse produto pelo preço
+138	that I paid two or three months before, which is actually the cheap price,	que paguei dois ou três meses antes, que na verdade é o preço barato,
+139	then I actually profited here.	então na verdade eu lucrei aqui.
+140	I profited by now receiving a product that is worth more than what I paid.	Lucrei ao receber agora um produto que vale mais do que paguei.
+141	Is this permitted or forbidden?	Isso é permitido ou proibido?
+142	Do we actually see here	Será que se vê aqui
+143	that you profited because of the waiting, and if it's forbidden, it would be a rabbinic prohibition, because	que você lucrou por causa da espera? E, se for proibido, seria uma proibição de rabanan, porque
+144	it's by way of buying and selling.	é por via de compra e venda.
+145	Or perhaps, I say, it's permitted.	Ou talvez, digo eu, seja permitido.
+146	So the Sages told us there are two conditions for it to be permitted.	Então os Sábios nos disseram que há duas condições para que seja permitido.
+147	One condition: if he has this product in stock.	Uma condição: se ele tem esse produto em estoque.
+148	If he has this product in stock, it's just that I don't need it right now.	Se ele tem esse produto em estoque, é só que eu não preciso dele agora.
+149	But I advance the money because I want him to hold the product for me, and I also want him to hold this product for me	Mas adianto o dinheiro porque quero que ele guarde o produto para mim, e também quero que ele guarde esse produto para mim
+150	at this price.	por esse preço.
+151	So I give him money, I advanced the payment, and he has this product in stock.	Então dou dinheiro a ele, adiantei o pagamento, e ele tem esse produto em estoque.
+152	In two months he supplies me with the product, and it's already worth much more.	Daqui a dois meses ele me fornece o produto, e já vale muito mais.
+153	For example, I bought from him some aluminum bars, because I wanted to build a pergola.	Por exemplo, comprei dele algumas barras de alumínio, porque queria construir uma pérgola.
+154	Aluminum, its price keeps rising all the time.	O alumínio, o preço dele sobe o tempo todo.
+155	So I paid him, and now the price of aluminum has gone up a lot.	Então paguei a ele, e agora o preço do alumínio subiu muito.
+156	Since he had the aluminum in stock, there is no problem.	Como ele tinha o alumínio em estoque, não há nenhum problema.
+157	That is, the moment I brought him the money, I made a kind of preliminary acquisition,	Isto é, no momento em que levei o dinheiro a ele, fiz uma espécie de início de kinyan,
+158	even though it's not a complete acquisition, and so it's considered as if the aluminum became more expensive in my possession.	ainda que não seja um kinyan completo, e por isso é considerado como se o alumínio tivesse encarecido em minha posse.
+159	So therefore it's perfectly fine.	Por isso está perfeitamente certo.
+160	There's a second possibility: even if he doesn't have the product in stock, but the price was set.	Há uma segunda possibilidade: mesmo que ele não tenha o produto em estoque, mas o preço já foi estabelecido.
+161	What does "the price was set" mean?	O que significa "o preço foi estabelecido"?
+162	Aluminum has a fixed price in the market, it doesn't change every moment, it doesn't change every day.	O alumínio tem um preço fixo no mercado, não muda a cada momento, não muda todo dia.
+163	It has a fixed price for a certain period,	Tem um preço fixo por um certo período,
+164	and at the time I gave him the money, he could have gone and bought with this money	e, no momento em que dei o dinheiro a ele, ele poderia ter ido e comprado com esse dinheiro
+165	aluminum and put it in the warehouse.	alumínio e guardado no depósito.
+166	It was possible for him, even though he didn't do it, but it was possible.	Era possível para ele, mesmo que não o tenha feito, mas era possível.
+167	So that is also fine.	Então isso também está certo.
+168	If the price was set, so that he could have done so, that is also good.	Se o preço foi estabelecido, de modo que ele poderia ter feito isso, isso também é bom.
+169	But if he also didn't have this product in stock, and the price was also not set,	Mas, se ele também não tinha esse produto em estoque, e o preço também não foi estabelecido,
+170	then the money had nothing to take hold on, and then it would be forbidden for me to receive this product	então o dinheiro não tinha em que se fixar, e então seria proibido para mim receber esse produto
+171	whenever it gets more expensive.	quando ele encarecer.
+172	So therefore what is written here in our Mishnah: "One who increases in produce, how so? He took from him	Portanto, o que está escrito aqui em nossa Mishná: "Aquele que lucra com frutos, como assim? Ele tomou dele
+173	wheat for a gold dinar," which is 25 silver coins, "per kor," which is	trigo por um dinar de ouro", que são 25 moedas de prata, "o kor", que é
+174	a measure of volume for wheat, "and so on for the rest." I gave him the money,	uma medida de volume de trigo, "e assim por diante". Eu dei o dinheiro a ele,
+175	and indeed, so is the price.	e de fato, assim é o preço.
+176	That is the price.	Esse é o preço.
+177	And once I gave him money and the price was set and this is the price, up to here everything is fine.	E, uma vez que dei dinheiro a ele e o preço foi estabelecido e é esse o preço, até aqui está tudo certo.
+178	"The wheat stood at thirty dinars."	"O trigo chegou a trinta dinares."
+179	After a time this wheat became more expensive, and now it is already worth thirty dinars.	Depois de um tempo esse trigo encareceu, e agora já vale trinta dinares.
+180	He said to him: "Give me my wheat, and I will take wine with it."	Ele disse a ele: "Dê-me o meu trigo, e comprarei vinho com ele."
+181	Then the one who advanced the money says: great, the wheat got more expensive now.	Então aquele que adiantou o dinheiro diz: ótimo, o trigo encareceu agora.
+182	I'm allowed to take it, because I gave him the money at a time when the price was already set, so everything was fine.	Posso pegá-lo, porque dei o dinheiro a ele num momento em que o preço já estava estabelecido, então estava tudo certo.
+183	Bring me my wheat, I want to sell it and buy wine with it.	Traga-me o meu trigo, quero vendê-lo e comprar vinho com ele.
+184	He said to him: "Your wheat is reckoned against me at thirty dinars, and you have wine with me for it."	Ele disse a ele: "O seu trigo está registrado comigo por trinta dinares, e você tem comigo vinho por ele."
+185	That is, the seller says to him: listen, let me	Isto é, o vendedor diz a ele: escute, deixe-me
+186	save you this headache.	poupar você dessa dor de cabeça.
+187	Why should I give you wheat, you'd sell it, and after that buy wine?	Para que eu vou te dar trigo, você vai vendê-lo e depois comprar vinho?
+188	What's the problem?	Qual é o problema?
+189	Your wheat is now worth thirty dinars?	O seu trigo agora vale trinta dinares?
+190	I now owe you thirty dinars.	Agora eu devo a você trinta dinares.
+191	"Your wheat is reckoned against me at thirty dinars."	"O seu trigo está registrado comigo por trinta dinares."
+192	There, you profited.	Pronto, você lucrou.
+193	"And for these thirty dinars I transfer wine to you."	"E por esses trinta dinares eu te transfiro vinho."
+194	Now, if the wine gets more expensive, you will also receive the wine at the higher price.	Agora, se o vinho encarecer mais, você receberá o vinho também pelo preço mais alto.
+195	In this way, it is called psika al hov, a price fixing on a debt.	Dessa forma, isso se chama psika al hov, a fixação de preço sobre uma dívida.
+196	What does that mean?	O que isso significa?
+197	After all, I haven't now given him money in hand.	Afinal, eu não dei a ele dinheiro na mão agora.
+198	Granted, at the beginning I gave him money in hand; now I haven't given him money in hand, now it's only a debt he owes me,	Está certo que no início dei a ele dinheiro na mão; agora não dei dinheiro na mão, agora é só uma dívida que ele me deve,
+199	that is a psika al hov.	isso é uma psika al hov.
+200	A psika al hov is permitted only if he has the wine in stock.	A psika al hov só é permitida se ele tem o vinho em estoque.
+201	If he has the wine in stock, it will be fine.	Se ele tem o vinho em estoque, estará certo.
+202	If he doesn't have the wine in stock, nothing helps.	Se ele não tem o vinho em estoque, nada ajuda.
+203	It doesn't help.	Não adianta.
+204	And that's what the Mishnah says here: "And you have wine with me," when he has no wine.	E é isso que a Mishná diz aqui: "E você tem comigo vinho", quando ele não tem vinho.
+205	So that is actually a rabbinic tarbit.	Então isso é, na verdade, uma tarbit de rabanan.
+206	Rabbeinu Ovadia of Bartenura says: this is how they were sold	Rabeinu Ovadia de Bartenura diz: assim eram vendidos
+207	in the city, and it was permitted for him to give money now in order to be given wheat all year at these prices, according to the amount of	na cidade, e era permitido a ele dar dinheiro agora para que lhe fosse dado trigo o ano todo por esses preços, conforme o valor de
+208	his money. And even though he has no wheat now, under the conditions in our chapter, if the price was set, they may fix it, even though	seu dinheiro. E mesmo que agora ele não tenha trigo, pelas condições do nosso capítulo, se o preço foi estabelecido, podem fixar, mesmo que
+209	he doesn't have it, this is regarding wheat, and this seller can buy it now with this money.	ele não tenha, isso é quanto ao trigo, e esse vendedor pode comprá-lo agora com esse dinheiro.
+210	"The wheat stood at thirty dinars. He said to him: give me my wheat" — and this is permitted if he gave him wheat.	"O trigo chegou a trinta dinares. Ele disse a ele: dê-me o meu trigo" — e isso é permitido se ele deu a ele trigo.
+211	But if he fixed to give him wine for it, it is forbidden.	Mas, se ele fixou dar a ele vinho por isso, é proibido.
+212	Perhaps the wine will get more expensive.	Talvez o vinho encareça.
+213	Since he has no wine.	Já que ele não tem vinho.
+214	And even though he fixes with him at the current price of wine, and the price was already set.	E mesmo que ele fixe com ele pelo preço atual do vinho, e o preço já tenha sido estabelecido.
+215	Pay attention, this is the novelty.	Prestem atenção, esta é a novidade.
+216	Since this is a psika al hov, the price being set now doesn't help,	Como isso é uma psika al hov, o preço já estabelecido agora não adianta,
+217	as it helped with the wheat.	como adiantou com o trigo.
+218	Since it's a psika al hov, he isn't giving him money in hand, he can't go now and buy.	Como é uma psika al hov, ele não dá a ele dinheiro na mão, não pode ir agora comprar.
+219	And even though he fixes with him at the current price of wine, and the price was already set,	E mesmo que ele fixe com ele pelo preço atual do vinho, e o preço já tenha sido estabelecido,
+220	since he isn't giving him money, such that we could say he can buy wine with the money he received,	como ele não dá dinheiro a ele, de modo que pudéssemos dizer que ele pode comprar vinho com o dinheiro que recebeu,
+221	rather he comes to make the price of the wheat a debt, and to fix wine on the debt,	mas vem fazer do preço do trigo uma dívida e fixar vinho sobre a dívida,
+222	it is forbidden if he has no wine.	é proibido se ele não tem vinho.
+223	For if he had wine, then he would have acquired it for him from now,	Pois, se ele tivesse vinho, teria adquirido para ele desde agora,
+224	for this one who comes to fix wine on a debt.	para este que vem fixar vinho sobre uma dívida.
+225	"And if it gets more expensive, it gets more expensive in my possession."	"E, se encarecer, encarece em minha posse."
+226	That is, if he had had wine, it would have been fine, since it would be considered his acquisition, and indeed it would be considered	Isto é, se ele tivesse vinho, estaria certo, pois seria considerado adquirido por ele, e de fato seria considerado
+227	that from here on it gets more expensive in his possession.	que, daqui em diante, encarece em posse dele.
+228	Okay?	Certo?
+229	Wonderful.	Maravilhoso.
+230	Mishnah 2. The Mishnah says: one who lends to his fellow may not live in his courtyard for free, nor rent from him for less.	Mishná 2. A Mishná diz: aquele que empresta a seu próximo não pode morar no pátio dele de graça, nem alugar dele por menos.
+231	Because it is ribit.	Porque é ribit.
+232	One may add on rent, but one may not add on a sale.	Pode-se acrescentar no aluguel, mas não se pode acrescentar na venda.
+233	How so?	Como assim?
+234	He rented him his courtyard and said to him: if you give me from now, it is yours	Ele alugou a ele o seu pátio e disse a ele: se você me pagar desde agora, é seu
+235	for ten selas a year.	por dez selas ao ano.
+236	And if month by month, a sela per month.	E, se mês a mês, uma sela por mês.
+237	It is permitted.	É permitido.
+238	He sold him his field and said to him: if you give me from now, it is yours for a thousand zuz.	Ele vendeu a ele o seu campo e disse a ele: se você me pagar desde agora, é seu por mil zuz.
+239	If at the threshing time, for twelve maneh, it is forbidden.	Se na época da eira, por doze manés, é proibido.
