@@ -5,8 +5,9 @@ name: Rebbe model — three ears + Claude curation (training data)
 # and the niggunim) → WhisperX German + WhisperX Hebrew (ivrit.ai) + Meta MMS (the three ears of the four-ears
 # test, without the translate ear that invented) → Claude curates (scripts/rebbe_curate.py). The artifact
 # ears-<chunk> keeps the original audio (clip-raw.opus, for training), the three ears and curated.json/.txt.
-# Nothing goes to Supabase and nothing is committed. A push runs the pilot: one chunk, the Leil 13 Nissan 5751
-# talk of video-batches/stt-test/rebbe/curated-sample.md.
+# Nothing goes to Supabase and nothing is committed. The pilot (only=pilot, run 40635335541) was one chunk, the
+# Leil 13 Nissan 5751 talk of video-batches/stt-test/rebbe/curated-sample.md: Opus curated ~80 lines of it, Sonnet
+# 48 with more slips, so the curation runs on Opus (rebbe-curate.yml runs 40648497879 / 40648496598).
 #
 #   gh workflow run rebbe-ears.yml --ref <branch> -f only=all      (or a regex on the file name, or pilot)
 
@@ -22,9 +23,6 @@ on:
       parallel:
         description: 'Chunks at the same time (the production pipeline shares the 20 job slots)'
         default: '5'
-  push:
-    branches: [claude/sweet-brahmagupta-4larfi]
-    paths: [.github/workflows/rebbe-ears.yml]
 
 permissions:
   contents: read
@@ -127,6 +125,7 @@ jobs:
       - name: Claude curates
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          CURATE_MODEL: opus
         run: python -u scripts/rebbe_curate.py --out out/ears
       - uses: actions/upload-artifact@v4
         if: always()
