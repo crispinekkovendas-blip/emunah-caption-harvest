@@ -2,7 +2,7 @@
  "name": "lane9-007",
  "lane": 9,
  "created": "2026-10-28T02:11:58.955Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "feAOxQ_EZBE",
@@ -84,7 +84,7 @@
  ],
  "tries": {
   "feAOxQ_EZBE": 3,
-  "xsuxCiPSAjI": 2,
+  "xsuxCiPSAjI": 3,
   "2Bb286JSFeI": 2
  },
  "done": [
@@ -93,6 +93,7 @@
   "2Bb286JSFeI"
  ],
  "skipped": [
-  "feAOxQ_EZBE"
+  "feAOxQ_EZBE",
+  "xsuxCiPSAjI"
  ]
 }
