@@ -1,7 +1,7 @@
 # lane6-005
 
-15 of 23 lessons published · 7 skipped · status **pending**
-Tokens (437 agent runs with a record, 2686 refused or without record): 3.4M in (mostly cache) · 3.85M out · API-equivalent 48.89
+15 of 23 lessons published · 8 skipped · status **done**
+Tokens (438 agent runs with a record, 2686 refused or without record): 3.4M in (mostly cache) · 3.85M out · API-equivalent 48.95
 
 | lesson | state | detail |
 |---|---|---|
@@ -27,4 +27,4 @@ Tokens (437 agent runs with a record, 2686 refused or without record): 3.4M in (
 | Ppr8VQGqjfE | ✓ published | 670 lines · A Vaca Vermelha, o Ari HaKadosh e o pecado de Moshe |
 | dgHMufnwTis | ✓ published | 759 lines · Medida por medida: Yocheved, Faraó e a escuridão |
 | f0b68bfxHl8 | ✓ published | 599 lines · Tikun do karet, Aharon e Moshe e a Semikhá |
-| xaUcs4KHQr4 | waiting | 8/9 parts |
+| xaUcs4KHQr4 | skipped after 3 tries | 190 lines missing |
