@@ -1,0 +1,45 @@
+{
+ "name": "lane4-020",
+ "lane": 4,
+ "created": "2026-10-28T14:14:07.311Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "fHp6xoddUgc",
+   "title": "Nekudat Emet: o eu, a vontade e a visão de vida",
+   "lines": 1195,
+   "parts": 10,
+   "from": "recente"
+  },
+  {
+   "id": "e5urC9nmmHk",
+   "title": "Pinot HaMerkavá: a oração final do mundo de Assiá",
+   "lines": 1266,
+   "parts": 11,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "fHp6xoddUgc.p0",
+  "fHp6xoddUgc.p1",
+  "fHp6xoddUgc.p2",
+  "fHp6xoddUgc.p3",
+  "fHp6xoddUgc.p4",
+  "fHp6xoddUgc.p5",
+  "fHp6xoddUgc.p6",
+  "fHp6xoddUgc.p7",
+  "fHp6xoddUgc.p8",
+  "fHp6xoddUgc.p9",
+  "e5urC9nmmHk.p0",
+  "e5urC9nmmHk.p1",
+  "e5urC9nmmHk.p2",
+  "e5urC9nmmHk.p3",
+  "e5urC9nmmHk.p4",
+  "e5urC9nmmHk.p5",
+  "e5urC9nmmHk.p6",
+  "e5urC9nmmHk.p7",
+  "e5urC9nmmHk.p8",
+  "e5urC9nmmHk.p9",
+  "e5urC9nmmHk.p10"
+ ]
+}
