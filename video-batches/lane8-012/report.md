@@ -1,15 +1,15 @@
 # lane8-012
 
 3 of 14 lessons published · 8 skipped · status **pending**
-Tokens (745 agent runs with a record): 3.8M in (mostly cache) · 2.14M out · API-equivalent 32.87
+Tokens (787 agent runs with a record): 4.1M in (mostly cache) · 2.26M out · API-equivalent 34.62
 
 | lesson | state | detail |
 |---|---|---|
 | l-sH9H2AzCw | ✓ published | 774 lines · Avraham Avinu: a pressa, o ego e a presença de HaShem |
-| PyYGb6g1zNA | skipped after 3 tries | 6 lines missing |
+| PyYGb6g1zNA | skipped | |
 | DauulwEIZ5I | ✓ published | 885 lines · O segredo da fala e a alma falante |
 | AjX-ySqvn6I | skipped | |
-| Kp0epiK5LTQ | ✗ will be redone (try 2) | 34 lines missing |
+| Kp0epiK5LTQ | waiting | 15/16 parts |
 | Ia_QIk-dUWk | skipped | |
 | oMA1QPCzExc | skipped | |
 | 3QtfHglis14 | skipped | |

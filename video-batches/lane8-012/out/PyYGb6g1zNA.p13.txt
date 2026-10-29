@@ -1,0 +1,40 @@
+520	When was Shlomo's Temple inaugurated?	Quando foi a inauguração do Templo de Shlomo?
+521	On what date in the year?	Em que data do ano?
+522	Do you remember?	Vocês se lembram?
+523	No.	Não.
+524	In Tishrei.	Em Tishrei.
+525	In Tishrei.	Em Tishrei.
+526	On which holiday?	Em qual festa?
+527	A week before Sukkot.	Uma semana antes de Sucot.
+528	And through Sukkot.	E durante Sucot.
+529	That is two weeks.	São duas semanas.
+530	On purpose.	De propósito.
+531	Which holiday do we have that is universal?	Qual festa nossa é universal?
+532	The one where bulls are offered, Sukkot.	Aquela em que se oferecem touros: Sucot.
+533	He doesn't do it on Pesach.	Ele não faz isso em Pessach.
+534	He doesn't do it on Pesach.	Ele não faz isso em Pessach.
+535	He does it on Sukkot.	Ele faz isso em Sucot.
+536	On purpose.	De propósito.
+537	That is the event.	Esse é o evento.
+538	Clear?	Ficou claro?
+539	Apparently so.	Pelo visto, sim.
+540	You see that there is...	Veja que há...
+541	Now, one more piece of data.	Agora, mais um dado.
+542	In building the Temple he used a great deal of	Na construção do Templo ele usou muita
+543	outside help.	ajuda de fora.
+544	70,000 porters, 80,000 quarriers in the mountain, who are not Jews.	70 mil carregadores, 80 mil cortadores de pedra na montanha, que não eram judeus.
+545	And also the chief engineer, what was	E também o engenheiro-chefe, qual era
+546	his name?	o nome dele?
+547	By the way...	Aliás...
+548	Let's read it, and Elokim gave — I'll read you the verse, at your question, Rabbi Yosef Chaim.	Vamos ler: "E Elokim deu" — vou ler o versículo para vocês, a pedido da sua pergunta, rabino Yosef Chaim.
+549	"And Elokim gave Shlomo wisdom and understanding exceedingly much, and largeness of heart like the sand on the seashore."	"E Elokim deu a Shlomo sabedoria e entendimento em grande medida, e largura de coração como a areia que está à beira do mar."
+550	"And Shlomo's wisdom excelled the wisdom of all the children of the east and all the wisdom of Egypt."	"E a sabedoria de Shlomo superou a sabedoria de todos os filhos do oriente e toda a sabedoria do Egito."
+551	"And he was wiser than all men."	"E foi mais sábio do que todos os homens."
+552	"He spoke three thousand proverbs, his songs were a thousand and five; he spoke of trees, from the cedar," and so on.	"Proferiu três mil provérbios, e seus cânticos foram mil e cinco; falou das árvores, desde o cedro", e assim por diante.
+553	"And they came from all the peoples to hear the wisdom of Shlomo, from all the kings of the earth who had heard of his wisdom."	"E vieram de todos os povos para ouvir a sabedoria de Shlomo, de todos os reis da terra que tinham ouvido falar da sua sabedoria."
+554	What did they come to hear?	O que eles vieram ouvir?
+555	Philosophy?	Filosofia?
+556	Did they come to hear that?	Vieram para ouvir isso?
+557	They came to hear the wisdom... and let's say, in the midst of	Vieram ouvir a sabedoria... e digamos que, no meio do
+558	the building process, whom does he take?	processo de construção, quem ele toma consigo?
+559	"And King Shlomo sent and took Chiram from Tzor."	"E o rei Shlomo mandou buscar Chiram de Tzor."
