@@ -1,0 +1,40 @@
+400	She was modest. Where is Sarah?	Ela era recatada. Onde está Sará?
+401	Here, in the tent!	Aqui, na tenda!
+402	There she is: "Where is Sarah your wife?"	Ali ela está: "Onde está Sará, tua mulher?"
+403	Why do you care, "Where is Sarah?"	O que vocês têm com isso, "Onde está Sará?"
+404	What business is it of yours?	Que interesse é esse?
+405	You enter someone's house and ask him, "Where is your wife?"	Você entra na casa de alguém e pergunta: "Onde está a sua esposa?"
+406	Ah, where is she?	Ah, onde ela está?
+407	What business is it of yours?	O que você tem com isso?
+408	What, is something going on with your wife?	Como assim, o que há com a sua esposa?
+409	What kind of modesty is that?	Que tipo de recato é esse?
+410	It's forbidden even to send regards to your wife.	É proibido até mandar cumprimentos à sua esposa.
+411	According to halachah, that is forbidden.	Segundo a halachá, isso é proibido.
+412	Even to say regards to your wife is forbidden.	Até mandar lembranças à sua esposa é proibido.
+413	Why? Because she will hear.	Por quê? Porque ela vai ouvir.
+414	"Oh, he sent me regards?"	"Ah, ele mandou lembranças para mim?"
+415	Of course: "He sent me regards."	Claro: "Ele mandou lembranças para mim."
+416	Next time she sees him: "Hi, Arik, how are you?"	Da próxima vez que ela o vir: "Oi, Arik, tudo bem?"
+417	What is this?	O que é isso?
+418	It breaks through the fences of modesty.	Isso rompe as barreiras do recato.
+419	That is why a man may not send regards to a woman.	Por isso um homem não pode mandar cumprimentos a uma mulher.
+420	So if that is so, is this a question?	Então, sendo assim, isso é uma pergunta?
+421	What are you asking him?	O que vocês estão perguntando a ele?
+422	"Where is Sarah your wife?"	"Onde está Sará, tua mulher?"
+423	What did they have to do with Arabs?	O que eles tinham a ver com árabes?
+424	Muhammad, Ahmad and Mahmoud, those three. He thought they were Arabs.	Maomé, Ahmad e Mahmoud, esses três. Ele pensou que eram árabes.
+425	They came to him, and he served them tongues in mustard.	Vieram até ele, e ele lhes serviu línguas em mostarda.
+426	He thought they were Arabs.	Pensou que eram árabes.
+427	So what do you ask him, "Where is Sarah your wife?"	Então o que vocês perguntam a ele, "Onde está Sará, tua mulher?"
+428	They didn't ask him; they asked where her mind was.	Eles não perguntaram a ele; perguntaram onde estava a cabeça dela.
+429	Where?	Onde?
+430	"Sarah your wife," where is she occupied?	"Sará, tua mulher," com o que ela se ocupa?
+431	At the mall?	No shopping?
+432	Where is she occupied?	Com o que ela se ocupa?
+433	At Mamilla?	Em Mamilla?
+434	Where is she occupied?	Com o que ela se ocupa?
+435	At the wig shop?	Na loja de perucas?
+436	Where is she occupied?	Com o que ela se ocupa?
+437	He told them: in the tent, that is where her mind is.	Ele lhes disse: na tenda, é lá que está a cabeça dela.
+438	On the children, she prays for children.	Nos filhos, ela reza por filhos.
+439	There, in the tent of Torah, that is where she is.	Ali, na tenda da Torá, é lá que ela está.
