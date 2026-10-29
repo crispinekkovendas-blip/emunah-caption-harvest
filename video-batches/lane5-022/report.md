@@ -1,7 +1,7 @@
 # lane5-022
 
-1 of 9 lessons published · 6 skipped · status **pending**
-Tokens (620 agent runs with a record): 3.3M in (mostly cache) · 1.80M out · API-equivalent 27.34
+1 of 9 lessons published · 7 skipped · status **pending**
+Tokens (622 agent runs with a record): 3.4M in (mostly cache) · 1.80M out · API-equivalent 27.38
 
 | lesson | state | detail |
 |---|---|---|
@@ -12,5 +12,5 @@ Tokens (620 agent runs with a record): 3.3M in (mostly cache) · 1.80M out · AP
 | srpTG249JMw | skipped | |
 | UtQGs_NBBkA | ✓ published | 813 lines · O segredo do Ketoret e como compô-lo |
 | 1S_rB8DpPeA | skipped | |
-| Sy29d_OVlaQ | waiting | 20/21 parts |
+| Sy29d_OVlaQ | skipped after 3 tries | 13 lines missing |
 | RpIU6tslFF8 | skipped | |
