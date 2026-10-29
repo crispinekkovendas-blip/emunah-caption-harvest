@@ -1,7 +1,7 @@
 # lane8-012
 
 3 of 14 lessons published · 10 skipped · status **pending**
-Tokens (856 agent runs with a record): 4.4M in (mostly cache) · 2.41M out · API-equivalent 36.64
+Tokens (892 agent runs with a record): 4.6M in (mostly cache) · 2.48M out · API-equivalent 37.38
 
 | lesson | state | detail |
 |---|---|---|
@@ -17,5 +17,5 @@ Tokens (856 agent runs with a record): 4.4M in (mostly cache) · 2.41M out · AP
 | MHqDkQCQqpM | skipped | |
 | PogvsHUb7Tw | skipped | |
 | 3xqYecSPjaw | ✓ published | 579 lines · A maldição do sábio e o nome de Moshê ausente de Tetzavê |
-| T29WNCBs5e8 | skipped after 3 tries | 50 lines missing |
+| T29WNCBs5e8 | skipped | |
 | L209dTca5_c | waiting | 27/28 parts |
