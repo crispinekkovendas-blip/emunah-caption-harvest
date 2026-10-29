@@ -70,6 +70,16 @@ def norm(t):
     return re.sub(r'\s+', ' ', t).strip()
 
 
+SOUND = str.maketrans({'ת': 'ט', 'ח': 'כ', 'ש': 'ס', 'ך': 'כ', 'ם': 'מ', 'ן': 'נ', 'ף': 'פ', 'ץ': 'צ'})
+
+
+def sound(t):
+    """by sound: the test texts spell loshon-kodesh words as pronounced (טוירע), the model as written (תורה);
+    without vowel letters and with ת/ט ח/כ ש/ס folded, the two meet"""
+    t = norm(t).translate(SOUND)
+    return re.sub(r'\s+', ' ', re.sub(r'[אעויה]', '', t)).strip()
+
+
 def transcribe(m, items, bs=8):
     m.eval()
     hyps = []
@@ -91,8 +101,10 @@ def score(m, items, name):
     pairs = [(r, norm(h)) for r, h in zip(refs, hyps) if r]
     cer = jiwer.cer([p[0] for p in pairs], [p[1] for p in pairs])
     wer = jiwer.wer([p[0] for p in pairs], [p[1] for p in pairs])
-    print(f'{name}: CER {cer:.3f} · WER {wer:.3f} ({len(pairs)} clips)')
-    return {'cer': round(cer, 4), 'wer': round(wer, 4), 'clips': len(pairs), 'hyps': hyps}
+    snd = [(sound(r['text']), sound(h)) for r, h in zip(items, hyps) if sound(r['text'])]
+    scer = jiwer.cer([p[0] for p in snd], [p[1] or '-' for p in snd])
+    print(f'{name}: CER {cer:.3f} · WER {wer:.3f} · CER by sound {scer:.3f} ({len(pairs)} clips)')
+    return {'cer': round(cer, 4), 'wer': round(wer, 4), 'sound_cer': round(scer, 4), 'clips': len(pairs), 'hyps': hyps}
 
 
 metrics = {'base': BASE, 'train_examples': len(train), 'epochs': EPOCHS, 'lr': LR}

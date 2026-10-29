@@ -5,7 +5,7 @@ and model stay private). Input: the ears-<chunk> artifacts of rebbe-ears.yml, on
 the original audio, curated.json = Claude's lines). Only ✓ lines and lines the Hebrew ear verified (rebbe_curate.check) are used; neighbours closer than 1 s join into
 one example of at most 25 s (Whisper hears 30 s). Whole chunks go to dev (1 in 9 by a hash of the name: 5 of the 52 chunks) so nothing of a
 dev chunk is trained on. The test set is the "Lubavitcher Rebbe Lexicon" on archive.org: 40 clips of the Rebbe
-(1981) whose file names are his words verbatim, romanized — Claude writes them once in Yiddish letters; they are
+(1981) whose file names are his words verbatim, romanized — written in Yiddish letters by rule (yivo); they are
 never trained on.
 
     python scripts/rebbe_dataset.py --ears out/ears-all --out out/dataset [--no-test]
@@ -82,8 +82,46 @@ def build(ears, out):
     return stats
 
 
+# YIVO romanization → Yiddish letters, by rule (run 40795488436: Claude's conversion of these clips was cut off by
+# a classifier, so no model is in this step). Loshon-kodesh words come out spelled as pronounced (emune → עמונע,
+# not אמונה); train.py scores the test set also by sound (vowel letters dropped, ת/ט ח/כ ש/ס folded) for that.
+YIVO = [('dzh', 'דזש'), ('tsh', 'טש'), ('zh', 'זש'), ('sh', 'ש'), ('kh', 'כ'), ('ts', 'צ'), ('ey', 'יי'),
+        ('ay', 'ײַ'), ('oy', 'וי'), ('a', 'אַ'), ('o', 'אָ'), ('e', 'ע'), ('i', 'י'), ('u', 'ו'), ('b', 'ב'),
+        ('g', 'ג'), ('d', 'ד'), ('h', 'ה'), ('v', 'וו'), ('w', 'וו'), ('z', 'ז'), ('t', 'ט'), ('y', 'י'), ('k', 'ק'),
+        ('q', 'ק'), ('l', 'ל'), ('m', 'מ'), ('n', 'נ'), ('s', 'ס'), ('p', 'פּ'), ('f', 'פֿ'), ('r', 'ר'),
+        ('x', 'קס'), ('j', 'י'), ('c', 'ק')]
+FINAL = {'כ': 'ך', 'מ': 'ם', 'נ': 'ן', 'צ': 'ץ', 'פֿ': 'ף'}
+
+
+def yivo_word(w):
+    out, k = [], 0
+    while k < len(w):
+        for rom, heb in YIVO:
+            if w.startswith(rom, k):
+                # a word that starts with u, i, ey, ay, oy takes a silent alef (און, איז, אייבערשטן, אויף)
+                if k == 0 and rom in ('u', 'i', 'ey', 'ay', 'oy'):
+                    heb = 'א' + heb
+                out.append(heb)
+                k += len(rom)
+                break
+        else:
+            k += 1  # digits / stray marks: dropped
+    if out and out[-1] in FINAL:
+        out[-1] = FINAL[out[-1]]
+    return ''.join(out)
+
+
+def yivo(roman):
+    words = []
+    for w in re.split(r"[\s\-]+", roman.lower()):
+        parts = [yivo_word(p) for p in w.split("'") if p]
+        if parts:
+            words.append("'".join(parts))
+    return ' '.join(words)
+
+
 def lexicon(out):
-    """the test set: the Lexicon clips; their romanized names → Yiddish letters by Claude (once, in one request)"""
+    """the test set: the Lexicon clips; their romanized names → Yiddish letters by rule (yivo)"""
     meta = json.load(urllib.request.urlopen(f'https://archive.org/metadata/{LEXICON}', timeout=60))
     clips = [f for f in meta.get('files', []) if f.get('name', '').lower().endswith(MEDIA)
              and f.get('source') == 'original']
@@ -94,28 +132,9 @@ def lexicon(out):
         roman = re.sub(r'^.*?1981\s*-\s*', '', os.path.splitext(f['name'])[0]).strip()
         if roman:
             rows.append((f['name'], roman))
-    numbered = '\n'.join(f'{i + 1}\t{r}' for i, (_, r) in enumerate(rows))
-    ask = ('These are verbatim transcripts of the Lubavitcher Rebbe speaking Yiddish, in YIVO-style romanization '
-           '(loshon-kodesh words romanized as pronounced: "emune", "toyre", "mitsves", "hahanhoge"). Write each in '
-           'Yiddish in Hebrew letters, standard Chabad spelling as in Sefer HaSichos: Germanic words with אַ אָ וו יי '
-           '(אַז, וואָס, גלייבט), loshon-kodesh words in their Hebrew spelling (אמונה, תורה, מצוות, ההנהגה). English '
-           'words he used stay as he said them, in Yiddish letters (טראַסט). Same words, same order, nothing added. '
-           'Reply with ONLY lines: number<TAB>Yiddish.')
-    r = subprocess.run(['claude', '-p', ask, '--tools', '', '--model', 'sonnet', '--output-format', 'json'],
-                       input=numbered, capture_output=True, text=True, timeout=1800)
-    yid = {}
-    try:
-        reply = str(json.loads(r.stdout).get('result') or '')
-    except json.JSONDecodeError:
-        reply = ''
-        print(f'Claude did not answer for the test set: {(r.stderr or r.stdout)[:300]}')
-    # run 40791837255 matched none of the lines with a tab only: number, then a tab / dot / bracket / spaces
-    for l in reply.splitlines():
-        m = re.match(r'^\s*(\d+)\s*[\t.):|\-]?\s*(.*[\u05D0-\u05EA].*?)\s*$', l)
-        if m:
-            yid[int(m.group(1))] = m.group(2).strip()
-    if reply and not yid:
-        print('Claude answered, but no line could be read:\n' + reply[:1500])
+    yid = {i + 1: yivo(roman) for i, (_, roman) in enumerate(rows)}
+    for i in list(yid)[:3]:
+        print(f'  {rows[i - 1][1]}\n  → {yid[i]}')
     n = 0
     with open(os.path.join(out, 'test', 'metadata.jsonl'), 'w', encoding='utf8') as m:
         for i, (name, roman) in enumerate(rows):
