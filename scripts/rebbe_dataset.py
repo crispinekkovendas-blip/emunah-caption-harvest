@@ -3,7 +3,7 @@
 2026-10-28 (the owner: "Go ahead, let's train this"; Kaggle, for the project's own use only — the Kaggle dataset
 and model stay private). Input: the ears-<chunk> artifacts of rebbe-ears.yml, one folder each (clip-raw.opus =
 the original audio, curated.json = Claude's lines). Only ✓ lines and lines the Hebrew ear verified (rebbe_curate.check) are used; neighbours closer than 1 s join into
-one example of at most 25 s (Whisper hears 30 s). Whole chunks go to dev (every 10th by name) so nothing of a
+one example of at most 25 s (Whisper hears 30 s). Whole chunks go to dev (1 in 9 by a hash of the name: 5 of the 52 chunks) so nothing of a
 dev chunk is trained on. The test set is the "Lubavitcher Rebbe Lexicon" on archive.org: 40 clips of the Rebbe
 (1981) whose file names are his words verbatim, romanized — Claude writes them once in Yiddish letters; they are
 never trained on.
@@ -50,7 +50,7 @@ def cut(src, start, end, dst):
 
 
 def is_dev(chunk_id):
-    return int(hashlib.sha1(chunk_id.encode()).hexdigest(), 16) % 10 == 0
+    return int(hashlib.sha1(chunk_id.encode()).hexdigest(), 16) % 9 == 0
 
 
 def build(ears, out):
@@ -105,12 +105,17 @@ def lexicon(out):
                        input=numbered, capture_output=True, text=True, timeout=1800)
     yid = {}
     try:
-        for l in str(json.loads(r.stdout).get('result') or '').splitlines():
-            m = re.match(r'^\s*(\d+)\t(.+?)\s*$', l)
-            if m:
-                yid[int(m.group(1))] = m.group(2)
+        reply = str(json.loads(r.stdout).get('result') or '')
     except json.JSONDecodeError:
+        reply = ''
         print(f'Claude did not answer for the test set: {(r.stderr or r.stdout)[:300]}')
+    # run 40791837255 matched none of the lines with a tab only: number, then a tab / dot / bracket / spaces
+    for l in reply.splitlines():
+        m = re.match(r'^\s*(\d+)\s*[\t.):|\-]?\s*(.*[\u05D0-\u05EA].*?)\s*$', l)
+        if m:
+            yid[int(m.group(1))] = m.group(2).strip()
+    if reply and not yid:
+        print('Claude answered, but no line could be read:\n' + reply[:1500])
     n = 0
     with open(os.path.join(out, 'test', 'metadata.jsonl'), 'w', encoding='utf8') as m:
         for i, (name, roman) in enumerate(rows):
