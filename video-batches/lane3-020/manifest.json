@@ -2,7 +2,7 @@
  "name": "lane3-020",
  "lane": 3,
  "created": "2026-10-29T05:31:59.254Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "iRFlMPb7TOY",
@@ -140,12 +140,13 @@
   "Tsz2umCH0LA": 3,
   "1T7kADdlvFQ": 3,
   "iRFlMPb7TOY": 3,
-  "MEFlfizsyp8": 2
+  "MEFlfizsyp8": 3
  },
  "done": [],
  "skipped": [
   "Tsz2umCH0LA",
   "1T7kADdlvFQ",
-  "iRFlMPb7TOY"
+  "iRFlMPb7TOY",
+  "MEFlfizsyp8"
  ]
 }
