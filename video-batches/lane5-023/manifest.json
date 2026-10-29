@@ -1,0 +1,38 @@
+{
+ "name": "lane5-023",
+ "lane": 5,
+ "created": "2026-10-29T02:52:56.206Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "qZDTKZbeliA",
+   "title": "Ardá-na veEre'e: a ciência de HaShem é \"gálui vaiadua",
+   "lines": 330,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "-uyp1t82phI",
+   "title": "Lech Lecha sexta-feira: Avraham, a aliança e a brit milá",
+   "lines": 1320,
+   "parts": 11,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "qZDTKZbeliA.p0",
+  "qZDTKZbeliA.p1",
+  "qZDTKZbeliA.p2",
+  "-uyp1t82phI.p0",
+  "-uyp1t82phI.p1",
+  "-uyp1t82phI.p2",
+  "-uyp1t82phI.p3",
+  "-uyp1t82phI.p4",
+  "-uyp1t82phI.p5",
+  "-uyp1t82phI.p6",
+  "-uyp1t82phI.p7",
+  "-uyp1t82phI.p8",
+  "-uyp1t82phI.p9",
+  "-uyp1t82phI.p10"
+ ]
+}
