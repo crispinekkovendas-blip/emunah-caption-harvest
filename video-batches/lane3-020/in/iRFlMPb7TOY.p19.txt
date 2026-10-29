@@ -1,0 +1,64 @@
+videoId: iRFlMPb7TOY
+parte 20 de 25 · traduzir as linhas 760 a 799 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Tikun HaDaat e a ligação com o Tzadik (Likutei Moharan, Torá 4)
+RESUMO: O rabino continua a Torá 4 do Likutei Moharan, que trata do tikun HaDaat: antes do pecado Adam e Chavá viam a luz de HaShem em tudo (Bereshit 2:16-17), e depois do pecado perdeu-se essa visão e a certeza de que tudo é para o bem. Ele cita o Noda BiYehuda sobre a bênção "HaTov VeHaMetiv" e a gematria de elevar a malchut à santidade, que significa tirar a fé das forças alheias e sentir a presença de HaShem. A conselho de Rabênu é o vidui devarim diante de um talmid chacham (Rambam, Hilchot Teshuvá; Rabi Itzchak Breiter): hoje isso se cumpre no tziyun do Rabênu, no hitbodedut e, no fundo, na ligação com o Tzadik, que sofre por nós (Pesikta DeRav Kahana sobre o Mashiach). Também fala da dúvida sobre o Tzadik, do caminho segundo a raiz da alma (Rav Chaim Vital e o Maguid Mishné) e, por fim, de "e suas iniquidades estarão sobre seus ossos" (Yechezkel 32:27): os pecados chegam à yechidá, e Menashê diz a Rav Ashi (Sanhedrin) que ele correria atrás da idolatria.
+MOMENTOS: 00:20 Tikun HaDaat como o objetivo central · 01:07 Antes do pecado: ver a luz de HaShem em tudo · 03:13 A pomba de Noach e o Shabat (Migdal Oz) · 06:49 Noda BiYehuda: HaTov VeHaMetiv · 08:06 Elevar a malchut à santidade · 16:57 A conselho: vidui devarim diante de um talmid chacham · 18:24 Rambam e Rabi Itzchak Breiter sobre a confissão · 21:36 Como cumprir hoje: tziyun, hitbodedut, ligação · 25:17 O Tzadik nos acompanha; Rabênu Arizal · 30:19 Pesikta: o sofrimento do Mashiach · 33:46 Lot, Avraham e as dúvidas sobre o Tzadik · 41:46 O Tzadik abre caminho segundo a raiz da alma · 54:12 Iniquidades gravadas nos ossos; Menashê e Rav Ashi
+FONTES CITADAS: 01:00 Bereshit 2:16-17 · 02:29 Midrash ou Yerushalmi sobre a figueira em Shabat · 03:17 Migdal Oz sobre Bereshit 8:11 · 03:22 Bereshit 8:11 · 06:49 Pesachim (Noda BiYehuda, Tzelach) · 07:44 Rav Tzvi Elimelech, Peri HaAretz · 09:46 Shirei Zimrá, HaBocher · 17:02 Likutei Moharan I, 4 · 17:17 Hoshea 14:3 · 17:43 Devarim 4:39 · 18:24 Rambam, Hilchot Teshuvá 1:1 · 18:57 Rabi Itzchak Breiter · 25:30 Makot 10b · 25:54 Arizal, alma de tzadik que ajuda · 26:26 Ramchal · 30:24 Pesikta DeRav Kahana; Yalkut Shimoni Yeshayahu 60 · 32:04 Shaar HaGilgulim (Arizal a Rav Chaim Vital) · 33:46 Bereshit 13:9 · 37:42 Ensinamento do Rav sobre cobras e escorpiões no poço de Yosef · 38:00 Likutei Moharan (Likutei Moed) · 38:43 Sefer Arvei Nachal · 42:24 Baal HaSulam (Sefer HaDaat) · 43:35 Shaar HaGilgulim · 45:47 Rabênu Nachman, Rosh Hashaná · 54:16 Likutei Moharan I, 4 · 54:22 Yechezkel 32:27 · 56:35 Arizal, estrutura do corpo · 1:00:33 Sanhedrin 102b · 1:00:18 Mishtam Eliyahu (Rav Dessler)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+748|48:34|כנסת, ‫או מארחים אותו, ‫והוא רק הולך ומחזק אנשים.
+749|48:39|‫הוא לא נופל בדעתו, ‫יש לו איזה מין שמחה כזאת, ‫כוח כזה, לא נופל בדעתו, ‫והוא
+750|48:45|הולך ומחזק אנשים אחרים.
+751|48:47|‫הוא אומר, זה היה בערך לפני שמונה שנים.
+752|48:50|‫חצי שנה לפני זה, ‫היהודי הזה בא וסיפר לרב שלו, ‫ועכשיו הרב שלו מספר לי את
+753|48:56|הסיפור הזה.
+754|48:56|‫הוא אומר, הוא חולם חלום, ‫והוא רואה בחלום אישה מאוד
+755|49:02|מכובדת, ‫מאוד חשובה, גם מאוד קדושה, ‫באה ושואלת אותו בחלום, ‫אתה
+756|49:08|מכיר אותי?
+757|49:09|‫אז הוא אומר לה, לא, לא מכיר אותה.
+758|49:11|‫אז הוא אמר לו, אני אגיד לך מי אני, ‫אני אשתך מהגלגול הקודם.
+759|49:16|‫ככה הוא אמר לו.
+
+LINHAS A TRADUZIR:
+760|49:16|‫אני שלך מהגלגול הקודם.
+761|49:18|‫ואתה היית ראש ישיבה, ‫וכל החיים שלך זה היה לימוד התורה.
+762|49:26|‫אבל נשארתי הרבה הרבה ‫הרבה לבד בבית, ‫הייתי בצער מאוד גדול,
+763|49:31|‫וגם לא דאגת בכלל ‫לפרנסה של הבית ‫מרוב אהבת הלימוד, ‫אבל אני נשארתי בעניות מאוד גדולה.
+764|49:37|‫אתה באת עכשיו בגלגול הזה ‫לתקן את הצער שלי.
+765|49:41|‫זה פשוט, ‫גם הרב שלו וגם אני אמרנו לו...
+766|49:45|‫אמרתי לרב שיגיד לו, ‫פשוט זה חלום אמיתי.
+767|49:48|‫לא שאנחנו לא יודעים ‫לחתום על זה בוודאות, ‫אבל בטוח זה חלום אמיתי, הדבר
+768|49:54|הזה.
+769|49:55|‫עכשיו, נשים לב בסיפור הזה ‫כמה פרטים.
+770|49:59|‫קודם כול, הוא לבוש בכסי ג'ינס, ‫חולצת טריקו, ‫מאוד נעים הליכות, ‫אבל ככה הוא מסתובב,
+771|50:05|‫והוא מחזק יהודים.
+772|50:06|‫אז קודם כול, מי הוא בכלל?
+773|50:07|‫בעצם הוא ראש ישיבה.
+774|50:10|‫-ואו.
+775|50:11|‫הוא בכלל היה זה, ‫זאת אומרת, מסתובב ‫באזור תל אביב והסביבה.
+776|50:15|מסתובב יהודי עם ג'ינס, באמת הוא ראש ישיבה, אז למה הוא מסתובב כך?
+777|50:20|כי הוא בא לתקן את התיקון הפרטי הזה של הצער של אשתו.
+778|50:24|לכן הוא צריך להסתובב עכשיו כך וכך זמן בבחינה הזאת.
+779|50:31|ועד כמה האדם צריך על כל דבר ודבר שמזמנים לו משמיים להתפלל
+780|50:37|אם לדחות את זה או לא לדחות את זה.
+781|50:40|כי אולי זה גוף התיקון שלך, רק ברגע שאדם מקושר עם הצדיק, הצדיק
+782|50:46|נותן דעת וכוח לא לדחות את מה שאנחנו צריכים לעבור.
+783|50:50|ואף אחד אין לו שום שכל והבנה, אלא אם כן זה צדיק בעל רוח הקודש, שרואה
+784|50:57|את תיקוני הנשמות.
+785|50:58|בפשטות מי יודע כאלה דברים?
+786|51:00|אנחנו יודעים, בשאר הגלגולים רואים אין ספור סיפורים כאלה שרבנו
+787|51:06|ארי גילה לרבנו חיים ויטל.
+788|51:09|כל אחד למה הוא עבר, מה זה קשור לגלגול.
+789|51:12|הקודם וכן הלאה, זה השגה ושכל שאי אפשר להבין את זה, אלא אם כן, הקדוש ברוך הוא נותן את
+790|51:17|הבחינת רוח הקודש להבין את כל הדברים האלה.
+791|51:20|אז זה, זה מהלג, זה מה שרבינו אומר, כשאדם עושה בידוי דברים
+792|51:26|נפני תמיד חכם, מפלס לו דרך לפי שורש נשמתו, פירוש הדבר שמתחילים להנהיג
+793|51:32|אותו בהנהגה הפרטית והמיוחדת שלו.
+794|51:36|לכן, הרבה פעמים כשאדם מתקרב לצדיק, הרבה דברים בחיים שלו יתחילו להשתנות.
+795|51:41|‫יתן לו להשתנות.
+796|51:42|למה?
+797|51:42|‫כי הצדיק מוליך אותו כבר ‫לעבור את מה שהוא צריך.
+798|51:46|‫ובאמת, בהסתכלות אמיתית, ‫הסתכלות של עין אמיתית, ‫כל דבר שאדם עושה דבר טוב
+799|51:52|‫בעולם הזה זה טוב, ‫אבל זה מאוד תפל ‫לעומת

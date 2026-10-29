@@ -1,0 +1,64 @@
+videoId: iRFlMPb7TOY
+parte 22 de 25 · traduzir as linhas 840 a 879 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Tikun HaDaat e a ligação com o Tzadik (Likutei Moharan, Torá 4)
+RESUMO: O rabino continua a Torá 4 do Likutei Moharan, que trata do tikun HaDaat: antes do pecado Adam e Chavá viam a luz de HaShem em tudo (Bereshit 2:16-17), e depois do pecado perdeu-se essa visão e a certeza de que tudo é para o bem. Ele cita o Noda BiYehuda sobre a bênção "HaTov VeHaMetiv" e a gematria de elevar a malchut à santidade, que significa tirar a fé das forças alheias e sentir a presença de HaShem. A conselho de Rabênu é o vidui devarim diante de um talmid chacham (Rambam, Hilchot Teshuvá; Rabi Itzchak Breiter): hoje isso se cumpre no tziyun do Rabênu, no hitbodedut e, no fundo, na ligação com o Tzadik, que sofre por nós (Pesikta DeRav Kahana sobre o Mashiach). Também fala da dúvida sobre o Tzadik, do caminho segundo a raiz da alma (Rav Chaim Vital e o Maguid Mishné) e, por fim, de "e suas iniquidades estarão sobre seus ossos" (Yechezkel 32:27): os pecados chegam à yechidá, e Menashê diz a Rav Ashi (Sanhedrin) que ele correria atrás da idolatria.
+MOMENTOS: 00:20 Tikun HaDaat como o objetivo central · 01:07 Antes do pecado: ver a luz de HaShem em tudo · 03:13 A pomba de Noach e o Shabat (Migdal Oz) · 06:49 Noda BiYehuda: HaTov VeHaMetiv · 08:06 Elevar a malchut à santidade · 16:57 A conselho: vidui devarim diante de um talmid chacham · 18:24 Rambam e Rabi Itzchak Breiter sobre a confissão · 21:36 Como cumprir hoje: tziyun, hitbodedut, ligação · 25:17 O Tzadik nos acompanha; Rabênu Arizal · 30:19 Pesikta: o sofrimento do Mashiach · 33:46 Lot, Avraham e as dúvidas sobre o Tzadik · 41:46 O Tzadik abre caminho segundo a raiz da alma · 54:12 Iniquidades gravadas nos ossos; Menashê e Rav Ashi
+FONTES CITADAS: 01:00 Bereshit 2:16-17 · 02:29 Midrash ou Yerushalmi sobre a figueira em Shabat · 03:17 Migdal Oz sobre Bereshit 8:11 · 03:22 Bereshit 8:11 · 06:49 Pesachim (Noda BiYehuda, Tzelach) · 07:44 Rav Tzvi Elimelech, Peri HaAretz · 09:46 Shirei Zimrá, HaBocher · 17:02 Likutei Moharan I, 4 · 17:17 Hoshea 14:3 · 17:43 Devarim 4:39 · 18:24 Rambam, Hilchot Teshuvá 1:1 · 18:57 Rabi Itzchak Breiter · 25:30 Makot 10b · 25:54 Arizal, alma de tzadik que ajuda · 26:26 Ramchal · 30:24 Pesikta DeRav Kahana; Yalkut Shimoni Yeshayahu 60 · 32:04 Shaar HaGilgulim (Arizal a Rav Chaim Vital) · 33:46 Bereshit 13:9 · 37:42 Ensinamento do Rav sobre cobras e escorpiões no poço de Yosef · 38:00 Likutei Moharan (Likutei Moed) · 38:43 Sefer Arvei Nachal · 42:24 Baal HaSulam (Sefer HaDaat) · 43:35 Shaar HaGilgulim · 45:47 Rabênu Nachman, Rosh Hashaná · 54:16 Likutei Moharan I, 4 · 54:22 Yechezkel 32:27 · 56:35 Arizal, estrutura do corpo · 1:00:33 Sanhedrin 102b · 1:00:18 Mishtam Eliyahu (Rav Dessler)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|53:43|ודעת לעבור את זה.
+829|53:45|כי אחרת, בדרך כלל, בדרך כלל, מה שאדם צריך לעבור בעולם הזה,
+830|53:51|הוא הכי מקפיד עליו והכי מורד בו, מטבענו.
+831|53:56|כי זה הכי מציק לנו.
+832|53:58|מה שאנחנו צריכים לעבור זה הכי מציק לנו, הדבר הזה.
+833|54:03|כי שם האדם בעצם מתקן.
+834|54:06|‫על זה מה שרבינו אומר, ‫זה הווידוי דברים ‫לפני תלמיד חכם.
+835|54:12|‫נראה, נתחיל לראות ‫עוד נקודה קטנה ובעזרת השם נמשיך.
+836|54:16|‫רבינו בהמשך אומר, ‫ועוונותיו של האדם ‫הם על עצמותיו, ‫כמו שכתוב בספר יחזקאל,
+837|54:22|‫והתהי עוונותם חקוקה על עצמותם.
+838|54:25|‫וכל עבירה יש לה צירוף אותיות.
+839|54:27|‫וכשעבר איזו עבירה, ‫אזי נכרח צירוף הרע על עצמותיו.
+
+LINHAS A TRADUZIR:
+840|54:31|‫ועל ידי זה מכניס ‫בחינת הדיבור אל הלאו הזה.
+841|54:34|‫והרבנו ממשיך.
+842|54:37|‫נקודה אחת, להתבונן בה, ‫שמה שרבנו אומר, ‫העוונות חקוקים על
+843|54:42|העצמות.
+844|54:43|‫הוא אומר גם, הוא גם הביא את הפסוק, ‫ותהי עוונותם חקוקה על עצמותם.
+845|54:49|‫מה הכוונה, מה העניין ‫שהעוונות חקוקים על
+846|54:54|העצמות?
+847|54:56|‫הרי בוודאי שיש לזה ‫משמעות רוחנית לדבר הזה,
+848|55:01|‫שהעוונות חקוקים על העצמות.
+849|55:03|מה המשמעות הרוחנית של הבנתם?
+850|55:05|אני אמרתי שיבואו מלאכי הדין אחרי שהוא נפטר
+851|55:11|וירדו עליו ידים.
+852|55:13|לגוד או לא?
+853|55:14|אנחנו בגוף, לפעמים יודעים לזוהר לפי האור, לפי הספקותי פנים, לפי דברים
+854|55:20|אחרים, אבל אחרי הפתירה של האדם, שהגוף נרקם,
+855|55:25|אז העבודות שחקוקים עליו ‫על העצמות לבואו מלאכי עדין ולהתראה.
+856|55:31|‫יפה, נכון, אתה צודק, ‫זה מבחינת, אתה צודק, ‫זה מבחינת מה שיהיה לעתיד לבוא.
+857|55:36|‫יותר התכווננו, מה זה אומר לנו ‫הלכה למעשה עכשיו?
+858|55:40|‫כי אחרי הכול אנחנו רוצים לתקן את זה.
+859|55:42|‫במדינת רבנו אומר פה סדר של תיקון, ‫אבל לפני שנראה מה בדיוק התיקון,
+860|55:49|‫מה זה בכלל עכשיו, מה זה המציאות, ‫עוונתם חקוקה על עצמותם.
+861|55:54|‫ידוע מרבנו, הארי, שכתוב שגוף האדם, כמו
+862|55:59|שהוא בנוי באורך, הוא גם נקרא בנוי בעובי.
+863|56:02|כמו שאנחנו רואים, יש איברים פנימיים, יש איברים חיצוניים.
+864|56:06|והאיבר הפנימי ביותר זה העצמות ומח העצמות, המוח
+865|56:12|שיש בתוך העצם.
+866|56:14|העצם נקראת האיבר הפנימי יותר, אז זה בשר, גידים ואור.
+867|56:20|זה מח עצמות, עצמות, בשר, גידים ואור.
+868|56:23|אפשר מיד אחרי זה.
+869|56:25|‫אחרי השיעור.
+870|56:26|‫-אחרי השיעור, אוקיי, ‫הוא מצלם את זה בגלל זה.
+871|56:28|‫מייד איזה.
+872|56:29|‫עכשיו, העצמות זה למעשה, ‫מבחינת מבנה הגוף,
+873|56:35|‫זה החלק הפנימי ביותר של האדם.
+874|56:39|‫וזה, רבן נהרי כותב, ‫כמו שיש גם כנגד חמישה חלקים,
+875|56:46|‫זה חמישה חלקים בגוף, ‫כנגד חמישה חלקים בנשמה, ‫נפש, רוח, נשמה, חיה, יחידה,
+876|56:51|‫והעצמות הן כנגד היחידה.
+877|56:53|‫זאת אומרת, זה החלק הפנימי.
+878|56:56|מה שרבנו מביא פה, כמו שאמרנו, זה פסוק ביחזקאל.
+879|57:01|מה שכתוב זה, בתי עוונותם חקוקה על העצמות.

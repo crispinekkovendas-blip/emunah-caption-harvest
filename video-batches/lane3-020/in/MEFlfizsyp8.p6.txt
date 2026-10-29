@@ -1,0 +1,64 @@
+videoId: MEFlfizsyp8
+parte 7 de 16 · traduzir as linhas 240 a 279 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zohar: sofrimento como expiação e o poder dos justos
+RESUMO: O rabino parte do Zohar, em que a alma do justo defende os pecadores diante de HaShem, e ensina que o sofrimento e a vergonha podem servir de expiação, como mostra a história de sua multa de trânsito. Explica a defesa dos "trinta" justos: os 32 caminhos de sabedoria, ligados às 32 tsitsiot (fios das franjas) e aos 32 dentes, e dos "vinte", que são os Dez Mandamentos de manhã e à noite, mérito de quem manda os filhos estudar Torá. Em seguida trata dos "dez" primeiros na sinagoga, comparando-os, segundo o Kaf HaChaim, com ir à sinagoga de talit e tefilin, acompanhado por quatro anjos (Zohar Chadash, Parashat Terumá). Cita o Zohar Chadash e o Rav Pereira sobre ler Bereshit até "yom echad" após os tefilin, o que vale como ter estudado toda a Torá. Ensina, com Rabi Shimon bar Yochai (Berachot e Sanhedrin), que a Torá deve ser estudada o dia todo, e conta histórias do Steipler, do Rav Shach e de Rabi Avraham Berman. Conclui com a Guemará (Meguilá 16b): estudar Torá é maior do que salvar vidas, e que se deve rezar pelo retorno dos ímpios sem pedir que morram, pois Térach só morreu depois de gerar Avraham.
+MOMENTOS: 00:55 Zohar: os "quarenta" e o sofrimento como expiação · 03:00 História da multa de trânsito e resposta do Rav Nevenzal · 05:25 Os "trinta": 32 caminhos de sabedoria, tsitsit e dentes · 08:37 Os "vinte": Dez Mandamentos e educação dos filhos · 10:11 Os "dez" primeiros na sinagoga e os quatro anjos · 15:00 Kaf HaChaim: talit e tefilin ou os dez primeiros · 16:04 Rezar pelos ímpios e a bênção contra os hereges · 18:35 Térach e a razão de não pedir a morte dos ímpios · 19:21 Zohar Chadash: ler Bereshit com os tefilin · 27:50 Rabi Shimon bar Yochai e o estudo de Torá o dia todo · 29:08 Steipler e a lápide do avrech; Rav Shach e o Rav Berman · 33:49 Torá maior que salvar vidas (Meguilá 16b) · 39:28 Conclusão: rezar para que os ímpios voltem em teshuvá
+FONTES CITADAS: 00:49 Zohar, Parashat Vayerá (Avraham defende Sodoma) · 00:55 Devarim 25:3 · 05:28 Yechezkel 1:1 · 05:45 Zohar, 32 caminhos de sabedoria (Sefer Yetzirá) · 06:00 Mishná Berurá sobre cortar fios de tsitsit · 08:20 Shulchan Arukh, Orach Chaim 20:2 · 08:49 Rabi Yitzchak (Zohar), quem educa o filho na Torá · 09:00 Bereshit 18:32 · 10:25 Bereshit 18:32 · 11:23 Zohar Chadash, Parashat Terumá · 14:19 Kaf HaChaim, Orach Chaim, Siman Tzadik · 12:47 Zohar Chadash, Parashat Terumá · 16:04 Zohar, Rabi Yehudá HaNasi sobre rezar pelos ímpios · 16:45 Tehilim 35:13 · 17:23 Hagahot Maharatz (Rav Tzvi Elimelech de Dinov) · 17:48 Birkat HaMinim (Amidá) · 18:07 Avodá Zará 26b · 18:36 Zohar, sobre Térach · 19:27 Zohar Chadash, Parashat Terumá 52a · 21:11 Zohar Chadash, Midrash HaNe'elam, Bereshit · 21:39 Rav Pereira (Nachat Ruach) · 24:09 Tehilim 5:8 · 24:15 Ben Ish Chai · 28:10 Berachot 35b · 28:30 Sanhedrin 99a · 29:15 Bava Metzia 85b (Lo pasik pumei migarsa) · 33:55 Meguilá 16b · 34:01 Atei Zahav, Yoreh Deá 251:6 · 36:00 Sanhedrin 37a · 37:41 Sanhedrin 72b · 38:05 Shmuel II 20:22 · 38:05 Rashi em Shmuel II 20:19 · 40:29 Makot 23b · 40:34 Yeshaiá 42:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|13:35|הרב עמיאל הם שואלים מה זה הסידור סולם העלייה
+229|13:44|יש, כאן...
+230|13:48|דוד עשרים.
+231|13:49|ברור שאתה קשור.
+232|13:50|לא, לא דוד עשרים.
+233|13:52|רבא תמה, שמה.
+234|13:53|של הרב פנחס, נו.
+235|13:54|של הרב אוביוב.
+236|13:56|כן, שמה.
+237|13:56|אברהמוס.
+238|13:57|אברהמוס.
+239|13:57|אה, של הרב פנחס.
+
+LINHAS A TRADUZIR:
+240|13:58|של הרב אוביוב.
+241|14:03|כן.
+242|14:03|אז זה, הם הוציאו את הסידור, נכון?
+243|14:07|היי, די, תתנו לרבי דמיר, די.
+244|14:09|אז עכשיו, אדם רוצה לצאת עם טלית ותפילין.
+245|14:13|מצד שני, עכשיו פה הזוהר הקדוש אומר, שמי שזוכה להיות מעשרה ראשונים של בית הכנסת, גם אם
+246|14:19|הקדוש ברוך הוא החליט לגזור עליו גזירה לא טובה, בא הצדיק ואומר, מבטל את הגזירה הזאת.
+247|14:25|למה?
+248|14:26|כי ההוא מעשרה צדיקים ראשונים.
+249|14:29|אז מה עדיף?
+250|14:30|לבוא עם טלית ותפילין לבית הכנסת, ואז זוכר שארבעה מלאכים מלווים אותו ואומרים, תנו
+251|14:36|כבוד לדיוקנה דמלכה, או להיות מעשרה ראשונים של...
+252|14:41|להיות השר אישי של בית הכנסת.
+253|14:42|יש פטנט של גם זה וגם זה.
+254|14:44|איך?
+255|14:45|הוא בא ראשון לבית הכנסת.
+256|14:47|בזמן השזית והצ'ינו יוצא החוצה, נניח קלילי, אם יש לך איפה להניח בחוץ.
+257|14:52|לא כל בית הכנסת יכול להניח בחוץ.
+258|14:58|אם זה היה לדברים לזכות את הציבור.
+259|14:59|אם לא קשה לכבודו, נשמח מאוד.
+260|15:01|רק אם זה לא קשה.
+261|15:05|אז כף החיים מכריע בסימן צדיק שעדיף לבוא עם טלית ותפילין לבית
+262|15:11|הכנסת זה מעלה הרבה יותר גבוהה מהעשרה הראשונים לכן עדיף שבן אדם יושב וילמד בבית
+263|15:17|ויצא עם הטלית והתפילין זה מעלה, הוא מביא שם מחלוקת אבל הוא עצמו מכריע שזה מעלה
+264|15:23|יותר גבוהה מהעשרה הראשונים
+265|15:47|אנחנו אומרים את זה בראש השנה, בראש השנה זה יום טוב, אתה אומר.
+266|15:50|אז אתה רואה, אף על פי שביום טוב לא אומרים יגמידות, אבל את זה אתה כן
+267|15:54|אומר.
+268|16:02|לא יודע, לא יודע.
+269|16:04|אמר רבי, ממשיך לעזור הקדוש ואומר, אמר רבי.
+270|16:07|מי זה רבי?
+271|16:08|רבי יהודה הנשיא.
+272|16:10|נמצא רבי יהודה הנשיא בתוך...
+273|16:12|כדי שיחזרו למוטב ולא ייכנסו לגיהנום.
+274|16:17|יש כל מיני רשעים, שלא נזכיר את שמם פה בבית הכנסת, שנלחמים נגד עם
+275|16:23|ישראל, נגד תורת ישראל.
+276|16:26|ומה אומר לך פה הזוהר הקדוש?
+277|16:28|מצווה לו לאדם להתפלל על הרשעים כדי שיחזרו למותיו ולא ייכנסו לגיהינם.
+278|16:35|הייתי אומר עליו שייכנס לגיהינם, כל החירות שבתורה אני אתן
+279|16:39|עליו.

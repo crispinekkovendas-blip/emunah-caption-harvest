@@ -1,0 +1,64 @@
+videoId: MEFlfizsyp8
+parte 9 de 16 · traduzir as linhas 320 a 359 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zohar: sofrimento como expiação e o poder dos justos
+RESUMO: O rabino parte do Zohar, em que a alma do justo defende os pecadores diante de HaShem, e ensina que o sofrimento e a vergonha podem servir de expiação, como mostra a história de sua multa de trânsito. Explica a defesa dos "trinta" justos: os 32 caminhos de sabedoria, ligados às 32 tsitsiot (fios das franjas) e aos 32 dentes, e dos "vinte", que são os Dez Mandamentos de manhã e à noite, mérito de quem manda os filhos estudar Torá. Em seguida trata dos "dez" primeiros na sinagoga, comparando-os, segundo o Kaf HaChaim, com ir à sinagoga de talit e tefilin, acompanhado por quatro anjos (Zohar Chadash, Parashat Terumá). Cita o Zohar Chadash e o Rav Pereira sobre ler Bereshit até "yom echad" após os tefilin, o que vale como ter estudado toda a Torá. Ensina, com Rabi Shimon bar Yochai (Berachot e Sanhedrin), que a Torá deve ser estudada o dia todo, e conta histórias do Steipler, do Rav Shach e de Rabi Avraham Berman. Conclui com a Guemará (Meguilá 16b): estudar Torá é maior do que salvar vidas, e que se deve rezar pelo retorno dos ímpios sem pedir que morram, pois Térach só morreu depois de gerar Avraham.
+MOMENTOS: 00:55 Zohar: os "quarenta" e o sofrimento como expiação · 03:00 História da multa de trânsito e resposta do Rav Nevenzal · 05:25 Os "trinta": 32 caminhos de sabedoria, tsitsit e dentes · 08:37 Os "vinte": Dez Mandamentos e educação dos filhos · 10:11 Os "dez" primeiros na sinagoga e os quatro anjos · 15:00 Kaf HaChaim: talit e tefilin ou os dez primeiros · 16:04 Rezar pelos ímpios e a bênção contra os hereges · 18:35 Térach e a razão de não pedir a morte dos ímpios · 19:21 Zohar Chadash: ler Bereshit com os tefilin · 27:50 Rabi Shimon bar Yochai e o estudo de Torá o dia todo · 29:08 Steipler e a lápide do avrech; Rav Shach e o Rav Berman · 33:49 Torá maior que salvar vidas (Meguilá 16b) · 39:28 Conclusão: rezar para que os ímpios voltem em teshuvá
+FONTES CITADAS: 00:49 Zohar, Parashat Vayerá (Avraham defende Sodoma) · 00:55 Devarim 25:3 · 05:28 Yechezkel 1:1 · 05:45 Zohar, 32 caminhos de sabedoria (Sefer Yetzirá) · 06:00 Mishná Berurá sobre cortar fios de tsitsit · 08:20 Shulchan Arukh, Orach Chaim 20:2 · 08:49 Rabi Yitzchak (Zohar), quem educa o filho na Torá · 09:00 Bereshit 18:32 · 10:25 Bereshit 18:32 · 11:23 Zohar Chadash, Parashat Terumá · 14:19 Kaf HaChaim, Orach Chaim, Siman Tzadik · 12:47 Zohar Chadash, Parashat Terumá · 16:04 Zohar, Rabi Yehudá HaNasi sobre rezar pelos ímpios · 16:45 Tehilim 35:13 · 17:23 Hagahot Maharatz (Rav Tzvi Elimelech de Dinov) · 17:48 Birkat HaMinim (Amidá) · 18:07 Avodá Zará 26b · 18:36 Zohar, sobre Térach · 19:27 Zohar Chadash, Parashat Terumá 52a · 21:11 Zohar Chadash, Midrash HaNe'elam, Bereshit · 21:39 Rav Pereira (Nachat Ruach) · 24:09 Tehilim 5:8 · 24:15 Ben Ish Chai · 28:10 Berachot 35b · 28:30 Sanhedrin 99a · 29:15 Bava Metzia 85b (Lo pasik pumei migarsa) · 33:55 Meguilá 16b · 34:01 Atei Zahav, Yoreh Deá 251:6 · 36:00 Sanhedrin 37a · 37:41 Sanhedrin 72b · 38:05 Shmuel II 20:22 · 38:05 Rashi em Shmuel II 20:19 · 40:29 Makot 23b · 40:34 Yeshaiá 42:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+308|18:15|מה לפי ההלכה אתה צריך לעשות?
+309|18:17|לעשות לו שלום וללכת.
+310|18:18|מה עם הרכב?
+311|18:19|מה עם הרכב?
+312|18:21|אחרי שהוא ימות, תיקח את הרכב.
+313|18:23|טוב, אז אומר הזוהר הקדוש.
+314|18:27|מה?
+315|18:30|תיקח את הסולם.
+316|18:31|ואמר רבי, אסור לו לאדם להתפלל על הרשעים שיסתלקו מן העולם.
+317|18:35|ממי לומדים את זה?
+318|18:36|שאלמלא סילקו קודשבריכו לטרח מן העולם.
+319|18:39|טרח עובד עבודה זרה, מוכר פסלים.
+
+LINHAS A TRADUZIR:
+320|18:42|אם השם היה לוקח את טרח לפני הזמן כשהיה עבוד עבודה זרה לא בא אברהם אבינו
+321|18:48|לעולם ושבטי ישראל לא היו והמלך דוד ומלך המשיח והתורה לא ניתנה
+322|18:53|וכל אותם הצדיקים והחסידים והנביאים לא היו
+323|18:57|בעולם אז
+324|19:03|יפה, אז מה התפקיד שלנו לעשות?
+325|19:05|להתפלל עליהם שיחזרו בתשובה
+326|19:12|אומר לך שלא, הזוהר אומר לך שהמשיח לא היה בא למה?
+327|19:15|כי המשיח צריך להיוולד ממישהי טוב, אז אנחנו קוראים לזוהר חדש, לקרוא את הזוהר חדש
+328|19:21|טוב, כותב הזוהר חדש פרשת רומא דף נ"ב אמר רבי שמעון
+329|19:27|בשעתה דברנה שקדים בצפרה שאדם קם בבוקר ואנח
+330|19:33|תפילין בראשה ותפילין ברשימה קדישה בדרורה והתעטף בהיתופה
+331|19:38|במצווה ומתעטף בעת טלית ועתי לנפקע מטרה דביתה, ובא
+332|19:44|לצאת משער ביתו.
+333|19:47|ארבעה מלאכים קדישין מזדווגין אימה, ונפקה אימה מטרה דביתה.
+334|19:52|אז ארבעה מלאכים קדישין יוצאים יחד איתו משער הבית, והוסיפו לו לבית כניסתם, ומלווים אותו
+335|19:59|לבית הכנסת.
+336|20:00|ומכריזו כמה, ומכריזים עליו, עבור יקרה לדיוקנה דמלכאה קדישה.
+337|20:06|אבו יקרה לברי דמלכה, לבן של המלך, לפרצופה היקירה דמלכה.
+338|20:12|רוח קדישה שר יעלה, השכינה שורה עליו.
+339|20:15|הכריזה אמר ישראל אשר בך אתפאר.
+340|20:19|בתראחה, בתראחה, אחרי זה.
+341|20:23|היתלה למקרה פרשתא דבראשית, עד יום אחד.
+342|20:27|בראשית ברא אלוהו כי יהודה שומעים ביתרץ וארץ הייתה תור בבוא וחושך פני לתהום, עד יום אחד.
+343|20:33|דיור אלוהיה ותשבחת דקולם.
+344|20:37|אז כשאתה מגיע לבית הכנסת לקרוא בראשית דבריי אלוקים את השמיים ואת הארץ ואלץ הייתה תור בבוא
+345|20:43|וחושך פני תהום עד ויהי ערב ויהי בוקר יום אחד.
+346|20:47|זוהר חדש פרשת תרומה דף נ"ב עמוד א' מה?
+347|20:52|בבית הכנסת, פה מה שכתוב בבית הכנסת שהוא כותב ככה בתראחה מה זה
+348|20:58|בתראחה?
+349|20:59|אחר כך היתלה למקרה פרשתה רק אני רוצה פה לקרוא את הכל ואז נבין את הכל הוא אומר בתרחה
+350|21:05|היתלה למקרה פרשתה דבראשית עד יום אחד דיוא עילויה ותשבוכתה דכולה וכן
+351|21:11|מובא בזוהר חדש מדרש הנעלם פרשת בראשית מאמר ייקבו המים אמר רבי
+352|21:16|יצחק אמר דוד ריבונו של עולם עדות שעשית במעשה בראשית הם אמת
+353|21:22|להעיד עליהם בכל יום דעתנינן כל המעיד במעשה בראשית בכל יום
+354|21:28|מובטח לא שהוא בן העולם שהוא בן העולם הבא אז זה חלק מהמעלה שאני קורא את פרסת
+355|21:34|בראשית מובטח לו שהוא בן העולם הבא והרב פררה כותב שזה
+356|21:39|שורש לכל התורה וזה שלמה שלושונו שמעתי חידוש שנקרא
+357|21:45|אחר הנחת תפילין פרשה הראשונה שבתורה היינו מבראשית עד יום אחד שבה כלול כל התורה
+358|21:51|כולה ונחשב לו כאילו למד כל התורה כולה
+359|21:57|היינו שהוא נר לבעל האמת והשלום, נר נחת רוח, לבעל

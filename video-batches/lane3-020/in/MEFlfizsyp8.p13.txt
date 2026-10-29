@@ -1,0 +1,64 @@
+videoId: MEFlfizsyp8
+parte 14 de 16 · traduzir as linhas 520 a 559 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zohar: sofrimento como expiação e o poder dos justos
+RESUMO: O rabino parte do Zohar, em que a alma do justo defende os pecadores diante de HaShem, e ensina que o sofrimento e a vergonha podem servir de expiação, como mostra a história de sua multa de trânsito. Explica a defesa dos "trinta" justos: os 32 caminhos de sabedoria, ligados às 32 tsitsiot (fios das franjas) e aos 32 dentes, e dos "vinte", que são os Dez Mandamentos de manhã e à noite, mérito de quem manda os filhos estudar Torá. Em seguida trata dos "dez" primeiros na sinagoga, comparando-os, segundo o Kaf HaChaim, com ir à sinagoga de talit e tefilin, acompanhado por quatro anjos (Zohar Chadash, Parashat Terumá). Cita o Zohar Chadash e o Rav Pereira sobre ler Bereshit até "yom echad" após os tefilin, o que vale como ter estudado toda a Torá. Ensina, com Rabi Shimon bar Yochai (Berachot e Sanhedrin), que a Torá deve ser estudada o dia todo, e conta histórias do Steipler, do Rav Shach e de Rabi Avraham Berman. Conclui com a Guemará (Meguilá 16b): estudar Torá é maior do que salvar vidas, e que se deve rezar pelo retorno dos ímpios sem pedir que morram, pois Térach só morreu depois de gerar Avraham.
+MOMENTOS: 00:55 Zohar: os "quarenta" e o sofrimento como expiação · 03:00 História da multa de trânsito e resposta do Rav Nevenzal · 05:25 Os "trinta": 32 caminhos de sabedoria, tsitsit e dentes · 08:37 Os "vinte": Dez Mandamentos e educação dos filhos · 10:11 Os "dez" primeiros na sinagoga e os quatro anjos · 15:00 Kaf HaChaim: talit e tefilin ou os dez primeiros · 16:04 Rezar pelos ímpios e a bênção contra os hereges · 18:35 Térach e a razão de não pedir a morte dos ímpios · 19:21 Zohar Chadash: ler Bereshit com os tefilin · 27:50 Rabi Shimon bar Yochai e o estudo de Torá o dia todo · 29:08 Steipler e a lápide do avrech; Rav Shach e o Rav Berman · 33:49 Torá maior que salvar vidas (Meguilá 16b) · 39:28 Conclusão: rezar para que os ímpios voltem em teshuvá
+FONTES CITADAS: 00:49 Zohar, Parashat Vayerá (Avraham defende Sodoma) · 00:55 Devarim 25:3 · 05:28 Yechezkel 1:1 · 05:45 Zohar, 32 caminhos de sabedoria (Sefer Yetzirá) · 06:00 Mishná Berurá sobre cortar fios de tsitsit · 08:20 Shulchan Arukh, Orach Chaim 20:2 · 08:49 Rabi Yitzchak (Zohar), quem educa o filho na Torá · 09:00 Bereshit 18:32 · 10:25 Bereshit 18:32 · 11:23 Zohar Chadash, Parashat Terumá · 14:19 Kaf HaChaim, Orach Chaim, Siman Tzadik · 12:47 Zohar Chadash, Parashat Terumá · 16:04 Zohar, Rabi Yehudá HaNasi sobre rezar pelos ímpios · 16:45 Tehilim 35:13 · 17:23 Hagahot Maharatz (Rav Tzvi Elimelech de Dinov) · 17:48 Birkat HaMinim (Amidá) · 18:07 Avodá Zará 26b · 18:36 Zohar, sobre Térach · 19:27 Zohar Chadash, Parashat Terumá 52a · 21:11 Zohar Chadash, Midrash HaNe'elam, Bereshit · 21:39 Rav Pereira (Nachat Ruach) · 24:09 Tehilim 5:8 · 24:15 Ben Ish Chai · 28:10 Berachot 35b · 28:30 Sanhedrin 99a · 29:15 Bava Metzia 85b (Lo pasik pumei migarsa) · 33:55 Meguilá 16b · 34:01 Atei Zahav, Yoreh Deá 251:6 · 36:00 Sanhedrin 37a · 37:41 Sanhedrin 72b · 38:05 Shmuel II 20:22 · 38:05 Rashi em Shmuel II 20:19 · 40:29 Makot 23b · 40:34 Yeshaiá 42:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+508|31:43|היום היה ההילולה של הרב שך.
+509|31:48|הרב שך, שהיה יום בחירות, הוא היה נותן הוראה לכל הבחורים לצאת לעבוד.
+510|31:54|כל ישיבת פונוביץ', אלפיים בחורים, כולם היו יוצאים, הבית מדרש היה ריק ביום הבחירות.
+511|32:00|הרב שחר נותן הוראה לצאת לעבוד.
+512|32:02|היה אחד שנשאר.
+513|32:04|מי זה?
+514|32:05|רבי אברברמן, הוא היחיד שנשאר.
+515|32:07|הוא היה יושב ולומד שם בבית מדרש לבד.
+516|32:09|יום אחד שאלו אותו, הרב שח אמר לצאת, למה אתה לא יוצא?
+517|32:12|הוא אמר, כי אני רוצה שאחרי המאה העשרים של הרב שח יהיה מישהו שיגיד לאחרים
+518|32:18|לצאת, לכן אני נשאר.
+519|32:21|הבנתם?
+
+LINHAS A TRADUZIR:
+520|32:23|עוד הפעם, כדי שאחרי 120 של הרב שך יהיה מי שראוי לתת הוראה לאחרים לצאת
+521|32:29|לעבוד, אז לכן אני נשאר.
+522|32:31|כי אם אני אצא לעבוד, אז אני לא אהיה תלמיד חכם.
+523|32:34|ואם אני לא אהיה תלמיד חכם, אני לא אוכל לתת הוראה לצאת לעבוד.
+524|32:39|אז לכן הוא נשאר.
+525|32:41|אז הרב שך, בפורים, באו אליו כמה בוחרים מהישיבה.
+526|32:46|וישבו איתו, דברי תורה, והיה שמחה.
+527|32:49|פתאום נכנס הרב שלמה לורנס.
+528|32:53|זוכרים אותו?
+529|32:55|היה חבר כנסת, היה גם סגן שר, היה לו...
+530|32:59|מה?
+531|33:01|ראש ועדת הכספים.
+532|33:01|ראש ועדת הכספים.
+533|33:04|נכנס, אז הבחורים ישר הבינו, הרב לוארץ נכנס, חבר כנסת, אז הם צריכים
+534|33:10|לפנות את מקומה, בכל אופן, בן ארם חסו, נכנס.
+535|33:13|אז הם קמו, ובאו לפנות את המקור שהוא ייכנס, הוא בא עם משלוח מנות.
+536|33:17|האב שך סימן להם, תשבו.
+537|33:19|לקח את הרב לורץ למטבח.
+538|33:21|הביא לו משלח מנות אחר, ליווה אותו החוצה, עשה הכל תושלו.
+539|33:27|חזר ואמר להם, כמה שהוא חשוב, וכמה שהוא מזכה רבים, והרבה תלוי בו.
+540|33:33|אבל בחורי ישיבות שיושבים ולומדים, מעלתם יותר גדולה, הם
+541|33:39|והבעלה שלהם יותר חשובה.
+542|33:41|ונשאר לדבר עם הבחורים הצעירים האלה, להראות להם שהם יותר חשובים מאותו חבר
+543|33:47|כנסת.
+544|33:49|ולכן, אומרת הגמרא במסכת מגילה דף ט"ז עמוד ב
+545|33:55|גדול תלמוד תורה יותר מעצלת נפשות מה זה גדול תלמוד תורה יותר
+546|34:00|מעצלת נפשות?
+547|34:01|אומר עטורי זהב יורה דעה סימן רנ"א סעיף קטן וו הלכות צדקה
+548|34:08|יש לך עכשיו איזה מחבל מתאבד השם ירחם רוצה להיכנס
+549|34:14|לקניון של שמה קניון מלכה
+550|34:20|רוצה להיכנס לקניון ולעשות איזה פיגוע והמאבטח מגלה את זה, ישר מזנק
+551|34:25|עליו מוריד אותו על הרצפה, קושר לו את הידיים בוא נביא סיפור, כן
+552|34:31|אוקיי והציל את כל האנשים של קניון מלכה יתנו לו להדליק
+553|34:37|משואה ביום העצמאות ויקבל אזרח, אני יודע איך אומרים איזה אות
+554|34:43|כבוד אבל בחור ישיבה או הבן אדם שיושב פה ולומד
+555|34:49|בבית הכנסת בו רחוב באותו זמן אומר עטורי זהב בשמיים הוא מקבל שכר הרבה
+556|34:55|יותר גבוה מאותו מאבטח שהציל מאות אנשים יש
+557|35:00|לך את אותו איך אומרים האינסטלטור
+558|35:06|הזה השרברב הזה כן מהמטוס אני לא זוכר את השם שלו
+559|35:12|השרברב הזה שהציל את ה-170 נוסעים שם במטוס.

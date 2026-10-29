@@ -1,0 +1,64 @@
+videoId: MEFlfizsyp8
+parte 3 de 16 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zohar: sofrimento como expiação e o poder dos justos
+RESUMO: O rabino parte do Zohar, em que a alma do justo defende os pecadores diante de HaShem, e ensina que o sofrimento e a vergonha podem servir de expiação, como mostra a história de sua multa de trânsito. Explica a defesa dos "trinta" justos: os 32 caminhos de sabedoria, ligados às 32 tsitsiot (fios das franjas) e aos 32 dentes, e dos "vinte", que são os Dez Mandamentos de manhã e à noite, mérito de quem manda os filhos estudar Torá. Em seguida trata dos "dez" primeiros na sinagoga, comparando-os, segundo o Kaf HaChaim, com ir à sinagoga de talit e tefilin, acompanhado por quatro anjos (Zohar Chadash, Parashat Terumá). Cita o Zohar Chadash e o Rav Pereira sobre ler Bereshit até "yom echad" após os tefilin, o que vale como ter estudado toda a Torá. Ensina, com Rabi Shimon bar Yochai (Berachot e Sanhedrin), que a Torá deve ser estudada o dia todo, e conta histórias do Steipler, do Rav Shach e de Rabi Avraham Berman. Conclui com a Guemará (Meguilá 16b): estudar Torá é maior do que salvar vidas, e que se deve rezar pelo retorno dos ímpios sem pedir que morram, pois Térach só morreu depois de gerar Avraham.
+MOMENTOS: 00:55 Zohar: os "quarenta" e o sofrimento como expiação · 03:00 História da multa de trânsito e resposta do Rav Nevenzal · 05:25 Os "trinta": 32 caminhos de sabedoria, tsitsit e dentes · 08:37 Os "vinte": Dez Mandamentos e educação dos filhos · 10:11 Os "dez" primeiros na sinagoga e os quatro anjos · 15:00 Kaf HaChaim: talit e tefilin ou os dez primeiros · 16:04 Rezar pelos ímpios e a bênção contra os hereges · 18:35 Térach e a razão de não pedir a morte dos ímpios · 19:21 Zohar Chadash: ler Bereshit com os tefilin · 27:50 Rabi Shimon bar Yochai e o estudo de Torá o dia todo · 29:08 Steipler e a lápide do avrech; Rav Shach e o Rav Berman · 33:49 Torá maior que salvar vidas (Meguilá 16b) · 39:28 Conclusão: rezar para que os ímpios voltem em teshuvá
+FONTES CITADAS: 00:49 Zohar, Parashat Vayerá (Avraham defende Sodoma) · 00:55 Devarim 25:3 · 05:28 Yechezkel 1:1 · 05:45 Zohar, 32 caminhos de sabedoria (Sefer Yetzirá) · 06:00 Mishná Berurá sobre cortar fios de tsitsit · 08:20 Shulchan Arukh, Orach Chaim 20:2 · 08:49 Rabi Yitzchak (Zohar), quem educa o filho na Torá · 09:00 Bereshit 18:32 · 10:25 Bereshit 18:32 · 11:23 Zohar Chadash, Parashat Terumá · 14:19 Kaf HaChaim, Orach Chaim, Siman Tzadik · 12:47 Zohar Chadash, Parashat Terumá · 16:04 Zohar, Rabi Yehudá HaNasi sobre rezar pelos ímpios · 16:45 Tehilim 35:13 · 17:23 Hagahot Maharatz (Rav Tzvi Elimelech de Dinov) · 17:48 Birkat HaMinim (Amidá) · 18:07 Avodá Zará 26b · 18:36 Zohar, sobre Térach · 19:27 Zohar Chadash, Parashat Terumá 52a · 21:11 Zohar Chadash, Midrash HaNe'elam, Bereshit · 21:39 Rav Pereira (Nachat Ruach) · 24:09 Tehilim 5:8 · 24:15 Ben Ish Chai · 28:10 Berachot 35b · 28:30 Sanhedrin 99a · 29:15 Bava Metzia 85b (Lo pasik pumei migarsa) · 33:55 Meguilá 16b · 34:01 Atei Zahav, Yoreh Deá 251:6 · 36:00 Sanhedrin 37a · 37:41 Sanhedrin 72b · 38:05 Shmuel II 20:22 · 38:05 Rashi em Shmuel II 20:19 · 40:29 Makot 23b · 40:34 Yeshaiá 42:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|03:44|בעיר העתיקה, כן.
+69|03:46|אז הוא בא לפי תומו, שאל את הרב נבנצל.
+70|03:49|הבן אדם נסע לשיעור תורה.
+71|03:51|לא נסע למשחק כדורגל.
+72|03:52|נסע לשיעור תורה, זה דבר מצרה.
+73|03:54|איך יכול להיות שהוא ניזוק, והוא קיבל 500 שקל ושמונה נקודות.
+74|03:58|הוא לא הלכת ישר.
+75|04:00|מה לא הלכתי ישר?
+76|04:01|עשיתי עוד מצווה, קחתי גם את אשתי על הדרך.
+77|04:03|עשיתי לה חסד.
+78|04:05|אמר לו, תדע לו שהוא היה חייב מיתה, וזה בא לו במקום חיוב
+79|04:10|מיתה.
+
+LINHAS A TRADUZIR:
+80|04:13|עכשיו, מה שהרב נבנצל לא יודע, שאני שבועיים לפני כן חלמתי שהיה לי תאונת
+81|04:18|דרכים, והשם ירחם.
+82|04:22|אז זה, זה, מה?
+83|04:23|אני אביא לך איזה, אני מצביע, אני קיבלתי ככה חמש מאות שקל בחתונה
+84|04:28|של הבת שלך לפני שבועה.
+85|04:31|מצביע, אני אביא לך איזה...
+86|04:33|אתה יודע כמה אנשים קיבלו דוחות בחתונה?
+87|04:36|תפסתי אותו, אתה רוצה להביא לי...
+88|04:40|למה חמש מאות שקל?
+89|04:40|למה אני מאה ואתה חמש מאות?
+90|04:42|לקח, אני חייתי על הניברסון.
+91|04:47|אה.
+92|04:47|עושה מר אחי.
+93|04:49|יפה,
+94|05:01|אז הרב שמעון נותן רעיון שבן אדם ייתן מדי פעם סכום גבוה לצדקה שזה יעלה לו ל...
+95|05:06|אז זה מה שפה הזוהר הקדוש אומר שהרבה פעמים בן אדם עובר בושות והבושות האלה
+96|05:12|הצדיקים אומרים שזה יהיה לו ככפרה שלא יצטרך לנש עוד
+97|05:18|פותחת ואומרת ממשיכה הנשמה של הצדיק ללמד זכות על הרשעים.
+98|05:22|אולי יש שם שלושים צדיקים.
+99|05:24|מה זה שלושים צדיקים?
+100|05:25|מה מספר שלושים מלמד?
+101|05:28|אז הוא אומר פה, זוהר הקדוש, שלושים מעלות הרמוזים בפסוק ויהי בשלושים שנה, והם כלולים
+102|05:34|בשלושים ושתיים נתיבות, שהם עשרים ושתיים אותיות ועשר ספירות, ולפעמים הם
+103|05:40|כלולים בשמונה.
+104|05:41|זה על פי הסוד.
+105|05:42|זאת אומרת שהשלושים האלה יש ל"ב נתיבות חוכמה.
+106|05:45|כנגד זה יש לנו ל"ב שיניים.
+107|05:48|כנגד זה יש לנו שלושים ושתיים חוטים שבציצית ולכן כשאתה
+108|05:54|חותך חוטי ציצית לא לחתוך, המשתת ברורה כותב לא לחתוך בברזל אלא
+109|06:00|בסכין אלא דווקא בפלסטיק יש סכין היום ברוך השם היום מוכרים מספריים מיוחדות
+110|06:05|מפלסטיק אבל יש עניין דווקא שהציצית היא כנגד למה?
+111|06:09|למד בית חוטי הציצית כנגד למד בית שיניים ליהודי יש שלושים ושתיים שיניים כמה
+112|06:15|לגו יש?
+113|06:18|יש לו שן אחת פחות.
+114|06:20|הרב חיים קניאבסקי אמר שיש רופא בארצות הברית, אנטישמי, רופא שיניים, אתה
+115|06:26|פותח את השיניים ואז הוא רואה, מסתכל והוא רואה, אם יש לך 32 שיניים, הוא יודע
+116|06:32|שאתה יהודי, הוא לא מטפל בך אם אתה עם 31, אז הוא מסכים לטפל, לפי זה...
+117|06:36|למה גואל עושה כן?
+118|06:44|חסר לו זה אני שאלתי רופא שיניים כמה שיניים יש אז הוא אמר לי, אז אמרתי לו אנחנו
+119|06:50|יודעים שיש 32 אז הוא אמר לי זה כולל שיני בינה אז 32 זה כולל שיני בינה שזה
