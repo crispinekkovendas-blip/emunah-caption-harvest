@@ -1,7 +1,7 @@
 # lane8-012
 
-3 of 14 lessons published · 5 skipped · status **pending**
-Tokens (610 agent runs with a record): 3.1M in (mostly cache) · 1.73M out · API-equivalent 27.03
+3 of 14 lessons published · 7 skipped · status **pending**
+Tokens (695 agent runs with a record): 3.6M in (mostly cache) · 2.01M out · API-equivalent 31.13
 
 | lesson | state | detail |
 |---|---|---|
@@ -10,12 +10,12 @@ Tokens (610 agent runs with a record): 3.1M in (mostly cache) · 1.73M out · AP
 | DauulwEIZ5I | ✓ published | 885 lines · O segredo da fala e a alma falante |
 | AjX-ySqvn6I | skipped | |
 | Kp0epiK5LTQ | waiting | 15/16 parts |
-| Ia_QIk-dUWk | waiting | 28/31 parts |
-| oMA1QPCzExc | skipped after 3 tries | 34 lines missing |
-| 3QtfHglis14 | skipped after 3 tries | 20 lines missing |
-| 8R3sVro6QF8 | skipped after 3 tries | 5 lines missing |
-| MHqDkQCQqpM | skipped after 3 tries | line 360 twice |
-| PogvsHUb7Tw | ✗ will be redone (try 2) | 2 lines missing |
+| Ia_QIk-dUWk | skipped after 3 tries | line 120 twice |
+| oMA1QPCzExc | skipped | |
+| 3QtfHglis14 | skipped | |
+| 8R3sVro6QF8 | skipped | |
+| MHqDkQCQqpM | skipped | |
+| PogvsHUb7Tw | skipped after 3 tries | 36 lines missing |
 | 3xqYecSPjaw | ✓ published | 579 lines · A maldição do sábio e o nome de Moshê ausente de Tetzavê |
 | T29WNCBs5e8 | waiting | 33/34 parts |
 | L209dTca5_c | waiting | 27/28 parts |
