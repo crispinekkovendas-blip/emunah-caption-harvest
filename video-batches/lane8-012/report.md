@@ -1,7 +1,7 @@
 # lane8-012
 
-3 of 14 lessons published · 8 skipped · status **pending**
-Tokens (796 agent runs with a record): 4.1M in (mostly cache) · 2.27M out · API-equivalent 34.74
+3 of 14 lessons published · 9 skipped · status **pending**
+Tokens (799 agent runs with a record): 4.1M in (mostly cache) · 2.28M out · API-equivalent 34.79
 
 | lesson | state | detail |
 |---|---|---|
@@ -9,7 +9,7 @@ Tokens (796 agent runs with a record): 4.1M in (mostly cache) · 2.27M out · AP
 | PyYGb6g1zNA | skipped | |
 | DauulwEIZ5I | ✓ published | 885 lines · O segredo da fala e a alma falante |
 | AjX-ySqvn6I | skipped | |
-| Kp0epiK5LTQ | waiting | 15/16 parts |
+| Kp0epiK5LTQ | skipped after 3 tries | 62 lines missing |
 | Ia_QIk-dUWk | skipped | |
 | oMA1QPCzExc | skipped | |
 | 3QtfHglis14 | skipped | |
