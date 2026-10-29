@@ -2,7 +2,7 @@
  "name": "lane3-018",
  "lane": 3,
  "created": "2026-10-28T15:18:27.346Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "i_Mswjw-dsM",
@@ -198,7 +198,7 @@
  "tries": {
   "rKy0q-kMwMo": 3,
   "i_Mswjw-dsM": 3,
-  "f6RzqumCjvk": 2,
+  "f6RzqumCjvk": 3,
   "P9yoql-gaSs": 3,
   "Hm8fk4lF5Cg": 3,
   "GcFPfJDGYbQ": 3
@@ -209,6 +209,7 @@
   "i_Mswjw-dsM",
   "P9yoql-gaSs",
   "Hm8fk4lF5Cg",
-  "GcFPfJDGYbQ"
+  "GcFPfJDGYbQ",
+  "f6RzqumCjvk"
  ]
 }
