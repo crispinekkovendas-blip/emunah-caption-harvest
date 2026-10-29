@@ -1,11 +1,11 @@
 # lane3-020
 
 0 of 4 lessons published · 2 skipped · status **pending**
-Tokens (325 agent runs with a record): 1.7M in (mostly cache) · 0.86M out · API-equivalent 13.25
+Tokens (367 agent runs with a record): 2.0M in (mostly cache) · 0.97M out · API-equivalent 14.95
 
 | lesson | state | detail |
 |---|---|---|
-| iRFlMPb7TOY | ✗ will be redone (try 2) | line 440 twice |
-| MEFlfizsyp8 | ✗ will be redone (try 1) | 9 lines missing |
+| iRFlMPb7TOY | waiting | 23/25 parts |
+| MEFlfizsyp8 | waiting | 15/16 parts |
 | Tsz2umCH0LA | skipped | |
 | 1T7kADdlvFQ | skipped | |
