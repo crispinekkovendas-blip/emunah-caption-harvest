@@ -80,12 +80,15 @@
   "1T7kADdlvFQ.p11"
  ],
  "tries": {
-  "iRFlMPb7TOY": 2,
-  "1T7kADdlvFQ": 2,
-  "Tsz2umCH0LA": 1
+  "iRFlMPb7TOY": 3,
+  "1T7kADdlvFQ": 3,
+  "Tsz2umCH0LA": 2
  },
  "done": [
   "-x5qvNA6Rtc"
  ],
- "skipped": []
+ "skipped": [
+  "iRFlMPb7TOY",
+  "1T7kADdlvFQ"
+ ]
 }
