@@ -1,0 +1,82 @@
+{
+ "name": "lane3-019",
+ "lane": 3,
+ "created": "2026-10-29T02:06:25.519Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "iRFlMPb7TOY",
+   "title": "Tikun HaDaat e a ligação com o Tzadik (Likutei Moharan, Torá 4)",
+   "lines": 996,
+   "parts": 9,
+   "from": "recente"
+  },
+  {
+   "id": "MEFlfizsyp8",
+   "title": "Zohar: sofrimento como expiação e o poder dos justos",
+   "lines": 632,
+   "parts": 6,
+   "from": "recente"
+  },
+  {
+   "id": "Tsz2umCH0LA",
+   "title": "Abraham recomeça aos 100: a brit milá e o pesach haohel",
+   "lines": 764,
+   "parts": 7,
+   "from": "recente"
+  },
+  {
+   "id": "-x5qvNA6Rtc",
+   "title": "Atik e Arich Anpin: zachar e nukva no Etz Chaim",
+   "lines": 310,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "1T7kADdlvFQ",
+   "title": "Por que os anjos vieram e o que foi Sodoma",
+   "lines": 1418,
+   "parts": 12,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "iRFlMPb7TOY.p0",
+  "iRFlMPb7TOY.p1",
+  "iRFlMPb7TOY.p2",
+  "iRFlMPb7TOY.p3",
+  "iRFlMPb7TOY.p4",
+  "iRFlMPb7TOY.p5",
+  "iRFlMPb7TOY.p6",
+  "iRFlMPb7TOY.p7",
+  "iRFlMPb7TOY.p8",
+  "MEFlfizsyp8.p0",
+  "MEFlfizsyp8.p1",
+  "MEFlfizsyp8.p2",
+  "MEFlfizsyp8.p3",
+  "MEFlfizsyp8.p4",
+  "MEFlfizsyp8.p5",
+  "Tsz2umCH0LA.p0",
+  "Tsz2umCH0LA.p1",
+  "Tsz2umCH0LA.p2",
+  "Tsz2umCH0LA.p3",
+  "Tsz2umCH0LA.p4",
+  "Tsz2umCH0LA.p5",
+  "Tsz2umCH0LA.p6",
+  "-x5qvNA6Rtc.p0",
+  "-x5qvNA6Rtc.p1",
+  "-x5qvNA6Rtc.p2",
+  "1T7kADdlvFQ.p0",
+  "1T7kADdlvFQ.p1",
+  "1T7kADdlvFQ.p2",
+  "1T7kADdlvFQ.p3",
+  "1T7kADdlvFQ.p4",
+  "1T7kADdlvFQ.p5",
+  "1T7kADdlvFQ.p6",
+  "1T7kADdlvFQ.p7",
+  "1T7kADdlvFQ.p8",
+  "1T7kADdlvFQ.p9",
+  "1T7kADdlvFQ.p10",
+  "1T7kADdlvFQ.p11"
+ ]
+}
