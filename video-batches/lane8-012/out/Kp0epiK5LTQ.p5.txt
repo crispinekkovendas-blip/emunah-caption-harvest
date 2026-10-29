@@ -1,0 +1,40 @@
+200	Am I allowed to drink camel's milk?	Posso beber leite de camelo?
+201	No.	Não.
+202	Why?	Por quê?
+203	Because the camel is forbidden.	Porque o camelo é proibido.
+204	Am I allowed to drink milk from a snake?	Posso beber leite de cobra?
+205	No, because the snake is forbidden.	Não, porque a cobra é proibida.
+206	So what is permitted?	Então o que é permitido?
+207	Cow's milk.	Leite de vaca.
+208	Sheep's milk.	Leite de ovelha.
+209	Because I am allowed to eat the sheep.	Porque me é permitido comer a ovelha.
+210	Am I allowed to eat a woman?	Posso comer uma mulher?
+211	A human being?	Um ser humano?
+212	No.	Não.
+213	So how is her milk permitted to me?	Então como o leite dela é permitido para mim?
+214	A woman is not a cow.	Mulher não é vaca.
+215	A woman is not a cow?	Mulher não é vaca?
+216	Nice, Moshe.	Muito bem, Moshe.
+217	First of all, it depends.	Antes de tudo, depende.
+218	Well, never mind now.	Bem, não importa agora.
+219	Rather, what did the Sages say?	Mas o que disseram os Sábios?
+220	"Honey and milk are under your tongue."	"Mel e leite estão debaixo da tua língua."
+221	There is something we are forbidden to eat: the bee.	Há algo que nos é proibido comer: a abelha.
+222	Eating a flying swarming creature is forbidden.	Comer um inseto voador é proibido.
+223	That carries five lashes, very serious.	São cinco açoites, algo muito grave.
+224	It is forbidden to eat a flying swarming creature.	É proibido comer um inseto voador.
+225	And nevertheless we are permitted to eat the honey.	E mesmo assim nos é permitido comer o mel.
+226	Why?	Por quê?
+227	Because it is not from its innards, it is its regurgitation.	Porque não vem das entranhas dela, é o que ela regurgita.
+228	Look what we love to eat on Rosh Hashanah, an apple with honey, it is the regurgitation.	Veja o que gostamos de comer no Rosh HaShanah: maçã com mel, é a regurgitação.
+229	The bee regurgitates and you eat what it regurgitated, so it is permitted.	A abelha regurgita e você come o que ela regurgitou, então é permitido.
+230	Honey and milk: although we are forbidden to eat the bee that makes the honey,	Mel e leite: embora nos seja proibido comer a abelha que faz o mel,
+231	and forbidden to eat the woman who gives milk, nevertheless "under your tongue" it is permitted to eat them.	e proibido comer a mulher que dá o leite, ainda assim "debaixo da tua língua" é permitido comer isso.
+232	Why? This one has its own laws and that one has its own laws. In essence, whether it is permitted to eat human beings or not,	Por quê? Este tem as suas leis e aquele tem as suas leis. Quanto à essência: se é permitido comer seres humanos ou não,
+233	is a dispute among the Rishonim, whether one may eat a human being according to halachah. I do not recommend it to anyone.	é uma discussão entre os Rishonim, se à luz da halachá se pode comer um ser humano. Não recomendo a ninguém.
+234	But there is such a thing, there is a dispute among the Rishonim. I did not bring it here, I brought it in my responsa, in section	Mas existe isso, há uma discussão entre os Rishonim. Não trouxe isso aqui; trouxe nas minhas responsa, no número
+235	37 of Even HaEzer, I think it is volume 6, where I discussed what they found after the tsunami. They say	37 de Even HaEzer, acho que no volume 6, onde falei do que encontraram depois do tsunami. Contam
+236	that they found a fish, half of it in the form of a man and half in the form of a fish,	que encontraram um peixe, metade com forma de homem e metade com forma de peixe,
+237	like the mermaid we saw in Bechorot 7b, above. Is it permitted to eat this fish or not?	como a sereia que vimos em Bechorot 7b, acima. É permitido comer esse peixe ou não?
+238	If you say it is a fish, everything is permitted.	Se você disser que é um peixe, tudo é permitido.
+239	If you say it is a human being, now you have a question: is it permitted to eat a human being or forbidden to eat a human being?	Se você disser que é um ser humano, agora você tem uma questão: é permitido comer um ser humano ou é proibido?
