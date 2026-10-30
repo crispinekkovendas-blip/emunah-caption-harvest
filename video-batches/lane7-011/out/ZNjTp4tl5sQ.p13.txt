@@ -1,0 +1,40 @@
+520	He lives in London.	Mora em Londres.
+521	A billionaire, rich, a collector of antiquities and manuscripts, and Shlomo Mussaieff gets a phone call.	Bilionário, rico, colecionador de antiguidades e manuscritos, e Shlomo Mussaieff recebe um telefonema.
+522	Mr. Shlomo, would you like to come to a hotel here in Jerusalem?	Senhor Shlomo, o senhor quer vir a um hotel aqui em Jerusalém?
+523	We have an interesting offer for you.	Temos uma proposta interessante para o senhor.
+524	He said to them, where?	Ele perguntou: onde?
+525	They told him, the Maron Caron Plaza.	Disseram: no Caron Plaza.
+526	Sixth floor, room six hundred and seventeen.	Sexto andar, quarto seiscentos e dezessete.
+527	You come alone. All the best.	Venha sozinho. Tudo de bom.
+528	Merchandise like that, you don't show in the lobby, gentlemen.	Uma mercadoria dessas, senhores, não se mostra no lobby.
+529	Shlomo Mussaieff arrives at the Caron Plaza, goes up to the sixth floor, knocks on the door.	Shlomo Mussaieff chega ao Caron Plaza, sobe ao sexto andar, bate à porta.
+530	Two collectors open it for him, two collectors.	Dois colecionadores abrem para ele, dois colecionadores.
+531	They take out for him a hundred pages of the Keter Aram Tzova.	Tiram para ele cem folhas do Keter Aram Tzová.
+532	The dealer asks a crazy price for that time: a million dollars.	O vendedor pede um preço absurdo para a época: um milhão de dólares.
+533	For a million dollars you could have bought the whole Bukharan neighborhood at that time, right?	Com um milhão de dólares você compraria o bairro dos Bucharim inteiro naquela época, não é?
+534	Shlomo Mussaieff says, forgive me, that's too much for me, and leaves.	Shlomo Mussaieff diz: perdão, é demais para mim, e vai embora.
+535	The next day he comes back with someone else who understands a bit more, to see that this isn't a forgery.	No dia seguinte ele volta com outra pessoa que entende um pouco mais, para ver que não se trata de falsificação.
+536	He sees the whole hotel full of police.	Ele vê o hotel inteiro cheio de policiais.
+537	What happened?	O que aconteceu?
+538	It turns out that one of the collectors who offered it to him was murdered	Descobre-se que um dos colecionadores que lhe ofereceram as folhas foi assassinado
+539	in the hotel room, and the pages disappeared.	no quarto do hotel, e as folhas desapareceram.
+540	Again we have no thread to follow in search of the book. In 2012 an American journalist	De novo não temos nenhum fio para seguir na busca do livro. Em 2012, um jornalista americano
+541	named Matti Friedman decided to write a story about the book, and he investigates and investigates, runs	chamado Matti Friedman decidiu fazer uma reportagem sobre o livro, e investiga e investiga, faz
+542	independent checks, and printed it all in a very beautiful book, "The Aleppo Codex," that's what he calls	verificações independentes e imprimiu tudo num livro muito bonito, "O Códice de Alepo", como ele chama
+543	this book, and he discovers that for thirty years the book was kept	esse livro, e descobre que durante trinta anos o livro foi guardado
+544	in a plain office cabinet in the office of President Ben Tzvi, with no special lighting,	num armário de escritório comum, no gabinete do presidente Ben Tzvi, sem iluminação especial,
+545	no special temperature, and no shoes... he says that after	sem temperatura especial e sem nada... ele diz que, depois das
+546	the examinations, the damage and destruction caused to the book in the thirty years it was in the hands of the Ben Tzvi Institute was greater	análises, o dano e a destruição causados ao livro nos trinta anos em que esteve nas mãos do Instituto Ben Tzvi foram maiores
+547	than all the damage caused in six hundred years in Aleppo. You understand, what a joke.	do que todo o dano causado em seiscentos anos em Alepo. Entende? Que piada.
+548	When the National Library demands: transfer the Keter to us, to the Heichal HaSefer, we have the conditions	Quando a Biblioteca Nacional exige: transfiram o Keter para nós, para o Heichal HaSefer, temos as condições
+549	and the resources to protect it, Rachel Ben Tzvi, the president's widow, says: this Keter is the pride of our	e os recursos para protegê-lo, Rachel Ben Tzvi, viúva do presidente, diz: este Keter é o orgulho do nosso
+550	institute, and the whole justification for the institute's existence is this Keter, I'm not taking it out of here. And her husband apparently understood	instituto, e toda a justificativa da existência do instituto é este Keter, não vou tirá-lo daqui. E o marido dela, Ben Tzvi, aparentemente entendeu isso,
+551	this, Ben Tzvi, who made a supreme effort to bring the Keter, not because	ele que fez um esforço supremo para trazer o Keter, não porque
+552	he cared about the manuscripts, but rather wanted to give his institute	se importasse com os manuscritos, mas porque queria dar ao seu instituto
+553	a worldwide name. Matti Friedman continues his investigations and discovers that Mordechai Pachum	um nome mundial. Matti Friedman continua suas investigações e descobre que Mordechai Pachum
+554	did not come innocently to this Shragai.	não chegou inocentemente a esse Shragai.
+555	So what was going on here?	Então o que houve aqui?
+556	They brought Pachum to transfer the Keter to Rabbi Dayan in Tel Aviv.	Trouxeram Pachum para entregar o Keter ao rabino Dayan, em Tel Aviv.
+557	How did it get to Shragai?	Como chegou a Shragai?
+558	Matti Friedman digs through the archives of the State of Israel and he grabs his head	Matti Friedman vasculha os arquivos do Estado de Israel e leva as mãos à cabeça
+559	and is stunned by what he discovers.	e fica atônito com o que descobre.
