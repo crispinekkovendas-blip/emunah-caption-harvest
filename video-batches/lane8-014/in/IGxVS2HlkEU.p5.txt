@@ -1,0 +1,64 @@
+videoId: IGxVS2HlkEU
+parte 6 de 22 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Yitzchak: o riso futuro de Israel e o último a rir
+RESUMO: A aula parte da Parashá Vayera (Bereshit 18), em que os mensageiros anunciam que Sará terá um filho dentro de um ano e ela ri por dentro, enquanto HaShem a repreende e não repreende Avraham, que também riu em Lech Lechá (Bereshit 17). Rashi, citando Onkelos, explica que o riso de Avraham foi de alegria e fé, e o de Sará foi de zombaria e falta de confiança. O rabino pergunta por que o nome Yitzchak está no futuro e responde com a ideia de que os Patriarcas são a raiz de seus descendentes: Yitzchak é a midat hadin, Israel sofreu muito na história por causa do din, mas no fim rirá. Ele conecta isso à impossibilidade natural do nascimento de Yitzchak, que as forças da natureza e o mazal tentaram impedir porque Avraham revelou o Criador único e as tirou do posto de fonte do poder; a Torá, em Bereshit 21, mostra Sará dizendo "Tzchok asá li Elokim". Por fim, explica a psicologia do riso como reação à surpresa inesperada e conclui que, quando a verdade se revelar no fim dos dias, os fiéis a HaShem e à Torá, hoje os menos populares do mundo, serão os últimos a rir.
+MOMENTOS: 00:07 Introdução à Parashá Vayera e a visita dos três homens · 01:43 Anúncio do filho de Sará e seu riso interior · 04:44 A repreensão de HaShem a Sará e não a Avraham · 07:40 O riso de Avraham em Lech Lechá e o nome Yitzchak · 12:44 Rashi e Onkelos: riso de alegria versus riso de zombaria · 16:33 Os Patriarcas como raiz e a regra de pai e derivados · 21:30 Yitzchak como midat hadin e o riso de Israel no futuro · 28:08 O nascimento de Yitzchak contra a natureza e o mazal · 31:53 Avraham, o monoteísmo e a verdade única · 44:06 A natureza resiste a que Avraham tenha descendência · 47:41 Sará: "Tzchok asá li Elokim" (Bereshit 21) · 50:16 A psicologia do riso e da surpresa · 57:20 Israel hoje: impopular e perseguido por sustentar a verdade · 1:03:43 No fim, quem ri por último somos nós
+FONTES CITADAS: 00:12 Bereshit 18:1-8 · 01:43 Bereshit 18:9 · 02:03 Bereshit 18:10 · 03:09 Bereshit 18:11-12 · 04:46 Bereshit 18:13-14 · 05:58 Bereshit 18:15 · 06:52 Bereshit 17:1-6 · 07:21 Bereshit 17:15-16 · 07:40 Bereshit 17:17 · 08:15 Bereshit 17:18-19 · 12:24 Bereshit 16:11 · 13:17 Rashi em Bereshit 17:17 · 13:29 Targum Onkelos em Bereshit 17:17 · 14:57 Rashi em Bereshit 18:12 · 15:45 Rashi em Bereshit 18:13 · 16:33 Berachot 16b · 18:19 Shabat 73a · 20:21 Bereshit 17:5 · 26:15 Vayikrá 26:3-4 · 11:23 Arizal sobre nomes · 30:33 Bereshit 15:1 · 30:37 Bereshit 15:2 · 30:56 Shabat 156a · 34:09 Shemot 20:2 · 34:25 Shemot 20:3 · 38:46 Bereshit 31:29 · 42:34 Bereshit Rabá 38 · 43:00 Bereshit Rabá 38 · 47:07 Bereshit 15:7 · 47:47 Bereshit 21:1-4 · 48:30 Bereshit 21:6 · 58:00 Shemot 24:7 · 1:02:34 Yeshayahu 11:9 · 1:03:43 Tehilim 126:2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|14:18|וזה מה שרש"י אומר כאן.
+189|14:19|את זה, רש"י מצטט את אונקלוס ואומר, את זה, את הוייצחק הזה של אברהם,
+190|14:25|תרגם אונקלוס לשון שמחה.
+191|14:28|וחדי, חדי זה גם כן סוג של שמחה, נכון?
+192|14:32|גילה, רינה, שמחה, חדווה, וחדי, חדווה.
+193|14:38|אבל, אומר רש"י, כשאנחנו מגיעים לפרשת וירא, לפרשה שלנו,
+194|14:44|ותצחק שרה בקרבה לאמור, רש"י לא מתרגם וחדת, כלומר הייתה לה
+195|14:50|חדווה.
+196|14:51|איך אונקלוס מתרגם את זה, רש"י אומר, איך אונקלוס מתרגם את זה, ושל שרה לשון
+197|14:57|מכוך.
+198|14:58|מכוך זה חיוך של לעג, או צחוק של זלזול, לעג,
+199|15:04|אי אמון.
+
+LINHAS A TRADUZIR:
+200|15:07|ולכאורה, התגובה של אברהם, התגובה של שרה, על פניהם נשמעת אותו דבר
+201|15:13|בדיוק.
+202|15:15|אם אונקלוס מתרגם את זה כאן בלשון שמחה אצל אברהם, וכאן בלשון לגלוג אצל שרה,
+203|15:21|זאת אומרת שההקשר של הדברים
+204|15:28|מחייב את זה.
+205|15:30|מחייב את זה.
+206|15:31|וזאת הסיבה שהקדוש ברוך הוא לא מבקר את אברהם, כי לא הייתה סיבה לבקר את אברהם.
+207|15:35|הוא שמח בחדווה גדולה.
+208|15:39|הוא כן מבקר את צרה על אי האמון.
+209|15:42|על אי האמון.
+210|15:45|נראה את המשך רש"י, למדת שאברהם האמין ושמח.
+211|15:50|ושרה לא האמינה ולגלגה, וזהו שהקפיד הקדוש ברוך הוא על
+212|15:56|שרה ולא הקפיד על אברהם.
+213|16:01|אוקיי, אז זה מסביר את העניין של התגובה האלוקית השונה לצחוק
+214|16:07|של אברהם למול הצחוק של שרה.
+215|16:11|עכשיו, בואו ננסה
+216|16:17|להבין את השאלה השנייה ששאלנו, השם של
+217|16:23|יצחק, למה זה יצחק בלשון עתיד?
+218|16:27|אז אני אגיד עכשיו משהו ואחרי זה נצטרך להסביר אותו.
+219|16:33|האבות, אברהם, יצחק ויעקב, הגמרא אומרת, אין אבות אלא
+220|16:38|שלושה.
+221|16:40|מה הגמרא באה למעט?
+222|16:42|את השבטים.
+223|16:43|השבטים הם לא אבות.
+224|16:46|אין אבות אלא שלושה, רק אברהם, יצחק ויעקב.
+225|16:48|כלומר, כשמדובר על אבות האומה, על אבות עם ישראל, האבות נקראים אבות, ולא השבטים.
+226|16:54|למה?
+227|16:55|כי השבטים, כל אחד מהם הוא אב לשבט שלו.
+228|16:59|אבל אברהם, יצחק ויעקב הם אבות לכלל האומה.
+229|17:03|אברהם הוליד את יצחק, יצחק הוליד את יעקב, יעקב הוליד את עם ישראל.
+230|17:08|ולכן עם ישראל הם התולדות של אברהם ושל יצחק
+231|17:14|ושל יעקב.
+232|17:20|המושג אב, כמו המושג אם, רק אני עכשיו מדבר על זה בלשון זכר, המושג אב
+233|17:27|הוא מושג שאף אחד לא נולד איתו.
+234|17:30|כשאנחנו נולדנו לא היינו לא אב ולא אם.
+235|17:35|היה לנו שם, ומי שנותן לנו את התואר אב או
+236|17:41|אם זה הילד הראשון שלנו, או הילדה הראשונה.
+237|17:44|הילד הראשון שנולד לנו מזכה אותנו בתואר אב.
+238|17:51|או אם.
+239|17:52|לפני זה אנחנו לא אב או אם.
