@@ -1,0 +1,40 @@
+640	Nice.	Legal.
+641	Most of my salary goes on fruits and vegetables.	A maior parte do meu salário vai em frutas e verduras.
+642	Yes?	É?
+643	Because that's what you eat.	Porque é isso que você come.
+644	That's what we eat, and because I buy at...	É o que a gente come, e porque eu compro em...
+645	You know...	Sabe...
+646	Are you organic?	Você é orgânico?
+647	No.	Não.
+648	Not organic.	Não é orgânico.
+649	All the studies prove there's no benefit in eating organic.	Todos os estudos provam que não há nenhum benefício em comer orgânico.
+650	It has no health benefit at all.	Não tem nenhum benefício para a saúde.
+651	It's just for show.	É só enganação.
+652	But it's without spraying.	Mas é sem pulverização.
+653	Of course it's sprayed.	Claro que tem pulverização.
+654	It's a different spraying.	É outra pulverização.
+655	A different spraying.	Outra pulverização.
+656	Which is even more toxic.	Que é ainda mais tóxica.
+657	My wife goes crazy for organic. If I bring her organic, what hugs I get!	Minha esposa fica louca por orgânico. Se eu trago orgânico, que abraços eu ganho!
+658	Yes?	É?
+659	Yes.	É.
+660	Wow.	Uau.
+661	What organic hugs.	Que abraços orgânicos.
+662	You're saying it's all one big nonsense.	Você está dizendo que é tudo uma grande besteira.
+663	It's all one big nonsense, and I follow the studies on this matter.	É tudo uma grande besteira, e eu acompanho os estudos sobre esse assunto.
+664	There's no benefit at all.	Não há benefício nenhum.
+665	Maybe there is...	Talvez haja...
+666	You're saying it's even more toxic.	Você está dizendo que é até mais tóxico.
+667	Because the substances they use are simply...	Porque as substâncias que eles usam são simplesmente...
+668	all kinds of "friendly" substances, right?	todo tipo de substância "amigável", né?
+669	They're not friendly to anything or anyone.	Elas não são amigáveis a nada nem a ninguém.
+670	They're not friendly to anyone or anything.	Não são amigáveis a ninguém nem a nada.
+671	It's not...	Não é...
+672	So it's all for show, in short.	Então é tudo enganação, resumindo.
+673	One of the great frauds.	Uma das grandes fraudes.
+674	So the ones who profit are the producers of all the organic stuff.	Então quem lucra são os produtores de tudo isso de orgânico.
+675	Do you want some milk too?	Você quer leite também?
+676	No, thank you.	Não, obrigado.
+677	What else do we have?	O que mais temos?
+678	We have lots of things.	Temos um monte de coisas.
+679	Because I don't know, like...	Porque eu não sei, tipo...

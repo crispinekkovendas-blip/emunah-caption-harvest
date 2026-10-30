@@ -1,19 +1,19 @@
 # lane10-011
 
-0 of 12 lessons published · 0 skipped · status **pending**
-Tokens (340 agent runs with a record): 1.7M in (mostly cache) · 0.95M out · API-equivalent 14.95
+0 of 12 lessons published · 1 skipped · status **pending**
+Tokens (588 agent runs with a record): 3.0M in (mostly cache) · 1.60M out · API-equivalent 25.31
 
 | lesson | state | detail |
 |---|---|---|
-| jUvpq831Gjc | ✗ will be redone (try 2) | 22 lines missing |
-| QBHQwdHLg7M | ✗ will be redone (try 1) | 2 lines missing |
-| B40fco4kwuo | ✗ will be redone (try 1) | 5 lines missing |
-| CM-id2qn9Uk | ✗ will be redone (try 2) | 37 lines missing |
-| JnI74lxJVCQ | ✗ will be redone (try 1) | 5 lines missing |
-| 5QrKeNCEleY | ✗ will be redone (try 2) | 2 lines missing |
-| 1WPDlC-F1Vw | ✗ will be redone (try 2) | 9 lines missing |
-| FmM8o31AzOc | waiting | 15/16 parts |
-| Ic8lOSB_FHg | ✗ will be redone (try 1) | 16 lines missing |
-| zz3J06SPFt0 | ✗ will be redone (try 1) | line 240 twice |
-| gpTawZWgjJk | ✗ will be redone (try 1) | line 680 twice |
-| bOymIv5HHlw | ✗ will be redone (try 1) | 9 lines missing |
+| jUvpq831Gjc | waiting | 16/17 parts |
+| QBHQwdHLg7M | ✗ will be redone (try 2) | line 560 twice |
+| B40fco4kwuo | waiting | 30/31 parts |
+| CM-id2qn9Uk | waiting | 13/14 parts |
+| JnI74lxJVCQ | waiting | 17/18 parts |
+| 5QrKeNCEleY | skipped after 3 tries | 7 lines missing |
+| 1WPDlC-F1Vw | waiting | 17/19 parts |
+| FmM8o31AzOc | ✗ will be redone (try 1) | 15 lines missing |
+| Ic8lOSB_FHg | waiting | 16/18 parts |
+| zz3J06SPFt0 | waiting | 29/31 parts |
+| gpTawZWgjJk | waiting | 33/34 parts |
+| bOymIv5HHlw | ✗ will be redone (try 2) | line 80 twice |
