@@ -147,8 +147,8 @@
  "tries": {
   "S-AukDqDlBM": 1,
   "u5SM0ssx5cQ": 2,
-  "uGIBJxpGawI": 1,
-  "vNB90wpYJ-U": 2
+  "uGIBJxpGawI": 2,
+  "vNB90wpYJ-U": 3
  },
  "done": [
   "rL6D7gu7G_Q",
@@ -159,5 +159,7 @@
   "K4CLn1T7-_E",
   "nZoRmybCFtA"
  ],
- "skipped": []
+ "skipped": [
+  "vNB90wpYJ-U"
+ ]
 }
