@@ -2,7 +2,7 @@
  "name": "lane8-015",
  "lane": 8,
  "created": "2026-10-30T16:49:01.454Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "zPIWUPkIqqI",
@@ -75,7 +75,7 @@
  "tries": {
   "EtB_bNOMReA": 3,
   "VIm5LoRD96Y": 2,
-  "7V_UQtK_9nU": 2
+  "7V_UQtK_9nU": 3
  },
  "done": [
   "zPIWUPkIqqI",
@@ -83,6 +83,7 @@
   "VIm5LoRD96Y"
  ],
  "skipped": [
-  "EtB_bNOMReA"
+  "EtB_bNOMReA",
+  "7V_UQtK_9nU"
  ]
 }
