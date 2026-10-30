@@ -1,0 +1,63 @@
+videoId: HfwbhMoiUdY
+parte 3 de 3 · traduzir as linhas 240 a 278 (39 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Tzon barzel e ribit com não judeus – Bava Metzia 5:6
+RESUMO: A aula comenta a Mishná de Bava Metzia 5:6, que proíbe receber tzon barzel de um judeu por ser ribit, mas permite com não judeus. O rabino explica o conceito de tzon barzel a partir dos nichsei tzon barzel da ketubá: quem recebe assume a responsabilidade pelo valor fixado, e o dono fica com lucro sem risco. Ele liga isso ao heter iska dos bancos: se o tomador não arca com parte da perda, não há sociedade de verdade, e muitos poseKim questionam esses heteirim. Pelo Bartenura, a Mishná traz o caso dos judeus só por causa da parte final, que permite emprestar e tomar emprestado com ribit de não judeus e de ger toshav. Sobre a gezerá de que emprestar a não judeus levaria a aprender com seus atos, ele diz que ela vale em parte, é permitida para sustento e para talmid chacham, e foi anulada para a maioria dos poseKim. Por fim, o rabino trata do caso do judeu que repassa a outro judeu o dinheiro tomado de um não judeu: é permitido se o não judeu mandou entregar na sua presença, e proibido se o primeiro judeu continua responsável.
+MOMENTOS: 00:05 Leitura da Mishná: tzon barzel e ribit · 00:30 O que é tzon barzel: nichsei tzon barzel da ketubá · 01:51 O caso da Mishná: gado entregue com responsabilidade total · 02:55 Por que é ribit: lucro sem participar das perdas · 03:39 Críticas ao heter iska dos bancos · 08:22 Perda sem negligência: metade é empréstimo, metade depósito · 09:49 Bartenura e a questão de não judeus na parte final · 11:52 Ribit com não judeus e ger toshav · 12:31 Gezerá de aprender com os atos e sua anulação · 15:26 Judeu que repassa a outro judeu o dinheiro do não judeu · 17:12 Permitido se o não judeu mandou entregar na sua presença · 18:24 Proibido se o não judeu não estava presente
+FONTES CITADAS: 00:05 Mishná Bava Metzia 5:6 · 00:39 Ketubá, nichsei tzon barzel (Mishná Ketubot 6:3) · 03:22 Heter iska (Shulchan Arukh, Yoreh Deá 177) · 08:30 Shomer sachar (Mishná Bava Metzia 7:8) · 09:49 Bartenura em Bava Metzia 5:6 · 10:42 Mishná Bava Metzia 5:4 · 11:04 Bartenura em Bava Metzia 5:6 · 12:02 Ger toshav (Avodá Zará 64b) · 12:31 Gemará Bava Metzia 71a · 13:21 Shulchan Arukh, Yoreh Deá 159:1 · 14:47 Opinião do Rav Moshe Levi · 15:26 Mishná Bava Metzia 5:6 · 15:35 Bartenura em Bava Metzia 5:6 · 16:38 Bartenura em Bava Metzia 5:6 · 18:24 Bartenura em Bava Metzia 5:6 · 18:52 Regra das leis de ribit · 19:36 Tehilim 89:53
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|16:26|זה כסף של הגוי, אתה אומר.
+229|16:27|אז תן לי את הכסף הזה, ואני אמשיך להעלות אותו
+230|16:32|שיעור של ריבית כמו שאתה היית מעלה לו.
+231|16:37|אז פה יש חילוק.
+232|16:38|אומר הברטנורה, אם העמידו אצל עכו"ם, אף על פי שישראל נותנם לו
+233|16:44|במצוות העכו"ם, מותר.
+234|16:47|ואם לא העמידו אצל העכו"ם, עשו.
+235|16:49|זאת אומרת, אם הישראל יגיד לו, אין שום בעיה, בוא איתי לגוי.
+236|16:54|עומדים אצל הגוי, ואני אגיד לו, תשמע.
+237|16:56|זה חבר שלי.
+238|16:58|והוא רוצה את הכסף, אני באתי לפרוע לך עכשיו.
+239|17:02|הוא רוצה את הכסף, הוא מוכן להעלות ריבית כמו שאני העליתי לך.
+
+LINHAS A TRADUZIR:
+240|17:06|הוא אומר לו, הגוי, תן לו.
+241|17:09|אז באופן כזה זה מותר, אפילו שזה עובר מיד ישראל ליד ישראל.
+242|17:12|מכיוון שזה ממצוות הגוי, והוא אמר לי, תן לו.
+243|17:16|מה הוא בעצם אמר בזה?
+244|17:18|הוא אמר בזה, תן לו ויפתח.
+245|17:21|ברגע שאתה נתת לו, במצוותי, זה כאילו שאתה נתת לי.
+246|17:27|מכאן ואילך, אין לך אחריות על הכסף.
+247|17:31|הדין ודברים זה בין הגוי לבין הישראל השני.
+248|17:34|ולכן בקהאי גוונה, אין בזה שום חשש.
+249|17:39|כי אם עכשיו הישראל השני יחזיר, לא יחזיר וכולי, זה לא עסק של הישראל הראשון.
+250|17:45|באופן כזה, עכשיו אפילו זה יצבור ריבית, יגיע עכשיו ל-1500 שקל.
+251|17:52|והישראל השני יבוא לישראל הראשון ויגיד לו, תשמע, זהו, ברוך השם, הסתדרתי, הנה זה הגיע לריבית
+252|17:57|של 1,500 שקל, קח את הכסף, תיתן לגוי.
+253|18:04|אתה מכיר אותו, אני לא מכיר אותו.
+254|18:08|ועכשיו הישראל השני יביא לישראל הראשון את ה-1,500 שקל ביד, והישראל הראשון ילך לגוי וייתן לו
+255|18:13|את זה.
+256|18:14|מותר.
+257|18:16|אין בזה חשש.
+258|18:17|הוא רק שליח בעלמא.
+259|18:19|זאת אומרת, הוא רק מעביר את הכסף, זה לא...
+260|18:22|אין פה שום אחריות.
+261|18:24|אומר הברטנורה, ואם לא העמידו אצל הגוי, אסור.
+262|18:27|אבל אם הישראל הראשון אומר לישראל השני, אין בעיה, קח
+263|18:33|את הכסף.
+264|18:34|וזה לא היה בנוכחות הגוי, והגוי לא אמר לו, תן לו.
+265|18:37|אז באופן כזה זה יהיה אסור.
+266|18:39|למה זה יהיה אסור?
+267|18:40|מכיוון שוודאי האחריות היא עדיין על הישראל הראשון.
+268|18:43|אם ההלוואה הזאת לא תיפרע, הגוי לא יבוא לישראל השני, הוא יבוא לישראל הראשון.
+269|18:49|מי אמר לך לתת לו?
+270|18:52|בהלכות ריבית יש כלל גדול, מי שאחראי על הכסף הוא הלווה.
+271|18:58|ולכן באופן כזה שהוא יבוא לישראל הראשון, בעצם זיקת ההלוואה זה בין הישראל לישראל.
+272|19:04|זאת אומרת, בסופו של דבר, הגוי הוא מתמודד מול הישראל הראשון.
+273|19:09|איי, אבל היה פה עכשיו עוד הלוואה, שזה צוואר מ-1200 ל-1500.
+274|19:15|וכאיי גבנא זה נחשב עכשיו הלוואה בין ישראל לישראל בריבית.
+275|19:21|ולכן יש בזה יישום.
+276|19:25|אומר הברטנורה, ואם לא ימידו אצל עכו מסור, דאו ניהו דקמוזיף לבריבית.
+277|19:31|שהרי הוא זה שעכשיו מלווה לו בריבית.
+278|19:36|ברוך אדוני לעולם, אמן ואמן.

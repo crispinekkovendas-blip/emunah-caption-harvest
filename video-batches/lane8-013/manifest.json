@@ -1,0 +1,49 @@
+{
+ "name": "lane8-013",
+ "lane": 8,
+ "created": "2026-10-30T02:56:28.097Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "HfwbhMoiUdY",
+   "title": "Tzon barzel e ribit com não judeus – Bava Metzia 5:6",
+   "lines": 279,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "IGxVS2HlkEU",
+   "title": "Yitzchak: o riso futuro de Israel e o último a rir",
+   "lines": 864,
+   "parts": 8,
+   "from": "recente"
+  },
+  {
+   "id": "FrPzivi15uQ",
+   "title": "Modê Ani, netilat yadáyim e Asher Yatsar na oração",
+   "lines": 799,
+   "parts": 7,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "HfwbhMoiUdY.p0",
+  "HfwbhMoiUdY.p1",
+  "HfwbhMoiUdY.p2",
+  "IGxVS2HlkEU.p0",
+  "IGxVS2HlkEU.p1",
+  "IGxVS2HlkEU.p2",
+  "IGxVS2HlkEU.p3",
+  "IGxVS2HlkEU.p4",
+  "IGxVS2HlkEU.p5",
+  "IGxVS2HlkEU.p6",
+  "IGxVS2HlkEU.p7",
+  "FrPzivi15uQ.p0",
+  "FrPzivi15uQ.p1",
+  "FrPzivi15uQ.p2",
+  "FrPzivi15uQ.p3",
+  "FrPzivi15uQ.p4",
+  "FrPzivi15uQ.p5",
+  "FrPzivi15uQ.p6"
+ ]
+}
