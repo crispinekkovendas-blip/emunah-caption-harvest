@@ -1,0 +1,120 @@
+840	Gamliel the Elder: any earthenware vessel that has no interior has no back	Gamliel, o Ancião: todo vaso de barro que não tem interior não tem parte de trás
+841	that can be set apart. That is, it can't have a different law	que se possa separar. Ou seja, não pode ter uma lei diferente
+842	from its inside.	da do seu interior.
+843	We don't say that if its back became impure, only the back is impure and the inside is pure.	Não dizemos que, se a parte de trás se impurificou, só ela é impura e o interior é puro.
+844	An earthenware vessel only becomes impure	O vaso de barro só se torna impuro
+845	from the inside.	pelo interior.
+846	From the outside it doesn't look impure.	Por fora ele não parece impuro.
+847	How is it written in the Torah?	Como está escrito na Torá?
+848	"Into which any of them falls, into its interior." Good.	"Tudo o que cair dentro dele, em seu interior." Muito bem.
+849	Does it have to have an interior?	Precisa ter interior?
+850	Yes.	Sim.
+851	So if it has no interior, there is no such law.	Então, se não tem interior, não há essa lei.
+852	If it has an interior, then it receives impurity, so what...	Se tem interior, então recebe impureza, então o que...
+853	The outside also becomes impure.	O exterior também se impurifica.
+854	That is if it has no interior.	Isso é se não tem interior.
+855	If it has an interior, all of it is impure.	Se tem interior, tudo é impuro.
+856	So all of it is impure.	Então tudo é impuro.
+857	The outside also becomes impure.	O exterior também se impurifica.
+858	The impurity penetrates.	A impureza penetra.
+859	Penetrates? What penetrates?	Penetra? Que penetra?
+860	What, if it has an interior, why does it make impure up to the sky?	Como assim, se tem interior, por que impurifica até o céu?
+861	I didn't say it makes impure up to the sky; I said all of it becomes impure, even its outer parts.	Não disse que impurifica até o céu; disse que tudo se torna impuro, até as partes de fora.
+862	It received impurity from here, so they declare it impure, but I...	Recebeu impureza daqui, então o declaram impuro, mas eu...
+863	It makes impure up to the sky.	Impurifica até o céu.
+864	As we learned: this is the testimony of Chizkiya Avi Ikesh before Rabban Gamliel in Yavne.	Como aprendemos: este é o testemunho de Chizkiya Avi Ikesh diante de Rabban Gamliel em Yavne.
+865	He said in the name of Rabban Gamliel: any earthenware vessel that has no interior,	Disse em nome de Rabban Gamliel: todo vaso de barro que não tem interior,
+866	has no back to be set apart from the law of its interior.	não tem parte de trás que se separe da lei do seu interior.
+867	So the law of an earthenware vessel is that it becomes impure from the inside and not from the back, so if	Então a lei do vaso de barro é que ele se impurifica pelo interior e não pelas costas; assim, se
+868	impurity touched its back, it is pure. So he says:	a impureza tocou as costas, ele é puro. Então ele diz:
+869	We don't say that if its back became impure, only the back is impure and the inside is pure, rather	Não dizemos que, se as costas se impurificaram, só elas são impuras e o interior é puro, mas sim
+870	if its interior became impure — "its interior" meaning that its interior became impure —	se o interior se impurificou — "interior" quer dizer que o interior se impurificou —
+871	the side one normally uses is called its interior; its back became impure, but it's treated as	o lado que se costuma usar chama-se interior; as costas se impurificaram, mas é tratado como
+872	its back.	as costas.
+873	Its interior did not become impure.	O interior não se impurificou.
+874	Its interior became impure.	O interior se impurificou.
+875	Ah, that is what he is saying to him.	Ah, é isso que ele está dizendo a ele.
+876	How can you say that?	Como você diz isso?
+877	How can you say an earthenware vessel receives impurity if it has no interior?	Como você diz que um vaso de barro recebe impureza se não tem interior?
+878	But you are asking: for an earthenware vessel, the Merciful One made it depend on its interior,	Mas você pergunta: no vaso de barro, o Misericordioso fez depender do interior,
+879	"and any earthenware vessel into which any of them falls."	"e todo vaso de barro dentro do qual cair algum deles."
+880	What?	O quê?
+881	"Into" — "into its interior."	"Dentro" — "em seu interior."
+882	I told you at the start: if it became impure inside, only then is the vessel impure; if it did not become impure	Eu lhe disse no começo: se ficou impuro por dentro, só então o vaso é impuro; se não ficou impuro
+883	inside, then outside, it is not impure.	por dentro, então por fora ele não é impuro.
+884	That is, if it has no [separate part], it has a side that is used and a side that is not used.	Ou seja, se não tem [divisão], tem um lado que se usa e um lado que não se usa.
+885	If it fell on the side that is used, it received impurity.	Se caiu no lado que se usa, recebeu impureza.
+886	If it fell on its back, it is also impure.	Se caiu nas costas, também é impuro.
+887	But how?	Mas como?
+888	Doesn't an earthenware vessel become impure only from its inside?	O vaso de barro não se impurifica só pelo interior?
+889	Where did you get that from?	De onde você tirou isso?
+890	Rabbi Yitzchak said — the Gemara answers — Rabbi Yitzchak bar Avin	Disse Rabi Yitzchak — responde a Guemará — Rabi Yitzchak bar Avin
+891	said: any earthenware vessel that has no interior, its counterpart among washable	disse: todo vaso de barro que não tem interior, o seu equivalente entre os vasos
+892	vessels has no back to be set apart; if its interior	laváveis não tem costas a separar; se o interior
+893	became impure, its back is impure; if its back became impure, its interior too. Any	se impurificou, as costas são impuras; se as costas se impurificaram, o interior também. Todo
+894	vessel with no interior among earthenware — from this we learn — its counterpart	vaso sem interior entre os de barro — daqui aprendemos — o seu equivalente
+895	among earthenware vessels.	entre os vasos de barro.
+896	A washable vessel: a wooden vessel, a wooden vessel is rinsed in water.	Vaso lavável: vaso de madeira, o vaso de madeira é enxaguado em água.
+897	No — also a metal vessel?	Não — também o vaso de metal?
+898	Not this one.	Esse não.
+899	It is scoured and rinsed in water.	Ele é esfregado e enxaguado em água.
+900	Any earthenware vessel with no interior, its counterpart among washable vessels has no back to be set apart.	Todo vaso de barro sem interior, o seu equivalente entre os vasos laváveis não tem costas que se separem.
+901	It has no backs to distinguish between them.	Não tem costas para distinguir entre elas.
+902	Just as its interior became impure, its back became impure.	Assim como o interior se impurificou, as costas se impurificaram.
+903	Its back impure, its interior impure.	Costas impuras, interior impuro.
+904	So the questioner says: fine, just say that a washable vessel became impure — wherever	Então o questionador diz: bom, diga simplesmente que o vaso lavável se impurificou — onde quer que
+905	it touched it, there it became impure?	tenha tocado, ali ficou impuro?
+906	Inside, outside.	Dentro, fora.
+907	Why do you need to compare it to an earthenware vessel?	Por que você precisa compará-lo a um vaso de barro?
+908	With a washable vessel?	No vaso lavável?
+909	Why hang it on earthenware?	Por que apoiá-lo no vaso de barro?
+910	The washable vessel — why should I hang it on earthenware?	O vaso lavável — por que eu o apoiaria no vaso de barro?
+911	Let it say: any washable vessel with no interior has no backs to be set apart?	Que diga: todo vaso lavável sem interior não tem costas a separar?
+912	If it has none, all of it is impure, wherever it touched, it touched here.	Se não tem, tudo é impuro, onde quer que tenha tocado, tocou aqui.
+913	It comes only to teach us that if it has an interior, it is like an earthenware vessel.	Vem apenas nos ensinar que, se tem interior, é como um vaso de barro.
+914	Huh?	Hã?
+915	If it has an interior, it is not like earthenware.	Se tem interior, não é como o barro.
+916	What of earthenware?	O que é o barro?
+917	If its interior became impure, its back became impure; if its back became impure,	Se o interior se impurificou, as costas se impurificaram; se as costas se impurificaram,
+918	its interior did not — so one must say about a washable vessel: interior impure, back impure;	o interior não — assim é preciso dizer do vaso lavável: interior impuro, costas impuras;
+919	back impure, interior not impure.	costas impuras, interior não impuro.
+920	Wherever you touched what?	Onde quer que se tenha tocado, o quê?
+921	That is not exact, right?	Isso não é exato, certo?
+922	So once again, the colleague says.	Então, mais uma vez, diz o colega.
+923	So why do I say it? Only that if it has an interior, it is like an earthenware vessel.	Então por que eu digo isso? Apenas que, se tem interior, é como um vaso de barro.
+924	What of earthenware: its interior became impure?	E o barro: o interior se impurificou?
+925	Its back became impure.	As costas se impurificaram.
+926	Its back became impure, its interior did not.	As costas se impurificaram, o interior não.
+927	Its back became impure, its interior did not.	As costas se impurificaram, o interior não.
+928	That is, if its interior became impure, its back became impure too.	Ou seja, se o interior se impurificou, as costas também.
+929	But if its back became impure, its interior did not.	Mas se as costas se impurificaram, o interior não.
+930	Also a washable vessel.	Também o vaso lavável.
+931	Also a washable vessel.	Também o vaso lavável.
+932	Its interior impure, its back impure.	Interior impuro, costas impuras.
+933	Its interior not impure, its back impure, its interior not impure.	Interior não impuro, costas impuras, interior não impuro.
+934	Why earthenware, then?	Por que então o barro?
+935	Because the Merciful One revealed "its interior": "any earthenware vessel into which any of them falls, into its interior."	Porque o Misericordioso revelou "o interior": "todo vaso de barro dentro do qual cair algum deles, em seu interior."
+936	Why doesn't an earthenware vessel receive impurity from its back? Because the Torah revealed, "into which any of them falls,	Por que o vaso de barro não recebe impureza pelas costas? Porque a Torá revelou: "dentro do qual cair algum deles,
+937	into its interior." But for a washable vessel, did the Merciful One reveal "its interior"?	em seu interior." Mas no vaso lavável, o Misericordioso revelou "o interior"?
+938	So that one would say it does not receive impurity from its back?	Para que se dissesse que não recebe impureza pelas costas?
+939	Then it is not like earthenware. The Gemara continues and concludes:	Então não é como o barro. A Guemará continua e conclui:
+940	With impurity by Torah law, indeed so: if its back became impure, its interior became impure.	Na impureza da Torá é assim mesmo: se as costas se impurificaram, o interior se impurificou.
+941	And it truly did not need to teach us about a washable vessel that has no interior.	E de fato não precisava nos ensinar sobre um vaso lavável que não tem interior.
+942	If it has no interior, it has no backs to be set apart.	Se não tem interior, não tem costas a separar.
+943	But then, a washable vessel that has an interior, its	Mas então, um vaso lavável que tem interior, suas
+944	back became impure.	costas se impurificaram.
+945	Its back, and its interior did not become impure.	As costas, e o interior não se impurificou.
+946	And what are we dealing with?	E de que tratamos?
+947	With the impurity of liquids.	Da impureza dos líquidos.
+948	That is, rabbinic.	Ou seja, rabínica.
+949	The impurity of liquids is rabbinic: where impure liquids touched it, which cast rabbinic impurity,	A impureza dos líquidos é rabínica: onde tocaram líquidos impuros, que lançam impureza rabínica,
+950	liquids.	líquidos.
+951	As we learned: if its outside became impure, by liquids its outside is impure.	Como aprendemos: se o exterior se impurificou, por líquidos o exterior é impuro.
+952	But its interior, its rim, its lip, its ear — a round handle by which one holds	Mas o interior, a borda, o lábio, a alça — uma alça redonda pela qual se segura
+953	the barrel, and its handles, the grip — all of these are pure.	o barril, e suas asas, o ponto de pega — tudo isso é puro.
+954	If its interior became impure, all of it is impure.	Se o interior se impurificou, tudo é impuro.
+955	Now the Gemara explains.	Agora a Guemará explica.
+956	For by Torah law, food does not make it impure and a liquid does not make it impure.	Pois pela Torá, nem o alimento nem o líquido o impurificam.
+957	Why? A vessel receives impurity only from an av hatumah; liquids are a derivative of impurity, so it does not	Por quê? O vaso só recebe impureza de um av hatumá; os líquidos são derivados da impureza, então não
+958	receive it from the Torah, and the Rabbis decreed it.	a recebe pela Torá, e os Sábios decretaram.
+959	Why?	Por quê?
