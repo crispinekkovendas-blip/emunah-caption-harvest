@@ -1,0 +1,48 @@
+1120	sit, how to walk, how to speak. You stop hanging around with your friends from the past, it doesn't suit your level.	sentar, como andar, como falar. Você para de andar com as amigas do passado, isso não combina com o seu nível.
+1121	You become a queen, you represent me.	Você se torna rainha, você me representa.
+1122	You don't dress like before, all kinds of rags and revealing clothes. You need to start dressing the way you should.	Você não se veste como antes, com trapos e roupas reveladoras. Precisa começar a se vestir como deve.
+1123	Are you ready? If you're ready, I'll take you to my palace.	Está pronta? Se estiver pronta, eu te levo ao meu palácio.
+1124	I'll protect you, give you royal garments, you'll get bodyguards, and I'll protect you from all your former friends.	Eu vou te proteger, te dar roupas reais, você terá guarda-costas, e eu te protegerei de todas as suas ex-amigas.
+1125	She said to him: I understood everything except the last sentence. Why protect me from former friends? They are my friends.	Ela disse a ele: entendi tudo, exceto a última frase. Por que me proteger das ex-amigas? Elas são minhas amigas.
+1126	He said to her: Today they are your friends, but the moment you rise	Ele disse: hoje elas são suas amigas, mas no momento em que você subir
+1127	and become great, envy brings about hatred. Suddenly they will see that you were low,	e se engrandecer, a inveja leva ao ódio. De repente verão que você era humilde,
+1128	and "where did you get to?", they will start to hound you. But don't worry, as long as you are with me, I protect you. Are you ready?	e "aonde você chegou?", começarão a te perseguir. Mas não se preocupe, enquanto você estiver comigo, eu te protejo. Está pronta?
+1120	sit, how to walk, how to speak. You stop	sentar, como andar, como falar. Você para de
+1121	hanging around with friends from the past, it doesn't suit your level.	andar com as amigas do passado, não combina com o seu nível.
+1122	You become a queen, you represent me.	Você se torna rainha, você me representa.
+1123	You don't dress like before, all kinds of rags and	Você não se veste como antes, com todo tipo de trapos e
+1124	revealing clothes. You need to start dressing the way	roupas reveladoras. Precisa começar a se vestir como
+1125	you should. Are you	deve. Você está
+1126	ready? If you're ready, I'll take you to my	pronta? Se estiver pronta, eu te levo ao meu
+1127	palace. I'll protect you, I'll give you royal garments, you'll get	palácio. Vou te proteger, te darei roupas reais, você terá
+1128	bodyguards,	guarda-costas,
+1129	and I'll protect you from all your former friends.	e eu te protegerei de todas as suas ex-amigas.
+1130	She said to him: I understood everything except the last sentence. Protect me from	Ela disse a ele: entendi tudo, exceto a última frase. Me proteger das
+1131	former friends? They are my friends.	ex-amigas? Elas são minhas amigas.
+1132	He said to her: Today they are friends, but the moment you rise	Ele disse: hoje são amigas, mas no momento em que você subir
+1133	and become great, envy leads to hatred. Suddenly	e se engrandecer, a inveja leva ao ódio. De repente
+1134	they will see that you were lowly, and "where have you got to?"	verão que você era humilde, e "aonde foi que você chegou?"
+1135	They will start to hound you. But don't worry, as long as you	Vão começar a te perseguir. Mas não se preocupe, enquanto você
+1136	are with me, I protect you. Are you ready? She agreed. They signed	estiver comigo, eu te protejo. Está pronta? Ela concordou. Assinaram
+1137	an agreement between them. Chuppah and kiddushin in great splendor and glory,	um acordo entre eles. Chupá e kidushin com grande pompa e esplendor,
+1138	as befits King Shlomo. For a few years everything worked excellently.	como convém ao Rei Shlomo. Por alguns anos tudo funcionou muito bem.
+1139	After a few years it reaches the ear of	Depois de alguns anos chega aos ouvidos do
+1140	the king that the queen apparently misses a little the days of	rei que a rainha, ao que parece, sente um pouco de saudade dos dias de
+1141	the past. She sneaks out at night	outrora. Ela escapa à noite
+1142	from the palace, wanders the streets with her friends of old,	do palácio, anda pelas ruas com as amigas de antigamente,
+1143	sits on the benches, cracking	senta nos bancos, quebrando
+1144	sunflower seeds, going back to being what she was	sementes, voltando a ser o que era
+1145	before. The king speaks with her, nothing helps. He sent	antes. O rei fala com ela, nada adianta. Enviou
+1146	messengers to her to talk with her. She doesn't	mensageiros a ela para conversar. Ela não
+1147	heed the threats. "There is an agreement between us: if one party	dá atenção às ameaças. "Há um acordo entre nós: se uma parte
+1148	violates the agreement, I too will not... I will stand by the agreement." He saw there was no choice, he drove her out of the palace.	violar o acordo, eu também não... eu cumpro o acordo." Viu que não havia escolha, a expulsou do palácio.
+1149	As much as he loves her, he sent her away from the palace.	Por mais que a ame, a mandou embora do palácio.
+1150	She is still his wife, but he removed her from the palace.	Ela ainda é sua esposa, mas ele a tirou do palácio.
+1151	Where does she have to go? To her friends. They are used to seeing	Para onde ela vai? Para as amigas. Elas estavam acostumadas a ver
+1152	her come with bodyguards, they see she came alone:	ela chegar com guarda-costas, veem que veio sozinha:
+1153	where are the bodyguards? She lowers her eyes: the king	cadê os guarda-costas? Ela baixa os olhos: o rei
+1154	threw me out of the palace. As soon as they heard the king sent her away,	me expulsou do palácio. Assim que souberam que o rei a mandou embora,
+1155	they pounced on her with contempt: "Who did you think you were,	lançaram-se sobre ela com desprezo: "Quem você pensava que era,
+1156	that you're a queen? Look who you even are!" And they beat her	para ser rainha? Veja quem você é!" E a espancam
+1157	and she is in debt to them. Now she has neither this nor	e ela lhes deve. Agora não tem nem isto nem
+1158	that. What will she do?	aquilo. O que ela vai fazer?
