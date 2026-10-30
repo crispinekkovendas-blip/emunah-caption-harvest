@@ -1,0 +1,75 @@
+{
+ "name": "lane8-015",
+ "lane": 8,
+ "created": "2026-10-30T16:49:01.454Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "zPIWUPkIqqI",
+   "title": "Oitsrot Chaim: o Kav, o canal e o lugar vazio entre os mundos",
+   "lines": 917,
+   "parts": 8,
+   "from": "recente"
+  },
+  {
+   "id": "Y7rTY2ShDB4",
+   "title": "Parashá Noach: do dilúvio a Avraham e a Haftará",
+   "lines": 245,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "EtB_bNOMReA",
+   "title": "Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot",
+   "lines": 841,
+   "parts": 8,
+   "from": "recente"
+  },
+  {
+   "id": "VIm5LoRD96Y",
+   "title": "Yom Kipur, Sucot e o equilíbrio entre os dois mundos",
+   "lines": 495,
+   "parts": 5,
+   "from": "recente"
+  },
+  {
+   "id": "7V_UQtK_9nU",
+   "title": "A bênção como caminho de volta à essência (Zohar, Ekev)",
+   "lines": 603,
+   "parts": 6,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "zPIWUPkIqqI.p0",
+  "zPIWUPkIqqI.p1",
+  "zPIWUPkIqqI.p2",
+  "zPIWUPkIqqI.p3",
+  "zPIWUPkIqqI.p4",
+  "zPIWUPkIqqI.p5",
+  "zPIWUPkIqqI.p6",
+  "zPIWUPkIqqI.p7",
+  "Y7rTY2ShDB4.p0",
+  "Y7rTY2ShDB4.p1",
+  "Y7rTY2ShDB4.p2",
+  "EtB_bNOMReA.p0",
+  "EtB_bNOMReA.p1",
+  "EtB_bNOMReA.p2",
+  "EtB_bNOMReA.p3",
+  "EtB_bNOMReA.p4",
+  "EtB_bNOMReA.p5",
+  "EtB_bNOMReA.p6",
+  "EtB_bNOMReA.p7",
+  "VIm5LoRD96Y.p0",
+  "VIm5LoRD96Y.p1",
+  "VIm5LoRD96Y.p2",
+  "VIm5LoRD96Y.p3",
+  "VIm5LoRD96Y.p4",
+  "7V_UQtK_9nU.p0",
+  "7V_UQtK_9nU.p1",
+  "7V_UQtK_9nU.p2",
+  "7V_UQtK_9nU.p3",
+  "7V_UQtK_9nU.p4",
+  "7V_UQtK_9nU.p5"
+ ]
+}
