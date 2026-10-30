@@ -1,21 +1,21 @@
 # lane1-015
 
-0 of 17 lessons published · 0 skipped · status **pending**
-Tokens (0 agent runs with a record): 0.0M in (mostly cache) · 0.00M out
+1 of 17 lessons published · 0 skipped · status **pending**
+Tokens (250 agent runs with a record): 1.3M in (mostly cache) · 0.66M out · API-equivalent 10.81
 
 | lesson | state | detail |
 |---|---|---|
-| wjzKeAlQvb0 | waiting | 0/19 parts |
-| SCmj-C56Ceg | waiting | 0/14 parts |
-| urybg2p-a9A | waiting | 0/15 parts |
-| cMbldte2ylU | waiting | 0/48 parts |
-| jCYyOjsYTfc | waiting | 0/16 parts |
-| 8hwOnWomSk0 | waiting | 0/16 parts |
-| cAwEm5p_PIc | waiting | 0/19 parts |
-| AuZXEyBmVuc | waiting | 0/23 parts |
-| THaiO0_J5gk | waiting | 0/45 parts |
-| v1CV2YJBZIw | waiting | 0/16 parts |
-| -glyjn4lTB4 | waiting | 0/29 parts |
+| wjzKeAlQvb0 | waiting | 18/19 parts |
+| SCmj-C56Ceg | ✗ will be redone (try 1) | 8 lines missing |
+| urybg2p-a9A | ✗ will be redone (try 1) | 8 lines missing |
+| cMbldte2ylU | waiting | 45/48 parts |
+| jCYyOjsYTfc | ✓ published | 604 lines · Beshalach: o tzadik sustenta o lugar e o Mar |
+| 8hwOnWomSk0 | waiting | 15/16 parts |
+| cAwEm5p_PIc | ✗ will be redone (try 1) | 2 lines missing |
+| AuZXEyBmVuc | waiting | 20/23 parts |
+| THaiO0_J5gk | waiting | 41/45 parts |
+| v1CV2YJBZIw | ✗ will be redone (try 1) | 11 lines missing |
+| -glyjn4lTB4 | waiting | 18/29 parts |
 | fnQ3lAZJB5g | waiting | 0/50 parts |
 | p0ZV7rOZor4 | waiting | 0/27 parts |
 | eOpb1IF2d6I | waiting | 0/30 parts |
