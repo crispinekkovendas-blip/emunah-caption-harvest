@@ -162,16 +162,20 @@
   "2x7Votl8LVM": 2,
   "ZnuJgUH_WeE": 2,
   "1XXQHoUga2A": 1,
-  "fugarMbiezI": 2,
+  "fugarMbiezI": 3,
   "3CmKmLuWpMM": 1,
   "p4bT_yL5WdA": 1,
-  "5rnoC6y8Mf8": 1
+  "5rnoC6y8Mf8": 2
  },
  "done": [
   "5FGHR9trujU",
   "V4RLik53vVo",
   "1XXQHoUga2A",
-  "6QZ71wngcNg"
+  "6QZ71wngcNg",
+  "3CmKmLuWpMM",
+  "p4bT_yL5WdA"
  ],
- "skipped": []
+ "skipped": [
+  "fugarMbiezI"
+ ]
 }
