@@ -1,0 +1,120 @@
+120	English: not through negligence, then he doesn't need	Portuguese: sem negligência, então ele não precisa
+121	English: to return it.	Portuguese: devolver.
+122	English: The fifty percent he must bear in the loss is the fifty percent of the loan.	Portuguese: Os cinquenta por cento que ele deve arcar na perda são os cinquenta por cento do empréstimo.
+123	English: The fifty percent of the deposit is their money.	Portuguese: Os cinquenta por cento do depósito são o dinheiro deles.
+124	English: He had the law of a paid guardian over it, and if	Portuguese: Ele tinha o din de um shomer sachar sobre isso, e se
+125	English: he was not negligent in the matter, and he acted in a completely	Portuguese: ele não foi negligente no assunto, e agiu de forma
+126	English: proper way, and there was a loss, he doesn't have to return anything of it to them.	Portuguese: totalmente correta, e houve prejuízo, ele não precisa devolver nada disso a eles.
+127	English: Just like with profits.	Portuguese: Como nos lucros.
+128	English: Just as with profits the basic law is that they split half and half, so too with losses.	Portuguese: Assim como nos lucros, pela lei básica, divide-se meio a meio, o mesmo vale para os prejuízos.
+129	English: Half and half of the total amount.	Portuguese: Meio a meio do valor total.
+130	English: Because it is half loan and half deposit, right?	Portuguese: Porque é metade empréstimo e metade depósito, certo?
+131	English: Afterward they can set percentages between them and so on, as they wish,	Portuguese: Depois eles podem fixar porcentagens entre si e assim por diante, como quiserem,
+132	English: okay?	Portuguese: certo?
+133	English: Excellent.	Portuguese: Excelente.
+134	English: So in short, our Mishnah says: one may not receive tzon barzel from a Jew.	Portuguese: Então, em resumo, nossa Mishná diz: não se recebe tzon barzel de um judeu.
+135	English: You cannot be close to the profit and far from the loss, because it is ribit.	Portuguese: Você não pode estar perto do lucro e longe do prejuízo, porque isso é ribit.
+136	English: Rabbeinu Ovadia of Bartenura says: one may not receive tzon barzel, where all responsibility for the assets is on the receiver,	Portuguese: Rabenu Ovadia de Bartenura diz: não se recebe tzon barzel, em que toda a responsabilidade pelos bens recai sobre o receptor,
+137	English: and they are appraised and placed on him in money, and as long as he does not give him his money,	Portuguese: e eles são avaliados e postos sobre ele em dinheiro, e enquanto ele não entrega o seu dinheiro,
+138	English: they divide the profit.	Portuguese: dividem o lucro.
+139	English: So it cannot be that all the responsibility for the assets is only on the receiver.	Portuguese: Então não pode ser que toda a responsabilidade pelos bens seja só do receptor.
+140	English: The Bartenura says: even though the Tanna already taught this above,	Portuguese: Diz o Bartenura: ainda que o Tana já tenha ensinado isso acima,
+141	English: that one may not set up a shopkeeper even for half the profit,	Portuguese: que não se estabelece um lojista nem por metade do lucro,
+142	English: because he accepts half the loss, all the more so when one accepted	Portuguese: porque ele assume metade do prejuízo, quanto mais quando um assumiu
+143	English: all the responsibility upon himself.	Portuguese: toda a responsabilidade sobre si.
+144	English: We already learned above that one may not set up a shopkeeper even for half the profit.	Portuguese: Já aprendemos acima que não se estabelece um lojista nem por metade do lucro.
+145	English: Because even fifty percent, fifty percent, if you don't pay him for handling your money,	Portuguese: Porque mesmo cinquenta por cento, cinquenta por cento, se você não paga a ele por cuidar do seu dinheiro,
+146	English: it is ribit.	Portuguese: isso é ribit.
+147	English: All the more so if he takes a hundred percent of the responsibility on himself.	Portuguese: Quanto mais se ele assume cem por cento da responsabilidade.
+148	English: So why does the Mishnah need to teach this here?	Portuguese: Então por que a Mishná precisa ensinar isso aqui?
+149	English: Rabbeinu Ovadia of Bartenura says: it mentioned it because of the latter part.	Portuguese: Rabenu Ovadia de Bartenura diz: ela mencionou isso por causa da parte final.
+150	English: The Tanna taught this here because of the latter part of the Mishnah: but one may receive tzon barzel from a non-Jew,	Portuguese: O Tana ensinou isso aqui por causa da parte final da Mishná: mas pode-se receber tzon barzel de um não judeu,
+151	English: that is, from the gentiles.	Portuguese: ou seja, das nações.
+152	English: Because this Mishnah is in fact the first Mishnah that teaches us that it is permitted	Portuguese: Porque esta Mishná é, na verdade, a primeira que nos ensina que é permitido
+153	English: to do business with gentiles with ribit.	Portuguese: negociar com não judeus com ribit.
+154	English: This is our Mishnah.	Portuguese: Esta é a nossa Mishná.
+155	English: Since the Tanna wanted to reach the law of gentiles, he began with the law of a Jew.	Portuguese: Como o Tana queria chegar à lei dos não judeus, começou com a lei do judeu.
+156	English: One may not receive tzon barzel from a Jew because it is ribit, but one may receive tzon barzel	Portuguese: Não se recebe tzon barzel de um judeu porque é ribit, mas recebe-se tzon barzel
+157	English: from a non-Jew.	Portuguese: de um não judeu.
+158	English: By the way, it is known that in all the places where it is written "akum," whether in the Shas or in	Portuguese: A propósito, sabe-se que em todos os lugares onde está escrito "akum", seja no Shas ou nos
+159	English: the Rishonim, it is all censorship, right?	Portuguese: Rishonim, tudo isso é censura, certo?
+160	English: What was originally written was "gentiles."	Portuguese: O que estava escrito originalmente era "gentios".
+161	English: But one may receive tzon barzel from gentiles, and borrow from them and lend to them with ribit.	Portuguese: Mas pode-se receber tzon barzel dos gentios, tomar emprestado deles e emprestar a eles com ribit.
+162	English: It is permitted to take a loan from a gentile with ribit, and it is also permitted to lend to him with ribit.	Portuguese: É permitido tomar um empréstimo de um gentio com ribit, e também é permitido emprestar a ele com ribit.
+163	English: And likewise with a ger toshav.	Portuguese: E o mesmo vale para o ger toshav.
+164	English: Even a ger toshav.	Portuguese: Até o ger toshav.
+165	English: Who is in fact a gentile who accepted upon himself the seven Noahide commandments,	Portuguese: Que é, na verdade, um gentio que aceitou sobre si as sete mitsvot de Noach,
+166	English: and he lives in the Land of Israel.	Portuguese: e vive na Terra de Israel.
+167	English: And if he accepted the seven Noahide commandments, we are commanded to sustain him as well,	Portuguese: E se ele aceitou as sete mitsvot de Noach, somos obrigados a sustentá-lo também,
+168	English: to a certain degree, and to allow him to dwell in the Land.	Portuguese: até certo ponto, e a permitir que ele more na Terra.
+169	English: Because he accepted the seven Noahide commandments.	Portuguese: Porque ele aceitou as sete mitsvot de Noach.
+170	English: So I might have thought that perhaps I may not lend to him with ribit.	Portuguese: Então eu poderia pensar que talvez eu não possa emprestar a ele com ribit.
+171	English: Of course not.	Portuguese: Claro que não.
+172	English: It is permitted to lend and to borrow.	Portuguese: É permitido emprestar e tomar emprestado.
+173	English: From a ger toshav with ribit. It is known that the Gemara says the Sages decreed	Portuguese: de um ger toshav com ribit. Sabe-se que a Guemará diz que os Sábios decretaram
+174	English: not to lend to gentiles with ribit, a rabbinic decree. What is the reason?	Portuguese: não emprestar a gentios com ribit, uma gezerá de rabanan. Qual é o motivo?
+175	English: Lest he learn from their deeds. What does "learn from their deeds" mean? By your beginning to lend to gentiles with ribit,	Portuguese: Para que não aprenda com os atos deles. O que significa "aprender com os atos"? Ao começar a emprestar a gentios com ribit,
+176	English: you start developing it as a business, and then you lend to them with ribit, and many	Portuguese: você começa a desenvolver isso como negócio, e então empresta a eles com ribit, e muitas
+177	English: times they won't pay on time, and so on.	Portuguese: vezes eles não pagam no prazo, e assim por diante.
+178	English: And then you will have to go after them to their village, to the places where they live.	Portuguese: E então você terá que ir atrás deles, na aldeia deles, nos lugares onde moram.
+179	English: You will get there, chasing after them, and in the meantime you can sit	Portuguese: Você chegará lá, correndo atrás deles, e nesse meio tempo pode sentar-se
+180	English: with them and begin to learn from their deeds.	Portuguese: com eles e começar a aprender com os atos deles.
+181	English: Lest he learn from their deeds, and therefore it was prohibited.	Portuguese: Para que não aprenda com os atos deles, e por isso foi proibido.
+182	English: Unless it is for his livelihood.	Portuguese: A não ser que seja para o seu sustento.
+183	English: That is, he has no other way to make a living, and he needs it for the household's food.	Portuguese: Ou seja, ele não tem outro modo de se manter, e precisa disso para o alimento da casa.
+184	English: Then they permitted lending to a gentile with ribit.	Portuguese: Então permitiram emprestar a um gentio com ribit.
+185	English: But if it is in order to profit, no.	Portuguese: Mas se for para lucrar, não.
+186	English: And if it is a talmid chacham, who in any case is immersed and occupied with Torah,	Portuguese: E se for um talmid chacham, que de qualquer modo está imerso e ocupado com a Torá,
+187	English: they permitted a talmid chacham to lend to a gentile with ribit.	Portuguese: permitiram ao talmid chacham emprestar a um gentio com ribit.
+188	English: But an ordinary person, in order to profit and get by, no.	Portuguese: Mas uma pessoa comum, para lucrar e se arranjar, não.
+189	English: By contrast, borrowing from them with ribit, the Sages never decreed against it.	Portuguese: Em contrapartida, tomar emprestado deles com ribit, os Sábios nunca decretaram contra.
+190	English: Since if you are the borrower, on the contrary, you won't go to him, he will come to you.	Portuguese: Pois se você é o tomador, ao contrário, você não vai até ele, ele virá até você.
+191	English: And since you evade him and run away from him, and the opposite, you don't want to be seen around them,	Portuguese: E como você o evita e foge dele, e ao contrário, não quer ser visto no meio deles,
+192	English: therefore it is permitted.	Portuguese: por isso é permitido.
+193	English: Over the generations this decree was annulled.	Portuguese: Ao longo das gerações essa gezerá foi anulada.
+194	English: Why?	Portuguese: Por quê?
+195	English: Because of the exiles, since we live among the gentiles anyway, all our dealings	Portuguese: Por causa dos exílios, já que vivemos entre os gentios de qualquer modo, todos os nossos negócios
+196	English: are with them, and there is no concern here that he will learn from their deeds through a loan with ribit more than from other dealings.	Portuguese: são com eles, e não há aqui receio de que se aprenda com os atos deles por meio de empréstimo com ribit mais do que em outros negócios.
+197	English: So this decree was annulled, as the Rishonim write.	Portuguese: Por isso essa gezerá foi anulada, como escrevem os Rishonim.
+198	English: Now that we live here in the Land of Israel, and thank HaShem in most places	Portuguese: Agora que moramos aqui na Terra de Israel, e graças a HaShem na maioria dos lugares
+199	English: it is still among Jews, there is an opinion that this decree	Portuguese: ainda é entre judeus, há uma opinião de que essa gezerá
+200	English: returned to its place.	Portuguese: voltou ao seu lugar.
+201	English: Not to lend to gentiles with ribit.	Portuguese: Não emprestar a gentios com ribit.
+202	English: That is what Rav Moshe Levi, of blessed memory, wanted to say.	Portuguese: Foi isso que o Rav Moshe Levi, de abençoada memória, quis dizer.
+203	English: But as a practical halachah, he is not right.	Portuguese: Mas na halachá para a prática, ele não tem razão.
+204	English: The great poseKim wrote that once it is rabbinic and was already uprooted from its place,	Portuguese: Os grandes poseKim escreveram que, uma vez que é de rabanan e já foi desarraigada do seu lugar,
+205	English: even though we live here in the Land, in most places among Jews, this decree	Portuguese: mesmo que moremos aqui na Terra, na maioria dos lugares entre judeus, essa gezerá
+206	English: is already void.	Portuguese: já está anulada.
+207	English: And they gave several examples of this in these matters, right?	Portuguese: E deram vários exemplos disso nesses assuntos, certo?
+208	English: That even though...	Portuguese: Que mesmo que...
+209	English: Apparently the decree should have been reinstated, but this decree is already void because it is rabbinic.	Portuguese: Aparentemente a gezerá deveria ser restabelecida, mas essa gezerá já está anulada porque é de rabanan.
+210	English: The Mishnah says: a Jew may lend out a gentile's money with the knowledge of	Portuguese: A Mishná diz: um judeu pode emprestar o dinheiro de um gentio com o conhecimento do
+211	English: the gentile, but not with the knowledge of a Jew.	Portuguese: gentio, mas não com o conhecimento de um judeu.
+212	English: What is being discussed here?	Portuguese: Do que se trata aqui?
+213	English: What is the case?	Portuguese: Qual é o caso?
+214	English: Rabbeinu Ovadia of Bartenura says as follows: "with the gentile's knowledge,"	Portuguese: Rabenu Ovadia de Bartenura diz assim: "com o conhecimento do gentio",
+215	English: such as a Jew who borrowed money from a gentile with ribit, and wanted to return it,	Portuguese: por exemplo, um judeu que tomou dinheiro emprestado de um gentio com ribit e quis devolvê-lo,
+216	English: no.	Portuguese: não.
+217	English: A Jew took a loan with ribit from a gentile, and now comes to repay him; he took a thousand from him, and now wants to repay him	Portuguese: Um judeu tomou um empréstimo com ribit de um gentio, e agora vem pagá-lo; tomou mil dele e agora quer devolver
+218	English: twelve hundred.	Portuguese: mil e duzentos.
+219	English: He found another Jew who said, "Give them to me and I will add for you as you add for him."	Portuguese: Encontrou outro judeu que disse: "Dê-me isso e eu acrescentarei a você como você acrescenta a ele."
+220	English: He says to him, listen, I need a loan; he meets another Jew now, who needs a loan, 1,200	Portuguese: Ele diz: escute, preciso de um empréstimo; ele encontra agora outro judeu, que precisa de um empréstimo, 1.200
+221	English: shekels.	Portuguese: shekalim.
+222	English: I say, yes, listen, but this is not my money, it is the gentile's money that I took from him as a loan.	Portuguese: Eu digo: sim, escute, mas esse dinheiro não é meu, é o dinheiro do gentio que tomei emprestado dele.
+223	English: Here are 1,200 shekels; I took a loan of a thousand from him, and now it has already accrued ribit and reached	Portuguese: Aqui estão 1.200 shekalim; tomei dele um empréstimo de mil, e agora já acumulou ribit e chegou
+224	English: 1,200.	Portuguese: a 1.200.
+225	English: He says to him, how much is the ribit?	Portuguese: Ele pergunta: quanto é a ribit?
+226	English: I tell him such and such per month.	Portuguese: Eu digo: tanto por mês.
+227	English: He says, excellent, give me this money.	Portuguese: Ele diz: ótimo, dê-me esse dinheiro.
+228	English: This is the gentile's money, you say.	Portuguese: É o dinheiro do gentio, você diz.
+229	English: So give me this money, and I will keep adding to it	Portuguese: Então me dê esse dinheiro, e eu continuarei acrescentando
+230	English: the rate of ribit as you would have added for him.	Portuguese: a taxa de ribit como você acrescentaria a ele.
+231	English: So here there is a distinction.	Portuguese: Então aqui há uma distinção.
+232	English: The Bartenura says: if they stood before the gentile, even though the Jew gives it to him	Portuguese: Diz o Bartenura: se eles estiveram diante do gentio, ainda que o judeu o entregue a ele
+233	English: by the gentile's command, it is permitted.	Portuguese: por ordem do gentio, é permitido.
+234	English: And if they did not stand before the gentile, it is prohibited.	Portuguese: E se não estiveram diante do gentio, é proibido.
+235	English: That is, if the Jew says to him, no problem, come with me to the gentile.	Portuguese: Ou seja, se o judeu lhe diz: sem problema, venha comigo até o gentio.
+236	English: We stand before the gentile, and I will tell him, listen.	Portuguese: Ficamos diante do gentio, e eu direi a ele: escute.
+237	English: This is my friend.	Portuguese: Este é meu amigo.
+238	English: And he wants the money; I came to repay you now.	Portuguese: E ele quer o dinheiro; vim pagar você agora.
+239	English: He wants the money, he is willing to add ribit as I added for you.	Portuguese: Ele quer o dinheiro, está disposto a acrescentar ribit como eu acrescentei a você.

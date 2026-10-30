@@ -1,10 +1,10 @@
 # lane8-013
 
-0 of 3 lessons published · 0 skipped · status **pending**
-Tokens (18 agent runs with a record): 0.1M in (mostly cache) · 0.11M out · API-equivalent 1.50
+1 of 3 lessons published · 0 skipped · status **pending**
+Tokens (36 agent runs with a record): 0.3M in (mostly cache) · 0.22M out · API-equivalent 2.62
 
 | lesson | state | detail |
 |---|---|---|
-| HfwbhMoiUdY | ✗ will be redone (try 1) | 2 lines missing |
-| IGxVS2HlkEU | ✗ will be redone (try 1) | 22 lines missing |
-| FrPzivi15uQ | ✗ will be redone (try 1) | 3 lines missing |
+| HfwbhMoiUdY | ✓ published | 279 lines · Tzon barzel e ribit com não judeus – Bava Metzia 5:6 |
+| IGxVS2HlkEU | waiting | 7/8 parts |
+| FrPzivi15uQ | ✗ will be redone (try 2) | 5 lines missing |
