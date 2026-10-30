@@ -1,0 +1,64 @@
+videoId: EtB_bNOMReA
+parte 5 de 22 · traduzir as linhas 160 a 199 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot
+RESUMO: O rabino inicia o capítulo 7 da parte 3 do Talmud Eser HaSefirot, advertindo que Baal HaSulam traz aqui ensinamentos do Arizal que pertencem a etapas posteriores, e que o objetivo é captar o princípio central. Na letra 1 do Or Pnimi, a partir do Arizal citando o Rav Gedaliá HaLevi, ele explica que as dez sefirot de Beriá estão na altura de Biná e que os três primeiros Hagat de Arich Anpin de Beriá, expostos e sem vestimenta, estão ligados ao masach. Na letra 3 ele explica a "bekiá": parte da luz superior ignora o limite do masach e atravessa para baixo sem ajuda da luz de retorno, chamada ponto de Malchut de Malchut do superior — um grande novo ensinamento ao lado da luz de retorno comum. Na letra 4 esse ponto se torna o Tohu (Atik) do Keter de Beriá, de natureza Ein Sof, enquanto os recipientes vêm da luz de retorno e formam o Bohu (Arich). Na letra 2 Baal HaSulam cita o Arizal sobre o Zeir Anpin e a Malchut, inicialmente iguais, e a queixa da lua ("dois reis não usam a mesma coroa"), que a reduziu e a fez descer para Beriá como Atik. O rabino conclui lembrando que a parte 3 é propositalmente cheia de camadas e não segue uma lógica linear.
+MOMENTOS: 00:06 Abertura do capítulo 7 e o fragmento que passa sem luz de retorno · 01:37 Título do capítulo: Malchut de Atzilut torna-se Keter de Beriá · 04:18 Letra 1: Arizal e Rav Gedaliá HaLevi sobre o Hagat de Arich Anpin · 07:14 Or Pnimi: dez sefirot de Beriá na altura de Biná · 11:48 O masach e a vestimenta a partir do Peh do superior · 17:09 Letra 3: o que é a bekiá, o furo do masach · 22:29 Duas distinções no zivug de akaá · 31:19 Letra 4: o ponto vira Tohu e as vestes vêm do Bohu · 42:11 Tohu semelhante a Ein Sof e debate sobre causa e efeito · 47:15 Letra 2: Malchut, Zeir Anpin e a queixa da lua · 51:02 Lashon do Arizal: a lua reduzida desce como ponto · 54:07 Malchut e Zeir Anpin eram iguais, ambos recebiam de Biná · 57:16 Conclusão: a parte 3 e suas camadas
+FONTES CITADAS: 01:37 Baal HaSulam, Talmud Eser HaSefirot, parte 3, capítulo 7 (título) · 04:18 Arizal, citando Rav Gedaliá HaLevi, Talmud Eser HaSefirot parte 3, cap. 7, letra 1 · 05:08 Arizal, cap. 7, letra 1 · 06:12 Arizal, cap. 7, letra 1 · 07:14 Or Pnimi, cap. 7, letra 1 · 09:01 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 4 · 11:23 Arizal, cap. 7, letra 2 (sic, lido como letra 1b) · 17:09 Arizal, cap. 7, letra 3 · 17:14 Or Pnimi, cap. 7, letra 3 · 18:27 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 1, letra 3 · 22:29 Or Pnimi, cap. 7, letra 3 · 23:32 Or Pnimi, cap. 7, letra 3 · 31:19 Arizal, cap. 7, letra 4 · 34:39 Arizal, cap. 7, letra 4 · 48:00 Bereshit 1:16 · 48:21 Bereshit 1:16 · 48:32 Chulin 60b · 48:55 Chulin 60b · 50:39 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, letra 2 · 51:41 Arizal, cap. 7, letra 2 · 52:44 Bava Batra 123a · 53:12 Or Pnimi, cap. 7, letra 2 · 54:30 Or Pnimi, cap. 7, letra 2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+148|12:04|עד לפה של הפרצוף הקודם, או של העולם הקודם.
+149|12:11|העליון.
+150|12:13|עד לפה יש רק פה עליון, פה זה בעליון, פה זה למעלה, זה בפרצוף,
+151|12:19|אוקיי?
+152|12:20|אז התפשט כל העולם אצילות, עכשיו יש לי הזדככות
+153|12:26|מגימל לבית, אבל למעשה המסך מזדכך עד לפה של
+154|12:32|העליון.
+155|12:34|ולכן כל פרצוף חדש שיוצא, הוא יוצא בין
+156|12:39|הראש, בין הפה של העליון, וככה הראש של העליון לפניו נשאר
+157|12:45|מגולה.
+158|12:47|וזה מה שהוא אומר לנו פה.
+159|12:49|את כל הדברים האלה, את כל הדברים האלה כמובן אנחנו נלמד כסדרם
+
+LINHAS A TRADUZIR:
+160|12:55|ואני שוב מזכיר את הכלל בלימוד הזה שבעל הסולם כותב את אור פנימי
+161|13:02|הוא מביא דרושים שנחוצים לו כדי להסביר את מה שהוא הולך ללמד אותנו פה
+162|13:07|בחלק ג' ובכלל אבל הוא גם
+163|13:13|נדבק באור פנימי בניסיון לפרש את האריזל ככה על
+164|13:19|הדרך.
+165|13:20|אחרי כן, כשאנחנו נגיע להסתכלות פנימית, אז אנחנו נקבל את המשנה שלו בצורה הרבה יותר סדורה
+166|13:27|ובהירה.
+167|13:30|אז אתם יכולים לשאול מלא שאלות, אני לא בטוח שיהיה לי תשובות עליהן,
+168|13:36|כי פשוט זה שייך למושגים שאנחנו פשוט לא למדנו אותם.
+169|13:40|אז אני לא, אני אישית לא רואה טעם, אני רואה טעם להמשיך לאות ג', אבל
+170|13:46|בואו תשאלו.
+171|13:48|כבוד הרב, רק שאלה קטנה.
+172|13:49|כן.
+173|13:50|העניין הזה שזה יורד מתחת פה דרוש ולא עולה מעל, קשור לזה שדיברנו
+174|13:56|שאין התחתון עולה למעלה מה...
+175|14:00|משהו כזה, למעלה מה...
+176|14:04|לא, דיברנו על זה שהאוביות אינה עולה למעלה ממקומה, אבל זה לא זה.
+177|14:08|אוקיי, אוקיי, תודה.
+178|14:11|הפה דעליון זה מלכות שלו.
+179|14:14|זה מלכות של ראש.
+180|14:15|כן, זה מלכות דרוש.
+181|14:17|כן.
+182|14:18|הזיכוך המצה חולה עד המלכות?
+183|14:22|כי שמה, במלכות דרוש, שמה בעצם מקום הזיווג.
+184|14:27|משמה יצאו הספירות אל הגוף.
+185|14:30|הזיכוך הוא תמיד בגוף, הזיווג הוא תמיד בראש.
+186|14:40|אוקיי.
+187|14:40|זאת אומרת, שהקטר מתווכח עד הקטר, שפוגש את המלכות בפה של הראש.
+188|14:46|כן.
+189|14:48|אני לא, אני ממש לא מבין מה כתוב פה.
+190|14:52|זה טוב מאוד שאתה לא מבין, אתה לא אמור להבין.
+191|14:55|לא מתלבש בפרצוף התחתון, לא ברור לי מה זה אומר.
+192|15:00|אתה לא אמור להבין, רפאל.
+193|15:03|לא, למשל התחתון מתחילה מפגר.
+194|15:04|אבל למה עשיתי את כל ההקדמה הזאת?
+195|15:06|לא בשביל שתתאפסו על העניין, כי זה לא העניין פה בחלק הזה.
+196|15:13|מה העניין?
+197|15:13|בעוד ג' מתחיל העניין שהוא עליו הוא רוצה לדבר.
+198|15:17|לא, בסדר, רק אני לא הבנתי מה הוא אומר אפילו, לא למה הוא מתכוון, מה הוא
+199|15:23|אומר.

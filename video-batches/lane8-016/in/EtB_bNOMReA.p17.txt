@@ -1,0 +1,64 @@
+videoId: EtB_bNOMReA
+parte 18 de 22 · traduzir as linhas 680 a 719 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot
+RESUMO: O rabino inicia o capítulo 7 da parte 3 do Talmud Eser HaSefirot, advertindo que Baal HaSulam traz aqui ensinamentos do Arizal que pertencem a etapas posteriores, e que o objetivo é captar o princípio central. Na letra 1 do Or Pnimi, a partir do Arizal citando o Rav Gedaliá HaLevi, ele explica que as dez sefirot de Beriá estão na altura de Biná e que os três primeiros Hagat de Arich Anpin de Beriá, expostos e sem vestimenta, estão ligados ao masach. Na letra 3 ele explica a "bekiá": parte da luz superior ignora o limite do masach e atravessa para baixo sem ajuda da luz de retorno, chamada ponto de Malchut de Malchut do superior — um grande novo ensinamento ao lado da luz de retorno comum. Na letra 4 esse ponto se torna o Tohu (Atik) do Keter de Beriá, de natureza Ein Sof, enquanto os recipientes vêm da luz de retorno e formam o Bohu (Arich). Na letra 2 Baal HaSulam cita o Arizal sobre o Zeir Anpin e a Malchut, inicialmente iguais, e a queixa da lua ("dois reis não usam a mesma coroa"), que a reduziu e a fez descer para Beriá como Atik. O rabino conclui lembrando que a parte 3 é propositalmente cheia de camadas e não segue uma lógica linear.
+MOMENTOS: 00:06 Abertura do capítulo 7 e o fragmento que passa sem luz de retorno · 01:37 Título do capítulo: Malchut de Atzilut torna-se Keter de Beriá · 04:18 Letra 1: Arizal e Rav Gedaliá HaLevi sobre o Hagat de Arich Anpin · 07:14 Or Pnimi: dez sefirot de Beriá na altura de Biná · 11:48 O masach e a vestimenta a partir do Peh do superior · 17:09 Letra 3: o que é a bekiá, o furo do masach · 22:29 Duas distinções no zivug de akaá · 31:19 Letra 4: o ponto vira Tohu e as vestes vêm do Bohu · 42:11 Tohu semelhante a Ein Sof e debate sobre causa e efeito · 47:15 Letra 2: Malchut, Zeir Anpin e a queixa da lua · 51:02 Lashon do Arizal: a lua reduzida desce como ponto · 54:07 Malchut e Zeir Anpin eram iguais, ambos recebiam de Biná · 57:16 Conclusão: a parte 3 e suas camadas
+FONTES CITADAS: 01:37 Baal HaSulam, Talmud Eser HaSefirot, parte 3, capítulo 7 (título) · 04:18 Arizal, citando Rav Gedaliá HaLevi, Talmud Eser HaSefirot parte 3, cap. 7, letra 1 · 05:08 Arizal, cap. 7, letra 1 · 06:12 Arizal, cap. 7, letra 1 · 07:14 Or Pnimi, cap. 7, letra 1 · 09:01 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 4 · 11:23 Arizal, cap. 7, letra 2 (sic, lido como letra 1b) · 17:09 Arizal, cap. 7, letra 3 · 17:14 Or Pnimi, cap. 7, letra 3 · 18:27 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 1, letra 3 · 22:29 Or Pnimi, cap. 7, letra 3 · 23:32 Or Pnimi, cap. 7, letra 3 · 31:19 Arizal, cap. 7, letra 4 · 34:39 Arizal, cap. 7, letra 4 · 48:00 Bereshit 1:16 · 48:21 Bereshit 1:16 · 48:32 Chulin 60b · 48:55 Chulin 60b · 50:39 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, letra 2 · 51:41 Arizal, cap. 7, letra 2 · 52:44 Bava Batra 123a · 53:12 Or Pnimi, cap. 7, letra 2 · 54:30 Or Pnimi, cap. 7, letra 2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+668|47:36|אז נאמר לה שתמעט את עצמה מטית ספירות
+669|47:41|דאצילות, ותרד לבריאה, ושם תשלוט.
+670|47:47|וטית ספירות אלו שנסתלקו ממנה, נתחברו בשורשן בזער
+671|47:53|ענפין.
+672|47:55|ואז ירדה ונעשתה עתיק בבריאה.
+673|48:00|לא מובן.
+674|48:02|אז קודם כל אנחנו יודעים ש...
+675|48:04|את הסיפור על הלבנה והחמה.
+676|48:06|שביום הרביעי למעשה בראשית כתוב שברא את המאורות
+677|48:12|הגדולים.
+678|48:14|ואחרי כן מיד אומר המאור הגדול היום והמאור הקטן
+679|48:18|ללילה.
+
+LINHAS A TRADUZIR:
+680|48:21|ועשה לה גם צבא של כוכבים כדי שלא תבכה.
+681|48:26|והחז"ל דיברו הרבה בעניין הזה, שהיה קטרוג, קטרוג של הלבנה.
+682|48:32|ולכן, כן, היא אמרה, אין שני מלכים משמשים בכתר אחד.
+683|48:38|אמר לה, אם ככה, את אומרת, אז תרדי ותמעתי את עצמך.
+684|48:43|אוקיי, זה לשון חכמים.
+685|48:48|אתה אמר לך שווה את עצמה מיטס פטורות באפילות?
+686|48:50|רק שנייה, רק שנייה.
+687|48:53|אמר לה, לכי תמעתי את עצמך.
+688|48:55|והאמת היא שידוע שהקדוש ברוך הוא עתיד להביא קורבן על זה שהוא מאט את
+689|49:01|הלבנה, כי זה גרם להרבה הרבה חסרונות.
+690|49:07|כן, עכשיו היא מתמלאת ומתרוקנת וכולי.
+691|49:12|אבל פה, בטס, אומר לנו בעל הסולם דבר נוסף, כשאנחנו מדברים פה על
+692|49:18|שני המאורות הגדולים, אנחנו מדברים בעצם על זר, אנפין ומלכות של
+693|49:24|אצילות.
+694|49:26|שהיו שניהם מאורות גדולים, כלומר, שניהם ינקו מהבינה.
+695|49:33|שניהם קיבלו באופן שווה מהבינה.
+696|49:37|עד שהמלכות התרגה ואמרה, אין שני
+697|49:44|מלכים משתמשים בכתר אחד.
+698|49:47|והוא אומר לנו פה, מה זה אומר?
+699|49:50|זה אומר שהמלכות דה אצילות,
+700|49:57|שרצתה לשלוט לבדה, נאמר לה שתמעט את עצמה מטי ספירות
+701|50:02|דאצילות, תישאר רק המלכות.
+702|50:06|בלי ההשפעה של הטי ספירות, ותרד לבריה ושם
+703|50:12|תשלוט.
+704|50:14|וטי ספירות אלו שנסתלקו ממנה, מה נהיה איתם?
+705|50:19|הם נתחברו בשורשן בזער אנפין.
+706|50:23|ואז אותה כן, מלכות ירדה בעצם לבריאה
+707|50:29|ונעשתה עתיק בבריאה.
+708|50:34|בואו נקרא את לשון הארי, ב.
+709|50:39|כן, והנה סוד נקודה זו, עניינה היא
+710|50:46|כי הלא נודע איך היו בית
+711|50:52|המאורות באצילותן, בקומתן נבראו שווין זה לזה.
+712|50:59|זרענפין ומלכות.
+713|51:02|זכר ונקבה.
+714|51:04|וכאשר קטרגה הלבנה ונטמעתה, פירוש שמה
+715|51:10|שהייתה בסוד פרצוף שלם היו לה עשר ספירות משל עצמה,
+716|51:15|נטמעתה ועמדה בסוד נקודה קטנה כלולה מי' ספירות.
+717|51:23|והתת נקודות אחרות פרחו ממנה, כנודע,
+718|51:29|ששורשה מתחילה אינו רק נקודה אחת,
+719|51:35|המלכות נקראת נקודה, ואחר כך באו בתוספת על ידי זעיר אנפים

@@ -1,0 +1,64 @@
+videoId: EtB_bNOMReA
+parte 20 de 22 · traduzir as linhas 760 a 799 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot
+RESUMO: O rabino inicia o capítulo 7 da parte 3 do Talmud Eser HaSefirot, advertindo que Baal HaSulam traz aqui ensinamentos do Arizal que pertencem a etapas posteriores, e que o objetivo é captar o princípio central. Na letra 1 do Or Pnimi, a partir do Arizal citando o Rav Gedaliá HaLevi, ele explica que as dez sefirot de Beriá estão na altura de Biná e que os três primeiros Hagat de Arich Anpin de Beriá, expostos e sem vestimenta, estão ligados ao masach. Na letra 3 ele explica a "bekiá": parte da luz superior ignora o limite do masach e atravessa para baixo sem ajuda da luz de retorno, chamada ponto de Malchut de Malchut do superior — um grande novo ensinamento ao lado da luz de retorno comum. Na letra 4 esse ponto se torna o Tohu (Atik) do Keter de Beriá, de natureza Ein Sof, enquanto os recipientes vêm da luz de retorno e formam o Bohu (Arich). Na letra 2 Baal HaSulam cita o Arizal sobre o Zeir Anpin e a Malchut, inicialmente iguais, e a queixa da lua ("dois reis não usam a mesma coroa"), que a reduziu e a fez descer para Beriá como Atik. O rabino conclui lembrando que a parte 3 é propositalmente cheia de camadas e não segue uma lógica linear.
+MOMENTOS: 00:06 Abertura do capítulo 7 e o fragmento que passa sem luz de retorno · 01:37 Título do capítulo: Malchut de Atzilut torna-se Keter de Beriá · 04:18 Letra 1: Arizal e Rav Gedaliá HaLevi sobre o Hagat de Arich Anpin · 07:14 Or Pnimi: dez sefirot de Beriá na altura de Biná · 11:48 O masach e a vestimenta a partir do Peh do superior · 17:09 Letra 3: o que é a bekiá, o furo do masach · 22:29 Duas distinções no zivug de akaá · 31:19 Letra 4: o ponto vira Tohu e as vestes vêm do Bohu · 42:11 Tohu semelhante a Ein Sof e debate sobre causa e efeito · 47:15 Letra 2: Malchut, Zeir Anpin e a queixa da lua · 51:02 Lashon do Arizal: a lua reduzida desce como ponto · 54:07 Malchut e Zeir Anpin eram iguais, ambos recebiam de Biná · 57:16 Conclusão: a parte 3 e suas camadas
+FONTES CITADAS: 01:37 Baal HaSulam, Talmud Eser HaSefirot, parte 3, capítulo 7 (título) · 04:18 Arizal, citando Rav Gedaliá HaLevi, Talmud Eser HaSefirot parte 3, cap. 7, letra 1 · 05:08 Arizal, cap. 7, letra 1 · 06:12 Arizal, cap. 7, letra 1 · 07:14 Or Pnimi, cap. 7, letra 1 · 09:01 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 4 · 11:23 Arizal, cap. 7, letra 2 (sic, lido como letra 1b) · 17:09 Arizal, cap. 7, letra 3 · 17:14 Or Pnimi, cap. 7, letra 3 · 18:27 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 1, letra 3 · 22:29 Or Pnimi, cap. 7, letra 3 · 23:32 Or Pnimi, cap. 7, letra 3 · 31:19 Arizal, cap. 7, letra 4 · 34:39 Arizal, cap. 7, letra 4 · 48:00 Bereshit 1:16 · 48:21 Bereshit 1:16 · 48:32 Chulin 60b · 48:55 Chulin 60b · 50:39 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, letra 2 · 51:41 Arizal, cap. 7, letra 2 · 52:44 Bava Batra 123a · 53:12 Or Pnimi, cap. 7, letra 2 · 54:30 Or Pnimi, cap. 7, letra 2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+748|53:59|על שם ההערה.
+749|54:02|ובשעה שנאצלו, היו קומתם שווה זה לזה.
+750|54:07|כלומר שמלכות קיבלה שפעה מבינה.
+751|54:11|ולא על ידי זרנפין, כמו שאנחנו מכירים, שבאופן זה שניהם שווים.
+752|54:19|נכון, אנחנו מכירים מלכות שהיא מתחת זרנפין.
+753|54:23|מי מקבל את האור שלה?
+754|54:24|מזרנפין.
+755|54:26|לפני כן זה לא היה ככה, בתחילה.
+756|54:30|כי כמו הזרנפין נאצל מבינה, כי כמו שהזרנפין
+757|54:36|נאצל מבינה ומקבל שפעו מבינה, כן הנוקבה מקבלת שפעה
+758|54:42|מבינה, מה שאין כן כשמלכות אינה ראויה לקבל מהבינה,
+759|54:48|אלא על ידי זרע אנפין, אז היא נבחנת שהיא למטה מזרע
+
+LINHAS A TRADUZIR:
+760|54:53|אנפין, כי המקבל הוא למטה מהמשפיע שלו, כמובן,
+761|55:00|וטעם הדבר יתבהר במקומו.
+762|55:03|אחד המשפטים המעצבנים שיש, נכון?
+763|55:08|טעם הדבר יתבהר במקומו.
+764|55:10|אבל אנחנו יודעים שאין היעדר ברוחניות, ויש מצב אחד
+765|55:16|שהיא נמצאת מתחתיו ומקבלת ממנו, ויש מצב אחד שהיא
+766|55:22|שווה אליו, אם מקבלים שניהם מבינה.
+767|55:25|אבל מלכתחילה ככה הם נבראו, אלא שהיא קטרגה ואמרה, שני
+768|55:31|מלכים משמשים בכתר אחד, זה לא יכול להיות, אמר לה, לכי מעטי את עצמך.
+769|55:38|אם אנחנו מדברים על זוכר ונוק, כן.
+770|55:41|אנחנו מדברים על קו ועיגולים, שעכשיו היא מקבלת
+771|55:47|אך ורק דרך הקו?
+772|55:49|מה זה קשור לעיגולים?
+773|55:52|דרך עשר הספירות ועיגולים.
+774|55:54|למה?
+775|55:55|למה?
+776|55:55|הם משמשים כביכול כמלקו?
+777|55:58|לא, התשובה היא לא.
+778|56:00|אנחנו לא.
+779|56:04|כן.
+780|56:05|הערתם מגיעה דרך הקו.
+781|56:10|נכון, אבל היא מקבלת דרך הקו, מי זה רנפין, או שהיא לא
+782|56:15|מקבלת ממנו כמו שהיא קיבלה בתחילה, אבל כרגע זה לא המצב, כרגע היא מקבלת ממנו.
+783|56:21|פרום בריאה הם קיבלו, לא היה הקו, לא?
+784|56:26|מה לא היה?
+785|56:27|הקו.
+786|56:29|אני לא שומע אותך.
+787|56:31|לא היה הקו שימסור לבריאה, שימסור למלכות את
+788|56:37|האור.
+789|56:37|למה לא היה הקו?
+790|56:38|אנחנו כולם מדברים בתוך הקו, אם אנחנו מדברים על עולם האצילות, אז בוודאי שאנחנו מדברים על
+791|56:43|הקו.
+792|56:45|לא, הוא אומר שמתי זה היה, הסיפור הזה שהבריאה נתנה...
+793|56:50|בעולם אצילות.
+794|56:54|אבל אנחנו לא למדנו את זה.
+795|56:56|מה זאת אומרת?
+796|56:58|לא למדנו ככה, למדנו שהמלכות קיבלה מהבינה?
+797|57:02|לא זוכר ש...
+798|57:03|לא למדנו, הנה אנחנו לומדים את זה פה, בחלק ג' של הטס.
+799|57:08|כן, אבל התחלנו מההתחלה, כאילו.

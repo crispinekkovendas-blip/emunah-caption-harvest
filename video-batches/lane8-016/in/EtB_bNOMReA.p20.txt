@@ -1,0 +1,64 @@
+videoId: EtB_bNOMReA
+parte 21 de 22 · traduzir as linhas 800 a 839 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot
+RESUMO: O rabino inicia o capítulo 7 da parte 3 do Talmud Eser HaSefirot, advertindo que Baal HaSulam traz aqui ensinamentos do Arizal que pertencem a etapas posteriores, e que o objetivo é captar o princípio central. Na letra 1 do Or Pnimi, a partir do Arizal citando o Rav Gedaliá HaLevi, ele explica que as dez sefirot de Beriá estão na altura de Biná e que os três primeiros Hagat de Arich Anpin de Beriá, expostos e sem vestimenta, estão ligados ao masach. Na letra 3 ele explica a "bekiá": parte da luz superior ignora o limite do masach e atravessa para baixo sem ajuda da luz de retorno, chamada ponto de Malchut de Malchut do superior — um grande novo ensinamento ao lado da luz de retorno comum. Na letra 4 esse ponto se torna o Tohu (Atik) do Keter de Beriá, de natureza Ein Sof, enquanto os recipientes vêm da luz de retorno e formam o Bohu (Arich). Na letra 2 Baal HaSulam cita o Arizal sobre o Zeir Anpin e a Malchut, inicialmente iguais, e a queixa da lua ("dois reis não usam a mesma coroa"), que a reduziu e a fez descer para Beriá como Atik. O rabino conclui lembrando que a parte 3 é propositalmente cheia de camadas e não segue uma lógica linear.
+MOMENTOS: 00:06 Abertura do capítulo 7 e o fragmento que passa sem luz de retorno · 01:37 Título do capítulo: Malchut de Atzilut torna-se Keter de Beriá · 04:18 Letra 1: Arizal e Rav Gedaliá HaLevi sobre o Hagat de Arich Anpin · 07:14 Or Pnimi: dez sefirot de Beriá na altura de Biná · 11:48 O masach e a vestimenta a partir do Peh do superior · 17:09 Letra 3: o que é a bekiá, o furo do masach · 22:29 Duas distinções no zivug de akaá · 31:19 Letra 4: o ponto vira Tohu e as vestes vêm do Bohu · 42:11 Tohu semelhante a Ein Sof e debate sobre causa e efeito · 47:15 Letra 2: Malchut, Zeir Anpin e a queixa da lua · 51:02 Lashon do Arizal: a lua reduzida desce como ponto · 54:07 Malchut e Zeir Anpin eram iguais, ambos recebiam de Biná · 57:16 Conclusão: a parte 3 e suas camadas
+FONTES CITADAS: 01:37 Baal HaSulam, Talmud Eser HaSefirot, parte 3, capítulo 7 (título) · 04:18 Arizal, citando Rav Gedaliá HaLevi, Talmud Eser HaSefirot parte 3, cap. 7, letra 1 · 05:08 Arizal, cap. 7, letra 1 · 06:12 Arizal, cap. 7, letra 1 · 07:14 Or Pnimi, cap. 7, letra 1 · 09:01 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 4 · 11:23 Arizal, cap. 7, letra 2 (sic, lido como letra 1b) · 17:09 Arizal, cap. 7, letra 3 · 17:14 Or Pnimi, cap. 7, letra 3 · 18:27 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 1, letra 3 · 22:29 Or Pnimi, cap. 7, letra 3 · 23:32 Or Pnimi, cap. 7, letra 3 · 31:19 Arizal, cap. 7, letra 4 · 34:39 Arizal, cap. 7, letra 4 · 48:00 Bereshit 1:16 · 48:21 Bereshit 1:16 · 48:32 Chulin 60b · 48:55 Chulin 60b · 50:39 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, letra 2 · 51:41 Arizal, cap. 7, letra 2 · 52:44 Bava Batra 123a · 53:12 Or Pnimi, cap. 7, letra 2 · 54:30 Or Pnimi, cap. 7, letra 2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+788|56:37|האור.
+789|56:37|למה לא היה הקו?
+790|56:38|אנחנו כולם מדברים בתוך הקו, אם אנחנו מדברים על עולם האצילות, אז בוודאי שאנחנו מדברים על
+791|56:43|הקו.
+792|56:45|לא, הוא אומר שמתי זה היה, הסיפור הזה שהבריאה נתנה...
+793|56:50|בעולם אצילות.
+794|56:54|אבל אנחנו לא למדנו את זה.
+795|56:56|מה זאת אומרת?
+796|56:58|לא למדנו ככה, למדנו שהמלכות קיבלה מהבינה?
+797|57:02|לא זוכר ש...
+798|57:03|לא למדנו, הנה אנחנו לומדים את זה פה, בחלק ג' של הטס.
+799|57:08|כן, אבל התחלנו מההתחלה, כאילו.
+
+LINHAS A TRADUZIR:
+800|57:11|אבל בשביל זה רפאל, לזכור כל הזמן שאנחנו בחלק ג', וזה העניין
+801|57:16|המבלבל של חלק ג', לדעתי הוא עשה את זה בכוונה גם כדי להרחיק ולהפיל הרבה
+802|57:22|מלומדי החוכמה שמגיעים לחלק ג', ואומרים, מה קורה פה?
+803|57:26|אין פה שום לוגיקה ושום רצף של סיבה מסובב.
+804|57:32|אוקיי?
+805|57:33|אז לא להתבלבל מזה, ליהנות מזה.
+806|57:36|לעבור את המסכים.
+807|57:37|לעבור את המסכים.
+808|57:39|אז הנה, הזמן מסך שלנו הסתיים בערב.
+809|57:43|אנחנו עוצרים כאן באות ו' באור פנימי, בטח נחזור על האות ה' בפעם
+810|57:48|הבאה.
+811|57:51|תודה, כבוד הרב, לסיום.
+812|57:53|כן.
+813|57:54|קצת מחוץ, אבל קשור, אנחנו, תקן אותי אם אני טועה, שלמדנו שבראשית ברא זה כאילו
+814|58:00|הבריאה מתחילה מעולם הבינה.
+815|58:04|נכון, יש איזה משהו שאומרים כזה.
+816|58:07|משהו שאומרים כזה שבראשית ברא מתחיל...
+817|58:11|שזה מתחיל בבית בגלל שזה בעולם הבינה והבריאה, עולם הבריאה.
+818|58:16|עולם הבריאה.
+819|58:19|אוקיי.
+820|58:20|ופתאום, וזה ביום הראשון, ועכשיו פתאום אנחנו ביום הרביעי במאורות.
+821|58:25|ואנחנו מדברים על שלבים בעולם האצילות, שכביכול זה קודם לשלב שהתחלנו
+822|58:31|בראשית ברא.
+823|58:32|אז אתה יכול להגיד שכשאנחנו מדברים על עולם האצילות זה מבחינת בכוח, וכשאנחנו מדברים על עולם
+824|58:38|הבריאה זה מבחינת בפועל, כי זה עולם בריאה שיצא לבר, יצא החוצה,
+825|58:44|ולסדר לעצמך את זה ככה.
+826|58:47|כי הרי כל מי שיסתכל בפרשת בראשית זה שוב שכבות על שכבות על שכבות.
+827|58:53|כן.
+828|58:54|הלוואי ונתפוס קצת מזה.
+829|58:57|כן.
+830|58:58|תודה.
+831|58:59|טוב, בשמחה רבה ותודה לכם על ההשתתפות בשיעורים האלה.
+832|59:06|אני בטוח שעוד רבים נהנים בזכותכם מהלימוד הזה ומחכימים,
+833|59:12|וברגע שזה באינטרנט אז בכלל זה יכול להגיע להרבה מאוד אנשים.
+834|59:20|בסדר, את השיעור האחרון שלנו ראו בערך 70 איש, אז זה 70 לומדי
+835|59:25|תעש, זה יפה מאוד.
+836|59:28|חזקו ואמצו, נתראה בשבוע הבא.
+837|59:33|כל טוב.
+838|59:35|תודה רבה.
+839|59:36|ערב טוב.

@@ -1,0 +1,64 @@
+videoId: EtB_bNOMReA
+parte 6 de 22 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot
+RESUMO: O rabino inicia o capítulo 7 da parte 3 do Talmud Eser HaSefirot, advertindo que Baal HaSulam traz aqui ensinamentos do Arizal que pertencem a etapas posteriores, e que o objetivo é captar o princípio central. Na letra 1 do Or Pnimi, a partir do Arizal citando o Rav Gedaliá HaLevi, ele explica que as dez sefirot de Beriá estão na altura de Biná e que os três primeiros Hagat de Arich Anpin de Beriá, expostos e sem vestimenta, estão ligados ao masach. Na letra 3 ele explica a "bekiá": parte da luz superior ignora o limite do masach e atravessa para baixo sem ajuda da luz de retorno, chamada ponto de Malchut de Malchut do superior — um grande novo ensinamento ao lado da luz de retorno comum. Na letra 4 esse ponto se torna o Tohu (Atik) do Keter de Beriá, de natureza Ein Sof, enquanto os recipientes vêm da luz de retorno e formam o Bohu (Arich). Na letra 2 Baal HaSulam cita o Arizal sobre o Zeir Anpin e a Malchut, inicialmente iguais, e a queixa da lua ("dois reis não usam a mesma coroa"), que a reduziu e a fez descer para Beriá como Atik. O rabino conclui lembrando que a parte 3 é propositalmente cheia de camadas e não segue uma lógica linear.
+MOMENTOS: 00:06 Abertura do capítulo 7 e o fragmento que passa sem luz de retorno · 01:37 Título do capítulo: Malchut de Atzilut torna-se Keter de Beriá · 04:18 Letra 1: Arizal e Rav Gedaliá HaLevi sobre o Hagat de Arich Anpin · 07:14 Or Pnimi: dez sefirot de Beriá na altura de Biná · 11:48 O masach e a vestimenta a partir do Peh do superior · 17:09 Letra 3: o que é a bekiá, o furo do masach · 22:29 Duas distinções no zivug de akaá · 31:19 Letra 4: o ponto vira Tohu e as vestes vêm do Bohu · 42:11 Tohu semelhante a Ein Sof e debate sobre causa e efeito · 47:15 Letra 2: Malchut, Zeir Anpin e a queixa da lua · 51:02 Lashon do Arizal: a lua reduzida desce como ponto · 54:07 Malchut e Zeir Anpin eram iguais, ambos recebiam de Biná · 57:16 Conclusão: a parte 3 e suas camadas
+FONTES CITADAS: 01:37 Baal HaSulam, Talmud Eser HaSefirot, parte 3, capítulo 7 (título) · 04:18 Arizal, citando Rav Gedaliá HaLevi, Talmud Eser HaSefirot parte 3, cap. 7, letra 1 · 05:08 Arizal, cap. 7, letra 1 · 06:12 Arizal, cap. 7, letra 1 · 07:14 Or Pnimi, cap. 7, letra 1 · 09:01 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 4 · 11:23 Arizal, cap. 7, letra 2 (sic, lido como letra 1b) · 17:09 Arizal, cap. 7, letra 3 · 17:14 Or Pnimi, cap. 7, letra 3 · 18:27 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 1, letra 3 · 22:29 Or Pnimi, cap. 7, letra 3 · 23:32 Or Pnimi, cap. 7, letra 3 · 31:19 Arizal, cap. 7, letra 4 · 34:39 Arizal, cap. 7, letra 4 · 48:00 Bereshit 1:16 · 48:21 Bereshit 1:16 · 48:32 Chulin 60b · 48:55 Chulin 60b · 50:39 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, letra 2 · 51:41 Arizal, cap. 7, letra 2 · 52:44 Bava Batra 123a · 53:12 Or Pnimi, cap. 7, letra 2 · 54:30 Or Pnimi, cap. 7, letra 2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|14:46|כן.
+189|14:48|אני לא, אני ממש לא מבין מה כתוב פה.
+190|14:52|זה טוב מאוד שאתה לא מבין, אתה לא אמור להבין.
+191|14:55|לא מתלבש בפרצוף התחתון, לא ברור לי מה זה אומר.
+192|15:00|אתה לא אמור להבין, רפאל.
+193|15:03|לא, למשל התחתון מתחילה מפגר.
+194|15:04|אבל למה עשיתי את כל ההקדמה הזאת?
+195|15:06|לא בשביל שתתאפסו על העניין, כי זה לא העניין פה בחלק הזה.
+196|15:13|מה העניין?
+197|15:13|בעוד ג' מתחיל העניין שהוא עליו הוא רוצה לדבר.
+198|15:17|לא, בסדר, רק אני לא הבנתי מה הוא אומר אפילו, לא למה הוא מתכוון, מה הוא
+199|15:23|אומר.
+
+LINHAS A TRADUZIR:
+200|15:23|אוקיי, מה הוא אומר?
+201|15:24|כי אתה בקושי מכיר את המושג ארי חנפין, גם את המושג חג התנאי בקושי אנחנו
+202|15:30|מכירים, זאת אומרת, אנחנו מכירים אותו ממקומות אחרים, אבל לא מעניין ההלבשה וקומה של
+203|15:36|ואק, שזה נקרא חגת, קומה של ואק, אז מה יש לנו
+204|15:42|להתעסק פה בזה?
+205|15:42|אני יודע שההלבשה למשל זה אור חוזר שעולה.
+206|15:46|נכון.
+207|15:48|אבל פה הוא מדבר על הלבשה מלמעלה למטה, כאילו, או שאני לא...
+208|15:51|לא, לא, הוא מדבר על הלבשה מלמטה למעלה.
+209|15:54|ההלבשה התחתון מתחילה מפה דראש העליון ולמטה, מה זה אומר?
+210|15:58|זה אומר שה...
+211|15:59|הלבשה הפוכה?
+212|16:01|שהוא לא מלביש את הפרצוף הקודם למעלה מהמסך דפה, למעלה בראש שלו,
+213|16:07|הוא לא מלביש אותו.
+214|16:11|הלבשה היא בכלל בראש, אני באמת לא...
+215|16:14|כן, אבל...
+216|16:15|משהו שם לא עובד לי.
+217|16:16|כן, אבל מכיוון...
+218|16:17|הרבישה היא בראש, ואחר כך זה התמשכות של...
+219|16:21|שלא רק כלפי מטה, של המלכות, של הפה.
+220|16:24|נכון.
+221|16:24|לא, איזה הלבשה מדובר שם?
+222|16:25|הלבשה מדובר.
+223|16:28|אז בואו, בואו באמת, אני ממליץ להשאיר את החלק הזה כפי שהוא, לא לגעת בו.
+224|16:34|אתם רוצים, תסמנו פה סימניה ורודה, תחזרו אליו אחרי שנלמד את חלק, לא
+225|16:40|יודע.
+226|16:42|אי שם.
+227|16:44|בסדר?
+228|16:46|אות ג'
+229|16:53|מתייחס ללשון הארי ז"ל שאומר
+230|17:01|הנה אלו לא בקעו אותו מסך ועברו בו רק עבר בו אור שלהם דרך
+231|17:07|המסך.
+232|17:09|בקיאה, מה זה בקיאה?
+233|17:11|מה זה הבקיאה הזאת שהוא מדבר עליה?
+234|17:14|פירושה, התגברות האור על גבול שבמסך.
+235|17:20|המסך הוא גבול שלא אמור לתת לשום אור לעבור דרכו, נכון?
+236|17:24|מפני שהיה צמצום א' והמלכות לא מקבלת בתוכה שום אור, לכן
+237|17:30|המסך הוא הגבול שהושם
+238|17:36|עכשיו על המלכות.
+239|17:40|אז הוא אומר, בקיאה פירושה התגברות האור על גבול שבמסך, ואינו

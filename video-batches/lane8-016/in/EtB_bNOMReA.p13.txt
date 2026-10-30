@@ -1,0 +1,64 @@
+videoId: EtB_bNOMReA
+parte 14 de 22 · traduzir as linhas 520 a 559 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot
+RESUMO: O rabino inicia o capítulo 7 da parte 3 do Talmud Eser HaSefirot, advertindo que Baal HaSulam traz aqui ensinamentos do Arizal que pertencem a etapas posteriores, e que o objetivo é captar o princípio central. Na letra 1 do Or Pnimi, a partir do Arizal citando o Rav Gedaliá HaLevi, ele explica que as dez sefirot de Beriá estão na altura de Biná e que os três primeiros Hagat de Arich Anpin de Beriá, expostos e sem vestimenta, estão ligados ao masach. Na letra 3 ele explica a "bekiá": parte da luz superior ignora o limite do masach e atravessa para baixo sem ajuda da luz de retorno, chamada ponto de Malchut de Malchut do superior — um grande novo ensinamento ao lado da luz de retorno comum. Na letra 4 esse ponto se torna o Tohu (Atik) do Keter de Beriá, de natureza Ein Sof, enquanto os recipientes vêm da luz de retorno e formam o Bohu (Arich). Na letra 2 Baal HaSulam cita o Arizal sobre o Zeir Anpin e a Malchut, inicialmente iguais, e a queixa da lua ("dois reis não usam a mesma coroa"), que a reduziu e a fez descer para Beriá como Atik. O rabino conclui lembrando que a parte 3 é propositalmente cheia de camadas e não segue uma lógica linear.
+MOMENTOS: 00:06 Abertura do capítulo 7 e o fragmento que passa sem luz de retorno · 01:37 Título do capítulo: Malchut de Atzilut torna-se Keter de Beriá · 04:18 Letra 1: Arizal e Rav Gedaliá HaLevi sobre o Hagat de Arich Anpin · 07:14 Or Pnimi: dez sefirot de Beriá na altura de Biná · 11:48 O masach e a vestimenta a partir do Peh do superior · 17:09 Letra 3: o que é a bekiá, o furo do masach · 22:29 Duas distinções no zivug de akaá · 31:19 Letra 4: o ponto vira Tohu e as vestes vêm do Bohu · 42:11 Tohu semelhante a Ein Sof e debate sobre causa e efeito · 47:15 Letra 2: Malchut, Zeir Anpin e a queixa da lua · 51:02 Lashon do Arizal: a lua reduzida desce como ponto · 54:07 Malchut e Zeir Anpin eram iguais, ambos recebiam de Biná · 57:16 Conclusão: a parte 3 e suas camadas
+FONTES CITADAS: 01:37 Baal HaSulam, Talmud Eser HaSefirot, parte 3, capítulo 7 (título) · 04:18 Arizal, citando Rav Gedaliá HaLevi, Talmud Eser HaSefirot parte 3, cap. 7, letra 1 · 05:08 Arizal, cap. 7, letra 1 · 06:12 Arizal, cap. 7, letra 1 · 07:14 Or Pnimi, cap. 7, letra 1 · 09:01 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 4 · 11:23 Arizal, cap. 7, letra 2 (sic, lido como letra 1b) · 17:09 Arizal, cap. 7, letra 3 · 17:14 Or Pnimi, cap. 7, letra 3 · 18:27 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 1, letra 3 · 22:29 Or Pnimi, cap. 7, letra 3 · 23:32 Or Pnimi, cap. 7, letra 3 · 31:19 Arizal, cap. 7, letra 4 · 34:39 Arizal, cap. 7, letra 4 · 48:00 Bereshit 1:16 · 48:21 Bereshit 1:16 · 48:32 Chulin 60b · 48:55 Chulin 60b · 50:39 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, letra 2 · 51:41 Arizal, cap. 7, letra 2 · 52:44 Bava Batra 123a · 53:12 Or Pnimi, cap. 7, letra 2 · 54:30 Or Pnimi, cap. 7, letra 2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+508|36:49|מה אתה שואל?
+509|36:52|כאילו, כשאנחנו מדברים תוהו ובואו, תוהו, שזה עתיד בעולם בריאה.
+510|36:58|כן.
+511|36:58|בית מלכות העולם העליון, ובואו, עכשיו בתוהו זה רק כלים בכוח,
+512|37:05|וזה לא נמצא, זה כמו שהוא כתב פה לפני רגע.
+513|37:08|אבל בואו כבר מכיר את הכלים בפועל, זאת אומרת על זה שהאור חוזר, אבל אנחנו בחרנו שהאור חוזר
+514|37:14|חוזר עכשיו מבחינה ב', רק עד חזת, רק עד חסד, עד הראש, הראש
+515|37:20|הוא חסד יפה.
+516|37:21|כן.
+517|37:22|אני יודע שעולם הבינה שקורה בעולם האצילות, זה מגיע עד,
+518|37:28|האור החוזר מגיע עד קומת בינה.
+519|37:31|נכון.
+
+LINHAS A TRADUZIR:
+520|37:32|הוא מלביש עד בינה, אז למה שם מדברים על חזת?
+521|37:36|כי הוא מדבר עכשיו על הכתר דבריאה, כשכל קומת בריאה
+522|37:41|היא באמת עד בינה.
+523|37:44|אבל הוא מדבר כרגע על הכתר אריך של עולם הבריאה,
+524|37:50|שהוא בכלל נאמר לנו שהוא גנוז בתוך הבינה של עולם הבריאה.
+525|37:55|רבותיי, זה שכבות על שכבות.
+526|37:58|אז הוא אומר, בתוך הכתר הזה יש שם בעצם קומת ואק.
+527|38:02|למה?
+528|38:03|כי הוא לא קיבל יותר מזה בהלבשה בעולם הצילות.
+529|38:07|אז זו הקומה שלו.
+530|38:09|הרב, שכבות נועדו לחילוף, לא לשום דבר אחר.
+531|38:13|נועדו ל...
+532|38:15|חילוף, צריך לקלף אותה, לראות.
+533|38:18|כן, בסדר, אבל כשאתה צריך גם את הכלים המתאימים, ופה הוא לא פותח
+534|38:24|לנו את זה בכלל, הוא פשוט מניח את זה לפנינו.
+535|38:30|אז אין טעם לשבור את הראש, יש טעם להבין את מה שהוא כן רוצה להסביר לנו.
+536|38:36|לא נקלף את כולם היום.
+537|38:37|אומר, על איזה סלסונים אתה מדבר?
+538|38:41|סליחה?
+539|38:45|כן, זה מזמן, היו צלצולים ברקע.
+540|38:51|יש לה מחשב כל מיני צלצולים ובקבוקים וכאלה.
+541|38:56|כן, עוד דלת, אני קורא אותה עוד פעם לאט לאט, כדי שכל אחד ככה יכניס
+542|39:02|את זה טוב טוב פנימה ונתקדם.
+543|39:08|כלומר, בחג הדערי חנפין, מי זה הארי
+544|39:13|חנפין?
+545|39:15|כתר, נכון?
+546|39:17|מי זה ביותר ספציפי?
+547|39:19|הבורו.
+548|39:23|בחגת הארי חנפין שהם גר שלו, משום שארי חנפין
+549|39:28|זה דבריא, אין לו אלא ואק, רק קומת ואק,
+550|39:35|חגת נאי לבד, ונמצאים חגת
+551|39:40|הגר שלו.
+552|39:42|זאת אומרת, החג אצלו נחשב לבחינת גר, כנ"ל ותבין
+553|39:48|כאן אשר אותה הנקודה דמלכו דאצילות שבקעה ועברה ממסך
+554|39:54|ולמטה בסוד אבחנה ב' הוא סוד
+555|40:00|אינסוף לזה הייתה הכוונה הרעשים
+556|40:06|הוא סוד אינסוף המכונה לעיל בשם תורו שיש בו
+557|40:12|בחינת אין סוף כנ"ל, ואין בו שום בחינה מדלת בחינות.
+558|40:19|מה הוא אומר לנו?
+559|40:22|ותבין, אשר אותה הנקודה דה מלכות דה אצילות שבקע ועברה ממסך ולמטה בסוד אבחנה בית הנעל,

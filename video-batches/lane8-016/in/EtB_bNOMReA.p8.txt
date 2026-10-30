@@ -1,0 +1,64 @@
+videoId: EtB_bNOMReA
+parte 9 de 22 · traduzir as linhas 320 a 359 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot
+RESUMO: O rabino inicia o capítulo 7 da parte 3 do Talmud Eser HaSefirot, advertindo que Baal HaSulam traz aqui ensinamentos do Arizal que pertencem a etapas posteriores, e que o objetivo é captar o princípio central. Na letra 1 do Or Pnimi, a partir do Arizal citando o Rav Gedaliá HaLevi, ele explica que as dez sefirot de Beriá estão na altura de Biná e que os três primeiros Hagat de Arich Anpin de Beriá, expostos e sem vestimenta, estão ligados ao masach. Na letra 3 ele explica a "bekiá": parte da luz superior ignora o limite do masach e atravessa para baixo sem ajuda da luz de retorno, chamada ponto de Malchut de Malchut do superior — um grande novo ensinamento ao lado da luz de retorno comum. Na letra 4 esse ponto se torna o Tohu (Atik) do Keter de Beriá, de natureza Ein Sof, enquanto os recipientes vêm da luz de retorno e formam o Bohu (Arich). Na letra 2 Baal HaSulam cita o Arizal sobre o Zeir Anpin e a Malchut, inicialmente iguais, e a queixa da lua ("dois reis não usam a mesma coroa"), que a reduziu e a fez descer para Beriá como Atik. O rabino conclui lembrando que a parte 3 é propositalmente cheia de camadas e não segue uma lógica linear.
+MOMENTOS: 00:06 Abertura do capítulo 7 e o fragmento que passa sem luz de retorno · 01:37 Título do capítulo: Malchut de Atzilut torna-se Keter de Beriá · 04:18 Letra 1: Arizal e Rav Gedaliá HaLevi sobre o Hagat de Arich Anpin · 07:14 Or Pnimi: dez sefirot de Beriá na altura de Biná · 11:48 O masach e a vestimenta a partir do Peh do superior · 17:09 Letra 3: o que é a bekiá, o furo do masach · 22:29 Duas distinções no zivug de akaá · 31:19 Letra 4: o ponto vira Tohu e as vestes vêm do Bohu · 42:11 Tohu semelhante a Ein Sof e debate sobre causa e efeito · 47:15 Letra 2: Malchut, Zeir Anpin e a queixa da lua · 51:02 Lashon do Arizal: a lua reduzida desce como ponto · 54:07 Malchut e Zeir Anpin eram iguais, ambos recebiam de Biná · 57:16 Conclusão: a parte 3 e suas camadas
+FONTES CITADAS: 01:37 Baal HaSulam, Talmud Eser HaSefirot, parte 3, capítulo 7 (título) · 04:18 Arizal, citando Rav Gedaliá HaLevi, Talmud Eser HaSefirot parte 3, cap. 7, letra 1 · 05:08 Arizal, cap. 7, letra 1 · 06:12 Arizal, cap. 7, letra 1 · 07:14 Or Pnimi, cap. 7, letra 1 · 09:01 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 4 · 11:23 Arizal, cap. 7, letra 2 (sic, lido como letra 1b) · 17:09 Arizal, cap. 7, letra 3 · 17:14 Or Pnimi, cap. 7, letra 3 · 18:27 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 1, letra 3 · 22:29 Or Pnimi, cap. 7, letra 3 · 23:32 Or Pnimi, cap. 7, letra 3 · 31:19 Arizal, cap. 7, letra 4 · 34:39 Arizal, cap. 7, letra 4 · 48:00 Bereshit 1:16 · 48:21 Bereshit 1:16 · 48:32 Chulin 60b · 48:55 Chulin 60b · 50:39 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, letra 2 · 51:41 Arizal, cap. 7, letra 2 · 52:44 Bava Batra 123a · 53:12 Or Pnimi, cap. 7, letra 2 · 54:30 Or Pnimi, cap. 7, letra 2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+308|22:35|למקומו, שבזה נעשה האור חוזר לבוש על ד'
+309|22:40|בחינות שבאור העליון, ממטה למעלה, אשר מכוח זה
+310|22:47|התרחבה המלכות לעשר ספירות מינה ובה ממסך
+311|22:53|ולמטה באופן אשר כל עשר ספירות שיצאו ממסך
+312|22:59|ולמעלה התנוצצו הערתן התנוצצו זה בלשון אור
+313|23:05|חוזר כן האור חוזר אפשר את זה התנוצצו הערתן גם ממסך
+314|23:10|ולמטה והחתימו דוגמתן שמה שמה ממעלה
+315|23:16|למטה כנ"ל וזהו הבחנה האלף שבזיווג
+316|23:22|דקה וזו האבחנה מוכרת לנו עד עכשיו.
+317|23:26|אבחנה ב'
+318|23:32|הוא אותו חלק מאור העליון שבקע ושיבר למסך,
+319|23:38|כלומר, התעלם מהחוק הזה, ועבר
+
+LINHAS A TRADUZIR:
+320|23:44|למטה ממסך בלי עזרת אור חוזר.
+321|23:48|הנה, מפורש, כתוב, ועבר למטה ממסך בלי עזרת אור חוזר.
+322|23:54|כל המכלול עבר בעזרת האור חוזר.
+323|23:58|אבל החלק הזה, הוא עבר בלי עזרת אור חוזר.
+324|24:03|אלא בבחינת עצמותו ממש.
+325|24:08|עצמות האור העליון.
+326|24:11|דהיינו כמבואר לעיל, שחלק זה נקרא נקודה דה מלכות דה
+327|24:17|עליון, או מלכות דה מלכות דה עליון.
+328|24:23|שביטלה הגבול ולא השגיחה כלל על כוח העיכוב שבמסך.
+329|24:28|והבן היטב.
+330|24:31|אשר כלפי הנקודה ההיא נחשב המסך כמו שאינו במציאות
+331|24:36|כלל.
+332|24:40|זה כאילו יש לנו איזה חוקים פיזיקליים ופתאום בא משהו
+333|24:45|ולגמרי חוקים פיזיקליים שה...
+334|24:51|מים, תמיד יסוד המים שורשו למטה ולכן תמיד המים ישפו לרדת למטה
+335|24:57|והנה פתאום יש לנו מעיין שהוא בוקע מלמטה למעלה, הפוך
+336|25:04|לתנועה.
+337|25:05|אותו דבר פה, יש לנו חוקיות רוחנית מוחלטת ויחד עם זאת יש לנו פה
+338|25:11|חריגה והחריגה הזאת היא מאוד משמעותית כי
+339|25:17|על כן דייק הרב לומר משברת ובוקעת את המסך שהוא
+340|25:23|מטעם המבואר, ועל פי בית אבחנות הללו
+341|25:29|המבוארים, תבין את כל המשך דברי הרב.
+342|25:35|כלומר, קודם כל הוא מניח בפנינו שיש פה בזיווג דעקה שתי אבחנות,
+343|25:41|אבחנה אחת מוכרת לנו, זה העניין של אור חוזר שמתפשט, מינה ובא.
+344|25:46|מקבל את המלכות בתוכה עשר ספירות שהשפיע על העליון ובמקביל
+345|25:52|לזה או סימולטנית יש לנו גם איזשהו חלק מאותו אור ישר
+346|25:57|שהתפשט עד המסך יש לנו חלק קטן שהוא בוקע
+347|26:03|את המסך הוא מתעלם מהמסך והוא נכנס אל המלכות והוא מגדיר אותו
+348|26:10|כהמלכות דה מלכות או כנקודת המלכות הפנימית
+349|26:16|נקודה, נקודה דה מלכות דה עליון.
+350|26:19|מלכות זה מלכות?
+351|26:21|זאת אומרת זה הרצון לקבל לעצמו?
+352|26:24|כן, כי כן.
+353|26:27|כן.
+354|26:27|אבל זה מלכות, זה מלכות של אור ישר, אני מבין, לא?
+355|26:32|זה המלכות של, המלכות של האור ישר.
+356|26:34|הוא אחרי זה שיורד.
+357|26:37|האור העליון התפשט, כן.
+358|26:40|אבל למה אתה אומר עליון ולא ישר?
+359|26:42|כאילו, יש הבדל?

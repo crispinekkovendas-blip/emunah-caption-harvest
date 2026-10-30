@@ -1,0 +1,64 @@
+videoId: EtB_bNOMReA
+parte 17 de 22 · traduzir as linhas 640 a 679 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot
+RESUMO: O rabino inicia o capítulo 7 da parte 3 do Talmud Eser HaSefirot, advertindo que Baal HaSulam traz aqui ensinamentos do Arizal que pertencem a etapas posteriores, e que o objetivo é captar o princípio central. Na letra 1 do Or Pnimi, a partir do Arizal citando o Rav Gedaliá HaLevi, ele explica que as dez sefirot de Beriá estão na altura de Biná e que os três primeiros Hagat de Arich Anpin de Beriá, expostos e sem vestimenta, estão ligados ao masach. Na letra 3 ele explica a "bekiá": parte da luz superior ignora o limite do masach e atravessa para baixo sem ajuda da luz de retorno, chamada ponto de Malchut de Malchut do superior — um grande novo ensinamento ao lado da luz de retorno comum. Na letra 4 esse ponto se torna o Tohu (Atik) do Keter de Beriá, de natureza Ein Sof, enquanto os recipientes vêm da luz de retorno e formam o Bohu (Arich). Na letra 2 Baal HaSulam cita o Arizal sobre o Zeir Anpin e a Malchut, inicialmente iguais, e a queixa da lua ("dois reis não usam a mesma coroa"), que a reduziu e a fez descer para Beriá como Atik. O rabino conclui lembrando que a parte 3 é propositalmente cheia de camadas e não segue uma lógica linear.
+MOMENTOS: 00:06 Abertura do capítulo 7 e o fragmento que passa sem luz de retorno · 01:37 Título do capítulo: Malchut de Atzilut torna-se Keter de Beriá · 04:18 Letra 1: Arizal e Rav Gedaliá HaLevi sobre o Hagat de Arich Anpin · 07:14 Or Pnimi: dez sefirot de Beriá na altura de Biná · 11:48 O masach e a vestimenta a partir do Peh do superior · 17:09 Letra 3: o que é a bekiá, o furo do masach · 22:29 Duas distinções no zivug de akaá · 31:19 Letra 4: o ponto vira Tohu e as vestes vêm do Bohu · 42:11 Tohu semelhante a Ein Sof e debate sobre causa e efeito · 47:15 Letra 2: Malchut, Zeir Anpin e a queixa da lua · 51:02 Lashon do Arizal: a lua reduzida desce como ponto · 54:07 Malchut e Zeir Anpin eram iguais, ambos recebiam de Biná · 57:16 Conclusão: a parte 3 e suas camadas
+FONTES CITADAS: 01:37 Baal HaSulam, Talmud Eser HaSefirot, parte 3, capítulo 7 (título) · 04:18 Arizal, citando Rav Gedaliá HaLevi, Talmud Eser HaSefirot parte 3, cap. 7, letra 1 · 05:08 Arizal, cap. 7, letra 1 · 06:12 Arizal, cap. 7, letra 1 · 07:14 Or Pnimi, cap. 7, letra 1 · 09:01 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 4 · 11:23 Arizal, cap. 7, letra 2 (sic, lido como letra 1b) · 17:09 Arizal, cap. 7, letra 3 · 17:14 Or Pnimi, cap. 7, letra 3 · 18:27 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 1, letra 3 · 22:29 Or Pnimi, cap. 7, letra 3 · 23:32 Or Pnimi, cap. 7, letra 3 · 31:19 Arizal, cap. 7, letra 4 · 34:39 Arizal, cap. 7, letra 4 · 48:00 Bereshit 1:16 · 48:21 Bereshit 1:16 · 48:32 Chulin 60b · 48:55 Chulin 60b · 50:39 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, letra 2 · 51:41 Arizal, cap. 7, letra 2 · 52:44 Bava Batra 123a · 53:12 Or Pnimi, cap. 7, letra 2 · 54:30 Or Pnimi, cap. 7, letra 2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+628|44:49|אתה שואל מי הגיע הראשון?
+629|44:52|כן, כן, האם הסדר הזה נכלל גם ב...
+630|44:56|אני אומר לך, אין מוקדם ומאוחר בתורה.
+631|45:00|אני לא נתקלתי פה, לא, לא, זה גם אנחנו עוסקים בעניין
+632|45:06|רוחני, אז אתה שואל נכון, לא מבחינת מי בא אחרי מי בא לפני, אלא עניין של סיבה ומסובב,
+633|45:12|אתה שואל נכון, אני לא ראיתי פה שהוא אומר את זה, הוא אומר שזה קורה סימולטנית, שזה קורה
+634|45:17|במקביל, או שזה, זה קורה וזה קורה, אוקיי?
+635|45:23|הבחנה אחת והבחנה שנייה.
+636|45:26|זה ביחד עם כתב.
+637|45:31|ויחד יוצא הכתר, כן.
+638|45:35|תודה.
+639|45:41|בפועל זה מודל שכבר קיים, זה לא באמת משהו שמתחיל ונגמר,
+
+LINHAS A TRADUZIR:
+640|45:47|זה מודל קיים שאתה יכול רק להבין את הסיבה והמסורף שלו, אבל הוא
+641|45:53|כבר שם.
+642|45:55|מה הפירוש?
+643|45:57|זאת אומרת שאתה...
+644|45:59|זה לא איזה תהליך שאתה רואה אותו נוצר, אלא אתה רואה כבר את המוצר
+645|46:06|המוגמר.
+646|46:07|עכשיו אנחנו לומדים את זה לפי סדר המדרגה.
+647|46:09|כן, כמו שאמרתי, אפשר להסתכל על זה מרחוק יותר.
+648|46:15|יצא הכתר, וכל הכתר הוא מבחינת אינסוף.
+649|46:18|ואז כשמסתכלים מקרוב יותר, אז אומרים, רגע, אבל היו פה שני דברים, וחלק אחד שם
+650|46:24|מהתור הוא באמת מבחינת אינסוף.
+651|46:28|והחלק השני הוא כבר שורש לנבראים.
+652|46:31|אולי לפשט את זה, להגיד, הכוח והפועל נמצאים בכתר.
+653|46:35|נכון.
+654|46:36|או לפשט את זה ולהגיד שעתיק ועריך נמצאים בכתר, זה אותו דבר.
+655|46:41|כן, אבל העניין הוא יותר הכי פשוט לומר שהכוח של כל הדברים נמצא שם ואינם בגילוי,
+656|46:47|וגם הגילוי מתרחש שם בכתר.
+657|46:49|ולכן, כשאנחנו קוראים להם גם תוהו ובוהו, וגם עתיק ועריך,
+658|46:55|למעשה, אם כולם באות לבטל את המצב של כוח ופועל, אתם מתקיימים באותו קצב.
+659|47:01|אנחנו מקבלים את זה כבר באק.
+660|47:05|אוקיי, אוקיי.
+661|47:08|קדימה, בואו נתקדם לאות ב'.
+662|47:15|עוד עניין.
+663|47:17|כותרת.
+664|47:20|בתחילה הייתה מלכות גדולה כזרע אנפין.
+665|47:26|הנה, שייך לפרשת בראשית.
+666|47:28|בתחילה הייתה המלכות גדולה כזער ענפין, וקטרגה, דהיינו שרצתה לשלוט
+667|47:34|בלבדה.
+668|47:36|אז נאמר לה שתמעט את עצמה מטית ספירות
+669|47:41|דאצילות, ותרד לבריאה, ושם תשלוט.
+670|47:47|וטית ספירות אלו שנסתלקו ממנה, נתחברו בשורשן בזער
+671|47:53|ענפין.
+672|47:55|ואז ירדה ונעשתה עתיק בבריאה.
+673|48:00|לא מובן.
+674|48:02|אז קודם כל אנחנו יודעים ש...
+675|48:04|את הסיפור על הלבנה והחמה.
+676|48:06|שביום הרביעי למעשה בראשית כתוב שברא את המאורות
+677|48:12|הגדולים.
+678|48:14|ואחרי כן מיד אומר המאור הגדול היום והמאור הקטן
+679|48:18|ללילה.

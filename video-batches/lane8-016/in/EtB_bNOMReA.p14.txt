@@ -1,0 +1,64 @@
+videoId: EtB_bNOMReA
+parte 15 de 22 · traduzir as linhas 560 a 599 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot
+RESUMO: O rabino inicia o capítulo 7 da parte 3 do Talmud Eser HaSefirot, advertindo que Baal HaSulam traz aqui ensinamentos do Arizal que pertencem a etapas posteriores, e que o objetivo é captar o princípio central. Na letra 1 do Or Pnimi, a partir do Arizal citando o Rav Gedaliá HaLevi, ele explica que as dez sefirot de Beriá estão na altura de Biná e que os três primeiros Hagat de Arich Anpin de Beriá, expostos e sem vestimenta, estão ligados ao masach. Na letra 3 ele explica a "bekiá": parte da luz superior ignora o limite do masach e atravessa para baixo sem ajuda da luz de retorno, chamada ponto de Malchut de Malchut do superior — um grande novo ensinamento ao lado da luz de retorno comum. Na letra 4 esse ponto se torna o Tohu (Atik) do Keter de Beriá, de natureza Ein Sof, enquanto os recipientes vêm da luz de retorno e formam o Bohu (Arich). Na letra 2 Baal HaSulam cita o Arizal sobre o Zeir Anpin e a Malchut, inicialmente iguais, e a queixa da lua ("dois reis não usam a mesma coroa"), que a reduziu e a fez descer para Beriá como Atik. O rabino conclui lembrando que a parte 3 é propositalmente cheia de camadas e não segue uma lógica linear.
+MOMENTOS: 00:06 Abertura do capítulo 7 e o fragmento que passa sem luz de retorno · 01:37 Título do capítulo: Malchut de Atzilut torna-se Keter de Beriá · 04:18 Letra 1: Arizal e Rav Gedaliá HaLevi sobre o Hagat de Arich Anpin · 07:14 Or Pnimi: dez sefirot de Beriá na altura de Biná · 11:48 O masach e a vestimenta a partir do Peh do superior · 17:09 Letra 3: o que é a bekiá, o furo do masach · 22:29 Duas distinções no zivug de akaá · 31:19 Letra 4: o ponto vira Tohu e as vestes vêm do Bohu · 42:11 Tohu semelhante a Ein Sof e debate sobre causa e efeito · 47:15 Letra 2: Malchut, Zeir Anpin e a queixa da lua · 51:02 Lashon do Arizal: a lua reduzida desce como ponto · 54:07 Malchut e Zeir Anpin eram iguais, ambos recebiam de Biná · 57:16 Conclusão: a parte 3 e suas camadas
+FONTES CITADAS: 01:37 Baal HaSulam, Talmud Eser HaSefirot, parte 3, capítulo 7 (título) · 04:18 Arizal, citando Rav Gedaliá HaLevi, Talmud Eser HaSefirot parte 3, cap. 7, letra 1 · 05:08 Arizal, cap. 7, letra 1 · 06:12 Arizal, cap. 7, letra 1 · 07:14 Or Pnimi, cap. 7, letra 1 · 09:01 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 4 · 11:23 Arizal, cap. 7, letra 2 (sic, lido como letra 1b) · 17:09 Arizal, cap. 7, letra 3 · 17:14 Or Pnimi, cap. 7, letra 3 · 18:27 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 1, letra 3 · 22:29 Or Pnimi, cap. 7, letra 3 · 23:32 Or Pnimi, cap. 7, letra 3 · 31:19 Arizal, cap. 7, letra 4 · 34:39 Arizal, cap. 7, letra 4 · 48:00 Bereshit 1:16 · 48:21 Bereshit 1:16 · 48:32 Chulin 60b · 48:55 Chulin 60b · 50:39 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, letra 2 · 51:41 Arizal, cap. 7, letra 2 · 52:44 Bava Batra 123a · 53:12 Or Pnimi, cap. 7, letra 2 · 54:30 Or Pnimi, cap. 7, letra 2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+548|39:23|בחגת הארי חנפין שהם גר שלו, משום שארי חנפין
+549|39:28|זה דבריא, אין לו אלא ואק, רק קומת ואק,
+550|39:35|חגת נאי לבד, ונמצאים חגת
+551|39:40|הגר שלו.
+552|39:42|זאת אומרת, החג אצלו נחשב לבחינת גר, כנ"ל ותבין
+553|39:48|כאן אשר אותה הנקודה דמלכו דאצילות שבקעה ועברה ממסך
+554|39:54|ולמטה בסוד אבחנה ב' הוא סוד
+555|40:00|אינסוף לזה הייתה הכוונה הרעשים
+556|40:06|הוא סוד אינסוף המכונה לעיל בשם תורו שיש בו
+557|40:12|בחינת אין סוף כנ"ל, ואין בו שום בחינה מדלת בחינות.
+558|40:19|מה הוא אומר לנו?
+559|40:22|ותבין, אשר אותה הנקודה דה מלכות דה אצילות שבקע ועברה ממסך ולמטה בסוד אבחנה בית הנעל,
+
+LINHAS A TRADUZIR:
+560|40:27|בדיבור הסמוך, הוא סוד אין סוף המכונה לעיל בשם תוהו, שיש בו מבחינת אין סוף כנ"ל, ואין
+561|40:34|בו שום בחינה מדלת בחינות חוכמה ובינה תפארת ומלכות, אלא דלת בחינות כלולות בו
+562|40:39|בכוח, ולא בפועל.
+563|40:42|ואותן הגר דארי חנפין הנ"ל, אשר נקודה דעליון התלבשה בתוכן,
+564|40:48|הנה גר אלו באות מהבחנה א' הנ"ל, בדיבור
+565|40:53|הסמוך.
+566|40:54|מה זאת אומרת?
+567|40:55|הכלים עצמם באו מהבחנה א'.
+568|40:58|מה זה הבחנה א'?
+569|41:00|פה חובר בהתלבשות.
+570|41:01|בדיוק, כבר יש שם כלים.
+571|41:04|עכשיו הנקודה הזאת באה ומתלבשת בכלים האלה.
+572|41:07|בין אם אנחנו קוראים להם עכשיו ואק דה אריך, או אריך דה ואק, או גארדה, זה לא משנה בכלל, צריך
+573|41:13|להבין את העיקרון, את הפרינציפ.
+574|41:18|אלו באות מאבחנה א' הנ"ל בדיבור הסמוך, ונקרא בוהו.
+575|41:23|ובו יש ד' שורשים של ד' בחינות חוכמה ובינה, תפארת ומלכות, בפועל
+576|41:29|ממש.
+577|41:30|כלומר, על ידי התלבשות, אור חוזר, שהם מבחינת כלים
+578|41:36|בפועל וזכור זה, אז יש לנו התלבשות של אור חוזר,
+579|41:42|שהולידה לנו את מה שייקרא בוהו, ויש לנו
+580|41:49|היווצרות של אטיק, של תוהו, על ידי אותה מלכות דמלכות העליון.
+581|41:56|שני חלקים בכתר.
+582|42:01|יש דמיון בין ה...
+583|42:03|מה שואל יואל?
+584|42:05|יש דמיון פה בין, נדמה לי דמיון חזק בין התוהו
+585|42:11|לאינסוף.
+586|42:13|נכון.
+587|42:14|שהדלת בחינות נמצאות אבל לא נבחרות.
+588|42:18|בכוח, נכון, נכון מאוד, ובגלל זה, זה מה שאמרתי מקודם, מבחינה רעיונית, אפשר להבין את
+589|42:24|זה.
+590|42:25|שאם יש פה אור העצמות שבקע ככה, אור אינסוף, בקע בצורה, מה זה אור העצמות?
+591|42:30|מה זה אור ישר?
+592|42:31|אור ישר ההגדרה שלו זה התפשטות אור אינסוף לעשות כלים.
+593|42:36|זה ההגדרה של אור ישר.
+594|42:39|אז אמרתי, מבחינה רעיונית, אם יש לנו פה חלק מהאור ישר הזה, שהוא בעצם אור
+595|42:44|אינסוף, שנכנס במלכות בלי
+596|42:51|להתייחס למסך, אז אפשר להבין למה אפילו לכתר בכללותו אנחנו קוראים
+597|42:57|אינסוף.
+598|42:59|כי זה ממש אינסוף.
+599|43:02|אלא שיש להם גם כלים מצד הבוהו, שזה הכלים שכבר יש עליהם אור

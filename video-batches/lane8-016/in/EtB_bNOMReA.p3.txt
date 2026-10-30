@@ -1,0 +1,64 @@
+videoId: EtB_bNOMReA
+parte 4 de 22 · traduzir as linhas 120 a 159 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot
+RESUMO: O rabino inicia o capítulo 7 da parte 3 do Talmud Eser HaSefirot, advertindo que Baal HaSulam traz aqui ensinamentos do Arizal que pertencem a etapas posteriores, e que o objetivo é captar o princípio central. Na letra 1 do Or Pnimi, a partir do Arizal citando o Rav Gedaliá HaLevi, ele explica que as dez sefirot de Beriá estão na altura de Biná e que os três primeiros Hagat de Arich Anpin de Beriá, expostos e sem vestimenta, estão ligados ao masach. Na letra 3 ele explica a "bekiá": parte da luz superior ignora o limite do masach e atravessa para baixo sem ajuda da luz de retorno, chamada ponto de Malchut de Malchut do superior — um grande novo ensinamento ao lado da luz de retorno comum. Na letra 4 esse ponto se torna o Tohu (Atik) do Keter de Beriá, de natureza Ein Sof, enquanto os recipientes vêm da luz de retorno e formam o Bohu (Arich). Na letra 2 Baal HaSulam cita o Arizal sobre o Zeir Anpin e a Malchut, inicialmente iguais, e a queixa da lua ("dois reis não usam a mesma coroa"), que a reduziu e a fez descer para Beriá como Atik. O rabino conclui lembrando que a parte 3 é propositalmente cheia de camadas e não segue uma lógica linear.
+MOMENTOS: 00:06 Abertura do capítulo 7 e o fragmento que passa sem luz de retorno · 01:37 Título do capítulo: Malchut de Atzilut torna-se Keter de Beriá · 04:18 Letra 1: Arizal e Rav Gedaliá HaLevi sobre o Hagat de Arich Anpin · 07:14 Or Pnimi: dez sefirot de Beriá na altura de Biná · 11:48 O masach e a vestimenta a partir do Peh do superior · 17:09 Letra 3: o que é a bekiá, o furo do masach · 22:29 Duas distinções no zivug de akaá · 31:19 Letra 4: o ponto vira Tohu e as vestes vêm do Bohu · 42:11 Tohu semelhante a Ein Sof e debate sobre causa e efeito · 47:15 Letra 2: Malchut, Zeir Anpin e a queixa da lua · 51:02 Lashon do Arizal: a lua reduzida desce como ponto · 54:07 Malchut e Zeir Anpin eram iguais, ambos recebiam de Biná · 57:16 Conclusão: a parte 3 e suas camadas
+FONTES CITADAS: 01:37 Baal HaSulam, Talmud Eser HaSefirot, parte 3, capítulo 7 (título) · 04:18 Arizal, citando Rav Gedaliá HaLevi, Talmud Eser HaSefirot parte 3, cap. 7, letra 1 · 05:08 Arizal, cap. 7, letra 1 · 06:12 Arizal, cap. 7, letra 1 · 07:14 Or Pnimi, cap. 7, letra 1 · 09:01 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 4 · 11:23 Arizal, cap. 7, letra 2 (sic, lido como letra 1b) · 17:09 Arizal, cap. 7, letra 3 · 17:14 Or Pnimi, cap. 7, letra 3 · 18:27 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 1, letra 3 · 22:29 Or Pnimi, cap. 7, letra 3 · 23:32 Or Pnimi, cap. 7, letra 3 · 31:19 Arizal, cap. 7, letra 4 · 34:39 Arizal, cap. 7, letra 4 · 48:00 Bereshit 1:16 · 48:21 Bereshit 1:16 · 48:32 Chulin 60b · 48:55 Chulin 60b · 50:39 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, letra 2 · 51:41 Arizal, cap. 7, letra 2 · 52:44 Bava Batra 123a · 53:12 Or Pnimi, cap. 7, letra 2 · 54:30 Or Pnimi, cap. 7, letra 2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|09:09|אבל למדנו את פרק ד' היטב.
+109|09:11|תהיה לי בריאה.
+110|09:14|כן.
+111|09:18|מה אומר?
+112|09:19|לא שומעים.
+113|09:23|לא שומעים.
+114|09:27|ברור.
+115|09:28|טוב.
+116|09:30|וכיוון שקומת בינה, אני ממשיך, כיוון שקומת בינה דה אצילות היא
+117|09:36|מלבשת שמה באצילות, שיש לנו את האור חוזר הזה
+118|09:42|שעולה עד קומת בינה, היא מלבשת על חגת
+119|09:48|דה אריחנפין.
+
+LINHAS A TRADUZIR:
+120|09:50|כלומר, במקביל להלבשה שלה,
+121|09:55|לקומת בינה, לגבי הארי חנפין
+122|10:01|ששם, היא מלבישה אותו רק עד החגת.
+123|10:09|ולכן הוא אומר, לא יוכל להימשך ממנו לעולם הבריאה
+124|10:16|זולת חגת נאי שלו בלבדם, שהם ואק שלו,
+125|10:22|ועל כן נבחנים חגת דארי חנפין דבריאה.
+126|10:26|לגר דה אריך רנפין אשר שם, והתבאר עוד במקומו.
+127|10:34|דהיינו, לא מקומו כאן, ולכן אין טעם שאנחנו
+128|10:40|נתעסק בזה, מפני שממש ממש לא מקומו.
+129|10:44|אבל בואו רגע נקרא את אות ב', ואולי זה ישפוך...
+130|10:48|מה הוא בדיוק אמר?
+131|10:50|הוא אמר פה שהגימל הראשונות בעולם הבריאה זה בעצם חגה?
+132|10:54|נכון.
+133|10:56|ולא כתר חוכמה בינה.
+134|10:57|נכון, וכדי לסבר את האוזן נגיד שבמדרגת חגת.
+135|11:03|ואיפה נלמד לנו בינה כאן?
+136|11:06|זה שאלות שכשאנחנו נלמד את הדבר במקומו, זה הדברים יתבהרו וזה בחלקים הרבה
+137|11:12|יותר מתקדמים.
+138|11:14|אבל בואו רגע נקרא את אות ב', שנייה, בואו נקרא את אות ב', טוב,
+139|11:20|ברשותכם.
+140|11:23|הראש דקול פרצוף אינו מתלבש בפרצוף התחתון,
+141|11:30|כי הלבשת התחתון מתחילה מפה דראש העליון ולמטה,
+142|11:35|כמו שהתבאר במקומו.
+143|11:38|וכיוון שחגא דאריחנפין הם ראש, על כן הם
+144|11:44|מגולים בלי התלבשות.
+145|11:48|ופה דווקא יש משהו שכן חשוב שתשימו לפניכם.
+146|11:52|כי כשאנחנו אומרים המסך יזדכך מגימל לב, הוא יזדכך ממש עד
+147|11:58|הסוף, כי אין מיעוט, אין מקצת נוהג ברוחני, ברגע שהוא יזדכך, עד לאן הוא יזדכך?
+148|12:04|עד לפה של הפרצוף הקודם, או של העולם הקודם.
+149|12:11|העליון.
+150|12:13|עד לפה יש רק פה עליון, פה זה בעליון, פה זה למעלה, זה בפרצוף,
+151|12:19|אוקיי?
+152|12:20|אז התפשט כל העולם אצילות, עכשיו יש לי הזדככות
+153|12:26|מגימל לבית, אבל למעשה המסך מזדכך עד לפה של
+154|12:32|העליון.
+155|12:34|ולכן כל פרצוף חדש שיוצא, הוא יוצא בין
+156|12:39|הראש, בין הפה של העליון, וככה הראש של העליון לפניו נשאר
+157|12:45|מגולה.
+158|12:47|וזה מה שהוא אומר לנו פה.
+159|12:49|את כל הדברים האלה, את כל הדברים האלה כמובן אנחנו נלמד כסדרם

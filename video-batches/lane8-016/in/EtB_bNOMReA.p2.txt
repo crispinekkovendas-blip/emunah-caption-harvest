@@ -1,0 +1,64 @@
+videoId: EtB_bNOMReA
+parte 3 de 22 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot
+RESUMO: O rabino inicia o capítulo 7 da parte 3 do Talmud Eser HaSefirot, advertindo que Baal HaSulam traz aqui ensinamentos do Arizal que pertencem a etapas posteriores, e que o objetivo é captar o princípio central. Na letra 1 do Or Pnimi, a partir do Arizal citando o Rav Gedaliá HaLevi, ele explica que as dez sefirot de Beriá estão na altura de Biná e que os três primeiros Hagat de Arich Anpin de Beriá, expostos e sem vestimenta, estão ligados ao masach. Na letra 3 ele explica a "bekiá": parte da luz superior ignora o limite do masach e atravessa para baixo sem ajuda da luz de retorno, chamada ponto de Malchut de Malchut do superior — um grande novo ensinamento ao lado da luz de retorno comum. Na letra 4 esse ponto se torna o Tohu (Atik) do Keter de Beriá, de natureza Ein Sof, enquanto os recipientes vêm da luz de retorno e formam o Bohu (Arich). Na letra 2 Baal HaSulam cita o Arizal sobre o Zeir Anpin e a Malchut, inicialmente iguais, e a queixa da lua ("dois reis não usam a mesma coroa"), que a reduziu e a fez descer para Beriá como Atik. O rabino conclui lembrando que a parte 3 é propositalmente cheia de camadas e não segue uma lógica linear.
+MOMENTOS: 00:06 Abertura do capítulo 7 e o fragmento que passa sem luz de retorno · 01:37 Título do capítulo: Malchut de Atzilut torna-se Keter de Beriá · 04:18 Letra 1: Arizal e Rav Gedaliá HaLevi sobre o Hagat de Arich Anpin · 07:14 Or Pnimi: dez sefirot de Beriá na altura de Biná · 11:48 O masach e a vestimenta a partir do Peh do superior · 17:09 Letra 3: o que é a bekiá, o furo do masach · 22:29 Duas distinções no zivug de akaá · 31:19 Letra 4: o ponto vira Tohu e as vestes vêm do Bohu · 42:11 Tohu semelhante a Ein Sof e debate sobre causa e efeito · 47:15 Letra 2: Malchut, Zeir Anpin e a queixa da lua · 51:02 Lashon do Arizal: a lua reduzida desce como ponto · 54:07 Malchut e Zeir Anpin eram iguais, ambos recebiam de Biná · 57:16 Conclusão: a parte 3 e suas camadas
+FONTES CITADAS: 01:37 Baal HaSulam, Talmud Eser HaSefirot, parte 3, capítulo 7 (título) · 04:18 Arizal, citando Rav Gedaliá HaLevi, Talmud Eser HaSefirot parte 3, cap. 7, letra 1 · 05:08 Arizal, cap. 7, letra 1 · 06:12 Arizal, cap. 7, letra 1 · 07:14 Or Pnimi, cap. 7, letra 1 · 09:01 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 4 · 11:23 Arizal, cap. 7, letra 2 (sic, lido como letra 1b) · 17:09 Arizal, cap. 7, letra 3 · 17:14 Or Pnimi, cap. 7, letra 3 · 18:27 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 1, letra 3 · 22:29 Or Pnimi, cap. 7, letra 3 · 23:32 Or Pnimi, cap. 7, letra 3 · 31:19 Arizal, cap. 7, letra 4 · 34:39 Arizal, cap. 7, letra 4 · 48:00 Bereshit 1:16 · 48:21 Bereshit 1:16 · 48:32 Chulin 60b · 48:55 Chulin 60b · 50:39 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, letra 2 · 51:41 Arizal, cap. 7, letra 2 · 52:44 Bava Batra 123a · 53:12 Or Pnimi, cap. 7, letra 2 · 54:30 Or Pnimi, cap. 7, letra 2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|05:53|והנה גם גימל ראשונות של אריך הנפין דבריאה, שהם חגת,
+69|06:00|הם גם כן עוברים דרך המסך, ואינם בוקעים המסך,
+70|06:06|רק הם אור המתמעט עובר קצתו דרך המסך.
+71|06:12|אבל אותה הנקודה, דמלכות דאצילות הנ"ל שירדה להתלבש בגר אלו דארי
+72|06:18|חנפין, הם אור עצמו של המלכות דאצילות, על כן הוא
+73|06:23|משברת ובוקעת את המסך עצמו, ויורדת ומתלבשת בגר
+74|06:29|דארי חנפין דבריא.
+75|06:31|הכל מובן, נכון?
+76|06:34|אפשר להתקדם.
+77|06:35|בסופו הכל מובן.
+78|06:40|ואז אין פאלות, אבל שום דבר לא מובן, אז זהו, אז שום דבר לא מובן פה כרגע,
+79|06:46|אבל בואו נראה מה בא לסולם, על מה הוא ממקד אותנו באור פנימי, וכמו שאמרתי,
+
+LINHAS A TRADUZIR:
+80|06:52|האות א' של אור פנימי, לא ממש תבהר את זה, אוקיי?
+81|06:58|אז הוא אומר באות א', אור פנימי, מתייחס למאמר של
+82|07:04|הרב גדליה הלוי, כי הגימל הראשונות של הו"ו קצוות דאריך עד פין
+83|07:10|דבריאה, שהן חגת.
+84|07:14|עשר הספירות דבריאה, כולן הן בקומת אור בינה,
+85|07:19|ואפילו כתר וחוכמה.
+86|07:22|זה למדנו.
+87|07:23|למדנו שבעולם האצילות, המסך, כל הקומה יצאה
+88|07:29|בחוכמה, על מסך דבחינה ג', עוביות דבחינה ג'.
+89|07:34|בסיומו של עולם האצילות, המסך הזה הזדכך מג' לב', ברגע שיש לנו
+90|07:40|מסך עם אוויות חדשה, אור אינסוף מזדווג לו, אור ישר פוגע
+91|07:45|במסך, מחזיר אור חוזר, המסך מחזיר אור חוזר,
+92|07:51|שהפעם בגלל שזו אוויות הבחינה ב', מלביש את האור ישר עד קומת
+93|07:57|בינה.
+94|07:59|עד כאן נקרא העיבור של עולם הבריאה, נקרא
+95|08:05|הכנה ליציאתן של עשר ספירות דברייה, וזה הערה שהיא
+96|08:10|ממטה למעלה, כי יש לנו פה אור חוזר המלביש.
+97|08:16|מכיוון שכל מה שהתחתון השפיע על העליון, אז
+98|08:22|גם המלכות הזאת מתפשטת מנה רובה ומקבלת את כל העשר ספירות בקומת בינה
+99|08:28|האלה לתוכה, ו...
+100|08:32|יורד העשר ספירות האלה מתחת למסך, אל תוך המלכות, ומתפשטת מינה עובה
+101|08:38|לעשר ספירות, שעכשיו יקראו עשר ספירות דעולם הבריאה.
+102|08:44|שאפילו מכיוון ששם הקומה היא בקומת בינה, אז זה לא שאין שם
+103|08:50|כתר וחוכמה, אלא שהם בלויים, גנוזים הוא השתמש במילה, בתוך
+104|08:55|הבינה.
+105|08:57|עד כאן אמור להיות לנו ברור.
+106|09:01|מי שרוצה יחזור לפרק ד' עוד ב', כמו שהוא אומר, ויסתכל שמה במה
+107|09:07|מדובר.
+108|09:09|אבל למדנו את פרק ד' היטב.
+109|09:11|תהיה לי בריאה.
+110|09:14|כן.
+111|09:18|מה אומר?
+112|09:19|לא שומעים.
+113|09:23|לא שומעים.
+114|09:27|ברור.
+115|09:28|טוב.
+116|09:30|וכיוון שקומת בינה, אני ממשיך, כיוון שקומת בינה דה אצילות היא
+117|09:36|מלבשת שמה באצילות, שיש לנו את האור חוזר הזה
+118|09:42|שעולה עד קומת בינה, היא מלבשת על חגת
+119|09:48|דה אריחנפין.

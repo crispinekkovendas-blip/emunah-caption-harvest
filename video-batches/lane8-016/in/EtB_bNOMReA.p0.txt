@@ -1,0 +1,50 @@
+videoId: EtB_bNOMReA
+parte 1 de 22 · traduzir as linhas 0 a 39 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot
+RESUMO: O rabino inicia o capítulo 7 da parte 3 do Talmud Eser HaSefirot, advertindo que Baal HaSulam traz aqui ensinamentos do Arizal que pertencem a etapas posteriores, e que o objetivo é captar o princípio central. Na letra 1 do Or Pnimi, a partir do Arizal citando o Rav Gedaliá HaLevi, ele explica que as dez sefirot de Beriá estão na altura de Biná e que os três primeiros Hagat de Arich Anpin de Beriá, expostos e sem vestimenta, estão ligados ao masach. Na letra 3 ele explica a "bekiá": parte da luz superior ignora o limite do masach e atravessa para baixo sem ajuda da luz de retorno, chamada ponto de Malchut de Malchut do superior — um grande novo ensinamento ao lado da luz de retorno comum. Na letra 4 esse ponto se torna o Tohu (Atik) do Keter de Beriá, de natureza Ein Sof, enquanto os recipientes vêm da luz de retorno e formam o Bohu (Arich). Na letra 2 Baal HaSulam cita o Arizal sobre o Zeir Anpin e a Malchut, inicialmente iguais, e a queixa da lua ("dois reis não usam a mesma coroa"), que a reduziu e a fez descer para Beriá como Atik. O rabino conclui lembrando que a parte 3 é propositalmente cheia de camadas e não segue uma lógica linear.
+MOMENTOS: 00:06 Abertura do capítulo 7 e o fragmento que passa sem luz de retorno · 01:37 Título do capítulo: Malchut de Atzilut torna-se Keter de Beriá · 04:18 Letra 1: Arizal e Rav Gedaliá HaLevi sobre o Hagat de Arich Anpin · 07:14 Or Pnimi: dez sefirot de Beriá na altura de Biná · 11:48 O masach e a vestimenta a partir do Peh do superior · 17:09 Letra 3: o que é a bekiá, o furo do masach · 22:29 Duas distinções no zivug de akaá · 31:19 Letra 4: o ponto vira Tohu e as vestes vêm do Bohu · 42:11 Tohu semelhante a Ein Sof e debate sobre causa e efeito · 47:15 Letra 2: Malchut, Zeir Anpin e a queixa da lua · 51:02 Lashon do Arizal: a lua reduzida desce como ponto · 54:07 Malchut e Zeir Anpin eram iguais, ambos recebiam de Biná · 57:16 Conclusão: a parte 3 e suas camadas
+FONTES CITADAS: 01:37 Baal HaSulam, Talmud Eser HaSefirot, parte 3, capítulo 7 (título) · 04:18 Arizal, citando Rav Gedaliá HaLevi, Talmud Eser HaSefirot parte 3, cap. 7, letra 1 · 05:08 Arizal, cap. 7, letra 1 · 06:12 Arizal, cap. 7, letra 1 · 07:14 Or Pnimi, cap. 7, letra 1 · 09:01 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 4 · 11:23 Arizal, cap. 7, letra 2 (sic, lido como letra 1b) · 17:09 Arizal, cap. 7, letra 3 · 17:14 Or Pnimi, cap. 7, letra 3 · 18:27 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 1, letra 3 · 22:29 Or Pnimi, cap. 7, letra 3 · 23:32 Or Pnimi, cap. 7, letra 3 · 31:19 Arizal, cap. 7, letra 4 · 34:39 Arizal, cap. 7, letra 4 · 48:00 Bereshit 1:16 · 48:21 Bereshit 1:16 · 48:32 Chulin 60b · 48:55 Chulin 60b · 50:39 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, letra 2 · 51:41 Arizal, cap. 7, letra 2 · 52:44 Bava Batra 123a · 53:12 Or Pnimi, cap. 7, letra 2 · 54:30 Or Pnimi, cap. 7, letra 2
+
+LINHAS A TRADUZIR:
+0|00:00|ערב טוב, שלום לכם, אנחנו בלימוד
+1|00:06|שלנו, תלמוד עשר הספירות, חלק ג', והגענו לפרק ז',
+2|00:13|אחרי שכבר קיבלנו רמזים על מה שאנחנו הולכים לדבר פה בחלק
+3|00:19|ז', על עניין אותו חלקיק.
+4|00:25|שעובר מהעליון לתחתון בלי אור חוזר, בלי מסך, בלי אור חוזר.
+5|00:31|והיום ננסה ככה לתפוס מה העניין בזה.
+6|00:35|אבל מכיוון שאנחנו עוסקים בחלק ג',
+7|00:40|וכמו שאמרנו הרבה פעמים, מביא פה בעל
+8|00:46|הסולם דרושים שבכלל שייכים לעולם האצילות, שלא שייכים בסדר ההשתלשלות,
+9|00:52|ומעשיר אותנו בהרבה...
+10|00:55|מידע שהוא בכלל שייך לחלקים מאוחרים יותר, אז לפעמים זה קצת מבלבל,
+11|01:03|וצריך לדעת מה לדלות מזה ועל מה להתמקד, מה העניין
+12|01:09|של פרק ז' פה שלפנינו.
+13|01:13|אז בהתחלה אות א' של אור פנימי שנלמד אותה,
+14|01:19|היא משתמשת במושגים שהם ממש ממש לא שייכים לנו כאן
+15|01:25|ועכשיו, אני אנסה להסביר אותם בפשטות, אבל מה שחשוב זה שוב
+16|01:30|להבין את מה שהוא רוצה ללמד אותנו.
+17|01:34|כמו שכתוב פה בכותרת, אנחנו בעמוד קכו,
+18|01:37|כותרת של פרק ז' מבאר איך
+19|01:42|מלכות דאצילות ירדה והייתה לכתר בעולם הבריאה.
+20|01:49|אותו חלק של מלכות דה מלכות דה אצילות, ומלכות דה מלכות של דה
+21|01:55|אצילות הוא נותן כדוגמה לכל מלכות דה מלכות של עליון, שיורדת
+22|02:00|לתחתון בלי, בהתעלמות מוחלטת
+23|02:06|מהעניין הזה של המסך.
+24|02:12|אות א', כותרת, בית בחינות יורדות מעולם
+25|02:18|העליון לעולם התחתון.
+26|02:20|א', העשר ספירות דאור ישר, המלובשות באור חוזר,
+27|02:26|שמתפשטות על ידי המסך וזיווג דא עקאה.
+28|02:30|שזה למדנו.
+29|02:33|ב', שזה חידוש, הבחינה האחרונה דעולם העליון,
+30|02:39|כמו שאמרנו, הוא נותן פה דוגמה של הבחינה האחרונה של עולם האצילות, אבל הבחינה
+31|02:45|האחרונה דעולם העליון, שהיא מלכות דה מלכות, שיורדת
+32|02:51|ונעשית עתיק בעולם התחתון, והיא אינה מתפשטת על
+33|02:57|ידי האור חוזר שבמסך, אלא בוקעת את המסך ויורדת.
+34|03:03|אז זאת בחינה שהיא חידוש מבחינתנו.
+35|03:07|היא הולכת ונהיית עתיק, אמרנו שבכתר של כל עולם, של כל קומה,
+36|03:13|בכתר יש שני חלקים מרכזיים, שזה עתיק ואריך, אריך אנפין,
+37|03:20|וקוראים להם גם תוהו ובוהו.
+38|03:25|אז אותה בחינה שיורדת ובוקעת ללא התחשבות
+39|03:30|במסך, היא זאת שנהיית עתיק בעולם התחתון, בכתר של העולם

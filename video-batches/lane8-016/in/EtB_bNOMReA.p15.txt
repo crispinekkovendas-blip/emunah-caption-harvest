@@ -1,0 +1,64 @@
+videoId: EtB_bNOMReA
+parte 16 de 22 · traduzir as linhas 600 a 639 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot
+RESUMO: O rabino inicia o capítulo 7 da parte 3 do Talmud Eser HaSefirot, advertindo que Baal HaSulam traz aqui ensinamentos do Arizal que pertencem a etapas posteriores, e que o objetivo é captar o princípio central. Na letra 1 do Or Pnimi, a partir do Arizal citando o Rav Gedaliá HaLevi, ele explica que as dez sefirot de Beriá estão na altura de Biná e que os três primeiros Hagat de Arich Anpin de Beriá, expostos e sem vestimenta, estão ligados ao masach. Na letra 3 ele explica a "bekiá": parte da luz superior ignora o limite do masach e atravessa para baixo sem ajuda da luz de retorno, chamada ponto de Malchut de Malchut do superior — um grande novo ensinamento ao lado da luz de retorno comum. Na letra 4 esse ponto se torna o Tohu (Atik) do Keter de Beriá, de natureza Ein Sof, enquanto os recipientes vêm da luz de retorno e formam o Bohu (Arich). Na letra 2 Baal HaSulam cita o Arizal sobre o Zeir Anpin e a Malchut, inicialmente iguais, e a queixa da lua ("dois reis não usam a mesma coroa"), que a reduziu e a fez descer para Beriá como Atik. O rabino conclui lembrando que a parte 3 é propositalmente cheia de camadas e não segue uma lógica linear.
+MOMENTOS: 00:06 Abertura do capítulo 7 e o fragmento que passa sem luz de retorno · 01:37 Título do capítulo: Malchut de Atzilut torna-se Keter de Beriá · 04:18 Letra 1: Arizal e Rav Gedaliá HaLevi sobre o Hagat de Arich Anpin · 07:14 Or Pnimi: dez sefirot de Beriá na altura de Biná · 11:48 O masach e a vestimenta a partir do Peh do superior · 17:09 Letra 3: o que é a bekiá, o furo do masach · 22:29 Duas distinções no zivug de akaá · 31:19 Letra 4: o ponto vira Tohu e as vestes vêm do Bohu · 42:11 Tohu semelhante a Ein Sof e debate sobre causa e efeito · 47:15 Letra 2: Malchut, Zeir Anpin e a queixa da lua · 51:02 Lashon do Arizal: a lua reduzida desce como ponto · 54:07 Malchut e Zeir Anpin eram iguais, ambos recebiam de Biná · 57:16 Conclusão: a parte 3 e suas camadas
+FONTES CITADAS: 01:37 Baal HaSulam, Talmud Eser HaSefirot, parte 3, capítulo 7 (título) · 04:18 Arizal, citando Rav Gedaliá HaLevi, Talmud Eser HaSefirot parte 3, cap. 7, letra 1 · 05:08 Arizal, cap. 7, letra 1 · 06:12 Arizal, cap. 7, letra 1 · 07:14 Or Pnimi, cap. 7, letra 1 · 09:01 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 4 · 11:23 Arizal, cap. 7, letra 2 (sic, lido como letra 1b) · 17:09 Arizal, cap. 7, letra 3 · 17:14 Or Pnimi, cap. 7, letra 3 · 18:27 Baal HaSulam, Talmud Eser HaSefirot, parte 3, cap. 1, letra 3 · 22:29 Or Pnimi, cap. 7, letra 3 · 23:32 Or Pnimi, cap. 7, letra 3 · 31:19 Arizal, cap. 7, letra 4 · 34:39 Arizal, cap. 7, letra 4 · 48:00 Bereshit 1:16 · 48:21 Bereshit 1:16 · 48:32 Chulin 60b · 48:55 Chulin 60b · 50:39 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, letra 2 · 51:41 Arizal, cap. 7, letra 2 · 52:44 Bava Batra 123a · 53:12 Or Pnimi, cap. 7, letra 2 · 54:30 Or Pnimi, cap. 7, letra 2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|42:18|בכוח, נכון, נכון מאוד, ובגלל זה, זה מה שאמרתי מקודם, מבחינה רעיונית, אפשר להבין את
+589|42:24|זה.
+590|42:25|שאם יש פה אור העצמות שבקע ככה, אור אינסוף, בקע בצורה, מה זה אור העצמות?
+591|42:30|מה זה אור ישר?
+592|42:31|אור ישר ההגדרה שלו זה התפשטות אור אינסוף לעשות כלים.
+593|42:36|זה ההגדרה של אור ישר.
+594|42:39|אז אמרתי, מבחינה רעיונית, אם יש לנו פה חלק מהאור ישר הזה, שהוא בעצם אור
+595|42:44|אינסוף, שנכנס במלכות בלי
+596|42:51|להתייחס למסך, אז אפשר להבין למה אפילו לכתר בכללותו אנחנו קוראים
+597|42:57|אינסוף.
+598|42:59|כי זה ממש אינסוף.
+599|43:02|אלא שיש להם גם כלים מצד הבוהו, שזה הכלים שכבר יש עליהם אור
+
+LINHAS A TRADUZIR:
+600|43:08|חוזר וכולי וכולי.
+601|43:13|שעברו בדרך הבחנה א'.
+602|43:18|כן.
+603|43:18|שאלה כבוד הרב?
+604|43:21|כן.
+605|43:23|אותם כלים באור חוזר שיצרו לנו עשר ספירות מיני הוגה במסך.
+606|43:29|כן.
+607|43:31|זה הסיבה לאור שבוקע את המצך
+608|43:37|שהוא המסובב, הוא מגיע כביכול אחרי, לא?
+609|43:40|לא.
+610|43:41|הוא לא מגיע כמסובב לשלב הראשון?
+611|43:43|לא, הוא לא, קודם כל, לא, לא, גם לא מצד סדר סיבה מסובב, הוא
+612|43:48|אמר לנו זה קורה וזה קורה.
+613|43:51|הוא לא אמר לנו שזה הסיבה לזה או זה הסיבה לזה.
+614|43:54|הבנתי.
+615|43:57|הוא רק אומר לנו איפה זה מתלבש.
+616|44:00|אור ישר יורץ, אור בוא חוזר, חלקו ממשיך הלאה, חלקו ממשיך הלאה.
+617|44:04|בדיוק, חלקו ממשיך דוך.
+618|44:10|מה שאני מנסה להבין, למה אני מנסה להבין סדר סיבה ומסובב?
+619|44:14|כי אני מנסה להבין כביכול מי הראשון שפועל במסך.
+620|44:19|אם הם ירדו ביחד והאור חוזר חוזר, והאור הבוקע הוא בוקע, אז הוא כביכול עובר
+621|44:25|ראשון את המסך.
+622|44:26|אני מנסה להבין כביכול כי יש לנו אחרי זה תוהו ובוהו.
+623|44:30|נכון, נכון.
+624|44:31|ואחד מהם הוא שורש של השני, או אחד הוא הסיבה והשני הוא המסובב, או אחד
+625|44:37|הוא האריך אנפין שהוא, סליחה, אחד הוא האריך.
+626|44:40|נכון, דיברנו על מצד כן, סיבה ומסובב, כן.
+627|44:45|אני מנסה להבין אם בכתר יש לנו את התוהו שהוא כביכול.
+628|44:49|אתה שואל מי הגיע הראשון?
+629|44:52|כן, כן, האם הסדר הזה נכלל גם ב...
+630|44:56|אני אומר לך, אין מוקדם ומאוחר בתורה.
+631|45:00|אני לא נתקלתי פה, לא, לא, זה גם אנחנו עוסקים בעניין
+632|45:06|רוחני, אז אתה שואל נכון, לא מבחינת מי בא אחרי מי בא לפני, אלא עניין של סיבה ומסובב,
+633|45:12|אתה שואל נכון, אני לא ראיתי פה שהוא אומר את זה, הוא אומר שזה קורה סימולטנית, שזה קורה
+634|45:17|במקביל, או שזה, זה קורה וזה קורה, אוקיי?
+635|45:23|הבחנה אחת והבחנה שנייה.
+636|45:26|זה ביחד עם כתב.
+637|45:31|ויחד יוצא הכתר, כן.
+638|45:35|תודה.
+639|45:41|בפועל זה מודל שכבר קיים, זה לא באמת משהו שמתחיל ונגמר,
