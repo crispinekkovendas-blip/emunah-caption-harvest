@@ -30,6 +30,9 @@ const LANE = Number(process.argv[process.argv.indexOf('--lane') + 1]) || 1
 // after 3 tries) and let the text slide up to 6 lines ahead of the Hebrew (subtitles before the voice)
 const CHUNK = 120
 const BEFORE = 12
+// 2026-10-30: GitHub expands at most 256 jobs from one matrix; a batch with more pieces (the 40-line
+// retries) never started its translate job and the lane retried it forever. The rest go in the next run.
+const MATRIX = 250
 const SUPA = (process.env.SUPABASE_URL || '').replace(/\/$/, '')
 const H = { apikey: process.env.SUPABASE_SERVICE_KEY, authorization: `Bearer ${process.env.SUPABASE_SERVICE_KEY}` }
 if (!SUPA) throw new Error('SUPABASE_URL missing')
@@ -75,7 +78,7 @@ for (const b of batches) {
   const left = pending(b)
   console.log(`${b} is still pending: ${left.length} chunks without output`)
   output('batch', b)
-  output('chunks', JSON.stringify(left))
+  output('chunks', JSON.stringify(left.slice(0, MATRIX)))
   process.exit(0)
 }
 
@@ -204,4 +207,4 @@ fs.writeFileSync(path.join(DIR, name, 'out', '.keep'), '')
 fs.writeFileSync(path.join(DIR, name, 'manifest.json'), JSON.stringify({ name, lane: LANE, created: new Date().toISOString(), status: 'pending', lessons, chunks }, null, 1) + '\n')
 console.log(`${name}: ${lessons.length} lessons, ${chunks.length} chunks`)
 output('batch', name)
-output('chunks', JSON.stringify(chunks))
+output('chunks', JSON.stringify(chunks.slice(0, MATRIX)))
