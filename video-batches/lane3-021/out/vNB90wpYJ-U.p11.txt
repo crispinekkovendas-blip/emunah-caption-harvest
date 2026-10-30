@@ -1,0 +1,120 @@
+1320	Where in the Tanakh is the name Noam?	Onde no Tanakh existe o nome Noam?
+1321	Noam.	Noam.
+1322	A staff.	Um cajado.
+1323	The staff of Noam.	O cajado chamado Noam.
+1324	It is written in the book of Zechariah.	Está escrito no livro de Zacarias.
+1325	"Take for yourself two staffs."	"Toma para ti dois cajados."
+1326	"One I called Noam."	"A um chamei Noam."
+1327	Noam is a staff.	Noam é um cajado.
+1328	Now tell me, is Noam Elimelech the name of a person or the name of a book?	Agora me diga, Noam Elimelech é nome de uma pessoa ou nome de um livro?
+1329	Of a book that Rabbi Elimelech wrote.	De um livro que o Rabi Elimelech escreveu.
+1330	If you named your son Elimelech, after whom would it be?	Se você desse ao seu filho o nome Elimelech, seria em homenagem a quem?
+1331	Rabbi Elimelech the tzaddik.	Ao Rabi Elimelech, o tsadik.
+1332	That is accepted.	Isso é aceito.
+1333	Noam Elimelech is named after a book.	Noam Elimelech é o nome de um livro.
+1334	Would a person name his son Talmud Bavli?	Alguém daria ao filho o nome de Talmud Bavli?
+1335	Shulchan Arukh?	Shulchan Arukh?
+1336	A general summary?	Um resumo geral?
+1337	The Tikkun HaKlali, Tehilim?	O Tikun HaKlali, Tehilim?
+1338	You have never seen such a thing.	Você nunca viu uma coisa dessas.
+1339	Where did you get the name Noam Elimelech from?	De onde você tirou o nome Noam Elimelech?
+1340	If the father had studied the book Noam Elimelech, he would have concluded that one doesn't give a child such a name at all.	Se o pai tivesse estudado o livro Noam Elimelech, concluiria que não se dá esse nome a uma criança.
+1341	Where did you get this from?	De onde você tirou isso?
+1342	Just for the spice, you found some tzaddik they call...	Só pelo tempero, você achou algum tsadik que chamam de...
+1343	A tzaddik isn't called Noam Elimelech, he is called Elimelech.	Não se chama o tsadik de Noam Elimelech, chamam-no de Elimelech.
+1344	The book is called Noam Elimelech.	O livro é que se chama Noam Elimelech.
+1345	Do you even know what this book is?	Você sequer sabe o que é esse livro?
+1346	Let me test you on the stars in the book, not on the book itself.	Deixe-me testar você sobre as estrelinhas do livro, não sobre o livro.
+1347	Every few words there is a star, as we said in the class on Noam Elimelech, or in the class "A True King."	A cada poucas palavras há uma estrelinha, como dissemos na aula sobre Noam Elimelech, ou na aula "Um Rei Verdadeiro".
+1348	Do you even know what those stars between the lines, between the words in the book, are?	Você sequer sabe o que são essas estrelinhas entre as linhas, entre as palavras do livro?
+1349	What do you name your son after something you don't know what it is?	Que nome você dá ao seu filho a partir de algo que você não sabe o que é?
+1350	What are these things?	O que são essas coisas?
+1351	Do you think he will be a tzaddik that way?	Você acha que ele será um tsadik assim?
+1352	Senseless one, come on.	Sem noção, vamos lá.
+1353	No, I'll have a righteous daughter. What did she name her daughter?	Não, vou ter uma filha justa. Que nome ela deu à filha?
+1354	Tohar.	Tohar.
+1355	Blessed are you and blessed is your portion.	Feliz de você e feliz é a sua porção.
+1356	What is Tohar?	O que é Tohar?
+1357	What is it?	O que é isso?
+1358	If the mother goes to the mikveh in purity and modesty, and the children are raised in modesty	Se a mãe vai ao mikvê com pureza e recato, e os filhos são educados no recato
+1359	and holiness, then you don't need the name Tohar.	e na santidade, não é preciso o nome Tohar.
+1360	Call her Sarah, Rivka, Rachel and Leah, call her Yocheved, I don't know what you'll call her.	Chame-a de Sara, Rivká, Rachel e Léa, chame-a de Yocheved, não sei como vai chamar.
+1361	Hoglah, Milkah and Tirtzah, call her.	Chame-a de Hogla, Milká e Tirtsá.
+1362	The names of the Tanakh. What is Tohar?	Os nomes do Tanakh. O que é Tohar?
+1363	Where did you get this name from?	De onde vocês tiraram esse nome?
+1364	Do you think that if you call a girl Tohar and she goes around without sleeves, she will be pure?	Vocês acham que, se chamarem a menina de Tohar e ela andar sem mangas, ela será pura?
+1365	Empty things.	Coisas vazias.
+1366	It's just that there's no sense. Tohar?	Só que não há bom senso. Tohar?
+1367	What is Tohar?	O que é Tohar?
+1368	Yes, he is meeting someone, her name is Tohar.	Sim, ele está se encontrando com alguém, o nome dela é Tohar.
+1369	A world of imagination, so you will also live in imagination.	Um mundo de imaginação; então você também vai viver na imaginação.
+1370	And if they invite me to a wedding and send me an invitation, they sent you an invitation.	E se me convidam para um casamento e me mandam um convite, mandaram um convite para você.
+1371	He sends you the invitations either by email or by WhatsApp.	Ele manda os convites por e-mail ou por WhatsApp.
+1372	Happy are they, Israel.	Felizes são eles, Israel.
+1373	Do you know what you do?	Sabe o que você faz?
+1374	You photograph a bill or a check for him	Você fotografa uma nota ou um cheque para ele
+1375	and send it...	e envia...
+1376	Tell him it's digital.	Diga a ele que é digital.
+1377	Today there are even rabbis who perform betrothals digitally, by remote control, in this heat.	Hoje há até rabinos que realizam o casamento digitalmente, por controle remoto, neste calor.
+1378	How can it be that a kosher person, and this is already a key to life, a kosher person who doesn't sin,	Como é possível que uma pessoa íntegra, e isso já é uma chave para a vida, uma pessoa íntegra que não peca,
+1379	tries not to sin, is careful, prays with intention, with all	procura não pecar, é cuidadosa, reza com intenção, com toda
+1380	his strength, gives charity, is beloved above and beloved below,	a sua força, dá tsedacá, é querida no Céu e querida entre as criaturas,
+1381	is inscribed and sealed on Rosh HaShanah for a good year, a good life	é inscrita e selada em Rosh HaShaná para um bom ano, uma boa vida
+1382	and peace.	e paz.
+1383	It is written that from the fifteenth of Av a person already writes to his friend "a good year"; from then it is already seen.	Está escrito que a partir de 15 de Av a pessoa já escreve ao seu amigo "um bom ano"; a partir daí já se vê.
+1384	You can already tell your friend "a good year, a good inscription and sealing."	Você já pode dizer ao seu amigo "um bom ano, uma boa inscrição e selamento".
+1385	All the requests were approved on Rosh HaShanah and Yom Kippur.	Todos os pedidos foram aprovados em Rosh HaShaná e Yom Kipur.
+1386	Livelihood, health, shidduch, children, peace.	Sustento, saúde, shidduch, filhos, paz.
+1387	And even orderly parking was approved for him from heaven.	E até uma vaga de estacionamento certinha foi aprovada para ele lá do Céu.
+1388	Everything, and with all that, he has nothing.	Tudo, e mesmo assim ele não tem nada.
+1389	Nothing changes all year.	Nada muda o ano inteiro.
+1390	All the requests were approved; the man, with self-sacrifice, doesn't sin, prays and learns	Todos os pedidos foram aprovados; o homem, com abnegação, não peca, reza e estuda
+1391	Torah all day, is married, has children,	Torá o dia todo, é casado, tem filhos,
+1392	what more do you want?	o que mais você quer?
+1393	What more do you want than this?	O que mais você quer além disso?
+1394	Gentlemen, we learned a comprehensive class called Birkat	Senhores, estudamos uma aula abrangente chamada Birkat
+1395	Cohanim. Whoever doesn't hear Birkat Cohanim: the check is ready, it's just that you don't come	Cohanim. Quem não ouve Birkat Cohanim: o cheque está pronto, só que você não vem
+1396	to collect it.	buscá-lo.
+1397	Birkat Cohanim in the synagogue comes after everything has been approved.	Birkat Cohanim na sinagoga vem depois que tudo já foi aprovado.
+1398	Come and take it.	Venha pegar.
+1399	A man who doesn't pray Shacharit in the synagogue and doesn't hear Birkat Cohanim, you have everything.	Um homem que não reza Shacharit na sinagoga e não ouve Birkat Cohanim: você tem tudo.
+1400	But you don't...	Mas você não...
+1401	Come and take it!	Venha pegar!
+1402	Birkat Cohanim is the only blessing that is without conditions: whether sinner, whether tzaddik, whether	Birkat Cohanim é a única bênção sem condições: seja pecador, seja tsadik, seja
+1403	whoever comes is blessed. Nothing else will help you; everything	quem vier é abençoado. Nada mais vai te ajudar; tudo
+1404	is waiting for you in the bank. Go take it. What are you praying for? Why things	está esperando por você no banco. Vá pegar. Pelo que você reza? Por que coisas
+1405	not even the opening of the ark? You donated, you gave, you came to Torah classes, you don't even sin,	nem mesmo a abertura da arca? Você doou, você deu, você veio às aulas de Torá, nem sequer peca,
+1406	so where is the shidduch and where are all those things? Everything is ready. A class called	então onde está o shidduch e onde estão todas essas coisas? Tudo está pronto. Uma aula chamada
+1407	Birkat Cohanim, the long and the short version.	Birkat Cohanim, a longa e a curta.
+1408	Number?	Número?
+1409	1117.	1117.
+1410	You said it in Dan Yaakov.	Você disse em Dan Yaakov.
+1411	Here is the lieutenant colonel.	Aí está o tenente-coronel.
+1412	On Chanukah.	Em Chanucá.
+1413	That's the Chanukah one.	Essa é a de Chanucá.
+1414	Very good, well done.	Muito bem, parabéns.
+1415	The eighth candle.	A oitava vela.
+1416	Big?	Grande?
+1417	Birkat Cohanim!	Birkat Cohanim!
+1418	There you also say, may you have parking.	Ali você também diz: que você tenha uma vaga.
+1419	Otherwise, even if you bought a parking spot, last week they sold a parking spot in Jerusalem, just a	Do contrário, mesmo que você tenha comprado uma vaga, semana passada venderam uma vaga em Jerusalém, só um
+1420	cube, for 200,000 shekels.	cubinho, por 200 mil shekels.
+1421	They sold a parking spot, just a slot.	Venderam uma vaga, só um espaço marcado.
+1422	Do you understand what you are talking about?	Você entende do que está falando?
+1423	May you have one, and sometimes even if you have it and it's yours, they parked in your spot.	Que você tenha uma, e às vezes, mesmo que você tenha e seja sua, estacionaram no seu lugar.
+1424	Look what you go through, besides wrecking your nerves.	Veja o que você passa, além de acabar com os nervos.
+1425	May you have parking, even.	Que você tenha vaga, até isso.
+1426	What do they not bless you with there?	Com o que não te abençoam ali?
+1427	Whoever doesn't come to the synagogue, a woman who didn't send her husband to the synagogue,	Quem não vai à sinagoga, uma mulher que não mandou o marido à sinagoga,
+1428	her son to the synagogue.	o filho dela à sinagoga.
+1429	With you too, everything is pending, but you didn't come to collect.	Com você também tudo está pendente, mas vocês não vieram buscar.
+1430	That is why even the whole Shacharit prayer is rabbinic.	Por isso até toda a oração de Shacharit é de origem rabínica.
+1431	Birkat Cohanim at Shacharit is Torah law.	Birkat Cohanim em Shacharit é lei da Torá.
+1432	It is Torah law every day.	É lei da Torá todos os dias.
+1433	Birkat Cohanim at Shacharit.	Birkat Cohanim em Shacharit.
+1434	And about the Cohen himself, HaKadosh Baruch Hu says, "and I will bless them."	E sobre o próprio cohen, HaKadosh Baruch Hu diz: "e Eu os abençoarei".
+1435	A personal blessing from Me.	Uma bênção pessoal de Mim.
+1436	HaKadosh Baruch Hu blessed me personally today.	HaKadosh Baruch Hu me abençoou pessoalmente hoje.
+1437	Personally, because I did Birkat Cohanim.	Pessoalmente, porque fiz Birkat Cohanim.
+1438	When I blessed, I also had in mind the whole dear family of Matok MiDvash, wherever they are, in Israel and around the world.	Quando abençoei, tive em mente também toda a querida família do Matok MiDvash, onde quer que estejam, em Israel e no mundo.
+1439	But one who merely has intent is not like one who actually goes himself.	Mas quem apenas tem a intenção não é igual a quem de fato vai pessoalmente.
