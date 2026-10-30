@@ -1,0 +1,78 @@
+videoId: kWlUiEBWacU
+parte 4 de 4 · traduzir as linhas 360 a 413 (54 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Temor antes da sabedoria: chaves externas e internas
+RESUMO: O rabino lê o Tikunei HaZohar e começa pelo princípio de Pirkei Avot de que o temor ao pecado deve preceder a sabedoria, senão ela não perdura. Ele ilustra com a parábola de quem recebe as chaves internas da casa mas não a da porta principal, e com os sentidos externos que guardam o corpo antes de algo entrar. Depois explica, pela cabalá, que Adnut (Adonai) são as chaves externas da yirá e HaVaYaH as internas da sabedoria, e por isso a Amidá começa com "Adonai sefatai tiftach" e termina a primeira bênção com "Magen Avraham". Mostra que o serviço a HaShem começa pela yirá e sobe ao amor, com Avraham na Akedá (Bereshit 22) e Iyov, e que isso vale também para as mitzvot: primeiro as proibições (lo ta'asê), depois as positivas, pois dizer que ama HaShem sem guardar as proibições é vazio. Por fim apresenta a sexta etapa, Yeshayahu 33:6 e os seis sedarim da Mishná (Zeman Nakat), lembrando a ordem de estudo: Chumash, Mishná, Gemará, Rashi e Tosafot e, depois, a cabalá, os Midrashim e o Zohar.
+MOMENTOS: 00:25 Quinta etapa: o temor precede a sabedoria · 02:03 Parábola das chaves internas e externas · 02:55 Olhos, ouvidos e boca guardam a entrada · 03:58 Adnut como chaves externas, HaVaYaH como internas · 05:41 Por que a Amidá começa com Adonai sefatai tiftach · 07:56 Magen (93) e o nikud do nome: shevá e dinim · 09:41 Yirá antes do amor: Avraham e Iyov · 12:26 Proximidade e distância na condução de HaShem · 14:28 Lo ta'asê vem antes de asê · 16:12 Quem diz que ama HaShem mas viola a Torá · 18:49 Sexta etapa: os seis sedarim da Mishná · 23:29 Zeman Nakat e a ordem do estudo
+FONTES CITADAS: 00:40 Pirkei Avot 3:9 · 00:50 Pirkei Avot 3:9 · 02:09 Tikunei HaZohar, Tikun 16 · 04:21 Tikunei HaZohar, Tikun 16 · 04:44 Tehilim 145:16 (Ashrei) · 05:45 Amidá, Tehilim 51:17 · 06:56 Amidá, primeira bênção · 08:14 Tikunei HaZohar, Tikun 16 · 10:02 Bereshit 22:12 · 10:18 Bereshit 22:2 · 10:52 Iyov 1:8 · 11:06 Iyov 1:9 · 11:31 Iyov 2:9 · 11:43 Iyov 2:10 · 11:48 Iyov 1:21 · 12:02 Iyov 42:10 · 12:26 Yeshayahu 66:16 · 14:15 Yeshayahu 66:16 · 14:28 Tikunei HaZohar, Tikun 16 · 14:46 Makkot 23b · 15:58 Shemot 12:15 · 16:03 Vayikra 23:29 · 16:43 Shemot 31:14 · 17:04 Shemot 20:3 · 17:39 Tikunei HaZohar, Tikun 16 · 17:43 Shemot 3:15 · 18:26 Shemot 20:13 · 19:07 Yeshayahu 33:6 · 20:09 Shabat 31a · 21:00 Shabat 31a · 21:44 Shemot 21:36 · 22:20 Vayikra 19:2 · 22:32 Shabat 31a · 23:09 Shabat 31a · 24:03 Gemará sobre os seis sedarim da Mishná · 24:10 Rashi e Tosafot sobre a Gemará · 24:16 Midrashim, Zohar e comentaristas da cabalá
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|19:41|ראשית, לך לך, בעיירה, כל אלה,
+349|19:47|קודם כל הפרשיות האלה, נוח, לך לך, קודם כל כל הפרשיות האלה.
+350|19:54|ואז אחרי שאתה בקיא בפרשיות, אתה הולך למשניות.
+351|20:00|שישה סדרי משנה, הם נקראים, והם מסודרים, והיה אמונת
+352|20:07|איתך חוסן, שמה זה זה?
+353|20:09|אמונת איתך, סדר זרעי, אמונת, זה סדר זרעי.
+354|20:15|סדר זרעי זה שנייות, שם מסכת ברכות, מדבר על הכלאיים, מדבר על
+355|20:21|ההכלאות, מדבר על כל הדברים הללו, זה נקרא סדר זרעי.
+356|20:27|מרכו שייך, שמיטה, כל הדברים הללו.
+357|20:30|יש עיתך, עיתך זה זמנים, אז זה נקרא סדר מועד.
+358|20:36|משמעות שהם עומדים על החגים.
+359|20:39|זה הזמנים שנקראים חגים.
+
+LINHAS A TRADUZIR:
+360|20:41|איך שומרים על החגים?
+361|20:44|חוסן, זה נקרא סדר נשים.
+362|20:47|כל מה שקשור לנשים, נידה, קידושים, גיטין, כל אלה ביחד
+363|20:53|שייך לנשים.
+364|20:55|אז זה צריך ללמוד כל מה שקשור לנשים.
+365|20:57|אחר כך יש שואות.
+366|21:00|זה המשך הפסוק של ישועות, מהפסוק הזה.
+367|21:04|סדר נזיקים.
+368|21:05|כל מה שאדם, אפשר שנגעת פרא, כל מה שאדם מזיק לחברו, איך הוא
+369|21:12|ישלם לו?
+370|21:13|באיזה צורה צריך לשלם לבן אדם שהזיק לחברו?
+371|21:16|אם אדם בא, דוגמה, שחרר את ההמברקס
+372|21:21|ולא עצה את ההמברקס.
+373|21:24|והאוטו, הלכת, והאוטו הידרדר ופגע באוטו אחר.
+374|21:29|הוא בא אפילו שהוא בא מישהו מאחוריך ונזק איך לשלם לו
+375|21:36|כמה לשלם לו זה מאיפה לומדים את זה?
+376|21:38|מהתורה זה אותו דבר כמו שור שלא שמרת עליו
+377|21:44|לא קשרת אותו לא שמת אותו במקום שמור והוא נגח נגח או אכל או הזיק
+378|21:50|לשדה שלך כי איך תשלם לו?
+379|21:53|זה נקרא סדר נזיקים אחר כך כדור חוכמה כי הבעיה אמות
+380|21:59|התארך חוסן, יש עוד, חוכמה.
+381|22:02|מה זה החוכמה?
+382|22:04|חוכמה זה סדר של קדושים.
+383|22:06|איך משמרים את הקדושה?
+384|22:09|איך מתקדשים בכל הנושא הזה של קדושה?
+385|22:14|הקדושה כמובן היא חלק גדול מאוד מעם ישראל, איך הם מתקדשים,
+386|22:20|הייתם קדושים כקדוש אני.
+387|22:22|אם זה...
+388|22:23|בסיסית אם זה בתפילין אם זה בהרבה דברים שמקדשים אותנו רית מילה
+389|22:29|מקדשת אותנו כל הדברים הללו.
+390|22:32|בדעת כתוב חזרנו מחוכמה ודעת זה איך להיטהר
+391|22:38|מטומאות כל מיני טומאות יש עלינו טומאת שרצים טומאת שרצים טומאת
+392|22:45|רמסים כן כל אלה טומאת נידה טומאת אוכלים יש
+393|22:51|טומאת אוכלים כשאדם אוכל נבלות וטרפות, ברגע שהוא אוכל, נטמא.
+394|22:56|אבי אבות הטומאה מת, כל זה נקרא טהרות.
+395|22:59|הנה, אם כן יש לנו שישה, והם, יש להם סימן, והם
+396|23:05|נקראים יראת שמיים, והיא לא סימן זמן נקט.
+397|23:09|זמן נקט, זה ראשי תיבות ז', כמו שאמרנו מקודם, אם כן,
+398|23:15|לפי הסדר, שם זרעים, מ', כמו שאמרנו מקדם, מועד, נ',
+399|23:21|נשים, אחר כך יש לנו עוד פעם נון, נזיקים, קוף, זה יהיה קודשים, טית,
+400|23:27|טהרות.
+401|23:28|זה נקרא זמן נקט.
+402|23:29|ראשי תיבות של שישה סידרים שלה, נקרא זמן נקט.
+403|23:36|וכאן מסביר תיקוני הסוהר, מה יש בזה?
+404|23:41|למה צריך להיות הדברים הללו בצורה כזאת?
+405|23:45|כן, עד כאן, אמנם פה לא נכנסנו לעומק, לא
+406|23:50|נכנסנו לעומק.
+407|23:52|אבל מזה אנחנו יכולים להגיע לעומקים עצומים בקבלה של
+408|23:58|שישה סדרי משנה.
+409|23:59|אחרי זה יש גמרא שמבארת את השישה סדרי משנה.
+410|24:03|אחרי זה יש מפרשים של רש"י, תוספות וכולי, שהם מפרשים
+411|24:10|את הגמרא, ואחרי זה יוצאים לכל המפרשים של הקבלה,
+412|24:16|של המדרשים, של הזוהר, כל הדברים.
+413|24:19|עד כאן ברוך ה' לעולם, אמן.
