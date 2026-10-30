@@ -1,9 +1,9 @@
 # lane8-016
 
-0 of 2 lessons published · 1 skipped · status **pending**
-Tokens (93 agent runs with a record): 0.4M in (mostly cache) · 0.18M out · API-equivalent 2.41
+0 of 2 lessons published · 2 skipped · status **done**
+Tokens (131 agent runs with a record): 0.6M in (mostly cache) · 0.25M out · API-equivalent 3.14
 
 | lesson | state | detail |
 |---|---|---|
-| EtB_bNOMReA | ✗ will be redone (try 2) | 9 lines missing |
-| 7V_UQtK_9nU | skipped after 3 tries | 9 lines missing |
+| EtB_bNOMReA | skipped after 3 tries | line 760 twice |
+| 7V_UQtK_9nU | skipped | |
