@@ -1,20 +1,20 @@
 # lane4-021
 
 0 of 21 lessons published · 0 skipped · status **pending**
-Tokens (0 agent runs with a record): 0.0M in (mostly cache) · 0.00M out
+Tokens (250 agent runs with a record): 1.3M in (mostly cache) · 0.63M out · API-equivalent 10.20
 
 | lesson | state | detail |
 |---|---|---|
-| fHp6xoddUgc | waiting | 0/30 parts |
-| Xqw-x_pjX08 | waiting | 0/8 parts |
-| _u6VIUW72iY | waiting | 0/26 parts |
-| K3XgaNkO4Ak | waiting | 0/25 parts |
-| YrWs6QmNsz4 | waiting | 0/45 parts |
-| TjGBAhYS3vU | waiting | 0/17 parts |
-| e5urC9nmmHk | waiting | 0/32 parts |
-| 8VPhFvtXMxQ | waiting | 0/23 parts |
-| FWCuPqWYkBM | waiting | 0/25 parts |
-| dZLfVho4CmQ | waiting | 0/27 parts |
+| fHp6xoddUgc | waiting | 29/30 parts |
+| Xqw-x_pjX08 | ✗ will be redone (try 1) | 14 lines missing |
+| _u6VIUW72iY | waiting | 24/26 parts |
+| K3XgaNkO4Ak | ✗ will be redone (try 1) | line 40 twice |
+| YrWs6QmNsz4 | waiting | 44/45 parts |
+| TjGBAhYS3vU | waiting | 16/17 parts |
+| e5urC9nmmHk | waiting | 30/32 parts |
+| 8VPhFvtXMxQ | waiting | 22/23 parts |
+| FWCuPqWYkBM | ✗ will be redone (try 1) | 39 lines missing |
+| dZLfVho4CmQ | waiting | 17/27 parts |
 | sSIV2c5IErE | waiting | 0/19 parts |
 | CEloJsU6eAk | waiting | 0/19 parts |
 | kzntZefs5ys | waiting | 0/16 parts |
