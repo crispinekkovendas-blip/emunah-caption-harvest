@@ -1,0 +1,64 @@
+videoId: _mH6IBSZmlk
+parte 3 de 17 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Moshe, o Ari HaKadosh e a grandeza de Rabeinu HaAri
+RESUMO: O rabino abre o Sefer Devarim (Eilê HaDevarim) lembrando que é um livro de mussar e que Moshe Rabeinu faleceu em 7 de Adar. Com a Guemará (Sotá 13b, Kidushin 72b) e o Ben Ish Chai, explica que os justos morrem no "aniversário" da alma, não do corpo. Mostra que Moshe, gago, discursou 36 dias seguidos (o guematria de "Eilê" é 36), pois HaShem decide quem fala, como no corvo (Ketubot 49b). Em seguida dá o remez de que as letras de "Eilê HaDevarim" lembram livros que Moshe já teria aprendido (Yabia Omer, Zohar, Midrash Rabá, Rambam, Shulchan Arukh), e ensina a repreender com suavidade (Mishlei 9:8). A segunda metade conta a vida de Rabeinu HaAri: sete anos de reclusão no Nilo, o encontro com Eliyahu HaNavi, a subida a Tzfat, o encontro com Rabi Avraham Galanti e o elogio de Rabi Chaim Vital no Shaar HaHakdamot, com seus poderes e sua promessa de trazer o Mashiach.
+MOMENTOS: 00:21 Devarim, livro de mussar e a partida de Moshe em 7 de Adar · 00:55 Os justos morrem no dia do seu nascimento (Sotá 13b) · 03:22 Resposta do Ben Ish Chai: o aniversário da alma · 06:14 Moshe, que gaguejava, discursa 36 dias seguidos · 08:47 O corvo e "quem dá a boca ao homem" · 11:14 Tudo foi dado no Sinai, até a leitura da Meguilá · 12:17 Remez: as letras de Eilê HaDevarim e os livros que Moshe aprendeu · 14:49 Devarim como repreensão; repreender com suavidade · 18:40 Rabeinu HaAri no Nilo e o encontro com Eliyahu HaNavi · 25:02 Tzfat e os grandes sábios; o livro Kol Bochim de Galanti · 32:08 Galanti e o Ari: a discussão sobre o Zohar · 35:19 O elogio de Rabi Chaim Vital ao Ari · 37:40 Poderes do Ari e a vela de Shabat · 42:05 O Ari quis trazer o Mashiach em dois anos
+FONTES CITADAS: 00:00 Devarim 1:1-3 · 00:46 Sotá 13b · 01:24 Meguilat Ester (Purim, o sorteio de Haman) · 01:58 Hilulá Rabá (Ben Ish Chai) · 02:36 Kidushin 72b · 03:22 Ben Ish Chai, resposta sobre o aniversário da alma · 05:00 Devarim 1:3 · 05:44 Shemot 4:10 · 05:53 Shemot 4:11 · 06:28 Guematria de Eilê (36) e as parashiot de Devarim · 07:01 Midrash sobre Korach no episódio da sarça · 08:47 Ketubot 49b · 09:37 Tehilim 147:9 · 10:02 Melachim I 17:6 · 10:27 Yoma 19b · 10:44 Or HaChaim em Devarim 1:1 · 11:15 Berachot 5a · 11:32 Meguilá 19b · 12:27 Yabia Omer, parte 1, introdução · 13:08 Zohar, Rabi Chizkiya abriu · 13:14 Midrash Rabá, Rabi Hoshaya Rabá abriu · 13:41 Rambam, Yesodei HaTorá · 13:46 Shulchan Arukh · 14:12 Midrash sobre Moshe e Bilam · 14:37 Shemot 32:32 · 15:01 Mishlei 27:6 · 15:13 Mishlei 9:8 · 17:43 Não se confia em milagre (Pesachim 64b) · 21:13 Chulin 6b, Tosafot · 21:37 Tikunei HaZohar, Tikun 6 · 22:40 Rabeinu HaAri e Eliyahu · 31:00 Túmulo de Rabi Yehuda bar Ilai em Tzfat · 32:08 Zohar, Tikunim e Sefer HaBahir · 33:41 Rabeinu HaAri a Rabi Avraham Galanti · 34:12 Rabi Chaim Vital, Shaar HaHakdamot · 34:26 Tehilim 49:5 · 35:23 Rabi Chaim Vital, Shaar HaHakdamot · 35:42 Sucá 28a · 36:28 Zohar, Tikunim, Zohar Chadash e Zohar Yitro · 39:03 Rabi Yosef Ashkenazi e a vela · 42:05 Rabi Chaim Vital sobre o Ari e o Mashiach · 42:05 Bereshit 49:10
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|05:06|בהשתי עשר חודש באחד לחודש.
+69|05:09|מה זה השתי עשר חודש?
+70|05:10|איזה חודש זה?
+71|05:15|כבר עברתם את כל החודשים פה.
+72|05:18|שבט.
+73|05:18|שבט, ברור שבט.
+74|05:20|אז עכשיו הוא נמצא בשבט.
+75|05:22|הוא נפטר בזין אדר.
+76|05:24|כמה זמן בין שבט לזין אדר?
+77|05:28|כמה זמן מראש חודש שבט עד זין אדר?
+78|05:32|יש לך שלושים ושש ימים בדיוק שלושים ושש ימים אז ממילא
+79|05:38|כל ספר דברים נאמר בשלושים ושש ימים הוא אמר לא יש דברים אנוכי גם
+
+LINHAS A TRADUZIR:
+80|05:44|אתמול גם משלשום גם מאז דיברת אל עבדיך תראו ראשי תיבות גם אתמול גם משלשום גם מאז ראשי תיבות
+81|05:49|מ גם גם למה הוא היה משה רבנו מגמגם, לא יודע לדבר.
+82|05:53|אמר לו הקדוש ברוך הוא, משה, מי שם פה לאדם, או מי עושים להם, או פיקח, או חירש, על אנוכי
+83|05:58|השם.
+84|05:59|אם אני רוצה דווקא, המגמגם ידבר.
+85|06:02|ותראה איזה דברים, אמר לו איש דברים, בסוף אלה הדברים, אשר דיבר משה, בערבה, במדבר,
+86|06:08|בול סוף וחצרות ודי זהב, אחד עשר יום יחורף דרך הר שעירת קדש ברניה.
+87|06:14|תראה איזה מעלה, מישהו שלא ידע לדבר נתן דרשה 36 יום רצוף.
+88|06:21|אין בעיה לתת שלושים ושש יום רצוף, השאלה אם אנחנו מסוגלים לשמוע שלושים ושש יום רצוף, לא
+89|06:26|לזוז על הכיסאות.
+90|06:28|דברים ואת חנן העקב ראה שופטים כי תצא כי תבוא נצבים ויהיה לך האזינו וזאת הברכה.
+91|06:34|כל זה שלושים ושישה ימים דיבר את זה משה רבנו ברצוף.
+92|06:38|לכן איפה הרמז?
+93|06:40|אלה הדברים.
+94|06:41|אלה ג'מטריאה שלושים ושש.
+95|06:43|למה?
+96|06:44|לרמוז לך שכל השלושים ושש ימים האלה דיבר משה רבנו את הדרשה שלו.
+97|06:49|וזה אמר לו מי שם פה לאדם?
+98|06:51|אתה רואה שדווקא אתה שאתה מגמגם?
+99|06:54|דווקא אתה תדבר.
+100|06:56|למה?
+101|06:56|במעמד הסנה הוא אומר לקדוש ברוך הוא אתה צריך מישהו רטוריקן עם כריזמה.
+102|07:00|אמר לו את מי אני אקח?
+103|07:01|אמר לו קח את קורח קורח צדיק, ראש סנהדרין, יודע השם המפורש, אנשי שם קראי מועד, מה זה אנשי
+104|07:07|שם?
+105|07:07|יודעים שם המפורש, מה זה קראי מועד?
+106|07:09|כל מועד היו קוראים להם.
+107|07:12|עכשיו התכנסות של הרבנים ביד אליהו, היו קוראים להם, לכל ה-250 האלה, קראי מועד.
+108|07:18|היו עושים עכשיו עצרת בטדי, זכותו יעמוד לו.
+109|07:22|אז עכשיו היו קוראים להם, קראי מועד, כל מועד, כל מועצת החכמים, היו קוראים
+110|07:28|להם.
+111|07:29|זה קראי מועד, קח את קורח.
+112|07:31|הוא חריף, הוא פלפל, הוא רטוריקן, הוא כריזמטי, הוא יודע לדבר, הוא ידען בתורה, קח אותו,
+113|07:37|שבעים שפות היה מדבר, ערבית, היה גם יודע.
+114|07:40|(אומר בערבית ומתרגם:) מה הם
+115|07:44|יודעים לדבר אלה עם אח שמם וזכר זכרם, לא ישאר מהם שריד ופליט, ילכו כולם
+116|07:50|כפרה עלינו.
+117|07:51|מה הם יודעים?
+118|07:52|אלה זה הפלסטינים עדה?
+119|07:55|מה יש להם אלה?

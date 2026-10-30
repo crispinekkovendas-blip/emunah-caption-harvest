@@ -1,0 +1,64 @@
+videoId: YF2oDA0SMDI
+parte 27 de 30 · traduzir as linhas 1040 a 1079 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Parashat Shelach: os espiões e a Redenção
+RESUMO: O Rav Ginzburg, na Shabat Mevarchim de Tamuz, explica por que Shelach é lida no fim de Sivan: a passagem do terceiro mês (a letra Guímel, que dá, gomel) para o quarto (a letra Dalet, dal, que recebe) é o desafio de trazer a luz da Torá para o mundo de baixo. Cita o Midrash sobre os anjos que disputaram a Torá com Moshé (a lei de bar metsra) e a ideia de uma morada para HaShem nos mundos inferiores. Mostra que a mitsvá dos nesachim (libações de vinho) na Parashá, dada para quando entrarem na Terra, expressa o movimento de cima para baixo, em oposição ao desejo dos espiões de permanecer espirituais no deserto, segundo o Likutei Torá e o Megalé Amukot. A Parashá termina com tsitsit, que recorda as 613 mitsvot (Bamidbar 15:39), pois o fim mostra o propósito. Seguindo o Rebe, explica que Moshé enviou os espiões para gerar o birur de baixo e a motivação do povo, e que eles abriram o canal da entrada na Terra. Cita Rashi (anashim = importantes; kesherim) e conclui com a união dos espiões e a lição de Pirkei Avot de que todo homem tem sua hora.
+MOMENTOS: 00:27 Shabat Mevarchim e o momento de Shelach no calendário · 03:00 Os espiões lidos no fim de Sivan · 07:27 De Sivan (Guímel) a Tamuz (Dalet): gomel e dal · 11:47 Torá desce do três ao quatro, ao mundo · 15:25 Nesachim: a mitsvá do vinho na Parashá · 20:00 Megalé Amukot: os espiões acima do mundo vindouro · 27:46 Nesachim descem para baixo, ao contrário dos espiões · 31:55 Tudo segue o final: tsitsit · 36:00 Quem decide é Moshé, não o raciocínio · 43:10 Por que Moshé enviou os espiões · 53:19 O mérito dos espiões: motivação e canal aberto · 57:09 Rashi: anashim, kesherim e a unidade dos espiões · 1:03:26 Avot: todo homem tem sua hora
+FONTES CITADAS: 00:55 Bereshit 1:1 · 01:24 Shemot 19 · 05:27 Tehilim 8:5 · 05:50 Dina de bar metsra · 08:21 Guímel-Dalet: gomel dalim · 11:47 A Torá precedeu o mundo por 2000 anos · 16:36 Bamidbar 15:1-12 · 19:01 Devarim 3:23 · 20:04 Megalé Amukot · 20:56 Likutei Torá, Adamor HaZaken · 21:37 Yeshayahu 11:9 · 21:37 Rambam, Mishné Torá, fim de Hilchot Melachim · 27:57 Gematria de yayin e sod · 28:29 Sucá 49a · 32:10 Bamidbar 15:2 · 33:15 Moed Katan 28a · 36:49 Bamidbar 15:37-41 · 38:25 Rashi em Bamidbar 15:39 · 44:09 Bamidbar 10:35 · 43:50 Shemot 14 · 45:33 Devarim 1:22 · 52:16 Bamidbar Rabá / Sotá 35a · 52:24 Tanya, Adamor HaZaken · 57:17 Rashi em Bamidbar 13:3 · 57:41 Rashi em Bamidbar 13:3 · 1:01:26 Vayikra 19:18 · 1:03:26 Pirkei Avot 4:3
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+1028|57:51|אתה תשאר בבית ולא תעשה מלחמה עם האויב אז
+1029|57:54|יכול להי יכול להיות שתשב תחת גפנ ותחת
+1030|57:57|תאנת אבל שלל רב לא יהיה לך אבל אם תצא
+1031|58:02|להילחם עם
+1032|58:05|האויב למרות שהאוייב מעמיד אותך בסיכון
+1033|58:09|גבוה ומ מחיר גבוה והנה המחיר ששלמו
+1034|58:12|שנשארו
+1035|58:13|במדבר אבל עם כל המחיר הזה מה הרווח הסופי
+1036|58:18|שלל רב ומהו השלל רב השלל רב שרק במצב
+1037|58:23|שכזה שנעשה בירור התחתון
+1038|58:26|מתגלה את הכוונה של השם ומה מתגלה בכוונת
+1039|58:30|השם את מה שהמרגלים אפילו לא הצליחו לתפוס
+
+LINHAS A TRADUZIR:
+1040|58:33|האחדות של
+1041|58:36|השם מהיא האחדות של השם שלמרות החלוקה של
+1042|58:40|השבטים ל1 וכל אחד יש לו את המסילה הפרטית
+1043|58:44|שלו שהוא עולה בעבודת השם יש את השבט ה-1
+1044|58:49|ומה זה גימטריה ש של 13
+1045|58:53|אחד שקשור עם השם אחד מי זה השבט האחד הזה
+1046|58:57|שממנו לא משה רבנו לא שלח
+1047|59:01|מרגל שבט לוי למה כי כולא קודש קודשים הוא
+1048|59:05|לא עתיד לקבל נחלה בארץ אז אין להם עניין
+1049|59:07|לראות כמה טובה הארץ אבל בפנימיות הם
+1050|59:10|מאוחדים עם השם שבט
+1051|59:13|לוי אבל מי כן שלח מרגל משבט
+1052|59:18|לוי
+1053|59:20|יהושע הוא שולח את המרגל הוותיק החברותא
+1054|59:23|שלו
+1055|59:25|כלב שאגב הוא לא היה כזה חברותה כן כשחברו
+1056|59:28|המרגלים לארץ אז יהושע היה נאמן למשה
+1057|59:33|רבנו אבל כל ן יפונה היה בעצה אחת עם
+1058|59:37|המרגלים היה חבר
+1059|59:40|שלהם הוא דיבר בשפה שלהם אחר כך עשה להם
+1060|59:44|תרגיל ויס
+1061|59:47|כלב אחר כך עשה להם תרגיל אבל לאורך כל
+1062|59:51|הדרך המרגלים היו בטוחים שההוא בצד שלהם
+1063|59:53|היה בה משהו מוזר קצת שהוא לא הסכים לסחוב
+1064|59:56|לא ענבים ולא רימון ולא תאנה כן אבל אבל
+1065|59:59|בתכלס בדיבור שלו היה איתם וכל זה היה
+1066|1:00:02|תרגיל
+1067|1:00:04|כן את הברכה שיוש קבל נכון זה עוד
+1068|1:00:08|עניין אבל נינו הוא שולח את כלה ולמי מה
+1069|1:00:12|הוא מוסיף לכלב את פנחס בן אלעזר בן אהרון
+1070|1:00:15|הכהן משבט
+1071|1:00:16|לוי למה הוא מוסיף אותו כי בסוף זה השלל
+1072|1:00:21|רב מה השלמות שמצופה לנו לעתיד לבוא
+1073|1:00:26|כאשר יש שלמות הגילוי מלמעלה ושלמות בירור
+1074|1:00:30|התחתון מלמטה שמתגלה מציאות השם אחד
+1075|1:00:33|שלמעלה מהחלוקה למעלה מהמחלוקת במילים של
+1076|1:00:38|הרבי מתגלה דרגת האחדות של למעלה מהתחלות
+1077|1:00:41|ואיפה היא מתגל לא בעולמות העליונים שהם
+1078|1:00:45|שמה מאוחדים עם השם בעולם האצילות שכולו
+1079|1:00:47|אחדות פשוטה אלא במציאות של ההתחלקות
