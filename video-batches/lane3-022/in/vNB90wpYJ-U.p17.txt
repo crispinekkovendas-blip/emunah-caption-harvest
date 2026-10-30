@@ -1,0 +1,64 @@
+videoId: vNB90wpYJ-U
+parte 18 de 44 · traduzir as linhas 680 a 719 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Perguntas e respostas: calor, escolhas e conselhos de vida
+RESUMO: Na aula de perguntas e respostas do recesso de verão, o rabino começa pelo calor e cita Tehilim 55:15 e Kohelet 7:29: o desequilíbrio do clima vem das invenções humanas, e a Torá aprendida sem lishmá gera a ciência que prejudica o mundo. Depois explica como saber a vontade de HaShem na hora de escolher trabalho, casa ou shidduch: o critério é onde há mais tranquilidade para cumprir mitzvot. Fala de quem perdeu a sensibilidade espiritual, cita Mishlei 18:14 com o Gaon de Vilna para enfrentar a doença com alegria e dá três regras para ser ouvido (palavras que saem do coração, exemplo pessoal e yirat shamayim, segundo a Gemará e Rashi). Em seguida trata dos três que clamam e não são atendidos (Bava Metzia 75b), dos riscos da moto, da compra de um túmulo em vida e de sinais de quem evitar nos negócios. Termina com Birkat Cohanim como bênção já aprovada à espera de quem a busque, com o yetzer hará que se disfarça de mitzvá e com o princípio de que quem abraça demais não consegue segurar.
+MOMENTOS: 00:08 Abertura: aula de perguntas e respostas no recesso · 05:19 Por que faz tanto calor: invenções humanas (Kohelet 7:29) · 11:57 Torá sem lishmá vira ciência externa que prejudica · 17:41 Como saber qual trabalho, casa ou shidduch é vontade de HaShem · 24:44 Quem não admite erro e o doente que não sente · 44:17 Doença e decretos: ruach ish yechalkel machalehu · 52:03 Por que ninguém o escuta: coração, exemplo e yirat shamayim · 1:06:45 Três que clamam e não são atendidos · 1:11:01 Moto, longevidade e comprar um túmulo em vida · 1:15:17 Sinais de pessoas com quem não fazer negócios · 1:27:18 Birkat Cohanim: o cheque pronto no banco · 1:31:21 O yetzer hará disfarçado de mitzvá · 1:38:08 Tafasta merubá lo tafasta
+FONTES CITADAS: 01:21 Tehilim 55:15 · 05:23 Kohelet 7:29 · 07:35 Arvit, bênção "Boré Yom VaLaila" / "Bechochmá potéach shearim · 07:57 Gemará (o sol e a lua no crescimento das plantas) · 09:34 Devarim 11:12 · 12:42 O Yehudi HaKadosh de Peshischa, em Sefer Shaarei Zohar · 24:47 Kohelet 7:20 · 24:55 Mishlei 24:16 · 26:41 Bereshit 2:7 · 32:17 Eruvin 41b · 33:24 Shemot 9:27 · 37:51 Tehilim 71:9 · 40:17 Sanhedrin 100b · 44:21 Mishlei 18:14 · 44:27 Gaon de Vilna sobre Mishlei 18:14 · 51:19 Chafetz Chaim, a menina das maçãs · 52:35 Kohelet 2:15 · 53:25 Princípio: devarim hayotzim min halev nichnasim el halev · 56:45 Shabat 31b · 58:18 Rashi em Bereshit 1:8 · 1:00:39 Vayikra 19:18 · 1:02:06 Rabi Chaim Vital sobre ve'ahavta lere'acha kamocha · 1:04:51 Mishlei 27:19 · 1:05:15 Shabat 129a · 1:06:51 Bava Metzia 75b · 1:12:00 Devarim 22:7 e 5:16 · 1:13:27 Bereshit 15:16 · 1:13:40 Bereshit 23:20 · 1:13:56 Berachot 17a · 1:14:45 Shulchan Arukh, Yoré Dê'á 362 · 1:16:54 Gemará (o ladrão e a toalha do mikvê) · 1:17:22 Rabi Nachman de Breslev (o ladrão) · 1:19:49 Rav Kanievsky (como saber se é temente a Deus) · 1:22:14 Rut 1:1-5 · 1:22:53 Zecharia 11:7 · 1:26:11 Rosh HaShaná, "nichtav vechatam · 1:27:18 Bamidbar 6:23-27 · 1:29:42 Bamidbar 6:27 · 1:31:27 Rav Ovadia Yosef (shiur de Daf HaYomi versus halachá) · 1:33:50 História do pai bêbado deixado no cemitério · 1:38:43 Rosh HaShaná 4b · 1:39:19 Devarim 4:39 · 1:39:56 Chafetz Chaim (a caldeira com torneiras)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+668|43:47|תתכונן, זהו, נגמר.
+669|43:48|מה יעשה אותו אדם?
+670|43:49|שלמה המלך אמר פסוק אחד שלם.
+671|43:53|איך ישרוד אותו בני אדם, והיו אנשים שהתהפכו אפילו מחושך לאור בגלל הפסוק
+672|43:57|הזה.
+673|44:00|משה בן גליה, אתה פה?
+674|44:02|שמע טוב, אתה ברוך השם מצב טוב אתה, ברוך השם.
+675|44:07|שלמה המלך אמר פסוק, עם כל מה שמסביב, בלי שום קשר
+676|44:13|ביטחון, אמונה, זה ההוא, בלי שום קשר.
+677|44:17|אומר שלמה המלך בספר משלי פרק י"ח, רוח איש יכלכל
+678|44:23|מחלהו.
+679|44:26|רוח איש.
+
+LINHAS A TRADUZIR:
+680|44:27|אומר רבנו הגאון מוילנה פרשו המפרשים כשהאיש תמיד בשמחה עם כל מה שיש
+681|44:34|הוא יכלכל את מחלהו אפילו שתבוא עליו מחלה הוא יכלכל את מחלהו בשמחתו
+682|44:39|ויבטלנה אני ממשיך לחיות כרגיל
+683|44:48|הכל כרגיל אמר הרופא אמר פה אתה צריך להיות
+684|44:53|אפטי אם סגרו עליך את כל השערים פה אתה צריך להיות חביבי העולם לא
+685|44:59|נגמר אני פה בורא עולם העיר אותי בבוקר יש לו עוד עניין בי
+686|45:06|הכל בסדר שום דבר לא השתנה הכל בסדר תן
+687|45:12|לי להמשיך את החיים שלי תעשה מסיבות קח את הילדים לשמחות תלך כרגיל
+688|45:18|אבל אם בן אדם נכנס לדיקי לדיכאון הוא לא מת מהמחלה
+689|45:25|הוא מת מהדיכאון בדוק הוא מנוסה.
+690|45:30|לא החולי גומר אותו.
+691|45:31|החולי יכול להיות שהיה שורד עוד כמה שנים.
+692|45:35|אם זה חולי הפרנסה, חולי הבריאות, חולי לא משנה מה.
+693|45:38|הוא היה שורד.
+694|45:40|מה שגמר אותו זה העמננה שהוא נכנס לשם.
+695|45:47|רוח איש יכלכל מחלהו.
+696|45:51|כך אומר שלמה המלך.
+697|45:53|זה מה שיכלכל אותו.
+698|45:55|אבל תדע לך הפוך רוח נכאה מישראל.
+699|46:01|כשהוא נכנס לשברון, אני לא מדבר כרגע מהבחינה של כבל השם חזק
+700|46:08|והיה מצליבך, אני לא מדבר על הבחינה שאפילו חרב חדה מונחת, בלי קשר לזה.
+701|46:14|אני מתנהל כרגיל, ואנחנו ראינו בעינינו מספר אנשים שאפילו
+702|46:19|שגמרו עליהם את החוזים בעולם איפה שלא יהיה.
+703|46:23|האנשים האלה פרחו ושמחו ונהנו
+704|46:27|ושרדו טוב מאשר אלה
+705|46:33|שלקחו את הבשורה ונכנסו לעננה השחורה הזאת והמשיכו עליהם את המחלה ואת החולי יותר
+706|46:39|עמוק צא מזה, תגיד לעצמך אני יכול אני
+707|46:45|עדיין ממשיך והוא אומר את שלושה חודשים זה תן לי אתה גם את הרגע לא נותן לי ברור העולם נותן
+708|46:51|לי את הכל תמשיך תקום תלך תעבוד תחיה תעשה הכל כרגיל רוח
+709|46:57|איש יחלקי לאום שלמה המלך החכם מכל האדם אל תישבר משום דבר שבא עליך
+710|47:03|אל תרים ידיים אל תתייאש אל תהיה איזה מסכן שהולך ונכנס לעננה מול
+711|47:08|מחשב ומול זה וכולי רואה כדורגל איפה טוביה?
+712|47:13|לא אתה כן רואה כדורגל רואה זה היה אחד משוגע על כדורגל.
+713|47:18|משוגע, מה זה?
+714|47:19|כל נושא, משא ומתן שלו על כדורגל.
+715|47:23|לילה אחד הלך חלם, ישן מתוך דברי כדורגל.
+716|47:27|ישן מתוך דברי תורה.
+717|47:29|יש אחד ישן מתוך דברי כדורגל.
+718|47:31|גול, פאוול, פאוול, אני לא יודע, מגיע שמה.
+719|47:34|פתאום חלם את החבר שלו מהנבחרת לפני כמה שנים.

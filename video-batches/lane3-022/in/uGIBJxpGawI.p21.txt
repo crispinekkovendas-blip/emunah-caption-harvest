@@ -1,0 +1,64 @@
+videoId: uGIBJxpGawI
+parte 22 de 26 · traduzir as linhas 840 a 879 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Peléshet, Senaqueribe e a origem do povo palestino
+RESUMO: O rabino Yinon Kalazan retoma a ideia de Peléshet (invasão) e afirma que o Islã explora a democracia liberal do Ocidente para conquistar a Europa e Israel sem disparar um tiro. Ele diz que o Kadosh Baruch Hu retirou o discernimento de Edom, conforme a profecia de Ovadia, e que, segundo ele, Israel é governado por uma ditadura da esquerda, o que os resultados das eleições, com 19 mandatos árabes, só confirmam. Em seguida mostra como Adriano renomeou a terra de Palestina após Bar Kochba, e cita as palavras de Yeshayahu (10) sobre Assur como vara da ira de HaShem. Estuda Berachot 28a, em que Rabi Yehoshua diz que Senaqueribe misturou os povos, e o Pirkei DeRabi Eliezer, segundo o qual os povos vizinhos fugiram para o deserto e se misturaram aos filhos de Yishmael, formando os árabes, entre eles Peléshet e Amalek. Lê o Salmo 83 e o Rashi sobre "naot Elokim", ligando o desejo de herdar Jerusalém ao conflito atual. Conclui que a democracia e o humanismo liberal são a avodá zará de hoje, e que a única saída é voltar à Torá, como em "Se andardes nos Meus estatutos" (Vayikra 26).
+MOMENTOS: 00:25 Retomada de Peléshet e da invasão islâmica ao Ocidente · 02:22 Macron, a negação ("é IA") e a profecia de Ovadia sobre Edom · 05:46 Israel como ditadura da esquerda e o resultado das eleições · 07:49 Os 19 mandatos árabes e o "Estado judaico árabe democrático" · 11:42 Estado judaico ou democracia: a escolha inevitável · 17:00 Peléshet como conceito: Josué e Juízes · 24:33 Bar Kochba, Adriano e o nome Palestina · 31:49 Surgimento do Islã e do "povo palestino" · 37:46 Senaqueribe, Chizkiyahu e Yeshayahu · 42:59 Berachot 28a: o convertido amonita e Rabi Yehoshua · 46:46 Pirkei DeRabi Eliezer: os povos fogem e se misturam a Yishmael · 55:55 Yeshayahu 10 e Radak: Assur como vara de HaShem · 1:00:23 Salmo 83 e Rashi: "herdemos naot Elokim" · 1:06:43 Democracia como veneno e a conclusão sobre avodá zará
+FONTES CITADAS: 03:03 Ovadia 1:8 · 17:28 Shoftim 2:21-23; 3:1-4 · 18:47 Yeshayahu 10:5 · 19:01 Shoftim 16:21 · 19:08 Shmuel I 5:1-2 · 19:13 Divrei HaYamim II 21:16-17 · 25:35 Gitin 57a-b · 38:41 Melachim II 17 · 39:59 Melachim II 18-19; Yeshayahu 36-37 · 40:10 Sanhedrin 95a · 40:48 Melachim II 19:35 · 41:04 Melachim II 19:36-37 · 43:02 Berachot 28a · 43:53 Devarim 23:4 · 44:35 Berachot 28a · 45:47 Yeshayahu 10:13 · 46:46 Pirkei DeRabi Eliezer 44 · 51:44 Bereshit 21:21 · 52:57 Yeshayahu 10:13 · 53:21 Tehilim 83:7-9 · 54:13 Shmuel II 8:1 · 55:55 Yeshayahu 10:5-7 · 57:53 Radak em Yeshayahu 10:7 · 1:00:48 Tehilim 83:2-5 · 1:03:23 Tehilim 83:13 · 1:03:34 Rashi em Tehilim 83:13 · 1:10:51 Vayikra 26:3-6
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|1:00:01|בפיהם, בקול רם וברור, שטחים טריטוריאליים
+829|1:00:06|בנגב ובגליל, כי זה שלהם.
+830|1:00:10|ככה הם מרגישים.
+831|1:00:19|עכשיו בואו תראו עוד דבר אחד, שאני אצרף אותו מאותו פרק פג.
+832|1:00:23|פרק פג, כמו שהפרקת רבי אליעזר מביא, מתאר את העמים שבאו
+833|1:00:31|לכבוש, שהתערבבו עם בני ישראל, סליחה, שהתערבבו עם בני ישמעאל.
+834|1:00:38|בואו נראה את הפרק, הנה הפרק.
+835|1:00:42|לא את כל הפרק, נראה את הדברים הרלוונטיים.
+836|1:00:45|שיר מזמור לאסף, פרק פ"ג בתהילים.
+837|1:00:48|אלוהים אל דמי לך, אל תחרש ואל תשקוט אל.
+838|1:00:51|כלומר, אל תעמוד מנגד ולא תגיב לבעיה שאני נמצא
+839|1:00:57|בה.
+
+LINHAS A TRADUZIR:
+840|1:00:58|מה הבעיה שעם ישראל נמצא בה?
+841|1:01:00|אז הוא אומר כך, כי הנה אויביך יהמיון ומשמאיך נשאו ראש.
+842|1:01:04|על עמך יערימו סוד ויתייעצו על צפוניך.
+843|1:01:10|מה הבעיה שבגללה מתפלל דוד המלך בתהילים
+844|1:01:17|על ידי אסף, שיר מזמור לאסף?
+845|1:01:20|אל תעמוד מנגד, אל תהיה דומם, אל דמי לך.
+846|1:01:24|למה?
+847|1:01:24|כי יש בעיה, מה הבעיה?
+848|1:01:26|אויביך, אויבים של הקדוש ברוך הוא, יהמיון, יש המיית
+849|1:01:31|מלחמה, משנאיך נשאו ראש, על עמך יערימו סוד, על עמך זה עם
+850|1:01:37|ישראל, והתייעצו על צפוניך.
+851|1:01:40|מה זה צפוניך?
+852|1:01:45|אמרו, לכו ונכחידם מגוי.
+853|1:01:52|הם רוצים להכחיד את העם היהודי.
+854|1:01:55|ולא ייזכר שם ישראל עוד.
+855|1:01:58|ועכשיו בא הפסוק הבא, כי נועצו לב יחדיו,
+856|1:02:04|עליך ברית יכרותו.
+857|1:02:07|יש להם איזה מזימה.
+858|1:02:10|מי הם?
+859|1:02:10|הנה הפסוק שהפרקת רבי אליעזר מביא.
+860|1:02:14|או הולה אדום וישמעאלים, מואר והגרים,
+861|1:02:20|גבל ועמון ועמלק, פלשת עם יושבי צור, צור גם אשור
+862|1:02:25|נלווה עמם היו זרוע לבמי לא צלע.
+863|1:02:29|אם נחבר את זה לפרקת רבי אליעזר, אז זה נותן לנו הסבר ממה הפניקה, למה
+864|1:02:34|התפילה הזאת להשם.
+865|1:02:36|התפילה כי הם רוצים להכחיד את עמך.
+866|1:02:39|מי הם?
+867|1:02:41|אלה שהתערבבו עם בני ישמעאל, הערבים.
+868|1:02:45|אבל כתוב פה יותר מזה, יתייעצו על
+869|1:02:49|צפוניך.
+870|1:02:53|מה זה נקרא יתייעצו על צפוניך?
+871|1:02:57|מה זה צפוניך?
+872|1:02:58|אז אני אצטרך פה רגע לדלג שנייה.
+873|1:03:02|מה הם אומרים?
+874|1:03:05|כי נועצו לב יחדיו, עליך ברית יכרותו.
+875|1:03:17|בהמשך הפרק כתוב, כי הנה אויביך נשאו ראש, אשר אמרו
+876|1:03:23|נרשה לנו את נאות אלוהים.
+877|1:03:26|זה הצפונך.
+878|1:03:28|הם רוצים להכחיד את עם ישראל ולרשת את מה שנקרא פה נאות אלוהים.
+879|1:03:34|אומר רש"י, שם בתהילים, שימו לב, פסוק י"ג, אשר אמרו
