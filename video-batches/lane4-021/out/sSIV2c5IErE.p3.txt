@@ -1,0 +1,40 @@
+120	"What do you think Sarah Imenu served? That's what she served there."	"O que você acha que Sará Imênu serviu? Foi isso que ela serviu lá."
+121	Does it seem to you that Sarah Imenu would serve this food?	Você acha que Sará Imênu serviria essa comida?
+122	"Choking cakes"? Why on earth call that cakes too?	"Bolos de engasgo"? Por que chamar isso de bolo também?
+123	Two people: one chokes, the other pats him on the back, the best fun.	Dois homens: um se engasga, o outro bate nas costas dele, a maior diversão.
+124	After you've choked, you drink some water.	Depois de se engasgar, você bebe um pouco de água.
+125	You feel it clears away all the trouble, all the evil, and brings it down	Você sente que isso leva embora todo o mal, toda a desgraça, e desce com ela
+126	down to the underpants, the underwear.	até a cueca, até as roupas de baixo.
+127	So now, here's what happens. Now, Sarah Imenu made...	Então agora é isso que acontece. Sará Imênu fez...
+128	she made patcha, she made tzvit, she made palo, she made gushgusha,	fez patcha, fez tzvit, fez palo, fez gushgusha,
+129	ushpalo, who knows, gondi. What else did Sarah make?	ushpalo, sei lá, gondi. O que mais Sará fez?
+130	Hilbeh, for sure she didn't make. You don't eat	Hilbeh, com certeza ela não fez. Não se come
+131	this thing, even though it's very tasty and also	essa coisa, embora seja muito gostosa e também
+132	very healthy, but it has an extremely strong smell.	muito saudável, mas tem um cheiro fortíssimo.
+133	I don't know, hilbeh... I don't know how people	Não sei, hilbeh... não sei como as pessoas
+134	eat it. People want to breathe a little too	comem isso. As pessoas também querem respirar um pouco
+135	in the synagogue. You see, it has a very strong smell.	na sinagoga. Veja, tem um cheiro muito forte.
+136	As I've already told you a few times, someone came	Como já contei algumas vezes, alguém veio
+137	to me, I've told this already, someone came to me and said	a mim, eu já contei isso, alguém veio a mim e disse
+138	"Don't look down on the Yemenites." I said, "Heaven forbid,	"Não despreze os iemenitas." Eu disse: "Deus me livre,
+139	I love everyone, and when I became religious I specifically prayed with the Yemenites, I loved	eu amo todos, e quando me tornei religioso eu rezava justamente com os iemenitas, eu amava
+140	their prayer, and they're very God-fearing. Where	a oração deles, e eles são muito tementes ao Céu. Onde
+141	my parents live there were all kinds of styles.	meus pais moram havia todo tipo de estilo.
+142	I went specifically to the Yemenites, they have a very	Eu fui justamente aos iemenitas, eles têm uma leitura
+143	precise reading and they're very good people. I loved	muito precisa e são pessoas muito boas. Eu adorava
+144	being with them." And he said to me, "Don't look down on the Yemenites."	estar com eles." E ele me disse: "Não despreze os iemenitas."
+145	I said, "I'm not looking down." He says, "The angels who came	Eu disse: "Não estou desprezando." Ele diz: "Os anjos que vieram
+146	to Avraham Avinu were Yemenites." I said to him, "Really?	a Avraham Avinu eram iemenitas." Eu disse: "Sério?
+147	Where is that written?" He says, "What did he make for them to eat? What	Onde está escrito isso?" Ele diz: "O que ele fez para eles comerem? O que
+148	did he make for them to eat? Pat, bread. Pat is the initials of pita	ele fez para eles comerem? Pat, pão. Pat é a sigla de pita
+149	Temanit, Yemenite pita." I said, "And what's lechem?" He says to me,	temanit, pita iemenita." Eu disse: "E o que é lechem?" Ele me diz:
+150	"Lechem is lachuch, hilbeh,	"Lechem é lachuch, hilbeh,
+151	soup. The whole Yemenite menu." I said to him, "Why on earth	sopa. Todo o cardápio iemenita." Eu disse a ele: "Por que
+152	would they be Iraqis?" He says to me, "Where is it	seriam iraquianos?" Ele me diz: "Onde está
+153	written?" I said to him, "Pat, the initials of falafel bit,	escrito?" Eu disse a ele: "Pat, a sigla de falafel bit,
+154	and lechem, lachmajin, mofletta, what do you want?"	e lechem, lachmajin, mofletta, o que você quer?"
+155	He says, "But mofletta isn't Iraqi."	Ele diz: "Mas mofletta não é iraquiana."
+156	I said to him, "We're not racists, we eat from everyone's.	Eu disse a ele: "Não somos racistas, comemos a comida de todos.
+157	We have no problem eating from everyone's." He said	Não temos problema em comer a comida de todos." Ele me disse:
+158	to me, "Which one? Hil, in the initials, you must put it	"Qual deles? Hil, na sigla, é obrigatório pôr
+159	in the Yemenite soup." I said to him, "No, not initials."	na sopa iemenita." Eu disse a ele: "Não, sigla não."

@@ -1,0 +1,40 @@
+760	"Say: take a pill."	"Diga: tome um comprimido."
+761	She senses you're trying to get rid of her situation,	Ela percebe que você quer se livrar do problema dela,
+762	so you solve it for her, "so you're done with it, okay, enough." But when you	então você resolve para ela: "pronto, acabou, vamos." Mas quando você
+763	speak out of concern: "Wait, right, left, what do we do, let's do something."	fala com preocupação: "Espera, direita, esquerda, o que fazemos, vamos fazer algo."
+764	You care about me, I don't need more than that. "Thank you so much, I don't	Você se importa comigo, não preciso de mais nada. "Muito obrigada, não
+765	want anything else." You need to know, that's all, it's delicate.	quero mais nada." Tem que saber, é só isso, é delicado.
+766	When you open up, everything looks different.	Quando você se abre, tudo parece diferente.
+767	Look who brought you there, right away.	Veja quem levou você até lá, na hora.
+768	Isn't that so?	Não é assim?
+769	I told him, sir, first of all, this is A, B.	Eu disse a ele: senhor, antes de tudo, isto é o básico.
+770	Why?	Por quê?
+771	A person who wants to reach Rosh Hashanah, and didn't manage on Rosh Hashanah, wants to reach	Uma pessoa que quer chegar a Rosh Hashaná, e não conseguiu em Rosh Hashaná, quer chegar
+772	Yom Kippur.	a Yom Kipur.
+773	And he has the Ten Days of Teshuvah.	E ele tem os Dez Dias de Teshuvá.
+774	What is the best thing he needs to fix?	Qual é a melhor coisa que ele precisa corrigir?
+775	How to speak at home caring about the other and not	Como falar em casa com cuidado pelo outro e não
+776	about yourself.	por si mesmo.
+777	That's the whole secret of shalom bayit.	Esse é todo o segredo do shalom bayit.
+778	What is the secret of shalom bayit?	Qual é o segredo do shalom bayit?
+779	There's something amazing here.	Há algo incrível aqui.
+780	Do you know what you can do with the mouth?	Você sabe o que pode fazer com a boca?
+781	A man came to me, said, "Rabbi," he wants to divorce.	Um homem veio a mim e disse: "Rabino", ele quer se divorciar.
+782	I said to him, why?	Eu perguntei: por quê?
+783	He said to me, "Rabbi, divorce." What happened?	Ele disse: "Rabino, divórcio." O que aconteceu?
+784	He told me, "I'm not observant."	Ele me disse: "Eu não sou observante."
+785	Okay, why divorce?	Certo, mas por que divórcio?
+786	He says, "I'm Moroccan."	Ele diz: "Sou marroquino."
+787	I told him, that's not a reason to divorce.	Eu disse: isso não é motivo para se divorciar.
+788	He said to me, "Listen to the end."	Ele disse: "Escute até o fim."
+789	"My grandmother raised me, and I told her that the first daughter born to me	"Minha avó me criou, e eu disse a ela que a primeira filha que nascesse para mim
+790	would be named after her."	levaria o nome dela."
+791	A daughter was born to me.	Nasceu uma filha.
+792	My wife says, "What, a grandmother's name?"	Minha esposa diz: "O quê, nome de avó?"
+793	"Over my dead body, only a modern name."	"Só por cima do meu cadáver, só nome moderno."
+794	"Rabbi, I'll divorce her."	"Rabino, vou me divorciar dela."
+795	"Just, there's alimony."	"Só que tem a pensão."
+796	Tell me, a man eats at a divorce, what blessing does he make on a baguette?	Digam, um homem come num divórcio, que bênção faz sobre uma baguete?
+797	Did you learn the halachot?	Vocês estudaram as halachot?
+798	What blessing do you make on a baguette?	Que bênção se faz sobre uma baguete?
+799	HaMotzi.	HaMotsi.

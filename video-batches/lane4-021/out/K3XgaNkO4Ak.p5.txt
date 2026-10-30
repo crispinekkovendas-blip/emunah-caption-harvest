@@ -1,0 +1,40 @@
+200	Air conditioner.	Ar-condicionado.
+201	Air conditioner.	Ar-condicionado.
+202	How do you know an office is a government office?	Como você sabe que um escritório é repartição pública?
+203	You walk in, you see two working and one drinking coffee.	Você entra e vê dois trabalhando e um tomando café.
+204	The air conditioner and the fan are working, and one is drinking coffee.	O ar-condicionado e o ventilador funcionam, e um toma café.
+205	You've arrived at a government office.	Você chegou a uma repartição pública.
+206	Huh?	Hein?
+207	There was a Yemenite man. A real estate guy came to him and said, you have a dunam of land, give it to me	Havia um iemenita. Um corretor de imóveis foi até ele e disse: você tem um dunam de terra, me dê
+208	as a gift, I'm building a skyscraper here, twenty floors, you'll get three apartments. I don't want it.	de presente, vou construir aqui um arranha-céu, vinte andares, você ganha três apartamentos. Não quero.
+209	Four apartments. I don't want it.	Quatro apartamentos. Não quero.
+210	The Yemenite said, how do I get out of this? He said to him, if in the morning I wake up and see the whole yard blue, you've bought	O iemenita pensou: como me livro dele? Disse-lhe: se de manhã eu acordar e ver o quintal inteiro azul, você comprou
+211	the yard.	o quintal.
+212	He said to him, what do you mean, blue?	Ele perguntou: como assim, azul?
+213	He said to him, a carpet of 200 shekels.	Respondeu: um tapete de 200 shekels.
+214	That one did the calculation, length times width, and it came out to five million shekels.	O outro fez a conta, comprimento vezes largura, e deu cinco milhões de shekels.
+215	Is it worth it or not?	Compensa ou não?
+216	No.	Não.
+217	Huh?	Hein?
+218	Of course it's worth it.	Claro que compensa.
+219	Instead of four apartments.	No lugar de quatro apartamentos.
+220	The Yemenite lost.	O iemenita perdeu.
+221	Yes.	Sim.
+222	That one, all night... soon you'll see whether the Yemenite lost.	O outro, a noite toda... daqui a pouco você vê se o iemenita perdeu.
+223	All night long he makes him a carpet.	A noite toda fazendo o tapete para ele.
+224	The Yemenite comes, sees everything blue, and says to him, so, are you selling?	O iemenita chega, vê tudo azul e diz: então, você vende?
+225	They said to him, sir, we're not lying down, we're standing, standing, standing.	Disseram-lhe: senhor, nós não deitamos, ficamos de pé, de pé, de pé.
+226	So I said to him, Commander, sir, throw me a word. He said to me, do you have a joke about my bald head?	Então eu disse: senhor comandante, jogue uma palavra. Ele me disse: você tem uma piada sobre a minha careca?
+227	I told him, my father told me, don't mess with a redhead or with a bald man. I told him	Eu disse: meu pai me disse para não mexer nem com ruivo nem com careca. Eu disse
+228	Redhead, why?	Ruivo, por quê?
+229	Because they're too clever. And bald, why? he says to me. Maybe he used to be a redhead.	Porque são espertos demais. E careca, por quê?, ele me diz. Talvez antes ele fosse ruivo.
+230	Come on, gather the soldiers.	Vamos, reúna os soldados.
+231	What do you do, dear soldiers, what will you do after the war?	O que vocês vão fazer, queridos soldados, depois da guerra?
+232	They told me, get married.	Disseram-me: casar.
+233	I told them, stop right there.	Eu lhes disse: parem aí.
+234	Tell me you're going to study for a degree, going to work. Don't tell me you're getting married, you're not normal.	Digam que vão estudar, vão trabalhar. Não digam que vão casar, vocês não são normais.
+235	Whoever gets married today is not normal.	Quem se casa hoje não é normal.
+236	Why?	Por quê?
+237	In the State of Israel, every third couple gets divorced.	No Estado de Israel, um em cada três casais se divorcia.
+238	In Ra'anana it's already every second couple, because there every family wants to freshen up	Em Ra'anana já é um casal em cada dois, porque lá toda família quer se renovar
+239	once every few months.	uma vez a cada poucos meses.
