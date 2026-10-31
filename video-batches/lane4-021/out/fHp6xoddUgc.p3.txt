@@ -1,0 +1,40 @@
+120	Yes.	Sim.
+121	Why?	Por quê?
+122	How?	Como?
+123	From what?	De quê?
+124	What did that tell you?	O que isso te disse?
+125	Sorry, but again, I need...	Desculpe, mas de novo, eu preciso...
+126	It's like saying, I don't know, to an artificial intelligence, "aspire to be..."	É como dizer, sei lá, a uma inteligência artificial: "aspire a ser..."
+127	It doesn't have that in reality.	Ela não tem isso na realidade.
+128	Why?	Por quê?
+129	I need to know where to.	Preciso saber para onde.
+130	Why?	Por quê?
+131	Or what?	Ou o quê?
+132	Does "the Divine light" say anything to you?	"A luz Divina" te diz alguma coisa?
+133	Yes.	Sim.
+134	Don't look at me like that, as if...	Não me olhe assim, como se...
+135	You exaggerated.	Você exagerou.
+136	How did I exaggerate?	Como assim, exagerei?
+137	Come on, what does it mean?	Ora, o que isso quer dizer?
+138	But why?	Mas por quê?
+139	Where to?	Para onde?
+140	I understand the "why."	Eu entendo o "porquê".
+141	I want to know, in practice, where to.	Quero saber, na prática, para onde.
+142	I can't. Listen, navigation: a person goes out on a navigation exercise, you know, some here have done it, fine, whoever did knows,	Eu não consigo. Escutem, navegação: a pessoa sai para um exercício de navegação, conhecem, tem gente aqui que fez, tudo bem, quem fez sabe,
+143	and whoever did it and got lost also knows very well: a nightmare. Never go out with someone who doesn't know how to navigate.	e quem fez e se perdeu também sabe muito bem: um pesadelo. Nunca saiam com alguém que não sabe navegar.
+144	Truly, a nightmare. One of the biggest nightmares on earth was going out on a navigation and that guy walked	De verdade, um pesadelo. Um dos maiores pesadelos da terra foi sair para uma navegação e aquele cara andou
+145	all night, and I had to chase after him.	a noite inteira, e eu tendo que correr atrás dele.
+146	Nothing to be done: he's the one who had to navigate and you have to follow him. Fine, you're behind him,	Não tem o que fazer: ele é quem tinha que navegar e você tem que seguir. Ótimo, você vai atrás dele,
+147	trusting that he knows, and he got confused.	confiando que ele sabe, e ele se confundiu.
+148	Until the sun came up in the morning, he didn't arrive.	Até o sol nascer de manhã, ele não chegou.
+149	So it's impossible. In navigation you must have two places.	Então não dá. Na navegação são obrigatórios dois lugares.
+150	One, a starting point. Two, a destination.	Um, o ponto de partida. Dois, o ponto de chegada.
+151	If I have no starting point, there is no navigation.	Se eu não tenho ponto de partida, não há navegação.
+152	If I don't know where to arrive, there is no navigation.	Se eu não sei aonde chegar, não há navegação.
+153	What happens to everyone: they think they know the starting point.	O que acontece com todos: parece a eles que sabem o ponto de partida.
+154	And nobody knows.	E ninguém sabe.
+155	Yes, the starting point: where am I setting out from to navigate?	Sim, o ponto de partida: de onde eu saio para navegar?
+156	And I don't know it.	E eu não o conheço.
+157	I don't know it, life,	Eu não a conheço, a vida,
+158	I'll define it in a moment, I'll define it in a moment. I only gave this on purpose to start getting	vou defini-la daqui a pouco, vou defini-la daqui a pouco. Eu só dei isso de propósito para começar a fazer
+159	the wheels turning. We cannot live in the world without understanding what	as engrenagens girarem. Não podemos viver no mundo sem entender o que

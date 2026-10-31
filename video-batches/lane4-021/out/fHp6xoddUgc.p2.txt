@@ -1,0 +1,40 @@
+80	Yes.	Sim.
+81	Let him explain to me what it is.	Que ele me explique o que é.
+82	Yes, sorry.	Sim, desculpe.
+83	It's everything I experience, who or I?	É tudo o que eu vivencio, quem ou eu?
+84	Right?	Certo?
+85	Okay, this is again, this is the...	Certo, isso é de novo, isso é o...
+86	It doesn't define it for me.	Isso não me define o que é.
+87	Another question, yes, that doesn't say anything.	Outra pergunta, sim, isso não diz nada.
+88	Another question. Okay, so we don't know what "I" is, fine.	Outra pergunta. Certo, então não sabemos o que é o "eu", tudo bem.
+89	I have no idea what "I" is, okay?	Não faço ideia do que é o "eu", certo?
+90	Almost, none, we ended up with no concept.	Quase, nada, ficamos sem nenhum conceito.
+91	Okay, what is life?	Certo, o que é a vida?
+92	What?	O quê?
+93	You're not explaining anything to me?	Você não está me explicando nada?
+94	Everything that affects me.	Tudo o que me afeta.
+95	Everything that affects me	Tudo o que me afeta
+96	is	é
+97	life.	a vida.
+98	And what about the one being affected?	E o que é afetado, e ele?
+99	Isn't it?	Não é?
+100	The one affected also affects you.	O que é afetado também afeta você.
+101	So that's life?	Então isso é a vida?
+102	I didn't understand the definition, sorry.	Não entendi a definição, desculpe.
+103	If now a dream affects	Se agora um sonho afeta
+104	me, then it's life? It affects me like reality?	a mim, então é vida? Ele me afeta como a realidade?
+105	Sometimes a dream affects me like reality, and sometimes not...	Às vezes um sonho me afeta como a realidade, e às vezes não...
+106	So imagination too — how can we say imagination affects me greatly, so it's also life.	Então a imaginação também: como dizer que ela me afeta muito, então ela também é vida.
+107	Of course, if it affects me to the same extent.	Claro, se ela me afeta na mesma medida.
+108	So it isn't.	Então não é.
+109	It depends, what difference does it make?	Depende, que diferença faz?
+110	What difference does it make how it affects me?	Que diferença faz como ela me afeta?
+111	It can affect me for good, it can affect me for bad, and we still call it imagination and not	Ela pode me afetar para o bem, pode me afetar para o mal, e ainda assim chamamos de imaginação e não de
+112	reality.	realidade.
+113	Nor life.	Nem de vida.
+114	There is a definition of life.	Há uma definição de vida.
+115	Know this, it's a wonder of wonders: the Torah defined everything, the Torah said what everything is, everything is	Saibam que é uma maravilha das maravilhas: a Torá definiu tudo, a Torá disse o que cada coisa é, tudo está
+116	written.	escrito.
+117	I'm not making anything up, I'm not bringing anything out of nowhere, it's just that we don't...	Não estou inventando nada, não estou tirando nada do nada, só que nós não...
+118	Th...	Q...
+119	And were you convinced by that?	E você se convenceu disso?

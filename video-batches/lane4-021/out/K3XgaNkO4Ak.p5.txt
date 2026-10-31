@@ -1,0 +1,39 @@
+200	Air conditioner.	Ar-condicionado.
+201	Air conditioner.	Ar-condicionado.
+202	How do you know an office is a government office?	Como você sabe que um escritório é do governo?
+203	You walk in and see two working and one drinking coffee.	Você entra e vê dois trabalhando e um tomando café.
+204	The air conditioner and the fan are working, and one is drinking coffee.	O ar-condicionado e o ventilador trabalhando, e um tomando café.
+205	You've reached a government office.	Você chegou a um escritório do governo.
+206	Huh?	Hein?
+208	for free, I'll build a skyscraper here, twenty floors, you'll get three apartments. "Don't want."	de graça, vou construir aqui um arranha-céu, vinte andares, você ganha três apartamentos. "Não quero."
+209	Four apartments. "Don't want."	Quatro apartamentos. "Não quero."
+210	The Yemenite thought: how do I get out of this? He said: if I wake up in the morning and see the whole yard blue, you've bought	O iemenita pensou: como me livro dele? Disse: se de manhã eu acordar e vir o quintal inteiro azul, você comprou
+211	the yard.	o quintal.
+212	He said to him: what do you mean, blue?	Ele perguntou: como assim, azul?
+213	He said to him: a carpet of 200 shekels.	Respondeu: um tapete de 200 shekels.
+214	That guy did the math, length times width, and it came to five million shekels.	O outro fez a conta, comprimento vezes largura, e deu cinco milhões de shekels.
+215	Is it worth it or not?	Vale a pena ou não?
+216	No.	Não.
+217	Huh?	Hein?
+218	Of course it's worth it.	Claro que vale.
+219	Instead of four apartments.	Em vez de quatro apartamentos.
+220	The Yemenite lost.	O iemenita perdeu.
+221	Yes.	Sim.
+222	All night, that guy... wait, you'll see if the Yemenite lost.	O outro a noite toda... espere, você vai ver se o iemenita perdeu.
+223	All night he's making him a carpet.	A noite toda ele fazendo o tapete.
+224	The Yemenite comes, sees everything blue, and says: so, you're selling?	O iemenita chega, vê tudo azul e diz: então, você está vendendo?
+225	They told him: we, sir, aren't lying down, we're standing, standing, standing.	Disseram-lhe: nós, senhor, não estamos deitados, estamos de pé, de pé, de pé.
+226	So I said to him: Commander, throw me a word. He said to me, about my bald spot, do you have a joke?	Então eu disse: senhor comandante, solte uma palavra. Ele disse, sobre a minha careca, você tem uma piada?
+227	I told him my father told me: don't mess with a redhead or with a bald man. I said to him:	Eu disse que meu pai me disse: não mexa nem com ruivo nem com careca. Eu disse a ele:
+228	Redhead, why?	Ruivo, por quê?
+229	Because they're too sharp. And bald, why? he asks me. Maybe he was a redhead before.	Porque são espertos demais. E careca, por quê? ele me pergunta. Talvez ele fosse ruivo antes.
+230	Come on, a gathering with the soldiers.	Vamos, uma reunião com os soldados.
+231	What about you, dear soldiers, what will you do after the war?	E vocês, queridos soldados, o que vão fazer depois da guerra?
+232	They told me: get married.	Disseram-me: casar.
+233	I told them: stop right there.	Eu disse a eles: pare aí.
+234	Tell me you'll go study for a degree, go to work. Don't tell me "get married," you're not normal.	Diga que vai estudar, tirar um diploma, trabalhar. Não me diga "casar", você não é normal.
+235	Whoever gets married today isn't normal.	Quem se casa hoje não é normal.
+236	Why?	Por quê?
+237	In the State of Israel, every third couple gets divorced.	No Estado de Israel, um em cada três casais se divorcia.
+238	In Ra'anana, already every second couple divorces, because there every family wants to refresh itself	Em Ra'anana, já é um em cada dois casais, porque lá toda família quer se renovar
+239	once every few months.	a cada poucos meses.

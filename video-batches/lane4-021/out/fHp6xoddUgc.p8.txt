@@ -1,0 +1,40 @@
+320	How?	Como?
+321	How?	Como?
+322	So what is the goal?	Então, qual é a meta?
+323	Who is the one who has to get there?	Quem é aquele que precisa chegar lá?
+324	Whose journey is it?	A viagem é de quem?
+325	Someone else's, or mine?	De outra pessoa ou minha?
+326	Just a question.	Só uma pergunta.
+327	Whom do I need to fix?	Quem eu preciso corrigir?
+328	Someone else, or myself?	Outra pessoa ou a mim mesmo?
+329	Are you settled on that?	Fechado?
+330	Peace in the home is sealed right here.	Aqui a paz no lar está garantida.
+331	If you've settled that on your end, I've sealed your household peace.	Se vocês fecharam isso aí, eu fechei a paz no lar de vocês.
+332	The story is over, no more fights at home.	Fim da história, não há mais brigas em casa.
+333	We're done.	Terminamos.
+334	No, he's like this, he's like this, he's like this.	Não, ele é assim, ele é assim, ele é assim.
+335	Champions, all of you are champions.	Campeões, todos são campeões.
+336	He's like this, he's like this, he's like this, he's like this.	Ele é assim, ele é assim, ele é assim, ele é assim.
+337	How wonderful.	Que beleza.
+338	She's like this, she's like this.	Ela é assim, ela é assim.
+339	Why do you come with a grocery list?	Por que você vem com uma lista de supermercado?
+340	What is this, "come on, you"?	Que é isso, "vamos lá"?
+341	And know well, according to the Baal Shem Tov:	E fique sabendo, segundo o Baal Shem Tov:
+342	What you see in another...	aquilo que você vê no outro...
+343	is a trace of that very thing.	é um resquício daquilo mesmo.
+344	No, not a trace, a lot of that very thing.	Não, não um resquício, muito daquilo mesmo.
+345	A lot of it; we can say a lot of it.	Muito daquilo; podemos dizer muito.
+346	"A trace," we go easy on ourselves; I'm saying what the Baal Shem Tov says, yes, but without contradicting his words.	"Um resquício", nós pegamos leve conosco; estou dizendo o que o Baal Shem Tov diz, sim, mas sem contradizer as palavras dele.
+347	But what is this?	Mas o que é isso?
+348	What do you have to look for in someone else?	O que você tem a procurar no outro?
+349	And certainly not in your wife or your children, what are you digging at there?	E muito menos na esposa ou nos filhos, o que você fica cavucando aí?
+350	What do you want to gain from her being lower than you?	O que você quer ganhar com ela estando abaixo de você?
+351	How nice, what a pleasure, wonderful.	Que gostoso, que prazer, maravilha.
+352	What did you gain from that?	O que você ganhou com isso?
+353	A wife who puts her husband down, what did you gain?	Uma esposa que rebaixa o marido, o que ganhou?
+354	What did you gain?	O que você ganhou?
+355	I don't even need to ask what you gained.	Nem preciso entender o que você ganhou.
+356	Other than losing, you gained nothing.	Além de perder, você não ganhou nada.
+357	What did you gain?	O que você ganhou?
+358	No, the other side too, yes, sorry, always go into this for both sides, you can't speak about only one side.	Não, o outro lado também, sim, desculpem, entrem nisso sempre pelos dois lados, não dá para falar de um lado só.
+359	Yes?	Sim?

@@ -1,0 +1,40 @@
+1000	Silent anger.	Raiva silenciosa.
+1001	Silent anger.	Raiva silenciosa.
+1002	Pride.	Orgulho.
+1003	Pride isn't an emotion, it's...	Orgulho não é uma emoção, é...
+1004	Ah, should I finish?	Ah, posso terminar?
+1005	Not jealousy and not hatred. Hatred and anger are shouting emotions, a burning fire,	Nem inveja nem ódio. Ódio e raiva são emoções que gritam, são um fogo ardente,
+1006	not at all still, not quiet, and they don't kill us quietly. I want the one that kills us quietly.	nada mudo, nada quieto, e não nos matam em silêncio. Quero a que nos mata em silêncio.
+1007	Sadness doesn't kill us quietly. Being ignored, when people ignore you, comes out	A tristeza não nos mata em silêncio. Ser ignorado, quando ignoram você, sai como
+1008	as an emotion. I'm looking for the emotion, it's a wonder of wonders, I don't know how many years I've been at it, and no one ever	uma emoção. Procuro a emoção, é uma maravilha das maravilhas, nem sei há quantos anos faço isso, e ninguém nunca
+1009	figures it out.	descobre.
+1010	Fear?	Medo?
+1011	Emanation.	Emanação.
+1012	Emanation isn't, it's not an emotion.	Emanação não é, não é uma emoção.
+1013	Fear?	Medo?
+1014	Emanation isn't an emotion.	Emanação não é uma emoção.
+1015	Fear?	Medo?
+1016	A few things, I don't see anything.	Algumas coisas, não estou vendo nada.
+1017	Ah, good.	Ah, bom.
+1018	No, not fear, worry.	Não, não é medo, é preocupação.
+1019	Worry, worry.	Preocupação, preocupação.
+1020	Of course, what is it?	Claro, o que é?
+1021	Of course.	Claro.
+1022	By the way.	Aliás.
+1023	Why do we call it the silent killer? For a simple reason:	Por que o chamamos de assassino silencioso? Por um motivo simples:
+1024	it is just as toxic as all the other emotions.	ele é tão tóxico quanto todas as outras emoções.
+1025	It's similar.	É parecido.
+1026	Okay, just a moment, these are solutions, I don't want that, I want the thing itself.	Certo, só um instante, isso são soluções, eu não quero isso, quero a coisa em si.
+1027	To understand that this is emotional toxicity.	Entender que isso é toxicidade emocional.
+1028	Now, notice what happens in our generation.	Agora, reparem no que acontece na nossa geração.
+1029	Who doesn't worry?	Quem não se preocupa?
+1030	Who doesn't worry?	Quem não se preocupa?
+1031	There's no such thing.	Não existe isso.
+1032	Now, when there is a negative emotion in the heart, it	Agora, quando há uma emoção negativa no coração, ela
+1033	releases toxicity into the system.	libera toxicidade no sistema.
+1034	Now, a positive emotion doesn't know how to enter when there's a negative emotion.	Agora, uma emoção positiva não sabe entrar quando há uma emoção negativa.
+1035	It doesn't know it.	Ela não a conhece.
+1036	It doesn't know the way.	Não sabe o caminho.
+1037	It's impossible, it doesn't work together.	É impossível, não funciona junto.
+1038	There aren't two emotions at once.	Não existem duas emoções ao mesmo tempo.
+1039	There aren't, there's one after the other, it can be fast, but it's one after the other.	Não existem, há uma depois da outra, pode ser rápido, mas é uma depois da outra.
