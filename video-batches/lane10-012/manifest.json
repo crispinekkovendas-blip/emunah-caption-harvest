@@ -2,7 +2,7 @@
  "name": "lane10-012",
  "lane": 10,
  "created": "2026-10-31T05:47:32.528Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "aufDElJ7HSk",
@@ -208,7 +208,7 @@
   "gWcet39DuzA": 3,
   "mUFQemi-Emc": 1,
   "M-WrnG96MAc": 1,
-  "KGTQJQCgj7s": 2
+  "KGTQJQCgj7s": 3
  },
  "done": [
   "fX8eop2k4jg",
@@ -226,6 +226,7 @@
  "skipped": [
   "gWcet39DuzA",
   "vQg_sXrqrhA",
-  "3v_ZpMo7nW8"
+  "3v_ZpMo7nW8",
+  "KGTQJQCgj7s"
  ]
 }

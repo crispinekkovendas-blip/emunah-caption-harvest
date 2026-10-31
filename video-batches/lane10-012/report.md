@@ -1,7 +1,7 @@
 # lane10-012
 
-11 of 15 lessons published · 3 skipped · status **pending**
-Tokens (192 agent runs with a record): 1.5M in (mostly cache) · 1.51M out · API-equivalent 18.78
+11 of 15 lessons published · 4 skipped · status **done**
+Tokens (193 agent runs with a record): 1.5M in (mostly cache) · 1.52M out · API-equivalent 18.87
 
 | lesson | state | detail |
 |---|---|---|
@@ -16,7 +16,7 @@ Tokens (192 agent runs with a record): 1.5M in (mostly cache) · 1.51M out · AP
 | KOXRbdGhQ7I | ✓ published | 706 lines · Tanya cap. 29: irritar-se com o yetzer hará para curar o coração |
 | nXq_Yd1siIY | ✓ published | 795 lines · Avraham e a guerra dos reis: fidelidade à palavra dada |
 | gWcet39DuzA | skipped | |
-| KGTQJQCgj7s | waiting | 8/9 parts |
+| KGTQJQCgj7s | skipped after 3 tries | 6 lines missing |
 | mUFQemi-Emc | ✓ published | 558 lines · Mikdash HaShem: as duas mãos e a união das Guevurot |
 | nGIrfzjeiaU | ✓ published | 236 lines · Os Quatro Minis e os Ushpizin no Zohar de Vayechi |
 | M-WrnG96MAc | ✓ published | 495 lines · Mundo de Atzilut: Ma HaChadash e a correção dos Nekudim |
