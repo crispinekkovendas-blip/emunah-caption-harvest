@@ -1,0 +1,40 @@
+640	"I heard what you're saying. Bottom line, come to the point."	"Ouvi o que você diz. Resumindo, vá ao ponto, o essencial."
+641	He doesn't get the problem.	Ele não percebe o problema.
+642	Try tonight to talk to your wife the way I wrote in the book, and you'll see how hard it is.	Tente hoje à noite falar com sua esposa como escrevi no livro, e você vai ver como é difícil.
+643	And if it's the other way around?	E se for o contrário?
+644	Yes, we'll get to that.	Sim, vamos chegar lá.
+645	If you succeeded before, if you succeeded, sir, you're a giant.	Se você conseguiu antes, se conseguiu, meu senhor, você é um gigante.
+646	You'll be a king, but go through this, don't be afraid.	Você será um rei, mas passe por isso, não tenha medo.
+647	You'll be a king.	Você será um rei.
+648	In the book I write how to become kings.	No livro eu escrevo como nos tornamos reis.
+649	Does your wife talk?	Sua esposa fala?
+650	How do you talk to a woman?	Como se fala com uma mulher?
+651	Does your wife talk?	Sua esposa fala?
+652	How do you talk to a woman?	Como se fala com uma mulher?
+653	Does your wife talk?	Sua esposa fala?
+654	While she talks, you look her in the eyes and make listening gestures.	Enquanto ela fala, você olha nos olhos dela e faz gestos de quem escuta.
+655	Wow, what are you saying?	Nossa, o que você está dizendo?
+656	Tran, la, o, wa, ah, la, o.	Tran, lá, ô, uau, ah, lá, ô.
+657	Wait, now repeat everything from the beginning.	Espere, agora repita tudo desde o começo.
+658	Welcome.	Bem-vindo.
+659	I told him, let's see you, man.	Eu disse a ele: vamos ver você, homem.
+660	You do this, and your wife notices that you're like this?	Você faz isso, e sua esposa percebe que você está assim?
+661	You become the king of the house.	Você se torna o rei da casa.
+662	People don't know how to be a king.	As pessoas não sabem como ser rei.
+663	I asked a soccer player, how is the shalom bayit in your home?	Perguntei a um jogador de futebol: como está o shalom bayit na sua casa?
+664	He tells me, at home I'm Hapoel and my wife is	Ele me diz: em casa eu sou do Hapoel e minha esposa é do
+665	Maccabi.	Maccabi.
+666	I told him, too bad, you could be the happiest person in the world.	Eu disse a ele: que pena, você poderia ser a pessoa mais feliz do mundo.
+667	So he says to me, how do we start?	Então ele me diz: como começamos?
+668	I told him, tell me, a man comes into the house and a woman comes in, is it the same?	Eu disse: diga-me, um homem entra em casa e uma mulher entra, é a mesma coisa?
+669	A man comes home. Does he want to remember everything that happened to him today, or	Um homem chega em casa. Ele quer lembrar tudo o que lhe aconteceu hoje, ou
+670	to forget what happened to him today? What do you say?	esquecer o que lhe aconteceu hoje? O que vocês dizem?
+671	To forget. His wife stands before him. Does she too want to forget everything	Esquecer. Sua esposa está diante dele. Ela também quer esquecer tudo
+672	that happened to her today, or does she want to remember	o que lhe aconteceu hoje, ou ela quer lembrar
+673	everything that happened to her since the morning, that your mother	tudo o que lhe aconteceu desde a manhã, que a sua mãe
+674	called... so come on, let's see you make shalom bayit.	ligou... então vamos, quero ver você fazer shalom bayit.
+675	He's finished, he wants quiet until tomorrow, he went to work, and she just	Ele está acabado, quer silêncio até amanhã, foi trabalhar, e ela acabou
+676	woke up. Good morning! What do we do?	de acordar. Bom dia! O que fazemos?
+677	I told him, learn the rules. A woman who talks hates three things when she	Eu disse a ele: aprenda as regras. Uma mulher que fala detesta três coisas quando
+678	talks. First, that she talks and you're tired	fala. Primeiro, que ela fala e você está cansado
+679	and listening. She's also worn out, he listens, and he says to her	e ouvindo. Ela também está exausta, ele escuta, e diz a ela

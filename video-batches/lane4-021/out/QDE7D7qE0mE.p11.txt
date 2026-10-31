@@ -1,0 +1,40 @@
+440	"And he sits opposite me."	"E ele está sentado diante de mim."
+441	What does "sits opposite me" mean?	O que quer dizer "sentado diante de mim"?
+442	He is equal. He is my equal in power.	Ele é igual. Ele tem o mesmo poder que eu.
+443	So why am I calling you?	Então por que estou chamando você?
+444	Just to honor you. Come with me.	Só para lhe dar honra. Venha comigo.
+445	That is how he sends to him the first time.	Assim ele envia a mensagem a ele pela primeira vez.
+446	He sits opposite me with the same power as mine.	Ele está diante de mim com o mesmo poder que o meu.
+447	"Perhaps I will be able to strike him."	"Talvez eu consiga feri-lo."
+448	What is this?	O que é isso?
+449	Grammatically it doesn't fit.	Gramaticalmente não se encaixa.
+450	"Perhaps I will be able, we will strike him"?	"Talvez eu consiga, nós o feriremos"?
+451	What should have been written?	O que deveria estar escrito?
+452	"Perhaps I will be able to strike him."	"Talvez eu consiga feri-lo."
+453	You are speaking about yourself.	Você fala de si mesmo.
+454	Or, "perhaps we will be able to strike him."	Ou então: "talvez nós consigamos feri-lo."
+455	It opens in the singular and ends in the plural.	Começa no singular e termina no plural.
+456	"Perhaps I will be able, we will strike him."	"Talvez eu consiga, nós o feriremos."
+457	What is "nake"?	O que é "nake"?
+458	"We will strike him."	"Nós o feriremos."
+459	Rather, what did that wicked Balak mean?	Mas o que quis dizer aquele ímpio Balak?
+460	That is the way of the wicked.	Esse é o caminho dos ímpios.
+461	What did he say?	O que ele disse?
+462	What did Balak say?	O que Balak disse?
+463	If we win, "I will be able."	Se vencermos, "eu consigo".
+464	That is me.	Esse sou eu.
+465	Me alone.	Só eu.
+466	And if we lose, "we strike him."	E se perdermos, "nós o feriremos".
+467	Meaning, both of us lost.	Ou seja, os dois perdemos.
+468	Defeat is an orphan, but victory always belongs to everyone. Look, they managed to knock off some	A derrota é órfã, mas a vitória sempre é de todos. Vejam, conseguiram tirar uns
+469	two shekels from the water bill, and they start fighting in the Knesset over who made	dois shekels da conta de água, e já começam a brigar no Knesset sobre quem fez
+470	the discount. One says "I did," another says "I did." But who made the losses, because of which people still can't	o desconto. Um diz "fui eu", outro diz "fui eu". Mas e quem causou os prejuízos, por causa dos quais até hoje as pessoas não conseguem
+471	buy homes, huh?	comprar casas, hein?
+472	About that you don't talk. Why the loss? No, "not me, it's him, he did it." Losses, each one	Disso vocês não falam. Por que o prejuízo? "Não, eu não, foi ele, foi aquele." Nos prejuízos, cada um
+473	blames the other. But in successes, each one feels himself, it's like	culpa o outro. Mas nos sucessos, cada um se sente o autor, é como
+474	That is how people feel themselves wise.	Assim as pessoas se sentem sábias.
+475	After I got married, baruch HaShem, at the Sheva Brachot a	Depois que me casei, graças a HaShem, nas Sheva Brachot veio até mim um
+476	rabbi came to me. I used to pray at sunrise at Sha'arei Zion, and a rabbi approached me	rabino. Eu rezava no nascer do sol em Sha'arei Zion, e um rabino se aproximou de mim
+477	and said to me, "Rav Meir, I must tell you something. Now you are married, don't neglect your wife	e me disse: "Rav Meir, preciso lhe dizer uma coisa. Agora você é casado, não negligencie sua esposa
+478	for the sake of Torah."	em favor da Torá."
+479	There is a time for Torah and a time for your wife.	Há tempo para a Torá e há tempo para a esposa.
