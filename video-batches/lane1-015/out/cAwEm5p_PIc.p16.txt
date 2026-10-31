@@ -1,0 +1,40 @@
+640	Seventy. How many tribes are there?	Setenta. Quantas tribos existem?
+641	Twelve. If I take six from each tribe, how many do I have?	Doze. Se eu tomar seis de cada tribo, quantos eu tenho?
+642	Seventy-two. Seventy-two is no good. If I take five from each tribe, how many do I have?	Setenta e dois. Setenta e dois não serve. Se eu tomar cinco de cada tribo, quantos eu tenho?
+643	Five from each tribe, five times twelve.	Cinco de cada tribo, cinco vezes doze.
+644	How many?	Quantos?
+645	Sixty.	Sessenta.
+646	It's not enough.	Não é suficiente.
+647	So what will I do?	Então o que vou fazer?
+648	How do I take exactly seventy?	Como vou tomar exatamente setenta?
+649	Slips of paper.	Papeletas.
+650	So what did he do?	Então o que ele fez?
+651	He took from each tribe...	Tomou de cada tribo...
+652	So he ended up with seventy-two.	Assim ficou com setenta e dois.
+653	And he took bags.	E pegou sacos.
+654	In one bag he wrote "elder": seventy slips that say "elder," and two blank slips.	Num saco escreveu "ancião": setenta papeletas com "ancião" e duas papeletas em branco.
+655	And in the other bag he wrote their seventy-two names.	E no outro saco escreveu os setenta e dois nomes deles.
+656	And he would draw.	E ia tirando.
+657	Tak, tak: whoever's name came up together with "elder," come on, go to the Tent of Meeting.	Tac, tac: aquele cujo nome saiu junto com "ancião", vamos, vá para a Tenda da Reunião.
+658	Tak: elder, go to the Tent of Meeting.	Tac: ancião, vá para a Tenda da Reunião.
+659	And so he went on. Whoever's name came up with the blank slip: excuse me, you didn't get the appointment,	E assim foi. Aquele cujo nome saiu com a papeleta em branco: com licença, você não recebeu a nomeação,
+660	go back to your tent.	volte para a sua tenda.
+661	That's how it was.	Foi assim.
+662	There were two tzaddikim there, Eldad and Medad, who said: why do we need this greatness?	Havia ali dois tsadikim, Eldad e Medad, que disseram: para que precisamos dessa grandeza?
+663	It's not important for us. Why stand there waiting to see if we got it? We don't need it. Hate lordship, which buries	Não é importante para nós. Para que ficar ali esperando para ver se fomos escolhidos? Não precisamos disso. Odeie o poder, que enterra
+664	its owner. Poor is the one who chases honor. It's a sickness, a poor sickness.	o seu dono. Coitado de quem corre atrás da honra. É uma doença, uma doença lamentável.
+665	Whoever chases honor and power and positions, it's a sickness, it's a klipah.	Quem corre atrás de honra, poder e cargos, isso é uma doença, é uma klipá.
+666	Poor, simply poor and miserable, he needs to live off the honor they give him, and without	Coitado, simplesmente coitado e infeliz, que precisa viver da honra que lhe derem, e sem
+667	honor he dies, what...	honra ele morre, que...
+668	I tell you, such a person is miserable, who lives only off the feedback he gets from others, or from them giving him	Eu lhes digo, uma pessoa assim é infeliz, que vive só do retorno que recebe dos outros, ou de lhe darem
+669	honor or kissing his hands. Poor man, poor man.	honra ou beijarem suas mãos. Coitado, coitado.
+670	There is no holiness upon him, no Shechinah upon him, no Heavenly assistance upon him, even his words aren't heard. Poor	Não há santidade sobre ele, nem Shechiná sobre ele, nem auxílio dos Céus sobre ele, até suas palavras não são ouvidas. Coitado
+671	is the one who seeks that.	de quem busca isso.
+672	He, Eldad and Medad: why do we need this?	Eldad e Medad disseram: para que precisamos disso?
+673	Huh?	Hein?
+674	Who needs this thing?	Quem precisa dessa coisa?
+675	Eldad and Medad said: come, Eldad, let's go back to our room to learn Bava Batra, come.	Eldad e Medad disseram: venha, Eldad, vamos voltar ao nosso quarto para estudar Bava Batra, vamos.
+676	Eldad and Medad left.	Eldad e Medad foram embora.
+677	And they went to the camp.	E foram para o acampamento.
+678	And when Moshe Rabbeinu drew out their slip, on the slip of one of them it was written "elder,"	E quando Moshe Rabeinu tirou a papeleta deles, na papeleta de um deles estava escrito "ancião",
+679	"elder."	"ancião."

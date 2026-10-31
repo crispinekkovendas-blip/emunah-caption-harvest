@@ -1,0 +1,40 @@
+0	Rambam, Laws of Shechitah, chapter 1, halachah	Rambam, Leis da Shechitá, capítulo 1, halachá
+1	14.	14.
+2	Our teacher the Rambam writes: With what may one slaughter?	Nosso mestre o Rambam escreve: com o que se abate?
+3	With anything.	Com qualquer coisa.
+4	Whether with a metal knife, or with flint or glass, or with a reed	Seja com uma faca de metal, seja com sílex ou vidro, ou com uma cana
+5	of the marsh.	do brejo.
+6	And similar sharp cutting objects.	E com objetos cortantes semelhantes.
+7	But it must have a single, smooth edge, with no notch in it.	Mas é preciso que tenha um fio liso e que não haja nele nenhuma falha.
+8	But if there was something like a furrow in the edge of the implement used for slaughtering,	Mas se havia algo como um sulco no fio do instrumento com que se abate,
+9	even if the furrow was very small, the slaughter is invalid.	mesmo que o sulco fosse minúsculo, a shechitá é inválida.
+10	So, with HaShem's help, let us explain; there are many things here that one needs	Então, com a ajuda de HaShem, vamos explicar; há aqui muitas coisas que é preciso
+11	to know.	saber.
+12	First, the Mishnah in tractate Chulin, page 15	Primeiro, a Mishná no tratado Chulin, folha 15
+13	side b, brings there: one who slaughters with a hand sickle,	lado b, traz ali: aquele que abate com uma foice de mão,
+14	with flint or with a reed.	com sílex ou com uma cana.
+15	Flint is a sharp stone, and reed is also the reed	Sílex é uma pedra afiada, e cana é também a cana
+16	of the marsh; the difference between an ordinary reed and the marsh reed is that the marsh reed cuts	do brejo; a diferença entre uma cana comum e a cana do brejo é que a cana do brejo corta
+17	and does not leave splinters.	e não deixa lascas.
+18	Therefore the Mishnah says that one may slaughter with anything:	Por isso a Mishná diz que se pode abater com qualquer coisa:
+19	one who slaughters with a hand sickle, flint or reed, his slaughter is valid; one slaughters with anything, always,	quem abate com foice de mão, sílex ou cana, a sua shechitá é válida; abate-se com qualquer coisa, sempre,
+20	one slaughters with anything, except a harvest sickle and a saw,	abate-se com qualquer coisa, exceto com a foice de colheita e a serra,
+21	and teeth and a fingernail, because they strangle.	e os dentes e a unha, porque estrangulam.
+22	That is, instead of cutting, they strangle.	Isto é, em vez de cortar, eles estrangulam.
+23	Now, let us see for example a saw; what is a saw?	Agora, vejamos por exemplo a serra; o que é uma serra?
+24	It is like a saw whose teeth are serrated.	É como um serrote cujos dentes são recortados.
+25	In such a way it does not cut in one stroke, but rather tears more.	Assim, ela não corta de uma só vez, mas antes rasga.
+26	And therefore it will be invalid.	E por isso será inválida.
+27	In any case the Mishnah explains that all knives are valid for slaughter,	De qualquer modo, a Mishná explica que todas as facas são válidas para a shechitá,
+28	but there is a condition: that their edge be smooth	mas há uma condição: que o seu fio seja liso,
+29	without nicks.	sem falhas.
+30	So it is also brought in the Braita, and this is therefore the source of the halachah here in the Rambam,	Assim consta também na Braita, e esta é, portanto, a fonte da halachá aqui no Rambam,
+31	who writes: With what may one slaughter?	que escreve: com o que se abate?
+32	With anything.	Com qualquer coisa.
+33	In the Frankel edition it is written: with what	Na edição Frankel está escrito: com o que
+34	does one slaughter?	se abate?
+35	With anything.	Com qualquer coisa.
+36	Whether with a metal knife, and note	Seja com uma faca de metal, e reparem
+37	that the Rambam puts a metal knife here before the other things.	que o Rambam coloca aqui a faca de metal antes das outras coisas.
+38	Rabbenu Avach, in Yoreh Deah, siman 6, se'if 1, writes that from the fact that the Rambam puts	Rabenu Avach, no Yoreh Deá, simán 6, séif 1, escreve que, pelo fato de o Rambam colocar
+39	a metal knife before other knives, it implies that ab initio one should slaughter with a knife of	a faca de metal antes das outras facas, entende-se que, de início, deve-se abater com uma faca de

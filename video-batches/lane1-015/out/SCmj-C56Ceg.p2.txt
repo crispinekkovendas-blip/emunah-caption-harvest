@@ -1,0 +1,40 @@
+80	Like a knife that took a blow, there is a point here and a point there.	Como uma faca que levou uma pancada, há uma ponta aqui e uma ponta ali.
+81	But if there was a furrow in the edge of the instrument used for slaughtering,	Mas se houvesse um sulco no fio do instrumento com que se abate,
+82	even if the furrow was extremely small, extremely small,	mesmo que o sulco fosse pequeníssimo, pequeníssimo,
+83	barely felt, the shechitah is invalid.	quase imperceptível, a shechitá é inválida.
+84	Even so, the shechitah is invalid.	Mesmo assim, a shechitá é inválida.
+85	What is the reason?	Qual é o motivo?
+86	The reason is that when one slaughters, the barb, which is the protrusion of the nick,	O motivo é que, ao abater, a farpa, que é a saliência da falha,
+87	strikes the animal's siman and tears it.	atinge o siman do animal e o rasga.
+88	Therefore it is not considered a cut, the siman, in a valid shechitah.	Por isso não se considera um corte, o siman, numa shechitá válida.
+89	Now, this wording of the Rambam, that any nick at all disqualifies	Agora, esta expressão do Rambam, de que qualquer falha invalida
+90	the knife, what does he say?	a faca, o que ele diz?
+91	But if there was a furrow in the edge of the instrument used for slaughtering, even if the furrow was extremely small.	Mas se houvesse um sulco no fio do instrumento com que se abate, mesmo que o sulco fosse pequeníssimo.
+92	The Rambam does not give us here the measure of how small "extremely small" is.	O Rambam não nos dá aqui a medida de quão pequeno é esse "pequeníssimo".
+93	How much?	Quanto?
+94	So there are those who want to learn from the Rambam's words that he gave no measure for this.	Por isso há quem queira aprender das palavras do Rambam que ele não deu medida para isso.
+95	Even if a person passes the fingernail over the knife back and forth	Mesmo que a pessoa passe a unha sobre a faca, para a frente e para trás,
+96	and the fingernail does not catch,	e a unha não prenda,
+97	it passes through,	e passe direto,
+98	still, if one feels some nick, it will be	ainda assim, se sentir alguma falha, ela será
+99	invalid.	inválida.
+100	And so we are indeed concerned according to the Rambam.	E assim, de fato, é preciso se preocupar segundo o Rambam.
+101	This topic, gentlemen, what is the measure of the nick needed for it to be invalid, is brought	Este tema, senhores, qual é a medida da falha para que seja inválida, está
+102	in the Gemara in Tractate Chulin, page 17b, where there are many opinions and views.	na Guemará, no tratado Chulin, folha 17b, onde há muitas opiniões e posições.
+103	I want us to summarize them a bit, pay attention.	Quero que as resumamos um pouco, prestem atenção.
+104	The Gemara there says that the measure of a nick in the knife is like the chaguirat	A Guemará diz ali que a medida da falha na faca é como a chaguirat
+105	HaTziporen.	HaTziporen.
+106	What is chaguirat HaTziporen?	O que é chaguirat HaTziporen?
+107	Do you know what it means?	Vocês sabem o que significa?
+108	A belt, which we wear, why is it called a "chagorah"?	Um cinto, que usamos, por que se chama "chagorá"?
+109	Because it girds the person.	Porque ele cinge a pessoa.
+110	"Girds" means it goes around the person.	"Cinge" quer dizer que dá a volta na pessoa.
+111	That is what it means, girding the person.	É isso que significa cingir a pessoa.
+112	It goes around the person, the belt, and is also fastened onto him.	Ele dá a volta na pessoa, o cinto, e também fica preso a ela.
+113	So it comes out from here that if there is, for example, chaguirat HaTziporen,	Então resulta daqui que, se há, por exemplo, chaguirat HaTziporen,
+114	chaguirat HaTziporen is when the fingernail gets caught, and the nick surrounds	chaguirat HaTziporen é quando a unha fica presa, e a falha envolve
+115	the fingernail, it girds it.	a unha, ela a cinge.
+116	So this is one opinion, that only if it is a nick like this, it is invalid.	Essa é uma opinião: só se for uma falha assim, é inválida.
+117	But the Sages, how did they check the knife in their time?	Mas os Sábios, como verificavam a faca em seu tempo?
+118	Not on the nails.	Não na unha.
+119	Like this, pay close attention.	Assim, prestem bem atenção.

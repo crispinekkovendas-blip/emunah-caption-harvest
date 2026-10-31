@@ -1,0 +1,39 @@
+360	Divorcées are permitted.	Divorciadas são permitidas.
+361	Divorcées are permitted, huh? Explain the matter to us.	Divorciadas são permitidas, é? Explique o assunto para nós.
+362	Very good, very good.	Muito bom, muito bom.
+363	What do you say about a divorcée?	O que você diz da divorciada?
+364	If she was divorced once, the poor thing, luck wasn't on her side.	Se ela se divorciou uma vez, coitada, a sorte não esteve do lado dela.
+365	Once is okay, right?	Uma vez pode, não é?
+367	get along, well.	se entenderam, enfim.
+368	She got divorced a second time, what will you say?	Divorciou-se pela segunda vez, o que você diz?
+369	Again her luck didn't work out?	De novo a sorte dela não funcionou?
+370	Her luck didn't work out, a second time.	A sorte dela não funcionou, pela segunda vez.
+371	She got divorced a third time.	Divorciou-se pela terceira vez.
+372	Is there any point in taking such a woman, a third-timer?	Faz sentido pegar uma mulher assim, de terceira vez?
+373	There's a black mark, there's no demand for her.	Há uma mancha negra, não há procura por ela.
+374	Come on, how do you defend her?	Vamos, como você a defende?
+375	How do you defend her?	Como você a defende?
+376	You're a lover of Israel.	Você é um amante de Israel.
+377	A lover of Israel.	Um amante de Israel.
+378	The Hagahot Maimoniyot writes, Hilchot Isurei Biah, chapter 21, halacha 31: if she was divorced several	As Hagahot Maimoniyot escrevem, Hilchot Isurei Biá, capítulo 21, halachá 31: se ela se divorciou várias
+379	times, there is nothing in it.	vezes, não há nada nisso.
+380	That is, it's not a problem.	Ou seja, não é problema.
+381	But yes, there is something.	Mas sim, há algo.
+382	But, but, the Zohar writes, Mishpatim 103b, Rabbi	Mas, mas, o Zohar escreve, Mishpatim 103b, Rabi
+383	Levitas, Levitas, apparently he was a Levi, no?	Levitas, Levitas, pelo visto ele era levita, não?
+384	Levitas, like Levinger, Levinsky, Levinian, there's every Levin.	Levitas, como Levinger, Levinsky, Levinian, tem todo tipo de Levin.
+385	Or maybe Levitas is a first name, but Levi is also a first name, no?	Ou talvez Levitas seja um nome próprio, mas Levi também é nome próprio, não?
+386	There's Reuven Shimon Levi, so Levi is a first name.	Há Reuven, Shimon, Levi, então Levi é nome próprio.
+387	Well, Rabbi Levitas of Kfar Ono smiles and jokes about this:	Bem, Rabi Levitas de Kfar Ono sorri e brinca sobre isso:
+388	Know that she has gone through this twice.	Saiba que ela já passou por isso duas vezes.
+389	She got divorced twice, she couldn't get along with two people.	Ela se divorciou duas vezes, não conseguiu se entender com duas pessoas.
+390	Why do you think she'll get along with you?	Por que você acha que ela vai se entender com você?
+391	What, are you Moshe Rabbeinu, with such perfected traits that you'll put up with her?	O quê, você é Moshé Rabênu, com qualidades tão corrigidas que vai suportá-la?
+392	Huh?	Hein?
+393	Twice already she was divorced.	Duas vezes ela já se divorciou.
+394	True, in practice, the Hagahot Maimoniyot writes, there's no prohibition in this.	É verdade que, na prática, as Hagahot Maimoniyot escrevem que não há nisso nenhuma proibição.
+395	You can, it's not...	Você pode, não é...
+396	With a widow too there's no prohibition here, but there's a place of danger.	Com a viúva também não há aqui proibição, mas há lugar para perigo.
+397	So with a widow, one does a tikun for her.	Então, com a viúva, faz-se um tikun para ela.
+398	What do you do with a divorcée?	O que você faz com a divorciada?
+399	A tikun?	Um tikun?
