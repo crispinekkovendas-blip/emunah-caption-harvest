@@ -1,0 +1,64 @@
+videoId: vQg_sXrqrhA
+parte 6 de 21 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Modê Ani, netilat yadayim e Asher Yatsar: oração da alma
+RESUMO: O rabino retoma a ideia central da série: a oração não existe para mudar o Santo, Bendito Seja, mas para transformar quem ora e abri-lo à Divindade. Por isso é preciso entender as palavras, pedir só o que corresponde à vontade do Criador e compreender que uma oração "atendida" pode se acumular ao longo de gerações, citando que "não há oração que volte vazia". Passa então ao Modê Ani, composto pelo cabalista de Safed Rabi Moshe (Yosef) Mekir, no Séder HaYom, aceito por todas as comunidades. Explica a gratidão (hodaá) como reconhecer a verdade e uma grandeza maior que o "eu", e cada termo: rei, vivo e eterno, alma devolvida com compaixão, grande é a Tua fidelidade. Em seguida trata da netilat yadayim, do "espírito impuro" da noite, da quantidade de uma revi'it e das três lavagens, com a prática de abençoar depois. Termina com Asher Yatsar: o corpo com orifícios e cavidades como sabedoria divina, o paralelo com as forças da alma no Rambam e a união do físico e do espiritual em "Rofe Kol Basar".
+MOMENTOS: 00:38 Oração transforma a pessoa e não o Santo, Bendito Seja · 04:50 Crítica à oração como pedido infantil e interesseiro · 09:15 Por que é essencial entender as palavras da oração · 10:43 Pedidos indevidos e oração em vão · 13:26 O que é uma oração atendida · 17:00 Oração infantil versus oração madura · 18:37 A noite como um sessenta avos da morte e o levantar · 21:44 Modê Ani: texto e origem em Rabi Moshe Mekir · 23:23 Dizer sem o Nome e o sentido de hodaá · 27:11 Quem agradece, "eu", e o rei vivo e eterno · 30:51 A alma devolvida com compaixão e fidelidade · 34:15 Netilat yadayim e o espírito impuro · 37:16 Três lavagens e o costume de abençoar depois · 41:19 Asher Yatsar: orifícios, cavidades e sabedoria divina · 45:36 Rambam, Shemoná Perakim e as forças da alma · 51:02 Rofe Kol Basar: corpo e espírito unidos
+FONTES CITADAS: 01:58 Berachot 32b · 05:40 Yirmiyahu 17:14 · 08:26 Amidá, bênção Avot · 12:23 Shabat 10a? / Mishlei 28:9 · 12:00 Berachot 54a · 15:37 Berachot 32b · 18:41 Berachot 57b · 19:23 Berachot 4b · 20:56 Shulchan Arukh, Orach Chaim 1:1 · 21:44 Modê Ani · 21:59 Séder HaYom, Rabi Moshe Mekir · 24:20 Bereshit 29:35 · 24:27 Bereshit 38:26 · 27:15 Shemot 20:2 · 33:39 Isaías 59? / Hoshea 14? · 31:00 Berachot 60b · 34:19 Shabat 109a · 35:09 Zecharia 10:2 · 37:16 Shabat 109a · 38:13 Kohelet 4:12 · 38:22 Bênção da netilat yadayim · 41:19 Asher Yatsar · 43:32 Chulin 7b · 45:36 Rambam, Shemoná Perakim · 48:41 Midrash Tanchuma, Pekudei 3 · 48:56 Midrash Tanchuma, Pekudei 3 · 49:54 Berachot 6a · 51:02 Asher Yatsar
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|13:13|ההודעה ולדברים נוספים בתפילה, אבל בגדול, מה זה נקרא תפילה
+189|13:19|שנענית?
+190|13:20|זה גם חלק מהנגזרות שיש לה ונס.
+191|13:24|אדם חושב ש...
+192|13:25|עוד פעם.
+193|13:26|התפילה זה לבקש מהקדוש ברוך הוא דברים ולקבל.
+194|13:29|מה זה תפילה נענית?
+195|13:30|אם קיבלתי, סימן שהתפילה נענתה.
+196|13:32|אם לא קיבלתי, סימן שהתפילה לא נענתה.
+197|13:35|נו, מכיוון ש-90% מהתפילות שאנחנו מתפללים הן לא נענות, נכון?
+198|13:39|אני עכשיו מתפעל, תכף זה, ובנה בית המקדש מרע בימינו.
+199|13:43|נו, בית המקדש נבנה.
+
+LINHAS A TRADUZIR:
+200|13:44|לא, נכון?
+201|13:45|אני עכשיו מתפעל, הנה השם עשה שאני אזכה בלוטו.
+202|13:48|או, לא זכיתי, אז...
+203|13:49|אז יוצא שרוב התפילות לא נענות, ואז אדם נכנס לתסכול כזה.
+204|13:53|נכון שהוא מדי פעם נתלה באיזה סיפור, מקרה שהיה לו בחיים, שהוא התפלל, וזה מיד קרה, בסדר, אבל
+205|13:59|כולנו יודעים, סטטיסטית זה הרי לא...
+206|14:01|זה לא קורה הרבה, זה אפילו רוב המקרים לא כאלה.
+207|14:07|זה לא קורה מיד.
+208|14:08|אז עכשיו ההבנה עמוקה יותר, לא רק שזה לא קורה מיד.
+209|14:11|מה זה נקרא תפילה נענית?
+210|14:13|תפילה נענית אמרנו זה שהאדם...
+211|14:15|מה זה תפילה?
+212|14:16|תפילה זה לשנות אותנו ליותר פתוחים לקדוש ברוך.
+213|14:19|עצם זה שהתפללנו, גם אם אנחנו לא רואים את מה שביקשנו, זה כבר הענות של
+214|14:25|התפילה.
+215|14:26|זה שאדם עכשיו מתפלל על חבר שלו, אנא השם עשה שיהיה בריא, והחבר לא נהיה בריא.
+216|14:31|זה שעכשיו אדם התפלל, רצה שתופיע יותר רפואה אצל החבר שלו, הוא עצמו התרומם
+217|14:37|יותר לאהבת ישראל, לטוב שיהיה בעולם, זה כבר שינוי,
+218|14:43|זה כבר פתיחות יותר של העולם כלפי הבורא.
+219|14:49|הדברים ילכו והצטברו במהלך הדורות, כן?
+220|14:53|סבינו וסבותינו, התפללו אלפי שנים, תחסן עיניהם, שוכל צאן מרחמים.
+221|14:57|הם לא קיבלו את זה באופן מיידי, נכון?
+222|15:00|אז מה, התפילות שלהם היו תפילות חסרות משמעות?
+223|15:03|כל תפילה שלהם היא רוממה אותם ואת המציאות לעוד קצת חזרת השכינה
+224|15:09|לציון, ובסוף, בפרספקטיבה של אלפי שנים, גם שבנו לציון.
+225|15:14|אז יש דברים שאנחנו באמת מתפללים וזכינו וזה מופיע באופן מיידי, יש דברים שלוקח
+226|15:20|מאות שנים, ויש דברים גם שייקחו בפרספקטיבה של הנצח.
+227|15:24|אנחנו, אני לא יודע, אדם נפגש אם היה לו איזה כאב מסוים שהוא התפלל עליו, וזה לא קרה
+228|15:30|ועכשיו החיים יתגלגלו.
+229|15:31|אז זהו, התפילה הזו היא תפילה חסרת משמעות?
+230|15:35|לא.
+231|15:35|אומרים חז"ל, אין תפילה שווה ריק העם.
+232|15:37|הקדוש ברוך הוא, כן, אנחנו לא בקטע שלו, אלוקים מותר להגיד לא.
+233|15:42|זה גם איזה סוג כזה של...
+234|15:44|של עריצות כזו, כאילו יש פה איזה אלוקים שמתפללים לה והוא נהנה להגיד לא כדי להראות לכם מי
+235|15:50|שולט.
+236|15:50|לא.
+237|15:51|אלוקים תמיד אומר כן, רק הכן שלו זה לא מה שאתה חושב.
+238|15:55|אתה חושב שהכן, שהתפלת עכשיו איזה תפילה ובכלל שכחת ממנה ולא, אז התפילה הלכה לאיבוד.
+239|16:00|לא.

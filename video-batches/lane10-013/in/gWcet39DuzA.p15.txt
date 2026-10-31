@@ -1,0 +1,64 @@
+videoId: gWcet39DuzA
+parte 16 de 24 · traduzir as linhas 600 a 639 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Não se acostumar: gratidão e um bom casamento
+RESUMO: O rabino pergunta por que a vida é tão difícil se o mundo foi criado perfeito. Descreve o mundo antes do dilúvio, de vidas longas e fartura, e explica que a abundância gerou arrogância, como diz a Gemará em Sanhedrin 108a e o versículo "E o coração se eleva e esqueces HaShem". Por isso HaShem dosa a facilidade da vida de cada um, e o rabino ilustra com histórias de dinheiro, hakarat hatov e jovens que guardam o shomer negia. Ele afirma que o hábito é a raiz do problema e que quem tem um bom casamento e gratidão aos pais tem uma vida abençoada. O remédio é a hoda'a: as Birkot HaShachar e Tehilim 148 treinam a pessoa a não achar nada natural, e "ruach searah osa devaro" mostra que as dificuldades trazem ordem. Ele ensina ainda a não fazer observações à esposa na hora da ação, a cultivar a humildade e a lembrar que HaShem "não dormita nem dorme". Por fim, em Lech Lecha, o rabino mostra que a fartura de Avraham e Lot trouxe discussão, e abençoa a todos para que não se acostumem.
+MOMENTOS: 00:54 Por que a vida é tão difícil? · 05:33 O mundo era perfeito antes do dilúvio · 08:20 O dilúvio e a arrogância causada pela fartura · 09:38 HaShem retém a facilidade para nos proteger; a história dos dois mil shekels · 14:26 Hakarat hatov: o amigo que viajou ao funeral · 18:57 "Para que não me farte e negue": a fartura estraga · 22:15 Jovens que guardam o shomer negia e o casamento · 24:40 Bom casamento, amor e gratidão como sinal de vida boa · 27:35 O hábito como perigo; gratidão à esposa · 31:39 Tehilim 148 e "ruach searah osa devaro" = ordem · 35:28 Hoda'a: o antídoto contra o hábito · 40:54 Não fazer observações à esposa na hora da ação · 42:40 Humildade e boas midot · 43:43 HaShem atento: a filha que bate à porta · 47:40 Rabeinu Bachya e as Birkot HaShachar · 50:07 Lech Lecha: riv e merivá com a fartura
+FONTES CITADAS: 06:16 Bereshit 5 · 07:07 Midrash sobre a geração do dilúvio · 07:18 Midrash sobre a geração do dilúvio (criança e o demônio) · 08:20 Bereshit 6:12 · 08:44 Sanhedrin 108a · 09:21 Bereshit 3:19 · 12:35 Devarim 8:14 · 12:39 Explicação do Rav David Chaim Pinto · 14:15 Rashi em Bereshit 47:29 · 14:22 Yirmeyahu 2:2 · 18:57 Mishlei 30:9 · 18:57 Devarim 32:15 · 23:24 Bereshit Rabá 3:7 · 23:29 Bereshit Rabá 68:4 · 30:55 Birkot HaShachar · 31:07 Berachot 48b · 31:19 Bênçãos de agradecimento (Shehechiyanu, Baruch Dayan HaEmet) · 31:39 Tehilim 148:1-4 · 32:19 Tehilim 148:7-9 · 33:42 Tehilim 148:8 · 37:35 Mishlei 22:9 · 37:47 Elokai Netzor (fim da Amidá) · 38:22 Bereshit 9:13 · 40:11 Halachá sobre bênçãos diante de imodéstia · 40:57 Rav Ben Tzion Abba Shaul, Or LeTzion · 43:12 Tehilim 121:4 · 47:40 Rabeinu Bachya, Shaar HaBitachon · 48:38 Birkot HaShachar · 50:15 Bereshit 13:7 · 50:53 Bereshit 13:2 · 51:00 Bereshit 13:1 · 51:12 Shemot 13:18 · 51:48 Bereshit 13:8 · 52:00 Dvar Torá sobre Bereshit 13:7-8
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|36:20|אני מודה לקדוש ברוך הוא על זה שיש לי אתכם.
+589|36:24|כשאני מגיע לפה ביום רביעי, ראיתם איך התרגשתי היום, נכון?
+590|36:27|באתי היום ביום רביעי, אני יושב פה ומתרגש.
+591|36:30|כמה שיעור זה קיים?
+592|36:31|כבר כמה שנים.
+593|36:32|אני אמור לא להתרגש.
+594|36:33|יאללה, אז יאללה, נו, צריך להתקדם בחיים, תביאי משהו אחר.
+595|36:37|לא, אני מתרגש.
+596|36:39|אני מתרגש מזה שיש לי נעליים.
+597|36:42|אני מתרגש מזה שאני יורד במדרגות ולא קרועות לרגליים.
+598|36:47|אני מתרגש מזה שברוך השם יש לי אפשרות לקנות חולצה.
+599|36:52|אני מבטיח לכם, אני לא אומר לכם את זה סתם.
+
+LINHAS A TRADUZIR:
+600|36:54|אני מתרגש מזה.
+601|36:56|אני מתרגש מזה שיש לי חליפה.
+602|36:59|שיש לי בגדים בארון, שיש לי ארון.
+603|37:03|אם אתה לא מתרגל, אני אומר לכם, אסור להגיד, זה נשמע לא טוב, זה נשמע לי הוא הרע.
+604|37:08|אבל אני חייב לחזק אתכם, ואני אגיד לכם משהו אחד.
+605|37:12|אני אדם מאושר.
+606|37:13|טוב לי בחיים, תודה רבה לבורא עולם.
+607|37:16|השתבח שמו של בורא עולם, בן פורת יוזף בבורת עלי עין, טפו טפו חמסה חמסה, לא יודע מה אתה הולך
+608|37:21|לעשות את זה, באיזה זה, אבל תודה רבה לבורא עולם.
+609|37:27|הוא שומר עליי, הוא עושה לי טוב.
+610|37:29|למה?
+611|37:29|אני חושב משהו אחד, פשוט מאוד.
+612|37:32|טוב היינו יבורך, מה פירוש טוב היינו יבורך?
+613|37:35|אני לא רואה רע באנשים.
+614|37:38|אני לא רוצה לראות רע באנשים.
+615|37:40|אתם יודעים, אנחנו מבקשים מבורא עולם, בתפילה,
+616|37:47|אלוקיי, נצור שונים מרע, וספסותם לדבר מרמה, ונמכהן נפשי תדם, ונפשי
+617|37:53|כיפה לכל תהיה, פתח יפה תורתך.
+618|37:56|אנחנו מבקשים מבורא עולם.
+619|37:59|איך אנחנו יכולים באמת לוודא שזה קורה לנו בחיים?
+620|38:04|כי יש אנשים שמבקשים את זה, ועם כל החיים שלהם יהיו גאוותנים, והם יחזירו לאנשים
+621|38:09|קללות.
+622|38:10|קשה לעצור, אתם יודעים איזה קשה זה שמישהו יוצא לך בגביש ואתה שותק?
+623|38:13|זה קשה מאוד.
+624|38:14|איך מגיעים לזה?
+625|38:15|יצא למען שמך, סבן מנח, סבן מבינך, סבן מבינך, סבן מבינך.
+626|38:20|מה דרשי תיבות?
+627|38:22|את קשתי נתתי בענן.
+628|38:26|אחרי המבול, מה קרה?
+629|38:28|קשת בענן.
+630|38:29|אתה יודע מה זה קשת בענן?
+631|38:31|רבי דביר, למה יש קשת בענן?
+632|38:32|הקדוש ברוך הוא אומר, אני יותר לא עושה מבול.
+633|38:35|עם ישראל חטאו, אני ראיתי מה קורה כשאני מתפרע עליהם, כל העולם נמחה.
+634|38:41|מה הקדוש ברוך הוא עשה?
+635|38:42|קשת בענן.
+636|38:43|תמיד שיש קשת, מה זה אומר?
+637|38:44|שעכשיו היה אמור להיות מבול.
+638|38:46|יש לי שאלה עליך, מה זה יש יותר עבירות?
+639|38:47|בקיץ או בחורף?
