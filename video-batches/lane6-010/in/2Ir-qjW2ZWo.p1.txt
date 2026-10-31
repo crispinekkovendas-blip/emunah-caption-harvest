@@ -1,0 +1,91 @@
+videoId: 2Ir-qjW2ZWo
+parte 2 de 2 · traduzir as linhas 120 a 186 (67 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Cabelos negros, fios brancos e o canal do shefa na cabeça
+RESUMO: A aula, baseada no Sha'ar Heichal HaMelech, explica que sob cada fio de cabelo há uma pequena cova no crânio, e liga isso ao versículo de Iyov em que HaShem responde "min HaSe'ara", com troca entre sin e samech. Os cabelos (se'arot) representam o pensamento estranho e o distanciamento de HaShem, o lado escuro; o branco entre eles (chivarta) representa a vitalidade e a aproximação, a luz. O rabino descreve a ordem do serviço: a pessoa se fortalece, vem uma dúvida ou desânimo, surge um vazio, e a dor por esse vazio faz do próprio fio um canal para o shefa, segundo o Zohar e o Ari. Ele cita Avot ("adquira um amigo") para mostrar que sair do desânimo costuma exigir apoio. Em seguida distingue o interior da cabeça (os três mochin: chochmá, biná e daat) do exterior, e responde a perguntas sobre cabelo e barba e sobre a ligação com a Malchut. Por fim, o shefa chega aos poucos, como o orvalho de "rosh nimlá tal", até a teshuvá completa ("que não voltem à insensatez"), e do orvalho virá a ressurreição dos mortos, segundo o Zohar.
+MOMENTOS: 00:28 Cada fio de cabelo nasce de uma cova no couro cabeludo · 01:26 Iyov 38:1: "min HaSe'ara" e a troca entre sin e samech · 01:54 Se'arot como pensamentos estranhos e distanciamento de HaShem · 03:23 Esav, "ish sa'ir", e o oposto: chivarta, a luz · 04:43 Chivarta como vitalidade ligada à alma divina · 06:34 Dúvidas sobre si mesmo e níveis de desânimo · 07:49 Precisar de apoio: "adquira um amigo" · 09:34 A cova no crânio como falta e distanciamento · 10:33 A dor transforma o fio em canal do shefa · 13:03 Os três mochin no interior da cabeça · 14:46 Pergunta sobre cabelo e barba e o lado de fora · 16:36 Shefa em gotas, orvalho e "rosh nimlá tal" · 18:06 Shiur completo é teshuvá, e o orvalho traz a ressurreição
+FONTES CITADAS: 00:04 Heichal HaMelech, Sha'ar (Midrash Nashim), p. 102 · 00:34 Iyov 9:17 · 00:42 Iyov 38:1 · 00:57 Shemot 30:13 · 01:02 Shemot 30:15 · 03:23 Bereshit 27:11 · 07:49 Pirkei Avot 1:6 · 11:19 Zohar, sobre a se'ara como canal do shefa · 11:19 Ari HaKadosh (Arizal), sobre as se'arot · 12:18 Zohar, nuvu'a de-maya · 13:15 Cabalá, os três mochin (chochmá, biná e daat) · 16:36 Zohar, sobre o tal · 16:48 Shir HaShirim 5:2 · 18:11 Tehilim 85:9 · 18:22 Zohar, sobre o orvalho e a ressurreição · 19:21 Bereshit 2:6
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|13:28|בינה ודעת.
+109|13:32|והן מאירות לאדם, וכל המערכת הזאת עובדת
+110|13:37|ביחד.
+111|13:41|כמו שדיברנו בשיעור הקודם, יש מערכת פנימית ומערכת חיצונית.
+112|13:49|הסערות הן בחוץ.
+113|13:52|החברתה גם בחוץ, על העור של הקרקפת, זה הכל בחוץ,
+114|13:59|אבל בפנים יש את שלושת המוחים.
+115|14:22|התוך מסוף, אז כאילו זה התוך כאילו ההתחלה, שהוא חלק מהחוק שלי.
+116|14:28|אבל עכשיו אני מדבר הכל בראש.
+117|14:31|כל מה שדיברתי זה בראש.
+118|14:35|והראש עצמו, יש בו את כל החלקים הללו.
+119|14:43|נכון, כרגע הוא לא מדבר על זה.
+
+LINHAS A TRADUZIR:
+120|14:46|החילוק בין שערות הראש לשערות הזקן.
+121|14:50|ולמה לאישה אין זקן ויש רק שערות
+122|14:53|הראש?
+123|14:59|נכון.
+124|15:06|נשים צריכים לכסות וגברים צריכים להוריד.
+125|15:22|כן, אבל הוא חיצוני, הוא יונק מבפנים.
+126|15:30|מה?
+127|15:34|הוא חלק חיצוני, בגלל שכל הסערות מרמזות על
+128|15:39|כלי קבלה.
+129|15:43|למה זה נקרא סערות עם ס?
+130|15:46|בגלל שכשאדם רוצה לקבל ויש לו יצרים ויש לו את האהבות אז הוא סוער
+131|15:54|כל השערות זה במלכות הכל זה מלכות זה ראש דה מלכות זה גוף דה מלכות
+132|16:00|הכל זה מלכות הכל זה השכינה
+133|16:07|אני מבין מה שאת שואלת עוד לפני שאת שאלת גם אני בעצמי שאלתי את
+134|16:13|זה את עצמי
+135|16:23|וכן הוא הולך לסדר, כל פעם חוזר המצב הנ"ל, בבחינת עולה
+136|16:28|ויורד, עד שנתרבו הסערות לשיעור שלם.
+137|16:36|זאת אומרת שכל פעם שהוא חוזר ומתקן, הוא ממשיך שפע, והשפע הזה
+138|16:42|נקרא בלשון הזוהר טלה, טל.
+139|16:48|וזה סוד שראשי נמלה טל.
+140|16:52|איפה הטל הזה נאחז?
+141|16:54|בשערות?
+142|16:58|אנחנו, כשאני הולך בטבע, אז איפה הטל נאחז?
+143|17:04|בעלים, בצמחים.
+144|17:08|הוא נאחז כאילו בשערות של הצמחייה.
+145|17:14|בכל מיני, לא יודע איך להגדיר את זה אפילו.
+146|17:18|בצמחים יש סיבים כאלה.
+147|17:21|הוא נאחז בסיבים האלו של הצמחים של העלים
+148|17:29|וזה סוד שראשי נמלט על משום שהשפע בא לסרוגין
+149|17:35|בכל פעם הוא מקבל טיפי טיפי וכשנשלמת
+150|17:40|עבודתו שהוא בא לשיעור שלם עד שלא
+151|17:46|ישוב לכסלות זאת אומרת, זה מערכת שהיא עוד פעם
+152|17:53|ועוד פעם חוזרת.
+153|17:56|עוד פעם מחשבות זרות, עוד פעם חור בגולגולת, עוד פעם חברתה.
+154|18:04|זה כל פעם מחדש.
+155|18:06|עד שזה מגיע לשיעור שלם.
+156|18:08|מה זה השיעור שלם?
+157|18:09|חזרה בתשובה.
+158|18:11|שלא ישוב לכיסלו, הכוונה היא שאדם לא יחזור לשטויות שלו.
+159|18:16|כיסלו זה טיפשות.
+160|18:19|לא יחזור לטיפשות שלו.
+161|18:22|נבחן שמהי תלה עתיד להתחיה מתיה, לשון
+162|18:28|הזוהר.
+163|18:29|מהתל הזה תבוא תחיית המתים.
+164|18:34|מתל זה עתידים המתים לקום לתחייה.
+165|18:37|אז התל זה המבוא המים עם התחייה?
+166|18:40|כן.
+167|18:40|זה לא מבחוץ, אבל התל מבחוץ.
+168|18:43|בגשמיות.
+169|18:46|ואני גם לא יודע אם זה מבחוץ.
+170|18:49|אני בכלל לא בטוח שזה מבחוץ.
+171|18:51|אני הולך ביערות, והכל רטוב, ואיזה מבחוץ
+172|18:57|זה?
+173|18:58|אין שום עננים בכלל, כלום.
+174|19:01|ובכל זאת הכל רטוב.
+175|19:02|אז מאיפה זה באה הרטיבות הזאת?
+176|19:05|מהאוויר, מהאדמה אולי?
+177|19:06|מאיזה אנשים רטוב?
+178|19:09|מהעץ עצמו, מהאדמה, זה אני אומר ש...
+179|19:12|אני לא בט...
+180|19:12|זה גם על מיכוניות, השקשות.
+181|19:15|כן.
+182|19:17|אבל אין שום עננים, כלום.
+183|19:21|לחות באוויר ועד יעלה
+184|19:27|מן הארץ כתוב שם ועד יעלה מן הארץ
+185|19:33|כך
+186|19:40|כתוב
