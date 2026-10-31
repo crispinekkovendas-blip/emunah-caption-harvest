@@ -1,0 +1,122 @@
+{
+ "name": "lane8-017",
+ "lane": 8,
+ "created": "2026-10-31T01:03:56.338Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "Zxmc3ifhy0k",
+   "title": "Vayera: ver HaShem e a Guelá em três andares",
+   "lines": 1434,
+   "parts": 12,
+   "from": "recente"
+  },
+  {
+   "id": "VBigz8VbFoE",
+   "title": "Incentive sua esposa a dizer Torá e ouça a sua voz",
+   "lines": 459,
+   "parts": 4,
+   "from": "recente"
+  },
+  {
+   "id": "TcMcvlNY3xs",
+   "title": "Os cinco chomashim e a ona'á em Bava Metzia 4:8-12",
+   "lines": 571,
+   "parts": 5,
+   "from": "recente"
+  },
+  {
+   "id": "tY11smb6Yys",
+   "title": "Dádiva do alto de uma vez, realização embaixo em etapas",
+   "lines": 291,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "v0UxywC-Jw0",
+   "title": "Tzidkat HaTzadik: o teste que não se vence e o desejo",
+   "lines": 826,
+   "parts": 7,
+   "from": "recente"
+  },
+  {
+   "id": "0uWRcImWgnI",
+   "title": "Antes do Yom Kipur: shofar, perdão e teshuvá",
+   "lines": 541,
+   "parts": 5,
+   "from": "recente"
+  },
+  {
+   "id": "OZkOgTQe21c",
+   "title": "Zohar de Rosh HaShaná: dia de juízo e dez dias de teshuvá",
+   "lines": 1096,
+   "parts": 10,
+   "from": "recente"
+  },
+  {
+   "id": "bWDNmXFiA80",
+   "title": "Tanya sob a ótica da Cabalá: casca, beinoni e Elokut",
+   "lines": 1178,
+   "parts": 10,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "Zxmc3ifhy0k.p0",
+  "Zxmc3ifhy0k.p1",
+  "Zxmc3ifhy0k.p2",
+  "Zxmc3ifhy0k.p3",
+  "Zxmc3ifhy0k.p4",
+  "Zxmc3ifhy0k.p5",
+  "Zxmc3ifhy0k.p6",
+  "Zxmc3ifhy0k.p7",
+  "Zxmc3ifhy0k.p8",
+  "Zxmc3ifhy0k.p9",
+  "Zxmc3ifhy0k.p10",
+  "Zxmc3ifhy0k.p11",
+  "VBigz8VbFoE.p0",
+  "VBigz8VbFoE.p1",
+  "VBigz8VbFoE.p2",
+  "VBigz8VbFoE.p3",
+  "TcMcvlNY3xs.p0",
+  "TcMcvlNY3xs.p1",
+  "TcMcvlNY3xs.p2",
+  "TcMcvlNY3xs.p3",
+  "TcMcvlNY3xs.p4",
+  "tY11smb6Yys.p0",
+  "tY11smb6Yys.p1",
+  "tY11smb6Yys.p2",
+  "v0UxywC-Jw0.p0",
+  "v0UxywC-Jw0.p1",
+  "v0UxywC-Jw0.p2",
+  "v0UxywC-Jw0.p3",
+  "v0UxywC-Jw0.p4",
+  "v0UxywC-Jw0.p5",
+  "v0UxywC-Jw0.p6",
+  "0uWRcImWgnI.p0",
+  "0uWRcImWgnI.p1",
+  "0uWRcImWgnI.p2",
+  "0uWRcImWgnI.p3",
+  "0uWRcImWgnI.p4",
+  "OZkOgTQe21c.p0",
+  "OZkOgTQe21c.p1",
+  "OZkOgTQe21c.p2",
+  "OZkOgTQe21c.p3",
+  "OZkOgTQe21c.p4",
+  "OZkOgTQe21c.p5",
+  "OZkOgTQe21c.p6",
+  "OZkOgTQe21c.p7",
+  "OZkOgTQe21c.p8",
+  "OZkOgTQe21c.p9",
+  "bWDNmXFiA80.p0",
+  "bWDNmXFiA80.p1",
+  "bWDNmXFiA80.p2",
+  "bWDNmXFiA80.p3",
+  "bWDNmXFiA80.p4",
+  "bWDNmXFiA80.p5",
+  "bWDNmXFiA80.p6",
+  "bWDNmXFiA80.p7",
+  "bWDNmXFiA80.p8",
+  "bWDNmXFiA80.p9"
+ ]
+}

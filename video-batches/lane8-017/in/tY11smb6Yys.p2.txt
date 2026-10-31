@@ -1,0 +1,75 @@
+videoId: tY11smb6Yys
+parte 3 de 3 · traduzir as linhas 240 a 290 (51 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Dádiva do alto de uma vez, realização embaixo em etapas
+RESUMO: A aula retoma a pergunta da sicha do Rebe: se a Torá e a terra de Israel já nos foram dadas, o que ainda cabe a nós na ordem de "Lech Lecha" e na promessa da terra? O Rebe explica que em Bereshit 15 (Brit Bein HaBetarim) HaShem deu a Avraham, de fato, as dez terras, e que a palavra de HaShem já vale como ato. Por isso a "ashera" de um gentio na terra não podia ser proibida, pois a terra já pertencia a Israel. Na prática, porém, só sete povos foram conquistados, e Keni, Kenizi e Kadmoni ficam para o futuro, como diz Rashi. O princípio central é que a dádiva de cima ocorre de uma vez, enquanto a realização de baixo, dentro dos limites do homem, acontece em etapas, como a escada que se sobe degrau a degrau. Como prova, a aula cita o Rambam sobre as três cidades de refúgio adicionais "nos dias do Mashiach" e a condição de "todos os seus habitantes" para o Yovel. A conclusão é que, ao ler Lech Lecha, o judeu ainda deve fazer o trabalho de Avraham, preparando-se para a entrega da Torá e para a terra completa do futuro, trazendo as coisas do potencial para o ato.
+MOMENTOS: 01:04 As duas questões da parashá: Lech Lecha e a promessa da terra · 02:06 O que resta fazer hoje, tão perto do fim do trabalho · 03:33 "Natati": a terra foi dada em Brit Bein HaBetarim · 04:55 Não só as sete terras, mas também Keni, Kenizi e Kadmoni · 05:56 A ashera de idolatria e a posse da terra · 07:25 Dádiva de uma vez, realização em etapas · 09:10 Rashi: as três terras ficam para o futuro · 11:25 Conexão com o Shabat Noach de 5752 · 13:50 Cidades de refúgio e o Rambam: faltam três · 16:06 A imagem do telhado e da escada · 17:36 "Todos os seus habitantes" e as etapas do Yovel · 22:00 Conclusão: a tarefa do judeu ao ler Lech Lecha
+FONTES CITADAS: 02:01 A palavra de HaShem é considerada como ato · 03:33 Bereshit 15:18 · 04:46 Bereshit 12:4 · 05:07 Devarim 2:5, 2:9, 2:19 · 05:19 Bereshit 15:18 · 06:10 Avodá Zará, lei da ashera de um gentio · 06:32 Bereshit 15:19-21 · 09:22 Rashi em Bereshit 15:19 · 11:03 Sicha do Rebe, Lech Lecha · 13:15 Livro de Yehoshua · 14:00 Devarim 4:41-43 · 14:07 Yehoshua 20 · 14:13 Devarim 19:8-9 · 14:35 Rambam, Hilchot Rotzeach 8:4 · 19:08 Vayikra 25:10 · 19:21 Arachin 32b · 20:05 Rambam, Hilchot Shemitá VeYovel 10:8 · 21:00 Dez tribos além do rio Sambatyon
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|19:25|אבל מבחינה פנימית, אז מעולם לא היה כל יושבי עליה.
+229|19:30|מדוע?
+230|19:31|אז רבי אומר, בסוגריים, מציאות אשר בה תלוי קיום דיני
+231|19:36|היובל.
+232|19:40|והרבי אומר משפט שבתחילה על פי ניגלו קצת תמוה, שמו שמעולם לא היה כל יושבי עליה, הרי זה
+233|19:45|מסתדר עם ההלכה, הרי כן קיימנו את מצוות היובל.
+234|19:50|אז לכן הרבי ממשיך להסביר.
+235|19:52|אומר יתרה מכך, אפילו בכל יושבי עליה גופה, בעניין הזה עצמו קיימות מספר דרגות.
+236|19:59|וזה מתבטא גם במחלוקת הפוסקים.
+237|20:03|מתי באמת פספו דיני היובל?
+238|20:05|מה זה נחשב כל יושבי העלה?
+239|20:07|האם זה צריך שיהיה רוב מכל שבט ושבט?
+
+LINHAS A TRADUZIR:
+240|20:10|באיזה אופן מודדים את הקול הזה?
+241|20:13|הרי רובו ככולו, אז מה נחשב
+242|20:15|כרובו?
+243|20:19|אבל מצד שני, מזה שקיימים מספר דרגות למטה, כלומר, עד מתי אתה יכול
+244|20:25|לרדת ועדיין להגיד שזה נקרא כל יושבי העלה וממילא לחייב את דיני היובל?
+245|20:31|יש גם למעלה, מדרגה נוספת, שהיא זו שעליה הרבי אמר שאם עולם לא הייתה, מובן
+246|20:36|בפשטות.
+247|20:38|שאף על פי שלהלכה ודיני יובל, הרי שכל יושבי עליה פירושו כל בני ישראל שבאותו הדור,
+248|20:45|כפי שהיה בזמן יהושע וכולי, ברוב זמן בית הראשון.
+249|20:48|אבל העתיד לבוא, כאשר יהיה כל יושבי עליה בשלמות, כלומר
+250|20:54|בנוסף לעשרת השבטים שגלו לפנים מנהר סמבטיון, אלא גם כל
+251|21:00|בני ישראל מכל הדורות, וזה מחזיר אותנו לזמן יהושע, שגם לזמן יהושע, שזה בפשטות היה,
+252|21:07|לא רק שכל עם ישראל היו כאן, אפילו יהודי אחד לא נסע לנופש בחו"ל, כן?
+253|21:10|כולם היו ממש בגשמיות בארץ ישראל, אבל עדיין זה היה רק הדור של יהושע ולא הדור
+254|21:16|של משה, הדור של משה נשארו במדבר.
+255|21:20|זאת אומרת שזה עדיין לא היה השלמות של כל יושבי עליה.
+256|21:24|מה יהיה לעתיד לבוא?
+257|21:26|לעתיד לבוא שכל יושבי עליה של כל הדורות, לא רק עשרת השבטים, אלא גם דור משה, וגם
+258|21:32|אמני ישראל שיכורו לתחיית המתים מכל הדורות כולם, ממילא אז יהיה השלמות של כל
+259|21:38|יושבי עליה בתכליל.
+260|21:41|אומר, ואז תהיה, וכן תהיה אז שלמות לא רק ביושביה, אלא גם בעליה,
+261|21:47|שזה לא יהיה רק על שבע ארצות, יהיה על כל עשר הארצות, וממילא אזי תהיה יותר שלמות
+262|21:53|בכל יושבי עליה, כל ממש.
+263|21:56|אז אם כן, מפקנת העניין, שאלך לך.
+264|22:00|שזה הציווי של הקדוש ברוך הוא לאברהם אבינו, להתחיל את ההכנות למתן תורה
+265|22:06|על ידי זה שהוא ילך לארץ ישראל.
+266|22:09|וההבטחה של הקדוש ברוך הוא על ארץ ישראל, אז אומנם מצד
+267|22:14|הקדוש ברוך הוא זה כבר נשלם אז, כפי שמסופר בפרשה, אבל מצד העבודה
+268|22:20|שלנו, שהיא בסוף תחליט הכוונה, אז עד שלא מגיעים לשלמות של הגאולה, העניין
+269|22:26|עדיין לא נעשה בשלמותו.
+270|22:28|וביחס לשלמות העניין, כביכול העניין עוד לא התחיל.
+271|22:32|כי כל תכלית הכוונה זה בשלמות, זה לא בשלבים שבאמצע.
+272|22:37|אז לגבי זה, כשיהודי שוב פעם קורא את פרשת לך לך בתורה, אז הפרשה הזו נוגעת אליו
+273|22:43|בפועל ממש.
+274|22:44|שהוא צריך לעשות את אותה עבודה של אברהם אבינו, של לך לך לעשות את ההכנות למתן תורה.
+275|22:51|ולאיזה מתן תורה?
+276|22:52|לשלמות שתהיה לעתיד לבוא.
+277|22:54|ולעשות את ההכנות לקבל את ארץ ישראל, ושוב, איזה ארץ ישראל?
+278|22:59|ארץ ישראל בשלמותה, עם כל שלוש הארצות הנוספות, שזה שלמות הקניין של
+279|23:05|ארץ ישראל, וגם ממילא השלמות של כל יושבי עליה, שזה השלמות של
+280|23:11|הקדושה של ארץ ישראל שתלויה בכך שכל עם ישראל מכל הדורות יהיו בפועל ובגלוי
+281|23:17|בארץ ישראל.
+282|23:18|אבל כאמור, הנקודה שאנחנו בעצם נשארים מהשיחה, וגם לבשיחות הבאות, זה
+283|23:24|תמיד להבחין בין הבפועל לבפועל ובגלוי.
+284|23:28|ולהבין שכל תכלית הכוונה זה להביא את הדברים מן הכוח אל הפועל.
+285|23:32|שביחס לפועל ולגלוי, אז הבפועל של הקדוש ברוך הוא עדיין סוג של בכוח.
+286|23:39|כלומר, השבת בראשית, שזה השבת שמשפיעה על כל השנה, ביחס לשבת נוח היא עדיין נקראת
+287|23:45|בכוח.
+288|23:46|והעבודה היא להביא את זה
+289|23:54|מן הכוח אל הפועל.
+290|23:58|לא יישאר כוח שיגיע לפועל.
