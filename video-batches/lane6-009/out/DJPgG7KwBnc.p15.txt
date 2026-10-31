@@ -1,0 +1,40 @@
+600	English: He doesn't want to leave the guys alone.	Português: Ele não quer deixar a turma sozinha.
+601	English: What's the problem?	Português: Qual é o problema?
+602	English: Why does Gabriel, who is going to overturn Sodom, suddenly pass first through Avraham Avinu?	Português: Por que Gabriel, que vai virar Sodoma de cabeça para baixo, passa de repente primeiro por Avraham Avinu?
+603	English: What is hidden here?	Português: O que está escondido aqui?
+604	English: Second.	Português: Segundo.
+605	English: Michael, who announces the birth of Yitzchak, continues on with Gabriel to save Lot.	Português: Michael, que anuncia o nascimento de Yitzchak, segue em frente com Gabriel para salvar Lot.
+606	English: I didn't understand.	Português: Não entendi.
+607	English: So why, why does it need two...	Português: Então por que, por que precisa de duas...
+608	English: After all, an angel doesn't do two missions.	Português: Afinal, um anjo não faz duas missões.
+609	English: Why does the one who first announces the birth of Yitzchak go afterward to save Lot?	Português: Por que quem primeiro anuncia o nascimento de Yitzchak vai depois salvar Lot?
+610	English: The Holy One, blessed be He, has no spare angel...	Português: O Santo, bendito seja Ele, não tem um anjo de reserva...
+611	English: The Chidushei HaRim of Gur, who was truly a real genius, says an idea of genius, listen to this brilliance, he	Português: O Chidushei HaRim de Gur, que foi realmente um gênio de verdade, diz uma ideia genial, ouçam que brilho, ele
+612	English: says something amazing: why do the angels go first to Avraham and only afterward go to overturn Sodom and to save	Português: diz algo impressionante: por que os anjos vão primeiro a Avraham e só depois vão virar Sodoma e salvar
+613	English: Lot? What is the connection between these things?	Português: Lot? Qual é a ligação entre essas coisas?
+614	English: When they go to Avraham, they go to prepare the background, to prepare the reasons so that David	Português: Quando vão a Avraham, vão preparar o pano de fundo, preparar as razões para que David
+615	English: HaMelech can come from Rut. What happened?	Português: HaMelech possa vir de Rut. O que aconteceu?
+616	English: The generations pass, Rut arrives to Boaz, a mess begins, we spoke about this on the eve of Shavuot, there is a natural redeemer,	Português: As gerações passam, Rut chega a Boaz, começa uma confusão, falamos disso na véspera de Shavuot, existe um redentor natural,
+617	English: he doesn't want to take her. Why doesn't he want to? Because he holds that it is forbidden to marry a Moabite woman, forbidden to marry	Português: ele não quer tomá-la. Por que não quer? Porque ele entende que é proibido casar com uma moabita, proibido casar
+618	English: an Ammonite woman.	Português: com uma amonita.
+619	English: There is a verse in the book of Devarim: "An Ammonite or a Moabite shall not enter the congregation of HaShem," on account of	Português: Há um versículo no livro de Devarim: "Não entrará amonita nem moabita na assembleia de HaShem", por causa de
+620	English: the fact that they did not meet you with bread and water.	Português: não terem vindo ao vosso encontro com pão e água.
+621	English: When we passed by the border of Ammon and Moab, we asked, we are passing through, we are your cousins, we are not	Português: Quando passamos pela fronteira de Amon e Moav, pedimos, estamos de passagem, somos seus primos, não somos
+622	English: strangers, cousins, give us something to drink, people are passing by.	Português: estranhos, primos, deem-nos algo para beber, são pessoas que passam.
+623	English: Not only did they not come out to you with bread and water, they even hired Bilam to curse you, hired Bilam to bring curses.	Português: Não só não vieram a vocês com pão e água, como ainda contrataram Bilam para amaldiçoar, contrataram Bilam para trazer maldições.
+624	English: But first of all, they did not bring you bread and water.	Português: Mas, antes de tudo, não trouxeram a vocês pão e água.
+625	English: The Torah says, such wickedness, to see cousins passing by outside and not to bring out a slice of bread, not to bring out	Português: A Torá diz: que maldade, ver primos passando do lado de fora e não levar uma fatia de pão, não levar
+626	English: a bottle of water, that is wicked, those are corrupt traits, bad traits pass down through heredity, we may never marry	Português: uma garrafa de água, isso é maldade, são traços corrompidos, traços ruins passam por hereditariedade, nunca podemos casar
+627	English: an Ammonite or a Moabite.	Português: com um amonita ou um moabita.
+628	English: That redeemer says, so I can't marry Rut, she is a granddaughter of the Moabites, she is bad too, heaven forbid,	Português: Esse redentor diz: então não posso casar com Rut, ela é neta dos moabitas, ela também é má, que D'us me livre,
+629	English: she has corrupt traits, like her grandfathers, we can't marry her.	Português: ela tem traços corrompidos, como os avós dela, não podemos casar com ela.
+630	English: A discussion began there and they said, that's not right.	Português: Começou ali uma discussão e disseram: não é assim.
+631	English: "Ammonite," not an Ammonitess; "Moabite," not a Moabitess.	Português: "Amonita", e não amonitesa; "moabita", e não moabitesa.
+632	English: The prohibition is only on the males and not on the females.	Português: A proibição é só sobre os homens e não sobre as mulheres.
+633	English: Why?	Português: Por quê?
+634	English: Because it is not a woman's way to go out with bread and water.	Português: Porque não é do feitio da mulher sair com pão e água.
+635	English: It is not a woman's way to go outside, to receive the guests.	Português: Não é do feitio da mulher sair para fora, para receber os viajantes.
+636	English: A modest woman: "Where is Sarah your wife?" "Here, in the tent."	Português: Uma mulher recatada: "Onde está Sará, sua mulher?" "Aqui, na tenda."
+637	English: A woman doesn't need to go outside.	Português: A mulher não precisa sair para fora.
+638	English: So what proof do you have that the women are bad?	Português: Então que prova você tem de que as mulheres são más?
+639	English: The men are bad, because in fact they did not go out, but the women perhaps simply were at home, how do you know?	Português: Os homens são maus, porque de fato não saíram, mas as mulheres talvez simplesmente estivessem em casa, como você sabe?
