@@ -1,0 +1,40 @@
+440	Would you have eaten this?	Você comeria isso?
+441	I see you're hungry.	Estou vendo que vocês estão com fome.
+442	It melted in the mouth.	Derretia na boca.
+443	Stuffed bird: everyone would get one on his plate, as his portion.	Ave recheada: cada um receberia uma no seu prato, como porção.
+444	So what's the problem?	Então qual é o problema?
+445	They wanted meat?	Queriam carne?
+446	Here, you have it.	Aqui está.
+447	The rabbi told him, yes, but they wanted meat of cattle.	O rabino disse a ele: sim, mas eles queriam carne de gado.
+448	That is what they complained about.	Foi disso que eles reclamaram.
+449	The student told him, yes, but they also had cattle they took out of Egypt.	O aluno disse a ele: sim, mas eles também tinham gado que levaram do Egito.
+450	So you want meat, slaughter. What's the problem?	Então se querem carne, abatam. Qual é o problema?
+451	Slaughter.	Abatam.
+452	If it were before Mount Sinai, they could eat even without slaughtering.	Se fosse antes do Monte Sinai, poderiam comer até sem abate.
+453	Only the people of Israel took it upon themselves.	Só o povo de Israel assumiu isso sobre si.
+454	We saw Yosef the tzaddik, who brought an evil report of his brothers.	Vimos Yosef, o tsadik, que trouxe um mau relato sobre seus irmãos.
+455	He said they ate without slaughter, proof that they slaughtered even before Mount Sinai, but that is not what the Rambam writes	Disse que comiam sem abate, prova de que abatiam mesmo antes do Monte Sinai, mas não é isso que escreve o Rambam
+456	in Hilchot Shechitah, before, these are the Rambam's words, before Mount Sinai,	nas Leis do Abate; antes, são as palavras do Rambam, antes do Monte Sinai,
+457	a person would find an animal, cut its throat and eat; after the Torah was given,	a pessoa encontrava um animal, cortava-lhe a garganta e comia; depois que a Torá foi dada,
+458	he must slaughter it with a knife, checking it with the fingernail, and only then eat it.	deve abatê-lo com uma faca, verificando-a com a unha, e só então comê-lo.
+459	So if that's the case, you want animals, there are animals; you want taste, you have it in the manna.	Então, se é assim, querem animais, há animais; querem sabor, têm no maná.
+460	You want birds, you have quail; you want ribs, you have cattle,	Querem aves, têm codornas; querem costelas, têm gado,
+461	slaughter.	abatam.
+462	The rabbi was silent, he didn't know what to answer.	O rabino calou-se, não sabia o que responder.
+463	There was another rabbi there, who said to him: Listen, I'll tell you the real answer, why they didn't slaughter their meat.	Havia ali outro rabino, que lhe disse: Escute, vou lhe dar a resposta verdadeira, por que eles não abateram a sua carne.
+464	They simply wanted to complain. That's the real reason.	Simplesmente queriam reclamar. Esse é o verdadeiro motivo.
+465	Sometimes everything is good, and you look for something to hang on, to say it wasn't	Às vezes tudo está bom, e você procura em que se agarrar, para dizer que não estava
+466	good.	bom.
+467	Once there was a wedding, what a wedding, what did they serve there: meat, poultry, fish,	Certa vez houve um casamento, e que casamento, o que serviram ali: carne, aves, peixes,
+468	like the weddings I attended in Mexico, what weddings, what can I tell you, they wanted on the plates	como os casamentos a que fui no México, que casamentos, o que posso dizer, havia nos pratos
+469	year-old unblemished lambs, I tell you, two a day, the continual offering, the birds	cordeiros de um ano, sem defeito, eu lhe digo, dois por dia, a oferta contínua, as aves
+470	danced there, the birds, on the plates, you wouldn't believe what weddings there are in the world,	dançavam ali, as aves, nos pratos, você não acredita que casamentos existem no mundo,
+471	something utterly wondrous.	algo realmente maravilhoso.
+472	They brought all the drinks in the world there: Kinley, cognac, arak, Zahlawi, XO, Blue	Trouxeram ali todas as bebidas do mundo: Kinley, conhaque, arak, Zahlawi, XO, Blue
+473	Label, Fanta, everything was there on the tables.	Label, Fanta, tudo estava ali nas mesas.
+474	Only what?	Só que?
+475	Water they did not put on the tables.	Água eles não puseram nas mesas.
+476	The host said, water is for the poor?	O dono da casa disse: água é coisa de pobre?
+477	We have no water.	Não temos água.
+478	We have soda, seltzer, huh?	Nós temos refrigerante, soda, não é?
+479	Bring the...	Traga o...
