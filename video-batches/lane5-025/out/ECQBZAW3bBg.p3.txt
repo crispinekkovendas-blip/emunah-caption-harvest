@@ -1,0 +1,120 @@
+360	The...	O...
+361	Do you understand?	Entende?
+362	We heard that not...	Ouvimos que não...
+363	Yes?	Sim?
+364	Yes?	Sim?
+365	Yes?	Sim?
+366	Yes.	Sim.
+367	Yes.	Sim.
+368	Next.	Em frente.
+369	Give it to him, so there won't be problems, give it to him, it'll be fine.	Dê a ele, para não haver problemas, dê a ele, vai ficar tudo bem.
+370	Okay?	Certo?
+371	Yes, yes,	Sim, sim,
+372	More.	Mais.
+373	Here, please, here, please.	Aqui, por favor, aqui, por favor.
+374	He said, there's no time, no time.	Disse: não há tempo, não há tempo.
+375	Rav Yehuda said that Rav said: the kohen is believed to say, "An Israelite gave me this bechor with its mum."	Disse Rav Yehuda que disse Rav: o kohen é aceito ao dizer: "Um Yisrael me deu este bechor com o seu mum."
+376	He is believed to tell the sage who comes to examine the mum: "This bechor was given to me." That is another law: this bechor	Ele é aceito ao dizer ao sábio que vem examinar o mum: "Este bechor me foi dado." Essa é outra lei: este bechor
+377	an Israelite gave me with its mum.	um Yisrael me deu com o seu mum.
+378	I didn't take it, I didn't cause the mum in it.	Eu não o tomei, eu não causei o mum nele.
+379	I took it from the Israelite when it already had a mum.	Eu o recebi do Yisrael quando já tinha um mum.
+380	What is the reason?	Qual é a razão?
+381	Why?	Por quê?
+382	What is the reason we don't suspect he is lying and he himself caused the mum in it?	Qual é a razão de não suspeitarmos que ele mente e que ele mesmo causou o mum?
+383	Do you know why?	Sabe por quê?
+384	Because anything that is going to be revealed, people don't lie about.	Porque aquilo que vai ser revelado, as pessoas não mentem a respeito.
+385	They can go ask him, the Israelite: did you give it to him with a mum or without a mum?	Podem ir perguntar a ele, ao Yisrael: você deu isso a ele com mum ou sem mum?
+386	So this is something that will be revealed; a person doesn't lie.	Então é algo que será revelado; a pessoa não mente.
+387	Something that will be revealed, he won't lie about.	Algo que será revelado, ele não mentirá a respeito.
+388	Abba said...	Abba disse...
+389	Rav Sheshet said: likewise...	Disse Rav Sheshet: também...
+390	the kohen is believed if he says: I showed this bechor to the sage, and it	o kohen é aceito se disser: mostrei este bechor ao sábio, e ele
+391	has a mum.	tem um mum.
+392	I showed it to the sage, and he said, yes, it has a permanent mum.	Mostrei ao sábio, e ele disse: sim, tem um mum permanente.
+393	What is the reason?	Qual é a razão?
+394	Why? Because we say:	Por quê? Porque dizemos:
+395	anything that will be revealed, they don't lie about...	aquilo que será revelado, eles não mentem a respeito...
+396	This too: how is he believed to say, "I showed it to the sage, and he said it has a mum"?	Aqui também: como ele é aceito ao dizer: "Mostrei ao sábio, e ele disse que tem mum"?
+397	Should we suspect the sage?	Vamos suspeitar do sábio?
+398	Did you say no, or not?	Você disse que não, ou não?
+399	The Gemara rejects this and says: no, even for something that will be revealed, people really do	A Guemará rejeita isso e diz: não, mesmo no que será revelado, as pessoas de fato
+400	lie. So why the kohen? The reason is that eating kodashim outside, that is not so.	mentem. Então por que o kohen? A razão é que comer kodashim fora, isso não é assim.
+401	But otherwise he would be suspected; here the kohen is believed. He said he showed the	Mas, de outro modo, seria suspeito; aqui o kohen é aceito. Ele disse que mostrou o
+402	mum to the sage. Why? The kohen is not suspected to the point of eating kodashim outside; this	mum ao sábio. Por quê? O kohen não é suspeito a ponto de comer kodashim fora; isso
+403	is kodashim in any case. If it has no permanent mum, he would be eating kodashim outside, it is forbidden;	é kodashim de qualquer forma. Se não tem mum permanente, ele estaria comendo kodashim fora, é proibido;
+404	he wouldn't do such a thing.	ele não faria uma coisa dessas.
+405	But when a kohen says that he received this bechor	Mas quando um kohen diz que recebeu este bechor
+406	from an Israelite with its mum, he is suspected, suspected, since	de um Yisrael com o seu mum, ele é suspeito, suspeito, pois
+407	kohanim are suspected of seeking a mum; he is suspected of causing the mum and lying, so he is not believed.	os kohanim são suspeitos de procurar um mum; é suspeito de causar o mum e mentir, e não é aceito.
+408	Even though it is something that will be revealed, maybe he arranged it with him beforehand.	Mesmo sendo algo que será revelado, talvez ele tenha combinado antes com o outro.
+409	Rav Shezvi objected: one who says to someone not trusted regarding maaser,	Rav Shezvi objetou: aquele que diz a alguém não confiável quanto ao maaser,
+410	"something that will be revealed, people don't lie about." He says: come and see in tractate Demai:	"algo que será revelado, as pessoas não mentem a respeito." Ele diz: venha ver no tratado Demai:
+411	One who says to someone not trusted on maaser, "buy for me from one who is trusted," he says to him:	Aquele que diz a alguém não confiável quanto ao maaser: "compre para mim de quem é confiável", diz a ele:
+412	listen, I want you to buy me fruit from a person who is trusted on tithes.	escute, quero que você compre para mim frutas de uma pessoa confiável nos dízimos.
+413	Don't buy from an am haaretz, but from one who tithes,	Não compre de um am haaretz, mas de quem separa o dízimo,
+414	who tithes the demai. The messenger is not trusted.	que separa o dízimo do demai. O mensageiro não é confiável.
+415	Buy him fruit from one who tithes, and so on.	Compre para ele frutas de quem separa o dízimo, etc.
+416	Why?	Por quê?
+417	He himself is not trusted on tithes; how can he take	Ele mesmo não é confiável nos dízimos; como poderá comprar
+418	from someone who is trusted?	de alguém que é confiável?
+419	No.	Não.
+420	The Gemara says: why? Let us say that anything that will be revealed, one doesn't lie about.	A Guemará diz: por quê? Digamos que aquilo que será revelado, não se mente a respeito.
+421	Why?	Por quê?
+422	Even though he is not trusted, he told him: go buy for me from the one who is trusted.	Mesmo que ele não seja confiável, disse-lhe: vá comprar para mim daquele que é confiável.
+423	If they just say, "Yes, I bought from so-and-so," he will go and check it.	Se disserem apenas: "Sim, comprei de fulano", ele irá verificar.
+424	He is afraid; he wouldn't do such a thing.	Ele tem medo; não faria uma coisa dessas.
+425	The Gemara says: no, that is the reason.	A Guemará diz: não, essa é a razão.
+426	The law is different for something that will be revealed.	A lei é diferente para algo que será revelado.
+427	Why?	Por quê?
+428	Because there is room to evade.	Porque há como se esquivar.
+429	Here, "I bought the fruit from him," with the pretext that he bought for him	Aqui: "comprei dele as frutas", sob o pretexto de que comprou para ele
+430	fruit from a person who is not trusted on tithes.	frutas de uma pessoa que não é confiável nos dízimos.
+431	He can say, "Sir, he is trusted by me." What does "not trusted" mean?	Ele pode dizer: "Senhor, ele é confiável para mim." O que significa "não confiável"?
+432	Listen, everyone loves him, everyone believes him.	Escute, todos gostam dele, todos acreditam nele.
+433	"I bought from him because he is trusted on tithes." Yes, understand, even though he is not trusted.	"Comprei dele porque é confiável nos dízimos." Sim, entenda, mesmo que ele não seja confiável.
+434	I know he is trusted.	Eu sei que ele é confiável.
+435	Understand, he can argue and make a mess.	Entenda, ele pode discutir e criar confusão.
+436	The Gemara says: come hear, Demai supports it:	A Guemará diz: venha ouvir, Demai apoia isso:
+437	"from so-and-so," then he is believed.	"de fulano", então ele é aceito.
+438	So he says, the Gemara still says, in the same Mishnah, there in Demai,	Então ele diz, a Guemará ainda diz, na mesma Mishná, ali em Demai,
+439	surely there is proof.	certamente há uma prova.
+440	Why did Rav Yehuda say that anything that will be revealed, people don't lie about?	Por que Rav Yehuda disse que tudo que será revelado, as pessoas não mentem a respeito?
+441	Why?	Por quê?
+442	The person who told his friend: buy for me from so-and-so,	A pessoa que disse ao amigo: compre para mim de fulano,
+443	who is trusted.	que é confiável.
+444	Who is trusted.	Que é confiável.
+445	He specified from whom to buy.	Ele especificou de quem comprar.
+446	He didn't just say to me, "buy from a person who is trusted."	Ele não disse apenas: "compre de uma pessoa confiável."
+447	In that case he can say, "He is trusted by me."	Nesse caso ele poderia dizer: "Ele é confiável para mim."
+448	He told him: no, no, no, buy only from Netanel.	Ele lhe disse: não, não, não, compre somente de Netanel.
+449	Do you understand?	Entende?
+450	I can say...	Eu posso dizer...
+451	I want you to order the food.	Quero que você peça a comida.
+452	Who, who, look, this is about the Easterners.	Quem, quem, vejam, isso é sobre os orientais.
+453	You understand, he can't get away.	Entende, ele não tem como escapar.
+454	Of course.	Claro.
+455	Hi,	Oi,
+456	everyone.	pessoal.
+457	The Gemara answers him:	A Guemará responde a ele:
+458	That is not a proof.	Isso não é uma prova.
+459	There too, he is buying fruit for his friend.	Ali também, ele está comprando frutas para o amigo.
+460	He buys them for another person who sent him explicitly to buy from so-and-so,	Ele as compra para outra pessoa que o enviou expressamente para comprar de fulano,
+461	and the messenger worries that this person will check and ask whether he bought from his friend or not, so	e o mensageiro teme que essa pessoa verifique e pergunte se ele comprou do amigo ou não, então
+462	the messenger is afraid to lie. But here, the kohen who tells the sage that he received the bechor from an Israelite with its mum,	o mensageiro tem medo de mentir. Mas aqui, o kohen que diz ao sábio que recebeu o bechor de um Yisrael com o seu mum,
+463	isn't afraid to lie. Why?	não tem medo de mentir. Por quê?
+464	Is he afraid, the kohen there, that someone will shout, and go and check, and see	Ele teme, o kohen ali, que alguém grite, vá verificar e veja
+465	what the kohen thinks? Ah yes... the kohen says: who will go check?	o que o kohen pensa? Ah sim... o kohen diz: quem vai verificar?
+466	He won't go check; in truth, no, he won't go check, he'll think it's true,	Ele não vai verificar; na verdade, não, não vai verificar, vai achar que é verdade,
+467	and everything is fine.	e está tudo bem.
+468	Rav Yirmeya bar Abba said: where did Rav Yehuda learn this, that	Rav Yirmeya bar Abba disse: de onde Rav Yehuda aprendeu isso, que
+469	a kohen is believed who says: I received the bechor from an Israelite with its mum?	é aceito um kohen que diz: recebi o bechor de um Yisrael com o seu mum?
+470	He said, "I... Giddul..."	Ele disse: "Eu... Giddul..."
+471	"And Giddul established it in my presence."	"E Giddul o estabeleceu diante de mim."
+472	So he asks Rabbi Yirmeya, he asks Rabbi Yirmeya, where?	Então ele pergunta a Rabi Yirmeya, pergunta a Rabi Yirmeya: de onde?
+473	From Rav Yehuda.	De Rav Yehuda.
+474	He says: I am the one who taught this law to Rav Giddul.	Ele diz: fui eu que ensinei esta lei a Rav Giddul.
+475	"And Giddul established it in my presence."	"E Giddul o estabeleceu diante de mim."
+476	Giddul taught Rav Yehuda.	Giddul ensinou Rav Yehuda.
+477	And my brother told me: that is how I taught him.	E meu irmão me disse: foi assim que eu o ensinei.
+478	For an Israelite to say:	Para que um Yisrael diga:
+479	"This bechor I gave to the kohen with its mum, this bechor I gave"	"Este bechor eu dei ao kohen com o seu mum, este bechor eu dei"
