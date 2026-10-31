@@ -2,7 +2,7 @@
  "name": "lane3-022",
  "lane": 3,
  "created": "2026-10-30T20:52:40.788Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "uGIBJxpGawI",
@@ -95,10 +95,11 @@
  ],
  "tries": {
   "uGIBJxpGawI": 3,
-  "vNB90wpYJ-U": 2
+  "vNB90wpYJ-U": 3
  },
  "done": [],
  "skipped": [
-  "uGIBJxpGawI"
+  "uGIBJxpGawI",
+  "vNB90wpYJ-U"
  ]
 }
