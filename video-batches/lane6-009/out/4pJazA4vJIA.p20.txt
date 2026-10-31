@@ -1,0 +1,40 @@
+800	On which media?	Em qual mídia?
+801	On any media.	Em qualquer mídia.
+802	So what, are you special or something?	Então o quê, você é privilegiado ou o quê?
+803	No, I just...	Não, eu só...
+804	Why do I get so much nonsense?	Por que aparece tanta bobagem para mim?
+805	Because you chose to look at nonsense. You have to train it, tell it what you like.	Porque você escolheu olhar bobagem. Você precisa educá-lo, dizer o que você gosta.
+806	So you immediately throw them away.	Então você descarta isso na hora.
+807	Yes, I don't...	Sim, eu não...
+808	You immediately throw them away.	Você descarta isso na hora.
+809	On mine you'll see American politics, Jewish spirituality,	No meu você vai ver política americana, espiritualidade judaica,
+810	nutrition, fitness, and people doing silly things and it	nutrição, exercício, e pessoas fazendo bobagens e isso
+811	goes wrong for them, all kinds of people falling off ladders and all sorts of...	dá errado para elas, todo tipo de gente caindo de escada e todo tipo de...
+812	I see, so what you cook is what you get.	Entendi, então o que você cozinha é o que você recebe.
+813	Yes.	Sim.
+814	That's what you're saying.	É isso que você está dizendo.
+815	Of course.	Com certeza.
+816	That's why it's called an algorithm.	Por isso se chama algoritmo.
+817	Yes.	Sim.
+818	Is Yossi Meir with us yet?	O Yossi Meir já está conosco?
+819	No?	Não?
+820	Come.	Venha.
+821	But I just want to add what Baal HaSulam says, that the Torah law "acharei rabim	Mas só quero acrescentar o que Baal HaSulam diz: que a lei da Torá "acharei rabim
+822	lehatot" applies only to material matters.	lehatot" vale apenas para assuntos materiais.
+823	But regarding spirituality, Baal HaSulam says, yes,	Mas quanto ao espiritual, diz Baal HaSulam, sim,
+824	one follows the individual.	segue-se o indivíduo.
+825	Yes.	Sim.
+826	Not the majority.	Não a maioria.
+827	Clear.	Claro.
+828	The majority understand nothing about spirituality.	A maioria não entende nada de espiritualidade.
+829	Right.	Certo.
+830	And there's nothing here to count hands.	E aqui não há o que contar mãos.
+831	No.	Não.
+832	You have to find the one special person who lives a spiritual life, and go with him.	É preciso encontrar o único especial, que vive uma vida espiritual, e ir com ele.
+833	Here there are no votes.	Aqui não há votações.
+834	I fully accept that, and we also need to take care to draw the line properly between the material	Eu aceito isso totalmente, e também é preciso cuidado para traçar bem a linha entre o material
+835	and the spiritual.	e o espiritual.
+836	Because today much of what can be considered material is actually spiritual.	Porque hoje muito do que pode ser considerado material é, na verdade, espiritual.
+837	Like what is justice.	Como o que é justiça.
+838	You know, a society's values.	Você sabe, os valores de uma sociedade.
+839	I don't know, I think that man in his current state is no longer fit for democracy.	Não sei, acho que o ser humano no estado atual já não está apto para a democracia.

@@ -1,0 +1,40 @@
+400	Relationships.	Relacionamentos.
+401	Yes.	Sim.
+402	Relationships, but not children.	Relacionamentos, mas não filhos.
+403	Relationships whose future is not...	Relacionamentos cujo futuro não é...
+404	Children are complicated, and a responsibility.	Filhos são algo complexo e uma responsabilidade.
+405	No, you have children when you've made the decision in your heart, when you see yourself	Não, você tem filhos quando toma a decisão no coração, quando você se vê
+406	growing old with this woman or this man.	envelhecendo com essa mulher ou esse homem.
+407	Yes.	Sim.
+408	That there's a horizon, that it's not a fun arrangement for now, but that it's...	Que há um horizonte, que não é um arranjo divertido só para agora, mas que é...
+409	It's not...	Não é...
+410	Yes, I understand.	Sim, eu entendo.
+411	Come live with us a little.	Venha viver um pouco entre nós.
+412	In the religious-haredi sector...	No setor religioso-ultraortodoxo...
+413	the thing is supposed to be serious from the start.	a coisa deve ser séria desde o início.
+414	I know.	Eu sei.
+415	It's supposed to be serious from the start, you marry in order to stay until...	Deve ser séria desde o início, a gente se casa para ficar até...
+416	Right.	Certo.
+417	To the bitter end with her.	Até o amargo fim com ela.
+418	Right, and I know people who got stuck in it, and they're really stuck in the muck.	Certo, e conheço pessoas que ficaram presas nisso, e estão mesmo atoladas na lama.
+419	They're sunk in the muck, unable to leave, unable to divorce,	Estão afundadas na lama, sem poder sair, sem poder se divorciar,
+420	unable to start a new life, because the social sanctions are so terrible,	sem poder começar uma vida nova, porque as sanções sociais são tão terríveis,
+421	not to mention criminal, right?	para não dizer criminosas, não é?
+422	So it's not...	Então não é...
+423	I think there's no real preparation for this in the haredi world.	Acho que não há preparação real para isso no mundo ultraortodoxo.
+424	Maybe a bit more in the religious world, but in the haredi world there's really none.	Talvez um pouco mais no mundo religioso, mas no ultraortodoxo realmente não há.
+425	It's quite shallow, and that's not good.	É bastante superficial, e isso não é bom.
+426	Of course not.	Claro que não.
+427	Of course not.	Claro que não.
+428	Just this week I interviewed Merav	Justamente esta semana entrevistei Merav
+429	Alma Saver.	Alma Saver.
+430	I know her.	Conheço.
+431	About her new book, What She Holds.	Sobre o novo livro dela, "Na Que Ela Se Apoia".
+432	Yes.	Sim.
+433	Stories of haredi women.	Histórias de mulheres ultraortodoxas.
+434	Yes.	Sim.
+435	I haven't read it all, it's simply too hard, it's...	Não li tudo, é simplesmente difícil demais, é...
+436	You mean, each chapter is about a different woman?	Quer dizer, cada capítulo é sobre uma mulher diferente?
+437	Yes, the story of one woman.	Sim, a história de uma mulher.
+438	Yes.	Sim.
+439	Listen...	Escute...

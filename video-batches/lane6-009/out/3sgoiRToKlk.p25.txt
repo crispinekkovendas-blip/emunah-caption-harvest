@@ -1,0 +1,40 @@
+1000	What does a confectioner do?	O que faz um confeiteiro?
+1001	He keeps putting things into the oven, back and forth, so he's there.	Ele fica o tempo todo pondo no forno, vai e vem, então é onde ele está.
+1002	What are we left with?	O que nos resta?
+1003	Raphael.	Rafael.
+1004	What is Raphael?	O que é Rafael?
+1005	An Arab.	Um árabe.
+1006	Nachalat David says: an Arab?	O Nachalat David diz: árabe?
+1007	Which Arab?	Que árabe?
+1008	How did you get to Arab?	Como você chegou a árabe?
+1009	Nachalat David says, I'll tell you what it means.	O Nachalat David diz: vou lhe dizer o que significa.
+1010	The term isn't meant the way you understand it.	O termo não é como você o entende.
+1011	Not that, not the plain sense.	Não é isso, não é o sentido simples.
+1012	Then what?	Então o quê?
+1013	He says, "Arvi" means a pharmacist.	Ele diz: "arvi" quer dizer farmacêutico.
+1014	A pharmacist is called "Arvi."	O farmacêutico é chamado de "arvi".
+1015	Why is a pharmacist called "Arvi"?	Por que o farmacêutico é chamado de "arvi"?
+1016	He takes medicines and mixes them together.	Ele pega remédios e os mistura.
+1017	He takes one plant called mint, another one takes cactus, adds some herb, grinds	Pega uma planta chamada hortelã, outra pega cacto, junta uma erva, mói
+1018	them together and says, take this, and your fever will go down.	tudo junto e diz: tome isto, e a sua febre vai baixar.
+1019	Right?	Certo?
+1020	What do they do?	O que eles fazem?
+1021	That's what they do to you, all kinds of medicines.	É o que fazem com você, todo tipo de remédio.
+1022	No, if it doesn't go down, take two pills.	Se não baixar, tome dois comprimidos.
+1023	If not, three.	Se não, três.
+1024	Anyway, they try all kinds of things, they give you all kinds of medicines.	Enfim, eles tentam de tudo, dão todo tipo de remédio.
+1025	Very nice.	Muito bem.
+1026	So he says, "Arvi" isn't a label for an Arab, as we know it.	Então ele diz: "arvi" não é um apelido para árabe, como o conhecemos.
+1027	"Arvi" means a pharmacist who mixes medicines.	"Arvi" quer dizer o farmacêutico que mistura remédios.
+1028	Where are most medicines found?	Onde se encontra a maioria dos remédios?
+1029	Where people live, they grow lettuce and kohlrabi; there's none of that in the deserts,	Onde as pessoas vivem, cultiva-se alface e couve-rábano; no deserto não há isso,
+1030	there are all kinds of wild shrubs, venomous snakes; you take their venom and make	há todo tipo de arbustos selvagens, cobras venenosas; pega-se o veneno delas e faz-se
+1031	all kinds of serums from it, and everything is found in the deserts.	todo tipo de soro, e tudo isso se encontra nos desertos.
+1032	So the "Arvi," what is he?	Então o "arvi", o que ele é?
+1033	In charge of the desert, because that's where the medicines are, so Raphael is an "Arvi."	Encarregado do deserto, porque é lá que estão os remédios; então Rafael é um "arvi".
+1034	Wonderful.	Maravilhoso.
+1035	So that means that already 150 years ago, Nachalat David wrote that all pharmacists would be Arabs.	Isso quer dizer que já há 150 anos o Nachalat David escreveu que todos os farmacêuticos seriam árabes.
+1036	Today you can't find a single Jewish pharmacist.	Hoje não se encontra um único farmacêutico judeu.
+1037	Have you ever seen one?	Alguém já viu algum?
+1038	It says here: if you find one, write down Moshe Berkovich, call me, I'll do it with him.	Está escrito: se encontrarem um, anotem Moshe Berkovich e me liguem, eu faço com ele.
+1039	I'll take a selfie with him. Today there's no pharmacist, they're all Mahmoud, Farouk, whatever, Mohammed Dahlan,	Vou tirar uma selfie com ele. Hoje não há farmacêutico, são todos Mahmoud, Farouk, o que aparecer, Mohammed Dahlan,
