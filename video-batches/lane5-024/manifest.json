@@ -2,7 +2,7 @@
  "name": "lane5-024",
  "lane": 5,
  "created": "2026-10-30T16:49:10.103Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "2x7Votl8LVM",
@@ -159,13 +159,13 @@
   "fugarMbiezI.p7"
  ],
  "tries": {
-  "2x7Votl8LVM": 2,
-  "ZnuJgUH_WeE": 2,
+  "2x7Votl8LVM": 3,
+  "ZnuJgUH_WeE": 3,
   "1XXQHoUga2A": 1,
   "fugarMbiezI": 3,
   "3CmKmLuWpMM": 1,
   "p4bT_yL5WdA": 1,
-  "5rnoC6y8Mf8": 2
+  "5rnoC6y8Mf8": 3
  },
  "done": [
   "5FGHR9trujU",
@@ -176,6 +176,9 @@
   "p4bT_yL5WdA"
  ],
  "skipped": [
-  "fugarMbiezI"
+  "fugarMbiezI",
+  "2x7Votl8LVM",
+  "ZnuJgUH_WeE",
+  "5rnoC6y8Mf8"
  ]
 }
