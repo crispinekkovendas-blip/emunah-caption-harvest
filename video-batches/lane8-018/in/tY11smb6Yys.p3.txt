@@ -1,0 +1,64 @@
+videoId: tY11smb6Yys
+parte 4 de 8 · traduzir as linhas 120 a 159 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Dádiva do alto de uma vez, realização embaixo em etapas
+RESUMO: A aula retoma a pergunta da sicha do Rebe: se a Torá e a terra de Israel já nos foram dadas, o que ainda cabe a nós na ordem de "Lech Lecha" e na promessa da terra? O Rebe explica que em Bereshit 15 (Brit Bein HaBetarim) HaShem deu a Avraham, de fato, as dez terras, e que a palavra de HaShem já vale como ato. Por isso a "ashera" de um gentio na terra não podia ser proibida, pois a terra já pertencia a Israel. Na prática, porém, só sete povos foram conquistados, e Keni, Kenizi e Kadmoni ficam para o futuro, como diz Rashi. O princípio central é que a dádiva de cima ocorre de uma vez, enquanto a realização de baixo, dentro dos limites do homem, acontece em etapas, como a escada que se sobe degrau a degrau. Como prova, a aula cita o Rambam sobre as três cidades de refúgio adicionais "nos dias do Mashiach" e a condição de "todos os seus habitantes" para o Yovel. A conclusão é que, ao ler Lech Lecha, o judeu ainda deve fazer o trabalho de Avraham, preparando-se para a entrega da Torá e para a terra completa do futuro, trazendo as coisas do potencial para o ato.
+MOMENTOS: 01:04 As duas questões da parashá: Lech Lecha e a promessa da terra · 02:06 O que resta fazer hoje, tão perto do fim do trabalho · 03:33 "Natati": a terra foi dada em Brit Bein HaBetarim · 04:55 Não só as sete terras, mas também Keni, Kenizi e Kadmoni · 05:56 A ashera de idolatria e a posse da terra · 07:25 Dádiva de uma vez, realização em etapas · 09:10 Rashi: as três terras ficam para o futuro · 11:25 Conexão com o Shabat Noach de 5752 · 13:50 Cidades de refúgio e o Rambam: faltam três · 16:06 A imagem do telhado e da escada · 17:36 "Todos os seus habitantes" e as etapas do Yovel · 22:00 Conclusão: a tarefa do judeu ao ler Lech Lecha
+FONTES CITADAS: 02:01 A palavra de HaShem é considerada como ato · 03:33 Bereshit 15:18 · 04:46 Bereshit 12:4 · 05:07 Devarim 2:5, 2:9, 2:19 · 05:19 Bereshit 15:18 · 06:10 Avodá Zará, lei da ashera de um gentio · 06:32 Bereshit 15:19-21 · 09:22 Rashi em Bereshit 15:19 · 11:03 Sicha do Rebe, Lech Lecha · 13:15 Livro de Yehoshua · 14:00 Devarim 4:41-43 · 14:07 Yehoshua 20 · 14:13 Devarim 19:8-9 · 14:35 Rambam, Hilchot Rotzeach 8:4 · 19:08 Vayikra 25:10 · 19:21 Arachin 32b · 20:05 Rambam, Hilchot Shemitá VeYovel 10:8 · 21:00 Dez tribos além do rio Sambatyon
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|09:42|אבל הבעלות, נתינת הבעלות מצידו של הקדוש ברוך הוא כבר הייתה אז.
+109|09:47|אומר הרבי בסוגריים כאן, שגם אם לא נלמד כמו בהערה קודם, אלא כן נאמר שזה עניין ששייך
+110|09:53|לעתיד, הרי מובן שירושת ג' הארצות נוגעת לשנמות הכיבוש
+111|09:59|של כל ארץ ישראל, גם של ז' הארצות.
+112|10:04|כלומר, אז תופעל שלמות גם בזין הארצות, בפרט כאשר אמרו בה דמינקר מתוך העשר.
+113|10:10|אז חייבים לומר שאם בסופו של דבר יש כאן עניין כללי של כל
+114|10:16|הארץ המובטחת בברית בין הבתרים, שהיא ארץ ישראל העתידית, אז גם אם
+115|10:22|חלק ממנה מלכתחילה הקדוש ברוך הוא מתכוון לתת בזמן אחר, זה לא מנותק
+116|10:28|משבע הארצות הקודמים.
+117|10:30|ממילא אם זה לא מנותק, ברור שכשנתנו השלושה האחרונים, התבסס מעלה גם בשבע
+118|10:36|הראשונים.
+119|10:37|כלומר שגם בשבע הראשונים שניתנו, יש שלבים בנתינה שלהם.
+
+LINHAS A TRADUZIR:
+120|10:41|כי זה בעצם היסוד שהרבי רוצה להכריח כאן.
+121|10:43|שהנתינה מלמעלה נעשית בבת אחת, והמימוש מלמטה נעשה
+122|10:49|בשלבים.
+123|10:51|זה בעצם רעיון כללי ועמוק בחסידות, שבעיקר נוגע לנו בזמן הזה,
+124|10:57|להבין את המעבר מן הגלות על הגאולה, שמצד אחד ענייני הגאולה מלמעלה למטה נפעלים בבת אחת,
+125|11:03|שלכן הרב אומר, הגיע הזמן גאולתכם וגאולת פרקן וכולי.
+126|11:08|מצד שני, ההתגלות של זה מלמטה היא נעשית בשלבים, שלב אחרי שלב.
+127|11:15|ממילא זה משאיר את כל המשימה לאדם, שאדם צריך לעשות את עבודתו באופן כזה של
+128|11:21|להביא את הדברים מן הכוח אל הפועל.
+129|11:25|שזה בעצם באמת קשור גם עם השיחה הקודמת.
+130|11:29|עם החידוש הנפלא של הרבי דווקא בשנת תשנ"ב, מה שכל השנים שלפני כן הרבי לא רמז בזה
+131|11:35|בכלל, וגם בחסידות ובשום מקום זה לא כתוב, ששבת נוח היא שבת כללית,
+132|11:41|שיש בה את הכוח להביא את הדברים מן הכוח אל הפועל.
+133|11:45|כי כל העבודה הזו של להביא דברים מן הכוח אל הפועל ולהבין שזה משהו כללי שנוגע לכללות
+134|11:51|העבודה, זה משהו שקשור במיוחד לזמן שלנו.
+135|11:55|אז ממילא רואים שהרי בגלל החידוש הזה דווקא ב...
+136|11:59|ולאחרי השנה שמלך המשיח נגלה בו, שנת תשנ"א נ"ב, אז הרבי מגלה
+137|12:04|שמצד אחד זה שנה שמלך המשיח נגלה בו, הרבי אומרים במפורש שזה לא רק שהוא
+138|12:10|נגלה, אלא זה בשעה שמלך המשיח, זה כבר שעת ביאתו.
+139|12:16|ועם כל זה, עדיין בהבאה של הדברים מן הכוח אל הפועל, יש את עבודה
+140|12:22|שלמה, וזו העבודה שלנו.
+141|12:26|שם הרבי הסביר את זה ביחס למעלת שבת נוח, איך שהיא משפיעה באופן כללי על כל השנה ועל כל
+142|12:31|הזמנים שיבואו לאחר מכן.
+143|12:33|וכאן הרבי מתחיל להסביר את העניין הזה, איך הוא נלמד מן התורה, שאנחנו רואים שבעניינים
+144|12:39|הכי עיקריים שנקרא היהדות, שזה הסיכון של לך לך והסיכון של הבטחת הארץ,
+145|12:46|אז יש פה את אותה תבנית שמצידו של הקדוש ברוך הוא הדברים
+146|12:52|נעשים ונשלמים.
+147|12:54|ומצד המציאות שלמטה, הדבר הזה קורה באופן של תהליך.
+148|13:00|לך לך, באופן של הליכה ותהליך, שלב אחרי שלב.
+149|13:05|מסקנת הדברים הרביעות, מכל זה מובן.
+150|13:08|מכיוון שבזמן הזה, ואפילו בזמן יהושע,
+151|13:15|ובזמן בית ראשון, ובזמן עזרה, החזיקו לכל היותר, גם במצבים הכי
+152|13:21|נפלאים ומושלמים, שהיו לעם ישראל בבעלותם על ארץ ישראל, אז במקסימום
+153|13:26|היה שהחזקנו רק בשבעה ארצות ולא בג' הארצות.
+154|13:31|כלומר, בקניק מזי וקדמוני, שזה הבטחה ונתינה של הקדוש ברוך הוא שכבר, כמו שהרבי אמר
+155|13:37|קודם, היא נעשתה בבת אחת עוד בזמן אברהם אבינו, אצלנו במציאות זה עוד לא היה מעולם.
+156|13:44|וממילא גם קדושת ארץ ישראל לא התפשטה שם מעולם.
+157|13:50|כפי שהדבר נוגע להלכה, בדין ערי מקלט, הדבר הזה ממש פוגש אותנו בצורה הכי חדה
+158|13:56|במצווה שמובאת בתורה כפסק דין הרמב״ם.
+159|14:00|שש ערים היו, שמתחילה השם ציווה אותנו להפריש שש ערי מקלט,
