@@ -1,0 +1,120 @@
+960	Yisrael ben Chava.	Yisrael ben Chava.
+961	Yisrael ben Chava.	Yisrael ben Chava.
+962	Aharon ben Rivka.	Aharon ben Rivka.
+963	Aharon ben Rivka.	Aharon ben Rivka.
+964	Ben Tzion ben Sarah.	Ben Tzion ben Sará.
+965	Dan ben Artuna.	Dan ben Artuna.
+966	Ovadia Rachamim ben Chatun, Avraham ben Menashe.	Ovadia Rachamim ben Chatun, Avraham ben Menashe.
+967	Shlomo Yosef ben Chanina, Shaul ben Fibi.	Shlomo Yosef ben Chanina, Shaul ben Fibi.
+968	Boaz ben Chaya.	Boaz ben Chaya.
+969	Shoshana bat Masuda, Sima bat Simcha.	Shoshana bat Masuda, Sima bat Simcha.
+970	Kronan bat Suzan. I didn't forget what	Kronan bat Suzan. Não esqueci o que
+971	you said. Don't think anymore. Slowly,	você disse. Não pense mais. Devagar,
+972	I didn't forget. Well done.	eu não esqueci. Parabéns.
+973	Arye ben Zechiya, how are you?	Arye ben Zechiya, como vai?
+974	Nona bat Saida Asis, how are you?	Nona bat Saida Asis, como vai você?
+975	Prachia bat Salima, Sarach bat Batya.	Prachia bat Salima, Sarach bat Batya.
+976	Shaul ben Peima. Page…	Shaul ben Peima. Página…
+977	Mishnah 7, Rabbi, Tractate Ohalot, chapter 12.	Mishná 7, Rabino, Tratado Ohalot, capítulo 12.
+978	Mishnah 7: A round pillar that is suspended in the air, that is resting	Mishná 7: Uma coluna redonda que está suspensa no ar, que está apoiada
+979	on the ground outside, under the open sky. Now, impurity lies	no chão do lado de fora, sob o céu aberto. Agora, a impureza está
+980	under the circle that casts a shadow on the ground.	sob o círculo que projeta sombra sobre o chão.
+981	If its circumference is 24 handbreadths,	Se a sua circunferência tem 24 palmos,
+982	it brings the impurity under its side, along the whole length of the pillar.	ela leva a impureza para debaixo da sua lateral, ao longo de toda a coluna.
+983	Along the whole pillar there are 24 handbreadths, since under the circle one can make a tent of one handbreadth by one handbreadth	Em toda a coluna há 24 palmos, pois sob o círculo é possível fazer uma tenda de um palmo por um palmo
+984	at a height of a handbreadth, and it brings the impurity to all of it, if the pillar's circumference is	à altura de um palmo, e leva a impureza a toda ela, se a circunferência da coluna for
+985	24 handbreadths. Its diameter, that is, its width, is eight	de 24 palmos. O seu diâmetro, isto é, a sua largura, é de oito
+986	handbreadths.	palmos.
+987	And we know that wherever the width is one handbreadth, the circumference is three handbreadths.	E sabemos que onde a largura é de um palmo, a circunferência é de três palmos.
+988	So one can square the pillar, the circle, to make a square of eight handbreadths by eight handbreadths.	Então é possível quadrar a coluna, o círculo, para fazer um quadrado de oito palmos por oito palmos.
+989	The diagonal of this square is eight handbreadths plus sixteen fifths of a handbreadth.	A diagonal desse quadrado é de oito palmos mais dezesseis quintos de palmo.
+990	That's how it goes.	É assim que funciona.
+991	When you make the square, it has to be a proper square.	Quando você faz o quadrado, ele precisa ser um quadrado de verdade.
+992	If I have eight handbreadths, then I have a square, with a diameter. How do I know that it is	Se tenho oito palmos, então tenho um quadrado, com um diâmetro. Como vou saber que está
+993	exact?	exato?
+994	You look at the diameter, the diagonal I mean. If in the middle it is eight	Você olha para o diâmetro, quer dizer, a diagonal. Se no meio ela tem oito
+995	handbreadths and a bit more, then I know that the width is 24 handbreadths,	palmos e um pouco mais, então sei que a largura são 24 palmos,
+996	its circumference.	a sua circunferência.
+997	So it brings the impurity.	Então ela leva a impureza.
+998	Each handbreadth in the square is two fifths of a handbreadth on the diagonal.	Cada palmo no quadrado são dois quintos de palmo na diagonal.
+999	Moving on.	Seguindo.
+1000	It brings the impurity up to its side.	Ela leva a impureza até a sua lateral.
+1001	Let's continue.	Vamos continuar.
+1002	And if not, the impurity… that is, if the circumference of the pillar is not	E se não, a impureza… isto é, se a circunferência da coluna não for de
+1003	24, it breaks through and rises, it breaks through and rises, like a crushed impurity.	24, ela rompe e sobe, rompe e sobe, como impureza comprimida.
+1004	There's nothing to be done.	Não há o que fazer.
+1005	Another Mishnah: An olive's bulk of a corpse stuck to the sill, the threshold before the house,	Outra Mishná: Uma azeitona de cadáver grudada na soleira, o limiar diante da casa,
+1006	with no lintel above, over the impurity:	sem verga em cima, sobre a impureza:
+1007	Rabbi Eliezer declares the house impure; in his view the sill is part of the house.	Rabi Eliezer declara a casa impura; em sua opinião a soleira faz parte da casa.
+1008	Rabbi Yehoshua declares it pure; he says it is not the house. If it was placed under	Rabi Yehoshua a declara pura; ele diz que não é a casa. Se foi colocada sob
+1009	the sill, it is judged as a crushed impurity, half and half: the inner half,	a soleira, é julgada como impureza comprimida, metade por metade: a metade interna,
+1010	the outer half.	a metade externa.
+1011	Stuck to the lintel, the house is impure, no question.	Grudada na verga, a casa é impura, nem se discute.
+1012	Rabbi Yossi declares it pure.	Rabi Yossi a declara pura.
+1013	Why?	Por quê?
+1014	From the lintel outward it is not the house.	Da verga para fora, não é a casa.
+1015	If it was placed inside the house, one who touches the lintel is impure, according to all. Why?	Se foi colocada dentro da casa, quem toca na verga é impuro, segundo todos. Por quê?
+1016	Because in the end the impurity is going to come out.	Porque no fim a impureza vai sair.
+1017	One who touches the sill: Rabbi Eliezer declares impure; Rabbi Yehoshua says,	Quem toca na soleira: Rabi Eliezer declara impuro; Rabi Yehoshua diz:
+1018	from a handbreadth upward, impure; from a handbreadth downward, pure. One who touches the sill from a handbreadth downward, on the ground side,	de um palmo para cima, impuro; de um palmo para baixo, puro. Quem toca na soleira de um palmo para baixo, do lado do chão,
+1019	it is judged as a crushed impurity, and he is impure.	é julgada como impureza comprimida, e ele é impuro.
+1020	Chapter thirteen, Gemara.	Capítulo treze, Guemará.
+1021	Today we are on the Daf Yomi Gemara, with the help of HaShem and His salvation. It's daf 37,	Hoje estamos no Daf Yomi da Guemará, com a ajuda de HaShem e a Sua salvação. É o daf 37,
+1022	but we will begin with 36b, where we stopped in the previous class,	mas vamos começar em 36b, onde paramos na aula anterior,
+1023	and first, with the help of HaShem, we will say a prayer, a prayer before	e antes, com a ajuda de HaShem, faremos uma oração, uma oração antes
+1024	…I have set HaShem before me always; because He is at my right hand, I shall not be moved.	…Coloquei HaShem diante de mim sempre; porque Ele está à minha direita, não serei abalado.
+1025	Right?	Certo?
+1026	For the success of Doron ben Tova, Tzara Batrya,	Pelo êxito de Doron ben Tova, Tzara Batrya,
+1027	Galit, her daughter, another… a complete recovery.	Galit, a filha dela, outra… uma cura completa.
+1028	It was a thousand, what?	Era mil, o quê?
+1029	She was at my place today.	Hoje ela esteve na minha casa.
+1030	She caught the bacteria	Ela pegou a bactéria
+1031	that devours.	que devora.
+1032	Sedated and on a ventilator.	Sedada e entubada.
+1033	There is one woman, Galit, her name is Galit.	Há uma mulher, Galit, o nome dela é Galit.
+1034	Daughter of Esther.	Filha de Ester.
+1035	With good news.	Com boas notícias.
+1036	May HaShem strengthen all your…	Que HaShem fortaleça todos os seus…
+1037	…	…
+1038	and the letters…	e as letras…
+1039	In the unity, for the sake of all Israel.	Na unidade, em nome de todo Israel.
+1040	Answer us, answer us, answer us, all our affairs.	Responde-nos, responde-nos, responde-nos, em todos os nossos assuntos.
+1041	May they be favorable before our Shepherd. Answer us, answer us, answer us,	Que sejam aceitos diante do nosso Pastor. Responde-nos, responde-nos, responde-nos,
+1042	answer us, answer us, answer us,	responde-nos, responde-nos, responde-nos,
+1043	answer us, answer us, answer us, answer us, answer us,	responde-nos, responde-nos, responde-nos, responde-nos, responde-nos,
+1044	answer us, answer us.	responde-nos, responde-nos.
+1045	Yo, yo, yo, yo.	Yo, yo, yo, yo.
+1046	Oy, oy, oy, oy, oy. Yes, to open the daf.	Oi, oi, oi, oi, oi. Sim, para abrir o daf.
+1047	Yes, 36. Today it's 37, we'll begin from 36b, with the help of HaShem and His salvation.	Sim, 36. Hoje é o 37, vamos começar de 36b, com a ajuda de HaShem e a Sua salvação.
+1048	Ya ba, ba, ba, ba. Ya ba, ba, ba, ba.	Ya ba, ba, ba, ba. Ya ba, ba, ba, ba.
+1049	Is there a completion of a chapter today?	Hoje há o fim de um capítulo?
+1050	The beginning of a chapter.	O começo de um capítulo.
+1051	We are in the Mishnah: "Whenever its eye was blinded…"	Estamos na Mishná: "Sempre que o seu olho foi cegado…"
+1052	Did you find where it is?	Você achou onde é?
+1053	Abaye?	Abaye?
+1054	No, give	Não, dê
+1055	me… May you merit	para mim… Que você mereça
+1056	mitzvot!	mitsvot!
+1057	Give	Dê
+1058	him, give him this, yes, give us this too, give	a ele, dê isto a ele, sim, dê isto a nós também, dê
+1059	this.	isto.
+1060	We'll try, put it.	Vamos tentar, ponha.
+1061	Put it here and we'll see here.	Ponha aqui e veremos aqui.
+1062	Do you want on you?	Você quer em você?
+1063	Put.	Ponha.
+1064	Put, put.	Ponha, ponha.
+1065	Put on low.	Ponha baixo.
+1066	Honored sir, you're learning	Honrado senhor, você está estudando
+1067	nicely, surely.	bem, com certeza.
+1068	According to each man's wish.	Segundo a vontade de cada um.
+1069	Hello.	Alô.
+1070	Half and half.	Metade e metade.
+1071	Or what?	Ou o quê?
+1072	More?	Mais?
+1073	There's plenty.	Tem de sobra.
+1074	Who?	Quem?
+1075	They brought such	Trouxeram uma coisa assim
+1076	Whenever you want you can come, and it doesn't change anything,	Quando quiser você pode vir, e isso não muda nada,
+1077	whatever happens	aconteça o que acontecer
+1078	here?	aqui?
+1079	Whenever its eye was blinded and its foreleg was cut off	Sempre que o seu olho foi cegado e a sua pata dianteira foi cortada
