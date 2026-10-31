@@ -1,0 +1,120 @@
+240	The masach of the tavur, right.	O masach do tavur, correto.
+241	The masach of the tavur is purified.	O masach do tavur se purifica.
+242	What is meant by "purified"?	O que significa "purifica"?
+243	What does "purified" mean?	O que quer dizer "purificar"?
+244	What is called purification, in your opinion?	O que se chama purificação, na opinião de vocês?
+245	Say it according to what you learned, more precisely.	Digam conforme o que aprenderam, de forma mais precisa.
+246	To be better suited to the next stage.	Para ficar mais adequado ao próximo estágio.
+247	Close to purification: pure and thick, this is called	Perto da purificação: puro e grosso, isso se chama
+248	bestowing and receiving, in the aspects of reception.	outorgar e receber, nas bechinot da recepção.
+249	Pure means more bestowing.	Puro quer dizer mais outorgante.
+250	More bestowing than what?	Mais outorgante em quê?
+251	Purification means I purify myself, I go up to the rosh.	Purificação quer dizer que eu me purifico, subo ao rosh.
+252	I go up to the rosh, I equalize form with the rosh, which specifically does not receive.	Subo ao rosh, igualo a forma com o rosh, que justamente não recebe.
+253	So it rises in the way it is used, since it can no longer receive in	Então ele se eleva na forma de uso, já que não pode mais receber nesta
+254	this very aspect of its own, bechiná dalet; it is purified, goes up to the rosh, by way of points, by way of	sua própria bechiná, a bechiná dalet; ele se purifica, sobe ao rosh, em forma de pontos, por meio da
+255	the departure of the degree, the departure of the light, going back up to the place of the rosh.	partida do degrau, da partida da luz, voltando ao lugar do rosh.
+256	What happens in the rosh?	O que acontece no rosh?
+257	It equalizes form with the rosh.	Ele iguala a forma com o rosh.
+258	What is called equivalence of form?	O que se chama igualdade de forma?
+259	Between the guf and the rosh.	Entre o guf e o rosh.
+260	How is there equivalence of form at all between the guf and the rosh?	Como pode haver igualdade de forma entre o guf e o rosh?
+261	The guf wants to receive pleasure, the rosh thinks thoughts.	O guf quer receber prazer, o rosh pensa pensamentos.
+262	What is the connection between this guf that wants to receive and the rosh that thinks thoughts?	Qual é a ligação entre esse guf que quer receber e o rosh que pensa pensamentos?
+263	What do you say, Yaniv?	O que você diz, Yaniv?
+264	Okay, so not Yaniv.	Certo, então não o Yaniv.
+265	What do you say?	O que vocês dizem?
+266	That the desire to receive becomes the desire to receive with the understanding of bestowing?	Que o desejo de receber se torna o desejo de receber com a compreensão de outorgar?
+267	No.	Não.
+268	No?	Não?
+269	No.	Não.
+270	Equivalence of form means they become similar to each other.	Igualdade de forma quer dizer que eles ficam parecidos um com o outro.
+271	The desire to receive loses all...	O desejo de receber perde todo...
+272	Does it mean that perhaps the rosh adapts itself to	Quer dizer que talvez o rosh se adapta ao
+273	the guf, and the guf adapts itself to the rosh?	guf, e o guf se adapta ao rosh?
+274	No, that's a nice sentence, but no.	Não, é uma bela frase, mas não.
+275	Equivalence of form means similarity, that they become similar to one another.	Igualdade de forma quer dizer semelhança, que eles ficam parecidos um com o outro.
+276	In what does the guf become similar to the rosh?	Em que o guf fica parecido com o rosh?
+277	In that it does not receive.	Em que ele não recebe.
+278	Like a person who, for example, enjoyed some experience, was in some experience,	Como uma pessoa que, por exemplo, desfrutou de alguma vivência, esteve em alguma vivência,
+279	say on a trip, and now he has finished the trip; these reshimot go up	digamos numa viagem, e agora ele terminou a viagem; essas reshimot sobem
+280	to the rosh.	para o rosh.
+281	Now he no longer lives the experience of the trip; the experience of the trip has already departed.	Agora ele já não vive a vivência da viagem; a vivência da viagem já partiu.
+282	So the experience of the trip is no longer there, so where did it go?	Então a vivência da viagem não está mais lá, para onde ela foi?
+283	It went up to the place of thought.	Ela subiu para o lugar do pensamento.
+284	Or better, an example the Rav gives: a person driving a car.	Ou melhor, um exemplo que o Rav dá: uma pessoa dirigindo um carro.
+285	Here he is driving at 120 km/h, driving together with his friends.	Aqui ele dirige a 120 km/h, junto com seus amigos.
+286	Driving 120, and his friends press him: come on, drive faster, drive faster.	Dirigindo a 120, e seus amigos o pressionam: vamos, ande mais rápido, ande mais rápido.
+287	What does he say?	O que ele diz?
+288	I can't; if I drive faster, I'll have an accident.	Não consigo; se eu andar mais rápido, vou sofrer um acidente.
+289	He says, so I need to stop, because	Ele diz: então preciso parar, porque
+290	there is no partial driving in spirituality; I have to make a complete stop, because if I keep driving, they will press	não existe dirigir parcialmente no espiritual; preciso fazer uma parada completa, porque se eu continuar dirigindo, vão pressionar
+291	on me.	a mim.
+292	I have to stop, maybe let someone else drive, or start over, think anew about this matter.	Preciso parar, talvez deixar outro dirigir, ou recomeçar, pensar de novo sobre isso.
+293	So he decides to stop.	Então ele decide parar.
+294	So he goes down from 120 to 100, to 80, 60, 40, 20, until he gets back to zero.	Então ele desce de 120 para 100, 80, 60, 40, 20, até voltar a zero.
+295	He reaches zero; in effect he stopped driving.	Chega a zero; na prática, parou de dirigir.
+296	He got out of the car; now he thinks anew.	Saiu do carro; agora ele pensa de novo.
+297	What happened to all his experience of driving?	O que aconteceu com toda a sua vivência de dirigir?
+298	It went up to the place of thought.	Ela subiu para o lugar do pensamento.
+299	I want to think anew about the experience.	Quero pensar de novo sobre a vivência.
+300	This experience that we went through, we exhausted it.	Essa vivência que tivemos, nós a esgotamos.
+301	I can no longer sustain it in this form.	Já não consigo sustentá-la dessa forma.
+302	There was a clash; the or makif struck and pressed on the masach of the tavur.	Houve um embate; o or makif golpeou e pressionou o masach do tavur.
+303	I can no longer live that same experience of holiness.	Já não consigo viver aquela mesma vivência de santidade.
+304	I have to rethink this process.	Preciso repensar esse processo.
+305	To see what I am able to do, what I am not able to do.	Ver o que sou capaz de fazer, o que não sou capaz.
+306	I am no longer able to do 120 km/h.	Já não sou capaz de 120 km/h.
+307	I am no longer able to be in Galgalta, in the tastes of Galgalta.	Já não sou capaz de estar em Galgalta, nos sabores de Galgalta.
+308	Now, what am I able to do?	Agora, o que eu sou capaz de fazer?
+309	I am able to be in partzuf Av.	Sou capaz de estar no partzuf Av.
+310	A lower degree.	Um degrau mais baixo.
+311	On one hand a lower degree, and on the other we keep advancing.	Por um lado um degrau mais baixo, por outro continuamos avançando.
+312	What is the advancement?	Qual é o avanço?
+313	What is the advancement?	Qual é o avanço?
+314	That we create kelim of bestowal.	Que criamos kelim de outorga.
+315	So purification raises the masach of the tavur to the rosh, and then they are included	Então a purificação eleva o masach do tavur ao rosh, e então se incluem
+316	in the equivalence of form, both the masach of the tavur and the masach of the rosh, both of which work	na igualdade de forma, tanto o masach do tavur quanto o masach do rosh, ambos atuando
+317	from below upward, both work without receiving, because the rosh, what does the rosh say?	de baixo para cima, ambos atuam sem receber, porque o rosh, o que o rosh diz?
+318	The rosh works from below upward, from below upward, meaning it does not receive.	O rosh atua de baixo para cima, de baixo para cima, isto é, não recebe.
+319	There is no reception in the rosh, only roots of kelim. So too the masach of the tavur that was purified is also	No rosh não há recepção, só raízes de kelim. Assim também o masach do tavur que se purificou está
+320	in the aspect of roots of kelim in this state.	na bechiná de raízes de kelim nesse estado.
+321	What happens in this state?	O que acontece nesse estado?
+322	The masach of the tavur learns from the rosh how to perform a zivug de-akah on the next degree.	O masach do tavur aprende com o rosh como realizar um zivug de aká no degrau seguinte.
+323	And the masach of the rosh determines, according to the information that rose up to it from all	E o masach do rosh determina, segundo a informação que subiu até ele de todo
+324	the information accumulated from all the previous experiences, it determines	o conhecimento acumulado de todas as vivências anteriores, ele determina
+325	what to go out on now.	sobre o que sair agora.
+326	What will my next action be?	Qual será a minha próxima ação?
+327	What will my next degree be?	Qual será o meu próximo degrau?
+328	What will my next gilgul be?	Qual será a minha próxima reencarnação?
+329	That's it; in this respect it is like death and a new reincarnation.	Pronto; sob esse aspecto, é como a morte e uma nova reencarnação.
+330	From a more general standpoint.	De um ponto de vista mais geral.
+331	From a more particular standpoint, it also happens to a person during his life.	De um ponto de vista mais particular, isso acontece também com a pessoa durante a sua vida.
+332	With each and every experience he goes through, the experience rises to the place of the rosh, after he can no longer	Em cada vivência que ele tem, a vivência sobe ao lugar do rosh, depois que ele já não consegue
+333	sustain it, and he thinks things over anew, and sees what he can sustain and what he cannot.	sustentá-la, e ele pensa de novo, e vê o que consegue sustentar e o que não consegue.
+334	Okay, this is called inclusion.	Certo, isso se chama inclusão.
+335	There's a question: experience, you actually mean training, training in situations.	Há uma pergunta: vivência, o senhor quer dizer treinamento, treinamento em situações.
+336	Is that what you mean?	É isso que você quer dizer?
+337	What do you mean, training?	O que quer dizer treinamento?
+338	Everything we do here, we are actually going through training, spiritual training	Tudo o que fazemos aqui, na verdade, é passar por um treinamento, um treinamento espiritual
+339	in different states of consciousness.	em diferentes estados de consciência.
+340	Okay.	Certo.
+341	So what is an experience?	Então o que é uma vivência?
+342	Is that what you mean by experience?	É isso que você quer dizer com vivência?
+343	An experience is already a feeling, it is already a result.	Vivência já é uma sensação, já é um resultado.
+344	Experience is a matter of the guf.	A vivência é uma questão do guf.
+345	Like, that sounds relatively shallow.	Quer dizer, isso soa relativamente raso.
+346	I shouldn't say the word, maybe it's not accurate, maybe it's not shallow, but it's kind of earthly.	Não devia usar a palavra, talvez não seja precisa, talvez não seja rasa, mas é meio terrena.
+347	Yes, it can be earthly.	Sim, pode ser terrena.
+348	…	…
+349	It can be earthly, and it can also be in holiness.	Pode ser terrena, e pode ser também na santidade.
+350	An experience is called hasagah.	Vivência se chama hasagá.
+351	Do you want to call it that?	Você quer chamar assim?
+352	Call it hasagah.	Chame de hasagá.
+353	Hasagah is an aspect of the guf.	Hasagá é uma bechiná do guf.
+354	There is grasping in the rosh and there is attainment in the guf.	Há apreensão no rosh e há hasagá no guf.
+355	Hasagah is a kind of experience, a spiritual experience.	Hasagá é um tipo de vivência, uma vivência espiritual.
+356	The same experience we went through, and you can also see this in processes that are not only spiritual in the usual sense,	A mesma vivência que tivemos, e também se pode ver isso em processos que não são só espirituais no sentido comum,
+357	in the Kabbalistic sense of it; in the more usual sense, an experience is a kind of	no sentido da Cabalá; no sentido mais comum, vivência é um tipo de
+358	feeling that we went through.	sensação que vivemos.
+359	An experience, as we use the usual term.	Vivência, como usamos o termo comum.
