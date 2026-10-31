@@ -2,7 +2,7 @@
  "name": "lane3-023",
  "lane": 3,
  "created": "2026-10-31T00:17:47.814Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "fvpWbcPSwRg",
@@ -101,9 +101,9 @@
   "cDQpFq8fybA.p4"
  ],
  "tries": {
-  "eS5k1hi7vQQ": 2,
-  "zddbIrvXzEo": 2,
-  "nlE2Z204zwY": 2,
+  "eS5k1hi7vQQ": 3,
+  "zddbIrvXzEo": 3,
+  "nlE2Z204zwY": 3,
   "rb5s4tZhJU8": 1
  },
  "done": [
@@ -112,5 +112,9 @@
   "uMDr2o6eMYs",
   "rb5s4tZhJU8"
  ],
- "skipped": []
+ "skipped": [
+  "eS5k1hi7vQQ",
+  "zddbIrvXzEo",
+  "nlE2Z204zwY"
+ ]
 }
