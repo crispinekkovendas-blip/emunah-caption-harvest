@@ -1,0 +1,91 @@
+videoId: rUJiB6fHXpM
+parte 6 de 6 · traduzir as linhas 600 a 666 (67 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Elul: Ani leDodi, guematria 185 e o enigma do Kolbo
+RESUMO: O rabino abre a farbrengen de Rosh Chodesh Elul com o versículo "Ani leDodi veDodi li" (Shir HaShirim 6:3): primeiro o despertar de baixo, depois o de cima. Ele liga o versículo aos trinta dias de Elul, aos quarenta dias de Moshe no monte e aos dez dias de teshuvá. A guematria é 185, o mesmo valor do nome El por extenso (111+74), o primeiro dos 13 atributos de misericórdia. 185 é 5×37, ou seja, cinco vezes yechida, e "Ani leDodi" (115) é cinco vezes chaya (23). "Dodi li" (70) é cinco vezes David, ligado a Mashiach (Yeshayahu 52:13). Em seguida ele conta como, aos 15 anos, o Rebe da Filadélfia lhe propôs um enigma de guematria do Sefer Kolbo, o do número pensado, que se resolve com os restos da divisão por 3, 5 e 7 e a subtração de 105. A estrutura 3-5-7 vem da Birkat Kohanim e dos anos de vida dos Patriarcas; o método é o teorema chinês do resto, descoberto por Sunzi, passando por Fibonacci e Gauss. Ele fecha com o Kolbo como "chen" e "brit", ligado à teshuvá e ao tikun HaBrit.
+MOMENTOS: 02:07 Ani leDodi veDodi li e o mês de Elul · 03:46 Guematria 185 e o nome El · 05:52 185 = 5×37: os cinco níveis da alma e a yechida · 12:03 Dodi li = 70 e David HaMelech · 14:33 O primeiro encontro com o Rebe na Filadélfia · 18:44 Din Guematriot: Mashiach Menachem e Bereshit Bara · 21:46 O enigma do número pensado · 25:16 Exemplo prático com o número 23 · 30:09 A Birkat Kohanim e a trinca 3-5-7 · 34:02 Sunzi, Fibonacci e Gauss: o teorema chinês do resto · 43:17 Anos dos Patriarcas e quadrados 25, 36, 49 · 48:00 Kol Bo: chen, brit e sefer
+FONTES CITADAS: 02:07 Shir HaShirim 6:3 · 02:41 Pirkei DeRabbi Eliezer 46 · 03:31 Midrash: kol makom sheneemar li · 04:18 Zohar e Arizal, 13 Middot HaRachamim · 04:24 Shemot 34:6 · 06:15 Bereshit Rabá 14:9 · 09:36 Tehilim 36:10 · 10:36 Shabat 55a · 10:47 Michá 7:20 · 10:47 Tanya · 11:05 Devarim 6:5 · 12:26 Shmuel II 5:4-5 · 12:54 Yeshayahu 52:13 · 16:08 Sefer Kolbo · 16:20 Beit Yosef · 16:54 Orchot Chaim, de Rabi Aharon HaKohen de Lunel · 18:56 Zecharia 6:12 · 18:56 Sanhedrin 98b · 18:56 Yerushalmi, Berachot 2:4 · 19:16 Bereshit 14 · 20:15 Devarim 32:47 · 20:20 Yerushalmi, Peá 1:1 · 21:17 Bereshit 1:1 · 21:30 Bereshit Rabá 1:1 · 30:11 Bamidbar 6:24-26 · 41:22 Bamidbar 6:24-26 · 41:44 Shir HaShirim 3:7 · 43:25 Bereshit 25:7 · 43:29 Bereshit 35:28 · 43:30 Bereshit 47:28 · 46:00 Zohar · 47:37 Mevaser Tov · 48:05 Bereshit 6:8
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|45:46|‫זה היה היסוד של
+589|45:48|ה...
+590|45:55|‫בכל אופן, מה שזה אומר, ‫שצריך לא לשכוח,
+591|46:00|‫באזור הקדוש כתוב שגימטיות ‫זה שביעית מכל התורה כולה.
+592|46:08|זה חלק אחד משבע, מכל לימוד התורה,
+593|46:13|לגמרטיות.
+594|46:15|יש כמה אנשים שמרטישים יותר משפיעית
+595|46:19|מהזמן שלהם.
+596|46:25|רב ראשון פריינט היה אומר שיש אנשים שלשמור על שפיות צריכים
+597|46:31|להתעסק הרבה במספרים.
+598|46:43|‫אז הוא אומר עוד כמה דברים, זה בהמשך.
+599|46:45|‫בכל אופן, ככה פתחנו איך...
+
+LINHAS A TRADUZIR:
+600|46:47|‫היה קשר קודם, איך התהדק הקשר
+601|46:52|‫בינינו, ביני לבין הרבי, ‫בעלם ולסר טוב.
+602|46:58|‫זכותו יגנו עלינו ואחוי ישראל.
+603|47:02|‫אפשר לשמוע עוד כמה ארגונים.
+604|47:37|‫בספר מבשרת טוב יש שתי תשובות ‫על הדבר הזה.
+605|47:43|‫גם בחלק א' יש תשובה גדולה, ‫מה שהוא כתב בגיל 17, ‫וגם
+606|47:49|בחלק ב' יש עוד תוספת, ‫עוד מאמר גדול ‫על האחידה
+607|47:55|של הקולבו.
+608|47:57|‫למה אנחנו אוהבים גם כן ‫מיוחד את הספר הזה שנקרא קולבו?
+609|48:00|‫כמה זה קולבו?
+610|48:05|‫כל זה נון ובור זה חטא, ‫ונוח מצא חן בעיני ה'.
+611|48:09|‫אז הספר הזה, כל בור, ‫הוא ספר שכולו חן.
+612|48:13|‫אם אני לוקח כל מילה, כל בור, ‫ואני מכפיל
+613|48:19|את האותיות, ‫אז כמה זה כל, כ' פעמים למד, 600, ‫כמה זה בור, בית
+614|48:25|פעמים דבר 12, זה ברית.
+615|48:29|‫כל בור זה ספר שכולו חן, ‫כולו נוח מצא חן.
+616|48:35|וגם ספר של ברית עם השם, דווקא על ידי הגמטיות,
+617|48:42|זה לא הפרק היחיד בספר, רק שזה גם דין חשוב בספר, אז כורתים ברית עם
+618|48:48|השם, עכשיו זה חודש התשובה, צריך תיקון הברית, אז לכן גם
+619|48:54|כן רק להזכיר את הספר קורבו, יש בזה תיקון הברית.
+620|48:59|מה הממוצע בין ברית וכן?
+621|49:05|‫הערך הממוצע זה ספר.
+622|49:12|‫קוראים לזה ספר קורבו.
+623|49:16|‫ספר, המילה ספר, שזה לשון מספר, ‫זה הממוצע של החשבון הפשוט שזה חן,
+624|49:23|‫וההעקה הפרטית של כל מילה, ‫שזה ברית.
+625|49:30|‫שנזכה לקורבו.
+626|49:44|ילד אמביי ילד אמביי ילד
+627|49:49|אמביי ילד אמביי ילד
+628|49:54|אמביי
+629|50:16|ילד אמב"ם, באמב"ם,
+630|50:22|באמב"ם,
+631|50:27|באמביי.
+632|50:29|ילד אמב"ם, באמביי.
+633|50:32|ילד אמב"ם, באמביי.
+634|50:37|ילד אמב"ם, באמביי.
+635|50:40|ילד אמב"ם, באמביי.
+636|50:45|הים
+637|50:46|במביי,
+638|50:53|ילדם במביי,
+639|51:02|הים במביי, ילדם במביי, ילדם במביי,
+640|51:08|ילדם במביי.
+641|51:13|אי ימב"ם, במב"ם, ביי, ילד אמב"ם, במב"ם, ביי,
+642|51:19|ילד זלזי, אי ימב"ם, ביי.
+643|51:49|היי, היי, היי, היי, ילד אמבם באמבא, היי,
+644|51:55|ילד אמבם באמבא, היי, ילד אמבם
+645|52:00|באמבא, היי, ילד אמבם באמבא, היי, ילד אמבם
+646|52:06|באמבא, היי,
+647|52:28|ממש
+648|53:51|מה מה
+649|55:41|היי היי ילד אמביי ילד אמביי ילד אמביי ילד אמביי ילד
+650|55:48|אמביי ילד אמביי ילד אמביי
+651|56:31|ילד אמבמה ילד אמבמה ילד
+652|56:34|אמבמה
+653|57:18|היי
+654|57:21|ללמבה
+655|57:31|מה מה מה היי ללמבה מה היי
+656|57:53|היי ילד אמבה מה?
+657|57:54|היי ילד אמבה מה?
+658|58:00|היי ילד אמבה מה?
+659|58:01|היי
+660|58:09|ילד אמבה
+661|58:23|מי ילדה מי ילדה מי
+662|58:25|ילדה
+663|58:33|מי ילדה מי ילדה מי
+664|58:53|היי ילד אמבה ביי היי ילד אמבה ביי היי ילד
+665|58:59|אמבה
+666|59:34|היי רממה, מיי היי רממה
