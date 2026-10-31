@@ -1,0 +1,40 @@
+320	Or the waitress, Nisrin?	Ou para a garçonete Nisrin?
+321	Do you want to bring her something, a waitress?	Você quer levar algo para ela, a garçonete?
+322	Invite him for a glass of beer.	Convide-o para um copo de cerveja.
+323	Forget it, invite him for a glass of beer.	Esquece, convide-o para um copo de cerveja.
+324	Do you have solutions?	Você tem soluções?
+325	Maybe bring him the shoes you sell, bring him your shoes.	Talvez leve para ele os sapatos que você vende, leve os seus sapatos.
+326	Yes, a glass of beer from the world.	Sim, um copo de cerveja do mundo.
+327	Anyway, he told him, this is food.	Enfim, ele disse a ele: isso é comida.
+328	I had someone, I told this here, who went to a wedding in Miami.	Eu tinha um conhecido, já contei isso aqui, que foi a um casamento em Miami.
+329	Now, the groom decided he wanted to make the whole wedding dairy.	Então o noivo decidiu que queria fazer o casamento inteiro lácteo.
+330	He told me, it cost me more than a meat wedding.	Ele me disse que lhe custou mais caro do que um casamento de carne.
+331	Do you know what a dairy wedding is?	Você sabe o que é um casamento lácteo?
+332	You have to bring something like seven kinds of fish.	Tem que servir uns sete tipos de peixe.
+333	Why is there no meat?	Por que não tem carne?
+334	What, how will you give people satisfaction?	Como você vai dar satisfação às pessoas?
+335	So all kinds of fish.	Então, todo tipo de peixe.
+336	Blintzes, and there was a chocolate waterfall there.	Blintzes, e havia ali uma cascata de chocolate.
+337	Have you ever seen that?	Você já viu isso?
+338	A chocolate waterfall.	Uma cascata de chocolate.
+339	A river of fire, so to speak, flowing from a point, with strawberry bushes.	Um rio de fogo, por assim dizer, que flui de um ponto, com arbustos de morango.
+340	And you dip them in five dips: the first dip to remove anger, the second to receive an extra soul,	E você os mergulha em cinco mergulhos: o primeiro para tirar a raiva, o segundo para receber uma alma adicional,
+341	the third... you dip the strawberries, and then, thank HaShem, you eat	o terceiro... você mergulha os morangos, e então, graças a HaShem, você come
+342	it, satisfied. Someone in Miami told me, we were at his wedding, one of the students.	isso, satisfeito. Um conhecido em Miami me disse, estivemos no casamento dele, um dos alunos.
+343	Something wonderful, I tell you, all the children were happy because there was ice cream and blintzes, and an event, what a pity about the time, Niçoise salad	Algo maravilhoso, eu lhes digo, todas as crianças ficaram felizes, porque havia sorvete e blintzes, e um evento, uma pena o tempo, salada niçoise
+344	and eggs and whatever else was there, but it cost a lot of money. The groom also decided	e ovos e o que mais houvesse ali, mas custou muito dinheiro. O noivo também decidiu
+345	in honor of the occasion to wear white, as if he were a martyr, he decided he wanted to wear white, so he wore white,	em honra da ocasião vestir branco, como se fosse um mártir, decidiu que queria vestir branco, então vestiu branco,
+346	the bride white, and the whole event was also during Shavuot, close to Shavuot. Someone came to me in the middle of the chuppah,	a noiva branco, e todo o evento foi também em Shavuot, perto de Shavuot. Alguém veio a mim no meio da chupá,
+347	one of his students, ugh!	um dos alunos dele, ai!
+348	A student of mine.	Um aluno meu.
+349	I said to him, what happened?	Eu disse a ele: o que houve?
+350	He says, what is this now, they bring us milk here?	Ele diz: o que é isso agora, trazem leite para nós aqui?
+351	I said to him, so you won't eat a steak once, what happened?	Eu disse a ele: então você não vai comer um bife uma vez, e daí?
+352	You won't eat.	Você não vai comer.
+353	He said to me, I ate meat two hours ago.	Ele me disse: eu comi carne há duas horas.
+354	Do you know what a dairy wedding is?	Você sabe o que é um casamento lácteo?
+355	You ate meat two hours ago?	Você comeu carne há duas horas?
+356	You can't touch anything.	Não pode tocar em nada.
+357	So he went to the waiters: did they make this with milk or not with milk?	Então ele foi aos garçons: fizeram isso com leite ou sem leite?
+358	Is this pareve or not pareve?	Isso é pareve ou não é pareve?
+359	He said to him, everything here is dairy by nature, that's it.	Ele disse a ele: aqui tudo é lácteo por natureza, acabou.
