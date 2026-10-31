@@ -1,7 +1,7 @@
 # lane1-015
 
 1 of 17 lessons published · 12 skipped · status **pending**
-Tokens (1568 agent runs with a record): 8.1M in (mostly cache) · 3.70M out · API-equivalent 61.82
+Tokens (1606 agent runs with a record): 8.3M in (mostly cache) · 3.78M out · API-equivalent 63.04
 
 | lesson | state | detail |
 |---|---|---|
@@ -17,7 +17,7 @@ Tokens (1568 agent runs with a record): 8.1M in (mostly cache) · 3.70M out · A
 | v1CV2YJBZIw | skipped | |
 | -glyjn4lTB4 | waiting | 28/29 parts |
 | fnQ3lAZJB5g | waiting | 49/50 parts |
-| p0ZV7rOZor4 | skipped after 3 tries | 9 lines missing |
+| p0ZV7rOZor4 | skipped | |
 | eOpb1IF2d6I | skipped | |
 | V2NOvR1Lz0o | skipped | |
 | L1UROwNzaKQ | skipped | |
