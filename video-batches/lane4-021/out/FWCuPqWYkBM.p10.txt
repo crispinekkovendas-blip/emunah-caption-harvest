@@ -1,0 +1,40 @@
+400	A torch, the torch takes oxygen from the diggers, right?	Uma tocha, a tocha tira oxigênio dos escavadores, certo?
+401	Fire takes oxygen to burn, that's oxygen, right?	O fogo consome oxigênio para queimar, é oxigênio, certo?
+402	So the fire consumes it, you're underground, you have primitive tools, what do you do?	Então o fogo consome, você está debaixo da terra, tem ferramentas primitivas, o que você faz?
+403	You also have to haul out all the debris. How? What do you do?	Você também precisa tirar todo o entulho. Como? O que se faz?
+404	What do you do?	O que se faz?
+405	After all, in a straight line you have 320 meters; they made twists in the tunnel, today it is,	Afinal, em linha reta são 320 metros; fizeram curvas no túnel, hoje ele tem,
+406	after it was measured, 533 meters.	depois de medido, 533 metros.
+407	That's 66 percent more work.	Isso é 66 por cento de trabalho a mais.
+408	What?	O quê?
+409	Was it the municipality's doing here?	Foi coisa da prefeitura aqui?
+410	The municipality, this and that, they keep lengthening the route on you every time.	A prefeitura, essa gente, fica alongando o caminho toda hora.
+411	They dig, close, again, open, again, just so there's work for the contractors.	Cavam, fecham, de novo, abrem, de novo, só para haver trabalho para os empreiteiros.
+412	So again they connect, again they open, again, because everyone enjoys the budgets, everyone here takes a cut.	Aí de novo ligam, de novo abrem, de novo, porque todos se beneficiam dos orçamentos, todos aqui levam sua parte.
+413	What is this nonsense?	Que absurdo é esse?
+414	You're talking here about an addition of 213 meters of nonsense.	Você está falando de um acréscimo de 213 metros à toa.
+415	For nothing, pointless.	À toa, sem sentido.
+416	They didn't need them at all.	Não precisavam deles de jeito nenhum.
+417	Why did they make twists?	Por que fizeram curvas?
+418	You want to bring water from the Gichon to the Shiloach, no problem.	Você quer levar água do Gichon ao Shiloach, sem problema.
+419	Make a straight tunnel here.	Faça aqui um túnel reto.
+420	Why did you go in for me like this?	Para que me fez entrar por aí?
+421	You made me a winding tunnel like this.	Você me fez um túnel tortuoso assim.
+422	Clear?	Claro?
+423	Did you understand the question?	Entenderam a pergunta?
+424	A question.	Uma pergunta.
+425	The two main twists that trouble the researchers: the first is the northern one, we	As duas curvas principais que inquietam os pesquisadores: a primeira é a do norte, nós
+426	won't talk about it, and the second is the southern one, which interests us.	não falaremos dela, e a segunda é a do sul, que nos interessa.
+427	Gentlemen, I just want to sum up once more. Look here, this is the City of David, I will now give	Senhores, só quero resumir mais uma vez. Olhem aqui, esta é a Cidade de David, agora vou lhes dar
+428	you a close-up of this, all right?	um close-up disso, certo?
+429	This is the City of David, I'll give you a close-up of the southern tip of the City of David.	Esta é a Cidade de David, vou dar um close-up da ponta sul da Cidade de David.
+430	The southern tip of the City of David looks like this.	A ponta sul da Cidade de David é assim.
+431	Notice that you have here two completely unnecessary twists: this is the	Reparem que aqui há duas curvas totalmente desnecessárias: esta é a curva
+432	northern twist, which I'm not discussing today, we have no time; this is the long southern twist. Notice	do norte, da qual não falo hoje, não temos tempo; esta é a longa curva do sul. Reparem
+433	how big a twist. You could have dug the tunnel straight, like this, straight like this, into	que tamanho de curva. Poderiam ter escavado o túnel reto, assim, reto assim, até
+434	the pool. Why did you make such a big detour? Do you understand the question now?	a piscina. Para que fizeram um desvio tão grande? Entenderam agora a pergunta?
+435	Of course, the researcher Charles Clermont-Ganneau,	Claro, o pesquisador Charles Clermont-Ganneau,
+436	who was one of the greatest researchers of the Land of Israel in the 19th century, proposed in 1897 CE	que foi um dos maiores pesquisadores da Terra de Israel no século XIX, propôs em 1897 da era comum
+437	that this big southern detour below, they did not bring it	que neste grande desvio ao sul, aqui embaixo, eles não o levaram
+438	straight but made such a big detour, intended for what, if not	reto, mas fizeram um desvio tão grande, destinado a quê, senão
+439	to prevent damage to the burial estate of David and all his family	a evitar danos ao jazigo de David e de toda a sua família
