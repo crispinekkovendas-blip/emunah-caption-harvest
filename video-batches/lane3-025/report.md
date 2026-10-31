@@ -1,11 +1,11 @@
 # lane3-025
 
 13 of 16 lessons published · 2 skipped · status **pending**
-Tokens (173 agent runs with a record): 1.3M in (mostly cache) · 1.47M out · API-equivalent 18.79
+Tokens (190 agent runs with a record): 1.5M in (mostly cache) · 1.60M out · API-equivalent 20.13
 
 | lesson | state | detail |
 |---|---|---|
-| SeV6VMe8Vlw | waiting | 18/19 parts |
+| SeV6VMe8Vlw | ✗ will be redone (try 2) | 2 lines missing |
 | ykjHYeQMdBA | ✓ published | 554 lines · Vayera: circuncisão, três anjos e os três eixos da alma |
 | wlx6l6NDuFE | ✓ published | 709 lines · Introdução ao TES: teshuvá mi-yirá, hester e devekut |
 | cyy0_r_vPsg | ✓ published | 498 lines · Lech Lecha: de Avraham ao Neguev, a vontade de doar |
@@ -18,6 +18,6 @@ Tokens (173 agent runs with a record): 1.3M in (mostly cache) · 1.47M out · AP
 | MBZWJGich9A | ✓ published | 589 lines · O homem como Mikdash: Parashá Terumá e a hora atual |
 | ijqbCnX7_WE | ✓ published | 530 lines · Zohar: Dores de Parto, Dois Mashiachim e o Ben Ish Chai |
 | rUJiB6fHXpM | ✓ published | 667 lines · Elul: Ani leDodi, guematria 185 e o enigma do Kolbo |
-| 4WUIGs9LKmk | skipped after 3 tries | 13 lines missing |
-| mKMId6XdH2o | skipped after 3 tries | 4 lines missing |
+| 4WUIGs9LKmk | skipped | |
+| mKMId6XdH2o | skipped | |
 | Ud3D2ehnReQ | ✓ published | 67 lines · Oração e remoção de mau-olhado no túmulo do Chida |
