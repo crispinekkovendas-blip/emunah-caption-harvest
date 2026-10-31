@@ -1,0 +1,120 @@
+240	Put your lips like this.	Ponha os lábios assim.
+241	Got it?	Entendeu?
+242	Ah.	Ah.
+243	No, not like that.	Não, assim não.
+244	Close the lips like this.	Feche os lábios assim.
+245	Yes.	Sim.
+246	Okay.	Certo.
+247	Not like that, it's not a trumpet.	Assim não, não é uma trombeta.
+248	Got it?	Entendeu?
+249	Come, try my shofar, mine is a bit easier.	Venha, tente o meu shofar, o meu é um pouco mais fácil.
+250	Come.	Venha.
+251	Switch to beginners, this one is for advanced.	Passe para o de iniciantes, este é para avançados.
+252	Baruch.	Baruch.
+253	Okay, we'll switch to this one, go ahead.	Certo, vamos passar para este, vá em frente.
+254	Okay, let's see.	Certo, vamos ver.
+255	It's also bigger, more comfortable.	Também é maior, mais confortável.
+256	You're saying, just place them like this.	Você diz, é só colocar os lábios assim.
+257	How much... here is where the strength comes in.	Quanto... é aqui que entra a força.
+258	You give your all, of course.	Você se entrega por inteiro, claro.
+259	Ah, okay, you have to give...	Ah, certo, você tem que dar...
+260	It could be...	Pode ser...
+261	Not air, not air.	Não é ar, não é ar.
+262	Close, he said close.	Feche, ele disse feche.
+263	Do you always know?	Você sempre sabe?
+264	No, I'm just listening to the explanation.	Não, estou só ouvindo a explicação.
+265	Yes, I'm closing, but.	Sim, estou fechando, mas.
+266	What, me?	O quê, eu?
+267	Yes, come on, me.	Sim, vamos, eu.
+268	And that's what you're saying.	E é isso que você está dizendo.
+269	I'm allowed, we said.	Eu posso, nós dissemos.
+270	Allowed, allowed.	Pode, pode.
+271	Rather, like this.	É assim.
+272	Okay.	Certo.
+273	Pay attention.	Preste atenção.
+274	Wow, this is hard.	Nossa, isso é difícil.
+275	Got it?	Entendeu?
+276	Hard.	Difícil.
+277	Here, wait.	Aqui, espere.
+278	Try, it's not simple.	Tente, não é simples.
+279	I tried, it doesn't work, I did it.	Tentei, não funciona, eu fiz.
+280	Look, I'm using only the lips.	Olhe, estou usando só os lábios.
+281	Watch what I do.	Veja o que eu faço.
+282	Yes.	Sim.
+283	I'm not getting into that business.	Eu não entro nessa história.
+284	Want to try?	Quer tentar?
+285	No, no, you know.	Não, não, você sabe.
+286	I need, I need...	Preciso, preciso...
+287	Closing them.	Fechá-los.
+288	Not like that.	Assim não.
+289	Like this.	Assim.
+290	Look, look at the mouth.	Olhe, olhe para a boca.
+291	Got it?	Entendeu?
+292	I'll try, and if not, we'll meet next year.	Vou tentar, e se não der, nos encontramos no ano que vem.
+293	We'll meet next year, you can come to us.	Nos encontramos no ano que vem, você pode vir até nós.
+294	We'll meet next year.	Nos encontramos no ano que vem.
+295	It's not that simple.	Não é tão simples.
+296	No, but the attempt was brave on your part.	Não, mas a tentativa foi corajosa da sua parte.
+297	But I have to say that when I heard the tekiat shofar, it immediately reminded me of all our bereavement and wars,	Mas preciso dizer que, quando ouvi a tekiá do shofar, na hora me lembrei de todo o luto e das guerras,
+298	of the people of Israel and everything we go through.	do povo de Israel e de tudo que atravessamos.
+299	But why are these the associations that come to me right away when I hear it?	Mas por que são essas as associações que me vêm de imediato quando ouço isso?
+300	The verse of the shofar is: "From the strait I called to Elokim,	O versículo do shofar é: "Do aperto clamei a Elokim,
+301	answer me with relief." "From the strait": here it's narrow, and here it's	responde-me com largueza." "Do aperto": aqui é estreito, e aqui é
+302	wide.	largo.
+303	It's not easy to be Jewish.	Não é fácil ser judeu.
+304	From the strait I called to Elokim, answer me with largeness.	Do aperto clamei a Elokim, responde-me com largueza.
+305	That means this whole subject is for people who feel they are in a strait.	Ou seja, todo esse tema é para quem se sente apertado.
+306	People whose lives are fine don't need it.	Quem está com a vida tranquila não precisa disso.
+307	Say, Jews in the Diaspora who now suddenly pass by synagogues, does hearing	Digamos, judeus na Diáspora que agora, de repente, passam por sinagogas: ouvir
+308	the shofar count for them too?	o shofar vale também para eles?
+309	If they're not Jews?	E se eles não forem judeus?
+310	If they think about it, and if they want to...	Se pensarem nisso, e se quiserem...
+311	If there's intention?	Se houver intenção?
+312	Yes, if they want to be refined, to be purer, better.	Sim, se quiserem se refinar, ser mais puros, melhores.
+313	So maybe we'll teach the world a bit about...	Então talvez a gente ensine um pouco ao mundo sobre...
+314	about thinking, about...	sobre reflexão, sobre...
+315	Yes, and until then, look, until the world learns, let's say thank you very much, Rabbi.	Sim, e até lá, olha, até o mundo aprender, vamos dizer muito obrigado, Rabino.
+316	With pleasure.	Com prazer.
+317	Thank you very much.	Muito obrigado.
+318	I promise we'll meet next year, so I'll practice...	Prometo que nos encontramos no ano que vem, então vou treinar...
+319	You're invited to us with love, I'll teach you.	Você está convidado, com carinho, eu te ensino.
+320	I'll practice until then, I promise to come better prepared.	Vou treinar até lá, prometo vir mais preparado.
+321	It really shook me inside.	Isso realmente me abalou por dentro.
+322	I saw, you know I'm a bit, I...	Eu vi, sabe, estou meio, eu...
+323	Why?	Por quê?
+324	Because it comes from memories, actually?	Porque vem de lembranças, na verdade?
+325	I don't know, it's like...	Não sei, é como se...
+326	I'm a bit like...	Estou meio assim...
+327	It gets to us, right?	Mexe com a gente, né?
+328	Why?	Por quê?
+329	Because I assume it's because you heard it as a girl in synagogue and so on.	Porque imagino que seja por você ter ouvido isso quando menina na sinagoga e assim por diante.
+330	Yes?	Sim?
+331	It brings it up?	Isso traz à tona?
+332	Yes, I assume so.	Sim, imagino que sim.
+333	I don't have that.	Eu não tenho isso.
+334	Wow, it did to me...	Nossa, isso me causou...
+335	In our Mizrahi slang it's called "rama."	No nosso jeito mizrahi, isso se chama "rama".
+336	Do you know what rama is?	Você sabe o que é rama?
+337	Yes, a heaviness.	Sim, um peso no peito.
+338	A heaviness.	Um peso no peito.
+339	That's what it did.	Foi isso que causou.
+340	Thank you very much to Rav Gottlieb.	Muito obrigado ao Rav Gottlieb.
+341	Thank you very much.	Muito obrigado.
+342	Thank you very much.	Muito obrigado.
+343	Shanah tovah, gmar chatimah tovah.	Shaná tová, guemar chatimá tová.
+344	Thank you.	Obrigado.
+345	Thank you all.	Obrigado a todos.
+346	And once again good morning to Omri Peled, teacher, writer, lecturer.	E mais uma vez bom dia a Omri Peled, professor, escritor, palestrante.
+347	Baruch HaShem.	Baruch HaShem.
+348	How are you?	Como vai?
+349	Baruch HaShem, thank you very much.	Baruch HaShem, muito obrigado.
+350	Okay, the process, let's talk for a moment.	Certo, o processo, vamos conversar um instante.
+351	You're actually speaking about the process of forgiveness.	Você está falando, na verdade, do processo do perdão.
+352	A simple process, not simple.	Um processo simples, não simples.
+353	Explain a little the matter of teshuvah.	Explique um pouco a questão da teshuvá.
+354	How much time do you have?	Quanto tempo vocês têm?
+355	Not much, I have to say.	Não muito, preciso dizer.
+356	But you've been in a process of teshuvah in recent years?	Mas você está num processo de teshuvá nos últimos anos?
+357	Totally, totally.	Totalmente, totalmente.
+358	How did it start?	Como começou?
+359	Not only me, all the...	Não só eu, todos os...

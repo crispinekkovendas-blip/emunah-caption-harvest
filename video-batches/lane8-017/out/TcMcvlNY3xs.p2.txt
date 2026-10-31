@@ -1,0 +1,120 @@
+240	Since it's less than double, we take off one, because the double...	Como é menos que o dobro, tira-se um, porque o dobro...
+241	In one who slaughters and sells, there are no payments of four and five at all.	No caso de quem abate e vende, não há pagamento de quatro e cinco de forma alguma.
+242	These are the matters.	Essas são as questões.
+243	The Mishnah says: an unpaid guardian does not take an oath, and a paid guardian	A Mishná diz: o guarda gratuito não jura, e o guarda remunerado
+244	does not pay.	não paga.
+245	What does this mean?	O que isso significa?
+246	Say a person was guarding his friend's land.	Digamos que uma pessoa estava guardando a terra do seu companheiro.
+247	Or guarding documents, or hekdeshot, or slaves.	Ou guardando documentos, ou hekdeshot, ou escravos.
+248	And some mishap occurred.	E aconteceu algum imprevisto.
+249	They were stolen, and so on.	Foram roubados, e assim por diante.
+250	An unpaid guardian doesn't even need to swear.	O guarda gratuito nem precisa jurar.
+251	Since he wasn't negligent.	Pois ele não foi negligente.
+252	And a paid guardian normally pays for theft and loss; here he doesn't need to pay.	E o guarda remunerado normalmente paga por furto e perda; aqui ele não precisa pagar.
+253	Bartenura says: for it is written, "If a man gives to his neighbor," a klal,	Diz o Bartenura: pois está escrito: "Se alguém der ao seu companheiro", um klal,
+254	"a donkey or an ox or a sheep," a prat, "and any animal," again a klal.	"jumento, boi ou ovelha", um prat, "e qualquer animal", novamente um klal.
+255	Klal, prat and klal: you include only what is like the prat.	Klal, prat e klal: só se inclui aquilo que é semelhante ao prat.
+256	What the prat specifies is a movable item whose body is money.	O que o prat especifica é algo móvel cujo corpo é dinheiro.
+257	So too any movable item whose body is money. Thus we learned that land, documents and slaves are excluded.	Assim também todo objeto móvel cujo corpo é dinheiro. Com isso aprendemos que terras, documentos e escravos são excluídos.
+258	Hekdeshot: the verse says "his neighbor," and not hekdesh.	Os hekdeshot: o versículo diz "o seu companheiro", e não hekdesh.
+259	Rabi Shimon says: consecrated animals for which he is liable for their responsibility. What are these? A person	Rabi Shimon diz: animais consagrados pelos quais ele é responsável. O que são? Uma pessoa
+260	who says "I take upon myself an olah," and if it gets lost, he must bring another.	que diz "assumo sobre mim uma olá", e se ela se perder, ele precisa trazer outra.
+261	These do have ona'á.	Nesses há ona'á.
+262	Why do they have ona'á?	Por que há ona'á neles?
+263	Because he is liable for their responsibility, so it is considered as not yet...	Porque ele é responsável por eles, então se considera que ainda não...
+264	It still isn't hekdesh property.	Ainda não é propriedade do hekdesh.
+265	And one not liable for their responsibility has no ona'á.	E aquele que não é responsável por eles não tem ona'á.
+266	But if he said, "This is an olah," he is not liable for its responsibility.	Mas se ele disse: "Esta é uma olá", não é responsável por ela.
+267	If it is lost, he doesn't need to bring another.	Se ela se perder, não precisa trazer outra.
+268	So it already belongs to hekdesh.	Então ela já pertence ao hekdesh.
+269	So there is no ona'á.	Portanto não há ona'á.
+270	Rabi Yehudá... But that is the opinion of Rabi Shimon; the halachah follows the Sages.	Rabi Yehudá... Mas essa é a opinião de Rabi Shimon; a halachá segue os Sábios.
+271	That it is considered hekdesh.	Que isso é considerado hekdesh.
+272	Even if he said, "I take it upon myself."	Mesmo que ele tenha dito: "assumo sobre mim".
+273	Once he has already set the animal aside, it is considered hekdesh.	Uma vez que ele já separou o animal, é considerado hekdesh.
+274	Rabi Yehudá says: even one who sells a Sefer Torá, an animal or a pearl has no ona'á.	Rabi Yehudá diz: até quem vende um Sefer Torá, um animal ou uma pérola não tem ona'á.
+275	The explanation: say a person has a Sefer Torá now.	A explicação: digamos que uma pessoa tem agora um Sefer Torá.
+276	How much do you want for your Sefer Torá?	Quanto você quer pelo seu Sefer Torá?
+277	I want 750 thousand shekels for it.	Quero por ele 750 mil shekels.
+278	For what?	Por quê?
+279	A Sefer Torá?	Um Sefer Torá?
+280	What's wrong with you?	O que há com você?
+281	Even those who inflate the price take 150 thousand?	Até os que inflacionam o preço aceitam 150 mil?
+282	200 thousand?	200 mil?
+283	Huh?	Hein?
+284	Yes, rabbi? Come on...	Sim, rabino? Ora, vamos...
+285	That's how much you take?	É isso que você leva?
+286	But how did you get to seven hundred fifty thousand?	Mas como você chegou a setecentos e cinquenta mil?
+287	He says, it's my Sefer Torá, that's how I value it.	Ele diz: é o meu Sefer Torá, é assim que eu o avalio.
+288	Okay?	Certo?
+289	Or for example, a person sells an animal, he says, listen, this isn't an ordinary animal.	Ou, por exemplo, uma pessoa vende um animal e diz: escute, este não é um animal comum.
+290	This is a top-quality animal.	Este é um animal de primeira qualidade.
+291	Or a pearl, also a precious stone.	Ou uma pérola, também uma pedra preciosa.
+292	So Rabi Yehudá says there is no ona'á.	Então Rabi Yehudá diz que não há ona'á.
+293	They said to him: they only said these; they said to him, don't add things.	Disseram-lhe: só se disse isto; disseram-lhe: não acrescente coisas.
+294	The Sages said only these things that we have stated.	Os Sábios disseram apenas estas coisas que mencionamos.
+295	Slaves, lands, documents, hekdeshot.	Escravos, terras, documentos, hekdeshot.
+296	And therefore Bartenura says that Rabi Yehudá's view is that even for one who sells a Sefer Torá, since	E por isso o Bartenura diz que a opinião de Rabi Yehudá é que até para quem vende um Sefer Torá, pois
+297	there is no limit to the price of a pearl or an animal, because a person wants to pair them; he wants now to take an animal	não há limite para o preço de uma pérola ou de um animal, porque a pessoa quer emparelhá-los; quer agora pegar um animal
+298	and join it to another animal in order to plow.	e juntá-lo a outro animal para arar.
+299	Or a pearl: he wants to add another pearl to make a nice bracelet or necklace.	Ou uma pérola: quer acrescentar outra pérola para fazer uma bela pulseira ou colar.
+300	One who has a fine ox for plowing searches for one like it to yoke together with it, for if he yokes it with a weaker one,	Quem tem um belo boi para arar procura outro igual para atrelá-lo junto, pois se o atrelar com um mais fraco,
+301	it spoils it; so too a beautiful pearl, to set together with its companion in gold.	ele o estraga; e assim também uma bela pérola, para engastar com sua companheira em ouro.
+302	To make a matched set. And the halachah is neither like Rabi Yehudá nor like Rabi Shimon, says	Para fazer um conjunto. E a halachá não é nem como Rabi Yehudá nem como Rabi Shimon, diz
+303	Bartenura.	o Bartenura.
+304	Mishnah 10. The Mishnah says: just as there is ona'á in buying and selling, so there is ona'á in words.	Mishná 10. A Mishná diz: assim como há ona'á na compra e venda, há ona'á também nas palavras.
+305	One should not say to him, "How much is this item?" when he doesn't want to buy it.	Não se deve dizer-lhe: "Quanto custa este objeto?", se não quer comprá-lo.
+306	If he was a baal teshuvá, one should not say to him, "Remember your earlier deeds."	Se ele era baal teshuvá, não se deve dizer-lhe: "Lembre-se dos seus atos anteriores."
+307	If he is the son of converts, one should not say to him, "Remember the deeds of your fathers."	Se ele é filho de guerim, não se deve dizer-lhe: "Lembre-se dos atos dos seus pais."
+308	As it is said, "You shall not wrong a convert, nor oppress him."	Como está dito: "Não oprimirás o guer, nem o afligirás."
+309	So this Mishnah, my masters, teaches us	Então esta Mishná, meus senhores, nos ensina
+310	that just as there is ona'á, where a person hurts his friend by selling to him at a high price, or	que, assim como existe ona'á, em que uma pessoa fere o seu companheiro vendendo-lhe caro, ou
+311	the buyer deceived the seller and bought from him cheaply, and thereby brought	o comprador enganou o vendedor e comprou dele barato, e com isso trouxe
+312	him to distress, so too, just as ona'á with money, there is ona'á with words, and a person can also wrong	a ele sofrimento, assim também, como a ona'á com dinheiro, existe a ona'á com palavras, e uma pessoa também pode ofender
+313	his friend by speech; it doesn't have to be done with money.	o seu companheiro com a fala; não é preciso que seja com dinheiro.
+314	Bartenura says that it is said, "And you shall not wrong one another, but you shall fear your Elokecha."	Diz o Bartenura que está dito: "Não oprimireis uns aos outros, mas temerás o teu Elokecha."
+315	From the fact that "you shall fear" is written, we learn there is verbal ona'á, which is said of words whose good	Do fato de estar escrito "temerás", aprendemos que existe ona'á de palavras, que se diz daquelas cujo bem
+316	or bad cannot be discerned except by the heart of the speaker, who knows whether he intends for bad or for good.	ou mal só pode ser discernido pelo coração de quem fala, que sabe se tem má ou boa intenção.
+317	Do you know what this means?	Vocês sabem o que isso significa?
+318	A person can come and say to his friend: listen, why are you now arguing with	Alguém pode chegar e dizer ao seu companheiro: escute, por que você agora discute com
+319	Torah scholars?	talmidei chachamim?
+320	You're just a baal teshuvá, what were you doing only a few years ago?	Você é só um baal teshuvá, o que você fazia há poucos anos?
+321	What were you doing a few years ago?	O que você fazia há poucos anos?
+322	You used to do such things, and you'd go to the zoo and eat peanuts, what	Você fazia coisas assim, ia ao zoológico e comia amendoim, o que
+323	were you doing?	você fazia?
+324	…	…
+325	Now that one is hurt; they go to the offender, and he says to him, listen, that's not nice, why do you talk like that?	Agora aquele ficou ofendido; vão ao ofensor, e ele lhe diz: escute, isso não é bonito, por que você fala assim?
+326	Listen, he says, why?	Escute, ele diz, por quê?
+327	I meant it for good, I meant it for his benefit, so that he'd understand that it really takes	Eu quis dizer para o bem, para o benefício dele, para que entenda que de fato é preciso
+328	proportion, that even if he has now learned a little Torah, he should know.	ter proporção, que mesmo tendo estudado um pouco de Torá agora, ele saiba.
+329	That he still can't argue with other Torah scholars, and so on.	Que ele ainda não pode discutir com outros talmidei chachamim, e assim por diante.
+330	Now, whether he really meant it for good or not,	Agora, se ele realmente teve boa intenção ou não,
+331	that is something only HaShem knows.	isso é algo que só HaShem sabe.
+332	It is something entrusted to the heart.	É algo confiado ao coração.
+333	Whether he meant to hurt his friend out of jealousy and envy, seeing that here,	Se ele quis ferir o seu companheiro por inveja e mau-olhado, vendo que aqui,
+334	look, a baal teshuvá of a few years succeeds in being more learned in Torah than people who have studied	veja só, um baal teshuvá de poucos anos consegue ser mais versado em Torá do que pessoas que estudam
+335	for 20 and 30 years.	há 20 e 30 anos.
+336	Does it pain his heart to see such a thing, so that he has jealousy and envy and all	Será que seu coração sofre ao ver algo assim, e por isso tem inveja, mau-olhado e todos
+337	those evil traits?	esses maus traços?
+338	Or does he truly want to guide him a little and set him straight,	Ou ele realmente quer orientá-lo um pouco e endireitá-lo,
+339	so that he knows how to advance step by step and knows that...	para que ele saiba avançar passo a passo e saiba que...
+340	So this is something entrusted to the heart.	Então isso é algo confiado ao coração.
+341	That is why it is written, "and you shall fear your Elokecha."	Por isso está escrito: "e temerás o teu Elokecha."
+342	That is, in essence, the explanation of the Gemara.	Essa é, em essência, a explicação da Guemará.
+343	Therefore our Mishnah says: just as there is ona'á in buying and selling, so there is ona'á in words; one should not say, "How much is this item?" when he	Por isso a nossa Mishná diz: assim como há ona'á na compra e venda, há ona'á nas palavras; não se deve dizer: "Quanto custa este objeto?" quando
+344	doesn't want to buy.	não quer comprar.
+345	That is, a person is forbidden to walk into a store, or to inquire of so-and-so, how much do you	Ou seja, é proibido a uma pessoa entrar numa loja, ou perguntar a fulano: por quanto você
+346	sell this for, and how much does this cost, and how much does that cost, and so on, and he inquires about things, and then: okay,	vende isso, quanto custa isto, quanto custa aquilo, e assim por diante, e fica averiguando as coisas, e depois: está bem,
+347	thank you very much.	muito obrigado.
+348	What, thank you very much?	Como, muito obrigado?
+349	I've been with you a quarter of an hour, you wasted my time, you don't want to buy?	Estou há um quarto de hora com você, você me fez perder tempo, não quer comprar?
+350	He said, no, it's just my curiosity, I wanted...	Ele disse: não, é só a minha curiosidade, eu queria...
+351	So therefore, my masters, this is called verbal ona'á.	Por isso, meus senhores, isso se chama ona'á de palavras.
+352	But if he says in advance, listen, I don't intend to buy.	Mas se ele diz de antemão: escute, não pretendo comprar.
+353	But I'm curious, I don't know how much it costs and what it does, and so on, I want to find out.	Mas estou curioso, não sei quanto custa nem para que serve, e assim por diante, quero me informar.
+354	Certainly there is no problem in that; it's his choice.	Certamente não há nenhum problema nisso; é escolha dele.
+355	If he has no time for you, he'll say to you, listen, if you don't intend to buy, then I don't have	Se ele não tem tempo para você, dirá: escute, se você não pretende comprar, então não tenho
+356	free time right now.	tempo livre agora.
+357	And if he answers you, that's his choice, so there's no problem in that.	E se ele lhe responde, é escolha dele, então não há nenhum problema nisso.
+358	If a person inquires, but he is unsure whether he wants to buy or not.	Se uma pessoa se informa, mas está em dúvida se quer comprar ou não.
+359	Even when in doubt it is permitted to inquire; no problem.	Mesmo na dúvida é permitido se informar; não há problema.
