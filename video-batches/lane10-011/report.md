@@ -1,19 +1,19 @@
 # lane10-011
 
-0 of 12 lessons published · 9 skipped · status **pending**
-Tokens (952 agent runs with a record): 4.9M in (mostly cache) · 2.61M out · API-equivalent 41.28
+0 of 12 lessons published · 11 skipped · status **pending**
+Tokens (1002 agent runs with a record): 5.1M in (mostly cache) · 2.74M out · API-equivalent 43.26
 
 | lesson | state | detail |
 |---|---|---|
 | jUvpq831Gjc | skipped | |
 | QBHQwdHLg7M | skipped | |
-| B40fco4kwuo | waiting | 30/31 parts |
+| B40fco4kwuo | skipped after 3 tries | 3 lines missing |
 | CM-id2qn9Uk | skipped | |
-| JnI74lxJVCQ | waiting | 17/18 parts |
+| JnI74lxJVCQ | skipped after 3 tries | 1 lines missing |
 | 5QrKeNCEleY | skipped | |
 | 1WPDlC-F1Vw | skipped | |
-| FmM8o31AzOc | skipped after 3 tries | 18 lines missing |
+| FmM8o31AzOc | skipped | |
 | Ic8lOSB_FHg | skipped | |
-| zz3J06SPFt0 | skipped after 3 tries | line 200 twice |
+| zz3J06SPFt0 | skipped | |
 | gpTawZWgjJk | waiting | 33/34 parts |
 | bOymIv5HHlw | skipped | |
