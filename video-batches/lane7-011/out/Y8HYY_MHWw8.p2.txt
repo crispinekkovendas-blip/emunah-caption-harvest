@@ -1,0 +1,40 @@
+80	Take the simple form: Yod-Kuf, Vav-Kuf, as they stand on their own.	Pegue a forma simples: yod-kuf, vav-kuf, cada uma por si mesma.
+81	Take the milui on its own. What is the milui of yod?	Pegue o milui por si só. Qual é o milui do yod?
+82	Vav-dalet.	Vav-dalet.
+83	What is the milui of alef?	Qual é o milui do alef?
+84	What is vav?	E o vav?
+85	Alef, vav.	Alef, vav.
+86	Take only the milui, take only the simple form, each one separately: which is more important?	Pegue só o milui, pegue só a forma simples, cada um separado: qual é mais importante?
+87	The milui is more important.	O milui é mais importante.
+88	However, when the two are together, the name and its milui, the name itself, in its simple form, is more important,	Porém, quando os dois estão juntos, o nome e o seu milui, o nome em si, na sua forma simples, é mais importante,
+89	more excellent than its milui.	superior ao seu milui.
+90	Because the milui fills it.	Porque o milui o preenche.
+91	It fills it, and then it is completed, it is whole; the simple form is completed, and this simple form is more important	Ele o preenche, e então ele se completa, fica inteiro; a forma simples se completa, e essa forma simples é mais importante
+92	than the milui.	do que o milui.
+93	Regarding the lack and the damage to the names, the Rav wrote, this is in the Pinkasim.	Sobre a carência e o dano aos nomes, o Rav escreveu, isso está nos Pinkasim.
+94	He writes as follows: there is one who is not called by his name but only by some nickname.	Ele escreve assim: há quem não seja chamado pelo seu nome, mas apenas por algum apelido.
+95	Everyone has his own name, and there are nicknames by which people refer to him.	Cada um tem o seu nome, e há apelidos pelos quais as pessoas o chamam.
+96	People.	As pessoas.
+97	So there is one who is not called by his name but only by some nickname.	Então há quem não seja chamado pelo seu nome, mas apenas por algum apelido.
+98	Why?	Por quê?
+99	Because of his merit.	Por causa do seu mérito.
+100	Because in his intellect and his ways he rose to the content of his name.	Porque, em seu intelecto e em seus caminhos, ele se elevou ao conteúdo do seu nome.
+101	Say he has	Digamos que ele tenha
+102	special qualities, refined character traits.	qualidades especiais, atributos de caráter aprimorados.
+103	Of kindness, so they call him the man of kindness.	De bondade, então o chamam de homem da bondade.
+104	The man of kindness.	O homem da bondade.
+105	This means that...	Isso quer dizer que...
+106	Right?	Certo?
+107	This is more...	Isso é mais...
+108	Here is the nickname.	Aqui está o apelido.
+109	His name is Yossi.	O nome dele é Yossi.
+110	But he is such a man, he has such lofty character traits.	Mas ele é um homem assim, tem traços de caráter tão elevados.
+111	He does such great acts of kindness.	Ele pratica atos de bondade tão grandes.
+112	They call him the man of kindness.	Chamam-no de homem da bondade.
+113	The pillar of kindness.	O pilar da bondade.
+114	That is his nickname.	Esse é o apelido dele.
+115	This shows that...	Isso mostra que...
+116	As it says here, he is not called by his name because of his merit, because of his merit.	Como diz aqui, ele não é chamado pelo seu nome por causa do seu mérito, por causa do seu mérito.
+117	Because in his intellect and his ways he rose to the content of his name.	Porque, em seu intelecto e em seus caminhos, ele se elevou ao conteúdo do seu nome.
+118	And the world senses this, and they give the nicknames, so they clothed him with the nickname, man of kindness, pillar of kindness.	E o mundo sente isso e dá os apelidos; então o vestiram com o apelido: homem da bondade, pilar da bondade.
+119	Or whatever nickname it may be.	Ou qualquer outro apelido que seja.
