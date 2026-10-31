@@ -1,14 +1,14 @@
 # lane5-025
 
-0 of 7 lessons published · 0 skipped · status **pending**
-Tokens (115 agent runs with a record): 0.7M in (mostly cache) · 0.46M out · API-equivalent 6.67
+2 of 7 lessons published · 0 skipped · status **pending**
+Tokens (168 agent runs with a record): 1.0M in (mostly cache) · 0.62M out · API-equivalent 8.42
 
 | lesson | state | detail |
 |---|---|---|
-| 2x7Votl8LVM | waiting | 19/21 parts |
-| ECQBZAW3bBg | waiting | 16/17 parts |
-| ZnuJgUH_WeE | waiting | 27/29 parts |
-| 5rnoC6y8Mf8 | ✗ will be redone (try 1) | 2 lines missing |
-| Gex1ZbQ5YTw | ✗ will be redone (try 1) | 47 lines missing |
-| fugarMbiezI | ✗ will be redone (try 1) | 28 lines missing |
-| LzhZYqPidyg | ✗ will be redone (try 1) | 1 lines missing |
+| 2x7Votl8LVM | waiting | 20/21 parts |
+| ECQBZAW3bBg | ✗ will be redone (try 1) | 1 lines missing |
+| ZnuJgUH_WeE | ✓ published | 1125 lines · Etz Chaim: Avraham, Sara e o preparo da Nukva para gerar |
+| 5rnoC6y8Mf8 | ✗ will be redone (try 2) | 8 lines missing |
+| Gex1ZbQ5YTw | waiting | 8/9 parts |
+| fugarMbiezI | ✗ will be redone (try 2) | 8 lines missing |
+| LzhZYqPidyg | ✓ published | 256 lines · Zocher chasdei avot: HaShem nos prepara o coração para dar |
