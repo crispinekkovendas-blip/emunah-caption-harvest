@@ -1,0 +1,120 @@
+0	If you're leaving, then I don't have...	Se você vai embora, então eu não tenho...
+1	I don't have internet.	Eu não tenho internet.
+2	I like my internet.	Eu gosto da minha internet.
+3	Okay?	Certo?
+4	Until the internet.	Até a internet.
+5	Until the internet, fine.	Até a internet, tudo bem.
+6	Thank you	Muito
+7	very much.	obrigado.
+8	Is just one enough?	Só um basta?
+9	One microphone?	Um microfone?
+10	Okay, this is the Pixel.	Certo, este é o Pixel.
+11	That's it.	Pronto.
+12	Only one microphone?	Só um microfone?
+13	What?	O quê?
+14	There are two.	Tem dois.
+15	There are	Tem
+16	two?	dois?
+17	The second one works.	O segundo funciona.
+18	We'll sort it out.	Nós resolvemos isso.
+19	Wait	Espere
+20	a moment.	um momento.
+21	Was someone supposed to talk to me today?	Alguém precisava falar comigo hoje?
+22	Did someone schedule a meeting with me today?	Alguém marcou uma reunião comigo hoje?
+23	Did she come?	Ela veio?
+24	And did she come?	E ela veio?
+25	No.	Não.
+26	Ah, she didn't.	Ah, ela não veio.
+27	Nobody knows.	Ninguém sabe.
+28	Okay.	Tudo bem.
+29	Because my schedule says yes, that it's a meeting.	Porque na minha agenda está escrito que sim, que é uma reunião.
+30	Hello, everyone.	Olá a todos.
+31	Introduction to the Talmud Eser HaSefirot.	Introdução ao Talmud Eser HaSefirot.
+32	Item 59.	Item 59.
+33	After a person	Depois que a pessoa
+34	merits teshuvah mi-yirah.	merece a teshuvá mi-yirá.
+35	Teshuvah mi-yirah is not just words,	A teshuvá mi-yirá não é só palavras,
+36	there is a laundering	existe uma lavagem
+37	of words in our generations, but rather it is a real state.	de palavras em nossas gerações, mas ela é um estado real.
+38	It means a clear perception of the providence of reward and punishment.	Significa a percepção clara da hashgachá de recompensa e castigo.
+39	That is, just as in nature a person knows what will happen to him if	Ou seja, assim como na natureza a pessoa sabe o que acontecerá com ela se
+40	a car runs over him, that is clear to him.	um carro passar por cima dela, isso é claro para ela.
+41	So too after a return in teshuvah	Assim também, depois de um retorno em teshuvá
+42	that is true, a person is meant to perceive with complete perception	verdadeira, a pessoa deve perceber com percepção completa
+43	what will happen to him when he enters states of sin	o que lhe acontecerá quando entrar em estados de pecado
+44	and what will happen to him when he fulfills the mitzvot.	e o que lhe acontecerá quando cumprir as mitsvot.
+45	This is called the providence of reward and punishment. It is a thing	Isso se chama hashgachá de recompensa e castigo. É algo
+46	real and tangible, and as long as a person has not	real e concreto, e enquanto a pessoa não
+47	merited it, it means he has not yet returned in teshuvah.	merece isso, significa que ela ainda não fez teshuvá.
+48	Until he is sure he won't sin, that is, just as he is sure	Até ter certeza de que não pecará, ou seja, assim como ela tem certeza
+49	that a person won't enter a situation where a car runs over him,	de que não entrará numa situação em que um carro passe por cima dela,
+50	unless he goes mad. So too here.	a menos que enlouqueça. Assim também aqui.
+51	Behold, the hester within hester is completely corrected for him.	Eis que o hester besoch hester fica totalmente corrigido para ele.
+52	We learned that there is a state of concealment,	Aprendemos que existe um estado de ocultamento,
+53	where it is hidden from the person that Someone is hiding here,	em que fica oculto da pessoa que há Alguém se escondendo aqui,
+54	which is a state of complete disconnection.	o que é um estado de desconexão total.
+55	So he says, he is speaking about a person who normally	Então ele diz: ele fala de uma pessoa que normalmente
+56	is in a single hester, meaning that he	está em um hester simples, ou seja, que ele
+57	believes that there is a Divine reality here that hides,	acredita que há aqui uma realidade Divina que se oculta,
+58	except that because he sometimes falls	só que, como às vezes ele cai
+59	into very serious transgressions, it makes him fall even further,	em transgressões muito graves, isso o faz cair ainda mais,
+60	and...	e...
+61	disconnect completely from any connection with a Divine reality,	desconectar-se totalmente de qualquer ligação com uma realidade Divina,
+62	which is called hester within hester: it is hidden from him that Elokim is hiding here.	o que se chama hester besoch hester: fica oculto dele que Elokim está se escondendo aqui.
+63	So he says that through teshuvah, teshuvah mi-yirah,	Então ele diz que, por meio da teshuvá, a teshuvá mi-yirá,
+64	he attains reward and punishment.	ele alcança a recompensa e o castigo.
+65	Then this darkness, this hell of hester within	Então essa escuridão, esse inferno do hester besoch
+66	hester, is removed.	hester, é removido.
+67	Why?	Por quê?
+68	Because he sees plainly. What is "plainly"? Explicitly,	Porque ele vê claramente. O que é "claramente"? Explicitamente,
+69	that there is providence of reward and punishment.	que existe hashgachá de recompensa e castigo.
+70	That is, there is a Divine Being here who gives reward and gives	Ou seja, há aqui um Ser Divino que dá recompensa e dá
+71	punishment.	castigo.
+72	And it is clear to him now, as he merits it, that all the multitude of suffering he felt	E fica claro para ele agora, ao merecer isso, que todo o sofrimento que ele sentiu
+73	earlier was a punishment from His providence, blessed be He,	antes era um castigo da hashgachá d'Ele, bendito seja,
+74	for the sins he committed, and the matter was revealed retroactively,	pelos pecados que cometeu, e a questão se revelou retroativamente,
+75	revealed retroactively that he had then made a bitter mistake,	revelou-se retroativamente que ele cometera então um erro amargo,
+76	for he thought everything was chance, that no Divine Being	pois pensava que tudo era acaso, que nenhum Ser Divino
+77	is involved and present here, giving reward and giving punishment.	está envolvido e presente aqui, dando recompensa e dando castigo.
+78	That is called hester within hester. So now that he does attain the reward and does	Isso se chama hester besoch hester. Agora que ele alcança a recompensa e
+79	attain the punishment, the hester within hester is corrected.	alcança o castigo, o hester besoch hester está corrigido.
+80	And therefore these zedonot are uprooted from their root.	E por isso essas zedonot são arrancadas pela raiz.
+81	And the state of hester within hester, because of the severity of the disconnection, he	E o estado de hester besoch hester, pela gravidade da desconexão, ele
+82	calls zedonot, deliberate sin.	chama de zedonot, transgressão deliberada.
+83	That is a powerful wickedness, so he calls the intensity	Isso é uma maldade poderosa, então ele chama a intensidade
+84	of this disconnection "deliberate sin."	dessa desconexão de "transgressão deliberada".
+85	And therefore these zedonot are uprooted from their root, though not completely,	E por isso essas zedonot são arrancadas pela raiz, embora não totalmente,
+86	but they become shegagot for him.	mas se tornam shegagot para ele.
+87	That is, similar	Ou seja, semelhantes
+88	to the transgressions he committed in the state of a single hester,	às transgressões que cometeu no estado de um hester simples,
+89	in which he stumbled due to confusion of mind	nas quais tropeçou por confusão da mente
+90	that came to him from the multitude of suffering, which drives a person	que lhe veio da multidão de sofrimentos, que tira a pessoa
+91	out of his mind, which are considered only shegagot.	do juízo, e que são consideradas apenas shegagot.
+92	That is, when he was in a single hester,	Ou seja, quando ele estava em um hester simples,
+93	what is a single hester?	o que é um hester simples?
+94	It is that he believes in general that Elokim is here and oversees everything,	É que ele acredita, em geral, que Elokim está aqui e supervisiona tudo,
+95	but sometimes, because of many transgressions, he falls into hester within hester.	mas às vezes, por causa de muitas transgressões, cai no hester besoch hester.
+96	So now that he has the perception of reward and punishment, the zedonot of	Então agora que ele tem a percepção de recompensa e castigo, as zedonot do
+97	hester within hester are turned into shegagot.	hester besoch hester são convertidas em shegagot.
+98	That is, their severity goes down.	Ou seja, a gravidade delas diminui.
+99	And why is there Baal HaSulam here?	E por que Baal HaSulam diz isso aqui?
+100	It doesn't add up for me.	Isso não faz sentido para mim.
+101	No, it doesn't add up.	Não, não faz sentido.
+102	I'll say it: if he reached understanding, and then in practice	Vou dizer: se ele chegou ao entendimento, e então, na prática,
+103	he stopped behaving in a certain way that brought him	parou de se comportar de uma certa maneira que o levou
+104	to many sufferings, then these sufferings should at least stop.	a muitos sofrimentos, então esses sofrimentos deveriam ao menos cessar.
+105	And here it says that from the multitude of sufferings he again falls into shegagot.	E aqui está escrito que, da multidão de sofrimentos, ele cai de novo em shegagot.
+106	Yes.	Sim.
+107	"That he felt earlier."	"Que ele sentiu antes."
+108	Regarding the multitude of sufferings that he felt	Sobre a multidão de sofrimentos que ele sentiu
+109	earlier: all his life he felt sufferings.	antes: a vida inteira ele sentiu sofrimentos.
+110	What are sufferings?	O que são sofrimentos?
+111	Being cut off from the Creator	Estar desconectado do Criador
+112	is suffering.	é sofrimento.
+113	Yes.	Sim.
+114	What is this about, in the Introduction to the Talmud Eser HaSefirot?	Do que se trata aqui, na Introdução ao Talmud Eser HaSefirot?
+115	It is about the matter of devekut with the Creator.	Trata-se do tema da devekut com o Criador.
+116	That is the topic here.	Esse é o tema aqui.
+117	What paths a person goes through,	Por quais caminhos a pessoa passa,
+118	until he reaches complete devekut with the Creator, in a way	até chegar à devekut completa com o Criador, de um modo
+119	that is irreversible, reaching love of the Creator irreversibly.	irreversível, chegando ao amor ao Criador de forma irreversível.

@@ -1,0 +1,120 @@
+480	But few know that he was the first to write the Chinese remainder	Mas poucos sabem que ele foi o primeiro a escrever o resto chinês,
+481	descriptions in the West.	com suas descrições, no Ocidente.
+482	Now, he lived some 50 years	Ora, ele viveu uns 50 anos
+483	before the Kolbo.	antes do Kolbo.
+484	Almost parallel.	Quase em paralelo.
+485	So what we are saying now is that, in no one's opinion,	Então o que dizemos agora é que, na opinião de ninguém,
+486	is there	existe
+487	any other way to say it than that the author of the Kolbo read Fibonacci's book and saw	outro modo de dizer senão que o autor do Kolbo leu o livro de Fibonacci e viu
+488	this riddle.	este enigma.
+489	He liked it so much that he included it in	Gostou tanto que o incluiu na
+490	the Torah.	Torá.
+491	He included it in Din Gematriot, and not by chance: everything follows the conclusion.	Incluiu-o em Din Guematriot, e não por acaso: tudo segue a conclusão.
+492	He sealed this section with "to know a person's number."	Selou esta seção com "para saber o número de uma pessoa".
+493	And so on.	E assim por diante.
+494	Now, even Fibonacci still had not, much less here, one must follow	Ora, nem Fibonacci ainda tinha, e muito menos aqui, é preciso acompanhar
+495	him: he did not simplify it, did not formalize	o que ele fez: ele não simplificou, não formalizou
+496	the rule.	a regra.
+497	It is like an example, a riddle, but behind	É como um exemplo, um enigma, mas por trás
+498	it there is some very, very deep wisdom	disso há uma sabedoria muito, muito profunda
+499	in the science of numbers, in what happens here.	na ciência dos números, no que acontece aqui.
+500	It took another 600 years.	Levou mais 600 anos.
+501	After Fibonacci wrote the...	Depois que Fibonacci escreveu o...
+502	Again, what matters is that the original example	De novo, o que importa é que o exemplo original
+503	was exactly this example, 3-5-7.	foi exatamente este exemplo, 3-5-7.
+504	Sunzi's too was 3-5-7, this example,	O de Sunzi também era 3-5-7, este exemplo,
+505	and Fibonacci's too, who apparently got it from him,	e o de Fibonacci também, que provavelmente o recebeu dele,
+506	a thousand years later, so it was also exactly this example, with the example of	mil anos depois, então também era exatamente este exemplo, com o exemplo do
+507	23.	23.
+508	It is clear that everything spread from there, it is nothing	É claro que tudo se espalhou a partir dali, não é nada
+509	else.	diferente.
+510	But again, it needed to be turned into a great rule of mathematical theory.	Mas, de novo, era preciso fazer disso uma grande regra de teoria matemática.
+511	That took another 600 years, exactly 600 years, almost to the day,	Isso levou mais 600 anos, exatamente 600 anos, quase de dia para dia,
+512	until one of the greatest mathematicians came: Gauss.	até que veio um dos maiores matemáticos: Gauss.
+513	Whoever knows the name: the one who began trying to establish	Quem conhece o nome: quem começou a tentar estabelecer
+514	this thing, the Chinese remainder theorem, was Euler, an even more familiar name	isso, o teorema chinês do resto, foi Euler, um nome ainda mais conhecido
+515	in mathematics, and a little after him came the one who completed	na matemática, e um pouco depois dele veio quem concluiu
+516	and formalized this rule, who is called	e formalizou esta regra, que se chama
+517	Gauss.	Gauss.
+518	From the giving of the Torah until...	Da entrega da Torá até...
+519	Sunzi is about 1,500	Sunzi são cerca de 1.500
+520	years.	anos.
+521	From Sunzi to Fibonacci is 1,000 years, almost exactly.	De Sunzi a Fibonacci são 1.000 anos, quase exatos.
+522	And from Fibonacci to Gauss is another 600 years.	E de Fibonacci a Gauss são mais 600 anos.
+523	In Birkat Kohanim, besides the series of the...	Na Birkat Kohanim, além da série das...
+524	words, how many words there are: three words, five words,	palavras, quantas palavras há: três palavras, cinco palavras,
+525	seven words.	sete palavras.
+526	There is also a series with equal intervals of letters.	Há também uma série com intervalos iguais de letras.
+527	Three words are fifteen letters, which is three times five.	Três palavras são quinze letras, que é três vezes cinco.
+528	The five words are twenty letters, and the seven words are twenty-five letters.	As cinco palavras são vinte letras, e as sete palavras são vinte e cinco letras.
+529	In total that is sixty letters.	No total são sessenta letras.
+530	That is, the sixty mighty men of King Solomon,	Ou seja, os sessenta valentes do rei Salomão,
+531	corresponding to the sixty queens of Shir HaShirim, which are the sixty	correspondentes às sessenta rainhas de Shir HaShirim, que são as sessenta
+532	letters of Birkat Kohanim, which divides into 15, 20,	letras da Birkat Kohanim, que se divide em 15, 20,
+533	25.	25.
+534	Now we are just playing around.	Agora estamos só brincando.
+535	If we take these numbers, from the giving of the Torah to Sunzi,	Se tomarmos estes números, da entrega da Torá até Sunzi,
+536	that is 1,500 years, and then 1,000 years, and then another	são 1.500 anos, depois 1.000 anos, e depois mais
+537	600 years.	600 anos.
+538	Let us start with the 600,	Comecemos pelos 600,
+539	the smallest.	o menor.
+540	We divide it by 15, which is the letters	Dividimos por 15, que são as letras
+541	of the three words, and we get 40.	das três palavras, e obtemos 40.
+542	We take the thousand years, divide it by 20, and we get 50.	Pegamos os mil anos, dividimos por 20, e obtemos 50.
+543	We take the 1,500, divide it by 25, and we get 60.	Pegamos os 1.500, dividimos por 25, e obtemos 60.
+544	So we have a series in two directions.	Então temos uma série em duas direções.
+545	A linear series, with equal intervals between the numbers: corresponding to 15, 20 and 25	Uma série linear, com intervalos iguais entre os números: correspondendo a 15, 20 e 25
+546	we get 40, 50, 60, where the 60 is the total	obtemos 40, 50, 60, onde o 60 é o total
+547	of all the letters of Birkat Kohanim.	de todas as letras da Birkat Kohanim.
+548	Now, we said that besides Birkat Kohanim there is another	Agora, dissemos que além da Birkat Kohanim há outra
+549	source in the Torah for this structure.	fonte na Torá para esta estrutura.
+550	It is the years of life of our holy forefathers, Abraham, Isaac	São os anos de vida de nossos santos patriarcas, Avraham, Yitzchak
+551	and Jacob.	e Yaakov.
+552	How many years did Abraham live?	Quantos anos viveu Avraham?
+553	175.	175.
+554	How many Isaac?	E Yitzchak?
+555	180.	180.
+556	How many Jacob?	E Yaakov?
+557	147.	147.
+558	Again, this is a hint, I do not know who will find	De novo, isto é uma alusão, não sei quem vai achar
+559	it, but it is not from him, it is a known hint from the	isso, mas não é dele, é uma alusão conhecida da
+560	previous generation.	geração anterior.
+561	175, let us divide it by 5, sorry,	175, vamos dividir por 5, desculpe,
+562	let us divide it by 7, not by 5.	vamos dividir por 7, não por 5.
+563	175 is Abraham our forefather, it is seven times 25.	175 é Avraham, nosso patriarca, são sete vezes 25.
+564	What is 25?	O que é 25?
+565	It is five squared.	É cinco ao quadrado.
+566	Let us take the 180 of	Vamos pegar os 180 de
+567	Isaac our forefather.	Yitzchak, nosso patriarca.
+568	We divide it by 5.	Dividimos por 5.
+569	Now, we are going in the order 7, 5, 3.	Agora, vamos na ordem 7, 5, 3.
+570	Abraham, we divide him by 7,	Avraham, dividimos por 7,
+571	we get 25, which is 5 squared.	obtemos 25, que é 5 ao quadrado.
+572	Isaac, 180, we divide by 5.	Yitzchak, 180, dividimos por 5.
+573	What do we get?	O que obtemos?
+574	36, which is 6 squared.	36, que é 6 ao quadrado.
+575	One hundred forty-seven, Jacob, we divide by three.	Cento e quarenta e sete, Yaakov, dividimos por três.
+576	What do we get?	O que obtemos?
+577	Forty-nine, which is seven squared.	Quarenta e nove, que é sete ao quadrado.
+578	Again, two parallel, overlapping series, which is	De novo, duas séries paralelas que coincidem, o que é
+579	something truly beautiful, a pearl.	algo realmente lindo, uma pérola.
+580	The three, five, seven gives five squared, six	O três, cinco, sete dá cinco ao quadrado, seis
+581	squared, seven squared.	ao quadrado, sete ao quadrado.
+582	So these are two tremendous segulot in the Torah of this triple,	Então estas são duas enormes segulot na Torá desta trinca,
+583	the three, five, seven.	o três, cinco, sete.
+584	So all this is what he asked me, and it took me a few days,	Tudo isso foi o que ele me perguntou, e levei alguns dias,
+585	until I was fifteen then, and HaShem granted me	eu tinha quinze anos então, e HaShem me concedeu
+586	that I was able to solve it in the end.	que eu conseguisse resolver no fim.
+587	And then a very, very close bond was formed between us.	E então se formou um laço muito, muito estreito entre nós.
+588	That was the foundation of	Isso foi a base da
+589	the...	...
+590	In any case, what this means is that we must not forget,	De todo modo, isso quer dizer que não devemos esquecer:
+591	in the holy Zohar it is written that gematria	no santo Zohar está escrito que a guematria
+592	is a seventh of the entire Torah.	é um sétimo de toda a Torá.
+593	It is one part of seven of all Torah study,	É uma parte de sete de todo o estudo da Torá,
+594	gematria.	a guematria.
+595	There are people who spend more than a seventh	Há pessoas que dedicam mais de um sétimo
+596	of their time on it.	do seu tempo a isso.
+597	Rav Rishon Freind used to say that some people, to keep their sanity, need	Rav Rishon Freind dizia que algumas pessoas, para manter a sanidade, precisam
+598	to deal a lot with numbers.	lidar muito com números.
+599	So he says a few more things, that comes later.	Então ele diz mais algumas coisas, isso vem depois.

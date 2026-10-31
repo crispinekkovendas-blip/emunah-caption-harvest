@@ -1,0 +1,120 @@
+360	First of all, let's understand the meaning of these numbers	Primeiro de tudo, vamos entender o significado desses números
+361	here.	aqui.
+362	What is the final step?	Qual é o passo final?
+363	First of all, what is this 35?	Primeiro de tudo, o que é esse 35?
+364	Why is the general modulus	Por que o módulo geral
+365	specifically 105?	é justamente 105?
+366	Because 105 is three times five times	Porque 105 é três vezes cinco vezes
+367	seven.	sete.
+368	As we will explain, this whole riddle has a very, very	Como vamos explicar, todo este enigma tem uma história muito, muito
+369	interesting history. How did he come to this book, the Kolbo?	interessante. Como ele chegou a este livro, o Kolbo?
+370	So in the Torah, there are two sources in the Torah for this	Então na Torá há duas fontes na Torá para este
+371	riddle.	enigma.
+372	The simple source is Birkat Kohanim.	A fonte simples é a Birkat Kohanim.
+373	This is the basic structure of the threefold blessing	Esta é a estrutura básica da bênção em três partes
+374	in the Torah.	na Torá.
+375	On one hand it is threefold, but it is threefold in such a way that in the first blessing	Por um lado ela é tripla, mas é tripla de modo que na primeira bênção
+376	there are three words, in the second five words,	há três palavras, na segunda cinco palavras,
+377	in the third seven words, meaning that the structure is	na terceira sete palavras, ou seja, a estrutura é
+378	a structure of three, five, seven.	uma estrutura de três, cinco, sete.
+379	It is the only triple with equal spacing in which every number is	É a única trinca com intervalos iguais em que cada número é
+380	prime.	primo.
+381	There cannot be another three numbers, to infinity, with equal spacing, where each one of them is a	Não pode haver outros três números, até o infinito, com intervalo igual, em que cada um deles seja um número
+382	prime number.	primo.
+383	This is something very simple that one can...	Isto é algo muito simples que se pode...
+384	see.	ver.
+385	There is something special about this triple,	Há algo especial nesta trinca,
+386	three,	três,
+387	five, seven.	cinco, sete.
+388	Now, actually, one could have said that the remainder of three	Agora, na verdade, poderíamos dizer que o resto de três
+389	you multiply by minus thirty-five.	você multiplica por menos trinta e cinco.
+390	That is, it yields, not adds, it yields thirty-five.	Ou seja, ele produz, não soma, produz trinta e cinco.
+391	Why?	Por quê?
+392	Because 35 is the product of the other two numbers.	Porque 35 é o produto dos outros dois números.
+393	Again, it is all based on	Mais uma vez, tudo se baseia
+394	the structure of Birkat Kohanim, which is three, five, seven.	na estrutura da Birkat Kohanim, que é três, cinco, sete.
+395	And each number is connected to the product of the other two.	E cada número está ligado ao produto dos outros dois.
+396	What goes together with three is five times	O que acompanha o três é cinco vezes
+397	seven.	sete.
+398	But what?	Mas o quê?
+399	This needs to be understood.	Isso precisa ser entendido.
+400	It would have been proper to subtract the thirty-five.	O correto seria subtrair os trinta e cinco.
+401	Instead of subtracting thirty-five, I add seventy, which is the same thing.	Em vez de subtrair trinta e cinco, eu somo setenta, que é a mesma coisa.
+402	Since the modulus here is one hundred five,	Como o módulo aqui é cento e cinco,
+403	minus thirty-five is exactly equal to plus	menos trinta e cinco é exatamente igual a mais
+404	seventy.	setenta.
+405	That is why he writes gimel-ayin, he doesn't want to complicate it, so that I	Por isso ele escreve guimel-ain, ele não quer complicar, para que eu
+406	have to subtract.	não precise subtrair.
+407	So that is gimel-ayin, and then the hey, five times	Então é guimel-ain, e depois o hei, cinco vezes
+408	the product of the other two.	o produto dos outros dois.
+409	The other two are three and seven.	Os outros dois são três e sete.
+410	What is three times seven?	Quanto é três vezes sete?
+411	It is twenty-one.	É vinte e um.
+412	So the remainder of the five	Então o resto do cinco
+413	must be multiplied by the product of the other two.	deve ser multiplicado pelo produto dos outros dois.
+414	The same thing, zayin, seven.	A mesma coisa, zain, sete.
+415	You must multiply the remainder by the product of the other two,	Deve-se multiplicar o resto pelo produto dos outros dois,
+416	which are three and five: fifteen.	que são três e cinco: quinze.
+417	Then I get a number. If it is within the hundred, great.	Depois obtenho um número. Se estiver dentro dos cem, ótimo.
+418	If it is more than a hundred, then each time I subtract the product of	Se for mais de cem, então a cada vez subtraio o produto de
+419	all three together, of three, five, seven, which is one hundred	todos os três juntos, de três, cinco, sete, que é cento
+420	and five, and then I arrive at the number	e cinco, e então chego ao número
+421	secret that I thought of in my heart.	secreto que pensei no meu coração.
+422	So this is truly wondrous.	Então isso é realmente maravilhoso.
+423	Now, what is this	Agora, como se chama
+424	thing called?	isso?
+425	To this very day I don't think any mathematician knows that this is written	Até hoje não acho que algum matemático saiba que isso está escrito
+426	in Din Gematriot, in the Orchot Chaim, in the Sefer Kolbo, which is	em Din Guematriot, no Orchot Chaim, no Sefer Kolbo, que é
+427	one of the sources of the Shulchan Aruch.	uma das fontes do Shulchan Aruch.
+428	Our first source.	Nossa primeira fonte.
+429	This is something that was discovered for the first time in human history, in the	Isso foi descoberto pela primeira vez na história da humanidade, na
+430	external history of the world, in China.	história externa do mundo, na China.
+431	Almost two thousand years ago, by someone	Há quase dois mil anos, por alguém
+432	called Sunzi,	chamado Sunzi,
+433	who lived in the period known as	que viveu no período chamado
+434	the seam generation between the Tannaim and the Amoraim, around the time of the compilation of	a geração de transição entre os Tanaim e os Amoraim, por volta da época da compilação
+435	the Mishnah by Rabbeinu HaKadosh.	da Mishná por Rabeinu HaKadosh.
+436	And what is this thing	E como se chama isso
+437	called today?	hoje?
+438	It is a mitzvah to publicize that it is from the Kolbo, but they don't know	É uma mitsvá divulgar que isso vem do Kolbo, mas eles não sabem
+439	this.	disso.
+440	It is called the Chinese Remainder	Chama-se o Teorema Chinês do
+441	Theorem.	Resto.
+442	The theory of remainders that we did.	A teoria dos restos que fizemos.
+443	Chinese Remainder Theorem, that is	Teorema Chinês do Resto, esse é
+444	its name.	o nome dele.
+445	Even the Rebbe did not know this.	Nem o Rebe sabia disso.
+446	He only knew what is written in the book.	Ele só sabia o que está escrito no livro.
+447	He solved it in a brilliant way.	Ele o resolveu de forma genial.
+448	Now, what is very interesting, perhaps we mentioned it once, a few decades after he wrote	Agora, o que é muito interessante, talvez já tenhamos mencionado, algumas décadas depois de ele escrever
+449	his article solving this riddle in the Sefer Kolbo, also	seu artigo resolvendo este enigma do Sefer Kolbo, também,
+450	without knowing of each other, the Rebbe, the Lubavitcher Rebbe, also wrote a letter	sem que um soubesse do outro, o Rebe, o Rebe de Lubavitch, também escreveu uma carta
+451	to solve the problem, this mystery, and also	para resolver o problema, este mistério, e também
+452	by what he said, there is the modulus within the layer, in place of such and such,	segundo o que ele disse, há o módulo dentro da camada, no lugar de tal e tal,
+453	one needs to see that...	é preciso ver que...
+454	So both of them aimed at the same thing.	Então os dois chegaram à mesma coisa.
+455	But the first was the Rebbe, now that we are holding his hilula.	Mas o primeiro foi o Rebe, agora que fazemos a sua hilulá.
+456	I think it is called	Acho que se chama
+457	the Chinese remainder theorem,	o teorema chinês do resto,
+458	and it was in China.	e foi na China.
+459	Now, it stayed in China for a thousand years.	Agora, ficou na China por mil anos.
+460	It did not reach...	Não chegou...
+461	the West.	ao Ocidente.
+462	Who was the first who apparently received this from some...	Quem foi o primeiro que provavelmente recebeu isso de algum...
+463	There were many caravans of merchants from China to Europe, so they also	Havia muitas caravanas de comerciantes da China para a Europa, então eles também
+464	transmitted all their wisdom.	transmitiram toda a sua sabedoria.
+465	So as far as is known in history,	Então, até onde se sabe na história,
+466	the first who received this and wrote it in his book is Fibonacci,	o primeiro que recebeu isso e o escreveu em seu livro foi Fibonacci,
+467	who lived about a thousand years ago.	que viveu há cerca de mil anos.
+468	He is a very well-known mathematician, known for something else.	Ele é um matemático muito conhecido, por outra coisa.
+469	I remember, for those who know a little, that Fibonacci is the Fibonacci sequence,	Lembro, para quem sabe um pouco, que Fibonacci é a sequência de Fibonacci,
+470	which in the Torah we call the ibbur sequence,	que na Torá chamamos de sequência do ibur,
+471	which is the foundation of all the relationships	que é a base de todas as proporções
+472	within structures, especially of living things in nature,	dentro das estruturas, especialmente dos seres vivos na natureza,
+473	one of the foundations of the patterns of the...	um dos fundamentos dos padrões do...
+474	relationships of the ibbur of the tzelem Elokim of man, which is more than any other animal.	relações do ibur do tselem Elokim do homem, mais do que qualquer outro animal.
+475	One plus one, two,	Um mais um, dois,
+476	one and two, three, two and three, five, three and five, eight, let's go on,	um e dois, três, dois e três, cinco, três e cinco, oito, vamos adiante,
+477	thirteen, twenty-one, this is called the	treze, vinte e um, isso se chama a
+478	Fibonacci sequence.	sequência de Fibonacci.
+479	So they also know this name, after this thing.	Então eles também conhecem esse nome, por causa dessa coisa.
