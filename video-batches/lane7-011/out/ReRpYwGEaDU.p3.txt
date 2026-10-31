@@ -1,0 +1,40 @@
+120	I was too.	Eu também fui.
+121	You were tired too?	Você também estava cansado?
+122	You saw that?	Você viu isso?
+123	What did you see?	O que você viu?
+124	I was there.	Eu estava lá.
+125	You saw that he didn't come?	Você viu que ele não veio?
+126	What a thing. I can't believe what we've come to.	Que coisa. Não acredito a que ponto chegamos.
+127	Such impudence, and he isn't even ashamed.	Que descaramento, e ele nem sequer tem vergonha.
+128	He walks into Mincha, hair combed, as if he'd prayed at sunrise at the Kotel.	Entra no Minchá todo arrumado, como se tivesse rezado ao nascer do sol no Kotel.
+129	You can't believe this thing.	Você não acredita numa coisa dessas.
+130	What is this?	O que é isso?
+131	The main thing...	O principal...
+132	There was someone in Mir who said, "I want 700,000 shekels so that someone will marry me."	Havia um em Mir que disse: "Quero 700 mil shekels para que alguém se case comigo."
+133	Blue eyes?	Olhos azuis?
+134	700,000 shekels, I want for me.	700 mil shekels, é o que eu quero para mim.
+135	Slowly, slowly, the years passed, it dropped to 600, the years passed, it dropped to 500.	Aos poucos, os anos passaram, baixou para 600, os anos passaram, baixou para 500.
+136	He saw he was already 40, and it dropped to 100,000.	Viu que já tinha 40 anos, e baixou para 100 mil.
+137	He reached 45 and said, "I'm ready to pay 100,000."	Chegou aos 45 e disse: "Estou disposto a pagar 100 mil."
+138	Until it came to him paying 700 himself, and only then would they marry.	Até chegar a ele mesmo pagar 700, e só então se casariam.
+139	You see what that is?	Está vendo o que é isso?
+140	Moshe, how much did they pay for you?	Moshé, quanto pagaram por você?
+141	Ah, how much did they pay for you?	Ah, quanto pagaram por você?
+142	Surely at least half a million, you, ayin hara.	Com certeza pelo menos meio milhão, você, ayin hará.
+143	Ayin hara.	Ayin hará.
+144	A groom like you, a real man.	Um noivo como você, um homem de verdade.
+145	Anyway, anyway, that's the problem.	Enfim, enfim, esse é o problema.
+146	You understand what's going on.	Você entende o que acontece.
+147	In shiduchim you must not lie.	Nos shiduchim não se pode mentir.
+148	You must not lie, you have to tell the truth.	Não se pode mentir, é preciso dizer a verdade.
+149	Now you're married to a daughter of...	Agora você é casado com uma filha de...
+150	Now someone wants to take your wife's sister.	Agora alguém quer se casar com a irmã da sua esposa.
+151	They call you.	Ligam para você.
+152	So, how is she?	E aí, como ela é?
+153	How is she?	Como ela é?
+154	She really is fine, you're not lying.	Ela é realmente boa, você não está mentindo.
+155	And how is the family?	E como é a família?
+156	Now you know, the family is falling apart.	Agora você sabe, a família está desfeita.
+157	You know, people who are finished, finished.	Você sabe, pessoas arruinadas, arruinadas.
+158	What will you say, that the family is good?	O que vai dizer, que a família é boa?
+159	They asked you a straightforward question, how is the family?	Fizeram uma pergunta objetiva: como é a família?

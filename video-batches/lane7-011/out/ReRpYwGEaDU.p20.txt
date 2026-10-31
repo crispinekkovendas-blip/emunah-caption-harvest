@@ -1,0 +1,40 @@
+800	English: Akiva.	Portuguese: Akiva.
+801	English: You understand what a giant among giants he was.	Portuguese: Vocês entendem que gigante entre os gigantes ele era.
+802	English: He expounded every little crown of the Torah, heaps and heaps of laws, "his locks are curled, black as a raven,"	Portuguese: Ele expunha cada pequeno ornamento da Torá, montes e montes de leis: "seus cachos são ondulados, negros como o corvo",
+803	English: Eruvin, page 21.	Portuguese: Eruvin, página 21.
+804	English: He was a genius.	Portuguese: Era um gênio.
+805	English: Nu.	Portuguese: Nu.
+806	English: And when Chazal needed to ask him questions in halacha, the Romans didn't give them free access.	Portuguese: E quando os sábios precisavam fazer perguntas de halachá a ele, os romanos não davam livre acesso.
+807	English: Come on, ask, go ahead.	Portuguese: Venham, perguntem, fiquem à vontade.
+808	English: It was forbidden.	Portuguese: Era proibido.
+809	English: Rabbi Yochanan HaSandlar came and disguised himself as a poor man who sells,	Portuguese: Rabi Yochanan HaSandlar veio e se disfarçou de um pobre que vende,
+810	English: a peddler who sells all kinds of things.	Portuguese: um mascate que vende todo tipo de coisa.
+811	English: Cell phones, used batteries, all kinds of red strings, and he went next to	Portuguese: Celulares, pilhas usadas, todo tipo de fio vermelho, e foi até perto da
+812	English: the...	Portuguese: a...
+813	English: next to the...	Portuguese: perto da...
+814	English: cell, the cell of the prisoners, the prison of Rabbi Akiva, and he asked there:	Portuguese: cela, a cela dos prisioneiros, a prisão de Rabi Akiva, e perguntou ali:
+815	English: Who wants needles, who wants cell phones, who wants batteries?	Portuguese: Quem quer agulhas, quem quer celulares, quem quer pilhas?
+816	English: A woman whose husband went off thus and so, does she need chalitzah? Who wants batteries, who?	Portuguese: Uma mulher cujo marido foi assim e assado, ela precisa de chalitsá? Quem quer pilhas, quem?
+817	English: Rabbi Akiva heard this immediately. You know what that is? His ear caught the question right away.	Portuguese: Rabi Akiva ouviu isso na hora. Sabem o que é isso? O ouvido dele captou a pergunta de imediato.
+818	English: It's like the time someone came to Rav Shach of Ponovezh; he was like this, in a coma.	Portuguese: É como quando alguém foi ao Rav Shach, de Ponevezh; ele estava assim, em coma.
+819	English: The doctors said, whatever we did, we did to wake him; after the surgery he doesn't wake up.	Portuguese: Os médicos disseram: tudo o que fizemos, fizemos para acordá-lo; depois da cirurgia ele não acorda.
+820	English: So one of the roshei yeshiva came and said, let me wake him. They said to him, how	Portuguese: Então um dos roshei yeshivá veio e disse: deixem-me acordá-lo. Disseram-lhe: como
+821	English: can you wake him? It's impossible, he's in a deep coma after the surgery. He said, let me, I'll wake	Portuguese: você vai acordá-lo? É impossível, ele está em coma profundo depois da cirurgia. Disse: deixem comigo, eu o acordo.
+822	English: him. He came to him and shouted in his ear: Rav Shach, tell me, and if	Portuguese: Aproximou-se dele e gritou-lhe no ouvido: Rav Shach, diga-me, e se
+823	English: an ox gored a cow, how much does it pay, two or four? Suddenly he answered: four,	Portuguese: um boi chifrou uma vaca, quanto paga, dois ou quatro? De repente ele respondeu: quatro,
+824	English: he pays. You see what this is? This is the Torah, it wakes the sleeping, it revives the dead.	Portuguese: ele paga. Veem o que é isso? Isso é a Torá, ela desperta os adormecidos, ela revive os mortos.
+825	English: So Rabbi Akiva sat in his prison cell and suddenly he hears:	Portuguese: Então Rabi Akiva estava sentado na sua cela e de repente ouve:
+826	English: Who wants cell phones, who wants red strings, who wants amulets? A woman thus and so, does she need	Portuguese: Quem quer celulares, quem quer fios vermelhos, quem quer amuletos? Uma mulher assim e assado, ela precisa
+827	English: to do chalitzah or not?	Portuguese: fazer chalitsá ou não?
+828	English: Suddenly Rabbi Akiva looked through the window and said to him, listen, what merchandise	Portuguese: De repente Rabi Akiva olhou pela janelinha e disse-lhe: escute, que mercadoria
+829	English: you sell! Junk merchandise! Go, don't sell us your nonsense here. Your phones... she needs	Portuguese: você vende! Mercadoria lixo! Vá, não venda aqui as suas bobagens. Seus celulares... ela precisa de
+830	English: chalitzah. Take your phones and go. And off they went: she is forbidden without chalitzah.	Portuguese: chalitsá. Leve seus celulares e vá. E foram embora: ela é proibida sem chalitsá.
+831	English: See, even speaking words of Torah was forbidden.	Portuguese: Vejam, até falar palavras de Torá era proibido.
+832	English: Today it's permitted to speak words of Torah, and how much idle talk do we engage in inside the beit midrash?	Portuguese: Hoje é permitido falar palavras de Torá, e quanta conversa fútil temos dentro da casa de estudo?
+833	English: Whoever stops speaking words of Torah and engages in idle talk is fed coals of broom, Chagigah 12b: "who pluck salt-herbs	Portuguese: Todo aquele que para de falar palavras de Torá e se ocupa de conversa fútil é alimentado com brasas de giesta, Chagigá 12b: "os que colhem ervas salgadas
+834	English: by the bushes, and broom roots are their bread."	Portuguese: junto aos arbustos, e raízes de giesta são o seu pão."
+835	English: How severe that is.	Portuguese: Como isso é grave.
+836	English: So what, is it forbidden to stop in the middle of learning?	Portuguese: Então, é proibido interromper no meio do estudo?
+837	English: I wrote a long responsum: when it's permitted, when it's forbidden, in which cases it's permitted to stop learning.	Portuguese: Escrevi uma longa responsa: quando é permitido, quando é proibido, em quais casos é permitido parar o estudo.
+838	English: It's worth seeing that responsum in my Responsa, volume nine, Yoreh Deah, a special responsum, the...	Portuguese: Vale a pena ver essa responsa nas minhas Responsas, volume nove, Yoreh Deá, uma responsa especial, a...
+839	English: So it's extremely important to understand this.	Portuguese: Então é de extrema importância entender isso.

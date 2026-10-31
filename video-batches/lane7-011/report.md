@@ -1,21 +1,21 @@
 # lane7-011
 
-0 of 14 lessons published · 4 skipped · status **pending**
-Tokens (868 agent runs with a record): 4.6M in (mostly cache) · 2.59M out · API-equivalent 40.39
+0 of 14 lessons published · 6 skipped · status **pending**
+Tokens (1085 agent runs with a record): 5.8M in (mostly cache) · 3.25M out · API-equivalent 50.69
 
 | lesson | state | detail |
 |---|---|---|
-| VkBM9NIZbxw | waiting | 37/40 parts |
-| ZNjTp4tl5sQ | waiting | 21/23 parts |
+| VkBM9NIZbxw | waiting | 38/40 parts |
+| ZNjTp4tl5sQ | skipped after 3 tries | line 640 twice |
 | Y8HYY_MHWw8 | skipped | |
-| PZyPRVgmpz0 | ✗ will be redone (try 2) | line 559 twice |
-| MRJwMq-Y5UE | ✗ will be redone (try 1) | 13 lines missing |
-| ReRpYwGEaDU | skipped after 3 tries | 35 lines missing |
-| 0oR3GS_NXx4 | waiting | 25/26 parts |
-| qpbYyv2XP7s | skipped after 3 tries | 4 lines missing |
-| FsjKUuvt4O0 | skipped after 3 tries | 2 lines missing |
-| Am0Hkt_6brk | waiting | 18/19 parts |
-| os2uv-4_idQ | ✗ will be redone (try 1) | line 880 twice |
-| eisn3_BRpSI | ✗ will be redone (try 1) | line 360 twice |
-| 68YXUDnO-tw | waiting | 22/25 parts |
+| PZyPRVgmpz0 | waiting | 62/67 parts |
+| MRJwMq-Y5UE | waiting | 17/19 parts |
+| ReRpYwGEaDU | skipped | |
+| 0oR3GS_NXx4 | ✗ will be redone (try 2) | 47 lines missing |
+| qpbYyv2XP7s | skipped | |
+| FsjKUuvt4O0 | skipped | |
+| Am0Hkt_6brk | skipped after 3 tries | 21 lines missing |
+| os2uv-4_idQ | waiting | 35/36 parts |
+| eisn3_BRpSI | waiting | 27/29 parts |
+| 68YXUDnO-tw | ✗ will be redone (try 2) | line 360 twice |
 | 2d6bb1pZwRM | waiting | 24/25 parts |
