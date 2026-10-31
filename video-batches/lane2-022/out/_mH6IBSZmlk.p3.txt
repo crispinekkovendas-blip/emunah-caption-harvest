@@ -1,0 +1,40 @@
+120	English: Do they even know how to speak?	Português: Será que sabem falar, afinal?
+121	English: That's not Egyptian...	Português: Isso não é egípcio...
+122	English: The Arabic of the Egyptians.	Português: O árabe dos egípcios.
+123	English: The Egyptians have literary Arabic.	Português: Os egípcios têm o árabe literário.
+124	English: It's a mix of that.	Português: É uma mistura disso.
+125	English: What can we do?	Português: O que podemos fazer?
+126	English: I was in Monsey.	Português: Estive em Monsey.
+127	English: Do you know what beautiful animals they have in Monsey?	Português: Vocês sabem que animais lindos têm em Monsey?
+128	English: Bears.	Português: Ursos.
+129	English: You see deer running toward you like this.	Português: Você vê cervos correndo na sua direção assim.
+130	English: Deer.	Português: Cervos.
+131	English: You see squirrels walking around.	Português: Você vê esquilos andando por aí.
+132	English: I was there in a yeshiva for four months.	Português: Fiquei lá numa yeshivá por quatro meses.
+133	English: I learned and taught there.	Português: Estudei e ensinei lá.
+134	English: What is this?	Português: O que é isso?
+135	English: What animals?	Português: Quais animais?
+136	English: So that one asked me, and I said to the rabbi there, what beautiful animals do you have here?	Português: Então aquele me perguntou, e eu disse ao rabino de lá: que animais bonitos vocês têm aqui?
+137	English: He says to me, where are you from?	Português: Ele me diz: de onde você é?
+138	English: I told him, from Israel.	Português: Disse a ele: de Israel.
+139	English: I spoke with him in English.	Português: Falei com ele em inglês.
+140	English: So he asks me, what animals do you have in Israel?	Português: Então ele me pergunta: que animais vocês têm em Israel?
+141	English: I told him, we have cats and Arabs.	Português: Disse a ele: temos gatos e árabes.
+142	English: That's what we have.	Português: É isso que temos.
+143	English: What can we do?	Português: O que podemos fazer?
+144	English: That's what there is.	Português: É o que há.
+145	English: About this it says: who put a mouth in man? I decide.	Português: Sobre isso está dito: quem pôs a boca no homem? Eu decido.
+146	English: See that the Gemara says in Tractate Ketubot, page 49, that no animal is crueler than	Português: Veja que a Guemará diz no tratado Ketubot, página 49, que nenhum animal é mais cruel do que
+147	English: the raven.	Português: o corvo.
+148	English: Why?	Português: Por quê?
+149	English: The raven, when the chicks hatch from the egg, suddenly sees the white chicks.	Português: O corvo, quando os filhotes saem do ovo, de repente vê os filhotes brancos.
+150	English: He comes and says to his wife, man, what are these, Ashkenazim?	Português: Ele chega e diz à esposa: cara, o que é isso, asquenazitas?
+151	English: Are we Yemenites?	Português: Nós somos iemenitas?
+152	English: Where did these come from?	Português: De onde estes saíram?
+153	English: They're not mine.	Português: Não são meus.
+154	English: The Gemara says he immediately flies off and leaves them for the female to take care of the young.	Português: Diz a Guemará que ele imediatamente voa e os deixa para a fêmea cuidar dos filhotes.
+155	English: She says, what does he think?	Português: Ela diz: o que ele pensa?
+156	English: He'll go to Vegas and leave me alone?	Português: Ele vai para Las Vegas e me deixa sozinha?
+157	English: I'm not going to take care of them either.	Português: Eu também não vou cuidar deles.
+158	English: And then she runs away.	Português: E então ela foge.
+159	English: And then the chicks get upset.	Português: E então os filhotes ficam aflitos.

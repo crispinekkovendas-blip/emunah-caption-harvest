@@ -1,0 +1,40 @@
+80	English: Ay, you too.	Português: Ai, você também.
+81	English: So now, all this wood and stone, it's very serious.	Português: Então agora, toda essa madeira e pedra, isso é muito grave.
+82	English: The Gemara, tell me, but do the gentiles go to churches?	Português: A Guemará, diga-me, mas os gentios vão às igrejas?
+83	English: Do they go every Sunday?	Português: Vão todo domingo?
+84	English: They go to church, church, every Sunday,	Português: Vão à igreja, à igreja, todo domingo,
+85	English: they come and hear the priest there, he preaches to them, he rebukes them,	Português: vêm e ouvem o padre ali, ele prega para eles, dá-lhes broncas,
+86	English: to be proper, and he is the chief corrupter, head of Peor, to be proper, to be this, to do	Português: para serem corretos, e ele é o corruptor-chefe, o chefe de Peor, para serem corretos, para serem isso, para fazer
+87	English: mitzvot, to do...	Português: mitsvot, para fazer...
+88	English: What?	Português: O quê?
+89	English: Once someone told me, he went there to a Temple, Temple,	Português: Uma vez alguém me contou que foi lá a um Temple, Temple,
+90	English: Temple, dummy.	Português: Temple, bobão.
+91	English: A Temple is a Reform synagogue.	Português: Temple é uma sinagoga reformista.
+92	English: Okay, now that one is secular, what does he know?	Português: Bem, esse aí é secular, o que ele sabe?
+93	English: Reform, Conservative, he doesn't understand these things.	Português: Reformista, conservador, ele não entende dessas coisas.
+94	English: He saw a synagogue and went in.	Português: Viu uma sinagoga e entrou.
+95	English: He entered a synagogue, the Shabbat prayer was over, and everyone stood in a line,	Português: Entrou numa sinagoga, a oração de Shabat tinha acabado, e todos estavam em fila,
+96	English: women and men sitting together.	Português: mulheres e homens sentados juntos.
+97	English: So he thought, fine, bringing the distant close, bringing hearts close, your wife is my wife, my children are in your hands.	Português: Então pensou: tudo bem, aproximar os distantes, aproximar os corações, sua esposa é minha esposa, meus filhos estão em suas mãos.
+98	English: So he stood there, everyone stood in line next to the rabbi.	Português: Então ficou ali, todos ficaram em fila ao lado do rabino.
+99	English: So the rabbi shook hands with the men, "Good Shabbos," and gave a kiss to every	Português: Então o rabino apertava a mão dos homens, "Gut Shabbes", e dava um beijo em cada
+100	English: woman.	Português: mulher.
+101	English: And the next couple continued, shaking hands, "Good Shabbos."	Português: E o casal seguinte continuou, apertando as mãos, "Gut Shabbes".
+102	English: Gevalt!	Português: Guevalt!
+103	English: He said to him, what is this, your rabbi kisses women?	Português: Disse a ele: o que é isso, o seu rabino beija mulheres?
+104	English: He said, be thankful, the previous rabbi also kissed the men.	Português: Respondeu: agradeça, o rabino anterior também beijava os homens.
+105	English: Do you understand?	Português: Entende?
+106	English: A complete distortion of all the Torah and all moral values.	Português: Uma distorção total de toda a Torá e de todos os valores morais.
+107	English: That's how it is.	Português: É assim.
+108	English: I have seen an upside-down world.	Português: Vi um mundo de cabeça para baixo.
+109	English: There are all kinds of distorted things in the world.	Português: Há todo tipo de coisa distorcida no mundo.
+110	English: So that's that, so there you have it.	Português: Pois é, aí está.
+111	English: So how can I say they don't believe in wood and stone, eh?	Português: Então como posso dizer que não acreditam em madeira e pedra, hein?
+112	English: After all, they go and bow to statues, especially the Catholics, who exalt all the idolatry greatly.	Português: Afinal, eles vão se prostrar diante de estátuas, principalmente os católicos, que exaltam muito toda a idolatria.
+113	English: So how can I say they don't bow, that they don't believe in it?	Português: Então como posso dizer que não se prostram, que não acreditam nisso?
+114	English: Maran writes in siman 156, based on the Gemara in Chulin 13, that gentiles outside the Land of Israel follow the custom of	Português: Maran escreve no simen 156, com base na Guemará em Chulin 13, que os gentios fora de Israel seguem o costume de
+115	English: their fathers.	Português: seus pais.
+116	English: They believe it's nonsense, that it's all nonsense.	Português: Acham que é bobagem, que tudo é bobagem.
+117	English: So why do they go to church?	Português: Então por que vão à igreja?
+118	English: Tradition!	Português: Tradição!
+119	English: Because on Sunday they go to church.	Português: Porque no domingo se vai à igreja.
