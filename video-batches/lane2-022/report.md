@@ -1,7 +1,7 @@
 # lane2-022
 
-9 of 25 lessons published · 12 skipped · status **pending**
-Tokens (1099 agent runs with a record): 6.7M in (mostly cache) · 4.76M out · API-equivalent 69.36
+9 of 25 lessons published · 14 skipped · status **pending**
+Tokens (1174 agent runs with a record): 7.1M in (mostly cache) · 4.96M out · API-equivalent 72.53
 
 | lesson | state | detail |
 |---|---|---|
@@ -14,19 +14,19 @@ Tokens (1099 agent runs with a record): 6.7M in (mostly cache) · 4.76M out · A
 | a37jL33Wtx0 | skipped | |
 | uumyI18CgR4 | ✓ published | 454 lines · Mesirut nefesh pela Torá e o teste de Avraham Avinu |
 | Cj9XNgTLgAg | skipped | |
-| oaX59sZsjUw | ✗ will be redone (try 2) | 50 lines missing |
+| oaX59sZsjUw | waiting | 27/31 parts |
 | lPPBpFBwIgs | skipped | |
 | -1uMWV0SbN0 | skipped | |
 | X1-XST3eu08 | ✓ published | 644 lines · Avraham, Sará e Faraó: o segredo de "minha irmã |
 | LjIIAJpntTQ | ✓ published | 1596 lines · Or Tzadikim: a luz dos justos e o legado de um pai |
-| 1SFqadwGRj4 | waiting | 41/42 parts |
+| 1SFqadwGRj4 | skipped after 3 tries | line 1160 twice |
 | Fr47wnEoQk0 | ✓ published | 191 lines · Casamento: gematria, HaShem yirê e "katonti mikol hachassadim |
-| mCrvmV8ZQ5s | waiting | 22/23 parts |
-| 5NDlCl8_s1g | skipped after 3 tries | line 440 twice |
+| mCrvmV8ZQ5s | skipped after 3 tries | 25 lines missing |
+| 5NDlCl8_s1g | skipped | |
 | iH1azTNADYQ | skipped | |
 | PKoptFokTz4 | skipped | |
 | 2ozbDdr0aic | skipped | |
 | jf8cXAC7n9Y | skipped | |
 | _mH6IBSZmlk | skipped | |
-| YF2oDA0SMDI | waiting | 29/30 parts |
+| YF2oDA0SMDI | ✗ will be redone (try 1) | line 150 twice |
 | t365u3NqLbI | ✓ published | 659 lines · Kavanat HaBracha: o prazer serve para abençoar e subir à Bina |
