@@ -1,0 +1,40 @@
+800	that was given to Moshe at Sinai is the same to this day.	que foi dada a Moshe no Sinai é a mesma até hoje.
+801	The public knows the game that children used to	O público conhece a brincadeira que as crianças
+802	play: telephone.	brincavam antigamente: telefone sem fio.
+803	Today children don't play it so much anymore, they have	Hoje as crianças já não brincam tanto, elas têm
+804	…	…
+805	a bit more today.	um pouco mais hoje.
+806	How did this game actually work? Five children sit	Como essa brincadeira funcionava, na verdade? Cinco crianças sentam
+807	down, the first whispers a word to the second, that one	e a primeira sussurra uma palavra para a segunda, ela
+808	whispers to the third, and so on. Afterwards we check what each	sussurra para a terceira, e assim por diante. Depois verificamos o que cada
+809	one said. Whoever distorted the word is out	um disse. Quem distorceu a palavra sai
+810	of the game, and words can	do jogo, e as palavras podem
+811	get distorted. For example, say five are sitting: the first	se distorcer. Por exemplo, digamos que sentam cinco: a primeira
+812	whispers the word "chair"; the second didn't hear, "chai"	sussurra a palavra "cadeira"; a segunda não ouviu, "cadei"
+813	heard "chai"	ouviu "cadei"
+814	and calls out; the one next to him didn't hear "chai," heard	e repete; a que está ao lado dele não ouviu "cadei", ouviu
+815	"chi," and the one next to him heard "wall," and the last heard "city."	"cade", e a que está ao lado ouviu "parede", e a última ouviu "cidade".
+816	See how in five people "chair" turns from a chair	Vejam como em cinco pessoas "cadeira" se transforma de cadeira
+817	into a city: chair, chai, chi, wall, city,	em cidade: cadeira, cadei, cade, parede, cidade,
+818	easily. So someone will come and ask: tell me, if among five	com facilidade. Então alguém vai perguntar: diga, se entre cinco
+819	people words can get distorted, how can I know	pessoas as palavras podem se distorcer, como posso saber
+820	that the Oral Torah written in the Mishnah is truly what	que a Torá Oral escrita na Mishná é realmente o que
+821	was given to Moshe at Sinai? Would you be willing	foi dado a Moshe no Sinai? Você estaria disposto
+822	to bet 500	a apostar 500
+823	dollars on this telephone game? Suppose	dólares nesse jogo do telefone sem fio? Suponha
+824	they ask the last one what he heard and he says "chair." Is there	que perguntam ao último o que ouviu e ele diz "cadeira". Existe
+825	anyone in the world who would bet 500 dollars,	alguém no mundo que apostaria 500 dólares,
+826	or even 100 dollars, that this is the word the first one	ou até 100 dólares, que essa é a palavra que o primeiro
+827	heard? Maybe it got distorted, so how will I know? But	ouviu? Talvez tenha se distorcido, então como vou saber? Mas
+828	the answer is simple: if we take the same game of	a resposta é simples: se pegarmos o mesmo jogo do
+829	broken telephone but play it with a few	telefone sem fio mas jogarmos com algumas
+830	differences, we'll see that people won't want	diferenças, veremos que as pessoas não vão querer
+831	to bet. First, we take not one group but	apostar. Primeiro, tomamos não um grupo, mas
+832	10 groups, so there is a control; everyone hears	10 grupos, para haver controle; todos ouvem
+833	the same word, so there is a kind of control. We take	a mesma palavra, então há uma espécie de controle. Tomamos
+834	10 groups and spread them out in different	10 grupos e os espalhamos em
+835	rooms, and we announce to whoever wants to take part	salas diferentes, e avisamos a quem quiser participar
+836	in the game: you take part on the condition that if you distort	do jogo: você participa com a condição de que, se distorcer
+837	the word, you pay	a palavra, você paga
+838	a fine of 100	uma multa de 100
+839	dollars. If you pass on the word as you heard it, you	dólares. Se você transmitir a palavra como ouviu, você

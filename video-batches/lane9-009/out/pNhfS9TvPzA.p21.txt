@@ -1,0 +1,13 @@
+840	In a little while there's a wedding	Daqui a pouco tem um casamento
+841	of your cousin. Do you have a dress for the wedding? No,	da sua prima. Você tem vestido para o casamento? Não,
+842	Dad, yes, I have the one from the previous cousin's	papai, tenho sim, aquele do casamento da outra prima,
+843	wedding. How long ago was the previous	o último. Há quanto tempo foi o casamento da
+844	cousin's wedding? Half a year ago. My sweet.	prima anterior? Há meio ano. Minha querida.
+845	Absolutely not.	De jeito nenhum.
+846	You're going to buy a new dress. Really? Yes.	Você vai comprar um vestido novo. Sério? Sim.
+847	But Dad, it's fine. No.	Mas papai, está bom assim. Não.
+848	Your appearance matters to me, and I want that before you	Sua aparência é importante para mim, e quero que antes de você
+849	go to the wedding, you go get your hair done.	ir ao casamento, você vá fazer um penteado.
+850	Dad, it's fine, there's no need to overdo it. It matters to me	Papai, está bom, não precisa exagerar. É importante para mim
+851	that you look good.	que você fique bonita.
+879	They get the house ready for Shabbat, they organize, they tidy up...	Arrumam a casa para o Shabat, organizam, arrumam...
