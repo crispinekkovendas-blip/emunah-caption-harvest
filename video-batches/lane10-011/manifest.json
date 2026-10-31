@@ -375,10 +375,10 @@
   "B40fco4kwuo": 2,
   "JnI74lxJVCQ": 2,
   "Ic8lOSB_FHg": 3,
-  "zz3J06SPFt0": 2,
+  "zz3J06SPFt0": 3,
   "gpTawZWgjJk": 2,
   "bOymIv5HHlw": 3,
-  "FmM8o31AzOc": 2
+  "FmM8o31AzOc": 3
  },
  "done": [],
  "skipped": [
@@ -388,6 +388,8 @@
   "1WPDlC-F1Vw",
   "bOymIv5HHlw",
   "QBHQwdHLg7M",
-  "Ic8lOSB_FHg"
+  "Ic8lOSB_FHg",
+  "FmM8o31AzOc",
+  "zz3J06SPFt0"
  ]
 }
