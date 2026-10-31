@@ -1,0 +1,103 @@
+{
+ "name": "lane3-023",
+ "lane": 3,
+ "created": "2026-10-31T00:17:47.814Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "fvpWbcPSwRg",
+   "title": "Vayera: a hospitalidade de Avraham e os três visitantes",
+   "lines": 1057,
+   "parts": 9,
+   "from": "recente"
+  },
+  {
+   "id": "eS5k1hi7vQQ",
+   "title": "Jerusalém: o lugar do altar, da Akedá e da plenitude",
+   "lines": 393,
+   "parts": 4,
+   "from": "recente"
+  },
+  {
+   "id": "zddbIrvXzEo",
+   "title": "Chessed de Avraham: por que acompanhar o hóspede à saída",
+   "lines": 643,
+   "parts": 6,
+   "from": "recente"
+  },
+  {
+   "id": "uMDr2o6eMYs",
+   "title": "A luz em repouso absoluto e a mudança no recipiente",
+   "lines": 881,
+   "parts": 8,
+   "from": "recente"
+  },
+  {
+   "id": "nlE2Z204zwY",
+   "title": "Avraham, kavod shamayim e as leis da shechitá e da tzedaká",
+   "lines": 505,
+   "parts": 5,
+   "from": "recente"
+  },
+  {
+   "id": "rb5s4tZhJU8",
+   "title": "Almas misturadas: não desistir em meio à confusão",
+   "lines": 838,
+   "parts": 7,
+   "from": "recente"
+  },
+  {
+   "id": "cDQpFq8fybA",
+   "title": "Ninguém é grande sem passar por provas e crises",
+   "lines": 512,
+   "parts": 5,
+   "from": "recente"
+  }
+ ],
+ "chunks": [
+  "fvpWbcPSwRg.p0",
+  "fvpWbcPSwRg.p1",
+  "fvpWbcPSwRg.p2",
+  "fvpWbcPSwRg.p3",
+  "fvpWbcPSwRg.p4",
+  "fvpWbcPSwRg.p5",
+  "fvpWbcPSwRg.p6",
+  "fvpWbcPSwRg.p7",
+  "fvpWbcPSwRg.p8",
+  "eS5k1hi7vQQ.p0",
+  "eS5k1hi7vQQ.p1",
+  "eS5k1hi7vQQ.p2",
+  "eS5k1hi7vQQ.p3",
+  "zddbIrvXzEo.p0",
+  "zddbIrvXzEo.p1",
+  "zddbIrvXzEo.p2",
+  "zddbIrvXzEo.p3",
+  "zddbIrvXzEo.p4",
+  "zddbIrvXzEo.p5",
+  "uMDr2o6eMYs.p0",
+  "uMDr2o6eMYs.p1",
+  "uMDr2o6eMYs.p2",
+  "uMDr2o6eMYs.p3",
+  "uMDr2o6eMYs.p4",
+  "uMDr2o6eMYs.p5",
+  "uMDr2o6eMYs.p6",
+  "uMDr2o6eMYs.p7",
+  "nlE2Z204zwY.p0",
+  "nlE2Z204zwY.p1",
+  "nlE2Z204zwY.p2",
+  "nlE2Z204zwY.p3",
+  "nlE2Z204zwY.p4",
+  "rb5s4tZhJU8.p0",
+  "rb5s4tZhJU8.p1",
+  "rb5s4tZhJU8.p2",
+  "rb5s4tZhJU8.p3",
+  "rb5s4tZhJU8.p4",
+  "rb5s4tZhJU8.p5",
+  "rb5s4tZhJU8.p6",
+  "cDQpFq8fybA.p0",
+  "cDQpFq8fybA.p1",
+  "cDQpFq8fybA.p2",
+  "cDQpFq8fybA.p3",
+  "cDQpFq8fybA.p4"
+ ]
+}
