@@ -1,10 +1,10 @@
 # lane3-024
 
-0 of 3 lessons published · 1 skipped · status **pending**
-Tokens (115 agent runs with a record): 0.6M in (mostly cache) · 0.33M out · API-equivalent 4.05
+0 of 3 lessons published · 3 skipped · status **done**
+Tokens (143 agent runs with a record): 0.8M in (mostly cache) · 0.41M out · API-equivalent 4.83
 
 | lesson | state | detail |
 |---|---|---|
-| eS5k1hi7vQQ | ✗ will be redone (try 2) | line 240 twice |
-| zddbIrvXzEo | skipped after 3 tries | 62 lines missing |
-| nlE2Z204zwY | waiting | 12/13 parts |
+| eS5k1hi7vQQ | skipped after 3 tries | 17 lines missing |
+| zddbIrvXzEo | skipped | |
+| nlE2Z204zwY | skipped after 3 tries | 5 lines missing |
