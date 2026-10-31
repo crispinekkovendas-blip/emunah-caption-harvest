@@ -1,0 +1,64 @@
+videoId: fugarMbiezI
+parte 8 de 22 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot: a Nekudá que desce a Briá
+RESUMO: O rabino revisa o contexto da Parte 3 do Talmud Eser HaSefirot: a descida dos mundos por causa e efeito e as duas bençãos do Keter, Atik e Arich. Lê o título do capítulo 7, que trata de como a Malchut de Atzilut desceu e se tornou o Keter em Briá, e distingue dois tipos de descida: as dez sefirot de or yashar com or chozer, que se expandem por meio do masach, e a última bechiná, Malchut de Malchut, que fura o masach e se torna Atik. Em seguida lê o Arizal sobre a diminuição da Levaná (Malchut), que se igualava a Zeir Anpin, queixou-se de que "não há dois reis que usem a mesma coroa" e recebeu a ordem de se diminuir. As nove sefirot voltaram a Zeir Anpin e só a nekudá desceu a Briá, e por isso é chamada "espelho que nada tem de si". Ele debate com os alunos se há raízes de kelim ou luz nessa nekudá, rejeita especulações sem apoio no texto e explica, com Or Pnimi 10, que não há desaparecimento no espiritual: a bechiná nova se soma à anterior, como quem acende uma vela de outra. Por fim, relaciona a reparação da Malchut à oração diária e comenta o Or Pnimi 4: quando a diminuição vem do pecado dos inferiores, as nove sefirot caem nas klipot.
+MOMENTOS: 00:58 Panorama: a descida dos mundos por causa e efeito · 01:22 Keter: Atik e Arich, em potência e em ato · 03:28 Título do cap. 7: Malchut de Atzilut vira Keter de Briá · 04:56 Duas bechinot que descem de um mundo ao outro · 08:55 Por que Malchut é chamada nekudá · 13:12 O Arizal: a diminuição da Levaná e o pecado de Malchut · 24:23 Or Pnimi 6: Zeir Anpin e Malchut em estatura de VAK · 28:00 Atzilut, Briá e a nekudá que fura o masach · 33:06 Espelho que nada tem de si e as nove sefirot de or chozer · 38:51 Não há desaparecimento no espiritual (Or Pnimi 10) · 44:23 Item 3: a nekudá permanece Atik em Briá após a reparação · 45:50 A oração diária como reparação de Malchut · 57:18 Item 4: as nove sefirot caem nas klipot
+FONTES CITADAS: 03:28 Talmud Eser HaSefirot, parte 3, cap. 7, item 1 · 04:56 Talmud Eser HaSefirot, parte 3, cap. 7, item 2 · 05:49 Rav Gedalia HaLevi, citado em Talmud Eser HaSefirot · 13:12 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 2 · 14:27 Bereshit 1:16 · 24:47 Chulin 60b · 25:18 Melachim I 1:5 · 32:42 Arizal, Or Pnimi 7, item 6 · 38:51 Or Pnimi 10, no Talmud Eser HaSefirot · 44:23 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 3 · 45:50 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 3 · 48:59 Berachot 32b · 49:47 Sidur, bênção Yotzer Or · 53:07 Or Pnimi 10, no Talmud Eser HaSefirot · 54:21 Sanhedrin 22b · 57:18 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 4 · 1:00:51 Yevamot 62b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|20:44|אור אינסוף, או...
+269|20:48|איך שלא נקרא לזה.
+270|20:51|אני מבין מה אתה אומר, שכאילו החלק הזה של הצילות,
+271|20:56|בגלל שהוא בכללים וזה, אבל אני לא ראיתי סימוכין לזה בכתוב, אז אני לא
+272|21:02|יכול לאשר לך את זה.
+273|21:04|לא, אני חושב שראיתי איפשהו, שבגלל שזה בא מהצילות, אז המסך לא יכול לעמוד בו,
+274|21:10|ולא יכול להכיל אותו, אז הוא עובר את ה...
+275|21:13|זה לא כתוב שהמסך לא יכול להכיל אותו, זה בטוח.
+276|21:16|אוקיי, אם תראה לי מה כתוב, אני אשמח לאשרר את הסברה שלך, שהיא
+277|21:22|נשמעת, אתה יודע, היא נשמעת, שוב, שהאור של העליון הוא
+278|21:27|בקומה אחרת, אבל לא ראינו את זה לפני זה, אתה מבין?
+279|21:32|לפני זה, זה גם כן לא שלנו, ובכל מה שיש בבריאה, כל העשר
+
+LINHAS A TRADUZIR:
+280|21:38|ספירות הבריאה, הם כן נעצרו במסך, והם גם כן באו מאצילות.
+281|21:44|אבל היה שם מהלך של אור ישר
+282|21:50|ואור חוזר, ואז זה אור פנימי, מה שפה כאילו אין את התהליך הזה,
+283|21:55|ואז נכנס אור שהוא בעצם מהצילות, איכשהו, בצורה נקייה, אפילו שהוא
+284|22:01|מלכו דה מלכו דה אצילות, נכנס אור ישר של הצילות.
+285|22:06|שהוא בוקע כמו צד.
+286|22:07|טוב, אני אשמח רון לראות את זה, לראות, לראות.
+287|22:11|אני חושב שפה ראיתי את זה ואני אנסה לכתוב.
+288|22:13|אוקיי.
+289|22:15|יש לי משהו להגיד פה בעניין הזה, שהאור שיורד מעולם לעולם,
+290|22:20|הראשיתו הוא אטיק, ואחר כך הוא אריסנטין.
+291|22:24|נכון.
+292|22:25|מה שזה אומר עבורנו, זאת אומרת, בואו נלך למעלה במקום העליון, אטיק בא מאינסוף, והאריסנטין
+293|22:32|הוא זה שמוריד למטה את הכלים.
+294|22:34|אטיק זה בכוח אריסנטין.
+295|22:36|מנפים זה כבר הגיוק, זאת אומרת שכל עולם תחתון העולם
+296|22:42|שמעליו הוא מייצג לו מבחינת היכולת, המקום שלו זה מעין
+297|22:48|סינגולריות, זאת אומרת העולם אטי וסינגולריות כלפי העולם שמתחתיו ששם נפרדים
+298|22:54|כלים, לכן אנחנו רואים את זה כאטי, לכן השם אחד שאנחנו אומרים
+299|23:00|ואנחנו מסתכלים לזה מבחינתנו זה סינגולריות של האחד שמתקיים שם
+300|23:07|זאת אומרת כל עולם גבוה יותר, יש בו משהו יותר גבוה מבחינת היכולת
+301|23:13|של האחד להתגלות בתפיסתנו
+302|23:19|כאדם וזה העניין שמה שהוא אומר שהאור של התפילות
+303|23:25|ירד לדריעה, זאת אומרת...
+304|23:26|כן, אבל אתה מסמך את דבריך על דבריו של רון, שאני לא ראיתי להם סימוכים, סימוכים בכתוב.
+305|23:32|לא מספיק כדי לסמך את דבריה על דבריו.
+306|23:35|אוקיי.
+307|23:35|זה לא כל מה שהוא אומר, זה מה שאני חשבתי במסך הסבו.
+308|23:39|סבבה, בסדר.
+309|23:41|שמעתי, מעניין, דרך, אתה יודע, זה משל שונה
+310|23:47|מאיך שבעל הסולם ממשיל את זה, ושמדבר על אותו עניין.
+311|23:51|בסדר גמור.
+312|23:53|אנחנו באות ו' באור פנימי ששוב הוא קצת מסבך אותנו
+313|23:59|אבל בואו נזרום איתו מה מתייחס אות ו' ללשון האריז על וכאשר קטרגה
+314|24:05|הלבנה ונתמעתה אומר כבר נתבהר בדיבור הסמוך
+315|24:11|אשר הלבנה שהוא סוד מלכות הייתה שווה עם זער
+316|24:17|אנפין שהוא סוד שמש עיין שמה כתוב והנה אז היו
+317|24:23|קומת שניהם קומת ואק.
+318|24:27|מה זה קומת ואק?
+319|24:29|שהיה להם רק חג התנאי, שניהם חסרי ראש.

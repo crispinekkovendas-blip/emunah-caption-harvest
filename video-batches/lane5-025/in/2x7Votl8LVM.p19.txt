@@ -1,0 +1,64 @@
+videoId: 2x7Votl8LVM
+parte 20 de 21 · traduzir as linhas 760 a 799 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Likutei Halachot 17: Introdução à Halachá 4 (Torá 30)
+RESUMO: O rabino abre a Halachá 4 de Likutei Halachot, que remete à Torá 30 de Likutei Moharan ("Mishra de Sakina"), e cita a Gemará em Bechorot sobre o canteiro de facas e a resposta de Rabi Yehoshua ben Chananiá aos sábios de Atenas. Ele lê a Torá 30: as percepções divinas só se alcançam por muitas contrações (tzimtzumim) e pelo revestimento do intelecto superior (Chochmá) no inferior (Malchut). Para isso cita Tehilim 51:17, Shemot 34:6, Tehilim 104:24, Hoshea 12:11 e o ensinamento dos Sábios de que Moshe viu HaShem como um ancião sentado em yeshivá. Em seguida expõe o Arizal sobre orelhas e narinas, luz envolvente e luz interior, exterior e interior do vaso, e aplica o tema ao professor e ao aluno: quanto mais distante o aluno, maior deve ser o mestre, com a arte de descer ao nível dele, como o médico. Mostra que a Torá chama isso de "searah be'igula" (Tikunei Zohar), ilustrado por Yevamot 16a, onde os sábios rodearam Rabi Dosa ben Archinos até chegar à "tzarat habat". Por fim relaciona o cabelo (shearot, "shiur"), o preto da pupila (bat ayin), a Malchut e as letras da Torá, e lê "Bat hayta le'Avraham" e "bat techila siman yafe labanim", em que "bat" é o intelecto inferior que leva aos "banim", o intelecto superior.
+MOMENTOS: 00:01 Início da Halachá 4 e indicação de estudar toda a Torá 30 · 01:36 O que é "Mishra de Sakina" (canteiro de facas) · 02:00 Gemará em Bechorot: sábios de Atenas e Rabi Yehoshua · 04:56 Leitura da Torá 30, ot 1: percepção divina por tzimtzumim · 09:17 Moshe e a aparência de ancião: contrações e revestimentos · 12:15 Mestre que reveste o intelecto no nível do aluno; exemplos · 18:28 Arizal: orelhas e narinas, luz envolvente e interior do vaso · 29:03 Parábola do mestre e do aluno: ajustar a luz ao vaso · 32:47 Resolução: o grande mestre sabe descer ao nível do aluno · 39:30 Mestre honesto versus mestre corrompido (Imrei Da'at) · 42:41 Quanto mais distante, maior o mestre; Moshe e o médico · 46:02 Shearot, "searah be'igula" e Yevamot 16a (tzarat habat) · 52:15 Cabelo preto, bat ayin e as letras da Torá · 56:16 Bat techila siman yafe labanim
+FONTES CITADAS: 00:08 Likutei Halachot, Halachá 4 · 01:36 Likutei Moharan, Torá 30 (Mishra de Sakina) · 02:00 Bechorot 8b · 02:35 Bechorot 8b · 03:05 Bechorot 8b · 03:35 Bechorot 8b · 04:17 Gaon de Vilna sobre Bechorot 8b · 04:56 Likutei Moharan I:30:1 · 07:01 Tikunei Zohar, Hakdamá · 07:17 Tehilim 51:17 · 07:24 Shemot 34:6 · 09:34 Mechilta, Beshalach (Shemot 15) · 09:59 Hoshea 12:11 · 11:07 Tehilim 104:24 · 11:35 Likutei Moharan, Torá 1 (Torat Ayelet Chen) · 14:51 Likutei Moharan (outro local) · 18:47 Arizal, Etz Chaim, Shaar HaAkudim · 21:42 Likutei Moharan I:30:2 (Etz Chaim) · 23:03 Likutei Moharan I:30:2 (Etz Chaim) · 39:30 Imrei Da'at, Rabi Yehuda Meir Lifkovitz · 43:01 Zohar, os 49 portões de impureza · 46:35 Tikunei Zohar, Searah be'igula · 48:04 Yevamot 16a · 51:11 Yevamot 16a · 52:15 Zohar, Searah ukmah · 52:21 Shir HaShirim 1:5 · 53:11 Likutei Moharan I:30:3 · 54:09 Arizal, Shaar HaKavanot, Sefer Torá · 54:39 Bava Batra 16b · 56:16 Shemot 3:2 · 56:52 Bava Batra 141a · 57:03 Menachot 110a · 57:03 Yeshayahu 43:6 · 57:28 Shemot 2:4 · 57:32 Mishlei 7:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+748|53:32|האותיות של התורה.
+749|53:35|האותיות של התורה.
+750|53:37|כי המצוות הן חוכמות הבורא ידבר שמו כי כל מצווה ומצווה יש לה שיעורים אחרים וגבולים כגון
+751|53:43|מפני מה מצווה הזאת מצוותה בכך מפני שכך היווה חוכמתו ידבר שמו וכן מצווה אחרת מצוותה
+752|53:49|בכך לפי חוכמתו ידבר שמו וכל מצווה ומצווה יש לה אותיות ותיבות ועניינים שהם
+753|53:55|שיעורים וגבולים שמצומצם בהם חוכמתו ידבר שמו שזה בחינת
+754|54:00|התלבשות השכל העליון בשכל התחתון שעל ידי זה זוכים להשגות אלוקות כנזכר לי
+755|54:07|על ידי אותיות התורה.
+756|54:09|רבנו הארי כותב שבהקדמה של ס...
+757|54:11|בהגבהה של ספר תורה, יתקרב עד שיוכל לראות את האותיות של הספר תורה, ועל ידי כך יימשך אליו
+758|54:17|הערה גדולה.
+759|54:19|ללשון רבנו הארי בשאר הכוונות בדרושי ספר תורה.
+
+LINHAS A TRADUZIR:
+760|54:25|את ההוד של אותו בן אדם.
+761|54:26|ההוד של אותו בן אדם זה תוספת של אחרונים.
+762|54:27|רבנו הארי לא כתב ככה.
+763|54:29|מרן הבן ישראלי כתב את זה בספר אחרת לתפארת.
+764|54:34|יא ביי יא ביי יא ביי יא ביי יא ביי וזה בחינת בת הייתה לו לאברהם
+765|54:39|אבינו.
+766|54:43|או בכל שמה.
+767|54:44|אז קודם כל אברהם אבינו רבותיי זה בחינה של חוכמה.
+768|54:47|אברהם זה חסד.
+769|54:48|אבל אנחנו אומרים אברהם אבינו, כן?
+770|54:51|שזה בחינה שאיזה ספירה יש למעלה מהחסד?
+771|54:53|חוכמה.
+772|54:55|חכן בגדתי.
+773|54:56|חוכמה.
+774|54:58|ובכל שמה.
+775|54:59|בת הייתה לאברהם אבינו ובכל שמה.
+776|55:01|בת זו בחינת בת עין.
+777|55:05|דהיינו השחור שבעין, שהוא בחינת השחרות הנזכר לי,
+778|55:11|שהוא מצמצם ומגביל, כן, שהוא מצמצם ומגביל וכולל
+779|55:16|בעצמו כל הדברים הגדולים העומדים לנגדו.
+780|55:20|כגון הר גדול, כשעומד לפני הבת עין, שהוא השחור שבעין.
+781|55:24|אזי נקבל כל ההר שבתוך הבת עין שרואה אותו.
+782|55:27|רואים בעצם דוגמה איך השכל העליון מצטמצם בשכל התחתון?
+783|55:31|אומר פה הרב שבעישון...
+784|55:34|כן?
+785|55:34|אתם יודעים למה לאישון קוראים אישון?
+786|55:37|איש קטן.
+787|55:38|איש קטן.
+788|55:38|מה הכוונה איש קטן?
+789|55:39|מה זה?
+790|55:41|הכוונה שאם אתה עכשיו, אפילו יעמוד מולך איזה מישהו ככה גדול,
+791|55:46|כן?
+792|55:48|188 קילו.
+793|55:50|גדול.
+794|55:52|אבל באישון שלך, רואים אותו ככה קטן.
+795|55:56|זאת אומרת, כל דבר, אפילו הר גדול, רואים אותו באישון.
+796|56:03|כי השכרות שבהן הוא מצמצם כל הדברים הגדולים ונכללים ונראים בתוכו ועל ידי זה רואים ומשיגים
+797|56:08|הדבר שרואים.
+798|56:10|כמו כן זה השכל התחתון מצמצם ומקביל לשכל הגדול העליון ונכלל בתוכו שעל ידי זה
+799|56:16|רואים ומבינים ומשיגים את השכל העליון הגדול כנ"ל וזה בחינת וירא אליו השם בלבת

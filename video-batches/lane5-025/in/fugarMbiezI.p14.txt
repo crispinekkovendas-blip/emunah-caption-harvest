@@ -1,0 +1,64 @@
+videoId: fugarMbiezI
+parte 15 de 22 · traduzir as linhas 560 a 599 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot: a Nekudá que desce a Briá
+RESUMO: O rabino revisa o contexto da Parte 3 do Talmud Eser HaSefirot: a descida dos mundos por causa e efeito e as duas bençãos do Keter, Atik e Arich. Lê o título do capítulo 7, que trata de como a Malchut de Atzilut desceu e se tornou o Keter em Briá, e distingue dois tipos de descida: as dez sefirot de or yashar com or chozer, que se expandem por meio do masach, e a última bechiná, Malchut de Malchut, que fura o masach e se torna Atik. Em seguida lê o Arizal sobre a diminuição da Levaná (Malchut), que se igualava a Zeir Anpin, queixou-se de que "não há dois reis que usem a mesma coroa" e recebeu a ordem de se diminuir. As nove sefirot voltaram a Zeir Anpin e só a nekudá desceu a Briá, e por isso é chamada "espelho que nada tem de si". Ele debate com os alunos se há raízes de kelim ou luz nessa nekudá, rejeita especulações sem apoio no texto e explica, com Or Pnimi 10, que não há desaparecimento no espiritual: a bechiná nova se soma à anterior, como quem acende uma vela de outra. Por fim, relaciona a reparação da Malchut à oração diária e comenta o Or Pnimi 4: quando a diminuição vem do pecado dos inferiores, as nove sefirot caem nas klipot.
+MOMENTOS: 00:58 Panorama: a descida dos mundos por causa e efeito · 01:22 Keter: Atik e Arich, em potência e em ato · 03:28 Título do cap. 7: Malchut de Atzilut vira Keter de Briá · 04:56 Duas bechinot que descem de um mundo ao outro · 08:55 Por que Malchut é chamada nekudá · 13:12 O Arizal: a diminuição da Levaná e o pecado de Malchut · 24:23 Or Pnimi 6: Zeir Anpin e Malchut em estatura de VAK · 28:00 Atzilut, Briá e a nekudá que fura o masach · 33:06 Espelho que nada tem de si e as nove sefirot de or chozer · 38:51 Não há desaparecimento no espiritual (Or Pnimi 10) · 44:23 Item 3: a nekudá permanece Atik em Briá após a reparação · 45:50 A oração diária como reparação de Malchut · 57:18 Item 4: as nove sefirot caem nas klipot
+FONTES CITADAS: 03:28 Talmud Eser HaSefirot, parte 3, cap. 7, item 1 · 04:56 Talmud Eser HaSefirot, parte 3, cap. 7, item 2 · 05:49 Rav Gedalia HaLevi, citado em Talmud Eser HaSefirot · 13:12 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 2 · 14:27 Bereshit 1:16 · 24:47 Chulin 60b · 25:18 Melachim I 1:5 · 32:42 Arizal, Or Pnimi 7, item 6 · 38:51 Or Pnimi 10, no Talmud Eser HaSefirot · 44:23 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 3 · 45:50 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 3 · 48:59 Berachot 32b · 49:47 Sidur, bênção Yotzer Or · 53:07 Or Pnimi 10, no Talmud Eser HaSefirot · 54:21 Sanhedrin 22b · 57:18 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 4 · 1:00:51 Yevamot 62b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+548|41:31|אל תזרקו לי את המילה רשימו עכשיו על כל דבר.
+549|41:36|סליחה שאני...
+550|41:37|אמר לנו שכשהאור מתמעט ויצא מהכלים, הוא הפסיד את הרשימו שלו בכלים.
+551|41:42|נכון.
+552|41:43|מדברים על העיגולים אבל...
+553|41:47|לא רק בעיגולים, יהיה לנו התעסקות שלמה ברשימו, בחלק ד', אם ירצה השם,
+554|41:53|וכולי.
+555|41:54|כשמסתלק האור מהכלים, אבל פה לא מדובר על זה.
+556|41:59|ולכן אי אפשר לקחת את המילה הזאת ולהשתמש בפה, להגיד, אה, אז המלכות הזאת...
+557|42:04|מלכות דמלכות, הנקודה ירדה מאצילות לבריאה, אז עכשיו היא זוכרת את הכל
+558|42:10|בתוכה.
+559|42:13|מה נפקא מינה?
+
+LINHAS A TRADUZIR:
+560|42:14|זה לא מה שהוא מלמד אותנו.
+561|42:17|טוב.
+562|42:18|כן, מחילה.
+563|42:20|אני, אתם יודעים, זה ים שאפשר ללכת בו לעיבוד בקלות רבה ביותר.
+564|42:26|אולי השאלה?
+565|42:27|אולי השאלה?
+566|42:30|אולי השאלה שעולה זה בעצם איך הדבר הזה שאין לטל אמיגרמא כלום יורד ביותר שורשי
+567|42:36|כלים שוב ליוד וקיי וווה וקיי ועשר ספירות.
+568|42:40|כי במקביל יש שם תהליך שלם שיצאו עשר ספירות כן עם מסך וכן עם
+569|42:46|זיווג ועכשיו הם ימשיכו להזדווג ולהוציא עוד את כל הקומות
+570|42:52|הראויות בעולם הבריאה.
+571|42:54|זה רק נקודה אחת שעוברת שהיא נהיית עתיק.
+572|43:01|אז הנקודה הזאת היא למעשה לצורך
+573|43:06|עתיק.
+574|43:07|היא לצורך עתיק, ואם דיברנו בפעם שעברה, שמבחינת זה שאנחנו
+575|43:13|קוראים לכתר אינסוף, כן, אז אנחנו מבינים באמת
+576|43:18|שיש שם איזשהו חלקיק, אור, כלי, עם הכלי המתאים לו,
+577|43:25|שהוא אור עצמותו, שהוא התחדשות שנמצאת בתוך הכתר של כל עולם.
+578|43:31|של כל ספירה, של כל עשר ספירות.
+579|43:33|והוא, כמו שאמרנו, יהיה שורש לאריך אנפין, ששם כבר יש את
+580|43:39|השורשי כלים לארבעת העולמות, ומשם יתחיל להשתלשלות.
+581|43:43|נכון, נכון, נכון.
+582|43:45|ואז מתחת הפה דה ראש.
+583|43:48|כי האריך כן יצא בצורה של...
+584|43:53|איך קוראים לזה?
+585|43:54|מסך, והוא חוזר.
+586|43:56|כן.
+587|43:57|מתוך העתיק?
+588|44:01|לא.
+589|44:02|טוב, חבר'ה, סיבכתם אותי?
+590|44:04|אני מודה, אני נכנע.
+591|44:07|אני נכנע.
+592|44:08|אנחנו מתקדמים.
+593|44:10|איך הוא בדיוק השורש?
+594|44:15|בדיוק, אני אסביר בהמשך.
+595|44:17|בואו נתקדם קצת, אוקיי?
+596|44:19|בואו נתקדם.
+597|44:23|הכותרת של אות ג' ואריזה, גם אחר שכבר נתקן מיעוט
+598|44:29|המלכות, נשארה המלכות להיות עתיק בבריאה.
+599|44:37|איפה לדעתכם ניתקן מיעוט המלכות?

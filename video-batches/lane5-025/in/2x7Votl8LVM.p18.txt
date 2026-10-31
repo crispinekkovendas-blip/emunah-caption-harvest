@@ -1,0 +1,64 @@
+videoId: 2x7Votl8LVM
+parte 19 de 21 · traduzir as linhas 720 a 759 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Likutei Halachot 17: Introdução à Halachá 4 (Torá 30)
+RESUMO: O rabino abre a Halachá 4 de Likutei Halachot, que remete à Torá 30 de Likutei Moharan ("Mishra de Sakina"), e cita a Gemará em Bechorot sobre o canteiro de facas e a resposta de Rabi Yehoshua ben Chananiá aos sábios de Atenas. Ele lê a Torá 30: as percepções divinas só se alcançam por muitas contrações (tzimtzumim) e pelo revestimento do intelecto superior (Chochmá) no inferior (Malchut). Para isso cita Tehilim 51:17, Shemot 34:6, Tehilim 104:24, Hoshea 12:11 e o ensinamento dos Sábios de que Moshe viu HaShem como um ancião sentado em yeshivá. Em seguida expõe o Arizal sobre orelhas e narinas, luz envolvente e luz interior, exterior e interior do vaso, e aplica o tema ao professor e ao aluno: quanto mais distante o aluno, maior deve ser o mestre, com a arte de descer ao nível dele, como o médico. Mostra que a Torá chama isso de "searah be'igula" (Tikunei Zohar), ilustrado por Yevamot 16a, onde os sábios rodearam Rabi Dosa ben Archinos até chegar à "tzarat habat". Por fim relaciona o cabelo (shearot, "shiur"), o preto da pupila (bat ayin), a Malchut e as letras da Torá, e lê "Bat hayta le'Avraham" e "bat techila siman yafe labanim", em que "bat" é o intelecto inferior que leva aos "banim", o intelecto superior.
+MOMENTOS: 00:01 Início da Halachá 4 e indicação de estudar toda a Torá 30 · 01:36 O que é "Mishra de Sakina" (canteiro de facas) · 02:00 Gemará em Bechorot: sábios de Atenas e Rabi Yehoshua · 04:56 Leitura da Torá 30, ot 1: percepção divina por tzimtzumim · 09:17 Moshe e a aparência de ancião: contrações e revestimentos · 12:15 Mestre que reveste o intelecto no nível do aluno; exemplos · 18:28 Arizal: orelhas e narinas, luz envolvente e interior do vaso · 29:03 Parábola do mestre e do aluno: ajustar a luz ao vaso · 32:47 Resolução: o grande mestre sabe descer ao nível do aluno · 39:30 Mestre honesto versus mestre corrompido (Imrei Da'at) · 42:41 Quanto mais distante, maior o mestre; Moshe e o médico · 46:02 Shearot, "searah be'igula" e Yevamot 16a (tzarat habat) · 52:15 Cabelo preto, bat ayin e as letras da Torá · 56:16 Bat techila siman yafe labanim
+FONTES CITADAS: 00:08 Likutei Halachot, Halachá 4 · 01:36 Likutei Moharan, Torá 30 (Mishra de Sakina) · 02:00 Bechorot 8b · 02:35 Bechorot 8b · 03:05 Bechorot 8b · 03:35 Bechorot 8b · 04:17 Gaon de Vilna sobre Bechorot 8b · 04:56 Likutei Moharan I:30:1 · 07:01 Tikunei Zohar, Hakdamá · 07:17 Tehilim 51:17 · 07:24 Shemot 34:6 · 09:34 Mechilta, Beshalach (Shemot 15) · 09:59 Hoshea 12:11 · 11:07 Tehilim 104:24 · 11:35 Likutei Moharan, Torá 1 (Torat Ayelet Chen) · 14:51 Likutei Moharan (outro local) · 18:47 Arizal, Etz Chaim, Shaar HaAkudim · 21:42 Likutei Moharan I:30:2 (Etz Chaim) · 23:03 Likutei Moharan I:30:2 (Etz Chaim) · 39:30 Imrei Da'at, Rabi Yehuda Meir Lifkovitz · 43:01 Zohar, os 49 portões de impureza · 46:35 Tikunei Zohar, Searah be'igula · 48:04 Yevamot 16a · 51:11 Yevamot 16a · 52:15 Zohar, Searah ukmah · 52:21 Shir HaShirim 1:5 · 53:11 Likutei Moharan I:30:3 · 54:09 Arizal, Shaar HaKavanot, Sefer Torá · 54:39 Bava Batra 16b · 56:16 Shemot 3:2 · 56:52 Bava Batra 141a · 57:03 Menachot 110a · 57:03 Yeshayahu 43:6 · 57:28 Shemot 2:4 · 57:32 Mishlei 7:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+708|50:50|זאת אומרת, שליח, הוא חריף מאוד, בכור שטן וכו'.
+709|50:56|ואז יש פה, יש שם את המעשה, וזה אחד מהמעשים המופלאים ביותר.
+710|51:00|איך הוא כבר היה זקן מופלג ולא ראה בעיניים, רבי דוסא בן ארקינס.
+711|51:04|ואז שאלו אותו מי, הוא שאל מי נכנס פה, ואמרו לו כל אחד מהחכמים, אמרו לו את רבי
+712|51:10|עקיבא.
+713|51:11|הוא אמר לו, אתה עקיבא בן יוסף ששמך הולך מסוף העולם ועד סופו.
+714|51:17|שב בני שב, כמוך ירבו בישראל.
+715|51:20|אתם יודעים שבמימראה הזאת, אתה רבי עקיבא ששמך הולך מסוף
+716|51:25|העולם ועד סופו.
+717|51:27|אם אתם תעשו מסוף העולם ועד סופו, בגימטריה זה מספר הפעמים שרבי עקיבא כתוב
+718|51:32|בש"ס.
+719|51:35|ששמחה הולך מסוף העולם ועד סופו.
+
+LINHAS A TRADUZIR:
+720|51:38|טוב, כמה דברים יש רבותיי בתלמוד, זה דברי חכמים וחידותם, זה אי אפשר לשער
+721|51:44|ולהבין.
+722|51:45|אבל פה שימו לב שהרב, הוא לוקח את זה לעניין שלו, הוא אומר, כמו שמצאים בדברי
+723|51:51|רבותינו ז"ל, יבמות דף ט"ז, שסיבבו בהלכות עד שהגיעו לצרת הבת,
+724|51:58|נמצא שכל ההלכות שדיברו מקודם לא היו עיקר
+725|52:03|המכוון, רק היו סיבובים והקדמות כדי להגיע לצרת
+726|52:08|הבת, שהוא המכוון.
+727|52:10|וזה הכוונה של הזוהר, שערה בעיגולה.
+728|52:15|וזה בחינת שערה אוקמה, וגם כתוב בזוהר שערה אוקמה, שיער שחור.
+729|52:21|בחינת שחורה אני ונבע.
+730|52:24|למה?
+731|52:25|כי שכל עליון זה מה שיש בפנים, זה חוכמה.
+732|52:27|שכל תחתון זה השיערות וכולי, זה בחינת המלכות.
+733|52:31|והמלכות, היא נקראת בעצם שערה אוקמה, שיער
+734|52:37|שחור.
+735|52:39|כי השחרות, הוא מקבץ את הרעות, הוא מצמצם אותו כדי לראות היטב.
+736|52:44|מה הפירוש?
+737|52:46|איך בן אדם רואה?
+738|52:47|דרך האישון של העין.
+739|52:49|האישון הוא שחור.
+740|52:52|זה נקרא בת עין.
+741|52:55|וזה בעצם הצמצום.
+742|52:57|שהאישון מצטמצם ומתרחב כאשר הוא צריך לראות
+743|53:05|כדי לראות היטב כי השכל התחתון הוא בחינת שחרות שמצמצם בו נאווה ויופי שבשכל העליון
+744|53:11|ואלו השערות הן בחינת שיעורה דעתוון דאורייתא דהיינו השיעור של אותיות התורה
+745|53:19|כי המצוות הן חוכמות הבורא ידבר שמו המצוות זה כביכול החוכמה העליונה
+746|53:24|המצוות אבל איך אני יכול להגדיר אותם, לדעת אותם, להבין אותם,
+747|53:30|דרך המלכות, שמה זה המלכות?
+748|53:32|האותיות של התורה.
+749|53:35|האותיות של התורה.
+750|53:37|כי המצוות הן חוכמות הבורא ידבר שמו כי כל מצווה ומצווה יש לה שיעורים אחרים וגבולים כגון
+751|53:43|מפני מה מצווה הזאת מצוותה בכך מפני שכך היווה חוכמתו ידבר שמו וכן מצווה אחרת מצוותה
+752|53:49|בכך לפי חוכמתו ידבר שמו וכל מצווה ומצווה יש לה אותיות ותיבות ועניינים שהם
+753|53:55|שיעורים וגבולים שמצומצם בהם חוכמתו ידבר שמו שזה בחינת
+754|54:00|התלבשות השכל העליון בשכל התחתון שעל ידי זה זוכים להשגות אלוקות כנזכר לי
+755|54:07|על ידי אותיות התורה.
+756|54:09|רבנו הארי כותב שבהקדמה של ס...
+757|54:11|בהגבהה של ספר תורה, יתקרב עד שיוכל לראות את האותיות של הספר תורה, ועל ידי כך יימשך אליו
+758|54:17|הערה גדולה.
+759|54:19|ללשון רבנו הארי בשאר הכוונות בדרושי ספר תורה.

@@ -1,0 +1,50 @@
+videoId: fugarMbiezI
+parte 1 de 22 · traduzir as linhas 0 a 39 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot: a Nekudá que desce a Briá
+RESUMO: O rabino revisa o contexto da Parte 3 do Talmud Eser HaSefirot: a descida dos mundos por causa e efeito e as duas bençãos do Keter, Atik e Arich. Lê o título do capítulo 7, que trata de como a Malchut de Atzilut desceu e se tornou o Keter em Briá, e distingue dois tipos de descida: as dez sefirot de or yashar com or chozer, que se expandem por meio do masach, e a última bechiná, Malchut de Malchut, que fura o masach e se torna Atik. Em seguida lê o Arizal sobre a diminuição da Levaná (Malchut), que se igualava a Zeir Anpin, queixou-se de que "não há dois reis que usem a mesma coroa" e recebeu a ordem de se diminuir. As nove sefirot voltaram a Zeir Anpin e só a nekudá desceu a Briá, e por isso é chamada "espelho que nada tem de si". Ele debate com os alunos se há raízes de kelim ou luz nessa nekudá, rejeita especulações sem apoio no texto e explica, com Or Pnimi 10, que não há desaparecimento no espiritual: a bechiná nova se soma à anterior, como quem acende uma vela de outra. Por fim, relaciona a reparação da Malchut à oração diária e comenta o Or Pnimi 4: quando a diminuição vem do pecado dos inferiores, as nove sefirot caem nas klipot.
+MOMENTOS: 00:58 Panorama: a descida dos mundos por causa e efeito · 01:22 Keter: Atik e Arich, em potência e em ato · 03:28 Título do cap. 7: Malchut de Atzilut vira Keter de Briá · 04:56 Duas bechinot que descem de um mundo ao outro · 08:55 Por que Malchut é chamada nekudá · 13:12 O Arizal: a diminuição da Levaná e o pecado de Malchut · 24:23 Or Pnimi 6: Zeir Anpin e Malchut em estatura de VAK · 28:00 Atzilut, Briá e a nekudá que fura o masach · 33:06 Espelho que nada tem de si e as nove sefirot de or chozer · 38:51 Não há desaparecimento no espiritual (Or Pnimi 10) · 44:23 Item 3: a nekudá permanece Atik em Briá após a reparação · 45:50 A oração diária como reparação de Malchut · 57:18 Item 4: as nove sefirot caem nas klipot
+FONTES CITADAS: 03:28 Talmud Eser HaSefirot, parte 3, cap. 7, item 1 · 04:56 Talmud Eser HaSefirot, parte 3, cap. 7, item 2 · 05:49 Rav Gedalia HaLevi, citado em Talmud Eser HaSefirot · 13:12 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 2 · 14:27 Bereshit 1:16 · 24:47 Chulin 60b · 25:18 Melachim I 1:5 · 32:42 Arizal, Or Pnimi 7, item 6 · 38:51 Or Pnimi 10, no Talmud Eser HaSefirot · 44:23 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 3 · 45:50 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 3 · 48:59 Berachot 32b · 49:47 Sidur, bênção Yotzer Or · 53:07 Or Pnimi 10, no Talmud Eser HaSefirot · 54:21 Sanhedrin 22b · 57:18 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 4 · 1:00:51 Yevamot 62b
+
+LINHAS A TRADUZIR:
+0|00:01|ערב טוב, אנחנו בלימוד שלנו, תלמוד עשר הספירות, חלק ג'
+1|00:08|וכן, אנחנו אי שם בחלק ג' בפרק ז' של
+2|00:14|חלק ג' ועצרנו באמצע אות ב' בארי ז' ואות
+3|00:20|ו' באור פנימי, אנחנו עצרנו בעמוד ק' קכח
+4|00:26|ואני רק רוצה להזכיר איפה אנחנו ממוקמים, בחלק ג' כמובן, מזכיר לנו, בעל
+5|00:32|הסולם מביא הרבה דרושים מאריזה ללמד אותנו מה זה י"ג מיני עשר
+6|00:38|ספירות, ותוך כדי על הדרך הוא מביא לנו דרושים בכל מיני עניינים, הרבה
+7|00:43|מושגים שהם בכלל לא שייכים לחלק הזה, הם שייכים לחלקים מתקדמים יותר, אז אנחנו צריכים
+8|00:49|לראות מה אנחנו באמת צריכים להוציא מכל פרק כזה.
+9|00:56|מה לענייננו?
+10|00:58|כי כל התלמוד עשר הספירות זה עניין של השתלשלות העולמות מאין סוף ברוך הוא
+11|01:05|עד לעולם הזה, בסדר של סיבה ומסובב.
+12|01:09|אז בדרך אפשר ככה להרחיב, אבל צריך כל הזמן לזכור איפה אנחנו אוחזים.
+13|01:16|ומכיוון שבפרק ו' הוא עשה לנו כזה זום אין על ספירת הכתר שבכל
+14|01:22|עולם, ואמרנו שבכתר יש שתי בחינות,
+15|01:28|אטיק ואריך, ואטיק זאת בחינה שבאה
+16|01:33|ממלכות של העליון, הופכת להיות אטיק בכתר של
+17|01:39|התחתון, זה החומר הראשוני של התחתון, ואריך זה
+18|01:44|כבר החומר הראשוני של התחתון, אבל כבר מגולם יותר, כבר יש שם את הדלת
+19|01:50|בחינות של התחתון.
+20|01:52|כבר בפועל אפשר לראות אותם זה נקרא בכוח ובפועל
+21|01:58|ולימד אותנו כן שבפרק ז' מה שכבר
+22|02:03|למדנו שהבחינה הזאת האחרונה של העליון שהיא בעצם מלכות דה מלכות
+23|02:09|של העליון זאת שהופכת להיות עתיק בכתר של התחתון היא בוקעת את
+24|02:15|המסך וזה היה החידוש הגדול של תחילת פרק ז' שבעצם
+25|02:21|עד עכשיו למדנו שהאור ישר מתפשט, פוגע במסך, המסך עוצר אותו
+26|02:27|מלהיכנס לבחינה ד', המסך מחזיר את האור לאחוריו, זה נקרא אור חוזר, האור חוזר
+27|02:32|מלביש את האור ישר, ובזכות זה שהמלכות עכשיו עשתה מסך
+28|02:38|שדוחה את האור, בזכות זה היא משפיעה על העליונים, והיא מקבלת בתוכה, מינה
+29|02:44|ובה, את כל מה שהשפיע על העליונים.
+30|02:47|זאת אומרת, היא עצמה מתפשטת לעשר ספירות.
+31|02:51|עד עכשיו למדנו ככה.
+32|02:53|בפעם שעברה, בתחילת פרק ז', למדנו שיש בחינה, הבחינה הזאת שבוקעת,
+33|02:59|בחינה מהאור ישר, שבאה במלכות דה מלכות של העליון, היא בוקעת את
+34|03:05|המסך בכלל, היא אין לה...
+35|03:07|מה זה פגיעה?
+36|03:08|פגיעה זה לא...
+37|03:10|איך הוא הזהיר אותנו לא לחשוב שאנחנו תוקעים עכשיו את האגרוף בקיר והקיר נשבר, אלא
+38|03:15|פגיעה מלשון שהיא לא מכירה בגבול שהמסך שם.
+39|03:20|היא פשוט עוברת, והבחינה הזאת הולכת ונהיית עתיק בכתר של התחתון.

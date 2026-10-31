@@ -1,0 +1,64 @@
+videoId: fugarMbiezI
+parte 16 de 22 · traduzir as linhas 600 a 639 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot: a Nekudá que desce a Briá
+RESUMO: O rabino revisa o contexto da Parte 3 do Talmud Eser HaSefirot: a descida dos mundos por causa e efeito e as duas bençãos do Keter, Atik e Arich. Lê o título do capítulo 7, que trata de como a Malchut de Atzilut desceu e se tornou o Keter em Briá, e distingue dois tipos de descida: as dez sefirot de or yashar com or chozer, que se expandem por meio do masach, e a última bechiná, Malchut de Malchut, que fura o masach e se torna Atik. Em seguida lê o Arizal sobre a diminuição da Levaná (Malchut), que se igualava a Zeir Anpin, queixou-se de que "não há dois reis que usem a mesma coroa" e recebeu a ordem de se diminuir. As nove sefirot voltaram a Zeir Anpin e só a nekudá desceu a Briá, e por isso é chamada "espelho que nada tem de si". Ele debate com os alunos se há raízes de kelim ou luz nessa nekudá, rejeita especulações sem apoio no texto e explica, com Or Pnimi 10, que não há desaparecimento no espiritual: a bechiná nova se soma à anterior, como quem acende uma vela de outra. Por fim, relaciona a reparação da Malchut à oração diária e comenta o Or Pnimi 4: quando a diminuição vem do pecado dos inferiores, as nove sefirot caem nas klipot.
+MOMENTOS: 00:58 Panorama: a descida dos mundos por causa e efeito · 01:22 Keter: Atik e Arich, em potência e em ato · 03:28 Título do cap. 7: Malchut de Atzilut vira Keter de Briá · 04:56 Duas bechinot que descem de um mundo ao outro · 08:55 Por que Malchut é chamada nekudá · 13:12 O Arizal: a diminuição da Levaná e o pecado de Malchut · 24:23 Or Pnimi 6: Zeir Anpin e Malchut em estatura de VAK · 28:00 Atzilut, Briá e a nekudá que fura o masach · 33:06 Espelho que nada tem de si e as nove sefirot de or chozer · 38:51 Não há desaparecimento no espiritual (Or Pnimi 10) · 44:23 Item 3: a nekudá permanece Atik em Briá após a reparação · 45:50 A oração diária como reparação de Malchut · 57:18 Item 4: as nove sefirot caem nas klipot
+FONTES CITADAS: 03:28 Talmud Eser HaSefirot, parte 3, cap. 7, item 1 · 04:56 Talmud Eser HaSefirot, parte 3, cap. 7, item 2 · 05:49 Rav Gedalia HaLevi, citado em Talmud Eser HaSefirot · 13:12 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 2 · 14:27 Bereshit 1:16 · 24:47 Chulin 60b · 25:18 Melachim I 1:5 · 32:42 Arizal, Or Pnimi 7, item 6 · 38:51 Or Pnimi 10, no Talmud Eser HaSefirot · 44:23 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 3 · 45:50 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 3 · 48:59 Berachot 32b · 49:47 Sidur, bênção Yotzer Or · 53:07 Or Pnimi 10, no Talmud Eser HaSefirot · 54:21 Sanhedrin 22b · 57:18 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 4 · 1:00:51 Yevamot 62b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|44:01|לא.
+589|44:02|טוב, חבר'ה, סיבכתם אותי?
+590|44:04|אני מודה, אני נכנע.
+591|44:07|אני נכנע.
+592|44:08|אנחנו מתקדמים.
+593|44:10|איך הוא בדיוק השורש?
+594|44:15|בדיוק, אני אסביר בהמשך.
+595|44:17|בואו נתקדם קצת, אוקיי?
+596|44:19|בואו נתקדם.
+597|44:23|הכותרת של אות ג' ואריזה, גם אחר שכבר נתקן מיעוט
+598|44:29|המלכות, נשארה המלכות להיות עתיק בבריאה.
+599|44:37|איפה לדעתכם ניתקן מיעוט המלכות?
+
+LINHAS A TRADUZIR:
+600|44:40|איפה היה מיעוט המלכות?
+601|44:41|הוא היה באצילות כביכול, נכון?
+602|44:44|שם נבראו שני המאורות הגדולים.
+603|44:47|אז הוא אומר, היה תיקון בעולמות שתיקן את מיעוט המלכות,
+604|44:53|ונשארה המלכות עדיין להיות עתיק בבריאה.
+605|44:57|על זה הוא יגיד לנו תכף מה?
+606|44:59|שאין היעדר ברוחני.
+607|45:02|אז אומר הדרוש של הארי ז"ל, ואומנם.
+608|45:07|זה היה בזמן מיעוט הלבנה בבריאת העולם.
+609|45:12|עכשיו הוא מסבך אותנו עוד יותר, בדברים ששייכים לחלק ט"ו.
+610|45:16|אבל אחר שכבר נתקנה וחזרה למקומה אחור
+611|45:21|באחור, לזרנפין, היא הייתה אחור באחור עם זרנפין,
+612|45:26|וברא לאדם הראשון, והוא החזירה פנים בפנים
+613|45:32|כבתחילה ואחר כך על ידי חטאם של התחתונים
+614|45:38|חזרה ונתמעתה וירדה כי זה כל
+615|45:44|סוד תפילתנו לתקנה את מי את המלכות הזאת דאצילות שהתמעתה זה
+616|45:50|כל סוד תפילתנו לתקנה בעת תפילתנו ואחר כך חוזרת כבראשונה
+617|45:56|כי אין בנו כוח יותר מזה בתפילות, בעיקר בתפילת שחרית,
+618|46:03|זה עיקר העבודה שאנחנו עושים, זה לתקן את המלכות הזאת, להביא אותה לזיווג פנים
+619|46:08|בפנים עם הזרע הנפיים, כדי שירד שפע בעולמות, אבל הוא אומר, אין
+620|46:14|בנו כוח לעשות את התיקון הזה בתמידיות, הוא
+621|46:20|נעשה לשעתו.
+622|46:24|מה זה שעתו?
+623|46:25|זמן התפילה.
+624|46:29|והנה כל דבר שבקדושה, עושה רושם במקומו,
+625|46:36|אף על פי שנסתלק משם.
+626|46:39|במילים אחרות, כי אין היעדר ברוחני.
+627|46:44|כלומר, הנה אנחנו רואים באריזה, את אין היעדר ברוחני, זה לא הראווה של הגמצי,
+628|46:50|זה פה כתוב.
+629|46:51|כל דבר שבקדושה, עושה רושם במקומו, אף על פי שנסתלק משם.
+630|46:58|ותמיד נשארה בחינת נקודה זו גם בראש הבריאה.
+631|47:07|ברור, רק שהוא לא קרא לזה רשימו פה.
+632|47:14|כן, מה יש לנו באות ג' יש לנו אור פנימי?
+633|47:18|רגע, הוא אומר פה משהו מאוד קשה.
+634|47:23|ב' וי' אור פנימי.
+635|47:25|כן, טטו אומר זה עניין ארוך שאין המקום לפרשו כאן.
+636|47:28|אה?
+637|47:30|יפה.
+638|47:31|עניין אחור באחור, פנים בפנים, כל הדבר הזה בהמשך.
+639|47:36|בהמשך הקרוב, חלק ה'.

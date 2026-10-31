@@ -1,0 +1,64 @@
+videoId: fugarMbiezI
+parte 9 de 22 · traduzir as linhas 320 a 359 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot: a Nekudá que desce a Briá
+RESUMO: O rabino revisa o contexto da Parte 3 do Talmud Eser HaSefirot: a descida dos mundos por causa e efeito e as duas bençãos do Keter, Atik e Arich. Lê o título do capítulo 7, que trata de como a Malchut de Atzilut desceu e se tornou o Keter em Briá, e distingue dois tipos de descida: as dez sefirot de or yashar com or chozer, que se expandem por meio do masach, e a última bechiná, Malchut de Malchut, que fura o masach e se torna Atik. Em seguida lê o Arizal sobre a diminuição da Levaná (Malchut), que se igualava a Zeir Anpin, queixou-se de que "não há dois reis que usem a mesma coroa" e recebeu a ordem de se diminuir. As nove sefirot voltaram a Zeir Anpin e só a nekudá desceu a Briá, e por isso é chamada "espelho que nada tem de si". Ele debate com os alunos se há raízes de kelim ou luz nessa nekudá, rejeita especulações sem apoio no texto e explica, com Or Pnimi 10, que não há desaparecimento no espiritual: a bechiná nova se soma à anterior, como quem acende uma vela de outra. Por fim, relaciona a reparação da Malchut à oração diária e comenta o Or Pnimi 4: quando a diminuição vem do pecado dos inferiores, as nove sefirot caem nas klipot.
+MOMENTOS: 00:58 Panorama: a descida dos mundos por causa e efeito · 01:22 Keter: Atik e Arich, em potência e em ato · 03:28 Título do cap. 7: Malchut de Atzilut vira Keter de Briá · 04:56 Duas bechinot que descem de um mundo ao outro · 08:55 Por que Malchut é chamada nekudá · 13:12 O Arizal: a diminuição da Levaná e o pecado de Malchut · 24:23 Or Pnimi 6: Zeir Anpin e Malchut em estatura de VAK · 28:00 Atzilut, Briá e a nekudá que fura o masach · 33:06 Espelho que nada tem de si e as nove sefirot de or chozer · 38:51 Não há desaparecimento no espiritual (Or Pnimi 10) · 44:23 Item 3: a nekudá permanece Atik em Briá após a reparação · 45:50 A oração diária como reparação de Malchut · 57:18 Item 4: as nove sefirot caem nas klipot
+FONTES CITADAS: 03:28 Talmud Eser HaSefirot, parte 3, cap. 7, item 1 · 04:56 Talmud Eser HaSefirot, parte 3, cap. 7, item 2 · 05:49 Rav Gedalia HaLevi, citado em Talmud Eser HaSefirot · 13:12 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 2 · 14:27 Bereshit 1:16 · 24:47 Chulin 60b · 25:18 Melachim I 1:5 · 32:42 Arizal, Or Pnimi 7, item 6 · 38:51 Or Pnimi 10, no Talmud Eser HaSefirot · 44:23 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 3 · 45:50 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 3 · 48:59 Berachot 32b · 49:47 Sidur, bênção Yotzer Or · 53:07 Or Pnimi 10, no Talmud Eser HaSefirot · 54:21 Sanhedrin 22b · 57:18 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 4 · 1:00:51 Yevamot 62b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+308|23:39|סבבה, בסדר.
+309|23:41|שמעתי, מעניין, דרך, אתה יודע, זה משל שונה
+310|23:47|מאיך שבעל הסולם ממשיל את זה, ושמדבר על אותו עניין.
+311|23:51|בסדר גמור.
+312|23:53|אנחנו באות ו' באור פנימי ששוב הוא קצת מסבך אותנו
+313|23:59|אבל בואו נזרום איתו מה מתייחס אות ו' ללשון האריז על וכאשר קטרגה
+314|24:05|הלבנה ונתמעתה אומר כבר נתבהר בדיבור הסמוך
+315|24:11|אשר הלבנה שהוא סוד מלכות הייתה שווה עם זער
+316|24:17|אנפין שהוא סוד שמש עיין שמה כתוב והנה אז היו
+317|24:23|קומת שניהם קומת ואק.
+318|24:27|מה זה קומת ואק?
+319|24:29|שהיה להם רק חג התנאי, שניהם חסרי ראש.
+
+LINHAS A TRADUZIR:
+320|24:36|שניהם חסרי ראש היו, חסרי גימל ראשונות.
+321|24:40|אלא שהיו יונקים מבינה שנקראת כתר.
+322|24:47|וזה שאמרו חז"ל שאמרה אין שני מלכים משמשים בכתר אחד.
+323|24:52|זאת אומרת, הם היו כמו שני ילדים קטנים, בלי ראש, רק ואק.
+324|24:58|ושניהם היו מחוברים ישירות לבינה, לגר, את הגר שלהם הם קיבלו
+325|25:03|מבינה.
+326|25:06|אז אמרה, אין שני מלכים משמשים בכתר אחד, דהיינו אימא, אלא שמלכות הייתה רוצה
+327|25:12|לשלוט לבדה, אה, היא רצתה אנא אמלוך.
+328|25:18|אז נאמר לה, לכי ומעטי את עצמך, דהיינו.
+329|25:22|שתצא מהאצילות לבריאה, ושם תשלוט.
+330|25:26|ועל זה נאמר, הצרפתים ידעו להגיד את זה טוב.
+331|25:31|שורשי לפעם.
+332|25:34|שזה אומר?
+333|25:35|זה אומר,
+334|25:41|השורש זה האישה, לכל השורש.
+335|25:43|כן.
+336|25:43|היום הם אומרים את זה היום בערבית, אז צריך כבר לעשות אדפטציה של העניין.
+337|25:49|כן, ומה שהייתה מלכות באצילות, הוא ממשיך, מה שהייתה מלכות באצילות
+338|25:55|פרצוף שלם של עשר ספירות, נטמעתה על ידי ירידתה
+339|26:01|בבריאה, ועמתה שמה בסוד נקודה קטנה, כלולה
+340|26:06|מעשר ספירות בכוח ולא בפועל.
+341|26:11|שזה העתיק, אוקיי?
+342|26:14|שאנחנו קוראים לו בכוח, ולא בפועל שזה האריך.
+343|26:19|והתבאר עוד לפנינו, אל דאגה, מי שדואג זה יתבאר עוד
+344|26:24|לפנינו.
+345|26:26|כן.
+346|26:26|אז היא יורדת בבוקק לבריאה, לא יורדים עשר ספירות איתה?
+347|26:31|זה מה שאמרנו קודם.
+348|26:33|לא.
+349|26:35|לא, לא יורדים.
+350|26:36|התשע ספירות שלה, היא הייתה באצילות, מלכות הזאת, הייתה
+351|26:42|פרצוף שלם.
+352|26:43|עשר ספירות שלמות, אוקיי?
+353|26:47|עכשיו, בהתמעטותה, מה התמעט?
+354|26:50|היא איבדה את ה...
+355|26:52|היא הפסיקה להיות פרצוף, היא חזרה להיות ספירה אחת, שבה יש עשר
+356|26:58|ספירות.
+357|27:00|כולם נמצאות בה, בכוח.
+358|27:03|ככה הוא מגדיר את זה פה.
+359|27:07|התשע ספירות של הפרצוף השלם שהיה לה באצילות, מה קרה

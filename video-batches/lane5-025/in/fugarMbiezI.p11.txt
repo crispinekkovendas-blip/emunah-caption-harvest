@@ -1,0 +1,64 @@
+videoId: fugarMbiezI
+parte 12 de 22 · traduzir as linhas 440 a 479 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot: a Nekudá que desce a Briá
+RESUMO: O rabino revisa o contexto da Parte 3 do Talmud Eser HaSefirot: a descida dos mundos por causa e efeito e as duas bençãos do Keter, Atik e Arich. Lê o título do capítulo 7, que trata de como a Malchut de Atzilut desceu e se tornou o Keter em Briá, e distingue dois tipos de descida: as dez sefirot de or yashar com or chozer, que se expandem por meio do masach, e a última bechiná, Malchut de Malchut, que fura o masach e se torna Atik. Em seguida lê o Arizal sobre a diminuição da Levaná (Malchut), que se igualava a Zeir Anpin, queixou-se de que "não há dois reis que usem a mesma coroa" e recebeu a ordem de se diminuir. As nove sefirot voltaram a Zeir Anpin e só a nekudá desceu a Briá, e por isso é chamada "espelho que nada tem de si". Ele debate com os alunos se há raízes de kelim ou luz nessa nekudá, rejeita especulações sem apoio no texto e explica, com Or Pnimi 10, que não há desaparecimento no espiritual: a bechiná nova se soma à anterior, como quem acende uma vela de outra. Por fim, relaciona a reparação da Malchut à oração diária e comenta o Or Pnimi 4: quando a diminuição vem do pecado dos inferiores, as nove sefirot caem nas klipot.
+MOMENTOS: 00:58 Panorama: a descida dos mundos por causa e efeito · 01:22 Keter: Atik e Arich, em potência e em ato · 03:28 Título do cap. 7: Malchut de Atzilut vira Keter de Briá · 04:56 Duas bechinot que descem de um mundo ao outro · 08:55 Por que Malchut é chamada nekudá · 13:12 O Arizal: a diminuição da Levaná e o pecado de Malchut · 24:23 Or Pnimi 6: Zeir Anpin e Malchut em estatura de VAK · 28:00 Atzilut, Briá e a nekudá que fura o masach · 33:06 Espelho que nada tem de si e as nove sefirot de or chozer · 38:51 Não há desaparecimento no espiritual (Or Pnimi 10) · 44:23 Item 3: a nekudá permanece Atik em Briá após a reparação · 45:50 A oração diária como reparação de Malchut · 57:18 Item 4: as nove sefirot caem nas klipot
+FONTES CITADAS: 03:28 Talmud Eser HaSefirot, parte 3, cap. 7, item 1 · 04:56 Talmud Eser HaSefirot, parte 3, cap. 7, item 2 · 05:49 Rav Gedalia HaLevi, citado em Talmud Eser HaSefirot · 13:12 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 2 · 14:27 Bereshit 1:16 · 24:47 Chulin 60b · 25:18 Melachim I 1:5 · 32:42 Arizal, Or Pnimi 7, item 6 · 38:51 Or Pnimi 10, no Talmud Eser HaSefirot · 44:23 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 3 · 45:50 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 3 · 48:59 Berachot 32b · 49:47 Sidur, bênção Yotzer Or · 53:07 Or Pnimi 10, no Talmud Eser HaSefirot · 54:21 Sanhedrin 22b · 57:18 Arizal, Talmud Eser HaSefirot, parte 3, cap. 7, item 4 · 1:00:51 Yevamot 62b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+428|32:19|כן.
+429|32:19|עוד זין באור פנימי, מתייחס ללשון האריזה, והטת נקודות אחרות פרחו
+430|32:25|ממנה, כלומר, שנשארו בזרענפין באצילות, ולא ירד לבריאה,
+431|32:31|אלא בחינת מלכות דמלכות לבד, רק היא ירדה לבריאה.
+432|32:37|זה אורי אפר, כן?
+433|32:39|מה שאמרת?
+434|32:40|כן.
+435|32:40|כי לכן נקרא...
+436|32:42|אומר בחטא כי לכן נקרא אספקלריה דלטלה מגרמא כלום הנה
+437|32:48|מה אומר המושג הזה אספקלריה פירושה מאור אוקיי
+438|32:55|בזוהר הוא מפרש את זה לפעמים כמראה שמראה זה גם כן מלשון אור
+439|33:00|כן אספקלריה פירושה מאור כי מלכות נקראת מאור נכון שני
+
+LINHAS A TRADUZIR:
+440|33:06|המאורות הגדולים המאור הקטן והמאור הגדול ואומר, דלת לה
+441|33:12|מגרמה כלום, אין לה מעצמה כלום, מטעם ששורשה
+442|33:17|מתחילה, אינה אלא נקודה אחת, כמו
+443|33:23|שאמר הרב מקודם, וכל ט' ספירות שהיו לה בהיותה עוד
+444|33:28|באצילות, אינן מבחינתה עצמה, כלומר מבחינת אור ישר
+445|33:34|של המלכות.
+446|33:36|אלא רק מבחינת אור חוזר שהעלה על ידי המסך ממנה ולמעלה
+447|33:42|אל הזר ענפין.
+448|33:44|הנה אור חוזר זה חוזר מזר ענפין אל מלכות
+449|33:50|ממעלה למטה ובונה את מלכות בעשר ספירות.
+450|33:56|אז הנה לכם עוד התבוננות
+451|34:01|בעניין הזה, למה דווקא הטי צפירות חוזרות לזרנפין?
+452|34:07|כי היא מלכתחילה מלכות, נקודה.
+453|34:11|דלת לה לבנוניתא, אין לה אור משל עצמה, כן?
+454|34:16|היא עושה אור חוזר, כן?
+455|34:18|והאור חוזר הזה מלביש את הזרנפין שמעליה ומקבל ממנו
+456|34:24|את האור.
+457|34:25|זה מה שהוא אומר פה, אני יכול לקרוא את זה עוד פעם.
+458|34:29|וכל ת' ספירות שהיו לה בהיותה עוד באצילות, אינן בחינתה עצמה, כלומר
+459|34:35|מבחינת אור ישר של מלכות, אלא רק מבחינת
+460|34:40|אור חוזר, שהעלה על ידי המסך ממנה ולמעלה אל זרנפין,
+461|34:46|הנה אור חוזר זה חוזר, אחרי כן מזרנפין אל מלכות ממעלה למטה,
+462|34:52|ובונה את מלכות בעשר ספירות, וזהו שאומר הרב
+463|34:58|שבאו, בתוספות על ידי זרענפין, ט' נקודות אחרות, הוא
+464|35:04|בונה את הקומה השלמה שלה, את הפרצוף השלם שלה.
+465|35:08|ולפיכך, בשעה שנתמעתה המלכות וירדה לבריאה, לא
+466|35:14|ירדה אלא עצמות המלכות, מה שהיא הייתה מלכתחילה.
+467|35:22|העשר ספירות שלה כנקודה מצומצמת.
+468|35:28|ולכן זה גם הופך להיות עתיק שהוא בכוח, לפני שזה עוד פעם נהיה ד' בחינות עשר ספירות.
+469|35:36|לא ירדה אלא עצמות המלכות, וכל הט' ספירות הראשונות שהן מבחינת אור חוזר,
+470|35:42|נשארו באצילות בזרענפין בשורשן.
+471|35:46|וזה שאומר הרב וחזר זרענפין ונטלם, ועל כן נקראת אספקלריה
+472|35:53|דלתלה מגרמה כלום.
+473|36:01|‫כן.
+474|36:05|‫-יש לי שאלה, כבוד הרב.
+475|36:07|‫-כן.
+476|36:08|‫אם המלכות של המלכות ‫יורדת מתחת למסך,
+477|36:14|‫איך אפשר לבנות אותה מחדש ‫אם אין לה
+478|36:20|את התוכן ‫הכי עמוק שבה?
+479|36:25|‫-את התפירות שנעלמו לה.

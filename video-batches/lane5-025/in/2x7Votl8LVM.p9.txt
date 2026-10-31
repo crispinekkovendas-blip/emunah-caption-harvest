@@ -1,0 +1,64 @@
+videoId: 2x7Votl8LVM
+parte 10 de 21 · traduzir as linhas 360 a 399 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Likutei Halachot 17: Introdução à Halachá 4 (Torá 30)
+RESUMO: O rabino abre a Halachá 4 de Likutei Halachot, que remete à Torá 30 de Likutei Moharan ("Mishra de Sakina"), e cita a Gemará em Bechorot sobre o canteiro de facas e a resposta de Rabi Yehoshua ben Chananiá aos sábios de Atenas. Ele lê a Torá 30: as percepções divinas só se alcançam por muitas contrações (tzimtzumim) e pelo revestimento do intelecto superior (Chochmá) no inferior (Malchut). Para isso cita Tehilim 51:17, Shemot 34:6, Tehilim 104:24, Hoshea 12:11 e o ensinamento dos Sábios de que Moshe viu HaShem como um ancião sentado em yeshivá. Em seguida expõe o Arizal sobre orelhas e narinas, luz envolvente e luz interior, exterior e interior do vaso, e aplica o tema ao professor e ao aluno: quanto mais distante o aluno, maior deve ser o mestre, com a arte de descer ao nível dele, como o médico. Mostra que a Torá chama isso de "searah be'igula" (Tikunei Zohar), ilustrado por Yevamot 16a, onde os sábios rodearam Rabi Dosa ben Archinos até chegar à "tzarat habat". Por fim relaciona o cabelo (shearot, "shiur"), o preto da pupila (bat ayin), a Malchut e as letras da Torá, e lê "Bat hayta le'Avraham" e "bat techila siman yafe labanim", em que "bat" é o intelecto inferior que leva aos "banim", o intelecto superior.
+MOMENTOS: 00:01 Início da Halachá 4 e indicação de estudar toda a Torá 30 · 01:36 O que é "Mishra de Sakina" (canteiro de facas) · 02:00 Gemará em Bechorot: sábios de Atenas e Rabi Yehoshua · 04:56 Leitura da Torá 30, ot 1: percepção divina por tzimtzumim · 09:17 Moshe e a aparência de ancião: contrações e revestimentos · 12:15 Mestre que reveste o intelecto no nível do aluno; exemplos · 18:28 Arizal: orelhas e narinas, luz envolvente e interior do vaso · 29:03 Parábola do mestre e do aluno: ajustar a luz ao vaso · 32:47 Resolução: o grande mestre sabe descer ao nível do aluno · 39:30 Mestre honesto versus mestre corrompido (Imrei Da'at) · 42:41 Quanto mais distante, maior o mestre; Moshe e o médico · 46:02 Shearot, "searah be'igula" e Yevamot 16a (tzarat habat) · 52:15 Cabelo preto, bat ayin e as letras da Torá · 56:16 Bat techila siman yafe labanim
+FONTES CITADAS: 00:08 Likutei Halachot, Halachá 4 · 01:36 Likutei Moharan, Torá 30 (Mishra de Sakina) · 02:00 Bechorot 8b · 02:35 Bechorot 8b · 03:05 Bechorot 8b · 03:35 Bechorot 8b · 04:17 Gaon de Vilna sobre Bechorot 8b · 04:56 Likutei Moharan I:30:1 · 07:01 Tikunei Zohar, Hakdamá · 07:17 Tehilim 51:17 · 07:24 Shemot 34:6 · 09:34 Mechilta, Beshalach (Shemot 15) · 09:59 Hoshea 12:11 · 11:07 Tehilim 104:24 · 11:35 Likutei Moharan, Torá 1 (Torat Ayelet Chen) · 14:51 Likutei Moharan (outro local) · 18:47 Arizal, Etz Chaim, Shaar HaAkudim · 21:42 Likutei Moharan I:30:2 (Etz Chaim) · 23:03 Likutei Moharan I:30:2 (Etz Chaim) · 39:30 Imrei Da'at, Rabi Yehuda Meir Lifkovitz · 43:01 Zohar, os 49 portões de impureza · 46:35 Tikunei Zohar, Searah be'igula · 48:04 Yevamot 16a · 51:11 Yevamot 16a · 52:15 Zohar, Searah ukmah · 52:21 Shir HaShirim 1:5 · 53:11 Likutei Moharan I:30:3 · 54:09 Arizal, Shaar HaKavanot, Sefer Torá · 54:39 Bava Batra 16b · 56:16 Shemot 3:2 · 56:52 Bava Batra 141a · 57:03 Menachot 110a · 57:03 Yeshayahu 43:6 · 57:28 Shemot 2:4 · 57:32 Mishlei 7:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|26:53|המקיף, אבל מכיוון שהוא מוגבל בתוך הכלי, אז הוא הולך ומזכך, הולך ומזכך, עד שהוא
+349|26:59|מזכך חצי עובי הכלי מבפנים לבחוץ.
+350|27:03|ואז הכלי עוד הפעם מזדכך מבחוץ ומבפנים.
+351|27:07|מה ההבדל בין התשובה הראשונה לתשובה השנייה?
+352|27:10|בתשובה הראשונה רבנו הארי מדבר שצריך לזכך את הכלי.
+353|27:15|בתשובה השנייה רבנו הארי מדבר שהאור המקיף והאור הפנימי צריכים להיפגש.
+354|27:20|ושהכלי לא יפריע להם להיפגש.
+355|27:24|אז בעצם התשובה השנייה זה מחמת האורות.
+356|27:27|עכשיו אבל איך אתה מתרץ שלפי חוש העין אני רואה שהחיצוניות יותר
+357|27:33|גרוע מהפנימיות.
+358|27:35|איך אתה מיישב את זה לפי חוש העין?
+359|27:38|אומר הרב, ואם תקשב ותאמר, כי עדיין יש להעקשות ולומר, שהרי בחוש הריהו אותנו רואים שפנימיות
+
+LINHAS A TRADUZIR:
+360|27:43|הכלי זך יותר מחיצוניותו.
+361|27:47|הנה ביור העניין הוא, כי הנה אף על פי שהאור הפנימי קטן מהאור המקיף, אם כל זאת להיותו
+362|27:53|מוגבל תוך הכלי, לכן הכלי מקבל הערה שלמה ממנו.
+363|27:59|הפנימיות של הכלי מקבל הערה שלמה מהאור הפנימי, כי הוא מוגבל בפנים.
+364|28:06|אבל האור המקיף, אף על פי שהוא גדול, עם כל זאת, כיוון שאינו דבק ומצומצם עם
+365|28:12|הכלי, אינו מאיר כל כך הערה בחיצוניות הכלי, כמו שמאיר האור הפנימי
+366|28:18|בפנימיות הכלי.
+367|28:19|ובזה, בא הכל הנכון.
+368|28:21|במילים אחרות, רבותיי, הוא אומר לנו הרב, שכביכול, המאה אחוז של האור הפנימי, מזכך את
+369|28:27|הכלי מבפנים, ולכן הכלי הפנימי, הפנימיות של הכלי, תמיד הוא נראה זך.
+370|28:33|לעומת זאת, האור המקיף, הוא נכנס רק 60 אחוז.
+371|28:37|אבל ה-60 אחוז, האור המקיף שהוא גדול, והחיצוניות של הכלי שהוא גם יותר זך,
+372|28:43|אז 60 אחוז זה מספיק לאור המקיף להיכנס עד חצי עובי של הכלי,
+373|28:49|ואז ככה הכלי מזדקר מבפנים ומבחוץ, אבל הפנימיות של הכלי בחוש העין הוא נראה כאילו יותר זך.
+374|28:56|מובן העניין?
+375|28:59|ואז אני נתתי משל בשביל להבין את הדוגמה הזאת.
+376|29:03|אני אמרתי דבר כזה, למה החיצוניות של הכלי הוא צריך להיות זך
+377|29:09|בשביל שהאור המקיף יוכל להיכנס בו?
+378|29:14|למה?
+379|29:18|עוד פעם, למה החיצוניות של הכלי הוא צריך להיות זך בשביל האור המקיף?
+380|29:23|הרי האור המקיף זה אור גדול.
+381|29:26|למה הוא צריך?
+382|29:27|אז הרב אמר פה מלחמת האורות ומלחמת הכלים.
+383|29:30|המשל הוא כזה רבותיי, הכלי זה משל לתלמיד.
+384|29:35|כלי זה תלמיד?
+385|29:37|אני עכשיו שואל אתכם שאלה.
+386|29:40|אם יש עכשיו איזה רב אחד גאון, גדול, השיעורים שלו מפולפלים,
+387|29:46|עמוקים מאוד מאוד מאוד.
+388|29:48|איזה תלמידים אני אכניס לשיעור שלו?
+389|29:50|תלמידים שהם קשי הבנה, או תלמידים שהם מהירי קליטה?
+390|29:56|אה?
+391|29:57|תלמידים זרקיים.
+392|29:59|שהם מהירי קליטה, שהם מבינים מה שהרב מדבר.
+393|30:02|תכניס עכשיו תלמיד שהוא מתקשה לשיעור עכשיו של
+394|30:08|הרב הגאון הזה שהוא עכשיו מעביר את כל הסוגיות וכולי בראשי
+395|30:13|פרקים.
+396|30:15|התלמיד יצא בלי כלום.
+397|30:18|למה?
+398|30:18|כי הוא לא ברמה.
+399|30:21|כבר אמרת צריך רבי גדול.
