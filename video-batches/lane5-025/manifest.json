@@ -177,14 +177,16 @@
  ],
  "tries": {
   "5rnoC6y8Mf8": 2,
-  "Gex1ZbQ5YTw": 1,
-  "fugarMbiezI": 2,
+  "Gex1ZbQ5YTw": 2,
+  "fugarMbiezI": 3,
   "LzhZYqPidyg": 1,
-  "ECQBZAW3bBg": 1
+  "ECQBZAW3bBg": 2
  },
  "done": [
   "ZnuJgUH_WeE",
   "LzhZYqPidyg"
  ],
- "skipped": []
+ "skipped": [
+  "fugarMbiezI"
+ ]
 }
