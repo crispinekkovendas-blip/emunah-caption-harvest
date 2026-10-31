@@ -512,12 +512,12 @@
   "ReRpYwGEaDU": 3,
   "qpbYyv2XP7s": 3,
   "Am0Hkt_6brk": 3,
-  "0oR3GS_NXx4": 2,
+  "0oR3GS_NXx4": 3,
   "68YXUDnO-tw": 3,
   "MRJwMq-Y5UE": 2,
-  "os2uv-4_idQ": 2,
-  "eisn3_BRpSI": 2,
-  "2d6bb1pZwRM": 1
+  "os2uv-4_idQ": 3,
+  "eisn3_BRpSI": 3,
+  "2d6bb1pZwRM": 2
  },
  "done": [],
  "skipped": [
@@ -529,6 +529,9 @@
   "Am0Hkt_6brk",
   "PZyPRVgmpz0",
   "68YXUDnO-tw",
-  "VkBM9NIZbxw"
+  "VkBM9NIZbxw",
+  "0oR3GS_NXx4",
+  "os2uv-4_idQ",
+  "eisn3_BRpSI"
  ]
 }
