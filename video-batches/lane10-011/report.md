@@ -1,19 +1,19 @@
 # lane10-011
 
-0 of 12 lessons published · 1 skipped · status **pending**
-Tokens (588 agent runs with a record): 3.0M in (mostly cache) · 1.60M out · API-equivalent 25.31
+0 of 12 lessons published · 5 skipped · status **pending**
+Tokens (680 agent runs with a record): 3.5M in (mostly cache) · 1.89M out · API-equivalent 29.73
 
 | lesson | state | detail |
 |---|---|---|
-| jUvpq831Gjc | waiting | 16/17 parts |
-| QBHQwdHLg7M | ✗ will be redone (try 2) | line 560 twice |
-| B40fco4kwuo | waiting | 30/31 parts |
-| CM-id2qn9Uk | waiting | 13/14 parts |
-| JnI74lxJVCQ | waiting | 17/18 parts |
-| 5QrKeNCEleY | skipped after 3 tries | 7 lines missing |
-| 1WPDlC-F1Vw | waiting | 17/19 parts |
-| FmM8o31AzOc | ✗ will be redone (try 1) | 15 lines missing |
-| Ic8lOSB_FHg | waiting | 16/18 parts |
-| zz3J06SPFt0 | waiting | 29/31 parts |
-| gpTawZWgjJk | waiting | 33/34 parts |
-| bOymIv5HHlw | ✗ will be redone (try 2) | line 80 twice |
+| jUvpq831Gjc | skipped after 3 tries | 12 lines missing |
+| QBHQwdHLg7M | waiting | 17/20 parts |
+| B40fco4kwuo | ✗ will be redone (try 2) | 13 lines missing |
+| CM-id2qn9Uk | skipped after 3 tries | 42 lines missing |
+| JnI74lxJVCQ | ✗ will be redone (try 2) | 4 lines missing |
+| 5QrKeNCEleY | skipped | |
+| 1WPDlC-F1Vw | skipped after 3 tries | 6 lines missing |
+| FmM8o31AzOc | ✗ will be redone (try 2) | 20 lines missing |
+| Ic8lOSB_FHg | ✗ will be redone (try 2) | 7 lines missing |
+| zz3J06SPFt0 | ✗ will be redone (try 2) | 24 lines missing |
+| gpTawZWgjJk | ✗ will be redone (try 2) | 36 lines missing |
+| bOymIv5HHlw | skipped after 3 tries | 12 lines missing |
