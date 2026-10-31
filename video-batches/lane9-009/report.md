@@ -1,7 +1,7 @@
 # lane9-009
 
-1 of 16 lessons published · 12 skipped · status **pending**
-Tokens (1319 agent runs with a record): 6.8M in (mostly cache) · 3.50M out · API-equivalent 55.97
+1 of 16 lessons published · 14 skipped · status **pending**
+Tokens (1394 agent runs with a record): 7.1M in (mostly cache) · 3.65M out · API-equivalent 58.60
 
 | lesson | state | detail |
 |---|---|---|
@@ -16,8 +16,8 @@ Tokens (1319 agent runs with a record): 6.8M in (mostly cache) · 3.50M out · A
 | 5gRYX2y4rS0 | skipped | |
 | 6E15081YHIQ | skipped | |
 | q69t6lT1HcM | skipped | |
-| 7pfIoU_bN00 | skipped after 3 tries | 35 lines missing |
+| 7pfIoU_bN00 | skipped | |
 | ez3oskhk9aA | waiting | 42/43 parts |
-| kE4ty09Yb5s | skipped after 3 tries | 92 lines missing |
-| pNhfS9TvPzA | waiting | 31/32 parts |
-| 4dj5Q3RQlLc | waiting | 36/38 parts |
+| kE4ty09Yb5s | skipped | |
+| pNhfS9TvPzA | skipped after 3 tries | 61 lines missing |
+| 4dj5Q3RQlLc | skipped after 3 tries | 41 lines missing |

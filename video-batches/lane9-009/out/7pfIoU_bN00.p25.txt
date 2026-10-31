@@ -1,0 +1,40 @@
+1000	Rabbi, please tell me whether there is a prohibition on talking. I'm used to it,	Rabino, por favor me diga se existe uma proibição de falar. Eu já estou acostumada,
+1001	not talking, and it kind of bothers me	a não falar, e isso meio que me incomoda
+1002	I don't know who said it's permitted to talk, because	Não sei quem disse que é permitido falar, porque
+1003	surely it is forbidden to talk between the washing and the blessing of HaMotzi Lechem Min HaAretz.	com certeza é proibido falar entre a netilat yadaim e a bênção de HaMotzi Lechem Min HaAretz.
+1004	HaAretz.	HaAretz.
+1005	What does the Shulchan Aruch say? Between	O que diz o Shulchan Aruch? Entre
+1006	the washing and the blessing	a netilat yadaim e a bênção
+1007	of HaMotzi, it is forbidden	de HaMotzi, é proibido
+1008	to talk. Before drying the hands, one can still be lenient	falar. Antes de secar as mãos, ainda é possível ser indulgente
+1009	when necessary, that is, a person who washed his hands and has not yet	em caso de necessidade, ou seja, alguém que lavou as mãos e ainda não
+1010	made the blessing on washing hands, it is easier. But	fez a bênção da netilat yadaim, é mais fácil. Mas
+1011	from the moment one makes the blessing on washing hands and dries	a partir do momento em que se faz a bênção da netilat yadaim e se secam
+1012	the hands, one must be careful not to talk until	as mãos, é preciso ter cuidado para não falar até
+1013	one makes the blessing of HaMotzi and eats.	fazer a bênção de HaMotzi e comer.
+1014	Hello, Rabbi. First of all, thank you to you and the organization	Olá, Rabino. Primeiro de tudo, obrigada a você e à organização
+1015	for all the women you hosted, including me. And my question	por todas as mulheres que vocês receberam, entre elas eu também. E a minha pergunta
+1016	is about hishtadlut. Sometimes a person wants	é sobre a hishtadlut. Às vezes uma pessoa quer
+1017	something very much, he strives in a certain area and wants	algo muito, ela almeja uma certa área e quer
+1018	something specific, for example in the area of work: I want	algo específico, por exemplo na área do trabalho: eu quero
+1019	to work in such and such a place; in the area of shidduch, I	trabalhar em tal e tal lugar; na área do shidduch, eu
+1020	want a specific person; or in the area of studies, I	quero uma pessoa específica; ou na área dos estudos, eu
+1021	want a certain field in a certain place, and I try	quero uma determinada área em um determinado lugar, e eu tento
+1022	several times and it just doesn't work out for me.	várias vezes e simplesmente não dá certo para mim.
+1023	The question is when to understand that apparently the Holy One, blessed be He,	A pergunta é quando entender que, aparentemente, o Santo, bendito seja,
+1024	doesn't want me to succeed at this, and to change	não quer que eu tenha sucesso nisso, e mudar
+1025	course, or to continue striving. And the second question, if	de rumo, ou continuar me esforçando. E a segunda pergunta, se
+1026	I may: my mother's grandmother passed away six years ago,	for possível: a avó da minha mãe faleceu há seis anos,
+1027	and every time I dream about her, I dream that she	e toda vez que sonho com ela, sonho que ela
+1028	passes away in the dream too. And in one of the dreams	falece também no sonho. E num dos sonhos
+1029	that I saw, a little after her, before the day	que eu vi, um pouco depois dela, antes do dia
+1030	of the 30th, I dreamed that she came with us to the house	do 30º dia, sonhei que ela veio conosco à casa
+1031	of the mourner, and gave us gold jewelry, for two inheritances	do enlutado e nos deu joias de ouro, para duas heranças
+1032	of hers: she gave gold earrings, and she gave a chain	dela: deu brincos de ouro e deu uma corrente
+1033	with a gold pendant of a child, and as soon as she gave us	com um pingente de ouro de uma criança, e assim que ela nos deu
+1034	the jewelry, she simply passed away, right	as joias, ela simplesmente faleceu, bem
+1035	in my hands, she passed away there. And I wanted to know what this means,	nas minhas mãos, faleceu ali. E eu queria saber o que isso significa,
+1036	because all the time I see that she passes away in the dream too.	porque o tempo todo vejo que ela falece também no sonho.
+1037	Thank you. First, regarding hishtadlut: how much must a person	Obrigado. Primeiro, quanto à hishtadlut: quanto uma pessoa precisa
+1038	make hishtadlut, and where	se esforçar, e onde
+1039	to stop. Anything a person wants to achieve,	parar. Qualquer coisa que uma pessoa queira conseguir,
