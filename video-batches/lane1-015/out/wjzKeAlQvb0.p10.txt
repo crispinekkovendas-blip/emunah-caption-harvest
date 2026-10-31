@@ -1,0 +1,39 @@
+400	he is also forbidden with Leah's co-wife.	ele também é proibido com a co-esposa de Léa.
+401	That is forbidden.	Isso é proibido.
+402	What is permitted if he performed chalitzah	O que é permitido se ele fez chalitzá
+403	for Rachel?	para Rachel?
+404	And Rachel has a co-wife named Zilpah: he is permitted	E Rachel tem uma co-esposa chamada Zilpá: ele é permitido
+405	to marry Zilpah's relatives; that is indeed permitted to him,	casar com as parentes de Zilpá; isso lhe é de fato permitido,
+406	not the co-wife herself, but the relatives of the woman he released it is permitted. Rabbeinu Ovadiah of Bartenura explains	não a própria co-esposa, mas as parentes da mulher de quem fez chalitzá é permitido. Rabeinu Ovadia de Bartenura explica
+407	the matter like this: the woman who comes to the beit din to receive chalitzah does not come alone;	o assunto assim: a mulher que vem ao beit din para receber chalitzá não vem sozinha;
+408	no, that is not fitting, it is not nice; she feels uncomfortable, so she brings her sister	não, isso não convém, não é bonito; ela se sente constrangida, então traz sua irmã
+409	with her.	consigo.
+410	Now, people do not know who the chalutzah is here.	Agora, as pessoas não sabem quem aqui é a chalutzá.
+411	Therefore, even the one who was not released at all, we say he is forbidden	Por isso, mesmo aquela que não fez chalitzá, dizemos que ele é proibido
+412	with her relatives.	com as parentes dela.
+413	But a woman who comes for chalitzah does not bring her co-wife with her.	Mas uma mulher que vem para a chalitzá não traz consigo a sua co-esposa.
+415	a relative of the co-wife of the woman he released.	a parente da co-esposa da mulher de quem fez chalitzá.
+416	We have no problem.	Não temos problema.
+417	Mishnah: One who performed chalitzah for his yevamah and his brother married her sister. A man performed chalitzah	Mishná: Aquele que fez chalitzá à sua yevamá e seu irmão casou com a irmã dela. Um homem fez chalitzá
+418	for his yevamah, fine. Now his brother married her sister. A normal man is forbidden	à sua yevamá, certo. Agora seu irmão casou com a irmã dela. A um homem comum é proibido
+419	to marry the sister of the woman he released; it is like the sister of a divorcee.	casar com a irmã daquela de quem fez chalitzá; é como a irmã de uma divorciada.
+420	Now this brother who married her sister died. The law is that he is forbidden to marry her, by rabbinic decree,	Agora esse irmão que casou com a irmã dela morreu. A lei é que ele é proibido de casar com ela, por decreto rabínico,
+421	and therefore she performs chalitzah and not yibum. But the Mishnah says "and so", and Rabbeinu Ovadiah	e por isso ela faz chalitzá e não yibum. Mas a Mishná diz "e assim", e Rabeinu Ovadia
+422	of Bartenura says we need to cross it out. But, but, one who divorces	de Bartenura diz que é preciso riscar isso. Mas, mas, aquele que divorcia
+423	his wife and his brother married her sister, and here it is really his wife,	sua esposa e seu irmão casou com a irmã dela, e aqui é realmente a sua esposa,
+424	or the sister of a wife is forbidden by the Torah, so if his brother dies, she is exempt from	ou a irmã da esposa é proibida pela Torá, então se seu irmão morre, ela está isenta da
+425	chalitzah and from yibum; there is no obligation here at all.	chalitzá e do yibum; não há aqui nenhuma vinculação.
+426	Mishnah 9: One who guards a yavam who betrothed her sister	Mishná 9: Aquele que aguarda um yavam que consagrou a irmã dela
+427	one who guards a yavam who betrothed her sister	aquele que aguarda um yavam que consagrou a irmã dela
+428	one who guards a yavam: she is called Rachel and the yavam is called Reuven. Now Shimon	aquele que aguarda um yavam: ela se chama Rachel e o yavam se chama Reuven. Agora Shimon
+429	betrothed, performed kiddushin: "Behold, you are betrothed to me with this ring," with Rachel's sister, with Leah.	consagrou, fez kidushin: "Eis que estás consagrada a mim com este anel", com a irmã de Rachel, com Léa.
+430	Was it permitted for him to do this?	Era permitido a ele fazer isso?
+431	No. Why?	Não. Por quê?
+432	Because if you are Reuven's brother, Rachel is also bound to you; how can you betroth her sister?	Porque se és irmão de Reuven, Rachel também está ligada a ti; como podes consagrar a irmã dela?
+433	But the bond is only rabbinic.	Mas a ligação é apenas rabínica.
+434	Therefore, one who guards a yavam who betrothed her sister, because of Rabbi Yehudah they said,	Portanto, aquele que aguarda um yavam que consagrou a irmã dela, por causa de Rabi Yehudá disseram:
+435	we tell him: wait until your older brother does his act.	dizemos a ele: espera até que teu irmão mais velho faça o seu ato.
+436	The moment Reuven performs yibum with Rachel, you will already be able to marry	No momento em que Reuven fizer yibum com Rachel, já poderás casar com
+437	Leah, yes, with Leah.	Léa, sim, com Léa.
+438	What is the law if he performed chalitzah for his brother, or married her? Then he may marry his wife.	Qual é a lei se fez chalitzá ao seu irmão, ou a desposou? Então poderá casar com a sua esposa.
+439	If the yevamah died, he may also marry his wife, because she is the sister	Se a yevamá morreu, também poderá casar com a sua esposa, pois ela é irmã
