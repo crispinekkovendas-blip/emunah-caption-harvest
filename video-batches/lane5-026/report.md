@@ -1,7 +1,7 @@
 # lane5-026
 
-9 of 12 lessons published · 1 skipped · status **pending**
-Tokens (155 agent runs with a record): 1.1M in (mostly cache) · 1.07M out · API-equivalent 13.50
+9 of 12 lessons published · 2 skipped · status **pending**
+Tokens (173 agent runs with a record): 1.2M in (mostly cache) · 1.21M out · API-equivalent 14.84
 
 | lesson | state | detail |
 |---|---|---|
@@ -12,8 +12,8 @@ Tokens (155 agent runs with a record): 1.1M in (mostly cache) · 1.07M out · AP
 | Gex1ZbQ5YTw | waiting | 24/25 parts |
 | ENgVTYLrMTw | ✓ published | 293 lines · Zohar Vayikrá 17a: Korbanot, 18 letras e unificação |
 | fyiSNNkfal4 | ✓ published | 316 lines · Teshuvá no Zohar: do Keter aos seis extremos e à redenção |
-| tkcRQmqdxz4 | ✗ will be redone (try 2) | 2 lines missing |
+| tkcRQmqdxz4 | skipped after 3 tries | 114 lines missing |
 | 1-qqG6zKXvw | ✓ published | 1138 lines · Rosh Chodesh Elul: Gad, três e quatro e o "veshinantam |
 | c_U_DvfCya8 | ✓ published | 501 lines · Memória eterna: o óleo de oliva e a Parashá Tetzavê |
-| 8lMQy6FeXbo | skipped after 3 tries | 3 lines missing |
+| 8lMQy6FeXbo | skipped | |
 | qDT0KlS2n7w | ✓ published | 377 lines · Os três corpos do homem e a guarda dos pensamentos |
