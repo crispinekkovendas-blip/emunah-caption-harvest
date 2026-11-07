@@ -1,7 +1,7 @@
 # lane8-021
 
-11 of 16 lessons published · 4 skipped · status **pending**
-Tokens (320 agent runs with a record): 2.4M in (mostly cache) · 2.70M out · API-equivalent 33.43
+11 of 16 lessons published · 5 skipped · status **done**
+Tokens (321 agent runs with a record): 2.4M in (mostly cache) · 2.71M out · API-equivalent 33.49
 
 | lesson | state | detail |
 |---|---|---|
@@ -20,4 +20,4 @@ Tokens (320 agent runs with a record): 2.4M in (mostly cache) · 2.70M out · AP
 | AnXDrHJltK8 | skipped | |
 | 5FEDGVe16ZA | skipped | |
 | xo9BRSd_4IU | ✓ published | 846 lines · Otzrot Chaim do Ramchal: Ein Sof, Tzimtzum e Adam Kadmon |
-| BftyfgDZJ1c | waiting | 27/28 parts |
+| BftyfgDZJ1c | skipped after 3 tries | 31 lines missing |
