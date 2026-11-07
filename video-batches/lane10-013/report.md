@@ -1,7 +1,7 @@
 # lane10-013
 
-6 of 13 lessons published · 4 skipped · status **pending**
-Tokens (487 agent runs with a record): 2.9M in (mostly cache) · 2.36M out · API-equivalent 33.09
+6 of 13 lessons published · 5 skipped · status **pending**
+Tokens (538 agent runs with a record): 3.3M in (mostly cache) · 2.67M out · API-equivalent 37.48
 
 | lesson | state | detail |
 |---|---|---|
@@ -12,8 +12,8 @@ Tokens (487 agent runs with a record): 2.9M in (mostly cache) · 2.36M out · AP
 | gWcet39DuzA | waiting | 23/24 parts |
 | KGTQJQCgj7s | skipped | |
 | mw2LSiEUqNU | ✓ published | 960 lines · Gratidão e alegria no dia a dia: levar tudo ao Criador |
-| ITu2_xBzKIA | waiting | 0/8 parts |
-| 9WRDZ9I1HPg | waiting | 0/26 parts |
+| ITu2_xBzKIA | skipped after 3 tries | 1 lines missing |
+| 9WRDZ9I1HPg | waiting | 25/26 parts |
 | iS_1Fr0DkNg | ✓ published | 534 lines · Ve'atem HaDevekim: o verso de Devarim 4:4 em cada sefirá |
 | HC07-JY8cxI | ✓ published | 1168 lines · Reforma na Hassidut: Baal Shem Tov e Alter Rebbe, Chai Elul |
 | dQ-wBz-gycI | ✓ published | 327 lines · Olam HaTikun: Atzilut e o conserto do mundo das Nikudim |
