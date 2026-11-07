@@ -1,0 +1,55 @@
+videoId: 67o1emt7YeU
+parte 4 de 4 · traduzir as linhas 360 a 390 (31 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Rambam Shechitá 1:17-18: faca ondulada e faca sem corte
+RESUMO: A aula comenta o Rambam, Hilchot Shechitá, capítulo 1, halachot 17 e 18. Na halachá 17, uma faca "que sobe e desce como serpente" (com uma falha que foi afiada até desaparecer) é válida para a shechitá desde o início, pois não tem pegimá. O Kesef Mishné entende que isso vale para uma única subida e descida. Já Rabeinu Yehonatan no Rif, o Taz e outros poskim permitem mesmo com várias ondulações, desde que não haja falha de fato. O rabino demonstra a bedikat hasakin com a unha e depois fala da faca de milá, que não exige bedikat sakinim, mas precisa ser muito afiada. Em seguida trata da faca de gume liso e sem corte, com base em Rava (Chulin 17a), Rashi, o Tur e o Shulchan Arukh: a shechitá é válida com holachá vehovaá, mas, no gado, a demora (shehiyá) no fim do primeiro simán a invalida. Por fim, na halachá 18, uma faca afiada de textura áspera "como a espiga" é válida segundo a Gemará, mas hoje, por falta de conhecimento, só se abate com faca totalmente lisa.
+MOMENTOS: 00:15 Rambam 1:17: faca que sobe e desce como serpente · 02:09 Kesef Mishné: só uma subida e uma descida · 04:24 Rabeinu Yehonatan no Rif: várias ondulações são permitidas · 05:35 O Bach restringe; o Taz e outros poskim permitem · 07:22 Demonstração da bedikat hasakin com a unha · 09:15 Abatedouros de aves: troca de facas e bedikot · 12:14 Facas de hoje versus a yirat shamayim das gerações antigas · 14:50 Faca de milá: muito afiada e sem bedikat sakinim · 19:25 Faca de milá com dois gumes (pipiyot) e o sod · 21:24 Faca sem corte e holachá vehovaá o dia todo · 22:17 Gemará Chulin 17a, Rashi e a diferença entre ave e gado · 27:40 Rambam 1:18: faca áspera como espiga e a prática de hoje
+FONTES CITADAS: 00:15 Rambam, Hilchot Shechitá 1:17 · 00:22 Rambam, Hilchot Shechitá 1:17 · 02:15 Kesef Mishné sobre Rambam, Shechitá 1:17 · 02:55 Kesef Mishné sobre Rambam, Shechitá 1:17 · 04:31 Rabeinu Yehonatan sobre o Rif, Chulin 17b · 05:35 Kesef Mishné sobre Rambam, Shechitá 1:17 · 05:41 Bach, Yoré Deá 18 · 06:18 Taz, Yoré Deá 18:5 · 06:57 Tevuot Shor, Kreti uFleti, Pri Chadash · 07:31 Bedikat hasakin (Shulchan Arukh, Yoré Deá 18) · 10:42 Prática de bedikat sakinim nos abatedouros · 15:20 Dinim da faca de milá · 17:41 Dinim da faca de milá (dirusá) · 18:30 Admor de Munkatch, Ot Chaim veShalom · 19:44 Tehilim 149:6 (alusão a "חרב פיפיות") · 20:10 Sod (cabalá) da faca de milá com dois gumes · 22:27 Chulin 17a · 22:39 Rashi sobre Chulin 17a · 22:53 Chulin 17a · 23:57 Tur, Yoré Deá 18:7 · 24:20 Tur, Yoré Deá 23:4 · 26:06 Rambam, Hilchot Shechitá 1:17 · 26:23 Shulchan Arukh, Yoré Deá 18:7 · 26:35 Shulchan Arukh, Yoré Deá 23:4 · 27:46 Rambam, Hilchot Shechitá 1:18 · 28:38 Chulin (sugyá da faca) · 30:16 Rema, Yoré Deá 18:7 (em nome do Sefer HaGur e do Maharshal)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|27:40|סעיף י"ח, כותב הרמב״ם, וסכין
+349|27:46|חדה.
+350|27:47|שהושחזה והרי אינה חלקה אלא מגעתה כמגע
+351|27:53|ראש השיבולת שהוא מסתבך באמצע אומר הרמב״ם הואיל
+352|27:59|ואין בה פגם שוחטים בה עכשיו זו ההלכה שיש באמת מבוכה
+353|28:05|בפוסקים למה?
+354|28:07|כי מדובר פה על סכין
+355|28:09|אה?
+356|28:14|בדיוק סכין כשמצד אחד אין בה פגם, מצד
+357|28:20|שני השחיזו אותה בצורה כזאת שאתה מרגיש קצת
+358|28:25|מחוספס.
+359|28:27|זה לא פגמים, אבל זה מחוספס, כן?
+
+LINHAS A TRADUZIR:
+360|28:32|ואז באופן כזה שיש את החספוס הזה כמגע ראש השיבולת, אז
+361|28:38|מדינא דגמרא וככה נפסק להלכה בראשונים וברמב״ם, הואיל ואין בה פגם
+362|28:44|שוחטים בה.
+363|28:47|אבל הפוסקים כותבים שהיום אנחנו לא בקיאים
+364|28:53|לגמרי להבדיל בין כמגע ראש השיבולת שהיא קצת מחוספסת
+365|28:58|לבין פגם.
+366|29:01|ולכן מכיוון שיש לנו חוסר בקיאות אז לא נהגו לשחוט אלא
+367|29:06|דווקא בסכין שהיא חלקה.
+368|29:10|דווקא בסכין שהיא חלקה דהיינו שאתה מעביר עוד פעם את כמו שהסברנו
+369|29:16|הייתה ציפורן בסכין, אתה רואה שהכל חלק
+370|29:23|בין מלמטה למעלה ובין מלמעלה למטה,
+371|29:29|כן?
+372|29:29|שש פעמים.
+373|29:31|אחד, שתיים מהצד הזה, שלוש, ארבע, חמש, שש.
+374|29:36|בסדר?
+375|29:39|ברור.
+376|29:40|כל סכין, אפילו שהיא דקה, אחות זה משני צדדים.
+377|29:45|וגם יש את החלק של האמצע.
+378|29:48|ולכן צריך לעשות את האור לחלופה.
+379|29:52|פה יש, אני מרגיש כמה מרגישים.
+380|29:58|אז לכן, רוצים שהיא תהיה חלקה לגמרי, והיא חדה.
+381|30:03|צריך בעצם לדעת את הלחץ הנכון של השחיטה, שזה בעצם על ידי
+382|30:08|התרגול והאימון של הדברים.
+383|30:12|על כך כותב גם רבנו הרמה.
+384|30:16|בשם ספר הגור והמהרשל, הוא כבר כותב שבאשכנז לא נהגו לשחוט
+385|30:22|בסכין שאינה חלקה.
+386|30:23|אם היא לא חלקה לגמרי, לא שוחטים איתה.
+387|30:28|ולכן, כותבים הפוסקים שהיום מחמת חוסר הבקיאות, אז
+388|30:34|אנחנו מחמירים בעניין הזה.
+389|30:46|בסדר גמור.
+390|30:48|בעזרת השם יתברך, בלי נדר, אנחנו נמשיך שיעור הבא, ברוך ה' לעולם, אמן ואמן.

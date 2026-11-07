@@ -1,0 +1,144 @@
+videoId: tiV-S62S2Vs
+parte 3 de 4 · traduzir as linhas 240 a 359 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Netzach e Hod de Atik: as extremidades acima do Yesod
+RESUMO: A aula é um estudo do Talmud Eser Sefirot (Ohr Pnimi) sobre as partes do Partzuf de Atik e começa com a diferença entre os três tikunim da cabeça. Gulgalta e Moach Setima têm nível igual, porque vêm da Malchut do Tzimtzum Alef, que atua apenas na genizá, nos extremos. O terceiro tikun, Kruma de Avira, vem da linha do meio (Tiferet) e da Malchut do Tzimtzum Bet. Em seguida o texto trata do Netzach e do Hod de Atik, que têm três aspectos: as extremidades acima do Yesod, a expansão abaixo do Yesod e a interioridade. As extremidades acima do Yesod correspondem ao Mem de "Tzelem", com Chochmá-Bina-Daat e chassadim cobertos, e as de baixo ao Lamed, com chassadim revelados. A interioridade vem da Malchut do Tzimtzum Alef e é "fechada", como o Mem Setuma de "leMarbe haMisra", razão pela qual o Zohar não a trata. O fim da aula é uma discussão no manuscrito e no Ohr Baruch sobre quais terços do Netzach e Hod de Atik estão acima do Yesod e quais abaixo, sem resolução, com a pergunta de onde vem essa ideia.
+MOMENTOS: 00:00 Gulgalta, Moach Avira e Moach Setima: nível igual · 02:14 Raiz da diferença: Malchut do Tzimtzum Alef · 03:06 Genizá: a Malchut do Tzimtzum Alef fica só nos extremos · 04:39 Primeiros dois tikunim vs. terceiro tikun, Kruma de Avira · 05:40 Duas cabeças e três cabeças de Arich · 07:02 Kruma de Avira como a parsá do chazé · 09:02 Netzach e Hod: três aspectos · 10:44 Mem, Lamed e interioridade de Netzach e Hod · 13:42 Orelhas, testa e olhos de Atik · 15:54 Interioridade fechada: Mem Setuma de leMarbe haMisra · 19:06 Divisão em cabeça, meio e fim; Bina, Zeir e Malchut · 24:45 Diferença entre o que está acima e abaixo do Yesod · 31:36 Releitura do Ohr Baruch e discussão sobre os terços
+FONTES CITADAS: 00:00 Talmud Eser Sefirot, Ohr Pnimi, parte 13 · 02:14 Talmud Eser Sefirot, Ohr Pnimi, parte 13 · 03:06 Talmud Eser Sefirot, Ohr Pnimi, parte 13 · 04:39 Talmud Eser Sefirot, Ohr Pnimi, parte 13 · 07:02 Yoma 38b · 09:02 Talmud Eser Sefirot, Ohr Pnimi, parte 13 · 10:44 Talmud Eser Sefirot, Ohr Pnimi, parte 13 · 13:42 Talmud Eser Sefirot, Ohr Pnimi, parte 13 · 15:54 Etz Chaim, Ari, Ot 76 · 17:06 Yeshayahu 9:6 · 17:23 Zohar · 19:06 Etz Chaim, Ari, Ot 75 · 21:06 Talmud Eser Sefirot, Ohr Pnimi, parte 13 · 24:45 Talmud Eser Sefirot, Ohr Pnimi, parte 13 · 25:35 Ohr Baruch · 31:36 Ohr Baruch
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|27:28|שם, השם, כן, שם.
+229|27:30|שם.
+230|27:31|מה זה השם מהם הזה?
+231|27:36|בשם, כן.
+232|27:36|שם.
+233|27:41|אצלך כתוב שם, בכתב יד?
+234|27:44|לא בכתב יד, ב...
+235|27:46|נמצא שאיר, נמצא שאיר.
+236|27:48|שאיר, זה שלישי?
+237|27:50|כן, ככה כתוב.
+238|27:52|שאיר, ככה כתוב פה.
+239|27:54|אוקיי.
+
+LINHAS A TRADUZIR:
+240|27:57|הוא לא קורה בכלל במקום.
+241|28:00|מי?
+242|28:00|אתה.
+243|28:01|לא?
+244|28:03|לא, מה שאין כן.
+245|28:07|‫ככה, הכתב פה מאוד גרוע.
+246|28:11|‫כן.
+247|28:12|‫מה שאין כן יש לך?
+248|28:14|‫פי זה צריך להבין.
+249|28:19|‫לחזור מאוד לפי זה, צריך להבין ‫שאין, שרק,
+250|28:25|‫שהמילה רק פה לא ברורה.
+251|28:27|‫אגר דה שלישי נילאים ‫דה שלישי מילאים ‫עומדים למעלה
+252|28:33|מהיסוד.
+253|28:34|‫עומדים למעלה, ‫המילה היסוד לא ברורה.
+254|28:37|מה שאין כן?
+255|28:39|מה שאין כן כתוב כן.
+256|28:40|מה כתוב אחרי מה שאין כן?
+257|28:42|איזשהו קשקוש שאני לא יכול
+258|28:45|להבין אותו.
+259|28:48|אה, לא, לא, זה שום דבר, זה מהצורה העליונה.
+260|28:51|בשורה העליונה היה כתוב שהשם הזה כזה ירד למטה, כאילו.
+261|28:57|מה שאין כן, זהו זה.
+262|28:59|מה שאין כן, זה מילה אחת.
+263|29:01|ואחרי זה מה כתוב?
+264|29:03|זץ בשלישים עילאים.
+265|29:09|‫שכבר שורה הבאה.
+266|29:11|‫-בסדר.
+267|29:12|‫נמצאים למטה מהיסוד.
+268|29:17|‫-בסדר.
+269|29:18|‫ושייכים ללמד כדוגמת
+270|29:24|‫הבינה שמתחלקת באמצע הבינה.
+271|29:29|‫הכתב פה
+272|29:38|עוד...
+273|29:41|מאוד מטוסטס
+274|31:36|‫אז אני קורא את האור ברוך שוב.
+275|31:39|‫יש להבין.
+276|31:40|‫הלא שלישים עליונים דניים ‫הם נצח עוד למעלה מהיסוד.
+277|31:49|‫שרק הבית שלישים של נאי, ‫הם למטה מהיסוד,
+278|31:57|‫והם נקראים למד.
+279|32:00|‫אז מה זה שלישים עליונים דנאי?
+280|32:02|‫זה חב"ד דנאי.
+281|32:12|‫כן, שרק הבית שלישים...
+282|32:18|‫התחתונים...
+283|32:22|‫זה היה צריך להיות כתוב תחתונים, ‫לא כתוב
+284|32:28|תחתונים.
+285|32:28|‫שנעי, דהיינו חגת נעי דנעי, ‫הם למטה
+286|32:34|מהיסוד והם נקרא ל'.
+287|32:42|‫וכאן אומר שזאדי שלישי עילאין ‫הם למד.
+288|32:46|‫נמצא שמבחינת למטה
+289|32:52|מהיסוד.
+290|32:52|‫לפי זה צריך לומר ‫שרק הגאדי
+291|32:58|שלישי עילאין ‫עומדים למעלה מהיסוד.
+292|33:01|‫מה שאם כן זאדי שלישי עילאין ‫נמצאים למטה מהיסוד,
+293|33:07|‫שייכים ללמד.
+294|33:09|‫כדוגמת הבינה שמתחלקת באמצע הבינה.
+295|33:13|‫אז עוד פעם, וכאן אומר ‫שזד שלישין ילאין הם למד.
+296|33:41|‫וכאן אומר שזתי שלישי נלאינם למד.
+297|33:45|‫כלומר, לא חגת
+298|33:52|של הנהי,
+299|33:53|‫אלא
+300|33:58|מחלק את החב"ד ‫דנהי עצמם
+301|34:05|לבית חלקים.
+302|34:08|‫כלומר, חב"ד...
+303|34:11|‫של החב"ד דנהי וחג"ת של
+304|34:16|החב"ד דנהי.
+305|34:26|‫נמצא שהם מבחינת למטה מהיסוד.
+306|34:34|‫מי ה...?
+307|34:36|‫החג"ת.
+308|34:38|‫חגת של החגת.
+309|34:41|‫-של החב"ד.
+310|34:47|‫-של החב"ד.
+311|34:48|‫לפי זה צריך לומר ‫שרק
+312|34:56|הגר דחב"ד דנהי, ‫מה שאין כר
+313|35:02|זה דשלישי נלאי, ‫דהיינו חגת
+314|35:08|נהי, דחבד, דנהי,
+315|35:14|נמצאים למטה מהיסוד ושייכים ללמד, כדוגמת הבינה שמתחלקת
+316|35:20|באמצע הבינה.
+317|35:21|אז רגע, זו שאלה או שזו שאלה
+318|35:25|ותשובה?
+319|35:27|הוא קובע.
+320|35:29|אז מי לפי זה מתחיל תשובה?
+321|35:35|יש פה שאלה ותשובה?
+322|35:37|‫ויש להאמין, נכון?
+323|35:38|‫יש להאמין לשאלה?
+324|35:41|‫איפה נקבעת השאלה?
+325|35:43|‫ולפי זה, חגת נעי דנעי,
+326|35:50|‫אם צדיק.
+327|35:50|‫אם צדיק, נכון.
+328|35:55|‫כך צריך לומר.
+329|35:57|‫אבל איפה מתחילה פה התשובה, ‫אני שואל?
+330|35:58|‫כלומר, מבחינת זון דנעי.
+331|35:59|‫אז מי המילה לפי זה מתחילה תשובה?
+332|36:09|אחרי המילה מהיסוד צריך לשים סימן שאלה,
+333|36:19|לא?
+334|36:19|וכו' ולא?
+335|36:24|אני לא יודע אם זה שאלה ותשובה או שהוא פשוט קובע את הדבר, מנתח וקובע.
+336|36:30|אז הוא כבר שואל ויש להבין.
+337|36:34|בסדר, יש להבין.
+338|36:35|יש להביא את זה בשום שאלה?
+339|36:37|הוא לא משווה בין שני מקומות הפוכים, לא?
+340|36:39|מה?
+341|36:39|הוא משווה בין שני מקומות הפוכים, לא?
+342|36:42|נו, אז מה יש?
+343|36:42|זה שאלה.
+344|36:43|זה שאלה, לא סתירה בין
+345|36:48|שני מקומות, לא?
+346|36:51|בסדר, זה שאלה.
+347|36:52|בסדר, זה שאלה, נו בסדר.
+348|36:54|מה קרה?
+349|36:55|יש להם שאלה באיזשהו מקום, ואיפה
+350|37:01|מתחילה התשובה?
+351|37:03|כולם חיים פה באיזה אטרף?
+352|37:06|‫צריכים כדורים פה כולו.
+353|37:08|‫-כן.
+354|37:11|‫הוא
+355|37:19|נראה לי הוא הולך על דברי הרב, ‫הוא ברוך לו.
+356|37:22|‫תכף נראה.
+357|37:24|‫שישים עיונים ונהיים למעלה מהיסוד, ‫זה לא מה שהרב אומר?
+358|37:28|‫רש"י פי קיירת שנמעלה מהיסוד?
+359|37:43|‫כל טוב.
