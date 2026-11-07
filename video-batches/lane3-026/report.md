@@ -1,10 +1,10 @@
 # lane3-026
 
 0 of 3 lessons published · 1 skipped · status **pending**
-Tokens (180 agent runs with a record): 0.9M in (mostly cache) · 0.46M out · API-equivalent 6.86
+Tokens (229 agent runs with a record): 1.2M in (mostly cache) · 0.59M out · API-equivalent 8.11
 
 | lesson | state | detail |
 |---|---|---|
 | SeV6VMe8Vlw | waiting | 55/56 parts |
-| 4WUIGs9LKmk | ✗ will be redone (try 2) | line 480 twice |
-| mKMId6XdH2o | skipped after 3 tries | 2 lines missing |
+| 4WUIGs9LKmk | waiting | 29/30 parts |
+| mKMId6XdH2o | skipped | |
