@@ -1,0 +1,64 @@
+videoId: 5FEDGVe16ZA
+parte 7 de 14 · traduzir as linhas 240 a 279 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot: Akudim e luzes nos recipientes
+RESUMO: O rabino começa respondendo às perguntas de Limor sobre a ordem do estudo da parte 4. O estudo desce do Ein Sof até este mundo para que se possa aprender a subir. O mundo de Akudim tem um só recipiente: um único desejo de receber a fim de outorgar, sem detalhes, no regime de "tudo ou nada" do Tzimtzum Alef. Esse mundo corresponde a Keter, o primeiro que sai depois do mundo dos Igulim. Ele traz os cinco partzufim de Adam Kadmon, e vêm depois Nekudim e Berudim, como na história de Yaakov. Ele também explica a ordem ponto, sefirá, partzuf e mundo. Depois revisa as luzes NaRaNChaY e os recipientes Keter, Chochmá, Biná, Zeir Anpin e Malchut. Mostra o princípio da inversão: os recipientes crescem do mais puro ao mais grosso, enquanto a primeira luz a entrar é a mais baixa, Nefesh. Os exemplos são o desejo de viajar e o menino que aprende primeiro Dó-Ré-Mi no piano. Aplica isso à fé como Keter e ao estudo como Chochmá, e conclui que o estudo existe para fortalecer a fé, e que se deve ligar o desejo mais grosso ao ponto mais puro, por exemplo dormir ou comer com intenção elevada.
+MOMENTOS: 00:08 Revisão e as perguntas de Limor sobre a ordem das partes · 01:39 O que é Akudim: um só recipiente, tudo ou nada · 04:47 Akudim corresponde a Keter; sequência dos mundos · 07:33 Adam Kadmon e os cinco partzufim de Akudim · 08:03 Individualidade, desejo e valor: a tela que une os dois · 10:51 Akudim, Nekudim e Berudim; ponto, sefirá, partzuf, mundo · 13:49 Revisão: luzes NaRaNChaY e recipientes; recipiente e canal · 18:05 Os recipientes crescem do puro ao grosso; as luzes, ao contrário · 20:07 Exemplos: a viagem e o menino que aprende piano · 23:55 Keter como fé, Chochmá como estudo; Nefesh e Ruach · 27:05 Unir o desejo mais grosso ao ponto mais puro · 31:26 O estudo serve para fortalecer a fé
+FONTES CITADAS: 01:04 Baal HaSulam, Talmud Eser HaSefirot, ordem do encadeamento dos mundos · 01:39 Talmud Eser HaSefirot, parte 4, mundo de Akudim · 02:49 Talmud Eser HaSefirot, Tzimtzum Alef · 05:49 Talmud Eser HaSefirot, Ein Sof, Tzimtzum e mundo dos Igulim · 07:03 Talmud Eser HaSefirot, mundos do Kav · 07:39 Talmud Eser HaSefirot, partzufim de Adam Kadmon · 09:09 Amidá, pedido de chuvas em Cheshvan · 10:51 Bereshit 31:10 · 11:04 Talmud Eser HaSefirot, Akudim, Nekudim, Berudim · 12:59 Talmud Eser HaSefirot, ordem ponto, sefirá, partzuf, mundo · 13:55 Talmud Eser HaSefirot, luzes NaRaNChaY e recipientes · 14:31 Talmud Eser HaSefirot, outras ordens (shoresh, neshamá, guf, levush, heichal) · 14:43 Talmud Eser HaSefirot, Shem HaVaYaH · 17:29 Talmud Eser HaSefirot, início da parte 2, canal e Kav · 18:05 Talmud Eser HaSefirot, inversão entre luzes e recipientes · 29:07 Shemá, recitação ao deitar · 29:24 Bênçãos sobre a comida
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|14:02|יפה.
+229|14:03|מה הראשי תיבות?
+230|14:05|נפש רוח נשמה חיה ויחידה.
+231|14:07|נכון, יפה.
+232|14:08|איך נקראים בכלים?
+233|14:10|קטל חופמה בנאזי רנפין במלכות.
+234|14:13|יפה.
+235|14:14|אז למדנו שיש סדר שנקרא הופכיות אורות וכלים.
+236|14:19|יש הרבה מאוד סדרים, כן?
+237|14:21|נערן חי וככב תום.
+238|14:23|הם, מה שאמרת עכשיו, הם...
+239|14:25|סדר כללי מאוד מרכזי שמדובר הרבה בחוכמה אבל יש כל מיני סדרים אחרים כמו שלמדנו בחלק הקודם
+
+LINHAS A TRADUZIR:
+240|14:31|שנקרא שנגלה שורש נשמה גוף לבוש היכל ויש סדרים של
+241|14:37|מוח עצמות בשר גידים ועור ויש סדר של עולמות ויש הרבה מאוד סדרים
+242|14:43|שבאים לבאר את שם הוויה שם י"ק ו"ק שהוא דל חינות
+243|14:49|ושורש הרבה מאוד צדדים לראות את זה בכל מיני צורות הסדר הזה,
+244|14:55|אנחנו לומדים על הכלים ועל האורות המתלבשים בכלים.
+245|14:59|מה זה נקרא האורות המתלבשים בכלים?
+246|15:00|זה נקרא הרגשות.
+247|15:02|רגשות.
+248|15:05|כלי, זה נקרא, כלי אמיתי בקדושה, נקרא
+249|15:11|עיגול, מסך ואור.
+250|15:13|זה נקרא כלי של קו.
+251|15:14|עיגול, חשק, מסך, יכולת ניהול.
+252|15:18|והאור זה צד הנרנחי שבו, שמה שמתלבש בכלים.
+253|15:22|אז אפשר להגיד שהכלים...
+254|15:23|זה רק העיגול והמסך.
+255|15:25|זה נקרא כלי בקדושה.
+256|15:29|רצון, חשק עם מסך.
+257|15:32|זה נקרא גם, מי יודעת, מי שיודעת מקבלת 12 נקודות, דוז
+258|15:38|פואן.
+259|15:39|איך זה גם נקרא?
+260|15:40|כלי של קו, עיגול עם
+261|15:42|מסך.
+262|15:48|במילה אחת.
+263|15:49|במילה אחת אמרנו זה בתחילת חלק ב'.
+264|15:51|ספירה?
+265|15:52|לא.
+266|15:57|זה מבחן למצטיינות.
+267|15:58|כלי, כלי.
+268|16:00|לא.
+269|16:08|כלי שלא חוזר אומר ציפי, לא.
+270|16:12|יש לזה שם.
+271|16:13|זה נכון, זה כלי שלא חוזר, אבל השם במילה אחת.
+272|16:16|איך נקרא הכלי שלא חוזר בלי הגילון שלו?
+273|16:19|רצון לקבל.
+274|16:21|לא, רצון לקבל זה לא כלי.
+275|16:23|רצון לקבל זה חומר גלם.
+276|16:26|זה החומר גלם של הכלי, אבל זה לא הכלי.
+277|16:29|כלי חייב שיהיה בו מסך.
+278|16:31|איך נקרא, עיגול עם מסך?
+279|16:34|במילה אחת.

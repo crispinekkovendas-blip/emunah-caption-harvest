@@ -1,0 +1,64 @@
+videoId: AnXDrHJltK8
+parte 4 de 7 · traduzir as linhas 120 a 159 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Guer tzedek, Israel e a súplica do justo (Zohar 14b)
+RESUMO: Rabi Elazar pergunta por que o convertido (guer tzedek), que entra sob as asas da Shechiná pela circuncisão, se prende apenas ao Malchut, enquanto Israel se prende "de dia e de noite", isto é, também a Zeir Anpin. Rabi Shimon responde com a diferença de raiz e semente, citando "Ve'anochi netaticha sorek" (Yirmiyahu) e "asher besar chamorim besaram" (Yechezkel). Israel vem de raízes de verdade, se santifica e se purificou da impureza no Sinai. Nas nações, essa impureza leva até três gerações para ser removida. Rabi Hamnuna Sava acrescenta que o convertido sai das sefirot de impureza e sobe à sefirá santa do Malchut, e cita "Ve'atem hadevekim baAdonai Elokeichem". Em seguida, Rabi Yossi ensina que, quando há justos no mundo, há paz, e explica por que o verso "yaaseh shalom li" põe "yaaseh" (o Malchut e a remoção do Nachash) antes de "shalom" (Zeir Anpin). Por fim, o Zohar mostra que, quando o mundo peca, o Santo, Bendito Seja, propõe ao justo destruir os pecadores e fazer dele uma grande nação. O justo recusa e intercede, como Moshé no pecado do bezerro (Shemot 32), até ouvir "Salachti kidvarecha".
+MOMENTOS: 00:04 Pergunta de Rabi Elazar sobre o guer tzedek e o Malchut · 01:34 Rabi Shimon: raiz e semente de verdade versus impureza · 02:52 Os versículos de Yirmiyahu e Yechezkel sobre Israel e as nações · 03:27 Israel se santifica e perde a impureza no Sinai · 05:45 As nações levam três gerações; "tov shebagoyim harog" · 06:34 Rabi Hamnuna Sava: o convertido sobe ao Malchut · 09:26 Rabi Yossi e o verso "ki mei Noach zot li" · 11:30 Os justos trazem paz; "yaaseh shalom li" · 14:42 Por que "yaaseh" vem antes de "shalom" · 16:27 Com o justo no mundo, os julgamentos não dominam · 17:30 O Santo, Bendito Seja, propõe ao justo destruir o mundo · 20:03 O pecado do bezerro: "vayomer" duas vezes · 23:18 Moshé intercede e se entrega à morte pelo povo
+FONTES CITADAS: 00:04 Zohar, Vayikra 14b · 00:57 Yirmiyahu 33:25 · 01:49 Yirmiyahu 2:21 · 01:54 Yechezkel 23:20 · 03:27 Shabat 146a · 03:51 Talmud Yerushalmi, Kidushin 4:11 · 06:34 Zohar, Vayikra 14b, Rabi Hamnuna Sava · 07:09 Devarim 4:4 · 09:26 Vayikra 5:23 · 09:32 Yeshayahu 54:9 · 10:03 Bereshit 7:10 · 10:03 Bereshit 9:11 · 11:56 Yeshayahu 27:5 · 12:57 Zohar, Vayikra 14b, Rabi Yossi · 14:42 Yeshayahu 27:5 · 16:27 Zohar, Vayikra 14b · 17:30 Zohar, Vayikra 14b, Rabi Yossi · 20:34 Shemot 32:7-10 · 23:18 Midrash Shemot Rabá 43 · 23:36 Shemot 32:11 · 24:13 Zohar, Vayikra 14b · 25:07 Shemot 32:32 · 25:36 Shemot 32:14 · 25:36 Bamidbar 14:20
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|10:09|המיוחד הזה מי נוח מהמבול למה מהמנוח קשור לשמים
+109|10:14|יקראו על שמו ואח הכתיב כי מי נוח זאת
+110|10:20|לי זאת לי הם לי מבעילי מים הם לשון רבים
+111|10:27|אז מה זה זאת לי וגם לשון נקבה מה העניין פה אלא
+112|10:33|אחיתנה כד זכאין שגיאו בעלמא קוד שבריחו חד
+113|10:38|ומשתבח בהו דתנינן כד שרי זכה בעלמא והשתכח בי
+114|10:45|כביכול הטיל שלמה בעלמא וכל עלמא מתברך בגיני והטיל שלמה
+115|10:51|בפמליה של מעלה הפסקה הזאת היא בנויה בצורה כזאת
+116|10:56|שכמו שאמרנו מצטטים את הפסוק ויקי חטא והשם וצריך הרבה הרבה
+117|11:02|סבלנות עד שיחזרו ויעסקו בפסוק הזה אחרי זה רבי יוסי שואל פה את
+118|11:08|השאלה מי נוח למה נוח למה מי בלשון רבים
+119|11:13|למה זאת לי בלשון יחיד הרי זה מי נוח זה רבים
+
+LINHAS A TRADUZIR:
+120|11:19|וצריך סבלנות עד לתשובה עכשיו עוברים לדבר על משהו אחר על מה
+121|11:24|שכאשר הצדיקים רבים בעולם
+122|11:31|הקדוש ברוך הוא שמח ומשתבח בהם הצדיק מטיל שלום
+123|11:38|בעולם וכל העולם יתברך בגללו והוא מטיל אפילו שלום בפמליה של מעלה בין
+124|11:44|מלאכי דין למלאכי רחמים שהדין לא מתעורר הכל בזכות אותו
+125|11:50|צדיק מנהלן דכתיב ופה עוד פסוק בישעיהו
+126|11:56|או יחזק במעוזי יעשה שלום לי שלום יעשה לי
+127|12:02|אז הפסוק פותח או יחזק במעוזי העוז שזה התורה יעשה שלום
+128|12:08|לי שלום יעשה לי טרן שלמים אמה יעכה מה זה הכפילות הזאת
+129|12:14|של השלום אלא יעשה שלום לי דאשרי דכר
+130|12:20|ונוקבה שלום יעשה לי במדבר חן אבהן יש פה שתי
+131|12:26|בחינות יעשה שלום לי שהוא מזווג משרה ביחד
+132|12:33|את הזכר והנקבה קודשא בריחו ושכנתי זרענפין ונוקווה
+133|12:39|ושלום יעשה לי ההמשך של הפסוק דמתברכה נבהן שמתברכים אבא
+134|12:44|ואמא חוכמה ובינה ומשם הם משפיעים שפע
+135|12:50|לזרענפין ונוקווה ועכשיו
+136|12:57|רבי יוסי מדייק עוד יותר מה היא איכא ביניו?
+137|13:01|מה בין שני השלומות הללו?
+138|13:04|אמר רבי יוסי, כד מדברך הנבהן, שלום יעשה לי,
+139|13:09|דהקדים שלמה בחולה, ובגין כך שלום קדים.
+140|13:15|המילה שלום היא רומזת ליסוד, לקודשא בריחו, לזרענפין, לזכר,
+141|13:21|ויעשה רומז לעשייה עניין של הנקבה.
+142|13:26|אז כאשר מדברים על הברכה של האבות של אבא ואימא על המדרגה העליונה
+143|13:33|אז סוף הפסוק אומר שלום יעשה לי
+144|13:38|מקדים את המילה שלום את העניין של היסוד את זר אנפין
+145|13:44|מקדים שלום ורק אחר כך יעשה ואחרי זה עשייה
+146|13:50|מכיוון שכאשר מתברכים
+147|13:56|האבות ומתייחדים אבא ואמא וממשיכים את המוחין
+148|14:01|לזון אז מקדימים את השלום מקדימים את זרנפין
+149|14:07|שנקרא שלום גם בקבלת המוחין מאבא ואמא וגם מקבלת
+150|14:13|החסדים והגבורות שמגיעים גם כן דרך המוחין וניתנים
+151|14:19|לזרנפין ורק אחר כך זה עובר אל המלכות אז כאשר אנחנו מדברים
+152|14:24|על האבות על ברכת האבות אז זה מתחיל מהזכר
+153|14:30|מהמדרגה של הזכר של שלום ואחר כך זה עובר
+154|14:36|לנוקווה למלכות יעשה שלום לי לגבי הרישה
+155|14:42|של הפסוק מה איתה מה להקדים שלום אחה מדוע בתחילת הפסוק כתוב
+156|14:48|יעשה שלום לי לא מקדים את השלום אלא את העשייה
+157|14:56|דשאריה בנוקבה בקדמיתא ויהי תדחורה למישרי באתרי ובגין כך
+158|15:01|יעשה הקדים ולבתר שלום.
+159|15:05|כאשר אנחנו מדברים על המדרגה התחתונה יותר של זון זר אנפין ונוקבה

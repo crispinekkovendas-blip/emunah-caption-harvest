@@ -1,0 +1,64 @@
+videoId: i5QbpARuhXM
+parte 15 de 26 · traduzir as linhas 560 a 599 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Atualidade e espiritualidade: paralisia, política e Rivka
+RESUMO: Avri Gilad abre o programa contando que acordou com paralisia facial e explica como decidiu reagir: escolher a alegria e seguir a vida como de costume, em vez de se ver como vítima. O rabino aplica essa lógica à política: o momento anterior mostrou-se impossível, então é preciso olhar o que o momento novo permite, e eles discutem a formação de um governo minoritário, o papel dos haredim e dos árabes e o presidente Herzog. Ao tratar do vizinho que afia a espada à noite, o rabino diz que, segundo o judaísmo, deve-se agir com respeito e desconfiança (kabdehu vechashdehu). Ele recorda que Esav veio com 400 homens e que, segundo os Sábios, os pensamentos de fraternidade de Yaakov mudaram o desfecho. Depois vêm comentários sobre Ben Gvir, os beduínos, a rejeição de rostos cobertos no espaço público e as mudanças na sociedade haredi, com a menção de que "a tzedaká salva da morte" (Mishlei). Na parte final, Yossi Meir, de Miami, liga a Parashá Chayei Sara e o versículo sobre Rivka, virgem que nenhum homem conheceu, à ideia de pureza e bitul, e fala em sentir-se em casa e em fazer o Santo, Bendito Seja, ter uma morada nos mundos inferiores.
+MOMENTOS: 00:30 Avri conta a paralisia facial e a escolha da alegria · 03:05 Acupuntura chinesa e conselho de seguir a vida normal · 08:08 Governo de minoria e a situação política · 10:10 Trabalhar com o que é possível no momento novo · 17:00 O vizinho que afia a espada: como agir segundo o judaísmo · 18:03 Esav com 400 homens e os pensamentos de fraternidade · 22:45 Beduínos, Rahat e educação · 29:07 Proibir rostos cobertos no espaço público · 31:10 Mudanças na sociedade haredi e o medo de ameaças · 40:07 Yossi Meir ao vivo de Miami · 43:48 Rivka, a virgem, e a ideia de bitul · 47:02 Sentir-se em casa e a morada para o Santo, Bendito Seja
+FONTES CITADAS: 17:34 Kabdehu vechashdehu · 18:03 Bereshit 32:7 · 18:14 Bereshit 33:4 · 18:22 Midrash sobre Esav e Yaakov · 25:50 Mishlei 10:2 · 43:10 Ensinamento do Rebe de Lubavitch · 43:56 Bereshit 24:16 · 48:32 Midrash Tanchuma, Nasso 16
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+548|25:22|אה, כן.
+549|25:22|אז אתה...
+550|25:23|זה הכל, יונית לוי, זה הכל.
+551|25:25|יון לוי.
+552|25:30|אז מנסור עבאס אומר, אמר, אני מבקש לא לענות על השאלה הזו, אני רוצה לשמור על משפחתי.
+553|25:36|וואו.
+554|25:38|מה הייתה השאלה?
+555|25:39|האם חמאס הוא ארגון טרור?
+556|25:40|אה, שיגיד שהוא ארגון צדקה, נו, זה ידוע.
+557|25:45|כולם יודעים את זה שחמאס הוא ארגון צדקה.
+558|25:47|כן.
+559|25:48|הוא עושה המון צדקות.
+
+LINHAS A TRADUZIR:
+560|25:50|כתוב, צדקה תציל ממוות.
+561|26:01|אפרופו מה שדיברנו קודם על האמריקאים וסלילתם לביבי,
+562|26:07|יהודי ניו יורק ממשיכים לתמוך בזוהרן מנדני, הוא עדיין זוכה ל-49
+563|26:13|אחוז אהדה.
+564|26:14|אצל היהודים.
+565|26:15|אצל היהודים.
+566|26:16|ביבי ל-20 אחוז אהדה.
+567|26:18|איך אתה מסביר את זה?
+568|26:20|את הראש היהודי האמריקאי.
+569|26:22|אני חושב שיהודי ארה״ב זיהו בחושיהם אחדים, הם לא אנשים מטומטמים,
+570|26:29|שהולכת לבוא שואה.
+571|26:31|והם פשוט ניתקים מאיתנו.
+572|26:34|הבנתי.
+573|26:34|הם פשוט מזדהים, זה כמו יהודים...
+574|26:37|מנסים למצוא חן בעיני הפריץ.
+575|26:39|זה כמו יהודים שהתפקדו למפלגה הנאצית.
+576|26:42|זה אותו דבר.
+577|26:43|היה כאלה?
+578|26:44|אני לא יודע.
+579|26:45|המצאתי הרגע.
+580|26:46|הבנתי.
+581|26:46|אני לא יודע, בוא נבדוק.
+582|26:48|בשביל מה אנחנו עובדים פה ביחד.
+583|26:50|האם בתחילת מלחמת העולם השנייה, או בשנות ה-30 בגרמניה, היו יהודים
+584|26:56|שהתפקדו למפלגה הנאצית?
+585|27:00|רגע, בודק את זה במקורות המינים.
+586|27:04|ככלל, לא הייתה אפשרות ליהודים להצטרף, האידיאולוגיה של המפלגה האנטישמית כבר מההתחלה.
+587|27:09|היו אולי כמה אנשים עם שורשים יהודיים שהשתייכו לתנועה בתחילת הדרך, לפני שהמוצא שלהם התגלה
+588|27:15|או לפני שהחוקים הוחמרו, אבל בשנות ה-30 זה כבר היה אסור.
+589|27:19|היו יהודים גרמנים לאומנים שאולי הזדהו עם לאומנות גרמניסט, אבל זה לא אומר שהם התפקדו
+590|27:24|למפלגה.
+591|27:25|ומה שמעניין במיוחד זה סיפור של אנשים ממוצא יהודי שהמשטר הגדיר כחריגים וקיבל אישור מיוחד
+592|27:31|לשירות למרות תורת הגזע.
+593|27:33|אם תרצה, אני יכול לפרט על דוגמאות כאלה.
+594|27:35|לא, תודה.
+595|27:38|אוקיי, אז מה שאמרתי הוא מופרך, אבל אני חושב שהם
+596|27:44|חושבים שהם התרחקו מאיתנו מספיק.
+597|27:47|אז הם ינצלו.
+598|27:48|אז הם ינצלו, כן.
+599|27:52|כמו ברני סנדרס כזה, שדורש להפסיק את כל משלוחי,

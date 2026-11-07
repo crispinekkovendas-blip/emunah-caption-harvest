@@ -1,0 +1,64 @@
+videoId: i5QbpARuhXM
+parte 17 de 26 · traduzir as linhas 640 a 679 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Atualidade e espiritualidade: paralisia, política e Rivka
+RESUMO: Avri Gilad abre o programa contando que acordou com paralisia facial e explica como decidiu reagir: escolher a alegria e seguir a vida como de costume, em vez de se ver como vítima. O rabino aplica essa lógica à política: o momento anterior mostrou-se impossível, então é preciso olhar o que o momento novo permite, e eles discutem a formação de um governo minoritário, o papel dos haredim e dos árabes e o presidente Herzog. Ao tratar do vizinho que afia a espada à noite, o rabino diz que, segundo o judaísmo, deve-se agir com respeito e desconfiança (kabdehu vechashdehu). Ele recorda que Esav veio com 400 homens e que, segundo os Sábios, os pensamentos de fraternidade de Yaakov mudaram o desfecho. Depois vêm comentários sobre Ben Gvir, os beduínos, a rejeição de rostos cobertos no espaço público e as mudanças na sociedade haredi, com a menção de que "a tzedaká salva da morte" (Mishlei). Na parte final, Yossi Meir, de Miami, liga a Parashá Chayei Sara e o versículo sobre Rivka, virgem que nenhum homem conheceu, à ideia de pureza e bitul, e fala em sentir-se em casa e em fazer o Santo, Bendito Seja, ter uma morada nos mundos inferiores.
+MOMENTOS: 00:30 Avri conta a paralisia facial e a escolha da alegria · 03:05 Acupuntura chinesa e conselho de seguir a vida normal · 08:08 Governo de minoria e a situação política · 10:10 Trabalhar com o que é possível no momento novo · 17:00 O vizinho que afia a espada: como agir segundo o judaísmo · 18:03 Esav com 400 homens e os pensamentos de fraternidade · 22:45 Beduínos, Rahat e educação · 29:07 Proibir rostos cobertos no espaço público · 31:10 Mudanças na sociedade haredi e o medo de ameaças · 40:07 Yossi Meir ao vivo de Miami · 43:48 Rivka, a virgem, e a ideia de bitul · 47:02 Sentir-se em casa e a morada para o Santo, Bendito Seja
+FONTES CITADAS: 17:34 Kabdehu vechashdehu · 18:03 Bereshit 32:7 · 18:14 Bereshit 33:4 · 18:22 Midrash sobre Esav e Yaakov · 25:50 Mishlei 10:2 · 43:10 Ensinamento do Rebe de Lubavitch · 43:56 Bereshit 24:16 · 48:32 Midrash Tanchuma, Nasso 16
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+628|29:28|אתה לא יכול להיות בלתי מזוהה במרחב הציבורי.
+629|29:30|אה, כאילו כמו שהמדינה דורשת ממך תעודת זהות.
+630|29:34|ברור.
+631|29:35|אתה צריך להזדהות בכל...
+632|29:36|להיות מוכן להזדהות בכל מקרה.
+633|29:39|לגמרי, אתה לא יכול לשמור על אנונימיות במרחב הציבורי.
+634|29:41|אתה לא יכול.
+635|29:43|מצד טובת הציבור, נקרא לזה.
+636|29:46|ברור.
+637|29:47|מצד טובת הציבור, כן.
+638|29:48|זה יותר מובן.
+639|29:48|ו...
+
+LINHAS A TRADUZIR:
+640|29:52|לא יודע אם ראית, בנושא השיחה הקודם שלנו, איתמר בן גביר, הולך למנות את מרדכי
+641|29:58|דוד לעוזר פרלמנטרי בכנסת.
+642|30:00|מה אתה אומר?
+643|30:01|כן.
+644|30:03|זה לא טוב.
+645|30:05|לא.
+646|30:05|זה לא טוב.
+647|30:09|זה...
+648|30:12|זה פשוט הטמעה של אלימות בתוך הכנסת.
+649|30:16|אני שואל את עצמי, האם הכנסת תאפשר דבר כזה בכלל?
+650|30:23|זה דבר לא טוב.
+651|30:26|מילא אם האדם פועל מצד עצמו, מטעם עצמו וזה, זה עסק שלו.
+652|30:33|אבל להכניס אותו לתוך הכנסת?
+653|30:37|זאת אומרת, אתה מנרמל את התופעה.
+654|30:39|כן.
+655|30:41|אתה מחבר אותה לתוך ספר החוקים של מדינת ישראל.
+656|30:45|לא, זה לא טוב.
+657|30:49|אז סוכני הכאוס ממשיכים לעבוד.
+658|30:52|ואחר כך מתלוננים על זה
+659|30:58|שמהצד השני יש צעדים שלא היו באים בחשבון.
+660|31:04|כן.
+661|31:05|וכמו שאמרתי לך מקודם, אני חושב שבחברה החרדית...
+662|31:10|דברים כן משתפרים.
+663|31:13|מה, מה, מה משתפר?
+664|31:15|היה ראיון למשל עם היושב ראש של הציבור החרדי.
+665|31:20|לייטמן?
+666|31:21|לייטנר.
+667|31:22|לייטנר.
+668|31:22|כן.
+669|31:23|טוב, הוא לא הצליח וכולי, אבל הוא אומר...
+670|31:26|לא, לא, לא.
+671|31:27|שנייה, שנייה, שנייה, שנייה.
+672|31:28|הוא לא לא הצליח.
+673|31:29|הוא נכשל בענק.
+674|31:31|כן, אני יודע.
+675|31:32|אתה הצבעת לו, כן?
+676|31:33|כן.
+677|31:34|אתה ועוד שלושה אנשים.
+678|31:36|אני לא יודע מה.
+679|31:38|יש לו, הוא קיבל משהו כמו עשרת אלפים קולות.

@@ -1,0 +1,64 @@
+videoId: 0fn_Foe_eC0
+parte 31 de 32 · traduzir as linhas 1200 a 1239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Inveja, desejo e honra: o que tira o homem do mundo
+RESUMO: O rabino parte da Mishná de Pirkei Avot: três coisas tiram o homem do mundo, a inveja, o desejo e a honra. Mostra como a inveja vira desejo, com a história de um treinador de academia que queria ser o mais bem-sucedido de Israel e por isso temia a saída do rabino. Usa o casamento hassídico de Bnei Brak, com um ano de espera, para falar de dominar os desejos e do perigo de se comparar sempre com outros. Em seguida trata da honra, sobretudo no Instagram, com exemplos de alunos e alunas incapazes de apagar a conta, e das aparências. Como remédio, indica a fé de que o que o outro diz contra você é um alívio de algo pior, citando o Zohar e Tehilim, e a consciência de que nada é nosso, citando o Ramban e Pirkei Avot. Termina dizendo que ajudar os outros traz a ajuda de HaShem e que é preciso perguntar "para quê?" antes de querer dinheiro, casamento ou imagem.
+MOMENTOS: 00:33 Avot: inveja, desejo e honra tiram o homem do mundo · 01:19 A inveja leva até ao assassinato por ciúmes · 02:12 O treinador invejoso que queria falar com o rabino · 06:28 Da inveja ao desejo de dinheiro · 08:28 Casamento hassídico de Bnei Brak e o domínio dos desejos · 11:15 Comparar-se com os outros: sempre há algo "melhor" · 13:04 Honra: o rabino e a escolha das horas de aula · 15:24 Honra e Instagram: alunos que não largam as redes · 31:03 Perfume e aparência: por que você se arruma? · 36:24 A comandante e a honra diante dos soldados · 40:15 A solução: fé, perdão e não se orgulhar · 42:50 Nada é nosso: beleza, dinheiro, família · 49:00 A história do bilionário de Herzliya · 52:19 Ajudar os outros e atender o telefone · 1:01:09 Resumo final: perguntar "para quê?"
+FONTES CITADAS: 00:33 Pirkei Avot 4:21 · 07:05 Kohelet Rabá 1:13 · 11:44 Kohelet Rabá 1:13 · 17:32 Birkat HaNehenin, bênção Shehakol · 22:11 Pirkei Avot 4:21 · 29:53 Pirkei Avot 4:21 · 32:20 Shabat 114a · 41:13 Zohar (sem referência) · 41:38 Tehilim 147:6 · 43:00 Igueret HaRamban · 45:04 Pirkei Avot 3:1 · 46:51 Shulchan Arukh, Yoreh Deá 249:1 · 47:16 Igueret HaRamban · 49:37 Rambam, Hilchot Deot 4:1 · 56:36 Chulin 7b · 1:01:06 Pirkei Avot 4:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+1188|57:27|ככה זה אמור להיות.
+1189|57:28|איך זה עובד בעולם של מות תורה?
+1190|57:30|גם וגם, ותנצי את ה...
+1191|57:33|אל תתרחקי, שלא.
+1192|57:34|מה זה השטויות האלה?
+1193|57:35|כן, ככה זה עובד בעולם.
+1194|57:37|בעזרת השם, כולכם תתחתנו השנה הזאתי.
+1195|57:39|ושמגיע לך הזיווג שלך, כן, חברות, הן כבר יורדות שלה, ואני יותר עם בעלילת עתיד, מה זאת
+1196|57:43|אומרת?
+1197|57:44|זה עובד ככה בעולם.
+1198|57:45|לא אמרתי, תלילה בעיטה, תעיף לי אותה, אבל ככה זה עובד בעולם.
+1199|57:49|ככה זה עובד בעולם.
+
+LINHAS A TRADUZIR:
+1200|57:51|ככה זה עובד בעולם, נשמה טהורה שלי.
+1201|57:53|אין משהו אחר, אין משהו אחר.
+1202|57:57|יש לי כמויות, כמויות, כמויות, באמת, השם ידעילו מגאווה.
+1203|58:00|יש לאח של הרב יגאל כהן, קוראים מרדכי כהן.
+1204|58:03|זה בן אדם, הוא כמו אבא בשבילי.
+1205|58:05|הוא ממש החזיר אותי, עזר לי לחזור בתשובה היה לי איתו שיחה לפני כחודש, הוא מתקשר אליי
+1206|58:11|עכשיו, כשהוא מדבר איתי, אח של הרב יגאל, קודם כל הוא מרדכי כהן.
+1207|58:15|דיברנו לפני איזה חודש, חודש וחצי, שיחה, בדרך כלל אנחנו מדברים, הכל טוב, ואותן שיחות.
+1208|58:20|פתאום הוא עלה קצת שלב בשיחה, לא הבנתי אותו.
+1209|58:22|הוא בא אליי בשיחה הזאת ואמר לי, תשמע, יש לי שני חברים הכי טובים, קוראים להם צחי ידיד, הנה
+1210|58:27|אני אומר לכם שמות, הכל, קבלו, צחי ידיד ודניאל אביטל.
+1211|58:31|זה שני החברים הכי טובים שלי.
+1212|58:33|אז הם, מאז שחזרתי בתשובה, הם גם הכירו את מוטי, והם מאוד התחברו בפני עצמם, יש להם גם כמה
+1213|58:38|עבודות ביחד, עסקים, והם הכירו.
+1214|58:41|חברים שלי, ברוך השם, הם לא חרדים, ברוך השם שעורי שבת, הילדים מאוד מאוד טובים, אבל הרבה
+1215|58:46|פעמים, יש להם קבוצה בוואטסאפ, עכשיו אני אז פתחתי אותה והתחזרתי אותה, אין לי כבר וואטסאפ,
+1216|58:52|והם רוצים כבר תקופה עם אשתי פולעית, לבוא ולהיפגש על האש.
+1217|58:55|לעשות על האש, לשבת רק אנחנו ארבעתנו, עם אנשים ולשבת.
+1218|59:00|אז כל הזמן, אז הוא עשה איתי לפני חודש וחצי צחק, הוא יודע שהוא משפיע עליי, אני מאוד מקשיב
+1219|59:03|לדברים שלו.
+1220|59:04|רוני, מה קורה?
+1221|59:05|כאילו, אי אפשר לקבוע איתך.
+1222|59:06|אתה בלי עניין רק כל היום בשיעור תורה, חמישי, אני מבין שאתה רק עם משתך...
+1223|59:10|אי אפשר לקבוע.
+1224|59:12|משהו אחד אמרתי.
+1225|59:14|קודם כל אפשר בעזרת השם, אבל משהו אחד אמרתי.
+1226|59:22|אני מאחל לכם להיות מסופקים מהעבודה שלכם.
+1227|59:25|אתם יודעים למה?
+1228|59:25|מאחל לכם, זו ברכה אחת הגדולות הכי גדולת.
+1229|59:27|כשאתה קם, אתה אומר, איזה כיף אני אוהב לכם לעבודה.
+1230|59:30|אמרתי לו, אני כל ערב לא פנוי, לא פנוי, כן, לא פנוי גם לעל האש, לא פנוי לדברים האלה, לא כי
+1231|59:36|אני צדיק.
+1232|59:38|כי אני אומר לבורא עולם, תן לי לאהוב את התורה, ואני כל כך אוהב אותה, שאני רוצה שתקחי את
+1233|59:43|המתנה שבורא עולם מביא לי.
+1234|59:45|אני רוצה שגם לך את המתנה שבורא עולם מביא לי.
+1235|59:47|גבע של פעם, של פעם, חבר אומר לי, בוא על האש, בואי עניינים, עכשיו אני הולך.
+1236|59:52|היום לא אמרתי, אל תלך, אדרבה, בטח תלך ליהנות.
+1237|59:56|תשאל אותי מה הכיף הכי גדול שלך, תשאלו את אשתי.
+1238|59:58|אני בנהר השלישי של חנוכה, זה או-טו-טו, ידוע, זה היום הולדת שלי.
+1239|1:00:02|אז כל פעם חודש, חודש וחצי לפני, היא שואלת אותי, גבע, מה אתה רוצה ליום הולדת?

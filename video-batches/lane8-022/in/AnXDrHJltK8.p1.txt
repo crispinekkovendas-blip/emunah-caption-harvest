@@ -1,0 +1,64 @@
+videoId: AnXDrHJltK8
+parte 2 de 7 · traduzir as linhas 40 a 79 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Guer tzedek, Israel e a súplica do justo (Zohar 14b)
+RESUMO: Rabi Elazar pergunta por que o convertido (guer tzedek), que entra sob as asas da Shechiná pela circuncisão, se prende apenas ao Malchut, enquanto Israel se prende "de dia e de noite", isto é, também a Zeir Anpin. Rabi Shimon responde com a diferença de raiz e semente, citando "Ve'anochi netaticha sorek" (Yirmiyahu) e "asher besar chamorim besaram" (Yechezkel). Israel vem de raízes de verdade, se santifica e se purificou da impureza no Sinai. Nas nações, essa impureza leva até três gerações para ser removida. Rabi Hamnuna Sava acrescenta que o convertido sai das sefirot de impureza e sobe à sefirá santa do Malchut, e cita "Ve'atem hadevekim baAdonai Elokeichem". Em seguida, Rabi Yossi ensina que, quando há justos no mundo, há paz, e explica por que o verso "yaaseh shalom li" põe "yaaseh" (o Malchut e a remoção do Nachash) antes de "shalom" (Zeir Anpin). Por fim, o Zohar mostra que, quando o mundo peca, o Santo, Bendito Seja, propõe ao justo destruir os pecadores e fazer dele uma grande nação. O justo recusa e intercede, como Moshé no pecado do bezerro (Shemot 32), até ouvir "Salachti kidvarecha".
+MOMENTOS: 00:04 Pergunta de Rabi Elazar sobre o guer tzedek e o Malchut · 01:34 Rabi Shimon: raiz e semente de verdade versus impureza · 02:52 Os versículos de Yirmiyahu e Yechezkel sobre Israel e as nações · 03:27 Israel se santifica e perde a impureza no Sinai · 05:45 As nações levam três gerações; "tov shebagoyim harog" · 06:34 Rabi Hamnuna Sava: o convertido sobe ao Malchut · 09:26 Rabi Yossi e o verso "ki mei Noach zot li" · 11:30 Os justos trazem paz; "yaaseh shalom li" · 14:42 Por que "yaaseh" vem antes de "shalom" · 16:27 Com o justo no mundo, os julgamentos não dominam · 17:30 O Santo, Bendito Seja, propõe ao justo destruir o mundo · 20:03 O pecado do bezerro: "vayomer" duas vezes · 23:18 Moshé intercede e se entrega à morte pelo povo
+FONTES CITADAS: 00:04 Zohar, Vayikra 14b · 00:57 Yirmiyahu 33:25 · 01:49 Yirmiyahu 2:21 · 01:54 Yechezkel 23:20 · 03:27 Shabat 146a · 03:51 Talmud Yerushalmi, Kidushin 4:11 · 06:34 Zohar, Vayikra 14b, Rabi Hamnuna Sava · 07:09 Devarim 4:4 · 09:26 Vayikra 5:23 · 09:32 Yeshayahu 54:9 · 10:03 Bereshit 7:10 · 10:03 Bereshit 9:11 · 11:56 Yeshayahu 27:5 · 12:57 Zohar, Vayikra 14b, Rabi Yossi · 14:42 Yeshayahu 27:5 · 16:27 Zohar, Vayikra 14b · 17:30 Zohar, Vayikra 14b, Rabi Yossi · 20:34 Shemot 32:7-10 · 23:18 Midrash Shemot Rabá 43 · 23:36 Shemot 32:11 · 24:13 Zohar, Vayikra 14b · 25:07 Shemot 32:32 · 25:36 Shemot 32:14 · 25:36 Bamidbar 14:20
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+28|02:22|קודש.
+29|02:24|אומר לו רבי שמעון אלעזר בני אינו דומה מי שמגיע משורש
+30|02:29|קדוש מגזע אמת למי שמגיע מגזע
+31|02:36|רע ומשורש של רעות
+32|02:41|של שורש
+33|02:47|מגזע רע משורש מגואל של קליפות רעות וקשות
+34|02:52|בישראל כתוב ואנוכי נתעתיך סורק כולו זרע אמת סורק זה
+35|02:58|כינוי ליסוד זרע אמת מגיע מהתפארת מהאבות אברהם
+36|03:04|יצחק ויעקב בישראל יש שורשים קדושים שורשים של
+37|03:10|אמת ואילו באומות העולם כתיב אשר בשר חמורים בשרם וזרמת סוסים
+38|03:15|זרמתם הגויים מגיעים מהקליפות מכוחות הטומאה
+39|03:21|שנמצאים מתחת לשכינה ובגין כך ישראל
+
+LINHAS A TRADUZIR:
+40|03:27|קדישין זר הדקשות גיזה דתבשמו בתורה דה סיני והתפסק
+41|03:33|מיניו קול זוהמה כולו מתבשמין וכולו אילה בקיאמה קדישה עד יומם
+42|03:39|ולילה למה ושלמים בחולה אבל באומות העולם קשיא
+43|03:44|למעבר מיניו זוהמה ואפילו עד תלת דרין ובגין כך תנינן טוב
+44|03:51|שבגויים הרוג בעת מלחמה ובגין כך גר
+45|03:56|צדק ודאי.
+46|03:58|אז יש פה דיוק באריכות הזאת ובגין כך
+47|04:04|ישראל קדישין ישראל הם בעצמם קדושים מכיוון שהם
+48|04:10|נוהגים קדושה מקדשים את עצמם באכילה ובשתייה זר הדקשות
+49|04:16|גם מבחינת האופן שבו הם מגיעים לעולם אז זה זרע
+50|04:22|אמת מגיעים על ידי נישואין על ידי שמירת נידה מקדשים
+51|04:28|את עצמם בזיווגם אומר המתוק מדבש אז זה דבר נוסף ודבר
+52|04:34|שלישי גזעד יתבשמו בתורה דה סיני הם גזע קדוש
+53|04:39|שהתבשם ופסקה זוהמת חטא הדם הראשון מהם בהר סיני
+54|04:46|וכולו מתבשמים הם כולם מתבשמים
+55|04:52|מבושמים ונמתקו כל הדינים ולמרות שכאשר עשו את העגל חזרה
+56|04:57|זוהמתם אבל לא לגמרי והעניין הזה
+57|05:03|המעלה שהם הגיעו אליה במעמד הר סיני לא בטלה לא חזרנו
+58|05:09|למדרגה של חטא הדם הראשון שלפני מעמד הר סיני אלא
+59|05:16|עדיין נשארה הקדושה הזאת ההתבשמות הזאת ולכן
+60|05:22|כאשר מי שמגיע מעם ישראל בא בברית קודש
+61|05:28|אז הוא קשור לעניין של יומה ולילה ושלמות בכל גם
+62|05:34|יום גם לילה קודש בריך הוא שכינתי הזה בעם ישראל אבל אצל אומות
+63|05:40|העולם קשה מאוד להעביר את הזוהמה שלהם שהם דבקים בה אפילו עד שלושה
+64|05:45|דורות אמנם אחרי שלושה דורות אז הוא אמר נפסקת מהם וכך למדנו
+65|05:53|טוב שבגויים הרוג אז הכוונה למלחמה ולא
+66|05:58|סתם חלילה להרוג בגויים וזה גם לא הלכה למעשה יש פה איזה אמירה
+67|06:05|שגם אם הגוי טוב אבל המציאות השלילית שהוא
+68|06:11|מגיע ממנה היא זאת שגוברת אז בזמן מלחמה אין
+69|06:16|מניעה להרוג אותו, הוא ביטוי של רוע, ואילו
+70|06:22|כאשר הוא מתגייר, הוא נקרא גר צדק, הוא יוצא מהמציאות הקשה
+71|06:29|שהוא היה בה, ומגיע לשכינה, לצדק, למלכות.
+72|06:34|דאמר רבי מנון הסבא, אומות העולם עד לייט גזרו, שריאן בחיתרין
+73|06:40|תתאין בלה קדישין, ורוח מסבה שריה עליהו.
+74|06:44|כיוון דהתגיירו ויתגזרו שריאן דה קריטרא קדישא דה שכימתא דה שריה על
+75|06:50|שאר קטרין תתאין ורוח קדישא שריה עליו אבל ישראל קדישין
+76|06:56|בני קדישין דה גזעין ושורשין ויתבשמו בתורה דה סיני
+77|07:03|ואלו בממנותא שלמתא קדישתא ושעתה דהתגזר שריה בחולה בכתיב
+78|07:09|אתם הדבקים באדוני אלוהיכם חיים כולכם היום אז רבי נון
+79|07:14|הסבא נראה שמשהו מחדש על פני הדברים שראינו קודם שהוא

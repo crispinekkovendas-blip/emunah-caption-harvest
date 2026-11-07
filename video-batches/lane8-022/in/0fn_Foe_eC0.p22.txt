@@ -1,0 +1,64 @@
+videoId: 0fn_Foe_eC0
+parte 23 de 32 · traduzir as linhas 880 a 919 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Inveja, desejo e honra: o que tira o homem do mundo
+RESUMO: O rabino parte da Mishná de Pirkei Avot: três coisas tiram o homem do mundo, a inveja, o desejo e a honra. Mostra como a inveja vira desejo, com a história de um treinador de academia que queria ser o mais bem-sucedido de Israel e por isso temia a saída do rabino. Usa o casamento hassídico de Bnei Brak, com um ano de espera, para falar de dominar os desejos e do perigo de se comparar sempre com outros. Em seguida trata da honra, sobretudo no Instagram, com exemplos de alunos e alunas incapazes de apagar a conta, e das aparências. Como remédio, indica a fé de que o que o outro diz contra você é um alívio de algo pior, citando o Zohar e Tehilim, e a consciência de que nada é nosso, citando o Ramban e Pirkei Avot. Termina dizendo que ajudar os outros traz a ajuda de HaShem e que é preciso perguntar "para quê?" antes de querer dinheiro, casamento ou imagem.
+MOMENTOS: 00:33 Avot: inveja, desejo e honra tiram o homem do mundo · 01:19 A inveja leva até ao assassinato por ciúmes · 02:12 O treinador invejoso que queria falar com o rabino · 06:28 Da inveja ao desejo de dinheiro · 08:28 Casamento hassídico de Bnei Brak e o domínio dos desejos · 11:15 Comparar-se com os outros: sempre há algo "melhor" · 13:04 Honra: o rabino e a escolha das horas de aula · 15:24 Honra e Instagram: alunos que não largam as redes · 31:03 Perfume e aparência: por que você se arruma? · 36:24 A comandante e a honra diante dos soldados · 40:15 A solução: fé, perdão e não se orgulhar · 42:50 Nada é nosso: beleza, dinheiro, família · 49:00 A história do bilionário de Herzliya · 52:19 Ajudar os outros e atender o telefone · 1:01:09 Resumo final: perguntar "para quê?"
+FONTES CITADAS: 00:33 Pirkei Avot 4:21 · 07:05 Kohelet Rabá 1:13 · 11:44 Kohelet Rabá 1:13 · 17:32 Birkat HaNehenin, bênção Shehakol · 22:11 Pirkei Avot 4:21 · 29:53 Pirkei Avot 4:21 · 32:20 Shabat 114a · 41:13 Zohar (sem referência) · 41:38 Tehilim 147:6 · 43:00 Igueret HaRamban · 45:04 Pirkei Avot 3:1 · 46:51 Shulchan Arukh, Yoreh Deá 249:1 · 47:16 Igueret HaRamban · 49:37 Rambam, Hilchot Deot 4:1 · 56:36 Chulin 7b · 1:01:06 Pirkei Avot 4:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+868|42:37|איפור של ספורה, והיא כולה מפורקת עלו יום, so what, אז מה?
+869|42:42|אז בורונה מביא לה את זה.
+870|42:43|ברגע הוא יכול לקחת?
+871|42:44|בשנייה אחד הוא יוקח.
+872|42:45|בשנייה, למה זה שלך בכלל?
+873|42:49|למה זה שלך בכלל?
+874|42:50|משהו שלך בעולם הזה?
+875|42:53|היום אתה משחק כדורגל, תמיר, זה שלך?
+876|42:55|מאה אחוז חסדים שבורונה מזיז לך את הגוף כל רגע ורגע.
+877|42:59|משהו שלך בעולם הזה?
+878|43:00|הרמב"ן מדבר על זה כל כך יפה.
+879|43:02|משהו שלך, אחותי, בואי נדבר רשמי.
+
+LINHAS A TRADUZIR:
+880|43:05|משהו שלך, נגיד עכשיו קיבלתי יופי, יש לך זוגיות טובה, ואת מצלמת, ואיך הוא פינק אותי, ואיך
+881|43:11|הוא עשה לי, למה?
+882|43:13|זה לא שלך בכלל, זה מתנה מן אללה.
+883|43:16|בן זוג ירא שמיים, לא שלך אחותי, לא שלך בכלל.
+884|43:20|את עוד שחקנית בסרט של בורא עולם, אמיתי לגמרי, גם אני.
+885|43:25|אתם יודעים כמה אנשים אומרים לי, הרב, אתה לא מפחד שאתה מדבר לפעמים על המשפחה שלך?
+886|43:30|אתה לא מפחד לפעמים שאתה מדבר על דברים אישיים שלך?
+887|43:32|אני צריך לפחד.
+888|43:34|אמרתי לכם, זה נראה לי כמה פעמים פה, או העין הרע, אנשים מפחדים מהעין הרע.
+889|43:38|אין ממה לפחד מהעין הרע אם אתה אדם מפרגן.
+890|43:41|אם אתה אדם מפרגן, לא תשלוט בך העין הרע.
+891|43:44|את יודעת איך שולטת בך העין הרע?
+892|43:46|אם את אישה לא מפרגנת, תשלוט דרך העין הרע, חס ושלום.
+893|43:49|אם אתה אדם מפרגן, לא יכולה לשלוט בך העין הרע, לעולם, לעולם, אחי, אין לך מה לפחד.
+894|43:54|כמה באים אלה אומרים לי, אתה מדבר על זה ועל השיעורים ושיש לך כאן?
+895|43:57|למה?
+896|43:58|אומרים לי, אנשים שאוהבים אותי, באמת אוהבים אותי, למ שיעורי התורה
+897|44:04|זה שלי, מה שאני מדבר זה שלי?
+898|44:06|מי מביא לי את המילים?
+899|44:07|בורא עולם.
+900|44:08|אחד המשפטים שאני אומר בדרך לכל שיעור.
+901|44:11|בורא עולם, תן לי את המילים הנכונות, לא מה שאני רוצה לדבר.
+902|44:15|מה שאת צריכה לשמוע.
+903|44:17|אתם יודעים כמה כל שיעור אנשים באים אליי?
+904|44:19|אתה לא מאמין, הרב.
+905|44:20|חושבים שאני אורי גילה, חושבים שיש לי רוח הקודש, אני לא צוחק.
+906|44:23|באים אליי, הרב.
+907|44:24|בדיוק מה הייתי צריכה לשמוע?
+908|44:26|כמעט כל, לא כמעט, כל שיעור אנשים באים אליי.
+909|44:30|הרב, זה בדיוק הסיטואציות שהיו לי בשבוע האחרון.
+910|44:33|מה, את לא מבינה שאני ביקשתי מהשם, תן לי את המילים שהיא צריכה לשמוע?
+911|44:36|אני לא רוצה לדבר דברים שאני צריך, מה שאתה צריך!
+912|44:40|שום דבר לא שלנו!
+913|44:44|אומרים לי הרב, אמרו לי בסמינר, דיברתי על השידוך ואיך הכרתי את אשתי והכל, אז זה אחת אמרה
+914|44:49|לרבנית, אולי לא כדאי שהוא ידבר על השידוך, למה הרבנית היא שלי בכלל?
+915|44:54|האשה שלי היא שלי נראה לך באמת?
+916|44:57|נראה לכם שאשתי היא שלי?
+917|44:58|אחי, אתה חי בסרט.
+918|44:59|אשתי היא לא שלי.
+919|45:01|היא לא שלי, של בורא עולם, שום דבר לא שלי בעולם הזה.

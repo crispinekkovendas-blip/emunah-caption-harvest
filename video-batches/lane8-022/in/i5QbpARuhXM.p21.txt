@@ -1,0 +1,64 @@
+videoId: i5QbpARuhXM
+parte 22 de 26 · traduzir as linhas 840 a 879 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Atualidade e espiritualidade: paralisia, política e Rivka
+RESUMO: Avri Gilad abre o programa contando que acordou com paralisia facial e explica como decidiu reagir: escolher a alegria e seguir a vida como de costume, em vez de se ver como vítima. O rabino aplica essa lógica à política: o momento anterior mostrou-se impossível, então é preciso olhar o que o momento novo permite, e eles discutem a formação de um governo minoritário, o papel dos haredim e dos árabes e o presidente Herzog. Ao tratar do vizinho que afia a espada à noite, o rabino diz que, segundo o judaísmo, deve-se agir com respeito e desconfiança (kabdehu vechashdehu). Ele recorda que Esav veio com 400 homens e que, segundo os Sábios, os pensamentos de fraternidade de Yaakov mudaram o desfecho. Depois vêm comentários sobre Ben Gvir, os beduínos, a rejeição de rostos cobertos no espaço público e as mudanças na sociedade haredi, com a menção de que "a tzedaká salva da morte" (Mishlei). Na parte final, Yossi Meir, de Miami, liga a Parashá Chayei Sara e o versículo sobre Rivka, virgem que nenhum homem conheceu, à ideia de pureza e bitul, e fala em sentir-se em casa e em fazer o Santo, Bendito Seja, ter uma morada nos mundos inferiores.
+MOMENTOS: 00:30 Avri conta a paralisia facial e a escolha da alegria · 03:05 Acupuntura chinesa e conselho de seguir a vida normal · 08:08 Governo de minoria e a situação política · 10:10 Trabalhar com o que é possível no momento novo · 17:00 O vizinho que afia a espada: como agir segundo o judaísmo · 18:03 Esav com 400 homens e os pensamentos de fraternidade · 22:45 Beduínos, Rahat e educação · 29:07 Proibir rostos cobertos no espaço público · 31:10 Mudanças na sociedade haredi e o medo de ameaças · 40:07 Yossi Meir ao vivo de Miami · 43:48 Rivka, a virgem, e a ideia de bitul · 47:02 Sentir-se em casa e a morada para o Santo, Bendito Seja
+FONTES CITADAS: 17:34 Kabdehu vechashdehu · 18:03 Bereshit 32:7 · 18:14 Bereshit 33:4 · 18:22 Midrash sobre Esav e Yaakov · 25:50 Mishlei 10:2 · 43:10 Ensinamento do Rebe de Lubavitch · 43:56 Bereshit 24:16 · 48:32 Midrash Tanchuma, Nasso 16
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|40:14|במיאמי, ביץ' עדיין.
+829|40:20|איך שם?
+830|40:21|שואלים עלינו?
+831|40:23|איך שם שואלים...
+832|40:26|האמת, מי שואל עלינו?
+833|40:28|האוכלוסייה המקומית.
+834|40:31|לא, לא נראה שבמעמי ביש זה הכי מעניין ועסוקים כאן בענייניהם
+835|40:38|אפילו היה כאן את הבחירות ובדיוק מה שצד את העיניי שכאן כי אם לא
+836|40:44|הייתה מישהו שלא יודע שיש בחירות גם לא היה יודע שיש בחירות כי אין כל מיני שלטי חוסות
+837|40:49|פיראטיים לא מדביקים שם שום דבר?
+838|40:53|לא, שום דמות לא הודבקה שום דמות לא...
+839|40:58|זאת אומרת, מישהו שהוא בא מבחוץ, אפילו לא יודע מי הולך להיבחר בכלל, עד כדי כך, לא כמו אצלנו
+
+LINHAS A TRADUZIR:
+840|41:03|שלקראת בחירות ככה שומרי הסף דואגים שנראה את
+841|41:09|הפרצוף שלהם, שגם אחרי הבחירות אנחנו לאורך שנים נראה את הפרצוף שלהם על כל מיני
+842|41:14|שלטים פיראטיים.
+843|41:16|אז כאן לא, אין את זה, אין את זה וזה מאוד יפה.
+844|41:22|עוד דבר, כן, עוד דבר שאין את זה, ככה זכיתי להיות השבוע,
+845|41:28|קודם כל אבריץ', כן, אמר שיש הרבה יהודים במיאמי ישראלי, וכן, זכיתי
+846|41:34|לראות השבוע, אתמול הייתי בקניון ונטורה, אבנטורה, קניון גדול כאן,
+847|41:40|שזה מושבה, מסתבר שזו מושבה ישראלית יהודית, אנחנו הרוב,
+848|41:46|וקניון ונטורה, אנחנו הרוב.
+849|41:48|לגמרי.
+850|41:49|למרות שאנחנו המעט מבין העמים, בכן ובטור אנחנו הרוב גם בין בעלי החנויות
+851|41:55|והדוכנים וגם בין באי המבקרים לקניות של בגסים
+852|42:01|וכל מיני דברים ואוכל.
+853|42:04|אז כן, אנחנו כזה...
+854|42:07|קראתי שירדו, והם היו מגשמים שלא ירדו 100 שנה, אתה חווית את זה?
+855|42:13|כי אתה נוסע בעולם רק עם מכנסיים קצרים וחולצה וכפכפים.
+856|42:18|כן, אז יש לי כפכפים לכפכפי עור, ויש לי כפכפים למזג אוויר כזה,
+857|42:23|שבאמת באותו יום רציתי ללכת לכפכפי עור, אבל כמובן החלפתי
+858|42:30|לכפכפים שיכולים ללכת בתוך שלוליות, וזה מה שהיה.
+859|42:35|אז גם במיאמי ביט שהיו, כן, הצפות כאלה ש...
+860|42:39|אז כן, אבל המשכנו, אפרופו אברי, ועם העניין הבריאותי להמשיך תנועה, אז גם במזג
+861|42:45|האוויר הזה הייתי בתנועה.
+862|42:47|משהו באנקדוטה, אם לחזור משהו לעניין בריאותי של רבי, שזה יחד לכל אחד, הרי מאז חצי סאדאת,
+863|42:53|אין רבי לא טוב וטוב ולא רע, ואור וצד משמשים ביבוב, והאחד יש לו שלמות בריאותית ברוך
+864|42:59|השם, שלמות כלכלית ופער מבחינה משפחתית, אחד יכול להיות לו שלמות משפחתית, שלמות
+865|43:04|בריאותית, שלמות כלכלית, אבל היום לא יהיה פער מבחינה בריאותית, והרבי
+866|43:10|מלובביץ' אומר, לא לערבב את שמחת הנפש עם עצבון הגוף, זה הוראה לכל אחד
+867|43:16|בעצם.
+868|43:17|כל אחד יש לו את העיצבון גוף שלו, הכלכלי או הבריאותי, המשפחתי, והטבע הזה להתערבב עם
+869|43:22|העיצבון, ואז הולכים לפיצויים ולהפרות, להשלמות חום.
+870|43:26|ועוד עניין, יש להקדים שמחה להטבת המוצר.
+871|43:29|בכל אופן, כשהייתי עוד בווגאס, לא אשכח את המשפט המעומקת דליבה של הנהג
+872|43:35|מונית שלקח אותי עם השדה למלון, והוא אמר לי, כשאני התחלתי לדבר איתו, אה, אתה ורג'ן
+873|43:41|וגאס.
+874|43:42|וזה תפס אותי, הוורג'ן וגאס.
+875|43:44|הרב, איך זה קשור ורג'ן לפרשה חיי צרה?
+876|43:48|בתולה ואיש לא ידע.
+877|43:50|או, בדיוק, והנה זה קשור לפרשת חיי צרה, בתולה על
+878|43:56|רבקה.
+879|43:57|ומה שעלה בהבנה, שקודם כל ודאי שרבקה הייתה בתולה,

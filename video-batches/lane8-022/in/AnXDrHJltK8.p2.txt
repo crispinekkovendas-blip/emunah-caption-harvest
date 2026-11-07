@@ -1,0 +1,64 @@
+videoId: AnXDrHJltK8
+parte 3 de 7 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Guer tzedek, Israel e a súplica do justo (Zohar 14b)
+RESUMO: Rabi Elazar pergunta por que o convertido (guer tzedek), que entra sob as asas da Shechiná pela circuncisão, se prende apenas ao Malchut, enquanto Israel se prende "de dia e de noite", isto é, também a Zeir Anpin. Rabi Shimon responde com a diferença de raiz e semente, citando "Ve'anochi netaticha sorek" (Yirmiyahu) e "asher besar chamorim besaram" (Yechezkel). Israel vem de raízes de verdade, se santifica e se purificou da impureza no Sinai. Nas nações, essa impureza leva até três gerações para ser removida. Rabi Hamnuna Sava acrescenta que o convertido sai das sefirot de impureza e sobe à sefirá santa do Malchut, e cita "Ve'atem hadevekim baAdonai Elokeichem". Em seguida, Rabi Yossi ensina que, quando há justos no mundo, há paz, e explica por que o verso "yaaseh shalom li" põe "yaaseh" (o Malchut e a remoção do Nachash) antes de "shalom" (Zeir Anpin). Por fim, o Zohar mostra que, quando o mundo peca, o Santo, Bendito Seja, propõe ao justo destruir os pecadores e fazer dele uma grande nação. O justo recusa e intercede, como Moshé no pecado do bezerro (Shemot 32), até ouvir "Salachti kidvarecha".
+MOMENTOS: 00:04 Pergunta de Rabi Elazar sobre o guer tzedek e o Malchut · 01:34 Rabi Shimon: raiz e semente de verdade versus impureza · 02:52 Os versículos de Yirmiyahu e Yechezkel sobre Israel e as nações · 03:27 Israel se santifica e perde a impureza no Sinai · 05:45 As nações levam três gerações; "tov shebagoyim harog" · 06:34 Rabi Hamnuna Sava: o convertido sobe ao Malchut · 09:26 Rabi Yossi e o verso "ki mei Noach zot li" · 11:30 Os justos trazem paz; "yaaseh shalom li" · 14:42 Por que "yaaseh" vem antes de "shalom" · 16:27 Com o justo no mundo, os julgamentos não dominam · 17:30 O Santo, Bendito Seja, propõe ao justo destruir o mundo · 20:03 O pecado do bezerro: "vayomer" duas vezes · 23:18 Moshé intercede e se entrega à morte pelo povo
+FONTES CITADAS: 00:04 Zohar, Vayikra 14b · 00:57 Yirmiyahu 33:25 · 01:49 Yirmiyahu 2:21 · 01:54 Yechezkel 23:20 · 03:27 Shabat 146a · 03:51 Talmud Yerushalmi, Kidushin 4:11 · 06:34 Zohar, Vayikra 14b, Rabi Hamnuna Sava · 07:09 Devarim 4:4 · 09:26 Vayikra 5:23 · 09:32 Yeshayahu 54:9 · 10:03 Bereshit 7:10 · 10:03 Bereshit 9:11 · 11:56 Yeshayahu 27:5 · 12:57 Zohar, Vayikra 14b, Rabi Yossi · 14:42 Yeshayahu 27:5 · 16:27 Zohar, Vayikra 14b · 17:30 Zohar, Vayikra 14b, Rabi Yossi · 20:34 Shemot 32:7-10 · 23:18 Midrash Shemot Rabá 43 · 23:36 Shemot 32:11 · 24:13 Zohar, Vayikra 14b · 25:07 Shemot 32:32 · 25:36 Shemot 32:14 · 25:36 Bamidbar 14:20
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|06:11|מגיע ממנה היא זאת שגוברת אז בזמן מלחמה אין
+69|06:16|מניעה להרוג אותו, הוא ביטוי של רוע, ואילו
+70|06:22|כאשר הוא מתגייר, הוא נקרא גר צדק, הוא יוצא מהמציאות הקשה
+71|06:29|שהוא היה בה, ומגיע לשכינה, לצדק, למלכות.
+72|06:34|דאמר רבי מנון הסבא, אומות העולם עד לייט גזרו, שריאן בחיתרין
+73|06:40|תתאין בלה קדישין, ורוח מסבה שריה עליהו.
+74|06:44|כיוון דהתגיירו ויתגזרו שריאן דה קריטרא קדישא דה שכימתא דה שריה על
+75|06:50|שאר קטרין תתאין ורוח קדישא שריה עליו אבל ישראל קדישין
+76|06:56|בני קדישין דה גזעין ושורשין ויתבשמו בתורה דה סיני
+77|07:03|ואלו בממנותא שלמתא קדישתא ושעתה דהתגזר שריה בחולה בכתיב
+78|07:09|אתם הדבקים באדוני אלוהיכם חיים כולכם היום אז רבי נון
+79|07:14|הסבא נראה שמשהו מחדש על פני הדברים שראינו קודם שהוא
+
+LINHAS A TRADUZIR:
+80|07:21|כן נותן את המקום ומדבר במעלתו של הגוי
+81|07:27|שמתגייר ונימול ומל את עצמו כי אומות
+82|07:33|העולם לפני שהם מלו את עצמם אז הם שרויים
+83|07:38|בכתרים התחתונים שאינם קדישים בכתרים בספירות של הסיטרא אחרא
+84|07:44|כלומר הם נמצאים בטומאה ורוח הטומאה שורה עליהם וכאשר הם
+85|07:50|מתגיירים ונימולים אז הם עכשיו עולים למדרגה של קיטרא
+86|07:56|קדישא הם עכשיו עולים אל הספירה הקדושה של השכינה של המלכות ומלכותו
+87|08:02|בכל מה שעלה כי היא זאת ששורה ומולכת על הכל על כל
+88|08:07|הספירות הטמאות שמתחת על כל העולמות שמתחת
+89|08:13|לשכינה ורוח הקודש שורה עליהם כלומר זו מעלה גבוהה מאוד
+90|08:19|מאוד של אותם גרי צדק אבל ישראל הזה לעילא לעילא
+91|08:25|ישראל קדישין והם בני קדישין בגזעין ושורשים גם מהגזע
+92|08:31|גם מהשורש יש פה עמוק עמוק שורשים של קדושה
+93|08:37|והם בעצמם התבשמו בהר סיני ונכנסו באמונה השלמה
+94|08:44|כלומר גם מי שלא היה בגופו במעמד הר סיני אבל נוהג לפי התורה
+95|08:50|שקיבלנו משם נכנסנו לאמונה השלמה אז כאשר
+96|08:56|נימול אז הוא עכשיו שורה בכל גם
+97|09:02|כך כתוב ואתם מדבקים באדוני אלוהיכם יש פה
+98|09:08|שני שמות אלוקים אלוהים שם הוויה שזה זרן
+99|09:14|פין ולוקחכם שזה המלכות יומם ולילה שתי הבחינות הללו
+100|09:20|ועל ידי זה חיים כולכם היום עכשיו עובר הזוהר
+101|09:26|והיה כי החטא והשם והשיב את הגזלה רבי יוסי אמר
+102|09:32|כי מי נוח זאת לי אשר נשבעתי מעבור מי נוח אז
+103|09:39|לפסוק והיה כי החלטה והשם ישיב את הגזלה נגיע יותר בעמודים
+104|09:45|הבאים בהמשך כרגע רבי יוסי דורש את הפסוק בישעיהו
+105|09:51|והוא מתעורר לביטוי המיוחד הזה כמי נוח
+106|09:57|היקרא קשיא כתיב ומי המבול היו על הארץ וכתיב ולא
+107|10:03|יכרת כל בשרות ממי המבול מהמבול כתיב ולא מנוח מה זה הביטוי
+108|10:09|המיוחד הזה מי נוח מהמבול למה מהמנוח קשור לשמים
+109|10:14|יקראו על שמו ואח הכתיב כי מי נוח זאת
+110|10:20|לי זאת לי הם לי מבעילי מים הם לשון רבים
+111|10:27|אז מה זה זאת לי וגם לשון נקבה מה העניין פה אלא
+112|10:33|אחיתנה כד זכאין שגיאו בעלמא קוד שבריחו חד
+113|10:38|ומשתבח בהו דתנינן כד שרי זכה בעלמא והשתכח בי
+114|10:45|כביכול הטיל שלמה בעלמא וכל עלמא מתברך בגיני והטיל שלמה
+115|10:51|בפמליה של מעלה הפסקה הזאת היא בנויה בצורה כזאת
+116|10:56|שכמו שאמרנו מצטטים את הפסוק ויקי חטא והשם וצריך הרבה הרבה
+117|11:02|סבלנות עד שיחזרו ויעסקו בפסוק הזה אחרי זה רבי יוסי שואל פה את
+118|11:08|השאלה מי נוח למה נוח למה מי בלשון רבים
+119|11:13|למה זאת לי בלשון יחיד הרי זה מי נוח זה רבים
