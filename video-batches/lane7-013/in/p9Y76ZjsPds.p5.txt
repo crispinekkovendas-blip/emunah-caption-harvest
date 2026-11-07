@@ -1,0 +1,83 @@
+videoId: p9Y76ZjsPds
+parte 6 de 6 · traduzir as linhas 600 a 658 (59 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Or Chozer: a conversão do prazer em doação
+RESUMO: A aula percorre as perguntas 100 a 106 do Talmud Eser HaSefirot. O rabino mostra que o masach nasce da escolha de Malchut de não receber para si, escolha que depois virou lei, e que a força do masach, construída sobre a yirat HaShem, é proporcional à espessura da bechiná dalet. Explica os dois movimentos das dez sefirot, or yashar de cima para baixo e or chozer de baixo para cima, e por que o or chozer é considerado um kli de recepção: o prazer rejeitado não desaparece, é convertido de prazer de receber em prazer de doar. Cita o mashal do convidado e do anfitrião da introdução, usa o exemplo do chá e Mishlei 3:6, e distingue o or chozer que rejeita do or chozer que reveste. Trata ainda das kelipot e da diferença entre o prazer natural e o prazer ligado ao Criador. Conclui que o tamanho do or chozer equivale à luz que viria a Malchut, que Malchut é o Keter do or chozer e que o que se converte é aquilo de que se desfruta, não o desejo de desfrutar, tudo a partir de reshit chochma yirat HaShem.
+MOMENTOS: 01:48 Pergunta 100: o masach nasce da força do tzimtzum · 02:58 Pergunta 101: o masach depende da espessura da bechiná dalet · 06:04 Pergunta 102: os kelim de recepção do or hakav · 11:03 Pergunta 103: or yashar e or chozer, dois movimentos · 14:04 Pergunta 104: por que o or chozer é kli de recepção · 17:08 Mashal do convidado e do anfitrião · 22:24 Exemplo do chá: prazer natural e prazer de doação · 28:07 Or chozer que rejeita e or chozer que reveste · 34:27 Kelipot e a luz direta · 40:05 Pergunta 105: a medida do or chozer · 41:27 Pergunta 106: Malchut como Keter do or chozer · 57:19 O que exatamente é convertido
+FONTES CITADAS: 01:56 Talmud Eser HaSefirot, pergunta 100 · 02:58 Talmud Eser HaSefirot, pergunta 101 · 04:47 Tehilim 111:10 · 06:13 Talmud Eser HaSefirot, pergunta 102 · 11:03 Talmud Eser HaSefirot, pergunta 103 · 14:28 Talmud Eser HaSefirot, pergunta 104 · 17:08 Baal HaSulam, Petichah, mashal do convidado e do anfitrião · 19:49 Talmud Eser HaSefirot, pergunta 105 · 23:32 Mishlei 3:6 · 36:03 Vayikra 16:16 · 36:21 Pesachim 50b · 37:00 História do tzadik e do ladrão de grãos de trigo · 40:05 Talmud Eser HaSefirot, pergunta 105 · 41:27 Talmud Eser HaSefirot, pergunta 106 · 48:07 Baal HaSulam, Histaklut Pnimit, parte 4 · 54:00 Tanya, nefesh behamit e neshamá elokit · 1:00:11 Tehilim 111:10 · 1:01:03 Tehilim 111:10 · 1:01:44 Maamarim do Rebe zt"l
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|57:11|לקבל, על מנת להשפיע?
+589|57:16|מה זה כוונה?
+590|57:17|כוונה זה רצון.
+591|57:19|מה אני רוצה?
+592|57:26|אני רוצה ליהנות, זה הכול.
+593|57:29|פשוט מאוד, אני רוצה ליהנות.
+594|57:33|אז האפשרות הטבעית ליהנות זה מקבלה.
+595|57:39|אבל האפשרות הזאת הוצאה מחוץ לחוק.
+596|57:43|אז לכן המלכות פוסלת את זה.
+597|57:47|אז מה יהיה?
+598|57:47|אני רוצה ליהנות.
+599|57:49|אז מה יהיה עכשיו?
+
+LINHAS A TRADUZIR:
+600|57:50|אז יש פה עכשיו הצעה חדשה.
+601|57:55|ליהנות.
+602|57:57|מהתבטלות לעליון.
+603|58:02|תהנה, לא אומרים לך לא תהנה, תהנה.
+604|58:06|אבל תהנה מהתבטלות לעליון.
+605|58:12|ואז אתה מרוויח כפול.
+606|58:15|אתה גם שותה את התה, אבל ההנאה
+607|58:21|הגדולה היא שאתה משרת את הבורא.
+608|58:27|‫אז יש לך פה הנאה כפולה.
+609|58:29|‫אז מה ההמרה?
+610|58:34|‫ההמרה היא הרצון.
+611|58:39|‫אני רוצה להנות.
+612|58:40|‫זה הדבר הבסיסי.
+613|58:43|‫בזה אין המרה.
+614|58:44|‫אני רוצה להנות.
+615|58:46|‫את זה אי אפשר להזיז.
+616|58:48|‫אני רוצה להנות ואני חייב להנות.
+617|58:51|‫את זה אי אפשר להזיז.
+618|58:54|‫שאלה, ממה?
+619|58:57|‫אז ההמרה היא ממה אני נהנה.
+620|59:02|‫זו ההמרה.
+621|59:03|‫איך
+622|59:09|הנברא מגיע ליכולת ‫לעשות את
+623|59:13|החשבונות האלה?
+624|59:17|‫קודם כול, המלכות אינסוף ‫שהייתה מלאה באור, ‫הפסיקה לקבל.
+625|59:21|‫עשתה צמצום, זה דבר ראשון.
+626|59:27|ועכשיו פה שלומדים על הקו, אז היא
+627|59:33|פשוט, היא מייצרת את המצב.
+628|59:37|היא ממשיכה את האור ודוחה אותו.
+629|59:42|התחייה הזאת זה לא דבר קל.
+630|59:47|זה לא דבר קל.
+631|59:50|זה דבר קשה ביותר.
+632|59:55|זאת אומרת, אדם בא במגע עם התענוג
+633|1:00:01|שהוא היה רגיל לקבל והוא מסכים
+634|1:00:07|לוותר עליו.
+635|1:00:11|אז זה מניע את כל התהליך, זה מתחיל ראשית חוכמה יראת השם.
+636|1:00:17|ראשית החוכמה האלוקית זה יראה, כלומר
+637|1:00:22|האפשרות לדחות, לוותר על זה.
+638|1:00:29|ואם אתה יכול לוותר על זה, אז מפה כל השאר מתפשט,
+639|1:00:36|מתפתח.
+640|1:00:39|אותו האור שאתה מוותר עליו, הוא לא נעלם.
+641|1:00:45|הוא הופך בתוך התודעה שלך לתענוג של אהבה, של נתינה.
+642|1:00:54|ואז נוצר פה רצון חדש, רצון להשפיע.
+643|1:01:00|אז איך כל זה מתבצע?
+644|1:01:03|קודם כל, ראשית חוכמה, יראת השם.
+645|1:01:07|כלומר, לדחות את המגמה האגואיסטית
+646|1:01:11|שלי.
+647|1:01:20|אני לא רוצה לקיים את המצווה, לא משנה למה, אני לא רוצה.
+648|1:01:26|אז אני דוחה את זה.
+649|1:01:28|אני דוחה...
+650|1:01:30|את זה שאני לא רוצה.
+651|1:01:35|אני עושה מסך על זה שאני לא
+652|1:01:37|רוצה.
+653|1:01:44|ובמאמרים, אז הרבי זצ"ל נכנס יותר
+654|1:01:50|לאיך עושים את זה.
+655|1:01:56|מה?
+656|1:01:59|לא הבנתי.
+657|1:02:02|עם אלעד, כן.
+658|1:02:10|טוב, ניגש לתפילה.
