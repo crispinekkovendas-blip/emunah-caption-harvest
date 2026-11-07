@@ -1,0 +1,50 @@
+videoId: R8kjpdQP1Kc
+parte 4 de 4 · traduzir as linhas 360 a 385 (26 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Rechovot HaNahar, Siman 4: os birurim e seu tikun
+RESUMO: O rabino continua a Hakdamá de Rechovot HaNahar, no Siman 4, em que o Rashash divide a introdução por simanim. Primeiro revê a ordem dos birurim e da ha'ala'a: Israel depura os birurim de Zon, Zon os eleva a Abba e Imma, estes a Arich Anpin, e assim por diante, sempre com a distinção entre depurar e elevar. O Rashash acrescenta que o birur só se conclui na chochmá, o "pensamento", do partzuf superior. O rabino explica que essa chochmá geral se chama Nekudot e se liga às orot do ozen, o ouvido, do Shem Sag, que inclui todos os milui. Disso ele tira a lei de Bava Kama de que quem deixa o outro surdo paga o valor total, a escolha dos tefilin de Rashi (ligados a Imma) e o costume do brit milá. Em seguida lê as palavras do Rashash: "no pensamento tudo se depura", a ordem em que cada partzuf conclui o birur do inferior, e a regra de que nenhum birur sobe ao partzuf que está acima daquele para o qual ele subiu. Por fim, cita Rabi Shaul sobre os birurim que sobem a Af Sak DAK e apresenta a dificuldade levantada pelo Rashash no Shaar 2, sem ainda chegar à resposta dele.
+MOMENTOS: 00:28 Início do Siman 4 e leitura do Rashash · 01:56 Ordem dos birurim e da ha'ala'a entre os partzufim · 03:51 Diferença entre birur (depurar) e ha'ala'a (elevar) · 04:58 Birur em orot e kelim · 06:27 Acréscimo do Rashash: o birur continua ao subir · 07:23 O birur termina na chochmá do partzuf superior · 10:02 Chochmá geral chamada Nekudot e o Shem Sag · 12:18 As orot do ozen e a lei "chereshó notén lo dmei kulo" · 15:41 Brit milá e tefilin de Rashi e Rabenu Tam · 18:24 "No pensamento tudo se depura": a quarta etapa de cada partzuf · 20:40 A objeção sobre Af Sak DAK e a ordem de cada partzuf · 23:20 Só se sobe ao partzuf imediatamente acima; Rabi Shaul · 26:28 A dificuldade do Rashash no Shaar 2 e as dez nekudot
+FONTES CITADAS: 00:53 Rechovot HaNahar, Hakdamá, Siman 4 · 01:36 Rechovot HaNahar, Hakdamá, Siman 4 · 04:17 Rabi Shaul sobre os birurim · 09:00 Rechovot HaNahar, Hakdamá, Siman 4 · 12:18 Bava Kama · 14:39 Nedarim 64b · 15:11 Etz Chaim, Shaar HaAkudim · 15:41 Brit Milá, Veyikare shemo beYisrael · 16:37 Tefilin de Rashi e tefilin de Rabenu Tam · 16:52 Gaon de Vilna · 17:14 Rabenu HaAri · 17:29 Rannash · 20:25 Rechovot HaNahar, Hakdamá, Siman 4 · 21:40 Rechovot HaNahar, Hakdamá, Siman 4 · 22:51 Mavo She'arim, Shaar 1, parte 1, cap. 2 · 22:57 Mavo She'arim, Shaar 2, parte 3, cap. 8 · 23:56 Rabi Shaul, birurim, cap. 1, ot 7 · 26:28 Mavo She'arim, Shaar 2, parte 3, cap. 1 · 28:04 Sefer HaKavanot, Drush HaMapil
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|26:07|העליון שעל גבי פרצוף שעליו, כגון מנפש לנשמה ומרוח לחיה, רואים איזה יופי הוא מסביר?
+349|26:13|ממש.
+350|26:15|שיהיה ברור וכיוצא, רק על ידי הפרצוף שעליו.
+351|26:19|והוא על סדר הנזקרלין.
+352|26:20|עד כאן הרשש מניח לנו יסודות ברזל.
+353|26:24|ועכשיו אמרן הרשש ושדי בן ארגה.
+354|26:28|אמנם, עכשיו הקושייה, צריך להבין אם זה מה שנתבער בשער
+355|26:34|ב', חלק ג', פרק א', כי כל הבירורים וכל היוד נקודות
+356|26:42|צריכים לעלות ולהתבער ולהיתקן.
+357|26:44|על ידי שורשם העליון מהם, שהם הטעמים דאב וסג דפנים יודק.
+358|26:50|דהיינו שכל הביאורים, שכל היוד נקודות צריכים להיתקן על ידי אב דאב ועב דסג.
+359|26:56|אשר מזיווגם יצאו כל העשר נקודות.
+
+LINHAS A TRADUZIR:
+360|27:01|מזיווגם יצאו, ולא יצאו זה מזה.
+361|27:04|על איזה עשר נקודות הוא מדבר?
+362|27:06|בעובי.
+363|27:09|ולא יצאו זה מזה.
+364|27:10|ומה שנדבר במקום אחר כי מזיווג דערי חנפין יצאו אבא ואמה ומזיווג דעבה ואמה יצאו השבעה מלכים
+365|27:16|ובפרט האחרון שאפשר לפרט כאן הודעה וכאן נזכר לי
+366|27:22|לכל העשר נקודות יצאו חסרים ובלתי מתוקנים ולפיכך צריך להעלות כל
+367|27:28|הבירורים דכל העשר נקודות למי נוקבין ושורשם העליון דאה וסג הנזכר דאק
+368|27:34|כדי שיזדווגו אבי סג הנזכר להוציא את התס דבן החסרים לאותם הבירורים וגם להוציא על ידי הזיווג
+369|27:39|הנזכר את היס דמה החדש המתייחסים לאותם הבירורים וכל זאת אי אפשר אם לא על ידי
+370|27:45|זיווג הטעמים דאה וסג דפנימיות דאק כנודע ונודע כי
+371|27:51|כפי הסדר שנברח ונתקן ונעשה בששת ימי בראשית
+372|27:58|וגם מה שנתקן ביום השישי למעשה בראשית על ידי אדם ראשון כדוגמתו ממש
+373|28:04|נתקן ונעשה בכל יום כאן נודע וכי נזכר בכמה מקומות ובספר הכוונות
+374|28:10|בדרוש המפיל כמו שנדבר לכמן בעזרת השם באריכות באופן שכל הבירואים צריכים לעלות למין נוגבין
+375|28:15|לשורשם העליון דאק כאן נזכר לעיל ולכן זו בעצם הקושייה אז האם הם עולים מדרגה אחת
+376|28:21|שמעליהם, או שעולים להפסק דיאק וכולי.
+377|28:24|היה מקום לתרץ את זה.
+378|28:26|שאני מדבר על עשר נקודות בעובי, נכון?
+379|28:30|והבירורים של התיק, של כל נקודה ונקודה בעובי, רק הבירורים של התיק הם אלה שעולים למעלה.
+380|28:35|ובא לציון גואל, ומה שיצאו זה מזה, שזה בפרצות האחרון, זה עולה באמת כל אחד, מדרגה אחת שמעלה.
+381|28:42|אבל אנחנו נראה שלמרן הראשון יש תירוץ אחר.
+382|28:46|יש תירוץ אחר, שזה מיישב בעצם...
+383|28:49|עוד הרבה דברים נפלאים, אז אם ירצה השם ועל המלך טוב, נלמד ונמשיך מדיבור
+384|28:55|המתחיל אמנם, שיעור הבא.
+385|28:57|ברוך אדוני לעולם, אמן ואמן.
