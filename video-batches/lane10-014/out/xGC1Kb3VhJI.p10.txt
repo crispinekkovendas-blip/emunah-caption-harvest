@@ -1,0 +1,40 @@
+400	Tzion son of Yosef son of Chanina, Shaul son of Fibi, Roaz Baruch son of	Tsion filho de Yosef filho de Chanina, Shaul filho de Fibi, Roaz Baruch filho de
+401	Chaya, Chalil son of Chava,	Chaya, Chalil filho de Chava,
+402	Yafa daughter of Simcha, Carolyn daughter of Susan	Yafa filha de Simcha, Carolyn filha de Susan
+403	Yisrael son of Geula and Yosef son of Mori Meir and Yosef	Yisrael filho de Geula e Yosef filho de Mori Meir e Yosef
+404	son of	filho de
+405	Mori Meir, Yisrael son of Chava, Aharon son of Rivka	Mori Meir, Yisrael filho de Chava, Aharon filho de Rivka
+406	son of Tzion son of Sarah	filho de Tsion filho de Sarah
+407	Dani?	Dani?
+408	son of Arima.	filho de Arima.
+409	Avidiya son of Hasson.	Avidia filho de Hasson.
+410	Avraham son of Moshe.	Avraham filho de Moshe.
+411	Avraham son of Moshe.	Avraham filho de Moshe.
+412	Perachya Batzlima.	Perachia Batzlima.
+413	Derech daughter of Batya.	Derech filha de Batya.
+414	Mishnah 2, Ohalot chapter 12, Mishnah 2.	Mishná 2, Ohalot capítulo 12, Mishná 2.
+415	Thank you very much.	Muito obrigado.
+416	Who is throwing little candies?	Quem está jogando docinhos?
+417	Tell me what to do, you bring it as is, like a person.	Diga-me o que fazer, você traz como está, como uma pessoa.
+418	Doesn't it have kashrut?	Isso não tem kashrut?
+419	No.	Não.
+420	This has kashrut too.	Este também tem kashrut.
+421	Whose is this?	De quem é isto?
+422	Is this kosher?	Isto é kasher?
+423	Huh?	Hã?
+424	Only this one, put this.	Só este, coloque este.
+425	Take, take a sample.	Pegue, pegue uma amostra.
+426	Show him one like this, tell him to bring one like this.	Mostre a ele um assim, diga para trazer um assim.
+427	Take, give her this, give her.	Pegue, dê isto a ela, dê.
+428	Thank you very much.	Muito obrigado.
+429	No, listen, wait, we took one package.	Não, escute, espere, pegamos um pacote.
+430	It had a hechsher.	Tinha um hechsher.
+431	Here, Mishnayot.	Aqui, Mishnayot.
+432	This one, this one brought it.	Este, este foi quem trouxe.
+433	A sarida that is placed over the mouth of the oven, sealed with a tight cover — a sarida is a lattice	Uma sarida colocada sobre a boca do forno, vedada com uma tampa firme — sarida é uma grade
+434	of clay, like a net, does not receive impurity. If it is placed over the mouth of an oven of	de barro, como uma rede, que não recebe impureza. Se é colocada sobre a boca de um forno de
+435	clay and seals it, tightly sealed, and impurity	barro e o veda, bem vedado, e há impureza
+436	is beneath it or on top of it, and some read: impurity beneath it or its top,	debaixo dela ou sobre ela, e alguns leem: impureza debaixo dela ou em cima,
+437	everything is impure, even what is under the extension, opposite the air of the oven,	tudo é impuro, inclusive o que está sob o excedente, defronte ao ar do forno,
+438	but what is opposite the sarida, the air of the oven, is pure.	mas o que está defronte à sarida, o ar do forno, é puro.
+439	Why?	Por quê?
