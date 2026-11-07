@@ -1,0 +1,120 @@
+0	Did I find it?	Encontrei?
+1	No.	Não.
+2	No, I didn't find it.	Não, não encontrei.
+3	That doesn't mean it's not there, there are a lot of young ones there.	Isso não quer dizer que não esteja lá, tem muitos jovens lá.
+4	What?	O quê?
+5	That doesn't mean it's not there, I just didn't find it.	Isso não quer dizer que não esteja lá, eu só não encontrei.
+6	Should I look?	Eu procuro?
+7	I'll look.	Eu procuro.
+8	No, I think there are lots of things there.	Não, acho que tem muitas coisas lá.
+9	But there were two chargers there just now.	Mas tinha dois carregadores lá agora há pouco.
+10	No, but that's a different charger.	Não, mas esse é outro carregador.
+11	That's Tal's, that's Tal's.	Esse é do Tal, esse é do Tal.
+12	There were two chargers.	Tinha dois carregadores.
+13	I'm asking if that's the...	Estou perguntando se é o...
+14	There was another charger that...	Tinha outro carregador que...
+15	You can charge with this.	Dá para carregar com isso.
+16	Just to try?	Só para tentar?
+17	Okay, but...	Tudo bem, mas...
+18	I think it's possible.	Acho que dá.
+19	Okay, but...	Tudo bem, mas...
+20	That it's not...	Que não...
+21	Stopped...	Parou...
+22	Not curious.	Sem curiosidade.
+23	Whatever, he has his own company, I think.	Tanto faz, ele tem o grupo dele, eu acho.
+24	No, but it's the same thing.	Não, mas é a mesma coisa.
+25	No, no,	Não, não,
+26	it's not always the same thing.	nem sempre é a mesma coisa.
+27	Okay.	Certo.
+28	Okay.	Certo.
+29	A period is not	Um ponto não é
+30	a question, it's not a question	uma pergunta, não é uma pergunta
+31	Did you have it there yesterday, in the last class?	Vocês tinham isso lá ontem, na última aula?
+32	In Tel Aviv.	Em Tel Aviv.
+33	The charger from yesterday.	O carregador de ontem.
+34	Yes.	Sim.
+35	Apparently it stayed there.	Pelo visto ficou lá.
+36	Yes, but there's a charger that's fixed here.	Sim, mas tem um carregador fixo aqui.
+37	There's a charger here and there's one at the…	Tem um carregador aqui e tem um no…
+38	This one, from where can't I see it?	Esse, de onde é que eu não consigo ver?
+39	This round one?	Esse redondo?
+40	There are two like that.	Tem dois assim.
+41	No, it was always fixed.	Não, sempre foi fixo.
+42	Yes.	Sim.
+43	And there was another one they bought, round or not round?	E tinha outro que compraram, redondo ou não redondo?
+44	Round, we're talking about the round one.	Redondo, estamos falando do redondo.
+45	There are three chargers.	Tem três carregadores.
+46	There too they bought a special fixed one.	Lá também compraram um especial, fixo.
+47	Yes.	Sim.
+48	And they even put it with zip ties, so nobody takes it out.	E até colocaram com abraçadeiras, para ninguém tirar.
+49	No, smart people.	Não, gente esperta.
+50	Yes, so that's what happened yesterday.	Sim, então foi isso que aconteceu ontem.
+51	That's what they bought, and it's attached with zip ties, that's how it was.	Foi o que compraram, e está preso com abraçadeiras, era assim.
+52	And one was in the bag, and one was here.	E um estava na bolsa, e um estava aqui.
+53	Two disappeared.	Dois sumiram.
+54	Ahhh	Ahhh
+55	Where, roughly which passage are we at	Onde, mais ou menos em qual trecho estamos
+56	the weak ones behind the millstones and the lambs of the flock.	os fracos que estão atrás das mós e os cordeiros do rebanho.
+57	And why didn't kings and officers and men of war die, as was	E por que não morreram reis, príncipes e homens de guerra, como foi
+58	written about Sennacherib, where it is written, "And an angel of HaShem went out	escrito sobre Sanherib, onde está escrito: "E saiu o anjo de HaShem
+59	and struck the camp of Assyria," and so on.	e feriu o acampamento da Assíria", e assim por diante.
+60	And we learned that they were all kings, and moreover...	E aprendemos que todos eram reis, e além disso...
+61	sons of kings, officers and captains.	filhos de reis, príncipes e capitães.
+62	And also that they were walking...	E também que eles estavam caminhando...
+63	No.	Não.
+64	Yes, it's filling up.	Sim, está carregando.
+65	That's Michael's, it's filling up.	Esse é do Michael, está carregando.
+66	What?	O quê?
+67	According to the mark here, it's	Pelo sinal aqui, está
+68	filling up.	carregando.
+69	And also that they were walking as the sun was about to set.	E também que eles caminhavam quando o sol estava prestes a se pôr.
+70	Rabbi Chiya said to Rabbi Yossi, why are you silent?	Rabi Chiya disse a Rabi Yossi: por que você está calado?
+71	Good morning.	Bom dia.
+72	Morning	Bom
+73	good.	dia.
+74	Rabbi Yossi said:	Rabi Yossi disse:
+75	It occurred to me that the world endures	Veio-me à mente que o mundo só se sustenta
+76	only through the leaders of the people.	por meio dos líderes do povo.
+77	If the leaders of the people are righteous, it is good for the world, good for the people,	Se os líderes do povo são justos, é bom para o mundo, é bom para o povo,
+78	and if they are not righteous, woe to the world, woe to the people.	e se não são justos, ai do mundo, ai do povo.
+79	Rabbi Chiya said: Certainly so,	Rabi Chiya disse: certamente é assim,
+80	from where? As it is written: "I saw all Israel scattered upon the mountains	de onde? Como está escrito: "Vi todo Israel disperso pelos montes
+81	like sheep that have no shepherd."	como ovelhas que não têm pastor."
+82	"And HaShem said: These have no masters,	"E HaShem disse: estes não têm senhores,
+83	let each man return to his house in peace." "Yashuvu" (return)...	que cada um volte para sua casa em paz." "Yashuvu" (voltem)...
+84	it should have said "yeshvu" (sit).	deveria ter dito "yeshvu" (sentem-se).
+85	"To his house" — it should have said "in his house," for they were standing in their place.	"Para sua casa" — deveria ter dito "em sua casa", pois estavam em seu lugar.
+86	Rabbi Chiya said: Certainly so. What is the proof? For it is written: "I saw all Israel scattered	Rabi Chiya disse: certamente é assim. Qual é a prova? Pois está escrito: "Vi todo Israel disperso
+87	and so on.	e assim por diante."
+88	"These have no masters."	"Estes não têm senhores."
+89	"Let each man return to his house in peace."	"Que cada um volte para sua casa em paz."
+90	He asks: it is written "yashuvu" (return).	Ele pergunta: está escrito "yashuvu" (voltem).
+91	Shouldn't it have said "yeshvu" (sit)?	Não deveria ter dito "yeshvu" (sentem-se)?
+92	And likewise "to his house" — it should have said "in his house," since the people were in their places,	E também "para sua casa" — deveria ter dito "em sua casa", pois o povo estava em seus lugares,
+93	so where did they have to return to?	então para onde teriam de voltar?
+94	Rather, my brothers, we learned: if the head of the nation is not meritorious,	Mas, irmãos, aprendemos: se o líder da nação não tem mérito,
+95	the nation is seized on this matter, as it is written: "And David said,"	a nação é apanhada nesse assunto, como está escrito: "E disse Davi,"
+96	and so on, "Behold, I have sinned, and I	e assim por diante: "Eis que eu pequei, e eu
+97	have done wrong, but these sheep, what have they done?"	agi mal, mas estas ovelhas, o que fizeram?"
+98	David sinned and Israel suffered. And when the head of the nation	Davi pecou e Israel sofreu. E quando o líder da nação
+99	is seized in the matter, the nation is saved, for the judgment does not	é apanhado no assunto, a nação se salva, pois o julgamento não
+100	rest upon it, as it is written: "And HaShem said, these have no masters," that is, if	repousa sobre ela, como está escrito: "E HaShem disse: estes não têm senhores", isto é, se
+101	they have no heads of the nation, what does it say? "Let each man return	não têm líderes da nação, o que diz? "Que cada um volte
+102	to his house in peace" — all are saved.	para sua casa em paz" — todos se salvam.
+103	When their head is seized.	Quando o seu líder é apanhado.
+104	And even Yehoshafat, who allied himself with his brother...	E até Yehoshafat, que se aliou ao seu irmão...
+105	…as in the case of Yehoshafat.	…como no caso de Yehoshafat.
+106	…and from this we learned.	…e daqui aprendemos.
+107	If the head of the people did not merit through his deeds, the people are seized for his sin.	Se o líder do povo não mereceu por seus atos, o povo é apanhado por causa da sua transgressão.
+108	What is the proof?	Qual é a prova?
+109	For it is written: "And David said," and so on, "Behold, I have sinned	Pois está escrito: "E disse Davi" e assim por diante: "Eis que eu pequei
+110	and I have done wrong, but these sheep, what have they done?"	e eu agi mal, mas estas ovelhas, o que fizeram?"
+111	Behold, David sinned and Israel suffered.	Eis que Davi pecou e Israel sofreu.
+112	When the head of the people is seized for his sin, the people are saved,	Quando o líder do povo é apanhado pela sua transgressão, o povo se salva,
+113	for the judgment does not rest upon them,	pois o julgamento não repousa sobre eles,
+114	as it is written, "And HaShem said, these have no masters," that is, if they have no heads of the people, since their leader was killed,	como está escrito: "E HaShem disse: estes não têm senhores", isto é, se não têm líderes do povo, pois o seu líder foi morto,
+115	therefore let them return from this road, each man to his house in peace.	por isso que voltem deste caminho, cada um para sua casa em paz.
+116	Even though the judgment had already ridden upon them on this road.	Ainda que o julgamento já tivesse cavalgado sobre eles neste caminho.
+117	Nevertheless, since their head was killed and seized for his sin, they return	Mesmo assim, como o seu líder foi morto e apanhado pela sua transgressão, eles voltam
+118	in peace.	em paz.
+119	All are saved if their leaders are seized.	Todos se salvam se os seus líderes são apanhados.
