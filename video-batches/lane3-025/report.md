@@ -1,11 +1,11 @@
 # lane3-025
 
-13 of 16 lessons published · 2 skipped · status **pending**
-Tokens (209 agent runs with a record): 1.6M in (mostly cache) · 1.75M out · API-equivalent 22.18
+13 of 16 lessons published · 3 skipped · status **done**
+Tokens (210 agent runs with a record): 1.6M in (mostly cache) · 1.76M out · API-equivalent 22.29
 
 | lesson | state | detail |
 |---|---|---|
-| SeV6VMe8Vlw | waiting | 18/19 parts |
+| SeV6VMe8Vlw | skipped after 3 tries | 1 lines missing |
 | ykjHYeQMdBA | ✓ published | 554 lines · Vayera: circuncisão, três anjos e os três eixos da alma |
 | wlx6l6NDuFE | ✓ published | 709 lines · Introdução ao TES: teshuvá mi-yirá, hester e devekut |
 | cyy0_r_vPsg | ✓ published | 498 lines · Lech Lecha: de Avraham ao Neguev, a vontade de doar |
