@@ -1,7 +1,7 @@
 # lane5-026
 
 7 of 12 lessons published · 0 skipped · status **pending**
-Tokens (103 agent runs with a record): 0.7M in (mostly cache) · 0.69M out · API-equivalent 9.21
+Tokens (123 agent runs with a record): 0.9M in (mostly cache) · 0.82M out · API-equivalent 10.59
 
 | lesson | state | detail |
 |---|---|---|
@@ -12,8 +12,8 @@ Tokens (103 agent runs with a record): 0.7M in (mostly cache) · 0.69M out · AP
 | Gex1ZbQ5YTw | waiting | 24/25 parts |
 | ENgVTYLrMTw | ✓ published | 293 lines · Zohar Vayikrá 17a: Korbanot, 18 letras e unificação |
 | fyiSNNkfal4 | ✓ published | 316 lines · Teshuvá no Zohar: do Keter aos seis extremos e à redenção |
-| tkcRQmqdxz4 | waiting | 12/13 parts |
-| 1-qqG6zKXvw | ✗ will be redone (try 1) | 52 lines missing |
+| tkcRQmqdxz4 | ✗ will be redone (try 1) | 17 lines missing |
+| 1-qqG6zKXvw | ✗ will be redone (try 2) | 5 lines missing |
 | c_U_DvfCya8 | ✓ published | 501 lines · Memória eterna: o óleo de oliva e a Parashá Tetzavê |
-| 8lMQy6FeXbo | ✗ will be redone (try 1) | 2 lines missing |
-| qDT0KlS2n7w | ✗ will be redone (try 1) | 2 lines missing |
+| 8lMQy6FeXbo | ✗ will be redone (try 2) | 4 lines missing |
+| qDT0KlS2n7w | ✗ will be redone (try 2) | 1 lines missing |
