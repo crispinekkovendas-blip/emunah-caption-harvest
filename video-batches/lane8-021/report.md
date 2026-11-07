@@ -1,23 +1,23 @@
 # lane8-021
 
-1 of 16 lessons published · 0 skipped · status **pending**
-Tokens (30 agent runs with a record): 0.2M in (mostly cache) · 0.23M out · API-equivalent 3.01
+6 of 16 lessons published · 0 skipped · status **pending**
+Tokens (152 agent runs with a record): 1.1M in (mostly cache) · 1.28M out · API-equivalent 16.12
 
 | lesson | state | detail |
 |---|---|---|
-| i5QbpARuhXM | ✗ will be redone (try 1) | 6 lines missing |
-| EFGAagEM4Rg | ✗ will be redone (try 1) | 1 lines missing |
+| i5QbpARuhXM | ✗ will be redone (try 2) | 4 lines missing |
+| EFGAagEM4Rg | waiting | 12/14 parts |
 | B7HbSX5mybw | ✓ published | 225 lines · Zohar Vayetzé: os bastões de Yaakov e os tefilin |
-| Qo_H2uPXjwc | waiting | 5/7 parts |
-| _4uoSJry8NA | waiting | 0/6 parts |
-| Kk5_QRJVLxo | waiting | 0/11 parts |
-| 16B0TJS1CUk | waiting | 0/4 parts |
-| dCqfSzJ8w1M | waiting | 0/8 parts |
-| 7X5q3yy_GqY | waiting | 0/4 parts |
-| 1QTsFmw59zw | waiting | 0/4 parts |
-| 97FZNJCMIfg | waiting | 0/5 parts |
-| 0fn_Foe_eC0 | waiting | 0/11 parts |
-| AnXDrHJltK8 | waiting | 0/3 parts |
-| 5FEDGVe16ZA | waiting | 0/5 parts |
-| xo9BRSd_4IU | waiting | 0/8 parts |
-| BftyfgDZJ1c | waiting | 0/28 parts |
+| Qo_H2uPXjwc | ✓ published | 746 lines · Sara e a temimut: por que Eliezer veio com camelos |
+| _4uoSJry8NA | ✗ will be redone (try 1) | 7 lines missing |
+| Kk5_QRJVLxo | waiting | 10/11 parts |
+| 16B0TJS1CUk | ✓ published | 438 lines · Luach HaShe'elot: círculos, retidão e o masach |
+| dCqfSzJ8w1M | ✓ published | 852 lines · Como nos aproximamos da oração: a prece da alma |
+| 7X5q3yy_GqY | ✓ published | 380 lines · Lech Lecha: descer e subir, os dois caminhos juntos |
+| 1QTsFmw59zw | ✓ published | 412 lines · Lech Lecha: preparar-se sempre para a entrega da Torá |
+| 97FZNJCMIfg | ✗ will be redone (try 1) | 1 lines missing |
+| 0fn_Foe_eC0 | ✗ will be redone (try 1) | 1 lines missing |
+| AnXDrHJltK8 | ✗ will be redone (try 1) | 8 lines missing |
+| 5FEDGVe16ZA | ✗ will be redone (try 1) | 6 lines missing |
+| xo9BRSd_4IU | ✗ will be redone (try 1) | 57 lines missing |
+| BftyfgDZJ1c | waiting | 27/28 parts |

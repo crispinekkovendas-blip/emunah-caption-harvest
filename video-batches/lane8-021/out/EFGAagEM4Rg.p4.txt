@@ -1,0 +1,120 @@
+480	Yes, we do it like this	Sim, fazemos assim
+481	Yes, today we — which daf is it?	Sim, hoje nós... qual é o daf?
+482	Forty-eight, come on!	Quarenta e oito, vamos!
+483	Show me, Rabbi Chaim, the page, look at this, Rabbi Chaim, look	Mostre-me, Rabino Chaim, o daf, olhe isto, Rabino Chaim, olhe
+484	This is an example of	Isto é um exemplo de
+485	the Zohar.	o Zohar.
+486	You like candy, yes.	Você gosta de bala, sim.
+487	Forty-eight, Meir, open to daf 48 in the Mishnah.	Quarenta e oito, Meir, abra o daf 48 na Mishná.
+488	At the top of the page — didn't we already say the prayer for the beit midrash?	No topo da página — não fizemos já a oração do beit midrash?
+489	"I have set HaShem before me always."	"Coloco HaShem sempre diante de mim."
+490	…	…
+491	…	…
+492	…	…
+493	…	…
+494	…	…
+495	…	…
+496	…	…
+497	…	…
+498	…	…
+499	…	…
+500	Ahhhh	Ahhhh
+501	Daf 48, side A, in the Mishnah	Daf 48, lado A, na Mishná
+502	A man whose wife had never given birth, and she gave birth to two	Um homem cuja mulher nunca tinha dado à luz, e ela deu à luz dois
+503	males, and his wife	varões, e sua mulher
+504	had never given birth before; this is a first birth. Now she gave birth to two males,	nunca tinha dado à luz antes; este é um primeiro parto. Agora ela deu à luz dois varões,
+505	twins, right? Now he doesn't know which one is the firstborn.	gêmeos, certo? Agora ele não sabe qual é o primogênito.
+506	The midwife didn't notice, didn't notice. He gives	A parteira não reparou, não reparou. Ele dá
+507	five selaim to the cohen, and one of them is a firstborn.	cinco selaim ao cohen, pois um deles é primogênito.
+508	So one of them is certainly a firstborn; he gives five selaim	Então um deles é certamente primogênito; ele dá cinco selaim
+509	to the cohen.	ao cohen.
+510	He is obligated to give him.	Está obrigado a dar-lhe.
+511	Is it his?	É dele?
+512	One of them is his.	Um deles é dele.
+513	Now, if, chas veshalom, one of them died within thirty days,	Agora, se, chas veshalom, um deles morreu dentro de trinta dias,
+514	within thirty days, after twenty days one of them died, the father is exempt.	dentro de trinta dias, depois de vinte dias um deles morreu, o pai está isento.
+515	Because perhaps the firstborn is the one who died.	Porque talvez tenha morrido o primogênito.
+516	If it was the firstborn who died, then he is exempt precisely.	Se foi o primogênito que morreu, então ele está isento exatamente.
+517	Why?	Por quê?
+518	He died before the time when the father became obligated to perform the redemption.	Morreu antes do momento em que o pai se tornou obrigado a fazer o resgate.
+519	And since there is a doubt, perhaps the one who died is the firstborn, the father	E como há dúvida, talvez o que morreu seja o primogênito, o pai
+520	is not obligated to give the cohen the redemption money for him.	não é obrigado a dar ao cohen o dinheiro do resgate dele.
+521	But if one of them died after thirty days, when the father was already obligated, even	Mas se um deles morreu depois de trinta dias, quando o pai já estava obrigado, mesmo
+522	though the firstborn certainly died, the father must redeem him.	que certamente tenha morrido o primogênito, o pai deve resgatá-lo.
+523	If the father died	Se o pai morreu
+524	and the sons are alive, Rabbi Meir says: if	e os filhos estão vivos, Rabi Meir diz: se
+525	they gave before they divided	deram antes de dividir
+526	the estate	a herança
+527	Right, they gave. Again: he died, and the sons are alive, Rabbi Meir says, if	Certo, deram. De novo: ele morreu, e os filhos estão vivos, Rabi Meir diz: se
+528	they gave before dividing the property — they already gave, so what was given,	deram antes de dividir os bens — já deram, então o que foi dado,
+529	cannot be taken back from his hand.	não se pode retirar da mão dele.
+530	And if not, they are exempt. Now the	E se não, estão isentos. Agora o
+531	father died, and the sons remain.	pai morreu, e os filhos permanecem.
+532	Rabbi Meir says, if they gave the redemption money to the cohen before dividing the estate among themselves,	Rabi Meir diz: se deram ao cohen o dinheiro do resgate antes de dividir a herança entre si,
+533	then at that time they were obligated to pay the redemption money.	então naquele momento estavam obrigados a pagar o dinheiro do resgate.
+534	Even if they have already divided, what was given was given.	Mesmo que já tenham dividido, o que foi dado foi dado.
+535	It cannot be taken back from his hand.	Não se pode retirar da mão dele.
+536	And if not, they have not yet given to the cohen and have already divided the estate, they are exempt.	E se não, ainda não deram ao cohen e já dividiram a herança, estão isentos.
+537	Yes.	Sim.
+538	There are two things here.	Há duas coisas aqui.
+539	One, the mitzvah of redeeming the firstborn, the sanctity, and also the monetary obligation of	Uma, a mitsvá de resgatar o primogênito, a santidade, e também a obrigação monetária dos
+540	the gifts to the cohen.	presentes ao cohen.
+541	But there is a doubt about a mitzvah, and a doubt about a Torah law is treated stringently, but here	Mas há dúvida sobre uma mitsvá, e dúvida em lei da Torá se resolve com rigor, mas aqui
+542	they are exempt.	estão isentos.
+543	Tosafot say that the mitzvah of redemption depends on the monetary law; since	Os Tosafot dizem que a mitsvá do resgate depende da lei monetária; como
+544	there is no monetary obligation, because of the doubt, there is no	não há obrigação monetária, por causa da dúvida, não há
+545	redemption here.	resgate aqui.
+546	Rabbi	Rabi
+547	Yehuda says,	Yehuda diz:
+548	the property became obligated; even if they divided the property, they are obligated.	os bens já ficaram obrigados; mesmo que tenham dividido os bens, estão obrigados.
+549	Why? Because the father's property was already obligated to redeem the son?	Por quê? Porque os bens do pai já estavam obrigados a resgatar o filho?
+550	Therefore the sons are obligated to pay their father's debt.	Por isso os filhos são obrigados a pagar a dívida do pai.
+551	Another law: male and female.	Outra lei: varão e mulher.
+552	Now this woman	Agora esta mulher
+553	gave birth to twins, a male and a female, and it is not known who was born first; the cohen gets nothing here.	deu à luz gêmeos, um varão e uma menina, e não se sabe quem nasceu primeiro; o cohen não recebe nada aqui.
+554	Why, isn't there a doubt?	Por quê, não há dúvida?
+555	If there is a firstborn at all, redemption is required.	Se há um primogênito, o resgate é obrigatório.
+556	But the one who seeks to extract from his fellow bears the burden of proof.	Mas quem quer tirar de seu próximo é quem tem o ônus da prova.
+557	He will redeem him, but he is not	Ele o resgatará, mas não está
+558	obligated to give.	obrigado a dar.
+559	He will redeem him, but he is not obligated	Ele o resgatará, mas não está obrigado
+560	to give.	a dar.
+561	Do you want to go over	Querem rever
+562	it again?	isso de novo?
+563	It's necessary, necessary.	É preciso, é preciso.
+564	And there are two matters here, he says: one, the mitzvah of redemption, to redeem the sanctity, and the other,	E há aqui dois assuntos, ele diz: um, a mitsvá do resgate, resgatar a santidade, e o outro,
+565	the gifts to the cohen.	os presentes ao cohen.
+566	That is, when there is a doubt, there is no monetary obligation, since whoever extracts...	Ou seja, quando há dúvida, não há obrigação monetária, pois quem tira...
+567	Why?	Por quê?
+568	There is no monetary obligation.	Não há obrigação monetária.
+569	Whoever extracts from his fellow bears the burden of proof.	Quem tira de seu próximo tem o ônus da prova.
+570	But nevertheless, there is a doubt about a mitzvah here.	Mas mesmo assim, aqui há dúvida sobre uma mitsvá.
+571	A doubt about a Torah law is treated stringently.	Dúvida em lei da Torá se resolve com rigor.
+572	But the Shaarei Yosher says, he brings here, indeed,	Mas o Shaarei Yosher diz, ele traz aqui, de fato,
+573	that when the mitzvah of redemption depends on the monetary law, since there is no	que quando a mitsvá do resgate depende da lei monetária, como não há
+574	monetary obligation, then there is also no law of redemption.	obrigação monetária, então também não há lei de resgate.
+575	Since the mitzvah of redemption depends on money, he says that since there is no monetary obligation here,	Como a mitsvá do resgate depende do dinheiro, ele diz que, como aqui não há obrigação monetária,
+576	there is no mitzvah of redemption here.	aqui não há mitsvá de resgate.
+577	So writes the Shaarei Yosher.	Assim escreve o Shaarei Yosher.
+578	If it has one,	Se há,
+579	then there is an obligation regarding her son.	então há uma obrigação em relação ao filho dela.
+580	Something it doesn't have, like a brit, like...	Algo que não há, como o brit, como...
+581	Gemara: we said that the dispute between Rabbi Meir and Rabbi Yehuda is when the father died	Guemará: dissemos que a discussão entre Rabi Meir e Rabi Yehuda é quando o pai morreu
+582	and the sons are alive. So we said that according to Rabbi Meir, if	e os filhos estão vivos. Então dissemos que, segundo Rabi Meir, se
+583	they gave before dividing, what was given stands, and if not, they are exempt. Rabbi	deram antes de dividir, o que foi dado vale, e se não, estão isentos. Rabi
+584	Yehuda says they are always obligated. There is no "if they gave, if they didn't give" —	Yehuda diz que sempre estão obrigados. Não existe "se deram, se não deram" —
+585	they are obligated. So the Gemara asks: when did the father die? If after	estão obrigados. Então a Guemará pergunta: quando o pai morreu? Se depois de
+586	thirty days, the father was already obligated in the redemption.	trinta dias, o pai já estava obrigado ao resgate.
+587	In that case, what is Rabbi Meir's reason, that if they divided, they are exempt?	Nesse caso, qual é a razão de Rabi Meir, de que se dividiram, estão isentos?
+588	And if the property was encumbered, why?	E se os bens já estavam onerados, por quê?
+589	How can Rabbi Meir say "if they gave before dividing"?	Como Rabi Meir pode dizer "se deram antes de dividir"?
+590	The property was encumbered, it was already encumbered.	Os bens foram onerados, já estavam onerados.
+591	Weren't the father's properties already encumbered during his lifetime?	Os bens do pai já não tinham sido onerados em vida dele?
+592	Rather, one must say he died within thirty days, so the property was not encumbered during his lifetime.	Antes, é preciso dizer que ele morreu dentro de trinta dias, então os bens não foram onerados em vida dele.
+593	That too is difficult.	Isso também é difícil.
+594	What difference does it make that they divided?	Que diferença faz que dividiram?
+595	Why "when they divided"?	Por que "quando dividiram"?
+596	You say that they are exempt.	Você diz que estão isentos.
+597	Why do we exempt them?	Por que os isentamos?
+598	Because with regard to his lifetime, from the beginning.	Porque em relação à vida dele, desde o início.
+599	Because with regard to his lifetime, from the beginning.	Porque em relação à vida dele, desde o início.
