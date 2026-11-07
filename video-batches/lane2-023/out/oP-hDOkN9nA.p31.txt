@@ -1,0 +1,40 @@
+1240	Are there answers?	Há respostas?
+1241	Why?	Por quê?
+1242	Do we need teshuvah and taharah, or not?	Precisa de teshuvá e tahará, ou não?
+1243	Teshuvah?	Teshuvá?
+1244	A teshuvah with a lot of questions.	Uma resposta com muitas perguntas.
+1245	If there's a question, there's	Se há uma pergunta, há
+1246	an answer.	uma resposta.
+1247	No, you can raise objections, we say...	Não, pode-se questionar, nós dizemos...
+1248	If you want to object, go ahead and object.	Se vocês querem questionar, que questionem.
+1249	We love difficult questions.	Nós amamos as dificuldades.
+1250	I'm sure there are plenty of them.	Tenho certeza de que há muitas.
+1251	I mean, there's no point in asking, it won't help at all.	Quer dizer, não adianta perguntar, não vai ajudar em nada.
+1252	Anyway, they don't understand my questions.	De qualquer modo, não entendem as minhas perguntas.
+1253	Yes.	Sim.
+1254	Do you want to stop or to finish?	Vocês querem parar ou terminar?
+1255	No, I want to ask.	Não, eu quero perguntar.
+1256	About the topic of prayer, if you could do	Sobre o tema da oração, se você pudesse fazer
+1257	and...	e...
+1258	prayer.	oração.
+1259	I think I remember.	Acho que eu me lembro.
+1260	You remember?	Você se lembra?
+1261	Why don't you tell her?	Por que você não diz a ela?
+1262	Why don't you explain?	Por que você não explica?
+1263	I told her, I told her to listen to the lesson.	Eu disse a ela, disse a ela que ouvisse a aula.
+1264	I didn't remember that.	Eu não me lembrava disso.
+1265	I didn't remember all the stages.	Eu não me lembrava de todas as etapas.
+1266	You can listen to it.	Dá para ouvir.
+1267	I actually have a whole organized lesson on this, yes.	Eu tenho mesmo uma aula bem organizada sobre isso, sim.
+1268	So go ahead.	Então vamos.
+1269	No, it takes time, it's not now.	Não, leva tempo, não é agora.
+1270	No, not now.	Não, agora não.
+1271	We'd also have to prepare for it, there are many more details, I said it in a general way, what?	Também é preciso se preparar para isso, há muitos outros detalhes, eu falei de modo geral, o quê?
+1272	But you can ask about what you did	Mas vocês podem perguntar sobre o que
+1273	hear.	ouviram.
+1274	In general, prayer is not	Em geral, a oração não
+1275	meant for you to receive, that is not	tem o objetivo de você receber, esse não é
+1276	its goal.	o seu objetivo.
+1277	The goal of prayer is to reveal Divinity in what you receive, that is its goal.	O objetivo da oração é revelar a Divindade no que você recebe, esse é o seu objetivo.
+1278	If you come to reveal Divinity in what you receive, then you'll be able to enjoy as well, and then you can give delight	Se você vem para revelar a Divindade no que recebe, então poderá desfrutar também, e então poderá dar deleite
+1279	to the Creator.	ao Criador.
