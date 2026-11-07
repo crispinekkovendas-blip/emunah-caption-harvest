@@ -197,6 +197,33 @@ for (const id of order) {
   console.log(`  ${id}  ${doc.cues.length} lines → ${parts} part(s)  ${doc.title}`)
 }
 if (!lessons.length) {
+  // 2026-11-07 (the owner: "activate all lanes why are they sleeping"): when every lesson left is already
+  // in another lane's batch, an idle lane helps that batch — it takes the BACK half of its pieces, newest
+  // last first, while the owner works from the front; each helper piece is pushed as soon as it is done and
+  // every piece is skipped when its output is already on the branch, so the two never translate one twice.
+  // The owner's publish puts the finished lessons on the site.
+  const busy = batches
+    .map((b) => ({ b, m: JSON.parse(fs.readFileSync(path.join(DIR, b, 'manifest.json'), 'utf8')) }))
+    .filter(({ m }) => m.status !== 'done')
+    .map(({ b, m }) => ({ b, lane: m.lane || 1, left: pending(b) }))
+    .filter((x) => x.left.length >= 4)
+    .sort((a, b) => b.left.length - a.left.length)
+  const busyLanes = new Set(busy.map((x) => x.lane))
+  const idle = Array.from({ length: LANES }, (_, i) => i + 1).filter((l) => !busyLanes.has(l))
+  const me = idle.indexOf(LANE)
+  if (busy.length && me >= 0) {
+    const target = busy[me % busy.length]
+    const helpers = idle.filter((_, i) => i % busy.length === me % busy.length)
+    const back = target.left.slice(Math.ceil(target.left.length / 2)).reverse()
+    const mine = back.filter((_, i) => i % helpers.length === helpers.indexOf(LANE))
+    if (mine.length) {
+      console.log(`nothing new to take — helping ${target.b} (lane ${target.lane}, ${target.left.length} pieces left) with ${mine.length} from the back`)
+      output('batch', target.b)
+      output('help', 'true')
+      output('chunks', JSON.stringify(mine.slice(0, MATRIX)))
+      process.exit(0)
+    }
+  }
   console.log('nothing left to translate — the library is done')
   output('batch', '')
   output('chunks', '[]')

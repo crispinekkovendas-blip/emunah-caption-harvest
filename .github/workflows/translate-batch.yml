@@ -18,6 +18,8 @@ name: Translate a video batch (Claude)
 # ten lanes run side by side, each its own batch and its own chain; inside a lane the agents run one
 # after another. Each lane owns a fixed share of the lessons (hash of the id), so lanes never collide. The
 # schedule (hourly) wakes all ten lanes; a lane already running just goes on.
+# HELPING (2026-11-07, the owner: "activate all lanes"): a lane with nothing new to take works the back half
+# of a busy lane's batch, one piece at a time, pushing each piece; every piece already on the branch is skipped.
 
 on:
   workflow_dispatch:
@@ -55,6 +57,7 @@ jobs:
     outputs:
       batch: ${{ steps.make.outputs.batch }}
       chunks: ${{ steps.make.outputs.chunks }}
+      help: ${{ steps.make.outputs.help }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -113,6 +116,9 @@ jobs:
           D="$GITHUB_WORKSPACE/video-batches"
           IN="$D/$BATCH/in/$CHUNK.txt"
           OUT="$D/$BATCH/out/$CHUNK.txt"
+          # 2026-11-07: a piece already on the branch (done by a helping lane, or by the owner) is not redone
+          git pull -q --rebase || true
+          if [ -s "$OUT" ]; then echo "$CHUNK already translated — skipped"; exit 0; fi
           set +e
           claude -p "Translate the numbered lines under LINHAS A TRADUZIR following the system rules. Reply with ONLY the translation lines (N<TAB>English<TAB>Portuguese), one per line to translate, nothing before or after, no code fences." \
             --system-prompt "$(cat "$D/PROMPT.md")" --tools "" \
@@ -136,15 +142,47 @@ jobs:
             echo "::warning::$CHUNK not translated (exit $code) — the next run retries it"
             grep -ihE "limit|rate|quota|error|login" usage.json err.txt | head -5 || true
           fi
+          # a helping lane pushes each piece at once — the owner skips it, and the owner's publish uses it
+          if [ "${{ needs.make.outputs.help }}" = true ] && [ -s "$OUT" ]; then
+            git config user.name "video-batches"
+            git config user.email "actions@github.com"
+            git add "$OUT" "$D/$BATCH/out/$CHUNK".r*.usage.json
+            git commit -q -m "video-batches: $BATCH — $CHUNK (lane ${{ inputs.lane }} helping)"
+            for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep $((i * 4)); done
+          fi
       - uses: actions/upload-artifact@v4
         with:
           name: out-${{ matrix.chunk }}
           path: video-batches/${{ needs.make.outputs.batch }}/out/${{ matrix.chunk }}.*
           if-no-files-found: ignore
 
+  # a helping lane does not publish the owner's batch (the owner does); it only looks for work again
+  helped:
+    needs: [make, translate]
+    if: always() && needs.make.outputs.help == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - id: got
+        name: Did this run translate anything?
+        env:
+          CHUNKS: ${{ needs.make.outputs.chunks }}
+          BATCH: ${{ needs.make.outputs.batch }}
+        run: |
+          n=$(node -e 'const fs = require("fs"); console.log(JSON.parse(process.env.CHUNKS).filter((c) => fs.existsSync("video-batches/" + process.env.BATCH + "/out/" + c + ".txt")).length)')
+          echo "pieces on the branch: $n"
+          echo "n=$n" >> "$GITHUB_OUTPUT"
+      - name: Keep the lane going (help again, or its own next batch)
+        if: steps.got.outputs.n != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=${{ inputs.lane }}
+
   publish:
     needs: [make, translate]
-    if: always() && needs.make.outputs.batch != ''
+    if: always() && needs.make.outputs.batch != '' && needs.make.outputs.help != 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
