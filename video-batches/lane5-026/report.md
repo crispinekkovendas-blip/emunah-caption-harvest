@@ -1,7 +1,7 @@
 # lane5-026
 
 9 of 12 lessons published · 2 skipped · status **pending**
-Tokens (212 agent runs with a record): 1.5M in (mostly cache) · 1.37M out · API-equivalent 16.82
+Tokens (237 agent runs with a record): 1.6M in (mostly cache) · 1.41M out · API-equivalent 17.29
 
 | lesson | state | detail |
 |---|---|---|
@@ -9,7 +9,7 @@ Tokens (212 agent runs with a record): 1.5M in (mostly cache) · 1.37M out · AP
 | dE__s0hCWXY | ✓ published | 1822 lines · Mishkof, safir e o branco transparente: Lev e mezuzá |
 | VMg8AnGoS_0 | ✓ published | 680 lines · Zakut e avyut nos mundos: Adam Kadmon e Assiá |
 | 1flLKdKA4FA | ✓ published | 394 lines · Gevurá de chesed e o clamor interior da teshuvá |
-| Gex1ZbQ5YTw | ✗ will be redone (try 2) | 24 lines missing |
+| Gex1ZbQ5YTw | waiting | 24/25 parts |
 | ENgVTYLrMTw | ✓ published | 293 lines · Zohar Vayikrá 17a: Korbanot, 18 letras e unificação |
 | fyiSNNkfal4 | ✓ published | 316 lines · Teshuvá no Zohar: do Keter aos seis extremos e à redenção |
 | tkcRQmqdxz4 | skipped | |
