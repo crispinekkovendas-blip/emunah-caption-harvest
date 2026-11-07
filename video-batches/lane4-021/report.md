@@ -1,7 +1,7 @@
 # lane4-021
 
 1 of 21 lessons published · 17 skipped · status **pending**
-Tokens (1860 agent runs with a record): 9.6M in (mostly cache) · 5.09M out · API-equivalent 80.92
+Tokens (1934 agent runs with a record): 10.0M in (mostly cache) · 5.28M out · API-equivalent 84.08
 
 | lesson | state | detail |
 |---|---|---|
@@ -9,7 +9,7 @@ Tokens (1860 agent runs with a record): 9.6M in (mostly cache) · 5.09M out · A
 | Xqw-x_pjX08 | ✓ published | 287 lines · Mayim Rabim: bens materiais a serviço do amor a HaShem |
 | _u6VIUW72iY | skipped | |
 | K3XgaNkO4Ak | skipped | |
-| YrWs6QmNsz4 | skipped after 3 tries | 40 lines missing |
+| YrWs6QmNsz4 | skipped | |
 | TjGBAhYS3vU | skipped | |
 | e5urC9nmmHk | skipped | |
 | 8VPhFvtXMxQ | skipped | |
@@ -19,10 +19,10 @@ Tokens (1860 agent runs with a record): 9.6M in (mostly cache) · 5.09M out · A
 | CEloJsU6eAk | skipped | |
 | kzntZefs5ys | skipped | |
 | pYUie5ltuf0 | waiting | 19/20 parts |
-| QNL3vz5Vjy4 | skipped after 3 tries | line 1000 twice |
+| QNL3vz5Vjy4 | skipped | |
 | QDE7D7qE0mE | skipped | |
 | jv6bYM-X7GM | skipped | |
 | Q76ZMb_Loxg | skipped | |
-| X1Z--q7kAZg | skipped after 3 tries | 6 lines missing |
+| X1Z--q7kAZg | skipped | |
 | JyH1f4nnLCc | waiting | 22/24 parts |
 | XcJdkXd6t-A | waiting | 23/24 parts |
