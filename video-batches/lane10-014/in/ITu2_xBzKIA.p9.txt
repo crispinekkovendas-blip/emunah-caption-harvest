@@ -1,0 +1,64 @@
+videoId: ITu2_xBzKIA
+parte 10 de 22 · traduzir as linhas 360 a 399 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: o Keter e a Bechiná intermediária
+RESUMO: A aula conclui o capítulo 5 da parte 3 do Talmud Eser HaSefirot com a ideia de que entre cada bechiná e outra existe uma bechiná intermediária que inclui as duas. Entre o Criador e a criatura está o nível "Avot hen HaMerkavá"; entre a espiritualidade e o corpo está a "revi'it dam shebanefesh"; entre o corpo e as vestes estão cabelos e unhas, citando Adam HaRishon e Nevuchadnetsar (Daniel 4:30). No capítulo 6, o Arizal ensina que o Keter contém o ícone de duas partes, centelha criadora e centelha criada, e que só há quatro bechinot (Chochmá, Biná, Tiferet, Maljut), correspondentes às quatro letras do nome HaVaYaH; a Chochmá é chamada "reshit" (Tehilim 111:10). Explica-se que o Keter às vezes não é contado entre as dez sefirot, como a coroa sobre a cabeça do rei, e que o Ramban (Bereshit 1:2) fala do "hyuli" e do tohu vavohu. O Keter é chamado "tohu" por conter em potencial, e não em ato, as raízes das quatro formas. A aula termina explicando como a luz direta, ao encontrar o masach da Maljut do rosh, devolve a luz refletida, que forma "raízes de vasos", e só depois da expansão abaixo do masach surgem vasos completos no guf.
+MOMENTOS: 00:53 Introdução e títulos do capítulo 5 · 02:50 Há sempre bechiná intermediária entre superior e inferior · 04:25 Quatro bechinot dentro de cada bechiná do ser humano · 06:47 Avot hen HaMerkavá e a bechiná que liga espiritualidade e corpo · 08:00 Centelha criadora e criada; Maljut vira Keter inferior · 11:03 Revi'it dam shebanefesh entre alma e corpo · 18:01 Cabelos e unhas entre corpo e vestes · 23:14 Capítulo 6: o Keter contém duas bechinot · 26:50 Só há quatro bechinot; Chochmá é a primeira · 31:41 Keter contado ou não, como coroa do rei; Ramban · 38:52 Tohu vavohu e a transição entre Atzilut e Briá · 43:03 Infinito como "efes"; tohu contém as formas em potencial · 51:52 Luz direta, masach, raízes de vasos e vasos completos · 59:55 Rosh e guf de Atzilut e o novo zivug para Briá
+FONTES CITADAS: 02:50 Arizal, Etz Chaim: bechiná intermediária · 06:47 Tehilim 82:6 · 06:47 Avot hen HaMerkavá · 12:41 Devarim 12:23 · 13:07 Pidyon nefesh · 20:41 Daniel 4:30 · 05:06 Vestes do Cohen Hedyot · 28:11 Tehilim 111:10 · 32:00 Sefer Yetzirá · 33:40 Ramban em Bereshit 1:2 · 33:51 Sefer HaBahir · 34:21 Yeshayahu 40:17 · 38:52 Bereshit 1:2 · 50:01 Tohu e o valor numérico de tav
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|26:13|הכתר לנאצל?
+349|26:21|גמר התיקון?
+350|26:24|רגע, שנייה, שנייה, בוא, בוא, בוא, יובל, בוא, עוד לא קראתי את
+351|26:29|לשון האריז על באות א', בסדר?
+352|26:33|אז רגע.
+353|26:34|אפשר להשאיר את השאלה עומדת, השאלה היא שאנחנו בגמר התיקון, הרי בסופו של דבר הכתר כן יחזור
+354|26:39|אלינו.
+355|26:40|אני שואל אם זה קשור לעניין של היפוך הרצון לקבל לרצון להצפיע.
+356|26:45|לא יודע, כרגע.
+357|26:50|א', א', אות א', בארי זה על רבותיי, אנחנו לומדים, יש
+358|26:56|סדר ללימוד, יש זמן נפלא לשאלות, בואו
+359|27:02|נתקדם, בסדר?
+
+LINHAS A TRADUZIR:
+360|27:04|אות א', כותרת אין יותר בכל נאצל מדלת בחינות חוכמה ובין התפארת
+361|27:09|במלכות וחוכמה היא ספירה ראשונה שבנאצל כאמור עשיתי חזרה על מה זה בחינה
+362|27:15|א' אות א' ועתה נחזור לדבר בעולמות העליונים
+363|27:22|אחר שבהרנו המשל נבער עתה הנמשל זאת אומרת
+364|27:27|הוא מתייחס לכל הבחינות שהוא אמר לנו כמעין משל זאת אומרת זה
+365|27:33|הלבשה בשמות שונים תופעות שונות, ורוצה לדבר על
+366|27:39|הנמשל.
+367|27:41|ונאמר כי הנמשל אינו רק מדלת בחינות
+368|27:46|יסודות לבד, שהם דלת אותיות הוויה.
+369|27:52|זה השורש, לכן הוא נקרא גם שם השורש.
+370|27:56|שהם חוכמה, בינה, תפארת ומלכות.
+371|27:59|י' חוכמה, ה' בינה, ואב תפארת, ה' אחרונה מלכות, כנ"ל.
+372|28:05|על כן נמצא שהחוכמה נקרא ראשית, כמו שכתוב ראשית
+373|28:11|חוכמה, יראת השם.
+374|28:15|כן, ואומר לנו באור פנימי א', מה זאת אומרת פה משל ונמשל, זה לא...
+375|28:22|בוא נקרא את אות א' באור פנימי ואז נשאל על המשל.
+376|28:27|אה, אוקיי.
+377|28:28|רוצה לומר כי המשל שהביא שיש בחינה ממוצעת בין
+378|28:33|בחינה לבחינה, אל תיקח מזה להנמשל,
+379|28:40|אשר יש משום זה ה בחינות גם בעליונים, דהיינו ד' בחינות
+380|28:46|ובחינה ממוצעת, ולזה מזהיר ואומר שאין בעליונים יותר
+381|28:52|מד' יסודות ארמה, שהם ד' אותיות הוויה,
+382|28:58|כי הבחינה הממוצעת אינה נמנה עם הד'
+383|29:04|בחינות.
+384|29:08|אז אם אתה מדבר, הוא אומר, אתה, אני עכשיו דיברתי איתך
+385|29:14|על בחינה ממוצעת, אל תגיד לי, אופס, יש לי עכשיו עוד בחינה.
+386|29:19|לא.
+387|29:21|השורש בכללו, הכתר לא נחשב לבחינה, כי יש סך הכל ד'
+388|29:26|בחינות בנאצל, ולכן יש ד' אותיות הוויה, ולכן יש
+389|29:32|ד' יסודות וכולי.
+390|29:36|אל תתבלבל ותקרא מהמשל, הנמשל, שיש
+391|29:41|בעצם חמש בחינות.
+392|29:43|לא.
+393|29:45|יש ד' בחינות ושורשן.
+394|29:49|וזה שמסיים הרב, ארי ז"ל, על כן נמצא שהחוכמה נקראת
+395|29:55|ראשית.
+396|29:56|הכל מתחיל מהחוכמה, כולם בחוכמה עשיתה.
+397|30:00|להורות שאין שום בחינה נמנית לפניה.
+398|30:04|כי הבחינה הממוצעת, דהיינו ניצוץ בורא, הוא סוד אינסוף,
+399|30:10|שאינו כלל בחשבון המדרגה.

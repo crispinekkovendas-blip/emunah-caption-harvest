@@ -1,0 +1,64 @@
+videoId: ITu2_xBzKIA
+parte 7 de 22 · traduzir as linhas 240 a 279 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: o Keter e a Bechiná intermediária
+RESUMO: A aula conclui o capítulo 5 da parte 3 do Talmud Eser HaSefirot com a ideia de que entre cada bechiná e outra existe uma bechiná intermediária que inclui as duas. Entre o Criador e a criatura está o nível "Avot hen HaMerkavá"; entre a espiritualidade e o corpo está a "revi'it dam shebanefesh"; entre o corpo e as vestes estão cabelos e unhas, citando Adam HaRishon e Nevuchadnetsar (Daniel 4:30). No capítulo 6, o Arizal ensina que o Keter contém o ícone de duas partes, centelha criadora e centelha criada, e que só há quatro bechinot (Chochmá, Biná, Tiferet, Maljut), correspondentes às quatro letras do nome HaVaYaH; a Chochmá é chamada "reshit" (Tehilim 111:10). Explica-se que o Keter às vezes não é contado entre as dez sefirot, como a coroa sobre a cabeça do rei, e que o Ramban (Bereshit 1:2) fala do "hyuli" e do tohu vavohu. O Keter é chamado "tohu" por conter em potencial, e não em ato, as raízes das quatro formas. A aula termina explicando como a luz direta, ao encontrar o masach da Maljut do rosh, devolve a luz refletida, que forma "raízes de vasos", e só depois da expansão abaixo do masach surgem vasos completos no guf.
+MOMENTOS: 00:53 Introdução e títulos do capítulo 5 · 02:50 Há sempre bechiná intermediária entre superior e inferior · 04:25 Quatro bechinot dentro de cada bechiná do ser humano · 06:47 Avot hen HaMerkavá e a bechiná que liga espiritualidade e corpo · 08:00 Centelha criadora e criada; Maljut vira Keter inferior · 11:03 Revi'it dam shebanefesh entre alma e corpo · 18:01 Cabelos e unhas entre corpo e vestes · 23:14 Capítulo 6: o Keter contém duas bechinot · 26:50 Só há quatro bechinot; Chochmá é a primeira · 31:41 Keter contado ou não, como coroa do rei; Ramban · 38:52 Tohu vavohu e a transição entre Atzilut e Briá · 43:03 Infinito como "efes"; tohu contém as formas em potencial · 51:52 Luz direta, masach, raízes de vasos e vasos completos · 59:55 Rosh e guf de Atzilut e o novo zivug para Briá
+FONTES CITADAS: 02:50 Arizal, Etz Chaim: bechiná intermediária · 06:47 Tehilim 82:6 · 06:47 Avot hen HaMerkavá · 12:41 Devarim 12:23 · 13:07 Pidyon nefesh · 20:41 Daniel 4:30 · 05:06 Vestes do Cohen Hedyot · 28:11 Tehilim 111:10 · 32:00 Sefer Yetzirá · 33:40 Ramban em Bereshit 1:2 · 33:51 Sefer HaBahir · 34:21 Yeshayahu 40:17 · 38:52 Bereshit 1:2 · 50:01 Tohu e o valor numérico de tav
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|17:31|חובת קידוש, אנחנו צריכים לשתות רביעית, אם זה קשור לזה, אני לא
+229|17:36|יודע, אבל זה מעניין.
+230|17:42|סביר להניח שגם בכוס יין יש ד' בחינות, בכל דבר יש ד' בחינות,
+231|17:48|אז מסתמה כן.
+232|17:53|כן, אז זהו לגבי אות ו', ואנחנו מסיימים את הפרק הזה באות ז',
+233|18:01|בלי אור פנימי, אנחנו רק קוראים את לשון האריזה, לכותרת בין הגוף לבין
+234|18:06|הלבושים, יש בחינת שערות וציפורניים של האדם
+235|18:12|הכוללות שניהם.
+236|18:13|שערות וציפורניים אלה שני חלקים בגוף האדם, היחידים
+237|18:19|שממשיכים לצמוח כל החיים וכל הזמן צריך לקצץ אותם.
+238|18:23|כן, חוץ ממי שהקריח.
+239|18:26|למה השומן?
+
+LINHAS A TRADUZIR:
+240|18:27|סליחה?
+241|18:28|גם השומן.
+242|18:30|גם?
+243|18:30|השומן, השומן.
+244|18:33|השומן הוא חלק מהבשר.
+245|18:35|הוא לא בפני עצמו, הוא לא כמו הסערות והציפורניים.
+246|18:39|כן, אז זה חלק מיוחד, וכמובן יש מדרשים על זה, על האדם הראשון, כולו היה
+247|18:45|עשוי ציפורן וכולי.
+248|18:47|ובין הלבושים לבין הבית, גם כן יש בחינה ממוצעת שהיא האוהלים,
+249|18:55|אוקיי?
+250|18:56|כמו בית ארעי, ארעי.
+251|19:00|אומר האריזל, וכן בין בחינה הבית אל הגימל, אחרי שהוא דיבר על בין האלף
+252|19:05|לבית, הוא מדבר על בין הבית לגימל, יש בחינה ממוצעת, והם שערות
+253|19:11|וציפורניים של האדם כנודע, כי זה היה לבוש של אדם הראשון בתחילה,
+254|19:17|הציפורן.
+255|19:20|והנה הם דבוקים בעור של האדם ודומין אל הגוף
+256|19:26|של האדם עצמו.
+257|19:29|אמנם בהסתלקותם משם נעשה מהם לבוש מאותן השערות על
+258|19:35|דרך שעושים מצמר הרכילים והעיזים וכיוצא.
+259|19:39|לא כל כך מבין אם הוא מתכוון שעושים מהשערות של הגוף אחרי זה
+260|19:45|איזה בגד, אני לא שמעתי על דבר כזה, אבל בכל מקרה,
+261|19:51|אנחנו כן לוקחים את השערות של הבעל חיים ועושים
+262|19:57|ממנו לבוש.
+263|19:59|אז הבחינת ממוצע בין האור, שהוא המלכות של
+264|20:05|הדלת בחינות הקודמות, לבין הלבוש שיש לו גם כן דלת בחינות,
+265|20:11|הממוצע זה השערות והציפורניים.
+266|20:14|ולא עוד, אלא שאף גם בהיותן דבוקים בגוף האדם, הם
+267|20:20|דומים למלבוש, נכון?
+268|20:23|דמיון הבהמות וחיות, ששערותיהן מלבושיהן.
+269|20:30|והמופת לזה הוא אדם הראשון בעניין הציפורניים, שכולו כאמור היה
+270|20:35|ציפורן, וגם מצינו בנבוכדנצר שנענש, כן?
+271|20:41|שזה היה מלבושו, כמו שכתוב, עד די שערה כנשרין רבה
+272|20:47|ותפרעו כציפורי.
+273|20:49|שהיו לו שערות גוף כמו פלומה של נשר
+274|20:55|והציפורניים שלו היו כמו ציפורניים של נשר, של ציפור
+275|21:02|וכן בין בחינת הלבושים לבחינת הבית הם האוהלים הנעשים
+276|21:08|מצמר ופשתים שהם בחינת לבושים וגם הם
+277|21:13|משמשים לבחינת בתים וזו הבחינה של אוהלים צריכה עדיין עיון אם הוא
+278|21:19|כך, או אם יש בה דבר אחר.
+279|21:23|הוא לא היה סגור לגמרי.

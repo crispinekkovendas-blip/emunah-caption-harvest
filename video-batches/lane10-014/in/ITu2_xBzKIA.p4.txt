@@ -1,0 +1,64 @@
+videoId: ITu2_xBzKIA
+parte 5 de 22 · traduzir as linhas 160 a 199 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: o Keter e a Bechiná intermediária
+RESUMO: A aula conclui o capítulo 5 da parte 3 do Talmud Eser HaSefirot com a ideia de que entre cada bechiná e outra existe uma bechiná intermediária que inclui as duas. Entre o Criador e a criatura está o nível "Avot hen HaMerkavá"; entre a espiritualidade e o corpo está a "revi'it dam shebanefesh"; entre o corpo e as vestes estão cabelos e unhas, citando Adam HaRishon e Nevuchadnetsar (Daniel 4:30). No capítulo 6, o Arizal ensina que o Keter contém o ícone de duas partes, centelha criadora e centelha criada, e que só há quatro bechinot (Chochmá, Biná, Tiferet, Maljut), correspondentes às quatro letras do nome HaVaYaH; a Chochmá é chamada "reshit" (Tehilim 111:10). Explica-se que o Keter às vezes não é contado entre as dez sefirot, como a coroa sobre a cabeça do rei, e que o Ramban (Bereshit 1:2) fala do "hyuli" e do tohu vavohu. O Keter é chamado "tohu" por conter em potencial, e não em ato, as raízes das quatro formas. A aula termina explicando como a luz direta, ao encontrar o masach da Maljut do rosh, devolve a luz refletida, que forma "raízes de vasos", e só depois da expansão abaixo do masach surgem vasos completos no guf.
+MOMENTOS: 00:53 Introdução e títulos do capítulo 5 · 02:50 Há sempre bechiná intermediária entre superior e inferior · 04:25 Quatro bechinot dentro de cada bechiná do ser humano · 06:47 Avot hen HaMerkavá e a bechiná que liga espiritualidade e corpo · 08:00 Centelha criadora e criada; Maljut vira Keter inferior · 11:03 Revi'it dam shebanefesh entre alma e corpo · 18:01 Cabelos e unhas entre corpo e vestes · 23:14 Capítulo 6: o Keter contém duas bechinot · 26:50 Só há quatro bechinot; Chochmá é a primeira · 31:41 Keter contado ou não, como coroa do rei; Ramban · 38:52 Tohu vavohu e a transição entre Atzilut e Briá · 43:03 Infinito como "efes"; tohu contém as formas em potencial · 51:52 Luz direta, masach, raízes de vasos e vasos completos · 59:55 Rosh e guf de Atzilut e o novo zivug para Briá
+FONTES CITADAS: 02:50 Arizal, Etz Chaim: bechiná intermediária · 06:47 Tehilim 82:6 · 06:47 Avot hen HaMerkavá · 12:41 Devarim 12:23 · 13:07 Pidyon nefesh · 20:41 Daniel 4:30 · 05:06 Vestes do Cohen Hedyot · 28:11 Tehilim 111:10 · 32:00 Sefer Yetzirá · 33:40 Ramban em Bereshit 1:2 · 33:51 Sefer HaBahir · 34:21 Yeshayahu 40:17 · 38:52 Bereshit 1:2 · 50:01 Tohu e o valor numérico de tav
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+148|11:39|אומר האריזל, וכן בין בחינת הרוחניות לבחינת הגוף.
+149|11:45|יש בחינה אחת, כוללת שתיהן, והוא בחינת רביעית דם
+150|11:50|של הנפש.
+151|11:52|כי יש בה ניצוץ אחרון של הנפש.
+152|11:56|הנה, ניצוץ אחרון של העליון, כן, שזה הנפש, שהיא
+153|12:02|החלק התחתון של הנשמה, שהוא הרביעית שבנפש, היא נקראת רביעית
+154|12:08|שבנפש.
+155|12:11|פירוש בחינת נפש שבנפש, שזה התחתון של התחתון.
+156|12:16|ארבע בחינות יש בנשמה, התחתון זה הנפש, וגם בנפש יש נפש רוח
+157|12:22|נשמה חיה, ולכן הנפש שבנפש היא נקראת רביעית,
+158|12:28|ולכן נקרא רביעית, הוא אומר.
+159|12:31|רביעית שבנפש.
+
+LINHAS A TRADUZIR:
+160|12:32|כן.
+161|12:33|וזה הניצוץ מתלבש ברביעית דם הנזכר לאל,
+162|12:41|אחד, וכמו שכתוב, כי הדם הוא הנפש, כך נאמר
+163|12:47|בתורה, הדם הוא הנפש, הנאמר בדיוק על מה זה נאמר, על
+164|12:52|הרביעית דם הזה, לא על כל הדם, אלא על הרביעית דם הזה שמחבר בין הנפש
+165|12:59|לדם ולגוף, על זה נאמר,
+166|13:04|הדם הוא הנפש.
+167|13:07|לכן אנחנו תמיד אומרים, עושים פדיון נפש, עושים, נותנים כסף, כן?
+168|13:13|שזה פדיון נפש, אנחנו פודים את הנפש שבפנים, על ידי דמים, דמים זה
+169|13:19|כסף.
+170|13:21|יש כאן הרחבה מעניינת.
+171|13:23|הרי הנפש היא רוחנית, והדם הוא גזמי, איך מתחבר הרוחנית לתעשמי?
+172|13:28|בדיוק על ילדי הבחינה הממוצעת.
+173|13:31|שהוא הנפש הטמאה.
+174|13:34|אך זה שירד בתיקון, החלק שירד בתיקון.
+175|13:37|לכן הטמא שהוא מינוס מתחבר לגוף שהוא מינוס.
+176|13:40|ואז הנפש הרוחנית, העליונה יכולה להתלבש בזה שהיא נדבקת
+177|13:46|לנפש הטמאה, שיצאים את אותן תכונות רוחניות.
+178|13:50|יכול להיות, אני אשמח לראות את זה, כולנו נשמח לראות את זה כתוב עם מקור
+179|13:55|בקבוצה, כדי לדעת שזה באמת החלק של הנפש הטמאה, כי אני לא רואה פה שהוא
+180|14:01|מציין הנפש הטמאה.
+181|14:03|לא, אבל למדתי את זה ברפואת הרמב״ם לפני הרבה שנים אצל הרב משה, אני לא זוכר כאן על התפרקת
+182|14:09|שלו, מוצפת.
+183|14:11|מצוין, צריך למצוא את זה במקורות.
+184|14:14|גם אנחנו רוצים.
+185|14:15|כן.
+186|14:17|ממשיך האריזה ואומר, וזה הרביעית דם, הוא היותר מובחר
+187|14:24|מכל ד' בחינות הגוף הנזכרים לעיל, אשר כל חלק נחלק
+188|14:29|לד' כנ"ל.
+189|14:31|והוא רביעית הראשון והעליון מבחינת העצמות של המוח...
+190|14:37|העצמות של המוחין, או העצמות של המוחין, שהוא החיות
+191|14:42|שבתוכו, שהוא הדם המתפשט בהם לאחיותם, ובזה הרביעית שבדם העליון
+192|14:48|כלול כל שורשי ד' בחינות הנעל, באופן כי הוא בחינת אמצעי
+193|14:54|בין הרוחניות אל הגוף, והיא מורכבת משניהם.
+194|15:00|בואו נראה מה מוסיף לנו על זה הרב אשלג,
+195|15:06|לא הרבה.
+196|15:07|אומר לנו בחינת נפש שבנפש, אות נון באור פנימי, כי גם
+197|15:13|הנפש, כי גם נפש, יש לה לעצמה לבדה, מה שאמרנו ד' בחינות.
+198|15:20|חוכמה ובינה, תפארת ומלכות.
+199|15:23|המתפשטים מן מלכות עצמה.

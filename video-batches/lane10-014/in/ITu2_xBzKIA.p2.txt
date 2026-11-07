@@ -1,0 +1,64 @@
+videoId: ITu2_xBzKIA
+parte 3 de 22 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: o Keter e a Bechiná intermediária
+RESUMO: A aula conclui o capítulo 5 da parte 3 do Talmud Eser HaSefirot com a ideia de que entre cada bechiná e outra existe uma bechiná intermediária que inclui as duas. Entre o Criador e a criatura está o nível "Avot hen HaMerkavá"; entre a espiritualidade e o corpo está a "revi'it dam shebanefesh"; entre o corpo e as vestes estão cabelos e unhas, citando Adam HaRishon e Nevuchadnetsar (Daniel 4:30). No capítulo 6, o Arizal ensina que o Keter contém o ícone de duas partes, centelha criadora e centelha criada, e que só há quatro bechinot (Chochmá, Biná, Tiferet, Maljut), correspondentes às quatro letras do nome HaVaYaH; a Chochmá é chamada "reshit" (Tehilim 111:10). Explica-se que o Keter às vezes não é contado entre as dez sefirot, como a coroa sobre a cabeça do rei, e que o Ramban (Bereshit 1:2) fala do "hyuli" e do tohu vavohu. O Keter é chamado "tohu" por conter em potencial, e não em ato, as raízes das quatro formas. A aula termina explicando como a luz direta, ao encontrar o masach da Maljut do rosh, devolve a luz refletida, que forma "raízes de vasos", e só depois da expansão abaixo do masach surgem vasos completos no guf.
+MOMENTOS: 00:53 Introdução e títulos do capítulo 5 · 02:50 Há sempre bechiná intermediária entre superior e inferior · 04:25 Quatro bechinot dentro de cada bechiná do ser humano · 06:47 Avot hen HaMerkavá e a bechiná que liga espiritualidade e corpo · 08:00 Centelha criadora e criada; Maljut vira Keter inferior · 11:03 Revi'it dam shebanefesh entre alma e corpo · 18:01 Cabelos e unhas entre corpo e vestes · 23:14 Capítulo 6: o Keter contém duas bechinot · 26:50 Só há quatro bechinot; Chochmá é a primeira · 31:41 Keter contado ou não, como coroa do rei; Ramban · 38:52 Tohu vavohu e a transição entre Atzilut e Briá · 43:03 Infinito como "efes"; tohu contém as formas em potencial · 51:52 Luz direta, masach, raízes de vasos e vasos completos · 59:55 Rosh e guf de Atzilut e o novo zivug para Briá
+FONTES CITADAS: 02:50 Arizal, Etz Chaim: bechiná intermediária · 06:47 Tehilim 82:6 · 06:47 Avot hen HaMerkavá · 12:41 Devarim 12:23 · 13:07 Pidyon nefesh · 20:41 Daniel 4:30 · 05:06 Vestes do Cohen Hedyot · 28:11 Tehilim 111:10 · 32:00 Sefer Yetzirá · 33:40 Ramban em Bereshit 1:2 · 33:51 Sefer HaBahir · 34:21 Yeshayahu 40:17 · 38:52 Bereshit 1:2 · 50:01 Tohu e o valor numérico de tav
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|05:57|בעניין.
+69|05:59|אות ג', בין כל בחינה ובחינה, יש בחינה ממוצעת
+70|06:06|הכוללת שתיהן.
+71|06:11|כלומר, העניין פה הוא להבין מה זה הבחינה הממוצעת הזאת,
+72|06:17|לענייננו.
+73|06:18|בסדר ההשתלשלות, כן, יש לנו עליון, יש לנו תחתון, ביניהם יש בחינה
+74|06:24|ממוצעת.
+75|06:25|שואל יובל בצ'אט, איך נגדיר את היחידה?
+76|06:29|שורש, כתר, כפשטותו.
+77|06:33|קויח לקוצו של יוד?
+78|06:36|גם קוצו של יוד.
+79|06:38|קויח לבחינה של חומר אתרי?
+
+LINHAS A TRADUZIR:
+80|06:40|חומר היולי, הוא קורא לו.
+81|06:42|כן.
+82|06:46|כן, בהחלט.
+83|06:47|עוד ד', הכותרת, בין בורא לנברא, שהוא הרוחניות שבאדם,
+84|06:54|יש בחינה באמצע שעליה נאמר בנים אתם להשם אלוקיכם
+85|07:00|אלוקים אתם האבות הן המרכבה ושוב עברנו על זה בפעם
+86|07:06|שעברה והבנו שיש בחינה שהיא בין אדם לאלוקים או בין
+87|07:12|גשמיות לרוחניות שהיא נקראת האבות הן המרכבה מפני שמרכבה מלשון השראה
+88|07:18|שהרוחני משרה את עצמו על הגשמי וזה גם
+89|07:24|העניין שכתוב בנים אתם להשם, וגם כתוב אלוקים אתם, שיש את הבחינה
+90|07:30|הממוצעת הזאת בתוך כל נברא, שהיא מקשרת בין הרוחניות שלו
+91|07:36|לגשמיות שלו.
+92|07:37|הבחינה הממוצעת נקראת אלוהים?
+93|07:41|הבחינה הממוצעת נקראת פה, בציטוט הזה שהוא מביא, נקראת אלוקים,
+94|07:47|כן.
+95|07:50|כן.
+96|07:52|שהם המרכבה, אות ה גם כן עשינו פעם שעברה,
+97|07:58|הכותרת אומרת, הבחינה הממוצעת כלולה מבית ניצוצין,
+98|08:05|מניצוץ בורא המתלבש בניצוץ נברא שבו שורשי
+99|08:10|נרנח שבאדם.
+100|08:14|אנחנו נלמד גם בהמשך וגם למדנו פה באות ה
+101|08:20|שהכתר יש בו ניצוץ בורא וניצוץ נברא,
+102|08:26|שזה גם נקרא תוהו ובוהו, וזה גם נקרא פה
+103|08:35|עין, עני ועין, ובכל מקרה יש בכתר את הבחינה
+104|08:41|העליונה שלו, שזה הממוצע, ואת הבחינה התחתונה שלו, שזה כבר השורש
+105|08:46|לארבע בחינות שלו.
+106|08:50|זה אומר שהיחידה זה הבחינה
+107|08:57|הממוצעת?
+108|08:59|לא, זה אומר שמעל היחידה יש בחינה ממוצעת, שהיחידה היא כבר שורש לארבע
+109|09:04|הבחינות של נפש רוח, נשמה, חיה, ומעל
+110|09:10|היחידה יש ניצוץ שנקרא ניצוץ בורא, שהוא הבחינה
+111|09:16|הממוצעת.
+112|09:18|זה הניצוץ הנברא.
+113|09:20|אז הניצוץ נברא זה היחידה.
+114|09:24|אוקיי.
+115|09:27|כן, ומוסיף לנו עוד עניין באות וו.
+116|09:33|איזה משיחה על העניין הזה?
+117|09:35|כן.
+118|09:36|בעולמות, בין מאצל למעציל, מה יקנה לנו
+119|09:41|כאן?

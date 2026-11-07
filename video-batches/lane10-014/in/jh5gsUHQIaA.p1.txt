@@ -1,0 +1,144 @@
+videoId: jh5gsUHQIaA
+parte 2 de 6 · traduzir as linhas 120 a 239 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Alma, corpo, veste e casa: Talmud Eser Sefirot, parte 3
+RESUMO: A aula estuda o capítulo 8 da parte 3 do Talmud Eser Sefirot e o Or Pnimi, que compara as dez sefirot com o homem: Chochmá é a alma, Biná é o corpo, Zeir Anpin é a veste e Malchut é o palácio, enquanto Keter é a raiz de tudo. O rabino explica que, nos kelim, o limite e a medida só aparecem a partir de Biná, porque Chochmá nasce com o desejo de receber sem iniciativa própria e por isso conta como luz. Cita o dito dos Sábios sobre as quatorze vestes, o versículo "HaShem reinou, de grandeza se vestiu" (Tehilim 93:1), o Pirkei Heichalot e os sete Heichalot, e explica que cada bechiná tem dez sefirot e que o Keter de cada nível é a raiz das demais. Mostra pelo desenho da página 190 que Adam Kadmon é a raiz dos mundos e que a mesma estrutura se repete dentro de Atzilut. Depois explica que Briá é um "carimbo" de Atzilut que passa pelo masach, chamado "chão", e que o que desce é apenas luz derivada, o que leva à diferença entre nomear pelo parâmetro de NaRaNChaY e pelo parâmetro do homem, e à tabela de 15 parâmetros da página 192. Termina com a diferença entre o or makif que bate no masach e a luz que o perfura.
+MOMENTOS: 00:00 Alma, corpo, veste e casa nas dez sefirot · 01:34 Quatro letras de HaVaYaH e os quatro mundos ABYA · 04:08 Em Shabat os mundos se vestem uns aos outros · 05:11 Em Atzilut: Chochmá é alma e Biná é corpo · 08:05 Os kelim receptores só começam em Biná · 12:26 Zeir Anpin como veste: quatorze vestes e a veste de grandeza · 14:49 O que a divisão ensina: o que se separa e o que não · 17:35 Vestes nos lares e as sete Heichalot · 23:57 Cada bechiná tem dez sefirot e Keter é a raiz · 29:43 Desenho: Adam Kadmon como raiz dos mundos · 36:36 Briá é carimbo de Atzilut: o masach como chão · 42:48 Parâmetro de NaRaNChaY versus parâmetro do homem · 47:05 Tabela de 15 parâmetros na página 192 · 52:16 Or makif que bate no masach versus o que o perfura
+FONTES CITADAS: 00:19 Talmud Eser Sefirot, parte 3, cap. 8 · 01:34 Talmud Eser Sefirot, parte 3, cap. 8, item 1 · 03:17 Talmud Eser Sefirot, parte 3, cap. 8, item 2 · 04:08 Talmud Eser Sefirot, parte 3, cap. 8, Or Pnimi item 1 · 05:11 Talmud Eser Sefirot, parte 3, cap. 8, item 3 · 06:12 Talmud Eser Sefirot, parte 3, cap. 8, Or Pnimi item 2 · 06:53 Talmud Eser Sefirot, parte 3, cap. 8, item 4 · 07:55 Pirkei HaHeichalot e Shiur Komá (Talmud Eser Sefirot) · 12:26 Talmud Eser Sefirot, parte 3, cap. 8, item 5 · 12:51 Dito dos Sábios: quatorze vestes · 13:01 Tehilim 93:1 · 13:06 Pirkei HaHeichalot · 13:23 Talmud Eser Sefirot, parte 3, cap. 8, item 5 · 13:29 Talmud Eser Sefirot, parte 3, cap. 8, item 5 · 17:35 Talmud Eser Sefirot, parte 3, cap. 8, item 6 · 18:16 Shemot 28 (vestes do Cohen) · 19:22 Talmud Eser Sefirot, parte 3, cap. 8, item 6 · 22:25 Talmud Eser Sefirot, parte 3, cap. 8, item 7 · 22:51 Zohar: céu, terra e ar · 24:27 Talmud Eser Sefirot, parte 3, cap. 8, item 8 · 24:52 Talmud Eser Sefirot, parte 3, cap. 8, item 8 · 30:21 Talmud Eser Sefirot, parte 3, desenho da p. 190 · 35:08 Talmud Eser Sefirot, parte 3, cap. 8, Or Pnimi item 8 · 36:42 Talmud Eser Sefirot, parte 3, cap. 8, item 9 · 38:11 Talmud Eser Sefirot, Or Pnimi (definição de masach) · 39:45 Talmud Eser Sefirot, parte 3, cap. 8, Or Pnimi item 7 · 47:05 Talmud Eser Sefirot, parte 3, p. 192, desenho 2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|11:14|ואחר כך היא עושה מסך וצמצום על עצמה.
+109|11:18|אז יוצא שהכלים המקבילים מתחילים מבינה ולמטה.
+110|11:36|אמנם מבחינה א', שהוא חוכמה שנקראת נשמה,
+111|11:44|אינה נחשבת לכלי.
+112|11:49|זה שאומר הרב כי עשר ספירות דגוף הן נקראות עשר מידות.
+113|11:55|משום שמבחינה ב', מתחילים הכלים העושים גבול ומידה.
+114|12:04|מה שאין כן עשר ספירות זה נשמע עדיין ובחינה א', שנקראת חוכמה אין בה מידה כלל.
+115|12:11|כי בחינה א' אינה נחשבת לאוויות מטעם שהרצון לקבל נולד עם האור ללא שום יוזמה
+116|12:17|מצידו.
+117|12:18|ועל כן אין בה בחינת כלי ומידה.
+118|12:26|אות ה' והגוף דאצילות מלובש בלבושי
+119|12:35|והוא זרמפין המלביש את
+
+LINHAS A TRADUZIR:
+120|12:36|תמיד.
+121|12:46|וגוף הזה מלובש תוך לבושי האצילות.
+122|12:51|כמו שאמרו רז"ל, בי"ד לבושים נתלבש הקדוש ברוך הוא.
+123|12:58|אז זה עשר ספירות של זרמפין.
+124|13:01|לבוש של גאווה שנאמר השם הלך גאות לובש.
+125|13:06|זה סוד הנזכר בפרקי החלות, כי שם החלוק של הבורא
+126|13:12|יטבח נקרא זעריה.
+127|13:17|מה זה חלוק?
+128|13:17|לבוש.
+129|13:21|אך בנשמה שבפנים אין מידה
+130|13:23|כלל.
+131|13:29|אמנם בערך האינסוף, כלומר בערך הכתר.
+132|13:35|נוכל לכנות בשם מידות וספירות גם אל הנשמה, אות ה', כלומר,
+133|13:41|שבערך כתר שנקרא אינסוף, נבחנת גם חוכמה שיש בה
+134|13:47|עוביות.
+135|13:50|כי באינסוף אין בו מרצון לקבל ולא כלום.
+136|13:58|מה זה האינסוף?
+137|13:59|הכתר, הרצון להיטיב לנבריו.
+138|14:02|אז אין שם בכלל רצון לקבל.
+139|14:05|והחוכמה מכונה בשם בחינה א', עכשיו היא בחינה ראשונה של
+140|14:11|הנברא.
+141|14:13|זה אומר בערך הכתר נבחן שהחוכמה יש בה
+142|14:19|הגבלה.
+143|14:40|האם זה ברור או שיש שאלות?
+144|14:46|יש לי שאלה.
+145|14:47|כן.
+146|14:49|אנחנו עד עכשיו למדנו חלוקה של פרצופים בכל עולם.
+147|14:54|מה אומרת החלוקה הזאת בעצם?
+148|14:58|מה המהות שלה שזה מתחלק בצורה כזאת עכשיו?
+149|15:04|הוא מסביר את זה בהמשך.
+150|15:08|אבל על פניו, צריך קצת
+151|15:11|לחשוב.
+152|15:15|בגשמיות.
+153|15:18|הנשמה של האדם מלובשת בתוך הגוף.
+154|15:24|האם ניתן להפריד ביניהם?
+155|15:29|אם מפרידים אז הם מוות.
+156|15:33|אז כל זמן שהאדם חי, הנשמה שלו היא בתוך הגוף.
+157|15:40|בין הגוף לבין הבגדים אפשר להפריד?
+158|15:43|בהחלט שכן.
+159|15:46|בין הבגדים לבין הבית אפשר להפריד?
+160|15:49|בהחלט שכן.
+161|15:52|אז אם כן, זה מה שבאות עשר הספירות הללו לומר.
+162|15:58|שהעשר הספירות מתחלקות לשתיים.
+163|16:01|שורש, נשמה, גוף.
+164|16:06|זה יחידה אחת.
+165|16:09|יש את השורש של הנשמה, שזה הכתר.
+166|16:14|אז זה יחידה אחת.
+167|16:18|ואחר כך לבוש והיכל, זה יחידה אחרת.
+168|16:22|אז זה בא לקבע את הצמצום ב', שמפריד בין
+169|16:29|כלים דה השפעה לכלים דה קבלה.
+170|16:32|שכלים דה השפעה זה כתר חוכמה בינה.
+171|16:36|שזה שורש נשמה גוף.
+172|16:39|שלא ניתנות להפרדה.
+173|16:42|בלבוש והיכל הם כלים דקבלה שעל ידי הצמצום ב' הם יצאו
+174|16:48|לבר מהמדרגה, יצאו לחוץ
+175|16:51|מהמדרגה.
+176|16:58|זה מה שהעשר ספירות הללו באות לומר.
+177|17:08|אז כשאני אומר גוף זה מתייחס רק לגרדי בינה ולא לזדי בינה?
+178|17:12|גוף זה
+179|17:12|בינה.
+180|17:18|לא נכנסי פרטים.
+181|17:21|קטע חוכמה בינה, לא נכנסי פרטים.
+182|17:31|עוד ו'.
+183|17:35|הלבושים שוכנים תוך הבתים.
+184|17:39|מה זה בתים?
+185|17:40|שם זין היכלות האצילות, שם המלכות.
+186|18:06|אז עכשיו בהיכלות הוא אומר שבע אבחנות.
+187|18:10|זין נחלות.
+188|18:12|אבל גם בלבושים הוא אמר אבחנות.
+189|18:16|מה כולה אנחנו שכחנו, אבל בפרק ה' הוא אמר שיש לכהן
+190|18:22|ארבעה לבושים, ולכהן גדול יש שמונה לבושים.
+191|18:28|אז גם בלבושים יש אבחנות.
+192|18:32|בכל דבר יש אבחנות.
+193|18:36|וכללותם יחד נבחן.
+194|18:39|שאדם העליון שהוא נשמה מלובשת בגוף
+195|18:45|והגוף בלבושים נתון בהיכל המלך
+196|19:10|אז כאילו כל זה זה אדם, חכמה בינה תפארת
+197|19:15|ומלכות זה אדם, אדם העליון.
+198|19:22|והנה המלבושים האלה הם בתוך בחינת הבתים, שם
+199|19:28|זין נחלות האצילות, שם בחינת העולם
+200|19:34|בעצמו, שם השמיים והארץ והאוויר שביניהם.
+201|19:46|אז כאילו אומר זין נחלות זה העולם בעצמו כי כל זה מבחינת
+202|19:51|הבתים כאילו העולם בעצמו הוא בית
+203|20:02|והם נקראים עולם האצילות אשר בתוכו יושב אדם העליון
+204|20:09|שהוא נשמה וגוף ולבושי מלכות
+205|20:16|נתונים בהיכל מלך עליון, שזה כללות עולם האצילות.
+206|20:31|דלת הבחירות.
+207|20:34|כן.
+208|20:37|למדנו שבאור פנימי נ', למדנו שהנקודה, את האצילות, כאילו
+209|20:43|זה היה מ...
+210|20:44|המלכות והאצילות זה אחד, נקראתי כבר.
+211|20:47|רגע, רגע, רק רגע.
+212|20:49|רק רגע.
+213|20:51|מה זה אופני מינון?
+214|20:55|פרק קודם, פרק זה.
+215|20:56|בעמוד קפ"א, שהוא מסביר פה בנון
+216|21:02|באיזה עוד...
+217|21:08|נראה לי עוד זין באותו פרק.
+218|21:11|כן, אז מה את רוצה לשאול?
+219|21:14|אז אני רוצה לשאול, עכשיו אנחנו לומדים שיש שבע היכלות ולמדנו
+220|21:19|שהמלכות לאצילות היא נקראת היכל, אז כמה היכלות יש
+221|21:24|באצילות?
+222|21:25|לא אחד?
+223|21:29|יש בהבחנה שזין היכלות.
+224|21:37|בתוך ההיכל הזה?
+225|21:39|בתוך ההיכל הזה יש הבחנה שזין היכלות.
+226|21:43|אה, אוקיי, תודה.
+227|21:52|זאת אומרת, בכל דבר יש הבחנות.
+228|21:56|גם מהנשמה יש הבחנות.
+229|21:59|גם בגוף יש הבחנות, כמו שהוא אמר לנו.
+230|22:03|שיש בגוף...
+231|22:04|אבל זה הולך ומתפרט.
+232|22:06|כן, יש בגוף ראש, ידיים וכולי.
+233|22:09|אבל זה תמיד מתחלק לשבע?
+234|22:12|כן.
+235|22:13|מתפרט לשבע?
+236|22:15|כן.
+237|22:25|ד' הבחינות, נשמה גוף לבושיכה,
+238|22:33|הם סוד חוכמה ובינה, תפארת ומלכות.
+239|22:38|וכתר הוא חמישי אלים, שבו שורשי ד' בחינות,

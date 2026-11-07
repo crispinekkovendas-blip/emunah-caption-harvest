@@ -1,0 +1,64 @@
+videoId: ITu2_xBzKIA
+parte 20 de 22 · traduzir as linhas 760 a 799 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: o Keter e a Bechiná intermediária
+RESUMO: A aula conclui o capítulo 5 da parte 3 do Talmud Eser HaSefirot com a ideia de que entre cada bechiná e outra existe uma bechiná intermediária que inclui as duas. Entre o Criador e a criatura está o nível "Avot hen HaMerkavá"; entre a espiritualidade e o corpo está a "revi'it dam shebanefesh"; entre o corpo e as vestes estão cabelos e unhas, citando Adam HaRishon e Nevuchadnetsar (Daniel 4:30). No capítulo 6, o Arizal ensina que o Keter contém o ícone de duas partes, centelha criadora e centelha criada, e que só há quatro bechinot (Chochmá, Biná, Tiferet, Maljut), correspondentes às quatro letras do nome HaVaYaH; a Chochmá é chamada "reshit" (Tehilim 111:10). Explica-se que o Keter às vezes não é contado entre as dez sefirot, como a coroa sobre a cabeça do rei, e que o Ramban (Bereshit 1:2) fala do "hyuli" e do tohu vavohu. O Keter é chamado "tohu" por conter em potencial, e não em ato, as raízes das quatro formas. A aula termina explicando como a luz direta, ao encontrar o masach da Maljut do rosh, devolve a luz refletida, que forma "raízes de vasos", e só depois da expansão abaixo do masach surgem vasos completos no guf.
+MOMENTOS: 00:53 Introdução e títulos do capítulo 5 · 02:50 Há sempre bechiná intermediária entre superior e inferior · 04:25 Quatro bechinot dentro de cada bechiná do ser humano · 06:47 Avot hen HaMerkavá e a bechiná que liga espiritualidade e corpo · 08:00 Centelha criadora e criada; Maljut vira Keter inferior · 11:03 Revi'it dam shebanefesh entre alma e corpo · 18:01 Cabelos e unhas entre corpo e vestes · 23:14 Capítulo 6: o Keter contém duas bechinot · 26:50 Só há quatro bechinot; Chochmá é a primeira · 31:41 Keter contado ou não, como coroa do rei; Ramban · 38:52 Tohu vavohu e a transição entre Atzilut e Briá · 43:03 Infinito como "efes"; tohu contém as formas em potencial · 51:52 Luz direta, masach, raízes de vasos e vasos completos · 59:55 Rosh e guf de Atzilut e o novo zivug para Briá
+FONTES CITADAS: 02:50 Arizal, Etz Chaim: bechiná intermediária · 06:47 Tehilim 82:6 · 06:47 Avot hen HaMerkavá · 12:41 Devarim 12:23 · 13:07 Pidyon nefesh · 20:41 Daniel 4:30 · 05:06 Vestes do Cohen Hedyot · 28:11 Tehilim 111:10 · 32:00 Sefer Yetzirá · 33:40 Ramban em Bereshit 1:2 · 33:51 Sefer HaBahir · 34:21 Yeshayahu 40:17 · 38:52 Bereshit 1:2 · 50:01 Tohu e o valor numérico de tav
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+748|55:38|הד' בחינות של אור ישר האלה מגיעות למלכות, הן לא יכולות להיכנס למלכות, זאת אומרת אין להן
+749|55:44|כלי, ולכן אין תפיסה באור הזה עדיין.
+750|55:48|אחרי שהן מגיעות למלכות והן פוגשות את המסך, מוחזר האור חוזר, שהוא הופך להיות
+751|55:54|עכשיו הכלי, ומלביש את האור ישר.
+752|55:57|אלא שזה רק נקרא שורשי כלים.
+753|56:00|למה?
+754|56:01|כי אין עוביות עולה מעל המסך.
+755|56:04|ולכן יש לנו עכשיו אור ישר שמולבש בשורשי כלים.
+756|56:10|אבל מכיוון שכל מה שהתחתון השפיע על העליון, אותה המלכות מקבלת
+757|56:15|בתוכה גם את האור חוזר וגם את האור ישר, היא מקבלת בתוכה
+758|56:21|ומתפשטת מנה ובה לעשר ספירות גם כן, שהן נקראות שבע
+759|56:27|הספירות של הגוף, והעזה אנחנו מבינים שיש לנו בעצם
+
+LINHAS A TRADUZIR:
+760|56:33|מלכות של הראש, שמעליה יש שורשי כלים, ומלכות של הגוף שבה יש
+761|56:39|כלים גמורים, ואז יש לנו ראש וגוף ויש לנו קומה שלמה.
+762|56:46|ומי שלא הבין את מה שאני אמרתי, צריך לחזור בחזרה לחלק א'.
+763|56:50|לא, אבל צריך להגיד שאחר כך אסף מזדקך ומתחיל לעולם הבא.
+764|56:56|בסדר, זה למדנו בנפרד חבר'ה, לא לברבה פה את העניינים.
+765|57:00|זה מה שהוא חיפש, אני די הבנתי.
+766|57:03|אז רפאל אומר, מה שאתה מחפש יובל, זה העניין הזה שאנחנו
+767|57:09|אמרנו, שעולם אצילות מוליד.
+768|57:12|כן, עשר ספירות מתחת למסך שלו, זה כבר אחרי הזדככות שהן עשר ספירות דבריאה,
+769|57:18|זה כבר אחרי הזדככות המסך, אחרי יציאת כל הסיפור הזה שאמרנו באצילות,
+770|57:25|והזדככות המסך מדלת לגימל, ועכשיו יש לי זיווג חדש בכלל לא
+771|57:30|קשור לאצילות.
+772|57:33|והוא עבור, הזיווג הזה, הוא עבור עשר ספירות דבריאה.
+773|57:40|הלכה לגמרי על כל הדרך, ואני דווקא הבנתי שהירידה מתחת למסך היא המקום
+774|57:45|של הגמר כלים הוא במקום של ההשפעה, ההשפעה לעולם
+775|57:51|שמתחת.
+776|57:52|לא, לא, לא שייך, זה לחבר שני דברים לא שייכים.
+777|57:57|אוקיי, ועדיין לא הבנתי את העניין הזה שאתה מדבר, זאת אומרת יש לו קיצור במילים שאתה אומר את
+778|58:03|החברים, זאת אומרת יש את הירידה, הגיע אור לעולם העצירות, מעולם
+779|58:09|ה...
+780|58:11|אני לא מבין רגע, שנייה, אבל מה כל הרעשים האלה ברקע?
+781|58:14|או שתסגרו, זה, אני עוד לא אכלתי, אז אתם יודעים, גבר הוא עצבני, או שהוא
+782|58:20|עייף, או שהוא רעב, זה מאוד פשוט.
+783|58:23|אם הוא מרוקאי, זה בכלל כפל כפליים.
+784|58:25|כן.
+785|58:27|כמה מזל אתה לא.
+786|58:28|גם אם הוא הונגרי.
+787|58:31|כן.
+788|58:32|מה שאני שואל כאן זה ככה, מגיע אור ישר סרסי כלים, מגיע למלכות באצילות, פוגש
+789|58:38|את המסך, פוגש את המסך, האור עולה, מלביש את האור ישר, ואז
+790|58:44|אנחנו מקבלים גמר הכלים.
+791|58:46|ואז אנחנו מקבלים את הראש של אצילות, אם אתה מסתכל לתוך
+792|58:51|אצילות.
+793|58:53|זאת אומרת, ברגע שזה עולה עד הסוף, עד החוכמה באצילות, שזה שם הראש באצילות
+794|58:58|למעשה, שם נגמרים הכלים?
+795|59:01|לא, זה שורשי כלים עדיין.
+796|59:04|האור החוזר שעולה למעלה זה שורשי כלים?
+797|59:07|בוודאי.
+798|59:08|אור חוזר שעולה ממטה למעלה אין לו אוביות, אז הוא נחשב לשורשי כלים.
+799|59:16|ומתי זה כלים?

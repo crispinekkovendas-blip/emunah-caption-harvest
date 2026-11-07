@@ -1,0 +1,88 @@
+videoId: docLsFzbPLg
+parte 4 de 4 · traduzir as linhas 360 a 423 (64 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Tikunei HaZohar 14: Torá de Briá e Torá de Atzilut
+RESUMO: O rabino explica que HaShem conduz o mundo por meio de Seus nomes, sendo o nome de quatro letras (Havaya) a raiz de todos, com o qual o mundo foi criado, conforme "Ki b'Yah HaShem tzur olamim". Havaya é o "pilar do meio": entre a bondade ilimitada e o rigor severo, a verdade, que une os dois lados, é a conduta preferida, e Korach, ao exigir a medida extrema da verdade, foi consumido. Ele mostra que o trono (kisé) é o mundo da Briá, onde surge o nome Elokim, e que por isso a Torá diz "Bereshit bara Elokim", pois a Torá, que é "reshit", criou o trono. As almas vêm quase todas da Briá, onde há dinâmica de rigor a adoçar, e por isso precisam de tikun. Em seguida distingue a Torá de Briá ("HaShem kanani reshit darko"), com divergências, da Torá de Atzilut ("Torat HaShem temimá"), completa e sem divergência, que é a Cabalá. Conta que Moshe trocou a Torá de HaShem por uma Torá de homem para recebê-la e que Rabi Shimon bar Yochai, ao partir, revelou o segredo da Torá aos discípulos, e conclui que quem estuda Mishná e Guemará é servo e quem estuda Cabalá é filho, com o rigor e as dificuldades dando lugar ao amor no fim.
+MOMENTOS: 00:02 A conduta de HaShem pelos nomes; o nome de quatro letras · 01:31 Três formas de conduzir o mundo: chesed, din e o meio · 03:50 A verdade como pilar do meio · 04:42 Korach e a medida extrema da verdade · 06:37 O trono, o mundo da Briá e o nome Elokim · 07:01 Bereshit versus reshit: a Torá criou o trono · 09:39 As almas vêm da Briá e precisam de tikun · 10:31 Torá de Briá e Torá de Atzilut · 12:41 Torat HaShem temimá: sem divergência · 15:26 Zichri e shemi: 248 membros e 365 proibições · 19:25 Moshe sobe ao céu e troca a Torá · 21:42 Rabi Shimon bar Yochai revela os segredos · 23:40 Servos e filhos; amor ao final das dificuldades
+FONTES CITADAS: 00:49 Tikunei Zohar 14 · 01:12 Yeshayahu 26:4 · 01:26 Tikunei Zohar 14 · 03:58 Tehilim 85:12 · 04:37 Midrash Tanchuma, Korach · 04:50 Midrash Tanchuma, Korach 2 · 06:26 Bamidbar 16:35 · 06:37 Tikunei Zohar 14 · 07:03 Bereshit 1:1 · 07:13 Tikunei Zohar 14 · 11:47 Tehilim 109:4 · 11:57 Berachot 35b · 10:31 Tikunei Zohar 14 · 12:20 Mishlei 8:22 · 12:43 Tehilim 19:8 · 13:48 Devarim 18:13 · 14:05 Bereshit 25:27 · 15:00 Devarim 14:1 · 15:29 Shemot 3:15 · 17:06 Makot 23b · 17:13 Shemot 20:2-3 · 17:52 Shabat 105a · 18:51 Bamidbar 19:14 · 19:36 Shabat 88b-89a · 19:36 Tehilim 8:5 · 20:23 Shabat 89a · 21:46 Zohar III 287b (Idra Zuta) · 22:16 Zohar III 287b (Idra Zuta) · 23:16 Mishlei 3:35 · 23:21 Avot 6:3 · 24:25 Tikunei Zohar 14 · 25:02 Tikunei Zohar 14 · 25:47 Tikunei Zohar 14 · 26:01 Avot 4:9
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|21:51|ואני מפחד לגלות מה זה האמת של התורה, מה זה תורת השם.
+349|21:56|אני יכול לגלות לכם תורת אדם, תורת השם אסור לי.
+350|22:01|אבל אני חייב, כי אני עבדתי על המלאכים שהייתי בגלגול של משה.
+351|22:06|ועכשיו אני חייב לגלות את האמת.
+352|22:10|ואז משה רבנו, רבי שמעון בר יוחאי, אמר להם,
+353|22:16|אנא מצטפינה דלע
+354|22:22|אי עולמי לבושה, הכוונה לעולם האמת.
+355|22:29|ואני מוכן נגנות לכם בתנאי שתהיו במדרגה כזו שאתם ראויים בה.
+356|22:38|ואז מואחז בהם, הם עלו באוויר,
+357|22:43|כל התלמידים שלו, היו לו שבעה תלמידים, עלו באוויר, שלא יתפס אותם
+358|22:50|מזיקים, ובאוויר לימד אותם את הסודות של
+359|22:55|התורה.
+
+LINHAS A TRADUZIR:
+360|22:57|זה הקבלה.
+361|22:58|כל הקבלה.
+362|23:00|בעצם זה תורת השם, תורת האצילות, נקראת תורת האצילות.
+363|23:06|ושאר מתורת האדם, זה מה שעכשיו אני קורא,
+364|23:13|זה תורת אדם.
+365|23:16|ובגין דא כבוד חכמים נלחנו.
+366|23:20|אלה כן, זה בני אדם.
+367|23:21|וכמו הרבנן דמת ניתין, אין כבוד אלא תורה.
+368|23:26|ואי כבוד נברא.
+369|23:29|יש כמה סוגי כבוד.
+370|23:31|יש כבוד נברא, ויהי כבוד נאצל, ויש כבוד שהוא נאצל,
+371|23:39|שיותר גבוה.
+372|23:40|מסתרה דאורייתא דבריאה, אתמר בישראל כאילו בני ישראל עבדים.
+373|23:47|ומסתרה דאצילות בנים אתם להשם.
+374|23:51|יש עם ישראל שהם עבדים, ויש ישראל שהם בנים.
+375|23:57|בעבדים זה שלומדים משנה, גמרא.
+376|24:00|אלה עבדים.
+377|24:03|אבל אם לומדים קבלה, נקראים בנים.
+378|24:08|בנים להשם.
+379|24:12|ולאלה על כלה אילת, על כל הדלת אלוהי עליה.
+380|24:16|ויש למעלה אצילות, אין מעל זה משהו.
+381|24:20|אין כלום.
+382|24:20|ויש אלוהות גמור.
+383|24:22|ולאו תחוטא, ולאו לארבעה סדרי עלוה.
+384|24:25|אין כלום מסביבו.
+385|24:28|תחתיו, מעליו, כלום.
+386|24:30|ויהיו ממלא כל העלמין.
+387|24:32|הוא ממלא את כל העולמות.
+388|24:34|אין מקום פנוי ממנו.
+389|24:37|הכל הוא, יתברך.
+390|24:40|ויהיו ממלא כל העלמין.
+391|24:42|ויהיו אסחר והוא סובב כל העלמין.
+392|24:47|ממלא ופנימי לכולם והוא גם סביב לכולם.
+393|24:53|הוא הכל.
+394|24:55|הוא מקבל בייסורים ומראים ומחווים ודחילו דמראה.
+395|25:02|מי שמקבל את הייסורים, בן אדם שמקבל ייסורים
+396|25:08|וכל מיני מכאובים, אהבה בסופה, יש אהבה בסוף.
+397|25:14|כי גוונדיו כמו אמרי מתנתים, כמו שמסבירים את זה אנשי החכמים, על אילין
+398|25:20|מראי קושיין מחלוקות.
+399|25:23|אלה ש...
+400|25:24|מה זה הקושיות בגמרא?
+401|25:27|זה הייסורים, זה הקליפות.
+402|25:30|ולכן רק על ידי איסורים אפשר להביא דברים כאלה.
+403|25:33|בלי איסורים אפשר להביא דברים כאלה.
+404|25:36|נתבהם בסופה.
+405|25:38|וכמו, מה זה בהם?
+406|25:39|אהבה.
+407|25:41|בסופה זה הסוף.
+408|25:42|בסוף יש אהבה.
+409|25:44|דמד אהבת לא שכינת הסוף.
+410|25:46|כל דרגיל.
+411|25:47|קושייה ודין מסדרת גבורה.
+412|25:51|הקושיות.
+413|25:52|מאיפה באים הקושיות?
+414|25:53|מצד הגבורה.
+415|25:55|אבל על ידי איסורים, הקליפות נפרדים.
+416|26:01|חזרת נו לאהבה בסדרת ימינה אהבת חסד וגינדה כל המקיים את התורה מעוני
+417|26:08|סופו לקיימה בעושר והיהו אהבה בסופה לכל
+418|26:14|מנדלו מקיימנה מעושר קבינה מעוני זהו זה הצד בסוף אם אדם
+419|26:20|מקיים את התורה מעוני בסוף עתיד לקיים אותה בעושר עד כאן מי שיש לו
+420|26:25|שאלות לגבי הלימוד שלמדנו כי למדנו על דרגת ארבע מדרגות כשנקרא מביע,
+421|26:32|אצילות בריאה, יצירה, עשייה, למדנו על שמות, איך הם שמות אלוקים בשם
+422|26:38|הוויה, איך הם מנהיגים את העולם.
+423|26:42|עד כאן ברוך ה' לעולם, אמן ואמן.

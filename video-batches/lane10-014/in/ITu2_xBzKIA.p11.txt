@@ -1,0 +1,64 @@
+videoId: ITu2_xBzKIA
+parte 12 de 22 · traduzir as linhas 440 a 479 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: o Keter e a Bechiná intermediária
+RESUMO: A aula conclui o capítulo 5 da parte 3 do Talmud Eser HaSefirot com a ideia de que entre cada bechiná e outra existe uma bechiná intermediária que inclui as duas. Entre o Criador e a criatura está o nível "Avot hen HaMerkavá"; entre a espiritualidade e o corpo está a "revi'it dam shebanefesh"; entre o corpo e as vestes estão cabelos e unhas, citando Adam HaRishon e Nevuchadnetsar (Daniel 4:30). No capítulo 6, o Arizal ensina que o Keter contém o ícone de duas partes, centelha criadora e centelha criada, e que só há quatro bechinot (Chochmá, Biná, Tiferet, Maljut), correspondentes às quatro letras do nome HaVaYaH; a Chochmá é chamada "reshit" (Tehilim 111:10). Explica-se que o Keter às vezes não é contado entre as dez sefirot, como a coroa sobre a cabeça do rei, e que o Ramban (Bereshit 1:2) fala do "hyuli" e do tohu vavohu. O Keter é chamado "tohu" por conter em potencial, e não em ato, as raízes das quatro formas. A aula termina explicando como a luz direta, ao encontrar o masach da Maljut do rosh, devolve a luz refletida, que forma "raízes de vasos", e só depois da expansão abaixo do masach surgem vasos completos no guf.
+MOMENTOS: 00:53 Introdução e títulos do capítulo 5 · 02:50 Há sempre bechiná intermediária entre superior e inferior · 04:25 Quatro bechinot dentro de cada bechiná do ser humano · 06:47 Avot hen HaMerkavá e a bechiná que liga espiritualidade e corpo · 08:00 Centelha criadora e criada; Maljut vira Keter inferior · 11:03 Revi'it dam shebanefesh entre alma e corpo · 18:01 Cabelos e unhas entre corpo e vestes · 23:14 Capítulo 6: o Keter contém duas bechinot · 26:50 Só há quatro bechinot; Chochmá é a primeira · 31:41 Keter contado ou não, como coroa do rei; Ramban · 38:52 Tohu vavohu e a transição entre Atzilut e Briá · 43:03 Infinito como "efes"; tohu contém as formas em potencial · 51:52 Luz direta, masach, raízes de vasos e vasos completos · 59:55 Rosh e guf de Atzilut e o novo zivug para Briá
+FONTES CITADAS: 02:50 Arizal, Etz Chaim: bechiná intermediária · 06:47 Tehilim 82:6 · 06:47 Avot hen HaMerkavá · 12:41 Devarim 12:23 · 13:07 Pidyon nefesh · 20:41 Daniel 4:30 · 05:06 Vestes do Cohen Hedyot · 28:11 Tehilim 111:10 · 32:00 Sefer Yetzirá · 33:40 Ramban em Bereshit 1:2 · 33:51 Sefer HaBahir · 34:21 Yeshayahu 40:17 · 38:52 Bereshit 1:2 · 50:01 Tohu e o valor numérico de tav
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+428|32:43|שהכתר הוא למעלה מראשו, ואינו מכללות ראשו.
+429|32:48|זה לא אומר שהכתר זה בעצם המלך, אלא הכתר הוא
+430|32:54|אומנם ממליך את המלך, אבל הוא נמצא מעליו.
+431|32:59|ועל כן, ספירת הכתר אינה מכלל הספירה, ובמקומו נמנע
+432|33:04|הדעת.
+433|33:05|לכן גם יש לנו את תנועת חב"ד.
+434|33:10|הם לא קוראים לעצמם תנועת כח"ב.
+435|33:14|יכולים, כח"ב, אולי זה היה פותר את העניינים, אבל הם חב"ד.
+436|33:20|הנזכר בספר היצירה.
+437|33:22|ועם כל זה, לפעמים אנו מונים אותו בכלל הי"ס ספירות, את הכתר.
+438|33:28|והעניין התבהר עם הנ"ל שיש בחינה אמצעית בין כל בחינה ובחינה,
+439|33:34|אמצעית דהיינו ממוצעת, דומה למה שאמרו חכמי הטבע,
+
+LINHAS A TRADUZIR:
+440|33:40|והביאו הרמב"ן ז"ל בתחילת הפסוק, והארץ הייתה
+441|33:46|תוהו ובוהו, וכתב גם כן בשם ספר
+442|33:51|הבהיר, כי קודם שברא הדלת יסודות,
+443|33:58|אחד הנקרא היו לי, שהוא דבר המוכן
+444|34:04|לקבל צורת הדלת יסודות אחר כך, אבל הוא
+445|34:10|אינו לובש שום צורה כלל ועיקר, ומה שהוא קודם
+446|34:15|התוהו נקרא אפס, וכמו מאפס ותוהו
+447|34:21|נחשבו לו.
+448|34:24|שוב, דרשות דרושים של הארי ז"ל.
+449|34:32|בענייני הספירות, אומר לנו הרב אשלג אות ב' כי לעולם הכתר הוא בחינה
+450|34:37|עליונה.
+451|34:40|הכוונה היא על ניצוץ בורא המלובש בכתר.
+452|34:46|אמרנו, בכתר יש ניצוץ בורא וניצוץ נברא.
+453|34:50|כשניצוץ בורא זה הבחינה הראשונה שלו, שהיא באה לו מהעליון והיא
+454|34:56|הממוצע.
+455|34:58|וניצוץ נברא הוא כבר השורש לד' בחינות של הנאצל.
+456|35:04|הכוונה היא על ניצוץ בורא המלובש בכתר, כנ"ל,
+457|35:11|שהוא סוד אין סוף ברוך הוא, ואינו כלל מבחינת
+458|35:17|הפרצוף עצמו, כמבואר בדיבור הסמוך עיין שם הכתוב.
+459|35:23|מה אומר לנו?
+460|35:26|הוא אומר לנו, כי לעולם הכתר הוא בחינה עליונה, זהו הניצוץ בורא, הוא חלק
+461|35:32|מהכתר, והוא לא נחשב לבחינה בפני עצמה, הוא לא נחשב
+462|35:37|לספירה בפני עצמה, אלא לשורש הבחינות ושורש הספירות.
+463|35:44|ולכן גם אור היחידה שהזכיר מקודם, הוא רק השורש
+464|35:50|לארבע הבחינות של הנשמה, שהן נפש, רוח, נשמה, חיה.
+465|35:57|הוא הכתר אבל זה על ראשו של המלך.
+466|36:01|נכון.
+467|36:01|פה אתה דימוי פה, והדימוי הזה נותן לנו איזושהי מחשבה של דימוי.
+468|36:05|נכון.
+469|36:07|אבל יותר פירוט איך זה, מה דומה הכתר
+470|36:13|שם?
+471|36:13|מלך בלי כתר הוא עדיין מלך?
+472|36:16|הוא מלך.
+473|36:17|אבל מלך עם כתר, אתה רואה שבדיוק שהוא מלך.
+474|36:21|אין להתבלבל.
+475|36:24|יפה, זאת אומרת שגם פה אנחנו נבחים.
+476|36:27|ברוחניות זה אומר שגם שם אנחנו נבחין בכתר.
+477|36:31|כן.
+478|36:33|שזה לא אותה עוצמה, זה לא אותה מהות של בחינה מבחינת החוקה.
+479|36:38|דלת בחינות.

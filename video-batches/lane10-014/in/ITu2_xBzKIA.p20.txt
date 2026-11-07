@@ -1,0 +1,64 @@
+videoId: ITu2_xBzKIA
+parte 21 de 22 · traduzir as linhas 800 a 839 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: o Keter e a Bechiná intermediária
+RESUMO: A aula conclui o capítulo 5 da parte 3 do Talmud Eser HaSefirot com a ideia de que entre cada bechiná e outra existe uma bechiná intermediária que inclui as duas. Entre o Criador e a criatura está o nível "Avot hen HaMerkavá"; entre a espiritualidade e o corpo está a "revi'it dam shebanefesh"; entre o corpo e as vestes estão cabelos e unhas, citando Adam HaRishon e Nevuchadnetsar (Daniel 4:30). No capítulo 6, o Arizal ensina que o Keter contém o ícone de duas partes, centelha criadora e centelha criada, e que só há quatro bechinot (Chochmá, Biná, Tiferet, Maljut), correspondentes às quatro letras do nome HaVaYaH; a Chochmá é chamada "reshit" (Tehilim 111:10). Explica-se que o Keter às vezes não é contado entre as dez sefirot, como a coroa sobre a cabeça do rei, e que o Ramban (Bereshit 1:2) fala do "hyuli" e do tohu vavohu. O Keter é chamado "tohu" por conter em potencial, e não em ato, as raízes das quatro formas. A aula termina explicando como a luz direta, ao encontrar o masach da Maljut do rosh, devolve a luz refletida, que forma "raízes de vasos", e só depois da expansão abaixo do masach surgem vasos completos no guf.
+MOMENTOS: 00:53 Introdução e títulos do capítulo 5 · 02:50 Há sempre bechiná intermediária entre superior e inferior · 04:25 Quatro bechinot dentro de cada bechiná do ser humano · 06:47 Avot hen HaMerkavá e a bechiná que liga espiritualidade e corpo · 08:00 Centelha criadora e criada; Maljut vira Keter inferior · 11:03 Revi'it dam shebanefesh entre alma e corpo · 18:01 Cabelos e unhas entre corpo e vestes · 23:14 Capítulo 6: o Keter contém duas bechinot · 26:50 Só há quatro bechinot; Chochmá é a primeira · 31:41 Keter contado ou não, como coroa do rei; Ramban · 38:52 Tohu vavohu e a transição entre Atzilut e Briá · 43:03 Infinito como "efes"; tohu contém as formas em potencial · 51:52 Luz direta, masach, raízes de vasos e vasos completos · 59:55 Rosh e guf de Atzilut e o novo zivug para Briá
+FONTES CITADAS: 02:50 Arizal, Etz Chaim: bechiná intermediária · 06:47 Tehilim 82:6 · 06:47 Avot hen HaMerkavá · 12:41 Devarim 12:23 · 13:07 Pidyon nefesh · 20:41 Daniel 4:30 · 05:06 Vestes do Cohen Hedyot · 28:11 Tehilim 111:10 · 32:00 Sefer Yetzirá · 33:40 Ramban em Bereshit 1:2 · 33:51 Sefer HaBahir · 34:21 Yeshayahu 40:17 · 38:52 Bereshit 1:2 · 50:01 Tohu e o valor numérico de tav
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+788|58:32|מה שאני שואל כאן זה ככה, מגיע אור ישר סרסי כלים, מגיע למלכות באצילות, פוגש
+789|58:38|את המסך, פוגש את המסך, האור עולה, מלביש את האור ישר, ואז
+790|58:44|אנחנו מקבלים גמר הכלים.
+791|58:46|ואז אנחנו מקבלים את הראש של אצילות, אם אתה מסתכל לתוך
+792|58:51|אצילות.
+793|58:53|זאת אומרת, ברגע שזה עולה עד הסוף, עד החוכמה באצילות, שזה שם הראש באצילות
+794|58:58|למעשה, שם נגמרים הכלים?
+795|59:01|לא, זה שורשי כלים עדיין.
+796|59:04|האור החוזר שעולה למעלה זה שורשי כלים?
+797|59:07|בוודאי.
+798|59:08|אור חוזר שעולה ממטה למעלה אין לו אוביות, אז הוא נחשב לשורשי כלים.
+799|59:16|ומתי זה כלים?
+
+LINHAS A TRADUZIR:
+800|59:18|כשזה מתפשט מתחת למסך שהעלה את האור חוזר הזה.
+801|59:24|וזה כבר גוף עם כלים גמורים.
+802|59:28|מתחת למסך של הראש, מתחת למסך של החוכמה והעשידות?
+803|59:31|בוא, שנייה, יובל.
+804|59:33|זה מה שבעצם קראנו לספירות מלאות בעור,
+805|59:37|נכון?
+806|59:39|הגוף.
+807|59:40|זה כבר ספירות עם עור בתוכן, נכון?
+808|59:44|זה כלים גמורים, הגוף.
+809|59:46|זה כלים של עשר ספירות שבגוף.
+810|59:50|סך הכל, סך הכל, רבותיי.
+811|59:55|סך הכל יש לנו עשר ספירות, סך הכל יש לנו עשר ספירות
+812|1:00:01|באצילות, נכון?
+813|1:00:02|כן.
+814|1:00:07|שאנחנו קוראים להם גימל ראשונות וזין תחתונות, ראש וגוף.
+815|1:00:14|איך הם נוצרו?
+816|1:00:16|כמו שכל נאצל נוצר, התפשט אור אינסוף, הגיע
+817|1:00:22|מעולם אדם קדמון, אור אין סוף לעשות את עולם האצילות, הוא התפשט,
+818|1:00:28|הוא הגיע, התפשט על א', ב', ג', הגיע למלכות האצילות.
+819|1:00:35|פגש שמה את המסך.
+820|1:00:37|העלה המסך אור חוזר, והלביש את האור
+821|1:00:43|ישר הזה.
+822|1:00:44|אבל עדיין אין אוביות באור חוזר הזה, משום שאין אוביות עולה למעלה מהמסך.
+823|1:00:50|לכן עכשיו מה יקרה?
+824|1:00:52|המלכות הזאת של אצילות, בעצם מסתבר שהיא מלכות של ראש,
+825|1:00:58|היא תתפשט מינה ובה, כל מה שהיה בראש יתפשט לגוף, אלא שעכשיו זה
+826|1:01:04|מתחת למסך, ולכן עכשיו יש לי את הכלים הגמורים,
+827|1:01:10|שזה נקרא גוף.
+828|1:01:13|זה כשאנחנו במבט מקרוב, במבט מרחוק, אם נתרחק, יש לי עכשיו ראש
+829|1:01:19|וגוף של אצילות, או עשר ספירות שלמות.
+830|1:01:22|של אצילות, רק אחרי זה יזדכך המסך עוד הפעם ויהיה לנו
+831|1:01:28|זיווג חדש לצורך הוצאת עשר הספירות של בריאה.
+832|1:01:32|אוקיי, אז אתה אומר, או יצר, או חוזר, סיימנו עם
+833|1:01:38|תורשי כלים.
+834|1:01:39|נכון.
+835|1:01:40|ואז כמלכות מקבלת את כל מה שהיא החזירה, מקבלת בחזרה אליה, רק אז זה נקרא
+836|1:01:47|גמר בניית הכלים.
+837|1:01:49|נכון.
+838|1:01:50|אוקיי, אבל למה, איפה אנחנו רואים פה ירידה מתחת למסך שהוא
+839|1:01:56|הגדיר?

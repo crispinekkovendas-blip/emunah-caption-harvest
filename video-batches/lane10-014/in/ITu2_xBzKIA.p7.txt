@@ -1,0 +1,64 @@
+videoId: ITu2_xBzKIA
+parte 8 de 22 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: o Keter e a Bechiná intermediária
+RESUMO: A aula conclui o capítulo 5 da parte 3 do Talmud Eser HaSefirot com a ideia de que entre cada bechiná e outra existe uma bechiná intermediária que inclui as duas. Entre o Criador e a criatura está o nível "Avot hen HaMerkavá"; entre a espiritualidade e o corpo está a "revi'it dam shebanefesh"; entre o corpo e as vestes estão cabelos e unhas, citando Adam HaRishon e Nevuchadnetsar (Daniel 4:30). No capítulo 6, o Arizal ensina que o Keter contém o ícone de duas partes, centelha criadora e centelha criada, e que só há quatro bechinot (Chochmá, Biná, Tiferet, Maljut), correspondentes às quatro letras do nome HaVaYaH; a Chochmá é chamada "reshit" (Tehilim 111:10). Explica-se que o Keter às vezes não é contado entre as dez sefirot, como a coroa sobre a cabeça do rei, e que o Ramban (Bereshit 1:2) fala do "hyuli" e do tohu vavohu. O Keter é chamado "tohu" por conter em potencial, e não em ato, as raízes das quatro formas. A aula termina explicando como a luz direta, ao encontrar o masach da Maljut do rosh, devolve a luz refletida, que forma "raízes de vasos", e só depois da expansão abaixo do masach surgem vasos completos no guf.
+MOMENTOS: 00:53 Introdução e títulos do capítulo 5 · 02:50 Há sempre bechiná intermediária entre superior e inferior · 04:25 Quatro bechinot dentro de cada bechiná do ser humano · 06:47 Avot hen HaMerkavá e a bechiná que liga espiritualidade e corpo · 08:00 Centelha criadora e criada; Maljut vira Keter inferior · 11:03 Revi'it dam shebanefesh entre alma e corpo · 18:01 Cabelos e unhas entre corpo e vestes · 23:14 Capítulo 6: o Keter contém duas bechinot · 26:50 Só há quatro bechinot; Chochmá é a primeira · 31:41 Keter contado ou não, como coroa do rei; Ramban · 38:52 Tohu vavohu e a transição entre Atzilut e Briá · 43:03 Infinito como "efes"; tohu contém as formas em potencial · 51:52 Luz direta, masach, raízes de vasos e vasos completos · 59:55 Rosh e guf de Atzilut e o novo zivug para Briá
+FONTES CITADAS: 02:50 Arizal, Etz Chaim: bechiná intermediária · 06:47 Tehilim 82:6 · 06:47 Avot hen HaMerkavá · 12:41 Devarim 12:23 · 13:07 Pidyon nefesh · 20:41 Daniel 4:30 · 05:06 Vestes do Cohen Hedyot · 28:11 Tehilim 111:10 · 32:00 Sefer Yetzirá · 33:40 Ramban em Bereshit 1:2 · 33:51 Sefer HaBahir · 34:21 Yeshayahu 40:17 · 38:52 Bereshit 1:2 · 50:01 Tohu e o valor numérico de tav
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|20:23|דמיון הבהמות וחיות, ששערותיהן מלבושיהן.
+269|20:30|והמופת לזה הוא אדם הראשון בעניין הציפורניים, שכולו כאמור היה
+270|20:35|ציפורן, וגם מצינו בנבוכדנצר שנענש, כן?
+271|20:41|שזה היה מלבושו, כמו שכתוב, עד די שערה כנשרין רבה
+272|20:47|ותפרעו כציפורי.
+273|20:49|שהיו לו שערות גוף כמו פלומה של נשר
+274|20:55|והציפורניים שלו היו כמו ציפורניים של נשר, של ציפור
+275|21:02|וכן בין בחינת הלבושים לבחינת הבית הם האוהלים הנעשים
+276|21:08|מצמר ופשתים שהם בחינת לבושים וגם הם
+277|21:13|משמשים לבחינת בתים וזו הבחינה של אוהלים צריכה עדיין עיון אם הוא
+278|21:19|כך, או אם יש בה דבר אחר.
+279|21:23|הוא לא היה סגור לגמרי.
+
+LINHAS A TRADUZIR:
+280|21:25|הרבי חיים ויטל, כשהוא כתב את זה, לא היה סגור לגמרי על הבחינה הזאת.
+281|21:31|הרב, יש גם איזה משהו שאני יודע, בטח כל המקימים, אבל יש כאלה בטח שלא,
+282|21:37|על הציפורן בהבדלה, שאנחנו מכוונים את הציפורניים לכיוון הנר.
+283|21:42|כן.
+284|21:42|זה גם אחד מהסימנים של האדם הראשון.
+285|21:45|נכון.
+286|21:45|בהבדלה.
+287|21:47|נכון מאוד.
+288|21:49|נכון מאוד.
+289|21:52|עומר כותב בצ'אט, אני חשבתי שמדברים על מוח העצם, שזה הדם בתוך העצם, כן,
+290|21:59|זה הדיוק, כן, זה מה שהוא אומר, כן.
+291|22:05|טוב, עד כאן פרק ה', ואנחנו עוברים לפרק
+292|22:09|ו'.
+293|22:12|אולי משהו שיכול לקשר בין הרביעית דם למה שאמר יובל מקודם?
+294|22:19|נראה לי שבטומאה וטהרה רביעית דם זה
+295|22:24|השיעור שמטמא עם דם.
+296|22:29|אז בעניין של רביעית דם יש עניין של טומאה.
+297|22:34|בדרך כלל דווקא הדבר הטהור כשהוא מנותק ממקומו הוא מטמא.
+298|22:41|אז צריך עיון שמה.
+299|22:43|אם זה באמת ה...
+300|22:45|מה זה אומר?
+301|22:46|זה אומר שכשעוזבת את הגוף רביעית אדם היא, הרביעית אדם הזאת הופכת להיות
+302|22:52|למטמא, זה עדיין לא אומר שהיא מלכתחילה הייתה טמאה.
+303|22:57|גם גוף האדם הוא לא טמא מיסודו, כן?
+304|23:02|וכשהוא נפטר אז הוא הופך להיות מטמא.
+305|23:06|כן?
+306|23:06|אז זה צריך לבדוק את זה.
+307|23:08|טוב, זה הכל שוב, זה העשרה לקאוות נפשכם.
+308|23:14|אנחנו מתקדמים עם העניינים, רוצים ללמוד את סדר ההשתלשלות, פרק ו',
+309|23:21|ממשיכים בהעשרה של חלק ג', אבל הפרק ו' הוא קצת יותר
+310|23:26|רלוונטי באמת, אחרי שלמדנו את הדברים הקודמים, הוא יותר רלוונטי לסדר ההשתלשלות.
+311|23:34|הכותרת, מבאר שבספירת כתר כוללת בית בחינות,
+312|23:40|כמו שכבר דיברנו.
+313|23:42|אלא שאנחנו מבינים שאנחנו עושים עכשיו, כן, עד עכשיו למדנו כתר, כתר, כתר
+314|23:48|בסדר, עכשיו אנחנו עושים זום אין ומסתכלים על ספירת הכתר בפנוכו.
+315|23:54|היא כוללת בית בחינות.
+316|23:56|א', בחינה אחרונה מאינסוף, למשל, מלכות
+317|24:02|דה מלכות דה אינסוף, ונקראת עתיק ב',
+318|24:08|היא שורש הנאצלים, והיא נקראת אריך אנפין.
+319|24:13|וכללות שתיהן נקרא כתר.
