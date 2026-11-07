@@ -1,0 +1,73 @@
+videoId: dabk-P47PRA
+parte 2 de 2 · traduzir as linhas 120 a 168 (49 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Histórias e milagres do Rav Mordechai Sharabi na hilulá
+RESUMO: Na véspera da hilulá dos justos, o Rav Binyahu Shmueli conta histórias do cabalista Rav Mordechai Sharabi, que viveu no bairro onde a aula acontece. Primeiro, um astronauta pediu ao Rav que dissesse o que ele encontraria na Lua. O Rav escreveu tudo numa carta lacrada, que citava a criação dos céus e da terra, do sol, da lua e das estrelas, e concluiu que lá não havia ninguém. Depois, o Rav avisou que uma piscina mista em Romema não se sustentaria, e ela desabou. Em seguida vem o caso de um homem que negou uma dívida de quarenta mil dólares e ficou paralisado até revelar onde escondera o dinheiro. Também aparecem o Rav mandando pagar a um pintor o que lhe era devido, a promessa de filhos a um casal que os médicos davam como sem esperança e o aviso ao Rav Meir Levi de que sua esposa já tinha dado à luz. A aula termina com o episódio do toque de recolher, em que os pneus do jipe estouraram quando soldados levaram o Rav contra a vontade dele.
+MOMENTOS: 00:14 O astronauta que pediu ao Rav o que acharia na Lua · 01:01 O que o Rav escreveu na carta lacrada · 02:44 A piscina mista em Romema que não se sustentou · 03:47 Abertura da história da dívida de Eliyahu Hawi · 04:42 O devedor nega o empréstimo de quarenta mil dólares · 05:42 O devedor fica paralisado até revelar onde está o dinheiro · 06:30 O pintor Eliyahu Cohen e o pagamento que o Rav enviou · 08:25 Promessa de filhos ao casal sem esperança segundo os médicos · 09:26 O Rav Meir Levi e a esposa no parto · 10:29 O toque de recolher e os pneus que estouraram
+FONTES CITADAS: 01:11 Bereshit 1:1 · 01:30 Texto aramaico da carta do Rav Sharabi · 07:30 Devarim 24:15
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|07:02|ברסקה גר פה כן.
+109|07:06|שנים, שנים.
+110|07:08|לא, זה אבא שלו.
+111|07:09|ציון, ציון.
+112|07:10|ציון, ציון.
+113|07:11|ציון ברסקה.
+114|07:12|היה גר פה, היה אצל הרב.
+115|07:14|הרב אומר לו, תלך ברחוב אגריפס, עולה עם האוטו
+116|07:20|שלו אליהו כהן.
+117|07:24|תלך אצלו ותיתן לו את הכסף הזה, תגיד לו ביומות יוצא שכרו
+118|07:30|על מה שהוא עשה, עבודה, שצבע את הבית.
+119|07:35|הוא הלך אליו, הוא אומר, איך הרב יודע שאני פה?
+
+LINHAS A TRADUZIR:
+120|07:39|איך?
+121|07:42|לא רוצה לקחת כסף, הוא אומר, לא, הרב אמרתי, קח את זה.
+122|07:46|והוא אומר, תיתן שכנות.
+123|07:50|כן, לא משנה, ואללה.
+124|07:53|משהו אחר, אחרי הרבה שנים.
+125|07:54|זכותו יגן עלינו.
+126|07:57|אחרי הרבה שנים הוא נפטר, כן.
+127|08:01|בשביל מה נדבר?
+128|08:02|מה יצא מזה עכשיו?
+129|08:04|העיקר זה פנפלאות, היה הכל משהו לא רגיל היה
+130|08:25|היה פה אחד שאמר לו, הרופאים אמרו לו שאין לו סיכוי להביא ילדים, לא הוא ולא אשתו
+131|08:31|שיכול לעשות מה שהוא רוצה בא אצל הרב, והרב
+132|08:37|אמר לו ש...
+133|08:42|שיהיה לו ילדים.
+134|08:44|הוא אומר, איך זה יכול להיות, כל הרופאים?
+135|08:46|הוא אומר, ככה, נכון, אבל יהיה לך...
+136|08:52|יהיה לך ילדים.
+137|08:54|היום יש לו ברוך השם סבא, יש לו נכדים
+138|09:08|כן, זה היה דברים נפלאים.
+139|09:26|פעם הדוד של רבי מנשה פה, רבי מנשה, הדוד שלו, רבי מאיר
+140|09:32|לוי, אשתו הייתה בלידה.
+141|09:39|בבית חולים, אשתו, שכחה מאיר, לוי, לוי, רבי מאיר לוי מקטמון,
+142|09:45|אשתו הייתה בחדר לידה, והרופאים אומרים, חייבים ניתוח.
+143|09:50|אז הוא רץ לפה.
+144|09:54|בא אצל הרב, אמר לו, הרב אמר לו, רבי מאיר, אשתך כבר ילדה, הכל
+145|09:58|בסדר.
+146|10:01|שוב, כן, זה היה משהו, כן.
+147|10:11|אותו יגן
+148|10:17|עלינו ועל כל
+149|10:29|עם ישראל פעם אומרים שהיה פה עוצר אז החיילים
+150|10:36|העלו את הרב בצ'יפ, בשבת אומר להם הרב, תורידו אותי, מה אתם עושים?
+151|10:43|למה אתה יוצא בעוצר?
+152|10:45|אומר, טעיתי, אבל תורידו אותי, אני הולך להתפלל.
+153|10:52|לא רצו להוריד אותו.
+154|10:54|אומר שארבע גלגלים התפוצצו להם.
+155|10:59|ולא יכול להמשיך, לא יכול.
+156|11:00|איפה זה היה?
+157|11:02|באיזה אזור?
+158|11:03|פה, פה, בירושלים.
+159|11:06|איפה
+160|11:07|ירושלים?
+161|11:13|פה,
+162|11:24|פה!
+163|11:28|היה זכויות, היה פה משהו אני הייתי מתפלא, איפה, איפה באים
+164|11:34|האנשים?
+165|11:34|הם לא יודעים שיש פה...
+166|11:36|מנח השם?
+167|11:38|איפה הם הולכים האנשים?
+168|11:40|צריכים לדעת.
