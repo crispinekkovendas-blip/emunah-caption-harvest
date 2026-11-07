@@ -1,7 +1,7 @@
 # lane4-021
 
-1 of 21 lessons published · 13 skipped · status **pending**
-Tokens (1650 agent runs with a record): 8.5M in (mostly cache) · 4.53M out · API-equivalent 71.96
+1 of 21 lessons published · 14 skipped · status **pending**
+Tokens (1762 agent runs with a record): 9.1M in (mostly cache) · 4.82M out · API-equivalent 76.74
 
 | lesson | state | detail |
 |---|---|---|
@@ -18,11 +18,11 @@ Tokens (1650 agent runs with a record): 8.5M in (mostly cache) · 4.53M out · A
 | sSIV2c5IErE | skipped | |
 | CEloJsU6eAk | skipped | |
 | kzntZefs5ys | skipped | |
-| pYUie5ltuf0 | waiting | 19/20 parts |
-| QNL3vz5Vjy4 | ✗ will be redone (try 2) | line 1560 twice |
-| QDE7D7qE0mE | skipped after 3 tries | 9 lines missing |
+| pYUie5ltuf0 | ✗ will be redone (try 2) | 9 lines missing |
+| QNL3vz5Vjy4 | waiting | 46/48 parts |
+| QDE7D7qE0mE | skipped | |
 | jv6bYM-X7GM | skipped | |
-| Q76ZMb_Loxg | waiting | 23/24 parts |
-| X1Z--q7kAZg | ✗ will be redone (try 2) | 1 lines missing |
-| JyH1f4nnLCc | ✗ will be redone (try 1) | line 200 twice |
-| XcJdkXd6t-A | waiting | 22/24 parts |
+| Q76ZMb_Loxg | skipped after 3 tries | line 921 twice |
+| X1Z--q7kAZg | waiting | 14/15 parts |
+| JyH1f4nnLCc | ✗ will be redone (try 2) | line 600 twice |
+| XcJdkXd6t-A | ✗ will be redone (try 1) | line 160 twice |
