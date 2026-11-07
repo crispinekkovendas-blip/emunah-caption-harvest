@@ -1,0 +1,40 @@
+160	This is the question.	Essa é a pergunta.
+161	This is the question.	Essa é a pergunta.
+162	Yes, they disagree in every pair.	Sim, eles divergem em todos os pares.
+163	And what are they...	E o que eles...
+164	Usually we rule like the Nasi, no?	Normalmente decidimos como o Nasi, não?
+165	But this...	Mas isso...
+166	They don't decide.	Não se decide.
+167	These are exactly disputes.	São exatamente disputas.
+168	Yes, yes.	Sim, sim.
+169	So the first Yossi, who is the Nasi, Yossi ben Yoezer,	Então o primeiro Yossi, que é o Nasi, Yossi ben Yoezer,
+170	says not to lean.	diz para não apoiar as mãos.
+171	And the second Yossi, who is the Av Beit Din, says to lean.	E o segundo Yossi, que é o Av Beit Din, diz para apoiar.
+172	Then come Yehoshua ben Perachya and Nitai of Arbel, and Yehoshua ben Perachya says no,	Depois vêm Yehoshua ben Perachya e Nitai de Arbel, e Yehoshua ben Perachya diz que não,
+173	since he is the Nasi, he says not to lean.	pois ele é o Nasi, e diz para não apoiar.
+174	And Nitai of Arbel, who is the Av Beit Din, says to lean.	E Nitai de Arbel, que é o Av Beit Din, diz para apoiar.
+175	Exactly like in the previous generation.	Exatamente como na geração anterior.
+176	Then come Yehuda ben Tabai and Shimon ben Shetach,	Depois vêm Yehuda ben Tabai e Shimon ben Shetach,
+177	where Yehuda ben Tabai is the Nasi and Shimon ben Shetach is the Av Beit Din, and the same: Yehuda ben Tabai says	em que Yehuda ben Tabai é o Nasi e Shimon ben Shetach é o Av Beit Din, e é igual: Yehuda ben Tabai diz
+178	not to lean, and this fits the pattern that it is the Nasi, though I would think the Nasi is chesed	para não apoiar, e isso segue o padrão de que é o Nasi, embora eu pensasse que o Nasi é o chesed
+179	and the Av Beit Din is gevurah, as is the case in the generation of Hillel	e o Av Beit Din é a guevurá, como é na geração de Hillel
+180	and Shamai, apparently. But here the one who says "turn away," as in "turn from evil," is	e Shamai, aparentemente. Mas aqui quem diz "afasta-te", como em "afasta-te do mal", é
+181	the first.	o primeiro.
+182	That is, so it is with Moshe too, as even within Moshe himself, as we will explain, Shamai comes before Hillel, since	Ou seja, assim também com Moshé, pois dentro do próprio Moshé, como vamos explicar, Shamai vem antes de Hillel, já que
+183	it is written that Moshe is the initials of machloket Shamai Hillel.	está escrito que Moshé são as iniciais de machloket Shamai Hillel.
+184	And if he belongs to anyone, Moshe Rabbeinu especially belongs to Shamai, more than to	E se ele pertence a alguém, Moshé Rabênu pertence especialmente a Shamai, mais do que a
+185	Hillel.	Hillel.
+186	In any case, the first says not to lean, and the second says to lean.	De qualquer forma, o primeiro diz para não apoiar, e o segundo diz para apoiar.
+187	So it goes for three generations, as Yehuda ben Tabai also says not	Assim vai por três gerações, pois Yehuda ben Tabai também diz para não
+188	to lean.	apoiar.
+189	And his colleague, Shimon ben Shetach, says to lean.	E o seu colega, Shimon ben Shetach, diz para apoiar.
+190	Then comes a special pair, a pair of righteous converts, Shemaya and Avtalyon.	Depois vem um par especial, um par de guerei tsedek, Shemaya e Avtalyon.
+191	And here, in this generation, precisely with the converts, what happens is that they switched	E aqui, nesta geração, justamente com os conversos, o que acontece é que trocaram
+192	places, so it flips.	de lugar, ou seja, se inverte.
+193	Shemaya says to lean.	Shemaya diz para apoiar.
+194	And Avtalyon says not to lean.	E Avtalyon diz para não apoiar.
+195	After that, after Shemaya and Avtalyon, who	Depois, depois de Shemaya e Avtalyon, quem
+196	comes next?	vem em seguida?
+197	That is the fifth pair, there are five pairs, which is Hillel and	É o quinto par, são cinco pares, que é Hillel e
+198	Menachem.	Menachem.
+199	The Mishnah says that Hillel and Menachem did not disagree on the matter.	A Mishná diz que Hillel e Menachem não divergiram sobre o assunto.
