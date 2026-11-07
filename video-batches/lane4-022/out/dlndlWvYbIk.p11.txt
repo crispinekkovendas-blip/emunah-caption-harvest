@@ -1,0 +1,120 @@
+1320	when we finished the fast.	quando terminamos o jejum.
+1321	What?	O quê?
+1322	After the fast or before the fast?	Depois do jejum ou antes do jejum?
+1323	Right after the fast, I don't know exactly.	Logo depois do jejum, não sei exatamente.
+1324	Yes, right.	Sim, certo.
+1325	Fifty years, right.	Cinquenta anos, certo.
+1326	Yes?	Sim?
+1327	One more year, the painting and everything.	Mais um ano, a pintura e tudo.
+1328	Nice.	Bonito.
+1329	Good, may you have good health.	Bom, que você tenha boa saúde.
+1330	In ten years, tell me that again and we'll see.	Daqui a dez anos, diga isso de novo e veremos.
+1331	Okay, good.	Certo, bom.
+1332	Okay.	Certo.
+1333	We're on page 198, right?	Estamos na página 198, certo?
+1334	On the Chayei Adam?	No Chayei Adam?
+1335	Rambam, the Rambam.	O Rambam, o Rambam.
+1336	One who belched, yawned, or sneezed during his prayer: if it was by choice,	Quem arrotou, bocejou ou espirrou durante a oração: se foi por vontade própria,
+1337	it is disgraceful.	isso é reprovável.
+1338	But if he checked his body before praying and it came upon him by force, if he belched in his prayer	Mas se verificou seu corpo antes de orar e veio contra a vontade, se arrotou na oração
+1339	from below, apparently,	por baixo, ao que parece,
+1340	there is nothing wrong with that.	não há nada de errado nisso.
+1341	If spit came to him during his prayer, he swallows it, or wipes it in his tallit, in his garment.	Se lhe veio saliva durante a oração, engole, ou limpa no talit, na roupa.
+1342	And if that bothers him, he throws it behind him with his hand, so that he	E se isso o incomoda, joga para trás com a mão, para que não
+1343	won't be distressed in prayer.	fique perturbado na oração.
+1344	Otherwise he would be found distracted.	Senão ficaria distraído.
+1345	If wind passed from him below while he stands in his prayer, he stays silent until the wind stops	Se saiu dele gás por baixo enquanto está em oração, fica em silêncio até o gás cessar
+1346	and returns to his prayer.	e volta à sua oração.
+1347	If he needed to pass wind and is very distressed and cannot hold himself, he walks back four cubits,	Se precisou soltar gás e sofre muito e não consegue se conter, anda para trás quatro côvados,
+1348	waits until the wind stops and says: Master of the worlds, You made us with openings and hollows,	espera o gás cessar e diz: Mestre dos mundos, Tu nos criaste com orifícios e cavidades,
+1349	it is known before You our shame and our disgrace, in the middle of the Amidah.	é sabida diante de Ti a nossa vergonha e a nossa desonra, no meio da Amidá.
+1350	Shame and disgrace in our lives, worm and disgrace in our end. He returns to his place and prays.	Vergonha e desonra em nossa vida, verme e desonra no nosso fim. Volta ao seu lugar e ora.
+1351	If he was standing in prayer and drops fell from him onto his legs, he waits until the flow stops, returns	Se estava em oração e pingou urina em suas pernas, espera até cessar, volta
+1352	to where he stopped. If he waited long enough to finish the whole prayer, he goes back to the beginning.	ao ponto onde parou. Se esperou o tempo de terminar toda a oração, volta ao início.
+1353	Likewise, one who urinates waits the time of walking four cubits, then prays; and one who prayed waits the time of four cubits,	Do mesmo modo, quem urinou espera o tempo de andar quatro côvados e depois ora; e quem orou espera o tempo de quatro côvados,
+1354	then urinates, so that the prayer does not cease in his mouth.	depois urina, para que a oração não se interrompa em sua boca.
+1355	Concentration: any prayer without concentration is not prayer. If he prayed without concentration, he returns and prays with concentration.	Concentração: toda oração sem concentração não é oração. Se orou sem concentração, volta e ora com concentração.
+1356	If he finds his mind confused, his heart troubled, he is forbidden to pray until his mind settles.	Se acha sua mente confusa, o coração preocupado, é proibido orar até a mente se acalmar.
+1357	Therefore one who comes from the road, tired or distressed, is forbidden	Por isso, quem chega de viagem, cansado ou aflito, está proibido
+1358	to pray until his mind settles. The Sages said: three days, until he rests and his mind cools.	de orar até a mente se acalmar. Disseram os Sábios: três dias, até descansar e a mente esfriar.
+1359	Afterwards he prays, three days.	Depois ora, três dias.
+1360	Today a man reads... if only a person... where is a person's head?	Hoje o homem lê... se ao menos o homem... onde está a cabeça de uma pessoa?
+1361	A person?	Uma pessoa?
+1362	Zohar?	Zohar?
+1363	To separate tzadi and av, right?	Separar tsadi e av, certo?
+1364	…	…
+1365	Of course, weren't you there?	Claro, você não estava lá?
+1366	You see?	Está vendo?
+1367	You don't have...	Você não tem...
+1368	You only talk.	Você só fala.
+1369	Thank you.	Obrigado.
+1370	Thank you.	Obrigado.
+1371	Thank you.	Obrigado.
+1372	…	…
+1373	And Israel, the host, is blessed…	E Israel, o exército, é abençoado…
+1374	…	…
+1375	…	…
+1376	…	…
+1377	…	…
+1378	…	…
+1379	…	…
+1380	…	…
+1381	…	…
+1382	…	…
+1383	…	…
+1384	…	…
+1385	…	…
+1386	…	…
+1387	…	…
+1388	You are HaShem Elokeinu, before whom our fathers burned the incense of spices	Tu és HaShem Elokeinu, diante de Quem nossos pais queimaram a incenso de especiarias
+1389	when our Temple stood, as You commanded them	quando o nosso Templo existia, como Tu lhes ordenaste
+1390	And HaShem said to Moshe: Take for yourself spices,	E HaShem disse a Moshe: Toma para ti especiarias,
+1391	stacte and onycha	nataf e shechelet
+1392	and galbanum,	e chelbená,
+1393	spices with galbanum, so	especiarias com chelbená, assim
+1394	and with pure frankincense, of each an equal weight.	e com incenso puro, de cada uma o mesmo peso.
+1395	And HaShem said to Moshe: Take for yourself spices.	E HaShem disse a Moshe: Toma para ti especiarias.
+1396	Stacte, onycha, and galbanum, spices and pure frankincense, and	Nataf, shechelet e chelbená, especiarias e incenso puro, e
+1397	each equal.	cada uma igual.
+1398	Equal parts; grind it fine, grind it well, grind it fine, grind it well,	Em partes iguais; moa fino, moa bem, moa fino, moa bem,
+1399	grind it fine, grind it well, grind it fine, grind it well, and so on.	moa fino, moa bem, moa fino, moa bem, e assim por diante.
+1400	Grind it fine, grind it well, grind it fine, grind it well, grind it fine, grind it well,	Moa fino, moa bem, moa fino, moa bem, moa fino, moa bem,
+1401	grind it fine, grind it well, grind it fine, grind it well, and so on.	moa fino, moa bem, moa fino, moa bem, e assim por diante.
+1402	…	…
+1403	…	…
+1404	…	…
+1405	…	…
+1406	…	…
+1407	And you shall put some of it before the Testimony in the Tent of Meeting, where I will meet you;	E porás um pouco dele diante do Testemunho na Tenda do Encontro, onde Me encontrarei contigo;
+1408	it shall be most holy to you. And Aharon shall burn incense every morning.	será santíssimo para vós. E Aharon queimará incenso todas as manhãs.
+1409	…	…
+1410	The Pitum HaKetoret: how was it?	O Pitum HaKetoret: como era?
+1411	Three hundred and sixty-five, a maneh for each day,	Trezentos e sessenta e cinco, uma maneh para cada dia,
+1412	…	…
+1413	…	…
+1414	…	…
+1415	…and eleven spices were in it,	…e onze especiarias havia nele,
+1416	the balm and the onycha,	o tsori e o tsiporen,
+1417	the galbanum and the frankincense, seventy maneh each;	a chelbená e o incenso, setenta maneh cada um;
+1418	myrrh, cassia, spikenard, and saffron,	mirra, cássia, nardo e açafrão,
+1419	sixteen maneh each; costus, twelve;	dezesseis maneh cada um; costo, doze;
+1420	bark, three;	casca, três;
+1421	and cinnamon, nine; lye of leek, nine kav;	e canela, nove; lixívia de alho-poró, nove cabs;
+1422	Cyprus wine, three se'ah and three kav; salt of Sodom, a quarter; and a bit of smoke-raiser.	vinho de Chipre, três seás e três cabs; sal de Sodoma, um quarto; e um pouco de maalé ashan.
+1423	Rabbi Natan the Babylonian says: also a bit of Jordan amber.	Rabi Natan, o babilônico, diz: também um pouco de âmbar do Jordão.
+1424	If he put honey in it, he disqualified it; and if he left out one of its spices, he is liable to death.	Se pôs mel nele, invalidou-o; e se omitiu uma de suas especiarias, é passível de morte.
+1425	Bar Kappara taught: once in sixty or seventy years, the leftovers came to half.	Bar Kapará ensinou: uma vez em sessenta ou setenta anos, as sobras chegavam à metade.
+1426	And a bit of honey...	E um pouco de mel...
+1427	That is not right.	Isso não está certo.
+1428	Why?	Por quê?
+1429	One does not mix honey into it.	Não se mistura mel nele.
+1430	…	…
+1431	…	…
+1432	…	…
+1433	…	…
+1434	…	…
+1435	And Moshe called the elders of Israel and said to them: Draw out and take lambs for yourselves,	E Moshe chamou os anciãos de Israel e lhes disse: Tirai e tomai cordeiros para vós,
+1436	and take a bunch of hyssop, dip it in the blood in the basin, and touch the lintel and the doorposts	tomai um molho de hissopo, molhai no sangue que está na bacia e tocai o lintel e os umbrais
+1437	…and none of you shall go out of the door of his house until morning, and HaShem will pass through	…e nenhum de vós sairá da porta de sua casa até a manhã, e HaShem passará
+1438	and will not allow the destroyer to enter your houses to strike. And you shall observe this thing	e não permitirá que o destruidor entre em vossas casas para ferir. E guardareis esta coisa
+1439	as a statute forever. And when your children say to you: What is this service to you? … Pesach.	como estatuto para sempre. E quando vossos filhos vos disserem: Que serviço é este para vós? … Pêssach.
