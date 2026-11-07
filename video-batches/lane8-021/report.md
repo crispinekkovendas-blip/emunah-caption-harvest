@@ -1,7 +1,7 @@
 # lane8-021
 
 11 of 16 lessons published · 4 skipped · status **pending**
-Tokens (289 agent runs with a record): 2.2M in (mostly cache) · 2.37M out · API-equivalent 30.03
+Tokens (320 agent runs with a record): 2.4M in (mostly cache) · 2.70M out · API-equivalent 33.43
 
 | lesson | state | detail |
 |---|---|---|
@@ -17,7 +17,7 @@ Tokens (289 agent runs with a record): 2.2M in (mostly cache) · 2.37M out · AP
 | 1QTsFmw59zw | ✓ published | 412 lines · Lech Lecha: preparar-se sempre para a entrega da Torá |
 | 97FZNJCMIfg | ✓ published | 592 lines · Lech Lecha: os dez testes de Avraham e a identidade |
 | 0fn_Foe_eC0 | skipped | |
-| AnXDrHJltK8 | skipped after 3 tries | 1 lines missing |
+| AnXDrHJltK8 | skipped | |
 | 5FEDGVe16ZA | skipped | |
 | xo9BRSd_4IU | ✓ published | 846 lines · Otzrot Chaim do Ramchal: Ein Sof, Tzimtzum e Adam Kadmon |
-| BftyfgDZJ1c | ✗ will be redone (try 2) | 59 lines missing |
+| BftyfgDZJ1c | waiting | 27/28 parts |
