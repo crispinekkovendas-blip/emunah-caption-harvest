@@ -2,7 +2,7 @@
  "name": "lane8-020",
  "lane": 8,
  "created": "2026-10-31T12:23:37.903Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "1zHRpmw1hcE",
@@ -101,10 +101,11 @@
  ],
  "tries": {
   "FsmmucN5s0Y": 3,
-  "1zHRpmw1hcE": 2
+  "1zHRpmw1hcE": 3
  },
  "done": [],
  "skipped": [
-  "FsmmucN5s0Y"
+  "FsmmucN5s0Y",
+  "1zHRpmw1hcE"
  ]
 }
