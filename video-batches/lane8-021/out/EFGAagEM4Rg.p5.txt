@@ -1,0 +1,120 @@
+600	He goes to this brother — they divided the property.	Ele vai a este irmão — eles dividiram os bens.
+601	They'll say: not here, that money is over there.	Dirão: aqui não, esse dinheiro está lá.
+602	He goes to the other, they'll say: it's with my brother.	Vai ao outro, dirão: está com meu irmão.
+603	So the Gemara asks: and even if they hadn't divided?	Então a Guemará pergunta: e se não tivessem dividido também?
+604	Let him go to this one and claim, and to that one and claim. So why would	Que vá a este e cobre, e vá àquele e cobre. Então por que
+605	Rabbi Meir concede that if they haven't divided yet, they are liable? He goes to this one and claims, then to that one and claims	Rabi Meir admite que, se ainda não dividiram, são responsáveis? Vai a este e cobra, vai àquele e cobra
+606	The answer: it's deception, that is to say...	A resposta: é por engano, isto é...
+607	Since the Mishnah speaks of a father who died within thirty days, what was the difficulty? What's the difference	Como a Mishná fala do pai que morreu dentro de trinta dias, qual era a dificuldade? Que diferença faz
+608	whether they divided or not? That is, two Yosef ben Shimon who lived in the same city	se dividiram ou não? Isto é, dois Yosef ben Shimon que moravam na mesma cidade
+609	and took a field in partnership.	e pegaram um campo em sociedade.
+610	A creditor collects from them.	Um credor cobra deles.
+611	For he says to him: if it's from you that I'm collecting,	Pois ele diz: se é de você que estou cobrando,
+612	I take your share.	pego a sua parte.
+613	If it's yours, I take it.	Se é sua dívida, eu pego.
+614	And if it's from your friend that I collect, I take your friend's share.	E se é do seu companheiro que cobro, pego a parte do seu companheiro.
+615	They were two Yosef ben Shimon, who lived in one city, both Yosef,	Eram dois Yosef ben Shimon, que moravam numa só cidade, ambos Yosef,
+616	with the very same name.	com exatamente o mesmo nome.
+617	Together they own one field.	Juntos eles têm um campo.
+618	There was a promissory note against them.	Havia uma nota promissória contra eles.
+619	Yes, someone came and brought a note against Yosef ben Shimon,	Sim, veio um homem e apresentou uma nota contra Yosef ben Shimon,
+620	saying he owes him.	dizendo que lhe deve.
+621	Now, we don't know which Yosef ben Shimon is the one who owes.	Agora, não sabemos qual Yosef ben Shimon é o que deve.
+622	Since both of them have one field in partnership,	Como os dois têm um campo em sociedade,
+623	the creditor comes and collects from them.	o credor vem e cobra deles.
+624	Neither one can hold him back.	Nenhum deles pode impedi-lo.
+625	Why?	Por quê?
+626	He says to him...	Ele diz a ele...
+627	If it's from you that I'm collecting, if I'm the creditor and I claim from you, you owe me the money,	Se é de você que cobro, se sou o credor e reclamo de você, você me deve o dinheiro,
+628	then I take your share.	então pego a sua parte.
+629	I take that portion.	Pego essa parte.
+630	And if it's from your friend, I take your friend's share,	E se é do seu companheiro, pego a parte do seu companheiro,
+631	not yours.	não a sua.
+632	So it's exactly like what we learned here in the Mishnah,	Então é exatamente como aprendemos aqui na Mishná,
+633	that if they haven't divided, each one separately.	que, se não dividiram, cada um separadamente.
+634	Yes.	Sim.
+635	His share, what he is owed.	A parte dele, o que lhe cabe.
+636	No, no, it isn't that he's owed against the entire field.	Não, não, não é que lhe seja devido sobre o campo inteiro.
+637	For what?	Para quê?
+638	Half, half.	Metade, metade.
+639	Half, half.	Metade, metade.
+640	His money amounts to half a field.	O dinheiro dele equivale a meio campo.
+641	He tells him: either way, what do you care?	Ele diz: de qualquer modo, o que você tem a ver com isso?
+642	If it's yours, I take your share.	Se é sua, pego a sua parte.
+643	If it's yours or your friend's, it's the field; he takes his portion. What difference does it make?	Se é sua ou do seu companheiro, é o campo; ele pega a sua parte. Que diferença faz?
+644	Yes.	Sim.
+645	Here too it's the same.	Aqui também é a mesma coisa.
+646	The cohen	O cohen
+647	takes.	pega.
+648	Yes, otherwise, it's as if they are liable.	Sim, senão, é como se eles fossem responsáveis.
+649	What did you say, Rabbi Menashe?	O que você disse, Rabino Menashe?
+650	The cohen, yes, yes.	O cohen, sim, sim.
+651	It is owed to the cohen.	Isso é devido ao cohen.
+652	Yes, the cohen can take.	Sim, o cohen pode pegar.
+653	If it's not yours, then it's his.	Se não é seu, então é dele.
+654	If it's not yours, then it's his.	Se não é seu, então é dele.
+655	Yes.	Sim.
+656	Everyone also wants to give it to the cohen.	Todos também querem dar ao cohen.
+657	So if they haven't divided, we said in the Mishnah that they are liable.	Então, se não dividiram, dissemos na Mishná que são responsáveis.
+658	Why? As long as they haven't divided, they are partners in the property.	Por quê? Enquanto não dividiram, são sócios nos bens.
+659	It's an inheritance.	É uma herança.
+660	So he can collect from the property.	Então ele pode cobrar dos bens.
+661	And he'll say: what do you care? I'm taking the firstborn's property.	E dirá: o que você tem com isso? Estou pegando os bens do primogênito.
+662	The firstborn's — where did I take it?	Do primogênito — de onde eu peguei?
+663	This	Isto
+664	of	de
+665	two.	dois.
+666	He said: here, then, one can raise a difficulty against what Rabbi Yirmeya says.	Disse: aqui, então, pode-se levantar uma dificuldade contra o que diz Rabi Yirmeya.
+667	After all, a person's property is a guarantor for him.	Afinal, os bens de uma pessoa são fiadores dela.
+668	Look, we know what is collected from encumbered property in general,	Vejam, sabemos o que se cobra de bens hipotecados em geral,
+669	since a person's assets are guarantors for his debts.	pois os bens da pessoa são fiadores de suas dívidas.
+670	Therefore a man comes and takes his land.	Por isso o homem vem e toma a terra dele.
+671	So the Gemara asks: but from the start, how can it be that from the borrower himself he cannot claim,	Então a Guemará pergunta: mas desde o início, como pode ser que do próprio devedor ele não possa cobrar,
+672	and from the guarantor he can?	e do fiador possa?
+673	Is there such a thing, that the borrower himself,	Existe tal coisa, que o próprio devedor,
+674	the lender cannot collect from him, yet from his guarantor he can collect?	o credor não possa cobrar dele, mas do fiador dele possa cobrar?
+675	Can he collect?	Pode cobrar?
+676	You say here that he goes to the guarantor, the guarantor being, as it were, the land, the property.	Você diz aqui que ele vai ao fiador, sendo o fiador, por assim dizer, a terra, os bens.
+677	And we learned: one who lends to another through a guarantor does not collect from the guarantor,	E aprendemos: quem empresta a outro por meio de um fiador não cobra do fiador,
+678	first — that is, he goes first to the borrower, and only if there is no remedy does he go to the guarantor.	primeiro — isto é, vai primeiro ao devedor, e só se não houver solução vai ao fiador.
+679	So here too, since neither of them is obliged to pay, why collect from the property?	Então aqui também, já que nenhum deles é obrigado a pagar, por que cobrar dos bens?
+680	As if the property were guarantors for the debt,	Como se os bens fossem fiadores da dívida,
+681	Rabbi Yirmeya answered: since the sons are not obliged to pay, one cannot collect from the property.	Rabi Yirmeya respondeu: já que os filhos não são obrigados a pagar, não se pode cobrar dos bens.
+682	But with the two Yosef ben Shimon, one of them is obliged to pay, only he is lying,	Mas com os dois Yosef ben Shimon, um deles é obrigado a pagar, só que está mentindo,
+683	claiming he didn't borrow; and it is right that the liar be obliged to pay.	dizendo que não tomou emprestado; e é justo que o mentiroso seja obrigado a pagar.
+684	One of them is lying.	Um deles está mentindo.
+685	In any case, they set aside the "deception" answer from the Mishnah.	De todo modo, descartam a resposta do "engano" quanto à Mishná.
+686	Why?	Por quê?
+687	It is possible that Rabba disagrees even regarding the two Yosef ben Shimon.	É possível que Rabá discorde mesmo quanto aos dois Yosef ben Shimon.
+688	Even though each one has a share in the field, in every case each one	Mesmo que cada um tenha uma parte do campo, em qualquer caso cada um
+689	of them can hold him back and say:	deles pode impedi-lo e dizer:
+690	If you collect your friend's debt from the field's portion, that will also...	Se você cobrar a dívida do meu companheiro da parte do campo, isso também...
+691	also come from my share. Why shouldn't I have the argument that he must split it between both of us,	também sairá da minha parte. Por que eu não teria o argumento de que ele deve dividir entre nós dois
+692	in the loss? And therefore he can hold him back from collecting.	o prejuízo? E por isso pode impedi-lo de cobrar.
+693	The Shulchan Arukh says: if a note came out against Yosef ben Shimon, and they	O Shulchan Arukh diz: se saiu uma nota contra Yosef ben Shimon, e eles
+694	are partners in a field, he cannot collect half, either way, because	são sócios num campo, ele não pode cobrar a metade, de qualquer modo, porque
+695	the borrower's property is encumbered only by reason of the guarantor.	os bens do devedor só estão hipotecados por causa da fiança.
+696	And the guarantor is bound only where one could claim from the borrower himself.	E o fiador só se obriga onde se poderia cobrar do próprio devedor.
+697	And what cannot be claimed from the borrower himself cannot be claimed from his property.	E o que não se pode cobrar do próprio devedor não se pode cobrar dos bens dele.
+698	So you see that Rabba's reasoning...	Então vemos que o raciocínio de Rabá...
+699	Yes.	Sim.
+700	If the borrower died, then one cannot collect from those...	Se o devedor morreu, então não se pode cobrar daqueles...
+701	Yes.	Sim.
+702	That doesn't exist now.	Isso não existe agora.
+703	So now this becomes a difficulty against Rabbi Yirmeya.	Então agora isso vira uma dificuldade contra Rabi Yirmeya.
+704	Since we hold that one does not claim from the guarantor first,	Como sustentamos que não se cobra do fiador primeiro,
+705	then why would he collect from the property at all?	então por que cobraria dos bens, afinal?
+706	Rather, Rabba said: you can even say it's Rabbi Meir.	Antes, disse Rabá: pode-se dizer até que é Rabi Meir.
+707	Because he is liable.	Porque ele é responsável.
+708	He is liable.	Ele é responsável.
+709	First of all,	Antes de tudo,
+710	there is no	não há
+711	more for you here.	mais nada para você aqui.
+712	More.	Mais.
+713	Actually, the Mishnah is about one who died after thirty days.	Na verdade, a Mishná trata de quem morreu depois de trinta dias.
+714	See, the father was already obligated to pay.	Veja, o pai já estava obrigado a pagar.
+715	For if he died before thirty days, the sons aren't liable to pay at all.	Pois, se morreu antes de trinta dias, os filhos não são obrigados a pagar de modo algum.
+716	The father's property would not be encumbered.	Os bens do pai não ficariam hipotecados.
+717	So it wouldn't be encumbered at all.	Então não ficariam hipotecados de modo algum.
+718	Actually, he died after thirty days; the father was already obligated to pay.	Na verdade, ele morreu depois de trinta dias; o pai já estava obrigado a pagar.
+719	And what was difficult for us — that the father's property was already encumbered?	E qual era a nossa dificuldade — que os bens do pai já estavam hipotecados?
