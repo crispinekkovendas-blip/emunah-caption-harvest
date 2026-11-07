@@ -1,0 +1,50 @@
+videoId: mKMId6XdH2o
+parte 1 de 18 · traduzir as linhas 0 a 39 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Shaar HaAkudim cap. 2: luzes, Kelim e a saída das sefirot
+RESUMO: A aula retoma o Shaar HaAkudim (Otzrot Chaim, Rav Chaim Vital): as luzes saem da boca de Adam Kadmon e formam um só Kli com dez graduações. Os quatro "hevelim" da boca, que somam 148 em guematria, ou seja "kemach", são moídos pelos dentes. O Rav Chaim Vital pergunta por que a orelha esquerda, mais alta, forma a parte externa do Kli e a narina esquerda, mais baixa, a parte interna. A resposta é que a luz que envolve (Or Makif) precisa de uma parte externa de mesma altura para refinar o Kli, e a luz interior, por ser limitada, ilumina com todo o seu esforço. As luzes saem incompletas, voltam a Adam Kadmon e só a luz fina retorna, enquanto a grossa permanece como Kelim. Saem só nove sefirot, pois o Keter fica no Emanador, e cada luz se reveste num Kli maior que ela, o que revela os Kelim. Todas saem apenas como nefesh, em ligação com "Nishba HaShem b'nafsho", e a Malchut recebe ruach, neshamá, chaia e yechidá à medida que Yesod, Binah, Chochma e Keter saem.
+MOMENTOS: 00:10 Revisão: Akudim, luzes da boca e as quatro divisões · 02:10 Quatro hevelim = kemach, moídos pelos dentes · 03:03 Pergunta: por que a orelha esquerda é o exterior do Kli · 05:17 Resposta: a luz atravessa metade da espessura da parede · 08:54 Segunda razão: o Or Makif quer aderir ao Or Pnimi · 12:16 A luz limitada ilumina o interior com todo o esforço · 15:48 As luzes saem incompletas para voltar e se corrigir · 18:17 Volta só a luz fina; a luz grossa vira Kelim · 23:06 Só nove sefirot saem; o Keter fica no Emanador · 25:54 Luz pequena em Kli grande: os Kelim se revelam · 29:38 Saem só como nefesh: Nishba HaShem b'nafsho · 35:23 Yesod revela ruach em Malchut · 45:03 Binah, Chochma e Keter completam o NaRaNChaY de Malchut
+FONTES CITADAS: 00:43 Etz Chaim, Shaar HaAkudim, cap. 1 · 02:10 Etz Chaim, Shaar HaAkudim, cap. 2 · 03:03 Etz Chaim, Shaar HaAkudim, cap. 2 · 05:17 Etz Chaim, Shaar HaAkudim, cap. 2 · 08:54 Etz Chaim, Shaar HaAkudim, cap. 2 · 12:16 Etz Chaim, Shaar HaAkudim, cap. 2 · 15:52 Etz Chaim, Shaar HaAkudim, cap. 2 · 18:17 Etz Chaim, Shaar HaAkudim, cap. 2 · 21:02 Etz Chaim, Shaar HaAkudim, cap. 2 · 24:54 Etz Chaim, Shaar HaAkudim, cap. 2 · 29:41 Amos 6:8 · 29:52 Etz Chaim, Shaar HaAkudim, cap. 2 · 33:36 Etz Chaim, Shaar HaAkudim, cap. 2 · 34:02 Etz Chaim, Shaar HaAkudim, cap. 2 · 34:33 Drush Neshmat HaAdam HaTachton · 35:23 Etz Chaim, Shaar HaAkudim, cap. 2 · 38:04 Etz Chaim, Shaar HaAkudim, cap. 2 · 43:51 Etz Chaim, Shaar HaAkudim, cap. 2 · 45:51 Etz Chaim, Shaar HaAkudim, cap. 2 · 48:04 Amos 6:8
+
+LINHAS A TRADUZIR:
+0|00:04|שלום עליכם, אנחנו בשאר האקודים, פרק
+1|00:09|ב'.
+2|00:10|אז דיברנו בשיעור הקודם על שאר האקודים, אמרנו האקודים, זה אורות שיוצאים מן הפה.
+3|00:16|וגם כשיוצאים מן הפה, אורות מקיפים ואורות פנימיים, נעשה מבחינת כלי אחד
+4|00:22|שלם.
+5|00:23|נעשה מבחינת אוויית כלים, יכולנו לראות כלים, אבל אמרנו שזה כלי זך בתכלית
+6|00:29|הזכות.
+7|00:30|וזה עשה כלי אחד, שיש לו בעצם עשרה ספירות, עשרה שנתות, זה היה בעצם
+8|00:36|הכלי, ובתוך הפה גילנו את גילויים של ארבעה אלפים שנרמזו בתוך החותם,
+9|00:43|שאמרנו יו"י, יו"ד, יו"י, יו"ד, יו"ד, ואמרנו
+10|00:49|שמבחינת, כיוון שיצאו מהכלים, אורות מקיפים ואורות פנימיים
+11|00:55|מקושרים ביחד, מבחינת הביאת הכלים, ואז גילנו עוד בחינה
+12|01:00|מסוימת.
+13|01:01|לכן ראינו אור מקיף ואור פנימיים, עכשיו אנחנו רואים את הכלי עצמו, פנימיות הכלי וחציות הכלי,
+14|01:07|וגם אמרנו שאור מקיף יוצא מאוזן ימין,
+15|01:13|ואור פנימי יוצא מחוטם ימין, חציות הכלי יוצא מאוזן שמאל,
+16|01:20|פנימיות הכלי יוצא מחוטם שמאל, וכל זה יוצא מבחינת הכלים.
+17|01:25|בתוך הפה, והפה חלקנו אותו לארבעה חלוקות, מעלה, מטה, ימינה ושמאלה,
+18|01:31|על צד ימין זו מבחינת האורות, צד שמאל מבחינת הכלים, צד ימין מבחינת האורות, אז יש
+19|01:37|לנו אורות מקיפים או פנימיים, אז אורות מקיפים עליוניות על איך העליון,
+20|01:43|ואורות פנימיים זה לחי תחתון, חציון דקה לי זה
+21|01:49|לחי עליון, פנימיות דקה לי לחי תחתון מצד שמאל.
+22|01:54|עכשיו אנחנו מציעים פרק ב', והנה אותם ארבע אלפית.
+23|02:01|כשציירנו ליל בחותם, הם נכנסים בפה והם נכנסים בשנת ארבע הבלים.
+24|02:06|עכשיו, והנה אומר הרב, זה יוצא מבחינת ארבע הבלים.
+25|02:10|והנה ארבע פעמים הבל, ובגימטיה קמח.
+26|02:16|זה אומר, יש לנו ארבע הבלים, שגם מבחינת הכלים עצמם, זה גם כן השורש שלו זה הבל.
+27|02:22|אז זה יש לנו ארבעה הבלים מבחינת גימציה הקמח.
+28|02:25|אז זה אומר, כידי השינויים שבתוך הפה, על ידי השיניים, צריך להתחילה,
+29|02:31|כידי השיניים שבתוך הפה נטחנים אותם ארבעה הבלים הנעשים מבחינת קמח.
+30|02:37|ארבעה הבלים על ידי השיניים, שיש לנו לב שיניים, נטחנים ההבלים האלו
+31|02:42|ונעשים מבחינת קמח, ונגמרת פעולתן.
+32|02:46|זה אומר, קמח זה מלשון שזה גם רומז על העניין של ה...
+33|02:51|קמח למבחינת קלו או תיקון, למבחינת הקמח ושמה נגמר את פעולתן.
+34|02:57|מה נקשר בעיניה, כמו שכתבנו לעיל, כי מנה אוזן שמאל נכנס לבפה, ונעזור ברכות החוצות לכלא.
+35|03:03|תימנו את זה בשבוע הקודם, שברכות אוזן שמאל נעשה חציונות הכלא.
+36|03:09|אז הוא שואל כאן הרב, איך יכול להיות שמאוזן שמאל, שזה מקום גבוה, נעשה
+37|03:14|חציונות הכלא, ומנגב חוטם שמאל נעזור פנימיות הכלא.
+38|03:19|כי אף על פי, אומר הרב, שהאור המקיף גדול מאור הפנימי, שאנחנו רואים
+39|03:25|שהאור המקיף יוצא מאוזן ימין, והאור הפנימי יוצא מחותם ימין.

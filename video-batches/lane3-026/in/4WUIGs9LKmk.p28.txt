@@ -1,0 +1,64 @@
+videoId: 4WUIGs9LKmk
+parte 29 de 30 · traduzir as linhas 1120 a 1159 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Alma, missão e prazer: a espiritualidade na materialidade
+RESUMO: O rabino retoma a Introdução ao Livro do Zohar de Baal HaSulam e responde a quem pergunta o que os mundos espirituais têm a ver com quem ainda não cumpre Torá e mitzvot. Ele explica que a essência de cada pessoa é uma alma completa, uma parte divina que age na realidade sem depender dela. Mostra como a mente (Chochmá, Biná, Daat) e a missão levam à ação, com o exemplo da barata vista como elefante e o do prazer em seis âmbitos de vida (o Mishkan, "veshachanti betocham"). Diz que o trabalho material já é espiritual, que o trabalho com mitzvot o eleva (Domem, Tzomeach, Chai, Medaber, "mitzvá haba'a leyadcha al tachmitzena") e que o sofrimento nasce de a alma não se revelar. Liga a Sefirat HaOmer à correção da "história" de cada âmbito rumo a Shavuot, com Matan Torá, o povo como "reino de sacerdotes" e o Beit HaMikdash de Shlomo, e lê "veahavta lereacha kamocha" como instrução. Por fim, nas perguntas, trata do dano e do trauma, explicando que o sofrimento vem da interpretação e que "ein od milvado" não substitui o esclarecimento dos fatos.
+MOMENTOS: 00:01 Baal HaSulam e a pergunta: o que isso tem a ver comigo? · 02:51 A consciência básica: somos alma, não a realidade · 08:05 Vontade, Chochmá-Biná-Daat e o exemplo do prazer em Divindade · 09:44 A barata vista como elefante: percepção distorcida · 12:40 A missão como linha do meio que nos leva a agir · 15:11 Os seis âmbitos de vida e o prazer como Divindade · 18:12 Cada âmbito tem regras; serviço a HaShem no material · 23:54 Exemplo da mulher que não entrava na casa do filho falecido · 26:56 Domem, Tzomeach, Chai, Medaber em cada prazer · 29:04 O trabalho espiritual eleva o material; a mitzvá · 36:36 Sefirat HaOmer como correção da história de cada âmbito · 37:45 Matan Torá, reino de sacerdotes e o Beit HaMikdash de Shlomo · 43:46 Veahavta lereacha kamocha como instrução · 46:16 Dano, trauma e a interpretação do sofrimento · 1:00:42 Por que "ein od milvado" não resolve o trauma
+FONTES CITADAS: 00:05 Baal HaSulam, Introdução ao Livro do Zohar, itens 41-42 · 17:00 Shemot 25:8 · 17:12 Sefirot da cabalá (Chesed, Netzach, Gevurá) · 23:03 Baal HaSulam, Hakarat HaRa · 26:56 Baal HaSulam, Domem, Tzomeach, Chai, Medaber · 31:09 Ensinamento citado sobre a oração como quem conta moedas · 31:56 Mechilta, Shemot 12:17 · 33:45 Baal HaSulam, Hakarat HaRa · 36:23 Berachot 3b · 36:23 Tehilim 57:9 · 36:42 Vayikra 23:15 · 37:57 Shemot 19:6 · 38:30 Melachim I 8:41-43 · 39:48 Midrash sobre Nebuchadnezzar e a destruição do Beit HaMikdash (Eicha Rabá) · 40:18 Yechezkel 21:26 · 40:52 Melachim I 11:3 · 42:03 Bereshit 39:2 · 43:46 Vayikra 19:18 · 47:30 Shemot 20:13 · 47:37 Shemot 20:14 · 52:07 Rashi em Bereshit 33:4 · 52:40 Rashi em Bereshit 32:9 · 52:44 Berachot 58a · 57:07 Devarim 4:35 · 1:00:30 HaTov VeHameitiv · 1:02:56 Devarim 4:35 · 1:03:03 Vayikra 16:1
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+1108|1:01:08|לא, אם הוא מחזיק את זה באמת, את ה...
+1109|1:01:11|מה זה מחזיק באמת?
+1110|1:01:12|אדם צריך כלים...
+1111|1:01:13|שזה לא מרגיש שזה רע לו, הוא מאמין שהרע הזה עשה לו טוב.
+1112|1:01:16|אז צריך להבין איך הוא עשה לו טוב.
+1113|1:01:21|מה קרה שם שזה...
+1114|1:01:22|הוא מאמין.
+1115|1:01:23|לא, הוא צריך לעשות בירור מה היה שם רע, מה היה שם טוב.
+1116|1:01:26|אנחנו חייבים פה לברר, כל דבר הוא כלול מטוב ורע, מצוץ אלוקי ומשהו לא נכון.
+1117|1:01:30|איך סטיבה יכול להיות טוב, ואתה חוטף סטיבה כואב לך.
+1118|1:01:32|מה?
+1119|1:01:32|אתה חוטף סטיבה.
+
+LINHAS A TRADUZIR:
+1120|1:01:36|כמה זמן כואב לך?
+1121|1:01:36|לא יודע, כואב.
+1122|1:01:38|בפיזית, כמה כואב?
+1123|1:01:41|לא יודע, יום.
+1124|1:01:42|בנפשי כמה כואב?
+1125|1:01:43|כל החיים.
+1126|1:01:45|כל החיים כואב, נכון?
+1127|1:01:46|אם אתה רוצה להישאר עם זה, תישאר.
+1128|1:01:49|אני אומר לך, אפשר לצאת מזה אחרי שנייה.
+1129|1:01:51|אה, בואי, כאילו להעביר את הכאב הזה.
+1130|1:01:55|לא, לעשות בירור על הכאב הזה.
+1131|1:01:56|למה נפגעתי?
+1132|1:01:58|מה היה שם?
+1133|1:01:58|מי פגע בי?
+1134|1:01:59|מה הייתה המחשבה שלי?
+1135|1:02:00|מה היה הרגש בי?
+1136|1:02:01|אתה עושה, אם אתה לא עושה ברור על הדבר, העין עוד מלבדו מחריף את הבעיה, כי הדבר
+1137|1:02:07|הזה נמצא שם בפנים, זה רק עשית כיסוי, טייחת את זה.
+1138|1:02:10|ההרגשה הטובה שלך זה הדחקה, זה לא הרגשה טובה.
+1139|1:02:13|כי כשיגיע עוד אירוע, הוא יהיה יותר עצמתי, אז העין מלבדו כבר לא יעבוד.
+1140|1:02:16|הוא ישבור אותך עוד יותר, כי אתה לא תוכל להכיל את ה...
+1141|1:02:21|כי לא איכלת את האירוע הקטן, שאבו האירוע גדול לא תדע להכיל אותו.
+1142|1:02:25|צריך כל זה פרקטיקה, גם בגשמיות וגם ברוחניות.
+1143|1:02:29|האין עוד מלבדו, מה הוא אומר?
+1144|1:02:30|האין עוד מלבדו אומר שיש לי נשמה אלוקית, ואין עוד
+1145|1:02:35|מלבדה.
+1146|1:02:36|המלבדו זה הנשמה האלוקית שלי, ולכן יוכל לפתור כל בעיה.
+1147|1:02:40|לא שזה פותר לי את הבעיה, זה יעזור לי.
+1148|1:02:43|אני, כאילו, אתה אומר, מה אתה אומר?
+1149|1:02:46|יש לי בעיה בשכל, ברגש, בהתנהגות, אז מה אני אעשה?
+1150|1:02:50|אני אעלה לרמת התודעה שאני נשמה והכל בסדר.
+1151|1:02:55|לא, אתה חייב להתמודד עם הרמות הנמוכות.
+1152|1:02:57|אם אתם זוכרים, הסברנו על בני אהרון, שלמה הם מתו, כי הם רוצו להיות בקודש הקודשים.
+1153|1:03:03|הסברנו, למה בצהריים יש לו כתמים לבנים?
+1154|1:03:05|כי הוא רוצה להיות, אין מלבדו הוא רוצה להיות.
+1155|1:03:07|אבל לא, אני שמתי אותך בעולם הזה, שתתמודד עם הטראומות, עם הפגיעות, ותגלה את הנשמה שם.
+1156|1:03:13|זה העבודה שלך, לא, אין מלבדו.
+1157|1:03:15|אין מלבדו זה רק, אתה צודק, שכשאין לך ברירה אתה לא יכול להכין, אז אתה אומר אין מלבדו, אתה
+1158|1:03:20|אומר אני נשמה אלוקית.
+1159|1:03:21|או שאולי זה מתחילה נחתה.
