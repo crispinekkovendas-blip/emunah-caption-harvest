@@ -2,7 +2,7 @@
  "name": "lane7-011",
  "lane": 7,
  "created": "2026-10-28T17:15:12.062Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "VkBM9NIZbxw",
@@ -517,7 +517,7 @@
   "MRJwMq-Y5UE": 3,
   "os2uv-4_idQ": 3,
   "eisn3_BRpSI": 3,
-  "2d6bb1pZwRM": 2
+  "2d6bb1pZwRM": 3
  },
  "done": [],
  "skipped": [
@@ -533,6 +533,7 @@
   "0oR3GS_NXx4",
   "os2uv-4_idQ",
   "eisn3_BRpSI",
-  "MRJwMq-Y5UE"
+  "MRJwMq-Y5UE",
+  "2d6bb1pZwRM"
  ]
 }
