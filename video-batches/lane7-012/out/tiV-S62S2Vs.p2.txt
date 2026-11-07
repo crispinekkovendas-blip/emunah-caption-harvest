@@ -1,0 +1,120 @@
+240	He doesn't read it at all in place.	Ele não lê de jeito nenhum no lugar.
+241	Who?	Quem?
+242	You.	Você.
+243	No?	Não?
+244	No, whereas...	Não, ao passo que...
+245	Like this, the handwriting here is very bad.	Assim, a letra aqui é muito ruim.
+246	Yes.	Sim.
+247	Do you have "whereas"?	Você tem "ao passo que"?
+248	According to this, it needs to be understood.	Segundo isso, é preciso entender.
+249	Going back to it, according to this we need to understand that only,	Voltando a isso, segundo isso é preciso entender que só,
+250	because the word "only" here is not clear.	porque a palavra "só" aqui não está clara.
+251	that the upper thirds of Netzach-Hod stand above	que os terços superiores de Netzach e Hod ficam acima
+252	the Yesod.	do Yesod.
+253	They stand above; the word "Yesod" is not clear.	Ficam acima; a palavra "Yesod" não está clara.
+254	"Whereas"?	"Ao passo que"?
+255	"Whereas" is what's written.	"Ao passo que" é o que está escrito.
+256	What is written after "whereas"?	O que está escrito depois de "ao passo que"?
+257	Some scribble that I can't	Algum rabisco que eu não consigo
+258	understand.	entender.
+259	Ah, no, no, it's nothing, it's from the upper line.	Ah, não, não, não é nada, é da linha de cima.
+260	In the upper line it was written that this word went down below, as it were.	Na linha de cima estava escrito que essa palavra desceu para baixo, por assim dizer.
+261	"Whereas," that's it.	"Ao passo que", é isso.
+262	"Whereas" is one word.	"Ao passo que" é uma palavra só.
+263	And after that, what is written?	E depois disso, o que está escrito?
+264	"...in the upper thirds."	"...nos terços superiores."
+265	That is already the next line.	Isso já é a linha seguinte.
+266	Okay.	Certo.
+267	They are found below the Yesod.	Encontram-se abaixo do Yesod.
+268	Okay.	Certo.
+269	And they belong to the Lamed, like	E pertencem ao Lamed, como
+270	the Bina that is divided in the middle of the Bina.	a Bina que se divide no meio da Bina.
+271	The handwriting here	A letra aqui
+272	is again...	está de novo...
+273	very smudged.	muito borrada.
+274	So I am reading the Ohr Baruch again.	Então vou ler o Ohr Baruch de novo.
+275	It needs to be understood.	É preciso entender.
+276	Aren't the upper thirds of Netzach-Hod-Yesod still above the Yesod,	Os terços superiores de Netzach e Hod não estão ainda acima do Yesod,
+277	whereas only the lower three thirds of Netzach-Hod are below the Yesod,	enquanto só os três terços inferiores de Netzach e Hod estão abaixo do Yesod,
+278	and they are called Lamed.	e são chamados Lamed.
+279	So what are the "upper thirds of Netzach-Hod"?	Então o que são os "terços superiores de Netzach e Hod"?
+280	That is the Chabad of Netzach-Hod.	É o Chabad de Netzach e Hod.
+281	Yes, that only the three thirds...	Sim, que só os três terços...
+282	the lower ones...	os inferiores...
+283	It should have been written "lower," it is not written	Deveria estar escrito "inferiores", não está escrito
+284	"lower."	"inferiores".
+285	of Netzach-Hod, namely the Chagat of Netzach-Hod, are below	de Netzach e Hod, isto é, o Chagat de Netzach e Hod, estão abaixo
+286	the Yesod and are called Lamed.	do Yesod e são chamados Lamed.
+287	And here it says that the upper thirds are Lamed.	E aqui diz que os terços superiores são Lamed.
+288	It turns out that in terms of being below	Resulta que, quanto a estar abaixo
+289	the Yesod.	do Yesod.
+290	According to this we must say that only the top three	Segundo isso é preciso dizer que só os três de cima
+291	of the upper thirds stand above the Yesod.	dos terços superiores ficam acima do Yesod.
+292	Whereas the other upper thirds are found below the Yesod,	Ao passo que os outros terços superiores estão abaixo do Yesod,
+293	and belong to the Lamed,	e pertencem ao Lamed,
+294	like the Bina that is divided in the middle of the Bina.	como a Bina que se divide no meio da Bina.
+295	So again, and here it says that the upper thirds are Lamed.	Então, de novo, e aqui diz que os terços superiores são Lamed.
+296	And here it says that the upper thirds are Lamed.	E aqui diz que os terços superiores são Lamed.
+297	That is, it is not the Chagat	Ou seja, não é o Chagat
+298	of Netzach-Hod,	de Netzach e Hod,
+299	but rather	mas sim
+300	it divides the Chabad of Netzach-Hod itself	ele divide o próprio Chabad de Netzach e Hod
+301	into three parts.	em três partes.
+302	That is, the Chabad	Ou seja, o Chabad
+303	of the Chabad of Netzach-Hod and the Chagat of	do Chabad de Netzach e Hod e o Chagat do
+304	the Chabad of Netzach-Hod.	Chabad de Netzach e Hod.
+305	It turns out that they are, in terms of being, below the Yesod.	Resulta que eles estão, quanto a isso, abaixo do Yesod.
+306	Which...?	Qual...?
+307	The Chagat.	O Chagat.
+308	The Chagat of the Chagat.	O Chagat do Chagat.
+309	Of the Chabad.	Do Chabad.
+310	Of the Chabad.	Do Chabad.
+311	According to this we must say that only	Segundo isso é preciso dizer que só
+312	the top three of the Chabad of Netzach-Hod, whereas	os três de cima do Chabad de Netzach e Hod, ao passo que
+313	the lower thirds, namely the Chagat	os terços inferiores, isto é, o Chagat
+314	of Netzach-Hod, of the Chabad, of Netzach-Hod,	de Netzach e Hod, do Chabad, de Netzach e Hod,
+315	are below the Yesod and belong to the Lamed, like the Bina that is divided	estão abaixo do Yesod e pertencem ao Lamed, como a Bina que se divide
+316	in the middle of the Bina.	no meio da Bina.
+317	So wait, is this a question, or a question	Então espera, isso é uma pergunta, ou uma pergunta
+318	and an answer?	e uma resposta?
+319	He is stating it.	Ele está afirmando.
+320	So where, according to this, does the answer begin?	Então onde, segundo isso, começa a resposta?
+321	Is there a question and answer here?	Há aqui pergunta e resposta?
+322	"It needs to be understood," right?	"É preciso entender", certo?
+323	Is "it needs to be understood" a question?	"É preciso entender" é uma pergunta?
+324	Where is the question stated?	Onde está colocada a pergunta?
+325	And according to this, the Chagat of Netzach-Hod,	E segundo isso, o Chagat de Netzach e Hod,
+326	if so.	se é assim.
+327	If so, right.	Se é assim, certo.
+328	That is what we must say.	É isso que é preciso dizer.
+329	But where does the answer begin here, I ask?	Mas onde começa aqui a resposta, eu pergunto?
+330	That is, in terms of the ZON of Netzach-Hod.	Ou seja, quanto ao ZON de Netzach e Hod.
+331	So which word, according to this, begins the answer?	Então qual palavra, segundo isso, começa a resposta?
+332	After the words "from the Yesod" we should put a question mark,	Depois das palavras "do Yesod" deveríamos pôr um ponto de interrogação,
+333	no?	não?
+334	Etcetera, no?	Etc., não?
+335	I don't know if it is a question and answer or if he simply states the matter, analyzes and determines.	Não sei se é pergunta e resposta ou se ele simplesmente afirma a coisa, analisa e determina.
+336	So he already asks "it needs to be understood."	Então ele já pergunta "é preciso entender".
+337	Okay, it needs to be understood.	Certo, é preciso entender.
+338	Should this be brought as any kind of question?	Isso deve ser tomado como alguma pergunta?
+339	He isn't comparing two opposite places, is he?	Ele não está comparando dois lugares opostos, está?
+340	What?	O quê?
+341	He is comparing two opposite places, isn't he?	Ele está comparando dois lugares opostos, não está?
+342	Well, so what?	Bem, e daí?
+343	It's a question.	É uma pergunta.
+344	It's a question, not a contradiction between	É uma pergunta, não uma contradição entre
+345	two places, no?	dois lugares, não?
+346	Okay, it's a question.	Certo, é uma pergunta.
+347	Okay, it's a question, fine.	Certo, é uma pergunta, tudo bem.
+348	What happened?	O que aconteceu?
+349	They have a question somewhere, and where	Eles têm uma pergunta em algum lugar, e onde
+350	does the answer begin?	começa a resposta?
+351	Is everyone here living in some kind of frenzy?	Todo mundo aqui vive numa espécie de loucura?
+352	We all need pills here.	Todos nós precisamos de remédio aqui.
+353	Yes.	Sim.
+354	He	Ele
+355	seems to me to be going by the words of the Rav, the Ohr Baruch.	me parece que está indo pelas palavras do Rav, o Ohr Baruch.
+356	We'll see in a moment.	Já vamos ver.
+357	The upper thirds of Netzach-Hod are above the Yesod, isn't that what the Rav says?	Os terços superiores de Netzach e Hod estão acima do Yesod, não é isso que o Rav diz?
+358	Does he mean that it is above the Yesod?	Ele quer dizer que está acima do Yesod?
+359	All the best.	Tudo de bom.
