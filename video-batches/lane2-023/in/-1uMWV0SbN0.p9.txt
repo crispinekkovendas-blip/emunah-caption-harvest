@@ -1,0 +1,64 @@
+videoId: -1uMWV0SbN0
+parte 10 de 17 · traduzir as linhas 360 a 399 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O mundo como corredor: a vida da alma após a morte
+RESUMO: O rabino parte da Mishná em Avot, que compara este mundo a um corredor diante do Mundo Vindouro, e explica que a pessoa verdadeira é a alma, não o corpo, citando Bereshit 2:7, o Arizal em Shaar HaGilgulim, Kohelet 12 e o Zohar. Usa o mashal dos gêmeos no ventre, do Rav Tikochinsky, para mostrar que a morte é um nascimento para outra vida, e lembra o Rambam, que tinha inveja de quem parte jovem por ter concluído cedo o seu tikun. Relata os relatos de experiências de quase morte e os compara com o Zohar (Bereshit 218) e o Sifrei, que descrevem os parentes que vêm receber a alma e a revisão das ações. Conta o mashal do homem que salvou a filha do rei e perdeu o tesouro por se distrair, ensinando a distinguir o essencial do secundário. Fala de aproximar outros da Torá (Bereshit 12:5, Rashi, Guemará, Chatam Sofer sobre Avraham e Chanoch) e da importância do voto de acordo com os grandes de Israel. Encerra com Kohelet 7:1 e o mashal dos dois navios, explicando por que o dia da morte de quem tem um bom nome é melhor que o do nascimento e como isso se liga ao aniversário.
+MOMENTOS: 00:32 Mishná de Avot: este mundo é um corredor · 02:29 A criação do homem: pó da terra e sopro de vida · 03:40 Maharchú: a alma tem 248 membros e 365 tendões · 04:36 Arizal: o corpo é apenas a veste do homem · 07:16 Kohelet 12: o pó volta à terra e o espírito a Deus · 09:16 Por que a alma é colocada no corpo · 10:38 Mashal dos gêmeos no ventre (Rav Tikochinsky) · 16:04 O Rambam e a inveja de quem parte jovem · 17:46 Relato do professor e o Zohar sobre a hora da partida · 22:51 Mashal do salvador da filha do rei e o tesouro · 30:39 Aproximar outros: Avraham e Sara em Charan · 37:28 Kohelet 7:1 e o mashal dos dois navios · 41:04 O aniversário e a alegria pelos anos bem usados
+FONTES CITADAS: 01:20 Avot 4:16 · 02:35 Bereshit 2:7 · 03:27 Maharchú (Rabi Chaim Vital), Shaarei Kedushá · 04:41 Arizal, Shaar HaGilgulim, introdução · 07:16 Kohelet 12:1 · 07:35 Kohelet 12:3 · 08:09 Kohelet 12:7 · 09:20 Ramchal e mestres da cabalá segundo o Zohar · 10:38 Rav Tikochinsky, Gesher HaChaim · 16:04 Rambam, carta citada pelo Chatam Sofer · 17:14 Tehilim 118:17 · 20:31 Zohar, Bereshit 218 · 22:10 Sifrei · 28:21 Bava Batra 16a · 28:51 Mishlei 31:25 · 29:05 Kohelet 7:20 · 30:22 Bereshit 12:5 · 30:47 Rashi em Bereshit 12:5 · 30:58 Sanhedrin 99b · 31:57 Yeshayahu 41:8 · 32:04 Bereshit 5:24 · 32:09 Zohar sobre Chanoch · 33:42 Princípio halachico da representação · 35:03 Tehilim 137:1 · 37:34 Kohelet 7:1 · 38:41 Midrash Kohelet Rabá 7:1 · 41:28 Iyov 1:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|22:46|אז הוא מייחד את הזמן שלו לתורה, מצוות, מעשים טובים, חסדים, לא יושב לאבד את הזמן, כי הוא
+349|22:51|יודע כל רגע אני צובר לעצמי עוד ועוד זכויות לעולם הבא.
+350|22:57|מספרים על אדם אחד שהציל את בת המלך.
+351|23:04|נפלה לנהר והוא קפץ אחריה, סיכן את החיים, חילץ אותנו.
+352|23:08|המלך אמר לו, מה שתבקש תקבל לי.
+353|23:10|בת יחידה, החזרת לי את החיים, בלעדיה אין לי חיים.
+354|23:14|אמר לו, לא, אני לא רוצה כלום, זכיתי להציל את בת המלך, זה הפרס.
+355|23:17|הוא אומר לו, לא, אתה חייב לקבל פרס, תגיד לי מה שתבקש תקבל.
+356|23:22|לא, אני לא רוצה, המלך ראה שהוא לא רוצה להגיד, אמרת לו, אז אני אחליט.
+357|23:26|לקח דף של המלכות, כתב, אני מאשר, איך קוראים לך, נגיד משה לוי.
+358|23:32|יבוא ביום ראשון, שבוע הבא, משעה חמש עד שעה שבע למשרד האוצר יכול לקחת מה שהוא
+359|23:38|רוצה במשך שעתיים, מחמש עד שבע אז משרד האוצר לא היה כמו של היום,
+
+LINHAS A TRADUZIR:
+360|23:44|היום יש במשרד האוצר קפה ופקידים אז מה היה במשרד
+361|23:49|האוצר?
+362|23:51|היה מבצר שבתוכו אולמות אולמות, חיילים, שומרים, מסדרונות, באמצע יש
+363|23:56|חדר קטן כל האוצרות של המדינה שם, מטילי זהב, יהלומים, תכשיטים,
+364|24:03|כל התכשיטים של המלכים והמלקות של הדורות הקודמים שהיו שם, הכתרים שלהם,
+365|24:09|חדר אוצרות שווה מיליארדים.
+366|24:11|שעתיים להיכנס?
+367|24:13|חזר הביתה, אמר לי אשתו, אין יותר משכנתה, אין חובות, אנחנו מיליארדרים, תדעת מה זה שעתיים?
+368|24:19|אמנם הוא אומר לה, אני יודע, זה לא בדיוק שעתיים, כי להגיע לחדר של האוצרות, לפחות עשר דקות
+369|24:25|צריך לרוץ דרך אולמות, מסדרונות, לעבור.
+370|24:28|אבל אני, לא ייתנו לי להיכנס או ייתנו עוד מישהו, אני איכנס עם שקים,
+371|24:34|אמלא, אצא, שם אנשים סוס ועגלה בחוץ, אז לא היו מכוניות, נמלא שקים, נשים, אני
+372|24:40|אחזור עוד פעם, מה שאני אספיק זה מיליארדים להיות בשעתיים.
+373|24:44|הגיע אותו יום, כבר חצי שעה לפני ומחכה עם שיירה של כרכרות ועגלות ועם שקים,
+374|24:51|בשעה חמש בדיוק הדלת נפתחה, אדוני, בבקשה.
+375|24:55|זינק פנימה, לא מאבד רגע.
+376|24:59|הוא לא ידע שהיה שר בממשלה שאמר לחברים שלו, אני לא אתן לבן אדם הזה לרוקן
+377|25:05|את האוצרות.
+378|25:06|אמרו לו, מה זה לא תיתן?
+379|25:07|המלך נתן לו רשות לעשות מה שהוא רוצה, שעתיים.
+380|25:10|אמר, ודאי, אני לא אעבור על דברי המלך, אבל אני אעשה הכל כדי
+381|25:16|שכמה שפחות הוא ייקח.
+382|25:18|הוא לא ידע את זה.
+383|25:20|חמש פתחו לו את השערים, פתח בריצה, נכנס, דהר דרך, עבר ככה כמו סוס דוהר.
+384|25:27|דרך המסדרון הראשון, הגיע לאולם הראשון, עמד נדהם.
+385|25:31|הוא רואה התזמורת הפילהרמונית הישראלית והאמריקאית ביחד על במה אחת, שלט ענק, ברוך
+386|25:37|הבא מציל בת המלך, שרים שיר תהילה לכבודו.
+387|25:40|עשר דקות עם השם שלו בפנים, של אשתו, של הילדים, מקהלה של 200
+388|25:46|זמרים, נדהם.
+389|25:49|עמד עשר דקות הגשי.
+390|25:51|אחרי עשר דקות...
+391|25:53|הכרוז אומר לו, אנחנו מאוד מעריכים, אמר, אני מודה לכם, איזה קבלת פנים יפה.
+392|25:58|בא ללכת, אומרים לו, שנייה, תסתכל רגע שמאלה.
+393|26:01|הבילון זז, רואה כל הזמרים שהוא הכי אוהב בעולם על במה אחת.
+394|26:05|לא מאמין, זה מאה אלף דולר ההופעה שלו.
+395|26:08|וזה חמישים אלף.
+396|26:09|אומר, את כל אלה הבאתם בשבילי?
+397|26:11|אתה הצלת את בת המלך, מגיע לך הכל, איזה שיר אתה רוצה.
+398|26:15|בחר, שיר, והם שרים, והוא יחיד הקהל, שומע את השיר הזמר הזה, הזמר, מסתכל
+399|26:20|בשעון, 25 דקות מתוך השעתיים שומע שירים.

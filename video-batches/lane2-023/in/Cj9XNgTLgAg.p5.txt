@@ -1,0 +1,64 @@
+videoId: Cj9XNgTLgAg
+parte 6 de 19 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O Rav verdadeiro e a escolha de quem nasce tolo
+RESUMO: A aula abre a série sobre o Rav verdadeiro, a partir de um artigo de Rabash, com a pergunta se todo ser humano pode ser tzadik, já que cada um nasce com um temperamento diferente. Pela Guemará de Nidá, o anjo Laila determina se a gota será forte ou fraca, sábia ou tola, mas não se será justa ou ímpia. Pela Guemará de Sotá, porém, ninguém peca sem que entre nele um espírito de tolice, o que parece tirar a escolha de quem nasce tolo. Rabash define o sábio como quem anseia por sabedoria (citando Daniel: "Ele dá sabedoria aos sábios") e o tolo como quem não tem esse anseio. O rav explica que a escolha verdadeira está acima da natureza e consiste em escolher o amor a HaShem. Em seguida vem a Guemará de Yoma/Sucá, segundo a qual o Santo, Bendito Seja, plantou os justos em cada geração, e o Salmo 1 ("na roda dos escarnecedores não se assentou"). Daí conclui-se que a escolha essencial é a do ambiente: quem encontra graça aos olhos de pessoas voltadas para a espiritualidade recebe delas pensamentos, desejos e força. A aula termina com a discussão sobre se o tzadik desce até o povo ou o tolo vai até ele, e sobre a influência do tzadik mesmo sem contato direto.
+MOMENTOS: 00:25 Todo ser humano pode ser tzadik? A questão das condições iniciais · 01:29 A ideia de rav: "faze para ti um rav" e como identificá-lo · 02:35 Nidá: o anjo Laila e o que é e não é determinado · 04:47 Sotá: espírito de tolice e a aparente contradição · 10:33 Sábio é quem anseia por sabedoria; tolo, quem não anseia · 12:02 Yoma e Rashi: o Santo plantou os justos em cada geração · 17:33 Daniel: sabedoria aos sábios; o desejo é o recipiente · 22:53 A verdadeira escolha está acima da natureza · 31:07 A solução: aderir ao tzadik e ao ambiente certo · 32:18 Salmos 1:1 e o perigo da roda dos escarnecedores · 35:07 A escolha essencial é a do ambiente · 38:57 Quem encontra graça aos olhos molda os nossos pensamentos · 42:44 Dois caminhos: o tzadik desce ou o tolo vai até ele · 49:13 A influência do tzadik mesmo sem contato direto
+FONTES CITADAS: 01:34 Avot 1:16 · 01:42 Avot 1:6 · 02:35 Nidá 16b · 04:47 Sotá 3a · 12:02 Yoma 38b · 12:17 Shmuel I 2:8 · 12:23 Rashi em Yoma 38b · 16:54 Rabash, artigo "A necessidade de um rav verdadeiro · 17:05 Nidá 16b · 17:33 Daniel 2:21 · 31:54 Sucá 45b · 32:18 Salmos 1:1 · 35:07 Baal HaSulam, sobre atribuir o pecado às circunstâncias · 37:12 Baal HaSulam, "livros e autores · 38:57 Bereshit 6:8 · 41:49 Rabash, artigo "A necessidade de um rav verdadeiro · 46:21 Shemot 32
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|13:43|את אותו דור, אותם פרטים שנמצאים באותה מציאות.
+189|13:49|ועל זה הוא שואל, מהו הרווח
+190|13:55|שעל ידי זה ששתלם בכל דור ודור יהיו מתרבין הצדיקים?
+191|14:04|כן, כי זה שיש צדיקים בכל דור ודור זה גורם לכך גם שיהיה התרבות של
+192|14:10|הצדיקים.
+193|14:11|נראה למה עוד מעט.
+194|14:13|שיש להבין מהו ההבדל אם כל הצדיקים נמצאים בדור אחד, או שפיזרם
+195|14:19|בכל התורות, כמו שמפרש רש"י.
+196|14:23|אז פה הוא נשאר בשאלה, הוא שואל את השאלה, למה הקדוש ברוך הוא ראה לנכון
+197|14:29|לפזר את הצדיקים בכל דור ודור?
+198|14:34|עוד שאלה, סליחה, זו עוד שאלה, זאת השאלה.
+199|14:46|אוקיי, אחרי ששאלנו את כל השאלות הללו, אני חוזר על השאלות שלנו, מה ששאלנו עד עכשיו.
+
+LINHAS A TRADUZIR:
+200|14:53|שאלנו בתחילת השיעור, אמרנו, מובאה ראשונה זה
+201|14:59|שיש מלאך שנקרא לילה שהוא ממונה להיריון, והוא קובע בין השאר אם אדם יהיה
+202|15:05|טיפש או חכם.
+203|15:09|אחרי זה הבאנו מובאה שנייה, כשהוא שואל על מובאה ראשונה, אם אדם הוא טיפש או חכם,
+204|15:17|אז אדם שהוא טיפש נכנסה ברוח שטות ומי שנכנסה ברוח שטות הוא ממילא חוטא ואם
+205|15:23|הוא חוטא אז הוא ממילא לא צדיק אז אם הוא לא...
+206|15:25|אם יקבעו שהוא יהיה טיפש כבר בלידה איך אפשר לו להיות צדיק?
+207|15:32|כי לפי האומה הראשונה צדיק ורשע לא נקבע, לא נאמר
+208|15:38|לא נקבע בעת הלידה אם אדם יהיה צדיק ורשע אז השאלה הראשונה שלנו איך אדם
+209|15:44|יכול להיות צדיק אם נקבע שהוא יהיה טיפש.
+210|15:48|זה באופן כללי השאלה.
+211|15:51|והשאלה השנייה הייתה, למה בכלל צריך את הצדיקים בכל דור
+212|15:57|ודור?
+213|15:57|למה הם שתולים בכל דור ודור?
+214|15:59|מהי התועלת בכך?
+215|16:04|עד כאן יש לכם שאלות?
+216|16:10|הערות?
+217|16:14|ואיך זה קשור לרב אמיתי.
+218|16:17|איך זה קשור לרב אמיתי?
+219|16:19|אנחנו גם צריכים להתייחס לזה.
+220|16:21|מי הוא רב אמיתי?
+221|16:22|איך לבחור רב אמיתי?
+222|16:24|מה התועלת ברב אמיתי?
+223|16:26|יש הרבה מאוד שאלות לגבי הנושא של רב.
+224|16:28|זה נושא מאוד רגיש ומאוד חשוב.
+225|16:39|אז נמשיך הלאה.
+226|16:49|ולהבין את הנעל, קודם כל עכשיו נצטרך להבין, כבר הקדמנו ואמרנו, אבל עכשיו נבין לפי הרפ"ש,
+227|16:54|מהו חכם ומהו טיפש בעבודה הרוחנית.
+228|16:59|להבין את הנעל צריכים להרחיב ולפרש את מאמרי חז"ל, שהקדוש ברוך הוא גוזר על הטיפה
+229|17:05|שתהיה גיבור או חלש, חכם או טיפש.
+230|17:08|היינו מי שמולד חלש, ואין לו כוח להתגבר על יצרו.
+231|17:14|אדם חלש.
+232|17:16|ונולד עם רצון טיפש.
+233|17:18|שהוא טיפש.
+234|17:20|והוא לא בעל כישרונות.
+235|17:23|וכיוון שגם בעת ההכנה, כלומר בעת שהאדם מתחיל בעבודת השם, הוא מוכרח להיות
+236|17:29|מוכשר לקבל את התורה והחוכמה.
+237|17:33|כמו שכתוב, יש משפט שאומר, יאהיב חוכמה, חוכמתה, לחכימין.
+238|17:40|ככה מופיע בספר דניאל.
+239|17:41|יאהיב חוכמתה לחכימין.

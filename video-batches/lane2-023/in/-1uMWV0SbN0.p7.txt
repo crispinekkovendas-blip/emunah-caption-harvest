@@ -1,0 +1,64 @@
+videoId: -1uMWV0SbN0
+parte 8 de 17 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O mundo como corredor: a vida da alma após a morte
+RESUMO: O rabino parte da Mishná em Avot, que compara este mundo a um corredor diante do Mundo Vindouro, e explica que a pessoa verdadeira é a alma, não o corpo, citando Bereshit 2:7, o Arizal em Shaar HaGilgulim, Kohelet 12 e o Zohar. Usa o mashal dos gêmeos no ventre, do Rav Tikochinsky, para mostrar que a morte é um nascimento para outra vida, e lembra o Rambam, que tinha inveja de quem parte jovem por ter concluído cedo o seu tikun. Relata os relatos de experiências de quase morte e os compara com o Zohar (Bereshit 218) e o Sifrei, que descrevem os parentes que vêm receber a alma e a revisão das ações. Conta o mashal do homem que salvou a filha do rei e perdeu o tesouro por se distrair, ensinando a distinguir o essencial do secundário. Fala de aproximar outros da Torá (Bereshit 12:5, Rashi, Guemará, Chatam Sofer sobre Avraham e Chanoch) e da importância do voto de acordo com os grandes de Israel. Encerra com Kohelet 7:1 e o mashal dos dois navios, explicando por que o dia da morte de quem tem um bom nome é melhor que o do nascimento e como isso se liga ao aniversário.
+MOMENTOS: 00:32 Mishná de Avot: este mundo é um corredor · 02:29 A criação do homem: pó da terra e sopro de vida · 03:40 Maharchú: a alma tem 248 membros e 365 tendões · 04:36 Arizal: o corpo é apenas a veste do homem · 07:16 Kohelet 12: o pó volta à terra e o espírito a Deus · 09:16 Por que a alma é colocada no corpo · 10:38 Mashal dos gêmeos no ventre (Rav Tikochinsky) · 16:04 O Rambam e a inveja de quem parte jovem · 17:46 Relato do professor e o Zohar sobre a hora da partida · 22:51 Mashal do salvador da filha do rei e o tesouro · 30:39 Aproximar outros: Avraham e Sara em Charan · 37:28 Kohelet 7:1 e o mashal dos dois navios · 41:04 O aniversário e a alegria pelos anos bem usados
+FONTES CITADAS: 01:20 Avot 4:16 · 02:35 Bereshit 2:7 · 03:27 Maharchú (Rabi Chaim Vital), Shaarei Kedushá · 04:41 Arizal, Shaar HaGilgulim, introdução · 07:16 Kohelet 12:1 · 07:35 Kohelet 12:3 · 08:09 Kohelet 12:7 · 09:20 Ramchal e mestres da cabalá segundo o Zohar · 10:38 Rav Tikochinsky, Gesher HaChaim · 16:04 Rambam, carta citada pelo Chatam Sofer · 17:14 Tehilim 118:17 · 20:31 Zohar, Bereshit 218 · 22:10 Sifrei · 28:21 Bava Batra 16a · 28:51 Mishlei 31:25 · 29:05 Kohelet 7:20 · 30:22 Bereshit 12:5 · 30:47 Rashi em Bereshit 12:5 · 30:58 Sanhedrin 99b · 31:57 Yeshayahu 41:8 · 32:04 Bereshit 5:24 · 32:09 Zohar sobre Chanoch · 33:42 Princípio halachico da representação · 35:03 Tehilim 137:1 · 37:34 Kohelet 7:1 · 38:41 Midrash Kohelet Rabá 7:1 · 41:28 Iyov 1:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|16:38|מי מקבל את מדליית הזהב?
+269|16:41|מי שהגיע הראשון או מי שהגיע האחרון?
+270|16:44|הראשון, עקפת את כולם.
+271|16:46|אומר הרמב״ם, אדם שנפטר צעיר, זה אומר שהוא סיים את התיקון שלו בגיל צעיר, הוא עקף את כולם.
+272|16:52|מדליית הזהב היא שלו.
+273|16:53|יש אדם צריך 90 שנה כדי להשלים את מה שצריך להשלים.
+274|16:57|ויש אדם שסיים את זה במהירות.
+275|17:03|רק ההסתכלות שלנו היא הסתכלות מצומצמת.
+276|17:05|אצל אנשים גדולים זו הסתכלות אחרת.
+277|17:08|כל זמן שאדם חי בעולם, ודאי צריך לשאוף, להאריך ימים, כמו שאומר דוד המלך, לא אמות כי אחיה
+278|17:14|ואספר מעשיה.
+279|17:16|לחיות בעולם, להרוויח כל יום עוד תפילין, עוד תורה, עוד מצוות, עוד מעשים טובים.
+
+LINHAS A TRADUZIR:
+280|17:21|אבל אם שומעים על אדם שנפטר צעיר, אומר הרמב״ם שהוא מקנא באותו אדם שהוא סיים
+281|17:27|במהירות מה שלוקח לאחרים.
+282|17:30|לאחרים לוקח הרבה זמן, והוא עשה את זה מהר, סיים את התיקון שלו.
+283|17:36|הדברים שאמרנו עכשיו, שהאדם האמיתי זו הנשמה שהיא לא מתה אף פעם,
+284|17:42|היום אפילו החוקרים התחילו לגלות דברים כאלה.
+285|17:46|אני אספר מעשה שהיה לפני כמה שנים, היה ערוץ אחד, כבר סגרו אותו.
+286|17:54|הם עשו שם תוכנית בשאלה האם יש חיים לאחר המוות.
+287|17:58|אז כל המשתתפים שם לא היו אנשים דתיים, באו מהצד המחקרי.
+288|18:04|אבל מישהו ראה שכתבתי על זה שם בספר מסע אל האמת, תכף נקריא את לשון הזוהר.
+289|18:10|הבאנו כאן גם את דברי הזוהר, גם מחקרים, אז...
+290|18:16|אז מישהו שם אמר שהוא כתב על זה, אז הזמינו, ביקשו שנגיע לשם.
+291|18:21|הגעתי לאותה תוכנית.
+292|18:25|אחד המרואיינים, הם רצו גם מהצד המדעי, גם מהצד היהודי, מה היהדות אומרת.
+293|18:32|אז ראינו את אלה שעברו חוויות שונות, אחד מהם היה פרופסור מבית חולים לניאדו.
+294|18:38|הוא סיפר שם שהוא טבע בבריכה, הוא הרגיש שהוא יוצא מתוך הגוף החוצה, מרחף
+295|18:44|למעלה.
+296|18:45|הוא רואה את עצמו בתוך המים והוא אומר שהוא לא הבין איפה הוא נמצא כי
+297|18:50|מלמעלה הוא מרגיש אני לבעלה אבל הוא רואה את הגוף בתוך המים אז איפה אני?
+298|18:55|אני פה שאני שם בינתיים הוא אומר הוא רואה את החיים עוברים
+299|19:01|במהירות כמו בסרט מראים לו מה שהוא עשה היו קטעים שהוא אומר הייתי גאה בהם
+300|19:07|שעשיתי אותם הנה מצולם היו קטעים מאוד התביישתי חשבתי שהייתי לבד אף אחד לא ראה כל
+301|19:12|מצולם מראים לו מאוד התבייש והנה הוא רואה קרובי
+302|19:18|משפחה שמתו לפניו באים.
+303|19:20|הוא לא מבין מה הם עושים פה.
+304|19:23|סבתא נשתרה מזמן, מה היא עושה כאן?
+305|19:25|רואה את אבא שלו מגיע?
+306|19:26|ברוך הבא.
+307|19:31|מקדמים בברכה את ראש העיר, הרב יהודה אבוטבול, שבאמת, אנחנו אומנם נמצאים בביתר, אבל שומעים
+308|19:37|על הדברים הגדולים שהוא עושה כאן בעיר אלעד, שהשם יטעון להמשך סייעתא דשמיא,
+309|19:43|ימשיך להגדיל תורה ולהדירה.
+310|19:50|הוא לא מבין, הוא רואה קרובי משפחה שמתו והם באים.
+311|19:54|בינתיים הוא אומר שהוא רואה שהם מוציאים אותו מהמים, עושים החייאה, נשאב חזרה לגוף, פקח
+312|19:59|עיניים, מתעורר.
+313|20:02|אחרי שהמראיין התווכח איתו, פנה אליי, אומר לי, מה אתה אומר על דברי הפרופסור?
+314|20:07|עכשיו שם זה ערוץ אחד, לא אנשים מחוברים ליהדות, אבל רצו איזון, מה היהדות אומרת.
+315|20:15|אמרתי לו, כל מה שהוא סיפר כאן, הפרופסור הזה, כתוב אצלנו בספר הזוהר.
+316|20:21|הקראתי בפניהם, אומר הזוהר כך
+317|20:31|בראשית דף רי"ח: בשעתה
+318|20:37|דהשלימו יומי דברנש להפקה מעלמה.
+319|20:41|ארמית קרובה לעברית, מי שלומד גמרא אז כבר מבין, אבל גם מי שלא לומד, ארמית קרובה.

@@ -1,0 +1,36 @@
+videoId: -GGd2wl_gWg
+parte 4 de 4 · traduzir as linhas 360 a 371 (12 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Shechitá em objeto solto ou preso ao solo, Rambam
+RESUMO: O rabino estuda o Rambam, Hilchot Shechitá, capítulo 1, halachot 19 a 21, sobre a exigência de que o objeto usado na shechitá esteja solto do solo. Parte da Mishná e da Gemará em Chulin 15b, onde Rabi e Rabi Chiya discordam, e a halachá segue Rabi: shechitá em objeto preso ao solo desde a criação é inválida mesmo a posteriori. A fonte do ensinamento é o versículo "Vayikach et hamachelet lishchot" (Bereshit 22:10), com os Tosafot explicando que a Torá não diz "vayachen". Em seguida ele divide os casos: solto é permitido de início; solto e depois fixado é válido só a posteriori; fixado com intenção de anular ali é dúvida de Rava, com discussão entre Rif, Rambam, Shulchan Arukh, Ba'al HaMaor e Rosh; e solto, fixado e que criou raízes volta a ser tratado como preso. Por fim, apresenta a discussão do Be'er Yitzchak sobre a unha humana e a halachá 21 sobre a mandíbula do animal, em que um dente é válido e dois dentes são inválidos por causa da falha entre eles (Chulin 18a, Rashi).
+MOMENTOS: 00:05 Introdução: shechitá com objeto solto do solo · 00:30 Revisão da halachá 14: com o que se pode fazer shechitá · 02:33 A sugyá em Chulin 15b: Rabi e Rabi Chiya · 05:01 A halachá segue Rabi: preso ao solo é inválido · 06:34 Rambam, halachot 19 e 20: os três casos · 08:31 Fonte: Vayikach et hamachelet (Bereshit 22:10) · 11:34 Tosafot e a resposta de Rabi Chiya · 13:57 Dúvida de Rava: fixado e anulado no local · 16:45 Opiniões dos Rishonim e Poskim sobre a dúvida · 19:44 Quinta distinção: o objeto que criou raízes · 20:39 Resumo de todos os casos · 25:20 Be'er Yitzchak: a unha humana · 27:37 Halachá 21: dente e mandíbula do animal
+FONTES CITADAS: 00:35 Rambam, Hilchot Shechitá 1:14 · 02:38 Chulin 15b (Mishná) · 03:08 Chulin 15b (Mishná) · 03:21 Chulin 15b (Rav Kahana) · 04:29 Chulin 15b (Baraita) · 06:39 Rambam, Hilchot Shechitá 1:19 · 07:02 Rambam, Hilchot Shechitá 1:20 · 08:31 Chulin 16a · 08:43 Bereshit 22:10 · 10:04 Tosafot, Chulin 16a, d"h Minayin · 10:51 Chulin 16a (Rabi Chiya) · 11:16 Maguid Mishné, Hilchot Shechitá 1:20 · 13:57 Chulin 16a (dúvida de Rava) · 14:59 Rif, Chulin · 15:18 Ba'al HaMaor, Chulin · 15:41 Ramban, Milchamot HaShem, Chulin · 16:03 Rashba, Nimukei Yosef · 16:45 Rashba, Meiri e Beit Yosef, Yoré Deá 6, sobre o Rambam · 17:06 Shulchan Arukh, Yoré Deá 6:2 · 17:42 Taburot Shor · 18:26 Bach, Yoré Deá 6 · 20:12 Shulchan Arukh, Yoré Deá 6:2 · 25:20 Be'er Yitzchak, citando Yeriot Shlomo 6 · 25:51 Tur, Yoré Deá 6 · 26:06 Shulchan Arukh, Yoré Deá 6 · 27:37 Chulin 18a (Rava bar Avuna) · 27:50 Chulin 18a (Mishná) · 28:31 Rashi, Chulin 18a · 28:46 Rambam, Hilchot Shechitá 1:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|27:50|אומרת הגמרא וענת נען חוץ ממגל קציר והמגירה והשיניים והציפורן מפני שהם
+349|27:56|חונקים משמע שהם לא משמשים בתור שקים אומרת הגמרא שנשן לה
+350|28:02|קשיא אבא חדא אבא תרתי פה זה בשן אחת פה זה בשני שיניים ואז זה
+351|28:08|נחשב כפגם ציפורן על ציפורן לה קשיא אבא תלושה אבא מחוברת אז
+352|28:13|הגמרא מקשה על דברי רבא בר אבונה שאמר שמותר לכתחילה לשחוט על ידי שן ממה ששנים
+353|28:20|במשנה שאין שוחטים בה אז הכוונה היא שהמשנה
+354|28:25|מדברת על שני שיניים רש"י מסביר כמו
+355|28:31|שאמרתי משום שהרווח שביניהם נחשב כפגימה
+356|28:40|עכשיו כותב פה רבנו הרמב״ם בהלכה כ"א
+357|28:46|לקח לחי בהמה שיש בו שיניים חדות ושחט בהם שחיטתו פסולה
+358|28:52|מפני שאין כמגל אבל בשן אחת הקבועה בלחי שוחט בלחי תחילה ואף על פי שהיא
+359|28:58|קבועה בו זאת אומרת בשן אחת אפשר לשחוט אבל זה באמת תמיהה
+
+LINHAS A TRADUZIR:
+360|29:05|הרי עכשיו למדנו ששן שהיא קבועה זה נחשב כמחובר לקרקע אז איך הרמב״ם אומר לקח לחי
+361|29:11|בהמה שיש בו שיניים חדות ושחט בהן אז שחיטתו פסולה בגלל שזה שתי שיניים
+362|29:17|אז יש שם פגם באמצע אבל אם זה היה שן אחת זה היה כשר או,
+363|29:23|אז ההסבר הוא פשוט.
+364|29:25|כל זמן שהבהמה היא בחיותה או בשלמותה, אז הנה חינמי.
+365|29:31|אבל אם הוא לוקח לחי של בהמה, זה נחשב כבר תלוש.
+366|29:37|ואז אם זה יש ברק שנחת בלחי, השחיטה תהיה כשרה.
+367|29:41|אבל אם זה שני שיניים, השחיטה תהיה פסולה.
+368|29:47|נפלא מאוד.
+369|29:48|נמשיך בעזרת השם נתברך ונמנה את השיעור הבא.
+370|29:51|ברוך ה' לעולם, אמן ואמן.
+371|29:56|חזקים וברוכים.

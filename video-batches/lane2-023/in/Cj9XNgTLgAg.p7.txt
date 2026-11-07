@@ -1,0 +1,64 @@
+videoId: Cj9XNgTLgAg
+parte 8 de 19 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O Rav verdadeiro e a escolha de quem nasce tolo
+RESUMO: A aula abre a série sobre o Rav verdadeiro, a partir de um artigo de Rabash, com a pergunta se todo ser humano pode ser tzadik, já que cada um nasce com um temperamento diferente. Pela Guemará de Nidá, o anjo Laila determina se a gota será forte ou fraca, sábia ou tola, mas não se será justa ou ímpia. Pela Guemará de Sotá, porém, ninguém peca sem que entre nele um espírito de tolice, o que parece tirar a escolha de quem nasce tolo. Rabash define o sábio como quem anseia por sabedoria (citando Daniel: "Ele dá sabedoria aos sábios") e o tolo como quem não tem esse anseio. O rav explica que a escolha verdadeira está acima da natureza e consiste em escolher o amor a HaShem. Em seguida vem a Guemará de Yoma/Sucá, segundo a qual o Santo, Bendito Seja, plantou os justos em cada geração, e o Salmo 1 ("na roda dos escarnecedores não se assentou"). Daí conclui-se que a escolha essencial é a do ambiente: quem encontra graça aos olhos de pessoas voltadas para a espiritualidade recebe delas pensamentos, desejos e força. A aula termina com a discussão sobre se o tzadik desce até o povo ou o tolo vai até ele, e sobre a influência do tzadik mesmo sem contato direto.
+MOMENTOS: 00:25 Todo ser humano pode ser tzadik? A questão das condições iniciais · 01:29 A ideia de rav: "faze para ti um rav" e como identificá-lo · 02:35 Nidá: o anjo Laila e o que é e não é determinado · 04:47 Sotá: espírito de tolice e a aparente contradição · 10:33 Sábio é quem anseia por sabedoria; tolo, quem não anseia · 12:02 Yoma e Rashi: o Santo plantou os justos em cada geração · 17:33 Daniel: sabedoria aos sábios; o desejo é o recipiente · 22:53 A verdadeira escolha está acima da natureza · 31:07 A solução: aderir ao tzadik e ao ambiente certo · 32:18 Salmos 1:1 e o perigo da roda dos escarnecedores · 35:07 A escolha essencial é a do ambiente · 38:57 Quem encontra graça aos olhos molda os nossos pensamentos · 42:44 Dois caminhos: o tzadik desce ou o tolo vai até ele · 49:13 A influência do tzadik mesmo sem contato direto
+FONTES CITADAS: 01:34 Avot 1:16 · 01:42 Avot 1:6 · 02:35 Nidá 16b · 04:47 Sotá 3a · 12:02 Yoma 38b · 12:17 Shmuel I 2:8 · 12:23 Rashi em Yoma 38b · 16:54 Rabash, artigo "A necessidade de um rav verdadeiro · 17:05 Nidá 16b · 17:33 Daniel 2:21 · 31:54 Sucá 45b · 32:18 Salmos 1:1 · 35:07 Baal HaSulam, sobre atribuir o pecado às circunstâncias · 37:12 Baal HaSulam, "livros e autores · 38:57 Bereshit 6:8 · 41:49 Rabash, artigo "A necessidade de um rav verdadeiro · 46:21 Shemot 32
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|19:13|למי שיש לו שאלה של חכם.
+269|19:21|התירוץ, כמו שהוא אומר כאן, שחכם נקרא מי שמשתוקק לחוכמה, אף על פי שעדיין אין לו
+270|19:27|חוכמה, אלא כיוון שיש לו רצון, ורצון נקרא
+271|19:32|כלי.
+272|19:34|נמצא שמי שיש לו רצון והשתוקקות לחוכמה, הוא כלי להאיר
+273|19:41|שם חוכמה.
+274|19:44|אז הבנו פה את הנקודה הזאת, זו נקודה חשובה, זו נקודה מפתיעה גם פה.
+275|19:50|שנותן חוכמה דווקא לחכמים.
+276|19:55|מי הוא חכם?
+277|19:56|מי שרוצה ומחפש ודורש ושואל על החוכמה.
+278|20:01|חכם לא נקרא דווקא תענוג, בדרך כלל אנחנו נכנסים מתוך החוכמה לתענוג למטרת
+279|20:07|הבריאה.
+
+LINHAS A TRADUZIR:
+280|20:08|אבל חכם מצד המושך הוא צריך דווקא להיות משפיע.
+281|20:13|אז החכם הוא נקרא משפיע.
+282|20:16|אז אדם שרוצה להיות משפיע, שיש לו...
+283|20:19|השתויקות להיות משפיעה, הוא זה שישיג את המידה הזאת שנקראת השפעה.
+284|20:24|אבל
+285|20:38|אז אנחנו חוזרים לשאלה.
+286|20:40|אם אדם לא אוהב מוזיקה והוא לא מרגיש שחסר לו,
+287|20:46|אין לו חשק מיוחד, הוא לא מרגיש איזשהו חיסרון למוזיקה.
+288|20:50|אז למה שהוא יתאמץ לשמוע יצירה מוזיקלית מורכבת?
+289|20:55|למה שהוא יתאמץ להרחיב את אופקיו דווקא בתחום הזה?
+290|20:58|זה לא מעניין אותו.
+291|21:01|אז אנחנו חוזרים לשאלה איך אפשר לעורר באדם שהוא לא חכם, שאין לו השתוקות לחוכמה, איך
+292|21:07|אפשר לעורר בו את הרצון לחוכמה?
+293|21:11|ונמצא לפי זה, מי שמעל טיפש, מי נקרא טיפש?
+294|21:16|תגידו לי, אתם?
+295|21:22|חסר השתוקקות לחוכמה.
+296|21:24|יפה, נכון.
+297|21:26|אז אם אדם שנקרא טיפש, שאין לו השתוקות או חסר השתוקות לחוכמה, כמו שלימור אומרת, וכל השתוקות
+298|21:32|שלו היא רק לצורכי עצמו, ומבחינת השפעה אין הטיפש מסוגל לבחינת השפעה ולא כלום.
+299|21:40|אם כך, אדם שנולד בתכונות האלו, איך אפשר שיגיע למדרגת צדיק?
+300|21:47|פלונטר נמצא, ויותר מזה אפילו, שהוא לא בעל בחירה.
+301|21:56|הוא לא יכול לבחור בזה.
+302|21:59|כי אדם טיפש, זה ממילא מוכרח שהוא טיפש.
+303|22:02|כי הרי זה נקבע כבר בעת הלידה.
+304|22:04|ואם הוא טיפש, ואין לו רצון לברוכמיות, אז מה יעשה?
+305|22:08|איך יהיה צדיק?
+306|22:10|אבל זה סותר את המאמר הראשון, שטיפש וחכם נקבע, אבל צדיק
+307|22:16|ורשע לא נקבע.
+308|22:18|אז אנחנו חוזרים פה לשאלה.
+309|22:20|איך אדם שהוא טיפש יכול להיות צדיק.
+310|22:24|יש פה סתירות כביכול, כביכול אני אומר, כי אין פה באמת סתירות, אבל אפשר כביכול
+311|22:30|לראות סתירות בכתובים.
+312|22:45|יש פה הרבה שאלות על הבחירה, שאפשר לדבר עליהן כמה ש...
+313|22:49|כמה שתרצו, אבל בחירה זה נושא מאוד מורכב.
+314|22:53|הבחירה היא לא בחירה בין שתי אפשרויות שונות.
+315|22:58|זאת לא הבחירה של האדם.
+316|23:00|הבחירה של האדם היא רק בתנועה אחת.
+317|23:03|בתנועה של, בסופו של דבר, של אהבת השם.
+318|23:08|בזה הוא בוחר.
+319|23:09|כל בחירה שהיא לא בחירה באהבה, היא לא בחירה.

@@ -1,0 +1,64 @@
+videoId: a37jL33Wtx0
+parte 10 de 22 · traduzir as linhas 360 a 399 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Soldado capturado pode se suicidar? Shaul e o Mista'arvim
+RESUMO: O rabino parte da pergunta de um soldado da unidade Mista'arvim (Duvdevan): se for capturado, é permitido tirar a própria vida para não ser torturado? Ele distingue o caso do agente, que agiria ativamente (kum va'asé), do caso do piloto que nada faz (shev ve'al ta'asé). Mostra, na Gemará (Bava Batra 8b, Ketubot 33b) e em dois Midrashim, que o cativeiro é o pior dos sofrimentos e que é melhor morrer a cair nas mãos de carne e osso. Depois traz o rei Shaul, que se atirou sobre a espada (Shmuel I 31), e confronta com a Gemará e o Rambam, que dizem que quem se mata é assassino. Expõe as respostas: Orchot Chaim, o Midrash Bereshit Rabá 34:13 ("ach"), o Radak (Shaul sabia pela evocação de Shmuel que morreria), os 400 meninos de Gitin 57b, o Bach e o Chatam Sofer (conversão forçada) e o Yam shel Shlomo (evitar que o povo morresse para resgatá-lo). A conclusão halachá lemaassé: não há permissão para se suicidar, pois há precedentes de cativos que voltaram para casa e o ser morto por gentio tem grande mérito.
+MOMENTOS: 00:16 A unidade Mista'arvim e seu trabalho em território hostil · 05:32 A pergunta do soldado: posso me matar se for capturado? · 08:49 Soldado versus piloto: ação ativa e omissão · 13:23 Duas Gemarot: o cativeiro é o pior sofrimento · 19:42 Midrash: sete coisas pelas quais é melhor morrer · 26:30 O rei Shaul se mata na guerra contra os filisteus · 34:19 Gemará e Rambam: quem se mata é assassino · 36:07 Respostas: Orchot Chaim e Bereshit Rabá 34:13 · 38:00 Radak: Shaul sabia que morreria, a evocação de Shmuel · 48:08 Os 400 meninos em Gitin 57b e a Tosafot · 53:07 Bach, Chatam Sofer e Yam shel Shlomo · 56:40 Conclusão: não há permissão; precedentes de cativos que voltaram
+FONTES CITADAS: 13:38 Bava Batra 8b · 15:50 Ketubot 33b · 16:16 Shulchan Arukh, Yoré Deá 157:1 · 16:16 Pesachim 25b · 19:42 Otzar HaMidrashim, Chupat Eliyahu p. 164 · 20:20 Talmud Yerushalmi (não se aprende halachá da agadá) · 24:00 Zohar Teruma 2:... (cita "Terzaria") · 24:18 Tikunei HaZohar 11b · 24:48 Otzar HaMidrashim p. 513 · 24:53 Shmuel II 24:14 · 26:43 Devarim 33:5 · 31:19 Shmuel I 31:4 · 33:49 Shmuel I 31:4 · 34:30 Bereshit 9:5 · 34:24 Bava Kamma 91b · 34:39 Rambam, Hilchot Rotzeach 2:2 · 35:10 Shut Shevut Yaakov 3 · 36:07 Orchot Chaim (Rabeinu Aharon de Lunel), simán 4 · 37:05 Bereshit Rabá 34:13 · 38:00 Radak em Shmuel I 31:4 · 38:53 Chagigá 4b · 38:53 Zohar, Shelach Lecha 9a · 43:22 Shmuel I 28:13 · 44:09 Shmuel I 28:19 · 44:09 Berachot 12b · 47:20 Chagigá 4b · 47:20 Etz Chaim, Sha'ar 22 · 48:14 Gitin 57b · 50:50 Tehilim 68:23 · 50:21 Rashi em Gitin 57b · 51:52 Tosafot em Gitin 57b · 52:11 Shulchan Arukh, Yoré Deá 345:1 · 52:23 Shach em Yoré Deá 345:6 · 53:15 Tosafot em Avodá Zará 18a · 53:22 Bach e Chatam Sofer, Yoré Deá · 54:57 Shemot 18:11 · 55:27 Yam shel Shlomo em Bava Kamma, cap. 8 · 57:01 Bava Batra 10b · 57:01 Pesachim 50a · 59:31 Chulin 13b · 59:31 Shulchan Arukh, Yoré Deá 148 · 1:01:20 Machzor, Dez Dias de Arrependimento
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|26:13|אז עכשיו חוזרת השאלה של אותו מסתערב האם מותר לו להתאבד כדי שהם לא יתפסו
+349|26:19|אותו?
+350|26:20|כי עדיף אדם ימות ולא יפול בידיים של בשר ודם.
+351|26:25|אז הכי קרוב לשאלה הזאת, זו הייתה שאלה שכבר הבאתי אותה באחד
+352|26:30|השיעורים, שדיברנו בה.
+353|26:33|מי היה המלך הראשון של עם ישראל?
+354|26:34|מי יודע?
+355|26:36|המלך הראשון?
+356|26:38|משה רבנו.
+357|26:40|ויהי באישורון מלך ויתאסף ראש העם.
+358|26:43|אומרת הגמרא, ויהי באישורון מלך, זה משה רבנו שהיה מלך של ישראל.
+359|26:48|אבל אולי זה יותר על צד המשל, הוא היה מנהיג, אז קראו אותו מלך,
+
+LINHAS A TRADUZIR:
+360|26:54|ויהי בישורון מלך, אבל הוא לא היה מלך בתוקף מעמד מלכותי.
+361|26:59|אז מי המלך הראשון שזכה עם ישראל?
+362|27:02|זה כמובן שאול המלך.
+363|27:04|שאול המלך, איך הוא נפטר מן העולם, מישהו יודע?
+364|27:08|מה היה הסיפור איתו?
+365|27:12|חז"ל אומרים, בספר שמואל, פרק א', פסוק ל"א, ששאול המלך
+366|27:18|יצא למלחמה נגד הפלישתים
+367|27:24|הערבים של ימינו שרוצים להגיד שהפלישתים זה הפלסטינים אבל עפר לפומיו
+368|27:30|בכלל הם לא קשורים אליהם בכלל העם הפלישתי נכחד כבר מהאדמה
+369|27:35|הזאת מזמן הם לא קשורים אליהם בכלל מה שהכי מצחיק שהם כל הזמן טוענים
+370|27:41|לבעלות של האדמה ולקחתם אדמות של פלסטין וזה אדמות של ערבים אין
+371|27:47|בעיה האדמה הזאת הייתה שלכם לפני שבאנו מכאן מארבע כצוות הארץ והכרזנו ב-48 על מדינה יהודית
+372|27:53|ארץ ישראל, אין בעיה.
+373|27:55|תראו לנו פה מטבעות שלכם.
+374|27:57|מעולם אין מטבעות של מדינת פלסטין.
+375|28:00|תראו דגל של מדינת פלסטין לפני שהמצאתם את הדגל הזה של הצהוב מהבהב.
+376|28:05|אה?
+377|28:06|תראו לנו, אה?
+378|28:07|שום דבר.
+379|28:08|תראו לנו בבקשה ראש ממשלה שלכם, לפני שבאנו לפה.
+380|28:13|ארכיאולוגיה שלכם, ספרות שלכם.
+381|28:17|משהו שנוכל להיאחז שהייתה כאן מדינה.
+382|28:20|הרי אם אנחנו נלך לכל מקום בעולם ונרצה להוכיח שהייתה מדינה, אז דבר ראשון, תראו לי את
+383|28:25|הפרלמנט, תראו לי את הכנסת, תראו לי את חברי הוועדה שלכם, תראו לי את ההיסטוריה
+384|28:31|שלכם, המנון, תראו לי את מטבעות, שטרות,
+385|28:36|כסף, שום דבר, אין כלום, שום דבר.
+386|28:41|עד היום בהר הבית כל הממצאים שמוצאים הם רק ממצאים יהודיים.
+387|28:46|וגם גודל החפירה העצומה שהם חפרו מתחת להר הבית ועשו שם את המסגד הכי גדול
+388|28:52|במזרח התיכון שזה היה בזמן שליטתו של אהוד ברק
+389|28:57|במרץ 2000 שכבר עשיתי על זה שיעור על כל החפירה הרשלנית הזאת
+390|29:03|מה שהם עשו מתחת להר הבית וחפרו שמה הוציאו ממצאים אדירים
+391|29:08|מימות בית ראשון וימי בית שני ואת הכל הם רמסו זרקו את הכל
+392|29:14|לנחל כדרון שגם זה היה אסור להם לעשות את זה ממתי מותר לזרוק שפך לגנים לאומיים אבל
+393|29:20|מי אמר להם מה תעשה ומה תפעל הרי הם שולטים על הכל ככה זה עובד המדינה מנוהלת
+394|29:26|שאת הקודשי ישראל ניתנו למרמס
+395|29:32|וקודשי פלסטין, מי יכול לדבר איתם?
+396|29:35|למה?
+397|29:35|כי אף אחד לא רוצה להיכנס לתקריות דיפלומטיות בעולם.
+398|29:39|אז ככה זה הולך, בקיצור.
+399|29:40|לא, יש עוד הרבה מה לדבר, אבל אין לי זמן לזה.

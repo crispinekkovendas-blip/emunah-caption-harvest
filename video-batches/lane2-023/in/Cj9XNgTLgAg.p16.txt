@@ -1,0 +1,64 @@
+videoId: Cj9XNgTLgAg
+parte 17 de 19 · traduzir as linhas 640 a 679 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O Rav verdadeiro e a escolha de quem nasce tolo
+RESUMO: A aula abre a série sobre o Rav verdadeiro, a partir de um artigo de Rabash, com a pergunta se todo ser humano pode ser tzadik, já que cada um nasce com um temperamento diferente. Pela Guemará de Nidá, o anjo Laila determina se a gota será forte ou fraca, sábia ou tola, mas não se será justa ou ímpia. Pela Guemará de Sotá, porém, ninguém peca sem que entre nele um espírito de tolice, o que parece tirar a escolha de quem nasce tolo. Rabash define o sábio como quem anseia por sabedoria (citando Daniel: "Ele dá sabedoria aos sábios") e o tolo como quem não tem esse anseio. O rav explica que a escolha verdadeira está acima da natureza e consiste em escolher o amor a HaShem. Em seguida vem a Guemará de Yoma/Sucá, segundo a qual o Santo, Bendito Seja, plantou os justos em cada geração, e o Salmo 1 ("na roda dos escarnecedores não se assentou"). Daí conclui-se que a escolha essencial é a do ambiente: quem encontra graça aos olhos de pessoas voltadas para a espiritualidade recebe delas pensamentos, desejos e força. A aula termina com a discussão sobre se o tzadik desce até o povo ou o tolo vai até ele, e sobre a influência do tzadik mesmo sem contato direto.
+MOMENTOS: 00:25 Todo ser humano pode ser tzadik? A questão das condições iniciais · 01:29 A ideia de rav: "faze para ti um rav" e como identificá-lo · 02:35 Nidá: o anjo Laila e o que é e não é determinado · 04:47 Sotá: espírito de tolice e a aparente contradição · 10:33 Sábio é quem anseia por sabedoria; tolo, quem não anseia · 12:02 Yoma e Rashi: o Santo plantou os justos em cada geração · 17:33 Daniel: sabedoria aos sábios; o desejo é o recipiente · 22:53 A verdadeira escolha está acima da natureza · 31:07 A solução: aderir ao tzadik e ao ambiente certo · 32:18 Salmos 1:1 e o perigo da roda dos escarnecedores · 35:07 A escolha essencial é a do ambiente · 38:57 Quem encontra graça aos olhos molda os nossos pensamentos · 42:44 Dois caminhos: o tzadik desce ou o tolo vai até ele · 49:13 A influência do tzadik mesmo sem contato direto
+FONTES CITADAS: 01:34 Avot 1:16 · 01:42 Avot 1:6 · 02:35 Nidá 16b · 04:47 Sotá 3a · 12:02 Yoma 38b · 12:17 Shmuel I 2:8 · 12:23 Rashi em Yoma 38b · 16:54 Rabash, artigo "A necessidade de um rav verdadeiro · 17:05 Nidá 16b · 17:33 Daniel 2:21 · 31:54 Sucá 45b · 32:18 Salmos 1:1 · 35:07 Baal HaSulam, sobre atribuir o pecado às circunstâncias · 37:12 Baal HaSulam, "livros e autores · 38:57 Bereshit 6:8 · 41:49 Rabash, artigo "A necessidade de um rav verdadeiro · 46:21 Shemot 32
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+628|44:13|כן.
+629|44:13|עוד שהבנתי מה נכון.
+630|44:14|הבנתי, אוקיי.
+631|44:16|נראה לי שהבנתי.
+632|44:17|זאת אומרת, את שואלת בעצם איך בכלל אדם שהוא טיפש, שהוא חסר השתוקות לרוחניות,
+633|44:23|יבוא בכלל למקום של כאלה שלומדים ורוצים שיש להם השתוקות לחוכמה.
+634|44:29|למה בכלל שהוא יבוא למקום הזה?
+635|44:31|את אומרת ההפך, שאלה שהם בעלי השתוקות לחוכמה יבואו ל...
+636|44:36|למקום החסרי ישפקות החוכמה, ויובילו אותם למקום הנכון.
+637|44:41|אז הדרך יכולה להיות גם כזו וגם כזו.
+638|44:44|יכול להיות גם כזה שהצדיק יורד למקום המון העם, ומושך משם את הרצונות, ומעורר
+639|44:50|אותם ומגרה אותם.
+
+LINHAS A TRADUZIR:
+640|44:52|ויכול להיות שאדם, כאן מתואר יותר המציאות הזאת, שאדם, שהוא אמנם טיפש,
+641|44:58|אבל הוא מכיר בכך שיש ערך לרוחניות.
+642|45:02|הוא מצד עצמו אין לו חשק לרוחניות.
+643|45:05|אבל הוא מכיר בכך, אנחנו רואים את זה גם בעצמנו.
+644|45:08|אנחנו רואים הרבה פעמים בעצמנו שאנחנו, אין לנו באמת מוטיבציה אמיתית חזקה
+645|45:14|לקדושה.
+646|45:16|אם אדם הוא אמיתי, אני חושב שהוא לא משקר לעצמו, אז הוא רואה שרוב הזמן הוא לא מרגיש
+647|45:22|את המוטיבציה הזאת.
+648|45:24|אז מה יגרום לו לבוא למקום של צדיקים?
+649|45:28|תשובה, רגעי ההשראה שלו, ההכרה הגבוהה שלו, הוא מבין שלשם הוא צריך ללכת.
+650|45:36|אז הוא הולך למקום של צדיקים כדי ללמוד מהם ולהידבק ברצונות שלהם והוא
+651|45:42|רוצה שהם ימצאו חן בעיניו ואם הוא ירשה לעצמו ויפתח את
+652|45:48|עצמו שמי שמוצא חן בעיניו זה החברים שלו בדרך השם
+653|45:54|והרב שלו כמובן אז הוא ייפתח למקום כזה שהוא יוכל לאט לאט
+654|46:00|להיות בעל יותר חשק לרוחניות אז הראינו פה את שני הדרכים לשאלה שלך מיכל גם
+655|46:06|דרך שהצדיק הולך למקום המון העם ומושך אותם משם, כמובן שזה בסופו של דבר תלוי
+656|46:11|באדם עצמו, אם הוא בוחר בזה או לא בוחר בזה.
+657|46:14|אפשר שהצדיק ירד, יתגלה כמו משה רבנו, והעם חוטא בחטא העגל.
+658|46:21|אין קשר מוכרח בין זה שהצדיק, גדול ככל שיהיה, ומגרה
+659|46:27|ככל שיהיה, וחכם ככל שיהיה, והוא בא ומדבר עם העם, והעם לא שומע לו.
+660|46:33|זאת אומרת, זה גם תלוי באדם עצמו שהוא יבחר להתקשר לצדיק.
+661|46:37|מהו אותה תנועה?
+662|46:38|התנועה הזאת אומרת שלמרות שאני נמצא במצרים, או אני נמצא בתוך אותם רצונות פרטיים
+663|46:44|ואנוכיים, אני מכיר בכך שיש ארץ ישראל.
+664|46:47|אני מכיר בכך שיש דבר יותר גדול ואני שואף אליו, ואני רוצה להגיע למקום הזה, ובכלל אני הולך
+665|46:53|למקום כזה שבו מלמדים אותי דרכי השפעה, דרכי קדושה, תורת השם, תורת
+666|46:59|הפנימיות.
+667|47:01|הסיכוי היותר גדול, או יותר גבוה, שהצדיק יבחר את איפה הוא יכול להשפיע, או
+668|47:06|על מי הוא רוצה להשפיע, כי יש לו את כוח ההשפעה, מאשר שאותו אחד יבוא לצדיק.
+669|47:12|הלוואי שזה היה ככה.
+670|47:14|את חושבת?
+671|47:16|מזמן כבר היינו מתוקרנים.
+672|47:18|זה מאוד תלוי באופן.
+673|47:19|כן, אורית, בבקשה, אורית.
+674|47:22|אנחנו מדברים סביב ההשפעה של הצדיק כלפי אחר, אבל אולי לפני אנחנו יוצאים למעגל
+675|47:28|כזה חיצוני רעב.
+676|47:30|וגדול, נדבר רגע אולי על הבחינה של הצדיק בנקודה הפנימית
+677|47:35|שלו.
+678|47:37|כי לפעמים אדם מגיע לאותה תנועה
+679|47:43|מתוך גירוי של מקומות שהם בדיוק הניגודיים

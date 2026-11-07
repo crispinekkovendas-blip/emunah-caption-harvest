@@ -1,0 +1,64 @@
+videoId: a37jL33Wtx0
+parte 4 de 22 · traduzir as linhas 120 a 159 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Soldado capturado pode se suicidar? Shaul e o Mista'arvim
+RESUMO: O rabino parte da pergunta de um soldado da unidade Mista'arvim (Duvdevan): se for capturado, é permitido tirar a própria vida para não ser torturado? Ele distingue o caso do agente, que agiria ativamente (kum va'asé), do caso do piloto que nada faz (shev ve'al ta'asé). Mostra, na Gemará (Bava Batra 8b, Ketubot 33b) e em dois Midrashim, que o cativeiro é o pior dos sofrimentos e que é melhor morrer a cair nas mãos de carne e osso. Depois traz o rei Shaul, que se atirou sobre a espada (Shmuel I 31), e confronta com a Gemará e o Rambam, que dizem que quem se mata é assassino. Expõe as respostas: Orchot Chaim, o Midrash Bereshit Rabá 34:13 ("ach"), o Radak (Shaul sabia pela evocação de Shmuel que morreria), os 400 meninos de Gitin 57b, o Bach e o Chatam Sofer (conversão forçada) e o Yam shel Shlomo (evitar que o povo morresse para resgatá-lo). A conclusão halachá lemaassé: não há permissão para se suicidar, pois há precedentes de cativos que voltaram para casa e o ser morto por gentio tem grande mérito.
+MOMENTOS: 00:16 A unidade Mista'arvim e seu trabalho em território hostil · 05:32 A pergunta do soldado: posso me matar se for capturado? · 08:49 Soldado versus piloto: ação ativa e omissão · 13:23 Duas Gemarot: o cativeiro é o pior sofrimento · 19:42 Midrash: sete coisas pelas quais é melhor morrer · 26:30 O rei Shaul se mata na guerra contra os filisteus · 34:19 Gemará e Rambam: quem se mata é assassino · 36:07 Respostas: Orchot Chaim e Bereshit Rabá 34:13 · 38:00 Radak: Shaul sabia que morreria, a evocação de Shmuel · 48:08 Os 400 meninos em Gitin 57b e a Tosafot · 53:07 Bach, Chatam Sofer e Yam shel Shlomo · 56:40 Conclusão: não há permissão; precedentes de cativos que voltaram
+FONTES CITADAS: 13:38 Bava Batra 8b · 15:50 Ketubot 33b · 16:16 Shulchan Arukh, Yoré Deá 157:1 · 16:16 Pesachim 25b · 19:42 Otzar HaMidrashim, Chupat Eliyahu p. 164 · 20:20 Talmud Yerushalmi (não se aprende halachá da agadá) · 24:00 Zohar Teruma 2:... (cita "Terzaria") · 24:18 Tikunei HaZohar 11b · 24:48 Otzar HaMidrashim p. 513 · 24:53 Shmuel II 24:14 · 26:43 Devarim 33:5 · 31:19 Shmuel I 31:4 · 33:49 Shmuel I 31:4 · 34:30 Bereshit 9:5 · 34:24 Bava Kamma 91b · 34:39 Rambam, Hilchot Rotzeach 2:2 · 35:10 Shut Shevut Yaakov 3 · 36:07 Orchot Chaim (Rabeinu Aharon de Lunel), simán 4 · 37:05 Bereshit Rabá 34:13 · 38:00 Radak em Shmuel I 31:4 · 38:53 Chagigá 4b · 38:53 Zohar, Shelach Lecha 9a · 43:22 Shmuel I 28:13 · 44:09 Shmuel I 28:19 · 44:09 Berachot 12b · 47:20 Chagigá 4b · 47:20 Etz Chaim, Sha'ar 22 · 48:14 Gitin 57b · 50:50 Tehilim 68:23 · 50:21 Rashi em Gitin 57b · 51:52 Tosafot em Gitin 57b · 52:11 Shulchan Arukh, Yoré Deá 345:1 · 52:23 Shach em Yoré Deá 345:6 · 53:15 Tosafot em Avodá Zará 18a · 53:22 Bach e Chatam Sofer, Yoré Deá · 54:57 Shemot 18:11 · 55:27 Yam shel Shlomo em Bava Kamma, cap. 8 · 57:01 Bava Batra 10b · 57:01 Pesachim 50a · 59:31 Chulin 13b · 59:31 Shulchan Arukh, Yoré Deá 148 · 1:01:20 Machzor, Dez Dias de Arrependimento
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|08:57|ששאלו אותו לגבי טייס שטס מעל שטח של אויב לדוגמה חיילי
+109|09:04|צהל הגיבורים שהם טסים נגיד טסו עם כל מה שהיה לנו כאן שנה
+110|09:09|שעברה לפני שנתיים עמוק
+111|09:14|בטהרן וכשהם הגיעו לטהרן על הצד על הצל
+112|09:20|שחלילה וחס הצליחו ליירט את המטוס ועכשיו הטייס יש לו
+113|09:26|שתי אופציות, המטוס עומד לצלול למטה.
+114|09:33|אפקטים.
+115|09:35|והמטוס עומד לצלול למטה ולהתרסק.
+116|09:38|יש לטייס שתי אופציות.
+117|09:41|אופציה ראשונה, כיסא מפלט.
+118|09:44|והוא נוחת לשטח האויב, שמה מחכים לו כל השונאים שלו
+119|09:50|כדי לתפוס אותו, לאנוס אותו, להתעלל בו, אולי להחליף אותו בעסקת
+
+LINHAS A TRADUZIR:
+120|09:55|שבויים, יותר נראה שלא, שהולכים לאמלל אותו ולהרוג אותו,
+121|10:01|או שעדיף פשוט שלא יעשה כלום.
+122|10:05|יקרא קריאת שמע, יעשה וידוי, יש לו כמה שניות עד שהוא הולך להתרסק.
+123|10:10|האם מותר לו?
+124|10:12|לא לעשות כלום כדי שלא יפול בידיים של האויבים שלו.
+125|10:16|אז שתי השאלות האלה הן לכאורה שאלות דומות אבל הן לא זהות.
+126|10:21|השאלה אצלנו במסתערב שרוצה לדפוק לעצמו כדור בראש או בטייס
+127|10:27|שרוצה לצלול למותו כדי שהוא לא יפול בידיים של
+128|10:32|המחבלים, הוא לא יפול בידיים של האויבים, לכאורה זו אותה שאלה אבל לא בדיוק.
+129|10:38|בגלל שהשאלה שלנו זה בקום ועשה ככה תקדח בקום ועשה ולירות
+130|10:44|בעצמו והוא גם עושה את הפעולה הוא בקום ועשה מאבד את עצמו לדעת ויורה בו אבל
+131|10:51|בשאלה אם הטייס זה בשב ואל תעשה הוא לא עושה כלום הוא צולל אל מותו הוא
+132|10:57|לא הרג את עצמו הוא לא עשה שום דבר, הוא פשוט לא עשה קום ועשה כדי להציל את
+133|11:03|עצמו.
+134|11:03|אבל הוא לא הרג את עצמו.
+135|11:05|מי הרג אותו?
+136|11:06|המטוס שצלל אל הצוק.
+137|11:10|אז שב ואל תעשה שלא הרג אותו.
+138|11:13|אז כמובן שהשאלה בקום ועשה היא הרבה יותר חמורה.
+139|11:17|שבן אדם שלוקח אקדח ויורה בעצמו הרבה יותר חמור מאשר בן אדם שלא עושה כלום
+140|11:23|ולבד המוות ישיג אותו.
+141|11:25|אז אתם מבינים שיש מקום לחלק בין שתי השאלות האלה.
+142|11:29|כמובן השאלה שאנחנו נשאלנו בה, אם בקום ועשה יהיה מותר לו לעבד עצמו לדעת, היא הרבה
+143|11:35|יותר חמורה מאשר בשב ואל תעשה.
+144|11:38|רבותיי, אז עד כאן הצגת הדברים, אלה השאלות.
+145|11:42|האם מותר לחייל מסתערב לדוגמה בשקושיה בשאלה שלנו
+146|11:48|מסתערב שכן תפסו אותו אחוזי ההצלחה של המבצע היו נמוכים
+147|11:54|ובאמת זה לא היה באשמתו זה גם לא רלוונטי אשמתו לא אשמתו שורה תחתונה תפסו אותו
+148|12:00|ועכשיו הם תופסים אותו הוא נמצא בשטח עוין מאוד זה לא מדובר פה על אנשים ברי
+149|12:06|דעת שיכניסו אותו לכלא כמו שעושים להם פה בית מלון נותנים להם בקנטינה לקנות לאכול
+150|12:12|אפילו אסירים ביטחוניים חיים פה יופי טופי כמו בית מלון חמש כוכבים ביחס למה שנתנו
+151|12:18|לשבויים שלנו מתחת לאדמה במנהרות בעזה אז כמובן שיש הבדלים גדולים אבל עכשיו
+152|12:23|שיתפסו אותו האויבים וזה שטח עוין ושונא ישראל בדם שמהיום שהם
+153|12:29|נולדו מהעולם הם רואים את ישראל כאילו אנחנו רואים את עמלק.
+154|12:34|ככה הם רואים את ישראל.
+155|12:36|שונאים אותנו, הם מתעבים אותנו, הם מחכים מתי אנחנו כבר ניכחד
+156|12:41|מהעולם.
+157|12:42|אתה רואה בכל המפות שלהם, זה לא שהם רוצים לחלק את הארץ הזאת.
+158|12:47|מה פתאום?
+159|12:47|From the river to the sea Palestine will be free.

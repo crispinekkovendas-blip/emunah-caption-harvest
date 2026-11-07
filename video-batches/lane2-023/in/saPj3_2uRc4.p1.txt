@@ -1,0 +1,84 @@
+videoId: saPj3_2uRc4
+parte 2 de 2 · traduzir as linhas 120 a 179 (60 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zohar Vayikrá: o pecado, a teshuvá e o Rio de Fogo
+RESUMO: O rabino continua a drasha de Rabi Shimon em Zohar Vayikrá 16b, começando com o versículo de Mishlei "o homem de perversidades lança contenda e o difamador separa o chefe", explicando que o pecador causa separação entre o Rei e a Rainha, isto é, entre as sefirot superiores e a Malchut. Segue-se o ensinamento de que, onde os baalei teshuvá permanecem, nem os tzadikim completos podem permanecer: os baalei teshuvá estão em Biná e os tzadikim em Yesod, e cada grupo traz o shefa até seu nível. Com o versículo "e se pecar contra HaShem... restituirá o roubo que roubou... ou achar um objeto perdido", o Zohar explica o pecado como roubo ou perda, e cita Yirmiyáhu 7:28 ("pereceu a fé"), mostrando que "avdá" indica algo perdido por ora, que será recuperado. Depois o Zohar descreve os lugares do Gehinom reservados a cada pecado, o Satã/impulso mau como responsável por todos, e como a teshuvá apaga as marcas ("apaguei como névoa as tuas transgressões", Yeshayáhu 44:22). Menciona que os pecados do ímpio ficam gravados nos seus ossos e que as almas dos ímpios queimam e viram pó sob os pés dos tzadikim (Rosh Hashaná 17a). Termina com o rio de fogo (Nahar Dinur) de Daniel 7, onde as almas dos justos são purificadas e as dos ímpios queimadas: fogo que consome fogo.
+MOMENTOS: 00:18 Mishlei: o homem de perversidades lança contenda · 01:47 O pecador envia o din às sefirot · 02:20 O pecado separa o Rei da Matronita · 03:07 Baalei teshuvá e tzadikim: Biná e Yesod · 04:52 Bem-aventurados os baalei teshuvá e os tzadikim · 05:16 Roubo e objeto perdido: o pecado separa a Shechiná · 06:11 "Pereceu a fé" e "pereceu a terra" · 07:17 Avad, não "ne'evad": perda momentânea · 08:12 Lugares no Gehinom para cada pecado · 09:36 A teshuvá apaga as marcas do Gehinom · 10:18 Pecados gravados nos ossos do ímpio · 11:15 Almas dos ímpios viram pó sob os tzadikim · 12:30 O rio de fogo de Daniel e suas almas
+FONTES CITADAS: 00:18 Mishlei 16:28 · 00:28 Zohar Vayikrá 16b · 01:28 El Mistatter (piyut) · 03:21 Zohar Vayikrá 16b · 05:16 Vayikrá 5:21-22 · 06:14 Yirmiyáhu 7:28 · 06:30 Tehilim 92:3 · 06:48 Yirmiyáhu 9:11 · 07:24 Yeshayáhu 57:1 · 07:47 Vayikrá 5:23 · 08:36 Zohar Vayikrá 16b · 09:38 Yeshayáhu 44:22 · 10:18 Zohar Vayikrá 16b · 11:27 Rosh Hashaná 17a · 12:36 Daniel 7:9-10 · 12:42 Daniel 7:10 · 13:20 Zohar Vayikrá 16b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|08:36|פנים בתורה שלו קלחה ולינון דשפכין דם נקי ולינון דומין נשיקרא ולינון דשכבין עם נידה או
+109|08:42|בתל נחר או זונה או שפחה והופך אילו עובר על שסה לא תעשה.
+110|08:46|כלומר, יש מקום מיוחד בגיהינום לכל סוג של חטא.
+111|08:50|למגלי עריות, למגלים פנים בתורה שלו קלחה, לשופכי דם נקי, לנשבעים לשקל,
+112|08:55|לשוכבים עם נידה, או עם גויה, או עם זונה, או שפחה.
+113|08:59|וגם לכל מי שעובר על כל אחת משסה לא תעשה, יש לו מקום מיוחד בגיהינום, אם הוא לא חוזר בתשובה.
+114|09:05|לכל חובה אידוך תא בגיהינום, הוא ממונה עליה.
+115|09:08|כל חטא יש לו את המקום שלו בגיהינום, את הממונה עליו.
+116|09:12|ושטן, יצר הרע דילי, ממונה על כולו חובין ודוכתין.
+117|09:18|הוא ממונן דילי.
+118|09:19|כל אדם, היצר הרע שלו, הוא הממונה.
+119|09:22|היצר הרע שלו זה מה שמחטיא אותו.
+
+LINHAS A TRADUZIR:
+120|09:23|אז הוא הממונה על כל הדברים שהוא עשה.
+121|09:28|על כל החטאים, ועל כל המקומות שהם מיוחדים לחטאים שלו, ועל כל הממונה.
+122|09:33|אז השטן, היצר הרע, הוא אחראי על כולם.
+123|09:36|וידר בטיובטא, מה כתיב?
+124|09:38|מחיתי כאב פשעיך וכענן חזותיך, התמחו רשענים בדרישייה דריכות הגיהנום מכל חובה וחובה.
+125|09:44|ומחוזר בתשובה, הכל נמחה, מחיתי כאב פשעיך, לא נשאר זכר לזה שהיה פה ענן קודם.
+126|09:50|נמחים כל הרשימין של הרשעים מכל מקומות הגיהנום, מכל חובה
+127|09:56|וחובה.
+128|09:58|וית חווין רשימין לאילה, ולא לטטא.
+129|10:01|וית רשימין לטטא, ולא לאילה.
+130|10:03|וית רשימין לטטא ולא לאילה.
+131|10:05|התמחון לטאטא, התמחון לאלה, בתר דאדר בטיובטא.
+132|10:08|כלומר, יש כל מיני, יש כאלה שרשומים החובות בגינום של מטה, בגינום של מעלה, אבל אם
+133|10:14|אדם חוזר בתשובה, זה נמחק גם למעלה וגם למטה.
+134|10:18|ועוד הוא כמו אמר ימת ניתין, רשע עוונותיו חקוקים לו על עצמותיו.
+135|10:25|צדיק, זכויותיו חקוקים לו על עצמותיו.
+136|10:28|זה ממש חקוק בעצמות.
+137|10:29|מה היא טעמה?
+138|10:31|גם היא?
+139|10:32|בגין למי ורשימין, בין בעלי חובי הון להשתמודעה בהו, וכאן הנפיקה
+140|10:38|לה, היי רשאיו, ישרפו עצמותיו בגיהנו.
+141|10:41|כלומר, בעצם המטרה למה הרשע צריך להיות עוונותיו
+142|10:47|חקוקים לו על עצמותיו, כי יש לו בעלי חוב.
+143|10:50|בעלי חוב זה לא אנשים שהוא לווה מהם כסף או גזל מהם כסף, אלא בעלי חוב זה מלאכים שממונים
+144|10:56|להעניש אותו.
+145|10:57|אז יש לו כביכול עוונותיו חקוקים לו על עצמותיו, אז המלאך מלאך החבלה רואה מה חקוק על עצמו,
+146|11:03|אה בוא, אתה שלי, אני עכשיו אטפל בך.
+147|11:06|למה?
+148|11:06|כי עברת עבירה פלונית.
+149|11:10|ויוציא עליהם קול, מכריז עליהם, זה רשע, ישרפו עצמותיו בגינו.
+150|11:15|והוא קימנה, נשמות של רשעים, הן הן המזיקים בעולם.
+151|11:21|מה שאמרנו על שיש מזיקים בעולם, זה הנשמות של הרשעים.
+152|11:24|ודינא דילהון הוא כמו עליי ומראה מגניטין.
+153|11:27|די נשמתו נשרפת ונעשית עפר תחת כפות רגלי הצדיקים.
+154|11:31|זה כבר אמרו בעלי המשנה שהעונש
+155|11:37|של אותם רשעים שהם נשמתם נשרפת ונעשית עפר
+156|11:43|תחת כפות רגלי הצדיקים.
+157|11:46|כך מופיע במסכת ראש שנה דף י"ז.
+158|11:49|ובמה איתוקדון באש דקורסאיה די איתמר בקורסי שבבין די נור גלגילוי
+159|11:55|נור דליק נער דינון נגיד ונפק מארבע כיוון דעשא
+160|12:01|דסחרין לקורסי הדין דדין דאו א' דנ"י דינא דמלכותא
+161|12:07|דינא כלומר במה נשרפים אותם
+162|12:12|אותם מלאכים סליחה במה נשרפים
+163|12:18|אותם רשעים שראינו שנשמותם נשרפת ונעשית אפר תחת כפות
+164|12:24|רגל הצדיקים במה הם נשרפים באש של כיסא הכבוד שכתוב עליו קורסי שבבין דינור
+165|12:30|האש הוא ניצוצות של אש גלגלו היא נור דליק גלגליו אש בוערת כל זה על
+166|12:36|המקורות הללו מופיעים בספר דניאל נהר דינור נגיד ונפק מארבע חיוון
+167|12:42|דשע נהר דינור יוצא ונמשך מארבע חיות של אש
+168|12:48|דסחרין לקורסי הדין הם מקיפים את כיסא הדין ארבע חיות של אש דיור אלף דלת נון
+169|12:54|יוד דינא דמלכותא דינא, דינא זה אותם אותיות כמו א' ד' נ' זה ד' נ' א',
+170|13:00|זה אותם אותיות.
+171|13:04|וההוא נהר יתמרבה נהר דינור נגיד ונפק מנקוד עמוי.
+172|13:10|נשמתון דצדיקאיה תבלין ומתדקין בי.
+173|13:12|ונשמתון דרישיאיה נידונין בי.
+174|13:15|והתבהירו קמא כי קש לפני אש דהיינו אש אוכלת אש.
+175|13:20|כלומר אומר לנו הזוהר הקדוש אותו נהר דינור שיוצא מהר בחיות של אש
+176|13:26|אז הוא נמשך ויוצא לפני הקדוש ברוך הוא ואז נשמות הצדיקים טובלות ונטהרות
+177|13:31|בו נשמות הרשעים נשרפות בו וזה אש אוכלת אש האש של נהר דינור
+178|13:37|שורפת את אש העצמות של הרשעים עד כאן להיום חזקו בימי
+179|13:43|סבבכם כל המייחלים לאדוני

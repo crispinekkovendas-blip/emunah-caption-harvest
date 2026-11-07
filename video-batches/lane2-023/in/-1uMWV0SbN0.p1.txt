@@ -1,0 +1,64 @@
+videoId: -1uMWV0SbN0
+parte 2 de 17 · traduzir as linhas 40 a 79 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O mundo como corredor: a vida da alma após a morte
+RESUMO: O rabino parte da Mishná em Avot, que compara este mundo a um corredor diante do Mundo Vindouro, e explica que a pessoa verdadeira é a alma, não o corpo, citando Bereshit 2:7, o Arizal em Shaar HaGilgulim, Kohelet 12 e o Zohar. Usa o mashal dos gêmeos no ventre, do Rav Tikochinsky, para mostrar que a morte é um nascimento para outra vida, e lembra o Rambam, que tinha inveja de quem parte jovem por ter concluído cedo o seu tikun. Relata os relatos de experiências de quase morte e os compara com o Zohar (Bereshit 218) e o Sifrei, que descrevem os parentes que vêm receber a alma e a revisão das ações. Conta o mashal do homem que salvou a filha do rei e perdeu o tesouro por se distrair, ensinando a distinguir o essencial do secundário. Fala de aproximar outros da Torá (Bereshit 12:5, Rashi, Guemará, Chatam Sofer sobre Avraham e Chanoch) e da importância do voto de acordo com os grandes de Israel. Encerra com Kohelet 7:1 e o mashal dos dois navios, explicando por que o dia da morte de quem tem um bom nome é melhor que o do nascimento e como isso se liga ao aniversário.
+MOMENTOS: 00:32 Mishná de Avot: este mundo é um corredor · 02:29 A criação do homem: pó da terra e sopro de vida · 03:40 Maharchú: a alma tem 248 membros e 365 tendões · 04:36 Arizal: o corpo é apenas a veste do homem · 07:16 Kohelet 12: o pó volta à terra e o espírito a Deus · 09:16 Por que a alma é colocada no corpo · 10:38 Mashal dos gêmeos no ventre (Rav Tikochinsky) · 16:04 O Rambam e a inveja de quem parte jovem · 17:46 Relato do professor e o Zohar sobre a hora da partida · 22:51 Mashal do salvador da filha do rei e o tesouro · 30:39 Aproximar outros: Avraham e Sara em Charan · 37:28 Kohelet 7:1 e o mashal dos dois navios · 41:04 O aniversário e a alegria pelos anos bem usados
+FONTES CITADAS: 01:20 Avot 4:16 · 02:35 Bereshit 2:7 · 03:27 Maharchú (Rabi Chaim Vital), Shaarei Kedushá · 04:41 Arizal, Shaar HaGilgulim, introdução · 07:16 Kohelet 12:1 · 07:35 Kohelet 12:3 · 08:09 Kohelet 12:7 · 09:20 Ramchal e mestres da cabalá segundo o Zohar · 10:38 Rav Tikochinsky, Gesher HaChaim · 16:04 Rambam, carta citada pelo Chatam Sofer · 17:14 Tehilim 118:17 · 20:31 Zohar, Bereshit 218 · 22:10 Sifrei · 28:21 Bava Batra 16a · 28:51 Mishlei 31:25 · 29:05 Kohelet 7:20 · 30:22 Bereshit 12:5 · 30:47 Rashi em Bereshit 12:5 · 30:58 Sanhedrin 99b · 31:57 Yeshayahu 41:8 · 32:04 Bereshit 5:24 · 32:09 Zohar sobre Chanoch · 33:42 Princípio halachico da representação · 35:03 Tehilim 137:1 · 37:34 Kohelet 7:1 · 38:41 Midrash Kohelet Rabá 7:1 · 41:28 Iyov 1:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+28|02:14|כששואלים את הקדוש ברוך הוא, ריבונו של עולם, אתה יצרן, תלמד אותי ממה אני עשוי, יצרן
+29|02:20|של וולבו.
+30|02:21|יודע כל בורג למה הוא נמצא שם.
+31|02:24|ואתה ריבונו של עולם, בראת אותי, תלמד אותי מי אני, ממה אני עשוי.
+32|02:29|בפרשת בראשית כתוב, וייצר השם אלוקים את האדם עפר מן האדמה,
+33|02:35|ויפח באפיו נשמת חיים, ויהי האדם לנפש
+34|02:39|חיה.
+35|02:42|אומר היצרן ליצירה שלו, לאדם, אתה יודע איך יצרתי אותך?
+36|02:46|בשני שלבים.
+37|02:49|השלב הראשון, עפר מן האדמה.
+38|02:52|נראה לי שיש קצת הדר וקצת מאמין.
+39|02:56|השלב הראשון זה עפר מן האדמה, בובת האדמה בצורה של בן אדם.
+
+LINHAS A TRADUZIR:
+40|03:02|היא לא יכולה ללכת, לדבר, לתפקד, לצחוק, לשמוח, לכעוס.
+41|03:07|בובת אדמה, זה השלב הראשון.
+42|03:10|בשלב השני, ויפח באפיו דרך האף הכניס לו לתוך הגוף נשמת חיים, ואז מה התוצאה?
+43|03:16|ויהיה אדם לנפש חיה.
+44|03:19|עכשיו הוא יכול לדבר, לצחוק.
+45|03:21|מהרכו, רבי חיים ויטל, כותב בספר שערי קדושה, הרי כולם מתפעלים מפלאי גוף האדם, לב,
+46|03:27|ריאות, מערכת שרירים, עצמות, גידים, עורקים, נימים, עיניים.
+47|03:34|איך כל זה נהיה?
+48|03:35|שואל מהרכו.
+49|03:36|הרי הגוף הזה הוא עפר מן האדמה, איך נהיה כל המורכבות הזאת?
+50|03:40|הוא אומר, תדע לך שהמורכבות של הרמח איברים ושסה גידים היא של הנשמה.
+51|03:47|הנשמה עשויה מ-248 איברים, 365 גידים רוחניים.
+52|03:54|כשנפח בתוך הגוף נשמת חיים, הגוף קיבל את הצורה של הנשמה.
+53|03:59|זאת אומרת, למה יש לנו לב בגוף?
+54|04:01|כי יש לב לנשמה.
+55|04:02|למה יש עיניים בגוף?
+56|04:03|כי יש עיניים לנשמה.
+57|04:05|וכשהנשמה נמצאת בתוך הגוף, אז לא הגוף רואה, הנשמה רואה
+58|04:11|דרך העיניים.
+59|04:13|הוכחה, כשאדם נפטר מהעולם, יש לו עיניים.
+60|04:17|נפתח לו את העיניים, הוא יכול לראות?
+61|04:20|הוא לא רואה, יש לו אוזניים, תצעק בתוך האוזן, למה הוא לא שומע?
+62|04:24|התשובה היא כי נשאר מה שהאריזל מגדיר בשם לבוש.
+63|04:29|בתחילת ספר שער הגלגולים, בעמוד הראשון, אומר האריזל משפט שכדאי לזכור אותו בעל
+64|04:35|פה.
+65|04:36|הוא אומר כך, אני מצטט מילה במילה מה שהוא כותב: דע
+66|04:41|שהאדם עצמו הוא האדם הרוחני שנמצא בתוך הגוף.
+67|04:48|והגוף הוא לבוש האדם ואיננו האדם עצמו.
+68|04:55|מה ברור שמי?
+69|04:56|בואו נחזור לזה נראה מה הוא אומר.
+70|04:57|הוא אומר תדע לך שהאדם עצמו, האני שחושב, מתכנן, רוצה, עצוב,
+71|05:03|שמח, עצבני, מי זה הוא אומר?
+72|05:05|האני, האדם עצמו הוא האדם הרוחני שבתוך הגוף,
+73|05:11|הנשמה.
+74|05:12|והגוף הוא לבוש האדם.
+75|05:15|ואיננו האדם עצמו, מה זה לבוש?
+76|05:17|יעבור כאן עכשיו בן אדם, כולנו רואים בגדים הולכים.
+77|05:20|מישהו יאמר שבגד הולך לבד?
+78|05:22|בגד לא הולך לבד.
+79|05:23|אתה הולך, הבגדים הולכים איתך.
