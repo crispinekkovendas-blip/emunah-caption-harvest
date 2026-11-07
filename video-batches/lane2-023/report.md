@@ -1,7 +1,7 @@
 # lane2-023
 
 10 of 18 lessons published · 5 skipped · status **pending**
-Tokens (406 agent runs with a record): 2.4M in (mostly cache) · 1.71M out · API-equivalent 24.55
+Tokens (483 agent runs with a record): 2.8M in (mostly cache) · 1.98M out · API-equivalent 28.70
 
 | lesson | state | detail |
 |---|---|---|
@@ -10,11 +10,11 @@ Tokens (406 agent runs with a record): 2.4M in (mostly cache) · 1.71M out · AP
 | oP-hDOkN9nA | waiting | 39/40 parts |
 | 08iC-qVGSCA | skipped | |
 | 7OQTiL68xgM | ✓ published | 626 lines · Zohar Bo: a milá e Talmud Eser HaSefirot, parte 13 |
-| a37jL33Wtx0 | skipped after 3 tries | 26 lines missing |
-| Ei1SKwvqGAs | skipped after 3 tries | line 588 twice |
-| Cj9XNgTLgAg | ✗ will be redone (try 2) | 1 lines missing |
+| a37jL33Wtx0 | skipped | |
+| Ei1SKwvqGAs | skipped | |
+| Cj9XNgTLgAg | waiting | 18/19 parts |
 | lPPBpFBwIgs | ✓ published | 741 lines · Brit milá: cortar a ânsia de receber e a fé acima da razão |
-| -1uMWV0SbN0 | ✗ will be redone (try 2) | 13 lines missing |
+| -1uMWV0SbN0 | waiting | 16/17 parts |
 | WjlQ6Te_03A | ✓ published | 354 lines · Milá, havdalá e chulin feitos sobre a pureza do sagrado |
 | QZFZ1sSK-Oo | ✓ published | 767 lines · Otzrot Chaim: o Kav, o Chalal e o objetivo da criação |
 | saPj3_2uRc4 | ✓ published | 180 lines · Zohar Vayikrá: o pecado, a teshuvá e o Rio de Fogo |
