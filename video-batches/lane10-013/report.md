@@ -1,7 +1,7 @@
 # lane10-013
 
-6 of 13 lessons published · 5 skipped · status **pending**
-Tokens (538 agent runs with a record): 3.3M in (mostly cache) · 2.67M out · API-equivalent 37.48
+6 of 13 lessons published · 7 skipped · status **done**
+Tokens (548 agent runs with a record): 3.4M in (mostly cache) · 2.74M out · API-equivalent 38.17
 
 | lesson | state | detail |
 |---|---|---|
@@ -9,11 +9,11 @@ Tokens (538 agent runs with a record): 3.3M in (mostly cache) · 2.67M out · AP
 | vQg_sXrqrhA | skipped | |
 | 3v_ZpMo7nW8 | skipped | |
 | xGC1Kb3VhJI | skipped | |
-| gWcet39DuzA | waiting | 23/24 parts |
+| gWcet39DuzA | skipped after 3 tries | 8 lines missing |
 | KGTQJQCgj7s | skipped | |
 | mw2LSiEUqNU | ✓ published | 960 lines · Gratidão e alegria no dia a dia: levar tudo ao Criador |
-| ITu2_xBzKIA | skipped after 3 tries | 1 lines missing |
-| 9WRDZ9I1HPg | waiting | 25/26 parts |
+| ITu2_xBzKIA | skipped | |
+| 9WRDZ9I1HPg | skipped after 3 tries | 19 lines missing |
 | iS_1Fr0DkNg | ✓ published | 534 lines · Ve'atem HaDevekim: o verso de Devarim 4:4 em cada sefirá |
 | HC07-JY8cxI | ✓ published | 1168 lines · Reforma na Hassidut: Baal Shem Tov e Alter Rebbe, Chai Elul |
 | dQ-wBz-gycI | ✓ published | 327 lines · Olam HaTikun: Atzilut e o conserto do mundo das Nikudim |
