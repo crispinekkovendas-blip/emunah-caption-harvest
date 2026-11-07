@@ -197,9 +197,9 @@
  ],
  "tries": {
   "1-qqG6zKXvw": 2,
-  "8lMQy6FeXbo": 2,
+  "8lMQy6FeXbo": 3,
   "qDT0KlS2n7w": 2,
-  "tkcRQmqdxz4": 1
+  "tkcRQmqdxz4": 2
  },
  "done": [
   "xxhUR_baN3E",
@@ -208,7 +208,11 @@
   "1flLKdKA4FA",
   "ENgVTYLrMTw",
   "fyiSNNkfal4",
-  "c_U_DvfCya8"
+  "c_U_DvfCya8",
+  "1-qqG6zKXvw",
+  "qDT0KlS2n7w"
  ],
- "skipped": []
+ "skipped": [
+  "8lMQy6FeXbo"
+ ]
 }
