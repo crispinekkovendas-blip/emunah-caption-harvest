@@ -1,7 +1,7 @@
 # lane7-012
 
-13 of 16 lessons published · 2 skipped · status **pending**
-Tokens (222 agent runs with a record): 1.6M in (mostly cache) · 1.70M out · API-equivalent 22.30
+13 of 16 lessons published · 3 skipped · status **done**
+Tokens (235 agent runs with a record): 1.7M in (mostly cache) · 1.83M out · API-equivalent 23.62
 
 | lesson | state | detail |
 |---|---|---|
@@ -9,7 +9,7 @@ Tokens (222 agent runs with a record): 1.6M in (mostly cache) · 1.70M out · AP
 | PG6ybKgGZsg | ✓ published | 481 lines · O riso de Sara: dúvida, fé e a virada para o bem |
 | 67o1emt7YeU | ✓ published | 391 lines · Rambam Shechitá 1:17-18: faca ondulada e faca sem corte |
 | KmZ73XPQbiw | ✓ published | 615 lines · Rav e amigos: como a sociedade molda a grandeza do Criador |
-| mTP8eDVf6PY | ✗ will be redone (try 2) | 20 lines missing |
+| mTP8eDVf6PY | skipped after 3 tries | 2 lines missing |
 | fAZsPqmKyC8 | ✓ published | 349 lines · Vayera: o "vai e volta" e o Zakén Mamré |
 | tzztezGpphY | ✓ published | 381 lines · Likutei Moharan 8: o Ruach Chaim e a queda dos reis de Esav |
 | SB-8k1S6O2o | ✓ published | 767 lines · Alimento amargo como a azeitona nas mãos do Criador |
