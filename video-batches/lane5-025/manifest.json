@@ -2,7 +2,7 @@
  "name": "lane5-025",
  "lane": 5,
  "created": "2026-10-31T00:15:00.845Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "2x7Votl8LVM",
@@ -181,7 +181,7 @@
   "fugarMbiezI": 3,
   "LzhZYqPidyg": 1,
   "ECQBZAW3bBg": 2,
-  "2x7Votl8LVM": 2
+  "2x7Votl8LVM": 3
  },
  "done": [
   "ZnuJgUH_WeE",
@@ -191,6 +191,7 @@
  "skipped": [
   "fugarMbiezI",
   "Gex1ZbQ5YTw",
-  "5rnoC6y8Mf8"
+  "5rnoC6y8Mf8",
+  "2x7Votl8LVM"
  ]
 }
