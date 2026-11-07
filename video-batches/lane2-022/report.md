@@ -1,7 +1,7 @@
 # lane2-022
 
 9 of 25 lessons published · 15 skipped · status **pending**
-Tokens (1280 agent runs with a record): 7.7M in (mostly cache) · 5.24M out · API-equivalent 77.06
+Tokens (1342 agent runs with a record): 8.0M in (mostly cache) · 5.37M out · API-equivalent 79.26
 
 | lesson | state | detail |
 |---|---|---|
@@ -14,7 +14,7 @@ Tokens (1280 agent runs with a record): 7.7M in (mostly cache) · 5.24M out · A
 | a37jL33Wtx0 | skipped | |
 | uumyI18CgR4 | ✓ published | 454 lines · Mesirut nefesh pela Torá e o teste de Avraham Avinu |
 | Cj9XNgTLgAg | skipped | |
-| oaX59sZsjUw | skipped after 3 tries | line 1160 twice |
+| oaX59sZsjUw | skipped | |
 | lPPBpFBwIgs | skipped | |
 | -1uMWV0SbN0 | skipped | |
 | X1-XST3eu08 | ✓ published | 644 lines · Avraham, Sará e Faraó: o segredo de "minha irmã |
@@ -28,5 +28,5 @@ Tokens (1280 agent runs with a record): 7.7M in (mostly cache) · 5.24M out · A
 | 2ozbDdr0aic | skipped | |
 | jf8cXAC7n9Y | skipped | |
 | _mH6IBSZmlk | skipped | |
-| YF2oDA0SMDI | ✗ will be redone (try 2) | 1 lines missing |
+| YF2oDA0SMDI | waiting | 25/30 parts |
 | t365u3NqLbI | ✓ published | 659 lines · Kavanat HaBracha: o prazer serve para abençoar e subir à Bina |
