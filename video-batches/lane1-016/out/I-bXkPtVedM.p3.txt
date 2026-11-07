@@ -1,0 +1,120 @@
+360	What do you mean?!	Como assim?!
+361	He's a goring ox, so he's accustomed to goring. It's not like that.	Ele é um boi que chifra, então está acostumado a chifrar. Não é assim.
+362	Now, a stadium ox is not liable to death.	Agora, o boi do estádio não é condenado à morte.
+363	Why?	Por quê?
+364	Because it says "if it gores," and not "if it is made to gore," and since in stadiums they are accustomed	Porque está escrito "se chifrar", e não "se o fizerem chifrar", e como nos estádios costumam
+365	to provoke the ox to gore, it's not fair, so it doesn't count.	provocar o boi para chifrar, isso não é justo, então não conta.
+366	Mishnah 5: An ox that gored a person and he died, a mu'ad,	Mishná 5: Um boi que chifrou uma pessoa e ela morreu, sendo mu'ad,
+367	the person died, so the mu'ad pays kofer.	a pessoa morreu, então o mu'ad paga kofer.
+368	What is kofer?	O que é kofer?
+369	We go to the market: how much was this person worth?	Vamos ao mercado: quanto valia essa pessoa?
+370	That is what he pays.	É isso que se paga.
+371	And a tam is exempt from kofer.	E o tam é isento do kofer.
+372	Both are liable to death, the ox is certainly liable to death, and likewise for a son	Tanto um quanto o outro são condenados à morte; o boi certamente é condenado à morte, e também no caso de um filho
+373	or a daughter, he pays kofer, or if it is a tam, he is exempt, but the ox is liable	ou de uma filha, ele paga kofer, ou, se for tam, é isento, mas o boi é condenado
+374	to death. If it gored a slave or a maidservant, Canaanites,	à morte. Se chifrou um escravo ou uma escrava, cananeus,
+375	the law is that he gives thirty selaim, whether the slave was worth a maneh or only one dinar.	a lei é que ele dá trinta siclos, quer o escravo valesse uma mina, quer valesse apenas um dinar.
+376	In any case the price is fixed, but for a free Jew, the law is that he pays kofer.	De qualquer forma o preço é fixo, mas no caso de um judeu livre, a lei é que se paga kofer.
+377	How much is kofer?	Quanto é o kofer?
+378	As much as he was worth in the market.	O quanto ele valia no mercado.
+379	So it may be that for a slave the owner of the ox will have to pay more than he pays for a free person.	Pode ser, então, que por um escravo o dono do boi tenha de pagar mais do que paga por um homem livre.
+380	Mishnah 6: An ox that was rubbing against a wall, and the wall fell on a person	Mishná 6: Um boi que se esfregava num muro, e o muro caiu sobre uma pessoa
+381	and killed this person.	e matou essa pessoa.
+382	So if it intended to kill the ow...	Então, se ele pretendia matar o do...
+383	Oh, sorry.	Ah, desculpem.
+384	So what happened here is that the ox did not intend to kill.	Então, o que aconteceu aqui é que o boi não pretendia matar.
+385	Or another case: the ox intended to kill the animal, but killed the person,	Ou outro caso: o boi pretendia matar o animal, mas matou a pessoa,
+386	or it intended a non-Jew and killed a Jew, it intended a nefel and killed a viable child, the law is	ou pretendia um não judeu e matou um judeu, pretendia um nefel e matou uma criança viável, a lei é
+387	that it is exempt. Why?	que é isento. Por quê?
+388	Because the Torah says, "the ox shall be stoned and its owner also shall be put to death." The Sages infer from this:	Porque a Torá diz: "o boi será apedrejado e também seu dono será morto." Os Sábios deduzem disso:
+389	just as the owner is put to death only when he intended it, so too the ox	assim como o dono só é morto quando houve intenção, assim também o boi
+390	is not put to death, unless it intended to.	não é morto, a menos que tenha tido intenção.
+391	Mishnah 7: The ox of a woman, the ox of orphans, the ox of a guardian, the ox	Mishná 7: O boi de uma mulher, o boi de órfãos, o boi de um tutor, o boi
+392	of the desert, meaning that has no owner, the ox of hekdesh, the ox of a convert who died and has no	do deserto, isto é, que não tem dono, o boi do hekdesh, o boi de um converso que morreu e não tem
+393	heirs: these are liable to death.	herdeiros: estes são condenados à morte.
+394	You won't collect money here, because there is no one to collect from, but the ox is liable to death.	Aqui não se cobra dinheiro, porque não há de quem cobrar, mas o boi é condenado à morte.
+395	Rabbi Yehuda says, the ox of the desert, the ox of hekdesh, and the ox of a convert who died and has no heirs	Rabi Yehuda diz: o boi do deserto, o boi do hekdesh e o boi de um converso que morreu e não tem herdeiros
+396	are exempt from death, because they have no owners, and in order to kill the ox, first of all it must have	são isentos da morte, porque não têm donos, e para matar o boi, antes de tudo ele precisa ter
+397	an owner. Mishnah 8: An ox that is going out to be stoned and its	um dono. Mishná 8: Um boi que está saindo para ser apedrejado e seu
+398	owner consecrated it. He doesn't want to lose out, so he says, you know what, let it be hekdesh. It is not consecrated.	dono o consagrou. Ele não quer perder, então diz: sabe de uma coisa, que seja hekdesh. Não é consagrado.
+399	It is not consecrated. What is the law if he slaughtered it? He wants to save it, so he slaughtered it, wanting to eat the meat.	Não é consagrado. Qual é a lei se ele o abateu? Quer salvá-lo, então o abateu, querendo comer a carne.
+400	Its meat is forbidden to eat. And if, before its verdict was concluded, its owner consecrated it, then	Sua carne é proibida para comer. E se, antes de o julgamento terminar, seu dono o consagrou, então
+401	the law is that it is consecrated.	a lei é que está consagrado.
+402	And if he slaughtered it, its meat is permitted.	E se o abateu, sua carne é permitida.
+403	But this is only after the fact.	Mas isso é apenas depois do fato.
+404	Ab initio, it is forbidden for him to consecrate and to slaughter.	Em princípio, é proibido consagrar e abater.
+405	Mishnah 9: An ox [given] to an unpaid guardian, and to a borrower, to a paid	Mishná 9: Um boi [entregue] a um guardião não remunerado e a um tomador emprestado, a um guardião
+406	guardian and to a renter, they take the place of the owner.	remunerado e a um locatário, eles entram no lugar do dono.
+407	The guardian: now, if there are damages, the guardian is the one who has to pay.	O guardião: agora, se houver danos, o guardião é quem tem de pagar.
+408	A mu'ad pays full damages.	O mu'ad paga o dano inteiro.
+409	And a tam pays half damages.	E o tam paga metade do dano.
+410	Its owner tied it with a cord, meaning a rope, and locked the door properly	Seu dono o amarrou com uma corda, isto é, um cabo, e trancou a porta como devido
+411	and it got out and caused damage, whether tam or mu'ad, the law is that he is liable.	e ele saiu e causou dano, seja tam, seja mu'ad, a lei é que ele é responsável.
+412	Rabbi Yehuda says, no: a tam is liable, and a mu'ad is exempt, as it says, "and its owner did not	Rabi Yehuda diz: não, o tam é responsável e o mu'ad é isento, pois está dito: "e seu dono não
+413	guard it," and here it was guarded.	o guardou", e aqui ele estava guardado.
+414	After all, he did guard it, so what's the problem?	Afinal, ele o guardou, então qual é o problema?
+415	Now, "a tam is liable" means liable for half damages, and a mu'ad is exempt.	Agora, "o tam é responsável" significa responsável por metade do dano, e o mu'ad é isento.
+416	No, it doesn't mean entirely exempt, but exempt from full damages.	Não, não significa isento por completo, mas isento do dano inteiro.
+417	But like a tam, he is liable to pay.	Mas, como o tam, ele é obrigado a pagar.
+418	Rabbi Eliezer says, its only guarding is the knife.	Rabi Eliezer diz: sua única guarda é a faca.
+419	There is no such thing as guarding a mu'ad ox and yet it got out.	Não existe guardar um boi mu'ad e mesmo assim ele sair.
+420	A mu'ad ox has only one kind of guarding: to slaughter it.	O boi mu'ad só tem uma guarda: abatê-lo.
+421	You didn't slaughter it?	Não o abateu?
+422	Pay.	Pague.
+423	That is Rabbi Eliezer's view, and we move on to the Gemara.	Essa é a opinião de Rabi Eliezer, e passamos à Guemará.
+424	Tractate Bava Kamma, page 38a. It was also taught:	Tratado Bava Kamma, página 38a. Também foi ensinado:
+425	an ox of a Jew that gored an ox of a non-Jew is exempt; an ox of a non-Jew	um boi de judeu que chifrou um boi de não judeu é isento; um boi de não judeu
+426	that gored an ox of a Jew, whether tam or mu'ad, pays full damages,	que chifrou um boi de judeu, seja tam, seja mu'ad, paga o dano inteiro,
+427	as it says, "He stood and measured the earth; He saw and released the nations,"	pois está dito: "Ele se pôs de pé e mediu a terra; viu e soltou as nações",
+428	and it says, "He shone forth from Mount Paran." The Gemara asks: what is "and it says"?	e diz: "Resplandeceu desde o monte Paran." A Guemará pergunta: o que é esse "e diz"?
+429	Why do you add another verse?	Por que você acrescenta outro versículo?
+430	The first verse you brought was not enough.	O primeiro versículo que você trouxe não bastou.
+431	The answer is: because of the first verse, "He stood and measured the earth, He saw and released the nations," I would have said about it this way,	A resposta é: por causa do primeiro versículo, "Ele se pôs de pé e mediu a terra, viu e soltou as nações", eu diria sobre ele o seguinte:
+432	and if you say that "He stood and measured the earth" follows Rav Mattana	e se você disser que "Ele se pôs de pé e mediu a terra" segue Rav Mattana
+433	and Rav Yosef.	e Rav Yosef.
+434	Come and hear: therefore I bring another verse, "He shone forth from Mount Paran," from Paran	Venha e ouça: por isso trago outro versículo, "Resplandeceu desde o monte Paran", de Paran
+435	He shone forth their money to Israel.	Ele fez resplandecer o dinheiro deles para Israel.
+436	The Gemara says: what is Rav Mattana's?	A Guemará diz: qual é a de Rav Mattana?
+437	You said, like Rav Mattana and like Rav Yosef.	Você disse: como Rav Mattana e como Rav Yosef.
+438	Who are Rav Mattana and Rav Yosef?	Quem são Rav Mattana e Rav Yosef?
+439	So now the Gemara asks: what is Rav Mattana's?	Então agora a Guemará pergunta: qual é a de Rav Mattana?
+440	For Rav Mattana said: the verse "He stood and measured the earth, He released the nations," what	Pois Rav Mattana disse: o versículo "Ele se pôs de pé e mediu a terra, soltou as nações", o que
+441	did He see?	Ele viu?
+442	He saw the seven mitzvot that the sons of Noach were commanded and did not keep; He stood and exiled them from their land.	Viu as sete mitsvot que os filhos de Noach receberam e não cumpriram; levantou-se e os exilou de sua terra.
+443	So that is what it means.	Então é isso que significa.
+444	And how do we know that "vayater" is a term of exile? Where do we see that this means exile?	E como sabemos que "vayater" é um termo de exílio? De onde vemos que isso significa exílio?
+445	It is written "Ach vayater goyim," and "am lintor bahen al ha'aretz," and we translate it "he leaps,"	Está escrito "Ach vayater goyim", e "am lintor bahen al ha'aretz", e traduzimos como "ele salta",
+446	he leaps, so that is exile.	ele salta, então isso é exílio.
+447	Now, what is Rav Yosef's?	Agora, qual é a de Rav Yosef?
+448	What does Rav Yosef learn from this verse, "He stood and measured the earth, He released the nations"? Does he learn something	O que Rav Yosef aprende deste versículo, "Ele se pôs de pé e mediu a terra, soltou as nações"? Ele aprende algo
+449	else from it?	diferente dele?
+450	The Gemara says: yes, for Rav Yosef said, "He stood and measured the earth, He released the nations," what did He see?	A Guemará diz: sim, pois Rav Yosef disse: "Ele se pôs de pé e mediu a terra, soltou as nações", o que Ele viu?
+451	He saw the seven mitzvot that the sons of Noach accepted upon themselves and did not keep; He stood and permitted them to them, as if to say: you are not obligated.	Viu as sete mitsvot que os filhos de Noach aceitaram e não cumpriram; levantou-se e as permitiu a eles, como quem diz: vocês não estão obrigados.
+452	The Gemara asks: what?	A Guemará pergunta: como?
+453	He simply let them off?	Simplesmente os deixou livres?
+454	If so, we find a sinner who is rewarded. Do you understand what's happening?	Se assim for, encontramos um pecador que é recompensado. Você entende o que está acontecendo?
+455	They don't keep them, so He said, fine, you are not obligated. What?	Eles não cumprem, então Ele disse: tudo bem, vocês não estão obrigados. Como?
+456	The answer: Mar son of Ravina said it means that even if they keep them, they receive no reward.	A resposta: Mar, filho de Ravina, disse que isso significa que, mesmo que as cumpram, não recebem recompensa.
+457	No, they lost out. What did they lose?	Não, eles perderam. O que perderam?
+458	That now it won't help them: even if they do keep them, they have no reward for it.	Que agora isso não os ajuda: mesmo que as cumpram, não têm recompensa por isso.
+459	The Gemara asks: but wasn't it taught, Rabbi Meir says, from where do we know that even a gentile who engages in Torah	A Guemará pergunta: mas não foi ensinado que Rabi Meir diz: de onde sabemos que até um gentio que se dedica à Torá
+460	is like a High Priest?	é como um Sumo Sacerdote?
+461	Scripture says, "which a person shall do and live by them."	O versículo diz: "que o homem cumprirá e viverá por eles."
+462	It does not say priests, Levites and Israelites, but	Não diz sacerdotes, levitas e israelitas, mas
+463	"the person."	"o homem".
+464	You learn that even a gentile who engages in Torah is like a High Priest.	Aprende-se que até um gentio que se dedica à Torá é como um Sumo Sacerdote.
+465	So here you told me no.	Então aqui você me disse que não.
+466	And here it says that even a gentile who engages in Torah is like a High Priest. The Gemara answers:	E aqui diz que até um gentio que se dedica à Torá é como um Sumo Sacerdote. A Guemará responde:
+467	They say: they do not receive reward as one who is commanded and does, but as one who is not commanded and does,	Dizem: eles não recebem recompensa como quem é ordenado e cumpre, mas como quem não é ordenado e cumpre,
+468	for Rabbi Chanina said: greater is one who is commanded and does than one who is not commanded and does. And the reason	pois Rabi Chanina disse: maior é quem é ordenado e cumpre do que quem não é ordenado e cumpre. E a razão
+469	why one who is commanded and does has more reward is that he has a greater evil inclination; one who is not commanded, then he	pela qual quem é ordenado e cumpre tem mais recompensa é que ele tem um yetzer hará maior; quem não é ordenado, então ele
+470	is basically volunteering. Volunteering is easier; when you have an obligation, you have an evil inclination, so a higher	na verdade está se voluntariando. Voluntariar-se é mais fácil; quando há obrigação, há yetzer hará, por isso é devida uma
+471	reward is due.	recompensa maior.
+472	The holy Zohar says, Vayera, page 108b: Rabbi Elazar and Rabbi Yosi were together one day, and	O santo Zohar diz, Vayera, página 108b: Rabi Elazar e Rabi Yosi estavam juntos um dia, e
+473	they studied this verse. Which verse?	estudaram este versículo. Qual versículo?
+474	Rabbi Elazar said, it is written: "A land where you will eat bread without scarcity, you will lack nothing	Rabi Elazar disse: está escrito: "Uma terra onde comerás pão sem escassez, nada te faltará
+475	in it."	nela."
+476	It speaks of the Land of Israel.	Fala da Terra de Israel.
+477	Look, it is written: "A land where not in scarcity	Vejam, está escrito: "Uma terra onde sem escassez
+478	you will eat bread in it, you will lack nothing in it." Why twice "in it"?	comerás pão nela, nada te faltará nela." Por que "nela" duas vezes?
+479	Rather…	Mas…
