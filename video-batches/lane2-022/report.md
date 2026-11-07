@@ -1,7 +1,7 @@
 # lane2-022
 
 9 of 25 lessons published · 15 skipped · status **pending**
-Tokens (1342 agent runs with a record): 8.0M in (mostly cache) · 5.37M out · API-equivalent 79.26
+Tokens (1349 agent runs with a record): 8.0M in (mostly cache) · 5.39M out · API-equivalent 79.43
 
 | lesson | state | detail |
 |---|---|---|
@@ -28,5 +28,5 @@ Tokens (1342 agent runs with a record): 8.0M in (mostly cache) · 5.37M out · A
 | 2ozbDdr0aic | skipped | |
 | jf8cXAC7n9Y | skipped | |
 | _mH6IBSZmlk | skipped | |
-| YF2oDA0SMDI | waiting | 25/30 parts |
+| YF2oDA0SMDI | waiting | 29/30 parts |
 | t365u3NqLbI | ✓ published | 659 lines · Kavanat HaBracha: o prazer serve para abençoar e subir à Bina |
