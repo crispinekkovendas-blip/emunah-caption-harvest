@@ -2,7 +2,7 @@
  "name": "lane2-022",
  "lane": 2,
  "created": "2026-10-30T17:09:05.947Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "V2UiCUbtZ1s",
@@ -567,7 +567,7 @@
   "1SFqadwGRj4": 3,
   "oaX59sZsjUw": 3,
   "mCrvmV8ZQ5s": 3,
-  "YF2oDA0SMDI": 2
+  "YF2oDA0SMDI": 3
  },
  "done": [
   "V2UiCUbtZ1s",
@@ -595,6 +595,7 @@
   "5NDlCl8_s1g",
   "1SFqadwGRj4",
   "mCrvmV8ZQ5s",
-  "oaX59sZsjUw"
+  "oaX59sZsjUw",
+  "YF2oDA0SMDI"
  ]
 }
