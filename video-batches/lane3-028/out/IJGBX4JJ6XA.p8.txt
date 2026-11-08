@@ -1,0 +1,120 @@
+960	He is not suspected of trading in Shemitah produce.	Ele não é suspeito de comerciar frutos da Shemitá.
+961	One suspected of both, of Shemitah and of maasrot, is suspected regarding taharot.	Quem é suspeito de ambos, da Shemitá e dos maasrot, é suspeito quanto às taharot.
+962	So if he sells produce as being pure, he is not trusted.	Então, se ele vende frutos como sendo puros, não é digno de confiança.
+963	And one suspected on taharot is not suspected on either of those, neither Shemitah nor maasrot.	E quem é suspeito quanto às taharot não é suspeito de nenhum desses, nem da Shemitá nem dos maasrot.
+964	Why is one suspected on rabbinic taharot not suspected on maaser and Shemitah?	Por que quem é suspeito quanto às taharot rabínicas não é suspeito quanto ao maasser e à Shemitá?
+965	One suspected of both is suspected on taharot.	Quem é suspeito de ambos é suspeito quanto às taharot.
+966	And one suspected on taharot is not suspected on both.	E quem é suspeito quanto às taharot não é suspeito de ambos.
+967	This is the rule: one suspected of a forbidden matter, we do not appoint him judge nor accept him as witness.	Esta é a regra: quem é suspeito de uma coisa proibida, não o nomeamos juiz nem o aceitamos como testemunha.
+968	It is proper to be a judge and not a witness in this matter.	O correto é ser juiz e não testemunha neste assunto.
+969	Gemara.	Guemará.
+970	We said: one suspected on Shemitah is not suspected on maasrot.	Dissemos: quem é suspeito quanto à Shemitá não é suspeito quanto aos maasrot.
+971	What is the reason?	Qual é a razão?
+972	Why?	Por quê?
+973	The Gemara pays attention and says: Shemitah does not require a wall.	A Guemará observa e diz: a Shemitá não exige muralha.
+974	Maaser, since it requires a wall, is stricter; Shemitah does not require a wall to eat it, specifically inside the wall, but	O maasser, como exige muralha, é mais severo; a Shemitá não exige muralha para comê-la, especificamente dentro da muralha, mas
+975	Maaser Sheni requires the wall of Jerusalem, since one must eat it inside the wall of Jerusalem, he	o Maasser Sheni exige a muralha de Jerusalém, pois é preciso comê-lo dentro da muralha de Jerusalém, ele
+976	is fearful, it is grave in his eyes.	tem receio, é grave aos seus olhos.
+977	Therefore he is not suspected on it.	Por isso ele não é suspeito quanto a isso.
+978	Suspected on maaser, not suspected on Shemitah.	Suspeito quanto ao maasser, não suspeito quanto à Shemitá.
+979	What is the reason?	Qual é a razão?
+980	Maaser has redemption.	O maasser tem resgate.
+981	Shemitah, since it is restricted to...	A Shemitá, como está restrita a...
+982	and has no redemption, is stricter than Maaser Sheni; you could still redeem it and eat the money	e não tem resgate, é mais severa que o Maasser Sheni; este ainda podia ser resgatado e o dinheiro gasto
+983	in Jerusalem, but Shemitah, since they are forbidden to him	em Jerusalém, mas a Shemitá, como lhe é proibida
+984	and they have no redemption, one cannot redeem them; their prohibition is graver in his eyes than Maaser Sheni, which has redemption, and he is not suspected	e não tem resgate, não se pode resgatá-la; a sua proibição é mais grave aos seus olhos que a do Maasser Sheni, que tem resgate, e ele não é suspeito
+985	and he is not suspected	e ele não é suspeito
+986	on	quanto a
+987	this.	isso.
+988	One suspected of both, both Shemitah and maasrot, is suspected on taharot.	Quem é suspeito de ambos, tanto da Shemitá quanto dos maasrot, é suspeito quanto às taharot.
+989	Since he is suspected on Torah matters, all the more so on rabbinic ones.	Se é suspeito em matéria da Torá, com mais razão em matéria rabínica.
+990	Since he is suspected of trading in Shemitah, a Torah law, and of maasrot, a Torah law, all the more so that he be suspected	Se é suspeito de comerciar Shemitá, que é da Torá, e maasrot, que é da Torá, com mais razão será suspeito
+991	of keeping ordinary produce in purity, which is only from the words of the Sages.	de guardar frutos comuns em pureza, o que é apenas de palavra dos Sábios.
+992	And one suspected on taharot, we said, is not suspected on Shemitah and maasrot.	E quem é suspeito quanto às taharot, dissemos, não é suspeito quanto à Shemitá e aos maasrot.
+993	What is the reason?	Qual é a razão?
+994	Because the rabbinic is suspect, the Torah-level is not; taharot is rabbinic, those are Torah.	Porque suspeito do rabínico não é suspeito do da Torá; as taharot são rabínicas, aquelas são da Torá.
+995	True, he is suspected of keeping ordinary produce in purity, which is from our Sages, but on the Torah-level	É verdade que é suspeito de guardar frutos comuns em pureza, que é de nossos Sábios, mas quanto ao da Torá
+996	he is not suspected.	ele não é suspeito.
+997	Maasrot are from the Torah; he is not suspected.	Os maasrot são da Torá; ele não é suspeito.
+998	The Gemara asks: one trusted on taharot is trusted on Shemitah; one suspected is suspected!	A Guemará pergunta: quem é confiável quanto às taharot é confiável quanto à Shemitá; quem é suspeito é suspeito!
+999	Proof from a baraita: one who is trusted on taharot is also trusted on Shemitah and on maasrot.	Prova de uma beraita: quem é confiável quanto às taharot é confiável também quanto à Shemitá e aos maasrot.
+1000	So the Gemara infers: one suspected on taharot	Então a Guemará deduz: quem é suspeito quanto às taharot
+1001	is suspected on Shemitah and maasrot. So one trusted on taharot is trusted on Shemitah and maasrot,	é suspeito quanto à Shemitá e aos maasrot. Então quem é confiável quanto às taharot é confiável quanto à Shemitá e aos maasrot,
+1002	and one suspected on taharot is suspected on Shemitah and maasrot. Does this contradict?	e quem é suspeito quanto às taharot é suspeito quanto à Shemitá e aos maasrot. Isso não é contraditório?
+1003	Rabbi Elai said: our Mishnah is where we saw him acting with care inside his home, what we said:	Disse Rabi Elai: a nossa Mishná é quando o vimos agir com cuidado dentro de sua casa, o que dissemos:
+1004	suspected on taharot but not suspected on Shemitah and maasrot; we saw how he behaves in his own home, in private,	suspeito quanto às taharot mas não quanto à Shemitá e aos maasrot; vimos como ele se comporta em sua casa, em privado,
+1005	regarding maaser and Shemitah; so as much as he is not suspected on them, he will not be suspected	quanto ao maasser e à Shemitá; então, por ele não ser suspeito neles, também não será suspeito
+1006	regarding others either.	quanto a outros.
+1007	Rabbi Yannai, son of Rabbi Yishmael, said: where he was suspected and then accepted upon himself.	Rabi Yanai, filho de Rabi Yishmael, disse: quando ele era suspeito e então aceitou sobre si.
+1008	We saw him.	Nós o vimos.
+1009	In general, one suspected on taharot is not suspected on Shemitah	Em geral, quem é suspeito quanto às taharot não é suspeito quanto à Shemitá
+1010	and maasrot.	e aos maasrot.
+1011	That was the question, no.	Essa era a pergunta, não.
+1012	One trusted on taharot is trusted on Shemitah.	Quem é confiável quanto às taharot é confiável quanto à Shemitá.
+1013	One suspected is suspected.	Quem é suspeito é suspeito.
+1014	So you see: one suspected on taharot is suspected on Shemitah and maasrot.	Então você vê: quem é suspeito quanto às taharot é suspeito quanto à Shemitá e aos maasrot.
+1015	It tells you, Rabbi Elai says, the Mishnah: why is he not suspected there on Shemitah and maasrot?	Isso lhe diz, diz Rabi Elai, a Mishná: por que ali ele não é suspeito quanto à Shemitá e aos maasrot?
+1016	We saw him be careful himself with maasrot and Shemitah, privately, inside his home, so	Vimos que ele mesmo se cuida com os maasrot e a Shemitá, em privado, dentro de sua casa, então
+1017	he is not suspected on them.	ele não é suspeito quanto a eles.
+1018	That is, regarding others, as much as he is careful himself, he is not suspected regarding others either.	Ou seja, quanto a outros, na medida em que ele mesmo se cuida, não é suspeito também quanto a outros.
+1019	But if he is suspected on them, and we did not see him, outside, he is not suspected.	Mas se ele é suspeito deles, e não o vimos fora, ele não é suspeito.
+1020	Also people, if we did not	Também as pessoas, se não
+1021	see	vimos
+1022	him, he too is suspected.	ele, também é suspeito.
+1023	The whole Mishnah: in any matter where he is not suspected, and in a case where we saw him, he is accustomed	Toda a Mishná: em qualquer assunto em que não é suspeito, e no caso em que o vimos, ele costuma
+1024	to be careful about that matter inside his home.	ter cuidado com esse assunto dentro de sua casa.
+1025	This is the level.	Esse é o nível.
+1026	Rabbi Yannai, son of Rabbi Yishmael, said: what we said in the Mishnah, suspected on taharot is suspected on Shemitah	Rabi Yanai, filho de Rabi Yishmael, disse: o que dissemos na Mishná, suspeito quanto às taharot é suspeito quanto à Shemitá
+1027	and maasrot, because even a man who was suspected, who accepted upon himself, at first was that man suspected also on Shemitah	e aos maasrot, pois mesmo um homem que era suspeito e aceitou sobre si, no início era suspeito também quanto à Shemitá
+1028	and maasrot and also on taharot, he returned and the Sages said of him:	e aos maasrot e também quanto às taharot; ele voltou atrás e os Sábios disseram dele:
+1029	look, this was a man who accepted upon himself to be careful, whether with Shemitah, or maasrot, or	veja, este era um homem que aceitou sobre si ter cuidado, seja com a Shemitá, seja com os maasrot, seja
+1030	with taharot; and then he was suspected on one of them, he remains on taharot, since they are from	com as taharot; e então foi suspeito de um deles, ele permanece nas taharot, pois são de
+1031	suspected, suspected also then; in this we say he returns to taharot, he	suspeito, suspeito também então; nisto dizemos que volta às taharot, ele
+1032	returns to being suspected on everything. But if these are matters that from the start	volta a ser suspeito de tudo. Mas se são coisas que desde o início
+1033	not	não
+1034	Rava, son of Rabbah bar Chana, said in the name of Rabbi Yochanan: what we said	Disse Rava, filho de Rabá bar Chana, em nome de Rabi Yochanan: o que dissemos
+1035	in the Mishnah, that one suspected on Shemitah is not suspected on maasrot, and one suspected on maasrot is not suspected on	na Mishná, que quem é suspeito quanto à Shemitá não é suspeito quanto aos maasrot, e quem é suspeito quanto aos maasrot não é suspeito quanto à
+1036	Shemitah, are the words of Rabbi Akiva; an anonymous Mishnah follows	Shemitá, são palavras de Rabi Akiva; uma Mishná anônima segue
+1037	Rabbi in the view of Rabbi Akiva.	Rabi segundo a opinião de Rabi Akiva.
+1038	But the Sages say: one suspected on Shemitah is suspected also on	Mas os Sábios dizem: quem é suspeito quanto à Shemitá é suspeito também quanto ao
+1039	maaser. Who are the Sages who disagree with Rabbi Akiva?	maasser. Quem são os Sábios que discordam de Rabi Akiva?
+1040	Rabbi Yehudah.	Rabi Yehudá.
+1041	And in Rabbi Yehudah's view, Shemitah is stricter for him, it was severe among them.	E segundo Rabi Yehudá, a Shemitá é mais severa para ele, era grave entre eles.
+1042	So one suspected on Shemitah, all the more so suspected on	Então quem é suspeito quanto à Shemitá, com mais razão é suspeito quanto ao
+1043	maaser. Where did we see this?	maasser. Onde vimos isso?
+1044	That a man would say to his friend, that man would call his friend, taunting him,	Que um homem dizia ao seu companheiro, aquele homem chamava o companheiro, zombando dele,
+1045	"convert, son of a convert woman."	de "converso, filho de conversa".
+1046	Taunting him, some one.	Zombando dele, alguém.
+1047	He calls him a convert, son of a convert woman.	Chama-o de converso, filho de conversa.
+1048	He said to him, his friend said to him, yes, that he ate for me	Disse-lhe o companheiro: sim, que ele comeu para mim
+1049	Shemitah produce, as I trust.	frutos da Shemitá, como confio.
+1050	He says to him, I am better than you, a great man, why?	Diz-lhe: eu sou melhor que você, um grande homem, por quê?
+1051	I see you eating the forbidden Shemitah produce!	Vejo você comendo a Shemitá proibida!
+1052	I do not eat Shemitah!	Eu não como Shemitá!
+1053	No, this is after the time of their removal.	Não, isso é depois do tempo da sua eliminação.
+1054	Ah, he eats Shemitah.	Ah, ele come Shemitá.
+1055	Good.	Bom.
+1056	You, did you not die?	Você, não morreu?
+1057	I brought.	Eu trouxe.
+1058	More.	Mais.
+1059	Rabbi Yonah and Rabbi Yirmeyah, they say, Rav said	Rabi Yoná e Rabi Yirmeyá dizem que disse Rav
+1060	Rava bar Chana said Rabbi Yochanan: these are the words of Rabbi Akiva, an anonymous	Rava bar Chana disse que Rabi Yochanan disse: estas são palavras de Rabi Akiva, uma anônima
+1061	anonymous Mishnah, that one suspected on Shemitah is not suspected on	anônima Mishná, que quem é suspeito quanto à Shemitá não é suspeito quanto aos
+1062	maasrot, suspected on maasrot is not suspected on Shemitah; these are the words of Rabbi Akiva, an anonymous Mishnah,	maasrot, e suspeito quanto aos maasrot não é suspeito quanto à Shemitá; estas são palavras de Rabi Akiva, uma Mishná anônima,
+1063	for Rabbi taught according to his view. But the Sages say: one suspected on maaser	pois Rabi ensinou segundo a sua opinião. Mas os Sábios dizem: quem é suspeito quanto ao maasser
+1064	is suspected on Shemitah, all the more so suspected on Shemitah, all the more so suspected on Shemitah, suspected on	é suspeito quanto à Shemitá, com mais razão suspeito quanto à Shemitá, com mais razão suspeito quanto à Shemitá, suspeito quanto ao
+1065	maaser.	maasser.
+1066	And what?	E o quê?
+1067	The Sages.	Os Sábios.
+1068	Rabbi Meir: why suspected on one thing and suspected on the whole Torah	Rabi Meir: por que suspeito de uma coisa e suspeito de toda a Torá
+1069	entire?	inteira?
+1070	So even suspected on maasrot, suspected on Shemitah.	Então mesmo suspeito quanto aos maasrot, é suspeito quanto à Shemitá.
+1071	Not like Rabbi Yehudah.	Não como Rabi Yehudá.
+1072	Here, Rabbi Yoni and Rabbi Yirmeyah, students of Rabbi Zeira	Eis Rabi Yoni e Rabi Yirmeyá, discípulos de Rabi Zeira
+1073	and some say Rabbi Yoni and Rabbi Zeira, students of Rabbi Yochanan	e alguns dizem Rabi Yoni e Rabi Zeira, discípulos de Rabi Yochanan
+1074	one said: the Sages say, one suspected on Shemitah...	um disse: os Sábios dizem, quem é suspeito quanto à Shemitá...
+1075	Moshe, one said	Moshe, um disse
+1076	one suspected on Shemitah is suspected also on maaser.	quem é suspeito quanto à Shemitá é suspeito também quanto ao maasser.
+1077	The one who disagrees with Rabbi Akiva:	Aquele que discorda de Rabi Akiva:
+1078	suspected on maaser, and who are the Sages, Rabbi Yehudah; who is the one who disagrees with	suspeito quanto ao maasser, e quem são os Sábios? Rabi Yehudá; quem é aquele que discorda de
+1079	Rabbi Akiva, called here Sages, that is Rabbi Yehudah, in the city of Rabbi Yehudah, we said	Rabi Akiva, chamado aqui de Sábios, é Rabi Yehudá; na cidade de Rabi Yehudá, dissemos

@@ -1,0 +1,120 @@
+1320	Is it permitted to use this hair?	É permitido usar esse cabelo?
+1321	A dispute.	Há uma divergência.
+1322	According to Rabbi Yehudah...	Segundo Rabi Yehudá...
+1323	Akavia ben Mahalalel?	Akavia ben Mahalalel?
+1324	Akavia ben Mahalalel permits, and the Sages prohibit.	Akavia ben Mahalalel permite, e os Sábios proíbem.
+1325	Rabbi Yose, ...	Rabi Yossi, ...
+1326	Where are we?	Onde estamos?
+1327	Hey, hey, did we do it?	Ei, ei, nós fizemos isso?
+1328	And what did you tell me about Rabbi Yose?	E o que vocês me disseram sobre Rabi Yossi?
+1329	Wow, a firstborn lamb. For how long must the owner care for it, and only	Uau, um cordeiro primogénito. Por quanto tempo o dono deve cuidar dele, e só
+1330	afterward give it to the cohen?	depois entregá-lo ao cohen?
+1331	He says, according to Rabbi Yose: three months.	Ele diz, segundo Rabi Yossi: três meses.
+1332	And if he wants to accept this upon himself...	E se ele quiser aceitar isso sobre si...
+1333	Terumot outside the Land, and how much must be mixed in for it to be nullified?	Terumot fora da Terra, e quanto deve se misturar para ser anulada?
+1334	Not in a hundred?	Não em cem?
+1335	Halachot!	Halachot!
+1336	Siman 278.	Siman 278.
+1337	One may extinguish the candle so that a sick person in danger may sleep. What is this, like pikuach	Pode-se apagar a vela para que durma o doente em perigo. O que é isso, como pikuach
+1338	nefesh?	nefesh?
+1339	Only a sick person who is in danger.	Só um doente que está em perigo.
+1340	Why, can't one sleep with a light on?	Ué, não se consegue dormir com luz?
+1341	It seems to me too pampered.	Parece-me mimado demais.
+1342	Yes.	Sim.
+1343	Now, what will the law be?	Agora, qual será a halachá?
+1344	They put out the candle for him, he sleeps, fine. Now he has woken up.	Apagaram a vela para ele, ele dorme, ótimo. Agora ele acordou.
+1345	And he is sick, so one may light it for him.	E ele está doente, então pode-se acendê-la para ele.
+1346	Yes.	Sim.
+1347	It is permitted.	É permitido.
+1348	The Mishnah Berurah writes.	A Mishná Berurá escreve.
+1349	Don't say it even for a doubt.	Não diga isso nem para uma dúvida.
+1350	A doubt of danger to life.	Uma dúvida de perigo de vida.
+1351	I see that it is small.	Vejo que é pequeno.
+1352	Even for a doubt.	Mesmo para uma dúvida.
+1353	Right?	Certo?
+1354	I am saying even a doubt.	Estou dizendo: mesmo uma dúvida.
+1355	No, here it is already written: one may extinguish the candle so that a sick person in danger may sleep.	Não, aqui já está escrito: pode-se apagar a vela para que durma o doente em perigo.
+1356	It is written in Maran, and here there is more.	Está escrito no Maran, e aqui há mais.
+1357	The Mishnah Berurah wrote: after the sick person in danger wakes, it is permitted to light the candle for him.	A Mishná Berurá escreveu: depois que o doente em perigo acordar, é permitido acender a vela para ele.
+1358	And so wrote the Beur Halachah,	E assim escreveu o Beur Halachá,
+1359	adding that the same applies to a sick person not in danger now, but where not lighting the candle would cause danger.	acrescentando que o mesmo vale para um doente que agora não está em perigo, mas que sem acender a vela entraria em perigo.
+1360	Ah.	Ah.
+1361	Yes?	Sim?
+1362	I heard there is a reluctance about dreams.	Ouvi dizer que há uma relutância quanto aos sonhos.
+1363	No, like, the Rambam writes only...	Não, tipo, o Rambam escreve apenas...
+1364	…	…
+1365	More.	Mais.
+1366	…	…
+1367	Siman 279: a candle that was lit on that Shabbat, and...	Siman 279: uma vela que foi acesa naquele Shabat, e...
+1368	Sometimes oil remains there. Since at twilight the candle was forbidden to be moved, because	Às vezes sobra óleo ali. Como no crepúsculo a vela era proibida de ser movida, porque
+1369	it was set aside at twilight, it is set aside for the entire Shabbat.	foi separada no crepúsculo, ela fica separada por todo o Shabat.
+1370	And likewise the oil in a candle that was lit on that Shabbat may not be moved in order to benefit from it on that Shabbat.	E também o óleo de uma vela acesa naquele Shabat não pode ser movido para dele se aproveitar naquele Shabat.
+1371	At twilight...	No crepúsculo...
+1372	Huh?	Hã?
+1373	Since at twilight it was forbidden to take the oil, which is muktzeh,	Como no crepúsculo era proibido pegar o óleo, que é muktzé,
+1374	it is set aside for all of Shabbat.	ele ficou separado por todo o Shabat.
+1375	Now, on Sunday, is it permitted to use this oil?	Agora, no domingo, é permitido usar esse óleo?
+1376	He says in the Kav HaChayim that it is permitted.	Ele diz no Kav HaChayim que é permitido.
+1377	It is not like the Chanukah lights, from which benefit is forbidden.	Não é como as luzes de Chanucá, das quais é proibido tirar proveito.
+1378	They say Shabbat candles were made for a person's enjoyment.	Dizem que as velas de Shabat foram feitas para o prazer da pessoa.
+1379	Wait, what is this?	Espere, o que é isso?
+1380	This candle that we said may not be moved, b...	Esta vela que dissemos que não pode ser movida, b...
+1381	Even for the need of its body or its place, it is forbidden.	Mesmo para a necessidade do seu corpo ou do seu lugar, é proibido.
+1382	Why? At twilight it was forbidden to move it, even for the need of its body or its place.	Por quê? No crepúsculo era proibido movê-la, mesmo para a necessidade do seu corpo ou do seu lugar.
+1383	A base for...	Uma base para...
+1384	It is set aside for all of Shabbat.	Ficou separada por todo o Shabat.
+1385	And there is one who permitted it, but his words were not accepted.	E houve quem permitisse, mas suas palavras não foram aceitas.
+1386	And they say that for one to whom the candle is repulsive, it is permitted	E dizem que, para quem a vela é repulsiva, é permitido
+1387	to take it out... and for me...	retirá-la... e para mim...
+1388	And one who is stringent has lost nothing.	E quem é rigoroso não perdeu nada.
+1389	They, this neighbor, light the candle on the table; they have some problems with this.	Eles, esse vizinho, acendem a vela sobre a mesa; eles têm alguns problemas com isso.
+1390	this.	isso.
+1391	We do not put the candle on	Nós não colocamos a vela sobre
+1392	the table.	a mesa.
+1393	Tomorrow you will learn this, whether it is permitted or forbidden.	Amanhã vocês vão estudar isso, se é permitido ou proibido.
+1394	Tomorrow is the next halachah.	Amanhã é a próxima halachá.
+1395	There is one who permits.	Há quem permita.
+1396	May you have long days, healthy and happy.	Que tenham longos dias, saudáveis e felizes.
+1397	Welcome, welcome.	Bem-vindo, bem-vindo.
+1398	Huh?	Hã?
+1399	He is defined.	Ele está definido.
+1400	With us?	Conosco?
+1401	All business, money, this...	Todo negócio, dinheiro, isso...
+1402	goes.	vai.
+1403	The Rambam.	O Rambam.
+1404	Page 27.	Página 27.
+1405	And just as... how?	E assim como... como?
+1406	Passing excrement, such as floating on the surface of the water,	Excremento que passa, como o que boia na superfície da água,
+1407	it is forbidden to recite opposite it. Even passing excrement, one may not recite opposite it until it has passed four cubits from him. Apparently there are places that have a lot of this.	é proibido recitar diante dele. Mesmo excremento que passa, não se pode recitar diante dele até que tenha se afastado quatro côvados. Pelo visto há lugares que têm muito disso.
+1408	Apparently there are places that have a lot of this.	Pelo visto há lugares que têm muito disso.
+1409	Excrement, I have never seen it, repeat it for me here.	Excremento, nunca vi, repita isso para mim aqui.
+1410	Huh?	Hã?
+1411	Guests?	Visitas?
+1412	If he was reading and reached a place of filth, he may not go on reciting aloud, but stops until he passes	Se estava lendo e chegou a um lugar de sujeira, não deve continuar a recitar, mas para até passar
+1413	that place.	daquele lugar.
+1414	And likewise one who is reading and passes wind from below stops until the wind ends, then returns to his reading.	E também quem está lendo e solta gases por baixo para até que os gases cessem, e então volta à sua leitura.
+1415	And one studying words of Torah, if wind came out: he stops for the recitation of the Shema, but need not stop for words of Torah.	E quem estuda palavras de Torá, se saiu gás: interrompe para a recitação do Shemá, mas não precisa interromper para palavras de Torá.
+1416	If he was reciting the Shema in a house and was unsure whether there is filth or urine there or not, it is	Se estava recitando o Shemá numa casa e ficou em dúvida se há ali sujeira ou urina ou não, é
+1417	permitted to recite.	permitido recitar.
+1418	And if he is reciting and it is uncertain whether there is filth there, he may recite until he checks, the place of	E se está recitando e há dúvida se há sujeira ali, pode recitar até verificar o lugar da
+1419	the filth.	sujeira.
+1420	In a case of doubt, even in a house, it is permitted to recite.	No caso de dúvida, mesmo numa casa, é permitido recitar.
+1421	One may not recite opposite excrement or urine until he removes it; one may not recite opposite nakedness until he turns his face.	Não se pode recitar diante de excremento ou urina até removê-los; não se pode recitar diante de nudez até virar o rosto.
+1422	Even a gentile or a minor; even a glass partition does not separate.	Mesmo de um gentio ou de um menor; mesmo uma divisória de vidro não separa.
+1423	Since he sees the nakedness, he may not recite until he turns his face.	Como ele vê a nudez, não pode recitar até virar o rosto.
+1424	And likewise, the body of a woman, nakedness.	E também o corpo de uma mulher, nudez.
+1425	And likewise it is forbidden to look at a woman's body while reciting.	E também é proibido olhar para o corpo de uma mulher enquanto recita.
+1426	Even his wife.	Mesmo a sua esposa.
+1427	A handbreadth of her body that is normally covered, he may not recite opposite it.	Um palmo do corpo dela que costuma estar coberto, ele não deve recitar diante dele.
+1428	And just as	E assim como
+1429	it is forbidden to recite opposite the nakedness of others, so it is forbidden to recite opposite his own nakedness.	é proibido recitar diante da nudez dos outros, assim é proibido recitar diante da sua própria nudez.
+1430	He may not recite while naked, until he covers his nakedness.	Não deve recitar estando nu, até cobrir a sua nudez.
+1431	If the covering was of cloth or of leather, he is permitted to recite.	Se a cobertura era de tecido ou de couro, ele pode recitar.
+1432	And provided that he is not touching his nakedness.	E desde que não esteja tocando a sua nudez.
+1433	If he is wrapped in a tallit and is naked, he places a divider of the tallit beneath his heart, and recites.	Se está envolto num talit e está nu, coloca uma divisória do talit abaixo do coração e recita.
+1434	But he may not make the divider with his hands and recite,	Mas não pode fazer a divisória com as mãos e recitar,
+1435	because his hands see the nakedness; it turns out he recited without being girded.	pois as suas mãos veem a nudez; resulta que recitou sem estar cingido.
+1436	Two people in one tallit: each of them is forbidden to recite, until the tallit separates between them,	Duas pessoas em um só talit: cada uma delas está proibida de recitar, até que o talit as separe,
+1437	so that one's flesh does not touch the other's, from the waist down.	para que a carne de um não toque a do outro, da cintura para baixo.
+1438	One who sleeps with his wife, or with his young children and household: their bodies are like his own body and he does not feel them, and	Quem dorme com a esposa, ou com os filhos pequenos e a família: o corpo deles é como o seu e ele não os sente, e
+1439	if his flesh touches them, he turns his face away, places a divider beneath his heart, and recites.	se a sua carne os toca, vira o rosto, coloca uma divisória abaixo do coração e recita.
