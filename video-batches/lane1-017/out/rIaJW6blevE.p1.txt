@@ -1,0 +1,40 @@
+40	Fine.	Certo.
+41	My discovery.	Minha descoberta.
+42	I feel like going far.	Dá vontade de ir longe.
+43	Thank you very much.	Muito obrigado.
+44	Okay, someone must be arriving late, I think.	Bom, parece que alguém vai chegar atrasado.
+45	They're texting in the group, maybe.	Talvez estejam trocando mensagens no grupo.
+46	We're starting.	Vamos começar.
+47	You have to know it's five, otherwise they'll always come late.	Tem que saber que é às cinco, senão sempre vão chegar atrasados.
+48	No, we're really starting.	Não, vamos mesmo começar.
+49	In the past, we used to start a bit	No passado, a gente começava um pouco
+50	late, by...	atrasado, com...
+51	I wrote today that we would start on time.	Escrevi hoje que vamos começar na hora.
+52	Apparently, we'll find out.	Pelo visto, vamos ver.
+53	Okay,	Bom,
+54	we can hand out the pages.	podemos distribuir as folhas.
+55	I'm not doing this here.	Eu não faço isso aqui.
+56	That today we have before us.	Que hoje temos diante de nós.
+57	Yes, I want to see	Sim, quero ver
+58	Tzvika.	Tzvika.
+59	Yes, I want to see this.	Sim, quero ver isso.
+60	Yes, I want	Sim, quero
+61	to see this.	ver isso.
+62	Thank you.	Obrigado.
+63	Okay, hello everyone.	Bom, shalom a todos.
+64	The lesson is called: Why did Sarah	A aula se chama: Por que Sara
+65	laugh?	riu?
+66	This is a passage from the Parashah,	É um trecho da Parashá,
+67	chapter 1, the big question.	capítulo 1, a grande pergunta.
+68	Sarah Imenu is one of the greatest figures in the Torah.	Sara Imênu é uma das maiores figuras da Torá.
+69	Chazal say she was greater than Avraham in prophecy,	Os Sábios dizem que ela era maior que Avraham em profecia,
+70	and that HaShem told Avraham: "All that Sarah	e que HaShem disse a Avraham: "Tudo o que Sara
+71	says to you, listen to her voice." She went with	te disser, ouve a sua voz." Ela foi com
+72	Avraham from Charan, withstood the test in Pharaoh's house, in the house of	Avraham de Charan, resistiu à prova na casa de Faraó, na casa de
+73	Avimelech, and made souls alongside her husband. That is,	Avimelech, e fez almas ao lado do marido. Ou seja,
+74	Avraham converts the men and Sarah converts the women.	Avraham converte os homens e Sara converte as mulheres.
+75	And behold, when the angel announces, "And behold, your wife Sarah has a son," the Torah	E eis que, quando o anjo anuncia: "E eis que Sara, tua mulher, terá um filho", a Torá
+76	tells us: "And Sarah laughed within herself." And HaShem	conta: "E Sara riu dentro de si." E HaShem
+77	Himself asks, "Why did Sarah laugh?"	Ele mesmo pergunta: "Por que Sara riu?"
+78	"Is anything too wondrous for HaShem?"	"Acaso algo é maravilhoso demais para HaShem?"
+79	How is it possible that Sarah Imenu, who saw HaShem's hand in every step of her life,	Como é possível que Sara Imênu, que viu a mão de HaShem em cada passo da sua vida,
