@@ -1,0 +1,120 @@
+480	All that we're discussing is standing water.	Tudo o que estamos tratando é água parada.
+481	Water and vessels.	Água e recipientes.
+482	What?	O quê?
+483	Water and vessels.	Água e recipientes.
+484	Vessels.	Recipientes.
+485	Water that was uncovered all night.	Água que ficou descoberta a noite toda.
+486	At two in the morning.	Às duas da manhã.
+487	At two in the morning it's permitted.	Às duas da manhã é permitido.
+488	At dawn, it's forbidden.	Ao amanhecer, é proibido.
+489	What determines it is alot hashachar.	O que determina é o alot hashachar.
+490	Again, peeled garlic, the same law.	De novo, alho descascado, a mesma regra.
+491	Peeled onion, the same law.	Cebola descascada, a mesma regra.
+492	Uncovered water, the same law.	Água descoberta, a mesma regra.
+493	Alot hashachar determines it.	O alot hashachar é que determina.
+494	Besides these, also leaving a corpse overnight, the same law.	Além desses, também deixar um morto passar a noite, a mesma regra.
+495	He passed away at night.	Ele faleceu à noite.
+496	As long as dawn hasn't risen, you haven't transgressed "lo talin."	Enquanto não amanheceu, você não transgrediu o "lo talin".
+497	Once dawn arrives, "lo talin" applies.	Chegou o amanhecer, aplica-se o "lo talin".
+498	Okay?	Certo?
+499	It's permitted to mix cold and hot water in order to drink.	É permitido misturar água fria e quente para beber.
+500	Cold and hot water, in order to drink.	Água fria e quente, para beber.
+501	Some are careful about this, but by the core law in the Gemara, there's no problem.	Alguns são cuidadosos nisso, mas pelo princípio da lei na Guemará, não há problema.
+502	No problem.	Não há problema.
+503	Hot water like in the old days.	Água quente como antigamente.
+504	Hot water.	Água quente.
+505	What is that?	O que é isso?
+506	I don't know it.	Eu não conheço.
+507	I'm from the Old City, I'm not from the	Eu sou da Cidade Velha, não sou da
+508	New City.	Cidade Nova.
+509	Was it heated by fire, or what?	Foi aquecida no fogo, ou o quê?
+510	Electricity.	Eletricidade.
+511	Nu.	Nu.
+512	It's lukewarm, that's its state.	Está morna, esse é o estado dela.
+513	How many degrees is it?	Quantos graus tem?
+514	No, if we reach fifty, you have no problem.	Não, se chegarmos a cinquenta, você não tem problema.
+515	Wait, as for the rest of the water, we'll talk about it.	Espere, quanto ao resto da água, falaremos sobre isso.
+516	Now, onward, I'm moving on.	Agora, adiante, vou continuar.
+517	And so...	E assim...
+518	The Semak says, when the peel helps, or if it's placed on top.	O Semak diz: quando a casca ajuda, ou se está colocada por cima.
+519	Now, cutting down a tree, cutting down a tree that has fruit, how is it written	Agora, cortar uma árvore, cortar uma árvore que tem frutos, como está escrito
+520	in the Torah?	na Torá?
+521	"When you besiege a city, to fight against it to capture it, you shall not destroy	"Quando sitiares uma cidade, lutando contra ela para conquistá-la, não destruirás
+522	its trees, for you may eat from them, and you shall not	suas árvores, pois delas comerás, e não as
+523	cut them down."	cortarás."
+524	The second verse: "Only a tree that you know, that it is not a tree	O segundo versículo: "Somente a árvore que sabes que não é árvore
+525	of food, you may destroy and cut down, and build siegeworks against the city that	de alimento, a destruirás e cortarás, e construirás cerco contra a cidade que
+526	makes war with you."	faz guerra contra ti."
+527	What did our Sages expound?	O que nossos sábios expuseram?
+528	What did Rabbi Shimon bar Yochai expound?	O que Rabi Shimon bar Yochai expôs?
+529	This is something truly wondrous.	Isso é algo realmente maravilhoso.
+530	He says, what is written? "Its tree" — etzah.	Ele diz: o que está escrito? "Sua árvore" — etzah.
+531	It should have been "the tree."	Deveria ser "a árvore".
+532	It should say etz, etz, etz — why etzah?	Deveria dizer etz, etz, etz — por que etzah?
+533	What is etzah?	O que é etzah?
+534	Say "the tree."	Diga "a árvore".
+535	Would it say "the tree"?	Estaria dizendo "a árvore"?
+536	It says etzah.	Está dito etzah.
+537	Here in the verse — peshat is peshat, but the allusion	Aqui no versículo — o peshat é o peshat, mas a alusão
+538	is that a sage is always called a tree, planted in all kinds of	é que o sábio é sempre chamado de árvore, plantado em todo tipo de
+539	places to teach Torah to Israel.	lugar para ensinar Torá a Israel.
+540	So when there are people lacking peace, a bad situation, what	Então, quando há pessoas sem paz, uma situação ruim, o que
+541	do you do?	se faz?
+542	You take a tzaddik, and he atones for the world, right?	Toma-se um tsadik, e ele expia pelo mundo, certo?
+543	That's what the Gemara says.	É o que diz a Guemará.
+544	So HaShem says to the Satan, "When you besiege a city to fight against it to capture it" —	Então HaShem diz ao Satã: "Quando sitiares uma cidade, para lutar contra ela e conquistá-la" —
+545	a city whose people have sins.	uma cidade cujos moradores têm pecados.
+546	Be careful with a talmid chacham who teaches Torah to others and gives them counsel in words of	Cuidado com um talmid chacham que ensina Torá aos outros e lhes dá conselhos em palavras de
+547	Torah: don't touch him, don't destroy him.	Torá: não toque nele, não o destrua.
+548	"Only a tree that you know is not a tree of food."	"Somente a árvore que sabes que não é árvore de alimento."
+549	If he's a talmid chacham who sits and learns Torah in a corner, only for himself, doesn't teach anyone else,	Se ele é um talmid chacham que fica sentado estudando Torá num canto, só para si, sem ensinar a ninguém,
+550	and doesn't bring out what he learned, doesn't reveal it to others, heaven forbid,	e não transmite o que aprendeu, não revela aos outros, que o Céu nos livre,
+551	heaven forbid.	que o Céu nos livre.
+552	Therefore — these are the words of Rabbi Shimon bar Yochai.	Portanto — essas são as palavras de Rabi Shimon bar Yochai.
+553	Therefore, a person must learn and teach.	Portanto, a pessoa deve aprender e ensinar.
+554	What you heard, say to others too.	O que você ouviu, diga também aos outros.
+555	How would Maran, of blessed memory, put it?	Como Maran, de abençoada memória, dizia?
+556	"Man is born to toil."	"O homem nasce para o labor."
+557	What is "toil"?	O que é "labor"?
+558	To learn in order to teach, right?	Aprender para ensinar, certo?
+559	Good.	Bom.
+560	Now, cutting down a tree is forbidden.	Agora, cortar uma árvore é proibido.
+561	Now, a case of a man who has a tree in his yard, a carob	Agora, o caso de um homem que tem uma árvore no quintal, uma alfarrobeira,
+562	tree, the carobs dried up, it breeds worms and adds	as alfarrobas secaram, ela cria vermes e acumula
+563	filth, and people suffer all the time.	sujeira, e as pessoas sofrem o tempo todo.
+564	And it also falls on people's heads, gets into their eyes and faces, and stings them,	E também cai na cabeça das pessoas, entra nos olhos e no rosto, e as pica,
+565	it annoys them.	irrita todo mundo.
+566	And he shouts, this neighbor shouts, and the municipality comes and threatens him.	E ele grita, esse vizinho grita, e a prefeitura vem e o ameaça.
+567	What does he do?	O que ele faz?
+568	Can he take it down or not?	Ele pode derrubar ou não?
+569	What does he do?	O que ele faz?
+570	Can he uproot it? He's shouting about it indirectly, to uproot	Pode arrancar? Ele grita de forma indireta, para arrancar
+571	this word.	essa palavra.
+572	No, they didn't tell him to uproot, they said to trim the tree — is that permitted?	Não, não lhe disseram para arrancar, disseram para podar a árvore — é permitido?
+573	Even if it doesn't produce fruit.	Mesmo que ela não dê frutos.
+574	Yes, good.	Sim, bom.
+575	So bring a gentile, let him bring a gentile, may that gentile's name be blotted out.	Então traga um gentio, que ele traga um gentio, que o nome desse gentio seja apagado.
+576	Now, what else do we have,	Agora, o que mais temos,
+577	another question?	outra pergunta?
+578	If he wants to build, to expand the apartments — today everyone is busy expanding apartments, it can't be	Se ele quer construir, ampliar os apartamentos — hoje todos estão ocupados ampliando apartamentos, não pode ser
+579	quiet.	em silêncio.
+580	One more room and another room.	Mais um quarto e mais outro.
+581	He wants to build another room on the plot.	Ele quer construir mais um quarto no terreno.
+582	And it starts, now the neighbors are jealous, you know what starts, oy oy oy oy, what	E começa, agora os vizinhos têm inveja, você sabe o que começa, ai ai ai ai, que
+583	curses and what quarrels, may he not know of them.	maldições e que brigas, que ele nem saiba.
+584	So what happens now?	Então o que acontece agora?
+585	Nu, nu.	Nu, nu.
+586	Now, is building permitted or forbidden?	Agora, construir é permitido ou proibido?
+587	But you call a gentile to uproot it — what?	Mas você chama um gentio para arrancar — o quê?
+588	What's the law?	Qual é a lei?
+589	Who wrote about it?	Quem escreveu sobre isso?
+590	What do the poskim write about this today?	O que os poskim escrevem hoje sobre isso?
+591	I need the place where the tree is, or for a sukkah.	Preciso do lugar da árvore, ou para uma sucá.
+592	The tree spreads out too much, and I just can't.	A árvore se espalha demais, e eu simplesmente não consigo.
+593	The family grows, the grandchildren come, the cousins come, and I want to build	A família cresce, vêm os netos, vêm os primos, e quero construir
+594	a sukkah on the plot.	uma sucá no terreno.
+595	It's in the way.	Está atrapalhando.
+596	Am I permitted to cut it or forbidden to cut it?	Posso cortar ou é proibido cortar?
+597	The Turei Zahav	O Turei Zahav
+598	wrote that for the need of its place it will be permitted, as	escreveu que, por necessidade do seu espaço, será permitido, como
+599	you said.	você disse.

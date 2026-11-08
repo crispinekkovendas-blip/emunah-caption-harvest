@@ -1,0 +1,120 @@
+0	Rambam, Hilchot Shechitá, chapter 2, halachá 1. In this chapter we will learn several	Rambam, Hilchot Shechitá, capítulo 2, halachá 1. Neste capítulo vamos aprender vários
+1	main topics. One is that shechitá is not valid in every	temas principais. Um é que a shechitá não é válida em qualquer
+2	place. There are places where slaughtering is invalid, for example whoever	lugar. Há lugares em que abater é inválido, por exemplo quem
+3	slaughters chullin in the Azará, certainly it is invalid. Right? The same	abate chullin na Azará, certamente é inválido. Certo? O mesmo vale
+4	if one slaughters at seas and rivers, then there is a concern	se alguém abate em mares e rios, pois há uma suspeita
+5	of slaughtering for idolatry.	de abate para idolatria.
+6	So we need to know where shechitá is valid.	Então precisamos saber onde a shechitá é válida.
+7	So too the Gemara learns in Kiddushin 57b: "If the place that HaShem	Assim também a Guemará ensina em Kiddushin 57b: "Se o lugar que HaShem,
+8	your Elokim will choose to put His Name there is too far from you, then you shall slaughter	teu Elokim, escolher para ali pôr o Seu Nome estiver longe de ti, abaterás
+9	of your herd and of your flock that HaShem has given you, as I commanded you, and you shall eat within your gates, in all	do teu gado e do teu rebanho que HaShem te deu, como te ordenei, e comerás dentro das tuas portas, com todo
+10	the desire of your soul."	o desejo da tua alma."
+11	The second part of the chapter speaks about how the shechitá is carried out,	A segunda parte do capítulo trata da maneira de realizar a shechitá,
+12	namely that the shechitá must be done by moving the knife back and forth, as we learned in the previous lessons.	ou seja, que deve ser feita com o movimento de vai e vem da faca, como aprendemos nas aulas anteriores.
+13	If it is done only forward or only backward, then the knife must be long enough,	Se for feita só para a frente ou só para trás, a faca precisa ser longa o bastante,
+14	the length of two necks. And then the intention of	do tamanho de dois pescoços. E então a intenção
+15	the person: that is, although the mitzvah of shechitá can be fulfilled even	da pessoa: isto é, embora a mitsvá da shechitá possa ser cumprida mesmo
+16	without any intention at all, there are intentions that can invalidate	sem intenção alguma, há intenções que podem invalidar
+17	the shechitá, such as if he slaughtered for the sake of kodashim, or slaughtered for the sake of idolatry.	a shechitá, como se abateu em nome de kodashim ou em nome de idolatria.
+18	This invalidates the shechitá. These are essentially the main topics	Isso invalida a shechitá. Estes são, em essência, os principais temas
+19	that the Rambam discusses here in the second chapter of Hilchot Shechitá.	de que o Rambam trata aqui, no segundo capítulo de Hilchot Shechitá.
+20	The source of the first halachá, as I said, is the Gemara in Kiddushin, page	A fonte da primeira halachá, como eu disse, é a Guemará em Kiddushin, página
+21	57b: "Ki yirchak mimcha hamakom, vezavachta." That is,	57b: "Ki yirchak mimcha hamakom, vezavachta." Isto é,
+22	in a distant place you slaughter, but you do not slaughter in a near place.	em lugar distante abates, mas em lugar próximo não abates.
+23	From here we actually learn that it is forbidden to slaughter chullin there, as a warning. Now	Daqui aprendemos que é proibido abater chullin ali, como advertência. Agora
+24	the Gemara asks there: From where do we include the chayah? I include the chayah, which is slaughtered	a Guemará pergunta ali: de onde incluímos a chayah? Incluo a chayah, que é abatida
+25	like a beast. From where do we include birds? The verse says "veshachatu," "veshachat oto," "veshachat oto."	como o gado. De onde incluímos as aves? O versículo diz "veshachatu", "veshachat oto", "veshachat oto".
+26	So what Rashi explains there, in Kiddushin 57b, d"h veshachatu,	O que Rashi explica ali, em Kiddushin 57b, d"h veshachatu,
+27	is that in three adjacent parashiyot it says to slaughter kodashim at the entrance of the Ohel Moed.	é que em três parashiyot vizinhas diz-se para abater kodashim à entrada da Tenda da Reunião.
+28	In one verse it says "veshachatu" at the entrance of the Ohel Moed, and in two other verses it says "veshachat oto."	Em um versículo diz-se "veshachatu" à entrada da Tenda da Reunião, e em outros dois diz-se "veshachat oto".
+29	The wording "oto" implies exclusion.	A expressão "oto" implica exclusão.
+30	And there it is written, to exclude: only that do you slaughter in the Azará, and nothing else.	E ali está escrito, para excluir: só isso abates na Azará, e nada mais.
+31	Good.	Bem.
+32	Let's look at the Rambam's wording.	Vejamos a redação do Rambam.
+33	Our teacher the Rambam writes: It is permitted to slaughter anywhere,	Nosso mestre, o Rambam, escreve: É permitido abater em qualquer lugar,
+34	except for the Azará, for one does not slaughter in the Azará except	exceto na Azará, pois não se abate na Azará a não ser
+35	only the sacrifices of the altar.	somente os sacrifícios do altar.
+36	That is, animals that were sanctified to be offered on the altar.	Isto é, animais que foram consagrados para serem oferecidos sobre o altar.
+37	But chullin it is forbidden to slaughter in the Azará,	Mas chullin é proibido abater na Azará,
+38	whether beast, chayah, or bird.	seja gado, chayah ou ave.
+39	And so it says regarding basar ta'avá.	E assim diz a respeito do basar ta'avá.
+40	Basar ta'avá is meat that the Torah permitted us to eat,	Basar ta'avá é a carne que a Torá nos permitiu comer,
+41	that is, chullin.	ou seja, chullin.
+42	That is called basar ta'avá, meat of desire.	Isso se chama basar ta'avá, carne de desejo.
+43	Why is it called meat of desire?	Por que se chama carne de desejo?
+44	Because a person eats it since he craves it,	Porque a pessoa a come por desejá-la,
+45	not because he is fulfilling a mitzvah by it.	e não porque com isso cumpre uma mitsvá.
+46	Meat of desire.	Carne de desejo.
+47	That is, if a person, for example, opened a skewer place, right?	Ou seja, se uma pessoa, por exemplo, abrisse uma espetaria, certo?
+48	There are such places.	Existem esses lugares.
+49	It would be fitting to call it "Skewers of Desire."	Seria apropriado chamá-la "Espetos do Desejo".
+50	"Palace of Desire."	"Palácio do Desejo".
+51	That's really how one should call a steakhouse: "Steakhouse of Desire."	É assim que se deveria chamar uma churrascaria: "Churrascaria do Desejo".
+52	"Turkish Desire."	"Desejo Turco".
+53	Instead of "Turkish Grill."	Em vez de "Grelhado Turco".
+54	Huh?	Hein?
+55	"Pargiyot of Desire."	"Pargiyot do Desejo".
+56	"Pargiyot of Desire."	"Pargiyot do Desejo".
+57	Nice.	Ótimo.
+58	"Restaurant of Desire."	"Restaurante do Desejo".
+59	Excellent.	Excelente.
+60	In short, that is what the Torah calls one who eats meat not for the sake of a mitzvah.	Em suma, é assim que a Torá chama quem come carne sem ser por uma mitsvá.
+61	Meat of desire.	Carne de desejo.
+62	Ay ay ay. Our teacher the Rambam says: And so it says regarding meat of desire,	Ai ai ai. Diz nosso mestre, o Rambam: E assim diz a respeito da carne de desejo,
+63	"If the place that HaShem will choose is too far from you," etc.,	"Se o lugar que HaShem escolher estiver longe de ti", etc.,
+64	"then you shall slaughter of your herd and of your flock," etc., "and eat within your gates."	"abaterás do teu gado e do teu rebanho", etc., "e comerás dentro das tuas portas".
+65	This teaches that one does not slaughter meat of desire	Isto ensina que não se abate carne de desejo
+66	except outside the place that HaShem chose.	senão fora do lugar que HaShem escolheu.
+67	That is, "only if the place is far from you": be far from the place that HaShem will choose, there you	Ou seja, "só se o lugar estiver longe de ti": esteja longe do lugar que HaShem escolher, ali podes
+68	may slaughter of your herd and of your flock, and so on.	abater do teu gado e do teu rebanho, e assim por diante.
+69	Only outside the place that HaShem chose.	Somente fora do lugar que HaShem escolheu.
+70	The Rambam says, halachá 2: And that which is slaughtered outside the place is	Diz o Rambam, halachá 2: E o que é abatido fora do lugar é
+71	permitted to be eaten in all the gates.	permitido comer em todas as portas.
+72	All the gates means in any city he wishes, in any place, as	Todas as portas significa em qualquer cidade que queira, em qualquer lugar, como
+73	it says "the gate of his city," or as it says "for all the gate	se diz "a porta da sua cidade", ou como se diz "pois toda a porta
+74	of my people knows." "In every city" means the place, the city. And	do meu povo sabe". "Em toda cidade" significa o lugar, a cidade. E
+75	what was mentioned about outside the place is that it is permitted to eat it in all the gates. But one who slaughters chullin in the Azará,	o que foi mencionado sobre fora do lugar é que é permitido comê-lo em todas as portas. Mas quem abate chullin na Azará,
+76	that meat is tahor, meaning the shechitá helped to remove	essa carne é pura, isto é, a shechitá serviu para tirá-la
+77	it from the impurity of neveilá. That is what "tahor" means: it does not become neveilá. Why?	da impureza de neveilá. É isso que significa "pura": não se torna neveilá. Por quê?
+78	Because he slaughtered it properly, that is, he performed a valid shechitá. But since	Porque abateu corretamente, isto é, fez uma shechitá válida. Mas como
+79	he slaughtered it in the Azará, and this is not kodashim meat but chullin meat,	abateu na Azará, e não é carne de kodashim e sim de chullin,
+80	therefore our teacher the Rambam says: But one who slaughters chullin in the Azará, that meat	por isso diz nosso mestre, o Rambam: Mas quem abate chullin na Azará, essa carne
+81	is tahor but forbidden in benefit, like meat and milk	é pura, mas proibida em proveito, como carne com leite
+82	and the like.	e similares.
+83	So it will be forbidden in benefit, like meat and milk, and "the like" refers to other	Ou seja, será proibida em proveito, como carne com leite, e "similares" refere-se a outras
+84	prohibitions of benefit. And one buries it,	proibições de proveito. E ela é enterrada,
+85	and its ashes are forbidden.	e suas cinzas são proibidas.
+86	That is, it also requires burial, so that no one benefits from it, and also	Isto é, também precisa ser enterrada, para que ninguém tire proveito dela, e também
+87	if he burned it, for example, its ashes too are forbidden in benefit.	se a queimou, por exemplo, suas cinzas também são proibidas em proveito.
+88	Even if he slaughtered for medicine, that is, this prohibition	Mesmo que tenha abatido para remédio, isto é, esta proibição
+89	of chullin in the Azará applies even if he did not slaughter in the Azará for eating, but	de chullin na Azará vale mesmo que ele não tenha abatido na Azará para comer, mas
+90	slaughtered for medicine, for a medical need.	tenha abatido para remédio, por necessidade médica.
+91	Even if he slaughtered for medicine, or to feed a non-Jew, or to feed	Mesmo que tenha abatido para remédio, ou para alimentar um não judeu, ou para alimentar
+92	dogs.	cães.
+93	In all these cases, the meat too is forbidden in benefit.	Em todos esses casos, a carne também é proibida em proveito.
+94	Why?	Por quê?
+95	Because after all, it is still slaughter of chullin.	Porque, afinal, ainda é abate de chullin.
+96	But one who strangles in the Azará, what does "nocher" mean, gentlemen?	Mas o que estrangula na Azará — o que significa "nocher", senhores?
+97	"Nocher" means that he killed the animal, right?	"Nocher" quer dizer que matou o animal, certo?
+98	Not by shechitá. Shechitá applies only to cutting with a knife at the simanim.	Não por shechitá. Shechitá só se aplica ao corte com faca nos simanim.
+99	And so "nocher" means that he killed the animal, basically,	Portanto "nocher" quer dizer que matou o animal, basicamente,
+100	in any other way that is not a valid shechitá. But there were those who, in their time,	de qualquer outra forma que não seja uma shechitá válida. Mas havia os que, em seu tempo,
+101	killed an animal by tearing its flesh	matavam um animal rasgando a sua carne
+102	from the nostrils to the heart.	das narinas até o coração.
+103	That is called nechira.	Isso se chama nechira.
+104	Cruel. May HaShem have mercy.	Cruel. Que HaShem tenha misericórdia.
+105	In any case, one who strangles in the Azará, or the me'aker, "me'aker" meaning he killed by	De qualquer modo, quem estrangula na Azará, ou o me'aker, "me'aker" quer dizer que matou
+106	uprooting the simanim: he did not cut them but uprooted them from their place.	arrancando os simanim: não os cortou, mas os arrancou do lugar.
+107	And a non-Jew who slaughtered, that is, if there is a gentile who slaughtered, even a valid shechitá, what	E um não judeu que abateu, isto é, se um gentio abateu, mesmo uma shechitá válida, o que
+108	do we say? That his shechitá is neveilá, as we learned yesterday that a gentile's shechitá is neveilá,	dizemos? Que a sua shechitá é neveilá, como aprendemos ontem que a shechitá de um gentio é neveilá,
+109	and also, chas veshalom, if he is a min or a public desecrator of Shabbat,	e também, que D'us nos livre, se for um herege ou profanador público do Shabat,
+110	who has the law of a gentile, his shechitá too is neveilá.	que tem o status de gentio, a sua shechitá também é neveilá.
+111	And the me'aker, and the non-Jew who slaughtered, and one who slaughtered and it was found to be tereifá,	E o me'aker, e o não judeu que abateu, e quem abateu e se achou tereifá,
+112	even a fit person: he slaughtered, and in the end it turns out this animal is a tereifá, so the shechitá	mesmo uma pessoa idônea: abateu, e no fim se vê que este animal é tereifá, então a shechitá
+113	did not make it fit for eating.	não o tornou apto para comer.
+114	And one who slaughters an impure beast, chayah, or bird in the Azará, all of these	E quem abate na Azará um animal, uma chayah ou uma ave impuros, todos estes
+115	are all permitted in benefit.	são todos permitidos em proveito.
+116	Why are they permitted in benefit?	Por que são permitidos em proveito?
+117	Because for them, slaughter is no rectification.	Porque, para eles, a shechitá não é correção alguma.
+118	The meaning of this:	O sentido disto:
+119	The Torah forbade in benefit a chullin animal that was slaughtered	A Torá proibiu em proveito um animal de chullin que foi abatido
