@@ -1,0 +1,120 @@
+0	Thank you.	Obrigado.
+1	Running,	Correndo,
+2	Running, alongside the earlier one.	Correndo, ao lado do anterior.
+3	Those are the ones who…	Esses são os que…
+4	No.	Não.
+5	Yes, yes, thank you.	Sim, sim, obrigado.
+6	I	Eu
+7	I'll write to you in the group about the renovation, so we'll see what she thinks	Vou escrever para vocês no grupo sobre a reforma, aí vamos ver o que ela acha
+8	of doing.	de fazer.
+9	Be here before and after.	Estejam aqui antes e depois.
+10	The judging starts, in a good hour, in two	O julgamento começa, em boa hora, em duas
+11	and a half weeks.	semanas e meia.
+12	Why, Orit?	Por quê, Orit?
+13	I thought he didn't need it.	Achei que ele não precisava.
+14	Why?	Por quê?
+15	What can you renovate?	O que você pode reformar?
+16	You said fine.	Você disse que tudo bem.
+17	Alisa, thank you.	Alisa, obrigado.
+18	Thank you very much.	Muito obrigado.
+19	Bye.	Tchau.
+20	That's Freudian.	Isso é freudiano.
+21	As they ask, you're not available.	Como perguntam, você não está disponível.
+22	Right, sir.	Certo, senhor.
+23	In the studio yes, here there are some…	No estúdio sim, aqui tem alguns…
+24	No, in the studio it's almost square, they ask me, are you in a period?	Não, no estúdio é quase quadrado, me perguntam: você está num período?
+25	I say, open studio.	Eu digo: estúdio aberto.
+26	He's precise.	Ele é preciso.
+27	I'm open to all kinds of bad things.	Estou aberta a todo tipo de coisa ruim.
+28	Neighbor, but	Vizinho, mas
+29	the studio is open.	o estúdio está aberto.
+30	It's chocolate, I have some like that.	É chocolate, eu tenho alguns assim.
+31	It's…	É…
+32	Thank you	Obrigado
+33	very much.	muito.
+34	Thank	Obrigado
+35	you very much.	muito.
+36	Wow, you	Nossa, você
+37	are making a king	está fazendo um rei
+38	of a teacher.	de professor.
+39	Uri is fine.	O Uri está bem.
+40	Fine.	Tudo certo.
+41	My discovery.	Minha descoberta.
+42	I feel like going far.	Dá vontade de ir longe.
+43	Thank you very much.	Muito obrigado.
+44	Okay, someone will arrive late, I think.	Bem, alguém vai chegar atrasado, acho.
+45	Maybe they're chatting in the group,	Talvez estejam conversando no grupo,
+46	we're starting.	vamos começar.
+47	You need to know it's at five, otherwise they'll always be late.	É preciso saber que é às cinco, senão sempre vão se atrasar.
+48	No, we're really starting.	Não, vamos começar de verdade.
+49	In the past they used to start a bit	No passado começavam um pouco
+50	late, by…	atrasados, uns…
+51	I wrote today that we'd start on time.	Escrevi hoje que começaríamos na hora.
+52	Apparently, we'll see.	Pelo visto, vamos ver.
+53	Okay,	Bem,
+54	we can hand out the pages.	podemos distribuir as folhas.
+55	I'm not doing it here.	Eu não faço isso aqui.
+56	There's something today because of us.	Hoje tem algo por nossa causa.
+57	Yes, I want to see	Sim, quero ver
+58	Tzvika.	o Tzvika.
+59	Yes, I want to see it.	Sim, quero ver isso.
+60	Yes, I want	Sim, quero
+61	to see it.	ver isso.
+62	Thank you.	Obrigado.
+63	Okay, hello everyone.	Bem, olá a todos.
+64	The lesson is called: Why Did	A aula se chama: Por que
+65	Sarah Laugh?	Sara riu?
+66	This is a passage from the Parashah.	Este é um trecho da Parashá.
+67	Part one, the big question.	Parte um, a grande pergunta.
+68	Sarah our matriarch is one of the greatest figures in the Torah.	Sara, nossa matriarca, é uma das maiores figuras da Torá.
+69	Chazal say she was greater than Avraham in prophecy,	Os Sábios dizem que ela era maior que Avraham em profecia,
+70	and that the Holy One, Blessed be He, said to Avraham: "Whatever Sarah tells	e que o Santo, Bendito seja, disse a Avraham: "Tudo o que Sara te disser,
+71	you, listen to her voice." She went with	ouve a sua voz." Ela foi com
+72	Avraham from Charan, withstood the test in Pharaoh's house, in the house of	Avraham de Charan, passou pela prova na casa de Faraó, na casa de
+73	Avimelech, and made souls alongside her husband, that is,	Avimelech, e fez almas ao lado do marido, isto é,
+74	Avraham converts the men and Sarah converts the women.	Avraham converte os homens e Sara converte as mulheres.
+75	And behold, when the angel announces, "and behold, Sarah your wife shall have a son," the Torah	E eis que, quando o anjo anuncia "e eis que Sara, tua mulher, terá um filho", a Torá
+76	tells us "Sarah laughed within herself," and the Holy One, Blessed be He,	conta: "Sara riu dentro de si", e o Santo, Bendito seja,
+77	Himself asks: "Why did Sarah laugh?"	Ele mesmo pergunta: "Por que Sara riu?"
+78	"Is anything too wondrous for HaShem?"	"Haveria algo maravilhoso demais para HaShem?"
+79	How can it be that Sarah our matriarch, who saw the hand of HaShem in every step of her life,	Como é possível que Sara, nossa matriarca, que viu a mão de HaShem em cada passo de sua vida,
+80	did not believe He could give her a son?	não acreditou que Ele podia lhe dar um filho?
+81	How does a woman of such a level laugh at a divine promise, and afterwards	Como uma mulher de tal nível ri de uma promessa divina e depois
+82	even deny it and say, "I did not laugh"?	ainda nega e diz: "Eu não ri"?
+83	The question is even sharper because Avraham also laughed when he was promised	A pergunta é ainda mais aguda porque Avraham também riu quando lhe prometeram
+84	a son, and the Holy One, Blessed be He, did not rebuke him. What is the difference	um filho, e o Santo, Bendito seja, não o repreendeu. Qual é a diferença
+85	between Avraham's laughter and Sarah's, and why	entre o riso de Avraham e o de Sara, e por que
+86	specifically the son born out of this laughter is called Yitzchak, after	justamente o filho nascido desse riso se chama Yitschak, em razão
+87	the laughter? That is, if laughter is a negative factor,	do riso? Ou seja, se o riso é um fator negativo,
+88	why call the child by a name with a negative connotation?	por que dar à criança um nome de conotação negativa?
+89	So now, in part two, there are the verses of the Parashah,	Então agora, na parte dois, estão os versículos da Parashá,
+90	and then an analysis of verse 9: "And they said to him,	e depois a análise do versículo 9: "E disseram-lhe:
+91	Where is Sarah your wife?"	Onde está Sara, tua mulher?"
+92	"And he said, Behold, in the tent." Why do the angels ask where Sarah is?	"E ele disse: Eis que está na tenda." Por que os anjos perguntam onde Sara está?
+93	They know! Rashi, bringing from Chazal: to let him know	Eles sabem! Rashi, trazendo dos Sábios: para fazer saber
+94	that she is modest, and to endear her to her husband. Sarah is	que ela é recatada e para torná-la querida ao marido. Sara está
+95	in the tent, inside, hidden.	na tenda, dentro, escondida.
+96	That is Rashi's message. "And he said,	Essa é a mensagem de Rashi. "E ele disse:
+97	I will surely return to you at this time next year, and behold, a son	Certamente voltarei a ti por este tempo no ano que vem, e eis que um filho
+98	will be born to Sarah your wife." And Sarah heard at the tent door, which was	terá Sara, tua mulher." E Sara ouvia à porta da tenda, que estava
+99	behind him." To whom is the news directed?	atrás dele." A quem a notícia é dirigida?
+100	The news is told to Avraham, and Sarah hears it from behind the entrance,	A notícia é dita a Avraham, e Sara a ouve por trás da entrada,
+101	indirectly; she doesn't hear it face to face.	indiretamente; ela não a ouve face a face.
+102	All of this is verses and explanations in the simple pshat.	Tudo isso são versículos e explicações no pshat simples.
+103	"And Avraham and Sarah were old, advanced in days."	"E Avraham e Sara eram velhos, avançados em dias."
+104	"It had ceased to be with Sarah	"Tinha cessado de haver para Sara
+105	after the manner of women."	o costume das mulheres."
+106	Why does the Torah tell us this specifically here?	Por que a Torá nos conta isso justamente aqui?
+107	So that we understand that, from the standpoint of nature, the news is impossible.	Para entendermos que, do ponto de vista da natureza, a notícia é impossível.
+108	It is not a difficulty but a complete absence of a vessel.	Não é uma dificuldade, mas a ausência total de um vaso.
+109	That is, we are talking about two fully elderly people.	Ou seja, trata-se de duas pessoas completamente idosas.
+110	"And Sarah laughed within herself, saying: After I have grown old, shall I have	"E Sara riu dentro de si, dizendo: Depois de eu envelhecer, terei
+111	delight, and my lord is old?" What	prazer, e meu senhor é velho?" O que
+112	does "within herself" mean?	significa "dentro de si"?
+113	The laughter did not come out; it was inside her, internal, and no one	O riso não saiu; estava dentro dela, interno, e ninguém
+114	heard it. And "ednah" is explained	o ouviu. E "ednah" é explicado
+115	in Rashi as the softness of the flesh and the return of youth.	em Rashi como a maciez da carne e o retorno da juventude.
+116	"And HaShem said to Avraham, Why did Sarah laugh, saying, Shall I truly bear a child,	"E HaShem disse a Avraham: Por que Sara riu, dizendo: Será que realmente darei à luz,
+117	when I am old?" Why does the Holy One, Blessed be He, change her words?	sendo velha?" Por que o Santo, Bendito seja, altera as palavras dela?
+118	Sarah said "and my lord is old," and the Holy One, Blessed be He, tells Avraham "and I am old."	Sara disse "e meu senhor é velho", e o Santo, Bendito seja, diz a Avraham "e eu sou velha".
+119	From here Chazal learned that peace is great.	Daqui os Sábios aprenderam que a paz é grande.
