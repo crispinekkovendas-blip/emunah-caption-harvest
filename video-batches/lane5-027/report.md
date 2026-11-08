@@ -1,21 +1,21 @@
 # lane5-027
 
-18 of 25 lessons published · 0 skipped · status **pending**
-Tokens (251 agent runs with a record): 1.9M in (mostly cache) · 1.93M out · API-equivalent 25.70
+21 of 25 lessons published · 4 skipped · status **done**
+Tokens (304 agent runs with a record): 2.3M in (mostly cache) · 2.29M out · API-equivalent 30.64
 
 | lesson | state | detail |
 |---|---|---|
 | bKrF0_CTVQs | ✓ published | 704 lines · Zohar: Atik, Arich Anpin e "Bereshit Bara Elokim |
-| RP8znPJBIwQ | ✗ will be redone (try 2) | 5 lines missing |
+| RP8znPJBIwQ | skipped after 3 tries | 12 lines missing |
 | xXvst00XxB8 | ✓ published | 1074 lines · Fim da preparação: Eliezer, Moshé e a recepção de Mashiach |
-| zIGqgXbLyms | ✗ will be redone (try 2) | 15 lines missing |
+| zIGqgXbLyms | ✓ published | 467 lines · Gur VeToshav: Avraham, a compra de Machpelá e a intimidade com o lugar |
 | W0g3gr9KEn8 | ✓ published | 318 lines · Avraham: fé, provações e perseverança em Chayei Sará |
 | -D6eTqv1WUQ | ✓ published | 317 lines · Chayei Sarah: a escolha do cônjuge segundo Avraham |
-| z3JdWDqHp5A | ✗ will be redone (try 2) | 34 lines missing |
-| beredLLx_9c | ✗ will be redone (try 2) | 6 lines missing |
-| 0iODWAeH3xM | ✗ will be redone (try 2) | 2 lines missing |
-| FV-ElKpJUTQ | ✗ will be redone (try 2) | 52 lines missing |
-| KW6imFbsvss | ✗ will be redone (try 2) | 2 lines missing |
+| z3JdWDqHp5A | skipped after 3 tries | 61 lines missing |
+| beredLLx_9c | ✓ published | 910 lines · As três linhas: direita, esquerda e o retorno à direita |
+| 0iODWAeH3xM | ✓ published | 560 lines · Por que o Ein Sof não é o Criador: a vontade de receber |
+| FV-ElKpJUTQ | skipped after 3 tries | 8 lines missing |
+| KW6imFbsvss | skipped after 3 tries | 25 lines missing |
 | QJtPH-4Dj4c | ✓ published | 550 lines · Bat talmid chacham e o trabalho de receber o desejo de doar |
 | 1epNts1HKX4 | ✓ published | 709 lines · Chovot HaLevavot: o Portão da Humildade (Shaar HaKniá) |
 | h-JqWjUSePs | ✓ published | 235 lines · Bava Metzia 6: mudança no uso do animal alugado |
