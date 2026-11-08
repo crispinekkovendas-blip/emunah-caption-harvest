@@ -1,0 +1,4 @@
+600	Yes.	Sim.
+601	You can't do hitbodedut with someone who has it.	Não dá para fazer hitbodedut com alguém que tem isso.
+602	Okay, goodbye everyone.	Bem, até logo a todos.
+603	All the best.	Tudo de bom.
