@@ -1,0 +1,100 @@
+videoId: P4iaP5ArlzE
+parte 6 de 6 · traduzir as linhas 600 a 675 (76 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O Keter como estado médio entre o Emanador e o emanado
+RESUMO: O Rav David Agmon retoma o Talmud Eser HaSefirot, parte 3, no capítulo 6, e revisa as letras já estudadas. O Keter contém duas bechinot, Atik (a última bechiná do Ein Sof, a Malchut de Malchut) e Arich Anpin (a raiz dos emanados), e aparece como Tohu e Bohu de Bereshit 1:2, que ele lê com Rashi. Ele explica que o Keter às vezes não é contado entre as dez Sefirot, que então são contadas com Daat, e lembra o Sefer Yetzirá: "dez e não nove, dez e não onze". Lê depois as letras Hei a Chet do Arizal, segundo as quais o Keter não é nem Ein Sof nem emanado, mas uma bechiná intermediária entre o Emanador e os emanados. Em cada Keter há uma bechinat Ein, ilustrada pelo grão de trigo que apodrece antes de brotar e por Rosh HaShaná como momento de recomeço. Por fim, a Malchut de Malchut de Atzilut torna-se Atik do mundo de Beriá, e o rabino antecipa que o capítulo 7 tratará da bechiná que perfura o masach.
+MOMENTOS: 01:08 Revisão: o Keter tem duas bechinot, Atik e Arich Anpin · 03:09 Chochmá é a primeira Sefirá do emanado; o Keter é raiz · 04:50 O Keter às vezes não é contado; Daat e "dez e não nove" · 07:08 Ein Sof como Efes; Tohu e Bohu no Keter · 10:55 Rashi em Bereshit sobre Tohu e Bohu · 13:53 Tohu é a raiz em potência; Bohu é em ato · 15:29 Letra Hei: o Keter como emanador e emanado · 20:15 Letra Vav: a Malchut de Malchut gera o Bohu · 28:42 Letra Zayin: Atik e Arich Anpin, bechiná intermediária · 36:07 O grão de trigo e a bechinat Ein em cada Keter · 41:46 Letra Chet: Malchut de Atzilut vira Atik de Beriá · 45:58 Prévia do capítulo 7: a bechiná que perfura o masach
+FONTES CITADAS: 01:14 Talmud Eser HaSefirot, parte 3, cap. 6, Or Pnimi · 03:38 Talmud Eser HaSefirot, cap. 6, letra Alef · 05:20 Sefer Yetzirá 1:4 · 07:13 Talmud Eser HaSefirot, cap. 6, letra Gimel · 08:52 Bereshit 1:2 · 10:55 Rashi em Bereshit 1:2 · 15:29 Talmud Eser HaSefirot, cap. 6, letra Hei (Arizal) · 16:24 Chagigá 13a (Ben Sira) · 17:48 Talmud Eser HaSefirot, cap. 6, letra Hei (Arizal) · 18:54 Talmud Eser HaSefirot, cap. 6, letra Yud (Arizal) · 20:21 Talmud Eser HaSefirot, cap. 6, letra Vav (Arizal) · 21:01 Talmud Eser HaSefirot, cap. 6, letra Vav (Arizal) · 28:42 Talmud Eser HaSefirot, cap. 6, letra Zayin (Arizal) · 29:27 Talmud Eser HaSefirot, cap. 6, letra Zayin (Rav Chaim Vital em nome do Arizal) · 36:07 Baal HaSulam, exemplo do grão de trigo · 40:56 Devarim 4:35 · 41:46 Talmud Eser HaSefirot, cap. 6, letra Chet (Arizal) · 42:29 Arizal, citado na letra Chet
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|43:28|בכוח של הנאצל של עולם הבריאה, וזה
+589|43:34|מוליד בכתר של עולם הבריאה את הבוהו של עולם הבריאה, שבו כבר
+590|43:40|יש את השורשים, את חוכמה בינה, תפארת מלכות של עולם הבריאה.
+591|43:46|עריכה.
+592|43:47|כן.
+593|43:48|זה העריכה.
+594|43:49|בדיוק.
+595|43:50|אני רוצה לחזור על השאלה שקצת דילגנו עליה קודם, על העניין שעודד אמר, כאילו
+596|43:56|הקריאה לו הקטע של מי אין-סוף, נותר
+597|44:01|תוהו, ובוהו ללא מסכים, ללא כלום, כאילו המלכות.
+598|44:06|זו הייתה השאלה?
+599|44:07|עוד פעם, עוד פעם.
+
+LINHAS A TRADUZIR:
+600|44:09|כמה אין מסכים בין שני החלקים, בין האין-סוף, למלכות בקטע שהיא בוהו, שהיא ההמשך
+601|44:15|שלו?
+602|44:16|על זה ישבה השאלה של עודד?
+603|44:21|עודד.
+604|44:21|עודד?
+605|44:25|אני לא הבנתי.
+606|44:27|זה היה הכיוון, אבל התשובה בפרק ז', בפרק שנתחיל אותו עכשיו, התשובה נמצאת.
+607|44:33|כן.
+608|44:33|אני לא הבנתי למה הייתה השאלה בכלל על הצורך במסצוסה.
+609|44:38|כי הוא מעלה את המושג האמצעי.
+610|44:43|הממוצע, כן.
+611|44:45|ממוצע.
+612|44:46|הממוצע הוא מתווך, הוא לא עובר דרך מסכים, כאילו בין חל
+613|44:54|למדבר יש קוף, כן?
+614|44:59|אז אתה חושב שיש כאילו איזה רצף, ולא קפיצה.
+615|45:04|אוקיי.
+616|45:07|אפשר אולי גם להגיד שבגלל שזה הכתר, אז אין שם מסך, זה
+617|45:13|עובר.
+618|45:14|לא, אין דבר כזה.
+619|45:15|אנחנו למדנו עד עכשיו שעשר ספירות דה בריאה מתפשטות על ידי זיווג דה
+620|45:21|הקאה שנעשה בעולם העליון להם, באצילות.
+621|45:24|מסך באצילות הזדכך מג' לב', יצא שם באצילות
+622|45:30|מהמסך הזה, ב', היה עליו זיווג דה הקאה, שהתפשט
+623|45:35|ממטה למעלה בעולם האצילות, שזה נקרא עיבור של עולם הבריאה, וכשהוא
+624|45:41|התפשט...
+625|45:42|ממעלה למטה, אז זה כבר יצאו העשר ספירות דברייה, שבתוכן
+626|45:48|יש את הכתר.
+627|45:50|ופתאום פה מרומז מדבריו שיש שם איזושהי בחינה שהיא לא עברה בכלל בתהליך
+628|45:55|הזה.
+629|45:56|כן, כן.
+630|45:58|יש פה גם עניין שהמלכות קשור לשני כתרים.
+631|46:01|א', המלכות דה מלכות הופך להיות כתר של העולם מתחתיו, כמו שאמרנו כל השיעור הזה.
+632|46:06|כן.
+633|46:07|וגם אמרנו שיש עשר ספירות דהור ישר ועשר ספירות דהור חוזר, ובעשר ספירות דהור חוזר
+634|46:14|אמרנו שהמלכות הופכת להיות הכתר של אור חוזר.
+635|46:16|של האור חוזר, נכון.
+636|46:18|המלכות הוא כאילו יש לו שני קשרים לכתר, אחד לתחתון והופך להיות הכתר לתחתון ממנו
+637|46:24|ואחד לעליון כאור חוזר.
+638|46:28|יפה, הקשר מעניין.
+639|46:30|ואם התחתון שלו נקרא טוב הוא בעולם שמתחתיו, אוקיי?
+640|46:35|אז העליון שלומניקה, כתר הסינתי בסלום חוזר.
+641|46:40|הוא נקרא כתר דאור חוזר.
+642|46:42|חבר'ה, לא לסבך את העניינים יותר ממה שהם מסובכים, ואני רק
+643|46:47|אומר, מסיים את הדברים בפרומו
+644|46:53|לפרק הבא, לפרק ז', שאכן יש בחינה אחת שהיא בוקעת
+645|46:59|את המסך, כלומר היא לא מכירה ב...
+646|47:04|מחסום הזה שנקרא מסך, והיא בוקעת מהעליון לתחתון, ועל בחינת הפגיעה
+647|47:10|הזאת נלמד בפעם הבאה, אני פשוט לא רוצה להתחיל את פרק ז', כי הוא מתחיל
+648|47:15|בצורה מאוד בומבסטית ומבלבלת, אז בואו נשמור את זה, נעשה את זה בפרש,
+649|47:21|ושבוע הבא, מה שלמדנו היום היה דברים חשובים וגדולים מספיק.
+650|47:29|הכינו את עצמכם.
+651|47:31|הכינו את עצמכם לשיעור הבא, ותקראו את פרק ז', תלמדו את פרק ז', ככה יהיה
+652|47:37|לכם, יהיה לנו שיעור הרבה יותר מעניין ביחד.
+653|47:41|העדיף אותנו במתח שבוע שלם.
+654|47:43|בדיוק.
+655|47:44|מזל שאנחנו קרובים לגמר התיקון, והזמן עובר כל כך מהר.
+656|47:50|שאלה לנמצאים כאן, מישהו כאן ענה בקבוצה שהוא מעוניין לעשות את השיעור שלנו ללא
+657|47:57|הרע?
+658|47:57|אני עניתי.
+659|48:00|עוד מישהו רוצה איזה חוץ מעודד?
+660|48:03|כן, אפשר, בטח.
+661|48:06|כן?
+662|48:06|רון?
+663|48:07|כן.
+664|48:07|בשמחה.
+665|48:07|בשמחה?
+666|48:09|כן.
+667|48:10|אז איפה נדסקס עד יום וזמן?
+668|48:13|עם קבוצה?
+669|48:14|בקבוצה, אבל בקבוצה, אבל בקצרה, עד שתתחברו ביניכם, ואז תעברו, תעשו לכם
+670|48:20|איזה קבוצונת או משהו, אני לא יודע.
+671|48:23|כן, נעשה קבוצה כבר.
+672|48:25|בסדר גמור, בסדר גמור, יישר כוח על היוזמה.
+673|48:29|טוב, חזקו ואמצו, נתראה בשבוע הבא.
+674|48:34|כל טוב, לילה טוב.
+675|48:37|אמן.

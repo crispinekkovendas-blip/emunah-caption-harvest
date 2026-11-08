@@ -1,0 +1,64 @@
+videoId: 7YD_370imOA
+parte 7 de 20 · traduzir as linhas 240 a 279 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Lech Lecha: continuar andando mesmo quando é difícil
+RESUMO: A aula parte do chamado "Lech Lecha" (Bereshit 12:1) e pergunta o que mantém a pessoa parada quando já sabe que é hora de avançar. O rabino mostra que alguém pode viver ocupado e ficar anos no mesmo ponto da alma, e cita o Rambam sobre adquirir qualidades por ações repetidas, o valor de pedir ajuda e o Tanya, capítulo 12. Com Rashi em Bereshit 12:1, ensina que a terra não foi revelada de imediato e que temimut é integridade, e lembra a prestação de contas da Gemará (Shabat 31a). Depois trata da fome ao chegar à terra (Bereshit 12:10, com Rashi), da ideia de que dificuldade não indica caminho errado e das dez provas de Avraham (Avot 5:3). O retorno do Egito, com Rashi em 13:3, ensina gratidão e fidelidade. A disputa com Lot (13:8-9) e a escolha de Sedom, com o Rambam em Hilchot Deot, levam a lições sobre paz, limites e ambiente. Seguem o resgate de Lot (14:14) e a recusa do espólio (14:23-24), que ensina a agir lishmá e a não impor sacrifícios aos outros. Por fim, Avraham derrama o coração diante de HaShem (Bereshit 15:1-2, Tehilim 62:9), e "serás uma bênção" (12:2, Rashba) pede ser canal de bem para os outros.
+MOMENTOS: 01:32 Lech Lecha e a pergunta: o que me prende? · 02:41 Ocupado por fora, parado por dentro na alma · 05:30 Rambam: qualidades se mudam com ações repetidas · 09:24 Rashi: a terra não revelada e a temimut · 16:09 Fome na terra: o teste de Avraham · 20:15 Riqueza e gratidão: Avraham paga o que devia · 24:14 Disputa com Lot: paz, separação e limites · 28:06 Escolher o lugar certo: Sedom e o ambiente · 33:04 O resgate de Lot apesar da separação · 35:31 Recusa do espólio: lishmá e não pesar sobre os outros · 43:31 Derramar o coração diante de HaShem · 45:34 "E serás uma bênção": ser canal do bem
+FONTES CITADAS: 01:32 Bereshit 12:1 · 02:16 Kohelet 1:4 · 05:30 Rambam, Hilchot Deot 1 · 06:16 Chulin 89a · 07:29 Rambam, Hilchot Deot 2:1 · 07:40 Nigleh e nistar da Torá · 08:14 Tanya, capítulo 12 · 08:59 Bereshit 12:1 · 09:24 Rashi em Bereshit 12:1 · 10:28 Bereshit 25:27 · 11:43 Tanakh · 11:56 Midrash Rabá e Tanchuma · 12:15 Zohar, Tikunei Zohar e Zohar Chadash · 12:24 Etz Chaim e escritos do Ari · 12:30 Likutei Moharan · 12:42 Shabat 31a · 13:38 Shabat 31a · 16:09 Bereshit 12:10 · 16:22 Rashi em Bereshit 12:10 · 16:48 Bereshit 12:2 · 19:50 Avot 5:3 · 20:19 Bereshit 13:2 · 20:31 Bereshit 13:3 · 20:38 Rashi em Bereshit 13:3 · 24:14 Bereshit 13:7 · 24:33 Bereshit 13:8 · 24:47 Bereshit 13:9 · 27:39 Bamidbar Rabá 13:15 · 28:06 Bereshit 13:10 · 28:50 Nedarim 81a · 29:45 Yosher Divrei Emet, Kuntres Rishon · 30:08 Bereshit 13:13 · 31:44 Rambam, Hilchot Deot 6:1 · 33:01 Tehilim 136:1 · 33:10 Bereshit 14:14 · 34:11 Tehilim 16:8 · 35:38 Bereshit 14:23 · 37:09 Bereshit 14:24 · 38:09 Devarim 24:15 · 39:51 Avot 6:9 · 43:31 Bereshit 15:1 · 43:45 Bereshit 15:2 · 45:15 Tehilim 62:9 · 45:34 Bereshit 12:2 · 45:41 Rashba · 47:44 Rambam, Hilchot Avodat Kochavim 1 · 48:22 Responsa de Rabi Yaakov Reischer
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|15:27|הקדוש ברוך בתמימות.
+229|15:31|לפעמים חסר לנו מידע על העתיד והצעד שלפנינו כבר ברור.
+230|15:36|ואין הכוונה לפעול בלי מחשבה.
+231|15:38|התורה דורשת שיקול דעת, התייעצות, אחריות, קבלת אחריות.
+232|15:43|אברהם אבינו שומע ציווי מפורש מאת השם.
+233|15:47|אנחנו צריכים לברר דרכנו לפי התורה וההלכה.
+234|15:52|אבל אחרי הבירור מגיע שלב שנקרא מעשה.
+235|15:58|כמה זמן אתה מבקש סימן לדבר שאתה כבר יודע שעליך לעשות?
+236|16:04|מה קורה כשעושים את הדבר הנכון?
+237|16:06|ואז נעשה קשה.
+238|16:09|אברהם אבינו מגיע לארץ, והתורה מספרת ועיר אהב בארץ, בומבה, סטירת לחי,
+239|16:15|תעצרו לרגע.
+
+LINHAS A TRADUZIR:
+240|16:16|הוא עוזב הכל פי דבר השם הוא מגיע לארץ שהקדוש בוכר עליו הנה רב
+241|16:22|וואו רש"י מבאר שניסיון היה הרב היה ניסיון קשה מאוד
+242|16:28|לאברהם בוא הנה הוא היה מלך אתמול פתאום רב
+243|16:34|מלך אושר וכבוד גדולה מלכות ממשלה פתאום בת לחם אין לו
+244|16:41|האם מה הניסיון האם יערער על דבריו של מקום האם היא יארח אחרי קודשא
+245|16:47|בריחום?
+246|16:48|הוא ציווה אותו ללכת לארץ כנען והוא אמר לו גם שיהיה ויש לך לגוי גדול וכולי וכולי איזה
+247|16:54|גוי זה גדול!
+248|16:55|אין פת לחם!
+249|16:59|וכאן הוא פתאום בא לצורך שהוא צריך לצאת ממנה אבל רק השם אמר לו ניסיון
+250|17:05|עמוק מאוד יש אדם שאומר אם התחלתי להתחזק למה קשה לי?
+251|17:11|בדיוק קיבלתי עליי שמירת הפה והלשון ובדיוק ככה וככה ובדיוק ובדיוק התחלתי לשמור על
+252|17:16|הפה ודווקא עכשיו מכעיסים אותי התחלתי ללמוד דווקא עכשיו יש עומס דווקא עכשיו יש הרגשה של
+253|17:22|עניות תמיד כשאדם מקבל עבוד תורה השלב אחר יש לו ניסיון שמרגיש עניות אני אומר לכם זה רק
+254|17:27|במחשבה עשיר עני זה רק במחשבה תזכרו את הכלל הבא תזכרו מה יהודי
+255|17:33|פשוט אמר לכם יהודי מהמעיר לארץ אמר לכם עשיר עני זה רק במחשבה
+256|17:41|זה רק במחשבה.
+257|17:43|אל תתבלבלו.
+258|17:45|אל תתבלבלו, אל תפספסו הזדמנות, אל תחמיצו.
+259|17:48|כאן צריך ללמוד.
+260|17:54|יש ניסיון עמוק לפנינו.
+261|17:58|יש אדם שאומר, בדיוק שאני תופס את עצמי
+262|18:04|לידיים.
+263|18:05|יש כל כך הרבה ניסיונות.
+264|18:08|צריך להיזהר.
+265|18:09|אנחנו לא יודעים לפרש את חשבונות שמיים.
+266|18:12|בחייו של כל אדם יש מלא ניסיונות.
+267|18:16|לא בחרנו את הניסיונות, נבחרנו אל הניסיונות.
+268|18:21|לא בחרת להיוולד בדור הזה, נבחרת להיוולד בדור הזה.
+269|18:28|אין לנו רשות להכריז למה בקושי מסוים.
+270|18:33|אבל הפרשה מלמדת אותנו דבר ברור מאוד.
+271|18:38|קושי בדרך הוא לא חש את דרך שגויה גם צעד נכון
+272|18:44|יכול לדרוש מחיר מאמץ וסבלנות אדם שמבקש לתקן
+273|18:49|הרגל של שנים יפגוש התנגדות בתוכו אבא שמתחיל להקשיב
+274|18:55|לבנו ישמע פתאום כאב שלא היה מוכן לשמוע מי
+275|19:01|שמתחיל לסדר את ענייני הממון שלו יגלה פתאום התחייבויות שהוא דחה לפעמים
+276|19:06|הגילוי מכאיב, לפעמים הוא נוגע גם במוגלה כואב, ובתוך הגילוי
+277|19:12|נפתחת האפשרות לתקן.
+278|19:17|הרפואה הגדולה הזאת היא התיקון.
+279|19:21|לפעמים בתחילת התיקון מרגישים יותר את מה שדורש תיקון.

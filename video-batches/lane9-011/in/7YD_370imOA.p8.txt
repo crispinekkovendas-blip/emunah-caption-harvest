@@ -1,0 +1,64 @@
+videoId: 7YD_370imOA
+parte 9 de 20 · traduzir as linhas 320 a 359 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Lech Lecha: continuar andando mesmo quando é difícil
+RESUMO: A aula parte do chamado "Lech Lecha" (Bereshit 12:1) e pergunta o que mantém a pessoa parada quando já sabe que é hora de avançar. O rabino mostra que alguém pode viver ocupado e ficar anos no mesmo ponto da alma, e cita o Rambam sobre adquirir qualidades por ações repetidas, o valor de pedir ajuda e o Tanya, capítulo 12. Com Rashi em Bereshit 12:1, ensina que a terra não foi revelada de imediato e que temimut é integridade, e lembra a prestação de contas da Gemará (Shabat 31a). Depois trata da fome ao chegar à terra (Bereshit 12:10, com Rashi), da ideia de que dificuldade não indica caminho errado e das dez provas de Avraham (Avot 5:3). O retorno do Egito, com Rashi em 13:3, ensina gratidão e fidelidade. A disputa com Lot (13:8-9) e a escolha de Sedom, com o Rambam em Hilchot Deot, levam a lições sobre paz, limites e ambiente. Seguem o resgate de Lot (14:14) e a recusa do espólio (14:23-24), que ensina a agir lishmá e a não impor sacrifícios aos outros. Por fim, Avraham derrama o coração diante de HaShem (Bereshit 15:1-2, Tehilim 62:9), e "serás uma bênção" (12:2, Rashba) pede ser canal de bem para os outros.
+MOMENTOS: 01:32 Lech Lecha e a pergunta: o que me prende? · 02:41 Ocupado por fora, parado por dentro na alma · 05:30 Rambam: qualidades se mudam com ações repetidas · 09:24 Rashi: a terra não revelada e a temimut · 16:09 Fome na terra: o teste de Avraham · 20:15 Riqueza e gratidão: Avraham paga o que devia · 24:14 Disputa com Lot: paz, separação e limites · 28:06 Escolher o lugar certo: Sedom e o ambiente · 33:04 O resgate de Lot apesar da separação · 35:31 Recusa do espólio: lishmá e não pesar sobre os outros · 43:31 Derramar o coração diante de HaShem · 45:34 "E serás uma bênção": ser canal do bem
+FONTES CITADAS: 01:32 Bereshit 12:1 · 02:16 Kohelet 1:4 · 05:30 Rambam, Hilchot Deot 1 · 06:16 Chulin 89a · 07:29 Rambam, Hilchot Deot 2:1 · 07:40 Nigleh e nistar da Torá · 08:14 Tanya, capítulo 12 · 08:59 Bereshit 12:1 · 09:24 Rashi em Bereshit 12:1 · 10:28 Bereshit 25:27 · 11:43 Tanakh · 11:56 Midrash Rabá e Tanchuma · 12:15 Zohar, Tikunei Zohar e Zohar Chadash · 12:24 Etz Chaim e escritos do Ari · 12:30 Likutei Moharan · 12:42 Shabat 31a · 13:38 Shabat 31a · 16:09 Bereshit 12:10 · 16:22 Rashi em Bereshit 12:10 · 16:48 Bereshit 12:2 · 19:50 Avot 5:3 · 20:19 Bereshit 13:2 · 20:31 Bereshit 13:3 · 20:38 Rashi em Bereshit 13:3 · 24:14 Bereshit 13:7 · 24:33 Bereshit 13:8 · 24:47 Bereshit 13:9 · 27:39 Bamidbar Rabá 13:15 · 28:06 Bereshit 13:10 · 28:50 Nedarim 81a · 29:45 Yosher Divrei Emet, Kuntres Rishon · 30:08 Bereshit 13:13 · 31:44 Rambam, Hilchot Deot 6:1 · 33:01 Tehilim 136:1 · 33:10 Bereshit 14:14 · 34:11 Tehilim 16:8 · 35:38 Bereshit 14:23 · 37:09 Bereshit 14:24 · 38:09 Devarim 24:15 · 39:51 Avot 6:9 · 43:31 Bereshit 15:1 · 43:45 Bereshit 15:2 · 45:15 Tehilim 62:9 · 45:34 Bereshit 12:2 · 45:41 Rashba · 47:44 Rambam, Hilchot Avodat Kochavim 1 · 48:22 Responsa de Rabi Yaakov Reischer
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+308|21:21|מי עשה לך בתחילת הדרך?
+309|21:23|מי פתח לך דלת?
+310|21:25|מי נתן לך אשראי?
+311|21:26|מי הקשיב לך כשעדיין לא הכירו אותך?
+312|21:30|יש אדם שמטפס בכל מדרגה, מוחק את מי שהיה במדרגה הקודמת.
+313|21:36|אברהם חוזר.
+314|21:37|ומכאן אקח שאלה לעצמנו, האם הטוב שקיבלתי עדיין
+315|21:43|חי בזיכרון שלי?
+316|21:45|היה אומר, אבא מרי הקדוש, המאיר לארץ, זכותה הגן עלינו.
+317|21:55|אמר רבא המאיר לארץ חוטר להגן עלינו אם פעם קיבלת לו כוס מים מאדם
+318|22:01|שבעים שנה אל תשכח את הכוס מים הזאת עקרת הטוב נבחנת גם אחרי
+319|22:07|שהצורך שלך באדם כה הסתיים תתקשר תודה תחזיר
+
+LINHAS A TRADUZIR:
+320|22:13|תגיד מילה תודה מילה טובה מילה מילה כמה יש בה תכבד את ההבטחה תודה לו
+321|22:20|בוא הנה אז אשתך שלושים שנה מסורה אליך, מכבסת, עופה,
+322|22:26|מבשלת, מנקה, אוהבת אותך, דואגת לך.
+323|22:30|בואי נשאל אותך שאלה קצת כואבת, תסתכל לך בתוך העיניים, אבל בתוך, בתוך, בתוך, בפנים.
+324|22:36|יצאת מהבית בארבע בבוקר, חזרת בשבע בערב, כל כך הרבה שעות, חמש עשרה שעות לא
+325|22:42|בחוץ.
+326|22:43|באמת, כמה פעם חשבת על אשתך?
+327|22:46|שתיים, ארבע, חמש, אתה ענק.
+328|22:49|גם תגיד לי יותר, אני לא מאמין לך.
+329|22:50|לא מאמין לך.
+330|22:52|היא חשבה עליך שלושת אלפים פעם, אתה יודע.
+331|22:55|כל נשימה שלה חשבה עליך.
+332|22:57|אפילו המחשב לא עושה כל כך הרבה פעולות, כמו שהיא עושה בשבילך.
+333|23:03|תתבייש לך, חצוף, רשע, עזבנים, שאתה כופר
+334|23:07|בטובתה.
+335|23:09|תתביישי לך, שאת יכולה להרים את הגבה שלך על הבעלך שמתאמץ, שמתאמץ,
+336|23:15|מקיא דם להביא את הלחם הביתה.
+337|23:18|שהוא עמל בתורה ומקיים מצוות.
+338|23:22|אוי לנו מיום הדין איזה שעות קשות עובר העולם עכשיו טוב שאנחנו לא
+339|23:27|יודעים כמה צריך רחמי שמיים על הביטחון של עם ישראל ברגעים כאלו עדינים
+340|23:34|כל כך הרבה מצבים עדינים מאוד מאוד עומדים באוויר חוץ שערה
+341|23:40|מחזיק מדינות חוץ שערה מחזיק ארצות יש לנו
+342|23:46|זמן להתברחש בשטויות לפעמים אדם מחכה
+343|23:52|שנים לשתי מילים פשוטות.
+344|23:55|אני זוכר, תודה רבה לך.
+345|23:58|מילה טובה.
+346|23:58|מצד שני, מתי צריך להיפרד כדי
+347|24:04|לשמור על הדרך?
+348|24:07|פתאום התורה בהמשך הפרשה מתפתח ריב בין אברהם
+349|24:13|אבינו ללוט.
+350|24:14|בעצם זה לא בין אברהם, בין רועה מקנה אברהם ללוט.
+351|24:20|לא תרשע, אברהם צדיק, צדיקים לא מתעסקים בשטויות, אין להם זמן לבוקס.
+352|24:27|אבל רבי ישראל שימו לב, שימו לב מה קורה, אברהם אומר בוא נעצור,
+353|24:33|אל נא תהי מריבה ביני וביניך בין ארועי ובין רועיך כי אנשים
+354|24:39|אחים אנחנו.
+355|24:40|צדיקים תמינו רואים את האחים, רשעים רואים את המריבה.
+356|24:47|ואז אומר לו איפרד נא מעליי, פסק.
+357|24:51|כאן יש לימוד עדין מאוד.
+358|24:54|אברהם מבקש שלום, ומתוך בקשת השלום הוא מציע
+359|24:59|הפרדה.

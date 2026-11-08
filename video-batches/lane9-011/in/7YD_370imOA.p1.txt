@@ -1,0 +1,64 @@
+videoId: 7YD_370imOA
+parte 2 de 20 · traduzir as linhas 40 a 79 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Lech Lecha: continuar andando mesmo quando é difícil
+RESUMO: A aula parte do chamado "Lech Lecha" (Bereshit 12:1) e pergunta o que mantém a pessoa parada quando já sabe que é hora de avançar. O rabino mostra que alguém pode viver ocupado e ficar anos no mesmo ponto da alma, e cita o Rambam sobre adquirir qualidades por ações repetidas, o valor de pedir ajuda e o Tanya, capítulo 12. Com Rashi em Bereshit 12:1, ensina que a terra não foi revelada de imediato e que temimut é integridade, e lembra a prestação de contas da Gemará (Shabat 31a). Depois trata da fome ao chegar à terra (Bereshit 12:10, com Rashi), da ideia de que dificuldade não indica caminho errado e das dez provas de Avraham (Avot 5:3). O retorno do Egito, com Rashi em 13:3, ensina gratidão e fidelidade. A disputa com Lot (13:8-9) e a escolha de Sedom, com o Rambam em Hilchot Deot, levam a lições sobre paz, limites e ambiente. Seguem o resgate de Lot (14:14) e a recusa do espólio (14:23-24), que ensina a agir lishmá e a não impor sacrifícios aos outros. Por fim, Avraham derrama o coração diante de HaShem (Bereshit 15:1-2, Tehilim 62:9), e "serás uma bênção" (12:2, Rashba) pede ser canal de bem para os outros.
+MOMENTOS: 01:32 Lech Lecha e a pergunta: o que me prende? · 02:41 Ocupado por fora, parado por dentro na alma · 05:30 Rambam: qualidades se mudam com ações repetidas · 09:24 Rashi: a terra não revelada e a temimut · 16:09 Fome na terra: o teste de Avraham · 20:15 Riqueza e gratidão: Avraham paga o que devia · 24:14 Disputa com Lot: paz, separação e limites · 28:06 Escolher o lugar certo: Sedom e o ambiente · 33:04 O resgate de Lot apesar da separação · 35:31 Recusa do espólio: lishmá e não pesar sobre os outros · 43:31 Derramar o coração diante de HaShem · 45:34 "E serás uma bênção": ser canal do bem
+FONTES CITADAS: 01:32 Bereshit 12:1 · 02:16 Kohelet 1:4 · 05:30 Rambam, Hilchot Deot 1 · 06:16 Chulin 89a · 07:29 Rambam, Hilchot Deot 2:1 · 07:40 Nigleh e nistar da Torá · 08:14 Tanya, capítulo 12 · 08:59 Bereshit 12:1 · 09:24 Rashi em Bereshit 12:1 · 10:28 Bereshit 25:27 · 11:43 Tanakh · 11:56 Midrash Rabá e Tanchuma · 12:15 Zohar, Tikunei Zohar e Zohar Chadash · 12:24 Etz Chaim e escritos do Ari · 12:30 Likutei Moharan · 12:42 Shabat 31a · 13:38 Shabat 31a · 16:09 Bereshit 12:10 · 16:22 Rashi em Bereshit 12:10 · 16:48 Bereshit 12:2 · 19:50 Avot 5:3 · 20:19 Bereshit 13:2 · 20:31 Bereshit 13:3 · 20:38 Rashi em Bereshit 13:3 · 24:14 Bereshit 13:7 · 24:33 Bereshit 13:8 · 24:47 Bereshit 13:9 · 27:39 Bamidbar Rabá 13:15 · 28:06 Bereshit 13:10 · 28:50 Nedarim 81a · 29:45 Yosher Divrei Emet, Kuntres Rishon · 30:08 Bereshit 13:13 · 31:44 Rambam, Hilchot Deot 6:1 · 33:01 Tehilim 136:1 · 33:10 Bereshit 14:14 · 34:11 Tehilim 16:8 · 35:38 Bereshit 14:23 · 37:09 Bereshit 14:24 · 38:09 Devarim 24:15 · 39:51 Avot 6:9 · 43:31 Bereshit 15:1 · 43:45 Bereshit 15:2 · 45:15 Tehilim 62:9 · 45:34 Bereshit 12:2 · 45:41 Rashba · 47:44 Rambam, Hilchot Avodat Kochavim 1 · 48:22 Responsa de Rabi Yaakov Reischer
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+28|02:28|שאדם נמצא בו, הוא יכול ברגע לחלוף, הוא יכול להיתקע בו.
+29|02:34|ובעצם, החוד של העניין אפשר להיות עסוק מאוד בלי שער שנים באותו מקום
+30|02:39|בנפש.
+31|02:41|כבר אמרתי לכם, אחי אהובי, שתיים שמעו אותו משפט.
+32|02:45|אחד שמע, דקה, שתיים המשיך, הפנים והמשיך.
+33|02:49|לא קרה כלום.
+34|02:50|אחד נתקע איתו.
+35|02:52|המשפט אותו משפט.
+36|02:54|לא ההבדל במשפט.
+37|02:56|ההבדל איפה פגע המשפט.
+38|03:00|משל, ניתן מלח על עור מגורה.
+39|03:04|זה אסור רף מאוד.
+
+LINHAS A TRADUZIR:
+40|03:06|מלח על עור חלק, לא קרה כלום.
+41|03:09|אותו משפט, אם פוגע בפסל, זה בעיה.
+42|03:13|אפשר להיות עסוק מאוד ולהישאר שנים באותו מקום בנפש.
+43|03:17|הגוף גדל והנפש תקועה.
+44|03:21|בין 40 או בין 50 בגיל.
+45|03:24|והנפש עוד תקועה בגיל 10, 15 ו-17.
+46|03:27|אותו כעס, אותו עלבון, אותה דחייה של הלימוד, אותה הבטחה.
+47|03:33|אחרי החגים, אחרי החתונה, ובין הזמנים, עוד כמה ימים, רק לעבור דירה.
+48|03:39|אחרי החתונה, אחרי שנסיים את העניין הזה.
+49|03:42|פרשת השבוע מעמידה מולנו קריאה, הגיע הזמן ללכת.
+50|03:49|מה בדיוק צריך לעצור?
+51|03:52|מה בדיוק צריך לעזוב?
+52|03:54|אברהם אבינו מצטווה ללכת, לך לך מארצך, לצאת מארצו,
+53|04:01|ממולדתו, מבית אביו.
+54|04:04|זו היסיעה ממשית, קשה, עמוקה.
+55|04:08|הוא עוזב מקום מוכר, הוא עוזב את המקום שהוא נולד בו, וגדל בו,
+56|04:14|והולך על פי השם.
+57|04:17|והולך על פי דבר השם.
+58|04:19|מתוך הציווי הזה נוכל להתבונן גם בעבודתנו.
+59|04:23|יש דברים שאדם מתרגל עליהם כל כך, עד שהוא מתקשה להאמין.
+60|04:28|הוא מתקשה להאמין שאפשר לחיות אחרת.
+61|04:35|יש אנשים שגדלו באיזה מקום בצמצום גדול, חושבים שכדור הארץ נגמר מחוץ למושב שלהם.
+62|04:41|יש כאלה חושבים שכדור הארץ התחיל במלמרק ונגמר שמה.
+63|04:44|אז הם מקפידים לא לצאת.
+64|04:46|אוי.
+65|04:48|ויש כאלה מבינים שכדור הארץ גדול.
+66|04:52|צריך להבין את מה שעבר עליו.
+67|04:56|יש משמעות לבית שבו הוא גדל, לחוויות שהוא חווה, לכאב
+68|05:01|שנשא.
+69|05:03|ההבנה הזאת תעזור למצוא דרך תיקון.
+70|05:08|ההבנה הזאת תיצור דרך תיקון.
+71|05:11|אבל מכאן ועד ההחלטה שכך האדם יישאר כל ימי חייו, יש מרחק גדול.
+72|05:18|העבר מסביר מאיפה התחלת, אבל הוא
+73|05:24|לא פותר אותך מהשאלה הגדולה והמרכזית לאן תלך.
+74|05:30|הרמב״ם, זכותו יגן עלינו ומלמד אותנו שמידות נרכשות באמצעות מעשים חוזרים.
+75|05:38|עד שההנהגה נעשית קבועה בנפש, ובעצם כאן יש בשורה.
+76|05:44|מה שהתרגלנו לעשות דורש עבודה.
+77|05:48|ואפשר להתחיל לרכוש הנהגה חדשה.
+78|05:52|לא ביום אחד, לא בהבטחה אחת.
+79|05:56|במעשה שחוזרים עליו בעקביות ובנאמנות.

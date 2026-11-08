@@ -1,0 +1,64 @@
+videoId: OIOo3JGi6OU
+parte 3 de 4 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Avraham, Sodoma e o "pó e cinza" no Zera Shimshon
+RESUMO: Na Parashá Vayera Sodoma é virada, apesar de ser um lugar de leis distorcidas, como no Midrash sobre Eliezer, servo de Avraham, ferido por uma pedra. Mesmo assim Avraham Avinu luta para salvá-la, pois sabe que o pecado está no ato e não na essência da pessoa, citando o versículo "que os pecados cessem da terra, e os ímpios não mais existam". Ele negocia de cinquenta justos até quarenta e cinco e diz "Anochi afar va'efer". O Zera Shimshon pergunta por que ele diz isso justamente ali e responde que o afar (pó, terra) faz brotar e multiplica, como a tenda de Avraham que aproximava as pessoas do Criador por meio da comida e das brachot hanehenin. Citando o Arizal a Rabi Chaim Vital, o rabino liga as brachot ao ruach hakodesh e ao sustento. Sodoma era uma metrópole de passagem, como diz Iyov, e Avraham trazia os visitantes de volta à teshuvá; o efer (cinza) é o reconhecimento de que todo sucesso vem de HaShem. Quando Sodoma foi destruída, Avraham partiu, pois, segundo Rashi, "cessaram os viajantes".
+MOMENTOS: 00:29 Sodoma é virada na Parashá · 00:52 As leis distorcidas de Sodoma · 01:19 Midrash: Eliezer, a pedra e o juiz · 01:54 Avraham luta para que Sodoma permaneça · 02:20 O pecado é o ato, não a essência · 02:43 A negociação de cinquenta a quarenta e cinco · 03:26 "Anochi afar va'efer" e as perguntas · 05:12 Resposta do Zera Shimshon: o afar faz brotar · 06:00 Hospitalidade de Avraham e brachot hanehenin · 06:32 O Arizal a Rabi Chaim Vital: ruach hakodesh e sustento · 07:29 Sodoma como metrópole e o versículo de Iyov · 08:56 O efer: o sucesso vem de HaShem · 09:42 Rashi: cessaram os viajantes e Avraham parte
+FONTES CITADAS: 00:29 Bereshit 19:25 · 01:19 Midrash sobre Eliezer em Sodoma (cf. Sanhedrin 109b) · 01:54 Bereshit 18:23-32 · 02:22 Tehilim 104:35 · 02:43 Bereshit 18:24-26 · 02:55 Bereshit 18:28 · 03:26 Bereshit 18:27 · 04:07 Zera Shimshon, Parashat Vayera · 05:12 Zera Shimshon, Parashat Vayera · 06:47 Brachot hanehenin e Birkat HaMazon · 06:32 Arizal a Rabi Chaim Vital · 07:53 Iyov 28:7 · 09:04 Bereshit 18:27 · 09:47 Bereshit 20:1 · 09:47 Rashi em Bereshit 20:1
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|05:18|סתם מזכיר את זה פה אומר אברהם אבינו למה אני נלחם על סדום הם רשעים
+69|05:24|למה אני נלחם עליהם אתה יודע למה ריבונו של עולם אנוכי עפר ואפר.
+70|05:29|אני עפר.
+71|05:31|למה דווקא הוא אמר אני עפר?
+72|05:33|עפר יש לו תכונה שהוא מצמיח.
+73|05:36|אתה שם גרעין חיטה בחול ויצאו לך משם שלושים גרעינים.
+74|05:41|הוא משכפל את ההצלחה פי שלושים.
+75|05:43|אתה שם גרעין אחד של תפוחים, יצא לך עץ עם מאות תפוחים.
+76|05:49|עפר החול הוא למעשה מקום שמצמיח, כל הזמן מעלה שפע.
+77|05:54|אומר אברהם אבינו, מה התפקיד שלי בעולם?
+78|05:56|מה אני עושה?
+79|05:57|מה אני רוצה?
+
+LINHAS A TRADUZIR:
+80|05:58|הזכרנו את זה פה גם בשיעורים הקודמים.
+81|06:00|אברהם אבינו פתח בית תמחוי, בית הכנסת האורחים.
+82|06:05|הייתה לו מטרה.
+83|06:07|בבית הכנסת האורחים שלו, הוא רצה לקרב את האנשים להכיר את בורא עולם.
+84|06:12|בוא תאכל, בוא תשתה, תהנה, ומתוך הנאה אתה תכיר את הקדוש
+85|06:17|ברוך הוא.
+86|06:18|לכן זה נקרא ברכות הנהנים.
+87|06:20|למה שלפני שאתה אוכל אוכל אתה מברך?
+88|06:22|כי הברכה הזו היא חיבור לקדוש ברוך הוא בזמן שאתה נהנה.
+89|06:28|וכשנהנים ומתחברים החיבור הוא הרבה יותר חזק.
+90|06:32|האריזל אמר לרבי חיים ויטל, הוא אמר לו אתה רוצה להשיג רוח הקודש?
+91|06:36|כמובן הוא נהג בצדקות ובטהרה.
+92|06:38|הוא אמר לו אבל אני אגיד לך מה הכי הדרך הפשוטה להשיג רוח הקודש.
+93|06:42|שתשרה עליך רוח של קדושה, תקפיד על ברכות הנהנים.
+94|06:47|אם אתה מברך על האוכל, בורא פרי העץ, בורא פרי האדמה, בורא מיני מזונות, שהכל נהיה בדברו,
+95|06:52|ברכת המזון אחרי שאכלת ונהנית, הכוח של החיבור של הברכה להשפיע על
+96|06:58|האדם רוח של קדושה.
+97|07:00|וגם פרנסה.
+98|07:02|הרבה אנשים מתמודדים עם ענייני פרנסה.
+99|07:05|מי שמתחזק בברכות, מברך בקול רם שהכל נהיה בדברו, כל הברכות
+100|07:11|ובפרט ברכת המזון סגולה לשפע של פרנסה לא רק להעביר
+101|07:17|כסף שיהיה לבן אדם ברכה במה שיש לו זה למעשה הרעיון של ברכות הנהנין
+102|07:23|ולכן אברהם אבינו אמר אני מקרב את כל מי שנמצא אני מקרב אותם דרך האוכל
+103|07:29|עכשיו מה פתאום היו מגיעים לבית של אברהם אבינו יש לו אוהל למה דווקא יבואו לאוהל של אברהם
+104|07:34|אומר אברהם אבינו זה בגלל סדום סדום הייתה מטרופולין אנשים הגיעו מכל העולם
+105|07:40|לים המלח באו שמה כדי לא יודע מה כל מיני המקום הכי נמוך אין שם
+106|07:46|קרינה של השמש היה שם מלא עצים הפסוק כותב בספר איוב נתיב
+107|07:53|לא ידעו עיט עיט זו ציפור שיש לה ראייה מאוד חדה היא רואה
+108|07:58|גם מגובה רב היא תראה איזשהו שרץ או משהו שהולך על הארץ ופשוט היא
+109|08:04|צוללת ונוחתת עליו שהעיט היה עובר מעל האזור של סדום הוא לא
+110|08:10|יכל לראות מה קורה למטה.
+111|08:12|מרוב צמחייה, מרוב גידולים, מרוב שפע.
+112|08:17|נתיב לא ידעו עייט, אפילו עייט לא יכול.
+113|08:20|אז אנשים היו מגיעים לסדום, מלא מכל העולם עושים עסקים.
+114|08:23|סדום לא רצו קבצנים.
+115|08:26|אתה אל תבוא לקחת כסף.
+116|08:28|אבל אם אתה בא לשפוך פה כסף, בוא, בטח.
+117|08:32|אז אנשים הגיעו והיו נהנים, היה שם כנראה איזה לונה פארק, היה גלגל ענק, היה
+118|08:37|מגלג'ות, כל מיני אטרקציות.
+119|08:39|אבל אל תבוא להטרים אותנו, אל תבוא לדרוש פה צדקה.

@@ -1,0 +1,64 @@
+videoId: 7YD_370imOA
+parte 10 de 20 · traduzir as linhas 360 a 399 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Lech Lecha: continuar andando mesmo quando é difícil
+RESUMO: A aula parte do chamado "Lech Lecha" (Bereshit 12:1) e pergunta o que mantém a pessoa parada quando já sabe que é hora de avançar. O rabino mostra que alguém pode viver ocupado e ficar anos no mesmo ponto da alma, e cita o Rambam sobre adquirir qualidades por ações repetidas, o valor de pedir ajuda e o Tanya, capítulo 12. Com Rashi em Bereshit 12:1, ensina que a terra não foi revelada de imediato e que temimut é integridade, e lembra a prestação de contas da Gemará (Shabat 31a). Depois trata da fome ao chegar à terra (Bereshit 12:10, com Rashi), da ideia de que dificuldade não indica caminho errado e das dez provas de Avraham (Avot 5:3). O retorno do Egito, com Rashi em 13:3, ensina gratidão e fidelidade. A disputa com Lot (13:8-9) e a escolha de Sedom, com o Rambam em Hilchot Deot, levam a lições sobre paz, limites e ambiente. Seguem o resgate de Lot (14:14) e a recusa do espólio (14:23-24), que ensina a agir lishmá e a não impor sacrifícios aos outros. Por fim, Avraham derrama o coração diante de HaShem (Bereshit 15:1-2, Tehilim 62:9), e "serás uma bênção" (12:2, Rashba) pede ser canal de bem para os outros.
+MOMENTOS: 01:32 Lech Lecha e a pergunta: o que me prende? · 02:41 Ocupado por fora, parado por dentro na alma · 05:30 Rambam: qualidades se mudam com ações repetidas · 09:24 Rashi: a terra não revelada e a temimut · 16:09 Fome na terra: o teste de Avraham · 20:15 Riqueza e gratidão: Avraham paga o que devia · 24:14 Disputa com Lot: paz, separação e limites · 28:06 Escolher o lugar certo: Sedom e o ambiente · 33:04 O resgate de Lot apesar da separação · 35:31 Recusa do espólio: lishmá e não pesar sobre os outros · 43:31 Derramar o coração diante de HaShem · 45:34 "E serás uma bênção": ser canal do bem
+FONTES CITADAS: 01:32 Bereshit 12:1 · 02:16 Kohelet 1:4 · 05:30 Rambam, Hilchot Deot 1 · 06:16 Chulin 89a · 07:29 Rambam, Hilchot Deot 2:1 · 07:40 Nigleh e nistar da Torá · 08:14 Tanya, capítulo 12 · 08:59 Bereshit 12:1 · 09:24 Rashi em Bereshit 12:1 · 10:28 Bereshit 25:27 · 11:43 Tanakh · 11:56 Midrash Rabá e Tanchuma · 12:15 Zohar, Tikunei Zohar e Zohar Chadash · 12:24 Etz Chaim e escritos do Ari · 12:30 Likutei Moharan · 12:42 Shabat 31a · 13:38 Shabat 31a · 16:09 Bereshit 12:10 · 16:22 Rashi em Bereshit 12:10 · 16:48 Bereshit 12:2 · 19:50 Avot 5:3 · 20:19 Bereshit 13:2 · 20:31 Bereshit 13:3 · 20:38 Rashi em Bereshit 13:3 · 24:14 Bereshit 13:7 · 24:33 Bereshit 13:8 · 24:47 Bereshit 13:9 · 27:39 Bamidbar Rabá 13:15 · 28:06 Bereshit 13:10 · 28:50 Nedarim 81a · 29:45 Yosher Divrei Emet, Kuntres Rishon · 30:08 Bereshit 13:13 · 31:44 Rambam, Hilchot Deot 6:1 · 33:01 Tehilim 136:1 · 33:10 Bereshit 14:14 · 34:11 Tehilim 16:8 · 35:38 Bereshit 14:23 · 37:09 Bereshit 14:24 · 38:09 Devarim 24:15 · 39:51 Avot 6:9 · 43:31 Bereshit 15:1 · 43:45 Bereshit 15:2 · 45:15 Tehilim 62:9 · 45:34 Bereshit 12:2 · 45:41 Rashba · 47:44 Rambam, Hilchot Avodat Kochavim 1 · 48:22 Responsa de Rabi Yaakov Reischer
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|24:07|פתאום התורה בהמשך הפרשה מתפתח ריב בין אברהם
+349|24:13|אבינו ללוט.
+350|24:14|בעצם זה לא בין אברהם, בין רועה מקנה אברהם ללוט.
+351|24:20|לא תרשע, אברהם צדיק, צדיקים לא מתעסקים בשטויות, אין להם זמן לבוקס.
+352|24:27|אבל רבי ישראל שימו לב, שימו לב מה קורה, אברהם אומר בוא נעצור,
+353|24:33|אל נא תהי מריבה ביני וביניך בין ארועי ובין רועיך כי אנשים
+354|24:39|אחים אנחנו.
+355|24:40|צדיקים תמינו רואים את האחים, רשעים רואים את המריבה.
+356|24:47|ואז אומר לו איפרד נא מעליי, פסק.
+357|24:51|כאן יש לימוד עדין מאוד.
+358|24:54|אברהם מבקש שלום, ומתוך בקשת השלום הוא מציע
+359|24:59|הפרדה.
+
+LINHAS A TRADUZIR:
+360|25:00|לפעמים שני אנשים ממשיכים להיפגש באותה צורה, באותם תנאים, שוב נולדת אותם מהריבה,
+361|25:06|הם מבקשים שלום, אבל הם לא משנים את הדבר שמזין את
+362|25:10|המחלוקת.
+363|25:13|שזה בין בני זוג בבית, צריך לעשות הכל לשלום וצריך לעשות הכל להכיל.
+364|25:19|אבל כאן יש גבול כל מקרה צריך בירור לפי עניינו מקום
+365|25:24|הצורך גם הדרכה הלכתית ומקצועית גבול נכון יכול
+366|25:30|להציל קשר משנים של פגיעה יש אדם שחושש לומר בנחת
+367|25:35|מה הוא יכול מה הוא לא יכול לקבל יש אדם
+368|25:42|שחושש לומר בנחת מה הוא יכול מה הוא לא יכול עד שהוא מתפרץ ואומר דברים שאי
+369|25:47|אפשר להשיב אפשר ללמוד לדבר קודם זה חשוב מאוד
+370|25:54|זה חשוב לי לברר דבר כך קשה לי להמשיך בוא נברר
+371|26:01|איך מתנהלים מכאן ואילך מה הבעיה לשבת ככה בין בני זוג לנהל שיחה
+372|26:07|יש בספרנו אומר שבבית היהודי זוגיות בריאה כהלכה שם
+373|26:13|כתבנו פרק שלם איך מנהלים ויכוח זה נורמלי שיש ויכוח איך מתנהל ויכוח
+374|26:20|מה אשמים הילדים שאתה שורט אותם, שאת שורטת אותם לאורך ולאורך
+375|26:26|בכל ויכוח, בכל הרמת גבה?
+376|26:27|מה זה קשור אליהם?
+377|26:29|מה זה קשור אליהם?
+378|26:30|למה הם צריכים לצאת מהבית פצועים ושסועים וזבי דם?
+379|26:38|למה זב דם זה רע גוף?
+380|26:41|ילד שרואה הורים רבים זה לא זב דם, זה סופר זב דם.
+381|26:46|למה אנחנו צריכים את זה?
+382|26:49|מה הסיפור להיות ילדים גדולים?
+383|26:53|לנהל את החיים נכון?
+384|26:57|אברהם לא מבקש להשפיל את לוט, הוא מבקש להפסיק את המריבה.
+385|27:02|האם אתה מבקש פתרון או שאתה מבקש שהשני ייכנע?
+386|27:10|מי מנהל אותך?
+387|27:11|המטרה או האגו?
+388|27:17|שחלילה המטרה שלך זה אגו בר מינן, אוי ואבוי.
+389|27:22|זו שאלה שצריך לשאול גם בתוך ויכוח מוצדק.
+390|27:25|אדם יכול לעמוד על זכותו ובכל זאת לשמור על כבודו של מי שמולו.
+391|27:29|בוא נזכור את הכלל הבא.
+392|27:32|גם אם אתה לא חושב כמוני, אתה לא נגדי.
+393|27:36|ואני לא חושב כמוך ואני לא נגדך.
+394|27:39|שבעים פנים לתורה.
+395|27:41|מה הבעיה?
+396|27:42|שבעים פנים לתורה.
+397|27:44|למה?
+398|27:46|עניות הדעת האכזרית הזאת שמי שלא חושבו כמוני הוא נגדי והוא
+399|27:51|מנגדי אבל הוא הוגך השכם לא הוגך זו התפיסה ברוב העולם שאני ברוב העולם מקווה לא היא לא
