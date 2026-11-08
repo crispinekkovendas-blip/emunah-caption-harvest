@@ -1,0 +1,28 @@
+videoId: xkEKvkQdKmM
+parte 4 de 4 · traduzir as linhas 360 a 363 (4 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Faca incandescente e faca com falha na shechitá (Rambam)
+RESUMO: O rabino lê o Rambam, Hilchot Shechitá 1:22, que contém dois dinim: abater com faca incandescente e abater com faca que tem um lado serrilhado e outro liso. A origem do primeiro é a Gemará em Chulin 8a, onde Rabi Zeira em nome de Shemuel diz que a shechitá é válida porque "chidudá kodem leliboná" e porque "bet hashechitá merevach revach", de modo que as laterais não tocam os simanim. A sugya de Chulin 17b, que manda verificar também as laterais da faca, cria uma perplexidade no Rambam, reforçada pela halachá 23 e pelas variantes do texto: kesherá nos manuscritos iemenitas e na maioria das edições, psulá no Rosh, no Tur e nas Hagahot Maimoniyot. O Ramban e o Rashba tentam conciliar as sugyot e o Raavad valida apenas bedieved, mas o Ramban rejeita essas distinções. O Shulchan Arukh (Yoreh Deah 9:1) declara a shechitá psulá, "e há quem valide", e o Rema acrescenta o caso de quem sabia e teve o cuidado de não tocar com as laterais. Os poskim discutem o grau de calor que invalida (yad soledet bo, liboná completa ou faíscas) e, na prática, só se apoia nos que validam em caso de grande prejuízo. O segundo din é a faca com um lado serrilhado: não se abate no lado liso lechatchilá, e o rabino discute se marcar a falha com fio ou pano permite, com o Tur, o Beit Yosef, o Rema e o Rosh.
+MOMENTOS: 00:06 Texto do Rambam 1:22 e as duas questões da halachá · 00:42 Faca incandescente: chidudá antes de liboná · 01:48 Gemará Chulin 8a: Rabi Zeira e "bet hashechitá merevach revach" · 03:34 Chulin 17b: verificar também as laterais da faca · 06:21 A perplexidade: Rambam 1:22 contra Rambam 1:23 · 07:40 Variantes do texto do Rambam: kesherá ou psulá · 12:46 Conciliações do Ramban e do Rashba · 16:35 Ramban rejeita as distinções; Raavad valida bedieved · 18:31 Shulchan Arukh e Rema, Yoreh Deah 9:1 · 20:46 Medida do calor que invalida a shechitá · 24:48 Faca com um lado serrilhado e outro liso · 26:22 Marcar a falha: Tur, Beit Yosef e Rema
+FONTES CITADAS: 00:06 Rambam, Hilchot Shechitá 1:22 · 01:54 Chulin 8a · 02:06 Chulin 8a · 03:40 Chulin 17b · 04:25 Chulin 17b · 06:57 Rambam, Hilchot Shechitá 1:23 · 07:48 Rambam, edição Frenkel, variantes de texto em 1:22 · 08:11 Rosh, Tur, Rabeinu Yerucham, Hagahot Maimoniyot, Kolbo, Etz Chaim, Piskei Yaakov ben Rabi Moshe, Orchot Chaim · 08:46 Hagahot Maimoniyot, Hilchot Shechitá 1:22 · 10:53 Mordechai, Maggid Mishneh em nome do Sar MiKotzi, Kesef Mishneh · 11:17 Beit Yosef, Yoreh Deah 9:1 · 11:34 Radbaz, comentário ao Rambam · 11:43 Radbaz, Shu"t Lishonot HaRambam · 11:51 Raavad sobre o Rambam · 13:10 Ramban e Rashba · 15:52 Rashba · 16:39 Ramban · 17:03 Raavad, citado pelo Rashba · 18:39 Shulchan Arukh, Yoreh Deah 9:1 · 18:55 Rema em Yoreh Deah 9:1 · 19:23 Bach, Yoreh Deah 9 · 19:35 Peri Chadash (Rabi Chizkiyá de Silva) · 20:04 Yam shel Shlomo (Rabeinu Shlomo Luria) · 20:10 Tevuot Shor, Krети UPleti, Rabi Yonatan Eybeschutz · 20:52 Tevuot Shor · 21:02 Zivchei Tzedek · 21:16 Krети UPleti (Rabi Yonatan Eybeschutz) · 21:41 Aruch HaShulchan · 21:53 Rabeinu Abdallah Somekh e Zivchei Tzedek · 24:54 Rambam, Hilchot Shechitá 1:22 · 26:22 Tur, Yoreh Deah 6:1 · 26:56 Tur, Yoreh Deah 6:1 · 27:08 Piskei Rid, Chulin 15b; Shibolei HaLeket; Sefer HaTerumah; Sefer HaIttur; Smak; Hagahot Maimoniyot; Ran; Meiri · 27:25 Rashi em Chulin · 27:31 Rokeach 380 · 27:46 Tur, Yoreh Deah 6:1 · 28:25 Beit Yosef, Yoreh Deah 6:1 · 28:32 Rema, Yoreh Deah 6:1 · 29:10 Rosh, Chulin, cap. 1, simán 21 · 29:27 Rav Ben Tzion Abba Shaul, Or LeTzion, parte 5, Yoreh Deah
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|28:38|ולאסור לכתחילה לשחוט אף אם כורך מתלית על מקום הפגימה אך ביום טוב שאי אפשר להשחיז את
+349|28:44|הסכין והימנע משמחת יום טוב וכן בכל בשעת הדחק רשאי לסמוך על המקלים ולכרוך
+350|28:50|מתלית על הפגימה ולשחוט בה.
+351|28:53|מאחר ואין שוחטים לכתחילה בסכין שצידה אחד פגום וצידה אחד חלק שמא
+352|28:59|ישחוט בצד הפגום כל סכין שיש לה שתי פיות צריכה בדיקה משני צידיה
+353|29:05|שמא יש פגימה באחד מהם ואין שוחטים בה לכתחילה.
+354|29:10|כך כותב הראש בחולין פרק א', סימן כא'.
+355|29:16|אלה רבותיי הדברים, ובעזרת השם נדבר בלי נדר, מחר נלמד גם כן את הצורה של הבדיקה של
+356|29:22|הסכין, נראה לכם משהו מאוד מעניין מחכם בן ציון אבא שאול.
+357|29:27|באור לציון חלק ה', אני יורד דעה, אני אמרתי לכם שהיה איזה מישהו בדק עם
+358|29:33|שיערה, נכון?
+359|29:34|הרב בן ציון אבא שאול אומר שאפשר לבדוק דווקא עם שערה של זקן, לא של הראש.
+
+LINHAS A TRADUZIR:
+360|29:39|מעניין.
+361|29:41|נראה את זה בעזרת השם בלי נדר, מחר.
+362|29:44|הנה עשיתי לכם קצת סקרנות, בסדר?
+363|29:48|ברוך ה' לעולם, אמן ואמן.

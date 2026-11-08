@@ -1,0 +1,130 @@
+videoId: xkEKvkQdKmM
+parte 1 de 4 · traduzir as linhas 0 a 119 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Faca incandescente e faca com falha na shechitá (Rambam)
+RESUMO: O rabino lê o Rambam, Hilchot Shechitá 1:22, que contém dois dinim: abater com faca incandescente e abater com faca que tem um lado serrilhado e outro liso. A origem do primeiro é a Gemará em Chulin 8a, onde Rabi Zeira em nome de Shemuel diz que a shechitá é válida porque "chidudá kodem leliboná" e porque "bet hashechitá merevach revach", de modo que as laterais não tocam os simanim. A sugya de Chulin 17b, que manda verificar também as laterais da faca, cria uma perplexidade no Rambam, reforçada pela halachá 23 e pelas variantes do texto: kesherá nos manuscritos iemenitas e na maioria das edições, psulá no Rosh, no Tur e nas Hagahot Maimoniyot. O Ramban e o Rashba tentam conciliar as sugyot e o Raavad valida apenas bedieved, mas o Ramban rejeita essas distinções. O Shulchan Arukh (Yoreh Deah 9:1) declara a shechitá psulá, "e há quem valide", e o Rema acrescenta o caso de quem sabia e teve o cuidado de não tocar com as laterais. Os poskim discutem o grau de calor que invalida (yad soledet bo, liboná completa ou faíscas) e, na prática, só se apoia nos que validam em caso de grande prejuízo. O segundo din é a faca com um lado serrilhado: não se abate no lado liso lechatchilá, e o rabino discute se marcar a falha com fio ou pano permite, com o Tur, o Beit Yosef, o Rema e o Rosh.
+MOMENTOS: 00:06 Texto do Rambam 1:22 e as duas questões da halachá · 00:42 Faca incandescente: chidudá antes de liboná · 01:48 Gemará Chulin 8a: Rabi Zeira e "bet hashechitá merevach revach" · 03:34 Chulin 17b: verificar também as laterais da faca · 06:21 A perplexidade: Rambam 1:22 contra Rambam 1:23 · 07:40 Variantes do texto do Rambam: kesherá ou psulá · 12:46 Conciliações do Ramban e do Rashba · 16:35 Ramban rejeita as distinções; Raavad valida bedieved · 18:31 Shulchan Arukh e Rema, Yoreh Deah 9:1 · 20:46 Medida do calor que invalida a shechitá · 24:48 Faca com um lado serrilhado e outro liso · 26:22 Marcar a falha: Tur, Beit Yosef e Rema
+FONTES CITADAS: 00:06 Rambam, Hilchot Shechitá 1:22 · 01:54 Chulin 8a · 02:06 Chulin 8a · 03:40 Chulin 17b · 04:25 Chulin 17b · 06:57 Rambam, Hilchot Shechitá 1:23 · 07:48 Rambam, edição Frenkel, variantes de texto em 1:22 · 08:11 Rosh, Tur, Rabeinu Yerucham, Hagahot Maimoniyot, Kolbo, Etz Chaim, Piskei Yaakov ben Rabi Moshe, Orchot Chaim · 08:46 Hagahot Maimoniyot, Hilchot Shechitá 1:22 · 10:53 Mordechai, Maggid Mishneh em nome do Sar MiKotzi, Kesef Mishneh · 11:17 Beit Yosef, Yoreh Deah 9:1 · 11:34 Radbaz, comentário ao Rambam · 11:43 Radbaz, Shu"t Lishonot HaRambam · 11:51 Raavad sobre o Rambam · 13:10 Ramban e Rashba · 15:52 Rashba · 16:39 Ramban · 17:03 Raavad, citado pelo Rashba · 18:39 Shulchan Arukh, Yoreh Deah 9:1 · 18:55 Rema em Yoreh Deah 9:1 · 19:23 Bach, Yoreh Deah 9 · 19:35 Peri Chadash (Rabi Chizkiyá de Silva) · 20:04 Yam shel Shlomo (Rabeinu Shlomo Luria) · 20:10 Tevuot Shor, Krети UPleti, Rabi Yonatan Eybeschutz · 20:52 Tevuot Shor · 21:02 Zivchei Tzedek · 21:16 Krети UPleti (Rabi Yonatan Eybeschutz) · 21:41 Aruch HaShulchan · 21:53 Rabeinu Abdallah Somekh e Zivchei Tzedek · 24:54 Rambam, Hilchot Shechitá 1:22 · 26:22 Tur, Yoreh Deah 6:1 · 26:56 Tur, Yoreh Deah 6:1 · 27:08 Piskei Rid, Chulin 15b; Shibolei HaLeket; Sefer HaTerumah; Sefer HaIttur; Smak; Hagahot Maimoniyot; Ran; Meiri · 27:25 Rashi em Chulin · 27:31 Rokeach 380 · 27:46 Tur, Yoreh Deah 6:1 · 28:25 Beit Yosef, Yoreh Deah 6:1 · 28:32 Rema, Yoreh Deah 6:1 · 29:10 Rosh, Chulin, cap. 1, simán 21 · 29:27 Rav Ben Tzion Abba Shaul, Or LeTzion, parte 5, Yoreh Deah
+
+LINHAS A TRADUZIR:
+0|00:06|רמב״ם הלכות שחיטה פרק א' הלכה כ"ב כותב רבנו הרמב״ם ליבנה סכין באור
+1|00:13|ושחט בה שחיטתו כשרה סכין
+2|00:18|שצידה אחת מגל וצידה השני יפה לא ישחוט בצד היפה לכתחילה
+3|00:24|גזירה שמא ישחוט בצד האחר ואם שחט הואיל ובצד
+4|00:30|היפה שחט שחיטתו כשרה יש פה שתי סוגיות
+5|00:38|ונסביר אותם בעזרת השם.
+6|00:42|הסוגיה הראשונה זה דין של אדם שליבן סכין באור,
+7|00:48|דהיינו שהיא רותחת ושחט איתה.
+8|00:53|עכשיו, זאת סוגיה גדולה, האם חידודה קודם לליבונה
+9|00:59|או ליבונה קודם לחידודה, פירוש הדברים.
+10|01:02|אם אני אומר שמכיוון שהסכין מלובנת ורותחת אז היא פשוט צורפת את הסימנים,
+11|01:08|אז הבהמה היא טרפה.
+12|01:11|אבל אם אני אומר שחידודה הקודם לליבונה, דהיינו
+13|01:16|שהשחיטה עצמה, החידוד של הסכין, חוד הסכין, הוא בעצם
+14|01:22|חותך את הסימנים לפני ליבונה, לפני החום
+15|01:27|שמגיע לסימנים, אז השחיטה היא תהיה כשרה.
+16|01:32|עכשיו, יש בזה סוגיה בגמרא.
+17|01:35|ויש פה מבוכה גדולה ברמב״ם, מכיוון שיש פה כמה גרסאות ברמב״ם.
+18|01:40|אז בעזרת השם, בואו נעשה קצת סדר בדברים, ואז אני אראה לכם איך מרן כתב בשולחן
+19|01:45|ארוך.
+20|01:48|אז קודם כל, המקור של הסוגיה זה ממסכת חולין בדף ח עמוד
+21|01:53|א'.
+22|01:54|שם כתוב אמר רבי זרה, מר שמואל, ליבן סכין ושחט בה,
+23|02:01|שחיטתו כשרה.
+24|02:03|חידודה קודם לליבונה.
+25|02:06|מקשה הגמרא ואומרת, והאי כצדדין?
+26|02:10|מה הפירוש והאי כצדדין?
+27|02:12|הרי יש את הצדדים של הסכין.
+28|02:15|אז גם אם אני אומר שחידודה קודם לליבונה, אבל אחרי זה הצדדים של הסכין, הם
+29|02:21|גם כן נוגעים בסימנים ושורפים.
+30|02:26|אומרת הגמרא, בית השחיטה מרבח רבח.
+31|02:32|פירוש הדברים ברגע שחותכים את הסימנים אז הכל נפתח
+32|02:38|ואז הצדדים של הסכין לא נוגעים בסימנים.
+33|02:45|לכן לדעת רבי זרה השוחט בסכין מלובן את שחיתתו כשרה
+34|02:52|משום שחידודה קודם לליבונה בשעה שהסכין חותכת את סימני הבהמה חוד הסכין מקדים את
+35|02:57|חומו עכשיו לגבי הצדדיים, אז אמרנו
+36|03:04|שמירבח רווח דהיינו שמתרחב מקום
+37|03:09|החתך לכאן ולכאן ואין צידי הסכין נוגעים בסימנים, כי היה חשש
+38|03:15|שאולי צידי הסכין הם נוגעים בסימנים קודם שתושלם השחיטה.
+39|03:22|משמעלן שמירבח רווח לא נוגעים בסימנים.
+40|03:29|זו סוגיה אחת לגבי ליבונה של סכין.
+41|03:34|עכשיו, שימו לב, יש סוגיה אחרת בדף י"ז עמוד ב',
+42|03:40|זה היה בדף ח', עמוד א'.
+43|03:42|יש סוגיה אחרת בדף י"ז עמוד ב', ובכוונה אני אומר לכם את זה שתבינו איך נולדה מבוכה.
+44|03:49|שלכאורה מגמרה פשוטה, שמשמע להכשיר, תראו איך בעצם
+45|03:56|יש מבוכה מגמרה אחרת.
+46|03:59|שם בדף י"ז עמוד ב' נחנקו האמוראים אם חובה לבדוק
+47|04:05|את הסכין קודם השחיטה שאין בו פגימה אף משני צידיו או
+48|04:11|רק את חודו.
+49|04:13|זה בעצם השאלה.
+50|04:15|האם בודקים רק את החוד שזה בעצם החלק הקדמי
+51|04:21|או שמא בודקים גם את שני הצדדים.
+52|04:25|הגמרא אומרת ששורש המחלוקת היא האם צידי הסכין
+53|04:31|נוגעים בסימני הבהמה בשעת השחיטה שלדעת
+54|04:37|הסובר שיש לבדוק אף את צידי הסכין שככה אנחנו פוסקים להלכה
+55|04:45|ומשום שהם נוגעים בסימנים בשעת השחיטה ואם יש שם פגימה היא
+56|04:51|תקרא את הסימן והשחיטה תיפסל ולדעת הסובר
+57|04:57|שאין לבדוק את צידי הסכין ומשום שמקום החתך
+58|05:03|השחיטה מתרחב בעת השחיטה ואין צידי הסכין נוגעים בסימנים.
+59|05:10|המצאנו למדים לכאורה ששיטת רבי זירה להכשיר שחיטה בסכין
+60|05:16|מלובנת אינה מוסכמת כי כל הטעם להכשיר שחיטה בסכין
+61|05:21|מלובנת, אי אבל היא כצדדים, לא הצדדים לא נוגעים הצדדים לא
+62|05:27|נוגעים.
+63|05:27|למה?
+64|05:28|כי מי רווח.
+65|05:29|אה, אז אם הצדדים לא נוגעים, אז גם אם יש שם פגם בצדדים,
+66|05:35|גם אני אתיר סכין כזאת.
+67|05:37|מספיק שבחוד לא יהיה פגם.
+68|05:39|כמו שהראיתי לכם שבודקים מגימל רוחות.
+69|05:44|אה, אבל אנחנו רואים שאנחנו כן בודקים את צידי הסכין.
+70|05:48|שכן לדעת הסובר שיש לבדוק את צידי הסכין, יש לפסוד שחיטה זו, משום שצידי הסכין פוגעים בסימנים
+71|05:53|בעת השחיטה.
+72|05:55|אז אם צידי הסכין פוסלים את השחיטה מתי שיש שם פגימה
+73|06:01|אז גם אם הסכין מלובנת נפסול את השחיטה משום שהם שורפים את הסימנים
+74|06:08|קודם שיושלם שיעור השחיטה לכן יש פה
+75|06:14|מבוכה גדולה
+76|06:21|מצד אחד הרמב״ם פה אצלנו בהלכה כ"ב כותב ליבן הסכין באור
+77|06:27|ושחט בה שחיטתו כשרה.
+78|06:30|נכון?
+79|06:31|לכאורה הוא כותב פה.
+80|06:32|אני מסתכל במקור בגמרא במסגרת חולים בדרך חטא עמוד א', אני רואה שליבן את הסכין
+81|06:38|ושחט בה שחיטתו כשרה.
+82|06:40|למה?
+83|06:40|כי אני אומר שאיכשהו שחט את הסימן בחוד של הסכין מרווח רווח, אז
+84|06:46|הצדדים לא נוגעים.
+85|06:49|אז לכאורה איך הרמב״ם צריך לפסוק לגבי פגימה בסכין?
+86|06:53|שאם יש פגימה בצדדים, גם השחיטה תהיה כשרה.
+87|06:57|אבל תראו בהלכה הבאה, בהלכה כ"ג, מה הרמב״ם כותב.
+88|07:01|השוחט צריך שיבדוק הסכין בחודה, ומצד זה או מצד זה.
+89|07:06|אה, צריך לבדוק גם את הצדדים.
+90|07:10|אז אם היה צריך לבדוק את הצדדים, שמע מינה שהצדדים גם נוגעים בסימנים.
+91|07:15|אז אם הצדדים נוגעים בסימנים, אז גם סכין שהיא מלובנת היא תפסול.
+92|07:21|איי איי איי איי איי איי איי איי איי איי אז לכן יש פה
+93|07:26|מבוכה פה אצלנו כתוב ברמב״ם ליבנו סכין באו ושחט בשחיטתו
+94|07:32|כשרה אבל תדעו לכם
+95|07:40|שיש פה כמה גרסאות קודם כל כבר במהדורת פרנקל
+96|07:48|כתוב על המילה כשרה הם כותבים בשינויי
+97|07:53|נוסחאות כן או בכתבי היד התימניים וברוב
+98|07:59|הדפוסים
+99|08:05|וכן או באורחות חיים בשם מקצת ספרי הרב אינם מדויקים עכשיו
+100|08:11|בכתבי היד זולת התימניים ובקצת דפוסים ישנים ובראש ובטור וברבנו
+101|08:17|ירוחם, ובהגעות מימוניות, ובקולבו, ובעץ חיים ובפסקי יעקב בן רבי משה,
+102|08:22|ובנוסחה הראשונה שבאורחות חיים, פסולה.
+103|08:28|כל מה שאמרתי לכם עכשיו, ראש, טור וכולי, איך הם גרסו ברמב״ם?
+104|08:32|הם גרסו לבן הסכין באור ושחט בשחיתתו פסולה.
+105|08:37|הפוך לגמרי.
+106|08:41|כך כתוב גם בהגעות מימוניות.
+107|08:46|תסתכלו בהוגאות מימוניות באות ז', למטה.
+108|08:50|הוא כותב, דלא קיימלן כרבי זרע, אמר שמואל, בית השחיטה מרווח רווח.
+109|08:53|לא קיימלן ככה.
+110|08:56|אלא כרפפא דפליג.
+111|08:58|ואמר צריכה בדיקה אטלת רוחתה.
+112|09:02|כדלקמן.
+113|09:05|מובן?
+114|09:06|עכשיו, זאת אומרת, יוצא לנו מכאן, שהנה הוא חיבר בין שתי הסוגיות.
+115|09:11|שמי שיכשיר לשחוט בסכין מלובנת, כן?
+116|09:17|אז הוא יכשיר גם כן אם יש פגימה בסכין מהצדדים.
+117|09:21|מי שיכשיר את זה, יכשיר את זה.
+118|09:23|ולמה, אני חוזר ואומר, מכיוון שבשביל למה בשחיטה חידודה קודם לליבונה,
+119|09:29|והצדדים לא נוגעים כמירווח רווח.
