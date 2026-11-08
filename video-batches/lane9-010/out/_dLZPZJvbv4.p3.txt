@@ -1,0 +1,120 @@
+360	"I fell."	"Caí."
+361	He didn't. He just lay there.	Ele não... ficou deitado.
+362	Now he doesn't look down, he keeps walking, and the second trips over the first.	Agora ele não olha para baixo, continua andando, e o segundo tropeça no primeiro.
+363	The first is liable for the second's damages. Mishnah 5: this one comes	O primeiro é responsável pelos danos do segundo. Mishná 5: este vem
+364	with his barrel and that one with his beam. Now they walk toward each other, one with a barrel	com o seu barril e aquele com a sua viga. Agora eles andam um de frente para o outro, um com um barril
+365	and the other holding a beam. The beam is of course long, and it broke the barrel of this one	e o outro segurando uma viga. A viga é, claro, comprida, e quebrou o barril deste
+366	with the beam of that one. It's a head-on collision. Each one had to be careful, so	com a viga daquele. É uma colisão frontal. Cada um deveria ter tomado cuidado, então
+367	the law is that he is exempt.	a lei é que ele está isento.
+368	Why?	Por quê?
+369	Because this one has permission to walk, and that one has permission to walk.	Porque este tem permissão de andar, e aquele tem permissão de andar.
+370	So both are exempt, each one had to be careful.	Então ambos estão isentos, cada um deveria ter tomado cuidado.
+371	If the one with the beam was first and the one with the barrel last, they	Se o dono da viga ia na frente e o dono do barril atrás, eles
+372	walk in the public domain one after the other.	andam no domínio público um atrás do outro.
+373	The barrel broke on the beam: the beam's owner is exempt.	O barril quebrou na viga: o dono da viga está isento.
+374	And if the beam's owner stopped?	E se o dono da viga parou?
+375	He stopped suddenly, and didn't call out, "Watch out!"	Ele parou de repente, e não avisou: "Cuidado!"
+376	Then he is liable.	Então ele é responsável.
+377	And if he said to the barrel's owner, "Stop..."	E se ele disse ao dono do barril: "Pare..."
+378	That is, he warned him: I stopped, be careful.	Quer dizer, ele o avisou: eu parei, cuidado.
+379	And that one, the barrel's owner, didn't stop, kept walking and his barrel broke. Now, he is exempt.	E aquele, o dono do barril, não parou, continuou andando e o barril se quebrou. Agora, ele está isento.
+380	If the barrel's owner was first, and the beam's owner last.	Se o dono do barril ia na frente e o dono da viga atrás.
+381	If a barrel broke on the beam, he is liable.	Se o barril quebrou na viga, ele é responsável.
+382	And if the barrel's owner stopped, then you are at fault.	E se o dono do barril parou, então a culpa é sua.
+383	So the beam's owner	Então o dono da viga
+384	is exempt.	está isento.
+385	And if he said to the beam's owner, "Stop," and warned him, he is liable.	E se ele disse ao dono da viga: "Pare", e o avisou, ele é responsável.
+386	Who is liable?	Quem é responsável?
+387	The beam's owner, because he kept walking.	O dono da viga, porque continuou andando.
+388	And likewise, the same laws apply to this one coming with his lamp and that one with his flax.	E assim também, as mesmas leis valem para este que vem com a sua lamparina e aquele com o seu linho.
+389	The lamp sets the flax on fire, whether facing each other or one after the other.	A lamparina incendeia o linho, seja um de frente para o outro, seja um atrás do outro.
+390	Mishnah 6: two people walking in the public domain, one running and one walking,	Mishná 6: duas pessoas andando no domínio público, uma correndo e outra andando,
+391	or both were running, and they injured each other, both are exempt.	ou ambas correndo, e se machucaram uma à outra, ambas estão isentas.
+392	Rabenu Ovadia of Bartenura says: the Mishnah is missing words. Words are missing here in the Mishnah.	Rabenu Ovadia de Bartenura diz: a Mishná está incompleta. Faltam aqui palavras na Mishná.
+393	And this is how the Gemara sets it up: one running and one walking,	E é assim que a Guemará a explica: um correndo e outro andando,
+394	on the eves of Shabbat and festivals, or both were running on the other	nas vésperas de Shabat e de festas, ou ambos correndo nos outros
+395	days of the year, both are exempt.	dias do ano, ambos estão isentos.
+396	Because on the eves of Shabbat and festivals, whoever runs, runs with permission,	Porque nas vésperas de Shabat e de festas, quem corre, corre com permissão,
+397	since he is going for a mitzvah, to prepare what is needed for Shabbat and Yom Tov.	pois vai cumprir uma mitsvá, preparar o que é necessário para o Shabat e o Yom Tov.
+398	And that is why he is exempt. On the other days, if both run, both are at fault, so both	E por isso está isento. Nos outros dias, se ambos correm, ambos estão errados, então ambos
+399	are exempt.	estão isentos.
+400	Mishnah 7: one who splits wood in a private domain, he takes an axe in hand and splits wood, now	Mishná 7: aquele que racha lenha em domínio privado, pega um machado e racha lenha, agora
+401	a splinter flew off and caused damage in the public domain.	uma lasca saltou e causou dano no domínio público.
+402	So either he stands in the public domain and caused damage in a private domain, or he stands	Então, ou ele está no domínio público e causou dano em domínio privado, ou está
+403	in a private domain and caused damage in another private domain. In all these cases the law is that he is liable.	em um domínio privado e causou dano em outro domínio privado. Em todos esses casos a lei é que ele é responsável.
+404	Another Mishnah: two tam oxen that injured each other.	Outra Mishná: dois bois tam que se feriram mutuamente.
+405	Let us remind ourselves: a tam ox pays half damages, but one more	Lembremos: um boi tam paga metade do dano, mas mais
+406	thing: a tam ox pays half damages from its own body, as much as it is worth, and if it is worth	uma coisa: o boi tam paga metade do dano com o próprio corpo, quanto ele vale, e se vale
+407	less, then less. A muad ox, first, pays full damages, and second,	menos, então menos. O boi muad, primeiro, paga o dano inteiro, e segundo,
+408	pays from the best of his property, that is, from his bank account. Now two tam oxen	paga com o melhor de seus bens, isto é, da conta bancária. Agora, dois bois tam
+409	that injured each other pay half damages on the surplus. Let's do the math.	que se feriram mutuamente pagam metade do dano sobre o excedente. Vamos fazer a conta.
+410	Here, he damaged him 100 shekels and he damaged him 100 shekels, so	Aqui, um causou ao outro 100 shekalim de dano e o outro causou 100 shekalim, então
+411	they're even. What is the law if the first damaged the second 150 shekels and he	estão quites. Qual é a lei se o primeiro causou ao segundo 150 shekalim e ele
+412	damaged him only 100 shekels? What is the surplus?	causou a ele apenas 100 shekalim? Qual é o excedente?
+413	50. What does he pay for it?	50. Quanto ele paga por isso?
+414	25, because on the surplus he pays only half damages. If both are muad	25, porque sobre o excedente ele paga só metade do dano. Se ambos são muad
+415	and they injured each other, they pay full damages on the surplus.	e se feriram mutuamente, pagam o dano inteiro sobre o excedente.
+416	So if the surplus is 50 shekels, then the whole 50 shekels, since it is full damages.	Então, se o excedente é de 50 shekalim, são todos os 50 shekalim, pois é dano inteiro.
+417	One tam and one muad: the muad that injured a tam pays	Um tam e um muad: o muad que feriu um tam paga
+418	full damages on the surplus; the tam that injured a muad pays half	o dano inteiro sobre o excedente; o tam que feriu um muad paga metade
+419	damages.	do dano.
+420	And likewise, two people who injured each other.	E assim também, duas pessoas que se feriram mutuamente.
+421	They pay full damages on the surplus, because a person is always muad.	Pagam o dano inteiro sobre o excedente, porque o ser humano é sempre muad.
+422	A person who injured a muad ox, and a muad ox that injured a person, pays	Uma pessoa que feriu um boi muad, e um boi muad que feriu uma pessoa, paga
+423	full damages on the surplus. A person who injured a tam ox,	o dano inteiro sobre o excedente. Uma pessoa que feriu um boi tam,
+424	and a tam ox that injured a person: the person, for the tam, pays full damages on the surplus, because	e um boi tam que feriu uma pessoa: a pessoa, em relação ao tam, paga o dano inteiro sobre o excedente, porque
+425	the person is muad, and the tam, for the person, pays only half damages on the surplus. Rabbi	a pessoa é muad, e o tam, em relação à pessoa, paga só metade do dano sobre o excedente. Rabi
+426	Akiva says: even a tam that injured a person pays full damages	Akiva diz: até um tam que feriu uma pessoa paga o dano inteiro
+427	on the surplus.	sobre o excedente.
+428	Why?	Por quê?
+429	Rabenu Ovadia of Bartenura says that he has a source for this in the Torah.	Rabenu Ovadia de Bartenura diz que ele tem uma fonte para isso na Torá.
+430	He expounds "according to this law," since the verse before it	Ele deduz de "conforme esta lei", pois o versículo anterior
+431	is speaking about a muad ox.	fala de um boi muad.
+432	Mishnah 9 continues: an ox worth a maneh that gored an ox worth 200,	Continua a Mishná 9: um boi que vale um maneh e chifrou um boi que vale 200,
+433	and the carcass is worth nothing. The ox that was killed fell	e a carcaça não vale nada. O boi que foi morto caiu
+434	into the sea, there is no carcass. He takes the ox. Why?	no mar, não há carcaça. Ele fica com o boi. Por quê?
+435	Because an ox worth a maneh gored an ox worth 200. So what does he have to pay now?	Porque um boi que vale um maneh chifrou um boi que vale 200. Então quanto ele precisa pagar agora?
+436	A maneh, since it is half damages. So he takes the ox. An ox worth 200 that gored an ox	Um maneh, pois é metade do dano. Então ele fica com o boi. Um boi que vale 200 chifrou um boi
+437	worth 200, and the carcass is worth nothing. Rabbi Meir said, about this it is said:	que vale 200, e a carcaça não vale nada. Rabi Meir disse: sobre isso está dito:
+438	"And they shall sell the live ox and divide its money."	"E venderão o boi vivo e dividirão o seu dinheiro."
+439	So if they sold the ox worth 200 and divided its money, it means he receives 100.	Então, se venderam o boi que vale 200 e dividiram o seu dinheiro, significa que ele recebe 100.
+440	Rabbi Yehuda said to him: is that the halachah?	Rabi Yehuda lhe disse: e essa é a halachá?
+441	If you say that, it doesn't fit with the verse.	Se você disser isso, não combina com o versículo.
+442	Why?	Por quê?
+443	Because you fulfilled "And they shall sell the live ox and divide its money."	Porque você cumpriu "E venderão o boi vivo e dividirão o seu dinheiro".
+444	But you did not fulfill the rest of the verse: "and the dead one they shall also divide."	Mas não cumpriu o resto do versículo: "e também dividirão o morto".
+445	So where is the dead one?	Então onde está o morto?
+446	Therefore Rabbi Yehuda says: and which case is it?	Por isso Rabi Yehuda diz: e qual é o caso?
+447	So when does it apply?	Então a que caso isso se aplica?
+448	An ox worth 200 that gored an ox worth 200, and the carcass is worth	Um boi que vale 200 chifrou um boi que vale 200, e a carcaça vale
+449	50 zuz.	50 zuz.
+450	So let's see what happened here.	Então vamos ver o que aconteceu aqui.
+451	This one is the owner of the ox that gored.	Este é o dono do boi que chifrou.
+452	His ox is worth 200.	O boi dele vale 200.
+453	The owner of the ox that was gored had an ox worth 200, and now he has a carcass worth 50.	O dono do boi que foi chifrado tinha um boi que valia 200, e agora tem uma carcaça que vale 50.
+454	How much is he owed?	Quanto lhe é devido?
+455	Half damages.	Metade do dano.
+456	How much is half damages?	Quanto é metade do dano?
+457	75.	75.
+458	Together with the fifty, how much will he have now?	Junto com os cinquenta, quanto ele terá agora?
+459	125.	125.
+460	Now look at what the Torah says.	Agora veja o que a Torá diz.
+461	This one takes half of the live and half of the dead. How much is half of the live?	Este recebe metade do vivo e metade do morto. Quanto é metade do vivo?
+462	A hundred. And how much is half of the dead?	Cem. E quanto é metade do morto?
+463	Fifty. Excellent.	Cinquenta. Excelente.
+464	And that one takes half of the live and half of the dead, so each will have 125.	E aquele recebe metade do vivo e metade do morto, então cada um terá 125.
+465	Mishnah 10: there is one who is liable for his ox's act and exempt for his own act.	Mishná 10: há quem seja responsável pelo ato do seu boi e isento pelo seu próprio ato.
+466	There is one exempt for his ox's act and liable for his own act.	Há quem seja isento pelo ato do seu boi e responsável pelo seu próprio ato.
+467	What, for example?	Por exemplo?
+468	The Mishnah says: his ox that humiliated.	A Mishná diz: seu boi que humilhou.
+469	An ox.	Um boi.
+470	It caused humiliation, so what is the law?	Causou humilhação, então qual é a lei?
+471	His ox that humiliated is exempt, but he, if he humiliated, is liable. His ox	Seu boi que humilhou está isento, mas ele, se humilhou, é responsável. Seu boi
+472	that blinded his slave's eye is exempt, or knocked out his tooth, exempt,	que cegou o olho de seu escravo está isento, ou que arrancou o seu dente, isento,
+473	but he, a man who blinded his slave's eye and knocked out his tooth, is liable: the slave goes free.	mas ele, um homem que cegou o olho de seu escravo e arrancou o seu dente, é responsável: o escravo sai livre.
+474	His ox that injured his father and his mother is liable, and he, if he injured his father	Seu boi que feriu o pai e a mãe dele é responsável, e ele, se feriu o seu pai
+475	and his mother, is exempt.	e a sua mãe, está isento.
+476	Why is he exempt?	Por que ele está isento?
+477	Because a person who injures his father and mother is liable to death, and the law is that "the greater penalty overrides."	Porque quem fere o pai e a mãe é passível de morte, e a lei é que "a pena maior prevalece".
+478	We take the more severe punishment from him, and the more severe punishment in this case is death, so he is exempt	Aplica-se a ele a pena mais severa, e a pena mais severa neste caso é a morte, então ele está isento
+479	from the payments.	dos pagamentos.

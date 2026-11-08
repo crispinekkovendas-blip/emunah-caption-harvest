@@ -2,7 +2,7 @@
  "name": "lane9-010",
  "lane": 9,
  "created": "2026-11-07T21:11:32.222Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "oCpq50M2bMM",
@@ -358,20 +358,20 @@
   "7YD_370imOA.p6"
  ],
  "tries": {
-  "qqfY7hwdSdA": 2,
+  "qqfY7hwdSdA": 3,
   "wjHH5ZamiL0": 1,
-  "OIOo3JGi6OU": 2,
+  "OIOo3JGi6OU": 3,
   "X0jGkpcrNig": 2,
   "vVgsqQKAT-4": 1,
   "JeCqB5iLqZU": 1,
   "CAYsMyHf3Og": 1,
   "-JI5kQqg2uY": 2,
   "PpSRx7XWByk": 1,
-  "GJSZQbvBow8": 2,
+  "GJSZQbvBow8": 3,
   "EXpuA0tkFHs": 1,
   "_dLZPZJvbv4": 2,
-  "n72WpQi5kZo": 2,
-  "7YD_370imOA": 2
+  "n72WpQi5kZo": 3,
+  "7YD_370imOA": 3
  },
  "done": [
   "oCpq50M2bMM",
@@ -390,7 +390,16 @@
   "JeCqB5iLqZU",
   "CAYsMyHf3Og",
   "PpSRx7XWByk",
-  "EXpuA0tkFHs"
+  "EXpuA0tkFHs",
+  "X0jGkpcrNig",
+  "-JI5kQqg2uY",
+  "_dLZPZJvbv4"
  ],
- "skipped": []
+ "skipped": [
+  "qqfY7hwdSdA",
+  "OIOo3JGi6OU",
+  "GJSZQbvBow8",
+  "n72WpQi5kZo",
+  "7YD_370imOA"
+ ]
 }

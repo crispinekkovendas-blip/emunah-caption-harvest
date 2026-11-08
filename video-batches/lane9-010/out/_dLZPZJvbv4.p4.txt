@@ -1,0 +1,120 @@
+480	His ox that set fire to the haystack on Shabbat is liable, but he himself who set fire to the haystack on Shabbat will be	Seu boi que acendeu o monte de grãos no Shabat é responsável, mas ele próprio, se acendeu o monte no Shabat, será
+481	exempt.	isento.
+482	Why?	Por quê?
+483	Same thing: because he is liable with his life, since he did it on Shabbat.	É a mesma coisa: porque ele é responsável com a própria vida, já que fez isso no Shabat.
+484	Mishnah four: an ox was chasing another ox, and was injured.	Mishná quatro: um boi estava perseguindo outro boi, e foi ferido.
+485	This one says, your ox injured it, and that one says, no, it was hurt on the rock.	Este diz: seu boi o feriu; e aquele diz: não, foi na pedra que se feriu.
+486	The one who claims from his fellow bears the burden of proof.	Quem reclama algo do seu próximo tem o ônus da prova.
+487	He says, you injured me.	Ele diz: você me causou dano.
+488	He says, not I.	Ele diz: não fui eu.
+489	He took a blow.	Ele recebeu um golpe.
+490	The law is that the one who claims from his fellow bears the burden of proof.	A lei é que quem reclama do próximo tem o ônus da prova.
+491	If two were chasing one.	Se dois estavam perseguindo um.
+492	Two oxen chasing after one ox.	Dois bois perseguindo um só boi.
+493	Now, they find it wounded or dead.	Agora, encontram-no ferido ou morto.
+494	This one says, your ox injured it, and that one says, your ox injured it.	Este diz: seu boi o feriu; e aquele diz: seu boi o feriu.
+495	Each one wants to be free of liability.	Cada um quer se livrar.
+496	So what is the law?	Então, qual é a lei?
+497	Both are exempt.	Ambos são isentos.
+498	If both belonged to one man, the two oxen, then both are liable.	Se os dois eram de um mesmo homem, os dois bois, então ambos são responsáveis.
+499	That is, he will collect the damage from both.	Ou seja, o dano será cobrado dos dois.
+500	If one was large and one small.	Se um era grande e o outro pequeno.
+501	The injured party says, the large one did the damage, because he wants to have from where to collect.	O prejudicado diz: o grande causou o dano, porque quer ter de onde cobrar.
+502	And the one who caused the damage says, no, the small one did the damage.	E o causador diz: não, foi o pequeno que causou o dano.
+503	Or, if the two chasing oxen were one tam and one muad.	Ou, se os dois bois que perseguiam eram um tam e um muad.
+504	The injured party says, the muad did the damage, and the damager says, no, the tam did the damage.	O prejudicado diz: o muad causou o dano; e o causador diz: não, foi o tam.
+505	What's the difference?	Qual é a diferença?
+506	If it's the muad, he pays full damage; if it's the tam, half damage. If it's the muad, he pays from the best of his property, and if it's the tam,	Se foi o muad, paga o dano inteiro; se foi o tam, metade do dano. Se foi o muad, paga dos melhores bens, e se foi o tam,
+507	he pays only from the body of the ox. The one who claims from his fellow bears the burden of proof.	paga apenas do próprio corpo do boi. Quem reclama do próximo tem o ônus da prova.
+508	If the injured were two, one large and one small, and the damagers	Se os prejudicados eram dois, um grande e um pequeno, e os causadores
+509	were two as well, one large and one small, the injured party says, the large one	eram também dois, um grande e um pequeno, o prejudicado diz: o grande
+510	injured the large one and the small one injured the small one. He wants to have from where to collect. And the damager	feriu o grande e o pequeno feriu o pequeno. Ele quer ter de onde cobrar. E o causador
+511	says, no, the small one injured the large one and the large one injured the small one, because he wants	diz: não, o pequeno feriu o grande e o grande feriu o pequeno, porque ele quer
+512	to pay less. Or one tam and one muad.	pagar menos. Ou um tam e um muad.
+513	The injured party says, the muad injured the large one and the tam the small one.	O prejudicado diz: o muad feriu o grande e o tam o pequeno.
+514	And the damager says, no, the tam injured the large one and the muad the small one.	E o causador diz: não, o tam feriu o grande e o muad o pequeno.
+515	In all these cases the law is that the one who claims from his fellow bears the burden of proof.	Em todos esses casos a lei é que quem reclama do próximo tem o ônus da prova.
+516	And that is the end of the Mishnayot for today.	E aqui terminam as Mishnayot de hoje.
+517	Now we have a Gemara, Bava Kama, daf 32 side a. The Gemara says,	Agora temos uma Guemará, Bava Kama, página 32, lado a. Diz a Guemará:
+518	Our Mishnah is not like Isi ben Yehuda, as it was taught:	Nossa Mishná não segue Isi ben Yehuda, pois foi ensinado:
+519	Isi ben Yehuda says, one who runs is liable.	Isi ben Yehuda diz: quem corre é responsável.
+520	Because it is unusual.	Porque isso é incomum.
+521	We said that if both ran, it is written in the Mishnah, both running, even on a weekday,	Dissemos que, se ambos corriam, está escrito na Mishná: ambos correndo, mesmo em dia de semana,
+522	then both are exempt.	então ambos são isentos.
+523	He says to him, liable, it is unusual, why are you running?	Ele diz a ele: responsável, é incomum, por que você está correndo?
+524	Isi concedes that on Shabbat eve at twilight he is exempt.	Isi admite que na véspera de Shabat, ao entardecer, ele é isento.
+525	Why?	Por quê?
+526	Because he runs with permission.	Porque ele corre com permissão.
+527	Rabbi Yochanan said, the halachah follows Isi ben Yehuda.	Rabi Yochanan disse: a halachá segue Isi ben Yehuda.
+528	Wait, why does he run on Shabbat eve?	Espere, por que ele corre na véspera de Shabat?
+529	With permission. As we said from Rabbenu Ovadia of Bartenura, on Shabbat eve when a person runs, he runs for a mitzvah purpose, to arrange	Com permissão. Como dissemos com Rabenu Ovadia de Bartenura, na véspera de Shabat, quando alguém corre, corre por uma mitsvá, para arrumar
+530	the needs of Shabbat.	as necessidades do Shabat.
+531	Rabbi Yochanan said the halachah follows Isi ben Yehuda: on a weekday it is unusual and he is liable, and on Shabbat eve	Rabi Yochanan disse que a halachá segue Isi ben Yehuda: em dia de semana é incomum e ele é responsável, e na véspera de Shabat
+532	it is fine.	está tudo bem.
+533	The Gemara asks, did Rabbi Yochanan say the halachah follows Isi? But we learned in an unattributed Mishnah: one	A Guemará pergunta: Rabi Yochanan disse que a halachá segue Isi? Mas aprendemos numa Mishná anônima: um
+534	running and one walking, or if both were running, are exempt.	correndo e outro andando, ou se ambos corriam, são isentos.
+535	And we said that "both running" applies even on a weekday.	E dissemos que "ambos correndo" vale até em dia de semana.
+536	The Gemara says no, our Mishnah is about Shabbat eve at twilight. The Gemara asks, from where do we know?	A Guemará diz: não, nossa Mishná trata da véspera de Shabat ao entardecer. A Guemará pergunta: de onde sabemos?
+537	From the fact that it teaches "or if both were running, exempt." Why do I need that?	Do fato de ensinar "ou se ambos corriam, isentos". Para que preciso disso?
+538	Now that one running and one walking is exempt, if both are running	Se um correndo e outro andando já é isento, se ambos estão correndo
+539	is it necessary to tell me that he is exempt?	é preciso me dizer que é isento?
+540	Rather, say: one running and one walking is exempt. When is this said?	Antes, diga: um correndo e outro andando é isento. Quando isso se diz?
+541	On Shabbat eve at twilight. But on a weekday, one running and one walking is liable.	Na véspera de Shabat ao entardecer. Mas em dia de semana, um correndo e outro andando é responsável.
+542	Both running, even on a weekday, are exempt.	Ambos correndo, mesmo em dia de semana, são isentos.
+543	The master said, Isi concedes that on Shabbat eve, at twilight, he is exempt because he runs with	O mestre disse: Isi admite que na véspera de Shabat, ao entardecer, ele é isento porque corre com
+544	permission.	permissão.
+545	The Gemara asks, on Shabbat eve, what is "with permission"?	A Guemará pergunta: na véspera de Shabat, o que é "com permissão"?
+546	Like Rabbi Chanina.	Como Rabi Chanina.
+547	And Rabbi Chanina said, come, let us go out to greet the queen Shabbat, the bride.	E Rabi Chanina disse: venham, vamos sair ao encontro da rainha Shabat, a noiva.
+548	Rabbi Yannai would wrap himself and stand and say, come, bride.	Rabi Yanai se enrolava no manto, ficava de pé e dizia: venha, noiva.
+549	Come, bride.	Venha, noiva.
+550	Zohar, Parashat Lech Lecha, folio 83, side a. Rabbi	Zohar, Parashat Lech Lecha, página 83, lado a. Rabi
+551	Shimon opened and said, it is written in the verse, "My soul desires You in the night, and with my spirit within me	Shimon começou e disse: está escrito no versículo: "Minha alma te deseja de noite, e com meu espírito dentro de mim
+552	I seek You earnestly." Let us read it and establish it.	eu te busco ansiosamente." Vamos lê-lo e estabelecê-lo.
+553	Explanations have already been given for this.	Já foram dadas explicações para isso.
+554	But let us give it a new interpretation.	Mas vamos dar a isso uma nova interpretação.
+555	Come and see: when a person lies down on his bed, his soul goes out of him	Venha e veja: quando uma pessoa se deita na cama, sua alma sai dela
+556	and ascends above.	e sobe.
+557	When a person goes to sleep, the soul leaves him and goes up above.	Quando a pessoa vai dormir, a alma a deixa e sobe.
+558	And if you say that all the souls ascend,	E se você disser que todas as almas sobem,
+559	not each and every one sees the face of the King.	nem todas e cada uma veem o rosto do Rei.
+560	Yes, but not everyone merits to see the face of the King.	Sim, mas nem todos merecem ver o rosto do Rei.
+561	Rather, the soul ascends and does not remain with the body, except for one impression of the chamber	Antes, a alma sobe e não permanece com o corpo, exceto por uma marca da câmara
+562	of the vitality of the heart.	da vitalidade do coração.
+563	The soul goes out.	A alma sai.
+564	And only something remains in the body to keep the body alive. And the soul	E só algo permanece no corpo para mantê-lo vivo. E a alma
+565	goes out and wants to ascend above, and goes from level to level to ascend,	sai e quer subir, e vai de degrau em degrau para subir,
+566	wanting to climb, step by step, as high as possible. And she	querendo subir, degrau por degrau, o mais alto possível. E ela
+567	encounters those murky bonds of impurity. But there she meets all kinds	encontra aqueles laços turvos de impureza. Mas ali ela encontra todo tipo
+568	of husks of impurity. If she was not defiled	de cascas de impureza. Se ela não se contaminou
+569	during the day, she goes up above. If this ascending soul is itself pure,	durante o dia, sobe. Se essa alma que sobe é pura em si mesma,
+570	if she was not absorbed into impurity during the day, then she ascends, and is not	se não foi absorvida pela impureza durante o dia, então ela sobe e não
+571	defiled among them. But if she is not pure, she becomes impure together	se contamina entre elas. Mas se não é pura, torna-se impura junto
+572	with them among all these husks, and clings to them and cannot ascend further,	com elas, entre todas essas cascas, apega-se a elas e não pode subir mais,
+573	and she cannot continue to ascend. And there they inform	e não consegue continuar subindo. E ali informam
+574	her of all the things that have been decreed upon her.	a ela todas as coisas que foram decretadas sobre ela.
+575	And she clings to those words about the near future.	E ela se apega àquelas palavras sobre o futuro próximo.
+576	She clings, meaning she hears all the things that will happen in the near future.	Ela se apega, isto é, ouve todas as coisas que acontecerão em breve.
+577	And sometimes they laugh at her, and they tell her	E às vezes riem dela, e lhe contam
+578	lies.	mentiras.
+579	And so she wanders all night.	E assim ela vagueia a noite toda.
+580	And so this soul goes about all night until the person wakes up	E assim essa alma anda a noite toda até a pessoa acordar
+581	and the soul returns to him.	e a alma voltar a ela.
+582	But the worthy, the righteous, to whom the Holy One, blessed be He, reveals things	Mas os merecedores, os justos, a quem o Santo, Bendito Seja, revela coisas
+583	in a dream so that they may be guarded from judgment.	em sonho para serem protegidos do julgamento.
+584	Woe to those who defile their bodies and their souls.	Ai daqueles que contaminam seus corpos e suas almas.
+585	For those who were not defiled,	Pois aqueles que não se contaminaram,
+586	when they go up to bed, the soul ascends and enters among	quando sobem à cama, a alma sobe e entra entre
+587	all the highest levels first. So the soul rises among all the highest levels.	todos os níveis mais altos primeiro. Então a alma sobe entre todos os níveis mais elevados.
+588	She does not cling to them; she is not afraid; she is not defiled among all	Ela não se apega a eles; não tem medo; não se contamina entre todas
+589	these husks. She ascends and does not cling to them, and afterwards	essas cascas. Ela sobe e não se apega a elas, e depois
+590	she rises according to her spirit, and so she goes up in this way.	sobe conforme o seu espírito, e assim vai subindo desse modo.
+591	The soul that merits to ascend is seen before the Minister of the Presence.	A alma que merece subir é vista diante do Ministro da Presença.
+592	This soul that merits to go all the way up sees, and is seen before, the angel	Essa alma que merece subir até o alto vê, e é vista diante do anjo
+593	Metatron, who is called the	Metatron, que é chamado
+594	Prince of the Presence, and she cleaves willingly to behold in longing.	Príncipe da Presença, e ela se apega por vontade própria para contemplar com anseio.
+595	She cleaves, she cleaves willingly	Ela se apega, apega-se por vontade própria
+596	to behold in longing, cleaving	para contemplar com anseio, apegando-se
+597	in the supreme desire to enjoy the pleasantness of the King and to visit His palace, to see	no desejo supremo de desfrutar a doçura do Rei e visitar o Seu palácio, para ver
+598	the goodness of HaShem and to visit in His sanctuary. And this is a person who has	a bondade de HaShem e visitar o Seu santuário. E esta é uma pessoa que tem
+599	a portion in the World to Come. Surely a soul that yearns for the Holy One, blessed be He	parte no Mundo Vindouro. Certamente uma alma que anseia pelo Santo, Bendito Seja
