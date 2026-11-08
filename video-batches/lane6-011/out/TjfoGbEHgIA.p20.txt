@@ -1,0 +1,39 @@
+800	It's a law.	É uma lei.
+801	Laughter is a law.	O riso é uma lei.
+802	Only through the law of laughter can you truly move forward.	Só pela lei do riso é possível realmente avançar.
+803	A person who can't withstand the laws of laughter can't move forward.	Quem não sabe suportar as leis do riso não consegue avançar.
+804	Nice.	Muito bem.
+805	I saw an encouraging news item in the paper today.	Vi hoje no jornal uma notícia animadora.
+806	In which paper?	Em que jornal?
+807	Ah, it's not in the paper, it's on Ynet.	Ah, não foi no jornal, foi no Ynet.
+808	But good news: there's a drop in post-trauma diagnoses and in the use of dangerous substances in the past	Mas é uma boa notícia: houve queda nos diagnósticos de pós-trauma e no uso de substâncias perigosas no último
+809	year.	ano.
+810	What are you saying?	O que você está dizendo?
+811	Yes, the situation has calmed down a bit.	Sim, a situação acalmou um pouco.
+812	Not by much, it's a five percent drop, but there's...	Não muito, é uma queda de cinco por cento, mas há...
+813	In an optimistic direction.	Uma direção otimista.
+814	Yes.	Sim.
+815	What does that mean?	O que isso significa?
+816	That all the post-trauma people are more and more calm?	Que todos os pós-traumáticos estão cada vez mais calmos?
+818	there is, you know, when there's relative quiet, relative, relative,	existe, sabe, quando há uma calma relativa, relativa, relativa,
+819	then there's spontaneous recovery, and people smoke themselves to death less and use all kinds of substances,	então há recuperação espontânea, e as pessoas se matam menos de tanto fumar e usam menos todo tipo de substâncias,
+820	that is, and maybe also the actions.	ou seja, e talvez também as ações.
+821	The therapeutic treatments carried out by all kinds of bodies, maybe they work too?	Os tratamentos terapêuticos feitos por vários órgãos, talvez eles também funcionem?
+822	Tell me, have you ever smoked?	Diga, você já fumou alguma vez?
+823	Of course.	Claro.
+824	Does it help with anything?	Ajuda em alguma coisa?
+825	With post-trauma?	Com o pós-trauma?
+826	For yourself.	Para você mesmo.
+827	I didn't have post-trauma.	Eu não tive pós-trauma.
+828	I understand, but does it help someone with something?	Entendo, mas isso ajuda alguém em alguma coisa?
+829	Smoking?	O fumo?
+830	Of course it helps.	Claro que ajuda.
+831	Yes?	Sim?
+832	It both helps and harms.	Ajuda e também faz mal.
+833	How does it help?	Em que ajuda?
+834	In...	Em...
+835	Isn't it some kind of image, something?	Não é algum tipo de imagem, alguma coisa?
+836	Image or imagination?	Imagem ou imaginação?
+837	Imagination.	Imaginação.
+838	That's certainly so.	Isso com certeza.
+839	You inhale smoke, you light up, you inhale smoke.	Você inala fumaça, acende, inala fumaça.

@@ -1,0 +1,40 @@
+80	We don't, we don't have these luxuries.	Nós não temos, não temos esses luxos.
+81	We have no margin to allow ourselves such a deviation from the path.	Não temos margem para nos permitir um desvio desses do caminho.
+82	A road with no shoulder.	Uma estrada sem acostamento.
+83	Yes, exactly.	Sim, exatamente.
+84	How are you? How did you end up voting for Leitner?	Como vai? Como você acabou votando no Leitner?
+85	Yes.	Sim.
+86	Yes.	Sim.
+87	I voted for Leitner knowing he wouldn't get in.	Votei no Leitner sabendo que ele não entraria.
+88	Because I fell, I got up.	Porque eu caí, me levantei.
+89	Yes.	Sim.
+90	No, I think it's important to say what	Não, acho importante dizer aquilo
+91	is close to the truth, right?	que está próximo da verdade, certo?
+92	Even if it doesn't pass, or does pass, it doesn't interest me.	Mesmo que não passe, ou que passe, isso não me interessa.
+93	What do you mean, the truth passes?	Como assim, a verdade passa?
+94	Ah, okay, as far as I'm concerned.	Ah, certo, no que me diz respeito.
+95	For me, this isn't the truth either, right?	Para mim, isso também não é a verdade, certo?
+96	But it's better than what exists,	Mas é melhor do que o que existe,
+97	than the existing mainstream.	do que o mainstream existente.
+98	But listen, I don't make a big deal out of all these things at all.	Mas olha, eu não faço caso de nada disso.
+99	So what do you make a big deal out of?	Então com o que você se importa?
+100	Nothing, I put in my ballot and go on to my business,	Nada, deposito meu voto e sigo para os meus afazeres,
+101	and I don't fuss too much over these things.	e não fico me atormentando demais com essas coisas.
+102	Whatever will be, will be.	O que tiver que ser, será.
+103	Anyway, we don't...	De qualquer forma, nós não...
+104	Beyond placing this slip in the ballot box,	Além de depositar este papel na urna,
+105	there's nothing for us to do.	não há nada que possamos fazer.
+106	Only to build our own four cubits properly.	Só construir direito os nossos quatro côvados.
+107	Yes.	Sim.
+108	That's it.	Pronto.
+109	So I don't...	Então eu não...
+110	Many people don't know what to do now.	Muitas pessoas não sabem o que fazer agora.
+111	I see in my feed, online, so many people	Vejo no meu feed, na internet, muitíssimas pessoas
+112	who...	que...
+113	are interested in buying an island in Greece, in setting up a community in Portugal.	estão interessadas em comprar uma ilha na Grécia, em montar uma comunidade em Portugal.
+114	Really, it's not funny at all.	De verdade, isso não tem graça nenhuma.
+115	I know, but it's not a solution at all.	Eu sei, mas isso não é solução nenhuma.
+116	Certainly not.	Com certeza não.
+117	It's not a solution, like, just running away from here and that's it.	Não é solução, tipo fugir daqui e pronto.
+118	Certainly not.	Com certeza não.
+119	No.	Não.
