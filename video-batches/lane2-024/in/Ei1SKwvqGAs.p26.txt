@@ -1,0 +1,64 @@
+videoId: Ei1SKwvqGAs
+parte 27 de 45 · traduzir as linhas 1040 a 1079 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Nisan, Yeshurun e a criação do movimento Derech Chaim
+RESUMO: O rabino abre, no Rosh Chodesh Nisan, com o Rashi sobre "pode ser desde Rosh Chodesh?" (Rashi em Shemot 13:8). Ele distingue as etapas de yecholet (capacidade), "em potencial" e "em ato", e liga isso à ideia de que o pensamento de Israel precede até a Torá (Midrash Bereshit Rabá). Em seguida explica que Nisan é "nissei nissim" (Berachot): "nes" vem de Chochmá/Abba, enquanto "nisui", em "HaNissá Elokim" (Devarim 4:34), vem de Biná/Ima, ligado ao conto de Rabi Nachman sobre a parteira e à discussão entre Rabi Yehoshua e Rabi Eliezer (Rosh Hashaná 11a). Depois trata do nome Yeshurun nos versículos de Devarim 32:15, 33:5 e 33:26 e em Yeshayahu 44:2, com a guematria que o iguala a Mashiach ben Yosef, e lê "VaYehi viYeshurun melech" nos dois sentidos, de cima para baixo e de baixo para cima. Retoma os pontos do livro "Tikun HaMedina" (Eretz Yisrael Shlemá, mishpat ivri e educação da Torá) como mensagem do movimento. A parte final, conduzida por seus alunos, apresenta o site Kol HaYehudi, as ações de campo, o estatuto e a comissão fundadora, e abre um debate sobre a taxa de 100 shekels, que termina numa votação com três opções.
+MOMENTOS: 09:25 Yachol me-Rosh Chodesh: capacidade, potencial e ato · 10:40 O pensamento de Israel precede a própria Torá · 13:06 Nisan como "nissei nissim": nes e Chochmá · 15:44 "HaNissá Elokim": nisui, Biná e a parteira de Rabi Nachman · 21:34 Nisan e Sivan: ver e ouvir, Abba e Ima · 22:25 Rabi Yehoshua e Rabi Eliezer: Nisan ou Tishrei · 25:39 O nome Yeshurun e suas aparições na Torá · 32:44 Guematria: Yeshurun é Mashiach ben Yosef · 35:51 "VaYehi viYeshurun melech": o rei, os líderes e as tribos · 40:57 Tikun HaMedina: Eretz Yisrael Shlemá, mishpat ivri e educação · 1:02:09 Kol HaYehudi e as ações de campo do movimento · 1:13:06 Estatuto, comissão fundadora e dilemas do movimento · 1:32:57 Debate sobre a taxa de 100 shekels · 2:10:35 Votação com três propostas
+FONTES CITADAS: 09:25 Rashi em Shemot 13:8 · 10:44 Bereshit Rabá 1:4 · 12:45 Rashi em Shemot 13:8 · 13:13 Berachot 56b · 14:09 Cabalá: Abba e Ima (Chochmá e Biná) · 14:38 Iyov 28:12 · 15:44 Devarim 4:34 · 17:27 Rashi em Devarim 4:34 · 18:43 Rabi Nachman de Breslev, Sipurei Maasiyot (filho do rei e filho da serva trocados) · 21:41 Mechilta, Beshalach (Shirat HaYam) · 21:46 Shemot 20:15 · 22:31 Rosh Hashaná 11a · 23:17 Shemot 12:2 · 27:10 Yeshayahu 44:2 · 27:23 Devarim 32:15 · 28:10 Shemot 27:20 · 28:44 Devarim 33:5 · 30:13 Devarim 33:26 · 31:24 Bereshit 27:36 · 31:39 Bereshit 25:27 · 32:21 Interpretação clássica do nome Yeshurun · 36:19 Devarim 17:15 · 36:34 Eruvin 13b · 36:48 Zohar sobre "som tasim · 38:20 Tehilim 133:1 · 44:15 Zecharia 14:9 · 46:32 Shemot 15:3 · 1:38:07 Hoshea 3:5
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+1028|1:29:27|של העם.
+1029|1:29:28|אף אחד בעולם לא ייתן לך שקל אחד אם הוא לא יקבל משהו בתמורה.
+1030|1:29:33|תלמיד של העם שמתקיים מהדברים שלו ומאמין במספרים, יהיה מוכן לתת 100 שקל עוד אפילו יותר, כמו
+1031|1:29:39|ששמעתי.
+1032|1:29:40|אבל מי שלא כזה, אתה חייב לתת לו משהו אמיתי, שיתקבל
+1033|1:29:44|אפילו מעט.
+1034|1:29:46|מה אפשר לתת בתו"ח קרוב לצבוע רחב?
+1035|1:29:47|הדבר הראשון והעיקרי, ואולי באמת הקולגותי, זה איזשהו בסיס לזה, זה הלום.
+1036|1:29:51|רצוי שבויים.
+1037|1:29:52|אם קשה, אז אפשר דו-שבויים בהתחלה.
+1038|1:29:56|משהו בסגנון, לא...
+1039|1:29:57|קצת דומה, חשבתי על ארץ ישראל שלנו.
+
+LINHAS A TRADUZIR:
+1040|1:29:59|הלא נפוץ ואקטואלי.
+1041|1:30:02|אם רצוי את העניין של ארץ ישראל, העניין שלנו זה תשובה במובן הרחב.
+1042|1:30:08|אני חושב כללי יותר.
+1043|1:30:12|אם כי כמובן עם חברים טובים שלנו, אני מצטריך לשתף את המדודה.
+1044|1:30:17|בעניין הזה יש חולצה חוץ מעניין ומרתק ובעיקר נוגע.
+1045|1:30:20|‫ניתן להעביר את המסרים ‫וגם לקרוא לפעילות ברבדים נוספים.
+1046|1:30:24|‫זה הניסיון שלנו לגעת בעם.
+1047|1:30:27|‫האספה צריכה להיות כמובן ‫יחסית פשוטה ומובנת, ‫ואני הייתי אומר, ‫כדאי לכתוב בהלום ‫מודעה
+1048|1:30:33|קבועה בנוסח, ‫הצטרפו לתנועת התשובה ‫בראשות הערב יצטלבינסבור, ‫אנחנו נראה
+1049|1:30:39|איזה תמונה של העולם.
+1050|1:30:41|‫אם אין הלום בניסיון אמיתי ‫לגעת בעם ישראל, ‫אז אין מה לדבר על לבקש כסף ‫מהציבור הרחב.
+1051|1:30:47|‫חבל על הזמן.
+1052|1:30:49|‫עוד כמה נקודות קצת צרות, ‫ממש שתי חסקאות.
+1053|1:30:54|‫בקשר לשם, וגם אמרתי את זה.
+1054|1:30:57|‫חשוב מאוד, אני חייב ממש ‫לקרוא לילד בשמו, ‫דיין תנועת התשובה.
+1055|1:31:01|‫יש מדפיק ארגונים פוליטיים ואחרים, ‫ואנחנו זקוקים למשהו ברור ‫שכל אחד יבין במה מדובר.
+1056|1:31:07|‫דרך חיים יכול להיות הרבה דברים, ‫זה שם מאוד יפה וקדוש, ‫אבל יכול להיות הרבה דברים.
+1057|1:31:13|‫פתחתי בגוגל, ‫בצד בשביל דרך חיים זה, ‫ישיבה דתית לאומית, ‫שזה קצת מכירים.
+1058|1:31:18|‫אתר דיור של קופת חולים, ‫נרבו למניעת תאונות דרכים, ‫מכון
+1059|1:31:23|לגמילה מסביב ומכון דיאטה.
+1060|1:31:28|‫זה היה קורה.
+1061|1:31:29|‫-כל נכלל, הכול נכלל.
+1062|1:31:31|‫-כל דבר נכבד יותר חי.
+1063|1:31:33|‫אני חושב שהשם הזה ‫הוא צעיף בגדול.
+1064|1:31:37|‫נשמע שאין לך את זה, ‫מה היה בתנועת התשובה?
+1065|1:31:41|‫הייתי אומר שגם העלות צריכה ‫לתנוע לאור תנועת התשובה.
+1066|1:31:47|עכשיו עוד דבר שחשוב לומר, תנועת התשובה, תנועת התשובה זה דבר
+1067|1:31:53|ברור, כמה דברים, וכל אחד להגיד מה זה תנועת התשובה, תנועת התשובה אף אחד
+1068|1:31:59|לא חושב, לא חושב, לא חושב, לא, אבל תנועת התשובה זה דבר מסית,
+1069|1:32:05|עכשיו דבר נוסף, חשוב שהארגון הוא לא יהיה מזוהה רק
+1070|1:32:11|עם ה...
+1071|1:32:13|החבר'ה שניצר באנשיה, למרות שהם אחרים והכי אידיאליסטים ונכבדים.
+1072|1:32:17|ייצר היא סמל המאבק, לחזית המאבק על ארץ ישראל השלמה,
+1073|1:32:24|אבל עניין התשובה, על כל הנבדים שלו נמצא בכל רחבי הארץ, בעיקר בערים הגדולות והספאנות.
+1074|1:32:30|חייבים לשלב בהנהגה אנשים ממקומות אחרים וסגנונות אחרים.
+1075|1:32:34|כמה שזה יהיה יותר מגוון, יותר מצליח.
+1076|1:32:38|זה דבר ברור.
+1077|1:32:38|אנשים רואים אנשים שדומים להם בהנהגה, אז הם מזדהים איתם.
+1078|1:32:42|‫אם רואים שזה חבר'ה מסוימים, ‫אז מבינים שזו תנועה שלהם.
+1079|1:32:45|‫זה דבר חשוב.

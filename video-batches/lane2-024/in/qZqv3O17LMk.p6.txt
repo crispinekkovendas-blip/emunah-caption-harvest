@@ -1,0 +1,144 @@
+videoId: qZqv3O17LMk
+parte 7 de 9 · traduzir as linhas 720 a 839 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Alimentos que passaram a noite e outros perigos (Nidá 17a)
+RESUMO: A aula parte da Gemará em Nidá 17a, em que Rabi Shimon bar Yochai lista cinco coisas cujo autor "tem o sangue na própria cabeça": alho, cebola ou ovo descascados que passaram a noite, bebidas descobertas e dormir no cemitério. O rabino traz Rashi, o Aruch LaNer (que equipara isso a quem tira a própria vida), o Ben Yehoyada, o Semak, o Peri Chadash e o Shulchan Arukh, e explica as soluções práticas: manter a casca, misturar com outro alimento, cobrir as bebidas e considerar a hora do amanhecer (alot hashachar). Em seguida trata da água morna (kasa dacharashin velo kasa depushrin), da água corrente e da água do Maharil na véspera de Pessach. Depois vem a proibição de cortar árvores (Devarim 20:19-20) com a drashá sobre o talmid chacham, as opiniões do Turei Zahav e de outros poskim, e o midrash sobre as vozes ouvidas de uma ponta a outra do mundo. Passa então a Shabat 129b (levantar-se de repente depois de comer, beber, dormir e sangria), à leitura do Shemá antes de dormir (Zohar, Rabeinu Yerucham, Arizal, a "cama aramita") e, por fim, às restrições ao uso da cana e à história de Rabi Elazar em Taanit. Termina com o costume de deixar correr a água antes de usá-la, por três razões da Gemará em Chulin.
+MOMENTOS: 00:31 Nidá 17a: cinco coisas que põem a vida em risco · 01:12 Alho, cebola e ovo descascados que passaram a noite · 02:29 Bebidas descobertas e dormir no cemitério · 03:33 Rashi e o Aruch LaNer: o rigor do dano a si mesmo · 04:41 Soluções: cascas, mistura e o caso dos bolos de confeitaria · 11:14 Ben Yehoyada e a comparação com os pares de Pessach · 13:46 Vinho descoberto e a posição do Shulchan Arukh · 19:04 Água morna: kasa dacharashin velo kasa depushrin · 25:04 Água corrente e a água de Erev Pessach (Maharil) · 31:39 Não cortar árvores: Devarim 20:19-20 e a drashá · 36:24 Cortar árvore por necessidade: Turei Zahav e outros · 44:48 Shabat 129b: levantar-se de repente e outros perigos · 48:18 Shemá antes de dormir e a cama aramita · 57:13 A cana e a lição de Rabi Elazar sobre ser flexível · 1:00:41 Deixar a água correr antes de usá-la
+FONTES CITADAS: 00:31 Nidá 17a · 01:12 Nidá 17a · 02:29 Nidá 17a · 03:17 Nidá 17a · 03:33 Rashi em Nidá 17a · 03:48 Aruch LaNer em Nidá 17a · 05:16 Semak · 10:50 Nidá 17a · 11:06 Aruch LaNer em Nidá 17a · 11:14 Ben Yehoyada · 11:26 Pesachim 109b-110a · 13:55 Shulchan Arukh, Yoreh Deá 116 · 14:32 Rashi em Nidá 17a · 14:56 Peri Chadash · 19:19 Gemará: kasa dacharashin velo kasa depushrin · 22:22 Rashi sobre tzivá · 26:31 Maharil · 27:21 Maharil · 31:39 Devarim 20:19 · 32:03 Devarim 20:20 · 32:16 Drashá de Rabi Shimon bar Yochai sobre Devarim 20:19 · 33:49 Gemará: adam le'amal yulad · 36:24 Turei Zahav · 36:54 Lechem HaPanim de Rabi Yaakov Rakach · 37:00 Shevut Yaakov · 37:17 Rabeinu Chaim Palagi · 38:27 Midrash sobre as três vozes · 41:13 Rambam · 44:48 Shabat 129b · 46:26 Rambam · 47:25 Shabat 129b · 48:18 Berachot 4b-5a · 49:08 Zohar, Balak · 49:31 Devarim 6:4 · 49:36 Baruch shem kevod malchuto · 50:03 Rabeinu Yerucham · 50:21 Arizal · 51:57 Hamapil · 53:39 Berachot 5a, cama aramita · 53:46 Berachot, história de Rav Papa · 55:08 Chida, vidui de Yom Kipur · 55:40 Berachot · 57:13 Pesachim 112a · 57:59 Gemará sobre a cana · 58:13 Taanit 20a-b, Rabi Elazar · 59:54 Taanit 20a · 1:00:41 Chulin 105b-107b, Rav Huna · 1:01:53 Chulin · 1:02:11 Chulin
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+708|42:25|רעל שממית
+709|42:31|את העץ.
+710|42:31|הוא ישים באדמה רעל שממית את העץ, הוא הורק את העץ, זה אותו דבר.
+711|42:38|אז במקום למות בתוך שעה, הוא ימות בתוך שבוע.
+712|42:44|‫אז מה עשינו?
+713|42:44|הרג, זה הרג וזה הרג.
+714|42:46|‫עכשיו, מישהו הרג בן אדם, על ידי רעל, ‫ולא מיד פעל הרעל,
+715|42:52|לא עליכם, ‫לקח שבוע-שבועיים, ‫זה גם כן נקרא רצח.
+716|42:57|‫היינו אח...
+717|42:59|‫כן.
+718|42:59|‫עוד פעם?
+719|43:02|‫אני מבין כל איזה, ‫זה הכול מפתיע.
+
+LINHAS A TRADUZIR:
+720|43:07|‫כן.
+721|43:07|‫מה צריך?
+722|43:08|‫הגוין עשה בשליח.
+723|43:10|‫מה אכפת לך אתה?
+724|43:12|תן לו, הוא יעשה את מה שיעשה, שילך לעזאזל.
+725|43:16|מה קרה לך?
+726|43:20|נו.
+727|43:23|להעביר עץ למקום אחר בתנאי שימלא את כל ההוראות של
+728|43:29|האגרונום.
+729|43:32|תשאל את האגרונום מה צריך לעשות כדי שלא, כי לא כל אדמה מתאימה
+730|43:38|לאותו עץ.
+731|43:41|‫מה רצית אתה שאול שמה?
+732|43:43|‫עד עכשיו לא הבנתי אותך.
+733|43:45|‫-הוא אמר שנוהגים היום.
+734|43:47|‫אתה שמה, נו.
+735|43:48|‫היום
+736|43:55|מכילה אצלנו.
+737|43:59|‫היום?
+738|43:59|‫אצלנו ניסע כ...
+739|44:04|‫כן.
+740|44:04|‫היה אס פרי של שסק.
+741|44:05|‫אס של?
+742|44:05|‫נו.
+743|44:05|‫לא הסכמתי...
+744|44:06|‫והשסק היה אכילה לאכילה מתאים.
+745|44:12|‫אבל...
+746|44:14|‫-הגרונות, חתרו מסביב ‫עם תרופות, עם סכין,
+747|44:17|‫בטרקטור הרים את זה עם האדמה.
+748|44:23|‫-הרים את זה עם האדמה, נו.
+749|44:24|‫-יפה, נו, אז מה?
+750|44:29|‫מה למדנו מכאן?
+751|44:30|‫-לא צריך...
+752|44:32|‫אפשר את התשובה כזאת, ‫לכבור לחתום אותו.
+753|44:36|‫-בסדר, בסדר.
+754|44:42|הלאה.
+755|44:45|אל תתפשט לנושאים אחרים עכשיו.
+756|44:48|עכשיו, יש עוד גמרא במסכת שבת, דף קכט.
+757|44:52|חמישה דברים, מי שעושה אותם, דמו בראשו.
+758|44:56|אחד, אכל ועמד.
+759|45:00|אבל אכל, אכל, לא סנדוויץ'.
+760|45:03|אכל, רבע פרה.
+761|45:07|ופתאום קופץ עמד.
+762|45:11|יכול למות.
+763|45:12|אמרה מזהירה.
+764|45:14|וכן, דבר שני, מה עשה?
+765|45:16|שתה.
+766|45:17|שתה יין.
+767|45:18|בקבוק יין.
+768|45:20|אבל יין ריזנינק.
+769|45:21|מה, זה האוכל שתה יין?
+770|45:23|קברנק.
+771|45:24|כן.
+772|45:25|זה האוכל שתה יין?
+773|45:26|שתה ועמד.
+774|45:28|הש"י אומר עמד פתאום.
+775|45:31|עוד אחת.
+776|45:32|הישן ועמד.
+777|45:34|איכשהו ישן, בלי להתעורר, קפט מיד.
+778|45:37|מהמיטה.
+779|45:38|מסוכן.
+780|45:39|סכנה.
+781|45:40|אמרה אומר זה סכנה.
+782|45:42|הבנת?
+783|45:43|מה יש עוד?
+784|45:44|אקיז דם בעבד.
+785|45:48|אז אקיז דם זה לא היום מה
+786|45:50|שלוקחים...
+787|45:54|לא, לא תרומת דם, אפילו לא תרומת דם, אבל לוקחים גם בדיקת דם עושים.
+788|46:00|אז זה לא משמעותי, וגם התרומת דם שנותנים, למה?
+789|46:06|כתבו הפוסקים שמה ‫שמדובר שהיו בקיאים אז
+790|46:12|והקזת דם, ‫היו משאירים רק רבעי דם
+791|46:16|‫שהנפש תלויה בו.
+792|46:21|‫אז היו יודעים בדיוק, ‫כמו בזמן הרמב״ם.
+793|46:26|‫כך היו עושים כל חודש אייר, ‫חלופת המזג האוויר, ‫היו
+794|46:32|עושים הקזת דם.
+795|46:34|‫אז הקזת דם הזו שהגמרא מדברת, אסור לעמוד מיד,
+796|46:40|אלא ינוח קצת, יאכל, יטעם, ואנחנו לא בקיאים ברביעית.
+797|46:46|כמה שלא בקיאים, אין בזה בעיה, בסדר?
+798|46:51|אז זה גם כן אדם מזהר, לא להקיץ מישהו פתאום ולהעמיד אותו על
+799|46:57|הרגליים, כי יכול לגרום לו נזק.
+800|47:00|כן.
+801|47:02|אחרי זה יש לנו גמרא בברכות.
+802|47:03|למה?
+803|47:03|מה החמישי?
+804|47:05|החמישי.
+805|47:07|חמישי נעלם.
+806|47:09|סודי.
+807|47:13|סודי.
+808|47:16|כמה זמן זה מתחכות?
+809|47:17|כמה זמן?
+810|47:17|שהתאושש.
+811|47:20|הגמרא במסכת שבת כ"כ"ט.
+812|47:25|אחרי זה אומרת: היזהר האדם לא לחתוך סכין על גב היד.
+813|47:30|הרבה פעמים הנשים רוצות להראות כמה הן דיפלומטיות.
+814|47:35|לוקחות איזה...
+815|47:37|נגיד מנגו, וחותכות שזה על כף היד ככה.
+816|47:41|עכשיו זה מסוכן, למה עסקים פתאום, פתאום
+817|47:47|תזוז, תגיע לתוך כף היד, תחתוך לה, חס ושלום, או לקרשים, מה עשינו?
+818|47:55|כמו שמאי מייסר מאכל דמי אדם.
+819|47:56|אז הגמורה אומרת שאסור לעשות כן.
+820|47:58|למה?
+821|48:00|זה חס ושלום גורם לעצמו סכנה.
+822|48:07|‫לא, אין עניין, רק בזהירות, ‫שלא ייגע בחוץ של ה...
+823|48:12|‫לא ייתן לו את החוץ של השקין.
+824|48:18|‫הגמרה אומרת אחרי זה, ‫מי שישן בלי שאמר קיית
+825|48:24|שמה.
+826|48:26|‫אפילו שהתפללת ערבית ‫וקראת קיית שמה
+827|48:31|וכיוונת, ‫אתה הולך לישון.
+828|48:36|צריך לקרוא כעד שמא לפני השינה.
+829|48:40|מה נקרא כעד שמא לפני השינה?
+830|48:43|מה הוא צריך לקרוא?
+831|48:50|מה?
+832|48:52|מה אתה אומר?
+833|48:53|כעד שמא?
+834|48:53|מה הוא צריך לקרוא?
+835|48:57|אני רוצה מקורות.
+836|49:00|תגידו לי בשם מי.
+837|49:06|יפה.
+838|49:08|אז תדע, תדע שבזוהר הקדוש,
+839|49:14|פרשת בלק, אמר מספיק שיקרא פסוק ראשון.

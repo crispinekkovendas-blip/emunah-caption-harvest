@@ -1,0 +1,130 @@
+videoId: 3Hw5urLKqOo
+parte 1 de 7 · traduzir as linhas 0 a 119 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Torá lishmá e shelo lishmá: como estudar com intenção correta
+RESUMO: O rabino mostra que existe uma tensão entre os textos sobre estudar Torá lishmá, "pelo seu próprio nome", e os que permitem estudar shelo lishmá. Parte de Avot 6:1, de Rabi Chaim Vital e da Gemará "de shelo lishmá se chega a lishmá", e conta a história do Zohar sobre Rabi Aba e o jovem que chorava por não receber recompensa. Em seguida confronta o Zohar Chadash, segundo o qual quem estuda shelo lishmá não ressuscita, com o Zohar de Ki Tetzé e a Gemará de Sotá, e resolve a questão com Rashi e Tosafot: estudar para provocar o outro ou para ter benefício ilícito é proibido, mas estudar para ser rabino ou obter posição é permitido no início, e o Or HaChaim diz para esperar e ver o fim. Depois traz o Rambam e o Rosh, que não admitem viver da Torá, o Chida e o Ramchal, que proíbem estudar para o perdão dos pecados (os pedidos vêm depois do estudo), e os quatro níveis do Ramak, até a intenção correta de agradar ao Criador. Explica por que a Amidá tem pedidos, cita o Sefer HaChinuch e o Rambam sobre a finalidade de estudar, e apresenta a distinção do Chatam Sofer entre lishmá e lesheim shamayim. Termina com a definição de Rabi Alexander Ziskind, nos quatro mundos e nas sefirot: estudar para unir a alma ao mundo de Atzilut, consertar os danos e unificar os nomes sagrados.
+MOMENTOS: 00:35 Avot 6:1 e a objeção de Rabi Chaim Vital · 01:42 Gemará: de shelo lishmá se chega a lishmá · 02:19 Zohar: Rabi Aba e o jovem que chorava · 09:36 Zohar Chadash: quem estuda shelo lishmá não ressuscita · 11:51 Rashi e Tosafot: quando é proibido e quando é permitido · 16:07 Or HaChaim: esperar para ver o fim · 17:43 Rambam e Rosh: não viver da Torá · 21:21 Chida: não estudar para perdão dos pecados · 26:37 Ramchal e a yeshiva Yarim Moshe · 30:51 Os quatro níveis do Ramak · 36:00 Por que a Amidá pede cura e perdão · 41:46 Chatam Sofer: lishmá versus lesheim shamayim · 51:35 Rabi Alexander Ziskind: unir a alma e unificar os nomes
+FONTES CITADAS: 00:43 Avot 6:1 · 01:04 Rabi Chaim Vital sobre Avot 6:1 · 01:42 Pesachim 50b · 02:19 Zohar, Rabi Aba e o jovem que chorava · 02:25 Zohar, Idra · 02:58 Mishlei 3:16 · 04:31 Zohar, Rabi Aba e o jovem · 08:19 Iyov 11:9 · 08:33 Mishlei 8:11 · 09:16 Iyov 28:17 · 09:42 Zohar Chadash · 10:10 Zohar, Parashat Ki Tetzé · 10:35 Sotá 22b · 11:51 Rashi em Berachot · 12:09 Tosafot em Pesachim 50b · 12:55 Berachot 17a · 16:07 Or HaChaim em Vayikra, Parashat Kedoshim · 17:53 Rambam, Hilchot Talmud Torá 3:10 · 19:22 Rosh · 19:29 Ramak (Rabi Moshe Cordovero) · 19:53 Chida em Avot 6:1 · 20:44 Gemará, esposa de um sábio e os filhos · 21:21 Chida · 22:16 Oração após o estudo de Tehilim · 23:10 Bênção da leitura da Torá · 23:54 Baruch She'amar · 24:12 Baruch She'amar · 25:44 Yehoshua 1:8 · 26:37 Rabi Moshe Chaim Luzzatto (Ramchal), yeshiva Yarim Moshe · 30:51 Ramak, quatro níveis do estudo · 33:57 Eicha 1:18 · 36:00 Amidá, bênçãos de cura e perdão · 36:13 Anshei Knesset HaGedolá · 37:43 Selichot · 38:20 Sefer HaChinuch · 38:20 Tehilim 111:10 · 38:43 Sefer Chassidim · 39:14 Rambam, Hilchot Teshuvá 10:5 · 40:41 Ensinamento de um mestre sobre lishmá · 41:46 Chatam Sofer · 44:40 Devarim 6:8 · 46:26 Shulchan Arukh · 48:12 Patach Eliyahu (Tikunei Zohar) · 49:53 Birkot HaShachar · 51:35 Rabi Alexander Ziskind, Yesod VeShoresh HaAvodá · 52:41 Bereshit 2-3 · 53:40 Shemot 3:14
+
+LINHAS A TRADUZIR:
+0|00:01|נו, כן, שלום ודידיה.
+1|00:10|טוב, היום נלמד במעלת
+2|00:15|לימוד תורה, אבל לא סתם תורה.
+3|00:20|צריך ללמוד תורה לשמה.
+4|00:23|ונראה, יש גמרות וגם בזוהר מאמרים שקצת
+5|00:30|מפחידים וצריכים ביאור.
+6|00:35|במסכת אבות בסוף המסכת הוסיפו בריתות
+7|00:40|שמדברות בשבח התורה.
+8|00:43|שם רבי מאיר אומר כל העוסק בתורה לשמה זוכה
+9|00:49|לדברים הרבה ולא עוד אלא
+10|00:54|שנעשה חכם ואריה וגדול וכולי
+11|01:00|וכולי, וגדלתו ומרממתו על כל המעשים.
+12|01:04|רבנו חיים ויטל, אדם השלום, תפס את המשנה הזאת
+13|01:10|ואמר שזה כתב אישום נגד אלה
+14|01:16|שלומדים תורה.
+15|01:18|כי אנחנו רואים הרבה לומדים תורה, והם לא מגיעים מהדרגות האלה.
+16|01:22|שם גדלתו, מרממתו, נשא אותו על כל המעשים.
+17|01:28|‫ונעשה כמעיין המתגבר.
+18|01:31|‫זאת אומרת שלא לומדים תורה לשמה.
+19|01:33|‫אז צריך ללמוד תורה לשמה ‫כדי שיהיה באמת כמעיין
+20|01:39|המתגבר ‫ויהיה גדול מאוד בתורה.
+21|01:42|‫ולכן ראינו מצד שני, ‫בגמרא כתוב,
+22|01:48|‫לעולם יעסוק אדם בתורה ‫אפילו שלא לשמה, ‫שמתוך
+23|01:54|שלא לשמה יבוא לשמה.
+24|01:57|מה זה מתוך?
+25|01:58|זאת אומרת, במשך הזמן יתאם טעם התורה יבוא לשם שמיים.
+26|02:03|כמו שראינו מעשה בזוהר הקדוש, גם הזוהר העריך אותו דבר, וגם כן כתב
+27|02:08|כך.
+28|02:19|זוהר הקדוש מביא על רבי אבא, תלמיד רבי שמעון בר יוחנן, הוא
+29|02:25|היה סופר שכתב את כל השמועות של רבי שמעון ובפרט אדרה
+30|02:31|בה ואדרה זאתה הוא כתב אותם.
+31|02:35|רבי אבא היה לו ישיבה פה בארץ ישראל והנה יום
+32|02:40|אחד היו לומדים אצלו תורה תלמידים והנה נכנס בחור אחד
+33|02:46|צעיר והיה בוכה ובוכה בלי להפסיק
+34|02:52|שואל אותו רבי אבא מה קרה למה אתה בוכה אמר לו שמעתי
+35|02:58|שהתורה כל כך חשובה אורך ימים בימינה בשמאלה עושר
+36|03:04|וכבוד ובספר משנה כמה שיבח שלמה המלך את
+37|03:10|מי שלומד תורה ואני לא זכיתי ללמוד תורה אני רוצה ללמוד תורה
+38|03:17|אמר לו בבקשה בוא טוב שבאת באת לכתובת הנכונה סידר לו שם
+39|03:23|החבר והושיב אותו שם ואמר לו, תתחיל ללמוד תורה, ובאמת ללמוד
+40|03:28|תורה מהבוקר, מהשמורת, עד שקיעת ההמה, ועד
+41|03:34|בכלל, גם בלילה.
+42|03:36|והנה לקראת לילה תלמידים עייפים, הולכים לישון, בלילה לא ערבית, הולכים
+43|03:42|לישון, והנה התלמיד הזה בוכה.
+44|03:47|הגש אליו, אמר לו, מה קרה, לא היית מרוצה מהלימוד?
+45|03:51|אומר, הייתי מרוצה, יופי, אז למה אתה בוכה?
+46|03:55|‫הוא אומר, מה זה למה אני בוכה?
+47|03:56|‫אמרו לי שמי שלומד תורה ‫מקבל שכר
+48|04:02|טוב.
+49|04:04|‫יורד לו זהב מהשמיים, ‫אורך ימים בימינה,
+50|04:09|‫בשמאלה אושר וכבוד, ‫ואני לא ראיתי היום כלום, ‫שום דבר,
+51|04:15|בתמימות.
+52|04:17|‫רבי הבא התחיל לכעוס עליו, ‫התחיל לחשוב ולקבור ‫מה זה לומד
+53|04:23|תורה לא לשמה?
+54|04:25|‫ורצה להעניש אותו.
+55|04:29|‫מה יצאה בת-קול ואמרה לו?
+56|04:31|‫במטוטא מנך, ‫לא תנשה דגברה רבה ליבא,
+57|04:37|‫בבקשה ממך אל תעניש אותו, ‫שהוא יהיה אדם גדול.
+58|04:41|‫ואז בא רבי אבא, ‫אמר לו,
+59|04:47|בסדר, ‫שב עוד כמה רגעים, נהיה לך שכר.
+60|04:51|‫והנה, באמת ככה, ‫אחרי חמש דקות, נכנס איש אחד,
+61|04:58|סוחר, סוחר של כסף וזהב, כדי כסף, כדי זהב, נכנס
+62|05:04|ובוכה לפני רבי אבא.
+63|05:06|אמר לו, מה קרה?
+64|05:08|מה, הייתה תאונה, משהו?
+65|05:09|היום בעוונות רבים הייתה תאונה.
+66|05:12|בלבסוף אין אל סוף התאונות האלה.
+67|05:15|ילד בגיל חמש בעיר ביתר.
+68|05:19|מודיעין.
+69|05:22|מודיעין.
+70|05:23|מודיעין.
+71|05:24|בעיר מודיעין, אי נוח, נהרג, נוסע על,
+72|05:31|איך קוראים לזה?
+73|05:32|קורקינט חשמלי.
+74|05:35|מתי יהיה סוף לזה?
+75|05:37|תגידו לי.
+76|05:39|החרדים האלה, אלה חרדים?
+77|05:43|אני לא מבין מה קורה פה.
+78|05:45|אם יש ספק ספקה של עריות, איזה רעשים, זורקים
+79|05:51|אבנים ומרעישים.
+80|05:53|ומפגינים ספק גילוי עריות.
+81|05:57|כאן שפיכות דמים ואין פוצל פה ומצפצף.
+82|06:03|איך מרשים להורים לתת לילד בגיל חמש ללכת
+83|06:09|בין אוטובוסים בכל מיני כבישים ללכת עם
+84|06:14|קורקינט חשמלי.
+85|06:17|מה זה?
+86|06:18|מה הוא נהג?
+87|06:21|אחר כך אומרי זה משמיים, זה משמיים אתה עשית את זה, האבא
+88|06:27|והאימא, אלה שקנו לו, אוי ואבוי, שפיכות
+89|06:32|דמים, דבר נורא ואיום, על זה צריך לבכות.
+90|06:38|אז נחזור לענייננו, כואב, בגלל שכואב הלב דיברתי על זה, צריך
+91|06:43|למחות.
+92|06:45|בקיצור, אז שאל אותו, למה אתה בוחה?
+93|06:51|אמר לו, אני לא זכיתי לתורה, ואני יודע שאם אדם
+94|06:57|תומך במי שלומד תורה, יש לו חלק בתורה,
+95|07:03|איזה חלק שהוא, ואני רוצה לתמוך במי שילמד תורה.
+96|07:08|אמר לו, יופי, הנה הסיר והנה המכסה.
+97|07:13|עכשיו היה פה הבחור הזה שבחר, ועכשיו באת אתה מהשמיים,
+98|07:19|בן זוג.
+99|07:21|אמר לו כך הנה הוא מהיצרן לצרכן
+100|07:27|זה עכשיו צרח לי באוזניים בכה והנה זה בא עכשיו גם בכה
+101|07:36|נהיה רשימת הבכיינים רשימת צבע שחור
+102|07:42|יעשו ביחד תקימו מפלגה המפלגה ניצחה
+103|07:50|‫איי, איי, איי, איי, נזכנים.
+104|07:54|‫בקיצור,
+105|08:03|מאז עכשיו ללמוד תורה.
+106|08:08|‫ממשיך הזוהר ואומר ‫ליומים על...
+107|08:13|‫המידו דאורייתא.
+108|08:14|‫המידו דאורייתא במאה.
+109|08:19|‫נכנסה אהבת התורה ועמדת התורה ‫במאיים שלו, של הילד, של
+110|08:25|הבחור הזה.
+111|08:27|‫ואז אמר, מה אני עושה, ‫איך אני את התורה שהיא אהבה
+112|08:33|מן הים ‫וארוכה מארץ מידה, ‫וכל חפציך
+113|08:39|לא ישבו בה.
+114|08:41|‫מכרתי אותה בשביל כלי אחד של כסף.
+115|08:44|‫מה זה היה?
+116|08:46|כלי של זהב.
+117|08:47|‫הביא לזה בקבוק זהב.
+118|08:49|‫כמו של אדמו"רים, מכיר את זה?
+119|08:52|‫אני לא ראיתי גם, אבל אומרים ככה.

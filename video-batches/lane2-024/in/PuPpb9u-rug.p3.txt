@@ -1,0 +1,73 @@
+videoId: PuPpb9u-rug
+parte 4 de 4 · traduzir as linhas 360 a 408 (49 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Eliezer, shaliach de Avraham: o dom de tudo a Yitzchak
+RESUMO: O rabino retoma uma sichá do Rebe e explica que Eliezer agiu no shidduch de Yitzchak como shaliach de Avraham, e não como um shadchan independente. Surge então uma dificuldade: segundo Rashi, Avraham escreveu uma escritura de doação de tudo o que possuía a Yitzchak, embora a halachá diga "de tudo o que é seu" e não "todo o seu patrimônio". Isso parece ainda mais estranho porque Avraham ainda teria 35 anos de vida, teria novos filhos com Keturá, e bastaria dar parte da fortuna. Primeiro vem a explicação interior, com "Avraham gerou Yitzchak", o Rashi sobre a semelhança dos rostos e a ideia de que os Patriarcas são a Merkavá. Mas o Rebe exige também uma explicação no nigleh. O ponto central é que o casamento de Yitzchak e Rivka é o primeiro casamento judaico e a origem de todo Israel, de modo que Avraham entregou nele todo o seu ser, como o corpo que depende da cabeça. No nigleh, vale o princípio de que "tudo o que o homem tem, dará por sua alma", e por isso a doação total é aceitável. O rabino conclui que Eliezer, e também nós, somos shlichim que não fazem favor nenhum e devem usar a própria daat, e liga os 35 anos ao ano atual.
+MOMENTOS: 00:21 Eliezer age como shaliach de Avraham, não como shadchan · 01:29 A pergunta: por que Avraham deu tudo a Yitzchak? · 02:55 Não se deve dar tudo: "mikol asher lo" e não "kol asher lo" · 04:58 Mesmo como herança, restavam 35 anos de vida · 06:34 Keturá, novos filhos e as necessidades de Avraham · 08:54 Explicação interior: "Avraham gerou Yitzchak" e os Patriarcas · 11:27 O Rebe exige uma explicação também no nigleh · 12:38 O primeiro casamento judaico e a origem de todo Israel · 17:35 Avraham dá tudo: a cabeça e o corpo · 21:32 No nigleh: dar tudo pela alma, como na tzedaká · 24:27 Avraham age pessoalmente; Ishmael e Eliezer · 27:36 A daat do shaliach e a lição para nós
+FONTES CITADAS: 00:34 Kiddushin 41b · 00:46 Bereshit 24:36 · 02:08 Rashi em Bereshit 24:10 · 03:02 Arachin 28a · 03:26 Vayikra 27:28 · 04:12 Bereshit 21:12 · 04:43 Rashi em Bereshit 24:10 · 05:42 Bereshit 25:7 · 06:48 Bereshit 25:1 · 07:06 Bereshit Rabá 61:4 · 07:15 Bereshit 25:6 · 08:01 Bava Batra 16b · 08:54 Bereshit 25:19 · 09:20 Rashi em Bereshit 25:19 · 10:07 Bereshit Rabá 47:6 · 10:34 Cabalá: Chesed de Avraham e Gevurá de Yitzchak · 13:42 Bereshit 11:29 · 14:25 Bereshit 12:1 · 14:31 Bereshit 17:24 · 16:07 Bereshit 17:5 · 16:40 Bereshit 29:23 · 21:49 Iyov 2:4 · 24:59 Rashi em Bereshit 22:3 · 25:25 Bava Metzia 86b · 27:36 Bereshit 24:2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|26:17|הוא לא שלח פה שליח שהוא מושדך, שהוא אדם נפרד.
+349|26:21|הוא עושה טובה.
+350|26:22|אלא זה אחד כזה שכל מציאותו היא מציאותו של אברהם.
+351|26:27|לכן היה צריך למסור בזה את כל אשר לו.
+352|26:30|הרבי, ועל פי זה ימתק לומר, שאליעזר לא היה בבחינת שדכן מציאות לעצמי,
+353|26:36|אלא בגדר שליח.
+354|26:37|כמו תודה משלח, שזה אברהם.
+355|26:41|מי מת?
+356|26:42|כשם שנתינת כל אשר לו, שזה מה שאברהם נתן בידיו של יצחק, את השטר המתנה, צריכה
+357|26:48|להיות מוחלטת, בלי שום פרט מחוץ לזה.
+358|26:51|אז כדי כך שהרבי יצטרך להחזיר בשולי הגיליון, איך אברהם אבינו בפועל כן יתמנס אחר כך, כן?
+359|26:57|אז הרבי אומר ש...
+
+LINHAS A TRADUZIR:
+360|26:59|הרבי מצחיק על הרבה אפשרויות, במסגרת נמצא את האפשרות, אבל בוודאי שזה לא היה אחרת, כן?
+361|27:05|או שאברהם אבינו ניזון מנכסי יצחק.
+362|27:08|כלומר, בכלל, חשבונו של יצחק.
+363|27:12|או שאברהם אבינו עשה עסקים חדשים.
+364|27:16|גם האפשרות, כן?
+365|27:18|ירדנו ליצרים והיה במצב...
+366|27:21|כן, אז ממילא כך וכך, אברהם אבינו יסתדר בשלושים וחמש שנים הבאות, אבל זה
+367|27:26|באותו רגע, כל כולו נותן את כל מה שיש לו, את כל כולו, לתוך העניין
+368|27:32|הזה, של השליחות של אליעזר.
+369|27:34|זה מה שהוא אומר.
+370|27:36|כך כמובן, גם מנוגע לאליעזר, ובפרט שגם הוא היה חלק מכל השלום, אז גם אליעזר, בתור אחד שהוא
+371|27:42|חלק, שהוא כל השלום של אברהם, צריך להיות חלק מה...
+372|27:47|חלק מההתמסרות המוחלטת של אברהם אבינו לפעולת השליחות
+373|27:52|הזאת.
+374|27:53|ממילא הנפגנה חייבת להיות, כך היא מתבקשת, שכל מציאותו, גם כפי
+375|27:59|שהוא הולך לעשות את השידוך על פי דעתו, תהיה כמו תודה משלח.
+376|28:04|באופן שאין בזה שום מקום לשום מציאות אחרת.
+377|28:06|כאן הרבי משחיל לנו במילה אחת, את העניין הזה שהשליח עושה דברים על פי
+378|28:12|דעתו.
+379|28:12|ובהמשך התחילה הרבי ידגיש שזה עניין עיקרי בשליח.
+380|28:17|שהמשלח מלכתחילה לא אומר לו את כל הפרטים, והשליח חייב להיות בר דעת,
+381|28:24|שיודע לקבל החלטות.
+382|28:27|והעניין הזה של השליחות שהרבי נותן לנו, שזה קבלת ממשיח סיכינו, זה עוד יותר מודגש, כי בשונה,
+383|28:33|הדגשנו את זה בתחילת השיחה, בשונה מכל הוראות השליחות שהיו קודם לכן, שתמיד הרבי ירד
+384|28:38|לרזולוציה של פרטים ופרטי פרטים במשימת השליחות או במבצעים שהרבי עשה,
+385|28:44|בעניין הזה הרבי במפורש ‫השאיר את כל ההחלטה ‫על אופן
+386|28:50|הביצוע בידי השלוחים.
+387|28:51|‫באופן מוצר, רבי, מיד בפתיחת השיחה, ‫הוא אומר שזה מסדר באופן שהצלוחים ‫ידברו ביניהם
+388|28:58|איך לפעול את השליחות היחידה ‫שנותרה עתה לקבל פנימה שהצדקנו.
+389|29:01|‫זאת אומרת, הרבי קובע מהי השליחות, ‫קובע מי צריך לבצע אותה,
+390|29:07|‫זה השלוחים.
+391|29:09|‫אבל מכאן ואילך, איך לעשות את העניין הזה ‫שתכליתו קבלה אחרת של
+392|29:14|הצדקנו, ‫זו המשימה של השלוחים.
+393|29:17|כי פה מודגש שבעצם גם דעתו של אליעזר הופכת להיות חלק מכל השאלות של אברהם אבינו.
+394|29:26|באופן שאין בזה מקום לשום מציאות אחרת, בטח לא מציאות של שדחן, בדוגמת
+395|29:32|שדחן שהוא מציאות לעצמו, ואינו מציאותו דם שלח.
+396|29:35|אם ניקח את זה אלינו, אז תזכור כמה שזה נשמע
+397|29:41|שטותי לומר את זה, אבל זה לא שטותי כי בנפש הבא מי תמיד יכול להיות בדרכות העניין הזה.
+398|29:46|צריך לזכור שאנחנו לא עושים טובה לרבי.
+399|29:48|זאת אומרת, אנחנו לא שדכנים בשום צורה שהיא.
+400|29:52|וכל המציאות שלנו היא מציאות כזו שנובעת מהכוח שהרבי נותן לנו לפעול
+401|29:58|את השליחות, וחלק מזה זה גם זה שאנחנו צריכים להפעיל לבד את
+402|30:04|החושים של היצירתיות וכוח ההחלטה, ומה שבהמשך השיחה הרבי קורא לו
+403|30:10|בר דעת, כדי לדעת לחשוב ואיך לעשות ומה לעשות, לפעול.
+404|30:15|את קבלת בני משיח תתקין בפועל ממש.
+405|30:19|רק כשמפעילים את הדעת הזאת זה בכלל את הדעת לא שלנו.
+406|30:23|גם הדעת היא בצורה לארץ, כן?
+407|30:27|כן, ארץ.
+408|30:29|תודה רבה.

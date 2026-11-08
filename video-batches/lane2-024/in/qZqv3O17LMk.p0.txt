@@ -1,0 +1,130 @@
+videoId: qZqv3O17LMk
+parte 1 de 9 · traduzir as linhas 0 a 119 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Alimentos que passaram a noite e outros perigos (Nidá 17a)
+RESUMO: A aula parte da Gemará em Nidá 17a, em que Rabi Shimon bar Yochai lista cinco coisas cujo autor "tem o sangue na própria cabeça": alho, cebola ou ovo descascados que passaram a noite, bebidas descobertas e dormir no cemitério. O rabino traz Rashi, o Aruch LaNer (que equipara isso a quem tira a própria vida), o Ben Yehoyada, o Semak, o Peri Chadash e o Shulchan Arukh, e explica as soluções práticas: manter a casca, misturar com outro alimento, cobrir as bebidas e considerar a hora do amanhecer (alot hashachar). Em seguida trata da água morna (kasa dacharashin velo kasa depushrin), da água corrente e da água do Maharil na véspera de Pessach. Depois vem a proibição de cortar árvores (Devarim 20:19-20) com a drashá sobre o talmid chacham, as opiniões do Turei Zahav e de outros poskim, e o midrash sobre as vozes ouvidas de uma ponta a outra do mundo. Passa então a Shabat 129b (levantar-se de repente depois de comer, beber, dormir e sangria), à leitura do Shemá antes de dormir (Zohar, Rabeinu Yerucham, Arizal, a "cama aramita") e, por fim, às restrições ao uso da cana e à história de Rabi Elazar em Taanit. Termina com o costume de deixar correr a água antes de usá-la, por três razões da Gemará em Chulin.
+MOMENTOS: 00:31 Nidá 17a: cinco coisas que põem a vida em risco · 01:12 Alho, cebola e ovo descascados que passaram a noite · 02:29 Bebidas descobertas e dormir no cemitério · 03:33 Rashi e o Aruch LaNer: o rigor do dano a si mesmo · 04:41 Soluções: cascas, mistura e o caso dos bolos de confeitaria · 11:14 Ben Yehoyada e a comparação com os pares de Pessach · 13:46 Vinho descoberto e a posição do Shulchan Arukh · 19:04 Água morna: kasa dacharashin velo kasa depushrin · 25:04 Água corrente e a água de Erev Pessach (Maharil) · 31:39 Não cortar árvores: Devarim 20:19-20 e a drashá · 36:24 Cortar árvore por necessidade: Turei Zahav e outros · 44:48 Shabat 129b: levantar-se de repente e outros perigos · 48:18 Shemá antes de dormir e a cama aramita · 57:13 A cana e a lição de Rabi Elazar sobre ser flexível · 1:00:41 Deixar a água correr antes de usá-la
+FONTES CITADAS: 00:31 Nidá 17a · 01:12 Nidá 17a · 02:29 Nidá 17a · 03:17 Nidá 17a · 03:33 Rashi em Nidá 17a · 03:48 Aruch LaNer em Nidá 17a · 05:16 Semak · 10:50 Nidá 17a · 11:06 Aruch LaNer em Nidá 17a · 11:14 Ben Yehoyada · 11:26 Pesachim 109b-110a · 13:55 Shulchan Arukh, Yoreh Deá 116 · 14:32 Rashi em Nidá 17a · 14:56 Peri Chadash · 19:19 Gemará: kasa dacharashin velo kasa depushrin · 22:22 Rashi sobre tzivá · 26:31 Maharil · 27:21 Maharil · 31:39 Devarim 20:19 · 32:03 Devarim 20:20 · 32:16 Drashá de Rabi Shimon bar Yochai sobre Devarim 20:19 · 33:49 Gemará: adam le'amal yulad · 36:24 Turei Zahav · 36:54 Lechem HaPanim de Rabi Yaakov Rakach · 37:00 Shevut Yaakov · 37:17 Rabeinu Chaim Palagi · 38:27 Midrash sobre as três vozes · 41:13 Rambam · 44:48 Shabat 129b · 46:26 Rambam · 47:25 Shabat 129b · 48:18 Berachot 4b-5a · 49:08 Zohar, Balak · 49:31 Devarim 6:4 · 49:36 Baruch shem kevod malchuto · 50:03 Rabeinu Yerucham · 50:21 Arizal · 51:57 Hamapil · 53:39 Berachot 5a, cama aramita · 53:46 Berachot, história de Rav Papa · 55:08 Chida, vidui de Yom Kipur · 55:40 Berachot · 57:13 Pesachim 112a · 57:59 Gemará sobre a cana · 58:13 Taanit 20a-b, Rabi Elazar · 59:54 Taanit 20a · 1:00:41 Chulin 105b-107b, Rav Huna · 1:01:53 Chulin · 1:02:11 Chulin
+
+LINHAS A TRADUZIR:
+0|00:00|איפה היינו אנחנו בעניין
+1|00:07|לא זה היה אתמול אבל שבוע שעבר מה היה
+2|00:14|היה מה
+3|00:20|היה היה היה
+4|00:26|עניינים של שורה עליהם, לא עליכם.
+5|00:31|בקיצור, יש גמרא במסכת נידה, רבי שמעון בר יוחאי,
+6|00:37|כך אמר רבי שמעון בר יוחאי, חמישה דברים, העושה אותם,
+7|00:44|מתחייב, מה?
+8|00:47|מתחייב בנפשו ודמו בראשו.
+9|00:50|כלומר, הדקדקים שאלו, מה זה גם מתחייב בנפשו ודמו
+10|00:56|בראשו?
+11|00:57|כוונה כאילו הוא מתאבד.
+12|01:01|בדמו בראשו, שידונו אותו בשמיים, שגרם
+13|01:07|לעצמו מיטה, ברווינה, ולכן צריך להיזהר בהם.
+14|01:12|האוכל שום כלוף, אם עבר עליו כל הלילה.
+15|01:16|מה זה שום כלוף?
+16|01:18|לא כלף אותו לשעה-שעתיים, אלא השאיר אותו אפילו במקרר
+17|01:24|כלוף כל הלילה, לילה שלם.
+18|01:27|עד ענות השחר, לבצר כלוף, שתיים, שלוש, מה זה
+19|01:33|היה?
+20|01:35|מה?
+21|01:36|ביצה כלופה.
+22|01:39|איזה ביצה?
+23|01:40|קשה?
+24|01:40|רכה?
+25|01:42|היה?
+26|01:43|קשה.
+27|01:46|כל ביצה.
+28|01:47|תגיד כל ביצה.
+29|01:48|אם תתחיל להגיד לי זה, זה, זה, זה, אז אנחנו מסתמכים.
+30|01:53|כל ביצה שהשאיר אותה ‫שהיא לא מעורבת עם משהו
+31|01:59|אחר, ‫זה נקרא שורה עליו רוח רע.
+32|02:04|‫אבל אם הביצה מעורבת עם משהו, ‫ואפילו, יש אומרים, ‫מעט
+33|02:10|מלח שם עליה, ‫אין בזה בעיה.
+34|02:14|‫הבנת?
+35|02:16|כן.
+36|02:17|‫אחר כך, מה יש עוד?
+37|02:18|‫יש שלוש דברים.
+38|02:19|‫יש דבר רביעי, מהו?
+39|02:22|‫מה זה הרביעי?
+40|02:24|אה?
+41|02:29|‫משקים לא יין ולא מים, כל המשקים.
+42|02:34|‫אל תעשה לי פה סניפים.
+43|02:38|‫כל משקה שהיה מגולה בלילה, ‫לילה שלם גם כן שורה עליו רוח רעה.
+44|02:41|‫יש לו חומרה רגועה שובה על התאים.
+45|02:43|‫מה, מה?
+46|02:44|‫-יש לו חומרה רגועה שובה על התאים.
+47|02:45|‫מה יש לו?
+48|02:46|‫-המים, יש להם חומרה כמו על
+49|02:54|התאים.
+50|02:54|‫-יצא?
+51|02:58|הכול, אותו דבר.
+52|03:00|חכה עוד מעט אנחנו נגיע גם לשלח שלך.
+53|03:02|אז...
+54|03:02|מה?
+55|03:03|שואלים אם אפשר לדאוג
+56|03:10|ידיים עם המים...
+57|03:11|אסור, אסור.
+58|03:13|צריך שיהיה מכוסה.
+59|03:15|המשקיעים מגולים.
+60|03:17|והלן בבית הקברות.
+61|03:21|הלך לישון שמה, דבר עם המתים.
+62|03:25|שורה עליו רוח רעה, מרבינן, מתחייב בנפשו ודמו בראשו.
+63|03:32|קיצור, הבנת?
+64|03:33|אז רש"י אומר, דמו בנפשו, הכוונה, ידרשו
+65|03:39|ממנו את דמו הזה שמת גם ידונו אותו.
+66|03:44|למה גרם לעצמו את כל זה?
+67|03:48|הרב ערוך לנר כותב שיש לו דין מאבד עצמו לדעת.
+68|03:54|כמו מאבד עצמו לדעת, אין לו חלק לעולם הבא, כך זה גם כן, חס ושלום.
+69|04:01|אם קרה לו איזה מקרה, אין לו חלק לעולם הבא.
+70|04:04|עכשיו יש לנו שאלה, מה עושים?
+71|04:09|בוא נתחיל עם שום כלוא, היום מוכרים מלא שומים כלופים, על מה הם
+72|04:15|סומכים?
+73|04:17|על השערות, על השום.
+74|04:18|איזה שערות?
+75|04:18|לא הבנתי.
+76|04:20|שום יש לו שערות?
+77|04:20|כן, כן, על השורשים.
+78|04:22|מה, הוא בן אדם?
+79|04:25|‫אז
+80|04:35|סומכים על...
+81|04:39|‫לא, מה שיש למטה, הוא צודק.
+82|04:41|‫מה שיש כמו שורשים שלו, ‫יוצא ממנו כמו שיער
+83|04:46|כזה, ‫זה נקרא משהו או קליפה.
+84|04:52|ואם אדם בבית חילפו שומים או בצלעים כדי להכין
+85|04:58|מחר לעשות מזה כל מיני שמאטס, אז מה הדין?
+86|05:04|מה עושים?
+87|05:06|ייקח קליפות של שום וישים על השום.
+88|05:12|לא צריך לכסות לגמרי, אלא מספיק כמה קליפות.
+89|05:16|וייקח קליפות של בצל, ישים על הבצל, כך כתב
+90|05:21|הסמ"ק.
+91|05:23|וגם בביצה ישים קליפות של ביצים עליהם, זה מועיל.
+92|05:29|או ישים סוכר או בלח על הביצה, או ביצה
+93|05:34|מקושקשת ששם שם כל מיני ירקות וכדומה, פיזר עליהם
+94|05:40|מלמעלה, מועיל.
+95|05:42|אבל עכשיו תדעו, יש לנו בעיה עם
+96|05:47|העוגות שאנשים קולים ואוכלים, מביאים מבית הכנסת, עוגות.
+97|05:53|למה?
+98|05:54|מה יש בעוגות האלה?
+99|05:57|אתה היית במגדניה פעם?
+100|05:59|נכנסת לראות?
+101|06:03|אתה יודע מה יש שם בפנים?
+102|06:06|יש שם מקררים, בתוך המקרר, דליים שלמים של צבעי
+103|06:11|טמבור.
+104|06:13|אז התפלאתי, חשבתי שהם צובעים משהו או שהם יהיו סוכנים.
+105|06:18|הוא אומר, לא, זה ביצים.
+106|06:20|ראיתי, יש ביצים שמה קלופות.
+107|06:23|הם מזמינים את זה ישר מהשטח, ביצה קלופה, יש
+108|06:29|להם 200-300 ביצים ב-D.
+109|06:32|אז מה עושים עכשיו?
+110|06:35|ועוד זה סגור, לא, זה מועיל סגור?
+111|06:38|בפירוש כתוב שלא מועיל, שום סגירה.
+112|06:41|אפילו קופסה בחזל, לא מועיל.
+113|06:44|אז מה הם עושים?
+114|06:45|הם כותבים שמה תאריך, בשעה.
+115|06:48|והתאריך היה שלפני שבועיים.
+116|06:51|זאת אומרת, ארבע עשר יום עבר עליו, לא לילה אחד, ארבע עשר
+117|06:57|לילות, אולי חמישה עשר גם.
+118|06:59|נו, אז מה עושים עכשיו?
+119|07:02|ואנשים אוכלים את העוגות האלה.

@@ -1,0 +1,64 @@
+videoId: Ei1SKwvqGAs
+parte 30 de 45 · traduzir as linhas 1160 a 1199 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Nisan, Yeshurun e a criação do movimento Derech Chaim
+RESUMO: O rabino abre, no Rosh Chodesh Nisan, com o Rashi sobre "pode ser desde Rosh Chodesh?" (Rashi em Shemot 13:8). Ele distingue as etapas de yecholet (capacidade), "em potencial" e "em ato", e liga isso à ideia de que o pensamento de Israel precede até a Torá (Midrash Bereshit Rabá). Em seguida explica que Nisan é "nissei nissim" (Berachot): "nes" vem de Chochmá/Abba, enquanto "nisui", em "HaNissá Elokim" (Devarim 4:34), vem de Biná/Ima, ligado ao conto de Rabi Nachman sobre a parteira e à discussão entre Rabi Yehoshua e Rabi Eliezer (Rosh Hashaná 11a). Depois trata do nome Yeshurun nos versículos de Devarim 32:15, 33:5 e 33:26 e em Yeshayahu 44:2, com a guematria que o iguala a Mashiach ben Yosef, e lê "VaYehi viYeshurun melech" nos dois sentidos, de cima para baixo e de baixo para cima. Retoma os pontos do livro "Tikun HaMedina" (Eretz Yisrael Shlemá, mishpat ivri e educação da Torá) como mensagem do movimento. A parte final, conduzida por seus alunos, apresenta o site Kol HaYehudi, as ações de campo, o estatuto e a comissão fundadora, e abre um debate sobre a taxa de 100 shekels, que termina numa votação com três opções.
+MOMENTOS: 09:25 Yachol me-Rosh Chodesh: capacidade, potencial e ato · 10:40 O pensamento de Israel precede a própria Torá · 13:06 Nisan como "nissei nissim": nes e Chochmá · 15:44 "HaNissá Elokim": nisui, Biná e a parteira de Rabi Nachman · 21:34 Nisan e Sivan: ver e ouvir, Abba e Ima · 22:25 Rabi Yehoshua e Rabi Eliezer: Nisan ou Tishrei · 25:39 O nome Yeshurun e suas aparições na Torá · 32:44 Guematria: Yeshurun é Mashiach ben Yosef · 35:51 "VaYehi viYeshurun melech": o rei, os líderes e as tribos · 40:57 Tikun HaMedina: Eretz Yisrael Shlemá, mishpat ivri e educação · 1:02:09 Kol HaYehudi e as ações de campo do movimento · 1:13:06 Estatuto, comissão fundadora e dilemas do movimento · 1:32:57 Debate sobre a taxa de 100 shekels · 2:10:35 Votação com três propostas
+FONTES CITADAS: 09:25 Rashi em Shemot 13:8 · 10:44 Bereshit Rabá 1:4 · 12:45 Rashi em Shemot 13:8 · 13:13 Berachot 56b · 14:09 Cabalá: Abba e Ima (Chochmá e Biná) · 14:38 Iyov 28:12 · 15:44 Devarim 4:34 · 17:27 Rashi em Devarim 4:34 · 18:43 Rabi Nachman de Breslev, Sipurei Maasiyot (filho do rei e filho da serva trocados) · 21:41 Mechilta, Beshalach (Shirat HaYam) · 21:46 Shemot 20:15 · 22:31 Rosh Hashaná 11a · 23:17 Shemot 12:2 · 27:10 Yeshayahu 44:2 · 27:23 Devarim 32:15 · 28:10 Shemot 27:20 · 28:44 Devarim 33:5 · 30:13 Devarim 33:26 · 31:24 Bereshit 27:36 · 31:39 Bereshit 25:27 · 32:21 Interpretação clássica do nome Yeshurun · 36:19 Devarim 17:15 · 36:34 Eruvin 13b · 36:48 Zohar sobre "som tasim · 38:20 Tehilim 133:1 · 44:15 Zecharia 14:9 · 46:32 Shemot 15:3 · 1:38:07 Hoshea 3:5
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+1148|1:36:11|הכושי.
+1149|1:36:12|‫אני הצעתי, בואו נדבר על כסף עכשיו.
+1150|1:36:15|‫-בכן זה מודה רבה, ‫אבל נדבר על כסף עכשיו.
+1151|1:36:17|‫עכשיו, מה בכלל, ‫הכי ככה עשית מה כנראה, ‫פתאום הכול, אל תבואו ככה.
+1152|1:36:23|‫שנית משהו חזר, ‫וגם כמה חיפים קודם, ‫הוא העברה
+1153|1:36:28|לאחד מהדברים ‫זה מאשים אתר חזק, ‫לא
+1154|1:36:34|הכול היום, מאתר
+1155|1:36:39|חזק.
+1156|1:36:42|זה שאתה נותן תמונה שאתה מקבל זה
+1157|1:36:48|פשוט הכי טוב, כן?
+1158|1:36:49|שצריך לתת, שצריך לתת עד לא ממש במאה אחוז.
+1159|1:36:53|אני חושב שזה קדמות במה ששמענו את הכסף.
+
+LINHAS A TRADUZIR:
+1160|1:36:58|בסדר, אז צריך להסביר שזה...
+1161|1:37:04|הכסף זה באמת להצביע אותנו על הכסף, אבל הרעיון ‫שאם
+1162|1:37:09|דיברנו על נקודות של ‫מה המסר שלנו והמסר שלנו, ‫אז ודאי שזה חייב לצאת.
+1163|1:37:13|‫זה, בלי זה אין כלום.
+1164|1:37:15|‫חייב לצאת, צריך להיות משהו אחר, ‫איזה כלי
+1165|1:37:22|חדש להוציא את המסר.
+1166|1:37:23|‫אני חושב שאם זה קוראים לזה ‫דרך חייב מאוד תנועת התשובה, ‫זה
+1167|1:37:29|גם כן אפשר לדון כאן.
+1168|1:37:32|‫מרוב שה...
+1169|1:37:33|‫-אלון.
+1170|1:37:33|לא?
+1171|1:37:33|‫-אלון.
+1172|1:37:34|מה ידבר אלון?
+1173|1:37:36|‫אלון יכול לדבר על יאיר ואחד מאבי.
+1174|1:37:39|אתה יכול להתרכז בדבר אחד, בדבר הזה, לא מספיק ברור.
+1175|1:37:43|היה כאן במצגת כמה דברים, ויש כאן הצעה כמו התשובה, שזה נראה לי דבר לגמרי כוללני,
+1176|1:37:49|והשאלה פשוטה, למה רוצים לשוב?
+1177|1:37:52|אפשר לשוב ולהיות דתי.
+1178|1:37:53|אז יש כבר הרבה דתיים, חרדים, וכל מידי דתיים, וכל אחד יש לו את התשובה שלו, הוא רוצה שכולם
+1179|1:37:58|ישובו אליו.
+1180|1:38:00|בקיצור, לשוב אל השם אלוקינו.
+1181|1:38:01|אני אומר שזה היה דבר מאוד חשוב, שצריך לדעת שלא מדובר כאן בלשוב אל השם אלוקינו, אלא לשוב
+1182|1:38:07|אל דוד מלכם.
+1183|1:38:09|מדובר על התשובה השנייה, כמו שחז"ל אומרים.
+1184|1:38:13|עכשיו הוא אומר שיהודים, כל מה שיש עד היום, כלומר, התשובה ובכלל, אז יש,
+1185|1:38:19|כולם מבינים מה זה לשוב, חושבים שמבינים, מה זה לשוב אלי אל השם אלוקינו, אבל
+1186|1:38:25|כמעט אף אחד לא מבין שצריך לשוב, אחרי שכבר שבת אל השם, אז צריך לשוב אל דוד מלכה, אתה לא
+1187|1:38:31|צריך לחזור אל המציאות, אל מלכות, אל מדינה, ובדבר הזה כאן שמענו כמה דברים שקשורים לזה.
+1188|1:38:37|אבל את העיקר כמעט לא מדובר עליו.
+1189|1:38:40|מה אתה היית עושה אם היית דוד אבית, אם היית היום מגיע לשלטון?
+1190|1:38:45|אתה לא תגיע אף פעם לשלטון, לא תחשוב קודם מה הייתי עושה היום אם הייתי
+1191|1:38:50|מגיע לשלטון.
+1192|1:38:51|אז זה לא מספיק שיש לך רעיון אחד או שתיים כללי, אתה צריך לתת תשובות רציניות מאוד על
+1193|1:38:57|כל השאלות שנמצאים בחלל.
+1194|1:38:59|תשובות, לתת תשובות, וזה גם הדוברות.
+1195|1:39:03|וככה אתה יכול לדבר אל עצמו, להגדיר את עצמך היטב.
+1196|1:39:07|ולדעתי כאן אנחנו לומדים, בדיוק התשובה של אנשים ששבו כבר אל השם אלוקיהם,
+1197|1:39:13|או שכבר יודעים לפחות במה מדובר, שמחליטים להיכנס לנושא הזה של
+1198|1:39:19|מדינה, של מלכות, מה שעד היום, למרבה הפלא, אין שום מפלגה ושום חוג, שהוא
+1199|1:39:25|לא טוען שיש בכלל מדינה אחרת, שהיה שם רוצה מדינה,

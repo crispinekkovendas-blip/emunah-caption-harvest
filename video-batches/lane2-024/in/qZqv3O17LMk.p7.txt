@@ -1,0 +1,144 @@
+videoId: qZqv3O17LMk
+parte 8 de 9 · traduzir as linhas 840 a 959 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Alimentos que passaram a noite e outros perigos (Nidá 17a)
+RESUMO: A aula parte da Gemará em Nidá 17a, em que Rabi Shimon bar Yochai lista cinco coisas cujo autor "tem o sangue na própria cabeça": alho, cebola ou ovo descascados que passaram a noite, bebidas descobertas e dormir no cemitério. O rabino traz Rashi, o Aruch LaNer (que equipara isso a quem tira a própria vida), o Ben Yehoyada, o Semak, o Peri Chadash e o Shulchan Arukh, e explica as soluções práticas: manter a casca, misturar com outro alimento, cobrir as bebidas e considerar a hora do amanhecer (alot hashachar). Em seguida trata da água morna (kasa dacharashin velo kasa depushrin), da água corrente e da água do Maharil na véspera de Pessach. Depois vem a proibição de cortar árvores (Devarim 20:19-20) com a drashá sobre o talmid chacham, as opiniões do Turei Zahav e de outros poskim, e o midrash sobre as vozes ouvidas de uma ponta a outra do mundo. Passa então a Shabat 129b (levantar-se de repente depois de comer, beber, dormir e sangria), à leitura do Shemá antes de dormir (Zohar, Rabeinu Yerucham, Arizal, a "cama aramita") e, por fim, às restrições ao uso da cana e à história de Rabi Elazar em Taanit. Termina com o costume de deixar correr a água antes de usá-la, por três razões da Gemará em Chulin.
+MOMENTOS: 00:31 Nidá 17a: cinco coisas que põem a vida em risco · 01:12 Alho, cebola e ovo descascados que passaram a noite · 02:29 Bebidas descobertas e dormir no cemitério · 03:33 Rashi e o Aruch LaNer: o rigor do dano a si mesmo · 04:41 Soluções: cascas, mistura e o caso dos bolos de confeitaria · 11:14 Ben Yehoyada e a comparação com os pares de Pessach · 13:46 Vinho descoberto e a posição do Shulchan Arukh · 19:04 Água morna: kasa dacharashin velo kasa depushrin · 25:04 Água corrente e a água de Erev Pessach (Maharil) · 31:39 Não cortar árvores: Devarim 20:19-20 e a drashá · 36:24 Cortar árvore por necessidade: Turei Zahav e outros · 44:48 Shabat 129b: levantar-se de repente e outros perigos · 48:18 Shemá antes de dormir e a cama aramita · 57:13 A cana e a lição de Rabi Elazar sobre ser flexível · 1:00:41 Deixar a água correr antes de usá-la
+FONTES CITADAS: 00:31 Nidá 17a · 01:12 Nidá 17a · 02:29 Nidá 17a · 03:17 Nidá 17a · 03:33 Rashi em Nidá 17a · 03:48 Aruch LaNer em Nidá 17a · 05:16 Semak · 10:50 Nidá 17a · 11:06 Aruch LaNer em Nidá 17a · 11:14 Ben Yehoyada · 11:26 Pesachim 109b-110a · 13:55 Shulchan Arukh, Yoreh Deá 116 · 14:32 Rashi em Nidá 17a · 14:56 Peri Chadash · 19:19 Gemará: kasa dacharashin velo kasa depushrin · 22:22 Rashi sobre tzivá · 26:31 Maharil · 27:21 Maharil · 31:39 Devarim 20:19 · 32:03 Devarim 20:20 · 32:16 Drashá de Rabi Shimon bar Yochai sobre Devarim 20:19 · 33:49 Gemará: adam le'amal yulad · 36:24 Turei Zahav · 36:54 Lechem HaPanim de Rabi Yaakov Rakach · 37:00 Shevut Yaakov · 37:17 Rabeinu Chaim Palagi · 38:27 Midrash sobre as três vozes · 41:13 Rambam · 44:48 Shabat 129b · 46:26 Rambam · 47:25 Shabat 129b · 48:18 Berachot 4b-5a · 49:08 Zohar, Balak · 49:31 Devarim 6:4 · 49:36 Baruch shem kevod malchuto · 50:03 Rabeinu Yerucham · 50:21 Arizal · 51:57 Hamapil · 53:39 Berachot 5a, cama aramita · 53:46 Berachot, história de Rav Papa · 55:08 Chida, vidui de Yom Kipur · 55:40 Berachot · 57:13 Pesachim 112a · 57:59 Gemará sobre a cana · 58:13 Taanit 20a-b, Rabi Elazar · 59:54 Taanit 20a · 1:00:41 Chulin 105b-107b, Rav Huna · 1:01:53 Chulin · 1:02:11 Chulin
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|48:36|צריך לקרוא כעד שמא לפני השינה.
+829|48:40|מה נקרא כעד שמא לפני השינה?
+830|48:43|מה הוא צריך לקרוא?
+831|48:50|מה?
+832|48:52|מה אתה אומר?
+833|48:53|כעד שמא?
+834|48:53|מה הוא צריך לקרוא?
+835|48:57|אני רוצה מקורות.
+836|49:00|תגידו לי בשם מי.
+837|49:06|יפה.
+838|49:08|אז תדע, תדע שבזוהר הקדוש,
+839|49:14|פרשת בלק, אמר מספיק שיקרא פסוק ראשון.
+
+LINHAS A TRADUZIR:
+840|49:19|וככה אנחנו אומרים לילדים הקטנים, ילד קטן שבקושי הוא מדבר, אני
+841|49:25|אומר לו תגיד שמע ישראל שמה, לא שמה, שמע
+842|49:31|ישראל, אדוני אלוהינו, אדוני אחד.
+843|49:36|ברור, שם, כבוד, מלכותו, לעולם ועד.
+844|49:40|נכון?
+845|49:41|לילה טוב, חלומות נעימים.
+846|49:47|כן?
+847|49:48|אז הוא ישן.
+848|49:49|כך אומר רבי שמעון בר יוחאי, והוא פלא.
+849|49:54|באו הפוסקים ואומרים, רגע, מה קורה כאן?
+850|49:58|הלו, עליו השלום, רבנו ירוחם.
+851|50:03|אחד מגדולי הפוסקים היה.
+852|50:05|‫כתב שכיוון שיש לאדם ‫רמח איברים ושסה
+853|50:11|גידים, ‫צריך לקרוא רמח תיבות, ‫כמו קראת שמה של
+854|50:16|שחרית ושל ערבית.
+855|50:19|‫אז למה הוא אומר ככה?
+856|50:21|‫בא רבנו הארי ואומר ‫שרבן שמעון בר-לוחי דיבר
+857|50:27|בזמנם.
+858|50:27|‫בזמנם לא היה צרות הרבה ‫כמו שיש היום, ‫אז היה מספיק
+859|50:34|שיגיד...
+860|50:34|‫פסוק ראשון, ובזה הוא ניצל ‫מכל
+861|50:39|המזיקים והמקטרגים.
+862|50:42|‫אבל בימינו...
+863|50:44|‫-גם רוחני,
+864|50:51|אבל זה לא רק קצר ‫מה?
+865|50:52|‫רוחני, כן, כן, כן, רוחני.
+866|50:54|‫כן, הרי מה שקורה בפיזי זה ‫בגלל שיש
+867|51:00|ברוחני, כן.
+868|51:02|למה האיראנים קמו עלינו?
+869|51:05|כי השטן קם, זה לא הם.
+870|51:09|הבנת?
+871|51:11|הרי היה מסרים, אתה זוכר את המצרים?
+872|51:14|זה לא בזמנך, עוד לא נולדת.
+873|51:17|מה היו עושים?
+874|51:17|בדיון.
+875|51:19|הלכו המצרים, באו הירדנים, הלכו הירדנים, באו הפלסטינים.
+876|51:24|אחמד שוקרי, אתה זוכר אותו?
+877|51:27|יימח שמו וזם עמו.
+878|51:30|היה נואם באו"ם כל שנה, כולם היה צוחק מגלגלים וצחוק.
+879|51:36|איפה הוא?
+880|51:37|סת רבו מאד.
+881|51:40|נהיה עפר ואפר.
+882|51:43|אבל צומח אחר.
+883|51:47|הבנת?
+884|51:48|קלקל בג'יובו, אומרים.
+885|51:52|אז תדע, יש שטן.
+886|51:55|לכן, מה אומר התפילה?
+887|51:57|חתם פה שטן!
+888|51:59|וישן
+889|52:08|על מיתה של ארמית.
+890|52:15|מה זה ישן על מיתה של ארמית?
+891|52:20|מה?
+892|52:21|מה?
+893|52:22|מה כתוב בגמרא?
+894|52:26|מה היה, עם מי, מה, מו, הכל מהאמצע, הכל מהאמצע.
+895|52:33|עם רבי יהושע נראה לי.
+896|52:34|רבי יהושע, כן, תחפש בספר השמות.
+897|52:35|בתי מלון.
+898|52:35|מה, מה?
+899|52:36|בית מלון, בן אדם ישנו בבית מלון,
+900|52:40|זה
+901|52:48|היה לפני איזה רוחמד יש לנו בגיטה הזאת, או אחת מהטמפיות שאומרים על ה...
+902|52:50|אבל מה אתה מביא מלון לכאן?
+903|52:51|מלון זה בינלאומי, זה לכל העולם.
+904|52:54|אבל הוא מדבר על מיטה פרטית.
+905|52:57|הוא לא מדבר על מיטה ציבורית, ובצבא שהוא ישן, מה יהיה איתו?
+906|53:05|כולם יהודים שם?
+907|53:07|כן, היית?
+908|53:08|בנקת?
+909|53:10|תפסיק, בחייך.
+910|53:13|מה, אתה נהיית רפורמי, חס ושלום?
+911|53:17|נו, הלאה.
+912|53:20|אז מיטה ארמית...
+913|53:23|יש אומרים שהכוונה שישן בלי קריאת שמע נקרא ישן המיטה הארמית.
+914|53:30|מסרת נשמה שלו בידי סיתרא אחרא.
+915|53:35|הבנת?
+916|53:36|אבל הגמרא אומרת שזה גם כמשמעו.
+917|53:39|למה?
+918|53:39|הגמרא מביאה את המעשה שידידיה אמר.
+919|53:42|מה ידידיה אמר?
+920|53:44|הוא חיפש שם.
+921|53:46|אז תדע לך, שם בגמרא כתוב, היה רב פאפא.
+922|53:51|רב פאפאי הגיעה לאיזה אכסניה והיא אמרה לו יימח שמה תשב
+923|53:57|אמרה לו לא קודם תרימי את המזרן הרימה את המזרן
+924|54:03|מצא תינוק מת שמה אז היא רצתה להעלים עליו שהוא
+925|54:09|ישב על המיטה והוא הרג את הילד הבנת?
+926|54:14|אז לכן הגמרא אומרת תיזהר אז זה היה מצוי בזמנם אבל היום בימינו
+927|54:20|הכוונה, אדם שישן בלי קריאת שמא ומסר
+928|54:24|את הנשמה שלו בידי סטראחה.
+929|54:30|עכשיו קורה, עכשיו אחרי השיעור, אדם הולך הביתה עייף מכל
+930|54:36|היום, אז הוא שוכב במיטה, נרדם, מסור.
+931|54:42|לכן, אם הוא שוכב במיטה ויכול להיות שילדיהם מניסיון הוא יודע,
+932|54:48|אז הוא יגיד קריאת שמא.
+933|54:54|‫לא משנה מתי, הוא הולך עכשיו, ‫הולך את המיטה, רוצה, ‫אומר, אני נח חצי
+934|54:59|דקה, חצי שעה.
+935|55:02|‫בסוף הוא נרדם ארבע שעות, ‫אז הוא צריך מראש לומר קריאת שמה.
+936|55:08|‫ואכן הרב חידק כתב בווידוי של יום הכיפורים, ‫ישנו
+937|55:14|בלי אמירת קריאת שמה.
+938|55:17|‫צריך להיזהר, בסדר?
+939|55:19|‫אז אם כן, היזהר בזה, ‫מיטה ארמית זה נקרא.
+940|55:24|וכן, מה מה?
+941|55:32|הגמרא כבר אמרה שאסור לבוא לבית והוא לא יתפלל
+942|55:38|להחזיק, מה אמרה הגמרא?
+943|55:40|כי כך דרכו של אדם, אומר אני אוכל קמאה, אשתה קמאה,
+944|55:47|אנוח קמאה ואחר כך אגיקי אשמה ונמצא ישן עד סוף הלילה.
+945|55:52|אתה יכול להגיד, ברכת המפעיל, יש לנו
+946|55:55|מלכות?
+947|55:59|כן, כן, כן.
+948|56:02|צריך להגיד.
+949|56:03|אם
+950|56:12|הוא לא נרדם.
+951|56:13|לא ידע, אז ידע עכשיו.
+952|56:14|מי שלא יודע, שידע.
+953|56:16|אם הוא לא נרדם.
+954|56:18|מה זה לא נרדם?
+955|56:21|אי אפשר לדעת.
+956|56:30|שאלתי את השאלה הזאת בזמנו את מרן רבנו עובדיה.
+957|56:35|אמר לי שינה לא ביד האדם, פטור.
+958|56:39|ככה ענה לי.
+959|56:41|בפרקת השבע.

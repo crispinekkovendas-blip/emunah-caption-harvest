@@ -1,0 +1,144 @@
+videoId: qZqv3O17LMk
+parte 2 de 9 · traduzir as linhas 120 a 239 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Alimentos que passaram a noite e outros perigos (Nidá 17a)
+RESUMO: A aula parte da Gemará em Nidá 17a, em que Rabi Shimon bar Yochai lista cinco coisas cujo autor "tem o sangue na própria cabeça": alho, cebola ou ovo descascados que passaram a noite, bebidas descobertas e dormir no cemitério. O rabino traz Rashi, o Aruch LaNer (que equipara isso a quem tira a própria vida), o Ben Yehoyada, o Semak, o Peri Chadash e o Shulchan Arukh, e explica as soluções práticas: manter a casca, misturar com outro alimento, cobrir as bebidas e considerar a hora do amanhecer (alot hashachar). Em seguida trata da água morna (kasa dacharashin velo kasa depushrin), da água corrente e da água do Maharil na véspera de Pessach. Depois vem a proibição de cortar árvores (Devarim 20:19-20) com a drashá sobre o talmid chacham, as opiniões do Turei Zahav e de outros poskim, e o midrash sobre as vozes ouvidas de uma ponta a outra do mundo. Passa então a Shabat 129b (levantar-se de repente depois de comer, beber, dormir e sangria), à leitura do Shemá antes de dormir (Zohar, Rabeinu Yerucham, Arizal, a "cama aramita") e, por fim, às restrições ao uso da cana e à história de Rabi Elazar em Taanit. Termina com o costume de deixar correr a água antes de usá-la, por três razões da Gemará em Chulin.
+MOMENTOS: 00:31 Nidá 17a: cinco coisas que põem a vida em risco · 01:12 Alho, cebola e ovo descascados que passaram a noite · 02:29 Bebidas descobertas e dormir no cemitério · 03:33 Rashi e o Aruch LaNer: o rigor do dano a si mesmo · 04:41 Soluções: cascas, mistura e o caso dos bolos de confeitaria · 11:14 Ben Yehoyada e a comparação com os pares de Pessach · 13:46 Vinho descoberto e a posição do Shulchan Arukh · 19:04 Água morna: kasa dacharashin velo kasa depushrin · 25:04 Água corrente e a água de Erev Pessach (Maharil) · 31:39 Não cortar árvores: Devarim 20:19-20 e a drashá · 36:24 Cortar árvore por necessidade: Turei Zahav e outros · 44:48 Shabat 129b: levantar-se de repente e outros perigos · 48:18 Shemá antes de dormir e a cama aramita · 57:13 A cana e a lição de Rabi Elazar sobre ser flexível · 1:00:41 Deixar a água correr antes de usá-la
+FONTES CITADAS: 00:31 Nidá 17a · 01:12 Nidá 17a · 02:29 Nidá 17a · 03:17 Nidá 17a · 03:33 Rashi em Nidá 17a · 03:48 Aruch LaNer em Nidá 17a · 05:16 Semak · 10:50 Nidá 17a · 11:06 Aruch LaNer em Nidá 17a · 11:14 Ben Yehoyada · 11:26 Pesachim 109b-110a · 13:55 Shulchan Arukh, Yoreh Deá 116 · 14:32 Rashi em Nidá 17a · 14:56 Peri Chadash · 19:19 Gemará: kasa dacharashin velo kasa depushrin · 22:22 Rashi sobre tzivá · 26:31 Maharil · 27:21 Maharil · 31:39 Devarim 20:19 · 32:03 Devarim 20:20 · 32:16 Drashá de Rabi Shimon bar Yochai sobre Devarim 20:19 · 33:49 Gemará: adam le'amal yulad · 36:24 Turei Zahav · 36:54 Lechem HaPanim de Rabi Yaakov Rakach · 37:00 Shevut Yaakov · 37:17 Rabeinu Chaim Palagi · 38:27 Midrash sobre as três vozes · 41:13 Rambam · 44:48 Shabat 129b · 46:26 Rambam · 47:25 Shabat 129b · 48:18 Berachot 4b-5a · 49:08 Zohar, Balak · 49:31 Devarim 6:4 · 49:36 Baruch shem kevod malchuto · 50:03 Rabeinu Yerucham · 50:21 Arizal · 51:57 Hamapil · 53:39 Berachot 5a, cama aramita · 53:46 Berachot, história de Rav Papa · 55:08 Chida, vidui de Yom Kipur · 55:40 Berachot · 57:13 Pesachim 112a · 57:59 Gemará sobre a cana · 58:13 Taanit 20a-b, Rabi Elazar · 59:54 Taanit 20a · 1:00:41 Chulin 105b-107b, Rav Huna · 1:01:53 Chulin · 1:02:11 Chulin
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|06:29|להם 200-300 ביצים ב-D.
+109|06:32|אז מה עושים עכשיו?
+110|06:35|ועוד זה סגור, לא, זה מועיל סגור?
+111|06:38|בפירוש כתוב שלא מועיל, שום סגירה.
+112|06:41|אפילו קופסה בחזל, לא מועיל.
+113|06:44|אז מה הם עושים?
+114|06:45|הם כותבים שמה תאריך, בשעה.
+115|06:48|והתאריך היה שלפני שבועיים.
+116|06:51|זאת אומרת, ארבע עשר יום עבר עליו, לא לילה אחד, ארבע עשר
+117|06:57|לילות, אולי חמישה עשר גם.
+118|06:59|נו, אז מה עושים עכשיו?
+119|07:02|ואנשים אוכלים את העוגות האלה.
+
+LINHAS A TRADUZIR:
+120|07:06|אז מי ימות עכשיו?
+121|07:11|האיראנים.
+122|07:12|האיראנים.
+123|07:13|הם מחוק הפרה עליך, אבל אסור לעשות את זה.
+124|07:17|אז אם ככה, לא נאכל עוגות.
+125|07:20|נאכל להם.
+126|07:23|לא, אל תסמוך עליהם, לכן אני אומר לך, במגדניה תיכנס לתוך
+127|07:28|המגדניה, יש שם מקרר, תפתח, תראה, יש שם לי עם
+128|07:34|ביצים כלופות, בתוך שקית
+129|07:39|ניילון, ויש שם גם את הצ'ופצ'יק הזה שסוגרים אותו,
+130|07:46|יש שם תאריך, פג תוקף, יאללה.
+131|07:49|הבנת?
+132|07:51|זה מלפני שבועיים, זה אני ראיתי, אני אומר לך.
+133|07:56|אני לא יודע, מה אכפת לי אני.
+134|08:00|אני לא נותן להם הכשרים, מה אתה רוצה?
+135|08:04|כן, גם בתי מלון ועוד ועוד, זה העוון היחיד שהם עושים, הרבה עבירות הם
+136|08:11|עושים.
+137|08:12|תלך לבית מלון בליל שבת, תעלה בשעה שלוש לפנות בוקר, תטייל ותראה מה
+138|08:18|קורה שם.
+139|08:20|במטבח, מה קורה בחדר האוכל, וואו וואו.
+140|08:25|כן.
+141|08:27|נו, הלאה.
+142|08:29|אז תראו רק מה קורה כאן מתחת לשטח.
+143|08:33|מה?
+144|08:39|עם ישראל כולנו בסכנה?
+145|08:39|קורחים אורות וכל זה?
+146|08:40|מה?
+147|08:41|איך אפשר?
+148|08:41|אני לא יודע, זה הדבר היחיד שאתה חושב שיש.
+149|08:43|אני לא רוצה להביא לך את כל הרשימה.
+150|08:45|שלא תפחד.
+151|08:47|אלא לא תשאל.
+152|08:49|מה?
+153|09:03|תמשיך לצעוק, אתה לא יודע מה אמר הרב זוננפלד שלפני
+154|09:08|הבחירות הקירות צועקות,
+155|09:14|אחרי הבחירות תצעק אתה לקירות
+156|09:31|במים, אכן הגמרא אמרה, מים מגולים, אתה לא שמת לב.
+157|09:36|שום כלוף, בצה כלופה, בצל כלוף, במים
+158|09:41|מגולים.
+159|09:43|זאת אומרת, מים אסור שיהיו מגולים.
+160|09:46|למה?
+161|09:47|השן על שם מבע נחש, או סמבית, ושתום מזה.
+162|09:52|והטילו ארס.
+163|09:54|בסדר?
+164|09:57|מה הוא אומר?
+165|10:00|בימינו לא מצוי נהשים, אז ההלכה לא תופסת, אתה
+166|10:06|רוצה להגיד?
+167|10:08|תכף תשמע מה אומרים הפוסקים, תכף,
+168|10:14|תכף, חכה רגע.
+169|10:17|מה עם האבקות, האבקות, אבקת ביצים?
+170|10:21|מה הוא רוצה?
+171|10:21|אבקה, אבקה.
+172|10:27|מי אוכל אבקת ביצים?
+173|10:28|אשכנזים אוכלים.
+174|10:30|אנחנו לא אוכלים.
+175|10:40|אם רבי שמעון בר יוחאי לא כתב את הטעם, את הסוד, אני לא יודע מה
+176|10:45|הסוד.
+177|10:50|כך אומר רבי שמעון בר יוחאי, תפתח את הגמרא בנידה.
+178|10:54|נידה על דף י"ז.
+179|10:56|טוב, בוא נשמע עוד קצת.
+180|10:58|מה כותבים הפוסקים, אז הערוך לנר כותב שזה נקרא
+181|11:04|מעבד עצמו לדעת.
+182|11:06|רבנו יוסף חיים בבן יהוידע כותב שלמה אמר
+183|11:14|שהדברים האלה, חמישה דברים, העושה אותם וכולי, בא להגיד שזה יהיה
+184|11:20|לעולם, זה לא כמו לגבי זוגות שהגמרא שם דיברה, זוכר?
+185|11:26|את הגמרא בפסחים.
+186|11:28|‫שמה אמרה?
+187|11:29|שאסור לאכול זוגות, ‫והגמרא הקשתה שם בליל פסח, ‫איך אנחנו
+188|11:35|שותים ארבע כוסות?
+189|11:36|‫הרי זה זוגות.
+190|11:37|‫מה תרצה הגמרא?
+191|11:39|‫-ליל שימורים.
+192|11:41|‫שזה ליל שימורים, ‫וגם בסוף בגמרא אמרה ‫מנדה כפיד
+193|11:47|כף דבעה ד, ‫מנדלה כפידה כף דבעה ד.
+194|11:52|‫כך נפסק בגמרא.
+195|11:55|אז אומר הרב, הבן יהודה אומר, זה אי אפשר להגיד לא קפיד
+196|12:01|ואי אפשר לומר שום דבר, לעולמי עולם זה מזיק
+197|12:07|וצריך להיזהר, בסדר?
+198|12:11|אז אל תאכל שום דבר שיש בתוכו שום כלוא, אלא אם כן הוא מעורב עם
+199|12:16|דבר אחר.
+200|12:18|אז אם יש לי סלט, שבתוך הסלט הוא שם שום, או בצל, בסדר,
+201|12:24|אין בעיה.
+202|12:25|‫אבל אם הוא לבדו, אסור.
+203|12:26|‫-אבל?
+204|12:27|כן.
+205|12:27|‫-אם קצת יהיה שום בתוך דבש.
+206|12:32|‫שום בתוך מים, זה לא עוזר?
+207|12:35|‫דבש, דבש.
+208|12:37|‫דבש, דבש.
+209|12:40|‫אבל ריסקת אותו?
+210|12:42|‫לא, זה פחדנו.
+211|12:46|‫השארת אותו שלם.
+212|12:47|‫בתוך דבש.
+213|12:49|‫ואז השום הטעם שלו משתנה קצת, נכון?
+214|12:55|מותר.
+215|12:57|זה הוא עושה כמו, הוא עושה בשביל, נגד
+216|13:00|הצטננות.
+217|13:04|נגד הצטננות, מה עושים?
+218|13:05|לוקחים קצת לימון וקצת בצל ושום, ועוד כל מיני, אני
+219|13:11|יודע מה, דבש וזה, ושמים, ומי שמשתעל או מצונן, נותנים לו
+220|13:17|מזה לטעום, כפית מאמיץ וישן כל
+221|13:23|הלילה.
+222|13:26|‫גם?
+223|13:26|‫-אדם כבש שום בחומץ.
+224|13:30|‫כבש שום בחומץ.
+225|13:32|‫בטח שיש בעיה.
+226|13:33|‫אז אם זה עם הקליפה אין בעיה?
+227|13:37|‫בטח שיש בעיה.
+228|13:38|‫אז אם יש עליו את הקליפה הדקה, ‫זה מועיל.
+229|13:41|‫אין עליו גם את הקליפה השקופה הזאת, ‫לא מועיל.
+230|13:46|בסדר?
+231|13:46|‫מה?
+232|13:46|‫מה לגבי יין
+233|13:52|מגולה?
+234|13:52|‫-יין מגולה זה לכאורה אותו דבר.
+235|13:54|‫אלא מה?
+236|13:55|מרן כתב, השולחן ערוך, שבמקום שאין מצויים נחשים, אין מקום
+237|14:01|אפשר להתיר.
+238|14:04|בפרט שאין לו יין אחר, או שזה הפסד מרובה.
+239|14:07|אז עכשיו ביין, למשל בליל שבת, צריך להיזהר לסגוב את כל הבקבוקים.

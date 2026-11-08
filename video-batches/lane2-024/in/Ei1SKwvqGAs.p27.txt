@@ -1,0 +1,64 @@
+videoId: Ei1SKwvqGAs
+parte 28 de 45 · traduzir as linhas 1080 a 1119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Nisan, Yeshurun e a criação do movimento Derech Chaim
+RESUMO: O rabino abre, no Rosh Chodesh Nisan, com o Rashi sobre "pode ser desde Rosh Chodesh?" (Rashi em Shemot 13:8). Ele distingue as etapas de yecholet (capacidade), "em potencial" e "em ato", e liga isso à ideia de que o pensamento de Israel precede até a Torá (Midrash Bereshit Rabá). Em seguida explica que Nisan é "nissei nissim" (Berachot): "nes" vem de Chochmá/Abba, enquanto "nisui", em "HaNissá Elokim" (Devarim 4:34), vem de Biná/Ima, ligado ao conto de Rabi Nachman sobre a parteira e à discussão entre Rabi Yehoshua e Rabi Eliezer (Rosh Hashaná 11a). Depois trata do nome Yeshurun nos versículos de Devarim 32:15, 33:5 e 33:26 e em Yeshayahu 44:2, com a guematria que o iguala a Mashiach ben Yosef, e lê "VaYehi viYeshurun melech" nos dois sentidos, de cima para baixo e de baixo para cima. Retoma os pontos do livro "Tikun HaMedina" (Eretz Yisrael Shlemá, mishpat ivri e educação da Torá) como mensagem do movimento. A parte final, conduzida por seus alunos, apresenta o site Kol HaYehudi, as ações de campo, o estatuto e a comissão fundadora, e abre um debate sobre a taxa de 100 shekels, que termina numa votação com três opções.
+MOMENTOS: 09:25 Yachol me-Rosh Chodesh: capacidade, potencial e ato · 10:40 O pensamento de Israel precede a própria Torá · 13:06 Nisan como "nissei nissim": nes e Chochmá · 15:44 "HaNissá Elokim": nisui, Biná e a parteira de Rabi Nachman · 21:34 Nisan e Sivan: ver e ouvir, Abba e Ima · 22:25 Rabi Yehoshua e Rabi Eliezer: Nisan ou Tishrei · 25:39 O nome Yeshurun e suas aparições na Torá · 32:44 Guematria: Yeshurun é Mashiach ben Yosef · 35:51 "VaYehi viYeshurun melech": o rei, os líderes e as tribos · 40:57 Tikun HaMedina: Eretz Yisrael Shlemá, mishpat ivri e educação · 1:02:09 Kol HaYehudi e as ações de campo do movimento · 1:13:06 Estatuto, comissão fundadora e dilemas do movimento · 1:32:57 Debate sobre a taxa de 100 shekels · 2:10:35 Votação com três propostas
+FONTES CITADAS: 09:25 Rashi em Shemot 13:8 · 10:44 Bereshit Rabá 1:4 · 12:45 Rashi em Shemot 13:8 · 13:13 Berachot 56b · 14:09 Cabalá: Abba e Ima (Chochmá e Biná) · 14:38 Iyov 28:12 · 15:44 Devarim 4:34 · 17:27 Rashi em Devarim 4:34 · 18:43 Rabi Nachman de Breslev, Sipurei Maasiyot (filho do rei e filho da serva trocados) · 21:41 Mechilta, Beshalach (Shirat HaYam) · 21:46 Shemot 20:15 · 22:31 Rosh Hashaná 11a · 23:17 Shemot 12:2 · 27:10 Yeshayahu 44:2 · 27:23 Devarim 32:15 · 28:10 Shemot 27:20 · 28:44 Devarim 33:5 · 30:13 Devarim 33:26 · 31:24 Bereshit 27:36 · 31:39 Bereshit 25:27 · 32:21 Interpretação clássica do nome Yeshurun · 36:19 Devarim 17:15 · 36:34 Eruvin 13b · 36:48 Zohar sobre "som tasim · 38:20 Tehilim 133:1 · 44:15 Zecharia 14:9 · 46:32 Shemot 15:3 · 1:38:07 Hoshea 3:5
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+1068|1:31:59|לא חושב, לא חושב, לא חושב, לא, אבל תנועת התשובה זה דבר מסית,
+1069|1:32:05|עכשיו דבר נוסף, חשוב שהארגון הוא לא יהיה מזוהה רק
+1070|1:32:11|עם ה...
+1071|1:32:13|החבר'ה שניצר באנשיה, למרות שהם אחרים והכי אידיאליסטים ונכבדים.
+1072|1:32:17|ייצר היא סמל המאבק, לחזית המאבק על ארץ ישראל השלמה,
+1073|1:32:24|אבל עניין התשובה, על כל הנבדים שלו נמצא בכל רחבי הארץ, בעיקר בערים הגדולות והספאנות.
+1074|1:32:30|חייבים לשלב בהנהגה אנשים ממקומות אחרים וסגנונות אחרים.
+1075|1:32:34|כמה שזה יהיה יותר מגוון, יותר מצליח.
+1076|1:32:38|זה דבר ברור.
+1077|1:32:38|אנשים רואים אנשים שדומים להם בהנהגה, אז הם מזדהים איתם.
+1078|1:32:42|‫אם רואים שזה חבר'ה מסוימים, ‫אז מבינים שזו תנועה שלהם.
+1079|1:32:45|‫זה דבר חשוב.
+
+LINHAS A TRADUZIR:
+1080|1:32:48|‫ואם פעם דין נכנס, ‫אין איזשהו מקום, ‫מעטיף שיהיה בירושלים.
+1081|1:32:50|‫עכשיו, העניין הפסיקה של הכסף, ‫אז אני
+1082|1:32:57|הצעתי להעריך כמה זמן ‫צריך כדי להוציא עמוד רציני.
+1083|1:33:01|‫נגיד שלושה חודשים נערך, ‫זאת אומרת, איך הוא ייבנה, ‫ההפצה שלו וכולי וכולי.
+1084|1:33:06|‫אפשר לגבות עכשיו מהחברים, ‫נניח, 100 שקל.
+1085|1:33:10|בחודש הבא נגיד שמונים, אחרי זה שישים, בסוף נגיע לשלושים.
+1086|1:33:15|שלושים נניח זה סכום סביר, סכום קבוע, לכל משמונה להצטרף לתנועה ולחלק אנונים.
+1087|1:33:21|מי שמצטרף לתנועה הוא מקבל אנונים.
+1088|1:33:24|הוא נותן והוא מקבל.
+1089|1:33:26|עכשיו, אם מדובר על גיוס כספים רק בשביל לדאוג לפעילות פוליטית, חישוב, ייתוק וכו', אני
+1090|1:33:32|חושב, ולהציע את זה לציבור הרחב, חבל על הזמן וגם על הכסף.
+1091|1:33:37|זהו, אלה הדברים.
+1092|1:33:40|‫אז ההצעה המעשית שלך זה לרדת ‫ל-30 שקל תוך כמה זמן, ‫כי ענון זה עניין אחר.
+1093|1:33:46|‫לא, זה מאוד עובד.
+1094|1:33:47|‫אני אומר, זאת אומרת, ‫בסדר, אתה יכול, ‫זה חשוב מאוד, אבל ‫אני נותן משהו.
+1095|1:33:51|‫-50 שקל, זה לא סתם, ‫אז יש 3 שקל.
+1096|1:33:53|‫הוא לא מבין מה ההצעה המעשית ‫של חמורות מעשית.
+1097|1:33:55|‫הוא רק קרא עכשיו רק את הכסף.
+1098|1:33:56|‫תגידו משפט אחד מה ההצעה המעשית.
+1099|1:33:59|‫ההצעה המעשית זה שאתמול ‫אתם מוציאים 100 שקל למגבות, ‫אפשר
+1100|1:34:05|לגבות 100 שקל מהחברים הקרובים.
+1101|1:34:08|‫לדעתי העניין של העלון, ‫בלי הפצת מסרים, ‫עוד מה אנחנו רוצים?
+1102|1:34:11|‫בשביל מה התכנסנו?
+1103|1:34:12|‫אנחנו רוצים...
+1104|1:34:13|‫אנחנו רוצים להפצת המסרים, ‫אנחנו באמת שואלים את הציבור, ‫איך כדאי להתקדם?
+1105|1:34:18|‫אם כדאי להמשיך לגבות במאה שקל, ‫או שכדאי...
+1106|1:34:23|‫אתה אומר מהחברים הקוראים, ‫לפעמים לא הצלחתי להבין, ‫אז מה למייסי?
+1107|1:34:28|‫מה כדאי לעשות?
+1108|1:34:30|‫מה אני רוצה לעשות בוחרות?
+1109|1:34:33|‫-מייסי, אם אתה רוצה להגיע לקהל עכשיו, ‫לתת לו משהו...
+1110|1:34:37|אתה חייב לתת לו מסרים, אתה חייב להביא ש...
+1111|1:34:40|וכל מפיץ, זאת אומרת, אתה ככה מציע לאנשים להצטרף לתנועות התשובה, וכל
+1112|1:34:46|מי שמצטרף לדבר הבסיסי זה שהוא מקבל עלומים, שמפיץ אותם, נותן 30
+1113|1:34:52|שקל ורוזר.
+1114|1:34:53|בואו ננסה...
+1115|1:34:54|בוא, עזוב את הכסף.
+1116|1:34:55|זה לא מסובך.
+1117|1:34:56|בוא נדבר על דברים שבמרות, והוא בסוף מאוד נעזוב.
+1118|1:34:59|גם בגללו.
+1119|1:35:01|עזוב את הכסף, גדירה.

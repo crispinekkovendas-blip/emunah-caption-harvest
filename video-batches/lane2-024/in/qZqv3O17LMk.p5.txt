@@ -1,0 +1,144 @@
+videoId: qZqv3O17LMk
+parte 6 de 9 · traduzir as linhas 600 a 719 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Alimentos que passaram a noite e outros perigos (Nidá 17a)
+RESUMO: A aula parte da Gemará em Nidá 17a, em que Rabi Shimon bar Yochai lista cinco coisas cujo autor "tem o sangue na própria cabeça": alho, cebola ou ovo descascados que passaram a noite, bebidas descobertas e dormir no cemitério. O rabino traz Rashi, o Aruch LaNer (que equipara isso a quem tira a própria vida), o Ben Yehoyada, o Semak, o Peri Chadash e o Shulchan Arukh, e explica as soluções práticas: manter a casca, misturar com outro alimento, cobrir as bebidas e considerar a hora do amanhecer (alot hashachar). Em seguida trata da água morna (kasa dacharashin velo kasa depushrin), da água corrente e da água do Maharil na véspera de Pessach. Depois vem a proibição de cortar árvores (Devarim 20:19-20) com a drashá sobre o talmid chacham, as opiniões do Turei Zahav e de outros poskim, e o midrash sobre as vozes ouvidas de uma ponta a outra do mundo. Passa então a Shabat 129b (levantar-se de repente depois de comer, beber, dormir e sangria), à leitura do Shemá antes de dormir (Zohar, Rabeinu Yerucham, Arizal, a "cama aramita") e, por fim, às restrições ao uso da cana e à história de Rabi Elazar em Taanit. Termina com o costume de deixar correr a água antes de usá-la, por três razões da Gemará em Chulin.
+MOMENTOS: 00:31 Nidá 17a: cinco coisas que põem a vida em risco · 01:12 Alho, cebola e ovo descascados que passaram a noite · 02:29 Bebidas descobertas e dormir no cemitério · 03:33 Rashi e o Aruch LaNer: o rigor do dano a si mesmo · 04:41 Soluções: cascas, mistura e o caso dos bolos de confeitaria · 11:14 Ben Yehoyada e a comparação com os pares de Pessach · 13:46 Vinho descoberto e a posição do Shulchan Arukh · 19:04 Água morna: kasa dacharashin velo kasa depushrin · 25:04 Água corrente e a água de Erev Pessach (Maharil) · 31:39 Não cortar árvores: Devarim 20:19-20 e a drashá · 36:24 Cortar árvore por necessidade: Turei Zahav e outros · 44:48 Shabat 129b: levantar-se de repente e outros perigos · 48:18 Shemá antes de dormir e a cama aramita · 57:13 A cana e a lição de Rabi Elazar sobre ser flexível · 1:00:41 Deixar a água correr antes de usá-la
+FONTES CITADAS: 00:31 Nidá 17a · 01:12 Nidá 17a · 02:29 Nidá 17a · 03:17 Nidá 17a · 03:33 Rashi em Nidá 17a · 03:48 Aruch LaNer em Nidá 17a · 05:16 Semak · 10:50 Nidá 17a · 11:06 Aruch LaNer em Nidá 17a · 11:14 Ben Yehoyada · 11:26 Pesachim 109b-110a · 13:55 Shulchan Arukh, Yoreh Deá 116 · 14:32 Rashi em Nidá 17a · 14:56 Peri Chadash · 19:19 Gemará: kasa dacharashin velo kasa depushrin · 22:22 Rashi sobre tzivá · 26:31 Maharil · 27:21 Maharil · 31:39 Devarim 20:19 · 32:03 Devarim 20:20 · 32:16 Drashá de Rabi Shimon bar Yochai sobre Devarim 20:19 · 33:49 Gemará: adam le'amal yulad · 36:24 Turei Zahav · 36:54 Lechem HaPanim de Rabi Yaakov Rakach · 37:00 Shevut Yaakov · 37:17 Rabeinu Chaim Palagi · 38:27 Midrash sobre as três vozes · 41:13 Rambam · 44:48 Shabat 129b · 46:26 Rambam · 47:25 Shabat 129b · 48:18 Berachot 4b-5a · 49:08 Zohar, Balak · 49:31 Devarim 6:4 · 49:36 Baruch shem kevod malchuto · 50:03 Rabeinu Yerucham · 50:21 Arizal · 51:57 Hamapil · 53:39 Berachot 5a, cama aramita · 53:46 Berachot, história de Rav Papa · 55:08 Chida, vidui de Yom Kipur · 55:40 Berachot · 57:13 Pesachim 112a · 57:59 Gemará sobre a cana · 58:13 Taanit 20a-b, Rabi Elazar · 59:54 Taanit 20a · 1:00:41 Chulin 105b-107b, Rav Huna · 1:01:53 Chulin · 1:02:11 Chulin
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|35:54|מה הדין?
+589|35:56|מי כתב?
+590|35:57|מה כותבים היום פוסקים בזה?
+591|36:00|אני צריך את המקום של העץ, או סוכה.
+592|36:05|העץ יתפשט יותר מדי, ואני די, לא יכול.
+593|36:09|המשפחה גדלה, באים הנכדים, באים הבני דודים, ואני רוצה לבנות
+594|36:15|סוכה בשטח.
+595|36:16|זה מפריע.
+596|36:18|מותר לי לחתוך או אסור לי לחתוך?
+597|36:22|התורי זהב.
+598|36:24|כתב שלצורך מקומו יהיה מותר, כמו
+599|36:29|שאמרת.
+
+LINHAS A TRADUZIR:
+600|36:31|וכן כתבו גם רבי יעקב רקח.
+601|36:35|מי זה היה רבי יעקב רקח?
+602|36:36|היה בלוב.
+603|36:38|היה בלוב.
+604|36:39|מה הוא כתב?
+605|36:40|ספר...
+606|36:42|ספר...
+607|36:43|לא, לא, לא.
+608|36:44|על שולחן הרוחמה הוא כתב?
+609|36:47|לחם הפנים.
+610|36:49|לחם הפנים הוא קרא אותו.
+611|36:51|כך כתב בספר לחם הפנים.
+612|36:54|וגם הרב שבות יעקב, הגאות חידה
+613|37:00|בחיים שעל, אני מזכיר אותם כדי שיתפללו עלינו, הגאות
+614|37:05|חידה בחיים שעל, וגם הם כתבו כולם על ידי
+615|37:11|גוי הכי טוב ואתה אבא מותמו תדרוך.
+616|37:17|רבנו חיים פלאצ'י היה מחמיר, אמר תמכור את זה לגוי.
+617|37:23|בחצי שקל, תקרא ממנו חצי שקל, ואז זה שלא, ותגידו
+618|37:29|תעשה בזה מה שאתה רוצה.
+619|37:35|עכשיו אילני סרק, יפה, שאלת שאלה יפה.
+620|37:39|מה אתה אומר, אדון?
+621|37:43|אדון?
+622|37:50|אלוף פיקוד צפון.
+623|37:51|אלוף פיקוד צפון.
+624|37:54|‫יש לו עץ רק, אבל הוא נותן אורנים, ‫ריח מצוין.
+625|38:00|ריח אורנים.
+626|38:02|‫מה הדין המותר לי לחתוך אותו או לא?
+627|38:09|‫-אם הוא מזיק, ‫הוא צריך את הבטוח, כמו שאמרנו.
+628|38:11|‫רגע, זה גם כמו עץ של פירות או לא?
+629|38:17|‫לא, זה לא פיליון עץ.
+630|38:18|‫הפסוק אומר רק עץ אשר תדע ‫אשר לא עץ מאכל הוא.
+631|38:22|זאת אומרת עץ לא של אוכל, אבל המדרש
+632|38:27|אומר שכשאתה עוקר עץ, מה קורה כשאתה עוקר עץ?
+633|38:34|שלושה קולם נשמע מסוף העולם ועד סופו,
+634|38:40|כל הנשמה בשעה שיוצאת מהאדם בר מינן, לא עליכם.
+635|38:47|‫כל היולדת בשעה שהיא יולדת, ‫הקול שלה הולך עד סוף העולם.
+636|38:53|‫וכל האילן, כשעוקרים אותו, ‫צועק עד סוף העולם.
+637|38:57|‫-איפה הנחש כשמשיל את ההור?
+638|39:01|‫מה אתה רוצה ממני, ‫שאתה מתעסק עם נחשים עכשיו?
+639|39:06|‫וואי וואי וואי וואי.
+640|39:09|‫אז באמת שגם בעץ לא של מאכל, ‫לכתחילה אין
+641|39:15|נחתוך אותו.
+642|39:16|אבל אם הוא רוצה לבנות והוא צריך את השטח יהיה
+643|39:22|מותר וטוב שגם את זה יעשה על ידי גוי.
+644|39:27|הבנת?
+645|39:28|כך כתב התורה זהב וסיעתו.
+646|39:29|בין לחתוך ובין לעקור.
+647|39:33|בין לחתוך ובין לעקור.
+648|39:35|אתה מחסל אותו.
+649|39:40|אתה מחסל אותו גם כשאתה חותך.
+650|39:48|כן?
+651|39:50|אה, אני לא שומע מה השאלות.
+652|39:56|תראה איפה הוא ברח היום.
+653|39:58|הוא ברח לשמה.
+654|40:00|וואי וואי וואי וואי.
+655|40:04|וואי וואי וואי.
+656|40:05|מי יכול עליך?
+657|40:07|שדון.
+658|40:11|רגע, אני לא שומע והוא עובר.
+659|40:14|מה, מה אמרת?
+660|40:15|מה יין?
+661|40:17|‫מה נזכרת עכשיו?
+662|40:19|‫-כן, נו.
+663|40:21|‫-גיאי צורך נזכר.
+664|40:23|‫-כן.
+665|40:27|‫מה עשיתם ביניהם?
+666|40:28|‫אז זהו, זו השאלה.
+667|40:29|‫פה יש מחלוקת.
+668|40:30|‫כמה המעלות זה יקרא מפוסטר.
+669|40:33|‫לפי הראש, מה שכתב הראש, ‫אם שמת אותו על
+670|40:39|האש ‫וירד קצת מהגובה,
+671|40:45|‫זה כבר מועיל.
+672|40:48|‫זה לא יעניין.
+673|40:49|‫יכול הגוי לנגוע.
+674|40:52|‫יש מי שאומר שיעלה קצף.
+675|40:55|‫יש מי שאומר שהטעם משתנה.
+676|40:58|‫תעיין שמה ברחוב בציון.
+677|41:02|‫יש כמה דעות בזה.
+678|41:03|‫-אבל אתה עדיין יען לקידוש.
+679|41:07|‫לקידוש, חוץ מהרמב״ם, ‫לקידוש זה בסדר.
+680|41:13|כי רמב״ם רוצה שקידוש שתה תשתמש ביין שמנסח
+681|41:19|אותו על גבי המזבח.
+682|41:22|ולפי...
+683|41:23|אם היה עניין לקראת דשא על גבי המזבח, זה לא מעיל.
+684|41:27|אסור שיהיה בכלל מפוסטר.
+685|41:30|ואסור שיהיה בו שום תערובת.
+686|41:33|גם לא חומר משמר.
+687|41:34|לא סוכר, לא כלום.
+688|41:39|כלום.
+689|41:43|מה אומר כבודו?
+690|41:44|שיח.
+691|41:46|שיח.
+692|41:47|מה אומר?
+693|41:48|שיח.
+694|41:48|זה מותר לעקור שיח.
+695|41:53|מה זה שיח?
+696|41:53|לעקור שיח.
+697|41:54|אה, לעקור שיח זה אותו דבר, כמעט.
+698|41:56|תביא גוי, שיחתוך אותו.
+699|41:58|אבל הוא שיח
+700|42:05|עכשיו.
+701|42:05|כן.
+702|42:06|שיח, יש לו גזע.
+703|42:08|מה זה שיח?
+704|42:11|כמו למשל זעתר.
+705|42:14|זה אתר זה שיח, יש לו גזע, יש לו שורשים.
+706|42:21|טוב, הלאה.
+707|42:22|אם תמיד בתוך האדמה,
+708|42:25|רעל שממית
+709|42:31|את העץ.
+710|42:31|הוא ישים באדמה רעל שממית את העץ, הוא הורק את העץ, זה אותו דבר.
+711|42:38|אז במקום למות בתוך שעה, הוא ימות בתוך שבוע.
+712|42:44|‫אז מה עשינו?
+713|42:44|הרג, זה הרג וזה הרג.
+714|42:46|‫עכשיו, מישהו הרג בן אדם, על ידי רעל, ‫ולא מיד פעל הרעל,
+715|42:52|לא עליכם, ‫לקח שבוע-שבועיים, ‫זה גם כן נקרא רצח.
+716|42:57|‫היינו אח...
+717|42:59|‫כן.
+718|42:59|‫עוד פעם?
+719|43:02|‫אני מבין כל איזה, ‫זה הכול מפתיע.
