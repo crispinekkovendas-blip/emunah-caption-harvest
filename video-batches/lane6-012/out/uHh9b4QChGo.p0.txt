@@ -1,0 +1,120 @@
+0	What?	O quê?
+1	And we arrived	E chegamos
+2	In my opinion, to the sin	Na minha opinião, ao pecado
+3	Do you have it?	Vocês têm?
+4	Yes, half.	Sim, metade.
+5	How?	Como?
+6	Where is the half?	Onde está a metade?
+7	So here there is...	Então aqui tem...
+8	This should be the Derech HaShem of the Ramchal.	Isto deveria ser o Derech HaShem do Ramchal.
+9	Yes, it's not there.	Sim, não está ali.
+10	It's probably there for me...	Provavelmente está ali para mim...
+11	No, no, it's...	Não, não, é...
+12	It's a mistake.	É um erro.
+13	Here, that was the Ramchal.	Olha, aquele era o Ramchal.
+14	It's a mistake, what is written there...	É um erro, o que está escrito ali...
+15	That is our opinion.	Essa é a nossa opinião.
+16	No, no, it's a mistake.	Não, não, é um erro.
+17	We are not skipping around the Derech HaShem of	Não estamos pulando pelo Derech HaShem do
+18	the Ramchal.	Ramchal.
+19	Chapter 8: Specific Aspects of Providence	Capítulo 8: Aspectos específicos da providência
+20	One of the things that stands out	Uma das coisas que se destacam
+21	most in His providence, blessed be He, is that the foundation	mais na Sua providência, bendito seja, é que o fundamento
+22	of all the orders of providence and its ways is the uprightness of judgment and the line	de todas as ordens da providência e de seus caminhos é a retidão do juízo e a linha
+23	of strict justice.	do din.
+24	As in the verse: "A scepter of equity is the scepter of Your kingdom,"	Como no versículo: "Cetro de retidão é o cetro do Teu reino",
+25	and it is written: "A king by justice	e está escrito: "O rei pelo juízo
+26	establishes the land."	firma a terra."
+27	That is, everything goes by orderly laws,	Ou seja, tudo segue leis ordenadas,
+28	this is called the uprightness of judgment.	isso se chama retidão do juízo.
+29	And indeed we know that the Holy One, blessed be He, desires only to do good.	E de fato sabemos que o Santo, Bendito Seja, só deseja fazer o bem.
+30	And behold, He loves His creatures as a father loves his son, except	E eis que Ele ama Suas criaturas como um pai ama o seu filho, só que
+31	that out of love itself	por causa do próprio amor
+32	it is fitting that one who loves his son discipline him, in order to benefit him	é justo que quem ama o seu filho o discipline, para beneficiá-lo
+33	in the end.	no final.
+34	Part of love is also the prohibitions,	Parte do amor são também as proibições,
+35	to benefit him in the end.	para beneficiá-lo no final.
+36	As in the verse: "As a man disciplines his son,"	Como no versículo: "Como um homem disciplina o seu filho,"
+37	"HaShem your Elokim disciplines you."	"HaShem, teu Elokim, te disciplina."
+38	And so judgment and justice themselves flow from the source of love.	E assim o juízo e o din em si fluem da fonte do amor.
+39	And the discipline of the Holy One, blessed be He, is not the blow of an enemy or an avenger,	E a disciplina do Santo, Bendito Seja, não é o golpe de um inimigo ou vingador,
+40	but the discipline of a father who wants his son's good. So this we need	mas a disciplina de um pai que quer o bem do seu filho. Então isto nós precisamos
+41	to know: that all the suffering there is,	saber: que todo sofrimento que existe,
+42	small or great, is the discipline of a father who wants his son's good.	pequeno ou grande, é a disciplina de um pai que quer o bem do seu filho.
+43	But from this root two matters are born.	Mas desta raiz nascem dois assuntos.
+44	The first...	O primeiro...
+45	is that the discipline itself is sweetened, not harsh and cruel, because	é que a própria disciplina é suavizada, e não dura e cruel, porque
+46	love itself blends the judgment with mercy.	o próprio amor mistura o din com misericórdia.
+47	So it's not like stepping on some cockroach,	Então não é como esmagar uma barata qualquer,
+48	but it is sweetened, because the purpose is to bring the person	mas é suavizado, porque o objetivo é trazer a pessoa
+49	back to the right path, which certainly does not look like the Holocaust or	de volta ao bom caminho, o que certamente não se parece com a Shoá ou com
+50	October 7th; there it was more like a cockroach.	o 7 de outubro; ali foi mais parecido com uma barata.
+51	So there is a difficulty here, and answers don't settle it for him.	Então há aqui uma dificuldade, e as respostas não o acalmam.
+52	Because there the judgment was harsh and cruel.	Porque ali o din foi duro e cruel.
+53	And there are also individual cases.	E há também casos particulares.
+54	And the second is that sometimes, when the hour requires it,	E o segundo é que às vezes, quando a hora exige,
+55	the Master, blessed be He, passes over the strict line of judgment entirely and acts with mercy,	o Senhor, bendito seja, passa totalmente por cima da linha estrita do din e age com misericórdia,
+56	as in the verse: "I will be gracious to whom I will be gracious, and I will show mercy to whom I will show mercy."	como no versículo: "Terei graça de quem tiver graça, e terei misericórdia de quem tiver misericórdia."
+57	So these are the two matters: one, that the judgment	Então esses são os dois assuntos: um, que o din
+58	is sweetened; the second, that sometimes the Creator does no judgment at all.	é suavizado; o segundo, que às vezes o Criador nem faz din.
+59	Now, since the Holy One, blessed be He, wanted man's free choice in his deeds	Ora, como o Santo, Bendito Seja, quis o livre-arbítrio do homem em seus atos
+60	and, in the uprightness of the judgment of recompense, to pay a man according to his deeds,	e, na retidão do juízo da retribuição, pagar ao homem segundo as suas obras,
+61	behold, as it were, He binds His governance to human action.	eis que, por assim dizer, Ele submete a Sua condução à ação do homem.
+62	Divine governance depends on whether man chooses good or chooses evil,	A condução divina depende de o homem escolher o bem ou escolher o mal,
+63	so that He neither benefits him nor harms him except according to his deeds.	de modo que não lhe faz bem nem mal senão conforme as suas obras.
+64	But in truth, the Master, blessed be He, is not bound to any law.	Mas, na verdade, o Senhor, bendito seja, não está preso a nenhuma lei.
+65	He legislates the laws, but He Himself is not bound to any law.	Ele legisla as leis, mas Ele mesmo não está preso a nenhuma lei.
+66	And He needs no one else; He doesn't need us, whether we do good or don't do	E Ele não precisa de ninguém; Ele não precisa de nós, quer façamos o bem, quer não façamos
+67	good, we do not affect Him at all.	o bem, não exercemos sobre Ele influência alguma.
+68	He is not dependent on, nor bound to, anything in all	Ele não depende nem está preso a nada em todos
+69	our matters, and is not moved by anything, and therefore	os nossos assuntos, e não é afetado por coisa alguma, e por isso
+70	when He wishes to make use of His exaltedness, in which He is	quando Ele quiser usar a Sua elevação, na qual Ele está
+71	completely exalted above every human matter, behold	totalmente acima de todo assunto humano, eis que
+72	He will act and conduct as He wishes, without any compulsion or hindrance at all.	agirá e conduzirá como Lhe aprouver, sem nenhuma coerção ou impedimento.
+73	So there are two kinds of governance: one that is, as it were, subject	Então há dois tipos de condução: uma que está, por assim dizer, sujeita
+74	to the human situation, and one that is not subject at all.	à situação humana, e uma que não está sujeita de forma alguma.
+75	And as for the governance of judgment, it is conducted according to the arrangement we mentioned.	E quanto à condução do juízo, ela se conduz segundo a ordem que mencionamos.
+76	But when His wisdom decrees that it is fitting to pass over the line of strict justice,	Mas quando a Sua sabedoria decreta que é adequado passar por cima da linha do din,
+77	behold, He will use His exaltedness and the unity of His dominion, and will pass over transgression	eis que Ele usará a Sua elevação e a unidade do Seu domínio, e perdoará a transgressão
+78	and repair every corruption with the might of His power. Thus there are here two kinds of	e consertará toda corrupção com a força do Seu poder. Assim há aqui dois tipos de
+79	providence: the providence of reward and punishment, which is subject	providência: a providência do prêmio e castigo, que está sujeita
+80	to human deeds, and the providence of dominion and unity,	às ações humanas, e a providência do domínio e da unidade,
+81	which is not subject at all. And in both ways His glory,	que não está sujeita de forma alguma. E nos dois modos a Sua glória,
+82	blessed be He, always watches over His creatures, for He watches with the providence of judgment	bendito seja, sempre vela sobre as Suas criaturas, pois Ele vela com a providência do juízo
+83	to always judge every deed, and He watches with the providence of	para sempre julgar todo ato, e vela com a providência do
+84	dominion to sustain the creation by His power and ability,	domínio para sustentar a criação com o Seu poder e capacidade,
+85	so that it not be destroyed by the evil of human deeds.	para que ela não seja destruída pela maldade dos atos dos homens.
+86	Yes.	Sim.
+87	No?	Não?
+88	Sometimes	Às vezes
+89	it is according to	é de acordo com
+90	our deeds, and sometimes according to His laws.	as nossas ações, e às vezes de acordo com as Suas leis.
+91	Sometimes the governance is according to	Às vezes a condução é segundo
+92	the laws that were legislated for human beings,	as leis que foram legisladas para os seres humanos,
+93	which is called reward and punishment, and it goes by	o que se chama prêmio e castigo, e segue
+94	laws, and sometimes with no connection to the state of	leis, e às vezes sem relação com o estado
+95	human beings regarding the keeping of the laws, so that even	dos seres humanos quanto ao cumprimento das leis, de modo que mesmo
+96	if they don't keep the laws, He is not bound	que não as cumpram, Ele não está sujeito
+97	to His own laws, and He can	às Suas próprias leis, e pode
+98	go with complete mercy, even if human beings are not at all	agir com misericórdia total, mesmo que os seres humanos não sejam
+99	worthy, and also the opposite.	nada merecedores, e também o contrário.
+100	He can go with complete judgment, even if human beings are worthy,	Ele pode agir com din total, mesmo que os seres humanos sejam merecedores,
+101	even if they are on	mesmo que estejam no
+102	the good path.	bom caminho.
+103	And He is not moved by all our criticism.	E Ele não se abala com toda a nossa crítica.
+104	We can criticize, we can hold elections	Podemos criticar, podemos fazer eleições
+105	and vote for a different party of other gods,	e votar em outro partido, de outros deuses,
+106	and He is not moved by any of this; do what you want, form	e Ele não se abala com nada disso; faça o que quiser, forme
+107	a coalition with whoever you want.	coalizão com quem você quiser.
+108	Providence is something connected.	Providência é algo ligado.
+109	Connected, meaning, I watch over you, the father watches over the children.	Ligado, ou seja, eu zelo por você, o pai zela pelos filhos.
+110	So it is connected to them; He is over them.	Então é ligada a eles; Ele está sobre eles.
+111	Governance is a principle, abstract, meaning it's not specifically connected now	Condução é um princípio, abstrato, ou seja, não está ligada especificamente agora
+112	to the person; it is something else.	ao homem; é outra coisa.
+113	What?	O quê?
+114	One can say that the governance, something happens here: the providence	Pode-se dizer que a condução, algo acontece aqui: a providência
+115	of dominion and unity is a surrounding light.	do domínio e da unidade é uma luz envolvente.
+116	That is, this one is an inner light, connected to the state of the vessels,	Ou seja, esta é uma luz interior, ligada ao estado dos recipientes,
+117	whether in reward or in punishment.	seja no prêmio, seja no castigo.
+118	But a surrounding light is not connected to the state of the vessels.	Mas a luz envolvente não está ligada ao estado dos recipientes.
+119	So it shines from afar.	Então ela ilumina de longe.
