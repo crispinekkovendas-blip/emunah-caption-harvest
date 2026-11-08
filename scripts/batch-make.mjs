@@ -88,13 +88,14 @@ const taken = new Set()
 // 2026-10-28 (the owner: "keep doing the transcription work non stop"): a lesson skipped with 120-line
 // requests (Claude dropped or doubled lines) gets one more chance in SMALL pieces; skipped again, it stays
 const SMALL = 40
+const FIXED = '2026-11-08T17:45'
 const small = new Set()
 for (const b of batches) {
   const m = JSON.parse(fs.readFileSync(path.join(DIR, b, 'manifest.json'), 'utf8'))
-  const old = m.created && m.created < '2026-10-15T12:00'
-  const again = new Set((m.skipped || []).filter((id) => old || !m.lessons.find((l) => l.id === id)?.small))
+  // 2026-11-08: the old filter threw away good lines (a stray tab), so what it skipped gets one more chance
+  const old = m.created && m.created < FIXED
+  const again = new Set(old ? m.skipped || [] : [])
   for (const l of m.lessons) if (!again.has(l.id)) taken.add(l.id)
-  if (!old) for (const id of again) small.add(id)
 }
 const study = (await (await fetch(`${SITE}/data/videos/study.json`, { signal: AbortSignal.timeout(60000) })).json()).study
 
