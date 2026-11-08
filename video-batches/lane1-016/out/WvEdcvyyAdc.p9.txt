@@ -1,0 +1,20 @@
+1080	303.	303.
+1081	410.	410.
+1082	410.	410.
+1083	That's already a new number.	Esse já é um número novo.
+1084	500.	500.
+1085	Guys, hurry up, the Rabbi wants to do a few of the honors here, there are several today.	Pessoal, andem logo, o rabino quer fazer aqui algumas honras, há várias hoje.
+1086	Yasher koach.	Yasher koach.
+1087	We're at 500.	Estamos em 500.
+1088	501.	501.
+1089	Five hundred and a half, gentlemen.	Quinhentos e meio, senhores.
+1090	With us is the great cantor Yechiel Nahari, let's let him do a song, but a short one.	Está conosco o grande hazan Yechiel Nahari, vamos deixá-lo cantar algo, mas curto.
+1091	Yechiel, if possible, give him a round of applause so he comes up here, Yechiel will come and give.	Yechiel, se possível, uma salva de palmas para ele vir aqui, Yechiel virá e dará.
+1092	You'll see what a spirit there will be here, in honor of Rabbi Yechiel, we're at five hundred.	Vocês verão que ânimo haverá aqui, em honra de Rabi Yechiel, estamos em quinhentos.
+1093	Five hundred, five hundred and one.	Quinhentos, quinhentos e um.
+1094	Five hundred shekels, five hundred and twenty, Nissim, five hundred.	Quinhentos shekels, quinhentos e vinte, Nissim, quinhentos.
+1095	Twenty-six.	Vinte e seis.
+1096	Hundred.	Cem.
+1097	Shekels, six hundred and one, say seven hundred, you.	Shekels, seiscentos e um, diga setecentos, você.
+1098	We're at six hundred and one, six hundred and two, two.	Estamos em seiscentos e um, seiscentos e dois, dois.
+1099	And a half, a quarter to three, we're at six hundred, six hundred and a quarter to three.	E meio, três quartos, estamos em seiscentos, seiscentos e um quarto para três.
