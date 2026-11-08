@@ -2,7 +2,7 @@
  "name": "lane8-022",
  "lane": 8,
  "created": "2026-11-07T23:54:53.229Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "i5QbpARuhXM",
@@ -281,7 +281,7 @@
  "tries": {
   "nMvXiSaPN1E": 3,
   "ZGdxXVBqmfY": 3,
-  "i5QbpARuhXM": 2,
+  "i5QbpARuhXM": 3,
   "0fn_Foe_eC0": 3,
   "AnXDrHJltK8": 3,
   "5FEDGVe16ZA": 3,
@@ -298,6 +298,7 @@
   "0fn_Foe_eC0",
   "AnXDrHJltK8",
   "5FEDGVe16ZA",
-  "BftyfgDZJ1c"
+  "BftyfgDZJ1c",
+  "i5QbpARuhXM"
  ]
 }
