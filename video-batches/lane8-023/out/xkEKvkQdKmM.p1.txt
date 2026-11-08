@@ -1,0 +1,120 @@
+120	So by the same logic he should also validate it if there is a nick on the sides.	Então, pela mesma lógica, ele deveria validar também se houver uma falha nas laterais.
+121	That is, the tip of the knife has no nick, but the sides do; seemingly he should validate.	Ou seja, na ponta da faca não há falha, mas nas laterais há; aparentemente deveria validar.
+122	Yes, but we see...	Sim, mas vemos...
+123	that this is a dispute on page 17, and we see that the Rambam ruled that whoever slaughters with a knife must	que isso é uma discussão na página 17, e vemos que o Rambam decidiu que quem abate com uma faca deve
+124	check both the tip and the sides.	verificar tanto a ponta quanto as laterais.
+125	Because he holds that we do not rule like Rabbi Zeira, since the sides also touch the simanim,	Porque ele entende que não decidimos como Rabi Zeira, já que as laterais também tocam os simanim,
+126	and if the sides are incandescent, they burn the simanim.	e se as laterais estiverem incandescentes, queimam os simanim.
+127	So in the Hagahot Maimoniyot we see that he writes here: we do not rule like Rabbi Zeira.	Por isso, nas Hagahot Maimoniyot vemos que ele escreve aqui: não decidimos como Rabi Zeira.
+128	What is the meaning of "we do not rule"?	O que significa "não decidimos"?
+129	But the Rambam wrote here kesherá.	Mas o Rambam escreveu aqui kesherá.
+130	If it is kesherá, that is ruling like Rabbi Zeira.	Se é kesherá, isso é decidir como Rabi Zeira.
+131	How can the Hagahot Maimoniyot say "we do not rule like Rabbi Zeira"?	Como as Hagahot Maimoniyot podem dizer "não decidimos como Rabi Zeira"?
+132	So you see that the Hagahot Maimoniyot had a version of the Rambam that says psulá.	Então veem que as Hagahot Maimoniyot tinham uma versão do Rambam que diz psulá.
+133	Since his version of the Rambam was psulá, he says "we do not rule like Rabbi Zeira"; that makes sense.	Como a versão dele do Rambam era psulá, ele diz "não decidimos como Rabi Zeira"; faz sentido.
+134	So this really comes down to these textual variants.	Então tudo isso se resume a essas variantes de texto.
+135	So here, I will show you.	Então aqui, vou mostrar a vocês.
+136	Who reads kesherá in the Rambam?	Quem lê kesherá no Rambam?
+137	We saw that it is in the Yemenite manuscripts and in most editions, and so on.	Vimos que está nos manuscritos iemenitas e na maioria das edições, e assim por diante.
+138	Also the Mordechai, the Maggid Mishneh in the name of the Sar MiKotzi, the Kesef Mishneh,	Também o Mordechai, o Maggid Mishneh em nome do Sar MiKotzi, o Kesef Mishneh,
+139	they read it this way in the Rambam.	eles leem assim no Rambam.
+140	On the other hand, the Rosh and the Hagahot Maimoniyot, they read in the Tur, they write	Por outro lado, o Rosh e as Hagahot Maimoniyot, eles leem no Tur, escrevem
+141	psulá.	psulá.
+142	The Beit Yosef addresses this.	O Beit Yosef trata disso.
+143	The Beit Yosef, in Yoreh Deah, siman 9, seif 1, addresses it and the Beit	O Beit Yosef, em Yoreh Deah, simán 9, seif 1, trata disso e o Beit
+144	Yosef says that he saw a version in the Rambam: one who heated a knife and slaughtered with it, it is treifa.	Yosef diz que viu uma versão no Rambam: quem esquentou uma faca e abateu com ela, é trefá.
+145	He saw a version in the Rambam.	Ele viu uma versão no Rambam.
+146	The Radbaz writes that the correct version in the Rambam's words is "his shechitá is psulá," but	O Radbaz escreve que a versão correta nas palavras do Rambam é "a shechitá dele é psulá", mas
+147	in the responsa Lishonot HaRambam he writes that one should not alter the version we have before us.	nas responsas Lishonot HaRambam ele escreve que não se deve alterar a versão que temos diante de nós.
+148	He says that even the Rambam validated shechitá with an incandescent knife, for otherwise	Ele diz que até o Rambam validou a shechitá com faca incandescente, pois do contrário
+149	the Raavad would have objected to him. Why?	o Raavad teria feito objeção a ele. Por quê?
+150	Because the Raavad's position is to validate shechitá with an incandescent knife bedieved, so if the Rambam	Porque a posição do Raavad é validar bedieved a shechitá com faca incandescente, então se o Rambam
+151	had said psulá here, the Raavad would have objected to him.	tivesse dito psulá aqui, o Raavad teria feito objeção a ele.
+152	It emerges from this, gentlemen, that there is indeed great perplexity here,	Resulta daqui, senhores, que de fato há aqui uma grande perplexidade,
+153	and the question is whether there is room to reconcile.	e a questão é se há espaço para conciliar.
+154	The question is whether there is room to reconcile, so that on one hand I	A questão é se há espaço para conciliar, de modo que, por um lado, eu
+155	would say that if he slaughtered with an incandescent knife it is kosher, but in checking	diria que, se ele abateu com faca incandescente, é kasher, mas na verificação
+156	the knife one must check the three sides, that is, both the tip and the sides.	da faca é preciso verificar os três lados, isto é, tanto a ponta quanto as laterais.
+157	One has to know how to distinguish between the sugyot.	É preciso saber distinguir entre as sugyot.
+158	So I saw, I saw that there are indeed some who try	Então vi, vi que de fato há quem tente
+159	to reconcile, even before I tell you the practical halachá.	conciliar, antes mesmo de eu dizer a halachá na prática.
+160	The Ramban and the Rashba brought that some explained that the Gemara's applying the knife check	O Ramban e o Rashba trouxeram que alguns explicaram que o fato de a Guemará aplicar a verificação da faca
+161	for nicks to shechitá with an incandescent knife is not according to Rav Yemar;	contra falhas à shechitá com faca incandescente não é segundo Rav Yemar;
+162	the Sages disagreed with him, because there is a distinction between the cases, for even though regarding checking	os Sábios discordaram dele, porque há uma distinção entre os casos, pois embora na verificação
+163	the knife for nicks one must check the sides of the knife too, this is	da faca contra falhas seja preciso verificar também as laterais da faca, isso
+164	only out of concern that a small bulge might protrude from the knife	é apenas por receio de que uma pequena saliência se projete da faca
+165	and tear the simanim during the shechitá, even though the place of the cut	e rasgue os simanim durante a shechitá, ainda que o local do corte
+166	widens at that time, right?	se alargue nesse momento, certo?
+167	But in shechitá with an incandescent knife there is no room for this concern, since the knife	Mas na shechitá com faca incandescente não há lugar para esse receio, pois a faca
+168	was checked and has no bulges or nicks, and the widening of the place	foi verificada e não tem saliências nem falhas, e basta o alargamento do local
+169	of the cut during the shechitá so that the heat of the knife will not burn the simanim,	do corte durante a shechitá para que o calor da faca não queime os simanim,
+170	and therefore the shechitá is to be validated according to all opinions.	e por isso a shechitá deve ser validada segundo todas as opiniões.
+171	So see how beautiful this is.	Vejam como isso é bonito.
+172	This is really the distinction of the Ramban and the Rashba, a wonderful thing.	Esta é de fato a distinção do Ramban e do Rashba, algo maravilhoso.
+173	But listen, what the Gemara brought in Chulin, right, regarding the heating of the knife,	Mas escute, o que a Guemará trouxe em Chulin, certo, a respeito do aquecimento da faca,
+174	which is on page 8, side a, again it speaks of a knife that was checked and has no	que está na página 8, lado a, trata-se novamente de uma faca que foi verificada e não tem
+175	nicks.	falhas.
+176	They checked it from all sides; it is only incandescent.	Verificaram-na por todos os lados; ela só está incandescente.
+177	Now, since it has almost no nicks, the moment he slaughters, the sharpening comes before the heating (chidudá kodem leliboná).	Agora, como quase não tem falhas, no momento em que ele abate, o afiar vem antes do aquecer (chidudá kodem leliboná).
+178	The space widens, the sides also do not touch the simanim, no problem; but when there is	O espaço se alarga, as laterais também não tocam os simanim, sem problema; mas quando há
+179	a nick on the sides of the knife, there is a concern that perhaps the thorn of the nick	uma falha nas laterais da faca, há o receio de que talvez a farpa da falha
+180	protrudes a little, and then even though the simanim	se projete um pouco, e então, mesmo que os simanim
+181	widen, perhaps the thorn of the knife on the sides will touch the siman and tear it.	se alarguem, talvez a farpa da faca nas laterais toque o siman e o rasgue.
+182	This is really the distinction, and then I say that on one hand we rule that slaughtering with an incandescent knife is	Esta é de fato a distinção, e então digo que, por um lado, decidimos que abater com faca incandescente é
+183	kosher; on the other hand, if he slaughtered with a knife that has a nick, even	kasher; por outro lado, se abateu com uma faca que tem uma falha, mesmo
+184	on the sides, it is invalid.	nas laterais, é inválido.
+185	So although merevach revach does not help for a nick, it helps for incandescence, not for a nick.	Então, embora o "merevach revach" não ajude no caso da falha, ajuda no caso da incandescência, não da falha.
+186	On this they disagreed.	Nisso eles discordaram.
+187	On this they disagreed.	Nisso eles discordaram.
+188	Is merevach revach sufficient for a nick or not?	O "merevach revach" basta para a falha ou não?
+189	But for incandescence, according to everyone, it suffices.	Mas para a incandescência, segundo todos, basta.
+190	That is exactly the point.	Esse é exatamente o ponto.
+191	The Rashba writes another reason to distinguish between the cases: regarding checking the knife for nicks	O Rashba escreve outra razão para distinguir entre os casos: na verificação da faca contra falhas
+192	on its sides, even if the place of the cut widens during the shechitá, one must worry that he might tilt the knife	nas suas laterais, mesmo que o local do corte se alargue durante a shechitá, é preciso temer que ele incline a faca
+193	during the shechitá, and on the sides of the knife there is a nick that will hurt the simanim because of the tilt,	durante a shechitá, e nas laterais da faca há uma falha que machucará os simanim por causa da inclinação,
+194	and therefore one must check the sides of the knife for nicks as well.	e por isso é preciso verificar também as laterais da faca contra falhas.
+195	This is not so with one who slaughters with an incandescent knife, since he knows	Isso não ocorre com quem abate com faca incandescente, pois ele sabe
+196	of the knife's heat, he knows that the knife is incandescent, and he takes care	do calor da faca, sabe que a faca está incandescente e tem o cuidado
+197	to slaughter without tilting to the sides.	de abater sem inclinar para os lados.
+198	And since the place of the cut widens during the shechitá, the heat of the knife will not harm the simanim.	E como o local do corte se alarga durante a shechitá, o calor da faca não prejudicará os simanim.
+199	As a matter of halachá, the Ramban rejects both of these explanations,	Quanto à halachá, o Ramban rejeita essas duas explicações,
+200	because this position, which disagrees with Rav Yemar, is not mentioned in the Gemara,	porque essa posição, que discorda de Rav Yemar, não foi mencionada na Guemará,
+201	and it implies that the plain sense of the Gemara's sugya does not hold these distinctions, but that the cases are equal,	e isso indica que o sentido simples da sugya da Guemará não admite essas distinções, e que os casos são iguais,
+202	and since halachically Rav Yemar is rejected, one must check the sides of the knife for nicks, and he is inclined to reject from	e como, na halachá, Rav Yemar é rejeitado, é preciso verificar as laterais da faca contra falhas, e ele tende a rejeitar da
+203	the halachá the words of Rabbi Zeira and to invalidate shechitá with an incandescent knife. Such are the words of the Ramban.	halachá as palavras de Rabi Zeira e a invalidar a shechitá com faca incandescente. Assim são as palavras do Ramban.
+204	By contrast, the Raavad, to whom the Rashba refers, holds that	Já o Raavad, a quem o Rashba se refere, entende que
+205	the words of Rabbi Zeira are ruled as halachá, but his words	as palavras de Rabi Zeira são decididas como halachá, mas suas palavras
+206	are not said lechatchilá but bedieved,	não se aplicam lechatchilá, e sim bedieved,
+207	since lechatchilá one should not slaughter with an incandescent knife, lest he tilt it during the shechitá and the sides of the knife burn the simanim. But	pois lechatchilá não se deve abater com faca incandescente, para que não a incline durante a shechitá e as laterais da faca queimem os simanim. Mas
+208	bedieved, if he was aware of it and took care not to tilt the knife, one may rely on this and validate the shechitá.	bedieved, se ele sabia disso e teve o cuidado de não inclinar a faca, pode-se confiar nisso e validar a shechitá.
+209	However, regarding checking the knife, we do not rely on the shochet's care,	No entanto, quanto à verificação da faca, não confiamos no cuidado do shochet,
+210	and even if he said "I will slaughter and not tilt the knife," since he does not know whether there is a nick on the sides of the knife, and only	e mesmo que ele tenha dito "vou abater e não inclinarei a faca", como ele não sabe se há uma falha nas laterais da faca, e só
+211	after the shechitá they checked and found a nick, we do not rely on his words,	depois da shechitá verificaram e acharam uma falha, não se confia nas palavras dele,
+212	for it was done without awareness.	pois foi feito sem ciência.
+213	And the shechitá is psulá.	E a shechitá é psulá.
+214	Do you understand how the Raavad distinguishes?	Entendem como o Raavad distingue?
+215	He says that with incandescence, the shochet knows that the knife is incandescent.	Ele diz que, na incandescência, o shochet sabe que a faca está incandescente.
+216	So he is careful not to tilt it.	Então ele tem o cuidado de não inclinar.
+217	But with a nick, by contrast, he did not know that there was a flaw there.	Mas na falha, ao contrário, ele não sabia que havia ali um defeito.
+218	Only after the shechitá do they check the knife, and suddenly it turns out there is a flaw there.	Só depois da shechitá verificam a faca e de repente se revela que há ali um defeito.
+219	About this he says I do not rely on him, because he did not know, so I do not rely that he was careful.	Sobre isso ele diz que não confia nele, porque ele não sabia, então não confio que tenha tomado cuidado.
+220	Therefore the Raavad, on one hand, validates bedieved shechitá with an incandescent knife	Por isso o Raavad, por um lado, valida bedieved a shechitá com faca incandescente
+221	and invalidates a knife found with a flaw, even on the sides.	e invalida uma faca encontrada com defeito, mesmo nas laterais.
+222	Well, as a practical halachá, gentlemen, Maran wrote	Bem, na halachá para a prática, senhores, Maran escreveu
+223	in the Shulchan Arukh, Yoreh Deah, siman 9, seif 1, and this is a siman with only one seif.	no Shulchan Arukh, Yoreh Deah, simán 9, seif 1, e este é um simán com apenas um seif.
+224	Maran writes, see the wording,	Maran escreve, vejam a redação,
+225	If he slaughtered with an incandescent knife, his shechitá is psulá.	Se abateu com faca incandescente, a shechitá dele é psulá.
+226	And there are those who validate.	E há quem valide.
+227	The Rema adds: if he knew that it was incandescent and was careful not to touch with the sides.	O Rema acrescenta: se ele sabia que estava incandescente e teve o cuidado de não tocar com as laterais.
+228	Because he knew about it and was careful from the start not to touch the sides.	Porque ele sabia disso e teve o cuidado desde o início de não tocar com as laterais.
+229	So now we have Maran: a stam, and then "there are those who," so as the stam, right?	Então agora temos Maran: um stam e depois "há quem", como o stam, certo?
+230	So Maran invalidates.	Então Maran invalida.
+231	That is certainly how we Sephardim learn Maran's opinion, regarding the rules of halachic ruling.	É assim que nós, sefaradim, certamente estudamos a posição de Maran, quanto às regras de decisão.
+232	Some struggled with Maran's opinion.	Alguns se debateram com a posição de Maran.
+233	For example, the Bach writes that from the words of Maran, who brought both opinions,	Por exemplo, o Bach escreve que, das palavras de Maran, que trouxe as duas opiniões,
+234	it seems that there is room to rely on the lenient ones who validate this shechitá.	parece haver base para confiar nos que são lenientes e validam essa shechitá.
+235	Interesting.	Interessante.
+236	So the Peri Chadash, Rabi Chizkiyá de Silva, adopts in practice	Assim o Peri Chadash, Rabi Chizkiyá de Silva, adota na prática
+237	that one may rely on the lenient ones in a case of great loss.	que se pode confiar nos que são lenientes em caso de grande prejuízo.
+238	But the Bach writes that although from the words of the Shulchan Arukh it implies that one can rely on the lenient ones bedieved,	Mas o Bach escreve que, embora das palavras do Shulchan Arukh se entenda que é possível confiar nos lenientes bedieved,
+239	the Bach himself writes that even though it seems so in their view, the halachá is not so, and even	o próprio Bach escreve que, embora assim pareça na opinião deles, a halachá não é assim, e mesmo
