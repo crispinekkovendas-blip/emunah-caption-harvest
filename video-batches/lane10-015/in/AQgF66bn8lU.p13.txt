@@ -1,0 +1,64 @@
+videoId: AQgF66bn8lU
+parte 14 de 28 · traduzir as linhas 520 a 559 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sucot, eleições, eutanásia e crise no mundo haredi
+RESUMO: Numa edição especial de Sucot gravada na sucá, o rabino Gottlieb e Avri Gilad começam falando do lulav no Templo quando Sucot caía em Shabat: os kohanim lançavam os lulavim e o povo brigava por eles. Passam depois ao discurso de Netanyahu na ONU, que consideram ineficaz, e o rabino lembra que "é sabido que Esav odeia Yaakov" e conta como o Chofetz Chaim comoveu o primeiro-ministro polonês sem falar polonês. Discutem a eutanásia no Canadá, a fé na alma, a demência e a nova lista haredi (alistamento, mulheres, ensino básico), além do aumento de jovens que deixam o mundo haredi, que o rabino atribui a uma sociedade seca e coercitiva. O rabino fala de sua aula de cabalá em Arad, de Chagigá ("quatro entraram no Pardes") e lê um texto sobre os quatro minim como união das partes da alma, que diz estar quase palavra por palavra no Zohar, com o etrog como feminino e os outros três como masculino. Terminam com a queda do QI, o voto de eleitores mal informados e a proposta de dois votos para quem estuda ou contribui.
+MOMENTOS: 00:37 Abertura de Sucot e a sucá do rabino · 01:44 O lulav no Templo quando Sucot cai em Shabat · 04:27 Discurso de Netanyahu na ONU e a falta de impacto · 06:39 Esav odeia Yaakov e a história do Chofetz Chaim · 09:33 Dedicatória: cura de Nariya Dov Leiter · 15:01 Eutanásia no Canadá · 17:19 Fé, alma e o valor da vida · 21:17 Partido haredi novo: alistamento, mulheres e ensino básico · 24:29 Pesquisa sobre jovens que deixam o mundo haredi · 35:59 Demência, alma e responsabilidade · 41:57 Aula de cabalá em Arad · 44:55 Os quatro minim e a união interior · 47:30 Queda do QI e a democracia; proposta de dois votos
+FONTES CITADAS: 01:44 Mishná Sucá 4:4 · 06:39 Rashi em Bereshit 33:4 · 17:51 Crença na eternidade da alma · 31:11 Pirkei Avot 5:16 · 31:48 Shabat 33b · 32:22 Devarim 17:10 · 32:45 Yeshayahu 53:7 · 33:27 Tehillim 37:25 · 40:09 Iyov 5:7 · 42:24 Shulchan Arukh, Yoré Deá 246:4 · 42:42 Baal HaSulam · 43:27 Chagigá 14b · 44:58 Vayikra 23:40 · 45:44 Zohar sobre os quatro minim · 45:58 Vayikra Rabá 30:12 · 46:20 Zohar sobre os quatro minim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+508|25:18|וצעירות, ששואלים שאלות, שנמאס להם כבר מכל
+509|25:23|המאפיה.
+510|25:24|כמה אתה חושב הסמארטפונים אחראים לתופעה הזאת?
+511|25:30|הסמארטפונים, יש להם אחריות מסוימת לתופעה הזאת.
+512|25:34|כי פשוט הסמארטפונים מצביעים על תופעות.
+513|25:39|יש לך את הפעיל ליכוד בעיריית בני ברק.
+514|25:43|הוא מצביע על תופעות.
+515|25:46|וכמוהו יש עוד.
+516|25:48|אז משטייטל כזה שאף אחד...
+517|25:52|את כל הפשעים הצניעו מלמטה.
+518|25:55|טיטאו אותם.
+519|25:57|היום הכל צף.
+
+LINHAS A TRADUZIR:
+520|25:58|הכל עולה.
+521|26:00|וזה טוב מאוד.
+522|26:01|זה טוב מאוד שכולם ידעו.
+523|26:05|וזהו, ושיחליטו, שאנשים יראו באיזה חברה הם חיים,
+524|26:10|ושיחליטו.
+525|26:11|אני לא רואה שהמפלגה הזאת היא הציבור החרדי של...
+526|26:15|איך קוראים לו?
+527|26:15|הוא גם לייטר, נכון?
+528|26:16|לייטנר.
+529|26:17|לייטנר.
+530|26:19|כמו הראש ה...
+531|26:23|כן?
+532|26:23|נו, זה שהוא...
+533|26:28|הרב לייטר, איך קוראים לה?
+534|26:31|לייכטר.
+535|26:31|לא לייכטר.
+536|26:32|נו, זה שעומד בראש הקבלה הזה, נו.
+537|26:34|אה, לייטמן?
+538|26:36|לייטמן, סליחה, רייט, סליחה.
+539|26:38|לייטמן.
+540|26:39|הוא לייטמן.
+541|26:41|חבר שלך, נכון?
+542|26:42|ממש.
+543|26:43|תשמע, אני חושב שבכל מפעל נורמלי,
+544|26:49|אם הוא הולך ונכשל, אז הדירקטוריון צריך לזמן את ראשי המערכת
+545|26:55|ולפטר אותם.
+546|26:56|כן.
+547|26:57|עכשיו, בבני ברק...
+548|26:59|נאמר רק על הנתון הזה של 15.7% של אנשים שעוזבים.
+549|27:04|מה זה אומר?
+550|27:05|זה אומר שראשי המערכת הם בכשל גדול מאוד.
+551|27:10|אז מה פשר עבודת האלילים הזאת שנמשכת?
+552|27:15|אז זה אומר שהשיטה נכשלת.
+553|27:20|אתה יודע, יש הרבה שיטות שנכשלות וממשיכים איתן.
+554|27:22|גם הדמוקרטיה הליברלית בכישלון מוחלט.
+555|27:25|ואנחנו ממשיכים איתה כי זה הכי טוב שיש.
+556|27:28|כרגע אין משהו יותר טוב.
+557|27:30|אז אני מניח שגם לחרדים אין משהו יותר טוב, אבל מה שמעניין...
+558|27:33|יש משהו יותר טוב, אבל הם לא מעוניינים ולא רוצים.
+559|27:38|לא רוצים לשמוע.

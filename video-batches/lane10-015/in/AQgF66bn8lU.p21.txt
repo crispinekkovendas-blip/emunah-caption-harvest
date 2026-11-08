@@ -1,0 +1,64 @@
+videoId: AQgF66bn8lU
+parte 22 de 28 · traduzir as linhas 840 a 879 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sucot, eleições, eutanásia e crise no mundo haredi
+RESUMO: Numa edição especial de Sucot gravada na sucá, o rabino Gottlieb e Avri Gilad começam falando do lulav no Templo quando Sucot caía em Shabat: os kohanim lançavam os lulavim e o povo brigava por eles. Passam depois ao discurso de Netanyahu na ONU, que consideram ineficaz, e o rabino lembra que "é sabido que Esav odeia Yaakov" e conta como o Chofetz Chaim comoveu o primeiro-ministro polonês sem falar polonês. Discutem a eutanásia no Canadá, a fé na alma, a demência e a nova lista haredi (alistamento, mulheres, ensino básico), além do aumento de jovens que deixam o mundo haredi, que o rabino atribui a uma sociedade seca e coercitiva. O rabino fala de sua aula de cabalá em Arad, de Chagigá ("quatro entraram no Pardes") e lê um texto sobre os quatro minim como união das partes da alma, que diz estar quase palavra por palavra no Zohar, com o etrog como feminino e os outros três como masculino. Terminam com a queda do QI, o voto de eleitores mal informados e a proposta de dois votos para quem estuda ou contribui.
+MOMENTOS: 00:37 Abertura de Sucot e a sucá do rabino · 01:44 O lulav no Templo quando Sucot cai em Shabat · 04:27 Discurso de Netanyahu na ONU e a falta de impacto · 06:39 Esav odeia Yaakov e a história do Chofetz Chaim · 09:33 Dedicatória: cura de Nariya Dov Leiter · 15:01 Eutanásia no Canadá · 17:19 Fé, alma e o valor da vida · 21:17 Partido haredi novo: alistamento, mulheres e ensino básico · 24:29 Pesquisa sobre jovens que deixam o mundo haredi · 35:59 Demência, alma e responsabilidade · 41:57 Aula de cabalá em Arad · 44:55 Os quatro minim e a união interior · 47:30 Queda do QI e a democracia; proposta de dois votos
+FONTES CITADAS: 01:44 Mishná Sucá 4:4 · 06:39 Rashi em Bereshit 33:4 · 17:51 Crença na eternidade da alma · 31:11 Pirkei Avot 5:16 · 31:48 Shabat 33b · 32:22 Devarim 17:10 · 32:45 Yeshayahu 53:7 · 33:27 Tehillim 37:25 · 40:09 Iyov 5:7 · 42:24 Shulchan Arukh, Yoré Deá 246:4 · 42:42 Baal HaSulam · 43:27 Chagigá 14b · 44:58 Vayikra 23:40 · 45:44 Zohar sobre os quatro minim · 45:58 Vayikra Rabá 30:12 · 46:20 Zohar sobre os quatro minim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|40:55|כן, ועם המקל אני הולך לעציץ ומשקה אותו.
+829|41:01|ואחר כך אני יורד למטה ויושב על יד הזה.
+830|41:04|הנה החלון פרח עציץ.
+831|41:07|כל היום הגן...
+832|41:08|יש לך מישהו לבן?
+833|41:10|תודה.
+834|41:11|זה מה שיפה ברב, שהוא תמיד גלוי, הוא צריך מה שהוא אומר, יש לך משהו לבן.
+835|41:16|הוא לא מסתיר את הצרכים שלו.
+836|41:18|לא, ממש לא.
+837|41:24|רגע.
+838|41:25|גם קינוח אף של אדמו"ר לדבר תורה ייחשב.
+839|41:32|עם שיחת חולין, איך ש...
+
+LINHAS A TRADUZIR:
+840|41:35|אז אפצ'י זה סודי סודות.
+841|41:39|כן.
+842|41:40|אתה יודע, אתמול הייתי בערד אצל החבורה הנפלאה הזאת.
+843|41:43|באמת?
+844|41:44|כן.
+845|41:44|שוב.
+846|41:44|כן, זו פעם שלישית.
+847|41:46|מדהים.
+848|41:46|זה כל שבוע ביום חמישי.
+849|41:49|ואתמול היה ממש אינטראקציה חזקה מאוד, הם שאלו, והם מאוד חכמים.
+850|41:54|כן?
+851|41:55|הם ממש, השאלות הן טובות.
+852|41:57|הוא מדבר על המכינה הקדם-צבאית שאני עומד בראשה, מכינת קול גיא.
+853|42:02|כן.
+854|42:03|אבל בסוף ניגש אליי איזה בחור, ואומר לי, תגיד,
+855|42:10|מה פתאום אתה מלמד פה קבלה?
+856|42:13|הוא הבאתי ניירות, ובניירות היה כתוב איזה מילים של קבלה קצת.
+857|42:18|מה פתאום אתה מלמד פה קבלה?
+858|42:21|החבר'ה האלה פה לא יודעים כלום מהחיים שלהם, לא משנה, לא גמרה.
+859|42:24|וזה ידוע שאסור ללמד קבלה למי שלא למד שום דבר.
+860|42:31|והוא הביא איתו ניירות ורשם איזה דברים בניירות.
+861|42:35|אני לא יודע מה הוא רוצה לעשות עם זה.
+862|42:39|אבל אני אמרתי לו כמה וכמה נקודות.
+863|42:42|א', שכל ההגבלות שהיו על קבלה פעם ירדו, בגלל שבעל הסולם מאוד הנגיש את
+864|42:48|הדברים.
+865|42:49|וב', אמרתי לו, זה דומה לחולה ממש ממש במצב נואש.
+866|42:56|כן, נותנים לו תרופה ניסיונית.
+867|42:57|שאתה רוצה לתת לו אקמול.
+868|42:58|כן.
+869|42:59|שאתה רוצה לתת לו אקמול.
+870|43:01|ככה משנה עוזרת לחבר'ה.
+871|43:03|כן.
+872|43:04|משנה או גמרא, אנחנו רואים מה קורה בציבור של המשנה והגמרא.
+873|43:08|אנחנו צריכים פה מכת חשמל.
+874|43:11|אבל הבחור הסתכל בצורה מאוד ביקורתית.
+875|43:15|מי הבחור הזה?
+876|43:16|אני מפטר אותו היום.
+877|43:17|קוראים לו יהודה.
+878|43:19|בחור טוב, אבל מאוד ביקורתי.
+879|43:23|כאילו, מה פתאום אתה...

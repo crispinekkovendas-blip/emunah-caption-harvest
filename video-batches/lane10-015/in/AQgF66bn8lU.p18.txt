@@ -1,0 +1,64 @@
+videoId: AQgF66bn8lU
+parte 19 de 28 · traduzir as linhas 720 a 759 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sucot, eleições, eutanásia e crise no mundo haredi
+RESUMO: Numa edição especial de Sucot gravada na sucá, o rabino Gottlieb e Avri Gilad começam falando do lulav no Templo quando Sucot caía em Shabat: os kohanim lançavam os lulavim e o povo brigava por eles. Passam depois ao discurso de Netanyahu na ONU, que consideram ineficaz, e o rabino lembra que "é sabido que Esav odeia Yaakov" e conta como o Chofetz Chaim comoveu o primeiro-ministro polonês sem falar polonês. Discutem a eutanásia no Canadá, a fé na alma, a demência e a nova lista haredi (alistamento, mulheres, ensino básico), além do aumento de jovens que deixam o mundo haredi, que o rabino atribui a uma sociedade seca e coercitiva. O rabino fala de sua aula de cabalá em Arad, de Chagigá ("quatro entraram no Pardes") e lê um texto sobre os quatro minim como união das partes da alma, que diz estar quase palavra por palavra no Zohar, com o etrog como feminino e os outros três como masculino. Terminam com a queda do QI, o voto de eleitores mal informados e a proposta de dois votos para quem estuda ou contribui.
+MOMENTOS: 00:37 Abertura de Sucot e a sucá do rabino · 01:44 O lulav no Templo quando Sucot cai em Shabat · 04:27 Discurso de Netanyahu na ONU e a falta de impacto · 06:39 Esav odeia Yaakov e a história do Chofetz Chaim · 09:33 Dedicatória: cura de Nariya Dov Leiter · 15:01 Eutanásia no Canadá · 17:19 Fé, alma e o valor da vida · 21:17 Partido haredi novo: alistamento, mulheres e ensino básico · 24:29 Pesquisa sobre jovens que deixam o mundo haredi · 35:59 Demência, alma e responsabilidade · 41:57 Aula de cabalá em Arad · 44:55 Os quatro minim e a união interior · 47:30 Queda do QI e a democracia; proposta de dois votos
+FONTES CITADAS: 01:44 Mishná Sucá 4:4 · 06:39 Rashi em Bereshit 33:4 · 17:51 Crença na eternidade da alma · 31:11 Pirkei Avot 5:16 · 31:48 Shabat 33b · 32:22 Devarim 17:10 · 32:45 Yeshayahu 53:7 · 33:27 Tehillim 37:25 · 40:09 Iyov 5:7 · 42:24 Shulchan Arukh, Yoré Deá 246:4 · 42:42 Baal HaSulam · 43:27 Chagigá 14b · 44:58 Vayikra 23:40 · 45:44 Zohar sobre os quatro minim · 45:58 Vayikra Rabá 30:12 · 46:20 Zohar sobre os quatro minim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+708|35:06|לא, לא תהיה הפתעת הבחירות.
+709|35:10|זה לא יקרה.
+710|35:11|אני חושב שכולם מבינים את זה.
+711|35:13|כולם מבינים את זה.
+712|35:16|זה לא...
+713|35:17|ראיתי הבוקר שבגוש ה-whatever, איך שתקרא לו,
+714|35:24|כבר מכינים לו איזושהי חבילת פרישה מההשתתפות בבחירות.
+715|35:31|חבילה מכבדת, לא יודע מה יתנו לו.
+716|35:36|איזה ג'וב חשוב.
+717|35:38|זה ג'וב אם הם יהיו במצב של לחלק ג'ובים.
+718|35:42|אני לא חושב שזה יהיה המצב, לצערי, אבל אני לא חושב שהם יהיו במצב של זה.
+719|35:48|ועם זאת, יש לומר גם לזכותו של האיש הזה, שאנחנו יודעים, והוא דיבר על זה.
+
+LINHAS A TRADUZIR:
+720|35:55|שיש לו בבית אישה עם דימנציה.
+721|35:57|כן.
+722|35:59|בימים האחרונים איכשהו פתאום מסביבי
+723|36:05|צצו הרבה אנשים עם דימנציה.
+724|36:07|פה זה אומר אימא עם דימנציה, פה הוא אומר אבא עם דימנציה.
+725|36:10|המון המון אנשים.
+726|36:12|כן.
+727|36:12|יש המון דימנציה.
+728|36:14|כן.
+729|36:17|יש לי שכן שאשתו הפסיקה לתקשר לחלוטין.
+730|36:22|אז במקרה כזה של דימנציה, כשאתה עולה על מסלול הדמנציה, אתה לא נוסע לקנדה, למטת
+731|36:28|חסד הזו שדיברנו בה?
+732|36:33|אני?
+733|36:33|אתה שואל אותי באופן אישי?
+734|36:35|שואל אותך.
+735|36:38|כשאתה יודע שתכף הנפש שלך הולכת להתפורר מול העיניים של
+736|36:44|אנשים, שחלקים בנפש, וזה מה שקורה בדמנציה, שחלקים שהיו כמוסים
+737|36:51|פתאום יוצאים החוצה.
+738|36:52|כל המכוער שבך.
+739|36:53|כל המכוער, ואתה נהיה...
+740|36:56|אתה יודע, יש אנשים...
+741|36:57|למשל ולשנינה.
+742|37:00|וגם ככה...
+743|37:01|אנשים רואים מה שהחבאת כל החיים בפנים.
+744|37:04|נכון, וגם לפעמים זה לוקח הרבה שנים עד שאתה מת מזה.
+745|37:09|כן.
+746|37:10|וככל שזה לוקח יותר זמן, מילא, אתה יודע, אתה נופל לאיזה אלצהיימר מהיר, חצי שנה
+747|37:15|הלכת, בסדר, משהו עוד נשאר מזכרך של לפני המחלה.
+748|37:19|כן.
+749|37:20|אבל אם זה נמשך שנים...
+750|37:23|שש, שבע, עשר שנים, בסוף זאת המורשת שלך.
+751|37:27|בסוף זה מה שיזכרו ממך.
+752|37:30|כן.
+753|37:30|כן?
+754|37:31|אני לא זורם על זה.
+755|37:33|לא.
+756|37:34|יכתבו על המצבה שלך, הסתלק מדמנציה מבורכת.
+757|37:39|לא.
+758|37:42|לא ולא.
+759|37:43|מה?

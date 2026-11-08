@@ -1,0 +1,64 @@
+videoId: AQgF66bn8lU
+parte 12 de 28 · traduzir as linhas 440 a 479 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sucot, eleições, eutanásia e crise no mundo haredi
+RESUMO: Numa edição especial de Sucot gravada na sucá, o rabino Gottlieb e Avri Gilad começam falando do lulav no Templo quando Sucot caía em Shabat: os kohanim lançavam os lulavim e o povo brigava por eles. Passam depois ao discurso de Netanyahu na ONU, que consideram ineficaz, e o rabino lembra que "é sabido que Esav odeia Yaakov" e conta como o Chofetz Chaim comoveu o primeiro-ministro polonês sem falar polonês. Discutem a eutanásia no Canadá, a fé na alma, a demência e a nova lista haredi (alistamento, mulheres, ensino básico), além do aumento de jovens que deixam o mundo haredi, que o rabino atribui a uma sociedade seca e coercitiva. O rabino fala de sua aula de cabalá em Arad, de Chagigá ("quatro entraram no Pardes") e lê um texto sobre os quatro minim como união das partes da alma, que diz estar quase palavra por palavra no Zohar, com o etrog como feminino e os outros três como masculino. Terminam com a queda do QI, o voto de eleitores mal informados e a proposta de dois votos para quem estuda ou contribui.
+MOMENTOS: 00:37 Abertura de Sucot e a sucá do rabino · 01:44 O lulav no Templo quando Sucot cai em Shabat · 04:27 Discurso de Netanyahu na ONU e a falta de impacto · 06:39 Esav odeia Yaakov e a história do Chofetz Chaim · 09:33 Dedicatória: cura de Nariya Dov Leiter · 15:01 Eutanásia no Canadá · 17:19 Fé, alma e o valor da vida · 21:17 Partido haredi novo: alistamento, mulheres e ensino básico · 24:29 Pesquisa sobre jovens que deixam o mundo haredi · 35:59 Demência, alma e responsabilidade · 41:57 Aula de cabalá em Arad · 44:55 Os quatro minim e a união interior · 47:30 Queda do QI e a democracia; proposta de dois votos
+FONTES CITADAS: 01:44 Mishná Sucá 4:4 · 06:39 Rashi em Bereshit 33:4 · 17:51 Crença na eternidade da alma · 31:11 Pirkei Avot 5:16 · 31:48 Shabat 33b · 32:22 Devarim 17:10 · 32:45 Yeshayahu 53:7 · 33:27 Tehillim 37:25 · 40:09 Iyov 5:7 · 42:24 Shulchan Arukh, Yoré Deá 246:4 · 42:42 Baal HaSulam · 43:27 Chagigá 14b · 44:58 Vayikra 23:40 · 45:44 Zohar sobre os quatro minim · 45:58 Vayikra Rabá 30:12 · 46:20 Zohar sobre os quatro minim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+428|21:25|כן, אני קורא לחילונים להצביע עבורה.
+429|21:28|אוי, זו קריאה מופרכת לחלוטין.
+430|21:30|כי אני חושב...
+431|21:31|חשוב לדייק.
+432|21:33|אין פילוח רשמי בקנדה של מקבלי המתת החסד לפי דת.
+433|21:37|לכן לא ניתן לדעת כמה מוסלמים ביניהם.
+434|21:40|זה לא כאיסור.
+435|21:42|בקנדה כן אוספים נתוני דת במפקד, אבל לא בהקשר הזה.
+436|21:46|בשורה התחתונה, יכול להיות שיש מוסלמים, אבל אין נתון רשמי שמראה את זה.
+437|21:51|אוקיי, תודה.
+438|21:52|הנקודה היא ש...
+439|21:54|אתה יודע, כתב לי חברי החרדי ישראל, שמקשיב עכשיו
+
+LINHAS A TRADUZIR:
+440|22:00|כרגיל, כתב לי לפני כמה שבועות, יש לנו
+441|22:06|תקווה גדולה וגם אתה ביקש ממני שאני גם אצביע בשבילם.
+442|22:10|כן.
+443|22:11|שלחתי לו מיד את הלינק שאומר שהמפלגה הזאת אומרת לא לגיוס בני ישיבות.
+444|22:18|לא לגיוס.
+445|22:18|אבל כן לגיוס מי שלא לומד.
+446|22:20|בסדר, אבל...
+447|22:21|זה כבר התקדמות.
+448|22:22|נכון, אבל כשאתה...
+449|22:23|יש כאן שלוש נקודות.
+450|22:25|אחד, גיוס למי שלא לומד.
+451|22:28|שתיים, נשים, שזה חשוב מאוד.
+452|22:32|חשוב מאוד.
+453|22:32|מאוד חשוב.
+454|22:34|והם מנסים, אני רואה, כל ברמה, וכל המי ומה מנסים
+455|22:40|לזמן את הנשים הללו ולפרק אותן.
+456|22:43|וזה לא בסדר.
+457|22:45|לא בסדר.
+458|22:47|ויש עוד נתון, עוד עניין.
+459|22:51|מה עוד עניין?
+460|22:52|גם לימודי ליבה.
+461|22:54|כן.
+462|22:55|אנגלית, מתמטיקה, זה גם חשוב.
+463|22:58|זה חשוב מאוד.
+464|22:59|ובכלל, אני חושב שחשוב לפרק את ההגמוניה הישנה.
+465|23:06|אבל אתה יודע, כשאתם פונים אלינו, החילונים, ואומרים, תעזרו לנו...
+466|23:12|לשנות את החברה שלנו.
+467|23:14|זה בקשת עזרה, כן.
+468|23:15|כן, אז בסדר, אז אתה יודע, בימים כתיקונם הייתי אומר סבבה, אבל יש לי דברים יותר חשובים על
+469|23:20|הראש כרגע מלעזור לך לשנות את החברה שלך.
+470|23:24|מבין, אוקיי.
+471|23:26|אני זרקתי איזה אבן על פני המים.
+472|23:30|וגם אמרה לי איזה גברת חרדית, אתם, אם
+473|23:36|אתם מצביעים למפלגה הזאת, מה אתם עושים בעצם?
+474|23:39|אתם תגרמו לזה ש...
+475|23:42|חבר'ה שלא לומדים יעבדו על המערכת שהם כן לומדים כדי לא להתגייס.
+476|23:47|כלומר, האמירה רק מי שלא לומד יתגייס היא פתח, לא שהפתח הזה לא
+477|23:53|פתוח עכשיו ורבים משתמשים בו.
+478|23:55|רבים מאוד.
+479|23:56|רבים מאוד.

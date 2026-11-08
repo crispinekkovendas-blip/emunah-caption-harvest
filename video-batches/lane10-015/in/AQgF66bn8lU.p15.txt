@@ -1,0 +1,64 @@
+videoId: AQgF66bn8lU
+parte 16 de 28 · traduzir as linhas 600 a 639 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sucot, eleições, eutanásia e crise no mundo haredi
+RESUMO: Numa edição especial de Sucot gravada na sucá, o rabino Gottlieb e Avri Gilad começam falando do lulav no Templo quando Sucot caía em Shabat: os kohanim lançavam os lulavim e o povo brigava por eles. Passam depois ao discurso de Netanyahu na ONU, que consideram ineficaz, e o rabino lembra que "é sabido que Esav odeia Yaakov" e conta como o Chofetz Chaim comoveu o primeiro-ministro polonês sem falar polonês. Discutem a eutanásia no Canadá, a fé na alma, a demência e a nova lista haredi (alistamento, mulheres, ensino básico), além do aumento de jovens que deixam o mundo haredi, que o rabino atribui a uma sociedade seca e coercitiva. O rabino fala de sua aula de cabalá em Arad, de Chagigá ("quatro entraram no Pardes") e lê um texto sobre os quatro minim como união das partes da alma, que diz estar quase palavra por palavra no Zohar, com o etrog como feminino e os outros três como masculino. Terminam com a queda do QI, o voto de eleitores mal informados e a proposta de dois votos para quem estuda ou contribui.
+MOMENTOS: 00:37 Abertura de Sucot e a sucá do rabino · 01:44 O lulav no Templo quando Sucot cai em Shabat · 04:27 Discurso de Netanyahu na ONU e a falta de impacto · 06:39 Esav odeia Yaakov e a história do Chofetz Chaim · 09:33 Dedicatória: cura de Nariya Dov Leiter · 15:01 Eutanásia no Canadá · 17:19 Fé, alma e o valor da vida · 21:17 Partido haredi novo: alistamento, mulheres e ensino básico · 24:29 Pesquisa sobre jovens que deixam o mundo haredi · 35:59 Demência, alma e responsabilidade · 41:57 Aula de cabalá em Arad · 44:55 Os quatro minim e a união interior · 47:30 Queda do QI e a democracia; proposta de dois votos
+FONTES CITADAS: 01:44 Mishná Sucá 4:4 · 06:39 Rashi em Bereshit 33:4 · 17:51 Crença na eternidade da alma · 31:11 Pirkei Avot 5:16 · 31:48 Shabat 33b · 32:22 Devarim 17:10 · 32:45 Yeshayahu 53:7 · 33:27 Tehillim 37:25 · 40:09 Iyov 5:7 · 42:24 Shulchan Arukh, Yoré Deá 246:4 · 42:42 Baal HaSulam · 43:27 Chagigá 14b · 44:58 Vayikra 23:40 · 45:44 Zohar sobre os quatro minim · 45:58 Vayikra Rabá 30:12 · 46:20 Zohar sobre os quatro minim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|29:01|אבל אני כן מכיר בנות שמה שגרם להן לעזוב
+589|29:07|את הדת זה זה.
+590|29:09|זה שטמטמו להן בסמינר שנים את הראש על עובי הגרביים.
+591|29:15|במקום לדבר איתן על...
+592|29:17|רומן עם הבורא, דיברו איתם על רומן עם הגרביים.
+593|29:23|כן.
+594|29:24|וזה עוד לפני שהתחלנו לדבר על מה שקורה ביבניאל.
+595|29:29|עם חברי הכת המקומית, שהתפקדו לליכוד.
+596|29:35|כן, התפקדו.
+597|29:36|התפקדו לליכוד.
+598|29:37|לייטמן התפקד לליכוד, יבניאל מתפקדים.
+599|29:40|ממש, הליכוד הפכה להיות מה שנקרא כתות כתות.
+
+LINHAS A TRADUZIR:
+600|29:44|עכשיו, לגבי לייטמן, צריך להגיד שזה לכאורה בעל מאפיינים של כת, כי הם תובעים את כל מי שאומר
+601|29:49|שהוא כת.
+602|29:50|כן.
+603|29:52|אני יודע על הרבה עדויות שיש שם התנהלויות מאוד בעייתיות שמזכירות כת, אבל
+604|29:59|אין לי צורך להתעסק איתם, גם כשמלוויצקי כבר לא בתוך מעגלי ההשפעה.
+605|30:05|כן.
+606|30:06|אתה ראית אותו, אגב, בסרטון הזה מלפני שבוע מתפוצץ על זה שאף אחד מהעוזרים הפרלמנטריים עזבו
+607|30:10|אותו, עזבו אותו.
+608|30:12|נשאר עזוב.
+609|30:13|וואו, איזה יופי, אתה יודע, זה באמת רגע מזוקק של עונג כשאתה רואה
+610|30:19|רודן, פסיכופת,
+611|30:25|נשאר עזוב.
+612|30:27|זה פשוט, אין, אין, זה וואו.
+613|30:31|זה כמו שאתה רואה, אתה יודע, לפעמים אתה רואה כלב גדול, כזה גדול, ואז הוא נכנס למים, יוצא
+614|30:37|צימוק, ככה.
+615|30:40|או ציפור, פתאום בגשם, אתה יודע, כל מיני יונקי דבש וכאלה, פתאום הם
+616|30:46|מרטבים ופתאום הם נראים כמו איזה אפונה עפה.
+617|30:49|כן.
+618|30:51|זה היה פשוט רגע של עונג צרוף ממש.
+619|30:57|לא, בשבילי זה לא היה כל כך עונג.
+620|31:00|למה?
+621|31:02|בגלל שהיה צר לי לראות
+622|31:06|שכל הקשר...
+623|31:09|הוא קשר התלוי בדבר.
+624|31:11|אה, ברור.
+625|31:13|ברגע שמתבטל הדבר, אז כבר נגמר כל הקשר.
+626|31:17|על זה היה צר לי.
+627|31:18|לא על פרסונלית, על האדם עצמו, אבל רק על העובדה הזאת.
+628|31:27|יש שם גברת מאוד מאוד רצינית, שקוראים לה דוקטור
+629|31:35|יפה.
+630|31:37|איפה?
+631|31:37|בחרדים?
+632|31:38|כן, בציבור החרדי.
+633|31:41|יש שם נשים רציניות מאוד.
+634|31:43|מאוד.
+635|31:43|אבל הן נשים, ודעתן קלה.
+636|31:48|אישה רצינית ביותר.
+637|31:50|היא הייתה מורה בסמינר הכי נחשב בעולם החרדי.
+638|31:57|שמע, זה בית יעקב?
+639|31:58|מה זה?

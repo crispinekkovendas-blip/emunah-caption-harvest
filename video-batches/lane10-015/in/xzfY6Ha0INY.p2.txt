@@ -1,0 +1,77 @@
+videoId: xzfY6Ha0INY
+parte 3 de 3 · traduzir as linhas 240 a 292 (53 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Shomer sachar e shomer chinam: Bava Metzia 6, mishnayot 6-8
+RESUMO: O rabino estuda em Bava Metzia, capítulo 6, as mishnayot 6 a 8, com o comentário de Rabenu Ovadia de Bartenura. A mishná 6 diz que todos os artesãos são shomrei sachar (guardiões remunerados), mas passam a shomer chinam (guardião gratuito) quando avisam que o objeto está pronto para ser retirado. Também trata do "shmor li veeshmor lecha", em que cada um guarda para o outro, e do "hanach lefanay", que só cria dever de guarda se a pessoa disser "diante de mim". A mishná 7 explica que quem empresta sobre penhor é shomer sachar, pelo "sechar mitzvá": como quem se ocupa de uma mitzvá fica dispensado de outra, ele deixa de dar uma perutá ao pobre. Rabi Yehuda discorda quanto ao empréstimo em dinheiro, e a halachá não segue Rabi Yehuda. Abba Shaul permite alugar o penhor do pobre a terceiros e abater o aluguel da dívida, por ser como devolver um objeto perdido. A mishná 8 trata de quem quebra um barril ao transportá-lo: os guardiões juram que não foram negligentes, e a Gemará conclui que, pelo din da Torá, seriam obrigados a pagar, mas os Sábios instituíram a isenção mediante juramento para que ninguém deixe de ajudar o próximo. No fim ele distingue o ajudante ocasional do profissional, que responde por seu serviço, e dá um conselho prático sobre contratar transportadores.
+MOMENTOS: 00:03 Mishná 6: artesãos são shomrei sachar · 00:25 Os quatro guardiões e suas responsabilidades · 01:47 Quando o artesão passa a shomer chinam · 03:08 Bartenura: aviso de que a obra está pronta · 04:18 "Shmor li veeshmor lecha" e o din de "baalav imo" · 05:35 "Hanach lefanay" versus "hanach" simples · 07:08 Mishná 7: empréstimo sobre penhor e sechar mitzvá · 10:06 Opinião de Rabi Yehuda e a halachá · 11:30 Abba Shaul: alugar o penhor do pobre · 13:47 Mishná 8: barril quebrado e juramento · 15:19 Conclusão da Gemará e a takaná dos Sábios · 17:13 Profissionais e transportadores com ou sem garantia
+FONTES CITADAS: 00:03 Bava Metzia 6:6 · 00:25 Shevuot 8:1 (os quatro guardiões) · 01:16 Bartenura em Bava Metzia 6:6 · 03:08 Bartenura em Bava Metzia 6:6 · 04:18 Bava Metzia 6:6 · 04:24 Bartenura em Bava Metzia 6:6 · 04:45 Shemot 22:14 · 05:35 Bava Metzia 6:6 · 06:11 Bartenura em Bava Metzia 6:6 · 07:08 Bava Metzia 6:7 · 07:57 Sukkah 25a · 07:49 Bava Metzia 82b · 08:09 Bartenura em Bava Metzia 6:7 · 09:40 Leis de ribit · 10:06 Bava Metzia 6:7 (Rabi Yehuda) · 10:32 Halachá não segue Rabi Yehuda · 11:30 Bava Metzia 6:7 (Abba Shaul) · 13:02 Bartenura em Bava Metzia 6:7 · 13:47 Bava Metzia 6:8 · 15:19 Bava Metzia 82b · 15:52 Bartenura em Bava Metzia 6:8 · 16:51 Bartenura em Bava Metzia 6:8 (Rabi Meir)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|15:02|המעביר חבית ממקום למקום ושברה, בין שומר חינם, בין שומר שכר יישבע.
+229|15:06|רבי אליעזר אומר, זה וזה יישבע, וטמא העניים יכולים זה וזה להישבע.
+230|15:11|זאת אומרת, הוא לא מבין למה יכולים זה וזה להישבע, איך הם פטורים בכך.
+231|15:16|אז הגמרא באמת מאריכה פה במשנה הזאת.
+232|15:19|המסקנה של הגמרא, שאליבא דה אמת, מדין תורה הם חייבים לשלם על
+233|15:25|החבית.
+234|15:27|אבל חכמים תיקנו שיהיו פטורים על
+235|15:32|ידי שבוע, מכיוון שאם נחייב אותם, אף אחד לא ירצה לעזור לחברו.
+236|15:38|אז זו תקנה מיוחדת, דרבנן.
+237|15:44|תראו את הברטנורה.
+238|15:46|אומר רבנו עובדיה מברטנורה.
+239|15:52|בן שומר חינם, בן שומר שכר יישבע, כסל כדעתיה, יישבע שלא פשע
+
+LINHAS A TRADUZIR:
+240|15:58|ויפטר.
+241|16:00|רבי אליעזר אומר, זה וזה יישבע וכולי.
+242|16:03|כלומר, אף אני שמעתי מרבותיי כרבי מאיר, רבי מאיר זיתנה כמה, דזה וזה יישבע,
+243|16:09|אבל תמה אני על זה.
+244|16:11|ועל זה, איך נפטרים בשבועה?
+245|16:13|דשומר שכר, איך פטור בשבועה דלא פשע?
+246|16:17|הבלו פשיע נמי חייו, מה אכפת לי שום נשבח שהוא לא פשע?
+247|16:21|גם אם הוא לא פשע או חייב.
+248|16:22|שאין זה אונס, אלא דומיה דגנבה ואבדה, שהם קרובים לפשיעה ולאונס.
+249|16:28|כן, גנבה ואבדה, מצד אחד הם קרובים לפשיעה, מצד שני הם קרובים לאונס.
+250|16:32|ועוד, איש שלא במקום מדרון נשברה, אם תגיד לי שזה לא במקום מדרון,
+251|16:38|דהיינו במישור.
+252|16:39|אפילו שומר חינם מחימצים משתווה שלא פשעה, אבל ודאי פשיעה היא.
+253|16:45|ורבי מאיר סבר, שבועה זו לא מן הדיני, אלא תקנת חכמים
+254|16:51|היא שאם אה אתה פוטר, אם אתה לא פוטר המעביר
+255|16:57|חבית ממקום למקום מן התשלומים על ידי שבועה זו, אין לך אדם
+256|17:03|שיעביר חבית לחברו ממקום למקום.
+257|17:08|לפיכך תיקנו שיישבע שלא בכוונה שברתיע ויפטר.
+258|17:13|כל מקום שתי הערות קטנות, א', מדובר פה בעיקר, כמו שאמרתי, אדם
+259|17:19|שעוזר לחברו, שנותן, או בן שומר שכר, בן שומר חינם,
+260|17:26|אבל אם זה בעל מקצוע, לדוגמה עכשיו, הזמנתי חברת הובלות אליי הביתה,
+261|17:32|והם שברו דבר מסוים, או שיש בכלל עוורים כאלה,
+262|17:38|שהם מרכיבים את הארון הפוך.
+263|17:42|הוא פירק את הארון, בא להרכיב אותו בדירה החדשה, הרכיב אותו עם הפוך.
+264|17:47|עושה חורים, הוא לא מבין גם למה לא נסגר כמו שצריך.
+265|17:52|לא מבין.
+266|17:53|אתה מבין?
+267|17:56|יש כל מיני דברים.
+268|17:58|אז באופן כזה ודאי שהוא יהיה חייב.
+269|17:59|א', היום הוא לא יבוא לבית הדין לאיש הבא.
+270|18:03|אז ממילא אני יכול לטעון שזה בגדר של פשיעה.
+271|18:07|ולכן הוא יהיה חייב לשלם.
+272|18:10|דבר נוסף, ברגע שהוא מקצועי והוא מפרסם את עצמו בצורה כזאת,
+273|18:16|אז יש לו אחריות על החפצים ועל העבודה שהוא מעניק ועל
+274|18:22|השירות שהוא נותן.
+275|18:24|יש לו אחריות.
+276|18:26|אלא אם כן, זה יהיה איזה שהוא מוביל, שיגיד לך, תשמע, אני מוכן לעשות את ההובלה,
+277|18:32|כמה רוצים ממך?
+278|18:32|3,000 שקל?
+279|18:33|אני עושה לך את זה ב-800 שקל.
+280|18:35|אבל לא מקבל אחריות.
+281|18:39|אתה רוצה, רוצה, לא רוצה, לא צריך.
+282|18:43|טוב, אז פה אני רק אגיד לכם בסוד קטן, שאם הוא מוכן לעשות בשמונה מאות שקל בלי לקבל
+283|18:49|אחריות, כדאי לחסוך עוד קצת כסף ולקחת משהו בשלושת
+284|18:55|אלפים, ושיעשו את הדברים כמו שצריך.
+285|19:00|כיוון שלצערנו הרב, הדברים הללו, יש
+286|19:06|בזה אחרי זה הרבה צער ועוגמת נפש וכולי.
+287|19:12|היה איזה מוביל אחד שבר איזה ארון וכולי.
+288|19:15|באו, אמרו לו, מה עשית?
+289|19:17|מה?
+290|19:17|הוא אמר, בסדר, זה ממילא צריך להחליף את זה, זה כבר היה שם.
+291|19:21|הוא גם נותן נצות, הפך להיות גם יועץ.
+292|19:26|טוב, ברוך אדוני לעולם, אמן ואמן.

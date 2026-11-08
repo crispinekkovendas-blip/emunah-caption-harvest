@@ -1,0 +1,64 @@
+videoId: AQgF66bn8lU
+parte 17 de 28 · traduzir as linhas 640 a 679 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sucot, eleições, eutanásia e crise no mundo haredi
+RESUMO: Numa edição especial de Sucot gravada na sucá, o rabino Gottlieb e Avri Gilad começam falando do lulav no Templo quando Sucot caía em Shabat: os kohanim lançavam os lulavim e o povo brigava por eles. Passam depois ao discurso de Netanyahu na ONU, que consideram ineficaz, e o rabino lembra que "é sabido que Esav odeia Yaakov" e conta como o Chofetz Chaim comoveu o primeiro-ministro polonês sem falar polonês. Discutem a eutanásia no Canadá, a fé na alma, a demência e a nova lista haredi (alistamento, mulheres, ensino básico), além do aumento de jovens que deixam o mundo haredi, que o rabino atribui a uma sociedade seca e coercitiva. O rabino fala de sua aula de cabalá em Arad, de Chagigá ("quatro entraram no Pardes") e lê um texto sobre os quatro minim como união das partes da alma, que diz estar quase palavra por palavra no Zohar, com o etrog como feminino e os outros três como masculino. Terminam com a queda do QI, o voto de eleitores mal informados e a proposta de dois votos para quem estuda ou contribui.
+MOMENTOS: 00:37 Abertura de Sucot e a sucá do rabino · 01:44 O lulav no Templo quando Sucot cai em Shabat · 04:27 Discurso de Netanyahu na ONU e a falta de impacto · 06:39 Esav odeia Yaakov e a história do Chofetz Chaim · 09:33 Dedicatória: cura de Nariya Dov Leiter · 15:01 Eutanásia no Canadá · 17:19 Fé, alma e o valor da vida · 21:17 Partido haredi novo: alistamento, mulheres e ensino básico · 24:29 Pesquisa sobre jovens que deixam o mundo haredi · 35:59 Demência, alma e responsabilidade · 41:57 Aula de cabalá em Arad · 44:55 Os quatro minim e a união interior · 47:30 Queda do QI e a democracia; proposta de dois votos
+FONTES CITADAS: 01:44 Mishná Sucá 4:4 · 06:39 Rashi em Bereshit 33:4 · 17:51 Crença na eternidade da alma · 31:11 Pirkei Avot 5:16 · 31:48 Shabat 33b · 32:22 Devarim 17:10 · 32:45 Yeshayahu 53:7 · 33:27 Tehillim 37:25 · 40:09 Iyov 5:7 · 42:24 Shulchan Arukh, Yoré Deá 246:4 · 42:42 Baal HaSulam · 43:27 Chagigá 14b · 44:58 Vayikra 23:40 · 45:44 Zohar sobre os quatro minim · 45:58 Vayikra Rabá 30:12 · 46:20 Zohar sobre os quatro minim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+628|31:27|יש שם גברת מאוד מאוד רצינית, שקוראים לה דוקטור
+629|31:35|יפה.
+630|31:37|איפה?
+631|31:37|בחרדים?
+632|31:38|כן, בציבור החרדי.
+633|31:41|יש שם נשים רציניות מאוד.
+634|31:43|מאוד.
+635|31:43|אבל הן נשים, ודעתן קלה.
+636|31:48|אישה רצינית ביותר.
+637|31:50|היא הייתה מורה בסמינר הכי נחשב בעולם החרדי.
+638|31:57|שמע, זה בית יעקב?
+639|31:58|מה זה?
+
+LINHAS A TRADUZIR:
+640|31:58|כן, הסמינר הישן זה נקרא.
+641|32:05|אני שמח שזה קורה.
+642|32:07|שמח מאוד שזה קורה.
+643|32:10|כמובן שהמפלגות הרגילות יצאו
+644|32:16|עם השתוללות של כל רבניהם שחייבים, ועשית
+645|32:22|ככל אשם יורוך.
+646|32:25|והם גם רוצים להכריח אותי לומר לי מי יהיה הרב
+647|32:31|שאחריו אני אלך, כמובן.
+648|32:33|מה אתה צופה יהיה בבחירות?
+649|32:36|תהיה איזה הצבעת מחאה, או היעדרות מחאה, או שהציבור ילך כרגיל
+650|32:43|כצאן אל המס...
+651|32:45|כצאן לטבח, יובל.
+652|32:50|כל העסק הוא לא...
+653|32:55|הוא מאוד מאוד מסואב.
+654|32:57|לא רק אצל החרדים.
+655|32:59|כל הדבר הזה שנקרא פוליטיקה.
+656|33:01|כן.
+657|33:03|מאוד מסואב, מאוד...
+658|33:05|כבר החלטת על מי אתה מצביע?
+659|33:09|אני חשבתי על הציבור החרדי.
+660|33:11|הציבור החרדי.
+661|33:12|גם אם הוא לא עובר בשום קונסטלציה.
+662|33:16|הוא לא עובר?
+663|33:17|לא.
+664|33:18|בשום קונסטלציה?
+665|33:18|בשום קונסטלציה.
+666|33:19|אה...
+667|33:23|כי הם מביאים נתונים שהם כן עוברים.
+668|33:25|אתה יודע?
+669|33:27|נער הייתי, גם זקנתי, באולפני התקשורת.
+670|33:32|כן.
+671|33:33|אתה יודע מה זה נער ביידיש?
+672|33:36|בטח.
+673|33:38|יש את הנער.
+674|33:40|כן, בטח, זה אבא שלי היה תמיד אומר לי.
+675|33:43|כן.
+676|33:43|מה זה, טיפש, כסיל, משהו כזה.
+677|33:45|כן.
+678|33:46|באולפנה הזה, אז כן, אז מה אתה רוצה לומר?
+679|33:49|אז תמיד יש את ה...

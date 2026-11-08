@@ -1,0 +1,64 @@
+videoId: gddsBWACdjg
+parte 20 de 24 · traduzir as linhas 760 a 799 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vergonha, ego e fé: Mahut HaDat, aula 32
+RESUMO: A aula começa com a história de um judeu preso nos Estados Unidos que leu que, se Israel guardasse duas Shabatot, seria redimido de imediato (Shabat 118b). Ele ficou com fé total e foi solto pouco depois. O rabino liga isso ao mekoshesh de Bamidbar 15 e conclui que a fé exige zero dúvida, pois só a dúvida impede que as coisas aconteçam. Em seguida retoma o livro Mahut HaDat uMatarata (p. 162): o homem selvagem ("ayir pere adam yivaled", Iyov 11:12) usa o egoísmo abertamente porque a vergonha só existe em relação ao próximo. Mostra isso em exemplos do cotidiano e do casamento, em que não se entra para receber e a crítica não ajuda, e cita o Chafetz Chaim sobre o desejo da mulher de achar graça aos olhos do marido. Depois trata dos graus de desenvolvimento (inanimado, vegetal, animal, falante, segundo a introdução ao Zohar) e da diferença entre o ladrão, que age em segredo, e o gazlan, que age à vista de todos. Por fim, a vergonha deve ser diante de HaShem, que vê tudo (Yeshayahu 29:15, Yechezkel 8:12, Avot 2:1, Chagigah 16a), e o ego é repulsivo para quem se desenvolveu, pois o próprio afastamento da santidade já é o castigo.
+MOMENTOS: 01:28 História do prisioneiro e a fé nas duas Shabatot · 02:55 O mekoshesh e a lapidação como correção · 05:04 Nenhuma alma é banida: todas voltam ao seu lugar · 08:52 Fé sem sombra de dúvida: Nova e a história da loteria · 14:12 Retomada do livro: o homem selvagem e o egoísmo sem vergonha · 17:40 A vergonha só existe em relação ao próximo · 26:40 Casamento: vem-se para dar, não para receber; sem crítica · 28:28 A mulher e o desejo de achar graça aos olhos do marido · 33:07 Graus do desenvolvimento; o ladrão e o gazlan · 38:43 Vergonha diante de HaShem: Avot e Yechezkel · 45:38 O ego é repulsivo; o afastamento é o castigo · 47:20 Drogas e a busca do verdadeiro prazer
+FONTES CITADAS: 01:13 Shevirat HaKelim (cabalá) · 02:39 Shabat 118b · 02:55 Bamidbar 15:32-36 · 03:59 Shemot 31:14 · 05:04 Shmuel II 14:14 · 11:00 Rambam, 13 Princípios de Fé, 12º princípio · 14:12 Mahut HaDat uMatarata, p. 162 · 16:09 Iyov 11:12 · 26:57 Ketubá · 28:28 Chafetz Chaim (citado) · 29:16 Bagan HaShalom · 33:21 Introdução ao Zohar, Baal HaSulam (ot 35) · 33:46 Mahut HaDat uMatarata · 37:12 Yeshayahu 29:15 · 39:05 Avot 2:1 · 39:15 Avot 3:16 (Rabi Akiva) · 42:14 Yechezkel 8:12 · 43:39 Yirmiyahu 32:19 · 43:45 Chagigah 16a (Rabi Yitzchak) · 43:51 Yeshayahu 66:1 · 45:23 Humildade do Kadosh Baruch Hu · 45:55 Mahut HaDat uMatarata
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+748|41:24|בוא...
+749|41:24|תקשיב, הלב...
+750|41:27|כן, חשוף.
+751|41:29|זה נראה לנו שהוא...
+752|41:32|שלא יגלו את מה שאנחנו מעררים.
+753|41:34|אבל זה לא נכון.
+754|41:36|מה שאנחנו מערערים גלוי אצל מורה עולם.
+755|41:38|אתה יודע, עכשיו יכול להיות שיש לנו ערעור שהוא לא טוב, אז צריך להגיד לו, אוקיי,
+756|41:44|זה לא שייך אליי, אני לא רוצה לחשוב ככה, אז לפחות אתה עושה תשובה על הערעורים האלה ואתה אומר
+757|41:49|לי, בואו לא שאלה, את זה אני לא רוצה לחשוב, זה לא שייך אליי.
+758|41:54|אבל אם אתה מתחבר לזה, ואתה עוד מוסיף לזה עוד כמה מחשבות מעצמך, כי הוא עצבן
+759|42:00|אותך, לא ניתן
+
+LINHAS A TRADUZIR:
+760|42:06|להסתיר מהשם.
+761|42:07|בסדר?
+762|42:08|ויאמרו מי ראינו ומי יודעינו וביחזקאל כתוב זקני בית ישראל עושים בחושך איש
+763|42:14|בחדרי משכיתו כי אומרים אין השם רואה אותנו עזב השם את הארץ.
+764|42:20|בסדר?
+765|42:21|כל אחד עושה בחדרי חדרים.
+766|42:23|יחזקאל אמר.
+767|42:25|אה?
+768|42:26|יחזקאל.
+769|42:28|זקני בית ישראל עושים בחושך איש בחדרי מסכיתו, כי אומרים, אין השם רואה אותנו.
+770|42:33|אבל הוא אומר את זה מנבואה?
+771|42:34|כן, אני חושב שזה נבואה.
+772|42:35|אז הוא מעשן.
+773|42:37|כן.
+774|42:39|אז זה מה שהשם בא ואומר לו, מה אתם חושבים, שאני לא רואה את כל מה שאתם עושים?
+775|42:43|מה, נראה לי שאם תחשיך את החדר אני לא רואה?
+776|42:46|מה אתה מנסה לעשות?
+777|42:49|אז מה אנחנו מנסים לעשות?
+778|42:50|אנחנו כאילו מסירים את המחשבות שלנו בבפנים.
+779|42:54|זה שמולי עכשיו לא מודע על מה אני חושב עליו בדיוק.
+780|43:00|אבל זה...
+781|43:01|אבל השם רואה.
+782|43:02|נכון, הוא לא יודע, הוא לא שומע אותך.
+783|43:05|מה שאתה מערער בלב הוא לא שומע.
+784|43:07|אבל השם רואה.
+785|43:11|עכשיו שיש לי אבא ששומע את הבן אחד מדבר לשון הרע על הבן
+786|43:14|השני.
+787|43:19|את זה הוא אוהב ואת זה הוא אוהב.
+788|43:21|אבל קשה לו עם זה עכשיו.
+789|43:23|עם זה שהוא מקפיד, זה שהלב שלו עכשיו מקטרג על ההוא, קשה לו.
+790|43:28|למה אתה מדבר ככה על הבן השני שלי?
+791|43:33|אבל שוב פעם אנחנו בסירה כזאת וצריכים רק להתבונן ולאט לאט אם תעלה בושה
+792|43:39|הרווחנו ממש הרווחנו וכתוב אשרי עיניך פקוחות על כל דרכי בני אדם לתת לאיש
+793|43:45|כדרכיו וכפרימה על עליו אמרו חז"ל אמר רבי יצחק כל העובר עבירה בסתר
+794|43:51|כאילו דוחק הכלי שכינה שנאמר כה אמר השם השמיים כסאי והארץ אדום רגלי והאדם
+795|43:57|היותר מפותח מרגיש את האגו ל...
+796|44:03|לדבר מאוס.
+797|44:04|בסדר?
+798|44:07|למה האגו לדבר מאוס?
+799|44:09|מה כל כך מאוס באגו?

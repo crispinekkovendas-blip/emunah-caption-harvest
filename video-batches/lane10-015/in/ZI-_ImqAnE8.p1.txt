@@ -1,0 +1,66 @@
+videoId: ZI-_ImqAnE8
+parte 2 de 2 · traduzir as linhas 120 a 161 (42 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zohar Vayetze: as três linhas e o masach de chirik
+RESUMO: O Zohar de Vayetze fala de acampamentos de anjos ligados à linha direita e à linha do meio. O rabino explica que a "luz de descendência" não vem pelo encadeamento de causa e efeito. Ela vem quando o inferior eleva MAN ao superior, no segredo do masach de chirik, a linha do meio. Direita e esquerda se anulam enquanto disputam, e o meio corta o excesso de cada uma, como a circuncisão, para que possam se unir e a luz brilhe. Segundo o Zohar, "três saem de um" (Avraham, Yitzchak e Yaakov no superior) e "um se sustenta em três": o inferior também recebe esses três níveis. Por isso as almas de Israel são chamadas "filhos" de HaShem (Devarim 14:1), e os anjos nascidos das três linhas são internos, enquanto os nascidos só da esquerda são externos. Ele aplica o esquema ao shofar (tekiá à direita e no fim, shevarim-teruá no meio, ligados à Akedat Yitzchak) e à travessia do mar, onde o meio sustenta Israel e não os egípcios. Termina notando que há sábios extremistas, cuja sabedoria não está corrigida.
+MOMENTOS: 06:36 Anjos ligados à linha direita e à linha do meio · 07:13 Luz de descendência e o masach de chirik · 08:25 Direita e esquerda em disputa; o meio corta o excesso · 09:45 Cortar a extremidade, como a circuncisão · 10:53 Três saem de um: Avraham, Yitzchak e Yaakov · 11:23 Um se sustenta em três: o inferior recebe o mesmo · 12:21 Almas de Israel como filhos: "Bonim atem" · 15:01 Anjos nascidos com as almas: internos e externos · 16:32 Ligação a Malka Kadisha e a Israel · 17:41 Tekiat shofar: tekiá, shevarim e teruá · 18:47 A Akedat Yitzchak e a quebra da extremidade · 21:13 A saída do Egito e a travessia do mar · 23:55 Sábios extremistas e sabedoria não corrigida
+FONTES CITADAS: 06:36 Zohar, Vayetze (acampamentos de anjos) · 07:44 Zohar, Vayetze (masach de chirik) · 09:44 Zohar, Vayetze (tlat nafkin chad) · 10:06 Bereshit 17:11 (circuncisão) · 11:23 Zohar, Vayetze (chad bitlat kayma) · 12:31 Devarim 14:1 · 14:45 Zohar, Vayetze (chad bitlat kayma) · 16:02 Zohar, Vayetze (machnaya malachin kadishin) · 16:32 Zohar, Vayetze (penimaim e Malka Kadisha) · 17:50 Rosh Hashaná 33b (ordem das tekiot) · 18:47 Bereshit 22:1-14 (Akedat Yitzchak) · 21:13 Shemot 14:22 · 22:19 Shemot 14:22 · 22:51 Shemot 14:27-28
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|18:32|חלים על יצחק, שהוא קו שמאל, דהיינו
+109|18:37|כלים דקבלה, שאותם צריך לשבור
+110|18:47|וזה נקרא עקידת יצחק אם
+111|18:53|כן בית כוחות משולבים
+112|18:59|פועלים על יצחק א'
+113|19:06|החסדים דקו ימין של אברהם,
+114|19:12|בית החסדים של קו אמצעי,
+115|19:18|דהיינו של יעקב, וביצחק
+116|19:23|עצמו מתבצעת פעולת
+117|19:29|שבירה, כלומר הקטנת
+118|19:37|הקיצוניות שלו.
+119|19:44|אז זה עניין של תקיעת שופר.
+
+LINHAS A TRADUZIR:
+120|19:57|מה זה התורה?
+121|19:58|מה זה השברים?
+122|19:59|אברהם או יעקב?
+123|20:03|שניהם ביצחק.
+124|20:05|לא, אבל הם נכללים כאילו מקווה ימין וקו אמצע.
+125|20:10|אז כל אחד מתאר את צד השני, שמאל.
+126|20:13|כל אחד מביא חסדים.
+127|20:15|כן, מאיפה הם לוקחים?
+128|20:17|התרועה לוקחת מאברהם והשברים מיעקב או?
+129|20:31|התרועה לוקחת גם מאברהם וגם מיעקב.
+130|21:13|זה סוד יציאת מצרים
+131|21:20|א', מצד אחד
+132|21:26|נמצא מחנה מצרים
+133|21:31|שהוא ימין ב', מצד
+134|21:37|שני נמצא הים שהוא שמאל
+135|21:44|וישראל הולכים באמצע
+136|21:52|בתוך הים והמים להם חומה
+137|21:59|מימינם ומשמאלם
+138|22:13|פרט יותר
+139|22:19|כשהם הולכים באמצע, והמים חומים מינם ומצלם.
+140|22:25|אתה הולך באמצע כאילו, המים חומה, זה כמו חומת מגן.
+141|22:30|והמים להם חומה, כן.
+142|22:31|דהיינו ימין ואמצע, מתוקנים.
+143|22:36|אבל כאשר מצרים נכנסים לתוך המערכת
+144|22:42|הזו, המים מפסיקים להיות חומה,
+145|22:51|אלא הם שוטפים את המצרים לחלוטין,
+146|22:58|כי המצרים אינם מעוניינים
+147|23:05|בקו אמצעי.
+148|23:08|לכן כל התבנית של הליכה
+149|23:15|באמצע והמים חומה מימינם
+150|23:21|ומשמאלם, תבנית זו אינה מחזיקה מעמד
+151|23:29|לגבי הנוצרים.
+152|23:55|מדהים שזה כל כך ברור מצד אחד שהחוכמה היא קו אמצעי.
+153|24:02|ואתה רואה אנשים חכמים והם נורא קיצוניים.
+154|24:06|כן.
+155|24:06|זה לא מסתבר, זה לא חוכמה שלהם.
+156|24:09|נכון, היא לא מתוקנת.
+157|24:13|אז החוכמה הופכת להיות אצלם.
+158|24:14|הם לומדים את כל החוכמה הזאת.
+159|24:19|השאלה אם מיישמים את זה, אם מבינים את זה על עצמם.
+160|24:31|טוב, נסיים כאן להתראות.
+161|24:35|להתראות, תודה.

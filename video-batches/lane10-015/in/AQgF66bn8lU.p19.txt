@@ -1,0 +1,64 @@
+videoId: AQgF66bn8lU
+parte 20 de 28 · traduzir as linhas 760 a 799 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sucot, eleições, eutanásia e crise no mundo haredi
+RESUMO: Numa edição especial de Sucot gravada na sucá, o rabino Gottlieb e Avri Gilad começam falando do lulav no Templo quando Sucot caía em Shabat: os kohanim lançavam os lulavim e o povo brigava por eles. Passam depois ao discurso de Netanyahu na ONU, que consideram ineficaz, e o rabino lembra que "é sabido que Esav odeia Yaakov" e conta como o Chofetz Chaim comoveu o primeiro-ministro polonês sem falar polonês. Discutem a eutanásia no Canadá, a fé na alma, a demência e a nova lista haredi (alistamento, mulheres, ensino básico), além do aumento de jovens que deixam o mundo haredi, que o rabino atribui a uma sociedade seca e coercitiva. O rabino fala de sua aula de cabalá em Arad, de Chagigá ("quatro entraram no Pardes") e lê um texto sobre os quatro minim como união das partes da alma, que diz estar quase palavra por palavra no Zohar, com o etrog como feminino e os outros três como masculino. Terminam com a queda do QI, o voto de eleitores mal informados e a proposta de dois votos para quem estuda ou contribui.
+MOMENTOS: 00:37 Abertura de Sucot e a sucá do rabino · 01:44 O lulav no Templo quando Sucot cai em Shabat · 04:27 Discurso de Netanyahu na ONU e a falta de impacto · 06:39 Esav odeia Yaakov e a história do Chofetz Chaim · 09:33 Dedicatória: cura de Nariya Dov Leiter · 15:01 Eutanásia no Canadá · 17:19 Fé, alma e o valor da vida · 21:17 Partido haredi novo: alistamento, mulheres e ensino básico · 24:29 Pesquisa sobre jovens que deixam o mundo haredi · 35:59 Demência, alma e responsabilidade · 41:57 Aula de cabalá em Arad · 44:55 Os quatro minim e a união interior · 47:30 Queda do QI e a democracia; proposta de dois votos
+FONTES CITADAS: 01:44 Mishná Sucá 4:4 · 06:39 Rashi em Bereshit 33:4 · 17:51 Crença na eternidade da alma · 31:11 Pirkei Avot 5:16 · 31:48 Shabat 33b · 32:22 Devarim 17:10 · 32:45 Yeshayahu 53:7 · 33:27 Tehillim 37:25 · 40:09 Iyov 5:7 · 42:24 Shulchan Arukh, Yoré Deá 246:4 · 42:42 Baal HaSulam · 43:27 Chagigá 14b · 44:58 Vayikra 23:40 · 45:44 Zohar sobre os quatro minim · 45:58 Vayikra Rabá 30:12 · 46:20 Zohar sobre os quatro minim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+748|37:19|כן.
+749|37:20|אבל אם זה נמשך שנים...
+750|37:23|שש, שבע, עשר שנים, בסוף זאת המורשת שלך.
+751|37:27|בסוף זה מה שיזכרו ממך.
+752|37:30|כן.
+753|37:30|כן?
+754|37:31|אני לא זורם על זה.
+755|37:33|לא.
+756|37:34|יכתבו על המצבה שלך, הסתלק מדמנציה מבורכת.
+757|37:39|לא.
+758|37:42|לא ולא.
+759|37:43|מה?
+
+LINHAS A TRADUZIR:
+760|37:43|אני לא יודע...
+761|37:46|שאלה מה קורה לנשמה בדמנציה.
+762|37:52|אני חושב, אני לא חושב שיש לנו תקשורת עם הנשמה
+763|37:58|להבין אותה ולראות מה מתחולל ומה קורה.
+764|38:03|בסדר, אבל...
+765|38:06|רגע, שנייה.
+766|38:08|עכשיו אני רוצה שתהיה איש דת, נגיד יהודי, ותגיד לי מה קורה לנשמה בזמן
+767|38:14|שאדם חולה בדמנציה.
+768|38:19|שנייה, בודק.
+769|38:22|אתה העלפת אותו טוב.
+770|38:24|מנקודת מבט יהודית-אמונית, הדמנציה פוגעת במוח וביכולת לבטא את
+771|38:30|הנשמה, לא בנשמה עצמה.
+772|38:32|כאילו הכלי נסדק, אבל האור נשאר.
+773|38:35|הערך והקדושה שלו לא פוחתים, גם אם הזיכרון והזהות החיצונית מתשתשים.
+774|38:42|נכון, תודה.
+775|38:45|בסדר.
+776|38:48|אתה יודע, אני יכול להגיד לו להיות מה שאני רוצה.
+777|38:50|אני יכול להגיד לו עכשיו, אתה תהיה קאדי של אל-קיידה.
+778|38:53|תגיד לי...
+779|38:54|אני יכול להגיד לו להיות כל דבר.
+780|38:56|כן, ברור.
+781|38:58|והוא משתף פעולה.
+782|38:59|והוא משתף פעולה, בוודאי.
+783|39:01|מה הוא מרוויח מזה?
+784|39:04|את זמן השימוש שלי.
+785|39:07|שלזה הוא נועד.
+786|39:08|שלזה הוא נועד.
+787|39:09|כן.
+788|39:10|אני משלם הרבה כסף כל חודש כדי לנהל את השיחות האינסופיות האלה שאני מנהל איתו.
+789|39:17|אני אגלה לך...
+790|39:20|אני אגלה לך משהו שמתחבא במכמני ליבי.
+791|39:24|אתה בהיריון.
+792|39:30|לא בהיריון, אבל לפעמים מתגנבת לתוך המוח שלי מחשבה
+793|39:36|שהדימנציה משחררת מאחריות.
+794|39:39|משחררת מאחריות, ברור.
+795|39:41|זאת אומרת, יש איזה סוג של
+796|39:46|השתוקקות כזאת למצב שאתה סוף סוף...
+797|39:51|משוחרר מכל אחריות.
+798|39:53|אף אחד לא יכול לבוא אליך בטענות.
+799|39:55|בסדר, אבל אין סיבה לקיומנו זולת אחריות.

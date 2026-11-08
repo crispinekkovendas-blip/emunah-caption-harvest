@@ -1,0 +1,64 @@
+videoId: gddsBWACdjg
+parte 4 de 24 · traduzir as linhas 120 a 159 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vergonha, ego e fé: Mahut HaDat, aula 32
+RESUMO: A aula começa com a história de um judeu preso nos Estados Unidos que leu que, se Israel guardasse duas Shabatot, seria redimido de imediato (Shabat 118b). Ele ficou com fé total e foi solto pouco depois. O rabino liga isso ao mekoshesh de Bamidbar 15 e conclui que a fé exige zero dúvida, pois só a dúvida impede que as coisas aconteçam. Em seguida retoma o livro Mahut HaDat uMatarata (p. 162): o homem selvagem ("ayir pere adam yivaled", Iyov 11:12) usa o egoísmo abertamente porque a vergonha só existe em relação ao próximo. Mostra isso em exemplos do cotidiano e do casamento, em que não se entra para receber e a crítica não ajuda, e cita o Chafetz Chaim sobre o desejo da mulher de achar graça aos olhos do marido. Depois trata dos graus de desenvolvimento (inanimado, vegetal, animal, falante, segundo a introdução ao Zohar) e da diferença entre o ladrão, que age em segredo, e o gazlan, que age à vista de todos. Por fim, a vergonha deve ser diante de HaShem, que vê tudo (Yeshayahu 29:15, Yechezkel 8:12, Avot 2:1, Chagigah 16a), e o ego é repulsivo para quem se desenvolveu, pois o próprio afastamento da santidade já é o castigo.
+MOMENTOS: 01:28 História do prisioneiro e a fé nas duas Shabatot · 02:55 O mekoshesh e a lapidação como correção · 05:04 Nenhuma alma é banida: todas voltam ao seu lugar · 08:52 Fé sem sombra de dúvida: Nova e a história da loteria · 14:12 Retomada do livro: o homem selvagem e o egoísmo sem vergonha · 17:40 A vergonha só existe em relação ao próximo · 26:40 Casamento: vem-se para dar, não para receber; sem crítica · 28:28 A mulher e o desejo de achar graça aos olhos do marido · 33:07 Graus do desenvolvimento; o ladrão e o gazlan · 38:43 Vergonha diante de HaShem: Avot e Yechezkel · 45:38 O ego é repulsivo; o afastamento é o castigo · 47:20 Drogas e a busca do verdadeiro prazer
+FONTES CITADAS: 01:13 Shevirat HaKelim (cabalá) · 02:39 Shabat 118b · 02:55 Bamidbar 15:32-36 · 03:59 Shemot 31:14 · 05:04 Shmuel II 14:14 · 11:00 Rambam, 13 Princípios de Fé, 12º princípio · 14:12 Mahut HaDat uMatarata, p. 162 · 16:09 Iyov 11:12 · 26:57 Ketubá · 28:28 Chafetz Chaim (citado) · 29:16 Bagan HaShalom · 33:21 Introdução ao Zohar, Baal HaSulam (ot 35) · 33:46 Mahut HaDat uMatarata · 37:12 Yeshayahu 29:15 · 39:05 Avot 2:1 · 39:15 Avot 3:16 (Rabi Akiva) · 42:14 Yechezkel 8:12 · 43:39 Yirmiyahu 32:19 · 43:45 Chagigah 16a (Rabi Yitzchak) · 43:51 Yeshayahu 66:1 · 45:23 Humildade do Kadosh Baruch Hu · 45:55 Mahut HaDat uMatarata
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|06:42|נגמר הסיפור שלי פה.
+109|06:45|אמר לו, תקשיב.
+110|06:47|הוא התחיל להסביר לו, זה לא בדיוק ככה, זה קרה לעם ישראל בתקופה ההיא,
+111|06:53|ובאמת, אם כל עם ישראל ישמרו שתי שבתות, אז באמת,
+112|06:58|אז כל העם יגאל.
+113|07:00|ברמה הרוחנית שלו יגאל לגמרי.
+114|07:03|הסביר לו, הסביר לו, הסביר לה, הוא לא קיבל את ההסבר שלו.
+115|07:07|נשאר בשלו באמונה, אני נגעל תכף.
+116|07:10|אני שומר שתי שבתות ואני נגעל.
+117|07:13|הייתה לו, זהו, נשאר באמונה חזקה, זה מה שיהיה.
+118|07:17|טוב, בסדר.
+119|07:18|רב הולך, ולרב, והייתה איזה בעיה אחרי שבעה ימים, לא יכולה להגיע, ומגיע אחרי חודש.
+
+LINHAS A TRADUZIR:
+120|07:23|מגיע, נכנס לכלא, מחפש את אותו בחור, לא מוציא אותו.
+121|07:30|לא, את איפה הוא?
+122|07:32|אמרו משהו.
+123|07:34|השתחרר?
+124|07:38|מה קרה?
+125|07:38|איך השתחרר?
+126|07:40|מה הסיפור?
+127|07:43|הוא גם ידע את זה לפני כן, הוא אמר לנו שהוא הולך להשתחרר.
+128|07:48|אבל טוב, אבל מה קרה?
+129|07:49|איך הוא השתחרר?
+130|07:51|אז הוא אומר שהשופט שדן אותו
+131|07:56|ל-15 שנות מאסר, בסדר?
+132|08:00|החליט שהוא רוצה לעבור על כל התיקים ש...
+133|08:03|הקשים שהיו לו ששם הוא שפט אנשים להרבה שנים אז הוא
+134|08:09|החליט לעבור על כל התיקים אז הוא עובר על התיק שלו ופתאום
+135|08:15|הוא מגלה בתוך התיק שלו שבעצם אין מקום להכרעה כזאת
+136|08:23|יש לו טעות הוא טעה בבדי הוא טעה בהכרעה במשפט הוא
+137|08:29|היה מספיק תמיד צריך להגיד לבית משפט בארצות הברית, חבר'ה הלך למקרה הזה, טעיתי.
+138|08:35|העדויות לא מוכיחות את הדבר עצמו.
+139|08:38|אין לנו הוכחה בינתיים לזה שהוא אשם.
+140|08:42|גלגלו את הדברים, אופסט, הוא השתחרר מהכלא.
+141|08:46|יצא, שחררו אותו לגמרי.
+142|08:48|מפה עד חוסר אורח, עוד שחררו את היהודי הזה לגמרי.
+143|08:52|זה רק מראה, זה מה שבאתי, איזה רמה של אמונה, צריך להיות לנו ברור כן.
+144|08:58|אין לי צל של ספק!
+145|09:00|אז אם אין לך צל של ספק זה יקרה.
+146|09:04|אם אין לך צל של ספק זה יקרה, כן.
+147|09:06|יש וידאו ביוטיוב של מישהו שהיה בנובה, האחרון שניצל שם באזור של בראשי
+148|09:12|התופף, כן, והוא חזר בתשובה נראה חרדי.
+149|09:14|הוא סיפר שמה, שלפני שזה קרה הוא שמר שתי שבתות.
+150|09:19|הוא אמר שזה זה, הוא רצה, הוא הלך לנובה, הוא שמר, הוא אמר שבת תשמור עליי.
+151|09:23|אז הוא הלך והוא סגר את עצמו קטס שירותים השביעי.
+152|09:28|ושם אני נעל, ומתי שהוא ברח, הוא ברח וזה ירו עליו.
+153|09:32|שבע כדורים, הוא היה מנהל גופות עליו, שבע כדורים, בטה, שבי, ואז הוא אמר שם משהו מאוד איזה
+154|09:37|מישהי, הוא אמר הקדוש ברוך הוא, אם אתה מוציא אותי מכאן, אתה מחזיר אותי לאימא שלי כמו
+155|09:41|שהבטחתי לה, אני חוזר בתשובה נראה לי הכי טוב שלך.
+156|09:45|התשובה גם במאה שערים, חרדים, ירוש, ירוש.
+157|09:49|כן, שמעת שומרת על מישהו שגר, שמעת שומרת על מישהו שומר עליה.
+158|09:54|לגמרי.
+159|09:55|אה, עניין.

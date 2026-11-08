@@ -1,0 +1,64 @@
+videoId: AQgF66bn8lU
+parte 25 de 28 · traduzir as linhas 960 a 999 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sucot, eleições, eutanásia e crise no mundo haredi
+RESUMO: Numa edição especial de Sucot gravada na sucá, o rabino Gottlieb e Avri Gilad começam falando do lulav no Templo quando Sucot caía em Shabat: os kohanim lançavam os lulavim e o povo brigava por eles. Passam depois ao discurso de Netanyahu na ONU, que consideram ineficaz, e o rabino lembra que "é sabido que Esav odeia Yaakov" e conta como o Chofetz Chaim comoveu o primeiro-ministro polonês sem falar polonês. Discutem a eutanásia no Canadá, a fé na alma, a demência e a nova lista haredi (alistamento, mulheres, ensino básico), além do aumento de jovens que deixam o mundo haredi, que o rabino atribui a uma sociedade seca e coercitiva. O rabino fala de sua aula de cabalá em Arad, de Chagigá ("quatro entraram no Pardes") e lê um texto sobre os quatro minim como união das partes da alma, que diz estar quase palavra por palavra no Zohar, com o etrog como feminino e os outros três como masculino. Terminam com a queda do QI, o voto de eleitores mal informados e a proposta de dois votos para quem estuda ou contribui.
+MOMENTOS: 00:37 Abertura de Sucot e a sucá do rabino · 01:44 O lulav no Templo quando Sucot cai em Shabat · 04:27 Discurso de Netanyahu na ONU e a falta de impacto · 06:39 Esav odeia Yaakov e a história do Chofetz Chaim · 09:33 Dedicatória: cura de Nariya Dov Leiter · 15:01 Eutanásia no Canadá · 17:19 Fé, alma e o valor da vida · 21:17 Partido haredi novo: alistamento, mulheres e ensino básico · 24:29 Pesquisa sobre jovens que deixam o mundo haredi · 35:59 Demência, alma e responsabilidade · 41:57 Aula de cabalá em Arad · 44:55 Os quatro minim e a união interior · 47:30 Queda do QI e a democracia; proposta de dois votos
+FONTES CITADAS: 01:44 Mishná Sucá 4:4 · 06:39 Rashi em Bereshit 33:4 · 17:51 Crença na eternidade da alma · 31:11 Pirkei Avot 5:16 · 31:48 Shabat 33b · 32:22 Devarim 17:10 · 32:45 Yeshayahu 53:7 · 33:27 Tehillim 37:25 · 40:09 Iyov 5:7 · 42:24 Shulchan Arukh, Yoré Deá 246:4 · 42:42 Baal HaSulam · 43:27 Chagigá 14b · 44:58 Vayikra 23:40 · 45:44 Zohar sobre os quatro minim · 45:58 Vayikra Rabá 30:12 · 46:20 Zohar sobre os quatro minim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+948|46:24|ההדסים, הערבות והלולב זה הזכר.
+949|46:29|הלולב בפירוש מבטא את איבר המין הזכרי.
+950|46:33|בהחלט.
+951|46:36|למה?
+952|46:36|מה?
+953|46:37|מדוע?
+954|46:38|יש פה משפיע ומושפע, כאילו שלושת המינים הללו, ההדסים, הערבות ולולב,
+955|46:44|מחוברים ביניהם, הם קשורים ביחד.
+956|46:48|והאתרוג לא קשור איתם, האתרוג אתה מחזיק ביד.
+957|46:50|כן.
+958|46:51|והאתרוג זה הנקבה שנכנסת להיריון.
+959|46:58|על ידי שלושת המילים האלו.
+
+LINHAS A TRADUZIR:
+960|47:02|זה נשמע כמו...
+961|47:04|לא, בסדר, אני לא אגיד את ה...
+962|47:06|ואתה לא רוצה להגיד?
+963|47:08|לא.
+964|47:08|מחשבה פורנוגרפית עברה במוחי.
+965|47:11|אבל כל המחשבות הפורנוגרפיות האלה...
+966|47:15|הן בעצם באות מהעולמות העליונים והן באות לבטא ערכים,
+967|47:21|ערכים רוחניים.
+968|47:23|זה לא חייב להיות רק בשר נטו.
+969|47:25|אוקיי.
+970|47:27|נתון מעניין שאני מביא לך הבוקר לכאן.
+971|47:30|יש ירידה עולמית ברמת המשכל.
+972|47:33|מה זה אומר משכל?
+973|47:34|המילה הזאת משכל.
+974|47:35|איי-קיו.
+975|47:37|יכולת חשיבה וניתוח?
+976|47:39|תראה...
+977|47:39|לא ידע.
+978|47:40|איי-קיו?
+979|47:40|לא.
+980|47:41|זה לא ידע.
+981|47:41|לא ידע.
+982|47:42|זה יכולת חשיבה וניתוח.
+983|47:44|כן, כן, כן.
+984|47:45|נו ברור, אתה מוקף במכשירים שעושים בשבילך את כל העבודות.
+985|47:49|אתה נהפך להיות מטומטם כבר.
+986|47:52|תניח, ואחר כך אתה הולך להצביע בבחירות.
+987|47:55|מה זה קשור?
+988|47:56|זה קשור מכיוון שמצביעים דלי מידע, יש היום תופעה כזו, מצביעים דלי מידע, אנשים שהולכים
+989|48:02|להצביע והם לא יודעים שום דבר.
+990|48:04|הם לא יודעים איפה זה פלסטין, הם לא יודעים מה זה דמוקרטיה ליברלית, הם לא יודעים מה זה
+991|48:09|קומוניזם, הם לא יודעים כלום.
+992|48:11|הם מושפעים דרך המכשירים אוכלי המוח האלה.
+993|48:15|ונשאלת השאלה האם...
+994|48:17|ולפי המכשירים הם מצביעים.
+995|48:18|ולפי המכשירים הם מצביעים, ונשאלת השאלה האם במצב הזה דמוקרטיה בכלל
+996|48:24|יכולה להמשיך להתקיים.
+997|48:27|כלומר, האם כשחלק גדול מהמצביעים אין להם מושג והם גם מטומטמים,
+998|48:34|איך אפשר להמשיך לנהל עולם ככה על הצד הטוב?
+999|48:39|בלי להבין...

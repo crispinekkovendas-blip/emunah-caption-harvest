@@ -1,0 +1,64 @@
+videoId: AQgF66bn8lU
+parte 23 de 28 · traduzir as linhas 880 a 919 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sucot, eleições, eutanásia e crise no mundo haredi
+RESUMO: Numa edição especial de Sucot gravada na sucá, o rabino Gottlieb e Avri Gilad começam falando do lulav no Templo quando Sucot caía em Shabat: os kohanim lançavam os lulavim e o povo brigava por eles. Passam depois ao discurso de Netanyahu na ONU, que consideram ineficaz, e o rabino lembra que "é sabido que Esav odeia Yaakov" e conta como o Chofetz Chaim comoveu o primeiro-ministro polonês sem falar polonês. Discutem a eutanásia no Canadá, a fé na alma, a demência e a nova lista haredi (alistamento, mulheres, ensino básico), além do aumento de jovens que deixam o mundo haredi, que o rabino atribui a uma sociedade seca e coercitiva. O rabino fala de sua aula de cabalá em Arad, de Chagigá ("quatro entraram no Pardes") e lê um texto sobre os quatro minim como união das partes da alma, que diz estar quase palavra por palavra no Zohar, com o etrog como feminino e os outros três como masculino. Terminam com a queda do QI, o voto de eleitores mal informados e a proposta de dois votos para quem estuda ou contribui.
+MOMENTOS: 00:37 Abertura de Sucot e a sucá do rabino · 01:44 O lulav no Templo quando Sucot cai em Shabat · 04:27 Discurso de Netanyahu na ONU e a falta de impacto · 06:39 Esav odeia Yaakov e a história do Chofetz Chaim · 09:33 Dedicatória: cura de Nariya Dov Leiter · 15:01 Eutanásia no Canadá · 17:19 Fé, alma e o valor da vida · 21:17 Partido haredi novo: alistamento, mulheres e ensino básico · 24:29 Pesquisa sobre jovens que deixam o mundo haredi · 35:59 Demência, alma e responsabilidade · 41:57 Aula de cabalá em Arad · 44:55 Os quatro minim e a união interior · 47:30 Queda do QI e a democracia; proposta de dois votos
+FONTES CITADAS: 01:44 Mishná Sucá 4:4 · 06:39 Rashi em Bereshit 33:4 · 17:51 Crença na eternidade da alma · 31:11 Pirkei Avot 5:16 · 31:48 Shabat 33b · 32:22 Devarim 17:10 · 32:45 Yeshayahu 53:7 · 33:27 Tehillim 37:25 · 40:09 Iyov 5:7 · 42:24 Shulchan Arukh, Yoré Deá 246:4 · 42:42 Baal HaSulam · 43:27 Chagigá 14b · 44:58 Vayikra 23:40 · 45:44 Zohar sobre os quatro minim · 45:58 Vayikra Rabá 30:12 · 46:20 Zohar sobre os quatro minim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+868|42:58|כן.
+869|42:59|שאתה רוצה לתת לו אקמול.
+870|43:01|ככה משנה עוזרת לחבר'ה.
+871|43:03|כן.
+872|43:04|משנה או גמרא, אנחנו רואים מה קורה בציבור של המשנה והגמרא.
+873|43:08|אנחנו צריכים פה מכת חשמל.
+874|43:11|אבל הבחור הסתכל בצורה מאוד ביקורתית.
+875|43:15|מי הבחור הזה?
+876|43:16|אני מפטר אותו היום.
+877|43:17|קוראים לו יהודה.
+878|43:19|בחור טוב, אבל מאוד ביקורתי.
+879|43:23|כאילו, מה פתאום אתה...
+
+LINHAS A TRADUZIR:
+880|43:25|אין לו עבודה.
+881|43:25|וידוע, הוא אמר...
+882|43:26|יהודה, אתה מפוטר.
+883|43:27|שארבעה נכנסו לפרדס.
+884|43:30|כן.
+885|43:30|ואתה יודע מה קרה שם.
+886|43:32|כן.
+887|43:32|אז אתה מעוניין להכניס אותנו לפרדסים או מה?
+888|43:35|הוא יודע מה יקרה לנו.
+889|43:39|הבנתי אותך.
+890|43:41|אבל באופן כללי הפגישות שם הן ממש טובות.
+891|43:44|אני שמח לשמוע.
+892|43:45|כן.
+893|43:46|מעולה.
+894|43:47|יש שם...
+895|43:48|החבר'ה מאוד שנונים, פיקחים, ושואלים שאלות
+896|43:54|נהדרות.
+897|43:56|ממש טוב.
+898|43:57|אולי אני אבוא איתך איזה יום.
+899|43:58|תבוא.
+900|43:59|פשוט רחוק ערד, זה...
+901|44:01|וכל פעם אני חוזר משם לבן לגמרי.
+902|44:04|לבן.
+903|44:06|הכל לבן.
+904|44:07|מהאבק.
+905|44:08|האבק, ואתה...
+906|44:10|רק אתה יורד, אתה נכנס לתוך ביצה כזאת, לא יודע מה,
+907|44:16|ובשביל להגיע לשירותים אתה צריך לטפס על פשוט דיונות.
+908|44:22|וואלה.
+909|44:24|אתה רואה?
+910|44:24|אני עוד לא הייתי שם אפילו, ואני עומד בראש המכינה.
+911|44:28|אתה מחכה שהם יבואו לתל אביב.
+912|44:30|לך לשם, תראה את כל הבדואים שם על...
+913|44:34|ממש.
+914|44:36|שמע, זה מכת מדינה הדבר הזה.
+915|44:39|שטחים עצומים.
+916|44:42|כן.
+917|44:43|והבדואים יושבים שם לא עם בתים, עם פחונים, כל מיני
+918|44:49|פאנלית, כל...
+919|44:51|שבטים, שבטים.

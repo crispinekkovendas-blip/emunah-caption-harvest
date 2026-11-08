@@ -1,0 +1,40 @@
+videoId: YAc-oI7tE7U
+parte 1 de 1 · traduzir as linhas 0 a 29 (30 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Targum Onkelos de Chayei Sará: a compra de Machpelá
+RESUMO: Esta é a leitura do Targum Onkelos sobre o primeiro trecho da Parashá Chayei Sará (Bereshit 23), na tradição iemenita. Começa com os anos de vida de Sará e sua morte em Kiryat Arba, que é Hebron, na terra de Canaã, e com Avraham vindo prantear e chorar por ela. Avraham se levanta de junto de sua falecida e fala com os filhos de Het. Em seguida há uma passagem lida em árabe e traduzida, sem legenda aproveitável. Avraham pede a Efron, filho de Tzochar, a caverna que está no fim do seu campo, por dinheiro completo. Efron responde diante dos filhos de Het que dá o campo e a caverna, e Avraham se curva e insiste em pagar. Efron cita o valor de quatrocentos siclos de prata, Avraham os pesa, o campo e a caverna passam a ele, e Avraham sepulta Sará na caverna do campo de Machpelá, diante de Mamre.
+MOMENTOS: 00:00 Abertura: Targum Onkelos, Parashá Chayei Sará, primeiro trecho · 00:05 Os anos da vida de Sará (23:1) · 00:11 Morte de Sará em Hebron e o luto de Avraham (23:2) · 00:20 Avraham se levanta e fala aos filhos de Het (23:3) · 00:27 Trecho lido em árabe e traduzido · 00:56 Avraham pede a caverna a Efron, filho de Tzochar (23:8-9) · 01:17 Efron responde diante dos filhos de Het (23:10-11) · 01:37 Avraham se curva e oferece pagar o campo (23:12-13) · 01:53 Efron fala dos quatrocentos siclos de prata (23:14-15) · 02:05 Avraham pesa a prata a Efron (23:16) · 02:16 O campo e a caverna passam a Avraham (23:17-18) · 02:33 Sepultamento de Sará e posse da sepultura (23:19-20)
+FONTES CITADAS: 00:05 Targum Onkelos, Bereshit 23:1 · 00:11 Targum Onkelos, Bereshit 23:2 · 00:20 Targum Onkelos, Bereshit 23:3 · 00:27 Targum Onkelos, Bereshit 23:4-7 · 00:56 Targum Onkelos, Bereshit 23:8 · 01:05 Targum Onkelos, Bereshit 23:9 · 01:17 Targum Onkelos, Bereshit 23:10 · 01:27 Targum Onkelos, Bereshit 23:11 · 01:37 Targum Onkelos, Bereshit 23:12 · 01:41 Targum Onkelos, Bereshit 23:13 · 01:53 Targum Onkelos, Bereshit 23:14-15 · 02:05 Targum Onkelos, Bereshit 23:16 · 02:16 Targum Onkelos, Bereshit 23:17 · 02:26 Targum Onkelos, Bereshit 23:18 · 02:33 Targum Onkelos, Bereshit 23:19 · 02:42 Targum Onkelos, Bereshit 23:20
+
+LINHAS A TRADUZIR:
+0|00:00|תרג'ום אונגולוס, ספר בראשית, פרושת חיי סורו, מבורך ראשון.
+1|00:05|ואהבה חיי סורו, ואהבה עשרים ושבע שנים, שנה חיי סורו.
+2|00:11|ומתח סורו, בגריית ארבע, יחברון באר עודך נוען,
+3|00:16|ואזו אברהם, למספד אחת סורו אל מבקח.
+4|00:20|וגם אברהם, מעל אפה מיפיה, ומלל עם בני חיתו לממר.
+5|00:27|(אומר בערבית ומתרגם) (אומר בערבית ומתרגם)
+6|00:32|(אומר בערבית ומתרגם) (אומר בערבית ומתרגם)
+7|00:37|(אומר בערבית ומתרגם)
+8|00:56|ומלל אל עמם למימר, אימית רעהו נפשכון, למגבריות מיתים מן גדומי,
+9|01:02|קבילו מני, ובעלי מן חברן בר סוחר.
+10|01:05|וייתן לי, יתמו ערות כופל תודה לך, תפסת על חגלך,
+11|01:12|נכסף שלי, יתנח לי, בנכון לאחסונת גבורה.
+12|01:17|ועפרון יותף בזוה בני חיתו, ועפרון חיתו, יותף אברהם גותם בני חיתו,
+13|01:23|לכל עולת הרע גרתך למימר.
+14|01:27|לא ריבוני גבל מני, חגלו יאהב יתלוך, ומעורתות דבה לוך יאהבת,
+15|01:33|לעיני בני עמי, יאהבת לוך גבר מיתוך.
+16|01:37|וסגת אברהם, גותם עמו דרעו.
+17|01:41|ומלל אל עפרון, קודם עמו דרעו למימר, ברם, אם עבד תתערבו גבל
+18|01:47|מיני, אתן, כספו דמי חגלו סב מיני, וכבר יותמי תתמון,
+19|01:53|ועתב עפרון, ותב רעום למימר, ריבוני גבל מיני, ערשו
+20|01:59|ויהו ארבע עמוס אל עין דכסף, בינהו ובינוך מוהי, ויותמי תוך גבר.
+21|02:05|וקבל אברהם מן עפרן, ופגל אברהם לעפרן, יוף כספו, דמאן ללגודום
+22|02:11|בנאחתו, ארבעה מאוסל עין דכסף, ופגל בל סוחרו בכל
+23|02:16|מבינו, וקבל חגל עפרן, דבכו פלטו, דגלום ממרה,
+24|02:21|חגלו ומעורתו דמא, בכל אילו נדב חגלו, דבכל תחומה סוחר
+25|02:26|סוחר, לעברהם נזווינוהי לעיני בנאחתו, בכל עולה תרעגרתה.
+26|02:33|ובואזר כן גבר אברהם, יפסורו יטפה, במעורת, חגל כופלתו, על אפם
+27|02:39|אמרי חברון, בהרעוד יחנוען.
+28|02:42|ואגום חגלו, ומעורת הודוה, לאברהם נחסונת גבורו, מן בני
+29|02:48|חיטו.

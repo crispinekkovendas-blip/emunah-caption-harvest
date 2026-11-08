@@ -1,0 +1,64 @@
+videoId: AQgF66bn8lU
+parte 6 de 28 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sucot, eleições, eutanásia e crise no mundo haredi
+RESUMO: Numa edição especial de Sucot gravada na sucá, o rabino Gottlieb e Avri Gilad começam falando do lulav no Templo quando Sucot caía em Shabat: os kohanim lançavam os lulavim e o povo brigava por eles. Passam depois ao discurso de Netanyahu na ONU, que consideram ineficaz, e o rabino lembra que "é sabido que Esav odeia Yaakov" e conta como o Chofetz Chaim comoveu o primeiro-ministro polonês sem falar polonês. Discutem a eutanásia no Canadá, a fé na alma, a demência e a nova lista haredi (alistamento, mulheres, ensino básico), além do aumento de jovens que deixam o mundo haredi, que o rabino atribui a uma sociedade seca e coercitiva. O rabino fala de sua aula de cabalá em Arad, de Chagigá ("quatro entraram no Pardes") e lê um texto sobre os quatro minim como união das partes da alma, que diz estar quase palavra por palavra no Zohar, com o etrog como feminino e os outros três como masculino. Terminam com a queda do QI, o voto de eleitores mal informados e a proposta de dois votos para quem estuda ou contribui.
+MOMENTOS: 00:37 Abertura de Sucot e a sucá do rabino · 01:44 O lulav no Templo quando Sucot cai em Shabat · 04:27 Discurso de Netanyahu na ONU e a falta de impacto · 06:39 Esav odeia Yaakov e a história do Chofetz Chaim · 09:33 Dedicatória: cura de Nariya Dov Leiter · 15:01 Eutanásia no Canadá · 17:19 Fé, alma e o valor da vida · 21:17 Partido haredi novo: alistamento, mulheres e ensino básico · 24:29 Pesquisa sobre jovens que deixam o mundo haredi · 35:59 Demência, alma e responsabilidade · 41:57 Aula de cabalá em Arad · 44:55 Os quatro minim e a união interior · 47:30 Queda do QI e a democracia; proposta de dois votos
+FONTES CITADAS: 01:44 Mishná Sucá 4:4 · 06:39 Rashi em Bereshit 33:4 · 17:51 Crença na eternidade da alma · 31:11 Pirkei Avot 5:16 · 31:48 Shabat 33b · 32:22 Devarim 17:10 · 32:45 Yeshayahu 53:7 · 33:27 Tehillim 37:25 · 40:09 Iyov 5:7 · 42:24 Shulchan Arukh, Yoré Deá 246:4 · 42:42 Baal HaSulam · 43:27 Chagigá 14b · 44:58 Vayikra 23:40 · 45:44 Zohar sobre os quatro minim · 45:58 Vayikra Rabá 30:12 · 46:20 Zohar sobre os quatro minim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|09:11|אבל בכל אופן, אם אתה נעזר ב-AI, זה יכול לעזור משהו.
+189|09:17|לחפות גם על דבר כזה, בזמננו.
+190|09:20|זאת אומרת שאתה תעלה את כל נאומיך ב-AI ותעשה דיבוב לשפה זרה.
+191|09:25|מן היום, בשניות ספורות, ה-AI ממיר את הכל לאנגלית
+192|09:31|ו...
+193|09:33|רציתי להגיד שהתוכנית היום מוקדשת להבראתו והחלמתו ושיקומו
+194|09:39|של נריה דוב בן חנה לייטר.
+195|09:42|כן.
+196|09:42|מה מצבו?
+197|09:44|אני לא יודע כרגע...
+198|09:45|שלוש ניתוחים הוא עבר.
+199|09:46|אני לא יודע מה מצבו, אני יודע שנאמרו כבר יותר ממאה אלף פרקי תהילים
+
+LINHAS A TRADUZIR:
+200|09:51|לזכותו.
+201|09:56|ואני חושב שאנחנו לא צריכים...
+202|09:59|ששגרירנו יחיאל לייטר יהפך להיות עוד אחד
+203|10:05|מחברי המועדון האקסקלוסיבי והנוראי של אנשים ששכלו יותר מילד אחד.
+204|10:11|כן.
+205|10:13|כן, כן, ברור.
+206|10:15|הדברים ברורים.
+207|10:19|אנחנו חיים פה על החרב לגמרי.
+208|10:22|לגמרי.
+209|10:23|לגמרי, לגמרי.
+210|10:25|זה לא רק ביהודה ושומרון, זה בכל מקום.
+211|10:28|לגמרי.
+212|10:32|טוב, עניינים אחרים.
+213|10:34|שמו דגלים, יוזמה של דגלים, בכל הזה.
+214|10:38|איפה?
+215|10:40|מג'ד אל קרום.
+216|10:41|אה, כן, כן, כן, כן, כן.
+217|10:44|אבל, תשמע, זה סמלים, אבל צריך יהודים שיבואו
+218|10:49|ויגורו שם.
+219|10:51|בשביל שיהיו יהודים שיגורו שמה, ואין שום סיבה שלא יגורו שמה, חוץ מזה שהמדינה לא נמצאת שם.
+220|10:58|כלומר...
+221|10:59|אדם בסופו של דבר חי את חייו, לא את חיי המדינה ולא את חיי העם.
+222|11:04|למרות שיש אנשים קדושים שהולכים ומקדשים בנוכחותם נקודות התיישבות
+223|11:10|רחוקות ומסוכנות, אבל האדם הרגיל רוצה לחיות חיים.
+224|11:14|חיים שיש לו מרכז רפואי קרוב, רופאים הגיוניים, כשהוא
+225|11:20|צריך MRI הוא לא צריך לחכות תשעה חודשים, אלא הוא יכול להשיג את זה בשלוש שעות,
+226|11:26|בתי ספר טובים.
+227|11:29|קניות קרובות, כל הדברים האלה.
+228|11:32|אם אין את הדברים האלה, אין.
+229|11:34|רגע, ומה עם הערבים?
+230|11:37|הם גם הולכים לגליל, לנגב וזה.
+231|11:39|הם בשביל הילדים שלהם לא צריכים טיפול רפאי או מה?
+232|11:42|אני, א', בטוח שהם צריכים, אבל...
+233|11:45|אז למה הם יכולים להסתפק במועט ואנחנו לא?
+234|11:49|זו שאלה?
+235|11:50|אני לא יודע להגיד לך את התשובה על זה בלי להישמע איזשהו דבר שאני לא מעוניין להישמע.
+236|11:59|גם ככה, גם ככה, כל היום אני שומע מאנשים,
+237|12:05|אנשים אומרים עליך, מה התחרפנת?
+238|12:07|איזה בן אדם נהיית?
+239|12:09|כתבתי על זה מאמר, איך החבר הכי טוב שלי...

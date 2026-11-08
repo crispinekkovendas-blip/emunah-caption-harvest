@@ -1,0 +1,64 @@
+videoId: AQgF66bn8lU
+parte 7 de 28 · traduzir as linhas 240 a 279 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sucot, eleições, eutanásia e crise no mundo haredi
+RESUMO: Numa edição especial de Sucot gravada na sucá, o rabino Gottlieb e Avri Gilad começam falando do lulav no Templo quando Sucot caía em Shabat: os kohanim lançavam os lulavim e o povo brigava por eles. Passam depois ao discurso de Netanyahu na ONU, que consideram ineficaz, e o rabino lembra que "é sabido que Esav odeia Yaakov" e conta como o Chofetz Chaim comoveu o primeiro-ministro polonês sem falar polonês. Discutem a eutanásia no Canadá, a fé na alma, a demência e a nova lista haredi (alistamento, mulheres, ensino básico), além do aumento de jovens que deixam o mundo haredi, que o rabino atribui a uma sociedade seca e coercitiva. O rabino fala de sua aula de cabalá em Arad, de Chagigá ("quatro entraram no Pardes") e lê um texto sobre os quatro minim como união das partes da alma, que diz estar quase palavra por palavra no Zohar, com o etrog como feminino e os outros três como masculino. Terminam com a queda do QI, o voto de eleitores mal informados e a proposta de dois votos para quem estuda ou contribui.
+MOMENTOS: 00:37 Abertura de Sucot e a sucá do rabino · 01:44 O lulav no Templo quando Sucot cai em Shabat · 04:27 Discurso de Netanyahu na ONU e a falta de impacto · 06:39 Esav odeia Yaakov e a história do Chofetz Chaim · 09:33 Dedicatória: cura de Nariya Dov Leiter · 15:01 Eutanásia no Canadá · 17:19 Fé, alma e o valor da vida · 21:17 Partido haredi novo: alistamento, mulheres e ensino básico · 24:29 Pesquisa sobre jovens que deixam o mundo haredi · 35:59 Demência, alma e responsabilidade · 41:57 Aula de cabalá em Arad · 44:55 Os quatro minim e a união interior · 47:30 Queda do QI e a democracia; proposta de dois votos
+FONTES CITADAS: 01:44 Mishná Sucá 4:4 · 06:39 Rashi em Bereshit 33:4 · 17:51 Crença na eternidade da alma · 31:11 Pirkei Avot 5:16 · 31:48 Shabat 33b · 32:22 Devarim 17:10 · 32:45 Yeshayahu 53:7 · 33:27 Tehillim 37:25 · 40:09 Iyov 5:7 · 42:24 Shulchan Arukh, Yoré Deá 246:4 · 42:42 Baal HaSulam · 43:27 Chagigá 14b · 44:58 Vayikra 23:40 · 45:44 Zohar sobre os quatro minim · 45:58 Vayikra Rabá 30:12 · 46:20 Zohar sobre os quatro minim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|11:32|אם אין את הדברים האלה, אין.
+229|11:34|רגע, ומה עם הערבים?
+230|11:37|הם גם הולכים לגליל, לנגב וזה.
+231|11:39|הם בשביל הילדים שלהם לא צריכים טיפול רפאי או מה?
+232|11:42|אני, א', בטוח שהם צריכים, אבל...
+233|11:45|אז למה הם יכולים להסתפק במועט ואנחנו לא?
+234|11:49|זו שאלה?
+235|11:50|אני לא יודע להגיד לך את התשובה על זה בלי להישמע איזשהו דבר שאני לא מעוניין להישמע.
+236|11:59|גם ככה, גם ככה, כל היום אני שומע מאנשים,
+237|12:05|אנשים אומרים עליך, מה התחרפנת?
+238|12:07|איזה בן אדם נהיית?
+239|12:09|כתבתי על זה מאמר, איך החבר הכי טוב שלי...
+
+LINHAS A TRADUZIR:
+240|12:13|הקראת לי.
+241|12:14|ניתק איתי קשר.
+242|12:15|הקראת לי את זה שבוע שעבר.
+243|12:17|כן.
+244|12:19|זה פתח בינינו דיאלוג כואב,
+245|12:24|שבסופו פרידה מוחלטת.
+246|12:28|כן.
+247|12:29|ממש.
+248|12:30|טוב.
+249|12:32|זה לא בסדר.
+250|12:35|זה לא בסדר שאנחנו נפרדים פרידה מוחלטת.
+251|12:40|כי אני חושב שאנחנו כן צריכים להיות חברים.
+252|12:43|גם אם הדעות הן שונות, מה יש?
+253|12:46|אני מבחינתי זה ברור מאליו, אבל...
+254|12:48|כן, מה יש?
+255|12:49|מה יש?
+256|12:49|מה?
+257|12:50|השמאל העמוק אף פעם לא ידע להתמודד עם דעות אחרות.
+258|12:53|אתה יודע, תרבות הביטול היא...
+259|12:58|תרבות של שמאל, מי שלא חושב כמוני מבוטל, או מנותק, או אי אפשר לשמוע את דעתו,
+260|13:04|או דעתו כואבת מדי, אז בסדר.
+261|13:08|אבל נראה לך שהימין כן יכול לשמוע דעות הפוכות?
+262|13:13|היום כבר אני חושב שלא, אני חושב שהימין...
+263|13:15|גם הם כבר לא.
+264|13:16|אני חושב שהימין הורעל.
+265|13:18|מהדבר, אבל השמאל גם היסטורית, אתה מסתכל על תולדות עם ישראל בארץ ישראל,
+266|13:24|תולדות עם ישראל בכלל, אבל כאן בארץ ישראל בן גוריון שקרא לבגין האיש ההוא, כן?
+267|13:31|כן, שמה זה מונח, שמה ההתחלה של הדבר הזה.
+268|13:36|זה מונח בגאווה מסריחה, גאווה גדולה מאוד, כאילו, האיש
+269|13:42|ההוא, כאילו...
+270|13:44|נורא.
+271|13:45|כן.
+272|13:45|באמת.
+273|13:46|ונגד הגאווה הזאת אני מדבר, זה...
+274|13:50|אני חושב שאנחנו צריכים להיות מסוגלים לשבת עם כולם.
+275|13:54|מה יש?
+276|13:57|אז אם אנחנו לא מסכימים על איזה כמה נקודות, אז לא מסכימים, אז מה יש?
+277|14:03|אבל בסך הכל אתה אדם נחמד, אז מה?
+278|14:06|בסדר, השאלה היא מה זה נחמד.
+279|14:07|נחמד.

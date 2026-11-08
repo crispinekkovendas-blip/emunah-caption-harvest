@@ -1,0 +1,64 @@
+videoId: AQgF66bn8lU
+parte 21 de 28 · traduzir as linhas 800 a 839 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Sucot, eleições, eutanásia e crise no mundo haredi
+RESUMO: Numa edição especial de Sucot gravada na sucá, o rabino Gottlieb e Avri Gilad começam falando do lulav no Templo quando Sucot caía em Shabat: os kohanim lançavam os lulavim e o povo brigava por eles. Passam depois ao discurso de Netanyahu na ONU, que consideram ineficaz, e o rabino lembra que "é sabido que Esav odeia Yaakov" e conta como o Chofetz Chaim comoveu o primeiro-ministro polonês sem falar polonês. Discutem a eutanásia no Canadá, a fé na alma, a demência e a nova lista haredi (alistamento, mulheres, ensino básico), além do aumento de jovens que deixam o mundo haredi, que o rabino atribui a uma sociedade seca e coercitiva. O rabino fala de sua aula de cabalá em Arad, de Chagigá ("quatro entraram no Pardes") e lê um texto sobre os quatro minim como união das partes da alma, que diz estar quase palavra por palavra no Zohar, com o etrog como feminino e os outros três como masculino. Terminam com a queda do QI, o voto de eleitores mal informados e a proposta de dois votos para quem estuda ou contribui.
+MOMENTOS: 00:37 Abertura de Sucot e a sucá do rabino · 01:44 O lulav no Templo quando Sucot cai em Shabat · 04:27 Discurso de Netanyahu na ONU e a falta de impacto · 06:39 Esav odeia Yaakov e a história do Chofetz Chaim · 09:33 Dedicatória: cura de Nariya Dov Leiter · 15:01 Eutanásia no Canadá · 17:19 Fé, alma e o valor da vida · 21:17 Partido haredi novo: alistamento, mulheres e ensino básico · 24:29 Pesquisa sobre jovens que deixam o mundo haredi · 35:59 Demência, alma e responsabilidade · 41:57 Aula de cabalá em Arad · 44:55 Os quatro minim e a união interior · 47:30 Queda do QI e a democracia; proposta de dois votos
+FONTES CITADAS: 01:44 Mishná Sucá 4:4 · 06:39 Rashi em Bereshit 33:4 · 17:51 Crença na eternidade da alma · 31:11 Pirkei Avot 5:16 · 31:48 Shabat 33b · 32:22 Devarim 17:10 · 32:45 Yeshayahu 53:7 · 33:27 Tehillim 37:25 · 40:09 Iyov 5:7 · 42:24 Shulchan Arukh, Yoré Deá 246:4 · 42:42 Baal HaSulam · 43:27 Chagigá 14b · 44:58 Vayikra 23:40 · 45:44 Zohar sobre os quatro minim · 45:58 Vayikra Rabá 30:12 · 46:20 Zohar sobre os quatro minim
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+788|39:10|אני משלם הרבה כסף כל חודש כדי לנהל את השיחות האינסופיות האלה שאני מנהל איתו.
+789|39:17|אני אגלה לך...
+790|39:20|אני אגלה לך משהו שמתחבא במכמני ליבי.
+791|39:24|אתה בהיריון.
+792|39:30|לא בהיריון, אבל לפעמים מתגנבת לתוך המוח שלי מחשבה
+793|39:36|שהדימנציה משחררת מאחריות.
+794|39:39|משחררת מאחריות, ברור.
+795|39:41|זאת אומרת, יש איזה סוג של
+796|39:46|השתוקקות כזאת למצב שאתה סוף סוף...
+797|39:51|משוחרר מכל אחריות.
+798|39:53|אף אחד לא יכול לבוא אליך בטענות.
+799|39:55|בסדר, אבל אין סיבה לקיומנו זולת אחריות.
+
+LINHAS A TRADUZIR:
+800|40:01|נכון.
+801|40:03|מי אני בלי האחריות שלי?
+802|40:04|נכון.
+803|40:05|מי אני בלי האחריות שלי?
+804|40:07|באמת.
+805|40:08|קמתי הבוקר...
+806|40:09|אדם לעמל יולד, ובלי...
+807|40:11|כרגיל, כרגיל, הבית שלי מלא מלא עד אפס מקום.
+808|40:16|בבנות ישנות.
+809|40:17|מה אתה אומר?
+810|40:18|זה כל לילה חוזר?
+811|40:20|בחופש.
+812|40:21|עוד לא נגמר החופש?
+813|40:22|זה ספטמבר כבר.
+814|40:23|לא, אבל עכשיו חופש סוכות, על מה אתה מדבר?
+815|40:26|אז הבנות שלי מזמינות את כל החברות שלהם לישון אצלנו.
+816|40:28|יש לנו בית גדול ויש לנו כל מיני...
+817|40:31|אתה יודע...
+818|40:31|רגע, אבל זה לא נחמד לך?
+819|40:34|אז הבוקר בדיוק אני מפשיר כל מיני פיתות, כל מיני לחמניות, ממרחים.
+820|40:39|בשביל הבנות.
+821|40:40|כן, ואני אומר לעצמי, אלוהים אדירים, מה אני צריך את זה?
+822|40:43|ותוך כדי כך אני אומר, בטח שאני צריך את זה.
+823|40:46|ברור שאני צריך את זה.
+824|40:47|נכון.
+825|40:48|מה, אם הייתי קם ועושה לי את הקפה הקטן שלי ואת הסנדוויץ' הקטן שלי ואוכל אותו בקטן?
+826|40:53|ומשקה את העציץ.
+827|40:55|כן.
+828|40:55|כן, ועם המקל אני הולך לעציץ ומשקה אותו.
+829|41:01|ואחר כך אני יורד למטה ויושב על יד הזה.
+830|41:04|הנה החלון פרח עציץ.
+831|41:07|כל היום הגן...
+832|41:08|יש לך מישהו לבן?
+833|41:10|תודה.
+834|41:11|זה מה שיפה ברב, שהוא תמיד גלוי, הוא צריך מה שהוא אומר, יש לך משהו לבן.
+835|41:16|הוא לא מסתיר את הצרכים שלו.
+836|41:18|לא, ממש לא.
+837|41:24|רגע.
+838|41:25|גם קינוח אף של אדמו"ר לדבר תורה ייחשב.
+839|41:32|עם שיחת חולין, איך ש...
