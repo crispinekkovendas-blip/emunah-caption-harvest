@@ -1,0 +1,64 @@
+videoId: 8T6SzTRB1TQ
+parte 21 de 29 · traduzir as linhas 800 a 839 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Hoshana Rabba, atualidade e a regra da maioria
+RESUMO: Na edição do Tando gravada na véspera de Hoshana Rabba, o rabino Gottlieb e Avri Gilad explicam por que são necessárias duas assinaturas, uma na neilá de Yom Kipur e outra em Hoshana Rabba. Citam o Arizal, que compara o caso a produtos que exigem duas lacres, e ligam a ideia às duas compreensões do estudo de Yemima, a reação imediata e a mais profunda. Depois comentam a atualidade: o avião que pousou na Arábia Saudita, a morte de um burro, o casamento de meninas, o antissemitismo crescente e o abuso de mulheres em lares haredi. O rabino cita Rabi Nachman de Breslov e o Baal HaSulam (Reshut min haShamayim) e discute a política e as listas desqualificadas. A seguir, ele e Avri debatem a democracia: o Baal HaSulam explica que "atrás da maioria inclinar" (Shemot 23:2) vale para o material, enquanto no espiritual segue-se o indivíduo. Yossi Meir, de Las Vegas e do 770, conta a história de seus sete minutos e cita ensinamentos de Rav Dunin, entre eles o versículo de Kohelet sobre a vantagem da luz que vem da escuridão. O programa termina com a menção a que ninguém sabe onde está a sepultura de Moshé, uma visita ao túmulo de Rachel e o debate sobre como lembrar o 7 de outubro.
+MOMENTOS: 00:34 Abertura e o tema do burro maltratado · 02:05 Hoshana Rabba e as duas assinaturas · 04:25 Primeira e segunda compreensão no estudo de Yemima · 06:57 Avião na Arábia Saudita e história do helicóptero · 10:14 Casamento de meninas e Rabi Nachman de Breslov · 12:38 Baal HaSulam e a Reshut min haShamayim · 15:09 Antissemitismo e o que vem pela frente · 20:27 Abuso de mulheres em lares haredi · 27:23 Tribunal Supremo e desqualificação de listas · 34:44 Democracia, voto duplo e o Baal HaSulam · 41:41 Yossi Meir, Las Vegas e os sete minutos · 46:21 Os sete minutos no 770 e Rav Dunin · 51:40 Memória do 7 de outubro
+FONTES CITADAS: 02:33 Neilá de Yom Kipur e Hoshana Rabba · 02:51 Arizal sobre Hoshana Rabba e a sigla חבית · 04:25 Estudo de Yemima, primeira e segunda compreensão · 05:42 Tikun Leil Hoshana Rabba · 11:25 Rabi Nachman de Breslov · 12:42 Baal HaSulam, conceito de Reshut min haShamayim · 34:59 Sócrates sobre a democracia · 36:36 Shemot 23:2 · 36:27 Baal HaSulam sobre a regra da maioria · 39:41 Baal HaSulam sobre a maioria no espiritual · 46:58 Guematria de 18 · 48:07 Avot 3:6 · 47:56 Kuntres Ahavat Yisrael (Chabad) · 48:24 Ensinamento de Rav Dunin sobre muitos chassidim · 49:19 Kohelet 2:13 · 50:03 Yemima, texto lido por Yossi Meir · 50:49 Devarim 34:6
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+788|38:08|אנחנו רואים, ההחלטות שלנו הן לא לטובה.
+789|38:10|אבל אי אפשר...
+790|38:12|אני סתם שואל אותך, המדיות, הן חוזרות על עצמן ברילסים, בקצרים האלה,
+791|38:18|בטיק טוק, באינסטגרם, ביוטיוב גם, בפייסבוק.
+792|38:24|זה באמת מלא AI.
+793|38:26|אבל אם אתה נכנס לפשוט מדיות של חדשות
+794|38:32|בלבד, גם שם יש בוטים?
+795|38:34|פשוט.
+796|38:35|מדווחים על חדשות.
+797|38:36|לא, לא, לא כל כך.
+798|38:37|אז אולי זה הפתרון, במקום להיכנס לכל הקצרים האלה.
+799|38:41|אני צורך קצרים, אבל לא פוליטיים.
+
+LINHAS A TRADUZIR:
+800|38:44|יש קצרים מעניינים בכל מיני נושאים שמעניינים אותי.
+801|38:47|אבל כמה אחוז המעניינים האלה?
+802|38:51|אצלי בפיד?
+803|38:52|כן.
+804|38:53|80 אחוז.
+805|38:54|80 אחוז?
+806|38:55|מה זה פיד?
+807|38:56|פיד זה שטף האינפורמציה שעובדה.
+808|38:59|באיזה מדיה?
+809|39:00|בכל מדיה.
+810|39:02|אז מה, אתה מיוחס או מה?
+811|39:03|לא, אני פשוט...
+812|39:04|למה אצלי מופיעים כל כך הרבה שטויות?
+813|39:06|מכיוון שאתה בחרת להסתכל בשטויות, אתה צריך לחנך אותו, מה אתה אוהב.
+814|39:09|אז אתה מיד זורק אותם.
+815|39:11|כן, אני לא...
+816|39:12|אתה מיד זורק אותם.
+817|39:13|אצלי אתה תראה פוליטיקה אמריקאית, רוחניות יהודית,
+818|39:19|תזונה, כושר, ואנשים ש...
+819|39:24|עושים שטויות וזה עולה להם כל מיני נופלים מסולם וכל מיני...
+820|39:29|הבנתי, אז מה שאתה מבשל זה מה שאתה מקבל, זה מה שאתה אומר.
+821|39:32|בוודאי, לכן קוראים לו אלגוריתם.
+822|39:35|כן.
+823|39:35|האם ג'וסי מאיר כבר איתנו?
+824|39:37|לא?
+825|39:39|בוא.
+826|39:41|אבל אני רק רוצה להוסיף מה שבעל הסולם אומר, שחוק התורה אחרי רבים
+827|39:46|לעטות זה רק לגבי גשמיות.
+828|39:50|אבל לגבי רוחניות, אומר בעל הסולם, כן.
+829|39:52|אחרי...
+830|39:53|היחיד להטות.
+831|39:55|כן.
+832|39:56|לא אחרי הרבים.
+833|39:57|ברור.
+834|39:57|הרבים לא מבינים כלום ברוחניות.
+835|40:00|נכון.
+836|40:00|ואין פה מה לספור ידיים.
+837|40:02|לא.
+838|40:03|צריך למצוא את האחד המיוחד, המיוחד, שהוא חי חיים רוחניים, וללכת איתו.
+839|40:09|פה אין הצבעות.

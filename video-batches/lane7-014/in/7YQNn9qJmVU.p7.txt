@@ -1,0 +1,64 @@
+videoId: 7YQNn9qJmVU
+parte 8 de 14 · traduzir as linhas 280 a 319 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Gevurot adoçadas: o bem na raiz do mal e os tzadikim
+RESUMO: A aula continua o Ra'i HaAri, cap. 10, p. 283, retomando o yayin como as cinco gevurot do yesod da Nukva, guardadas com selo dentro de selo, e as centelhas que saem das klipot. Quando as gevurot estão adoçadas, elas são o "vinho que alegra". Quando se invertem, tornam-se sangue de nidá. Segundo o Ari, os tzadikim gamurim têm o yetzer tov como juiz, como na Gemará (Berachot 61b), e estão mergulhados na "profundeza do bem". A partir das dez profundezas do Sefer Yetzirá e da "profundeza do mal", o Rav explica que a raiz do mal é o bem absoluto. Ele liga isso aos "sofrimentos de amor" (Berachot 5a), a Yeshaiahu 45:7 e ao Zohar, segundo o qual até Faraó e Lavan são nomes sagrados, e usa a imagem da peça de teatro cuja máscara cai. Esses tzadikim precisam preservar o yetzer hará para não anular a escolha, como "o guibor que conquista seu yetzer" (Avot 4:1), e por isso não têm descanso. Os beinonim sentem essa inclinação só às vezes. A guerra constante se adoça até a bênção do "tudo" de Avraham, Yitzchak e Yaakov (Bava Batra 17a), um Olam Haba já neste mundo, ligado ao "noam", que é Biná, e a "delícias à Tua direita para sempre".
+MOMENTOS: 00:17 Revisão: separação das gevurot, vinho e os quatro selos (chavit) · 01:36 Centelhas que saem das klipot: o "vinho que alegra" · 02:54 Ari: o yayin como as cinco gevurot do yesod da Nukva · 04:05 Gevurot que se invertem em sangue de nidá · 05:36 Tzadikim gamurim: o yetzer tov como juiz · 07:44 Dez profundezas do Sefer Yetzirá e a "profundeza do mal" · 10:42 A raiz do mal é o bem absoluto · 12:47 Sofrimentos de amor e o mal sem causa visível · 19:24 Imagem do teatro e o Zohar: Faraó como kodesh hakodashim · 22:06 Por que os tzadikim preservam o yetzer hará · 26:00 O guibor que "conquista" o yetzer e não tem descanso · 28:19 Beinonim e tzadikim: a guerra constante que se adoça · 30:45 Bênção do "tudo" e Olam Haba já neste mundo · 33:26 Noam é Biná: o Eterno e a nitzchiut das gevurot
+FONTES CITADAS: 00:38 Mnemônico "chavit" (חבית) · 02:54 Ra'i HaAri, cap. 10, p. 282-283 (Ari) · 03:29 Mishlei 5:5 · 06:13 Rosh Hashaná 16b · 06:31 Berachot 61b · 07:40 Tehilim 130:1 · 07:44 Sefer Yetzirá 1:5 · 09:01 Pinkasim do Rav sobre Pardes Rimonim do Ramak, Shaar 3, cap. 4 · 10:55 Devarim 4:35 · 11:10 Eichá 3:38 · 12:16 Mishlei 3:12 · 12:47 Berachot 5a · 13:27 Rav Shlomo sobre Tisha BeAv e Yom Kipur · 15:16 Yeshaiahu 45:7 · 16:08 Megillá 31b · 16:02 Devarim 28 (Parashá Ki Tavo) · 16:20 História do Baal Shem Tov e do Rabino de Chernobyl · 17:49 Rabino de Piaseczno (Esh Kodesh), sobre a Shoá · 19:08 Pesachim 50a · 20:12 Zohar, Torá de Atzilut · 21:11 Tehilim 126:2 · 21:51 Devarim 32:39 · 22:20 Ra'i HaAri, cap. 10, p. 283 · 23:49 Avinu Malkeinu · 24:34 Bereshit 2:3 · 26:00 Avot 4:1 · 26:29 Avot de Rabi Natan 23 · 26:55 Berachot 64a · 26:55 Tehilim 84:8 · 29:06 Devarim 20:1 · 29:24 Devarim 20:8 · 29:28 Sotá 44a · 30:45 Bava Batra 17a · 30:56 Rabi Rachumi (definição de Olam Haba) · 31:21 Bereshit 24:1 · 31:28 Bereshit 27:33 · 31:29 Bereshit 33:11 · 33:31 Tehilim 90:17 · 33:35 Zohar, noam é Biná · 33:46 Yeshaiahu 64:3 · 35:36 Tehilim 16:11
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+268|18:18|בגלל מה?
+269|18:19|בגלל שלא שמרו, אני לא יודע מה קרה.
+270|18:23|בגלל זה ככה?
+271|18:25|כזה אכזריות, כאלה דברים?
+272|18:29|כל סיבה שתיתן היא סיבה עלובה.
+273|18:33|עד שבסוף תגיע למסקנה שזה גזירת מלך.
+274|18:35|למה?
+275|18:36|ככה, בלי
+276|18:41|סיבה.
+277|18:42|סיבת, סיבת, זהו, גזירת מלך.
+278|18:45|את אשר השם יאהב, השם יוכיח.
+279|18:49|ואז אתה תראה, אז אם ככה הרע הזה, זה היה הוא.
+
+LINHAS A TRADUZIR:
+280|18:52|ואז אתה מרגיש שזה היה הוא, זה כבר לא רע, זה כבר טוב.
+281|18:57|איך לסלל מלך?
+282|19:00|אז היום אי אפשר להבין את זה.
+283|19:03|לכן, כיום אדם מברך על הטובה, הטוב והאמיתי, אבל הרע הוא עוד לא מברך על הטובה והאמיתי.
+284|19:08|הוא מברך דיין האמת, אבל לעתיד לבוא, כתוב שנברך גם על הרע, הטוב והאמיתי.
+285|19:14|אז אנחנו נזכה לראות את זה הטוב הגמור, רק טוב.
+286|19:18|זה דברים עמוקים.
+287|19:21|איך אתה רוצה שאני אתן לך דוגמה, איך?
+288|19:23|בוא אני אתן לך דוגמה.
+289|19:24|אני לסבר לך, לסבר לך את האוזן, אני אתן לך דוגמה.
+290|19:28|בוא אני אתן לך דוגמה לסבר את האוזן.
+291|19:30|בסדר?
+292|19:32|הקדוש ברוך הוא הלביש את עצמו, אתה יודע, הלביש את עצמו בבריאה.
+293|19:37|צמצם עצמו והלביש את עצמו בנבראים.
+294|19:39|הלא, תראה, אתה חלק אלוק הימל, הוא חלק אלוק הימל.
+295|19:42|בסוף על כל דבר יש אלוקות, נכון?
+296|19:45|כן?
+297|19:46|ויש רק את המעטפת, את הלבוש, את התחפושת.
+298|19:50|אתה חושב כמו יש הצגה עכשיו.
+299|19:52|נגמרת ההצגה.
+300|19:53|אז הנה, עכשיו כל אחד מורידים את התחפושת שלו, את המסכה שלו.
+301|19:58|מקבל מחיאות כפיים, וזה הרשע שהיה הכי אכזרי, מה הוא מקבל המחיאות כפיים הכי חזקות, כי הוא
+302|20:03|היה השחקן הכי טוב, נכון?
+303|20:06|בדרך כלל זה צריך לתת לשחקן שהוא הכי טוב, נכון?
+304|20:10|אז תחשוב שזה עתיד לבא קדוש בר ומוריד את המסכה.
+305|20:12|עכשיו, זה לא אני אמרתי, זה כתוב בזוהר.
+306|20:15|שיש, רגע, שיש כתוב בזוהר, יש תורה דאצילות.
+307|20:21|דרגות בהשגות של האדם את התורה.
+308|20:23|כשאדם מגיע להשגה הגבוהה, יש תורה דאצילות, שמה הכל קודש הקודשים.
+309|20:27|פרעה זה קודש הקודשים.
+310|20:28|לבן הארמי זה קודש הקודשים.
+311|20:32|ספר תורה שתמחק ממנו את המילה פרעה.
+312|20:35|פרעה עשה שואה גדולה לעם ישראל, שואה.
+313|20:38|עכשיו קל לנו להבין את מה שאני אומר, כי זה היה לפני שלושת אלפים שנה.
+314|20:42|אבל להגיד שפרעה הוא קודש הקודשים שהזוהר אומר, זה כמו להגיד שהיטלר הוא קודש הקודשים.
+315|20:50|אז תוציא מהספר תורה פרעה, ספר תורה פסול.
+316|20:53|זה שם קדוש, כל התורה אומרת, זו שמותיו של הקדוש ברוך הוא, שם קדוש.
+317|20:57|לבן הארמי, שם קדוש, עשיו, שם קדוש.
+318|21:01|אז איך, איך יקרה, יתגלש הקדוש ברוך הוא, הוא מסיר את המסכות, מסיר את כל
+319|21:07|הלבושים, ומתגלה שזה היה הקדוש ברוך הוא בעצמו.

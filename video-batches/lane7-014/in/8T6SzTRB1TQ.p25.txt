@@ -1,0 +1,64 @@
+videoId: 8T6SzTRB1TQ
+parte 26 de 29 · traduzir as linhas 1000 a 1039 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Hoshana Rabba, atualidade e a regra da maioria
+RESUMO: Na edição do Tando gravada na véspera de Hoshana Rabba, o rabino Gottlieb e Avri Gilad explicam por que são necessárias duas assinaturas, uma na neilá de Yom Kipur e outra em Hoshana Rabba. Citam o Arizal, que compara o caso a produtos que exigem duas lacres, e ligam a ideia às duas compreensões do estudo de Yemima, a reação imediata e a mais profunda. Depois comentam a atualidade: o avião que pousou na Arábia Saudita, a morte de um burro, o casamento de meninas, o antissemitismo crescente e o abuso de mulheres em lares haredi. O rabino cita Rabi Nachman de Breslov e o Baal HaSulam (Reshut min haShamayim) e discute a política e as listas desqualificadas. A seguir, ele e Avri debatem a democracia: o Baal HaSulam explica que "atrás da maioria inclinar" (Shemot 23:2) vale para o material, enquanto no espiritual segue-se o indivíduo. Yossi Meir, de Las Vegas e do 770, conta a história de seus sete minutos e cita ensinamentos de Rav Dunin, entre eles o versículo de Kohelet sobre a vantagem da luz que vem da escuridão. O programa termina com a menção a que ninguém sabe onde está a sepultura de Moshé, uma visita ao túmulo de Rachel e o debate sobre como lembrar o 7 de outubro.
+MOMENTOS: 00:34 Abertura e o tema do burro maltratado · 02:05 Hoshana Rabba e as duas assinaturas · 04:25 Primeira e segunda compreensão no estudo de Yemima · 06:57 Avião na Arábia Saudita e história do helicóptero · 10:14 Casamento de meninas e Rabi Nachman de Breslov · 12:38 Baal HaSulam e a Reshut min haShamayim · 15:09 Antissemitismo e o que vem pela frente · 20:27 Abuso de mulheres em lares haredi · 27:23 Tribunal Supremo e desqualificação de listas · 34:44 Democracia, voto duplo e o Baal HaSulam · 41:41 Yossi Meir, Las Vegas e os sete minutos · 46:21 Os sete minutos no 770 e Rav Dunin · 51:40 Memória do 7 de outubro
+FONTES CITADAS: 02:33 Neilá de Yom Kipur e Hoshana Rabba · 02:51 Arizal sobre Hoshana Rabba e a sigla חבית · 04:25 Estudo de Yemima, primeira e segunda compreensão · 05:42 Tikun Leil Hoshana Rabba · 11:25 Rabi Nachman de Breslov · 12:42 Baal HaSulam, conceito de Reshut min haShamayim · 34:59 Sócrates sobre a democracia · 36:36 Shemot 23:2 · 36:27 Baal HaSulam sobre a regra da maioria · 39:41 Baal HaSulam sobre a maioria no espiritual · 46:58 Guematria de 18 · 48:07 Avot 3:6 · 47:56 Kuntres Ahavat Yisrael (Chabad) · 48:24 Ensinamento de Rav Dunin sobre muitos chassidim · 49:19 Kohelet 2:13 · 50:03 Yemima, texto lido por Yossi Meir · 50:49 Devarim 34:6
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+988|48:13|שרויה ביניהם.
+989|48:14|שזה משהו שחדדו, ובכל אופן זה המשפט הראשון, אבל אותו הרב דודיה אומר, ומביא מרבותיו,
+990|48:20|איפה שיש הרבה חסידים זה מסריח.
+991|48:24|ועוד מחדד שזה כמו זבל של פרות.
+992|48:28|כן?
+993|48:29|כך אמר הרב דונין?
+994|48:30|כן?
+995|48:30|מדוע?
+996|48:31|כן, וצועה של פרות, הנה אני קורא, צועה של פרות היא משאב שימושי מאוד, ויש לה שימושים
+997|48:37|מרכזיים רבים בחקלאות, אנרגיה ותעשייה, דשא, אורגני, משמש להשארת קרקע בחקלאות, בגימול
+998|48:43|ביתי, הוא עשיר בנוטרינטים חיוניים כמו חנקן, יש הרבה
+999|48:49|מעלות לאותו זבל של הפרה, אז צריך להשתמש בו, וזה
+
+LINHAS A TRADUZIR:
+1000|48:55|החצית, מתי אתה ממצה את הפוטנציאל?
+1001|48:57|נגיד, אני כאן עכשיו שאני בשליחות הנעלמה הזאתי, המופלאה הזאתי.
+1002|49:02|אני מגלה כוחות שלא ידעתי שיש לי כוחות, אבל לפחות, וכביכול אני לבד, אין אצלי גיבויים של
+1003|49:08|אלפי אנשים לידי ש...
+1004|49:10|אבל זה היהודי, תצא ותפעם, וכל אחד במקום שלו.
+1005|49:14|והרב דודין, המשפט השלישי שלו היה, אדרבא, זה יתרון האור הבא מן החושך, זה מה שהרבי
+1006|49:19|מבקש.
+1007|49:21|והרב דודי, המשפט השלישי זה שנעשה נחת לרבי, ומה שעלה לי, האם אתה בתודעת נוחות או
+1008|49:26|בתודעת נחת?
+1009|49:27|יכול לבוא חסיד וחודש עלינו להיות אצל הרבי וזה תודעת נחת, הוא עושה נחת לרבי, אבל הוא צריך
+1010|49:33|לשאול אותו טוב טוב את עצמו גם, האם הוא לא בתודעת נוחות?
+1011|49:37|האם...
+1012|49:39|וגם בטריה שאתה מטעין אותה יותר מדי, דרך אגב, אפרופו מחובר לשקע וכל אחד עם השקעים שלו,
+1013|49:46|אז אתה גורם לנזק לבטריה.
+1014|49:49|יוסף מאיר, אנחנו צריכים לסיים.
+1015|49:51|רגע, אבל אני רוצה...
+1016|49:53|באמת, יש כמה שורות של אבני מאחת המלכות, אני אקריא את זה ברשותכם, הוא כותב ככה.
+1017|49:58|אני רוצה להודות לימימה על שהלכה ולא הותירה דבר ממנה, מלבד
+1018|50:03|החומי.
+1019|50:05|לא צלם להשתחוות ולא בית לעלות, ולא קרן לתרומות, כלום.
+1020|50:10|וכך הבטיחה את שמירת ניקיון הלימוד לשנים רבות.
+1021|50:13|בנתה אל תוכו בחוכמתה וצניעותה, את מנגנון הישרדותו.
+1022|50:18|קשר ללימוד, לא למעביר, אמרה ידימה.
+1023|50:21|ואנו רואים היטב מה קורה כאשר היחס הוא הפוך.
+1024|50:25|תביא, זה אף פעם לא נגמר טוב.
+1025|50:29|יפה.
+1026|50:31|תודה רבה.
+1027|50:31|תודה רבה.
+1028|50:32|תודה, אסי מאיר, תודה שקראתם את הרב.
+1029|50:34|תודה לרב, תודה לאבו.
+1030|50:35|חג שמח, שבת שלום.
+1031|50:36|עלה וסע.
+1032|50:40|אוקיי.
+1033|50:42|פרשת שבוע.
+1034|50:44|אז זה בדיוק מה שנאמר פה.
+1035|50:46|זאת הברכה ומקור מקור...
+1036|50:49|קבורתו של משה לא נודע.
+1037|50:50|כן.
+1038|50:51|וככה עשו לנו טובה גדולה.
+1039|50:52|נכון.
