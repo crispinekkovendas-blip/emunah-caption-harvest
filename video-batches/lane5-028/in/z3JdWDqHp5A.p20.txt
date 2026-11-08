@@ -1,0 +1,64 @@
+videoId: z3JdWDqHp5A
+parte 21 de 26 · traduzir as linhas 800 a 839 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Amor ao próximo e o propósito da Criação (Matan Torá)
+RESUMO: O rabino lê o ensaio "Matan Torá" de Baal HaSulam, que parte da frase de Rabi Akiva de que "ama o teu próximo como a ti mesmo" é a grande regra da Torá, e da resposta de Hillel ao converso em Shabat 31a. A primeira pergunta é como mandamentos como Shabat, tefilin e tekiat shofar, e também as narrativas, se ligam ao amor ao próximo. Depois vem a pergunta prática de como cumprir "como a ti mesmo", com exemplos de comunidades que se apoiam, e a Gemará em Kiddushin 20a, com Tosafot em nome do Yerushalmi, sobre o único travesseiro do servo hebreu (Devarim 15:16). Em seguida o rabino explica por que a prática começa pelo círculo mais próximo e por que o ensaio rejeita a ideia de favoritismo nacional, ao tratar da frase "Tu nos escolheste" e do ensinamento dos Sábios de que a Torá foi oferecida a todas as nações. Por fim o texto apresenta o propósito da Criação, revelar a Divindade às criaturas e dar-lhes prazer, e o rabino conclui que amar o próximo é o caminho para sentir o Criador. A aula termina com um comentário sobre o Zohar e a sabedoria das letras hebraicas.
+MOMENTOS: 01:48 Início do ensaio Matan Torá de Baal HaSulam · 03:50 Perguntas: como Shabat e tefilin se ligam ao amor ao próximo · 05:35 Hillel e o converso: o resto é comentário · 09:36 O que significa "como a ti mesmo"? A questão prática · 14:37 Exemplo de uma comunidade que se ajuda de verdade · 24:07 Diferença entre chesed e amor · 28:27 Kiddushin 20a: o único travesseiro do servo · 35:26 Por que começar pelo círculo mais próximo · 48:36 Por que a Torá foi dada só a Israel · 53:19 O propósito da Criação: revelar a Divindade e dar prazer · 57:36 O prazer do contato com o Criador · 1:04:27 Amar o próximo leva a sentir o Criador · 1:11:27 Zohar e a sabedoria das letras hebraicas
+FONTES CITADAS: 01:55 Vayikra 19:18 · 01:55 Sifra, Kedoshim 4:12 · 05:35 Shabat 31a · 05:54 Shabat 31a · 06:27 Shabat 31a · 12:04 Devarim 13:1 · 28:51 Tosafot em Kiddushin 20a, em nome do Yerushalmi · 28:59 Devarim 15:16 · 29:38 Kiddushin 20a · 30:01 Kiddushin 20a · 33:19 Devarim 10:18 · 35:26 Bava Metzia 71a · 47:12 Bereshit Rabá 38:6 · 49:25 Amidá das festas, Atá Vechartanu · 50:09 Avodá Zará 2b · 53:29 Bereshit Rabá 1:4 · 57:36 Yeshayahu 64:3 · 1:04:47 Pirkei Avot 2:16 · 1:05:47 Sifra, Kedoshim 4:12 · 1:11:27 Zohar, Hakdamat Sefer HaZohar, Otiyot de-Rav Hamnuna Saba
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+788|59:05|היה לו שבעה תארי דוקטור.
+789|59:11|ואני זוכר פעם רביעי איזה אלבום, ובאלבום היו תמונות שלו עם אהוד ברק.
+790|59:18|הוא רץ איתו הקמפיין הזה, והוא היה,
+791|59:24|וראיתי כמה זה מרגש אותו, וכמה הוא מחשיב את זה,
+792|59:30|שהוא היה קשור לראש ממשלת ישראל.
+793|59:36|אתם יכולות להבין את זה?
+794|59:38|לא.
+795|59:40|אפשר להבין.
+796|59:42|ואם זה שם אחר?
+797|59:43|לא משנה שם.
+798|59:44|מה, להבין שלא, אבל עם אדם שהוא אוהב בעינייך.
+799|59:54|אני זוכר את ה...
+
+LINHAS A TRADUZIR:
+800|59:55|הוא הביא את האלבום והוא עילל בדפים ואמר לי הנה אתה רואה פה ופה
+801|1:00:01|ופה.
+802|1:00:18|‫אבל יש הבדל לפי מה שהבנתי, ‫שהוא כאילו התהדר בזה ‫שהוא והוא חברים,
+803|1:00:23|‫שהוא קשור אל...
+804|1:00:28|‫אם אני מבינה...
+805|1:00:29|‫אני לא בא לנתח עכשיו אותו, ‫אני בא רק...
+806|1:00:32|‫ברור של להחזיק מישהו שהוא...
+807|1:00:35|‫לנסות להבין מה התענוג פה.
+808|1:00:38|‫יש לך תשובה לבן אדם ‫שהוא בעינייך מעריץ.
+809|1:00:43|‫-זה מה שהוא אומר, להחשיב את זה.
+810|1:00:45|זה מה שהוא אמר.
+811|1:00:47|מה העניין של התחושה הטובה הזאת?
+812|1:00:48|זאת אומרת, אני יודע מה ש...
+813|1:00:53|אם למשל, סתם אני נותן דוגמאות, אם למשל באיזו הופעה גדולה שלמה ארצי
+814|1:00:59|יושב על יד איזה בחורה וידבר איתה, ואני הייתי
+815|1:01:05|חבר של אבא שלך, ונותן לתשומת לב.
+816|1:01:10|למה מרגישים כל כך טוב בזה?
+817|1:01:13|מה העניין?
+818|1:01:15|בדיוק.
+819|1:01:16|ומשאלה אם מישהו אחר יעשה את זה,
+820|1:01:21|היא תרגיש אותו דבר.
+821|1:01:25|אותו דבר?
+822|1:01:26|לא, היא לא צריכה להשתווה את זה.
+823|1:01:30|ברור שלא.
+824|1:01:30|זה הקשר עם האדם המסוים.
+825|1:01:32|זאת אומרת, אדם שהוא...
+826|1:01:36|אדם שמחשיבים אותו.
+827|1:01:38|אדם שהמונים, המונים מחשיבים אותו.
+828|1:01:42|לא משנה כרגע למה ומה.
+829|1:01:44|אבל המונים מחשיבים אותו, והדעה החברתית הכוללת
+830|1:01:50|של חשיבות עצומה, ואז אם יש לי מגע עם החשוב הזה,
+831|1:01:56|זה נותן לי תענוג, גם אני חשוב.
+832|1:01:59|אז אם אני בקשר כזה עם הבורא, אז אני גם חשובה בעיני
+833|1:02:04|הבורא.
+834|1:02:05|בהחלט.
+835|1:02:07|כן, אני מתכוון שאת חשובה בעיני עצמך קודם כל, בעיני עצמך, זאת אומרת
+836|1:02:12|ששלמה ארצי, מכולם הוא מצא לנכון לבוא,
+837|1:02:18|לשבת על ידך ולקח את הטלפון שלך ולמחרת הוא מתקשר.
+838|1:02:24|כן.
+839|1:02:29|כתב עלייך שיר.

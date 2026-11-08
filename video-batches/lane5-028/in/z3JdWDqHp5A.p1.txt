@@ -1,0 +1,64 @@
+videoId: z3JdWDqHp5A
+parte 2 de 26 · traduzir as linhas 40 a 79 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Amor ao próximo e o propósito da Criação (Matan Torá)
+RESUMO: O rabino lê o ensaio "Matan Torá" de Baal HaSulam, que parte da frase de Rabi Akiva de que "ama o teu próximo como a ti mesmo" é a grande regra da Torá, e da resposta de Hillel ao converso em Shabat 31a. A primeira pergunta é como mandamentos como Shabat, tefilin e tekiat shofar, e também as narrativas, se ligam ao amor ao próximo. Depois vem a pergunta prática de como cumprir "como a ti mesmo", com exemplos de comunidades que se apoiam, e a Gemará em Kiddushin 20a, com Tosafot em nome do Yerushalmi, sobre o único travesseiro do servo hebreu (Devarim 15:16). Em seguida o rabino explica por que a prática começa pelo círculo mais próximo e por que o ensaio rejeita a ideia de favoritismo nacional, ao tratar da frase "Tu nos escolheste" e do ensinamento dos Sábios de que a Torá foi oferecida a todas as nações. Por fim o texto apresenta o propósito da Criação, revelar a Divindade às criaturas e dar-lhes prazer, e o rabino conclui que amar o próximo é o caminho para sentir o Criador. A aula termina com um comentário sobre o Zohar e a sabedoria das letras hebraicas.
+MOMENTOS: 01:48 Início do ensaio Matan Torá de Baal HaSulam · 03:50 Perguntas: como Shabat e tefilin se ligam ao amor ao próximo · 05:35 Hillel e o converso: o resto é comentário · 09:36 O que significa "como a ti mesmo"? A questão prática · 14:37 Exemplo de uma comunidade que se ajuda de verdade · 24:07 Diferença entre chesed e amor · 28:27 Kiddushin 20a: o único travesseiro do servo · 35:26 Por que começar pelo círculo mais próximo · 48:36 Por que a Torá foi dada só a Israel · 53:19 O propósito da Criação: revelar a Divindade e dar prazer · 57:36 O prazer do contato com o Criador · 1:04:27 Amar o próximo leva a sentir o Criador · 1:11:27 Zohar e a sabedoria das letras hebraicas
+FONTES CITADAS: 01:55 Vayikra 19:18 · 01:55 Sifra, Kedoshim 4:12 · 05:35 Shabat 31a · 05:54 Shabat 31a · 06:27 Shabat 31a · 12:04 Devarim 13:1 · 28:51 Tosafot em Kiddushin 20a, em nome do Yerushalmi · 28:59 Devarim 15:16 · 29:38 Kiddushin 20a · 30:01 Kiddushin 20a · 33:19 Devarim 10:18 · 35:26 Bava Metzia 71a · 47:12 Bereshit Rabá 38:6 · 49:25 Amidá das festas, Atá Vechartanu · 50:09 Avodá Zará 2b · 53:29 Bereshit Rabá 1:4 · 57:36 Yeshayahu 64:3 · 1:04:47 Pirkei Avot 2:16 · 1:05:47 Sifra, Kedoshim 4:12 · 1:11:27 Zohar, Hakdamat Sefer HaZohar, Otiyot de-Rav Hamnuna Saba
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+28|03:57|זאת אומרת שכל התורה כולה זה פרטים שאמורים להביא אותנו לכלל הזה.
+29|04:02|השאלה אחת היא איך המצוות כמו שבת,
+30|04:09|מה שבת קשור ל"ואהבת לרעך כמוך"?
+31|04:13|איך תפילין קשורים ל"ואהבת לרעך כמוך"?
+32|04:20|זאת אומרת כל המצוות שנוגעות להתנהגות שבין אדם לחברו אז
+33|04:25|מבינים אבל מה שלא קשור לבין אדם לחברו
+34|04:33|אז איך זה בונה את הכלל הזה של ואהבת לרעך כמוך
+35|04:39|זו שאלה אחת שאלה שנייה
+36|04:47|אז זה לא רק מצוות יש גם הרבה סיפורים, איך כל
+37|04:52|הסיפורים האלה קשורים ל"ואהבת לרעך
+38|04:55|כמוך".
+39|04:59|בתנ״ך יש הרבה מאוד סיפורים.
+
+LINHAS A TRADUZIR:
+40|05:05|אז איך הוא אומר, זה כלל גדול בתורה, כאילו שכל הפרטים האלה
+41|05:11|רוקמים את הכלל הזה.
+42|05:16|ב.
+43|05:20|ואם עוד אפשר לנו להתייגע ולמצוא דרך ליישב דבריהם שבכאן
+44|05:29|הנה ערוך לעינינו מאמר שני עוד יותר בולט באותו
+45|05:35|הגר שבא לפני הלל ואמר לו למדני כל התורה כולה
+46|05:41|כשאני עומד על רגל אחת זאת אומרת תן לי את
+47|05:47|המוטיב המרכזי של התורה בקיצור
+48|05:54|ואמר לו כל מדע הלך שניא לחברך לא תעביד
+49|06:02|מה ששנוא עליך אל תעשה לחברך
+50|06:10|שזה כאילו הצד השלילי של ואהבת לרעך כמוך
+51|06:20|ואהבתא אומר מה כן, ופה הוא אומר מה לא.
+52|06:27|ואידך, פירוש ההוא, זיל גמור.
+53|06:34|תרגום, כל מה ששנוא עליך, אל תעשה לחברך.
+54|06:40|וכל שאר התורה הוא פירוש לזה.
+55|06:43|לך ותלמד את שאר התורה.
+56|06:46|זאת אומרת, הגר הזה אמר לו, תן לי את המוטיב המרכזי של התורה.
+57|06:51|ואמר לו מה ששנוא עליך אל תעשה לחברך ויידך
+58|06:57|כל מה שכתוב בכל התורה כולה זה פירוש לזה
+59|07:04|זיל גמור זיל גמור זה לך ותלמד לך ותלמד
+60|07:14|זה פירוש לזה הרי
+61|07:19|לפנינו הלכה ברורה אשר אין לנו שום העדפה
+62|07:26|בכל שש מאות ושתים עשרה המצוות ובכל המקראות שבתורה
+63|07:35|על המצווה האחת של ואהבת לרעך כמוך
+64|07:50|כיוון שבאים רק כדי לפרש ולאפשר לנו
+65|07:57|לקיים מצוות אהבת הזולת עלי חנה שהרי אומר בפירוש ואידך פירוש ההוא
+66|08:03|זיל גמור דהיינו שכל שאר התורה הם פירוש של המצווה האחת הזאת
+67|08:10|שאי אפשר לגמור מצוות ואהבת לרעך כמוך זולתם אז
+68|08:16|המאמר הזה של הלל בא וסוגר את העניין כי הוא אומר לגר הזה
+69|08:22|דברים בהירים שכל התורה זה רק פירוש לזה.
+70|08:34|ועל זה יש את השאלות שהוא שאל איך כל התורה קשורה לעניין
+71|08:40|של אהבת הזולת
+72|08:50|אהבת הזולת?
+73|08:51|כן.
+74|08:52|איך כל התורה קשורה לאהבת הזולת?
+75|08:54|לא, ואהבת לך כמוך זה ברור לאהבת הזולת, אבל איך שאר המצוות קשורות לזה?
+76|09:00|בדיוק, איך שאר המצוות?
+77|09:01|זאת השאלה.
+78|09:02|זאת השאלה.
+79|09:04|זאת השאלה.

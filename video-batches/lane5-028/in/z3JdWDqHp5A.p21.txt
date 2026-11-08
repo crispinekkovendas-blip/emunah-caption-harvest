@@ -1,0 +1,64 @@
+videoId: z3JdWDqHp5A
+parte 22 de 26 · traduzir as linhas 840 a 879 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Amor ao próximo e o propósito da Criação (Matan Torá)
+RESUMO: O rabino lê o ensaio "Matan Torá" de Baal HaSulam, que parte da frase de Rabi Akiva de que "ama o teu próximo como a ti mesmo" é a grande regra da Torá, e da resposta de Hillel ao converso em Shabat 31a. A primeira pergunta é como mandamentos como Shabat, tefilin e tekiat shofar, e também as narrativas, se ligam ao amor ao próximo. Depois vem a pergunta prática de como cumprir "como a ti mesmo", com exemplos de comunidades que se apoiam, e a Gemará em Kiddushin 20a, com Tosafot em nome do Yerushalmi, sobre o único travesseiro do servo hebreu (Devarim 15:16). Em seguida o rabino explica por que a prática começa pelo círculo mais próximo e por que o ensaio rejeita a ideia de favoritismo nacional, ao tratar da frase "Tu nos escolheste" e do ensinamento dos Sábios de que a Torá foi oferecida a todas as nações. Por fim o texto apresenta o propósito da Criação, revelar a Divindade às criaturas e dar-lhes prazer, e o rabino conclui que amar o próximo é o caminho para sentir o Criador. A aula termina com um comentário sobre o Zohar e a sabedoria das letras hebraicas.
+MOMENTOS: 01:48 Início do ensaio Matan Torá de Baal HaSulam · 03:50 Perguntas: como Shabat e tefilin se ligam ao amor ao próximo · 05:35 Hillel e o converso: o resto é comentário · 09:36 O que significa "como a ti mesmo"? A questão prática · 14:37 Exemplo de uma comunidade que se ajuda de verdade · 24:07 Diferença entre chesed e amor · 28:27 Kiddushin 20a: o único travesseiro do servo · 35:26 Por que começar pelo círculo mais próximo · 48:36 Por que a Torá foi dada só a Israel · 53:19 O propósito da Criação: revelar a Divindade e dar prazer · 57:36 O prazer do contato com o Criador · 1:04:27 Amar o próximo leva a sentir o Criador · 1:11:27 Zohar e a sabedoria das letras hebraicas
+FONTES CITADAS: 01:55 Vayikra 19:18 · 01:55 Sifra, Kedoshim 4:12 · 05:35 Shabat 31a · 05:54 Shabat 31a · 06:27 Shabat 31a · 12:04 Devarim 13:1 · 28:51 Tosafot em Kiddushin 20a, em nome do Yerushalmi · 28:59 Devarim 15:16 · 29:38 Kiddushin 20a · 30:01 Kiddushin 20a · 33:19 Devarim 10:18 · 35:26 Bava Metzia 71a · 47:12 Bereshit Rabá 38:6 · 49:25 Amidá das festas, Atá Vechartanu · 50:09 Avodá Zará 2b · 53:29 Bereshit Rabá 1:4 · 57:36 Yeshayahu 64:3 · 1:04:47 Pirkei Avot 2:16 · 1:05:47 Sifra, Kedoshim 4:12 · 1:11:27 Zohar, Hakdamat Sefer HaZohar, Otiyot de-Rav Hamnuna Saba
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|1:01:42|לא משנה כרגע למה ומה.
+829|1:01:44|אבל המונים מחשיבים אותו, והדעה החברתית הכוללת
+830|1:01:50|של חשיבות עצומה, ואז אם יש לי מגע עם החשוב הזה,
+831|1:01:56|זה נותן לי תענוג, גם אני חשוב.
+832|1:01:59|אז אם אני בקשר כזה עם הבורא, אז אני גם חשובה בעיני
+833|1:02:04|הבורא.
+834|1:02:05|בהחלט.
+835|1:02:07|כן, אני מתכוון שאת חשובה בעיני עצמך קודם כל, בעיני עצמך, זאת אומרת
+836|1:02:12|ששלמה ארצי, מכולם הוא מצא לנכון לבוא,
+837|1:02:18|לשבת על ידך ולקח את הטלפון שלך ולמחרת הוא מתקשר.
+838|1:02:24|כן.
+839|1:02:29|כתב עלייך שיר.
+
+LINHAS A TRADUZIR:
+840|1:02:31|כן.
+841|1:02:32|רוב עזרה לך.
+842|1:02:33|אז קודם כל את חשובה בעיני עצמך.
+843|1:02:38|אני לא יודע בכלל אם את צריכה הדהוד מאנשים אחרים.
+844|1:02:42|שכל השכנות ידעו מזה, לא יודע אם את צריכה את זה אפילו.
+845|1:02:46|רק זה בלבד, שזה קרה, זה כבר נותן לך תענוג גדול גם אם את לא הולכת לספר את
+846|1:02:52|זה לשכנות שלה.
+847|1:02:55|אז אני אומר שכשזוכים לקשר כזה עם
+848|1:03:01|הבורא, הכוח שמנהל פה את כל היקום, וזה למעשה המטרה,
+849|1:03:07|זה המטרה, זה מה שכתוב פה.
+850|1:03:14|אז יש לזה הרבה אלמנטים, נתתי את הדוגמה הזאת של אדם מפורסם,
+851|1:03:20|אבל יש פה גם כמו הורה וילד שלו או בת זוג
+852|1:03:26|שנפגשים ומעבר לזה יש פה גם דבר שהוא
+853|1:03:32|מאוד מיוחד שזה נקרא החוכמה האלוקית,
+854|1:03:39|זאת אומרת ככל שאתה יותר מבין אותו אז אתה רואה איך הדברים מתנהלים פה בחוכמה גדולה?
+855|1:03:45|ניקח לדוגמה בוטניקה.
+856|1:03:48|כן?
+857|1:03:49|אז האלוהים מנהל פה את כל המדע הזה.
+858|1:03:52|אז אתה רואה פה חוכמה גדולה.
+859|1:03:54|ואם אתה מבין סימטריה בין הבוטניקה לבין
+860|1:04:00|תהליכים נפשיים שלך, אז אתה אומר, וואו.
+861|1:04:04|אז זה נקרא חוכמה אלוקית.
+862|1:04:07|אז כל זה זה תענוג.
+863|1:04:09|כן, זה תענוג.
+864|1:04:10|יש פה הרבה מאוד סעיפים בתענוג הזה, אבל בשביל זה נבראנו.
+865|1:04:16|איך אפשר להרגיש את הקרבה הזאת לבורא?
+866|1:04:20|או, איך אפשר להגיע?
+867|1:04:23|זהו, כאילו, ואהבת לרעך כמוך?
+868|1:04:27|אז הנקודה היא שאם אנחנו הולכים לכיוון של ואהבת
+869|1:04:32|לרעך כמוך, אז אנחנו נרגיש אותו.
+870|1:04:38|כי נהיה כמוך?
+871|1:04:38|כי נהיה כמוך.
+872|1:04:39|כי זו השפעת הצורה בעצם.
+873|1:04:39|בדיוק.
+874|1:04:40|זה הנקודה.
+875|1:04:41|זאת אומרת, אם אנחנו נצליח לעשות קהילה כזאת, כמה שנצליח, כן, לא
+876|1:04:47|עליך המלאכה לגמור.
+877|1:04:49|אבל אין אתה בן חורין להיפטר ממנה.
+878|1:04:53|אז מכיוון שהבורא מוגדר כאנרגיה של אהבה טוטאלית, אז אם אנחנו רק
+879|1:04:59|אוהבים את עצמנו, אז לכן אין לנו קשר איתו.

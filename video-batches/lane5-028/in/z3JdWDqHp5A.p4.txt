@@ -1,0 +1,64 @@
+videoId: z3JdWDqHp5A
+parte 5 de 26 · traduzir as linhas 160 a 199 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Amor ao próximo e o propósito da Criação (Matan Torá)
+RESUMO: O rabino lê o ensaio "Matan Torá" de Baal HaSulam, que parte da frase de Rabi Akiva de que "ama o teu próximo como a ti mesmo" é a grande regra da Torá, e da resposta de Hillel ao converso em Shabat 31a. A primeira pergunta é como mandamentos como Shabat, tefilin e tekiat shofar, e também as narrativas, se ligam ao amor ao próximo. Depois vem a pergunta prática de como cumprir "como a ti mesmo", com exemplos de comunidades que se apoiam, e a Gemará em Kiddushin 20a, com Tosafot em nome do Yerushalmi, sobre o único travesseiro do servo hebreu (Devarim 15:16). Em seguida o rabino explica por que a prática começa pelo círculo mais próximo e por que o ensaio rejeita a ideia de favoritismo nacional, ao tratar da frase "Tu nos escolheste" e do ensinamento dos Sábios de que a Torá foi oferecida a todas as nações. Por fim o texto apresenta o propósito da Criação, revelar a Divindade às criaturas e dar-lhes prazer, e o rabino conclui que amar o próximo é o caminho para sentir o Criador. A aula termina com um comentário sobre o Zohar e a sabedoria das letras hebraicas.
+MOMENTOS: 01:48 Início do ensaio Matan Torá de Baal HaSulam · 03:50 Perguntas: como Shabat e tefilin se ligam ao amor ao próximo · 05:35 Hillel e o converso: o resto é comentário · 09:36 O que significa "como a ti mesmo"? A questão prática · 14:37 Exemplo de uma comunidade que se ajuda de verdade · 24:07 Diferença entre chesed e amor · 28:27 Kiddushin 20a: o único travesseiro do servo · 35:26 Por que começar pelo círculo mais próximo · 48:36 Por que a Torá foi dada só a Israel · 53:19 O propósito da Criação: revelar a Divindade e dar prazer · 57:36 O prazer do contato com o Criador · 1:04:27 Amar o próximo leva a sentir o Criador · 1:11:27 Zohar e a sabedoria das letras hebraicas
+FONTES CITADAS: 01:55 Vayikra 19:18 · 01:55 Sifra, Kedoshim 4:12 · 05:35 Shabat 31a · 05:54 Shabat 31a · 06:27 Shabat 31a · 12:04 Devarim 13:1 · 28:51 Tosafot em Kiddushin 20a, em nome do Yerushalmi · 28:59 Devarim 15:16 · 29:38 Kiddushin 20a · 30:01 Kiddushin 20a · 33:19 Devarim 10:18 · 35:26 Bava Metzia 71a · 47:12 Bereshit Rabá 38:6 · 49:25 Amidá das festas, Atá Vechartanu · 50:09 Avodá Zará 2b · 53:29 Bereshit Rabá 1:4 · 57:36 Yeshayahu 64:3 · 1:04:47 Pirkei Avot 2:16 · 1:05:47 Sifra, Kedoshim 4:12 · 1:11:27 Zohar, Hakdamat Sefer HaZohar, Otiyot de-Rav Hamnuna Saba
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+148|13:42|לא מצליחות לכבד אחת את השנייה.
+149|13:44|נכון, שאלה טובה.
+150|13:46|כן.
+151|13:46|זאת אומרת שהלימוד לחוד והפרקטיקה לחוד, וזה כאילו
+152|13:52|לימוד לא רק פילוסופיה.
+153|13:55|זה לא מתבטא באופן מעשי.
+154|13:56|אז אני לא חושבת שזה רק פילוסופיה, כל אחד עושה את העבודה, אבל היה רגע אמת כזה, שהוא היה
+155|14:02|פתאום...
+156|14:03|שזה לא מושלם.
+157|14:04|לא, זה לא מושלם.
+158|14:06|‫אם היינו שם, אם היינו שם, אם היינו שם.
+159|14:08|‫-נכון, אבל זה כאילו...
+
+LINHAS A TRADUZIR:
+160|14:09|‫אבל השאיפה...
+161|14:10|‫את מצפה שכשאנחנו עושים עבודה...
+162|14:12|‫באותו יום, כשאנחנו עושים עבודה רוחנית, ‫אז רגע תעצרי.
+163|14:16|‫על זה אנחנו מדברים, ‫אז רגע תעצרי.
+164|14:19|‫ולא הייתה כאן התלהמות.
+165|14:21|‫לא שכאילו היה, ‫אבל היה משהו לא מכבד.
+166|14:24|‫בדעה, כאילו, אני לא...
+167|14:27|‫מישהו לא מכבד את הדעה שלה.
+168|14:29|‫זה לא זר לנו.
+169|14:31|‫לגמרי.
+170|14:32|‫לא מיוחד.
+171|14:37|אז אני רק רוצה לספר, במקום שאני חונכתי,
+172|14:45|אז אם מישהו היה חולה, אז כולם היו מרגישים צורך
+173|14:51|לבוא לבקר אותו.
+174|14:53|אם מישהו זרק איזו מילה קטנה על קשיים כלכליים, אז מיד התארגנה
+175|14:59|מקבית.
+176|15:00|אם נודע שאשתו ילדה, אז מיד היו מתארגנים.
+177|15:07|זה כולל גם גברים, גם נשים, כן?
+178|15:10|לארגן לו ספונג'ות, כביסות, מה שצריך,
+179|15:16|צורכי שבת.
+180|15:18|איפה זה היה גמח
+181|15:25|בארץ?
+182|15:25|זה לא היה על הירח.
+183|15:28|זה לא היה על הירח.
+184|15:31|זה קרה בזמן שמורי ורבי זה צלחה, וזה היה בבני ברק.
+185|15:38|מישהו היה צריך רכב מיד היו נזרקים שישה סוגי מפתחות
+186|15:44|של שישה רכבים רק תבחר רק צריך לדעת לבקש
+187|15:51|בשביל שיעזרו לא אבל החברה הזאת החברה נוסדה על הדבר הזה החברה
+188|15:59|החברה הזאת אחרי שהוא נפטר אז היה פיצול לכל מיני קבוצות
+189|16:06|אבל זה לא אומר שבקבוצות זה לא מתקיים.
+190|16:12|אתה מחתן את הילד, אתה בעצמך מתחתן.
+191|16:18|כולם ארגנו את החתונה.
+192|16:21|בישלו, טק, טק, הכל.
+193|16:24|אתה מגיע למקום כמו נסיך.
+194|16:30|אתה עושה ברית, כל החבר'ה מבשלים והכל.
+195|16:36|אתה לא מוציא שקל, לא שבע ברכות, לא פדיון הבן, לא
+196|16:42|בר מצווה, לא שום דבר.
+197|16:45|כל שמחה שיש לאחד מהחבורה, כל החבורה דואגת לכל העסק.
+198|16:51|זה מה שהיה, אני אספר לכם מה שהיה.
+199|16:53|שזה אחוזים שבא לסולם.

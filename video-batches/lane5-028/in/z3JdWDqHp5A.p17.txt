@@ -1,0 +1,64 @@
+videoId: z3JdWDqHp5A
+parte 18 de 26 · traduzir as linhas 680 a 719 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Amor ao próximo e o propósito da Criação (Matan Torá)
+RESUMO: O rabino lê o ensaio "Matan Torá" de Baal HaSulam, que parte da frase de Rabi Akiva de que "ama o teu próximo como a ti mesmo" é a grande regra da Torá, e da resposta de Hillel ao converso em Shabat 31a. A primeira pergunta é como mandamentos como Shabat, tefilin e tekiat shofar, e também as narrativas, se ligam ao amor ao próximo. Depois vem a pergunta prática de como cumprir "como a ti mesmo", com exemplos de comunidades que se apoiam, e a Gemará em Kiddushin 20a, com Tosafot em nome do Yerushalmi, sobre o único travesseiro do servo hebreu (Devarim 15:16). Em seguida o rabino explica por que a prática começa pelo círculo mais próximo e por que o ensaio rejeita a ideia de favoritismo nacional, ao tratar da frase "Tu nos escolheste" e do ensinamento dos Sábios de que a Torá foi oferecida a todas as nações. Por fim o texto apresenta o propósito da Criação, revelar a Divindade às criaturas e dar-lhes prazer, e o rabino conclui que amar o próximo é o caminho para sentir o Criador. A aula termina com um comentário sobre o Zohar e a sabedoria das letras hebraicas.
+MOMENTOS: 01:48 Início do ensaio Matan Torá de Baal HaSulam · 03:50 Perguntas: como Shabat e tefilin se ligam ao amor ao próximo · 05:35 Hillel e o converso: o resto é comentário · 09:36 O que significa "como a ti mesmo"? A questão prática · 14:37 Exemplo de uma comunidade que se ajuda de verdade · 24:07 Diferença entre chesed e amor · 28:27 Kiddushin 20a: o único travesseiro do servo · 35:26 Por que começar pelo círculo mais próximo · 48:36 Por que a Torá foi dada só a Israel · 53:19 O propósito da Criação: revelar a Divindade e dar prazer · 57:36 O prazer do contato com o Criador · 1:04:27 Amar o próximo leva a sentir o Criador · 1:11:27 Zohar e a sabedoria das letras hebraicas
+FONTES CITADAS: 01:55 Vayikra 19:18 · 01:55 Sifra, Kedoshim 4:12 · 05:35 Shabat 31a · 05:54 Shabat 31a · 06:27 Shabat 31a · 12:04 Devarim 13:1 · 28:51 Tosafot em Kiddushin 20a, em nome do Yerushalmi · 28:59 Devarim 15:16 · 29:38 Kiddushin 20a · 30:01 Kiddushin 20a · 33:19 Devarim 10:18 · 35:26 Bava Metzia 71a · 47:12 Bereshit Rabá 38:6 · 49:25 Amidá das festas, Atá Vechartanu · 50:09 Avodá Zará 2b · 53:29 Bereshit Rabá 1:4 · 57:36 Yeshayahu 64:3 · 1:04:47 Pirkei Avot 2:16 · 1:05:47 Sifra, Kedoshim 4:12 · 1:11:27 Zohar, Hakdamat Sefer HaZohar, Otiyot de-Rav Hamnuna Saba
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+668|50:09|ובאמת כבר עמדו חז"ל בשאלה זו, שזוהי כוונתיו במה שאמרו ז"ל,
+669|50:15|שהחזירה הקדוש ברוך הוא על כל אומה ולשון, החזירה את התורה, כלומר, הוא הציע את
+670|50:21|התורה לכל אומה ולשון ולא קיבלוה.
+671|50:27|זה גמרא, אבל צריך להבין את זה, הוא שואל בהמשך, מה זה הוא הציע?
+672|50:33|מדברים פה על הכוח שמנהל את כל היקום אז מה הוא בא עם התורה ליערות
+673|50:38|האמזונס והציע את זה לאינדיאנים זה הם סיפורים אבל מה
+674|50:45|מה העניין פה?
+675|50:48|אולם מה שקשה לדבריהם הם אומרים שהוא הציע את התורה לכולם
+676|50:54|ועמים אחרים לא רצו ורק אנחנו אמרנו נעשה ונשמע אז הוא
+677|51:00|אומר קשה אם כן, למה נקראנו העם הנבחר?
+678|51:05|נכון, לא נבחר.
+679|51:07|בך בחר השם.
+
+LINHAS A TRADUZIR:
+680|51:09|מאחר שלא היה מי מאומה אחרת שירצה בה.
+681|51:14|אז מה זה נקרא העם הנבחר?
+682|51:16|לא היה מישהו אחר, רק אנחנו הסכמנו לקבל את זה.
+683|51:20|אז מה זה, איזה בחירה זאת?
+684|51:22|הבחירה היא של העם.
+685|51:23|של העם עצמו, לא?
+686|51:27|העם בחר.
+687|51:28|העם בחר.
+688|51:30|ומה כתוב?
+689|51:32|אתה בחרתנו מכל העמים, מה זה אתה בחרתנו?
+690|51:36|אף אחד לא רצה את הסחורה שלך, נשארנו רק אנחנו.
+691|51:42|זה מה ששואל פה.
+692|51:43|אף אחד לא רוצה את הסחורה הזאת, אז מה זה אתה בחרתנו?
+693|51:48|ועוד שהדברים מוקשים מעיקרם, הייתכן שהקדוש ברוך הוא בא עם תורתו בידו
+694|51:54|ונשא ונתן עממי ארצות הפראים ההם?
+695|51:58|אשר לא נשמע מעולם כזאת ואינו מקובל על הלב כלל.
+696|52:06|עכשיו לאט לאט הוא מתחיל לומר תשובות.
+697|52:10|עוד וו.
+698|52:19|את יכולה להביא לי את הבקבוק?
+699|52:20|לא.
+700|52:21|את הבקבוק?
+701|52:22|תודה.
+702|52:24|שתייה חמאס.
+703|52:30|תודה.
+704|52:32|אולם כשנבין היטב את מהות התורה והמצוות הנתונות לנו, תודה רבה, ואת
+705|52:38|הנרצה מקיומם, בשיעור שאורנו חז"ל,
+706|52:44|שהוא תכלית כל הבריאה הגדולה הארוכה לעינינו, אז נבין הכל.
+707|52:50|כי מושכל ראשון הוא שאין לך פועל בלי תכלית, ואין לך יוצא מהכלל הזה.
+708|52:57|זולת היירודים שבמין האנושי, הוא מתכוון למשוגעים או
+709|53:02|תינוקות שיכולים לפעול פעולות בלי שום תכלית.
+710|53:08|ואם כן, לא יוטל ספק כלל על הבורא יתברך שלרוממותו אין חקר
+711|53:13|שיפעל חס ושלום דבר קטן או גדול בלי תכלית.
+712|53:19|אז הוא שואל, מהי התכלית?
+713|53:22|מה התכלית שבשבילה נבראנו כולנו?
+714|53:26|לאיזה עניין?
+715|53:27|בשביל מה באנו?
+716|53:29|והוראונו חז"ל שלא נברא העולם אלא בשביל קיום התורה והמצוות.
+717|53:35|פירוש הדבר, מה זה קיום התורה והמצוות?
+718|53:40|זה צריך פירוש.
+719|53:42|למה אני צריך לקיים תורה ומצוות?
