@@ -437,15 +437,15 @@
   "iylQ0Mmh-Pk": 2,
   "LYNaYDhZpaA": 1,
   "ZNoWN2Tetr4": 1,
-  "8T6SzTRB1TQ": 2,
-  "9IxzGUTxrRM": 2,
-  "7YQNn9qJmVU": 2,
+  "8T6SzTRB1TQ": 3,
+  "9IxzGUTxrRM": 3,
+  "7YQNn9qJmVU": 3,
   "1LaZJvG2c2o": 2,
   "8f40_gJNcYU": 1,
   "Mf5tfVu4ZIY": 2,
   "mTP8eDVf6PY": 1,
-  "nxbR46_bJkg": 1,
-  "WT55N-jiim4": 1
+  "nxbR46_bJkg": 2,
+  "WT55N-jiim4": 2
  },
  "done": [
   "VB5DRs5EIyk",
@@ -459,9 +459,15 @@
   "ZNoWN2Tetr4",
   "8f40_gJNcYU",
   "BuiNVOBEbo8",
-  "fPwA6j5NlX0"
+  "fPwA6j5NlX0",
+  "1LaZJvG2c2o",
+  "4_p5h65V3lo",
+  "iylQ0Mmh-Pk"
  ],
  "skipped": [
-  "2fl5O3XeyUE"
+  "2fl5O3XeyUE",
+  "8T6SzTRB1TQ",
+  "9IxzGUTxrRM",
+  "7YQNn9qJmVU"
  ]
 }

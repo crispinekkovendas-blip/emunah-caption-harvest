@@ -1,0 +1,40 @@
+680	What number do we need to add?	Que número precisamos somar?
+681	I'm giving a relatively simple example, not a big number, but	Dou um exemplo relativamente simples, não é um número grande, mas
+682	it's not seven.	não é sete.
+683	What number do we add to Avraham, and the same number to Sarah, to get the ratio of whole	Que número somamos a Avraham, e o mesmo número a Sará, para obter a proporção de inteiro
+684	and half?	e meio?
+685	Nine, nice.	Nove, muito bem.
+686	How did you get to that?	Como você chegou a isso?
+687	Add nine to Sarah, you get 514.	Somando nove a Sará, dá 514.
+688	Add nine to Avraham, you get	Somando nove a Avraham, dá
+689	two hundred...	duzentos...
+690	How much?	Quanto?
+691	Fifty-seven.	Cinquenta e sete.
+692	Which is the half?	Que é a metade?
+693	Great.	Ótimo.
+694	Now let's make it a bit harder.	Agora vamos dificultar um pouco.
+695	Let's take the most important pair of numbers in the Torah, 248	Vamos pegar o par de números mais importante da Torá, 248
+696	and 365.	e 365.
+697	I have 248 and 365, the mitzvot, positive and negative.	Temos 248 e 365, as mitsvot, as positivas e as negativas.
+698	So here we already have to subtract.	Então aqui já temos que subtrair.
+699	Yes, yes.	Sim, sim.
+700	A number to subtract, from both of them?	Um número para subtrair, de ambos?
+701	Yes, yes, yes.	Sim, sim, sim.
+702	It's the same number, a minus number, instead of a plus number it's a minus number.	É o mesmo número, um número negativo; em vez de um número positivo, é um número negativo.
+703	I need one number that I subtract from both and get the ratio of whole and half.	Preciso de um número que eu subtraia de ambos e obtenha a proporção de inteiro e meio.
+704	It's something simple, really simple.	É algo simples, muito simples.
+705	You need to take the difference, that's what I showed earlier.	É preciso pegar a diferença, foi o que mostrei antes.
+706	The difference between...	A diferença entre...
+707	There are two numbers.	Há dois números.
+708	No.	Não.
+709	You take the	Você pega o
+710	number, you multiplied it by	número, multiplicou-o pela
+711	the difference between them, that's actually what's needed between...	diferença entre eles, é isso que se precisa, na verdade, entre...
+712	Okay, you're getting close.	Certo, você está chegando perto.
+713	It's something pretty simple.	É algo bem simples.
+714	But anyway it's a unit, I don't want to say the...	Mas de qualquer forma é uma unidade, não quero dizer o...
+715	Anyone can...	Qualquer um pode...
+716	We'll get to it.	Vamos chegar lá.
+717	Okay, in order	Certo, para
+718	shorten, the number here for 248 and 365 must be subtracted from each one:	resumir, o número aqui para 248 e 365 deve ser subtraído de cada um:
+719	131.	131.

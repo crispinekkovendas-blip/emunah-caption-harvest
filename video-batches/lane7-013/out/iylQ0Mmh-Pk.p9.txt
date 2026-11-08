@@ -1,0 +1,120 @@
+1080	Listen, you have such qualities.	Escute, vocês têm essas qualidades.
+1081	Priests no, Israelites no, regarding the meat of the bechor.	Cohanim não, israelitas não, quanto à carne do bechor.
+1082	Priests no, Israelites no.	Cohanim não, israelitas não.
+1083	Can Israelites eat meat from them?	Os israelitas podem comer carne deles?
+1084	Only the chazeh and shok, no.	Só o peito e a coxa, não.
+1085	No, they receive gifts.	Não, eles recebem presentes.
+1086	That is the part of the animal they receive.	Essa é a parte do animal que eles recebem.
+1087	If he invites you to a meal at his house, with meat, why not?	Se ele te convida para uma refeição na casa dele, com carne, por que não?
+1088	Please.	Por favor.
+1089	Of course.	Claro.
+1090	What does that have to do with it?	O que isso tem a ver?
+1091	That's it, he receives gifts.	É isso, ele recebe presentes.
+1092	He receives gifts.	Ele recebe presentes.
+1093	So what will Beit Hillel do with the verse?	Então o que Beit Hillel fará com o versículo?
+1094	Those are the priestly gifts.	Esses são os presentes sacerdotais.
+1095	Listen, wait, what do you have?	Escute, espere, o que você tem?
+1096	And Beit Hillel answer: the unblemished one, what?	E Beit Hillel respondem: o sem defeito, o quê?
+1097	The Torah's eating of the bechor, like the eating of the chazeh and shok, is only for an unblemished one,	A Torá, ao tratar do consumo do bechor, como do peito e da coxa, fala só do sem defeito,
+1098	but for a blemished one it is written: "Every firstborn that is born in your herd and in your flock,"	mas quanto ao com defeito está escrito: "Todo primogênito que nascer no teu gado e no teu rebanho,"
+1099	"in your gates you shall eat it, the impure and the pure together shall eat it."	"nas tuas portas o comerás; o impuro e o puro o comerão juntos."
+1100	Now, an impure person, who may not eat lesser holy offerings, may eat the bechor.	Ora, o impuro, que não pode comer das oferendas menos sagradas, come do bechor.
+1101	A non-priest, who may eat lesser holy offerings,	O não-cohen, que pode comer das oferendas menos sagradas,
+1102	shouldn't he have the law that he eats from the bechor?	não deveria ter a lei de comer do bechor?
+1103	The bechor itself, what is the meaning?	O próprio bechor, qual é o sentido?
+1104	Wow, wow.	Uau, uau.
+1105	Where is the cover?	Onde está a tampa?
+1106	Hello?	Alô?
+1107	Where is the cover?	Onde está a tampa?
+1108	Sorry, no.	Desculpe, não.
+1109	Cover of what?	Tampa de quê?
+1110	Ah, it's not him today.	Ah, hoje não é ele.
+1111	You didn't have a cover?	Você não tinha uma tampa?
+1112	That's it.	É isso.
+1113	Yes.	Sim.
+1114	Yes.	Sim.
+1115	Wow.	Uau.
+1116	A bit of a toothache.	Um pouco de dor de dente.
+1117	Yes.	Sim.
+1118	What was it?	O que era?
+1119	One can get teeth.	Dá para conseguir dentes.
+1120	Something, no.	Algo, não.
+1121	I'll get, uh...	Eu vou pegar, é...
+1122	all kinds of things.	todo tipo de coisa.
+1123	HaShem will help.	HaShem vai ajudar.
+1124	I already see a few things with him.	Já estou vendo algumas coisas nele.
+1125	Okay, we'll see.	Tudo bem, vamos ver.
+1126	It's just paying attention.	É só prestar atenção.
+1127	Put it back, maybe it will disappear.	Devolva isso, talvez desapareça.
+1128	Yes.	Sim.
+1129	Please.	Por favor.
+1130	One can refute: what of the impure person, who was exempted from his general rule in public service?	Pode-se refutar: e o impuro, que foi excetuado da sua regra geral no serviço público?
+1131	Beit Shammai, who disagree on this, don't permit the blemished bechor to non-priests, right?	Beit Shammai, que discordam disso, não permitem o bechor com defeito aos não-cohanim, certo?
+1132	One can refute.	Pode-se refutar.
+1133	The refutation is all about the impure priest.	A refutação é toda sobre o cohen impuro.
+1134	What of the impure, since an impure priest may eat a blemished bechor, because he was exempted from his general rule in public	E o impuro? Um cohen impuro pode comer o bechor com defeito porque foi excetuado da sua regra geral no serviço
+1135	service?	público?
+1136	He can serve in the Temple, yes, yes.	Ele pode servir no Templo, sim, sim.
+1137	Because we find that impurity is set aside in the Temple service.	Pois encontramos que a impureza é afastada no serviço do Templo.
+1138	So it is also set aside regarding eating the bechor.	Então também é afastada quanto a comer o bechor.
+1139	And Beit Hillel say: in service we say so,	E Beit Hillel dizem: no serviço, dizemos assim,
+1140	in eating we also say so.	e no comer também dizemos.
+1141	A kal vachomer regarding eating.	Um kal vachomer quanto ao comer.
+1142	Regarding eating, the eating of a non-priest is preferable.	Quanto ao comer, o comer do não-cohen é preferível.
+1143	Ah, eating: more so the eating of a non-priest, who is not impure.	Ah, comer: ainda mais o comer do não-cohen, que não é impuro.
+1144	One could say: the eating of a non-priest is preferable to that of an impure priest.	Pode-se dizer: o comer do não-cohen é preferível ao do cohen impuro.
+1145	Since lesser holy offerings are permitted to a non-priest and forbidden to an impure priest.	Pois as oferendas menos sagradas são permitidas ao não-cohen e proibidas ao cohen impuro.
+1146	Where the eating of an impure priest is permitted, all the more so the eating of a non-priest.	Onde o comer do cohen impuro é permitido, quanto mais o comer do não-cohen.
+1147	Okay.	Certo.
+1148	That's nice.	Que bonito.
+1149	Rabbi Akiva permits.	Rabi Akiva permite.
+1150	With Rabbi Akiva it doesn't fit.	Com Rabi Akiva isso não se encaixa.
+1151	Yes, even to idolaters.	Sim, até a idólatras.
+1152	What was it?	Qual era?
+1153	What was Rabbi Akiva's reasoning?	Qual era o raciocínio de Rabi Akiva?
+1154	He says: "the impure and the pure shall eat it, like the gazelle and the deer."	Ele diz: "o impuro e o puro o comerão, como a gazela e o cervo."
+1155	Just as the gazelle and the deer are permitted to idolaters,	Assim como a gazela e o cervo são permitidos a idólatras,
+1156	so too a bechor is permitted, a bechor	assim também o bechor é permitido, o bechor
+1157	disqualified, that is.	desqualificado, ou seja.
+1158	With a blemish, it is permitted to idolaters.	Com defeito, é permitido a idólatras.
+1159	And the other side: "gazelle and deer" is written twice.	E a outra parte: "gazela e cervo" está escrito duas vezes.
+1160	One, one for Rabbi Yitzchak and Rabbi Yoshiyah.	Um, um para Rabi Yitschak e Rabi Yoshiyá.
+1161	What was it, what about Rabbi Yitzchak and Rabbi Yeshayah?	Qual era, o que dizem Rabi Yitschak e Rabi Yeshayá?
+1162	And one according to Rabbi Elazar HaKappar, to teach slaughter for non-sacred meat.	E um segundo Rabi Elazar HaKapar, para ensinar o abate para carne comum.
+1163	No, not for our slaughter, one.	Não, não para o nosso abate, um.
+1164	Ah.	Ah.
+1165	And the other: the gazelle and the deer are exempt from the bechor law.	E o outro: a gazela e o cervo são isentos da lei do bechor.
+1166	It applies only to domestic animals and not to wild animals.	Aplica-se só a animais domésticos e não a animais selvagens.
+1167	Disqualified consecrated animals are exempt from the bechor law,	Os animais consagrados desqualificados são isentos da lei do bechor,
+1168	since their firstborn has no bechor sanctity.	pois o primogênito deles não tem santidade de bechor.
+1169	So there was no need for the gazelle and the deer to permit a blemished bechor to a gentile.	Então não havia necessidade de a gazela e o cervo permitirem o bechor com defeito a um gentio.
+1170	So what will Rabbi Akiva answer to this now?	Então o que Rabi Akiva responderá a isso agora?
+1171	Good, so far so good.	Bom, até aqui tudo bem.
+1172	Baruch HaShem.	Graças a HaShem.
+1173	The laws of...	As leis de...
+1174	A lamp, siman 279.	Lamparina, siman 279.
+1175	Siman 279, halachah... wow. A lamp that was not lit	Siman 279, halachá... uau. Uma lamparina que não foi acesa
+1176	on that same Shabbat, even if it is made of clay, which is repulsive,	naquele mesmo Shabat, mesmo que seja de barro, o que causa repulsa,
+1177	and even if it is of kerosene, which stinks, may be moved, since muktzeh due to repulsiveness	e mesmo que seja de querosene, que fede, pode ser movida, pois muktzeh por repulsa
+1178	is permitted. There was no bein hashmashot at which it was set aside.	é permitido. Não houve no bein hashmashot um momento em que foi separada.
+1179	It was not set aside.	Não foi separada.
+1180	So it is permitted to move it.	Então é permitido movê-la.
+1181	Yes, it's repulsive.	Sim, é repulsiva.
+1182	It also depends on the level of its repulsiveness, whether it is a repulsion	Depende também do grau da repulsa, se é uma repulsa
+1183	where one can still take it or use it for something, to protect a vessel with it, then it is permitted to move it.	em que ainda se pode pegá-la ou usá-la para algo, para proteger um utensílio com ela, então é permitido movê-la.
+1184	But if it is a repulsion where one cannot protect a vessel with it, the Kaf HaChaim says that one cannot.	Mas se é uma repulsa em que não se pode proteger um utensílio com ela, o Kaf HaChaim diz que não se pode.
+1185	A menorah, whether large or small, he says, if it is made of segments,	Uma menorá, grande ou pequena, ele diz, se for feita de partes,
+1186	it may not be moved.	não pode ser movida.
+1187	We worry that it may come apart and he would be found making a vessel.	Temos receio de que se desmonte e ele acabe fazendo um utensílio.
+1188	And even if it is not of segments, if it has grooves around it that resemble segments,	E mesmo que não seja de partes, se tiver sulcos ao redor semelhantes a partes,
+1189	he makes twists.	ele faz curvas.
+1190	Such a one may not be moved.	Uma assim não pode ser movida.
+1191	That is, the Rema would say that it is permitted.	Ou seja, o Rema diria que é permitido.
+1192	Today all the candlesticks	Hoje todos os castiçais
+1193	are...	são...
+1194	Thank you very much.	Muito obrigado.
+1195	Siman 281, why, uh?	Siman 281, por quê, é?
+1196	Okay.	Certo.
+1197	Does one recite Kriat Shemá on Friday night on	Recita-se a Kriat Shemá na noite de Shabat sobre
+1198	the bed?	a cama?
+1199	Why?	Por quê?
