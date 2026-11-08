@@ -1,0 +1,40 @@
+600	Is it so?	É assim?
+601	The "mishmeret" that is said after it.	A "mishmeret" que foi dita depois dela.
+602	Otherwise… I don't know.	Senão… não sei.
+603	Come, let's see.	Vamos ver.
+604	The doubtful one, a doubtful one.	A duvidosa, uma duvidosa.
+605	It isn't written like that.	Não está escrito assim.
+606	"And I have given you the guard of My terumot": from here Rabbi	"E Eu te dei a guarda das Minhas terumot": daqui aprendeu Rabi
+607	Eliezer that even terumah of doubtful impurity needs guarding so it won't become impure	Eliezer que até a terumá de impureza duvidosa precisa de guarda, para não se tornar impura
+608	for certain; therefore one must store it where it won't become impure. Rabbi	com certeza; por isso é preciso guardá-la onde não se contamine. Rabi
+609	Yehoshua says no. Okay?	Yehoshua diz que não. Certo?
+610	Wait: Rabbi Yehoshua says "terumati," not "terumotai."	Espere: Rabi Yehoshua diz "terumati", não "terumotai".
+611	It is written in the Torah "terumati"; it isn't written in the plural.	Está escrito na Torá "terumati"; não está escrito no plural.
+612	And even though we read "terumotai" everywhere, what is written is "terumati."	E embora leiamos "terumotai", em todo lugar, o que está escrito é "terumati".
+613	And so it isn't expounded as it is read,	E por isso não se expõe como se lê,
+614	it isn't expounded as we say it, but as it is written.	não se expõe como a dizemos, mas como está escrita.
+615	It's written "terumati," so only pure terumah,	Está escrito "terumati", então só a terumá pura,
+616	but not doubtful terumah. That is how Rabbi Yehoshua sees it; but Rabbi Eliezer...	mas não a terumá duvidosa. Assim vê Rabi Yehoshua; já Rabi Eliezer...
+617	Understood so far, right?	Até aqui está entendido, certo?
+618	Rabbi Eliezer holds that the reading is the foundation.	Rabi Eliezer sustenta que a leitura é o fundamento.
+619	Why?	Por quê?
+620	He says: expound the verses by how they are read, not by how they are written.	Ele diz: expõem-se os versículos conforme a leitura, não conforme a escrita.
+621	Rabbi Yehoshua says, by how they are written.	Rabi Yehoshua diz: conforme a escrita.
+622	He says, by how they are read.	Ele diz: conforme a leitura.
+623	The reading is the main thing.	A leitura é o principal.
+624	"Terumotai."	"Terumotai."
+625	And from where? It is written in the Torah regarding the Hebrew maidservant:	E de onde? Está escrito na Torá sobre a serva hebreia:
+626	"To a foreign people he shall have no power to sell her, since he dealt treacherously with her."	"A um povo estrangeiro não terá poder para vendê-la, pois a traiu."
+627	From the root of "beged": as read, it is the language of treachery, as	Da raiz "beged": como se lê, é linguagem de traição, como
+628	it is written, "and she caught him by his garment," the language of garment.	está escrito, "e ela o agarrou pela sua roupa", linguagem de roupa.
+629	"To a foreign people he shall have no power to sell her, in his dealing with her": since he spread his cloak	"A um povo estrangeiro não terá poder para vendê-la, ao tratá-la assim": pois estendeu o seu manto
+630	over her. What does "bigdo" mean?	sobre ela. O que significa "bigdo"?
+631	He spread his cloak over her, that is, he married her; even if he divorced her afterward and she returned to her father,	Estendeu o manto sobre ela, isto é, casou-se com ela; mesmo que depois a tenha divorciado e ela volte ao pai,
+632	he may no longer sell her as a maidservant.	ele já não pode vendê-la como serva.
+633	Why?	Por quê?
+634	An act of marriage was already done by the master to whom she had been married, and he still	Já se fez um ato de matrimônio pelo senhor com quem ela foi casada, e ele ainda
+635	if her father had not sold her at first as a maidservant, but she married some other man	se o pai não a vendeu como serva no início, mas ela se casou com outro homem
+636	and her husband divorced her, her father cannot sell her as a maidservant; an act of marriage was already done.	e o marido a divorciou, o pai não pode vendê-la como serva; já se fez um ato de matrimônio.
+637	These are the words of Rabbi Akiva. This was said about a maidservant, yes?	Estas são as palavras de Rabi Akiva. Isso foi dito a respeito da serva, certo?
+638	Yes?	Certo?
+639	He said: isn't this called a maidservant?	Ele disse: isso não se chama serva?

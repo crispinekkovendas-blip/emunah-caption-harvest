@@ -1,0 +1,40 @@
+400	Zion bar Yosef ben Chanina, Shaul ben Fibi, Roaz Baruch ben	Zion bar Yosef ben Chanina, Shaul ben Fibi, Roaz Baruch ben
+401	Chaya, Chalil ben Chava,	Chaya, Chalil ben Chava,
+402	Yaffa bat Simcha, Caroline bat Susan	Yaffa bat Simcha, Caroline bat Susan
+403	Israel ben Geula, and Yosef ben Mori Meir, and Yosef	Israel ben Geula, e Yosef ben Mori Meir, e Yosef
+404	ben	ben
+405	Mori Meir, Israel ben Chava, Aharon ben Rivka	Mori Meir, Israel ben Chava, Aharon ben Rivka
+406	ben Zion ben Sarah	ben Zion ben Sarah
+407	Danny?	Danny?
+408	ben Arima.	ben Arima.
+409	Avidya ben Hasson.	Avidya ben Hasson.
+410	Avraham ben Moshe.	Avraham ben Moshe.
+411	Avraham ben Moshe.	Avraham ben Moshe.
+412	Perachya bat Tzelima.	Perachya bat Tzelima.
+413	Dorit bat Batya.	Dorit bat Batya.
+414	Mishnah 2, Ohalot chapter 12, Mishnah 2	Mishná 2, Ohalot capítulo 12, Mishná 2
+415	Thank you very much.	Muito obrigado.
+416	Who is throwing little candies?	Quem está jogando docinhos?
+417	Tell me what to do, you bring it as is, like a person.	Diga-me o que fazer, você traz como está, como uma pessoa.
+418	Doesn't this have kashrut?	Isto não tem kashrut?
+419	No.	Não.
+420	This has kashrut too.	Isto também tem kashrut.
+421	Whose is this?	De quem é isto?
+422	Is this kosher?	Isto é kasher?
+423	Huh?	Hã?
+424	Just this one, put this.	Só este, coloque este.
+425	Take, take a sample.	Pegue, pegue uma amostra.
+426	Show him one like this, tell him to bring one like this.	Mostre a ele um assim, diga para trazer um assim.
+427	Take, give her this, give her.	Pegue, dê isto a ela, dê.
+428	Thank you very much.	Muito obrigado.
+429	No, listen, wait, we took one package.	Não, escute, espere, pegamos um pacote.
+430	It had a hechsher.	Tinha hechsher.
+431	Here, Mishnayot.	Aqui, Mishnayot.
+432	This one, this one brought it.	Este, este trouxe.
+433	A sereida that is placed over the mouth of the oven, with a tight-fitting seal. A sereida is	Uma sereida que é colocada sobre a boca do forno, com vedação firme. A sereida é
+434	a clay grate, like a net, that does not receive impurity. If it is placed over the oven, of clay,	uma grade de barro, como uma rede, que não recebe impureza. Se é colocada sobre o forno, de barro,
+435	and seals it, with a tight-fitting seal, impurity	e o fecha, com vedação firme, impureza
+436	beneath it or on top of it. And some read: impurity beneath it or on its back,	embaixo dela ou em cima dela. E alguns leem: impureza embaixo dela ou nas suas costas,
+437	all is impure, also what is under the protrusion, opposite the air of the oven.	tudo é impuro, também o que está sob a saliência, em frente ao ar do forno.
+438	But what is found opposite the sereida, the air of the oven, is pure.	Mas o que está em frente à sereida, o ar do forno, é puro.
+439	Why?	Por quê?
