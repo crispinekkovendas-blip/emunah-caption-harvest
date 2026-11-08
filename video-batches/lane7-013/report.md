@@ -1,7 +1,7 @@
 # lane7-013
 
 16 of 23 lessons published · 6 skipped · status **pending**
-Tokens (780 agent runs with a record): 5.3M in (mostly cache) · 4.56M out · API-equivalent 62.98
+Tokens (781 agent runs with a record): 5.3M in (mostly cache) · 4.56M out · API-equivalent 63.03
 
 | lesson | state | detail |
 |---|---|---|
@@ -16,7 +16,7 @@ Tokens (780 agent runs with a record): 5.3M in (mostly cache) · 4.56M out · AP
 | VFCOXknNp-Q | ✓ published | 192 lines · Rina de Oraita, o fio de chesed e a ciência do pecado |
 | 4_p5h65V3lo | ✓ published | 718 lines · Bar Mitzvá: gadol, HaVaYaH e o Hodu de Yehoshafat |
 | Mf5tfVu4ZIY | skipped | |
-| mTP8eDVf6PY | waiting | 38/39 parts |
+| mTP8eDVf6PY | ✗ will be redone (try 2) | 3 lines missing |
 | iylQ0Mmh-Pk | ✓ published | 1465 lines · Bechorot 32: não desistir, Ishmael e a venda do maaser |
 | vAQwb3nXvpI | ✓ published | 1418 lines · Lech Lecha: a missão pessoal que só você pode cumprir |
 | LYNaYDhZpaA | ✓ published | 599 lines · A guerra dos quatro reis e a condução de HaShem |
