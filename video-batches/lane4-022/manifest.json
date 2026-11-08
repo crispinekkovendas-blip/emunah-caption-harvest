@@ -346,21 +346,21 @@
   "mtnartOV7sk.p1"
  ],
  "tries": {
-  "eEo0TNNcxQk": 2,
-  "gqACq7Fud2k": 2,
+  "eEo0TNNcxQk": 3,
+  "gqACq7Fud2k": 3,
   "6kDSYXAZoPI": 2,
-  "xTBTdWMsF10": 2,
+  "xTBTdWMsF10": 3,
   "dlndlWvYbIk": 1,
-  "wH-bUSFqLBw": 2,
-  "XUEx179FVbI": 2,
+  "wH-bUSFqLBw": 3,
+  "XUEx179FVbI": 3,
   "qzrE66X8iXM": 1,
   "t0oChQAcqeo": 2,
   "u5waedy_vrs": 1,
   "twiqX1L7k3Y": 2,
   "pPmw8B3ErH8": 1,
   "GeF5h2LhasM": 2,
-  "CUODPP-BazY": 1,
-  "jfjsUaNztw8": 1
+  "CUODPP-BazY": 2,
+  "jfjsUaNztw8": 2
  },
  "done": [
   "p_jA-ptSkNs",
@@ -373,7 +373,14 @@
   "TOTZGn9IoTs",
   "BdI5ksrVCC0",
   "mtnartOV7sk",
-  "dlndlWvYbIk"
+  "dlndlWvYbIk",
+  "6kDSYXAZoPI"
  ],
- "skipped": []
+ "skipped": [
+  "eEo0TNNcxQk",
+  "gqACq7Fud2k",
+  "xTBTdWMsF10",
+  "wH-bUSFqLBw",
+  "XUEx179FVbI"
+ ]
 }
