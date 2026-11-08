@@ -1,7 +1,0 @@
-3000	The trait of cunning.	A característica da astúcia.
-3001	After all, what do we call thunder?	Afinal, como chamamos o trovão?
-3002	It comes from the clouds. And what are the clouds?	Vem das nuvens. E o que são as nuvens?
-3003	A person's external intellect, which hides faith from him, hides the Infinite.	O intelecto externo do homem, que esconde dele a fé, que esconde o Infinito.
-3004	By the way, did you notice there's a lot of original content here?	Aliás, vocês notaram que há aqui muito conteúdo original?
-3005	So if you enjoy the content, I remind you to share, like, and comment.	Então, se vocês gostam do conteúdo, lembro de compartilhar, curtir e comentar.
-3006	You can also give credit for the content, and spread it.	Também podem dar o crédito pelo conteúdo, e divulgá-lo.
