@@ -1,0 +1,64 @@
+videoId: j7Pw6c96cSY
+parte 6 de 15 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O riso de Sara: o sentido interno da Parashá Vayera
+RESUMO: A aula lê a visita dos anjos a Avraham e o anúncio do nascimento de um filho (Bereshit 18:9-15) primeiro no sentido simples e depois no sentido interno. Pelo sentido interno, Avraham e Sara são a alma e o corpo de cada um, o filho é um novo estado espiritual, e a tenda é o ocultamento e a modéstia, pois a sabedoria divina repousa nos modestos (Mishlei 11:2). O rabino explica "zaken" como "quem adquiriu sabedoria" e "bayamim" como sefirot (Zohar), e o riso de Sara, entre "eden" e "ednah", expressa o espanto diante da redenção nacional que parece impossível. O Zohar liga o nome Yitzchak à alegria futura da paz, e o riso indica alívio e redenção. Por fim, "Haifale miHaShem davar" mostra que HaShem pode dar filhos tanto a quem se sente estéril quanto a quem já é pleno, e a fé se renova a cada dia (Eichá 3:23).
+MOMENTOS: 00:16 Os anjos anunciam o nascimento a Avraham · 02:32 O riso de Sara e a negação, no sentido simples · 06:02 A Torá como guia de trabalho interior · 07:16 O filho como novo estado espiritual · 10:47 O nome HaVaYaH duplo e o valor 52 (ben) · 13:27 A tenda como ocultamento e modéstia · 14:30 A sabedoria repousa nos modestos · 21:53 Zaken, bayamim e o ciclo da lua · 26:32 Eden e ednah: o riso de Sara · 30:01 Como floresce a paz em meio ao ódio? · 34:16 Yitzchak, o Zohar e o riso da paz futura · 40:19 O "zeh" de "lamah zeh" e a pergunta da plenitude · 45:19 Haifale miHaShem davar: dois tipos de milagre · 52:05 Chadashim labekarim: renovar a fé a cada dia
+FONTES CITADAS: 00:35 Bereshit 18:9 · 00:56 Bereshit 18:10 · 02:07 Bereshit 18:11 · 02:32 Bereshit 18:12 · 03:24 Bereshit 18:13 · 04:02 Bereshit 18:14 · 04:18 Bereshit 18:15 · 05:19 Bereshit 21:3 · 14:14 Mishlei 11:2 · 13:36 Mishná, raiz "ohel/ma'ahil · 18:17 Bava Metzia 85b / dito dos Sábios sobre o barril · 21:04 Devarim 8:17 · 21:53 Zohar, conceito de mayin duchin e mayin nukvin · 23:17 Sábios: zaken é "zeh kanah chochmah · 23:32 Zohar sobre "bayamim · 33:12 Yeshayahu 11:6 · 33:18 Bereshit 21:6 · 34:22 Zohar sobre Yitzchak · 34:57 Vayikrá 19:18 · 41:56 Yeshayahu 54:1 · 49:14 Iyov 1:21 · 52:05 Eichá 3:23
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|15:02|יש גם צניעות פנימית ש...
+189|15:07|הגדלות של האדם היא מתחבאת ממנו
+190|15:12|בעצמו זאת אומרת אם תשאל אותו האם אתה גדול הוא
+191|15:18|לא יודע הוא אף פעם בחיים לא חשב על עצמו במושגים של גדול
+192|15:25|אז יש הרבה פעמים אצל אנשים שהם עובדים על עצמם
+193|15:30|עבודה עצמית אז הם צנועים
+194|15:37|כי הם אף פעם לא חשבו על עצמם שיש בהם איזה משהו מיוחד.
+195|15:44|באמת, כל אדם הוא מאוד מיוחד, אבל זה מתחבא מהם בעצמם.
+196|15:50|כלומר, יש צניעות חיצונית ויש צניעות פנימית.
+197|15:54|צניעות חיצונית זה אדם שעושה מעשים טובים, והוא לא
+198|16:00|רוצה שזה ידווח בעיתונות, והוא לא רוצה שאף אחד ידע מזה.
+199|16:06|הוא עושה מעשים טובים מפני שהוא חושב שזה אמת וכך צריך
+
+LINHAS A TRADUZIR:
+200|16:12|להתנהג והחשיבות של המעשים לא
+201|16:18|נמדדת דווקא ברייטינג החיצוני אלא באמת של הדברים
+202|16:25|שאם אני עושה חסד עם מישהו אם אני דואג למישהו יש לזה ערך נצחי
+203|16:31|בפני עצמו גם אם אף אחד לא ידע מזה ‫אז זה נקרא צניעות חיצונית.
+204|16:38|‫ויש צניעות פנימית, כמו שאמרתי, ‫שהאדם הזה, שהוא
+205|16:44|אדם מאוד מאוד גדול, ‫הוא אף פעם לא ראה בתוך עצמו ‫איזה משהו
+206|16:50|מיוחד, שום דבר.
+207|16:57|‫אז הפסוק אומר, ‫ועט צנועים חוכמה.
+208|17:00|‫החוכמה האלוקית מתיישבת דווקא
+209|17:07|אצל צנועים כי החוכמה האלוקית
+210|17:14|משמעותה לנהל חברה, משפחה,
+211|17:20|מדינה ואנושות בדרך של רצון להשפיע,
+212|17:27|בדרך של אהבת אלוקים ואדם לא בדרך של קבלה אלא
+213|17:33|בדרך של נתינה זאת החוכמה האלוקית.
+214|17:40|אז לכן החוכמה האלוקית לא מתיישבת אצל בעלי גאווה,
+215|17:47|אצל סנובים, אצל כל מיני יצורים
+216|17:53|שהם מונעים על ידי תאוות
+217|17:58|ויצרים, אלא דווקא על ידי אנשים
+218|18:05|שקטים זה שהוא שקט זה לא אומר שהוא חכם זה לא אומר שהוא לא
+219|18:11|חכם זה לא אומר שהוא לא פיקח חז"ל אומרים כזה
+220|18:17|דבר חבית
+221|18:22|שמתגלגלת במורד הרחוב אם היא מלאה
+222|18:28|היא לא משמיעה הרבה קולות אבל אם היא ריקה היא עושה קולות
+223|18:35|הרבה מאוד רעש, וזה משל האדם.
+224|18:40|אדם מלא לא עושה הרבה רעש.
+225|18:45|הנפלאות של המלאות שלו היא לא
+226|18:51|זקוקה לתמיכה ציבורית.
+227|18:56|הוא מואר, הוא מלא, הוא אמת, הוא לא זקוק לשום תמיכה
+228|19:02|ציבורית.
+229|19:04|‫הוא גדול בזכות עצמו.
+230|19:06|‫אז לכן החוכמה האלוקית מתיישבת ‫דווקא
+231|19:11|במקום אמיתי של צנועים.
+232|19:14|‫זה
+233|19:21|הקשר.
+234|19:23|‫ויאמרו אליו, ‫איה שרה אשתך, ‫ויאמר הנה באוהל.
+235|19:31|‫באוהל הכוונה בצניעות.
+236|19:35|בהסתרה.
+237|19:37|היי בהסתרה ויאמר שוב אשוב אליך
+238|19:43|כעת חיה והנה בן לשרה אשתך.
+239|19:53|מי מקבל את הבן הזה?

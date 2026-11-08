@@ -1,0 +1,144 @@
+videoId: MC_am5nW374
+parte 3 de 6 · traduzir as linhas 240 a 359 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Recepção ao casal Menachem-Mendel e Avigail-Chana
+RESUMO: O rabino recebe o noivo Menachem-Mendel e a noiva Avigail-Chana e explica que o casamento é um recomeço limpo, em que os Sábios dizem que o noivo é perdoado de seus pecados. Ele liga o dia ao versículo "Gadol HaShem u'mehulal me'od be'ir Elokeinu" (Tehilim 48:2), cita o Zohar e diz que "gadol" tem valor 43. Para ele o casamento exige passar da katnut mochin para a gadlut mochin, assumindo a responsabilidade de um rei. Explica o nome Avigail e mostra que Chana e Avigail estão entre as sete profetisas (Gemará, Megilá 14a), ligadas às sete middot, e que Chana e Avigail correspondem a netzach e hod, de onde vem a profecia. Interpreta Menachem-Mendel como Tzemach Tzedek, ou seja, yesod e malchut, e fala da quarta geração de Chabad voltando a Israel para trazer Mashiach. Lê o versículo "Bano baniti beit zevul lach" (Melachim I 8:13), com o paralelo de Divrei HaYamim, e relaciona zevul e machon a tiferet e chesed. Termina com os dois "tets" de nove sefirot cada, o casamento como multiplicação e não soma, o zivug panim be panim e "ad shetechpatz".
+MOMENTOS: 20:45 Casamento como recomeço limpo e perdão dos pecados · 22:11 Gadol HaShem u'mehulal me'od: o noivo e o Zohar · 24:30 O dia 43, "gadol", e a passagem de katnut para gadlut mochin · 44:41 Prazo de 6 de Cheshvan e o pedido de chuvas no dia 7 · 53:49 O nome Avigail e a alegria do pai · 54:59 As sete profetisas e suas middot · 57:37 Chana e Avigail como netzach e hod: a fonte da profecia · 1:00:21 Chabad, a quarta geração e a volta a Israel para Mashiach · 1:02:09 Menachem-Mendel como Tzemach Tzedek: yesod e malchut · 1:09:03 Bano baniti: o versículo de Shlomo e o paralelo em Divrei HaYamim · 1:12:46 Zevul e machon: tiferet e chesed · 1:16:00 Dois tets de nove sefirot e o casamento como multiplicação · 1:19:10 Zivug panim be panim e "ad shetechpatz"
+FONTES CITADAS: 20:55 Talmud Yerushalmi, Bikkurim 3:3 · 22:34 Tehilim 48:2 · 23:07 Zohar · 25:47 Tehilim 48:2 · 44:41 Mishná Taanit 1:3 / Taanit 4b · 54:59 Megilá 14a · 55:20 Shemot 15:20 · 56:01 Megilá 14a · 56:09 Cabalá: as sete profetisas e as sete middot · 57:37 Cabalá: a profecia vem de netzach e hod · 1:01:06 Tradição de Chabad: a quarta geração · 1:02:09 Tzemach Tzedek (Chabad) · 1:02:50 Midrash Eichah Rabá 1:51 · 1:09:03 Melachim I 8:13 · 1:10:14 Divrei HaYamim II 6:2 · 1:12:46 Chagigá 12b · 1:17:25 Bereshit 1:28 · 1:18:25 Tehilim 31:20 · 1:18:39 Tanya, Igueret HaKodesh · 1:19:13 Zohar / Cabalá: zivug panim be panim · 1:19:49 Shir HaShirim 2:7
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|48:07|It's very much...
+229|48:09|It's very
+230|48:15|much...
+231|48:19|It's very much...
+232|48:19|It's our neighbour.
+233|48:20|It's our
+234|48:28|neighbour.
+235|48:28|It's our neighbour.
+236|48:33|It's our...
+237|48:36|‫הוא התחיל היום עצמו.
+238|48:39|‫-מה?
+239|48:39|‫הוא התחיל היום עצמו.
+
+LINHAS A TRADUZIR:
+240|48:42|‫אחרי המעבר שם.
+241|48:44|‫-כן.
+242|48:45|‫הוא בלילה בעצם.
+243|48:46|‫-אז איפה נועדתם?
+244|48:50|‫-במקום החדש, כן.
+245|48:54|‫אנחנו מסבירים את שם קצת.
+246|48:56|‫יש לנו עוד חדר כבר בבית, ‫הוא התחיל.
+247|49:00|‫היום הם עוברים ממקום למקום.
+248|49:05|תודה רבה
+249|53:49|‫הרבה זמן, ‫הרבה זמן של אביגאיל, ‫זה בטוח גל.
+250|53:53|‫בטוח התנ"ך, ‫אחר כך נכתב אביגאיל, ‫הרבה זמן זה אביגאיל,
+251|53:59|‫אבל אחר כך נראה שזה אביגאיל.
+252|54:03|‫אז זאת אומרת להראות, ‫אני קורא לך להראות את זה, ‫ואז זאת אומרת "גילה", ‫אביגאיל
+253|54:10|זה, נגיד "גוי".
+254|54:12|‫זאת אומרת שזה גוי של הארץ.
+255|54:14|‫יש לזה סנדומים לגוי.
+256|54:17|The joy in the heart is called Gילה.
+257|54:21|Gילת ליבס.
+258|54:24|The happy heart is Gילה.
+259|54:27|אביגייל either means that my father is joyful.
+260|54:33|And her father was happy that he had a girl.
+261|54:37|Not all fathers are happy when they had a girl.
+262|54:40|אביגייל, he was especially happy because he had a girl.
+263|54:44|פרנטל יעד לוח הקודש, שזו כזו תהיה.
+264|54:47|זו תהיה אחת מהשני פרופיטים של ישראל.
+265|54:52|אבל זה גם צריך להביא אותם,
+266|54:56|להביא אותם.
+267|54:59|אז באמת, יש שני פרופיטים.
+268|55:04|הם קוראים לחזון על הספר, יש שני פרופיטים.
+269|55:09|מי הם סבא ומרים.
+270|55:10|And the other mothers are not counted as one of the puppets, only the first mother, the
+271|55:16|first make me ask, so no you may.
+272|55:20|And then comes מרים, who explicitly says "מרים הנביאה", that's she's a puppet.
+273|55:24|And then, those are the two in חמישה חומשי תורה, and the Torah are the puppets.
+274|55:27|But then there are five in the nך, the first of which is
+275|55:33|דבורה, and then חנה, and then אביגיל, and then הודה, and
+276|55:39|finally אסתר, אסתר המלכה.
+277|55:41|So actually, the two names of the color are two of the
+278|55:46|seven prophecies.
+279|55:49|And actually, there one led up to the other, because
+280|55:55|the chronological order, as I said, that it's שרה,
+281|56:01|מרים, דבורה, חנה, אביגאל, חולדה, אסתר.
+282|56:03|So, the seven called usbound also to the seven attributes of the heart.
+283|56:09|לצרה היא חסד, בגלל שאברהם אבינו היא חסד, והיא מדברת על
+284|56:13|אברהם, אז היא גם חסד.
+285|56:19|מרים היא גבולה.
+286|56:21|היא מביאה, היא
+287|56:26|מביאה את הטוף, הטוף מרים.
+288|56:30|ואלה המרכזית המוסימנות, ושומעים ודאנשים שהיא גבולה
+289|56:36|של פרופסיה.
+290|56:39|And then comes דבורה, that she has also דבורה אין חסד, לרחנה is נצח,
+291|56:46|of the seven prophecies, and אביגדס הוד, מחודז
+292|56:52|יסוד, and אסתר is obviously מלכה,
+293|56:56|אסתרה מלכה is מלכות of the seven women.
+294|57:01|So that means that these two names of the color are נצח and hold, just beginning from
+295|57:05|hold, like backwards.
+296|57:07|They are always a pair, they go together, and they have to do with btok and
+297|57:12|tmimos.
+298|57:13|They say that like the two feet are a ton, a lot of�ח.
+299|57:19|The tmimot is the big kind of the btok is the kind.
+300|57:24|And that's the way a person walks with this.
+301|57:29|It's actually said that prophecy itself comes from tmets.
+302|57:33|So even the way of seven we mean prophets.
+303|57:37|אבל הפרופסיה של פרופסיה של השבע, רק על אלה שתיים, כי פרופסיה באה מפני
+304|57:43|שתי ספירות, של נצח הנאות.
+305|57:48|אז בין פרופסיה של השבע, יש לי שתי נמות,
+306|57:54|אני לא יודעת מה יש לך ברור במיוחד.
+307|57:59|אבל אביחייל חנה יושבים.
+308|58:03|עכשיו, האמת שהיא מתקדמת לברורס, גלעי נאי, מה שהם אמרו לפני כן,
+309|58:09|זה בגלל הרבה רצינות, במיוחד לסימפול גל ואביגאיה.
+310|58:14|אבל הטבעי הכי טוב, היא אומרת שהם כל שבעים יחדים, כשאנחנו נוסעים כל שבעים,
+311|58:21|שרה, מרים, דבורה, חנה, אביגאיה, חולדה, אסתר, אז
+312|58:27|זה היה משהו שזה כל מיוחד, גלין, אביאביטר, נפלח את המדף.
+313|58:33|וכל גל עיניי זה באמת מעורב את האסורים של 7 פרפתיסס,
+314|58:39|בגלל שבזכות נשים צדקניות נשים יוכלו גם.
+315|58:43|48 פרפתיסס לא נכנסו, ויש 7 פרפתיססס שגם אולי לא עשו את זה
+316|58:49|100%, אבל יש יותר תקווה, יותר מקווה, יותר
+317|58:55|מקווה, שבזכות ה-7 פרפתיסס, נשים יוכלו גם, תכף
+318|59:01|מי ארבעה.
+319|59:02|‫אנחנו צריכים להגיד שיש סכויות.
+320|59:06|‫השני פרובטיסים, אחרי פרובטיסים, ‫באחורי פרובטיסים,
+321|59:12|‫השני פרובטיסים, ‫הם גם אביגאי אלנה, אביגאי אלנהחנה.
+322|59:15|‫זה כאילו פשט של הממשל של הכבוד.
+323|59:19|‫הפשט של הממשל של החוסן ‫של
+324|59:23|מנחם
+325|59:27|מנדל.
+326|59:32|גימו אותם.
+327|59:34|ועוד פעם, אתה היית מבין את הרבי, אבל אין בעיה.
+328|59:37|לכאורה.
+329|59:40|נכון, נכון, נכון.
+330|59:45|נכון, נכון.
+331|59:47|נכון, נכון.
+332|59:48|נכון, נכון,
+333|59:51|נכון.
+334|59:54|נכון, נכון.
+335|59:54|נכון, נכון.
+336|59:57|זהב אמינא, זהב אמינא, זהב אמינא, זהב אמינא, זהב אמינא,
+337|1:00:05|זהב אמינא, זהב אמינא, זהב אמינא, זהב אמינא, זהב אמינא, זהב אמינא,
+338|1:00:11|זהב אמינא, זהב אמינא, זהב אמינא, זהב
+339|1:00:17|אמינא, זהב אמינא, זהב אמינא.
+340|1:00:21|אז במקום הרבה מאוד גדול, למה אנחנו לא אוהבים לומר את זה?
+341|1:00:23|אבל למרות, האמת שזה אהבה אמינה, זה קבוצה מאוד מעניינת לשושלת של
+342|1:00:29|חב"ד.
+343|1:00:31|זה כל כך מעניין שהציונות של חב"ד הוא נמצא אחריו.
+344|1:00:36|הוא הגיע לישראל כאנושא מסיאניקי.
+345|1:00:39|וזאת אומרת, ארתור רבי
+346|1:00:46|גם מבין, זאת אומרת, זאת אומרת, מיאסד כולל חב"ד, כולל חב"ד, כולל להשתמש.
+347|1:00:52|those, the צדיקים, and the חסינים, that came to Israel in order to bring my שיח.
+348|1:00:57|The explicit purpose and intention.
+349|1:01:00|So the year now, the year the fourth, we call this "דור רבי ישובהינו".
+350|1:01:06|The third מנחם מנדאו, the rabbis, did not merit byלמת דין,
+351|1:01:12|to come to Israel.
+352|1:01:14|And now they...
+353|1:01:17|All the מנחם מנדלס, that are named after מנחם מנדלס, are called the fourth generation.
+354|1:01:22|And so the fourth generation returns to Israel, and then משיח comes.
+355|1:01:26|You're part of your, one of those מנחם מנדלס,
+356|1:01:33|which is the fourth generation.
+357|1:01:37|And the real end is now to
+358|1:01:42|return to Israel, to bring משיח, before ממש.
+359|1:01:47|We said that אביגד וחאנל דקאבו הם באמת הורד
