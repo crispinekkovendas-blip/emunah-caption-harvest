@@ -2,7 +2,7 @@
  "name": "lane5-026",
  "lane": 5,
  "created": "2026-11-07T11:42:12.587Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "xxhUR_baN3E",
@@ -200,7 +200,7 @@
   "8lMQy6FeXbo": 3,
   "qDT0KlS2n7w": 2,
   "tkcRQmqdxz4": 3,
-  "Gex1ZbQ5YTw": 2
+  "Gex1ZbQ5YTw": 3
  },
  "done": [
   "xxhUR_baN3E",
@@ -215,6 +215,7 @@
  ],
  "skipped": [
   "8lMQy6FeXbo",
-  "tkcRQmqdxz4"
+  "tkcRQmqdxz4",
+  "Gex1ZbQ5YTw"
  ]
 }
