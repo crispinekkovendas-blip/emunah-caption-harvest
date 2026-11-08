@@ -1,0 +1,120 @@
+0	I'll film it.	Eu vou filmar.
+1	You can see it.	Você consegue ver.
+2	We need a hotspot here.	Precisamos de um ponto de acesso aqui.
+3	Send the password.	Mande a senha.
+4	Don't you have a hotspot?	Você não tem um ponto de acesso?
+5	What's going on?	O que está acontecendo?
+6	Can you do it?	Você consegue fazer?
+7	I turned it on.	Eu liguei.
+8	What's it called?	Como se chama?
+9	There it is.	Aí está.
+10	Yes, connect.	Sim, conecte.
+11	But what's the password?	Mas qual é a senha?
+12	Yes.	Sim.
+13	Eliya, Eliya, give...	Eliya, Eliya, dê...
+14	The last hotspot.	O último ponto de acesso.
+15	You don't know how to find the password, I don't know which password.	Você não sabe achar a senha, eu não sei qual é a senha.
+16	One second, you understand...	Um segundo, você entende...
+17	Eliya, give it to me already.	Eliya, me dê isso logo.
+18	Eliya, give	Eliya, me dê
+19	me	isso
+20	already.	logo.
+21	Eliya, give it to me already.	Eliya, me dê isso logo.
+22	Eliya, give it to me already.	Eliya, me dê isso logo.
+23	What?	O quê?
+24	So if you understand, if I don't have this, I can't send it to you.	Então, se você entende, se eu não tenho isso, não posso enviar para você.
+25	Respected sir, leave it here.	Meu senhor, deixe isso aqui.
+26	I put it in your hand.	Eu coloquei na sua mão.
+27	Where should I be?	Onde devo ficar?
+28	I sent her the material.	Enviei a ela o material.
+29	Are you registered?	Vocês estão inscritos?
+30	I went through everything, with permission...	Passei por tudo, com a permissão de...
+31	Hello, everyone.	Shalom a todos.
+32	We are studying the book, chapter one.	Estamos estudando o livro, capítulo um.
+33	Chapter 1: Ein Sof, blessed be He.	Capítulo 1: Ein Sof, bendito seja.
+34	Do you have it?	Vocês têm?
+35	...to His creatures, the driving force of Creation.	...para as suas criaturas, a força motriz da Criação.
+36	The essence of the Creator, blessed be He, is the absolute reality of the Divine,	A essência do Criador, bendito seja, é a realidade absoluta do Divino,
+37	but in it there is no engagement and no grasp at all,	mas nela não há envolvimento nem apreensão alguma,
+38	and this is because the essence of the Creator means the Creator in Himself,	e isso porque a essência do Criador significa o Criador em Si mesmo,
+39	and not in relation to the creatures, and in this the Creator gave the creatures	e não em relação às criaturas, e nisso o Criador não deu às criaturas
+40	no grasp.	nenhuma apreensão.
+41	That is, in the language of the holy Zohar:	Isto é, nas palavras do santo Zohar:
+42	No thought grasps You at all, and we have no grasp at all	Nenhum pensamento Te apreende de modo algum, e não temos nenhuma apreensão
+43	and no notion	e nenhuma noção
+44	of the Creator.	do Criador.
+45	Our connection with the Creator is only in this matter, that He	Nossa ligação com o Criador é só nisto: que Ele
+46	wants to benefit His creatures. Beyond this we know nothing.	quer beneficiar as Suas criaturas. Além disso, não sabemos nada.
+47	The first and only level from which we	O primeiro e único nível a partir do qual nós
+48	begin to discuss is His will to benefit His creatures.	começamos a discutir é a Sua vontade de beneficiar as Suas criaturas.
+49	That is, the Creator made the entire universe, all of	Ou seja, o Criador criou todo o universo, toda a
+50	humanity, in order to benefit, and me too,	humanidade, para beneficiar, e a mim também,
+51	privately, individually. He created me in order to benefit me.	em particular, individualmente. Ele me criou para me beneficiar.
+52	And this is the aspect of the Creator's thought	E esse é o aspecto do pensamento do Criador
+53	that leads this entire Creation,	que conduz toda esta Criação,
+54	a catalyst that drives everything on the macro	um catalisador que impulsiona tudo no macro
+55	and the micro level.	e no micro.
+56	And one must know	E é preciso saber
+57	that with the Creator there is no matter of potential and actual.	que, para o Criador, não existe a questão de potência e ato.
+58	Moreover, a person first thinks, and afterward carries it out.	Além disso, o ser humano primeiro pensa e depois executa.
+59	Whereas with the Creator, the thought itself is in actuality.	Já para o Criador, o próprio pensamento é em ato.
+60	We define the Creator with definitions:	Nós definimos o Criador com definições:
+61	His will to benefit His creatures, these are human definitions.	a Sua vontade de beneficiar as Suas criaturas, essas são definições humanas.
+62	His thought, His thought to benefit His creatures.	O Seu pensamento, o Seu pensamento de beneficiar as Suas criaturas.
+63	These are all human definitions, and they come only to ease the ear; it's not...	Tudo isso são definições humanas, que vêm só para facilitar ao ouvido; não é...
+64	We have no definition of the Creator, blessed be He, Himself.	Não temos nenhuma definição do Criador, bendito seja, em Si mesmo.
+65	And we attach human definitions so that	E atribuímos definições humanas para que
+66	we have some grasp, some rope for communication.	tenhamos alguma apreensão, alguma corda de comunicação.
+67	The wisdom of Kabbalah allows us a glimpse, so to speak,	A sabedoria da Cabalá nos permite um vislumbre, por assim dizer,
+68	into His blessed thought.	do Seu pensamento, bendito seja.
+69	What was His thought regarding the creation of this Creation?	Qual foi o Seu pensamento ao criar esta Criação?
+70	And this is the first state that can be spoken about, as stated.	E esse é o primeiro estado sobre o qual se pode falar, como dito.
+71	Know the connection between the Creator and Creation.	Conheça a ligação entre o Criador e a Criação.
+72	One must always remember that the discussion does not speak	É preciso lembrar sempre que a discussão não fala
+73	of Himself, blessed be He, heaven forbid, but of what	Dele mesmo, bendito seja, D'us me livre, mas daquilo
+74	is drawn from Him to the creatures, not of Him Himself, but of what is drawn from Him	que é extraído Dele para as criaturas, não Dele mesmo, mas daquilo que é extraído Dele
+75	to the creatures. And therefore, although Kabbalah speaks	para as criaturas. E por isso, embora a Cabalá fale
+76	about the Creator, we must remember that all the words and definitions in the language of Kabbalah	sobre o Criador, devemos lembrar que todas as palavras e definições na linguagem da Cabalá
+77	come to ease the ear	vêm para facilitar ao ouvido
+78	and refer to what is felt by the creatures.	e se referem ao que é sentido pelas criaturas.
+79	What does this level of His will to benefit His creatures include?	O que esse nível da Sua vontade de beneficiar as Suas criaturas inclui?
+80	Two components.	Dois componentes.
+81	A. The good itself,	A. O próprio bem,
+82	namely the abundance, the filling, which is defined as light.	isto é, a abundância, o preenchimento, que é definido como luz.
+83	B.	B.
+84	The desire to receive this light, the longing to receive it,	O desejo de receber essa luz, o anseio de recebê-la,
+85	which is defined as a vessel.	que é definido como vaso.
+86	The main trait of the vessel is lack.	A característica principal do vaso é a carência.
+87	For it is	Pois ele é
+88	a receptacle into which fulfillment can be placed.	um recipiente no qual se pode colocar preenchimento.
+89	If there is no lack, it is impossible to fill.	Se não há carência, não é possível preencher.
+90	A person who is not hungry cannot enjoy a meal.	Quem não está com fome não pode desfrutar de uma refeição.
+91	A person who is not tired cannot enjoy sleep.	Quem não está cansado não pode desfrutar do sono.
+92	According to the size of his longing, his craving, his yearning,	Conforme o tamanho do seu anseio, do seu desejo, da sua saudade,
+93	his lack, so will be the size of his pleasure at the time of filling.	da sua carência, assim será o tamanho do seu prazer no momento do preenchimento.
+94	Indeed, His will to benefit His creatures requires that the creatures attain pleasure,	De fato, a Sua vontade de beneficiar as Suas criaturas exige que as criaturas alcancem prazer,
+95	and thus there is complete joy for the creature when it enjoys.	e assim há alegria plena para a criatura quando ela desfruta.
+96	And this was His blessed intention.	E essa foi a Sua intenção, bendito seja.
+97	And so, although one can eat without hunger,	E assim, embora se possa comer sem fome,
+98	one does not attain pleasure from that eating.	não se alcança prazer com essa comida.
+99	So it turns out that the thought of Creation includes light and vessel.	Resulta, então, que o pensamento da Criação inclui luz e vaso.
+100	The light is the filling, and the vessel is the desire to receive the filling, by which the size	A luz é o preenchimento, e o vaso é o desejo de receber o preenchimento, pelo qual se determina o tamanho
+101	of the pleasure from the filling is determined.	do prazer do preenchimento.
+102	This desire is the essence of the created being, which distinguishes	Esse desejo é a essência do ser criado, que o distingue
+103	it from the Creator.	do Criador.
+104	For in the perfect Divine reality there is no desire to receive and no lack.	Pois na realidade Divina perfeita não há desejo de receber nem carência.
+105	So the Creator wants to benefit His creatures, He created	Então o Criador quer beneficiar as Suas criaturas, Ele criou
+106	a desire to receive delight and pleasure, and this is called a created being, and this is not in the Creator.	um desejo de receber deleite e prazer, e isso se chama criatura, e isso não existe no Criador.
+107	But one must know that in His blessed thought,	Mas é preciso saber que, no Seu pensamento, bendito seja,
+108	the light and the vessel come completely attached to one another.	a luz e o vaso vêm totalmente unidos um ao outro.
+109	In such a way that the light fills the vessel completely, and there is no distinction between the light and	De modo que a luz preenche o vaso por completo, e não há distinção entre a luz e
+110	the vessel. This is called simple light.	o vaso. Isso se chama luz simples.
+111	When the light includes the vessel and there is no difference between the light and the vessel,	Quando a luz inclui o vaso e não há diferença entre a luz e o vaso,
+112	and only at a later stage, after the light departs from the vessel,	e só numa etapa posterior, depois que a luz se retira do vaso,
+113	is the distinction between them made, and that is clear.	faz-se a distinção entre eles, e isso é claro.
+114	That's it so far, or are there questions?	Até aqui é isso, ou há perguntas?
+115	Yes.	Sim.
+116	So you ask how one can develop "my soul thirsts for You"	Então você pergunta como é possível desenvolver "minha alma tem sede de Ti"
+117	if there is no grasp	se não há apreensão
+118	of the Creator?	do Criador?
+119	Baal HaSulam says that we have no grasp of anything, not only of the Creator.	Baal HaSulam diz que não temos apreensão de nada, não só do Criador.
