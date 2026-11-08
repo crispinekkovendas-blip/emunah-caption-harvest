@@ -1,0 +1,120 @@
+0	Rambam, Laws of Shechitah, chapter 1, halachah	Rambam, Hilchot Shechitá, capítulo 1, halachá
+1	24.	24.
+2	The Rambam writes: one must also check, yes, after the shechitah,	O Rambam escreve: é preciso examinar também, sim, depois da shechitá,
+3	for if a nick is found after the shechitah, it is a safek neveilah.	pois se for encontrada uma falha depois da shechitá, é safek neveilá.
+4	Perhaps it was damaged in the hide, and when he cut the simanim he cut with a	Talvez tenha se danificado na pele, e quando cortou os simanim cortou com uma
+5	damaged knife.	faca falha.
+6	Therefore one who slaughters many animals or many birds must check between each one	Por isso, quem abate muitos animais ou muitas aves deve examinar entre cada um
+7	and every one, for if he did not check, and checked at the end and the knife was found damaged,	e cada um, pois se não examinou, e examinou no fim e a faca foi encontrada falha,
+8	everything is safek neveilah, even the first. So this is actually to the shochet's benefit, to check	tudo é safek neveilá, até o primeiro. Então isso é, na verdade, para o benefício do shochet: examinar
+9	between each and every one. Why?	entre cada um. Por quê?
+10	Because if he checks between each one, he only invalidates the last one, but if he doesn't check	Porque se examina entre cada um, só invalida o último, mas se não examina
+11	except after several shechitot, then necessarily he has to	a não ser depois de várias shechitot, então necessariamente tem que
+12	invalidate all of them now. So this is basically	invalidar agora todos eles. Então isso é basicamente
+13	the words of the Rambam. But let us give a short introduction to this halachah, in order to also understand the Raavad's objection.	as palavras do Rambam. Mas façamos uma breve introdução a essa halachá, para entender também a objeção do Raavad.
+14	The Gemara brings, in Tractate Chulin, page 10a: One who slaughters with a knife and it is found nicked,	A Guemará traz, no tratado Chulin, folha 10a: quem abate com uma faca e ela é encontrada falha,
+15	Rav Huna said: even if he broke bones with it all day, it is invalid.	Rav Huna disse: mesmo que tenha quebrado ossos com ela o dia todo, é pasul.
+16	We suspect that it was damaged in the hide.	Suspeitamos que ela se danificou na pele.
+17	What does this mean?	O que isso quer dizer?
+18	It means that he slaughtered with a knife.	Quer dizer que ele abateu com uma faca.
+19	Even if after he slaughtered with the knife, he now broke bones with this knife	Mesmo que, depois de abater com a faca, ele agora tenha quebrado ossos com essa faca
+20	and so on.	e assim por diante.
+21	so that I could attribute the nick to the bones he broke after the shechitah.	de modo que eu poderia atribuir a falha aos ossos que ele quebrou depois da shechitá.
+22	The Gemara says to him: perhaps it was damaged in the hide, perhaps the knife was already damaged	A Guemará lhe diz: talvez tenha se danificado na pele, talvez a faca já tenha se danificado
+23	in the hide of the animal.	na pele do animal.
+24	And then, when he cut the simanim, he cut with a damaged knife.	E então, quando cortou os simanim, cortou com uma faca falha.
+25	Rav Chisda, by contrast, said: it is kasher, perhaps it was damaged on the bone.	Já Rav Chisda disse: é kasher, talvez tenha se danificado no osso.
+26	The Gemara says: Rav Huna is understandable. Rav Huna spoke according to his approach, for he	A Guemará diz: Rav Huna se entende. Rav Huna falou conforme a sua linha, pois ele
+27	said that every animal stands in a presumption of prohibition until it is known that the animal was slaughtered.	disse que todo animal está em chazaká de proibição até que se saiba que o animal foi abatido.
+28	And this animal, a doubt was born about it.	E este animal, nasceu uma dúvida a seu respeito.
+29	But Rav Chisda, what is his reasoning?	Mas Rav Chisda, qual é o seu motivo?
+30	Striking a bone certainly damages the knife, or perhaps it damages, perhaps it doesn't.	Bater no osso certamente danifica a faca, ou talvez danifique, talvez não.
+31	A doubt against a certainty, and a doubt does not override a certainty.	Uma dúvida contra uma certeza, e a dúvida não remove a certeza.
+32	That is, Rav Chisda, by contrast, says: wait, I don't understand.	Ou seja, Rav Chisda, ao contrário, diz: espere, eu não entendo.
+33	A person has now slaughtered the animal with the knife.	Uma pessoa acabou de abater o animal com a faca.
+34	He also hit a bone.	Ele também bateu no osso.
+35	Now, a bone certainly damages the knife,	Ora, o osso certamente danifica a faca,
+36	or perhaps it damages, perhaps it doesn't.	ou talvez danifique, talvez não.
+37	So a doubt does not override a certainty, so I will attribute it to the bone.	Então a dúvida não remove a certeza, logo eu atribuo isso ao osso.
+38	I will attribute the nick to the bone.	Eu atribuo a falha ao osso.
+39	Therefore, this is the dispute in which Rav Huna	Portanto, essa é a divergência em que Rav Huna
+40	and Rav Chisda disagreed, in the case where he slaughtered with a knife,	e Rav Chisda divergiram, no caso em que ele abateu com uma faca,
+41	yes, that he checked it before the shechitah, the knife, and it had no nick.	sim, em que ele a examinou antes da shechitá, a faca, e ela não tinha falha.
+42	But he did not check it after the shechitah, only some time later, and it was found damaged.	Mas não a examinou depois da shechitá, só algum tempo depois, e ela foi encontrada falha.
+43	So according to Rav Huna his shechitah is invalid, because every animal stands in a presumption of prohibition and it cannot be permitted except	Então, segundo Rav Huna, a shechitá dele é pasul, porque todo animal está em chazaká de proibição e não pode ser permitido a não ser
+44	after it is known to you that it was slaughtered properly, and this one, in whose shechitah a doubt was born, for	depois que se saiba que foi abatido corretamente, e este, em cuja shechitá nasceu uma dúvida, pois
+45	a damaged knife is before us and we suspect it was damaged in the hide before the shechitah, cannot be permitted. And Rav Chisda held	há uma faca falha diante de nós e suspeitamos que se danificou na pele antes da shechitá, não pode ser permitido. E Rav Chisda entendeu
+46	that indeed there is a doubt whether the knife was damaged in the hide before the shechitah, but since he broke bones after the shechitah	que de fato há dúvida se a faca se danificou na pele antes da shechitá, mas como ele quebrou ossos depois da shechitá
+47	and these certainly damage it, a doubt does not override a certainty and his shechitah is kasher. As for halachah,	e estes certamente a danificam, a dúvida não remove a certeza e a shechitá dele é kasher. Quanto à halachá,
+48	the Gemara concludes: the halachah follows Rav Huna when he did not break	a Guemará conclui: a halachá segue Rav Huna quando ele não quebrou
+49	a bone. If he did not break a bone after the shechitah, the halachah follows Rav Huna: perhaps in the hide	osso. Se ele não quebrou osso depois da shechitá, a halachá segue Rav Huna: talvez na pele
+50	it was damaged. And the halachah follows Rav Chisda when he broke a bone; by contrast, the halachah is like Rav Chisda	ela tenha se danificado. E a halachá segue Rav Chisda quando ele quebrou osso; ao contrário, a halachá é como Rav Chisda
+51	that if before he checked the knife, before he checked the knife after the shechitah, he broke a bone,	que se, antes de examinar a faca, antes de examinar a faca depois da shechitá, ele quebrou osso,
+52	then I attribute it to the bone.	então eu atribuo isso ao osso.
+53	That is, by implication, for Rav Chisda, even though he did not break a bone, what else would damage it? The neck bone	Ou seja, por dedução, para Rav Chisda, mesmo que não tenha quebrado osso, o que mais a danificaria? O osso do pescoço
+54	would damage it.	a danificaria.
+55	That is, Rav Huna and Rav Chisda disagreed, as we said, even in the case where he did not break	Ou seja, Rav Huna e Rav Chisda divergiram, como dissemos, até mesmo no caso em que ele não quebrou
+56	bones after the shechitah; in any case Rav Chisda declared the shechitah kasher, because one can attribute	ossos depois da shechitá; mesmo assim Rav Chisda declarou a shechitá kasher, porque é possível atribuir
+57	the knife's nick to its hitting, after the shechitah, the neck bone of the animal.	a falha da faca ao fato de ela ter batido, depois da shechitá, no osso do pescoço do animal.
+58	But as halachah, one may not attribute it this way at all, and when he did not break bones after the shechitah,	Mas, como halachá, não se deve atribuir assim de modo algum, e quando ele não quebrou ossos depois da shechitá,
+59	one attributes the nick to the hide of the animal before the shechitah.	atribui-se a falha à pele do animal antes da shechitá.
+60	But if he broke bones with the knife after the shechitah, one attributes the nick to those bones, and his shechitah	Mas se ele quebrou ossos com a faca depois da shechitá, atribui-se a falha a esses ossos, e a shechitá dele
+61	is kasher.	é kasher.
+62	So now let us understand the words of our teacher the Rambam.	Então agora vamos entender as palavras do nosso mestre, o Rambam.
+63	The Rambam says, one must also check after	O Rambam diz: é preciso examinar também depois
+64	the shechitah.	da shechitá.
+65	That is, one must check the knife. Simply, when the Rambam says to check, he means as he explained the checking of the knife earlier, in the previous halachah,	Ou seja, é preciso examinar a faca. Simplesmente, quando o Rambam diz para examinar, refere-se ao que explicou antes sobre o exame da faca, na halachá anterior,
+66	which is in fact 12 checks: on the flesh and on the nail	que são, na verdade, 12 exames: com a carne e com a unha
+67	and the three sides, yes. So one must check, yes, after	e os três lados, sim. Então é preciso examinar, sim, depois
+68	the shechitah, for if a nick is found after the shechitah, it is a safek neveilah; perhaps in the hide	da shechitá, pois se for encontrada uma falha depois da shechitá, é safek neveilá; talvez na pele
+69	it was damaged, and when he cut the simanim he cut with a damaged knife.	ela tenha se danificado, e quando cortou os simanim cortou com uma faca falha.
+70	This is what we suspect. Therefore, one who slaughters many animals or many birds	É isso que suspeitamos. Por isso, quem abate muitos animais ou muitas aves
+71	must check between each and every one, for if he did not check and checked at the end	deve examinar entre cada um, pois se não examinou e examinou no fim
+72	and the knife was found damaged, everything is safek neveilah, even	e a faca foi encontrada falha, tudo é safek neveilá, até
+73	the first ones.	os primeiros.
+74	Therefore he must check between each and every one.	Por isso ele deve examinar entre cada um.
+75	The Rema writes, our teacher the Rema brings,	O Rema escreve, o nosso mestre, o Rema, traz,
+76	in siman 18, seif 11, that the permission	no simán 18, seif 11, que a permissão
+77	is in the shochet's hand to put himself at risk by not checking between one shechitah and the next.	está nas mãos do shochet de se colocar em risco, não examinando entre uma shechitá e outra.
+78	And if the knife is found damaged at the end of the shechitot, all of them will be invalidated.	E se a faca for encontrada falha no fim das shechitot, todas serão invalidadas.
+79	You take, do you want to take this risk?	Você assume, quer assumir esse risco?
+80	Fine.	Bom.
+81	He says, yes, this...	Ele diz: sim, isso...
+82	I am sure my knife won't get damaged.	Tenho certeza de que a minha faca não vai se danificar.
+83	I'm expert in shechitah, I also don't reach the neck bone, I don't reach the nerve.	Sou perito em shechitá, também não chego ao osso do pescoço, não chego ao nervo.
+84	Everything is fine, no problem.	Está tudo bem, sem problema.
+85	So go ahead, slaughter 30, 40, 100 birds, slaughter.	Então vá em frente, abata 30, 40, 100 aves, abata.
+86	But take into account that if at the end of the shechitah you check and you find a nick, all	Mas leve em conta que, se no fim da shechitá você examina e encontra uma falha, todas
+87	the birds are safek neveilah.	as aves são safek neveilá.
+88	Even the first bird you slaughtered.	Até a primeira ave que você abateu.
+89	So therefore, for the shochet's benefit, it is good to switch the knives and do a check	Então, para o benefício do shochet, é bom trocar as facas e fazer um exame
+90	between one shechitah and the next.	entre uma shechitá e outra.
+91	Today, in our time, with animals they always check before and after, because indeed each animal is slaughtered separately.	Hoje, em nossos dias, com os animais sempre se examina antes e depois, porque de fato cada animal é abatido separadamente.
+92	With birds, I wish.	Com aves, quem dera.
+93	Rabbanut establishments, maybe after a few hundred birds they check.	Nos estabelecimentos do rabanato, talvez examinem depois de algumas centenas de aves.
+94	That is the shechitah of the Rabbanut.	Essa é a shechitá do rabanato.
+95	And Badatzim, let's say,	E os Badatzim, digamos,
+96	40-50 birds, and then they do a check.	40-50 aves, e então fazem um exame.
+97	And this check too, usually the shochet does this check.	E esse exame também, em geral é o próprio shochet que o faz.
+98	He does it on the wet knife.	Ele o faz com a faca molhada.
+99	Why?	Por quê?
+100	Because it's a pace, it's a pace.	Porque é um ritmo, é um ritmo.
+101	They have to meet production quotas.	Eles têm que cumprir as metas de produção.
+102	But if there are God-fearing places, as I told you, when we went to do the	Mas se há lugares tementes a D'us, como eu lhes disse, quando fomos fazer as
+103	shechitot of birds, we simply prepared a set of knives.	shechitot de aves, simplesmente preparamos um conjunto de facas.
+104	And we stood there, and kept switching all the time.	E ficamos ali, trocando o tempo todo.
+105	And meanwhile they do this.	E enquanto isso eles fazem isso.
+106	Three shochatim, and they start to slaughter, and each time they do,	Três shochatim, e eles começam a abater, e a cada vez
+107	they swap their knives for them, and the knives that are taken, they wipe and do a check.	trocam as facas deles, e as facas que são retiradas, eles enxugam e fazem o exame.
+108	Then they swap, give him one and take the other.	Depois trocam, dão a ele uma e levam a outra.
+109	So it comes out to a knife check about every fifteen birds.	Assim sai um exame de facas mais ou menos a cada quinze aves.
+110	That too.	Isso também.
+111	It's fast; these are professional shochatim.	É rápido; são shochatim profissionais.
+112	Very fast.	Muito rápido.
+113	Yes?	Sim?
+114	How?	Como?
+115	Look, I'll tell the truth, today in our time the professional knives are	Olha, vou dizer a verdade: hoje em dia as facas profissionais são
+116	very, very good and strong.	muito, muito boas e fortes.
+117	And if these are professional shochatim who do not reach the neck bone during the shechitah, there is	E se são shochatim profissionais que não chegam ao osso do pescoço durante a shechitá, não há
+118	no reason for the knife to get damaged so much.	motivo para a faca se danificar tanto.
+119	And even so, they do the checks all the time.	E mesmo assim fazem os exames o tempo todo.

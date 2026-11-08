@@ -1,0 +1,120 @@
+240	to check the knife after the shechitah.	examinar a faca depois da shechitá.
+241	That is the opinion of the Raavad.	Esta é a opinião do Raavad.
+242	No need to check the knife after the shechitah, unless you slaughtered an animal and now want to slaughter another.	Não é preciso examinar a faca depois da shechitá, a não ser que você tenha abatido um animal e agora queira abater outro.
+243	Then you have to check the knife.	Então você precisa examinar a faca.
+244	Not because of the animal already slaughtered, but because of the animal you want to slaughter.	Não por causa do animal que já abateu, mas por causa do animal que quer abater.
+245	Understood?	Entendido?
+246	That is the opinion of the Raavad.	Esta é a opinião do Raavad.
+247	What happens with the previous one?	O que acontece com o anterior?
+248	The Raavad says: you checked the knife before slaughtering the previous one, you slaughtered, it has a presumption of being kosher.	O Raavad diz: você examinou a faca antes de abater o anterior, abateu, ele tem chazaká de kasher.
+249	Why do I now need to check the knife again?	Por que agora preciso examinar a faca de novo?
+250	That is the opinion of...	Esta é a opinião de...
+251	That is only for one animal, not for a quantity.	Isso é só para um, não para uma quantidade.
+252	Anyway, with a quantity there will not be much practical difference between the Raavad and the Rambam, since the Raavad too agrees that you must check	De qualquer modo, com uma quantidade não haverá grande diferença prática entre o Raavad e o Rambam, pois também o Raavad concorda que é preciso examinar
+253	between one and the next, but not because of the previous one, because of the next.	entre um e outro, mas não por causa do anterior, e sim por causa do seguinte.
+254	Now...	Agora...
+255	Just a moment, our dear Rabbi Yosef.	Só um momento, nosso querido Rabi Yosef.
+256	Just a moment.	Só um momento.
+257	Now, here is the Raavad's reason, but before I continue with him, you need to know that the Rishonim disagreed about the nature of	Agora, aqui está a razão do Raavad, mas antes de continuar com ele, é preciso saber que os Rishonim divergiram quanto à natureza da
+258	the obligation to check the knife after the shechitah.	obrigação de examinar a faca depois da shechitá.
+259	Is it guidance or an obligation?	É uma orientação ou uma obrigação?
+260	As we learned, the Sages disagreed about the case where a defect is found in the knife after the shechitah.	Como aprendemos, os Sábios divergiram sobre o caso em que se encontra uma falha na faca depois da shechitá.
+261	But the obligation to check the knife was not explicitly mentioned.	Mas a obrigação de examinar a faca não foi mencionada explicitamente.
+262	From the wording of the Rambam, who wrote "and one must check," it implies that there is	Pela redação do Rambam, que escreveu "e é preciso examinar", entende-se que há
+263	an obligation to check the knife after the shechitah.	obrigação de examinar a faca depois da shechitá.
+264	So too writes the Tur in Yoreh Deah, siman 18.	Assim também escreve o Tur em Yoré Deá, capítulo 18.
+265	What is the reason?	Qual é a razão?
+266	The Tur writes that since an animal does not leave the presumption of prohibition it has in life until it is clarified that it was slaughtered	O Tur escreve que, como um animal não sai da chazaká de proibição que tem em vida até ficar esclarecido que foi abatido
+267	properly.	corretamente.
+268	Checking the knife after the shechitah is part of the clarification needed to establish that it was slaughtered	examinar a faca depois da shechitá faz parte do esclarecimento necessário para estabelecer que foi abatido
+269	properly. But the Raavad, the Baal HaMaor, Rabeinu Zerachia	corretamente. Mas o Raavad, o Baal HaMaor, Rabeinu Zerachia
+270	HaLevi and the Meiri hold that there is no obligation to check the knife	HaLevi e o Meiri entendem que não há obrigação de examinar a faca
+271	after the shechitah. The Rashba writes that what was said	depois da shechitá. O Rashba escreve que o que foi dito
+272	in the Gemara there, that Rav Kahana required checking the knife between one shechitah and the next, is not strict law but good advice, so that	na Guemará ali, que Rav Kahana exigiu examinar a faca entre uma shechitá e outra, não é a lei em sua essência, mas um bom conselho, para que
+273	all the animals slaughtered with this knife will not be forbidden if it is found defective.	não sejam proibidos todos os animais abatidos com esta faca caso ela seja encontrada falha.
+274	Now Rabeinu HaRaavad says that the Gemara did not say "one must check" but "the shochet, and it was found defective." That	Agora o Raavad diz que a Guemará não disse "é preciso examinar", mas "o shochet, e foi encontrada falha". Isso
+275	means only if he slaughtered and it was found defective. Had it been required, they would have said so, as they said:	quer dizer apenas que, se ele abateu e ela foi encontrada falha... Se fosse obrigatório, diriam assim, como disseram:
+276	"the shochet must check the simanim after slaughtering." So the Raavad is actually telling us	"o shochet precisa examinar os simanim depois de abater". Então o Raavad está nos dizendo, na verdade,
+277	that in the Gemara there is no wording of "must check." They did not say "must check," but	que na Guemará não consta a expressão "é preciso examinar". Não disseram "é preciso examinar", mas o
+278	what did they say in the Gemara? "The shochet, and it was found defective." It implies that if he	que disseram na Guemará? "O shochet, e foi encontrada falha." Entende-se que, se ele
+279	slaughtered and afterwards the knife was found defective, how one should act. But it does not say that one must check.	abateu e depois a faca foi encontrada falha, como se deve proceder. Mas não está escrito que é preciso examinar.
+280	This is really the precision of the Raavad.	Esta é, na verdade, a precisão textual do Raavad.
+281	In practice, certainly Maran the Shulchan Arukh ruled like the Rambam.	Na prática, certamente Maran, o Shulchan Arukh, decidiu conforme o Rambam.
+282	Now, gentlemen, look at halachah 25.	Agora, senhores, vejam a halachá 25.
+283	The Rambam says: He checked the knife and slaughtered with it,	O Rambam diz: Examinou a faca e abateu com ela,
+284	and did not check it after the shechitah,	e não a examinou depois da shechitá,
+285	and broke with it a bone or wood and the like,	e quebrou com ela osso ou madeira e coisas semelhantes,
+286	and afterwards checked it and found it defective,	e depois a examinou e a encontrou falha,
+287	his shechitah is kasher, for the presumption is that the knife was damaged by the hard thing it broke	sua shechitá é kasher, pois a presunção é que a faca se danificou na coisa dura que quebrou
+288	with it.	com ela.
+289	That is, in this the halachah follows Rav Chisda.	Isto é, nisso a halachá segue Rav Chisda.
+290	And likewise if he was negligent and did not check the knife, or the knife was lost until he could not check, his shechitah is kasher.	E também se foi negligente e não examinou a faca, ou a faca se perdeu de modo que não pôde examinar, sua shechitá é kasher.
+291	That is, there is a man, gentlemen, who slaughtered, and after he slaughtered	Isto é, há um homem, senhores, que abateu, e depois de abater
+292	he got angry and started breaking bones, wood. What happened to you? Bring, bring	ficou nervoso e começou a quebrar ossos, madeiras. O que aconteceu com você? Traga, traga
+293	your knife, we will check it.	a sua faca, vamos examiná-la.
+294	How many defects.	Quantas falhas.
+295	So what about the shechitah?	E a shechitá?
+296	The shechitah is kasher.	A shechitá é kasher.
+297	I attribute the defects to what he did afterwards, the wood, the stones, the bones.	Atribuo as falhas ao que ele fez depois: a madeira, as pedras, os ossos.
+298	Likewise, if he slaughtered, and afterwards someone told him, bring, bring, we will check	Do mesmo modo, se abateu, e depois alguém lhe disse: traga, traga, vamos examinar
+299	your knife.	a sua faca.
+300	He says, my knife is excellent.	Ele diz: minha faca é excelente.
+301	Bring it, what do you care?	Traga, que diferença faz para você?
+302	He said, no, it's fine.	Ele disse: não, está bem.
+303	He hid it.	Ele a escondeu.
+304	He hid it.	Ele a escondeu.
+305	With the slaughterhouse's practices.	Com os procedimentos do abatedouro.
+306	That's it, go find it now.	Pronto, vá achá-la agora.
+307	So, what is the law of the cow he slaughtered?	Então, qual é a lei da vaca que ele abateu?
+308	Eat and enjoy.	Comam e aproveitem.
+309	Yes.	Sim.
+310	Very good.	Muito bem.
+311	Why?	Por quê?
+312	It has a presumption of being kosher.	Ela tem chazaká de kasher.
+313	And note, even if he did this deliberately, the Rambam says, "and likewise if he was negligent,"	E reparem, mesmo que ele tenha feito isso de propósito, o Rambam diz: "e também se foi negligente,
+314	and did not check the knife, or the knife was lost until he could not check,	e não examinou a faca, ou a faca se perdeu de modo que não pôde examinar,
+315	his shechitah is kasher.	sua shechitá é kasher."
+316	After the fact his shechitah is kasher, it has a presumption of being permitted.	Em último caso, sua shechitá é kasher, tem chazaká de permitida.
+317	Because after all he also checked the knife before the shechitah.	Pois afinal ele também examinou a faca antes da shechitá.
+318	Rabeinu the Rambam says: Any butcher, "tabach" meaning shochet, who did not check his knife	O Rambam diz: Todo açougueiro, "tabach", isto é, shochet, que não mostrou a sua faca
+319	with which he slaughters before a sage, and slaughtered with it for himself,	com a qual abate a um sábio, e abateu com ela para si mesmo,
+320	they check it.	examinam-na.
+321	If it is found fine and checked, they place him in nidui.	Se for encontrada boa e examinada, colocam-no em nidui,
+322	Lest he rely on himself another time, and it be defective and he slaughter with it.	para que não confie em si mesmo outra vez, e ela esteja falha e ele abata com ela.
+323	And if it is found defective, they remove him and place him in nidui.	E se for encontrada falha, afastam-no e colocam-no em nidui,
+324	And they proclaim that all the meat he slaughtered is treifah.	e proclamam que toda a carne que abateu é treifá.
+325	So pay close attention.	Então prestem muita atenção.
+326	The Gemara in Chulin, daf 18, amud b, says that one should show	A Guemará em Chulin, página 18b, diz que o shochet deve mostrar
+327	the shochet his knife to a sage before the shechitah, out of respect for the sage.	sua faca a um sábio antes da shechitá, em honra do sábio.
+328	And so it comes out that if he slaughters and does not show the knife to a sage beforehand,	E assim resulta que, se ele abate e não mostra a faca a um sábio antes,
+329	Rabbah bar Rav Huna said: a butcher who did not show his knife to a sage, we place him in nidui,	Rabá bar Rav Huna disse: o açougueiro que não mostrou a faca a um sábio, colocamo-lo em nidui,
+330	and Rabbah said: we remove him, we remove him, we no longer let him slaughter.	e Rabá disse: nós o afastamos, afastamo-lo, não o deixamos mais abater.
+331	And we proclaim his meat, we proclaim that his meat is treifah.	E proclamamos a sua carne, proclamamos que a sua carne é treifá.
+332	So how does this fit together?	Então como isso se concilia?
+333	One says only nidui, the other says also removal, no longer letting him slaughter, and also proclaiming.	Um diz apenas nidui, o outro diz também afastamento, não o deixar mais abater, e também proclamar.
+334	The Gemara says: here where his knife was found fine, there where his knife was found fine.	A Guemará diz: aqui quando sua faca foi encontrada boa, ali quando não foi encontrada boa.
+335	So it comes out that if the knife was found fine, we do not remove him,	Resulta que, se a faca foi encontrada boa, não o afastamos,
+336	nor do we proclaim his meat treifah, but we place him in nidui until he repents.	nem proclamamos que sua carne é treifá, mas o colocamos em nidui até que se arrependa.
+337	And then he will not do it again.	E então ele não fará isso de novo.
+338	But we do not stay silent about it, we do not let it pass in silence,	Mas não nos calamos diante dele, não deixamos isso passar em silêncio,
+339	even though his knife was afterwards found fine.	mesmo que sua faca tenha sido depois encontrada boa.
+340	On the other hand, if his knife was found defective, because he did not show his knife to a sage,	Por outro lado, se sua faca foi encontrada falha, porque ele não mostrou a faca a um sábio,
+341	we no longer let him slaughter.	não o deixamos mais abater.
+342	We remove him, and also place him in nidui until he repents.	Afastamo-lo, e também o colocamos em nidui até que se arrependa.
+343	And we also proclaim all his meat treifah.	E também proclamamos que toda a sua carne é treifá.
+344	Did you hear?	Ouviram?
+345	Oy, oy, oy, oy, oy, oy, oy, oy, oy, oy.	Ai, ai, ai, ai, ai, ai, ai, ai, ai, ai.
+346	What does the honored one say?	O que diz o senhor?
+347	Oh, honored students, it is forbidden to slaughter at home.	Ah, estimados alunos, é proibido abater em casa.
+348	It is permitted to slaughter at home, and before you slaughter, you must show your knife to a sage.	É permitido abater em casa, e antes de abater, você precisa mostrar a sua faca a um sábio,
+349	So that he checks it and tells you the knife is kosher.	para que ele a examine e lhe diga que a faca é kasher.
+350	Like this.	Assim.
+351	Kosher.	Kasher.
+352	Yes.	Sim.
+353	Rabbi Yosef says that he does not need to be a sage, he needs to check	Rabi Yosef diz que ele não precisa ser um sábio, precisa examinar
+354	knives.	facas.
+355	It means a sage in that craft.	Quer dizer um sábio naquele ofício.
+356	Well versed in halachah, knows how to check, knows what to feel, so he is	Versado na halachá, sabe como examinar, sabe o que sentir, então ele é
+357	a sage in that craft.	um sábio naquele ofício.
+358	It does not mean that if you tested him now on some Tosafot in Masechet Zevachim and he did not know how to answer, then he cannot	Isso não quer dizer que, se você o testasse agora sobre algum Tosafot na Masechet Zevachim e ele não soubesse responder, então ele não poderia
+359	check a knife.	examinar uma faca.
