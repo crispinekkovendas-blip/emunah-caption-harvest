@@ -1,0 +1,40 @@
+760	During the meal, sing Shalom Aleichem.	Durante a refeição, cante Shalom Aleichem.
+761	Make Kiddush, there are people here.	Faça o Kidush, há pessoas aqui.
+762	Kiddush is made over what?	O Kidush é feito sobre o quê?
+763	Over wine.	Sobre vinho.
+764	What does a man do who has no wine?	O que faz um homem que não tem vinho?
+765	He bought wine, and the bottle broke.	Comprou vinho, e a garrafa quebrou.
+766	You will say: over challot.	Vocês dirão: sobre as chalot.
+767	But he has, his wife says, "I bought grapes today."	Mas ele tem, a esposa diz: "Comprei uvas hoje."
+768	I have grapes.	Eu tenho uvas.
+769	On Shabbat, is it permitted to squeeze grapes?	Na Shabat, é permitido espremer uvas?
+770	It is permitted to squeeze grapes on Shabbat into food, and not	É permitido espremer uvas na Shabat sobre comida, e não
+771	into a drink.	sobre uma bebida.
+772	What does he do?	O que ele faz?
+773	He takes a slice of bread, takes grapes on Shabbat, and squeezes	Ele pega uma fatia de pão, pega uvas na Shabat e espreme
+774	grapes on Shabbat onto the slice of bread until the slice of bread now has	uvas na Shabat sobre a fatia de pão até que a fatia de pão tenha agora
+775	a revi'it measure absorbed in it. Now he makes regular Kiddush	a medida de uma revi'it absorvida. Agora ele faz o Kidush normal
+776	over wine: he takes this slice of bread and sucks out the liquid of	sobre vinho: pega essa fatia de pão e suga o líquido
+777	the revi'it, and recites the blessing Hagafen. This is	da revi'it e recita a bênção de Hagafen. Esta é
+778	the halachah in the Rashba, siman 109.	a halachá no Rashba, simán 109.
+779	He gives us the case.	Ele nos dá o caso.
+780	A person squeezes a cluster of grapes and says Kiddush of the day over it.	Alguém espreme um cacho de uvas e diz sobre ele o Kidush do dia.
+781	One may squeeze the cluster on Shabbat into food, so too writes Rabbeinu HaMeiri; it is forbidden to squeeze into a drink.	Pode-se espremer o cacho na Shabat sobre comida, assim também escreve Rabeinu HaMeiri; é proibido espremer sobre uma bebida.
+782	It is forbidden to squeeze a lemon into a drink as well.	É proibido espremer limão sobre uma bebida também.
+783	But one may squeeze a lemon into a vegetable salad.	Mas pode-se espremer limão sobre uma salada de legumes.
+784	Or onto fish.	Ou sobre peixe.
+785	Or onto sugar, lemonade, the Ben Ish Chai: the acronym is Sulam, for those who learned.	Ou sobre açúcar, limonada, o Ben Ish Chai: a sigla é Sulam, para quem estudou.
+786	Sugar, lemon, water.	Açúcar, limão, água.
+787	So there is an option, yes?	Então há uma possibilidade, certo?
+788	Squeeze it onto bread.	Esprema sobre o pão.
+789	And then what is squeezed into the bread and absorbed has the status of wine for any	E depois, o que foi espremido no pão e absorvido tem o status de vinho para qualquer
+790	matter.	assunto.
+791	Make Kiddush over this liquid, suck the wine out of this slice of bread, a revi'it,	Faça o Kidush sobre esse líquido, sugue o vinho dessa fatia de pão, uma revi'it,
+792	and there you have Kiddush.	e aí está, você tem o Kidush.
+793	Then make HaMotzi on regular challot.	Depois faça HaMotsi sobre chalot normais.
+794	That's all.	É só isso.
+795	Say a man says, listen, he took a children's stick now,	Digamos que um homem diga: escute, ele pegou agora um palito de criança,
+796	like one makes a popsicle, and puts frozen wine in it.	como se faz um picolé, e colocou ali vinho congelado.
+797	He froze this stick now.	Congelou esse palito agora.
+798	What blessing does one make on such a popsicle?	Que bênção se faz sobre um picolé assim?
+799	Hagafen, or not Hagafen?	Hagafen, ou não Hagafen?

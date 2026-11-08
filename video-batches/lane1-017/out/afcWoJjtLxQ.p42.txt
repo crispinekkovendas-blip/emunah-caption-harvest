@@ -1,0 +1,38 @@
+1680	Post office, an account number, an envelope with a form: "Make a deposit there."	Do Correio, um número de conta, um envelope com um formulário: "Faça um depósito ali."
+1681	Is it permitted to take the deposit form and the envelope?	É permitido pegar o formulário de depósito e o envelope?
+1682	It is muktzeh in every respect.	É muktzeh em todos os aspectos.
+1683	It is forbidden to touch the post office payment slip, and it is forbidden	É proibido tocar no comprovante de pagamento do Correio, e é proibido
+1684	to touch the envelope too, because it is a base for a forbidden item.	tocar também no envelope, porque ele é base para algo proibido.
+1685	And that gabbai is an ignoramus, an am haaretz. One may not do such a thing, period.	E esse gabai é um ignorante, um am haaretz. Não se pode fazer uma coisa dessas, ponto.
+1686	Especially a person... now there is something else: a gabbai comes, you paid him on a	Principalmente uma pessoa... agora há outra coisa: vem o gabai, você pagou a ele num
+1687	weekday.	dia de semana.
+1688	Only, you sent your son to pay him, you paid on a weekday, but he didn't see you.	Só que você mandou seu filho pagar, você pagou num dia de semana, mas ele não viu você.
+1689	You came to the synagogue on Shabbat, he takes out the receipt, he gives you the receipt on Shabbat.	Você veio à sinagoga no Shabat, ele tira o recibo, ele lhe dá o recibo no Shabat.
+1690	Is it forbidden for you to touch the receipt?	É proibido para você tocar no recibo?
+1691	Why?	Por quê?
+1693	the intention.	a intenção.
+1695	the gabbai.	gabai também não.
+1696	And the bottom line, may we all be healthy: a person went to the health fund on Shabbat.	E o resumo disso, que todos sejamos saudáveis: um homem foi ao posto da caixa de saúde no Shabat.
+1697	He went there, the doctor filled out a form for him for a refund, afterwards at the health fund.	Foi lá, o médico preencheu para ele um formulário de reembolso, depois, na caixa de saúde.
+1698	He went to the emergency room, they filled out a form for a refund.	Foi ao pronto-socorro, preencheram um formulário de reembolso.
+1699	Is he permitted to take the form, or is it forbidden?	Ele pode pegar o formulário ou é proibido?
+1700	It is forbidden for him to take this form.	É proibido para ele pegar esse formulário.
+1701	It is forbidden for him to carry this form.	É proibido para ele carregar esse formulário.
+1702	You can tell him, "Tomorrow I'll stop by."	Você pode dizer a ele: "Amanhã eu passo aqui."
+1703	You may not touch it, it is muktzeh.	Você não pode tocar nisso, é muktzeh.
+1704	And if he is a Jew, it is also a desecration of HaShem's Name; you caused him to desecrate Shabbat.	E se ele é judeu, isso também é um chilul HaShem; você o fez profanar o Shabat.
+1705	It is forbidden for you.	É proibido para você.
+1706	And if it is a Jew who brought it to you, it may be that even after Shabbat you are forbidden to use it and receive the refund.	E se foi um judeu que o trouxe a você, é possível que mesmo depois do Shabat seja proibido usá-lo e receber o reembolso.
+1707	What permission do you have to receive a refund form?	Que permissão você tem para receber um formulário de reembolso?
+1708	"Come on Sunday," try telling him that.	"Venha no domingo", tente dizer isso a ele.
+1709	On Shabbat you caused it, and if he is a Jew, you cause a store to be open on Shabbat.	No Shabat você foi o causador, e se ele é judeu, você faz com que uma loja abra no Shabat.
+1710	A man once entered a store on Shabbat and stole a watch.	Um homem entrou numa loja no Shabat e roubou um relógio.
+1711	He broke in, stole a watch.	Arrombou e roubou um relógio.
+1712	A watch priced at a thousand shekels.	Um relógio cujo preço é mil shekels.
+1713	That's all, he stole a watch like that.	Só isso, roubou um relógio assim.
+1714	After a time the thief repented, came to the store owner and said to him, "Listen, I stole a watch from you,	Depois de um tempo o ladrão fez teshuvá, foi ao dono da loja e disse: "Escute, eu roubei um relógio seu,
+1715	take the money."	pegue o dinheiro."
+1716	Now the owner is in doubt whether he is permitted to take	Agora o dono fica em dúvida se lhe é permitido pegar
+1717	the money.	o dinheiro.
+1718	The cost of the watch is 600 shekels.	O custo do relógio é 600 shekels.
+1719	He sells it for 1,000 shekels.	Ele o vende por 1.000 shekels.

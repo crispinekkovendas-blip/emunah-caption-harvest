@@ -1,0 +1,38 @@
+1800	You are called a Shabbat desecrator.	Você é chamado de profanador da Shabat.
+1801	It is forbidden to touch a horse, right Eran, where are you?	É proibido tocar num cavalo, certo, Eran, onde você está?
+1802	An elephant, is it permitted to touch?	Num elefante, é permitido tocar?
+1803	Only in the room.	Só no quarto.
+1804	It is forbidden to touch animals on Shabbat.	É proibido tocar em animais na Shabat.
+1805	Now a man comes and steals your poodle, steals from you.	Agora vem um homem e rouba o seu poodle, rouba de você.
+1806	He steals your watch, a watch isn't muktzeh, but he steals something that is muktzeh along with the watch,	Ele rouba o seu relógio — relógio não é muktzeh —, mas rouba algo que é muktzeh junto com o relógio,
+1807	the cufflinks.	as abotoaduras.
+1808	What do you do now on Shabbat in such a situation?	O que se faz agora na Shabat numa situação dessas?
+1809	Are you allowed to snatch it? That rabbi didn't snatch; he said, "I'll sell it to you," and so on.	Você pode agarrá-lo? Aquele rabino não agarrou; disse: "Eu vendo para você", e assim por diante.
+1810	That rabbi didn't snatch because he figured that if he treated the thief this way, he	Aquele rabino não agarrou porque calculou que, se tratasse o ladrão dessa maneira, ele
+1811	would repent.	se arrependeria.
+1812	And indeed the rabbi achieved his goal, but not everyone is that rabbi.	E de fato o rabino alcançou o seu objetivo, mas nem todos são aquele rabino.
+1813	According to halachah, you may snatch the muktzeh from his hand on Shabbat, whether it's cufflinks, a lighter,	Segundo a halachá, é permitido arrancar da mão dele o muktzeh na Shabat, sejam abotoaduras, um isqueiro,
+1814	or any muktzeh item; you may rescue it so that the thief	ou qualquer objeto muktzeh; é permitido resgatá-lo para que o ladrão
+1815	won't get used to stealing and go on to more serious acts, because if he gets away with it with you, tomorrow he'll steal from	não se acostume a roubar e passe a atos mais graves, pois se der certo com você, amanhã ele roubará do
+1818	this muktzeh in your hands and take it in your hand.	esse muktzeh nas suas mãos e levá-lo na mão.
+1819	Only once you're holding the cufflinks, you may not set them down on the floor along the way and then pick them up again; rather,	Só que, uma vez que você está segurando as abotoaduras, não pode pousá-las no chão pelo caminho e depois pegá-las de novo; ao contrário,
+1820	as they are held in the hand, you go straight on, because muktzeh on Shabbat, once it is in your hand,	do jeito que estão na mão, você segue direto, pois o muktzeh na Shabat, depois que está na sua mão,
+1821	you may stay with it until you put it in its place, but you may not put it down.	você pode ficar com ele até colocá-lo no lugar, mas não pode largá-lo antes.
+1822	For example, a man touched a button; he goes to button his shirt on Shabbat, he goes to button it and suddenly	Por exemplo, um homem tocou num botão; vai abotoar a camisa na Shabat, vai abotoar e de repente
+1823	finds the button in his hand, torn off somehow.	percebe que o botão, de algum jeito arrancado, está na sua mão.
+1824	The button is in his hand.	O botão está na mão dele.
+1825	Now he looks: the button is muktzeh.	Agora ele olha: o botão é muktzeh.
+1826	It is forbidden to touch a button on Shabbat.	É proibido tocar num botão na Shabat.
+1827	But it's already in your hand.	Mas ele já está na sua mão.
+1828	If it's already in your hand, you don't have to throw it immediately.	Se já está na sua mão, não precisa jogá-lo imediatamente.
+1829	You can walk with it to the closet in the house, open it and put it	Você pode ir com ele até o armário da casa, abrir e colocá-lo
+1830	there.	lá.
+1831	If it's already in your hand.	Se já está na sua mão.
+1832	But to put it down along the way and then take it from here to there, and from here to there, that you may not do.	Mas pousá-lo pelo caminho e depois pegá-lo de um lugar para outro, e de um para outro, isso você não pode.
+1833	Right?	Certo?
+1834	Muktzeh may not be moved, but once it has already come to you, you may take it straight on.	Muktzeh não pode ser carregado, mas uma vez que já chegou até você, é permitido levá-lo direto.
+1835	There was a story of a man, see what a lesson there is in this.	Houve um caso de um homem; vejam que lição há nisso.
+1836	A man who forced his daughter, yes, hold on.	De um homem que obrigou a filha, sim, esperem.
+1837	A story of a man who forced his daughter to stand in his shop and sell for him on Shabbat.	O caso de um homem que obrigou a filha a ficar na loja dele e vender para ele na Shabat.
+1838	To stand in his shop and sell for him on Shabbat.	A ficar na loja dele e vender para ele na Shabat.
+1839	The man had a shop; he said to his daughter, you must sell, open the shop	O homem tinha uma loja; disse à filha: você tem que vender, abrir a loja
