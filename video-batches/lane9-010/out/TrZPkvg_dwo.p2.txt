@@ -1,0 +1,120 @@
+240	Rivka, Esther daughter of Chana.	Rivka, Ester filha de Chana.
+241	Serach daughter of Batya, Yisrael son of Miriam,	Serach filha de Batya, Yisrael filho de Miriam,
+242	Yisrael son of Chava, Aharon son of Rivka, Bitzion son of	Yisrael filho de Chava, Aharon filho de Rivka, Bitzion filho de
+243	…	…
+244	Dan son of Arima, Ovadia son of Chatun,	Dan filho de Arima, Ovadia filho de Chatun,
+245	Avraham son of Menashe, Ezra son of Geula,	Avraham filho de Menashe, Ezra filho de Geula,
+246	Tzfuat, Inbal daughter of Simcha, Yehu Zangi HaCohen son of Sevicha,	Tzfuat, Inbal filha de Simcha, Yehu Zangi HaCohen filho de Sevicha,
+247	Moshe son of Rosa.	Moshe filho de Rosa.
+248	May it be so for all the children of Israel, and let us say amen.	Que assim seja para todos os filhos de Israel, e digamos amém.
+249	Eliana Tamar daughter of Rachel, Talya daughter of Yafa, Aliza daughter of Ima Shoshana,	Eliana Tamar filha de Rachel, Talya filha de Yafa, Aliza filha de Ima Shoshana,
+250	Parvin, Dalia daughter of Yochanan, Sasson Chaim son of Zahava, Sa'adia, Binyah	Parvin, Dalia filha de Yochanan, Sasson Chaim filho de Zahava, Sa'adia, Binyah
+251	daughter of Sigal Chava, Sarah daughter of Ginia.	filha de Sigal Chava, Sara filha de Ginia.
+252	Yes, we are in Tractate Ohalot.	Sim, estamos no tratado de Ohalot.
+253	Chapter 12, Mishnah 5.	Capítulo 12, Mishná 5.
+254	I told you he would come, Avi Ne'eman, may HaShem protect him.	Eu disse que ele viria, Avi Neeman, que HaShem o proteja.
+255	The next long one,	A próxima, comprida,
+256	the next long one.	a próxima, comprida.
+257	The beams of the house and of the upper room that have no filling on the ceiling,	As vigas da casa e do andar superior que não têm enchimento no teto,
+258	that have no plaster on them, only boards.	que não têm reboco, apenas tábuas.
+259	Now, between one beam and the next there is a gap, and the upper beams are aligned	Agora, entre uma viga e outra há um vão, e as vigas de cima estão alinhadas
+260	with the lower ones.	com as de baixo.
+261	Impurity beneath one of them, the space beneath it is impure.	Impureza debaixo de uma delas, o espaço debaixo dela é impuro.
+262	Between the lower and the upper, the space between them is impure.	Entre a de baixo e a de cima, o espaço entre elas é impuro.
+263	Above the upper one, the open space is impure.	Por cima da de cima, o espaço aberto é impuro.
+264	Below, no.	Embaixo, não.
+265	If the upper ones were between the lower ones,	Se as de cima estavam entre as de baixo,
+266	that is, the beams were not aligned,	ou seja, as vigas não estavam alinhadas,
+267	impurity beneath one of them, beneath all of them is impure.	impureza debaixo de uma delas, debaixo de todas é impuro.
+268	Mishnah 6: a beam that is	Mishná 6: uma viga que está
+269	placed from wall to wall,	posta de parede a parede,
+270	and impurity beneath it: if it has the width of a handbreadth, if the beam is wide, it brings	e impureza debaixo dela: se tem a largura de um palmo, se a viga é larga, ela leva
+271	the impurity under all of it, under all of it.	a impureza para debaixo dela toda, debaixo de toda ela.
+272	If not, the impurity bursts upward and bursts downward.	Se não, a impureza rompe para cima e rompe para baixo.
+273	How much must its circumference be to have the width of a handbreadth? When it is round, its circumference is three handbreadths.	Qual deve ser a sua circunferência para ter a largura de um palmo? Quando é redonda, sua circunferência é de três palmos.
+274	That is the width of a handbreadth.	Essa é a largura de um palmo.
+275	That is the rule.	Essa é a regra.
+276	That is, if it is square, four handbreadths around.	Ou seja, se é quadrada, quatro palmos de perímetro.
+277	For the square exceeds the circle by a quarter.	Pois o quadrado excede o círculo em um quarto.
+278	We have reached Mishnah 7, good.	Chegamos à Mishná 7, ótimo.
+279	Yes, yes, right now we will go to the Gemara.	Sim, sim, agora mesmo vamos para a Guemará.
+280	What?	O quê?
+281	Ah, who with whom?	Ah, quem com quem?
+282	No, he learned, he learned.	Não, ele estudou, ele estudou.
+283	He tries to learn Torah.	Ele se esforça para estudar Torá.
+284	Yes, gentlemen, for the success of...	Sim, senhores, pelo sucesso de...
+285	Chazva daughter of Leah, Lilif Rabin, Yosi son of Edna,	Chazva filha de Leah, Lilif Rabin, Yosi filho de Edna,
+286	Doron son of Tova, Sarah daughter of Miriam, and Ofer	Doron filho de Tova, Sara filha de Miriam, e Ofer
+287	son of Tova, Chaiva, Doron son of Tova, Sarah daughter of Miriam, Bat Sheva,	filho de Tova, Chaiva, Doron filho de Tova, Sara filha de Miriam, Bat Sheva,
+288	daughter of Naima.	filha de Naima.
+289	And Ne'eman?	E Neeman?
+290	No, what is your name?	Não, qual é o seu nome?
+291	Eliyahu son of Oded, and Chanoni.	Eliyahu filho de Oded, e Chanoni.
+292	Eliyahu son of Oded and Chanoni, okay, great hours.	Eliyahu filho de Oded e Chanoni, certo, grandes horas.
+293	We already said that, now it is Chaim.	Já dissemos isso, agora é Chaim.
+294	Great hours, yes, gentlemen, the Beit Midrash prayer.	Grandes horas, sim, senhores, a oração da casa de estudos.
+295	May you merit mitzvot, we will come every day.	Que mereçam mitsvot, viremos todos os dias.
+296	How, what, what, Guy?	Como, o quê, o quê, Guy?
+297	Hey, son of Esto.	Ei, filho de Esto.
+298	May you merit mitzvot.	Que mereçam mitsvot.
+299	Who are we?	Quem somos nós?
+300	Great.	Ótimo.
+301	I have set Adonai before me always, for He is at my right hand, I shall not be moved.	Coloquei Adonai diante de mim sempre, pois Ele está à minha direita, não vacilarei.
+302	…	…
+303	…	…
+304	…	…
+305	…	…
+306	…	…
+307	And save us from every stumbling block and error, in the laws of prohibition and permission and in monetary law, and keep us from harm in our learning.	E livra-nos de todo obstáculo e erro, nas leis do proibido e do permitido e nas leis monetárias, e guarda-nos de dano no nosso estudo.
+308	Open my eyes, that I may behold wondrous things out of Your Torah.	Abre meus olhos para que eu contemple as maravilhas da Tua Torá.
+309	…	…
+310	…	…
+311	…	…
+312	…	…
+313	…on earth. Yes, let us open page 35.	…na terra. Sim, vamos abrir a página 35.
+314	Page 35, at the top, in the Mishnah.	Página 35, no alto, na Mishná.
+315	Today we begin with a story.	Hoje começamos com um caso.
+316	You gore, what happened here?	Você marra, o que aconteceu aqui?
+317	A story about a ram of the flock,	Um caso sobre um carneiro do rebanho,
+318	old, its fleece hanging loose, and a gentile officer saw it,	velho, com a lã pendurada, e um oficial gentio o viu,
+319	one, and he said: What is the matter with this one?	e disse: O que há com este?
+320	They told him: It is a firstborn, and it may only be slaughtered if it has a blemish. He took	Disseram-lhe: É um primogênito, e só pode ser abatido se tiver um mum. Ele pegou
+321	a spike and pierced its ear. The case came before the Sages, and they permitted it.	uma estaca e furou-lhe a orelha. O caso chegou aos Sábios, e eles permitiram.
+322	And after they permitted it, he went and pierced the ears of other firstborns, and they forbade.	E depois que permitiram, ele foi e furou as orelhas de outros primogênitos, e eles proibiram.
+323	There was a ram, a large one among the rams of the flock, and it was a firstborn,	Havia um carneiro, um grande entre os carneiros do rebanho, e era primogênito,
+324	a firstborn was born.	nasceu um primogênito.
+325	They waited for it to develop a blemish, to slaughter it.	Esperaram que lhe surgisse um mum, para abatê-lo.
+326	And its hair was hanging down, already from old age; it had some hair, and it is forbidden to shear it.	E a lã pendia, já de tão velho; tinha alguma lã, e é proibido tosquiá-lo.
+327	A firstborn, it is forbidden to shear it.	Um primogênito, é proibido tosquiá-lo.
+328	It is holy.	Ele é sagrado.
+329	And they waited for a blemish to occur in it.	E esperavam que lhe surgisse um mum.
+330	No blemish occurs.	Nenhum mum surge.
+331	It is safe from every kind of problem.	Ele está a salvo de todo tipo de problema.
+332	They put it in a rough place, still nothing.	Puseram-no num lugar áspero, e nada também.
+333	Whatever they did with it, no blemish occurs.	Por mais que fizessem com ele, nenhum mum surge.
+334	An officer saw it, appointed by the king, he was a gentile.	Um oficial o viu, nomeado pelo rei, era gentio.
+335	He said, what is the matter with...	Ele disse: o que há com...
+336	what is wrong with this one?	o que há com este?
+337	You let it grow so old?	Vocês o deixaram envelhecer tanto?
+338	This lamb, its meat will be tough?	Este cordeiro, a carne dele vai ficar dura?
+339	What are you doing?	O que vocês estão fazendo?
+340	Why all this?	Para que tudo isso?
+341	They told him: It is a firstborn, and it may only be slaughtered if it has a blemish.	Disseram-lhe: É um primogênito, e só pode ser abatido se tiver um mum.
+342	It cannot be slaughtered unless it has a blemish.	Não se pode abatê-lo a não ser que tenha um mum.
+343	He took a spike and pierced its ear, took his sword, gave it a stab,	Pegou uma estaca e furou-lhe a orelha, pegou a espada, deu-lhe uma estocada,
+344	and so made it blemished.	e assim o tornou com mum.
+345	The case came to the Sages: if one deliberately makes a blemish, it is forbidden to slaughter	O caso chegou aos Sábios: se alguém faz um mum de propósito, é proibido abatê-lo;
+346	it; one must wait until another blemish occurs, or none at all, as we learned yesterday.	é preciso esperar que surja outro mum, ou nenhum, como estudamos ontem.
+347	But he did not know at all that this...	Mas ele nem sabia que isso...
+348	would be permitted to them and all; he did not think of it, so the Sages permitted it.	seria permitido a eles e tudo mais; não pensou nisso, por isso os Sábios permitiram.
+349	He went and did likewise, he pierced the ears of other firstborns.	Ele foi e fez o mesmo, furou as orelhas de outros primogênitos.
+350	And they forbade, sorry.	E eles proibiram, desculpem.
+351	The Sages forbade slaughtering those firstborns for this blemish.	Os Sábios proibiram abater esses primogênitos por esse mum.
+352	Why? Did he do so in order to please Israel?	Por quê? Ele fez isso para dar satisfação a Israel?
+353	At first he did not know, he did not do it in order to please them.	No início ele não sabia, não fez para agradá-los.
+354	Now it was to please them, and so it was done again.	Agora era para agradá-los, e por isso foi feito de novo.
+355	There was a story once: children playing in the field	Houve um caso certa vez: crianças brincando no campo
+356	tied the tails of lambs to one another, the tails of the lambs,	amarraram as caudas de cordeiros umas às outras, as caudas dos cordeiros,
+357	one to the other. Yes, this was in Jaffa, the children were unruly, there were	uma na outra. Sim, isso foi em Jafa, as crianças eram bagunceiras, havia ali
+358	many lambs; they tied the tails together, and the tail of one	muitos cordeiros; amarraram as caudas, e a cauda de um
+359	of them was torn off, poor thing, and it is a firstborn. The case came	deles se soltou, coitado, e ele é primogênito. O caso chegou

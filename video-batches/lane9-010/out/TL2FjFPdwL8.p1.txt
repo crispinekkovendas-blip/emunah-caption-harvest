@@ -1,0 +1,9 @@
+120	The lion will eat you, but you can eat the locust.	O leão te devora, mas o gafanhoto você pode comer.
+121	How can you eat it?	Como você pode comê-lo?
+122	The locust covers...	O gafanhoto cobre...
+123	kilometers upon kilometers,	quilômetros e mais quilômetros,
+124	clouds of locusts.	nuvens de gafanhotos.
+125	There is quantitative strength, there is qualitative strength.	Há força quantitativa, há força qualitativa.
+126	Quantity also says something.	A quantidade também diz algo.
+127	Goodbye.	Até logo.
+128	That's it, we're done.	Pronto, terminamos.

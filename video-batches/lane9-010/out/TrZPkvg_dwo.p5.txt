@@ -1,0 +1,120 @@
+600	If he's suspect on this, we don't judge him, he can't sit as a judge,	Se ele é suspeito nisso, não o julgamos, ele não serve de juiz,
+601	and he can't testify even for his fellow. There's no such thing.	nem pode testemunhar sequer pelo companheiro. Não existe isso.
+602	He isn't trusted, neither for himself nor for his fellow.	Não é confiável, nem para si mesmo nem para o companheiro.
+603	They disagree: Rabbi Yochanan	Eles discordam: Rabi Yochanan
+604	and Rabbi Elazar. One said that shepherds of Israelites, and of cohanim, are trusted.	e Rabi Elazar. Um disse que os pastores de israelitas, e de cohanim, são confiáveis.
+605	Why?	Por quê?
+606	Because we don't suspect a favor. Shepherds of cohanim over Israelites are not trusted, it says.	Porque não suspeitamos de um favor. Pastores de cohanim, sobre animais de israelitas, não são confiáveis, diz.
+607	He says: since he has toiled, he won't leave it to me and will give it to another. So he is not	Ele diz: como ele se esforçou, não vai deixar para mim e dará a outro. Então ele não é
+608	trusted. What is going on here?	confiável. O que está acontecendo aqui?
+609	We said shepherds of Israelites are trusted. Rabbi Yochanan and Rabbi Elazar, one said,	Dissemos que pastores de israelitas são confiáveis. Rabi Yochanan e Rabi Elazar, um disse,
+610	how do we explain the Mishnah?	como devemos explicar a Mishná?
+611	Shepherds of Israelites, meaning that they are Israelites, even when they tend	Pastores de israelitas, ou seja, que eles são israelitas, mesmo quando cuidam
+612	the cohanim's animals, are trusted to testify about the blemish and say it fell on its own.	dos animais dos cohanim, são confiáveis para testemunhar sobre o mum e dizer que ele surgiu sozinho.
+613	Why?	Por quê?
+614	Because we don't suspect a favor.	Porque não suspeitamos de um favor.
+615	We aren't concerned that it was done by a person, and that the shepherd lies in order to permit the bechor	Não nos preocupamos que tenha sido feito por uma pessoa e que o pastor minta para permitir o bechor
+616	for slaughter.	para o abate.
+617	Why?	Por quê?
+618	Because he wants the cohen who owns it to reward him.	Porque ele quer que o cohen dono o recompense.
+619	He says, if I permit it for him, he'll give me some portion.	Ele diz: se eu o permitir para ele, ele me dará alguma porção.
+620	But he has no share in it; this isn't about a person who would	Mas ele não tem parte nisso; não se trata de uma pessoa que
+621	receive some gift, or some cloak,	receberia algum presente, ou algum manto,
+622	or some stipend. That isn't the concern.	ou algum pagamento. Essa não é a preocupação.
+623	But shepherds of cohanim, over Israelites' animals,	Mas pastores de cohanim, sobre animais de israelitas,
+624	are not trusted to testify that the blemish came on its own.	não são confiáveis para testemunhar que o mum surgiu sozinho.
+625	Why?	Por quê?
+626	Because this cohen shepherd says: since he has toiled, he won't leave it to me and will give it to others.	Porque este pastor cohen diz: como ele se esforçou, não vai deixar para mim e dará a outros.
+627	Now that it has a blemish, he'll give it to me. He can't use it anyway, he'll give it to me,	Agora que tem mum, ele o dará a mim. Ele não pode usá-lo de qualquer modo, vai me dar,
+628	he won't abandon me, I tend it and I toil. So he is not trusted.	não vai me abandonar, eu cuido dele e me esforço. Então ele não é confiável.
+629	Of course!	Claro!
+630	It is forbidden to eat it.	É proibido comer isso.
+631	He said he'd give it to him, because he works for him.	Ele disse que o daria a ele, porque trabalha para ele.
+632	And a cohen for a cohen.	E um cohen em favor de um cohen.
+633	A cohen shepherd isn't trusted to testify about a blemish for another cohen whose animals he tends.	Um pastor cohen não é confiável para testemunhar sobre um mum para outro cohen cujos animais ele cuida.
+634	Even though he has no profit in the bechor.	Mesmo que não tenha lucro no bechor.
+635	We suspect reciprocity.	Suspeitamos de reciprocidade.
+636	He'll speak for him today, he'll speak for him tomorrow.	Hoje ele fala por ele, amanhã ele fala por ele.
+637	He'll testify falsely for me too, about mine.	Ele testemunhará falsamente por mim também, sobre o meu.
+638	We suspect reciprocity.	Suspeitamos de reciprocidade.
+639	And now Rabban Shimon ben Gamliel said he is trusted about his fellow's,	E agora Rabban Shimon ben Gamliel disse que ele é confiável sobre o do companheiro,
+640	and not trusted about his own. The cohen is trusted about his fellow's, not about his own.	e não é confiável sobre o seu próprio. O cohen é confiável sobre o do companheiro, não sobre o seu.
+641	And now Rabbi Meir says: one suspected on a matter is neither judged nor testified for.	E agora Rabi Meir diz: o suspeito em um assunto não o julgam nem o aceitam como testemunha.
+642	One of them explains the other Mishnah differently:	Um deles explica a outra Mishná de outro modo:
+643	shepherds of Israelites and of cohanim are trusted to say the blemish came on its own	pastores de israelitas e de cohanim são confiáveis para dizer que o mum surgiu sozinho
+644	and was not made by a person.	e não foi feito por uma pessoa.
+645	He says: the owner won't pass over a Torah scholar and give it to me.	Ele diz: o dono não deixará de lado um estudioso da Torá para dar a mim.
+646	This man, the cohen who tends an Israelite's animals,	Este homem, o cohen que cuida dos animais de um israelita,
+647	the Israelite owner won't leave the bechor to a scholar cohen and give it to an ignoramus. He sees	o dono israelita não deixará o bechor a um cohen sábio para dar a um ignorante. Ele vê
+648	that after all there is always a scholar cohen, and he will surely prefer to give the bechor	que, afinal, sempre há um cohen sábio, e certamente preferirá dar o bechor
+649	to a scholar cohen.	a um cohen sábio.
+650	So he is not suspected of testifying falsely.	Então ele não é suspeito de testemunhar falsamente.
+651	But shepherds of cohanim who are Israelites, even though they are Israelites, tend cohanim's animals, and even so they	Mas pastores de cohanim que são israelitas, mesmo sendo israelitas, cuidam de animais de cohanim, e mesmo assim eles
+652	are not trusted.	não são confiáveis.
+653	Therefore, because of the favor, we suspect the blemish was made and the shepherd	Portanto, por causa do favor, suspeitamos que o mum foi feito e que o pastor
+654	is lying, because he wants the cohen to support him from this meat.	está mentindo, porque quer que o cohen o sustente com essa carne.
+655	All the more so for a cohen: we are concerned about reciprocity.	Ainda mais no caso de um cohen: temos receio de reciprocidade.
+656	And all the more so a cohen shepherd who testifies about a blemish for another cohen whose animals he tends,	E mais ainda um pastor cohen que testemunha sobre um mum para outro cohen cujos animais ele cuida,
+657	that he isn't trusted. Why?	que não é confiável. Por quê?
+658	Because of reciprocity.	Por causa da reciprocidade.
+659	This cohen says in his heart: today for him, tomorrow he'll do the same for me.	Este cohen diz em seu coração: hoje por ele, amanhã ele fará o mesmo por mim.
+660	And we suspect: he did me a favor.	E suspeitamos: ele me fez um favor.
+661	All the more so, a cohen for a cohen.	Ainda mais, um cohen por um cohen.
+662	Perhaps "favor" means he lies so that the owners will support him from the meat.	Talvez "favor" signifique que ele mente para que os donos o sustentem com a carne.
+663	Also reciprocity, also reciprocity, yes.	Também reciprocidade, também reciprocidade, sim.
+664	And according to Rabban Shimon, he is trusted about his fellow's, whether	E segundo Rabban Shimon, ele é confiável sobre o do companheiro, quer
+665	he tends his own or not. He's trusted about his fellow's, no concern that he'd lie so that the other will testify for him another	cuide do seu ou não. É confiável sobre o do companheiro, sem receio de que minta para que o outro testemunhe por ele numa outra
+666	time.	vez.
+667	And he isn't trusted about his own.	E não é confiável sobre o seu próprio.
+668	And according to Rabbi Meir, one suspected on a matter is neither judged nor testified for.	E segundo Rabi Meir, o suspeito em um assunto não o julgam nem o aceitam como testemunha.
+669	There's no such thing.	Não existe isso.
+670	Those who tend Israelites' animals, even if they are cohanim,	Os que cuidam de animais de israelitas, mesmo que sejam cohanim,
+671	According to the one who said shepherds of Israelites, even cohanim, that is the view of Rabbi	Segundo quem disse pastores de israelitas, mesmo cohanim, essa é a opinião de Rabi
+672	Meir: one suspected on a matter is neither judged nor testified for.	Meir: o suspeito em um assunto não o julgam nem o aceitam como testemunha.
+673	But according to the one who said cohen shepherds over Israelites are not trusted, what does Rabbi Meir	Mas segundo quem disse que pastores cohanim sobre israelitas não são confiáveis, o que Rabi Meir
+674	teach us? That is the first Tanna. Here the Gemara asks; this is clear.	nos ensina? Esse é o primeiro Tana. Aqui a Guemará pergunta; isso é claro.
+675	Why? According to the one who said shepherds of Israelites, as we said in the Mishnah, shepherds of Israelites who are	Por quê? Segundo quem disse pastores de israelitas, como dissemos na Mishná, pastores de israelitas que são
+676	cohanim, who see animals of Israelites who are cohanim, then for the first Tanna they are trusted to testify about	cohanim, que cuidam de animais de israelitas, então para o primeiro Tana eles são confiáveis para testemunhar sobre
+677	an Israelite's bechor. That is Rabbi Meir's view, who disagrees with the first Tanna, who says it is permitted:	o bechor de um israelita. Essa é a opinião de Rabi Meir, que discorda do primeiro Tana, que diz que é permitido:
+678	they are trusted. One suspected on a matter is neither judged nor testified for. Therefore cohanim, who are suspected about	eles são confiáveis. O suspeito em um assunto não o julgam nem o aceitam como testemunha. Portanto cohanim, que são suspeitos sobre
+679	bechorot, are not accepted as witnesses about them. But according to the one who said	bechorot, não são aceitos como testemunhas sobre eles. Mas segundo quem disse
+680	that cohen shepherds over Israelites are not trusted,	que pastores cohanim sobre israelitas não são confiáveis,
+681	cohen shepherds, what does "shepherds of Israelites" mean?	pastores cohanim, o que significa "pastores de israelitas"?
+682	Cohanim who tend Israelites' animals.	Cohanim que cuidam dos animais de israelitas.
+683	And they are cohen tenders, cohanim over Israelites.	E eles são pastores cohanim, cohanim sobre israelitas.
+684	They are cohanim in an Israelite's house, tending his animals.	São cohanim na casa de um israelita, cuidando de seus animais.
+685	According to the first Tanna, they aren't trusted to testify about the bechor?	Segundo o primeiro Tana, não são confiáveis para testemunhar sobre o bechor?
+686	What does Rabbi Meir add that we hear?	O que Rabi Meir acrescenta que ouvimos?
+687	It's the same thing, that is the first Tanna: cohanim are not trusted.	É a mesma coisa, é o primeiro Tana: cohanim não são confiáveis.
+688	The difference between them is the case of Rabbi Yehoshua ben Kafusai.	A diferença entre eles é o caso de Rabi Yehoshua ben Kafusai.
+689	There is a difference between the first Tanna and Rabbi Meir: what Rabbi Yehoshua ben Kafusai said.	Há uma diferença entre o primeiro Tana e Rabi Meir: o que Rabi Yehoshua ben Kafusai disse.
+690	We learned: Rabbi Yehoshua ben Kafusai says, a bechor that developed	Aprendemos: Rabi Yehoshua ben Kafusai diz: um bechor que desenvolveu
+691	a blemish, in a cohen's house, needs two people from the market to testify about it,	um mum, na casa de um cohen, precisa de duas pessoas do mercado para testemunhar sobre ele,
+692	who are not members of the cohen's household.	que não sejam da casa do cohen.
+693	Or even two cohanim.	Ou até dois cohanim.
+694	If they aren't of his household, they are trusted.	Se não são da casa dele, são confiáveis.
+695	Rabban Shimon ben Gamliel says, even his son and even his household	Rabban Shimon ben Gamliel diz: até o filho dele e até a casa dele
+696	are trusted to testify about it; there's no need for people from the market.	são confiáveis para testemunhar sobre ele; não é preciso gente do mercado.
+697	Rabbi Yosi says, even ten who are of his household do not testify about it.	Rabi Yosi diz: mesmo dez que sejam da casa dele não testemunham sobre ele.
+698	One must bring from the market.	É preciso trazer do mercado.
+699	But even one witness, you see?	Mas até uma só testemunha, está vendo?
+700	But from the market, one need not bring even two witnesses; one witness is enough.	Mas do mercado não é preciso trazer nem duas testemunhas; uma testemunha basta.
+701	Even according to Rabbi Yehoshua ben Kafusai.	Mesmo segundo Rabi Yehoshua ben Kafusai.
+702	Our Mishnah: Rabbi Yehoshua ben Kafusai already says that cohanim from the market are trusted.	Nossa Mishná: Rabi Yehoshua ben Kafusai já diz que cohanim do mercado são confiáveis.
+703	What you said, that they aren't trusted, is only about cohanim who tend an Israelite's bechor, who are not trusted,	O que você disse, que não são confiáveis, é só sobre cohanim que cuidam do bechor de um israelita, que não são confiáveis,
+704	perhaps because they want the owners to give them the bechor; or cohanim who tend a	talvez porque querem que os donos lhes deem o bechor; ou cohanim que cuidam do bechor de um
+705	cohen's bechor, who aren't trusted; we fear reciprocal lying, this one testifying for that one and that one for this one.	cohen, que não são confiáveis; receamos mentira recíproca, este testemunhando por aquele e aquele por este.
+706	But there is no such fear except with a cohen who tends it,	Mas não há esse receio, a não ser com um cohen que cuida dele,
+707	since they are with him; but two cohanim from the market aren't suspected. Rabbi Meir doesn't hold	pois estão com ele; mas dois cohanim do mercado não são suspeitos. Rabi Meir não segue
+708	like Rabbi Yehoshua ben Kafusai, but rather all cohanim are suspected about bechorot, and no one testifies for them	Rabi Yehoshua ben Kafusai, mas todos os cohanim são suspeitos sobre bechorot, e não são aceitos como testemunhas
+709	in any bird...	em nenhuma ave...
+710	That is what we have learned up to here.	Isso é o que aprendemos até aqui.
+711	Now another, almost the same, as Rav Katina said:	Agora outro, quase igual, como disse Rav Katina:
+712	a doubtful bechor of a dove among Israelites needs two from the market to testify about it.	um bechor duvidoso entre os israelitas precisa de dois do mercado para testemunhar sobre ele.
+713	Like whom?	Segundo quem?
+714	Like Rabbi Yehoshua ben Kafusai.	Segundo Rabi Yehoshua ben Kafusai.
+715	In line with this goes what he said: a doubtful bechor, a doubtful bechor	Na mesma linha vai o que ele disse: um bechor duvidoso, um bechor duvidoso
+716	born in an Israelite's house, which is eaten by an Israelite after it falls	nascido na casa de um israelita, que é comido por um israelita depois que cai
+717	with a blemish, and it fell with a blemish, needs two from the market to testify that the blemish was not made by	com um mum, e caiu com um mum, precisa de dois do mercado para testemunhar que o mum não foi feito por
+718	a person.	uma pessoa.
+719	And his household members are not trusted.	E os membros da casa dele não são confiáveis.
