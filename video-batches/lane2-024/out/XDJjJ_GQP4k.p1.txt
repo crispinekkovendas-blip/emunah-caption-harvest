@@ -1,0 +1,111 @@
+120	There's no half-suction.	Não existe meia sucção.
+121	There isn't.	Não existe.
+122	There's no half-pregnancy and no half-suction.	Não existe meia gravidez nem meia sucção.
+123	Got it.	Entendi.
+124	That's the situation.	É a situação.
+125	And there's no half-kiss either. Look what happens when I make a kissing motion.	E também não existe meio beijo. Olha o que acontece quando faço o movimento de um beijo.
+126	Like this.	Assim.
+127	Yes.	Sim.
+128	Do you want to kiss someone who's more clever?	Você quer beijar alguém mais esperto?
+129	Okay, that's enough about my affairs.	Certo, chega dos meus assuntos.
+130	We have more important things to talk about.	Temos coisas mais importantes para falar.
+131	By the way...	A propósito...
+132	What's the most important thing to talk about for you today?	O que é mais importante falar sobre você hoje?
+133	I'll tell you something.	Vou te dizer uma coisa.
+134	Yes.	Sim.
+135	I wrote an email that gave me a paralysis in the face.	Escrevi um e-mail sobre eu estar com paralisia no rosto.
+136	Yes.	Sim.
+137	Suddenly I get a message from the personal AI assistant, "HaInstinkt."	De repente recebo uma mensagem do assistente pessoal de IA, o "Instinto".
+138	Have you been exposed to this thing yet?	Você já conheceu isso?
+139	No.	Não.
+142	to me.	.
+143	Avri, I read in an email that you wrote that you have paralysis in your face and that you can't read.	Avri, li num e-mail que você escreveu que está com paralisia no rosto e que não consegue ler.
+144	I'm worried about you.	Estou preocupado com você.
+145	Have you already been examined by a doctor?	Você já foi examinado por um médico?
+146	If this is new and you haven't been examined, don't wait until morning.	Se isso é novo e você não foi examinado, não espere até de manhã.
+147	Sudden facial paralysis or a change in vision may be signs of a stroke.	Paralisia facial repentina ou mudança na visão podem ser sinais de AVC.
+148	Call emergency services now or ask someone near you to call an ambulance.	Ligue agora para os serviços de emergência ou peça a alguém perto de você para chamar uma ambulância.
+149	Don't drive yourself. You can answer me with a voice message.	Não dirija sozinho. Você pode me responder com uma mensagem de voz.
+150	Very powerful.	Muito forte.
+151	Roei, the account management approval that it found...	Roei, a aprovação de gerenciamento da conta que ele encontrou...
+152	Ah, okay, that's something else.	Ah, certo, isso é outra coisa.
+153	Very powerful, but does it work automatically on everything?	Muito forte, mas funciona automaticamente com tudo?
+154	Automatically, yes.	Automaticamente, sim.
+155	I haven't received one like that yet, thanks.	Eu ainda não recebi uma assim, obrigado.
+156	Because you haven't received yet...	Porque você ainda não recebeu...
+157	You haven't gotten into it yet.	Você ainda não entrou nisso.
+158	Because right now it's only in the rollout stage.	Porque agora está só na fase de implementação.
+159	If you want, I'll add you to it.	Se quiser, eu te incluo.
+160	No, I have no need for it.	Não, não preciso disso.
+161	My students put all kinds of AI in for me.	Meus alunos instalaram para mim vários tipos de IA.
+162	Really, all different kinds.	De verdade, de tipos bem diferentes.
+163	Among other things, they developed a private AI like this, just for the writings of Baal	Entre outras coisas, desenvolveram uma IA privada assim, só para os escritos de Baal
+164	HaSulam and such.	HaSulam e afins.
+165	Yes.	Sim.
+166	Good.	Bom.
+167	Very good.	Muito bom.
+168	Does it do a good job?	Ele faz um bom trabalho?
+169	What else?	O que mais?
+170	Yes, something.	Sim, alguma coisa.
+171	I mean, you can do whatever you want with it.	Quer dizer, você pode fazer o que quiser com ela.
+172	Yes.	Sim.
+173	That's very interesting.	É muito interessante.
+174	It can be a study partner, it's unbelievable.	Ela pode ser um parceiro de estudo, é inacreditável.
+175	Yes, yes.	Sim, sim.
+176	So, do you want to talk about politics?	Então, quer falar de política?
+177	I want to talk about everything, yes.	Quero falar de tudo, sim.
+178	I prepared topics.	Preparei temas.
+179	A minority government is taking shape.	Está se formando um governo de minoria.
+180	A government of 46 or 48 Knesset members.	Um governo de 46 ou 48 membros do Knesset.
+181	What about the Haredim?	E os haredim?
+184	Yes.	Sim.
+185	I say, in light of the terrible situation Israel is in, that it is in real existential danger.	Eu digo: diante da situação terrível em que Israel se encontra, ele está em real perigo existencial.
+186	Yes.	Sim.
+187	Truly existential danger.	Perigo realmente existencial.
+188	It's possible that the State of Israel will cease to exist, to that extent.	É possível que o Estado de Israel deixe de existir, a esse ponto.
+189	From what point do you see this?	De que ponto você vê isso?
+190	What's the trigger you see?	Qual é o gatilho que você vê?
+191	Trump's defeat in America.	A derrota de Trump na América.
+192	Now?	Agora?
+193	Yes.	Sim.
+194	And why?	E por quê?
+195	What?	O quê?
+196	Because he is, as it were, the helper...	Porque ele é, por assim dizer, o ajudante...
+197	Those who rose...	Os que subiram...
+198	Those...	Esses...
+199	May His name be blessed.	Bendito seja o Seu nome.
+200	Those who hate Israel.	Os que odeiam Israel.
+201	The Democrats.	Os democratas.
+202	The one who spoke most against Israel rose.	Quem mais falou contra Israel subiu.
+203	And the Republicans too are now distancing themselves from Benjamin Netanyahu, because they think he operated...	E os republicanos também agora se distanciam de Binyamin Netanyahu, porque acham que ele agiu...
+204	Listen, the whole world is completely against us.	Escute, o mundo inteiro está totalmente contra nós.
+205	And therefore we need to come with a new face.	E por isso precisamos chegar com um rosto novo.
+206	Here, you have new faces with whom we can come to the world.	Aqui, vocês têm rostos novos com quem podemos nos apresentar ao mundo.
+207	And therefore we need to come with a new face, with a new prime minister.	E por isso precisamos chegar com um rosto novo, com um novo primeiro-ministro.
+208	I don't care if they dig up the bones of my grandmother Pnina and form a coalition with her.	Não me importa se desenterrarem os ossos da minha avó Pnina e formarem uma coalizão com ela.
+209	I don't care.	Não me importa.
+210	No past promise interests me.	Nenhuma promessa do passado me interessa.
+211	Nothing.	Nada.
+212	Yes, people say hypocrites, hypocrites.	Sim, as pessoas dizem hipócritas, hipócritas.
+213	What does "hypocrites" mean?	O que é "hipócritas"?
+214	After all, everything changes, and everything changes according to the circumstances.	Afinal, tudo muda, e tudo muda conforme as circunstâncias.
+215	Exactly.	Exatamente.
+218	No.	Não.
+219	We need governance here and we need new forces.	Precisamos aqui de governabilidade e de forças novas.
+220	There is...	Há...
+221	And we need something new.	E precisamos de algo novo.
+222	And we need to work with what is possible, not with what is impossible.	E é preciso trabalhar com o que é possível, não com o que é impossível.
+223	This is the most important thing in life.	Isso é a coisa mais importante da vida.
+224	A moment ago you thought certain things would be possible; it turned out they're not possible.	Um momento atrás você achava que certas coisas seriam possíveis; descobriu-se que não são.
+225	Now, what do you do?	Agora, o que você faz?
+228	Exactly.	Exatamente.
+229	And what it allows can stand...	E o que ele permite pode se sustentar...
+230	These words you said are really an analysis of your own personal situation.	Essas palavras que você disse são mesmo uma análise da sua situação pessoal.
+231	That's it.	Isso mesmo.
+232	True.	É verdade.
+233	You just said it about yourself.	Você acabou de dizer isso sobre si mesmo.
+234	You're in a new situation, and now let's see what the new situation allows.	Você está numa situação nova, e agora vamos ver o que a nova situação permite.
+235	And you act, and we're done.	E você age, e pronto.
+236	True.	Verdade.
+238	the camps.	os campos.
+239	Yes.	Sim.
