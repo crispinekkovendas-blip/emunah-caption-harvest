@@ -1,0 +1,78 @@
+videoId: b9VLvh3z_pY
+parte 3 de 3 · traduzir as linhas 240 a 293 (54 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Shaar HaKavanot: Pessach, centelhas do keri e o Egito
+RESUMO: O rabino continua o Drush 1 de Pessach no Shaar HaKavanot e explica que as gerações de Enosh, do Dilúvio, da Dispersão e de Sodoma afastaram a Shechina, e que as almas dos israelitas no Egito eram as centelhas do keri que Adam HaRishon emitiu nos 130 anos de separação (Eruvin 18b). Ele mostra que quem emite é chamado "ra" (Bereshit 6:5, Bereshit 38:7, Tehilim 5:5, Zohar), que "benei HaAdam" alude a essas gotas e que a Gemará (Sanhedrin 38b) acrescenta a rebeldia de Adam. Com a imagem do ouro retirado da terra, cheio de impurezas e refinado aos poucos, ele ensina que as centelhas do keri são muito elevadas, mas exigem birur após birur. Isso explica os esforços de tikun habrit de hoje e o retorno das almas do deserto na última geração, segundo o Ari no Shaar HaGuilgulim. A dureza da escravidão egípcia corresponde às gerações anteriores: o decreto de lançar os meninos ao rio ao Dilúvio (Sotá), os tijolos à Dispersão, e Shabat e os juízos em Mará a Enosh e Sodoma (Shabat 118b). Por fim, Moshé vem da dimensão de Seth e do daat, nasce circuncidado e é "tov", por isso diz "ve'al ereh bera'ati" (Bamidbar 11:15).
+MOMENTOS: 00:20 Início do Drush 1 de Pessach e a Shechina afastada · 00:53 Israel no Egito como centelhas do keri de Adam · 01:19 O keri e quem o emite são chamados "ra" · 02:45 Dor HaMabul, benei HaAdam e a rebeldia da Dispersão · 04:34 A imagem do ouro refinado e a mistura de bem e mal · 06:47 Por que o keri é mais elevado e precisa de birur · 08:03 Tikun das gerações até as almas do deserto no fim dos dias · 10:17 Tikun habrit hoje e o ouro que surge no Egito · 11:42 Estudo em camadas: anotar e acompanhar o próprio progresso · 12:50 Escravidão egípcia como tikun do Dilúvio e da Dispersão · 13:49 Shabat e juízos em Mará: tikun de Enosh e Sodoma · 16:41 Almas do daat e Moshé como aspecto de Seth · 19:34 Eruvin 18b, o ouro por dentro e "ve'al ereh bera'ati"
+FONTES CITADAS: 00:20 Shaar HaKavanot, Drushei Pessach, Drush 1 · 00:26 Bereshit Rabá 19:7 · 00:53 Eruvin 18b · 01:19 Bereshit 6:5 · 01:31 Bereshit 38:7 · 01:37 Yeshayahu 3:11 · 01:42 Tehilim 5:5 · 01:48 Zohar, sobre "lo yegurcha ra · 01:54 Bereshit 38:9 · 02:48 Bereshit 6:7 · 03:10 Bereshit 11:5 · 03:19 Targum sobre Bereshit 11:5 · 04:01 Sanhedrin 38b · 06:06 Zohar, sobre o nascimento de Caim e Hevel · 06:13 Sanhedrin 38b · 07:17 Ari, Shaar HaGuilgulim · 08:59 Ari, Shaar HaGuilgulim · 09:23 Bereshit 49:1 · 09:47 Shaar HaKavanot, Drush 1 de Pessach · 12:57 Shemot 1:22 · 13:12 Sotá 11a · 13:40 Bereshit 11:3 · 13:43 Shemot 1:14 · 13:49 Sanhedrin 56b · 14:16 Shemot 21:1 · 14:52 Shabat 118b · 14:52 Yeshayahu 56:2 · 16:17 Bereshit 4:1 · 16:22 Bereshit 24:16 · 17:57 Shmuel I 2:3 · 18:40 Shemot 2:2 · 19:01 Sotá 12a · 19:19 Bereshit 5:3 · 19:34 Eruvin 18b · 21:02 Bamidbar 11:15
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|17:42|דזה מצד אמה.
+229|17:43|וזה נקרא דעת עליון ביחס לדעת דזה מצד אמה.
+230|17:47|במובן?
+231|17:48|וזה עוד לא קשור לעניין של דעת עליון שזה בסוד חבא דה כתר.
+232|17:53|אנחנו מדברים בחבא של זר כפשוטה.
+233|17:57|כי אל דעות ה' ולא נתקנו עלילות.
+234|18:03|אומר הרב,
+235|18:09|וכבר נדבר אצלנו כי משה הוא מבחינת הדעת, וכן כל הדור ההוא הם
+236|18:15|מבחינת הדעת, אלא שהם יצאו אל הקאלי,
+237|18:20|וסיבת היותם טיפות קרי, בקל שנים קודם שנולד שט.
+238|18:27|אבל משה היה מבחינת שט עצמו.
+239|18:32|משה רבנו מבחינה של שט עצמו קנו אותם, ולכן עליו התמר ותראה אותו כי
+
+LINHAS A TRADUZIR:
+240|18:38|טוב הוא.
+241|18:40|אצל משה רבנו, ותראה אותו כי טוב הוא.
+242|18:42|הוא לא כמו הניצוצות קרי שיצאו מהאדם הראשון שנקרא רע,
+243|18:48|שהמוציאם נקרא רע.
+244|18:51|ויער בכל יהודה רע.
+245|18:54|אלא אצל משה רבנו היה מבחינת שט.
+246|18:57|ולכן, ותראה אותו כי טוב הוא.
+247|18:59|האמת שגם נולד מהול.
+248|19:01|כיוון שבעקבות החטא של האדם הראשון נעשה העולה.
+249|19:05|שזה מראה על אחיזה של הקליפה על היסוד.
+250|19:08|משה רבנו רואים שלא היה עליו אחיזת הקליפה.
+251|19:12|לא היה עליו אחיזת הקליפה.
+252|19:14|ולכן אומר פה הרב, ותראה אותו כי תוהו, ואינו כי שרתי פה תראות של האדם הראשון בקל שנה.
+253|19:19|כי אחר כולם נולד שט בדמותו כצלמו,
+254|19:25|הכוונה כדמותו כצלמו של האדם הראשון.
+255|19:34|אבל האחרים היו בדמות שדין ורוחין ולילין.
+256|19:40|איפה זה כתוב?
+257|19:41|בגמרא במציאות ירובין, בדף י"ח עמוד
+258|19:44|ב'.
+259|19:48|איי איי איי איי איי איי איי איי איי איי איי איי איי
+260|19:52|איי איי איי איי איי איי
+261|19:59|אבל מה אתם אומרים?
+262|20:01|אבל היו נצוצות קדושות.
+263|20:02|אנשים אומרים קדושות.
+264|20:04|תאר לעצמך עכשיו, יש בן אדם שהוא נראה כזה זב, מצורע, כזה,
+265|20:10|דומה ככה לשידין רוחין ולילין, וגם עושה
+266|20:16|מעשים ככה, לא טובים.
+267|20:19|ויבוא איזה רב, צדיק, שהוא יוכל להסתכל לעומק שלו,
+268|20:25|והוא היחידי שהוא יראה שיש שם זהב בפנים.
+269|20:27|בעיקר, יתחיל ללטש אותו, יעבוד איתו וכולי.
+270|20:32|יגידו, מה אתה עושה איתו?
+271|20:35|מה אתה עושה?
+272|20:36|זה קליפה.
+273|20:37|הוא יגיד להם, לא, יש עליו קליפה, כן.
+274|20:44|אבל בפנים יש שם זהב.
+275|20:47|וצריך להוציא את הזהב הזה, ללטש אותו.
+276|20:51|יש כל מיני דרכים.
+277|20:53|אבל זה לא פשוט, זה עבודה.
+278|20:55|אומר הרב, ולכן אמר משה עליהם, ואל אראה בך עתיד.
+279|21:02|כך כתוב בספר במדבר, פרק י"א, פסוק ט"ו, מה הכוונה ואל יראה ברעתי?
+280|21:07|דהיינו, מכיוון ששת הוא היה כדמותו וצלמו של האדם הראשון.
+281|21:13|זה בעצם הכוונה פה של הרב, שמכיוון ששת הוא היה כדמותו, כצלמו של האדם
+282|21:19|הראשון, אז ממילא משה רבנו, שהוא היה בעצם, מבחינה של שת, כדמותו וצלמו
+283|21:24|של האדם הראשון, ומהאדם הראשון יצאו הניצוצות קרי, שהם נקראים רעים.
+284|21:30|אז לכן משה רבנו אמר, ואל ירא ברעתי.
+285|21:34|הם נקראים בני האדם.
+286|21:36|משה רבנו זה האדם.
+287|21:39|ואל ירא ברעתי.
+288|21:46|נפלא מאוד.
+289|21:47|אז הנה, אז הגענו פה לדיבור הזה וכבר, ובעזרת השם בלי נדר, אני כבר מודיע לכם עכשיו,
+290|21:54|ששיעור הבא בעזרת השם, שזה יהיה מחר אם ירצה השם בלי נדר.
+291|22:00|אנחנו נסיים רק את הריבוע הזה, ואז אני רוצה לחזור איתכם עוד הפעם
+292|22:06|את הדרוש עם כמה עיונים נפלאים בעזרת השם.
+293|22:10|ברוך ה' לעולם, אמן ואמן.

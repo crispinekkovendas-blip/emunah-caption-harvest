@@ -1,0 +1,47 @@
+videoId: -Nl3H1Z1uLY
+parte 4 de 4 · traduzir as linhas 360 a 382 (23 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Rambam Shechitá 1:24-26 – Bedikat hasakín após a shechitá
+RESUMO: O Rambam (Hilchot Shechitá 1:24) ensina que é preciso examinar a faca também depois da shechitá; se for encontrada uma falha, o animal é safek neveilá, e quem abate muitos animais ou aves deve examinar entre um e outro, ou tudo se torna safek. O rabino introduz a discussão da Gemará em Chulin 10a entre Rav Huna, que suspeita que a faca se danificou na pele, e Rav Chisda, que atribui a falha a um osso; a conclusão é que a halachá segue Rav Huna, salvo quando a faca bateu em osso depois. Ele cita o Rema (Yoré Deá 18:11) sobre quem assume o risco de não examinar entre as shechitot, e conta como funciona a prática atual em abatedouros (bedikot, injeções, pulmões, tendões, bitul). O Raavad discorda: se a faca foi examinada antes, não precisa examinar depois, a não ser para abater outro animal, e os Rishonim divergem se isso é obrigação ou conselho (Rashba, Meiri). Na halachá 25 o Rambam diz que, se não examinou depois mas quebrou osso ou madeira com a faca, a shechitá é kasher, e também se negligenciou o exame, pois há chazaká de kashrut. Na halachá 26, com base em Chulin 18b, o shochet que não mostrou a faca a um sábio é colocado em nidui e, se a faca estiver falha, é afastado e a carne é declarada treifá.
+MOMENTOS: 00:13 Rambam 1:24: examinar a faca após a shechitá · 00:47 Examinar entre cada animal para não perder todos · 01:20 Gemará Chulin 10a: Rav Huna e Rav Chisda · 04:02 A conclusão: a halachá segue Rav Huna ou Rav Chisda · 06:23 Rema: o shochet pode assumir o risco de não examinar · 07:24 Prática atual: bedikot em abatedouros de aves e gado · 10:48 Diferenças entre rabanut e Badatz: injeções, pulmões, tendões · 12:41 Bitul no abate e carne de ave versus boi hoje · 17:40 Raavad: não é preciso examinar a faca depois · 19:12 Rishonim: obrigação ou conselho de examinar depois · 21:21 Rambam 1:25: faca falha após quebrar osso, shechitá kasher · 23:26 Rambam 1:26: shochet que não mostrou a faca ao sábio · 26:03 Quem é o sábio e como se examina na prática
+FONTES CITADAS: 00:13 Rambam, Hilchot Shechitá 1:24 · 01:20 Chulin 10a · 02:15 Chulin 10a · 02:33 Chulin 10a · 04:02 Chulin 10a · 05:14 Rambam, Hilchot Shechitá 1:23 · 06:23 Rema, Yoré Deá 18:11 · 13:38 Rav Ovadia Yosef, sobre bitul e chatichá raúi lehitkabel · 17:40 Raavad em Hilchot Shechitá 1:24 · 19:44 Tur, Yoré Deá 18 · 20:04 Baal HaMaor, Rabeinu Zerachia HaLevi e Meiri · 20:16 Rashba sobre Chulin · 20:34 Raavad em Hilchot Shechitá 1:24 · 21:13 Shulchan Arukh, Yoré Deá 18 · 21:25 Rambam, Hilchot Shechitá 1:25 · 21:54 Rambam, Hilchot Shechitá 1:25 · 23:26 Rambam, Hilchot Shechitá 1:26 · 24:02 Chulin 18b · 24:52 Chulin 18b
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|25:49|מותר לשחוט בבית, ולפני שאתה שוחט, אתה צריך להראות את הסכין שלך לחכם.
+349|25:54|שהוא יבדוק ויגיד לך שהסכין כשרה.
+350|25:56|כך.
+351|25:58|כשרת.
+352|25:59|כן.
+353|26:03|רבי יוסף אומר שהוא לא צריך להיות חכם, הוא צריך לבדוק
+354|26:07|סכינים.
+355|26:09|כוונה חכם שהוא חכם לאותה מלאכה.
+356|26:14|בקיא בהלכה, יודע איך לבדוק, יודע מה צריך להרגיש, אז הוא
+357|26:20|חכם לאותה מלאכה.
+358|26:23|זה לא אומר שאם בחנת אותו עכשיו על איזה תוספות במוסרת צבחים והוא לא ידע לענות, אז הוא לא
+359|26:28|יכול לבדוק סכין.
+
+LINHAS A TRADUZIR:
+360|26:31|בסדר?
+361|26:35|לא, גם צריך להראות.
+362|26:37|שום כבודו של החכם.
+363|26:43|כן, אבל יש חשיבות שמישהו יבדוק אם הוא ממש טוב,
+364|26:49|צריך לבדוק את זה.
+365|26:50|צריך לראות אם הוא יוכל לסמוך על עצמו אם הוא בקיא.
+366|26:54|בדרך כלל דם שוחטים וגם שהם בקיאים ויודעים לבדוק סכינים, מראים
+367|27:01|לרב של המשחטה, שהוא נמצא איתם בשחיטה.
+368|27:05|והוא בודק, ואז נותן להם את הסכין, אומר להם כשר.
+369|27:09|בסדר, תמיד אומרים, תבדוק לי את הסכין.
+370|27:12|כן.
+371|27:13|גם אם אתמול הוא שחט את זה, הם בדקו
+372|27:16|לו את
+373|27:22|הסכין?
+374|27:23|אם בדקו לו את הסכין כן, אבל מכיוון שרואים שהוא עכשיו
+375|27:29|מזלזל, אז בדיוק, אבל אם יודעים, בוודאות.
+376|27:33|שאתמול, ששום חכם בדק את הסכין, אז אין בעיה.
+377|27:36|מכריזים שמה שהוא שוכן מכאן והילך, אם הוא ישחט, זה יהיה טרפה.
+378|27:40|כל זמן שהוא לא יחזור בתשובה שלמה ויקבל על עצמו בבית דין לשנות את מעשיו
+379|27:46|וכולי.
+380|27:49|מצוין.
+381|27:51|טוב, אז בעזרת השם ברח, אנחנו נסיים את הפרק אם ירצה השם מחר.
+382|27:56|ברוך אדוני לעולם, אמן ואמן.

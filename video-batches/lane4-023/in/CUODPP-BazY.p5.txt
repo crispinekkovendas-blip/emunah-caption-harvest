@@ -1,0 +1,64 @@
+videoId: CUODPP-BazY
+parte 6 de 10 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayakom: como se levantar após a crise – Chayei Sará
+RESUMO: Sivan Rahav-Meir abre a aula com a pergunta "como nos levantamos de uma crise?", ilustrada com Sderot antes e depois de Simchat Torá, e resume a Parashá Chayei Sará. Em Bereshit 23, Avraham chora e faz o elogio fúnebre de Sará e logo depois "se levantou" (Vayakom). Ela tira daí que a Torá dá lugar à dor, mas segue para a ação, e acrescenta Viktor Frankl e a festa de agradecimento dos passageiros do voo Fly Dubai. Depois analisa o teste de chesed de Eliezer em Bereshit 24: Rivka vê a necessidade não dita ("também para os teus camelos"), o que ela relaciona à inteligência emocional e ao valor da humanidade na era da IA, com o exemplo dos shlichim do Chabad. Yitzchak sai para rezar Mincha, encontra Rivka e a leva à tenda de Sará, e a Torá diz que "a amou": o compromisso e o lar fazem o amor crescer. Ela cita Rashi sobre a vela de Shabat, a bênção na massa e a nuvem que voltaram à tenda com Rivka, mostra o exemplo do chef Aviv Moshe e conclui que Yitzchak e Yishmael enterram juntos Avraham e que a vida de Sará continua no que ela deixou.
+MOMENTOS: 00:22 A pergunta central: como se levantar de uma crise · 00:56 Sderot antes e depois de Simchat Torá · 01:41 Resumo da Parashá Chayei Sará · 02:55 Avraham faz o elogio fúnebre e chora por Sará · 03:50 Vayakom: levantar-se do luto e agir · 04:43 Viktor Frankl: mudar a si mesmo quando não se muda a realidade · 05:39 Festa de agradecimento dos sobreviventes do voo Fly Dubai · 06:43 Avraham compra a gruta e cuida do futuro de Yitzchak · 08:05 O teste de chesed de Eliezer no poço · 09:00 O "também" de Rivka e a inteligência emocional · 10:40 Chesed e humanidade na era da tecnologia e da IA · 12:38 Os shlichim do Chabad e o chesed humano · 15:45 Yitzchak reza Mincha e encontra Rivka · 17:16 O amor cresce depois do casamento e do compromisso · 18:37 Rashi: vela, bênção na massa e nuvem na tenda · 21:03 Yitzchak e Yishmael enterram Avraham
+FONTES CITADAS: 01:45 Bereshit 23:16-20 · 02:20 Bereshit 25:1 · 02:24 Bereshit 25:7-8 · 02:36 Bereshit 25:17 · 02:55 Bereshit 23:2 · 03:25 Midrash sobre Eshet Chayil (Avraham recita para Sará) · 03:29 Mishlei 31:10 · 03:50 Leis de luto: shivá, shloshim e um ano · 03:59 Bereshit 23:3 · 06:07 Birkat HaGomel · 06:12 Tehilim 100 (Mizmor LeTodá) · 06:43 Bereshit 23:11-13 · 07:36 Bereshit 24:3 · 08:05 Bereshit 24:14 · 08:45 Bereshit 24:18 · 08:55 Bereshit 24:19 · 09:23 Bereshit 24:20 · 15:45 Bereshit 24:63 · 15:49 Berachot 26b · 15:58 Bereshit 24:63 · 16:47 Bereshit 24:67 · 17:28 Bereshit 24:67 · 18:37 Rashi em Bereshit 24:67 · 21:03 Bereshit 25:9 · 21:16 Rashi em Bereshit 25:9
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|11:29|נשאר החסד, נשאר החיוך, נשאר החיבוק.
+189|11:31|בואו נראה כמה דוגמאות.
+190|11:33|קודם כל מקצועות שהולכים ונעלמים.
+191|11:35|הנה דוגמית לתחום הצילום, כן?
+192|11:38|אבל בכל כך הרבה תחומים לרובוטים, סוכנים, AI, מחליף אותנו.
+193|11:44|אנחנו, את האנושיות אי אפשר להחליף, אבל את הביצועים הטכניים...
+194|11:48|בהחלט.
+195|12:03|אקלאס קאנד מלחמת אובייקטים במהלך של 20 קילוגרמס, תקבלו אותם במהלך עקרות, מתקבלו
+196|12:09|אותם.
+197|12:10|אטלאס קיבלו קצת רפאתי וקצת רפאתי קצת רפאתי.
+198|12:14|האחרונה קיבלו קצת רפאתי וקצת רפאתי קצת.
+199|12:17|אטלאס קיבלו קצת רפאתי וקצת רפאתי.
+
+LINHAS A TRADUZIR:
+200|12:20|אטלאס קיבלו קצת רפאתי.
+201|12:21|אטלאס קיבלו קצת רפאתי וקצת רפאתי.
+202|12:25|שמעתי מזמן הרצאה מנועם ברדין, זה אחד הישראלים שהיו המייסדים של חברת ווייז, זה היה גדולה,
+203|12:30|שנמכרה אחר כך, והוא דיבר על הנקודה הזו שכמעט הכל האפליקציות יעשו במקומנו.
+204|12:35|אבל את החיוך, את החסד, את האנושיות, הן לא יכולות לקחת.
+205|12:38|וזאת הזדמנות להצדיע למעצמה של חסד, מעצמה של חיבוק ואנושיות וקשר אנושי
+206|12:44|בתי חב"ד.
+207|12:45|בשבת הזאת...
+208|12:46|שלוחי חב"ד מתכנסים בניו יורק לתמונה הזו, התמונה השנתית המפורסמת, אלפי שליחים מכל
+209|12:52|רחבי העולם מיוצגים שם בתמונה אחת של עוצמה שמייצגת מיליונים של יהודים בעולם.
+210|12:58|בכינוס השנתי הזה חלקם רואים פעם בשנה אדם שנראה כמוהם, כל השנה הם לא רואים אדם
+211|13:04|כזה.
+212|13:05|אז גם נברך אותם מכאן ונודה על העבר וגם על העתיד, אבל...
+213|13:11|אם ניגע קצת במהות, במה הם בעצם מביאים לעולם, נדמה לי שהשיחה הזאת בין אביב אלוש לעומרי פלד
+214|13:18|נוגעת קצת, אפרופו רבקה עימנו, בחסד, בקשר האנושי, במה שאף AI לא יכול
+215|13:24|להחליף.
+216|13:25|הם מוצאים אותו הרבה מאוד בבתי חב"ד, גם בבתים שלנו, בשולחן השבת שלנו.
+217|13:29|עוד מעט.
+218|13:30|מלובביץ' לא היו לילדים, אבל תחשוב כמה תולדות יש לו.
+219|13:32|רק אתמול, להסתכל על ה-6,000 שלוחים של חב"ד.
+220|13:36|אחרי התמונה הזאת, אנחנו רואים את זה ככה.
+221|13:38|אתה יודע מה זה 6,000 שלוחים של חב"ד?
+222|13:40|אתה יודע מה הם עוברים?
+223|13:41|איזה מסירות נפש?
+224|13:42|כדי להביא את היהדות, כדי להביא לך את היוד למקום שאתה נמצא בו, בנפאל, בג'מאיקה.
+225|13:47|אני לא ידעתי מה זה חב"ד עד שהייתי השנה בתאילנד.
+226|13:50|כל השבת היינו איתם, אירחו אותנו, האכילו אותנו.
+227|13:54|לימדו אותנו.
+228|13:55|פשוט תראה מה רבי ראה למרחוק.
+229|13:56|לפתוח אוהלי אברהם בכל מקום.
+230|13:59|אל תשמור שבת.
+231|14:00|הכל טוב.
+232|14:01|תבוא תאכל משהו.
+233|14:02|כן.
+234|14:02|תבוא תשתהיה משהו.
+235|14:03|תשמע איזה דבר תורה.
+236|14:04|תבוא תחגוג פסח.
+237|14:06|יש לך פתאום בית.
+238|14:07|עכשיו, מה אנשים מרגישים שם?
+239|14:09|בבית.

@@ -1,0 +1,64 @@
+videoId: gqACq7Fud2k
+parte 6 de 20 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Dor pela Torá e o valor de cada hora neste mundo
+RESUMO: O rabino conta, a partir do Netivot Or de Rav Yitzchak Blazer, que Rav Yisrael Salanter chorou em Simchat Torá pela situação da Torá e depois voltou a dançar. Ele explica que a dor pela Torá prova a ligação com ela, e que isso é motivo de alegria. Em seguida narra os últimos dias do Gaon de Vilna: o médico que ouviu o moribundo recitar a Mishná de Kelim, o choro por perder as mitzvot e o enterro ao lado do Ger Tzedek Graf Potocki. Em Simchat Torá, Rav Chaim de Volozhin explica, com a Mishná de Avot 4:17, que o Gaon sobe ao Céu e pede mais uma hora de teshuvá e boas ações, e que lhe respondem com "bametim chofshi" (Tehilim 88:6), pois depois da morte não há como agir. Daí vem a canção "Oy lomah ba", segundo a qual aprender Torá vale mais que o Olam Haba, e a lição de aproveitar cada momento, inclusive de fechar a boca contra o lashon hará, segundo a Igueret HaGra. Por fim, na Parashá, Avraham oferece pouco aos hóspedes e traz muito (Bereshit 18:4-8), e os Sábios ensinam que os justos falam pouco e fazem muito, e que não se adia uma mitzvá.
+MOMENTOS: 00:00 Netivot Or: história de Rav Yisrael Salanter em Simchat Torá · 02:08 A parábola da alegria e da tristeza no mesmo assunto · 07:37 A dor pela Torá prova ligação; voltam a dançar · 12:38 Falecimento do Gaon de Vilna em 19 de Tishrei · 15:55 Dr. Bornstein ouve o Gaon recitar Mishná de Kelim · 19:54 O Gaon chora por deixar o mundo das mitzvot · 22:57 Enterro ao lado do Ger Tzedek Graf Potocki · 28:50 Rav Chaim de Volozhin e a Mishná de Avot 4:17 · 32:43 O Gaon sobe ao Céu e pede mais uma hora · 37:26 "Bametim chofshi": não há segunda chance · 41:30 A canção "Oy lomah ba" de Rav Chaim · 45:01 Parashá: Avraham e os hóspedes · 50:16 Os justos falam pouco e fazem muito · 53:07 As três lições da aula
+FONTES CITADAS: 00:00 Netivot Or, Rav Yitzchak Blazer · 05:28 Tehilim 119:72 · 05:32 Tehilim 19:8 · 05:38 Birkat HaTorah · 16:49 Mishná, Masechet Kelim · 20:04 Bamidbar 15:38 · 20:58 Vayikra 23:40 · 22:13 Devarim 6:4 · 24:03 Bênção sobre o Kiddush HaShem · 26:03 Tehilim 132:14 · 27:13 Mishná Berurá, Orach Chaim 669 (hilchot Simchat Torá) · 28:57 Avot 4:17 · 36:22 Avot 4:17 · 37:26 Tehilim 88:6 · 37:30 Shabat 30a · 38:57 Igueret HaGra · 41:45 Canção de Rav Chaim de Volozhin, Oy lomah ba · 44:18 Igueret HaGra · 46:11 Bereshit 18:4-5 · 46:35 Bereshit 18:6 · 47:57 Bereshit 18:7 · 48:26 Bava Metzia 86b · 49:26 Um dos meforshim sobre Bereshit 18:7 · 49:54 Bereshit 18:8 · 50:16 Bava Metzia 87a · 51:38 Bava Metzia 87a · 52:45 Mechilta, Shemot 12:17
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|14:20|ושומע את המצב.
+189|14:22|אני ראיתי, בעיניי ראיתי, אני גר באשדוד שוב, ראיתי בעיניי, באשדוד, לפני
+190|14:28|עשרים שנה או עשרים וחמש שנה, הייתי אצל רופא מסוים, זקן, שכבר אז הוא היה בן
+191|14:34|שמונים, אז, כבר נפטר, אם הוא היה חי היום היה צריך להיות כבר למעלה ממאה.
+192|14:39|שהרופא הזה לא יאומן כי יסופר, לא יאומן.
+193|14:42|הרופא הזה היה מפורסם באשדוד כרופא מומחה ביותר, הוא היה רופא משפחה, מטעם קופת
+194|14:48|חולים, היה רופא משפחה, היה נחשב לרופא מומחה באופן בלתי רגיל, מעולם הוא לא
+195|14:54|החטיא את הדיאגנוזה.
+196|14:56|תמיד על חוט השערה, מעולם הוא לא החטיא.
+197|14:59|הוא היה מומחה באופן בלתי רגיל, מעולם הוא לא החטיא.
+198|15:04|והרופא הזה היה בודק בלי סטטוסקופ.
+199|15:08|היה מצמיד את האוזן לחולה, פשוט נדבק אליו ככה, מצמיד את האוזן לגב או לחזה, לא משנה איפה היה
+
+LINHAS A TRADUZIR:
+200|15:14|צריך לבדוק, מצמיד את האוזן לגוף שלו ככה, מקשיב,
+201|15:19|והיה קולע על חוט השערה, לא יאומן, בלי טטוסקוב, בלי כלום.
+202|15:25|היה מקשיב בעצמו לחולה, והיה מאבחן מדויק על
+203|15:31|חוט השערה, מעולם הוא לא החטיא.
+204|15:34|היה עכשיו רופא מומחה ביותר.
+205|15:37|קראו לו דוקטור לוין, מי שזה מעיין אותו.
+206|15:39|מי ששמע את השם הזה פעם.
+207|15:41|לא משנה.
+208|15:43|בכל אופן, בזמן אגרו, אני לא יודע אם היה את המכשיר הזה בכלל, אז הרופא היה מצמיד את האוזן
+209|15:48|לחולה לשמוע את הלב, את הריאות.
+210|15:51|מה המצב?
+211|15:52|לב, דופק, נשימות.
+212|15:55|דוקטור בורשטיין הזה נכנס לחדר של אגרו, אגרו שכב באפיסת כוחות.
+213|16:01|באפיסת כוחות הוא היה.
+214|16:03|שוכב על המיטה.
+215|16:05|ודוקטור בורשטיין מצמיד את האוזן לחזה של אגרו.
+216|16:09|מדביק את הפנים שלו ככה, את הראש, לשמוע את הלב, את הדופק, את הריאות, הנשימה, את הריאות.
+217|16:16|ככה, ככה, בודק מפה, בודק מפה, בודק מפה.
+218|16:19|ובני המשפחה עומדים בחוץ במתח, מה הרופא יגיד.
+219|16:23|הם רואים שאבא, הרבה, אגרו, באפיסת כוחות, הם רואים את זה.
+220|16:29|אבל לא ידעו מה יש לו.
+221|16:31|והוא בודק, בודק, אחרי שהוא גומר לבדוק.
+222|16:34|הוא יוצא החוצה למשפחה, אומרים לו, נו, מה נשמע?
+223|16:38|נו, מה נשמע?
+224|16:40|הוא אומר להם, מה נשמע?
+225|16:43|אני אגיד לכם, נשמע מסכת כלים.
+226|16:49|המשפחה אמרו לו, דוקטור בורשטיין, באמת, זה לא הזמן לבדיחות עכשיו.
+227|16:54|אנחנו כל כך מודאגים מהמצב של אבא, זה לא הזמן לבדיחות, תגיד מה נשמע?
+228|16:59|הוא אמר להם, אני לא אומר שום בדיחה.
+229|17:02|נשמע מסכת כלים.
+230|17:05|אמרו לו, אולי תסביר מה אתה מתכוון, זה לא הזמן עכשיו.
+231|17:09|אמרו לו, אני אגיד לכם בדיוק מה אני מתכוון.
+232|17:11|אני לא אמרתי בדיחה.
+233|17:14|אתם יודעים, הקשבתי לחזה של אבא, הצמדתי את האוזן לגוף שלו.
+234|17:20|אז תראו, את הלב בקושי שומעים, כמעט ולא בכלל.
+235|17:26|את הריאות כמעט ולא שומעים בכלל.
+236|17:30|כמעט הוא לא נושם, וכמעט הלב לא עובד.
+237|17:33|אבל דבר אחד שמעתי ללא הרף.
+238|17:37|את הפה שלו ממלמל פרקי משניות ללא הרף.
+239|17:42|הוא לא מפסיק לשנייה להריץ משניות.

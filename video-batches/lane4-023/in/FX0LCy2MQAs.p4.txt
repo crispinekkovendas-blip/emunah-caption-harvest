@@ -1,0 +1,45 @@
+videoId: FX0LCy2MQAs
+parte 5 de 5 · traduzir as linhas 480 a 500 (21 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Eliezer como shaliach e a missão de receber Mashiach
+RESUMO: O rabino retoma a sichá do Rebe em que a instrução central dada aos shluchim é receber Mashiach, e pergunta qual é a ligação entre essa tarefa e a shlichut. A resposta começa em Shemot 4:13, onde Moshe chama Mashiach de "shaliach" ("shlach na beyad tishlach"), e na união de Moshe com a alma de Mashiach, que faz dele o redentor primeiro e o último. Para entender a shlichut, o Rebe examina a primeira shlichut da Torá, a de Eliezer em Chayei Sará, seguindo a regra de que a primeira menção de um conceito o define (como "vayikra Elokim la'or yom"). Segundo Tosafot, Eliezer foi shaliach para o kidushin, pois "shlucho shel adam kamoto", e a shlichut tem graus: o ato, a força do ato e a identidade do shaliach como a do meshaleach. O rabino expõe os argumentos de que Eliezer teria sido apenas shadchan (iniciativa própria, interesse em casar sua filha, a maldição de Canaã) e os que mostram o contrário (é "moshel bekol asher lo", "moshel betorat rabo", dola umashke, o juramento, "vechol tuv adonav beyado" e o shtar matana, segundo Rashi). O Rebe conclui que Eliezer foi shaliach, e daí se vê que se espera dos shluchim uma entrega total, a ponto de o Rebe poder confiar-lhes tudo.
+MOMENTOS: 00:21 A instrução clara do Rebe aos shluchim: receber Mashiach · 01:30 Pergunta: o que receber Mashiach tem a ver com a shlichut? · 03:37 Moshe chama Mashiach de shaliach (Shemot 4:13) · 05:21 Moshe unido a Mashiach: redentor primeiro e último · 06:20 A primeira shlichut da Torá: Eliezer em Chayei Sará · 07:19 Regra: a primeira menção define o conceito · 10:19 Eliezer foi shaliach ou shadchan? · 11:47 Tosafot: shaliach para o kidushin, "shlucho kamoto" · 13:36 Os graus da relação entre shaliach e meshaleach · 18:01 Hipótese do shadchan e seus argumentos · 26:42 Argumentos de que foi shaliach: moshel, dola umashke, juramento · 31:08 "Vechol tuv adonav beyado" e a confiança de Avraham · 35:40 Aplicação: o que o Rebe espera dos shluchim
+FONTES CITADAS: 03:56 Shemot 4:13 · 05:28 Midrash sobre o redentor primeiro e o último (Ruth Rabá 5:6) · 06:33 Bereshit 28:5 · 07:46 Bereshit 1:5 · 10:36 Bereshit 24:4 · 12:05 Kiddushin 41b (princípio "shlucho shel adam kamoto") · 12:46 Tosafot sobre Eliezer como shaliach para o kidushin · 13:48 Lekach Tov, Rabi Yosef Engel · 18:32 Rambam, Hilchot Zechia UMatana · 19:03 Gittin 11b · 21:26 Rashi em Bereshit 24:39 · 22:15 Bereshit Rabá 59:9 · 22:44 Bereshit 9:25 · 22:56 Bereshit 9:26 · 24:34 Bereshit 24:1 · 25:19 Rashi em Bereshit 24:21 · 25:38 Bereshit 24:3-4 · 26:48 Bereshit 24:2 · 27:15 Yoma 28b · 27:49 Yoma 28b (Eliezer, dola umashke) · 28:41 Bereshit 24:34 · 28:44 Bereshit 23:6 · 29:30 Bereshit 24:2-3 · 31:20 Bereshit 24:10 · 32:45 Rashi em Bereshit 24:10
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+468|34:14|אז זה רק נייר, כאילו, הוא יכול לכתוב את זה עוד פעם, את השטר מתנה.
+469|34:18|שהוא לא יצטרך לא לכתוב את זה.
+470|34:21|שטר כזה, עם כל כך הרבה משמעות, זה לא פשוט אם הוא יקרא.
+471|34:25|כן, מי יודע אם הוא יכתוב את זה עוד פעם?
+472|34:26|יש גם כל מיני מניעים שאולי הנסיבות ישתנו.
+473|34:30|אבל הוא בעצמו דן בנסיבות.
+474|34:32|אז הוא אומר את זה לכאורה.
+475|34:34|איך היה יכול אברהם למסור כל אשר לא?
+476|34:37|אפילו לפי הפירוש שזה רק שטר מתנה.
+477|34:39|לאדם שעליו יכול להיות ספק, כי משתמש בזה כדברי, כפי שצריך.
+478|34:45|וזה מוכרחת, שאליעזר היה מסול לגמרי לאברהם,
+479|34:51|בהיותו עבדו, ולכן גם כאשר שלחו לעשות את השידוך עבור יצחק, הוא משתדרג
+
+LINHAS A TRADUZIR:
+480|34:57|מעבד לשליח, הוא היה לא כשדכן שהוא מציאות לעצמו, אלא בבחינת משליח,
+481|35:04|שכל מציאותו היא מציאות המשלח, ולכן היה אברהם יכול להשאיר ברשותו כל השלום, בלי שום ספק
+482|35:10|בדבר.
+483|35:12|זאת אומרת, הסיפור הזה של הכול טוב אדוניו, הרבי לומד עוד עניין
+484|35:18|שמראה על גודל הנאמנות שהייתה לאליעזר אצל אברהם אבינו, שזה אדם שאתה סומך עליו בעיניים
+485|35:24|עצומות.
+486|35:24|ועל מי אתה סומך בעיניים עצומות?
+487|35:27|הרבה יותר הגיוני שאתה סומך על השליח מאשר שאתה סומך על השלחן,
+488|35:34|ששלחן עושה טובה.
+489|35:35|אז רק בשבילי הדברים נאמר, שהרי בסוף הרבי הייתה כל לוקח, לדבר על השלוחים, כן?
+490|35:40|מי נמצא בהתוודות עם השלוחים?
+491|35:42|אז בזה כבר אפשר להבין, סוף השיח והדיון שהרבי מפתח כאן, מה הרבי מצפה
+492|35:48|מהשלוחים.
+493|35:49|לומר להם שהוא לא סומך עליהם שיהיו שדחניים, אלא סומך עליהם שיהיו בכזו נאמנות
+494|35:55|מלאה, שבכלל, שהרבי יכול למסור את כל אשר לו לכל אחד מהשלוחים.
+495|36:00|בלי שום ספק בדבר, שהוא בוודאי יעשה בדיוק את מה שהרב רוצה.
+496|36:04|אני שליח כמו תמוש, תודה רבה.
+497|36:08|תודה רבה.
+498|36:36|‫זו צדקה
+499|36:39|שמקרבת
+500|36:45|את ההתנגדה.

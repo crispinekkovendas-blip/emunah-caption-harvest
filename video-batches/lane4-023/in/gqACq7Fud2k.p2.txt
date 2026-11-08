@@ -1,0 +1,64 @@
+videoId: gqACq7Fud2k
+parte 3 de 20 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Dor pela Torá e o valor de cada hora neste mundo
+RESUMO: O rabino conta, a partir do Netivot Or de Rav Yitzchak Blazer, que Rav Yisrael Salanter chorou em Simchat Torá pela situação da Torá e depois voltou a dançar. Ele explica que a dor pela Torá prova a ligação com ela, e que isso é motivo de alegria. Em seguida narra os últimos dias do Gaon de Vilna: o médico que ouviu o moribundo recitar a Mishná de Kelim, o choro por perder as mitzvot e o enterro ao lado do Ger Tzedek Graf Potocki. Em Simchat Torá, Rav Chaim de Volozhin explica, com a Mishná de Avot 4:17, que o Gaon sobe ao Céu e pede mais uma hora de teshuvá e boas ações, e que lhe respondem com "bametim chofshi" (Tehilim 88:6), pois depois da morte não há como agir. Daí vem a canção "Oy lomah ba", segundo a qual aprender Torá vale mais que o Olam Haba, e a lição de aproveitar cada momento, inclusive de fechar a boca contra o lashon hará, segundo a Igueret HaGra. Por fim, na Parashá, Avraham oferece pouco aos hóspedes e traz muito (Bereshit 18:4-8), e os Sábios ensinam que os justos falam pouco e fazem muito, e que não se adia uma mitzvá.
+MOMENTOS: 00:00 Netivot Or: história de Rav Yisrael Salanter em Simchat Torá · 02:08 A parábola da alegria e da tristeza no mesmo assunto · 07:37 A dor pela Torá prova ligação; voltam a dançar · 12:38 Falecimento do Gaon de Vilna em 19 de Tishrei · 15:55 Dr. Bornstein ouve o Gaon recitar Mishná de Kelim · 19:54 O Gaon chora por deixar o mundo das mitzvot · 22:57 Enterro ao lado do Ger Tzedek Graf Potocki · 28:50 Rav Chaim de Volozhin e a Mishná de Avot 4:17 · 32:43 O Gaon sobe ao Céu e pede mais uma hora · 37:26 "Bametim chofshi": não há segunda chance · 41:30 A canção "Oy lomah ba" de Rav Chaim · 45:01 Parashá: Avraham e os hóspedes · 50:16 Os justos falam pouco e fazem muito · 53:07 As três lições da aula
+FONTES CITADAS: 00:00 Netivot Or, Rav Yitzchak Blazer · 05:28 Tehilim 119:72 · 05:32 Tehilim 19:8 · 05:38 Birkat HaTorah · 16:49 Mishná, Masechet Kelim · 20:04 Bamidbar 15:38 · 20:58 Vayikra 23:40 · 22:13 Devarim 6:4 · 24:03 Bênção sobre o Kiddush HaShem · 26:03 Tehilim 132:14 · 27:13 Mishná Berurá, Orach Chaim 669 (hilchot Simchat Torá) · 28:57 Avot 4:17 · 36:22 Avot 4:17 · 37:26 Tehilim 88:6 · 37:30 Shabat 30a · 38:57 Igueret HaGra · 41:45 Canção de Rav Chaim de Volozhin, Oy lomah ba · 44:18 Igueret HaGra · 46:11 Bereshit 18:4-5 · 46:35 Bereshit 18:6 · 47:57 Bereshit 18:7 · 48:26 Bava Metzia 86b · 49:26 Um dos meforshim sobre Bereshit 18:7 · 49:54 Bereshit 18:8 · 50:16 Bava Metzia 87a · 51:38 Bava Metzia 87a · 52:45 Mechilta, Shemot 12:17
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|05:24|אנחנו רוקדים עם התורה ומשבחים אותה.
+69|05:28|טוב לי תורת פיך מאלפי זהב הכסף, ושרים עוד פעם ועוד פעם.
+70|05:32|תורת השם תמימה משיבת נפש, ושרים עוד פעם ועוד פעם.
+71|05:38|אשר בחר בנו מכל העמים ונתן לנו את תורתו, ושמחים ושרים את זה שוב ושוב ושוב.
+72|05:45|שרים שירים של שבח לתורה, שירים של אהבת תורה.
+73|05:50|שירים של קילוסים לתורה.
+74|05:54|כמה אנחנו אוהבים את התורה, דבוקים בתורה, קשורים לתורה, מכבדים את התורה,
+75|05:59|מייקרים את התורה.
+76|06:03|ועם כל זה, אומר להם רבי ישראל, כשאני חושב על המצב,
+77|06:10|ככל שאני חושב על המצב של הדור, כמה פורקי עול יש,
+78|06:16|בזמן רבי ישראל בכלל, ההשכלה אז באירופה לפחות עשתה שמות
+79|06:22|בישיבות כמה בחורים יצאו החוצה ולא חזרו
+
+LINHAS A TRADUZIR:
+80|06:28|רחמנא ליצלן כמה ההשכלה נגסה אז בישיבות
+81|06:35|והוציאה בחורים החוצה ונהיו פורקי עול
+82|06:41|וקרן התורה ירדה פלאים ירדה פלאים אמר
+83|06:47|להם רב ישראל מצד אחד אנחנו משבחים ורוקדים עם התורה
+84|06:53|ומצד שני אני חושב באיזה צרה התורה נמצאת אז
+85|06:59|ככל שאני חושב על גדלות התורה הכאב על הצרה של התורה
+86|07:05|גודל אצלי יותר ויותר ויותר אני לא יכול לרקוד
+87|07:12|הוא ישב בצד ובכה התלמידים שלו שהיו גדולי עולם
+88|07:18|שמעו את מה שהוא אמר חשבו רגע, והבינו את עומק הדבר,
+89|07:24|והתחילו להוריד דמעות, ונהיה שם אווירה של תשעה באב.
+90|07:31|עד שרב ישראל קם, ככה מספר רביצלב בקונטרסט, נתיבות אור, עד שרב ישראל
+91|07:37|קם ונתן דפיקה ככה, ואמר להם, רבותיי, צריכים
+92|07:42|לרקוד.
+93|07:44|אמרו לו, רבא, מה קרה?
+94|07:45|לפני רגע אמרנו לבקוד, מה קרה לרקוד?
+95|07:48|אמר להם, אני אגיד לכם.
+96|07:51|אדם ששומע על השני שהוא בצרה, אם זה אחד שהוא לא מכיר אותו
+97|07:57|משום מקום, זה לא מעניין אותו.
+98|08:01|לכל היותר הוא עושה אוי אוי אוי, וזהו, בזה זה נגמר.
+99|08:05|אם הוא מכיר אותו עוד יותר, אז הוא עושה אוי אוי אוי אוי אוי, חמש פעמים
+100|08:10|כבר.
+101|08:11|אם הוא עוד יותר מכיר אותו, אז הוא גם יענח ככה.
+102|08:16|עוד יותר חבר שלו גם מוכן להוציא מאה שקל לתת.
+103|08:19|אבל אם זה יהיה מישהו שקרוב אליך מאוד בן שלך, אתה לא תעשה אוי אוי אוי.
+104|08:26|אתה תהפוך את העולם בשבילו.
+105|08:27|מה יש?
+106|08:29|זה בן שלי.
+107|08:30|זאת אומרת, אמר להם רב ישראל, וזה אני רוצה להגיד לנו, את הנקודה
+108|08:36|הזאת, בשביל זה באתי.
+109|08:39|אמר להם רב ישראל, תדעו לכם, אם התורה כואב לה
+110|08:44|ואנחנו בוכים, סימן שאנחנו קשורים אליה וקרובים אליה.
+111|08:52|אם התורה לא הייתה קשורה איתנו, מחוברת איתנו, אם לא היינו קשורים לתורה,
+112|08:57|מחוברים לתורה, אוהבים את התורה, לא הייתם בוכים.
+113|09:03|כן, אוי אוי אוי.
+114|09:05|אם אתם בוכים, זה הראייה הגדולה ביותר, שאתם דבוקים בתורה,
+115|09:12|קשורים לתורה, מחוברים לתורה.
+116|09:15|ולכן כשכואב לה, כואב גם לכם.
+117|09:20|וזה הסיבה הגדולה ביותר לשמוח.
+118|09:23|אנחנו קשורים ומחוברים לתורה.
+119|09:27|יש לך סיבה לשמוח יותר מזה?
