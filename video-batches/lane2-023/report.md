@@ -1,13 +1,13 @@
 # lane2-023
 
 10 of 18 lessons published · 7 skipped · status **pending**
-Tokens (610 agent runs with a record): 3.5M in (mostly cache) · 2.27M out · API-equivalent 32.31
+Tokens (615 agent runs with a record): 3.5M in (mostly cache) · 2.27M out · API-equivalent 32.39
 
 | lesson | state | detail |
 |---|---|---|
 | -GGd2wl_gWg | ✓ published | 372 lines · Shechitá em objeto solto ou preso ao solo, Rambam |
 | fEf8NA1vyD0 | ✓ published | 703 lines · Shem MiShmuel: brit milá, Sodoma e um pouco de água |
-| oP-hDOkN9nA | waiting | 35/40 parts |
+| oP-hDOkN9nA | waiting | 39/40 parts |
 | 08iC-qVGSCA | skipped | |
 | 7OQTiL68xgM | ✓ published | 626 lines · Zohar Bo: a milá e Talmud Eser HaSefirot, parte 13 |
 | a37jL33Wtx0 | skipped | |
