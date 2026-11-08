@@ -1,0 +1,120 @@
+840	If one informs and the other stays silent, the one who informs goes free,	Se um delata e o outro fica calado, o que delata sai livre,
+841	and the one who stays silent gets fifteen	e o que fica calado recebe quinze
+842	years.	anos.
+843	Now, here there is a dilemma.	Agora, aqui há um dilema.
+844	Each one has to decide what is best for him to do.	Cada um tem de decidir o que lhe convém fazer.
+845	If I inform, I have a chance to come out	Se eu delato, tenho a chance de sair
+846	clean, if my friend stays silent.	limpo, se o meu amigo ficar calado.
+847	If we both inform, the punishment is also lighter than if each one were on his	Se nós dois delatamos, a pena também é menor do que se cada um estivesse por
+848	own.	conta própria.
+849	Now, whoever first formulated this dilemma,	Agora, quem formulou esse dilema pela primeira vez,
+850	the purpose of the dilemma is to demonstrate	o objetivo do dilema é demonstrar
+851	that rational thinking is not always optimal.	que o raciocínio racional nem sempre é o ideal.
+852	That is, someone who uses only	Ou seja, quem usa apenas
+853	his cold intellect, and has a good, well-developed mind,	o seu intelecto frio, e tem uma mente boa e bem desenvolvida,
+854	in the end, this is the whole point of game theory, he can lose.	no fim, e esse é todo o ponto da teoria dos jogos, pode perder.
+855	Because according to	Porque, de acordo com
+856	the table, a simple table	a tabela, uma tabela simples,
+857	apparently the best for both is to stay silent.	aparentemente o melhor para os dois é ficar calado.
+858	But that is not the rational decision.	Mas essa não é a decisão racional.
+859	That's how the gentile's mind thinks, at least.	Assim pensa a cabeça do gentio, pelo menos.
+860	Afterwards they refined this dilemma.	Depois aperfeiçoaram esse dilema.
+861	And they expanded it, they spoke about the	E o ampliaram, falaram sobre a
+862	altruistic situation.	situação altruísta.
+863	As is known here in the country, there are many cases, I too had the privilege of seeing one like this,	Como se sabe aqui no país, há muitos casos, eu mesmo tive o mérito de presenciar um assim,
+864	where someone takes it on, again two friends, it could be a whole family, where one	em que alguém assume, de novo dois amigos, pode ser uma família inteira, em que um
+865	volunteers, wants to take it all, to sit fifteen years in prison, the main thing being to free his	se oferece, quer assumir tudo, ficar quinze anos na prisão, desde que liberte os seus
+866	brothers.	irmãos.
+867	To get them out.	Para tirá-los de lá.
+868	Let's not forget that the situation here is that you have been handed	Não nos esqueçamos de que a situação aqui é que lhe entregaram
+869	this,	isto,
+870	the bill of	a peça de
+871	indictment.	acusação.
+872	So here the question is whether you will confess	Então aqui a pergunta é se você vai confessar
+873	or you will deny.	ou vai negar.
+874	If one confesses, that's how they do it, the police talk to each one separately, and again there is no	Se um confessa, é assim que fazem, os policiais falam com cada um separadamente, e de novo não há
+875	communication between them.	comunicação entre eles.
+876	If you confess, and the other denies,	Se você confessa e o outro nega,
+877	you get the maximum, your friend gets zero, you get fifteen	você recebe o máximo, o seu amigo recebe zero, você recebe quinze
+878	years, and the friend who denied, he goes out...	anos, e o amigo que negou, ele sai...
+879	goes out free, at no cost.	sai livre, de graça.
+880	If you both deny, then the police have	Se os dois negam, então a polícia tem
+881	some evidence.	alguma prova.
+882	That is, to deny here means to stay silent.	Ou seja, negar aqui é ficar calado.
+883	If you both deny, each one will end up getting a few	Se os dois negam, cada um no fim vai receber alguns
+884	years, five years.	anos, cinco anos.
+885	Not that there is any real evidence.	Não que haja alguma prova de verdade.
+886	If both confess, each one will get ten	Se os dois confessam, cada um recebe dez
+887	years.	anos.
+888	Only if one denies and the other confesses, then the one who confesses will get	Só se um nega e o outro confessa, então quem confessa recebe
+889	all the fifteen years, and the one who denies goes free.	todos os quinze anos, e quem nega sai livre.
+890	So again, this is an example,	Então, de novo, este é um exemplo:
+891	what is best for you to do?	o que é melhor você fazer?
+892	Like, why are we studying this topic?	Por que estamos estudando esse assunto?
+893	A serious topic in game theory.	Um tema sério na teoria dos jogos.
+894	What comes out of this topic is simply that it is always best	O que se tira desse tema é simplesmente que o melhor é sempre
+895	to stay silent.	ficar calado.
+896	Even though it's not always rational, what is your	Embora nem sempre seja racional, qual é o seu
+897	interest?	interesse?
+898	Now, let's go back to the dilemma in its original formulation.	Agora, voltemos ao dilema na sua formulação original.
+899	Of course, here they don't take into account that the same one who adopts a certain policy,	Claro que aqui não se leva em conta que aquele mesmo que adota uma certa política,
+900	as if he is deciding what he is in the dilemma about, he decides which way he wants to go.	como se decidisse sobre o que é o seu dilema, decide para que lado quer ir.
+901	So,	Então,
+902	again, the whole dilemma is that he has no communication with his friend, each one in a	de novo, todo o dilema é que ele não tem comunicação com o seu amigo, cada um numa
+903	separate cell.	cela separada.
+904	But what they don't take into account, first of all, in game theory	Mas o que não se leva em conta, em primeiro lugar, na teoria dos jogos
+905	they say there are many, many components not taken into account here, which could complicate	dizem que há muitíssimos componentes que não são levados em conta aqui, o que poderia complicar
+906	the whole picture.	todo o quadro.
+907	That is, everything we said is something completely theoretical.	Ou seja, tudo o que dissemos é algo completamente teórico.
+908	In any case, it certainly doesn't take into account that I	De qualquer forma, certamente não se leva em conta que eu
+909	can direct my thought, since thought is effective, I can adopt	posso direcionar o meu pensamento, pois o pensamento tem efeito, posso adotar
+910	a stance.	uma posição.
+911	And aim to transmit	E procurar transmitir
+912	by telepathy to my friend what	por telepatia ao meu amigo o que
+913	I have decided to do.	eu decidi fazer.
+914	While I try with all my strength to transmit to him by telepathy what I have decided to do,	Enquanto tento com toda a minha força transmitir-lhe por telepatia o que decidi fazer,
+915	of course, as a believing Jew, I can pray to the Holy One,	claro que, como judeu que crê, posso rezar ao Santo,
+916	Blessed Be He, that He too, since I am going this way, should put	Bendito Seja, para que Ele também, já que eu vou por este caminho, ponha
+917	in his heart the right decision to make, so that we attain the maximum	no coração dele a decisão certa a tomar, para que alcancemos o máximo
+918	benefit for both of us in this story.	de benefício para nós dois nesta história.
+919	All this was an illustration, as if it were entirely a hypothetical piece,	Tudo isso foi uma ilustração, como se fosse inteiramente um texto hipotético,
+920	just to show us what is called	só para nos mostrar o que se chama
+921	a dilemma.	de dilema.
+922	In the maamar in Ein Beit, which we will get to shortly,	No maamar de Ein Beit, a que já chegaremos,
+923	he speaks again, as he began in the previous maamar, about the Name	ele fala de novo, como começou no maamar anterior, sobre o Nome
+924	Shaddai, the Name that the Patriarchs drew down into the world.	Shaddai, o Nome que os Patriarcas trouxeram para o mundo.
+925	Their revelation is "I appeared to the Patriarchs as El	A revelação deles é "e Eu apareci aos Patriarcas como El
+926	Shaddai."	Shaddai".
+927	Shaddai is the One who said to His world "enough."	Shaddai é Aquele que disse ao Seu mundo "basta".
+928	But what He said to His world "enough," also in a figurative	Mas o que Ele disse ao Seu mundo, "basta", também em sentido
+929	sense, it is needed, He said to His world, in the sense of conflicts,	figurado, é necessário, Ele disse ao Seu mundo, no sentido de conflitos,
+930	enough of what?	basta de quê?
+931	Enough of what?	Basta de quê?
+932	That is, the whole world, as it is, is full of conflicts, it is full of dilemmas.	Ou seja, o mundo inteiro, como é, está cheio de conflitos, cheio de dilemas.
+933	That is how HaShem created the world.	Foi assim que HaShem criou o mundo.
+934	Only that HaShem, who said to His world "enough," will say "enough" to my dilemmas,	Só que HaShem, que disse ao Seu mundo "basta", dirá "basta" aos meus dilemas,
+935	will say "enough" to my troubles, as Jacob our father said.	dirá "basta" às minhas aflições, como disse Yaakov, nosso patriarca.
+936	Now, what is the relation between conflict and dilemmas?	Agora, qual é a relação entre conflito e dilemas?
+937	So we will also make an allusion.	Então faremos também uma alusão.
+938	"And he tears the arm, also the crown of the head," the Rebbe's desire is	"E arranca o braço, também o alto da cabeça": o desejo do Rebe é
+939	the tefillin campaign.	a campanha de tefilin.
+940	We learn from Gad, from the tribe of Gad, which is our shaar today,	Aprendemos de Gad, da tribo de Gad, que é o nosso shaar de hoje,
+941	Gad, dai.	Gad, dai.
+942	About the tribe of Gad, who is the vanguard, it is written "and he tears the arm,	Sobre a tribo de Gad, que é a vanguarda, está escrito "e arranca o braço,
+943	also the crown of the head," and the Baal HaTurim says this hints at the tefillin campaign,	também o alto da cabeça", e o Baal HaTurim diz que isso alude à campanha de tefilin,
+944	to the mitzvah of tefillin, and so the Rebbe ran the campaign among IDF soldiers here	à mitsvá de tefilin, e por isso o Rebe fez a campanha entre os soldados de Tsahal aqui
+945	in Israel, that in the merit of the hand tefillin, "the arm," in the merit of the head tefillin, "the crown."	em Israel: pelo mérito do tefilin de braço, "o braço", pelo mérito do tefilin de cabeça, "o alto da cabeça".
+946	In one blow, what is "kodkod"?	De uma só vez, o que é "kodkod"?
+947	Conflict, dilemma, conflict,	Conflito, dilema, conflito,
+948	dilemma.	dilema.
+949	Every conflict and dilemma together equals da'at.	Todo conflito e dilema juntos equivalem a daat.
+950	There is upper da'at and lower da'at,	Há daat superior e daat inferior,
+951	there is	há
+952	twice "kod," "kod."	duas vezes "kod", "kod".
+953	Who knows how to solve dilemmas?	Quem sabe resolver dilemas?
+954	From the first dilemma in the Torah, of Sarah our matriarch, whose resolution was "perhaps I will be built through her."	Do primeiro dilema da Torá, o de Sará, nossa matriarca, cuja resolução foi "talvez eu seja edificada por meio dela".
+955	So we can understand	Assim podemos entender
+956	that to solve a dilemma in life one needs the extra binah that was given to a woman more	que, para resolver um dilema na vida, é preciso a binah a mais que foi dada mais à mulher
+957	than to a man.	do que ao homem.
+958	In short, conflicts in the soul, to be in an	Em resumo, conflitos na alma, estar num
+959	inner conflict, is more of a masculine problem.	conflito interior, é um problema mais masculino.
