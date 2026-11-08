@@ -2,7 +2,7 @@
  "name": "lane3-027",
  "lane": 3,
  "created": "2026-11-08T02:27:18.085Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "RNO5-NEizyw",
@@ -409,15 +409,15 @@
  ],
  "tries": {
   "bZ8QKNthAZ8": 1,
-  "quFP-I8wv1Q": 2,
+  "quFP-I8wv1Q": 3,
   "NdO-N8RyHB4": 1,
-  "E63nEh5YMdg": 2,
+  "E63nEh5YMdg": 3,
   "jpR9S6FKr80": 1,
-  "xOd_6xe90XU": 2,
+  "xOd_6xe90XU": 3,
   "Uf3iZbytKUk": 2,
-  "hKkERoGGV6E": 2,
+  "hKkERoGGV6E": 3,
   "dZYj-3XFgzo": 1,
-  "oqtw-eVzDCs": 2,
+  "oqtw-eVzDCs": 3,
   "fxvpkrsWFSA": 1,
   "00ByH-6_pUs": 1
  },
@@ -440,7 +440,14 @@
   "jpR9S6FKr80",
   "dZYj-3XFgzo",
   "fxvpkrsWFSA",
-  "00ByH-6_pUs"
+  "00ByH-6_pUs",
+  "Uf3iZbytKUk"
  ],
- "skipped": []
+ "skipped": [
+  "quFP-I8wv1Q",
+  "E63nEh5YMdg",
+  "xOd_6xe90XU",
+  "hKkERoGGV6E",
+  "oqtw-eVzDCs"
+ ]
 }
