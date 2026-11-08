@@ -1,0 +1,120 @@
+1800	You are called a Shabbat desecrator.	Você é chamado de profanador da Shabat.
+1801	It's forbidden to touch a horse, right Eran, where are you?	É proibido tocar num cavalo, certo, Eran, onde você está?
+1802	An elephant, is it permitted to touch?	Num elefante, é permitido tocar?
+1803	Only in the room.	Só no quarto.
+1804	It's forbidden to touch animals on Shabbat.	É proibido tocar em animais na Shabat.
+1805	Now a man comes and steals your poodle, steals from you.	Agora vem um homem e rouba o seu poodle, rouba de você.
+1806	He stole your watch, a thief. No, a watch isn't muktzeh, but he stole something that is muktzeh,	Ele roubou o seu relógio, um ladrão. Não, relógio não é muktzeh, mas ele roubou algo que é muktzeh,
+1807	the cell phones.	os celulares.
+1808	What do you do on Shabbat in such a situation?	O que se faz na Shabat numa situação dessas?
+1809	Are you allowed to snatch it? That Rav didn't snatch, but said something else to him, and so on.	Você pode arrancá-lo? Aquele rav não arrancou, mas disse outra coisa a ele, e assim por diante.
+1810	That Rav didn't snatch because he figured that if he treated the thief this way, he would	Aquele rav não arrancou porque calculou que, se tratasse o ladrão desse modo, ele
+1811	repent.	faria teshuvá.
+1812	And indeed the Rav achieved his goal, but not everyone is that Rav.	E de fato o rav alcançou o seu objetivo, mas nem todos são aquele rav.
+1813	By halachah you are permitted to snatch the muktzeh from his hand on Shabbat, whether cell phones, whether a lighter,	Segundo a halachá, é permitido arrancar da mão dele o muktzeh na Shabat, sejam celulares, seja um isqueiro,
+1814	whether any muktzeh item, you may rescue it so that the thief	seja qualquer objeto muktzeh, você pode resgatá-lo para que o ladrão
+1815	won't get used to stealing and do more serious things, because if he gets away with it with you, tomorrow he'll steal from	não se acostume a roubar e faça coisas mais graves, pois, se der certo com você, amanhã ele roubará do
+1816	your neighbor. So in order to stop this thief from	seu vizinho. Então, para impedir esse ladrão de
+1817	further thefts, it will be permitted for you on Shabbat to snatch the stolen item from his hand and hold	novos roubos, será permitido a você na Shabat arrancar das mãos dele o objeto roubado e segurar
+1818	this muktzeh in your hands and carry it in your hand.	esse muktzeh nas suas mãos e levá-lo na mão.
+1819	Only, once you're holding the cell phones, you may not put them down on the floor along the way and then pick them up again, rather	Só que, quando você já está segurando os celulares, não pode colocá-los no chão pelo caminho e depois pegá-los de novo; ao contrário,
+1820	as they are held in your hand you go straight, because muktzeh on Shabbat, once it is in your hand,	do jeito que estão na mão você vai direto, pois o muktzeh na Shabat, depois que está na sua mão,
+1821	you are permitted to stay with it until you set it in its place, but you may not put it down along the way.	você pode ficar com ele até colocá-lo no seu lugar, mas não pode largá-lo pelo caminho.
+1822	For example, a man touched a button. He came to button his shirt on Shabbat, he goes to button it and suddenly	Por exemplo, um homem mexeu num botão. Foi abotoar a camisa na Shabat, vai abotoar e de repente
+1823	finds the button in his hand, torn off somehow.	percebe que o botão está na sua mão, arrancado sabe-se lá como.
+1824	The button is in his hand.	O botão está na mão dele.
+1825	Now he looks, and the button is muktzeh.	Agora ele olha, e o botão é muktzeh.
+1826	It's forbidden to touch a button on Shabbat.	É proibido tocar num botão na Shabat.
+1827	But it's already in your hand.	Mas ele já está na sua mão.
+1828	If it's already in your hand, you don't need to throw it away right away.	Se já está na sua mão, você não precisa jogá-lo fora de imediato.
+1829	You can walk with it to the closet in the house, open it and put it	Você pode ir com ele até o armário da casa, abri-lo e colocá-lo
+1830	there.	lá.
+1831	If it's already in your hand.	Se já está na sua mão.
+1832	But to put it down along the way and then take it from here to there, from here to there, that's forbidden to you.	Mas largá-lo pelo caminho e depois pegá-lo daqui para ali, daqui para ali, isso é proibido.
+1833	Yes?	Sim?
+1834	Muktzeh may not be handled, but once it has already reached you, you are permitted to carry it directly.	O muktzeh não pode ser movido, mas, depois que já chegou até você, é permitido levá-lo diretamente.
+1835	There was a story of a man, see what a lesson there is in this.	Houve um caso de um homem, vejam que lição há nisso.
+1836	A man who forced his daughter, yes.	Um homem que obrigou sua filha, sim.
+1837	A story of a man who forced his daughter to stand in his store and sell on Shabbat.	Um caso de um homem que obrigou sua filha a ficar na loja dele e vender na Shabat.
+1838	To stand in his store and sell on Shabbat.	A ficar na loja dele e vender na Shabat.
+1839	A man had a store. He told his daughter, you must open my	Um homem tinha uma loja. Disse à filha: você tem que abrir a minha
+1840	store on Shabbat and work on Shabbat.	loja na Shabat e trabalhar na Shabat.
+1841	The daughter begged, I don't want to work on Shabbat, don't force me. It didn't help.	A filha implorou: não quero trabalhar na Shabat, não me obrigue. Não adiantou.
+1842	Since her father pressured her, she went on Shabbat day and opened the store.	Como o pai a pressionou, ela foi no dia de Shabat e abriu a loja.
+1843	Under duress. The first customer arrived, a gentile, wanting to buy a certain product. He asked what	Coagida. Chegou o primeiro cliente, um gentio, querendo comprar certo produto. Perguntou qual
+1844	the price was, and she tripled it for him.	era o preço, e ela triplicou o valor.
+1845	He wrinkled his nose and left.	Ele torceu o nariz e foi embora.
+1846	Another customer came, the second, also a gentile.	Chegou outro cliente, o segundo, também gentio.
+1847	How much?	Quanto?
+1848	The same with the second, the same with the third.	Assim com o segundo, assim com o terceiro.
+1849	She drove all the customers out of the store.	Ela espantou todos os clientes da loja.
+1850	Why?	Por quê?
+1851	She quoted them a price many times higher than anyone's.	Deu a eles um preço muitas vezes maior que o de todos.
+1852	At the end of the day a rich gentile arrives, he wanted to buy a chandelier.	No fim do dia chega um gentio rico, queria comprar um lustre.
+1853	She also multiplied the price for him several times over.	Para ele também multiplicou o preço várias vezes.
+1854	He was taken aback and left.	Ele se espantou e foi embora.
+1855	She sold nothing on Shabbat.	Ela não vendeu nada na Shabat.
+1856	On Monday that same last gentile comes.	Na segunda-feira volta aquele mesmo último gentio.
+1857	He said to her, listen, I want this chandelier because I haven't found this color in any store, and I'll pay	Ele disse a ela: escute, eu quero este lustre porque não encontrei esta cor em nenhuma loja, e pago
+1858	the price you quoted.	o preço que você disse.
+1859	The price, how many times over was it?	O preço, quantas vezes maior era?
+1860	Five times, we figured.	Cinco vezes, calculamos.
+1861	Five times over.	Cinco vezes mais.
+1862	He paid.	Ele pagou.
+1863	Her father heard this and repented.	O pai dela ouviu isso e fez teshuvá.
+1864	Her father heard this and repented.	O pai dela ouviu isso e fez teshuvá.
+1865	But the daughter came with a halachic question: is it permitted to benefit from this money, since it's Shabbat earnings?	Mas a filha trouxe uma pergunta de halachá: é permitido usufruir desse dinheiro, já que é ganho da Shabat?
+1866	The gentile came on Shabbat and haggled, and in the end came on Monday and paid, but it all started on Shabbat.	O gentio veio na Shabat e pechinchou, no fim veio na segunda e pagou, mas tudo começou na Shabat.
+1867	Earnings of Shabbat are forbidden for benefit, earnings of Shabbat, you may not benefit from them.	O ganho da Shabat é proibido para usufruto; do ganho da Shabat, você não pode usufruir.
+1868	The answer: had the gentile paid on Shabbat it would have been forbidden, but today he paid on a weekday.	A resposta: se o gentio tivesse pagado na Shabat seria proibido, mas ele pagou num dia de semana.
+1869	There's no problem at all.	Não há problema nenhum.
+1870	The fact that the Holy One, blessed be He, helped her, in that she didn't want to make the deal on Shabbat,	O fato de o Santo, bendito seja, tê-la ajudado, já que ela não quis fazer o negócio na Shabat,
+1871	was already a pampering from the world above, but that's no longer connected to this.	já foi um mimo dado a ela, mas isso já não tem relação com o caso.
+1872	About forty years ago, in the winter of 5748, there were two contractors	Há cerca de quarenta anos, no inverno de 5748, havia dois empreiteiros
+1873	building houses next to each other.	construindo casas lado a lado.
+1874	On Friday it was very hard to get bags of cement	Na sexta-feira era muito difícil conseguir sacos de cimento
+1875	at the time, only imported cement.	naquela época, só cimento importado.
+1876	Imported cement arrived, they unloaded pallets for them on Friday, the weather looked a hundred percent fine.	Chegou cimento importado, descarregaram paletes para eles na sexta-feira, o tempo parecia cem por cento bom.
+1877	Suddenly, an hour before Shabbat, it starts to get cloudy, on Shabbat night	De repente, uma hora antes da Shabat, começa a nublar, na noite de Shabat
+1878	they see that it's about to rain any moment.	veem que vai chover a qualquer instante.
+1879	The two contractors, one speaks with the other, one keeps Shabbat, one doesn't, he said to him, come, let's bring in the bags	Os dois empreiteiros, um fala com o outro, um guarda a Shabat, o outro não; ele disse: vamos, vamos entrar com os sacos
+1880	of cement.	de cimento.
+1881	The religious one tells him, listen, I already prayed Maariv,	O religioso diz a ele: escute, eu já fiz Arvit,
+1882	it's Shabbat, it's muktzeh, I'm forbidden to touch it, I don't do business on Shabbat.	é Shabat, é muktzeh, me é proibido tocar nisso, não faço negócios na Shabat.
+1883	Whatever the world wants to do, I keep Shabbat.	O que o mundo quiser fazer, eu guardo a Shabat.
+1884	Do with the cement whatever you will.	Faça com o cimento o que quiser.
+1885	He said to him, but I'm stuck with a month of work with the workers, with all this.	Ele disse: mas eu fico com um mês de trabalho parado, com os operários, com tudo isso.
+1886	He says, it won't be, what will be?	Ele diz: não vai ser, o que vai ser?
+1887	The other said, I'm not giving up.	O outro disse: eu não desisto.
+1888	He called his son and said, go bring all our bags of cement into the house.	Chamou o filho e disse: vá levar todos os nossos sacos de cimento para dentro de casa.
+1889	His son went, on Shabbat night he goes out there, and then	O filho foi, na noite de Shabat ele sai para lá, e então
+1890	it turns out that his son, instead of bringing in his own bags, brought in the neighbor's bags by mistake.	descobre-se que o filho, em vez de levar os sacos dele, levou para dentro os sacos do vizinho, por engano.
+1891	What a wonder.	Que maravilha.
+1892	I'm telling you.	Estou lhe dizendo.
+1893	This son saw HaShem's providence: in place of bringing in his father's bags, he brought in	Esse filho viu a providência de HaShem: em vez de levar os sacos do pai, ele levou
+1894	the bags of this neighbor who didn't want to bring them in, who keeps Shabbat.	os sacos desse vizinho que não quis levá-los, que guarda a Shabat.
+1895	This son repented.	Esse filho fez teshuvá.
+1896	The Creator of the world pays whoever keeps Shabbat.	O Criador do mundo paga a quem guarda a Shabat.
+1897	The blessing of the week depends on keeping Shabbat.	A bênção da semana depende da guarda da Shabat.
+1898	Now let's return to the beginning of the lesson.	Agora vamos voltar ao início da aula.
+1899	Our Shabbat Bereshit is a foundation, not only for weeks, but for all the Shabbatot of the year.	Nossa Shabat Bereshit é um alicerce, não só para semanas, mas para todas as Shabatot do ano.
+1900	Let's now read the next two passages.	Vamos agora ler os dois trechos seguintes.
+1901	Page two.	Página dois.
+1902	The reason why it's called Shabbat Bereshit; afterwards, the laws of smoking, with HaShem's help.	O motivo de se chamar Shabat Bereshit; depois, as leis do fumo, com a ajuda de HaShem.
+1903	The reason why Parashat Bereshit is called Shabbat Bereshit.	O motivo de a parashá de Bereshit ser chamada Shabat Bereshit.
+1904	So writes the book Divrei HaChizkin.	Assim escreve o livro Divrei HaChizkin.
+1905	And why isn't Parashat Noach, Parashat Lech Lecha called Shabbat Noach, Shabbat Lech Lecha, only the first Shabbat	E por que a parashá de Noach, a de Lech Lecha, não se chamam Shabat Noach, Shabat Lech Lecha, e só a primeira Shabat
+1906	is called Shabbat Bereshit? Why?	se chama Shabat Bereshit? Por quê?
+1907	The holy Gaon, the Aryeh d'Vei Ilai, the Rebbe of Vizhnitz, of blessed memory, said:	Disse o santo Gaon, o Aryeh d'Vei Ilai, o Rebe de Vizhnitz, de abençoada memória:
+1908	The matter is this: in the holy Days of Awe, every person then had an awakening of repentance, Rosh HaShanah, Yom Kippur,	A questão é esta: nos santos Dias Terríveis, toda pessoa teve então um despertar de teshuvá, Rosh HaShaná, Yom Kipur,
+1909	all of us had an awakening of repentance, and each of us took on some good practice, each according to his level,	todos nós tivemos um despertar de teshuvá, e cada um assumiu algum bom costume, cada um conforme o seu nível,
+1910	therefore it's called Shabbat Bereshit.	por isso se chama Shabat Bereshit.
+1911	They remind a person that what has passed until now has passed,	Lembram à pessoa que o que passou até agora passou,
+1912	and from now on begins a new order of Bereshit, the commitments you took on Rosh HaShanah and Yom Kippur.	e daqui em diante começa uma nova ordem de Bereshit, as resoluções que você assumiu em Rosh HaShaná e Yom Kipur.
+1913	Try that from now on it will be good, start from now, and they will help you from heaven. The holy Zohar says:	Esforce-se para que daqui em diante seja bom, comece agora, e vão ajudá-lo do céu. Diz o santo Zohar:
+1914	Rabbi Elazar said, come and see, as we learned, one who comes to purify himself is helped.	Disse Rabi Elazar: venha e veja, como aprendemos, quem vem para se purificar recebe ajuda.
+1915	And it asks, what is this help? Explain to me, what help is he given?	E pergunta: qual é essa ajuda? Explique-me, que ajuda lhe dão?
+1916	And it answers: they give him that holy soul to be very close to him, and he returns	E responde: dão-lhe aquela alma santa para estar muito junto dele, e ele volta
+1917	to the service of the Creator. They give him help in this world and in the world to come.	ao serviço do Criador. Dão-lhe ajuda neste mundo e no Mundo Vindouro.
+1918	In this world and the next you will succeed, they will help you from heaven, they will help you. And come,	Neste mundo e no outro você terá sucesso, vão ajudá-lo do céu, vão ajudá-lo. E venham,
+1919	gentlemen, let's see briefly a halachah and a half about smoking on Shabbat. There was a baal teshuvah	senhores, vamos ver brevemente uma halachá e meia sobre fumar na Shabat. Havia um baal teshuvá
