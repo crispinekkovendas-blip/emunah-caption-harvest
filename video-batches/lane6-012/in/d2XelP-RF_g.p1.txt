@@ -1,0 +1,53 @@
+videoId: d2XelP-RF_g
+parte 2 de 2 · traduzir as linhas 120 a 148 (29 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Chayei Sara, Rivka e a hilulá do Rav Shalom Lopes
+RESUMO: O rabino abre na véspera de Shabat da Parashá Chayei Sara, destacando a vida longa de Sara e, segundo o Zohar, os dias de Avraham cheios da bênção de HaShem (Bereshit 24:1). Em seguida fala de Kislev como mês de luz, com base em "ner mitzvá veTorá or" (Mishlei 6:23), e do Shabat Mevarchim. Cita o Baal Shem Tov: até Chanucá ainda é possível fazer teshuvá e mudar o decreto do ano, por isso convém antecipar a teshuvá para a véspera de Rosh Chodesh. Depois passa à história de Rivka: "nish'ela et pi'ha" (Bereshit 24:57), a bênção "achotenu at hayi l'alfei revavá" (24:60), os acrósticos de "revavá" e de "tzaif" e o ensinamento de que a bênção da casa vem pela esposa. Sobre Yitzchak, traz Tosafot (a guematria de "Vayitzchak ba" é Gan Eden), a saída "lasuach basadé" como teshuvá do noivo e o contraste entre o que Yitzchak e Esav enxergam (Bereshit 33:5). Termina com a hilulá do Rav Shalom Lopes, rabino de Akko: sua meticulosidade com o nets hachama, sua amizade com o rosh yeshivá, seu pai mekubal e sua generosidade na tsedaká.
+MOMENTOS: 00:12 Chayei Sara: a vida longa e feliz de Sara · 00:50 Kislev, mês de luz: Torá e mitsvot · 01:20 Avraham "ba bayamim" e a bênção, segundo o Zohar · 01:51 Teshuvá antes de Rosh Chodesh Kislev (Baal Shem Tov) · 03:00 "Nish'ela et pi'ha": o consentimento de Rivka · 03:58 A bênção "alfei revavá" e o acróstico de Rivka · 05:21 Yitzchak ba mi-bo Be'er Lachai Roi (Tosafot) · 05:44 Yitzchak sai ao campo: teshuvá do noivo · 06:42 Cada um olha para o que quer ver: Yitzchak e Esav · 08:03 Rivka pega o véu: a bênção da casa vem pela esposa · 09:28 Hilulá do Rav Shalom Lopes, rabino de Akko · 10:53 Generosidade e simplicidade do Rav Lopes
+FONTES CITADAS: 00:12 Bereshit 23:1 · 00:35 Mishlei 31:25 · 00:55 Mishlei 6:23 · 01:00 Bênção Yotzer Or, Sidur · 01:20 Bereshit 24:1 · 01:27 Zohar, Parashat Chayei Sara · 01:56 Baal Shem Tov · 03:00 Bereshit 24:57 · 03:12 Kidushin 41a · 03:58 Bereshit 24:60 · 04:15 Bereshit 22:17 · 05:07 Acróstico de "revavá · 05:27 Bereshit 24:62 · 05:33 Tosafot sobre Bereshit 24:62 · 05:44 Bereshit 24:63 · 06:02 Viduy, Sidur · 07:03 Bereshit 33:5 · 08:03 Bereshit 24:65 · 08:09 Bava Metzia 59a · 08:15 Bereshit 12:16 · 08:30 Acróstico de "tzaif · 08:58 Tehilim 107:8 · 09:06 Bereshit 24:67 · 10:41 Etz Chaim do Ari, Shaar HaHakdamot
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|09:13|יש את הברכה, יש ישועה, הכל בא ואתה יודע.
+109|09:19|כן.
+110|09:20|אז בעזרת השם שיהיו ישועות גדולות ונחת גדול, ונתחיל ללמוד
+111|09:26|תורה.
+112|09:28|היום זה פטירת רבי שלום נופס.
+113|09:31|שהיה רב של עכו, כן, היה מדקדק מאוד
+114|09:37|על הנץ החמה, הוא היה תמיד חכם שאין כמותו,
+115|09:43|היה ידיד נפש של מורנו ראש הישיבה, הם הקימו ביחד חברת מרחב ישראל,
+116|09:49|ולקח טיפה את כל השיעור שלנו לראות אותו, שיראו כולם איך הוא מתפלל
+117|09:55|שחרית, אחר כך עשינו סיום מסכת כולם בעכו, מה זה היה
+118|10:01|משהו אדיר.
+119|10:03|ואז ביקשתי ממנו סידור של אבא שלו.
+
+LINHAS A TRADUZIR:
+120|10:08|אבא שלו זה רבי יעקב לופס, היה אחד המקובלים הגדולים, המכוונים
+121|10:11|הגדולים.
+122|10:14|אבשל רבי ישב איתו ללמוד בבית הכנסת, הגיע כפיים פה.
+123|10:19|אז ביקשתי ממנו את הסידור, שיש הגהות, והביא לי את זה.
+124|10:25|כן, הביא לי, ואחר כך החזרתי לו.
+125|10:28|הבן שלו, יעקב לופס, בנו, למד איתנו פה שנים.
+126|10:34|הנה, רבי חיים, אתה זוכר, יעקב לופס?
+127|10:37|למד איתנו בבוקר, היינו לומדים שער הליכודיים, ההקדמות.
+128|10:42|היה רבי בנטי.
+129|10:46|כן, לומדים איתו.
+130|10:47|שנים היה פה.
+131|10:49|למד לו דף יומי, הכל איתנו.
+132|10:53|וגם כשהוא היה נותן לחתנים, זה נותן לחתנים כסף,
+133|10:59|מתחתנים לא היה, זה נותן דווקא סכום יפה.
+134|11:04|כמה בזמננו היה נותן, כשאני התחתנתי, אלפיים שקל.
+135|11:14|כן?
+136|11:15|הוא לא היה, הוא היה מקבל משכורת, הוא לא היה משתמש בה.
+137|11:21|כל הכסף שלו הוא צנחה.
+138|11:23|הייתי יושב אצלו בבית, יכול ליפול מהכיסא.
+139|11:28|אין כלום.
+140|11:31|כל הכסף לצדקות.
+141|11:40|הכל היה צדקה, צדקה.
+142|11:43|אשר ואשר יקרו, וגם היה תמיד חכם, מעיין, חריף.
+143|11:47|היה עוני גדול, מה היה אוכל ארוחת בוקר?
+144|11:51|בצהריים, לחם?
+145|11:55|לחם?
+146|11:56|יבש?
+147|11:58|עם תפוז.
+148|12:03|לא היה
