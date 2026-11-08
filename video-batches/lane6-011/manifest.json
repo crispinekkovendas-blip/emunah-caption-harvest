@@ -2,7 +2,7 @@
  "name": "lane6-011",
  "lane": 6,
  "created": "2026-11-07T13:47:02.325Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "BPIFhboO02g",
@@ -563,9 +563,9 @@
   "Z4DGIGkiD8o": 1,
   "hTEJ40y4OFk": 3,
   "b-FP1SrP8RA": 1,
-  "vjGYNeZLRFc": 2,
+  "vjGYNeZLRFc": 3,
   "JEkZZTr7Rc8": 1,
-  "mAAAF0OPScw": 2
+  "mAAAF0OPScw": 3
  },
  "done": [
   "BPIFhboO02g",
@@ -588,6 +588,8 @@
   "EcLVf39iDRM",
   "Ef8wyblLf2I",
   "2b-UfORV-og",
-  "hTEJ40y4OFk"
+  "hTEJ40y4OFk",
+  "mAAAF0OPScw",
+  "vjGYNeZLRFc"
  ]
 }
