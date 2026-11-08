@@ -1,0 +1,79 @@
+videoId: 2UkvadwtFHY
+parte 3 de 3 · traduzir as linhas 240 a 294 (55 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Bava Metzia 4:6-7: prazo para devolver moeda e a perutá
+RESUMO: O rabino estuda as Mishnayot 6 e 7 do quarto capítulo de Bava Metzia, com o comentário de Rabenu Ovadia de Bartenura. Ele recorda que a ona (fraude) em mercadoria tem prazo, "até que mostre a um comerciante ou a um parente" (Mishná 3), e que na moeda o limite é a perda de um sexto (Mishná 5). Para a moeda desgastada, a Mishná 6 fixa o prazo de devolução: nas cidades, até mostrar ao cambista; nas aldeias, até as vésperas de Shabat. Se o dono reconhece a moeda, aceitá-la mesmo após doze meses é só midat chassidut (conduta além da letra da lei), e quem não aceita deixa o outro apenas com ressentimento, pois ele perdeu por demorar. A moeda desgastada ainda serve para redimir maaser sheni, e quem a recusa age por nefesh raá (mau olhar). A Mishná 7 repete a ona de quatro cheseph e acrescenta os cinco casos de perutá: admissão parcial que obriga a juramento, kidushin da mulher, meilá em bens do Hekdesh, obrigação de proclamar o achado e o ladrão que jurou em falso e deve devolver diretamente ao lesado, mesmo que ele esteja na Média.
+MOMENTOS: 00:03 Leitura da Mishná 6: até quando se pode devolver a moeda · 00:33 Recapitulação: ona em mercadoria e prazo da Mishná 3 · 03:04 Mishná 5 e a necessidade de um prazo para moedas · 04:39 Prazo nas cidades (cambista) e nas aldeias (véspera de Shabat) · 06:13 Moeda reconhecida: aceitar após 12 meses é midat chassidut · 07:12 Explicação da Guemará: só resta ressentimento · 09:18 Moeda desgastada em maaser sheni e nefesh raá · 11:22 Bartenura: asimon e a moeda com forma · 12:18 Leitura da Mishná 7 e a ona de quatro cheseph · 13:15 Arizal, Etz Chaim e o livro Milat Kodesh sobre a ona · 16:10 Alegação de duas moedas e admissão de uma perutá · 17:43 Os cinco casos de perutá: kidushin da mulher e meilá · 20:00 Ladrão arrependido que jurou em falso deve devolver pessoalmente
+FONTES CITADAS: 00:03 Mishná Bava Metzia 4:6 · 01:00 Mishná Bava Metzia 4:5 · 02:07 Mishná Bava Metzia 4:3 · 02:43 Mishná Bava Metzia 4:3 (Rabi Tarfon) · 03:12 Mishná Bava Metzia 4:5 · 03:48 Mishná Bava Metzia 4:5 · 04:46 Mishná Bava Metzia 4:6 · 04:52 Rabenu Ovadia de Bartenura em Bava Metzia 4:6 · 06:13 Mishná Bava Metzia 4:6 · 06:43 Bartenura em Bava Metzia 4:6 · 07:35 Guemará sobre Bava Metzia 4:6 · 08:02 Bartenura em Bava Metzia 4:6 · 09:18 Mishná Bava Metzia 4:6 · 09:26 Bartenura em Bava Metzia 4:6 · 11:22 Bartenura em Bava Metzia 4:6 · 12:18 Mishná Bava Metzia 4:7 · 13:15 Arizal, Etz Chaim, Shaar 33 · 13:19 Milat Kodesh, parte 2 · 14:25 Vayikra 27:31 e 22:14 (leis do chomesh) · 15:31 Bartenura em Bava Metzia 4:7 · 15:42 Bartenura em Bava Metzia 4:7 · 16:21 Bartenura em Bava Metzia 4:7 · 17:11 Bartenura em Bava Metzia 4:7 · 17:43 Mishná Bava Metzia 4:7 · 19:30 Mishná Kidushin 1:1 e 2:1 · 19:35 Mishná Bava Metzia 4:7 · 19:41 Mishná Bava Metzia 4:7 · 20:00 Mishná Bava Metzia 4:7 · 21:00 Bartenura em Bava Metzia 4:7 · 21:18 Bamidbar 5:7 · 21:24 Tehilim 89:53
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|17:01|מכיוון שהטענה הייתה שתי כסף, וההודעה הייתה לפחות שווה פרוטה.
+229|17:07|אז זה היה בעצם הכוונה פה.
+230|17:09|הטענה...
+231|17:11|שתי כסף וההודעה שווה פרוטה, אומר הברטנורה שטענו שווה
+232|17:17|שתי מאות כסף יש לי בידך וזה יודה לו מי הם שווה פרוטה ויכפור השאר או יודה לו
+233|17:23|הכל ויכפור פרוטה או שיגיד לו כן אני מודה שאני חייב לך שתי כסף אבל
+234|17:29|תוריד מזה פרוטה כי כבר נתתי לך והוא אומר לא נתת לי גם אפשר לגלגל עליו שבוע
+235|17:38|חמש פירוטות הן יש לנו דין רבותיי בפרוטה
+236|17:43|בחמישה דברים חמש פירוטות הן
+237|17:49|ההודש והפרוטה כמו שלמדנו עכשיו אומר הברטינורה להיות הודאה במקצת והתחייב
+238|17:55|שבועה והאישה מתקדשת בשווה פירוטה זאת אומרת אישה מסכימה
+239|18:00|להתקדש אפילו בשווה פרוטה רבותיי אתם יודעים שפרוטה זה מעט מאוד קחו מאה אחת של כסף,
+
+LINHAS A TRADUZIR:
+240|18:06|תחלקו אותה ל-32, אחד חלקי 32 ממאה של כסף זה פרוטה.
+241|18:13|ואישה מתרצה להתקדש בכך.
+242|18:15|ומה זה להתקדש?
+243|18:17|להיות קנויה.
+244|18:19|אפשר לקנות אישה בפרוטה.
+245|18:22|איך זה ככה, רבי אברהם?
+246|18:24|איך זה ככה?
+247|18:24|אתה האחרון שהתחתנת בחבריה קדישה.
+248|18:29|איך זה ככה?
+249|18:31|אתה יודע איך זה ככה?
+250|18:34|ואני עוד אומר לחתן כל פעם בחתונה, אני אומר לו, זה לא אתה עכשיו נותן לה מתנה, אתה עכשיו
+251|18:40|קונה אותה.
+252|18:41|קונה אותה.
+253|18:43|נכון, זה לא עכשיו קניין שהיא שפחה שלו, אבל הוא קונה אותה
+254|18:48|לאישה שהיא מקודשת לו, והיא אסורה לכל העולם ולכל מעשי ידיה
+255|18:52|וכולי.
+256|18:55|אתה יודע איך זה, רבי אברהם?
+257|18:57|איך יכול להיות שבסכום כל כך פעוט אישה נקנית לבעלה?
+258|19:04|שהגבר רוצה להינשא, האישה רוצה להינשא.
+259|19:07|יפה מאוד, רבי אמרה.
+260|19:08|אתה אומר, מכיוון שהאישה רוצה להינשא יותר ממה שגבר רוצה
+261|19:14|לשא.
+262|19:15|בשביל זה שאלתי אותך, הנה, תראה בחור כמוך.
+263|19:19|אז זה מובן, איך אישה יכולה להיכנות בשווה פרוטה?
+264|19:23|אני מתפלל למה היא לא שילמה לך בכלל.
+265|19:24|אשריך.
+266|19:30|אז אומרת המשנה האישה מתקדשת בשווה פרוטה
+267|19:35|והנהנה בשווה פרוטה מן ההקדש מעל אדם רבותיי שנהנה מן ההקדש.
+268|19:41|מספיק בשווה פרוטה כבר יש פה דין של מעילה והמוצא שווה פרוטה חייב
+269|19:47|להכריז זה כבר דבר שיש לו חשיבות מסוימת ולכן הוא חייב להכריז בדיני אבידה
+270|19:53|והגוזל את חברו שווה פרוטה ונשבע לו אם יש אדם גזל את החבר שלו בשווה פרוטה
+271|20:00|והחבר שלו תבע אותו בבית הדין, והוא אומר מה פתאום לא גזלתי לך, ונשבע בבית הדין.
+272|20:06|אז פטור.
+273|20:09|אחר כך הוא עושה תשובה, חוזר בעצמו, ואומר כן, אני חטאתי, עוויתי, פשעתי, ואני באמת גזלתי וגם
+274|20:14|נשבעתי לשקר בבית דין.
+275|20:17|אני עכשיו רוצה לחזור בתשובה, להחזיר לו את הפרוטה.
+276|20:20|אומרים כן, אבל עכשיו הוא כבר טס לחוץ לארץ.
+277|20:23|מה תעשה?
+278|20:24|הוא נמצא בניו יורק.
+279|20:26|נסע לכמה שנים.
+280|20:28|מה הוא צריך לעשות?
+281|20:30|להזמין טרטיס טיסה ולטוס אחריו, וכשאחזיר לו את שווה פירות ה...
+282|20:38|טוב.
+283|20:39|אה, אתה אומר שהתקשר אליו.
+284|20:41|יפה מאוד.
+285|20:43|אז הוא התקשר אליו.
+286|20:44|הוא אמר לו, לא, אם אתה רוצה שאני אמחל לך, תבוא
+287|20:47|לפה.
+288|20:51|הוא יגיד לו, לא, אני, גזלת לי מהיד, אתה תחזיר ליד.
+289|20:55|בסדר גמור.
+290|21:00|והגוזל את חברו של פרוטה ונשבע לו יוליכנו אחריו אפילו למדי
+291|21:06|אומר רבנו עובדיה מברטנוע יוליכנו אחריו אם הודע לו שנשבע
+292|21:12|לשקר שאז אין לו כפרה עד שיחזירנו לידו ממש ולא ליד שלוחו
+293|21:18|לכתיב ונתן לאשר אשם לו ברוך
+294|21:24|אדוני לעולם אמן ואמן

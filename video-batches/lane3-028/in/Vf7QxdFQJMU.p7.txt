@@ -1,0 +1,47 @@
+videoId: Vf7QxdFQJMU
+parte 8 de 8 · traduzir as linhas 840 a 862 (23 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Bina, janela e a vestimenta da luz de Atzilut a Beria
+RESUMO: O rabino revisa a ot alef do capítulo 4 da parte 3 do Talmud Eser HaSefirot: quando Adam Kadmon se veste em Atzilut, ele o faz apenas na luz retornante do nível de Chochma, e Keter fica embutido em Chochma. Na ot bet, o Arizal diz que a luz passa por Bina "em via de passagem", como por uma janela e sem masach. O Baal HaSulam, no Or Pnimi, observa que o Arizal não foi preciso ao usar o termo "vestimenta", pois só há vestimenta onde existe masach e luz retornante. Explica-se que Bina é a causa de Zeir Anpin e Malchut, e que a luz deve chegar a eles pela cadeia de causa e efeito, com uma alusão ao Daat Tevunot do Ramchal sobre o motivo dessa estrutura. O termo "janela" é explicado pela imagem de um buraco na parede que deixa a luz entrar, e o rabino responde a várias perguntas sobre luz retornante, shorshei kelim e o "defeito" que permite a revelação. Na ot gimel, o masach recua de Guimel para Bet no fim de Atzilut, e o novo zivug de nível Bina dá origem ao mundo de Beria, em que Keter e Chochma ficam ocultos dentro de Bina. Ao final, o rabino relê o texto do Arizal com os esclarecimentos e comenta por que o masach entre Atzilut e Beria é a primeira ocultação real da Chochma.
+MOMENTOS: 00:38 Revisão da ot alef: AK se veste em Atzilut só com Chochma · 04:20 Ot bet: Bina passa a luz por janela, sem masach · 07:04 O Arizal não foi preciso ao dizer "vestimenta" · 09:11 Bina como causa de ZON; luz por via de passagem · 13:14 Ramchal: por que a criação segue causa e efeito · 15:20 O que é "janela" e "orifício estreito" · 21:34 Perguntas: quem recebe a luz em Atzilut · 26:40 Debate: janela, luz retornante e shorshei kelim · 34:00 Ot gimel: Beria se veste em luz retornante de Bina · 38:49 Mudança de masach de Guimel para Bet e o nascimento de Beria · 44:11 Ot yud: masach fechado e ocultação da Chochma · 54:06 Releitura do Arizal e masach entre Atzilut e Beria
+FONTES CITADAS: 00:38 Talmud Eser HaSefirot, parte 3, cap. 4, ot alef · 04:20 Talmud Eser HaSefirot, parte 3, cap. 4, ot bet (título) · 05:07 Arizal, Talmud Eser HaSefirot, parte 3, cap. 4, ot bet · 07:04 Baal HaSulam, Or Pnimi, ot dalet · 09:11 Arizal / Or Pnimi, ot hei · 10:17 Arizal, Talmud Eser HaSefirot, parte 3, cap. 4, ot vav · 11:09 Sanhedrin 104a · 11:30 Arizal, ot zayin, e Or Pnimi, ot zayin · 13:14 Ramchal, Daat Tevunot · 15:03 Arizal, ot chet · 17:19 Baal HaSulam, Or Pnimi, ot chet · 19:43 Arizal, final da ot chet (sobre cinco parzufim de Atzilut) · 34:00 Talmud Eser HaSefirot, parte 3, cap. 4, ot gimel (título) · 34:24 Arizal, Talmud Eser HaSefirot, parte 3, cap. 4, ot gimel · 34:54 Baal HaSulam, Or Pnimi, ot tet · 44:11 Baal HaSulam, Or Pnimi, ot yud · 52:56 Estado de Shabat: os mundos BYA sobem a Atzilut · 53:15 Devarim 16:19 · 54:30 Arizal, Talmud Eser HaSefirot, parte 3, cap. 4, ot alef (releitura) · 57:09 Arizal, Talmud Eser HaSefirot, parte 3, cap. 4, ot gimel (releitura)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|57:41|אשר על ידו מקבלים עשר ספירות דבריה כולם, אפילו כתר
+829|57:47|וחוכמה דבריה.
+830|57:49|ומה שהיינו צריכים לשאול פה, זה למה הוא לא אמר לנו את אותו דבר
+831|57:55|על המעבר בין אק לאצילות.
+832|58:02|שהמסך בין אק לאצילות נעשה לסיתום גמור, על מה?
+833|58:09|על אור הכתר, נכון.
+834|58:12|אמרנו שאין שם שום הסתר עדיין.
+835|58:15|יפה מאוד.
+836|58:16|אז יכול להיות שבגלל זה הוא לא אמר את זה, כי כמו שרון אומר יפה,
+837|58:22|המסך האמיתי הראשון האמיתי שיש לנו, הוא בין אצילות לבריאה, והוא הנקרא
+838|58:28|פרסה.
+839|58:30|זה בגלל שזה הסתר החוכמה.
+
+LINHAS A TRADUZIR:
+840|58:32|כן.
+841|58:32|הסתר החוכמה, כי בחוכמה מראה את הכל.
+842|58:35|נכון, נכון.
+843|58:37|זאת אומרת, יש פה עניין גדול מאוד במעבר הזה בין אצילות לבריאה.
+844|58:44|ולכן הוא לא הזכיר את העניין הזה באיזה, כי היה יכול להגיד לנו גם שמה, היה סיתום גמור, כי
+845|58:49|הרי אנחנו יודעים שאור הכתר הוא מתגלה רק באדם קדמון, לא באצילות.
+846|58:57|אבל הוא לא אמר לנו, כי יש עניין עם המסך הזה.
+847|59:01|נלמד את זה אחר כך?
+848|59:05|כן, באילת.
+849|59:07|טוב, חזקו ואמצו, אנחנו עצרנו באות ד'
+850|59:13|באריזל, נמשיך את המהלך בשבוע הבא.
+851|59:19|תכתבו בבקשה בקבוצה אם אתם מסכימים לעניין
+852|59:25|הזה, עכשיו שהערבית יותר מוקדמת, אפשר להתחיל בשמונה וחצי מבחינתי.
+853|59:31|אז נעשה הצבעה שם בקבוצה ונחליט עד שבוע הבא.
+854|59:38|טוב,
+855|59:44|טוב,
+856|59:51|נהניתי מאוד מהלימוד, חזרו ולימדו וחזרו ושיהיה לתועלת עם
+857|59:57|ישראל ולשמירה על כל החיילים הצדיקים שלנו ורפואה שלמה לכל הפצועים
+858|1:00:02|ובנפש וגוף.
+859|1:00:04|טוב.
+860|1:00:05|אמן.
+861|1:00:06|כל טוב.
+862|1:00:08|תודה רבה, גברתי.
