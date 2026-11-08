@@ -1,0 +1,120 @@
+0	Okay?	Certo?
+1	Good, let's begin.	Bom, vamos começar.
+2	Thank you very much.	Muito obrigado.
+3	Is this the best way?	É melhor assim?
+4	Yes.	Sim.
+5	200	200
+6	Prayer and thanksgiving in the work.	Oração e agradecimento no serviço.
+7	Two opposing things: prayer, that is, request,	Duas coisas opostas: a oração, isto é, o pedido,
+8	and thanksgiving.	e o agradecimento.
+9	Our Sages said: a person should always first arrange the praise of the Holy One, blessed be He,	Os Sábios disseram: o homem deve sempre ordenar primeiro o louvor ao Santo, bendito seja,
+10	and only then pray, just as	e só depois rezar, assim como
+11	Rabbi Elazar also said: a person should always arrange his praise	também disse Rabi Elazar: o homem deve sempre ordenar o seu louvor
+12	and only then pray.	e só depois rezar.
+13	And we need to understand the reason why one must	E é preciso entender a razão pela qual é necessário
+14	first arrange the praise of the Holy One, blessed be He.	primeiro ordenar o louvor ao Santo, bendito seja.
+15	When a person is in a state of lack and wants to pray to HaShem to fill his lack,	Quando a pessoa está em estado de carência e quer rezar a HaShem para que preencha a sua falta,
+16	then he needs the help of the Blessed One, so why	ela precisa da ajuda do Bendito, então por que
+17	not ask right away for what he lacks? Instead, first he must say	não pedir logo o que lhe falta? Em vez disso, primeiro ele precisa dizer
+18	His praise, and only after that ask Him?	o louvor Dele, e só depois pedir?
+19	Fine, with a king of flesh and blood you must first come to him	Tudo bem, com um rei de carne e osso é preciso primeiro chegar a ele
+20	with flattery and say, "Honor to our mighty king, may he be exalted,	com bajulação e dizer: "Honra ao nosso poderoso rei, que seja exaltado,
+21	whose fame goes out across all the oceans and all the stars."	cuja fama percorre todos os oceanos e todas as estrelas."
+22	And then, when the king hears that he is so, so much admired,	E então, quando o rei ouve que é tão, mas tão admirado,
+23	well, then one can ask him for something; surely it is	bem, aí se pode pedir algo a ele; com certeza é
+24	a very small thing for him to grant the requests.	uma coisa muito pequena para ele atender aos pedidos.
+25	But when we speak about the Creator...	Mas quando falamos do Criador...
+26	When we speak about the Creator, what is this needed for?	Quando falamos do Criador, para que serve isso?
+27	With a king of flesh and blood we can understand that first one must give honor to the king,	Com um rei de carne e osso dá para entender que primeiro é preciso dar honra ao rei,
+28	so the king sees that he is a lover of the king, meaning he belongs to the party,	para o rei ver que ele é um amante do rei, ou seja, pertence ao partido,
+29	he simply belongs to the party, and because of that the king will fulfill his request.	ele simplesmente pertence ao partido, e por isso o rei atenderá o seu pedido.
+30	But with the Holy One, blessed be He, how does it make sense to say so?	Mas com o Santo, bendito seja, que sentido há em dizer isso?
+31	Does the Holy One need the person to show Him that he loves HaShem,	Será que o Santo precisa que a pessoa mostre a Ele que ama HaShem,
+32	and only then the Holy One will help him, otherwise not?	e só então o Santo o ajudará, e senão não?
+33	No!	Não!
+34	Is the Holy One not merciful and gracious, and even though the person is unworthy, he does not need	Acaso o Santo não é misericordioso e clemente, e mesmo que a pessoa não seja digna, ela não precisa
+35	to belong to any party, and there is no need here for any flattery, and no need for any	pertencer a partido algum, e não há aqui necessidade de nenhuma bajulação, nem de nenhuma
+36	kissing up. Is the Holy One not merciful and gracious, and even though	lambança. Acaso o Santo não é misericordioso e clemente, e mesmo que
+37	the person is unworthy, HaShem helps those who pray to Him.	a pessoa não seja digna, HaShem ajuda os que rezam a Ele.
+38	As my lord, father, teacher and master, of blessed memory, said about what we say in the Shemoneh Esrei prayer:	Como disse meu senhor, pai, mestre e rabino, de abençoada memória, sobre o que dizemos na oração de Shemoneh Esrei:
+39	"For You hear the prayer of every mouth," every mouth,	"Pois Tu ouves a oração de toda boca", toda boca,
+40	meaning it does not matter which mouth is praying, but the prayer of every mouth,	ou seja, não importa qual boca está rezando, mas a oração de toda boca,
+41	even if this mouth is unimportant, in any case the Holy One hears it.	mesmo que essa boca não seja importante, de qualquer modo o Santo a ouve.
+42	So what is the point of having to first arrange the praise	Então qual é o sentido de ser preciso primeiro ordenar o louvor
+43	of the Holy One, blessed be He? To explain this, let us first clarify	do Santo, bendito seja? Para explicar isso, vamos antes esclarecer
+44	the words of the holy Zohar, Parashat Chayei Sarah, and this is	as palavras do Zohar sagrado, na Parashá Chayei Sará, e esta é
+45	its wording: Come and see: "And it came to pass, before he had finished speaking,"	a sua redação: Vem e vê: "E aconteceu que, antes de ele terminar de falar,"
+46	Who is "he"?	Quem é "ele"?
+47	Eliezer.	Eliezer.
+48	"And behold, Rivka came out."	"E eis que Rivka saía."
+49	The holy Zohar asks: it should have said "Rivka came." Why does it say "Rivka	O Zohar sagrado pergunta: deveria dizer "Rivka veio". Por que está escrito "Rivka
+50	came out"?	saía"?
+51	As it is written, "and behold, Rachel his daughter is coming." Why "came out"?	Como está escrito: "e eis que Rachel, sua filha, vem". Por que "saía"?
+52	And the holy Zohar says: this teaches that the Holy One, blessed be He,	E o Zohar sagrado diz: isso ensina que o Santo, bendito seja,
+53	took her out from among all the people; therefore it is written "and Rivka came out,"	a tirou do meio de todo o povo; por isso está escrito "e Rivka saía",
+54	because she was exceptional, since all of them were wicked,	porque ela era uma exceção, já que todos eram ímpios,
+55	and Rivka came out and separated from all the people of the city, for she was righteous.	e Rivka saía e se separava de todos os habitantes da cidade, pois era justa.
+56	Rashi explains the verse and says, "And I said to my master, perhaps	Rashi explica o versículo e diz: "E eu disse ao meu senhor: talvez
+57	the woman will not follow me." And these are the words of whom? Of	a mulher não me siga." E estas são as palavras de quem? De
+58	Rashi. In the Torah it is written "elai."	Rashi. Na Torá está escrito "elai".
+59	It is not written "ulai" (perhaps); it is written "elai" (to me), and we	Não está escrito "ulai" (talvez); está escrito "elai" (a mim), e nós
+60	vocalize it "ulai," but in the Torah it is written "elai."	vocalizamos "ulai", mas na Torá está escrito "elai".
+61	Eliezer had a daughter and was looking to find a pretext	Eliezer tinha uma filha e procurava um pretexto
+62	for Avraham to tell him to turn to him to marry into his house. So therefore	para Avraham lhe dizer que se voltasse a ele para unir as casas. Então por isso
+63	it is written "elai," as if to say "she will come to me."	está escrito "elai", como se dissesse "ela virá a mim".
+64	Bring your son Yitzchak to me, because I have a daughter	Traga o seu filho Yitzchak a mim, porque tenho uma filha
+65	who could be suitable for him.	que poderia ser adequada para ele.
+66	"Come to me?" Avraham said to him, "My son is blessed	"Vir a você?" disse-lhe Avraham. "Meu filho é abençoado
+67	and you are cursed, and the cursed does not cling to the blessed."	e você é maldito, e o maldito não se une ao abençoado."
+68	That is what he says to his face. Is that nice, to say that to a person's face?	Assim ele diz na cara dele. É bonito dizer isso a alguém na cara?
+69	Huh?	Hein?
+70	Even if he were a gentile, he says "my son is blessed and you are cursed." What kind of	Mesmo que fosse um gentio, ele diz "meu filho é abençoado e você é maldito". Que tipo de
+71	behavior is that? I don't know what to tell you.	comportamento é esse? Não sei o que lhe dizer.
+72	I don't know, maybe he was not well brought up, who knows.	Não sei, talvez não tenha sido bem educado, quem sabe.
+73	Where was he raised and where did he study, where?	Onde foi educado e onde estudou, onde?
+74	And we must explain the matter of Yitzchak and Rivka, as well as the matter of	E é preciso explicar o assunto de Yitzchak e Rivka, bem como o assunto da
+75	Eliezer's daughter, in the way of the service.	filha de Eliezer, no caminho do serviço.
+76	That is, he learns that Avraham and Eliezer are all in one body.	Ou seja, ele aprende que Avraham e Eliezer estão todos em um só corpo.
+77	Not another body: Eliezer, Eliezer is within me.	Não é outro corpo: Eliezer, Eliezer está dentro de mim.
+78	And to this aspect of Eliezer that is within me I say, "You are cursed."	E a esse aspecto de Eliezer que está dentro de mim eu digo: "Você é maldito."
+79	The holy Zohar in Chayei Sarah writes this. It says:	O Zohar sagrado em Chayei Sará escreve isso. Diz:
+80	"Let my master say: as the masters of the Mishnah said, this parashah	"Que meu senhor diga: como disseram os mestres da Mishná, esta parashá
+81	was interpreted in matters of the soul, where Avraham is the secret of the soul	foi interpretada em assuntos da alma, em que Avraham é o segredo da alma
+82	and Sara the body; and in this way one should explain the matter of Yitzchak and Rivka,	e Sara o corpo; e assim se deve explicar o assunto de Yitzchak e Rivka,
+83	as the Zohar says, and these are its words: Rabbi Yehuda said, "Sara his mother"	como diz o Zohar, e estas são as suas palavras: Rabi Yehuda disse: "Sara, sua mãe"
+84	means that just as Yitzchak's form was like Avraham's form,	significa que, assim como a forma de Yitzchak era como a forma de Avraham,
+85	so Rivka's form was exactly that of Sara.	assim a forma de Rivka era exatamente a de Sara.
+86	That is why it is written "Sara" with him.	Por isso está escrito "Sara" com ele.
+87	According to this, one should also explain that Yitzchak is	Segundo isso, deve-se explicar também que Yitzchak é
+88	the soul and Rivka is the body.	a alma e Rivka é o corpo.
+89	So when the Torah speaks of Yitzchak and Rivka,	Então, quando a Torá fala de Yitzchak e Rivka,
+90	it is speaking of the soul and the body of each one of us.	ela fala da alma e do corpo de cada um de nós.
+91	It is not speaking of history, but of	Ela não fala de história, mas fala das
+92	the parts of the soul that exist within us.	partes da alma que existem dentro de nós.
+93	Now, in the order of the service of a person who wants to reach	Pois bem, na ordem do serviço da pessoa que quer alcançar
+94	devekut with HaShem, one must always walk on two lines, which are	a devekut com HaShem, é preciso sempre andar em duas linhas, que são
+95	right and left.	direita e esquerda.
+96	Necessarily. The matter of the right is called wholeness,	Necessariamente. A questão da direita chama-se plenitude,
+97	that is, that the person feels satisfaction in the work, and for this he	isto é, que a pessoa sente satisfação no serviço, e por isso ela
+98	gives praise and thanks to HaShem for having merited him to be among the king's servants;	dá louvor e agradece a HaShem por tê-la feito merecer estar entre os servos do rei;
+99	this is called right.	isso se chama direita.
+100	And he sees that he has reached a spiritual level that is not	E ele vê que chegou a um nível espiritual que não
+101	found among other servants of HaShem, and he recognizes his lowliness	se encontra em outros servos de HaShem, e reconhece a sua baixeza
+102	and does not know why HaShem chose him more than other people	e não sabe por que HaShem o escolheu mais do que a outras pessoas
+103	who have not yet reached this level, that he finds himself in these states, these awarenesses,	que ainda não chegaram a esse nível, que ele se encontra nesses estados, nesses conhecimentos,
+104	and for this he thanks and praises the King, and he can fulfill what	e por isso agradece e louva o Rei, e pode cumprir o que
+105	is written: "Serve HaShem with gladness; come before Him with singing."	está escrito: "Servi a HaShem com alegria; vinde perante Ele com cântico."
+106	And then, what would he pray for, for HaShem to help him, since he feels no lack in his state?	E então, pelo que rezaria para HaShem o ajudar, se ele não sente falta alguma no seu estado?
+107	He says, I am so	Ele diz: eu sou tão
+108	small; where did I even come from?	pequeno; de onde eu sequer vim?
+109	I came from nowhere.	Vim de lugar nenhum.
+110	And still I see that millions of people have not reached	E ainda assim vejo que milhões de pessoas não chegaram
+111	the Holy One, and I did reach the Holy One; how can that be?	ao Santo, e eu cheguei ao Santo; como isso pode ser?
+112	And then he is full of joy over this.	E então ele fica cheio de alegria por isso.
+113	Serve HaShem with gladness.	Servi a HaShem com alegria.
+114	Come before Him with singing; he is full of joy over the enormous privilege he has.	Vinde perante Ele com cântico; ele está cheio de alegria pelo enorme privilégio que tem.
+115	And if you are not full of joy, then it is one of two things:	E se você não está cheio de alegria, então é uma de duas coisas:
+116	either you do not feel that you are small,	ou você não sente que é pequeno,
+117	but that you are big; and if you are big, what is there to rejoice about?	mas que é grande; e se você é grande, o que há para se alegrar?
+118	That the Holy One drew you close?	Que o Santo o aproximou?
+119	Of course, of course.	Claro, claro.
