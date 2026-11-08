@@ -1,0 +1,40 @@
+160	Yes.	Sim.
+161	Good.	Bom.
+162	Very good.	Muito bom.
+163	Does it do a good job?	Ele faz um bom trabalho?
+164	What else?	O que mais?
+165	Yes, something.	Sim, alguma coisa.
+166	I mean, you can do whatever you want with it.	Quer dizer, você pode fazer o que quiser com isso.
+167	Yes.	Sim.
+168	It's very interesting.	É muito interessante.
+169	It can be a chavruta for learning, it's unbelievable.	Ele pode ser uma chavruta para o estudo, é inacreditável.
+170	Yes, yes.	Sim, sim.
+171	So, do you want to talk about politics?	Então, você quer falar de política?
+172	I want to talk about everything, yes.	Quero falar de tudo, sim.
+173	I prepared topics.	Preparei temas.
+174	A minority government is taking shape.	Está se formando um governo de minoria.
+175	A government of 46 or 48 Knesset members.	Um governo de 46 ou 48 deputados.
+176	What about the haredim?	E os haredim?
+177	I don't know about the haredim, but now they say, about the people of the previous coalition, whom I hope	Não sei sobre os haredim, mas agora dizem, sobre o pessoal da coalizão anterior, que espero
+178	won't be the coalition anymore: what hypocrites, you spoke against the haredim, and now you're taking them in.	que não seja mais a coalizão: que hipócritas, falaram contra os haredim, e agora vão levá-los.
+179	Yes.	Sim.
+180	I say, given the terrible situation Israel is in, that it is in real existential danger.	Eu digo, diante da situação terrível em que Israel se encontra, que está em perigo existencial real.
+181	Yes.	Sim.
+182	Truly an existential danger.	Realmente um perigo existencial.
+183	It's possible that the State of Israel will cease to exist, to that extent.	É possível que o Estado de Israel deixe de existir, a esse ponto.
+184	From what point do you see this?	A partir de que ponto você vê isso?
+185	What's the trigger you see?	Qual é o gatilho que você vê?
+186	Trump's defeat in America.	A derrota de Trump na América.
+187	Now?	Agora?
+188	Yes.	Sim.
+189	And why?	E por quê?
+190	What?	O quê?
+191	Because he is, as it were, the helper...	Porque ele é, por assim dizer, o ajudante...
+192	Those who rose...	Aqueles que subiram...
+193	These...	Esses...
+194	May His name be praised.	Que o Seu nome seja louvado.
+195	These are the haters of Israel.	Esses são os que odeiam Israel.
+196	The Democrats.	Os democratas.
+197	The one who spoke the most against Israel rose.	Quem mais falou contra Israel subiu.
+198	And even the Republicans are now distancing themselves from Benjamin Netanyahu, because they think he drove...	E até os republicanos agora estão se afastando de Benjamin Netanyahu, porque acham que ele provocou...
+199	Listen, the whole world is completely against us.	Escute, o mundo inteiro está totalmente contra nós.

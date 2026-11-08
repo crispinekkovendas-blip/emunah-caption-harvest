@@ -282,10 +282,10 @@
   "nMvXiSaPN1E": 3,
   "ZGdxXVBqmfY": 3,
   "i5QbpARuhXM": 2,
-  "0fn_Foe_eC0": 2,
-  "AnXDrHJltK8": 2,
-  "5FEDGVe16ZA": 2,
-  "BftyfgDZJ1c": 2
+  "0fn_Foe_eC0": 3,
+  "AnXDrHJltK8": 3,
+  "5FEDGVe16ZA": 3,
+  "BftyfgDZJ1c": 3
  },
  "done": [
   "UdWnwpWXsfA",
@@ -294,6 +294,10 @@
  ],
  "skipped": [
   "nMvXiSaPN1E",
-  "ZGdxXVBqmfY"
+  "ZGdxXVBqmfY",
+  "0fn_Foe_eC0",
+  "AnXDrHJltK8",
+  "5FEDGVe16ZA",
+  "BftyfgDZJ1c"
  ]
 }
