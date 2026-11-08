@@ -1,0 +1,64 @@
+videoId: o6lsXLfzCfU
+parte 7 de 19 · traduzir as linhas 240 a 279 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: a komá de cada mundo
+RESUMO: O rabino retoma o capítulo 4 da parte 3 do Talmud Eser HaSefirot e pede que o aluno não se perca nos detalhes e lembre o objetivo do capítulo: a komá (nível de luz) do zivug define a qualidade das dez sefirot de cada mundo. Ele relê os títulos das letras A a C, que tratam de Atzilut, onde todas as sefirot estão na komá de Chochmá, e de Briá, onde estão na komá de Biná. Em seguida lê o Ari e o Or Pnimi de Baal HaSulam sobre Keter e Chochmá ficarem "guenuzim" (ocultos) em Biná, com o exemplo da luz oculta para os justos. Explica a diferença entre "janela", ou passagem, e "massach satum" (tela fechada): o massach não limita o que está acima dele, só o que está abaixo. Comenta a expressão do Zohar "Imá Ilaá mekanená bekursiya" (o ninho como algo não permanente), o movimento "minah uvah" e as dez sefirot de Yetzirá e Assiyá. Termina com a correspondência entre os quatro mundos e as letras de HaVaYaH (Yud, Hei, Vav, Hei), com os milluim, e com a regra de que cada mundo recebe apenas da luz do massach que está acima dele.
+MOMENTOS: 00:17 Não perder a visão geral do capítulo 4 · 01:03 Títulos das letras A a C: komá de Atzilut e Briá · 04:47 Letra D: a luz da Biná e o massach satum · 10:44 Or Pnimi: Keter e Chochmá guenuzim em Biná · 12:49 O que significa "guenuz": a luz oculta · 16:05 Debate sobre o significado de cada komá · 18:40 "Imá Ilaá mekanená bekursiya": o zivug não permanente · 23:32 Letra Hei: a Biná de Atzilut e a Biná de Briá · 26:02 Letra Vav: Zeir Anpin de Briá e a regra do massach · 36:04 Minah uvah: as dez sefirot de Yetzirá e Assiyá · 42:24 Letra Chet: os mundos e as letras de HaVaYaH · 48:09 Letra Tet: a regra geral e fecho do capítulo · 52:11 Pergunta final: Briá versus Biná
+FONTES CITADAS: 01:03 Talmud Eser HaSefirot, parte 3, cap. 4 (título geral) · 01:59 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Alef · 02:41 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Bet · 03:51 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Guimel · 05:21 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Dalet · 06:06 Zohar, Imá Ilaá mekanená bekursiya · 10:44 Baal HaSulam, Or Pnimi no Talmud Eser HaSefirot III, cap. 4 · 13:01 Chagigá 12a (a luz oculta para os justos) · 18:46 Baal HaSulam, Or Pnimi, sobre o termo kinun (ninho) · 18:40 Zohar, Imá Ilaá mekanená bekursiya · 21:58 Devarim 6:4 · 24:01 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Hei · 26:19 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Vav · 27:29 Baal HaSulam, Or Pnimi, sobre a Biná de Atzilut · 35:47 Baal HaSulam, Or Pnimi, sobre minah uvah · 38:44 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Ayin · 40:27 Baal HaSulam, Or Pnimi, sobre as seis sefirot de Zeir Anpin · 41:07 Baal HaSulam, Or Pnimi, sobre Imá Tataá · 43:10 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Chet · 43:55 Mishná Yomá 6:2 (o Kohen Gadol e o Nome no Yom Kipur) · 44:07 Baal HaSulam, Or Pnimi, sobre HaVaYaH e as dez sefirot · 45:47 Baal HaSulam, Or Pnimi, sobre as dez sefirot de cada mundo · 48:49 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Tet · 50:14 Baal HaSulam, Or Pnimi, sobre a regra geral
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|17:21|אוקיי?
+229|17:23|אמרנו, ערב טוב יש לי שאלה.
+230|17:25|ערב טוב.
+231|17:25|ערב טוב.
+232|17:26|אתה יודע, איפה התפרצתי?
+233|17:29|כן.
+234|17:29|מה זה למה התפרצתי?
+235|17:31|אתה יודע, התפרצתי?
+236|17:33|סליחה.
+237|17:35|יש לי שאלה פה לגבי מה שהוא אמר, הוא רוצה לדעת איך ידעו מה
+238|17:41|הוא פחות, מה הוא יותר, ברור שיש לזה איזה הבנה שיש, איזה השקפה יש
+239|17:47|לזה, נשאלת פה שאלה עמוקה.
+
+LINHAS A TRADUZIR:
+240|17:52|אז מה אתה אומר?
+241|17:55|לדעתי לא יודע, אולי לא גילו פה, אבל ברור שיש, כמו שהוא שואל, מה זה אומר על העולם, ברור שיש
+242|18:01|לזה הבנה, אבל אם הם דיברו על...
+243|18:04|אור פחות מארור, או על האורות בכלל.
+244|18:09|כן.
+245|18:09|ברור ש...
+246|18:10|אני אומר, ידעו, כולנו לא אומרים איפה נהיה.
+247|18:14|בסדר, אז אני אומר, אוקיי, ברור שיש הבדל בין עולם הבריאה לעולם האצילות,
+248|18:20|אבל אנחנו לא עכשיו מתעסקים בזה בכלל, אנחנו מתעסקים באיך המערכת בנויה,
+249|18:26|ואיך זיווג אחד מוציא עולם, ואיך עוד זיווג מוציא עולם, ואיך הקומה יורדת.
+250|18:32|זה הכל.
+251|18:34|בפשטות, בואו נתקדם, כן.
+252|18:40|אות מ' וזה סוד אימא עילה מקננה בקורסיה.
+253|18:46|אומר באור פנימי אות מ' כי הערה שאינה
+254|18:52|תמידיית מכונה בשם כינון, בדומה לציפור שאינה יושבת
+255|18:58|תמיד על אפרוחיה אלא לעיתים.
+256|19:01|ומתוך שזיווג דבחינה ב' הנ"ל אינה הערה תמידית בעולם הבריאה, על
+257|19:07|כן מכנה אותה בלשון קינון, ואומר אימא עילאה מקננה,
+258|19:13|בקורסייה.
+259|19:15|בינה נקראת אימא עילאה, ושוב זה קומת בינה, והטעם שבינה נקראת
+260|19:21|כן, איים בספרי פנים מסבירות, מי שרוצה ילך לשם, וטעם קריאת שם ואין
+261|19:27|כאן מה להוסיף.
+262|19:29|אין כאן מה להוסיף.
+263|19:32|מה זאת אומרת, אבל למה זה מעיר לא תמידי?
+264|19:37|כאילו, מה קורה?
+265|19:38|כי יש זיווג תמידי ויש זיווג לא תמידי.
+266|19:41|יש זיווג שהוא לאיטו, לשעתו, ויש זיווג שהוא תמידי.
+267|19:46|הזיווג הזה ששולח אור לעולמות בריאה, יצירה,
+268|19:52|עשייה, הוא לא זיווג תמידי ולכן זה נקרא מקננה.
+269|19:58|ואני אלמד את זה אחר כך?
+270|20:01|כן, כן, אבל הרבה יותר מאוחר, וזה שייך לעליית העולמות, זה שייך
+271|20:07|לעוד כל מיני עניינים בחוכמה, אבל קבל את זה ככה.
+272|20:12|זה, אני רוצה שתלמד להניח את הדברים, זה לא תמיד צריך שישר לסדר
+273|20:18|אותם בקופסאות המתאימות לנו.
+274|20:22|זה...
+275|20:27|ובגלל הכינון הזה אפשר להגיד ששם כבר הכלים נפרדו בעצם מהאור, כמו באצילות
+276|20:32|ששם הכל אחד?
+277|20:34|כן.
+278|20:34|בגלל הכינון הזה?
+279|20:36|לא, לא בגלל הכינון הזה, אבל כן, כל המערכת

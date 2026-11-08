@@ -1,0 +1,64 @@
+videoId: XDJjJ_GQP4k
+parte 3 de 27 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Atualidades, política e Parashá: paralisia facial e Chayei Sarah
+RESUMO: Avri Gilad abre o programa com o rosto paralisado por uma paralisia facial, provocada pelo excesso de chiclete, e diz que escolheu a alegria e seguir a vida normalmente, usando a limitação como instrumento. Em seguida, os dois falam de política: ficam com a ideia de que é preciso agir com o que é possível no momento novo, e debatem a formação de um governo minoritário, os haredim, os árabes e os beduínos. O Rav Gottlieb aplica o ensinamento judaico ao vizinho que "afia a espada à noite" ("kabdehu vachashdehu", honre-o e desconfie dele) e lembra Esav chegando com 400 homens ao encontro de Yaakov: segundo os Sábios, os pensamentos de fraternidade de Yaakov ajudaram a decidir o encontro. Eles comentam a mudança de tom na sociedade haredi diante da candidatura de Leitner, a ameaça do "mundo vindouro e Guehinom" e os rapazes de Gur no parque Yarkon. O repórter Yossi Meir, de Miami, liga a Parashá Chayei Sarah ("betulá ve'ish lo yada", Rivká) à pureza e à anulação (bitul), e traz ensinamentos do Rebe de Lubavitch e a ideia do Midrash de que HaKadosh Baruch Hu quis uma morada nos mundos inferiores. O programa termina com o desejo de Shabat Shalom e a brincadeira "ve'yehi akov lemishor".
+MOMENTOS: 00:26 Paralisia facial: escolher a alegria e seguir a vida normal · 01:48 A causa: vício em chiclete e inflamação do nervo · 06:13 Assistente pessoal de IA e a IA dos escritos de Baal HaSulam · 08:08 Governo minoritário e perigo existencial; agir com o possível · 12:29 Acordo com o setor haredi e serviço nacional · 17:00 O vizinho que afia a espada: kabdehu vachashdehu e Esav · 21:20 Ben Gvir, eleitores árabes e a segurança em Rahat · 22:50 Educação para os beduínos e proibição de rostos cobertos · 31:05 Mudança no mundo haredi após a candidatura de Leitner · 37:26 Rapazes de Gur no parque Yarkon · 43:44 Yossi Meir de Miami: Chayei Sarah, Rivká e a "betulá" · 47:00 Jogar em casa sem se sentir em casa; a morada nos mundos inferiores
+FONTES CITADAS: 07:35 Escritos de Baal HaSulam · 17:34 Kabdehu vachashdehu · 18:03 Bereshit 33:1 · 18:14 Bereshit 33:9 · 18:27 Chazal sobre Esav e Yaakov (Bereshit 33) · 25:50 Mishlei 10:2 · 43:10 Ensinamento do Rebe de Lubavitch · 43:50 Bereshit 24:16 · 48:32 Midrash Tanchuma, Nasso 16 · 51:52 Yeshayahu 40:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|03:33|אה, ככה?
+69|03:34|כן.
+70|03:35|בכלל, כל המחשבה של הדיקור הסיני שיש מרידיאנים, איזה קווי אנרגיה שעוברים בגוף, היא לא מגובה
+71|03:41|בשום נתון ביולוגי.
+72|03:43|אין דבר כזה.
+73|03:45|אז מי שמאמין בזה, זה טוב לו, אבל כיוון שאני לא מאמין בזה, זה גם לא יעזור לי.
+74|03:49|אני לא אלך לדיקור סיני.
+75|03:51|אז אתה אומר שהסינים טעו בגדול, טעו וטועים.
+76|03:55|זה בא מסין, כל התזות המרידיאניות.
+77|03:58|נכון, זה נולד בימי מאות זה דונג.
+78|04:02|שלא היו תרופות מהמערב, כי המדינה הייתה פושטת רגל לגמרי.
+79|04:07|תמציאו לי כל מיני שיטות עתיקות, כל מיני צמחים וכל מיני דיקורים כדי לרפא את האנשים.
+
+LINHAS A TRADUZIR:
+80|04:13|כן.
+81|04:14|אין לזה...
+82|04:15|ליד הרפואה המערבית זה לא שווה כלום.
+83|04:20|בסדר, דיברתי עם מיכל אנסקי.
+84|04:23|אני יודע.
+85|04:24|גם אתה דיברת איתה?
+86|04:25|כן.
+87|04:28|איזה אדם מרמי אתה.
+88|04:30|משהו, משהו.
+89|04:31|והיא אמרה לי, תמשיך את החיים שלך כרגיל, פשוט תעשה הכל כרגיל, אל תיפול לתודעה של חולה.
+90|04:37|נכון.
+91|04:38|אז על הבוקר הלכתי לאימון הבריכה שלי, הנה באתי לפה.
+92|04:42|נכון, נכון.
+93|04:42|ואחר כך אני אאשפס עצמי בקשייה.
+94|04:46|זה באמת עצה טובה.
+95|04:48|אני כל החיים שלי נהגתי ככה.
+96|04:51|תמיד.
+97|04:53|אני פשוט סוג של אדם שלא מסוגל לשכב.
+98|04:57|אני רק לצאת ידי חובתי.
+99|05:00|אני משכיב את עצמי בלילה בצורה סמלית.
+100|05:03|כן.
+101|05:03|אבל ככה...
+102|05:06|אני זוכר אפילו שהייתי ילד, חולה עם חצבת, לא יודע מה.
+103|05:10|כן.
+104|05:11|אין לי כוח לשכב.
+105|05:16|אז באמת צריך להמשיך כרגיל.
+106|05:18|כן.
+107|05:18|עד כמה...
+108|05:19|היום ארוחת הבוקר.
+109|05:20|כן.
+110|05:21|בדרך כלל אני אוכל יוגורט עם כמה רוחמניות, לוקח לי שתי דקות נגיד.
+111|05:25|כן.
+112|05:25|היום לקח לי רבע שעה.
+113|05:26|כן.
+114|05:27|אחרי כל כף לנקות את כל הסלון.
+115|05:36|אולי תנסה לעשות את זה עם קאש.
+116|05:39|לא, אני לא יכול, אי אפשר.
+117|05:40|אי אפשר.
+118|05:40|אי אפשר לייצר כוח יניקה, כי חצי פה לא משנה.
+119|05:45|אבל חצי יניקה לא יכול להיות.

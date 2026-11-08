@@ -1,0 +1,64 @@
+videoId: MDk7A-WbbcA
+parte 42 de 51 · traduzir as linhas 1640 a 1679 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Gadlu laHaShem iti e o Ratzon como Or Makif (Maamar 15)
+RESUMO: A aula começa com a Idra Zuta, no Zohar de Parashat Haazinu, onde Rashbi diz que passou a vida meditando em Tehilim 34:3, "BaHaShem tithalel nafshi, yishmeu anavim veyismachu". Rashbi resume sua entrega com "bi achida, bi lehita, bi dvekut, bi hishtadlut". O rabino expõe as leituras clássicas, que veem nefesh, ruach e neshamá, e a leitura do pai do Rebe, que vê os Patriarcas e a hishtadlut como tikun da Malchut. Ele relaciona isso aos tefilin e aos que entraram no Pardes (Chagigá 14b), e Tehilim 34:4, "Gadlu laHaShem iti", leva a halachot sobre o Sefer Torá (Masechet Soferim), o zimun e o volume do amen (Berachot 45a, 53b). Na segunda parte, o Maamar "BeShaá SheHikdimu" de 5672 distingue o ratzon, que é or makif e pura essência, dos kochot penimiim, que se revestem. O rabino compara isso com bósons e férmions e com o Higgs, e mostra as quatro ações do makif. Por fim, explica "elef alafim" (Daniel 7:10) e "hayesh mispar ligdudav" (Iyov 25:3) à luz de Chagigá 13b, com a teoria dos conjuntos de Cantor, o continuum e Gödel.
+MOMENTOS: 11:49 Idra Zuta e a despedida de Rashbi · 12:28 Pergunta de Rashbi sobre BaHaShem tithalel nafshi · 15:13 Bi achida, bi lehita, bi dvekut, bi hishtadlut · 21:30 Leitura clássica: nefesh, ruach e neshamá · 25:08 Leitura do pai do Rebe: mercavá e hishtadlut · 34:43 Tefilin, a mente oculta e o Pardes · 46:17 Gadlu laHaShem iti e o Mashiach sobre o telhado · 52:32 Halachot do versículo Gadlu: Soferim e zimun · 58:35 Amen sem elevar a voz sobre o que abençoa · 1:07:21 Quem responde amen e o seu valor · 1:33:08 Maamar: ratzon (makif) versus kochot penimiim · 1:42:46 Bósons e férmions como or makif e pnimi · 2:05:08 As quatro ações do makif · 2:17:13 Elef alafim, Iyov e a teoria dos conjuntos
+FONTES CITADAS: 11:49 Zohar, Idra Zuta, Parashat Haazinu · 12:34 Tehilim 34:3 · 13:30 Peshatim e comentaristas do Zohar sobre "anavim · 15:09 Zohar, Idra Zuta · 17:34 Targum Onkelos em Shemot 22:15 · 17:48 Bamidbar 12:3 · 18:51 Machzor de Rosh HaShaná, chazarat hashatz · 20:19 Pai do Rebe, comentário sobre o Zohar · 21:30 Comentaristas clássicos do Zohar · 25:44 Yechezkel 33:24 e Yeshayahu 51:2 · 32:44 As quatro parashiot dos tefilin · 33:59 Amidá, bênção Avot · 34:43 Escritos do Arizal sobre os tefilin · 36:21 Chagigá 14b · 39:17 Tehilim 118:22 · 39:39 Shir HaShirim 6:12 · 40:59 Zohar, Idra Zuta, Eilu HaMelachim · 41:13 Zohar, Idra Zuta · 46:17 Tehilim 34:4 · 46:45 Midrash sobre o Mashiach no telhado do Beit HaMikdash · 47:34 Tehilim 48:5 · 49:25 Bereshit 36:39 · 52:02 Devarim 33:5 · 53:00 Sidur, retirada do Sefer Torá · 55:20 Masechet Soferim · 55:49 Sefer Kol Bo · 56:20 Abudraham · 57:12 Berachot 45a · 57:58 Devarim 32:3 · 58:35 Berachot 45a · 58:53 Shulchan Arukh, Orach Chaim, leis do amen · 1:06:02 Rabi Eliezer HaGadol e Rabi Akiva, segredos de Shir HaShirim · 1:07:21 Berachot 53b · 1:12:46 Shulchan Arukh, Orach Chaim · 1:14:19 Shulchan Arukh do Admor HaZaken, Orach Chaim, último siman preservado · 1:23:55 Maamar BeShaá SheHikdimu, Tarab, cap. 15 · 1:35:07 Bereshit 1:1 · 1:35:25 Tehilim 148:5 · 2:06:44 Tanya, Igeret HaKodesh 20 · 2:08:49 Rambam, Yesodei HaTorá 2:10 · 2:15:21 Bereshit Rabá 68:9 · 2:17:27 Chagigá 13b · 2:17:41 Daniel 7:10 · 2:20:28 Iyov 25:3 · 2:20:21 Bava Batra 14b · 2:23:03 Chagigá 13b · 2:35:29 Keter Shem Tov, ensinamento do Baal Shem Tov
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+1628|2:23:16|‫מה שכתוב בספר יו"ש, ‫הגדודים זה אין סוף.
+1629|2:23:20|‫מה זה היום?
+1630|2:23:22|‫זה נקרא
+1631|2:23:27|ספר לתורת הקבוצות.
+1632|2:23:36|‫אני חושב שזה עוד נושא עצום.
+1633|2:23:39|‫זה ה-foundation היום, ‫היסוד של המדעים, ‫של
+1634|2:23:44|כל המדעים, זה הכל סטר.
+1635|2:23:47|‫שיש ענף של סטר, ‫שזה תורת החדות, ‫רוב סטר, ‫שזה המתמט וזה המודלים ‫של
+1636|2:23:53|ה-Spring Theory היום ‫בכל הדברים המתקדמים, ‫שזה עדיין בגדר השערה
+1637|2:23:59|בלבד ‫של הוויזיטר.
+1638|2:24:04|‫איך להגיע לאותו גראביטה ‫באקס
+1639|2:24:07|פרדגורית וכו'.
+
+LINHAS A TRADUZIR:
+1640|2:24:10|‫אבל ייסוד היסודות של המתמטיקה ‫אומרים לו שכל המדע היום זה ספר.
+1641|2:24:16|‫מי המציא את זה?
+1642|2:24:18|קנצל.
+1643|2:24:19|‫ג'ורג' קנצל.
+1644|2:24:21|‫בני יותר ממאה שם.
+1645|2:24:25|‫כנראה שהיה פעם ממשלחת חזנים, ‫שהתרזן בנים מאוד יפה
+1646|2:24:31|בימים ללילה.
+1647|2:24:34|זה נהייתה לחזנים, איזה נכד שלא ידעת שהוא יהודי בכלל.
+1648|2:24:39|אפילו בתוך הספרות יש טוענים, יש טוענים.
+1649|2:24:43|יש טוענים שהוא יהודי, וכאילו השם שלו מוכיח
+1650|2:24:49|להיות ראשון במבטלים בתוך המשפחה שלו, שמוכיח
+1651|2:24:55|שזה גם נתעלה בלבדם של האמא זה יהודי, שניתנו בין הרגועים.
+1652|2:25:02|יש גם כן מי שרוצה להוכיח את זה.
+1653|2:25:05|בכל זאת, זה שהוא המציא סטרי, שזה עכשיו המסיס של כל
+1654|2:25:12|המעטמטים, גם הכל הכל, וזה
+1655|2:25:17|שעוד יותר, אפשר לומר שזה ממש
+1656|2:25:22|קידוש שם שמיים, שהוא היחיד בעולם שהכניס אות עברית
+1657|2:25:28|לתוך ה...
+1658|2:25:32|סימבולים של המתמטיקה שזה א'; אין סור זה
+1659|2:25:38|א' זה הא' זה הא' כשחותמים את הטקסט מ' שאמר א' אפס על
+1660|2:25:43|אחד וכל הדברים שאני אסביר לצאת איך יש א' נאמר שיש ב' אבל
+1661|2:25:49|העיקר זה א' וזה שיש א' בתוך הכל זה הא' הזה זה משהו
+1662|2:26:03|אני יודע מתי אתה, מי שמכיר קצת
+1663|2:26:09|מה זה קידוש השם לתוכה,
+1664|2:26:15|מה אתה?
+1665|2:26:17|עכשיו, הוא טען שכל מה שגילה, שבעצם מה
+1666|2:26:20|שגילה במילה אחת, שיש אין סוף דאגות של אין סוף.
+1667|2:26:25|אבל הוא אמר לה, מכל האין סוף דאגות של האין סוף, יש מה שקורה אין סוף ומוחלט שבישובו יאשם.
+1668|2:26:32|‫הוא טוען, הוא כותב, ‫שהוא טוען סוף המוחלט, ‫באפסולנות אינפניטי, ‫גילה
+1669|2:26:40|לו את ה...
+1670|2:26:40|‫התעשה את ירי שלו.
+1671|2:26:45|‫הוא נביא, הוא נביא שלהם סוף המוחלט.
+1672|2:26:51|‫הוא נביא בשביל להביא את זה ‫לעולם, לגלות את זה בעולם.
+1673|2:26:56|‫אז יש הרבה בירור מה לעשות על אותו...
+1674|2:27:05|‫הוא נפטר בבית
+1675|2:27:10|משובעים.
+1676|2:27:16|‫בגיל
+1677|2:27:17|שבעים ושתיים.
+1678|2:27:23|‫אבל היום...
+1679|2:27:28|‫כאילו אומרים שאם היה היום, ‫היו אפילו...

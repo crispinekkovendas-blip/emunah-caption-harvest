@@ -1,0 +1,40 @@
+videoId: PAc0hzdLMlQ
+parte 1 de 1 · traduzir as linhas 0 a 29 (30 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Targum Onkelos, Chayei Sara: Eliezer e Rivka no poço
+RESUMO: A aula é uma leitura do Targum Onkelos em aramaico, na tradição iemenita, do terceiro trecho (mevarech shlishi) da Parashá Chayei Sara, Bereshit 24:12-27. Começa com a oração do servo de Avraham a Adonai, o D'us do seu senhor, pedindo que a missão dê certo (24:12). Ele está junto à fonte, onde as moças da cidade saem para tirar água, e propõe o sinal: a moça a quem pedir que incline o cântaro e que oferecer também água para os camelos será a escolhida para Yitzchak (24:13-14). Rivka aparece, filha de Betuel, filho de Milka, bela e virgem, e desce à fonte, enche o cântaro e sobe (24:15-16). O servo corre ao seu encontro, pede um pouco de água, e ela lhe dá de beber e se oferece para tirar água para os camelos (24:17-20). O homem a observa em silêncio, para ver se a viagem teve êxito, e dá-lhe a argola e as pulseiras de ouro (24:21-22). Ele pergunta de quem ela é filha e se há lugar na casa do pai; ela responde que é filha de Betuel e que há palha, forragem e lugar (24:23-25). A leitura termina com o servo inclinando-se em adoração e bendizendo Adonai, que o guiou à família de seu senhor (24:26-27).
+MOMENTOS: 00:25 Oração do servo a Adonai, D'us de Avraham · 00:33 O servo junto à fonte de água · 00:41 O sinal: dar de beber a ele e aos camelos · 00:59 Rivka, filha de Betuel, sai com o cântaro · 01:07 Moça bela e virgem desce à fonte · 01:17 O servo corre ao encontro dela · 01:29 Rivka dá de beber e tira água para os camelos · 01:47 O homem a observa em silêncio · 01:53 A argola e as pulseiras de ouro · 02:07 Pergunta sobre a família e o lugar para pernoitar · 02:20 Resposta de Rivka: palha, forragem e lugar · 02:27 O servo se inclina e bendiz Adonai
+FONTES CITADAS: 00:25 Targum Onkelos em Bereshit 24:12 · 00:33 Targum Onkelos em Bereshit 24:13 · 00:41 Targum Onkelos em Bereshit 24:14 · 00:59 Targum Onkelos em Bereshit 24:15 · 01:07 Targum Onkelos em Bereshit 24:16 · 01:17 Targum Onkelos em Bereshit 24:17 · 01:23 Targum Onkelos em Bereshit 24:18 · 01:29 Targum Onkelos em Bereshit 24:19 · 01:35 Targum Onkelos em Bereshit 24:20 · 01:47 Targum Onkelos em Bereshit 24:21 · 01:53 Targum Onkelos em Bereshit 24:22 · 02:07 Targum Onkelos em Bereshit 24:23 · 02:14 Targum Onkelos em Bereshit 24:24 · 02:20 Targum Onkelos em Bereshit 24:25 · 02:27 Targum Onkelos em Bereshit 24:26 · 02:30 Targum Onkelos em Bereshit 24:27
+
+LINHAS A TRADUZIR:
+0|00:00|תרג'ו מונגולוס, ספר בראשית, פרושת חיי סורו, מבורך שלישי.
+1|00:25|ואמר אדוני, אלוהי דריבוני אברהם, זומן כענגו דומיה מודל,
+2|00:31|ועבד דרבו, אמר ריבוני אברהם.
+3|00:33|הואנו גוהם על עינו דמיו, ובנות אנו שגרתו, ייפגון
+4|00:39|למים למיו.
+5|00:41|ותהי עולה מתו, תאמר להר כניכא ענקול דתיך ואשתה, ותאמר אש,
+6|00:47|ואף ג'ם לא חשקה, יותח זומנתו לעבדך לי צחוק, ובהתע, הרי
+7|00:53|עת רבועים ריבוני, ואהווהו, עזלו שסילמה לולו, ואהו
+8|00:59|נפגע נפגעת, תהיית ילד לבזו אל בר מלכו, תתנוחר אחו ידע עברו,
+9|01:05|וגולתה על כתבה.
+10|01:07|ועולה מתו, שפירו למחזל אחדו, בדולתו, וכבר לא ידעך,
+11|01:13|ונחתת לעינו, ומלוף גולתך וסלגת.
+12|01:17|ורוחת עבדו לקדום אותך, ואמר, אשגיניך עד, זער מיום
+13|01:22|מגולתך.
+14|01:23|ואמרת, אשת ריבוני, ואחיית, ואחיתת גולתך, על
+15|01:29|ידך ואשגיתך, ושסיית להשגו יותך, ואמרת, אף לרמלו
+16|01:35|חמלה, עבדי ספגון למשתה, ואהחייאת, ונפסת כולת אהלת
+17|01:41|שגיאו, ורחטת עוד, לבר עולמי מלא, ומלות לכל גבלוהי,
+18|01:47|וגוברו שוהה בהם מסתכל, שותק, למיטה, האסלחה דנוי, ורחי
+19|01:53|אימלו, ואהוו, כת ספגו רמליו למשתה, ונוסף גוברו
+20|01:59|קדושותא ואהבו, תגלו מתגולה, ותרן שרן על ידהו, וסגל עשר
+21|02:04|סלעין תדהב מתגולהן.
+22|02:07|ואמר בת מנעת, חוואכה עלי, האטבט אבוייך, עתר כושר לנו
+23|02:13|למבות.
+24|02:14|ואמרת לך, בת בתוול ענו, בר מלכו, דילדת לנוחר.
+25|02:20|ואמרת לך, אף תמנו, אף כיסתו סג'י עמנו, אף עתר כושר למבות.
+26|02:27|וכרע גוברו, וסגת גדו מאדנוי.
+27|02:30|ואמר בריך אבנוי אלוהיך דה ריבוני אברהם, דה לא מן הטייב ותה,
+28|02:36|וגוש תהמין ריבוני, אנו, ואורח תוק אנו דברני אבנוי, רבית אחווי
+29|02:42|דה ריבוני.

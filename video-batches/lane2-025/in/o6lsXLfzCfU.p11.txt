@@ -1,0 +1,64 @@
+videoId: o6lsXLfzCfU
+parte 12 de 19 · traduzir as linhas 440 a 479 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: a komá de cada mundo
+RESUMO: O rabino retoma o capítulo 4 da parte 3 do Talmud Eser HaSefirot e pede que o aluno não se perca nos detalhes e lembre o objetivo do capítulo: a komá (nível de luz) do zivug define a qualidade das dez sefirot de cada mundo. Ele relê os títulos das letras A a C, que tratam de Atzilut, onde todas as sefirot estão na komá de Chochmá, e de Briá, onde estão na komá de Biná. Em seguida lê o Ari e o Or Pnimi de Baal HaSulam sobre Keter e Chochmá ficarem "guenuzim" (ocultos) em Biná, com o exemplo da luz oculta para os justos. Explica a diferença entre "janela", ou passagem, e "massach satum" (tela fechada): o massach não limita o que está acima dele, só o que está abaixo. Comenta a expressão do Zohar "Imá Ilaá mekanená bekursiya" (o ninho como algo não permanente), o movimento "minah uvah" e as dez sefirot de Yetzirá e Assiyá. Termina com a correspondência entre os quatro mundos e as letras de HaVaYaH (Yud, Hei, Vav, Hei), com os milluim, e com a regra de que cada mundo recebe apenas da luz do massach que está acima dele.
+MOMENTOS: 00:17 Não perder a visão geral do capítulo 4 · 01:03 Títulos das letras A a C: komá de Atzilut e Briá · 04:47 Letra D: a luz da Biná e o massach satum · 10:44 Or Pnimi: Keter e Chochmá guenuzim em Biná · 12:49 O que significa "guenuz": a luz oculta · 16:05 Debate sobre o significado de cada komá · 18:40 "Imá Ilaá mekanená bekursiya": o zivug não permanente · 23:32 Letra Hei: a Biná de Atzilut e a Biná de Briá · 26:02 Letra Vav: Zeir Anpin de Briá e a regra do massach · 36:04 Minah uvah: as dez sefirot de Yetzirá e Assiyá · 42:24 Letra Chet: os mundos e as letras de HaVaYaH · 48:09 Letra Tet: a regra geral e fecho do capítulo · 52:11 Pergunta final: Briá versus Biná
+FONTES CITADAS: 01:03 Talmud Eser HaSefirot, parte 3, cap. 4 (título geral) · 01:59 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Alef · 02:41 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Bet · 03:51 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Guimel · 05:21 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Dalet · 06:06 Zohar, Imá Ilaá mekanená bekursiya · 10:44 Baal HaSulam, Or Pnimi no Talmud Eser HaSefirot III, cap. 4 · 13:01 Chagigá 12a (a luz oculta para os justos) · 18:46 Baal HaSulam, Or Pnimi, sobre o termo kinun (ninho) · 18:40 Zohar, Imá Ilaá mekanená bekursiya · 21:58 Devarim 6:4 · 24:01 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Hei · 26:19 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Vav · 27:29 Baal HaSulam, Or Pnimi, sobre a Biná de Atzilut · 35:47 Baal HaSulam, Or Pnimi, sobre minah uvah · 38:44 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Ayin · 40:27 Baal HaSulam, Or Pnimi, sobre as seis sefirot de Zeir Anpin · 41:07 Baal HaSulam, Or Pnimi, sobre Imá Tataá · 43:10 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Chet · 43:55 Mishná Yomá 6:2 (o Kohen Gadol e o Nome no Yom Kipur) · 44:07 Baal HaSulam, Or Pnimi, sobre HaVaYaH e as dez sefirot · 45:47 Baal HaSulam, Or Pnimi, sobre as dez sefirot de cada mundo · 48:49 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Tet · 50:14 Baal HaSulam, Or Pnimi, sobre a regra geral
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+428|31:33|כי אין זרענפין מפסיק לה למלכות דבריאה במסך שלו הנמצא ממטה למעלה
+429|31:40|כי הוא רק דרך מעבר לחוד דהיינו מבחינת חלון ולא
+430|31:46|מבחינת מסך כמה היה חשוב ללמוד את ההגדרה
+431|31:52|של חלון בחלק ב', כדי לזכור את זה היטב?
+432|31:57|לא, זה ברור, זה ממש לא ברור.
+433|32:01|הכל מבין, כאילו, אני קורא וזה לא נשמע לי הגיוני, כי מדובר על
+434|32:06|הערה מלמעלה למטה, מי זה ראנפין למלכות, והוא אומר על
+435|32:12|המסך שלא עולה למעלה, כאילו...
+436|32:15|מי זה ראנפין למלכות?
+437|32:17|בואו נדבר על בריאה, אוקיי?
+438|32:19|כי הוא מדבר על בריאה כרגע.
+439|32:21|בריאה, עשר ספירות דה בריאה, כולם בקומת בינה, נכון?
+
+LINHAS A TRADUZIR:
+440|32:28|קיבלנו, נכון?
+441|32:30|כן.
+442|32:32|כשעובר מבינה לזר אנפין, אז האוויות מזדככת
+443|32:38|מבית לאלף, ומיד מזדווג על
+444|32:44|זה אור אינסוף, ומעלה קומה של אור חוזר עד
+445|32:51|זרענפין.
+446|32:53|בשביל מה?
+447|32:54|בשביל להוציא את עולם יצירה.
+448|32:56|נכון?
+449|32:57|כן.
+450|32:58|הוא אומר לך, אל תחשוב שבגלל שהיה שם זיווג על זרענפין בבריאה,
+451|33:04|עכשיו יימנע מזרענפין להעביר את אור הבריאה למלכות.
+452|33:13|מה זה אומר?
+453|33:14|זה עבר, זה כבר כאילו...
+454|33:17|משהו שם לא...
+455|33:19|לא מסתדר.
+456|33:20|היה כבר השתגשלות.
+457|33:22|ועכשיו הזדקח מסך, זה משהו חדש.
+458|33:24|עכשיו יש לי הלבשה...
+459|33:26|אז הוא אומר לך, המסך הזה, אז הוא אומר לך בפשטות רפאי, למסך הזה, תדע
+460|33:32|לך, הוא לא עשה שם שום גבול, מפני שהאוביות לא עולה ממעל המסך, ולכן
+461|33:37|אור הבריאה ממשיך להעיר גם במלכות הבריאה.
+462|33:41|אתה רוצה לנסח את זה ככה?
+463|33:44|ננסח את זה ככה.
+464|33:48|כאילו בצורה החדשה.
+465|33:50|אני מבין איפה אתה אחוז.
+466|33:51|אתה אחוז כאילו בזה של יצאו עשר ספירות דבריאה, הוערו לגמרי בהערה
+467|33:57|של קומת בינה.
+468|34:00|עכשיו מה אתה מדבר איתי על זה?
+469|34:01|זה ראנפין שמיר למהלכות של בריאה.
+470|34:04|נכון, כי אנחנו כבר אמרנו שזה נוצר דבר חדש.
+471|34:08|נכון.
+472|34:09|וכוך של מסך זה כבר צורה חדשה.
+473|34:11|נכון, אז הוא אומר לך, תדע, למרות שיצא שם מסך חדש עכשיו בעוביות א',
+474|34:17|שמעלה קומה של זרנפין, זה לא מונע מהזרנפין להמשיך להעביר בבריאה
+475|34:23|את אור הבריאה, קומת בינה, למלכות דבריאה.
+476|34:29|ושוב, אלה דברים רוחניים, זה קורה סימולטנית, זה קורה בבת
+477|34:35|אחת, זה אנחנו שמתקשים לתפוס את זה, אנחנו רוצים שהאוטובוס יעבור
+478|34:41|מתחנה אחת לתחנה אחרת.
+479|34:44|בסדר אני אומר אולי בצורה החדשה של המסך

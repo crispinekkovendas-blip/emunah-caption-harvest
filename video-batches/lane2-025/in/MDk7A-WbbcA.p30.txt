@@ -1,0 +1,64 @@
+videoId: MDk7A-WbbcA
+parte 31 de 51 · traduzir as linhas 1200 a 1239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Gadlu laHaShem iti e o Ratzon como Or Makif (Maamar 15)
+RESUMO: A aula começa com a Idra Zuta, no Zohar de Parashat Haazinu, onde Rashbi diz que passou a vida meditando em Tehilim 34:3, "BaHaShem tithalel nafshi, yishmeu anavim veyismachu". Rashbi resume sua entrega com "bi achida, bi lehita, bi dvekut, bi hishtadlut". O rabino expõe as leituras clássicas, que veem nefesh, ruach e neshamá, e a leitura do pai do Rebe, que vê os Patriarcas e a hishtadlut como tikun da Malchut. Ele relaciona isso aos tefilin e aos que entraram no Pardes (Chagigá 14b), e Tehilim 34:4, "Gadlu laHaShem iti", leva a halachot sobre o Sefer Torá (Masechet Soferim), o zimun e o volume do amen (Berachot 45a, 53b). Na segunda parte, o Maamar "BeShaá SheHikdimu" de 5672 distingue o ratzon, que é or makif e pura essência, dos kochot penimiim, que se revestem. O rabino compara isso com bósons e férmions e com o Higgs, e mostra as quatro ações do makif. Por fim, explica "elef alafim" (Daniel 7:10) e "hayesh mispar ligdudav" (Iyov 25:3) à luz de Chagigá 13b, com a teoria dos conjuntos de Cantor, o continuum e Gödel.
+MOMENTOS: 11:49 Idra Zuta e a despedida de Rashbi · 12:28 Pergunta de Rashbi sobre BaHaShem tithalel nafshi · 15:13 Bi achida, bi lehita, bi dvekut, bi hishtadlut · 21:30 Leitura clássica: nefesh, ruach e neshamá · 25:08 Leitura do pai do Rebe: mercavá e hishtadlut · 34:43 Tefilin, a mente oculta e o Pardes · 46:17 Gadlu laHaShem iti e o Mashiach sobre o telhado · 52:32 Halachot do versículo Gadlu: Soferim e zimun · 58:35 Amen sem elevar a voz sobre o que abençoa · 1:07:21 Quem responde amen e o seu valor · 1:33:08 Maamar: ratzon (makif) versus kochot penimiim · 1:42:46 Bósons e férmions como or makif e pnimi · 2:05:08 As quatro ações do makif · 2:17:13 Elef alafim, Iyov e a teoria dos conjuntos
+FONTES CITADAS: 11:49 Zohar, Idra Zuta, Parashat Haazinu · 12:34 Tehilim 34:3 · 13:30 Peshatim e comentaristas do Zohar sobre "anavim · 15:09 Zohar, Idra Zuta · 17:34 Targum Onkelos em Shemot 22:15 · 17:48 Bamidbar 12:3 · 18:51 Machzor de Rosh HaShaná, chazarat hashatz · 20:19 Pai do Rebe, comentário sobre o Zohar · 21:30 Comentaristas clássicos do Zohar · 25:44 Yechezkel 33:24 e Yeshayahu 51:2 · 32:44 As quatro parashiot dos tefilin · 33:59 Amidá, bênção Avot · 34:43 Escritos do Arizal sobre os tefilin · 36:21 Chagigá 14b · 39:17 Tehilim 118:22 · 39:39 Shir HaShirim 6:12 · 40:59 Zohar, Idra Zuta, Eilu HaMelachim · 41:13 Zohar, Idra Zuta · 46:17 Tehilim 34:4 · 46:45 Midrash sobre o Mashiach no telhado do Beit HaMikdash · 47:34 Tehilim 48:5 · 49:25 Bereshit 36:39 · 52:02 Devarim 33:5 · 53:00 Sidur, retirada do Sefer Torá · 55:20 Masechet Soferim · 55:49 Sefer Kol Bo · 56:20 Abudraham · 57:12 Berachot 45a · 57:58 Devarim 32:3 · 58:35 Berachot 45a · 58:53 Shulchan Arukh, Orach Chaim, leis do amen · 1:06:02 Rabi Eliezer HaGadol e Rabi Akiva, segredos de Shir HaShirim · 1:07:21 Berachot 53b · 1:12:46 Shulchan Arukh, Orach Chaim · 1:14:19 Shulchan Arukh do Admor HaZaken, Orach Chaim, último siman preservado · 1:23:55 Maamar BeShaá SheHikdimu, Tarab, cap. 15 · 1:35:07 Bereshit 1:1 · 1:35:25 Tehilim 148:5 · 2:06:44 Tanya, Igeret HaKodesh 20 · 2:08:49 Rambam, Yesodei HaTorá 2:10 · 2:15:21 Bereshit Rabá 68:9 · 2:17:27 Chagigá 13b · 2:17:41 Daniel 7:10 · 2:20:28 Iyov 25:3 · 2:20:21 Bava Batra 14b · 2:23:03 Chagigá 13b · 2:35:29 Keter Shem Tov, ensinamento do Baal Shem Tov
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+1188|1:52:14|‫-כן, יכול להיות שבאותו מקום, ‫באותו זמן, ‫יכול להיות שני רצונות.
+1189|1:52:18|‫שני בוטמים יכולים לתפוס ‫באותו מקום באותו זמן.
+1190|1:52:21|‫זו ההגדרה, אותו quantum state.
+1191|1:52:24|‫כאילו, זה לא מקום ‫להיות באותו quantum state.
+1192|1:52:30|‫במצב קוונטי, באותו זמן.
+1193|1:52:31|‫לראות המיונים הם לא יכולים ‫to occupy, to say,
+1194|1:52:37|quantum state, ‫לא זמני,
+1195|1:52:39|זה לא שייך.
+1196|1:52:45|‫אז זה ממש אותו הדבר, ‫שהוא מסביר כאן
+1197|1:52:50|בפנימית התורה, ‫שהעור המקיף הוא בבחינת עין, ‫כך הוא
+1198|1:52:56|נעצר, ‫כך הוא יוצא, ‫המל הראשון שלו שיוצא מה...
+1199|1:53:01|‫שיוצאים מהעצם, ‫ואילו כל הכוחות
+
+LINHAS A TRADUZIR:
+1200|1:53:07|הפנימיים, ‫שהם הרבה יותר, ‫לפי הסטנדרד מדר, ‫אבל שוב זה שלוש לאחד, ‫לפי כאן זה שלוש ריבוי
+1201|1:53:11|לאחד, ‫תשע לאחד, ‫לא קוראים את הדף, ‫לא קוראים את
+1202|1:53:18|המקום.
+1203|1:53:22|‫בכל אופן, זה יחס דומה ‫שלכל רצון
+1204|1:53:28|יש...
+1205|1:53:30|‫לקף לקף קופות פנימיים.
+1206|1:53:33|‫זה מלכות דבר מלכתחילה.
+1207|1:53:36|‫אז שוב, גם הספין
+1208|1:53:40|הוא...
+1209|1:53:43|‫התרופה של הספין הוא כאילו מצפיעה, ‫על ההבדל
+1210|1:53:50|בין מקיף לבין פנימי.
+1211|1:53:52|‫ובעיקר זו התכונה העיקרית שלה, ‫האם זה יכול להיות ‫באותו מקום שניים ביחד.
+1212|1:53:57|‫כלומר, שאם הוא עין...
+1213|1:53:59|‫כמובן שזה קשור שאין לו
+1214|1:54:05|מסה.
+1215|1:54:05|‫אם אין לו מסה, ‫אז שניים שאין לו מסה ‫יכולים לתפוס את אותו מקום.
+1216|1:54:09|‫אבל מה שעכשיו אמרנו, ‫זה לא נקרא בערבי, ‫בגלל שאמר
+1217|1:54:15|שבאפוסטים ‫יש כמה שכן ויש להם מסה.
+1218|1:54:20|‫העיקר זה הפוטונים והגלואנים ‫שאין להם מסה.
+1219|1:54:25|‫אבל ה-W פרלגול...
+1220|1:54:27|זי פרדקוס, יש להם כן משהו שהם, מי שמעביר את הכוח החלש.
+1221|1:54:32|אבל אף על פי כן, הספין שלהם זה אחד.
+1222|1:54:37|קודם כל נעשה חשבון, אם יש ארבעה מוזנים שיש להם, ב-standard model, שזה
+1223|1:54:43|ארבע על ארבע, שיש להם ספין אחד.
+1224|1:54:46|יש שתיים עשרה, לעומתם, שיש להם חצי ספין.
+1225|1:54:52|אז כמה ספין זה כולם ביחד?
+1226|1:54:55|‫אני עושה עשרה, ומ-16 חזרנו לעשר, ‫בגלל שיש בו ארבעה ספינים,
+1227|1:55:00|‫אחד, זה ארבע, ‫יש 12 חצי ספין, שזה שש.
+1228|1:55:06|‫אז כל הספין ביחד זה עשרים, ‫כי שיש בו שישה עשר, ‫שישה
+1229|1:55:11|עשר חלקיקים על המתארג.
+1230|1:55:15|‫עכשיו, בסטנדרט מדו זה לא כולל ‫כמה חלקיקים מאוד חשובים ‫שמשוורים...
+1231|1:55:22|שהמדע משאר אותה מתוך הנסחאות אבל לא מתאר אותה
+1232|1:55:29|במציאות, שהשניים העיקריים הם אמורים להיות בוזונים.
+1233|1:55:37|אמרנו שהבוזונים האלו המעבירי הם הרצונות.
+1234|1:55:41|מי שרץ מעביר את האנרגיות, את
+1235|1:55:47|הכוחות, הפורס.
+1236|1:55:50|אז יש אחד ‫בשביל ה...
+1237|1:55:52|אלא יש לו דמי לב, ‫שזה הפורטון, זה
+1238|1:55:57|העור, חלקית שלו, ‫מסה אפס.
+1239|1:56:00|‫יש אחד בשביל החזק, ‫מי שמחבר את הנוקליסט, ‫הגרם יושבים בתוך האטום.

@@ -1,0 +1,64 @@
+videoId: XDJjJ_GQP4k
+parte 22 de 27 · traduzir as linhas 840 a 879 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Atualidades, política e Parashá: paralisia facial e Chayei Sarah
+RESUMO: Avri Gilad abre o programa com o rosto paralisado por uma paralisia facial, provocada pelo excesso de chiclete, e diz que escolheu a alegria e seguir a vida normalmente, usando a limitação como instrumento. Em seguida, os dois falam de política: ficam com a ideia de que é preciso agir com o que é possível no momento novo, e debatem a formação de um governo minoritário, os haredim, os árabes e os beduínos. O Rav Gottlieb aplica o ensinamento judaico ao vizinho que "afia a espada à noite" ("kabdehu vachashdehu", honre-o e desconfie dele) e lembra Esav chegando com 400 homens ao encontro de Yaakov: segundo os Sábios, os pensamentos de fraternidade de Yaakov ajudaram a decidir o encontro. Eles comentam a mudança de tom na sociedade haredi diante da candidatura de Leitner, a ameaça do "mundo vindouro e Guehinom" e os rapazes de Gur no parque Yarkon. O repórter Yossi Meir, de Miami, liga a Parashá Chayei Sarah ("betulá ve'ish lo yada", Rivká) à pureza e à anulação (bitul), e traz ensinamentos do Rebe de Lubavitch e a ideia do Midrash de que HaKadosh Baruch Hu quis uma morada nos mundos inferiores. O programa termina com o desejo de Shabat Shalom e a brincadeira "ve'yehi akov lemishor".
+MOMENTOS: 00:26 Paralisia facial: escolher a alegria e seguir a vida normal · 01:48 A causa: vício em chiclete e inflamação do nervo · 06:13 Assistente pessoal de IA e a IA dos escritos de Baal HaSulam · 08:08 Governo minoritário e perigo existencial; agir com o possível · 12:29 Acordo com o setor haredi e serviço nacional · 17:00 O vizinho que afia a espada: kabdehu vachashdehu e Esav · 21:20 Ben Gvir, eleitores árabes e a segurança em Rahat · 22:50 Educação para os beduínos e proibição de rostos cobertos · 31:05 Mudança no mundo haredi após a candidatura de Leitner · 37:26 Rapazes de Gur no parque Yarkon · 43:44 Yossi Meir de Miami: Chayei Sarah, Rivká e a "betulá" · 47:00 Jogar em casa sem se sentir em casa; a morada nos mundos inferiores
+FONTES CITADAS: 07:35 Escritos de Baal HaSulam · 17:34 Kabdehu vachashdehu · 18:03 Bereshit 33:1 · 18:14 Bereshit 33:9 · 18:27 Chazal sobre Esav e Yaakov (Bereshit 33) · 25:50 Mishlei 10:2 · 43:10 Ensinamento do Rebe de Lubavitch · 43:50 Bereshit 24:16 · 48:32 Midrash Tanchuma, Nasso 16 · 51:52 Yeshayahu 40:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|39:21|מכאן לשם, תוך שנייה נהיה חושך, ואני לא מוצא אותה, ואני לא רואה אותה, וחושך בפארק,
+829|39:27|ואין תאורה.
+830|39:28|כן.
+831|39:29|וילדה קטנה, ואני לא יודע מה לעשות, ואני מתחיל להתרוצץ בפארק.
+832|39:35|ואני מאבד את זה.
+833|39:36|כאילו, באמת, היא, אתה יודע, היא ילדה קטנטונת, היא כבר יודעת קצת לדבר.
+834|39:41|פתאום איזה משפחה חרדית מגיעה עם הילדה, מביאים
+835|39:46|לאותה.
+836|39:49|זה היה באחת התקופות האלה שהגן מוצף בחרדים.
+837|39:53|ישועה גדולה קמה לי מהעדה החרדית באותו יום.
+838|39:56|בקיץ?
+839|39:57|בחורף זה היה, כי נהיה חושך פתאום בארבע וחצי.
+
+LINHAS A TRADUZIR:
+840|40:03|או מה.
+841|40:05|נגיד שלום ליוסי מאיר, נראה מה יש לו לספר לנו ונתקדם.
+842|40:08|יוסי שלום.
+843|40:08|שלום לאבי, שלום לכבוד הרב.
+844|40:12|איפה אתה?
+845|40:14|במיאמי, ביץ', עדיין.
+846|40:20|איך שם?
+847|40:21|שואלים עלינו?
+848|40:23|איך שם שואלים...
+849|40:26|האמת, מי שואל עלינו?
+850|40:28|האוכלוסייה המקומית.
+851|40:31|לא, לא נראה שבמעמי ביש זה הכי מעניין ועסוקים כאן בענייניהם
+852|40:38|אפילו היה כאן את הבחירות ובדיוק מה שצדד את העיניי שכאן כי אם לא
+853|40:44|הייתה מישהו שלא יודע שיש בחירות גם לא היה יודע שיש בחירות כי אין כל מיני שלטי חוצות
+854|40:49|פיראטיים לא מדבקים שם שום דבר?
+855|40:53|לא, שום דמות לא הודבקה שום דמות לא...
+856|40:58|זאת אומרת, מישהו שהוא בא מבחוץ אפילו לא יודע מי הולך להיבחר בכלל, עד כדי כך, לא כמו אצלנו
+857|41:03|שלקראת בחירות ככה שומרי הסף דואגים שנראה את
+858|41:09|הפרצוף שלהם, שגם אחרי הבחירות אנחנו לאורך שנים נראה את הפרצוף שלהם על כל מיני
+859|41:14|שלטים פיראטיים.
+860|41:16|אז כאן לא, אין את זה, אין את זה וזה מאוד יפה.
+861|41:22|עוד דבר, כן, עוד דבר שאין את זה, ככה זכיתי להיות השבוע,
+862|41:28|קודם כל אבריץ', כן, אמר שיש הרבה יהודים במיאמי ישראלי, וכן, זכיתי
+863|41:34|לראות השבוע, אתמול הייתי בקניון ונטורה, אבנטורה, קניון גדול כאן,
+864|41:40|שזה מושבה, מסתבר שזו מושבה ישראלית יהודית, אנחנו הרוב,
+865|41:46|וקניון ונטורה אנחנו הרוב.
+866|41:48|לגמרי.
+867|41:48|שלמרות שאנחנו המעט מבין העמים, בכן ובטור אנחנו הרוב גם בין בעלי החנויות
+868|41:55|והדוכנים וגם בין בעלי המבקרים לקניות של בגסים
+869|42:01|וכל מיני דברים ואוכל.
+870|42:04|אז כן, אנחנו כזה...
+871|42:07|קראתי שירדו, והם היו מגשמים שלא ירדו 100 שנה, אתה חווית את זה?
+872|42:13|כי אתה נוסע בעולם רק עם מכנסיים קצרים וחולצה וכפכפים.
+873|42:18|כן, אז יש לי כפכפים לכפכפי עור, ויש לי כפכפים למזג אוויר כזה,
+874|42:23|שבאמת באותו יום רציתי ללכת לכפכפי עור, אבל כמובן החלפתי
+875|42:30|לכפכפים שיכולים ללכת בתוך שלוליות, וזה מה שהיה.
+876|42:35|אז גם במיאמי ביט שהיו, כן, הצפות כאלה ש...
+877|42:39|אז כן, אבל המשכנו, אפרופו אברי, ועם העניין הבריאותי להמשיך תנועה, אז גם במזג
+878|42:45|האוויר הזה הייתי בתנועה.
+879|42:47|משהו באנקדוטה, אם לחזור משהו לעניין בריאותי, שזה יחד לכל אחד, הרי מאז חצי סאדאת,

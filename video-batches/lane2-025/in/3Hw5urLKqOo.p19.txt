@@ -1,0 +1,64 @@
+videoId: 3Hw5urLKqOo
+parte 20 de 21 · traduzir as linhas 760 a 799 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Torá lishmá e shelo lishmá: como estudar com intenção correta
+RESUMO: O rabino mostra que existe uma tensão entre os textos sobre estudar Torá lishmá, "pelo seu próprio nome", e os que permitem estudar shelo lishmá. Parte de Avot 6:1, de Rabi Chaim Vital e da Gemará "de shelo lishmá se chega a lishmá", e conta a história do Zohar sobre Rabi Aba e o jovem que chorava por não receber recompensa. Em seguida confronta o Zohar Chadash, segundo o qual quem estuda shelo lishmá não ressuscita, com o Zohar de Ki Tetzé e a Gemará de Sotá, e resolve a questão com Rashi e Tosafot: estudar para provocar o outro ou para ter benefício ilícito é proibido, mas estudar para ser rabino ou obter posição é permitido no início, e o Or HaChaim diz para esperar e ver o fim. Depois traz o Rambam e o Rosh, que não admitem viver da Torá, o Chida e o Ramchal, que proíbem estudar para o perdão dos pecados (os pedidos vêm depois do estudo), e os quatro níveis do Ramak, até a intenção correta de agradar ao Criador. Explica por que a Amidá tem pedidos, cita o Sefer HaChinuch e o Rambam sobre a finalidade de estudar, e apresenta a distinção do Chatam Sofer entre lishmá e lesheim shamayim. Termina com a definição de Rabi Alexander Ziskind, nos quatro mundos e nas sefirot: estudar para unir a alma ao mundo de Atzilut, consertar os danos e unificar os nomes sagrados.
+MOMENTOS: 00:35 Avot 6:1 e a objeção de Rabi Chaim Vital · 01:42 Gemará: de shelo lishmá se chega a lishmá · 02:19 Zohar: Rabi Aba e o jovem que chorava · 09:36 Zohar Chadash: quem estuda shelo lishmá não ressuscita · 11:51 Rashi e Tosafot: quando é proibido e quando é permitido · 16:07 Or HaChaim: esperar para ver o fim · 17:43 Rambam e Rosh: não viver da Torá · 21:21 Chida: não estudar para perdão dos pecados · 26:37 Ramchal e a yeshiva Yarim Moshe · 30:51 Os quatro níveis do Ramak · 36:00 Por que a Amidá pede cura e perdão · 41:46 Chatam Sofer: lishmá versus lesheim shamayim · 51:35 Rabi Alexander Ziskind: unir a alma e unificar os nomes
+FONTES CITADAS: 00:43 Avot 6:1 · 01:04 Rabi Chaim Vital sobre Avot 6:1 · 01:42 Pesachim 50b · 02:19 Zohar, Rabi Aba e o jovem que chorava · 02:25 Zohar, Idra · 02:58 Mishlei 3:16 · 04:31 Zohar, Rabi Aba e o jovem · 08:19 Iyov 11:9 · 08:33 Mishlei 8:11 · 09:16 Iyov 28:17 · 09:42 Zohar Chadash · 10:10 Zohar, Parashat Ki Tetzé · 10:35 Sotá 22b · 11:51 Rashi em Berachot · 12:09 Tosafot em Pesachim 50b · 12:55 Berachot 17a · 16:07 Or HaChaim em Vayikra, Parashat Kedoshim · 17:53 Rambam, Hilchot Talmud Torá 3:10 · 19:22 Rosh · 19:29 Ramak (Rabi Moshe Cordovero) · 19:53 Chida em Avot 6:1 · 20:44 Gemará, esposa de um sábio e os filhos · 21:21 Chida · 22:16 Oração após o estudo de Tehilim · 23:10 Bênção da leitura da Torá · 23:54 Baruch She'amar · 24:12 Baruch She'amar · 25:44 Yehoshua 1:8 · 26:37 Rabi Moshe Chaim Luzzatto (Ramchal), yeshiva Yarim Moshe · 30:51 Ramak, quatro níveis do estudo · 33:57 Eicha 1:18 · 36:00 Amidá, bênçãos de cura e perdão · 36:13 Anshei Knesset HaGedolá · 37:43 Selichot · 38:20 Sefer HaChinuch · 38:20 Tehilim 111:10 · 38:43 Sefer Chassidim · 39:14 Rambam, Hilchot Teshuvá 10:5 · 40:41 Ensinamento de um mestre sobre lishmá · 41:46 Chatam Sofer · 44:40 Devarim 6:8 · 46:26 Shulchan Arukh · 48:12 Patach Eliyahu (Tikunei Zohar) · 49:53 Birkot HaShachar · 51:35 Rabi Alexander Ziskind, Yesod VeShoresh HaAvodá · 52:41 Bereshit 2-3 · 53:40 Shemot 3:14
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+748|50:00|אז וראינו את הבריאה שלנו, הנשמות שלנו משם.
+749|50:05|אלוהי, נשמה שנתת בי.
+750|50:09|טהורה.
+751|50:09|טהורה.
+752|50:09|אתה בראתה.
+753|50:11|אתה רואה?
+754|50:13|בריאה.
+755|50:15|בריאה זה הנשמות.
+756|50:16|אתה בראתה.
+757|50:19|אחר כך אתה יצרת, הורדת אותה ליצירה, אחר כך
+758|50:22|אתה...
+759|50:26|נתת בקרבי.
+
+LINHAS A TRADUZIR:
+760|50:28|עכשיו עולם העשייה זה עולם הגלגלים, זה עדיין לא העולם הזה,
+761|50:34|זה עולם הרקיע שאנחנו רואים.
+762|50:37|זה השמש, הירח, הכוכבים וכל צבא השמיים.
+763|50:45|והתורה ירדה מעולם האצילות.
+764|50:49|תשמע מה אומר על התורה.
+765|50:51|אומר הרב, התורה זה עצם האצילות עצמו.
+766|50:58|שמתפשט בכל העולם, עד כאן, אפילו עד לפה, העולם
+767|51:03|התחתון.
+768|51:06|והקדוש ברוך הוא רוצה לקשר את נשמתנו עם עולם האצילות.
+769|51:12|למה?
+770|51:12|כי הנשמות מאיפה?
+771|51:16|מהבריאה.
+772|51:18|אז הוא רוצה לקשר את הנשמה עם עולם האצילות.
+773|51:22|ואיך?
+774|51:23|על ידי ידיעת התורה.
+775|51:25|וזה ייחוד קודשה בריחו ושחינתם, שאני מתייחד עם הספירות
+776|51:32|ועם מה שיש לו למעלה.
+777|51:35|אומר הרב יסוד לשורש העבודה, שמעת עליו?
+778|51:40|מי זה היה?
+779|51:42|רבנו אלכסנדר זיסקין, מתי הוא חי בערך?
+780|51:47|בערך שלוש מאות שנה.
+781|51:52|היה איש קדוש מאוד.
+782|51:54|הרב אלכסנדר זיסקינד, יסוף לשורש
+783|51:59|העבודה.
+784|52:00|ההוא שמה שותק היום, לא יודע מה קרה לו, פרשת
+785|52:07|לך לך.
+786|52:08|לא יודע איפה הוא הלך.
+787|52:11|אז הוא כותב, יסוף לשורש העבודה, תורה לשמה.
+788|52:16|הוא מגדיר בשתי מילים מה זה תורה לשמה.
+789|52:20|תורה לשמה זה לחבר את נפשי למעלה.
+790|52:25|‫ולדעת את המצוות כולן ‫בשביל
+791|52:31|לקיים אותן, ‫ולתקן את
+792|52:36|הפגמים שיש בעולמות.
+793|52:39|‫איזה פגמים הוא מדבר, אה?
+794|52:41|‫אדם הראשון בעץ הדעת, ‫גם אנחנו היינו איתו, ‫עם
+795|52:47|האדם הראשון.
+796|52:48|‫כולנו פגמנו שם.
+797|52:50|‫אחר כך בדור הפלגה, ‫אחר כך בדור סדום.
+798|52:56|‫ואחר כך במצרים.
+799|53:00|‫הבנת?

@@ -1,0 +1,64 @@
+videoId: o6lsXLfzCfU
+parte 16 de 19 · traduzir as linhas 600 a 639 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: a komá de cada mundo
+RESUMO: O rabino retoma o capítulo 4 da parte 3 do Talmud Eser HaSefirot e pede que o aluno não se perca nos detalhes e lembre o objetivo do capítulo: a komá (nível de luz) do zivug define a qualidade das dez sefirot de cada mundo. Ele relê os títulos das letras A a C, que tratam de Atzilut, onde todas as sefirot estão na komá de Chochmá, e de Briá, onde estão na komá de Biná. Em seguida lê o Ari e o Or Pnimi de Baal HaSulam sobre Keter e Chochmá ficarem "guenuzim" (ocultos) em Biná, com o exemplo da luz oculta para os justos. Explica a diferença entre "janela", ou passagem, e "massach satum" (tela fechada): o massach não limita o que está acima dele, só o que está abaixo. Comenta a expressão do Zohar "Imá Ilaá mekanená bekursiya" (o ninho como algo não permanente), o movimento "minah uvah" e as dez sefirot de Yetzirá e Assiyá. Termina com a correspondência entre os quatro mundos e as letras de HaVaYaH (Yud, Hei, Vav, Hei), com os milluim, e com a regra de que cada mundo recebe apenas da luz do massach que está acima dele.
+MOMENTOS: 00:17 Não perder a visão geral do capítulo 4 · 01:03 Títulos das letras A a C: komá de Atzilut e Briá · 04:47 Letra D: a luz da Biná e o massach satum · 10:44 Or Pnimi: Keter e Chochmá guenuzim em Biná · 12:49 O que significa "guenuz": a luz oculta · 16:05 Debate sobre o significado de cada komá · 18:40 "Imá Ilaá mekanená bekursiya": o zivug não permanente · 23:32 Letra Hei: a Biná de Atzilut e a Biná de Briá · 26:02 Letra Vav: Zeir Anpin de Briá e a regra do massach · 36:04 Minah uvah: as dez sefirot de Yetzirá e Assiyá · 42:24 Letra Chet: os mundos e as letras de HaVaYaH · 48:09 Letra Tet: a regra geral e fecho do capítulo · 52:11 Pergunta final: Briá versus Biná
+FONTES CITADAS: 01:03 Talmud Eser HaSefirot, parte 3, cap. 4 (título geral) · 01:59 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Alef · 02:41 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Bet · 03:51 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Guimel · 05:21 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Dalet · 06:06 Zohar, Imá Ilaá mekanená bekursiya · 10:44 Baal HaSulam, Or Pnimi no Talmud Eser HaSefirot III, cap. 4 · 13:01 Chagigá 12a (a luz oculta para os justos) · 18:46 Baal HaSulam, Or Pnimi, sobre o termo kinun (ninho) · 18:40 Zohar, Imá Ilaá mekanená bekursiya · 21:58 Devarim 6:4 · 24:01 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Hei · 26:19 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Vav · 27:29 Baal HaSulam, Or Pnimi, sobre a Biná de Atzilut · 35:47 Baal HaSulam, Or Pnimi, sobre minah uvah · 38:44 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Ayin · 40:27 Baal HaSulam, Or Pnimi, sobre as seis sefirot de Zeir Anpin · 41:07 Baal HaSulam, Or Pnimi, sobre Imá Tataá · 43:10 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Chet · 43:55 Mishná Yomá 6:2 (o Kohen Gadol e o Nome no Yom Kipur) · 44:07 Baal HaSulam, Or Pnimi, sobre HaVaYaH e as dez sefirot · 45:47 Baal HaSulam, Or Pnimi, sobre as dez sefirot de cada mundo · 48:49 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Tet · 50:14 Baal HaSulam, Or Pnimi, sobre a regra geral
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|42:02|פה עניין נוסף.
+589|42:06|זה סיימנו עם המהלך
+590|42:12|הזה של הזדקקות המסך ויציאת העולמות, ואור שהוא דרך מעבר,
+591|42:18|ומסך שהוא סיתום גמור, ואנחנו מגיעים לאות חטא.
+592|42:24|אביע.
+593|42:27|הוא סוד דלת אותיות יו"ד כו"ק.
+594|42:31|זאת אומרת, מה שאמרנו, יש עשר ספירות, בכל דבר יש עשר ספירות.
+595|42:36|יש עשר ספירות הכוללות, שזה העולמות כולם.
+596|42:41|אז הוא אומר, הביע הוא סוד דלת אותיות יו"ד כו"ק.
+597|42:45|יו"ק זה גם כן עשר ספירות.
+598|42:48|יו"ד חוכמה, הנה הוא אומר, יו"ד היא אצילות,
+599|42:54|שהיא חוכמה.
+
+LINHAS A TRADUZIR:
+600|42:55|ה' הוא סוד בריאה, שהיא בינה, ו' הוא סוד יצירה,
+601|43:01|שהיא זרנפין, והאחרונה היא עשייה, שהיא מלכות.
+602|43:07|כמה יפה ומסודר.
+603|43:10|ואומר האריזל, והנה בזה תבין למה ד' עולמות אצילות,
+604|43:17|בריאה, יצירה, עשייה, נרמזו בד' אותיות הוויה.
+605|43:23|י' אצילות, ה' בריאה, ו' יצירה, ה' עשייה, כי אצילות, האור
+606|43:28|שלו, הוא על ידי חוכמה עליונה כנ"ל.
+607|43:32|הכל על שם עקומת חוכמה, לכן נקרא י', י' חוכמה.
+608|43:37|הוא בריאה על ידי בינה ד' אצילות, לכן נקרא ה', וכן ו' ביצירה,
+609|43:42|וכן בעשייה, ה' טטאה.
+610|43:46|סדר מופתי.
+611|43:49|אתם רואים למה שם הוויה הוא באמת השם המפורש, הוא אסור להזכיר אותו,
+612|43:55|כי זה האור של כל העולמות.
+613|43:57|זה רק כהן גדול ביום הכיפורים מזכיר את זה.
+614|44:04|כן, עוד קוף באור פנימי.
+615|44:07|כמו שמבאר והולך, כי שם הוויה כולל עשר ספירות.
+616|44:11|איך עשר ספירות?
+617|44:13|שוב, קוצה של י' זה כתר.
+618|44:17|י' חוכמה, ה' בינה, ו' זרענפין,
+619|44:23|ה' מלכות.
+620|44:26|וד' עולמות הביעה הם מבחינת עשר ספירות הכוללות, זה מושג, עשר ספירות
+621|44:32|הכוללות, כל המציאות.
+622|44:34|ואף על פי שבכל עולם ועולם בפני עצמו יש הביע פרטים, זאת אומרת
+623|44:40|באצילות יש הביע, בבריאה יש הביע, ופרטי פרטים, כי הרי
+624|44:46|העשר ספירות זה אמרנו, למדנו כבר, זה מתפרט ומתפרט עד אין
+625|44:51|סוף.
+626|44:53|מכל מקום צריכים לדעת שכולם יחד מסתדרים בעשר ספירות בלבד, אשר
+627|44:59|דלת האותיות הוויה מרמזות עליהן כמבואר, וידיעה זו
+628|45:05|נחוצה מאוד שתהיה תמיד לעיני המעיין, כל המעיינים פה,
+629|45:11|נא להחזיק בידיעה הזאת.
+630|45:14|ביותר שצריכים תמיד להקיש את עשר ספירות הפרטות אל עשר ספירות הכוללות.
+631|45:20|כי יש להן תמיד ערכים מקבילים זו על זו, ונלמדות זו
+632|45:26|מזו.
+633|45:30|ודיי מובן, נכון?
+634|45:32|נותן לנו את הסכמה הכללית של העולמות, עשר ספירות הכוללות, שהן כנגד
+635|45:37|העולמות והן כנגד שם הוויה, וזה הכל קשור לקומות אור שמתגלות.
+636|45:42|בכל עולם, לקומת האור שמתגלה בכל עולם ועולם.
+637|45:47|אות ר' באור פנימי, כלומר, אף על פי
+638|45:54|שבאצילות בלבד יש עשר ספירות, נכון?
+639|45:57|אמרנו כל עולם יש בו עשר ספירות, המרומזות בד' אותיות הוויה.

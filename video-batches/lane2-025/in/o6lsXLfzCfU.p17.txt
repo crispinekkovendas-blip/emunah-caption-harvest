@@ -1,0 +1,64 @@
+videoId: o6lsXLfzCfU
+parte 18 de 19 · traduzir as linhas 680 a 719 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: a komá de cada mundo
+RESUMO: O rabino retoma o capítulo 4 da parte 3 do Talmud Eser HaSefirot e pede que o aluno não se perca nos detalhes e lembre o objetivo do capítulo: a komá (nível de luz) do zivug define a qualidade das dez sefirot de cada mundo. Ele relê os títulos das letras A a C, que tratam de Atzilut, onde todas as sefirot estão na komá de Chochmá, e de Briá, onde estão na komá de Biná. Em seguida lê o Ari e o Or Pnimi de Baal HaSulam sobre Keter e Chochmá ficarem "guenuzim" (ocultos) em Biná, com o exemplo da luz oculta para os justos. Explica a diferença entre "janela", ou passagem, e "massach satum" (tela fechada): o massach não limita o que está acima dele, só o que está abaixo. Comenta a expressão do Zohar "Imá Ilaá mekanená bekursiya" (o ninho como algo não permanente), o movimento "minah uvah" e as dez sefirot de Yetzirá e Assiyá. Termina com a correspondência entre os quatro mundos e as letras de HaVaYaH (Yud, Hei, Vav, Hei), com os milluim, e com a regra de que cada mundo recebe apenas da luz do massach que está acima dele.
+MOMENTOS: 00:17 Não perder a visão geral do capítulo 4 · 01:03 Títulos das letras A a C: komá de Atzilut e Briá · 04:47 Letra D: a luz da Biná e o massach satum · 10:44 Or Pnimi: Keter e Chochmá guenuzim em Biná · 12:49 O que significa "guenuz": a luz oculta · 16:05 Debate sobre o significado de cada komá · 18:40 "Imá Ilaá mekanená bekursiya": o zivug não permanente · 23:32 Letra Hei: a Biná de Atzilut e a Biná de Briá · 26:02 Letra Vav: Zeir Anpin de Briá e a regra do massach · 36:04 Minah uvah: as dez sefirot de Yetzirá e Assiyá · 42:24 Letra Chet: os mundos e as letras de HaVaYaH · 48:09 Letra Tet: a regra geral e fecho do capítulo · 52:11 Pergunta final: Briá versus Biná
+FONTES CITADAS: 01:03 Talmud Eser HaSefirot, parte 3, cap. 4 (título geral) · 01:59 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Alef · 02:41 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Bet · 03:51 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Guimel · 05:21 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Dalet · 06:06 Zohar, Imá Ilaá mekanená bekursiya · 10:44 Baal HaSulam, Or Pnimi no Talmud Eser HaSefirot III, cap. 4 · 13:01 Chagigá 12a (a luz oculta para os justos) · 18:46 Baal HaSulam, Or Pnimi, sobre o termo kinun (ninho) · 18:40 Zohar, Imá Ilaá mekanená bekursiya · 21:58 Devarim 6:4 · 24:01 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Hei · 26:19 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Vav · 27:29 Baal HaSulam, Or Pnimi, sobre a Biná de Atzilut · 35:47 Baal HaSulam, Or Pnimi, sobre minah uvah · 38:44 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Ayin · 40:27 Baal HaSulam, Or Pnimi, sobre as seis sefirot de Zeir Anpin · 41:07 Baal HaSulam, Or Pnimi, sobre Imá Tataá · 43:10 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Chet · 43:55 Mishná Yomá 6:2 (o Kohen Gadol e o Nome no Yom Kipur) · 44:07 Baal HaSulam, Or Pnimi, sobre HaVaYaH e as dez sefirot · 45:47 Baal HaSulam, Or Pnimi, sobre as dez sefirot de cada mundo · 48:49 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Tet · 50:14 Baal HaSulam, Or Pnimi, sobre a regra geral
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+668|48:23|אתם מבינים מה הוא בא ללמד אותנו?
+669|48:27|מה קובע את האיכות של כל עולם ועולם?
+670|48:30|זה הדלת בחינות טוביות, חוכמה ובינה, תפארת ומלכות.
+671|48:35|לא מבינים?
+672|48:36|איפה אתה קורא?
+673|48:39|אני קורא את הכותרת של אות ט.
+674|48:43|מה לא אות?
+675|48:44|אה, אוקיי.
+676|48:49|נמצא אתה, עכשיו אני קורא את לשון האריזה, נמצא אתה הכלל העולה, כי
+677|48:54|אצילות מקבל אור מהחוכמה לבד, כי החוכמה נעשית
+678|49:00|מסך סתום, בין אין סוף ובין אצילות, ומבינה דאצילות
+679|49:06|מקבלת הבריאה.
+
+LINHAS A TRADUZIR:
+680|49:09|אחר שנתלבש אור האינסוף וחוכמה עליונה בתוכה
+681|49:15|ואם כל זה נקרא אור הבינה לפי שנעשית מסך
+682|49:21|ממיקרופון פתוח ומפריע ומבינה דאצילות מקבלת הבריאה אחר
+683|49:27|שנתלבש אור האינסוף וחוכמה עליונה בתוכה גנוז בה ואם
+684|49:33|כל זה נקרא אור הבינה לפי שנעשית
+685|49:40|טוב רגע לפי שנעשית מסך
+686|49:45|מבדיל גמור וכן היצירה מקבלת מזרנפין דבריה
+687|49:51|עצמה וכן העשייה מקבל מנוקבה דזרנפין דה יצירה עצמה
+688|49:57|ולולא כל אלה המסכים והלבושים שורה התחתונה לא היו יכולים
+689|50:03|לקבל אור העליון רק שכל עולם ועולם פחות במדרגה
+690|50:09|משל חברו על דרך הנעל.
+691|50:14|עוד שין באור פנימי, כלומר שכל עולם אינו יכול לקבל שום אור,
+692|50:20|זולת ממה שהמסך הנמצא ממעלו, משפיע אליו
+693|50:26|כמבואר לעיל.
+694|50:30|חתם את הפרק, אמר לנו בדיוק איזה אור מאיר בכל עולם, על פי
+695|50:36|הזיבוג הקודם.
+696|50:38|כל העולמות כולם מסודרים על פי חוכמה בינה תפארת מלכות של אוביות שונה
+697|50:44|במסך, כשבכל עולם יש קומה אחרת לגמרי.
+698|50:50|ואכן, במבט כללי, האור הולך ומתמעט ככל שאנחנו יורדים
+699|50:56|בעולמות.
+700|50:58|מה לעשות?
+701|50:59|כך חשב המאציל.
+702|51:03|עד כאן פרק ד', בלי נדר, במהלך השבוע תקבלו גם את המפה
+703|51:09|של הדבר הזה, אולי זה יועיל לכם, אני עובד על זה.
+704|51:15|וזהו, זהו לפרק ד'.
+705|51:21|שבוע הבא, עניין נוסף, פרק ה', נמשיך ונתקדם קדימה.
+706|51:28|שאלות לסיום, שלא יישאר איזה עצם בגרון.
+707|51:34|לא צריך להתרגש מזה, לאט לאט, וחוזרים עוד פעם, וחוזרים עוד פעם, כן.
+708|51:43|כן, מישהו רוצה לשאול שאלה?
+709|51:45|הבעיה העיקר שלי,
+710|51:49|שאני צריך באיזושהי צורה לדמיין את המערכת הזו, כי
+711|51:55|אני לא זוכר את זה.
+712|51:58|ואז אני כל הזמן מוצא את עצמי ‫בין עולם הבריאה והבינה.
+713|52:04|‫זאת אומרת, מבחינתי זה אותו דבר.
+714|52:08|‫כן?
+715|52:11|זאת אומרת שעולם בריאה ויש בינה, ‫אבל מה מבדיל אותם?
+716|52:14|‫הם הרי שניהם כאילו המהות שלהם ‫זה אותה דרגה, זה הבינה.
+717|52:18|‫אז איך אני יכול לייצר ‫איזו תמונה שתבדיל ביניהם?
+718|52:23|שאלה מצוינת עודד, וזה בדיוק למה שהוא מלמד אותנו בחלק ג' פה את
+719|52:28|הי"ג מינים של עשר ספירות, והוא אמר לנו בתחילת הפרק

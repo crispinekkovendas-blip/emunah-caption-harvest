@@ -1,0 +1,64 @@
+videoId: IUGjIjvTg8k
+parte 6 de 8 · traduzir as linhas 200 a 239 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Bava Metzia 7: costume local e direitos do trabalhador
+RESUMO: A aula comenta a Mishná Bava Metzia 7:1, que trata do empregador que contrata trabalhadores sem condições e depois quer que comecem mais cedo e saiam mais tarde. O rabino estabelece que as condições especiais só valem se forem ditas antes de o trabalho começar. Com o Rav Ovadia de Bartenura, explica que pagar mais do que o mercado não dá direito a exigir isso, porque o trabalhador pode alegar que o pagamento maior era para garantir um serviço de qualidade. Em seguida, vê que alimentação, complementos e refeição em casa do patrão seguem "hakol kaminhag hamedina". Estuda o caso de Rabi Yochanan ben Matya, a Gemará sobre "chasurei mechasra", a comparação com a refeição de Shlomo e a de Avraham, e a opinião de Rabban Shimon ben Gamliel. Por fim, começa a Mishná 7:2, sobre o trabalhador que come "min haTorá" (Devarim 23:25). Usa a derivação de "Lo tachsom shor bedishó" (Devarim 25:4) para definir o que o trabalhador pode comer e o que fica excluído, deixando os detalhes para a próxima aula.
+MOMENTOS: 00:03 Texto da Mishná 7:1: madrugar, entardecer e costume local · 01:03 Princípio: condições devem ser ditas antes de começar · 03:13 Contratar sem condições e depois exigir mais horas · 04:24 Bartenura: salário maior não autoriza a exigência · 06:58 Alimentação e complemento conforme o costume do lugar · 08:42 Hakol kaminhag: comer o desjejum na casa do patrão · 10:09 Rabi Yochanan ben Matya e a Gemará sobre "chasurei mechasra" · 12:12 Banquete de Shlomo e banquete de Avraham · 13:08 Corrigir antes do início: só pão e legumes · 14:15 Rabban Shimon ben Gamliel e a pergunta sobre os recursos do patrão · 16:02 Mishná 7:2: o trabalhador que come min haTorá · 17:50 Fonte: Lo tachsom shor bedishó e a comparação do hekesh · 19:45 Exclusões: ordenhar, fazer queijo, produto já tributável
+FONTES CITADAS: 00:03 Mishná Bava Metzia 7:1 · 00:26 Mishná Bava Metzia 7:1 · 00:56 Mishná Bava Metzia 7:1 · 04:24 Bartenura em Bava Metzia 7:1 · 06:09 Bartenura em Bava Metzia 7:1 · 07:17 Bartenura em Bava Metzia 7:1 · 08:42 Bartenura em Bava Metzia 7:1 · 10:09 Gemará Bava Metzia 83a · 11:08 Bartenura em Bava Metzia 7:1 · 11:37 Mishná Bava Metzia 7:1 · 12:28 Bereshit 18:7-8 · 13:08 Mishná Bava Metzia 7:1 · 13:32 Bartenura em Bava Metzia 7:1 · 13:51 Bartenura em Bava Metzia 7:1 · 14:01 Melachim I 4:20 · 14:07 Bartenura em Bava Metzia 7:1 · 14:15 Mishná Bava Metzia 7:1 · 16:02 Mishná Bava Metzia 7:2 · 16:22 Mishná Bava Metzia 7:2 · 16:41 Devarim 23:25 · 17:32 Bartenura em Bava Metzia 7:2 · 17:50 Devarim 23:26 · 18:29 Devarim 25:4 · 18:45 Gemará Bava Metzia 89a · 19:45 Bartenura em Bava Metzia 7:2 · 20:21 Bartenura em Bava Metzia 7:2 · 20:44 Mishná Bava Metzia 7:2 · 21:16 Tehilim 89:53
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+188|13:32|אומר אברטנורה בשעתו, בעת מלכותו, מה הכוונה כסעודת
+189|13:37|שלמה בשעתו?
+190|13:38|למה מדגישה המשנה בשעתו?
+191|13:40|הכוונה בשעתו זה בעת מלכותו, דמלך והדיוט אבא.
+192|13:43|היה תקופה שהוא היה מלך, היה תקופה שהוא היה אדם רגיל.
+193|13:47|מתי שהשמדה, היא זרק אותו מהמלוכה.
+194|13:51|שם בני אברהם, מצחיק ויעקב, אומר אברטנורה, וסעודתו של אברהם גדולה משל שלמה,
+195|13:57|דילו אברהם שלושה פרים לשלושה אנשים.
+196|14:01|ובסעודת שלמה, יהודה וישראל רבים ככל אשר על שפת הים.
+197|14:07|עד שלא יתחילו במלאכה, דאין כאן אלא דבריב, דאילו מי שהתחילו, אבל אם הם יתחילו
+198|14:12|במלאכתם, לא תוכל לחזור.
+199|14:15|רבן שמעון בן גמליאל אומר, לא היה צריך לומר, הכל כמנהג המדינה,
+
+LINHAS A TRADUZIR:
+200|14:21|לעומת זאת רק שבג, הוא אומר לא, לא.
+201|14:25|גם אם הוא פסק איתם מזונות, זה לא אומר שהוא ריבה להם, לא צריך להגיד כלום.
+202|14:30|שיתחילו לעבוד, הוא לא יהיה מחויב להם מזונות, אלא כמנהג המדינה.
+203|14:36|עכשיו, רבי אלכס שלנו רוצה לשאול, מה אתה שואל?
+204|14:39|בעל הבית, זה לפי רמת בעל הבית.
+205|14:40|בעל הבית הוא עני לעצמו.
+206|14:41|מה ייתן להם
+207|14:45|רוחש של מלך?
+208|14:49|כבודו אומר פה, זה לפי בעל הבית, לפי הרמה הכלכלית של בעל הבית, ככה מזונות
+209|14:55|שהם יקבלו, עד כאן סוף ציטוט של רבי אלכס.
+210|14:58|בסדר?
+211|15:00|זהו, הציטטתי אותך נכון, זו הייתה כוונתך, אז לא.
+212|15:06|לא, כל כמנהג המדינה.
+213|15:09|אתה רוצה לסחור פועלים, תספק להם לפי מנהג המדינה, הם יכולים לתבוע אותך.
+214|15:13|אתה לא יכול להגיד, אין לי.
+215|15:19|אז שלא יסחור פועלים.
+216|15:21|או שיסחור פועלים, ויתנה איתם לפני שהם מתחילים לעבוד,
+217|15:28|תשמעו.
+218|15:29|אין לי לתת לכם את המזונות כמנהג המדינה, ולכן על דעת כן, תתחילו
+219|15:35|לעבוד.
+220|15:37|הם אומרים, אז מה תיתן לנו?
+221|15:39|בואו נגרד לכם איזה משהו.
+222|15:42|בכולל מחלקים עגבניות.
+223|15:45|אני אביא לכם עגבניות שרי, שם רשעי מרכב.
+224|15:51|עד כאן, רבי אלכס, תראה איזה יופי אני התייחסתי ועניתי.
+225|15:59|משנה ב', יפה.
+226|16:02|אומרת המשנה, ואלו אוכלים מן התורה.
+227|16:06|העושה במחובר לקרקע בשעת גמר מלאכה, או בתלוש מן הקרקע עד שלא
+228|16:12|נגמר מלאכתו, בדבר שגידולו מן הארץ.
+229|16:16|ואלו שאין אוכלים, העושה במחובר לקרקע בשעה שאין גמר מלאכה, או בתלוש מן הקרקע מאחר
+230|16:22|שנגמרה מלאכתו, או בדבר שאין גידולו מן הארץ.
+231|16:25|נפלא מאוד.
+232|16:26|כאן רבותי המשנות הללו מתחילות לעסוק בדבר תורה
+233|16:33|שאדם פועל אצל חברו ועובד אצלו בשדה, הוא רשאי לאכול מהשדה תוך כדי העבודה,
+234|16:39|נכון?
+235|16:41|כי תבוא בכרם רעיך.
+236|16:45|יש על זה המון דינים, המון חילוקים, צריך לדעת במה מדובר, כן?
+237|16:49|יש כאלה שעובדים בסופר וחושבים שהם בגלל שהוא עובד בסופר אז הוא יכול לאכול את שוקולדים.
+238|16:56|תוך כדי העבודה.
+239|16:58|אז ודאי שזה גזל גמור.

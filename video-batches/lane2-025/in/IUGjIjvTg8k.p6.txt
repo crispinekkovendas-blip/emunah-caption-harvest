@@ -1,0 +1,64 @@
+videoId: IUGjIjvTg8k
+parte 7 de 8 · traduzir as linhas 240 a 279 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Bava Metzia 7: costume local e direitos do trabalhador
+RESUMO: A aula comenta a Mishná Bava Metzia 7:1, que trata do empregador que contrata trabalhadores sem condições e depois quer que comecem mais cedo e saiam mais tarde. O rabino estabelece que as condições especiais só valem se forem ditas antes de o trabalho começar. Com o Rav Ovadia de Bartenura, explica que pagar mais do que o mercado não dá direito a exigir isso, porque o trabalhador pode alegar que o pagamento maior era para garantir um serviço de qualidade. Em seguida, vê que alimentação, complementos e refeição em casa do patrão seguem "hakol kaminhag hamedina". Estuda o caso de Rabi Yochanan ben Matya, a Gemará sobre "chasurei mechasra", a comparação com a refeição de Shlomo e a de Avraham, e a opinião de Rabban Shimon ben Gamliel. Por fim, começa a Mishná 7:2, sobre o trabalhador que come "min haTorá" (Devarim 23:25). Usa a derivação de "Lo tachsom shor bedishó" (Devarim 25:4) para definir o que o trabalhador pode comer e o que fica excluído, deixando os detalhes para a próxima aula.
+MOMENTOS: 00:03 Texto da Mishná 7:1: madrugar, entardecer e costume local · 01:03 Princípio: condições devem ser ditas antes de começar · 03:13 Contratar sem condições e depois exigir mais horas · 04:24 Bartenura: salário maior não autoriza a exigência · 06:58 Alimentação e complemento conforme o costume do lugar · 08:42 Hakol kaminhag: comer o desjejum na casa do patrão · 10:09 Rabi Yochanan ben Matya e a Gemará sobre "chasurei mechasra" · 12:12 Banquete de Shlomo e banquete de Avraham · 13:08 Corrigir antes do início: só pão e legumes · 14:15 Rabban Shimon ben Gamliel e a pergunta sobre os recursos do patrão · 16:02 Mishná 7:2: o trabalhador que come min haTorá · 17:50 Fonte: Lo tachsom shor bedishó e a comparação do hekesh · 19:45 Exclusões: ordenhar, fazer queijo, produto já tributável
+FONTES CITADAS: 00:03 Mishná Bava Metzia 7:1 · 00:26 Mishná Bava Metzia 7:1 · 00:56 Mishná Bava Metzia 7:1 · 04:24 Bartenura em Bava Metzia 7:1 · 06:09 Bartenura em Bava Metzia 7:1 · 07:17 Bartenura em Bava Metzia 7:1 · 08:42 Bartenura em Bava Metzia 7:1 · 10:09 Gemará Bava Metzia 83a · 11:08 Bartenura em Bava Metzia 7:1 · 11:37 Mishná Bava Metzia 7:1 · 12:28 Bereshit 18:7-8 · 13:08 Mishná Bava Metzia 7:1 · 13:32 Bartenura em Bava Metzia 7:1 · 13:51 Bartenura em Bava Metzia 7:1 · 14:01 Melachim I 4:20 · 14:07 Bartenura em Bava Metzia 7:1 · 14:15 Mishná Bava Metzia 7:1 · 16:02 Mishná Bava Metzia 7:2 · 16:22 Mishná Bava Metzia 7:2 · 16:41 Devarim 23:25 · 17:32 Bartenura em Bava Metzia 7:2 · 17:50 Devarim 23:26 · 18:29 Devarim 25:4 · 18:45 Gemará Bava Metzia 89a · 19:45 Bartenura em Bava Metzia 7:2 · 20:21 Bartenura em Bava Metzia 7:2 · 20:44 Mishná Bava Metzia 7:2 · 21:16 Tehilim 89:53
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|16:12|נגמר מלאכתו, בדבר שגידולו מן הארץ.
+229|16:16|ואלו שאין אוכלים, העושה במחובר לקרקע בשעה שאין גמר מלאכה, או בתלוש מן הקרקע מאחר
+230|16:22|שנגמרה מלאכתו, או בדבר שאין גידולו מן הארץ.
+231|16:25|נפלא מאוד.
+232|16:26|כאן רבותי המשנות הללו מתחילות לעסוק בדבר תורה
+233|16:33|שאדם פועל אצל חברו ועובד אצלו בשדה, הוא רשאי לאכול מהשדה תוך כדי העבודה,
+234|16:39|נכון?
+235|16:41|כי תבוא בכרם רעיך.
+236|16:45|יש על זה המון דינים, המון חילוקים, צריך לדעת במה מדובר, כן?
+237|16:49|יש כאלה שעובדים בסופר וחושבים שהם בגלל שהוא עובד בסופר אז הוא יכול לאכול את שוקולדים.
+238|16:56|תוך כדי העבודה.
+239|16:58|אז ודאי שזה גזל גמור.
+
+LINHAS A TRADUZIR:
+240|17:00|אני אראה לכם, זה לא עונה בקריטריונים.
+241|17:02|גידול מה?
+242|17:03|אבל מדובר בפועל.
+243|17:05|נכון?
+244|17:06|אבל זה דווקא במחובר לקרקע, לא גומי.
+245|17:11|ואפילו אם זה גומי, סוכר, שבצורה דובדבן, זה לא עושה אותו גידולי
+246|17:16|קרקע.
+247|17:18|צריך לדעת הלכות.
+248|17:20|מצוין.
+249|17:21|אז בעזרת השם נראה את המשנה הזאת פה, יש הרבה חילוקים שבלי נדר...
+250|17:25|נראה אותם בשיעור הבא, אבל בואו נראה את המשנה הזאת.
+251|17:29|כתוב, ואלו פועלים אוכלים מן התורה, מה הכוונה אוכלים מן התורה?
+252|17:32|אומר הברטנורה, אוכלים מן התורה במה שעוסקים בו.
+253|17:37|העושה במחובר לקרקע, קודם כל הוא צריך לעבוד בדבר שהוא מחובר לקרקע,
+254|17:43|בשעת גמר מלאכה.
+255|17:44|שעת גמר מלאכה, הכוונה שהפרי כבר הבשיל.
+256|17:48|שהפרי הבשיל.
+257|17:50|אומר הברטנורה, גמר מלאכה, כשתולשין אותו, דכתיב אל כליך לא תיתן,
+258|17:56|בשעה שאתה נותן לכליו של בעל הבית, אתה אוכל, דהיינו כשתולשים
+259|18:01|אותו.
+260|18:03|שזה יהיה ראוי כבר לתת לכלי של בעל הבית.
+261|18:08|ובתלוש מן הקרקע, בתלוש מן הקרקע אומר הברטנורה, ואם מתעסק בדבר התלוש,
+262|18:14|אוכל באותו דבר, עד שלא נגמרה מלאכתו למעשר דווקא, שעדיין לא תיגמר
+263|18:20|מלאכתו למעשר, אם הוא בר מעשר.
+264|18:25|או שלא נגמרה מלאכתו לחלה, אם הוא בר חלה.
+265|18:29|דאמר קרא, אמר הכתוב, לא תחסום שור בדישו.
+266|18:33|שימו לב.
+267|18:34|מדלוקה, אמר מזה שלא אמר, לא תדוש בחסימה.
+268|18:39|דהיינו, אל תדוש עם השור בחסימה.
+269|18:42|לא כתוב ככה.
+270|18:43|מה כן כתוב?
+271|18:44|לא תחסום שור בדישו.
+272|18:45|שמה מינה?
+273|18:46|להקושה, זה בא להקיש חוסם לנחסם.
+274|18:50|בזה שכתוב לא תחסום, שזה הבעלים, בא להקיש.
+275|18:55|את החוסם לנחסם, דהיינו את הבעלים לשור, ונחסם לחוסם, את השור
+276|19:01|לבעלים.
+277|19:03|לומדים משור לבעלים ומבעלים לשור.
+278|19:06|מה לומדים?
+279|19:08|מה נחסם שהוא שור, אוכל בתלוש, שור מותר לו לאכול בתלוש, כשעושה בו מלאכה,

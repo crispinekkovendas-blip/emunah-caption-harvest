@@ -1,0 +1,64 @@
+videoId: o6lsXLfzCfU
+parte 14 de 19 · traduzir as linhas 520 a 559 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: a komá de cada mundo
+RESUMO: O rabino retoma o capítulo 4 da parte 3 do Talmud Eser HaSefirot e pede que o aluno não se perca nos detalhes e lembre o objetivo do capítulo: a komá (nível de luz) do zivug define a qualidade das dez sefirot de cada mundo. Ele relê os títulos das letras A a C, que tratam de Atzilut, onde todas as sefirot estão na komá de Chochmá, e de Briá, onde estão na komá de Biná. Em seguida lê o Ari e o Or Pnimi de Baal HaSulam sobre Keter e Chochmá ficarem "guenuzim" (ocultos) em Biná, com o exemplo da luz oculta para os justos. Explica a diferença entre "janela", ou passagem, e "massach satum" (tela fechada): o massach não limita o que está acima dele, só o que está abaixo. Comenta a expressão do Zohar "Imá Ilaá mekanená bekursiya" (o ninho como algo não permanente), o movimento "minah uvah" e as dez sefirot de Yetzirá e Assiyá. Termina com a correspondência entre os quatro mundos e as letras de HaVaYaH (Yud, Hei, Vav, Hei), com os milluim, e com a regra de que cada mundo recebe apenas da luz do massach que está acima dele.
+MOMENTOS: 00:17 Não perder a visão geral do capítulo 4 · 01:03 Títulos das letras A a C: komá de Atzilut e Briá · 04:47 Letra D: a luz da Biná e o massach satum · 10:44 Or Pnimi: Keter e Chochmá guenuzim em Biná · 12:49 O que significa "guenuz": a luz oculta · 16:05 Debate sobre o significado de cada komá · 18:40 "Imá Ilaá mekanená bekursiya": o zivug não permanente · 23:32 Letra Hei: a Biná de Atzilut e a Biná de Briá · 26:02 Letra Vav: Zeir Anpin de Briá e a regra do massach · 36:04 Minah uvah: as dez sefirot de Yetzirá e Assiyá · 42:24 Letra Chet: os mundos e as letras de HaVaYaH · 48:09 Letra Tet: a regra geral e fecho do capítulo · 52:11 Pergunta final: Briá versus Biná
+FONTES CITADAS: 01:03 Talmud Eser HaSefirot, parte 3, cap. 4 (título geral) · 01:59 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Alef · 02:41 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Bet · 03:51 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Guimel · 05:21 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Dalet · 06:06 Zohar, Imá Ilaá mekanená bekursiya · 10:44 Baal HaSulam, Or Pnimi no Talmud Eser HaSefirot III, cap. 4 · 13:01 Chagigá 12a (a luz oculta para os justos) · 18:46 Baal HaSulam, Or Pnimi, sobre o termo kinun (ninho) · 18:40 Zohar, Imá Ilaá mekanená bekursiya · 21:58 Devarim 6:4 · 24:01 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Hei · 26:19 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Vav · 27:29 Baal HaSulam, Or Pnimi, sobre a Biná de Atzilut · 35:47 Baal HaSulam, Or Pnimi, sobre minah uvah · 38:44 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Ayin · 40:27 Baal HaSulam, Or Pnimi, sobre as seis sefirot de Zeir Anpin · 41:07 Baal HaSulam, Or Pnimi, sobre Imá Tataá · 43:10 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Chet · 43:55 Mishná Yomá 6:2 (o Kohen Gadol e o Nome no Yom Kipur) · 44:07 Baal HaSulam, Or Pnimi, sobre HaVaYaH e as dez sefirot · 45:47 Baal HaSulam, Or Pnimi, sobre as dez sefirot de cada mundo · 48:49 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Tet · 50:14 Baal HaSulam, Or Pnimi, sobre a regra geral
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+508|36:54|מתפשטת בעצמה מינה ובה לעשר ספירות.
+509|36:58|למה?
+510|36:59|כי היא השפיעה על זה כלפי מעלה את העשר ספירות האלה, עכשיו היא מקבלת את זה בתוכה.
+511|37:06|וכבר ידעת שהעשר ספירות המוגבלות שבכל העולמות
+512|37:12|הן נעשות רק על ידי האור חוזר המתפשט אליהן ממעלה
+513|37:18|למטה.
+514|37:20|כנ"ל.
+515|37:21|לפיכך מכונות עשר הספירות האלו בשם עשר ספירות הפרטיות מן העובה.
+516|37:27|הן באצילות והן ביצירה והן בעשייה.
+517|37:32|המלכות דבריאה שעליה יש את המסך,
+518|37:38|כן?
+519|37:39|אחרי הזיווג הזה, המלכות דבריה תישאר המלכות דבריה.
+
+LINHAS A TRADUZIR:
+520|37:43|אבל עכשיו יש לנו גם מלכות דבריה שמקבלת התפשטות מינה
+521|37:49|עובה של עשר ספירות שהופכות להיות איזה עשר ספירות של עולם?
+522|37:56|יצירה.
+523|38:01|אוקיי?
+524|38:03|מה פירוש המילים?
+525|38:05|מנה אהובה.
+526|38:07|ממנה ובתוכה.
+527|38:08|ממנה ובתוכה?
+528|38:13|כן.
+529|38:14|כן.
+530|38:14|אל תגידו את זה לאישה בבית.
+531|38:17|מנה אהובה, היא תחשוב שאתם לא...
+532|38:19|זה...
+533|38:19|מתכוונים למשהו לא...
+534|38:21|זה...
+535|38:22|לא רציני.
+536|38:24|כן.
+537|38:26|הלאה, עוד זין.
+538|38:30|כותרת.
+539|38:31|בעולם היצירה.
+540|38:34|מתלבש אור העליון באור חוזר דבחינה א',
+541|38:42|נכון?
+542|38:44|שהוא קומת זרנפין.
+543|38:46|איפה היה הזיווג הזה?
+544|38:48|בבריאה.
+545|38:49|כדי להוציא את יצירה.
+546|38:54|ובעולם העשייה מתלבש אור העליון באור חוזר דקומת שורש עוביות,
+547|39:00|שהיא קומת הנוקבה דזרנפין.
+548|39:03|הוא אפילו לא אומר...
+549|39:04|המלכות, הוא אומר, ענוק בדזרנפין, ולא צריך להתעכב על
+550|39:09|החידוד הזה.
+551|39:12|לשון האריזל, והנה, האינסוף, כדי להאיר ביצירה,
+552|39:20|מתלבש לבוש גמור גם בזרנפין דבריא.
+553|39:23|והנה האינסוף, או אינסוף,
+554|39:29|כשהוא מתגלה שם מסע חדש, כן, איזה מסך?
+555|39:33|מסך בעביות א', כדי להאיר ביצירה
+556|39:38|מתלבש לבוש גמור גם בזרען פין דבריאה,
+557|39:45|והוא נעשה מסך ומלבוש אל היצירה, ועל ידו מקבל
+558|39:51|כל היצירה.
+559|39:53|וכן להאיר בעשייה מתלבש האין סוף לבוש ומסך גמור בנוקבה דזרען פין דיצירה,

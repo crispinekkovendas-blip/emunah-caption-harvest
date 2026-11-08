@@ -1,0 +1,64 @@
+videoId: IUGjIjvTg8k
+parte 3 de 8 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Bava Metzia 7: costume local e direitos do trabalhador
+RESUMO: A aula comenta a Mishná Bava Metzia 7:1, que trata do empregador que contrata trabalhadores sem condições e depois quer que comecem mais cedo e saiam mais tarde. O rabino estabelece que as condições especiais só valem se forem ditas antes de o trabalho começar. Com o Rav Ovadia de Bartenura, explica que pagar mais do que o mercado não dá direito a exigir isso, porque o trabalhador pode alegar que o pagamento maior era para garantir um serviço de qualidade. Em seguida, vê que alimentação, complementos e refeição em casa do patrão seguem "hakol kaminhag hamedina". Estuda o caso de Rabi Yochanan ben Matya, a Gemará sobre "chasurei mechasra", a comparação com a refeição de Shlomo e a de Avraham, e a opinião de Rabban Shimon ben Gamliel. Por fim, começa a Mishná 7:2, sobre o trabalhador que come "min haTorá" (Devarim 23:25). Usa a derivação de "Lo tachsom shor bedishó" (Devarim 25:4) para definir o que o trabalhador pode comer e o que fica excluído, deixando os detalhes para a próxima aula.
+MOMENTOS: 00:03 Texto da Mishná 7:1: madrugar, entardecer e costume local · 01:03 Princípio: condições devem ser ditas antes de começar · 03:13 Contratar sem condições e depois exigir mais horas · 04:24 Bartenura: salário maior não autoriza a exigência · 06:58 Alimentação e complemento conforme o costume do lugar · 08:42 Hakol kaminhag: comer o desjejum na casa do patrão · 10:09 Rabi Yochanan ben Matya e a Gemará sobre "chasurei mechasra" · 12:12 Banquete de Shlomo e banquete de Avraham · 13:08 Corrigir antes do início: só pão e legumes · 14:15 Rabban Shimon ben Gamliel e a pergunta sobre os recursos do patrão · 16:02 Mishná 7:2: o trabalhador que come min haTorá · 17:50 Fonte: Lo tachsom shor bedishó e a comparação do hekesh · 19:45 Exclusões: ordenhar, fazer queijo, produto já tributável
+FONTES CITADAS: 00:03 Mishná Bava Metzia 7:1 · 00:26 Mishná Bava Metzia 7:1 · 00:56 Mishná Bava Metzia 7:1 · 04:24 Bartenura em Bava Metzia 7:1 · 06:09 Bartenura em Bava Metzia 7:1 · 07:17 Bartenura em Bava Metzia 7:1 · 08:42 Bartenura em Bava Metzia 7:1 · 10:09 Gemará Bava Metzia 83a · 11:08 Bartenura em Bava Metzia 7:1 · 11:37 Mishná Bava Metzia 7:1 · 12:28 Bereshit 18:7-8 · 13:08 Mishná Bava Metzia 7:1 · 13:32 Bartenura em Bava Metzia 7:1 · 13:51 Bartenura em Bava Metzia 7:1 · 14:01 Melachim I 4:20 · 14:07 Bartenura em Bava Metzia 7:1 · 14:15 Mishná Bava Metzia 7:1 · 16:02 Mishná Bava Metzia 7:2 · 16:22 Mishná Bava Metzia 7:2 · 16:41 Devarim 23:25 · 17:32 Bartenura em Bava Metzia 7:2 · 17:50 Devarim 23:26 · 18:29 Devarim 25:4 · 18:45 Gemará Bava Metzia 89a · 19:45 Bartenura em Bava Metzia 7:2 · 20:21 Bartenura em Bava Metzia 7:2 · 20:44 Mishná Bava Metzia 7:2 · 21:16 Tehilim 89:53
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|04:59|הם אומרים לו, מה פתאום, למה אנחנו צריכים, זה לא מנהג המדינה.
+69|05:03|ואתה לא אמרת לנו את זה מעיקרה, שזה מה שאתה רוצה.
+70|05:07|אתה לא התנת איתנו את התנאי הזה.
+71|05:11|הוא אומר להם, תראו, נכון שלא דיברנו על זה מפורש, אבל השכר שאתם מקבלים, אני
+72|05:17|שואל אתכם, זה שכר יותר גבוה ממה שמשלמים בשוק, או שכר יותר
+73|05:23|נמוך?
+74|05:23|הם אומרים לו, אין מה להגיד.
+75|05:25|שכר שאתה משלם, שכר יותר גבוה.
+76|05:27|הוא אומר להם, הנה בבקשה.
+77|05:29|למה אתם חושבים שהסכמתי לשלם לכם יותר?
+78|05:33|הסכמתי לשלם לכם יותר על מנת שאתם תשכימו ותעריבו.
+79|05:39|הם אומרים, סליחה, זאת לא טענה.
+
+LINHAS A TRADUZIR:
+80|05:41|אנחנו יכולים לומר שאתה הסכמת לשלם לנו יותר מכיוון שאתה רצית לוודא
+81|05:47|שנעשה מלאכה טובה.
+82|05:50|בשביל שנעשה מלאכה טובה, אז צריך לבן אדם לשלם יותר אם אתה רוצה שהוא ייתן לך
+83|05:56|תוצר כמו שצריך.
+84|05:58|אם אתה מחפש זול, תקבל גם עבודה זולה בדרך כלל.
+85|06:05|לכן, זאת לא טענה מצידו.
+86|06:07|זה מה שאומר פה הברטנור.
+87|06:09|ואף על גב דטפא להו, האגראיו, אפילו שהוא הרבה להם את שכרם, משאר
+88|06:15|פועלים.
+89|06:16|לא מציא אמר להו, היי דטפא לכו האגראיו,
+90|06:23|הדעתא דמקדמיתו ומחשכיתו.
+91|06:29|בעדיי.
+92|06:30|הוא לא יכול להגיד להם, זה שאני הגבתי לכם את השכר, זה היה על דעת שאתם תקדימו ותחשיכו
+93|06:37|בעבודה אצלי.
+94|06:39|דאמרי להם, מכיוון שהם יכולים להגיד לו, איי, דדפת לן, הדעתא
+95|06:45|דאבדינן לך, ובדעתא שפירתא.
+96|06:49|הם יכולים להגיד לו, זה שאתה הגבת לנו את השכר, זה היה על מנת שנעשה לך עבודה טובה.
+97|06:58|מקום שנהגו לזום, אם הפועלים התחילו לעבוד אצלו,
+98|07:04|וזה מקום שנוהגים לתת מזונות לעובדים, יזום,
+99|07:11|תן להם אוכל, לספק במתיקה, יספק, אם זה עכשיו מקום
+100|07:17|שנוהגים עם האוכל להביא להם גם לפתן קצת, ככה אומר פה הברטנורה,
+101|07:23|זאת אומרת הוא יביא להם עכשיו קוסקוס, יגידו לו רגע, אבל יבש, אין נוחה ככה.
+102|07:29|צריך מזבוכה, צריך ירקות מבושלים עם רוטב.
+103|07:35|תגיד להם, תגידו, אתם באתם פה לעבוד או באתם עכשיו לאכול תבשילים?
+104|07:41|תגידו, הכל כמנהג המדינה, פה נוהגים עם ליפטן, ויש
+105|07:46|מסבירים מתיקה כפשוטו.
+106|07:50|זאת אומרת, צריך להביא להם חלבה ככה, שיהיה להם מיני מתיקה.
+107|07:56|תגידו, תשמע, אנחנו צריכים אנרגיה.
+108|08:00|ולכן זה יגיד אני מעדיף את
+109|08:06|החטיף בריאותי.
+110|08:12|מה אתה אומר?
+111|08:13|מה מה?
+112|08:15|נצ'ר וג.
+113|08:17|איך איך?
+114|08:20|נצ'ר וג?
+115|08:20|וג.
+116|08:21|יפה, לא מכיר, מעניין.
+117|08:26|צריך עיון.
+118|08:29|בסדר גמור.
+119|08:31|בקיצור, אם זה מנהג המדינה שם, באותו מקום, אדר רבה, ככה צריך

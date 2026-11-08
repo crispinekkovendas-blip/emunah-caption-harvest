@@ -1,0 +1,64 @@
+videoId: MDk7A-WbbcA
+parte 22 de 51 · traduzir as linhas 840 a 879 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Gadlu laHaShem iti e o Ratzon como Or Makif (Maamar 15)
+RESUMO: A aula começa com a Idra Zuta, no Zohar de Parashat Haazinu, onde Rashbi diz que passou a vida meditando em Tehilim 34:3, "BaHaShem tithalel nafshi, yishmeu anavim veyismachu". Rashbi resume sua entrega com "bi achida, bi lehita, bi dvekut, bi hishtadlut". O rabino expõe as leituras clássicas, que veem nefesh, ruach e neshamá, e a leitura do pai do Rebe, que vê os Patriarcas e a hishtadlut como tikun da Malchut. Ele relaciona isso aos tefilin e aos que entraram no Pardes (Chagigá 14b), e Tehilim 34:4, "Gadlu laHaShem iti", leva a halachot sobre o Sefer Torá (Masechet Soferim), o zimun e o volume do amen (Berachot 45a, 53b). Na segunda parte, o Maamar "BeShaá SheHikdimu" de 5672 distingue o ratzon, que é or makif e pura essência, dos kochot penimiim, que se revestem. O rabino compara isso com bósons e férmions e com o Higgs, e mostra as quatro ações do makif. Por fim, explica "elef alafim" (Daniel 7:10) e "hayesh mispar ligdudav" (Iyov 25:3) à luz de Chagigá 13b, com a teoria dos conjuntos de Cantor, o continuum e Gödel.
+MOMENTOS: 11:49 Idra Zuta e a despedida de Rashbi · 12:28 Pergunta de Rashbi sobre BaHaShem tithalel nafshi · 15:13 Bi achida, bi lehita, bi dvekut, bi hishtadlut · 21:30 Leitura clássica: nefesh, ruach e neshamá · 25:08 Leitura do pai do Rebe: mercavá e hishtadlut · 34:43 Tefilin, a mente oculta e o Pardes · 46:17 Gadlu laHaShem iti e o Mashiach sobre o telhado · 52:32 Halachot do versículo Gadlu: Soferim e zimun · 58:35 Amen sem elevar a voz sobre o que abençoa · 1:07:21 Quem responde amen e o seu valor · 1:33:08 Maamar: ratzon (makif) versus kochot penimiim · 1:42:46 Bósons e férmions como or makif e pnimi · 2:05:08 As quatro ações do makif · 2:17:13 Elef alafim, Iyov e a teoria dos conjuntos
+FONTES CITADAS: 11:49 Zohar, Idra Zuta, Parashat Haazinu · 12:34 Tehilim 34:3 · 13:30 Peshatim e comentaristas do Zohar sobre "anavim · 15:09 Zohar, Idra Zuta · 17:34 Targum Onkelos em Shemot 22:15 · 17:48 Bamidbar 12:3 · 18:51 Machzor de Rosh HaShaná, chazarat hashatz · 20:19 Pai do Rebe, comentário sobre o Zohar · 21:30 Comentaristas clássicos do Zohar · 25:44 Yechezkel 33:24 e Yeshayahu 51:2 · 32:44 As quatro parashiot dos tefilin · 33:59 Amidá, bênção Avot · 34:43 Escritos do Arizal sobre os tefilin · 36:21 Chagigá 14b · 39:17 Tehilim 118:22 · 39:39 Shir HaShirim 6:12 · 40:59 Zohar, Idra Zuta, Eilu HaMelachim · 41:13 Zohar, Idra Zuta · 46:17 Tehilim 34:4 · 46:45 Midrash sobre o Mashiach no telhado do Beit HaMikdash · 47:34 Tehilim 48:5 · 49:25 Bereshit 36:39 · 52:02 Devarim 33:5 · 53:00 Sidur, retirada do Sefer Torá · 55:20 Masechet Soferim · 55:49 Sefer Kol Bo · 56:20 Abudraham · 57:12 Berachot 45a · 57:58 Devarim 32:3 · 58:35 Berachot 45a · 58:53 Shulchan Arukh, Orach Chaim, leis do amen · 1:06:02 Rabi Eliezer HaGadol e Rabi Akiva, segredos de Shir HaShirim · 1:07:21 Berachot 53b · 1:12:46 Shulchan Arukh, Orach Chaim · 1:14:19 Shulchan Arukh do Admor HaZaken, Orach Chaim, último siman preservado · 1:23:55 Maamar BeShaá SheHikdimu, Tarab, cap. 15 · 1:35:07 Bereshit 1:1 · 1:35:25 Tehilim 148:5 · 2:06:44 Tanya, Igeret HaKodesh 20 · 2:08:49 Rambam, Yesodei HaTorá 2:10 · 2:15:21 Bereshit Rabá 68:9 · 2:17:27 Chagigá 13b · 2:17:41 Daniel 7:10 · 2:20:28 Iyov 25:3 · 2:20:21 Bava Batra 14b · 2:23:03 Chagigá 13b · 2:35:29 Keter Shem Tov, ensinamento do Baal Shem Tov
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|1:12:18|ביחד.
+829|1:12:20|הרי לפי המנהג, אני לא יכול, חוץ מי, לשים אלה כלל אחת.
+830|1:12:25|בונה ברחמה וירושלים ברכת המזון, אני לא
+831|1:12:29|אומר אמן על ברכת עצמי.
+832|1:12:34|יש כאלו שכן אומרים אם יש רצף, שהלשון
+833|1:12:39|בשולחן הערוך זה עם שתי ברכות אחוזות, אם יש אחיזה, שזה
+834|1:12:46|מאוד דבר מאוד יפה מה זה אחיד, הלשון אחיזה.
+835|1:12:50|הרשום בשולחן ערוץ, שאם יש אחיזה בין שתי ברכות, אז אפשר
+836|1:12:56|לומר אמן על ברכת עצמך על הברכה השנייה.
+837|1:13:01|כמו, לדוגמה, ברוך שאמר וישתבח.
+838|1:13:06|זה אף על פי שיש פסוקי לזמלא באמצע, אבל היות שאסור להפסיק,
+839|1:13:12|זה הכל ברצל אחד, יש אחיזה בין שתי הברכות.
+
+LINHAS A TRADUZIR:
+840|1:13:15|אם יש אחיזה, אפשר לומר אמן.
+841|1:13:18|אנחנו לא נוהגים.
+842|1:13:20|לא נוהגים ככה.
+843|1:13:23|מה זה הדוגמה שאין אחיזה?
+844|1:13:24|זה כמו על אוכל, ברכה ראשונה, ברכה אחרונה, שיש הווה אמינא שאמרתי ברכה ראשונה
+845|1:13:30|על הכוס מים.
+846|1:13:33|וכעבור חצי שעה או יותר אני אומר ברכה אחרונה, אז אולי זה גם כן שתי
+847|1:13:38|ברכות רצופות.
+848|1:13:42|אבל לא, כתוב שאין אחיזה ביניהם.
+849|1:13:44|למה?
+850|1:13:44|בגלל שמותר לי לדבר באמצע.
+851|1:13:49|זה גם מאוד מאוד יפה שבהשגחה הפרטית, הרי
+852|1:13:55|ידוע שאת אדמון הזקן אין את כל הסימנים, הרבה סימנים שהשולחן הזה הלך לאיבוד,
+853|1:14:02|אבל החלק הראשון של אורח חיים, שזה נגמר עם ערכות פלחות,
+854|1:14:09|הסימן האחרון, שזה החותם שחותם את אדמון הזקן, יש עוד כמה אחרי זה, אבל
+855|1:14:15|זה לא נמצא את זה, זה בהשגחה הפרטית.
+856|1:14:19|‫מה שחותם את השולחן העבור ‫של האדמון הזקן, ‫זה דין עניית אמן.
+857|1:14:25|‫זה הסימן הרחב.
+858|1:14:30|‫גם כי זה ממש אשכחה יפהפייה, ‫שהאמן זה לגבי ברכות.
+859|1:14:35|‫מה שלמדנו לפני שבוע, ‫זה היה אמן על חזרת
+860|1:14:41|השץ, ‫שזה סימן קכ"ד, ‫זה סימן רט.
+861|1:14:49|בכל אופן, אז בזה אנחנו נסיים עכשיו את החלק הראשון
+862|1:14:54|שלנו בערב, ונעשה הפסקה, ונעבור
+863|1:14:58|לעין בייס.
+864|1:15:01|זה לחיים לחיים.
+865|1:15:02|תעזור להשם איתי ונראה ממש מהיחוד.
+866|1:22:35|נשאר כוחות הנפש מהחוכמה אדומה בשאלות פנימיים.
+867|1:22:38|זה נושא שהוא התחיל קודם, אבל
+868|1:22:43|המאמר הזה ממשיך
+869|1:22:47|לומר
+870|1:22:54|את זה.
+871|1:22:55|הוא מסביר שכל כוח בנפש, כשהוא מתכוון מתוך הנפש, כל אחד
+872|1:23:01|מהכוחות הפנימיים, כמו שחוכמה ב...
+873|1:23:05|תודה.
+874|1:23:44|זה פשוט ותפיסה.
+875|1:23:46|זה בגלל שבאמת המנקף הוא נעצר והוא נמצא
+876|1:23:53|מתוך הנפש.
+877|1:23:55|מה שאין כן הרצון, שהוא הקטע,
+878|1:23:59|הוא לא כמו הכוחות הפנימיים.
+879|1:24:02|המקור הכי הגיוני של הכוחות הפנימיים, ידי איזה סביבות

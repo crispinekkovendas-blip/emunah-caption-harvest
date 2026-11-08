@@ -1,0 +1,64 @@
+videoId: 3Hw5urLKqOo
+parte 3 de 21 · traduzir as linhas 80 a 119 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Torá lishmá e shelo lishmá: como estudar com intenção correta
+RESUMO: O rabino mostra que existe uma tensão entre os textos sobre estudar Torá lishmá, "pelo seu próprio nome", e os que permitem estudar shelo lishmá. Parte de Avot 6:1, de Rabi Chaim Vital e da Gemará "de shelo lishmá se chega a lishmá", e conta a história do Zohar sobre Rabi Aba e o jovem que chorava por não receber recompensa. Em seguida confronta o Zohar Chadash, segundo o qual quem estuda shelo lishmá não ressuscita, com o Zohar de Ki Tetzé e a Gemará de Sotá, e resolve a questão com Rashi e Tosafot: estudar para provocar o outro ou para ter benefício ilícito é proibido, mas estudar para ser rabino ou obter posição é permitido no início, e o Or HaChaim diz para esperar e ver o fim. Depois traz o Rambam e o Rosh, que não admitem viver da Torá, o Chida e o Ramchal, que proíbem estudar para o perdão dos pecados (os pedidos vêm depois do estudo), e os quatro níveis do Ramak, até a intenção correta de agradar ao Criador. Explica por que a Amidá tem pedidos, cita o Sefer HaChinuch e o Rambam sobre a finalidade de estudar, e apresenta a distinção do Chatam Sofer entre lishmá e lesheim shamayim. Termina com a definição de Rabi Alexander Ziskind, nos quatro mundos e nas sefirot: estudar para unir a alma ao mundo de Atzilut, consertar os danos e unificar os nomes sagrados.
+MOMENTOS: 00:35 Avot 6:1 e a objeção de Rabi Chaim Vital · 01:42 Gemará: de shelo lishmá se chega a lishmá · 02:19 Zohar: Rabi Aba e o jovem que chorava · 09:36 Zohar Chadash: quem estuda shelo lishmá não ressuscita · 11:51 Rashi e Tosafot: quando é proibido e quando é permitido · 16:07 Or HaChaim: esperar para ver o fim · 17:43 Rambam e Rosh: não viver da Torá · 21:21 Chida: não estudar para perdão dos pecados · 26:37 Ramchal e a yeshiva Yarim Moshe · 30:51 Os quatro níveis do Ramak · 36:00 Por que a Amidá pede cura e perdão · 41:46 Chatam Sofer: lishmá versus lesheim shamayim · 51:35 Rabi Alexander Ziskind: unir a alma e unificar os nomes
+FONTES CITADAS: 00:43 Avot 6:1 · 01:04 Rabi Chaim Vital sobre Avot 6:1 · 01:42 Pesachim 50b · 02:19 Zohar, Rabi Aba e o jovem que chorava · 02:25 Zohar, Idra · 02:58 Mishlei 3:16 · 04:31 Zohar, Rabi Aba e o jovem · 08:19 Iyov 11:9 · 08:33 Mishlei 8:11 · 09:16 Iyov 28:17 · 09:42 Zohar Chadash · 10:10 Zohar, Parashat Ki Tetzé · 10:35 Sotá 22b · 11:51 Rashi em Berachot · 12:09 Tosafot em Pesachim 50b · 12:55 Berachot 17a · 16:07 Or HaChaim em Vayikra, Parashat Kedoshim · 17:53 Rambam, Hilchot Talmud Torá 3:10 · 19:22 Rosh · 19:29 Ramak (Rabi Moshe Cordovero) · 19:53 Chida em Avot 6:1 · 20:44 Gemará, esposa de um sábio e os filhos · 21:21 Chida · 22:16 Oração após o estudo de Tehilim · 23:10 Bênção da leitura da Torá · 23:54 Baruch She'amar · 24:12 Baruch She'amar · 25:44 Yehoshua 1:8 · 26:37 Rabi Moshe Chaim Luzzatto (Ramchal), yeshiva Yarim Moshe · 30:51 Ramak, quatro níveis do estudo · 33:57 Eicha 1:18 · 36:00 Amidá, bênçãos de cura e perdão · 36:13 Anshei Knesset HaGedolá · 37:43 Selichot · 38:20 Sefer HaChinuch · 38:20 Tehilim 111:10 · 38:43 Sefer Chassidim · 39:14 Rambam, Hilchot Teshuvá 10:5 · 40:41 Ensinamento de um mestre sobre lishmá · 41:46 Chatam Sofer · 44:40 Devarim 6:8 · 46:26 Shulchan Arukh · 48:12 Patach Eliyahu (Tikunei Zohar) · 49:53 Birkot HaShachar · 51:35 Rabi Alexander Ziskind, Yesod VeShoresh HaAvodá · 52:41 Bereshit 2-3 · 53:40 Shemot 3:14
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+68|05:19|מודיעין.
+69|05:22|מודיעין.
+70|05:23|מודיעין.
+71|05:24|בעיר מודיעין, אי נוח, נהרג, נוסע על,
+72|05:31|איך קוראים לזה?
+73|05:32|קורקינט חשמלי.
+74|05:35|מתי יהיה סוף לזה?
+75|05:37|תגידו לי.
+76|05:39|החרדים האלה, אלה חרדים?
+77|05:43|אני לא מבין מה קורה פה.
+78|05:45|אם יש ספק ספקה של עריות, איזה רעשים, זורקים
+79|05:51|אבנים ומרעישים.
+
+LINHAS A TRADUZIR:
+80|05:53|ומפגינים ספק גילוי עריות.
+81|05:57|כאן שפיכות דמים ואין פוצל פה ומצפצף.
+82|06:03|איך מרשים להורים לתת לילד בגיל חמש ללכת
+83|06:09|בין אוטובוסים בכל מיני כבישים ללכת עם
+84|06:14|קורקינט חשמלי.
+85|06:17|מה זה?
+86|06:18|מה הוא נהג?
+87|06:21|אחר כך אומרי זה משמיים, זה משמיים אתה עשית את זה, האבא
+88|06:27|והאימא, אלה שקנו לו, אוי ואבוי, שפיכות
+89|06:32|דמים, דבר נורא ואיום, על זה צריך לבכות.
+90|06:38|אז נחזור לענייננו, כואב, בגלל שכואב הלב דיברתי על זה, צריך
+91|06:43|למחות.
+92|06:45|בקיצור, אז שאל אותו, למה אתה בוחה?
+93|06:51|אמר לו, אני לא זכיתי לתורה, ואני יודע שאם אדם
+94|06:57|תומך במי שלומד תורה, יש לו חלק בתורה,
+95|07:03|איזה חלק שהוא, ואני רוצה לתמוך במי שילמד תורה.
+96|07:08|אמר לו, יופי, הנה הסיר והנה המכסה.
+97|07:13|עכשיו היה פה הבחור הזה שבחר, ועכשיו באת אתה מהשמיים,
+98|07:19|בן זוג.
+99|07:21|אמר לו כך הנה הוא מהיצרן לצרכן
+100|07:27|זה עכשיו צרח לי באוזניים בכה והנה זה בא עכשיו גם בכה
+101|07:36|נהיה רשימת הבכיינים רשימת צבע שחור
+102|07:42|יעשו ביחד תקימו מפלגה המפלגה ניצחה
+103|07:50|‫איי, איי, איי, איי, נזכנים.
+104|07:54|‫בקיצור,
+105|08:03|מאז עכשיו ללמוד תורה.
+106|08:08|‫ממשיך הזוהר ואומר ‫ליומים על...
+107|08:13|‫המידו דאורייתא.
+108|08:14|‫המידו דאורייתא במאה.
+109|08:19|‫נכנסה אהבת התורה ועמדת התורה ‫במאיים שלו, של הילד, של
+110|08:25|הבחור הזה.
+111|08:27|‫ואז אמר, מה אני עושה, ‫איך אני את התורה שהיא אהבה
+112|08:33|מן הים ‫וארוכה מארץ מידה, ‫וכל חפציך
+113|08:39|לא ישבו בה.
+114|08:41|‫מכרתי אותה בשביל כלי אחד של כסף.
+115|08:44|‫מה זה היה?
+116|08:46|כלי של זהב.
+117|08:47|‫הביא לזה בקבוק זהב.
+118|08:49|‫כמו של אדמו"רים, מכיר את זה?
+119|08:52|‫אני לא ראיתי גם, אבל אומרים ככה.

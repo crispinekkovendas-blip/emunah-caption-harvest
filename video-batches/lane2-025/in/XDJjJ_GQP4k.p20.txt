@@ -1,0 +1,64 @@
+videoId: XDJjJ_GQP4k
+parte 21 de 27 · traduzir as linhas 800 a 839 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Atualidades, política e Parashá: paralisia facial e Chayei Sarah
+RESUMO: Avri Gilad abre o programa com o rosto paralisado por uma paralisia facial, provocada pelo excesso de chiclete, e diz que escolheu a alegria e seguir a vida normalmente, usando a limitação como instrumento. Em seguida, os dois falam de política: ficam com a ideia de que é preciso agir com o que é possível no momento novo, e debatem a formação de um governo minoritário, os haredim, os árabes e os beduínos. O Rav Gottlieb aplica o ensinamento judaico ao vizinho que "afia a espada à noite" ("kabdehu vachashdehu", honre-o e desconfie dele) e lembra Esav chegando com 400 homens ao encontro de Yaakov: segundo os Sábios, os pensamentos de fraternidade de Yaakov ajudaram a decidir o encontro. Eles comentam a mudança de tom na sociedade haredi diante da candidatura de Leitner, a ameaça do "mundo vindouro e Guehinom" e os rapazes de Gur no parque Yarkon. O repórter Yossi Meir, de Miami, liga a Parashá Chayei Sarah ("betulá ve'ish lo yada", Rivká) à pureza e à anulação (bitul), e traz ensinamentos do Rebe de Lubavitch e a ideia do Midrash de que HaKadosh Baruch Hu quis uma morada nos mundos inferiores. O programa termina com o desejo de Shabat Shalom e a brincadeira "ve'yehi akov lemishor".
+MOMENTOS: 00:26 Paralisia facial: escolher a alegria e seguir a vida normal · 01:48 A causa: vício em chiclete e inflamação do nervo · 06:13 Assistente pessoal de IA e a IA dos escritos de Baal HaSulam · 08:08 Governo minoritário e perigo existencial; agir com o possível · 12:29 Acordo com o setor haredi e serviço nacional · 17:00 O vizinho que afia a espada: kabdehu vachashdehu e Esav · 21:20 Ben Gvir, eleitores árabes e a segurança em Rahat · 22:50 Educação para os beduínos e proibição de rostos cobertos · 31:05 Mudança no mundo haredi após a candidatura de Leitner · 37:26 Rapazes de Gur no parque Yarkon · 43:44 Yossi Meir de Miami: Chayei Sarah, Rivká e a "betulá" · 47:00 Jogar em casa sem se sentir em casa; a morada nos mundos inferiores
+FONTES CITADAS: 07:35 Escritos de Baal HaSulam · 17:34 Kabdehu vachashdehu · 18:03 Bereshit 33:1 · 18:14 Bereshit 33:9 · 18:27 Chazal sobre Esav e Yaakov (Bereshit 33) · 25:50 Mishlei 10:2 · 43:10 Ensinamento do Rebe de Lubavitch · 43:50 Bereshit 24:16 · 48:32 Midrash Tanchuma, Nasso 16 · 51:52 Yeshayahu 40:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+788|37:46|ועם הרבי שלהם, מתהלכים בפארק הירקון.
+789|37:52|זה לא ראיתי בחיים שלי כזה דבר.
+790|37:53|לא, אני ראיתי הרבה פעמים קבוצות ענקיות של חרדים.
+791|37:56|בפארק הירקון?
+792|37:58|ספר לך יותר מזה.
+793|37:59|הזכרים או הנקיבות?
+794|38:01|גם משפחות, גם זכרים, גם...
+795|38:02|כן, משפחות אני מבין, אבל פה כאילו הוא הוציא אותם מהישיבה.
+796|38:07|והוא הולך איתם עכשיו בטבע.
+797|38:09|לא ראיתי דבר כזה.
+798|38:10|וואלה.
+799|38:11|אני חושב שזה טוב, זה נהדר.
+
+LINHAS A TRADUZIR:
+800|38:13|אספר לך סיפור.
+801|38:14|כשבתי...
+802|38:15|הם צעקו, אני שומע באוזניים שלי, הם צעקו שם.
+803|38:18|היי, זה הרב גוטליב, הרב גוטליב.
+804|38:20|כן?
+805|38:21|מאיפה הם יודעים שזה הרב גוטליב?
+806|38:22|וואלה.
+807|38:23|הרי את הרב גוטליב רואים במכשירים אסורים.
+808|38:26|כשאני הולך לקנות פעם בשנה ממתקים בבני ברק.
+809|38:29|כן.
+810|38:30|לפובים, למשלוחי מנות של הבנות, שמכינות עשרות שקיות, אז אני
+811|38:36|הולך...
+812|38:37|לחנות שמה שכל ממתק ושקל, ואני נכנס שמה, כמעט
+813|38:43|כולם מכירים אותי.
+814|38:44|וואו.
+815|38:45|זה מעניין.
+816|38:45|זה מעניין.
+817|38:46|כן.
+818|38:46|מאוד מעניין
+819|38:50|הדבר הזה.
+820|38:53|מצד אחד יש שם תמימות רבה, ומצד שני יש חריפות
+821|38:57|רבה.
+822|38:59|הם לא טיפשים.
+823|39:03|כשבתי זוהר הייתה בת שנתיים וחצי או מה?
+824|39:06|הלכתי איתה לפארק הירקון, זה ליד הבית שלנו.
+825|39:09|בחורף, באיזה אחרי צהריים.
+826|39:12|והיא הלכה לטפס על איזה מתקן של חבלים, ואני נשארתי שם למטה, לרגע הסרתי
+827|39:18|את עיניי ממנה.
+828|39:21|מכאן לשם, תוך שנייה נהיה חושך, ואני לא מוצא אותה, ואני לא רואה אותה, וחושך בפארק,
+829|39:27|ואין תאורה.
+830|39:28|כן.
+831|39:29|וילדה קטנה, ואני לא יודע מה לעשות, ואני מתחיל להתרוצץ בפארק.
+832|39:35|ואני מאבד את זה.
+833|39:36|כאילו, באמת, היא, אתה יודע, היא ילדה קטנטונת, היא כבר יודעת קצת לדבר.
+834|39:41|פתאום איזה משפחה חרדית מגיעה עם הילדה, מביאים
+835|39:46|לאותה.
+836|39:49|זה היה באחת התקופות האלה שהגן מוצף בחרדים.
+837|39:53|ישועה גדולה קמה לי מהעדה החרדית באותו יום.
+838|39:56|בקיץ?
+839|39:57|בחורף זה היה, כי נהיה חושך פתאום בארבע וחצי.

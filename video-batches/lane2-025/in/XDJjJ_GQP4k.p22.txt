@@ -1,0 +1,64 @@
+videoId: XDJjJ_GQP4k
+parte 23 de 27 · traduzir as linhas 880 a 919 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Atualidades, política e Parashá: paralisia facial e Chayei Sarah
+RESUMO: Avri Gilad abre o programa com o rosto paralisado por uma paralisia facial, provocada pelo excesso de chiclete, e diz que escolheu a alegria e seguir a vida normalmente, usando a limitação como instrumento. Em seguida, os dois falam de política: ficam com a ideia de que é preciso agir com o que é possível no momento novo, e debatem a formação de um governo minoritário, os haredim, os árabes e os beduínos. O Rav Gottlieb aplica o ensinamento judaico ao vizinho que "afia a espada à noite" ("kabdehu vachashdehu", honre-o e desconfie dele) e lembra Esav chegando com 400 homens ao encontro de Yaakov: segundo os Sábios, os pensamentos de fraternidade de Yaakov ajudaram a decidir o encontro. Eles comentam a mudança de tom na sociedade haredi diante da candidatura de Leitner, a ameaça do "mundo vindouro e Guehinom" e os rapazes de Gur no parque Yarkon. O repórter Yossi Meir, de Miami, liga a Parashá Chayei Sarah ("betulá ve'ish lo yada", Rivká) à pureza e à anulação (bitul), e traz ensinamentos do Rebe de Lubavitch e a ideia do Midrash de que HaKadosh Baruch Hu quis uma morada nos mundos inferiores. O programa termina com o desejo de Shabat Shalom e a brincadeira "ve'yehi akov lemishor".
+MOMENTOS: 00:26 Paralisia facial: escolher a alegria e seguir a vida normal · 01:48 A causa: vício em chiclete e inflamação do nervo · 06:13 Assistente pessoal de IA e a IA dos escritos de Baal HaSulam · 08:08 Governo minoritário e perigo existencial; agir com o possível · 12:29 Acordo com o setor haredi e serviço nacional · 17:00 O vizinho que afia a espada: kabdehu vachashdehu e Esav · 21:20 Ben Gvir, eleitores árabes e a segurança em Rahat · 22:50 Educação para os beduínos e proibição de rostos cobertos · 31:05 Mudança no mundo haredi após a candidatura de Leitner · 37:26 Rapazes de Gur no parque Yarkon · 43:44 Yossi Meir de Miami: Chayei Sarah, Rivká e a "betulá" · 47:00 Jogar em casa sem se sentir em casa; a morada nos mundos inferiores
+FONTES CITADAS: 07:35 Escritos de Baal HaSulam · 17:34 Kabdehu vachashdehu · 18:03 Bereshit 33:1 · 18:14 Bereshit 33:9 · 18:27 Chazal sobre Esav e Yaakov (Bereshit 33) · 25:50 Mishlei 10:2 · 43:10 Ensinamento do Rebe de Lubavitch · 43:50 Bereshit 24:16 · 48:32 Midrash Tanchuma, Nasso 16 · 51:52 Yeshayahu 40:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+868|41:55|והדוכנים וגם בין בעלי המבקרים לקניות של בגסים
+869|42:01|וכל מיני דברים ואוכל.
+870|42:04|אז כן, אנחנו כזה...
+871|42:07|קראתי שירדו, והם היו מגשמים שלא ירדו 100 שנה, אתה חווית את זה?
+872|42:13|כי אתה נוסע בעולם רק עם מכנסיים קצרים וחולצה וכפכפים.
+873|42:18|כן, אז יש לי כפכפים לכפכפי עור, ויש לי כפכפים למזג אוויר כזה,
+874|42:23|שבאמת באותו יום רציתי ללכת לכפכפי עור, אבל כמובן החלפתי
+875|42:30|לכפכפים שיכולים ללכת בתוך שלוליות, וזה מה שהיה.
+876|42:35|אז גם במיאמי ביט שהיו, כן, הצפות כאלה ש...
+877|42:39|אז כן, אבל המשכנו, אפרופו אברי, ועם העניין הבריאותי להמשיך תנועה, אז גם במזג
+878|42:45|האוויר הזה הייתי בתנועה.
+879|42:47|משהו באנקדוטה, אם לחזור משהו לעניין בריאותי, שזה יחד לכל אחד, הרי מאז חצי סאדאת,
+
+LINHAS A TRADUZIR:
+880|42:53|אין רבי לא טוב וטוב ולא רע, ועור וצד משמשים ביבוב, והאחד יש לו שלמות בריאותית ברוך
+881|42:59|השם, שלמות כלכלית ופער מבחינה משפחתית, אחד יכול להיות לו שלמות משפחתית, שלמות
+882|43:04|בריאותית, שלמות כלכלית, אבל היום לא יהיה פער מבחינה בריאותית, והרבי
+883|43:10|מלובביץ' אומר, לא לערבב את שמחת הנפש עם עצבון הגוף, זה הוראה לכל אחד
+884|43:16|בעצם.
+885|43:17|כל אחד יש לו את העיצבון גוף שלו, הכלכלי או הבריאותי, המשפחתי, והטבע הזה להתערבב עם
+886|43:22|העיצבון, ואז הולכים לפיצויים ולהפרות, להשלמות חום.
+887|43:26|ועוד עניין, יש להקדים שמחה להטבת המוצר.
+888|43:29|בכל אופן, כשהייתי עוד בווגאס, לא אשכח את המשפט המעומקת דליבה של הנהג
+889|43:35|מונית שלקח אותי עם השדה למלון, והוא אמר לי, כשאני התחלתי לדבר איתו, אה, אתה ורג'ן
+890|43:41|וגאס.
+891|43:42|וזה תפס אותי, הוורג'ן וגאס.
+892|43:44|הרב, איך זה קשור ורג'ן לפרשה חיי צרה?
+893|43:48|בתולה ואיש לא ידע.
+894|43:50|או, בדיוק.
+895|43:53|והנה זה קשור לפרשת חיי צרה.
+896|43:55|בתולה על רבקה.
+897|43:57|ומה שעלה בהבנה, שקודם כל ודאי שרבקה הייתה בתולה,
+898|44:03|בגשמיות הייתה בתולה.
+899|44:04|אבל מה שעלה גם היא הייתה בתולה ברוחניות.
+900|44:08|הווה אומר, על פי הלימוד, כדף לבן חלק.
+901|44:12|ההוראה בשבילנו, נגיד, למה השיחה ביניכם היא מקסימה?
+902|44:16|כי למרות הרב של לומד ומלמד שנים ואברי עם המסע
+903|44:22|שהוא עבר ו...
+904|44:23|אבל תבאי כבתוליים.
+905|44:25|ושומעים ליהודי הנודד, ליוסי מאיר כבתוליים, כדף לבן חלק, וזה
+906|44:30|מקסים, כי זה המקום של ההתחדשות.
+907|44:33|אז זה העניין.
+908|44:34|מצד שני, ואז פתאום גיליתי שבמסע הזה, בשליחות הזאת של יהודי הנודד,
+909|44:40|בעצם...
+910|44:42|לא נשארתי בתול.
+911|44:43|אמנם הייתי ורג'ל וגאס, אבל כמו ברגע שהגעתי לווגאס, כבר אני לא ורג'ל
+912|44:49|וגאס.
+913|44:50|והייתי ורג'ל מסי, ושראיתי את מסי כבר אני לא ורג'ל מסי, והשבוע גם הייתי במשחק NBA
+914|44:56|ערב.
+915|44:57|פעם ראשונה בחיים הייתי במשחק כדורסל, אז אני כבר לא ורג'ל כדורסל.
+916|45:02|וואו, תומתך מחוללת על בסיס יומי, אדוני.
+917|45:07|זה בדיוק העניין, זה בדיוק העניין, בחסידות מוסבר על קריאת קרום הבתולים, שזה
+918|45:12|מחסום.
+919|45:14|מה אתה רוצה שיהיה כתוב על הקבר שלך בסוף החיים?

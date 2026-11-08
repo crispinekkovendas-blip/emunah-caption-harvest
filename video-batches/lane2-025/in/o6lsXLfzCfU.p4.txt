@@ -1,0 +1,64 @@
+videoId: o6lsXLfzCfU
+parte 5 de 19 · traduzir as linhas 160 a 199 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: a komá de cada mundo
+RESUMO: O rabino retoma o capítulo 4 da parte 3 do Talmud Eser HaSefirot e pede que o aluno não se perca nos detalhes e lembre o objetivo do capítulo: a komá (nível de luz) do zivug define a qualidade das dez sefirot de cada mundo. Ele relê os títulos das letras A a C, que tratam de Atzilut, onde todas as sefirot estão na komá de Chochmá, e de Briá, onde estão na komá de Biná. Em seguida lê o Ari e o Or Pnimi de Baal HaSulam sobre Keter e Chochmá ficarem "guenuzim" (ocultos) em Biná, com o exemplo da luz oculta para os justos. Explica a diferença entre "janela", ou passagem, e "massach satum" (tela fechada): o massach não limita o que está acima dele, só o que está abaixo. Comenta a expressão do Zohar "Imá Ilaá mekanená bekursiya" (o ninho como algo não permanente), o movimento "minah uvah" e as dez sefirot de Yetzirá e Assiyá. Termina com a correspondência entre os quatro mundos e as letras de HaVaYaH (Yud, Hei, Vav, Hei), com os milluim, e com a regra de que cada mundo recebe apenas da luz do massach que está acima dele.
+MOMENTOS: 00:17 Não perder a visão geral do capítulo 4 · 01:03 Títulos das letras A a C: komá de Atzilut e Briá · 04:47 Letra D: a luz da Biná e o massach satum · 10:44 Or Pnimi: Keter e Chochmá guenuzim em Biná · 12:49 O que significa "guenuz": a luz oculta · 16:05 Debate sobre o significado de cada komá · 18:40 "Imá Ilaá mekanená bekursiya": o zivug não permanente · 23:32 Letra Hei: a Biná de Atzilut e a Biná de Briá · 26:02 Letra Vav: Zeir Anpin de Briá e a regra do massach · 36:04 Minah uvah: as dez sefirot de Yetzirá e Assiyá · 42:24 Letra Chet: os mundos e as letras de HaVaYaH · 48:09 Letra Tet: a regra geral e fecho do capítulo · 52:11 Pergunta final: Briá versus Biná
+FONTES CITADAS: 01:03 Talmud Eser HaSefirot, parte 3, cap. 4 (título geral) · 01:59 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Alef · 02:41 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Bet · 03:51 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Guimel · 05:21 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Dalet · 06:06 Zohar, Imá Ilaá mekanená bekursiya · 10:44 Baal HaSulam, Or Pnimi no Talmud Eser HaSefirot III, cap. 4 · 13:01 Chagigá 12a (a luz oculta para os justos) · 18:46 Baal HaSulam, Or Pnimi, sobre o termo kinun (ninho) · 18:40 Zohar, Imá Ilaá mekanená bekursiya · 21:58 Devarim 6:4 · 24:01 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Hei · 26:19 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Vav · 27:29 Baal HaSulam, Or Pnimi, sobre a Biná de Atzilut · 35:47 Baal HaSulam, Or Pnimi, sobre minah uvah · 38:44 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Ayin · 40:27 Baal HaSulam, Or Pnimi, sobre as seis sefirot de Zeir Anpin · 41:07 Baal HaSulam, Or Pnimi, sobre Imá Tataá · 43:10 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Chet · 43:55 Mishná Yomá 6:2 (o Kohen Gadol e o Nome no Yom Kipur) · 44:07 Baal HaSulam, Or Pnimi, sobre HaVaYaH e as dez sefirot · 45:47 Baal HaSulam, Or Pnimi, sobre as dez sefirot de cada mundo · 48:49 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Tet · 50:14 Baal HaSulam, Or Pnimi, sobre a regra geral
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+148|11:47|כי המסך סותם עליהם כנ"ל, מטעם היותו
+149|11:54|מלמעלה מהבריאה.
+150|11:56|מה זה מלמעלה מהבריאה?
+151|11:58|המסך נמצא הרי בין אצילות לבריאה.
+152|12:03|זה נחשב למעלה מהבריאה, והוא כבר, כלפי מעליו
+153|12:08|לאצילות, הוא לא משפיע.
+154|12:11|הוא לא משנה שם כלום.
+155|12:13|מתחתיו יש כבר העוביות פועלת, ולכן הוא נעשה מסך סתום.
+156|12:19|וזאת שאמר הרב שנעשה מסך מבדיל בין הכתר והחוכמה, אל הבריאה.
+157|12:25|וזכור, אשר הכתר נקרא אינסוף כנ"ל.
+158|12:33|כן.
+159|12:39|אתה נשמע קטוע עודד?
+
+LINHAS A TRADUZIR:
+160|12:43|טוב, שאלתי, אסביר מה זה גנוזים.
+161|12:49|מה זה גנוזים?
+162|12:52|כן.
+163|12:53|זה אומר, מה זה אורגנוז?
+164|12:56|מאיפה אנחנו מקימים את המושג הזה?
+165|12:58|הרי בתחילת הבריאה...
+166|13:01|ראה הקדוש ברוך הוא את האור וראה את הרשעים שעתידים להשתמש באור הנפלא שלו
+167|13:07|אז עמד וגנז את האור, האור הגנוז לצדיקים לעתיד לבוא האם האור
+168|13:13|באמת נעלם?
+169|13:15|הוא לא נעלם הוא פשוט לא, אין אפשרות לגלות אותו כרגע זה נקרא גנוז
+170|13:21|האור של כתר והאור של חוכמה נמצא שם אבל הוא גנוז
+171|13:27|כרגע בקומת הבינה היא מסתירה אותו, היא לא מגלה אותו, אין
+172|13:33|אפשרות בעולם הבריאה לגלות את קומת כתר וקומת חוכמה, זה נקרא שהם גנוזים
+173|13:39|בבינה.
+174|13:41|והוא בכוונה מדגיש את זה גם בגלל שזה ככה וגם בגלל שאנחנו לא נחשוב לרגע
+175|13:47|שאין שם עשר ספירות, יש שם עשר ספירות, הם כולם בקומת בינה.
+176|13:57|כן, אנחנו אומרים, אנחנו מתקדמים משהו, כאילו, סטאר,
+177|14:01|רצפן.
+178|14:09|קשה לשמוע אותך, עודד?
+179|14:17|כן, עודד, אולי תכתוב את זה, כי קשה, היום אתה נשמע מקוטע.
+180|14:22|כן, מישהו עוד רוצה לשאול שאלה?
+181|14:25|כן, ייתכן שאפשר לומר כשאור הכתר והחוכמה גנוזים בבינה כן
+182|14:32|אנחנו רואים את אור הכתר והחוכמה בבחינת בינה הווי אומר מה האופי של בינה, מה
+183|14:37|תכונת הבינה דרכה אנחנו רואים דרך התכונה הזאת אנחנו רואים את האור העליון כי זה כאילו
+184|14:43|דרך המשקפת דרכה אנחנו רואים את האור גנוז זה לא שאנחנו רואים בחוכמות שהוא לכתחילה כמו
+185|14:49|שהוא היה במקור אלא יש עכשיו בינה שדרכה עוברת פה לעולם אפשר לומר.
+186|14:55|מה זה דרכה עוברת פה לראש?
+187|14:57|אחרי זה יש את התפקרת.
+188|14:59|אפשר לומר.
+189|15:01|אוקיי.
+190|15:02|אז יש בחינה מסוימת שכל פעם יורדת הבחינה שבה אפשר לראות.
+191|15:06|מה שהוא אומר לנו זה שהאור הזה, כשהוא אומר כתר וחוכמה גנוזים בבינה, הוא אומר שאין
+192|15:12|אפשרות לגלות בעולם הבריאה את אור הכתר שהיה באק, שישנו באק, ואת
+193|15:18|אור החוכמה שישנו באצילות.
+194|15:22|זה מה שהוא אומר בפשטות כן מה זה אומר
+195|15:28|מה זה אומר מה המשמעות של המושג הזה קומת
+196|15:35|קומת בינה קומת חוכמה כאילו מה זה אומר על העולם עצמו
+197|15:41|שהוא מואר באור בינה כן שהוא מואר באור חוכמה בדיוק.
+198|15:46|ומה זה אומר?
+199|15:47|אור בינה זה אור...

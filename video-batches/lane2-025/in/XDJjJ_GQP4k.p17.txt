@@ -1,0 +1,64 @@
+videoId: XDJjJ_GQP4k
+parte 18 de 27 · traduzir as linhas 680 a 719 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Atualidades, política e Parashá: paralisia facial e Chayei Sarah
+RESUMO: Avri Gilad abre o programa com o rosto paralisado por uma paralisia facial, provocada pelo excesso de chiclete, e diz que escolheu a alegria e seguir a vida normalmente, usando a limitação como instrumento. Em seguida, os dois falam de política: ficam com a ideia de que é preciso agir com o que é possível no momento novo, e debatem a formação de um governo minoritário, os haredim, os árabes e os beduínos. O Rav Gottlieb aplica o ensinamento judaico ao vizinho que "afia a espada à noite" ("kabdehu vachashdehu", honre-o e desconfie dele) e lembra Esav chegando com 400 homens ao encontro de Yaakov: segundo os Sábios, os pensamentos de fraternidade de Yaakov ajudaram a decidir o encontro. Eles comentam a mudança de tom na sociedade haredi diante da candidatura de Leitner, a ameaça do "mundo vindouro e Guehinom" e os rapazes de Gur no parque Yarkon. O repórter Yossi Meir, de Miami, liga a Parashá Chayei Sarah ("betulá ve'ish lo yada", Rivká) à pureza e à anulação (bitul), e traz ensinamentos do Rebe de Lubavitch e a ideia do Midrash de que HaKadosh Baruch Hu quis uma morada nos mundos inferiores. O programa termina com o desejo de Shabat Shalom e a brincadeira "ve'yehi akov lemishor".
+MOMENTOS: 00:26 Paralisia facial: escolher a alegria e seguir a vida normal · 01:48 A causa: vício em chiclete e inflamação do nervo · 06:13 Assistente pessoal de IA e a IA dos escritos de Baal HaSulam · 08:08 Governo minoritário e perigo existencial; agir com o possível · 12:29 Acordo com o setor haredi e serviço nacional · 17:00 O vizinho que afia a espada: kabdehu vachashdehu e Esav · 21:20 Ben Gvir, eleitores árabes e a segurança em Rahat · 22:50 Educação para os beduínos e proibição de rostos cobertos · 31:05 Mudança no mundo haredi após a candidatura de Leitner · 37:26 Rapazes de Gur no parque Yarkon · 43:44 Yossi Meir de Miami: Chayei Sarah, Rivká e a "betulá" · 47:00 Jogar em casa sem se sentir em casa; a morada nos mundos inferiores
+FONTES CITADAS: 07:35 Escritos de Baal HaSulam · 17:34 Kabdehu vachashdehu · 18:03 Bereshit 33:1 · 18:14 Bereshit 33:9 · 18:27 Chazal sobre Esav e Yaakov (Bereshit 33) · 25:50 Mishlei 10:2 · 43:10 Ensinamento do Rebe de Lubavitch · 43:50 Bereshit 24:16 · 48:32 Midrash Tanchuma, Nasso 16 · 51:52 Yeshayahu 40:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+668|30:33|אבל להכניס אותו לתוך הכנסת?
+669|30:37|זאת אומרת, אתה מנרמל את התופעה.
+670|30:39|כן.
+671|30:41|אתה מחבר אותה לתוך ספר החוקים של מדינת ישראל.
+672|30:45|לא, זה לא טוב.
+673|30:49|אז סוכני הכאוס ממשיכים לעבוד.
+674|30:52|ואחר כך מתלוננים על זה
+675|30:58|שמהצד השני יש צעדים שלא היו באים בחשבון.
+676|31:04|כן.
+677|31:05|וכמו שאמרתי לך מקודם, אני חושב שבחברה החרדית...
+678|31:10|דברים כן משתפרים.
+679|31:13|מה, מה, מה משתפר?
+
+LINHAS A TRADUZIR:
+680|31:15|היה ראיון למשל עם היושב ראש של הציבור החרדי.
+681|31:20|לייטמן.
+682|31:21|לייטנר.
+683|31:22|לייטנר.
+684|31:22|כן.
+685|31:23|טוב, הוא לא הצליח וכולי, אבל הוא אומר...
+686|31:26|לא, לא, לא.
+687|31:27|שנייה, שנייה, שנייה, שנייה.
+688|31:28|הוא לא לא הצליח.
+689|31:29|הוא נכשל בענק.
+690|31:31|כן, אני יודע.
+691|31:32|אתה הצבעת לו, כן?
+692|31:33|כן.
+693|31:34|אתה ועוד שלושה אנשים.
+694|31:36|אני לא יודע מה.
+695|31:38|יש לו, הוא קיבל משהו כמו עשרת אלפים קולות.
+696|31:40|כן, עשרת אלפים קולות הוא קיבל.
+697|31:42|עכשיו, ואני חושב שבגלל שהיה פחד מאוד גדול בציבור
+698|31:48|החרדי מעריקים, עריקים לכיוון שלו.
+699|31:53|אז קרה פה משהו שאף פעם לא קרה, זאת אומרת, מה שנקרא אצלם גדול הדור,
+700|31:59|הזמין ביזנסמן חרדי, איש בני ברק, חרדי, איש עסקים,
+701|32:06|לדבר איתו.
+702|32:08|והוא אמר להם, תשמע, אנחנו רוצים אתכם איתנו.
+703|32:12|אתם חלק מאיתנו.
+704|32:14|אז זה דיבורים חדשים, כי עד עכשיו, אז בכל המקומות, כאילו,
+705|32:20|אמרו, זה זבאלי, זה כל הבעלי בתים, אנשים העובדים, אנשי עסקים.
+706|32:27|ועכשיו הוא אומר, לא, אנחנו רוצים אתכם איתנו, אנחנו רוצים לסדר לכם מסגרות אצלנו.
+707|32:32|זה דיבורים חדשים, כל הדבר הזה, וזה טוב.
+708|32:38|זה טוב מאוד.
+709|32:48|זה שורף?
+710|32:49|זה לא שורף.
+711|32:51|דבר מוזר הוא, אם נכנסים לדבר הזה, כיוון שהעין שלי משותקת, אז אני
+712|32:57|יכול לגעת עם האצבעות בתוך העין בלי שתהיה הרפלקס הזה של הסגירה.
+713|33:03|כן.
+714|33:04|זה מוזר.
+715|33:04|אני יכול לעשות את זה מסאז' בעישון.
+716|33:07|כן, זה
+717|33:13|כמו כל הרדמה, שהמקום נהיה לא רגיש.
+718|33:17|התחושה בגדול היא כמו אחרי רופא שיניים, שההרדמה לא משתחררת.
+719|33:20|עדיין.

@@ -1,0 +1,64 @@
+videoId: o6lsXLfzCfU
+parte 10 de 19 · traduzir as linhas 360 a 399 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot III: a komá de cada mundo
+RESUMO: O rabino retoma o capítulo 4 da parte 3 do Talmud Eser HaSefirot e pede que o aluno não se perca nos detalhes e lembre o objetivo do capítulo: a komá (nível de luz) do zivug define a qualidade das dez sefirot de cada mundo. Ele relê os títulos das letras A a C, que tratam de Atzilut, onde todas as sefirot estão na komá de Chochmá, e de Briá, onde estão na komá de Biná. Em seguida lê o Ari e o Or Pnimi de Baal HaSulam sobre Keter e Chochmá ficarem "guenuzim" (ocultos) em Biná, com o exemplo da luz oculta para os justos. Explica a diferença entre "janela", ou passagem, e "massach satum" (tela fechada): o massach não limita o que está acima dele, só o que está abaixo. Comenta a expressão do Zohar "Imá Ilaá mekanená bekursiya" (o ninho como algo não permanente), o movimento "minah uvah" e as dez sefirot de Yetzirá e Assiyá. Termina com a correspondência entre os quatro mundos e as letras de HaVaYaH (Yud, Hei, Vav, Hei), com os milluim, e com a regra de que cada mundo recebe apenas da luz do massach que está acima dele.
+MOMENTOS: 00:17 Não perder a visão geral do capítulo 4 · 01:03 Títulos das letras A a C: komá de Atzilut e Briá · 04:47 Letra D: a luz da Biná e o massach satum · 10:44 Or Pnimi: Keter e Chochmá guenuzim em Biná · 12:49 O que significa "guenuz": a luz oculta · 16:05 Debate sobre o significado de cada komá · 18:40 "Imá Ilaá mekanená bekursiya": o zivug não permanente · 23:32 Letra Hei: a Biná de Atzilut e a Biná de Briá · 26:02 Letra Vav: Zeir Anpin de Briá e a regra do massach · 36:04 Minah uvah: as dez sefirot de Yetzirá e Assiyá · 42:24 Letra Chet: os mundos e as letras de HaVaYaH · 48:09 Letra Tet: a regra geral e fecho do capítulo · 52:11 Pergunta final: Briá versus Biná
+FONTES CITADAS: 01:03 Talmud Eser HaSefirot, parte 3, cap. 4 (título geral) · 01:59 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Alef · 02:41 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Bet · 03:51 Talmud Eser HaSefirot, parte 3, cap. 4, título de Ot Guimel · 05:21 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Dalet · 06:06 Zohar, Imá Ilaá mekanená bekursiya · 10:44 Baal HaSulam, Or Pnimi no Talmud Eser HaSefirot III, cap. 4 · 13:01 Chagigá 12a (a luz oculta para os justos) · 18:46 Baal HaSulam, Or Pnimi, sobre o termo kinun (ninho) · 18:40 Zohar, Imá Ilaá mekanená bekursiya · 21:58 Devarim 6:4 · 24:01 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Hei · 26:19 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Vav · 27:29 Baal HaSulam, Or Pnimi, sobre a Biná de Atzilut · 35:47 Baal HaSulam, Or Pnimi, sobre minah uvah · 38:44 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Ayin · 40:27 Baal HaSulam, Or Pnimi, sobre as seis sefirot de Zeir Anpin · 41:07 Baal HaSulam, Or Pnimi, sobre Imá Tataá · 43:10 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Chet · 43:55 Mishná Yomá 6:2 (o Kohen Gadol e o Nome no Yom Kipur) · 44:07 Baal HaSulam, Or Pnimi, sobre HaVaYaH e as dez sefirot · 45:47 Baal HaSulam, Or Pnimi, sobre as dez sefirot de cada mundo · 48:49 Ari, citado em Talmud Eser HaSefirot III, cap. 4, Ot Tet · 50:14 Baal HaSulam, Or Pnimi, sobre a regra geral
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|25:09|אה, אבל כלפי בריאה, יש שם מסך סתום, אור החוכמה לא עובר, איזה אור
+349|25:15|עובר לבריאה?
+350|25:17|או רבינה.
+351|25:18|בסדר?
+352|25:22|בואו נראה את זה ב...
+353|25:26|לא, אין לו אור פנימי על זה, על ה', אז אנחנו ממשיכים קדימה.
+354|25:33|אבל ראיתם פה בלשון האריזל גם את עניין...
+355|25:37|דרך מעבר, שהאור עובר דרך מעבר, ומצד שני, את מסך ומלבוש
+356|25:43|גמור.
+357|25:45|מעל המסך, כל מה שיש שם, מקבלות הספירות בדרך מעבר,
+358|25:51|מתחת למסך, מקבלות בסיתום, רק את ההערה
+359|25:57|שמגיעה לאותו עולם שמתחת למסך.
+
+LINHAS A TRADUZIR:
+360|26:02|אות ו', כותרת, זה רן פינדבריה,
+361|26:08|מעביר למלכות את אור
+362|26:10|בינה.
+363|26:15|זרענפין דבריאה מעביר למלכות את אור בינה.
+364|26:19|ודע, כי גם הבריאה, אף על פי שחזר האור להתלבש
+365|26:25|בזרענפין של הבריאה, מה פירוש?
+366|26:31|הזדכך שם המסך מיוביות ג' ל...
+367|26:34|מיוביות ב' לאלף.
+368|26:37|חזר האור להתלבש בזרנפין של בריאה.
+369|26:40|למה?
+370|26:41|אוביות בחינה א' מעלה אור הזרנפין.
+371|26:45|ואין זרנפין מפסיק לה.
+372|26:49|רק דרך מעבר לחוד.
+373|26:52|כלומר, כשהוא צריך להעביר בבריאה את האור זרנפין למלכות, זה
+374|26:58|נקרא דרך מעבר.
+375|27:00|דוגמה, מה שנאמר באצילות.
+376|27:04|וכן הוא בפרטות יצירה.
+377|27:06|מינהו בא, וכן בפרטות עשייה, מינהו בא.
+378|27:13|אותו המהלך קורה בכל העולמות.
+379|27:17|וגם פה אין לו אור פנימי על זה.
+380|27:20|יש לו?
+381|27:20|יש לו.
+382|27:23|אות נון, אור פנימי.
+383|27:29|זה בעמוד הקודם.
+384|27:32|כמו שנתבהר לעיל בבינה דאצילות, שהזיווג הנעשה
+385|27:38|במסך דבחינה ב' לצורך בריאה
+386|27:44|ואור חוזר עולה ומלביש עד בינה ועם כל זה
+387|27:50|לא נעשה זה למפסיק על אור חוכמה כלפי זרען פינדי
+388|27:56|אצילות הנמצא לאחר הבינה היא נכון עכשיו אתה אומר לי יש זיווג על בינה
+389|28:02|אז אני אומר, רגע, אבל זרנפין ומלכות נמצא אחרי, למטה מבינה, אז זה כן משפיע עליהם?
+390|28:08|לא.
+391|28:10|הוא אומר, אין זה, לא נעשה זה למפסיק על אור החוכמה שבכל האצילות, כלפי
+392|28:16|זרנפין דאצילות הנמצא לאחר הבינה ההיא.
+393|28:20|ונתבהר, שהוא מטעם שהמסך המשמש ממטה
+394|28:26|למעלה, אינו מוליך עם האור החוזר העולה על ידו
+395|28:33|שום גבול חדש ואוויות כלל המקבלים ממנו.
+396|28:39|ואף על פי שגם זרענפין דאצילות מקבל מכוח אור חוזר זה,
+397|28:46|מכל מקום, אינו מתמעט בסיבתו שלא יוכל להמשיך אור
+398|28:52|החוכמה.
+399|28:55|זאת אומרת האור חוזר הזה כן עושה פה איזושהי הלבשה

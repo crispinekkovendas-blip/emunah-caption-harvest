@@ -1,0 +1,64 @@
+videoId: XDJjJ_GQP4k
+parte 4 de 27 · traduzir as linhas 120 a 159 (40 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Atualidades, política e Parashá: paralisia facial e Chayei Sarah
+RESUMO: Avri Gilad abre o programa com o rosto paralisado por uma paralisia facial, provocada pelo excesso de chiclete, e diz que escolheu a alegria e seguir a vida normalmente, usando a limitação como instrumento. Em seguida, os dois falam de política: ficam com a ideia de que é preciso agir com o que é possível no momento novo, e debatem a formação de um governo minoritário, os haredim, os árabes e os beduínos. O Rav Gottlieb aplica o ensinamento judaico ao vizinho que "afia a espada à noite" ("kabdehu vachashdehu", honre-o e desconfie dele) e lembra Esav chegando com 400 homens ao encontro de Yaakov: segundo os Sábios, os pensamentos de fraternidade de Yaakov ajudaram a decidir o encontro. Eles comentam a mudança de tom na sociedade haredi diante da candidatura de Leitner, a ameaça do "mundo vindouro e Guehinom" e os rapazes de Gur no parque Yarkon. O repórter Yossi Meir, de Miami, liga a Parashá Chayei Sarah ("betulá ve'ish lo yada", Rivká) à pureza e à anulação (bitul), e traz ensinamentos do Rebe de Lubavitch e a ideia do Midrash de que HaKadosh Baruch Hu quis uma morada nos mundos inferiores. O programa termina com o desejo de Shabat Shalom e a brincadeira "ve'yehi akov lemishor".
+MOMENTOS: 00:26 Paralisia facial: escolher a alegria e seguir a vida normal · 01:48 A causa: vício em chiclete e inflamação do nervo · 06:13 Assistente pessoal de IA e a IA dos escritos de Baal HaSulam · 08:08 Governo minoritário e perigo existencial; agir com o possível · 12:29 Acordo com o setor haredi e serviço nacional · 17:00 O vizinho que afia a espada: kabdehu vachashdehu e Esav · 21:20 Ben Gvir, eleitores árabes e a segurança em Rahat · 22:50 Educação para os beduínos e proibição de rostos cobertos · 31:05 Mudança no mundo haredi após a candidatura de Leitner · 37:26 Rapazes de Gur no parque Yarkon · 43:44 Yossi Meir de Miami: Chayei Sarah, Rivká e a "betulá" · 47:00 Jogar em casa sem se sentir em casa; a morada nos mundos inferiores
+FONTES CITADAS: 07:35 Escritos de Baal HaSulam · 17:34 Kabdehu vachashdehu · 18:03 Bereshit 33:1 · 18:14 Bereshit 33:9 · 18:27 Chazal sobre Esav e Yaakov (Bereshit 33) · 25:50 Mishlei 10:2 · 43:10 Ensinamento do Rebe de Lubavitch · 43:50 Bereshit 24:16 · 48:32 Midrash Tanchuma, Nasso 16 · 51:52 Yeshayahu 40:4
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|05:19|היום ארוחת הבוקר.
+109|05:20|כן.
+110|05:21|בדרך כלל אני אוכל יוגורט עם כמה רוחמניות, לוקח לי שתי דקות נגיד.
+111|05:25|כן.
+112|05:25|היום לקח לי רבע שעה.
+113|05:26|כן.
+114|05:27|אחרי כל כף לנקות את כל הסלון.
+115|05:36|אולי תנסה לעשות את זה עם קאש.
+116|05:39|לא, אני לא יכול, אי אפשר.
+117|05:40|אי אפשר.
+118|05:40|אי אפשר לייצר כוח יניקה, כי חצי פה לא משנה.
+119|05:45|אבל חצי יניקה לא יכול להיות.
+
+LINHAS A TRADUZIR:
+120|05:47|אין חצי יניקה.
+121|05:48|אין.
+122|05:49|אין חצי הריון ואין חצי יניקה.
+123|05:50|הבנתי.
+124|05:51|זה המצב.
+125|05:53|וגם אין חצי נשיקה, תראה מה קורה לי כשאני עושה תנועה של נשיקה.
+126|05:59|ככה.
+127|06:00|כן.
+128|06:00|אתה רוצה להתנשק עם מישהו שיותר חכום?
+129|06:06|אוקיי, עד כאן ענייניי.
+130|06:08|יש לנו דברים יותר חשובים לדבר עליהם.
+131|06:13|אגב...
+132|06:14|מה הכי חשוב לדבר עליך היום?
+133|06:15|אני אגיד לך משהו.
+134|06:16|כן.
+135|06:17|אני כתבתי איזה מייל שניהל לי שיתוק בפנים.
+136|06:23|כן.
+137|06:24|פתאום אני מקבל הודעה מהעוזר האישי ב-AI, האינסטינקט.
+138|06:27|אתה נחשפת לדבר הזה כבר?
+139|06:29|לא.
+140|06:30|זה בוואטסאפ, זה מין סוכן אישי כזה, והוא, תראה מה, הוא קורא כל
+141|06:36|הזמן את כל מה שאתה עושה, והוא אומר, אה, שכחת פגישה, שכחת לשלם, שכחת זה, תראה מה הוא אומר
+142|06:42|לי.
+143|06:42|אברי, קראתי במייל שכתבת שיש לך שיתוק בפנים ושאתה לא יכול לקרוא.
+144|06:47|אני דואג לך.
+145|06:48|האם כבר נבדקת רפואית?
+146|06:50|אם זה חדש ולא נבדקת, אל תחכה לבוקר.
+147|06:53|שיתוק פתאומי בפנים או שינוי בראייה עלולים להיות סימנים לשבץ.
+148|06:57|התקשר עכשיו לשירותי החירום או בקש ממישהו לידך להזמין אמבולנס.
+149|07:01|אל תנהג בעצמך, אפשר לענות לי בהודעה קולית.
+150|07:05|חזק מאוד.
+151|07:06|רואי, אישור ניהול החשבון שמצא...
+152|07:08|אה, אוקיי, זה משהו אחר.
+153|07:09|חזק מאוד, אבל זה עובד אוטומטית על הכל?
+154|07:14|אוטומטית, כן.
+155|07:15|אני עוד לא קיבלתי כזאת, תודה.
+156|07:17|כי עוד לא קיבלת...
+157|07:19|עוד לא נכנסת לזה.
+158|07:20|כי עכשיו זה רק בשלב ההטמעה.
+159|07:22|אם אתה רוצה, אני אצרף אותך לזה.
