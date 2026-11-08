@@ -1,0 +1,48 @@
+400	The sarida placed over the mouth of the oven, sealed with a tight-fitting cover. A sarida is	A sarida colocada sobre a boca do forno, selada com tampa firme. Sarida é
+401	a clay grating like a net, which does not receive impurity. Placed over the mouth of the clay oven	uma grade de barro como uma rede, que não recebe impureza. Colocada sobre a boca do forno de barro
+402	and plugging it, sealed with a tight-fitting cover, if impurity	e tapando-a, selada com tampa firme, se houver impureza
+403	is beneath it or on top of it (and some read: beneath it or on its back),	debaixo dela ou sobre ela (e alguns leem: debaixo dela ou atrás dela),
+404	everything is impure,	tudo é impuro,
+405	even what is under the excess, opposite the airspace of the oven,	inclusive o que está sob o excedente, defronte do espaço aéreo do forno,
+406	but what is opposite the sarida, the airspace of the oven, is pure.	mas o que está defronte da sarida, o espaço aéreo do forno, é puro.
+407	Why?	Por quê?
+400	Tzion bar Yosef ben Chanina, Shaul ben Fibi, Roaz Baruch ben	Tsion bar Yosef ben Chanina, Shaul ben Fibi, Roaz Baruch ben
+401	Chaya, Chalil ben Chava,	Chaya, Chalil ben Chava,
+402	Yafa bat Simcha, Caroline bat Susan	Yafa bat Simcha, Caroline bat Susan
+403	Yisrael ben Geula and Yosef ben Mori Meir and Yosef	Yisrael ben Geula e Yosef ben Mori Meir e Yosef
+404	ben	ben
+405	Mori Meir, Yisrael ben Chava, Aharon ben Rivka	Mori Meir, Yisrael ben Chava, Aharon ben Rivka
+406	ben Tzion ben Sarah	ben Tsion ben Sará
+407	Dani?	Dani?
+408	ben Arima.	ben Arima.
+409	Avidya ben Hasson.	Avidya ben Hasson.
+410	Avraham ben Moshe.	Avraham ben Moshe.
+411	Avraham ben Moshe.	Avraham ben Moshe.
+412	Perachya Betzlima.	Perachya Betzlima.
+413	Derech bat Batya.	Derech bat Batya.
+414	Mishnah 2, Ohalot chapter 12, Mishnah 2	Mishná 2, Ohalot capítulo 12, Mishná 2
+415	Thank you very much.	Muito obrigado.
+416	Who is throwing little candies?	Quem está jogando docinhos?
+417	Tell me what to do, you bring it like a person.	Diga-me o que fazer, traga como se fosse uma pessoa.
+418	Does this have kashrut?	Isso tem kashrut?
+419	No.	Não.
+420	This has kashrut too.	Isto também tem kashrut.
+421	Whose is this?	De quem é isto?
+422	Is this kosher?	Isto é kasher?
+423	Huh?	Hã?
+424	Only this one, put this.	Só este, ponha este.
+425	Take, take a sample.	Pegue, pegue uma amostra.
+426	Show him one like this, tell him to bring one like this.	Mostre a ele um assim, diga para trazer um assim.
+427	Take, give her this, give it to her.	Pegue, dê isto a ela, dê.
+428	Thank you very much.	Muito obrigado.
+429	No, listen, wait, we took one package.	Não, escute, espere, pegamos um pacote.
+430	It had a hechsher.	Tinha um hechsher.
+431	Here, Mishnayot.	Aqui, Mishnayot.
+432	This one brought it.	Este trouxe.
+433	A sarida placed over the mouth of the oven, sealed with a tight-fitting cover. A sarida is a grating	Uma sarida colocada sobre a boca do forno, selada com tampa firme. Sarida é uma grade
+434	of clay like a net, which does not receive impurity. Placed over the mouth of a clay oven	de barro como uma rede, que não recebe impureza. Colocada sobre a boca de um forno de barro
+435	and plugging it, sealed with a tight-fitting cover, if impurity	e tapando-o, selada com tampa firme, se houver impureza
+436	is beneath it or on top of it (and some read: beneath it or behind it),	debaixo dela ou sobre ela (e alguns leem: debaixo dela ou atrás dela),
+437	everything is impure, even what is under the excess, opposite the airspace of the oven,	tudo é impuro, inclusive o que está sob o excedente, defronte do espaço aéreo do forno,
+438	but what is opposite the sarida, the airspace of the oven, is pure.	mas o que está defronte da sarida, o espaço aéreo do forno, é puro.
+439	Why?	Por quê?
