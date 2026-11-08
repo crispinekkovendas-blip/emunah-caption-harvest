@@ -1,0 +1,144 @@
+videoId: RNO5-NEizyw
+parte 8 de 9 · traduzir as linhas 840 a 959 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zohar Bo: a doe e a meia-noite; TES parte 13
+RESUMO: O rabino lê o Zohar de Parashat Bo com o comentário de Ba'al HaSulam: Rabi Chiya diz que é exatamente meia-noite e eles veem uma doe, que é a Maljut/Shechiná clamando por causa dos dinim da esquerda. Ele explica a divisão da noite no ponto do peito (chazeh), que vem do tzimtzum bet, e o chamado "despertem, levantem" como a obra da linha do meio entre direita e esquerda. Cita Tehilim 29:9, "Kol HaShem yecholel ayalot", com Ibn Ezra, Malbim e Rashi, e liga "yecholel" a medo, dores de parto e dança. Passa ao Zohar de Vayigash: David não dormia além da meia-noite porque o sono é um sexagésimo da morte, e Ba'al HaSulam explica sono e despertar pela linha esquerda e pelo masach de manulá no chazeh. Indica também o ensaio Ayelet HaShachar em Pinchas. Na segunda parte, estuda o Talmud Eser HaSefirot, parte 13, "tochnot mann latzadikim": por que são necessárias duas ações (Abu Tzedek e Bet Bei Duchrin), como sobem apenas vasos de entrega incluídos nos de recepção e como Atik opera o zivug para Arich Anpin. No fim, discute-se uma proposta de "mesa redonda" com dez participantes, com Avot 1:6 e a visão de Ba'al HaSulam sobre a maioria.
+MOMENTOS: 08:55 Início do Zohar Bo: Rabi Chiya e a meia-noite · 09:54 Ponto do peito, tzimtzum bet e divisão da noite · 12:02 A doe é a Maljut/Shechiná que clama · 14:33 O arauto: "despertem, levantem" e as duas linhas · 26:07 Kol HaShem yecholel ayalot e os comentaristas · 36:48 Uvehechalo kulo omer kavod: "kulo" e Yesod · 37:43 Zohar Vayigash: David e o sono como 1/60 da morte · 49:23 É preciso levantar antes da meia-noite · 57:45 Ayelet HaShachar em Pinchas · 1:00:52 TES parte 13: tochnot mann latzadikim · 1:09:28 Por que duas ações: Abu Tzedek e Bet Bei Duchrin · 1:28:47 Atik, Arich Anpin e o zivug sobre Yesod · 1:38:29 Proposta de mesa redonda
+FONTES CITADAS: 09:03 Zohar, Parashat Bo (Ohr HaZohar, ot 99) · 09:38 Zohar, Parashat Bo · 12:35 Ba'al HaSulam, Ohr HaZohar sobre Zohar Bo · 13:45 Zohar, Parashat Bo · 14:33 Zohar, Parashat Bo (ot 98) · 16:53 Zohar, Parashat Bo · 17:53 Tehilim 29:9 · 29:13 Ibn Ezra em Tehilim 29:9 · 29:39 Malbim em Tehilim 29:9 · 29:52 Rashi em Tehilim 29:9 · 37:49 Zohar, Parashat Vayigash (Ohr HaZohar) · 38:05 Berachot 57b · 39:37 Ba'al HaSulam, Ohr HaZohar sobre Zohar Vayigash · 41:42 Tehilim 5:5 · 45:57 Zohar, Parashat Vayigash · 46:30 Zohar, Parashat Vayigash · 57:45 Zohar, Parashat Pinchas, Ayelet HaShachar (Ohr HaZohar, ots 691-702) · 1:00:10 Chagigah 12b · 1:01:04 Ba'al HaSulam, Talmud Eser HaSefirot, parte 13 (p. 144) · 1:11:05 Ba'al HaSulam, Talmud Eser HaSefirot, parte 13, Histaklut Penimit · 1:13:08 Bamidbar 11:8 · 1:16:53 Ba'al HaSulam, Talmud Eser HaSefirot, parte 13 · 1:20:18 Ba'al HaSulam, Talmud Eser HaSefirot, parte 13, Histaklut Penimit · 1:21:26 Ba'al HaSulam, Talmud Eser HaSefirot, parte 2, perguntas e respostas · 1:28:47 Ba'al HaSulam, Talmud Eser HaSefirot, parte 13 · 1:31:19 Ba'al HaSulam, Talmud Eser HaSefirot, parte 13 · 1:32:33 Ba'al HaSulam, Talmud Eser HaSefirot, parte 13 · 1:41:47 Avot 1:6 · 1:44:08 Shemot 23:2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|1:34:30|מה זה הגימל הזה?
+829|1:34:33|זה גימל של שורש?
+830|1:34:34|אני חייב להגיד גימל.
+831|1:34:35|כן.
+832|1:34:35|בסדר.
+833|1:34:35|גימל של שורש, כן.
+834|1:34:43|זה ברור או שיש שאלות על זה?
+835|1:34:45|מה הבעיה שאף אחד מקבל גימל של שורש, זה הבחינה
+836|1:34:52|שלנו.
+837|1:34:53|אין שום בעיה.
+838|1:34:56|רק רוצים למנוע שבירת הכלים.
+839|1:35:03|כן, כן.
+
+LINHAS A TRADUZIR:
+840|1:35:07|ויש עוד כל מיני מ"ם ל"צ, כל מיני סינונים ומיעוטים.
+841|1:35:29|‫אבל בית השיר אמרנו איזה שיקום.
+842|1:35:32|‫-שיקום זה סיפור שיר, נכון?
+843|1:35:38|‫לא, שיש, שיש, אין לו שום.
+844|1:35:42|‫כאילו, בוואטסאפ, בוואטסאפ, ‫זה בן אדם, זה הולך
+845|1:35:48|לדעת.
+846|1:35:55|זה חשוב זה מה שכתבתי פה
+847|1:36:02|זה מכמה וכמה חלקים בטס
+848|1:36:27|אתה
+849|1:36:29|רוצה?
+850|1:36:38|כן.
+851|1:36:40|אז אתה רוצה את זה?
+852|1:36:41|כן.
+853|1:36:47|אז רק את זה?
+854|1:36:48|רק את הסיכום הזה?
+855|1:36:50|לפחות.
+856|1:36:50|מה, אני עזבור?
+857|1:36:52|מה, אני יכול לבוא מקום מה שאתם...
+858|1:36:59|טוב, אז אני אשלח לך את זה.
+859|1:37:01|לא לי דווקא, הוא יכול לתת לנו עשר דפים.
+860|1:37:06|אתה רוצה דפים?
+861|1:37:07|כן.
+862|1:37:08|אה, אתה רוצה דפים?
+863|1:37:11|או שאתה רוצה וואטסאפ?
+864|1:37:13|מה?
+865|1:37:15|וואטסאפ, וואטסאפ.
+866|1:37:37|שלחתי לך.
+867|1:37:46|מה עם ההצעה של
+868|1:37:47|קרן?
+869|1:37:56|כן, לא ידעתי מה להגיד.
+870|1:37:59|לא יודע, היא גם...
+871|1:38:00|היא דוברה עם סניף תל אביב.
+872|1:38:06|נו.
+873|1:38:07|היא רוצה לעשות את זה בתל אביב?
+874|1:38:08|כן.
+875|1:38:08|אה.
+876|1:38:09|אני רוצה להפוך את זה.
+877|1:38:11|נו, אז מה...
+878|1:38:12|הם רוצים, הם מעוניינים.
+879|1:38:15|הם מעוניינים.
+880|1:38:15|כן, זה כפי שהיא רוצה להפגש איתם.
+881|1:38:19|רק עכשיו, השבוע?
+882|1:38:20|כן.
+883|1:38:21|על זה?
+884|1:38:23|על זה...
+885|1:38:29|אז היא מציעה פה שולחן עגול.
+886|1:38:40|עשר משתתפים.
+887|1:38:55|זה דבר טוב, דבר יפה.
+888|1:39:00|מה שהיא מציעה.
+889|1:39:03|דבר מעניין.
+890|1:39:08|למה?
+891|1:39:11|מה קשה ליישום פה?
+892|1:39:14|אה?
+893|1:39:16|מצד מה זה קשה ליישום?
+894|1:39:23|מה, מצד צילומים או מה?
+895|1:39:25|צילומים זה...
+896|1:39:28|אני מוכן ל...
+897|1:39:29|יש אנשים שבעילום שם עושים.
+898|1:39:33|מה?
+899|1:39:34|בכל זאת הוא
+900|1:39:34|נחשף.
+901|1:39:45|בלי שם.
+902|1:39:46|אבל הוא נחשף, אתה מבין.
+903|1:39:50|הרבה אנשים עולים ברדיו, בטלוויזיה, שואלים שאלות עם הבעיות שלהם.
+904|1:39:58|המון.
+905|1:39:59|זה כבר שנים יש כאלה דברים.
+906|1:40:02|יש תוכניות רדיו כבר עשרות שנים כבר.
+907|1:40:06|אני אם יחידנית, אני ככה.
+908|1:40:10|לא, אבל זה דבר שכן.
+909|1:40:14|אני אומר, אבל לפעמים גם ב...
+910|1:40:15|ויש אנשים שעולים באמת, אני חפץ בעילום שמו, הוא אומר את הבעיה, הוא לא אומר את השם,
+911|1:40:21|אז בסדר.
+912|1:40:24|מה?
+913|1:40:24|על מה מדובר?
+914|1:40:27|על מה שמדובר, מה שאנחנו מדברים, מדברים.
+915|1:40:31|מדברים פה על הצעה לעשות שולחן עגול
+916|1:40:37|זה נקרא, שבכל פעם מישהו יעלה איזה בעיה שלו,
+917|1:40:42|ואני אגיד תשובה, ועוד אנשים ידונו בזה.
+918|1:40:48|זה ההצעה.
+919|1:40:53|זהו, אתה רוצה להתנדב ראשון?
+920|1:40:56|אם אני מתחיל זה יהיה להם קש כבד עליהם.
+921|1:41:00|כבד עליהם.
+922|1:41:01|פרק את השולחן העגול.
+923|1:41:03|מעט קל יהיה לכבד.
+924|1:41:05|יעשו את חברות.
+925|1:41:11|רעש הספורות.
+926|1:41:13|היא אומרת שחוכמת ההמון והעשרה זה יותר טוב מכל
+927|1:41:19|המונחה הכי גדולים שיש.
+928|1:41:24|חוכמת ההמונים.
+929|1:41:26|היית פרופסור הכי
+930|1:41:33|גדול, הכי מומחן בדרך כלל, עשרה יותר טובים בינה.
+931|1:41:39|ככה היא אומרת.
+932|1:41:41|תלוי מה.
+933|1:41:43|אז כל מדינה תעשה לך איזשהו כאן כזה.
+934|1:41:47|לא, אבל מה שחז"ל אמרו, עשה לך רב, וקנה לך חבר, מה עם זה?
+935|1:41:53|עשה לך רבנים, וקנה לך חברים, כאילו שיהיה המון.
+936|1:41:59|למה אתה בחדר ניתוח, אתה גם מכניס עשרה?
+937|1:42:01|אתה מכניס, כן.
+938|1:42:02|בחדר ניתוח עשרה בינוניים.
+939|1:42:04|אתה מכניס עשרה, כן?
+940|1:42:07|סטודנטים, אתה לא יודע מי מכניסים, אתה שוכב שמה.
+941|1:42:12|בהתחלה פרופסור בא, אחרי זה מכניסים עוד את כל הסטאג'רים וכל ה...
+942|1:42:18|כן, חבר'ה מ...
+943|1:42:20|מעיסאוויה ומוסאוויה, כן, הטעמים, אם היא חותך אותך אתה
+944|1:42:25|חושב, מה אתה חושב שהפרופסור חותר
+945|1:42:29|אותך?
+946|1:42:35|כן, יש שאלות והוא מסביר, אתם רואים פה, הנה זה פה, תחתוך פה.
+947|1:42:50|ברור, בניתוח הם דנים גם
+948|1:42:56|על הבחירות, רע"ם, שע"ם, מה אתה חושב שהם רק, אתה כל
+949|1:43:02|עולמה, מה?
+950|1:43:02|שוי וזי גית.
+951|1:43:06|אז מה זה יעזור שכל אחד יגיד
+952|1:43:11|תשובה, מה אדם יעשה?
+953|1:43:15|יום טוב.
+954|1:43:16|יום טוב, אז מה הוא יעשה בסוף?
+955|1:43:19|היא שואלת מה הוא יעשה בפרקטי, כאילו.
+956|1:43:21|עשר תשובות.
+957|1:43:23|זה לא ממוצע, יש פה רב,
+958|1:43:30|וזה...
+959|1:43:31|אלא היא רוצה חוכמת ההמונים, היא רוצה.

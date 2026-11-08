@@ -1,0 +1,144 @@
+videoId: NLR-kS-wIRg
+parte 3 de 5 · traduzir as linhas 240 a 359 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Vayera: Mamrê, a memória do bem e o sentido da Brit
+RESUMO: A aula parte da Parashá Vayera (Bereshit 18:1) e do Midrash em que Avraham consulta Aner, Eshkol e Mamrê sobre a brit. Aner, o impulso mau, desaconselha; Mamrê o encoraja lembrando os salvamentos de HaShem. Com base no Sefat Emet e em Rabi Baruch Shalom, o rabino mostra que Mamrê apoiou Avraham mesmo sabendo que a brit o afastaria dele, e que se alegrar com o crescimento do outro é sinal de sair do amor-próprio. Depois, o Tanya (cap. 46) ensina que lembrar o bem recebido desperta amor, tanto por HaShem quanto no relacionamento entre as pessoas. Em seguida vem a leitura de Rabi Baruch Shalom sobre os "passantes" que deixam de visitar Avraham depois da brit: ele sente falta do trabalho com as tentações, e HaShem responde que agora Ele mesmo vem com Sua comitiva. A segunda metade explica a brit como a remoção das kelipot (Devarim 10:16; Yechezkel 1:4; Baal HaSulam), como contrato mútuo e como as quatro berit pessoais. Termina com a parábola do rei, que mostra as kelipot como guardas que também protegem o fruto até ele amadurecer.
+MOMENTOS: 00:30 Vayera: Avraham consulta Aner, Eshkol e Mamrê · 02:37 "Fale pouco e faça muito" · 04:29 Sefat Emet: Mamrê apoia mesmo perdendo proximidade · 09:07 Tanya cap. 46: a memória do bem desperta amor · 13:21 Lembrar o bem no conflito e na relação a dois · 17:27 Os "passantes" que deixaram de vir após a brit · 23:54 A resposta de HaShem: agora Eu e minha comitiva vamos · 27:55 O que é a brit: circuncidar o coração · 30:02 Três ações da brit e as três kelipot de Yechezkel · 33:51 O que são kelipot: Rabi Yishmael e o Baal HaSulam · 39:09 A brit como contrato e as quatro berit · 44:15 Parábola do rei: as kelipot como guardas e proteção
+FONTES CITADAS: 00:35 Bereshit 18:1 · 00:51 Bereshit Rabá 42:8 · 01:35 Bereshit Rabá 42:8 · 01:47 Bereshit 14:1-16 · 02:37 Pirkei Avot 1:15 · 03:18 Zohar, sobre justos e perversos · 03:39 Devarim 7:7 · 04:29 Sefat Emet (Gur), Vayera · 06:48 Rabi Baruch Shalom (Rabash), maamar sobre Vayera · 08:35 Bereshit 18:1 · 08:44 Tehilim 26:11 · 09:07 Tanya, cap. 46 · 11:01 Rabi Baruch Shalom (Rabash), maamar sobre Vayera · 14:05 Chazal, não julgar o homem na hora da raiva · 14:47 Berachot 28b · 14:53 Ani Maamin, primeiro princípio · 17:38 Bereshit 18:1 · 17:51 Rashi em Bereshit 18:1 · 17:57 Bereshit Rabá 48:9 · 18:32 Rabi Baruch Shalom (Rabash), maamar sobre Vayera · 23:54 Rabi Baruch Shalom (Rabash), maamar sobre Vayera · 28:37 Devarim 10:16 · 30:02 Halachot da brit milá · 31:02 Yechezkel 1:4 · 33:51 Baal HaSulam, sobre as kelipot · 34:01 Asará Harugei Malchut, Rabi Yishmael Cohen Gadol · 37:02 Cabalá: Avraham como middat HaChesed · 38:27 Shemot 2:2 · 38:27 Sotá 12a · 41:21 Shemot 24:7 · 42:11 Iyov 31:1 · 42:36 Cabalá: as quatro berit · 44:15 Mashal do rei e das kelipot
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|20:30|לא,
+229|20:31|לאט.
+230|20:38|אז השכונה הזאת היא קרובה שם?
+231|20:41|הוא הולך לראות שם איזה הפגנה מטורפת, אני הבנתי.
+232|20:46|איך תחזור שהליקופטר יביאו אותך מהגג.
+233|20:49|מה, הלילה?
+234|20:52|כן.
+235|20:55|לכבוד הבחירות, נו.
+236|20:58|אה, בלילה?
+237|21:03|בלילה.
+238|21:05|בלילה.
+239|21:05|מה?
+
+LINHAS A TRADUZIR:
+240|21:11|כן.
+241|21:26|והנה, אחר שקיים את מצוות הברית,
+242|21:32|כבר אין עוברים ושבים.
+243|21:37|אין עוברים ושבים, אז הוא משתוקק לזה.
+244|21:42|אברהם הכיר את עצמו כעובד מתוך ההתמודדות הזאת.
+245|21:49|עובד השם.
+246|21:52|זה שהוא מתגעגע למצב של עוברים ושובים.
+247|21:57|הוא לא רוצה לנוח על זרי הדפנה.
+248|22:00|עכשיו יש לו מצב רוחני, עליון, הוא עשה ברית מילה.
+249|22:04|המסקנה שצריך לעשות את הברית בגיל 100.
+250|22:09|אתה חושב?
+251|22:10|זה מביא אותי לערעור.
+252|22:12|זה מביא אותך לערעור, שאז הקדוש ברוך הוא חייב להביא אותך לגיל 100,
+253|22:18|אם אתה רוצה לעשות את הברית בגיל 100.
+254|22:21|אז הוא חייב לך.
+255|22:25|טוב, אז אני אבין את המשמעות.
+256|22:27|טוב, אצטרך לארגן לך איזה משהו מיוחד.
+257|22:29|לא, לא.
+258|22:29|בבית חולים הגריאטרי.
+259|22:30|טוב, אצלי זה כבר
+260|22:34|אבוד.
+261|22:42|תמלא את נילי שתהיה האפוטרופסית שלך.
+262|22:44|אתם אומרים שהצדיקים
+263|22:50|משתוקקים לעבודה כזאת?
+264|22:53|כן.
+265|22:55|צדיקים משתוקקים לעבודה.
+266|22:57|אתה יכול לראות באמת אם אתה צדיק או לא צדיק.
+267|23:01|כאדם נורמלי, אם בא לו מצב כזה, אז זה מועקה.
+268|23:06|מה, של עוברים ושווים?
+269|23:08|כן.
+270|23:08|כאילו עוד פעם, עבירות, חטאים, עכשיו אתה רוצה.
+271|23:13|כן, תן לי להיות בטוב, בטוב.
+272|23:17|להיות מואר, להיות רגוע, לא פתאום שיכנסו אצלי כל מיני
+273|23:23|יצרים חדשים.
+274|23:27|אבל הצדיקים זה סוג מיוחד, זה זן משונה.
+275|23:32|שאם יש חטאים וזה, הם מבסוטים דווקא.
+276|23:35|כן, יש עבודה, או, מה שנקרא סוסי מלחמה
+277|23:41|ותיקים.
+278|23:54|תשובת הקדוש ברוך הוא, לפי פירוש רבי ברוך שלום,
+279|24:00|מציעה לו להכיר במה שיתאפשר עתה.
+280|24:04|עכשיו, לאחר שנימולת, כבר יש השתוות
+281|24:10|עצורה ביני לבינך.
+282|24:15|ועל כן, אני ופמלייה שלי יכולים לבוא.
+283|24:24|זאת אומרת, במקום עוברים ושווים, אני
+284|24:30|ופמליה שלי באים.
+285|24:34|מה עדיף?
+286|24:37|זה מה שהקדוש ברוך הוא עונה לו, מה אתה מצטער על זה שעוברים ושווים לא באים?
+287|24:43|אבל אני בא.
+288|24:48|אפשר שאדם ייקשר לצורת המאמץ המוכרת לו.
+289|24:56|הוא רגיל למדוד רצינות על פי עוצמת ההתנגדות.
+290|25:00|וכאשר הרגל טוב נקנה וקושי מסוים נחלש,
+291|25:06|הוא מרגיש שמשהו חסר.
+292|25:11|אז זה רואים אצל אנשים שעבדו כל החיים ופתאום יוצאים לפנסיה.
+293|25:18|אז זה לא חיים.
+294|25:21|מבחינתם זה לא חיים.
+295|25:24|כי צריכים את המאמץ ואת
+296|25:29|העבודה ואת העייפות זה חלק
+297|25:35|מהיום, מהחיים אבל אם
+298|25:41|פתאום אתה יכול לישון כמה שאתה רוצה ואתה יכול לעשות מה שאתה רוצה
+299|25:47|בלי שום חיובים, בלי זמנים, בלי זה
+300|26:04|אז זה דבר חשוב מאוד.
+301|26:07|זמנים, חיובים, עבודה.
+302|26:10|כמה שיותר עבודה, יותר לטובתו של האדם.
+303|26:17|ואדם אחר כך נח, בסדר.
+304|26:20|אבל בכללי, מה שיותר עבודה, יותר טוב.
+305|26:24|מה שיותר מאמץ, יותר לעשות, יותר
+306|26:29|ללמוד, יותר להתנדב, לעזור.
+307|26:50|כן.
+308|26:50|מה המשמעות
+309|26:56|של ברית?
+310|26:57|בגשמיות או ברוחניות?
+311|27:03|זה לא הסכם.
+312|27:09|כן.
+313|27:12|מה זה שייך לפרשה הקודמת?
+314|27:55|משמעות של ברית א' פרמיד של
+315|28:00|הזכר בכדי
+316|28:07|מה שכתוב בכדי להחליש מעט
+317|28:16|את הגירוי והתאווה זה מה שכתוב
+318|28:34|ב.
+319|28:37|במקביל ומלתם את עורלת
+320|28:42|לבבכם כל עורלה
+321|28:49|מרמזת על חצצה וסתימה
+322|28:56|וזאת תכונת הרצון לקבל האגואיסטי של האדם
+323|29:03|שמהווה חציצה בין האדם לאלוקיו.
+324|29:10|כי בבורא אין תכונה של רצון לקבל.
+325|29:24|מילה זו היא תהליך שמתמשך כל
+326|29:30|החיים.
+327|29:33|לחתוך את התכונות האגואיסטיות שבאדם.
+328|29:47|ג'
+329|30:02|בגשמיות יש ג' פעולות א',
+330|30:09|חיתוך האורלה ב', פריאה
+331|30:15|עם עין שזה אחרי
+332|30:21|שחותכים את האור הזה מבשילים אותו ג', הטפת דם זה
+333|30:27|שלוש פעולות זאת אומרת, במקרה שתינוק למשל נולד
+334|30:33|מעול, אז עושים הטפת דם.
+335|30:38|כאילו, במקום.
+336|30:42|מה זה הטפת דם?
+337|30:42|נותנים איזו דקירה שם שיצא דם.
+338|30:45|זה הכל.
+339|30:48|יש כזה דבר, שתינוק נולד מעול
+340|30:50|כבר.
+341|30:55|אז יש ג' פעולות.
+342|30:57|ג' פעולות אלו, ‫הם כנגד ג' קליפות
+343|31:02|‫המוזכרות ביחזקאל.
+344|31:10|‫א', רוח שערה, ‫ב', ענן גדול,
+345|31:15|‫ג', אש מתלקחת.
+346|31:20|‫רוח שערה, קליפה,
+347|31:25|‫כנגד אור האמונה.
+348|31:33|ענן גדול קליפה כנגד יראה
+349|31:39|ופחד מהשם ג' אש
+350|31:44|מתלקחת קליפה כנגד אהבת השם
+351|31:53|אז יש ג' פעולות במילה כנגד ג' קליפות הללו
+352|32:01|ג' הפעולות הללו באות לנטרל את
+353|32:07|הקליפות, כן?
+354|32:09|או לא?
+355|32:11|אם לא, אז תשאלי.
+356|32:17|לקרוא מההתחלה?
+357|32:20|לא, אני לא מבינה כל כך את ה...
+358|32:24|מה זה קליפות?
+359|32:24|אה, מה זה קליפות?
