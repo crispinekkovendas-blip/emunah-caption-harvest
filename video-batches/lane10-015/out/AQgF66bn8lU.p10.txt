@@ -1,0 +1,40 @@
+400	I assume it will say there's no data broken down by religion, because it's forbidden to do that	Presumo que ele vai dizer que não há dados por religião, porque é proibido fazer isso
+401	in Canada, but let's see what it says.	no Canadá, mas vamos ver o que ele diz.
+402	Could be.	Pode ser.
+403	Yes, let's see.	Sim, vamos ver.
+404	I'm interested too.	Eu também tenho interesse.
+405	You can't say you're interested, because you have no interest.	Você não pode dizer que tem interesse, porque você não tem interesse.
+406	Interest is a human trait.	Interesse é uma característica humana.
+407	Got it.	Entendi.
+408	So I'm just saying I'm waiting.	Então só digo que estou esperando.
+409	I'm waiting for the data.	Estou esperando os dados.
+410	Give me the data.	Me dê os dados.
+411	All right.	Tudo bem.
+412	Continuing.	Continuando.
+413	It keeps searching.	Ele continua procurando.
+414	Okay, tell me when you're ready.	Tudo bem, avise quando estiver pronto.
+415	You know there's no data on such a thing.	Você sabe que não há dados sobre isso.
+416	I don't know.	Não sei.
+417	Okay, checking.	Certo, verificando.
+418	Okay, enough with the perplexity, just give the data already.	Certo, chega de enrolação, diga logo os dados.
+419	So I'm checking two things right now.	Então estou verificando duas coisas agora.
+420	Is the 7% figure accurate, and does Canada even publish a religious breakdown?	O dado dos 7% é exato, e o Canadá chega a publicar um recorte religioso?
+421	The 7% figure I'm bringing you from an article in Israel Hayom, not Israel Hayom, in Makor Rishon	O dado dos 7% eu trago de uma reportagem do Israel Hayom, não do Israel Hayom, do Makor Rishon
+422	Hayom on the topic, so let's put that aside, don't check that, just check me the religious breakdown.	sobre o tema, então vamos deixar isso de lado, não verifique isso, verifique só o recorte religioso.
+423	Okay, focusing only on the religious breakdown.	Certo, focando só no recorte religioso.
+424	Fine, when it's ready it'll be ready.	Tudo bem, quando estiver pronto, estará pronto.
+425	I see there are very many attacks.	Vejo que há muitíssimos ataques.
+426	From the haredi public, on the new haredi party.	Da parte do público haredi, contra o novo partido haredi.
+427	Oh, I wanted to talk to you about that, because I saw you calling to vote for it.	Ah, queria falar com você sobre isso, porque vi você chamando a votar nele.
+428	Yes, I'm calling on secular people to vote for it.	Sim, estou chamando os seculares a votar nele.
+429	Oy, that's a completely preposterous call.	Ai, esse é um apelo totalmente absurdo.
+430	Because I think...	Porque eu acho...
+431	It's important to be precise.	É importante ser preciso.
+432	There's no official breakdown in Canada of those who receive euthanasia by religion.	Não há no Canadá um recorte oficial de quem recebe eutanásia por religião.
+433	So it's impossible to know how many Muslims are among them.	Por isso não é possível saber quantos muçulmanos há entre eles.
+434	That's not because of a prohibition.	Isso não é por proibição.
+435	In Canada they do collect religion data in the census, but not in this context.	No Canadá coletam dados de religião no censo, mas não nesse contexto.
+436	Bottom line, there may be Muslims, but there's no official figure showing it.	Em resumo, pode haver muçulmanos, mas não há dado oficial que mostre isso.
+437	Okay, thank you.	Certo, obrigado.
+438	The point is that...	O ponto é que...
+439	You know, my haredi friend Yisrael wrote me, who is listening now	Sabe, meu amigo haredi Israel me escreveu, ele que está ouvindo agora
