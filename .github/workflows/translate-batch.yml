@@ -121,9 +121,9 @@ jobs:
           if [ -s "$OUT" ]; then echo "$CHUNK already translated — skipped"; exit 0; fi
           set +e
           ASK="Translate the numbered lines under LINHAS A TRADUZIR following the system rules. Reply with ONLY the translation lines (N<TAB>English<TAB>Portuguese), one per line to translate, nothing before or after, no code fences."
-          # 2026-11-07: some pieces came back as N<TAB>English only, the filter dropped the whole reply and
-          # every retry gave the same answer (lanes stuck at 0). Now: up to 2 tries with a firmer ask, then
-          # the Portuguese of an English-only reply is asked for separately and merged — never thrown away.
+          # 2026-11-08: the reply is read by scripts/batch-reply.mjs (a stray tab no longer loses a line, good
+          # lines are kept between tries). A second try only when lines are really missing; an English-only
+          # reply has its Portuguese asked for separately and merged.
           for TRY in 1 2; do
             claude -p "$ASK" \
               --system-prompt "$(cat "$D/PROMPT.md")" --tools "" \
@@ -131,20 +131,9 @@ jobs:
             code=$?
             # every attempt keeps its own usage record, so the report counts all of them
             cp usage.json "$D/$BATCH/out/$CHUNK.r$GITHUB_RUN_ID-$GITHUB_RUN_ATTEMPT-$TRY.usage.json" 2>/dev/null || true
-            # the reply's translation lines become the output file; English-only lines go to en.txt
-            node -e '
-              const fs = require("fs")
-              let j = {}
-              try { j = JSON.parse(fs.readFileSync("usage.json", "utf8")) } catch {}
-              const all = String(j.result || "").split("\n").map((l) => l.replace(/\r$/, ""))
-              const lines = all.filter((l) => /^\d+\t[^\t]*\t[^\t]*$/.test(l))
-              const en = all.filter((l) => /^\d+\t[^\t]+$/.test(l))
-              if (!j.is_error && lines.length) fs.writeFileSync(process.argv[1], lines.join("\n") + "\n")
-              else if (!j.is_error && en.length) fs.writeFileSync("en.txt", en.join("\n") + "\n")
-              console.log(`reply: ${lines.length} translation lines, ${en.length} English-only${j.is_error ? " · error: " + String(j.result).slice(0, 120) : ""}`)
-            ' "$OUT"
+            node scripts/batch-reply.mjs usage.json "$IN" "$OUT" merged.json en.txt $([ "$TRY" = 2 ] && echo final)
             [ -s "$OUT" ] && break
-            ASK="IMPORTANT: every line MUST have THREE tab-separated columns: the line number, the English, and the Brazilian Portuguese. A reply without the Portuguese column is rejected. $ASK"
+            ASK="IMPORTANT: every line MUST have exactly THREE tab-separated columns (line number, English, Brazilian Portuguese) and every numbered line under LINHAS A TRADUZIR must be there. $ASK"
           done
           if [ ! -s "$OUT" ] && [ -s en.txt ]; then
             claude -p "Translate each English line below into Brazilian Portuguese (keep Hebrew names and terms as they are). Reply with ONLY lines N<TAB>Portuguese, same numbers, nothing else, no code fences." \
