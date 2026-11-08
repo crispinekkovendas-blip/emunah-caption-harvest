@@ -5,8 +5,8 @@
  *
  * A lesson whose chunks are all in out/ is checked — every line 0…n-1 exactly once, in English and
  * Portuguese, no Divine Name — and uploaded to videos/transcript/<id>/en|pt marked `by:
- * claude-sonnet-5-5` (the Google job never overwrites those). A lesson that fails has its outputs
- * removed so the next run translates it again; after 3 tries it is skipped. Writes report.md, the
+ * claude-sonnet-5-5` (the Google job never overwrites those). A piece that fails has its output
+ * removed so the next run translates that piece again; after MAX_TRIES tries the lesson is skipped. Writes report.md, the
  * manifest's status, and GITHUB_OUTPUT complete=true|false (true = nothing left in this batch).
  */
 import fs from 'node:fs'
@@ -14,6 +14,8 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const MODEL = 'claude-sonnet-5-5'
+// a try now redoes one piece, not the lesson
+const MAX_TRIES = 6
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..')
 const NAME = process.argv[2]
 const DIR = path.join(ROOT, 'video-batches', NAME)
@@ -69,30 +71,43 @@ for (const lesson of manifest.lessons) {
     const n = doc.cues.length
     const en = new Array(n).fill(null)
     const pt = new Array(n).fill(null)
-    for (const f of files) {
-      for (const raw of fs.readFileSync(f, 'utf8').replace(/\r\n/g, '\n').split('\n')) {
+    // 2026-11-08: each piece is checked on its own against its range; only a bad piece is redone
+    const bad = new Map()
+    files.forEach((f, k) => {
+      const head = fs.readFileSync(path.join(DIR, 'in', `${id}.p${k}.txt`), 'utf8').match(/traduzir as linhas (\d+) a (\d+)/)
+      const from = head ? Number(head[1]) : 0
+      const to = head ? Number(head[2]) : n - 1
+      const text = fs.readFileSync(f, 'utf8').replace(/\r\n/g, '\n')
+      if (NAME_RE.test(text)) return bad.set(f, 'the Divine Name is written out')
+      for (const raw of text.split('\n')) {
         if (!raw.trim()) continue
         const c = raw.split('\t')
         const i = Number(c[0])
-        if (c.length !== 3 || !Number.isInteger(i) || i < 0 || i >= n) throw new Error(`bad line "${raw.slice(0, 50)}"`)
-        if (en[i] != null) throw new Error(`line ${i} twice`)
+        if (c.length !== 3 || !Number.isInteger(i) || i < 0 || i >= n || (head && (i < from || i > to))) return bad.set(f, `bad line "${raw.slice(0, 50)}"`)
+        if (en[i] != null) return bad.set(f, `line ${i} twice`)
         en[i] = c[1].trim()
         pt[i] = c[2].trim()
       }
-    }
+      if (head) {
+        let gone = 0
+        for (let i = from; i <= to; i++) if (en[i] == null || pt[i] == null) gone++
+        if (gone) bad.set(f, `${gone} lines missing`)
+      }
+    })
+    if (bad.size) throw Object.assign(new Error(`${bad.size} piece(s): ${[...bad.values()][0]}`), { bad: [...bad.keys()] })
     const missing = en.filter((t, i) => t == null || pt[i] == null).length
-    if (missing) throw new Error(`${missing} lines missing`)
-    if (NAME_RE.test(en.join('\n') + pt.join('\n'))) throw new Error('the Divine Name is written out')
+    if (missing) throw Object.assign(new Error(`${missing} lines missing`), { bad: files })
     await put(`videos/transcript/${id}/en`, { v: 2, videoId: id, tl: 'en', texts: en, by: MODEL })
     await put(`videos/transcript/${id}/pt`, { v: 2, videoId: id, tl: 'pt', texts: pt, by: MODEL })
     manifest.done.push(id)
     rows.push(`| ${id} | ✓ published | ${n} lines · ${lesson.title} |`)
   } catch (err) {
     manifest.tries[id] = (manifest.tries[id] || 0) + 1
-    for (const f of files) fs.rmSync(f, { force: true })
-    if (manifest.tries[id] >= 3) {
+    // only what failed the check is translated again; a Supabase error removes nothing
+    for (const f of err.bad || []) fs.rmSync(f, { force: true })
+    if (manifest.tries[id] >= MAX_TRIES) {
       manifest.skipped.push(id)
-      rows.push(`| ${id} | skipped after 3 tries | ${err.message} |`)
+      rows.push(`| ${id} | skipped after ${MAX_TRIES} tries | ${err.message} |`)
     } else rows.push(`| ${id} | ✗ will be redone (try ${manifest.tries[id]}) | ${err.message} |`)
   }
 }
