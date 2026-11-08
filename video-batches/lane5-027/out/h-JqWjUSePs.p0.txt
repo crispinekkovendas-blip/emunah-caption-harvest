@@ -1,0 +1,120 @@
+0	Bava Metzia, chapter 6, Mishnah 3. The Mishnah says: One who rents a donkey to lead it on the mountain	Bava Metzia, capítulo 6, Mishná 3. Diz a Mishná: Quem aluga o burro para conduzi-lo no monte
+1	and led it in the valley, or in the valley and led it on the mountain, even if this is ten mil and that is ten mil	e o conduziu no vale, ou no vale e o conduziu no monte, mesmo que este seja de dez milhas e aquele de dez milhas
+2	and it died, he is liable.	e ele morreu, fica obrigado.
+3	One who rents a donkey and it went blind, or it was seized	Quem aluga o burro e ele ficou cego, ou foi requisitado
+4	for the king's service, he says to him: Here is yours before you; if it died or broke, he must provide him	para o serviço do rei, diz a ele: Aqui está o teu diante de ti; se morreu ou quebrou, deve dar a ele
+5	a donkey.	outro burro.
+6	One who rents a donkey to lead it on the mountain and led it in the valley: if it slipped, he is exempt;	Quem aluga o burro para conduzi-lo no monte e o conduziu no vale: se ele escorregou, fica isento;
+7	and if it overheated, he is liable. To lead it in the valley and led it on the mountain:	e se superaqueceu, fica obrigado. Para conduzi-lo no vale e o conduziu no monte:
+8	if it slipped, he is liable; and if it overheated, he is exempt; if it was from the climb,	se escorregou, fica obrigado; e se superaqueceu, fica isento; se foi por causa da subida,
+9	he is liable.	fica obrigado.
+10	Here in this Mishnah we will learn about a renter	Aqui nesta Mishná vamos aprender sobre um locatário
+11	who received a donkey from the owner, but of course	que recebeu um burro do locador, mas é claro
+12	this is not necessarily a donkey; today it could also be a person who rented a vehicle	que não é necessariamente um burro; hoje pode ser também alguém que alugou um veículo
+13	or any kind of object and the like, and he changed without the knowledge of the	ou qualquer tipo de objeto e coisas assim, e ele fez uma mudança sem o conhecimento do
+14	owner.	dono.
+15	Here, for example, the renter rents the donkey to lead it on the mountain; he asked the owner to rent him	Aqui, por exemplo, o locatário aluga o burro para conduzi-lo no monte; pediu ao dono que lhe alugasse
+16	a donkey to lead on the mountain, and in the end he led it in the valley,	um burro para conduzir no monte, e no fim o conduziu no vale,
+17	and some mishap occurred.	e aconteceu algum problema.
+18	The question is: is the renter liable, or does the owner have to provide him	A questão é: o locatário fica obrigado, ou o dono tem de dar a ele
+19	something else in its place?	outra coisa no lugar?
+20	So we will see that there is a distinction in these matters; everything here is very clear	Então veremos que há uma distinção nestes casos; tudo aqui é muito claro
+21	and very logical: if the mishap was actually caused by the change, then certainly	e muito lógico: se o problema foi de fato causado pela mudança, então certamente
+22	the responsibility is on the renter.	a responsabilidade é do locatário.
+23	But if the mishap did not happen because of the change, it is the opposite.	Mas se o problema não aconteceu por causa da mudança, é o contrário.
+24	The change was even to the owner's benefit, because if he had led the	A mudança foi até em benefício do dono, pois se ele tivesse conduzido o
+25	donkey where he wanted originally, it would have been even more dangerous.	burro para onde queria originalmente, seria ainda mais perigoso.
+26	So in such a case the mishap did not happen because of the change, and therefore the renter will not be	Assim, nesse caso o problema não aconteceu por causa da mudança, e por isso o locatário não ficará
+27	liable.	obrigado.
+28	Let's look at the examples.	Vamos ver os exemplos.
+29	The Mishnah says: One who rents a donkey to lead it on the mountain and led it in the valley.	Diz a Mishná: Quem aluga o burro para conduzi-lo no monte e o conduziu no vale.
+30	He told the owner, I want the donkey to lead it on the mountain, and in the end he led it in the valley.	Ele disse ao dono: quero o burro para conduzi-lo no monte, e no fim o conduziu no vale.
+31	In the valley, or led it on the mountain, or the reverse.	No vale, ou o conduziu no monte, ou o contrário.
+32	Even if this is ten mil and that is ten mil, meaning the distance is the same distance.	Mesmo que este seja de dez milhas e aquele de dez milhas, isto é, a distância é a mesma.
+33	"And it died," yes?	"E ele morreu", certo?
+34	By the way, you see that it used the masculine word "chamor," and "died" in the feminine.	Aliás, vocês veem que usou a palavra "chamor" no masculino, e "morreu" no feminino.
+35	"Died" is feminine.	"Morreu" está no feminino.
+36	Usually when we speak in the feminine, we say "aton."	Normalmente, quando falamos no feminino, dizemos "aton" (jumenta).
+37	But that is not necessarily so.	Mas não é necessariamente assim.
+38	The word chamor can be understood in the Holy Tongue either in the masculine	A palavra chamor pode ser entendida na língua sagrada tanto no masculino
+39	or in the feminine; what is certain is that there is no such thing as "chamorah,"	quanto no feminino; o certo é que não existe a forma "chamorá",
+40	right?	certo?
+41	That a person says: I saw this woman,	Que alguém diga: vi esta mulher,
+42	"a she-donkey," there is no such thing,	"uma burra"; isso não existe,
+43	how?	como?
+44	You can tell her she is a chamor, because chamor in the feminine exists,	Você pode dizer a ela que é um chamor, porque chamor no feminino existe,
+45	perfectly fine.	perfeitamente.
+46	Oh, oh, oh... she died, he is liable.	Ai, ai, ai... ela morreu, ele fica obrigado.
+47	The Bartenura says:	Diz o Bartenura:
+48	"On the mountain and led it in the valley, in the valley and led it on the mountain," at the top of the mountain, and even though	"No monte e o conduziu no vale, no vale e o conduziu no monte", no alto do monte, e embora
+49	the road is smooth and straight, he is liable, when it died	o caminho seja liso e reto, fica obrigado, quando morreu
+50	from its air, from the air, so that it did not slip	por causa do ar, por causa do ar, sem que tenha escorregado
+51	and did not overheat; "overheat" means that the donkey's body heat	e sem que tenha superaquecido; "superaquecer" significa que o calor do burro
+52	rose.	subiu.
+53	Since he changed it, he can say to him: it did not	Como ele mudou, pode dizer a ele: ele não
+54	die from this, but because it was not accustomed to mountain air	morreu por isso, mas porque não estava acostumado ao ar do monte
+55	and it was hard for it, or it was not accustomed to valley air	e isso lhe foi difícil, ou não estava acostumado ao ar do vale
+56	and it was hard for it, and for this reason he does not distinguish	e isso lhe foi difícil, e por isso ele não distingue
+57	and therefore he does not distinguish here between "it slipped" and "it overheated," as	e por isso não distingue aqui entre "escorregou" e "superaqueceu", como
+58	he does distinguish in the latter clause.	distingue na última parte.
+59	That is, the Bartenura teaches us that the first part of the Mishnah speaks of it dying	Isto é, o Bartenura nos ensina que a primeira parte da Mishná fala de ele morrer
+60	from the air.	por causa do ar.
+61	It was not able to breathe the air there, there was not enough air, and the like.	Não conseguiu respirar o ar de lá, não havia ar suficiente, e coisas assim.
+62	So in either case it does not matter whether he rented the donkey to lead on the mountain and led it in the valley, or in the valley and led it	Então, em qualquer caso, não importa se alugou o burro para conduzir no monte e o conduziu no vale, ou no vale e o conduziu
+63	on the mountain.	no monte.
+64	The very fact that it died from the air makes the renter liable.	O simples fato de ter morrido por causa do ar torna o locatário obrigado.
+65	After that it says: One who rents a donkey and it went blind,	Depois está escrito: Quem aluga o burro e ele ficou cego,
+66	or it was seized for the king's service, he says to him: Here is yours	ou foi requisitado para o serviço do rei, diz a ele: Aqui está o teu
+67	before you.	diante de ti.
+68	What is the case here?	Qual é o caso aqui?
+69	Here it speaks of a person who rented the donkey and it went blind.	Aqui se fala de uma pessoa que alugou o burro e ele ficou cego.
+70	"Went blind" means the donkey lost its sight, its power of vision.	"Ficou cego" significa que o burro perdeu a visão, a capacidade de enxergar.
+71	Or "was seized for service": that means he met the king's soldiers on the road	Ou "foi requisitado": isto é, ele encontrou pelo caminho soldados do rei
+72	and they told him: bring the donkey, we need it for the soldiers.	e eles lhe disseram: traga o burro, precisamos dele para os soldados.
+73	Usually, in such a case, they use the donkey for a stretch of the road	Normalmente, nesse caso, usam o burro por um trecho do caminho
+74	until they find someone else, and then they take the donkey from someone else and give the first one	até encontrarem outra pessoa, e então tomam o burro de outro e devolvem ao primeiro
+75	his own back. So in such a case, if the donkey went blind, lost some of	o seu. Então, nesse caso, se o burro ficou cego, perdeu um pouco da
+76	its sight, or it was seized for the king's army,	visão, ou foi requisitado para o exército do rei,
+77	now the renter runs to the owner and says to him: What, bring me another donkey?	agora o locatário corre ao dono e diz: Como assim, traga-me outro burro?
+78	He says to him: No, here is yours before you; your luck caused this.	Ele responde: Não, aqui está o teu diante de ti; foi a tua sorte que causou isso.
+79	What luck of mine? But I paid for a donkey.	Que sorte minha? Mas eu paguei por um burro.
+80	The Gemara distinguishes and says that this speaks of work	A Guemará distingue e diz que aqui se trata de um trabalho
+81	that the renter has to do with the donkey, and he can do it even with a blind donkey.	que o locatário precisa fazer com o burro, e ele pode fazê-lo mesmo com um burro cego.
+82	It will be a bit more trouble, harder, but it is possible.	Dará um pouco mais de trabalho, será mais difícil, mas é possível.
+83	To carry a load and so on, it is possible.	Carregar uma carga e assim por diante é possível.
+84	As for the king's army seizing it, it delays you, you now have to wait until they return	Quanto ao exército do rei requisitá-lo, isso te atrasa, agora precisas esperar até que devolvam
+85	it to you; it is not pleasant, but they will return it to you; after all, you have	a ti; não é agradável, mas eles o devolverão; afinal, tens
+86	yours before you.	o teu diante de ti.
+87	Go after them until they return it to you, and continue.	Vai atrás deles até que o devolvam, e continua.
+88	Use the donkey.	Usa o burro.
+89	Since this does not prevent him from using it, it only makes it harder, the owner does not	Como isso não o impede de usar, apenas dificulta, o dono não
+90	have to replace the donkey for him in the meantime.	precisa substituir o burro para ele nesse meio-tempo.
+91	Therefore it says here: One who rents the donkey and it went blind, or	Por isso está escrito aqui: Quem aluga o burro e ele ficou cego, ou
+92	it was seized for service, he says to him: Here is yours before you.	foi requisitado, diz a ele: Aqui está o teu diante de ti.
+93	"Died or broke."	"Morreu ou quebrou."
+94	But if the donkey died or broke, he must provide	Mas se o burro morreu ou quebrou, deve dar
+95	him another.	a ele outro.
+96	Here, in this case, he must provide him another donkey, since	Aqui, nesse caso, deve dar a ele outro burro, pois
+97	he rented the donkey and the donkey died.	ele alugou o burro e o burro morreu.
+98	So, he rented the donkey to lead on the mountain and led it in the valley.	Então, alugou o burro para conduzir no monte e o conduziu no vale.
+99	If he rented the donkey to lead on the mountain, but instead went and led it in the valley.	Se alugou o burro para conduzir no monte, mas em vez disso foi e o conduziu no vale.
+100	If it slipped, he is exempt.	Se escorregou, fica isento.
+101	Why, if it slipped, is he exempt?	Por que, se escorregou, fica isento?
+102	The Bartenura says that on the mountain it is more likely to slip.	Diz o Bartenura que no monte é mais provável escorregar.
+103	For the top of the mountain is sharp and slopes to the sides, that is,	Pois o cume do monte é íngreme e inclinado para os lados, ou seja,
+104	the renter can now come and say to the owner: I used the donkey in the way	o locatário pode agora vir e dizer ao dono: usei o burro da maneira
+105	it is normally used, I changed nothing, everything as its normal use.	como é normalmente usado, não mudei nada, tudo conforme o seu uso normal.
+106	He says to him: But why did you change from the mountain to the valley?	Ele diz: Mas por que mudaste do monte para o vale?
+107	He will say to him: Excuse me, if it slipped in the valley, all the more so it would have slipped on the mountain, and therefore indeed	Dirá a ele: Com licença, se escorregou no vale, com mais razão teria escorregado no monte, e por isso, de fato,
+108	the renter is exempt.	o locatário fica isento.
+109	"And if it overheated, he is liable." On the other hand, if it overheated he will be liable. Why?	"E se superaqueceu, fica obrigado." Por outro lado, se superaqueceu ele ficará obrigado. Por quê?
+110	Because the Bartenura says that the valley gives off vapors, since the mountains	Porque diz o Bartenura que o vale exala vapores, pois os montes
+111	surround it and no wind blows through it.	o cercam e nenhum vento sopra nele.
+112	"And if it overheated from the climb..."	"E se superaqueceu por causa da subida..."
+113	So if it overheated in the valley, he will be liable.	Então, se superaqueceu no vale, ele ficará obrigado.
+114	Now, if he said to lead it in the valley and led it on the mountain,	Agora, se ele disse para conduzir no vale e o conduziu no monte,
+115	he rented the donkey to lead it in the valley, and in the end he led it on the mountain.	alugou o burro para conduzir no vale, e no fim o conduziu no monte.
+116	If it slipped, he is liable.	Se escorregou, fica obrigado.
+117	Had you led it in the valley as you rented from me, it would not have slipped.	Se o tivesses conduzido no vale como alugaste de mim, ele não teria escorregado.
+118	Why did you take it up the mountain?	Por que o levaste ao monte?
+119	Therefore he will be liable.	Por isso ficará obrigado.
