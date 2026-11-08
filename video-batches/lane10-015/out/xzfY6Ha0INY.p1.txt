@@ -1,0 +1,120 @@
+120	What is your honor asking?	O que o senhor está perguntando?
+121	I didn't say it counts for him as charity.	Eu não disse que isso conta para ele como tsedaká.
+122	It counts that he was exempt from giving charity to a poor person.	Conta que ele ficou dispensado de dar tsedaká ao pobre.
+123	So you look at it this way, and I understand you, because it is good to study	O senhor olha por esse ângulo, e eu o entendo, porque é bom estudar
+124	books of mussar, but one must also know how to look at it from the halachic side.	livros de mussar, mas é preciso saber olhar também pelo lado haláchico.
+125	Halachically, that person gains in that he didn't have to give a perutá to a poor person at that time.	Haláchicamente, essa pessoa ganha porque não precisou dar uma perutá ao pobre naquele momento.
+126	One engaged in a mitzvah is exempt from another mitzvah.	Quem está ocupado com uma mitsvá fica dispensado de outra mitsvá.
+127	There was no poor person there, so what?	Não havia pobre ali, e daí?
+128	Had there been a poor person, he would have been exempt.	Se houvesse um pobre, ele estaria dispensado.
+129	Had there been one, he would have been exempt at that moment; what actually happened no longer matters.	Se houvesse, ele estaria dispensado naquele momento; o que aconteceu na prática já não importa.
+130	Your question: why does he have no benefit from holding the pledge?	Sua pergunta: por que ele não tem benefício em manter o penhor?
+131	There isn't always a benefit in it, and we are also learning the laws of interest now, right?	Nem sempre há benefício nisso, e também estamos estudando agora as leis de juros, não?
+132	He is forbidden to benefit from the pledge during the loan, so that it not be interest.	É proibido a ele usufruir do penhor durante o empréstimo, para que não seja juros.
+133	So the benefit comes from another side.	Então o benefício vem de outro lado.
+134	What I said was sechar mitzvah.	O que eu disse foi sechar mitsvá.
+135	The reward of being exempt from another mitzvah.	A recompensa de ficar dispensado de outra mitsvá.
+136	Excellent.	Excelente.
+137	He is exempt from another expense.	Ele fica isento de outra despesa.
+138	That is the sechar mitzvah.	Esse é o sechar mitsvá.
+139	Therefore the Mishnah says: if he lent against a pledge, he is a paid guardian.	Por isso a Mishná diz: se emprestou sobre um penhor, é shomer sachar.
+140	Rabbi Yehuda says: if he lent him money, he is an unpaid guardian.	Rabi Yehuda diz: se emprestou dinheiro, é shomer chinam.
+141	Rabbi Yehuda holds, by contrast: listen, if he lent him money, it counts as an unpaid guardian,	Rabi Yehuda sustenta, ao contrário: escute, se emprestou dinheiro, conta como shomer chinam,
+142	lent money against the pledge.	emprestou dinheiro sobre o penhor.
+143	You say to him: but there is sechar mitzvah, since during this loan he exempted him from another mitzvah.	Diz-se a ele: mas há sechar mitsvá, pois durante esse empréstimo ele o dispensou de outra mitsvá.
+144	And by exempting him from another mitzvah, he saved him an expense.	E ao dispensá-lo de outra mitsvá, poupou-lhe uma despesa.
+145	According to Rabbi Yehuda in the Gemara, he doesn't count this as payment.	Segundo Rabi Yehuda na Guemará, ele não considera isso pagamento.
+146	He says: this isn't considered sechar mitzvah.	Ele diz: isso não conta como sechar mitsvá.
+147	The halachah does not follow Rabbi Yehuda.	A halachá não segue Rabi Yehuda.
+148	But if he lent him fruit, he is considered a paid guardian.	Mas se emprestou frutas, é considerado shomer sachar.
+149	Why?	Por quê?
+150	Because now I have fruit with me.	Porque agora tenho frutas comigo.
+151	I'm not using these fruits at the moment.	Não estou usando essas frutas neste momento.
+152	Now I lend him fruit.	Agora eu lhe empresto frutas.
+153	For me, that is good.	Para mim, isso é bom.
+154	Why?	Por quê?
+155	Because I lend him fruit.	Porque eu lhe empresto frutas.
+156	Afterward he will return fresh fruit to me.	Depois ele me devolverá frutas frescas.
+157	If they had stayed with me, they would have rotted, a pity.	Se tivessem ficado comigo, teriam apodrecido, uma pena.
+158	That is called sechar mitzvah.	Isso se chama sechar mitsvá.
+159	That is Rabbi Yehuda.	Isso é Rabi Yehuda.
+160	So Rabbi Yehuda says: lent him money, an unpaid guardian?	Então Rabi Yehuda diz: emprestou dinheiro, shomer chinam?
+161	Lent him fruit, a paid guardian.	Emprestou frutas, shomer sachar.
+162	Look at the Bartenura.	Vejam o Bartenura.
+163	Lent fruit, a paid guardian.	Emprestou frutas, shomer sachar.
+164	Before that: lent money, an unpaid guardian, since Rabbi Yehuda holds there is no sechar mitzvah.	Antes disso: emprestou dinheiro, shomer chinam, pois para Rabi Yehuda não há sechar mitsvá.
+165	He doesn't have this law.	Ele não tem esse din.
+166	As regards this, yes, as regards its law.	Quanto a isso, sim, quanto ao seu din.
+167	Lent fruit, a paid guardian, since fruit tends to rot.	Emprestou frutas, shomer sachar, porque o normal das frutas é apodrecer.
+168	But the halachah is not like Rabbi Yehuda; rather, whether he lent money or lent	Mas a halachá não é como Rabi Yehuda; ao contrário, quer tenha emprestado dinheiro, quer tenha emprestado
+169	fruit, and he received a pledge, he is considered a paid guardian over that pledge.	frutas, e recebido um penhor, ele é considerado shomer sachar sobre esse penhor.
+170	Abba Shaul says: one may rent out a poor person's pledge, deducting from the debt continuously, since it is like returning a	Abba Shaul diz: é permitido alugar o penhor de um pobre, abatendo da dívida continuamente, pois é como devolver
+171	lost object.	um objeto perdido.
+172	Now look here, this is a very, very beautiful halachah.	Agora vejam, esta é uma halachá muito, muito bonita.
+173	A person has now given a loan to a poor man.	Uma pessoa deu agora um empréstimo a um pobre.
+174	This poor man gave him a pledge.	Esse pobre lhe deu um penhor.
+175	He gave him, for example, some work tool.	Deu-lhe, por exemplo, uma ferramenta de trabalho.
+176	A tool that he works with.	Uma ferramenta com a qual ele trabalha.
+177	Now, the poor man has nothing to repay me with.	Agora, o pobre não tem com que me pagar.
+178	I am permitted to take the poor man's pledge and rent it out to other people,	Posso pegar o penhor do pobre e alugá-lo a outras pessoas,
+179	to receive rent from others for the poor man's work tool	receber de outros o aluguel da ferramenta de trabalho do pobre
+180	that is held as a pledge by me, and the rent I receive, I deduct from his debt.	que está penhorada comigo, e o aluguel que recebo eu abato da dívida dele.
+181	Here I received 200 shekels, here I received 100 shekels, I deduct from his debt until his debt is finished, and then I return	Aqui recebi 200 shekalim, ali recebi 100 shekalim, abato da dívida dele até que a dívida termine, e então devolvo
+182	it to him.	a ele.
+183	It is permitted from the outset.	É permitido desde o início.
+184	Why?	Por quê?
+185	Because it is considered returning a lost object, returning a lost object to the poor man.	Porque é considerado devolver um objeto perdido, devolver um objeto perdido ao pobre.
+186	I want to get his pledge back.	Eu quero receber o penhor dele de volta.
+187	Surely it is pleasing to him that he repay the loan in this way.	Certamente é do agrado dele pagar o empréstimo dessa maneira.
+188	So you might say: then let's do better, let me use the tool myself, and thereby deduct.	Então alguém dirá: vamos fazer melhor, eu mesmo uso a ferramenta e assim abato.
+189	In a case where there was a loan and this is a pledge, that looks like interest.	Num caso em que houve um empréstimo e isto é um penhor, parece juros.
+190	That is a problem.	Isso é um problema.
+191	Therefore, specifically renting to others is permitted.	Por isso, justamente alugar a outros é permitido.
+192	Then I receive money, and this money I deduct from the poor man's loan.	Então recebo dinheiro, e esse dinheiro eu abato do empréstimo do pobre.
+193	Look at the Bartenura.	Vejam o Bartenura.
+194	Rabbenu Ovadiah of Bartenura says: a person is permitted to rent out to others	Rabenu Ovadia de Bartenura diz: é permitido a uma pessoa alugar a outros
+195	a poor man's pledge, since it is in his power to set a rent on it, continually reducing	o penhor de um pobre, pois está em seu poder estipular um aluguel sobre ele, reduzindo continuamente
+196	the debt, and only with a pledge whose rent is high and whose depreciation is small.	a dívida, e somente com um penhor cujo aluguel é alto e cujo desgaste é pequeno.
+197	Specifically a pledge whose rent is great and whose depreciation is small, such as a hoe	Especificamente um penhor cujo aluguel é grande e cujo desgaste é pequeno, como uma enxada
+198	and an axe and the like; these are work tools whose depreciation is small.	e um machado e semelhantes; são ferramentas de trabalho cujo desgaste é pequeno.
+199	But their rent is large, and so is the halachah, but all this is specifically for others,	Mas o aluguel delas é grande, e assim é a halachá, mas tudo isso é justamente para outros,
+200	not for himself.	não para si mesmo.
+201	What did you want to interject?	O que você queria interromper para dizer?
+202	His authorized agent.	O seu representante.
+203	Even without being his agent, it is fine with him, certainly, yes.	Mesmo sem ser seu representante, para ele está bem, certamente, sim.
+204	His authorized agent.	O seu representante.
+205	Yes, now I am like one returning it, I am doing him a favor, certainly.	Sim, agora sou como quem devolve, estou lhe fazendo um favor, certamente.
+206	Excellent.	Excelente.
+207	And Mishnah 8; the Mishnah says: one who carries a barrel from place to place and broke it.	E a mishná 8; diz a Mishná: quem transporta um barril de um lugar para outro e o quebrou.
+208	Whether an unpaid guardian or a paid guardian, he swears.	Seja shomer chinam, seja shomer sachar, jura.
+209	What does "he swears" mean?	O que significa "jura"?
+210	He swears that he was not negligent, and he is exempt from paying.	Jura que não foi negligente, e fica isento de pagar.
+211	Rabbi Eliezer says: both of them swear, and both of them are able	Rabi Eliezer diz: ambos juram, e ambos podem
+212	to swear.	jurar.
+213	What is the meaning here?	Qual é o sentido aqui?
+214	The point is not so understandable, why?	O ponto não é tão compreensível, por quê?
+215	Because you say to me: now I am carrying a barrel for my friend.	Porque você me diz: agora estou transportando um barril para o meu amigo.
+216	I carry a barrel for him.	Transporto um barril para ele.
+217	Whether an unpaid guardian or a paid guardian.	Seja shomer chinam, seja shomer sachar.
+218	They carry a barrel for him from place to place, and this barrel broke on me.	Transportam um barril para ele de um lugar para outro, e esse barril quebrou comigo.
+219	I come to the beit din, and I only need to swear that I was not negligent.	Venho ao beit din, e só preciso jurar que não fui negligente.
+220	I didn't do it on purpose, nor with carelessness bordering on negligence.	Não fiz de propósito, nem com descuido próximo da negligência.
+221	No.	Não.
+222	I tried to do things properly, I suddenly bumped into something, or some particular thing happened,	Eu me esforcei para fazer as coisas como devia, esbarrei de repente em algo, ou aconteceu alguma coisa,
+223	it broke, what can I do?	quebrou, o que posso fazer?
+224	Now he can say to me: what is this, what are you doing?	Agora ele pode me dizer: o que é isso, o que você está fazendo?
+225	You are a paid guardian, I paid you for this.	Você é shomer sachar, eu lhe paguei por isso.
+226	So why don't you pay me?	Então por que você não me paga?
+227	So this is really the Mishnah's puzzlement.	Então essa é, na verdade, a perplexidade da Mishná.
+228	One who carries a barrel from place to place and broke it, whether an unpaid guardian or a paid guardian, swears.	Quem transporta um barril de um lugar para outro e o quebrou, seja shomer chinam, seja shomer sachar, jura.
+229	Rabbi Eliezer says: both swear, and both are able to swear.	Rabi Eliezer diz: ambos juram, e ambos podem jurar.
+230	That is, he doesn't understand why both can swear, how they are exempt by that.	Ou seja, ele não entende por que ambos podem jurar, como ficam isentos assim.
+231	So the Gemara really elaborates here on this Mishnah.	Então a Guemará realmente se estende aqui nesta Mishná.
+232	The conclusion of the Gemara is that in truth, by Torah law, they are obligated to pay for	A conclusão da Guemará é que, na verdade, pelo din da Torá, eles são obrigados a pagar
+233	the barrel.	pelo barril.
+234	But the Sages instituted that they be exempt	Mas os Sábios instituíram que ficassem isentos
+235	by means of an oath, because if we obligate them, no one will want to help his fellow.	por meio de um juramento, pois se os obrigarmos, ninguém vai querer ajudar o próximo.
+236	So it is a special enactment, rabbinic.	Então é uma takaná especial, de ordem rabínica.
+237	Look at the Bartenura.	Vejam o Bartenura.
+238	Rabbenu Ovadiah of Bartenura says.	Diz Rabenu Ovadia de Bartenura.
+239	Whether an unpaid guardian or a paid guardian, he swears, each according to his case; he swears that he was not negligent.	Seja shomer chinam, seja shomer sachar, jura, cada um segundo o seu caso; jura que não foi negligente.
