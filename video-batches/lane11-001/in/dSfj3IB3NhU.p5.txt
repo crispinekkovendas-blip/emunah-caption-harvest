@@ -1,0 +1,71 @@
+videoId: dSfj3IB3NhU
+parte 6 de 6 · traduzir as linhas 600 a 646 (47 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A lua diminuída, os sete cordeiros e o Or HaChaim
+RESUMO: A aula retoma o Zohar de Parashat Balak, com o Ben Ish Chai, sobre a oferenda de pecado (chatat): a lua era "olá" (subida), foi rebaixada, e HaShem pede "tragam expiação por Mim, pois diminuí a lua". Segundo a Gemará (Chulin 60b), a lua reclamou que dois reis não usam uma só coroa. O rabino liga isso aos pés (a lua desceu aos pés, "a terra é escabelo dos Meus pés") e conta a história do Baal Shem Tov e do Or HaChaim HaKadosh, que não via os pés dele subindo. Depois o Zohar explica "um cordeiro, dois cordeiros" e "sete cordeiros" como as sefirot (Keter; Chochmá e Biná; as sete inferiores), ligadas aos sete dias da lua e a Kiddush Levaná. A parte central são histórias do Or HaChaim: o rei do Marrocos e os leões, o leão no deserto do Saara, o naufrágio e o chefe dos ladrões que fez teshuvá. Por fim vêm o sepultamento no Monte das Oliveiras, a data da hilulá, a grandeza de sua Torá e a bênção de encerramento, com a Mishná de Rabi Chananiá ben Akashiá.
+MOMENTOS: 00:12 Misericórdia vira juízo na descida: a chatat (Ben Ish Chai) · 01:44 HaShem pede expiação por ter diminuído a lua · 04:13 Baal Shem Tov, Or HaChaim e a visão dos pés · 08:41 HaShem tenta apaziguar a lua e pede kaparáh · 10:57 "A pedra que os construtores rejeitaram" e o nome HaVaYaH · 12:06 Hitler, Jerusalém e o sinal no túmulo do Or HaChaim · 28:39 Zohar: um cordeiro, dois cordeiros, sete cordeiros · 30:06 Sete dias da lua e Kiddush Levaná · 33:08 Or HaChaim, o rei do Marrocos e os leões · 37:42 O leão no Saara e a guarda da aliança · 44:34 Naufrágio e o chefe dos ladrões que fez teshuvá · 51:10 Enterro no Monte das Oliveiras e o portal do Gehinom
+FONTES CITADAS: 00:12 Ben Ish Chai, sobre o Zohar Balak · 01:25 Zohar, Parashat Balak · 02:03 Chulin 60b · 03:13 Zohar, Parashat Balak · 08:41 Chulin 60b · 09:21 Amós 7:2 · 09:44 Bamidbar 28:15 · 10:32 Yeshayahu 66:1 · 10:48 Shemuel II 23:3 · 10:57 Tehilim 118:22 · 11:21 Berachot 64a · 11:21 Birkot HaShachar · 11:30 Pirkei deRabi Eliezer 45 · 12:40 Tehilim 96:11 · 12:58 Bamidbar 28:11 · 13:15 Shemot 31:15 · 27:47 Mishná Taanit 4:6 · 28:39 Zohar, Parashat Balak · 29:32 Zohar III 149b · 30:06 Shulchan Arukh, Orach Chaim 426 · 30:53 Arizal, sobre Kiddush Levaná · 32:18 Arizal, Shaar HaKavanot · 32:24 Bava Batra 75a · 33:20 Tehilim 119:72 · 38:48 Bereshit 9:6 · 39:33 Tikun HaKlali, Rabi Nachman de Breslev · 44:48 Tehilim 119:92 · 44:57 Or HaChaim HaKadosh · 46:42 Yoma 85b · 49:51 Mishná Sanhedrin 9:1 · 51:39 Sucá 32b · 54:44 Rambam, sobre queimar bens em honra do rei · 54:50 Gitin 62a · 55:00 Idra Raba e Idra Zuta · 55:53 Baal Shem Tov · 56:18 Or HaChaim, Rishon LeTzion · 56:44 Mi sheberach de Rabi Meir Baal HaNes / Rabi Lior · 58:36 Mishná Makot 3:16 · 58:48 Yeshayahu 42:21 · 59:06 Kadish
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|54:31|כי פעם שאלו, פעם היו רבנים שרצו להגיד איך שורפים בגדים, אולי יותר לתת לעניים.
+589|54:37|אז אמר מנמלכי רבנן, כתוב שהיו שורפים בגדים, מביא הרמב״ם, שהיו שורפים בגדים
+590|54:43|לכבוד המלך.
+591|54:44|אז מי נקרא מלכי רבנן?
+592|54:47|רבי שמעון ברוך הוא נקרא מלך המלכים.
+593|54:50|ודאי שצריך לשרוף לכבודו.
+594|54:52|מנמלכי רבנן.
+595|54:53|לכן מעלה גדולה מאוד.
+596|54:55|כך אמר רבי חיים הקדוש, וכל הלילה יושב ולומד באדרות של רבי שמעון.
+597|55:00|ואדר רבא ואדרזותא עם כל התלמידים שלו הקדושים ביום הל"ג בעומר והריחו פתאום
+598|55:06|היכול של גן עדן בתוך המערה של רבי שמעון ברוך חי למה?
+599|55:11|כי ידוע שכשרבי שמעון ברוך חי עמד להיפדר מן העולם ירדו כל הצדיקים מגן עדן אליו
+
+LINHAS A TRADUZIR:
+600|55:18|רבי פנחס בן יאיר, כל הצדיקים ללוות אותו כמו ספר תורה שמרנסים להיכל מוציאים לקראתו
+601|55:24|ספרים אחרים, גם כל הצדיקים יצאו לקראתו, אז באו עם ריחות של גן עדן, המערה, אז גם בל"ג
+602|55:30|בעומר שהתנא, שהיה אורחיים הקדוש שמה במירון, זכו לריחות של גן עדן.
+603|55:36|שזה, אנחנו נבין רק את המעלה הגדולה של אורחיים הקדוש,
+604|55:41|שאין להבין איזה קודש קודשים נשמה, אומר הבעל שם תו הקדוש,
+605|55:48|כל לילה נשמתו של אורחיים הקדוש, ככה מעיד הבעל שם תו כל לילה
+606|55:53|נשמתו של אור החיים הקדוש עולה ולומדת תורה מפי הקדוש ברוך הוא.
+607|55:58|ככה עיד הבעל שם טוב הקדוש.
+608|56:01|תורה שלו כולה מפי בורא עולם.
+609|56:05|זאת אומרת כמו משה רבנו קיבל תורה מסיני, ככה גם אור החיים הקדוש קיבל את התורה
+610|56:10|שלו מהקדוש ברוך הוא ישיר אותו.
+611|56:13|עשו אתכם מה זה ספר אור החיים הקדוש על התורה.
+612|56:16|הוא חיבר גם לא רק על התורה.
+613|56:18|יש לו ראשון לציון על הנביאים, יש לו הלכות גם הלכות של
+614|56:24|כל מיני הלכות בשולחן ערוך, שכל מיני הלכות שאנחנו רואים שפסק
+615|56:30|בהלכות כאלה גדולות, אין דבר בתורה שלא עמד וחקר.
+616|56:35|כמה הייתה מעלתו גדולה של רביון בקדוש.
+617|56:38|לכן, בעזרת השם, זכותות כה ממנה נחנה משרה.
+618|56:44|טוב רבותיי נגיד את הברכה של מור אבי, הברכה של רבי ליאור מנשה ליאור, בזכות
+619|56:50|הצדיקים שמונה גבריהם, אשר הם עלה משאלותינו, ישלח משיח
+620|56:56|לצדקנו ויגמור מכל צרותינו, מי שבירך אמותינו, אברהם, יצחק ויעקב, משה אהרון, יסוד אביו
+621|57:02|ושלמה, הנביא יחזקאל, שמואל הנביא, חבקוק הנביא, עזרא הסופר, התנא
+622|57:07|הקדוש רבי יעקב התנא קדוש רבי שמעון ברוך היה אלעזר בנו, רבינו חיים בן האתר!
+623|57:11|הנה אבא הביא אותו, קדוש, רבינו עוזאל, רבינו נחמן בפגה, רבינו נתן,
+624|57:17|רבינו מלך מזנסקי רבי מרדכי הצדיק וגם ממי שדיברנו רבי יעקב ברוחצירא
+625|57:24|אמרנו עוד רבי מרדכי שרה ברשש רבי שלום שרה ברבנו יוסף
+626|57:30|חיים אברהם ושרה יצחק ורבקה יעקב ורחל אסתר המלכה אליהו הנביא אליהו התשבי
+627|57:36|יברך הקהל הזה ויקיים בהם הברכה של יעקב אבינו עליו השלום ויברך את הנערים
+628|57:42|אש עדיין שבריכם ובריכם ייתן לכם רחמים שמאי ייתן לכם רפואה של אימה רפואת היום ושפת הגוף
+629|57:48|החלמה שלמה אתם לכל משפחותיכם, שמיים יעשה שלום בעיניכם, שלום בית שלום משפחה ייתן
+630|57:54|לכם, שמיים ישמור כל חיילי ישראל נסעו לשלום ויחזרו לביתם לשלום,
+631|58:01|שמיים ישלח להם בת זוגתם כל נערים ונערות להקים בית נאמן בישראל, שמיים
+632|58:07|בשם בקד תצרי, יום לפקוד כל שרה אישה שחסר לה ילדים או שרוצה עוד ילדים ימלא
+633|58:13|משלותה לטובה אבינו שמיים וחדש עליהם את
+634|58:19|החודש הזה טובה ולברכה ואני צבעתי לך אדוני את רצון
+635|58:24|אלוהים ברוב חסדך אין לבית ישעך ואתה שומע תפילת כל פה כולכם בואכים בשמיים תורתו
+636|58:30|מגן לנו מהירתנו אביר חנניה בן הקשיא אומר רבותיי
+637|58:37|לא לדבר בקדיש בבקשה אביר חנניה בן הקשיא אומר רצה הקדוש
+638|58:42|ברוך הוא לזכות את ישראל לפיכך הרבה להם תורה ומצוות שנאמר
+639|58:48|אדוני חפץ למען צדקו רבותיי לא לדבר בקדיש
+640|58:54|בבקשה רבי יחנניה בן הקשיא אומר רצה הקדוש ברוך הוא לזכות את ישראל לפיכך
+641|59:00|הרבה להם תורה ומצוות שנאמר אדוני חפץ למען צדקו יגדיל תורה
+642|59:06|ויאדיר גדל ויתקדש אמר הבא
+643|1:00:17|רבותיי כל מי שעוד לא נרשם בבקשה לבוא אליי להירשם וגם ספיר הספר
+644|1:00:22|של רבי קיקה במובן בעזרת השם שהוא יצא בראש השנה בעזרת השם תבוא אליכם עוד אחת
+645|1:00:29|טוב רבותיי בעזרת השם אני מבקש הקהל הקדוש לא לעכב אותי אני לא כל כך מרגיש
+646|1:00:34|טוב אני מבקש שלא לעכב אותי בבקשה
