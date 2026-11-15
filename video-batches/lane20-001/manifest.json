@@ -1,0 +1,87 @@
+{
+ "name": "lane20-001",
+ "lane": 20,
+ "created": "2026-11-15T23:08:43.923Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "gpzlEgR3ZYw",
+   "title": "Os três amigos de Avraham e a revelação em Elonei Mamre",
+   "lines": 798,
+   "parts": 7,
+   "from": "recente"
+  },
+  {
+   "id": "MdO0a2e980k",
+   "title": "Do exílio à redenção: como ser luz para as nações",
+   "lines": 634,
+   "parts": 6,
+   "from": "recente"
+  },
+  {
+   "id": "sOGUsuArb6g",
+   "title": "A tirania na geração de Noach e nos dias de hoje",
+   "lines": 975,
+   "parts": 9,
+   "from": "recente"
+  },
+  {
+   "id": "ZfJxAbNdBLE",
+   "title": "Preparação para as Selichot: honrar para poder perdoar",
+   "lines": 555,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "wOUY4bT9TJo",
+   "title": "Tikunei HaZohar 11: vestes, anjos e o fogo das letras",
+   "lines": 385,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "0hlQ_2dRhcc",
+   "title": "Daniel 11: de Roma aos dez mártires do reino",
+   "lines": 437,
+   "parts": 4,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "gpzlEgR3ZYw.p0",
+  "gpzlEgR3ZYw.p1",
+  "gpzlEgR3ZYw.p2",
+  "gpzlEgR3ZYw.p3",
+  "gpzlEgR3ZYw.p4",
+  "gpzlEgR3ZYw.p5",
+  "gpzlEgR3ZYw.p6",
+  "MdO0a2e980k.p0",
+  "MdO0a2e980k.p1",
+  "MdO0a2e980k.p2",
+  "MdO0a2e980k.p3",
+  "MdO0a2e980k.p4",
+  "MdO0a2e980k.p5",
+  "sOGUsuArb6g.p0",
+  "sOGUsuArb6g.p1",
+  "sOGUsuArb6g.p2",
+  "sOGUsuArb6g.p3",
+  "sOGUsuArb6g.p4",
+  "sOGUsuArb6g.p5",
+  "sOGUsuArb6g.p6",
+  "sOGUsuArb6g.p7",
+  "sOGUsuArb6g.p8",
+  "ZfJxAbNdBLE.p0",
+  "ZfJxAbNdBLE.p1",
+  "ZfJxAbNdBLE.p2",
+  "ZfJxAbNdBLE.p3",
+  "ZfJxAbNdBLE.p4",
+  "wOUY4bT9TJo.p0",
+  "wOUY4bT9TJo.p1",
+  "wOUY4bT9TJo.p2",
+  "wOUY4bT9TJo.p3",
+  "0hlQ_2dRhcc.p0",
+  "0hlQ_2dRhcc.p1",
+  "0hlQ_2dRhcc.p2",
+  "0hlQ_2dRhcc.p3"
+ ]
+}
