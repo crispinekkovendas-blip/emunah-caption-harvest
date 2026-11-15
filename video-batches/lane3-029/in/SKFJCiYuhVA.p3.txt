@@ -1,0 +1,30 @@
+videoId: SKFJCiYuhVA
+parte 4 de 4 · traduzir as linhas 360 a 365 (6 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Bava Metzia 4:3-5: leis de Ona'á e moedas desgastadas
+RESUMO: O rabino começa a Mishná 3 do capítulo 4 de Bava Metzia explicando as leis de Ona'á (fraude em preço): até um sexto do valor a venda vale e há perdão, exatamente um sexto a venda vale mas o excedente é devolvido, e acima de um sexto a venda é anulada. Ele ensina que o cálculo é feito "mi-lagav" (por dentro) e não "mi-levar", e que vale tanto para o comprador quanto para o vendedor. Com a fórmula "Sedam Pe'a Dovav" (Sela, Dinar, Ma'á, Pundion, Isar), mostra que a Sela tem 24 ma'ot de prata, e portanto quatro ma'ot são um sexto, conforme Rabeinu Ovadia de Bartenura. Explica o prazo para reclamar ("até que mostre a um negociante ou parente"), o caso de Rabi Tarfon em Lod, que fixou um terço e um dia inteiro, e como os comerciantes voltaram à opinião dos Sábios. Na Mishná 4 discute-se se o negociante também tem Ona'á, com Rabi Yehuda dizendo que não, e a halachá não seguindo a parte final da Mishná. Na Mishná 5, calcula quanto uma moeda pode estar gasta sem haver Ona'á, segundo Rabi Meir (1/24), Rabi Yehuda (1/12) e Rabi Shimon (1/6), com a halachá seguindo o critério de um sexto.
+MOMENTOS: 00:43 Introdução às leis de Ona'á · 01:41 Três níveis: perdão, devolução, anulação · 02:46 Ona'á vale para comprador e vendedor · 03:43 Cálculo mi-lagav versus mi-levar · 05:26 Mishná 3: quatro ma'ot por Sela · 05:56 Fórmula Sedam Pe'a Dovav e as moedas · 10:30 Até quando é possível reclamar · 13:24 Rabi Tarfon em Lod e os comerciantes · 15:45 Mishná 4: Ona'á para o negociante · 17:26 Rabi Yehuda: não há Ona'á para o negociante · 20:12 Mishná 5: moeda desgastada · 22:44 Rabi Meir: um isar por dinar (1/24) · 25:07 Rabi Yehuda e Rabi Shimon, critério de um sexto
+FONTES CITADAS: 00:02 Bava Metzia 4:3 · 00:09 Mishná Bava Metzia 4:3 · 00:17 Mishná Bava Metzia 4:3 · 00:25 Mishná Bava Metzia 4:3 · 03:30 Bava Metzia (Gemará sobre Ona'á) · 04:49 Halachá sobre Ona'á · 05:35 Bartenura em Bava Metzia 4:3 · 06:42 Fórmula Sedam Pe'a Dovav · 10:03 Bartenura em Bava Metzia 4:3 · 11:29 Mishná Bava Metzia 4:3 · 12:06 Bartenura em Bava Metzia 4:3 · 12:36 Bava Metzia (Gemará sobre Ona'á em um sexto) · 14:35 Mishná Bava Metzia 4:3 · 14:56 Mishná Bava Metzia 4:3 · 15:16 Mishná Bava Metzia 4:3 · 15:45 Mishná Bava Metzia 4:4 · 15:59 Mishná Bava Metzia 4:4 · 16:02 Mishná Bava Metzia 4:4 · 17:48 Bartenura em Bava Metzia 4:4 · 19:22 Bartenura em Bava Metzia 4:4 · 19:45 Mishná Bava Metzia 4:5 · 19:57 Mishná Bava Metzia 4:5 · 20:02 Mishná Bava Metzia 4:5 · 21:11 Bartenura em Bava Metzia 4:5 · 22:44 Bartenura em Bava Metzia 4:5 · 25:07 Bartenura em Bava Metzia 4:5 · 27:11 Bartenura em Bava Metzia 4:5
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|26:09|זאת אומרת, זה שמונה פונדניות לסלע, שזה שני פונדניות לדינר.
+349|26:15|ממילא, אם זה שמונה פונדניות, אז זה שישה עשר ישרים.
+350|26:19|אם זה שישה עשריסרין, ויש שישה עשריסרין, אני לוקח לסלע שצריך להיות שמה
+351|26:26|תשעים ושש עשרין, תשעים ושש לחלק לשישה עשר, יוצא
+352|26:32|לנו שש.
+353|26:35|בדיוק.
+354|26:35|שש כפול שש עשרה זה תשעים ושש.
+355|26:38|זה יוצא שטות.
+356|26:41|ואז יוצא לנו מכאן, שזה בעצם האופן הזה, שזה...
+357|26:47|גם בסלע, גם במטבע, הולכים בתר שטות.
+358|26:50|שאם הוא נשחק עד שישית, זה עדיין אין בזה עונה.
+359|26:55|רבי שמעון אומר שמונה פונדניות, באופן ששני פונדניות לדינאר.
+
+LINHAS A TRADUZIR:
+360|27:01|שש פונדניות לדינאר, מכיוון שאתה מחלק את זה לארבע, כמו שאמרנו, אז זה
+361|27:07|יוצא שני פונדניות לדינאר, אז זה יוצא בדיוק שטות.
+362|27:11|אומר הבאותנורה, חטא פונדניונים.
+363|27:14|שטות כשער הונאה וכן הלכה.
+364|27:18|אז גם בדבר הזה, אז לינן בתר שטות וכך להלכה.
+365|27:24|ברוך אדוני לעולם, אמן ואמן.

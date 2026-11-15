@@ -1,0 +1,128 @@
+{
+ "name": "lane3-029",
+ "lane": 3,
+ "created": "2026-11-15T23:41:43.179Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "fNX4xwqV1Sc",
+   "title": "A alma adormecida: despertar o coração para servir HaShem",
+   "lines": 443,
+   "parts": 4,
+   "from": "recente"
+  },
+  {
+   "id": "SKFJCiYuhVA",
+   "title": "Bava Metzia 4:3-5: leis de Ona'á e moedas desgastadas",
+   "lines": 366,
+   "parts": 4,
+   "from": "recente"
+  },
+  {
+   "id": "wuat6EoR1vA",
+   "title": "Luz envolvente, rosto iluminado e o pecado do bezerro",
+   "lines": 1104,
+   "parts": 10,
+   "from": "recente"
+  },
+  {
+   "id": "SGAiEjrkkyE",
+   "title": "Infusão espiritual: o Zohar e o retorno de todo judeu",
+   "lines": 1523,
+   "parts": 13,
+   "from": "mais fontes"
+  },
+  {
+   "id": "Rn_AOO7s0To",
+   "title": "Unidade ou morreremos: a mensagem de Parashat Vayechi",
+   "lines": 533,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "pm9rX3884wU",
+   "title": "A oração de Daniel pela redenção: confissão antes do pedido",
+   "lines": 581,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "dGKKDECKVNY",
+   "title": "A Hanhagá principal de HaShem: o Tikun Klali segundo o Ramchal",
+   "lines": 669,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "CZ2QJz44Phc",
+   "title": "Eternidade do mundo, imaginação e Ein Od Milvado",
+   "lines": 547,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "aPIpA-cG1cM",
+   "title": "Abertura à Cabalá: Shevirat HaKelim e os reis de Nikudim",
+   "lines": 344,
+   "parts": 3,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "fNX4xwqV1Sc.p0",
+  "fNX4xwqV1Sc.p1",
+  "fNX4xwqV1Sc.p2",
+  "fNX4xwqV1Sc.p3",
+  "SKFJCiYuhVA.p0",
+  "SKFJCiYuhVA.p1",
+  "SKFJCiYuhVA.p2",
+  "SKFJCiYuhVA.p3",
+  "wuat6EoR1vA.p0",
+  "wuat6EoR1vA.p1",
+  "wuat6EoR1vA.p2",
+  "wuat6EoR1vA.p3",
+  "wuat6EoR1vA.p4",
+  "wuat6EoR1vA.p5",
+  "wuat6EoR1vA.p6",
+  "wuat6EoR1vA.p7",
+  "wuat6EoR1vA.p8",
+  "wuat6EoR1vA.p9",
+  "SGAiEjrkkyE.p0",
+  "SGAiEjrkkyE.p1",
+  "SGAiEjrkkyE.p2",
+  "SGAiEjrkkyE.p3",
+  "SGAiEjrkkyE.p4",
+  "SGAiEjrkkyE.p5",
+  "SGAiEjrkkyE.p6",
+  "SGAiEjrkkyE.p7",
+  "SGAiEjrkkyE.p8",
+  "SGAiEjrkkyE.p9",
+  "SGAiEjrkkyE.p10",
+  "SGAiEjrkkyE.p11",
+  "SGAiEjrkkyE.p12",
+  "Rn_AOO7s0To.p0",
+  "Rn_AOO7s0To.p1",
+  "Rn_AOO7s0To.p2",
+  "Rn_AOO7s0To.p3",
+  "Rn_AOO7s0To.p4",
+  "pm9rX3884wU.p0",
+  "pm9rX3884wU.p1",
+  "pm9rX3884wU.p2",
+  "pm9rX3884wU.p3",
+  "pm9rX3884wU.p4",
+  "dGKKDECKVNY.p0",
+  "dGKKDECKVNY.p1",
+  "dGKKDECKVNY.p2",
+  "dGKKDECKVNY.p3",
+  "dGKKDECKVNY.p4",
+  "dGKKDECKVNY.p5",
+  "CZ2QJz44Phc.p0",
+  "CZ2QJz44Phc.p1",
+  "CZ2QJz44Phc.p2",
+  "CZ2QJz44Phc.p3",
+  "CZ2QJz44Phc.p4",
+  "aPIpA-cG1cM.p0",
+  "aPIpA-cG1cM.p1",
+  "aPIpA-cG1cM.p2"
+ ]
+}
