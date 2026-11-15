@@ -164,10 +164,39 @@ function sources(lesson) {
   return list
 }
 
+/**
+ * a lesson with gaps, still open in a lane batch: every piece of it whose lines all have a saved good translation
+ * gets its output file, so the lane translates only the pieces with real gaps (2026-11-15: 0g-eVAkDRJM lacks 1 of
+ * 1,532 lines, yet all 13 of its pieces were waiting to be translated again)
+ */
+function fill(lesson, tr) {
+  const done = []
+  for (const b of lesson.batches) {
+    const m = manifests.get(b)
+    if (m.status === 'done' || (m.done || []).includes(lesson.id) || (m.skipped || []).includes(lesson.id)) continue
+    for (const c of m.chunks) {
+      if (c.replace(/\.p\d+$/, '') !== lesson.id) continue
+      const f = path.join(DIR, b, 'out', `${c}.txt`)
+      if (fs.existsSync(f)) continue
+      const w = work(b, c)
+      if (!w) continue
+      const lines = []
+      for (let i = w.from; i <= w.to; i++) {
+        if (!tr.has(i)) break
+        lines.push(`${i}\t${tr.get(i)[0]}\t${tr.get(i)[1]}`)
+      }
+      if (lines.length !== w.to - w.from + 1) continue
+      fs.writeFileSync(f, lines.join('\n') + '\n')
+      done.push(`${b}/${c}`)
+    }
+  }
+  return done
+}
+
 /* ── rebuild ───────────────────────────────────────────────────────────────────────────────────────────── */
 const name = `salvage-${String(salvageDirs.length + 1).padStart(3, '0')}`
 const OUT = path.join(DIR, name)
-const result = { name, created: new Date().toISOString(), looked: lessons.size, salvaged: [], incomplete: [], changed: [], elsewhere: [], errors: [] }
+const result = { name, created: new Date().toISOString(), looked: lessons.size, salvaged: [], filled: [], incomplete: [], changed: [], elsewhere: [], errors: [] }
 const ready = []
 let k = 0
 for (const lesson of lessons.values()) {
@@ -200,6 +229,8 @@ for (const lesson of lessons.values()) {
   const missing = []
   for (let i = 0; i < n; i++) if (!tr.has(i)) missing.push(i)
   if (missing.length) {
+    const filled = fill(lesson, tr)
+    if (filled.length) result.filled.push({ id: lesson.id, pieces: filled })
     if (stale) result.changed.push({ id: lesson.id, why: `${stale} of ${list.length} replies were made on other Hebrew lines; ${missing.length} of ${n} lines left` })
     else result.incomplete.push({ id: lesson.id, lines: n, missing: missing.length, first: missing.slice(0, 8) })
     continue
@@ -244,6 +275,9 @@ console.log(
   `\n${lessons.size} lessons never published: ${ready.length} rebuilt whole (${lines} lines), ${result.incomplete.length} with lines no reply translated, ` +
     `${result.changed.length} whose transcript changed, ${result.elsewhere.length} already translated since, ${result.errors.length} Supabase errors`,
 )
+const pieces = result.filled.reduce((s, x) => s + x.pieces.length, 0)
+console.log(`pieces of lessons with gaps filled from saved replies (the lanes skip them): ${pieces} in ${result.filled.length} lessons`)
+for (const x of result.filled) console.log(`  filled     ${x.id}: ${x.pieces.join(' ')}`)
 for (const x of result.incomplete) console.log(`  incomplete ${x.id}: ${x.missing} of ${x.lines} lines missing (${x.first.join(', ')}…)`)
 for (const x of result.changed) console.log(`  changed    ${x.id}: ${x.why}`)
 for (const x of result.errors) console.log(`  error      ${x.id}: ${x.why}`)
@@ -255,6 +289,7 @@ summary(
     '|---|---|',
     `| never published (looked at) | ${lessons.size} |`,
     `| **rebuilt whole from saved replies** | **${ready.length}** (${lines} lines) |`,
+    `| with gaps: pieces filled in their lane batch | ${result.filled.length} (${pieces} pieces) |`,
     `| lines no saved reply translated | ${result.incomplete.length} |`,
     `| transcript changed since | ${result.changed.length} |`,
     `| already translated since | ${result.elsewhere.length} |`,
@@ -263,3 +298,4 @@ summary(
 )
 output('batch', name)
 output('count', String(ready.length))
+output('filled', String(pieces))

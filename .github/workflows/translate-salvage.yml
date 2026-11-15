@@ -49,12 +49,12 @@ jobs:
         if: inputs.publish && steps.build.outputs.count != '0'
         run: node scripts/batch-salvage.mjs --mark ${{ steps.build.outputs.batch }}
       - name: Commit
-        if: inputs.publish && steps.build.outputs.count != '0'
+        if: inputs.publish && (steps.build.outputs.count != '0' || steps.build.outputs.filled != '0')
         run: |
           git config user.name "video-batches"
           git config user.email "actions@github.com"
           git add video-batches
-          git diff --cached --quiet || git commit -q -m "video-batches: ${{ steps.build.outputs.batch }} — lessons rebuilt from the saved replies and published (no new translation)"
+          git diff --cached --quiet || git commit -q -m "video-batches: ${{ steps.build.outputs.batch }} — lessons rebuilt from the saved replies and published, pieces filled (no new translation)"
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
       - name: Keep the dry run's files for a look
         if: ${{ !inputs.publish }}
