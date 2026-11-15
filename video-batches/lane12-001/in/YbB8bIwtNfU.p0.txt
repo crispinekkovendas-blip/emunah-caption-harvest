@@ -1,0 +1,130 @@
+videoId: YbB8bIwtNfU
+parte 1 de 8 · traduzir as linhas 0 a 119 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: O mérito do esforço na Torá e do estudo em grupo
+RESUMO: O rabino começa com a regra da Gemará de que se deve primeiro ler e depois explicar (Avodá Zará 19a), apoiada no versículo "garsá nafshi leta'avá" (Tehilim 119:20). Cita Rabbenu Bachya, o Magen Avraham e o Rav Chida: ler sem entender já cumpre "vehagita bo yomam valaila" (Yehoshua 1:8), embora a Torá oral exija compreensão. Pelo Zohar (Kedoshim), quem estuda sozinho e erra por falta de rav ainda recebe recompensa, mas quem tem rav que o ensina errado não recebe. Depois, com Rambam e Semag, mostra que a pobreza não é desculpa: Hilel, Rabi Akiva, Rabi Chanina ben Dosa e outros estudaram na miséria. Isso leva a "Adam le'amal yulad" (Sanhedrin 99b) e à história do Rav Aharon Kotler. Em seguida trata da fixação de tempo e lugar de estudo, com o Zohar sobre o ninho de pássaro (Devarim 22:6) e o Maggid de Rav Yosef Karo. Termina com o estudo em grupo ("ein haTorá nikneit ela bachavurá"), a multiplicação do mérito segundo Vayikrá 26:8 e Iyov 6.
+MOMENTOS: 00:00 Primeiro ler, depois explicar (Avodá Zará 19a) · 02:26 Rabbenu Bachya: ler sem entender já é mitzvá · 04:17 Magen Avraham: Torá escrita e Torá oral · 06:46 Repetir o versículo: os mundos mudam a cada instante · 10:40 Zohar: estudar sem rav e o rav que erra · 13:17 Como escolher um rav (Chida e Chatam Sofer) · 15:59 Rambam e Semag: pobreza não é desculpa · 17:36 Hilel, Rabi Akiva e outros sábios pobres · 28:54 Adam le'amal yulad e Iyov 28 · 33:03 A história do Rav Aharon Kotler · 41:50 Fixar tempo e lugar de estudo · 45:56 Zohar: o ninho de pássaro e o estudante fixo · 49:57 Estudo em grupo e a multiplicação do mérito · 52:41 Iyov 6 e a doçura da Torá
+FONTES CITADAS: 00:00 Avodá Zará 19a · 01:11 Tehilim 119:20 · 02:26 Rabbenu Bachya · 03:50 Yehoshua 1:8 · 04:17 Magen Avraham sobre Shulchan Arukh, Orach Chaim · 04:48 Mishná Zevachim 5 (Eizehu Mekoman) · 05:22 Chok LeIsrael · 06:10 Rav Chida, Moreh BaEtzba · 06:44 Zohar Kedoshim 65 · 06:52 Bereshit 36:22 · 07:31 Bamidbar Rabá 13:15 · 08:51 Tehilim 150:6 · 09:25 Machzor de Yom Kipur, Vidui e Selichot · 09:43 Kohelet 9:7 · 09:49 Sidur, Amidá de Arvit, bênção Selach Lanu · 10:40 Zohar Kedoshim 65a · 11:53 Zohar Kedoshim 65 · 13:17 Rav Chida · 13:29 Chatam Sofer · 14:21 Rav Avraham Azulai · 14:27 Bereshit 37:24 · 14:52 Sanhedrin 99b · 16:17 Makkot 10a · 16:26 Rambam sobre a cidade de refúgio · 17:12 Semag (Rabenu Moshe de Coucy) · 17:36 Yomá 35b · 18:11 Yomá 35b · 19:13 Yomá 71b · 22:04 Taanit 24b · 23:41 Nedarim 50a · 25:15 Berachot 28a · 25:41 Pirkei DeRabi Eliezer · 26:00 Berachot 5b · 28:23 Gemará sobre Rav Kahana · 28:54 Sanhedrin 99b · 29:01 Iyov 5:7 · 29:20 Maran Rav Ovadia Yosef · 29:53 Iyov 28:13 · 30:20 Rambam, Hilchot Talmud Torá 3:9 · 31:30 Tehilim 119:105 · 31:59 Tehilim 1:1-2 · 32:11 Avodá Zará 19a · 32:35 Rambam · 41:05 Shabat 31a · 46:01 Devarim 22:6 · 46:09 Zohar Pinchas · 46:33 Zohar Pinchas · 47:16 Zohar Pinchas · 47:39 Shir HaShirim 8:13 · 49:02 Maggid Meisharim de Rav Yosef Karo, Parashat Bo · 49:57 Berachot 63b · 50:25 Maggid Meisharim de Rav Yosef Karo · 51:43 Vayikrá 26:8 · 51:49 Pesikta · 52:22 Rashi em Vayikrá 26:8 · 52:49 Iyov 6:6 · 55:24 Iyov 6:2 · 55:40 Rashi em Iyov 6:2 · 56:02 Iyov 6:3 · 56:23 Shir HaShirim 4:11
+
+LINHAS A TRADUZIR:
+0|00:00|עולם לגרוס עיני של הדר לסבך, זאת אומרת בלימוד תורה
+1|00:06|לא תמיד אפשר לבאר כבר בהתחלה, אלא קודם, משפט
+2|00:12|אדם שעוד לא למד טוב את הסוגיה, אז חדש בשבילו,
+3|00:19|קודם כל נקרא.
+4|00:23|וככה היו אומרים הראשונים, גרסה חצי ביאור.
+5|00:27|מה זה גרסה?
+6|00:29|כמו ריחיים של גרוסות, ככה שהיא כותבת.
+7|00:32|מה זה גרוסות, אה?
+8|00:35|ריחיים שלוקחים חיטים וקוטשים אותם לשתי
+9|00:41|חלקים או ארבע, ככה שהיא אומרת.
+10|00:44|זה בורגול.
+11|00:46|בורגול.
+12|00:49|אתה לא יודע מה זה בורגול?
+13|00:51|אני אקח אותך לשוק, בסדר.
+14|00:53|מחר סיור.
+15|00:55|בקיצור, אז לגרוס איניש ‫והאדר דיסבר.
+16|01:00|זאת אומרת, קודם יקרא, ‫ואחר כך יבאר את דבריו.
+17|01:05|‫למה?
+18|01:07|כדי שככה לאט לאט ‫ייכנס לתוך העניין.
+19|01:11|‫והביא פסוק שנאמר, ‫גרסה נפשי לתאווה.
+20|01:16|‫איפה זה?
+21|01:16|איוב?
+22|01:17|‫-אייבי.
+23|01:17|‫אה?
+24|01:22|‫-אייבי.
+25|01:22|‫בסדר.
+26|01:24|‫אז גרסה נפשי לתאווה, ‫מכאן הביא ראיה.
+27|01:28|שאפשר ללמוד תורה בהתחלה בגרסה ואחר כך יבהר.
+28|01:33|למה?
+29|01:34|כיוון שידוע יש מחלוקת גדולה בין הראשונים.
+30|01:37|האם מותר ללמוד תורה אדם שלומד תורה בלי להבין האם יוצא לידי חובה
+31|01:43|ללמוד תורה או לא?
+32|01:46|למה?
+33|01:59|‫כעיקר קיום מצוות עימות תורה, ‫שהוא יבין מה שהוא לומד.
+34|02:04|‫אבל אם הוא לא מבין, ‫זה לא קיים מצוות תורה.
+35|02:08|‫מה זה תורה?
+36|02:09|הוראה.
+37|02:09|‫הוראה שידע מה מותר, מה אסור, ‫מה עושים, מה לא עושים.
+38|02:14|‫אז צריך להבין.
+39|02:18|‫לכן אמר שבהתחלה מותר לקרוא ‫גם אם לא מבין, ‫ואחר כך יחזור
+40|02:24|ויבאר את דבריו.
+41|02:26|‫רבינו ברכי כותב, ‫על הנושא הזה, כי זה נושא די מצוי,
+42|02:32|‫מצוי לכל אחד מאיתנו.
+43|02:34|‫אומר, תדע, לקרוא, ‫אז איך אנחנו קוראים בתורה?
+44|02:38|‫בבית הכנסת, הבנת את כל הפרשה?
+45|02:40|‫-אני מתכוון איך אתה?
+46|02:41|‫פרשת בראשית, הבנת אותה?
+47|02:44|‫אני שאלתי, הוא אומר לי שני מקרא.
+48|02:46|‫מי הבין?
+49|02:48|פרשת בראשית, ‫אף פעם אי אפשר להבין אותה.
+50|02:51|‫עד היום, 70 שנה, לא הבנו אותה.
+51|02:53|‫אבל שבועה, מי יכול פה להסביר את זה?
+52|02:57|‫אז...
+53|02:57|אז מה עושים?
+54|02:59|אומר רבנו בחי, הנה אנחנו רואים בתורה ולא תמיד מבינים.
+55|03:02|הוא אומר, כן, יש בזה מצווה גדולה בעצם הקריאה.
+56|03:07|כן, ושכר גדול, לא רק מצווה, שכר גדול יש בעד זה.
+57|03:12|אומר לאותו דבר נביא, אם הוא כתובים, הוא קורא פסוקים.
+58|03:17|כמו בחוק לישראל שאתה קורא, יש שם פסוקים מאיוב, פסוקים
+59|03:23|מתהילים, אנחנו מבינים את הכל.
+60|03:29|הלוך ילך וברחום נושא משך הזרה, על מה הוא מדבר?
+61|03:33|בוא יבוא ברינן נושא הלומותיו ועוד ועוד, אפילו פסוקים רגילים,
+62|03:39|נו, לא תמיד אני מבין הכל.
+63|03:43|טוב, זה אומר שאתה מקיים את המצווה כיקרא,
+64|03:50|כתוב בפסוק, והגית בוא יומם ולילה.
+65|03:53|איפה זה כתוב?
+66|03:55|יהושע.
+67|03:56|יהושע, לא יאמרו ספר התורה זה מפיך.
+68|03:59|והגית בו יומם ולילה למען תשמור לעשות ככל הכתוב בו.
+69|04:04|אה, והגית, מה זה הגיה?
+70|04:06|קריאה.
+71|04:08|אז עצם הקריאה אתה מקיים מצווה.
+72|04:11|הוא אומר, אבל אחרי זה, אינה חינם אתה יכול ללמוד אמצעים פירוש, תלמד פירוש.
+73|04:17|המגן אברהם כתב שיש הבדל בין תורה שבכתב לתורה שבעל פה.
+74|04:23|תורה שבכתב זה כל המקרא, כל התנ״ך כולו.
+75|04:27|אתה מקיים מצווה גם אם אתה לא מבין.
+76|04:30|למה?
+77|04:31|אתה בורא מלאכים על ידי עצם הקריאה.
+78|04:34|אתה מקיים את העולם.
+79|04:36|אבל תורה שבעל פה, מה זה תורה שבעל פה זה לדעת
+80|04:42|מה אסור ומה מותר?
+81|04:45|אז זה לא מועיל שאתה תלמד ולא תבין.
+82|04:48|לכן אומר המגן אברהם, פרשת עזר מקומן.
+83|04:52|קורא אותם כל בוקר.
+84|04:54|צריך להבין מה הוא אומר.
+85|04:56|‫הוא לא אומר, אומר לו, ‫קיים את המצווה.
+86|04:58|‫-מה, תשתוק רגע, ‫תן לי לגמור קודם במשניות.
+87|05:04|‫אתה עלית עליי היום, ‫לפני שאני אתחיל איתך?
+88|05:07|‫התחלת איתי על הבוקר.
+89|05:11|‫בקיצור, אז המגן אברהם אומר ‫שמשניות, צריך
+90|05:16|להסתער, ‫להבין אותן ולקרוא.
+91|05:19|‫אז מה אתה עושה בחוק לישראל?
+92|05:22|‫שם פרק שלם של משנה.
+93|05:25|מה אתה עושה עם איזה מקומם כל בוקר?
+94|05:29|מה?
+95|05:30|מה?
+96|05:30|מה?
+97|05:31|מה?
+98|05:34|מה?
+99|05:35|מה זה שהיתנו בצפון?
+100|05:36|בכל נושאים.
+101|05:37|מה?
+102|05:38|מה?
+103|05:38|איפה זה הצפון?
+104|05:48|טוב, טוב.
+105|05:51|טוב, עזוב אותך עכשיו.
+106|05:53|הלאה.
+107|05:53|‫לא יודע היום על איזה צד קמת.
+108|05:58|‫ראש חודש, אבל יומיים ראש חודש.
+109|06:01|‫אז
+110|06:09|מה עושה קייטמן במשנה?
+111|06:10|‫כתב הרב חידה במורה באצבע, ‫השתדל להבין את המשניות.
+112|06:15|‫מה שיכול יבין, מה שלא יכול יקרא.
+113|06:18|‫גם כן לפחות, לפחות תקיים...
+114|06:21|מצוות עשה והגית בו יומם ולילה.
+115|06:25|ואם לא מצא רב שילמד אותו או אין מפרש, גם המפרשים קשה לו להבין אותם,
+116|06:32|מה הדין, אז כתוב שאפילו לומד או טועה, כך כותב
+117|06:38|הרבנו בהי, וכך הביא הרב חידה גם בשם
+118|06:44|הזוהר הקדוש.
+119|06:46|איך הביא את הגמרא שהגמרא אומרת שאפילו אדם כל היום אמר,

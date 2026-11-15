@@ -1,0 +1,130 @@
+videoId: Pr2YWPsFBc8
+parte 1 de 9 · traduzir as linhas 0 a 119 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: De Yerach Bul ao Mabul: Marcheshvan e Parashá Noach
+RESUMO: O rabino começa pelos nomes do mês de Marcheshvan: antigamente chamado Yerach Bul (Melachim I 6:38) ou Yerach Mabul, por causa do Mabul, que começou em 17 de Marcheshvan. Em seguida traz explicações para o nome "Mar-Cheshvan": o mês não tem festas, a "gota d'água" (Yeshaiahu 40:15, Rashbam) e a minchat marcheshet de Rashi, ligada aos lábios que ainda sussurram as orações dos Dias Temíveis. Com o princípio "quanto maior a preparação, maior o efeito" e o Sefer Beit Aharon, liga as parashiot Bereshit, Noach e Lech Lechá a Rosh Hashaná, Yom Kipur e Sucot, citando o Baal HaTurim, o Zohar e o versículo "vechafarta otá mibayit umichutz". Mostra como Noach aparece na liturgia (Zichronot, Seder HaAvodá, Hoshana Rabá) e em Devarim 32:7-8. Depois trata de Nimrod (Bereshit 10:9, Rashi) e da geração da Dispersão em Shinar (Shabat 113b, Rashi, Bereshit 11), com a pergunta de Rav Shlomo Asulin sobre a ordem dos versículos e a análise de Rabeinu Bachya sobre os nomes Elokim e HaVaYaH. Expõe as opiniões de Sanhedrin 109a sobre o objetivo da torre, o Be'er Sheva, o Or HaChaim e os castigos, e termina com a bênção Meshaneh HaBriot sobre macacos e elefantes (Berachot 58b) e as opiniões halachicas sobre ela.
+MOMENTOS: 00:01 Nomes do mês: Yerach Bul e Yerach Mabul · 02:24 Por que "Marcheshvan": o mês sem festas · 04:58 Marcheshvan como gota d'água; Rashbam e mirzav · 06:29 Minchat marcheshet: lábios que ainda sussurram · 08:11 Quanto maior a preparação, maior o efeito · 10:44 Beit Aharon: as parashiot e os Dias Temíveis · 12:38 Parashat Noach e Yom Kipur: Zohar e "vechafarta" · 19:08 Noach nas orações de Rosh Hashaná e Yom Kipur · 24:38 Nimrod e a geração da Dispersão em Shinar · 33:14 Elokim e HaVaYaH: Rabeinu Bachya · 37:51 As opiniões de Sanhedrin 109a sobre a torre · 43:48 Macacos, elefantes e a bênção Meshaneh HaBriot
+FONTES CITADAS: 00:42 Melachim I 6:38 · 01:01 Rosh Hashaná 11b · 01:24 Chazal sobre Yerach Bul · 03:24 Rashi em Bereshit 7:10 · 04:20 Zecharia 8:19 · 04:32 Eichá 1:15 · 05:03 Yeshaiahu 40:15 · 05:11 Rashbam em Bava Batra · 06:44 Vayikra 2:7 · 07:03 Rashi em Vayikra 2:7 · 07:24 Piyutim de Rosh Hashaná e Yom Kipur · 07:39 Amidá, Mashiv HaRuach · 08:11 Dito citado em nome do pai · 08:29 Tehilim 95:1 · 08:46 Shabat 19a · 09:00 Shulchan Arukh, Orach Chaim 299:6 · 10:23 Sifrei chassidut · 10:44 Sefer Beit Aharon · 10:59 Baal HaTurim em Bereshit 1:1 · 10:59 Bereshit 1:1 · 12:53 Bereshit 8:6 · 12:56 Zohar, Parashat Noach · 13:10 Sefer Chachima BeRemiza (nome incerto) · 13:41 Shemot 33:19 · 14:12 Shemot Rabá 30 · 14:37 Iyov 21:14 · 15:42 Gemará sobre chen · 16:45 Ester 2:15 · 17:43 Bereshit 17:17 · 18:21 Bereshit 6:14 · 18:44 Vayikra 16 · 19:03 Bereshit 12:1 · 19:47 Bereshit 8:1 · 19:54 Zichronot, Musaf de Rosh Hashaná · 20:36 Seder HaAvodá de Yom Kipur, Atá Konanta · 21:09 Seder HaAvodá de Yom Kipur · 21:33 Yeshaiahu 54:7 · 21:42 Seder HaAvodá de Yom Kipur · 22:19 Seder HaAvodá de Yom Kipur · 22:46 Hoshanot de Hoshana Rabá, Ana El Na, nusach Ashkenaz · 22:56 Hoshanot de Hoshana Rabá, Ana Ein Na, nusach Sefarad · 23:43 Devarim 32:7 · 24:09 Devarim 32:8 · 24:23 Devarim 10:22 · 24:52 Bereshit 10:6 · 25:09 Bereshit 10:8 · 25:26 Bereshit 10:9 · 25:32 Rashi em Bereshit 10:9 · 26:29 Bereshit 10:10 · 26:47 Shabat 113b · 27:49 Shabat 113b · 28:20 Bereshit 11:1 · 28:25 Rashi em Bereshit 11:1 · 28:25 Bereshit 11:2 · 29:18 Rashi em Bereshit 11:3 · 29:29 Bereshit 11:3 · 30:09 Bereshit 11:4 · 30:27 Rav Shlomo Asulin · 31:30 Bereshit 11:5 · 31:41 Chazal, midá keneged midá
+
+LINHAS A TRADUZIR:
+0|00:01|השבוע נכנסנו ברוך השם לחודש מר חשוון כידוע לכולם השם של החודש נקרא בשם
+1|00:06|מר חשוון בעבר לא קראו לו ככה מה קראו?
+2|00:09|בעבר קראו לו ירח בול זה השם של החודש למה ירח בול?
+3|00:15|מה?
+4|00:15|למה ירח בול?
+5|00:16|היה ירח, היה
+6|00:22|ירח, קורן מה?
+7|00:24|הוא עוד אומר החודש ירח, ירח זה חודש
+8|00:30|ירח, נכון, גם ירח חשוון נקרא ירח חשוון, זה ירח שבט.
+9|00:34|ירח זה ראשי תיבות, זה המילה מילוא של חודש נקרא בשם ירח.
+10|00:39|אבל קראו לירח הזה ירח בול.
+11|00:42|מתי ששלמה גמר למנות את בית המקדש, כתוב זה היה בירח בול.
+12|00:48|אבל המפרשים אומרים שקראו לזה גם ירח מבול.
+13|00:53|זה השם שלו.
+14|00:55|השם שהמבול התחיל לרדת בשבעה עשר למערכי שבן.
+15|01:01|זה ההתחלה של ירידת המבול, כמובן במחלוקת של רבי לזר ורבי יהושע,
+16|01:07|אבל השיטה שאנחנו סוברים, היום הרת עולם בכוונה לראש השנה, אז כמובן שתחילת המבול
+17|01:13|היה ב-17 בחודש, ב-17 בחודש מלכי שוון.
+18|01:17|כתוב בחז"ל הקדושים שמאז המבול, עד שבנה שלמה את בית המקדש,
+19|01:24|ירדו כל שנה 40 יום שמים עצומים, היה כי רק עמו מבול.
+20|01:30|ירד גשם בלי הפסקה, ארבעים יום.
+21|01:33|אחרי שבנה, מה?
+22|01:34|ארבעים יום ירד גשם?
+23|01:37|בבול, בבול, לא בבול.
+24|01:41|לא הבנתי מה
+25|01:45|המשוכן.
+26|01:49|ארבעים יום, גשם, כל ה...
+27|01:53|בכל שאלות, רבותיי.
+28|01:55|בכל אופן, ירד ארבעים יום גשם, ולכן מה אחרי זה, כשבנה שלמה, זה הפסיק.
+29|02:00|לכן ירח מבול, הורידו את המם כי המם זה ארבעים יום, כמו שהיה
+30|02:06|כאן כמה זמן ירד במבול, כמה זמן ירד הגשם גם ארבעים יום, אז הכל מתסובב, התסביר לארבעים יום
+31|02:11|ברגע שזה נגמר, אז זהו, חיפשו את התופעה הזאת אז הוא אומר, גם כאן כבר לא
+32|02:18|קוראים לזה ירח בול, ירח מבול, אלא ירח בול כך זה נקרא, טוב, נפלא עד
+33|02:24|כמה דברים אנחנו בעזרת השם רוצים קצת לדבר על המילה הזאת מר חשבון
+34|02:30|יש כאלה שאומרים שהמילה מר חשבן הוא בגלל שבחודש הזה אין שום חג
+35|02:35|לכן קוראים לו מר חשבן והדבר הזה פלא, ישנם עוד
+36|02:42|חודשים שאין להם חגים יש עוד חודשים שאין להם חגים
+37|02:48|גם תמוז וגם אב גם כן אין להם חגים, נכון?
+38|02:51|שלעתיד לבוא, מה?
+39|02:53|תמוז נחלף אותה נפגרת
+40|02:59|נו, אז מה אתה רוצה?
+41|03:02|יש משהו בפנים.
+42|03:03|משהו בפנים ומה משהו בפנים?
+43|03:06|גם בחשוון, גם בחשוון יש משהו בפנים.
+44|03:08|רחל ימנו מתה.
+45|03:10|ואתה מחפש תאריכים מה...
+46|03:12|גם ביער יש שם עצמאות.
+47|03:14|כן, מה?
+48|03:15|אתה צריך שיהיה לך משהו מחג.
+49|03:17|יש לך חג?
+50|03:18|אין לך חג.
+51|03:19|למרות שהמביא אומר שיהיה לעתיד חג.
+52|03:21|דרך אגב, גם מתושלח היושלת שלו הוא בגמר חשבון.
+53|03:24|מה?
+54|03:25|כתוב ש"הקוטבוך הוא חיכה שבעה ימים עם עוד מתושלח".
+55|03:30|וואי וואי וואי.
+56|03:32|כך כתוב, נכון?
+57|03:32|מתושלח המון.
+58|03:33|אז מתי הוא נפטר?
+59|03:34|אם הוא חיכה לו שבעה ימים, והמברול היה בשבעתר, אז מתי הוא נפטר?
+60|03:38|שבעה ימים של 24.
+61|03:40|בי' בחודש מר חשבן, למה 24?
+62|03:43|י' בחודש מר חשבן הוא נפטר.
+63|03:48|24 לחודש.
+64|03:50|24 לחודש?
+65|03:50|מה השבע?
+66|03:51|ב-17 הוא נפטר.
+67|03:52|ב-17 התחיל המבול.
+68|03:53|המבול התחיל אחרי שהמתינו שבעה ימי אבילות של מטושלע.
+69|03:56|אז אם חיכו שבעה ימי אבילות, מתי הוא נפטר?
+70|03:59|בי' בחודש.
+71|04:01|מה?
+72|04:01|יו', ככה זה נראה.
+73|04:03|גם זה נראה, י' בחודש מר חשבן.
+74|04:05|מה?
+75|04:08|החל אימנו ביהודה א' בכל אופן אלה הדברים שיש לנו אז זה מה זה המילה הזאת מה?
+76|04:14|שאומרים שמע אין פה שום חג אבל יש עוד חגים, עוד חדשים שאין חגים אבל אומנם צום הרביעי
+77|04:20|וצום החמישי הכל בורך הבטיח שהוא יהפוך את זה לשעשור לו לשמחה אז בעזרת השם יהיה
+78|04:26|תמוז אב בעזרת השם יהיה שמחה גם בתמוז וגם באב יהיה שמחה בעזרת השם
+79|04:32|חוץ מזה שבאב לא אומרים תחנון בתשעה באב כי כתוב קרא עליי מועד וישבור
+80|04:38|בחורי, וגם מתו באב, לא אומרים, כן?
+81|04:42|יש לנו אבל באלול, ערב ראש השנה, אנחנו גם לא אומרים.
+82|04:46|אז יש, החודש הזה אומרים כל החודש מלא את החנון.
+83|04:50|אין שום הפסקה באמצע לחודש אחד.
+84|04:54|אז החודש הזה נקרא בשם מר, ככה יש כאלה שרוטים לומר.
+85|04:58|יש כאלה שאומרים שהוא נקרא מר על שם טיפת מים.
+86|05:01|טיפת מים נקראת בשם מר.
+87|05:03|איפה לומדים את זה מפסוק בנביא, אומר הנביא בספר ישעיהו הם גויים כמר
+88|05:09|מדלי.
+89|05:11|בא הרשבם במסכת בבא בתרא ואומר, יש מקום שמשם יורדים המים מהגג
+90|05:17|לקרקע, איך קוראים לזה?
+91|05:20|מרזב.
+92|05:20|מרזב, למה קוראים לזה מרזב?
+93|05:22|מר?
+94|05:23|מר, זב שם, הטיפות של המים יורדות דרך שם אומר הרשבם, לכן קוראים לו מרזב.
+95|05:30|הבנו?
+96|05:31|זה מרזב, לכן קוראים לו מרזב, טוב.
+97|05:34|דרך אגב, התימנים, הבלדים, לא קוראים לו מרחשוון.
+98|05:39|איך קוראים לו החודש הזה?
+99|05:41|מרחשוון.
+100|05:43|מרחשוון.
+101|05:45|זה השם שלו.
+102|05:46|והתרגום של זה, לא יודע, תימנים, בלדים, לא יודע מה התרגום של זה, התרגום של זה, זה החודש
+103|05:51|השמיני.
+104|05:53|מרחשוון, הכוונה, זה התרגום שלו והחודש השמיני.
+105|05:57|הם לא אומרים מרחשוון, אלא מרחשוון.
+106|06:00|ככה הם אומרים.
+107|06:01|ככה אמר לי, ביהודי בלדי, ככה הוא אמר לי.
+108|06:04|האמת היא שהם עושים אותו דבר גם בחנוכה.
+109|06:08|במקום להדיק נר של חנוכה, יש ספק אם להגיד של חנוכה או להדיק נר חנוכה, הם מחברים את זה
+110|06:14|ביחד.
+111|06:14|אומרים להדיק נר של החנוכות.
+112|06:16|הם עושים את זה מילה אחת, לא שתי מילים.
+113|06:21|נר של חנוכה זה נחש.
+114|06:24|מה?
+115|06:25|נר של חנוכה נחש.
+116|06:25|כן, נחש.
+117|06:26|בהחלט.
+118|06:26|אז בכל אופן, אלה הדברים שיש לנו בעניין הזה.
+119|06:29|יש כאלה שאומרים שהמילה, המילה שנקראת מר חשוון, זה בעקבות זה שהשפתיים שלנו

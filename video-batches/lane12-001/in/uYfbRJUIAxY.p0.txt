@@ -1,0 +1,130 @@
+videoId: uYfbRJUIAxY
+parte 1 de 7 · traduzir as linhas 0 a 119 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Talmud Eser HaSefirot: o véu entre Atzilut e Briá
+RESUMO: O rabino dedica a aula à redenção e revisa o capítulo 1 da parte 3 do Talmud Eser HaSefirot (Ohr Yashar e Ohr Chozer, as quatro bhinot da espessura) antes de apresentar os seis pontos do capítulo 2, sobre os quatro mundos ABYA. Lendo o Arizal (letra alef) e o Or Pnimi, ele ensina que em Atzilut não há masach que limite a luz: o masach sobre a Malchut só produz Ohr Chozer, que cria raízes de kelim, e por isso Atzilut é "ao lado" (etzlo) do Ein Sof. Com a Introdução ao Livro do Zohar, explica que as mudanças descritas em Atzilut existem só do lado das almas receptoras, como o pai que mostra ao filho um rosto de aflição ou de alegria, e como as imagens da profecia de Ezequiel. Em perguntas dos alunos, afirma que um mundo se distingue do outro pelo grau de espessura do masach, ou seja, pela medida de bem e mal e de revelação e ocultamento. Na letra bet, o Ein Sof não se estende abaixo do masach de Atzilut, e só uma iluminação (hará'á) atravessa o Parsá. Na letra guimel, a lei de que a ação do inferior que causa acréscimo de luz o recebe de volta explica como a Malchut de Atzilut se expande nas dez sefirot de Briá. Ele conclui com a letra dalet, em que hitnotzetzut é o Ohr Chozer.
+MOMENTOS: 00:00 Abertura e dedicação do estudo · 01:08 Revisão do capítulo 1: Ohr Yashar e Ohr Chozer · 07:03 Panorama dos seis pontos do capítulo 2 · 09:23 Não há masach em Atzilut (Arizal, letra alef) · 11:24 Or Pnimi alef: a espessura não diminui as nove sefirot · 16:32 Introdução ao Zohar: por que descrever Atzilut · 21:24 Ezequiel e o benefício das imagens para as almas · 25:29 O que distingue um mundo do outro: espessura e ocultamento · 34:22 Letra bet: só uma iluminação passa abaixo de Atzilut · 39:36 Letra guimel: o inferior recebe de volta o que causou · 44:02 Como saem as dez sefirot de Briá · 55:51 Letra dalet: hitnotzetzut é Ohr Chozer · 59:25 Rabi Yishmael e o fecho da aula
+FONTES CITADAS: 01:08 Talmud Eser HaSefirot, parte 3, capítulo 1 (Hatam Inyanim) · 03:19 Talmud Eser HaSefirot, parte 3, cap. 1, Hatam Inyanim, ponto 7 · 07:03 Talmud Eser HaSefirot, parte 3, cap. 2, título e seis pontos · 09:23 Arizal em Talmud Eser HaSefirot 3:2, letra alef · 11:24 Or Pnimi 3:2, letra alef · 15:24 Or Pnimi 3:2, letra alef (masachim de Atzilut) · 16:14 Talmud Eser HaSefirot, parte 3, cap. 14 (Histaklut Pnimit) · 16:32 Ohr Yashar, comentário sobre o Arizal em Talmud Eser HaSefirot · 17:11 Introdução ao Livro do Zohar (Petichá LeSefer HaZohar, Sulam) · 19:10 Introdução ao Livro do Zohar (Sulam), o exemplo da casa · 21:09 Introdução ao Livro do Zohar (Sulam) · 21:24 Yechezkel 1 (a visão da carruagem) · 22:10 Mishlei 22:6 · 22:57 Introdução ao Livro do Zohar (Sulam) · 23:25 Introdução ao Livro do Zohar, letras 22 a 42 · 26:27 Hakdamot de Rav Ashlag (Sefer HaHakdamot) · 27:44 Tehilim 5:5 · 28:00 Matan Torá, de Rav Ashlag · 34:22 Arizal em Talmud Eser HaSefirot 3:2, letra bet · 37:27 Or Pnimi 3:2, letra bet · 39:36 Arizal em Talmud Eser HaSefirot 3:2, letra guimel · 40:00 Or Pnimi 3:2, letra guimel · 41:11 Or Pnimi 3:2, letra guimel (shorshei kelim) · 42:06 Or Pnimi 3:2, letra guimel (o masach se expande) · 52:41 Or Pnimi 3:2, letra guimel (fim) · 53:48 Or Pnimi 3:2, letra guimel (as duas bhinot) · 55:51 Or Pnimi 3:2, letra dalet · 59:25 Berachot 7a (Rabi Yishmael) · 59:42 Chagigá 14b (os quatro que entraram no Pardes)
+
+LINHAS A TRADUZIR:
+0|00:00|ערב טוב, אנחנו בלימוד, תלמוד עשר הספירות, חלק
+1|00:06|ג', מקדישים את הלימוד כמובן להצלחת עם ישראל,
+2|00:12|להזדקחות של הכלים שלנו, כולנו, ושתבוא הגאולה במהרה בימינו
+3|00:18|ברחמים.
+4|00:23|רגע, נסדר פה את העניינים הטכניים.
+5|00:27|כן.
+6|00:28|טוב, אנחנו נכנסנו קצת לעובי הקורה בפעם שעברה
+7|00:34|ואנחנו רוצים להתקדם לפרק ב'
+8|00:40|של חלק שלישי אבל אני רוצה רגע שתדפדפו לעמוד קא
+9|00:46|תחילת החלק השלישי
+10|00:53|ואנחנו נקרא פה רק את הכותרת ואת הכותרות הקטנות, רק כדי
+11|00:58|שככה נבין מה למדנו עם כל הפרטים ועם כל העניינים שנכנסנו אליהם, מה
+12|01:04|למדנו בפרק א' של חלק שלישי.
+13|01:08|חלק שלישי נקרא אור ישר ואור חוזר, כולל 15 פרקים.
+14|01:13|הפרק א' מבאר ד' בחינות שבעוביות, שהן סוד
+15|01:19|ד' כלים ושורשם, הכתר.
+16|01:23|ובו חטא עניינים, אני רוצה לקרוא את חטא העניינים וזה יהיה
+17|01:29|ככה סיכום שלנו של פרק א', פלוס אם
+18|01:34|יש למישהו שאלה עניינית לגבי החומר שנלמד בפעם שעברה
+19|01:40|כמובן ננסה לענות ואם לא אז נגלוש ישר אל פרק ב'.
+20|01:48|אז חטא עניינים.
+21|01:51|א', בכל העולמות יש בספירות של אותו עולם עצמות וכלים.
+22|01:57|עצמות זה אור החוכמה, כלים זה כלים, כלים מכלים שונים, זה
+23|02:02|הכלים.
+24|02:05|ב', תחילה נתפשט אין סוף בסוד כלים, ואחר כך נתלבש בהם
+25|02:11|האורות.
+26|02:13|כלומר, קודם מתפשט האור הישר בסדר של
+27|02:19|ד' בחינות שאלו הכלים ואחר כך רק מתלבש בהם
+28|02:24|האורות.
+29|02:26|ג', התפשטות האור מורה התעבות יותר ממה
+30|02:32|שהיה, דהיינו שנתעבה האור ונעשה עשרה כלים.
+31|02:37|האור לא נתעבה, הכלים בסדר של ד' בחינות, כל בחינה
+32|02:42|התחתונה יותר היא עבה יותר, וזה נקרא התעבות האור, וזה נקרא התפשטות
+33|02:47|האור, האור במנוחה מוחלטת, אלא בהתפשטות של אור ישר,
+34|02:54|כל פעם יוצא כלי נוסף ומתעבה יותר.
+35|02:58|ד', מסך נעשה בכלי מלכות,
+36|03:02|כידוע.
+37|03:04|יש עכשיו חוק, לאחר הצמצום יש מסך על כלי המלכות.
+38|03:10|בכל מקום שיש מלכות יש עליה מסך.
+39|03:13|היי, מסך זה, שעכשיו אנחנו מדברים עליו, שהוא
+40|03:19|המסך העיקרי בעולמות, מסך זה מפסיק בין עולם אצילות
+41|03:24|לעולם הבריאה.
+42|03:26|ואנחנו מבינים שכל עיסוקנו פה הוא בעולם האצילות, ולכן גם עניין
+43|03:33|ההתפשטות של אור ישר על סדר של ד' בחינות, עשר ספירות, עצמות
+44|03:39|וכלים, זה הכל מדובר בעולם האצילות כרגע
+45|03:45|ולכן הוא אומר פה בה מסך זה מפסיק בין עולם האצילות לעולם הבריאה
+46|03:51|ו זיווג דה הקאת אור אינסוף
+47|03:57|במסך שמעלה האור חוזר ממטה למעלה
+48|04:03|זין עד מקום שמגיע אור אינסוף הוא עולם האצילות כלומר
+49|04:09|ההתפשטות של האור, אור אינסוף, מגיעה עד לסיום עולם האצילות,
+50|04:15|שזהו הפרסה, זה המסך הראשון, שהוא מסך אמיתי,
+51|04:21|מסך בפועל, ועד לשמה נחשב כאלוקות גמורה.
+52|04:26|ח', ד', בחינות בהתאבאות אור העליון.
+53|04:31|נכנס איתנו אל הפרטים.
+54|04:34|א', בהתפשטותו מכתר לחוכמה.
+55|04:39|שזה בחינה א', ב', בהתפשטותו לבינה שנוסף בו
+56|04:44|הרחקה, הרחקה, מדובר בהרחקה מאור החוכמה,
+57|04:50|וזה בחינה ב', ג', בהתפשטותו לזראנפין שנעשה
+58|04:56|בו חלון ונקב צר.
+59|04:59|חלון בעת הגדלות של העולמות ונקב
+60|05:05|צר בזמן הקטנות של העולמות.
+61|05:07|החלון דנו בו הרבה, המסכים שעולים
+62|05:14|מביע לאצילות מביאים איתם את המעין אוביות הזאת, מעין כוח
+63|05:19|האוביות והמסך הזה נקרא חלון ודרכו יש השפעה
+64|05:25|לבחינה ג' ד' בהתפשטותו למלכות שנעשה בו נקב
+65|05:31|צר והרחקה.
+66|05:33|הפעם ההשפעה היא דרך נקב צר כלומר, יש
+67|05:39|פה גם קטנות של נקב צר וגם הרחקה, והפעם זה הרחקה
+68|05:45|מאונס, כלומר, אם באמת היה לנו הרחקה מבחירה מאור החוכמה, במלכות,
+69|05:51|מבחינה ד', יש לנו הרחקה בכפייה על ידי המסך, זה כבר חוק
+70|05:57|בל יעבורי.
+71|06:02|סליחה?
+72|06:04|סותרת לקריאותא, נקב צר ולא חלון, והרחקה.
+73|06:08|כן.
+74|06:11|אפשר לצור על זין רגע?
+75|06:12|אפשר מה?
+76|06:14|על סעיף זין.
+77|06:17|סעיף זין.
+78|06:17|אפשר לקבל את ההבחנה מה הכוונה, הרי אורן צורך מתפשט
+79|06:23|בכל העולמות, אין אור.
+80|06:25|נכון, אבל הוא מתפשט ללא מסכים בעולם האצילות ובפרק ב' אנחנו נראה את זה ביתר
+81|06:30|בהירות.
+82|06:33|זאת אומרת, המסכים, אנחנו לא נקרא לו אור אינסוף, כי יש שם הבדלה.
+83|06:38|נכון.
+84|06:40|אנחנו נקרא לו עדיין אור אינסוף, אבל זה כבר, בוא, זה טיפין טיפין
+85|06:45|שמצליח לעבור דרך המסך בדרך של אור חוזר והתפשטות מן האור בה
+86|06:51|של המלכות.
+87|06:53|אבל זה לא אותו דבר כמו אור אינסוף שמאיר ללא מסכים.
+88|07:03|כן, אז אנחנו חוזרים למקומנו בעמוד קו, פרק ב'
+89|07:09|של חלק ג', מבאר עניין ד' עולמות אביע,
+90|07:15|אצילות, בריאה, יצירה, עשייה, וההפרש שביניהם, ובו
+91|07:21|ו' עניינים.
+92|07:25|טוב, אם כבר קראנו את הכותרות האלה, בואו נראה לקראת מה אנחנו הולכים בפרק
+93|07:30|ב'.
+94|07:31|א', כל הפרטים שבעולם האצילות נבחנים על פי
+95|07:37|ד' בחינות עוביות הנ"ל.
+96|07:40|הד' בחינות עוביות, שזה הבסיס של כל החוכמה
+97|07:46|הזאת, זה הד' בחינות, יש גם בתוך אצילות יש ד'
+98|07:52|בחינות של אצילות.
+99|07:53|יש את החוכמה של אצילות, את הבינה של אצילות, את הזרנפין והמלכות של
+100|07:59|אצילות.
+101|08:00|ב' בעולם הצילות מתפשט אור אינסוף בלי מסך כלל.
+102|08:07|ג.
+103|08:08|למטה מהצילות אין אור אינסוף מתפשט רק בהארה היוצאת
+104|08:14|ממנו דרך מסך.
+105|08:18|ד.
+106|08:19|מזיווג דה הקאה של אור העליון במסך שבין הצילות לבריאה יוצאות עשר ספירות
+107|08:24|דעולם הבריאה.
+108|08:27|ומזיווג דה הקאה שבין בריאה ליצירה יוצאות עשר ספירות דעולם היצירה.
+109|08:32|וכן מיצירה לעשייה, ה, ההפרש שבין דלת העולמות
+110|08:38|הוא שבאצילות אין מסך כלל, ובבריאה יש מסך
+111|08:44|אחד, זאת אומרת האור לשם עובר דרך מסך אחד, שזאת הפרסה מתחת אצילות,
+112|08:50|וביצירה בית מסכים כי עובר האור גם דרך המסך הפרסה וגם דרך
+113|08:56|המסך של בריאה, ובעשייה ג' מסכים, כנ"ל.
+114|09:02|ו, אבל בד' בחינות או ב' אין הפרש כלל בין עולם לעולם, כמו שהם
+115|09:08|באצילות, ככה הם בביאה.
+116|09:11|זאת אומרת, בכל מקום חייב להיות התפשטות האור על סדר של ד'
+117|09:17|הבחינות.
+118|09:19|ואנחנו מתחילים.
+119|09:23|כותרת ראשונה, אין מסך בעולם האצילות.
