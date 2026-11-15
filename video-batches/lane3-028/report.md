@@ -1,7 +1,7 @@
 # lane3-028
 
-12 of 16 lessons published · 0 skipped · status **pending**
-Tokens (254 agent runs with a record): 1.6M in (mostly cache) · 1.19M out · API-equivalent 16.58
+16 of 16 lessons published · 0 skipped · status **done**
+Tokens (276 agent runs with a record): 1.7M in (mostly cache) · 1.33M out · API-equivalent 18.21
 
 | lesson | state | detail |
 |---|---|---|
@@ -17,7 +17,7 @@ Tokens (254 agent runs with a record): 1.6M in (mostly cache) · 1.19M out · AP
 | j3J7IdJemH8 | ✓ published | 1206 lines · O segredo do Kadish: klipot entre os mundos e Heichalot |
 | 6kHzmRaQEKI | ✓ published | 590 lines · Tanta e letras: te'amim, nekudot e tagin no Zohar |
 | HM4SUrTgbbM | ✓ published | 3368 lines · Mashiach Tzidkecha: julgar todo judeu pelo lado do mérito |
-| YwSxsUTma-Y | waiting | 0/5 parts |
-| s_2v8ibJR40 | waiting | 0/6 parts |
-| Vf7QxdFQJMU | waiting | 0/8 parts |
-| U3crJcm5VRU | waiting | 0/2 parts |
+| YwSxsUTma-Y | ✓ published | 572 lines · Alegria e fé em tempos difíceis — Parashá Beshalach |
+| s_2v8ibJR40 | ✓ published | 708 lines · Separar as Gevurot: o vinho, as borras e os rasha'im |
+| Vf7QxdFQJMU | ✓ published | 863 lines · Bina, janela e a vestimenta da luz de Atzilut a Beria |
+| U3crJcm5VRU | ✓ published | 168 lines · Parashá Korach: a hierarquia e o papel da esquerda |
