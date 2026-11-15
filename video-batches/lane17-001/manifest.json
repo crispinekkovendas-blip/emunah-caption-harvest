@@ -1,0 +1,110 @@
+{
+ "name": "lane17-001",
+ "lane": 17,
+ "created": "2026-11-15T23:08:29.526Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "k6sktP8H0GU",
+   "title": "Hadar Yosef Tam e o segredo de unir dois textos opostos",
+   "lines": 1562,
+   "parts": 14,
+   "from": "recente"
+  },
+  {
+   "id": "z48Ijy2WIpA",
+   "title": "Do abismo ao céu: como a queda e o exílio levam ao tikun",
+   "lines": 681,
+   "parts": 6,
+   "from": "recente"
+  },
+  {
+   "id": "lInfKz-R7o0",
+   "title": "Bitachon: a confiança em HaShem na Parashá Miketz",
+   "lines": 529,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "V4KztRwpn4A",
+   "title": "A ave que anunciará a Redenção: o Rachám na Gemará",
+   "lines": 628,
+   "parts": 6,
+   "from": "mais fontes"
+  },
+  {
+   "id": "PZ7PkUtuz0k",
+   "title": "Zohar Beha'alotcha: shemen katit e a guarda do yesod",
+   "lines": 536,
+   "parts": 5,
+   "from": "mais fontes"
+  },
+  {
+   "id": "x_mkIpZuf1Q",
+   "title": "Humildade, Shavuot e o Baal Shem Tov (Raya Mehemna)",
+   "lines": 877,
+   "parts": 8,
+   "from": "mais fontes"
+  },
+  {
+   "id": "kAlwlnjib4w",
+   "title": "A influência do ambiente e o papel do mestre e dos amigos",
+   "lines": 728,
+   "parts": 7,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "k6sktP8H0GU.p0",
+  "k6sktP8H0GU.p1",
+  "k6sktP8H0GU.p2",
+  "k6sktP8H0GU.p3",
+  "k6sktP8H0GU.p4",
+  "k6sktP8H0GU.p5",
+  "k6sktP8H0GU.p6",
+  "k6sktP8H0GU.p7",
+  "k6sktP8H0GU.p8",
+  "k6sktP8H0GU.p9",
+  "k6sktP8H0GU.p10",
+  "k6sktP8H0GU.p11",
+  "k6sktP8H0GU.p12",
+  "k6sktP8H0GU.p13",
+  "z48Ijy2WIpA.p0",
+  "z48Ijy2WIpA.p1",
+  "z48Ijy2WIpA.p2",
+  "z48Ijy2WIpA.p3",
+  "z48Ijy2WIpA.p4",
+  "z48Ijy2WIpA.p5",
+  "lInfKz-R7o0.p0",
+  "lInfKz-R7o0.p1",
+  "lInfKz-R7o0.p2",
+  "lInfKz-R7o0.p3",
+  "lInfKz-R7o0.p4",
+  "V4KztRwpn4A.p0",
+  "V4KztRwpn4A.p1",
+  "V4KztRwpn4A.p2",
+  "V4KztRwpn4A.p3",
+  "V4KztRwpn4A.p4",
+  "V4KztRwpn4A.p5",
+  "PZ7PkUtuz0k.p0",
+  "PZ7PkUtuz0k.p1",
+  "PZ7PkUtuz0k.p2",
+  "PZ7PkUtuz0k.p3",
+  "PZ7PkUtuz0k.p4",
+  "x_mkIpZuf1Q.p0",
+  "x_mkIpZuf1Q.p1",
+  "x_mkIpZuf1Q.p2",
+  "x_mkIpZuf1Q.p3",
+  "x_mkIpZuf1Q.p4",
+  "x_mkIpZuf1Q.p5",
+  "x_mkIpZuf1Q.p6",
+  "x_mkIpZuf1Q.p7",
+  "kAlwlnjib4w.p0",
+  "kAlwlnjib4w.p1",
+  "kAlwlnjib4w.p2",
+  "kAlwlnjib4w.p3",
+  "kAlwlnjib4w.p4",
+  "kAlwlnjib4w.p5",
+  "kAlwlnjib4w.p6"
+ ]
+}
