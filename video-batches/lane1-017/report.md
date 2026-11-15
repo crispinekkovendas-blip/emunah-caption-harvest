@@ -1,7 +1,7 @@
 # lane1-017
 
-18 of 25 lessons published · 6 skipped · status **pending**
-Tokens (736 agent runs with a record): 4.4M in (mostly cache) · 3.25M out · API-equivalent 46.62
+19 of 25 lessons published · 6 skipped · status **done**
+Tokens (751 agent runs with a record): 4.5M in (mostly cache) · 3.37M out · API-equivalent 48.07
 
 | lesson | state | detail |
 |---|---|---|
@@ -29,4 +29,4 @@ Tokens (736 agent runs with a record): 4.4M in (mostly cache) · 3.25M out · AP
 | Yk0VCZnUJvs | ✓ published | 863 lines · Véspera de Yom Kipur: Zohar, sucá e Simchat Torá |
 | Uvwqg5IKbCo | ✓ published | 740 lines · Como tomar decisões pela ótica da Cabalá |
 | vrv7uGT_06o | ✓ published | 604 lines · Tikunei HaZohar 13: a visão de Yechezkel e o Kamatz |
-| zyN2lwcjzKc | waiting | 0/13 parts |
+| zyN2lwcjzKc | ✓ published | 1452 lines · Erev Rosh HaShaná é maior que Rosh HaShaná |
