@@ -167,18 +167,26 @@ function fill(lesson, tr) {
       if (fs.existsSync(f)) continue
       const w = work(b, c)
       if (!w) continue
-      const lines = []
-      for (let i = w.from; i <= w.to; i++) {
-        if (!tr.has(i)) break
-        lines.push(`${i}\t${tr.get(i)[0]}\t${tr.get(i)[1]}`)
+      const have = []
+      for (let i = w.from; i <= w.to; i++) if (tr.has(i)) have.push([i, tr.get(i)])
+      if (have.length === w.to - w.from + 1) {
+        fs.writeFileSync(f, have.map(([i, [e, p]]) => `${i}\t${e}\t${p}`).join('\n') + '\n')
+        done.push(`${b}/${c}`)
+        continue
       }
-      if (lines.length !== w.to - w.from + 1) continue
-      fs.writeFileSync(f, lines.join('\n') + '\n')
-      done.push(`${b}/${c}`)
+      // 2026-11-15: a piece only partly in the saved replies (0g-eVAkDRJM: 1 line of 1,532 missing) — its good lines
+      // go to out/<piece>.partial.json, and the lane asks Claude only for the lines still missing
+      const pf = path.join(DIR, b, 'out', `${c}.partial.json`)
+      const old = fs.existsSync(pf) ? JSON.parse(fs.readFileSync(pf, 'utf8')) : []
+      if (have.length && have.length > old.length) {
+        fs.writeFileSync(pf, JSON.stringify(have))
+        part.push(`${b}/${c} (${have.length}/${w.to - w.from + 1})`)
+      }
     }
   }
   return done
 }
+const part = []
 
 /* ── rebuild ───────────────────────────────────────────────────────────────────────────────────────────── */
 const name = `salvage-${String(salvageDirs.length + 1).padStart(3, '0')}`
@@ -265,6 +273,8 @@ console.log(
 const pieces = result.filled.reduce((s, x) => s + x.pieces.length, 0)
 console.log(`pieces of lessons with gaps filled from saved replies (the lanes skip them): ${pieces} in ${result.filled.length} lessons`)
 for (const x of result.filled) console.log(`  filled     ${x.id}: ${x.pieces.join(' ')}`)
+console.log(`pieces partly in the saved replies (the lane asks only their missing lines): ${part.length}`)
+for (const x of part) console.log(`  partial    ${x}`)
 for (const x of result.incomplete) console.log(`  incomplete ${x.id}: ${x.missing} of ${x.lines} lines missing (${x.first.join(', ')}…)`)
 for (const x of result.changed) console.log(`  changed    ${x.id}: ${x.why}`)
 for (const x of result.errors) console.log(`  error      ${x.id}: ${x.why}`)
@@ -277,6 +287,7 @@ summary(
     `| never published (looked at) | ${lessons.size} |`,
     `| **rebuilt whole from saved replies** | **${ready.length}** (${lines} lines) |`,
     `| with gaps: pieces filled in their lane batch | ${result.filled.length} (${pieces} pieces) |`,
+    `| pieces partly there (only their missing lines will be asked) | ${part.length} |`,
     `| lines no saved reply translated | ${result.incomplete.length} |`,
     `| transcript changed since | ${result.changed.length} |`,
     `| already translated since | ${result.elsewhere.length} |`,
@@ -285,4 +296,4 @@ summary(
 )
 output('batch', name)
 output('count', String(ready.length))
-output('filled', String(pieces))
+output('filled', String(pieces + part.length))
