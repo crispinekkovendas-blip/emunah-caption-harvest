@@ -1,0 +1,52 @@
+name: Translations — repair the lines Claude took back
+
+# 2026-11-15 (the owner: "yes do the repair of the 350 lessons too"): some published lessons hold lines from a reply
+# block Claude itself took back ("Wait — my numbering above drifted"), one line or more out of step with the Hebrew.
+# scripts/batch-repair.mjs finds the live ones and writes one repair batch per lane (lane<L>-901…) in which every other
+# line is already done; the lanes (translate-batch.yml) then ask Claude only for the taken-back lines and publish.
+#
+#   gh workflow run translate-repair.yml                 dry run: the plan (artifact repair-plan + step summary)
+#   gh workflow run translate-repair.yml -f write=true   write the repair batches and commit them
+
+on:
+  workflow_dispatch:
+    inputs:
+      write:
+        description: 'Write the repair batches (off = dry run)'
+        type: boolean
+        default: false
+
+concurrency:
+  group: video-batches-repair
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - id: plan
+        name: Find the live taken-back lines${{ inputs.write && ' and write the repair batches' || '' }}
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: node scripts/batch-repair.mjs ${{ inputs.write && '--write' || '' }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: repair-plan
+          path: out/repair-plan.json
+      - name: Commit the repair batches
+        if: inputs.write && steps.plan.outputs.batches != '0'
+        run: |
+          git config user.name "video-batches"
+          git config user.email "actions@github.com"
+          git add video-batches
+          git diff --cached --quiet || git commit -q -m "video-batches: repair batches — lines Claude took back, to translate again (${{ steps.plan.outputs.lessons }} lessons)"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep $((i * 5)); done

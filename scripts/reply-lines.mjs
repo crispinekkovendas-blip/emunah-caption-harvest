@@ -19,7 +19,7 @@ export const NAME_RE = new RegExp(['\\u05d9\\u05d4\\u05d5\\u05d4', '\\bYa?hweh\\
 // 2026-11-15 (the ten-lane test): a note in which Claude takes back what it wrote ("Wait — my numbering above drifted",
 // "Hmm — I need to correct…"). 1,605 of 42,961 saved replies hold one; in 479 nothing follows it. Tuned on all of them:
 // it matches 1,600, and not the translation lines that merely contain "wait" or "mistake".
-const RETRACT =
+export const RETRACT =
   /^\W*(?:<think>|thinking:|wait\b|hmm\b|hold on|oops|sorry|correction|reconsider|actually,? (?:i|the|my|lines?)\b|let me (?:redo|re-do|correct|fix|restate|re-?emit|re-?write|recheck|reconsider|restart|start over)|let me (?:just )?(?:produce|provide|give|do|write|output) (?:the|this|all|it|them)\b|(?:i )?(?:need|must|have) to (?:correct|fix|redo|re-?emit|restate|re-?output|output|produce|restart|stop|be careful)|i (?:must|need) (?:output|produce|correct|fix|redo)|i must correct|i made (?:an?|some) (?:error|mistake)|i mis|i got the (?:format|numbering|lines?) wrong|error$)/i
 const CLOCK = /^\d{1,2}:\d{2}(?::\d{2})?$/
 const HEBREW = /[֐-׿]/
