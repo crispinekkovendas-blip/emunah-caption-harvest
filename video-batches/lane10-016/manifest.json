@@ -1,0 +1,151 @@
+{
+ "name": "lane10-016",
+ "lane": 10,
+ "created": "2026-11-15T23:08:18.334Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "R26-HdWPxII",
+   "title": "Vontade além do motivo, tzitzit e Kriat Yam Suf",
+   "lines": 2000,
+   "parts": 17,
+   "from": "recente"
+  },
+  {
+   "id": "WxBFNMFQqZ0",
+   "title": "Zohar Vayikra 25b: o fio de chesed e o fogo do korban",
+   "lines": 192,
+   "parts": 2,
+   "from": "recente"
+  },
+  {
+   "id": "HkV8pgRI4tc",
+   "title": "Rivka: crescer entre ímpios e sair justa",
+   "lines": 582,
+   "parts": 5,
+   "from": "recente"
+  },
+  {
+   "id": "MAfMrvwybXw",
+   "title": "Lech Lecha: descer para se elevar, de Avraham à alma",
+   "lines": 333,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "xlMeO1vG7QY",
+   "title": "O que sabemos é pouco: HaShem é infinito (Sichot HaRan 3)",
+   "lines": 344,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "YAVYKKX6aQU",
+   "title": "Equilíbrio da alma e a Arca de Noach: o tsohar interior",
+   "lines": 763,
+   "parts": 7,
+   "from": "recente"
+  },
+  {
+   "id": "XbHYiQpreP4",
+   "title": "O único homem que morreu na arca de Noach",
+   "lines": 133,
+   "parts": 2,
+   "from": "recente"
+  },
+  {
+   "id": "Cxf1rNJLF_s",
+   "title": "Gratidão e alegria no dia a dia através da fé",
+   "lines": 1146,
+   "parts": 10,
+   "from": "recente"
+  },
+  {
+   "id": "rXSM6d5xSus",
+   "title": "A dedicação à Torá de Rav Ovadia Yosef zt\"l",
+   "lines": 632,
+   "parts": 6,
+   "from": "recente"
+  },
+  {
+   "id": "MpyPTZC_8P4",
+   "title": "Shemini Atzeret: a pequena refeição do amor de HaShem",
+   "lines": 196,
+   "parts": 2,
+   "from": "recente"
+  },
+  {
+   "id": "u5LctmFjHQY",
+   "title": "Zohar: a Malchut, quarta perna do trono, e Rosh Chodesh",
+   "lines": 724,
+   "parts": 7,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "R26-HdWPxII.p0",
+  "R26-HdWPxII.p1",
+  "R26-HdWPxII.p2",
+  "R26-HdWPxII.p3",
+  "R26-HdWPxII.p4",
+  "R26-HdWPxII.p5",
+  "R26-HdWPxII.p6",
+  "R26-HdWPxII.p7",
+  "R26-HdWPxII.p8",
+  "R26-HdWPxII.p9",
+  "R26-HdWPxII.p10",
+  "R26-HdWPxII.p11",
+  "R26-HdWPxII.p12",
+  "R26-HdWPxII.p13",
+  "R26-HdWPxII.p14",
+  "R26-HdWPxII.p15",
+  "R26-HdWPxII.p16",
+  "WxBFNMFQqZ0.p0",
+  "WxBFNMFQqZ0.p1",
+  "HkV8pgRI4tc.p0",
+  "HkV8pgRI4tc.p1",
+  "HkV8pgRI4tc.p2",
+  "HkV8pgRI4tc.p3",
+  "HkV8pgRI4tc.p4",
+  "MAfMrvwybXw.p0",
+  "MAfMrvwybXw.p1",
+  "MAfMrvwybXw.p2",
+  "xlMeO1vG7QY.p0",
+  "xlMeO1vG7QY.p1",
+  "xlMeO1vG7QY.p2",
+  "YAVYKKX6aQU.p0",
+  "YAVYKKX6aQU.p1",
+  "YAVYKKX6aQU.p2",
+  "YAVYKKX6aQU.p3",
+  "YAVYKKX6aQU.p4",
+  "YAVYKKX6aQU.p5",
+  "YAVYKKX6aQU.p6",
+  "XbHYiQpreP4.p0",
+  "XbHYiQpreP4.p1",
+  "Cxf1rNJLF_s.p0",
+  "Cxf1rNJLF_s.p1",
+  "Cxf1rNJLF_s.p2",
+  "Cxf1rNJLF_s.p3",
+  "Cxf1rNJLF_s.p4",
+  "Cxf1rNJLF_s.p5",
+  "Cxf1rNJLF_s.p6",
+  "Cxf1rNJLF_s.p7",
+  "Cxf1rNJLF_s.p8",
+  "Cxf1rNJLF_s.p9",
+  "rXSM6d5xSus.p0",
+  "rXSM6d5xSus.p1",
+  "rXSM6d5xSus.p2",
+  "rXSM6d5xSus.p3",
+  "rXSM6d5xSus.p4",
+  "rXSM6d5xSus.p5",
+  "MpyPTZC_8P4.p0",
+  "MpyPTZC_8P4.p1",
+  "u5LctmFjHQY.p0",
+  "u5LctmFjHQY.p1",
+  "u5LctmFjHQY.p2",
+  "u5LctmFjHQY.p3",
+  "u5LctmFjHQY.p4",
+  "u5LctmFjHQY.p5",
+  "u5LctmFjHQY.p6"
+ ]
+}
