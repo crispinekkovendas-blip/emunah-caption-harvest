@@ -14,24 +14,25 @@ name: Translate a video batch (Claude)
 # subscription). When the plan's usage limit stops agents, the batch keeps what finished and the
 # 2-hourly schedule resumes it once the limit has reset.
 #
-# LANES (2026-10-11, the owner: 5 batches at the same time; 10 since 2026-10-14, no parallel agents inside a batch):
-# ten lanes run side by side, each its own batch and its own chain; inside a lane the agents run one
-# after another. Each lane owns a fixed share of the lessons (hash of the id), so lanes never collide. The
-# schedule (hourly) wakes all ten lanes; a lane already running just goes on.
+# LANES (2026-10-11, the owner: 5 batches at the same time; 10 since 2026-10-14, 20 since 2026-11-15 — "20 lanes of
+# claude code purely"; no parallel agents inside a batch): the lanes run side by side, each its own batch and its own
+# chain; inside a lane the agents run one after another. Each lane owns a fixed share of the lessons (hash of the id),
+# so lanes never collide. The schedule (hourly) wakes all twenty lanes; a lane already running just goes on. Twenty
+# lanes fill GitHub's 20 jobs at once for the account: the dubs (dub.yml) are disabled while the lanes run.
 # HELPING (2026-11-07, the owner: "activate all lanes"): a lane with nothing new to take works the back half
 # of a busy lane's batch, one piece at a time, pushing each piece; every piece already on the branch is skipped.
 #
 # TEST FIRST (2026-11-15, the owner: "before making lanes have big work we need to test that the fixed method is
 # working"): the hourly schedule is off until one lane has gone through translate AND publish with the 2026-11-08
 # fixes. A test run: gh workflow run translate-batch.yml -f lane=N -f max=20 -f chain=false (about 20 pieces, whole
-# lessons, no next run); all ten lanes the same way: leave lane empty (the kick passes max and chain on). To bring
-# the ten lanes back, restore the schedule below.
+# lessons, no next run); all lanes the same way: leave lane empty (the kick passes max and chain on). The ten-lane
+# test passed the same day (39/39 lessons, $21.43); the schedule is back.
 
 on:
   workflow_dispatch:
     inputs:
       lane:
-        description: 'Lane 1-10 (empty = start all ten lanes)'
+        description: 'Lane 1-20 (empty = start all twenty lanes)'
         default: ''
       max:
         description: 'At most about this many pieces this run (whole lessons)'
@@ -40,8 +41,8 @@ on:
         description: 'Start the lane again when this run made progress'
         type: boolean
         default: true
-  # schedule:
-  #   - cron: '41 * * * *'
+  schedule:
+    - cron: '41 * * * *'
 
 concurrency:
   group: video-batches-lane-${{ inputs.lane || 'kick' }}
@@ -56,7 +57,7 @@ jobs:
     if: inputs.lane == ''
     runs-on: ubuntu-latest
     steps:
-      - name: Wake the ten lanes
+      - name: Wake the twenty lanes
         env:
           GH_TOKEN: ${{ github.token }}
           # 2026-11-15: a kick by hand passes its max and chain on to the lanes (a test of all ten); the schedule
@@ -64,7 +65,7 @@ jobs:
           MAX: ${{ inputs.max || '250' }}
           CHAIN: ${{ github.event_name != 'workflow_dispatch' || inputs.chain }}
         run: |
-          for lane in 1 2 3 4 5 6 7 8 9 10; do
+          for lane in $(seq 1 20); do
             gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=$lane -f max=$MAX -f chain=$CHAIN
           done
 

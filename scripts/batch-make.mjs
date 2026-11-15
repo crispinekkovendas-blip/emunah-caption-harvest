@@ -152,7 +152,9 @@ const richest = Object.entries(study)
   .map(([id]) => id)
 // each lane owns a fixed share of the lessons (a hash of the id), so lanes that build batches at the
 // same moment can never take the same lesson
-const LANES = 10
+// 2026-11-15 (the owner: "yes 20 lanes of claude code purely … go ahead"): 20 lanes, after the ten-lane test. Shares
+// stay disjoint (hash % 20); lanes 1–10 resume their open batches first, lanes 11–20 start from their own share
+const LANES = 20
 const laneOf = (id) => [...id].reduce((h, ch) => (h * 31 + ch.charCodeAt(0)) >>> 0, 7) % LANES
 const free = [...new Set([...fresh, ...week, ...richest])].filter((id) => study[id] && !taken.has(id))
 let order = free.filter((id) => laneOf(id) === LANE - 1)
