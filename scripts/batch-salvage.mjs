@@ -113,7 +113,12 @@ function goodLines(text, from, to) {
     const line = raw.replace(/\s+$/, '')
     if (!line.trim()) continue
     const m = line.match(/^(\d+)\t(.+)$/)
-    if (m) rows.push({ n: Number(m[1]), texts: m[2].split('\t').map((x) => x.trim()).filter(Boolean) })
+    if (m) {
+      const texts = m[2].split('\t').map((x) => x.trim()).filter(Boolean)
+      // a column copied from the work file in front of the translation: the clock, or the number again
+      if (texts.length === 3 && (/^\d{1,2}:\d{2}(?::\d{2})?$/.test(texts[0]) || texts[0] === m[1])) texts.shift()
+      rows.push({ n: Number(m[1]), texts })
+    }
     else if (/^\t/.test(line) && rows.length && rows[rows.length - 1].texts.length === 1)
       rows[rows.length - 1].texts.push(...line.split('\t').map((x) => x.trim()).filter(Boolean)) // its own tabs split too
   }

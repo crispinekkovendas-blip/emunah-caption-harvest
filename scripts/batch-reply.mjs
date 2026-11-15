@@ -30,7 +30,13 @@ if (!j.is_error) {
     const line = raw.replace(/\s+$/, '')
     if (!line.trim()) continue
     const number = line.match(/^(\d+)\t(.+)$/)
-    if (number) rows.push({ n: Number(number[1]), texts: number[2].split('\t').map((t) => t.trim()).filter(Boolean) })
+    if (number) {
+      const texts = number[2].split('\t').map((t) => t.trim()).filter(Boolean)
+      // 2026-11-15 (the test run of lane 2): Claude sometimes copies a column of the work file in front of the
+      // translation — the line's clock ("120<TAB>09:15<TAB>…") or its number again ("240<TAB>240<TAB>…")
+      if (texts.length === 3 && (/^\d{1,2}:\d{2}(?::\d{2})?$/.test(texts[0]) || texts[0] === number[1])) texts.shift()
+      rows.push({ n: Number(number[1]), texts })
+    }
     // a line split in two: N<TAB>English, then <TAB>Portuguese (2026-11-15: the second half is split on its own
     // tabs too — pushed whole, a half holding a tab gave the line four columns and the publish check refused it)
     else if (/^\t/.test(line) && rows.length && rows[rows.length - 1].texts.length === 1)
