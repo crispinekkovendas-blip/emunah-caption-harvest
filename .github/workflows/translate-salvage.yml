@@ -1,0 +1,65 @@
+name: Translations — salvage the thrown-away replies
+
+# 2026-11-15 (the owner: "yes do 1 and 2"): until 2026-11-08 the lanes threw a whole lesson away for one bad
+# piece, and a stray tab made a translated line "missing" — 268 lessons were translated two to four times and
+# never published. Every reply is still in the repo: scripts/batch-salvage.mjs rebuilds each never-published lesson
+# from them, line by line, only where the transcript still has the same Hebrew (no Claude call), and
+# scripts/batch-publish.mjs checks and publishes the result exactly as it does a lane's batch.
+#
+#   gh workflow run translate-salvage.yml                  dry run: what would be published (nothing written)
+#   gh workflow run translate-salvage.yml -f publish=true  publish, the lane batches count those lessons as done, commit
+
+on:
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: 'Publish (off = dry run)'
+        type: boolean
+        default: false
+
+concurrency:
+  group: video-batches-salvage
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  salvage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - id: build
+        name: Rebuild the never-published lessons from the saved replies
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: node scripts/batch-salvage.mjs
+      - name: Publish (the lanes' own check)
+        if: inputs.publish && steps.build.outputs.count != '0'
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: node scripts/batch-publish.mjs ${{ steps.build.outputs.batch }}
+      - name: The lane batches count the published lessons as done
+        if: inputs.publish && steps.build.outputs.count != '0'
+        run: node scripts/batch-salvage.mjs --mark ${{ steps.build.outputs.batch }}
+      - name: Commit
+        if: inputs.publish && steps.build.outputs.count != '0'
+        run: |
+          git config user.name "video-batches"
+          git config user.email "actions@github.com"
+          git add video-batches
+          git diff --cached --quiet || git commit -q -m "video-batches: ${{ steps.build.outputs.batch }} — lessons rebuilt from the saved replies and published (no new translation)"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+      - name: Keep the dry run's files for a look
+        if: ${{ !inputs.publish }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: salvage-dry-run
+          path: video-batches/salvage-*/
+          if-no-files-found: ignore
