@@ -1,7 +1,7 @@
 # lane6-012
 
-8 of 25 lessons published · 0 skipped · status **pending**
-Tokens (90 agent runs with a record): 0.7M in (mostly cache) · 0.82M out · API-equivalent 10.46
+17 of 25 lessons published · 0 skipped · status **pending**
+Tokens (113 agent runs with a record): 0.8M in (mostly cache) · 0.93M out · API-equivalent 11.95
 
 | lesson | state | detail |
 |---|---|---|
@@ -11,17 +11,17 @@ Tokens (90 agent runs with a record): 0.7M in (mostly cache) · 0.82M out · API
 | trd_mW8reiU | ✓ published | 395 lines · Segredos de Chayei Sara: morte, sepultura e Mearat HaMachpelá |
 | eurmobvW8ho | ✓ published | 493 lines · O líder do povo e a correção dos Chassadim (Zohar Bo) |
 | eGYCBVZlAVA | ✓ published | 1018 lines · Como escolher um bom cônjuge: ambiente e autoconfiança |
-| 0g-eVAkDRJM | ✗ will be redone (try 1) | 37 lines missing |
-| yeXEI9FHOr8 | ✗ will be redone (try 1) | 1 lines missing |
-| S3-D_sQJaPE | ✗ will be redone (try 1) | 3 lines missing |
+| 0g-eVAkDRJM | ✓ published | 1532 lines · Rav e Shmuel, Shemá e o lev lada'at na Bar Mitzvá |
+| yeXEI9FHOr8 | ✓ published | 1501 lines · Bechorot 47: bechor do convertido e o poder da oração |
+| S3-D_sQJaPE | ✓ published | 867 lines · Inimigos e odiadores de Israel: Yishmael, Esav e Erev Rav |
 | wos1i9UFt70 | ✓ published | 252 lines · Tikunei HaZohar 17: o valor da humildade e do temor |
 | rItLsLNbrCg | ✓ published | 402 lines · Tikun HaZivugim: leitura e oração em Chayei Sara |
-| ZOVYveEY7Sg | ✗ will be redone (try 1) | 11 lines missing |
-| rBFyj4LzeAM | ✗ will be redone (try 1) | 1 lines missing |
-| uHh9b4QChGo | waiting | 2/5 parts |
-| HtBmFn8Oui4 | waiting | 0/6 parts |
-| XgG8SMhcBy8 | waiting | 0/7 parts |
-| PCvLCb7iAlk | waiting | 0/4 parts |
+| ZOVYveEY7Sg | ✓ published | 159 lines · Eliézer e o sinal dos camelos – Zera Shimshon |
+| rBFyj4LzeAM | ✓ published | 530 lines · Chayei Sará: o vav de Efron, o bor e a Torá que liberta |
+| uHh9b4QChGo | ✓ published | 486 lines · Dois tipos de providência e os estados do mundo |
+| HtBmFn8Oui4 | ✓ published | 602 lines · Elokai Neshama e as bênçãos da Torá ao despertar |
+| XgG8SMhcBy8 | ✓ published | 771 lines · Mearat HaMachpelá: o encontro entre Din e Rachamim |
+| PCvLCb7iAlk | ✓ published | 370 lines · Zohar Bo: a morte dos primogênitos e a saída do Egito |
 | bMXfpWB-xRY | waiting | 0/13 parts |
 | 1LXeA-kF720 | waiting | 0/8 parts |
 | g4FSy0w2xQE | waiting | 0/4 parts |
