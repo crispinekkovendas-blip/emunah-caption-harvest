@@ -31,8 +31,10 @@ if (!j.is_error) {
     if (!line.trim()) continue
     const number = line.match(/^(\d+)\t(.+)$/)
     if (number) rows.push({ n: Number(number[1]), texts: number[2].split('\t').map((t) => t.trim()).filter(Boolean) })
-    // a line split in two: N<TAB>English, then <TAB>Portuguese
-    else if (/^\t/.test(line) && rows.length && rows[rows.length - 1].texts.length === 1) rows[rows.length - 1].texts.push(line.trim())
+    // a line split in two: N<TAB>English, then <TAB>Portuguese (2026-11-15: the second half is split on its own
+    // tabs too — pushed whole, a half holding a tab gave the line four columns and the publish check refused it)
+    else if (/^\t/.test(line) && rows.length && rows[rows.length - 1].texts.length === 1)
+      rows[rows.length - 1].texts.push(...line.split('\t').map((t) => t.trim()).filter(Boolean))
   }
 }
 for (const { n, texts } of rows) {

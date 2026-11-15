@@ -114,7 +114,8 @@ function goodLines(text, from, to) {
     if (!line.trim()) continue
     const m = line.match(/^(\d+)\t(.+)$/)
     if (m) rows.push({ n: Number(m[1]), texts: m[2].split('\t').map((x) => x.trim()).filter(Boolean) })
-    else if (/^\t/.test(line) && rows.length && rows[rows.length - 1].texts.length === 1) rows[rows.length - 1].texts.push(line.trim())
+    else if (/^\t/.test(line) && rows.length && rows[rows.length - 1].texts.length === 1)
+      rows[rows.length - 1].texts.push(...line.split('\t').map((x) => x.trim()).filter(Boolean)) // its own tabs split too
   }
   const out = new Map()
   for (const { n, texts } of rows) if (n >= from && n <= to && texts.length === 2 && !out.has(n) && !NAME_RE.test(texts.join(' '))) out.set(n, texts)
