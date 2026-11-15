@@ -405,8 +405,7 @@
   "2UkvadwtFHY",
   "IJGBX4JJ6XA",
   "j3J7IdJemH8",
-  "6kHzmRaQEKI",
-  "HM4SUrTgbbM"
+  "6kHzmRaQEKI"
  ],
  "skipped": [],
  "salvaged": [
@@ -417,5 +416,12 @@
   "oqtw-eVzDCs",
   "2UkvadwtFHY",
   "IJGBX4JJ6XA"
+ ],
+ "reopened": [
+  {
+   "id": "HM4SUrTgbbM",
+   "why": "2026-11-15: part 28 came from a reply that ended \"Wait — I made an error in numbering: I shifted line numbers partway\" (line 3300 on shifted)",
+   "at": "2026-11-15T21:34:45.690Z"
+  }
  ]
 }

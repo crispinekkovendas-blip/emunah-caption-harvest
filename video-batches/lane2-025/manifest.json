@@ -410,7 +410,6 @@
   "ZTYl45ykFt4",
   "ErcWq3erPR0",
   "FHlYPWAyIVA",
-  "jrgUrbDQwqY",
   "3BaAivd3yio",
   "PIqzTlYk1VM"
  ],
@@ -425,5 +424,12 @@
   "MDk7A-WbbcA",
   "3Hw5urLKqOo",
   "o6lsXLfzCfU"
+ ],
+ "reopened": [
+  {
+   "id": "jrgUrbDQwqY",
+   "why": "2026-11-15: part 3 came from a reply that ended \"Wait — I need to correct line numbering; the output above has mismatches\" (lines 330-359 shifted on the site)",
+   "at": "2026-11-15T21:34:45.690Z"
+  }
  ]
 }
