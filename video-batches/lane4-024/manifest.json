@@ -375,8 +375,7 @@
   "ealDHma10I8",
   "S8RMvJ2OOoQ",
   "u27-_K0ObqE",
-  "Hzf_ew_4XOQ",
-  "zR5sHiHukbQ"
+  "Hzf_ew_4XOQ"
  ],
  "skipped": [],
  "reopened": [
@@ -384,6 +383,11 @@
    "id": "zR5sHiHukbQ",
    "why": "2026-11-15: line 599 was named by its reply: \"Wait — I need to fix one thing: line 599 carries only the start of the thought\"",
    "at": "2026-11-15T21:34:45.690Z"
+  },
+  {
+   "id": "zR5sHiHukbQ",
+   "why": "2026-11-15: again, whole part 5 — the reply that named only line 599 was one line ahead of the Hebrew from line 593 on",
+   "at": "2026-11-15T21:41:59.576Z"
   }
  ]
 }
