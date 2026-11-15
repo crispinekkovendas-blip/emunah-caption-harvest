@@ -1,0 +1,82 @@
+videoId: v7VIuBxd5Yg
+parte 6 de 6 · traduzir as linhas 600 a 657 (58 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Os livros misteriosos de Daniel: Mekané e Galuy
+RESUMO: A aula abre em Daniel 9:1-2, quando Daniel diz "binoti baseforim" no primeiro ano de Daryavesh, e situa o momento no fim do exílio babilônico: setenta anos de reinado de Nevuchadnetzar e sua família, conforme Yirmiyahu 25 e 29, e Daniel se pergunta por que a redenção não veio. A Gemará em Meguilá 12a diz que Daniel errou na conta, pois "binoti" indica engano; Rashi lê "mispharim", números e cálculos, e conclui que os setenta anos contam a partir da destruição de Yerushalaim, ou seja, mais dezoito anos. O Malbim propõe que Daniel achou um segundo escrito atribuído a Yirmiyahu, com "para completar as ruínas de Yerushalaim", e o Midrash Daniel diz que eram o Sefer HaMikné e o Sefer HaGalui. O rabino conta, em Yirmiyahu 32, a compra do campo de Chanamel em Anatot durante o cerco, com testemunhas, pesagem do dinheiro e duas cópias do documento, que Baruch ben Neriyá guardou em vaso de barro. Com base no Berachat Moshe e em Ketubot 20b, ele explica que o testemunho vale por até 60 anos, e por isso o documento seria necessário só depois desse prazo. Como haviam passado só 52 anos, Daniel entendeu que a redenção viria dezoito anos mais tarde, e passou a rezar para que fosse apressada.
+MOMENTOS: 00:53 Daniel 9: Daryavesh e o fim da Babilônia · 03:20 Yirmiyahu 25 e 29: setenta anos e "afkod etchem" · 05:13 Por que não fomos redimidos? Daniel e a oração · 07:46 Meguilá 12a: Daniel errou na conta · 09:40 Rashi: "mispharim", cálculo desde a destruição · 12:27 Malbim: um segundo escrito de Yirmiyahu · 14:04 Midrash Daniel: Sefer HaMikné e Sefer HaGalui · 15:20 Yirmiyahu 32: o cerco e a profecia da destruição · 22:25 A profecia sobre o primo Chanamel e o campo · 25:01 A compra do campo com testemunhas e duas cópias · 27:11 Ordem de guardar o documento em vaso de barro · 31:24 Ketubot 20b: validade do testemunho por 60 anos · 37:50 Daniel deduz: a redenção virá em mais 18 anos
+FONTES CITADAS: 01:16 Daniel 9:1-2 · 03:20 Yirmiyahu 25:12 · 04:04 Yirmiyahu 29:10 · 05:46 Daniel 9:2 · 05:51 Daniel 9:3 · 07:46 Meguilá 12a · 09:40 Rashi em Daniel 9:2 · 12:27 Malbim em Daniel 9:2 · 14:04 Midrash Daniel · 15:20 Yirmiyahu 32 · 23:03 Vayikrá 25 (Parashat Behar) · 25:20 Yirmiyahu 32:9 · 26:13 Yirmiyahu 32:11-12 · 27:18 Yirmiyahu 32:14 · 28:26 Yirmiyahu 32:15 · 30:30 Berachat Moshe (Rabi Moshe Shapira) · 31:27 Ketubot 20b · 31:52 Devarim 19:15 · 36:19 Yechezkel 18 e 20 · 39:06 Daniel 9:2
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|36:26|אמר להם לא.
+589|36:27|אז אמרו לו, הקדוש ברוך הוא גירש אותנו.
+590|36:29|זהו.
+591|36:30|אין לנו קשר, אנחנו לא צריכים לשמור תורה ומצוות.
+592|36:33|כי אנחנו כבר לא ביחד.
+593|36:34|זאת אומרת, התפיסה הייתה, נסגר הסיפור.
+594|36:37|זאת אומרת, אין בינינו, זה לא גלות כדי, לא האמינו שיחזרו.
+595|36:44|לכן אומר הקדוש ברוך הוא, אי אפשר לסמוך עליהם.
+596|36:46|אתה לא יכול לסמוך עליהם.
+597|36:47|צריך לסמוך פה, על השטר.
+598|36:50|צריך לסמוך על השטר.
+599|36:51|עכשיו שימו לב טוב.
+
+LINHAS A TRADUZIR:
+600|36:54|דניאל מקבל את המסמך הזה.
+601|36:57|הוא אומר, זה מסמך...
+602|36:58|עכשיו תאחזו טוב ראש, תאחזו, זה כמו עכשיו חוקר, לא יודע מה,
+603|37:04|חוקר מז"פ, בסדר?
+604|37:06|שאתה צריך להרכיב את התמונה.
+605|37:08|יש לך שביבים, יש לך כל מיני נתונים, ועכשיו תהיה חוקר טוב
+606|37:14|ותסגור את הפינות.
+607|37:16|דניאל מחזיק עכשיו פה שטר.
+608|37:18|הוא אומר, למה שמרו את השטר הזה?
+609|37:22|זה שטר שהיו אפשר לדלג עליו, היו עדים, למה צריך היה לשמור את השטר הזה?
+610|37:27|ככה, בתוך קופסת חרס, בוואקום.
+611|37:30|מיותר.
+612|37:31|והקדוש ברוך הוא אומר לירמיהו לשמור את השטר.
+613|37:33|זאת אומרת, השטר הזה עומד להיכנס לתוקף לפחות אחרי 60 שנה.
+614|37:40|כי עד 60 שנה, גם מי שלא סומכים עליו, הוא לא שוכח את האירוע.
+615|37:45|רק כנראה שהשטר הזה אמור להיכנס לתוקף אחרי 60 שנה.
+616|37:50|ומכיוון שהחבר'ה האלה שם חשבו שהם בהצגה, אז אחרי 60 שנה הם ישכחו את זה,
+617|37:56|כי הם לא יבינו שזה יושב עליהם.
+618|37:59|אז הקדוש ברוך הוא אומר, פה השטר צריך להיכנס לתוקף.
+619|38:04|אומר דניאל, רגע, מתי הייתה העסקת נדל"ן הזו?
+620|38:09|מסתכלים, שנה לפני חורבן בית המקדש.
+621|38:13|אומר דניאל, היום מלאו 70 שנה למלכות בבל,
+622|38:19|אבל מהעסקה...
+623|38:20|מלאו רק חמישים ושתיים שנה.
+624|38:23|זאת אומרת, אנחנו עוד בתוך טווח השישים.
+625|38:26|אם הקדוש ברוך הוא התכוון להחזיר אותנו השנה, למלאת לבבל שישים שנה,
+626|38:32|שבעים שנה, אולי צריך לשמור את השטר הזה.
+627|38:35|כי בחמישים ושתיים שנה אפשר לסמוך עוד על העדים, זה היה אירוע חבל על הזמן, כנראה
+628|38:41|שטעיתי בחשבון.
+629|38:43|אנחנו הולכים לחזור, הנה יש שטר, הולכים לחזור לארץ ישראל.
+630|38:47|אבל זה לא בשבעים שנה של בבל.
+631|38:49|כנראה זה 70 שנה מחורבות ירושלים.
+632|38:52|ואז העדים כבר לא רלוונטיים כי עברו 60 שנה ואי אפשר לסמוך עליהם.
+633|38:58|עכשיו רק השטרות רלוונטיים.
+634|39:00|סימן מהשטר שטעיתי בחשבון.
+635|39:04|הברקה.
+636|39:05|זה דניאל.
+637|39:06|אומר דניאל בינותי בספרים.
+638|39:09|סיכום.
+639|39:10|עוד לא ראינו מה הייתה התוצאה הזו בעזרת השם בשיעורים הבאים, אבל סיכום.
+640|39:15|אומר דניאל הגיעה שנה אחת לדריווש, אני רוצה שאני אגאל, אני דניאל בינותי
+641|39:20|בספרים, רש"י אומר איזה ספרים, מספרים, הוא עושה חשבונות, דיאגרמות, והוא הגיע
+642|39:26|לחשבון שהותה 70 שנה לחורבות ירושלים.
+643|39:30|המלבים אומר ספרים ספרים, ספר ירמיהו שכתוב 70 שנה לבבל, ועוד איזה
+644|39:36|ספר שגם כנראה קשור לירמיהו, וכתוב שם לחורבות ירושלים, והוא מבין שזה לא סותר אחד
+645|39:42|את השני.
+646|39:43|ובא מדרש דניאל ואומר ספרים זה ספר המקנה וספר הגלוי
+647|39:49|ספר הנדלן שירמיהו הנביא כתב אותו את עסקת הנדלן האחרונה שנעשתה פה בארץ
+648|39:55|ישראל והספרים האלו הגיעו לירמיהו ודרך הספרים הללו דרך הצורה החתימה
+649|40:01|הוא מפצח שהספרים האלו ייכנסו לתוקף רק בעוד שמונה עשרה שנה ולכן
+650|40:07|עדיין לא הגיע הזמן גאולתנו אנחנו נחזור לארץ ישראל אבל זה יהיה עוד שמונה עשרה שנה.
+651|40:12|אומר דניאל, הבנתי, עכשיו אני אתפלל שזה יקרה מהר, שזה יקרה בקלות,
+652|40:18|אבל לפחות אני יודע, לא נתקענו פה.
+653|40:20|לא נתקענו.
+654|40:21|בינות היא בספרים.
+655|40:23|יהי רצון, בעזרת השם, שנזכה גם אנחנו, שהקדוש ברוך הוא יחיש את גאולתנו, ונזכה לראות
+656|40:28|בקרוב בגאולה השלמה במהרה בימינו אמן.
+657|40:31|חזקים וברוכים תהיו.
