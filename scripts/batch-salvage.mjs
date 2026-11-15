@@ -17,11 +17,11 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { readReply } from './reply-lines.mjs'
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..')
 const DIR = path.join(ROOT, 'video-batches')
 const LANE_BATCH = /^(batch-\d{3}|lane\d+-\d{3})$/
-const NAME_RE = new RegExp(['\\u05d9\\u05d4\\u05d5\\u05d4', '\\bYa?hweh\\b', '\\bJeh?ov[aá]h?\\b', '\\bJeov[aá]\\b', '\\bY-?H-?[WV]-?H\\b'].join('|'), 'i')
 const readJSON = (f) => JSON.parse(fs.readFileSync(f, 'utf8'))
 const output = (k, v) => {
   if (process.env.GITHUB_OUTPUT) fs.appendFileSync(process.env.GITHUB_OUTPUT, `${k}=${v}\n`)
@@ -106,26 +106,8 @@ function work(b, piece) {
   return { from: Number(h[1]), to: Number(h[2]), he }
 }
 
-/** the good lines of one reply, read as scripts/batch-reply.mjs reads them (a stray tab, a line split in two) */
-function goodLines(text, from, to) {
-  const rows = []
-  for (const raw of String(text || '').replace(/\r/g, '').split('\n')) {
-    const line = raw.replace(/\s+$/, '')
-    if (!line.trim()) continue
-    const m = line.match(/^(\d+)\t(.+)$/)
-    if (m) {
-      const texts = m[2].split('\t').map((x) => x.trim()).filter(Boolean)
-      // a column copied from the work file in front of the translation: the clock, or the number again
-      if (texts.length === 3 && (/^\d{1,2}:\d{2}(?::\d{2})?$/.test(texts[0]) || texts[0] === m[1])) texts.shift()
-      rows.push({ n: Number(m[1]), texts })
-    }
-    else if (/^\t/.test(line) && rows.length && rows[rows.length - 1].texts.length === 1)
-      rows[rows.length - 1].texts.push(...line.split('\t').map((x) => x.trim()).filter(Boolean)) // its own tabs split too
-  }
-  const out = new Map()
-  for (const { n, texts } of rows) if (n >= from && n <= to && texts.length === 2 && !out.has(n) && !NAME_RE.test(texts.join(' '))) out.set(n, texts)
-  return out
-}
+/** the good lines of one reply, read exactly as scripts/batch-reply.mjs reads a new one (scripts/reply-lines.mjs) */
+const goodLines = (text, from, to) => readReply(text, from, to).good
 
 const esc = (s) => s.replace(/[.*+?^${}()|[\]\\-]/g, '\\$&')
 const norm = (s) => String(s || '').split('\n')[0].replace(/\s+/g, ' ').trim()

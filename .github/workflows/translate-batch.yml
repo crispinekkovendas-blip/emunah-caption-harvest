@@ -24,7 +24,8 @@ name: Translate a video batch (Claude)
 # TEST FIRST (2026-11-15, the owner: "before making lanes have big work we need to test that the fixed method is
 # working"): the hourly schedule is off until one lane has gone through translate AND publish with the 2026-11-08
 # fixes. A test run: gh workflow run translate-batch.yml -f lane=N -f max=20 -f chain=false (about 20 pieces, whole
-# lessons, no next run). To bring the ten lanes back, restore the schedule below.
+# lessons, no next run); all ten lanes the same way: leave lane empty (the kick passes max and chain on). To bring
+# the ten lanes back, restore the schedule below.
 
 on:
   workflow_dispatch:
@@ -58,9 +59,13 @@ jobs:
       - name: Wake the ten lanes
         env:
           GH_TOKEN: ${{ github.token }}
+          # 2026-11-15: a kick by hand passes its max and chain on to the lanes (a test of all ten); the schedule
+          # has no inputs → the defaults
+          MAX: ${{ inputs.max || '250' }}
+          CHAIN: ${{ github.event_name != 'workflow_dispatch' || inputs.chain }}
         run: |
           for lane in 1 2 3 4 5 6 7 8 9 10; do
-            gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=$lane
+            gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=$lane -f max=$MAX -f chain=$CHAIN
           done
 
   make:
@@ -111,13 +116,27 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
+      # 2026-11-15: a piece of this run already met the plan's usage limit → nothing more to ask in this run
+      - id: limit
+        uses: actions/cache/restore@v4
+        with:
+          path: .claude-limit
+          key: claude-limit-${{ github.run_id }}
+          lookup-only: true
       - uses: actions/setup-node@v4
+        if: steps.limit.outputs.cache-hit != 'true'
         with:
           node-version: 24
       - run: npm install -g @anthropic-ai/claude-code > /dev/null
-      - name: Translate ${{ matrix.chunk }}
+        if: steps.limit.outputs.cache-hit != 'true'
+      - id: tr
+        name: Translate ${{ matrix.chunk }}
+        if: steps.limit.outputs.cache-hit != 'true'
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          # 2026-11-15: each request wrote its whole work file (~7k tokens) to the 1-hour prompt cache — billed at
+          # twice the input price — and nothing but the ~1k-token rules was ever read back: no cache
+          DISABLE_PROMPT_CACHING: '1'
           BATCH: ${{ needs.make.outputs.batch }}
           CHUNK: ${{ matrix.chunk }}
         run: |
@@ -132,21 +151,58 @@ jobs:
           git pull -q --rebase || true
           if [ -s "$OUT" ]; then echo "$CHUNK already translated — skipped"; exit 0; fi
           set +e
-          ASK="Translate the numbered lines under LINHAS A TRADUZIR following the system rules. Reply with ONLY the translation lines (N<TAB>English<TAB>Portuguese), one per line to translate, nothing before or after, no code fences."
+          FULL="Translate the numbered lines under LINHAS A TRADUZIR following the system rules. Reply with ONLY the translation lines (N<TAB>English<TAB>Portuguese), one per line to translate, nothing before or after, no code fences."
           # 2026-11-08: the reply is read by scripts/batch-reply.mjs (a stray tab no longer loses a line, good
-          # lines are kept between tries). A second try only when lines are really missing; an English-only
-          # reply has its Portuguese asked for separately and merged.
-          for TRY in 1 2; do
+          # lines are kept between tries); an English-only reply has its Portuguese asked for separately and merged.
+          # 2026-11-15 (the owner: "test on the lanes with all you learned"): of 42,835 replies 8% lacked lines, half
+          # of them only 1–5 of 120, and the second try translated all 120 again. Now a try after the first asks ONLY
+          # the missing lines (merged.missing; merged.retry.txt shows the rest of the part as context); the good lines of a piece
+          # left incomplete are kept in out/<piece>.partial.json, so the next run asks only what is still missing.
+          PART="$D/$BATCH/out/$CHUNK.partial.json"
+          rm -f merged.json merged.missing merged.retry.txt en.txt
+          if [ -s "$PART" ]; then
+            cp "$PART" merged.json
+            node scripts/batch-reply.mjs - "$IN" "$OUT" merged.json en.txt
+          fi
+          code=0
+          for TRY in 1 2 3; do
+            SRC="$IN"
+            if [ -s merged.missing ]; then
+              # merged.retry.txt: under LINHAS A TRADUZIR only the missing lines, the rest of the part as context
+              SRC=merged.retry.txt
+              ASK="Translate the numbered lines under LINHAS A TRADUZIR following the system rules — only those ($(tr -d '\n' < merged.missing)); the lines of this part already translated are there only as context. Reply with ONLY the translation lines (N<TAB>English<TAB>Portuguese), one per line to translate, nothing before or after, no code fences."
+            elif [ "$TRY" = 1 ]; then
+              ASK="$FULL"
+            elif [ "$TRY" = 2 ]; then
+              ASK="IMPORTANT: every line MUST have exactly THREE tab-separated columns (line number, English, Brazilian Portuguese) and every numbered line under LINHAS A TRADUZIR must be there. $FULL"
+            else
+              break # a third try only for a few missing lines, never the whole piece again
+            fi
+            echo "try $TRY: $([ "$SRC" = "$IN" ] && echo 'the whole piece' || echo "only lines $(tr -d '\n' < merged.missing)")"
             claude -p "$ASK" \
               --system-prompt "$(cat "$D/PROMPT.md")" --tools "" \
-              --model sonnet --effort high --output-format json < "$IN" > usage.json 2> err.txt
+              --model sonnet --effort high --output-format json < "$SRC" > usage.json 2> err.txt
             code=$?
             # every attempt keeps its own usage record, so the report counts all of them
             cp usage.json "$D/$BATCH/out/$CHUNK.r$GITHUB_RUN_ID-$GITHUB_RUN_ATTEMPT-$TRY.usage.json" 2>/dev/null || true
-            node scripts/batch-reply.mjs usage.json "$IN" "$OUT" merged.json en.txt $([ "$TRY" = 2 ] && echo final)
+            # the plan's usage limit (10,973 requests refused that way by 2026-11-08, every later piece of the run
+            # asking again): this piece stops, and the next step marks the run so its remaining pieces skip at once
+            # (the finished ones are still published; the schedule resumes after the reset)
+            if node -e 'const j = JSON.parse(require("fs").readFileSync("usage.json", "utf8")); process.exit(j.is_error && /hit your .*limit/i.test(String(j.result)) ? 0 : 1)' 2>/dev/null; then
+              echo "::warning::Claude usage limit: $(node -e 'try{console.log(String(JSON.parse(require("fs").readFileSync("usage.json","utf8")).result).slice(0,120))}catch{}') — the rest of this run skips"
+              mkdir -p .claude-limit && date -u > .claude-limit/hit
+              echo "limit=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            node scripts/batch-reply.mjs usage.json "$IN" "$OUT" merged.json en.txt
             [ -s "$OUT" ] && break
-            ASK="IMPORTANT: every line MUST have exactly THREE tab-separated columns (line number, English, Brazilian Portuguese) and every numbered line under LINHAS A TRADUZIR must be there. $ASK"
           done
+          # the last word: whatever good lines there are go to out/ (publish counts a try and asks the piece again),
+          # and are kept for the next run
+          if [ ! -s "$OUT" ] && [ -s merged.missing ]; then
+            cp merged.json "$PART"
+            node scripts/batch-reply.mjs - "$IN" "$OUT" merged.json en.txt final
+          fi
           if [ ! -s "$OUT" ] && [ -s en.txt ]; then
             claude -p "Translate each English line below into Brazilian Portuguese (keep Hebrew names and terms as they are). Reply with ONLY lines N<TAB>Portuguese, same numbers, nothing else, no code fences." \
               --tools "" --model sonnet --output-format json < en.txt > usage-pt.json 2>> err.txt
@@ -173,10 +229,15 @@ jobs:
           if [ "${{ needs.make.outputs.help }}" = true ] && [ -s "$OUT" ]; then
             git config user.name "video-batches"
             git config user.email "actions@github.com"
-            git add "$OUT" "$D/$BATCH/out/$CHUNK".r*.usage.json
+            git add "$OUT" "$D/$BATCH/out/$CHUNK".r*.usage.json $([ -s "$PART" ] && echo "$PART")
             git commit -q -m "video-batches: $BATCH — $CHUNK (lane ${{ inputs.lane }} helping)"
             for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep $((i * 4)); done
           fi
+      - if: steps.tr.outputs.limit == 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: .claude-limit
+          key: claude-limit-${{ github.run_id }}
       - uses: actions/upload-artifact@v4
         with:
           name: out-${{ matrix.chunk }}
