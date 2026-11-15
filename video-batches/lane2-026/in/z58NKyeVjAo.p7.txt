@@ -1,0 +1,144 @@
+videoId: z58NKyeVjAo
+parte 8 de 11 · traduzir as linhas 840 a 959 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Tandu 126: Rosh Hashaná, ética, IA e o shofar
+RESUMO: No último programa do ano de 5786, Rav Gottlieb e Avri Gilad comentam a atualidade (os Herzog, as fazendas no território, as explosões no Líbano) e relacionam o Ano Novo à ideia de ser "cabeça e não cauda" contra Pirkei Avot 4:15, "cauda de leões". Discutem a guerra pela terra e a generalização como ferramenta necessária num conflito nacional. Em seguida vem o dilema da colheita de órgãos na China, em que o rabino responde com "Lo tirtzach" (Shemot 20:13) e com a regra de Sanhedrin 74a de que o homicídio é uma das três transgressões pelas quais se entrega a vida, e Avri conta a história do rabino que proibiu salvar o filho na seleção nazista. Depois falam do colapso da educação dos jovens, citando "o impulso do coração do homem é mau desde a juventude" (Bereshit 8:21), e do risco da inteligência artificial. O rabino lê um texto de Avi Rosenblum baseado em Yemima sobre o olhar suave sobre o ano que passou em Elul, sem pedidos de perdão formais e superficiais. Explica também Rabi Natan de Breslov: "chayav" na Gemará é o pecador, e só quem sente o aperto (metzar) é obrigado ao shofar. Na ligação com Yossi Meir, em Porto, o tema são o sustento fixado em Rosh Hashaná (Beitza 16a), as horas de trabalho em Israel e o sentido de Malchiyot, Zichronot e Shofarot. O programa termina com os votos do rabino para 5787: líderes com coração, honestidade e trabalho interior.
+MOMENTOS: 00:33 Último programa do ano de 5786 e os Herzog · 05:44 Pirkei Avot: cabeça ou cauda de leões · 09:36 Aula em Shomer HaHadash: o propósito é desfrutar a vida · 16:00 Generalização e a "pinça" no conflito nacional · 18:01 Colheita de órgãos na China e Lo tirtzach · 21:54 O dilema do pai rico e o rabino sob os nazistas · 23:01 Educação em crise e a escolha das companhias · 27:04 IA que pode matar a humanidade · 35:00 Yemima e Elul: olhar suave sobre o ano que passou · 38:09 Rabi Natan de Breslov: quem é obrigado ao shofar · 49:31 Yossi Meir ao vivo de Porto · 56:17 Votos para o ano de 5787
+FONTES CITADAS: 00:44 Piyut de Rosh Hashaná: Tichle shana vekilelotea · 05:17 Devarim 28:13 · 05:17 Simanim de Rosh Hashaná: Yehi ratzon sheniheye le'rosh ve'lo lezanav · 05:47 Pirkei Avot 4:15 · 09:42 Mishná Rosh Hashaná 1:2 · 10:43 Ideia de que não há prazer senão no dar (Ein hana'a ela benetina) · 11:26 Shir HaShirim 1:5 · 19:49 Shemot 20:13 · 20:08 Shemot 20:13 · 21:02 Sanhedrin 74a · 24:14 Bereshit 8:21 · 35:02 Artigo de Avi Rosenblum com base em Yemima · 35:55 Devarim 10:16 · 36:14 Yemima (ensinamento sobre Elul) · 38:31 Rosh Hashaná 29a · 38:38 Mishná Rosh Hashaná 3:8 · 38:55 Rabi Natan de Breslov (Likutei Halachot) · 39:18 Birkat HaGomel · 39:52 Tehilim 118:5 · 40:07 Yemima sobre Yom Kippur · 41:02 Rabi Natan de Breslov (Likutei Halachot) · 54:18 Rosh Hashaná 16a-16b · 54:30 Devarim 15:18 · 54:43 Ensinamento hassídico sobre o sustento · 54:57 Beitza 16a · 55:36 Musaf de Rosh Hashaná: Malchiyot, Zichronot, Shofarot
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+828|38:36|למשל, קטן.
+829|38:38|קטן לא חייב בשופר.
+830|38:40|אז ממילא הוא לא יכול להוציא אחרים.
+831|38:42|זה ההלכה.
+832|38:43|מה זה קטן?
+833|38:45|לפני גיל 13.
+834|38:46|אה, כזה קטן.
+835|38:47|כזה, כן.
+836|38:48|לא קטן ברוחניות, לא קטן במעשים, לא קטן בקומה.
+837|38:52|אוקיי, קטן.
+838|38:54|כן.
+839|38:55|בא רבי נתן ואומר ככה.
+
+LINHAS A TRADUZIR:
+840|38:57|בגמרא, המילה חייב.
+841|39:01|זה כינוי לרשע.
+842|39:03|כן.
+843|39:04|אתה יודע?
+844|39:05|כן.
+845|39:05|למשל, אתה אין לך בנים, אבל בעזרת השם, כשעוד יהיו לך בנים,
+846|39:12|אז כשהיה בר מצווה, אז אומרים, בברכת הגומל
+847|39:18|אומרים, שגומל לחייבים כל טוב.
+848|39:24|מה זה קשור לבנים?
+849|39:25|זה לא קשור לבנים.
+850|39:27|למשל, אחד שניצל ממוות או משהו כזה, אז אומרת ברכת הגומל, הגומל לחייבים כל טוב.
+851|39:34|מה זה חייבים?
+852|39:35|רשעים.
+853|39:36|אנשים שיש להם הרבה חובות, הרבה חטאים.
+854|39:38|אומר רבי נתן ככה, מי שהוא לא חייב, זאת אומרת, הוא לא מרגיש שיש לו
+855|39:44|חטאים בכלל, אז הוא לא חייב בשופר.
+856|39:50|הוא פטור ממצוות שופר.
+857|39:51|כן.
+858|39:52|כי כל השופר הרי בנוי על מין המיצר קראתי יא, ענני במרחב יא.
+859|39:57|אם אין לך מיצר...
+860|39:59|אין לך מרחב.
+861|40:00|אבל יש בן אדם שלא מרגיש חייו?
+862|40:02|אלא אם כן הוא ממש טמבל?
+863|40:05|אני אגיד לך את האמת.
+864|40:07|אתה יודע, שאלו את ימימה.
+865|40:08|שאני לא מכיר בן אדם שהוא מרגיש שהוא חייו.
+866|40:11|שאלו את ימימה, שהיא הייתה באמת בן אדם מואר, בן אדם באמת סופר קלאס.
+867|40:17|שאלו אותה על מה יש על עצום ביום הכיפורים.
+868|40:20|כן.
+869|40:21|אז היא אמרה, אפילו אם אני עומדת בתחנת האוטובוס, ואומרת, אוף,
+870|40:26|למה האוטובוס לא מגיע?
+871|40:28|כבר אני חייבת.
+872|40:30|אני מבין.
+873|40:32|כן, כבר לא קיבלתי משהו, כבר לא הבנתי שהדבר הוא לטובתי, כבר לא הייתי בנוכחות, כבר אני צריכה
+874|40:38|לצום.
+875|40:39|ברור.
+876|40:41|כן, זה אמת.
+877|40:42|נכון.
+878|40:44|אז איך הוא לקח את הדבר הזה והפך אותו לחלוטין?
+879|40:49|מי שאינו חייב בשופר, אינו יכול להוציא אחרים מידי חובתם.
+880|40:55|אז יוצא...
+881|40:56|אז יוצא, מי כן בעצם חייב במצוות שופר?
+882|41:02|רק רשעים, רק מי שיש לו מיצר, רק מי שרואה רע בעצמו.
+883|41:06|כי כל השופר הרי בנוי ככה, הפייה היא צרה ולמעלה הוא רחב.
+884|41:12|אז אין לך שייכות השופר בכלל, אם אתה לא נמצא במיצר.
+885|41:20|השופר, אגב, בשנה טובה שלי, אין לו פייה ואין לו חלק רחב, שני החלקים שלו
+886|41:26|הם רחבים.
+887|41:28|ככה...
+888|41:28|אבל לא אותו דבר.
+889|41:30|מה?
+890|41:30|לא אותו דבר.
+891|41:31|כן, כן, תראה שנייה, אופר.
+892|41:34|תראה שנייה, סתכל.
+893|41:36|הטמבל, הוא לא יודע לעשות שופרות כפי...
+894|41:40|עד שהוא.
+895|41:41|רגע, בסדר, הלך.
+896|41:44|אוקיי, לא משנה, לא משנה, עזוב.
+897|41:47|גלגל.
+898|41:51|עוד שאלה מעניינת, מורה, נדמה לי
+899|41:57|בטירת כרמל, אם אני לא זוכר, מורה
+900|42:03|ערבייה, היה שם דיבור
+901|42:09|שהיה בו שנאת ערבים, ואז היא שאלה את הילדים, מי שונא ערבים?
+902|42:17|והכיתה?
+903|42:18|והיא הייתה יהודים, ערבים.
+904|42:20|יהודים, יהודים, יהודים, יהודים.
+905|42:22|כן.
+906|42:23|היא רצתה לנהל דיון גזענות.
+907|42:26|כן.
+908|42:27|ההורים השביתו את בית הספר.
+909|42:28|בגלל זה?
+910|42:29|כן.
+911|42:31|כן.
+912|42:32|ואני אומר...
+913|42:34|רגע, ומה הם ענו?
+914|42:37|אני לא יודע מה הם ענו, אני יכול לחפש לך את הידיעה, אבל זה מעניין מכיוון
+915|42:42|שאתה יודע, ההורים...
+916|42:45|ברור שההורים צריכים לעמוד על המשמר ולבדוק מה
+917|42:51|קורה ולא לתת לתכנים לא ראויים להיכנס וכל הדברים האלה.
+918|42:57|אבל כשיש שיח על גזענות ושמורה ערבייה שואלת מי
+919|43:03|שונא ערבים כדי לברר את העניין הזה, בעיניי דווקא יכול להיות מאוד מאוד מעניין.
+920|43:08|אני לא הייתי מוציא את הילדה שלי מכיתה שבה דיון כזה נערך, בכלל
+921|43:14|בכלל לא.
+922|43:16|לא משנה, היה לי איזה נקודה בעניין הזה ושכחתי אותה, אז נתקדם הלאה.
+923|43:21|אבל זה דיון ראוי באמת.
+924|43:24|הדיון הוא ראוי.
+925|43:26|מי שונא ערבים?
+926|43:28|ואם אתה שונא, למה אתה שונא ערבים?
+927|43:31|ושוב אנחנו חוזרים לאותו פינצטה.
+928|43:34|האם צריך לשנוא את כל הערבים?
+929|43:36|או רק את המחבלים?
+930|43:37|האם כולם מחבלים?
+931|43:39|או שאתה לא מבדיל בין אחד לשני?
+932|43:41|בשדה הקרב אתה אומר שלא, ובחיי היום-יום כן.
+933|43:46|אתה כן מבדיל.
+934|43:49|וזה מחזיר אותנו גם לשאלת האסלאמופוביה, שזה אחד מכלי הנשק
+935|43:55|הכי משוכללים שיצרו המוסלמים שמשתלטים כרגע על כל
+936|44:00|העולם כדי למגר ביקורת.
+937|44:03|כל מילה שאתה אומר, אתה אסלאמופוב, שזו המצאה מוחלטת, מכיוון
+938|44:09|שפוביה היא פחד לא רציונלי ממשהו.
+939|44:13|כן.
+940|44:15|אבל אני שואל אותך, אתה שומע על גדודים של מוסלמים
+941|44:22|שהתעללו במאות אלפי בנות בבריטניה וכו', אז מה אתה
+942|44:28|אומר לי, מה אתה מבלבל במוח על איסלאמופוביה?
+943|44:32|יש ממה לפחד.
+944|44:33|ברור, חד משמעית.
+945|44:35|יש ממה לפחד.
+946|44:36|בוודאי, בוודאי.
+947|44:37|אגב, היום ה-9, היום ה-11 בספטמבר.
+948|44:41|כן.
+949|44:42|9-11.
+950|44:42|כן.
+951|44:43|זה היום.
+952|44:44|כן.
+953|44:44|כן.
+954|44:45|יש ממה לפחד.
+955|44:47|וממדני הרי אומר שהדבר הכי נורא הזה שקרה אחרי ה-9-11, אחרי
+956|44:52|המגדלי התאומים, זה שדודה שלו פחדה לנסוע בתחבורה הציבורית בניו
+957|44:58|יורק עם חיג'אב, פן יאונה לרע.
+958|45:01|זה היה...
+959|45:04|זה מה שהיה קשה מבחינתו.

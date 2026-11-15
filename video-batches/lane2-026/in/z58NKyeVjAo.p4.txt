@@ -1,0 +1,144 @@
+videoId: z58NKyeVjAo
+parte 5 de 11 · traduzir as linhas 480 a 599 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Tandu 126: Rosh Hashaná, ética, IA e o shofar
+RESUMO: No último programa do ano de 5786, Rav Gottlieb e Avri Gilad comentam a atualidade (os Herzog, as fazendas no território, as explosões no Líbano) e relacionam o Ano Novo à ideia de ser "cabeça e não cauda" contra Pirkei Avot 4:15, "cauda de leões". Discutem a guerra pela terra e a generalização como ferramenta necessária num conflito nacional. Em seguida vem o dilema da colheita de órgãos na China, em que o rabino responde com "Lo tirtzach" (Shemot 20:13) e com a regra de Sanhedrin 74a de que o homicídio é uma das três transgressões pelas quais se entrega a vida, e Avri conta a história do rabino que proibiu salvar o filho na seleção nazista. Depois falam do colapso da educação dos jovens, citando "o impulso do coração do homem é mau desde a juventude" (Bereshit 8:21), e do risco da inteligência artificial. O rabino lê um texto de Avi Rosenblum baseado em Yemima sobre o olhar suave sobre o ano que passou em Elul, sem pedidos de perdão formais e superficiais. Explica também Rabi Natan de Breslov: "chayav" na Gemará é o pecador, e só quem sente o aperto (metzar) é obrigado ao shofar. Na ligação com Yossi Meir, em Porto, o tema são o sustento fixado em Rosh Hashaná (Beitza 16a), as horas de trabalho em Israel e o sentido de Malchiyot, Zichronot e Shofarot. O programa termina com os votos do rabino para 5787: líderes com coração, honestidade e trabalho interior.
+MOMENTOS: 00:33 Último programa do ano de 5786 e os Herzog · 05:44 Pirkei Avot: cabeça ou cauda de leões · 09:36 Aula em Shomer HaHadash: o propósito é desfrutar a vida · 16:00 Generalização e a "pinça" no conflito nacional · 18:01 Colheita de órgãos na China e Lo tirtzach · 21:54 O dilema do pai rico e o rabino sob os nazistas · 23:01 Educação em crise e a escolha das companhias · 27:04 IA que pode matar a humanidade · 35:00 Yemima e Elul: olhar suave sobre o ano que passou · 38:09 Rabi Natan de Breslov: quem é obrigado ao shofar · 49:31 Yossi Meir ao vivo de Porto · 56:17 Votos para o ano de 5787
+FONTES CITADAS: 00:44 Piyut de Rosh Hashaná: Tichle shana vekilelotea · 05:17 Devarim 28:13 · 05:17 Simanim de Rosh Hashaná: Yehi ratzon sheniheye le'rosh ve'lo lezanav · 05:47 Pirkei Avot 4:15 · 09:42 Mishná Rosh Hashaná 1:2 · 10:43 Ideia de que não há prazer senão no dar (Ein hana'a ela benetina) · 11:26 Shir HaShirim 1:5 · 19:49 Shemot 20:13 · 20:08 Shemot 20:13 · 21:02 Sanhedrin 74a · 24:14 Bereshit 8:21 · 35:02 Artigo de Avi Rosenblum com base em Yemima · 35:55 Devarim 10:16 · 36:14 Yemima (ensinamento sobre Elul) · 38:31 Rosh Hashaná 29a · 38:38 Mishná Rosh Hashaná 3:8 · 38:55 Rabi Natan de Breslov (Likutei Halachot) · 39:18 Birkat HaGomel · 39:52 Tehilim 118:5 · 40:07 Yemima sobre Yom Kippur · 41:02 Rabi Natan de Breslov (Likutei Halachot) · 54:18 Rosh Hashaná 16a-16b · 54:30 Devarim 15:18 · 54:43 Ensinamento hassídico sobre o sustento · 54:57 Beitza 16a · 55:36 Musaf de Rosh Hashaná: Malchiyot, Zichronot, Shofarot
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+468|20:11|אתה יודע, אם קורה תאונת דרכים וזה, ולוקחים איברים, אני לא אומר כלום.
+469|20:16|בסדר, ברור.
+470|20:17|אבל לקחת בן אדם ולרצוח אותו, ואתה חי על הרצח הזה?
+471|20:23|אני לא חושב שיש הבדל בין זה לבין תורת הנאצים.
+472|20:29|תורת הגזע של הנאצים.
+473|20:32|אפשר לעשות הכול עם הגזעים הנחותים, בשביל להאדיר את הגזע
+474|20:37|הארי.
+475|20:39|לא, לא תרצח.
+476|20:41|אין הבדל.
+477|20:46|לא תגנוב.
+478|20:48|אם חייך תלויים בגניבה, תגנוב או לא תגנוב?
+479|20:52|זה כבר משהו אחר, זה פחות חמור.
+
+LINHAS A TRADUZIR:
+480|20:55|זה גם בעשרת הדיברות.
+481|20:57|נכון, אבל זה פחות חמור.
+482|20:59|אוקיי.
+483|20:59|אתה יודע, העניין של רציחה זה...
+484|21:02|אחד מהגימל עבירות שצריך למסור את הנפש על זה.
+485|21:07|יבוא בן אדם ויגיד, טוב, אם דובר על גויים, גויים זה פארס, אתה יכול לעשות.
+486|21:11|לא, לא, לא, זה לא מעניין אותי הדיבור.
+487|21:12|זה אותך לא מעניין.
+488|21:13|לא, לא.
+489|21:14|אז לא תרצח, וזהו.
+490|21:15|בזה זה נגמר.
+491|21:16|אבל יגידו לך, אותו אדם, הוא כבר נלכד.
+492|21:21|איבריו כבר, הוא כבר נידון למיטה.
+493|21:24|כן.
+494|21:25|כן?
+495|21:25|הסינים כבר שמו עליו יד.
+496|21:27|זהו.
+497|21:28|זה לא שכשאתה אומר, אני צריך, הם יוצאים לשדה לחפש מישהו.
+498|21:32|כן.
+499|21:32|כן?
+500|21:32|יש להם מחנות.
+501|21:34|של מתרגלים, של פאלונג גונג, של כל מיני כאלה, ואנשים מחכים שמה
+502|21:39|שיקטפו אותם.
+503|21:42|כן.
+504|21:42|זה משנה?
+505|21:44|אם זה משנה.
+506|21:51|אני חושב שזה לא משנה.
+507|21:52|לא משנה.
+508|21:53|יפה.
+509|21:54|יש סיפור מאוד ידוע.
+510|21:56|הנאצים לכדו אלפיים נערים, וגורלם נחרץ.
+511|22:01|ואבא אחד מאוד עשיר היה יכול לשלם למי שצריך לשלם
+512|22:08|ולהוציא את הילד שלו משם.
+513|22:10|כן.
+514|22:11|והוא בא לרב לשאול אותו אם מותר לו לעשות את זה.
+515|22:15|כן.
+516|22:15|כי אם הוא מוציא את הילד שלו, הנאצים לוקחים ילד אחר.
+517|22:19|הוא.
+518|22:19|אלפיים צריכים להיות.
+519|22:21|המספר צריך להיות.
+520|22:26|מה אמר הרב?
+521|22:28|לא.
+522|22:28|לא.
+523|22:28|הרב אמר לא.
+524|22:31|היה יכול להציל את הילד שלו.
+525|22:33|כן.
+526|22:35|שאלות קשות.
+527|22:36|כן.
+528|22:38|שאלות נוראיות.
+529|22:39|לגמרי.
+530|22:40|בתוך התופת של אושוויץ.
+531|22:43|שאלות מטורפות.
+532|22:47|אוי, אוי, אוי, אוי.
+533|22:51|טוב, עניינים אחרים לגמרי.
+534|22:52|את פן הכליל, מה אתה אומר?
+535|22:54|טוב.
+536|22:55|מה, שנה חדשה כזה?
+537|22:59|שנהיה תפוח ודבש?
+538|23:01|לא, שנה חדשה שנזכה, קודם כל, שמערכת החינוך שלנו
+539|23:07|תוקם מחדש.
+540|23:08|או-אה.
+541|23:09|הירידה המטורפת במבחנים, אנחנו רואים מה קורה בבתי הספר,
+542|23:16|אימה ופחד, כן?
+543|23:18|אנחנו רואים מה קורה עם לבני הנוער, לא הכל על מערכת החינוך, גם ההורים הם כמובן...
+544|23:23|אשמים גדולים, גם המצב, גם הטלפונים, גם הרשתות החברתיות, הכל, הכל, הכל, אבל
+545|23:29|גדל פה דור שחלקו הקטן קצפת משובחת, מלאה
+546|23:34|שמנת, שיכולה לסחוב את כל החברה הישראלית קדימה, ולמטה
+547|23:40|משתרכים בנים, ובמיוחד בנות, ובמיוחד בנות,
+548|23:45|שמאבדים את זה לגמרי, שתוקפים אחד את השני ב...
+549|23:50|טענות שווא שבאמת אין להן שום בסיס לא ערכי ולא
+550|23:57|מוסרי ולא דתי ולא לאומי ולא כלום.
+551|24:03|פשוט נפשות אבודות.
+552|24:06|כן.
+553|24:07|נפשות אבודות.
+554|24:08|אנחנו רואים בחלקים התחתונים של התודעה האנושית, כפי שהיא
+555|24:14|מתבטאת בבני הנוער, ממש את המשפט יצר לב האדם רע מנעוריו.
+556|24:19|כן, סוג של...
+557|24:21|ממש.
+558|24:21|סדיזם לשמו.
+559|24:22|ממש.
+560|24:24|גועל נפש.
+561|24:25|ממש מגעיל לחיות פה.
+562|24:26|ממש נורא.
+563|24:31|ולכן כל אבא צריך לתת חינוך מיטבי לילדיו.
+564|24:36|חד משמעית.
+565|24:37|ולהזהיר אותם מפני חברות שונות.
+566|24:43|די עם מי אתה מתחבר.
+567|24:44|לגמרי.
+568|24:50|אז אתה...
+569|24:52|אני בא, גם הלילה הייתה מסיבת שינה אצלי בבית.
+570|24:57|כן.
+571|24:58|מסיבת שינה.
+572|24:59|כן, אתה יודע, מסיבת פיג'מות.
+573|25:02|כן.
+574|25:03|הילדה עברה לבית ספר חדש, והביאה דג עלה חברות חדשות,
+575|25:08|והביאו אותן למסיבת פיג'מות אצלנו בבית.
+576|25:12|כן.
+577|25:14|וכמובן, קיבלתי...
+578|25:16|ואתה חוזר הביתה באיזה שעה?
+579|25:18|לא, אתמול לא עבדתי, זה היה בסדר.
+580|25:20|לא עבדתי.
+581|25:20|לא משנה.
+582|25:22|באו חמש בנות נעימות, חמודות,
+583|25:27|טובות, שמחות, אבל אני מקבל הודעות מהורים,
+584|25:34|אתה יודע, זה בסדר, חוששים, אתה יודע, באמריקה יש הרבה
+585|25:40|משפיענים.
+586|25:42|רגע, הכותרת של הדבר הזה, אתה יודע, יש ברשת הרבה אנשים שעובדים ב...
+587|25:48|ליבוי פחדים.
+588|25:50|יש המון סרטונים שאומרים, אל תעשה את זה ואת זה, נכון?
+589|25:54|כן.
+590|25:55|זה יהרוג אותך.
+591|25:56|כן.
+592|25:56|אם תאכל את זה, אם תשתה את זה, אם תעשה ככה, אז יש הרבה מפחידנים שאומרים, לעולם אל
+593|26:02|תשלחו את בתכם למסיבת פיג'מות.
+594|26:05|כן.
+595|26:05|כן?
+596|26:07|בן האבא של הזה...
+597|26:09|כן, ברור.
+598|26:10|כן.
+599|26:13|אז ההורים דואגים...

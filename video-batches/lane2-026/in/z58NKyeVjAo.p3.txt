@@ -1,0 +1,144 @@
+videoId: z58NKyeVjAo
+parte 4 de 11 · traduzir as linhas 360 a 479 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Tandu 126: Rosh Hashaná, ética, IA e o shofar
+RESUMO: No último programa do ano de 5786, Rav Gottlieb e Avri Gilad comentam a atualidade (os Herzog, as fazendas no território, as explosões no Líbano) e relacionam o Ano Novo à ideia de ser "cabeça e não cauda" contra Pirkei Avot 4:15, "cauda de leões". Discutem a guerra pela terra e a generalização como ferramenta necessária num conflito nacional. Em seguida vem o dilema da colheita de órgãos na China, em que o rabino responde com "Lo tirtzach" (Shemot 20:13) e com a regra de Sanhedrin 74a de que o homicídio é uma das três transgressões pelas quais se entrega a vida, e Avri conta a história do rabino que proibiu salvar o filho na seleção nazista. Depois falam do colapso da educação dos jovens, citando "o impulso do coração do homem é mau desde a juventude" (Bereshit 8:21), e do risco da inteligência artificial. O rabino lê um texto de Avi Rosenblum baseado em Yemima sobre o olhar suave sobre o ano que passou em Elul, sem pedidos de perdão formais e superficiais. Explica também Rabi Natan de Breslov: "chayav" na Gemará é o pecador, e só quem sente o aperto (metzar) é obrigado ao shofar. Na ligação com Yossi Meir, em Porto, o tema são o sustento fixado em Rosh Hashaná (Beitza 16a), as horas de trabalho em Israel e o sentido de Malchiyot, Zichronot e Shofarot. O programa termina com os votos do rabino para 5787: líderes com coração, honestidade e trabalho interior.
+MOMENTOS: 00:33 Último programa do ano de 5786 e os Herzog · 05:44 Pirkei Avot: cabeça ou cauda de leões · 09:36 Aula em Shomer HaHadash: o propósito é desfrutar a vida · 16:00 Generalização e a "pinça" no conflito nacional · 18:01 Colheita de órgãos na China e Lo tirtzach · 21:54 O dilema do pai rico e o rabino sob os nazistas · 23:01 Educação em crise e a escolha das companhias · 27:04 IA que pode matar a humanidade · 35:00 Yemima e Elul: olhar suave sobre o ano que passou · 38:09 Rabi Natan de Breslov: quem é obrigado ao shofar · 49:31 Yossi Meir ao vivo de Porto · 56:17 Votos para o ano de 5787
+FONTES CITADAS: 00:44 Piyut de Rosh Hashaná: Tichle shana vekilelotea · 05:17 Devarim 28:13 · 05:17 Simanim de Rosh Hashaná: Yehi ratzon sheniheye le'rosh ve'lo lezanav · 05:47 Pirkei Avot 4:15 · 09:42 Mishná Rosh Hashaná 1:2 · 10:43 Ideia de que não há prazer senão no dar (Ein hana'a ela benetina) · 11:26 Shir HaShirim 1:5 · 19:49 Shemot 20:13 · 20:08 Shemot 20:13 · 21:02 Sanhedrin 74a · 24:14 Bereshit 8:21 · 35:02 Artigo de Avi Rosenblum com base em Yemima · 35:55 Devarim 10:16 · 36:14 Yemima (ensinamento sobre Elul) · 38:31 Rosh Hashaná 29a · 38:38 Mishná Rosh Hashaná 3:8 · 38:55 Rabi Natan de Breslov (Likutei Halachot) · 39:18 Birkat HaGomel · 39:52 Tehilim 118:5 · 40:07 Yemima sobre Yom Kippur · 41:02 Rabi Natan de Breslov (Likutei Halachot) · 54:18 Rosh Hashaná 16a-16b · 54:30 Devarim 15:18 · 54:43 Ensinamento hassídico sobre o sustento · 54:57 Beitza 16a · 55:36 Musaf de Rosh Hashaná: Malchiyot, Zichronot, Shofarot
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+348|15:00|כי יהודי או לא יהודי זה לא הדבר היחיד שמגדיר אדם.
+349|15:04|אם מדובר באדם טוב, נורמטיבי, עם משפחה טובה, שרוצה
+350|15:10|להתערות, אין שום בעיה עם זה.
+351|15:12|כן.
+352|15:12|בעיניי.
+353|15:13|שום בעיה.
+354|15:14|כן.
+355|15:15|כן.
+356|15:16|אבל אם מדובר במישהו שבא להשליט את אורחות חייו, ואנחנו יודעים שהרבה פעמים
+357|15:22|כשנכנסת אוכלוסייה ערבית למקום, משתנה האופי של המקום.
+358|15:26|נהיגה פרועה, רעש, כל מיני דברים.
+359|15:30|אתה צדיק תמים אתה.
+
+LINHAS A TRADUZIR:
+360|15:32|ברוך השם.
+361|15:33|כן.
+362|15:36|ראיתי ראיון עם אחת מעוטף עזה, שראית את זה?
+363|15:42|כן, בטח.
+364|15:43|אז היא אומרת, אתה בטוח שכל תושבי עזה
+365|15:49|יצאו ויתעללו בחטופים?
+366|15:51|אה.
+367|15:51|אתה בטוח שכולם...
+368|15:53|כן, תראה, השמאל...
+369|15:54|אין הבדל שם, כולם אותו דבר?
+370|15:56|השמאל, העולמי.
+371|15:58|כן.
+372|16:00|הפך את הדבר המגונה ביותר בעיניו, הפך לדבר
+373|16:05|המגונה ביותר בעיניו את ההכללה.
+374|16:08|כאילו אין עבירה בספר החוקים יותר חמורה
+375|16:14|מההכללה.
+376|16:15|כן.
+377|16:15|כי כל דבר שתגיד, יגידו לו, כן, אבל לא כולם.
+378|16:18|זה מה שהם אומרים.
+379|16:19|זה לא משנה שלא כולם.
+380|16:21|אין לזה שום משמעות אם כולם או לא כולם.
+381|16:23|השאלה מי נותן את הטון?
+382|16:25|כן?
+383|16:26|מי מוביל את התנועה?
+384|16:27|כן.
+385|16:28|אי אפשר במאבק לאומי להסתכל על אינדיבידואלים.
+386|16:33|זה לא מעניין.
+387|16:35|זה שבעזה...
+388|16:36|זה לא לגיטימי.
+389|16:37|זה שבעזה יש איזה מוחמד או יש איזה אחמד שהוא חסיד אומות העולם, וגם בלילות הוא
+390|16:43|טורח על קריאת כתבי הארי הקדוש.
+391|16:49|זה ברמה האישית, זה מחמם את הלב.
+392|16:51|כן.
+393|16:52|והוא גם הציל, והוא גם העביר בחשאי אוכל לחטופים.
+394|16:57|זה נהדר.
+395|16:58|זה מעורר תקווה בקשר לגורלו של המין האנושי.
+396|17:01|אבל זה לא משנה כשאתה תוקף אותם.
+397|17:03|כן.
+398|17:03|גם אם הוא ימות.
+399|17:05|ברור.
+400|17:06|אתה לא יכול לעבוד עם פינצטה.
+401|17:08|לא.
+402|17:09|לא, פינצטה זה כלי עבודה גרוע מאוד.
+403|17:11|מאוד.
+404|17:11|מהדר.
+405|17:12|צריך לעבוד עם מהדר.
+406|17:13|וכשאתה עובד עם מהדר, פה ושם אתה פוגע גם בחיות.
+407|17:17|תמימות, השלשול התת-קרקעי לא עשה לך שום דבר.
+408|17:23|כן.
+409|17:23|והנה...
+410|17:24|הרבה צבים איבדו את ביתם בגלל מעדר.
+411|17:30|מה לעשות?
+412|17:31|מה לעשות?
+413|17:33|אבל יש עוד...
+414|17:36|אומרים צבים או צבים?
+415|17:37|זו הפעם העשירית שאני מנסה לפתוח את הנושא הבא, אבל אתה לא נותן לי.
+416|17:41|אבל אומרים צבים או צבים?
+417|17:45|צב, צבים, רגע, צבים.
+418|17:50|צבים.
+419|17:50|בטח.
+420|17:51|פח, פקים.
+421|17:55|פקים שכתוב בתורה.
+422|17:56|כן.
+423|17:57|אה, מעניין.
+424|17:58|בטח.
+425|18:01|אני אנסה לפתוח את הנושא הזה פעם אחרונה ודי.
+426|18:04|כידוע לך, קצירת האיברים שבסין, של
+427|18:10|מתרגלי הפלונגונג, ושל האויגרים, ועוד כל מיני מיעוטים.
+428|18:15|של נוצרים מתפשטת, והיא מתפשטת עכשיו למדינות אחרות.
+429|18:21|הדבר הזה שלא מצליחים לשים לו סוף, של לכידת אנשים
+430|18:28|תמימים, אנשים טובים, ושימוש באבריהם כדי לרפא אנשים חולים,
+431|18:34|זה יתפשט עכשיו גם לתינוקות.
+432|18:38|לוקחים איברים מתינוקות.
+433|18:41|גם כי יש סגולה גדולה בלקחת איבר מתינוק, שזה איבר טרי, שהוא...
+434|18:45|וכו' וכו'.
+435|18:48|ואני שואל אותך, כבוד הרב גוטליב, נגיד, אתה צריך השתלת כליה, חייך תלויים
+436|18:54|בזה.
+437|18:55|כן?
+438|18:56|אם לא תושתל כליה בגופך בתוך שבוע, אתה קפוט.
+439|19:00|כן.
+440|19:00|ואומרים לך שבסין אתה יכול לקבל.
+441|19:03|No questions asked, אין שאלות.
+442|19:07|תבוא, מוצאים לך.
+443|19:10|נוסע או לא נוסע?
+444|19:13|שאלה גדולה.
+445|19:14|אה?
+446|19:15|שאלת רב אני עושה
+447|19:16|פה.
+448|19:24|שאלה גדולה ביותר.
+449|19:26|תשובה?
+450|19:28|אגיד לך, לא אתה.
+451|19:30|אחד מתלמידיך נוטה למות.
+452|19:34|והוא אומר לך, יש לי בן אדם בסין...
+453|19:37|מה ההבדל?
+454|19:37|אני לא תלמיד, מה ההבדל?
+455|19:40|אתה יודע, על תלמיד אתה יכול יותר לדייק מאשר על עצמך.
+456|19:44|כן.
+457|19:49|לא תרצח.
+458|19:52|לא תרצח.
+459|19:55|אחד מעשרת הדיברות.
+460|19:57|ואם זה עולה לך במחיר חייך?
+461|19:59|לא תרצח.
+462|20:00|בסדר, לא תרצח או לא תרצח, אבל בשביל להציל את חייך אולי כן תרצח, לא?
+463|20:05|לא, מה פתאום.
+464|20:05|מה פתאום?
+465|20:06|מה פתאום.
+466|20:08|כי היא לא תגנוב גם, נכון?
+467|20:10|בשביל להציל את זה יחד.
+468|20:11|אתה יודע, אם קורה תאונת דרכים וזה, ולוקחים איברים, אני לא אומר כלום.
+469|20:16|בסדר, ברור.
+470|20:17|אבל לקחת בן אדם ולרצוח אותו, ואתה חי על הרצח הזה?
+471|20:23|אני לא חושב שיש הבדל בין זה לבין תורת הנאצים.
+472|20:29|תורת הגזע של הנאצים.
+473|20:32|אפשר לעשות הכול עם הגזעים הנחותים, בשביל להאדיר את הגזע
+474|20:37|הארי.
+475|20:39|לא, לא תרצח.
+476|20:41|אין הבדל.
+477|20:46|לא תגנוב.
+478|20:48|אם חייך תלויים בגניבה, תגנוב או לא תגנוב?
+479|20:52|זה כבר משהו אחר, זה פחות חמור.

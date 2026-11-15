@@ -1,0 +1,144 @@
+videoId: z58NKyeVjAo
+parte 2 de 11 · traduzir as linhas 120 a 239 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Tandu 126: Rosh Hashaná, ética, IA e o shofar
+RESUMO: No último programa do ano de 5786, Rav Gottlieb e Avri Gilad comentam a atualidade (os Herzog, as fazendas no território, as explosões no Líbano) e relacionam o Ano Novo à ideia de ser "cabeça e não cauda" contra Pirkei Avot 4:15, "cauda de leões". Discutem a guerra pela terra e a generalização como ferramenta necessária num conflito nacional. Em seguida vem o dilema da colheita de órgãos na China, em que o rabino responde com "Lo tirtzach" (Shemot 20:13) e com a regra de Sanhedrin 74a de que o homicídio é uma das três transgressões pelas quais se entrega a vida, e Avri conta a história do rabino que proibiu salvar o filho na seleção nazista. Depois falam do colapso da educação dos jovens, citando "o impulso do coração do homem é mau desde a juventude" (Bereshit 8:21), e do risco da inteligência artificial. O rabino lê um texto de Avi Rosenblum baseado em Yemima sobre o olhar suave sobre o ano que passou em Elul, sem pedidos de perdão formais e superficiais. Explica também Rabi Natan de Breslov: "chayav" na Gemará é o pecador, e só quem sente o aperto (metzar) é obrigado ao shofar. Na ligação com Yossi Meir, em Porto, o tema são o sustento fixado em Rosh Hashaná (Beitza 16a), as horas de trabalho em Israel e o sentido de Malchiyot, Zichronot e Shofarot. O programa termina com os votos do rabino para 5787: líderes com coração, honestidade e trabalho interior.
+MOMENTOS: 00:33 Último programa do ano de 5786 e os Herzog · 05:44 Pirkei Avot: cabeça ou cauda de leões · 09:36 Aula em Shomer HaHadash: o propósito é desfrutar a vida · 16:00 Generalização e a "pinça" no conflito nacional · 18:01 Colheita de órgãos na China e Lo tirtzach · 21:54 O dilema do pai rico e o rabino sob os nazistas · 23:01 Educação em crise e a escolha das companhias · 27:04 IA que pode matar a humanidade · 35:00 Yemima e Elul: olhar suave sobre o ano que passou · 38:09 Rabi Natan de Breslov: quem é obrigado ao shofar · 49:31 Yossi Meir ao vivo de Porto · 56:17 Votos para o ano de 5787
+FONTES CITADAS: 00:44 Piyut de Rosh Hashaná: Tichle shana vekilelotea · 05:17 Devarim 28:13 · 05:17 Simanim de Rosh Hashaná: Yehi ratzon sheniheye le'rosh ve'lo lezanav · 05:47 Pirkei Avot 4:15 · 09:42 Mishná Rosh Hashaná 1:2 · 10:43 Ideia de que não há prazer senão no dar (Ein hana'a ela benetina) · 11:26 Shir HaShirim 1:5 · 19:49 Shemot 20:13 · 20:08 Shemot 20:13 · 21:02 Sanhedrin 74a · 24:14 Bereshit 8:21 · 35:02 Artigo de Avi Rosenblum com base em Yemima · 35:55 Devarim 10:16 · 36:14 Yemima (ensinamento sobre Elul) · 38:31 Rosh Hashaná 29a · 38:38 Mishná Rosh Hashaná 3:8 · 38:55 Rabi Natan de Breslov (Likutei Halachot) · 39:18 Birkat HaGomel · 39:52 Tehilim 118:5 · 40:07 Yemima sobre Yom Kippur · 41:02 Rabi Natan de Breslov (Likutei Halachot) · 54:18 Rosh Hashaná 16a-16b · 54:30 Devarim 15:18 · 54:43 Ensinamento hassídico sobre o sustento · 54:57 Beitza 16a · 55:36 Musaf de Rosh Hashaná: Malchiyot, Zichronot, Shofarot
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|04:59|לא יודע.
+109|05:01|מקרוב.
+110|05:02|מקרוב.
+111|05:03|אם מסתכלים מקרוב.
+112|05:06|אז באופן עקרוני, אני מעדיף מחוות
+113|05:12|אמיתיות.
+114|05:15|ולא מחפורות מפלסטיק.
+115|05:17|מה אתה אומר על שנהיה לראש ולא לזנב?
+116|05:20|בסדר גמור.
+117|05:21|איך אתה לוקח את הדבר הזה?
+118|05:25|הזנב נגרר מאחורה, נשאר בשנה הקודמת, מפרפר לו שמה, הראש מוביל
+119|05:31|קדימה, זה בסדר גמור, אני רוצה להיות ראש.
+
+LINHAS A TRADUZIR:
+120|05:33|בעל דעה עצמאית, לא נגרר אחרי העדר.
+121|05:36|בדיוק.
+122|05:37|חשיבה עצמית, אותנטית.
+123|05:38|עד מאש.
+124|05:40|בטח.
+125|05:42|אבל גדולי הפרשנים...
+126|05:44|כן.
+127|05:44|דופקים פה סתירה.
+128|05:46|כן?
+129|05:47|מה?
+130|05:47|כתוב במסכת אבות, פרק רביעי, הווה זנב לאריות, ואל תהיה ראש
+131|05:53|לשועלים.
+132|05:54|אוקיי, בסדר, פה דיברנו בדג, ופה אתה מדבר בשועלים
+133|05:59|ובאריות.
+134|06:01|זאת אומרת, הם רוצים להגיד שכדאי לך להיות במקום איכותי, גם אם
+135|06:07|אתה תהיה מדגה הריקק שם, אבל מקום איכותי.
+136|06:11|עדיף מאשר תהיה מנהיג.
+137|06:13|של כלומניקים.
+138|06:16|זה מה שרוצים לומר.
+139|06:19|כן, אני מרגיש ככה גם בתפקידי בתקשורת, אני מרגיש ככה.
+140|06:23|דהיינו.
+141|06:24|כן.
+142|06:25|דהיינו.
+143|06:26|דהיינו, שאני מעדיף להיות שחקן קטן בנבחרת ש...
+144|06:32|אומנם לא כל השחקנים מקובלים עליי, ויש לי גם מה להגיד על הטקטיקה המתנהלת, אבל
+145|06:38|בנבחרת שבאופן עקרוני, האמת, היא חלק
+146|06:44|ממה שהיא דוגלת בו, מאשר להיות ראש, ויכולתי,
+147|06:49|לערימה של אנשים שמטעמים אישיים בחרו בשקר כדרך חיים.
+148|06:55|הבנתי.
+149|06:56|מעדיף.
+150|06:57|ברור.
+151|06:58|והיו הצעות, והיו הצעות.
+152|07:00|עם תגמול בצידם.
+153|07:01|בוודאי, בוודאי, בוודאי.
+154|07:04|והעדפת את התגמול הדל.
+155|07:06|לא דל.
+156|07:08|לא דל.
+157|07:09|לא דל, אל, אל, אל, don't.
+158|07:14|אז הייתה שנה של
+159|07:20|כל מיני דברים.
+160|07:23|אגב, הלילה נמחק עלי טהר, שמעת?
+161|07:25|כן.
+162|07:25|וואו, ראיתם את הפיצוץ?
+163|07:27|זה היה הלילה?
+164|07:28|הלילה.
+165|07:29|כי אני הייתי שם לילה שעבר, גם לא היה חסר פיצוצים שם.
+166|07:34|היה הרבה פיצוצים על הראש.
+167|07:35|היית בעלי טהר?
+168|07:37|לא עלי טהר, אבל צפון החולה.
+169|07:40|שם הייתי, והיה שם פיצוצים.
+170|07:43|אף אחד לא דיווח על זה כמובן.
+171|07:44|לא, לא, עלי טהר, אני ראיתי תמונות מנבטיה.
+172|07:47|כן.
+173|07:48|דהלילה, הייתה שם רעידת אדמה.
+174|07:50|כן, ממש.
+175|07:51|בנקודה משהו.
+176|07:52|ממש רעידת אדמה.
+177|07:53|הרבה טונות של חומר נפש.
+178|07:55|עכשיו, דיברתי עם מישהו מיחידת יהלום שלשום.
+179|07:58|כן.
+180|07:58|פגשתי עם מישהו מיחידת יהלום.
+181|08:01|עכשיו, אתה יודע, מפוצצים את המקומות האלה.
+182|08:03|עם בלוט של 20 ליטר של חומר
+183|08:09|נפץ.
+184|08:10|כן.
+185|08:11|הלוחמים של יהלום היו צריכים להכניס את זה רגלית.
+186|08:13|וואו.
+187|08:14|ללכת, ובשביל זה לקח כל כך הרבה זמן.
+188|08:16|לא, לוקחים 20-20, נכנסים במנהרות, שמים, חוזרים אחורה, מביאים.
+189|08:22|מטורף, עבודה מטורפת.
+190|08:25|זה שלפני קום המדינה.
+191|08:26|לגמרי.
+192|08:28|אבל זה עלה השמיימה.
+193|08:29|עכשיו, האיראנים הרי אמרו שמבחינתם זה הקו האדום, והקו השחור, והקו
+194|08:34|ה...
+195|08:35|לא יודע מה.
+196|08:36|כן.
+197|08:37|אני מקשיב.
+198|08:40|שום דבר.
+199|08:41|שום דבר.
+200|08:42|איומים במזרח התיכון.
+201|08:45|אין, אני כבר לא סופר את זה בכלל, כי...
+202|08:49|אתה כבר לא יודע מי נגד מי מרוב שחקנים פה.
+203|08:53|חוטים.
+204|08:54|הכותרת הראשית של מקור ראשון הבוקר, ביום האחרון של השנה,
+205|09:00|היא שזו הייתה שנת החוות.
+206|09:03|היה גידול של 50% בשטח שמחזיקות החוות.
+207|09:09|לא יודע אם יצא לך לראות את המפה.
+208|09:11|זה מטורף, מה שהחבר'ה האלה עשו שם.
+209|09:14|מיליון דונם מחזיקות החוות האלה.
+210|09:16|מיליון דונם.
+211|09:17|זה דומה לשומר החדש?
+212|09:20|יש דמיון?
+213|09:20|יש דמיון.
+214|09:22|יש דמיון.
+215|09:22|הייתי שם.
+216|09:24|איפה?
+217|09:25|בשומר החדש בערד.
+218|09:26|יום רביעי הייתי שם.
+219|09:27|אה, הלכת.
+220|09:28|למכינה שלי.
+221|09:29|כן.
+222|09:29|נו.
+223|09:30|נו.
+224|09:32|חבר'ה זהב.
+225|09:32|כן?
+226|09:32|כן.
+227|09:33|וואלה.
+228|09:34|זהב טהור.
+229|09:35|מה אתה מדבר?
+230|09:36|כן.
+231|09:36|נתת שיעור על מה?
+232|09:38|התחלנו ככה על בית המשפט וכולי.
+233|09:42|כלומר, ראש השנה, שאדם נשפט, ואני אמרתי שכל אחד צריך לשפוט את עצמו.
+234|09:48|שהקדוש ברוך הוא לא צריך מזכירות ולא סנגורים וקטגורים.
+235|09:53|אבל משם עברנו לדברים יותר ויותר רציניים.
+236|09:57|זאת אומרת, להבין מה מטרת האדם פה.
+237|10:02|אני אומר בכל מקום שאנחנו באנו לעולם כאן בשביל ליהנות מהחיים.
+238|10:07|זו המטרה המוצהרת.
+239|10:09|אלוהים ברא אותנו בשביל ליהנות מהחיים.

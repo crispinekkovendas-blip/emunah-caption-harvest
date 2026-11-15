@@ -1,0 +1,144 @@
+videoId: z58NKyeVjAo
+parte 3 de 11 · traduzir as linhas 240 a 359 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Tandu 126: Rosh Hashaná, ética, IA e o shofar
+RESUMO: No último programa do ano de 5786, Rav Gottlieb e Avri Gilad comentam a atualidade (os Herzog, as fazendas no território, as explosões no Líbano) e relacionam o Ano Novo à ideia de ser "cabeça e não cauda" contra Pirkei Avot 4:15, "cauda de leões". Discutem a guerra pela terra e a generalização como ferramenta necessária num conflito nacional. Em seguida vem o dilema da colheita de órgãos na China, em que o rabino responde com "Lo tirtzach" (Shemot 20:13) e com a regra de Sanhedrin 74a de que o homicídio é uma das três transgressões pelas quais se entrega a vida, e Avri conta a história do rabino que proibiu salvar o filho na seleção nazista. Depois falam do colapso da educação dos jovens, citando "o impulso do coração do homem é mau desde a juventude" (Bereshit 8:21), e do risco da inteligência artificial. O rabino lê um texto de Avi Rosenblum baseado em Yemima sobre o olhar suave sobre o ano que passou em Elul, sem pedidos de perdão formais e superficiais. Explica também Rabi Natan de Breslov: "chayav" na Gemará é o pecador, e só quem sente o aperto (metzar) é obrigado ao shofar. Na ligação com Yossi Meir, em Porto, o tema são o sustento fixado em Rosh Hashaná (Beitza 16a), as horas de trabalho em Israel e o sentido de Malchiyot, Zichronot e Shofarot. O programa termina com os votos do rabino para 5787: líderes com coração, honestidade e trabalho interior.
+MOMENTOS: 00:33 Último programa do ano de 5786 e os Herzog · 05:44 Pirkei Avot: cabeça ou cauda de leões · 09:36 Aula em Shomer HaHadash: o propósito é desfrutar a vida · 16:00 Generalização e a "pinça" no conflito nacional · 18:01 Colheita de órgãos na China e Lo tirtzach · 21:54 O dilema do pai rico e o rabino sob os nazistas · 23:01 Educação em crise e a escolha das companhias · 27:04 IA que pode matar a humanidade · 35:00 Yemima e Elul: olhar suave sobre o ano que passou · 38:09 Rabi Natan de Breslov: quem é obrigado ao shofar · 49:31 Yossi Meir ao vivo de Porto · 56:17 Votos para o ano de 5787
+FONTES CITADAS: 00:44 Piyut de Rosh Hashaná: Tichle shana vekilelotea · 05:17 Devarim 28:13 · 05:17 Simanim de Rosh Hashaná: Yehi ratzon sheniheye le'rosh ve'lo lezanav · 05:47 Pirkei Avot 4:15 · 09:42 Mishná Rosh Hashaná 1:2 · 10:43 Ideia de que não há prazer senão no dar (Ein hana'a ela benetina) · 11:26 Shir HaShirim 1:5 · 19:49 Shemot 20:13 · 20:08 Shemot 20:13 · 21:02 Sanhedrin 74a · 24:14 Bereshit 8:21 · 35:02 Artigo de Avi Rosenblum com base em Yemima · 35:55 Devarim 10:16 · 36:14 Yemima (ensinamento sobre Elul) · 38:31 Rosh Hashaná 29a · 38:38 Mishná Rosh Hashaná 3:8 · 38:55 Rabi Natan de Breslov (Likutei Halachot) · 39:18 Birkat HaGomel · 39:52 Tehilim 118:5 · 40:07 Yemima sobre Yom Kippur · 41:02 Rabi Natan de Breslov (Likutei Halachot) · 54:18 Rosh Hashaná 16a-16b · 54:30 Devarim 15:18 · 54:43 Ensinamento hassídico sobre o sustento · 54:57 Beitza 16a · 55:36 Musaf de Rosh Hashaná: Malchiyot, Zichronot, Shofarot
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|09:34|זהב טהור.
+229|09:35|מה אתה מדבר?
+230|09:36|כן.
+231|09:36|נתת שיעור על מה?
+232|09:38|התחלנו ככה על בית המשפט וכולי.
+233|09:42|כלומר, ראש השנה, שאדם נשפט, ואני אמרתי שכל אחד צריך לשפוט את עצמו.
+234|09:48|שהקדוש ברוך הוא לא צריך מזכירות ולא סנגורים וקטגורים.
+235|09:53|אבל משם עברנו לדברים יותר ויותר רציניים.
+236|09:57|זאת אומרת, להבין מה מטרת האדם פה.
+237|10:02|אני אומר בכל מקום שאנחנו באנו לעולם כאן בשביל ליהנות מהחיים.
+238|10:07|זו המטרה המוצהרת.
+239|10:09|אלוהים ברא אותנו בשביל ליהנות מהחיים.
+
+LINHAS A TRADUZIR:
+240|10:11|עד כדי כך.
+241|10:12|כן.
+242|10:12|ומי שלא נהנה מהחיים...
+243|10:14|שימות.
+244|10:15|הוא לא צדיק.
+245|10:17|הוא לא צדיק.
+246|10:17|לא, ההגדרה של צדיק זה אדם שנהנה מכל רגע בחיים שלו.
+247|10:22|ואם, ואם...
+248|10:23|אז הוא לא צדיק.
+249|10:24|ואם, ואם, ואם הוא עבריין נוראי, אבל הוא נהנה מהחיים.
+250|10:28|אין דבר.
+251|10:29|מפזר את כספו על...
+252|10:31|אני לא מאמין שהוא נהנה מהחיים.
+253|10:33|אוקיי.
+254|10:34|אני חושב שיש לו הרבה מועקות וחששות ופחדים.
+255|10:38|לא, אדם שנהנה מהחיים זה אדם...
+256|10:40|כי אנחנו יודעים שאין הנאה...
+257|10:41|זה אדם מרוחני.
+258|10:43|אין הנאה אלא בנתינה, נכון?
+259|10:45|נכון.
+260|10:46|ודיברנו על זה שם, וגם דיברנו על יחסי בנים ובנות.
+261|10:52|כן, שככל שיש אהבה יותר אמיתית, אז הדבר הוא יותר
+262|10:57|משמח.
+263|10:58|בוודאי.
+264|10:59|אבל אם זה מתבטא רק בגופים, זה לא יחזיק.
+265|11:02|נכון.
+266|11:03|גם על זה דיברנו.
+267|11:04|נכון.
+268|11:05|כן, דיברנו על מה שאתה אומר, ההנאה האמיתית היא בנתינה.
+269|11:09|כן.
+270|11:09|הכל הם בונים שם.
+271|11:12|זה הכל הם.
+272|11:13|כן.
+273|11:13|השירותים והשבילים.
+274|11:15|ויש שם שדה בסוף העסק, והם עושים שמירה בלילות.
+275|11:21|כי ממול, ברכס ממול, יש שם הרבה אוהלים.
+276|11:25|כן.
+277|11:25|כן.
+278|11:26|אוהלי קידר, מה שנקרא.
+279|11:27|כן.
+280|11:28|אז יש שמירה בלילות, לא של צבא שלהם.
+281|11:31|כן.
+282|11:32|אז החוות זה דומה.
+283|11:35|החוות זה דומה, איפה שאתה שם...
+284|11:36|מה ההבדל?
+285|11:39|השומר החדש זה משהו שהוא פורמלי?
+286|11:44|במידה מסוימת כן.
+287|11:45|הוא מעוגן על ידי המדינה?
+288|11:47|המדינה מממנת חלק מהשומר החדש.
+289|11:51|והחוות, דהיינו סמוטריץ'.
+290|11:53|אני לא יודע להגיד לך, אני לא יודע.
+291|11:56|אבל שני הדברים חשובים.
+292|12:01|מאוד מאוד, וזו שנה...
+293|12:02|שני הדברים חשובים מאוד.
+294|12:04|זו שנה של מהפך של אחיזתנו בשטח וההבנה שהמלחמה האמיתית
+295|12:10|קורית בין הרגבים.
+296|12:12|כי הפלסטינים והבדואים כובשים את
+297|12:17|האדמה שעל אחר שעל עם הבתים שלהם, ועם החושות שלהם, ועם הפחונים שלהם, ועם
+298|12:23|הכבשים שלהם.
+299|12:24|בהחלט.
+300|12:25|וקמה תנועת נגד, וסוף-סוף, סוף-סוף, הפסקנו ל...
+301|12:29|אין כמו הנוער שמסוגל לזה.
+302|12:32|הם לא מפונקים, הם חדורי חזון, וממש
+303|12:38|נהדרים.
+304|12:39|כן.
+305|12:40|כן.
+306|12:41|לצערנו זה לא כל הנוער, זה רק השמנת של הנוער, או שלאומר רק הצפת של הנוער.
+307|12:46|והם באמת באים מכל מיני מקומות בארץ, ומכל מיני סוגים של
+308|12:52|חברות.
+309|12:53|כן.
+310|12:53|יש דתיים, לא דתיים, וכולי.
+311|12:56|אבל זה נכון, יש פה ממש מלחמה.
+312|13:01|דיברתי עם איש קרקעות, איש נדלן, באזור הגליל התחתון.
+313|13:07|אז הוא אמר לי שיש מלחמה על כל דונם.
+314|13:12|היהודי מציע פחות, והערבי מציע יותר,
+315|13:17|והערבי בא עם מזוודות עם כסף מזומן.
+316|13:23|כך הוא אמר לי, איש הנדל"ן.
+317|13:25|וקשה מאוד לאנשים לסרב לפיתוי הזה.
+318|13:31|אתה צריך להיות איש של חזון בשביל לא למכור את אדמת המולדת שלך.
+319|13:35|זו שאלה מאוד חשובה.
+320|13:37|האם...
+321|13:39|אתה מקבל יותר ומזומן, פשוט מזוודות, כמו שאתה יודע.
+322|13:44|דון קורליאונה.
+323|13:47|שמע...
+324|13:48|מאיפה יש להם מזוודות עם כל כך הרבה מזומנים?
+325|13:51|חלק גם מימון חוץ, קטאר וכל זה.
+326|13:54|כל מיני.
+327|13:55|בוודאי.
+328|13:56|בוודאי.
+329|13:57|בטח.
+330|14:00|תדע לך שזה ממש מלחמה, לא יודע אם תושבי המרכז בכלל מודעים לדבר הזה.
+331|14:05|יש מלחמה על כל דונם, בגליל, בנגב.
+332|14:10|אז זו שאלה מוסרית אחת שרציתי להעלות היום, באמת, אם בא לך בן אדם עם מזוודה ונותן לך
+333|14:16|אותה כדי שתמכור את אדמתך למי שאין לך אינטרס לאומי שהוא יהיה בעלי הקרקע,
+334|14:22|אם אתה לוקח את המזוודה.
+335|14:23|יכול להיות שלא רק שאין לך אינטרס לאומי, אלא יש לך אינטרס שהוא יעבור מפה בכלל.
+336|14:29|בסדר, לא...
+337|14:31|לא נרמז רמזים.
+338|14:32|לא נרמז.
+339|14:34|אבל הסוגיה...
+340|14:35|תראה, יש...
+341|14:36|אני מלמד בקציר, והם עומדים לפני השאלות האלה הרבה
+342|14:42|פעמים.
+343|14:43|תאר לעצמך, אחד מהחברה, אחד מהחבר'ה, מתברר שהוא מכר
+344|14:50|את הבית שלו עם ה...
+345|14:53|לאדם לא יהודי, ששילם טוב.
+346|14:57|זאת אומרת...
+347|14:57|אז קודם כל נשאלת השאלה, מיהו האדם שאיננו יהודי?
+348|15:00|כי יהודי או לא יהודי זה לא הדבר היחיד שמגדיר אדם.
+349|15:04|אם מדובר באדם טוב, נורמטיבי, עם משפחה טובה, שרוצה
+350|15:10|להתערות, אין שום בעיה עם זה.
+351|15:12|כן.
+352|15:12|בעיניי.
+353|15:13|שום בעיה.
+354|15:14|כן.
+355|15:15|כן.
+356|15:16|אבל אם מדובר במישהו שבא להשליט את אורחות חייו, ואנחנו יודעים שהרבה פעמים
+357|15:22|כשנכנסת אוכלוסייה ערבית למקום, משתנה האופי של המקום.
+358|15:26|נהיגה פרועה, רעש, כל מיני דברים.
+359|15:30|אתה צדיק תמים אתה.
