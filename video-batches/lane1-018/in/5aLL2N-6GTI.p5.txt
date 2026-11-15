@@ -1,0 +1,109 @@
+videoId: 5aLL2N-6GTI
+parte 6 de 6 · traduzir as linhas 600 a 684 (85 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: A virtude da paz: do amor egoísta ao amor sem condições
+RESUMO: O rabino parte do princípio de que a vontade do Criador é fazer o bem às criaturas, mas há uma disputa: as criaturas pedem prazer primeiro, e o Criador pede que elas se corrijam no amor ("ama o teu próximo como a ti mesmo" e amar HaShem) para então receberem. Explica que o prazer egoísta se esgota depressa, porque no Criador não há recebimento, só doação, e que o prazer duradouro vem de dar e amar. Cita o Zohar sobre o anjo "Dumá" e o versículo "Não são os mortos que louvam Y-ah", dizendo que medir o Criador pela lógica humana leva à morte, e que o amor e a fé estão acima da razão (Eclesiastes, Yirmiyahu, Bereshit). Ensina que a paz começa em casa, que o conflito é intencional para nos levar a buscar a fórmula certa da vida, e que a Cabalá descreve 125 degraus de amor. Conclui que não se deve tentar corrigir o outro, mas a si mesmo, com a autocrítica limitada a um tempo fixo (Tehilim 57), e conta a história de Rav Shlomo Carlebach e do prisioneiro que se corrigiu por receber um beijo.
+MOMENTOS: 01:06 A vontade do Criador e o conflito com as criaturas · 04:36 O judaísmo tem uma só meta: o amor · 08:16 O prazer egoísta se esgota: o exemplo do café · 10:20 No Criador só há doação; prazer vem do dar · 14:48 A alma divina desperta o amor pelo outro · 16:53 A paz com o Criador exige corrigir-se no amor · 22:39 Zohar: o anjo Dumá e medir o Criador pela lógica humana · 25:36 Amor e fé acima da razão e da natureza · 30:42 Primeiro o amor extremo, depois receber para dar · 33:20 A paz começa no círculo familiar · 36:39 Por que a Criação nasceu com conflito · 43:26 A Cabalá e os 125 degraus de amor · 46:29 Zohar: o que é shalom; Shabat é paz · 49:55 Não tente corrigir o outro, corrija a si mesmo · 55:34 História de Rav Shlomo Carlebach e o prisioneiro · 1:00:16 Autocrítica com hora marcada: Tehilim 57
+FONTES CITADAS: 04:41 Vayikrá 19:18 · 04:41 Devarim 6:5 · 05:59 Baruch SheAmar · 22:39 Zohar, sobre o anjo Dumá · 22:45 Amidá, Guevurot · 23:34 Tehilim 115:17 · 25:36 Kohelet 1:18 · 25:36 Bereshit 2:17 · 26:23 Iov 11:12 · 26:56 Yirmiyahu 2:2 · 36:39 Midrash/Talmud, sobre o nome Shalom · 46:36 Zohar, Israel, Torá e o Santo Bendito Seja Ele · 47:14 Zohar, Shalom é Shabat · 51:32 Mishlei 10:12 · 58:51 Devarim 25:19 · 1:00:16 Tehilim 57:9 · 1:00:35 Berachot 4a · 1:01:49 Mishná Pesachim/Chagigá, mitzvá de subir a Jerusalém nas festas (alusão humorística)
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+588|53:56|כי עיקר עיקר עבודתנו כאן זה קודם כל לראות את הטוב שבי
+589|54:03|לא להיכנע ליצר הרע ולראות את הרע שבי קודם כל לראות את
+590|54:08|המסוגלות הטובה שבי ואז בד בבד על
+591|54:14|ידי שאני מגלה את הצדדים הטובים שבי אז אני נהיה
+592|54:19|ערני לצדדים הפחות טובים והטוב כובש את הרע
+593|54:25|בתוכי.
+594|54:27|ואז אפשר לדבר הלאה.
+595|54:30|אני אומר, בקושי התירו לאדם להתעסק עם הרע
+596|54:36|של עצמו בכדי לתקן אותו.
+597|54:40|בטח לא להתעסק עם הרע של השני.
+598|54:44|בשום אופן לא.
+599|54:53|אני לא מדבר...
+
+LINHAS A TRADUZIR:
+600|54:56|אם יש במציאות אדם שהוא פוגע באחרים,
+601|55:02|באלימות, אז בוודאי שצריך להפסיק את זה.
+602|55:08|זה ברור.
+603|55:10|לא צריך לאפשר שום אלימות.
+604|55:15|זה פשוט.
+605|55:18|אבל אני מדבר על ההתייחסות לאחרים.
+606|55:22|כל נזק שהוא צריך להפסיק אותו.
+607|55:26|לא לאפשר שום נזק, אבל ההתייחסות לאחרים.
+608|55:30|אז בעצם...
+609|55:34|בלוויה של רב שלמה קרליבך, ראו שם איזה כושי,
+610|55:41|מבוגר, יושב ובוכה, בדמעות שליש.
+611|55:47|אז שאלו אותו, מה היה לך עם רב שלמה?
+612|55:52|כל כך בכה.
+613|55:55|אז הוא אמר, אני ישבתי בבתי סוהר הרבה מאוד שנים
+614|56:02|ועל דברים כבדים ביותר ומכוערים ביותר.
+615|56:13|היה זמן שרב שלמה הלך לבקר בבתי סוהר והוא ראה
+616|56:19|את הכושי הזה והוא ניגש אליו וחיבק אותו
+617|56:25|ונשק אותו.
+618|56:28|ולא שהוא לא ידע על מה הוא יושב שם, הוא ידע.
+619|56:33|אבל הוא חיבק אותו ונשק אותו.
+620|56:37|ושם בבית הסוהר, הכושי הזה פרץ בבכי עצום.
+621|56:44|הוא אמר לרב שלמה, זאת הנשיקה הראשונה שאני
+622|56:50|מקבל בימי חיי.
+623|56:52|מעולם לא קיבלתי נשיקה.
+624|56:55|אתה האדם הראשון שמנשק אותי.
+625|57:00|והוא כבר היה אדם מבוגר, לא אדם צעיר.
+626|57:09|ואז הכושי הזה מספר שהתחילו לבוא
+627|57:14|לו הרהורי חרטה ותשובה,
+628|57:20|רצון לתקן את עצמו.
+629|57:23|כי הוא הרגיש את הלב של רבי שלמה,
+630|57:30|שהוא פשוט חיבק אותו ונשק אותו, לא בגלל שהוא רצה להרוויח ממנו משהו,
+631|57:37|אלא סוג של אהבה לבבית בלי תנאים, לכל חי.
+632|57:47|אז הוא אמר, אם יש עוד אנשים כאלה, בשביל אנשים כאלה
+633|57:53|כדאי לחיות.
+634|57:59|והוא תיקן את עצמו והוא יצא מבית הסוהר והקים
+635|58:04|משפחה.
+636|58:10|אני מספר את הסיפור הזה בכדי לומר שאדם שמזיק
+637|58:17|ברור שצריך לעצור אותו, אבל אפילו אדם כזה
+638|58:23|אפשר למצוא בו נקודות של זכות.
+639|58:28|‫אפילו אדם כזה.
+640|58:31|‫קל וחומר אנשים רגילים נורמטיביים.
+641|58:34|‫מה?
+642|58:39|‫נכון.
+643|58:45|‫כן, את רציתי ש...
+644|58:49|‫שכחת.
+645|58:51|‫אבל כתוב לא תשכח.
+646|58:52|‫כתוב בתורה לא תשכח.
+647|58:54|‫כן.
+648|59:24|בהחלט, לא להגיד כלום, לא להגיד שום דבר
+649|59:34|ורק לנסות לראות את הטוב
+650|59:43|ולהבין שאם אני רואה בו משהו שלילי,
+651|59:48|סימן שאני צריך לתקן משהו אצל עצמי.
+652|59:53|אבל כמו שאמרתי, בקושי התירו לנו
+653|59:59|לעשות ביקורת עצמית חצי שעה ביום.
+654|1:00:03|לא יותר.
+655|1:00:05|ושאר היום אנחנו צריכים להתמקד גם בטוב שבנו.
+656|1:00:12|מאיפה לומדים את זה מדוד המלך?
+657|1:00:16|דוד המלך אומר בתהילים, הוא משתבח
+658|1:00:22|בעצמו שהוא קם מוקדם, לפנות בוקר, האיר השחר,
+659|1:00:29|אורא כבודי האיר השחר.
+660|1:00:35|אני מעורר השחר ואין השחר מעורר אותי.
+661|1:00:38|כלומר, הוא היה קם לפנות בוקר.
+662|1:00:45|באים רבותינו ואומרים, השחר זה ביקורת עצמית.
+663|1:00:52|כשאני מסתכל על הנקודות השחורות שבתוכי, אני לא
+664|1:00:57|מאפשר לשחור שבי לבוא מתי שבא לו.
+665|1:01:05|יש שעות קבלת קהל, אני מעורר השחר,
+666|1:01:12|אני מחליט מתי אני מסתכל על הנקודות השחורות
+667|1:01:17|שלי, ואין השחר מעורר אותי, אני לא מקבל נקודות
+668|1:01:23|שחורות מתי שמתעורר איזה תסכול
+669|1:01:29|מעצמי, לא מקבל.
+670|1:01:32|יש זמן קצוב.
+671|1:01:34|שבו אני עושה ביקורת עצמית.
+672|1:01:38|אני צריך להחליט איזה זמן, וזהו.
+673|1:01:45|אז להגיד לשני, בטח שלא.
+674|1:01:49|אלא אם כן הוא מקיים מצוות עלייה לרגל, והוא עולה לך לרגל.
+675|1:01:57|אז גם אז, תגידי לו, אדוני
+676|1:02:03|היקר, ‫אולי אתה מוכן ברוב טובך
+677|1:02:07|‫לשחרר לי את הרגל.
+678|1:02:11|‫נתראה
+679|1:02:19|עוד
+680|1:02:19|שבוע
+681|1:02:30|הבא.
+682|1:02:41|התראות.
+683|1:02:42|תודה רבה על השיעור.
+684|1:02:43|כל טוב.

@@ -1,0 +1,91 @@
+videoId: frc-a3U4Yc0
+parte 5 de 5 · traduzir as linhas 480 a 546 (67 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Segredo explica segredo e a Mishná das quatro coisas
+RESUMO: O rabino lê o Ra'ayei HaAri, de Rav Kook, e ensina que segredos da Torá só se esclarecem por outros segredos, não pela tradução (Targum, cuja guematria é "tardemá", sono profundo). Ele cita Iyov 28:11, "ותעלומה יוציא אור", com Rashi e Pirkei de Rabi Eliezer, e liga isso aos pontos sobre as letras י-ו em "אליו" em Bereshit 18:9 e à regra de perguntar do homem sobre a mulher e vice-versa. Depois vem o Olat Tamid sobre a Nukva como "enchimento" de Zeir Anpin: Chavá e "goi" têm guematria 19, e Rav Kook diz que o todo preenche cada indivíduo. Em seguida, no Ari, as kelipot se prendem às costas da Nukva e, em medida menor, às seis extremidades de Zeir Anpin. Por isso a criação do mundo não tem prova que obrigue, e a liberdade de escolha fica preservada. Por fim, o rabino lê a Mishná de Chagigá sobre quem contempla "o que há à frente e o que há atrás" e conclui com Rav Kook, que reconcilia a eternidade do Infinito com a criação (chidush) do mundo.
+MOMENTOS: 00:12 Segredos só são explicados por segredos · 01:05 Targum e a guematria de "tardemá" · 02:36 Iyov: "ta'alumá yotzi or" e Rashi · 03:31 Os pontos sobre י-ו em "אליו" · 05:07 Níveis iguais de homem e mulher revelam um ao outro · 08:13 A Nukva como enchimento de Zeir Anpin · 12:33 Rav Kook: "goi", Chavá e a guematria 19 · 17:16 Kelipot nas costas da Nukva e em Zeir Anpin · 22:14 Por que a criação não tem prova obrigatória · 25:48 A liberdade de escolha e o intelecto · 31:04 Mishná de Chagigá: quem contempla quatro coisas · 35:50 Rav Kook: eternidade e criação do mundo
+FONTES CITADAS: 00:12 Rav Kook, Ra'ayei HaAri · 00:30 Zohar, Rabi Shimon bar Yochai · 01:05 Ari, sobre a guematria de Targum e tardemá · 02:36 Iyov 28:11 · 02:43 Rashi em Iyov 28:11, citando Pirkei de Rabi Eliezer · 03:31 Bereshit 18:9 · 04:27 Bava Metzia 87a · 04:58 Iyov 28:11 · 08:13 Ra'ayei HaAri; Olat Tamid, Sha'ar HaTefilin · 08:34 Shabat 33b · 12:33 Rav Kook, Kvatzim MiKtav Yad Kodsho, letra ayin · 15:10 Zohar sobre klal e perat · 17:16 Ra'ayei HaAri, capítulo 3 · 18:03 Mishlei 5:5 · 20:31 Rambam, Moré Nevuchim · 21:29 Bereshit 1:1 e 1:5 · 23:13 Bereshit 1:1 · 30:21 Iyov 31:2 · 31:08 Mishná Chagigá 2:1 · 33:27 Rav Kook, Kovetz Zayin, mem-alef · 35:50 Rav Kook, Kovetz Zayin, mem-alef
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+468|32:53|לא, כאילו לא בא לעולם.
+469|32:54|אבל השאלה היא אם
+470|32:56|יש
+471|33:05|חומר גשמי יותר, או שאין דבר כזה, חומר גשמי זה רק שבע, לא על חומר עכשיו.
+472|33:09|עכשיו יש, האמת היא, יש ב...
+473|33:13|יש לך, אולי יצחק, אתה יכול לתת לי בבקשה איזה קובץ?
+474|33:18|זין?
+475|33:18|קובץ זין?
+476|33:21|קובץ זין הזה, הבאנו ממנו
+477|33:27|בהתחלה, בראי הראשון, בעניין המניות,
+478|33:32|שבאין סוף אין מניות, אין חוק הנמנע.
+479|33:36|שמה יכול להיות שהאלכסון יותר קצר מהצלע, זוכרים?
+
+LINHAS A TRADUZIR:
+480|33:42|והחלק יותר גדול מהכל, באינסוף.
+481|33:47|והעבר יכול להיות אחרי העתיד.
+482|33:50|אין בעיה, זה באינסוף, כן?
+483|33:53|זה היה עובד ויהיה.
+484|33:53|אז שם הבאת רק את הקטע שהיה שייך
+485|34:02|לעניין שלנו שלמדנו שמה.
+486|34:04|כן, זה גם אין עניין מוקדם ומאוחר בתורה, יפה מאוד, נכון, מאוד,
+487|34:10|נכון.
+488|34:12|וזה הבאתי מה ששייך חלק מהפסקה, זו פסקה ארוכה.
+489|34:16|מה ששייך לשמה.
+490|34:17|עכשיו נראה מה זה שייך, מה זה שייך אלינו.
+491|34:24|הנה זה מגיע.
+492|34:27|זה בכובד זין, מ"א.
+493|34:29|מ"א, יישר כוח.
+494|34:35|בדיוק.
+495|34:37|הנה, מצד שורש השורשים אין סוף במילואי, אין מקום לשום נמנע.
+496|34:42|אין מקום לשום נמנע.
+497|34:45|שם יכול להיות חלק גדול מהכל,
+498|34:52|עבר מאוחר לעתיד, זה הלשון של הרב.
+499|34:55|אז בהמשך שם הוא אומר...
+500|35:50|ומראשית ועד אחרית, אור בעיר זרוח, אור קודש זרוע.
+501|35:53|והנס והטבע מאוחדים, ורוח השם זרחה על הרמב״ם,
+502|35:59|והקימו את יסוד האמונה, מאוגד
+503|36:05|עם שורש החידוש הגמור והמוחלט, חידוש העולם.
+504|36:10|ועם זה, את הדרך של המדע מוביל אל ההכרה האלוקית על יסוד הקדמות,
+505|36:17|שהוא יסוד נופל תכף בהזרחת אור האמונה.
+506|36:20|אור האמונה בחידוש העולם, מפיל את עניין
+507|36:26|הקדמות.
+508|36:27|הבא ומופיע מיד אחרי ההברקה המדעית המקפת.
+509|36:30|אמנם, הקדמות השפלה, העכורה, היוונית של
+510|36:35|אריסטו, אינה כי אם דמיון חלש וכוזב, המאוגד עם
+511|36:41|הכסל והרשע הבהמי החיצוני, המתגבר על האדם, ההולך וטר אחר עיניו,
+512|36:48|ואין מכניסים מהרגליים בעזרה.
+513|36:50|אבל בשורש שורשו, המקור הגבוה של
+514|36:56|הקדמות, שמשם יש נטיית השכל בהתבודדותו אליו,
+515|37:02|הוא נובע מהמציאות המוחלטה, העליונה מכל, הבלתי מותנה, הבלתי סופית, השוללת כל
+516|37:08|שלילות ומצרים.
+517|37:09|הוא מעדר את כל העדרים.
+518|37:12|הנה, זה אצלנו המון עדר גם כן.
+519|37:14|עדר נהדר.
+520|37:15|מעדר את כל העדרים, כלומר, אין העדר ברוחני.
+521|37:19|אין עדר.
+522|37:22|היא מעדרת את העדר, אז אין עדר.
+523|37:26|ורק כדי להכין, כן, אז זה היה, הווה ויהיה, זה האינסוף, ומצד זה,
+524|37:33|באמת, זה המקור, באמת, לקדמות העולם, אז אין מקום לחידוש, אין מקום לבריאה אש
+525|37:37|בעין.
+526|37:39|ומצד זה אין את כל הנמנעות, מצד זה העתיד, העבר יכול להיות אחרי העתיד.
+527|37:43|ורק כדי להכין תבל, עולם, מתואר ומוגבל, שהשלילה עם החיוב פועלים,
+528|37:49|פעולתם בקרבו, כדי שיהיה מקום לעבודה בשכר ועונש, כדי
+529|37:54|שלא נעמד לכיסופה כמו שלמדנו, שזה עשה את העולם, ועושים תפקידם
+530|38:00|לשחלולו, קדם ההיעדר העשוי, הצמצום, המתווה את הרשימה הקדומה, לכן נעשה הצמצום,
+531|38:05|והסתלק האור, שנתן יסוד החידוש בגילוי, והכין את העולם המתואר, שהוא כלי לקבלת
+532|38:11|חיי האמונה.
+533|38:12|שאיפת החידוש, החידוש, כבוד השם, וגילוי כבוד השם.
+534|38:17|זה חדש, חידש את העולם, יש מאין.
+535|38:21|שמו וזכר קודשו.
+536|38:25|והמהלך העליון הזה מקדש את הטבע כולו, מכשיר את החיים לאור הניסים וכל הנפלאות כולה.
+537|38:31|מצד זה יש מקום לניסים.
+538|38:33|אם תגיד הכל היה רבי, אין מקום לניסים.
+539|38:35|מאחד את העולמים הנצחיים הזמניים.
+540|38:37|מקדש את חיי הארץ וקדושת חיי השמיים.
+541|38:39|מחבר את האדנים העליונים והתחתונים.
+542|38:42|וכו' וכו' וכו'.
+543|38:42|ראיתם?
+544|38:44|אז יש מקור לזה עליון.
+545|38:47|מה, אקח, נפתח, יצרנו כאן.
+546|38:52|זה כובד זין, אות, מ"א.
