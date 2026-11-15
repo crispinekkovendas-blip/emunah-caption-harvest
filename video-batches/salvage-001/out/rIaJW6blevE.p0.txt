@@ -1,0 +1,1109 @@
+0	Thank you.	Obrigado.
+1	Running,	Correndo,
+2	Running, on the side, from before.	Correndo, ao lado, de antes.
+3	Those who…	Aqueles que…
+4	No.	Não.
+5	Yes, yes, thank you.	Sim, sim, obrigado.
+6	I	Eu
+7	I'll write to you in the group about the renovation, so we'll see what she thinks	Vou escrever para vocês no grupo sobre a reforma, aí vamos ver o que ela acha
+8	of doing.	de fazer.
+9	Be here before and after.	Estejam aqui antes e depois.
+10	It starts, in a good hour, in two weeks	Começa, em boa hora, em duas semanas
+11	and a half.	e meia.
+12	Why, Orit?	Por quê, Orit?
+13	I thought he didn't need it.	Achei que ele não precisava.
+14	Why?	Por quê?
+15	What can you renovate?	O que você pode reformar?
+16	You said fine.	Você disse que tudo bem.
+17	Alisa, thank you.	Alisa, obrigado.
+18	Thank you very much.	Muito obrigado.
+19	Bye.	Tchau.
+20	That's Freudian.	Isso é freudiano.
+21	Like they ask, you're not available.	Como perguntam, você não está disponível.
+22	Right, sir.	Isso, senhor.
+23	In the studio, yes, here there are a few...	No estúdio, sim, aqui tem alguns...
+24	No, the studio is almost square, they ask me, are you in a period?	Não, o estúdio é quase quadrado, me perguntam: você está numa fase?
+25	I say, open studio.	Eu digo: estúdio aberto.
+26	He's precise.	Ele é preciso.
+27	I'm open to all kinds of things.	Estou aberta a todo tipo de coisa.
+28	Yes, but	Sim, mas
+29	the studio is open.	o estúdio é aberto.
+30	It's chocolate, I have some of those.	É chocolate, eu tenho uns desses.
+31	This is...	Isto é...
+32	Thank you	Obrigado
+33	very much.	muito.
+34	Thank you	Obrigado
+35	very much	muito
+36	Wow, you	Nossa, você
+37	are making a king	está fazendo um rei
+38	teaching.	ensinando.
+39	Ori is fine.	Ori está bem.
+40	Fine.	Certo.
+41	My discovery.	Minha descoberta.
+42	I feel like going far.	Dá vontade de ir longe.
+43	Thank you very much.	Muito obrigado.
+44	Okay, someone must be arriving late, I think.	Bom, parece que alguém vai chegar atrasado.
+45	They're texting in the group, maybe.	Talvez estejam trocando mensagens no grupo.
+46	We're starting.	Vamos começar.
+47	You have to know it's five, otherwise they'll always come late.	Tem que saber que é às cinco, senão sempre vão chegar atrasados.
+48	No, we're really starting.	Não, vamos mesmo começar.
+49	In the past, we used to start a bit	No passado, a gente começava um pouco
+50	late, by...	atrasado, com...
+51	I wrote today that we would start on time.	Escrevi hoje que vamos começar na hora.
+52	Apparently, we'll find out.	Pelo visto, vamos ver.
+53	Okay,	Bom,
+54	we can hand out the pages.	podemos distribuir as folhas.
+55	I'm not doing this here.	Eu não faço isso aqui.
+56	That today we have before us.	Que hoje temos diante de nós.
+57	Yes, I want to see	Sim, quero ver
+58	Tzvika.	Tzvika.
+59	Yes, I want to see this.	Sim, quero ver isso.
+60	Yes, I want	Sim, quero
+61	to see this.	ver isso.
+62	Thank you.	Obrigado.
+63	Okay, hello everyone.	Bom, shalom a todos.
+64	The lesson is called: Why did Sarah	A aula se chama: Por que Sara
+65	laugh?	riu?
+66	This is a passage from the Parashah,	É um trecho da Parashá,
+67	chapter 1, the big question.	capítulo 1, a grande pergunta.
+68	Sarah Imenu is one of the greatest figures in the Torah.	Sara Imênu é uma das maiores figuras da Torá.
+69	Chazal say she was greater than Avraham in prophecy,	Os Sábios dizem que ela era maior que Avraham em profecia,
+70	and that HaShem told Avraham: "All that Sarah	e que HaShem disse a Avraham: "Tudo o que Sara
+71	says to you, listen to her voice." She went with	te disser, ouve a sua voz." Ela foi com
+72	Avraham from Charan, withstood the test in Pharaoh's house, in the house of	Avraham de Charan, resistiu à prova na casa de Faraó, na casa de
+73	Avimelech, and made souls alongside her husband. That is,	Avimelech, e fez almas ao lado do marido. Ou seja,
+74	Avraham converts the men and Sarah converts the women.	Avraham converte os homens e Sara converte as mulheres.
+75	And behold, when the angel announces, "And behold, your wife Sarah has a son," the Torah	E eis que, quando o anjo anuncia: "E eis que Sara, tua mulher, terá um filho", a Torá
+76	tells us: "And Sarah laughed within herself." And HaShem	conta: "E Sara riu dentro de si." E HaShem
+77	Himself asks, "Why did Sarah laugh?"	Ele mesmo pergunta: "Por que Sara riu?"
+78	"Is anything too wondrous for HaShem?"	"Acaso algo é maravilhoso demais para HaShem?"
+79	How is it possible that Sarah Imenu, who saw HaShem's hand in every step of her life,	Como é possível que Sara Imênu, que viu a mão de HaShem em cada passo da sua vida,
+80	did not believe that He could give her a son?	não acreditou que Ele poderia lhe dar um filho?
+81	How does a woman of such stature laugh at a divine promise,	Como uma mulher de tal nível ri de uma promessa divina,
+82	and afterward also deny it and say, "I did not laugh"?	e depois ainda nega e diz: "Não ri"?
+83	The question is even sharper, because Avraham also laughed when he was promised	A pergunta é ainda mais aguda, pois Avraham também riu quando lhe prometeram
+84	a son, and HaShem did not rebuke him at all. What is the difference	um filho, e HaShem não o repreendeu em nada. Qual é a diferença
+85	between Avraham's laughter and Sara's laughter? And why	entre o riso de Avraham e o riso de Sara? E por que
+86	is it precisely the son born out of this laughter who is called Yitzchak,	justamente o filho nascido desse riso se chama Yitschak,
+87	after the laughter? That is, if laughter is a negative factor,	em nome do riso? Ou seja, se o riso é um fator negativo,
+88	why name the child with a name that carries a negative connotation?	por que dar à criança um nome de conotação negativa?
+89	So now, in chapter 18, we have the verses of the Parashah,	Então agora, no capítulo 18, temos os versículos da Parashá,
+90	and then an analysis of verse 9: "And they said to him,	e depois a análise do versículo 9: "E disseram-lhe:
+91	'Where is Sarah your wife?'	'Onde está Sara, tua mulher?'
+92	And he said, 'Behold, in the tent.'" Why do the angels ask where Sara is?	E ele disse: 'Eis que está na tenda.'" Por que os anjos perguntam onde está Sara?
+93	They surely know. Rashi, citing Chazal: to let it be known	Eles com certeza sabem. Rashi, citando os Sábios: para mostrar
+94	that she is modest, and to endear her to her husband. Sara is	que ela é recatada e torná-la querida ao marido. Sara está
+95	in the tent, inside, hidden. This is	na tenda, dentro, escondida. Esta é
+96	Rashi's message. "And he said,	a mensagem de Rashi. "E disse:
+97	'I will surely return to you at this time next year, and behold, a son	'Certamente voltarei a ti por este tempo no ano que vem, e eis que um filho
+98	for Sarah your wife.'" And Sara was listening at the entrance of the tent, which was	para Sara, tua mulher.'" E Sara escutava à entrada da tenda, que estava
+99	behind him. To whom is the good news directed?	atrás dele. A quem se dirige a boa notícia?
+100	The news is told to Avraham, and Sara hears it from behind the entrance,	A notícia é dita a Avraham, e Sara a ouve de trás da entrada,
+101	indirectly; she does not hear it face to face.	indiretamente; ela não a ouve face a face.
+102	All of this is verses and explanations according to the simple pshat.	Tudo isso são versículos e explicações segundo o pshat simples.
+103	"And Avraham and Sarah were old, advanced in years.	"E Avraham e Sara eram velhos, avançados em dias.
+104	It had ceased to be with Sarah after the manner	Já cessara de haver para Sara o costume
+105	of women."	das mulheres."
+106	Why does the Torah tell us this specifically here?	Por que a Torá nos conta isso justamente aqui?
+107	So that we understand that, from the standpoint of nature, the news is impossible.	Para entendermos que, do ponto de vista da natureza, a notícia é impossível.
+108	It is not a matter of difficulty but of a complete absence of a vessel.	Não se trata de dificuldade, mas da total ausência de um vaso.
+109	That is, we are talking about two completely elderly people.	Ou seja, falamos de duas pessoas totalmente idosas.
+110	"And Sarah laughed within herself, saying, 'After I have withered, shall I have	"E Sara riu dentro de si, dizendo: 'Depois de eu envelhecer, terei
+111	pleasure, and my lord is old?'" What	prazer, sendo meu senhor velho?'" O que
+112	does "within herself" mean?	significa "dentro de si"?
+113	The laughter did not come out; it was inside her, within, and was not heard	O riso não saiu; estava dentro dela, no íntimo, e não foi ouvido
+114	by anyone. And "pleasure" is explained	por ninguém. E "prazer" é explicado
+115	by Rashi as the softness of the flesh and the return of youth.	por Rashi como a maciez da carne e o retorno da juventude.
+116	"And HaShem said to Avraham, 'Why did Sarah laugh, saying, Shall I truly bear a child,	"E HaShem disse a Avraham: 'Por que Sara riu, dizendo: Darei mesmo à luz,
+117	when I am old?'" Why does HaShem change her words?	sendo eu velha?'" Por que HaShem muda as palavras dela?
+118	Sara said "and my lord is old," and HaShem tells Avraham "and I am old."	Sara disse "e meu senhor é velho", e HaShem diz a Avraham "e eu sou velha".
+119	From here Chazal learned that peace is great.	Daqui os Sábios aprenderam que a paz é grande.
+120	that even the Holy One, Blessed be He, changed what was said for the sake of peace, and she said "and my lord is old,"	que até o Santo, Bendito Seja, alterou o que foi dito por causa da paz, e ela disse "e meu senhor é velho",
+121	and He reports to him that she said "I am old."	e Ele conta a ele que ela disse "eu sou velha".
+122	"Is anything too wondrous for HaShem?"	"Acaso algo é maravilhoso demais para HaShem?"
+123	"At the appointed time I will return to you, at this time next year, and Sarah shall have a son."	"Na época determinada voltarei a ti, por este tempo no ano que vem, e Sara terá um filho."
+124	What is the rebuke here?	Qual é a repreensão aqui?
+125	It is not "Why did you not believe Me?"	Não é "por que não acreditaste em Mim?"
+126	"Why did you not believe Me?"	"Por que não acreditaste em Mim?"
+127	but rather "Is anything too wondrous for HaShem?"	mas sim "Acaso algo é maravilhoso demais para HaShem?"
+128	Is there anything set apart and hidden from HaShem?	Existe algo separado e oculto de HaShem?
+129	Why does Sarah hide the very fact that she laughed?	Por que Sara esconde o próprio fato de ter rido?
+130	"Sarah denied it, saying, 'I did not laugh.'" So why does she hide the very fact that she laughed?	"Sara negou, dizendo: 'Eu não ri.'" Então por que ela esconde o próprio fato de ter rido?
+131	"For she was afraid." And He said, "No, you did laugh."	"Pois teve medo." E Ele disse: "Não, você riu."
+132	Why does Sarah deny it?	Por que Sara nega?
+133	The Torah itself gives the reason: "for she was afraid." This is not a denial	A própria Torá dá o motivo: "pois teve medo." Isto não é uma negação
+134	born of a lie, but of fear.	nascida da mentira, mas do medo.
+135	"And Sarah said: Elokim has made laughter for me;	"E disse Sara: Elokim me fez riso;
+136	everyone who hears will laugh with me." How does the story end?	todo aquele que ouvir rirá comigo." Como termina a história?
+137	That same Sarah who laughed within herself	Essa mesma Sara que riu dentro de si
+138	says openly that the Holy One, Blessed be He, made laughter for her.	diz abertamente que o Santo, Bendito Seja, lhe fez riso.
+139	The laughter of the previous verse becomes laughter of joy,	O riso do versículo anterior se torna riso de alegria,
+140	because she was indeed pregnant	porque ela de fato estava grávida
+141	and she gave birth…	e deu à luz…
+142	That is as far as the verses go, and from here on, analysis.	Até aqui os versículos, e daqui em diante, a análise.
+143	Part three: the pshat speaks of two kinds of laughter.	Parte três: o pshat fala de dois tipos de riso.
+144	What is the difference between Avraham's laughter and Sarah's laughter?	Qual é a diferença entre o riso de Avraham e o riso de Sara?
+145	There was no criticism at all of Avraham's laughter, while Sarah's laughter received	Não houve nenhuma crítica ao riso de Avraham, e ao riso de Sara houve
+146	a whole discussion. Rashi brings the Targum Onkelos.	toda uma discussão. Rashi traz o Targum Onkelos.
+147	On Avraham he translates "vechadei": Avraham's laughter is translated	Sobre Avraham ele traduz "vechadei": o riso de Avraham é traduzido
+148	with this word, "vechadei," meaning "he rejoiced."	com esta palavra, "vechadei", que significa "alegrou-se".
+149	Avraham rejoiced because he believed the word,	Avraham se alegrou porque acreditou na palavra
+150	and rejoiced over it. On Sarah he translates	e se alegrou com ela. Sobre Sara ele traduz
+151	"vechayechat," an expression of mockery.	"vechayechat", uma expressão de zombaria.
+152	From here Rashi concludes that Avraham believed and rejoiced,	Daí Rashi conclui que Avraham acreditou e se alegrou,
+153	while Sarah did not believe and mocked, and therefore the Holy One, Blessed be He,	enquanto Sara não acreditou e zombou, e por isso o Santo, Bendito Seja,
+154	took issue with her and not with him. The very same word, laughter,	cobrou dela e não dele. A mesma palavra, riso,
+155	conceals two opposite movements of the soul.	esconde dois movimentos opostos da alma.
+156	At what exactly did Sarah laugh?	De que exatamente Sara riu?
+157	Rashi explains "bekirbah": she looked at her inner organs and said,	Rashi explica "bekirbah": ela olhou para as suas entranhas e disse:
+158	"Is it possible that these inner organs will carry a child?"	"Será possível que estas entranhas carreguem uma criança?"
+159	She did not doubt HaShem's ability in general; she looked at herself.	Ela não duvidou da capacidade de HaShem em geral; ela olhou para si mesma.
+160	on her own vessel, and saw there was no room or capacity in it.	no seu próprio vaso, e viu que não havia nele espaço nem capacidade.
+161	So her laughter was, as it were, about herself.	Então o riso dela foi, por assim dizer, sobre si mesma.
+162	A lack of faith in herself.	Falta de fé em si mesma.
+163	Could she, at this age, be pregnant?	Poderia ela, nessa idade, engravidar?
+164	Did Sara know that these were angels?	Sara sabia que eram anjos?
+165	The Ramban says she did not.	O Ramban diz que não.
+166	She thought they were guests, human beings, who were giving her a passing blessing.	Ela pensou que eram hóspedes, seres humanos, que lhe davam uma bênção qualquer.
+167	Like when people say "may you merit sons." So she laughed; it seemed to her a wish that was not	Como quando se diz "que você mereça filhos". Por isso riu; pareceu-lhe um desejo que não era
+168	practical.	prático.
+169	Still, she was punished, because she should have believed that every blessing, even	Ainda assim foi punida, pois deveria ter acreditado que toda bênção, mesmo
+170	from a simple person, can come true by the power of HaShem.	da boca de uma pessoa simples, pode se cumprir pela força de HaShem.
+171	Thus the claim "she did not believe in the Creator" becomes more precise: she did not	Assim a alegação "ela não acreditou no Criador" torna-se mais precisa: ela não
+172	recognize the word of HaShem within what sounded to her like the word of	reconheceu a palavra de HaShem dentro do que lhe soou como palavra de
+173	a man.	um homem.
+174	-May I ask a question?	-Posso fazer uma pergunta?
+175	-Yes.	-Sim.
+176	I don't remember for what she was punished.	Não me lembro pelo que ela foi punida.
+177	Could it be that...	Pode ser que...
+178	-To call him Yitzchak, that is not...	-Chamá-lo de Yitzchak, isso não...
+179	No, certainly not.	Não, com certeza não.
+180	-That is the naming, a rule.	-Isso é o nome, uma regra.
+181	-Yes.	-Sim.
+182	It could be in her death.	Pode ser na sua morte.
+183	That she died before her time.	Que ela morreu antes do tempo.
+184	-At 127.	-Aos 127.
+185	Well,	Bem,
+186	anyway, this whole discussion here is truly very, very strange,	de todo modo, toda a discussão aqui é realmente muito, muito estranha,
+187	all these laughters.	todos esses risos.
+188	-Of course there was prophetic power.	-Claro que havia poder profético.
+189	At first you say she surpassed Avraham, the ability...	No início você diz que ela superou Avraham, a capacidade...
+190	Prophetic, right.	Profética, certo.
+191	Right.	Certo.
+192	So this whole parashah is very strange, so	Então toda esta parashá é muito estranha, então
+193	everything written here is attempts, according to	tudo o que está escrito aqui são tentativas, segundo
+194	the peshat commentators, to explain it.	os comentaristas do pshat, de explicá-lo.
+195	But in general, the simple approach,	Mas em geral, a abordagem simples,
+196	the one on the street, is that she truly did not believe, and truly laughed at this whole	a da rua, é que ela realmente não acreditou, e realmente riu de toda
+197	story skeptically; she did not believe such a thing	essa história com ceticismo; ela não acreditou que tal coisa
+198	could happen.	pudesse acontecer.
+199	But if she truly did not believe, and all the laughter was skeptical laughter	Mas se ela realmente não acreditou, e todos os risos foram risos céticos
+200	So why give the child this name?	Então por que dar à criança esse nome?
+201	Give the child a name that actually reminds everyone of	Dar à criança um nome que na verdade lembra a todos
+202	the mockery and the skepticism?	a zombaria e o ceticismo?
+203	No, she didn't believe in herself.	Não, ela não acreditou em si mesma.
+204	I don't think she didn't believe in herself.	Não acho que ela não tenha acreditado em si mesma.
+205	That's what is written here.	É isso que está escrito aqui.
+206	That she didn't believe in herself.	Que ela não acreditou em si mesma.
+207	But that's a stretch, come on.	Mas isso é forçado, vamos lá.
+208	Maybe she laughed because, like, what would people say about her?	Talvez ela tenha rido porque, tipo, o que iriam dizer dela?
+209	She'd become a joke.	Ela viraria piada.
+210	The name comes from the word, and the idea is also funny.	O nome vem da palavra, e a ideia também é engraçada.
+211	Okay, but she will give birth and have a child, so what's funny here?	Tudo bem, mas ela vai dar à luz e terá um filho, então o que há de engraçado aqui?
+212	The laughter turned into amazement.	O riso se transformou em admiração.
+213	This whole thing is a stretch, that she didn't believe in herself.	Tudo isso é forçado, que ela não acreditou em si mesma.
+214	What does "herself" even mean?	O que quer dizer "em si mesma"?
+215	After all, everything is the Creator's doing, so if the Creator wants, even a broom can shoot.	Afinal, tudo é obra do Criador, então se o Criador quiser, até uma vassoura atira.
+216	So why is He so particular about it?	Então por que Ele é tão exigente com isso?
+217	No, first of all the question is about her: what is the meaning of this laughter?	Não, antes de tudo a pergunta é sobre ela: qual é o significado desse riso?
+218	And also the denial: "I did not laugh."	E também a negação: "Eu não ri."
+219	That too...	Isso também...
+220	It looks like kindergarten stuff, come on.	Parece coisa de jardim de infância, vamos lá.
+221	Kindergarten, little kids: "You laughed," "No, I didn't," "Why did you laugh?"	Jardim de infância, crianças pequenas: "Você riu", "Não ri", "Por que riu?"
+222	So you understand her.	Então você a entende.
+223	So let's continue.	Então vamos continuar.
+224	It's like the denial of Adam and Chava, it's	É como a negação de Adam e Chavá, é
+225	"not me."	"não fui eu."
+226	There too it looks like kindergarten.	Ali também parece coisa de jardim de infância.
+227	A great deal.	Muito.
+228	In the beginning she	No início ela
+229	says.	diz.
+230	By the pshat, the things really seem	Pelo pshat, as coisas realmente parecem
+231	extremely strange, every single detail.	extremamente estranhas, cada detalhe.
+232	Chapter 4, Chapter 4 brings the Zohar, the Kabbalah,	Capítulo 4, o capítulo 4 traz o Zohar, a cabalá,
+233	let's see where the Kabbalah takes us.	vamos ver para onde a cabalá nos leva.
+234	Did Sarah doubt herself?	Sara duvidou de si mesma?
+235	According to the Zohar, no.	Segundo o Zohar, não.
+236	The Zohar says that at that moment Sarah saw herself in a delight	O Zohar diz que naquela hora Sara se viu em um deleite
+237	different.	diferente.
+238	The verse: "After I am worn out, shall I have pleasure?" So the Zohar says:	O versículo: "Depois de eu envelhecer, terei prazer?" Então o Zohar diz:
+239	ednah is a different delight, in the renewal of the age.	edná é um deleite diferente, na renovação da era.
+240	after the guests came back to her as men, so she said	depois que os hóspedes voltaram a ela como homens, por isso ela disse
+241	"and my lord is old," and did not say of herself "and I am old."	"e meu senhor é velho", e não disse de si mesma "e eu envelheci".
+242	In Parashat Shelach the Zohar adds that edna is the drawing down	Na Parashat Shelach o Zohar acrescenta que edná é a atração
+243	of the upper Eden, which is	do Éden superior, que é
+244	the divine wisdom. Sarah already felt within her	a sabedoria divina. Sara já sentia dentro de si
+245	the new light. Her doubt was not about herself	a nova luz. A dúvida dela não era sobre si mesma
+246	at all. "After I have withered, I had edna":	de modo algum. "Depois de envelhecer, tive edná":
+247	they explain that edna means the upper Eden, so the divine wisdom	explicam que edná significa o Éden superior, então a sabedoria divina
+248	is going and being revealed in her. There is no room here for skepticism. So what was the	vai se revelando nela. Não há aqui lugar para ceticismo. Então qual era a
+249	doubt about?	dúvida?
+250	About "and my lord is old." The Zohar asks:	Sobre "e meu senhor é velho". O Zohar pergunta:
+251	Is an old man not fit to beget?	Por acaso um velho não é apto a gerar?
+252	After all, old men do beget. And Baal HaSulam answers:	Afinal, velhos geram. E Baal HaSulam responde:
+253	"old" here is the evil inclination. So the Zohar takes us	"velho" aqui é o iêtser hará. Então o Zohar nos leva
+254	in a completely different direction. "Old" here	para uma direção completamente diferente. "Velho" aqui
+255	is the evil inclination, which has no renewal and no	é o iêtser hará, que não tem renovação nem
+256	offspring. The evil inclination is called	descendência. O iêtser hará é chamado
+257	"an old and foolish king," to say that it has no dynamism	de "rei velho e tolo", para dizer que não tem dinamismo
+258	and no renewal or begetting.	nem renovação e geração.
+259	How does it continue for you?	Como isso continua para vocês?
+260	Chazal said, Chazal said... Okay, first of all, this already takes us in a different direction:	Os Sábios disseram, os Sábios disseram... Bom, antes de tudo, isso já nos leva a outra direção:
+261	the old man spoken of here is the evil inclination.	o velho de que se fala aqui é o iêtser hará.
+262	King Solomon calls the evil inclination "an old and foolish king."	O rei Salomão chama o iêtser hará de "rei velho e tolo".
+263	It is called foolish because of its action, for it brings a person to foolishness and silliness	Ele é chamado de tolo por sua ação, pois leva a pessoa à tolice e à insensatez
+264	because it brings a person toward directions of pleasure	porque leva a pessoa a caminhos de prazer
+265	that is not truly pleasure, that does not truly give meaning to life, but just smears a little	que não é de fato prazer, que não dá de fato sentido à vida, mas só passa um pouco
+266	on the outside, and it does not truly give meaning.	por fora, e isso não dá de fato sentido.
+267	And so it is called foolish, and old because	E por isso é chamado de tolo, e velho porque
+268	it has no offspring.	não tem descendência.
+269	So when she says "and my lord is old," she actually means	Então, quando ela diz "e meu senhor é velho", na verdade ela se refere
+270	the Sitra Achra, the desire to receive, to enjoy,	à Sitra Achra, ao desejo de receber, de usufruir,
+271	egoism, egoistic urges, egoistic desires,	ao egoísmo, aos impulsos egoístas, aos desejos egoístas,
+272	from which there is no renewal at all.	dos quais não vem nenhuma renovação.
+273	Chazal said "zaken" means "zeh kanah chochmah" (he has acquired wisdom), and since he has already	Os Sábios disseram que zaken é "zê kaná chochmá" (adquiriu sabedoria), e como ele já
+274	acquired the light of the greatness of the Creator, he has completeness and has no need to beget	adquiriu a luz da grandeza do Criador, tem plenitude e não precisa gerar
+275	new offspring.	novos descendentes.
+276	That is, this is not Sitra Achra, but it is also a matter of stagnation.	Ou seja, isso não é Sitra Achra, mas também é uma questão de estagnação.
+277	Zaken is an acronym: zeh kanah chochmah.	Zaken é um acrônimo: zê kaná chochmá.
+278	But if a person has acquired wisdom, he may already feel himself	Mas se a pessoa adquiriu sabedoria, ela já pode sentir-se
+279	full, satisfied, having already reached achievements, no need to continue, he doesn't need	cheia, satisfeita, já tendo alcançado conquistas, sem precisar continuar, não precisa
+280	to prove himself, he doesn't need to make any special effort, because he has already	para provar a si mesmo, não precisa fazer nenhum esforço especial, porque ele já
+281	reached, as it were, the end of the road. So this is the point of "and my lord	chegou, por assim dizer, ao fim do caminho. Então esse é o ponto de "e meu senhor
+282	is old," one way or the other.	é velho", de um jeito ou de outro.
+283	So you're saying that this laughter that she laughed	Então você diz que esse riso que ela riu
+284	according to this is skepticism about the side	segundo isso é ceticismo sobre o lado
+285	of the evil inclination in a person, the lustful, egoistic side,	do iêtser hará no homem, o lado desejoso e egoísta,
+286	and this is the side of the Sitra Achra: that a person will remain frozen	e este é o lado da Sitra Achra: que a pessoa permaneça congelada
+287	on reaching satiety and will not feel the Creator's intense longing	ao chegar à saciedade e não sinta o anseio intenso do Criador
+288	to bestow more and more upon His creatures.	de beneficiar cada vez mais as Suas criaturas.
+289	Sarah said that because of that "old man," Avraham does not renew himself and does not	Sara disse que, por causa desse "velho", Avraham não se renova e não
+290	produce offspring. To this HaShem replied: "Why did Sarah laugh?" Meaning, it could be	gera descendência. A isso HaShem respondeu: "Por que Sara riu?" Ou seja, pode ser
+291	that	que
+292	the egoistic evil inclination of a person is truly in the category of an old man,	o iêtser hará egoísta do homem seja de fato da categoria de um velho,
+293	because it cannot bring true offspring. But	porque não pode gerar descendência verdadeira. Mas
+294	who says that Avraham is in	quem diz que Avraham está nessa
+295	this category?	categoria?
+296	She said "and my lord is old," and the Zohar interprets this not about Avraham	Ela disse "e meu senhor é velho", e o Zohar explica isso não sobre Avraham,
+297	but about the Sitra Achra, the egoistic evil inclination. The Zohar takes this in a completely different direction,	mas sobre a Sitra Achra, o iêtser hará egoísta. O Zohar leva isso para uma direção completamente diferente,
+298	the whole story, a completely different story. It tells us it is not	a história toda, uma história completamente diferente. Ele nos diz que não é
+299	doubt in HaShem's ability, nor mere doubt in her own ability,	dúvida na capacidade de HaShem, nem simples dúvida na própria capacidade,
+300	but in fact a determination. There is a determination here that anyone	mas na verdade uma afirmação. Há aqui a afirmação de que todo aquele
+301	who walks in an egoistic path cannot	que anda por um caminho egoísta não pode
+302	develop.	se desenvolver.
+303	So why did she laugh?	Então por que ela riu?
+304	What does that have to do with it?	O que isso tem a ver?
+305	Let's see further.	Vamos ver mais adiante.
+306	By the way, later in the Parashah, the Torah details for us, tells	A propósito, mais adiante na Parashá, a Torá detalha para nós, conta
+307	us in great detail that Lot	para nós em minúcias que Lot
+308	lay with his two daughters, and the Torah tells this in great	deitou-se com suas duas filhas, e a Torá conta isso em grandes
+309	detail: how each of the daughters arranged it, got him drunk	detalhes: como cada uma das filhas organizou, deu-lhe
+310	with wine, and he lay with them, and from this two	vinho, e ele se deitou, e disso nasceram dois
+311	nations were born, Ammon and Moab. So I asked:	povos, Amon e Moav. Então eu perguntei:
+312	why does the Torah need to tell us all this? What does it tell us?	por que a Torá precisa nos contar tudo isso? O que isso nos diz?
+313	And in general I asked, really: daughters lying with their father,	E, em geral, perguntei: filhas que se deitam com o pai,
+314	why is that not good?	por que isso não é bom?
+315	Who determined that it is not good?	Quem determinou que não é bom?
+316	And why is it not good?	E por que não é bom?
+317	There is a consensus about this, after all.	Há um consenso sobre isso, afinal.
+318	The question is why. What is the problem with it?	A pergunta é por quê. Qual é o problema?
+319	What is the problem with a son lying with his mother and a daughter lying with her father? What is the problem?	Qual é o problema de um filho se deitar com a mãe e uma filha com o pai? Qual é o problema?
+320	So, in fact, the thought seems...	Então, na verdade, o raciocínio parece...
+321	Why, why?	Por quê, por quê?
+322	I'm asking why.	Estou perguntando por quê.
+323	I have no boundaries.	Eu não tenho limites.
+324	I don't understand why.	Eu não entendo por quê.
+325	Why, what's the problem?	Por quê, qual é o problema?
+326	So it's not a moral problem, it's a genetic problem.	Então não é um problema moral, é um problema genético.
+327	Because the offspring is...	Porque a descendência é...
+328	No additional offspring is added, he makes	Não se acrescenta nenhuma descendência nova, ele faz
+329	some kind of...	algum tipo de...
+330	He perhaps says	Ele talvez diga
+331	that...	que...
+332	Nature says so.	A natureza diz isso.
+333	Nature says so.	A natureza diz.
+334	The question is why.	A pergunta é por quê.
+335	On that too I ask why.	Sobre isso também eu pergunto por quê.
+336	Because a parent must fight off his evil inclination toward the children, he has to	Porque o pai precisa lutar contra o seu iêtser hará em relação aos filhos, ele tem de
+337	be a teacher, he has to be a guide. But if the daughter wants to,	ser um educador, tem de ser um orientador. Mas se a filha quer,
+338	she's eighteen and she wants to, so what	ela tem dezoito anos e quer, então qual
+339	is the problem?	é o problema?
+340	What?	O quê?
+341	Why?	Por quê?
+342	I'm asking why, but	Estou perguntando por quê, mas
+343	So that's the direction.	Então é essa a direção.
+344	What is this, who?	O que é isso, quem?
+345	Who decided that it's a perversion?	Quem decidiu que isso é uma perversão?
+346	Who decided that it's a perversion?	Quem decidiu que isso é uma perversão?
+347	Well.	Bem.
+348	That's a different matter.	Isso é outro assunto.
+349	That's a different matter.	Isso é outro assunto.
+350	Betraying his wife is something else.	Trair a esposa é outra coisa.
+351	I didn't say okay, not okay, I'm talking about the story, why is having sexual	Não falei se está certo ou errado, estou falando da questão: por que ter relações
+352	relations within the family a problem? Why is it a problem?	sexuais dentro da família é um problema? Por que é um problema?
+353	That's what I'm asking, a very simple question. There are no	É isso que pergunto, uma pergunta bem simples. Não há relações
+354	equal relations between...	igualitárias entre...
+355	But if she wants to, she's eighteen, twenty, and she still wants her father?	Mas se ela quer, tem dezoito, vinte anos, e ainda assim quer o pai?
+356	Well, there are no equal relations between them.	Bem, não há relações igualitárias entre eles.
+357	What, what does equal mean?	O quê, o que é igualitário?
+358	Today there are plenty of thirty-year-old women going out with seventy-year-old millionaires.	Hoje há muitas moças de trinta anos que saem com milionários de setenta.
+359	Well, so what, what, isn't that equal?	Então, e daí, o que, isso não é igualitário?
+360	What?	O quê?
+361	It's not equal.	Não é igualitário.
+362	But she wants it.	Mas ela quer.
+363	Even in our understanding...	Mesmo na nossa concepção...
+364	But she wants it, she wants it, so what's the problem?	Mas ela quer, ela quer, então qual é o problema?
+365	His son Ohad is his own, yes.	O filho dele, Ohad, é dele mesmo, sim.
+366	So what's the problem?	Então qual é o problema?
+367	It can stay in the family.	Pode ficar na família.
+368	Okay, fine.	Tudo bem.
+369	So that's the point, the point is what you said, the point is	Então esse é o ponto, o ponto é o que você disse, o ponto é
+370	that in nature, among animals, it's not like that, by the way, there's no problem there,	que na natureza, entre os animais, não é assim, aliás, lá não há problema,
+371	none of this family business exists. But with us it does. Why?	nada dessa questão de família existe. Mas conosco existe. Por quê?
+372	That is, it's accepted that the daughter goes and finds someone	Ou seja, é aceito que a filha vá encontrar alguém
+373	else, someone not	outro, alguém que não seja
+374	from the family, and the son goes to another woman.	da família, e o filho vá com outra mulher.
+375	Why?	Por quê?
+376	Because if there are truly	Porque se de fato há em você
+377	real abilities in you, then let's see how they	capacidades reais, então vamos ver como elas
+378	flourish in different soil.	florescem em outro solo.
+379	The synchronization between two different things: the greater the difference,	A sincronia entre duas coisas diferentes: quanto maior a diferença,
+380	the greater the flourishing will be. That's the point.	maior será o florescimento. Esse é o ponto.
+381	If everything truly stays in the family, then there's no difference here, neither	Se tudo realmente fica na família, então não há diferença aqui, nem
+382	in genetics, and not only physical genetics,	na genética, e não só a genética física,
+383	but also the genetics of the soul, the atmosphere. So there's no	mas também a genética da alma, a atmosfera. Então não há
+384	novelty here, no development here, no dynamic here, as if	novidade aqui, nem desenvolvimento, nem dinâmica, como se
+385	everything stays on the same plate, and that's not good. When HaShem tells	tudo ficasse no mesmo prato, e isso não é bom. Quando HaShem nos diz
+386	us "be fruitful and multiply," the meaning is renewal and development, and so	"sede fecundos e multiplicai-vos", o sentido é renovação e desenvolvimento, e por isso
+387	you truly need to take your abilities and put them in a place	você realmente precisa pegar suas capacidades e colocá-las num lugar
+388	completely different. The more different it is, the	completamente diferente. Quanto mais diferente, mais
+389	greater the flourishing will be. And that's what is written here,	o florescimento será maior. E é isso que está escrito aqui,
+390	it's written here from another angle, about the forces of impurity:	está escrito aqui de outro ângulo, sobre as forças da impureza:
+391	"And my lord is old," meaning he is unable	"E meu senhor é velho", ou seja, ele não é capaz
+392	of begetting.	de gerar.
+393	I have a question.	Tenho uma pergunta.
+394	Why?	Por quê?
+395	Why?	Por quê?
+396	Because this system of the Sitra Achra is our egoistic	Porque esse sistema da Sitra Achra é o nosso sistema egoísta,
+397	system, and the egoistic system constantly wants to swallow	e o sistema egoísta quer o tempo todo engolir
+398	things into itself.	as coisas para dentro de si.
+399	So everything stays in the same domain, and doesn't enter other domains.	Assim tudo fica no mesmo domínio, e não entra em outros domínios.
+400	It doesn't develop into other ideas,	Não se desenvolve em outras ideias,
+401	into other inclinations, other natures.	em outras inclinações, outras naturezas.
+402	That's why it's called the "other side."	Por isso se chama "o outro lado".
+403	The side of holiness, on the contrary, is a side	O lado da santidade, ao contrário, é um lado
+404	that seeks development.	que busca desenvolvimento.
+405	That seeks dynamism.	Que busca dinamismo.
+406	Now you have a question.	Agora você tem uma pergunta.
+407	What is the question?	Qual é a pergunta?
+408	Why is it forbidden to marry other peoples?	Por que é proibido casar com outros povos?
+409	No.	Não.
+410	You can answer.	Você pode responder.
+411	It's a good question.	É uma boa pergunta.
+412	Say someone is learning,	Digamos que alguém esteja aprendendo,
+413	the first problem is marrying a brother.	o primeiro problema é casar com o irmão.
+414	That's really not expanding.	Isso realmente não é se expandir.
+415	It's staying in the same place.	É ficar no mesmo lugar.
+416	Right.	Certo.
+417	One and two, in the Torah there are quite a few marriages between cousins, it's the same thing,	Um e dois, na Torá há não poucos casamentos entre primos, é a mesma coisa,
+418	and it's not as if it stops at father and son or mother, really,	e não é como se parasse em pai e filho ou mãe, de fato,
+419	within the family, but cousins, I didn't see that there's any kind of taboo	dentro da família, mas primos, não vi que haja algum tipo de tabu
+420	on cousins. There's no taboo, really, it's the same thing, it's the same problem, right.	com primos. Não há tabu, de fato, é a mesma coisa, é o mesmo problema, certo.
+421	I don't think it's recommended, but it's not forbidden.	Não acho que seja recomendado, mas não é proibido.
+422	What you're asking about yibum there is a special matter,	O que você pergunta sobre o yibum ali é um assunto especial,
+423	because he died without children. Yibum is only when there are no	porque ele morreu sem filhos. O yibum é só quando não há
+424	children, only when there are no children, he passed away and there are no children,	filhos, só quando não há filhos, ele faleceu e não há filhos,
+425	then the Torah says, let's do a kindness	então a Torá diz: vamos fazer um favor
+426	to the soul of this man who passed away without any continuation at all.	à alma desse homem que faleceu sem nenhuma continuação.
+427	So the Torah says that his brother marries her.	Então a Torá diz que o irmão dele se casa com ela.
+428	And this is a very strange thing. Why?	E isso é algo muito estranho. Por quê?
+429	If he's already married, if he's married, we didn't discuss it, but it's a	Se ele já é casado, se é casado, não falamos disso, mas é algo
+430	strange thing, because in general it's forbidden, but here,	estranho, porque em geral é proibido, mas aqui,
+431	in this case where he died without children, the Torah does give the possibility.	neste caso em que ele morreu sem filhos, a Torá dá a possibilidade.
+432	Why?	Por quê?
+433	Because if the brother is with his wife, the widow of	Porque, se o irmão está com a esposa, a viúva de
+434	his brother, then through this they continue again	seu irmão, então por meio disso eles continuam de novo
+435	the soul of the deceased brother through the children,	a alma do irmão falecido por meio dos filhos,
+436	and as if they establish continuity for him. That's the point.	e como se estabelecessem continuidade para ele. Esse é o ponto.
+437	Only in the case where he has no children.	Só no caso em que ele não tem filhos.
+438	In the case where he has children, then no.	No caso em que ele tem filhos, então não.
+439	It's also possible with a woman who, as it were, passes away, she intends	Também é possível com uma mulher que, por assim dizer, falece, ela pretende
+440	with his work,	com o trabalho dele,
+441	with her sign,	com o sinal dela,
+442	a woman who passes away, does she have something more special?	uma mulher que falece, ela tem algo mais especial?
+443	Or only a man?	Ou só o homem?
+444	-Only a man.	-Só o homem.
+445	-Why?	-Por quê?
+446	Because a man is commanded in peru urvu, and a woman is not.	Porque o homem é obrigado em peru urvu, e a mulher não.
+447	The question is why.	A pergunta é por quê.
+448	Why is a man commanded in peru urvu and a woman not?	Por que o homem é obrigado em peru urvu e a mulher não?
+449	A woman is a partner, but not commanded.	A mulher é parceira, mas não é obrigada.
+450	The question is	A pergunta é
+451	why.	por quê.
+452	It's a general question, not only here.	É uma pergunta geral, não só aqui.
+453	What does it mean that a woman isn't commanded?	O que significa a mulher não ser obrigada?
+454	Many, many, many things.	Muitas, muitas, muitas coisas.
+455	You know, we'll talk...	Sabe, vamos falar...
+456	This week I only just discovered that a woman is not commanded	Esta semana descobri que a mulher não é obrigada
+457	to circumcise her son.	a circuncidar o próprio filho.
+458	She is not commanded.	Ela não é obrigada.
+459	She can, but she is not commanded.	Ela pode, mas não é obrigada.
+460	I discovered that this week.	Descobri isso esta semana.
+461	That is, if the father were, for example...	Ou seja, se o pai fosse, por exemplo...
+462	say, a soldier in Gaza and was killed, and she gave birth,	digamos, um soldado em Gaza e fosse morto, e ela desse à luz,
+463	then she is not commanded to perform the brit milah on the eighth day.	ela não é obrigada a fazer a brit milá no oitavo dia.
+464	Why?	Por quê?
+465	Why is that... it's within the whole "why".	Por que isso... está dentro de todo o "por quê".
+466	That is, she can circumcise him, but if she doesn't, no one will	Ou seja, ela pode circuncidá-lo, mas se não o fizer, ninguém
+467	come to her with complaints. She has no commandment, but that is a social matter more than...	virá cobrá-la. Ela não tem o mandamento, mas isso é uma questão social mais do que...
+468	No, not a social matter. A woman is also not commanded in sukkah, and not in shofar.	Não, não é questão social. A mulher também não é obrigada na sucá, nem no shofar.
+469	If she doesn't sit in the sukkah for seven days, no one will come to her with any complaints.	Se ela não se senta na sucá por sete dias, ninguém virá com nenhuma cobrança.
+470	But she can sit in the sukkah, and she fulfills a mitzvah when she sits	Mas ela pode se sentar na sucá, e cumpre uma mitsvá quando se senta
+471	in the sukkah, and she can draw close to the Creator through sitting in the sukkah.	na sucá, e pode se aproximar do Criador sentando-se na sucá.
+472	But she is not commanded. Now the question is why, why is a woman not	Mas ela não é obrigada. Agora a pergunta é por quê, por que a mulher não é
+473	commanded?	obrigada?
+474	Once they gave an answer that I liked: that a woman by her nature is	Uma vez deram uma resposta de que gostei: que a mulher, por natureza, é
+475	more spiritual and closer to the Creator, while a man needs	mais espiritual e mais próxima do Criador, enquanto o homem precisa de
+476	many mitzvot, to put on tzitzit, to pray, and more mitzvot in order to connect	muitas mitsvot, usar tsitsit, rezar, e mais mitsvot para se conectar
+477	him, whereas for a woman it comes more naturally.	, ao passo que para a mulher isso vem de forma mais natural.
+478	I accepted that answer.	Essa resposta eu aceitei.
+479	Yes.	Sim.
+480	So do you really think that?	Então vocês realmente pensam assim?
+481	I mean, what Orit is saying is that a woman, by nature, is more spiritual,	Quer dizer, o que a Orit diz é que a mulher, por natureza, é mais espiritual,
+482	so she doesn't need all these corrections anyway, not in the form of	então ela não precisa mesmo de todas essas correções, não na forma de
+483	a mitzvah. She'll do it, right? But do you	mitsvá. Ela fará isso, certo? Mas vocês
+484	agree with that?	concordam com isso?
+485	That a woman is more spiritual?	Que a mulher é mais espiritual?
+486	Yes, do you agree?	Sim, vocês concordam?
+487	Being women, and knowing the concept	Sendo mulheres, e conhecendo o conceito
+488	of woman as opposed to the concept of man, do you	de mulher em oposição ao conceito de homem, vocês
+489	determine that women truly are more spiritual,	afirmam que as mulheres realmente são mais espirituais,
+490	more gentle, less egoistic than	mais delicadas, menos egoístas do que
+491	the man, and therefore they aren't commanded in the mitzvot so much?	o homem, e que por isso não são obrigadas nas mitsvot tanto assim?
+492	She has enough mitzvot of raising children.	Ela já tem mitsvot suficientes na criação dos filhos.
+493	No, no, first of all, do you agree with that?	Não, não, antes de tudo, vocês concordam com isso?
+494	Is it true?	É verdade?
+495	According to your understanding, is it true?	Segundo a visão de vocês, é verdade?
+496	No, maybe it's not that it should be so, but I'm not sure that it is.	Não, talvez não seja que deva ser assim, mas não tenho certeza de que seja.
+497	But are you sure?	Mas vocês têm certeza?
+498	I don't know. Now we're talking about something else: that the man is more egoistic.	Não sei. Agora estamos falando de outra coisa: que o homem é mais egoísta.
+499	He's more aggressive.	Ele é mais agressivo.
+500	More wild.	Mais selvagem.
+501	He needs to be called to order more.	Precisa ser colocado mais em ordem.
+502	A woman received the duty and the pain of bearing children.	A mulher recebeu o dever e a dor de dar à luz filhos.
+503	That's very close to bringing... it's a thing...	Isso é muito próximo de trazer... é uma coisa...
+504	that is both hard and also a very, very great privilege,	que é difícil e também um privilégio muito, muito grande,
+505	a practical one.	prático.
+506	I'm asking, but yes, what I want is, I'm talking about nature: do you	Eu pergunto, mas o que eu quero é, falo da natureza: vocês
+507	confirm that this is the nature? I mean, that a class of girls	confirmam que essa é a natureza? Ou seja, que uma turma de meninas
+508	and a class of boys, in the class of girls there will be more gentleness,	e uma turma de meninos, na turma de meninas haverá mais delicadeza,
+509	less disruption, less... right?	menos bagunça, menos... certo?
+510	In a class of boys, it comes out in...	Na turma de meninos, isso aparece em...
+511	it simply happens.	simplesmente acontece.
+512	No, no, women sit one next to the other, one after the other, as	Não, não, as mulheres sentam uma ao lado da outra, uma depois da outra, como
+513	a period of the sick.	um período de doentes.
+514	Those who are partners with twenty seconds, start talking.	Aquelas que são parceiras com vinte segundos, começam a falar.
+515	That's true.	Isso é verdade.
+516	But they still don't raise...	Mas ainda assim elas não criam...
+517	In a class, a class of boys, there are a lot of hospitalizations there.	Numa turma, numa turma de meninos, há muitas internações ali.
+518	I'm not joking.	Não estou brincando.
+519	Punches, bites.	Socos, mordidas.
+520	With girls there are things like that too.	Com as meninas também há coisas assim.
+521	Huh?	Hã?
+522	There are blows, there are wounds.	Há pancadas, há ferimentos.
+523	They insult.	Elas ofendem.
+524	They insult.	Elas ofendem.
+525	They insult at a high level.	Ofendem num nível elevado.
+526	Even an organized level: insulting and organizing a boycott through the...	Até de forma organizada: ofender e fazer boicote por meio do...
+527	That is already much worse, worse than giving	Isso já é muito pior, pior do que dar
+528	someone a beating.	uma surra em alguém.
+529	Lashon hara, they speak lashon hara.	Lashon hará, elas falam lashon hará.
+530	They mock, they ridicule.	Zombam, ridicularizam.
+531	I'm not a message.	Eu não sou uma mensagem.
+532	That's not a message.	Isso não é uma mensagem.
+533	So you're saying there's not so much difference.	Então vocês dizem que não há tanta diferença.
+534	It's in the energy, and how it comes out.	Está na energia, e em como ela se manifesta.
+535	And the form of expression.	E na forma de expressão.
+536	In the brain.	No cérebro.
+537	After they become women, their brain changes completely.	Depois que se tornam mulheres, o cérebro delas muda completamente.
+538	Really scientific.	Bem científico.
+539	Because it doesn't give birth.	Porque ele não dá à luz.
+540	But at menopause it changes, it became	Mas na menopausa ele muda, ficou
+541	…	…
+542	What does it become?	No que ele se torna?
+543	…	…
+544	A brain, but why…	Um cérebro, mas por quê…
+545	Afterwards maybe it settles, but it's hard to say why.	Depois talvez se ajuste, mas é difícil dizer por quê.
+546	Why not?	Por que não?
+547	It's also a stage where sometimes some processes come in.	É também uma fase em que às vezes entram alguns processos.
+548	Many times people want	Muitas vezes querem
+549	to leave it without a doubt.	deixar isso sem dúvida.
+550	It's like the moon, there is here...	É como a lua, há aqui...
+551	Good.	Bom.
+552	So what is written in the wisdom of Kabbalah is this.	Então o que está escrito na sabedoria da Cabalá é isto.
+553	There is no level that doesn't have male and female in it.	Não há nível que não tenha nele masculino e feminino.
+554	There is no such thing, and the male is the bearer of the light, and the female is	Não existe isso, e o masculino é o portador da luz, e o feminino é
+555	the vessel. So, as it were, from the side of nature,	o vaso. Assim, por assim dizer, do lado da natureza,
+556	the bearer of the light is more bestowing	o portador da luz é mais doador
+557	and giving, and responsible, and the vessel is	e dá, e é responsável, e o vaso é
+558	more receiving.	mais receptor.
+559	So that is true from the biological standpoint.	Então isso é verdade do ponto de vista biológico.
+560	Now,	Agora,
+561	in fact, at every level there is male and female,	na verdade, em todos os níveis há masculino e feminino,
+562	light and vessel.	luz e vaso.
+563	Following various developments in the worlds,	Em consequência de vários desenvolvimentos nos mundos,
+564	one development is called the breaking of the vessels.	um desses desenvolvimentos se chama a quebra dos vasos.
+565	The second development is the different sins, like the sin of Adam HaRishon,	O segundo desenvolvimento são os diversos pecados, como o pecado de Adam HaRishon,
+566	and all the other sins of every kind. In effect,	e todos os outros pecados de todo tipo. Na prática,
+567	the worlds were turned upside down, and the woman,	os mundos se inverteram, e a mulher,
+568	who represents the vessel, that is, the desire to receive, now needs to care only	que representa o vaso, isto é, o desejo de receber, agora só precisa se preocupar
+569	about bestowal, and the desire to receive	com a doação, e o desejo de receber
+570	goes to the male's share.	passa para a parte do homem.
+571	That is, each one is corrected through the trait	Ou seja, cada um se corrige por meio da característica
+572	opposite to his own nature.	oposta à sua própria natureza.
+573	Because this case of	Porque esse caso da
+574	the breaking of the vessels means that the vessel	quebra dos vasos significa que o vaso
+575	becomes addicted to receiving, and he	se vicia em receber, e ele
+576	addiction means he is bound to receiving in a	vício significa que ele fica preso ao receber de uma forma
+577	destructive way. That is called addiction.	destrutiva. Isso se chama vício.
+578	So this gives birth to the breaking of the vessels in different versions, until	Isso gera a quebra dos vasos em versões diferentes, até
+579	the Emanator builds the worlds	que o Emanador constrói os mundos
+580	in the opposite way, so that the male is	de forma inversa, de modo que o homem seja
+581	the active one and the female the passive one. He reverses the roles,	o ativo e a mulher a passiva. Ele inverte os papéis,
+582	because normally the light is	porque normalmente a luz é
+583	the passive one and the vessel is the active one. That is, the vessel is	a passiva e o vaso é o ativo. Ou seja, o vaso é
+584	what is called the lack, the receptacle.	o que se chama a falta, o receptáculo.
+585	So I have various desires, and I will not rest nor be still until I fulfill	Tenho desejos diversos, e não descansarei nem sossegarei até realizar
+586	my desires. I have needs, yearnings,	meus desejos. Tenho necessidades, anseios,
+587	longings, and I cannot rest or be still until I fulfill	saudades, e não consigo descansar nem sossegar até suprir
+588	the needs. Whereas the light is defined by nature	as necessidades. Já a luz, por natureza, é definida
+589	as a tranquil aspect, a passive aspect.	como um aspecto sereno, um aspecto passivo.
+590	But because of these cases of the breaking of the vessels, the Emanator reversed all the traits	Mas por causa desses casos da quebra dos vasos, o Emanador inverteu todas as características
+591	completely and placed the activity on the male,	por completo e colocou a atividade sobre o homem,
+592	and the passivity on the female. And from here it follows	e a passividade sobre a mulher. E daqui decorre
+593	that in the conduct of this world, the female is not obligated.	que, na conduta deste mundo, a mulher não é obrigada.
+594	Not obligated is passivity. She can, but she is not obligated.	Não obrigada é passividade. Ela pode, mas não é obrigada.
+595	And the male is the one obligated in everything.	E o homem é quem está obrigado em tudo.
+596	Is that clear, or are there questions about it?	Isso está claro, ou há perguntas sobre isso?
+597	Also the word toldot, which accompanies it, the word of	Também a palavra toldot, que a acompanha, a palavra do
+598	the Zohar, or is it	Zohar, ou é
+599	a word from the Torah itself?	uma palavra da própria Torá?
+600	From the Torah.	Da Torá.
+601	Yes, so what's the question?	Sim, então qual é a pergunta?
+602	This part about the inversion, no...	Essa parte da inversão, não...
+603	You need to understand before the inversion.	Você precisa entender o que vem antes da inversão.
+604	If the part about the inversion isn't clear, you need to understand what comes before	Se a parte da inversão não está clara, você precisa entender o que vem antes
+605	the inversion.	da inversão.
+606	It was the breaking of the vessels, you said, there was a development of the breaking of the vessels, and also of the...	Foi a quebra dos vasos, você disse, houve um desenvolvimento da quebra dos vasos, e também do...
+607	So the roles were reversed, and then they were reversed...	Então os papéis se inverteram, e depois se inverteram...
+608	Yes, that is, that is...	Sim, quer dizer, quer dizer...
+609	He's lost, because he doesn't understand.	Ele se perdeu, porque não entende.
+610	So I'll explain.	Então eu vou explicar.
+611	But you need to understand before the inversion.	Mas é preciso entender o que vem antes da inversão.
+612	First of all, you need to understand...	Antes de tudo, é preciso entender...
+613	The rule is the Upper Light, and in a state of absolute rest.	A regra é a Luz Superior, em estado de repouso absoluto.
+614	That's the rule.	Essa é a regra.
+615	That is, the light itself has no lacks defined there.	Ou seja, na própria luz não está definida nenhuma falta.
+616	Rather, it is a reality of complete perfection.	Ela é uma realidade de plenitude total.
+617	And the vessel is the one that is in an unceasing	E o vaso é o que está em uma ebulição
+618	boiling to fill itself.	incessante para se preencher.
+619	Because it is a woman.	Porque é mulher.
+620	The vessel is the woman.	O vaso é a mulher.
+621	Now.	Agora.
+622	What doesn't add up here?	O que não fecha aqui?
+623	What doesn't add up?	O que não fecha?
+624	Say that the woman.	Diga que a mulher.
+625	Yes.	Sim.
+626	The vessel, which now returns, wait a second.	O vaso, que agora volta, espere um segundo.
+627	Yes.	Sim.
+628	The vessel is the woman.	O vaso é a mulher.
+629	Yes.	Sim.
+630	The woman always wants to give.	A mulher quer dar o tempo todo.
+631	The woman wants to give.	A mulher quer dar.
+632	The woman wants everything...	A mulher quer tudo...
+633	And here you're telling me that the vessel is a desire to receive.	E aqui você me diz que o vaso é um desejo de receber.
+634	Yes.	Sim.
+635	So something doesn't fit with my perception, with my general understanding, that the female is	Então algo não se encaixa com a minha percepção, com a minha compreensão geral de que a fêmea é
+636	usually nursing, giving, and the like.	em geral quem amamenta, quem dá, e coisas assim.
+637	Yes.	Sim.
+638	So I'll answer you.	Então eu respondo.
+639	There is nature, and there is the correction of nature.	Há a natureza, e há a correção da natureza.
+640	So from the side of nature, the female is the vessel.	Então, do lado da natureza, a fêmea é o vaso.
+641	And the vessel is a total desire to receive.	E o vaso é um desejo de receber total.
+642	That is, all the time it only wants to receive, a black hole.	Ou seja, o tempo todo ele só quer receber, um buraco negro.
+643	And in fact all the worlds and the whole universe are contained within the woman.	E, na verdade, todos os mundos e todo o universo estão contidos dentro da mulher.
+644	The light itself comes from the Creator, like electricity.	A própria luz vem do Criador, como a eletricidade.
+645	Electricity only gives; we connect all kinds of devices to it	A eletricidade só dá; nós ligamos a ela todo tipo de aparelho
+646	and take its energy and use it, but electricity has no will of its own	e pegamos a sua energia e a usamos, mas a eletricidade não tem vontade própria
+647	to receive. It is a reality of shining energy that we	de receber. Ela é uma realidade de energia luminosa que nós
+648	use according to our own desires. So from the side of nature, the woman,	usamos de acordo com os nossos desejos. Então, do lado da natureza, a mulher,
+649	the female, is defined from the word nekev, a desire to receive	a fêmea, é definida a partir da palavra nekev, um desejo de receber
+650	total. So this is the male and this is the female.	total. Então este é o macho e esta é a fêmea.
+651	Now,	Agora,
+652	the worlds develop, going down	os mundos se desenvolvem, vão descendo
+653	toward the creation of this world.	em direção à criação deste mundo.
+654	On the way to the creation of this world, there are many	No caminho para a criação deste mundo, há muitos
+655	cases of the breaking of the vessels.	casos de quebra dos vasos.
+656	What is the breaking of the vessels?	O que é a quebra dos vasos?
+657	It is that the woman, because she is a reality of total	É que a mulher, por ser uma realidade de desejo de
+658	desire to receive, draws down the light in an	receber total, atrai a luz de maneira
+659	unbalanced and disproportionate way, so it is a kind of addiction.	desequilibrada e desproporcional, então é um tipo de vício.
+660	It is like a person who drinks alcohol in a disproportionate way,	É como uma pessoa que bebe álcool de forma desproporcional,
+661	it destroys him, it breaks him and his family and the whole	isso o destrói, o quebra, e quebra a sua família e toda a
+662	reality around him. So therefore, if the woman	realidade ao seu redor. Então, se a mulher
+663	behaves according to her nature, it causes the breaking of the whole system,	se comporta de acordo com a sua natureza, isso causa a quebra de todo o sistema,
+664	and it happens, the systems collapse and break one	e isso acontece: os sistemas entram em colapso e se quebram um
+665	after the other, if the woman behaves in this way.	após o outro, se a mulher se comporta dessa maneira.
+666	Therefore the Emanator established a whole order of corrections,	Por isso o Emanador estabeleceu toda uma ordem de correções,
+667	and in the state of the corrections, the woman is reversed:	e, no estado das correções, a mulher se inverte:
+668	to restrict and freeze	para restringir e congelar
+669	the egoistic desire to receive, and to be, from the side of the egoistic desire	o desejo de receber egoísta, e ser, do lado do desejo
+670	to receive, more passive,	de receber egoísta, mais passiva,
+671	and more giving, more bestowing, more	e mais doadora, mais generosa, mais
+672	gentle, more considerate of others.	delicada, mais atenta ao próximo.
+673	So the result we see here in this world is already after the correction,	Então o resultado que vemos aqui neste mundo já é depois da correção,
+674	and the whole task of drawing down the abundance	e toda a tarefa de atrair a abundância
+675	is placed on the male. They reversed the roles, that is, the male	recai sobre o macho. Inverteram os papéis, ou seja, o macho
+676	is the one who has to make sure that everything exists:	é quem tem de cuidar para que tudo exista:
+677	that there is livelihood, that there is a home, that there are children. He has to make sure to bring	que haja sustento, que haja uma casa, que haja filhos. Ele tem de cuidar de trazer
+678	all kinds of abundance and all kinds of fulfillment. So	todos os tipos de abundância e todos os tipos de preenchimento. Então
+679	the system, the correction, reversed the roles completely.	o sistema, a correção, inverteu completamente os papéis.
+680	so that the male becomes the active, aggressive one, and the woman becomes	de modo que o homem se torna o ativo, o agressivo, e a mulher se torna
+681	the passive one, the giver.	a passiva, a que dá.
+682	That is why most mitzvot are placed on the male and not on the female, since	Por isso a maioria das mitsvot recai sobre o homem e não sobre a mulher, já que
+683	the nature of the woman here was created already	a natureza da mulher aqui foi criada já
+684	after the systems of the correction.	depois dos sistemas da correção.
+685	Is this clear, or are there questions about it?	Isso está claro, ou há perguntas sobre isso?
+686	You can ask from there too.	Pode perguntar daí também.
+687	Good to everyone.	Boa noite a todos.
+688	We learned...	Nós aprendemos...
+689	We can't hear anything, boost everything.	Não se ouve nada, aumente tudo.
+690	Can you hear better now?	Agora se ouve melhor?
+691	Yes.	Sim.
+692	Okay, we learned that actually the first man who sinned, one	Certo, nós aprendemos que, na verdade, o primeiro homem que pecou, um
+693	of his people, that is what he received too	dos seus, foi isso que ele recebeu também
+694	in this, that he is the one who will manage everything and...	nisso: que ele é quem vai conduzir tudo e...
+695	to continue the...	continuar o...
+696	Yifrad, Ye'arot.	…
+697	"By the sweat of your brow you shall eat bread."	"Com o suor do teu rosto comerás pão."
+698	Yes.	Sim.
+699	He, as it were, has to spoil, to filter everything.	Ele, por assim dizer, tem de estragar, de filtrar tudo.
+700	To sift.	Peneirar.
+701	To sift.	Peneirar.
+702	And not to spoil.	E não estragar.
+703	Yes.	Sim.
+704	So what is the question?	Então, qual é a pergunta?
+705	So that's it, now I'm asking the question.	Pois bem, agora eu faço a pergunta.
+706	But this thing, the punishment, happened before the part of the tzimtzum Bet.	Mas isso, o castigo, aconteceu antes da parte do tsimtsum Bet.
+707	After the tzimtzum Bet.	Depois do tsimtsum Bet.
+708	It is in the world of correction, actually.	Isso é no mundo da correção, na verdade.
+709	Right.	Certo.
+710	So what is the question?	Então, qual é a pergunta?
+711	So how did the Rav now explain this, that here it is as if the role of drawing down the light?	Então, como o Rav explicou isso agora, que aqui seria como o papel de atrair a luz?
+712	He received that afterward.	Ele recebeu isso depois.
+713	I don't understand the question.	Não entendo a pergunta.
+714	Never mind, the punishment appears even before the drawing of the light, before the progression.	Não importa, o castigo aparece ainda antes de atrair a luz, antes do encadeamento.
+715	Before the breaking of the vessels.	Antes da quebra dos vasos.
+716	No.	Não.
+717	No, no, no.	Não, não, não.
+718	No?	Não?
+719	After, actually, it's as if...	Depois, na verdade, é como se...
+720	But the Rav told you, now it has been inverted in the world of correction, yes, everything was inverted.	Mas o rabino lhe disse: agora isso se inverteu no mundo da correção, sim, tudo se inverteu.
+721	The world of correction is after the breaking of the vessels.	O mundo da correção é depois da quebra dos vasos.
+722	There are many kinds of breakings, and with each and every breaking we	Há muitos tipos de quebras, e a cada quebra nós
+723	refine things more and more. Just so you don't misunderstand me, it's not accurate,	precisamos as coisas cada vez mais. Só para não me entenderem mal, isso não é exato,
+724	but in every man there is a woman and a man, and in every woman there is a man and a woman.	mas em cada homem há mulher e homem, e em cada mulher há homem e mulher.
+725	And here we are speaking about generalities, about the general phenomenon, but in fact	E aqui falamos de generalidades, do fenômeno geral, mas na verdade
+726	there is a male force and a female force in every atom.	há uma força masculina e uma força feminina em cada átomo.
+727	"He will rule over you," it says, to the woman, as a punishment.	"Ele dominará você", diz ele à mulher, como castigo.
+728	When we clarify this verse: "and he will rule over you."	Quando esclarecemos este versículo: "e ele dominará você".
+729	"And he will rule over you" — what does that mean?	"E ele dominará você": o que isso significa?
+730	It means that you will be passive and he will be active.	Significa que você será passiva e ele será ativo.
+731	The question is whether this is a curse or a correction.	A questão é se isso é uma maldição ou uma correção.
+732	Is it a curse or is it a correction?	É uma maldição ou uma correção?
+733	If a person is able	Se uma pessoa é capaz
+734	to give expression to others and to give	de dar expressão aos outros e de dar
+735	others the possibility to initiate, and puts herself aside,	aos outros a possibilidade de tomar a iniciativa, e se colocar de lado,
+736	is that a curse or is it a correction?	isso é uma maldição ou uma correção?
+737	It's a correction, right?	É uma correção, certo?
+738	Right, it's a correction, not a curse. We look at it as if it's a curse: "and he will rule over you."	Certo, é uma correção, não uma maldição. Nós olhamos como se fosse maldição: "e ele dominará você."
+739	You have to do what he says, it's a curse, you're not a free woman, you're not	Você tem que fazer o que ele diz, é uma maldição, você não é livre, você não é
+740	at liberty, you have to obey him.	dona de si, tem que obedecer a ele.
+741	But one can look at it in a completely different way.	Mas dá para olhar isso de um modo completamente diferente.
+742	All of Judaism speaks of "love your neighbor as yourself." So when I	Todo o judaísmo fala de "amarás o teu próximo como a ti mesmo". Então, quando eu
+743	love the other, if I truly love him and value him,	amo o outro, se eu realmente o amo e o valorizo,
+744	then I am able to give him the priority,	então sou capaz de dar a ele a prioridade,
+745	to give him the right of expression, while I remain in the shadow,	de dar a ele o direito de se expressar, enquanto eu fico na sombra,
+746	so that the expression will be his. That is a form of love, not a curse.	para que a expressão seja dele. Isso é uma forma de amor, não uma maldição.
+747	If it is done under compulsion, then it is a curse.	Se isso é feito por imposição, aí sim é uma maldição.
+748	The word "to rule" sounds like something that	A palavra "dominar" soa como algo que
+749	could be like a house, something by coercion.	pode ser como uma casa, algo à força.
+750	Yes.	Sim.
+751	If we learn everything within one person, then when they say to the woman within the person,	Se aprendemos tudo dentro de uma só pessoa, então, quando dizem à mulher dentro da pessoa:
+752	"and he will rule over you" — who will rule over you?	"e ele dominará você", quem dominará você?
+753	The light will rule over the vessel.	A luz dominará o vaso.
+754	So is it a curse or a blessing?	Então é maldição ou bênção?
+755	That the light will rule over the vessel.	Que a luz domine o vaso.
+756	That is, the attribute of mercy	Ou seja, a medida da misericórdia
+757	will rule over the attribute of judgment. Altruism will rule over egoism.	dominará a medida do julgamento. O altruísmo dominará o egoísmo.
+758	It is not written "to rule" (lishlot),	Não está escrito "dominar" (lishlot),
+759	but "to govern" (limshol), "the luminaries of the world, to govern," this is	mas "governar" (limshol), "as luminárias do mundo, para governar", isso é
+760	the luminaries – "to rule" – "he will rule over you."	os luzeiros – "dominar" – "ele dominará você."
+761	You can also say it another way, but I'm the one ruling.	Dá para dizer de outra forma, mas quem domina sou eu.
+762	That's a different expression.	Essa é outra expressão.
+763	The phone here is acting up again. Is that a question?	O telefone aqui deu problema de novo. É uma pergunta?
+764	No.	Não.
+765	What's the difference between limshol and lishlot?	Qual é a diferença entre limshol e lishlot?
+766	No, I'm saying it's as if the lights rule, so here we set up a light.	Não, estou dizendo que é como se as luzes governassem, então aqui estabelecemos uma luz.
+767	Yes.	Sim.
+768	Oh dear, okay, this broadcast is getting messed up.	Ai, ai, ai, tudo bem, essa transmissão está se atrapalhando.
+769	Okay.	Certo.
+770	You know, yimshol also comes from the word	Sabe, yimshol também vem da palavra
+771	mashal.	mashal.
+772	Mashal and nimshal.	Mashal e nimshal.
+773	"We rule over his spirit."	"Dominar o seu próprio espírito."
+774	Right.	Certo.
+775	Who is a hero?	Quem é herói?
+776	No.	Não.
+777	The one who conquers.	Aquele que conquista.
+778	"One who rules over his spirit."	"Aquele que domina o seu espírito."
+779	"One who rules over his spirit."	"Aquele que domina o seu espírito."
+780	Mashilut, governance.	Mashilut, governabilidade.
+781	Right.	Certo.
+782	In a good sense, not in Sarah's sense.	Em bom sentido, não no sentido de Sara.
+783	Right.	Certo.
+784	In the sense of giving governance.	No sentido de dar governabilidade.
+785	We want a government, not a domination.	Queremos um governo, não uma dominação.
+786	So that we manage to hear why he was called Yitzchak, why it wasn't good,	Para darmos conta de ouvir por que o chamaram Yitzchak, por que não era bom,
+787	why	por que
+788	he was called Yitzchak.	o chamaram Yitzchak.
+789	So let's read on.	Então vamos continuar lendo.
+790	What is that zaken in the work? Do you have it?	O que é esse zaken na avodá? Vocês têm aí?
+791	Which page?	Qual página?
+792	A student of Baal HaSulam, Rav Beniomi Sinkovsky,	Um aluno de Baal HaSulam, o Rav Beniomi Sinkovsky,
+793	wrote down from his teacher that the holy seed	anotou de seu mestre que a semente sagrada
+794	cannot come without removing the orlah, without removing the klipah.	não pode vir sem a remoção da orla, sem a remoção da casca.
+795	So now he introduces a new element here: that the holy seed	Então agora ele introduz aqui um elemento novo: que a semente sagrada
+796	cannot come without removing the orlah, without brit milah. Avraham could	não pode vir sem remover a orla, sem brit milá. Avraham podia
+797	father Yishmael before the milah, but Yitzchak he fathered only after it.	gerar Yishmael antes da milá, mas Yitzchak ele gerou só depois dela.
+798	Why?	Por quê?
+799	Because the evil side has no offspring.	Porque o lado do mal não tem descendência.
+800	By the way,	A propósito,
+801	on Tu BiShvat we eat fruit. The Zohar says that the whole point of...	no Tu BiShvat comemos frutas. O Zohar diz que todo o sentido de...
+802	setting a table of fruit is to say	pôr uma mesa de frutas é dizer
+803	that the Sitra Achra has no fruit. That is,	que a Sitra Achra não tem frutos. Ou seja,
+804	the egoistic forces have no real fruit, only the altruistic forces have	as forças egoístas não têm frutos de verdade, só as forças altruístas têm
+805	fruit. That is why on Tu BiShvat we set a table of fruit, to stress this.	frutos. Por isso no Tu BiShvat se faz uma mesa de frutas, para enfatizar isso.
+806	Here he brings in the matter of the brit.	Aqui ele introduz o tema do brit.
+807	"And my lord is old" is the orlah, because what is	"E meu senhor é velho" é a orlá, pois o que é
+808	the orlah?	a orlá?
+809	The orlah is the egoistic shell within a person.	A orlá é a casca egoísta que existe no homem.
+810	Cutting the orlah, the act of cutting it, is a physical branch	Cortar a orlá, o ato de cortá-la, é um ramo físico
+811	of what we are commanded to do: cut the spiritual orlah,	daquilo que nos foi ordenado: cortar a orlá espiritual,
+812	that is, the egoistic desire to receive. The concept of orlah is	isto é, o desejo egoísta de receber. O conceito de orlá é
+813	blockage: "uncircumcised of lips," or "uncircumcised	obstrução: "incircunciso de lábios", ou "incircunciso
+814	of heart," meaning his heart is closed, blocked.	de coração", isto é, o seu coração está fechado, obstruído.
+815	Sarah asked the deepest question: how can holy seed come	Sara fez a pergunta mais profunda: como pode vir uma semente santa
+816	from a person who still has an orlah, a desire to receive for himself, called zaken?	de um homem que ainda tem orlá, um desejo de receber para si, chamado zaken?
+817	"And my lord is zaken." So the Zohar takes this to a completely different place,	"E meu senhor é zaken." Assim o Zohar leva isso a um lugar completamente diferente,
+818	a place where the egoistic desire to receive is the zaken: it is not dynamic, it does not beget	um lugar em que o desejo egoísta de receber é o zaken: não é dinâmico, não gera
+819	offspring. A different direction altogether, a spiritual direction. And the answer is:	descendência. Uma direção totalmente outra, uma direção espiritual. E a resposta é:
+820	"Is anything too wondrous for HaShem?" Precisely this lack was left	"Acaso algo é maravilhoso demais para HaShem?" Justamente essa falta foi deixada
+821	so that a person adds his part in the correction of the milah, and then "Sarah has a son."	para que o homem acrescente a sua parte na correção da milá, e então "Sara terá um filho".
+822	Again: precisely this lack was left.	De novo: justamente essa falta foi deixada.
+823	Which lack?	Que falta?
+824	That of the orlah, of the egoistic desire to receive.	A da orlá, do desejo egoísta de receber.
+825	So that the person adds his part in the correction of the milah,	Para que o homem acrescente a sua parte na correção da milá,
+826	makes an effort, prays for the correction	se esforce, reze pela correção
+827	of the egoistic desire to receive.	do desejo egoísta de receber.
+828	And then "Sarah has a son."	E então "Sara terá um filho".
+829	What did you want to say?	O que você queria dizer?
+830	That even fruit, up to three years. Right.	Que também o fruto, até três anos. Certo.
+831	Orlah fruit.	Fruto de orlá.
+832	Right.	Certo.
+833	You can't sell it.	Não se pode vendê-lo.
+834	You can't eat it.	Não se pode comê-lo.
+835	The first three years that fruit grows on a tree, it is forbidden to eat it.	Nos três primeiros anos em que a árvore dá frutos, é proibido comê-los.
+836	Why?	Por quê?
+837	Because there are three kinds of shells.	Porque há três tipos de cascas.
+838	"A stormy wind, a great cloud, and a flaring fire": one shell	"Um vento tempestuoso, uma grande nuvem e um fogo flamejante": uma casca
+839	against faith: the body does not want to believe, does not want to believe.	contra a fé: o corpo não quer acreditar, não quer acreditar.
+840	I want to know, not to believe. The second klipah is against fear of Heaven,	Eu quero saber, não acreditar. A segunda casca é contra o temor,
+841	and the third klipah is against love. That is why three years:	e a terceira casca é contra o amor. Por isso, três anos:
+842	for three years it is forbidden to eat the fruit of a tree,	por três anos é proibido comer os frutos da árvore,
+843	since the evil inclination still rules, because	pois o iêtser hará ainda domina, porque
+844	man is the tree of the field.	o homem é a árvore do campo.
+845	A question that is asked: why is it three years for a tree, and for a man	Uma pergunta que se faz: por que para a árvore são três anos, e para o homem
+846	the orlah is cut at eight days, eight days?	a orla é cortada aos oito dias, oito dias?
+847	Everything has its own parameter; these are all different kinds of spiritual	Cada coisa tem o seu parâmetro; tudo isso são tipos diferentes de parâmetros
+848	parameters.	espirituais.
+849	Now a question: what does the Zohar	Agora uma pergunta: o que o Zohar
+850	see among people who did it without a brit milah,	vê entre pessoas que fizeram sem brit milá,
+851	those nations, the ones the players do?	essas nações, o que os jogadores fazem?
+852	A Christian, for example, doesn't do it. From the Zohar's point of view, are there spiritual differences between people,	Um cristão, por exemplo, não faz. Do ponto de vista do Zohar, há diferenças espirituais entre as pessoas,
+853	really?	de fato?
+854	The Zohar looks from the spiritual perspective, and the Zohar	O Zohar olha do ponto de vista espiritual, e o Zohar
+855	pours fire and brimstone on the one who is not circumcised. It says	despeja fogo e enxofre sobre quem não é circuncidado. Ele diz
+856	that this is a very great flaw in the soul.	que isso é um defeito muito grande na alma.
+857	They are circumcised physically but not spiritually. Why? Physically it takes a few seconds.	Eles são circuncidados fisicamente, mas não espiritualmente. Por quê? Fisicamente leva alguns segundos.
+858	The question is about the circumcision of the heart. Do you have a thread?	A pergunta é sobre a circuncisão do coração. Você tem alguma linha?
+859	A drink?	Uma bebida?
+860	Something.	Alguma coisa.
+861	Rabbi, give us a tip about the orlah of the heart; it doesn't want to come out.	Rav, dê-nos uma dica sobre a orla do coração; ela não quer sair.
+862	I'm not sure we want to remove it.	Não tenho certeza de que queremos tirá-la.
+863	Wouldn't we want to be clean for the honor of HaShem,	Não gostaríamos de ser limpos para a honra de HaShem,
+864	blessed be He, to be clean?	bendito seja Ele, de ser limpos?
+865	We are in a trap.	Estamos numa armadilha.
+866	On one hand, the egoistic desire to receive rules us;	Por um lado, o desejo egoísta de receber nos domina;
+867	on the other hand, we suffer greatly from it and we are not	por outro lado, sofremos muito com isso e não ficamos
+868	enthusiastic about this matter.	entusiasmados com isso.
+869	Now what you are asking, it is simple, that is to say,	Agora, o que você pergunta é simples, isto é,
+870	thank you very much. The physical circumcision is simple and takes a few	muito obrigado. A circuncisão física é simples e leva alguns
+871	seconds, but it is only a kind of	segundos, mas é apenas uma espécie de
+872	symbol of the true spiritual circumcision, and if	símbolo da circuncisão espiritual verdadeira, e se
+873	a person has an uncircumcised heart and cannot see the other,	uma pessoa tem o coração incircunciso e não consegue ver o outro,
+874	then it does not count that he made a brit milah. He made a	então não se considera que ele fez brit milá. Ele fez uma
+875	physical brit milah but not a spiritual one, so it does not count that he truly made	brit milá física, mas não espiritual, então não se considera que ele realmente fez
+876	a covenant. Making a covenant is a hard thing.	uma aliança. Fazer uma aliança é uma coisa difícil.
+877	Cutting away the ego point of a person is not	Cortar o ponto do ego de uma pessoa não é
+878	an easy thing.	uma coisa fácil.
+879	Who are you, making a ...here?	Quem é você, fazendo aqui um…?
+880	circumcision?	circuncisão?
+881	Yes.	Sim.
+882	But it's not...	Mas não é...
+883	Yes, it's not that you are able to obligate yourself.	Sim, não é que você consiga se obrigar.
+884	The parent obligates.	O pai é quem obriga.
+885	Yes.	Sim.
+886	In the name of the child.	Em nome da criança.
+887	But if the parent didn't do it, then the person himself must see to it that it is done for him.	Mas se o pai não fez, então a própria pessoa deve cuidar para que seja feito nela.
+888	He is obligated in this.	Ele é obrigado nisso.
+889	The week itself is seven days, so we keep	A própria semana tem sete dias, então esperamos
+890	eight days, which is already beyond the week. This comes to say	oito dias, que já está além da semana. Isso vem dizer
+891	that by cutting off the orlah we want to rise above	que, ao remover a orla, queremos nos elevar acima
+892	nature. Nature is seven,	da natureza. A natureza é sete,
+893	and eight is already a leap, above nature,	e oito já é um salto, acima da natureza,
+894	above the regular, ordered patterns.	acima dos padrões regulares e ordenados.
+895	That is, are you saying every leap?	Ou seja, você está dizendo cada salto?
+896	Yes.	Sim.
+897	To take out the human nature within him?	Tirar a natureza humana que há nele?
+898	To act against his egoistic nature, yes.	Agir contra a sua natureza egoísta, sim.
+899	Now, from that perspective, women are indeed obligated	Agora, desse ponto de vista, as mulheres de fato são obrigadas
+900	in the brit.	na brit.
+901	From that perspective, women are certainly obligated in the brit	Desse ponto de vista, as mulheres certamente são obrigadas na brit
+902	spiritually.	espiritualmente.
+903	Women need to strive to go against nature.	As mulheres precisam se esforçar para ir contra a natureza.
+904	Twenty minutes ago you told me that in the girls' classes	Vocês me disseram há vinte minutos que nas turmas das meninas
+905	there are indeed boycotts, ostracism, lashon hara and so on.	de fato há boicotes, exclusões e lashon hará e assim por diante.
+906	That's what you said, so from that perspective women too are commanded to make a brit.	Foi o que vocês disseram, então desse ponto de vista as mulheres também são ordenadas a fazer a brit.
+907	There's no question at all, but there's no ceremony for it. There is	Não há dúvida alguma, mas não há cerimônia para isso. Há
+908	a certain ceremony, but you don't need a ceremony.	uma certa cerimônia, mas não é preciso cerimônia.
+909	No ceremony is needed. The ceremonies done today are inflation.	Não é preciso cerimônia. As cerimônias de hoje são inflação.
+910	I'm not saying all these things are needed, no. I'm not	Não estou dizendo que é preciso tudo isso, não. Não estou
+911	talking about some celebration. You can	falando de alguma festa. Você pode
+912	say	dizer
+913	that there is no special blessing on this, because it's not connected to a physical act. We have no	que não há bênção especial sobre isso, porque não está ligado a um ato físico. Não temos
+914	blessings on spiritual acts, because the spiritual is above time and above place,	bênçãos sobre atos espirituais, porque o espiritual está acima do tempo e do espaço,
+915	so I can't connect it to a blessing said in a particular time and place.	então não posso ligá-lo a uma bênção dita em determinado tempo e lugar.
+916	Spiritually, a woman is obligated in all the mitzvot.	Espiritualmente, a mulher é obrigada em todas as mitzvot.
+917	All the exemptions of every kind are only in the physical, not the spiritual. She is obligated	Todas as isenções de todo tipo existem só no físico, não no espiritual. Ela é obrigada
+918	in the sukkah and she is obligated in everything, there's no question at all.	na sucá e é obrigada em tudo, não há dúvida alguma.
+919	The exemption is only from the physical act.	A isenção é só do ato físico.
+920	You spoke about the fact that...	Você falou sobre o fato de que...
+921	It could be that a woman fulfills the mitzvot much more than her husband,	Pode ser que uma mulher cumpra as mitsvot muito mais do que o marido,
+922	without any doubt.	sem nenhuma dúvida.
+923	If we take, for example, the matter of the brit, it could be that a woman fulfills the brit much more	Se pegarmos, por exemplo, o tema da brit, pode ser que uma mulher cumpra a brit muito mais
+924	than men, or all the other things, also the blowing of	do que os homens, ou todas as outras coisas, também o toque do
+925	the shofar, also Sukkah, everything. After all, every mitzvah has in it a certain correction	shofar, também a sucá, tudo. Afinal, cada mitsvá tem nela uma certa correção
+926	in the human soul. So it could be that men make the blessing "Asher	na alma do ser humano. Então pode ser que os homens façam a bênção "Asher
+927	kidshanu b'mitzvotav v'tzivanu lishmoa kol shofar," but he doesn't change	kidshanu b'mitzvotav v'tzivanu lishmoa kol shofar", mas ele não muda
+928	at all, and the woman, it could be that she does fulfill	em nada, e a mulher, pode ser que ela de fato cumpra
+929	all the mitzvot. This shofar, from the inner perspective, so she is	todas as mitsvot. Este shofar, do ponto de vista interior, então ela é
+930	the one who fulfills the true mitzvah of shofar, and not he.	quem cumpre a verdadeira mitsvá do shofar, e não ele.
+931	Absolutely, it could be.	Com certeza, pode ser.
+932	Yes.	Sim.
+933	You said at the beginning of the chapter, the matters...	Você disse no começo do capítulo, os assuntos...
+934	There is a prohibition of relations between a father and his, between his mother...	Há uma proibição de relações entre o pai e a sua, entre a mãe dele...
+935	I asked why, yes.	Perguntei por quê, sim.
+936	Okay, and then he asked, Nadav	Certo, e então ele perguntou, Nadav
+937	asked, what about...	perguntou, e quanto ao...
+938	yibbum?	yibum?
+939	No, of Jews with other nations.	Não, de judeus com outros povos.
+940	Why is there a prohibition?	Por que existe uma proibição?
+941	Why is there a prohibition?	Por que existe uma proibição?
+942	Because in the spiritual roots, in general, the Jews are more	Porque nas raízes espirituais, em geral, os judeus são mais
+943	drawn from the vessels of bestowal of the worlds, and the gentiles more	atraídos dos vasos de doação dos mundos, e os gentios mais
+944	from the vessels of reception of the worlds. So in order that the Jews	dos vasos de recepção dos mundos. Então, para que os judeus
+945	can realize their correction, therefore they are forbidden to intermingle with gentiles.	possam realizar a sua correção, por isso lhes é proibido se misturar com gentios.
+946	But in the end, the vessels	Mas, no fim das contas, também os vasos
+947	of reception are meant to be fully corrected, and therefore it is written, "For My house shall be called a house of prayer	de recepção devem ser completamente corrigidos, e por isso está escrito: "Pois a Minha casa será chamada casa de oração
+948	for all peoples." The point is only	para todos os povos." O ponto é apenas
+949	that since the spiritual root, in general, the spiritual	que, como a raiz espiritual, em geral, a raiz espiritual
+950	root of the Jew is in the vessels of bestowal that are in the worlds,	do judeu está nos vasos de doação que há nos mundos,
+951	then indeed, in order that he can realize his root, therefore he is forbidden	então, de fato, para que ele possa realizar a sua raiz, por isso lhe é proibido
+952	to intermingle with vessels of reception.	se misturar com vasos de recepção.
+953	That is the point.	Esse é o ponto.
+954	It is not enough to be born significant, also what is beautiful between Jews	Não basta nascer significativo, também o que é belo entre judeus
+955	and Israel, because a Jew is...	e Israel, porque judeu é...
+956	There is Israel.	Existe Israel.
+957	Yes.	Sim.
+958	And Israel also became Israel before Yaakov the...	E Israel também se tornou Israel antes de Yaakov, o..., sim?
+959	It is not enough to be born.	Não basta nascer.
+960	Yes.	Sim.
+961	For a certain people, in a certain way, maybe you're the brother.	Para um povo determinado, de certa forma, talvez você seja o irmão.
+962	It seems to me there are more levels here, simply.	Parece-me que há aqui mais níveis, simplesmente.
+963	I don't know that it was free...	Não sei se foi de graça...
+964	What I said is the general explanation: there are	O que eu disse é a explicação geral: existem
+965	seventy nations. Formally, today at the UN	setenta nações. Formalmente, hoje na ONU
+966	a few more are registered, but	estão registradas um pouco mais, mas
+967	at the root there are seventy nations, and to each nation	na raiz são setenta nações, e a cada nação
+968	a different desire is attributed.	é atribuído um desejo diferente.
+969	Now, since we want to bring ourselves	Agora, como queremos levar a nós mesmos
+970	and all of humanity to the state of "love your neighbor as yourself,"	e toda a humanidade ao estado de "amarás o teu próximo como a ti mesmo",
+971	and since the Jews are more rooted in vessels of bestowal	e como os judeus estão mais enraizados em vasos de doação
+972	and kindness, in order for us to realize ourselves,	e bondade, para que possamos realizar a nós mesmos,
+973	we are forbidden to marry other nations, so that we can realize	nos é proibido casar com outros povos, para que possamos realizar
+974	our core point.	o nosso ponto essencial.
+975	We have a uniqueness.	Temos uma singularidade.
+976	First, that we are	Primeiro, que somos
+977	let's call it genetically, sons of Avraham, Yitzchak	digamos, geneticamente, filhos de Avraham, Yitzchak
+978	and Yaakov.	e Yaakov.
+979	And second, I haven't checked, but it seems that we	E segundo, não verifiquei, mas parece que nós
+980	have undergone the greatest sufferings in the history of mankind, since	passamos pelos maiores sofrimentos da história da humanidade, desde
+981	then and forever, and the sufferings	sempre e para sempre, e os sofrimentos
+982	that we underwent throughout all the years of history, I haven't checked	que atravessamos ao longo de todos os anos da história, não verifiquei
+983	relative to other nations; yes, only relative to our sources,	em relação a outros povos; sim, só em relação às nossas fontes,
+984	when we were in exiles: the exile of Egypt, the exile of Babylon, the exile of Greece	quando estávamos nos exílios: o exílio do Egito, o exílio da Babilônia, o exílio da Grécia
+985	and Assyria. The Beit HaMikdash was destroyed here	e da Assíria. O Beit HaMikdash foi destruído aqui
+986	twice. The eyes of the whole world are here.	duas vezes. Os olhos do mundo inteiro estão aqui.
+987	When they destroyed the Batei HaMikdash here, millions were killed too.	Quando destruíram aqui os Batei HaMikdash, milhões também foram mortos.
+988	It wasn't only that they destroyed the Beit HaMikdash and threw	Não foi só que destruíram o Beit HaMikdash e nos lançaram
+989	us into an exile of two thousand years across	a um exílio de dois mil anos por todo
+990	the globe; they scattered us completely, and we were	o globo; nos dispersaram por completo, e fomos
+991	given over to plunder. It is truly a wonder and a marvel	entregues à pilhagem. É realmente um prodígio e uma maravilha
+992	how after two thousand years we returned here. It is a thing	como depois de dois mil anos voltamos para cá. É algo
+993	truly impossible. Whoever reads the history	realmente impossível. Quem lê a história
+994	of the Jewish people and sees how we were subjected to pogroms,	do povo de Israel e vê como fomos submetidos a pogroms,
+995	both in the countries of Europe and in the Arab countries,	tanto nos países da Europa quanto nos países árabes,
+996	the Muslims, always harassment and always pogroms,	os muçulmanos, sempre perseguições e sempre pogroms,
+997	and always expulsions, very many, very many.	e sempre expulsões, muitíssimas, muitíssimas.
+998	Yes, and then the jewel in the crown is the Holocaust.	Sim, e depois a joia da coroa é o Holocausto.
+999	So we went through a completely insane history, and we still	Então passamos por uma história completamente louca, e ainda
+1000	inside the movie, the movie isn't over yet.	dentro do filme, o filme ainda não acabou.
+1001	And it won't end it either.	E também não vai acabar.
+1002	It won't end... it will end.	Não vai acabar... vai acabar.
+1003	I'm saying that nothing is by chance,	Eu digo que nada é por acaso,
+1004	and because we are drawn from the spiritual roots of Avraham, Yitzchak and Yaakov,	e porque descendemos das raízes espirituais de Avraham, Yitzchak e Yaakov,
+1005	the duty rests on us to realize these roots.	recai sobre nós o dever de realizar essas raízes.
+1006	I don't know if you know exactly what that means, but it rests on us	Não sei se vocês sabem exatamente o que isso significa, mas recai sobre nós
+1007	to realize all of this, for ourselves and also	realizar tudo isso, para nós mesmos e também
+1008	in our streets and in our neighborhoods, and also	nas nossas ruas e nos nossos bairros, e também
+1009	to be a leading axis for all of humanity. And we have two paths before us:	ser um eixo condutor para toda a humanidade. E temos dois caminhos diante de nós:
+1010	either the path of Torah, which is a path of study and education	ou o caminho da Torá, que é um caminho de estudo e educação
+1011	and practice, or the path of suffering.	e prática, ou o caminho dos sofrimentos.
+1012	Because the pogroms continue. That's it, period.	Porque os pogroms continuam. É isso, ponto final.
+1013	We are meant to choose either the path of study and education,	Devemos escolher ou o caminho do estudo e da educação,
+1014	or if we don't — whatever the reason, it doesn't matter now — if we don't choose	ou, se não escolhermos — qualquer que seja o motivo, não importa agora — se não escolhermos
+1015	the path of study and education and practice,	o caminho do estudo, da educação e da prática,
+1016	and attempts to build a society in a far, far more	e as tentativas de construir uma sociedade muito, muito mais
+1017	loving way, then nature will eat us from its side.	amorosa, então a natureza nos devorará do lado dela.
+1018	This is a matter of laws of nature. The laws of the Torah are in fact the laws of	Trata-se de leis da natureza. As leis da Torá são, na verdade, as leis da
+1019	nature, and we have a certain mission. It doesn't	natureza, e temos uma certa missão. Não
+1020	matter whether we want it or not, understand or not, believe or not.	importa se queremos ou não, se entendemos ou não, se acreditamos ou não.
+1021	It doesn't matter. You can disbelieve, but still, if	Não importa. Você pode não acreditar, mas mesmo assim, se
+1022	you get caught in a sea of whirlpools, the whirlpools swallow you, even	você cai num mar de redemoinhos, os redemoinhos engolem você, mesmo
+1023	if you don't understand exactly the process, the whirlpools swallow you.	que você não entenda exatamente o processo, os redemoinhos engolem você.
+1024	So here too it's the same. So certainly it is much better	Então aqui também é igual. Por isso, certamente é muito melhor
+1025	for us to learn these things in depth and to practice	para nós estudar essas coisas a fundo e praticá-las
+1026	them within the family, in the synagogue, in	dentro da família, na sinagoga, na
+1027	the neighborhood, at work, in every space. To practice them. The more	vizinhança, no trabalho, em todos os espaços. Praticá-las. Quanto mais
+1028	we learn, the more we will be able to change.	aprendermos, mais poderemos mudar.
+1029	People who learn have prohibitions. The fact that I learn this doesn't mean I	Quem estuda tem proibições. O fato de eu estudar isto não significa que eu
+1030	already practice it, but there is a chance here to practice. If you learn,	já pratico, mas há aqui uma chance de praticar. Se você estuda,
+1031	you acquire the ability to discern; you diagnose	você adquire a capacidade de discernir; você diagnostica
+1032	yourself, and then you see what is wrong and where the	a si mesmo, e então vê o que está errado e onde estão os
+1033	problematic points are, and then you can begin to deal with them.	pontos problemáticos, e então pode começar a lidar com eles.
+1034	It's not pressing a button. Learning doesn't mean you are rectified.	Não é apertar um botão. Estudar não significa que você está corrigido.
+1035	Even in the various studies there are holes.	Mesmo nos vários estudos há buracos.
+1036	Black ones. When a person learns these things,	Negros. Quando a pessoa estuda essas coisas,
+1037	it can also consume him; he can think of himself as some great scholar,	isso também pode devorá-la; ela pode se achar um grande sábio,
+1038	a great philosopher, a great kabbalist, who knows what, while he may actually be a great egoist.	um grande filósofo, um grande cabalista, sabe-se lá o quê, quando na verdade pode ser um grande egoísta.
+1039	The fact that you learn this doesn't mean anything; it only gives you the	O fato de você estudar isso não quer dizer nada; isso apenas lhe dá a
+1040	the ability to struggle, to fight with your ego	a capacidade de lutar, de combater o seu ego
+1041	and to try to build around you, on every platform,	e de tentar criar à sua volta, em todas as plataformas,
+1042	the altruistic path. But you can, like with anything, use this	o caminho altruísta. Mas você pode, como em tudo, usar isso
+1043	in a charlatan, egoistic way too. You can talk about	também de forma charlatã e egoísta. Você pode falar sobre
+1044	altruism and exploit everyone. Don't be naive, gentlemen.	altruísmo e explorar todo mundo. Não sejam ingênuos, senhores.
+1045	Don't be naive.	Não sejam ingênuos.
+1046	There is a very great light here. Studying these things is a very great light.	Há aqui uma luz muito grande. Estudar essas coisas é uma luz muito grande.
+1047	I don't know if you are capable, men and women, but if you connect to the	Não sei se vocês são capazes, homens e mulheres, mas se vocês se conectam aos materiais
+1048	authentic materials, there is a great light in them.	autênticos, há neles uma luz grande.
+1049	Here I edit it a bit and try to give	Aqui eu edito um pouco e tento dar
+1050	it a more modern face, let's call it.	a isso uma face mais moderna, digamos.
+1051	And everything depends on you.	E tudo depende de vocês.
+1052	The authentic materials are from people who reached very high	Os materiais autênticos são de pessoas que alcançaram picos
+1053	spiritual peaks.	espirituais muito elevados.
+1054	How is it done today in the world?	Como se faz hoje no mundo?
+1055	That interests me.	Isso me interessa.
+1056	For example, all kinds of elderly Chinese or Tibetan sages	Por exemplo, todo tipo de velhos sábios chineses ou tibetanos
+1057	who reached spiritual peaks.	que alcançaram picos espirituais.
+1058	And they wrote. Do they bring their writings	E eles escreveram. Trazem os escritos deles
+1059	exactly as written, word for word, or do they translate a bit,	exatamente como foram escritos, palavra por palavra, ou traduzem um pouco,
+1060	explain a bit, because otherwise people won't understand?	explicam um pouco, porque senão não entenderão?
+1061	What is the practice?	Qual é a prática?
+1062	Do they translate and bring it to the understanding of the West or of	Traduzem e levam isso ao entendimento do Ocidente ou de
+1063	this one, since it's a cultural matter, but there are those who know it	este outro, porque é uma questão cultural, mas há os que conhecem
+1064	right in the authentic writings.	diretamente nos escritos autênticos.
+1065	In the language, yes.	Na língua, sim.
+1066	Because all kinds of such writings were really brought to me.	Porque de fato já me trouxeram escritos assim.
+1067	It's usually short, short sentences, tak, tak,	Geralmente é curto, frases curtas, tac, tac,
+1068	and of course there is depth in every sentence.	e é claro que há profundidade em cada frase.
+1069	So just like that,	Então, assim, só por perguntar,
+1070	men and women in the wider world:	homens e mulheres no mundo em geral:
+1071	are they connected to an authentic language, or is it edited for them?	estão conectados a uma linguagem autêntica ou editam isso para eles?
+1072	In any case, people, in my opinion, need	De qualquer forma, as pessoas, na minha opinião, precisam
+1073	accessibility in the various courses, mindfulness, I know there is	de acessibilidade nos vários cursos, mindfulness, eu sei que há
+1074	someone, Dvora,	alguém, Dvora,
+1075	who is called Lama Dvora, an Israeli,	que é chamada de Lama Dvora, israelense,
+1076	Professor Lama Dvora?	professora Lama Dvora?
+1077	Lama Dvora?	Lama Dvora?
+1078	Lama Dvora?	Lama Dvora?
+1079	Lama Dvora?	Lama Dvora?
+1080	Why?	Por quê?
+1081	Why Devorah?	Por que Devorá?
+1082	Yes, why Devorah.	Sim, por que Devorá.
+1083	So is that what they called her?	Então era assim que a chamavam?
+1084	Why Devorah?	Por que Devorá?
+1085	She studied, a professor from the Technion.	Ela estudou, uma professora do Technion.
+1086	One day she went through something powerful.	Um dia ela passou por algo forte.
+1087	She studied Sanskrit.	Ela estudou sânscrito.
+1088	So she gets her things in order.	Então ela organiza as coisas dela.
+1089	Galai, why?	Galai, por quê?
+1090	I understood that...	Entendi que...
+1091	Ah, I understand.	Ah, entendi.
+1092	Well, among the different nations...	Bom, entre os diversos povos...
+1093	Yes, there are spiritual people among them, yes.	Sim, há pessoas espirituais entre eles, sim.
+1094	And...	E...
+1095	They have a role, and we have...	Eles têm um papel, e nós temos...
+1096	Yes, there is.	Sim, tem.
+1097	We have the Zohar and so on.	Nós temos o Zohar e assim por diante.
+1098	All the nations have a role.	Todos os povos têm um papel.
+1099	Yes, yes, certainly, all the nations have a role.	Sim, sim, claro, todos os povos têm um papel.
+1100	In the end, the foundation is very good.	No fim, a base é muito boa.
+1101	Yes.	Sim.
+1102	There is some truth.	Há alguma verdade.
+1103	There is one truth.	Há uma só verdade.
+1104	There is one truth.	Há uma só verdade.
+1105	There is one truth, and it is called Elokim.	Há uma só verdade, e ela se chama Elokim.
+1106	The question is how to approach Him.	A questão é como se aproximar d'Ele.
+1107	See you, all the best.	Até logo, tudo de bom.
+1108	See you, I'm going too, all the best.	Até logo, eu também vou indo, tudo de bom.

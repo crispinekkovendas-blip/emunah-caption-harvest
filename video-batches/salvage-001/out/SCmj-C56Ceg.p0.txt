@@ -1,0 +1,556 @@
+0	Rambam, Laws of Shechitah, chapter 1, halachah	Rambam, Leis da Shechitá, capítulo 1, halachá
+1	14.	14.
+2	Our teacher the Rambam writes: With what may one slaughter?	Nosso mestre o Rambam escreve: com o que se abate?
+3	With anything.	Com qualquer coisa.
+4	Whether with a metal knife, or with flint or glass, or with a reed	Seja com uma faca de metal, seja com sílex ou vidro, ou com uma cana
+5	of the marsh.	do brejo.
+6	And similar sharp cutting objects.	E com objetos cortantes semelhantes.
+7	But it must have a single, smooth edge, with no notch in it.	Mas é preciso que tenha um fio liso e que não haja nele nenhuma falha.
+8	But if there was something like a furrow in the edge of the implement used for slaughtering,	Mas se havia algo como um sulco no fio do instrumento com que se abate,
+9	even if the furrow was very small, the slaughter is invalid.	mesmo que o sulco fosse minúsculo, a shechitá é inválida.
+10	So, with HaShem's help, let us explain; there are many things here that one needs	Então, com a ajuda de HaShem, vamos explicar; há aqui muitas coisas que é preciso
+11	to know.	saber.
+12	First, the Mishnah in tractate Chulin, page 15	Primeiro, a Mishná no tratado Chulin, folha 15
+13	side b, brings there: one who slaughters with a hand sickle,	lado b, traz ali: aquele que abate com uma foice de mão,
+14	with flint or with a reed.	com sílex ou com uma cana.
+15	Flint is a sharp stone, and reed is also the reed	Sílex é uma pedra afiada, e cana é também a cana
+16	of the marsh; the difference between an ordinary reed and the marsh reed is that the marsh reed cuts	do brejo; a diferença entre uma cana comum e a cana do brejo é que a cana do brejo corta
+17	and does not leave splinters.	e não deixa lascas.
+18	Therefore the Mishnah says that one may slaughter with anything:	Por isso a Mishná diz que se pode abater com qualquer coisa:
+19	one who slaughters with a hand sickle, flint or reed, his slaughter is valid; one slaughters with anything, always,	quem abate com foice de mão, sílex ou cana, a sua shechitá é válida; abate-se com qualquer coisa, sempre,
+20	one slaughters with anything, except a harvest sickle and a saw,	abate-se com qualquer coisa, exceto com a foice de colheita e a serra,
+21	and teeth and a fingernail, because they strangle.	e os dentes e a unha, porque estrangulam.
+22	That is, instead of cutting, they strangle.	Isto é, em vez de cortar, eles estrangulam.
+23	Now, let us see for example a saw; what is a saw?	Agora, vejamos por exemplo a serra; o que é uma serra?
+24	It is like a saw whose teeth are serrated.	É como um serrote cujos dentes são recortados.
+25	In such a way it does not cut in one stroke, but rather tears more.	Assim, ela não corta de uma só vez, mas antes rasga.
+26	And therefore it will be invalid.	E por isso será inválida.
+27	In any case the Mishnah explains that all knives are valid for slaughter,	De qualquer modo, a Mishná explica que todas as facas são válidas para a shechitá,
+28	but there is a condition: that their edge be smooth	mas há uma condição: que o seu fio seja liso,
+29	without nicks.	sem falhas.
+30	So it is also brought in the Braita, and this is therefore the source of the halachah here in the Rambam,	Assim consta também na Braita, e esta é, portanto, a fonte da halachá aqui no Rambam,
+31	who writes: With what may one slaughter?	que escreve: com o que se abate?
+32	With anything.	Com qualquer coisa.
+33	In the Frankel edition it is written: with what	Na edição Frankel está escrito: com o que
+34	does one slaughter?	se abate?
+35	With anything.	Com qualquer coisa.
+36	Whether with a metal knife, and note	Seja com uma faca de metal, e reparem
+37	that the Rambam puts a metal knife here before the other things.	que o Rambam coloca aqui a faca de metal antes das outras coisas.
+38	Rabbenu Avach, in Yoreh Deah, siman 6, se'if 1, writes that from the fact that the Rambam puts	Rabenu Avach, no Yoreh Deá, simán 6, séif 1, escreve que, pelo fato de o Rambam colocar
+39	a metal knife before other knives, it implies that ab initio one should slaughter with a knife of	a faca de metal antes das outras facas, entende-se que, de início, deve-se abater com uma faca de
+40	metal.	metal.
+41	One must be particular about this specifically.	Deve-se ser exigente especificamente quanto a isso.
+42	By contrast, the Pri Chadash and the Pri To'ar write that there is no need to be concerned about this,	Já o Pri Chadash e o Pri To'ar escrevem que não é preciso se preocupar com isso,
+43	and even initially one may slaughter with whatever he wishes.	e que até lechatchilá pode-se abater com o que se quiser.
+44	The Keret u'Plet, Rabbi Natan Eibeschütz, writes that initially it is good to be concerned for the words of	O Keret u'Plet, Rabi Natan Eibeschütz, escreve que lechatchilá é bom levar em conta as palavras do
+45	the Avach, and to prefer slaughtering with a metal knife, because flaws are more noticeable	Avach e preferir abater com faca de metal, porque nela as falhas são mais perceptíveis
+46	in it than in other knives.	do que nas outras facas.
+47	In practice today, certainly everyone is accustomed to slaughter with a	Na prática hoje, certamente todos têm o costume de abater com uma faca de
+48	metal knife, because it is sharper.	metal, porque é mais afiada.
+49	And it can be sharpened, and also metal	E é possível afiá-la, e também o metal
+50	is in fact a stronger material than other things, so it is less	é, de fato, um material mais forte do que outros, de modo que é menos
+51	likely to become nicked, and it is also easier to check a metal knife than the other	provável que se danifique, e também é mais fácil examinar uma faca de metal do que os outros
+52	things.	materiais.
+53	Here our teacher the Rambam writes: whether with a metal knife, or with flint, as we said,	Aqui nosso mestre, o Rambam, escreve: seja com faca de metal, seja com sílex, como dissemos,
+54	which is a sharp stone, or with glass.	que é uma pedra afiada, ou com vidro.
+55	This is interesting: Maran in the Shulchan Arukh, Siman 6, Seif 1, in the laws of shechitah,	Isto é interessante: Maran, no Shulchan Arukh, Siman 6, Seif 1, nas leis de shechitá,
+56	in Yoreh De'ah, brings the halachah of the Rambam, but he omits the glass.	em Yoreh Deá, traz a halachá do Rambam, mas omite o vidro.
+57	The Rama writes: and it is forbidden to slaughter with other reeds, or glass,	O Rama escreve: e é proibido abater com outras canas, ou vidro,
+58	because splinters break off from them.	porque deles se soltam lascas.
+59	And one must be concerned about piercing the simanim.	E é preciso se preocupar com a perfuração dos simanim.
+60	Piercing the simanim means that he would pierce them before he slaughters.	Perfuração dos simanim quer dizer que ele os perfuraria antes de abater.
+61	Now, as for a hole in the windpipe, which is like a thorn in the windpipe, by the essential law	Agora, quanto a um furo na traqueia, que é como um espinho na traqueia, pela lei fundamental
+62	it is kosher.	é kasher.
+63	But a hole in the gullet is invalid.	Mas um furo no esôfago invalida.
+64	In any case, some were astonished at the Rama, how he says that it is forbidden to slaughter	De qualquer modo, alguns estranharam o Rama: como ele diz que é proibido abater
+65	with other reeds or glass.	com outras canas ou vidro?
+66	After all, it is explained here in the Rambam that a marsh reed is permitted, and glass too.	Afinal, está explicado aqui no Rambam que a cana de pântano é permitida, e o vidro também.
+67	Therefore the Avach and the Taz, there, write that it seems a scribal error	Por isso o Shach e o Taz, ali, escrevem que parece que um erro de escriba
+68	crept into the words of the Rama, and he only means slaughtering with the thin skin of a reed,	se infiltrou nas palavras do Rama, e que ele se refere apenas a abater com a casca fina de uma cana,
+69	which is in fact the prohibition, because it leaves splinters.	o que de fato é proibido, porque deixa lascas.
+70	But if it is a marsh reed, there is no concern about this.	Mas se é uma cana de pântano, não há preocupação quanto a isso.
+71	And they want to say that in the words of Maran, the Shulchan Arukh, too, something was lost, since one must read	E eles querem dizer que também nas palavras de Maran, o Shulchan Arukh, algo se perdeu, pois é preciso ler
+72	in his words: whether with flint, or with glass, or with the thin skin of a marsh reed.	em suas palavras: seja com sílex, seja com vidro, seja com a casca fina de uma cana de pântano.
+73	In any case, gentlemen, it is agreed that by the essential law one may slaughter with all these kinds,	De qualquer modo, senhores, é consensual que pela lei fundamental pode-se abater com todos esses tipos,
+74	provided that they have no flaw.	desde que não tenham falha.
+75	Therefore the Rambam says here: and it must have a single edge and have no flaw in it.	Por isso o Rambam diz aqui: e que tenha um só fio e não tenha falha.
+76	But if it was like a furrow, what does "like a	Mas se era como um sulco, o que significa "como um
+77	furrow" mean?	sulco"?
+78	It means that if the knife had a flaw like a furrow, a furrow is like	Quer dizer que, se a faca tinha uma falha como um sulco, um sulco é como
+79	a small pit, and then there are sharp edges on the right side and on the left side.	um pequeno buraco, e então há pontas afiadas do lado direito e do lado esquerdo.
+80	Like a knife that took a blow, there is a point here and a point there.	Como uma faca que levou uma pancada, há uma ponta aqui e uma ponta ali.
+81	But if there was a furrow in the edge of the instrument used for slaughtering,	Mas se houvesse um sulco no fio do instrumento com que se abate,
+82	even if the furrow was extremely small, extremely small,	mesmo que o sulco fosse pequeníssimo, pequeníssimo,
+83	barely felt, the shechitah is invalid.	quase imperceptível, a shechitá é inválida.
+84	Even so, the shechitah is invalid.	Mesmo assim, a shechitá é inválida.
+85	What is the reason?	Qual é o motivo?
+86	The reason is that when one slaughters, the barb, which is the protrusion of the nick,	O motivo é que, ao abater, a farpa, que é a saliência da falha,
+87	strikes the animal's siman and tears it.	atinge o siman do animal e o rasga.
+88	Therefore it is not considered a cut, the siman, in a valid shechitah.	Por isso não se considera um corte, o siman, numa shechitá válida.
+89	Now, this wording of the Rambam, that any nick at all disqualifies	Agora, esta expressão do Rambam, de que qualquer falha invalida
+90	the knife, what does he say?	a faca, o que ele diz?
+91	But if there was a furrow in the edge of the instrument used for slaughtering, even if the furrow was extremely small.	Mas se houvesse um sulco no fio do instrumento com que se abate, mesmo que o sulco fosse pequeníssimo.
+92	The Rambam does not give us here the measure of how small "extremely small" is.	O Rambam não nos dá aqui a medida de quão pequeno é esse "pequeníssimo".
+93	How much?	Quanto?
+94	So there are those who want to learn from the Rambam's words that he gave no measure for this.	Por isso há quem queira aprender das palavras do Rambam que ele não deu medida para isso.
+95	Even if a person passes the fingernail over the knife back and forth	Mesmo que a pessoa passe a unha sobre a faca, para a frente e para trás,
+96	and the fingernail does not catch,	e a unha não prenda,
+97	it passes through,	e passe direto,
+98	still, if one feels some nick, it will be	ainda assim, se sentir alguma falha, ela será
+99	invalid.	inválida.
+100	And so we are indeed concerned according to the Rambam.	E assim, de fato, é preciso se preocupar segundo o Rambam.
+101	This topic, gentlemen, what is the measure of the nick needed for it to be invalid, is brought	Este tema, senhores, qual é a medida da falha para que seja inválida, está
+102	in the Gemara in Tractate Chulin, page 17b, where there are many opinions and views.	na Guemará, no tratado Chulin, folha 17b, onde há muitas opiniões e posições.
+103	I want us to summarize them a bit, pay attention.	Quero que as resumamos um pouco, prestem atenção.
+104	The Gemara there says that the measure of a nick in the knife is like the chaguirat	A Guemará diz ali que a medida da falha na faca é como a chaguirat
+105	HaTziporen.	HaTziporen.
+106	What is chaguirat HaTziporen?	O que é chaguirat HaTziporen?
+107	Do you know what it means?	Vocês sabem o que significa?
+108	A belt, which we wear, why is it called a "chagorah"?	Um cinto, que usamos, por que se chama "chagorá"?
+109	Because it girds the person.	Porque ele cinge a pessoa.
+110	"Girds" means it goes around the person.	"Cinge" quer dizer que dá a volta na pessoa.
+111	That is what it means, girding the person.	É isso que significa cingir a pessoa.
+112	It goes around the person, the belt, and is also fastened onto him.	Ele dá a volta na pessoa, o cinto, e também fica preso a ela.
+113	So it comes out from here that if there is, for example, chaguirat HaTziporen,	Então resulta daqui que, se há, por exemplo, chaguirat HaTziporen,
+114	chaguirat HaTziporen is when the fingernail gets caught, and the nick surrounds	chaguirat HaTziporen é quando a unha fica presa, e a falha envolve
+115	the fingernail, it girds it.	a unha, ela a cinge.
+116	So this is one opinion, that only if it is a nick like this, it is invalid.	Essa é uma opinião: só se for uma falha assim, é inválida.
+117	But the Sages, how did they check the knife in their time?	Mas os Sábios, como verificavam a faca em seu tempo?
+118	Not on the nails.	Não na unha.
+119	Like this, pay close attention.	Assim, prestem bem atenção.
+120	In Eretz Yisrael, they checked the knife for nicks by the light of the sun.	Na Terra de Israel, verificavam a faca para ver se havia falhas à luz do sol.
+121	In the sunlight, they would take the knife so that it casts a shadow.	Com a luz do sol, pegavam a faca de modo que ela projetasse uma sombra.
+122	Then the sun enlarges the knife.	Então o sol aumenta a faca.
+123	And if there is any nick, you can see it in the shadow.	E se houver alguma falha, dá para vê-la na sombra.
+124	In Nehardea, they checked the knife by passing it through water.	Em Nehardea, verificavam a faca passando-a pela água.
+125	What does that mean?	O que isso quer dizer?
+126	There was a thin stream of water, and they would place the knife in it.	Havia um fio fino de água, e colocavam a faca nele.
+127	If there is a nick, you see a slight deflection of the water.	Se há uma falha, vê-se um pequeno desvio da água.
+128	Rav Sheshet checked the knife by passing it over the tip of his tongue.	Rav Sheshet verificava a faca passando-a pela ponta da língua.
+129	So Rav Sheshet, how did he check a knife?	Então Rav Sheshet, como ele verificava uma faca?
+130	He would pass it like this.	Passava assim.
+131	Why?	Por quê?
+132	Because the tongue feels a great deal.	Porque a língua sente muito.
+133	Yes?	Certo?
+134	There are many blood vessels in the tongue.	Há muitos vasos sanguíneos na língua.
+135	The blood vessels in the tongue are why the tongue is red, pink; there are many	Os vasos sanguíneos na língua são o motivo de a língua ser vermelha, rosada; há muitos
+136	blood vessels in the tongue, as in the lips.	vasos sanguíneos na língua, como nos lábios.
+137	That is why the tongue is extremely sensitive.	Por isso a língua é extremamente sensível.
+138	Yes?	Certo?
+139	Extremely sensitive.	Extremamente sensível.
+140	So if you pass the tip of the knife over the tongue, you can feel it.	Então, se você passa a ponta da faca sobre a língua, dá para sentir.
+141	Rav Sheshet would check this way.	Rav Sheshet verificava assim.
+142	Rav Acha checked the knife by passing a hair over	Rav Acha verificava a faca passando um fio de cabelo pelo
+143	its edge.	seu fio.
+144	He would take a hair and pass it along, to see whether the hair would catch	Pegava um fio de cabelo e o passava, para ver se o cabelo ficaria preso
+145	somewhere.	em algum ponto.
+146	I remember a Yemenite rabbi once told me that when they came up from Yemen,	Lembro que um rabino iemenita me contou que, quando eles imigraram do Iêmen,
+147	there were some among...	havia alguns entre...
+148	some of those who were here, who thought they were great experts.	alguns dos que já estavam aqui, que se achavam grandes entendidos.
+149	So they would not let the Yemenites slaughter.	Então não deixavam os iemenitas abaterem.
+150	They said, "You have no certificate."	Diziam: "Você não tem diploma."
+151	He had been slaughtering since he was three years old, but he had no certificate.	Ele abatia desde os três anos de idade, mas não tinha diploma.
+152	I remember, he told me there was one Yemenite, and someone came and said to him, "Come,	Lembro que ele me contou de um iemenita a quem alguém disse: "Vamos,
+153	let's test you. How do you check whether a knife has a nick or not?"	vamos examiná-lo. Como você verifica se há falha na faca ou não?"
+154	He said to him, "Well, with the fingernail and so on?"	Ele respondeu: "Bem, com a unha e coisa assim?"
+155	He said, "What are you talking about?	Ele disse: "Que ideia é essa?
+156	Bring me the knife."	Traga-me a faca."
+157	And then he took out from his sidelock a hair,	Então arrancou da sua suíça um fio de cabelo,
+158	passed the knife over the hair.	passou a faca sobre o cabelo.
+159	He said, "This is how we check whether a knife has a nick or not."	E disse: "É assim que verificamos se a faca tem falha ou não."
+160	But the one who asked him, apparently, had no peyot.	Mas aquele que lhe perguntou, pelo visto, não tinha peiot.
+161	He was one of the modern ones.	Era dos modernos.
+162	Well, so this already has a source in the Gemara, in Tractate Chulin, where the Gemara brings	Bem, isso já tem uma fonte na Guemará, no tratado Chulin, onde a Guemará traz
+163	that Rav Acha would check the knife by passing	que Rav Acha verificava a faca passando
+164	a hair along its edge, and in Sura they checked the knife by passing it over	um fio de cabelo pelo seu fio, e em Sura verificavam a faca passando-a sobre
+165	the flesh of the finger.	a carne do dedo.
+166	Here the Rishonim raise a difficulty, writing that since	Aqui os Rishonim levantam uma dificuldade, escrevendo que, uma vez que
+167	the measure of a flaw in the knife is chaguirat HaTziporen, why would the Sages of the Gemara need checks like these?	a medida da falha na faca é chaguirat HaTziporen, por que os Sábios da Guemará precisariam de verificações como estas?
+168	Even if they found the knife had some flaw, they would still need to go back	Mesmo que achassem na faca alguma falha, ainda precisariam voltar
+169	and check whether it has a flaw of the size of chaguirat HaTziporen.	e verificar se ela tem uma falha do tamanho de chaguirat HaTziporen.
+170	Chaguirat HaTziporen, of course, means the nail gets caught, the flaw catches the nail.	Chaguirat HaTziporen, claro, significa que a unha fica presa, a falha prende a unha.
+171	And even more astonishing is the practice of the Sages of Sura, who relied on checking with	E mais surpreendente ainda é o costume dos Sábios de Sura, que se baseavam em verificar com
+172	the flesh of the finger.	a carne do dedo.
+173	Perhaps the knife has a flaw of the size of chaguirat HaTziporen,	Talvez a faca tenha uma falha do tamanho de chaguirat HaTziporen,
+174	which is smaller than what the flesh of the finger can feel.	que é menor do que aquilo que a carne do dedo consegue sentir.
+175	Therefore there are several answers to this.	Por isso há várias respostas para isso.
+176	What emerges from our Rishonim is that they disagreed in law about the measure of the flaw	O que se depreende dos nossos Rishonim é que discordaram quanto à lei sobre a medida da falha
+177	that disqualifies the knife from shechitah.	que invalida a faca para a shechitá.
+178	There is a dispute about this: what is the measure?	Há uma discussão sobre isso: qual é a medida?
+179	And there are several different opinions on it.	E há várias posições a respeito.
+180	It is true that today, in our time, we are completely stringent, so that even if it is only to the point of sensation,	É verdade que hoje, em nosso tempo, é-se totalmente rigoroso, de modo que mesmo se for apenas até o ponto da sensação,
+181	if one feels a flaw, one must already sharpen the knife,	se sente uma falha, já é preciso afiar a faca,
+182	but our Rishonim did in fact disagree about this, and come, let me	mas nossos Rishonim de fato discordaram nisso, e venham, deixem-me
+183	tell you, with the help of HaShem, the main opinions.	dizer a vocês, com a ajuda de HaShem, as principais posições.
+184	So, as follows.	Então, é assim.
+185	There is the opinion of the Ramban and the Rashba.	Há a posição do Ramban e do Rashba.
+186	They raise a difficulty, as I said, on the practice of the Sages of the Gemara to check the shechitah knife in several ways.	Eles questionam, como eu disse, o costume dos Sábios da Guemará de verificar a faca de shechitá de várias maneiras.
+187	And on the words of Rav Chisda, that the measure of a flaw in the knife is chaguirat HaTziporen.	E as palavras de Rav Chisda, de que a medida da falha na faca é chaguirat HaTziporen.
+188	The Ramban and the Rashba answered that the view of those Sages differs from the view brought in the Gemara, that the measure of the flaw	O Ramban e o Rashba responderam que a posição desses Sábios diverge da posição trazida na Guemará, de que a medida da falha
+189	is the size of chaguirat HaTziporen, and they held that even a flaw smaller than this disqualifies the knife.	é o tamanho de chaguirat HaTziporen, e entenderam que mesmo uma falha menor que isso invalida a faca.
+190	For chaguirat HaTziporen, again I repeat, chaguirat HaTziporen is when I	Pois chaguirat HaTziporen, de novo repito, chaguirat HaTziporen é quando eu
+191	pass it, one needs to grow a bit of nail on the finger, and then one passes the	passo; é preciso deixar crescer um pouco a unha no dedo, e então se passa o
+192	finger like this, in a straight manner.	dedo assim, de forma reta.
+193	One must pass the finger in a straight manner along the edge of the knife.	É preciso passar o dedo de forma reta sobre o fio da faca.
+194	In this manner, back and forth.	Dessa maneira, para lá e para cá.
+195	It has to be from both sides.	Tem de ser dos dois lados.
+196	Both from this side and from the other side.	Tanto deste lado quanto do outro.
+197	And they pass the nail in this manner.	E passam a unha dessa maneira.
+198	And ab initio one must check dry.	E, de início, é preciso verificar a seco.
+199	But some are lenient, that if the hand is wet and on a wet surface, that is also possible.	Mas há quem seja leniente: se a mão estiver molhada e sobre algo molhado, isso também é possível.
+200	But initially one must check on a dry knife.	Mas, de início, deve-se verificar na faca seca.
+201	With animals, they always check on a dry knife.	Com animais de grande porte, sempre se verifica na faca seca.
+202	With birds, since the shechitah is much faster, if each time they had to dry it in order to check,	Com aves, como a shechitá é muito mais rápida, se toda vez tivessem de secar para verificar,
+203	it would take them time, so they rely on checking even when wet.	isso levaria tempo; por isso se apoiam em verificar também com a faca molhada.
+204	But at the end of the shechitah, they always take the knife and check it, and if	Mas, ao fim da shechitá, sempre se pega a faca e se verifica, e se
+205	a flaw is found, God forbid, they disqualify all the birds that were slaughtered with the last knife.	for encontrada uma falha, Deus nos livre, invalidam-se todas as aves abatidas com a última faca.
+206	That is how it must be.	É assim que deve ser.
+207	Now, what you are asking, Rabbi David, what must one	Agora, o que você pergunta, rabino David, o que se deve
+208	feel?	sentir?
+209	Once you let a bit of fingernail grow, you feel whether the nail	Quando você deixa a unha crescer um pouco, você sente se a unha
+210	gets caught, gets caught, or whether everything goes	prende, prende, ou se tudo corre
+211	completely smooth.	totalmente liso.
+212	Here, even on this page, I feel that it doesn't go smooth.	Veja, até nesta folha eu sinto que não corre liso.
+213	But if I give you, I will show you a knife, yes, a shechitah knife, and you will see,	Mas se eu der a vocês, eu vou mostrar uma faca, sim, de shechitá, e vocês verão,
+214	it goes smooth.	ela corre lisa.
+215	If the knife is as it should be.	Se a faca está como deve ser.
+216	One does back and forth.	Faz-se o vai e vem.
+217	And on both sides, as I said.	E dos dois lados, como eu disse.
+218	Initially, one must pass the nail six times.	De início, deve-se passar a unha seis vezes.
+219	In order to feel.	Para sentir.
+220	In any case, Rabbenu the Ramban and the Rashba write that there are those who are stringent even with a flaw smaller	De qualquer forma, o Ramban e o Rashba escrevem que há quem seja rigoroso mesmo com uma falha menor
+221	than this, since "the catching of the fingernail" means that the nail gets caught.	do que essa, pois "chaguirat HaTziporen" significa que a unha prende.
+222	So they say that even a smaller flaw than this, even if the nail does not get caught, if you feel the flaw,	Então dizem que até uma falha menor do que essa, mesmo que a unha não prenda, se você sente a falha,
+223	it is already forbidden, and therefore some of the Sages of the Gemara checked in other ways.	já será proibido; e por isso alguns dos Sábios da Guemará verificavam de outras maneiras.
+224	Now, this is how they actually explain the position of the Rif, who brought the practice of those Sages	Agora, é assim que explicam a posição do Rif, que trouxe o costume desses Sábios
+225	of the Gemara and omitted the measure of the catching of the fingernail.	da Guemará e omitiu a medida de chaguirat HaTziporen.
+226	Why?	Por quê?
+227	They write that the Rif held that even a flaw smaller than the catching of the fingernail	Escrevem que o Rif entendia que até uma falha menor que chaguirat HaTziporen
+228	disqualifies the knife.	invalida a faca.
+229	And so the Rashba concludes as practical halachah,	E assim conclui o Rashba como halachá na prática,
+230	that every flaw disqualifies the knife, even if it is smaller than the catching of a fingernail.	que toda falha invalida a faca, mesmo que seja menor que chaguirat HaTziporen.
+231	In contrast, the opinion of the Rama and the Rosh is that indeed	Em contraste, a opinião do Rama e do Rosh é que de fato
+232	the catching of the fingernail is the measure of the flaw that prohibits,	chaguirat HaTziporen é a medida da falha que proíbe,
+233	and the whole practice of the Sages of the Gemara to check the knife in the sun, in water, or by other kinds of tests,	e todo o costume dos Sábios da Guemará de verificar a faca ao sol, na água ou por outros tipos de teste,
+234	as we learned, was not from the core of the law but a stringency they adopted on their own.	como estudamos, não era do cerne da lei, mas uma restrição que adotaram por conta própria.
+235	But as halachah, all agree that the flaw disqualifies the knife only at the catching of the fingernail.	Mas quanto à halachá, todos concordam que a falha só invalida a faca na medida de chaguirat HaTziporen.
+236	Such is the opinion of the Rambam, the Rama and the Rosh.	Essa é a opinião do Rambam, do Rama e do Rosh.
+237	Rabbenu Aharon HaLevi, in Bedek HaBayit, he	Rabenu Aharon HaLevi, em Bedek HaBayit,
+238	writes that the Sages of the Gemara checked in the sunlight and in water in order	escreve que os Sábios da Guemará verificavam à luz do sol e na água para
+239	to choose for themselves a fine knife; indeed this is from the core of the law, because the measure of the flaw that disqualifies the	escolher para si uma faca boa; de fato isso é do cerne da lei, pois a medida da falha que invalida a
+240	blade, and the "chagirat HaTziporen" measure, as explained in the Gemara's discussion in the words of Rav Chisda.	lâmina, e a medida de "chaguirat HaTziporen", como explicado na discussão da Guemará nas palavras de Rav Chisda.
+241	But note where the Rama disagrees with what we said until now.	Mas reparem em que ponto o Rama discorda do que dissemos até agora.
+242	He says "chagirat HaTziporen" is not from the word "belt,"	Ele diz que "chaguirat HaTziporen" não vem da palavra "cinto",
+243	which surrounds the nail on both sides, but from the language of	que envolve a unha dos dois lados, mas da expressão de
+244	sensation. This is the Rama's view, and like the language of	sensação. Esta é a opinião do Rama, como a expressão do
+245	the verse in the book of Samuel, Samuel II, chapter 22, verse 46,	versículo no livro de Samuel, Samuel II, capítulo 22, versículo 46,
+246	"And they came trembling out of their closed places."	"E saíram tremendo de seus esconderijos."
+247	That is, as long as the nail feels the notch as it	Ou seja, enquanto a unha sente a falha ao
+248	moves along the edge of the knife, that is enough	percorrer o fio da faca, isso basta
+249	to disqualify it for shechitah.	para invalidá-la para a shechitá.
+250	In essence, the practice today is that if you pass the finger like this,	Na prática, hoje se segue a halachá de que, se passamos o dedo assim,
+251	you feel	sente-se
+252	something.	algo.
+253	You check what it is.	Você verifica o que é.
+254	Many times it's dirt.	Muitas vezes é sujeira.
+255	So what you do — it could be dirt, a bit of fat, it could be all sorts of things.	Então o que se faz — pode ser sujeira, um pouco de gordura, pode ser de tudo.
+256	So what do you do?	E então, o que se faz?
+257	There's a kind of pad, you clean, you pass the knife, you clean the knife with this pad.	Há uma espécie de almofada: passa-se a faca e limpa-se a faca com ela.
+258	Sometimes there's even a spray that you spray, and then you clean	Às vezes há até um spray que se borrifa, e então se limpa
+259	the knife, you take it and clean it with	a faca, pega-se e limpa-se com
+260	paper, and then you check again.	papel, e então se verifica de novo.
+261	Then you see that it's smooth.	Então você vê que está lisa.
+262	Once more, gently, patiently: smooth.	De novo, com calma, com paciência: lisa.
+263	Some say the knife check must be done specifically while sitting.	Alguns dizem que a verificação da faca deve ser feita especificamente sentado.
+264	And some say it can also be done standing.	E outros dizem que também se pode em pé.
+265	As for halachah, each one according to what suits him.	Quanto à halachá, cada um conforme lhe convém.
+266	Whether sitting or standing.	Seja sentado, seja em pé.
+267	But it is very important.	Mas é muito importante.
+268	Bli neder, an idea just occurred to me, bli neder, maybe next class,	Bli neder, me ocorreu agora uma ideia, bli neder, talvez na próxima aula,
+269	I'll bring you knives, with HaShem's help, and we'll see the practical halachah.	trarei facas para vocês, com a ajuda de HaShem, e veremos a halachá na prática.
+270	I'll let you check too.	Deixo vocês verificarem também.
+271	Huh?	Hã?
+272	Yes.	Sim.
+273	You can also grow your nail a bit, if you don't have one, but with HaShem's help, even those who don't have much of a nail,	Vocês também podem deixar a unha crescer um pouco, quem não tem, mas, com a ajuda de HaShem, mesmo quem não tem muita unha,
+274	you'll do it here with the back, like this, and you'll feel.	passem aqui com o dorso, assim, e vão sentir.
+275	Okay?	Certo?
+276	With you, Rabbi Aryeh, we'll let you check on the tip of the tongue.	Com o senhor, Rabi Arié, deixaremos o senhor verificar na ponta da língua.
+277	With HaShem's help.	Com a ajuda de HaShem.
+278	What does the honorable one say?	O que o senhor diz?
+279	How?	Como?
+280	With large animals, if they check after the shechitah, of course.	Com os animais grandes, se fazem a verificação depois da shechitá, claro.
+281	Large animals are slaughtered slowly, one at a time.	Animais grandes são abatidos devagar, um de cada vez.
+282	What do I mean?	O que quero dizer?
+283	Simply, because the animal is large and so on, the knife is also very long, not like a poultry knife, which is	Simplesmente porque o animal é grande etc., a faca também é bem longa, não como a faca de ave, que é
+284	small.	pequena.
+285	So of course they check between one animal and the next, both before	Então, claro, fazem a verificação entre um animal e outro, tanto antes
+286	and after.	quanto depois.
+287	They rinse and wipe it.	Lavam e enxugam.
+288	They rinse, wipe, and then do the check on a dry knife.	Lavam, enxugam, e então fazem a verificação com a faca seca.
+289	Okay?	Certo?
+290	That is how it is in places that...	É assim nos lugares que...
+291	respect themselves.	se respeitam.
+292	In other places, who knows.	Em outros lugares, não sei.
+293	There is a world of difference between a slaughterhouse with Rabbinate supervision and one with	Há uma diferença enorme entre um matadouro com supervisão do Rabinato e um com
+294	Badatz supervision, and so on.	supervisão do Badatz, e assim por diante.
+295	A world of difference.	Uma diferença enorme.
+296	Some, in their innocence, tell you: no, it's fine, I eat...	Alguns, na sua ingenuidade, dizem: não, está tudo bem, eu como...
+297	Aren't they the same shochtim?	Não são os mesmos shochtim?
+298	Only the sticker is different.	Só o selo é diferente.
+299	What do you mean, a different sticker?	Que história de selo diferente?
+300	What are you mixing up?	Do que você está falando?
+301	Come, look with your own eyes, and see.	Venha, olhe com os próprios olhos e veja.
+302	There is an enormous difference.	Há uma diferença enorme.
+303	In a great many details, in the checks as well, in	Em muitíssimos detalhes, nas verificações também, no
+304	the pace, the speed, the means, the hiddurim, the salting,	ritmo, na velocidade, nos meios, nos hiddurim, na salga,
+305	a great many differences.	muitas e muitas diferenças.
+306	And let's not even speak of the internal checks, of the internal organs.	E nem falemos das verificações internas, dos órgãos internos.
+307	With Rabbinate supervision, every adhesion that can be peeled off, they declare kosher.	Com a supervisão do Rabinato, toda aderência que se consegue descolar, eles tornam kasher.
+308	For us, if it is stuck, if there is mucus on the lung, we will still learn this, God willing,	Para nós, se está colada, se há muco no pulmão, ainda vamos estudar isso, se HaShem quiser,
+309	mucus on the lung, adhesions and so on, we are concerned about a perforation in the lung,	muco no pulmão, aderências e assim por diante, nos preocupamos com uma perfuração no pulmão,
+310	even if you manage to peel it off, it is no longer considered smooth,	mesmo que você consiga descolar, já não é considerado liso,
+311	so of course one must be careful about this.	então claro que é preciso ter cuidado com isso.
+312	Therefore Rabbeinu the Rama explains that chaguirah is not	Por isso Rabenu, o Rama, explica que chaguirá não é
+313	that the notch catches the nail, but rather it comes from the language of sensation.	que a falha prenda a unha, mas sim que vem da ideia de sensação.
+314	And therefore the Rashba writes about the Rama that if it really is from the language of sensation, then there is no	E por isso o Rashba escreve sobre o Rama que, se realmente é da ideia de sensação, então não há
+315	disagreement here at all, and so on.	nenhuma divergência aqui, e assim por diante.
+316	The Vilna Gaon writes that the Rama's view is stricter than the Rashba's,	O Gaon de Vilna escreve que a posição do Rama é mais rigorosa do que a do Rashba,
+317	because according to the Rashba, the notch must catch something.	pois segundo o Rashba, a falha precisa prender alguma coisa.
+318	But a notch that catches nothing, if there is a notch that	Mas uma falha que não prende nada, se há uma falha que
+319	catches nothing, the shechitah is kosher.	não prende nada, a shechitá é kasher.
+320	And according to the Rama, as long as the fingernail feels the notch,	E, segundo o Rama, enquanto a unha sentir a falha,
+321	even if it catches nothing, it is enough to disqualify the knife from slaughtering with it.	mesmo que ela não prenda nada, isso basta para invalidar a faca para abater com ela.
+322	And the Rosh's position is also explained like this:	E a posição do Rosh também é explicada assim:
+323	that any notch that he feels with the fingernail, meaning that the nail catches on it, need not be mentioned further, etc.	que toda falha que ele sente com a unha, isto é, em que a unha prende, não precisa ser mencionada mais, etc.
+324	So he too writes that a notch felt by the fingernail	Então ele também escreve que uma falha sentida pela unha
+325	disqualifies.	invalida.
+326	The Tur and the Maggid Mishneh understand the Rosh as disagreeing with the Rashba,	O Tur e o Maggid Mishné entendem que o Rosh discorda do Rashba,
+327	and they say that the Rosh ruled that the measure is enough for the fingernail to catch on it,	e dizem que o Rosh decidiu que a medida é que a unha prenda nela,
+328	which is a larger measure.	que é uma medida maior.
+329	But the Drisha explains that the Rosh does not disagree, and even a small notch	Mas a Drisha explica que o Rosh não discorda, e até uma falha pequena
+330	disqualifies the knife.	invalida a faca.
+331	But yes, it is necessary that the...	Mas sim, é preciso que a...
+332	yes, that the fingernail feels the notch, even if...	sim, que a unha sinta a falha, mesmo que...
+333	it is not enough for the fingernail to be held up on it.	não seja suficiente para a unha ficar presa nela.
+334	So too the Pri Chadash and the Pri To'ar bring, etc.	Assim também trazem o Pri Chadash e o Pri To'ar, etc.
+335	Now, regarding the Rambam, there is a perplexity.	Agora, quanto ao Rambam, há uma perplexidade.
+336	Why is there a perplexity in the Rambam?	Por que há uma perplexidade no Rambam?
+337	Because here, what did the Rambam write?	Porque aqui, o que o Rambam escreveu?
+338	He wrote: but if it was like a furrow, a furrow,	Ele escreveu: mas se havia como um sulco, um sulco,
+339	in the edge of the blade with which one slaughters, even if the furrow was very small, the shechitah is invalid.	no fio da lâmina com a qual se abate, mesmo que o sulco fosse pequeníssimo, a shechitá é inválida.
+340	He did not tell us how much.	Ele não nos disse quanto.
+341	Very small.	Pequeníssimo.
+342	How small is very small?	O quanto é pequeníssimo?
+343	Anything you feel, even very small.	Tudo o que você sente, mesmo pequeníssimo.
+344	They explain that the Rambam here is the most stringent.	Explicam que o Rambam aqui é o mais rigoroso.
+345	On the other hand, pay close attention, something very interesting.	Por outro lado, prestem bem atenção, algo muito interessante.
+346	In the Rambam himself, in Hilchot Beit HaBechirah,	No próprio Rambam, em Hilchot Beit HaBechirá,
+347	chapter 1, halachah 14, the Rambam, he writes regarding	capítulo 1, halachá 14, o Rambam escreve a respeito de
+348	a notch in the altar.	uma falha no altar.
+349	It is known that there is a prohibition to notch the stones of the altar.	Sabe-se que há uma proibição de se criar falhas nas pedras do altar.
+350	The Rambam says: any stone that was notched enough	O Rambam diz: toda pedra que foi danificada o suficiente
+351	for the fingernail to catch on it, like the knife of slaughter, is	para a unha prender nela, como a faca de shechitá, é
+352	disqualified for the ramp and for the altar.	inválida para a rampa e para o altar.
+353	So what do we see here from the Rambam?	Então o que vemos aqui no Rambam?
+354	That a knife of slaughter is disqualified only by a notch large enough for the fingernail to catch on, and not by a smaller measure than that.	Que a faca de shechitá só é invalidada por uma falha em que a unha prende, e não por uma medida menor que isso.
+355	And here in our passage the Rambam did not write this, and therefore	E aqui, no nosso trecho, o Rambam não escreveu isso, e por isso
+356	there is a perplexity here regarding the Rambam's opinion.	há uma perplexidade aqui quanto à opinião do Rambam.
+357	And pay attention.	E prestem atenção.
+358	It seems to you, actually, that the later authorities are puzzled by this, that the Rambam's words contradict what	Parece a vocês que, na verdade, os Acharonim estranham isso, que as palavras do Rambam contradizem o que
+359	he ruled regarding a notch in the altar stones, etc.	ele decidiu quanto à falha nas pedras do altar, etc.
+360	The Pri Chadash, in Yoreh De'ah, siman 18, small seif 5, resolves the Rambam's position,	O Pri Chadash, em Yoreh Deá, capítulo 18, seif katan 5, resolve a posição do Rambam,
+361	for the Rambam held, as the Rama wrote, as cited above,	pois o Rambam entendia, como escreveu o Rama, conforme citado acima,
+362	that "chaguirat HaTziporen" is only a term for sensation,	que "chaguirat HaTziporen" é apenas uma expressão de sensação,
+363	which is a very small measure.	que é uma medida muito pequena.
+364	And this is what he wrote regarding a flaw in the altar: that the disqualifying flaw is one that the	E é isso que ele escreveu sobre a falha no altar: que a falha que invalida é aquela em que
+365	fingernail catches on, meaning that the fingernail feels it,	a unha prende, ou seja, que a unha sente,
+366	like a slaughtering knife.	como numa faca de shechitá.
+367	Do you know what this is?	Sabem o que é isso?
+368	Think about it, gentlemen: the altar in the Beit HaMikdash, they would check	Pensem, senhores: o altar no Beit HaMikdash, eles verificavam
+369	the stones, which stone was fit to be built into the altar.	as pedras, qual pedra era apta para ser construída no altar.
+370	They would check the stones with a fingernail.	Verificavam as pedras com a unha.
+371	And if they felt any sensation at all, it would disqualify the stone	E se sentissem qualquer sensação, isso invalidava a pedra
+372	from being used to build the altar.	para ser usada na construção do altar.
+373	The Tevuot Shor rejects this answer, because	O Tevuot Shor rejeita essa resposta, pois
+374	regarding blemishes that disqualify in the priesthood, the Rambam wrote in Hilchot Bi'at Mikdash, chapter 7, halachot	quanto aos defeitos que invalidam no sacerdócio, o Rambam escreveu em Hilchot Bi'at Mikdash, capítulo 7, halachot
+375	2-3: one whose ear cartilage is damaged, to the extent that the fingernail catches	2-3: aquele cuja cartilagem da orelha foi danificada, a ponto de a unha prender
+376	in the flaw.	na falha.
+377	One whose ear cartilage is split in any amount at all.	Aquele cuja cartilagem da orelha foi rachada, por menor que seja.
+378	Now notice, see what the geniuses of Israel are, what the giants of Israel are.	Agora reparem, vejam o que são os gaonim de Israel, o que são os grandes de Israel.
+379	How meticulous they were about every...	Como eram meticulosos em cada...
+380	He says, wait, what do you want to tell me?	Ele diz: espere, o que vocês querem me dizer?
+381	You want to tell me that what the Rambam said in Hilchot Beit HaBechirah about the altar,	Querem me dizer que o que o Rambam disse em Hilchot Beit HaBechirá sobre o altar,
+382	that "chaguirat HaTziporen" means like the Rama's explanation, that it is sensation,	que "chaguirat HaTziporen" significa como a explicação do Rama, que é sensação,
+383	and that it is any amount at all.	e que é qualquer medida.
+384	This is contradicted by what the Rambam writes in Hilchot Bi'at Mikdash, chapter 7, halachah 2-3,	Isso é contradito pelo que o Rambam escreve em Hilchot Bi'at Mikdash, capítulo 7, halachá 2-3,
+385	where it is written thus: one whose ear cartilage is damaged, to the extent that the fingernail catches	onde está escrito assim: aquele cuja cartilagem da orelha foi danificada, a ponto de a unha prender
+386	in the flaw, this is regarding one who is damaged.	na falha, isso é sobre quem foi danificado.
+387	After that it is written: one whose ear cartilage is split, split in any	Depois está escrito: aquele cuja cartilagem da orelha foi rachada, rachada em qualquer
+388	amount at all.	medida.
+389	This implies that the measure of "chaguirat HaTziporen" and the measure of "any amount at all" are	Isso implica que a medida de "chaguirat HaTziporen" e a medida de "qualquer medida" são
+390	two different things.	duas coisas diferentes.
+391	The catching of the fingernail is not "any amount at all."	A prensão da unha não é "qualquer medida".
+392	Therefore the Tevuot Shor and the Beit Yaakov explain that the Rambam's words regarding	Por isso o Tevuot Shor e o Beit Yaakov explicam que as palavras do Rambam sobre
+393	the flaw in the altar stones, "like a slaughtering knife," are not said about the measure	a falha nas pedras do altar, "como uma faca de shechitá", não se referem à medida
+394	of the flaw but about the very obligation to check: that just as with a slaughtering knife	da falha, mas à própria obrigação de verificar: assim como na faca de shechitá
+395	one must check by passing the fingernail, so too one must check the altar stones.	é preciso verificar passando a unha, assim também é preciso verificar as pedras do altar.
+396	But the point is that with the altar stones it is more lenient.	Mas a questão é que com as pedras do altar é mais leve.
+397	For with the altar stones it is the extent of the fingernail catching, and with a slaughtering knife it is any amount at all.	Pois nas pedras do altar é o limite da prensão da unha, e na faca de shechitá é qualquer medida.
+398	For there, here in Hilchot Shechitah, the Rambam did not use the term "chaguirat HaTziporen."	Pois ali, aqui em Hilchot Shechitá, o Rambam não usou a expressão "chaguirat HaTziporen".
+399	The Rambam said explicitly here that if it was like	O Rambam disse explicitamente aqui que, se fosse como
+400	a furrow in the edge of what one slaughters with, and even a very small furrow, its shechitah is invalid.	um sulco no fio daquilo com que se abate, e mesmo um sulco bem pequeno, a shechitá dele é inválida.
+401	Period.	Ponto.
+402	There, in the Laws of…	Lá, nas Leis de…
+403	the altar — note that the Rambam says "like the scraping of the fingernail," but he means to say this regarding the stones	do altar — repare que o Rambam diz "como o raspar da unha", mas ele quer dizer isso a respeito das pedras
+404	of the altar, that it disqualifies them, like a slaughtering knife that a notch disqualifies,	do altar, que isso as invalida, como a faca de shechitá, que uma falha a invalida,
+405	but the measure of the flaw is not the same between the two.	mas a medida da falha não é a mesma entre os dois.
+406	So write the Tevuot Shor and the Beit Yaakov.	Assim escrevem o Tevuot Shor e o Beit Yaakov.
+407	But what comes out for us from their words?	Mas o que resulta para nós das palavras deles?
+408	That with a slaughtering knife, note, we go by any measure at all.	Que na faca de shechitá, repare, vai-se por qualquer medida.
+409	There is another answer of the Tevuot Shor, who distinguishes between two kinds of flaws: one is a long flaw along the length of the knife,	Há outra resposta do Tevuot Shor, que distingue entre dois tipos de falha: uma é uma falha longa ao longo da faca,
+410	where the two points are far from each other, and a short flaw where the two points are close to each other, and then it is called	em que as duas pontas ficam distantes uma da outra, e uma falha curta em que as duas pontas ficam próximas, e então se chama
+411	a flaw or a notch, and so on.	falha ou entalhe, e assim por diante.
+412	But this is really yet another distinction, somewhat difficult, since the Rambam did not distinguish here.	Mas isso na verdade é mais uma distinção, um pouco difícil, pois o Rambam não distinguiu aqui.
+413	There is the Keret u'Plet who wants to distinguish between a bird and an animal, but this too is somewhat forced, since	Há o Keret u'Plet, que quer distinguir entre ave e animal, mas isso também é um pouco forçado, pois
+414	the Rambam here did not write it, right?	o Rambam aqui não escreveu isso, certo?
+415	And Rabbenu the Rashash, Rabbi Shmuel Strashun, right?	E o nosso mestre, o Rashash, Rabi Shmuel Strashun, certo?
+416	On Chulin 17b, he answers that the measure of the flaw, namely the scraping of the fingernail mentioned in the Gemara,	Sobre Chulin 17b, ele responde que a medida da falha, isto é, o raspar da unha mencionado na Guemará,
+417	the scraping of the fingernail, is said only regarding the shechitah of kodashim.	o raspar da unha, só é dito a respeito da shechitá de kodashim.
+418	But regarding the shechitah of chulin…	Mas a respeito da shechitá de chulin…
+419	any flaw at all disqualifies the knife, even if the fingernail	qualquer falha invalida a faca, mesmo que a unha
+420	does not catch on it.	não prenda nela.
+421	And therefore in this halachah, where the Rambam deals with the shechitah of chulin, that is, ours,	E por isso, nesta halachá, em que o Rambam trata da shechitá de chulin, isto é, a nossa,
+422	the Rambam took the position that the measure of a disqualifying flaw is even the very smallest.	o Rambam adotou que a medida da falha que invalida é até a menor de todas.
+423	And what he wrote regarding a notch in the altar stones, like a slaughtering knife, means like the knife of the shechitah of kodashim.	E o que escreveu sobre a falha nas pedras do altar, como a faca de shechitá, refere-se à faca da shechitá de kodashim.
+424	That a notch in the shechitah disqualifies it only by the scraping of the fingernail.	Que a falha invalida só pelo raspar da unha.
+425	See what a brilliant answer of the Rashash.	Vejam que resposta genial a do Rashash.
+426	He tells you that where it is written that the scraping of the fingernail disqualifies a knife, it is specifically regarding kodashim.	Ele diz que onde está escrito que o raspar da unha invalida a faca, é especificamente a respeito de kodashim.
+427	Regarding kodashim, it disqualifies by the scraping of the fingernail.	A respeito de kodashim, invalida pelo raspar da unha.
+428	And therefore with the altar stones it is the scraping of the fingernail, because it is kodashim, and it is like a slaughtering knife,	E por isso, nas pedras do altar, é o raspar da unha, porque é kodashim, e é como a faca de shechitá,
+429	of the shechitah of kodashim, it is the scraping of the fingernail.	da shechitá de kodashim, é o raspar da unha.
+430	But here, where the Rambam speaks about the laws of shechitah of chulin, therefore even a slight flaw disqualifies.	Mas aqui, onde o Rambam fala das leis da shechitá de chulin, por isso até uma falha leve invalida.
+431	Ah, this would be the difficulty on the Rashash, that according to his words it comes out for us	Ah, essa seria a dificuldade contra o Rashash: segundo as palavras dele, resulta para nós
+432	that with kodashim we are more lenient than with chulin.	que com kodashim somos mais lenientes do que com chulin.
+433	Interesting.	Interessante.
+434	But that's it, I don't understand, one needs to understand the reasoning.	Mas é isso, não entendo, é preciso entender a lógica.
+435	The honorable one says, perhaps because it is not eaten by a person, but there are offerings that are eaten.	O senhor diz, talvez porque não é comido por uma pessoa, mas há oferendas que são comidas.
+436	An offering of the nations and the like.	Uma oferenda dos povos e semelhantes.
+437	Interesting.	Interessante.
+438	He does not explain the reasoning, why distinguish?	Ele não explica a lógica: por que distinguir?
+439	What does the honorable one say?	O que o senhor diz?
+440	Regarding	Quanto
+441	the stones of the altar, are they so sharp, and it isn't dangerous?	às pedras do altar, elas são tão afiadas assim, e não é perigoso?
+442	Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.	Ai, ai, ai, ai, ai, ai, ai, ai, ai, ai.
+443	Dear Rabbi David asks us here, regarding the stones of the altar, are they so sharp, and	O querido Rabi David nos pergunta aqui, quanto às pedras do altar, elas são tão afiadas, e
+444	it isn't dangerous?	não é perigoso?
+445	And you look to me like someone who did renovations at home not long ago.	E você me parece alguém que fez uma reforma em casa há pouco tempo.
+446	And if you don't put in the threshold, you worry someone will cut their foot.	E se não colocam a soleira, você teme que alguém corte o pé.
+447	But I understand you're speaking from some kind of trauma, but know	Mas entendo que você fala a partir de algum trauma, mas saiba
+448	that there's no need to explain it that way.	que não precisa explicar assim.
+449	One can explain simply that they were more rounded stones.	Dá para explicar simplesmente que eram pedras mais arredondadas.
+450	Rounded, and without any flaw in them either.	Arredondadas, e sem nenhuma falha também.
+451	What's the problem?	Qual é o problema?
+452	Why?	Por quê?
+453	They don't need to be...	Elas não precisam ser...
+454	First of all, they can be more rounded too, and have no flaw at all.	Antes de tudo, podem ser mais arredondadas também, e sem nenhuma falha.
+455	Nice.	Muito bem.
+456	And then it's also not dangerous or anything.	E aí também não é perigoso nem nada disso.
+457	Another point: it's known that they used the shamir worm in order	Outro ponto: é sabido que usavam o verme shamir para
+458	to split.	rachar.
+459	And this shamir is a wondrous thing, right?	E esse shamir é algo maravilhoso, certo?
+460	It would split without removing anything and without damaging	Ele rachava sem tirar nada e sem danificar
+461	anything.	coisa alguma.
+462	Not to compare, like a laser, yes.	Sem comparação, como um laser, sim.
+463	On occasion, we explained that once, whoever is well versed in the words of	Numa ocasião explicamos que, antigamente, quem é bem versado nas palavras de
+464	the Sages, in the Talmud, in the Midrashim, the holy Zohar, knows that there is no flattening of the sun.	nossos Sábios, no Talmud, nos Midrashim, no santo Zohar, sabe que não há achatamento do sol.
+465	There isn't.	Não há.
+466	Today they started inventing flying cars, so once there was the leaping of the way.	Hoje começaram a inventar carros voadores; antigamente havia o encurtamento do caminho.
+467	Today there are lasers, and so on, and that is their story.	Hoje há lasers e coisas assim, e essa é a história deles.
+468	In matters and precisions, that one can estimate and describe.	Em coisas e precisões que se pode estimar e descrever.
+469	You know, and not to compare, not only among the Sages of Israel.	Vocês sabem, e sem comparação, não só entre os sábios de Israel.
+470	Some of these things even among the nations of the world.	Algumas dessas coisas até entre as nações do mundo.
+471	For example, take the pyramids in Egypt.	Por exemplo, pegue as pirâmides no Egito.
+472	One of the wonders of the world.	Uma das maravilhas do mundo.
+473	But especially in the words of the Sages and so on, most wondrous things.	Mas sobretudo nas palavras dos Sábios e assim por diante, coisas extraordinárias.
+474	Precisions, in things.	Precisões, nas coisas.
+475	What is the difference?	Qual é a diferença?
+476	The difference is that the more physical the world becomes, the more one needs material,	A diferença é que, quanto mais material o mundo se torna, mais se precisa de matéria,
+477	physicality, in order to reach those same results.	de materialidade, para chegar aos mesmos resultados.
+478	That the Sages reached them from the spiritual side,	Que os Sábios alcançaram do lado espiritual,
+479	by making use of the knowledge and the powers and the things that are in it	aproveitando o conhecimento, as forças e as coisas que há nele
+480	creation.	criação.
+481	Okay?	Certo?
+482	That is the only difference.	Essa é a única diferença.
+483	Good.	Bom.
+484	Oy oy oy oy oy oy oy oy oy oy oy oy.	Oy oy oy oy oy oy oy oy oy oy oy oy.
+485	Back to our subject, gentlemen.	Voltando ao nosso assunto, senhores.
+486	As for practical halachah, the measure of the nick	Quanto à halachá na prática, o tamanho da falha
+487	in the knife.	na faca.
+488	Rabbenu the Maharshal, in Yam shel Shlomo, writes that by law there is no need to check	O Maharshal, no Yam shel Shlomo, escreve que, pela lei, não é preciso verificar
+489	more than by flesh and fingernail, since if he did not feel a nick when he checked	mais do que com a carne e a unha, pois se não sentiu falha quando verificou
+490	with the flesh or the fingernail, we presume that the knife has no nick at all, not even a	com a carne ou a unha, presume-se que a faca não tem falha alguma, nem mesmo uma
+491	smaller one.	falha menor.
+492	But if a nick is found by checking in the sun or in water, even though it is not felt on the flesh or the fingernail,	Mas se uma falha for encontrada ao verificar no sol ou na água, mesmo que não seja sentida na carne nem na unha,
+493	his shechitah is invalid even after the fact.	a shechitá dele é inválida, mesmo depois de feita.
+494	He says only that it is not required; you can check with flesh and fingernail and that's it.	Ele diz apenas que não é obrigatório; pode-se verificar com a carne e a unha, e pronto.
+495	But suppose you now checked in water, and the flow of the water changed direction, or	Mas imagine que você verificou agora na água, e o fluxo da água mudou de direção, ou
+496	in the sun, and it magnified it, and you saw there suddenly, in the shadow, some tiny hole,	no sol, e isso ampliou, e você viu ali de repente, na sombra, um pequeno buraco,
+497	then certainly it will be forbidden.	então certamente será proibido.
+498	And this follows the opinion of the Ramban and the Rashba, who invalidated any nick.	E isso segue a opinião do Ramban e do Rashba, que invalidaram qualquer falha.
+499	Maran, in the Shulchan Arukh, Yoreh Deah, siman 18, se'if 2, ruled regarding the measure of the nick that invalidates	Maran, no Shulchan Arukh, Yoreh Deá, capítulo 18, parágrafo 2, decidiu quanto ao tamanho da falha que invalida
+500	the knife. Note the wording of Maran: the measure of the nick is any amount at all,	a faca. Prestem atenção à redação de Maran: o tamanho da falha é qualquer um,
+501	provided that it catches on it, any amount, even a hair's	desde que prenda nela, qualquer que seja, mesmo um fio
+502	thread. That is, on one hand Maran says a nick is even any amount at all,	de cabelo. Isto é, por um lado Maran diz que é falha mesmo qualquer tamanho,
+503	but this nick must indeed catch, it must catch something,	mas essa falha precisa prender, precisa prender alguma coisa,
+504	even a hair's thread.	mesmo um fio de cabelo.
+505	Take one hair, and if it caught the hair, that invalidates.	Pegue um cabelo, e se ele prendeu o cabelo, isso invalida.
+506	Now, regarding the checking, does Maran require me to check the knife on a hair?	Agora, quanto à verificação, Maran exige que eu verifique a faca com um cabelo?
+507	No.	Não.
+508	Regarding the checking, Maran rules that checking the knife requires	Quanto à verificação, Maran decide que a verificação da faca exige
+509	the flesh and the fingernail, that is, on flesh and on the fingernail.	a carne e a unha, isto é, na carne e na unha.
+510	And one passes it back and forth, on three sides.	E passa-se para lá e para cá, pelos três lados.
+511	Why three sides?	Por que três lados?
+512	Because there is right, left, and middle.	Porque há direita, esquerda e meio.
+513	That is, he passes it back and forth on the flesh of his finger, and then passes it back and forth on his fingernail, on its three sides,	Isto é, passa-a para lá e para cá na carne do dedo, e depois na unha, pelos três lados,
+514	which are the edge and its two sides, so that there will be no nick at all.	que são o fio e os dois lados, para que não haja falha alguma.
+515	So therefore the Shach, in se'if katan 4, writes there that Maran in the Shulchan Arukh ruled like the Yam shel Shlomo,	Por isso o Shach, no seif katan 4, escreve ali que Maran no Shulchan Arukh decidiu como o Yam shel Shlomo,
+516	that the measure of the nick is any amount at all, except that checking with flesh and fingernail is sufficient.	que o tamanho da falha é qualquer um, só que basta a verificação com a carne e a unha.
+517	Yes?	Certo?
+518	This is one of the cases that requires six.	Este é um dos casos que exigem seis.
+519	Back and forth, back and forth, back and forth.	Para lá e para cá, para lá e para cá, para lá e para cá.
+520	No, you just place the flesh together with the fingernail.	Não, simplesmente colocam a carne junto com a unha.
+521	Yes, and then you feel it.	Sim, e então você sente.
+522	The Pri To'ar writes that it seems that in reality there is no nick in the world that will not be felt with the fingernail.	O Pri To'ar escreve que parece que, na realidade, não existe falha no mundo que não seja sentida com a unha.
+523	If there is a nick, you will feel it.	Se há uma falha, você vai senti-la.
+524	But I say that certainly one must learn how to check.	Mas eu digo que certamente é preciso aprender como verificar.
+525	And I have also seen that there are people who have a greater sensitivity in their fingers,	E também já vi que há pessoas que têm mais sensibilidade nos dedos,
+526	while other people don't have so much sensitivity in their fingers.	e outras pessoas que não têm tanta sensibilidade nos dedos.
+527	Yes?	Sim?
+528	In Deir al-Asad there is the	Em Deir al-Asad há o
+529	Dabah slaughterhouse.	matadouro da Dabah.
+530	There they have the Beit Yosef kashrut certification, yes?	Lá eles têm a supervisão de kashrut Beit Yosef, certo?
+531	And they have other kashrut certifications too.	E têm também outras supervisões de kashrut.
+532	There are Jewish shochtim there, and inspectors and everything.	Há lá shochtim judeus, inspetores e tudo mais.
+533	The Arabs there only do the work of carrying loads and things like that.	Os árabes lá só fazem o trabalho de carregar e coisas do tipo.
+534	Now, it seems to me he is no longer there today, but back when I used to go,	Agora, parece-me que ele já não está lá hoje, mas na época em que eu ia,
+535	there was a tremendous inspector there.	havia lá um inspetor extraordinário.
+536	Gentlemen, he had fingers, he has a sensitivity, something not normal.	Senhores, ele tinha dedos, tinha uma sensibilidade, algo fora do normal.
+537	For example, there were shochtim, and he would check the shochtim's knives and so on.	Por exemplo, havia shochtim, e ele examinava as facas dos shochtim e tudo mais.
+538	And a shochet would have to have his knife checked first.	E o shochet tinha de ter a faca examinada primeiro.
+539	And he checks the knife, and only when he was sure the knife was completely clean would he give it to him.	E ele examina a faca, e só quando tinha certeza de que a faca estava totalmente limpa é que a entregava a ele.
+540	And then he would check.	E então ele verificava.
+541	Many times, the checker, hop, would stop in the middle, he would take the	Muitas vezes o verificador, hop, parava no meio, pegava a
+542	knife, and point out to the shochet: here, pay close attention to this spot.	faca e mostrava ao shochet: aqui, preste bem atenção neste ponto.
+543	And then he would check again, hop, and suddenly he does feel it.	E então verificava de novo, hop, e de repente sentia.
+544	Before, he didn't feel it.	Antes, ele não sentia.
+545	Now suddenly he notices, if we pay close attention at this spot.	Agora, de repente, ele percebe, se prestamos bastante atenção neste ponto.
+546	Therefore these are things that also require sensitivity and skill, and needless to say, the	Por isso são coisas que exigem também sensibilidade e habilidade, e nem é preciso dizer, o
+547	utmost care.	máximo cuidado.
+548	Not to be in a hurry and so on is very, very	Não ter pressa e assim por diante é muito, muito
+549	important.	importante.
+550	So, gentlemen, these things are very, very important,	Então, senhores, estas coisas são muito, muito importantes,
+551	since this is how we conduct ourselves today in halachah and in practice: any nick, of any size at all,	pois é assim que procedemos hoje na halachá e na prática: qualquer falha, de qualquer tamanho,
+552	disqualifies.	invalida.
+553	With the help of HaShem, we will speak and, without a vow, we will continue in the next class.	Com a ajuda de HaShem, falaremos e, sem fazer voto, continuaremos na próxima aula.
+554	Blessed be HaShem forever.	Bendito seja HaShem para sempre.
+555	Amen and Amen.	Amém e Amém.

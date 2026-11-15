@@ -1,0 +1,3474 @@
+{
+ "name": "salvage-001",
+ "lane": 0,
+ "salvage": true,
+ "created": "2026-11-15T17:32:23.615Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "-glyjn4lTB4",
+   "title": "Por que Moshê viu toda a Terra: Vezot HaBeraká",
+   "lines": 1156,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-003",
+    "lane1-009",
+    "lane1-010",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "fnQ3lAZJB5g",
+   "title": "Parashá Tzav: pensamentos, zerizut e preparação para Pessach",
+   "lines": 1977,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-003",
+    "lane1-009",
+    "lane1-010",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "guohen2mcaY",
+   "title": "Or HaChaim: Balak, Bilam e a morte de Kozbi",
+   "lines": 1260,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-005",
+    "lane6-004",
+    "lane6-005",
+    "lane6-009"
+   ]
+  },
+  {
+   "id": "p0ZV7rOZor4",
+   "title": "O anjo guardião de Mishpatim e o caminho",
+   "lines": 1065,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-005",
+    "lane1-009",
+    "lane1-010",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "eOpb1IF2d6I",
+   "title": "Vaiechi: não apressar o tempo e a felicidade da simplicidade",
+   "lines": 1171,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-005",
+    "lane1-009",
+    "lane1-010",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "THaiO0_J5gk",
+   "title": "Shelach: olhar bom, shalom bait e o sustento",
+   "lines": 1797,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-006",
+    "lane1-009",
+    "lane1-010",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "V2NOvR1Lz0o",
+   "title": "Como realizar sonhos: a força de esperar (Chayei Sará)",
+   "lines": 1019,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-006",
+    "lane1-009",
+    "lane1-010",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "L1UROwNzaKQ",
+   "title": "Sair do Egito: caminhar no seu degrau, sem pressão",
+   "lines": 1178,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-007",
+    "lane1-009",
+    "lane1-010",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "bLms7yHxLVc",
+   "title": "Parashá Ki Tavo: o que faz de Israel um Am Segulá",
+   "lines": 1425,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-009",
+    "lane1-010",
+    "lane1-015",
+    "lane2-014"
+   ]
+  },
+  {
+   "id": "8hwOnWomSk0",
+   "title": "Os cinco Cálices: Cálice de Eliyahu e conduta no casamento",
+   "lines": 615,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-011",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "cAwEm5p_PIc",
+   "title": "Parashat Behaalotcha: a menorá do corpo e o choro do povo",
+   "lines": 722,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-011",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "AuZXEyBmVuc",
+   "title": "Sara, Hagar e o preço que os filhos pagam",
+   "lines": 892,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-011",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "v1CV2YJBZIw",
+   "title": "Parashat Emor: avisar sobre o pequeno e a viúva",
+   "lines": 640,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-011",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "SCmj-C56Ceg",
+   "title": "Rambam Shechitá 1:14 – a faca e o tamanho da falha",
+   "lines": 556,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-012",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "urybg2p-a9A",
+   "title": "A maldade de Sodoma e o mérito de Lot e suas filhas",
+   "lines": 588,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-012",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "wjzKeAlQvb0",
+   "title": "Vayera, terça: o riso de Sarah, Yevamot e o Rambam",
+   "lines": 745,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-013",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "cMbldte2ylU",
+   "title": "Sucot: língua sagrada, \"aqui\" e \"lá\" e o Midrash de Ben Pazi",
+   "lines": 1917,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-013",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "WvEdcvyyAdc",
+   "title": "Vayera: brit milá, hóspedes de Avraham e Sodoma",
+   "lines": 1100,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-016",
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "rIaJW6blevE",
+   "title": "Por que Sara riu? O Zohar e o zaken da Parashá Vayerá",
+   "lines": 1109,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-016",
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "MQcHvu3WcOI",
+   "title": "Chochmá e Biná: visão, compreensão e a medida das sefirot",
+   "lines": 1975,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-016",
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "0RcbRXEY9ng",
+   "title": "Avraham e a ligação entre fé e moral",
+   "lines": 1055,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-016",
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "j7Pw6c96cSY",
+   "title": "O riso de Sara: o sentido interno da Parashá Vayera",
+   "lines": 600,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-016",
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "oCma9xzdneY",
+   "title": "Birá doleket: por que HaShem escolheu Avraham Avinu",
+   "lines": 618,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-016",
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "afcWoJjtLxQ",
+   "title": "Shabat Bereshit: a Shabat como fonte de toda bênção",
+   "lines": 2300,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-016",
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "CvSArLncmAI",
+   "title": "Sucot: a sucá e a coragem de assumir a fé em público",
+   "lines": 1517,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-016",
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "EeQJAFY0yXo",
+   "title": "Vayerá: Avraham e a bênção de enxergar o outro",
+   "lines": 1344,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "dJX_Wlq-UP0",
+   "title": "Mearat HaMachpelá: o segredo por trás da compra do túmulo",
+   "lines": 945,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "_4T1WGV6U_M",
+   "title": "Chayei Sará: a morte de Sará e como escolher o cônjuge",
+   "lines": 1923,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "-7tVUzkUEq4",
+   "title": "Não busque brechas para fugir das mitzvot",
+   "lines": 1046,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "PUPopH5g3ww",
+   "title": "Ein mazal leIsrael: Avraham acima das estrelas",
+   "lines": 1141,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "UyAIpykyl_I",
+   "title": "Hachna'á, Havdalá e Hamtacá na Brit Milá de Avraham",
+   "lines": 811,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-017"
+   ]
+  },
+  {
+   "id": "zz3J06SPFt0",
+   "title": "Parashat Shelach: os espiões e o Birur HaTachton",
+   "lines": 1221,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-003",
+    "lane10-004",
+    "lane10-011",
+    "lane5-004"
+   ]
+  },
+  {
+   "id": "gpTawZWgjJk",
+   "title": "Parashat Ekev: preparar-se para Elul a partir do calcanhar",
+   "lines": 1360,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-003",
+    "lane10-004",
+    "lane10-011",
+    "lane5-005"
+   ]
+  },
+  {
+   "id": "bOymIv5HHlw",
+   "title": "Parashá Korach: igualdade e hierarquia",
+   "lines": 994,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-003",
+    "lane10-004",
+    "lane10-011",
+    "lane5-006"
+   ]
+  },
+  {
+   "id": "JnI74lxJVCQ",
+   "title": "Ki Tisá: o Bezerro de Ouro, os brincos e o Olam Haba",
+   "lines": 704,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-005",
+    "lane10-011"
+   ]
+  },
+  {
+   "id": "5QrKeNCEleY",
+   "title": "Por que a Shemitá foi dita no Monte Sinai",
+   "lines": 762,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-005",
+    "lane10-011"
+   ]
+  },
+  {
+   "id": "1WPDlC-F1Vw",
+   "title": "Menorá do rosto, guarda dos sentidos e queixa do Maná",
+   "lines": 730,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-005",
+    "lane10-011"
+   ]
+  },
+  {
+   "id": "FmM8o31AzOc",
+   "title": "Mishpatim: lashon hará, viúvas e ajuda aos falecidos",
+   "lines": 619,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-005",
+    "lane10-011"
+   ]
+  },
+  {
+   "id": "Ic8lOSB_FHg",
+   "title": "Korach: a política, a inveja e o fim na terra aberta",
+   "lines": 695,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-005",
+    "lane10-011"
+   ]
+  },
+  {
+   "id": "CM-id2qn9Uk",
+   "title": "Dinossauros na Torá: gigantes de Bereshit ao Dilúvio",
+   "lines": 555,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-006",
+    "lane10-011"
+   ]
+  },
+  {
+   "id": "QBHQwdHLg7M",
+   "title": "Bênção dos noivos e o cálice de vinho na chupá",
+   "lines": 762,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-008",
+    "lane10-011"
+   ]
+  },
+  {
+   "id": "jUvpq831Gjc",
+   "title": "O teste que HaShem dá antes do decreto",
+   "lines": 675,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-009",
+    "lane10-011"
+   ]
+  },
+  {
+   "id": "B40fco4kwuo",
+   "title": "Generalização, eleições e Lech Lecha com Gottlieb e Avri Gilad",
+   "lines": 1240,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-010",
+    "lane10-011"
+   ]
+  },
+  {
+   "id": "vQg_sXrqrhA",
+   "title": "Modê Ani, netilat yadayim e Asher Yatsar: oração da alma",
+   "lines": 810,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-012",
+    "lane10-013"
+   ]
+  },
+  {
+   "id": "3v_ZpMo7nW8",
+   "title": "A descida de Avraham ao Egito segundo o Zohar – Lech Lecha",
+   "lines": 396,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-012",
+    "lane10-013"
+   ]
+  },
+  {
+   "id": "gWcet39DuzA",
+   "title": "Não se acostumar: gratidão e um bom casamento",
+   "lines": 931,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-012",
+    "lane10-013"
+   ]
+  },
+  {
+   "id": "KGTQJQCgj7s",
+   "title": "Quem sou eu de verdade: alma, corpo e os quatro elementos",
+   "lines": 1060,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-012",
+    "lane10-013"
+   ]
+  },
+  {
+   "id": "xGC1Kb3VhJI",
+   "title": "Bechorot 34: sangria do bechor e quem causa um mum",
+   "lines": 1451,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-013",
+    "lane10-014"
+   ]
+  },
+  {
+   "id": "ITu2_xBzKIA",
+   "title": "Talmud Eser HaSefirot III: o Keter e a Bechiná intermediária",
+   "lines": 867,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-013",
+    "lane10-014"
+   ]
+  },
+  {
+   "id": "9WRDZ9I1HPg",
+   "title": "Likutei Moharan: Torá 4 e início da Torá 5 pela cabalá",
+   "lines": 3007,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-013",
+    "lane10-014"
+   ]
+  },
+  {
+   "id": "_ZOTRGwjOTo",
+   "title": "Torá 30: da mente inferior à superior pela alegria",
+   "lines": 635,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-014",
+    "lane10-015"
+   ]
+  },
+  {
+   "id": "jY-zSnSNv5A",
+   "title": "Intelecto, imaginação e a entrada no mundo espiritual",
+   "lines": 1259,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-014",
+    "lane10-015"
+   ]
+  },
+  {
+   "id": "9gBfr415vcQ",
+   "title": "Elevar a Malchut: o corvo, a pomba e o Rei David",
+   "lines": 1217,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-014",
+    "lane10-015"
+   ]
+  },
+  {
+   "id": "KGCsNtHAeOQ",
+   "title": "A renúncia silenciosa de Rachel Imenu e a promessa da volta",
+   "lines": 903,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-014",
+    "lane10-015"
+   ]
+  },
+  {
+   "id": "AQgF66bn8lU",
+   "title": "Sucot, eleições, eutanásia e crise no mundo haredi",
+   "lines": 1090,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-014",
+    "lane10-015"
+   ]
+  },
+  {
+   "id": "gddsBWACdjg",
+   "title": "Vergonha, ego e fé: Mahut HaDat, aula 32",
+   "lines": 940,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-014",
+    "lane10-015"
+   ]
+  },
+  {
+   "id": "o7kajIanujc",
+   "title": "O Tzimtzum e a plataforma do desejo de beneficiar",
+   "lines": 638,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-015"
+   ]
+  },
+  {
+   "id": "jRVj_oklkAE",
+   "title": "Rambam, Shechitá 1:27-29: faca, noite e shochet transgressor",
+   "lines": 568,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-015"
+   ]
+  },
+  {
+   "id": "vGAR3WWEEg8",
+   "title": "Tzimtzum Bet: a falha dos Nekudot de SAG e a retirada da luz",
+   "lines": 675,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-015"
+   ]
+  },
+  {
+   "id": "10wdUTStf1Q",
+   "title": "Bechi e bracha, o Zohar de Lod e a missão de Eliyahu",
+   "lines": 3054,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-015"
+   ]
+  },
+  {
+   "id": "f9eQWxOZBTs",
+   "title": "Lech Lecha: votar como serviço a HaShem",
+   "lines": 849,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane10-015"
+   ]
+  },
+  {
+   "id": "YF2oDA0SMDI",
+   "title": "Parashat Shelach: os espiões e a Redenção",
+   "lines": 1164,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-006",
+    "lane2-016",
+    "lane2-017",
+    "lane2-022"
+   ]
+  },
+  {
+   "id": "68YXUDnO-tw",
+   "title": "Como baixar a preocupação: Mishlei 12:25",
+   "lines": 976,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-007",
+    "lane7-003",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "bSmllgW1QUU",
+   "title": "A virtude de estudar o Or HaChaim HaKadosh",
+   "lines": 42,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-009",
+    "lane2-016",
+    "lane2-017",
+    "lane2-023"
+   ]
+  },
+  {
+   "id": "2d6bb1pZwRM",
+   "title": "A santidade e a sabedoria de Eretz Yisrael e Yerushalayim",
+   "lines": 996,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-010",
+    "lane7-003",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "1SFqadwGRj4",
+   "title": "Parashat Noach: o dilúvio, a arca e os limites da abundância",
+   "lines": 1673,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-011",
+    "lane2-016",
+    "lane2-017",
+    "lane2-022"
+   ]
+  },
+  {
+   "id": "PZyPRVgmpz0",
+   "title": "Árvores em flor, Pessach e a Tzedaká de Nissan",
+   "lines": 2678,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-011",
+    "lane7-003",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "5NDlCl8_s1g",
+   "title": "Parashá Ekev: o calcanhar, a provação e a fonte do sustento",
+   "lines": 1609,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-011",
+    "lane2-016",
+    "lane2-017",
+    "lane2-022"
+   ]
+  },
+  {
+   "id": "os2uv-4_idQ",
+   "title": "Parashá Reê: bênção, maldição e a aliança em Guerizim e Eival",
+   "lines": 1409,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-011",
+    "lane7-003",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "eisn3_BRpSI",
+   "title": "Como o mais humilde virou o maior líder: a ânava de Moshê",
+   "lines": 1142,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-011",
+    "lane7-003",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "mCrvmV8ZQ5s",
+   "title": "Vayigash: Yosef, o guardião da aliança, e a humildade",
+   "lines": 916,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-018",
+    "lane2-022"
+   ]
+  },
+  {
+   "id": "iH1azTNADYQ",
+   "title": "Yaakov em Har HaBait: o Sol que se pôs e a Escada",
+   "lines": 594,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-018",
+    "lane2-022"
+   ]
+  },
+  {
+   "id": "PKoptFokTz4",
+   "title": "Por que Balak ganhou uma Parashá com seu nome",
+   "lines": 789,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-018",
+    "lane2-022"
+   ]
+  },
+  {
+   "id": "2ozbDdr0aic",
+   "title": "Acumule mitsvot: o choro dos grandes e o rigor do Din",
+   "lines": 664,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-018",
+    "lane2-022"
+   ]
+  },
+  {
+   "id": "jf8cXAC7n9Y",
+   "title": "Parashá Bo: trevas, despojo do Egito e a Torá",
+   "lines": 644,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-018",
+    "lane2-022"
+   ]
+  },
+  {
+   "id": "_mH6IBSZmlk",
+   "title": "Moshe, o Ari HaKadosh e a grandeza de Rabeinu HaAri",
+   "lines": 674,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-018",
+    "lane2-022"
+   ]
+  },
+  {
+   "id": "oaX59sZsjUw",
+   "title": "Lech Lecha: preparar-se para receber a Torá e a Terra",
+   "lines": 1240,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-021",
+    "lane2-022"
+   ]
+  },
+  {
+   "id": "oP-hDOkN9nA",
+   "title": "Teshuvá, tahará e firmeza: os degraus da alma em Assiá",
+   "lines": 1567,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-022",
+    "lane2-023"
+   ]
+  },
+  {
+   "id": "08iC-qVGSCA",
+   "title": "Vayera: a revelação de HaShem em cada judeu desde a Brit",
+   "lines": 429,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-022",
+    "lane2-023"
+   ]
+  },
+  {
+   "id": "a37jL33Wtx0",
+   "title": "Soldado capturado pode se suicidar? Shaul e o Mista'arvim",
+   "lines": 854,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-022",
+    "lane2-023"
+   ]
+  },
+  {
+   "id": "Cj9XNgTLgAg",
+   "title": "O Rav verdadeiro e a escolha de quem nasce tolo",
+   "lines": 721,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-022",
+    "lane2-023"
+   ]
+  },
+  {
+   "id": "-1uMWV0SbN0",
+   "title": "O mundo como corredor: a vida da alma após a morte",
+   "lines": 671,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-022",
+    "lane2-023"
+   ]
+  },
+  {
+   "id": "Ei1SKwvqGAs",
+   "title": "Nisan, Yeshurun e a criação do movimento Derech Chaim",
+   "lines": 1790,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-023",
+    "lane2-024"
+   ]
+  },
+  {
+   "id": "o6lsXLfzCfU",
+   "title": "Talmud Eser HaSefirot III: a komá de cada mundo",
+   "lines": 755,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-023",
+    "lane2-025"
+   ]
+  },
+  {
+   "id": "iHKWf-O_Wtk",
+   "title": "O segredo dos maasrot: dar é sociedade com HaShem",
+   "lines": 1007,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-024",
+    "lane2-025"
+   ]
+  },
+  {
+   "id": "xAr4N_YfZs4",
+   "title": "Esav, a venda da bechorá e a descida ao Egito",
+   "lines": 1659,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-024",
+    "lane2-025"
+   ]
+  },
+  {
+   "id": "XDJjJ_GQP4k",
+   "title": "Atualidades, política e Parashá: paralisia facial e Chayei Sarah",
+   "lines": 1049,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-024",
+    "lane2-025"
+   ]
+  },
+  {
+   "id": "ajjRLbaUT4Q",
+   "title": "Parashá Chayei Sará: todos os anos de Sara para o bem",
+   "lines": 532,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-024",
+    "lane2-025"
+   ]
+  },
+  {
+   "id": "IUGjIjvTg8k",
+   "title": "Bava Metzia 7: costume local e direitos do trabalhador",
+   "lines": 314,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-024",
+    "lane2-025"
+   ]
+  },
+  {
+   "id": "fSFQJQkWkCo",
+   "title": "Receber Moshiach: a nova missão dos shluchim",
+   "lines": 341,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-024",
+    "lane2-025"
+   ]
+  },
+  {
+   "id": "MDk7A-WbbcA",
+   "title": "Gadlu laHaShem iti e o Ratzon como Or Makif (Maamar 15)",
+   "lines": 2014,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-024",
+    "lane2-025"
+   ]
+  },
+  {
+   "id": "3Hw5urLKqOo",
+   "title": "Torá lishmá e shelo lishmá: como estudar com intenção correta",
+   "lines": 835,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane2-024",
+    "lane2-025"
+   ]
+  },
+  {
+   "id": "GcFPfJDGYbQ",
+   "title": "Chametz no altar: o Korban Todá e o Yetzer HaRá",
+   "lines": 1132,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-005",
+    "lane3-011",
+    "lane3-012",
+    "lane3-018"
+   ]
+  },
+  {
+   "id": "Hm8fk4lF5Cg",
+   "title": "O que é a santidade: \"Kedoshim tihiyu",
+   "lines": 1337,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-006",
+    "lane3-011",
+    "lane3-012",
+    "lane3-018"
+   ]
+  },
+  {
+   "id": "T29WNCBs5e8",
+   "title": "Parashá Shelach: a gezerá de galut e a tentativa de forçá-la",
+   "lines": 1345,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-007",
+    "lane8-004",
+    "lane8-005",
+    "lane8-012"
+   ]
+  },
+  {
+   "id": "f6RzqumCjvk",
+   "title": "Vayechi: Yaakov, a sepultura e o Rav que nos guia",
+   "lines": 826,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-013",
+    "lane3-018"
+   ]
+  },
+  {
+   "id": "P9yoql-gaSs",
+   "title": "Parashá Devarim: o mussar de Moshe e a data do discurso",
+   "lines": 669,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-014",
+    "lane3-018"
+   ]
+  },
+  {
+   "id": "rKy0q-kMwMo",
+   "title": "Parashá Mishpatim: o sentido oculto da sequência de Shemot",
+   "lines": 607,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-014",
+    "lane3-018"
+   ]
+  },
+  {
+   "id": "i_Mswjw-dsM",
+   "title": "Zohar Mishpatim: Amá, Shifchá e a Bat Yechidá",
+   "lines": 920,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-017",
+    "lane3-018"
+   ]
+  },
+  {
+   "id": "iRFlMPb7TOY",
+   "title": "Tikun HaDaat e a ligação com o Tzadik (Likutei Moharan, Torá 4)",
+   "lines": 996,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-019",
+    "lane3-020"
+   ]
+  },
+  {
+   "id": "MEFlfizsyp8",
+   "title": "Zohar: sofrimento como expiação e o poder dos justos",
+   "lines": 632,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-019",
+    "lane3-020"
+   ]
+  },
+  {
+   "id": "Tsz2umCH0LA",
+   "title": "Abraham recomeça aos 100: a brit milá e o pesach haohel",
+   "lines": 764,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-019",
+    "lane3-020"
+   ]
+  },
+  {
+   "id": "1T7kADdlvFQ",
+   "title": "Por que os anjos vieram e o que foi Sodoma",
+   "lines": 1418,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-019",
+    "lane3-020"
+   ]
+  },
+  {
+   "id": "uGIBJxpGawI",
+   "title": "Peléshet, Senaqueribe e a origem do povo palestino",
+   "lines": 1019,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-021",
+    "lane3-022"
+   ]
+  },
+  {
+   "id": "vNB90wpYJ-U",
+   "title": "Perguntas e respostas: calor, escolhas e conselhos de vida",
+   "lines": 1724,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-021",
+    "lane3-022"
+   ]
+  },
+  {
+   "id": "eS5k1hi7vQQ",
+   "title": "Jerusalém: o lugar do altar, da Akedá e da plenitude",
+   "lines": 393,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-023",
+    "lane3-024"
+   ]
+  },
+  {
+   "id": "zddbIrvXzEo",
+   "title": "Chessed de Avraham: por que acompanhar o hóspede à saída",
+   "lines": 643,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-023",
+    "lane3-024"
+   ]
+  },
+  {
+   "id": "nlE2Z204zwY",
+   "title": "Avraham, kavod shamayim e as leis da shechitá e da tzedaká",
+   "lines": 505,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-023",
+    "lane3-024"
+   ]
+  },
+  {
+   "id": "SeV6VMe8Vlw",
+   "title": "Yitro: luz da escuridão, a raiz Tor e os conflitos da alma",
+   "lines": 2229,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-025",
+    "lane3-026"
+   ]
+  },
+  {
+   "id": "4WUIGs9LKmk",
+   "title": "Alma, missão e prazer: a espiritualidade na materialidade",
+   "lines": 1189,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-025",
+    "lane3-026"
+   ]
+  },
+  {
+   "id": "mKMId6XdH2o",
+   "title": "Shaar HaAkudim cap. 2: luzes, Kelim e a saída das sefirot",
+   "lines": 692,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-025",
+    "lane3-026"
+   ]
+  },
+  {
+   "id": "quFP-I8wv1Q",
+   "title": "Akedá: ser fiel a si mesmo e a guerra com Yishmael",
+   "lines": 1464,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-027",
+    "lane3-028"
+   ]
+  },
+  {
+   "id": "E63nEh5YMdg",
+   "title": "Ein od milvado: esquerda que afasta, direita que aproxima",
+   "lines": 804,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-027",
+    "lane3-028"
+   ]
+  },
+  {
+   "id": "xOd_6xe90XU",
+   "title": "Eliezer e Rivka: entre bitul e ação em Chayei Sará",
+   "lines": 724,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-027",
+    "lane3-028"
+   ]
+  },
+  {
+   "id": "hKkERoGGV6E",
+   "title": "Como escolher uma esposa: lições de Eliezer e Rivká",
+   "lines": 621,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-027",
+    "lane3-028"
+   ]
+  },
+  {
+   "id": "oqtw-eVzDCs",
+   "title": "Eliyahu e Mashiach, o choro de Yosef e os céus que contam",
+   "lines": 3089,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-027",
+    "lane3-028"
+   ]
+  },
+  {
+   "id": "2UkvadwtFHY",
+   "title": "Bava Metzia 4:6-7: prazo para devolver moeda e a perutá",
+   "lines": 295,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-028"
+   ]
+  },
+  {
+   "id": "7pfIoU_bN00",
+   "title": "Mishpatim: mitzvot entre o homem e o próximo e a Torá Oral",
+   "lines": 1447,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-004",
+    "lane9-003",
+    "lane9-004",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "ez3oskhk9aA",
+   "title": "Por que Itro mereceu uma Parashá: Torá e coração",
+   "lines": 1701,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-004",
+    "lane9-003",
+    "lane9-004",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "QNL3vz5Vjy4",
+   "title": "Parashá Nasso e Shavuot: Levitas, Sotá e Nazir",
+   "lines": 1898,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-006",
+    "lane4-013",
+    "lane4-014",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "kE4ty09Yb5s",
+   "title": "A recusa de Edom e a jornada até a Redenção",
+   "lines": 1295,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-006",
+    "lane9-003",
+    "lane9-004",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "JyH1f4nnLCc",
+   "title": "O mundo como corredor: alegria de viver nas provações",
+   "lines": 948,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-006",
+    "lane4-013",
+    "lane4-014",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "pNhfS9TvPzA",
+   "title": "Parashá Pinchas: o líder que cuida do espírito e do corpo",
+   "lines": 1242,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-010",
+    "lane9-003",
+    "lane9-004",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "dZLfVho4CmQ",
+   "title": "O shofar antes de Rosh HaShaná: um recado em código",
+   "lines": 1074,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-011",
+    "lane4-013",
+    "lane4-014",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "sSIV2c5IErE",
+   "title": "Parashat Vayerá: a festa do desmame e a semelhança de Yitzchak",
+   "lines": 746,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-014",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "CEloJsU6eAk",
+   "title": "Parashat Beshalach: \"Chamushim\" e os ossos de Yosef",
+   "lines": 726,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-015",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "kzntZefs5ys",
+   "title": "Vayeshev: Yaakov e a correção dos pecados de Adam",
+   "lines": 633,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-015",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "pYUie5ltuf0",
+   "title": "Vayechi: Adam, os Patriarcas e a correção dos pecados",
+   "lines": 773,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-015",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "QDE7D7qE0mE",
+   "title": "Parashá Balak: o medo de Moav e o perfil de Bilam",
+   "lines": 708,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-015",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "jv6bYM-X7GM",
+   "title": "Menorá do corpo, carne no deserto e Eldad e Medad",
+   "lines": 716,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-015",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "Q76ZMb_Loxg",
+   "title": "Vayigash: os \"vai\" de Yaakov, Yosef e o temor a HaShem",
+   "lines": 923,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-015",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "X1Z--q7kAZg",
+   "title": "Por que Yaakov temia Esav: \"por que serei privada de vocês dois",
+   "lines": 562,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-015",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "8VPhFvtXMxQ",
+   "title": "Onde está Maran HaRav Ovadia? Os que moldaram a Torá",
+   "lines": 885,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-016",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "FWCuPqWYkBM",
+   "title": "Onde está o túmulo de David? O túnel de Chizkiyáhu",
+   "lines": 963,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-016",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "TjGBAhYS3vU",
+   "title": "O Islã na Europa e o plano de HaShem rumo à guerra",
+   "lines": 659,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-017",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "_u6VIUW72iY",
+   "title": "Não se associar a ímpios e a origem do cristianismo",
+   "lines": 1021,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-019",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "K3XgaNkO4Ak",
+   "title": "Zugot de neshamá: casamento de alma e shalom bayit",
+   "lines": 973,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-019",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "YrWs6QmNsz4",
+   "title": "Vayerá: hospitalidade de Avraham, Sodoma e a Akedá",
+   "lines": 1769,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-019",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "fHp6xoddUgc",
+   "title": "Nekudat Emet: o eu, a vontade e a visão de vida",
+   "lines": 1195,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-020",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "e5urC9nmmHk",
+   "title": "Pinot HaMerkavá: a oração final do mundo de Assiá",
+   "lines": 1266,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-020",
+    "lane4-021"
+   ]
+  },
+  {
+   "id": "eEo0TNNcxQk",
+   "title": "Linhas direita e esquerda: Eliezer, Rivka e Hakarat HaRá",
+   "lines": 1116,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-022",
+    "lane4-023"
+   ]
+  },
+  {
+   "id": "gqACq7Fud2k",
+   "title": "Dor pela Torá e o valor de cada hora neste mundo",
+   "lines": 775,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-022",
+    "lane4-023"
+   ]
+  },
+  {
+   "id": "CUODPP-BazY",
+   "title": "Vayakom: como se levantar após a crise – Chayei Sará",
+   "lines": 390,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-022",
+    "lane4-023"
+   ]
+  },
+  {
+   "id": "xTBTdWMsF10",
+   "title": "O segredo do zivug: como merecer uma união verdadeira",
+   "lines": 1505,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-022",
+    "lane4-023"
+   ]
+  },
+  {
+   "id": "XUEx179FVbI",
+   "title": "Pós-eleições, Avraham e Sedom, e o poder do riso",
+   "lines": 1110,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-022",
+    "lane4-023"
+   ]
+  },
+  {
+   "id": "jfjsUaNztw8",
+   "title": "A maior alegria do mundo: Simchat Beit HaShoeva",
+   "lines": 965,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-022",
+    "lane4-023"
+   ]
+  },
+  {
+   "id": "twiqX1L7k3Y",
+   "title": "Avraham e a identidade hebraica: Rav Tzvi Yehuda e Manitou",
+   "lines": 711,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-022",
+    "lane4-023"
+   ]
+  },
+  {
+   "id": "GeF5h2LhasM",
+   "title": "Os dez testes de Avraham Avinu e o sentido de Lech Lecha",
+   "lines": 1716,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-022",
+    "lane4-023"
+   ]
+  },
+  {
+   "id": "IuQVeGNeia0",
+   "title": "Como escolher o cônjuge: Eliezer e Rivká",
+   "lines": 654,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-023"
+   ]
+  },
+  {
+   "id": "zBnjRLlZ9lk",
+   "title": "Saúde mental, estigma e prevenção do suicídio",
+   "lines": 956,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-023"
+   ]
+  },
+  {
+   "id": "FX0LCy2MQAs",
+   "title": "Eliezer como shaliach e a missão de receber Mashiach",
+   "lines": 501,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-023"
+   ]
+  },
+  {
+   "id": "bmLaqTR1-ps",
+   "title": "Os sete decênios da vida de Avraham em Lech Lecha",
+   "lines": 1435,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane4-023"
+   ]
+  },
+  {
+   "id": "RpIU6tslFF8",
+   "title": "Ribit: a gravidade do juro e seus limites na Halachá",
+   "lines": 690,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-016",
+    "lane5-022"
+   ]
+  },
+  {
+   "id": "coDrV0KmAIY",
+   "title": "Chayê Sará: as letras de Chayê Sará e a vida de Sará",
+   "lines": 883,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-017",
+    "lane5-022"
+   ]
+  },
+  {
+   "id": "FJgWLj88VxA",
+   "title": "Parashat Toldot: Yitzchak, Rivká e a oração por filhos",
+   "lines": 764,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-017",
+    "lane5-022"
+   ]
+  },
+  {
+   "id": "srpTG249JMw",
+   "title": "Aarão, as velas e a grandeza de quem não mudou",
+   "lines": 832,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-017",
+    "lane5-022"
+   ]
+  },
+  {
+   "id": "1S_rB8DpPeA",
+   "title": "Vayigash: o perdão que Yosef não pronunciou",
+   "lines": 770,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-017",
+    "lane5-022"
+   ]
+  },
+  {
+   "id": "Sy29d_OVlaQ",
+   "title": "Parashat Shelach: o perigo de buscar poder e honra",
+   "lines": 809,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-017",
+    "lane5-022"
+   ]
+  },
+  {
+   "id": "h7OTcWqrMBc",
+   "title": "Recrutar estudiosos da Torá: o erro de Avraham e de Asa",
+   "lines": 582,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-018",
+    "lane5-022"
+   ]
+  },
+  {
+   "id": "W692BnvRtFs",
+   "title": "Mim rabim: trabalho e preocupação — \"Ki Yedativ",
+   "lines": 380,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-020",
+    "lane5-022"
+   ]
+  },
+  {
+   "id": "2x7Votl8LVM",
+   "title": "Likutei Halachot 17: Introdução à Halachá 4 (Torá 30)",
+   "lines": 837,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-024",
+    "lane5-025"
+   ]
+  },
+  {
+   "id": "5rnoC6y8Mf8",
+   "title": "Lech Lecha: a prova da pobreza e a prova da riqueza",
+   "lines": 527,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-024",
+    "lane5-025"
+   ]
+  },
+  {
+   "id": "fugarMbiezI",
+   "title": "Talmud Eser HaSefirot: a Nekudá que desce a Briá",
+   "lines": 848,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-024",
+    "lane5-025"
+   ]
+  },
+  {
+   "id": "Gex1ZbQ5YTw",
+   "title": "A invasão dos filisteus e o retorno ao caminho de HaShem",
+   "lines": 961,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-025",
+    "lane5-026"
+   ]
+  },
+  {
+   "id": "tkcRQmqdxz4",
+   "title": "Sucot: a sucá como sombra da fé, segundo o Zohar",
+   "lines": 1509,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-026",
+    "lane5-028"
+   ]
+  },
+  {
+   "id": "RP8znPJBIwQ",
+   "title": "Sara, Rivká e \"minha irmã\": o que realmente aconteceu?",
+   "lines": 969,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-027",
+    "lane5-028"
+   ]
+  },
+  {
+   "id": "z3JdWDqHp5A",
+   "title": "Amor ao próximo e o propósito da Criação (Matan Torá)",
+   "lines": 1031,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-027",
+    "lane5-028"
+   ]
+  },
+  {
+   "id": "FV-ElKpJUTQ",
+   "title": "O que me enfraquece e o que me fortalece",
+   "lines": 967,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-027",
+    "lane5-028"
+   ]
+  },
+  {
+   "id": "KW6imFbsvss",
+   "title": "MeHaShem yatsa hadavar: o shidduch vem do Céu",
+   "lines": 931,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-027",
+    "lane5-028"
+   ]
+  },
+  {
+   "id": "s04613xwmUc",
+   "title": "HaShem está comigo: anular a vontade própria perante a Dele",
+   "lines": 1948,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-028"
+   ]
+  },
+  {
+   "id": "zyojb1HS4lU",
+   "title": "Mundos, sefirot e luzes: itens 41 e 42 da Introdução ao Zohar",
+   "lines": 1054,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane5-028"
+   ]
+  },
+  {
+   "id": "faQ0E94NTN0",
+   "title": "Toldot: Rivká, Yitzchak, Esav e o poder da oração",
+   "lines": 811,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-005",
+    "lane6-009"
+   ]
+  },
+  {
+   "id": "2avTuO2UdOY",
+   "title": "Os utensílios do Mishkan e o assento para o espiritual",
+   "lines": 680,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-005",
+    "lane6-009"
+   ]
+  },
+  {
+   "id": "D9zZ7XM7AzE",
+   "title": "Parashat Terumá: o Monte do Templo e a tzedaká",
+   "lines": 717,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-005",
+    "lane6-009"
+   ]
+  },
+  {
+   "id": "nfzKMSTiwDM",
+   "title": "A casca que há sobre você: como saber seu tikun",
+   "lines": 1202,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-005",
+    "lane6-009"
+   ]
+  },
+  {
+   "id": "EQXmWLpjkxM",
+   "title": "Shemot: da grandeza à escravidão e o Gan Eden de Batya",
+   "lines": 730,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-005",
+    "lane6-009"
+   ]
+  },
+  {
+   "id": "DJPgG7KwBnc",
+   "title": "Lot: separar-se de alguém sem nunca se desconectar",
+   "lines": 1023,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-006",
+    "lane6-009"
+   ]
+  },
+  {
+   "id": "3sgoiRToKlk",
+   "title": "Vayerá: a hospitalidade como segulá para ter filhos",
+   "lines": 1083,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-007",
+    "lane6-009"
+   ]
+  },
+  {
+   "id": "GKiiRbwKz9Q",
+   "title": "Zohar: as três coisas que trazem mal a quem as faz",
+   "lines": 628,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-007",
+    "lane6-009"
+   ]
+  },
+  {
+   "id": "4pJazA4vJIA",
+   "title": "Tanduu: Hoshana Rabá, Baal HaSulam e a voz da maioria",
+   "lines": 1135,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-008",
+    "lane6-009"
+   ]
+  },
+  {
+   "id": "TjfoGbEHgIA",
+   "title": "Pós-eleições, falar na hora certa e o sacrifício de Avraham",
+   "lines": 1128,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-010",
+    "lane6-011"
+   ]
+  },
+  {
+   "id": "yKWhAqA3M5g",
+   "title": "Parashat Vayera: Sodoma, Avimelech, Yitzchak e a Akeidá",
+   "lines": 1392,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-010",
+    "lane6-011"
+   ]
+  },
+  {
+   "id": "n_9zLnqI1PI",
+   "title": "Akedá, o carneiro no poço e o poder da fala",
+   "lines": 365,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-010",
+    "lane6-011"
+   ]
+  },
+  {
+   "id": "jTT9zGX7HlM",
+   "title": "Vayerá elav HaShem: da revelação interior à visão real",
+   "lines": 430,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-010",
+    "lane6-011"
+   ]
+  },
+  {
+   "id": "XS7HSs2d0Ww",
+   "title": "Yirat Elokim: a hospitalidade de Avraham e as parteiras",
+   "lines": 1389,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-010",
+    "lane6-011"
+   ]
+  },
+  {
+   "id": "SAp0BpXyLRw",
+   "title": "Tanya cap. 29: quebrar a klipá e a dúvida na fé",
+   "lines": 924,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-010",
+    "lane6-011"
+   ]
+  },
+  {
+   "id": "_2MnQrw2EJI",
+   "title": "Lech Lecha: as três partes da alma e a grandeza de Avraham",
+   "lines": 1253,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-010",
+    "lane6-011"
+   ]
+  },
+  {
+   "id": "EcLVf39iDRM",
+   "title": "Shabat Bereshit: a santidade e as leis do Shabat",
+   "lines": 2262,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-010",
+    "lane6-011"
+   ]
+  },
+  {
+   "id": "Ef8wyblLf2I",
+   "title": "Roni Akará: casar e ter filhos apesar do risco",
+   "lines": 1627,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-010",
+    "lane6-011"
+   ]
+  },
+  {
+   "id": "mAAAF0OPScw",
+   "title": "Roni Akará: casar e educar apesar dos riscos",
+   "lines": 1620,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-010",
+    "lane6-011"
+   ]
+  },
+  {
+   "id": "hTEJ40y4OFk",
+   "title": "Alegria acima da natureza: Adar II e Purim",
+   "lines": 710,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-010",
+    "lane6-011"
+   ]
+  },
+  {
+   "id": "2b-UfORV-og",
+   "title": "Zohar 473, Elul e o rei no campo — Parashá Shoftim",
+   "lines": 866,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-011"
+   ]
+  },
+  {
+   "id": "vjGYNeZLRFc",
+   "title": "Introdução ao Zohar: o desejo de receber e a separação",
+   "lines": 576,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-011"
+   ]
+  },
+  {
+   "id": "yeXEI9FHOr8",
+   "title": "Bechorot 47: bechor do convertido e o poder da oração",
+   "lines": 1501,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-012"
+   ]
+  },
+  {
+   "id": "ZOVYveEY7Sg",
+   "title": "Eliézer e o sinal dos camelos – Zera Shimshon",
+   "lines": 159,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane6-012"
+   ]
+  },
+  {
+   "id": "MRJwMq-Y5UE",
+   "title": "Vaiakhel: utensílios do Mishkan e a cadeira da Shechiná",
+   "lines": 725,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-005",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "0oR3GS_NXx4",
+   "title": "Parashá Vaerá: mesirut nefesh e os cinco verbos da redenção",
+   "lines": 1014,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-005",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "qpbYyv2XP7s",
+   "title": "Gartí: como Yaakov disse ter guardado as 613 mitsvot",
+   "lines": 586,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-005",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "FsjKUuvt4O0",
+   "title": "Moshê e a Terra de Israel: a liderança de Chazak VeEmatz",
+   "lines": 632,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-005",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "ReRpYwGEaDU",
+   "title": "Moshé, o Homem de Elokim: temor e olhos guardados",
+   "lines": 932,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-006",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "Am0Hkt_6brk",
+   "title": "Ki Tavo: comprar o túmulo em vida e a Torá",
+   "lines": 727,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-006",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "ZNjTp4tl5sQ",
+   "title": "Keter Aram Tzová: o mistério do Tanakh mais antigo",
+   "lines": 900,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-007",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "Y8HYY_MHWw8",
+   "title": "Nomes de HaShem, Shem Mem-Bet e a kidá de Levi",
+   "lines": 771,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-009",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "VkBM9NIZbxw",
+   "title": "Aula Or Tzadikim: o legado do pai e a luz do justo",
+   "lines": 1599,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-010",
+    "lane7-011"
+   ]
+  },
+  {
+   "id": "Mf5tfVu4ZIY",
+   "title": "Os três Keterim, Hod e Hadar e a Torá de Mashiach",
+   "lines": 1846,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-012",
+    "lane7-013"
+   ]
+  },
+  {
+   "id": "mTP8eDVf6PY",
+   "title": "Shlichut e tikun de Shamai: Menachem, Hillel e Shabbat",
+   "lines": 1528,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-012",
+    "lane7-013"
+   ]
+  },
+  {
+   "id": "nxbR46_bJkg",
+   "title": "ערב רב, חטא העגל והדעת: מחבלים בתוכנו (Ki Tisa)",
+   "lines": 548,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-012",
+    "lane7-013"
+   ]
+  },
+  {
+   "id": "2fl5O3XeyUE",
+   "title": "Gratidão e alegria no dia a dia: conectar tudo ao Criador",
+   "lines": 1152,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-013",
+    "lane7-014"
+   ]
+  },
+  {
+   "id": "8T6SzTRB1TQ",
+   "title": "Hoshana Rabba, atualidade e a regra da maioria",
+   "lines": 1144,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-013",
+    "lane7-014"
+   ]
+  },
+  {
+   "id": "9IxzGUTxrRM",
+   "title": "Bamétim Chofshi: quem realmente ajuda o falecido",
+   "lines": 2818,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-013",
+    "lane7-014"
+   ]
+  },
+  {
+   "id": "h3xZHhXaPls",
+   "title": "Fé na altura dos olhos: Onkelos, o imperador e a Mezuzá",
+   "lines": 513,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-014"
+   ]
+  },
+  {
+   "id": "XA6lgzKt1Bc",
+   "title": "A Gueniza do Cairo e o tesouro da sinagoga Ben Ezra",
+   "lines": 1123,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-014"
+   ]
+  },
+  {
+   "id": "ZbW2h9zb1ks",
+   "title": "Chayei Sarah: Eliezer e a leitura de fé das eleições",
+   "lines": 939,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-014"
+   ]
+  },
+  {
+   "id": "UBjtb2Z0aPM",
+   "title": "Shlach na beyad tishlach: Moshé e o Mashiach",
+   "lines": 424,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-014"
+   ]
+  },
+  {
+   "id": "AzbV217C24A",
+   "title": "Shluchim e a recepção de Moshiach: prontos de fato",
+   "lines": 372,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-014"
+   ]
+  },
+  {
+   "id": "mswBvsk_jPQ",
+   "title": "Parashá Chayei Sará: Sará, Avraham, a oração e a teshuvá",
+   "lines": 483,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-014"
+   ]
+  },
+  {
+   "id": "fzOnnvXM6zU",
+   "title": "O segredo dos bons shidduchim – Parashá Chayei Sará",
+   "lines": 1491,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane7-014"
+   ]
+  },
+  {
+   "id": "Ia_QIk-dUWk",
+   "title": "Tsedaká e Mishpat: tudo por amor",
+   "lines": 1224,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-002",
+    "lane8-004",
+    "lane8-005",
+    "lane8-012"
+   ]
+  },
+  {
+   "id": "oMA1QPCzExc",
+   "title": "Vayigash: as perguntas de Yehudá e a resposta de Yosef",
+   "lines": 628,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-006",
+    "lane8-012"
+   ]
+  },
+  {
+   "id": "8R3sVro6QF8",
+   "title": "Kí Tisá: aliyot, Purim e a divisão da Parashá",
+   "lines": 526,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-006",
+    "lane8-012"
+   ]
+  },
+  {
+   "id": "MHqDkQCQqpM",
+   "title": "Yosef no Nilo, o sepultamento e a alma de Moshé",
+   "lines": 643,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-006",
+    "lane8-012"
+   ]
+  },
+  {
+   "id": "3QtfHglis14",
+   "title": "Parashá Vayechi: o medo de Yaakov e o sepultamento",
+   "lines": 612,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-007",
+    "lane8-012"
+   ]
+  },
+  {
+   "id": "PogvsHUb7Tw",
+   "title": "Por que crianças estudam Vayikrá: pureza e proximidade de HaShem",
+   "lines": 551,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-007",
+    "lane8-012"
+   ]
+  },
+  {
+   "id": "Kp0epiK5LTQ",
+   "title": "Vayera: a semelhança de Yitzchak e a dúvida da paternidade",
+   "lines": 619,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-009",
+    "lane8-012"
+   ]
+  },
+  {
+   "id": "PyYGb6g1zNA",
+   "title": "A grande estratégia de Shlomo HaMelech: o coração que ouve",
+   "lines": 721,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-010",
+    "lane8-012"
+   ]
+  },
+  {
+   "id": "AjX-ySqvn6I",
+   "title": "A queda da Europa e a ascensão de Israel no plano divino",
+   "lines": 498,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-010",
+    "lane8-012"
+   ]
+  },
+  {
+   "id": "IGxVS2HlkEU",
+   "title": "Yitzchak: o riso futuro de Israel e o último a rir",
+   "lines": 864,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-013",
+    "lane8-014"
+   ]
+  },
+  {
+   "id": "FrPzivi15uQ",
+   "title": "Modê Ani, netilat yadáyim e Asher Yatsar na oração",
+   "lines": 799,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-013",
+    "lane8-014"
+   ]
+  },
+  {
+   "id": "EtB_bNOMReA",
+   "title": "Mekhut de Malchut que fura o masach no Talmud Eser HaSefirot",
+   "lines": 841,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-015",
+    "lane8-016"
+   ]
+  },
+  {
+   "id": "7V_UQtK_9nU",
+   "title": "A bênção como caminho de volta à essência (Zohar, Ekev)",
+   "lines": 603,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-015",
+    "lane8-016"
+   ]
+  },
+  {
+   "id": "Zxmc3ifhy0k",
+   "title": "Vayera: ver HaShem e a Guelá em três andares",
+   "lines": 1434,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-017",
+    "lane8-018"
+   ]
+  },
+  {
+   "id": "tY11smb6Yys",
+   "title": "Dádiva do alto de uma vez, realização embaixo em etapas",
+   "lines": 291,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-017",
+    "lane8-018"
+   ]
+  },
+  {
+   "id": "bWDNmXFiA80",
+   "title": "Tanya sob a ótica da Cabalá: casca, beinoni e Elokut",
+   "lines": 1178,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-017",
+    "lane8-018"
+   ]
+  },
+  {
+   "id": "1zHRpmw1hcE",
+   "title": "Entrar e sair da arca: fé e ação na Parashá Noach",
+   "lines": 1189,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-019",
+    "lane8-020"
+   ]
+  },
+  {
+   "id": "FsmmucN5s0Y",
+   "title": "Kav Chomton: o conservante que preserva a bênção",
+   "lines": 1805,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-019",
+    "lane8-020"
+   ]
+  },
+  {
+   "id": "i5QbpARuhXM",
+   "title": "Atualidade e espiritualidade: paralisia, política e Rivka",
+   "lines": 1022,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-021",
+    "lane8-022"
+   ]
+  },
+  {
+   "id": "0fn_Foe_eC0",
+   "title": "Inveja, desejo e honra: o que tira o homem do mundo",
+   "lines": 1279,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-021",
+    "lane8-022"
+   ]
+  },
+  {
+   "id": "AnXDrHJltK8",
+   "title": "Guer tzedek, Israel e a súplica do justo (Zohar 14b)",
+   "lines": 278,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-021",
+    "lane8-022"
+   ]
+  },
+  {
+   "id": "5FEDGVe16ZA",
+   "title": "Talmud Eser HaSefirot: Akudim e luzes nos recipientes",
+   "lines": 535,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-021",
+    "lane8-022"
+   ]
+  },
+  {
+   "id": "BftyfgDZJ1c",
+   "title": "Mashiach Tzidkecha: defender Israel e julgar com mérito",
+   "lines": 3346,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-021",
+    "lane8-022"
+   ]
+  },
+  {
+   "id": "nMvXiSaPN1E",
+   "title": "Bedikat HaSakin: como verificar a faca da shechitá",
+   "lines": 554,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-022",
+    "lane8-023"
+   ]
+  },
+  {
+   "id": "ZGdxXVBqmfY",
+   "title": "Sara, a Akedá e o avesso do que a realidade parece",
+   "lines": 1136,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane8-022",
+    "lane8-023"
+   ]
+  },
+  {
+   "id": "4dj5Q3RQlLc",
+   "title": "Kedushá, a santidade do povo e a guarda do Shabat",
+   "lines": 1490,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-001",
+    "lane9-003",
+    "lane9-004",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "7GysJ534K1c",
+   "title": "Vayishlach: por que Yaakov venceu Lavan e Esav",
+   "lines": 645,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-005",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "ppdKnAZ5P3g",
+   "title": "Por que Moshé não aparece em Tetzavê: boca aberta e fechada",
+   "lines": 639,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-005",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "pMpF3IXppJ8",
+   "title": "Parashat Beshalach: o Egito, o ויהי e a guerra contra Amalek",
+   "lines": 785,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-005",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "bMJNeyya-6k",
+   "title": "O poço de Miriam e o gosto do Maná (Parashat Chukat)",
+   "lines": 625,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-005",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "5gRYX2y4rS0",
+   "title": "Vayikrá: o Álef pequeno e a voz de Amram",
+   "lines": 699,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-005",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "6E15081YHIQ",
+   "title": "Parashá Teruma: contribuição só de Israel e a volta de Mashiach",
+   "lines": 597,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-005",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "q69t6lT1HcM",
+   "title": "Toledot: a esposa, o shidduch e o parto na hora certa",
+   "lines": 750,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-005",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "l612Tc6knSM",
+   "title": "Avraham e a hospitalidade: o que a Parashá Vayerá ensina",
+   "lines": 675,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-006",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "feAOxQ_EZBE",
+   "title": "A Akedá: Kierkegaard e o Rav Kook, entre esquerda e direita",
+   "lines": 676,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-007",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "xsuxCiPSAjI",
+   "title": "Ismael e Yitzchak: por que não há coexistência (Vayera)",
+   "lines": 1584,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-007",
+    "lane9-009"
+   ]
+  },
+  {
+   "id": "qqfY7hwdSdA",
+   "title": "Tanya cap. 30: humildade diante de todo ser humano",
+   "lines": 863,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-010",
+    "lane9-011"
+   ]
+  },
+  {
+   "id": "OIOo3JGi6OU",
+   "title": "Avraham, Sodoma e o \"pó e cinza\" no Zera Shimshon",
+   "lines": 152,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-010",
+    "lane9-011"
+   ]
+  },
+  {
+   "id": "GJSZQbvBow8",
+   "title": "Daf Yomi Bechorot 33: Bechor com mum e Hakazat dam",
+   "lines": 1609,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-010",
+    "lane9-011"
+   ]
+  },
+  {
+   "id": "n72WpQi5kZo",
+   "title": "Yerushalaim: Malki Tzedek, Avraham e o nome da cidade",
+   "lines": 722,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-010",
+    "lane9-011"
+   ]
+  },
+  {
+   "id": "7YD_370imOA",
+   "title": "Lech Lecha: continuar andando mesmo quando é difícil",
+   "lines": 800,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-010",
+    "lane9-011"
+   ]
+  },
+  {
+   "id": "G92vQWBDHy8",
+   "title": "Parashá Toldot: Yaakov, Esav e os dois impulsos",
+   "lines": 1859,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-011"
+   ]
+  },
+  {
+   "id": "eZByejNuTxk",
+   "title": "Efron, Mishlei, Yevamot, Zohar e Rambam em Chayei Sarah",
+   "lines": 532,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-011"
+   ]
+  },
+  {
+   "id": "cOkupqhswaI",
+   "title": "Inveja, mau-olhado e a bênção de ver o bem no outro",
+   "lines": 1081,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-011"
+   ]
+  },
+  {
+   "id": "EFNrbL1wiVY",
+   "title": "Humildade, elogios fúnebres e Rabi Avraham Azulai",
+   "lines": 1379,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-011"
+   ]
+  },
+  {
+   "id": "zo-PhyNrFAU",
+   "title": "Shachar mitzvá: o verdadeiro ganho está na alma",
+   "lines": 575,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-011"
+   ]
+  },
+  {
+   "id": "0Z_GHzDC7U0",
+   "title": "Yichud, Menorá e Shema; Gilgulim e Ressurreição",
+   "lines": 1154,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-011"
+   ]
+  }
+ ],
+ "chunks": [
+  "-glyjn4lTB4.p0",
+  "fnQ3lAZJB5g.p0",
+  "guohen2mcaY.p0",
+  "p0ZV7rOZor4.p0",
+  "eOpb1IF2d6I.p0",
+  "THaiO0_J5gk.p0",
+  "V2NOvR1Lz0o.p0",
+  "L1UROwNzaKQ.p0",
+  "bLms7yHxLVc.p0",
+  "8hwOnWomSk0.p0",
+  "cAwEm5p_PIc.p0",
+  "AuZXEyBmVuc.p0",
+  "v1CV2YJBZIw.p0",
+  "SCmj-C56Ceg.p0",
+  "urybg2p-a9A.p0",
+  "wjzKeAlQvb0.p0",
+  "cMbldte2ylU.p0",
+  "WvEdcvyyAdc.p0",
+  "rIaJW6blevE.p0",
+  "MQcHvu3WcOI.p0",
+  "0RcbRXEY9ng.p0",
+  "j7Pw6c96cSY.p0",
+  "oCma9xzdneY.p0",
+  "afcWoJjtLxQ.p0",
+  "CvSArLncmAI.p0",
+  "EeQJAFY0yXo.p0",
+  "dJX_Wlq-UP0.p0",
+  "_4T1WGV6U_M.p0",
+  "-7tVUzkUEq4.p0",
+  "PUPopH5g3ww.p0",
+  "UyAIpykyl_I.p0",
+  "zz3J06SPFt0.p0",
+  "gpTawZWgjJk.p0",
+  "bOymIv5HHlw.p0",
+  "JnI74lxJVCQ.p0",
+  "5QrKeNCEleY.p0",
+  "1WPDlC-F1Vw.p0",
+  "FmM8o31AzOc.p0",
+  "Ic8lOSB_FHg.p0",
+  "CM-id2qn9Uk.p0",
+  "QBHQwdHLg7M.p0",
+  "jUvpq831Gjc.p0",
+  "B40fco4kwuo.p0",
+  "vQg_sXrqrhA.p0",
+  "3v_ZpMo7nW8.p0",
+  "gWcet39DuzA.p0",
+  "KGTQJQCgj7s.p0",
+  "xGC1Kb3VhJI.p0",
+  "ITu2_xBzKIA.p0",
+  "9WRDZ9I1HPg.p0",
+  "_ZOTRGwjOTo.p0",
+  "jY-zSnSNv5A.p0",
+  "9gBfr415vcQ.p0",
+  "KGCsNtHAeOQ.p0",
+  "AQgF66bn8lU.p0",
+  "gddsBWACdjg.p0",
+  "o7kajIanujc.p0",
+  "jRVj_oklkAE.p0",
+  "vGAR3WWEEg8.p0",
+  "10wdUTStf1Q.p0",
+  "f9eQWxOZBTs.p0",
+  "YF2oDA0SMDI.p0",
+  "68YXUDnO-tw.p0",
+  "bSmllgW1QUU.p0",
+  "2d6bb1pZwRM.p0",
+  "1SFqadwGRj4.p0",
+  "PZyPRVgmpz0.p0",
+  "5NDlCl8_s1g.p0",
+  "os2uv-4_idQ.p0",
+  "eisn3_BRpSI.p0",
+  "mCrvmV8ZQ5s.p0",
+  "iH1azTNADYQ.p0",
+  "PKoptFokTz4.p0",
+  "2ozbDdr0aic.p0",
+  "jf8cXAC7n9Y.p0",
+  "_mH6IBSZmlk.p0",
+  "oaX59sZsjUw.p0",
+  "oP-hDOkN9nA.p0",
+  "08iC-qVGSCA.p0",
+  "a37jL33Wtx0.p0",
+  "Cj9XNgTLgAg.p0",
+  "-1uMWV0SbN0.p0",
+  "Ei1SKwvqGAs.p0",
+  "o6lsXLfzCfU.p0",
+  "iHKWf-O_Wtk.p0",
+  "xAr4N_YfZs4.p0",
+  "XDJjJ_GQP4k.p0",
+  "ajjRLbaUT4Q.p0",
+  "IUGjIjvTg8k.p0",
+  "fSFQJQkWkCo.p0",
+  "MDk7A-WbbcA.p0",
+  "3Hw5urLKqOo.p0",
+  "GcFPfJDGYbQ.p0",
+  "Hm8fk4lF5Cg.p0",
+  "T29WNCBs5e8.p0",
+  "f6RzqumCjvk.p0",
+  "P9yoql-gaSs.p0",
+  "rKy0q-kMwMo.p0",
+  "i_Mswjw-dsM.p0",
+  "iRFlMPb7TOY.p0",
+  "MEFlfizsyp8.p0",
+  "Tsz2umCH0LA.p0",
+  "1T7kADdlvFQ.p0",
+  "uGIBJxpGawI.p0",
+  "vNB90wpYJ-U.p0",
+  "eS5k1hi7vQQ.p0",
+  "zddbIrvXzEo.p0",
+  "nlE2Z204zwY.p0",
+  "SeV6VMe8Vlw.p0",
+  "4WUIGs9LKmk.p0",
+  "mKMId6XdH2o.p0",
+  "quFP-I8wv1Q.p0",
+  "E63nEh5YMdg.p0",
+  "xOd_6xe90XU.p0",
+  "hKkERoGGV6E.p0",
+  "oqtw-eVzDCs.p0",
+  "2UkvadwtFHY.p0",
+  "7pfIoU_bN00.p0",
+  "ez3oskhk9aA.p0",
+  "QNL3vz5Vjy4.p0",
+  "kE4ty09Yb5s.p0",
+  "JyH1f4nnLCc.p0",
+  "pNhfS9TvPzA.p0",
+  "dZLfVho4CmQ.p0",
+  "sSIV2c5IErE.p0",
+  "CEloJsU6eAk.p0",
+  "kzntZefs5ys.p0",
+  "pYUie5ltuf0.p0",
+  "QDE7D7qE0mE.p0",
+  "jv6bYM-X7GM.p0",
+  "Q76ZMb_Loxg.p0",
+  "X1Z--q7kAZg.p0",
+  "8VPhFvtXMxQ.p0",
+  "FWCuPqWYkBM.p0",
+  "TjGBAhYS3vU.p0",
+  "_u6VIUW72iY.p0",
+  "K3XgaNkO4Ak.p0",
+  "YrWs6QmNsz4.p0",
+  "fHp6xoddUgc.p0",
+  "e5urC9nmmHk.p0",
+  "eEo0TNNcxQk.p0",
+  "gqACq7Fud2k.p0",
+  "CUODPP-BazY.p0",
+  "xTBTdWMsF10.p0",
+  "XUEx179FVbI.p0",
+  "jfjsUaNztw8.p0",
+  "twiqX1L7k3Y.p0",
+  "GeF5h2LhasM.p0",
+  "IuQVeGNeia0.p0",
+  "zBnjRLlZ9lk.p0",
+  "FX0LCy2MQAs.p0",
+  "bmLaqTR1-ps.p0",
+  "RpIU6tslFF8.p0",
+  "coDrV0KmAIY.p0",
+  "FJgWLj88VxA.p0",
+  "srpTG249JMw.p0",
+  "1S_rB8DpPeA.p0",
+  "Sy29d_OVlaQ.p0",
+  "h7OTcWqrMBc.p0",
+  "W692BnvRtFs.p0",
+  "2x7Votl8LVM.p0",
+  "5rnoC6y8Mf8.p0",
+  "fugarMbiezI.p0",
+  "Gex1ZbQ5YTw.p0",
+  "tkcRQmqdxz4.p0",
+  "RP8znPJBIwQ.p0",
+  "z3JdWDqHp5A.p0",
+  "FV-ElKpJUTQ.p0",
+  "KW6imFbsvss.p0",
+  "s04613xwmUc.p0",
+  "zyojb1HS4lU.p0",
+  "faQ0E94NTN0.p0",
+  "2avTuO2UdOY.p0",
+  "D9zZ7XM7AzE.p0",
+  "nfzKMSTiwDM.p0",
+  "EQXmWLpjkxM.p0",
+  "DJPgG7KwBnc.p0",
+  "3sgoiRToKlk.p0",
+  "GKiiRbwKz9Q.p0",
+  "4pJazA4vJIA.p0",
+  "TjfoGbEHgIA.p0",
+  "yKWhAqA3M5g.p0",
+  "n_9zLnqI1PI.p0",
+  "jTT9zGX7HlM.p0",
+  "XS7HSs2d0Ww.p0",
+  "SAp0BpXyLRw.p0",
+  "_2MnQrw2EJI.p0",
+  "EcLVf39iDRM.p0",
+  "Ef8wyblLf2I.p0",
+  "mAAAF0OPScw.p0",
+  "hTEJ40y4OFk.p0",
+  "2b-UfORV-og.p0",
+  "vjGYNeZLRFc.p0",
+  "yeXEI9FHOr8.p0",
+  "ZOVYveEY7Sg.p0",
+  "MRJwMq-Y5UE.p0",
+  "0oR3GS_NXx4.p0",
+  "qpbYyv2XP7s.p0",
+  "FsjKUuvt4O0.p0",
+  "ReRpYwGEaDU.p0",
+  "Am0Hkt_6brk.p0",
+  "ZNjTp4tl5sQ.p0",
+  "Y8HYY_MHWw8.p0",
+  "VkBM9NIZbxw.p0",
+  "Mf5tfVu4ZIY.p0",
+  "mTP8eDVf6PY.p0",
+  "nxbR46_bJkg.p0",
+  "2fl5O3XeyUE.p0",
+  "8T6SzTRB1TQ.p0",
+  "9IxzGUTxrRM.p0",
+  "h3xZHhXaPls.p0",
+  "XA6lgzKt1Bc.p0",
+  "ZbW2h9zb1ks.p0",
+  "UBjtb2Z0aPM.p0",
+  "AzbV217C24A.p0",
+  "mswBvsk_jPQ.p0",
+  "fzOnnvXM6zU.p0",
+  "Ia_QIk-dUWk.p0",
+  "oMA1QPCzExc.p0",
+  "8R3sVro6QF8.p0",
+  "MHqDkQCQqpM.p0",
+  "3QtfHglis14.p0",
+  "PogvsHUb7Tw.p0",
+  "Kp0epiK5LTQ.p0",
+  "PyYGb6g1zNA.p0",
+  "AjX-ySqvn6I.p0",
+  "IGxVS2HlkEU.p0",
+  "FrPzivi15uQ.p0",
+  "EtB_bNOMReA.p0",
+  "7V_UQtK_9nU.p0",
+  "Zxmc3ifhy0k.p0",
+  "tY11smb6Yys.p0",
+  "bWDNmXFiA80.p0",
+  "1zHRpmw1hcE.p0",
+  "FsmmucN5s0Y.p0",
+  "i5QbpARuhXM.p0",
+  "0fn_Foe_eC0.p0",
+  "AnXDrHJltK8.p0",
+  "5FEDGVe16ZA.p0",
+  "BftyfgDZJ1c.p0",
+  "nMvXiSaPN1E.p0",
+  "ZGdxXVBqmfY.p0",
+  "4dj5Q3RQlLc.p0",
+  "7GysJ534K1c.p0",
+  "ppdKnAZ5P3g.p0",
+  "pMpF3IXppJ8.p0",
+  "bMJNeyya-6k.p0",
+  "5gRYX2y4rS0.p0",
+  "6E15081YHIQ.p0",
+  "q69t6lT1HcM.p0",
+  "l612Tc6knSM.p0",
+  "feAOxQ_EZBE.p0",
+  "xsuxCiPSAjI.p0",
+  "qqfY7hwdSdA.p0",
+  "OIOo3JGi6OU.p0",
+  "GJSZQbvBow8.p0",
+  "n72WpQi5kZo.p0",
+  "7YD_370imOA.p0",
+  "G92vQWBDHy8.p0",
+  "eZByejNuTxk.p0",
+  "cOkupqhswaI.p0",
+  "EFNrbL1wiVY.p0",
+  "zo-PhyNrFAU.p0",
+  "0Z_GHzDC7U0.p0"
+ ],
+ "tries": {
+  "fnQ3lAZJB5g": 1
+ },
+ "done": [
+  "-glyjn4lTB4",
+  "guohen2mcaY",
+  "p0ZV7rOZor4",
+  "eOpb1IF2d6I",
+  "THaiO0_J5gk",
+  "V2NOvR1Lz0o",
+  "L1UROwNzaKQ",
+  "bLms7yHxLVc",
+  "8hwOnWomSk0",
+  "cAwEm5p_PIc",
+  "AuZXEyBmVuc",
+  "v1CV2YJBZIw",
+  "SCmj-C56Ceg",
+  "urybg2p-a9A",
+  "wjzKeAlQvb0",
+  "cMbldte2ylU",
+  "WvEdcvyyAdc",
+  "rIaJW6blevE",
+  "MQcHvu3WcOI",
+  "0RcbRXEY9ng",
+  "j7Pw6c96cSY",
+  "oCma9xzdneY",
+  "afcWoJjtLxQ",
+  "CvSArLncmAI",
+  "EeQJAFY0yXo",
+  "dJX_Wlq-UP0",
+  "_4T1WGV6U_M",
+  "-7tVUzkUEq4",
+  "PUPopH5g3ww",
+  "UyAIpykyl_I",
+  "zz3J06SPFt0",
+  "gpTawZWgjJk",
+  "bOymIv5HHlw",
+  "JnI74lxJVCQ",
+  "5QrKeNCEleY",
+  "1WPDlC-F1Vw",
+  "FmM8o31AzOc",
+  "Ic8lOSB_FHg",
+  "CM-id2qn9Uk",
+  "QBHQwdHLg7M",
+  "jUvpq831Gjc",
+  "B40fco4kwuo",
+  "vQg_sXrqrhA",
+  "3v_ZpMo7nW8",
+  "gWcet39DuzA",
+  "KGTQJQCgj7s",
+  "xGC1Kb3VhJI",
+  "ITu2_xBzKIA",
+  "9WRDZ9I1HPg",
+  "_ZOTRGwjOTo",
+  "jY-zSnSNv5A",
+  "9gBfr415vcQ",
+  "KGCsNtHAeOQ",
+  "AQgF66bn8lU",
+  "gddsBWACdjg",
+  "o7kajIanujc",
+  "jRVj_oklkAE",
+  "vGAR3WWEEg8",
+  "10wdUTStf1Q",
+  "f9eQWxOZBTs",
+  "YF2oDA0SMDI",
+  "68YXUDnO-tw",
+  "bSmllgW1QUU",
+  "2d6bb1pZwRM",
+  "1SFqadwGRj4",
+  "PZyPRVgmpz0",
+  "5NDlCl8_s1g",
+  "os2uv-4_idQ",
+  "eisn3_BRpSI",
+  "mCrvmV8ZQ5s",
+  "iH1azTNADYQ",
+  "PKoptFokTz4",
+  "2ozbDdr0aic",
+  "jf8cXAC7n9Y",
+  "_mH6IBSZmlk",
+  "oaX59sZsjUw",
+  "oP-hDOkN9nA",
+  "08iC-qVGSCA",
+  "a37jL33Wtx0",
+  "Cj9XNgTLgAg",
+  "-1uMWV0SbN0",
+  "Ei1SKwvqGAs",
+  "o6lsXLfzCfU",
+  "iHKWf-O_Wtk",
+  "xAr4N_YfZs4",
+  "XDJjJ_GQP4k",
+  "ajjRLbaUT4Q",
+  "IUGjIjvTg8k",
+  "fSFQJQkWkCo",
+  "MDk7A-WbbcA",
+  "3Hw5urLKqOo",
+  "GcFPfJDGYbQ",
+  "Hm8fk4lF5Cg",
+  "T29WNCBs5e8",
+  "f6RzqumCjvk",
+  "P9yoql-gaSs",
+  "rKy0q-kMwMo",
+  "i_Mswjw-dsM",
+  "iRFlMPb7TOY",
+  "MEFlfizsyp8",
+  "Tsz2umCH0LA",
+  "1T7kADdlvFQ",
+  "uGIBJxpGawI",
+  "vNB90wpYJ-U",
+  "eS5k1hi7vQQ",
+  "zddbIrvXzEo",
+  "nlE2Z204zwY",
+  "SeV6VMe8Vlw",
+  "4WUIGs9LKmk",
+  "mKMId6XdH2o",
+  "quFP-I8wv1Q",
+  "E63nEh5YMdg",
+  "xOd_6xe90XU",
+  "hKkERoGGV6E",
+  "oqtw-eVzDCs",
+  "2UkvadwtFHY",
+  "7pfIoU_bN00",
+  "ez3oskhk9aA",
+  "QNL3vz5Vjy4",
+  "kE4ty09Yb5s",
+  "JyH1f4nnLCc",
+  "pNhfS9TvPzA",
+  "dZLfVho4CmQ",
+  "sSIV2c5IErE",
+  "CEloJsU6eAk",
+  "kzntZefs5ys",
+  "pYUie5ltuf0",
+  "QDE7D7qE0mE",
+  "jv6bYM-X7GM",
+  "Q76ZMb_Loxg",
+  "X1Z--q7kAZg",
+  "8VPhFvtXMxQ",
+  "FWCuPqWYkBM",
+  "TjGBAhYS3vU",
+  "_u6VIUW72iY",
+  "K3XgaNkO4Ak",
+  "YrWs6QmNsz4",
+  "fHp6xoddUgc",
+  "e5urC9nmmHk",
+  "eEo0TNNcxQk",
+  "gqACq7Fud2k",
+  "CUODPP-BazY",
+  "xTBTdWMsF10",
+  "XUEx179FVbI",
+  "jfjsUaNztw8",
+  "twiqX1L7k3Y",
+  "GeF5h2LhasM",
+  "IuQVeGNeia0",
+  "zBnjRLlZ9lk",
+  "FX0LCy2MQAs",
+  "bmLaqTR1-ps",
+  "RpIU6tslFF8",
+  "coDrV0KmAIY",
+  "FJgWLj88VxA",
+  "srpTG249JMw",
+  "1S_rB8DpPeA",
+  "Sy29d_OVlaQ",
+  "h7OTcWqrMBc",
+  "W692BnvRtFs",
+  "2x7Votl8LVM",
+  "5rnoC6y8Mf8",
+  "fugarMbiezI",
+  "Gex1ZbQ5YTw",
+  "tkcRQmqdxz4",
+  "RP8znPJBIwQ",
+  "z3JdWDqHp5A",
+  "FV-ElKpJUTQ",
+  "KW6imFbsvss",
+  "s04613xwmUc",
+  "zyojb1HS4lU",
+  "faQ0E94NTN0",
+  "2avTuO2UdOY",
+  "D9zZ7XM7AzE",
+  "nfzKMSTiwDM",
+  "EQXmWLpjkxM",
+  "DJPgG7KwBnc",
+  "3sgoiRToKlk",
+  "GKiiRbwKz9Q",
+  "4pJazA4vJIA",
+  "TjfoGbEHgIA",
+  "yKWhAqA3M5g",
+  "n_9zLnqI1PI",
+  "jTT9zGX7HlM",
+  "XS7HSs2d0Ww",
+  "SAp0BpXyLRw",
+  "_2MnQrw2EJI",
+  "EcLVf39iDRM",
+  "Ef8wyblLf2I",
+  "mAAAF0OPScw",
+  "hTEJ40y4OFk",
+  "2b-UfORV-og",
+  "vjGYNeZLRFc",
+  "yeXEI9FHOr8",
+  "ZOVYveEY7Sg",
+  "MRJwMq-Y5UE",
+  "0oR3GS_NXx4",
+  "qpbYyv2XP7s",
+  "FsjKUuvt4O0",
+  "ReRpYwGEaDU",
+  "Am0Hkt_6brk",
+  "ZNjTp4tl5sQ",
+  "Y8HYY_MHWw8",
+  "VkBM9NIZbxw",
+  "Mf5tfVu4ZIY",
+  "mTP8eDVf6PY",
+  "nxbR46_bJkg",
+  "2fl5O3XeyUE",
+  "8T6SzTRB1TQ",
+  "9IxzGUTxrRM",
+  "h3xZHhXaPls",
+  "XA6lgzKt1Bc",
+  "ZbW2h9zb1ks",
+  "UBjtb2Z0aPM",
+  "AzbV217C24A",
+  "mswBvsk_jPQ",
+  "fzOnnvXM6zU",
+  "Ia_QIk-dUWk",
+  "oMA1QPCzExc",
+  "8R3sVro6QF8",
+  "MHqDkQCQqpM",
+  "3QtfHglis14",
+  "PogvsHUb7Tw",
+  "Kp0epiK5LTQ",
+  "PyYGb6g1zNA",
+  "AjX-ySqvn6I",
+  "IGxVS2HlkEU",
+  "FrPzivi15uQ",
+  "EtB_bNOMReA",
+  "7V_UQtK_9nU",
+  "Zxmc3ifhy0k",
+  "tY11smb6Yys",
+  "bWDNmXFiA80",
+  "1zHRpmw1hcE",
+  "FsmmucN5s0Y",
+  "i5QbpARuhXM",
+  "0fn_Foe_eC0",
+  "AnXDrHJltK8",
+  "5FEDGVe16ZA",
+  "BftyfgDZJ1c",
+  "nMvXiSaPN1E",
+  "ZGdxXVBqmfY",
+  "4dj5Q3RQlLc",
+  "7GysJ534K1c",
+  "ppdKnAZ5P3g",
+  "pMpF3IXppJ8",
+  "bMJNeyya-6k",
+  "5gRYX2y4rS0",
+  "6E15081YHIQ",
+  "q69t6lT1HcM",
+  "l612Tc6knSM",
+  "feAOxQ_EZBE",
+  "xsuxCiPSAjI",
+  "qqfY7hwdSdA",
+  "OIOo3JGi6OU",
+  "GJSZQbvBow8",
+  "n72WpQi5kZo",
+  "7YD_370imOA",
+  "G92vQWBDHy8",
+  "eZByejNuTxk",
+  "cOkupqhswaI",
+  "EFNrbL1wiVY",
+  "zo-PhyNrFAU",
+  "0Z_GHzDC7U0"
+ ],
+ "skipped": []
+}

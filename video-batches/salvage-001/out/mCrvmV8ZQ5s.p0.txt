@@ -1,0 +1,916 @@
+0	Yes, this week's parashah is Parashat Vayigash.	Sim, a parashá desta semana é Vayigash.
+1	This parashah also fell during Chanukah.	Esta parashá também caiu em Chanucá.
+2	What's interesting is that it doesn't happen every year, two parashot like this.	O interessante é que não acontece todo ano, duas parashiot assim.
+3	This year two parashot fell on Chanukah.	Neste ano duas parashiot caíram em Chanucá.
+4	"Then Judah approached him and said: Please, my lord, let your servant speak a word in my lord's ears, and let not your anger burn against your servant, for you are like	"Então Yehudá se aproximou dele e disse: Por favor, meu senhor, deixe o teu servo dizer uma palavra aos ouvidos do meu senhor, e que não se acenda a tua ira contra o teu servo, pois tu és como
+5	Pharaoh."	Paró."
+6	"My lord asked his servants, saying: Have you a father or a brother?"	"Meu senhor perguntou aos seus servos: Vocês têm pai ou irmão?"
+7	"And we said to my lord: We have an old father and a young child of his old age, and his brother is dead, and he	"E dissemos ao meu senhor: Temos um pai idoso e um filho pequeno da sua velhice, e o irmão dele morreu, e ele
+8	alone is left of his mother, and his father loves him."	ficou sozinho de sua mãe, e seu pai o ama."
+9	So what is special about this parashah: all these parashiot that speak of Yaakov Avinu begin	Então, o que há de especial nesta parashá: todas essas parashiot que falam de Yaakov Avinu começam
+10	with "Vayehi."	com "Vayehi".
+11	Why?	Por quê?
+12	Vay!	"Vai"!
+13	Yaakov Avinu's whole life was troubles, his whole life was suffering. How much he wanted to be calm, and	Toda a vida de Yaakov Avinu foi aflições, toda a vida dele foi sofrimento. Quanto ele quis sossego, e
+14	found no calm.	não encontrou.
+15	"I was not at ease, I was not quiet, I had no rest, and trouble came."	"Não tive sossego, nem quietude, nem descanso, e veio a aflição."
+16	The Gemara says: I had no ease because of Esav, no quiet because of wicked Lavan, who changed	Diz a Guemará: não tive sossego por causa de Esav, nem quietude por causa do perverso Lavan, que alterou
+17	his wages ten times.	o seu salário dez vezes.
+18	Esav wanted to kill him: "The days of mourning for my father will draw near, and I will kill my brother Yaakov."	Esav queria matá-lo: "Aproximam-se os dias de luto por meu pai, e matarei meu irmão Yaakov."
+19	Afterward he fled to his mother's...	Depois ele fugiu para o irmão da sua mãe...
+20	to his uncle, Lavan, thinking: there I will find a city of refuge.	para o seu tio, Lavan, pensando: ali encontrarei uma cidade de refúgio.
+21	Worse yet, Lavan wanted to practice sorcery on him: "I have divined, and HaShem has blessed me	Pior ainda, Lavan quis fazer feitiçarias contra ele: "Adivinhei, e HaShem me abençoou
+22	because of you."	por tua causa."
+23	The Zohar says: "I have divined" teaches that he divined with omens. Lavan was a great sorcerer,	Diz o Zohar: "adivinhei" ensina que ele adivinhava por presságios. Lavan era um grande feiticeiro,
+24	a great and wicked sorcerer. And not only that: afterward, our teacher the Ari writes, he was reincarnated in wicked	um grande e perverso feiticeiro. E não só isso: depois, nosso mestre o Ari escreve, ele reencarnou em Bilam, o
+25	Bilam, and afterward in Naval HaCarmeli, who caused trouble to King	perverso, e depois em Naval HaCarmeli, que causou aflições ao rei
+26	David. It wasn't enough for him that he caused trouble to Yaakov, as the gilgul of Lavan,	David. Não bastou o que ele fez de mal a Yaakov, como gilgul de Lavan,
+27	afterward he came as the gilgul of wicked Bilam and made trouble for Israel. A wicked soul, it wasn't enough for him.	depois veio como gilgul de Bilam, o perverso, e causou aflições a Israel. Uma alma má, nada lhe bastou.
+28	Then he returned as the gilgul of Naval HaCarmeli. The trouble he caused wasn't enough for him	Depois voltou como gilgul de Naval HaCarmeli. Não lhe bastou a aflição que causou
+29	to King David, so he came back again in yet another gilgul.	ao rei David, e voltou ainda em mais um gilgul.
+30	The Holy One, blessed be He, said: how much can I bear of you?	Disse o Santo, bendito seja Ele: quanto ainda posso suportar de você?
+31	Lavan is an acronym: lamed of Lavan, bet of Bilam, nun of Naval HaCarmeli.	Lavan são as iniciais: lamed de Lavan, bet de Bilam, nun de Naval HaCarmeli.
+32	And that is the reason why King David later said: don't worry, I will not leave him by morning	E essa é a razão pela qual o rei David disse depois: não se preocupe, não deixarei a ele, até a manhã,
+33	a single male who urinates against a wall.	nem um varão que urine na parede.
+34	I will even kill his dogs.	Até os cachorros dele eu vou matar.
+35	Naval HaCarmeli had Rottweilers.	Naval HaCarmeli tinha rottweilers.
+36	Amstaffs, all kinds of vicious dogs like that.	Amstaffs, todo tipo de cães ferozes assim.
+37	The Gemara says: it is forbidden to raise a vicious dog in one's house.	Diz a Guemará: é proibido criar um cão feroz dentro de casa.
+38	Bava Kamma, page 15. Bava Kamma, page 46.	Bava Kamma, folha 15. Bava Kamma, folha 46.
+39	As it says: "Do not place blood guilt in your house."	Pois está dito: "Não ponhas sangue na tua casa."
+40	It's forbidden to keep a vicious dog, meaning a dog without a chain.	É proibido criar um cão feroz, ou seja, um cão sem corrente.
+41	They wanted to invent something in the United States, they called me, I wrote a responsum on it in my Shut, in Choshen Mishpat,	Quiseram inventar algo nos Estados Unidos, me ligaram, escrevi uma responsa sobre isso no meu Shut, em Choshen Mishpat,
+42	in volume four. They called there, they invented something where there's a chain	no volume quatro. Ligaram de lá, inventaram uma coisa em que há uma corrente
+43	for the dog, so that the dog can't... It's wireless, it works through a signal, and the dog	para o cão, para que o cão não consiga... É sem fios, funciona por sinal, e o cão
+44	is connected to some monitor that sits in the house of its owners.	está ligado a um monitor que fica na casa dos donos.
+45	They program it on the monitor, I don't know how it works, it hasn't been released yet, but they're thinking of releasing it.	Programam no monitor, não sei como funciona, ainda não foi lançado, mas pensam em lançá-lo.
+46	They wanted my approval, so I said I don't approve it.	Queriam minha aprovação, então eu disse que não aprovo.
+47	And in this monitor there's some kind of energy force that pulls the dog	E nesse monitor há uma espécie de força de energia que puxa o cão
+48	back into the yard.	de volta para dentro do quintal.
+49	Now you can adjust it, set it to whatever you want: two meters, three	Agora dá para regular, ajustar como quiser: dois metros, três
+50	meters, four meters, and he comes back.	metros, quatro metros, e ele volta.
+51	I was once in the United States, I went to Target.	Uma vez estive nos Estados Unidos e fui à Target.
+52	Target is a big place, they sell all kinds of electrical goods and household items.	A Target é um lugar grande, vendem todo tipo de eletrodoméstico e utensílios para a casa.
+53	So I got to Target, I had a cart.	Cheguei à Target, eu tinha um carrinho.
+54	I left Target with the cart, and the cart doesn't move.	Saí da Target com o carrinho, e o carrinho não anda.
+55	It doesn't move.	Não anda.
+56	I went one meter out of the store, and the cart doesn't move.	Saí um metro da loja, e o carrinho não anda.
+57	What's going on?	O que está acontecendo?
+58	It turns out they invented something: instead of bringing all those Sudanese people to stand outside at the entrance, the black ones,	Descobri que inventaram uma coisa: em vez de trazer aqueles sudaneses para ficar do lado de fora, os negros,
+59	to tell people to return the carts.	para dizer às pessoas que devolvam os carrinhos.
+60	So instead they invented a patent: the moment the cart leaves the store, the cart doesn't	Então, em vez disso, inventaram uma patente: no momento em que o carrinho sai da loja, o carrinho não
+61	move.	anda.
+62	There's nothing you can do with it, the wheels get stuck.	Não há nada a fazer com ele, as rodas travam.
+63	Amazing, you've never seen anything like it.	Impressionante, você nunca viu coisa igual.
+64	In the same way, they wanted to do this with the dog's chain too.	Do mesmo modo, quiseram fazer isso também com a corrente do cão.
+65	A dog isn't comfortable being attached to a chain all the time, so they put a collar on its neck,	O cão não se sente confortável preso o tempo todo a uma corrente, então puseram uma coleira no pescoço dele,
+66	and this collar, the moment he leaves the owner's house, prevents him from advancing forward.	e essa coleira, no momento em que ele sai da casa do dono, o impede de avançar.
+67	Is it permitted or forbidden to use such a chain?	É permitido ou proibido usar uma corrente assim?
+68	In practical halachah I wrote that it's forbidden, because the whole reason it's forbidden is that he might harm people, and even if he doesn't actually harm	Na halachá para a prática escrevi que é proibido, porque toda a razão da proibição é que ele pode ferir pessoas, e mesmo que na prática não as fira,
+69	them, they don't know this new system, that he can't do anything to them.	elas não conhecem esse sistema novo, de que ele não pode lhes fazer nada.
+70	The Gemara says: there was a case of a man who had a dog that was not locked	A Guemará diz: houve um caso de um homem que tinha um cão que não estava preso
+71	by a chain.	por uma corrente.
+72	A woman saw it, a poor woman, who was pregnant.	Uma mulher o viu, coitada, que estava grávida.
+73	She saw it and was terrified of it. He said to her, don't worry.	Ela o viu e ficou aterrorizada. Ele lhe disse: não se preocupe.
+74	I pulled out its teeth and it has nothing. She said to him, "Take your things," the fetus has already moved	Arranquei os dentes dele e ele não tem nada. Ela lhe disse: "Pegue suas coisas, o feto já se moveu
+75	from its place. What will this help?	do lugar dele. De que adianta isso?
+76	I already miscarried, heaven forbid.	Eu já abortei, que não nos aconteça."
+77	Here too, even if you tell her, yes, but he has this collar, don't be afraid, it has no chain,	Aqui também, ainda que você lhe diga: sim, mas ele tem essa coleira, não tenha medo, ele não tem corrente,
+78	but he has the collar that stops him, she doesn't know this system, she'll be afraid.	mas ele tem a coleira que o detém, ela não conhece esse sistema, ela vai ter medo.
+79	Therefore this is certainly forbidden.	Por isso, com certeza isso é proibido.
+80	So I prohibited it, and I wrote various other reasons, and the back-and-forth: permitting from one side, prohibiting from another.	Então eu proibi isso, e escrevi vários outros motivos, e o vai e vem: permitir de um lado, proibir de outro.
+81	Maybe write a sign.	Talvez escrever uma placa.
+82	We'll make a sign that explains it, but even until they explain, until we understand, until they get provoked, where is	Fazemos uma placa que explique, mas até explicarem, até entendermos, até se assustarem, onde está
+83	this thing?	essa coisa?
+84	So in practice, I did not permit it.	Por isso, na prática, eu não permiti.
+85	There is another thing they want to invent, and they asked me about this too: today there are search programs	Há outra coisa que querem inventar, e também me perguntaram sobre ela: hoje existem programas de busca
+86	on computers.	em computadores.
+87	Have you heard of this?	Vocês já ouviram falar?
+88	There is Bar-Ilan University, and there is also this Otzar,	Há a Universidade Bar-Ilan, e há também este Otzar,
+89	the computer Otzar, and Otzar HaTorah, and Torat HaOtzarot, and Torah...	o Otzar no computador, e o Otzar HaTorah, e Torat HaOtzarot, e Torá...
+90	"to magnify Torah and glorify it."	"para engrandecer a Torá e glorificá-la."
+91	So now they want to put out something new, they asked me, so that he won't have to go to the program and click Shulchan	Agora querem lançar algo novo, me perguntaram: que ele não precise ir ao programa e clicar em Shulchan
+92	Aruch, click Yoreh De'ah, click siman 63, click seif 4. He, with his own mouth, will come	Aruch, clicar em Yoreh De'ah, clicar no simán 63, clicar no seif 4. Ele, com a própria boca, vai
+93	and say, he'll have a kind of speaker coming out of the computer, connected to the computer, he'll say Shulchan Aruch Yoreh De'ah siman	dizer, terá uma espécie de alto-falante saindo do computador, ligado ao computador, dirá Shulchan Aruch Yoreh De'ah simán
+94	63, I want, and it opens right up for him.	63, eu quero, e abre direto para ele.
+95	That's how they want to do it. They told me it's the same system that works on a cellphone, there are smart phones, you say	Assim querem fazer. Disseram-me que é o mesmo sistema que funciona no celular, há celulares inteligentes, você diz
+96	"call Sami Chatuka," and it calls Sami Chatuka; you'll say	"ligue para Sami Chatuka", e ele liga para Sami Chatuka; você dirá
+97	"Zohar HaKadosh, daf 72, page b," and it opens by itself on your screen. It's really,	"Zohar HaKadosh, folha 72, página b", e abre sozinho na sua tela. É realmente,
+98	really revolutionary.	realmente revolucionário.
+99	Is it possible to use such a thing?	É possível usar algo assim?
+100	Of course it's possible to use it.	Claro que é possível usar.
+101	I don't know how much amal Torah there is in it.	Não sei quanto amal Torá há nisso.
+102	In general, in all these programs, I don't know how much amal Torah there is in it.	Em geral, em todos esses programas, não sei quanto amal Torá há nisso.
+103	Even someone who has many programs, it doesn't mean he'll be able to write many books.	Mesmo quem tem muitos programas, isso não quer dizer que conseguirá escrever muitos livros.
+104	That's simply false, because a true book is one that brings out something new from within itself, not one that copied	Isso é pura mentira, pois um livro verdadeiro é aquele que traz algo novo de dentro de si, não o que copiou
+105	other passages and produced, "Look, I've published a book."	outros trechos e lançou: "Veja, publiquei um livro."
+106	There was a certain rabbi in the United States, in New York, and they came and told me about him, what a great rabbi, what	Havia um certo rabino nos Estados Unidos, em Nova York, e vieram me falar dele: que grande rabino, que
+107	a genius rabbi. We hadn't heard of him as great and a genius, everyone is great and a genius, but we hadn't heard anything about him that was	rabino gaon. Não tínhamos ouvido falar dele como grande e gaon, todos são grandes e gaonim, mas não tínhamos ouvido nada dele que fosse
+108	special.	especial.
+109	They told me, every half year he puts out a book.	Disseram-me: a cada seis meses ele lança um livro.
+110	I said to them, bring me his books, let's see what he wrote, maybe we didn't know his worth.	Eu disse: tragam-me os livros dele, vamos ver o que ele escreveu, talvez não soubéssemos do seu valor.
+111	They brought me his books, maybe six books, and he told me, I have more of his books at home.	Trouxeram-me os livros dele, uns seis livros, e disseram-me: tenho em casa mais livros dele.
+112	What can I tell you, not one thing of his own did he write.	O que posso dizer, nem uma coisa sua ele escreveu.
+113	Everything he took from the Chida, from the Ben Ish Chai, from the Gaon Chaim Palachi, from Rav Zeev, "compiled	Tudo ele tirou do Chida, do Ben Ish Chai, do Gaon Chaim Palachi, do Rav Zeev, "compilado
+114	and edited by Rabbi So-and-so."	e editado pelo rabino Fulano de Tal."
+115	So this is not your Torah.	Então essa não é a sua Torá.
+116	What you did was take from him, from him, from him, and put it in a new cover, "compiled and edited."	O que você fez foi tirar dele, dele, dele, e pôr numa capa nova: "compilado e editado."
+117	He didn't even punctuate the texts.	Ele nem sequer pontuou os textos.
+118	He didn't add vowels, didn't punctuate, didn't write explanations, didn't write sources, nothing.	Não vocalizou, não pontuou, não escreveu explicações, não escreveu referências, nada.
+119	Tak, tak, tak, copy, paste, copy, copy, copy, copy: "Look, I've put out another book."	Tac, tac, tac, copiar, colar, copiar, copiar, copiar: "Pronto, lancei mais um livro."
+120	This way you can put out twenty thousand books, it's no problem to put out books.	Assim dá para publicar vinte mil livros, não é problema publicar livros.
+121	The problem is: let's see, bring a book, let's see what you innovated.	O problema é: vamos ver, traga um livro, vamos ver o que você inovou.
+122	Let's see how you labored, how you toiled.	Vamos ver como você se esforçou, no que você se empenhou.
+123	Today when you see a book, you don't even know if the rabbi wrote it or his assistants.	Hoje, quando você vê um livro, nem sabe se o rabino o escreveu ou seus auxiliares.
+124	There are people today, you see one putting out a book every month. How does he put out a book so fast?	Há hoje pessoas que você vê lançando um livro por mês. Como lança um livro tão rápido?
+125	Me, a book that I write takes at least a year and a half each.	Eu, um livro que escrevo leva pelo menos um ano e meio cada.
+126	How did he put out books so fast?	Como ele lançou livros tão rápido?
+127	You'll see: "with the help of," "the institute's work," "the team's work,"	Você vai ver: "com a ajuda de", "obra do instituto", "obra da equipe",
+128	"the work of the..."	"obra do..."
+129	Who are the institute and the team?	Quem são o instituto e a equipe?
+130	Some eight, ten Torah scholars who write the book.	Uns oito, dez talmidei chachamim que escrevem o livro.
+131	The rabbi comes, adds here what he has, removes what he has, agrees with this, removes from that, adds stories from this,	O rabino chega, acrescenta aqui o que tem, retira o que tem, concorda com isto, tira daquilo, acrescenta histórias disto,
+132	and there, he has put out a book.	e pronto, lançou um livro.
+133	Now where do you want to argue with him? He doesn't even know himself what is written in the book.	Agora onde você quer discordar dele? Ele nem sabe o que está escrito no próprio livro.
+134	From how much they wrote, you'll see there are many such books, "the institute's work." Usually when there's an institute, know that more	De tanto que escreveram, você verá que há muitos livros assim, "obra do instituto". Em geral, quando há um instituto, saiba que mais
+135	people entered into this book, it's not a book the rabbi wrote alone, and it's not one or two, it's many rabbis.	pessoas entraram neste livro, não é um livro que o rabino escreveu sozinho, e não são um ou dois, são muitos rabinos.
+136	In the generation there is this: "the important rabbis participated in this volume," and he brings you a list of	Existe isso na geração: "participaram neste volume os rabinos importantes", e ele traz uma lista de
+137	rabbis. Now, what did they do?	rabinos. Agora, o que eles fizeram?
+138	They worked, worked hard. The rabbi too is a Torah scholar, he had to conduct the orchestra, but still,	Eles trabalharam, trabalharam duro. O rabino também é talmid chacham, ele tinha que reger a orquestra, mas ainda assim,
+139	after all, you see that the greats of Israel always produced books with toil, with Torah.	afinal, você vê que os grandes de Israel sempre produziram livros com esforço, com Torá.
+140	So one must also consider whether there is amal Torah here or there is no amal	Então é preciso também considerar se há aqui amal Torá ou se não há amal
+141	Torah here.	Torá aqui.
+142	There must be amal Torah. Even going to open the book is amal Torah, and also comparing and searching is also	Tem que haver amal Torá. Até ir abrir o livro é amal Torá, e também comparar e pesquisar também é
+143	amal Torah.	amal Torá.
+144	Look at Chacham Ovadia, peace be upon him, he writes, my books, he writes there, he writes,	Vejam o Chacham Ovadia, que descanse em paz, ele escreve, meus livros, ele escreve ali, ele escreve,
+145	by the hand of HaShem upon me, with insight, I made them myself.	pela mão de HaShem sobre mim, com discernimento, eu mesmo os fiz.
+146	Not that...	Não que...
+147	Afterward, in the end, he had more assistants come, it needs layout and typesetting.	Depois, no fim, vieram mais auxiliares, é preciso fazer revisão e diagramação.
+148	There are those who also bring graphic designers so the book comes out beautiful and splendid, that's something else.	Há quem traga também designers gráficos para que o livro saia bonito e esplêndido, isso é outra coisa.
+149	But he himself went and opened and knew where to open, and how he knew all these sources.	Mas ele mesmo foi e abriu e sabia onde abrir, e como conhecia todas essas fontes.
+150	So it's not a problem, because he remembers, say, now he writes a responsum, just an example, on muktzeh on Shabbat,	Então não é problema, porque ele lembra, digamos, agora ele escreve uma responsa, só um exemplo, sobre muktsê no Shabat,
+151	okay?	certo?
+152	So say, now he remembers two responsa of later rabbis who wrote about muktzeh on Shabbat.	Então digamos, agora ele lembra de duas responsas de rabinos posteriores que escreveram sobre muktsê no Shabat.
+153	That's what he remembers, say.	Isso é o que ele lembra, digamos.
+154	He takes that, opens their responsa, to other rabbis.	Ele pega isso, abre as responsas deles, as de outros rabinos.
+155	He opens the books of those other rabbis, those other rabbis refer to still other places.	Ele abre os livros desses outros rabinos, que remetem a ainda outros lugares.
+156	And then you have many sources to open, from all the sources.	E então você tem muitas fontes para abrir, de todas as fontes.
+157	It doesn't mean you remember all these sources.	Isso não quer dizer que você se lembra de todas essas fontes.
+158	There is no human mind that can remember all this.	Não existe mente humana que consiga lembrar tudo isso.
+159	But he was great, he was the genius of geniuses, he is the crown of our head.	Mas ele era grande, era o gaon dos gaonim, ele é a coroa da nossa cabeça.
+160	Since Chacham Ovadia passed away, the honor of the Torah has been nullified.	Desde que o Chacham Ovadia faleceu, a honra da Torá foi anulada.
+161	Where is his replacement?	Onde está o seu sucessor?
+162	We have no replacement and no one to take his place.	Não temos sucessor nem ninguém que ocupe o seu lugar.
+163	We spoke about him last week.	Falamos sobre ele na semana passada.
+164	Anyway, what comes out of this is that all of Yaakov Avinu's life was "vay," woe.	De qualquer forma, o que sai daqui é que toda a vida de Yaakov Avinu foi "vay", ai.
+165	Look at all these parashiot: "vay" came out, so it is "vay."	Veja todas essas parashiot: saiu "vay", então é "vay".
+166	Vayetze: Yaakov Avinu went out, fled from his brother.	Vayetsê: Yaakov Avinu saiu, fugiu do seu irmão.
+167	Vayishlach: he sent to wicked Esav, who wanted to kill him.	Vayishlach: ele enviou mensageiros ao perverso Esav, que queria matá-lo.
+168	Vayetze, Vayishlach, Vayeshev: the trouble he had came out there, in Parashat Vayeshev. What?	Vayetsê, Vayishlach, Vayeshev: ali apareceu a aflição que ele teve, na Parashat Vayeshev. Qual?
+169	Poor Yosef the tzaddik: "Yosef was surely torn to pieces." Then we have	O pobre Yosef, o tsadik: "Yosef foi certamente despedaçado". Depois temos
+170	Vayigash. What is the "vay" there? He lost from his life, 130 years,	Vayigash. Qual é o "vay" ali? Ele perdeu da sua vida, 130 anos,
+171	he lost 30 years of his life for what he said to wicked Pharaoh, he said	ele perdeu 30 anos de vida pelo que disse ao perverso Paró, disse
+172	to him, he complained about his life, "few and evil." For each word he spoke there, he lost a year	a ele, queixou-se da sua vida, "poucos e maus". Por cada palavra que disse ali, perdeu um ano
+173	of his life. Then Vayechi: "vay," he went to his eternal home and lost his life	da sua vida. Depois Vayechi: "vay", foi para a sua morada eterna e perdeu a vida
+174	in this world of the tzaddikim.	neste mundo dos tsadikim.
+175	And also because he saw that Yerovam and Ahav were destined to come from Efraim.	E também porque viu que Yerovam e Ahav iriam descender de Efraim.
+176	So according to this, in all these parashiot there is a "vay," "vay."	Então, segundo isso, em todas essas parashiot há um "vay", "vay".
+177	Vayetze, Vayishlach, Vayeshev, Miketz, Vayigash, Vayechi.	Vayetsê, Vayishlach, Vayeshev, Miketz, Vayigash, Vayechi.
+178	The only one that doesn't have it is Miketz.	A única que não tem isso é Miketz.
+179	Why doesn't Miketz have it?	Por que Miketz não tem?
+180	"Vayehi miketz," it is also "Vayehi miketz."	"Vayehi miketz", também é "Vayehi miketz".
+181	So in the end, even though they call this parashah Miketz and not Vayehi Miketz, in the end we also expound the first word,	Então, no fim, embora chamem esta parashá de Miketz e não Vayehi Miketz, no fim também se interpreta a primeira palavra,
+182	"Vayehi Miketz."	"Vayehi Miketz".
+183	What is the "vayehi"?	O que é o "vayehi"?
+184	There too Yaakov had trouble, the trouble of Shimon, which pained him,	Ali também Yaakov teve uma aflição, a aflição de Shimon, que o magoou,
+185	when he said: "You have bereaved me; Yosef is gone, Shimon is gone; all this is upon me."	quando disse: "Vocês me privaram dos filhos; Yosef se foi, Shimon se foi; tudo isso recai sobre mim".
+186	So he was in great pain.	Então ele estava em grande sofrimento.
+187	So here is the "vay": this parashah also begins with "vay": "Then Yehudah approached him and said, 'Please,	Eis o "vay": esta parashá também começa com "vay": "Então Yehudá se aproximou dele e disse: 'Por favor,
+188	my lord.	meu senhor.
+189	Let your servant speak a word in the ears of my lord.'" Why did Yosef the tzaddik merit that his brothers	Que o teu servo diga uma palavra aos ouvidos do meu senhor'". Por que Yosef, o tsadik, mereceu que os seus irmãos
+190	cowered before him?	se encolhessem diante dele?
+191	He was a servant of HaShem who guarded his covenant.	Ele era um servo de HaShem que guardava a sua aliança.
+192	And the Zohar writes, Rabbi Chizkiyah said, Zohar, Parashat Vayera: I looked with ruach hakodesh into all the	E o Zohar escreve, disse Rabi Chizkiá, Zohar, Parashat Vayera: Contemplei com ruach hakodesh todos os
+193	upper worlds of Gan Eden.	mundos superiores do Gan Eden.
+194	There are all kinds of Gan Eden, and there are dwellings there, and there are entrances.	Há todos os tipos de Gan Eden, e ali há moradas e há entradas.
+195	What we say, that there are seven dwellings of Gan Eden corresponding to seven dwellings of Gehinom, that is only	O que dizemos, que há sete moradas do Gan Eden correspondentes a sete moradas do Gehinom, são apenas
+196	the seven big ones.	as sete grandes.
+197	Within them there are divisions, rooms, and halls.	Dentro delas há divisões, quartos e salões.
+198	It's all like that: whoever enters, everything is according to his merits.	É tudo assim: quem entra, tudo é conforme os seus méritos.
+199	One has permission to enter only the first room.	Um tem permissão de entrar somente no primeiro quarto.
+200	The second one has permission to enter the second room as well.	O segundo tem permissão para entrar também no segundo quarto.
+201	And so on, each one enters according to his merits.	E assim por diante, cada um entra de acordo com os seus méritos.
+202	The more mitzvot he did, the more charity he gave, the more he refined his traits, getting up at night, they said	Quanto mais mitsvot fez, mais tsedaká deu, mais quebrou suas características, levantando de noite, contaram
+203	about Rav Dov Yaffe.	sobre o Rav Dov Yaffe.
+204	May he rest in peace, he was a tzaddik.	Que descanse em paz, era um tsadik.
+205	And he didn't have the strength to get up at night for the children.	E ele não tinha forças para se levantar de noite por causa das crianças.
+206	What to do?	O que fazer?
+207	The children wake up at night, and he wanted to learn Torah, and it bothered him each time to get up at night for the children,	As crianças acordam de noite, e ele queria estudar Torá, e o atrapalhava toda vez levantar de noite pelas crianças,
+208	he was distressed.	ele ficava aflito.
+209	He said to his wife, listen, you get up for the children.	Disse à esposa: escute, você se levanta pelas crianças.
+210	Why?	Por quê?
+211	You are their mother, you gave birth to them.	Você é a mãe deles, foi você quem os deu à luz.
+212	As it says, "The counsel of HaShem, she shall rise."	Como está dito: "O conselho de HaShem, ela se levantará."
+213	She said to him, no, but it is written, "You shall rise, You will have compassion on Zion."	Ela disse: não, mas está escrito: "Tu te levantarás, terás compaixão de Sião."
+214	You shall rise.	Tu te levantarás.
+215	He said to her, no, she shall rise.	Ele disse: não, ela se levantará.
+216	You shall rise, she shall rise, you.	Tu te levantarás, ela se levantará, tu.
+217	They went to the Rebbe.	Foram ao Rebe.
+218	They came to the Rebbe, and said to him, our teacher, see what is happening, I can't, it is hard for me,	Chegaram ao Rebe e disseram: nosso mestre, veja o que acontece, eu não consigo, é difícil para mim,
+219	afterwards, I get up at night, and then I don't learn well in the kollel.	depois, eu me levanto de noite, e depois não estudo bem no kolel.
+220	The Rebbe said to him, but what will she do?	O Rebe disse a ele: mas o que ela fará?
+221	She said to him, I too, I'm not superhuman, I'm also a human being, I can't, it is hard for me, the children should be	Ela disse: eu também, não sou super-humana, também sou um ser humano, não consigo, é difícil para mim, as crianças devem ser
+222	healthy, I'm not... they turned out like him, they turned out like his mother.	saudáveis, eu não... elas saíram a ele, saíram à mãe dele.
+223	So the Rav heard this and said, come, let us rule for you: one night "you shall rise," another night "she shall rise."	Então o Rav ouviu isso e disse: vamos decidir por vocês: uma noite "tu te levantarás", outra noite "ela se levantará".
+224	One night "the counsel of HaShem, she shall rise," one night "You shall rise, have compassion on Zion."	Uma noite "o conselho de HaShem, ela se levantará", outra noite "Tu te levantarás, terás compaixão de Sião."
+225	Each night something different.	Cada noite uma coisa diferente.
+226	Good, from the first night the woman volunteered and said, the first night is on me.	Bem, desde a primeira noite a mulher se ofereceu e disse: a primeira noite fica por minha conta.
+227	They went to sleep.	Foram dormir.
+228	At night the children woke up, made noise and chaos and cries, needing changes, diapers and pacifiers.	De noite as crianças acordaram, fizeram barulho, bagunça e choro, precisando trocar fraldas e dar chupetas.
+229	And you know what a child is?	E vocês sabem o que é uma criança?
+230	A child screams his soul out until you get up, says "I want my pacifier," and it is right next to him.	A criança grita até a alma até você se levantar, diz "quero a minha chupeta", e ela está do lado dele.
+231	It's annoying, but what can you do?	É irritante, mas o que se pode fazer?
+232	They are children.	São crianças.
+233	Good, so you get up.	Bem, então você se levanta.
+234	She got up all night, then the next day, after reciting the Shema on the bed, she said to him, ah,	Ela se levantou a noite toda, e no dia seguinte, depois de recitar o Shemá na cama, disse a ele: ah,
+235	dear, remember, today is your turn, don't pull any tricks on us.	querido, lembre-se, hoje é a sua vez, não nos apronte nenhuma.
+236	He said, no, fine, my turn, I'll go, I'll get up, don't worry.	Ele disse: não, tudo bem, é a minha vez, eu vou, eu me levanto, não se preocupe.
+237	They went to sleep, in the morning, and behold, the morning light, both of them woke up.	Foram dormir, e de manhã, eis que veio a luz da manhã, os dois acordaram.
+238	He said to her, wow, I didn't get up in the night.	Ele disse a ela: nossa, eu não me levantei de noite.
+239	At first I didn't notice.	No começo eu não percebi.
+240	She said to him, "What? No, I also slept the sleep of the righteous, I had nothing."	Ela disse a ele: "O quê? Não, eu também dormi o sono dos justos, não tive nada."
+241	He said to her, "Are you sure?"	Ele disse a ela: "Você tem certeza?"
+242	She said to him, "Yes, what is this?"	Ela disse a ele: "Sim, o que é isso?"
+243	They went to the children and saw everything was fine.	Foram até as crianças e viram que estava tudo bem.
+244	Fine, they went to sleep. Another night, he said to her, "Do you remember your turn?"	Bem, foram dormir. Outra noite, ele disse a ela: "Você se lembra da sua vez?"
+245	She said to him, "You dodged it one time, you dodged it."	Ela disse a ele: "Você escapou uma vez, você escapou."
+246	He said to her, "Fine, I dodged it, I don't know what happened."	Ele disse a ela: "Está bem, eu escapei, não sei o que foi."
+247	They went to sleep again, the children woke up, drove her crazy; the night after his turn, they got up in the morning again.	Foram dormir de novo, as crianças acordaram, enlouqueceram-na; na noite depois da vez dele, levantaram de manhã de novo.
+248	He said to her, "I didn't get up, I heard nothing."	Ele disse a ela: "Eu não levantei, não ouvi nada."
+249	What becomes clear?	O que se esclarece?
+250	From Heaven they so loved his Torah that on the days when it was his turn to get up, they let	Dos Céus amavam tanto a Torá dele que, nos dias em que era a vez dele de levantar, deixavam
+251	the children sleep.	as crianças dormirem.
+252	That's it.	Só isso.
+253	I said, let's try this with the Rabbanit at my house too, specifically on her days let them	Eu disse: vamos fazer isso também com a Rabanit lá em casa, justamente nos dias dela deixarem
+254	sleep.	eles dormirem.
+255	Nu, what can we do?	Nu, o que podemos fazer?
+256	Apparently they wanted me to get up for Tikkun Chatzot, what can we do?	Pelo visto queriam que eu levantasse para o Tikun Chatsot, o que podemos fazer?
+257	So in any case, this is how a person enters Gan Eden, he enters Gan Eden according to his	De qualquer modo, é assim que a pessoa entra no Gan Eden: entra no Gan Eden de acordo com os
+258	merits.	méritos dela.
+259	The more merits he has, the more he is a servant of HaShem, the more mansions they let him into.	Quanto mais méritos ela tem, quanto mais é serva de HaShem, a mais moradas a deixam entrar.
+260	There, when it doesn't work, "I'll get in, I'll slip in."	Lá, quando não funciona: "Eu entro, eu me esgueiro."
+261	Into the party, like that I'll get past the bouncer and I'll get inside.	Na festa, assim eu passo pelo segurança e entro.
+262	It doesn't work.	Não funciona.
+263	If you have merits on your soul, on its garment, you can enter	Se você tem méritos sobre a sua alma, sobre a sua veste, pode entrar
+264	through the door.	pela porta.
+265	If not, you remain outside, you can't even get in to pass through the door.	Se não, fica do lado de fora, não consegue nem chegar a passar pela porta.
+266	That's how it works.	É assim que funciona.
+267	So whoever wants, let him be a servant of HaShem.	Então quem quiser, que seja servo de HaShem.
+268	Yosef the tzaddik was a servant of HaShem.	Yosef, o tsadik, era servo de HaShem.
+269	And about Yosef the tzaddik it is written, "And Yosef was the ruler over the land, he was the one who sold."	E sobre Yosef, o tsadik, está escrito: "E Yosef era o governante da terra, ele era o provedor."
+270	Rabbi Shimon bar Yochai said, "He was the ruler," although he was a ruler.	Rabi Shimon bar Yochai disse: "Ele era o governante", ainda que fosse governante.
+271	In what merit was he a ruler?	Em que mérito foi governante?
+272	Rabbi Chizkiya said, Zohar Vayera: I looked at all the levels of the upper worlds above	Rabi Chizkiá disse, Zohar Vayerá: Observei todos os níveis dos mundos superiores, lá em cima
+273	in Heaven and I did not see a level higher than one who rules over his covenant, over	nos Céus, e não vi nível mais alto do que o de quem domina a sua aliança, a
+274	his desire, one who rules over his brit milah. Soon the days of Shovavim: Shemot, Va'era, Bo, Beshalach,	sua paixão, quem domina a sua brit milá. Em breve os dias de Shovavim: Shemot, Vaerá, Bô, Beshalach,
+275	Yitro, Mishpatim. How important it is to do these tikkunim: one day you fast, then Pidyon Tishrei	Yitro, Mishpatim. Como é importante fazer esses tikunim: um dia você jejua, depois dá
+276	with tzedakah, and the kavanot of the Rashash; without the kavanot of the Rashash it's not good, you need	tsedacá, e com as kavanot do Rashash; sem as kavanot do Rashash não é bom, é preciso
+277	to pray; there is Yeshivat Shovi Nafshi, there is at Rav Bitzri's, at Rav Hillel's, here, baruch HaShem, at Rachel Imenu's,	rezar; há o Shovi Nafshi, há na casa do Rav Bitzri, na do Rav Hillel, aqui, graças a HaShem, no túmulo de Rachel Imenu,
+278	there is at Rav Binyahu's. Baruch HaShem, gentlemen, you live in a neighborhood that has no equal in the world.	há na do Rav Binyahu. Graças a HaShem, senhores, vocês moram num bairro que não tem igual no mundo.
+279	These neighborhoods, here, within a radius of a few kilometers, you have here some	Esses bairros, aqui, num raio de poucos quilômetros, vocês têm aqui alguns
+280	10-20 yeshivot of mekubalim, where they study Kabbalah.	10-20 yeshivot de mekubalim, onde se estuda Cabalá.
+281	You have to do this, once in your life.	É preciso fazer isso, uma vez na vida.
+282	And it's not just any fast: a fast with the kavanot of the Rashash in the prayer, and redeeming it with money.	E não é um jejum qualquer: um jejum com as kavanot do Rashash na prece, e redimi-lo com dinheiro.
+283	Now, redeeming with money we understood, the fast we understood, but what are the Rashash's kavanot in prayer, how do I know how to have kavanah? So	Agora, redimir com dinheiro nós entendemos, o jejum entendemos, mas o que são as kavanot do Rashash na prece, como é que eu sei ter a kavanah? Então
+284	you go to a place where they do the tikkun with the Rashash's kavanot, and then automatically, when you do it,	você vai a um lugar onde fazem o tikun com as kavanot do Rashash, e então, naturalmente, quando você faz isso,
+285	the chazzan, who is a Torah scholar, a mekubal who learned this, fulfills the obligation for you.	o chazan, que é um talmid chacham, um mekubal que estudou isso, cumpre a obrigação por você.
+286	And if you don't do this, then it's not good.	E se você não faz isso, então não é bom.
+287	It's not a proper tikkun; you need the tikkun as it is written in the books.	Não é um tikun correto; é preciso o tikun como está escrito nos livros.
+288	Abroad they have a problem there, the poor things, because there is a dispute among the mekubalim whether one has kavanot	No exterior eles têm um problema, coitados, porque há uma divergência entre os mekubalim sobre se se faz as kavanot
+289	abroad or does not have kavanot abroad.	fora de Israel ou se não se fazem fora de Israel.
+290	Therefore whoever wants the tikkun done properly, with the Rashash's signature on it, and the Ben Ish Chai's signature on it, and Rabbi Yehuda	Por isso, quem quer o tikun como deve ser, com a assinatura do Rashash, e a assinatura do Ben Ish Chai, e de Rabi Yehuda
+291	Fatiyah's signature on it, should come from abroad for the days of Shovavim here in Eretz Yisrael, to the Bukharim neighborhood.	Fatiyah, que venha do exterior para os dias de Shovavim aqui em Eretz Yisrael, ao bairro dos Bucharim.
+292	On the way he can also bring down a few knives here, bring them down, and do tikkunim	De passagem, pode também trazer alguns canivetes aqui, e fazer tikunim
+293	here in these neighborhoods, wherever it's been publicized, there are many announcements here for the Shovavim tikkunim,	aqui nestes bairros, onde foi divulgado, há muitos anúncios aqui sobre os tikunim de Shovavim,
+294	and then "shuv verafa lo."	e então "shuv verafa lo".
+295	How important is this?	Quão importante é isso?
+296	There are people... Rabbeinu Yosef Chaim, in Lashon Chachamim, tikkun 73, he doesn't bring	Há pessoas... Rabenu Yosef Chaim, em Lashon Chachamim, tikun 73, ele não traz
+297	there the kavanot of the Rashash; he writes, whoever doesn't have them, what should he do?	ali as kavanot do Rashash; ele escreve: quem não as tem, o que deve fazer?
+298	So he says a fast on the eve of Yom Kippur, and brings there nine immersions before it, and so on, and to read; all these	Então ele diz um jejum na véspera de Yom Kipur, e traz ali nove imersões antes disso, e assim por diante, e ler; tudo isso são
+299	are precious things.	coisas preciosas.
+300	You'll come to the World to Come, you'll say, "But what? Call the Ben Ish Chai to speak, sorry, forgive me, call the Ben	Você chegará ao Mundo Vindouro e dirá: "Mas como? Chamem o Ben Ish Chai para falar, desculpe, perdão, chamem o Ben
+301	Ish Chai to speak."	Ish Chai para falar."
+302	Did he say to do the tikkun, or didn't he say?	Ele disse para fazer o tikun, ou não disse?
+303	He said. So please, don't tell me the tikkun didn't work.	Disse. Então, por favor, não me digam que o tikun não funcionou.
+304	I did exactly, one to one, what the Ben Ish Chai wrote.	Fiz exatamente, ponto por ponto, o que o Ben Ish Chai escreveu.
+305	Who can open his mouth there?	Quem pode abrir a boca ali?
+306	The Ben Ish Chai too is the judge, the dayan, the ruler, the one who dispenses, Yosef.	O Ben Ish Chai também é o juiz, o dayan, o governante, o que distribui, Yosef.
+307	We once had a girl at the yeshiva, who came to our yeshiva	Uma vez tivemos na yeshivá uma moça, que veio à nossa yeshivá
+308	for Shabbat.	para o Shabat.
+309	Now, what do girls do at a yeshiva?	Bem, o que moças fazem numa yeshivá?
+310	So there is a rabbanit, and the rabbanit hosts them.	Há uma rabanit, e a rabanit as acomoda.
+311	I'm speaking of when I was still a yeshiva student, before...	Estou falando de quando eu ainda era aluno de yeshivá, antes...
+312	seventy years ago already, when I got there, to the yeshiva in Beit	setenta anos atrás já, quando cheguei lá, à yeshivá em Beit
+313	VeGan. So there is the Rosh Yeshiva's wife, she is there,	VeGan. Então há a esposa do Rosh Yeshivá, ela está lá,
+314	the rabbanit helps people, and the rabbi brings the men closer, Sarah converts the women,	a rabanit ajuda as pessoas, e o rabino aproxima os homens, Sará converte as mulheres,
+315	and so they receive the people, so there won't be chaos. And then what happened?	e assim recebem as pessoas, para que não haja caos. E então, o que aconteceu?
+316	One girl came to the yeshiva, she arrived there, completely secular,	Uma moça veio à yeshivá, chegou lá, totalmente secular,
+317	she was an officer in the army, in the guard unit, she was an officer, and she came on this Shabbat, took	era oficial no exército, na guarda, era oficial, e veio neste Shabat, tirou
+318	leave from the army, and came to the yeshiva.	licença do exército e veio à yeshivá.
+319	What brings a secular girl to a yeshiva?	O que leva uma moça secular a uma yeshivá?
+320	Then the rabbi asked her, and she told him, "That's my own business."	Então o rabino perguntou a ela, e ela disse: "Isso é assunto meu."
+321	He said, "I respect you. What you don't want to reveal, don't reveal."	Ele disse: "Eu a respeito. O que você não quer revelar, não revele."
+322	Now, in the yeshiva of Rabbi Tzvi Yosef Ben Porat, they don't eat	Ora, na yeshivá do Rabino Tzvi Yosef Ben Porat, não se come
+323	in the yeshiva on Friday night.	na yeshivá na noite de sexta-feira.
+324	So what do they do?	E o que fazem?
+325	Since these were baalei teshuvah, the rabbi wanted to show them how a	Como eram baalei teshuvá, o rabino queria mostrar a eles como se faz uma
+326	Shabbat table is kept, how rabbis honor their wives, how all of it works.	mesa de Shabat, como os rabinos honram suas esposas, como é tudo isso.
+327	So now, say that everything is glatt, but the rabbi was careful to send them to good families,	Então, digamos que tudo é glatt, mas o rabino tomava o cuidado de enviá-los a boas famílias,
+328	families where they'd see what rabbis are, what sages are, what religious people are.	famílias onde veriam o que são rabinos, o que são sábios, o que são religiosos.
+329	So now he sent her to one family, brought her there, on	Então ele a enviou a uma família, levou-a até lá, na rua
+330	Uziel Street.	Uziel.
+331	She went in there, on Uziel Street, to a family. A true story, I'm telling you what they told us in the yeshiva.	Ela entrou lá, na rua Uziel, em uma família. É uma história verdadeira, conto o que nos contaram na yeshivá.
+332	They took her in to a family, and she ate!	Receberam-na em uma família, e ela comeu!
+333	A Sephardic family. Why Sephardic?	Uma família sefaradita. Por que sefaradita?
+334	They served her gefilte fish, they served her Moroccan fish.	Serviram-lhe guefilte fish, serviram-lhe peixes marroquinos.
+335	They served her the food, and out of embarrassment she said, "I'll get up too and help clear the table."	Serviram-lhe a comida e, por constrangimento, ela disse: "Vou me levantar também para ajudar a tirar a mesa."
+336	She took the dishes, made a pile of dishes, like a tower, took it,	Pegou os pratos, fez uma pilha de pratos, como uma torre, pegou,
+337	and went to clear the dishes to the kitchen.	e foi levar a louça para a cozinha.
+338	Suddenly they hear, "Ahh!" A scream, and a crash!	De repente ouvem: "Ahh!" Um grito, e um estrondo!
+339	They fell, all the dishes broke.	Caíram, todos os pratos se quebraram.
+340	The lady of the house got up and said, "What happened?"	A dona da casa se levantou e disse: "O que aconteceu?"
+341	What happened?	O que aconteceu?
+342	She went to the kitchen, and they saw her lying fainted on the floor, with all the dishes.	Foi à cozinha e viram-na deitada desmaiada no chão, com toda a louça.
+343	They looked around, maybe there were mice here, but there are no mice here.	Procuraram, talvez houvesse ratos aqui, mas aqui não há ratos.
+344	What's wrong with her?	O que ela tem?
+345	What is she so afraid of?	Do que ela tem tanto medo?
+346	What's wrong with her?	O que ela tem?
+347	She had seen it, and didn't understand what happened to her.	Ela tinha visto aquilo e não entendia o que lhe acontecera.
+348	Nu.	Então.
+349	They lifted her legs, the lady of the house lifted her legs, sprinkled water on her, and she came to.	Levantaram-lhe as pernas, a dona da casa levantou-lhe as pernas, borrifou água nela, e ela voltou a si.
+350	Then they asked her, "What's wrong?"	Então perguntaram a ela: "O que você tem?"
+351	What did you see?	O que você viu?
+352	What demon?	Que demônio?
+353	She said, "I saw an angel."	Ela disse: "Vi um anjo."
+354	The lady said, "What angels do I have in my house?"	A dona da casa disse: "Que anjos eu tenho em casa?"
+355	"I have some seven angels of destruction."	"Eu tenho uns sete anjos destruidores."
+356	Where are they?	Onde estão eles?
+357	They went: Moishik, Makhlouf.	Foram: Moishik, Makhlouf.
+358	"Come here."	"Venham aqui."
+359	"These, did you see them?"	"Estes, você os viu?"
+360	She said, no, I saw something else.	Ela disse: não, vi outra coisa.
+361	The lady of the house asked her, with all the guests there, all of them impure, everyone was there.	A dona da casa perguntou a ela, com todos os convidados ali, todos eles impuros, todos estavam lá.
+362	What happened to you?	O que aconteceu com você?
+363	What did you do?	O que você fez?
+364	Then she saw in the kitchen a hanging picture of Rabbeinu Yosef Chaim, the Ben Ish Chai,	Então ela viu na cozinha uma foto pendurada de Rabeinu Yosef Chaim, o Ben Ish Chai,
+365	she saw the picture, and she told them, she revealed to them there, know that this week I,	ela viu a foto e disse a eles, revelou ali: saibam que esta semana eu,
+366	I died a clinical death, I went to my world this week, there was an accident in the army, I went to my world,	eu morri clinicamente, parti para o meu mundo esta semana, houve um acidente no exército, parti para o meu mundo,
+367	and I reached heaven, I'm telling you a first-hand source, she reached heaven	e cheguei ao céu, estou contando a vocês uma fonte de primeira mão, ela chegou ao céu
+368	and saw judges in heaven, and she says, I saw the...	e viu juízes no céu, e diz: vi o...
+369	Rabbah, there in the middle, pointing at the Ben Ish Chai, she doesn't even know what his name is, she never saw him	Rabá, ali no meio, apontando para o Ben Ish Chai; ela nem sabe como ele se chama, nunca o viu
+370	in her life.	na vida.
+371	And he was there and asked the beit din, let's return her soul to her body.	E ele estava ali e pediu ao tribunal: vamos devolver a alma dela ao corpo.
+372	And the beit din said no, and he said yes.	E o tribunal disse não, e ele disse sim.
+373	They said no, and he said, but I am the head of the beit din and I decree that she go down.	Disseram não, e ele disse: mas eu sou o presidente do tribunal e decreto que ela desça.
+374	And she went down to the body and they gave her another chance.	E ela desceu para o corpo e deram a ela mais uma chance.
+375	And she told this there at the yeshiva, and everyone found the matter wondrous.	E ela contou isso ali na yeshivá, e todos acharam o assunto maravilhoso.
+376	How can it be that the Ben Ish Chai is taken to heaven?	Como pode ser que o Ben Ish Chai seja levado ao céu?
+377	See what a merit she had, to see the Ben Ish Chai.	Veja que mérito ela teve, de ver o Ben Ish Chai.
+378	What, is there more than that?	O quê, há algo maior que isso?
+379	I know someone who died a clinical death at the yeshiva where I study, and he told that he saw the Ben Ish Chai in heaven,	Conheço alguém que morreu clinicamente na yeshivá onde estudo, e contou que viu o Ben Ish Chai no céu,
+380	and that was before he became religious, don't say conspiracies.	e isso foi antes de ele se tornar religioso; não venham falar de conspirações.
+381	He saw him, and he told him, you go down, sent him down again, and he said to him, but I ask you, Rabbi, I don't	Ele o viu, e o Ben Ish Chai disse: desça você; mandou-o descer de novo, e ele disse: mas eu lhe peço, Rabino, eu não
+382	know you, give me a blessing.	o conheço, dê-me uma bênção.
+383	And he gave him a blessing.	E ele lhe deu uma bênção.
+384	He received a blessing from the Ben Ish Chai after the Ben Ish Chai had passed away.	Recebeu uma bênção do Ben Ish Chai depois que o Ben Ish Chai já havia falecido.
+385	"Tzaddikim are greater in their death than in their lifetime," Tractate Chullin, page 7.	"Os tsadikim são maiores em sua morte do que em sua vida", tratado de Chulin, página 7.
+386	What a merit he had.	Que mérito ele teve.
+387	The true story was, my rosh yeshiva told us, about the Gaon Rav Shach, of blessed memory, who was	A história verdadeira foi o que meu rosh yeshivá nos contou, sobre o Gaon Rav Shach, que descanse em paz, que foi
+388	a great and holy genius, truly awesome.	um grande e santo gênio, realmente impressionante.
+389	And whoever knew him, his fear of Heaven was such that whoever came within four cubits of him could not have	E quem o conheceu sabe: o temor do Céu dele era tal que quem chegasse a quatro côvados dele não conseguiria ter
+390	thoughts of heresy, just to see what fear of Heaven he had.	pensamentos de heresia, só de ver o temor do Céu que ele tinha.
+391	Rav Shach was something awe-inspiring.	O Rav Shach era algo que causava assombro.
+392	If not for Rav Shach, it's doubtful that the Shas would even exist.	Se não fosse o Rav Shach, é duvidoso que o Shas sequer existisse.
+393	Why did Rav Ovadia ask for Rav Shach's blessing, and then, thanks to that blessing, the Rav said, come on,	Por que o Rav Ovadia pediu a bênção do Rav Shach, e então, graças a essa bênção, o Rav disse: vamos,
+394	let's open our own party of the Sephardim. Look, Rav Shach did not say that not all the religious will vote for us.	vamos abrir o nosso próprio partido dos sefaraditas. Vejam, o Rav Shach não disse que nem todos os religiosos votariam em nós.
+395	Did he have that honor?	Ele teve essa honra?
+396	Nothing. What did he do?	Nada. O que ele fez?
+397	He said, you want to open a party of the Sephardim, good for you, I bless you that you will also look after	Disse: vocês querem abrir um partido dos sefaraditas, que lhes faça bem, eu os abençoo para que também cuidem dos
+398	your interests. So they opened the party that was supposed to look after the interests	seus interesses. Então abriram o partido que deveria cuidar dos interesses
+399	of ours, or it does, or it doesn't, it doesn't matter.	nossos, ou cuida, ou não cuida, não importa.
+400	In any case, the idea here is that finally, Rav Shach once had an incident.	De qualquer forma, a ideia aqui é que, no fim das contas, com o Rav Shach uma vez houve um caso.
+401	The same story as I just told you about Rav Shach: there was a poor young woman who	A mesma história que acabei de contar sobre o Rav Shach: havia uma pobre moça que
+402	had to undergo brain surgery.	precisava passar por uma cirurgia no cérebro.
+403	And she came to the Rav and said to him, Rav, I have seven children, and if something happens to me in this surgery, who will raise	E ela veio ao Rav e disse: Rav, tenho sete filhos, e se algo acontecer comigo nesta cirurgia, quem vai criar
+404	them? I am afraid and I cannot postpone this surgery any longer. And Rav Shach said to her, know	eles? Tenho medo e não posso adiar mais esta cirurgia. E o Rav Shach lhe disse: saiba
+405	that I guarantee you that you will get up. She said to him, and if I don't get up? He said to her, but I said	que eu garanto a você que você vai se levantar. Ela disse: e se eu não me levantar? Ele disse: mas eu disse
+406	that you will get up. Go, a complete recovery. She went and died on the operating table.	que você vai se levantar. Vá, uma cura completa. Ela foi e morreu na mesa de cirurgia.
+407	And suddenly, after a few minutes, her heart started beating again after she had died, and the monitor showed	E de repente, depois de alguns minutos, o coração dela voltou a bater depois de ela ter morrido, e o monitor mostrava
+408	zero, no brain waves, no breathing, no heartbeat, nothing.	zero, sem ondas cerebrais, sem respiração, sem batimentos, nada.
+409	And when she got up and recited the Birkat HaGomel in the synagogue, she told that she saw in the Heavenly	E quando ela se levantou e fez a bênção Hagomel na sinagoga, contou que viu no tribunal
+410	court, Rav Shach entering the court from the side.	celeste o Rav Shach entrar no tribunal pela lateral.
+411	And after the court had decreed that she die, Rav Shach said to them, look, this was when he was alive,	E depois que o tribunal decretou que ela morresse, o Rav Shach disse a eles: vejam, isso foi quando ele estava vivo,
+412	and Rav Shach said to them, know that I was her guarantor, as "your servant became surety for the boy,"	e o Rav Shach disse a eles: saibam que eu fui fiador dela, pois "teu servo se fez fiador do jovem",
+413	I am a guarantor that this woman will be healthy.	eu sou fiador de que esta mulher será saudável.
+414	So I request, in the merit of the Torah, grant her that she raise her seven children in peace.	Então peço, pelo mérito da Torá, concedam-lhe que ela crie seus sete filhos em tranquilidade.
+415	And they revived her, the resurrection of the dead.	E devolveram-lhe a vida, a ressurreição dos mortos.
+416	And this is a true story, it happened a generation ago, half a generation.	E esta é uma história verdadeira, aconteceu há uma geração, meia geração.
+417	See what great Jewish leaders there were, such holy people.	Veja que grandes líderes de Israel houve, pessoas tão santas.
+418	One who fears Heaven, his words are heeded.	Quem teme o Céu, suas palavras são ouvidas.
+419	And this is what the Zohar says.	E isso é o que diz o Zohar.
+420	Rabbi Chizkiya said, I looked at all the levels of the World to Come, and I did not see anything higher than one who guards his covenant.	Disse Rabi Chizkiá: observei todos os níveis do Mundo Vindouro, e não vi nada mais elevado do que quem guarda sua aliança.
+421	Why one who guards his covenant? A situation came to his hand and his fear of Heaven stopped him.	Por que quem guarda sua aliança? Porque a situação chegou às suas mãos e o seu temor ao Céu o deteve.
+422	There are positive commandments and negative commandments. One who loves the Holy One, blessed be He, fulfills positive commandments:	Há mitsvot de fazer e mitsvot de não fazer. Quem ama o Santo, bendito seja Ele, cumpre mitsvot de fazer:
+423	he puts on tefillin, and he beautifies the tefillin because he loves the Holy One, blessed be He. One who loves the Holy One, blessed be He,	coloca tefilin, e embeleza os tefilin porque ama o Santo, bendito seja Ele. Quem ama o Santo, bendito seja Ele,
+424	beautifies the mitzvot. Kaf HaChaim, Tractate Shabbat, page 2.	embeleza as mitsvot. Kaf HaChaim, tratado Shabat, página 2.
+425	Tractate Nazir, page 21; Tractate Sukkah, page 33; Tractate Sukkah, in the Gemara,	Tratado Nazir, página 21; tratado Sucá, página 33; tratado Sucá, na Guemará,
+426	in the Jerusalem Talmud, Tractate Peah, page 3 side a in the old edition, 5 side a in the new edition.	no Talmud de Jerusalém, tratado Peá, página 3 lado a na edição antiga, 5 lado a na edição nova.
+427	"This is my God and I will glorify Him": beautify yourself before Him with mitzvot.	"Este é o meu Deus e eu o glorificarei": embeleza-te diante Dele com as mitsvot.
+428	The Chida writes, in Devarim Achadim, section Hei, entry 24, what is "ve'anveihu"?	O Chida escreve, em Devarim Achadim, seção Hê, item 24: o que é "ve'anveihu"?
+429	Beautify yourself before Him with mitzvot: that the mitzvot be dear to you, value them highly.	Embeleza-te diante Dele com as mitsvot: que as mitsvot sejam queridas a você, valorize-as.
+430	Take out of your money for the honor of HaShem's mitzvot; this shows that you love Him, as the Zohar says, Yitro, page	Gaste do seu dinheiro pela honra das mitsvot de HaShem; isso mostra que você O ama, como diz o Zohar, Yitro, página
+431	Tzaddikim, on the verse "Honor HaShem with your wealth," "me'onecha,"	Tsadikim, sobre o versículo "Honra HaShem com a tua riqueza", "me'onecha",
+432	"mimmonecha": that if you had money, spend especially on Chanukah candles.	"mimmonecha": que se você tinha dinheiro, gaste especialmente com as velas de Chanucá.
+433	Rav Shimon, where is the chanukiyah? Where? Did you bring it? Did you bring an expensive one this year? Usually every	Rav Shimon, onde está a chanukiá? Onde? Vocês a trouxeram? Trouxeram uma cara este ano? Normalmente todo
+434	year they bring some poor candles here, like this. Did you bring a nice one this time, or a nice	ano trazem aqui umas velas pobrezinhas, assim. Desta vez trouxeram uma bonita, ou uma bonita
+435	Chanukah candles, there is a mitzvah to beautify them more than anything.	vela de Chanucá? Há uma mitsvá de embelezá-las mais do que tudo.
+436	And why?	E por quê?
+437	The Rosh writes, and also the Rif, Tractate Shabbat, page 21, that Rav Ummana says,	O Rosh escreve, e também o Rif, tratado Shabat, página 21, que Rav Umaná diz:
+438	one who is careful with the candle will have children who are Torah scholars.	quem é zeloso com a vela terá filhos que são sábios da Torá.
+439	He did not say which candle.	Ele não disse qual vela.
+440	Now, if I were learning this passage according to its plain meaning, I would say: "one who is careful with the Shabbat candle."	Agora, se eu estivesse estudando esta passagem em seu sentido simples, eu diria: "quem é zeloso com a vela de Shabat".
+441	Which tractate are we dealing with?	Com qual tratado estamos lidando?
+442	Chanukah.	Chanucá.
+443	There is no tractate Chanukah.	Não existe um tratado Chanucá.
+444	In my Shut Sheli, Merkavot Argaman,	No meu livro Sheló, Merkavot Argaman,
+445	part 3, section 15, I examined why there is no tractate Chanukah, yet there is a tractate Megillah.	parte 3, simanim 15, examinei por que não há tratado Chanucá, mas há o tratado Meguilá.
+446	What happened that there is no Chanukah?	O que aconteceu para não haver Chanucá?
+447	There aren't even Mishnayot of Chanukah.	Não há nem mesmo Mishnayot de Chanucá.
+448	Chanukah is mentioned once in the Mishnah, in tractate Bava Kamma, which speaks of one who carried a camel	Chanucá é mencionada uma vez na Mishná, no tratado Bava Kamma, que fala de alguém que carregou o camelo
+449	and his flax caught fire from the Chanukah lights; he put it at the entrance, it doesn't matter.	e seu linho pegou fogo com as luzes de Chanucá; ele as pôs na entrada, não importa.
+450	But there is no tractate Chanukah. Why is there no Chanukah?	Mas não há tratado Chanucá. Por que não há Chanucá?
+451	So that is a question. Open it up; I brought several answers as to why there is no tractate Chanukah.	Então essa é uma pergunta. Abram; trouxe várias respostas para o motivo de não haver tratado Chanucá.
+452	There I analyzed at length, and at the end I also wrote an explanation in the way of Sod, on the piyut Maoz Tzur	Ali analisei longamente e, no final, escrevi também uma explicação pelo caminho do Sod, sobre o piyut Maoz Tsur
+453	Yeshuati.	Yeshuati.
+454	Open it and you will see there.	Abram e verão ali.
+455	And accordingly, the Gemara says, yes, in Shabbat 21, "What is Chanukah?"	E segundo isso, a Guemará diz, sim, em Shabat 21: "O que é Chanucá?"
+456	Page 21b. But there is no tractate Chanukah.	Página 21b. Mas não há tratado Chanucá.
+457	The Gemara speaks about Chanukah, but there is no special tractate for Chanukah.	A Guemará fala sobre Chanucá, mas não há um tratado especial para Chanucá.
+458	Why is there a tractate Megillah?	Por que há o tratado Meguilá?
+459	Then let there be a tractate Chanukah.	Então que haja um tratado Chanucá.
+460	And another question: why did they say tractate Megillah and not tractate Purim?	E outra pergunta: por que disseram tratado Meguilá e não tratado Purim?
+461	Let it be tractate Purim.	Que seja tratado Purim.
+462	The tractate Megillah does not speak only about the Megillah, it also speaks about Purim.	O tratado Meguilá não fala só da Meguilá, fala também de Purim.
+463	Well, when we get to Purim we will touch on this.	Bem, quando chegarmos a Purim, tocaremos nisso.
+464	Anyway, a question.	Enfim, uma pergunta.
+465	Now, in the end, what does it say?	Agora, afinal, o que ele diz?
+466	There are books on Chanukah, but I'm speaking of tractates: Rabbi arranged the Mishnayot, why did he not arrange Mishnayot of Chanukah?	Há livros sobre Chanucá, mas falo de tratados: Rabi organizou as Mishnayot, por que não organizou Mishnayot de Chanucá?
+467	Not Mishnayot of Chanukah, just as there are no Mishnayot of Purim, there are Mishnayot of Megillah; so let there be Mishnayot of Chanukah, what is	Não Mishnayot de Chanucá, assim como não há Mishnayot de Purim, há Mishnayot de Meguilá; então que haja Mishnayot de Chanucá, qual é
+468	the problem?	o problema?
+469	Truly a question.	Realmente uma pergunta.
+470	In any case, what we learned is that one must beautify the Chanukah candles.	Seja como for, o que aprendemos é que é preciso embelezar as velas de Chanucá.
+471	I would say that when the Gemara says, Rav Huna said, page 23, tractate Shabbat, "One who is careful	Eu diria que, quando a Guemará diz: disse Rav Huna, página 23, tratado Shabat, "Quem é zeloso
+472	with the candle will have sons who are Torah scholars."	com a vela terá filhos que são talmidei chachamim."
+473	Which tractate are we dealing with?	Com qual tratado estamos lidando?
+474	Tractate Shabbat.	O tratado Shabat.
+475	Which candle is Rav Huna speaking about?	De qual vela Rav Huna fala?
+476	The Shabbat candle.	A vela de Shabat.
+477	So he should have said, Rav Huna said, "One who is careful with the Shabbat candle will have sons who are Torah scholars."	Então deveria ter dito: disse Rav Huna, "Quem é zeloso com a vela de Shabat terá filhos que são talmidei chachamim."
+478	And he does not say that.	E ele não diz isso.
+479	He says, "One who is careful with the candle."	Ele diz: "Quem é zeloso com a vela."
+480	He doesn't say the Shabbat lamp.	Ele não diz a vela de Shabat.
+481	The Rif writes, "One who is careful with the Shabbat lamp and the Chanukah lamp will have sons who are Torah	O Rif escreve: "Quem é cuidadoso com a vela de Shabat e com a vela de Chanucá terá filhos que são
+482	scholars."	eruditos na Torá."
+483	The Rosh writes, "One who is careful with the Chanukah lamp will have sons who are Torah scholars"; he doesn't even mention	O Rosh escreve: "Quem é cuidadoso com a vela de Chanucá terá filhos eruditos na Torá"; ele nem sequer menciona
+484	Shabbat.	o Shabat.
+485	And see what a merit the Chanukah lamp had, that one had to beautify it.	E veja que mérito tinha a vela de Chanucá, que era preciso embelezá-la.
+486	A person who loves the Holy One, blessed be He, beautifies the mitzvot.	Quem ama o Santo, Bendito seja Ele, embeleza as mitsvot.
+487	I have a long responsum on this, in part one, siman one, in Or HaChaim.	Tenho uma longa responsa sobre isso, na parte um, simán um, em Or HaChaim.
+488	I also gave a class on it last week at Maaleh Adumim, just on hidur mitzvah.	Também dei uma aula sobre isso semana passada em Maalé Adumim, só sobre o embelezamento da mitsvá.
+489	How much a person must beautify a mitzvah.	O quanto a pessoa deve embelezar a mitsvá.
+490	Like Rabban Gamliel, on page 41a, tractate Sukkah, the Gemara tells that the story happened	Como Rabban Gamliel, na página 41a, no tratado de Sucá, a Guemará conta que o episódio aconteceu
+491	with Rabbi Yehoshua, Rabban Gamliel, Rabbi Akiva, and Rabbi Elazar ben Azariah, who were traveling and…	com Rabi Yehoshua, Rabban Gamliel, Rabi Akiva e Rabi Elazar ben Azariá, que viajavam e…
+492	he bought it for a thousand zuz and passed it to Rabbi Yehoshua, who shook it and passed it	ele o comprou por mil zuz e o passou a Rabi Yehoshua, que o sacudiu e o passou
+493	to Rabbi Akiva, who shook it and passed it on, and they all shook it and fulfilled their obligation, with the condition that it be returned	a Rabi Akiva, que o sacudiu e o passou adiante, e todos o sacudiram e cumpriram a obrigação, com a condição de devolvê-lo
+494	as a gift, from which we learn that, although the Torah teaches a novelty regarding the lulav that doesn't apply	como presente, e daí se aprende que, embora a Torá ensine uma novidade quanto ao lulav que não existe
+495	to tefillin or matzah: "And you shall take for yourselves" (lachem), "for yourselves," from your own, regarding the lulav. Regarding tefillin it isn't written	nos tefilin nem na matsá: "E tomareis para vós" (lachem), "para vós", do que é vosso, no lulav. Nos tefilin não está escrito
+496	"lachem." Regarding tzitzit it isn't written "lachem." I can fulfill the obligation with borrowed tzitzit, but with a lulav there's no such thing as fulfilling it	"lachem." Nos tsitsit não está escrito "lachem." Posso cumprir com tsitsit emprestado, mas com o lulav não existe cumprir
+497	with a borrowed lulav. A borrowed lulav is invalid; it is written "lachem."	com lulav emprestado. Lulav emprestado é inválido; está escrito "lachem."
+498	And from this story we learned about a gift on condition to return it: "Learn that this is a gift."	E dessa história aprendemos sobre um presente com a condição de devolvê-lo: "Aprende-se que é um presente."
+499	The Gemara says, fine, but why does it come to tell me that he bought it for a thousand zuz?	Diz a Guemará: está bem, mas por que vem me contar que ele o comprou por mil zuz?
+500	To tell you how dear the mitzvot were to them, that he spent a thousand zuz on	Para te dizer quão queridas as mitsvot eram para eles, que ele gastou mil zuz em
+501	a lulav.	um lulav.
+502	A thousand zuz on a lulav.	Mil zuz em um lulav.
+503	That's an enormous sum.	É uma quantia enorme.
+504	An enormous sum, and it's not for tefillin, which last for many days; it's a lulav. After a week, what do you do	Uma quantia enorme, e não é por tefilin, que duram muitos dias; é um lulav. Depois de uma semana, o que se faz
+505	with it?	com ele?
+506	With the lulav, you put it above the door. They say it's against thieves; so they say, that to thieves it looks	Com o lulav, coloca-se acima da porta. Dizem que é contra ladrões; assim dizem, que para os ladrões ele parece
+507	like a sword. And then the etrog is brought to a pregnant woman to bite the pitam; the Kaf HaChaim writes that it's a remedy	uma espada. E depois o etrog é levado a uma grávida para morder o pitam; o Kaf HaChaim escreve que é um remédio
+508	for an easy birth. The aravot you put in your pockets; they say it's protection from thieves. And the hadassim,	para um parto fácil. As aravot, colocam-se nos bolsos; dizem que é proteção contra ladrões. E os hadassim,
+509	some say, for a person who can't speak. There was someone here who told me that his grandson doesn't speak.	alguns dizem, são para quem não consegue falar. Esteve aqui alguém que me contou que o neto dele não fala.
+510	He can't speak.	Ele não consegue falar.
+511	I told him, take the aravot, since the aravah resembles lips.	Eu lhe disse: pegue as aravot, pois a arava se parece com lábios.
+512	Take the aravot, put them in tea, prepare it for him to drink, and he'll drink and speak.	Pegue as aravot, ponha num chá, prepare para ele beber, e ele beberá e falará.
+513	He still hasn't told me yet what happened, whether he spoke or not.	Ele ainda não me contou o que aconteceu, se falou ou não falou.
+514	He said to me, but what is certain is that my wife surely drank some of it.	Ele me disse: mas o que é certo é que minha esposa com certeza bebeu disso.
+515	Why won't she stop talking?	Por que ela não para de falar?
+516	So that's how it will be.	Então é isso que vai acontecer.
+517	In any case, a person who loves the Holy One, blessed be He, what does he do?	Seja como for, a pessoa que ama o Santo, Bendito seja Ele, o que faz?
+518	He beautifies the mitzvot, he does mitzvot.	Embeleza as mitsvot, pratica mitsvot.
+519	A person who fears the Holy One, blessed be He, what does he do?	A pessoa que teme o Santo, Bendito seja Ele, o que faz?
+520	He distances himself from the prohibitions.	Ele se afasta das proibições.
+521	"I fear Elokim: do this and live."	"Eu temo Elokim: façam isto e vivam."
+522	"He has withheld nothing from me except you, since you are his wife."	"Ele não me negou nada, exceto a ti, porque és sua mulher."
+523	"How then could I do this great evil and sin against Elokim?"	"Como então poderia eu fazer este grande mal e pecar contra Elokim?"
+524	Yosef the tzaddik always feared Heaven.	Yosef, o tsadik, sempre foi temente aos Céus.
+525	With Avraham it is written, "Now I know that you fear Elokim."	Sobre Avraham está escrito: "Agora sei que temes a Elokim."
+526	But what is this fear of Elokim?	Mas o que é esse temor a Elokim?
+527	He used to love HaShem.	Ele já amava HaShem.
+528	After all, that is a positive commandment. What is "Take your son"?	Afinal, isso é uma mitsvá positiva. O que é "Toma teu filho"?
+529	A positive commandment. We said a positive commandment comes from one who loves HaShem.	Uma mitsvá positiva. Dissemos que a mitsvá positiva vem de quem ama HaShem.
+530	It comes to teach you that Avraham Avinu, peace be upon him, also feared. That is the novelty.	Vem ensinar que Avraham Avinu, que descanse em paz, também temia. Essa é a novidade.
+531	That he loves HaShem, the man of chesed, is no novelty. Of course Avraham loves.	Que ele ame HaShem, o homem do chesed, não é novidade. É claro que Avraham ama.
+532	The novelty is "Now I know that you fear Elokim": you don't only love Me, you also fear Me.	A novidade é "agora sei que temes a Elokim": não só Me amas, também Me temes.
+533	And that is why, says the Zohar, He calls him twice: "Avraham, Avraham."	E por isso, diz o Zohar, Ele o chama duas vezes: "Avraham, Avraham."
+534	The first Avraham:	O primeiro Avraham:
+535	he loves HaShem, chesed within chesed.	ama HaShem, chesed dentro do chesed.
+536	The second Avraham: gevurah within chesed.	O segundo Avraham: gevurá dentro do chesed.
+537	He grew into the attribute of judgment, and that is what Yitzchak says to him.	Ele chegou à medida do julgamento, e é isso que Yitzchak lhe diz.
+538	"Father," and he says, "Here I am, my son." The Zohar expounds: I am beginning to be the attribute of judgment, like my son.	"Pai", e ele diz: "Aqui estou, meu filho." O Zohar explica: estou começando a ser a medida do julgamento, como meu filho.
+539	I too am beginning to be the attribute of judgment, and therefore HaShem loves Avraham Avinu. And after that Yitzchak, Yitzchak too	Eu também estou começando a ser a medida do julgamento, e por isso HaShem ama Avraham Avinu. E depois Yitzchak, Yitzchak também
+540	was gevurah within gevurah, and then he sweetened himself through his father's acts of chesed. "And Avraham gave all that he had	foi gevurá dentro da gevurá, e então se adoçou pelos chasadim de seu pai. "E Avraham deu tudo o que tinha
+541	to Yitzchak." What did he give him?	a Yitzchak." O que ele lhe deu?
+542	He gave him the attribute of chesed. Yitzchak at first was pure gevurah, and became chesed within gevurah.	Deu-lhe a medida do chesed. No início Yitzchak era só gevurá, e passou a ser chesed dentro da gevurá.
+543	He was sweetened too, until Yaakov Avinu came, the chosen of the Patriarchs, and he was also Tiferet, which is the line	Também ele se adoçou, até que veio Yaakov Avinu, o escolhido dos patriarcas, que era também Tiferet, a linha
+544	of the right, the one who decided between them. So you see that someone who is a fearer of	da direita, aquele que decidiu entre os dois. Então vejam que alguém que é temente aos
+545	Heaven guards his brit milah.	Céus guarda a sua brit milá.
+546	Yosef the tzaddik, in what merit did he merit to rule over the land of Egypt, to be the provider?	Yosef, o tsadik, por qual mérito mereceu governar a terra do Egito, ser o provedor?
+547	In what merit?	Por qual mérito?
+548	In the merit that he guarded his covenant, that he was a fearer of Heaven.	Pelo mérito de ter guardado a sua aliança, de ter sido temente aos Céus.
+549	And this is what the Midrash says. Rabi Yishmael taught: "The sea saw and fled, the Jordan turned back."	E é isso que diz o Midrash. Rabi Yishmael ensinou: "O mar viu e fugiu, o Jordão voltou atrás."
+550	Rabi Yishmael asks: what did the sea see?	Rabi Yishmael pergunta: o que o mar viu?
+551	It saw the coffin of Yosef. So says the Gemara in Sotah.	Viu o caixão de Yosef. Assim diz a Guemará em Sotá.
+552	What is the connection of Yosef's coffin, that the sea saw it?	Qual a relação do caixão de Yosef, para que o mar o visse?
+553	Why did it not see Bnei Yisrael, the sons of Avraham, Yitzchak and Yaakov?	Por que não viu Bnei Yisrael, os filhos de Avraham, Yitzchak e Yaakov?
+554	What did it see?	O que viu?
+555	The coffin of Yosef.	O caixão de Yosef.
+556	It is that Yosef the tzaddik was above nature.	É que Yosef, o tsadik, estava acima da natureza.
+557	Every day she tried to entice him. I spoke about this at length last week: Potiphar's wife enticed him to sin, and he did not	Todos os dias ela o seduzia. Falei sobre isso longamente semana passada: a mulher de Potifar o seduzia para o pecado, e ele não
+558	fall into her hands.	caiu em suas mãos.
+559	"And she spoke to Yosef day after day."	"E ela falava a Yosef dia após dia."
+560	She did not listen to her, to lie with her, to be with her.	Ele não deu ouvidos a ela, para deitar-se com ela, para estar com ela.
+561	He did not listen to her, and the sea split.	Ele não lhe deu ouvidos, e o mar se abriu.
+562	Why?	Por quê?
+563	Because Yosef was above nature.	Porque Yosef estava acima da natureza.
+564	So it is fitting that for one who is above nature, the sea also be split above nature, for one who is above nature.	Então é justo que, para quem está acima da natureza, o mar se abra também acima da natureza, para quem está acima da natureza.
+565	And so all the commentators write, and Chacham Ovadia also brought this in his commentary Maor Yisrael on Tractate Chagigah,	E assim escrevem todos os comentaristas, e o Chacham Ovadia também trouxe isso em seu comentário Maor Yisrael sobre o tratado de Chaguigá,
+566	where he writes that whoever goes, page 15, whoever goes in the way of HaShem,	onde ele escreve que quem for, folha 15, quem for pelo caminho de HaShem,
+567	HaShem will lead him with great wonders above nature. Whoever is	HaShem o conduzirá com grandes maravilhas acima da natureza. Quem for
+568	a pure servant of HaShem, no calculations, no "now I'm doing this so that it will be read, this is for the elevation of the soul,	um servo puro de HaShem, sem cálculos, sem "agora estou fazendo isto para que seja lido, isto é para a elevação da alma,
+569	this is for success, this is so that things go well for me, this is so that they won't tell me off, this is for atonement of sins."	isto é para o sucesso, isto é para que as coisas deem certo para mim, isto é para que não me critiquem, isto é para a expiação de pecados."
+570	No, a pure servant of HaShem, walking straight with HaShem, HaShem will overturn the systems	Não, um servo puro de HaShem, que anda direto com HaShem, HaShem derrubará os sistemas
+571	of nature to help him be His servant.	da natureza para ajudá-lo a ser o Seu servo.
+572	For whoever is a servant of the Holy One, blessed be He, with all his strength, with all his power, you will see how the Holy One, blessed	Pois quem for servo do Santo, bendito seja Ele, com toda a sua força, com todo o seu poder, vocês verão como o Santo, bendito
+573	be He, arranges everything: his enemies fall beneath him, He brings him livelihood, arranges everything for him, because you are HaShem's servant, so	seja Ele, arruma tudo: seus inimigos caem debaixo dele, Ele lhe traz sustento, arruma tudo para ele, porque você é servo de HaShem, então
+574	HaShem backs you up.	HaShem te dá respaldo.
+575	This is what the Zohar writes there.	Isso é o que o Zohar escreve ali.
+576	So what did Yosef the ruler merit? "The sea saw and fled" — why did the sea flee?	Então o que mereceu Yosef, o governante? "O mar viu e fugiu" — por que o mar fugiu?
+577	Because Yosef fled in this way from Potiphar's wife.	Porque Yosef fugiu assim da mulher de Potifar.
+578	"And he fled and went outside" — about this it says "the sea saw and fled."	"E fugiu e saiu para fora" — sobre isso está dito "o mar viu e fugiu".
+579	Since he fled, the sea also fled before him,	Como ele fugiu, o mar também fugiu diante dele,
+580	the sea being the attribute of strict judgment.	sendo o mar a medida do rigor.
+581	And this is "Yosef was the ruler over the land." Even though he was a ruler, what is "ruler over the land"?	E isto é "Yosef era o governante sobre a terra". Ainda que fosse governante, o que quer dizer "governante sobre a terra"?
+582	There is a person, they make him some rabbi, and he feels himself above everyone.	Há uma pessoa que fazem rabino, e ela se sente superior a todos.
+583	He forgot where he came from, forgot where he arrived from, forgot that everything he has is only thanks to the one who helped him,	Esqueceu de onde veio, esqueceu de onde chegou, esqueceu que tudo o que tem é só graças àquele que o ajudou,
+584	the one who helped him, or the family pedigree he has, or the one who got him in, or those	àquele que o ajudou, ou à linhagem familiar que tem, ou àquele que o colocou ali, ou àqueles
+585	who voted for him. He forgot where he came from.	que votaram nele. Esqueceu de onde veio.
+586	Suddenly he becomes arrogant, you don't see him at all.	De repente fica arrogante, você nem o vê mais.
+587	Or a person wins the lottery, suddenly you see him, he has forgotten himself, his friends.	Ou uma pessoa ganha na loteria, de repente você o vê, ele esqueceu de si mesmo, de seus amigos.
+588	Where?	Onde?
+589	Wasn't there a story like this?	Não houve uma história assim?
+590	About someone who once had rich friends like himself,	Sobre alguém que uma vez teve amigos ricos como ele,
+591	and they came and laughed with him and threw parties with him and everything. One day he lost his fortune, the wheel turns in the world,	e eles vinham, riam com ele e faziam festas com ele e tudo. Um dia ele perdeu seus bens, a roda gira no mundo,
+592	he lost all his assets and they no longer came to visit him, nor to go out with him, nor came to visit him	perdeu todos os seus bens e eles já não vinham visitá-lo, nem sair com ele, nem vinham visitá-lo
+593	and ask after his well-being. And the wheel turned in the world, the Holy One, blessed be He, raised him up again,	e perguntar como ele estava. E a roda girou no mundo, o Santo, bendito seja Ele, o elevou de novo,
+594	and he became very, very rich, and all his friends came back. He left the safe for them downstairs	e ele ficou muito, muito rico, e todos os seus amigos voltaram. Deixou o cofre para eles lá embaixo
+595	in the living room, and stayed in the room upstairs.	na sala, e ficou no quarto de cima.
+596	They called him, said to him, "What, we came to visit you?	Chamaram-no, disseram-lhe: "O que é isso, viemos te visitar?
+597	We heard you made an exit — they call it that today, 'made an exit' — you have money now."	Ouvimos que você fez uma saída — hoje chamam assim, 'fez uma saída' — agora você tem dinheiro."
+598	He said to them, "You didn't come for me. Did you come for me?	Disse-lhes: "Vocês não vieram por mim. Vieram por mim?
+599	You came for my money, so here it is, downstairs, there, in the safe. What did you come to me for?"	Vieram pelo meu dinheiro, então aí está, lá embaixo, no cofre. Para que vieram a mim?"
+600	You don't want me, you only want the money. You honor me because of the money.	Vocês não me querem, só querem o dinheiro. É por causa do dinheiro que vocês me honram.
+601	This is a man whom HaShem raised up, and suddenly he lifts his head over others. The Holy One,	É um homem que HaShem elevou, e de repente ele levanta a cabeça sobre os outros. O Santo,
+602	blessed be He, takes his head and throws him back down.	Bendito seja, pega a cabeça dele e o derruba de volta.
+603	And if He doesn't bring him down in this gilgul, He'll bring him down in the next gilgul.	E se não o fizer descer neste gilgul, fará descer no gilgul seguinte.
+604	His term here hasn't ended at all.	O mandato dele aqui não terminou de forma alguma.
+605	Because that is what the Holy One, blessed be He, says: whoever is arrogant. If they appointed him...	Pois é isso que o Santo, Bendito seja, diz: todo aquele que se orgulha. Se o nomearam...
+606	over the community, the Gemara says, Pesachim, page 66: if he is a sage, his wisdom departs from him; if he is a prophet,	líder da comunidade, diz a Guemará, Pesachim, folha 66: se é sábio, sua sabedoria se afasta dele; se é profeta,
+607	his prophecy departs from him. Prophet, we learn from Devorah: "Awake, awake, Devorah, awake, awake, utter a song." And if he is a sage,	sua profecia se afasta dele. Profeta, aprendemos de Devorá: "Desperta, desperta, Devorá, desperta, desperta, entoa um cântico." E se é sábio,
+608	we learn from Hillel the Babylonian, who was arrogant toward them. He told them: What caused this? I came up from Babylon, and it is your fault,	aprendemos de Hilel, o Babilônico, que se orgulhou diante deles. Disse-lhes: O que causou isso? Eu subi da Babilônia, e a falha é de vocês,
+609	that you did not serve the great ones of the generation, Shemaya and Avtalyon. Immediately they asked him about a knife on Shabbat on Pesach,	que não serviram os grandes da geração, Shemaya e Avtalyon. De imediato lhe perguntaram sobre uma faca no Shabat, na véspera de Pêssach,
+610	and the halachah was hidden from him. Why? Because he was arrogant toward them. The halachah was forgotten from him, and the same	e a halachá lhe ficou oculta. Por quê? Porque se orgulhou diante deles. A halachá foi esquecida por ele, e o mesmo
+611	applies if he is a prophet. Devorah became arrogant, she said: "Until I arose, Devorah, until I arose, a mother in Israel,"	vale se é profeta. Devorá se orgulhou, disse: "Até que eu me levantei, Devorá, até que me levantei, mãe em Israel,"
+612	and immediately "Awake, awake, Devorah" — the prophecy departed from her.	e de imediato "Desperta, desperta, Devorá" — a profecia se afastou dela.
+613	Therefore, someone who is arrogant forgets where he came from, forgets that he was some	Por isso, quem se orgulha esquece de onde veio, esquece que era um
+614	nothing, a nobody.	zero à esquerda, ninguém.
+615	The Holy One, blessed be He, raised him up, to be a great rabbi, a great sage, a great rich man, to be... he forgot	O Santo, Bendito seja, o elevou, para ser um grande rabino, um grande sábio, um grande rico, para ser... ele se esqueceu
+616	himself, and the Holy One, blessed be He, brings him back down.	de si mesmo, e o Santo, Bendito seja, o faz descer de volta.
+617	And this is what is written: "And Yosef was the ruler over the land." Even though he was a ruler, over the land.	E é isto que está escrito: "E Yosef era o governante da terra." Embora fosse governante, sobre a terra.
+618	His feet were on the ground; he didn't forget where he came from.	Seus pés estavam no chão; ele não esqueceu de onde veio.
+619	And this is what they said to Avraham Avinu: "You are a prince of Elokim among us."	E é isto que disseram a Avraham Avinu: "Tu és um príncipe de Elokim no meio de nós."
+620	Even though you are a prince of Elokim, you are great, but you are among us, one of us, you don't feel anything special about yourself.	Embora sejas um príncipe de Elokim, és grande, mas estás entre nós, um de nós, não sentes nada de especial a teu respeito.
+621	How many times have I told about Rav Ben Tzion Abba Shaul, who used to walk here, in these neighborhoods, he lived here,	Quantas vezes contei sobre o Rav Ben Tzion Abba Shaul, que andava por aqui, nestes bairros, ele morava aqui,
+622	he would walk here on Friday after Kiddush without a hat, without a jacket, only in his shirt, going over the whole	andava aqui na sexta-feira depois do Kidush sem chapéu, sem paletó, só com a camisa, e repassando todo o
+623	Shas and reciting it, and you would see him and not believe he was the gadol hador, you wouldn't believe he was one of the greats of the	Shas e recitando, e você o via e não acreditava que era o gadol hador, não acreditava que era um dos grandes da
+624	generation, nothing. He would just walk along like that, analyzing and all, and you'd see him here going through	geração, nada. Ele ia assim, discutindo e tudo, e você o via aqui repassando
+625	the whole Shas. He made a circuit of all of Geulah, Beit Yisrael, the Bukharim, a circuit of everything, finished the tractate they were learning.	todo o Shas. Fazia um percurso por Geulá, Beit Yisrael, Bucharim, um percurso por tudo, terminava o tratado que estudavam.
+626	What does he write in Zichron Tzion, in his book? That he and Chacham Ovadia were chavruta, and they would	O que ele escreve em Zichron Tsion, no seu livro? Que ele e o Chacham Ovadia eram chavruta, e eles
+627	walk from here, from these neighborhoods, to Porat Yosef in the Old City, on foot.	iam daqui, destes bairros, até Porat Yosef na Cidade Velha, a pé.
+628	He says: I and Chacham Ovadia, the whole way, we would go over by heart the sugya we had learned the day before in the Gemara.	Ele diz: eu e o Chacham Ovadia, o caminho todo, repassávamos de cabeça a sugiá que tínhamos estudado no dia anterior na Guemará.
+629	He says, what is the difference between me and him?	Ele diz: qual é a diferença entre mim e ele?
+630	That he would remember the names of the sages too, and I didn't remember the names of the sages.	Que ele se lembrava também dos nomes dos sábios, e eu não me lembrava dos nomes dos sábios.
+631	He would say, Rav Chisda says, Rav Huna says, Rabbi Akiva says, Rabbi says.	Ele dizia: Rav Chisdá diz, Rav Huna diz, Rabi Akiva diz, Rabi diz.
+632	And I would say, there is one who says this, there is one who says that.	E eu dizia: há quem diga assim, há quem diga assado.
+633	And that was the difference between us.	E essa era a diferença entre nós.
+634	And how many tried to scheme against both of them, and they, both gedolei hador, Yissachar and Zevulun.	E quantos tentaram prejudicar os dois, e eles, ambos gedolei hador, Yissachar e Zevulun.
+635	They were like Yissachar and Zevulun.	Eram como Yissachar e Zevulun.
+636	Great ones of Israel, both of them Yissacharim, both great ones of Israel.	Grandes de Israel, ambos Yissacharim, ambos grandes de Israel.
+637	And they merited crown and greatness in one place.	E mereceram coroa e grandeza num só lugar.
+638	What do you say, Shammai?	O que você diz, Shamai?
+639	Wait, what, are you saying Yosef would punch the wife of…	Espera, o quê, você está dizendo que Yosef daria um soco na esposa de…
+640	Potiphar's wife?	A mulher de Potifar?
+641	Yosef would punch Potiphar's wife.	Yosef daria um soco na mulher de Potifar.
+642	Good thing you didn't say the soldiers would punch those terrorist women who provoke them.	Ainda bem que você não disse que os soldados dariam um soco naquelas terroristas que os provocam.
+643	It's forbidden to do that, gentlemen. No way. And what if she doesn't recognize you?	É proibido fazer isso, senhores. Nem pensar. E se ela não te reconhecer?
+644	You want him to punch Potiphar's wife?	Você quer que ele dê um soco na mulher de Potifar?
+645	What did she want?	O que ela queria?
+646	She didn't want to provoke him.	Ela não queria provocá-lo.
+647	She wanted to make him fall into a transgression, because she wanted a transgression.	Ela queria fazê-lo cair em uma transgressão, porque ela queria a transgressão.
+648	She had no interest. It's not like the terrorist women here who provoke the soldiers.	Ela não tinha outro interesse. Não é como as terroristas daqui que provocam os soldados.
+649	Those too should get one punch.	Essas também deviam levar um soco.
+650	Anyway, the bottom line, Shammai, is: no violence.	De qualquer forma, o resultado, Shamai, é: sem violência.
+651	No violence toward Potiphar's wife. And you asked this same question last year, so last year he already punched her,	Sem violência com a mulher de Potifar. E você fez essa mesma pergunta no ano passado, então no ano passado ele já deu um soco nela,
+652	so what do you want, another year?	então o que você quer, mais um ano?
+653	A punch every year?	Um soco todo ano?
+654	Moshe, what do you say?	Moshe, o que você diz?
+655	Right, that's what I said earlier.	Isso mesmo, foi o que eu disse agora há pouco.
+656	Ah, very nice, you deserve a commendation.	Ah, muito bem, você merece um elogio.
+657	Anyway, afterward I have a question on the Parashah, where it is written,	De qualquer forma, depois tenho uma pergunta sobre a Parashá, em que está escrito,
+658	that the brothers, at the end of the previous Parashah, came and said to him, what is this?	que os irmãos, no final da Parashá anterior, vieram e disseram a ele: o que é isso?
+659	Why do you accuse us of stealing?	Por que você nos acusa de roubar?
+660	What is this?	O que é isso?
+661	"He overtook them and spoke these words to them: 'Why have you done this evil?'"	"Ele os alcançou e lhes disse estas palavras: 'Por que fizestes este mal?'"
+662	They said to him, "Why does my lord speak such words?	Eles lhe disseram: "Por que meu senhor fala tais palavras?
+663	Far be it from your servants to do such a thing.	Longe de teus servos fazerem tal coisa.
+664	The money we found in the mouths of our sacks we brought back to you from the land of Canaan.	O dinheiro que achamos na boca de nossos sacos, nós o trouxemos de volta a ti da terra de Canaã.
+665	So how would we steal silver or gold from your master's house?	Como então furtaríamos prata ou ouro da casa de teu senhor?
+666	Whichever of your servants it is found with,	Aquele de teus servos com quem for achado,
+667	shall die,	morrerá,
+668	and we also will be slaves to my lord."	e nós também seremos escravos de meu senhor."
+669	They put out of their mouths that whoever the goblet is found with shall die.	Eles pronunciaram com a própria boca que aquele com quem o cálice fosse achado morreria.
+670	Now we learned in the Gemara, in Moed Katan 18a, that a covenant is made with the lips. Yaakov Avinu,	Agora aprendemos na Guemará, em Moed Katan 18a, que há uma aliança feita com os lábios. Yaakov Avinu,
+671	said regarding the wicked Lavan, what did he say?	disse a respeito do perverso Lavan, o que ele disse?
+672	"With whomever you find your gods, he shall die." So it is written: "With whomever you find	"Aquele com quem achares teus deuses, morrerá." Assim está escrito: "Aquele com quem achares
+673	your gods shall not live." That is the wording there, and on this the Zohar says: Rachel died.	teus deuses não viverá." Essa é a expressão ali, e sobre isso o Zohar diz: Rachel morreu.
+674	Why?	Por quê?
+675	Because a covenant is made with the lips: "Yaakov did not know that Rachel had stolen them." According to this, a question:	Porque há uma aliança feita com os lábios: "Yaakov não sabia que Rachel os havia roubado." Segundo isso, uma pergunta:
+676	Why, when Yaakov uttered from his mouth a covenant of the lips, did Rachel die?	Por que, quando Yaakov pronunciou com a boca uma aliança dos lábios, Rachel morreu?
+677	Because in truth, she did steal them.	Porque, na verdade, ela de fato os roubou.
+678	In contrast, here, where the brothers uttered from their mouths that whoever the goblet is found in his hand	Em contraste, aqui, onde os irmãos pronunciaram com a boca que aquele em cuja mão o cálice fosse achado
+679	shall die, Binyamin did not die.	morreria, Binyamin não morreu.
+680	What is the difference?	Qual é a diferença?
+681	Okay, but "a covenant cut for the lips."	Certo, mas "uma aliança cortada para os lábios".
+682	He said, he said: "With whichever of your servants it is found, he shall die."	Ele disse, ele disse: "Aquele de teus servos com quem for encontrado, morrerá."
+683	Last year I wanted to say that he truly did not steal.	No ano passado quis dizer que ele realmente não roubou.
+684	When does "a covenant cut for the lips" apply?	Quando vale a "aliança cortada para os lábios"?
+685	Only when the matter is actually true.	Só quando a coisa é realmente verdadeira.
+686	So "a covenant cut for the lips," and he dies.	Então, "aliança cortada para os lábios", e ele morre.
+687	But if it isn't true, then there is no covenant cut for the lips.	Mas se não é verdade, então não há aliança cortada para os lábios.
+688	It's a bit difficult, but let's say so.	É um pouco difícil, mas digamos assim.
+689	A second answer that I said: "with whom it is found, of your servants,	Uma segunda resposta que eu disse: "com quem for encontrado, dos teus servos,
+690	and he shall die" — if the goblet is with one of your servants,	e morrerá" — se o cálice estiver com um dos teus servos,
+691	then let him die.	que ele morra.
+692	That is, he was wise.	Quer dizer, ele foi sábio.
+693	When they said this, it doesn't say which of the brothers said it.	Quando disseram isso, não está escrito qual dos irmãos falou.
+694	Maybe Yehuda, maybe Reuven, but when he said it, perhaps he knew the covenant for the lips really takes effect.	Talvez Yehudá, talvez Reuven, mas quando ele disse isso, talvez soubesse que a aliança para os lábios realmente se cumpre.
+695	After all, we learned from father: father said it, and Rachel died on the way.	Afinal, aprendemos com o pai: o pai disse isso, e Rachel morreu no caminho.
+696	So we know this thing.	Então nós sabemos isso.
+697	And what, were they not wise? They were the greats of Israel, the tribes, corresponding to the twelve diagonal borders	E então, eles não eram sábios? Eram os grandes de Israel, as tribos, correspondentes às doze fronteiras diagonais
+698	of the holy Shechinah — these were the greats of Israel.	da santa Shechiná — eram os grandes de Israel.
+699	So he knows that if he now utters it from his lips, "and he shall die," he will die.	Então ele sabe que, se agora pronunciar com seus lábios "e morrerá", a pessoa morrerá.
+700	So what did he do?	Então o que ele fez?
+701	He said it in such a way that they would think he was speaking about them, but in truth he wasn't speaking about them.	Ele disse de tal forma que pensassem que falava deles, mas na verdade não falava deles.
+702	What did he say?	O que ele disse?
+703	"With whom it is found, of your servants, and he shall die."	"Aquele de teus servos com quem for encontrado, morrerá."
+704	If it is found with any of your servants, let your servant die.	Se for encontrado com algum dos teus servos, que morra o teu servo.
+705	We are not your servants; we are servants of the Holy One, blessed be He.	Nós não somos teus servos; somos servos do Santo, bendito seja.
+706	That you want to understand it as if we spoke of ourselves — a person is allowed to fool himself.	Que você queira entender como se falássemos de nós mesmos — a pessoa pode enganar a si mesma.
+707	But "of your servants, and he shall die" — Binyamin is not of your servants.	Mas "dos teus servos, e morrerá" — Binyamin não é dos teus servos.
+708	So Binyamin is not yet your servant, and even if it later turns out that he becomes your servant, when it was found he	Então Binyamin ainda não é teu servo, e mesmo que depois venha a ser teu servo, quando foi encontrado ele
+709	was still not called your servant.	ainda não era chamado teu servo.
+710	And therefore Binyamin did not die.	E por isso Binyamin não morreu.
+711	Afterwards you will see, right?	Depois vocês vão ver, certo?
+712	He also did not steal.	Ele também não roubou.
+713	He also did not steal, right.	Ele também não roubou, certo.
+714	And afterwards you will see: "And his brothers could not answer him, for they were terrified	E depois vocês vão ver: "E seus irmãos não puderam responder-lhe, pois ficaram aterrorizados
+715	before him." Why were they terrified before him?	diante dele." Por que ficaram aterrorizados diante dele?
+716	They said, what is "terrified before him"?	Eles disseram: o que é "aterrorizados diante dele"?
+717	They said: if we truly did not kill him, then we slaughtered for nothing	Disseram: se de fato não o matamos, então abatemos à toa
+718	and staged a show, we lied for nothing, we took goats, "Please recognize: is it your son's tunic?"	e fizemos uma encenação, mentimos à toa, pegamos cabritos: "Reconhece, por favor: é a túnica do teu filho?"
+719	"And he recognized it and said," and so on.	"E ele a reconheceu e disse", e assim por diante.
+720	So we did it, and we see that he didn't die, but Yosef may have died.	Então nós fizemos isso, e vemos que ele não morreu, mas Yosef pode ter morrido.
+721	The Midianites took him, sold him to the Ishmaelites, took him to Egypt, maybe somewhere they killed Yosef	Os midianitas o levaram, venderam-no aos ismaelitas, levaram-no ao Egito; talvez em algum lugar mataram Yosef
+722	on the way, maybe a wild beast really did devour him. In the end, they didn't know if he was alive or not.	no caminho, talvez uma fera o tenha devorado de verdade. No fim, não sabiam se ele estava vivo ou não.
+723	But the moment our father Yaakov said, what does he say,	Mas no momento em que nosso pai Yaakov disse, o que ele diz,
+724	Yaakov?	Yaakov?
+725	It is written that what Yaakov says to them is: his brother is dead, and he alone	Está escrito que o que Yaakov diz a eles é: o irmão dele morreu, e só ele
+726	is left.	ficou.
+727	What is "his brother is dead"?	O que é "o irmão dele morreu"?
+728	He is speaking about Yosef, as if Yosef had already died and my brother alone is left.	Ele fala de Yosef, como se Yosef já tivesse morrido e só o meu irmão restasse.
+729	What?	O quê?
+730	And God forbid, you will bring down my gray hairs in sorrow to Sheol.	E que isso não aconteça: vocês fariam descer minhas cãs com tristeza ao Sheol.
+731	So in any case Yaakov uttered from his mouth "his brother is dead."	Então, de qualquer modo, Yaakov pronunciou com a própria boca "o irmão dele morreu".
+732	Since Yaakov said "his brother is dead," the brothers said, forget it, we will never find Yosef alive.	Como Yaakov disse "o irmão dele morreu", os irmãos disseram: esqueçam, nunca encontraremos Yosef vivo.
+733	Because if we didn't kill him, as a result of the sale, after the way he died, then from what	Pois se nós não o matamos, em consequência da venda, depois de como ele morreu, então pelo que
+734	Yaakov uttered from his mouth, surely he is already dead.	Yaakov pronunciou com a boca, certamente ele já morreu.
+735	That is what he said, "his brother is dead," and that's why they were stunned before him. What?	Foi isso que ele disse, "o irmão dele morreu", e por isso ficaram aterrorizados diante dele. O quê?
+736	Stunned to see that he was alive.	Aterrorizados ao ver que ele estava vivo.
+737	They said, how is he alive?	Disseram: como ele está vivo?
+738	But Father said "his brother is dead."	Mas o pai disse "o irmão dele morreu".
+739	After all, when Father said "with whomever you find your gods, he shall not live," Rachel died.	Afinal, quando o pai disse "com quem você encontrar os seus deuses, não viverá", Rachel morreu.
+740	So why here, when Father says "his brother is dead," did Yosef not die?	Então por que aqui, quando o pai diz "o irmão dele morreu", Yosef não morreu?
+741	About this he said, about this they said, they said "they were stunned before him."	Sobre isso ele disse, sobre isso disseram: "ficaram aterrorizados diante dele".
+742	Why were they stunned before him?	Por que ficaram aterrorizados diante dele?
+743	After all, because...	Afinal, porque...
+744	because they didn't believe that he was alive.	porque não acreditavam que ele estivesse vivo.
+745	The Zohar, Vayigash, page 210a, writes: what is "they were stunned before him"?	O Zohar, Vayigash, página 210a, escreve: o que é "ficaram aterrorizados diante dele"?
+746	At that very moment all the brothers died.	Naquele mesmo momento todos os irmãos morreram.
+747	The brothers died, they had cardiac arrest.	Os irmãos morreram, tiveram uma parada cardíaca.
+748	All the brothers had cardiac arrest.	Todos os irmãos tiveram uma parada cardíaca.
+749	They saw Yosef.	Viram Yosef.
+750	Now, how did they not notice?	Agora, como é que eles não perceberam?
+751	There are all kinds of very, very forced answers.	Há todo tipo de respostas muito, muito forçadas.
+752	Some say: they hadn't left him with a beard, yes, a beard.	Há quem diga: não o deixaram com barba, sim, com barba.
+753	There are difficulties with this.	Há dificuldades quanto a isso.
+754	Why?	Por quê?
+755	They didn't leave Binyamin with a beard either.	Também não deixaram Binyamin com barba.
+756	So how did Yosef know that they had brought Binyamin to them?	Então como Yosef soube que trouxeram Binyamin a eles?
+757	So that is one difficulty.	Essa é uma dificuldade.
+758	Second, say it was his voice, but his voice, he had also spoken with them before that.	Segundo, digamos que foi a voz dele, mas a voz dele, ele também já tinha falado com eles antes disso.
+759	So how did they not recognize him, his voice?	Então como não o reconheceram, a voz dele?
+760	What, they didn't know?	Como assim, não sabiam?
+761	So what, say he spoke Arabic?	Então o quê, digamos que ele falava árabe?
+762	He spoke Arabic, that's it.	Falava árabe, pronto.
+763	So is my voice a different voice if I speak Arabic or Hebrew?	Mas a minha voz é outra se eu falo árabe ou hebraico?
+764	Same sounds, same nuances, how is it not the same voice?	Os mesmos sons, as mesmas nuances, como não seria a mesma voz?
+765	It's the same. So what's the idea? Why were they terrified of him?	É igual. Então qual é a ideia? Por que se assustaram diante dele?
+766	They hadn't seen him, and suddenly he said, "it is my mouth that speaks to you." Why "my mouth"?	Não o tinham visto, e de repente ele disse: "é a minha boca que fala convosco". Por que "a minha boca"?
+767	Because until now there was an interpreter. Menashe stood and translated for them what he said.	Porque até então havia um intérprete. Menashe ficava ali e traduzia para eles o que ele dizia.
+768	To him.	A ele.
+769	Listen to this, look at Menashe, he's telling you good morning.	Ouçam isto, olhem para Menashe, ele está dizendo bom dia para vocês.
+770	He says good morning.	Ele diz bom dia.
+771	Fine, say good morning to him too.	Está bem, digam bom dia a ele também.
+772	Today he speaks to him sternly, and they would hear Arabic.	Hoje ele fala com ele em tom firme, e eles ouviam árabe.
+773	They would hear it like that, and they were alarmed.	Ouviam assim, e ficavam assustados.
+774	And suddenly he said to them, "I am Yosef," and here I'm speaking Hebrew, they were terrified: wait, what?	E de repente disse: "Eu sou Yosef", e eis que falava hebraico; ficaram aterrorizados: espera, o quê?
+775	Yes, that's father.	Sim, é o pai.
+776	Now, how did they not recognize him? Yes, it's Yosef, how did they not recognize him?	Agora, como não o reconheceram? Sim, é Yosef, como não o reconheceram?
+777	Why didn't they recognize him?	Por que não o reconheceram?
+778	After all, the features of Yaakov's face are like Yosef's, they look alike. How did they not see it?	Afinal, os traços do rosto de Yaakov eram como os de Yosef, são parecidos. Como não perceberam?
+779	But they never saw him when he was young, they never saw their father at age thirty like Yosef.	Mas eles não o viram quando era jovem, não viram o pai com trinta anos, como Yosef.
+780	For us today it's no problem to see your father at thirty, there are photos, ah.	Hoje, para nós, não é problema ver o seu pai com trinta anos, há fotos, ah.
+781	Here, come see, there are photos, so you see your father at thirty, you see your son.	Olha, vem ver, há fotos, então você vê o seu pai com trinta anos, você vê o seu filho.
+782	You see the son, you see, I don't know, yourself at thirty, look, you and your father look alike.	Você vê o filho, você vê, sei lá, a si mesmo com trinta anos, olha, você e seu pai são parecidos.
+783	There you go, the same thing. But they saw their father already old, Yaakov was already over a hundred.	Pronto, a mesma coisa. Mas eles viram o pai já idoso, Yaakov já tinha mais de cem anos.
+784	So they didn't see him when he was thirty. Only afterwards, when he said "I am Yosef," suddenly they were terrified.	Então não o viram quando tinha trinta anos. Só depois, quando disse "Eu sou Yosef", de repente se aterrorizaram.
+785	They said, wait, these are indeed the same features, it's like father, it's father, here, this is Yosef. This too is a stretch,	Disseram: espera, são mesmo os mesmos traços, é como o pai, é o pai, eis que é Yosef. Isso também é forçado,
+786	a big one, but let's say that's one answer.	e muito, mas digamos que seja uma resposta.
+787	The answer that sits best in the heart is what Rabbi Yaakov Culi writes in the Midrash Me'am Lo'ez.	A resposta que mais agrada ao coração é o que escreve o Rabi Yaakov Culi no Midrash Me'am Lo'ez.
+788	He writes that there was a custom in ancient Egypt that one does not see the king's face.	Ele escreve que havia um costume no antigo Egito de não se ver o rosto do rei.
+789	Why?	Por quê?
+790	Because the king is so holy, so pure, that ordinary people have no right	Porque o rei é tão santo, tão puro, que o povo comum não tem o direito
+791	and no permission to see the king's face.	nem a permissão de ver o rosto do rei.
+792	So the king, the Pharaohs, always had a kind of mask.	Por isso o rei, os faraós, sempre tinham uma espécie de máscara.
+793	Like a mask like this, with those staffs of theirs, like the Angel of Death's,	Como uma máscara assim, com aqueles cajados deles, como os do Anjo da Morte,
+794	and there, like that, he would speak to them.	e ali, assim, ele falava com eles.
+795	And that one translates. Now they didn't know who was behind the mask. Suddenly Yosef could not	E aquele traduz. Agora não sabiam quem estava atrás da máscara. De repente Yosef não pôde
+796	bear it any longer, he couldn't hold back. Yosef took off the mask and said to them, "I am Yosef."	suportar mais, não conseguiu se conter. Yosef tirou a máscara e disse-lhes: "Eu sou Yosef."
+797	"Is my father still alive?" They were terrified before him. Yosef, you're alive? For they didn't believe it.	"Meu pai ainda vive?" Aterrorizaram-se diante dele. Yosef, você está vivo? Porque não acreditavam.
+798	Afterwards, look, we'll give you a question too.	Depois, vejam, vamos dar a vocês também uma pergunta.
+799	Why didn't I understand this for years?	Por que eu não entendi isso durante anos?
+800	To this day I haven't understood it.	Até hoje eu não entendi isso.
+801	I didn't understand this question.	Eu não entendi essa pergunta.
+802	You'll see, maybe someone can give me an answer for this, because it really is a difficult question.	Vocês vão ver, talvez alguém me dê uma resposta para isso, porque é realmente uma boa pergunta.
+803	Yaakov Avinu arrives.	Yaakov Avinu chega.
+804	Why didn't Yosef go up to his father?	Por que Yosef não foi até o pai dele?
+805	That's first of all.	Isso, antes de mais nada.
+806	Why didn't Yosef come to his father?	Por que Yosef não veio até o pai?
+807	What?	O quê?
+808	Why Yosef?	Por que Yosef?
+809	Yosef would go up to his father.	Yosef iria até o pai dele.
+810	But he would ask him afterwards why he went down to Egypt.	Mas ele o questionaria depois sobre ter descido ao Egito.
+811	So why didn't Yosef come?	Então por que Yosef não veio?
+812	What do you	O que vocês
+813	say?	dizem?
+814	The problem is that if Yosef had appeared, if Yosef had shown himself to his father	O problema é que se Yosef tivesse aparecido, se Yosef tivesse se mostrado ao pai dele
+815	immediately, Yaakov Avinu would have seen Yosef and died on the spot.	imediatamente, Yaakov Avinu teria visto Yosef e morrido ali mesmo.
+816	Died on the spot, heart failure.	Morrido ali mesmo, parada cardíaca.
+817	Just as they were terrified before him, he too would have been terrified and died.	Assim como eles ficaram aterrorizados diante dele, ele também ficaria aterrorizado e morreria.
+818	But the Zohar in Vayishlach 175 writes that HaShem would revive them.	Mas está escrito no Zohar, em Vayishlach 175, que o Santo, Bendito Seja, os reviveria.
+819	Fine, but one does not rely on a miracle.	Certo, mas não se confia no milagre.
+820	And by the way of nature, Yaakov would have had to die.	E pelo caminho da natureza, Yaakov teria que morrer.
+821	You see, there is Serach bat Asher, who was already old, four hundred years old.	Vejam, há Serach bat Asher, que já era idosa, com quatrocentos anos.
+822	She remained until the time of the Exodus from Egypt, Serach bat Asher.	Ela permaneceu até a época da saída do Egito, Serach bat Asher.
+823	And in all her old age she went and sang to him with a mandolin, to Yaakov Avinu.	E em toda a sua velhice ela foi e cantou para ele com um bandolim, para Yaakov Avinu.
+824	Yosef is still alive, Yosef is still alive, la la la la la.	Yosef ainda vive, Yosef ainda vive, la la la la la.
+825	And he heard this, and began to play along with her.	E ele ouviu isso e começou a tocar junto com ela.
+826	It was a kind of lively, interesting melody.	Era uma melodia assim, animada e interessante.
+827	He heard it, as soon as he heard her sing, "What is she talking about, Yosef is still alive?"	Ele ouviu e, assim que a ouviu cantar, pensou: "Do que ela está falando, Yosef ainda vive?"
+828	He died twenty-two years ago, I'm already in mourning, what is this?	Ele morreu há vinte e dois anos, eu já estou de luto, o que é isso?
+829	And then slowly, afterwards the brothers came, told him the news, it came gradually.	E então, aos poucos, depois vieram os irmãos e lhe anunciaram a boa notícia; veio de forma gradual.
+830	Afterwards, "He saw the wagons that Yosef had sent, and the spirit of Yaakov their father revived."	Depois, "Ele viu as carruagens que Yosef enviara, e o espírito de Yaakov, pai deles, reviveu."
+831	So indeed his spirit came back.	Então, de fato, o espírito dele voltou.
+832	But I didn't understand one question, one question.	Mas eu não entendi uma pergunta, uma pergunta.
+833	"They went up from Egypt and came to the land of Canaan to Yaakov their father, and told him, saying: Yosef is still alive, and he is ruler over all the land of Egypt." What is written?	"Subiram do Egito e vieram à terra de Canaã, a Yaakov, pai deles, e lhe disseram: Yosef ainda vive, e é ele quem governa toda a terra do Egito." O que está escrito?
+834	What is written?	O que está escrito?
+835	"His heart went numb, for he did not believe them. And they told him all the words of Yosef that he had spoken to them."	"O coração dele ficou entorpecido, pois não lhes deu crédito. E lhe contaram todas as palavras de Yosef que ele lhes dissera."
+836	Go tell my father all my glory that you saw in Egypt. Now what is "all my glory"?	Vão dizer ao meu pai toda a minha glória que vocês viram no Egito. Agora, o que é "toda a minha glória"?
+837	Tell him that I keep the covenant, that I am a Jew. Otherwise, when? If I merited all my glory, it is because	Digam a ele que eu guardo a aliança, que sou judeu. Afinal, de onde viria? Se eu mereci toda a minha glória, é porque
+838	I keep the covenant. "And he saw the wagons that Yosef had sent to carry him."	eu guardo a aliança. "E ele viu as carruagens que Yosef enviara para levá-lo."
+839	"And they went up after Yaakov their father." Now see, something is unclear here, the aliyah ends.	"E o espírito de Yaakov, pai deles, reviveu." Vejam agora, algo não está claro aqui; termina a aliyá.
+840	The third aliyah ends here. They couldn't continue even one more verse: "And Israel said: It is enough, my son Yosef is still alive.	A terceira aliyá termina aqui. Não puderam continuar nem mais um versículo: "E disse Israel: Basta, meu filho Yosef ainda vive.
+841	I will go and see him before I die."	Irei e o verei antes que eu morra."
+842	Here the aliyah should have ended.	Aqui a aliyá deveria ter terminado.
+843	And this is also a new chapter afterward: "And Israel journeyed with all that was his, and they came to Beer Sheva," and so on.	E isto também é um capítulo novo depois: "E partiu Israel com tudo o que era seu e chegaram a Beer Sheva", e assim por diante.
+844	Why did they cut the aliyah short?	Por que cortaram a aliyá?
+845	So as not to end on a bad word.	Para não terminar com uma palavra ruim.
+846	That could be the reason, they didn't want to end on a bad word, "I die."	Pode ser esse o motivo: não quiseram terminar com uma palavra ruim, "morrer".
+847	"And Israel said: It is enough, my son Yosef" — after all, this is suspense.	"E disse Israel: Basta, meu filho Yosef" — afinal, isso é suspense.
+848	How does he react? So give it. After all, everyone is crying here, there is no one who isn't crying, whoever doesn't cry has a closed	Como ele reage? Então, que se leia. Afinal, todos choram aqui, não há quem não chore, quem não chora tem o coração
+849	heart. Every year they cry here. So how can it be? It should have been written, "And he saw the wagons that Yosef sent to carry him	fechado. Todo ano choram aqui. Então como pode ser? Deveria estar escrito: "E viu as carruagens que Yosef enviou para levá-lo",
+850	and the spirit of Yaakov their father revived." Now his reaction: "And Israel said: It is enough,	"e reviveu o espírito de Yaakov, pai deles." Agora a reação dele: "E disse Israel: Basta,
+851	my son Yosef is still alive; I will go and see him before I die." Why didn't they end the aliyah here?	meu filho Yosef ainda vive; irei e o verei antes que eu morra." Por que aqui não terminaram a aliyá?
+852	So maybe they didn't want to end on the word "I die," maybe they didn't want to cause too much emotion in the synagogue,	Então talvez não quiseram terminar com a palavra "morrer", talvez não quiseram causar emoção demais na sinagoga,
+853	so that people wouldn't cry too much on Shabbat. Still, well, I don't know, it's truly a question.	para que as pessoas não chorassem demais no Shabat. Mesmo assim, bem, não sei, é realmente uma pergunta.
+854	Yes, there was a dream that Yosef dreamed, the eleven stars, so now	Sim, havia um sonho que Yosef sonhou, as onze estrelas, então agora
+855	the dream has come true.	o sonho se realizou.
+856	Right, even before that, already in Parashat Miketz the dreams came true, see Rashi.	Certo, mesmo antes disso, já na Parashat Miketz os sonhos se realizaram, veja o Rashi.
+857	Right, it wasn't the Sages who divided the aliyot.	Certo, não foram os Sábios que dividiram as aliyot.
+858	There are guardians, even gentiles, who made all these chapters. The verses are certainly from the Torah; "every verse that Moshe did not divide, we do not divide," that is certainly from the Torah.	Há guardiões, até gentios, que fizeram todos esses capítulos. Os versículos são certamente da Torá; "todo versículo que Moshe não dividiu, nós não dividimos", isso é certamente da Torá.
+859	Every verse that Moshe did not divide, we do not divide; that is certainly from the Torah.	Todo versículo que Moshe não dividiu, nós não dividimos; isso é certamente da Torá.
+860	But the division of these parashiot and the division into chapters is, there are people who even were not	Mas a divisão dessas parashiot e a divisão em capítulos é, há pessoas que nem
+861	Jews who did it.	judeus eram que a fizeram.
+862	In any case, what is interesting, in all of it, is that there he says to them, "Let your eyes not spare your belongings."	De qualquer modo, o que é interessante, em tudo isso, é que ali ele diz a eles: "Que seus olhos não se apiedem dos seus pertences."
+863	What is "let your eyes not spare your belongings"?	O que é "que seus olhos não se apiedem dos seus pertences"?
+864	Rather, he said: I know that my father went back for small trinkets.	Ele quis dizer: sei que meu pai voltava por coisinhas pequenas.
+865	For the money of tzaddikim is dearer to them than their bodies.	Pois o dinheiro dos tsadikim lhes é mais caro do que o seu corpo.
+866	Leave the property in the land of Canaan.	Deixem os bens na terra de Canaã.
+867	I remember the little cups that Dad used to make with his finjan, the coffee.	Lembro das xicrinhas que o papai usava com o seu finjan, o café.
+868	Leave the porcelain dishes we got from Aunt.	Deixem os pratinhos de porcelana que ganhamos da tia.
+869	Leave everything!	Deixem tudo!
+870	Come as you are, come!	Venham como estão, venham!
+871	Don't delay, don't start packing, and let's bring a moving brochure, and let's pack boxes, and let's gather	Não demorem, não comecem a embalar, e vamos trazer um folheto de mudança, e vamos encaixotar, e vamos juntar
+872	everything, and slowly until we load the camels and donkeys, and until the donkeys come down, in the end it's heavy work.	tudo, e devagar até carregarmos os camelos e os burros, e até os burros descerem, afinal é um trabalho pesado.
+873	Leave everything, "all the good of the land of Egypt is yours."	Deixem tudo, "o melhor de toda a terra do Egito é de vocês."
+874	So he tells him, "Let your eyes not spare, do not spare your belongings."	Então ele lhe diz: "Que seus olhos não se apiedem, não se apiedem dos seus pertences."
+875	Don't be afraid to go back once more for small trinkets, leave everything, I'm bringing you everything here.	Não tenham medo de voltar mais uma vez por coisinhas pequenas, deixem tudo, eu trago tudo para vocês aqui.
+876	Imagine now that someone comes.	Imaginem agora que alguém chega.
+877	Now you live, I don't know, in this neighborhood, in some wretched apartment, two rooms, dead.	Agora você mora, sei lá, neste bairro, num apartamento miserável, dois cômodos, um fim de mundo.
+878	Now some millionaire says to you, listen, I'm arranging a penthouse for you here, where	Agora algum milionário diz a você: ouça, vou arrumar uma cobertura para você aqui, onde
+879	the Ashkenazim are, in the same neighborhood, but it's for Ashkenazim only.	ficam os asquenazitas, no mesmo bairro, mas só para asquenazitas.
+880	It is only for Ashkenazim, Yiddish speakers.	É só para asquenazitas, falantes de ídiche.
+881	So I set you up there in a penthouse, with an oven, a fridge, with everything.	Então eu arrumo para você lá uma cobertura, com forno, geladeira, com tudo.
+882	Leave behind everything you have at home.	Deixe tudo o que você tem em casa.
+883	That is exactly what he told them.	Foi exatamente isso que ele disse a eles.
+884	"Let not your eye regret your belongings, for the best of all Egypt is yours." And afterward, wicked Pharaoh	"Que o seu olho não lamente os seus pertences, pois o melhor de todo o Egito é de vocês." E depois, o perverso Faraó
+885	admits it. And after this, you'll see, we will finish with this, because by Pharaoh it is written there that	admite. E depois disso, vejam, vamos terminar com isto, porque no caso de Faraó está escrito ali que
+886	"the best of all Egypt is yours." The Ben Ish Chai says: Pharaoh said this. Who said	"o melhor de todo o Egito é de vocês." O Ben Ish Chai diz: foi Faraó quem disse isso. Quem disse
+887	"the best of all Egypt is yours"?	"o melhor de todo o Egito é de vocês"?
+888	Pharaoh. And since Pharaoh said these words, they were able to leave afterward with great	Faraó. E como Faraó disse essas palavras, eles puderam sair depois com grande
+889	wealth, because Pharaoh acknowledged it to them. After all, everything that belongs to Egypt belongs to Pharaoh. Yosef bought everything	riqueza, porque Faraó reconheceu isso para eles. Afinal, tudo o que pertence ao Egito pertence a Faraó. Yosef comprou tudo
+890	for Pharaoh, and Pharaoh said: the best of Egypt, everything that is mine, is yours.	para Faraó, e Faraó disse: o melhor do Egito, tudo o que é meu, é de vocês.
+891	Since he said so, "they made it like a pool without fish," because it had already been bought, so it all already belonged to them	Como ele disse assim, "deixaram o Egito como um poço sem peixes", pois já havia sido comprado, então tudo já pertencia a eles
+892	already.	já.
+893	Since they had bought it, he acknowledged it to them, and everything fell into place.	Como eles tinham comprado, ele reconheceu isso a eles, e tudo se encaixou.
+894	Because look, afterward, in the Covenant between the Parts, what does He tell him?	Pois vejam, depois, na Aliança entre as Partes, o que Ele diz a ele?
+895	Your offspring will be strangers in a land not theirs, they will enslave them and afflict them, and afterward they will leave with great wealth.	Teus descendentes serão estrangeiros numa terra que não é deles, os escravizarão e os afligirão, e depois sairão com grande riqueza.
+896	It is not written all the wealth, but great wealth.	Não está escrito toda a riqueza, mas grande riqueza.
+897	So how did they do it?	Então como eles fizeram?
+898	Like a pool with no fish, a pool with no fish.	Como um poço sem peixes, um poço sem peixes.
+899	And the Gemara says on page 9b in Tractate Berachot, it is only to tell you that	E a Guemará diz na página 9b do tratado de Berachot: é só para dizer a você que
+900	by strict law they had to take great wealth, not all the wealth.	pela lei estrita eles deviam levar grande riqueza, não toda a riqueza.
+901	Not to empty out Egypt.	Não esvaziar o Egito.
+902	Since Pharaoh said here in the parashah "the best of all Egypt is yours," and everything really belonged	Como Faraó disse aqui na parashá "o melhor de todo o Egito é de vocês", e tudo realmente já pertencia
+903	to Pharaoh already, then they had in any case bought it all, and they no longer needed the promise of the Covenant between the Parts, because	a Faraó, então de qualquer forma eles já tinham comprado tudo, e já não precisavam da promessa da Aliança entre as Partes, porque
+904	everything had already been bought by Pharaoh, and Pharaoh gave up everything and said: all for you. They all heard this	tudo já havia sido adquirido por Faraó, e Faraó abriu mão de tudo e disse: tudo para vocês. Todos ouviram isso
+905	and said amen. The moment they said amen, everything passed to them. They made a kinyan situmta, as it is called,	e disseram amém. No momento em que disseram amém, tudo passou para eles. Fizeram um kinyan situmta, como se chama,
+906	they shook hands with Pharaoh, everything passed to them, and so everything was acquired in its place in peace.	apertaram as mãos com Faraó, tudo passou para eles, e assim tudo foi adquirido no seu lugar, em paz.
+907	…	…
+908	Nice, I have a class in Maale Adumim.	Muito bem, tenho uma aula em Maale Adumim.
+909	I spoke with the director.	Falei com o diretor.
+910	You spoke with the director.	Você falou com o diretor.
+911	Gentlemen, whoever wants our USB, a USB card with 450 hours of our Torah	Senhores, quem quiser o nosso USB, um cartão USB com 450 horas de Torá
+912	classes, a USB card, and also our books, the responsa, volumes two, three, four, five, it is all here	nossas, um cartão USB, e também os nossos livros, os responsa, volumes dois, três, quatro, cinco, está tudo aqui
+913	in the car outside, and also the books on the Torah, and the discs too, it is all outside, to benefit	no carro, lá fora, e também os livros sobre a Torá, e os discos também, está tudo lá fora, para o benefício
+914	the public. May the Holy One, blessed be He, decree good decrees for you and for us, good tidings and consolations.	do público. Que o Santo, Bendito seja, decrete para vocês e para nós bons decretos, boas notícias e consolações.
+915	Rabbi Chananya ben Akashya says: the Holy One, blessed be He, wished to grant merit to Israel, therefore He gave them	Rabi Chananiá ben Akashiá diz: o Santo, Bendito seja, quis dar mérito a Israel, e por isso multiplicou para eles

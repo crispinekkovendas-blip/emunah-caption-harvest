@@ -2,7 +2,7 @@
  "name": "lane5-028",
  "lane": 5,
  "created": "2026-11-08T09:28:20.768Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "RP8znPJBIwQ",
@@ -335,7 +335,9 @@
   "U5xJzkHYdzo",
   "tfvj2wyScs0",
   "cycdFpaY8-M",
-  "8lMQy6FeXbo"
+  "8lMQy6FeXbo",
+  "KW6imFbsvss",
+  "zyojb1HS4lU"
  ],
  "skipped": [
   "RP8znPJBIwQ",
@@ -343,5 +345,14 @@
   "FV-ElKpJUTQ",
   "tkcRQmqdxz4",
   "s04613xwmUc"
+ ],
+ "salvaged": [
+  "RP8znPJBIwQ",
+  "z3JdWDqHp5A",
+  "FV-ElKpJUTQ",
+  "KW6imFbsvss",
+  "tkcRQmqdxz4",
+  "s04613xwmUc",
+  "zyojb1HS4lU"
  ]
 }

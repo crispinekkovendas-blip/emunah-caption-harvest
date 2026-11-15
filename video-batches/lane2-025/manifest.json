@@ -396,6 +396,27 @@
  "tries": {
   "iHKWf-O_Wtk": 1
  },
- "done": [],
- "skipped": []
+ "done": [
+  "iHKWf-O_Wtk",
+  "xAr4N_YfZs4",
+  "XDJjJ_GQP4k",
+  "ajjRLbaUT4Q",
+  "IUGjIjvTg8k",
+  "fSFQJQkWkCo",
+  "MDk7A-WbbcA",
+  "3Hw5urLKqOo",
+  "o6lsXLfzCfU"
+ ],
+ "skipped": [],
+ "salvaged": [
+  "iHKWf-O_Wtk",
+  "xAr4N_YfZs4",
+  "XDJjJ_GQP4k",
+  "ajjRLbaUT4Q",
+  "IUGjIjvTg8k",
+  "fSFQJQkWkCo",
+  "MDk7A-WbbcA",
+  "3Hw5urLKqOo",
+  "o6lsXLfzCfU"
+ ]
 }

@@ -1,0 +1,568 @@
+0	Rambam, Laws of Shechitah, chapter 1, halachah 27.	Rambam, Leis da Shechitá, capítulo 1, halachá 27.
+1	In this halachah, the Rambam will teach us what the length of the knife	Nesta halachá, o Rambam nos ensina qual é o comprimento da faca
+2	must be	que deve ser usada
+3	for shechitah.	na shechitá.
+4	To understand this, let us first give a short introduction.	Para entender isso, vamos fazer antes uma breve introdução.
+5	The Mishnah says in Chullin, page 15, side b:	A Mishná diz em Chulin, página 15b:
+6	If he slaughtered and severed the head in one stroke,	Se ele fez a shechitá e cortou a cabeça de uma só vez,
+7	if the knife has the length of a full neck, it is kosher.	se a faca tem o comprimento de um pescoço inteiro, é kasher.
+8	The length of a full neck.	O comprimento de um pescoço inteiro.
+9	That is, the blade of the knife has the length of a full neck.	Isto é, a lâmina da faca tem o comprimento de um pescoço inteiro.
+10	When is this said?	Quando isso se aplica?
+11	When he moved the knife forward and did not bring it back, or brought it back and did not	Quando ele moveu a faca para a frente e não a trouxe de volta, ou trouxe de volta e não
+12	move it forward.	a moveu para a frente.
+13	So when he wants to slaughter either with the forward stroke or with the back stroke, the	Então, quando ele quer fazer a shechitá só com a ida ou só com a volta,
+14	blade of the knife must be at least the length of a full neck.	a lâmina da faca deve ter pelo menos o comprimento de um pescoço inteiro.
+15	But if he moves it forward and back, if he does both the forward and the back stroke, any	Mas se ele faz ida e volta, se faz o movimento de ida e o de volta, qualquer
+16	length is fine, even a lancet is kosher.	comprimento serve, até uma lanceta é kasher.
+17	He can slaughter even with a lancet.	Ele pode fazer a shechitá até com uma lanceta.
+18	Why?	Por quê?
+19	Because he does a forward and back stroke.	Porque ele faz ida e volta.
+20	And in that case there is no problem.	E, desse modo, não há problema.
+21	Now.	Agora.
+22	The Gemara explains that the Mishnah means the length of the knife must be	A Guemará explica que a Mishná quer dizer que o comprimento da faca deve ser
+23	the length of a full neck and beyond the neck, that is, the length of a full	o de um pescoço inteiro e mais além do pescoço, isto é, o de um
+24	neck and also beyond the neck, a full neck. Do you know what that means?	pescoço inteiro e também além do pescoço, um pescoço inteiro. Sabem o que isso quer dizer?
+25	It means a length of two necks, and we will see this, with HaShem's help,	Quer dizer o comprimento de dois pescoços, e veremos isso, com a ajuda de HaShem,
+26	bli neder, also in the next chapter of the Rambam.	bli neder, também no próximo capítulo do Rambam.
+27	And what is the reason?	E qual é o motivo?
+28	The reason is that if the length is less than that, when he moves the knife forward or back, it will not	O motivo é que, se o comprimento for menor, quando ele move a faca para a frente ou para trás, ela não
+29	cut all the simanim by way of a single stroke, and the animal becomes treif because of derasah.	cortará todos os simanim num único movimento, e o animal se torna treif por derasá.
+30	But when he slaughters with a forward and back stroke, whenever he does forward	Mas quando ele faz a shechitá com ida e volta, sempre que ele faz ida
+31	and back, there is no required length for the knife, and any length is kosher.	e volta, não há comprimento exigido para a faca, e qualquer comprimento é kasher.
+32	Understood?	Entendido?
+33	If he does only a forward stroke or only a back stroke, then the knife must be long enough	Se ele faz só a ida ou só a volta, então a faca precisa ter comprimento suficiente
+34	for all the simanim to be cut in the forward stroke or the back stroke alone.	para que todos os simanim sejam cortados só na ida ou só na volta.
+35	But if he does forward and back, then even a small knife, since he does forward	Mas se ele faz ida e volta, então até uma faca pequena, já que ele faz ida
+36	and back, will cut both simanim. What is the problem?	e volta, cortará os dois simanim. Qual é o problema?
+37	What is the question?	Qual é a pergunta?
+38	There is a spurt of blood?	Há um jorro de sangue?
+39	So what?	E daí?
+40	There is always a spurt of blood, but he does a forward and back stroke.	Sempre há um jorro de sangue, mas ele faz ida e volta.
+41	I cut the simanim.	Cortei os simanim.
+42	Therefore the Rambam writes here in halachah 27, pay attention to the halachah.	Por isso o Rambam escreve aqui na halachá 27, prestem atenção à halachá.
+43	What is the length of the knife with which one slaughters?	Qual é o comprimento da faca com que se faz a shechitá?
+44	Any length at all.	Qualquer um.
+45	The condition is that it not be something thin that pierces and does not cut,	A condição é que não seja algo fino que perfura e não corta,
+46	like the tip of a small lancet and the like.	como a ponta de uma pequena lanceta e coisas semelhantes.
+47	Let us explain.	Vamos explicar.
+48	What the Rambam says here in our halachah, that the knife may be of any length,	O que o Rambam diz aqui em nossa halachá, que a faca pode ter qualquer comprimento,
+49	means only that he slaughters with a forward and back stroke.	significa apenas que ele faz a shechitá com ida e volta.
+50	That is on condition that he slaughters with a forward	Isso é com a condição de que ele faça a shechitá com ida
+51	and back stroke.	e volta.
+52	And I will show you, with HaShem's help, that in the next chapter,	E mostrarei a vocês, com a ajuda de HaShem, que no próximo capítulo,
+53	the Rambam writes that if it is only forward or only back, the length of two necks is required.	o Rambam escreve que, se for só ida ou só volta, exige-se o comprimento de dois pescoços.
+54	Therefore, what the Rambam says here, that the knife may be of any length, means	Portanto, o que o Rambam diz aqui, que a faca pode ter qualquer comprimento, quer dizer
+55	only that he slaughters with a forward and back stroke.	apenas que ele faz a shechitá com ida e volta.
+56	And the condition is that the knife not be something thin.	E a condição é que a faca não seja algo fino.
+57	What does that mean?	O que isso quer dizer?
+58	That it not be very thin, without enough length to move forward and back across	Que não seja muito fina, sem comprimento suficiente para ir e voltar sobre
+59	the neck.	o pescoço.
+60	Because if it is really thin, like a thread, then it pierces and does not cut.	Porque, se for realmente fina, como um fio, então perfura e não corta.
+61	Or like the tip of a small lancet.	Ou como a ponta de uma pequena lanceta.
+62	Do you know what the tip of a small lancet is?	Sabem o que é a ponta de uma pequena lanceta?
+63	It is like the point of a needle, there is no...	É como a ponta de uma agulha, não há...
+64	So no.	Então não.
+65	You cannot take a needle and do it like this.	Não se pode pegar uma agulha e fazer assim.
+66	Because it pierces.	Porque ela perfura.
+67	But if it is a knife, say, like a milah knife,	Mas se for uma faca, digamos, como a faca de milá,
+68	a small one, right?	pequena, certo?
+69	That would be fine.	Isso seria aceitável.
+70	Because it has a flat surface.	Porque ela tem uma superfície plana.
+71	It can do the forward and back stroke.	Ela pode fazer a ida e a volta.
+72	He may slaughter.	Pode fazer a shechitá.
+73	Therefore the Rambam says that it must not be like the tip of the small lancet,	Por isso o Rambam diz que não pode ser como a ponta da pequena lanceta,
+74	which is very thin like a needle and the like.	que é muito fina como uma agulha e semelhantes.
+75	Wonderful.	Maravilhoso.
+76	Now, here, I want to show you.	Agora, vejam, quero mostrar a vocês.
+77	Please look in the next chapter of the Rambam, chapter 2 of Hilchot Shechitah,	Olhem, por favor, no próximo capítulo do Rambam, capítulo 2 das Leis da Shechitá,
+78	halachah 9. The Rambam says: One who slaughters and moves the	halachá 9. O Rambam diz: Aquele que faz a shechitá e move a
+79	knife forward and does not bring it back, or brings it back and does not move it forward, and slaughtered,	faca para a frente e não a traz de volta, ou a traz de volta e não a move para a frente, e fez a shechitá,
+80	his shechitah is kosher. If he moved forward and back until he cut off the head, his shechitah is kosher.	sua shechitá é kasher. Se moveu para a frente e para trás até cortar a cabeça, sua shechitá é kasher.
+81	If he moved forward and not back, or back and not forward, and severed the head by a forward stroke	Se moveu para a frente e não para trás, ou para trás e não para a frente, e cortou a cabeça só com a ida
+82	alone or a back stroke alone, if the knife has the length of	ou só com a volta, se a faca tem o comprimento de
+83	two necks of that animal, his shechitah is kosher,	dois pescoços daquele animal, sua shechitá é kasher,
+84	and if not, his shechitah is invalid. This speaks of when he	e, se não, sua shechitá é inválida. Isso fala de quando ele
+85	slaughtered only with a forward or only with a back stroke. But if he did a forward and back stroke,	fez a shechitá só com a ida ou só com a volta. Mas se fez ida e volta,
+86	even a small knife is kosher for the shechitah. Now,	até uma faca pequena é kasher para a shechitá. Agora,
+87	the Poskim write something like this:	os Poskim escrevem algo assim:
+88	Although by the strict law there is no required length for the knife, and any length suffices if	Embora, pela letra da lei, não haja comprimento exigido para a faca e qualquer comprimento baste se
+89	he does a forward and back stroke, in practice the Poskim held that it is not proper	ele faz ida e volta, na prática os Poskim entenderam que não é correto,
+90	l'chatchilah to slaughter with such a short knife. From this they derived several measures.	de início, fazer a shechitá com uma faca tão curta. Daí tiraram algumas medidas.
+91	Some wrote that the practice l'chatchilah is to take a knife whose length is a full neck and beyond the neck, that is,	Alguns escreveram que o costume, de início, é pegar uma faca de comprimento de um pescoço inteiro e além do pescoço, isto é,
+92	two necks of the thing being slaughtered, whether an animal or a bird.	dois pescoços do que será abatido, seja animal, seja ave.
+93	So brings the Avkat Rochel and the Rema. Some wrote, by way of allusion, that one should	Assim traz o Avkat Rochel e o Rema. Alguns escreveram, por alusão, que se deve
+94	slaughter with a knife whose length is 14 fingers. Right?	fazer a shechitá com uma faca de 14 dedos de comprimento. Certo?
+95	You remember I showed you from King Saul that 14 fingers is 28 centimeters,	Lembram que mostrei a vocês, a partir do rei Saul, que 14 dedos são 28 centímetros,
+96	because a finger is the width of a thumb, and the width of a thumb is 2 centimeters.	porque um dedo é a largura de um polegar, e a largura de um polegar é de 2 centímetros.
+97	This is according to the Midrash in Vayikra Rabbah: "Scatter among the people and say to them,	Isso é segundo o Midrash em Vayikrá Rabá: "Espalhem-se entre o povo e digam-lhes:
+98	'Bring me each man his ox and each man his sheep, and slaughter them here and eat.'"	'Tragam-me cada um o seu boi e cada um a sua ovelha, e façam aqui a shechitá e comam.'"
+99	It says "knife": he showed them how long its length should be. From where? From "bazeh". What is "bazeh"?	Está escrito "faca": ele mostrou a eles qual devia ser o seu comprimento. De onde? De "bazeh". O que é "bazeh"?
+100	Bet, zayin, hei. Bet, zayin, hei has a gematria of fourteen, so it is fourteen fingers.	Bet, zayin, hei. Bet, zayin, hei tem o valor numérico de catorze, então são catorze dedos.
+101	But the Poskim write that all this is only	Mas os Poskim escrevem que tudo isso é apenas
+102	for hiddur mitzvah and not as a requirement,	hidur mitsvá e não uma exigência,
+103	and not even l'chatchilah.	e nem mesmo de início.
+104	Therefore, if he does only a forward stroke or only a back stroke, it must be the length of	Portanto, se ele faz só a ida ou só a volta, a faca deve ter o comprimento de
+105	two necks.	dois pescoços.
+106	And if he does a forward and back stroke, even a small knife is kosher.	E se ele faz ida e volta, até uma faca pequena é kasher.
+107	The Poskim held that l'chatchilah, as a hiddur mitzvah, one should take a longer knife.	Os Poskim entenderam que, de início, como hidur mitsvá, deve-se pegar uma faca mais comprida.
+108	By the way, the 28 centimeters is said mainly regarding	Aliás, os 28 centímetros são ditos principalmente a respeito de
+109	an animal.	animal.
+110	Fourteen fingers, which is 28 centimeters,	Catorze dedos, que são 28 centímetros,
+111	is said mainly regarding an animal.	são ditos principalmente a respeito de animal.
+112	As for slaughtering a bird, the Poskim write that on the contrary, one should not have such a large knife, because it	Quanto à shechitá de ave, os Poskim escrevem que, ao contrário, não se deve ter uma faca tão grande, porque ela
+113	makes the shechitah cumbersome and may cause derasah.	atrapalha a shechitá e pode causar derasá.
+114	Therefore, we take a smaller knife.	Por isso, usamos uma faca menor.
+115	So in our halachah, halachah 27, the Rambam speaks about forward and back strokes.	Então, em nossa halachá, a halachá 27, o Rambam fala da ida e volta.
+116	Halachah 28, here the Rambam will speak, gentlemen, about the time of shechitah.	Halachá 28: aqui o Rambam falará, senhores, sobre o horário da shechitá.
+117	Whether one may slaughter at night or not.	Se é possível fazer a shechitá à noite ou não.
+118	Here too, to understand this halachah well, let us make a short introduction.	Aqui também, para entender bem esta halachá, vamos fazer uma breve introdução.
+119	Okay?	Certo?
+120	Pay attention.	Prestem atenção.
+121	The Mishnah says in Chulin, page 12b: "Everyone may slaughter,	A Mishná diz em Chulin, página 12b: "Todos podem fazer shechitá,
+122	and at any time one may slaughter, and with any tool one may slaughter."	e em qualquer tempo se faz shechitá, e com qualquer instrumento se faz shechitá."
+123	"Everyone slaughters": anyone who is fit.	"Todos": qualquer um que seja apto.
+124	"At any time": at every time.	"Em qualquer tempo": em todo momento.
+125	"With any tool": with anything that cuts and does not tear.	"Com qualquer instrumento": com qualquer coisa que corte e não rasgue.
+126	The Gemara says, what is "at any time"?	A Guemará diz: o que é "em qualquer tempo"?
+127	Both by day and by night.	Tanto de dia quanto de noite.
+128	So it appears in the Tosefta, chapter 1, halachah 4: at any time one slaughters, both by day and by night.	Assim consta na Tosefta, capítulo 1, halachá 4: em qualquer tempo se faz shechitá, tanto de dia quanto de noite.
+129	But there is a Mishnah on page 13b, where the Mishnah says as follows: one who slaughters	Mas há uma Mishná na página 13b, onde a Mishná diz o seguinte: aquele que faz shechitá
+130	at night, and likewise one who slaughters while blind, his slaughter is valid.	à noite, e também o cego que fez shechitá, sua shechitá é kasher.
+131	What do you see from the wording?	O que vocês veem pela redação?
+132	"One who slaughters at night" implies after the fact, not initially.	"Aquele que faz shechitá à noite" dá a entender bedieved, e não de início.
+133	So the Gemara raises a difficulty on this.	Então a Guemará levanta uma dificuldade quanto a isso.
+134	The Gemara says: after the fact, yes, but initially not?	A Guemará diz: bedieved sim, e de início não?
+135	But it was taught: at any time one slaughters, both by day and by night.	Mas foi ensinado: em qualquer tempo se faz shechitá, tanto de dia quanto de noite.
+136	The Gemara resolves it: Rav Papa said, when there is a torch opposite him.	A Guemará resolve: disse Rav Papa, quando há uma tocha diante dele.
+137	The meaning is, Rav Papa says we must distinguish.	O sentido é: Rav Papa diz que é preciso distinguir.
+138	If there is a torch opposite him, meaning it is night and he has light, a torch, he	Se há uma tocha diante dele, isto é, é noite e ele tem luz, uma tocha, ele
+139	may slaughter initially.	pode fazer shechitá de início.
+140	And about this the Tosefta spoke.	E sobre isso falou a Tosefta.
+141	On the other hand, if there is no torch opposite him, and it is dark, one does not	Por outro lado, se não há tocha diante dele, e está escuro, não se
+142	slaughter initially at night.	faz shechitá de início à noite.
+143	But if he already slaughtered, after the fact it is kasher.	Mas se ele já fez shechitá, bedieved é kasher.
+144	Okay?	Certo?
+145	This is essentially what the Gemara means.	É isso, na verdade, o que a Guemará quer dizer.
+146	Our teacher the Rambam says, pay attention to the halachah here, in halachah 28, the	O nosso mestre, o Rambam, diz, prestem atenção à halachá aqui, na halachá 28, o
+147	Rav says: And when may one slaughter?	Rav diz: E quando se faz shechitá?
+148	At any time.	Em qualquer tempo.
+149	Both by day and by night.	Tanto de dia quanto de noite.
+150	And this is provided that a torch is with him, so that he can see what he is doing.	E isso desde que haja uma tocha com ele, para que veja o que faz.
+151	Now, do we know what an avukah is?	Agora, sabemos o que é uma avukah?
+152	An avukah is a big light.	Avukah é uma luz grande.
+153	Why is it called an avukah?	Por que se chama avukah?
+154	Huh?	Hã?
+155	Why is it called an avukah?	Por que se chama avukah?
+156	How so?	Como assim?
+157	Avukah, my friends: the Ramban brings on the verse in the Torah, "And a man wrestled with him,"	Avukah, meus amigos: o Ramban traz sobre o versículo da Torá "E um homem lutou com ele",
+158	he says, in the way of wrestlers who grasp one another.	ele diz, como fazem os lutadores que se agarram um ao outro.
+159	Right?	Certo?
+160	Have you ever seen a wrestling match where each one embraces the other?	Vocês já viram uma luta em que cada um abraça o outro?
+161	Wrestlers.	Lutadores.
+162	He goes like this, and he grabs him by the legs, and holds him.	Ele faz assim, e agarra o outro pelas pernas, e o segura.
+163	And the poor guy is already tapping on his arm, being choked.	E o coitado já está batendo no braço dele, sendo sufocado.
+164	Nice.	Muito bem.
+165	When one takes several wicks and twists them together, then	Quando se pegam vários pavios e se torcem juntos, então
+166	they are called...	eles são chamados...
+167	"avuk," that is, embraced with one another.	"avukim", isto é, abraçados um ao outro.
+168	And then when one lights a fire, the fire becomes bigger.	E então, quando se acende o fogo, o fogo se torna maior.
+169	This is what avukah means.	É isso que significa avukah.
+170	Now, this gives a big light.	Agora, isso dá uma luz grande.
+171	Right, today in our times, for example, Havdalah candles, even though the wicks are not twisted one	Certo, hoje em nossos tempos, por exemplo, as velas de Havdalá, mesmo que os pavios não estejam torcidos um
+172	with the other, each one separately, it still gives a big light.	com o outro, cada um separado, ainda assim dá uma luz grande.
+173	Why?	Por quê?
+174	Two reasons.	Dois motivos.
+175	First, the wicks, if you look, it is also.	Primeiro, os pavios, se vocês olharem, também é.
+176	It is not one single thread.	Não é um único fio.
+177	Even each wick on its own.	Mesmo cada pavio sozinho.
+178	It is like a braid.	É como uma trança.
+179	So it does count as twisted together.	Então conta, sim, como torcido junto.
+180	That is one.	Isso é um.
+181	Two, they are next to one another.	Dois, eles estão próximos um do outro.
+182	So the flame of each one joins together.	Então a chama de cada um se junta.
+183	So the flames are considered twisted together.	Então as chamas são consideradas torcidas juntas.
+184	Okay?	Certo?
+185	So this gives the result of an avukah.	Então isso dá o resultado de uma avukah.
+186	Once it is an avukah, it is a big light.	Quando é uma avukah, é uma luz grande.
+187	Once it is a big light, there is no difference between night and day, one may slaughter even at night.	Quando é uma luz grande, não há diferença entre noite e dia, pode-se fazer shechitá também à noite.
+188	Because the concern is essentially that he see what he is doing during	Porque a exigência é, na verdade, que ele veja o que faz durante
+189	the shechitah.	a shechitá.
+190	The Poskim write that there are several reasons why one needs	Os Poskim escrevem que há várias razões pelas quais é preciso
+191	to see the shechitah.	ver a shechitá.
+192	One reason: lest he not cut the majority of the signs.	Uma razão: para que não deixe de cortar a maioria dos sinais.
+193	Or because of the darkness he will not notice it.	Ou, por causa da escuridão, não perceba isso.
+194	So writes Rashi on the Gemara in Tractate Chulin, page 13b.	Assim escreve Rashi sobre a Guemará no tratado Chulin, página 13b.
+195	A second reason: lest he disqualify the shechitah with the disqualification of shehiyah, since he	Uma segunda razão: para que não invalide a shechitá com a invalidação de shehiyá, pois ele
+196	actually thrusts the knife inside, as we will see later in chapter 3,	na verdade crava a faca por dentro, como veremos adiante no capítulo 3,
+197	halachah 9, and he will not notice.	halachá 9, e não perceba.
+198	So bring the Rashba and the Meiri.	Assim trazem o Rashba e o Meiri.
+199	Third, lest he disqualify the shechitah with the disqualification of derasah.	Terceiro, para que não invalide a shechitá com a invalidação de derasá.
+200	That is, if he slaughters in the dark, he will not notice that	Isto é, se faz shechitá no escuro, não perceberá que
+201	he is not moving the knife back and forth properly.	não está conduzindo a faca para a frente e para trás corretamente.
+202	So brings the Rashba in Torat HaBayit.	Assim traz o Rashba em Torat HaBait.
+203	Fourth, lest he cause hagramah.	Quarto, para que não cause hagramá.
+204	That is, that he veer the knife from the place of shechitah to a place that is not valid	Isto é, que desvie a faca do lugar da shechitá para um lugar que não é válido
+205	for shechitah.	para a shechitá.
+206	So brings the Levush.	Assim traz o Levush.
+207	Fifth, lest he delay in his shechitah and not notice because of the darkness.	Quinto, para que não demore na shechitá e não perceba por causa da escuridão.
+208	So brings the Shach. And lest his shechitah be disqualified and it turn out that he recited a blessing in vain.	Assim traz o Shach. E para que a sua shechitá não seja invalidada e se descubra que disse uma bênção em vão.
+209	So brings the Zichron Yitzchak in his Responsa, section 94. So it emerges for us from here	Assim traz o Zichron Yitzchak em suas Responsa, siman 94. Então conclui-se daqui
+210	that a person needs there to be light for the shechitah, he must see what he is doing.	que a pessoa precisa de luz para a shechitá, deve ver o que faz.
+211	After the fact, if he slaughtered even in the dark and he says that the shechitah was	Bedieved, se fez shechitá mesmo no escuro e diz que a shechitá foi
+212	all in order, it is kasher, but it is forbidden for him to slaughter initially	toda correta, é kasher, mas é proibido a ele fazer shechitá de início
+213	in the dark, but only, as we said, in light.	no escuro, e sim apenas, como dissemos, com luz.
+214	Regarding shechitah at night by the light of the moon.	Quanto à shechitá à noite à luz da lua.
+215	What is the law in a place where there is no fire, no lighting, but there is the moon?	Qual é a lei num lugar onde não há fogo, não há iluminação, mas há a lua?
+216	They disagreed about this.	Discordaram quanto a isso.
+217	There are Rishonim who permitted slaughtering initially.	Há Rishonim que permitiram fazer shechitá de início.
+218	So brings the Meiri in the name of his teachers.	Assim traz o Meiri em nome de seus mestres.
+219	And other Poskim agreed; he writes there, "so agreed some of the sages of Bedersh	E outros Poskim concordaram; ele escreve ali: "assim concordaram alguns sábios de Béziers
+220	and Narbonne," this is the Meiri's wording.	e Narbona", essa é a redação do Meiri.
+221	Rav Yitzchak also writes, in Responsa, section 1083, in Orchot Chaim.	Rav Yitzchak também escreve, em Responsa, siman 1083, em Orchot Chaim.
+222	He writes, "And there is one who writes that by the light of the moon one slaughters initially at night."	Ele escreve: "E há quem escreva que à luz da lua se faz shechitá de início à noite."
+223	The Pri Chadash also rules this way as halachah.	O Pri Chadash também decide assim, como halachá.
+224	But the Radbaz, in his Responsa, part 6, section 2129,	Mas o Radbaz, em suas Responsa, parte 6, siman 2129,
+225	was asked about this and answered to forbid for two reasons: first, the light of the moon does not shine as well as the light of a candle,	foi perguntado sobre isso e respondeu proibindo por dois motivos: primeiro, a luz da lua não ilumina tão bem quanto a luz de uma vela,
+226	and one cannot slaughter properly by its light; second, there is a concern that at the time of the shechitah the moon will be covered	e não se pode fazer shechitá corretamente à sua luz; segundo, há receio de que na hora da shechitá a lua se cubra
+227	by clouds. So also ruled the Kreti UPeleti	de nuvens. Assim decidiu também o Kreti uPleti
+228	and the Ben Ish Chai. Therefore it seems that in this matter everything depends on the reality.	e o Ben Ish Chai. Portanto parece que, nesta questão, tudo depende da realidade.
+229	It seems to me, the humble one, that everything depends on the place and time in which the person finds himself.	Parece-me, a mim, o pequeno, que tudo depende do lugar e do tempo em que a pessoa se encontra.
+230	If a person is in a place where the moon shines in its full strength, and it is mid-	Se a pessoa está num lugar onde a lua brilha em toda a sua força, e é meio
+231	month, a full moon, and there truly is great light, even then, it will be permitted.	do mês, lua cheia, e de fato há muita luz, mesmo assim, será permitido.
+232	But if he is in autumn, in winter, when there are some clouds, and he is in another place	Mas se ele está no outono, no inverno, quando há algumas nuvens, e está em outro lugar
+233	where one does not see so well, and the moon is not full, then certainly it will not be allowed.	onde não se vê tão bem, e a lua não está cheia, então certamente não será permitido.
+234	It is no better than a dark house.	Não é melhor que uma casa escura.
+235	Okay?	Certo?
+236	It seems that it all depends on the reality.	Parece que tudo depende da realidade.
+237	Now, the Rambam says here:	Agora, o Rambam diz aqui:
+238	And when does one slaughter? At any time, by day or by night, provided that a torch is with him so that he can see what he is doing.	E quando se faz shechitá? Em qualquer tempo, de dia ou de noite, desde que haja uma tocha com ele, para que veja o que faz.
+239	And if he slaughtered in darkness, his slaughter is valid.	E se fez shechitá na escuridão, sua shechitá é kasher.
+240	In retrospect, his shechitah is kasher.	Bedieved, a shechitá dele é kasher.
+241	And today, in our times, thank God, regarding this matter...	E hoje, em nossos dias, graças a HaShem, quanto a esse assunto...
+242	Today we have lighting and electricity and the like, so certainly, l'chatchilah,	Hoje temos iluminação, eletricidade e coisas assim, então certamente, de início,
+243	it is permitted to slaughter at night, since there is lighting.	é permitido fazer shechitá à noite, já que há iluminação.
+244	Strong lighting.	Iluminação forte.
+245	There are even cases where a person can slaughter in the field, but he has a car, he attaches a lamp to the car,	Há até casos em que a pessoa pode fazer shechitá no campo, mas tem um carro, prende um farol no carro,
+246	a powerful lamp, excellent.	um farol potente, excelente.
+247	Halachah 29, the Rambam writes here the following:	Halachá 29, o Rambam escreve aqui o seguinte:
+248	One who slaughters on Yom Kippur or on Shabbat by mistake, even though had he done it intentionally he would be liable for his life or	Quem faz shechitá em Yom Kipur ou em Shabat por engano, embora, se fosse intencional, seria passível de pena de morte ou
+249	liable to lashes for Yom Kippur, his shechitah is kasher.	de açoites por Yom Kipur, sua shechitá é kasher.
+250	Let us explain the matter.	Vamos explicar o assunto.
+251	The Mishnah says in Chulin, page 14a: One who slaughters on Shabbat and on Yom Kippur, even	A Mishná diz em Chulin, página 14a: Quem faz shechitá em Shabat e em Yom Kipur, mesmo
+252	though he is liable for his life, his shechitah is kasher.	sendo passível de pena de morte, sua shechitá é kasher.
+253	The Gemara asks there, what are we dealing with?	A Guemará pergunta ali: de que se trata?
+254	What does "liable for his life" mean?	O que significa "passível de pena de morte"?
+255	It is hard to say that he was acting intentionally.	É difícil dizer que ele agiu intencionalmente.
+256	Do you know why?	Vocês sabem por quê?
+257	If a person slaughters intentionally on Shabbat, his shechitah is invalid.	Se uma pessoa faz shechitá intencionalmente em Shabat, a shechitá dela é inválida.
+258	Why?	Por quê?
+259	What do you say?	O que vocês dizem?
+260	No.	Não.
+261	Not quite what you said.	Não foi bem o que vocês disseram.
+262	The reason is that if a person slaughtered on Shabbat intentionally, he is desecrating Shabbat.	O motivo é que, se uma pessoa fez shechitá em Shabat intencionalmente, ela está profanando o Shabat.
+263	He is acting intentionally, right?	Ela age intencionalmente, certo?
+264	A Shabbat desecrator has the law of a mumar, and his shechitah is invalid.	Quem profana o Shabat tem o status de mumar, e a shechitá dele é inválida.
+265	Period.	Ponto.
+266	It is forbidden to eat from the shechitah of a mumar.	É proibido comer da shechitá de um mumar.
+267	Now I will show you a few examples.	Agora vou mostrar a vocês alguns exemplos.
+268	Therefore, it is hard to say that he was acting intentionally.	Por isso, é difícil dizer que ele agiu intencionalmente.
+269	But if he slaughtered by mistake on Shabbat, forgetting that it was Shabbat,	Mas se ele fez shechitá por engano em Shabat, esquecendo que era Shabat,
+270	and he slaughtered by mistake on Shabbat,	e fez shechitá por engano em Shabat,
+271	then even though he transgressed a sin that, had it been intentional, carries	então, embora tenha transgredido uma proibição que, se fosse intencional, acarretaria
+272	the status of liability for his life, since in the end he did it by mistake,	o status de pena de morte, como afinal ele fez isso por engano,
+273	the shechitah is kasher.	a shechitá é kasher.
+274	That is essentially the meaning.	É isso, em essência, o que se quer dizer.
+275	Now, the Mishnah establishes, yes, the Gemara	Agora, a Mishná estabelece, sim, a Guemará
+276	in Chulin, page 15a, establishes the Mishnah as dealing with one who slaughters by mistake.	em Chulin, página 15a, estabelece a Mishná como tratando de quem faz shechitá por engano.
+277	And although the plain wording of the Mishnah, "even though he is liable for his life," indicates intentional shechitah, it can be explained that nevertheless,	E embora o sentido simples da Mishná, "mesmo sendo passível de pena de morte", indique shechitá intencional, pode-se explicar que, mesmo assim,
+278	if he had done so intentionally he would be liable for his life; if he did so by mistake, his shechitah is kasher.	se ele tivesse feito intencionalmente seria passível de pena de morte; se fez por engano, sua shechitá é kasher.
+279	Therefore the Rambam is precise in his wording and says: One who slaughters on Yom Kippur or on Shabbat by mistake,	Por isso o Rambam é preciso em sua linguagem e diz: Quem faz shechitá em Yom Kipur ou em Shabat por engano,
+280	even though had he been intentional he would be liable for his life, or liable to lashes for	embora, se fosse intencional, seria passível de pena de morte, ou de açoites por
+281	Yom Kippur — Shabbat is a prohibition punishable by death by the court, and Yom Kippur by lashes — even so,	Yom Kipur — o Shabat é uma proibição punível com morte pelo tribunal, e Yom Kipur com açoites — mesmo assim,
+282	his shechitah is kasher.	sua shechitá é kasher.
+283	And the meat is permitted to eat.	E a carne é permitida para comer.
+284	As we also learned in the laws of Shabbat.	Como também aprendemos nas leis do Shabat.
+285	Now,	Agora,
+286	we need to know, my teachers,	precisamos saber, meus mestres,
+287	first of all, the Rambam did not explain here who is permitted to eat from this meat, and so on.	antes de tudo, o Rambam não explicou aqui quem tem permissão de comer dessa carne, e assim por diante.
+288	It is known that regarding one who cooks on Shabbat, who performs a forbidden labor, our Sages disagreed about this.	Sabe-se que, quanto a quem cozinha em Shabat e faz um trabalho proibido, nossos sábios divergiram nisso.
+289	In the Gemara there are three opinions: one who cooks on Shabbat by mistake may eat; intentionally, may not eat. This is	Na Guemará há três opiniões: quem cozinha em Shabat por engano pode comer; intencionalmente, não pode comer. Esta é
+290	the view of Rabbi Meir. Rabbi Yehuda says: by mistake, he may eat after Shabbat; intentionally, he may never eat	a opinião de Rabi Meir. Rabi Yehuda diz: por engano, pode comer após o Shabat; intencionalmente, nunca poderá comer,
+291	according to Rabbi Yehuda. Rabbi Yochanan HaSandlar says: by mistake, he may eat after Shabbat, others may eat	segundo Rabi Yehuda. Rabi Yochanan HaSandlar diz: por engano, pode comer após o Shabat; outros podem comer,
+292	but not he; intentionally, he may never eat, neither he nor others. As for halachah,	mas não ele; intencionalmente, nunca poderá comer, nem ele nem outros. Quanto à halachá,
+293	it is known that we follow the opinion of Rabbi Yehuda, that if a person transgressed a Shabbat labor by mistake,	sabe-se que seguimos a opinião de Rabi Yehuda, que se uma pessoa transgrediu um trabalho de Shabat por engano,
+294	then it is permitted to him after Shabbat.	então lhe é permitido após o Shabat.
+295	Okay?	Certo?
+296	Intentionally, it is forbidden to him forever; to others it is permitted unless he did it for them.	Intencionalmente, é proibido para ele para sempre; para outros é permitido, a menos que ele tenha feito para eles.
+297	But here, regarding the shochet, in any case it will be forbidden if he did it intentionally, since he has the law of a mumar.	Mas aqui, quanto ao shochet, em todo caso será proibido se ele fez intencionalmente, pois tem o status de mumar.
+298	Now, there is one who permits it, and I will show you the topic quickly.	Agora, há quem o torne permitido, e vou mostrar a vocês o assunto rapidamente.
+299	Pay attention.	Prestem atenção.
+300	Maran the Beit Yosef, Yoreh Deah, siman 11, derives	Maran, o Beit Yosef, em Yoreh Deá, siman 11, deduz
+301	from the Rambam's wording, which specifically used "by mistake," that if it was intentional, his shechitah is invalid.	da linguagem do Rambam, que usou especificamente "por engano", que, se foi intencional, sua shechitá é inválida.
+302	The Rambam writes this explicitly in his commentary on the Mishnah,	O Rambam escreve isso explicitamente em seu comentário à Mishná,
+303	that the reason for this is that a shochet who acts intentionally has the law of a mumar, and the shechitah of a mumar is invalid, as	que o motivo é que o shochet que age intencionalmente tem o status de mumar, e a shechitá de um mumar é inválida, como
+304	is explained in the Gemara in Chulin, page 4b, and so we will see this in the Rambam	está explicado na Guemará em Chulin, página 4b, e assim veremos isso no Rambam
+305	later in chapter 4, halachah 14. The Rambam says	mais adiante, no capítulo 4, halachá 14. O Rambam diz
+306	explicitly — I will show you the wording, chapter 4, halachah 14:	explicitamente — vou mostrar a vocês o texto, capítulo 4, halachá 14:
+307	A Jew who is a mumar for one of the sins, who was	Um judeu que é mumar para uma das transgressões, que era
+308	an expert — that is, who was an expert — then he is...	um especialista — isto é, que era um especialista — então ele é...
+309	Just a moment, and if he was	Só um momento, e se ele era
+310	a mumar for idolatry, or a public Shabbat desecrator, or a min, one who denies the Torah	mumar para idolatria, ou profanador público do Shabat, ou um min, que nega a Torá
+311	and Moshe Rabbeinu, as we explained in the laws of teshuvah, he is like a gentile, and his shechitah	e Moshé Rabeinu, como explicamos nas leis de teshuvá, ele é como um gentio, e sua shechitá
+312	is neveilah.	é neveilá.
+313	Did you understand?	Entenderam?
+314	That is, a mumar for one of the sins does	Ou seja, o mumar para uma das transgressões
+315	not yet disqualify him, only he will need to be a kasher Jew who stands over	ainda não o desqualifica, apenas será necessário um judeu kasher que fique ao lado
+316	the knife, and if he was a mumar for idolatry,	da faca, e se ele era mumar para idolatria,
+317	or a public Shabbat desecrator, or a min who denies	ou profanador público do Shabat, ou um min que nega
+318	the Torah and Moshe Rabbeinu, he is like a gentile, and his shechitah is neveilah.	a Torá e Moshé Rabeinu, ele é como um gentio, e sua shechitá é neveilá.
+319	For example, here, Chacham Ben Tzion Abba Shaul, in Or LeTzion, volume 5,	Por exemplo, aqui, o Chacham Ben Tzion Abba Shaul, em Or LeTzion, volume 5,
+320	presents on this a series of	apresenta sobre isso uma série de
+321	halachot on this matter.	halachot sobre esse assunto.
+322	He writes,	Ele escreve,
+323	for example...	por exemplo...
+324	We will show you this.	Vamos mostrar isso a vocês.
+325	Like this.	Assim.
+326	Here he writes: a mumar who eats neveilot for appetite and a mumar who eats neveilot to spite.	Aqui ele escreve: um mumar que come neveilot por apetite e um mumar que come neveilot por provocação.
+327	What is the law of their shechitah?	Qual é a halachá da shechitá deles?
+328	The Rav says: the custom today is not to rely on the shechitah of any mumar,	O rabino diz: o costume hoje é não confiar na shechitá de nenhum mumar,
+329	even a mumar for appetite, and even if he checks his knife, they invalidate the shechitah.	nem mesmo de um mumar por apetite, e mesmo que ele verifique sua faca, invalidam a shechitá.
+330	This is the custom, to be stringent.	Esse é o costume, ser rigoroso.
+331	By the core of the law it is permitted.	Pela essência da halachá, é permitido.
+332	But in practice the Beit Hillel wrote, in seif katan 2,	Mas na prática o Beit Hillel escreveu, no seif katan 2,
+333	that in this day, someone suspected of eating neveilot for appetite, that is, he cannot find	que nos dias de hoje, alguém suspeito de comer neveilot por apetite, isto é, que não encontra
+334	kosher food, flies abroad, and has no problem walking into a gentile restaurant.	comida kasher, viaja ao exterior e não tem problema em entrar num restaurante de gentios.
+335	What do you do?	O que você faz?
+336	What do I do?	O que eu faço?
+337	There is no restaurant here.	Não há restaurante aqui.
+338	If there were a kosher restaurant I would go in, there isn't.	Se houvesse um restaurante kasher eu entraria, não há.
+339	And I saw...	E eu vi...
+340	A mumar.	Um mumar.
+341	To eat neveilot for appetite?	Para comer neveilot por apetite?
+342	So he says in Beit Hillel: one does not eat from him any food that	Então ele diz no Beit Hillel: não se come dele nenhum alimento em que
+343	there is concern that it contains a prohibition.	haja receio de que contenha uma proibição.
+344	Now, he writes, for example,	Agora, ele escreve, por exemplo,
+345	a mumar for eating neveilot to spite, whose shechitah is invalid,	um mumar para comer neveilot por provocação, cuja shechitá é inválida,
+346	even bedieved.	mesmo bedieved.
+347	This is the same matter, yes, regarding shechitah.	É o mesmo assunto, sim, quanto à shechitá.
+348	So he is a mumar for eating neveilot to spite.	Então ele é mumar para comer neveilot por provocação.
+349	Do you know what "to spite" means?	Vocês sabem o que é "por provocação"?
+350	To spite means there is a kosher restaurant and he goes to a treif one.	Por provocação quer dizer que há um restaurante kasher e ele vai a um treif.
+351	Here he writes that even a mumar for another sin not related to forbidden foods,	Aqui ele escreve que mesmo um mumar para outra transgressão que não tem relação com alimentos proibidos,
+352	if it is to spite.	se for por provocação.
+353	And he brings an example here, Chacham Ben Tzion Abba Shaul:	E ele traz aqui um exemplo, o Chacham Ben Tzion Abba Shaul:
+354	for instance, he had before him scissors and a razor,	por exemplo, tinha diante de si uma tesoura e uma navalha,
+355	and he shaved with the razor.	e se barbeou com a navalha.
+356	Or for example, there is a kosher shaving machine that leaves stubble and he shaves with a razor.	Ou, por exemplo, há uma máquina de barbear kasher que deixa a barba por fazer e ele se barbeia com navalha.
+357	He writes, this is considered to spite.	Ele escreve que isso é considerado por provocação.
+358	Now, here further on the Rav writes	Agora, mais adiante o rabino escreve
+359	A public Shabbat desecrator is certainly disqualified from shechitah.	Um profanador público do Shabat é certamente desqualificado para a shechitá.
+360	Question 18: May a baal teshuvah from serious transgressions be a shochet l'chatchila?	Pergunta 18: Um baal teshuvá de transgressões graves pode ser shochet de início?
+361	He writes: One who even transgressed sins that disqualify his kashrut, such as desecrating Shabbat and eating neveilot and treifot,	Ele escreve: Quem transgrediu até pecados que anulam sua kashrut, como profanar o Shabat e comer neveilot e treifot,
+362	and afterwards merited to return in complete teshuvah, he is like all	e depois mereceu voltar em teshuvá completa, é como todos
+363	the kosher Jews to do shechitá.	os judeus aptos a fazer shechitá.
+364	He says there is no problem.	Ele diz que não há problema.
+365	He writes in the Biurim, section 18: Baalei teshuvah who return in complete teshuvah, guided by a rabbi or in a yeshiva,	Ele escreve nos Biurim, item 18: Baalei teshuvá que voltam em teshuvá completa, orientados por um rabino ou numa yeshivá,
+366	and learn and keep the mitzvot of the Torah, all the laws that applied	e estudam e cumprem as mitsvot da Torá, todas as leis que se aplicavam
+367	to them when they were transgressors are lifted, and they return to being kosher Jews for every matter.	a eles quando eram transgressores deixam de valer, e voltam a ser judeus aptos para tudo.
+368	Their wine is permitted, their shechitá is permitted, and so on.	O vinho deles é permitido, a shechitá deles é permitida, e assim por diante.
+369	But on condition that he truly returned in teshuvah, with a rabbi who guided him, according to halachá, as it should be.	Mas com a condição de que ele tenha voltado de verdade, com um rabino que o orientou, conforme a Halachá, como deve ser.
+370	I don't mean that he puts some colorful hat on his head and grows peyot,	Não me refiro a quem põe um chapéu colorido na cabeça e deixa crescer as peiot,
+371	and thinks he is keeping Torah and mitzvot	e pensa que cumpre a Torá e as mitsvot
+372	as it seems to him, as he understands.	como lhe parece, como ele entende.
+373	"Judaism is diverse, so I too, the way I understand,	"O judaísmo é diverso, então eu também, do jeito que eu entendo,
+374	and so on, with a guitar, and he does shechitá, that's possible	e tal, com violão, e faço shechitá, pode ser
+375	too."	também."
+376	Forgive me, that is not the way.	Perdão, esse não é o caminho.
+377	What can you do?	O que se pode fazer?
+378	An ignoramus cannot be pious; you need to sit, learn a lot of Torah, a lot of halachá, and know how to return	Um ignorante não pode ser piedoso; é preciso sentar, estudar muita Torá, muita Halachá, e saber como voltar
+379	in teshuvah.	em teshuvá.
+380	Baruch HaShem.	Baruch HaShem.
+381	You see that the yetzer hara doesn't just let a person return in teshuvah.	Veja que o yetzer hará não deixa a pessoa simplesmente voltar em teshuvá.
+382	He tries to confuse him at the start.	No começo ele tenta confundi-lo.
+383	He confuses him.	Ele o confunde.
+384	There is opposition.	Há oposição.
+385	He tries to confuse him.	Ele tenta confundi-lo.
+386	A shochet who transgresses sins that the masses consider light.	Um shochet que transgride pecados que a multidão considera leves.
+387	Is it permitted to eat from his shechitá?	É permitido comer da shechitá dele?
+388	One who transgresses sins the masses consider light, out of lack of knowledge, so that to them it is not considered	Quem transgride pecados que a multidão considera leves, por falta de conhecimento, de modo que para eles não é considerado
+389	a prohibition, his shechitá is kosher.	proibição, sua shechitá é kasher.
+390	Yes.	Sim.
+391	That is in this kind of case.	Isso é nesse tipo de caso.
+392	His shechitá is kosher, but you need to teach him, to be more careful	A shechitá dele é kasher, mas é preciso ensiná-lo a ser mais cuidadoso
+393	with the mitzvot.	com as mitsvot.
+394	What, unfortunately, are sins that look light to the masses?	Quais são, infelizmente, os pecados que parecem leves aos olhos da multidão?
+395	What do you say?	O que vocês dizem?
+396	A famous example: matters of lashon hara.	Um exemplo famoso: assuntos de lashon hará.
+397	It is not light, but it looks light to the masses.	Não é leve, mas parece leve aos olhos da multidão.
+398	Unfortunately.	Infelizmente.
+399	Where do I say this from?	De onde eu digo isso?
+400	The Chafetz Chaim writes this in the introduction to his book.	O Chafetz Chaim escreve isso na introdução do seu livro.
+401	He says that lashon hara has become so ownerless in the eyes of many people,	Ele diz que o lashon hará se tornou tão sem dono aos olhos de muitas pessoas,
+402	the masses do not know at all that the prohibition of lashon hara applies even to what is true.	que a multidão nem sabe que a proibição do lashon hará vale até para o que é verdade.
+403	And even Torah scholars, the yetzer hara misleads them to rule leniently for themselves,	E até os estudiosos da Torá, o yetzer hará os engana para se darem permissão,
+404	that what they are saying is not included in lashon hara.	como se o que falam não fosse lashon hará.
+405	And the rabbi writes here, such as those who transgress "You shall not covet."	E o rabino escreve aqui, como os que transgridem "Não cobiçarás".
+406	All kinds of things.	Todo tipo de coisa.
+407	Even today, in our times, unfortunately, a person who disparages Torah scholars, talks, and this,	Até hoje, em nossos tempos, infelizmente, a pessoa que despreza estudiosos da Torá, fala, e isso,
+408	and that.	e aquilo.
+409	And this rabbi who passed away, did you see how much money he had in his account?	E esse rabino que faleceu, você viu quanto dinheiro ele tinha na conta?
+410	Tell me, you lunatic.	Diga-me, seu maluco.
+411	I could duplicate you ten times over, you wouldn't reach his knees, what?	Eu poderia te clonar dez vezes, você não chega nem aos joelhos dele, não é?
+412	So he was, baruch HaShem, guarding the holy covenant, he had abundance.	Ele, baruch HaShem, guardava o pacto sagrado, tinha fartura.
+413	What now, you...	E agora, você...
+414	People don't understand at all, they talk right and left.	As pessoas não entendem nada, falam para a direita e para a esquerda.
+415	So a person who disparages and so on, but in the eyes of the masses it looks as if he is just talking.	Então alguém que despreza e tal, mas aos olhos da multidão parece que ele só está falando.
+416	You see him with a beard, with a kippah, in the synagogue.	Você o vê com barba, com kipá, na sinagoga.
+417	And this is among the severe sins, to the point that he may not even have a share in the World to Come.	E esse é um dos pecados graves, a ponto de talvez nem ter parte no Mundo Vindouro.
+418	You disparage Torah scholars.	Você despreza estudiosos da Torá.
+419	There is no cure for his wound.	Não há cura para a ferida dele.
+420	And he is in fact an apikoros.	E ele é, na verdade, um apikoros.
+421	And nevertheless, he doesn't imagine the gravity of	E, mesmo assim, ele nem imagina a gravidade
+422	these things.	dessas coisas.
+423	Yes, you need to teach him.	Sim, é preciso ensiná-lo.
+424	Oy, oy, oy, oy, oy, oy, oy, oy, oy.	Ai, ai, ai, ai, ai, ai, ai, ai, ai.
+425	Is it permitted to eat from the shechitá of the Samaritans?	É permitido comer da shechitá dos samaritanos?
+426	There is a responsum here.	Há uma responsa aqui.
+427	So he writes: The Samaritans are the Kutim mentioned everywhere in Chazal.	Ele escreve: Os samaritanos são os cutim mencionados em toda parte em Chazal.
+428	Their law is that of complete gentiles; their shechitá is invalid and one must not take part in it.	Seu status é o de gentios completos; sua shechitá é inválida e não se deve participar dela.
+429	Is it permitted to eat from the shechitá of the Karaites?	É permitido comer da shechitá dos caraítas?
+430	The rabbi writes: In this time the shechitá of the Karaites is forbidden, even if a Jew stands over them and checks their	O rabino escreve: Nesta época a shechitá dos caraítas é proibida, mesmo que um judeu fique ao lado deles e verifique a
+431	knife.	faca.
+432	After that he writes here: Is it permitted to eat from the shechitá of a shochet who belongs to	Depois ele escreve aqui: É permitido comer da shechitá de um shochet que pertence a
+433	a group that denies the wisdom of Kabbalah, such as	um grupo que nega a sabedoria da Cabalá, como
+434	the Darda'im group?	o grupo dos darda'im?
+435	All sorts of wicked people like that, who deny the inner dimension of the Torah.	Todo tipo de gente má assim, que nega a dimensão interior da Torá.
+436	So he says, certainly l'chatchila it is forbidden to eat from their shechitá.	Então ele diz: com certeza, de início, é proibido comer da shechitá deles.
+437	One who denies one part of the Torah is considered a denier.	Quem nega uma parte da Torá é considerado herege.
+438	Therefore he says l'chatchila, certainly not.	Por isso ele diz que, de início, certamente não.
+439	He writes here in the notes below.	Ele escreve aqui nos comentários abaixo.
+440	The Darda'i group arose a few generations ago through someone in Yemen,	O grupo dos darda'im surgiu há algumas gerações por meio de alguém no Iêmen,
+441	who wrote the book Milchamot HaShem, parentheses open, I have spoken about this several times, I read his whole	que escreveu o livro Milchamot HaShem; abre parênteses, já falei disso várias vezes, li todo o
+442	book, it is all one big joke, nonsense and foolishness.	livro dele, é tudo uma grande piada, besteira e tolice.
+443	Not even the arguments of a kindergarten child.	Nem sequer argumentos de criança do jardim de infância.
+444	There are some who think, ah, and so on, nothing.	Há quem pense: ah, e tal, nada.
+445	Nothing, nothing, nothing.	Nada, nada, nada.
+446	Yes, and Rav Tzuberi, and several more sages	Sim, e o Rav Tzuberi, e mais alguns sábios
+447	wrote the book, because at that time it was needed, Emunat HaShem, which refuted everything he wrote,	escreveram o livro, porque naquele tempo era necessário, Emunat HaShem, que refutou tudo o que ele escreveu
+448	and showed also how he omits and distorts; he writes, it is all from a great	e mostrou também como ele omite e distorce; escreve que tudo vem de um grande
+449	corruption.	erro.
+450	Okay, Rav Ben Tzion Abba Shaul says here that he denied the truth of the words of the holy Zohar	Bem, o Rav Ben Tzion Abba Shaul diz aqui que ele negou a verdade das palavras do sagrado Zohar
+451	and of the Kabbalists, and all the greats of that generation and the next came out against him.	e dos cabalistas, e todos os grandes daquela geração e da seguinte se levantaram contra ele.
+452	As for the kashrut of the shechitá of those who follow his path, it seems that although their outlook is a great flaw	Quanto à kashrut da shechitá dos que seguem o seu caminho, parece que, embora a visão deles seja uma grande falha
+453	in the fundamentals of faith, and they will in the future have to answer for it,	nos fundamentos da fé, e um dia terão de prestar contas por isso,
+454	for there is in this "do not turn from all that they tell you, right or left," since all the greats of Israel already accepted	pois há nisso "não te desviarás de tudo o que te disserem, nem para a direita nem para a esquerda", já que todos os grandes de Israel aceitaram
+455	that Kabbalah is a true tradition from Rabbi Shimon bar Yochai.	que a Cabalá é uma tradição verdadeira de Rabi Shimon bar Yochai.
+456	Therefore it was forbidden for them to turn right or left, and they should have set aside their opinion before the sages and not relied on	Por isso lhes era proibido desviar-se para a direita ou para a esquerda, e deveriam ter anulado a opinião deles diante dos sábios e não se apoiar
+457	their own reasoning, for one who challenges Kabbalah challenges the faith of the sages, since Kabbalah is a great foundation	no próprio raciocínio, pois quem contesta a Cabalá contesta a fé dos sábios, já que a Cabalá é um grande fundamento
+458	in our religion and faith, in which the revealed and the hidden complement and complete each other. And see also	da nossa religião e fé, em que o revelado e o oculto se complementam e se completam. E veja também
+459	the words of the Gra, in his commentary on Mishlei chapter 5, verse 18, who wrote: When you understand the secret,	as palavras do Gra, em seu comentário a Mishlei, capítulo 5, versículo 18, que escreveu: Quando você compreender o segredo,
+460	you will see how the plain meaning is correct and true, and you will then rejoice more in the plain meaning	verá como o sentido simples é correto e verdadeiro, e então se alegrará mais com o sentido simples
+461	that you innovated long ago.	que você inovou há muito tempo.
+462	And I heard one of the great ones say that those who deny the hidden Torah, openly,	E ouvi um dos grandes dizer que os que negam a Torá oculta, abertamente,
+463	deny the revealed Torah in secret.	negam a Torá revelada em segredo.
+464	And see also the words of Rav Dushinsky in his approbation to the book Emunat HaShem, and so on and so on.	E veja também as palavras do Rav Dushinsky em sua aprovação ao livro Emunat HaShem, e assim por diante.
+465	And for this reason, l'chatchila one should not appoint a shochet from their community to do shechitá.	E por isso, de início, não se deve nomear para a shechitá um shochet da comunidade deles.
+466	After that he writes that b'diavad	Depois ele escreve que, depois do fato,
+467	they are no worse on his part, as in the Beit Yosef cited above,	eles não são piores da parte dele, como no Beit Yosef citado acima,
+468	yes?	certo?
+469	that all that was required for their shechitá, that a Jew stand over them, is only because they do not accept the laws of shechitá.	que tudo o que se exigiu para a shechitá deles, que um judeu fique ao lado, é só porque não aceitam as leis da shechitá.
+470	But in other mitzvot that they are careful about, they are trustworthy.	Mas nas outras mitsvot em que são cuidadosos, são confiáveis.
+471	So in the mitzvah of shechitá they are careful.	Então na mitsvá da shechitá eles são cuidadosos.
+472	Yes?	Certo?
+473	They are careful, because it is not only according to Kabbalah.	São cuidadosos, porque não é só segundo a Cabalá.
+474	Yes.	Sim.
+475	So therefore, b'diavad.	Então, por isso, depois do fato.
+476	Good.	Bom.
+477	What is the law of the shechitá of Ethiopian Jews?	Qual é a lei da shechitá dos judeus da Etiópia?
+478	The rabbi writes here: The law of Ethiopian Jews is like that of doubtful Jews, stringently.	O rabino escreve aqui: A lei dos judeus da Etiópia é a de judeus em dúvida, com rigor.
+479	And likewise their shechitá is kosher, stringently.	E também a shechitá deles é kasher, com rigor.
+480	He elaborates on this and brings the Radbaz's responsum and many other great authorities.	Ele se estende sobre isso e traz a responsa do Radbaz e de muitos outros grandes sábios.
+481	And he writes that l'chatchila, anyone who fears HaShem in his heart should do a conversion	E ele escreve que, de início, todo aquele que teme a HaShem em seu coração deve fazer uma conversão
+482	as a stringency.	por rigor.
+483	And if they do a conversion as a stringency, that is l'chatchila.	E se fazem a conversão por rigor, isso é o ideal, de início.
+484	That is excellent.	Isso é excelente.
+485	Yes, regarding the shechita of the Jews of India, there were the Bene Israel	Sim, quanto à shechitá dos judeus da Índia, havia os Bene Israel
+486	and the Bnei Menashe. The great sages of Israel disagreed about them. The son of	e os Bnei Menashe. Os grandes sábios de Israel divergiram sobre eles. O filho do
+487	the Ben Ish Chai, Rabbenu Yaakov Chaim, disqualified the shechita of some	Ben Ish Chai, Rabenu Yaakov Chaim, invalidou a shechitá de parte
+488	of those who emigrated; on the other hand, there are those who permitted it.	dos que emigraram; por outro lado, há os que a declararam kasher.
+489	A dispute.	Uma divergência.
+490	Also regarding the Jews of India, the Poskim wrote	Também quanto aos judeus da Índia, os Poskim escreveram
+491	that it is good for them to do a conversion as a stringency.	que é bom que façam uma conversão por rigor.
+492	Mainly those who are called Bene Israel.	Principalmente os chamados Bene Israel.
+493	Rav Ben Tzion writes here: the Jews of India, regarding shechita, have the law of all kosher Jews,	O Rav Ben Tzion escreve aqui: os judeus da Índia, quanto à shechitá, têm o status de todos os judeus kasher,
+494	but in any case, regarding marriage, one should do for the Jews of India called Bene Israel	mas, de todo modo, quanto ao casamento, deve-se fazer, para os judeus da Índia chamados Bene Israel,
+495	a conversion as a stringency.	uma conversão por rigor.
+496	A conversion as a stringency: hatafat dam brit and immersion in a mikveh.	Conversão por rigor: hatafat dam brit e imersão no mikvê.
+497	As a stringency, in case he	Por rigor, para o caso de ele
+498	needs it.	precisar.
+499	Here below, in the notes, he brings: according to what we spoke with Torah students from India who know the situation closely,	Aqui embaixo, nas notas, ele traz: segundo o que conversamos com estudantes de Torá originários da Índia, que conhecem de perto a situação,
+500	the Jews of India divide into three groups.	os judeus da Índia se dividem em três grupos.
+501	One group is of Jews who arrived there from Babylon.	Um grupo é de judeus que chegaram lá vindos da Babilônia.
+502	These Jews are part of Babylonian Jewry, and there is no question about them.	Esses judeus fazem parte do judaísmo babilônico, e não há nenhuma dúvida sobre eles.
+503	The second group is of the Jews of the city of Cochin, and one can say that all of them are presumed	O segundo grupo é o dos judeus da cidade de Cochim, e pode-se dizer que todos são presumidos
+504	Jews, both the white community and the black community.	judeus, tanto a comunidade branca quanto a negra.
+505	The third group is called Bene Israel.	O terceiro grupo se chama Bene Israel.
+506	The experts identify them by their family names and place of origin.	Os conhecedores os identificam pelos nomes de família e pelo lugar de origem.
+507	And in the book Zivchei Tzedek, siman 13, are the responsa of the sages of Tzfat and Tiberias, who replied	E no livro Zivchei Tzedek, simán 13, estão as responsas dos sábios de Tzfat e Tiberíades, que responderam
+508	to the Jews of the holy community of Bombay in the year 5630, and wrote to them	aos judeus da santa comunidade de Bombaim no ano de 5630, e lhes escreveram
+509	that the people of India called Bene Israel, who dwell from Bombay onward, anyone who comes to take refuge under the wings of the Shechinah and accepts	que os habitantes da Índia chamados Bene Israel, que vivem de Bombaim em diante, todo aquele que vem se abrigar sob as asas da Shechiná e aceita
+510	with complete faith the Written Torah and the Oral Torah, and does all that we do, observing Shabbat, and eats	com fé plena a Torá escrita e a Torá oral, e faz tudo o que fazemos, guardando o Shabat, e come
+511	kosher meat from an authorized shochet, and keeps all the laws of treifot, so that they do not fall short even by the tip of a yud, then certainly	carne kasher de um shochet autorizado, e cumpre todas as leis das trefot, de modo que não deixam a desejar nem na ponta de um iud, então certamente
+512	it is forbidden to rebuff them and cause them shame; rather it is a great mitzvah to bring them close and to strive with them	é proibido afastá-los e causar-lhes humilhação; ao contrário, é uma grande mitsvá aproximá-los e empenhar-se com eles
+513	to teach them the way they should go, to join them to the community and call them up to the Torah. But	para ensinar-lhes o caminho que devem seguir, uni-los à comunidade e chamá-los à Torá. Mas
+514	on the other hand, they showed me a pamphlet that was published, containing responsa from the year 5674,	por outro lado, mostraram-me um panfleto que foi publicado, com responsas do ano de 5674,
+515	in which Rabbi Yaakov, son of Rabbenu Yosef Chaim, author of the Ben Ish Chai, was asked, as were the courts of Baghdad	em que foram consultados o Rabi Yaakov, filho de Rabenu Yosef Chaim, autor do Ben Ish Chai, e os tribunais de Bagdá
+516	and the holy city of Jerusalem, and they replied that the Bene Israel of India are like Karaites,	e da cidade santa de Jerusalém, e eles responderam que os Bene Israel da Índia são como caraítas,
+517	and that it is forbidden to marry them out of concern for mamzerut, lest their kiddushin are kiddushin	e que é proibido casar-se com eles por receio de mamzerut, pois talvez seus kidushin sejam kidushin
+518	and their gittin are not gittin. But it seems that regarding all the halachot, the status of the Bene Israel	e seus guitin não sejam guitin. Mas parece que, quanto a todas as halachot, o status dos Bene Israel
+519	in India is like all kosher Jews: they count for a minyan and may lead the prayers, and so on.	na Índia é o de todos os judeus kasher: contam para o minian e podem conduzir as orações, e assim por diante.
+520	However, regarding marriage one should be stringent, and not marry them unless they do a conversion as a stringency,	Porém, quanto ao casamento, deve-se ser rigoroso, e não se casar com eles a não ser que façam uma conversão por rigor,
+521	and so on.	e assim por diante.
+522	Then below he writes: Chacham Ben Tzion — and one should know that regarding the anusim of the city of Mashhad	Depois ele escreve embaixo: Chacham Ben Tzion — e deve-se saber que, quanto aos anusim da cidade de Mashhad
+523	in Persia, who were forced to convert to Islam for several decades,	na Pérsia, que foram forçados a se converter ao islamismo por algumas décadas,
+524	during which they continued to keep Torah and mitzvot in secret, married properly, and slaughtered and made the meat kosher	durante as quais continuaram a guardar em segredo a Torá e as mitsvot, casaram-se corretamente, fizeram a shechitá e tornaram a carne kasher
+525	according to the law, and afterward, when the decree was annulled, they returned to observe all the mitzvot openly — their status is like all	conforme a lei, e depois, quando o decreto foi revogado, voltaram a cumprir todas as mitsvot abertamente — seu status é o de todos os
+526	kosher Jews, and their shechita is kosher. After this he writes:	judeus kasher, e sua shechitá é kasher. Depois disso ele escreve:
+527	The question: what is the law of the shechita of immigrants from the Soviet Union after the fall of	A pergunta: qual é a lei da shechitá dos imigrantes da União Soviética depois da queda da
+528	the Iron Curtain, who come together with gentiles too? He writes: immigrants from the Soviet Union are presumed	Cortina de Ferro, que vêm junto com não judeus também? Ele escreve: os imigrantes da União Soviética são presumidos
+529	Jews; their status is like that of children taken captive; their shechita is like the shechita of kosher Jews.	judeus; seu status é o de crianças que foram capturadas; sua shechitá é como a shechitá de judeus kasher.
+530	In any case, one must know that many of them need to be checked and investigated,	De qualquer modo, é preciso saber que muitos deles precisam ser examinados e investigados,
+531	because many gentiles immigrated with them.	porque muitos não judeus imigraram com eles.
+532	I myself heard from Rav Yitzchak Peretz,	Eu mesmo ouvi do Rav Yitzchak Peretz,
+533	he told me that more than five hundred thousand gentiles immigrated from the Soviet Union.	ele me disse que mais de quinhentos mil não judeus imigraram da União Soviética.
+534	And therefore,	E por isso,
+535	when Rav Ben Tzion Abba Shaul wrote this, that great aliyah I am talking about had not yet happened,	quando o Rav Ben Tzion Abba Shaul escreveu isso, ainda não tinha havido essa grande aliyá de que estou falando,
+536	and so there were only those who were uncircumcised and so on, but truly like captive children, since they were forbidden	e então havia apenas os incircuncisos e assim por diante, mas realmente como crianças capturadas, pois lhes era proibido
+537	to keep Judaism. But in the latest aliyah there were big problems, mainly	guardar o judaísmo. Mas na última aliyá houve grandes problemas, principalmente
+538	because of that fatso who became a vegetable, whom not even in the Shmita year do they let go.	por causa daquele gordão que virou vegetal, que nem no ano da Shemitá eles soltam.
+539	Right?	Certo?
+540	You know who I mean, right?	Vocês sabem de quem estou falando, não é?
+541	Sharon.	Sharon.
+542	So, yes.	Então, sim.
+543	So with anything like this involving Jews from the Soviet Union, one must	Então, em qualquer caso assim com judeus da União Soviética, é preciso
+544	investigate them very thoroughly today, because this country	investigá-los muito bem hoje, porque este país
+545	is full of gentiles.	está cheio de não judeus.
+546	Let it be clear: full to a degree that cannot be described.	Que fique claro: cheio num grau que não dá para descrever.
+547	Full, flooded.	Cheio, inundado.
+548	In all the schools, secular ones, middle schools, high schools, and more and more.	Em todas as escolas, as laicas, os ginásios, os colégios e muito mais.
+549	And therefore, with anything like this, investigate well.	E por isso, em qualquer caso assim, investigue bem.
+550	What the sources are.	Quais são as fontes.
+551	Regarding a shochet who informs the authorities on members of the community.	Quanto a um shochet que denuncia às autoridades membros da comunidade.
+552	A shochet who is a moser and informs on Jews: may one eat from his shechita?	Um shochet que é moser e delata judeus: é permitido comer da sua shechitá?
+553	Yes, that is according to the essential law.	Sim, isso é segundo a lei em sua essência.
+554	The Rema writes that a moser has the status of a mumar and his shechita is invalid, but some permit it.	O Rema escreve que o moser tem o status de mumar e sua shechitá é inválida, mas há quem a permita.
+555	The Pri Chadash and others write that one should rule like the opinion of those who permit it, as Maran rules without qualification.	O Pri Chadash e outros escrevem que se deve decidir segundo a opinião dos que a permitem, como Maran decide sem ressalvas.
+556	And the Chochmat Adam adds that it has become like permitted, because of our many sins.	E o Chochmat Adam acrescenta que isso se tornou como permitido, por causa dos nossos muitos pecados.
+557	As if it were permitted that people today inform and so on. Look at Corona: people did it as if it were written in the Ten Commandments,	Como se fosse permitido que as pessoas hoje delatem e assim por diante. Veja na Covid: as pessoas fizeram isso como se estivesse escrito nos Dez Mandamentos,
+558	to inform.	delatar.
+559	As if the first commandment were: inform on whoever prays in a minyan.	Como se o primeiro mandamento fosse: delate quem reza num minian.
+560	HaShem, have mercy and save us.	HaShem, tenha misericórdia e salve.
+561	To buy eggs at the grocery, ten people can stand in line.	Para comprar ovos na mercearia, dez pessoas podem ficar na fila.
+562	But to say Kaddish, no.	Mas para dizer Kadish, não.
+563	That is how it is when rulings are made according to minim and apikorsim.	É assim quando se decide segundo hereges e apikorsim.
+564	Good.	Bom.
+565	So these, gentlemen, are the matters. There are a few more examples, but here the cane stood	Então esses, senhores, são os assuntos. Há mais alguns exemplos, mas aqui o canal ficou
+566	in its place, and with the help of HaShem we have finished, thank HaShem, the first chapter. Blessed is Adonai	no seu lugar, e com a ajuda de HaShem terminamos, graças a HaShem, o primeiro capítulo. Bendito seja Adonai
+567	forever, amen and amen.	para sempre, amém e amém.

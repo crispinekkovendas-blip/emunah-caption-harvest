@@ -1,0 +1,994 @@
+0	Good evening, holy congregation, welcome. We are	Boa noite, santa congregação, sejam bem-vindos. Nós estamos
+1	in the holy city. Is it a city or a village?	na cidade santa. É uma cidade ou uma aldeia?
+2	It's a city, and it's called Kfar Saba.	É uma cidade, e se chama Kfar Saba.
+3	It already was one.	Já foi.
+4	No, so let's not make them forget that they were once	Não, então não vamos fazê-los esquecer que um dia foram
+5	a village. For generations the name "Kfar" will stay with them.	uma aldeia. Por todas as gerações o nome "Kfar" ficará com eles.
+6	The holy city of Kfar Saba. Welcome, we are happy	A cidade santa de Kfar Saba. Bem-vindos, estamos felizes
+7	that you are with us. We also have guests here from Or Yehuda.	por vocês estarem conosco. Temos aqui também convidados de Or Yehuda.
+8	I see some from Even Yehuda, no, not from Even Yehuda, Even...	Vejo alguns de Even Yehuda, não, não de Even Yehuda, Even...
+9	Ma'aseh Bonim.	Maase Bonim.
+10	Sagi is with us.	Sagi está conosco.
+11	Petah Tikva also came.	Petach Tikva também veio.
+12	It is a great merit, a great merit, to come	É um grande mérito, um grande mérito, vir
+13	to a Torah class,	a uma aula de Torá,
+14	to leave the house, to leave the family, to leave everything	deixar a casa, deixar a família, deixar tudo
+15	and come to hear	e vir ouvir
+16	a class, a Torah class. What an important thing this is.	uma aula, uma aula de Torá. Que coisa importante isso é.
+17	Also spiritually, you put spirituality into the mind,	Também do ponto de vista espiritual, você põe espiritualidade na mente,
+18	you put spirituality into the soul, a little bit, with all the headache	põe espiritualidade na alma, um pouco, com toda a dor de cabeça
+19	that there is,	que existe,
+20	with all the media there is today, you merit to enter	com toda a mídia que existe hoje, você merece entrar
+21	a Torah class, to shake up the mind a little, to put into it	numa aula de Torá, sacudir um pouco a mente, colocar nela
+22	into it	nela
+23	a spiritual vitamin.	uma vitamina espiritual.
+24	But it's not only a spiritual vitamin. When people come in the way of	Mas não é só uma vitamina espiritual. Quando se vem pelo caminho do
+25	the Baal Shem Tov, they also receive insight.	Baal Shem Tov, também se recebe uma percepção.
+26	Insights. The mind starts to work. The mind starts	Percepções. A mente começa a trabalhar. A mente começa
+27	to receive, wow, concepts	a receber, uau, conceitos
+28	that we don't always pay attention to.	aos quais nem sempre prestamos atenção.
+29	These concepts are very, very important for life	Esses conceitos são muito, muito importantes para a vida
+30	and for the service of HaShem. So happy are you that you came.	e para o serviço a HaShem. Então, felizes de vocês que vieram.
+31	And if HaShem granted you the merit to come to such a class, it	E se HaShem lhes concedeu o mérito de vir a uma aula assim, isso
+32	shows that	mostra que
+33	you are not just ordinary people, because to come to classes of the way of	vocês não são pessoas quaisquer, porque para vir às aulas do caminho do
+34	the Baal Shem Tov you need the merit of the forefathers.	Baal Shem Tov é preciso o mérito dos antepassados.
+35	The merit of the forefathers only shows that everyone who is here	O mérito dos antepassados só mostra que todos que estão aqui
+36	in the class	na aula
+37	had a righteous grandmother, had a righteous grandfather, a righteous	tiveram uma avó justa, tiveram um avô justo, um pai
+38	father. It is the merit of the forefathers to come to these classes,	justo. É mérito dos antepassados vir a essas aulas,
+39	and as I always say, that the classes of the way of	e como eu sempre digo, que as aulas do caminho do
+40	Derech HaBaal Shem Tov classes aren't thanks to my merit,	As aulas de Derech HaBaal Shem Tov não são por mérito meu,
+41	it's thanks to my mother, of blessed memory, thanks to the holy grandfathers	é por mérito da minha mãe, de abençoada memória, por mérito dos avós santos
+42	I had, Saba Yehuda, Saba Shlomo,	que tive, Saba Yehuda, Saba Shlomo,
+43	the grandmothers I had, who were holy, and my great-grandfather	as avós que tive, que eram santas, e o meu bisavô
+44	Mori Yitzchak Gavra, who is buried in Ajur.	Mori Yitzchak Gavra, que está enterrado em Ajur.
+45	I have no doubt this is purely the merit of previous generations.	Não tenho dúvida de que isso é puramente mérito das gerações anteriores.
+46	They, they there in heaven	Eles, eles lá no céu
+47	strive and work on behalf of the grandchildren, the generations.	se esforçam e atuam em favor dos netos, das gerações.
+48	"Hello, hello, my grandson, Creator of the world, bring him a little closer,	"Alô, alô, o meu neto, Criador do mundo, aproxime-o um pouco,
+49	do something, he's my grandson." They sit there	faça algo, ele é o meu neto." Eles ficam sentados lá
+50	pulling strings.	mexendo os pauzinhos.
+51	You didn't just happen to get here. There is someone in heaven,	Vocês não chegaram aqui por acaso. Há alguém no céu,
+52	holy souls who look after you.	almas santas que cuidam de vocês.
+53	A fact:	Um fato:
+54	many don't merit it.	muitos não têm esse mérito.
+55	You need the merit of the fathers.	É preciso o mérito dos pais.
+56	All Jews are sweet, but you need connections.	Todos os judeus são queridos, mas é preciso ter um empurrãozinho.
+57	You need to have up above all kinds of advocates	É preciso ter lá em cima todo tipo de defensores
+58	who work for you.	que trabalhem por você.
+59	Today I want to talk about a very important topic,	Hoje quero falar sobre um tema muito importante,
+60	very.	muito.
+61	I had a few points,	Eu tinha alguns pontos,
+62	it rang in my head: talk to them about this, forget it,	soou na minha cabeça: fale com eles sobre isso, deixe pra lá
+63	all the other topics you're planning, talk to them	todos os outros temas que você planeja, fale com eles
+64	about this, about what I'm going to talk to you about today.	sobre isto, sobre o que vou falar com vocês hoje.
+65	The original plan wasn't like this, but it	O plano original não era assim, mas isso
+66	changed.	mudou.
+67	"They assembled against Moshe and against Aharon." Parashat Korach.	"E se reuniram contra Moshé e contra Aharon." Parashá Korach.
+68	…	…
+69	"They assembled against Moshe and against Aharon."	"E se reuniram contra Moshé e contra Aharon."
+70	You couldn't find anything else to do in life but to start up	Não achou mais nada para fazer na vida além de se meter
+71	with the man, with the angel of Elokim?	com o homem, com o anjo de Elokim?
+72	Tell me, are you serious?	Diga-me, você está falando sério?
+73	"A prayer of Moshe, the man of Elokim."	"Uma prece de Moshé, homem de Elokim."
+74	Do you know what it means to speak about a rav, just to open	Você sabe o que é falar sobre um rav, simplesmente abrir
+75	your mouth and speak about a rav? Do you know what that is?	a boca e falar sobre um rav? Você sabe o que é isso?
+76	Not the Chief Rabbi. About a rav. To speak about a rav. You	Não o rabino-chefe. Sobre um rav. Falar sobre um rav. Sabe
+77	know what? Not about a rav. About a Jew.	de uma coisa? Nem sobre um rav. Sobre um judeu.
+78	We don't speak about Jews.	Não se fala sobre judeus.
+79	All the more so not about a rav. All the more so not about a rav who is a rav	Muito menos sobre um rav. Muito menos sobre um rav que é um rav
+80	community rabbi, neighborhood rabbi, city rabbi, the Chief Rabbi.	rabino da comunidade, rabino do bairro, rabino da cidade, o Rabino-Chefe.
+81	Come on, bro, Moshe Rabbeinu, wow, you're walking into fire!	Ora, irmão, Moshé Rabênu, uau, você está entrando no fogo!
+82	I don't know if it's fire, I call it a volcano.	Não sei se é fogo, eu chamo de vulcão.
+83	It's like putting your hand	É como pôr a mão
+84	into a volcano. It's	dentro de um vulcão. É
+85	a spark,	uma faísca,
+86	a flame. From the moment it grabs him, he's finished, and this	uma chama. Do momento em que o pega, ele está acabado, e foi isso
+87	is what really happened to him and to his congregation.	que realmente aconteceu com ele e com a sua congregação.
+88	But come, let's try to learn the topic.	Mas venham, vamos tentar estudar o tema.
+89	What was there, what happened there: "They assembled against Moshe and against	O que houve ali, o que aconteceu ali: "Reuniram-se contra Moshé e contra
+90	Aharon and said to them: You have gone too far!	Aharon e disseram-lhes: Já basta de vocês!
+91	For the whole congregation, all of them are holy,	Pois toda a congregação, todos eles são santos,
+92	and HaShem is in their midst.	e no meio deles está HaShem.
+93	Why then do you raise yourselves above the assembly of HaShem?"	Por que então vocês se elevam acima da assembleia de HaShem?"
+94	Pay attention, there are here	Prestem atenção, há aqui
+95	two points. The first point:	dois pontos. O primeiro ponto:
+96	"For the whole congregation,	"Pois toda a congregação,
+97	all of them are holy."	todos eles são santos."
+98	First,	Primeiro,
+99	even in the cantillation marks it is so: "For the whole congregation"	até nos sinais de cantilação é assim: "Pois toda a congregação"
+100	is pashta, "all of them holy" is zakef, and "in their midst is HaShem" is etnachta.	é pashta, "todos eles santos" é zakef, e "no meio deles está HaShem" é etnachta.
+101	There are two claims here. The first claim: "the whole congregation,	Há aqui duas alegações. A primeira alegação: "toda a congregação,
+102	all of them holy." The second claim: "and HaShem is in their midst." What,	todos eles santos." A segunda alegação: "e no meio deles está HaShem." O que
+103	what is going on here? What was the message?	o que está acontecendo aqui? Qual era a mensagem?
+104	Moshe Rabbeinu is Moshe Rabbeinu.	Moshé Rabênu é Moshé Rabênu.
+105	Aharon HaKohen is Aharon HaKohen.	Aharon HaCohen é Aharon HaCohen.
+106	Beneath them are the deputy priests.	Abaixo deles estão os sacerdotes adjuntos.
+107	The deputies of Levi, the tribe of Levi. Beneath them is all of Israel.	Os adjuntos de Levi, a tribo de Levi. Abaixo deles está todo o povo de Israel.
+108	Korach comes and says,	Vem Korach e diz:
+109	What is all this hierarchy?	Que hierarquia é toda essa?
+110	What is this game of classes?	Que jogo de classes é esse?
+111	You are a rabbi, you have students,	Você é rabino, tem alunos,
+112	and there are those who,	e há aqueles que,
+113	there are those with ordination and those who didn't receive ordination, who didn't please him,	há os que têm ordenação e os que não receberam ordenação, que não o agradaram,
+114	so he is still not worthy.	então ele ainda não é digno.
+115	Enough, enough!	Chega, chega!
+116	Enough of this.	Chega disso.
+117	You are above him, he is beneath you.	Você está acima dele, ele está abaixo de você.
+118	"For the whole congregation, all of them are holy."	"Pois toda a congregação, todos eles são santos."
+119	Korach claims	Korach alega
+120	We're all the same.	Somos todos iguais.
+121	You're not a Kohen, that one a Levi, that one a Yisrael, one above	Você não é kohen, aquele levi, aquele israelita, um acima
+122	the other, three levels.	do outro, três degraus.
+123	Not everyone is holy?	Nem todos são santos?
+124	"And your people are all tzaddikim."	"E o seu povo é todo de tsadikim."
+125	And therefore,	E, portanto,
+126	you, Moshe Rabbeinu, are exactly like me, sitting here	você, Moshé Rabênu, é exatamente como eu, sentado aqui
+127	next to me. Sit next to me.	ao meu lado. Sente-se ao meu lado.
+128	Why do you sit up there on the stage while I have to sit	Por que você fica sentado lá no palco e eu preciso sentar
+129	here in the crowd? No way. Come, come down, come down	aqui na plateia? De jeito nenhum. Venha, desça, desça
+130	from the stage, come sit in the crowd, be like everyone else.	do palco, venha sentar na plateia, seja como todos.
+131	Rabbi Ovadia, why do you wear that robe?	Rabino Ovadia, por que você veste esse manto?
+132	What is this robe? What are these performances? Aharon	O que é esse manto? O que são essas encenações? Aharon
+133	the Kohen? What are these eight priestly garments?	o kohen? O que são essas oito vestes sacerdotais?
+134	Dress like me. See, a short suit? That's it.	Vista-se como eu. Está vendo, um terno curto? Pronto.
+135	Be like this.	Seja assim.
+136	That's it. Don't come with the pomp of some High Priest.	Pronto. Não venha com a pompa de algum sumo sacerdote.
+137	Rabbi Ovadia's clothes, a robe. What is	As roupas do Rabino Ovadia, um manto. O que são
+138	these performances? Adonai Adima, you're the same.	essas encenações? Meu senhor, você é igual.
+139	We're all holy. You're not above me and I'm not	Somos todos santos. Você não está acima de mim e eu não estou
+140	above you. We're the same.	acima de você. Somos iguais.
+141	Korach argues for abolishing the classes.	Korach defende a abolição das classes.
+142	There's no father, mother,	Não há pai, mãe,
+143	and below them the children, the sons. No, no,	e abaixo deles os filhos, os meninos. Não, não,
+144	no.	não.
+145	Children need to feel	Os filhos precisam sentir
+146	that we have the right to speak to our parents however	que temos o direito de falar com nossos pais como
+147	we feel like,	nos der na telha,
+148	because you're no more than we are. So what if you're	porque vocês não são mais que nós. E daí se vocês são
+149	my parents? We're equal. There are no parents	meus pais? Somos iguais. Não há pais
+150	and below them children, and below the children grandchildren.	e abaixo deles filhos, e abaixo dos filhos netos.
+151	No.	Não.
+152	Parents and children are the same level.	Pais e filhos são o mesmo nível.
+153	There's no class teacher	Não há professor da turma
+154	and students.	e alunos.
+155	And when the teacher enters the class, all the students must	E quando o professor entra na sala, todos os alunos precisam
+156	stand up. Korach says, no, no,	se levantar. Korach diz: não, não,
+157	there's no need to stand. Maybe the opposite, maybe you too,	não precisa se levantar. Talvez o contrário, talvez você também,
+158	teacher, should stand when the student enters. I'm willing. We're	professor, deva se levantar quando o aluno entra. Eu estou disposto. Nós estamos
+159	willing to stand when you enter, but also when we	dispostos a nos levantar quando você entrar, mas também quando nós
+160	standing, you will stand too.	entramos, você também se levanta.
+161	Abolition of social classes.	Abolição das classes sociais.
+162	That is what happens today.	É isso que acontece hoje.
+163	It happens today. Yes.	Acontece hoje. Sim.
+164	In the footsteps of Mashiach, chutzpah will increase.	Nos passos do Mashiach, a insolência aumentará.
+165	A son shames his father,	O filho envergonha o pai,
+166	…	…
+167	a daughter-in-law rises against her mother-in-law.	a nora se levanta contra a sogra.
+168	A daughter-in-law mocks her mother-in-law.	A nora zomba da sogra.
+169	A daughter rises against her mother. The daughter scoffs	A filha se levanta contra a mãe. A filha zomba
+170	at her mother, lightly.	da própria mãe, com leviandade.
+171	She speaks insolently to her mother-in-law. A son doesn't see his father	Fala com insolência com a sogra. O filho não enxerga o pai
+172	even from a meter away.	nem a um metro de distância.
+173	Hey, so what if you're my father? He talks to him	Ei, e daí que é meu pai? Ele fala com ele
+174	the way he talks to his buddy from the market.	como fala com o amigo do mercado.
+175	Who started this? Who was it? Who was it?	Quem começou isso? Quem foi? Quem foi?
+176	Korach. Korach argued for equality.	Korach. Korach defendeu a igualdade.
+177	Equality.	Igualdade.
+178	No Kohanim,	Sem cohanim,
+179	no Levites, no Israelites. There is only one thing.	sem levitas, sem israelitas. Só existe uma coisa.
+180	We are all Jews.	Somos todos judeus.
+181	Wow.	Uau.
+182	That sounds like, everyone is the same. How nice.	Parece algo assim: todos são iguais. Que bom.
+183	What's the problem?	Qual é o problema?
+184	What's the problem? There is a problem. Why shouldn't we really be	Qual é o problema? Há um problema. Por que não seríamos de verdade
+185	all the same?	todos iguais?
+186	The Derech HaBaal Shem Tov, by the way, says that in essence	A Derech HaBaal Shem Tov, aliás, diz que na essência
+187	we are all the same.	somos todos iguais.
+188	We are all the same. I am no better than you. Any	Somos todos iguais. Não sou melhor que você. Qualquer
+189	flaw you have, HaShem could have created me with it. Yes,	defeito que você tem, HaShem poderia ter me criado com ele. Sim,
+190	the Baal Shem Tov tells you.	o Baal Shem Tov diz isso a você.
+191	Does that mean that because of this I can speak to my father	Isso quer dizer que, por isso, posso falar com meu pai
+192	however I feel like? Absolutely not. When I come to greet him,	como me der na telha? Absolutamente não. Quando vou cumprimentá-lo,
+193	I approach	eu me aproximo,
+194	take his hand, a kiss on the back of the hand.	pego a mão dele, um beijo no dorso da mão.
+195	If the spirit rests on me and I merit it, I also give	Se o espírito repousa sobre mim e eu mereço, também lhe dou
+196	him a kiss on the head.	um beijo na cabeça.
+197	Here, the head.	Aqui, na cabeça.
+198	And I sit	E me sento
+199	next to him.	ao lado dele.
+200	to tell my father the word "no"	dizer ao meu pai a palavra "não"
+201	Hello, who ever knew you'd say no to your father?	Alô, quem já viu você dizer não ao seu pai?
+202	Who?	Quem?
+203	My father, may he live long, invites me for Shabbat and I say,	Meu pai, que ele viva muitos anos, me convida para o Shabat e eu digo:
+204	"I can't come, for reasons that I	"Não posso ir, por motivos que eu
+205	can't detail." Yes. No, you surely don't	não posso detalhar." Sim. Não, vocês certamente não
+206	want to hear the personal details of my	querem ouvir os detalhes pessoais da minha
+207	personal life. Why can't I come to him	vida pessoal. Por que não posso ir até ele
+208	for Shabbat?	no Shabat?
+209	So he says to me, "Shai, are you coming for Shabbat or not?	Então ele me diz: "Shai, você vem para o Shabat ou não?
+210	What's happening?"	O que está acontecendo?"
+211	So how do I tell him I can't come? Ah,	Então como digo a ele que não posso ir? Ah,
+212	"Abba, thank you so much for inviting me. Let me check	"Abá, muito obrigado por me convidar. Deixe-me verificar
+213	this, I'll get back to you with an answer, but give me	isso, eu volto com uma resposta, mas me dê
+214	time to get organized. Yes, Abba, I	tempo para me organizar. Sim, Abá, eu
+215	will get back to you on time and it will be fine, Abba, don't	volto com a resposta a tempo e vai ficar tudo bem, Abá, não
+216	worry."	se preocupe."
+217	After half an hour, an hour: "Ah, Abba, in the meantime I'm	Depois de meia hora, uma hora: "Ah, Abá, enquanto isso eu
+218	still checking the matter. It's a continued check.	continuo verificando o assunto. É uma verificação em andamento."
+219	I let him understand through hints	Eu o deixo entender por insinuações
+220	and secrets and gematrias	e segredos e guematrias
+221	that the answer leans toward the negative, but I won't	que a resposta tende para o negativo, mas eu não
+222	tell him no, I'm not coming.	vou dizer a ele não, não vou.
+223	That's how, that's how the education I received is.	É assim, é assim a educação que eu recebi.
+224	From whom did I learn this? Who taught me this? My father	De quem aprendi isso? Quem me ensinou isso? Meu próprio
+225	himself.	pai.
+226	How did he teach me? I saw how he	Como ele me ensinou? Eu vi como ele
+227	behaved toward Grandfather Yehuda.	se comportava com o vovô Yehuda.
+228	No, it wasn't lessons where he sat with me and opened	Não, não eram aulas em que ele se sentava comigo e abria
+229	a Shulchan Aruch for me.	o Shulchan Aruch para mim.
+230	No, no, I saw.	Não, não, eu vi.
+231	I saw what Grandfather Yehuda was to him. Holy	Eu vi o que o vovô Yehuda era para ele. Um temor
+232	awe.	sagrado.
+233	As a child. When I was six, [snorts]	Quando criança. Quando eu tinha seis anos, [bufadas]
+234	Grandfather Yehuda suffered from his back.	o vovô Yehuda sofria das costas.
+235	He had to undergo spinal surgery. So	Ele precisava passar por uma cirurgia na coluna. Então
+236	I'm talking to you about	estou falando com vocês de
+237	50 years ago, a six-year-old boy,	50 anos atrás, um menino de seis anos,
+238	I come, my father takes me. Every morning my father	eu venho, meu pai me leva. Todas as manhãs meu pai
+239	prayed Shacharit at Shimon Salach's, finished the prayer of	rezava Shacharit na casa de Shimon Salach, terminava a oração de
+240	right after Shacharit, he starts the car and drives straight to the hospital.	logo depois da Shacharit, ele liga o carro e vai direto para o hospital.
+241	It was six, because at Rabbi Shimon's they would pray at five.	Eram seis horas, porque onde o meu mestre Shimon eles rezavam às cinco.
+242	At six you finish the prayer and go straight	Às seis você termina a oração e vai direto
+243	to the hospital.	para o hospital.
+244	For some reason my father... I'm a six-year-old boy.	Por algum motivo o meu pai... Eu sou um menino de seis anos.
+245	First grade. What is six? In first grade school starts	Primeira série. O que é seis? Na primeira série as aulas começam
+246	at eight, children are only just waking up at seven,	às oito, as crianças só estão acordando às sete,
+247	maybe, maybe.	talvez, talvez.
+248	My father would take me with him at six,	O meu pai me levava com ele às seis,
+249	six o'clock, to the hospital.	seis horas, para o hospital.
+250	You come to visit Grandpa Yehuda?	Você vem visitar o vovô Yehuda?
+251	Yes, I didn't come to visit Grandpa Yehuda, I came	Sim, eu não vim visitar o vovô Yehuda, eu vim
+252	for the ride, as a kid. I loved the ride,	pelo passeio, como criança. Eu amava o passeio,
+253	the ride to Grandpa Yehuda.	o passeio até o vovô Yehuda.
+254	As a child, I see my father come in. Grandpa	Como criança, vejo o meu pai entrar. O vovô
+255	Yehuda is lying on the hospital bed. I don't know if it	Yehuda está deitado na cama do hospital. Não sei se
+256	was before the back surgery or after. It was	era antes da cirurgia nas costas ou depois. Era
+257	a period.	uma fase.
+258	Father goes up again, as I said, a kiss on the back	O meu pai se aproxima de novo, como eu disse, um beijo no dorso
+259	of the hand,	da mão,
+260	lifts Grandpa from the bed, sits him up,	levanta o vovô da cama, o senta,
+261	takes him to the shower.	leva-o para o banho.
+262	A shower first thing in the morning, Grandpa.	Banho logo de manhã, vovô.
+263	I wouldn't have gone into the shower. Father would go in,	Eu não entraria no banho. O meu pai entrava,
+264	shower him, Grandpa Yehuda, dress him again	dava banho nele, no vovô Yehuda, o vestia de novo
+265	in new hospital clothes, put him back	com roupas novas do hospital, o colocava de volta
+266	in bed,	na cama,
+267	puts the tefillin on him with the tallit, opens the	colocava nele os tefilin com o talit, abria o
+268	siddur and puts it in front of him.	sidur e o colocava diante dele.
+269	Father says, "May HaShem be with you," again a kiss on the hand,	O meu pai diz: "Que HaShem esteja com você", de novo um beijo na mão,
+270	then a kiss for Grandpa,	depois um beijo no vovô,
+271	a kiss for Grandpa.	um beijo no vovô.
+272	I would go up to Grandpa, give him a kiss, and we go	Eu me aproximava do vovô, dava-lhe um beijo, e íamos
+273	home. Day after day after day after day,	para casa. Dia após dia após dia após dia,
+274	months.	meses.
+275	We get up, my father gets up before me, but I'm	Nós acordamos, o meu pai acorda antes de mim, mas eu já estou
+276	already in the car	no carro
+277	heading to Grandpa Yehuda, and I, as a child, look on,	a caminho do vovô Yehuda, e eu, criança, fico olhando,
+278	even dreaming, floating, I don't know, but here I am today	até sonhando, flutuando, não sei, mas aqui estou eu hoje
+279	speaking to you, 50 years later, and I remember it.	falando com vocês, 50 anos depois, e eu me lembro disso.
+280	like right now.	como agora.
+281	So I can say the word "no" to my father.	Então eu posso dizer a palavra "não" ao meu pai.
+282	I saw what it is, a son facing a father. I saw, I was	Eu vi o que é um filho diante do pai. Eu vi, eu estive
+283	there.	lá.
+284	He didn't give me any lesson, but he showed me.	Ele não me deu nenhuma lição, mas me mostrou.
+285	He showed me.	Me mostrou.
+286	Today, when my children sometimes speak, not, who	Hoje, quando meus filhos às vezes falam, não sei
+287	knows how, in a disrespectful way, I say: never in my life	de que jeito, de forma desrespeitosa, eu digo: nunca na vida
+288	did I speak like that to my father.	falei assim com o meu pai.
+289	But that's not fair. [laughter]	Mas isso não é justo. [risos]
+290	Because you saw, you saw what honoring parents is.	Porque você viu, você viu o que é honrar os pais.
+291	Gentlemen, gentlemen,	Senhores, senhores,
+292	there is a grandfather, there is a father, and there is a grandson. That's three generations.	há um avô, há um pai e há um neto. São três gerações.
+293	But in our generation they want to abolish this. No, no.	Mas na nossa geração querem abolir isso. Não, não.
+294	You're nothing.	Você é um zero.
+295	Contempt for parents, contempt for teachers, contempt	Desprezo pelos pais, desprezo pelos mestres, desprezo
+296	for rabbis, contempt for elders. No classes, claims	pelos rabinos, desprezo pelos anciãos. Sem classes, alega
+297	Korach. "The whole congregation, all are holy." We are all the same	Korach. "Toda a congregação, todos são santos." Somos todos a mesma
+298	thing, and you won't tell me what to do.	coisa, e você não vai me dizer o que fazer.
+299	What a Korach. Ah, he wanted to make a bald patch in the people of	Que Korach! Ah, ele queria fazer uma calvície no povo de
+300	Israel. Baldness means taking everything down.	Israel. Calvície é rebaixar tudo.
+301	Korach, to make baldness. He took everything down.	Korach, fazer calvície. Ele rebaixou tudo.
+302	Why is taking everything down bad? What's wrong with it? What's wrong with it?	Por que rebaixar tudo é ruim? O que há de errado nisso? O que há de errado nisso?
+303	Why, really,	Por que, de fato,
+304	is this subject so critical and important?	esse tema é tão crítico e importante?
+305	Today I want to give you a very deep point	Hoje quero lhes dar um ponto muito profundo
+306	from the way of the Baal Shem Tov. Why is it so critical	do caminho do Baal Shem Tov. Por que é tão crítica
+307	and important, the differences in status	e importante a diferença de classes
+308	that must exist in the people of Israel? HaShem didn't just make	que deve existir no povo de Israel? HaShem não fez à toa
+309	Kohanim, Levites, Israelites.	cohanim, levitas, israelitas.
+310	It's not me who invented the classes, it's HaShem. Yes,	Não fui eu que inventei as classes, foi HaShem. Sim,
+311	HaShem made it this way, HaShem built us.	HaShem fez assim, HaShem nos construiu.
+312	And we are commanded to honor the Kohen, "and you shall sanctify him."	E somos ordenados a honrar o cohen: "e o santificarás."
+313	"Make for yourself a Rav": you are commanded to make yourself a Rav and to honor	"Faça para si um Rav": você é ordenado a ter um Rav e a honrá-lo,
+314	him, to place him above you. Why? Why did HaShem	a colocá-lo acima de você. Por quê? Por que HaShem
+315	do it so? Why, really, is Korach not right?	fez assim? Por que, de fato, Korach não tem razão?
+316	Come, hear a very important point	Venham, ouçam um ponto muito importante
+317	in the way of the Baal Shem Tov.	no caminho do Baal Shem Tov.
+318	The Baal Shem Tov says,	O Baal Shem Tov diz:
+319	every spiritual point that you want to attain,	todo ponto espiritual que você quer alcançar,
+320	First of all, you need it to exist for you in the physical realm.	Antes de tudo, é preciso que isso exista para você no plano material.
+321	You want to love HaShem, right? "And you shall love	Você quer amar HaShem, certo? "E amarás
+322	HaShem your Elokim" – that is a mitzvah. Love of HaShem. It is impossible,	HaShem, teu Elokim" é uma mitsvá. Amar HaShem. É impossível,
+323	says the Baal Shem Tov, to reach this concept, love of	diz o Baal Shem Tov, chegar a esse conceito, o amor a
+324	HaShem, if you don't first have simple physical love.	HaShem, se antes você não tem um amor material simples.
+325	If a person tells you, "I don't love my	Se uma pessoa te diz: "Eu não amo nem a minha
+326	wife, I don't love anyone, I don't love a single	esposa, nem ninguém, não amo uma única
+327	person in the world, there is only one in the world I love:	pessoa no mundo, só existe um no mundo que eu amo:
+328	HaShem" – that's a joke, only it isn't funny,	HaShem" — isso é uma piada, só que não tem graça,
+329	but it is a joke.	mas é uma piada.
+330	It's one of those jokes that can only make you	É uma dessas piadas que só podem te fazer
+331	cry.	chorar.
+332	Because how can you say that you love HaShem?	Pois como você pode dizer que ama HaShem?
+333	You have no idea at all what love is.	Você não tem a menor noção do que é o amor.
+334	The entire Song of Songs	O Cântico dos Cânticos inteiro
+335	"All the songs are holy, and the Song of Songs	"Todos os cânticos são sagrados, e o Cântico dos Cânticos
+336	is the Holy of Holies."	é o Santo dos Santos."
+337	The Song of Songs actually alludes to Israel's love for HaShem.	O Cântico dos Cânticos na verdade alude ao amor de Israel por HaShem.
+338	But how does it express these allusions? In what	Mas como ele expressa essas alusões? De que
+339	way does it speak? About the love of the young man for	forma ele fala? Sobre o amor do rapaz pela
+340	his bride, right? "You have captured my heart, my sister,	sua noiva, certo? "Roubaste meu coração, minha irmã,
+341	my bride, with one of your eyes."	noiva, com um só dos teus olhos."
+342	The groom speaks to his bride. He speaks there	O noivo fala com a sua noiva. Ele fala ali
+343	in physical language. So why is it called the Song of Songs,	em linguagem material. Então por que é chamado Cântico dos Cânticos,
+344	the Holy of Holies?	o Santo dos Santos?
+345	Because the Song of Songs teaches you that through physical	Porque o Cântico dos Cânticos te ensina que, por meio do amor
+346	love,	material,
+347	which is in fact the foundation,	que na verdade é a base,
+348	from it you are meant to receive the concept	dele você deve receber o conceito
+349	of how to love HaShem.	de como amar HaShem.
+350	And that is what the prayer is about.	E é sobre isso que se reza.
+351	Father, grant me to learn from the love I have for my wife,	Pai, concede-me aprender com o amor que tenho pela minha esposa,
+352	from the love I have for my son, from the love I have	com o amor que tenho pelo meu filho, com o amor que tenho
+353	for my parents, from the love I have for food, all	pelos meus pais, com o amor que tenho pela comida, todos
+354	the concepts of "love your neighbor as yourself," so that I may merit	os conceitos de "amarás o teu próximo como a ti mesmo", para que eu mereça
+355	to love You.	amar a Ti.
+356	But if you don't love anyone in the world,	Mas se você não ama ninguém no mundo,
+357	then how will you reach the love of HaShem? You can't jump.	como vai chegar ao amor a HaShem? Não se pula.
+358	Above, it is "a ladder set on the earth" – a ladder of steps,	Lá em cima, é "uma escada colocada na terra", uma escada de degraus,
+359	steps, that starts from below, "set on the earth."	degraus, que começa de baixo, "colocada na terra."
+360	and its head reaches the heavens, but it has to be set on the ground.	e o seu topo chega aos céus, mas ele tem que estar fixado na terra.
+361	Is your ladder set on the ground?	Sua escada está fixada na terra?
+362	Your ladder is either in the air or it is set on the ground.	Ou a sua escada está no ar, ou ela está fixada na terra.
+363	It's the same with fear of Heaven.	É a mesma coisa com o temor do Céu.
+364	Fear of HaShem.	Temor a HaShem.
+365	You can't reach fear of Heaven if you're a person	Não dá para chegar ao temor do Céu se você é uma pessoa
+366	who isn't afraid of anything.	que não tem medo de nada.
+367	Are you afraid of Arabs? No. Of the police? No.	Você tem medo de árabes? Não. Da polícia? Não.
+368	Of thieves? No. Of cockroaches? No. Who are you afraid of?	De ladrões? Não. De baratas? Não. De quem você tem medo?
+369	Of no one. Only of HaShem. A joke that only makes one cry	De ninguém. Só de HaShem. Uma piada que só faz chorar
+370	over you.	por você.
+371	How can you say you fear HaShem? You have no idea	Como você diz que teme HaShem? Você não tem a mínima
+372	what fear is. First of all, a person has to	noção do que é medo. Primeiro, a pessoa tem que
+373	have fear. A normal one. Yes, normal. Fears.	ter medo. Um medo normal. Sim, normal. Medos.
+374	And that fear you then raise up to HaShem.	E esse medo você eleva a HaShem.
+375	It's the same thing:	É a mesma coisa:
+376	every Jew must have reverence and awe toward HaShem.	todo judeu precisa ter reverência e respeito por HaShem.
+377	Reverence for the King of Glory. Who is this King of Glory?	Reverência pelo Rei da Glória. Quem é esse Rei da Glória?
+378	"Lift up your heads, O gates, and be lifted up, eternal doors, that the	"Levantai, ó portas, as vossas cabeças, elevai-vos, portais eternos, para que entre
+379	King of Glory may come in. Who is this King of Glory? HaShem	o Rei da Glória. Quem é esse Rei da Glória? HaShem
+380	of Hosts, He is the King of Glory." He is the King of Glory,	dos Exércitos, Ele é o Rei da Glória." Ele é o Rei da Glória,
+381	the Creator of the world. Reverence for the King of Glory. Tell me,	o Criador do mundo. Reverência pelo Rei da Glória. Diga-me,
+382	do you have reverence in the material realm?	você tem reverência no plano material?
+383	Is there anyone toward whom you have reverence?	Há alguém por quem você tenha reverência?
+384	No, I have no reverence for anyone. I don't see my	Não, não tenho reverência por ninguém. Não vejo o meu
+385	father, I don't see the educators, I don't see rabbis.	pai, não vejo os educadores, não vejo rabinos.
+386	I only have reverence for... a joke	Eu só tenho reverência por... uma piada
+387	and one to cry over you.	e de chorar por você.
+388	Why?	Por quê?
+389	Because how can you have reverence for	Porque como você pode ter reverência por
+390	HaShem	HaShem
+391	if you don't have this concept,	se você não tem esse conceito,
+392	if you don't even know what it is?	se nem sabe o que é?
+393	But if a person has hierarchy,	Mas se a pessoa tem hierarquia,
+394	"My father, sir! Don't you speak about my father, don't you speak	"Meu pai, senhor! Não fale do meu pai, não fale
+395	about my mother. To me, my mother is	da minha mãe. Para mim, minha mãe é
+396	this, this, this, this, this, this,	isto, isto, isto, isto, isto, isto,
+397	an angel."	um anjo."
+398	Okay.	Certo.
+399	Wow, nice, nice, excellent.	Uau, que bom, que bom, excelente.
+400	Excellent.	Excelente.
+401	Now, HaShem, grant me that just as I have reverence	Agora, HaShem, concede-me que, assim como tenho reverência
+402	and honor	e honra
+403	and admiration, wow, for my mother,	e admiração, uau, pela minha mãe,
+404	so may I merit to have	assim eu mereça ter
+405	reverence for You. Beautiful.	reverência por Ti. Lindo.
+406	Beautiful.	Lindo.
+407	If we don't have, says Moshe Rabbenu,	Se não tivermos, diz Moshé Rabênu,
+408	these differences, where the small one	essas diferenças, em que o pequeno
+409	honors the one above him, and the one above him honors the one	honra quem está acima dele, e quem está acima honra aquele
+410	above him,	que está acima dele,
+411	then how will you reach honor for HaShem? You don't have	então como você chegará à honra a HaShem? Você não tem
+412	this. Korach, you are destroying us, because the moment you	isso. Korach, você está nos destruindo, porque no momento em que você
+413	abolish the classes,	abole as classes,
+414	how will we reach the fear of HaShem? How	como chegaremos ao temor de HaShem? Como
+415	will we rise, how will we reach this concept of	nos levantaremos, como chegaremos a este conceito de
+416	"Nakdishach venaaritsach,"	"Nakdishach venaaritsach",
+417	"like the pleasant discourse of the holy seraphim." We won't sanctify You	"como a doce conversa dos serafins sagrados". Não Te santificaremos
+418	and we won't revere You, because you have no honor and no admiration	e não Te reverenciaremos, porque você não tem honra nem admiração
+419	and no reverence for those greater than you,	nem reverência pelos que são maiores que você,
+420	which is learned through actions.	o que se aprende por meio de ações.
+421	You don't have this power. It's spiritual, it's faith, it's something	Você não tem essa força. É espiritual, é fé, é algo
+422	that is built up.	que se constrói.
+423	So precisely, because first of all I need to have	Exatamente, porque antes de tudo preciso ter
+424	this concept, to have any understanding at all	esse conceito, ter alguma compreensão
+425	of what reverence is, what love is, what fear is,	do que é reverência, o que é amor, o que é medo,
+426	what sorrow is, what jealousy is. You need to have	o que é tristeza, o que é inveja. É preciso ter
+427	this in the material realm, and then you can raise it	isso no plano material, e então você pode elevá-lo
+428	toward Heaven. Rabi Yochanan ben Zakai said to them,	rumo aos Céus. Rabi Yochanan ben Zakai disse a eles:
+429	"May the fear of Heaven	"Que o temor do Céu
+430	be like the fear of flesh and blood." Right, the Baal Shem Tov says this about it: that if you have no flesh-and-blood teacher,	seja como o temor de carne e osso." Isso mesmo, o Baal Shem Tov diz isso sobre o tema: se você não tem um mestre de carne e osso,
+431	you also don't have the fear toward HaShem.	você também não tem o temor diante de HaShem.
+432	Gentlemen,	Senhores,
+433	gentlemen, in fact Korach comes	senhores, na verdade Korach vem
+434	and endangers all of Klal Yisrael,	e coloca em risco todo o povo de Israel,
+435	because it's not just that he comes and says, "We are all	porque não é só que ele vem e diz: "Todos nós somos
+436	equal, everything is the same. I'm supposed to treat	iguais, tudo é a mesma coisa. Devo tratar
+437	you the way I treat my friend at the market,	você como trato meu amigo no mercado,
+438	and I'm supposed to treat the neighborhood rabbi the way	e devo tratar o rabino do bairro do mesmo modo que
+439	I treat I don't know whom." It's not that. So consequently,	trato sei lá quem." Não é isso. Então, por consequência,
+440	and you have also destroyed the connection between me and HaShem.	e com isso você também destruiu a conexão entre mim e HaShem.
+441	Does Korach have anything to say in his defense?	Será que Korach tem algo a dizer em sua defesa?
+442	Does Korach...	Será que Korach...
+443	Moshe Rabbeinu is essentially telling him: sir, we need class distinctions,	Moshé Rabênu na verdade lhe diz: senhor, precisamos das distinções de classe,
+444	because without them we won't even have the concept	pois sem isso nem teremos o conceito
+445	of how to appreciate, and how to have reverence	de como valorizar e de como ter reverência
+446	toward HaShem.	diante de HaShem.
+447	It's a strong claim of Moshe Rabbeinu against Korach:	É uma acusação forte de Moshé Rabênu contra Korach:
+448	you are destroying our connection with HaShem.	você está destruindo a nossa conexão com HaShem.
+449	Moshe says to Korach. What does Korach answer to that? Here,	Moshé diz a Korach. O que Korach responde a isso? Eis que
+450	he answers.	ele responde.
+451	"The whole congregation, all of them are holy," we are all the same.	"Toda a congregação, todos são santos", somos todos iguais.
+452	What are you trying to tell me? If everyone is holy	O que você quer me dizer? Se todos são santos
+453	and we are all the same, then what about HaShem? Don't	e somos todos iguais, e HaShem? Não
+454	worry about the Creator: "and HaShem is in their midst."	se preocupe com o Criador: "e HaShem está no meio deles".
+455	The Creator is within every single Jew.	O Criador está dentro de cada judeu.
+456	The Creator is within me. Hello!	O Criador está dentro de mim. Olá!
+457	Every Jew has a soul.	Todo judeu tem uma alma.
+458	"My God,	"Meu Elokim,
+459	the soul that You gave	a alma que Você me deu
+460	within me is pure."	é pura."
+461	You say this every morning, Moshe Rabbeinu. What happened	Você diz isso todas as manhãs, Moshé Rabênu. O que aconteceu
+462	to you? HaShem is here, here! He is certainly here, here, here,	com você? HaShem está aqui, aqui! Ele certamente está aqui, aqui, aqui,
+463	He is here.	Ele está aqui.
+464	We're just playing around, what can you do.	Estamos só brincando, fazer o quê.
+465	"Blessed are You, Adonai our God, King of the universe, by Whose word everything came to be."	"Bendito és Tu, Adonai, nosso Elokim, Rei do universo, por cuja palavra tudo veio a existir."
+466	Korach claims: don't worry about the Creator, why	Korach alega: não se preocupe com o Criador, por que
+467	do you worry about Him? Why, and then it won't be... so how will we get	você se preocupa com Ele? Por quê? E então como chegaremos
+468	to HaShem? "And HaShem is in their midst," He is already inside, within you.	a HaShem? "E HaShem está no meio deles", Ele já está dentro, dentro de você.
+469	Everything is fine.	Está tudo bem.
+470	What is the answer to that? Wow, "and HaShem is in their midst." What	Qual é a resposta a isso? Uau, "e HaShem está no meio deles". Qual
+471	is the answer?	é a resposta?
+472	Korach claims: HaShem is already within you. What's the problem?	Korach alega: HaShem já está dentro de você. Qual é o problema?
+473	What's the problem? Here, HaShem is in their midst. What are you claiming,	Qual é o problema? Eis que HaShem está no meio deles. O que você alega,
+474	Moshe Rabbeinu, that we are losing the connection with	Moshé Rabênu, que estamos perdendo a conexão com
+475	HaShem when I lose this hierarchy? Don't	HaShem quando perco essa hierarquia? Não
+476	worry, you are not losing HaShem, because HaShem is in	se preocupe, você não perde HaShem, porque HaShem está no
+477	their midst. What is the answer to that?	meio deles. Qual é a resposta a isso?
+478	...	...
+479	True, it is true that within me there is HaShem,	É verdade, é verdade que dentro de mim há HaShem,
+480	but I won't feel Him.	mas eu não vou senti-Lo.
+481	It will be hidden and concealed,	Ficará escondido e oculto,
+482	and I will have no contact and no experience	e eu não terei nenhum contato nem nenhuma vivência
+483	of that "HaShem within them."	desse "HaShem está dentro deles".
+484	There are many Jews who don't keep Shabbat,	Há muitos judeus que não guardam o Shabat,
+485	don't keep Torah and mitzvot, don't keep anything. And you	não guardam Torá e mitsvot, não guardam nada. E você
+486	talk to them about HaShem and it doesn't interest them. So	fala com eles sobre HaShem e isso não os interessa. Então
+487	is HaShem within them or not? Of course He is	HaShem está dentro deles ou não? Claro que está
+488	within them,	dentro deles,
+489	but they have no connection to Him at all. They don't	mas eles não têm nenhuma ligação com Ele. Eles não
+490	feel Him, they don't experience Him. They don't have	O sentem, não O vivenciam. Não têm
+491	that. It isn't awakened in them. Because it's true	isso. Isso não desperta neles. Pois é verdade
+492	that HaShem is within them, but in order to awaken this	que HaShem está dentro deles, mas para despertar este
+493	point, to bring it to revelation,	ponto, para trazê-lo à revelação,
+494	so that you feel the love of HaShem, the fear of HaShem, the	para que você sinta o amor a HaShem, o temor a HaShem, a
+495	appreciation of HaShem, the awe of the exaltedness of HaShem,	estima por HaShem, o temor da grandeza de HaShem,
+496	to feel it, to experience it. Not just that	sentir isso, vivenciar isso. Não basta que
+497	it be "HaShem within them." Every Jew has HaShem, but	exista "HaShem está dentro deles". Todo judeu tem HaShem, mas
+498	some don't feel it, because first of all you need	alguns não sentem, porque antes de tudo é preciso
+499	to have it in the material, and from the material you do	tê-lo no plano material, e a partir do material você faz
+500	the work of raising it to the spiritual, and then you feel	o trabalho de elevá-lo ao espiritual, e então você sente
+501	fear of Heaven. When you elevate your desires	temor do Céu. Quando você eleva os seus desejos
+502	to the love of HaShem, then you can begin to feel the love of	ao amor a HaShem, então pode começar a sentir o amor a
+503	HaShem.	HaShem.
+504	But if you don't do this work, you	Mas se você não faz esse trabalho,
+505	won't feel anything, you won't experience anything, the whole	não sentirá nada, não vivenciará nada, todo
+506	concept of HaShem is only theoretical, but not	o conceito sobre HaShem é só teórico, e não
+507	something you truly live.	algo que você realmente vive.
+508	Moshe Rabbeinu says to Korach:	Moshé Rabênu diz a Korach:
+509	Of course HaShem is within every Jew, but it will be	Claro que HaShem está dentro de todo judeu, mas será
+510	something hidden to which we have no access. If	algo oculto ao qual não temos acesso. Se
+511	we want to have access to the Creator, to have	queremos ter acesso ao Criador, ter
+512	a feeling, a little experience of the love of HaShem,	uma sensação, um pouco de vivência do amor a HaShem,
+513	this reminds me of a couple who came to me today.	isso me lembra um casal que veio a mim hoje.
+514	Today an elderly couple came to me, around	Hoje veio a mim um casal de idosos, por volta dos
+515	70 years old.	70 anos.
+516	They remembered to come for shalom bayit,	Lembraram-se de vir por shalom bait,
+517	but it's better than nothing. Yes,	mas é melhor que nada. Sim,
+518	if we didn't live together, at least let's die together.	se não vivemos juntos, ao menos vamos morrer juntos.
+519	[laughter]	[risos]
+520	A good ending,	Um final bom,
+521	all's well. At least let the ending be good.	tudo bem. Pelo menos que o final seja bom.
+522	…	…
+523	So the lady began to speak and said, "Look, Rabbi,	Então a senhora começou a falar e disse: "Veja, rabino,
+524	as long as the children were with us and we were living and had	enquanto os filhos estavam conosco, vivendo, e tínhamos
+525	to raise them, I didn't notice anything.	que criá-los, eu não percebi nada.
+526	But now, baruch HaShem, we've married off all the children,	Mas agora, graças a HaShem, casamos todos os filhos,
+527	everyone is settled with apartments, everyone in their own homes,	todos estão bem arrumados com apartamentos, todos em suas casas,
+528	only I and he are left,	ficamos só eu e ele,
+529	everyone. Until now I didn't notice at all that I'm	todos. Até agora eu não percebi de jeito nenhum que eu sou
+530	married.	casada.
+531	Only now, after we've married everyone off and everyone	Só agora, depois que casamos todos e todos
+532	is settled with jobs, with apartments, suddenly I	estão arrumados com trabalho, com apartamento, de repente eu
+533	realize that I'm married to this person	percebo que sou casada com essa pessoa
+534	and he never smiles at me, never shows me	e ele nunca sorri para mim, nunca me mostra
+535	a cheerful face, he doesn't say a kind word to me, not one of	um rosto alegre, não me diz uma palavra boa, nem de
+536	love, not one of appreciation, nothing."	amor, nem de apreço, nada."
+537	So I say to him,	Então eu digo a ele:
+538	"Tell me, do you love her or not?	"Diga-me, você a ama ou não?
+539	You, you, she is the mother of your children,	Ela é a mãe dos seus filhos,
+540	the grandmother of your grandchildren, you lived your whole life with her."	a avó dos seus netos, com ela você viveu a vida inteira."
+541	So what did he say to me? He says to me, "Rabbi,	E o que ele me disse? Ele me diz: "Rabino,
+542	if I don't say that I have some problem,	se eu não digo que tenho algum problema,
+543	then I have no problem, a sign that all is well."	então não tenho problema, sinal de que está tudo bem."
+544	"I don't complain, I don't tell her that I hate	"Eu não reclamo, não digo a ela que a odeio,
+545	her, so she has to understand that if I don't	então ela tem que entender que se eu não
+546	complain and don't make a remark and don't tell you that I	reclamo e não faço nenhuma observação e não digo que
+547	hate you, then understand,	te odeio, então entenda:
+548	I didn't say I hate, right? I didn't say I'm	eu não disse que odeio, certo? Não disse que estou
+549	angry, a sign that all is well."	zangado, sinal de que está tudo bem."
+550	So she says to me, "Rabbi, you understand?	Então ela me diz: "Rabino, o senhor entende?
+551	I believe that he loves me. I understood.	Eu acredito que ele me ama. Eu entendi.
+552	Fine. I don't see it, I don't feel	Tudo bem. Eu não vejo isso, não sinto
+553	it,	isso,
+554	I have to guess that if he doesn't tell me, then	preciso adivinhar que, se ele não me diz, então
+555	it's a sign that... Rabbi, I can't go on like this, I want	é sinal de que... Rabino, eu não consigo assim, eu quero
+556	at least now that we're an old couple, let's enjoy	pelo menos agora que somos um casal de velhos, vamos aproveitar
+557	each other.	um ao outro.
+558	Be glad that I have you and you have me. Let's be happy	Alegre-se por eu ter você e você ter a mim. Vamos nos alegrar
+559	about that. Come on. We married them off, we worked hard all our lives. Come on	com isso. Vamos. Casamos os filhos, trabalhamos duro a vida toda. Vamos
+560	At least for what's left, let us live like human beings.	Pelo menos o que nos resta, que vivamos como seres humanos.
+561	I say to him, "What do you say?"	Eu digo a ele: "O que você diz?"
+562	Why did I come to the Rav? If I came, it means I want to.	Para que vim ao Rav? Se vim, é sinal de que quero.
+563	What, doesn't the Rav understand either?	O quê, o Rav também não entende?
+564	What do I have to tell you, that if I came to you	O que tenho de te dizer, que se vim até você
+565	it's because I want to learn from you?	é porque quero aprender com você?
+566	I don't have to say everything. You have to understand this on your own.	Não preciso dizer tudo. Você tem que entender isso sozinho.
+567	What he did to me, his wife did to me.	O que ele fez comigo, a mulher dele fez comigo.
+568	[Laughter]	[Risos]
+569	Surely, surely he was Yemenite.	Com certeza, com certeza ele era iemenita.
+570	An old man... [Laughter] Yemenite.	Um velho... [Risos] iemenita.
+571	Korach says "and in their midst is HaShem." "HaShem is within you," yes, but	Korach diz "e no meio deles está HaShem". "HaShem está dentro de você", sim, mas
+572	I don't feel it, I don't live it, I don't breathe it.	eu não sinto isso, não vivo isso, não respiro isso.
+573	I want to be there, I want this	Eu quero estar lá, quero que isso
+574	to be expressed.	se manifeste.
+575	Not only "HaShem is in their midst," but I see nothing.	Não só "HaShem está no meio deles", mas eu não vejo nada.
+576	Therefore Moshe Rabbeinu says: here we need the classes,	Por isso Moshé Rabênu diz: aqui precisamos das classes
+577	and the work that we, the young, honor	e do trabalho de nós, os pequenos, honrarmos
+578	the elders. And here I make a call to parents.	os mais velhos. E aqui faço um apelo aos pais.
+579	Dear parents, dear parents,	Queridos pais, queridos pais,
+580	sometimes my grandchildren, when they come to me for Shabbat,	às vezes meus netos, quando vêm a mim para o Shabat,
+581	I hear some things.	eu ouço coisas.
+582	The grandson says to his father, "Dad, pour me a cola."	O neto diz ao pai: "Pai, me serve uma Coca."
+583	A grandson,	Um neto,
+584	a five-year-old child: "Pour me a cola."	uma criança de cinco anos: "Me serve uma Coca."
+585	And there are parents like that.	E há pais assim.
+586	"Mommy's sweet darling."	"Docinho da mamãe."
+587	They take the cola, pour it for him, "Here, sweet soul."	Pegam a Coca, servem para ele: "Toma, minha alminha."
+588	[Sighs] "Mommy's life."	[Suspiros] "Vida da mamãe."
+589	Exactly.	Exatamente.
+590	What is this?	O que é isso?
+591	That's not how you ask Dad and Mom.	Não se pede assim ao pai e à mãe.
+592	"Pour me," I told you.	"Me serve", eu te disse.
+593	He goes on.	Ele continua.
+594	That's not how you ask Dad and Mom.	Não se pede assim ao pai e à mãe.
+595	As long as you don't ask Dad nicely — there is a way to speak to Dad — there's no cola.	Enquanto você não pedir com educação ao pai, pois há uma forma de falar com o pai, não tem Coca.
+596	Friday night, there's no cola.	Na noite de Shabat, não tem Coca.
+597	What do you say? Is it aimed now at... enough already,	O que você diz? Isso agora é dirigido a... chega,
+598	Friday night. Enough, let go... Honor, you honor,	noite de Shabat. Chega, solte... Honre, você honra,
+599	honor.	honre.
+600	No, that's not right, it's the father's... yes, and he sits in the father's chair.	Não, não é assim, é do pai... sim, e ele senta na cadeira do pai.
+601	So the mother has to tell him, "Sweetheart, that's Dad's chair.	Então a mãe tem que dizer a ele: "Querido, essa é a cadeira do pai.
+602	You don't sit there."	Não se senta aí."
+603	A child needs to have concepts at home.	A criança precisa ter noções em casa.
+604	"You're the father, it's not nice that you perhaps..."	"Você é o pai, não é bonito que você talvez..."
+605	Dad's chair, not you, leave it. Better that the mother says it.	A cadeira do pai, não você, deixa. É melhor que a mãe diga isso.
+606	Better that the mother says it.	É melhor que a mãe diga isso.
+607	Or if he sits in the mother's chair, then let the father	Ou, se ele senta na cadeira da mãe, que o pai
+608	tell him, "Ah!" [laughter]	diga a ele: "Ah!" [risos]
+609	That's more fitting.	Isso é mais adequado.
+610	But yes, yes, it's important to drive home	Mas sim, sim, é importante fixar
+611	this point now. Come, look, how wonderful,	este ponto agora. Venham ver, que maravilha,
+612	how sweet this is.	que doce isso é.
+613	Therefore, notice what Moshe Rabbeinu says.	Por isso, reparem no que diz Moshé Rabênu.
+614	"Therefore" — yes —	"Por isso" — sim —
+615	"you and all your congregation,"	"você e toda a sua congregação,"
+616	he turns to Korach. Yes. "You and all your congregation who are gathered	ele se dirige a Korach. Sim. "Você e toda a sua congregação, que se reúnem
+617	against HaShem."	contra HaShem."
+618	And Aharon, what is he that you complain about him? What is this, "you	"E Aharon, o que é ele, para que murmurem contra ele?" O que é isso, "você
+619	and all your congregation"	e toda a sua congregação"
+620	who are gathered	que se reúnem
+621	against HaShem?" We are gathered against HaShem? The verse says,	contra HaShem"? Nós nos reunimos contra HaShem? O versículo diz:
+622	"They gathered against Moshe and against Aharon," not against HaShem. What does	"Reuniram-se contra Moshé e contra Aharon", não contra HaShem. O que
+623	HaShem have to do with it? Who spoke about HaShem? We... "They gathered against	HaShem tem a ver com isso? Quem falou de HaShem? Nós... "Reuniram-se contra
+624	Moshe and against Aharon."	Moshé e contra Aharon."
+625	Why does Moshe Rabbeinu say to him, "You and all your congregation	Por que Moshé Rabênu diz a ele: "Você e toda a sua congregação
+626	who are gathered against HaShem"?	que se reúnem contra HaShem"?
+627	All your chaos, know that you are gathered	Toda essa sua bagunça, saiba que vocês estão reunidos
+628	against HaShem,	contra HaShem,
+629	not against Aharon. And Aharon, what is he? That's not the issue.	não contra Aharon. E Aharon, o que ele é? Esse não é o assunto.
+630	The issue is HaShem.	O assunto é HaShem.
+631	HaShem... "I spoke. Why is your brother High Priest? Shouldn't everyone be equal?" No, because the moment you	HaShem... "Eu falei. Por que seu irmão é Sumo Sacerdote? Não deveriam todos ser iguais?" Não, porque no momento em que você
+632	say everyone is equal, you have destroyed the connection with the Creator	diz que todos são iguais, você destruiu a ligação com o Criador
+633	of the world.	do mundo.
+634	Gentlemen,	Senhores,
+635	how important it is that we, the parents,	como é importante que nós, os pais,
+636	give an example to our children. What is respect	demos exemplo aos nossos filhos. O que é respeito
+637	for elders?	pelos mais velhos?
+638	If it is an example that we respect our parents	Se é um exemplo de que respeitamos nossos pais
+639	If it is an example that we respect our parents	Se é um exemplo que nós respeitamos os nossos pais
+640	our parents,	nossos pais,
+641	it's important for a child to see how his father honors his grandfather.	é importante que a criança veja como o pai dela honra o avô.
+642	How his mother honors his grandmother?	Como a mãe honra a avó?
+643	It's important — wow, wow — I'm telling you this only	É importante — nossa, nossa — eu digo isso só
+644	from my own experience.	pela minha própria experiência.
+645	That children see how you, how we, the parents,	Que as crianças vejam como vocês, como nós, os pais
+646	the adults, honor those who are above us.	adultos, honram aqueles que estão acima de nós.
+647	And then our children say, "Wow, yes, Dad — look how Dad honors	E então os nossos filhos dizem: "Nossa, sim, pai — olha como o pai honra
+648	Grandpa. Mom, wow — Dad gives him	o vovô. Mãe, nossa — o pai lhe dá
+649	a hand, Dad brings him the final water. Mom, did you	a mão, o pai lhe traz a água final. Mãe, você
+650	see how Dad brings Grandpa the Birkon?	viu como o pai traz o Bircon para o vovô?
+651	Wow, Mom, look how Dad pours Grandpa coffee, how	Nossa, mãe, olha como o pai serve café ao vovô, como
+652	Dad takes his plate. Dad, what do you want?	o pai pega o prato dele. Pai, o que você quer?
+653	Do you want more, do you want something?"	Quer mais, quer alguma coisa?"
+654	The children just watch. No need for	As crianças só observam. Não precisa de
+655	lessons or explanations. This is critical for	lições nem explicações. Isso é fundamental também para
+656	you too. Tomorrow, the day after, you'll be the grandfather.	você. Amanhã, depois de amanhã, você será o avô.
+657	The personal example. But it's also giving us	O exemplo pessoal. Mas é também nos dar
+658	the concepts. What it means to esteem the elders,	os conceitos. O que é valorizar os mais velhos,
+659	the previous generation, the elders of the previous generation.	a geração anterior, os idosos da geração anterior.
+660	This is	Isso é
+661	the ABC.	o be-a-bá.
+662	And therefore, my friends, it's the same with the concept of a Rav. "Make	E por isso, meus amigos, é o mesmo com o conceito de Rav. "Faça
+663	for yourself a Rav."	para você um Rav."
+664	A child who experiences at home	Uma criança que vivencia em casa
+665	that his father has a Rav.	que o pai dela tem um Rav.
+666	"Dad, I want an e-cigarette."	"Pai, eu quero um cigarro eletrônico."
+667	"Dad, an e-cigarette."	"Pai, um cigarro eletrônico."
+668	Dad asks Mom, "What do you say? What's wrong with you?	O pai pergunta à mãe: "O que você diz? O que deu em você?
+669	About what? And why?"	Sobre o quê? E por quê?"
+670	"What is this? Where did that come from? Why are you...? It's not coming in.	"O que é isso? De onde veio isso? Por que você...? Isso não vai entrar.
+671	I'm not willing. Wait, he'll ruin his brothers."	Eu não aceito. Espera, ele vai estragar os irmãos dele."
+672	…	…
+673	"Dad, listen, if you don't bring me an	"Pai, escuta, se vocês não me trouxerem um
+674	e-cigarette, I'll make sure to get it myself.	cigarro eletrônico, eu mesmo dou um jeito de consegui-lo.
+675	And I have all the ways."	E eu tenho todos os meios."
+676	Dad goes back to Mom,	O pai volta para a mãe:
+677	"What do you say? Look, he'll go steal yet."	"O que você diz? Olha, ele ainda vai roubar."
+678	"Under no circumstances will a cigarette come into this house."	"De jeito nenhum um cigarro vai entrar nesta casa."
+679	"Dad, Dad, leave Mom alone, no need, don't bring me	"Pai, pai, deixa a mãe, não precisa, não me traga
+680	I'll manage, Dad. Again? What are you saying? Listen.	Eu me viro, pai. De novo? O que você está dizendo? Escuta.
+681	Listen, see where this is going. Look, she isn't	Escuta, veja aonde isso vai dar. Olhe, ela não está
+682	interested at all.	nem um pouco interessada.
+683	A child sees his father and mother, between themselves,	O filho vê o pai e a mãe, entre eles,
+684	and pays them no mind.	e não dá importância a eles.
+685	But what happens when a child	Mas o que acontece quando o filho
+686	always knows that when Dad and Mom have a question to decide,	sabe sempre que, quando o pai e a mãe têm uma questão a decidir,
+687	you say: you know what? Whatever the Rav says is fine with me.	dizem: sabe de uma coisa? O que o Rav disser está bom para mim.
+688	The child sees. Hello, Rav.	O filho vê. Shalom, Rav.
+689	Yes.	Sim.
+690	The son wants an electronic cigarette.	O filho quer um cigarro eletrônico.
+691	What does the Rav say?	O que o Rav diz?
+692	No problem at all. Give it to him.	Nenhum problema. Dê a ele.
+693	That's it, the Rav said. That's it. [laughter]	Pronto, o Rav falou. Pronto. [risos]
+694	Dad, what did the Rav say? The boy is 14. Dad, what did the Rav	Pai, o que o Rav disse? O menino tem 14 anos. Pai, o que o Rav
+695	say? The Rav said you should give it to me.	disse? O Rav disse que você deve me dar.
+696	There is no one above this Rav. There is no one above this Rav.	Não há ninguém acima desse Rav. Não há ninguém acima desse Rav.
+697	The father says to the mother, what do you say?	O pai diz à mãe: o que você diz?
+698	The Rav said, what? I nullify myself before the opinion of	O Rav disse, o quê? Eu me anulo diante da opinião do
+699	the Rav. What did the child see? What did the child see? That Dad and Mom,	Rav. O que o filho viu? O que o filho viu? Que o pai e a mãe,
+700	the big, big ones [clears throat], have someone	os grandes, grandes, têm alguém
+701	above them.	acima deles.
+702	That even if I don't understand, don't grasp, don't know	Que, mesmo que eu não entenda, não compreenda, não saiba
+703	why, whatever the Rav said, that's final. The child just received	por quê, o que o Rav disse encerra o assunto. O filho acabou de receber
+704	a live lesson, in real time.	uma aula ao vivo, em tempo real.
+705	What is it to bow down	O que é se curvar
+706	to those greater than me? You gave him a personal example.	diante de quem é maior do que eu? Você deu a ele um exemplo pessoal.
+707	Instead of both of them arguing in us,	Em vez de os dois discutirem diante de nós,
+708	arguments, arguments, arguments, an argument, and the child	discussões, discussões, discussões, uma discussão, e o filho
+709	sees Dad say a word and Mom shoots him down, and Dad	vê o pai dizer uma palavra e a mãe derrubá-lo, e o pai
+710	and Mom put each other down, he says: just wait, I'll	e a mãe se derrubam um ao outro, ele diz: esperem, eu
+711	put both of you down.	derrubo vocês dois.
+712	I'm not asking you and I'm not asking her.	Não pergunto nem a você nem a ela.
+713	I'm my own master. But when you, dear Dad, honored	Eu sou dono de mim mesmo. Mas quando você, querido pai, honrado,
+714	do yourself harm,	faz mal a si mesmo,
+715	it's yours, it's for you, dear Dad. Because when you make	é seu, é para você, querido pai. Porque quando você fizer
+716	a Rav, then the child will also make a Rav of you, because he saw how	de alguém um Rav, o filho também fará de você um Rav, porque viu como
+717	you submit to those greater. So now there is a chance that he	você se submete aos maiores. Então agora há chance de que ele
+718	will submit to you too, because you are greater than he. But show	também se submeta a você, porque você é maior do que ele. Mas mostre
+719	him an example, show him an example.	a ele um exemplo, mostre a ele um exemplo.
+720	But when a woman says to her husband,	Mas quando a mulher diz ao marido:
+721	"What do you think? Maybe we should ask the Rav." Who is a Rav?	"O que você acha? Talvez devêssemos perguntar ao Rav." Quem é Rav?
+722	"Madam, I am the Rav here, I am the Rav, I have no rabbis in my house.	"Senhora, o Rav aqui sou eu, eu sou o Rav, na minha casa não há rabinos.
+723	I am the Rav."	Eu sou o Rav."
+724	How cute.	Que fofo.
+725	So a cute father like that ends up with a cute son. [laughter]	Então um pai fofo desses acaba com um filho fofo. [risos]
+726	That is the example you gave your son, that is what you educated him to be.	Esse é o exemplo que você deu ao seu filho, foi isso que você educou.
+727	So what do you expect? What?	Então o que você espera? O quê?
+728	[sighs] [gasps]	[suspiros] [respirações ofegantes]
+729	I didn't understand.	Não entendi.
+730	Why were Korach and his congregation swallowed alive by the earth? Why?	Por que Korach e sua congregação foram engolidos vivos pela terra? Por quê?
+731	Why were they not given suffering?	Por que não lhes mandaram sofrimentos?
+732	Some disease, tzara'at, that they would be shut away for seven days	Alguma doença, tsaraat, para que fossem isolados por sete dias,
+733	outside, like Miriam. Seven days outside the camp,	fora, como Miriam. Sete dias fora do acampamento,
+734	so that they would wake up a little, some suffering, some pain.	para que despertassem um pouco, algum sofrimento, alguma dor.
+735	Instead, everyone into the earth.	Mas não: todos para dentro da terra.
+736	The answer is: if you have no respect for those greater than you, you have no	A resposta é: se você não tem respeito por quem é maior que você, não há
+737	right to exist.	direito de existir.
+738	It is not just the right to exist, because you also won't have	Não é só o direito de existir, porque você também não terá
+739	a connection to the Creator of the world. And to the Creator, you must, you must	ligação com o Criador do mundo. E com o Criador do mundo, é preciso, é preciso
+740	have these concepts: that there are those greater	ter estes conceitos: que existem pessoas maiores
+741	than me, that I have rabbis.	do que eu, que eu tenho rabinos.
+742	I remember that as a boy in yeshivah	Lembro que, quando menino na yeshivá,
+743	I had a question about my Rosh Yeshivah. As a boy	tive uma dúvida sobre o meu Rosh Yeshivá. Quando menino,
+744	I was 14.	eu tinha 14 anos.
+745	There were 80 guys in the class.	Éramos 80 rapazes na classe.
+746	The Rosh Yeshivah had to start the lesson.	O Rosh Yeshivá tinha que começar a aula.
+747	Until he arrived at the lesson, he would always	Até chegar à aula, ele sempre
+748	make a round of all the classes to see that all the classes	fazia uma ronda por todas as classes para ver se todas
+749	had come in.	tinham entrado.
+750	He was the educator of our class, the ninth-grade class.	Ele era o educador da nossa classe, a classe do nono ano.
+751	It was called Shiur Aleph, Yeshivah Ketanah. The Rosh Yeshivah was	Chamava-se Shiur Alef, Yeshivá Ketaná. O Rosh Yeshivá era
+752	the one who delivered the lesson to us.	quem nos dava a aula.
+753	So he usually already had everyone in the classes.	Então ele em geral já tinha todos nas classes.
+754	We were the last ones he would get to,	Nós éramos os últimos a quem ele chegava,
+755	to begin the lesson, a two-hour lesson.	para começar a aula, uma aula de duas horas.
+756	And then he would walk into the class.	E então ele entrava na classe.
+757	80 students, boom, standing on their feet.	80 alunos, bum, de pé.
+758	He did not sit during the lesson. He would deliver	Ele não se sentava durante a aula. Ele dava
+759	the lesson standing, and we would not sit until he	a aula em pé, e nós não nos sentávamos até que ele
+760	says "You may sit." He was supposed to say "You may sit."	dizia "podem sentar". Ele tinha que dizer "podem sentar".
+761	sit down,	sentar,
+762	But he wouldn't say "You may sit."	Mas ele não dizia "podem sentar".
+763	He would leave us standing	Ele nos deixava de pé
+764	and I'm standing, standing, thirty seconds, a minute,	e eu ali de pé, de pé, trinta segundos, um minuto,
+765	a minute and a half, it changed every time, and then he says	um minuto e meio, mudava toda vez, e então ele diz
+766	"You may sit."	"podem sentar".
+767	And I would say in my head, why until	E eu dizia na minha cabeça: por que até
+768	now didn't you say this?	agora você não disse isso?
+769	I didn't dare ask, yes, yes,	Eu não ousava perguntar, sim, sim,
+770	but I had this question as a young man. What?	mas eu tinha essa pergunta quando era rapaz. O quê?
+771	Why do you keep us standing? Why do you keep us standing?	Por que você nos deixa de pé? Por que nos deixa de pé?
+772	We stood for you, you came in, "You may sit." Me, for example, yes,	Ficamos de pé para você, você entrou, "podem sentar". Eu, por exemplo, sim,
+773	I give a talk at the Or HaChaim seminary	eu dou uma palestra no seminário Or HaChaim
+774	for girls on Shabbat.	para moças, no Shabat.
+775	I go there and all the students stand when I	Eu vou lá e todas as alunas ficam de pé quando eu
+776	come in. Already from the doorway to the chair where I	entro. Já da porta até a cadeira onde eu
+777	sit I'm already on my way to sitting, to sit, to sit,	me sento já estou a caminho de sentar, sentar, sentar,
+778	I don't know, I feel uncomfortable or something like that,	não sei, sinto-me desconfortável ou algo assim,
+779	to sit right away. They sit. No, he would leave us standing.	sentar logo. Elas sentam. Não, ele nos deixava de pé.
+780	"Stand!" [scoffing sounds]	"Fiquem de pé!" [bufos de desdém]
+781	He wouldn't say "stand," he'd just leave us like that.	Ele não dizia "fiquem de pé", só nos deixava assim.
+782	Why, why, why are you doing this to me?	Por quê, por quê, por que você faz isso comigo?
+783	Chazal say, "A person does not grasp his teacher's opinion until	Chazal dizem: "Ninguém compreende a opinião do seu mestre antes de
+784	forty years."	quarenta anos."
+785	It took me forty years to grasp [screams] this.	Levei quarenta anos para captar [gritos] isso.
+786	When the Rav comes in, you stand,	Quando o Rav entra, ficamos de pé,
+787	you don't sit until you get permission.	não nos sentamos até receber permissão.
+788	Innocents, innocents.	Inocentes, inocentes.
+789	Learn to be submissive, learn to show respect, it will enter you	Aprenda a ser submisso, aprenda a respeitar, isso vai entrar em você
+790	through the legs	pelas pernas
+791	into the bones.	até os ossos.
+792	This is the cheder, gentlemen,	Isto é o chéder, senhores,
+793	this day-to-day, this daily lesson of standing	essa rotina diária, essa lição diária de ficar de pé
+794	and not sitting. Not sitting. What? But I stood, can I	e não sentar. Não sentar. O quê? Mas eu fiquei de pé, posso
+795	sit? No, you need permission to sit.	sentar? Não, você precisa de permissão para sentar.
+796	Every day a vitamin of submission, a vitamin of teacher, a vitamin of	Todo dia uma vitamina de submissão, uma vitamina de mestre, uma vitamina de
+797	submission, a vitamin of "you are a student, there is a boss here and you will not	submissão, uma vitamina de "você é aluno, aqui há um chefe e você não
+798	do here whatever you want."	fará aqui o que quiser."
+799	It was a minute, it was thirty seconds, each time he played with	Era um minuto, eram trinta segundos, cada vez ele brincava com
+800	But gentlemen, that was at his whim. This is how he instilled in us	Mas, senhores, aquilo era conforme a vontade dele. Foi assim que ele nos incutiu
+801	the concept, the respect: "the fear of your teacher is like	o conceito, o respeito: "o temor do seu mestre é como
+802	the fear of Heaven."	o temor do Céu."
+803	He instilled it.	Ele incutiu isso.
+804	I'm speaking about myself. What did it do to me?	Falo de mim mesmo. O que isso fez comigo?
+805	Never in my life did I dare	Nunca na vida ousei
+806	to raise my voice, or be insolent, or say a word against	levantar a voz, ser insolente ou dizer uma palavra contra
+807	my teachers.	os meus mestres.
+808	Partly because of my father, as I told you, but also because	Em parte por causa do meu pai, como contei, mas também por causa
+809	of the education I received from my teachers.	da educação que recebi dos meus mestres.
+810	This is the ABC.	Isso é o be-a-bá.
+811	Our generation needs this like air to breathe.	A nossa geração precisa disso como do ar para respirar.
+812	It's for them, not only so that we have the connection	É para eles, não só para termos a ligação
+813	with the Creator of the world, which is the top, the peak,	com o Criador do mundo, que é o topo, o ápice,
+814	the purpose of Creation.	o propósito da Criação.
+815	It's for them too.	É para eles também.
+816	All of us need to have someone who guides us,	Todos nós precisamos ter alguém que nos guie,
+817	because that is called "a flock without a shepherd."	pois isso se chama "um rebanho sem pastor."
+818	"Pray	"Ora
+819	for the welfare of the government, for were it not for fear of it,"	pelo bem-estar do governo, pois, não fosse o temor a ele,"
+820	"each man would swallow his fellow alive."	"um engoliria o outro vivo."
+821	If you have no fear of the police, of the city,	Se você não tem medo da polícia, da prefeitura,
+822	of the prime minister, of the court, of rabbis,	do primeiro-ministro, do tribunal, dos rabinos,
+823	of judges. If you didn't have that, what would happen if	dos juízes. Se você não tivesse isso, o que aconteceria se
+824	we lived in the jungle?	vivêssemos na selva?
+825	Ah, "each man would swallow his fellow alive."	Ah, "um engoliria o outro vivo."
+826	One swallows the other, as it was in the generation of the Flood,	Um engole o outro, como era na geração do Dilúvio,
+827	one ate the other.	um comia o outro.
+828	But the moment you know there are those greater, it brings in	Mas no momento em que você sabe que há quem seja maior, isso traz
+829	order, order.	ordem, ordem.
+830	There are places in the world	Há lugares no mundo
+831	where mafias rule.	onde mandam as máfias.
+832	There are such places that the police are afraid to enter	Há lugares assim em que a polícia tem medo de entrar
+833	those places.	nesses lugares.
+834	You can't go into that place; you go in	Você não pode entrar nesse lugar; você entra
+835	there, you come out ruined. They rob,	lá, sai arruinado. Roubam,
+836	kill, strangle. There's no law, no judge.	matam, estrangulam. Não há lei, não há juiz.
+837	Each one of us, for the good of his own soul, needs	Cada um de nós, para o bem da própria alma, precisa
+838	someone greater standing over him.	de alguém maior de pé sobre ele.
+839	That's how the world is built.	É assim que o mundo é construído.
+840	A child needs parents who tell him: forbidden, permitted,	Uma criança precisa de pais que lhe digam: proibido, permitido,
+841	permitted, forbidden.	permitido, proibido.
+842	You respect your educator, you respect your rabbi.	Você respeita o seu educador, respeita o seu rabino.
+843	That's	É assim
+844	how the world is built. And it's best to have someone	que o mundo é construído. E o melhor é ter alguém
+845	who watches over you, who guides and directs you.	que cuida de você, que o orienta e o conduz.
+846	You are not left without limits.	Você não fica sem rumo, abandonado.
+847	What a privilege,	Que privilégio,
+848	what an amazing Parashah. What a Parashah, wow.	que Parashá incrível. Que Parashá, uau.
+849	Korach.	Korach.
+850	Korach.	Korach.
+851	What is happening today is Korach.	O que acontece hoje é Korach.
+852	…	…
+853	We here are the government.	Nós aqui somos o governo.
+854	The government of Israel, the Arabs, we are doing them a favor.	O governo de Israel, os árabes, nós estamos lhes fazendo um favor.
+855	Electricity,	Eletricidade,
+856	water, how much money we have poured into them over	água, quanto dinheiro despejamos neles ao longo
+857	the years. No, all they want is to have a little	dos anos. Não, eles só querem ter um pouco
+858	of economic relief.	de alívio econômico.
+859	We'll give it to them. After all, what do they	Nós vamos dar a eles. Afinal, o que eles
+860	want? They just want to have a little	querem? Eles só querem ter um pouco
+861	more livelihood, a little better conditions, we'll give them that.	mais de sustento, condições um pouco melhores, nós damos isso a eles.
+862	They'll be at peace with us, they'll live with us, they'll love	Eles ficarão em paz conosco, viverão conosco, amarão
+863	us, we'll give them our daughters and their daughters we'll take.	a nós, daremos a eles as nossas filhas e tomaremos as filhas deles.
+864	Come, come, together, together…	Venham, venham, juntos, juntos…
+865	Those against you, you are the sovereign, you are the ruler, you are	Aqueles contra você, você é o soberano, você é quem governa, você é
+866	the state, you have an army and tanks and everything.	o Estado, você tem exército, tanques e tudo.
+867	They rise up against you, guys,	Eles se levantam contra você, pessoal,
+868	people you gave everything, whom you raised and gave money to	aqueles a quem você deu tudo, que criou e a quem deu dinheiro.
+869	Before there was a state here, they were poor wretches,	Antes de haver um Estado aqui, eram uns coitados,
+870	they had nothing, they were illiterate. What	não tinham nada, eram analfabetos. O que
+871	did they have, what was here before we came? As if	eles tinham, o que havia aqui antes de chegarmos? Como se
+872	a developed country was here. For 2,000 years	houvesse aqui um país desenvolvido. Por 2.000 anos
+873	we were in exile. What was here? Only sand, and sand is what	estivemos no exílio. O que havia aqui? Só areia, e areia é o que
+874	there was. Who made everything here and built up	havia. Quem fez tudo aqui e construiu
+875	the country? Only the people of Israel who came from exile	o país? Só o povo de Israel que veio do exílio
+876	to the Land.	para a Terra.
+877	And we established the state and did what…	E nós fundamos o Estado e fizemos o que…
+878	and we embraced them and gave them	e nós os acolhemos e demos a eles
+879	and the society to which…	e a sociedade à qual…
+880	These good-for-nothings rise up against us.	Esses vagabundos se levantam contra nós.
+881	Yes.	Sim.
+882	The	A
+883	this layer that is at the bottom,	essa camada que está lá embaixo,
+884	so far beneath those who feed them and bring them electricity	tão abaixo de quem os alimenta e leva eletricidade para eles
+885	and take care of everything for them. What is this? What is this? The answer	e cuida de tudo para eles. O que é isso? O que é isso? A resposta
+886	is that this is our own doing.	é que isso é obra nossa.
+887	Because we give them openness and freedom like this,	Porque nós damos abertura e liberdade assim,
+888	everything is fine, we trust you. No need to supervise.	está tudo bem, confiamos em vocês. Não precisa fiscalizar.
+889	No need to keep an eye on what you are doing there	Não precisa vigiar o que vocês fazem lá
+890	in the tunnels. No, all they are doing is	nos túneis. Não, tudo o que eles fazem é
+891	there, they are probably playing with the children, putting up	lá, provavelmente brincam com as crianças, colocam
+892	a few dolls so the children have somewhere to hide	algumas bonecas para as crianças terem onde se esconder
+893	when they play hide-and-seek, so they make them	quando brincam de esconde-esconde, então fazem para elas
+894	tunnels. Stop it, you don't need more, let go,	túneis. Pare, você não precisa de mais, solte,
+895	let go, stop being so hard on your children. Where	solte, pare de ser duro com seus filhos. Aonde
+896	are you going? You don't leave the house without Dad's permission.	você vai? Não se sai de casa sem a permissão do pai.
+897	>> Dad, let me go, it's my right to go.	>> Pai, me solta, é meu direito ir.
+898	No, you come back at 11, you're here. Wow, Dad, you're choking	Não, você volta às 11, você fica aqui. Nossa, pai, você está me sufocando
+899	me. And the child looks to see what Mom says,	e o filho olha para ver o que a mãe diz,
+900	and Mom says: Chaim, enough, stop.	e a mãe diz: Chaim, chega, pare.
+901	He is in adolescence, let him go, look how many	Ele está na adolescência, deixe-o ir, veja quantas
+902	pimples he has. Enough,	espinhas ele tem. Chega,
+903	Chaim.	Chaim.
+904	So the child takes advantage of Mom not walking hand in hand	Então o filho se aproveita de a mãe não andar de mãos dadas
+905	with Dad. Because even if you don't agree with Dad,	com o pai. Porque mesmo que você não concorde com o pai,
+906	when you are in front of the children, line up.	diante dos filhos, alinhe-se.
+907	Afterwards, behind closed doors, talk between yourselves.	Depois, a portas fechadas, conversem entre vocês.
+908	But in front of the children, we parents must project	Mas diante dos filhos, nós, pais, precisamos transmitir
+909	a single front.	uma frente única.
+910	So the child says: enough, I've had it, I'm leaving here.	Aí o filho diz: chega, estou farto, vou embora daqui.
+911	Chaim, Chaim. Let him go.	Chaim, Chaim. Deixe-o ir.
+912	The child takes advantage that Mom isn't with Dad. Off he goes. Then	O filho se aproveita de a mãe não estar com o pai. Lá vai ele. Então
+913	Dad shouts: when are you coming back? When are you coming back? When I feel	o pai grita: quando você volta? Quando você volta? Quando eu tiver
+914	like it, when I decide.	vontade, quando eu decidir.
+915	He takes advantage that Dad and Mom are not on the same wavelength. How	Ele se aproveita de o pai e a mãe não estarem na mesma sintonia. Como
+916	serious this is, how important. Sometimes it happens that the child	isso é grave, como é importante. Às vezes acontece de o filho
+917	comes to me: Dad, can I go downstairs to play?	vir até mim: pai, posso descer para brincar?
+918	Yes, why not?	Sim, por que não?
+919	And then I hear from the house a voice, a bat kol, saying	E então eu ouço em casa uma voz, uma bat kol, dizendo
+920	[Laughter]	[Risos]
+921	But I told him not to go down.	Mas eu disse a ele que não descesse.
+922	A bat kol.	Uma bat kol.
+923	Instead, I go around the block.	Em vez disso, eu dou uma volta.
+924	Mom said no, and I also say no.	A mãe disse que não, e eu também digo que não.
+925	[Laughter] Just align the line right there.	[Risos] É só alinhar a linha na hora.
+926	The child realizes: wow, you can play here.	O filho percebe: nossa, aqui dá para brincar.
+927	Whatever Dad says, Mom lines up with him; if Mom	O que o pai diz, a mãe se alinha com ele; se a mãe
+928	has already said a word, Dad lines up with her. Afterwards	já disse uma palavra, o pai se alinha com ela. Depois
+929	we settle accounts, how much, why.	acertamos as contas, quanto, por quê.
+930	One line.	Uma só linha.
+931	The moment the parents are a single front and the child sees there is	No momento em que os pais são uma frente única e o filho vê que há
+932	nothing to exploit, what Dad and Mom sit on as one man with one	algo em que Papai e Mamãe se firmam como um só homem, com um
+933	heart, period, he cannot play.	só coração, ponto, ele não pode brincar.
+934	Because the two of us are against him, two against one, so two	Porque nós dois estamos contra ele, dois contra um, e dois
+935	are stronger. But if the father and the mother are each separate,	são mais fortes. Mas se o pai e a mãe estão cada um separado,
+936	there is a separation there: Dad is one department, Mom a separate department,	há ali uma separação: o pai é um departamento, a mãe é outro departamento,
+937	and they wound each other, because one eats the other. So	e eles se ferem, porque um devora o outro. Então
+938	the child exploits the gaps and runs away.	o filho aproveita as brechas e foge.
+939	Korach.	Korach.
+940	No, it can't be like this. Korach is under the ground, sir.	Não, não dá assim. Korach está debaixo da terra, senhor.
+941	Here you can't live when everyone is the same. If you	Aqui não se pode viver quando todos são iguais. Se você
+942	want life, please. A life with a father, a mother,	quer vida, por favor. Vida é ter pai, mãe,
+943	children, grandchildren. You have to recognize the differences	filhos, netos. É preciso reconhecer as diferenças
+944	of status. It is for your good, for the good of your soul. A person	de posição. É para o seu bem, para o bem da sua alma. A pessoa
+945	is happy when he knows there is someone above him who guides	fica feliz quando sabe que há alguém acima dela que a orienta.
+946	him.	.
+947	Of course. Right.	Com certeza. Verdade.
+948	What child who has no mother to tell him	Que criança que não tem uma mãe para lhe dizer
+949	"don't cross the street, don't cross, you see red,	"não atravesse a rua, não atravesse, você vê vermelho,
+950	red, don't cross the street," he wants to jump,	vermelho, não atravesse a rua", ele quer pular,
+951	and his mother grabs him by the hand, gives him "danger	e a mãe dele o segura pela mão, dá a ele um "perigo
+952	to life!" So	de vida!" Então
+953	let him cry, when he grows up.	que ele chore, quando crescer.
+954	Wow, Mom, I was not normal, how, how [Laughter]	Uau, mãe, eu era anormal, como, como [Risos]
+955	how did you put up with me?	como você me aguentou?
+956	If I remember how I used to jump into the road, what	Se eu lembro como eu pulava na rua, que
+957	a miracle that you shouted at me, no, a traffic light [screams]	milagre que você gritava comigo, não, um semáforo [gritos]
+958	red!	vermelho!
+959	Danger to life! Come to me, brother.	Perigo de vida! Venha aqui, meu irmão.
+960	[coughing]	[tosse]
+961	But if the mother says: it's his right,	Mas se a mãe diz: é direito dele,
+962	everyone has the right to choose, and I rely	cada um tem o direito de escolher, e eu confio
+963	on his judgment.	no discernimento dele.
+964	And it's his right if he wants to step onto the road.	E é direito dele, se quiser entrar na estrada.
+965	Everyone has the right to choose; I have no	Cada um tem o direito de escolher; eu não tenho
+966	right to restrict him, it restricts him, it chokes	o direito de limitá-lo, isso o limita, sufoca
+967	his soul.	a alma dele.
+968	And then her child went down to the road so his	E então o filho dela desceu à estrada para que não sufocassem
+969	soul wouldn't be choked, and he died on the spot. Not by choking, he died by stoning.	a alma dele, e morreu na hora. Não por sufocamento, morreu apedrejado.
+970	A car that damages the stoning...	Foi um carro que fez o estrago do apedrejamento...
+971	She didn't want choking; he got stoning.	Ela não quis sufocamento; ele recebeu apedrejamento.
+972	Enough.	Chega.
+973	Seriously, seriously: for your child's good you need	Sério, sério: para o bem do seu filho você precisa
+974	to set boundaries for him, for his sake and also for yours.	colocar limites para ele, pelo bem dele e também pelo seu.
+975	You will yet draw nachat from him thanks to these boundaries.	Você ainda vai ter nachat com ele graças a esses limites.
+976	Korach didn't want that: "the whole congregation, all of them are holy."	Korach não quis isso: "toda a congregação, todos são santos."
+977	How wonderful, everything the same.	Que beleza, tudo igual.
+978	Destruction and ruin.	Destruição e ruína.
+979	Only someone who thinks Korach is history is mistaken; let him look at	Só quem acha que Korach é história se engana; que olhe para
+980	what happens today. He will see Korach alive and breathing.	o que acontece hoje. Ele verá Korach vivo e respirando.
+981	"And the sons of Korach did not die."	"E os filhos de Korach não morreram."
+982	The sons of Korach did not die; they are still here.	Os filhos de Korach não morreram; eles ainda estão aqui.
+983	This continues to this very day.	Isso continua até o dia de hoje.
+984	But whoever wants to walk with Moshe Rabbeinu, with	Mas quem quer andar com Moshé Rabênu, com
+985	holiness, understands that one cannot walk with this approach	a santidade, entende que não se pode andar com essa postura
+986	of Korach.	de Korach.
+987	We do need to explain to the children who Grandpa is.	Nós precisamos explicar às crianças quem é o vovô.
+988	Go give Grandpa a kiss, and show him. You, father,	Vá dar um beijo no vovô, e mostre a ele. Você, pai,
+989	show him an example of how you give Grandpa a kiss.	mostre a ele o exemplo de como você dá um beijo no vovô.
+990	You are the first.	Você é o primeiro.
+991	Like this, like this.	Assim, assim.
+992	When we walk in this way, we will merit the imminent redemption, amen.	Quando andarmos por esse caminho, mereceremos a redenção que se aproxima, amém.
+993	Amen. Yes, may it be His will.	Amém. Sim, que seja a vontade dele.
