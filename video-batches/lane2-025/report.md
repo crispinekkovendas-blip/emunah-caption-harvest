@@ -1,7 +1,7 @@
 # lane2-025
 
-12 of 17 lessons published · 0 skipped · status **pending**
-Tokens (61 agent runs with a record): 0.4M in (mostly cache) · 0.34M out · API-equivalent 4.72
+16 of 17 lessons published · 0 skipped · status **pending**
+Tokens (82 agent runs with a record): 0.6M in (mostly cache) · 0.48M out · API-equivalent 6.49
 
 | lesson | state | detail |
 |---|---|---|
@@ -16,9 +16,9 @@ Tokens (61 agent runs with a record): 0.4M in (mostly cache) · 0.34M out · API
 | LZLQVGKt8jI | ✓ published | 889 lines · Hoshana Rabá: o segundo selo e a realeza de David |
 | ZTYl45ykFt4 | ✓ published | 760 lines · A lua, Rachel e a Hilulá do Ari HaKadosh |
 | ErcWq3erPR0 | ✓ published | 555 lines · Nova infraestrutura: a Parashá Bo e a nova linguagem |
-| FHlYPWAyIVA | waiting | 0/4 parts |
-| jrgUrbDQwqY | waiting | 0/6 parts |
-| 3BaAivd3yio | waiting | 0/5 parts |
-| PIqzTlYk1VM | waiting | 0/5 parts |
+| FHlYPWAyIVA | ✓ published | 471 lines · Anochi e Ani: o eu verdadeiro e o ego em Parashá Yitro |
+| jrgUrbDQwqY | ✓ published | 694 lines · Ayin HaRá: origem, cuidados e proteção segundo a Cabalá |
+| 3BaAivd3yio | ✓ published | 596 lines · Corrigir o coração: de lo lishmá a lishmá (Rabash) |
+| PIqzTlYk1VM | ✓ published | 519 lines · Otzrot Chaim: Ein Sof, Tzimtzum, círculos e linha reta |
 | o6lsXLfzCfU | ✓ published | 755 lines · Talmud Eser HaSefirot III: a komá de cada mundo |
 | PAc0hzdLMlQ | waiting | 0/1 parts |
