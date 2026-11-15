@@ -1,7 +1,7 @@
 # lane2-025
 
-16 of 17 lessons published · 0 skipped · status **pending**
-Tokens (83 agent runs with a record): 0.6M in (mostly cache) · 0.49M out · API-equivalent 6.60
+17 of 17 lessons published · 0 skipped · status **done**
+Tokens (84 agent runs with a record): 0.6M in (mostly cache) · 0.50M out · API-equivalent 6.66
 
 | lesson | state | detail |
 |---|---|---|
@@ -21,4 +21,4 @@ Tokens (83 agent runs with a record): 0.6M in (mostly cache) · 0.49M out · API
 | 3BaAivd3yio | ✓ published | 596 lines · Corrigir o coração: de lo lishmá a lishmá (Rabash) |
 | PIqzTlYk1VM | ✓ published | 519 lines · Otzrot Chaim: Ein Sof, Tzimtzum, círculos e linha reta |
 | o6lsXLfzCfU | ✓ published | 755 lines · Talmud Eser HaSefirot III: a komá de cada mundo |
-| PAc0hzdLMlQ | waiting | 0/1 parts |
+| PAc0hzdLMlQ | ✓ published | 30 lines · Targum Onkelos, Chayei Sara: Eliezer e Rivka no poço |
