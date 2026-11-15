@@ -1,0 +1,54 @@
+{
+ "name": "salvage-002",
+ "lane": 0,
+ "salvage": true,
+ "created": "2026-11-15T18:31:44.639Z",
+ "status": "done",
+ "lessons": [
+  {
+   "id": "fnQ3lAZJB5g",
+   "title": "Parashá Tzav: pensamentos, zerizut e preparação para Pessach",
+   "lines": 1977,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane1-003",
+    "lane1-009",
+    "lane1-010",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "IJGBX4JJ6XA",
+   "title": "Daf Yomi Bechorot 29-30: o suspeito e as regras da chavurá",
+   "lines": 1585,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane3-028"
+   ]
+  },
+  {
+   "id": "_4ejohTN1TU",
+   "title": "HaShem itti: anular a própria vontade para HaShem estar conosco",
+   "lines": 1948,
+   "parts": 1,
+   "from": "salvage",
+   "sources": [
+    "lane9-011"
+   ]
+  }
+ ],
+ "chunks": [
+  "fnQ3lAZJB5g.p0",
+  "IJGBX4JJ6XA.p0",
+  "_4ejohTN1TU.p0"
+ ],
+ "tries": {},
+ "done": [
+  "fnQ3lAZJB5g",
+  "IJGBX4JJ6XA",
+  "_4ejohTN1TU"
+ ],
+ "skipped": []
+}

@@ -1,0 +1,776 @@
+{
+ "name": "salvage-002",
+ "created": "2026-11-15T18:31:44.639Z",
+ "looked": 48,
+ "salvaged": [
+  {
+   "id": "fnQ3lAZJB5g",
+   "lines": 1977,
+   "replies": 476,
+   "stale": 0,
+   "batches": [
+    "lane1-003",
+    "lane1-009",
+    "lane1-010",
+    "lane1-015"
+   ]
+  },
+  {
+   "id": "IJGBX4JJ6XA",
+   "lines": 1585,
+   "replies": 28,
+   "stale": 0,
+   "batches": [
+    "lane3-028"
+   ]
+  },
+  {
+   "id": "_4ejohTN1TU",
+   "lines": 1948,
+   "replies": 34,
+   "stale": 0,
+   "batches": [
+    "lane9-011"
+   ]
+  }
+ ],
+ "filled": [
+  {
+   "id": "0g-eVAkDRJM",
+   "pieces": [
+    "lane6-012/0g-eVAkDRJM.p0",
+    "lane6-012/0g-eVAkDRJM.p2",
+    "lane6-012/0g-eVAkDRJM.p3",
+    "lane6-012/0g-eVAkDRJM.p4",
+    "lane6-012/0g-eVAkDRJM.p5",
+    "lane6-012/0g-eVAkDRJM.p6",
+    "lane6-012/0g-eVAkDRJM.p7",
+    "lane6-012/0g-eVAkDRJM.p8",
+    "lane6-012/0g-eVAkDRJM.p9",
+    "lane6-012/0g-eVAkDRJM.p10",
+    "lane6-012/0g-eVAkDRJM.p11",
+    "lane6-012/0g-eVAkDRJM.p12"
+   ]
+  },
+  {
+   "id": "S3-D_sQJaPE",
+   "pieces": [
+    "lane6-012/S3-D_sQJaPE.p0",
+    "lane6-012/S3-D_sQJaPE.p1",
+    "lane6-012/S3-D_sQJaPE.p2",
+    "lane6-012/S3-D_sQJaPE.p4",
+    "lane6-012/S3-D_sQJaPE.p5",
+    "lane6-012/S3-D_sQJaPE.p6",
+    "lane6-012/S3-D_sQJaPE.p7"
+   ]
+  },
+  {
+   "id": "rBFyj4LzeAM",
+   "pieces": [
+    "lane6-012/rBFyj4LzeAM.p0",
+    "lane6-012/rBFyj4LzeAM.p2",
+    "lane6-012/rBFyj4LzeAM.p3",
+    "lane6-012/rBFyj4LzeAM.p4"
+   ]
+  },
+  {
+   "id": "4E2QsqSk7-E",
+   "pieces": [
+    "lane7-014/4E2QsqSk7-E.p1",
+    "lane7-014/4E2QsqSk7-E.p2",
+    "lane7-014/4E2QsqSk7-E.p3",
+    "lane7-014/4E2QsqSk7-E.p4",
+    "lane7-014/4E2QsqSk7-E.p5",
+    "lane7-014/4E2QsqSk7-E.p6"
+   ]
+  },
+  {
+   "id": "y-CLdvsfxZw",
+   "pieces": [
+    "lane7-014/y-CLdvsfxZw.p0",
+    "lane7-014/y-CLdvsfxZw.p1",
+    "lane7-014/y-CLdvsfxZw.p2",
+    "lane7-014/y-CLdvsfxZw.p3",
+    "lane7-014/y-CLdvsfxZw.p5",
+    "lane7-014/y-CLdvsfxZw.p6",
+    "lane7-014/y-CLdvsfxZw.p7",
+    "lane7-014/y-CLdvsfxZw.p8",
+    "lane7-014/y-CLdvsfxZw.p9",
+    "lane7-014/y-CLdvsfxZw.p10",
+    "lane7-014/y-CLdvsfxZw.p11",
+    "lane7-014/y-CLdvsfxZw.p12"
+   ]
+  },
+  {
+   "id": "irXuG67OQBM",
+   "pieces": [
+    "lane7-014/irXuG67OQBM.p0",
+    "lane7-014/irXuG67OQBM.p1",
+    "lane7-014/irXuG67OQBM.p2",
+    "lane7-014/irXuG67OQBM.p4",
+    "lane7-014/irXuG67OQBM.p5",
+    "lane7-014/irXuG67OQBM.p6",
+    "lane7-014/irXuG67OQBM.p7"
+   ]
+  },
+  {
+   "id": "inVDuO-Y1xY",
+   "pieces": [
+    "lane7-014/inVDuO-Y1xY.p0",
+    "lane7-014/inVDuO-Y1xY.p1",
+    "lane7-014/inVDuO-Y1xY.p2",
+    "lane7-014/inVDuO-Y1xY.p3",
+    "lane7-014/inVDuO-Y1xY.p4",
+    "lane7-014/inVDuO-Y1xY.p6",
+    "lane7-014/inVDuO-Y1xY.p7",
+    "lane7-014/inVDuO-Y1xY.p8",
+    "lane7-014/inVDuO-Y1xY.p9",
+    "lane7-014/inVDuO-Y1xY.p10",
+    "lane7-014/inVDuO-Y1xY.p11",
+    "lane7-014/inVDuO-Y1xY.p12",
+    "lane7-014/inVDuO-Y1xY.p13",
+    "lane7-014/inVDuO-Y1xY.p14",
+    "lane7-014/inVDuO-Y1xY.p15"
+   ]
+  }
+ ],
+ "incomplete": [
+  {
+   "id": "Yk0VCZnUJvs",
+   "lines": 863,
+   "missing": 863,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "Uvwqg5IKbCo",
+   "lines": 740,
+   "missing": 740,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "vrv7uGT_06o",
+   "lines": 604,
+   "missing": 604,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "zyN2lwcjzKc",
+   "lines": 1452,
+   "missing": 1452,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "YAc-oI7tE7U",
+   "lines": 30,
+   "missing": 30,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "n4jy54hJPGk",
+   "lines": 351,
+   "missing": 351,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "aQGm8epS9Bw",
+   "lines": 305,
+   "missing": 305,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "ESgHDuWN8-0",
+   "lines": 16,
+   "missing": 16,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "FHlYPWAyIVA",
+   "lines": 471,
+   "missing": 471,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "jrgUrbDQwqY",
+   "lines": 694,
+   "missing": 694,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "3BaAivd3yio",
+   "lines": 596,
+   "missing": 596,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "PIqzTlYk1VM",
+   "lines": 519,
+   "missing": 519,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "PAc0hzdLMlQ",
+   "lines": 30,
+   "missing": 30,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "j3J7IdJemH8",
+   "lines": 1206,
+   "missing": 966,
+   "first": [
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247
+   ]
+  },
+  {
+   "id": "6kHzmRaQEKI",
+   "lines": 590,
+   "missing": 590,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "HM4SUrTgbbM",
+   "lines": 3368,
+   "missing": 3368,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "YwSxsUTma-Y",
+   "lines": 572,
+   "missing": 572,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "s_2v8ibJR40",
+   "lines": 708,
+   "missing": 708,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "Vf7QxdFQJMU",
+   "lines": 863,
+   "missing": 863,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "U3crJcm5VRU",
+   "lines": 168,
+   "missing": 168,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "0g-eVAkDRJM",
+   "lines": 1532,
+   "missing": 1,
+   "first": [
+    159
+   ]
+  },
+  {
+   "id": "S3-D_sQJaPE",
+   "lines": 867,
+   "missing": 1,
+   "first": [
+    393
+   ]
+  },
+  {
+   "id": "rBFyj4LzeAM",
+   "lines": 530,
+   "missing": 1,
+   "first": [
+    239
+   ]
+  },
+  {
+   "id": "uHh9b4QChGo",
+   "lines": 486,
+   "missing": 246,
+   "first": [
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247
+   ]
+  },
+  {
+   "id": "HtBmFn8Oui4",
+   "lines": 602,
+   "missing": 602,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "XgG8SMhcBy8",
+   "lines": 771,
+   "missing": 771,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "PCvLCb7iAlk",
+   "lines": 370,
+   "missing": 370,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "bMXfpWB-xRY",
+   "lines": 1499,
+   "missing": 1499,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "1LXeA-kF720",
+   "lines": 903,
+   "missing": 903,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "g4FSy0w2xQE",
+   "lines": 388,
+   "missing": 388,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "ftauDqmyptA",
+   "lines": 866,
+   "missing": 866,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "uktdKS7_eLk",
+   "lines": 1475,
+   "missing": 1475,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "5AOGYCpqXno",
+   "lines": 930,
+   "missing": 930,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "6twM78fiEHo",
+   "lines": 442,
+   "missing": 442,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "vCN2T18jovo",
+   "lines": 632,
+   "missing": 632,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "4E2QsqSk7-E",
+   "lines": 788,
+   "missing": 2,
+   "first": [
+    1,
+    4
+   ]
+  },
+  {
+   "id": "y-CLdvsfxZw",
+   "lines": 1482,
+   "missing": 1,
+   "first": [
+    599
+   ]
+  },
+  {
+   "id": "irXuG67OQBM",
+   "lines": 857,
+   "missing": 1,
+   "first": [
+    438
+   ]
+  },
+  {
+   "id": "yx-U3xEp1zA",
+   "lines": 3082,
+   "missing": 2482,
+   "first": [
+    600,
+    601,
+    602,
+    603,
+    604,
+    605,
+    606,
+    607
+   ]
+  },
+  {
+   "id": "ub3iYoxZhks",
+   "lines": 3053,
+   "missing": 3053,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "hRV-I1REucI",
+   "lines": 3317,
+   "missing": 3317,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "OgFwEvz_n00",
+   "lines": 2328,
+   "missing": 2328,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "12_u55ICjeM",
+   "lines": 440,
+   "missing": 440,
+   "first": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "inVDuO-Y1xY",
+   "lines": 1857,
+   "missing": 95,
+   "first": [
+    624,
+    626,
+    627,
+    628,
+    629,
+    630,
+    631,
+    632
+   ]
+  },
+  {
+   "id": "zVZFjlhqci8",
+   "lines": 524,
+   "missing": 404,
+   "first": [
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127
+   ]
+  }
+ ],
+ "changed": [],
+ "elsewhere": [],
+ "errors": []
+}
