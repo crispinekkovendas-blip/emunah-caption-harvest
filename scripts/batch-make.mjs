@@ -62,10 +62,27 @@ const clock = (s) => {
   const x = s % 60
   return h ? `${h}:${String(m).padStart(2, '0')}:${String(x).padStart(2, '0')}` : `${String(m).padStart(2, '0')}:${String(x).padStart(2, '0')}`
 }
-/** chunks of a batch that have no output yet */
+const lessonOf = (chunk) => chunk.replace(/\.p\d+$/, '')
+/**
+ * chunks of a batch that have no output yet — of its OPEN lessons only (2026-11-15: a lesson already skipped
+ * or published had its missing pieces translated again on every resume and never published — about 6,000
+ * replies, ~$370 at list price, by 2026-11-08)
+ */
 const pending = (name) => {
   const m = JSON.parse(fs.readFileSync(path.join(DIR, name, 'manifest.json'), 'utf8'))
-  return m.chunks.filter((c) => !fs.existsSync(path.join(DIR, name, 'out', `${c}.txt`)))
+  const closed = new Set([...(m.done || []), ...(m.skipped || [])])
+  return m.chunks.filter((c) => !closed.has(lessonOf(c)) && !fs.existsSync(path.join(DIR, name, 'out', `${c}.txt`)))
+}
+// 2026-11-15 (the owner: "before making lanes have big work we need to test that the fixed method is working"):
+// --max N caps one run at about N pieces, whole lessons only (a lesson cut in two is never published)
+const MAXP = process.argv.includes('--max') ? Number(process.argv[process.argv.indexOf('--max') + 1]) || MATRIX : MATRIX
+const cap = (list) => {
+  const out = []
+  for (const c of list) {
+    if (out.length >= MAXP && lessonOf(out[out.length - 1]) !== lessonOf(c)) break
+    out.push(c)
+  }
+  return out.slice(0, MATRIX)
 }
 
 fs.mkdirSync(DIR, { recursive: true })
@@ -78,7 +95,7 @@ for (const b of batches) {
   const left = pending(b)
   console.log(`${b} is still pending: ${left.length} chunks without output`)
   output('batch', b)
-  output('chunks', JSON.stringify(left.slice(0, MATRIX)))
+  output('chunks', JSON.stringify(cap(left)))
   process.exit(0)
 }
 
@@ -221,7 +238,7 @@ if (!lessons.length) {
       console.log(`nothing new to take — helping ${target.b} (lane ${target.lane}, ${target.left.length} pieces left) with ${mine.length} from the back`)
       output('batch', target.b)
       output('help', 'true')
-      output('chunks', JSON.stringify(mine.slice(0, MATRIX)))
+      output('chunks', JSON.stringify(cap(mine)))
       process.exit(0)
     }
   }
@@ -235,4 +252,4 @@ fs.writeFileSync(path.join(DIR, name, 'out', '.keep'), '')
 fs.writeFileSync(path.join(DIR, name, 'manifest.json'), JSON.stringify({ name, lane: LANE, created: new Date().toISOString(), status: 'pending', lessons, chunks }, null, 1) + '\n')
 console.log(`${name}: ${lessons.length} lessons, ${chunks.length} chunks`)
 output('batch', name)
-output('chunks', JSON.stringify(chunks.slice(0, MATRIX)))
+output('chunks', JSON.stringify(cap(chunks)))

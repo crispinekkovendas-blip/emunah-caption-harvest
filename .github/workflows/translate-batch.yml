@@ -20,6 +20,11 @@ name: Translate a video batch (Claude)
 # schedule (hourly) wakes all ten lanes; a lane already running just goes on.
 # HELPING (2026-11-07, the owner: "activate all lanes"): a lane with nothing new to take works the back half
 # of a busy lane's batch, one piece at a time, pushing each piece; every piece already on the branch is skipped.
+#
+# TEST FIRST (2026-11-15, the owner: "before making lanes have big work we need to test that the fixed method is
+# working"): the hourly schedule is off until one lane has gone through translate AND publish with the 2026-11-08
+# fixes. A test run: gh workflow run translate-batch.yml -f lane=N -f max=20 -f chain=false (about 20 pieces, whole
+# lessons, no next run). To bring the ten lanes back, restore the schedule below.
 
 on:
   workflow_dispatch:
@@ -27,8 +32,15 @@ on:
       lane:
         description: 'Lane 1-10 (empty = start all ten lanes)'
         default: ''
-  schedule:
-    - cron: '41 * * * *'
+      max:
+        description: 'At most about this many pieces this run (whole lessons)'
+        default: '250'
+      chain:
+        description: 'Start the lane again when this run made progress'
+        type: boolean
+        default: true
+  # schedule:
+  #   - cron: '41 * * * *'
 
 concurrency:
   group: video-batches-lane-${{ inputs.lane || 'kick' }}
@@ -76,7 +88,7 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
-        run: node --experimental-transform-types --import ./scripts/ts-hook.mjs scripts/batch-make.mjs --size 25 --lane ${{ inputs.lane }}
+        run: node --experimental-transform-types --import ./scripts/ts-hook.mjs scripts/batch-make.mjs --size 25 --lane ${{ inputs.lane }} --max ${{ inputs.max || '250' }}
       - name: Commit the new batch
         if: steps.tok.outputs.has == 'true'
         run: |
@@ -190,7 +202,7 @@ jobs:
           echo "pieces on the branch: $n"
           echo "n=$n" >> "$GITHUB_OUTPUT"
       - name: Keep the lane going (help again, or its own next batch)
-        if: steps.got.outputs.n != '0'
+        if: steps.got.outputs.n != '0' && inputs.chain != false
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=${{ inputs.lane }}
@@ -233,7 +245,7 @@ jobs:
           git diff --cached --quiet || git commit -m "video-batches: ${{ needs.make.outputs.batch }} — translations and report"
           for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
       - name: Keep the lane going (the next batch, or the rest of this one)
-        if: steps.publish.outputs.complete == 'true' || steps.progress.outputs.made != '0'
+        if: (steps.publish.outputs.complete == 'true' || steps.progress.outputs.made != '0') && inputs.chain != false
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=${{ inputs.lane }}
