@@ -1,0 +1,144 @@
+videoId: XOgJ7auYhT0
+parte 3 de 6 · traduzir as linhas 240 a 359 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Emuná ou deá: o que é crer, segundo o Rambam (Guia I:50)
+RESUMO: O rabino abre o capítulo 50 da primeira parte do Guia dos Perplexos explicando que o Rambam usa "deá" (convicção, do árabe i'tikad) e não "emuná", como no livro de Rabenu Saadia Gaon. Segundo ele, o hebraico moderno herdou do cristianismo a ideia de fé como aceitar o que não se pode provar, e isso contraria a tradição judaica, como mostram a conversa entre o Rav Kook e o Ridvaz e o Kuzari. Ele sustenta que nada na Torá contradiz o intelecto, e examina casos aparentes: a vaca vermelha no Midrash e o "ainda que digam que a direita é esquerda" no Sifrei, na Mishná e no Yerushalmi em Horayot. Em seguida lê o Rambam: crer não é o que se diz com a boca, mas o conteúdo concebido na alma e verificado; a unicidade de HaShem exclui qualquer atributo essencial, e quem diz "um" mas pensa em muitos se equipara aos que falam em trindade. Ele relaciona isso ao Yesh e Ayin da Kabalá e do Zohar, à posição de Rav Kook sobre a lógica e a Kant, e à cultura cristã do "creio porque é absurdo". Por fim, o Rambam diz que a convicção exige prova de que o pensamento corresponde à realidade, e que desejos e hábitos turvam o intelecto (Yirmiyahu 12:2, Tehilim 4:5). O rabino termina aplicando isso à discussão sobre o Rebe de Lubavitch e a definição de Mashiach.
+MOMENTOS: 00:00 Início do capítulo 50 e o termo "deá" no lugar de "emuná" · 01:08 O hebraico moderno e a influência cristã sobre "emuná" · 03:35 Rav Kook e o Ridvaz: a fé da avó · 06:23 Kuzari: a Torá não contradiz o intelecto · 10:21 Vaca vermelha: há sempre um motivo, ainda que oculto · 11:08 "Direita que é esquerda": Sifrei, Horayot e a halachá · 14:18 Rambam: crer não é o que se diz com a boca · 15:38 Unicidade de HaShem e negação de atributos · 19:44 Yesh e Ayin na Kabalá e no Zohar · 21:11 Trindade e "creio porque é absurdo" · 28:29 Convicção exige prova e correspondência com a realidade · 33:13 Desejos e hábitos turvam o intelecto · 36:40 Crenças em disputa: Rebe de Lubavitch e a definição de Mashiach
+FONTES CITADAS: 00:26 Rav Kafach, nota sobre o Moré Nevuchim I:50 · 00:30 Rabenu Saadia Gaon, Sefer HaEmunot VeHaDeot · 00:50 Rambam, Moré Nevuchim I:50 · 03:35 Diálogo entre o Rav Kook e o Ridvaz · 05:19 Mishlei 22:6 · 06:23 Kuzari · 06:44 Rambam, Treze Princípios de Fé · 08:08 Kuzari I:89 (tradução de Ibn Tibbon) · 09:15 Rabi Shimshon de Kinon · 10:26 Bamidbar Rabá 19:6 (vaca vermelha) · 11:08 Devarim 17:11 · 11:30 Mishná Horayot 1:1 · 11:50 Yerushalmi Horayot 1:1 · 12:12 Sifrei Devarim 154 · 13:14 Vayikra 4:13 · 14:18 Rambam, Moré Nevuchim I:50 · 15:38 Rambam, Moré Nevuchim I:50 · 16:58 Rambam, Igueret HaShemad · 17:13 Kidushin 49b · 17:44 Rambam e Nefesh HaChaim (Rabi Chaim de Volozhin) sobre oração só em pensamento · 19:47 Cabalá: Keter chamado Ayin, Chochmá chamada Yesh · 20:04 Shemot 17:7 · 20:10 Zohar, Parashat Beshalach · 20:40 Rambam, Moré Nevuchim I:50 · 21:58 Tertuliano, Credo quia absurdum · 23:13 Novo Testamento, Evangelho de João · 24:00 Rav Kook, Orot · 25:01 Rav Kook, doutrina sobre o princípio da contradição e Kant · 26:32 Kuzari II:3 · 27:00 Rambam, Treze Princípios de Fé: vinda do Mashiach e profecia de Moshe · 27:30 Rambam, Moré Nevuchim I:50 · 29:26 Rambam, Moré Nevuchim I:50 · 31:14 Rabenu Saadia Gaon, Sefer HaEmunot VeHaDeot, 1º tratado, opiniões 12 e 13 · 31:51 Rambam, Moré Nevuchim I:50 · 33:13 Rambam, Moré Nevuchim I:50 · 33:57 Yirmiyahu 12:2 · 34:18 Tehilim 4:5 · 35:01 Chagigá 14b (Rabi Akiva: mármore puro) · 35:07 Rabi Nachman de Breslov sobre "água, água · 38:34 Tzemach Tzedek, Derech Mitzvotecha
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|14:39|אלא העניין שהצטייר בנפש כאשר מאמתים
+229|14:44|אותו שהוא כך כפי שהצטייר.
+230|14:47|כלומר, אם יש לך, אתה יודע גם איך הדבר הזה מאומת.
+231|14:52|אם אתה יודע כיצד הדבר הזה מאומת, זה נקרא שאתה בדעה זו.
+232|14:58|אם אתה מאותם שמספיק להם מן ההשקפות הנכונות, או שחושבים שהן
+233|15:03|נכונות, בכך שתאמר אותם בפיך, בלי שתשכיל אותם ותבינם,
+234|15:10|כל שכן שתחקור בהם על הנכון, הרי זה קל מאוד.
+235|15:14|כפי שאתה מוצא, רבים מן הפתאים תופסים דעות שאינם מבינים להם עניין כלל.
+236|15:20|כן?
+237|15:22|הרבה פעמים אנשים אומרים, אני מאמין בכך וכך וכך וכך, אתה מבין מה זה אומר?
+238|15:26|לא.
+239|15:27|אז זה לא נקרא שאתה מאמין, זה רק אומר שאתה תוכי.
+
+LINHAS A TRADUZIR:
+240|15:29|מסכים אל הבא בסיסי להסכמה.
+241|15:32|נכון.
+242|15:38|אבל אם אתה ממי שנשאו ליבו להתרומם למעלה הנעלה
+243|15:44|הזו, מעלת העיון, ושיתברר לך באמת
+244|15:50|שהשם אחד, אחדות אמיתית, עד שלא יימצא לו הרכבה כלל,
+245|15:57|ולא השארת חלוקה בשום פנים ואופן, אם כן, דע שאין לו התעלה תואר עצמי כלל.
+246|16:03|מה זה השארת חלוקה?
+247|16:05|המילה השארה רופא.
+248|16:06|השערת חלוקה, הכוונה מדידה.
+249|16:11|ולא בשום מצב ועניין.
+250|16:14|כן, למשל.
+251|16:15|ולא בשום מצב ועניין, ושכשם שנמנע היותו גוף, כך נמנע
+252|16:21|היותו בעל תואר עצמי.
+253|16:23|זאת אומרת, מה אומר לך כאן הרמב״ם?
+254|16:25|כשאתה אומר השם אחד, הכוונה שאין לו שום תואר עצמי.
+255|16:32|אלא שכל התארים הם הנאמרים בפה, אבל אינם...
+256|16:36|לקדוש ברוך הוא, כן.
+257|16:38|לכן גם המילה אחד היא מילה לא נכונה, לפי ההבנה ההמונית,
+258|16:43|כן.
+259|16:58|אה, אתה מדבר על איגרת השמד.
+260|17:02|איגרת השמד, כן.
+261|17:04|כלומר, לפי הרמב״ם, המשמעות של מה שאתה אומר זה מה שאתה מתכוון.
+262|17:10|אבל יש לנו בהלכה דיונים על זה.
+263|17:13|דברים שבלב אינם דברים, דברים שהלב סותר את הדיבור, יש מה לדבר על
+264|17:18|זה.
+265|17:19|למשל, השאלה, האם אדם יוצא ידי חובת תפילה בלי דיבור?
+266|17:25|במחשבה בלבד.
+267|17:30|אני שואל.
+268|17:33|כן, אדם...
+269|17:34|אומר לעצמו בראש את המילים של התפילה, רק הוא לא מוציא אותם מהפה, יצא ידי חובה או
+270|17:39|לא.
+271|17:44|מי שאומר לא יצא, סובר כמו רבי חיים מוולוז'ין בספר נפש החיים.
+272|17:49|אבל מי שאומר שיצא ידי חובה, סובר כדעת
+273|17:52|הרמב״ם.
+274|17:56|מה?
+275|17:57|כן, השולחן ארוך כן, אבל אני אומר הרמב״ם סובר.
+276|18:02|שאדם יוצא דרך חובת תפילה, אם הוא יתכוון במחשבה.
+277|18:05|כן?
+278|18:07|טוב, אנחנו לא פוסקים כך להלכה, אבל צריך לדעת שיש דבר כזה.
+279|18:10|טוב.
+280|18:12|מה?
+281|18:14|דיברנו על זה כבר לפני בערך 11 שניות.
+282|18:19|אבל אני לא מבין למה אני צריך לחזור על מה שאמרנו לפני 12 שניות.
+283|18:23|13.
+284|18:24|טוב, הלאה.
+285|18:29|וכשם שנמנע היותו גוף, כך נמנע היותו בעל תואר עצמי.
+286|18:34|לכן כל תיאור שתאמר על האלוהות הוא תיאור לא נכון.
+287|18:39|אחרי כשאנשים אומרים, אני לא מאמין באלוהים.
+288|18:43|מעניין, אתה יודע להגדיר לי במה אתה לא מאמין?
+289|18:47|לא כל כך ברור.
+290|18:48|כן?
+291|18:53|לא, זה לא עניין של הרגשה.
+292|18:54|התוכן הוא חסר משמעות.
+293|18:58|לא, זה לא עניין של לא שכל ולא רגש.
+294|19:01|זה פשוט לא נכנס להגדרה.
+295|19:03|זה כמו שאם אני אשאל אדם, האם אתה מקבל את זה שבלופ הוא פף?
+296|19:11|האם בלופ הוא פף?
+297|19:12|מה דעתכם?
+298|19:14|לא?
+299|19:15|אתה יודע מה זה בלופ ומה זה פף?
+300|19:16|כדי לדעת אם זה כן או לא?
+301|19:19|ברור, כלומר, אתה יכול להשתמש במילים שאינך מבין את משמעותן.
+302|19:22|ברור.
+303|19:24|לכן זה לא נקרא שאתה כופר או שאתה מאמין.
+304|19:26|אתה פשוט לא יודע מה זה אומר.
+305|19:28|לכן רוב האנשים שאומרים יש אלוהים, או שאומרים אין אלוהים, אינם יודעים על מה הם מדברים.
+306|19:33|בסדר?
+307|19:34|מובן?
+308|19:35|כי המושגים של יש ואין אינם שייכים במי שהוא מקור היש והאין.
+309|19:41|ברור?
+310|19:44|למשל חכמי הקבלה יש להם משהו גאוני לזה.
+311|19:47|הם קוראים לספירה הראשונה, כתר, הם קוראים לה בשם אין.
+312|19:51|הספירה השנייה, חוכמה, הם קוראים לה יש.
+313|19:54|אז הבורא עצמו הוא יש או אין?
+314|19:56|הוא ברא את העין, ברא את היש.
+315|19:59|עכשיו זה מעניין בפרשת בשלח, שבני
+316|20:04|ישראל שאלו, היש השם בקרבנו עם עין?
+317|20:10|אומר הזוהר, הם רצו לדעת האם הקליטה שלהם את השם זה
+318|20:16|דרך היש או דרך העין?
+319|20:19|ואומר הזוהר, האמירה עין נעלה יותר מהאמירה יש.
+320|20:25|ואז שואל הזוהר, אז למה נענשו?
+321|20:28|כן, שאלו שאלה טובה, היש השם יקרבנו ימי?
+322|20:32|אומר הזוהר, בגלל שהם שאלו בחוצפה.
+323|20:35|אז על החוצפה הם נהנשו.
+324|20:37|אבל עצם השאלה היא שאלה אמיתית.
+325|20:40|אבל, אומר הרמב״ם, אני קורא כאן בפנים, מי שסבור
+326|20:46|שהוא אחד, בעל תארים מספר.
+327|20:51|הרי הוא אומר שהוא אחד בפיו, וסבור במחשבתו שהוא
+328|20:57|רבים.
+329|21:00|ברור?
+330|21:00|כלומר, אם אתה אומר, השם אחד, אבל הוא מורכב, יש לו תארים שונים,
+331|21:06|אז בעצם אתה, כשאמרת אחד, אתה לא יודע מה אתה אומר.
+332|21:11|וזה כאין מה שאומרים הנוצרים.
+333|21:13|הוא אחד, אלא שהוא שלושה, והשלושה אחד.
+334|21:17|שזה בעצם לומר שבערך זה שווה לאמירה צ'יפופו בום.
+335|21:23|נכון?
+336|21:25|אין הבדל בין האמונת השילוש, לבין האמירה צ'יפופו בום,
+337|21:32|או הספגטי המעופף.
+338|21:36|לא, הם לא מטומטמים, הם פשוט מיסטיים.
+339|21:39|כלומר, האמירות האלה הן מענה לתביעה המיסטית של
+340|21:44|האדם.
+341|21:45|והאדם, זה מספק את התביעה הזאת, הצמאון הזה.
+342|21:48|כלומר, אחד הוא שלושה, שלושה ואחד, וככל שזה יותר אבסורדי, יותר טוב.
+343|21:53|לכן אמר טרטוליאנוס, אחד מאבות הכנסייה, קרדו קויה
+344|21:58|אבסורדם.
+345|21:59|אני מאמין שהרי זה אבסורד.
+346|22:03|בדיוק ההפך מהיהדות.
+347|22:04|לפני כמה דקות אתה ניסת להגן על האמירות שהאמונה היא גם מדברים אבסורדים.
+348|22:09|אז מה אתה, מה אפשר לטעון נגד הנוצרים עכשיו?
+349|22:11|אהה, יפה.
+350|22:11|טוב.
+351|22:11|הם לא יכולים לטעון שזה רק מצידנו?
+352|22:12|הם קוראים שהעצמות עצמה
+353|22:20|היא...
+354|22:20|אם אתה אומר שזה מצידנו, זו סטייה יהודית.
+355|22:25|סטייה לכיוון היהדות, וזה אפיקורסות מבחינתם.
+356|22:27|לא, לא, הנוצרים לא יכולים לטעון שזה רק צעדה.
+357|22:31|אם אלה שיטענו את זה אצלם, מוצאים מן הכנסייה.
+358|22:33|לא הכנסייה, אני מדבר על הנצרות.
+359|22:35|העולם הנוצרי בכלל לא.

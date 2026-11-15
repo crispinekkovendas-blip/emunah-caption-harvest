@@ -1,0 +1,144 @@
+videoId: XOgJ7auYhT0
+parte 5 de 6 · traduzir as linhas 480 a 599 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Emuná ou deá: o que é crer, segundo o Rambam (Guia I:50)
+RESUMO: O rabino abre o capítulo 50 da primeira parte do Guia dos Perplexos explicando que o Rambam usa "deá" (convicção, do árabe i'tikad) e não "emuná", como no livro de Rabenu Saadia Gaon. Segundo ele, o hebraico moderno herdou do cristianismo a ideia de fé como aceitar o que não se pode provar, e isso contraria a tradição judaica, como mostram a conversa entre o Rav Kook e o Ridvaz e o Kuzari. Ele sustenta que nada na Torá contradiz o intelecto, e examina casos aparentes: a vaca vermelha no Midrash e o "ainda que digam que a direita é esquerda" no Sifrei, na Mishná e no Yerushalmi em Horayot. Em seguida lê o Rambam: crer não é o que se diz com a boca, mas o conteúdo concebido na alma e verificado; a unicidade de HaShem exclui qualquer atributo essencial, e quem diz "um" mas pensa em muitos se equipara aos que falam em trindade. Ele relaciona isso ao Yesh e Ayin da Kabalá e do Zohar, à posição de Rav Kook sobre a lógica e a Kant, e à cultura cristã do "creio porque é absurdo". Por fim, o Rambam diz que a convicção exige prova de que o pensamento corresponde à realidade, e que desejos e hábitos turvam o intelecto (Yirmiyahu 12:2, Tehilim 4:5). O rabino termina aplicando isso à discussão sobre o Rebe de Lubavitch e a definição de Mashiach.
+MOMENTOS: 00:00 Início do capítulo 50 e o termo "deá" no lugar de "emuná" · 01:08 O hebraico moderno e a influência cristã sobre "emuná" · 03:35 Rav Kook e o Ridvaz: a fé da avó · 06:23 Kuzari: a Torá não contradiz o intelecto · 10:21 Vaca vermelha: há sempre um motivo, ainda que oculto · 11:08 "Direita que é esquerda": Sifrei, Horayot e a halachá · 14:18 Rambam: crer não é o que se diz com a boca · 15:38 Unicidade de HaShem e negação de atributos · 19:44 Yesh e Ayin na Kabalá e no Zohar · 21:11 Trindade e "creio porque é absurdo" · 28:29 Convicção exige prova e correspondência com a realidade · 33:13 Desejos e hábitos turvam o intelecto · 36:40 Crenças em disputa: Rebe de Lubavitch e a definição de Mashiach
+FONTES CITADAS: 00:26 Rav Kafach, nota sobre o Moré Nevuchim I:50 · 00:30 Rabenu Saadia Gaon, Sefer HaEmunot VeHaDeot · 00:50 Rambam, Moré Nevuchim I:50 · 03:35 Diálogo entre o Rav Kook e o Ridvaz · 05:19 Mishlei 22:6 · 06:23 Kuzari · 06:44 Rambam, Treze Princípios de Fé · 08:08 Kuzari I:89 (tradução de Ibn Tibbon) · 09:15 Rabi Shimshon de Kinon · 10:26 Bamidbar Rabá 19:6 (vaca vermelha) · 11:08 Devarim 17:11 · 11:30 Mishná Horayot 1:1 · 11:50 Yerushalmi Horayot 1:1 · 12:12 Sifrei Devarim 154 · 13:14 Vayikra 4:13 · 14:18 Rambam, Moré Nevuchim I:50 · 15:38 Rambam, Moré Nevuchim I:50 · 16:58 Rambam, Igueret HaShemad · 17:13 Kidushin 49b · 17:44 Rambam e Nefesh HaChaim (Rabi Chaim de Volozhin) sobre oração só em pensamento · 19:47 Cabalá: Keter chamado Ayin, Chochmá chamada Yesh · 20:04 Shemot 17:7 · 20:10 Zohar, Parashat Beshalach · 20:40 Rambam, Moré Nevuchim I:50 · 21:58 Tertuliano, Credo quia absurdum · 23:13 Novo Testamento, Evangelho de João · 24:00 Rav Kook, Orot · 25:01 Rav Kook, doutrina sobre o princípio da contradição e Kant · 26:32 Kuzari II:3 · 27:00 Rambam, Treze Princípios de Fé: vinda do Mashiach e profecia de Moshe · 27:30 Rambam, Moré Nevuchim I:50 · 29:26 Rambam, Moré Nevuchim I:50 · 31:14 Rabenu Saadia Gaon, Sefer HaEmunot VeHaDeot, 1º tratado, opiniões 12 e 13 · 31:51 Rambam, Moré Nevuchim I:50 · 33:13 Rambam, Moré Nevuchim I:50 · 33:57 Yirmiyahu 12:2 · 34:18 Tehilim 4:5 · 35:01 Chagigá 14b (Rabi Akiva: mármore puro) · 35:07 Rabi Nachman de Breslov sobre "água, água · 38:34 Tzemach Tzedek, Derech Mitzvotecha
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+468|28:35|כלומר, אתה לא יכול לדבר על דעה אם לא ביררת איך יודעים שהיא אמת.
+469|28:41|כי קביעת הדעה היא אימות מה שהושכל, שהוא גם מחוץ למחשבה כפי
+470|28:47|שהושכל במחשבה.
+471|28:49|כלומר, לפי הרמב״ם, ההוכחות לאיזושהי דעה, הן חלק אינטגרלי של
+472|28:55|הדעה עצמה.
+473|28:59|מה הוא אמר בהקדמה?
+474|29:04|כן, נכון, נכון.
+475|29:05|אבל מה שפה הוא מחדש, שזה גם הדרכים, הם חלק אינטגרלי של האמונה
+476|29:11|עצמה.
+477|29:12|כלומר, אתה מאמין במשהו, אתה גם מאמין באופן שבו זה הוכח.
+478|29:15|אז זה קורה ביחס להשכרה וגם ביחס לדעה הזאת.
+479|29:18|בוודאי.
+
+LINHAS A TRADUZIR:
+480|29:21|כי קביעת הדעה היא אימות מה שהושכל, שהוא גם מחוץ למחשבה, כפי שהושכל במחשבה.
+481|29:26|ואם מושג עם דעה זו, שלא ייתכן להפך הדעה הזו כלל...
+482|29:31|המשפט שהוא גם מחוץ למחשבה, כפי שהושכל במחשבה?
+483|29:35|כלומר, שהדבר הוא אמיתי במציאות החיצונית, גם מחוץ למוח שלך.
+484|29:41|מה עשיתם מחוץ למחשבה?
+485|29:44|מחוץ למחשבה, למשל, אני חושב שיש כאן שולחן.
+486|29:47|בסדר?
+487|29:49|נגיד, יש לי אפילו הוכחות.
+488|29:52|מה הכוונה של האמירה הזאת?
+489|29:53|האם הכוונה שהמוח שלי מבין שיש שולחן, או שזה באמת אומר שיש שולחן מבחוץ?
+490|29:59|האם יש מציאות אובייקטיבית מחוץ למחשבה שלי?
+491|30:02|אומר הרמב״ם, ברור האמת זה לברר שהדברים הם מחוץ למחשבה כפי שהם
+492|30:08|במחשבה שלי.
+493|30:14|זה שאלה, האם המגע מהווה ראייה או לא?
+494|30:17|יש אסכולות שאמרו שהחושים מטעים אותנו.
+495|30:24|על ידי השכל.
+496|30:25|על ידי השכל אתה יכול לברר מה מחוץ למחשבה שלך.
+497|30:30|למשל, האם התפוחים נופלים מן העץ רק בגלל שניוטון חשב את זה, או שהם באמת
+498|30:35|נופלים מן העץ?
+499|30:38|מה אתה אומר?
+500|30:40|אני חושב שהתפוחים נופלים מן העץ.
+501|30:42|אגב, לאן הם נופלים?
+502|30:45|לא רחוק מהעץ.
+503|30:46|התפוח נופל לא רחוק מהעץ.
+504|30:49|וזה קרה גם לפני ניוטון, יש לנו הוכחות היסטוריות שתפוחים היו נופלים מן העץ עוד לפני
+505|30:55|שניוטון נולד.
+506|30:57|אחת הראיות, הסיפור על וילהלם טל, הידוע, בהגדה השוויצרית.
+507|31:03|כן.
+508|31:08|אז זהו, על זה דיברנו כשלמדנו את הספר אמונות ודעות של רבנו צדיה
+509|31:14|גאון, הוא מתמודד עם הטענות האלה.
+510|31:18|יאיינה שמע במאמר הראשון.
+511|31:20|הדעה ה-12 וה-13.
+512|31:21|בסדר.
+513|31:26|אגב, יש הערה של רב סעידה גאון, שגם אלה שחושבים שהחושים מתאים, מתפקדים מתוך
+514|31:32|התחשבות בחושים.
+515|31:33|לא ייכנסו לאש וישתו מים.
+516|31:35|כן.
+517|31:40|אה?
+518|31:42|לפי ה...
+519|31:47|נכון.
+520|31:48|זה נכון.
+521|31:49|הלאה.
+522|31:51|ואם מושג עם דעה זו, שלא ייתכן הפך הדעה הזו כלל,
+523|31:57|ולא יימצא במחשבה מקום לדחיית דעה זו, ולא השארת אפשרות אופקה, יהיה
+524|32:03|זה נכון.
+525|32:06|כן, שזה ימינציה.
+526|32:07|כלומר, אם ברור לך שהדבר שאמרת הוא אמת, ושלא ייתכן לחשוב אחרת,
+527|32:13|זה סימן שזה אמת.
+528|32:15|לפי הכלל של הברווז.
+529|32:19|בגלל של הברווז זה שאם יש משהו שמשמיע קולות של ברווז, יש לו נוצות כמו של ברווז,
+530|32:25|והוא צף על פני המים כמו ברווז, יש להניח שזה ברווז.
+531|32:31|כן.
+532|32:31|בדרך כלל אני יכול להגיד להפוך משהו...
+533|32:34|זה גם לגבי בעלי חיים אחרים, כן, הברווז זה רק דוגמה.
+534|32:37|כן, מה אתה אומר?
+535|32:38|משהו מופתע כמו...
+536|32:41|אז זה צריך לברך, בשביל זה הוא כתב את הספר.
+537|32:46|את הספר.
+538|32:47|בסדר?
+539|32:48|ואז הוא מתווכח בסוף המאמר הראשון עם ההוכחות של המותקה למין.
+540|32:53|האם ההוכחות שהיוו המותקה למין לאחרות את השם הן הוכחות טובות או לא?
+541|32:58|הוא טוען שלא, הוא דוחה אותן, ואז בתחילת מאמר שני הוא מביא את ההוכחות
+542|33:04|שלו.
+543|33:06|לא, מהרמב״ם.
+544|33:09|כן, בסדר.
+545|33:13|באמורי דיווחים.
+546|33:16|וכאשר תתפשט מן התאוות וההרגלים, ואתה בעל תבונה,
+547|33:23|ותתבונן במה שאומר בפרקים אלו, אשר יבואו בשלילת התארים,
+548|33:29|כלומר, מה שאני הולך להסביר לך בפרקים הקרובים, יתעמת לך הדבר בהכרח,
+549|33:36|ואז תהיה ממי שמשכיל ייחוד השם.
+550|33:38|כלומר, אם אתה תבין מדוע מה שאני אומר הוא אמת מוחלטת ואי אפשר לחשוב אחרת,
+551|33:44|אז אפשר להגיד עליך שאתה מייחד שם שמיים, ולא ממי שאומרו בפיו ואינו מבינו
+552|33:50|עניין.
+553|33:52|ויהיה מכלל אשר נאמר בהם, כלומר, אותו אחד שלא מבין,
+554|33:57|מכלל אשר נאמר בהם קרוב אתה בפיהם ורחוק מכליותיהם.
+555|34:03|אלא, זה ביטוי בירמיהו, כן.
+556|34:08|אלא ראוי שיהיה האדם מכלל משכילי האמת ומשיגיו.
+557|34:13|ואף על פי שאינו אומרו בפיו, כלומר נגיד שאין לו מילים לומר את מה שהוא מאמין, כמו שהצטרו
+558|34:18|החסידים ונאמר להם, אמרו בלבבכם על משכפכם, ודומו
+559|34:24|סלע.
+560|34:24|כלומר, האמונה של אותם הצדיקים, אותם חסידים, היא אמונה שלא תמיד יש
+561|34:30|מילים כדי להביע אותה.
+562|34:32|לא בגלל זה היא לא נכונה.
+563|34:34|כן, בבקשה.
+564|34:39|אה, כי הוא אומר, ברגע שיש לאדם תאוות, או הרגלים, אז זה מטעה
+565|34:45|את כיוון המחשבה שלו.
+566|34:48|זה כמו שאדם רגיל להסתכל דרך עדשה מטושטשת.
+567|34:53|אז הוא לא רואה את הדברים נכון.
+568|34:55|כן, זה מה שכתוב על רבי עקיבא אמר לתלמידיו, כשתגיעו
+569|35:01|למקום אבני שיש טהור, אל תאמרו מים מים.
+570|35:07|מסביר רבי נחמן מברסלב.
+571|35:09|מה זה מים מים?
+572|35:10|זה הדמעות.
+573|35:12|כי הדמעות מטשטשות את הראייה.
+574|35:15|זה מה שאומר.
+575|35:16|אז כן, יש דמעות אינטלקטואליות.
+576|35:20|למשל, בפוליטיקה, אתה יכול להגיד הרבה שטויות, אבל בלהט אדיר,
+577|35:26|כי אתה מוטעה על ידי כל מיני סטיגמות.
+578|35:31|אני לא רוצה עכשיו להיכנס להגדרות מדויקות, כי בתקופה הזאת אסור לנו לעשות
+579|35:36|תעמולה.
+580|35:38|נכון?
+581|35:40|אבל אפשר להבין, לפעמים אתה שומע שיח שבנוי על שטויות.
+582|35:44|עכשיו, איך אדם מאמץ שטויות?
+583|35:46|כי יש לו או תאוות או הרגלים.
+584|35:50|כן, כן, ודאי.
+585|35:52|כן, אגב, גם כשאדם משקר, והוא יודע שהוא משקר, בסוף הוא מתחיל להאמין לשקרים
+586|35:56|שלו.
+587|36:00|נכון.
+588|36:02|טוב, עד כאן פרק נ'.
+589|36:06|מה עושים אחרי פרק נ'?
+590|36:08|יפה מאוד.
+591|36:09|אז אנחנו עוברים לפרק נ"א.
+592|36:10|אגב, אני רק רוצה לציין, שימו לב שכל מקום שיש מספר
+593|36:15|לפרק, זה מוקף בסוגריים מרובעות.
+594|36:20|למה?
+595|36:22|זה תוספת, זה תוספת, כן.
+596|36:23|הרמב״ם כתב רק את המילה פרק.
+597|36:26|מה אתה אומר?
+598|36:30|על האמונה.
+599|36:31|כן, בבקשה, אשמח לעזור.

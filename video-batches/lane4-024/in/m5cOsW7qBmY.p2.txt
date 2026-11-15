@@ -1,0 +1,47 @@
+videoId: m5cOsW7qBmY
+parte 3 de 3 · traduzir as linhas 240 a 262 (23 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zohar Vayikra: Din, Rachamim e a teshuvá completa
+RESUMO: O Zohar (Vayikra 15b) explica que, quando os pecados se multiplicam, Atika Kadisha se oculta, a luz do rosto deixa de brilhar e os Dinim despertam no mundo. O Zohar lê assim o verso de Daniel sobre os tronos lançados e o Ancião de Dias sentado, e o verso de Korach sobre os que se reúnem contra Adonai. Quando as pessoas se corrigem, os Dinim são adoçados, o Rachamim domina as forças da impureza, e isso é lido em "E Adonai se consolou quanto ao mal". Cada Sefirá volta ao seu lugar, o que é a teshuvá completa, a alegria que vem de Biná e o Yom HaKipurim, com as cinquenta portas abertas. Em seguida a aula volta ao versículo de abertura, "e será que, ao pecar e se culpar", e Rabi Yossi explica o "e restituirá", que parte do próprio homem. Aprende-se que o mundo é julgado em quatro períodos e que, desde a destruição do Templo, há ira constante, porque o Santo, Bendito Seja, jurou não entrar na Jerusalém superior antes de Israel entrar na inferior. Por fim, Rabi Yossi lê "a nudez de teu pai e de tua mãe não descobrirás" como a retirada de Biná, e Rabi Yitzchak mostra que o pecado atinge os filhos. A teshuvá e a correção de baixo cobrem de novo a nudez, como em "feliz aquele cuja transgressão é perdoada, cujo pecado é coberto".
+MOMENTOS: 00:03 Os pecados se multiplicam e Atika Kadisha se oculta · 01:05 Daniel: tronos lançados e o Ancião de Dias sentado · 02:08 Os donos do Din dominam o Rachamim; Korach · 04:03 Quando o mundo se corrige, os Dinim são adoçados · 04:50 "E Adonai se consolou quanto ao mal" · 06:03 Cada Sefirá volta ao seu lugar: teshuvá completa · 08:31 Alegria vem de Biná; Yom HaKipurim e as cinquenta portas · 09:53 Volta ao verso de abertura: "ao pecar e se culpar" · 11:30 Rabi Yossi e a precisão de "e restituirá" · 12:23 Quatro períodos do ano e o decreto · 14:58 Destruição do Templo e o juramento do Santo · 16:28 Rabi Yossi: a nudez de pai e mãe · 19:24 Rabi Yitzchak: efeito nos filhos e cobertura da nudez
+FONTES CITADAS: 00:03 Zohar, Vayikra 15b · 00:56 Bamidbar 6:25 · 01:05 Daniel 7:9 · 01:15 Zohar, Vayikra 15b (interpretação de Daniel) · 02:08 Zohar, Vayikra 15b (Braita) · 02:19 Bamidbar 16:11 · 04:03 Zohar, Vayikra 15b · 04:50 Shemot 32:14 · 06:03 Zohar, Vayikra 15b (Braita) · 07:50 Rav Kook, ideia da teshuvá e retorno à Terra de Israel · 08:31 Tehilim 113:9 · 09:21 Vayikra 16:30 · 09:21 Zohar, Vayikra 15b · 09:53 Vayikra 5:23 · 10:39 Bamidbar 5:6 · 10:45 Bamidbar 5:8 · 10:51 Vayikra 5:23 · 11:44 Zohar, Vayikra 15b (Rabi Yossi) · 12:23 Mishná, Rosh HaShaná 1:2 · 13:25 Zohar, Vayikra 15b (Braita) · 14:30 Bereshit 6:6 · 14:58 Zohar, Vayikra 15b (Rabi Yehuda) · 15:08 Taanit 5a · 16:28 Vayikra 18:7 · 16:46 Zohar, Vayikra 15b (Rabi Yossi) · 18:00 Mishlei 28:24 · 18:00 Berachot 35b · 18:18 Zohar, Vayikra 15b (Braita) · 19:24 Pirkei Avot 4:2 · 19:24 Zohar, Vayikra 15b (Rabi Yitzchak) · 19:42 Devarim 22:6 · 20:18 Zohar, Vayikra 15b · 20:41 Tehilim 32:1 · 21:06 Vayikra 16:30
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+228|18:30|כד יתקן יתקן לכבל ההוא דגלי, ודא יקרה תשובה.
+229|18:35|כאשר מתעורר יצר הרע באדם, הוא
+230|18:41|מתעורר דווקא בעניין הזה של האריות.
+231|18:46|הוא גורם לאותה ערווה להסתלק.
+232|18:52|פירוד הזה בין אבא ואימא, ועל זה כתוב לא תגלה.
+233|18:56|וכאשר מתקנים, אז מתקנים את מה שגילו, וזה נקרא
+234|19:03|תשובה.
+235|19:05|אז רבי יוסי מדבר פה על העניין הזה
+236|19:10|של הגילוי ערווה, שם את הדגש בעניין הזה, וגם
+237|19:17|בהשפעה שיש לזה על ערוות אביך וערוות אמך, בגילוי ערווה בעולמות
+238|19:22|העליונים.
+239|19:24|אמר רבי יצחק, כל חווה עלמא אחידן דה בדה, זה לא רק גילוי ערווה, אלא
+
+LINHAS A TRADUZIR:
+240|19:30|כל החטאים גורמים לעניין הזה, עבירה גוררת עבירה, עד
+241|19:35|דאמא איתגליה בגינאון, וכד היא איתגליה, כל אינון בנין איתגליאן,
+242|19:42|וכתיב לו תיקח חייהם על הבנים.
+243|19:44|אז רבי יצחק, מפרשים מסבירים שהוא...
+244|19:49|שם את הדגש יותר על ההשפעה של החטא, על התחתונים, על הבנים, על אבב
+245|19:55|קצוות של הזרנפין, על הלא תיקח חיים על הבנים, ההסתלקות של האימא,
+246|20:01|ואז זה פועל על הבנים שאימא לא מגינה עליהם.
+247|20:08|וכאן יתקן עלמא לתתא, יתקן כולה, כאשר מתחיל את הלכת של תשובה ותיקון
+248|20:14|מלמטה, אז גם למעלה נתקן.
+249|20:18|עד דסלקה תיקונה לאימא קדישה ומתקנה עד שעולה תיקון
+250|20:24|לאימא קדישה והיא מתקנת ואיתקסיה ממא דאיתגליאן
+251|20:29|והיא חוזרת להתכסות, הערווה חוזרת להתכסות מכיוון
+252|20:35|שהני משפיע את המוחין לגימל ראשונות של
+253|20:41|הזרנפין ובגין כך כתיב אשרי נשוי פשע
+254|20:47|כסוי חטאה כן, כסוי חטאה מכסים את החטא, את הערווה
+255|20:51|שהתגלתה, וכדין יום
+256|20:55|הכיפורים
+257|21:01|יום הכיפורים יום הכיפורים
+258|21:06|כמעט הכתיב מכל חטאותיכן לפני אדוני
+259|21:11|תיטרו.
+260|21:13|זה עניין של יום הכיפורים, של התשובה השלמה.
+261|21:16|כשהכול שב למקומו, ולפני השם תתארו.
+262|21:21|שלום.

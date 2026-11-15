@@ -1,0 +1,130 @@
+videoId: XOgJ7auYhT0
+parte 1 de 6 · traduzir as linhas 0 a 119 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Emuná ou deá: o que é crer, segundo o Rambam (Guia I:50)
+RESUMO: O rabino abre o capítulo 50 da primeira parte do Guia dos Perplexos explicando que o Rambam usa "deá" (convicção, do árabe i'tikad) e não "emuná", como no livro de Rabenu Saadia Gaon. Segundo ele, o hebraico moderno herdou do cristianismo a ideia de fé como aceitar o que não se pode provar, e isso contraria a tradição judaica, como mostram a conversa entre o Rav Kook e o Ridvaz e o Kuzari. Ele sustenta que nada na Torá contradiz o intelecto, e examina casos aparentes: a vaca vermelha no Midrash e o "ainda que digam que a direita é esquerda" no Sifrei, na Mishná e no Yerushalmi em Horayot. Em seguida lê o Rambam: crer não é o que se diz com a boca, mas o conteúdo concebido na alma e verificado; a unicidade de HaShem exclui qualquer atributo essencial, e quem diz "um" mas pensa em muitos se equipara aos que falam em trindade. Ele relaciona isso ao Yesh e Ayin da Kabalá e do Zohar, à posição de Rav Kook sobre a lógica e a Kant, e à cultura cristã do "creio porque é absurdo". Por fim, o Rambam diz que a convicção exige prova de que o pensamento corresponde à realidade, e que desejos e hábitos turvam o intelecto (Yirmiyahu 12:2, Tehilim 4:5). O rabino termina aplicando isso à discussão sobre o Rebe de Lubavitch e a definição de Mashiach.
+MOMENTOS: 00:00 Início do capítulo 50 e o termo "deá" no lugar de "emuná" · 01:08 O hebraico moderno e a influência cristã sobre "emuná" · 03:35 Rav Kook e o Ridvaz: a fé da avó · 06:23 Kuzari: a Torá não contradiz o intelecto · 10:21 Vaca vermelha: há sempre um motivo, ainda que oculto · 11:08 "Direita que é esquerda": Sifrei, Horayot e a halachá · 14:18 Rambam: crer não é o que se diz com a boca · 15:38 Unicidade de HaShem e negação de atributos · 19:44 Yesh e Ayin na Kabalá e no Zohar · 21:11 Trindade e "creio porque é absurdo" · 28:29 Convicção exige prova e correspondência com a realidade · 33:13 Desejos e hábitos turvam o intelecto · 36:40 Crenças em disputa: Rebe de Lubavitch e a definição de Mashiach
+FONTES CITADAS: 00:26 Rav Kafach, nota sobre o Moré Nevuchim I:50 · 00:30 Rabenu Saadia Gaon, Sefer HaEmunot VeHaDeot · 00:50 Rambam, Moré Nevuchim I:50 · 03:35 Diálogo entre o Rav Kook e o Ridvaz · 05:19 Mishlei 22:6 · 06:23 Kuzari · 06:44 Rambam, Treze Princípios de Fé · 08:08 Kuzari I:89 (tradução de Ibn Tibbon) · 09:15 Rabi Shimshon de Kinon · 10:26 Bamidbar Rabá 19:6 (vaca vermelha) · 11:08 Devarim 17:11 · 11:30 Mishná Horayot 1:1 · 11:50 Yerushalmi Horayot 1:1 · 12:12 Sifrei Devarim 154 · 13:14 Vayikra 4:13 · 14:18 Rambam, Moré Nevuchim I:50 · 15:38 Rambam, Moré Nevuchim I:50 · 16:58 Rambam, Igueret HaShemad · 17:13 Kidushin 49b · 17:44 Rambam e Nefesh HaChaim (Rabi Chaim de Volozhin) sobre oração só em pensamento · 19:47 Cabalá: Keter chamado Ayin, Chochmá chamada Yesh · 20:04 Shemot 17:7 · 20:10 Zohar, Parashat Beshalach · 20:40 Rambam, Moré Nevuchim I:50 · 21:58 Tertuliano, Credo quia absurdum · 23:13 Novo Testamento, Evangelho de João · 24:00 Rav Kook, Orot · 25:01 Rav Kook, doutrina sobre o princípio da contradição e Kant · 26:32 Kuzari II:3 · 27:00 Rambam, Treze Princípios de Fé: vinda do Mashiach e profecia de Moshe · 27:30 Rambam, Moré Nevuchim I:50 · 29:26 Rambam, Moré Nevuchim I:50 · 31:14 Rabenu Saadia Gaon, Sefer HaEmunot VeHaDeot, 1º tratado, opiniões 12 e 13 · 31:51 Rambam, Moré Nevuchim I:50 · 33:13 Rambam, Moré Nevuchim I:50 · 33:57 Yirmiyahu 12:2 · 34:18 Tehilim 4:5 · 35:01 Chagigá 14b (Rabi Akiva: mármore puro) · 35:07 Rabi Nachman de Breslov sobre "água, água · 38:34 Tzemach Tzedek, Derech Mitzvotecha
+
+LINHAS A TRADUZIR:
+0|00:00|פרק נ', חלק א' של מורה נבוכים, פרק נ'.
+1|00:06|דע, אתה המעיין במאמרי זה.
+2|00:10|מאמרי הכוונה ספר.
+3|00:13|כי הדעה, עכשיו, מה זה המילה דעה פה?
+4|00:17|זה תרגום של מילה ערבית.
+5|00:20|תראו, שימו לב, למטה כותב הרב קפח, העתקד.
+6|00:26|כן, יש ספר של רבנו סעדיה גאון, ספר האמונות
+7|00:30|והדעות.
+8|00:32|האמונות על אמנת והדעות ועל עטק הדעת.
+9|00:38|והשאלה היא, מה?
+10|00:43|האם הרמב״ם משתמש בביטוי אמונה?
+11|00:47|והתשובה היא שלא.
+12|00:50|הרמב״ם משתמש בביטוי דעה.
+13|00:53|זה לא במקרה.
+14|00:55|הוא מאמץ את, זה מתרגם את המילה הערבית אטאקד,
+15|01:01|וזה התוכן ששוכן בתוך הנפש
+16|01:07|של המאמינים.
+17|01:08|עכשיו, יש לנו איזושהי בעיה, העברית המודרנית
+18|01:15|הושפעה הרבה מהנצרות.
+19|01:19|כי העברית המודרנית מדוברת בפיהם של יהודים.
+20|01:25|שעברו תקופה ארוכה מאוד של
+21|01:32|דיור, אפשר לומר, של נוכחות בתוך העולם הנוצרי.
+22|01:37|ולכן כשאנחנו משתמשים בכל מיני מילים, איננו מבינים שההבנה הבסיסית שלנו את
+23|01:42|המילים האלה היא ההבנה הנוצרית, ולכן צריך לעשות שינוי.
+24|01:46|למשל, המושג אמונה משמעותו
+25|01:52|אצל ההמון לקבל דבר שאין לי עליו הוכחות.
+26|02:00|או עוד יותר טוב אם זה דבר אבסורדי.
+27|02:04|ואז מתפעלים מאוד ואומרים תראו איזה כוח של אמונה יש לאיש הזה.
+28|02:09|הוא מאמין בדברים שאי אפשר להוכיח או בדברים אבסורדים.
+29|02:14|לפי המסורת של היהדות כל זה שטויות.
+30|02:18|כן כלומר אין דבר כזה להאמין בדבר.
+31|02:22|שאינך יכול לברר את אמיתותו.
+32|02:26|וזה המשמעות של המילה דעה אצל הרמב״ם, אנחנו נראה את זה.
+33|02:31|למה הרב ציודק שמאמץ את המילה הזאת?
+34|02:35|הרב ציודק שמאמץ את המילה הזאת, הוא מאמץ אותה במובן היהודי שלה.
+35|02:39|אבל שהיא, שזה הנקבה של המילה אמת.
+36|02:45|כן, כמו, אני אסביר.
+37|02:46|כמו שהמילה בת בעברית, היא מילה נקבית המסתיימת
+38|02:52|בתו רבים של בת, בנות.
+39|02:57|פתאום הנון קופצת, נכון?
+40|03:00|כי במקור של השפה היה שם הנון, בערבית אומרים בינת.
+41|03:06|אז בת, בנות.
+42|03:08|אמת, אמונות.
+43|03:13|כן?
+44|03:13|כלומר, אמונה זה מלשון נאמנות.
+45|03:17|יש תוכן שאני חש שהוא אמיתי, על זה נאמר אמונה.
+46|03:24|עכשיו, למה אני חש שהוא אמיתי?
+47|03:26|זה כל אחד ואחד לפי מדרגתו.
+48|03:29|כן, פעם היה שיח בין הרב אברהם יצחק הכהן קוק, את זכותו
+49|03:35|הגנה עלינו אמן, עם הרדבז, רבי יעקב דוד
+50|03:41|בן זאב ולובסקי.
+51|03:44|שמעתם על הרדבז?
+52|03:46|ישב בצפת.
+53|03:47|ישב בצפת.
+54|03:48|היה בר פלוגתא של הרב קוק וכמה דברים.
+55|03:51|אבל הם היו גם מיודדים.
+56|03:54|ויום אחד הריטבז אומר לרב קוק, תשמע, הדיבורים שלך בענייני אמונה כל כך עמוקים,
+57|04:01|אני די לי באמונה של הסבתא שלי.
+58|04:06|ענה לו הרב קוק, אמנם הסבתא של כבודו הייתה אישה
+59|04:12|חשובה, ומקום שמור לה עם הצדיקים בגן עדן, אבל...
+60|04:18|אי אפשר להשתמש באמונה של הסבתא של כבודו כדי להנהיג את כלל ישראל.
+61|04:22|כלומר, אתה רוצה לקחת אחריות על עם ישראל, אתה צריך האמונה במובן היותר עמוק של
+62|04:28|המילה, וזה המשמעות של המילה דעה או התקד, שאנחנו נלמד עכשיו בפרק
+63|04:34|נ'.
+64|04:35|בסדר?
+65|04:37|אה?
+66|04:43|אתה אומר, לרוב האנשים הגישה המעמיקה לא רלוונטית.
+67|04:52|כן?
+68|04:53|אז שכנעת אותי שאני טועה.
+69|04:57|זה מה שאתה אומר.
+70|04:58|רוב האנשים חושבים אחרת.
+71|04:59|בסדר.
+72|05:00|אז שיחשבו, מה...
+73|05:02|ואז מישהו שאל אותי, תגיד, האם אתה חושב שרק אתה צודק וכל האחרים טועים?
+74|05:08|אני עניתי, זה מה שחושב כל אדם שיש לו דעה.
+75|05:12|אם יש לך דעה, אז אתה חושב שמי שחושב כמוך צודק ומי שלא, לא.
+76|05:16|פשוט.
+77|05:18|זה נכון.
+78|05:19|אבל גם כי יזקין לא יסור ממנה.
+79|05:21|מה זה יזקין?
+80|05:22|שכשהוא מזגין, אז הוא כבר מתחיל להבין את הדברים לעומק.
+81|05:26|אתה מתחיל מהאמונה הפשוטה, הטבעית, ואתה עולה למדרגה עליונה.
+82|05:30|כן.
+83|05:35|לא.
+84|05:47|אני חוזר על טענתך המעניינת.
+85|05:51|אתה אומר, גם ביהדות יש דברים שאי אפשר להוכיח, כי אנחנו נאמנים למסורות ולא
+86|05:57|הכל ברור, ולפעמים נתקלים או נתקעים בהלכה למשה מסיני.
+87|06:02|הבנתי את השאלה שלך נכון?
+88|06:05|תשובה, ומנין שהלכה למשה מסיני זה נכון?
+89|06:10|המסורת היא מאוששת או לא
+90|06:12|מאוששת?
+91|06:16|מי אמר?
+92|06:18|זה בדיוק מה שרבי יהודה הלוי אומר, לא כדיבר, יש פה ספר הכוזרי במקרה.
+93|06:23|כי אם אני הולך לפי ספר הכוזרי,
+94|06:29|כלומר לפי פשט התורה, הקדוש ברוך הוא יש לו גוף.
+95|06:32|איך אני יודע שיש לו גוף?
+96|06:33|כי הוא דיבר.
+97|06:35|איך אני יודע שהוא דיבר?
+98|06:37|כי דיבור זה פה, נכון?
+99|06:40|מכאן שהקדוש ברוך הוא יש לו פה, אם יש לו פה יש לו גוף.
+100|06:44|וזה סותר את אחד משלוש עשרה עיקרי האמונה שלאלוהים אין גוף ולא דמות הגוף, נכון?
+101|06:50|טוב, אני רואה שקשה לכם למצוא כוזרי, יש פה כוזרי עם תרגום מבן תיבון,
+102|06:59|זה גם משהו.
+103|07:05|אבל למה אתה מאמין במעמד הר סיני?
+104|07:07|האם יש לך הוכחה שמעמד הר סיני אכן...
+105|07:11|ואז זה מספיק לך או זה לא מספיק.
+106|07:13|אם זה מספיק לך, זאת אומרת שגם הדברים הלא מובנים, אתה מקבל אותם כי אתה יודע שהם
+107|07:19|אמת.
+108|07:21|כלומר, אם מישהו אומר לי דבר שאינני מבין, אבל אני יודע שהוא
+109|07:26|נאמן, אז אני מקבל את דבריו.
+110|07:29|זאת אומרת, זה מתחיל קודם כל מבירור נקודת אמת, ורק אחר כך
+111|07:34|אנחנו מדברים על...
+112|07:39|מדברים על דברים לא מובנים, אבל זה לא שמלכתחילה אדם נדרש להאמין בדברים לא
+113|07:44|מובנים.
+114|07:45|רגע, רגע.
+115|07:49|רגע, רגע, רגע, אני מחפש בספר הכוזרי, לאט לאט.
+116|07:54|נא לא להלחיץ אותי,
+117|07:55|בבקשה.
+118|08:02|אמר, חבר, אני קורא כאן במאמר ראשון, פסקה פט, בתרגום
+119|08:08|רבי יהודה אבן תיבון.
