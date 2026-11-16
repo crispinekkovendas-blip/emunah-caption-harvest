@@ -2,7 +2,7 @@
  "name": "lane13-901",
  "lane": 13,
  "created": "2026-11-16T00:23:07.830Z",
- "status": "pending",
+ "status": "done",
  "repair": "lines taken back by Claude in its own reply, translated again (scripts/batch-repair.mjs)",
  "repairLines": {
   "bg3rIgxnJFc": [
@@ -1151,5 +1151,19 @@
   "-C8EssPsPDQ.p12",
   "-C8EssPsPDQ.p13",
   "-C8EssPsPDQ.p14"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "bg3rIgxnJFc",
+  "Hm8fk4lF5Cg",
+  "F3R0W8i9GeY",
+  "GcFPfJDGYbQ",
+  "iRFlMPb7TOY",
+  "vNB90wpYJ-U",
+  "uGIBJxpGawI",
+  "4WUIGs9LKmk",
+  "oqtw-eVzDCs",
+  "-C8EssPsPDQ"
+ ],
+ "skipped": []
 }
