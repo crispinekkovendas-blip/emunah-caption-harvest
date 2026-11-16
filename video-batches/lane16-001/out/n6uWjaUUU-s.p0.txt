@@ -1,0 +1,120 @@
+0	Can you move forward? Is it hard for you, specifically in fixed places?	Vocês podem avançar? É difícil para vocês, justamente nos lugares fixos?
+1	I feel like I'm talking about benches.	Sinto que estou falando de bancos.
+2	Is it a problem, the fixed places, or is it hard? Can you move forward?	É um problema, os lugares fixos, ou é difícil? Vocês podem avançar?
+3	Come on, move forward	Vamos, avancem
+4	a little.	um pouco.
+5	Everyone move forward, make room for him, everyone is sitting far away.	Todos avancem, deem espaço para ele, todos estão sentados longe.
+6	Thank you very much, Rabbi Ruti, move forward,	Muito obrigado, Rabino Ruti, avancem,
+7	get into the discussion.	entrem na discussão.
+8	In the merit of the Torah classes, thanks to the honored supporters: Bar Avitan, Esther	Em mérito das aulas de Torá, agradecimentos aos honrados apoiadores: Bar Avitan, Esther
+9	Avitan and Moshe Karshish, Ohad Yisrael, Ronen Aharoni, Eli Kadosi,	Avitan e Moshe Karshish, Ohad Yisrael, Ronen Aharoni, Eli Kadosi,
+10	Nissim Nato'a, Luna and David Talbi, Yossi Hadari, a recovery for Yediya ben Aviel, a recovery for Yomi and Simcha, the war…	Nissim Nato'a, Luna e David Talbi, Yossi Hadari, cura para Yediya ben Aviel, cura para Yomi e Simcha, a guerra…
+11	…, a recovery for Anat, Anat, daughter of	…, cura para Anat, Anat, filha de
+12	Rachel, Tziviya, daughter of Shoshana, Sharon, Odaya, daughter of Drora, Zehava, daughter of Esther, Tzvi, son of Sa'id,	Rachel, Tziviya, filha de Shoshana, Sharon, Odaya, filha de Drora, Zehava, filha de Esther, Tzvi, filho de Sa'id,
+13	Rafi, son of Esther, Tao, daughter of Esther, Zemel, Tzvi, Naomi, daughter of Gamuva, Baruch HaShem, …	Rafi, filho de Esther, Tao, filha de Esther, Zemel, Tzvi, Naomi, filha de Gamuva, Baruch HaShem, …
+14	Good evening, holy and honored congregation.	Boa noite, santa e honrada congregação.
+15	We are tired.	Estamos cansados.
+16	So when we're tired, we need to rejoice a little more.	Então, quando estamos cansados, precisamos nos alegrar um pouco mais.
+17	And we also have a special mitzvah on Sukkot, so what is our joy?	E também temos uma mitsvá especial em Sucot, então o que é a nossa alegria?
+18	We don't need to be depressed.	Não precisamos estar deprimidos.
+19	Wow, you can't see me.	Uau, vocês não me veem.
+20	This one is here.	Este está aqui.
+21	Holiday.	Festa.
+22	It's low.	Está baixo.
+23	Come, sit with me.	Venha, sente-se comigo.
+24	Yes?	Sim?
+25	Are you sitting here?	Você vai sentar aqui?
+26	We need to rejoice today.	Hoje precisamos nos alegrar.
+27	So what are we actually doing here today?	Então, o que estamos realmente fazendo aqui hoje?
+28	At midnight, the Ben Ish Chai writes, we go up to the roof,	À meia-noite, escreve o Ben Ish Chai, subimos ao telhado,
+29	undress completely, and check to see whether we...	despimo-nos por completo e verificamos se nós...
+30	will live out the year, or heaven forbid the opposite.	viveremos o ano, ou, D'us nos livre, o contrário.
+31	The Ben Ish Chai says that in our times we should not do this.	O Ben Ish Chai diz que em nossos dias não se deve fazer isso.
+32	Because a person's fortune could, heaven forbid, turn bad,	Porque a sorte da pessoa pode, D'us nos livre, se agravar,
+33	and even if it was decreed upon a person, heaven forbid, a decree for life, he should ask for mercy	e mesmo que tenha sido decretado sobre a pessoa, D'us nos livre, que ele peça misericórdia sobre a sua vida
+34	from midnight until morning, he should ask for mercy from the Creator of the world.	da meia-noite até a manhã, que peça misericórdia ao Criador do mundo.
+35	The Creator of the world, isn't He merciful?	O Criador do mundo, não é Ele misericordioso?
+36	He will help him.	Ele o ajudará.
+37	And we rely on "HaShem guards the simple," "be wholehearted with HaShem your Elokim," and so they say that if a person was decreed	E nós confiamos em "HaShem guarda os simples", "sê íntegro com HaShem teu Elokim", e então dizem que se a pessoa foi decretada
+38	to death, the very fact that we went out into exile, to the sukkah, atones, and even the very fact	à morte, o simples fato de termos saído para o exílio, para a sucá, expia, e até o simples fato
+39	that a person doesn't sleep at night is an atonement for karet.	de a pessoa não dormir à noite é uma reparação do karet.
+40	And that's why we Sephardim stay awake at night.	E por isso nós, sefaraditas, ficamos acordados à noite.
+41	Ashkenazim will slowly repent.	Os asquenazitas aos poucos farão teshuvá.
+42	Some already have; among Ashkenazim today there are already many communities that have also started staying up all night.	Alguns já fizeram; entre os asquenazitas hoje já há muitas comunidades que também começaram a ficar acordadas a noite toda.
+43	But when I was a yeshiva student, we didn't stay up, the guys, I would go back to the yeshiva.	Mas quando eu era estudante de ieshivá, nós, os rapazes, não ficávamos acordados, eu voltava para a ieshivá.
+44	At the Torah talk, they were alert, I was tired.	Na palestra de Torá, eles estavam alertas, eu estava cansado.
+45	And now they've started staying awake too, Baruch HaShem.	E agora eles também começaram a ficar acordados, Baruch HaShem.
+46	With HaShem's help they're getting stronger, Ashkenazim too.	Com a ajuda de HaShem estão se fortalecendo, os asquenazitas também.
+47	Slowly they learned from the Sephardim.	Aos poucos aprenderam com os sefaraditas.
+48	So this is the remedy we do, though one doesn't really need it, to know that he truly ruled this way.	Então este é o remédio que fazemos, embora na verdade não seja necessário, para saber que ele de fato decidiu assim.
+49	If a person needs to rejoice, and he thinks all the time that the situation is like that, and it's not simple, at midnight	Se a pessoa precisa se alegrar, e pensa o tempo todo que a situação é assim, e não é simples, à meia-noite
+50	imagine a person, at midnight going up to the roof and seeing.	imaginem uma pessoa, à meia-noite subindo ao telhado e vendo.
+51	How can he rejoice?	Como ele pode se alegrar?
+52	There was an Admor in Jerusalem, may he live a long life,	Houve um Admor em Jerusalém, que ele tenha vida longa,
+53	this Admor, whose wife passed away two days before.	este Admor, cuja esposa faleceu dois dias antes.
+54	He was seen at the funeral; they call him the Admor of Porisov.	Ele foi visto no funeral; chamam-no o Admor de Porisov.
+55	And the day after the funeral he held a tisch.	E no dia seguinte ao funeral ele fez um tisch.
+56	He held a tisch, after she passed, and received everyone with joy and "L'chaim."	Ele fez um tisch, depois que ela faleceu, e recebeu todos com alegria e "Lechaim".
+57	He restrained himself, not to cry and not to grieve on the holiday.	Ele se conteve, para não chorar nem se afligir na festa.
+58	Rather, he held on firmly, and told his child that his father isn't broken, broken	Ao contrário, manteve-se firme, e disse ao seu filho que o pai dele não está quebrado, quebrado
+59	deeply, but now it's forbidden to cry, forbidden to grieve.	profundamente, mas agora é proibido chorar, proibido se afligir.
+60	But not everyone is an Admor.	Mas nem todos são um Admor.
+61	So how can we truly be happy?	Então como podemos realmente ser felizes?
+62	It's written in the holy Zohar that when the people of Israel enter into distress,	Está escrito no santo Zohar que, quando o povo de Israel entra em aflição,
+63	and the lulavim and etrogim come, they say to the Satan, "Look with your own eyes, Satan."	e vêm os lulavim e os etrogim, eles dizem ao Satan: "Veja com os seus próprios olhos, Satan."
+64	You said that we were not decreed for a good life, and here we are indeed in a good life.	Você disse que não fomos decretados para uma vida boa, e eis que estamos sim numa vida boa.
+65	That is, the very fact that a Jew merits	Ou seja, o simples fato de um judeu merecer
+66	to continue fulfilling mitzvot, the very fact that someone who is here in the synagogue merits to come	continuar cumprindo mitsvot, o simples fato de alguém que está aqui na sinagoga merecer vir
+67	to the class, to grow stronger and rejoice, means life was decreed for him, because if	à aula, fortalecer-se e alegrar-se, significa que vida foi decretada para ele, porque se
+68	life hadn't been decreed for him, he wouldn't be here.	vida não tivesse sido decretada para ele, ele não estaria aqui.
+69	That is, he's ill, it was easier for him, he had problems, he had this.	Ou seja, ele está doente, teria sido mais leve para ele, teve problemas, teve isso.
+70	So it's clear that you should rely on this.	Então é claro que você deve confiar nisso.
+71	Truly.	De verdade.
+72	How do we know that the Holy One, Blessed be He...	Como sabemos que o Santo, Bendito seja...
+73	What's the connection, that we come here and we are happy?	Que relação tem isso com virmos aqui e estarmos alegres?
+74	So let's reflect and see where this whole matter of Sukkot began.	Então vamos refletir e ver onde começou toda essa questão de Sucot.
+75	So let's reflect: for forty days the people of Israel pleaded with the Holy One, Blessed be He, when Moshe	Então vamos refletir: durante quarenta dias o povo de Israel suplicou ao Santo, Bendito seja, quando Moshe
+76	Rabbeinu went up to receive the second Tablets.	Rabênu subiu para receber as segundas Tábuas.
+77	On Yom Kippur the Creator said to Moshe Rabbeinu, "I have forgiven as you asked," and Moshe Rabbeinu came down with the two	No Yom Kipur o Criador disse a Moshe Rabênu: "Perdoei conforme a tua palavra", e Moshe Rabênu desceu com as duas
+78	second Tablets of the Covenant.	segundas Tábuas da Aliança.
+79	During the forty days it's written that all of Israel fasted, every day they fasted, after all…	Durante os quarenta dias está escrito que todo Israel jejuou, todos os dias jejuaram, afinal…
+80	On the last day, the Midrash writes, they fasted night and day.	No último dia, escreve o Midrash, jejuaram noite e dia.
+81	After they fasted night and day, corresponding to our fast on Yom Kippur, that is: "I have forgiven as you asked."	Depois de jejuarem noite e dia, correspondendo ao nosso jejum no Yom Kipur, isto é: "Perdoei conforme a tua palavra."
+82	Take a fellow human being: when you told him that you hurt him,	Pensem numa pessoa: quando você disse a ela que a magoou,
+83	and you asked him for forgiveness, did he forgive you or not?	e pediu a ela perdão, ela perdoou você ou não?
+84	Huh?	Hã?
+85	I can't hear.	Não ouço.
+86	Did he forgive or not?	Perdoou ou não?
+87	Mostly not.	Na maioria das vezes não.
+88	Mostly not.	Na maioria das vezes não.
+89	Most people don't forgive you: "Get lost, and goodbye."	A maioria das pessoas não perdoa: "Vá embora, e adeus."
+90	Right?	Certo?
+91	Who says the Creator of the world forgave us?	Quem disse que o Criador do mundo nos perdoou?
+92	It's impossible to know.	É impossível saber.
+93	I'll tell you a story.	Vou contar-lhes uma história.
+94	There was one of the great men of the world.	Havia um dos grandes homens do mundo.
+95	Rabbi Yaakov Bacher.	Rabi Yaakov Bacher.
+96	Rabbi Yaakov Bacher was a rabbi in Turkey, in Turkey	Rabi Yaakov Bacher foi rabino na Turquia, na Turquia
+97	he was a rabbi, not in …, in Turkey he was a rabbi, he was the great one of	ele foi rabino, não em…, na Turquia foi rabino, era o grande
+98	the generation, there was none like him in the generation. How do we know this?	da geração, não havia ninguém como ele na geração. Como sabemos isso?
+99	The Noda BiYehuda was the biggest giant, the Noda BiYehuda.	O Noda BiYehuda era o maior gigante, o Noda BiYehuda.
+100	The Noda BiYehuda writes about the two people he was afraid to speak with in learning.	O Noda BiYehuda escreve sobre as duas pessoas com quem tinha medo de conversar em estudo.
+101	Rabbi Yosef Cohen, his son-in-law, says of him, "no secret is hidden from him," the whole Torah in its entirety, he knows it.	Rabi Yosef Cohen, seu genro, diz dele: "nenhum segredo lhe é oculto", a Torá inteira, ele a conhece.
+102	And about this man too, Rabbi Yaakov Bacher, he says, says Rabbi Yaakov, when I meet him,	E sobre este homem também, Rabi Yaakov Bacher, ele diz, diz Rabi Yaakov, quando o encontro,
+103	my knees knock one against the other.	meus joelhos batem um no outro.
+104	My legs, out of fear, I tremble to stand, they knock one against the other.	Minhas pernas, de medo, eu tremo ao ficar de pé, elas batem uma na outra.
+105	That is, this was Rabbi Yaakov Bacher.	Ou seja, este era Rabi Yaakov Bacher.
+106	Rabbi Yaakov Bacher, with all his greatness in Torah, was a person, flesh and blood.	Rabi Yaakov Bacher, com toda a sua grandeza na Torá, era um ser humano, de carne e osso.
+107	It's told about him that once he had a blunder. What was the blunder? The one with the carriage.	Conta-se sobre ele que uma vez cometeu um deslize. Qual foi o deslize? O da carruagem.
+108	He went out to the wedding of his son, one of his children, he married him off,	Ele saiu para o casamento do seu filho, um dos seus filhos, casou-o,
+109	where do they hold the wedding?	onde se faz o casamento?
+110	Always near where the bride lives, right?	Sempre perto de onde a noiva mora, certo?
+111	With him too, the couple would go live near the bride's parents, to watch over	Com ele também, o casal ia morar perto dos pais da noiva, para cuidar
+112	her, so she wouldn't do nonsense, to keep an eye on her, at least the first year, so the wedding is where	dela, para que não fizesse bobagens, vigiá-la, pelo menos o primeiro ano, então o casamento é onde
+113	the bride is. It's not like today, when we have cars and vehicles, and we can	a noiva está. Não é como hoje, que temos carros e veículos, e podemos
+114	arrive quickly. So he had to take a carriage with horses, and this sage, Rabbi Yaakov,	chegar rápido. Então ele precisou pegar uma carruagem com cavalos, e este sábio, Rabi Yaakov,
+115	chose, hired a carriage and horses, and in this carriage and horses he transports his family, the groom, the children.	escolheu, alugou uma carruagem e cavalos, e nessa carruagem com os cavalos transporta sua família, o noivo, os filhos.
+116	Of course, two days before that he had already warned.	Claro que dois dias antes disso ele já tinha avisado.
+117	He has	Ele tem
+118	questions I was asked, what's with you?	perguntas que me fizeram, o que você tem?
+119	Are you hearing the story?	Você está ouvindo a história?

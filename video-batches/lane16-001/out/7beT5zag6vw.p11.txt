@@ -1,120 +1,120 @@
-1320	found at...	estou em...
-1321	I reach the south side of the...	chego ao lado sul do...
-1322	But I am also on the outer side of the altar	Mas também estou no lado externo do altar
-1323	at the beginning.	no começo.
-1324	So even before I start going around, which corner have I reached?	Então, antes mesmo de começar a rodear, a que canto cheguei?
-1325	I go up on the south, I reach the southeast.	Subo pelo sul, chego ao sudeste.
+1320	am at...	estou em...
+1321	I arrive at the south side of the...	chego ao lado sul do...
+1322	But I am also on the outer side of the altar	Mas também estou no lado de fora do altar
+1323	at the beginning.	no início.
+1324	So even before I start going around, which corner have I reached?	Então, antes mesmo de começar a circundar, a que canto cheguei?
+1325	I go up in the south, I arrive at the southeast.	Subo pelo sul, chego ao sudeste.
 1326	Again, I come...	De novo, eu venho...
-1327	The outer side here is the east.	O lado externo aqui é o leste.
+1327	The outer side here is the east.	O lado de fora aqui é o leste.
 1328	And I go up beside the south,	E subo junto ao sul,
 1329	so first of all I reach the corner that is	então primeiro chego ao canto que é
 1330	called the southeast.	chamado sudeste.
-1331	Afterwards I begin to go around.	Depois começo a rodear.
+1331	After that I begin to go around.	Depois começo a circundar.
 1332	From there, from the southeast corner, what	Dali, do canto sudeste, o que
-1333	is written here is "a southeastern corner," so where do I arrive?	está escrito aqui é "canto sudeste", então aonde chego?
+1333	is written here, the southeastern corner, so where do I arrive?	está escrito aqui, o canto sudeste, então aonde chego?
 1334	I am still on the far side, which is	Ainda estou no lado distante, que é
-1335	called the east.	chamado leste.
-1336	Now, from the south, I go toward the north.	Agora, do sul, vou em direção ao norte.
-1337	So I reach the northeast.	Então chego ao nordeste.
-1338	Afterwards I begin, I make the turn.	Depois começo, faço a volta.
-1339	The turn is already toward the inner part of the Temple.	A volta já é em direção ao interior do Santuário.
-1340	So I reach the northwest.	Então chego ao noroeste.
-1341	And in the end I reach, as if escalating the turn, I	E no fim chego, como se levasse a volta adiante,
-1342	reach the southwest, and if I continue further, I	ao sudoeste, e se eu continuar mais,
+1335	called the east.	chamado de leste.
+1336	Now, from the south I go toward the north.	Agora, do sul vou em direção ao norte.
+1337	So I arrive at the northeast.	Então chego ao nordeste.
+1338	Afterward I begin, I make a turn.	Depois começo, faço uma curva.
+1339	The turn is already toward the inner part of the Temple.	A curva já é em direção ao interior do Templo.
+1340	So I arrive at the northwest.	Então chego ao noroeste.
+1341	And in the end I arrive, as if I am completing the circuit, I	E por fim chego, como se completasse o circuito, eu
+1342	arrive at the southwest, and if I continue further, I	chego ao sudoeste, e se eu continuar mais, eu
 1343	return to the starting point, which is	volto ao ponto de partida, que é
 1344	the southeast, which he does not write here.	o sudeste, que ele não escreve aqui.
-1345	So surely there is here a very deep message in the service of HaShem, that this is how one must serve	Então certamente há aqui uma mensagem muito profunda no serviço de HaShem: é assim que se deve servir
+1345	So there is certainly some very deep message here about serving HaShem, that this is how one must serve	Então certamente há aqui uma mensagem muito profunda sobre o serviço a HaShem, que é assim que se deve servir
 1346	HaShem.	a HaShem.
 1347	First one goes up the ramp.	Primeiro sobe-se pela rampa.
-1348	So that the beginning of the service of HaShem, here it is speaking	Pois o começo do serviço de HaShem, aqui se fala
-1349	of the kohanim, relates to the olah.	dos cohanim, tem a ver com a olá.
-1350	So the first thing is to know how to go up the ramp.	Então a primeira coisa é saber como subir a rampa.
-1351	Now, the next words, "he turned and went around," he does not	Agora, as palavras seguintes, "virou e rodeou", ele não
+1348	So that the beginning of the service of HaShem, here it speaks	Assim, o início do serviço a HaShem, aqui se fala
+1349	of the cohanim, belongs to Aharon.	dos cohanim, pertence a Aharon.
+1350	So first one must know how to go up the ramp.	Então primeiro é preciso saber como subir a rampa.
+1351	Now, the next words, which are "he turned to the circuit," he does not	Agora, as palavras seguintes, "virou para o circuito", ele não
 1352	write this.	escreve isso.
-1353	It is clear from what follows, and we will explain what is always written in Chassidut, that the words "he turned	Isso fica claro pelo que segue, e vamos explicar o que sempre está escrito na Chassidut: as palavras "virou
-1354	to go around" mean that while he is still going up the ramp, it is in terms of	para rodear" significam que, enquanto ainda sobe a rampa, é no plano da
-1355	the revelation of the light that fills all worlds, but the moment he turns to go around,	revelação da luz que preenche todos os mundos, mas no momento em que ele vira para rodear,
-1356	he turns to the light that encompasses all worlds.	vira para a luz que envolve todos os mundos.
-1357	And then he begins to go around.	E então começa a rodear.
-1358	As if that were the way.	Como se esse fosse o caminho.
-1359	And in the going around...	E no rodear...
-1360	There is something in the work of going around: first of all one reaches	Há algo no trabalho de rodear: primeiro chega-se
+1353	It is clear from what follows, and we will explain what is always written in Chassidut, that the words "turned	Fica claro pelo que segue, e vamos explicar o que sempre está escrito na Chassidut, que as palavras "virou
+1354	to the sovev": he goes up the ramp still in terms of	para o sovev": ele sobe pela rampa ainda do ponto de vista da
+1355	the revelation of the light that fills all worlds, but the moment he turns to the sovev,	revelação da luz que preenche todos os mundos, mas no momento em que ele vira para o sovev,
+1356	he turns to the one that encompasses all worlds.	ele se volta para aquele que envolve todos os mundos.
+1357	And then he begins to go around.	E então começa a circundar.
+1358	As if this is the way.	Como se esse fosse o caminho.
+1359	And in the circuit...	E no circuito...
+1360	this is something in the work of the circuit: first of all one reaches	isto é algo no trabalho do circuito: primeiro chega-se
 1361	the southeast corner, and one does not make	ao canto sudeste, e não se faz
-1362	the turn like this.	a volta assim.
-1363	From the southeast it is the northeast, the northwest	Do sudeste vai-se ao nordeste, ao noroeste
-1364	and the southwest, and one returns to the starting point,	e ao sudoeste, e volta-se ao ponto de partida,
+1362	the circuit like this.	o circuito assim.
+1363	From the southeast it is the northeast, the northwest,	Do sudeste vai-se ao nordeste, noroeste
+1364	and the southwest, and one returns to the starting point,	e sudoeste, e volta-se ao ponto de partida,
 1365	which is...	que é...
-1366	which is the southeast.	que é o sudeste.
-1367	Okay, now, we have to hold on to this, because not everything is written here,	Certo, agora temos de nos apegar a isso, porque nem tudo está escrito aqui,
+1366	the southeast.	o sudeste.
+1367	Fine, now, one must hold on to this, because not everything is written here,	Bem, agora, é preciso guardar isso, porque nem tudo está escrito aqui,
 1368	otherwise we will not understand what he writes.	senão não entenderemos o que ele escreve.
-1369	And one can say, what they said in the Mishnah: he went up the ramp, he came to the corner, he skips over the words, he	E pode-se dizer, o que disseram na Mishná: subiu a rampa, chegou ao canto, ele pula as palavras,
-1370	turned to go around, and then it says he went up the ramp, he came to the	virou para rodear, e então diz que subiu a rampa, chegou ao canto
+1369	And one can say, as the Mishnah says: he went up the ramp, he came, he skips over the words, he	E pode-se dizer, como diz a Mishná: subiu pela rampa, chegou, ele pula as palavras, ele
+1370	turned to the sovev, and then he writes that he went up the ramp, he came to the	virou para o sovev, e então escreve que subiu pela rampa, chegou ao canto
 1371	southeast corner.	sudeste.
-1372	Meaning, "he went up the ramp": kevesh is like kvish, a road.	Quer dizer, "subiu a rampa": kevesh é como kvish, uma estrada.
-1373	The tzaddik, through his good deeds, makes ascents of the worlds.	O tsadik, com suas boas ações, faz subidas dos mundos.
-1374	Worlds is what is called the order of hishtalshelut.	Mundos é o que se chama de ordem da hishtalshelut.
-1375	So he rises from world to world, since the whole order of hishtalshelut is still	Então ele sobe de mundo em mundo, pois toda a ordem da hishtalshelut ainda está
-1376	in the category of filling all worlds.	na categoria de preencher todos os mundos.
-1377	And what is kevesh?	E o que é kevesh?
-1378	Kevesh is making a trodden and paved road to go up.	Kevesh é fazer um caminho batido e pavimentado para subir.
-1379	First of all one must go up; if I am now in Asiyah, this is a Torah of the Baal Shem	Primeiro é preciso subir; se agora estou em Assiá, esta é uma Torá do Baal Shem
-1380	Tov: one must reach Yetzirah.	Tov: é preciso chegar a Yetzirá.
+1372	The meaning: he went up the ramp. A "kevesh" is like a "kvish," a road.	O sentido: subiu pela rampa. "Kévesh" é como "kvish", estrada.
+1373	The tzaddik, with his good deeds, makes ascents of the worlds.	O tsadik, com suas boas ações, faz subir os mundos.
+1374	"Worlds" is called the order of the chain of descent.	"Mundos" é chamado a ordem do encadeamento.
+1375	So he goes up from world to world, for the whole order of the chain of descent is still	Então ele sobe de mundo em mundo, pois toda a ordem do encadeamento ainda é
+1376	in the category of that which fills all worlds.	da categoria daquilo que preenche todos os mundos.
+1377	And what is a "kevesh"?	E o que é "kévesh"?
+1378	A "kevesh" is making a paved and well-trodden road to go up.	"Kévesh" é fazer um caminho pavimentado e batido para subir.
+1379	First of all one must go up: if I am now in Asiyah, this is a Torah of the Baal Shem	Primeiro é preciso subir: se agora estou em Assiá, esta é uma Torá do Baal Shem
+1380	Tov, one must reach Yetzirah.	Tov, é preciso chegar a Yetsirá.
 1381	When does this happen at all?	Quando isso acontece, afinal?
-1382	It happens in our prayers, where there is the prayer of Asiyah and the prayer of Yetzirah,	Acontece em nossas orações, onde há a oração de Assiá e a oração de Yetzirá,
-1383	the prayer of Beriah, the prayer of Atzilut, which is the Shemoneh Esrei.	a oração de Beriá, a oração de Atsilut, que é a Amidá.
-1384	The first thing is to go up, which is called "he went up	A primeira coisa é subir, o que se chama "subiu
-1385	the ramp."	a rampa".
-1386	This ascent must be by a trodden or paved road.	Essa subida precisa ser por um caminho batido ou pavimentado.
-1387	Going up.	Subir.
-1388	So first, his ascent must... he must arrive, which is the beginning of	Então primeiro, sua subida deve... ele precisa chegar, que é o começo
-1389	the turn of going around, that he must reach the corner,	da volta do rodear, ele precisa chegar ao canto,
-1390	the southeast corner.	ao canto sudeste.
-1391	What is, first of all, what is the word keren?	O que é, primeiro de tudo, o que é a palavra keren?
-1392	Some time ago we spoke a lot about the keren of Mashiach, this is	Há algum tempo falamos muito sobre a keren de Mashiach, esta é
-1393	the keren.	a keren.
-1394	But there it says that keren means a corner.	Mas ali se diz que keren é um canto.
-1395	A corner is a point of ayin that connects one yesh to another yesh.	Um canto é um ponto de ayin que liga um yesh a outro yesh.
-1396	Therefore through the corner one makes a turn toward another direction, where one changes	Por isso, através do canto faz-se uma volta para outra direção, onde se muda
-1397	direction in life entirely.	de direção na vida por completo.
-1398	So the keren itself, which is the ayin that connects the yesh to a new yesh	Então a própria keren, que é o ayin que liga o yesh a um yesh novo
-1399	of essence, is the idea of essence.	de essência, é a ideia da essência.
-1400	The keren is also the secret of the woman.	A keren também é o segredo da mulher.
-1401	One reaches the keren, which is the attribute of Malchut, for "with this shall he come into the holy place," this is Malchut.	Chega-se à keren, que é a midá de Malchut, pois "com isto entrará no Santo", isto é Malchut.
-1402	To reach the holy place, the holy here is the encompassing light, the...	Para chegar ao Santo, o santo aqui é a luz que envolve, o...
-1403	So first one must reach the keren, and which	Então primeiro é preciso chegar à keren, e qual
-1404	keren?	keren?
-1405	Holy, inward, higher and higher, up to supernal levels, and he said first	Santo, para dentro, cada vez mais alto, até graus superiores, e disse que primeiro
-1406	of all it must be southern.	de tudo precisa ser do sul.
-1407	What is southern?	O que é do sul?
-1408	He says that darom, south, means "dwelling at the summit of the world."	Ele diz que darom, sul, é "habitar no ápice do mundo".
-1409	It is an expression of dwelling.	É uma expressão de morada.
-1410	That is, south is an expression of a dwelling.	Ou seja, sul é expressão de morada.
-1411	A dwelling is a settlement, a settled place and not a desert, not a desolate place, "He did not create it a waste,"	Morada é um povoado, um lugar habitado e não um deserto, não um lugar desolado, "não a criou em vão",
-1412	"He formed it to be inhabited."	"para ser habitada a formou".
-1413	So when I go up and turn to go around, the first thing is to reach	Então, quando subo e viro para rodear, a primeira coisa é chegar
-1414	tikun, the world of Tikun, which is called the south.	ao tikun, ao mundo do Tikun, que se chama o sul.
-1415	The place of the dwelling.	O lugar da morada.
+1382	It happens in our prayers, for there is the prayer of Asiyah and the prayer of Yetzirah,	Acontece em nossas orações, pois há a oração de Assiá e a oração de Yetsirá,
+1383	the prayer of Beriah, the prayer of Atzilut, which is the Shemoneh Esrei.	a oração de Briá, a oração de Atsilut, que é a Amidá.
+1384	First one must go up, which is called "he went up	Primeiro é preciso subir, o que se chama "subiu
+1385	the ramp."	pela rampa".
+1386	This ascent must be on a paved, well-trodden road.	Essa subida deve ser por um caminho batido e pavimentado.
+1387	Going up on high.	Subir às alturas.
+1388	So first, his ascent must pass, he must arrive, which is the beginning of	Então, primeiro, sua subida deve passar, ele deve chegar, que é o início de
+1389	"he turned to the sovev," he must reach the corner,	"virou para o sovev", ele deve chegar ao canto,
+1390	the southeast corner.	o canto sudeste.
+1391	What is, first of all, what is the word "keren"?	O que é, antes de tudo, o que é a palavra "keren"?
+1392	Last year we spoke a great deal about the horn of Mashiach, this is	No ano passado falamos muito sobre o chifre do Mashiach, este é
+1393	the keren.	o keren.
+1394	But there it says that keren means a corner angle.	Mas ali diz que keren é um canto em ângulo.
+1395	A corner angle is a point of ayin that connects one yesh to another yesh.	Um canto em ângulo é um ponto de ayin que liga um yesh a outro yesh.
+1396	Therefore, through the corner one turns in another direction, in which one changes	Por isso, pelo canto faz-se uma curva em outra direção, em que se muda
+1397	direction in life completely.	completamente de direção na vida.
+1398	So the corner itself, which is the ayin that connects the yesh to a new yesh,	Assim o próprio canto, que é o ayin que liga o yesh a um novo yesh,
+1399	is the essence's turning point.	é o ponto de virada da essência.
+1400	The keren is also the secret of the woman.	O keren também é o segredo da mulher.
+1401	One arrives at the corner, which is the attribute of Malchut, for "with this shall he come into the holy place," this is Malchut.	Chega-se ao canto, que é o atributo de Malchut, pois "com isto entrará no santuário", isto é Malchut.
+1402	In order to reach the holy, the holy here is the sovev, that encompasses all worlds.	Para chegar ao santo, o santo aqui é o sovev, que envolve todos os mundos.
+1403	So first one must reach the corner, and which	Então primeiro é preciso chegar ao canto, e qual
+1404	corner?	canto?
+1405	Holy, inward, higher and higher, up to supernal levels, and he said that first of all it must be	Santo, para dentro, cada vez mais alto, até os degraus superiores, e disse que primeiro de tudo deve ser
+1406	southern.	sul.
+1407	What is "dromit," southern?	O que é "dromit", sul?
+1408	It says that darom, south, means "dar be-romo shel olam," dwelling on the heights of the world.	Diz que darom, sul, é "dar berômo shel olam", morar nas alturas do mundo.
+1409	This is a term of dwelling.	É uma expressão de moradia.
+1410	That is, darom, south, is a term for a dwelling.	Ou seja, darom, sul, é uma expressão para moradia.
+1411	A dwelling is a settled place, inhabited and not a desert, not a desolate place, not a waste,	Moradia é lugar habitado, e não deserto, não um lugar desolado, não um vazio,
+1412	"to be inhabited He formed it."	"para ser habitada a formou".
+1413	So when I go up and turn to the sovev, the first thing is to reach	Então, quando subo e viro para o sovev, a primeira coisa é chegar
+1414	rectification, the world of rectification, which is called the south.	à retificação, ao mundo da retificação, que é chamado o sul.
+1415	The place of dwelling.	O lugar da moradia.
 1416	When does this happen in life?	Quando isso acontece na vida?
-1417	When one marries, one reaches	Quando a pessoa se casa, chega
-1418	a dwelling.	a uma morada.
-1419	So before reaching a dwelling, there is no "turning to go around" at all.	Então, antes de chegar a uma morada, não existe de modo algum "virar para rodear".
-1420	This is the first thing, one must reach the south.	Esta é a primeira coisa: é preciso chegar ao sul.
+1417	When people marry, they arrive	Quando as pessoas se casam, chegam
+1418	at a home.	a uma casa.
+1419	So before one arrives at a home, there is no "turning to the sovev" at all.	Então, antes de chegar a uma casa, não existe "virar para o sovev".
+1420	This is the first thing, one must reach the south.	Esta é a primeira coisa, é preciso chegar ao sul.
 1421	But what?	Mas o quê?
-1422	And behold, while he is still at this level, he is eastern, shining.	E eis que, enquanto ainda está nesse degrau, ele é oriental, brilhando.
+1422	And behold, while he is still at this level, he is eastern.	E eis que, enquanto ainda está nesse degrau, ele é oriental.
 1423	…	…
 1424	What is the problem?	Qual é o problema?
 1425	What is not good about being eastern?	O que há de ruim em ser oriental?
 1426	So he says that it is indeed a problem at the beginning.	Então ele diz que de fato é um problema no começo.
-1427	What will be fine in the end?	O que ficará bem no fim?
-1428	What is not fine at the beginning?	O que não está bem no começo?
-1429	Because he thinks he is already shining.	Porque ele pensa que já está brilhando.
-1430	He imagines to himself that he is already fine.	Ele imagina para si que já está bem.
-1431	That is, that he has already married.	Quer dizer, que já se casou.
-1432	Now he is settled, everything is fine.	Agora está estabelecido, está tudo bem.
-1433	But he thinks everything is fine, he is even beaming with himself.	Mas ele pensa que está tudo bem, está até radiante consigo mesmo.
-1434	This means that all this shining is one big imagination.	Isso quer dizer que todo esse brilho é uma grande imaginação.
-1435	That soon he will realize it.	Da qual logo ele se dará conta.
-1436	But in any case, he needs all of this, which is for HaShem.	Mas, de qualquer modo, ele precisa de tudo isso, que é para HaShem.
+1427	What will be all right in the end?	O que ficará bem no final?
+1428	What is not all right at the beginning?	O que não está bem no começo?
+1429	Because he thinks that he is already shining.	Porque ele pensa que já está brilhando.
+1430	He imagines to himself that he is already fine.	Ele imagina que já está bem.
+1431	That is, that he has already married.	Ou seja, que ele já se casou.
+1432	Now he is settled, everything is fine.	Agora ele está estabelecido, está tudo bem.
+1433	But he thinks everything is fine, he even shines all by himself.	Mas ele pensa que está tudo bem, ele até brilha por si mesmo.
+1434	This means that this whole shining is one big illusion.	Isso significa que todo esse brilho é uma grande ilusão.
+1435	Which he will soon realize.	Que ele logo vai perceber.
+1436	But in any case, he must have all this, which is for the sake of HaShem.	Mas de qualquer modo, ele precisa de tudo isso, que é para HaShem.
 1437	One must reach this first state.	É preciso chegar a esse primeiro estado.
 1438	And behold, while he is still at this level, he is eastern.	E eis que, enquanto ainda está nesse degrau, ele é oriental.
 1439	What does "eastern" mean?	O que significa "oriental"?
