@@ -2,7 +2,7 @@
  "name": "lane19-001",
  "lane": 19,
  "created": "2026-11-15T23:08:50.042Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "fh5Q_a9futQ",
@@ -215,5 +215,25 @@
   "zNWb_V0_FOc.p1",
   "zNWb_V0_FOc.p2",
   "kVl3_z7z3f4.p0"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "fh5Q_a9futQ",
+  "QC0-XHLEAsk",
+  "eI8Xpk2fT1I",
+  "ztpPaAmYeCU",
+  "xv9BeSI67ko",
+  "cwFLoX77mI0",
+  "sNtquQI5yQM",
+  "78SUAghFlCs",
+  "Phbppo2AGag",
+  "hg5Y73A8T6M",
+  "0Me2IZSSCZw",
+  "owUTpeQKtxc",
+  "e8Vva10ptiM",
+  "jQO83fDtdSg",
+  "zNWb_V0_FOc",
+  "kVl3_z7z3f4"
+ ],
+ "skipped": []
 }
