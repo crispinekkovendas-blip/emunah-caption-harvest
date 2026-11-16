@@ -2,7 +2,7 @@
  "name": "lane9-012",
  "lane": 9,
  "created": "2026-11-15T23:08:20.528Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "XTrfldBUPmo",
@@ -130,5 +130,19 @@
   "SOvcMEpXe0c.p1",
   "SOvcMEpXe0c.p2",
   "SOvcMEpXe0c.p3"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "XTrfldBUPmo",
+  "NcRa2b2SEpc",
+  "WRisvYTsKpk",
+  "2DS1vsDH9ZU",
+  "8OrqBg2W9n0",
+  "hoCXxGrfo-0",
+  "hQK-STWjDQw",
+  "3K_gIma71kk",
+  "vCEerUjLpPE",
+  "SOvcMEpXe0c"
+ ],
+ "skipped": []
 }
