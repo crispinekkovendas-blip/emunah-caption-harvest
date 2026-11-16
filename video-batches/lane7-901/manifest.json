@@ -1,0 +1,38 @@
+{
+ "name": "lane7-901",
+ "lane": 7,
+ "created": "2026-11-16T00:23:07.764Z",
+ "status": "pending",
+ "repair": "lines taken back by Claude in its own reply, translated again (scripts/batch-repair.mjs)",
+ "repairLines": {
+  "fzOnnvXM6zU": [
+   600,
+   670
+  ]
+ },
+ "lessons": [
+  {
+   "id": "fzOnnvXM6zU",
+   "title": "O segredo dos bons shidduchim – Parashá Chayei Sará",
+   "lines": 1491,
+   "parts": 13,
+   "from": "reparo",
+   "repair": 2
+  }
+ ],
+ "chunks": [
+  "fzOnnvXM6zU.p0",
+  "fzOnnvXM6zU.p1",
+  "fzOnnvXM6zU.p2",
+  "fzOnnvXM6zU.p3",
+  "fzOnnvXM6zU.p4",
+  "fzOnnvXM6zU.p5",
+  "fzOnnvXM6zU.p6",
+  "fzOnnvXM6zU.p7",
+  "fzOnnvXM6zU.p8",
+  "fzOnnvXM6zU.p9",
+  "fzOnnvXM6zU.p10",
+  "fzOnnvXM6zU.p11",
+  "fzOnnvXM6zU.p12"
+ ]
+}

@@ -1,0 +1,120 @@
+600	And	E
+601	Chocolate milk.	Achocolatado.
+602	I go, take the products, and reach the counter.	Eu vou, pego os produtos e chego ao balcão.
+603	And before I leave I have to pay. Why do I have to pay?	E antes de sair eu preciso pagar. Por que preciso pagar?
+604	Because these products have a certain	Porque esses produtos têm um certo
+605	value, and the shopkeeper holds them in order to make a living	valor, e o dono da mercearia os mantém para ganhar a vida
+606	from them. He bought the products, true, he profits a little	com eles. Ele comprou os produtos, é verdade, ganha um pouco
+607	on them, but good for him, because that is what he	com eles, mas ótimo para ele, porque é disso que ele
+608	makes a living from, and I need to, what?	tira o sustento, e eu preciso, o quê?
+609	I take the products, I take something of value, and as long as I took	Eu levo os produtos, levo algo de valor, e enquanto levei
+610	and haven't yet paid,	e ainda não paguei,
+611	I caused him a loss, because it was his, and now I took	causei uma perda a ele, porque era dele, e agora eu tirei
+612	it from him. So what do I do? I have to	isso dele. Então o que eu faço? Preciso
+613	make up for his loss. That is why payment is called	compensar a perda dele. Por isso o pagamento se chama
+614	"leshalem": I pay in order to make up the loss	"leshalem": eu pago para completar a perda
+615	that I created for him.	que eu criei para ele.
+616	Now, when I take money and pay for the products	Agora, quando pego dinheiro e pago pelos produtos
+617	that I bought, did I do him a kindness?	que comprei, eu fiz um favor a ele?
+618	No.	Não.
+619	I was obligated to pay him, because otherwise I'm a thief.	Eu era obrigado a pagar, senão sou um ladrão.
+620	That is, it isn't chesed. So whoever sees me	Ou seja, não é chesed. Então quem me vê
+621	take from my pocket my own money and give it to him, if he	tirar do meu bolso o meu dinheiro e dar a ele, se ele
+622	doesn't see that this is inside a grocery store and payment	não vir que é dentro de uma mercearia e o pagamento
+623	for products, will think that I'm giving tzedakah	por produtos, vai pensar que estou dando tsedacá
+624	or chesed. No, I owe it. I owe it. That is called	ou chesed. Não, eu devo. Eu devo. Isso se chama
+625	din. In contrast, if I see a person, meet a person	din. Em contraste, se eu vejo uma pessoa, encontro uma pessoa
+626	who is struggling, who has now suffered	que está passando por dificuldade, que sofreu agora
+627	very big losses, was fired from	perdas muito grandes, foi demitida do
+628	his job, and the Holy One, Blessed be He, granted me a merciful	seu trabalho, e o Santo, Bendito Seja, me concedeu um coração
+629	and gracious heart and a lot of money. And I look at him, I	misericordioso e compassivo e muito dinheiro. E eu olho para ele e
+630	say, "A poor Jew in trouble, can I help	digo: "Um judeu pobre em apuros, posso ajudá-lo?
+631	him? Why shouldn't I help him?" I ask	Por que não o ajudaria?" Eu pergunto
+632	him, "Tell me, how can I help you?"	a ele: "Diga, como posso ajudar você?"
+633	So he tells me all his troubles, and he	Então ele me conta todos os seus problemas, e ele
+634	is now in debt, say, about 7,000 shekels,	agora está endividado, digamos, em uns 7.000 shekels,
+635	and he was fired from his job and has a family to support.	foi demitido do emprego e tem uma família para sustentar.
+636	So I can tell him, "Okay, that's the problem?	Então posso dizer a ele: "Ok, esse é o problema?
+637	No problem, give me your bank account number	Sem problema, me passe o número da sua conta
+638	tomorrow." At 10 in the morning more than	amanhã." Às 10 da manhã entra na sua conta mais de
+639	7,000 shekels go into your account, deposit them, get rid of your debts,	7.000 shekels, deposite, livre-se das suas dívidas,
+640	and I'll give you, until you manage to find a new job,	e eu darei a você, até conseguir um novo emprego,
+641	another 50,000 shekels. I did him a kindness, right? A	mais 50.000 shekels. Fiz um favor a ele, certo? Um
+642	great kindness, I saved him. He is of course grateful to me,	grande favor, eu o salvei. Ele, claro, me agradece,
+643	thank you very much, he doesn't know what to do with himself. Before that,	muito obrigado, ele não sabe o que fazer. Antes disso,
+644	on the one hand, I did him a kindness.	por um lado, fiz um favor a ele.
+645	On the other hand, however,	Por outro lado, porém,
+646	if we are talking about a person	se estamos falando de uma pessoa
+647	who was a person	que era uma pessoa
+648	hardworking	trabalhadora
+649	and successful, who built a business and worked hard and always	e bem-sucedida, que construiu um negócio, trabalhou duro e sempre
+650	supported his family from money that he earned	sustentou a família com dinheiro que ele ganhou
+651	by the labor of his hands, and he never took anything	com o trabalho das próprias mãos, e nunca tomou nada
+652	from anyone, not loans, and certainly not tzedakah or charity,	de ninguém, nem empréstimos, e muito menos tsedacá ou donativo,
+653	then yes, it will be a relief for him that at this moment he	então sim, será um alívio para ele que neste momento
+654	is rid of his creditors, and indeed he now has	ele se livre dos credores, e de fato ele agora tem
+655	a backup of 50,000 shekels until he finds a job.	uma reserva de 50.000 shekels até encontrar um emprego.
+656	So on the one hand it is certainly a great relief for him.	Então, por um lado, é certamente um grande alívio para ele.
+657	On the other hand,	Por outro lado,
+658	he will feel very uncomfortable, because he is not a person	ele se sentirá muito desconfortável, porque não é uma pessoa
+659	who takes tzedakah, he is not a person who takes handouts,	que aceita tsedacá, não é uma pessoa que aceita donativos,
+660	he is a person who feels that he lives by his own	é uma pessoa que sente que vive pelo seu próprio
+661	merit. And now suddenly he is in a situation in which	mérito. E agora, de repente, ele está numa situação em que
+662	he has no choice but to take. So he will take,	não tem escolha senão aceitar. Então ele vai aceitar,
+663	but in fact the kindness I did him is not entirely complete.	mas na verdade o favor que fiz a ele não é totalmente completo.
+664	I solved his immediate problem, but in fact	Resolvi o problema imediato dele, mas na verdade
+665	I insulted him without meaning to; of course I did not	eu o ofendi sem querer; claro que não
+666	mean to insult him, but he feels, he	tive a intenção de ofendê-lo, mas ele se sente, ele
+667	feels bad, right? That suddenly now he is	se sente mal, certo? Que de repente agora ele é
+668	needy, he is in need.	necessitado, ele precisa.
+669	Now, if I am a sensitive person, besides having	Agora, se sou uma pessoa sensível, além de ter
+670	a lot of money and a good heart and a desire to give, if on top of that	muito dinheiro, bom coração e vontade de dar, se além disso
+671	I am also a sensitive person, and I don't only	eu também sou uma pessoa sensível, e não penso apenas
+672	think about how he feels, what is going through his head	em como ele se sente, no que passa pela cabeça dele
+673	and in his emotions, then that will oblige me to act	e nos sentimentos dele, então isso vai me obrigar a agir
+674	differently. If I give him the money, then as I said,	de outra forma. Se eu der o dinheiro a ele, então, como disse,
+675	I gave him the money, but I insulted him. Not	dei o dinheiro, mas o ofendi. Não
+676	on purpose, but that's how it turned out, that he was insulted. And therefore the kindness	de propósito, mas foi assim que aconteceu, ele se ofendeu. E por isso o favor
+677	that I did him is not complete.	que fiz a ele não é completo.
+678	Imagine that I think creatively	Imagine que eu pense de forma criativa
+679	and I tell him, wait, you know what? I won't give	e diga a ele: espere, sabe de uma coisa? Não vou dar
+680	you money now, but you say you were fired	dinheiro a você agora, mas você diz que foi demitido
+681	from your job, so you're free now, right? Come work	do emprego, então está livre agora, certo? Venha trabalhar
+682	for me. How much have you earned until now, say 15,000 shekels	para mim. Quanto você ganhava até agora, digamos 15.000 shekels
+683	a month, okay? It's an example I'm giving. Yes, come	por mês, certo? É um exemplo que estou dando. Sim, venha
+684	work for me, I'll pay you 30,000.	trabalhar para mim, eu pago a você 30.000.
+685	So little by little you'll also be able to settle your debts,	Assim, aos poucos, você também poderá quitar suas dívidas,
+686	but on the other hand you have a job. I offer you	mas, por outro lado, você tem um emprego. Eu ofereço a você
+687	a job. Notice what happens? I'm not offering to give	um emprego. Percebem o que acontece? Não estou oferecendo para dar
+688	him anything. I tell him, come work, and I make a	a ele. Eu digo: venha trabalhar, e faço com ele um
+689	contract with him: you have to come from nine until, or whatever	contrato: você precisa vir das nove até, ou tanto faz
+690	the working hours are, and we'll count it	o horário de trabalho, e vamos contar
+691	by the hour; one day you skip work, it comes off your pay, you	por hora; um dia você falta ao trabalho, é descontado, você
+692	don't get it automatically. In other words,	não recebe automaticamente. Em outras palavras,
+693	when I give to him in this way, he doesn't feel	quando dou a ele dessa forma, ele não se sente
+694	like a poor man at the door,	como um pobre à porta,
+695	but rather he will have to work in order to earn, and then	mas ele terá que trabalhar para ganhar, e assim
+696	his dignity is preserved. He works, right? This is chesed on a	a dignidade dele é preservada. Ele trabalha, certo? Isso é chesed num nível
+697	much higher level, because here I don't insult him,	muito mais alto, porque aqui eu não o ofendo,
+698	and he also won't have a problem receiving, because it's his,	e ele também não terá problema em receber, porque é dele,
+699	he works for it. Okay.	ele trabalha por isso. Certo.
+700	That is chesed on the higher level.	Esse é o chesed no nível mais alto.
+701	Now, the Holy One, Blessed be He,	Agora, o Santo, Bendito Seja,
+702	is abundant in chesed.	é abundante em chesed.
+703	That is, He is chesed at the highest level of chesed.	Ou seja, Ele é chesed no nível mais alto de chesed.
+704	And when He created the world, what does it mean that the world was created	E quando Ele criou o mundo, o que significa que o mundo foi criado
+705	with chesed? As it says, "I said, the world will be built by chesed."	com chesed? Como está dito: "Eu disse: o mundo será edificado com chesed."
+706	When the Holy One, Blessed be He, created the world, what for?	Quando o Santo, Bendito Seja, criou o mundo, para quê?
+707	The Holy One, Blessed be He, is all-powerful; He did not need	O Santo, Bendito Seja, é todo-poderoso; Ele não precisava
+708	the world. He did not create the world because He was bored,	do mundo. Ele não criou o mundo por tédio,
+709	because otherwise He would be lacking; He would have had boredom.	pois senão Ele seria carente; Ele teria tédio.
+710	He did not create the world because He gains something	Ele não criou o mundo porque ganha algo
+711	from it. No, He is all-powerful, He is complete,	com isso. Não, Ele é todo-poderoso, é completo,
+712	He is perfect, He does not need the world. Why did He create	é perfeito, não precisa do mundo. Por que Ele criou
+713	the world? Not for Himself but for us. We have to	o mundo? Não para Ele, mas para nós. Precisamos
+714	know this. It is very, very important. The world was not created for the Holy One, Blessed be He; it was created	saber disso. É muito, muito importante. O mundo não foi criado para o Santo, Bendito Seja; foi criado
+715	for the created beings.	para as criaturas.
+716	The Holy One, Blessed be He, wanted to do chesed, and He created	O Santo, Bendito Seja, quis fazer chesed e criou
+717	created beings so that they would receive	criaturas para que recebessem
+718	infinite good, but only if they work for it.	um bem infinito, mas só se trabalharem por isso.
+719	As in the example, you get nothing: no free lunch.	Como no exemplo, você não recebe nada: não existe almoço grátis.
