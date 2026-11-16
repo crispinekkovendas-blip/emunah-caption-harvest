@@ -1,0 +1,21 @@
+{
+ "name": "lane4-026",
+ "lane": 4,
+ "created": "2026-11-16T04:20:22.783Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "BpAgX1N5Uvg",
+   "title": "Shaar HaAkudim: luzes da boca e o surgimento do kli",
+   "lines": 362,
+   "parts": 4,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "BpAgX1N5Uvg.p0",
+  "BpAgX1N5Uvg.p1",
+  "BpAgX1N5Uvg.p2",
+  "BpAgX1N5Uvg.p3"
+ ]
+}
