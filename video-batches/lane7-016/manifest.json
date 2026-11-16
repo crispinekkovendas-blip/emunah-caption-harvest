@@ -2,7 +2,7 @@
  "name": "lane7-016",
  "lane": 7,
  "created": "2026-11-16T01:25:03.278Z",
- "status": "done",
+ "status": "pending",
  "lessons": [
   {
    "id": "NE5SjKGtZN8",
@@ -89,8 +89,14 @@
   "MKSp36UWf4w",
   "thox5EBMMgs",
   "-k2qyseG5hU",
-  "3Ycel8hA-w0",
-  "xS5tbMJTfgU"
+  "3Ycel8hA-w0"
  ],
- "skipped": []
+ "skipped": [],
+ "reopened": [
+  {
+   "id": "xS5tbMJTfgU",
+   "why": "2026-11-16: one-piece live test of the pushes fixed after the big run (every lane pushes each piece at once; scripts/push-retry.sh)",
+   "at": "2026-11-16T16:46:43.744Z"
+  }
+ ]
 }
