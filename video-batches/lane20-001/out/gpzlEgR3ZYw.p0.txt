@@ -1,0 +1,120 @@
+0	Is it working, so good?	Está funcionando, então tudo bem?
+1	-Yes, it's this week.	-Sim, é esta semana.
+2	Is there something else?	Tem mais alguma coisa?
+3	Hal HaMelech, right?	Hal HaMelech, não é?
+4	Next week.	Semana que vem.
+5	Next week.	Semana que vem.
+6	Let's say, every time, new people.	Digamos que, toda vez, há pessoas novas.
+7	Right.	Verdade.
+8	So Hal HaMelech	Então Hal HaMelech
+9	this is	isso é
+10	content.	conteúdo.
+11	I need a hotspot here, if possible,	Preciso de um ponto de acesso aqui, se der,
+12	for someone to set up for me.	para alguém configurar para mim.
+13	Susi, a hotspot, a wireless router,	Susi, um ponto de acesso, um roteador sem fio,
+14	mobile.	portátil.
+15	What?	O quê?
+16	A mobile wireless router.	Um roteador sem fio portátil.
+17	Yes.	Sim.
+18	I opened it.	Eu abri.
+19	You opened it?	Você abriu?
+20	What do you see?	O que você vê?
+21	See what Ronit sees for you.	Veja o que a Ronit vê aí para você.
+22	Or...	Ou...
+23	Ronit, I don't see it.	Ronit, eu não vejo.
+24	Ilana doesn't either.	A Ilana também não.
+25	Nothing is moving here.	Nada se mexe aqui.
+26	Let's take this one.	Vamos pegar este.
+27	I have a "Home" here.	Tenho um "Home" aqui.
+28	Try to connect to it.	Tente se conectar a ele.
+29	Home?	Home?
+30	Can you hear?	Vocês estão ouvindo?
+31	Des.	Des.
+32	Could this be Home?	Será que este é o Home?
+33	No.	Não.
+34	Wait, I think this one is mine.	Espera, acho que este é o meu.
+35	This is yours?	Este é o seu?
+36	It's not yours?	Não é o seu?
+37	If it's not yours, maybe it's...	Se não é o seu, talvez seja...
+38	Android?	Android?
+39	Yes, I think so.	Sim, acho que sim.
+40	It will connect.	Vai conectar.
+41	0505-611-731	0505-611-731
+42	This, this, you have Android, right?	Isso, isso, você tem Android, não é?
+43	Let's see again, I'll try again.	Vamos ver de novo, vou tentar outra vez.
+44	So the number again?	Então o número de novo?
+45	It's six, one, one, seven, three, one.	É seis, um, um, sete, três, um.
+46	It's not working.	Não está funcionando.
+47	Who wants to try?	Quem quer tentar?
+48	No.	Não.
+49	I don't know why.	Não sei por quê.
+50	Try.	Tente.
+51	Olex, Olex.	Olex, Olex.
+52	Does anyone have Olex listed?	Alguém tem Olex na lista?
+53	Lena, maybe you have Olex listed?	Lena, talvez você tenha Olex na lista?
+54	Try from mine, I don't know how to do this, but.	Tente a partir do meu, não sei como se faz, mas.
+55	Do you know the password, though?	Você sabe a senha, pelo menos?
+56	Password?	Senha?
+57	That's not technology at all.	Isso nem é tecnologia.
+58	Ah, so where is my password?	Ah, então onde está a minha senha?
+59	Come show me, because we put in my phone, I thought it would recover the password.	Venha me mostrar, porque pusemos o meu telefone, achei que ia recuperar a senha.
+60	Router.	Roteador.
+61	Is this Android?	Este é Android?
+62	What?	O quê?
+63	Is this Android?	Este é Android?
+64	No, it's an iPhone.	Não, é um iPhone.
+65	…	…
+66	No, he has to.	Não, ele precisa.
+67	But come look here by the name, maybe	Mas olhe aqui pelo nome, talvez
+68	you'll recognize her name.	você reconheça o nome dela.
+69	Redmi?	Redmi?
+70	And there's nothing further down?	E não tem mais nada lá embaixo?
+71	Further down...	Mais embaixo...
+72	Ricky?	Ricky?
+73	Ricky?	Ricky?
+74	iPhone?	iPhone?
+75	iPhone, maybe give...	iPhone, talvez dê...
+76	Yes, let's see this one.	Sim, vamos ver este.
+77	And from one to eight.	E de um a oito.
+78	One, two, three, up to eight.	Um, dois, três, até oito.
+79	It should be first, if it's here.	Deveria ser o primeiro, se está aqui.
+80	Now is there someone new on yours?	Agora tem alguém novo no seu?
+81	Now, yes.	Agora, sim.
+82	But you don't know.	Mas você não sabe.
+83	So leave it here.	Então deixe aqui.
+84	No, this, this is her.	Não, esta, esta é ela.
+85	Ah, is this the one?	Ah, é este?
+86	No.	Não.
+87	Done.	Pronto.
+88	Thank you very much.	Muito obrigado.
+89	Oh, yes?	Ah, sim?
+90	Yes.	Sim.
+91	Okay.	Está bem.
+92	Okay.	Está bem.
+93	Leave it here.	Deixe aqui.
+94	So here's Shiri here too.	Então aqui está a Shiri também.
+95	Thank you very much.	Muito obrigado.
+96	Do you know your password?	Você sabe a sua senha?
+97	No, I don't understand	Não, eu não entendo
+98	any of this.	nada disso.
+99	My wife manages these	Minha esposa cuida dessas
+100	matters.	coisas.
+101	The woman, it's...	A mulher, é...
+102	I'll do what I can.	Vou fazer o que eu puder.
+103	Okay, so we are learning the weekly Parashah, Parashat	Bem, estamos estudando a Parashá da semana, a Parashat
+104	Vayera.	Vayera.
+105	"And HaShem appeared to him in the plains of Mamre."	"E HaShem apareceu a ele nos carvalhais de Mamre."
+106	So basically this talk is based on words of	Basicamente esta palestra se baseia em palavras do
+107	my teacher and rabbi, of blessed memory, Rabbi Baruch Shalom, only edited	meu mestre e rabino, de abençoada memória, Rabi Baruch Shalom, apenas editadas
+108	and combined with other material as well.	e combinadas também com outros materiais.
+109	So what is the point here, that the Holy One, blessed be He, is revealed to Avraham in Elonei Mamre?	Então qual é o ponto aqui: que o Santo, Bendito Seja, se revela a Avraham em Elonei Mamre?
+110	Mamre is the name of a person.	Mamre é o nome de uma pessoa.
+111	So the Sages say, and the Zohar also brings this, that Avraham had three	Os Sábios dizem, e o Zohar também traz isso, que Avraham tinha três
+112	friends, Aner, Eshkol and Mamre, and he consulted them about whether	amigos, Aner, Eshkol e Mamre, e consultou-os sobre se
+113	to make the covenant or not. Aner and Eshkol were against it,	devia fazer a aliança ou não. Aner e Eshkol foram contra,
+114	and Mamre told him to do it.	e Mamre lhe disse que fizesse.
+115	Mamre told him: the Holy One, blessed be He, saved you from the fiery furnace in Ur Kasdim,	Mamre lhe disse: o Santo, Bendito Seja, te salvou da fornalha de fogo em Ur Kasdim,
+116	so there is no reason for you not to obey Him here.	então não há razão para você não obedecê-lo aqui.
+117	And Avraham obeys him and makes the covenant, and therefore the Holy One, blessed be He, is revealed in Elonei	E Avraham o obedece e faz a aliança, e por isso o Santo, Bendito Seja, se revela em Elonei
+118	Mamre.	Mamre.
+119	Chazal present this as a kind of visiting the sick,	Os nossos Sábios apresentam isso como uma espécie de visita a um enfermo,

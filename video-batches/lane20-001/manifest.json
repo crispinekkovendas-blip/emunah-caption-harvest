@@ -2,7 +2,7 @@
  "name": "lane20-001",
  "lane": 20,
  "created": "2026-11-15T23:08:43.923Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "gpzlEgR3ZYw",
@@ -83,5 +83,15 @@
   "0hlQ_2dRhcc.p1",
   "0hlQ_2dRhcc.p2",
   "0hlQ_2dRhcc.p3"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "gpzlEgR3ZYw",
+  "MdO0a2e980k",
+  "sOGUsuArb6g",
+  "ZfJxAbNdBLE",
+  "wOUY4bT9TJo",
+  "0hlQ_2dRhcc"
+ ],
+ "skipped": []
 }
