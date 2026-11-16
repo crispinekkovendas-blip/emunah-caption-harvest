@@ -2,7 +2,7 @@
  "name": "lane7-016",
  "lane": 7,
  "created": "2026-11-16T01:25:03.278Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "NE5SjKGtZN8",
@@ -82,5 +82,15 @@
   "3Ycel8hA-w0.p2",
   "3Ycel8hA-w0.p3",
   "xS5tbMJTfgU.p0"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "NE5SjKGtZN8",
+  "MKSp36UWf4w",
+  "thox5EBMMgs",
+  "-k2qyseG5hU",
+  "3Ycel8hA-w0",
+  "xS5tbMJTfgU"
+ ],
+ "skipped": []
 }
