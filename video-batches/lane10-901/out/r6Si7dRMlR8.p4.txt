@@ -1,0 +1,5 @@
+480	Give	Dê
+481	him one second to move.	a ele um segundo para se mexer.
+482	Give him room.	Deem espaço a ele.
+483	There are more photographers, help out.	Há mais fotógrafos, ajude.
+484	There are more photographers.	Há mais fotógrafos.
