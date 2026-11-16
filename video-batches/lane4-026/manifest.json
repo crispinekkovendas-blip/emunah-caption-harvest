@@ -2,7 +2,7 @@
  "name": "lane4-026",
  "lane": 4,
  "created": "2026-11-16T04:20:22.783Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "BpAgX1N5Uvg",
@@ -17,5 +17,10 @@
   "BpAgX1N5Uvg.p1",
   "BpAgX1N5Uvg.p2",
   "BpAgX1N5Uvg.p3"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "BpAgX1N5Uvg"
+ ],
+ "skipped": []
 }
