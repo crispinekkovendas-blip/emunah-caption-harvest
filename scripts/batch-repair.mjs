@@ -120,10 +120,45 @@ for (const b of dirs) {
   }
 }
 console.log(`${replies} replies read, ${withNote} take lines back, in ${cand.size} lessons`)
+// the same lessons' CLEAN replies (no taking-back note): a published line one of them also wrote, word for word, is
+// not only from a block taken back — two separate translations agree on it, so it stays (the dry run of 2026-11-15
+// flagged 30 lines of jrgUrbDQwqY that its clean re-translation had written identically)
+const clean = new Map() // id → Set of "n␟en␟pt"
+for (const b of dirs) {
+  const out = path.join(DIR, b, 'out')
+  if (!fs.existsSync(out)) continue
+  for (const f of fs.readdirSync(out).filter((x) => x.endsWith('.usage.json') && !x.includes('-pt.'))) {
+    const piece = f.replace(/\.r\d.*$/, '').replace(/\.usage\.json$/, '')
+    const id = piece.replace(/\.p\d+$/, '')
+    if (!cand.has(id)) continue
+    let j
+    try {
+      j = JSON.parse(fs.readFileSync(path.join(out, f), 'utf8'))
+    } catch {
+      continue
+    }
+    if (j.num_turns !== 1 || j.is_error || !j.result) continue
+    const text = String(j.result).replace(/\r/g, '')
+    let rowSeen = false
+    const takesBack = text.split('\n').some((l) => {
+      if (/^\d+[\t|]/.test(l)) rowSeen = true
+      else if (rowSeen && l.trim() && RETRACT.test(l.trim())) return true
+      return false
+    })
+    if (takesBack) continue
+    const inF = path.join(DIR, b, 'in', `${piece}.txt`)
+    if (!fs.existsSync(inF)) continue
+    const h = fs.readFileSync(inF, 'utf8').match(/traduzir as linhas (\d+) a (\d+)/)
+    if (!h) continue
+    if (!clean.has(id)) clean.set(id, new Set())
+    for (const [n, [e, p]] of readReply(text, Number(h[1]), Number(h[2])).good) clean.get(id).add(`${n}␟${norm(e)}␟${norm(p)}`)
+  }
+}
 
 /* ── 2. which of those lines are live ────────────────────────────────────────────────────────────────────── */
 const plan = []
 const skipped = { busy: 0, notClaude: 0, changed: 0, clean: 0, errors: 0 }
+let agreed = 0 // live lines a clean reply also wrote, word for word
 let k = 0
 for (const [id, list] of cand) {
   if (++k % 50 === 0) console.log(`${k} / ${cand.size} lessons looked at, ${plan.length} to repair`)
@@ -159,6 +194,10 @@ for (const [id, list] of cand) {
       if (!texts.some(([e, p]) => norm(e) === E && norm(p) === P)) continue
       const r = redo.get(i)
       if (r && norm(r[0]) === E && norm(r[1]) === P) continue // written again, the same, after the note
+      if (clean.get(id)?.has(`${i}␟${E}␟${P}`)) {
+        agreed++
+        continue
+      }
       bad.add(i)
     }
   if (!bad.size) {
@@ -172,11 +211,11 @@ const askPieces = plan.reduce((s, x) => s + new Set(x.bad.map((i) => Math.floor(
 // the ten-lane test: ~68 output tokens a line (thinking included), ~8k input tokens a request, Sonnet 5.5 list prices
 const usd = (badLines * 68 * 10 + askPieces * 8000 * 2) / 1e6
 console.log(`to repair: ${plan.length} lessons, ${badLines} lines, ${askPieces} pieces to ask (≈ $${usd.toFixed(0)} list price)`)
-console.log(`left alone: ${JSON.stringify(skipped)}`)
+console.log(`left alone: ${JSON.stringify(skipped)} · ${agreed} live lines kept because a clean reply wrote them the same`)
 fs.mkdirSync(path.join(ROOT, 'out'), { recursive: true })
 fs.writeFileSync(
   path.join(ROOT, 'out', 'repair-plan.json'),
-  JSON.stringify({ replies, withNote, lessons: plan.length, lines: badLines, pieces: askPieces, usd: Math.round(usd), skipped, plan: plan.map(({ id, title, lines, bad }) => ({ id, title, lines, bad })) }, null, 1),
+  JSON.stringify({ replies, withNote, lessons: plan.length, lines: badLines, pieces: askPieces, usd: Math.round(usd), skipped, agreed, plan: plan.map(({ id, title, lines, bad }) => ({ id, title, lines, bad })) }, null, 1),
 )
 
 /* ── 3. the repair batches ──────────────────────────────────────────────────────────────────────────────── */
@@ -278,6 +317,7 @@ summary(
     `| pieces to ask Claude (only those lines) | ${askPieces} |`,
     `| estimate (list price) | ≈ $${usd.toFixed(0)} |`,
     `| left alone: still in a lane / not Claude's / transcript changed / no live line / errors | ${skipped.busy} / ${skipped.notClaude} / ${skipped.changed} / ${skipped.clean} / ${skipped.errors} |`,
+    `| live lines kept because a clean reply wrote them the same | ${agreed} |`,
     ...(made.length ? ['', ...made.map((m) => `- ${m}`)] : []),
   ].join('\n'),
 )
