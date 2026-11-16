@@ -1,7 +1,7 @@
 # lane6-012
 
-24 of 25 lessons published · 0 skipped · status **pending**
-Tokens (183 agent runs with a record): 1.4M in (mostly cache) · 1.49M out · API-equivalent 18.67
+25 of 25 lessons published · 0 skipped · status **done**
+Tokens (184 agent runs with a record): 1.4M in (mostly cache) · 1.50M out · API-equivalent 18.75
 
 | lesson | state | detail |
 |---|---|---|
@@ -26,7 +26,7 @@ Tokens (183 agent runs with a record): 1.4M in (mostly cache) · 1.49M out · AP
 | 1LXeA-kF720 | ✓ published | 903 lines · Eliézer, o servo sem nome de Avraham e sua missão |
 | g4FSy0w2xQE | ✓ published | 388 lines · Avraham, a parochet e o véu que separa os mundos |
 | ftauDqmyptA | ✓ published | 866 lines · Como se aproximar da oração: introdução à série |
-| uktdKS7_eLk | ✗ will be redone (try 1) | 1 piece(s): 119 lines missing |
+| uktdKS7_eLk | ✓ published | 1475 lines · Shem e Ever, Avraham e o nome de Yerushalayim |
 | 5AOGYCpqXno | ✓ published | 930 lines · Likutei Moharan 8:9: pulso, respiração e 1080 partes |
 | 6twM78fiEHo | ✓ published | 442 lines · Do Adam Kadmon à Shevirat HaKelim e ao mundo de Atzilut |
 | vCN2T18jovo | ✓ published | 632 lines · Zohar Bereshit: Avnei Shaish, Etz Chaim e as duas Chochmot |
