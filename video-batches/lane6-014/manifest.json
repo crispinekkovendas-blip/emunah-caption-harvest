@@ -2,7 +2,7 @@
  "name": "lane6-014",
  "lane": 6,
  "created": "2026-11-16T01:33:33.147Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "WC--xTWtlLE",
@@ -196,5 +196,22 @@
   "FLZw0NJf_cY.p5",
   "_Zal91ClDxs.p0",
   "_Zal91ClDxs.p1"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "WC--xTWtlLE",
+  "jg4BhFkCUsk",
+  "a_kpBov9cyE",
+  "Ida_uKzliD4",
+  "1nBaGQdWomg",
+  "8p3AGUe9RKY",
+  "XWSt0_XG07A",
+  "WTLVaWLB9Is",
+  "BNXLT57bAZU",
+  "5RLOpEF_pio",
+  "KKxSQiJe6IA",
+  "FLZw0NJf_cY",
+  "_Zal91ClDxs"
+ ],
+ "skipped": []
 }
