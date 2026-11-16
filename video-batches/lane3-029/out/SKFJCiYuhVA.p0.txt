@@ -1,0 +1,120 @@
+0	Bava Metzia.	Bava Metzia.
+1	Bava Metzia, chapter 4, Mishnah 3.	Bava Metzia, capítulo 4, Mishná 3.
+2	The Mishnah states: Ona'ah is four ma'ot out of 24 ma'ot to the Sela.	Diz a Mishná: a Ona'á é de quatro ma'ot de prata, de 24 ma'ot por Sela.
+3	A sixth of the purchase.	Um sexto da compra.
+4	Until when is it permitted to return it?	Até quando é permitido devolver?
+5	Until he shows it to a merchant or a relative.	Até que mostre a um negociante ou a um parente.
+6	Rabbi Tarfon ruled in Lod: Ona'ah is eight ma'ot per Sela.	Rabi Tarfon decidiu em Lod: a Ona'á é de oito ma'ot por Sela.
+7	A third of the purchase, and the merchants of Lod relied on it.	Um terço da compra, e os comerciantes de Lod se apoiaram nisso.
+8	He said to them: All day it is permitted to return it.	Ele lhes disse: o dia inteiro é permitido devolver.
+9	They said to him: Let Rabbi Tarfon leave us in our place, and they returned to the words of the Sages.	Disseram-lhe: que Rabi Tarfon nos deixe em nosso lugar; e voltaram às palavras dos Sábios.
+10	Let me explain the matter.	Vou explicar o assunto.
+11	Here, these Mishnayot from now on deal with the laws of Ona'ah.	Aqui, estas Mishnayot, daqui em diante, tratam das leis de Ona'á.
+12	What do we mean by the laws of Ona'ah?	O que significa leis de Ona'á?
+13	There is verbal wronging, when a person distresses his fellow, and there is monetary wronging.	Há a Ona'á de palavras, quando uma pessoa magoa o próximo, e há a Ona'á de dinheiro.
+14	Monetary Ona'ah is when a person also wrongs his fellow by actually taking from him	A Ona'á de dinheiro é quando alguém também lesa o próximo, tomando-lhe de fato
+15	more than he should.	mais do que deveria.
+16	So if someone sells an item that has a market price, and sells that item at a higher price,	Então, se alguém vende um objeto que tem preço de mercado, e o vende por um preço mais alto,
+17	that is called wronging his fellow.	isso se chama lesar o próximo.
+18	That is, taking from him more than he should, and through that he causes	Ou seja, tomar dele mais do que deveria, e com isso ele causa
+19	a violation of the prohibition of Ona'ah.	a transgressão da proibição de Ona'á.
+20	This is one of the branches of theft, and so he also distresses his friend.	Isso é um dos ramos do roubo, e assim ele também magoa o seu amigo.
+21	Now, the question is whether this is a mistaken purchase or not.	Bem, a pergunta é se isso é uma compra por engano ou não.
+22	So the Sages made a distinction.	Então os Sábios fizeram uma distinção.
+23	They said that if the Ona'ah is less than a sixth of the purchase, that is, up to a sixth,	Disseram que, se a Ona'á é menos de um sexto da compra, isto é, até um sexto,
+24	he sold it for more, but it is less than a sixth of the purchase,	ele vendeu mais caro, mas é menos de um sexto da compra,
+25	then the sale stands, and there is forgiveness.	então a venda vale, e há perdão.
+26	True, he did not act properly, true, his friend will be upset afterward to hear that he paid more,	É verdade que ele não agiu corretamente, é verdade que o amigo ficará chateado depois ao saber que pagou mais,
+27	but since it is a relatively small amount, there is forgiveness here.	mas como é uma quantia relativamente pequena, há aqui perdão.
+28	On the other hand, if he overcharges him by exactly a sixth, then	Por outro lado, se ele cobra a mais exatamente um sexto, então
+29	in that case the sale stands, the sale cannot be canceled,	nesse caso a venda vale, não é possível anular a venda,
+30	but the overcharge is returned.	mas o excedente é devolvido.
+31	He has to return to him the money of the overcharge.	Ele tem que devolver o dinheiro do excedente.
+32	And if he overcharges him by more than a sixth, then the sale is void.	E se ele cobra a mais do que um sexto, então a venda é anulada.
+33	Now, the laws of Ona'ah apply from the seller toward	Agora, as leis de Ona'á valem do vendedor em relação
+34	the buyer, and from the buyer toward the seller.	ao comprador, e do comprador em relação ao vendedor.
+35	That is, a buyer might come,	Ou seja, pode vir um comprador
+36	who happens to be expert in goods,	que por acaso entende de mercadorias,
+37	and he comes to the seller and says to him: Listen, this product is worth less.	e vem ao vendedor e lhe diz: escute, este produto vale menos.
+38	And he persuades him to sell it to him for less.	E o convence a vender-lhe por menos.
+39	Afterward the seller goes and checks, and sees that he was cheated.	Depois o vendedor vai e verifica, e vê que foi lesado.
+40	It truly is worth more.	Na verdade vale mais.
+41	So the same laws apply.	Então valem as mesmas leis.
+42	If it is less than a sixth, there is forgiveness; a sixth, the sale stands, the overcharge is returned;	Se é menos de um sexto, há perdão; um sexto, a venda vale, o excedente é devolvido;
+43	more than a sixth, the sale is void.	mais de um sexto, a venda é anulada.
+44	Another thing: the Gemara explains that Ona'ah applies both to the merchandise and to the money.	Outra coisa: a Guemará explica que a Ona'á vale tanto na mercadoria quanto no dinheiro.
+45	Yes?	Certo?
+46	Which is actually between...	Que na verdade é entre...
+47	That is, how do we go by the sixth?	Ou seja, como se calcula pelo sexto?
+48	The halachah is that in these laws we go by a sixth mi-lagav.	A halachá é que, nestas leis, calcula-se o sexto mi-lagav.
+49	There is a difference between mi-lagav and mi-levar.	Há diferença entre mi-lagav e mi-levar.
+50	As is known, if it is a sixth, for example, mi-lagav, then if I have, for example,	Como se sabe, se é um sexto, por exemplo, mi-lagav, então se eu tenho, por exemplo,
+51	sixty, I take sixty, divide it by six, that is ten.	sessenta, pego sessenta, divido por seis, são dez.
+52	That is a sixth mi-lagav, from within.	Isso é um sexto mi-lagav, por dentro.
+53	A sixth mi-levar: I need to take the	Um sexto mi-levar: preciso pegar o
+54	fifth mi-lagav, add it to the hundred percent, which is the sixty, and then I	quinto mi-lagav, somá-lo aos cem por cento, que são os sessenta, e então eu
+55	actually get a sixth mi-levar, from without.	obtenho de fato um sexto mi-levar, por fora.
+56	That is, I reach a certain sum above sixty, which again divides into six.	Ou seja, chego a uma certa soma acima de sessenta, que de novo se divide em seis.
+57	And so in that case they explain that to reach a sixth mi-levar, one has to take a fifth	E por isso, nesse caso, explicam que, para chegar a um sexto mi-levar, é preciso fazer um quinto
+58	mi-lagav, add the fifth mi-lagav to the sum	mi-lagav, somar o quinto mi-lagav à soma
+59	of sixty, for example, and then I get a sixth mi-levar.	de sessenta, por exemplo, e então obtenho um sexto mi-levar.
+60	So according to the halachah, we go by a sixth mi-lagav in all these laws of Ona'ah,	Então, segundo a halachá, vai-se pelo sexto mi-lagav em todas essas leis de Ona'á,
+61	a sixth from within, but we do go by the sixth whether by the money or by	o sexto por dentro, mas calcula-se o sexto tanto pelo dinheiro quanto pela
+62	the merchandise.	mercadoria.
+63	In the Gemara this is a dispute, but so it was ruled as halachah: whether the Ona'ah	Na Guemará isso é uma discussão, mas assim foi decidido como halachá: quer a Ona'á
+64	was in the merchandise, where he sold the item for more, or in the money, if he paid him less,	tenha sido na mercadoria, em que ele vendeu o objeto por mais, quer no dinheiro, se pagou menos,
+65	then we go by the sixth, by the sum of the money or of the merchandise.	então vai-se pelo sexto, pela soma do dinheiro ou da mercadoria.
+66	By their value.	Pelo seu valor.
+67	Good, so our Mishnah here teaches: Ona'ah is four silver coins out of 24 silver coins	Bem, então a nossa Mishná ensina: a Ona'á é de quatro moedas de prata, de 24 moedas de prata
+68	to the Sela.	por Sela.
+69	What does this mean?	O que isso significa?
+70	Rabbeinu Ovadiah of Bartenura says: Ona'ah is four silver ma'ot, which are six ma'ot	Rabeinu Ovadia de Bartenura diz: a Ona'á é de quatro ma'ot de prata, que são seis ma'ot
+71	to a dinar, and the Sela is four dinars.	por dinar, e a Sela são quatro dinares.
+72	Now, since here in this Mishnah, and in some of the following Mishnayot, we will need this, I	Agora, como aqui nesta Mishná, e em algumas das próximas Mishnayot, vamos precisar disso, eu
+73	want to remind you of the formula we spoke about once, yes?	quero lembrar a vocês a fórmula de que falamos uma vez, certo?
+74	I showed you before a formula to remember the coins.	Mostrei a vocês antes uma fórmula para lembrar as moedas.
+75	How do you calculate it?	Como se calcula isso?
+76	It is called Sedam Pe'a Dovav.	Chama-se Sedam Pe'a Dovav.
+77	Let's do it on the board for a moment.	Vamos fazer isso no quadro por um momento.
+78	Sedam, Pe'a, Dovav.	Sedam, Pe'a, Dovav.
+79	Yes, you write the word Dovav between the letters of Sedam, Pe'a.	Sim, escreve-se a palavra Dovav entre as letras de Sedam, Pe'a.
+80	Now, Sedam Pe'a is an acronym, from right to left: Sela,	Agora, Sedam Pe'a é uma sigla, da direita para a esquerda: Sela,
+81	Dalet is dinar, Mem is ma'ah, Pe is pundion,	Dálet é dinar, Mem é ma'á, Pe é pundion,
+82	and Alef is isar.	e Alef é isar.
+83	These are actually the coins, and two isarin	Essas são de fato as moedas, e dois isarin
+84	are worth one pundion, two pundions are worth	valem um pundion, dois pundions valem
+85	a ma'ah, and six ma'ot, these are silver ma'ot, six ma'ot	uma ma'á, e seis ma'ot, são ma'ot de prata, seis ma'ot
+86	are worth a dinar, and four dinars are worth a Sela.	valem um dinar, e quatro dinares valem uma Sela.
+87	That is actually the order.	Essa é de fato a ordem.
+88	Now, if I say that six	Agora, se eu digo que seis
+89	ma'ot equal a dinar, then how many ma'ot are there in a Sela?	ma'ot são um dinar, então quantas ma'ot há em uma Sela?
+90	There are four dinars, and each dinar is worth six ma'ot.	Há quatro dinares, e cada dinar vale seis ma'ot.
+91	So you simply do six times four, and you will know how many ma'ot are in a Sela.	Então basta fazer seis vezes quatro, e você saberá quantas ma'ot há em uma Sela.
+92	So there are twenty-four silver ma'ot in a Sela.	Então há vinte e quatro ma'ot de prata em uma Sela.
+93	Yes?	Certo?
+94	Six ma'ot in a dinar and four dinars in a Sela.	Seis ma'ot em um dinar e quatro dinares em uma Sela.
+95	So six times four is twenty-four silver ma'ot	Então seis vezes quatro são vinte e quatro ma'ot de prata
+96	in a Sela.	em uma Sela.
+97	So, notice, if I take	Então, reparem, se eu pegar
+98	an item that is now worth a Sela,	um objeto que agora vale uma Sela,
+99	which is twenty-four ma'ot.	que são vinte e quatro ma'ot.
+100	A Sela.	Uma Sela.
+101	How much is a sixth?	Quanto é um sexto?
+102	Four.	Quatro.
+103	Because I do twenty-four divided by six.	Porque faço vinte e quatro dividido por seis.
+104	And this is called a sixth mi-lagav.	E isso se chama um sexto mi-lagav.
+105	You do twenty-four divided by six.	Faz-se vinte e quatro dividido por seis.
+106	And this is exactly what our Mishnah says.	E isso é exatamente o que diz a nossa Mishná.
+107	The Mishnah says: Ona'ah, what is the measure of Ona'ah?	Diz a Mishná: a Ona'á, qual é a medida da Ona'á?
+108	Four silver; four silver means four ma'ot, out of 24 silver	Quatro de prata; quatro de prata são quatro ma'ot, de 24 de prata
+109	to the Sela.	por Sela.
+110	That is, the measure of Ona'ah is four silver, where there are 24	Ou seja, a medida da Ona'á é de quatro de prata, onde há 24
+111	silver to a Sela.	de prata em uma Sela.
+112	So the four will be the sixth.	Então os quatro serão o sexto.
+113	Which actually sums up the Mishnah, and it says: a sixth of the purchase.	O que de fato resume a Mishná, e ela diz: um sexto da compra.
+114	So Bartenura tells us: Ona'ah is four silver; Bartenura says	Então Bartenura nos diz: a Ona'á é de quatro de prata; diz Bartenura:
+115	four silver ma'ot, which are six ma'ot	quatro ma'ot de prata, que são seis ma'ot
+116	to a dinar, and the Sela, the Sela is four	por dinar, e a Sela, a Sela são quatro
+117	dinars.	dinares.
+118	Excellent.	Excelente.
+119	The Mishnah says: Ona'ah is four silver, out of 24 silver to the Sela, a sixth of the purchase.	Diz a Mishná: a Ona'á é de quatro de prata, de 24 de prata por Sela, um sexto da compra.

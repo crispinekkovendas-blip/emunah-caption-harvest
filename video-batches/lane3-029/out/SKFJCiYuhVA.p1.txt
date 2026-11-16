@@ -1,0 +1,120 @@
+120	That means this counts as a mistake in the transaction.	Isso quer dizer que isso conta como erro na transação.
+121	Until when? Now here, for example, Bartenura adds:	Até quando? Agora, por exemplo, Bartenura acrescenta:
+122	If the transaction was at the value of a sela, which is 24 ma'ot, meaning the item was worth	Se a transação foi pelo valor de uma Sela, que são 24 ma'ot, isto é, o objeto valia
+123	now a sela, which is 24 ma'ot, and the overcharge is a mistake in the transaction.	agora uma Sela, que são 24 ma'ot, e a cobrança a mais é um erro na transação.
+124	Yes, the error here would be four ma'ot.	Sim, o erro aqui seria de quatro ma'ot.
+125	He must return to him the whole overcharge, four silver.	Ele deve devolver-lhe toda a fraude, quatro de prata.
+126	But the sale itself stands.	Mas a venda em si permanece válida.
+127	The Mishnah asks: until when is it permitted to return?	A Mishná pergunta: até quando é permitido devolver?
+128	What does "until when is it permitted to return" mean for the one who was defrauded?	O que significa "até quando é permitido devolver" para quem foi lesado?
+129	After all, the defrauded one might come now after a long time	Afinal, quem foi lesado pode vir agora depois de muito tempo
+130	and say, listen, give me back the overcharge you took from me.	e dizer: escuta, devolva-me a fraude que você me cobrou.
+131	The seller, on the other hand, will claim: true, I overcharged you, but you forgave it.	O vendedor, por outro lado, alegará: é verdade que te lesei, mas você perdoou.
+132	They won't reach an agreement between them, so they go to a beit din.	Não chegarão a um acordo entre si e irão ao Beit Din.
+133	The beit din will ask this question: how much time passed from the time of the sale until	O Beit Din fará esta pergunta: quanto tempo passou desde a venda até
+134	now?	agora?
+135	And if they see that a long time passed, they will say it is not plausible that in all this time you did not know	E se virem que passou muito tempo, dirão que não é plausível que em todo esse tempo você não soubesse
+136	that you were defrauded.	que foi lesado.
+137	And if you knew and did not come, then apparently you forgave.	E se você sabia e não veio, então aparentemente perdoou.
+138	Simply, now you need money, so you come back and stir things up.	Simplesmente, agora você precisa de dinheiro, então volta e reclama.
+139	Good, how much time counts as a long time?	Bem, quanto tempo conta como muito tempo?
+140	The Mishnah says: until when is it permitted to return?	A Mishná diz: até quando é permitido devolver?
+141	Until he shows it to a merchant or to a relative of his.	Até que mostre a um negociante ou a um parente seu.
+142	That is, this is the time. Say he bought an item now, presumably he went to a merchant, meaning some	Isto é, este é o tempo. Digamos que ele comprou um objeto agora e foi a um negociante, ou seja, algum
+143	trader, or to a relative of his who understands commercial law, and asked him whether it is worth the money he paid for	comerciante, ou a um parente que entende de leis comerciais, e perguntou se vale o dinheiro que pagou por
+144	it.	isso.
+145	If it is within such a time that he goes and asks and has already come back and says to him, you cheated me, then	Se for dentro de um tempo assim, em que ele vai, pergunta, já voltou e diz: você me enganou, então
+146	there is no reason he should not return the money to him.	não há motivo para ele não devolver o dinheiro.
+147	But if it is after a long time, I say that he forgave.	Mas se for depois de muito tempo, digo que ele perdoou.
+148	Therefore the Mishnah says, until he shows it to a merchant or a relative. Bartenura explains:	Por isso a Mishná diz: até que mostre a um negociante ou parente. Bartenura explica:
+149	Until when is it permitted to return the one who was defrauded. Bartenura says the Mishnah uses the language of "permitted" here,	Até quando é permitido devolver a quem foi lesado. Bartenura diz que a Mishná usa aqui a expressão "permitido",
+150	to teach that it is not even a case of "one who retracts."	para ensinar que não se trata sequer de "quem se retrata".
+151	There is no "one who retracts" here, to return the sale, or else he gives him his overcharge.	Não há aqui "quem se retrata" para devolver a venda, ou então ele lhe dá a fraude.
+152	Return me my overcharge, or the sale is annulled.	Devolva-me a minha fraude, ou a venda é anulada.
+153	And there is no law of "one who retracts" here at all.	E não há aqui nenhuma lei de "quem se retrata".
+154	By the way, on this matter there is a dispute there in the Gemara, what is the law if a person	Aliás, sobre este assunto há uma discussão na Guemará: qual é a lei se uma pessoa
+155	is overcharged by a mistake in the transaction,	for lesada em um erro na transação,
+156	and he wants to claim, listen, I don't want the sale.	e quiser alegar: escuta, eu não quero a venda.
+157	Take your money back, I forgive, take your item back, return me the money.	Pegue o seu dinheiro de volta, perdoo; pegue o seu objeto de volta, devolva-me o dinheiro.
+158	And the other claims, he says to him, no, I am willing to return to you the overcharge.	E o outro alega, diz-lhe: não, estou disposto a devolver-lhe o valor da fraude.
+159	There is a dispute about this.	Há uma discussão sobre isso.
+160	There is an opinion that he can demand either this or that.	Há uma opinião de que ele pode exigir uma coisa ou outra.
+161	But the halachah is ruled that the seller can hold back and say	Mas a halachá foi decidida que o vendedor pode se recusar e dizer
+162	to him, the sale stands, the overcharge I must return to you.	a ele: a venda permanece, a fraude eu devo devolver a você.
+163	That is essentially the halachah.	Essa é, em essência, a halachá.
+164	If the seller on his own agrees and says to him, no problem, return me	Se o vendedor, por conta própria, concordar e disser: sem problema, devolva-me
+165	the item, take the money, that is something else, that is beyond the letter of the law.	o objeto, pegue o dinheiro, isso é outra coisa, é além da letra da lei.
+166	The Mishnah says: Rabbi Tarfon ruled in Lod that the Ona'ah is eight silver	A Mishná diz: Rabi Tarfon decidiu em Lod que a Ona'á é de oito de prata
+167	per sela.	por Sela.
+168	Gentlemen, if Rabbi Tarfon ruled that the Ona'ah is eight silver per sela, then according to	Senhores, se Rabi Tarfon decidiu que a Ona'á é de oito de prata por Sela, então, segundo
+169	Rabbi Tarfon, how much is Ona'ah?	Rabi Tarfon, quanto é a Ona'á?
+170	A third.	Um terço.
+171	A third.	Um terço.
+172	Clear.	Claro.
+173	He says eight silver per sela.	Ele diz oito de prata por Sela.
+174	If four silver is a mistake, why is it a mistake?	Se quatro de prata é erro, por que é erro?
+175	Because four times six is twenty-four.	Porque quatro vezes seis são vinte e quatro.
+176	And a sela is twenty-four ma'ot.	E uma Sela são vinte e quatro ma'ot.
+177	So then...	Então, consequentemente...
+178	Rabbi Tarfon taught that the Ona'ah is 8 silver per sela, meaning, if I have	Rabi Tarfon ensinou que a Ona'á é de 8 de prata por Sela, isto é, se eu tenho
+179	an item worth a sela, which is 24 ma'ot of silver, if he overcharges it up to 8	um objeto que vale uma Sela, que são 24 ma'ot de prata, se ele o lesa até 8
+180	silver, it is still a standing sale and there is forgiveness.	de prata, ainda é uma venda válida e há perdão.
+181	If he overcharges it by 8, I say the sale stands and the overcharge is returned.	Se ele o lesa em 8, digo que a venda permanece e a fraude é devolvida.
+182	So then this is a much larger measure, a measure of a third,	Então esta é uma medida muito maior, uma medida de um terço,
+183	yes, of the sale.	sim, da venda.
+184	Not a mistake, because eight times three is twenty-four.	Não é erro, porque oito vezes três são vinte e quatro.
+185	Therefore the Mishnah says here, a third for the sale, and the merchants of Lod relied on him.	Por isso a Mishná diz aqui: um terço para a venda, e os comerciantes de Lod confiaram nele.
+186	The merchants of Lod, heard this ruling of Rabbi Tarfon, everyone started hanging his poster	Os comerciantes de Lod, ao ouvirem esta decisão de Rabi Tarfon, todos começaram a pendurar o cartaz dele
+187	on the stall.	na barraca.
+188	They said, we rely on him, and therefore they would sell their merchandise	Disseram: nós confiamos nele, e por isso vendiam a sua mercadoria
+189	at a high price, and then the sale stands.	a preço alto, e então a venda permanece.
+190	They would make an overcharge.	Eles cobravam a mais.
+191	He said to them, all day it is permitted to return.	Ele lhes disse: o dia todo é permitido devolver.
+192	But Rabbi Tarfon said, on the other hand, if there is Ona'ah,	Mas Rabi Tarfon disse, por outro lado: se há Ona'á,
+193	then the buyer can return all day.	então o comprador pode devolver o dia todo.
+194	That is, this is a much longer time period than until he shows it to a merchant or a relative.	Isto é, é um período de tempo muito maior do que até que mostre a um negociante ou parente.
+195	He can return the item even at the end of the day.	Ele pode devolver o objeto até no fim do dia.
+196	They said to him, let Rabbi Tarfon leave us in our place.	Disseram-lhe: que Rabi Tarfon nos deixe em nosso lugar.
+197	They said to him, forget it, you know what?	Disseram-lhe: deixa pra lá, sabe de uma coisa?
+198	We prefer to stay with the ruling of a mistake, the main thing is that we	Preferimos ficar com a decisão do erro; o principal é que nós
+199	know that if half an hour passed and he did not come back, there is forgiveness.	sabemos que, se passou meia hora e ele não voltou, há perdão.
+200	And they returned to the words of the Sages.	E voltaram às palavras dos Sábios.
+201	Good, very interesting, a merchant again.	Bem, muito interessante, o negociante de novo.
+202	Mishnah 4. The Mishnah says: both the buyer and the seller have	Mishná 4. A Mishná diz: tanto o comprador quanto o vendedor têm
+203	Ona'ah.	Ona'á.
+204	Just as there is Ona'ah for a layman, so there is Ona'ah for a merchant.	Assim como há Ona'á para o leigo, há Ona'á para o negociante.
+205	Rabbi Yehuda says, there is no Ona'ah for a merchant.	Rabi Yehuda diz: não há Ona'á para o negociante.
+206	The one on whom it was imposed has the upper hand.	Aquele sobre quem foi imposta tem a vantagem.
+207	If he wishes, he says to him, give me my money, or give me what you overcharged me.	Se quiser, diz-lhe: devolva-me o meu dinheiro, ou devolva-me o que me cobrou a mais.
+208	So here the Mishnah says in its first part, a merchant has no	Aqui a Mishná diz, na primeira parte: o negociante não tem
+209	Ona'ah.	Ona'á.
+210	What does that mean?	O que isso significa?
+211	In our Mishnah it is written, both the buyer and the seller have Ona'ah.	Na nossa Mishná está escrito: tanto o comprador quanto o vendedor têm Ona'á.
+212	What is the meaning of "both the buyer and the seller"?	O que significa "tanto o comprador quanto o vendedor"?
+213	Whether the buyer or the seller, it doesn't matter who overcharged whom.	Seja o comprador, seja o vendedor, não importa quem lesou quem.
+214	As I said before, whether the seller sold the merchandise at a high price, or the buyer	Como eu disse antes, seja o vendedor que vendeu a mercadoria caro, seja o comprador que
+215	in fact bought the merchandise from the seller cheaply.	na verdade comprou a mercadoria do vendedor barato.
+216	The laws of Ona'ah apply here.	Aqui se aplicam as leis de Ona'á.
+217	Just as there is Ona'ah for a layman, so there is Ona'ah for a merchant.	Assim como há Ona'á para o leigo, há Ona'á para o negociante.
+218	That is, even a person who is a merchant, a shrewd trader, if he comes	Isto é, até uma pessoa que é negociante, um comerciante esperto, se ele vier
+219	to buy merchandise and afterwards finds out that the merchandise was sold to him at a higher price, he has	comprar mercadoria e depois descobrir que lhe venderam a mercadoria mais cara, ele tem
+220	a claim.	uma reclamação.
+221	And the seller who sold to a merchant, to a trader, cannot claim, listen, but you are a trader, you	E o vendedor que vendeu a um negociante, a um comerciante, não pode alegar: escuta, mas você é comerciante, você
+222	deal with this all the time.	lida com isso o tempo todo.
+223	If you agreed to buy at such a price, precisely what you knew was expensive, and nevertheless you thought it over and accepted.	Se você concordou em comprar a tal preço, justamente o que você sabia que era caro, e mesmo assim ponderou e aceitou.
+224	His…	O dele…
+225	Even a merchant can claim that he did not pay attention to the price	Até um negociante pode alegar que não prestou atenção ao preço
+226	of this merchandise.	desta mercadoria.
+227	Rabbi Yehuda says, there is no Ona'ah for a merchant, that is, Rabbi Yehuda disagrees, and he in fact thinks	Rabi Yehuda diz: não há Ona'á para o negociante, isto é, Rabi Yehuda discorda, e na verdade ele considera
+228	that this reasoning is strong.	que este raciocínio é forte.
+229	That if a merchant comes to buy merchandise, then even if the seller did not	Que, se um negociante vem comprar mercadoria, então mesmo que o vendedor não
+230	inform him that he is selling to him at a high price, if he thought it over and accepted, the	o tenha informado de que lhe vende caro, se ele ponderou e aceitou, a
+231	sale in fact stands.	venda, na verdade, permanece válida.
+232	Bartenura says, a merchant has no Ona'ah because he is expert and presumably he ate…	Bartenura diz: o negociante não tem Ona'á porque é conhecedor e presumivelmente ele…
+233	Presumably he is selling.	Presumivelmente ele está vendendo.
+234	And if he bought it from my brother because the market was full, I bought another…	E se ele comprou do meu irmão porque o mercado estava cheio, comprei outro…
+235	…and he knew, he taught much.	…e ele sabia, ele ensinou muito.
+236	That is, understand the reasoning of Rabbi Yehuda.	Isto é, entendam o raciocínio de Rabi Yehuda.
+237	Rabbi Yehuda says, there is no Ona'ah for a merchant.	Rabi Yehuda diz: não há Ona'á para o negociante.
+238	First of all, a merchant is not a sucker, he knows the prices, he deals with this.	Antes de tudo, o negociante não é bobo, ele conhece os preços, lida com isso.
+239	If he was willing to buy at a high price, apparently he forgave.	Se estava disposto a comprar caro, aparentemente ele perdoou.

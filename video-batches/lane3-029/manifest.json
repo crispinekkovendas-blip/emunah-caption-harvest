@@ -2,7 +2,7 @@
  "name": "lane3-029",
  "lane": 3,
  "created": "2026-11-15T23:41:43.179Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "fNX4xwqV1Sc",
@@ -124,5 +124,18 @@
   "aPIpA-cG1cM.p0",
   "aPIpA-cG1cM.p1",
   "aPIpA-cG1cM.p2"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "fNX4xwqV1Sc",
+  "SKFJCiYuhVA",
+  "wuat6EoR1vA",
+  "SGAiEjrkkyE",
+  "Rn_AOO7s0To",
+  "pm9rX3884wU",
+  "dGKKDECKVNY",
+  "CZ2QJz44Phc",
+  "aPIpA-cG1cM"
+ ],
+ "skipped": []
 }
