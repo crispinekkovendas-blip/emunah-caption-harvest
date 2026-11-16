@@ -2,7 +2,7 @@
  "name": "lane17-001",
  "lane": 17,
  "created": "2026-11-15T23:08:29.526Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "k6sktP8H0GU",
@@ -106,5 +106,16 @@
   "kAlwlnjib4w.p4",
   "kAlwlnjib4w.p5",
   "kAlwlnjib4w.p6"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "k6sktP8H0GU",
+  "z48Ijy2WIpA",
+  "lInfKz-R7o0",
+  "V4KztRwpn4A",
+  "PZ7PkUtuz0k",
+  "x_mkIpZuf1Q",
+  "kAlwlnjib4w"
+ ],
+ "skipped": []
 }
