@@ -2,7 +2,7 @@
  "name": "lane18-901",
  "lane": 18,
  "created": "2026-11-16T00:23:07.880Z",
- "status": "pending",
+ "status": "done",
  "repair": "lines taken back by Claude in its own reply, translated again (scripts/batch-repair.mjs)",
  "repairLines": {
   "Kwg33C4NWrU": [
@@ -2666,5 +2666,20 @@
   "BftyfgDZJ1c.p25",
   "BftyfgDZJ1c.p26",
   "BftyfgDZJ1c.p27"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "Kwg33C4NWrU",
+  "LpBdLOddE3g",
+  "abFqEuLYJfQ",
+  "vvvuETlA8nQ",
+  "w9dMhneZXuc",
+  "Qy9fFvnoDsU",
+  "q44xDTXasHE",
+  "s2nPtwSd-UQ",
+  "IGxVS2HlkEU",
+  "EtB_bNOMReA",
+  "BftyfgDZJ1c"
+ ],
+ "skipped": []
 }
