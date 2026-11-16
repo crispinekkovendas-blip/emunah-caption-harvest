@@ -105,9 +105,7 @@ jobs:
           # then found no files. Now 15 tries with random waits, and a batch that is not on the branch stops here.
           if ! git diff --cached --quiet; then
             git commit -q -m "video-batches: ${{ steps.make.outputs.batch }} (lane ${{ inputs.lane }}) — work files"
-            ok=0
-            for i in $(seq 1 15); do git pull --rebase -q && git push -q && { ok=1; break; }; sleep $((RANDOM % 10 + i * 2)); done
-            [ "$ok" = 1 ] || { echo "::error::the work files could not be pushed — nothing translated this run"; exit 1; }
+            bash scripts/push-retry.sh branch || { echo "::error::the work files could not be pushed — nothing translated this run"; exit 1; }
           fi
 
   translate:
@@ -233,13 +231,18 @@ jobs:
             echo "::warning::$CHUNK not translated (exit $code) — the next run retries it"
             grep -ihE "limit|rate|quota|error|login" usage.json err.txt | head -5 || true
           fi
-          # a helping lane pushes each piece at once — the owner skips it, and the owner's publish uses it
-          if [ "${{ needs.make.outputs.help }}" = true ] && [ -s "$OUT" ]; then
+          # EVERY lane pushes each piece at once. 2026-11-07: a helping lane did (the owner skips it, and the owner's
+          # publish uses it). 2026-11-16 (the big run): the owner does too — its pieces used to wait in the run's
+          # artifacts until publish, where no helper could see them: 60 pieces were translated by both, and when the
+          # publish push then failed (5 runs, see scripts/push-retry.sh) about 65 more were lost and translated again.
+          # A piece already on the branch stays as it is (the other lane's copy may be published); the usage record
+          # of this one still lands.
+          if [ -s "$OUT" ]; then
             git config user.name "video-batches"
             git config user.email "actions@github.com"
             git add "$OUT" "$D/$BATCH/out/$CHUNK".r*.usage.json $([ -s "$PART" ] && echo "$PART")
-            git commit -q -m "video-batches: $BATCH — $CHUNK (lane ${{ inputs.lane }} helping)"
-            for i in $(seq 1 15); do git pull --rebase -q && git push -q && break; sleep $((RANDOM % 10 + i * 2)); done
+            git commit -q -m "video-batches: $BATCH — $CHUNK (lane ${{ inputs.lane }}$([ "${{ needs.make.outputs.help }}" = true ] && echo ' helping'))"
+            bash scripts/push-retry.sh branch || echo "::warning::$CHUNK could not be pushed — it still reaches publish through the run's files"
           fi
       - if: steps.tr.outputs.limit == 'true'
         uses: actions/cache/save@v4
@@ -311,19 +314,23 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 24
-      - name: Count the outputs already there
-        run: echo "BEFORE=$(ls video-batches/${{ needs.make.outputs.batch }}/out/*.p*.txt 2>/dev/null | wc -l)" >> "$GITHUB_ENV"
+      # the pieces are on the branch already (each one is pushed at once); the run's files are the fallback for a
+      # piece whose push failed, and hold this run's own copy of a piece another lane pushed first
       - uses: actions/download-artifact@v4
         with:
           pattern: out-*
           merge-multiple: true
           path: video-batches/${{ needs.make.outputs.batch }}/out
       - id: progress
-        name: Did this run translate anything?
+        name: Did the pieces of this run get translated?
+        env:
+          CHUNKS: ${{ needs.make.outputs.chunks }}
+          BATCH: ${{ needs.make.outputs.batch }}
         run: |
-          AFTER=$(ls video-batches/${{ needs.make.outputs.batch }}/out/*.p*.txt 2>/dev/null | wc -l)
-          echo "translated this run: $((AFTER - BEFORE))"
-          echo "made=$((AFTER - BEFORE))" >> "$GITHUB_OUTPUT"
+          # the pieces this run was given (none had an output when it started) that have one now, by this lane or a helper
+          n=$(node -e 'const fs = require("fs"); let c = []; try { c = JSON.parse(process.env.CHUNKS || "[]") } catch {}; console.log(c.filter((x) => fs.existsSync("video-batches/" + process.env.BATCH + "/out/" + x + ".txt")).length)')
+          echo "pieces of this run translated: $n"
+          echo "made=$n" >> "$GITHUB_OUTPUT"
       - id: publish
         name: Check and publish the finished lessons
         env:
@@ -336,10 +343,9 @@ jobs:
           git config user.email "actions@github.com"
           git add video-batches
           git diff --cached --quiet || git commit -m "video-batches: ${{ needs.make.outputs.batch }} — translations and report"
-          # 15 tries with random waits (20 lanes push at once); a report never pushed is an error, not silence
-          ok=0
-          for i in $(seq 1 15); do git pull --rebase -q && git push -q && { ok=1; break; }; sleep $((RANDOM % 10 + i * 2)); done
-          [ "$ok" = 1 ] || { echo "::error::the translations and report could not be pushed"; exit 1; }
+          # 15 tries with random waits (20 lanes push at once); a piece a helper pushed meanwhile is settled in favour
+          # of the copy just published (scripts/push-retry.sh); a report never pushed is an error, not silence
+          bash scripts/push-retry.sh mine || { echo "::error::the translations and report could not be pushed"; exit 1; }
       - name: Keep the lane going (the next batch, or the rest of this one)
         if: (steps.publish.outputs.complete == 'true' || steps.progress.outputs.made != '0') && inputs.chain != false
         env:
