@@ -1,0 +1,120 @@
+480	Yamma, ahhhhh	Yamma, ahhhhh
+481	Ayma, yima, yima	Ayma, yima, yima
+482	Yima, yima, yima, yima, yima	Yima, yima, yima, yima, yima
+483	Yima	Yima
+484	Yima, yima	Yima, yima
+485	Ay, amma, amma, amma, amma, amma, amma, amma, amma	Ay, amma, amma, amma, amma, amma, amma, amma, amma
+486	Amma, amma, amma, amma, amma, amma, amma, amma, amma	Amma, amma, amma, amma, amma, amma, amma, amma, amma
+487	Amma, amma, amma, amma, ay, ay	Amma, amma, amma, amma, ay, ay
+488	Ay, ay, ay	Ay, ay, ay
+489	Ay, ay, ay, … for they will stir the heart	Ay, ay, ay, … pois despertarão o coração
+490	the heart, for they will stir the heart, in my soul …	o coração, pois despertarão o coração, na minha alma …
+491	…, for they will stir the heart.	…, pois despertarão o coração.
+492	For they will stir … in my soul … Israel.	Pois despertarão … na minha alma … Israel.
+493	…	…
+494	Touch, touch, touch, …	Toque, toque, toque, …
+495	…	…
+496	Only …	Somente …
+497	Only …	Somente …
+498	To me, to me, to me, to me, to me, yamma.	A mim, a mim, a mim, a mim, a mim, yamma.
+499	Ay, lailah, lailah, lailah, lailah, lailah	Ay, lailá, lailá, lailá, lailá, lailá
+500	Lailah, lailah, lailah	Lailá, lailá, lailá
+501	Ay, ay, ay, ay, Ima, Ima, Ima, thank …	Ay, ay, ay, ay, Ima, Ima, Ima, graças …
+502	…, for then … the heart, for then … the heart,	…, pois então … o coração, pois então … o coração,
+503	in the soul of …, thank …, for then …	na alma de …, graças …, pois então …
+504	the heart, for then … the heart, in the soul of	o coração, pois então … o coração, na alma de
+505	…, dai, dai,	…, dai, dai,
+506	Dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai,	Dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai,
+507	Dai, dai, dai, dai, dai, dai, dai, dai,	Dai, dai, dai, dai, dai, dai, dai, dai,
+508	Dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai,	Dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai,
+509	Dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai,	Dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai, dai,
+510	Da … in my soul …	Da … na minha alma …
+511	Lai, lai, lai, lai, lai, lai, lai, lai, lai, lai, ay, ay, ay, ay, lai, …	Lai, lai, lai, lai, lai, lai, lai, lai, lai, lai, ay, ay, ay, ay, lai, …
+512	Rami, rami, rami, rami, rami, rami, rami, rami, rami,	Rami, rami, rami, rami, rami, rami, rami, rami, rami,
+513	Rami, rami, rami, rami, rami, rami,	Rami, rami, rami, rami, rami, rami,
+514	Rami, rami, rami, rami, rami, rami.	Rami, rami, rami, rami, rami, rami.
+515	… still … and …	… ainda … e …
+516	… and …	… e …
+517	…, …, … and …, … still	…, …, … e …, … ainda
+518	… and …	… e …
+519	… and …	… e …
+520	Perhaps, perhaps, perhaps, … still …	Talvez, talvez, talvez, … ainda …
+521	… joy, and …	… alegria, e …
+522	…	…
+523	Ori, ori, ori, … still …	Ori, ori, ori, … ainda …
+524	… joy, and …	… alegria, e …
+525	…	…
+526	Odam, odam, odam, odam …, odam …, woe to him,	Odam, odam, odam, odam …, odam …, ai dele,
+527	… and joy, and odam, …	… e alegria, e odam, …
+528	…, odam, odam, odam …,	…, odam, odam, odam …,
+529	woe to him, …	ai dele, …
+530	Ya, ya, ya, odi, modi, modi, modi, modi, modi, modi, modi, modi, modi, modi, modi, modi, modi, modi, modi	Ya, ya, ya, odi, modi, modi, modi, modi, modi, modi, modi, modi, modi, modi, modi, modi, modi, modi, modi
+531	Modi, modi, modi, modi, modi, modi, modi, modi, modi	Modi, modi, modi, modi, modi, modi, modi, modi, modi
+532	Modi, modi, modi, modi, modi, modi, modi, modi, mod …	Modi, modi, modi, modi, modi, modi, modi, modi, mod …
+533	…, …, still not	…, …, ainda não
+534	woe to him.	ai dele.
+535	Ve-lailah, ve-lailah, ve-lailah, la la la la la la la la la la la la la	Ve-lailá, ve-lailá, ve-lailá, la la la la la la la la la la la la la
+536	La la la la la la la la la la la la	La la la la la la la la la la la la
+537	La la la la la la la la la la la la la la la	La la la la la la la la la la la la la la la
+538	La la la la la la la la la la la	La la la la la la la la la la la
+539	La la la la la … od, od, od,	La la la la la … od, od, od,
+540	Od, od … Od, od … until	Od, od … Od, od … até
+541	the world.	o mundo.
+542	L'chaim, l'chaim.	L'chaim, l'chaim.
+543	Blessed	Abençoados
+544	l'chaim.	l'chaim.
+545	We were in the middle of explaining the verse	Estávamos no meio de explicar o versículo
+546	of the seven species, in order to reach the olive, "a land of olive	das sete espécies, para chegar à azeitona, "uma terra de azeite de
+547	oil."	oliva."
+548	We said that although there are seven species, there are ten words	Dissemos que, embora haja sete espécies, há dez palavras
+549	in the verse; of those ten, twice there is	no versículo; dessas dez, duas vezes aparece
+550	the word "Eretz."	a palavra "Eretz".
+551	We said that every "Eretz" is a beginning.	Dissemos que todo "Eretz" é um começo.
+552	In the beginning there is yesh me'ayin,	No começo há yesh me'ayin,
+553	so first we must explain why yesh me'ayin is specifically in the land.	então primeiro é preciso explicar por que o yesh me'ayin está justamente na terra.
+554	This is written in the Tanya.	Isso está escrito no Tanya.
+555	Of all the ten utterances of the acts of Creation, where everything was creation yesh me'ayin,	De todas as dez falas da obra da Criação, em que tudo foi criação yesh me'ayin,
+556	the yesh me'ayin remained only in the earth, which is the power of growth	o yesh me'ayin permaneceu somente na terra, que é a força do crescimento
+557	in the earth, as he explains in the Tanya.	na terra, como ele explica no Tanya.
+558	That is, there is something in the earth: "Emet me'Eretz titzmach," emet is Yesod shebeYesod,	Ou seja, há algo na terra: "Emet me'Eretz titzmach", emet é Yesod shebeYesod,
+559	for in the earth there is the revelation of the Ayin.	pois na terra há a revelação do Ayin.
+560	Divine Ayin: "Eretz zeit shemen."	Ayin divino: "Eretz zeit shemen".
+561	So there is a new beginning here.	Portanto, há aqui um novo começo.
+562	But if there are ten words, if I also need to correlate the ten sefirot, let's start with the explanation	Mas se há dez palavras, se também preciso correlacioná-las com as dez sefirot, comecemos com a explicação
+563	of the Arizal.	do Arizal.
+564	We said that one can correlate the seven weeks of the Sefirat HaOmer	Dissemos que é possível correlacionar as sete semanas da Sefirat HaOmer
+565	with the seven species.	com as sete espécies.
+566	But according to that, wheat should be the first week, of Chesed, and barley that of Gevurah,	Mas, por isso, o trigo deveria ser a primeira semana, de Chesed, e a cevada a de Gevurah,
+567	and so on.	e assim por diante.
+568	But the Arizal explains a little differently.	Mas o Arizal explica de modo um pouco diferente.
+569	It doesn't contradict, but it says wheat is Chochmah and barley is Binah, as	Não contradiz, mas diz que o trigo é Chochmah e a cevada é Binah, como
+570	we said earlier, that the shiurim, which relates to barley (se'orah), the source of all	dissemos antes, que os shiurim, que têm a ver com a cevada (se'orah), a fonte de todos
+571	the shiurim, especially the olive, the kazayit, which is	os shiurim, especialmente a azeitona, o kazayit, que é
+572	Shaul mi-Rechovot haNahar, this is in Imma.	Shaul mi-Rechovot haNahar, isso está em Imma.
+573	So indeed, because shiurim relate to the sha'arim of Imma, therefore	Então, de fato, porque os shiurim pertencem aos portões de Imma, por isso
+574	the Arizal says that barley is Imma, it is Binah.	o Arizal diz que a cevada é Imma, é Binah.
+575	In wheat, he says, it is the twenty-two	No trigo, diz ele, são as vinte e duas
+576	letters, which is Oraita, and "Oraita me'Chochmah nafkat."	letras, que é Oraita, e "Oraita me'Chochmah nafkat".
+577	And therefore wheat, the place of wheat, for also the bread, in which there is	E por isso o trigo, o lugar do trigo, pois também o pão, no qual há
+578	"that which comes out of the mouth of HaShem," by which man lives; Chochmah gives life,	"o que sai da boca de HaShem", do qual o homem vive; a Chochmah dá vida,
+579	therefore he places wheat in Chochmah and	por isso ele coloca o trigo em Chochmah e
+580	barley in Binah.	a cevada em Binah.
+581	But afterward he skips; he says the vine is Tiferet	Mas depois ele salta; diz que a videira é Tiferet
+582	and the fig is Netzach, the pomegranate Hod, as in the Zohar.	e a figueira é Netzach, a romã é Hod, como no Zohar.
+583	Lag baOmer is in essence, according to all opinions, pomegranate of pomegranate.	Lag baOmer é, na essência, segundo todas as opiniões, romã da romã.
+584	So if we want to include a special food of the seven species for Lag baOmer,	Então, se quisermos incluir um alimento especial das sete espécies para Lag baOmer,
+585	it is pomegranate of pomegranate.	é a romã da romã.
+586	And today, Yesod shebeYesod, is olive of olive, and Malchut shebeMalchut, the last day,	E hoje, Yesod shebeYesod, é azeitona da azeitona, e Malchut shebeMalchut, o último dia,
+587	is already honey of honey.	já é mel do mel.
+588	But again here he skips over two	Mas aqui ele de novo pula duas
+589	sefirot.	sefirot.
+590	Chesed and Gevurah.	Chesed e Gevurah.
+591	But here there are two "Eretz," and the two of the two "Eretz" is the beginning.	Mas aqui há dois "Eretz", e os dois "Eretz" são o começo.
+592	What are the two beginnings in the sefirot?	Quais são os dois começos nas sefirot?
+593	The simple beginning is especially with wheat and barley, which are	O começo simples é especialmente com o trigo e a cevada, que são
+594	Chochmah and Binah, so what must Eretz be?	Chochmah e Binah, então o que deve ser o Eretz?
+595	The first Eretz.	O primeiro Eretz.
+596	It must be Keter, which is truly the beginning, the Rosh.	Deve ser Keter, que é de fato o começo, o Rosh.
+597	The head of the sefirot is certainly yesh me'ayin, the Keter.	O topo das sefirot é certamente yesh me'ayin, o Keter.
+598	There is also the inner dimension of Keter and the outer dimension of Keter, but	Há também a interioridade de Keter e a exterioridade de Keter, mas
+599	everything is the aspect of Ayin that comes into being	tudo é o aspecto de Ayin que passa a existir

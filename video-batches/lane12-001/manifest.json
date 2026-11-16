@@ -2,7 +2,7 @@
  "name": "lane12-001",
  "lane": 12,
  "created": "2026-11-15T23:08:16.957Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "n0hMVINWIp0",
@@ -150,5 +150,19 @@
   "U3oaBuCtCRA.p0",
   "U3oaBuCtCRA.p1",
   "U3oaBuCtCRA.p2"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "n0hMVINWIp0",
+  "0HE_PUn51dg",
+  "yTLbt7MaVKo",
+  "Egu5Q1dD6j4",
+  "Pr2YWPsFBc8",
+  "o0h6s1zDKqs",
+  "YbB8bIwtNfU",
+  "D0NPeJcmPBA",
+  "uYfbRJUIAxY",
+  "U3oaBuCtCRA"
+ ],
+ "skipped": []
 }
