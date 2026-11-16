@@ -1,0 +1,120 @@
+0	Hello, welcome to another festive edition of Tandu,	Olá, bem-vindos a mais uma edição festiva do Tandu,
+1	the show of the honorable Rabbi Avraham Mordechai Gottlieb and of your devoted servant.	o programa do honrado Rabino Avraham Mordechai Gottlieb e deste seu servo dedicado.
+2	Your honor, do you regret your actions this year?	Vossa Senhoria se arrepende dos seus atos este ano?
+3	No.	Não.
+4	No.	Não.
+5	I don't regret anything.	Não me arrependo de nada.
+6	Exactly.	Exatamente.
+7	If I could, I would do it all again.	Se eu pudesse, faria tudo de novo.
+8	That's not true.	Isso não é verdade.
+9	It's a satirical statement, but it isn't true.	É uma frase satírica, mas não é verdadeira.
+10	No, why not?	Não? Por que não?
+11	Because you can't repeat anything.	Porque não se pode repetir nada.
+12	No.	Não.
+13	Everything is new.	Tudo é novo.
+14	Look.	Veja.
+15	You can look back and say, in my eyes right now,	Você pode olhar para trás e dizer: aos meus olhos, neste momento,
+16	I erred.	eu errei.
+17	Yes.	Sim.
+18	I understand that in retrospect everything I did was exact.	Entendo que, em retrospectiva, tudo o que fiz foi preciso.
+19	Right.	Certo.
+20	Everything I did was for the good.	Tudo o que fiz foi para o bem.
+21	Yes.	Sim.
+22	But that doesn't mean I would do it again.	Mas isso não quer dizer que eu faria de novo.
+23	Yes.	Sim.
+24	Because I wasn't settled, because I wasn't connected to myself in that moment.	Porque eu não estava centrado, não estava conectado comigo mesmo naquele momento.
+25	I wasn't.	Não estava.
+26	I wasn't accurate at all in that moment.	Não fui nada preciso naquele momento.
+27	In the end it turned out well.	No fim, deu certo.
+28	In the end it turned out well, but there are more pleasant and shorter ways to reach	No fim, deu certo, mas há caminhos mais agradáveis e mais curtos para chegar
+29	the place I want to reach.	ao lugar aonde quero chegar.
+30	Got it.	Entendi.
+31	Now, what is charatá?	Agora, o que é charatá?
+32	Regret.	Arrependimento.
+33	That too, but also from the root "to engrave."	Também, mas também da raiz de "gravar".
+34	When you regret something, you are actually engraving a past event, engraving it in your history.	Quando você se arrepende de algo, na verdade grava um acontecimento passado, grava-o na sua história.
+35	You immortalize it.	Você o eterniza.
+36	Instead of letting it pass and understanding that everything is within the stream, within the general direction	Em vez de deixá-lo passar e entender que tudo está dentro da corrente, dentro da direção geral
+37	in which your life is conducted, which you don't know, but there is one.	em que a sua vida é conduzida, que você não conhece, mas que existe.
+38	Yes.	Sim.
+39	Yes?	Sim?
+40	The moment you regret, you fix a certain event in place and attach	No momento em que você se arrepende, fixa um certo acontecimento e o anexa
+41	it, as it were, to your résumé...	como que ao seu currículo...
+42	Thank you very much.	Muito obrigado.
+43	Thank you.	Obrigado.
+44	You attach it to your negative résumé.	Você o anexa ao seu currículo negativo.
+45	Why?	Para quê?
+46	There's no need.	Não há necessidade.
+47	Right.	Certo.
+48	Therefore there are...	Por isso há...
+49	three terms: there is kapará, there is seliḥá, and there is mechilá.	três termos: há kapará, há seliḥá e há mechilá.
+50	Three terms.	Três termos.
+51	So kapará is cleansing, as if I believe that I am actually clean, I have a very	Então kapará é limpeza: acredito que sou, na verdade, limpo, tenho uma alma
+52	clean soul; it is the outer shell.	muito limpa; é a casca exterior.
+53	And therefore, seliḥá: seliḥá comes from "sending." I send these things away from me, I	E depois, seliḥá: seliḥá vem de "enviar". Envio essas coisas para longe de mim, eu
+54	don't want to stay with them, so they won't dance in my head anymore, and so I won't live in some kind of	não quero ficar com elas, para que não dancem mais na minha cabeça, e para não viver em
+55	self-accusations.	autoacusações.
+56	And finally, mechilá.	E por fim, mechilá.
+57	This is the most wonderful thing.	Isso é a coisa mais maravilhosa.
+58	Mechilá.	Mechilá.
+59	Mechilá means that the evil itself turns into good.	Mechilá significa que o próprio mal se transforma em bem.
+60	Which is simply astounding.	O que é simplesmente maravilhoso.
+61	It's not only that I send the evil away from me, but that the evil itself turns	Não é só que eu envio o mal para longe de mim, mas que o próprio mal se transforma
+62	into good.	em bem.
+63	Mechilá comes from the expression "michal yakrena."	Mechilá vem da expressão "michal yakrena".
+64	It's a phrase in the Gemara.	É uma expressão da Guemará.
+65	Okay.	Certo.
+66	There is a principal.	Existe o capital.
+67	"Michal yakrena," there is a principal.	"Michal yakrena", existe o capital.
+68	Say you have real estate, there are the fruits.	Digamos que você tenha um imóvel, e há os frutos.
+69	Yes.	Sim.
+70	You mention real estate and so on.	Você mencionou o imóvel e assim por diante.
+71	So sometimes someone harms you only in the fruits, and sometimes someone harms you even in the principal.	Às vezes alguém prejudica você só nos frutos, e às vezes alguém prejudica você até no capital.
+72	Of course.	Claro.
+73	He consumes your principal.	Ele consome o seu capital.
+74	Yes.	Sim.
+75	So here, in the way of the good, they say that intentional sins become merits.	Então aqui, pelo caminho do bem, diz-se que os erros intencionais se transformam em méritos.
+76	So the principal itself, in which you think of yourself as a traitor, wicked, or whatever, the principal itself	Assim, o próprio capital, em que você se considera traidor, perverso ou o que for, o próprio capital
+77	is consumed.	é consumido.
+78	Perfectly fine.	Perfeitamente.
+79	That is called mechilá.	Isso se chama mechilá.
+80	Nice, but all this requires self-work.	Bonito, mas tudo isso exige trabalho interior.
+81	None of this works without real reflection.	Nada disso funciona sem uma reflexão verdadeira.
+82	Right.	Certo.
+83	"For Rachel your younger daughter," if you have one, and if not, then for Leah or	"Por Raquel, tua filha mais nova", se você tiver uma, e se não, então por Léa ou
+84	Vigyen, or whatever your daughter is called.	Vigyen, ou como quer que se chame a sua filha.
+85	That is, it's not that in every case your intentional sins turn into...	Quer dizer, não é que em todo caso os seus erros intencionais se transformem em...
+86	merits.	méritos.
+87	Right.	Certo.
+88	It's a matter of perception.	É uma questão de percepção.
+89	Of course.	Claro.
+90	You have to work on yourself: first of all kapará,	Você precisa trabalhar em si mesmo: primeiro kapará,
+91	to cleanse yourself, to believe that you are perfectly fine.	purificar-se, acreditar que você está perfeitamente bem.
+92	Don't drag behind you all the rabid dogs.	Não arraste atrás de si todos os cães raivosos.
+93	And afterward, seliḥá, to send the things away, I don't identify with them, and afterward mechilá.	E depois, seliḥá, enviar as coisas para longe, não me identifico com elas, e depois mechilá.
+94	The evil turns into good, you are completely clean.	O mal se transforma em bem, e você fica completamente limpo.
+95	And if we are in the days of forgiveness,	E se estamos nos dias de perdão,
+96	maybe we can bring here a shaking statement	talvez possamos trazer aqui uma frase marcante
+97	of Yemima, who says: there is no forgiveness in	de Yemima, que diz: não há perdão no
+98	the field of awareness on the side of the one who forgives.	campo da consciência do lado de quem perdoa.
+99	What does that mean?	O que isso quer dizer?
+100	It means...	Quer dizer...
+101	that especially before Yom Kippur, many of us sit by the phone, waiting for someone to call and ask	que, especialmente antes de Yom Kipur, muitos de nós ficam sentados ao lado do telefone, esperando que alguém ligue e peça
+102	their forgiveness for what seems to them that they should be asked forgiveness for, right?	perdão por aquilo que lhes parece que merece um pedido de perdão, certo?
+103	But...	Mas...
+104	I don't wait, and if such a thing were to happen, it would make me totally irritated.	Eu não espero, e se uma coisa dessas acontecesse, me deixaria completamente irritado.
+105	I wait a little, actually.	Eu espero um pouco, na verdade.
+106	And the point is that if you need to ask someone's forgiveness, there is a point in asking forgiveness,	E o ponto é que, se você precisa pedir perdão a alguém, faz sentido pedir perdão,
+107	right?	certo?
+108	But...	Mas...
+109	when you wait for someone to ask your forgiveness, you first need to report to yourself why you were hurt.	quando você espera que peçam o seu perdão, primeiro precisa se perguntar por que você se magoou.
+110	That is, did you come with the hurt already prepared, as Yemima says?	Quer dizer, você já chegou com a mágoa pronta, como diz Yemima?
+111	Did you already come in order to be hurt?	Você já chegou para se magoar?
+112	Were you hurt because you didn't see that the one who hurt you is far from himself right now?	Você se magoou porque não viu que quem o magoou está longe de si mesmo agora?
+113	He isn't accurate.	Ele não está sendo preciso.
+114	He is trying to project onto you his bitter inner journey, and you happened to be there	Ele tenta projetar em você a sua amarga jornada interior, e você estava ali
+115	by chance, or not by chance, right?	por acaso, ou não por acaso, certo?
+116	But you are not the point.	Mas você não é o assunto.
+117	And therefore there is no need for that forgiveness, because if you are a person who sees	E por isso não há necessidade desse perdão, pois se você é alguém que vê
+118	reality rightly, you are invulnerable.	a realidade corretamente, você é invulnerável.
+119	You can't be hurt, because you always understand that the hurt is not about you, but	Não é possível magoar você, porque você sempre entende que a mágoa não é contra você, mas
