@@ -2,7 +2,7 @@
  "name": "lane14-901",
  "lane": 14,
  "created": "2026-11-16T00:23:07.841Z",
- "status": "pending",
+ "status": "done",
  "repair": "lines taken back by Claude in its own reply, translated again (scripts/batch-repair.mjs)",
  "repairLines": {
   "H4S7y8-5Vvg": [
@@ -2045,5 +2045,19 @@
   "MnOMG7feQRw.p4",
   "MnOMG7feQRw.p5",
   "MnOMG7feQRw.p6"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "H4S7y8-5Vvg",
+  "SUaaHPDeuGY",
+  "ADslkOmGwbY",
+  "QNL3vz5Vjy4",
+  "XtfrxjcIaFY",
+  "XcJdkXd6t-A",
+  "YUBOQkThUgA",
+  "dZLfVho4CmQ",
+  "FWCuPqWYkBM",
+  "MnOMG7feQRw"
+ ],
+ "skipped": []
 }
