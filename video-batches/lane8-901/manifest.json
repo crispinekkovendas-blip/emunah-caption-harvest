@@ -2,7 +2,7 @@
  "name": "lane8-901",
  "lane": 8,
  "created": "2026-11-16T00:23:07.768Z",
- "status": "pending",
+ "status": "done",
  "repair": "lines taken back by Claude in its own reply, translated again (scripts/batch-repair.mjs)",
  "repairLines": {
   "T29WNCBs5e8": [
@@ -406,5 +406,12 @@
   "m-wedGkrzmI.p7",
   "m-wedGkrzmI.p8",
   "m-wedGkrzmI.p9"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "T29WNCBs5e8",
+  "Ia_QIk-dUWk",
+  "m-wedGkrzmI"
+ ],
+ "skipped": []
 }
