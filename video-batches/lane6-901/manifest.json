@@ -2,7 +2,7 @@
  "name": "lane6-901",
  "lane": 6,
  "created": "2026-11-16T00:23:07.762Z",
- "status": "pending",
+ "status": "done",
  "repair": "lines taken back by Claude in its own reply, translated again (scripts/batch-repair.mjs)",
  "repairLines": {
   "guohen2mcaY": [
@@ -1317,5 +1317,17 @@
   "SAp0BpXyLRw.p5",
   "SAp0BpXyLRw.p6",
   "SAp0BpXyLRw.p7"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "guohen2mcaY",
+  "r-i2no69y54",
+  "uqTzb2Xk2jI",
+  "bUvBIdXauGA",
+  "ZLSLRZ0r6q4",
+  "nfzKMSTiwDM",
+  "mAAAF0OPScw",
+  "SAp0BpXyLRw"
+ ],
+ "skipped": []
 }
