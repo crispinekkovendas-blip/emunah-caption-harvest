@@ -2,7 +2,7 @@
  "name": "lane15-901",
  "lane": 15,
  "created": "2026-11-16T00:23:07.848Z",
- "status": "pending",
+ "status": "done",
  "repair": "lines taken back by Claude in its own reply, translated again (scripts/batch-repair.mjs)",
  "repairLines": {
   "Hmnf91Mpkuk": [
@@ -1210,5 +1210,15 @@
   "zyojb1HS4lU.p6",
   "zyojb1HS4lU.p7",
   "zyojb1HS4lU.p8"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "Hmnf91Mpkuk",
+  "sMvJLdvbc08",
+  "JQMw3HUczrM",
+  "fugarMbiezI",
+  "FV-ElKpJUTQ",
+  "zyojb1HS4lU"
+ ],
+ "skipped": []
 }
