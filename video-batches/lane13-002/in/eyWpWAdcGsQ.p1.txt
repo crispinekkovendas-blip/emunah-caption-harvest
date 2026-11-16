@@ -1,0 +1,84 @@
+videoId: eyWpWAdcGsQ
+parte 2 de 2 · traduzir as linhas 120 a 179 (60 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zohar Vayikra 13b: teshuvá antes que o dia sopre
+RESUMO: A aula comenta o Zohar em Vayikra 13b, a partir de Shir HaShirim 2:17, "até que sopre o dia e fujam as sombras". Rabi Yossi diz que a alma deve se guardar do pecado e fazer teshuvá antes que chegue o dia em que o Rei exige o julgamento. Na hora da partida o tzelem do homem é retirado, e Rabi Elazar explica que o homem saudável tem dois tzelamim, por isso o versículo diz "sombras" no plural. A teshuvá feita depois que as sombras se foram vale, mas não é plena, e o Zohar cita Kohelet 12:1: "lembra-te do teu Criador nos dias da tua juventude". Depois o Zohar lê "e a alma que pecar" (Vayikra 5:1) como o juramento que HaShem faz a toda alma antes de descer ao mundo, e "ou viu ou soube" como pecados voluntários e involuntários. Rabi Abba lê Tehilim 44: "zot" no feminino indica a Malchut, de onde vêm os decretos; esquecer a Torá é esquecer o Santo, Bendito Seja; e mentir na brit é mentir no Nome gravado no homem. A aula termina com a Torá "presa" à brit, como em Avraham (Bereshit 26:5) e em Yitzchak (Bereshit 17:21).
+MOMENTOS: 00:03 Rabi Yossi: fazer teshuvá antes que o dia sopre · 01:35 Na partida do mundo, o tzelem se retira do homem · 03:01 Rabi Elazar: dois tzelamim e as "sombras" no plural · 04:25 Olhar os próprios atos e confessar a HaShem · 05:06 Teshuvá depois da retirada das sombras não é plena · 06:46 A alma jurou antes de descer: "e a alma que pecar" · 08:35 "Ou viu ou soube": pecado voluntário e involuntário · 10:11 Rabi Abba: por que "tudo isso" está no feminino · 12:10 Esquecer a Torá é esquecer o Santo, Bendito Seja · 12:45 Mentir na brit e o Nome gravado no homem · 13:55 "Se esquecemos o nome do nosso Elokim" (Tehilim 44) · 15:23 Avraham e Yitzchak: a Torá presa à brit
+FONTES CITADAS: 00:03 Zohar, Vayikra 13b · 00:35 Shir HaShirim 2:17 · 01:35 Zohar, Vayikra 13b · 02:16 Zohar, Vayechi · 02:39 Bereshit 2:7 · 03:01 Zohar, Vayikra 13b (Rabi Elazar) · 03:14 Shir HaShirim 2:17 · 04:25 Zohar, Vayikra 13b · 04:42 Mishlei 28:13 · 04:49 Shemot 34:6 · 05:12 Zohar, Vayikra 13b · 05:12 Kohelet 12:1 · 06:22 Kohelet 12:1 · 06:46 Zohar, Vayikra 13b · 07:05 Vayikra 5:1 · 08:35 Vayikra 5:1 · 08:53 Zohar, Vayikra 13b · 09:35 Vayikra 5:1 · 09:47 Zohar, Vayikra 13b · 10:11 Tehilim 44:18 · 10:24 Matok MiDvash sobre o Zohar, Vayikra 13b · 11:34 Zohar, Vayikra 13b (Rabi Abba) · 12:10 Zohar, Vayikra 13b · 12:45 Zohar, Vayikra 13b · 13:25 Devarim 30:12 · 13:25 Matok MiDvash sobre o Zohar, Vayikra 13b · 13:55 Tehilim 44:21 · 14:36 Tehilim 44:18 · 14:42 Zohar, Vayikra 13b · 15:01 Zohar, Vayikra 13b · 15:30 Bereshit 26:5 · 16:16 Bereshit 17:21
+
+LINHAS ANTERIORES (só contexto, NÃO traduzir):
+108|10:11|נפש כי תחתה רבי אבא פתח כל זאת בעטנו ולא שכחנוך
+109|10:17|ולא שיקרנו בבריתך כל זאת בעטנו כל אלו באו עלינו מבעלי
+110|10:24|רבי אבא דורש עכשיו את הפסוק בתהילים אמנם הוא פותח בנפש כי תחתה
+111|10:31|אבל במתוק מדבש אומר לא מצינו במאמר הבא פירוש על פסוק זה אלא
+112|10:36|מדבר על עניין הברית כדלקמן אז דורשים פה בעיקר את הפסוק
+113|10:42|בתהילים ורבי אבא שואל למה כתוב כל
+114|10:48|זאת בעטנו בלשון נקבה ולא שכחנוך ולא שיכרנו
+115|10:53|בבריתך למה כתוב זאת בעטנו בלשון נקבה הרי מדובר פה ב...
+116|10:59|על כל הדברים שבאו על עם ישראל למה לשון נקבה
+117|11:07|כל אלו באו עלינו מבעילי צריך להגיד בלשון זכר אלא
+118|11:13|עונה כל דינים דילעילה עטו עלנה ולא שכחנוכה
+119|11:18|ולאן שנה מילולי אורייתך מכאן או לפנה כל מן
+
+LINHAS A TRADUZIR:
+120|11:24|דעין שמילולי אורייתה ולבא למילי בה כאילו אנשי לקודשא בריחו
+121|11:30|דאורייתא כולה שמע דקודשא בריחו האבי.
+122|11:34|אז אומר פה הכוונה זאת היא המלכות שממנה
+123|11:40|מגיעים הדינים על האדם דינא דמלכותא ולכן
+124|11:47|הכתוב נוקט לשון זאת לשון נקבה בעטנו כל זאת
+125|11:53|בעטנו כלומר הדינים של מעלה שבאו
+126|11:58|עלינו מהמלכות שמענישה אותנו על כל החטאים שלנו
+127|12:04|והפסוק ממשיך ואומר ולא שכחנוך מה הכוונה
+128|12:10|לא שכחנו את דברי התורה מכאן אנחנו לומדים
+129|12:16|שאדם ששוכח את דברי התורה ולא עוסק בהם לא
+130|12:22|רוצה לעסוק בתורה כאילו שוכח את הקדוש ברוך הוא שכך נאמר
+131|12:28|בפסוק ולא שכחנוך ולא שיקרנו בבריתך כלומר מי
+132|12:33|שלא עמל בתורה כאילו שוכח את הקדוש ברוך הוא בכבודו ועצמו כי
+133|12:39|התורה היא שמו של הקדוש ברוך הוא ולא שיקרנו בבריתך זה המשך
+134|12:45|הפסוק בכל מן דמשקר בי בעיית קיימה קדישה דרשים בי
+135|12:51|כאילו משקר בשמה דמלכה בגין דשמא דמלכא יתרשים בי בורנש אז
+136|12:57|פה יש גם התייחסות לעניין של שמירת הברית שמי
+137|13:03|שמשקר בבריתו בעל בת אל נכר אז הוא פוגע
+138|13:09|באות ברית קודש בשמו של הקדוש ברוך הוא שרשום
+139|13:14|דרך ברית המילה וכאילו שהוא משקר בשמו של הקדוש ברוך הוא שכאילו
+140|13:21|מכיוון שהוא רשום באדם.
+141|13:25|מתוק מדבש אומר יש כאן רמז בפסוק מי יעלה לנו
+142|13:30|השמיימה שזה ראשי תיבות מילה וסופי תיבות יוד קי
+143|13:36|וקי.
+144|13:38|אז זה ממש לפי הסדר ראשי תיבות מילה מי יעלה לנו
+145|13:43|השמיימה וסופי תיבות מי יוד יעלה ה לנו ו
+146|13:49|השמיימה ה יוד קי וקי אז קשר בין מילה לבין שמו של הקדוש
+147|13:55|ברוך הוא וקרא אחרא אורי בי בהייקרא דכתיב אם שכחנו שם
+148|14:01|אלוקינו ונפרוש כפינו לאל זר אם שכחנו שם
+149|14:06|אלוקינו כי מה דעת אמר ולה שכחנוך כן אז זה באותו
+150|14:12|מזמור בתהילים מ"ד כמה פסוקים לאחר מכן אם שכחנו
+151|14:18|שם אלוקינו הכוונה קשור
+152|14:24|למה שנאמר קודם ולא שכחנוך ונפרוס כפינו לאל
+153|14:30|זר זה מי שבא על בת אל נכר ומשקר בבריתו
+154|14:36|ונפרוס כפינו לאל זר כי מה דעת אמר ולא שיקרנו בבריתך
+155|14:42|וכולה חד מילה מהי שקרהך על איזה שקר מדובר
+156|14:48|דפריס כפיו לרשות האחרא הוא משקר באי ברית הוא פורס את
+157|14:54|כפיו לאחוז בבת אל נכר ועל ידי זה הוא משקר בברית המילה בבריתו
+158|15:01|ועל דא אורייתא אחידת בהאי דקול מאן דנתיר אי ברית כאילו נתיר
+159|15:06|אורייתא כולה ומאן דמשקר באי כאילו משקר באורייתא כולה אז התורה
+160|15:12|אחוזה בברית כך שמי ששומר את הברית כאילו קיים את כל
+161|15:18|התורה ומי שמשקר בברית כאילו שיקר בכל התורה כולה.
+162|15:23|תחזה אברהם לה התגזעד לה התגזער הלא איתמר דאו נתירו רייתא.
+163|15:30|כיוון דה התגזער מכתיב עקב אשר שמע אברהם בקולי ואשמור
+164|15:36|משמרתי מצוותי חוקותי ותורותי.
+165|15:40|אז אברהם לפני שמל לא נזכר שהוא שמר
+166|15:46|את התורה אבל ‫אחרי כן, זה
+167|15:52|נאמר בפרשת תולדות, ‫עקב אשר שמע אברהם בקולי, ‫רק
+168|15:58|אז כתוב ואשמור משמרתי, ‫מצוותיי, חוקותיי ותורותיי, ‫נחשב
+169|16:04|שאברהם קיים את התורה.
+170|16:06|‫וכולה, בגינדי יתגזר, ‫ויתרשים ברשימה קדישה, ‫ונתיר לי
+171|16:12|כדכאיות, ‫סליק לי כאילו נטר אורייתא כולה.
+172|16:16|יצחק הופך הכתיב ואת בריתי הקים את יצחק ועל דא אורייתא
+173|16:23|יקרי ברית אז אברהם כיוון שמל ושמר את בריתו
+174|16:28|כראוי מעלה עליו הכתוב כאילו שמר את כל התורה כולה וזה עובר גם
+175|16:34|לבנו יצחק שנאמר בו ואת בריתי הקים את יצחק אז יש כאן
+176|16:40|משמעות כפולה את בריתי הקים את יצחק התורה
+177|16:46|מכיוון שאת בריתי הקים את יצחק, מכיוון שיצחק נימול,
+178|16:52|נימול לשמונה ושמר את הברית, לכן התורה אחוזה ביצחק.
+179|16:58|שלום.

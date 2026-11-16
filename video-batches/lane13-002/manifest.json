@@ -1,0 +1,148 @@
+{
+ "name": "lane13-002",
+ "lane": 13,
+ "created": "2026-11-16T01:08:56.100Z",
+ "status": "pending",
+ "lessons": [
+  {
+   "id": "eyWpWAdcGsQ",
+   "title": "Zohar Vayikra 13b: teshuvá antes que o dia sopre",
+   "lines": 180,
+   "parts": 2,
+   "from": "recente"
+  },
+  {
+   "id": "crQcqd0xnLE",
+   "title": "Lech Lecha: a caminhada de cima para baixo e de baixo para cima",
+   "lines": 274,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "VNtoNRjLwbs",
+   "title": "Noach no Shem MiShmuel: Shabat, nachat e alegria",
+   "lines": 719,
+   "parts": 6,
+   "from": "recente"
+  },
+  {
+   "id": "zr8oU5Z_gEI",
+   "title": "Chok LeIsrael, Parashá Noach – quinta-feira",
+   "lines": 534,
+   "parts": 5,
+   "from": "recente"
+  },
+  {
+   "id": "gylEZ0U5s8Q",
+   "title": "Likutei Moharan 2: oração, paciência e o Shemá",
+   "lines": 1147,
+   "parts": 10,
+   "from": "recente"
+  },
+  {
+   "id": "ImmKPBaGz6E",
+   "title": "O momento da virada: Yosef Mishita e a teshuvá",
+   "lines": 269,
+   "parts": 3,
+   "from": "recente"
+  },
+  {
+   "id": "K9G52M95kvI",
+   "title": "Vínculo de oração: o poder da tefilá no lar judaico",
+   "lines": 456,
+   "parts": 4,
+   "from": "mais fontes"
+  },
+  {
+   "id": "K2iuMNx5GhM",
+   "title": "Os dez mártires, Mashiach ben Yosef e os espiões",
+   "lines": 739,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "vtXzEbRc77E",
+   "title": "Janela e orifício estreito: Biná e Zeir Anpin em Atzilut",
+   "lines": 902,
+   "parts": 8,
+   "from": "mais fontes"
+  },
+  {
+   "id": "WTS9U4BGIVc",
+   "title": "Luz do Ruach e da Neshamá na Introdução ao Zohar",
+   "lines": 796,
+   "parts": 7,
+   "from": "mais fontes"
+  },
+  {
+   "id": "mZcmpXKuhgw",
+   "title": "Quebra dos Keilim: Melech HaDaat e a violação da Parsá",
+   "lines": 619,
+   "parts": 6,
+   "from": "mais fontes"
+  }
+ ],
+ "chunks": [
+  "eyWpWAdcGsQ.p0",
+  "eyWpWAdcGsQ.p1",
+  "crQcqd0xnLE.p0",
+  "crQcqd0xnLE.p1",
+  "crQcqd0xnLE.p2",
+  "VNtoNRjLwbs.p0",
+  "VNtoNRjLwbs.p1",
+  "VNtoNRjLwbs.p2",
+  "VNtoNRjLwbs.p3",
+  "VNtoNRjLwbs.p4",
+  "VNtoNRjLwbs.p5",
+  "zr8oU5Z_gEI.p0",
+  "zr8oU5Z_gEI.p1",
+  "zr8oU5Z_gEI.p2",
+  "zr8oU5Z_gEI.p3",
+  "zr8oU5Z_gEI.p4",
+  "gylEZ0U5s8Q.p0",
+  "gylEZ0U5s8Q.p1",
+  "gylEZ0U5s8Q.p2",
+  "gylEZ0U5s8Q.p3",
+  "gylEZ0U5s8Q.p4",
+  "gylEZ0U5s8Q.p5",
+  "gylEZ0U5s8Q.p6",
+  "gylEZ0U5s8Q.p7",
+  "gylEZ0U5s8Q.p8",
+  "gylEZ0U5s8Q.p9",
+  "ImmKPBaGz6E.p0",
+  "ImmKPBaGz6E.p1",
+  "ImmKPBaGz6E.p2",
+  "K9G52M95kvI.p0",
+  "K9G52M95kvI.p1",
+  "K9G52M95kvI.p2",
+  "K9G52M95kvI.p3",
+  "K2iuMNx5GhM.p0",
+  "K2iuMNx5GhM.p1",
+  "K2iuMNx5GhM.p2",
+  "K2iuMNx5GhM.p3",
+  "K2iuMNx5GhM.p4",
+  "K2iuMNx5GhM.p5",
+  "K2iuMNx5GhM.p6",
+  "vtXzEbRc77E.p0",
+  "vtXzEbRc77E.p1",
+  "vtXzEbRc77E.p2",
+  "vtXzEbRc77E.p3",
+  "vtXzEbRc77E.p4",
+  "vtXzEbRc77E.p5",
+  "vtXzEbRc77E.p6",
+  "vtXzEbRc77E.p7",
+  "WTS9U4BGIVc.p0",
+  "WTS9U4BGIVc.p1",
+  "WTS9U4BGIVc.p2",
+  "WTS9U4BGIVc.p3",
+  "WTS9U4BGIVc.p4",
+  "WTS9U4BGIVc.p5",
+  "WTS9U4BGIVc.p6",
+  "mZcmpXKuhgw.p0",
+  "mZcmpXKuhgw.p1",
+  "mZcmpXKuhgw.p2",
+  "mZcmpXKuhgw.p3",
+  "mZcmpXKuhgw.p4",
+  "mZcmpXKuhgw.p5"
+ ]
+}
