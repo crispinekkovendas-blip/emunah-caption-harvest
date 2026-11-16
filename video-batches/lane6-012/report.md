@@ -1,7 +1,7 @@
 # lane6-012
 
-17 of 25 lessons published · 0 skipped · status **pending**
-Tokens (113 agent runs with a record): 0.8M in (mostly cache) · 0.93M out · API-equivalent 11.95
+24 of 25 lessons published · 0 skipped · status **pending**
+Tokens (183 agent runs with a record): 1.4M in (mostly cache) · 1.49M out · API-equivalent 18.67
 
 | lesson | state | detail |
 |---|---|---|
@@ -22,11 +22,11 @@ Tokens (113 agent runs with a record): 0.8M in (mostly cache) · 0.93M out · AP
 | HtBmFn8Oui4 | ✓ published | 602 lines · Elokai Neshama e as bênçãos da Torá ao despertar |
 | XgG8SMhcBy8 | ✓ published | 771 lines · Mearat HaMachpelá: o encontro entre Din e Rachamim |
 | PCvLCb7iAlk | ✓ published | 370 lines · Zohar Bo: a morte dos primogênitos e a saída do Egito |
-| bMXfpWB-xRY | waiting | 0/13 parts |
-| 1LXeA-kF720 | waiting | 0/8 parts |
-| g4FSy0w2xQE | waiting | 0/4 parts |
-| ftauDqmyptA | waiting | 0/8 parts |
-| uktdKS7_eLk | waiting | 0/13 parts |
-| 5AOGYCpqXno | waiting | 0/8 parts |
-| 6twM78fiEHo | waiting | 0/4 parts |
-| vCN2T18jovo | waiting | 0/6 parts |
+| bMXfpWB-xRY | ✓ published | 1499 lines · Sete anos, sete dias e o tikun de cada dia da semana |
+| 1LXeA-kF720 | ✓ published | 903 lines · Eliézer, o servo sem nome de Avraham e sua missão |
+| g4FSy0w2xQE | ✓ published | 388 lines · Avraham, a parochet e o véu que separa os mundos |
+| ftauDqmyptA | ✓ published | 866 lines · Como se aproximar da oração: introdução à série |
+| uktdKS7_eLk | ✗ will be redone (try 1) | 1 piece(s): 119 lines missing |
+| 5AOGYCpqXno | ✓ published | 930 lines · Likutei Moharan 8:9: pulso, respiração e 1080 partes |
+| 6twM78fiEHo | ✓ published | 442 lines · Do Adam Kadmon à Shevirat HaKelim e ao mundo de Atzilut |
+| vCN2T18jovo | ✓ published | 632 lines · Zohar Bereshit: Avnei Shaish, Etz Chaim e as duas Chochmot |
