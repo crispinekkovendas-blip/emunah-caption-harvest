@@ -1,0 +1,120 @@
+240	To throw its blood tomorrow, or part of its blood tomorrow; to burn its sacrificial parts tomorrow, or part of them; to eat	"Lançar o seu sangue amanhã, ou parte do seu sangue amanhã; queimar as suas partes amanhã, ou parte delas; comer
+241	its flesh tomorrow, or an olive-bulk of its flesh tomorrow, or to eat an olive-bulk of the skin of the burnt offering tomorrow, this is	a sua carne amanhã, ou um kezait da sua carne amanhã, ou comer um kezait do couro da oferta queimada amanhã, isto é
+242	pigul, and one is liable for karet for it.	pigul, e há karet por isso."
+243	So earlier, that was...	Então, antes, era...
+244	I got confused.	Eu me confundi.
+245	I said that the skin of the burnt offering is for eating and not through the altar, and therefore there is no karet.	Eu disse que o couro da oferta queimada é para comer e não por meio do altar, e por isso não há karet.
+246	No, that is not the reason.	Não, esse não é o motivo.
+247	On the contrary, there the case is outside its place.	Pelo contrário, ali se trata de fora do seu local.
+248	Outside its place, the law is that one must specifically think of something that is eaten.	Fora do local, a lei é que é preciso pensar justamente em algo que se come.
+249	So I will eat it outside its place.	Então eu o comerei fora do seu local.
+250	What is the law if I think of eating blood outside its place?	Qual é a lei se eu pensar em comer sangue fora do seu local?
+251	It is not something eaten, so it causes no problem at all.	Não é algo que se come, então não causa problema nenhum.
+252	But here he did think of something that is eaten.	Mas aqui ele de fato pensou em algo que se come.
+253	Only because it is not outside its time, therefore it is not pigul.	Só que, por não ser fora do seu tempo, isso não é pigul.
+254	But outside its time, it really is pigul.	Mas fora do seu tempo, realmente é pigul.
+255	Mishnah 3 is the rule.	A Mishná 3 é a regra.
+256	Whoever slaughters, receives, carries, or throws	Todo aquele que abate, recebe, leva ou lança
+257	to eat something that is normally eaten, this is indeed the rule, to eat something that is normally	para comer algo que normalmente se come, esta é de fato a regra, comer algo que normalmente
+258	eaten, to burn something that is normally burned, outside	se come, queimar algo que normalmente se queima: fora
+259	its place it is invalid with no karet, outside its time it is pigul	do seu local é inválido e sem karet, fora do seu tempo é pigul
+260	and one is liable for karet, but all this on condition that the permitting act	e há karet por isso, mas tudo isso com a condição de que o ato que permite
+261	was done as required.	tenha sido feito como deve.
+262	As we said before, that the entire process of offering the sacrifice was as it should be.	Como dissemos antes, que todo o processo de oferecer o sacrifício foi como deve ser.
+263	If there was another invalidity beyond the thought outside its place or outside its time, it does not take effect.	Se houve outra invalidade além do pensamento fora do local ou fora do tempo, isso não tem efeito.
+264	How so?	Como assim?
+265	How was the permitting act done as required? This is Mishnah 4: he slaughtered in silence, so he actually has not yet	Como o ato que permite foi feito como deve? É a Mishná 4: abateu em silêncio, então na verdade ainda não
+266	caused any problem; he received, carried and threw outside its time, or	causou problema nenhum; recebeu, levou e lançou fora do seu tempo, ou
+267	he slaughtered outside its time, said he would eat it outside the time, received, carried and threw in silence,	abateu fora do seu tempo, disse que o comeria fora do tempo, recebeu, levou e lançou em silêncio,
+268	or he slaughtered, received, carried and threw outside its time, this is	ou abateu, recebeu, levou e lançou fora do seu tempo, este é
+269	the case where the permitting act was done as required.	o caso em que o ato que permite foi feito como deve.
+270	That is, apart from this problem of outside its time, there was no other problem here.	Ou seja, além desse problema de fora do tempo, não houve aqui nenhum outro problema.
+271	How was the permitting act not done as required?	Como o ato que permite não foi feito como deve?
+272	He slaughtered outside its place, and received, carried and threw	Abateu fora do seu local, e recebeu, levou e lançou
+273	outside its time, so here there are two kinds of invalidity.	fora do seu tempo; então aqui há dois tipos de invalidade.
+274	Both outside its place and outside its time.	Tanto fora do local quanto fora do tempo.
+275	In such a case, it is invalid, but without karet.	Nesse caso, é inválido, mas sem karet.
+276	Or he slaughtered outside its time, and received, not that he slaughtered outside its time, he	Ou abateu fora do seu tempo, e recebeu; não que abateu fora do tempo, ele
+277	slaughtered intending to eat it outside its time, or to throw the blood outside its time.	abateu com a intenção de comê-lo fora do tempo, ou de lançar o sangue fora do tempo.
+278	He received, carried and threw outside its place, or he slaughtered, received, carried and threw	Recebeu, levou e lançou fora do local, ou abateu, recebeu, levou e lançou
+279	outside its place, or the Pesach and the chatat,	fora do local, ou o Pesach e a chatat,
+280	which the law requires be done for their own sake.	que a lei exige que sejam feitos em nome deles mesmos.
+281	A Pesach in its time done not for its own sake, or a chatat done not for its own sake, is invalid.	Um Pesach no seu tempo feito não em seu próprio nome, ou uma chatat feita não em seu próprio nome, é inválido.
+282	So the Pesach and the chatat that were done not for their own sake, he received, carried and threw outside its time.	Então o Pesach e a chatat feitos não em seu próprio nome: recebeu, levou e lançou fora do seu tempo.
+283	Or he slaughtered outside its time, received, carried and threw not for their own sake.	Ou abateu fora do seu tempo, recebeu, levou e lançou não em seu próprio nome.
+284	Or he slaughtered, received, carried and threw not for their own sake.	Ou abateu, recebeu, levou e lançou não em seu próprio nome.
+285	And then here we have two kinds of invalidity.	E então aqui temos dois tipos de invalidade.
+286	So it was not offered as required.	Então não foi oferecido como deve.
+287	That is it, the permitting act was not done as required.	É isso: o ato que permite não foi feito como deve.
+288	Mishnah 5: to eat an olive-bulk outside and an olive-bulk tomorrow,	Mishná 5: comer um kezait fora e um kezait amanhã,
+289	an olive-bulk tomorrow and an olive-bulk outside, half an olive-bulk	um kezait amanhã e um kezait fora, meio kezait
+290	outside and half an olive-bulk tomorrow, half an olive-bulk tomorrow and half an olive-bulk outside, is invalid,	fora e meio kezait amanhã, meio kezait amanhã e meio kezait fora, é inválido,
+291	but without karet. Why?	mas sem karet. Por quê?
+292	Because here we are speaking of two novel rulings. The novelty in the first part is	Porque aqui se trata de duas novidades. A novidade na primeira parte é
+293	an olive-bulk, an olive-bulk tomorrow and an olive-bulk outside.	um kezait, um kezait amanhã e um kezait fora.
+294	That is, there is an olive-bulk here, but since these are two kinds of acts, two	Ou seja, há aqui um kezait, mas como são dois tipos de atos, dois
+295	kinds of invalidity, outside and tomorrow, the law is that it is only invalid and has no	tipos de invalidade, fora e amanhã, a lei é que é apenas inválido e sem
+296	karet.	karet.
+297	In the second half, half an olive-bulk outside and half an olive-bulk tomorrow, half an olive-bulk tomorrow and half an	Na segunda metade, meio kezait fora e meio kezait amanhã, meio kezait amanhã e meio
+298	olive-bulk outside, the novelty here is that it is invalid, even though it is only	kezait fora, a novidade aqui é que é inválido, embora seja apenas
+299	half an olive-bulk.	meio kezait.
+300	But the novelty is that they combine, and the law is that it is invalid.	Mas a novidade é que se somam, e a lei é que é inválido.
+301	Rabbi Yehudah says, this is the rule: if the thought of time came before the thought of place, then the law is	Rabi Yehudah diz: esta é a regra: se o pensamento de tempo veio antes do pensamento de local, então a lei é
+302	that it is pigul and one is liable for karet.	que é pigul e há karet por isso.
+303	And if the thought of place came before the thought of time, it is invalid without karet, but his words are not accepted; the Sages disagree	E se o pensamento de local veio antes do pensamento de tempo, é inválido e sem karet, mas as suas palavras não são aceitas; os Sábios discordam
+304	and say, both this and that are invalid without karet.	e dizem: tanto isto quanto aquilo é inválido e sem karet.
+305	That is, if the permitting act was not done as required, there was not one kind of invalidity here, but two	Ou seja, se o ato que permite não foi feito como deve, não houve aqui um tipo de invalidade, mas dois
+306	kinds of invalidity.	tipos de invalidade.
+307	The law is that it is invalid and has no karet.	A lei é que é inválido e sem karet.
+308	To eat half an olive-bulk and to burn half an olive-bulk, the law is that it is valid, since eating and burning do not combine.	Comer meio kezait e queimar meio kezait: a lei é que é válido, pois comer e queimar não se somam.
+309	Now the Gemara, Zevachim 19b, we learned that a kohen, if he performed the	Agora a Guemará, Zevachim 19b: aprendemos que o kohen, se ele realizou o
+310	service without having washed his hands and feet, the law is that he disqualifies the sacrifice.	serviço sem ter lavado as mãos e os pés, a lei é que ele invalida o sacrifício.
+311	How do we know this?	Como sabemos isso?
+312	The Gemara says: chukah, chukah is derived from one lacking garments.	Diz a Guemará: vem de chukah, chukah, a partir do que está sem as vestes.
+313	Chukah, chukah is a gezerah shavah.	Chukah, chukah é uma guezerá shavá.
+314	Our Rabbis taught: a High Priest who did not immerse and did not sanctify between one garment and another	Nossos Sábios ensinaram: o Kohen Gadol que não imergiu e não se santificou entre uma veste e outra
+315	on Yom Kippur, right?	em Yom Kipur, certo?
+316	The law is that there are five immersions and ten sanctifications of hands and feet, and he did not do this, or between one service	A lei é que há cinco imersões e dez santificações de mãos e pés, e ele não fez isso, ou entre um serviço
+317	and another, and still served, his service is valid.	e outro, e mesmo assim serviu: o seu serviço é válido.
+318	But both a High Priest and an ordinary kohen who did not sanctify his hands and feet in the morning	Mas tanto o Kohen Gadol quanto o kohen comum que não santificou as mãos e os pés de manhã
+319	and served, his service is invalid.	e serviu: o seu serviço é inválido.
+320	Wait, I want to understand.	Espere, quero entender.
+321	Why?	Por quê?
+322	What is the difference?	Qual é a diferença?
+323	The sanctification of hands and feet of the High Priest on Yom Kippur, and the immersions.	A santificação de mãos e pés do Kohen Gadol em Yom Kipur, e as imersões.
+324	What, is it just nothing?	O quê, não vale nada?
+325	If you say that he did not do it in the morning, it disqualifies the entire service.	Se você diz que, se não fez de manhã, isso invalida todo o serviço,
+326	So why not on Yom Kippur?	então por que em Yom Kipur não?
+327	Rav Assi said to Rabbi Yochanan: after all, five immersions and ten sanctifications are from the Torah.	Rav Assi disse a Rabi Yochanan: afinal, cinco imersões e dez santificações são da Torá.
+328	It is a law from the Torah.	É uma lei da Torá.
+329	And "chukah" is written.	E está escrito "chukah".
+330	So let them be indispensable, why do you say it is not indispensable?	Então que sejam indispensáveis; por que você diz que não é indispensável?
+331	He said to him, the verse says "and he shall put them on"; putting on is indispensable and nothing else is indispensable.	Ele lhe disse: o versículo diz "e os vestirá"; vestir é indispensável e nada mais é indispensável.
+332	His face lit up, he was very happy, a good answer.	O rosto dele se iluminou, ficou muito feliz: uma boa resposta.
+333	He said to him: a vav! Did I write you a note?	Disse-lhe: um vav! Eu escrevi para você um bilhete?
+334	There is a piece of wood full of cracks like these.	Há um pedaço de madeira cheio de rachaduras assim.
+335	I went and wrote a vav, do you see the vav?	Fui e escrevi um vav; você vê o vav?
+336	Full of cracks, you will not see this vav.	Cheio de rachaduras, você não verá esse vav.
+337	That is what he says to him: I do not understand what you gain from this answer, I wrote you a note on	É o que ele lhe diz: não entendo o que você ganha com essa resposta; eu escrevi para você um bilhete num
+338	a place that has a crack.	lugar que tem uma rachadura.
+339	What is there?	O que há?
+340	If so, then what?	Se é assim, e então?
+341	That because it is written "and he shall put them on", only putting on is indispensable and	Que, por estar escrito "e os vestirá", só vestir é indispensável e
+342	nothing else is?	nada mais é?
+343	If so, why is washing the hands in the morning indispensable?	Se é assim, por que lavar as mãos de manhã é indispensável?
+344	Chizkiyah said.	Disse Chizkiyah.
+345	The verse says: "and it shall be for them an eternal statute, to him and to his seed	O versículo diz: "e será para eles um estatuto eterno, para ele e para a sua descendência
+346	throughout their generations."	por suas gerações."
+347	A thing that is indispensable for his seed is indispensable for him.	Algo que é indispensável para a sua descendência é indispensável para ele.
+348	A thing that is not indispensable for his seed is not indispensable for him.	Algo que não é indispensável para a sua descendência não é indispensável para ele.
+349	What is "his seed"?	O que é "a sua descendência"?
+350	An ordinary kohen.	O kohen comum.
+351	So for an ordinary kohen, washing the hands in the morning, not washing, sanctification of hands and feet in the morning,	Então, no kohen comum, lavar as mãos de manhã, não lavar, a santificação de mãos e pés de manhã
+352	is indispensable, so for the High Priest too it is indispensable.	é indispensável, então para o Kohen Gadol também é indispensável.
+353	But the other things are not in an ordinary kohen, so they are not indispensable.	Mas as outras coisas não existem no kohen comum, então não são indispensáveis.
+354	Rabbi Yonatan says: "and Moshe and Aharon and his sons shall wash from it"; a thing	Rabi Yonatan diz: "e Moshe, Aharon e seus filhos lavarão deles"; algo
+355	indispensable for his sons is indispensable for him; a thing not indispensable for his sons is not indispensable for him.	indispensável para os seus filhos é indispensável para ele; algo não indispensável para os seus filhos não é indispensável para ele.
+356	Rabbi Yonatan, how does he differ from Chizkiyah? Both are actually saying the same thing, only he learns	Rabi Yonatan, em que difere de Chizkiyah? Ambos dizem na verdade a mesma coisa, só que um aprende
+357	this from the verse "to him and to his seed throughout their generations", and he learns this from the verse "and Moshe	isso do versículo "para ele e para a sua descendência por suas gerações", e o outro aprende do versículo "e Moshe
+358	and Aharon and his sons shall wash". So why does he not actually learn from the verse "to him and to his seed	e Aharon e seus filhos lavarão". Então por que ele não aprende realmente do versículo "para ele e para a sua descendência
+359	throughout their generations"?	por suas gerações"?
