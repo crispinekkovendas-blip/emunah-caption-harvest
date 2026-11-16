@@ -2,7 +2,7 @@
  "name": "lane7-901",
  "lane": 7,
  "created": "2026-11-16T00:23:07.764Z",
- "status": "pending",
+ "status": "done",
  "repair": "lines taken back by Claude in its own reply, translated again (scripts/batch-repair.mjs)",
  "repairLines": {
   "fzOnnvXM6zU": [
@@ -34,5 +34,10 @@
   "fzOnnvXM6zU.p10",
   "fzOnnvXM6zU.p11",
   "fzOnnvXM6zU.p12"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "fzOnnvXM6zU"
+ ],
+ "skipped": []
 }
