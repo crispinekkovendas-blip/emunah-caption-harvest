@@ -2,7 +2,7 @@
  "name": "lane19-901",
  "lane": 19,
  "created": "2026-11-16T00:23:07.887Z",
- "status": "pending",
+ "status": "done",
  "repair": "lines taken back by Claude in its own reply, translated again (scripts/batch-repair.mjs)",
  "repairLines": {
   "7pfIoU_bN00": [
@@ -1553,5 +1553,16 @@
   "n72WpQi5kZo.p4",
   "n72WpQi5kZo.p5",
   "n72WpQi5kZo.p6"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "7pfIoU_bN00",
+  "1cDAto13csQ",
+  "RR2U6jD4Qtg",
+  "cGgbe4xgrgs",
+  "6E15081YHIQ",
+  "feAOxQ_EZBE",
+  "n72WpQi5kZo"
+ ],
+ "skipped": []
 }
