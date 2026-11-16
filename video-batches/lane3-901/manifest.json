@@ -2,7 +2,7 @@
  "name": "lane3-901",
  "lane": 3,
  "created": "2026-11-16T00:23:07.734Z",
- "status": "pending",
+ "status": "done",
  "repair": "lines taken back by Claude in its own reply, translated again (scripts/batch-repair.mjs)",
  "repairLines": {
   "pDoaIk0k3Rs": [
@@ -640,5 +640,13 @@
   "quFP-I8wv1Q.p10",
   "quFP-I8wv1Q.p11",
   "quFP-I8wv1Q.p12"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "pDoaIk0k3Rs",
+  "P9yoql-gaSs",
+  "SeV6VMe8Vlw",
+  "quFP-I8wv1Q"
+ ],
+ "skipped": []
 }
