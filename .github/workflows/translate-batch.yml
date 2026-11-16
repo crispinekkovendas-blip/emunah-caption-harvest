@@ -101,7 +101,14 @@ jobs:
           git config user.name "video-batches"
           git config user.email "actions@github.com"
           git add video-batches
-          git diff --cached --quiet || (git commit -m "video-batches: ${{ steps.make.outputs.batch }} (lane ${{ inputs.lane }}) — work files" && for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done)
+          # 2026-11-16 (20 lanes): lane13-001's work files lost the race (3 tries, 20 lanes pushing at once) — its pieces
+          # then found no files. Now 15 tries with random waits, and a batch that is not on the branch stops here.
+          if ! git diff --cached --quiet; then
+            git commit -q -m "video-batches: ${{ steps.make.outputs.batch }} (lane ${{ inputs.lane }}) — work files"
+            ok=0
+            for i in $(seq 1 15); do git pull --rebase -q && git push -q && { ok=1; break; }; sleep $((RANDOM % 10 + i * 2)); done
+            [ "$ok" = 1 ] || { echo "::error::the work files could not be pushed — nothing translated this run"; exit 1; }
+          fi
 
   translate:
     needs: make
@@ -232,7 +239,7 @@ jobs:
             git config user.email "actions@github.com"
             git add "$OUT" "$D/$BATCH/out/$CHUNK".r*.usage.json $([ -s "$PART" ] && echo "$PART")
             git commit -q -m "video-batches: $BATCH — $CHUNK (lane ${{ inputs.lane }} helping)"
-            for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep $((i * 4)); done
+            for i in $(seq 1 15); do git pull --rebase -q && git push -q && break; sleep $((RANDOM % 10 + i * 2)); done
           fi
       - if: steps.tr.outputs.limit == 'true'
         uses: actions/cache/save@v4
@@ -271,7 +278,7 @@ jobs:
 
   publish:
     needs: [make, translate]
-    if: always() && needs.make.outputs.batch != '' && needs.make.outputs.help != 'true'
+    if: always() && needs.make.result == 'success' && needs.make.outputs.batch != '' && needs.make.outputs.help != 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -305,7 +312,10 @@ jobs:
           git config user.email "actions@github.com"
           git add video-batches
           git diff --cached --quiet || git commit -m "video-batches: ${{ needs.make.outputs.batch }} — translations and report"
-          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
+          # 15 tries with random waits (20 lanes push at once); a report never pushed is an error, not silence
+          ok=0
+          for i in $(seq 1 15); do git pull --rebase -q && git push -q && { ok=1; break; }; sleep $((RANDOM % 10 + i * 2)); done
+          [ "$ok" = 1 ] || { echo "::error::the translations and report could not be pushed"; exit 1; }
       - name: Keep the lane going (the next batch, or the rest of this one)
         if: (steps.publish.outputs.complete == 'true' || steps.progress.outputs.made != '0') && inputs.chain != false
         env:
