@@ -2,7 +2,7 @@
  "name": "lane2-026",
  "lane": 2,
  "created": "2026-11-15T23:11:32.366Z",
- "status": "pending",
+ "status": "done",
  "lessons": [
   {
    "id": "dS9O4P3UuF4",
@@ -189,5 +189,22 @@
   "BPjw0fqTzms.p2",
   "BPjw0fqTzms.p3",
   "BPjw0fqTzms.p4"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "dS9O4P3UuF4",
+  "_0qabUvOOEc",
+  "SaFKtEwXe84",
+  "12Qrvxp0OLI",
+  "P2Pcj5H_0y8",
+  "yp8GQfoZ-TY",
+  "iMn7Ni_tRLo",
+  "mo-K4Gy_BVA",
+  "Hs2EhlxU7IA",
+  "agKffuKFlVY",
+  "7xsSczRouqM",
+  "z58NKyeVjAo",
+  "BPjw0fqTzms"
+ ],
+ "skipped": []
 }
