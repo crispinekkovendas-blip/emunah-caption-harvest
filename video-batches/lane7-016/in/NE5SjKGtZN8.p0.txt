@@ -1,0 +1,130 @@
+videoId: NE5SjKGtZN8
+parte 1 de 6 · traduzir as linhas 0 a 119 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zohar Vayetzé: três linhas e tudo incluído em tudo
+RESUMO: O rabino estuda o trecho de Sitrei Torá no Zohar de Parashat Vayetzé, em que Yaakov, estando em Padan Aram, rejeita os graus estranhos e escolhe o Kav Emtzaí, a linha do meio. Pelo comentário do Sulam, a linha direita (luz de dentro da escuridão) é a pura doação sem receber, e a esquerda (sabedoria de dentro da tolice) é a razão humana sem ir além do intelecto. Por isso Yaakov é descrito com o versículo "Lo atá yevosh Yaakov ve'lo atá panav yechevaru" (Yeshayahu 29:22). Em seguida o Zohar subdivide cada linha em três e chama de "dormentes" os que se apegam só à esquerda, e o rabino relaciona isso com Chochmá, Biná e Daat e com a bênção "Honenu meitcha" da Amidá. Depois de uma longa digressão sobre eleições e segurança, ele ensina que tudo está incluído em tudo, como numa cadeia de medula, ossos, tendões, carne e pele. Esse detalhamento serve para distinguir e depois reconhecer a raiz comum, e o rabino compara com os avanços da medicina e da psicologia. No fim, ele mostra o Zohar descrevendo, pela negativa, quem não tem a linha do meio, os apelos da Torá ("abram os olhos e saibam") e termina com o Shemá Yisrael.
+MOMENTOS: 03:42 Yaakov rejeita os graus estranhos e escolhe a linha do meio · 07:11 Direita e esquerda: luz da escuridão, sabedoria da tolice · 13:52 Os três kavim e o Daat que se estende para baixo · 17:37 Os apegados à esquerda como dormentes e adormecidos · 20:18 O detalhamento das perdas de Chabad em cada linha · 23:58 A bênção Honenu meitcha e as versões Sefarad e Ashkenaz · 27:45 Digressão sobre as eleições · 44:00 Tudo incluído em tudo: medula, ossos, tendões, carne e pele · 50:57 Para que serve o detalhamento: raízes e o Sulam · 54:51 O Kav Emtzaí como Kol: Kol Hamon e Kol Shaddai · 59:03 A Torá levanta a voz: abram os olhos e saibam · 1:00:54 Shemá Yisrael como ver e ouvir de verdade
+FONTES CITADAS: 03:42 Zohar, Parashat Vayetzé, Sitrei Torá · 05:30 Yeshayahu 29:22 · 07:11 Perush HaSulam sobre o Zohar Vayetzé · 11:46 Yeshayahu 29:22 · 13:52 Bereshit 30:37 · 14:27 Zohar, Parashat Vayetzé, Sitrei Torá · 14:46 Perush HaSulam sobre o Zohar Vayetzé · 17:37 Zohar, Parashat Vayetzé, Sitrei Torá · 18:33 Perush HaSulam sobre o Zohar Vayetzé · 20:18 Zohar, Parashat Vayetzé, Sitrei Torá · 20:46 Zohar, Parashat Vayetzé, Sitrei Torá · 21:03 Zohar, Parashat Vayetzé, Sitrei Torá · 21:17 Zohar, Parashat Vayetzé, Sitrei Torá · 21:40 Zohar, Parashat Vayetzé, Sitrei Torá · 23:58 Amidá, bênção Atá Chonen (nusach Sefarad) · 24:49 Amidá, bênção Atá Chonen (nusach Ashkenaz) · 26:32 Amidá, bênção Atá Chonen · 31:09 Zohar, crítica aos que não se ocupam da Torá interior · 32:52 Nedarim 28a · 50:57 Baal HaSulam, introdução ao Perush HaSulam · 54:31 Zohar, Parashat Vayetzé, Sitrei Torá · 54:51 Zohar, Parashat Vayetzé, Sitrei Torá · 55:06 Chagigá 12a · 56:42 Zohar, Parashat Vayetzé, Sitrei Torá · 57:17 Zohar, Parashat Vayetzé, Sitrei Torá · 58:18 Zohar, Parashat Vayetzé, Sitrei Torá · 59:49 Zohar, Parashat Vayetzé, Sitrei Torá · 1:00:54 Devarim 6:4
+
+LINHAS A TRADUZIR:
+0|00:05|תודה רבה
+1|01:13|אוקיי, טוב לכולם.
+2|01:18|זוהר פרשת ויצא, עוד שי"ב.
+3|01:29|כבוד הרב תוציא משקט.
+4|01:31|תוציא משקט, הוצאתי.
+5|01:36|לשלוח את החומרים.
+6|01:39|אם יש, כן.
+7|01:41|כי אני לא יודע אם לאנשים יש בכלל את החומרים.
+8|01:45|אין
+9|01:45|לנו.
+10|02:05|טוב, אנחנו נמצאים פה בקטע שנקרא סתרי תורה.
+11|02:13|שלא מצאת?
+12|02:15|ספר?
+13|02:25|הנה פה יש...
+14|02:30|זה אות שני עוד בית.
+15|02:34|עוד פעם, אני יכולה להגיד משהו בקשר לשיעור שעבר בעניין הזה?
+16|02:40|באות הזאת?
+17|02:43|אני...
+18|02:45|את יכולה להגיד.
+19|02:47|בעניין הכל, אנחנו אמרנו שזה אוויר ואש,
+20|02:53|וחיפשנו כאילו את החלק השלישי, אבל בעצם אם ניקח את זה בתור נגיד
+21|02:59|צבעים, אז החיבור עצמו הוא השלישי, כאילו אם אני לוקחת אדום
+22|03:04|ולבן, אז יש לי צבע חדש, הוא ורוד.
+23|03:08|אז החיבור עצמו הוא השלישי.
+24|03:12|לא שיש עוד אחד שלישי, ככה חשבתי.
+25|03:17|ובדיבור
+26|03:30|יש לנו כבר באמת שלוש, כי אז יוצא לנו רע המים.
+27|03:37|כן, אני שומע.
+28|03:42|עוד שי"ב בשעה שיעקב השלם
+29|03:53|מתוך הצהרה שהיה בארץ רשות
+30|03:58|אחרת ולא בארץ הקדושה
+31|04:07|כלומר שאדם מאבחן את עצמו
+32|04:17|ומכיר בכך שנמצא ברשות
+33|04:23|עצמו ולא ברשות הבורא
+34|04:36|ובתוך מדרגות נוכריות
+35|04:43|דחה את כולם.
+36|04:49|הוא בחר חלק גורלו ונחלתו, דהיינו בקו אמצעי.
+37|05:06|אור מתוך החושך הוא קו ימין.
+38|05:13|חוכמה מתוך טיפשות הוא קו שמאל
+39|05:21|וכיבד את ריבונו בעודו נמצא ברשות זר בפדן ארם
+40|05:30|הוא קו אמצעי הנה אז נאמר עליו לא עתה יבוש
+41|05:36|יעקב ולא עתה פניו יחברו
+42|06:11|אז אני חוזר על זה.
+43|06:15|בשעה שיעקב השלם, מתוך הצהרה
+44|06:22|שהיה בארץ ורשות אחרת, ולא בארץ
+45|06:25|הקדושה, ובתוך מדרגות נוכריות.
+46|06:35|כלומר, מצבי נפש מוטעים.
+47|06:43|דחה את כולם ובחר חלק גורלו ונחלתו
+48|06:50|דיינו בקו אמצעי שהקו
+49|06:56|האמצעי מאזן
+50|07:04|את הבחינות ההופכיות השונות
+51|07:11|‫אור מתוך החושך הוא קו ימין.
+52|07:18|‫פירוש, קו ימין הוא כלים דהשפעה,
+53|07:26|‫והקליפה, יש סוג של קליפה
+54|07:30|‫שדוגלת
+55|07:36|בהשפעה מוחלטת, ‫ללא קבלה כלל.
+56|07:45|וזה סוג של בחירה בחושך.
+57|07:51|ומצד הקדושה זה לא נכון.
+58|07:57|כי חייב להיות אור בחיי האדם.
+59|08:03|אז זה מצד קו ימין.
+60|08:09|חוכמה מתוך טיפשות הוא קו שמאל.
+61|08:15|פירוש
+62|08:28|יש קליפה שדוגלת
+63|08:35|בכלים דקבלה להבין כל דבר
+64|08:42|על פי היגיון האדם ונטיותיו
+65|08:50|וזה נבחן לטיפשות
+66|08:57|מטעם שהחוכמה האמיתית היא
+67|09:03|החוכמה האלוקית המושגת רק כאשר אדם
+68|09:09|מוכן ללכת למעלה מהדעת ולמעלה
+69|09:15|מהשכל
+70|09:23|וזה נבחן שמכליל את הכלים דקבלה
+71|09:30|עם כלים דהשפעה
+72|09:39|אז זה בצד שמאל וכיבד את ריבונו
+73|09:46|בעודו נמצא ברשות זר, בפדן ארם,
+74|09:53|הוא קו אמצעי.
+75|09:54|עכשיו רואים דעת קנית
+76|10:01|המחסרת על הכוונה לדעת עליון?
+77|10:07|כן.
+78|10:07|לדעת עצמה נחשבת מטיפשות.
+79|10:10|נכון.
+80|10:27|פירוש.
+81|10:47|יש קליפה שהיא בחינת קו אמצעי
+82|10:55|שכן ממזגת בין הופכים אבל כוונתה
+83|11:01|להגיע למצב מאוזן למען תועלת עצמה
+84|11:08|ולא בכדי להשפיע נחת רוח לבורא
+85|11:28|ויעקב כמובן הלך בדרך הקו האמצעי
+86|11:34|בכדי להשפיע על הבורא הנה אז נאמר
+87|11:40|עליו לא אתה יבוש יעקב
+88|11:46|ולא אתה פניו יחברו
+89|11:52|דהנה עניין בושה כאשר האדם
+90|11:58|מקבל את תועלת עצמו ומתנתק משורשו
+91|12:05|ועניין חיוורון דהיינו
+92|12:11|שפניו של האדם מחווירים מתי
+93|12:17|הפנים של האדם מחווירים זה גם עניין של בושה או זה עניין של פחד
+94|12:30|חולשה
+95|12:41|אז לא אתה יבוש יעקב זה מצד קו שמאל
+96|12:47|ולא אתה פניו יחברו זה מצד קו ימין
+97|12:55|זה שמאל בלי ימין וזה ימין בלי שמאל
+98|13:41|‫מה זה קשור כל זה?
+99|13:47|‫ובהתחלה, באות שין יא, ‫הוא התחיל עם הפסוק,
+100|13:52|‫ויקח לו יעקב מקל יבנה.
+101|13:58|‫הכוונה של מעשה זה ‫היה לקשרי האמונה, ‫להמשיך ג'
+102|14:04|קשרים לנקווה, ‫שנקראת אמונה, דהיינו ג' קווים.
+103|14:18|ופה הוא התחיל עם כל הטקסט של סתרי תורה
+104|14:27|כל הקול של הקולות נתעורר ממעלה למטה ונעשינו
+105|14:33|פתוחי עיניים הגרגל יסב לכמה צדדים
+106|14:40|וקול של נעימות נתעורר
+107|14:46|גלגל פירושו הסתובבות הערה בגימל מקומות שוסות חולם שורוק חיריק
+108|14:54|דהיינו בגימל קווים ונודע שבית קווים ימין ושמאל שייכים תמיד
+109|14:59|לעליון עצמו וכל המתפשט למטה הוא רק קו אמצעי שהוא מוח
+110|15:04|הדעת ולפי זה נמצא שגימל סיטרין
+111|15:10|שבמוח החוכמה וגימל סיטרין שבמוח הבינה אינם מתפשטים
+112|15:16|למטה, אלא מוח הדעת לבדו הוא המתפשט למטה.
+113|15:26|וזהו שמשמיענו על סטרי תורה,
+114|15:33|שלא כל טסטרי שבמוח הדעת
+115|15:38|מתפשטים מלמעלה למטה, אלא רק כאילו הקו האמצעי שבקו האמצעי.
+116|15:45|הדעת דדעת הוא זה שמתפוססת למטה
+117|16:33|ואז בסוף הוא אומר בשעה שיעקב השלם
+118|16:41|למרות שהוא היה בארץ וברשות אחרת בכל אופן הוא כן
+119|16:47|שמר על החוקים והכללים

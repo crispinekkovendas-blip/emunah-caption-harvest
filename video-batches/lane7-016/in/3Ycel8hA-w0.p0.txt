@@ -1,0 +1,130 @@
+videoId: 3Ycel8hA-w0
+parte 1 de 4 · traduzir as linhas 0 a 119 (120 linhas)
+
+ESTUDO DA AULA (contexto — já revisado, use para nomes, versículos e termos):
+TÍTULO DO ESTUDO: Zohar Shemot e Talmud Eser Sefirot 13: Netzach e Hod
+RESUMO: A aula começa no Zohar Shemot, com o Perush HaSulam sobre os "donos das rodas santas": do lado direito eles circundam, tocam sem lamentar e recebem chochmá com chassadim. Depois o Patron, isto é, Zeir Anpin, deixa o trono do juízo, senta-se no trono da misericórdia e menciona o grande nome Havayá. Na linha do meio, ele abre e diz "Vayikrá beshem HaShem", e os anjos louvam: "Bendita a glória de HaShem do lugar de Sua morada". Em seguida o rabino passa ao Talmud Eser Sefirot, parte 13, e discute a Kruma d'Avira, o "Daat" oculto no ar, e por que ela não é contada entre os tikunei risha. Ele consulta as Teshuvot 33 e 28 sobre a subida de Arich Anpin ao Atik e o cancelamento dos tikunim de mem-tzadi. Ele lê o Ohr Pnimi sobre os três aspectos de Netzach e Hod, ligados ao "tzemer naki talya ushikula" do Sifra Detzniuta, e termina discutindo como a divisão em cabeça, meio e fim se encaixa com os "lavushei mochin".
+MOMENTOS: 03:16 Zohar Shemot: os donos das rodas do lado direito · 05:08 Tekiá sem lamento: recebem chochmá do lado direito · 08:02 Segunda tekiá e o Patron que muda de trono · 10:48 Linha do meio: "Vayikrá beshem HaShem" · 13:44 Anjos louvam: bendita a glória de HaShem · 16:16 Talmud Eser Sefirot 13: Hearot 72 e a Kruma d'Avira · 21:45 Teshuvá 33: os tikunim de mem-tzadi na subida ao Atik · 27:06 Teshuvá 28: Arich Anpin sobe ao Atik, mem e lamed · 36:49 Netzach e Hod: o tikun "tzemer naki" · 42:33 Três aspectos de Netzach e Hod no Ohr Pnimi · 47:22 Divisão do partzuf em cabeça, meio e fim · 51:37 Masach do tabur e síntese dos parâmetros
+FONTES CITADAS: 03:16 Zohar Shemot, Perush HaSulam, ot 43 · 03:41 Perush HaSulam sobre Zohar Shemot, ot 43 · 05:08 Perush HaSulam sobre Zohar Shemot, ot 43 · 06:20 Perush HaSulam sobre Zohar Shemot, ot 43 · 08:02 Zohar Shemot, Perush HaSulam, ot 44 · 08:23 Perush HaSulam sobre Zohar Shemot, ot 44 · 09:38 Perush HaSulam sobre Zohar Shemot, ot 44 · 10:48 Zohar Shemot, Perush HaSulam, ot 45 · 10:54 Shemot 34:5 · 11:00 Daniel 7:10 · 11:14 Perush HaSulam sobre Zohar Shemot, ot 45 · 12:59 Shemot 34:6-7 · 13:44 Yechezkel 3:12 · 13:52 Perush HaSulam sobre Zohar Shemot, ot 45 · 14:25 Zohar Shemot, Perush HaSulam, ot 46 · 17:09 Talmud Eser Sefirot, parte 13, Hearot uBiurim, ot 72 · 20:03 Idra Rabá, Kruma d'Avira · 20:40 Idra Rabá, sete tikunei risha · 21:45 Talmud Eser Sefirot, parte 13, Teshuvá 33 · 27:06 Talmud Eser Sefirot, parte 13, Teshuvá 28 · 30:51 Talmud Eser Sefirot, parte 13, Ohr Pnimi · 38:32 Sifra Detzniuta, tikun 4, "tzemer naki · 39:35 Ari, Talmud Eser Sefirot, parte 13 · 41:09 Ohr Pnimi sobre Talmud Eser Sefirot, p. 61 · 42:33 Sifra Detzniuta, tikun 4 · 43:05 Ohr Pnimi sobre Talmud Eser Sefirot, parte 13 · 44:08 Ohr Pnimi sobre Talmud Eser Sefirot, parte 13 · 47:22 Ari, Talmud Eser Sefirot, parte 13 · 48:05 Ohr Pnimi sobre Talmud Eser Sefirot, parte 13 · 51:52 Rav Ashlag, Petichá leFerush HaSulam
+
+LINHAS A TRADUZIR:
+0|02:01|מה?
+1|03:16|מ"ג סחרן מרא דיינין דרסיטרא ימינה
+2|03:23|מ"ג ואימון תמניסר אלפין אחרנין טקים ולא
+3|03:29|מיאבבין ולא מייללין פטחין שירתה מזדעזן
+4|03:35|מתן וחמשין אלפין מראי דייבבה.
+5|03:41|כאן מבאר שתי הפעולות שבקרב ימין
+6|03:51|ואומר מסבבים בעלי העיניים מצד ימין
+7|04:05|שעמהם שמונה עשר אלף אחרים, דהיינו המסך דה חיריק שביסוד זה
+8|04:11|רמפינה נקרא חד, שהוא בגימטריה שמונה עשר,
+9|04:18|ולהיותו הגורם להמשיך חסדים, שבתוכה מאירה החוכמה,
+10|04:25|הכן נקרא חי אלפי, כי החוכמה מכונה אלפי,
+11|04:32|כנ"ל בדיבור
+12|04:33|הסמוך.
+13|05:08|תוקעים היינו המשכת חסדים, המכונה תקיעה, כל פשוט.
+14|05:15|ואז לא מייבבים ולא מייללים.
+15|05:23|לא מייבבים ולא מייללים.
+16|05:29|אלו המקבלים חכמה מקרב ימים.
+17|05:34|פותחים בשירה, דהיינו בהמשכת חכמה, מזדעזעים רי"ש נ"ל בעלי
+18|05:40|היבובה.
+19|05:42|פירוש שגם רי"ש נ"ל...
+20|05:43|מה?
+21|05:43|אולי זה נקודה לא עובדית.
+22|05:49|אולי?
+23|06:20|זהו שגם רנ"אל שבקו שמאל, המכונים מראי די יבבה,
+24|06:28|מקבלים עתה גם הם הערת החוכמה.
+25|06:32|ואף על פי שכבר נפסקה היבבה והיללה,
+26|06:38|בכל מקום הם עוד מזדעזעים מאימת הדין שקרה להם,
+27|06:45|לפני שקיבלו החסדים מקו ימין.
+28|07:12|בית ספירות וחצי שמחזהו למעלה.
+29|07:17|חסד וגבורה וחצי תפארת העליון.
+30|07:20|יש מקום שהוא מחזה
+31|07:26|ומחזהו למעלה ומחזהו למעלה.
+32|07:30|כן.
+33|08:02|אות מ"ד תקע תניינות ולא מייבבים נטיל פטרון
+34|08:07|המאו קורסאיה ויטיב בקורסאיה דווטרנותא.
+35|08:14|בי זימנה ומיתקא שמה קדישא הילאה רבה, תבאו שמה חיים
+36|08:20|לכלה.
+37|08:23|תקע והמשיך השדים בפעם השנייה.
+38|08:29|דהיינו פעולה השנייה שבקו ימין.
+39|08:34|שאין שם יבבה כנה.
+40|09:13|נוסע הפטרון דהיינו זרמפין בזמן גילוי החסדים שבמסך קנה
+41|09:20|מכיסא ההוא של דין ויושב בכיסא
+42|09:25|הרחמים להמשיך חסדים מרובים
+43|09:38|בו בזמן הוא דהיינו הזרמפין מזכיר שם הקדוש הגדול העליון,
+44|09:45|שהוא שם הוויה במילוי מה?
+45|09:48|י' כו' כמה
+46|09:50|שלפנינו.
+47|09:55|שבשם הזה נמשך חיים לכל...
+48|09:59|מה כתוב אחר כך?
+49|10:48|פות מ"ה פתח ואמר זמנה חדה י"ק ו"ק כמו
+50|10:54|דעת אמר ויקרא בשם הוויה פתחין כי קדמי תמר אגלגל
+51|11:00|לקדישי באלף אלפין וריבו ריבבל ואמרי שירתה
+52|11:07|משבחין ואמרין בריך יקרא דהוויה מאתר בית שכינתי.
+53|11:14|כאן מבאר שתי הפעולות שבקו אמצעי פתח ואמר
+54|11:21|זה רמפין שהוכב באמצעי פעם אחת יו"ק
+55|11:33|יש לכם נקודותיים אחרי הפתח ואמר?
+56|11:39|פתח ואמר זה רמפין שהוכב באמצעי
+57|11:46|פעם אחת י"ק-ו"ק
+58|11:52|שי"ק-ו הם סוד ג' הקווים ימין-שמאל-אמצע,
+59|11:59|הכלולים בזרמפי.
+60|12:05|והאחרונה היא הנוקווה המקבלת נ'.
+61|12:22|כמו שאתה אומר ויקרא בשם הוויה פותחים כבתחילה בעלי הגלגלים
+62|12:28|הקדושים שבמרכבה ואלף אלפים שהם סוד
+63|12:34|חוכמה וריבו רבבות שהם סוד החסדים המלבישים
+64|12:40|אותם ואומרים שירה
+65|12:54|כן ויקרא בשם השם,
+66|12:59|מה שאומרים בי"ג מידות
+67|13:44|משבחים המלאכים ואומרים ברוך כבוד השם ממקום שכינתו
+68|13:52|שהשכינה תתברך מזרמפים ותקבל
+69|13:58|ממנו חוכמה מלובשת בחסדים
+70|14:25|‫אות מ"ו, אטיהו, גין תדית, ‫מירה במתן וחמשין עלמי.
+71|14:33|‫רוצה לגמור את
+72|14:34|זה.
+73|14:49|‫מה הוא אומר שזה לא שתיים מיקרו ואחד תרגו?
+74|14:59|טוב, נעבור לחלק י"ג.
+75|16:16|אנחנו בהערות ובהורים שבעים ושתיים
+76|17:09|לפי שתמיד הקרום שהוא התפארת נוטה אל החסד, דהיינו
+77|17:14|לשליטת
+78|17:15|הימין.
+79|17:39|וגם הוא ענף הדעת הגנוז באווירה, כי הדעת מחבר
+80|17:45|את החוכמה ובינה, וכן כאן מחבר את החסד
+81|17:51|וגבורה שעולים להיות חוכמה ובינה, באופן שבינה
+82|17:57|שבה להיות חוכמה, ומאירה רק בזער אנפין.
+83|18:13|כן
+84|20:03|לכן נקרא קרומה דאווירא ולא קרומה הוא מוחא.
+85|20:09|רוצה לומר שהדעת גנוז בזד הבינה הללו המכונות
+86|20:15|אווירא.
+87|20:18|ולכן נקרא קרומה דאווירה ולא בשם אחר.
+88|20:28|ולפי שבאווירה מתלבש הדעת דעתיק, שאינו מכלל הזין תחתונות
+89|20:34|דעתיק, אלא נשמה שלהם, לכן לא נזכר.
+90|20:40|לכן לא נזכר רק שבעה תיקוני רישא, ולא אמרו שמונה תיקוני רישא.
+91|20:48|כי אין האוויר הנכנס בסוג עמהם, כי הוא נעלם.
+92|20:54|וזה קשה, שהרי הקרומא דאווירא הוא אחד משבעת תיקוני הרישא דאריך,
+93|21:01|וצריך להיות.
+94|21:45|עיין בתשובה ל"ג, מה כתוב שם?
+95|23:05|אז זה כאילו העניין הזה הוא בזמן העלייה.
+96|23:11|בתשובה ל"ג
+97|23:19|עיין בתשובה ל"ג
+98|23:34|שם כותב שבזמן העלייה של הריחמפין לעתיק
+99|23:42|מתבטלים התיקונים של מ"מ צ"י,
+100|23:52|ואז בזא דה בינה מתגלה הדעת העתיק
+101|24:00|עם כל גדלותו.
+102|24:06|לא, הוא אומר שלא.
+103|24:12|ולכן אין זה אחד
+104|24:17|מתיקון הרישה מטעם שאינו נוהג במצב
+105|24:23|הקביעות אלא דווקא בזמן עלייה.
+106|24:38|אז הוא אומר שלא.
+107|25:08|זה משונה באמת מה שאתה שואל.
+108|25:11|מצד אחד הוא אומר שמתבטל התיקון דה מלץ, מצד שני הוא אומר שהגולגלתה לא מקבלת
+109|25:17|את הגדלות הזאת בגלל תיקון דה מ' אשר בה.
+110|25:20|מה?
+111|25:20|מה?
+112|25:27|מה
+113|25:27|הסיבה?
+114|25:33|כי השם מיגר דה חוכמה.
+115|25:37|כן, לא צריך לתת תיקונים.
+116|25:41|במקום העליון, אז...
+117|25:44|על כל מקום כתוב שלא.
+118|25:55|אולי?
+119|25:59|כן, אולי.
