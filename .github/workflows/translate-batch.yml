@@ -275,6 +275,30 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=${{ inputs.lane }}
+      # 2026-11-16 (the big run): helping lanes finished lane7-016's last pieces at 03:28, after lane 7's own run had
+      # published what was ready and stopped (it translated nothing itself, so it did not start again). Its 6 lessons
+      # waited 8½ hours for a scheduled wake — GitHub fires the hourly schedule only a few times a day. Now the helper
+      # that finds the batch with no open piece left wakes the owner lane; its next run publishes the batch (a lane
+      # already running just queues one more run, which finds the batch done and goes on).
+      - id: owner
+        name: Nothing left in the helped batch? Then wake its own lane to publish it
+        env:
+          BATCH: ${{ needs.make.outputs.batch }}
+        run: |
+          git pull -q --rebase || true
+          node -e '
+            const fs = require("fs"), d = "video-batches/" + process.env.BATCH
+            const m = JSON.parse(fs.readFileSync(d + "/manifest.json", "utf8"))
+            const closed = new Set([...(m.done || []), ...(m.skipped || [])])
+            const left = m.chunks.filter((c) => !closed.has(c.replace(/\.p\d+$/, "")) && !fs.existsSync(d + "/out/" + c + ".txt"))
+            console.log(`${process.env.BATCH} (lane ${m.lane}, ${m.status}): ${left.length} open pieces without output`)
+            if (m.status !== "done" && !left.length) fs.appendFileSync(process.env.GITHUB_OUTPUT, `lane=${m.lane}\n`)
+          '
+      - name: Wake the owner lane
+        if: steps.owner.outputs.lane != '' && inputs.chain != false
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run translate-batch.yml --repo "$GITHUB_REPOSITORY" --ref "${{ github.ref_name }}" -f lane=${{ steps.owner.outputs.lane }}
 
   publish:
     needs: [make, translate]
