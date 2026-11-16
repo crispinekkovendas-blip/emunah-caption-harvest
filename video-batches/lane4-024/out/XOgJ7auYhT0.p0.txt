@@ -1,120 +1,120 @@
 0	Chapter 50, Part I of the Guide for the Perplexed, chapter 50.	Capítulo 50, Parte I do Guia dos Perplexos, capítulo 50.
-1	Know, you who study this treatise of mine:	Saiba, você que estuda este meu tratado:
-2	the purpose of my treatise is the book.	o propósito do meu tratado é o livro.
-3	That belief, now, what is this word "deah" here?	Que a convicção, agora, o que é essa palavra "deá" aqui?
+1	Know, you who study this treatise of mine.	Saiba, você que estuda este meu tratado.
+2	The intent of my treatise, a book.	A intenção do meu tratado, um livro.
+3	That conviction ("deah"). Now, what is this word "deah" here?	Que a convicção ("deá"). Agora, o que é essa palavra "deá" aqui?
 4	It is a translation of an Arabic word.	É a tradução de uma palavra árabe.
-5	Look, notice, at the bottom Rav Kafach writes, the note.	Vejam, reparem, embaixo o Rav Kafach escreve, a nota.
-6	Yes, there is a book by Rabenu Saadia Gaon, Sefer HaEmunot	Sim, há um livro de Rabenu Saadia Gaon, Sefer HaEmunot
-7	VeHaDeot.	VeHaDeot.
-8	"Emunot" corresponds to i'tikad and "deot" to the notion of knowledge.	"Emunot" corresponde a amana e "deot" à noção de conhecimento.
+5	Look, notice, below Rav Kafach writes, the note.	Vejam, reparem, embaixo o Rav Kafach escreve, a nota.
+6	Yes, there is a book by Rabenu Saadia Gaon, The Book of Beliefs	Sim, há um livro de Rabenu Saadia Gaon, O Livro das Crenças
+7	and Convictions.	e das Convicções.
+8	"Emunot" from "emunah," and "deot" from the term "deah," conviction.	"Emunot" de "emuná", e "deot" do termo "deá", convicção.
 9	And the question is, what?	E a pergunta é: o quê?
 10	Does the Rambam use the term "emunah"?	O Rambam usa o termo "emuná"?
-11	And the answer is no.	E a resposta é não.
+11	And the answer is no.	E a resposta é que não.
 12	The Rambam uses the term "deah."	O Rambam usa o termo "deá".
 13	This is not by chance.	Isso não é por acaso.
-14	He adopts, he translates the Arabic word i'tikad,	Ele adota, ele traduz a palavra árabe i'tikad,
-15	and this is the content that dwells within the soul	e esse é o conteúdo que habita dentro da alma
+14	He adopts, he translates the Arabic word "i'tikad,"	Ele adota, ele traduz a palavra árabe "i'tikad",
+15	and this is the content that dwells within the soul	e esse é o conteúdo que reside dentro da alma
 16	of the believers.	dos que creem.
 17	Now, we have a certain problem: modern Hebrew	Agora, temos um certo problema: o hebraico moderno
 18	was greatly influenced by Christianity.	foi muito influenciado pelo cristianismo.
 19	Because modern Hebrew is spoken by Jews	Porque o hebraico moderno é falado por judeus
 20	who went through a very long period of	que passaram por um período muito longo de
 21	dwelling, one might say, of presence within the Christian world.	moradia, pode-se dizer, de presença dentro do mundo cristão.
-22	And so when we use all kinds of words, we don't realize that our basic understanding of	E assim, quando usamos todo tipo de palavras, não percebemos que nossa compreensão básica
+22	And so when we use all sorts of words, we don't realize that our basic understanding of	E assim, quando usamos todo tipo de palavras, não percebemos que a nossa compreensão básica
 23	these words is the Christian understanding, and therefore a change is needed.	dessas palavras é a compreensão cristã, e por isso é preciso mudar.
 24	For example, the concept "emunah" means,	Por exemplo, o conceito "emuná" significa,
 25	for the masses, to accept something for which I have no proofs.	para a massa, aceitar algo para o qual não tenho provas.
-26	Or even better if it is something absurd.	Ou melhor ainda se for algo absurdo.
-27	And then people are very impressed and say, look what power of faith this man has.	E então ficam muito impressionados e dizem: vejam que força de fé tem este homem.
-28	He believes in things that cannot be proven, or in absurd things.	Ele acredita em coisas que não se podem provar, ou em coisas absurdas.
+26	Or even better, if it is something absurd.	Ou melhor ainda, se for algo absurdo.
+27	And then people are very impressed and say, look what power of faith this man has.	E então as pessoas ficam muito impressionadas e dizem: vejam que força de fé tem este homem.
+28	He believes in things that cannot be proven, or in absurd things.	Ele acredita em coisas que não se pode provar, ou em coisas absurdas.
 29	According to the Jewish tradition, all of this is nonsense.	Segundo a tradição do judaísmo, tudo isso é bobagem.
-30	That is, there is no such thing as believing in something	Ou seja, não existe isso de acreditar em algo
+30	Yes, that is, there is no such thing as believing in something	Sim, ou seja, não existe isso de acreditar em algo
 31	whose truth you cannot ascertain.	cuja verdade você não pode verificar.
-32	And this is the meaning of the word "deah" in the Rambam, we will see this.	E esse é o significado da palavra "deá" no Rambam, vamos ver isso.
-33	Why does Rav Kafach adopt this word?	Por que o Rav Kafach adota essa palavra?
-34	Rav Kafach adopts this word in its Jewish sense.	O Rav Kafach adota essa palavra no seu sentido judaico.
-35	But that it is the feminine form of the word "emet."	Mas que ela é a forma feminina da palavra "emet".
+32	And this is the meaning of the word "deah" in the Rambam; we will see this.	E esse é o significado da palavra "deá" no Rambam; vamos ver isso.
+33	Why does the Rav Tzioudak adopt this word?	Por que o Rav Tzioudak adota essa palavra?
+34	The Rav Tzioudak adopts this word, he adopts it in its Jewish sense.	O Rav Tzioudak adota essa palavra, ele a adota no sentido judaico dela.
+35	But that it, that it is the feminine of the word "emet" (truth).	Mas que ela, que ela é o feminino da palavra "emet" (verdade).
 36	Yes, like, I'll explain.	Sim, como, vou explicar.
-37	Just as the word "bat" in Hebrew is a feminine word ending	Assim como a palavra "bat" em hebraico é uma palavra feminina que termina
-38	in a tav; the plural of "bat" is "banot."	em tav; o plural de "bat" é "banot".
-39	Suddenly the nun jumps in, right?	De repente o nun aparece, certo?
-40	Because in the origin of the language the nun was there; in Arabic they say "binat."	Porque na origem da língua o nun estava lá; em árabe diz-se "binat".
+37	Like the word "bat" in Hebrew, it is a feminine word ending	Como a palavra "bat" em hebraico, é uma palavra feminina que termina
+38	in "tav"; the plural of "bat" is "banot."	em "tav"; o plural de "bat" é "banot".
+39	Suddenly the "nun" jumps in, right?	De repente o "nun" aparece, certo?
+40	Because in the origin of the language the "nun" was there; in Arabic they say "binat."	Porque na origem da língua o "nun" estava ali; em árabe diz-se "binat".
 41	So "bat," "banot."	Então "bat", "banot".
 42	"Emet," "emunot."	"Emet", "emunot".
-43	Right?	Certo?
-44	That is, "emunah" comes from the sense of faithfulness.	Ou seja, "emuná" vem do sentido de fidelidade.
-45	There is content that I feel to be true; of that we say "emunah."	Há um conteúdo que sinto ser verdadeiro; disso se diz "emuná".
-46	Now, why do I feel it is true?	Agora, por que sinto que é verdadeiro?
-47	That is each and every one according to his level.	Isso é cada um segundo o seu nível.
+43	Yes?	Certo?
+44	That is, "emunah" comes from the language of faithfulness ("ne'emanut").	Ou seja, "emuná" vem do sentido de fidelidade ("neemanut").
+45	There is content that I feel is true; about this it is said "emunah."	Há um conteúdo que sinto ser verdadeiro; sobre isso se diz "emuná".
+46	Now, why do I feel that it is true?	Agora, por que sinto que ele é verdadeiro?
+47	That is each and every person according to his level.	Isso é cada um segundo o seu nível.
 48	Yes, once there was a conversation between Rav Avraham Yitzchak HaKohen Kook, may his merit	Sim, uma vez houve uma conversa entre o Rav Avraham Yitzchak HaKohen Kook, que o seu mérito
 49	protect us, amen, and the Ridvaz, Rabbi Yaakov David	nos proteja, amém, e o Ridvaz, Rabi Yaakov David
-50	ben Zev Willowski.	ben Zev Willowski.
+50	ben Ze'ev Wilovsky.	ben Zeev Wilovsky.
 51	Have you heard of the Ridvaz?	Vocês já ouviram falar do Ridvaz?
-52	He lived in Tzfat.	Ele morava em Tsfat.
-53	He lived in Tzfat.	Ele morava em Tsfat.
-54	He was a disputant of Rav Kook on several matters.	Ele era adversário de Rav Kook em vários assuntos.
+52	He sat in Tzfat.	Ele morava em Tzfat.
+53	He sat in Tzfat.	Ele morava em Tzfat.
+54	He was a disputant of Rav Kook on several matters.	Ele discordava do Rav Kook em vários assuntos.
 55	But they were also friends.	Mas eles também eram amigos.
-56	And one day the Ridvaz says to Rav Kook, listen, your talks on matters of faith are so deep,	E um dia o Ridvaz diz ao Rav Kook: ouça, suas palestras sobre assuntos de fé são tão profundas,
-57	the faith of my grandmother is enough for me.	a fé da minha avó me basta.
-58	Rav Kook answered him, indeed your honor's grandmother was a	Rav Kook respondeu: de fato, a avó de Vossa Senhoria era uma mulher
-59	distinguished woman, and a place is reserved for her with the tzaddikim in Gan Eden, but...	distinta, e há um lugar reservado para ela com os tsadikim no Gan Éden, mas...
-60	one cannot use your honor's grandmother's faith to lead the whole of Israel.	não se pode usar a fé da avó de Vossa Senhoria para conduzir todo Israel.
+56	And one day the Ridvaz says to Rav Kook, listen, your talks on matters of faith are so deep,	E um dia o Ridvaz diz ao Rav Kook: escute, as suas palavras sobre assuntos de fé são tão profundas,
+57	for me the faith of my grandmother is enough.	para mim basta a fé da minha avó.
+58	Rav Kook answered him, indeed your honor's grandmother was a	O Rav Kook respondeu: de fato, a avó de Vossa Senhoria foi uma mulher
+59	important woman, and a place is reserved for her among the tzaddikim in Gan Eden, but...	importante, e há um lugar reservado para ela entre os tsadikim no Gan Éden, mas...
+60	one cannot use the faith of your honor's grandmother to lead the whole of Israel.	não se pode usar a fé da avó de Vossa Senhoria para conduzir todo o povo de Israel.
 61	That is, if you want to take responsibility for the people of Israel, you need faith in the deeper sense of	Ou seja, se você quer assumir responsabilidade pelo povo de Israel, precisa da fé no sentido mais profundo da
-62	the word, and that is the meaning of the word "deah" or i'tikad, which we will now learn in chapter	palavra, e esse é o significado da palavra "deá" ou i'tikad, que vamos estudar agora no capítulo
+62	the word, and this is the meaning of the word "deah" or "i'tikad," which we will now learn in chapter	palavra, e esse é o significado da palavra "deá" ou "i'tikad", que vamos estudar agora no capítulo
 63	50.	50.
 64	Okay?	Certo?
 65	Huh?	Hã?
-66	You are saying, for most people the deep approach is not relevant.	Você está dizendo: para a maioria das pessoas a abordagem profunda não é relevante.
-67	Yes?	Sim?
-68	So you've convinced me that I am wrong.	Então você me convenceu de que estou errado.
+66	You say, for most people the in-depth approach is not relevant.	Você diz que, para a maioria das pessoas, a abordagem profunda não é relevante.
+67	Yes?	Certo?
+68	So you have convinced me that I am wrong.	Então você me convenceu de que estou errado.
 69	That is what you are saying.	É isso que você está dizendo.
 70	Most people think otherwise.	A maioria das pessoas pensa diferente.
-71	Fine.	Está bem.
+71	Okay.	Certo.
 72	So let them think, what...	Então que pensem, o quê...
 73	And then someone asked me, tell me, do you think that only you are right and all the others are wrong?	E então alguém me perguntou: diga, você acha que só você está certo e todos os outros estão errados?
 74	I answered, that is what every person who has an opinion thinks.	Respondi: é isso que pensa toda pessoa que tem uma opinião.
-75	If you have an opinion, then you think that whoever thinks like you is right and whoever doesn't, isn't.	Se você tem uma opinião, pensa que quem pensa como você está certo e quem não, não está.
+75	If you have an opinion, then you think that whoever thinks like you is right and whoever doesn't, isn't.	Se você tem uma opinião, então pensa que quem pensa como você está certo e quem não pensa, não.
 76	Simple.	Simples.
 77	That is true.	Isso é verdade.
-78	But also "even when he grows old he will not depart from it."	Mas também: "mesmo quando envelhecer não se desviará dele."
-79	What is "yazkin"?	O que é "yazkin"?
-80	That when he grows old, he already begins to understand things in depth.	Que quando envelhece, ele já começa a entender as coisas em profundidade.
-81	You begin from simple, natural faith, and you rise to a higher level.	Você começa da fé simples, natural, e sobe a um nível superior.
+78	But also "even when he grows old he will not depart from it."	Mas também "mesmo quando envelhecer, não se desviará dele".
+79	What is "yaziken" (grows old)?	O que é "yaziken" (envelhecer)?
+80	That when he grows old, he already begins to understand things in depth.	Que, quando ele envelhece, já começa a entender as coisas em profundidade.
+81	You start from simple, natural faith, and you rise to a higher level.	Você começa da fé simples, natural, e sobe a um nível mais elevado.
 82	Yes.	Sim.
 83	No.	Não.
-84	I repeat your interesting claim.	Repito a sua afirmação interessante.
-85	You say, in Judaism too there are things that cannot be proven, because we are faithful to traditions and	Você diz: no judaísmo também há coisas que não se podem provar, porque somos fiéis às tradições e
-86	not everything is clear, and sometimes we come up against or get stuck on a Halachah LeMoshe MiSinai.	nem tudo é claro, e às vezes esbarramos ou ficamos presos numa Halachá LeMoshe MiSinai.
+84	I repeat your interesting claim.	Repito a sua interessante objeção.
+85	You say, even in Judaism there are things that cannot be proven, because we are faithful to traditions and	Você diz: mesmo no judaísmo há coisas que não se pode provar, porque somos fiéis às tradições e
+86	not everything is clear, and sometimes we run into, or get stuck on, a halachah given to Moshe at Sinai.	nem tudo é claro, e às vezes esbarramos, ou empacamos, numa halachá de Moshe em Sinai.
 87	Did I understand your question correctly?	Entendi corretamente a sua pergunta?
-88	Answer: and how do we know that a Halachah LeMoshe MiSinai is true?	Resposta: e de onde sabemos que uma Halachá LeMoshe MiSinai é verdadeira?
-89	Is the tradition corroborated or not	A tradição é corroborada ou não
-90	corroborated?	é corroborada?
+88	Answer: and from where do we know that a halachah given to Moshe at Sinai is true?	Resposta: e de onde sabemos que uma halachá de Moshe em Sinai é verdadeira?
+89	Is the tradition corroborated or not	A tradição é confirmada ou não
+90	corroborated?	confirmada?
 91	Who said?	Quem disse?
-92	This is exactly what Rabbi Yehudah HaLevi says, not by chance, there is a Kuzari here.	É exatamente o que Rabi Yehudah HaLevi diz, não por acaso, há um Kuzari aqui.
-93	Because if I go by the Kuzari,	Porque se eu seguir o Kuzari,
-94	that is, by the plain sense of the Torah, the Holy One, blessed be He, has a body.	ou seja, pelo sentido simples da Torá, o Santo, bendito seja Ele, tem um corpo.
+92	This is exactly what Rabbi Yehuda HaLevi says, not by chance, there is a Kuzari here.	É exatamente o que Rabi Yehuda HaLevi diz, não por acaso, tenho aqui o Kuzari.
+93	Because if I go according to the Kuzari,	Porque se eu seguir o Kuzari,
+94	that is, according to the plain meaning of the Torah, the Holy One, blessed be He, has a body.	ou seja, segundo o sentido simples da Torá, o Santo, bendito seja, tem um corpo.
 95	How do I know He has a body?	Como sei que Ele tem um corpo?
 96	Because He spoke.	Porque Ele falou.
 97	How do I know He spoke?	Como sei que Ele falou?
 98	Because speech is a mouth, right?	Porque fala é boca, certo?
-99	From this it follows that the Holy One, blessed be He, has a mouth; if He has a mouth, He has a body.	Daí se conclui que o Santo, bendito seja Ele, tem boca; se tem boca, tem corpo.
-100	And this contradicts one of the Thirteen Principles of Faith, that God has no body and no likeness of a body, right?	E isso contradiz um dos Treze Princípios de Fé: que o Criador não tem corpo nem forma de corpo, certo?
-101	Well, I see it's hard for you to find a Kuzari; here is a Kuzari with Ibn Tibbon's translation,	Bem, vejo que é difícil para vocês encontrarem um Kuzari; aqui há um Kuzari com a tradução de Ibn Tibbon,
-102	that is something too.	isso também é alguma coisa.
+99	Hence the Holy One, blessed be He, has a mouth; if He has a mouth, He has a body.	Logo, o Santo, bendito seja, tem boca; se tem boca, tem corpo.
+100	And this contradicts one of the Thirteen Principles of Faith, that God has no body and no likeness of a body, right?	E isso contradiz um dos Treze Princípios de Fé, que Ele não tem corpo nem semelhança de corpo, certo?
+101	Well, I see it's hard for you to find a Kuzari; here is a Kuzari with the Ibn Tibbon translation,	Bem, vejo que é difícil para vocês encontrarem um Kuzari; aqui há um Kuzari com a tradução de Ibn Tibbon,
+102	that's also something.	isso também é alguma coisa.
 103	But why do you believe in the Revelation at Mount Sinai?	Mas por que você acredita na Revelação no Monte Sinai?
 104	Do you have proof that the Revelation at Mount Sinai indeed...	Você tem prova de que a Revelação no Monte Sinai de fato...
-105	And then is that enough for you or not enough.	E então isso é suficiente para você ou não é.
-106	If it is enough for you, it means that even the things that are not understood, you accept them because you know they are	Se é suficiente para você, isso quer dizer que mesmo as coisas não compreendidas, você as aceita porque sabe que são
+105	And then is that enough for you or is it not enough.	E então isso basta para você ou não basta.
+106	If it is enough for you, that means that even the things that are not understood, you accept them because you know they are	Se basta para você, isso quer dizer que mesmo as coisas que não são compreendidas, você as aceita porque sabe que são
 107	true.	verdadeiras.
-108	That is, if someone tells me something I don't understand, but I know he is	Ou seja, se alguém me diz algo que não entendo, mas sei que ele é
-109	trustworthy, then I accept his words.	digno de confiança, então aceito suas palavras.
-110	That is, it begins first of all with ascertaining a point of truth, and only afterwards	Ou seja, começa antes de tudo com a verificação de um ponto de verdade, e só depois
-111	we speak about...	falamos sobre...
-112	we speak about things not understood, but it is not that from the outset a person is required to believe in things not	falamos sobre coisas não compreendidas, mas não é que desde o início se exija da pessoa que creia em coisas não
+108	That is, if someone tells me something I don't understand, but I know that he is	Ou seja, se alguém me diz algo que não entendo, mas sei que ele é
+109	trustworthy, then I accept his words.	digno de confiança, então aceito as suas palavras.
+110	That is, it begins first of all with clarifying a point of truth, and only afterwards	Ou seja, começa primeiro com o esclarecimento de um ponto de verdade, e só depois
+111	we talk about...	falamos sobre...
+112	we talk about things not understood, but it's not that from the outset a person is required to believe in things not	falamos sobre coisas não compreendidas, mas não é que, desde o início, se exija que a pessoa acredite em coisas não
 113	understood.	compreendidas.
 114	Wait, wait.	Espere, espere.
 115	Wait, wait, wait, I'm looking in the Kuzari, slowly, slowly.	Espere, espere, espere, estou procurando no Kuzari, devagar, devagar.
-116	Please don't pressure me,	Por favor, não me apressem,
+116	Please don't pressure me,	Por favor, não me pressionem,
 117	please.	por favor.
-118	He said, my friend, I read here in the first treatise, paragraph 89, in the translation of	Ele disse: amigo, leio aqui no primeiro tratado, parágrafo 89, na tradução de
-119	Rabbi Yehudah ibn Tibbon.	Rabi Yehudah ibn Tibbon.
+118	He said, my friend, I am reading here in the first treatise, paragraph 89, in the translation of	Disse: amigo, estou lendo aqui no primeiro tratado, parágrafo 89, na tradução de
+119	Rabbi Yehuda ibn Tibbon.	Rabi Yehuda ibn Tibbon.

@@ -1,120 +1,120 @@
-120	harvest is half of Nisan, Iyar, and half of Sivan. Summer is the time	a colheita vai de metade de Nisan, Iyar e metade de Sivan. O verão é o tempo
+120	Harvest is half of Nisan, Iyar, and half of Sivan. Summer, and the time	A colheita é metade de Nisan, Iyar e metade de Sivan. Verão, e o tempo
 121	of cutting figs, when they dry them in the fields.	de cortar figos, quando os secam nos campos.
 122	And why is it called kayitz?	E por que se chama kayitz?
-123	As in "and the bread and the summer fruit for the young men to eat." What is kayitz?	Como em "e o pão e o fruto de verão para os rapazes comerem". O que é kayitz?
-124	Dried figs. That is why it is written at the end of Gemara Kiddushin, the Gemara says: I never saw	Figos secos. Por isso está escrito no fim da Guemará Kidushin, a Guemará diz: nunca vi
-125	a lion a porter, a fox a shopkeeper, and a deer	um leão carregador, uma raposa lojista, e um cervo
-126	a fig-dryer. What is kayitz?	secador de figos. O que é kayitz?
-127	One who dries figs. The heat is the end of the summer days, half of Av and Elul	Quem seca figos. O calor é o fim dos dias de verão, metade de Av e Elul
-128	and half of Tishrei, when the world is hottest, as we learned in tractate Yoma: the end of summer	e metade de Tishrei, quando o mundo está mais quente, como aprendemos no tratado Yomá: o fim do verão
-129	is harder than the summer itself. "And day and night shall not cease," from the general rule	é mais duro que o próprio verão. "E dia e noite não cessarão", da regra geral
-130	that they ceased all the days of the Flood, when the constellations did not function and day and night could not be told apart. Now they shall not cease, they will not	de que cessaram durante todos os dias do Dilúvio, quando as constelações não funcionaram e não se distinguia dia de noite. Agora não cessarão, não
-131	stop; none of these will stop behaving in their order.	vão parar; nenhuma delas deixará de se comportar na sua ordem.
-132	The Gemara learns from this verse, "day and night shall not cease," that a gentile is forbidden to	A Guemará aprende deste versículo, "dia e noite não cessarão", que é proibido a um gentio
-133	rest. That is, a gentile who keeps Shabbat is liable to death. A gentile who keeps Shabbat is liable to death.	descansar. Ou seja, o gentio que guarda Shabat merece a morte. O gentio que guarda Shabat merece a morte.
-134	Only a Jew, whom HaShem commanded to rest on Shabbat and to study Torah on Shabbat, is permitted to rest. Not merely permitted,	Só o judeu, a quem HaShem ordenou descansar no Shabat e estudar Torá no Shabat, tem permissão de descansar. Não apenas permissão,
-135	he is obligated to rest. But a gentile who rests is liable to death. So the commentators ask, there is a doubt.	ele é obrigado a descansar. Mas o gentio que descansa merece a morte. Então os comentaristas perguntam: há uma dúvida.
-136	This is discussed at great length, and it is well known that...	Isso é discutido longamente, e é bem conhecido que...
-137	Did our holy forefathers, before the giving of the Torah, have the status of a son of Noach or of a Jew?	Os nossos santos patriarcas, antes da entrega da Torá, tinham o estatuto de filho de Noach ou de judeu?
-138	Since they had not yet received the Torah.	Pois ainda não tinham recebido a Torá.
-139	Now, if we say they were sons of Noach, then they are forbidden to keep Shabbat.	Agora, se dissermos que eram filhos de Noach, então lhes é proibido guardar Shabat.
-140	If they were Jews, they are obligated to keep Shabbat.	Se eram judeus, são obrigados a guardar Shabat.
-141	So how did Avraham Avinu fulfill the entire Torah?	Então como Avraham Avinu cumpriu a Torá inteira?
-142	He rested on Shabbat. Maybe he is a son of Noach.	Ele descansou no Shabat. Talvez seja filho de Noach.
-143	So one of the beautiful answers, there are many answers, but one of the beautiful answers is that Avraham Avinu	Uma das respostas lindas, há muitas respostas, mas uma das respostas lindas é que Avraham Avinu
+123	As in "and the bread and the summer fruit for the young men to eat." What is kayitz?	Como em "e o pão e a fruta do verão para os rapazes comerem". O que é kayitz?
+124	Dried figs. That's why, at the end of Gemara Kiddushin, the Gemara says: I never saw	Figos secos. Por isso, no fim da Guemará Kidushin, a Guemará diz: nunca vi
+125	a lion a porter, a fox a shopkeeper, or a deer	um leão carregador, uma raposa lojista, nem um cervo
+126	a fig-dryer. What is a kayitz?	secador de figos. O que é um kayitz?
+127	A fig-dryer. The heat is the end of the hot season, half of Av and Elul	Um secador de figos. O calor é o fim da estação quente, metade de Av e Elul
+128	and half of Tishrei, when the world is hottest, as we learned in Yoma: the end of summer	e metade de Tishrei, quando o mundo está mais quente, como aprendemos em Yoma: o fim do verão
+129	is harder than the summer itself. "And day and night shall not cease" implies	é mais duro que o próprio verão. "E dia e noite não cessarão" implica
+130	that they had ceased all the days of the Flood, when the constellations did not serve and day and night could not be told apart. Now, "shall not cease":	que haviam cessado durante todos os dias do Dilúvio, quando as constelações não funcionaram e não se distinguia dia de noite. Agora, "não cessarão":
+131	none of these will stop behaving in their proper order.	nenhum destes deixará de seguir a sua ordem.
+132	The Gemara learns from this verse, "day and night shall not cease," that a gentile is forbidden to	A Guemará aprende deste versículo, "dia e noite não cessarão", que é proibido ao gentio
+133	rest. That is, a gentile who keeps Shabbat is liable to death. A gentile who keeps Shabbat is liable to death.	descansar. Ou seja, um gentio que guarda Shabat é passível de morte. Um gentio que guarda Shabat é passível de morte.
+134	Only a Jew, whom HaShem commanded to rest on Shabbat and to study Torah on Shabbat, is permitted to rest. Not merely permitted,	Só um judeu, a quem HaShem ordenou descansar no Shabat e estudar a Torá no Shabat, tem permissão de descansar. Não apenas permitido,
+135	he is obligated to rest. But a gentile who rests is liable to death. So the commentators ask: there is a doubt.	ele é obrigado a descansar. Mas um gentio que descansa é passível de morte. Então os comentaristas perguntam: há uma dúvida.
+136	This is discussed at great length and is well known:	Isto é discutido longamente e é muito conhecido:
+137	Did our holy forefathers, before the giving of the Torah, have the law of a son of Noach or the law of a Jew?	Os nossos santos patriarcas, antes da outorga da Torá, tinham o estatuto de filho de Noach ou o de judeu?
+138	For they had not yet received the Torah.	Pois ainda não tinham recebido a Torá.
+139	Now, if we say that they were sons of Noach, then they were forbidden to keep Shabbat.	Ora, se dissermos que eram filhos de Noach, então lhes era proibido guardar o Shabat.
+140	If they were Jews, they were obligated to keep Shabbat.	Se eram judeus, eram obrigados a guardar o Shabat.
+141	So how did Avraham Avinu fulfill the entire Torah?	Então como Avraham Avinu cumpriu toda a Torá?
+142	He rested on Shabbat. Maybe he was a son of Noach.	Ele descansou no Shabat. Talvez fosse filho de Noach.
+143	One of the beautiful answers (there are many answers, but one of the beautiful ones) is that Avraham Avinu	Uma das respostas lindas (há muitas respostas, mas uma das lindas) é que Avraham Avinu
 144	wore tzitzit.	usava tzitzit.
-145	Now, if he is a Jew, he wore it on Shabbat, and there is no problem with that.	Ora, se ele é judeu, usou no Shabat, e não há problema nenhum.
+145	Now, if he is a Jew, he wore it on Shabbat, and there is no problem with that.	Ora, se ele é judeu, usou-o no Shabat, e não há nenhum problema nisso.
 146	He is a Jew; it is a garment.	Ele é judeu; é uma roupa.
-147	But if he is a gentile, if he has the status of a son of Noach, then the tzitzit are a burden.	Mas se ele é gentio, se tem o estatuto de filho de Noach, então o tzitzit é uma carga.
-148	Why would he be obligated in tzitzit? Then it is just carrying objects.	Por que ele seria obrigado a tzitzit? Então é só carregar objetos.
+147	But if he is a gentile, if he has the law of a son of Noach, then the tzitzit are a load.	Mas se ele é gentio, se tem o estatuto de filho de Noach, então o tzitzit é uma carga.
+148	Why would he be obligated in tzitzit at all? So it is just carrying things around.	Por que ele seria obrigado a usar tzitzit? Então é apenas carregar coisas.
 149	He is forbidden to carry on Shabbat.	Ele está proibido de carregar no Shabat.
-150	So since he wore tzitzit, if he is a son of Noach he desecrated Shabbat, and if he is a Jew he kept Shabbat,	Assim, como usou tzitzit, se é filho de Noach profanou o Shabat, e se é judeu guardou o Shabat,
+150	So he wore tzitzit: if he is a son of Noach, he desecrated Shabbat, and if he is a Jew, he kept Shabbat,	Então ele usou tzitzit: se é filho de Noach, profanou o Shabat, e se é judeu, guardou o Shabat,
 151	and that is wonderful.	e isso é maravilhoso.
-152	We have reached chapter 9: "And Elokim blessed Noach and his sons, and said to them: Be fruitful and multiply and fill	Chegamos ao capítulo 9: "E Elokim abençoou Noach e seus filhos, e lhes disse: Frutificai e multiplicai-vos e enchei
-153	the earth." The Targum: And HaShem blessed Noach and his sons, and said to them: Be fruitful and multiply and fill	a terra." O Targum: E HaShem abençoou Noach e seus filhos, e lhes disse: Frutificai e multiplicai-vos e enchei
-154	the earth. Verse 2: "And the fear of you and the dread of you shall be	a terra. Versículo 2: "E o temor de vós e o pavor de vós estarão
-155	upon every beast of the earth and upon every bird of the heavens, upon all	sobre todo animal da terra e sobre toda ave dos céus, sobre tudo
-156	that moves on the ground and upon all the fish of the sea; into your hand they are given."	o que se move no solo e sobre todos os peixes do mar; em vossa mão foram entregues."
-157	The Targum: your fear and your dread shall be upon every beast of the earth and upon every bird of the sky, upon all that creeps upon	O Targum: o vosso temor e o vosso pavor estarão sobre todo animal da terra e sobre toda ave do céu, sobre tudo o que rasteja sobre
-158	the earth and upon all the fish of the sea; into your hands they will be delivered.	a terra e sobre todos os peixes do mar; em vossas mãos serão entregues.
-159	Rashi says: "and your dread" means your fear.	Rashi diz: "e o vosso pavor" é o vosso temor.
-160	Like "you see terror."	Como em "vedes o terror".
-161	Terror means fear.	Terror significa medo.
-162	And the Aggadah: the word "chayot" teaches that as long as a one-day-old infant is alive, it does not	E a Agadá: a palavra "chayot" ensina que enquanto um bebê de um dia está vivo, ele não
-163	need guarding.	precisa de guarda.
-164	You do not need to guard it from mice.	Não é preciso guardá-lo dos ratos.
-165	But Og, king of Bashan, even he, once dead, needs to be guarded from mice.	Mas Og, rei de Bashan, mesmo ele, depois de morto, precisa ser guardado dos ratos.
-166	As it is said: "and the fear of you and the dread of you shall be."	Como se diz: "e o temor de vós e o pavor de vós estarão".
-167	And until when will your fear be upon the animals?	E até quando o vosso temor estará sobre os animais?
+152	We have reached chapter 9: "And Elokim blessed Noach and his sons, and said to them: Be fruitful and multiply and fill	Chegamos ao capítulo 9: "E Elokim abençoou Noach e seus filhos, e lhes disse: Frutificai, multiplicai-vos e enchei
+153	the earth." And the Targum: "And HaShem blessed Noach and his sons, and said to them: Be fruitful and multiply and fill	a terra." E o Targum: "E HaShem abençoou Noach e seus filhos, e lhes disse: Frutificai, multiplicai-vos e enchei
+154	the earth." Verse 2: "And the fear of you and the dread of you shall be	a terra." Versículo 2: "E o temor de vós e o pavor de vós estarão
+155	upon every beast of the earth and upon every bird of the heavens, in all	sobre todo animal da terra e sobre toda ave dos céus, em tudo
+156	that moves on the ground and in all the fish of the sea; into your hand they are given."	o que se move no solo e em todos os peixes do mar; em vossa mão foram entregues."
+157	The Targum: "Your fear and your dread shall be upon every beast of the earth and upon every bird of the sky, in all that creeps	O Targum: "Vosso temor e vosso pavor estarão sobre todo animal da terra e sobre toda ave do céu, em tudo o que rasteja
+158	on the earth and in all the fish of the sea; into your hands they shall be delivered."	na terra e em todos os peixes do mar; em vossas mãos serão entregues."
+159	Rashi says: "And your dread" means your fear.	Rashi diz: "E o vosso pavor" significa o vosso temor.
+160	As in "you see a terror."	Como em "vedes um terror".
+161	"Terror" means fear.	"Terror" significa medo.
+162	And the Aggadah: the word "chayot" (animals)—as long as an infant of one day is alive, he	E a Agadá: a palavra "chayot" (animais): enquanto um bebê de um dia está vivo, ele
+163	needs no guarding.	não precisa de guarda.
+164	No, you don't need to guard him from the mice.	Não, não é preciso guardá-lo dos ratos.
+165	But if even Og, king of Bashan, dies, he needs to be guarded from the mice.	Mas se até Og, rei de Bashan, morre, precisa ser guardado dos ratos.
+166	As it says: "And the fear of you and the dread of you shall be."	Como está dito: "E o temor de vós e o pavor de vós estarão."
+167	So when will your fear be upon the animals?	Então quando o vosso temor estará sobre os animais?
 168	As long as you are alive.	Enquanto estiverdes vivos.
-169	Verse 3: "Every moving thing that lives shall be food for you; as the green	Versículo 3: "Todo ser que se move e vive vos servirá de alimento; como a erva
-170	herb I have given you all." The Targum: every creeping thing that lives shall be for you	verde, tudo vos dei." O Targum: todo ser rastejante que vive será para vós
-171	to eat; as the green herb I have given you all. Rashi says: I did not permit Adam HaRishon	para comer; como a erva verde tudo vos dei. Rashi diz: não permiti a Adam HaRishon
-172	meat, only green herb. Before the Flood it was forbidden to eat meat, any meat, only	carne, apenas erva verde. Antes do Dilúvio era proibido comer carne, qualquer carne, só
-173	vegetarian. "As the green herb," that I made available	vegetariano. "Como a erva verde", que coloquei à disposição
-174	to Adam HaRishon, I have given you all; you are permitted to eat meat.	de Adam HaRishon, tudo vos dei; vos é permitido comer carne.
+169	Verse 3: "Every moving thing that lives shall be food for you; like the green herb	Versículo 3: "Todo ser que se move e vive será alimento para vós; como a erva verde
+170	I have given you all." The Targum: "Every creeping thing that is alive	eu vos dei tudo." O Targum: "Todo ser rastejante que vive
+171	shall be yours to eat; like the green herb I have given you all." Rashi says: I did not permit Adam HaRishon	será para vós alimento; como a erva verde eu vos dei tudo." Rashi diz: eu não permiti a Adam HaRishon
+172	meat, only the green herb. Before the Flood it was forbidden to eat meat, any meat, only	carne, apenas a erva verde. Antes do Dilúvio era proibido comer carne, qualquer carne, apenas
+173	vegetarian. "And for you, like the green herb," which I permitted	vegetariano. "E para vós, como a erva verde", que eu permiti
+174	to Adam HaRishon, I have given you all; you are permitted to eat meat.	a Adam HaRishon, eu vos dei tudo; vos é permitido comer carne.
 175	Why?	Por quê?
-176	It is simple.	É simples.
-177	After all, Noach saved all of creation, so if he saved it, he is permitted to eat it. That is it.	Afinal, Noach salvou toda a criação; então, se ele a salvou, pode comê-la. É isso.
-178	So that is it: because of Noach we are permitted to eat meat?	Então é isso: por causa de Noach nos é permitido comer carne?
-179	There is a very beautiful story about Reb Bero of Parovitz.	Há uma história muito bonita sobre Reb Bero de Parovitz.
-180	He was a great tzaddik, and one day one of his chasidim came to him and asked him: I would	Ele era um grande tsadik, e um dia um de seus chassidim veio a ele e perguntou: eu gostaria
+176	It's simple.	É simples.
+177	Noach saved all of creation, so since he saved it, he is permitted to eat it.	Noach salvou toda a criação, então, já que a salvou, ele pode comê-la.
+178	So that's it. So because of Noach we are permitted to eat meat?	Então é isso. Então, por causa de Noach, nos é permitido comer carne?
+179	There is a very beautiful story about the Rebbe of Pruvitz.	Há uma história muito bonita sobre o Rebe de Pruvitz.
+180	He was a great tzaddik, and one day one of his chasidim came to him and asked him: I would	Ele era um grande tsadik, e um dia um dos seus chassidim veio a ele e perguntou: eu gostaria
 181	like guidance in matters of eating, since eating is, after all, a coarse matter.	de orientação em assuntos de alimentação, pois comer é, afinal, algo grosseiro.
-182	So may the Rebbe guide me: how do I serve HaShem in eating?	Então que o Rebe me oriente: como sirvo a HaShem ao comer?
-183	The Rebbe said to him: Excellent, good that you asked, listen.	O Rebe lhe disse: ótimo, ainda bem que perguntou, escute.
-184	When you sit with some friends to eat and there is a bowl, you do not touch.	Quando você se senta com alguns amigos para comer e há uma tigela, não toque.
-185	Think first: how am I better than the animal that I am eating?	Pense antes: em que sou melhor que o animal que estou comendo?
-186	What, just because it is weak and I am strong, is that a reason to eat it?	Será que só porque ele é fraco e eu sou forte isso é motivo para comê-lo?
-187	And think: how am I better than the animal?	E pense: em que sou melhor que o animal?
-188	And after you have considered this matter, then you may eat.	E depois de ponderar sobre isso, então pode comer.
-189	This chasid says to him: But Rebbe, if I start thinking like that, by the time I finish thinking, nothing will be left	Esse chassid lhe diz: mas Rebe, se eu começar a pensar assim, quando terminar de pensar não vai sobrar nada
+182	So let the Rebbe guide me: how do I serve HaShem through eating?	Então que o Rebe me oriente: como sirvo a HaShem através da alimentação?
+183	The Rebbe said to him: Excellent, it's good that you asked, listen.	O Rebe lhe disse: Excelente, é bom que tenhas perguntado, escuta.
+184	When you sit with some friends to eat and there is a bowl, you don't touch it.	Quando te sentas com alguns amigos para comer e há uma tigela, não toques.
+185	First think: how am I better than the animal that I am eating?	Pensa primeiro: em que sou melhor que o animal que estou comendo?
+186	What, just because it is weak and I am strong, is that a reason to eat?	Quê, só porque ele é fraco e eu sou forte, isso é motivo para comer?
+187	And think: how am I better than the animal?	E pensa: em que sou melhor que o animal?
+188	And after you have pondered this matter, then you may eat.	E depois de refletires sobre isso, então podes comer.
+189	This chasid says to him: But Rebbe, if I start thinking like that, by the time I finish thinking, nothing will be left	Esse chassid lhe diz: Mas Rebe, se eu começar a pensar assim, até eu terminar de pensar, não sobrará nada
 190	in the bowl.	na tigela.
-191	The Rebbe said to him: No, that I never imagined.	O Rebe lhe disse: não, isso eu nunca imaginei.
-192	Don't you know that a person does not touch what is prepared for his fellow? That one I did not think happens	Você não sabe que ninguém toca no que está preparado para o seu companheiro? Esta eu não pensei que acontecesse
-193	with you.	com você.
-194	You come to ask for guidance in divine service?	Você vem pedir orientação no serviço a HaShem?
-195	Obviously a person does not touch what is prepared for his fellow. What do you mean, if you think nothing will be left for you?	Claro que ninguém toca no que está preparado para o companheiro. Como assim, se você pensar, não sobrará nada para você?
-196	Continuing on, verse 4: "But flesh with its life, its blood,	Seguindo adiante, versículo 4: "Mas carne com a sua vida, o seu sangue,
-197	you shall not eat." The Targum: but flesh with its life, its blood, you shall not eat. Rashi: "flesh with its life"	não comereis." O Targum: mas carne com a sua vida, o seu sangue, não comereis. Rashi: "carne com a sua vida"
-198	He forbade them a limb from a living animal, that is, as long as its life is in it, do not eat	Proibiu-lhes o membro de animal vivo, isto é, enquanto a sua vida estiver nele, não comais
-199	the flesh. "With its life, its blood": while its life is in it. "Flesh with its life," do not eat,	a carne. "Com a sua vida, o seu sangue": enquanto a sua vida estiver nele. "Carne com a sua vida", não comais,
-200	that is a limb from the living; and even "with its life, its blood" do not eat, that is blood from the living.	isso é membro de animal vivo; e até "com a sua vida, o seu sangue" não comais, isso é sangue de animal vivo.
-201	The next verse: "And surely your blood of your lives I will require;	O versículo seguinte: "E certamente o sangue das vossas vidas, eu o exigirei;
-202	from the hand of every beast I will require it, and from the hand of man, from the hand of each man's brother	da mão de todo animal o exigirei, e da mão do homem, da mão do irmão de cada homem
-203	I will require the soul of man."	exigirei a alma do homem."
-204	The Targum: and surely your blood, for your souls, I will require; from every beast I will require it, and from man, from the hand of a man's brother	O Targum: e certamente o vosso sangue, pelas vossas almas, eu exigirei; de todo animal o exigirei, e do homem, da mão do irmão de cada homem
-205	I will require the soul of man. Rashi:	exigirei a alma do homem. Rashi:
-206	"And surely your blood": even though I permitted you to take life from an animal, "surely your blood" I will require	"E certamente o vosso sangue": embora eu vos tenha permitido tirar a vida de um animal, "certamente o vosso sangue" eu exigirei
-207	of the one who sheds his own blood. That is, who is being spoken of here?	de quem derrama o próprio sangue. Ou seja, de quem se fala aqui?
-208	Of one who lays a hand on his own life. "For your lives": not only if he killed himself and blood came out,	De quem levanta a mão contra a própria vida. "Pelas vossas vidas": não só se matou a si mesmo e saiu sangue,
-209	even one who strangles himself, although no blood came out of him, I too will require it of him.	mesmo quem se sufoca, ainda que não tenha saído sangue, também eu o exigirei dele.
-210	A person is forbidden to lay a hand on his own life.	É proibido à pessoa levantar a mão contra a própria vida.
-211	"From the hand of every beast": since the generation of the Flood sinned and were abandoned as food for wild beasts to rule over them,	"Da mão de todo animal": porque a geração do Dilúvio pecou e foi abandonada como alimento para as feras dominarem sobre ela,
-212	as it is said "he is like the beasts that perish," therefore He had to warn the animals not to eat people,	como se diz "é semelhante aos animais que perecem", por isso foi preciso advertir os animais a não comerem pessoas,
-213	"and from the hand of man": from one who kills intentionally with no witnesses, I will require.	"e da mão do homem": de quem mata intencionalmente sem testemunhas, eu exigirei.
-214	About this Rashi says: if a person killed someone and no one saw, all right, the Holy One, blessed be He, will not	Sobre isso Rashi diz: se alguém matou outro e ninguém viu, tudo bem, o Santo, bendito seja Ele, não
-215	let it go. He saw, and He will never let it go. He will require it, "from the hand of a man's	vai deixar passar. Ele viu, e jamais deixará passar. Ele exigirá, "da mão do irmão
-216	brother": from one who loves him like a brother and killed him unintentionally, I will require. If he does not	de cada homem": de quem o ama como a um irmão e o matou sem intenção, eu exigirei. Se ele não
-217	go into exile, he must go into exile to a city of refuge, and if he does not go into exile, if he	for para o exílio, deve ir para uma cidade de refúgio, e se ele não for para o exílio, se ele
-218	does not go into exile and ask that his sin be forgiven, since even the unintentional needs atonement, and if there are no witnesses to convict him,	não for para o exílio e não pedir que a sua culpa seja perdoada, pois até o involuntário precisa de expiação, e se não há testemunhas para condená-lo,
-219	and he does not submit, then the Holy One, blessed be He, requires it of him.	e ele não se submete, então o Santo, bendito seja Ele, exige isso dele.
-220	So this is what the Holy One, blessed be He, says: "from the hand of a man's brother, I will require."	Então é isto que o Santo, bendito seja Ele, diz: "da mão do irmão de cada homem, eu exigirei."
-221	As our Rabbis expounded, "and Elokim caused it to come into his hand," what is this?	Como expuseram os nossos sábios, "e Elokim o fez vir à sua mão", o que é isso?
-222	That the Holy One, blessed be He, brings them together at one inn.	Que o Santo, bendito seja Ele, os reúne numa mesma estalagem.
-223	It speaks of two people: one murdered intentionally and no one saw, one killed unintentionally and no one saw.	Fala-se de duas pessoas: uma matou intencionalmente e ninguém viu, outra matou sem intenção e ninguém viu.
-224	The Holy One, blessed be He, brings them to one inn; this one climbs the ladder, that one stands below, he falls on him, kills	O Santo, bendito seja Ele, os leva a uma estalagem; este sobe a escada, aquele fica embaixo, ele cai sobre ele e o mata;
-225	him. So the one who murdered intentionally dies, and the one who killed unintentionally, this time there were witnesses, and then he goes	assim morre quem matou intencionalmente, e quem matou sem intenção, desta vez houve testemunhas, e então ele vai
-226	to the city of refuge.	para a cidade de refúgio.
-227	Yes, there is the Daat Zekenim of the Baalei HaTosafot here on this verse, "And surely your blood of	Sim, há aqui o Daat Zekenim dos Baalei HaTosafot sobre este versículo, "E certamente o sangue
-228	your lives I will require," that is, one who commits suicide.	das vossas vidas eu exigirei", isto é, quem comete suicídio.
-229	It is known that in times of the decrees, the Crusades,	Sabe-se que nos tempos das perseguições, as Cruzadas,
-230	whole communities killed themselves, because they feared they would not withstand the test and would have to bow down	comunidades inteiras se mataram, por temerem não resistir à prova e ter de se prostrar
+191	The Rebbe said to him: No, that I never dreamed of.	O Rebe lhe disse: Não, isso eu nunca imaginei.
+192	Don't you know that a person does not touch what is prepared for his friend, even if	Não sabes que ninguém toca no que está preparado para o seu companheiro, mesmo que
+193	it was not given? No, I never thought that would happen with you.	não tenha sido dado? Não, nunca pensei que isso acontecesse contigo.
+194	You come to ask about divine service?	Vens perguntar sobre o serviço a HaShem?
+195	Obviously a person does not touch what is prepared for his friend. What do you mean, if you think, nothing will be left for you?	É claro que ninguém toca no que está preparado para o seu companheiro. Como assim, se pensares, nada sobrará para ti?
+196	Continuing on, verse 4: "But flesh with its life, its blood,	Continuando, versículo 4: "Mas carne com a sua vida, o seu sangue,
+197	you shall not eat." The Targum says the same. Rashi: "flesh with its life"	não comereis." O Targum diz o mesmo. Rashi: "carne com a sua vida"
+198	He forbade them a limb from a living animal, meaning: as long as its life is in it, do not eat	proibiu-lhes um membro de animal vivo, ou seja: enquanto a sua vida estiver nele, não comais
+199	the flesh with its life, its blood. While its life is still in it, "flesh with its life" do not eat:	a carne com a sua vida, o seu sangue. Enquanto a sua vida ainda está nele, "carne com a sua vida" não comais:
+200	that is a limb from the living animal. And even "with its life, its blood" do not eat; that is blood from the living animal.	isso é um membro de animal vivo. E mesmo "com a sua vida, o seu sangue" não comais; isso é sangue de animal vivo.
+201	The next verse: "And surely your blood of your lives	O versículo seguinte: "E certamente o vosso sangue, de vossas vidas,
+202	I will require; from the hand of every beast I will require it, and from the hand of man, from the hand of every man's brother I will require	eu requererei; da mão de todo animal o requererei, e da mão do homem, da mão de cada irmão do homem requererei
+203	the life of man."	a vida do homem."
+204	The Targum: "And surely your blood for your lives I will require; from every beast I will demand it, and from man, from the hand of each man's brother I will demand	O Targum: "E certamente o vosso sangue pelas vossas vidas requererei; de todo animal o exigirei, e do homem, da mão do irmão de cada um exigirei
+205	the soul of man." Rashi:	a vida do homem." Rashi:
+206	"And surely your blood": Although I permitted you to take the life of an animal, "but your blood I will require,"	"E certamente o vosso sangue": Embora eu vos tenha permitido tirar a vida de um animal, "mas o vosso sangue requererei",
+207	"and I will spill his own blood." This means, who is being spoken of here?	"e derramarei o seu próprio sangue". Isto quer dizer: de quem se fala aqui?
+208	Of one who lays a hand on himself. "For your lives": not only if he killed himself and blood came out,	De quem estende a mão contra si mesmo. "Por vossas vidas": não só se ele se matou e saiu sangue,
+209	but even one who strangles himself, even though no blood came out of him, I too will require it from him.	mas até quem se estrangula, ainda que não tenha saído sangue dele, também dele eu requererei.
+210	A person is forbidden to lay a hand on himself.	É proibido a uma pessoa estender a mão contra si mesma.
+211	"From the hand of every beast": because the generation of the Flood sinned and were abandoned as food for wild beasts to rule over them,	"Da mão de todo animal": porque a geração do Dilúvio pecou e foi abandonada como alimento para feras dominarem sobre ela,
+212	as it says, "he is like the beasts that perish," therefore He needs to warn the beasts about them, that they not eat human beings,	como está dito: "é semelhante às bestas que perecem"; por isso era preciso advertir os animais a respeito deles, para que não comessem seres humanos,
+213	"and from the hand of man": from one who kills intentionally and there are no witnesses, I will require.	"e da mão do homem": de quem mata intencionalmente sem que haja testemunhas, eu requererei.
+214	Rashi says about this: if there is a person who killed someone and nobody saw, perfectly fine, HaShem will not	Rashi diz sobre isso: se há alguém que matou outra pessoa e ninguém viu, tudo bem, HaShem não
+215	let him off; He still will not absolve him, ever. He saw, and He will require "from the hand of every man's	o deixará livre; ainda assim nunca o absolverá. Ele viu, e requererá "da mão de cada
+216	brother": from one who loves him as a brother and killed him unintentionally, I will require. If he does not	irmão": de quem o ama como a um irmão e o matou sem intenção, eu requererei. Se ele não
+217	go into exile (he must go into exile to a city of refuge), and if he does not	for para o exílio (ele deve ir para o exílio numa cidade de refúgio), e se ele não
+218	go into exile and ask that his sin be forgiven, since even the unintentional needs atonement, and if there are no witnesses to convict him,	for para o exílio e não pedir que o seu pecado seja perdoado, pois até o involuntário precisa de expiação, e se não há testemunhas para condená-lo,
+219	and he does not submit, then HaShem requires it from him.	e ele não se submete, então HaShem o exige dele.
+220	So this is what HaShem says: "from the hand of every man's brother I will require."	Então é isto que HaShem diz: "da mão de cada irmão do homem requererei."
+221	As our Sages expounded: "and Elokim caused it to come to his hand." What is this?	Como expuseram os nossos Sábios: "e Elokim o fez ocorrer à sua mão." O que é isto?
+222	That HaShem brings them together at one inn.	Que HaShem os reúne numa mesma estalagem.
+223	It speaks there of two men: one murdered intentionally and nobody saw, one killed unintentionally and nobody saw.	Fala ali de dois homens: um assassinou intencionalmente e ninguém viu, outro matou sem intenção e ninguém viu.
+224	HaShem brings them to one inn; this one climbs a ladder, that one stands below, he falls on him and kills	HaShem os leva a uma mesma estalagem; este sobe numa escada, aquele fica embaixo, ele cai sobre ele e o mata;
+225	him. So the one who murdered intentionally dies, and as for the one who killed unintentionally, this time there were witnesses, and then he goes	assim morre quem assassinou intencionalmente, e quem matou sem intenção, desta vez houve testemunhas, e então ele vai
+226	to a city of refuge.	para uma cidade de refúgio.
+227	Yes, the Daat Zekenim of the Baalei HaTosafot here on this verse, "But your blood of your lives	Sim, o Daat Zekenim dos Baalei HaTosafot aqui, neste versículo: "Mas o vosso sangue, de vossas vidas,
+228	I will require," that is, one who commits suicide.	requererei", isto é, quem comete suicídio.
+229	It is known that at the time of the decrees, the Crusades,	É sabido que no tempo dos decretos, as Cruzadas,
+230	whole communities killed themselves, because they feared they would not withstand the test and would have to bow down	comunidades inteiras se mataram, porque temiam não resistir à prova e ter de se prostrar
 231	to the idol.	diante do ídolo.
-232	More than that, they killed children as well, because they knew the children would not be able to withstand	Mais ainda, mataram também crianças, porque sabiam que as crianças não conseguiriam resistir
-233	this.	a isso.
+232	More than that, they killed children too, because they knew the children would not be able to withstand	Mais que isso, mataram também crianças, porque sabiam que as crianças não conseguiriam resistir
+233	it.	a isso.
 234	Did they do well or did they not do well?	Fizeram bem ou não fizeram bem?
-235	The Daat Zekenim of the Baalei HaTosafot discusses this here; it is worth seeing inside.	O Daat Zekenim dos Baalei HaTosafot trata disso aqui; vale a pena ver no texto.
-236	He brings there that there were two opinions on this; it is worth seeing inside, we will not elaborate.	Ele traz ali que havia duas opiniões sobre isso; vale a pena ver no texto, não vamos nos alongar.
-237	Verse 6: "Whoever sheds the blood of man, by man shall his blood be shed, for in the image of Elokim He made man."	Versículo 6: "Quem derramar o sangue do homem, pelo homem seu sangue será derramado, pois à imagem de Elokim Ele fez o homem."
-238	The Targum: whoever sheds the blood of a man, by witnesses his blood shall be shed, by the word of the judges; for in the image of HaShem	O Targum: quem derramar o sangue de um homem, por testemunhas o seu sangue será derramado, pela palavra dos juízes; pois à imagem de HaShem
-239	He made man. Rashi says: what is "by man"? One who sheds man's blood, if there are witnesses	Ele fez o homem. Rashi diz: o que é "pelo homem"? Quem derrama sangue humano, se há testemunhas
+235	This is discussed here by the Daat Zekenim of the Baalei HaTosafot; it is worth seeing inside.	Isto é discutido aqui pelo Daat Zekenim dos Baalei HaTosafot; vale a pena ver lá.
+236	He brings there that there were two opinions about this. It is worth seeing inside; we won't elaborate.	Ele traz ali que havia duas opiniões sobre isso. Vale a pena ver lá; não vamos nos alongar.
+237	Verse 6: "Whoever sheds the blood of man, by man shall his blood be shed, for in the image of Elokim He made man."	Versículo 6: "Quem derramar o sangue do homem, pelo homem o seu sangue será derramado, pois à imagem de Elokim Ele fez o homem."
+238	The Targum: "Whoever sheds the blood of man, by witnesses his blood shall be shed, for in the image of HaShem He made	O Targum: "Quem derramar o sangue do homem, por testemunhas o seu sangue será derramado, pois à imagem de HaShem Ele fez
+239	man." Rashi says: what is "by man"? "Whoever sheds the blood of man": if there are witnesses	o homem." Rashi diz: o que é "pelo homem"? "Quem derramar o sangue do homem": se há testemunhas
