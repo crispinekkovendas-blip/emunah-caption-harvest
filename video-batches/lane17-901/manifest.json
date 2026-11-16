@@ -2,7 +2,7 @@
  "name": "lane17-901",
  "lane": 17,
  "created": "2026-11-16T00:23:07.865Z",
- "status": "pending",
+ "status": "done",
  "repair": "lines taken back by Claude in its own reply, translated again (scripts/batch-repair.mjs)",
  "repairLines": {
   "2d6bb1pZwRM": [
@@ -1017,5 +1017,17 @@
   "y-CLdvsfxZw.p10",
   "y-CLdvsfxZw.p11",
   "y-CLdvsfxZw.p12"
- ]
+ ],
+ "tries": {},
+ "done": [
+  "2d6bb1pZwRM",
+  "PZyPRVgmpz0",
+  "eisn3_BRpSI",
+  "5DwqNZR6hQU",
+  "dK9lf7YExWI",
+  "MRJwMq-Y5UE",
+  "VkBM9NIZbxw",
+  "y-CLdvsfxZw"
+ ],
+ "skipped": []
 }
