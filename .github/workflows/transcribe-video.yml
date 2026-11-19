@@ -1,0 +1,82 @@
+name: Transcribe any video (WhisperX)
+
+# 2026-11-19 (the owner: "make github run a script to transcribe I think its WhisperX, transcribe this video").
+# One video, any language, outside the lessons pipeline: the runner downloads the audio (signed in with
+# YT_COOKIES, as meir-new.yml does - YouTube refuses the runners without it), WhisperX writes the words and
+# times them, and the transcript leaves as the run's artifact. Nothing goes to the library or into the repo.
+# See scripts/transcribe_video.py.
+#
+#   gh workflow run transcribe-video.yml -f url=https://www.youtube.com/watch?v=UluhSbOzPVI
+#   gh workflow run transcribe-video.yml -f url=<link or YouTube id> -f lang=pt -f model=large-v3
+#   gh run download <run id> -n transcript -D transcripts      (txt to read, srt, json with word times)
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'Video link (or a YouTube id)'
+        required: true
+      lang:
+        description: 'Spoken language (en, pt, es, he ...); empty = Whisper detects it'
+        default: ''
+      model:
+        description: 'large-v3-turbo (fast) or large-v3 (several times slower, a little more exact)'
+        default: 'large-v3-turbo'
+
+permissions:
+  contents: read
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: scripts
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          python -m pip install --quiet whisperx "yt-dlp[default]" curl-cffi
+          yt-dlp --version
+      - name: Audio
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
+          VIDEO: ${{ inputs.url }}
+        run: |
+          case "$VIDEO" in
+            http*) url="$VIDEO" ;;
+            *) url="https://www.youtube.com/watch?v=$VIDEO" ;;
+          esac
+          mkdir -p dl
+          args=(--js-runtimes node --no-playlist -f bestaudio/best --write-info-json -o "dl/%(id)s.%(ext)s")
+          ok=0
+          if [ -n "$YT_COOKIES" ]; then
+            printf '%s\n' "$YT_COOKIES" > "$RUNNER_TEMP/cookies.txt"
+            # yt-dlp wants the Netscape header line; a secret set from grep output has none
+            head -1 "$RUNNER_TEMP/cookies.txt" | grep -q '^# Netscape' || sed -i '1i # Netscape HTTP Cookie File' "$RUNNER_TEMP/cookies.txt"
+            if yt-dlp "${args[@]}" --cookies "$RUNNER_TEMP/cookies.txt" -- "$url"; then ok=1; else echo "::warning::refused with the cookies - trying without them"; fi
+            rm -f "$RUNNER_TEMP/cookies.txt"
+          fi
+          if [ "$ok" = 0 ]; then
+            rm -rf dl && mkdir -p dl
+            yt-dlp "${args[@]}" -- "$url" || { echo "::error::the download was refused - for YouTube the YT_COOKIES secret is probably stale (export a fresh cookies.txt)"; exit 1; }
+          fi
+          ls -la dl
+      - name: Transcribe
+        env:
+          SPOKEN: ${{ inputs.lang }}
+          MODEL: ${{ inputs.model }}
+        run: python -u scripts/transcribe_video.py --dir dl --out out --lang "$SPOKEN" --model "$MODEL"
+      # only out/ leaves the runner: the download's .info.json stays behind
+      - uses: actions/upload-artifact@v4
+        with:
+          name: transcript
+          path: out/
+          if-no-files-found: error
